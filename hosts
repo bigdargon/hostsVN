@@ -194,6 +194,7 @@
 0.0.0.0 t.gammaplatform.com
 0.0.0.0 tag.gammaplatform.com
 0.0.0.0 imp.gammaplatform.com
+0.0.0.0 hb.gammaplatform.com
 #[yomedia & pinetech]
 0.0.0.0 yomedia.vn
 0.0.0.0 static.yomedia.vn
@@ -224,4 +225,13 @@
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 static.careerbuilder.vn
 0.0.0.0 static.criteo.net
+0.0.0.0 marketo.com
+0.0.0.0 moat.com
+0.0.0.0 moatads.com
+0.0.0.0 z.moatads.com
+0.0.0.0 serving-sys.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 gs.serving-sys.com
+0.0.0.0 origin-gizmo.serving-sys.com
+0.0.0.0 detik.serving-sys.com
 # ----------- End hosts -----------
