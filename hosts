@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Updated: 30 Jun 2018
+# Updated: 02 Jul 2018
 # Please report any unblocked ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/issues
 # Homepage: https://github.com/bigdargon/hostsVN/
@@ -281,6 +281,7 @@
 # ---------------------------------
 # --- Block page ads & analysis ---
 # ---------------------------------
+0.0.0.0 images.dmca.com
 0.0.0.0 ad.org.vn
 0.0.0.0 static.ad.org.vn
 0.0.0.0 stc.nas.nixcdn.com
@@ -303,6 +304,8 @@
 0.0.0.0 quangcao.24h.com.vn
 0.0.0.0 ad.24h.com.vn
 0.0.0.0 ad.vatgia.com
+0.0.0.0 ad.mwork.vn
+0.0.0.0 delivery.senvangvn.com
 # ---------------------------------
 # ------------ TESTING ------------
 # ---------------------------------
