@@ -215,6 +215,14 @@
 0.0.0.0 ads.heyzap.com
 0.0.0.0 med.heyzap.com
 0.0.0.0 x.heyzap.com
+#[smartadserver]
+0.0.0.0 smartadserver.com
+0.0.0.0 blog.smartadserver.com
+0.0.0.0 gallery.smartadserver.com
+0.0.0.0 jobs.smartadserver.com
+0.0.0.0 eqx.smartadserver.com
+0.0.0.0 preview.smartadserver.com
+0.0.0.0 tmk.smartadserver.com
 # ---------------------------------
 # ------ Block by statistics ------
 # ---------------------------------
@@ -281,13 +289,13 @@
 # ---------------------------------
 # --- Block page ads & analysis ---
 # ---------------------------------
-0.0.0.0 images.dmca.com
+#[ads]
+0.0.0.0 ad.24h.com.vn
+0.0.0.0 quangcao.24h.com.vn
+0.0.0.0 ad.zing.vn
 0.0.0.0 ad.org.vn
 0.0.0.0 static.ad.org.vn
-0.0.0.0 stc.nas.nixcdn.com
-0.0.0.0 log.news.zing.vn
 0.0.0.0 quangcao.thanhnien.vn
-0.0.0.0 s.tuoitre.vn
 0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.careerbuilder.vn
 0.0.0.0 ads1.careerbuilder.vn
@@ -295,24 +303,25 @@
 0.0.0.0 moat.com
 0.0.0.0 moatads.com
 0.0.0.0 z.moatads.com
-0.0.0.0 api-log-analytics.cloud.toast.com
-0.0.0.0 adchoice.com.vn
 0.0.0.0 adchoice.com
+0.0.0.0 adchoice.com.vn
 0.0.0.0 qc.yan.vn
 0.0.0.0 ads.ookla.com
-0.0.0.0 thongke.24h.com.vn
-0.0.0.0 quangcao.24h.com.vn
-0.0.0.0 ad.24h.com.vn
 0.0.0.0 ad.vatgia.com
 0.0.0.0 ad.mwork.vn
 0.0.0.0 delivery.senvangvn.com
+#[analysis]
+0.0.0.0 images.dmca.com
+0.0.0.0 s.tuoitre.vn
+0.0.0.0 log.news.zing.vn
+0.0.0.0 thongke.24h.com.vn
+0.0.0.0 api-log-analytics.cloud.toast.com
 # ---------------------------------
 # ------------ TESTING ------------
 # ---------------------------------
 0.0.0.0 clix.vn
 0.0.0.0 ad-hn.24hstatic.com
 0.0.0.0 ad-hcm.24hstatic.com
-0.0.0.0 ad.zing.vn
 0.0.0.0 123c.vn
 0.0.0.0 adfox.vn
 0.0.0.0 cytoclause.com
@@ -326,7 +335,6 @@
 0.0.0.0 s1.download123.com
 0.0.0.0 click.xdeal.vn
 0.0.0.0 shopdunk.baomoi.com
-0.0.0.0 media.adtimaserver.vn 
 0.0.0.0 bom.baomoi.com
 0.0.0.0 1phads.com
 0.0.0.0 go.pub2srv.com
@@ -728,7 +736,6 @@
 0.0.0.0 aimatch.com
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
-0.0.0.0 smartadserver.com
 0.0.0.0 taboolasyndication.com
 0.0.0.0 taboola.com
 0.0.0.0 tradedoubler.com
