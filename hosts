@@ -1,0 +1,193 @@
+# Title: hostsVN
+# Updated: 30 Jun 2018
+# Please report any unblocked ads or problems by github
+# Github: https://github.com/bigdargon/hostsVN/issues
+# Homepage: https://github.com/bigdargon/hostsVN/
+#
+# ---------- Begin hosts ----------
+#
+# ---------------------------------
+# ----- Blocked by advertiser -----
+# ---------------------------------
+#[adtimaserver]
+0.0.0.0 adtimaserver.vn
+0.0.0.0 static.adtimaserver.vn
+0.0.0.0 static2.adtimaserver.vn
+0.0.0.0 media.adtimaserver.vn
+0.0.0.0 log.adtimaserver.vn
+0.0.0.0 api.adtimaserver.vn
+0.0.0.0 mail.adtimaserver.vn
+#[eclick]
+0.0.0.0 eclick.vn
+0.0.0.0 la.eclick.vn
+0.0.0.0 static.eclick.vn
+0.0.0.0 iad.eclick.vn
+0.0.0.0 admin.iad.eclick.vn
+0.0.0.0 e.eclick.vn
+0.0.0.0 emarketing.eclick.vn
+0.0.0.0 dmp.eclick.vn
+0.0.0.0 s.eclick.vn
+#[admicro]
+0.0.0.0 admicro.vn
+0.0.0.0 media.e-learning.admicro.vn
+0.0.0.0 tech.admicro.vn
+0.0.0.0 adi.admicro.vn
+0.0.0.0 demo-adopt.admicro.vn
+0.0.0.0 lab.admicro.vn
+0.0.0.0 redmine.admicro.vn
+0.0.0.0 ir.admicro.vn
+0.0.0.0 monitor.admicro.vn
+0.0.0.0 media1.admicro.vn
+0.0.0.0 beta.admicro.vn
+0.0.0.0 admatic.admicro.vn
+0.0.0.0 topkid.admicro.vn
+0.0.0.0 code.admicro.vn
+0.0.0.0 f.admicro.vn
+0.0.0.0 logging.admicro.vn
+0.0.0.0 c.logging.admicro.vn
+0.0.0.0 lg.logging.admicro.vn
+0.0.0.0 lg1.logging.admicro.vn
+0.0.0.0 dl.logging.admicro.vn
+0.0.0.0 ea.logging.admicro.vn
+0.0.0.0 dsprtb.logging.admicro.vn
+0.0.0.0 marketingauto.e-learning.admicro.vn
+0.0.0.0 adnetwork.admicro.vn
+0.0.0.0 admail.admicro.vn
+0.0.0.0 vccrm.admicro.vn
+0.0.0.0 in.admicro.vn
+0.0.0.0 min.admicro.vn
+0.0.0.0 demo.admicro.vn
+0.0.0.0 boxapp.admicro.vn
+0.0.0.0 publisher.admicro.vn
+0.0.0.0 dev.email-analytics.admicro.vn
+0.0.0.0 adtimes.admicro.vn
+0.0.0.0 banners.admicro.vn
+0.0.0.0 admarket.admicro.vn
+0.0.0.0 sale.test.admicro.vn
+0.0.0.0 saledev.admicro.vn
+0.0.0.0 www.admicro.vn
+0.0.0.0 adx.admicro.vn
+#[adnetwork]
+0.0.0.0 media.adnetwork.vn
+0.0.0.0 s-cm.send.adnetwork.vn
+0.0.0.0 retg.adnetwork.vn
+0.0.0.0 track.adnetwork.vn
+0.0.0.0 imp.adnetwork.vn
+0.0.0.0 member.adnetwork.vn
+0.0.0.0 metrics.adnetwork.vn
+0.0.0.0 conv.adnetwork.vn
+0.0.0.0 delivery.adnetwork.vn
+#[novanet]
+0.0.0.0 novanet.vn
+0.0.0.0 static.novanet.vn
+0.0.0.0 rnd.novanet.vn
+0.0.0.0 f.novanet.vn
+0.0.0.0 admin.novanet.vn
+0.0.0.0 cp.novanet.vn
+0.0.0.0 ads.novanet.vn
+0.0.0.0 script.novanet.vn
+0.0.0.0 www.novanet.vn
+0.0.0.0 analytics.novanet.vn
+#[coccoc]
+0.0.0.0 qc.coccoc.com
+0.0.0.0 cp.qc.coccoc.com
+0.0.0.0 cdn-qc.coccoc.com
+#[lavanetwork]
+0.0.0.0 lavanetwork.net
+0.0.0.0 ad1.lavanetwork.net
+0.0.0.0 images1.lavanetwork.net
+0.0.0.0 slv1.lavanetwork.net
+0.0.0.0 data.lavanetwork.net
+0.0.0.0 pub.lavanetwork.net
+0.0.0.0 ad.lavanetwork.net
+0.0.0.0 admin.lavanetwork.net
+0.0.0.0 libs.lavanetwork.net
+0.0.0.0 test.lavanetwork.net
+0.0.0.0 delivery.lavanetwork.net
+0.0.0.0 delivery1.lavanetwork.net
+#[polyad]
+0.0.0.0 polyad.net
+0.0.0.0 core.polyad.net
+0.0.0.0 st.core.polyad.net
+0.0.0.0 img.polyad.net
+0.0.0.0 st.html.polyad.net
+0.0.0.0 cp.polyad.net
+0.0.0.0 st.polyad.net
+#[ambientplatform]
+0.0.0.0 ambientplatform.vn
+0.0.0.0 media.ambientplatform.vn
+0.0.0.0 media.m.ambientplatform.vn
+0.0.0.0 click.m.ambientplatform.vn
+0.0.0.0 delivery.m.ambientplatform.vn
+#[adnetwork]
+0.0.0.0 adnetwork.vn
+0.0.0.0 media.adnetwork.vn
+0.0.0.0 s-cm.send.adnetwork.vn
+0.0.0.0 retg.adnetwork.vn
+0.0.0.0 track.adnetwork.vn
+0.0.0.0 imp.adnetwork.vn
+0.0.0.0 member.adnetwork.vn
+0.0.0.0 metrics.adnetwork.vn
+0.0.0.0 conv.adnetwork.vn
+0.0.0.0 delivery.adnetwork.vn
+#[ants]
+0.0.0.0 ants.vn
+0.0.0.0 d.ants.vn
+0.0.0.0 insight.ants.vn
+0.0.0.0 www.ants.vn
+0.0.0.0 st-au.ants.vn
+0.0.0.0 0.0.0.0 crm.ants.vn
+0.0.0.0 babe.ants.vn
+0.0.0.0 dsp-d.ants.vn
+0.0.0.0 blog.ants.vn
+
+
+
+# ---------------------------------
+# ------ Block by statistics ------
+# ---------------------------------
+#[subiz]
+0.0.0.0 subiz.com
+0.0.0.0 docv4.subiz.com
+0.0.0.0 static.subiz.com
+0.0.0.0 dashboard.subiz.com
+0.0.0.0 css-dashboard.subiz.com
+0.0.0.0 em.subiz.com
+0.0.0.0 app.subiz.com
+0.0.0.0 docs.subiz.com
+0.0.0.0 widget-css.subiz.com
+0.0.0.0 widget.subiz.com
+0.0.0.0 www.subiz.com
+0.0.0.0 ws-widget-lb-2.subiz.com
+0.0.0.0 ws-widget-lb-1.subiz.com
+0.0.0.0 m.widget.subiz.com
+#[anthill]
+0.0.0.0 st-a-id.anthill.vn
+0.0.0.0 anthill.vn
+0.0.0.0 st.a.anthill.vn
+0.0.0.0 origin-c0.anthill.vn
+0.0.0.0 atrack-a.anthill.vn
+0.0.0.0 origin-st-a.anthill.vn
+0.0.0.0 staging-e.anthill.vn
+0.0.0.0 origin-e.anthill.vn
+0.0.0.0 p.anthill.vn
+0.0.0.0 st-analytics.anthill.vn
+#[gammaplatform]
+0.0.0.0 gammaplatform.com
+0.0.0.0 login.gammaplatform.com
+0.0.0.0 stc.gammaplatform.com
+0.0.0.0 t.gammaplatform.com
+0.0.0.0 tag.gammaplatform.com
+0.0.0.0 imp.gammaplatform.com
+#[yomedia & pinetech]
+0.0.0.0 yomedia.vn
+0.0.0.0 static.yomedia.vn
+0.0.0.0 tracking.yomedia.vn
+0.0.0.0 mail.yomedia.vn
+0.0.0.0 ss.yomedia.vn
+0.0.0.0 analytics.yomedia.vn
+0.0.0.0 delivery.yomedia.vn
+0.0.0.0 pinetech.vn
+0.0.0.0 www.pinetech.vn
+0.0.0.0 file.pinetech.vn
+0.0.0.0 demo.pinetech.vn
