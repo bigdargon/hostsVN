@@ -69,6 +69,7 @@
 0.0.0.0 saledev.admicro.vn
 0.0.0.0 www.admicro.vn
 0.0.0.0 adx.admicro.vn
+0.0.0.0 sspapi.admicro.vn
 #[adnetwork]
 0.0.0.0 media.adnetwork.vn
 0.0.0.0 s-cm.send.adnetwork.vn
@@ -162,12 +163,12 @@
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 stats.zaloapp.com
+0.0.0.0 log.api.zaloapp.com
 0.0.0.0 org.zaloapp.ads.zdn.vn
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 adtima-media-td.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
-0.0.0.0 znews-static.zadn.vn
-0.0.0.0 zmp3-static.zadn.vn
+0.0.0.0 shop.zalo.me
 # ---------------------------------
 # ------ Block by statistics ------
 # ---------------------------------
@@ -231,8 +232,6 @@
 0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.careerbuilder.vn
 0.0.0.0 ads1.careerbuilder.vn
-0.0.0.0 static.careerbuilder.vn
-0.0.0.0 static.criteo.net
 0.0.0.0 marketo.com
 0.0.0.0 moat.com
 0.0.0.0 moatads.com
@@ -242,4 +241,5 @@
 0.0.0.0 gs.serving-sys.com
 0.0.0.0 origin-gizmo.serving-sys.com
 0.0.0.0 detik.serving-sys.com
+0.0.0.0 api-log-analytics.cloud.toast.com
 # ----------- End hosts -----------
