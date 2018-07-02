@@ -5,7 +5,6 @@
 # Homepage: https://github.com/bigdargon/hostsVN/
 #
 # ---------- Begin hosts ----------
-#
 # ---------------------------------
 # ----- Blocked by advertiser -----
 # ---------------------------------
@@ -27,6 +26,9 @@
 0.0.0.0 emarketing.eclick.vn
 0.0.0.0 dmp.eclick.vn
 0.0.0.0 s.eclick.vn
+0.0.0.0 g.eclick.vn
+0.0.0.0 0.0.0.0 dt.eclick.vn
+0.0.0.0 html.eclick.vn
 #[admicro]
 0.0.0.0 admicro.vn
 0.0.0.0 media.e-learning.admicro.vn
@@ -140,9 +142,22 @@
 0.0.0.0 babe.ants.vn
 0.0.0.0 dsp-d.ants.vn
 0.0.0.0 blog.ants.vn
-
-
-
+#[adtima]
+0.0.0.0 adtima.vn
+0.0.0.0 static.adtima.vn
+0.0.0.0 stc.adtima.vn
+0.0.0.0 gallery.adtima.vn
+#[ad360]
+0.0.0.0 ad360.vn
+0.0.0.0 xcache.ad360.vn
+0.0.0.0 tracking.ad360.vn
+0.0.0.0 provider.ad360.vn
+0.0.0.0 www.ad360.vn
+#[vietnamnetad]
+0.0.0.0 vietnamnetad.vn
+0.0.0.0 log.vietnamnetad.vn
+0.0.0.0 tracking.vietnamnetad.vn
+0.0.0.0 img.vietnamnetad.vn
 # ---------------------------------
 # ------ Block by statistics ------
 # ---------------------------------
@@ -191,3 +206,22 @@
 0.0.0.0 www.pinetech.vn
 0.0.0.0 file.pinetech.vn
 0.0.0.0 demo.pinetech.vn
+#[zing]
+0.0.0.0 znews-static.zadn.vn
+0.0.0.0 zmp3-static.zadn.vn
+# ---------------------------------
+# --------- Another block ---------
+# ---------------------------------
+0.0.0.0 ad.org.vn
+0.0.0.0 static.ad.org.vn
+0.0.0.0 stc.nas.nixcdn.com
+0.0.0.0 log.news.zing.vn
+0.0.0.0 thongke.24h.com.vn
+0.0.0.0 quangcao.thanhnien.vn
+0.0.0.0 s.tuoitre.vn
+0.0.0.0 ads.ictnews.vn
+0.0.0.0 ads.careerbuilder.vn
+0.0.0.0 ads1.careerbuilder.vn
+0.0.0.0 static.careerbuilder.vn
+0.0.0.0 static.criteo.net
+# ----------- End hosts -----------
