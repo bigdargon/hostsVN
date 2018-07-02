@@ -70,6 +70,12 @@
 0.0.0.0 www.admicro.vn
 0.0.0.0 adx.admicro.vn
 0.0.0.0 sspapi.admicro.vn
+#[vcmedia]
+0.0.0.0 admicro.vcmedia.com
+0.0.0.0 admicro1.vcmedia.vn
+0.0.0.0 admicro2.vcmedia.vn
+0.0.0.0 admicro6.vcmedia.vn
+0.0.0.0 ads.hosting.vcmedia.vn
 #[adnetwork]
 0.0.0.0 media.adnetwork.vn
 0.0.0.0 s-cm.send.adnetwork.vn
@@ -169,6 +175,46 @@
 0.0.0.0 adtima-media-td.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 shop.zalo.me
+#[admob]
+0.0.0.0 admob.com
+0.0.0.0 a.admob.com
+0.0.0.0 analytics.admob.com
+0.0.0.0 c.admob.com
+0.0.0.0 media.admob.com
+0.0.0.0 p.admob.com
+0.0.0.0 trac.admob.com
+0.0.0.0 r.l.admob.com
+#[inmobi]
+0.0.0.0 e-ltvp.inmobi.com
+0.0.0.0 config-ltvp.inmobi.com
+0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 inmobicdn.com
+#[adsota]
+0.0.0.0 adsota.com
+0.0.0.0 static.adsota.com
+0.0.0.0 blog.adsota.com
+0.0.0.0 track.adsota.com
+0.0.0.0 app.adsota.com
+0.0.0.0 ads.appota.com
+#[vietad]
+0.0.0.0 vietad.vn
+0.0.0.0 www.vietad.vn
+0.0.0.0 app.vietad.vn
+#[blueserving]
+0.0.0.0 blueserving.com
+0.0.0.0 d.blueserving.com
+0.0.0.0 track.blueserving.com
+0.0.0.0 dsp.blueserving.com
+0.0.0.0 ssp.blueserving.com
+#[heyzap]
+0.0.0.0 heyzap.com
+0.0.0.0 ads.heyzap.com
+0.0.0.0 android.heyzap.com
+0.0.0.0 sdk.heyzap.com
+0.0.0.0 www.heyzap.com
+0.0.0.0 ads.heyzap.com
+0.0.0.0 med.heyzap.com
+0.0.0.0 x.heyzap.com
 # ---------------------------------
 # ------ Block by statistics ------
 # ---------------------------------
@@ -219,14 +265,26 @@
 0.0.0.0 www.pinetech.vn
 0.0.0.0 file.pinetech.vn
 0.0.0.0 demo.pinetech.vn
+#[startappservice]
+0.0.0.0 startappexchange.com
+0.0.0.0 www.startappexchange.com
+0.0.0.0 info.static.startappservice.com
+0.0.0.0 req.startappservice.com
+0.0.0.0 init.startappexchange.com
+0.0.0.0 imp.startappservice.com
+#[serving-sys]
+0.0.0.0 serving-sys.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 gs.serving-sys.com
+0.0.0.0 origin-gizmo.serving-sys.com
+0.0.0.0 detik.serving-sys.com
 # ---------------------------------
-# --------- Another block ---------
+# --- Block page ads & analysis ---
 # ---------------------------------
 0.0.0.0 ad.org.vn
 0.0.0.0 static.ad.org.vn
 0.0.0.0 stc.nas.nixcdn.com
 0.0.0.0 log.news.zing.vn
-0.0.0.0 thongke.24h.com.vn
 0.0.0.0 quangcao.thanhnien.vn
 0.0.0.0 s.tuoitre.vn
 0.0.0.0 ads.ictnews.vn
@@ -236,10 +294,17 @@
 0.0.0.0 moat.com
 0.0.0.0 moatads.com
 0.0.0.0 z.moatads.com
-0.0.0.0 serving-sys.com
-0.0.0.0 bs.serving-sys.com
-0.0.0.0 gs.serving-sys.com
-0.0.0.0 origin-gizmo.serving-sys.com
-0.0.0.0 detik.serving-sys.com
 0.0.0.0 api-log-analytics.cloud.toast.com
+0.0.0.0 adchoice.com.vn
+0.0.0.0 adchoice.com
+0.0.0.0 qc.yan.vn
+0.0.0.0 ads.ookla.com
+0.0.0.0 thongke.24h.com.vn
+0.0.0.0 quangcao.24h.com.vn
+0.0.0.0 ad.24h.com.vn
+0.0.0.0 ad.vatgia.com
+# ---------------------------------
+# ------------ TESTING ------------
+# ---------------------------------
+
 # ----------- End hosts -----------
