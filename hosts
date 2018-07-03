@@ -7,7 +7,6 @@
 # ---------- Begin hosts ----------
 # ---------------------------------
 # ----- Blocked by advertiser -----
-# ---------------------------------
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
 0.0.0.0 static.adtimaserver.vn
@@ -70,6 +69,7 @@
 0.0.0.0 www.admicro.vn
 0.0.0.0 adx.admicro.vn
 0.0.0.0 sspapi.admicro.vn
+0.0.0.0 afp.admicro.vn
 #[vcmedia]
 0.0.0.0 admicro.vcmedia.com
 0.0.0.0 admicro1.vcmedia.vn
@@ -128,17 +128,7 @@
 0.0.0.0 media.m.ambientplatform.vn
 0.0.0.0 click.m.ambientplatform.vn
 0.0.0.0 delivery.m.ambientplatform.vn
-#[adnetwork]
 0.0.0.0 adnetwork.vn
-0.0.0.0 media.adnetwork.vn
-0.0.0.0 s-cm.send.adnetwork.vn
-0.0.0.0 retg.adnetwork.vn
-0.0.0.0 track.adnetwork.vn
-0.0.0.0 imp.adnetwork.vn
-0.0.0.0 member.adnetwork.vn
-0.0.0.0 metrics.adnetwork.vn
-0.0.0.0 conv.adnetwork.vn
-0.0.0.0 delivery.adnetwork.vn
 #[ants]
 0.0.0.0 ants.vn
 0.0.0.0 d.ants.vn
@@ -212,7 +202,6 @@
 0.0.0.0 android.heyzap.com
 0.0.0.0 sdk.heyzap.com
 0.0.0.0 www.heyzap.com
-0.0.0.0 ads.heyzap.com
 0.0.0.0 med.heyzap.com
 0.0.0.0 x.heyzap.com
 #[smartadserver]
@@ -223,9 +212,144 @@
 0.0.0.0 eqx.smartadserver.com
 0.0.0.0 preview.smartadserver.com
 0.0.0.0 tmk.smartadserver.com
-# ---------------------------------
+#[popads]
+0.0.0.0 popads.net
+0.0.0.0 serve.popads.net
+0.0.0.0 www.popads.net
+0.0.0.0 out.popads.net
+0.0.0.0 notification.popads.net
+#[popcash]
+0.0.0.0 popcash.net
+0.0.0.0 www.popcash.net
+0.0.0.0 mem1.popcash.net
+0.0.0.0 mem2.popcash.net
+0.0.0.0 mem3.popcash.net
+#[mgid]
+0.0.0.0 mgid.com
+0.0.0.0 www.mgid.com
+0.0.0.0 ns2.mgid.com
+0.0.0.0 ns3.mgid.com
+0.0.0.0 dashboard.mgid.com
+0.0.0.0 img.mgid.com
+0.0.0.0 capping.mgid.com
+0.0.0.0 blog.mgid.com
+0.0.0.0 cm.mgid.com
+0.0.0.0 neptun-vm.mgid.com
+0.0.0.0 servicer.mgid.com
+0.0.0.0 usr.mgid.com
+0.0.0.0 analytics.mgid.com
+0.0.0.0 js.mgid.com
+0.0.0.0 jsc.mgid.com
+0.0.0.0 tools.mgid.com
+0.0.0.0 youtrack.mgid.com
+0.0.0.0 gitlab.mgid.com
+0.0.0.0 ns.mgid.com
+0.0.0.0 dating.mgid.com
+0.0.0.0 servertest.mgid.com
+#[adnow]
+0.0.0.0 adnow.com
+0.0.0.0 ad.adnow.com
+0.0.0.0 www.adnow.com
+0.0.0.0 and07.adnow.com
+0.0.0.0 jira.adnow.com
+0.0.0.0 feed.adnow.com
+0.0.0.0 adm-td.adnow.com
+0.0.0.0 admtd.adnow.com
+0.0.0.0 blog.adnow.com
+0.0.0.0 akl.adnow.com
+0.0.0.0 n.adnow.com
+0.0.0.0 findep.adnow.com
+0.0.0.0 dev.findep.adnow.com
+0.0.0.0 super.adnow.com
+0.0.0.0 dev-self-service-pay.adnow.com
+0.0.0.0 st.ad.adnow.com
+0.0.0.0 mail.adnow.com
+#[mobclix]
+0.0.0.0 ads.mobclix.com
+0.0.0.0 data.mobclix.com
+0.0.0.0 s.mobclix.com
+#[mojiva.com]
+0.0.0.0 ads1.mojiva.com
+0.0.0.0 ads2.mojiva.com
+0.0.0.0 ads3.mojiva.com
+0.0.0.0 ads4.mojiva.com
+0.0.0.0 ads5.mojiva.com
+0.0.0.0 img.ads.mojiva.com
+0.0.0.0 img.ads1.mojiva.com
+0.0.0.0 img.ads2.mojiva.com
+0.0.0.0 img.ads3.mojiva.com
+0.0.0.0 img.ads4.mojiva.com
+#[mocean.mobi]
+0.0.0.0 img.ads.mocean.mobi
+0.0.0.0 img.ads1.mocean.mobi
+0.0.0.0 img.ads2.mocean.mobi
+0.0.0.0 img.ads3.mocean.mobi
+0.0.0.0 img.ads4.mocean.mobi
+#[appads]
+0.0.0.0 appads.com
+0.0.0.0 neptune.appads.com
+0.0.0.0 neptune1.appads.com
+0.0.0.0 neptune2.appads.com
+0.0.0.0 neptune3.appads.com
+0.0.0.0 saturn.appads.com
+0.0.0.0 saturn1.appads.com
+0.0.0.0 saturn2.appads.com
+0.0.0.0 saturn3.appads.com
+0.0.0.0 jupiter.appads.com
+0.0.0.0 jupiter1.appads.com
+0.0.0.0 jupiter2.appads.com
+0.0.0.0 jupiter3.appads.com
+0.0.0.0 req.appads.com
+0.0.0.0 req1.appads.com
+0.0.0.0 req2.appads.com
+0.0.0.0 req3.appads.com
+#[vserv]
+0.0.0.0 vserv.mobi
+0.0.0.0 a.vserv.mobi
+0.0.0.0 admin.vserv.mobi
+0.0.0.0 c.vserv.mobi
+0.0.0.0 ads.vserv.mobi
+0.0.0.0 sf.vserv.mobi
+#[celtra]
+0.0.0.0 celtra.com
+0.0.0.0 cdn.celtra.com
+0.0.0.0 ads.celtra.com
+0.0.0.0 cache-ssl.celtra.com
+0.0.0.0 cache.celtra.com
+0.0.0.0 track.celtra.com
+#[applovin]
+0.0.0.0 applovin.com
+0.0.0.0 a.applovin.com
+0.0.0.0 d.applovin.com
+0.0.0.0 pdn.applovin.com
+#[mobpartner]
+0.0.0.0 mobpartner.mobi
+0.0.0.0 go.mobpartner.mobi
+0.0.0.0 r.mobpartner.mobi
+#[adinfuse]
+0.0.0.0 uk-ad2.adinfuse.com
+0.0.0.0 adinfuse.com
+0.0.0.0 go.adinfuse.com
+0.0.0.0 ad1.adinfuse.com
+0.0.0.0 ad2.adinfuse.com
+0.0.0.0 sky.adinfuse.com
+0.0.0.0 orange-fr.adinfuse.com
+0.0.0.0 sky-connect.adinfuse.com
+0.0.0.0 uk-go.adinfuse.com
+0.0.0.0 orangeuk-mc.adinfuse.com
+0.0.0.0 intouch.adinfuse.com
+0.0.0.0 funnel0.adinfuse.com
+#[mydas]
+0.0.0.0 mydas.mobi
+0.0.0.0 cvt.mydas.mobi
+0.0.0.0 lp.mydas.mobi
+0.0.0.0 golds.lp.mydas.mobi
+0.0.0.0 suo.lp.mydas.mobi
+0.0.0.0 aio.lp.mydas.mobi
+0.0.0.0 lp.mp.mydas.mobi
+0.0.0.0 media.mydas.mobi
+0.0.0.0 ads.mp.mydas.mobi
 # ------ Block by statistics ------
-# ---------------------------------
 #[subiz]
 0.0.0.0 subiz.com
 0.0.0.0 docv4.subiz.com
@@ -286,15 +410,22 @@
 0.0.0.0 gs.serving-sys.com
 0.0.0.0 origin-gizmo.serving-sys.com
 0.0.0.0 detik.serving-sys.com
-# ---------------------------------
+#[medialytics]
+0.0.0.0 medialytics.com
+0.0.0.0 a.medialytics.com
+0.0.0.0 c.medialytics.com
+0.0.0.0 cdn.creative.medialytics.com
+0.0.0.0 p.medialytics.com
+0.0.0.0 px.cdn.creative.medialytics.com
+0.0.0.0 t.medialytics.com
 # --- Block page ads & analysis ---
-# ---------------------------------
 #[ads]
 0.0.0.0 ad.24h.com.vn
 0.0.0.0 quangcao.24h.com.vn
 0.0.0.0 ad.zing.vn
 0.0.0.0 ad.org.vn
 0.0.0.0 static.ad.org.vn
+0.0.0.0 serving.ad.org.vn
 0.0.0.0 quangcao.thanhnien.vn
 0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.careerbuilder.vn
@@ -310,15 +441,22 @@
 0.0.0.0 ad.vatgia.com
 0.0.0.0 ad.mwork.vn
 0.0.0.0 delivery.senvangvn.com
+0.0.0.0 token.ad
+0.0.0.0 qa.token.ad
+0.0.0.0 ads.adadapted.com
+0.0.0.0 ad.leadboltmobile.net
 #[analysis]
 0.0.0.0 images.dmca.com
 0.0.0.0 s.tuoitre.vn
 0.0.0.0 log.news.zing.vn
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 api-log-analytics.cloud.toast.com
-# ---------------------------------
+0.0.0.0 track.vatgia.com
+0.0.0.0 localytics.com
+0.0.0.0 analytics.localytics.com
+0.0.0.0 applift.com
+0.0.0.0 tracking.applift.com
 # ------------ TESTING ------------
-# ---------------------------------
 0.0.0.0 123c.vn
 0.0.0.0 1phads.com
 0.0.0.0 201205igp.gameloft.com
@@ -326,13 +464,16 @@
 0.0.0.0 2o7.net
 0.0.0.0 360yield.com
 0.0.0.0 4chan-ads.org
+0.0.0.0 4dle.info
 0.0.0.0 4dsply.com
 0.0.0.0 51.la
 0.0.0.0 578756.gameloft.com
 0.0.0.0 99click.com
+0.0.0.0 a.glcdn.co
 0.0.0.0 a.jumptap.com
 0.0.0.0 a.koudai.com
 0.0.0.0 a8.net
+0.0.0.0 a-ads.com
 0.0.0.0 accesstrade.net
 0.0.0.0 acjs.aliyun.com
 0.0.0.0 ackak.com
@@ -342,11 +483,17 @@
 0.0.0.0 ad.adworx.at
 0.0.0.0 ad.api.3g.tudou.com
 0.0.0.0 ad.api.3g.youku.com
+0.0.0.0 ad.directrev.com
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.ettoday.net
 0.0.0.0 ad.flipboard.com
+0.0.0.0 ad.leadboltapps.net
+0.0.0.0 ad.madvertise.de
 0.0.0.0 ad.prismamediadigital.com
+0.0.0.0 ad.publicidees.com
 0.0.0.0 ad.test.ximalaya.com
 0.0.0.0 ad.toutiao.com
+0.0.0.0 ad.where.com
 0.0.0.0 ad.ximalaya.com
 0.0.0.0 ad1.on.cc
 0.0.0.0 ad120m.com
@@ -374,13 +521,16 @@
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adcolony.com
 0.0.0.0 adcome.cn
+0.0.0.0 adcontent.saymedia.com
 0.0.0.0 adcontrol.tudou.com
 0.0.0.0 adchina.com
 0.0.0.0 addisp.com
 0.0.0.0 addthis.com
 0.0.0.0 adelva.com
+0.0.0.0 ad-eu-west-1.pxlad.io
 0.0.0.0 adex.bmediaasia.com
 0.0.0.0 adex2.bmediaasia.com
+0.0.0.0 adexchangeprediction.com
 0.0.0.0 adexprt.com
 0.0.0.0 adfalcon.com
 0.0.0.0 adfonic.net
@@ -388,6 +538,7 @@
 0.0.0.0 adform.net
 0.0.0.0 adformdsp.net
 0.0.0.0 adfox.vn
+0.0.0.0 adframe.mediaplex.com
 0.0.0.0 adgear.com
 0.0.0.0 ad-hcm.24hstatic.com
 0.0.0.0 adhese.com
@@ -395,7 +546,6 @@
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 adimg.net
 0.0.0.0 adinch.com
-0.0.0.0 adinfuse.com
 0.0.0.0 adition.com
 0.0.0.0 adjuggler.net
 0.0.0.0 adjust.com
@@ -435,23 +585,38 @@
 0.0.0.0 adroll.com
 0.0.0.0 adrotator.se
 0.0.0.0 adru.net
+0.0.0.0 ads.adiquity.com
+0.0.0.0 ads.admarvel.com
+0.0.0.0 ads.admoda.com
+0.0.0.0 ads.adservme.com
 0.0.0.0 ads.bhol.co.il
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.gmodules.com
-0.0.0.0 ads.mobclix.com
+0.0.0.0 ads.matomymobile.com
+0.0.0.0 ads.mobgold.com
+0.0.0.0 ads.mobilityware.com
 0.0.0.0 ads.mopub.com
+0.0.0.0 ads.n-ws.org 
 0.0.0.0 ads.ontarget.mobi
+0.0.0.0 ads.papeteka.com
+0.0.0.0 ads.saymedia.com
 0.0.0.0 ads.servebom.com
+0.0.0.0 ads.smartdevicemedia.com
+0.0.0.0 ads.xxxad.net
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads04.tapsense.com
+0.0.0.0 ads2.mediaarmor.com
 0.0.0.0 adsage.cn
 0.0.0.0 adsage.com
 0.0.0.0 adsellers.net
 0.0.0.0 adserve.gzero.com
 0.0.0.0 adserver.mgsex.com
+0.0.0.0 adserver.ubiyoo.com
 0.0.0.0 adserver.yahoo.com
+0.0.0.0 adservingsolutionsinc.adk2x.com
 0.0.0.0 adservone.com
 0.0.0.0 adshost2.com
+0.0.0.0 adskeeper.co.uk
 0.0.0.0 adsmarket.com
 0.0.0.0 adsmogo.mobi
 0.0.0.0 adsmogo.net
@@ -473,9 +638,11 @@
 0.0.0.0 adtilt.com
 0.0.0.0 adtoma.com
 0.0.0.0 adtrace.org
+0.0.0.0 adultmoda.com
 0.0.0.0 aduu.cn
 0.0.0.0 adv.aftonbladet.se
 0.0.0.0 advancets.org
+0.0.0.0 adventori.com
 0.0.0.0 adver.mobi
 0.0.0.0 adversal.com
 0.0.0.0 adverserve.net
@@ -510,9 +677,13 @@
 0.0.0.0 analytics.163.com
 0.0.0.0 analytics.mopub.com
 0.0.0.0 andomedia.com
+0.0.0.0 android.bcfads.com
+0.0.0.0 android-sdk31.transpera.com
 0.0.0.0 anquan.org
 0.0.0.0 api.adform.com
+0.0.0.0 api.airpush.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api.cupid.iqiyi.com
 0.0.0.0 api.instabug.com
@@ -520,25 +691,29 @@
 0.0.0.0 api.pubnative.net
 0.0.0.0 api.segment.io
 0.0.0.0 api.tapstream.com
+0.0.0.0 api.yp.com
 0.0.0.0 apoll.m.taobao.com
 0.0.0.0 app.adsoctopus.com
 0.0.0.0 app.sysdigcloud.com
-0.0.0.0 appads.com
 0.0.0.0 app-c.net
 0.0.0.0 appclick.co
 0.0.0.0 appflood.com
 0.0.0.0 applifier.com
-0.0.0.0 applovin.com
 0.0.0.0 app-measurement.com
 0.0.0.0 appnext.com
 0.0.0.0 apprupt.com
+0.0.0.0 apps.buzzcity.net
+0.0.0.0 apps.mobilityware.com
 0.0.0.0 appsdt.com
 0.0.0.0 appserver-ap.com
 0.0.0.0 appsflyer.com
 0.0.0.0 appshelf.ttpsdk.info
 0.0.0.0 ark.letv.com
+0.0.0.0 as.adfonic.net
 0.0.0.0 asimgs.pplive.cn
+0.0.0.0 asotrack1.fluentmobile.com
 0.0.0.0 asp.animelab.com
+0.0.0.0 assets.cntdy.mobi
 0.0.0.0 astrsk.net
 0.0.0.0 atdmt.com
 0.0.0.0 atedra.com
@@ -549,12 +724,16 @@
 0.0.0.0 aty.sohu.com
 0.0.0.0 avocarrot.com
 0.0.0.0 awempire.com
+0.0.0.0 awsatstb.com
+0.0.0.0 b.scorecardresearch.com
 0.0.0.0 baichuan.baidu.com
 0.0.0.0 baidustatic.com
 0.0.0.0 bam.nr-data.net
 0.0.0.0 bannerflow.com
+0.0.0.0 banners.bigmobileads.com
 0.0.0.0 bbelements.com
 0.0.0.0 bcfads.com
+0.0.0.0 bcp-usw45.zenfs.com
 0.0.0.0 bdzhhjnml.pw
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.sina.com.cn
@@ -564,9 +743,11 @@
 0.0.0.0 bebi.com
 0.0.0.0 beep-bc.yahoo.com
 0.0.0.0 behaviad.net
+0.0.0.0 bestadbid.com
 0.0.0.0 bi-collector.oneapm.com
 0.0.0.0 biddingx.com
 0.0.0.0 bidvertiser.com
+0.0.0.0 bigmobileads.com
 0.0.0.0 billytesting.com
 0.0.0.0 biz.weibo.com
 0.0.0.0 bj.imp.voiceads.cn
@@ -583,8 +764,10 @@
 0.0.0.0 buzzcity.net
 0.0.0.0 c.biz.weibo.com
 0.0.0.0 c.jsrdn.com
+0.0.0.0 c.vrvm.com
 0.0.0.0 c.wcpt.biz.weibo.com
 0.0.0.0 c.yjvfuzdr.pw
+0.0.0.0 c753738.r38.cf2.rackcdn.com
 0.0.0.0 carbonads.com
 0.0.0.0 carbonads.net
 0.0.0.0 castplatform.com
@@ -597,8 +780,16 @@
 0.0.0.0 cdn.media.amp.avai.com
 0.0.0.0 cdn.millennialmedia.com
 0.0.0.0 cdn.mxpnl.com
+0.0.0.0 cdn.nearbyad.com
+0.0.0.0 cdn.trafficforce.com
+0.0.0.0 cdn.us.goldspotmedia.com
+0.0.0.0 cdn.vdopia.com
+0.0.0.0 cdn1.crispadvertising.com
+0.0.0.0 cdn2.crispadvertising.com
 0.0.0.0 cj.com
 0.0.0.0 ckm.iqiyi.com
+0.0.0.0 clic.grenads.com
+0.0.0.0 click.buzzcity.net
 0.0.0.0 click.uniad.vn
 0.0.0.0 click.xdeal.vn
 0.0.0.0 clickfuse.com
@@ -624,7 +815,9 @@
 0.0.0.0 counter.kingsoft.com
 0.0.0.0 cpmstar.com
 0.0.0.0 cpro.baidu.com
+0.0.0.0 creative1cdn.mobfox.com
 0.0.0.0 crosspromo.zeptolab.com
+0.0.0.0 cuguwxkasghy.com
 0.0.0.0 cupid.iqiyi.com
 0.0.0.0 cupid.qiyi.com
 0.0.0.0 cytoclause.com
@@ -665,6 +858,7 @@
 0.0.0.0 eclick.baidu.com
 0.0.0.0 eclkmpsa.com
 0.0.0.0 ecpmrocks.com
+0.0.0.0 edge.reporo.net
 0.0.0.0 eiv.baidu.com
 0.0.0.0 emediate.dk
 0.0.0.0 emediate.eu
@@ -681,6 +875,7 @@
 0.0.0.0 eyewonder.com
 0.0.0.0 f1.p0y.cn
 0.0.0.0 f2.p0y.cn
+0.0.0.0 f20.adventori.com
 0.0.0.0 fam-ad.com
 0.0.0.0 fastapi.net
 0.0.0.0 fastclick.net
@@ -688,6 +883,9 @@
 0.0.0.0 firstimpression.io
 0.0.0.0 flashtalking.com
 0.0.0.0 flurry.com
+0.0.0.0 fr.105.clickintext.net
+0.0.0.0 fra1-ib.adnxs.com
+0.0.0.0 ftpcontent.worldnow.com
 0.0.0.0 fus.walla.co.il
 0.0.0.0 fus.yad2.co.il
 0.0.0.0 fwmrm.net
@@ -703,6 +901,8 @@
 0.0.0.0 game.weibo.com
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 genericsteps.com
+0.0.0.0 get.mirando.de
+0.0.0.0 getmyads.com
 0.0.0.0 gg.meitu.com
 0.0.0.0 global.adserver.yahoo.com
 0.0.0.0 global.yyapi.net
@@ -710,14 +910,19 @@
 0.0.0.0 gma.alicdn.com
 0.0.0.0 go.10086.cn
 0.0.0.0 go.pub2srv.com
+0.0.0.0 go.spaceshipads.com
+0.0.0.0 go.vrvm.com
 0.0.0.0 goodadvert.com.ua
 0.0.0.0 googeadsserving.cn
 0.0.0.0 gredinatib.info
 0.0.0.0 greystripe.com
+0.0.0.0 gsmtop.net
+0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 gumgum.com
 0.0.0.0 guohead.com
 0.0.0.0 guomob.com
 0.0.0.0 gw5.push.mcp.weibo.cn
+0.0.0.0 gid.wonderlandads.com
 0.0.0.0 gigazine.asia
 0.0.0.0 h2.msn.com
 0.0.0.0 hao123union.baidu.com
@@ -732,13 +937,19 @@
 0.0.0.0 ht55.cn
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 i.l.networld.hk
+0.0.0.0 i.tapit.com
 0.0.0.0 iconpeak.com
 0.0.0.0 ichi-ni-san.net
 0.0.0.0 igp06.gameloft.com
 0.0.0.0 igpiphone.gameloft.com
 0.0.0.0 image.click.livedoor.com
 0.0.0.0 imageplus.baidu.com
+0.0.0.0 images.millennialmedia.com
+0.0.0.0 images.mpression.net
 0.0.0.0 imedia.cz
+0.0.0.0 img.ads.huntmad.com
+0.0.0.0 img.ads.mobilefuse.net
+0.0.0.0 img.ads.taptapnetworks.com
 0.0.0.0 img1.126.net
 0.0.0.0 img2.autoimg.cn
 0.0.0.0 immob.cn
@@ -764,6 +975,7 @@
 0.0.0.0 irs01.com
 0.0.0.0 iwanad.baidu.com
 0.0.0.0 jp.as.pptv.com
+0.0.0.0 js.adscale.de
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 jsmbaidu.com
 0.0.0.0 juicyads.com
@@ -778,6 +990,7 @@
 0.0.0.0 kma.biz
 0.0.0.0 kochava.com
 0.0.0.0 kukuplay.com
+0.0.0.0 lb.usemaxserver.de
 0.0.0.0 lduhtrp.net
 0.0.0.0 leadbolt.com
 0.0.0.0 leadbolt.net
@@ -796,9 +1009,9 @@
 0.0.0.0 liverail.com
 0.0.0.0 lives.l.qq.com
 0.0.0.0 livesmi.com
-0.0.0.0 localytics.com
 0.0.0.0 log.cmbchina.com
 0.0.0.0 log.kuwo.cn
+0.0.0.0 m.adsymptotic.com
 0.0.0.0 m.game.weibo.cn
 0.0.0.0 m.madthumbs.com
 0.0.0.0 m2pub.com
@@ -811,18 +1024,18 @@
 0.0.0.0 marsads.com
 0.0.0.0 mbn.su
 0.0.0.0 mdotm.com
+0.0.0.0 media.mobpartner.mobi
 0.0.0.0 media.net
 0.0.0.0 medialets.com
-0.0.0.0 medialytics.com
 0.0.0.0 mediaplex.com
 0.0.0.0 mediav.com
 0.0.0.0 medibaad.com
+0.0.0.0 medrx.sensis.com.au
 0.0.0.0 medyanetads.com
 0.0.0.0 mellowads.com
 0.0.0.0 message.meitu.com
 0.0.0.0 meta.video.qiyi.com
 0.0.0.0 mg.dt00.net
-0.0.0.0 mgid.com
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 miaozhen.com
 0.0.0.0 microad.net
@@ -834,8 +1047,10 @@
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 mobclix.com
 0.0.0.0 mobfox.com
+0.0.0.0 mobile.Banzai.it
 0.0.0.0 mobile.log.hunantv.com
 0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 mobiledl.adobe.com
 0.0.0.0 mobilefuse.com
 0.0.0.0 mobilefuse.net
 0.0.0.0 mobiletheory.com
@@ -853,12 +1068,13 @@
 0.0.0.0 mpnrs.com
 0.0.0.0 msads.net
 0.0.0.0 mtj.baidu.com
-0.0.0.0 mydas.mobi
 0.0.0.0 n.mark.letv.com
 0.0.0.0 n208adserv.com
+0.0.0.0 n4adshostnet.com
 0.0.0.0 nclick.org
 0.0.0.0 nend.net
 0.0.0.0 neoban.su
+0.0.0.0 netdna.reporo.net
 0.0.0.0 newspush.sinajs.cn
 0.0.0.0 nex8.net
 0.0.0.0 nexage.com
@@ -868,9 +1084,11 @@
 0.0.0.0 nuggad.net
 0.0.0.0 nyyed.com
 0.0.0.0 oadz.com
+0.0.0.0 oasc04012.247realmedia.com
 0.0.0.0 omgmta.qq.com
 0.0.0.0 omniture.com
 0.0.0.0 onclickads.net
+0.0.0.0 onclkds.com
 0.0.0.0 onedmp.com
 0.0.0.0 online-dn.com
 0.0.0.0 openclick.com
@@ -906,8 +1124,10 @@
 0.0.0.0 playnomics.net
 0.0.0.0 plista.com
 0.0.0.0 plog.dc.letv.com
-0.0.0.0 popads.net
+0.0.0.0 pop2gifts.co.s3-website.eu-central-1.amazonaws.com
 0.0.0.0 popadscdn.net
+0.0.0.0 popmyads.com
+0.0.0.0 popserve.adscpm.net
 0.0.0.0 pos.baidu.com
 0.0.0.0 premium.2ch.net
 0.0.0.0 print.theyeshivaworld.info
@@ -920,6 +1140,7 @@
 0.0.0.0 psma02.com
 0.0.0.0 pub.funshion.com
 0.0.0.0 pub2srv.com
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubdirecte.com
 0.0.0.0 pubmatic.com
 0.0.0.0 pushnative.com
@@ -927,6 +1148,7 @@
 0.0.0.0 quantcount.com
 0.0.0.0 quantserve.com
 0.0.0.0 questionmarket.com
+0.0.0.0 r.edge.inmobicdn.net
 0.0.0.0 r0.mradx.net
 0.0.0.0 r1.ykimg.com
 0.0.0.0 rad.msn.com
@@ -949,7 +1171,10 @@
 0.0.0.0 revmob.com
 0.0.0.0 rj.m.taobao.com
 0.0.0.0 rnmd.net
+0.0.0.0 rq.adtrackdirect.com
+0.0.0.0 rs-staticart.ybcdn.net
 0.0.0.0 rtb.adcel.co
+0.0.0.0 rtb.adx1.com
 0.0.0.0 rtb.nexage.com
 0.0.0.0 rtbpop.com
 0.0.0.0 rubiconproject.com
@@ -958,6 +1183,7 @@
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s1.download123.com
+0.0.0.0 s3.phluant.com
 0.0.0.0 sa.entireweb.com
 0.0.0.0 salesdoubler.com.ua
 0.0.0.0 san-ni-ichi.com
@@ -977,6 +1203,7 @@
 0.0.0.0 sfsapi.micloud.xiaomi.net
 0.0.0.0 sharethrough.com
 0.0.0.0 shopdunk.baomoi.com
+0.0.0.0 show.buzzcity.net
 0.0.0.0 simaba.taobao.com
 0.0.0.0 sitemeter.com
 0.0.0.0 sjc.ads0.nexage.com
@@ -989,6 +1216,7 @@
 0.0.0.0 socdm.com
 0.0.0.0 soundwave.mobile.yahoo.com
 0.0.0.0 spcode.baidu.com
+0.0.0.0 speednetwork1.adk2x.com
 0.0.0.0 sponsorpay.com
 0.0.0.0 sprout-ad.com
 0.0.0.0 startapp.com
@@ -998,10 +1226,14 @@
 0.0.0.0 stat.tudou.com
 0.0.0.0 stat.ws.126.net
 0.0.0.0 statcounter.com
+0.0.0.0 static.cdn.gtsmobi.com
 0.0.0.0 static.diditaxi.com.cn
+0.0.0.0 static.estebull.com
 0.0.0.0 static.g.ppstream.com
 0.0.0.0 static.gridsumdissector.com
+0.0.0.0 static.increas.eu
 0.0.0.0 static.tieba.baidu.com
+0.0.0.0 stats.pflexads.com
 0.0.0.0 stats.tudou.com
 0.0.0.0 stjjp.msn.com
 0.0.0.0 supersonicads.com
@@ -1023,8 +1255,10 @@
 0.0.0.0 tuiguang.meitu.com
 0.0.0.0 tuisong.baidu.com
 0.0.0.0 thoughtleadr.com
+0.0.0.0 tracking.klickthru.com
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradedoubler.com
+0.0.0.0 traffic.getmyads.com
 0.0.0.0 traffic.uusee.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficgate.net
@@ -1073,9 +1307,9 @@
 0.0.0.0 videoplaza.tv
 0.0.0.0 visitweb.com
 0.0.0.0 visualrevenue.com
+0.0.0.0 vivcdctagoij.com
 0.0.0.0 vkmonster.com
 0.0.0.0 vpon.com
-0.0.0.0 vserv.mobi
 0.0.0.0 vsohu.admaster.com.cn
 0.0.0.0 vungle.com
 0.0.0.0 wa.koowo.com
@@ -1094,8 +1328,27 @@
 0.0.0.0 wooboo.com.cn
 0.0.0.0 wqmobile.com
 0.0.0.0 wrating.com
+0.0.0.0 www.adexchangecloud.com
+0.0.0.0 www.adexchangetracker.com
+0.0.0.0 www.adnetworkperformance.com
+0.0.0.0 www.bitadexchange.com
+0.0.0.0 www.eltrafiko.com
+0.0.0.0 www.getmyads24.com
+0.0.0.0 www.grenads.com
 0.0.0.0 www.gridsum.com
+0.0.0.0 www.liveadexchanger.com
+0.0.0.0 www.mmnetwork.mobi
+0.0.0.0 www.nanoadexchange.com
+0.0.0.0 www.onclicktop.com
+0.0.0.0 www.predictivadnetwork.com
+0.0.0.0 www.pubdirecte.com
+0.0.0.0 www.pureadexchange.com
+0.0.0.0 www.tradeadexchange.com
+0.0.0.0 www.xmediaserve.com
+0.0.0.0 www-105-slidein.clickintext.net
+0.0.0.0 www-classic.clickintext.net
 0.0.0.0 wwwpromoter.com
+0.0.0.0 wwww.adleads.com
 0.0.0.0 xiuxiu.android.dl.meitu.com
 0.0.0.0 xiuxiu.mobile.meitudata.com
 0.0.0.0 xtendmedia.com
@@ -1119,5 +1372,4 @@
 0.0.0.0 zumobi.com
 0.0.0.0 zwaar.org
 0.0.0.0 zymo.mps.weibo.com
-
 # ----------- End hosts -----------
