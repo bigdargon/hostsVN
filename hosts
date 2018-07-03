@@ -7,6 +7,7 @@
 # ---------- Begin hosts ----------
 # ---------------------------------
 # ----- Blocked by advertiser -----
+# ---------------------------------
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
 0.0.0.0 static.adtimaserver.vn
@@ -349,7 +350,9 @@
 0.0.0.0 lp.mp.mydas.mobi
 0.0.0.0 media.mydas.mobi
 0.0.0.0 ads.mp.mydas.mobi
+# ---------------------------------
 # ------ Block by statistics ------
+# ---------------------------------
 #[subiz]
 0.0.0.0 subiz.com
 0.0.0.0 docv4.subiz.com
@@ -418,7 +421,9 @@
 0.0.0.0 p.medialytics.com
 0.0.0.0 px.cdn.creative.medialytics.com
 0.0.0.0 t.medialytics.com
+# ---------------------------------
 # --- Block page ads & analysis ---
+# ---------------------------------
 #[ads]
 0.0.0.0 ad.24h.com.vn
 0.0.0.0 quangcao.24h.com.vn
@@ -456,7 +461,9 @@
 0.0.0.0 analytics.localytics.com
 0.0.0.0 applift.com
 0.0.0.0 tracking.applift.com
+# ---------------------------------
 # ------------ TESTING ------------
+# ---------------------------------
 0.0.0.0 123c.vn
 0.0.0.0 1phads.com
 0.0.0.0 201205igp.gameloft.com
