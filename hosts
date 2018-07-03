@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Updated: 02 Jul 2018
+# Updated: 03 Jul 2018
 # Please report any unblocked ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/issues
 # Homepage: https://github.com/bigdargon/hostsVN/
@@ -350,6 +350,83 @@
 0.0.0.0 lp.mp.mydas.mobi
 0.0.0.0 media.mydas.mobi
 0.0.0.0 ads.mp.mydas.mobi
+#[accesstrade]
+0.0.0.0 accesstrade.vn
+0.0.0.0 static.accesstrade.vn
+0.0.0.0 campaign.accesstrade.vn
+0.0.0.0 help.accesstrade.vn
+0.0.0.0 click.accesstrade.vn
+0.0.0.0 cv.accesstrade.vn
+0.0.0.0 duatop.accesstrade.vn
+0.0.0.0 member.accesstrade.vn
+0.0.0.0 pub.accesstrade.vn
+0.0.0.0 imp.accesstrade.vn
+0.0.0.0 forum.accesstrade.vn
+#[adpia]
+0.0.0.0 adpia.vn
+0.0.0.0 img.adpia.vn
+0.0.0.0 click.adpia.vn
+0.0.0.0 front.adpia.vn
+0.0.0.0 ac.adpia.vn
+0.0.0.0 mc.adpia.vn
+0.0.0.0 event.adpia.vn
+0.0.0.0 www.adpia.vn
+0.0.0.0 mail.adpia.vn
+#[chitika]
+0.0.0.0 chitika.com
+0.0.0.0 launchpad.chitika.com
+0.0.0.0 labs.chitika.com
+0.0.0.0 server.chitika.com
+#[conversantmedia]
+0.0.0.0 ams-ae.conversantmedia.com
+0.0.0.0 tab-obj.conversantmedia.com
+0.0.0.0 go.conversantmedia.com
+0.0.0.0 welcometo.conversantmedia.com
+0.0.0.0 access.conversantmedia.com
+0.0.0.0 alchemy-staging.conversantmedia.com
+0.0.0.0 campaigns.conversantmedia.com
+0.0.0.0 lynda.conversantmedia.com
+0.0.0.0 ord-ae.conversantmedia.com
+0.0.0.0 devjira-ext.conversantmedia.com
+0.0.0.0 vpn-europe.conversantmedia.com
+0.0.0.0 vpn-us-west.conversantmedia.com
+0.0.0.0 conversantmedia.com
+0.0.0.0 iad.conversantmedia.com
+#[exponential]
+0.0.0.0 creative.exponential.com
+0.0.0.0 exch.exponential.com
+0.0.0.0 webmail.exponential.com
+0.0.0.0 workday.exponential.com
+0.0.0.0 blog.exponential.com
+0.0.0.0 www.exponential.com
+0.0.0.0 ftp.exponential.com
+0.0.0.0 showcase.exponential.com
+0.0.0.0 ocsext.exponential.com
+0.0.0.0 ocsext1.exponential.com
+0.0.0.0 owa.exponential.com
+0.0.0.0 exponential.com
+#[propellerads]
+0.0.0.0 propellerads.com
+0.0.0.0 ad.propellerads.com
+0.0.0.0 www.ads.propellerads.com
+0.0.0.0 publishers.propellerads.com
+0.0.0.0 partners.propellerads.com
+0.0.0.0 adp.propellerads.com
+0.0.0.0 media.propellerads.com
+0.0.0.0 geoip.propellerads.com
+0.0.0.0 support.propellerads.com
+0.0.0.0 pub.propellerads.com
+#[yllix]
+0.0.0.0 yllix.com
+0.0.0.0 pub.yllix.com
+0.0.0.0 www.yllix.com
+0.0.0.0 is.yllix.com
+0.0.0.0 apn.yllix.com
+0.0.0.0 adv.yllix.com
+0.0.0.0 banners.yllix.com
+0.0.0.0 click2.yllix.com
+0.0.0.0 click1.yllix.com
+0.0.0.0 click.yllix.com
 # ---------------------------------
 # ------ Block by statistics ------
 # ---------------------------------
@@ -450,6 +527,10 @@
 0.0.0.0 qa.token.ad
 0.0.0.0 ads.adadapted.com
 0.0.0.0 ad.leadboltmobile.net
+0.0.0.0 adsoptimal.com
+0.0.0.0 intellilinks.com
+0.0.0.0 mediavenus.com
+0.0.0.0 dev-block.mediavenus.com
 #[analysis]
 0.0.0.0 images.dmca.com
 0.0.0.0 s.tuoitre.vn
@@ -816,7 +897,6 @@
 0.0.0.0 connect.decknetwork.net
 0.0.0.0 content.ad
 0.0.0.0 contentabc.com
-0.0.0.0 conversantmedia.com
 0.0.0.0 coremetrics.com
 0.0.0.0 corp.meitu.com
 0.0.0.0 counter.kingsoft.com
@@ -878,7 +958,6 @@
 0.0.0.0 everestads.net
 0.0.0.0 exit-ad.com
 0.0.0.0 exoclick.com
-0.0.0.0 exponential.com
 0.0.0.0 eyewonder.com
 0.0.0.0 f1.p0y.cn
 0.0.0.0 f2.p0y.cn
@@ -1142,7 +1221,6 @@
 0.0.0.0 pro.letv.com
 0.0.0.0 projectwonderful.com
 0.0.0.0 promote.biz.weibo.cn
-0.0.0.0 propellerads.com
 0.0.0.0 propellerpops.com
 0.0.0.0 psma02.com
 0.0.0.0 pub.funshion.com
