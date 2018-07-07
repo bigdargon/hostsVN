@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Updated: Jul 05 2018
+# Updated: Jul 07 2018
 # Please report any unblocked ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/issues
 # Homepage: https://github.com/bigdargon/hostsVN/
@@ -498,6 +498,10 @@
 0.0.0.0 p.medialytics.com
 0.0.0.0 px.cdn.creative.medialytics.com
 0.0.0.0 t.medialytics.com
+#[[agentanalytics]
+0.0.0.0 agentanalytics.com
+0.0.0.0 s.agentanalytics.com
+0.0.0.0 t.agentanalytics.com
 # ---------------------------------
 # --- Block page ads & analysis ---
 # ---------------------------------
@@ -534,6 +538,16 @@
 0.0.0.0 adnetwork.5imedia.vn
 0.0.0.0 click.uniad.vn
 0.0.0.0 click.xdeal.vn
+0.0.0.0 personaly.click
+0.0.0.0 ailamtrieuphu.com
+0.0.0.0 deltago.com
+0.0.0.0 vietdorje.com
+0.0.0.0 ads.footballaddicts.se
+0.0.0.0 images.footballaddicts.se
+0.0.0.0 img.masoffer.net
+0.0.0.0 static.masoffer.net
+0.0.0.0 app.masoffer.net
+0.0.0.0 api.app.masoffer.net
 #[analysis]
 0.0.0.0 images.dmca.com
 0.0.0.0 s.tuoitre.vn
@@ -545,6 +559,8 @@
 0.0.0.0 analytics.localytics.com
 0.0.0.0 applift.com
 0.0.0.0 tracking.applift.com
+0.0.0.0 web.f8.pyco.vn
+0.0.0.0 web.stagingf8.pycogroup.com
 # ---------------------------------
 # ------------ TESTING ------------
 # ---------------------------------
