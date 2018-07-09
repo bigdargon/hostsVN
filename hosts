@@ -456,6 +456,28 @@
 0.0.0.0 applifier.info
 0.0.0.0 lb.us-east-1.applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
+#[adjust]
+0.0.0.0 app.adjust.com
+0.0.0.0 adjust.com
+0.0.0.0 atom.adjust.com
+0.0.0.0 events.adjust.com
+0.0.0.0 help.adjust.com
+0.0.0.0 learn.adjust.com
+0.0.0.0 ulink.adjust.com
+0.0.0.0 adjustnetwork.com
+0.0.0.0 syo.adjustnetwork.com
+0.0.0.0 adn.adjustnetwork.com
+0.0.0.0 forward.adjustnetwork.com
+0.0.0.0 adjust.io
+0.0.0.0 rsa.adjust.io
+0.0.0.0 db.adjust.io
+0.0.0.0 backend.adjust.io
+0.0.0.0 frontend.adjust.io
+0.0.0.0 stage.adjust.io
+0.0.0.0 archive.adjust.io
+0.0.0.0 staging.adjust.io
+0.0.0.0 app.adjust.io
+0.0.0.0 redis.adjust.io
 # ---------------------------------
 # ------ Block by statistics ------
 # ---------------------------------
