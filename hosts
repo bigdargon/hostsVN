@@ -165,6 +165,8 @@
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 adtima-media-td.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
+0.0.0.0 log.sdk.zadn.vn
+0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 shop.zalo.me
 #[admob]
 0.0.0.0 admob.com
@@ -427,6 +429,33 @@
 0.0.0.0 click2.yllix.com
 0.0.0.0 click1.yllix.com
 0.0.0.0 click.yllix.com
+#[lifestreet]
+0.0.0.0 lifestreet.com
+0.0.0.0 www.lifestreet.com
+0.0.0.0 swift.lifestreet.com
+0.0.0.0 my.lifestreet.com
+0.0.0.0 lifestreetmedia.com
+0.0.0.0 www.lifestreetmedia.com
+0.0.0.0 my.lifestreetmedia.com
+#[applifier]
+0.0.0.0 applifier.com
+0.0.0.0 staging.applifier.com
+0.0.0.0 api.applifier.com
+0.0.0.0 docs.applifier.com
+0.0.0.0 gameads-admin.applifier.com
+0.0.0.0 impact.applifier.com
+0.0.0.0 impact.staging.applifier.com
+0.0.0.0 level3.applifier.com
+0.0.0.0 members.applifier.com
+0.0.0.0 my.applifier.com
+0.0.0.0 static.applifier.com
+0.0.0.0 stats.applifier.com
+0.0.0.0 storm.applifier.com
+0.0.0.0 test.applifier.com
+0.0.0.0 www.applifier.com
+0.0.0.0 applifier.info
+0.0.0.0 lb.us-east-1.applifier.info
+0.0.0.0 lb-delivery.us-east-1.applifier.info
 # ---------------------------------
 # ------ Block by statistics ------
 # ---------------------------------
@@ -502,6 +531,91 @@
 0.0.0.0 agentanalytics.com
 0.0.0.0 s.agentanalytics.com
 0.0.0.0 t.agentanalytics.com
+#[appsflyer]
+0.0.0.0 appsflyer.com
+0.0.0.0 attr.appsflyer.com
+0.0.0.0 register.appsflyer.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 app.appsflyer.com
+0.0.0.0 cdn.appsflyer.com
+0.0.0.0 community.appsflyer.com
+0.0.0.0 get.appsflyer.com
+0.0.0.0 www.get.appsflyer.com
+0.0.0.0 global.appsflyer.com
+0.0.0.0 hq.appsflyer.com
+0.0.0.0 hq1.appsflyer.com
+0.0.0.0 hub.appsflyer.com
+0.0.0.0 newclicks.appsflyer.com
+0.0.0.0 partners.appsflyer.com
+0.0.0.0 statsgoogle.appsflyer.com
+0.0.0.0 support.appsflyer.com
+0.0.0.0 www.appsflyer.com
+0.0.0.0 api.appsflyer.com
+0.0.0.0 impression.appsflyer.com
+0.0.0.0 monitorsdk.appsflyer.com
+0.0.0.0 sdk-services.appsflyer.com
+0.0.0.0 track.appsflyer.com
+#[crashlytics]
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 crashlytics.com
+0.0.0.0 realtime.crashlytics.com
+0.0.0.0 support.crashlytics.com
+0.0.0.0 apps.crashlytics.com
+0.0.0.0 apps-ios.crashlytics.com
+0.0.0.0 try.crashlytics.com
+#[sharethis]
+0.0.0.0 ad.sharethis.com
+0.0.0.0 al1.sharethis.com
+0.0.0.0 ead.sharethis.com
+0.0.0.0 sad.sharethis.com
+0.0.0.0 wd-edge.sharethis.com
+0.0.0.0 ws.sharethis.com
+0.0.0.0 l.sharethis.com
+0.0.0.0 seg.sharethis.com
+0.0.0.0 count-server.sharethis.com
+0.0.0.0 sharethis.com
+0.0.0.0 data.sharethis.com
+0.0.0.0 developer.sharethis.com
+0.0.0.0 help.sharethis.com
+0.0.0.0 platform-api.sharethis.com
+0.0.0.0 px.sharethis.com
+0.0.0.0 pxcel.sharethis.com
+0.0.0.0 support.sharethis.com
+0.0.0.0 www.sharethis.com
+0.0.0.0 t.sharethis.com
+0.0.0.0 edge.sharethis.com
+0.0.0.0 rest.sharethis.com
+0.0.0.0 s.sharethis.com
+0.0.0.0 sd.sharethis.com
+0.0.0.0 w.sharethis.com
+0.0.0.0 wd.sharethis.com
+0.0.0.0 mail.sharethis.com
+0.0.0.0 emu.sharethis.com
+0.0.0.0 engineering.sharethis.com
+0.0.0.0 blog.sharethis.com
+0.0.0.0 kiwi.sharethis.com
+#[airbrake]
+0.0.0.0 airbrake.io
+0.0.0.0 api.airbrake.io
+0.0.0.0 ssljscdn.airbrake.io
+0.0.0.0 blog.airbrake.io
+0.0.0.0 airbrake-gitlab.airbrake.io
+0.0.0.0 airbrake-github.airbrake.io
+#[answers]
+0.0.0.0 snip.answers.com
+0.0.0.0 staging.snip.answers.com
+0.0.0.0 a.answers.com 
+0.0.0.0 site.answers.com
+0.0.0.0 dub.answers.com
+0.0.0.0 glb.answers.com
+0.0.0.0 gweb.answers.com
+0.0.0.0 source.answers.com
+0.0.0.0 content.source.answers.com
+0.0.0.0 jabber.answers.com
 # ---------------------------------
 # --- Block page ads & analysis ---
 # ---------------------------------
@@ -548,11 +662,28 @@
 0.0.0.0 static.masoffer.net
 0.0.0.0 app.masoffer.net
 0.0.0.0 api.app.masoffer.net
+0.0.0.0 apinas.nct.vn
+0.0.0.0 lrc.nct.nixcdn.com
+0.0.0.0 ad-hcm.24hstatic.com
+0.0.0.0 ad-hn.24hstatic.com
+0.0.0.0 mobilead.vn
+0.0.0.0 novaonads.com
+0.0.0.0 newonads.com
+0.0.0.0 trenddigital.vn
+0.0.0.0 vinaads.vn
+0.0.0.0 cms.vinaads.vn
+0.0.0.0 cleverads.vn
+0.0.0.0 www.cleverads.vn
+0.0.0.0 crm.cleverads.vn
+0.0.0.0 tool.cleverads.vn
+0.0.0.0 vietbuzzad.com
 #[analysis]
 0.0.0.0 images.dmca.com
 0.0.0.0 s.tuoitre.vn
 0.0.0.0 log.news.zing.vn
 0.0.0.0 thongke.24h.com.vn
+0.0.0.0 log.baomoi.com
+0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 api-log-analytics.cloud.toast.com
 0.0.0.0 track.vatgia.com
 0.0.0.0 localytics.com
@@ -561,6 +692,7 @@
 0.0.0.0 tracking.applift.com
 0.0.0.0 web.f8.pyco.vn
 0.0.0.0 web.stagingf8.pycogroup.com
+0.0.0.0 smartpx.io
 # ---------------------------------
 # ------------ TESTING ------------
 # ---------------------------------
@@ -584,8 +716,6 @@
 0.0.0.0 ad-eu-west-1.pxlad.io
 0.0.0.0 adfonic.net
 0.0.0.0 adframe.mediaplex.com
-0.0.0.0 ad-hcm.24hstatic.com
-0.0.0.0 ad-hn.24hstatic.com
 0.0.0.0 adimg.net
 0.0.0.0 adinch.com
 0.0.0.0 adk2.co
