@@ -699,6 +699,8 @@
 0.0.0.0 crm.cleverads.vn
 0.0.0.0 tool.cleverads.vn
 0.0.0.0 vietbuzzad.com
+0.0.0.0 player.kmpmedia.net
+0.0.0.0 gplayer.kmpmedia.net
 #[analysis]
 0.0.0.0 images.dmca.com
 0.0.0.0 s.tuoitre.vn
@@ -715,6 +717,7 @@
 0.0.0.0 web.f8.pyco.vn
 0.0.0.0 web.stagingf8.pycogroup.com
 0.0.0.0 smartpx.io
+0.0.0.0 log.kmplayer.com
 # ---------------------------------
 # ------------ TESTING ------------
 # ---------------------------------
