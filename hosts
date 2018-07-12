@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Updated: Jul 10 2018
+# Updated: Jul 12 2018
 # Please report any unblocked ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/issues
 # Homepage: https://github.com/bigdargon/hostsVN/
@@ -8,6 +8,40 @@
 
 # Begin hostsVN
 # ----- Blocked by advertiser -----
+#[google]
+0.0.0.0 doubleclick.net
+0.0.0.0 adservices.google.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 googletagservices.com
+0.0.0.0 analytics.google.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 ad.youtube.com
+#[amazon]
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 advertising.amazon.com
+0.0.0.0 assoc-amazon.com
+#[yahoo]
+0.0.0.0 srvcs.tumblr.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 adserver.yahoo.com
+0.0.0.0 advertising.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 marketingsolutions.yahoo.com
+0.0.0.0 visit.webhosting.yahoo.com
+0.0.0.0 beep-bc.yahoo.com
+0.0.0.0 soundwave.mobile.yahoo.com
+0.0.0.0 syndication.streamads.yahoo.com
+#[facebook]
+0.0.0.0 ads.ak.facebook.com
+0.0.0.0 ads.ak.facebook.com.edgesuite.net
+0.0.0.0 creative.ak.facebook.com
+0.0.0.0 creative.ak.fbcdn.net
+0.0.0.0 sonar-iad.xx.fbcdn.net
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
 0.0.0.0 static.adtimaserver.vn
@@ -677,6 +711,16 @@
 0.0.0.0 crm.cleverads.vn
 0.0.0.0 tool.cleverads.vn
 0.0.0.0 vietbuzzad.com
+0.0.0.0 myad.vn
+0.0.0.0 uniad.vn
+0.0.0.0 vads.vn
+0.0.0.0 vclick.vn
+0.0.0.0 123c.vn
+0.0.0.0 adfox.vn
+0.0.0.0 adsplus.vn
+0.0.0.0 amobi.vn
+0.0.0.0 clix.vn
+0.0.0.0 fptad.com
 #[trackingVN]
 0.0.0.0 s.tuoitre.vn
 0.0.0.0 log.news.zing.vn
@@ -1042,7 +1086,6 @@
 0.0.0.0 ads.advance.net
 0.0.0.0 ads.adverline.com
 0.0.0.0 ads.affiliates.match.com
-0.0.0.0 ads.ak.facebook.com.edgesuite.net
 0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.alwayson-network.com
@@ -1371,7 +1414,6 @@
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads.yldmgrimg.net
 0.0.0.0 ads.yourfreedvds.com
-0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zdnet.com
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads03.redtube.com
@@ -1475,7 +1517,6 @@
 0.0.0.0 adserver.theonering.net
 0.0.0.0 adserver.viagogo.com
 0.0.0.0 adserver.virginmedia.com
-0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserver01.de
 0.0.0.0 adserver1.backbeatmedia.com
 0.0.0.0 adserver1.mindshare.de
@@ -1576,7 +1617,6 @@
 0.0.0.0 advertising.com
 0.0.0.0 advertising.guildlaunch.net
 0.0.0.0 advertising.microsoft.com
-0.0.0.0 advertising.yahoo.com
 0.0.0.0 advertisingbanners.com
 0.0.0.0 advertisingbox.com
 0.0.0.0 advertmarket.com
@@ -1658,14 +1698,12 @@
 0.0.0.0 allosponsor.com
 0.0.0.0 allstarmediagroup.com
 0.0.0.0 amazingcounters.com
-0.0.0.0 amazon-adsystem.com
 0.0.0.0 amobee.com
 0.0.0.0 amung.us
 0.0.0.0 an.tacoda.net
 0.0.0.0 anahtars.com
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.live.com
-0.0.0.0 analytics.yahoo.com
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 apex-ad.com
@@ -1698,7 +1736,6 @@
 0.0.0.0 as5000.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets1.exgfnetwork.com
-0.0.0.0 assoc-amazon.com
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 atdmt.com
 0.0.0.0 atlassolutions.com
@@ -2035,7 +2072,6 @@
 0.0.0.0 crazypopups.com
 0.0.0.0 creafi.com
 0.0.0.0 creafi-online-media.com
-0.0.0.0 creative.ak.facebook.com
 0.0.0.0 creative.whi.co.nz
 0.0.0.0 creatives.as4x.tmcs.net
 0.0.0.0 creatives.livejasmin.com
@@ -2103,7 +2139,6 @@
 0.0.0.0 dotomi.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
-0.0.0.0 doubleclick.net
 0.0.0.0 doublepimp.com
 0.0.0.0 drawbrid.ge
 0.0.0.0 drumcash.com
@@ -2258,7 +2293,6 @@
 0.0.0.0 gold.weborama.fr
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goldstats.com
-0.0.0.0 googlesyndication.com
 0.0.0.0 go-rank.de
 0.0.0.0 gostats.com
 0.0.0.0 gp.dejanews.com
@@ -2499,7 +2533,6 @@
 0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
-0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 marketo.com
 0.0.0.0 marketron.com
 0.0.0.0 maroonspider.com
@@ -3267,7 +3300,6 @@
 0.0.0.0 viewpoint.com
 0.0.0.0 viewwonder.com
 0.0.0.0 visistat.com
-0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 visitbox.de
 0.0.0.0 visual-pagerank.fr
 0.0.0.0 visualrevenue.com
@@ -4291,6 +4323,7 @@
 0.0.0.0 zyjyyy.com
 0.0.0.0 zztxdown.com
 # ---------- Block other ----------
+0.0.0.0 1phads.com
 0.0.0.0 4dle.info
 0.0.0.0 4dsply.com
 0.0.0.0 a.koudai.com
@@ -4316,6 +4349,8 @@
 0.0.0.0 adk2x.com
 0.0.0.0 adkeeper.com
 0.0.0.0 adlike.com
+0.0.0.0 adlike.net
+0.0.0.0 adlite.net
 0.0.0.0 admtpmp127.com
 0.0.0.0 adpdx.com
 0.0.0.0 adrock.com.ua
@@ -4325,6 +4360,7 @@
 0.0.0.0 ads.n-ws.org 
 0.0.0.0 ads.ontarget.mobi
 0.0.0.0 ads04.tapsense.com
+0.0.0.0 adsafeprotected.com
 0.0.0.0 adsellers.net
 0.0.0.0 adserve.gzero.com
 0.0.0.0 adserver.mgsex.com
@@ -4333,26 +4369,36 @@
 0.0.0.0 adsmogo.mobi
 0.0.0.0 adsmogo.net
 0.0.0.0 adsmogo.org
+0.0.0.0 adsoctopus.com
 0.0.0.0 adsrocket.net
 0.0.0.0 adver.mobi
 0.0.0.0 adverserve.net
 0.0.0.0 adwo.com
+0.0.0.0 aimadigital.com
 0.0.0.0 akncdn.com
 0.0.0.0 alea.adam.daum.net
 0.0.0.0 alexa.links.cn
 0.0.0.0 allyes.com
+0.0.0.0 ambient-platform.com
 0.0.0.0 andomedia.com
 0.0.0.0 api.cupid.iqiyi.com
 0.0.0.0 app.adsoctopus.com
+0.0.0.0 appclick.co
+0.0.0.0 appfireworks.com
+0.0.0.0 app-measurement.com
+0.0.0.0 appnext.com
+0.0.0.0 appnext.hs.llnwd.net
+0.0.0.0 apptimize.com
+0.0.0.0 artofclick.com
 0.0.0.0 atlassbx.com
 0.0.0.0 aty.sohu.com
+0.0.0.0 avazutracking.net
 0.0.0.0 avocarrot.com
 0.0.0.0 awsatstb.com
 0.0.0.0 baidustatic.com
 0.0.0.0 bcp-usw45.zenfs.com
 0.0.0.0 bdzhhjnml.pw
 0.0.0.0 bead-ad.com
-0.0.0.0 beep-bc.yahoo.com
 0.0.0.0 billytesting.com
 0.0.0.0 bnmla.com
 0.0.0.0 brightroll.de
@@ -4363,17 +4409,20 @@
 0.0.0.0 cb-cdn.com
 0.0.0.0 clic.grenads.com
 0.0.0.0 clickzs.com
+0.0.0.0 cloudmobi.net
 0.0.0.0 cmcore.com
 0.0.0.0 cuguwxkasghy.com
 0.0.0.0 cupid.iqiyi.com
 0.0.0.0 cupid.qiyi.com
 0.0.0.0 damoh.spiegel.de
 0.0.0.0 data.vod.itc.cn
+0.0.0.0 deployads.com
 0.0.0.0 dev.dc.letv.com
 0.0.0.0 domob.cn
 0.0.0.0 domob.com.cn
 0.0.0.0 domob.org
 0.0.0.0 domobcdn.com
+0.0.0.0 duapps.com
 0.0.0.0 dui88.com
 0.0.0.0 duiba.com.cn
 0.0.0.0 duiwai.baidu.com
@@ -4388,13 +4437,16 @@
 0.0.0.0 fus.yad2.co.il
 0.0.0.0 g.uusee.com
 0.0.0.0 genericsteps.com
+0.0.0.0 glispa.com
 0.0.0.0 goodadvert.com.ua
 0.0.0.0 googeadsserving.cn
+0.0.0.0 gowadogo.com
 0.0.0.0 guohead.com
 0.0.0.0 guomob.com
 0.0.0.0 gw5.push.mcp.weibo.cn
 0.0.0.0 gid.wonderlandads.com
 0.0.0.0 h2.msn.com
+0.0.0.0 hxczzzw.com
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 imedia.cz
 0.0.0.0 immob.cn
@@ -4415,6 +4467,8 @@
 0.0.0.0 lives.l.qq.com
 0.0.0.0 livesmi.com
 0.0.0.0 log.kuwo.cn
+0.0.0.0 log.umsns.com
+0.0.0.0 logger.cloudmobi.net
 0.0.0.0 m.game.weibo.cn
 0.0.0.0 m.madthumbs.com
 0.0.0.0 m2pub.com
@@ -4430,6 +4484,7 @@
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobilefuse.net
 0.0.0.0 mobiright.com
+0.0.0.0 mobrand.net
 0.0.0.0 mob-server.com
 0.0.0.0 mobytrks.com
 0.0.0.0 movi11.com
@@ -4446,14 +4501,17 @@
 0.0.0.0 padsdel.com
 0.0.0.0 pflexads.com
 0.0.0.0 pindao.huoban.taobao.com
+0.0.0.0 play.leadzutw.com
 0.0.0.0 playnomics.net
 0.0.0.0 plog.dc.letv.com
+0.0.0.0 polymob.com
 0.0.0.0 pop2gifts.co.s3-website.eu-central-1.amazonaws.com
 0.0.0.0 pro.hoye.letv.com
 0.0.0.0 pub2srv.com
 0.0.0.0 pushnative.com
 0.0.0.0 qqvideo.tc.qq.com
 0.0.0.0 questionmarket.com
+0.0.0.0 rayjump.com
 0.0.0.0 reachmax.cn
 0.0.0.0 redtram.com
 0.0.0.0 reporo.net
@@ -4462,18 +4520,23 @@
 0.0.0.0 rnmd.net
 0.0.0.0 rtb.adx1.com
 0.0.0.0 s1.download123.com
+0.0.0.0 sbbanner.com
+0.0.0.0 smartadserver.ru
 0.0.0.0 smartmad.com
 0.0.0.0 socdm.com
-0.0.0.0 soundwave.mobile.yahoo.com
 0.0.0.0 speednetwork1.adk2x.com
 0.0.0.0 startappservice.com
 0.0.0.0 stat.letv.com
 0.0.0.0 static.increas.eu
-0.0.0.0 syndication.streamads.yahoo.com
+0.0.0.0 sumatoad.com
+0.0.0.0 supersonicads.com
 0.0.0.0 taboolasyndication.com
 0.0.0.0 tajs.qq.com
+0.0.0.0 tapas.net
+0.0.0.0 taptica.com
 0.0.0.0 teasernet.com
 0.0.0.0 tuisong.baidu.com
+0.0.0.0 tracking.lenzmx.com
 0.0.0.0 traffic.uusee.com
 0.0.0.0 trafficgate.net
 0.0.0.0 transpera.com
@@ -4484,6 +4547,8 @@
 0.0.0.0 ucweb.com
 0.0.0.0 uimserv.net
 0.0.0.0 umeng.co
+0.0.0.0 umeng.com
+0.0.0.0 umengcloud.com
 0.0.0.0 umtrack.com
 0.0.0.0 unlitui.com
 0.0.0.0 unthem.com
@@ -4502,6 +4567,7 @@
 0.0.0.0 www-105-slidein.clickintext.net
 0.0.0.0 www-classic.clickintext.net
 0.0.0.0 yluvo.com
+0.0.0.0 ymtracking.com
 0.0.0.0 zc.biz.weibo.com
 0.0.0.0 ziiporn.com
 0.0.0.0 zucks.net
