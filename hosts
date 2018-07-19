@@ -20,6 +20,7 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 ad.youtube.com
 #[amazon]
+0.0.0.0 mads.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 advertising.amazon.com
 0.0.0.0 assoc-amazon.com
@@ -512,6 +513,37 @@
 0.0.0.0 staging.adjust.io
 0.0.0.0 app.adjust.io
 0.0.0.0 redis.adjust.io
+[duapps]
+0.0.0.0 ad.duapps.com
+0.0.0.0 androidgo.duapp.com
+0.0.0.0 api.mobula.ds.duapps.com
+0.0.0.0 api.mobula.sdk.duapps.com
+0.0.0.0 api.recorder.duapps.com
+0.0.0.0 common.duapps.com
+0.0.0.0 duapps-photos-adv.gshifen.com
+0.0.0.0 duapps-photos-adv.wshifen.com
+0.0.0.0 duapps.com
+0.0.0.0 fbapi.sd.duapps.com
+0.0.0.0 gc.ds.duapps.com
+0.0.0.0 isgame.ds.duapps.com
+0.0.0.0 mblapi.ssl2.duapps.com
+0.0.0.0 misc.sd.duapps.com
+0.0.0.0 mobula.ssl2.duapps.com
+0.0.0.0 noxagile.duapp.com
+0.0.0.0 nrc.ds.duapps.com
+0.0.0.0 nrc.sd.duapps.com
+0.0.0.0 pasta.dp.duapps.com
+0.0.0.0 pasta.ds.duapps.com
+0.0.0.0 pasta.durecorder.duapps.com
+0.0.0.0 pasta.esfile.duapps.com
+0.0.0.0 pasta.sd.duapps.com
+0.0.0.0 rts.mobula.sdk.duapps.com
+0.0.0.0 rts.ssl2.duapps.com
+0.0.0.0 s.duapps.com
+0.0.0.0 sandbox.duapps.com
+0.0.0.0 url.ds.duapps.com
+0.0.0.0 video.rec.duapps.com
+0.0.0.0 whosthat.ssl2.duapps.com
 # ------ Block by statistics ------
 #[subiz]
 0.0.0.0 subiz.com
@@ -4521,6 +4553,8 @@
 0.0.0.0 rtb.adx1.com
 0.0.0.0 s1.download123.com
 0.0.0.0 sbbanner.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 scorecardresearch.com
 0.0.0.0 smartadserver.ru
 0.0.0.0 smartmad.com
 0.0.0.0 socdm.com
