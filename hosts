@@ -4868,6 +4868,7 @@
 0.0.0.0 ackak.com
 0.0.0.0 acs86.com
 0.0.0.0 acsystem.wasu.cn
+0.0.0.0 ad-eu-west-1.pxlad.io
 0.0.0.0 ad.api.3g.tudou.com
 0.0.0.0 ad120m.com
 0.0.0.0 ad127m.com
@@ -4875,10 +4876,9 @@
 0.0.0.0 ad132m.com
 0.0.0.0 adbooth.com
 0.0.0.0 adbouc.com
-0.0.0.0 adcome.cn
 0.0.0.0 adchina.com
+0.0.0.0 adcome.cn
 0.0.0.0 addisp.com
-0.0.0.0 ad-eu-west-1.pxlad.io
 0.0.0.0 adfonic.net
 0.0.0.0 adframe.mediaplex.com
 0.0.0.0 adimg.net
@@ -4918,10 +4918,10 @@
 0.0.0.0 ambient-platform.com
 0.0.0.0 andomedia.com
 0.0.0.0 api.cupid.iqiyi.com
+0.0.0.0 app-measurement.com
 0.0.0.0 app.adsoctopus.com
 0.0.0.0 appclick.co
 0.0.0.0 appfireworks.com
-0.0.0.0 app-measurement.com
 0.0.0.0 appnext.com
 0.0.0.0 appnext.hs.llnwd.net
 0.0.0.0 apptimize.com
@@ -4931,6 +4931,7 @@
 0.0.0.0 avazutracking.net
 0.0.0.0 avocarrot.com
 0.0.0.0 awsatstb.com
+0.0.0.0 b.scorecardresearch.com
 0.0.0.0 baidustatic.com
 0.0.0.0 bcp-usw45.zenfs.com
 0.0.0.0 bdzhhjnml.pw
@@ -4971,6 +4972,7 @@
 0.0.0.0 fus.yad2.co.il
 0.0.0.0 g.uusee.com
 0.0.0.0 genericsteps.com
+0.0.0.0 gid.wonderlandads.com
 0.0.0.0 glispa.com
 0.0.0.0 goodadvert.com.ua
 0.0.0.0 googeadsserving.cn
@@ -4978,14 +4980,13 @@
 0.0.0.0 guohead.com
 0.0.0.0 guomob.com
 0.0.0.0 gw5.push.mcp.weibo.cn
-0.0.0.0 gid.wonderlandads.com
 0.0.0.0 h2.msn.com
 0.0.0.0 hxczzzw.com
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 imedia.cz
 0.0.0.0 immob.cn
-0.0.0.0 inmobicdn.net
 0.0.0.0 inmobi-jp.com
+0.0.0.0 inmobicdn.net
 0.0.0.0 jsmbaidu.com
 0.0.0.0 kau.li
 0.0.0.0 kejet.net
@@ -5015,11 +5016,11 @@
 0.0.0.0 miaozhen.com
 0.0.0.0 microad.net
 0.0.0.0 mng-ads.com
+0.0.0.0 mob-server.com
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobilefuse.net
 0.0.0.0 mobiright.com
 0.0.0.0 mobrand.net
-0.0.0.0 mob-server.com
 0.0.0.0 mobytrks.com
 0.0.0.0 movi11.com
 0.0.0.0 msads.net
@@ -5054,8 +5055,8 @@
 0.0.0.0 rnmd.net
 0.0.0.0 rtb.adx1.com
 0.0.0.0 s1.download123.com
-0.0.0.0 sbbanner.com
 0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 sbbanner.com
 0.0.0.0 smartadserver.ru
 0.0.0.0 smartmad.com
 0.0.0.0 socdm.com
@@ -5070,7 +5071,6 @@
 0.0.0.0 tapas.net
 0.0.0.0 taptica.com
 0.0.0.0 teasernet.com
-0.0.0.0 tuisong.baidu.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 traffic.uusee.com
 0.0.0.0 trafficgate.net
@@ -5078,6 +5078,7 @@
 0.0.0.0 tremorhub.com
 0.0.0.0 tremormedia.com
 0.0.0.0 trends.mobile.sina.cn
+0.0.0.0 tuisong.baidu.com
 0.0.0.0 uauniverse.com
 0.0.0.0 ucweb.com
 0.0.0.0 uimserv.net
@@ -5097,10 +5098,10 @@
 0.0.0.0 wbclick.mobile.sina.cn
 0.0.0.0 wooboo.com.cn
 0.0.0.0 wqmobile.com
-0.0.0.0 www.adexchangetracker.com
-0.0.0.0 www.grenads.com
 0.0.0.0 www-105-slidein.clickintext.net
 0.0.0.0 www-classic.clickintext.net
+0.0.0.0 www.adexchangetracker.com
+0.0.0.0 www.grenads.com
 0.0.0.0 yluvo.com
 0.0.0.0 ymtracking.com
 0.0.0.0 zc.biz.weibo.com
