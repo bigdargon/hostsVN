@@ -44,6 +44,7 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 ad.youtube.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 googleadapis.l.google.com
 0.0.0.0 ads.gmodules.com
 0.0.0.0 www.gmodules.com
 #[amazon]
@@ -54,6 +55,10 @@
 0.0.0.0 fls-na.amazon.com
 #[yahoo]
 0.0.0.0 srvcs.tumblr.com
+0.0.0.0 ls.srvcs.tumblr.com
+0.0.0.0 px.srvcs.tumblr.com
+0.0.0.0 saber.srvcs.tumblr.com
+0.0.0.0 cspreports.srvcs.tumblr.com
 0.0.0.0 geo.yahoo.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 adserver.yahoo.com
@@ -432,7 +437,6 @@
 0.0.0.0 cv.accesstrade.vn
 0.0.0.0 duatop.accesstrade.vn
 0.0.0.0 member.accesstrade.vn
-0.0.0.0 pub.accesstrade.vn
 0.0.0.0 imp.accesstrade.vn
 0.0.0.0 forum.accesstrade.vn
 #[adpia]
@@ -1294,6 +1298,15 @@
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 sg-mtrack.rayjump.com
 0.0.0.0 tknet.rayjump.com
+#[openload]
+0.0.0.0 openload.info
+0.0.0.0 www.openload.de
+0.0.0.0 analytics.openload.co
+0.0.0.0 adanalytics.openload.co
+0.0.0.0 tt1.openload.co
+0.0.0.0 tt2.openload.co
+0.0.0.0 stats.openload.co
+0.0.0.0 logdev.openload.co
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 ad.24h.com.vn
@@ -1358,6 +1371,8 @@
 0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track.srv.vietnamnet.vn
+0.0.0.0 s.kenh14.vn
+0.0.0.0 s.soha.vn
 #[betVN]
 0.0.0.0 11bet.com
 0.0.0.0 lucky88.com
@@ -4720,6 +4735,7 @@
 0.0.0.0 annengdl.com
 0.0.0.0 anhui-attorney.com
 0.0.0.0 aonikesi.com
+0.0.0.0 api.simplesharebuttons.com
 0.0.0.0 api-log-analytics.cloud.toast.com
 0.0.0.0 apiparbion.com
 0.0.0.0 appboy.com
@@ -5278,6 +5294,7 @@
 0.0.0.0 sightshare.com
 0.0.0.0 siliconclasses.in
 0.0.0.0 simplequiltmaking.com
+0.0.0.0 simplesharebuttons.com
 0.0.0.0 sinopengelleriasma.com
 0.0.0.0 sisters.truyen24h.info
 0.0.0.0 smartpx.io
@@ -5304,6 +5321,7 @@
 0.0.0.0 sushischool.ru
 0.0.0.0 swzhb.com
 0.0.0.0 sympation.com
+0.0.0.0 syndication.twitter.com
 0.0.0.0 szdamuzhi.com
 0.0.0.0 sznaucer-figa.nd.e-wro.pl
 0.0.0.0 szzlzn.com
