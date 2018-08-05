@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Updated: Aug 04 2018
+# Updated: Aug 05 2018
 # Please report any unblocked ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
 # Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
@@ -12,15 +12,47 @@
 #[google]
 0.0.0.0 doubleclick.net
 0.0.0.0 g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ad.bg.doubleclick.net
+0.0.0.0 ad.eg.doubleclick.net
+0.0.0.0 ad.sg.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 ad-g.doubleclick.net
+0.0.0.0 adx.g.doubleclick.net
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 dp.g.doubleclick.net
+0.0.0.0 feedads.g.doubleclick.net
+0.0.0.0 googleads2.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 remarketing.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.cl.doubleclick.net
+0.0.0.0 ad.il.doubleclick.net
+0.0.0.0 ad.nl.doubleclick.net
+0.0.0.0 ad.pl.doubleclick.net
 0.0.0.0 iv.doubleclick.net
 0.0.0.0 gan.doubleclick.net
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 static.doubleclick.net
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 l.doubleclick.net
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 ads-bid.l.doubleclick.net
+0.0.0.0 betareportcentral.doubleclick.net
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 dart-apac.l.doubleclick.net
+0.0.0.0 dbcontrol.doubleclick.net
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 paypalssl.doubleclick.net
+0.0.0.0 publisherportal.doubleclick.net
+0.0.0.0 rd.intl.doubleclick.net
+0.0.0.0 reportcentral.doubleclick.net
+0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 adservice.google.com
 0.0.0.0 adservices.google.com
 0.0.0.0 googlesyndication.com
@@ -36,24 +68,90 @@
 0.0.0.0 tpcnc.googlesyndication.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 googletagservices.com
 0.0.0.0 www.googletagservices.com
+0.0.0.0 googleadservices.com
+0.0.0.0 4.afs.googleadservices.com
+0.0.0.0 feedads.googleadservices.com
+0.0.0.0 m4.afs.googleadservices.com
+0.0.0.0 mimageads.googleadservices.com
+0.0.0.0 mimageads1.googleadservices.com
+0.0.0.0 mimageads2.googleadservices.com
+0.0.0.0 mimageads3.googleadservices.com
+0.0.0.0 mimageads4.googleadservices.com
+0.0.0.0 mimageads5.googleadservices.com
+0.0.0.0 mimageads6.googleadservices.com
+0.0.0.0 mimageads7.googleadservices.com
+0.0.0.0 mimageads8.googleadservices.com
+0.0.0.0 mimageads9.googleadservices.com
+0.0.0.0 mpartner.googleadservices.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 www.partner.googleadservices.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 analytics.google.com
+0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
+0.0.0.0 cctldtest.google-analytics.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ad.youtube.com
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 googleadapis.l.google.com
+0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 pagead.l.google.com
+0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 pagead-tpc.l.google.com
+0.0.0.0 partnerad.l.google.com
+0.0.0.0 ssl-google-analytics.l.google.com
+0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 ads.gmodules.com
 0.0.0.0 www.gmodules.com
+#[apple]
+0.0.0.0 advertising.apple.com
+0.0.0.0 banners.itunes.apple.com
+0.0.0.0 ca.iadsdk.apple.com
+0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 cs.iadsdk.apple.com
+0.0.0.0 iadmoo.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 news.iadsdk.apple.com
+0.0.0.0 qwapi.apple.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 stats.gc.apple.com
+0.0.0.0 stats.gc-apple.com.akadns.net
+0.0.0.0 su.iadsdk.apple.com
+0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 ut.iadsdk.apple.com
+0.0.0.0 www.iadsdk.apple.com
+0.0.0.0 metrics.icloud.com
 #[amazon]
 0.0.0.0 mads.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 advertising.amazon.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 fls-na.amazon.com
+0.0.0.0 aan.amazon.com
+0.0.0.0 aax-us-iad.amazon.com
+0.0.0.0 advertising-eu.amazon.com
+0.0.0.0 ape-dyad-service-eu.amazon.com
+0.0.0.0 applab-sdk.amazon.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 fls-eu.amazon.com
+0.0.0.0 geo.camazon.com
+0.0.0.0 mads-eu.amazon.com
+0.0.0.0 mas-ext.amazon.com
+0.0.0.0 mas-sdk.amazon.com
+0.0.0.0 rcm.amazon.com
+0.0.0.0 rcm-images.amazon.com
+0.0.0.0 uedata.amazon.com
+0.0.0.0 wms.assoc-amazon.com
+0.0.0.0 ws-fe.assoc-amazon.com
+0.0.0.0 ws-na.assoc-amazon.com
+0.0.0.0 www.assoc-amazon.com
 #[yahoo]
+0.0.0.0 platform.tumblr.com
 0.0.0.0 srvcs.tumblr.com
 0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 px.srvcs.tumblr.com
@@ -77,6 +175,7 @@
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 sonar-iad.xx.fbcdn.net
 0.0.0.0 connect.facebook.net
+0.0.0.0 pixel.facebook.com
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
 0.0.0.0 static.adtimaserver.vn
@@ -291,6 +390,7 @@
 0.0.0.0 eqx.smartadserver.com
 0.0.0.0 preview.smartadserver.com
 0.0.0.0 tmk.smartadserver.com
+0.0.0.0 smartadserver.ru
 #[popads]
 0.0.0.0 popads.net
 0.0.0.0 serve.popads.net
@@ -876,7 +976,6 @@
 0.0.0.0 api.appnext.com
 0.0.0.0 appnext-a.akamaihd.net
 0.0.0.0 appnext.com
-0.0.0.0 appnext.hs.llnwd.net
 0.0.0.0 cdn.appnext.com
 0.0.0.0 developers.appnext.com
 0.0.0.0 global.appnext.com
@@ -1307,6 +1406,73 @@
 0.0.0.0 tt2.openload.co
 0.0.0.0 stats.openload.co
 0.0.0.0 logdev.openload.co
+#[mopub]
+0.0.0.0 admin.adserver.mopub.com
+0.0.0.0 admin.mpx.mopub.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 analytics.mopub.com
+0.0.0.0 app.mopub.com
+0.0.0.0 cpp.imp.mpx.mopub.com
+0.0.0.0 developers.mopub.com
+0.0.0.0 media.mopub.com
+0.0.0.0 momonitor.mopub.com
+0.0.0.0 mopub.com
+0.0.0.0 mpx.mopub.com
+0.0.0.0 post.update.mopub.com
+0.0.0.0 public.billing.master.postgres.mopub.com
+0.0.0.0 s.mopub.com
+0.0.0.0 s.update.mopub.com
+0.0.0.0 s2.mopub.com
+0.0.0.0 static2.mopub.com
+0.0.0.0 v3.ads.mopub.com
+0.0.0.0 voxel.read.admin.mpx.mopub.com
+0.0.0.0 voxel.read.mongostats.mopub.com
+0.0.0.0 voxel.write.admin.mpx.mopub.com
+0.0.0.0 voxel.write.mongostats.mopub.com
+0.0.0.0 www.mopub.com
+0.0.0.0 www3.mopub.com
+#[llnwd]
+0.0.0.0 admeta.vo.llnwd.net
+0.0.0.0 broadent.vo.llnwd.net
+0.0.0.0 ytaahg.vo.llnwd.net
+0.0.0.0 intermrkts.vo.llnwd.net
+0.0.0.0 wbads.vo.llnwd.net
+0.0.0.0 tealium.hs.llnwd.net
+0.0.0.0 appnext.hs.llnwd.net
+0.0.0.0 videoplus.vo.llnwd.net
+0.0.0.0 abbott.vo.llnwd.net
+0.0.0.0 teachscape.vo.llnwd.net
+0.0.0.0 msbmopod.vo.llnwd.net
+0.0.0.0 edwlifes.vo.llnwd.net
+0.0.0.0 atkins.vo.llnwd.net
+0.0.0.0 synthes.vo.llnwd.net
+0.0.0.0 tmz.vo.llnwd.net
+0.0.0.0 icvdm.vo.llnwd.net
+0.0.0.0 toyota.vo.llnwd.net
+0.0.0.0 textron.vo.llnwd.net
+0.0.0.0 behance.vo.llnwd.net
+0.0.0.0 kjos.vo.llnwd.net
+0.0.0.0 harvardbp.vo.llnwd.net
+0.0.0.0 amznadsi.hs.llnwd.net
+0.0.0.0 wdig.vo.llnwd.net
+0.0.0.0 advantech.vo.llnwd.net
+0.0.0.0 bandai.hs.llnwd.net
+0.0.0.0 embanet.vo.llnwd.net
+0.0.0.0 eyewond.hs.llnwd.net
+0.0.0.0 finedesign.vo.llnwd.net
+0.0.0.0 gulfstream.vo.llnwd.net
+0.0.0.0 gymboree.hs.llnwd.net
+0.0.0.0 hbpub.vo.llnwd.net
+0.0.0.0 inskin.vo.llnwd.net
+0.0.0.0 msbrandent.vo.llnwd.net
+0.0.0.0 navigon.vo.llnwd.net
+0.0.0.0 nytelecom.vo.llnwd.net
+0.0.0.0 rbb.ic.llnwd.net
+0.0.0.0 responsys.hs.llnwd.net
+0.0.0.0 surveyor.vo.llnwd.net
+0.0.0.0 usarmy.vo.llnwd.net
+0.0.0.0 xmpie.vo.llnwd.net
+0.0.0.0 goviral.hs.llnwd.net
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 ad.24h.com.vn
@@ -2396,7 +2562,6 @@
 0.0.0.0 advertiserurl.com
 0.0.0.0 advertisespace.com
 0.0.0.0 advertising.aol.com
-0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.com
 0.0.0.0 advertising.guildlaunch.net
 0.0.0.0 advertising.microsoft.com
@@ -3299,7 +3464,6 @@
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 iadctest.qwapi.com
 0.0.0.0 iadnet.com
-0.0.0.0 iadsdk.apple.com
 0.0.0.0 iasds01.com
 0.0.0.0 i-clicks.net
 0.0.0.0 iconadserver.com
@@ -3631,7 +3795,6 @@
 0.0.0.0 monsterpops.com
 0.0.0.0 mookie1.com
 0.0.0.0 moolahmedia.com
-0.0.0.0 mopub.com
 0.0.0.0 motricity.com
 0.0.0.0 motrixi.com
 0.0.0.0 mouseflow.com
@@ -3783,7 +3946,6 @@
 0.0.0.0 oxcash.com
 0.0.0.0 oxen.hillcountrytexas.com
 0.0.0.0 p.adpdx.com
-0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
 0.0.0.0 pagerank4u.eu
@@ -3802,7 +3964,6 @@
 0.0.0.0 partage-facile.com
 0.0.0.0 partner.pelikan.cz
 0.0.0.0 partner.topcities.com
-0.0.0.0 partnerad.l.google.com
 0.0.0.0 partner-ads.com
 0.0.0.0 partnercash.de
 0.0.0.0 partners.priceline.com
@@ -3936,7 +4097,6 @@
 0.0.0.0 qa.token.ad
 0.0.0.0 qctop.com
 0.0.0.0 qnsr.com
-0.0.0.0 qwapi.apple.com
 0.0.0.0 quaintcan.com
 0.0.0.0 quakemarketing.com
 0.0.0.0 quantcast.com
@@ -4562,7 +4722,6 @@
 0.0.0.0 www1.gto-media.com
 0.0.0.0 www8.glam.com
 0.0.0.0 www-banner.chat.ru
-0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 wwwpromoter.com
 0.0.0.0 x6.yakiuchi.com
 0.0.0.0 xad.com
@@ -4741,6 +4900,7 @@
 0.0.0.0 appboy.com
 0.0.0.0 appimmobilier.com
 0.0.0.0 app-measurement.com
+0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 apphay.me
 0.0.0.0 apsalar.com
 0.0.0.0 aquapuremultiservicios.es
@@ -4843,6 +5003,7 @@
 0.0.0.0 ckidkina.ru
 0.0.0.0 cn-lushan.com
 0.0.0.0 co.at.vc
+0.0.0.0 comscoreresearch.com
 0.0.0.0 commissioncrusher.com
 0.0.0.0 compdata.ca
 0.0.0.0 concerone.com
@@ -5394,6 +5555,7 @@
 0.0.0.0 wee4wee.ws
 0.0.0.0 westcountry.ru
 0.0.0.0 wittyvideos.com
+0.0.0.0 wieistmeineip.de
 0.0.0.0 woojeoung.com
 0.0.0.0 wsxhost.net
 0.0.0.0 wtdpcb.com
@@ -5673,7 +5835,6 @@
 0.0.0.0 rtb.adx1.com
 0.0.0.0 s1.download123.com
 0.0.0.0 sbbanner.com
-0.0.0.0 smartadserver.ru
 0.0.0.0 smartmad.com
 0.0.0.0 socdm.com
 0.0.0.0 speednetwork1.adk2x.com
