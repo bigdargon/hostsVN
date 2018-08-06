@@ -1818,6 +1818,36 @@
 0.0.0.0 askfm.pushwoosh.com
 0.0.0.0 status.pushwoosh.com
 0.0.0.0 stat.pushwoosh.com
+#[appsee]
+0.0.0.0 1bb821ddb967b3e010b63f2a2f3308e3.api.appsee.com
+0.0.0.0 3d435cd34347e255ef1536bfbd72413c.api.appsee.com
+0.0.0.0 aa7bd76554cff2d93d33288d31aa6839.api.appsee.com
+0.0.0.0 api.appsee.com
+0.0.0.0 api.qa.test.appsee.com
+0.0.0.0 appetizers.appsee.com
+0.0.0.0 appgrowth.appsee.com
+0.0.0.0 appsee.com
+0.0.0.0 apptesting.appsee.com
+0.0.0.0 blog.appsee.com
+0.0.0.0 courses.appsee.com
+0.0.0.0 cr.appsee.com
+0.0.0.0 dashboard.appsee.com
+0.0.0.0 dashboard.bom.test.appsee.com
+0.0.0.0 dashboard.qa.test.appsee.com
+0.0.0.0 dashboard.tweet.test.appsee.com
+0.0.0.0 get.appsee.com
+0.0.0.0 mmmag.appsee.com
+0.0.0.0 pm.appsee.com
+0.0.0.0 status.appsee.com
+0.0.0.0 support.appsee.com
+0.0.0.0 ux.appsee.com
+0.0.0.0 www.api.appsee.com
+0.0.0.0 www.appsee.com
+0.0.0.0 www.blog.appsee.com
+0.0.0.0 www.dashboard.appsee.com
+0.0.0.0 www.get.appsee.com
+0.0.0.0 www.qa.test.appsee.com
+0.0.0.0 www.support.appsee.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 ad.24h.com.vn
