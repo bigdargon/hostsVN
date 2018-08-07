@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Updated: Aug 06 2018
+# Updated: Aug 07 2018
 # Please report any unblocked ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
 # Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
@@ -128,6 +128,8 @@
 #[amazon]
 0.0.0.0 mads.amazon.com
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 advertising.amazon.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 fls-na.amazon.com
@@ -260,6 +262,7 @@
 0.0.0.0 admicro6.vcmedia.vn
 0.0.0.0 ads.hosting.vcmedia.vn
 #[adnetwork]
+0.0.0.0 adnetwork.vn
 0.0.0.0 media.adnetwork.vn
 0.0.0.0 s-cm.send.adnetwork.vn
 0.0.0.0 retg.adnetwork.vn
@@ -311,7 +314,6 @@
 0.0.0.0 media.m.ambientplatform.vn
 0.0.0.0 click.m.ambientplatform.vn
 0.0.0.0 delivery.m.ambientplatform.vn
-0.0.0.0 adnetwork.vn
 #[ants]
 0.0.0.0 ants.vn
 0.0.0.0 d.ants.vn
@@ -1197,6 +1199,7 @@
 0.0.0.0 httpring.qq.com
 0.0.0.0 i.gdt.qq.com
 0.0.0.0 imc.l.qq.com
+0.0.0.0 bugly.qq.com
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 isdspeed.qq.com
 0.0.0.0 j.wit.qq.com
@@ -1822,6 +1825,7 @@
 0.0.0.0 1bb821ddb967b3e010b63f2a2f3308e3.api.appsee.com
 0.0.0.0 3d435cd34347e255ef1536bfbd72413c.api.appsee.com
 0.0.0.0 aa7bd76554cff2d93d33288d31aa6839.api.appsee.com
+0.0.0.0 c7a54a18ef10e6b744d6f367a3313cfc.api.appsee.com
 0.0.0.0 api.appsee.com
 0.0.0.0 api.qa.test.appsee.com
 0.0.0.0 appetizers.appsee.com
@@ -5671,7 +5675,6 @@
 0.0.0.0 location.fashionises.com
 0.0.0.0 lococcc.com
 0.0.0.0 log.kmplayer.com
-0.0.0.0 log.tutuapp.com
 0.0.0.0 loles.neostrada.pl
 0.0.0.0 londparig.ga
 0.0.0.0 lousecn.cn
@@ -6078,6 +6081,8 @@
 0.0.0.0 zwgoca.com
 0.0.0.0 zyjyyy.com
 0.0.0.0 zztxdown.com
+0.0.0.0 instabug.com
+0.0.0.0 api.instabug.com
 # --- Block testing ---
 0.0.0.0 1phads.com
 0.0.0.0 4dle.info
