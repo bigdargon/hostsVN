@@ -1,0 +1,3 @@
+# Tùy chọn
+Tùy chọn tập tin cấu hình cho từng ứng dụng riêng biệt như Adguard, Surge...
+Khi có nhu cầu thêm ứng dụng mới, hãy tạo thớt và đính kèm tập tin cấu hình tại https://github.com/bigdargon/hostsVN/issues 
