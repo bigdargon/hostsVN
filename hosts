@@ -129,6 +129,7 @@
 0.0.0.0 mads.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 advertising.amazon.com
 0.0.0.0 assoc-amazon.com
@@ -5272,6 +5273,7 @@
 0.0.0.0 annengdl.com
 0.0.0.0 anhui-attorney.com
 0.0.0.0 aonikesi.com
+0.0.0.0 api.instabug.com
 0.0.0.0 api.safegraph.com
 0.0.0.0 api.simplesharebuttons.com
 0.0.0.0 api-log-analytics.cloud.toast.com
@@ -5609,6 +5611,7 @@
 0.0.0.0 indogator.com
 0.0.0.0 ink.churchofthefreespirit.com
 0.0.0.0 innatek.com
+0.0.0.0 instabug.com
 0.0.0.0 install.securesoft.info
 0.0.0.0 interfere.marionunezcampusano.com
 0.0.0.0 interior-examples.ru
@@ -5675,6 +5678,7 @@
 0.0.0.0 location.fashionises.com
 0.0.0.0 lococcc.com
 0.0.0.0 log.kmplayer.com
+0.0.0.0 log.tutuapp.com
 0.0.0.0 loles.neostrada.pl
 0.0.0.0 londparig.ga
 0.0.0.0 lousecn.cn
@@ -6081,8 +6085,6 @@
 0.0.0.0 zwgoca.com
 0.0.0.0 zyjyyy.com
 0.0.0.0 zztxdown.com
-0.0.0.0 instabug.com
-0.0.0.0 api.instabug.com
 # --- Block testing ---
 0.0.0.0 1phads.com
 0.0.0.0 4dle.info
