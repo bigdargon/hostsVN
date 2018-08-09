@@ -2003,6 +2003,13 @@
 0.0.0.0 adtrue.com
 0.0.0.0 track.adtrue.com
 0.0.0.0 publishers.adtrue.com
+#[amung]
+0.0.0.0 amung.us
+0.0.0.0 assets.amung.us
+0.0.0.0 graphs.amung.us
+0.0.0.0 whos.amung.us
+0.0.0.0 maps.amung.us
+0.0.0.0 widgets.amung.us
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 ad.24h.com.vn
@@ -2103,6 +2110,13 @@
 0.0.0.0 m.bong99.com
 0.0.0.0 p.bong99.com
 0.0.0.0 poster.bong99.com
+0.0.0.0 gdwviet.com
+0.0.0.0 gdwbetvn888.com
+0.0.0.0 ae888.com
+0.0.0.0 api.ae888.com
+0.0.0.0 www.ae888.com
+0.0.0.0 v9bet.com
+0.0.0.0 www.v9bet.com
 # --- Block other adsVN ---
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -3190,7 +3204,6 @@
 0.0.0.0 americash.com
 0.0.0.0 amobee.com
 0.0.0.0 amplitude.com
-0.0.0.0 amung.us
 0.0.0.0 an.tacoda.net
 0.0.0.0 anahtars.com
 0.0.0.0 analytics.adpost.org
@@ -4768,6 +4781,7 @@
 0.0.0.0 seo4india.com
 0.0.0.0 separatesilver.com
 0.0.0.0 serv0.com
+0.0.0.0 server.iad.liveperson.net
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 servedbyopenx.com
@@ -4806,6 +4820,7 @@
 0.0.0.0 simplisticnose.com
 0.0.0.0 simplycast.com
 0.0.0.0 sinoa.com
+0.0.0.0 sistacked.com
 0.0.0.0 sitebrand.geeks.com
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 siteimproveanalytics.com
@@ -5223,11 +5238,9 @@
 0.0.0.0 whispa.com
 0.0.0.0 whoisonline.net
 0.0.0.0 wholesaletraffic.info
-0.0.0.0 whos.amung.us
 0.0.0.0 widdit.com
 0.0.0.0 widespace.com
 0.0.0.0 widgetbucks.com
-0.0.0.0 widgets.amung.us
 0.0.0.0 wikia-ads.wikia.com
 0.0.0.0 window.nixnet.cz
 0.0.0.0 wintricksbanner.googlepages.com
