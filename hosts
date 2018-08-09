@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Updated: Aug 08 2018
+# Updated: Aug 09 2018
 # Please report any unblocked ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
 # Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
@@ -1997,6 +1997,12 @@
 0.0.0.0 www.answers.chartboost.com
 0.0.0.0 www.chartboost.com
 0.0.0.0 www.dashboard.chartboost.com
+#[adtrue]
+0.0.0.0 exchange.adtrue.com
+0.0.0.0 cdn.adtrue.com
+0.0.0.0 adtrue.com
+0.0.0.0 track.adtrue.com
+0.0.0.0 publishers.adtrue.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 ad.24h.com.vn
