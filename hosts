@@ -2441,6 +2441,7 @@
 0.0.0.0 ad4mat.com
 0.0.0.0 ad4mat.de
 0.0.0.0 ad4mat.net
+0.0.0.0 ad4push.com
 0.0.0.0 adaction.de
 0.0.0.0 adadvisor.net
 0.0.0.0 adap.tv
@@ -3346,14 +3347,17 @@
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 anxiousapples.com
 0.0.0.0 apex-ad.com
+0.0.0.0 api.ad4push.com
+0.0.0.0 api.appfireworks.com
 0.0.0.0 api.intensifier.de
-0.0.0.0 api.parse.com
 0.0.0.0 api.ipify.org
+0.0.0.0 api.parse.com
 0.0.0.0 app.pendo.io
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 appclick.co
 0.0.0.0 appclick.net
 0.0.0.0 appdog.com
+0.0.0.0 appfireworks.com
 0.0.0.0 appflood.com
 0.0.0.0 appia.com
 0.0.0.0 appier.com
@@ -3649,6 +3653,7 @@
 0.0.0.0 class-act-clicks.com
 0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
+0.0.0.0 click.howdoesin.net
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
 0.0.0.0 click2paid.com
@@ -3720,6 +3725,7 @@
 0.0.0.0 connatix.com
 0.0.0.0 connextra.com
 0.0.0.0 consciouscabbage.com
+0.0.0.0 consumer.exacttargetapis.com
 0.0.0.0 contadores.miarroba.com
 0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
@@ -3865,6 +3871,7 @@
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dnads.directnic.com
 0.0.0.0 docksalmon.com
+0.0.0.0 docs.fastlane.tools
 0.0.0.0 domaining.in
 0.0.0.0 domainsponsor.com
 0.0.0.0 domainsteam.de
@@ -3947,6 +3954,7 @@
 0.0.0.0 evergage.com
 0.0.0.0 evidencecleanergold.com
 0.0.0.0 ewebcounter.com
+0.0.0.0 exacttargetapis.com
 0.0.0.0 exclusivebrass.com
 0.0.0.0 exchange.bg
 0.0.0.0 exchangead.com
@@ -3977,6 +3985,7 @@
 0.0.0.0 fastclick.com
 0.0.0.0 fastclick.com.edgesuite.net
 0.0.0.0 fastclick.net
+0.0.0.0 fastlane.tools
 0.0.0.0 fb-promotions.com
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 feedbackresearch.com
@@ -4124,6 +4133,7 @@
 0.0.0.0 hotlog.ru
 0.0.0.0 hotrank.com.tw
 0.0.0.0 hoverowl.com
+0.0.0.0 howdoesin.net
 0.0.0.0 hs-analytics.net
 0.0.0.0 htmlhubing.xyz
 0.0.0.0 httpool.com
@@ -4916,10 +4926,10 @@
 0.0.0.0 seo4india.com
 0.0.0.0 separatesilver.com
 0.0.0.0 serv0.com
-0.0.0.0 server.iad.liveperson.net
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 servedbyopenx.com
+0.0.0.0 server.iad.liveperson.net
 0.0.0.0 servethis.com
 0.0.0.0 service1.adten.de
 0.0.0.0 services.hearstmags.com
@@ -5457,16 +5467,6 @@
 0.0.0.0 zmedia.com
 0.0.0.0 zqtk.net
 0.0.0.0 zumobi.com
-0.0.0.0 fastlane.tools
-0.0.0.0 docs.fastlane.tools
-0.0.0.0 howdoesin.net
-0.0.0.0 click.howdoesin.net
-0.0.0.0 exacttargetapis.com
-0.0.0.0 consumer.exacttargetapis.com
-0.0.0.0 ad4push.com
-0.0.0.0 api.ad4push.com
-0.0.0.0 appfireworks.com
-0.0.0.0 api.appfireworks.com
 # --- Block other trackingVN ---
 0.0.0.0 0001.2waky.com
 0.0.0.0 01388.net
@@ -5985,7 +5985,9 @@
 0.0.0.0 location.fashionises.com
 0.0.0.0 lococcc.com
 0.0.0.0 log.kmplayer.com
+0.0.0.0 log.kuwo.cn
 0.0.0.0 log.tutuapp.com
+0.0.0.0 log.umsns.com
 0.0.0.0 loles.neostrada.pl
 0.0.0.0 londparig.ga
 0.0.0.0 lousecn.cn
@@ -6213,6 +6215,7 @@
 0.0.0.0 thxhb.com
 0.0.0.0 trackersimulator.org
 0.0.0.0 tracking.checkmygirlfriend.net
+0.0.0.0 tracking.lenzmx.com
 0.0.0.0 traffok.cn
 0.0.0.0 transition.org.cn
 0.0.0.0 transpec.vn
@@ -6392,9 +6395,6 @@
 0.0.0.0 zwgoca.com
 0.0.0.0 zyjyyy.com
 0.0.0.0 zztxdown.com
-0.0.0.0 tracking.lenzmx.com
-0.0.0.0 log.kuwo.cn
-0.0.0.0 log.umsns.com
 # --- Block testing ---
 0.0.0.0 1phads.com
 0.0.0.0 4dle.info
