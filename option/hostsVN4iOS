@@ -1,9 +1,9 @@
 # Title: hostsVN
-# Updated: Aug 18 2018
+# Updated: Aug 25 2018
 # Minimal version for iOS
 # Please report any unblocked ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
-# Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
+# Download: https://github.com/bigdargon/hostsVN/raw/master/option/hostsVN4iOS
 # Report issues: https://github.com/bigdargon/hostsVN/issues
 #
 # =====================================================
@@ -126,6 +126,39 @@
 0 ut.iadsdk.apple.com
 0 www.iadsdk.apple.com
 0 metrics.icloud.com
+#[microsoft]
+0 adbroker.mp.dse.microsoft.com
+0 advertise.bingads.microsoft.com
+0 advertising.microsoft.com
+0 amer.hops.glbdns.microsoft.com
+0 applicationinsights.microsoft.com
+0 apprep.smartscreen.microsoft.com
+0 bingads.microsoft.com
+0 c.microsoft.com
+0 dc.applicationinsights.microsoft.com
+0 dev.applicationinsights.microsoft.com
+0 dev.ppe.applicationinsights.microsoft.com
+0 glbdns.microsoft.com
+0 help.bingads.microsoft.com
+0 lsam.research.microsoft.com
+0 microsoft.com-msoft52.info
+0 mobile.pipe.aria.microsoft.com
+0 ppe.applicationinsights.microsoft.com
+0 rad.microsoft.com
+0 reports.wes.df.telemetry.microsoft.com
+0 rt.applicationinsights.microsoft.com
+0 settings-win.data.microsoft.com
+0 sqm.telemetry.microsoft.com
+0 statsfe2.ws.microsoft.com
+0 telecommand.telemetry.microsoft.com
+0 v10.events.data.microsoft.com
+0 v10.vortex-win.data.microsoft.com
+0 vortex.data.microsoft.com
+0 vortex-win.data.microsoft.com
+0 watson.telemetry.microsoft.com
+0 web.vortex.data.microsoft.com
+0 wes.df.telemetry.microsoft.com
+0 www.applicationinsights.microsoft.com
 #[amazon]
 0 mads.amazon.com
 0 amazon-adsystem.com
@@ -350,6 +383,7 @@
 0 org.zaloapp.ads.zdn.vn
 0 zminer.zaloapp.com
 0 adtima-media-td.zadn.vn
+0 adtima-static.zadn.vn
 0 zalo-ads-td.zadn.vn
 0 log.sdk.zadn.vn
 0 api.sdk.zadn.vn
@@ -1282,6 +1316,8 @@
 0 wup.browser.qq.com
 0 x.l.qq.com
 0 yeah.qq.com
+0 qqvideo.tc.qq.com
+0 tajs.qq.com
 #[umeng]
 0 alog.umengcloud.com
 0 alog.umeng.co
@@ -2141,6 +2177,43 @@
 0 alpha-analytics.toast.com
 0 redirect-analytics.toast.com
 0 api-log-analytics.cloud.toast.com
+#[klick]
+0 klick.vn
+0 adv.klick.vn
+0 demo.klick.vn
+0 euro.klick.vn
+0 wakeup247.klick.vn
+#[getadmiral]
+0 getadmiral.com
+0 partner.api.getadmiral.com
+0 delivery.api.getadmiral.com
+0 pay.getadmiral.com
+0 sgreporting.getadmiral.com
+0 oauth.getadmiral.com
+0 www.getadmiral.com
+0 status.getadmiral.com
+0 sentry.getadmiral.com
+0 stripewh.getadmiral.com
+0 dev.getadmiral.com
+0 staging.getadmiral.com
+0 getadmiral.typeform.com
+#[avazutracking]
+0 click-mdsp.avazutracking.net
+0 apx.trck.avazutracking.net
+0 apx.avazutracking.net
+0 seth.avazutracking.net
+0 imp-mdsp.avazutracking.net
+0 cdn.avazutracking.net
+0 apx.internal-redirect.avazutracking.net
+0 apx.matk.avazutracking.net
+0 apx.irck.avazutracking.net
+0 apx.ui.avazutracking.net
+0 apx.rdkt.avazutracking.net
+0 apx.pixel.avazutracking.net
+0 backend.avazutracking.net
+0 mobile.avazutracking.net
+0 www.avazutracking.net
+0 mdsp.avazutracking.net
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 ad.24h.com.vn
@@ -2159,7 +2232,9 @@
 0 ad.mwork.vn
 0 delivery.senvangvn.com
 0 adnetwork.5imedia.vn
+0 uniad.vn
 0 click.uniad.vn
+0 zone.uniad.vn
 0 click.xdeal.vn
 0 ailamtrieuphu.com
 0 deltago.com
@@ -2178,7 +2253,6 @@
 0 cms.vinaads.vn
 0 vietbuzzad.com
 0 myad.vn
-0 uniad.vn
 0 vads.vn
 0 vclick.vn
 0 123c.vn
@@ -2191,26 +2265,28 @@
 0 vads.net.vn
 0 client.vads.net.vn
 #[trackingVN]
-0 s.tuoitre.vn
-0 thongke.24h.com.vn
-0 log.baomoi.com
-0 s.baomoi.xdn.vn
-0 track.vatgia.com
-0 web.f8.pyco.vn
-0 web.stagingf8.pycogroup.com
 0 alexajstrack.com
-0 vn.alexajstrack.com
-0 tracking.appwifi.com
-0 stats.bizweb.vn
-0 sharefb.cnnd.vn
-0 track-srv.vietnamnet.vn
-0 track.srv.vietnamnet.vn
+0 log.baomoi.com
+0 log.batdongsan.com.vn
+0 log.sggp.org.vn
+0 log.thanhnien.vn
+0 log.vov.vn
+0 s.baomoi.xdn.vn
 0 s.kenh14.vn
 0 s.soha.vn
-0 log.sggp.org.vn
-0 log.vov.vn
+0 s.tuoitre.vn
+0 sharefb.cnnd.vn
+0 stats.bizweb.vn
+0 thongke.24h.com.vn
 0 track.sendo.vn
+0 track.srv.vietnamnet.vn
+0 track.vatgia.com
+0 tracking.appwifi.com
+0 track-srv.vietnamnet.vn
 0 userstats.shopee.vn
+0 vn.alexajstrack.com
+0 web.f8.pyco.vn
+0 web.stagingf8.pycogroup.com
 #[betVN]
 0 11bet.com
 0 lucky88.com
@@ -3182,6 +3258,7 @@
 0 adstage.io
 0 adstat.4u.pl
 0 adstest.weather.com
+0 adstune.com
 0 ads-trk.vidible.tv
 0 adsupply.com
 0 adsupplyads.com
@@ -3239,7 +3316,6 @@
 0 advertising.aol.com
 0 advertising.com
 0 advertising.guildlaunch.net
-0 advertising.microsoft.com
 0 advertisingbanners.com
 0 advertisingbox.com
 0 advertisingtag.net
@@ -3353,6 +3429,7 @@
 0 api.intensifier.de
 0 api.ipify.org
 0 api.parse.com
+0 app.adsoctopus.com
 0 app.pendo.io
 0 app-analytics.snapchat.com
 0 appclick.co
@@ -3636,6 +3713,7 @@
 0 cdn.freefarcy.com
 0 cdn.onesignal.com
 0 cdn.segment.com
+0 cdnstoremedia.com
 0 cecash.com
 0 celltick.com
 0 centerpointmedia.com
@@ -3733,6 +3811,7 @@
 0 content.ad
 0 contentabc.com
 0 contextweb.com
+0 contineljs.com
 0 conversionruler.com
 0 convrse.media
 0 cookies.cmpnet.com
@@ -4611,6 +4690,7 @@
 0 openads.org
 0 openclick.com
 0 openmarket.com
+0 openvideoads.org
 0 openx.angelsgroup.org.uk
 0 openx.blindferret.com
 0 openx.com
@@ -4900,6 +4980,7 @@
 0 samsungacr.com
 0 samsungads.com
 0 saysidewalk.com
+0 sbbanner.com
 0 sbx.pagesjaunes.fr
 0 scambiobanner.aruba.it
 0 sc-analytics.appspot.com
@@ -4986,6 +5067,7 @@
 0 smartbase.cdnservices.com
 0 smartdevicemedia.com
 0 smartlook.com
+0 smartmad.com
 0 smetrics.ctv.ca
 0 smetrics.walgreens.com
 0 smowtion.com
@@ -5084,6 +5166,7 @@
 0 subscribe.hearstmags.com
 0 succeedscene.com
 0 sugoicounter.com
+0 sumatoad.com
 0 sumo.com
 0 sumome.com
 0 superclix.de
@@ -5301,6 +5384,7 @@
 0 usmsad.tom.com
 0 utarget.co.uk
 0 utils.mediageneral.net
+0 uyunad.com
 0 v1.cnzz.com
 0 validclick.com
 0 valuead.com
@@ -5852,6 +5936,7 @@
 0 gddingtian.com.cn
 0 gdeea.cc
 0 gen-ever.com
+0 geoip.nekudo.com
 0 getexceptional.com
 0 ggwwquzxdkaqwerob3-dd257mbsrsenuindsps.dsnxg.57670.net
 0 ghgmtcrluvghlwc91.com
@@ -6068,6 +6153,7 @@
 0 old.yesmeskin.co.kr
 0 omgates.com
 0 omtrdc.net
+0 onesignal.com
 0 opensharecount.com
 0 oqgmav.com
 0 orange.bageriethornslet.dk
@@ -6405,17 +6491,13 @@
 0 acs86.com
 0 acsystem.wasu.cn
 0 aimadigital.com
-0 akncdn.com
 0 alea.adam.daum.net
 0 alexa.links.cn
 0 allyes.com
 0 andomedia.com
-0 api.cupid.iqiyi.com
-0 app.adsoctopus.com
 0 artofclick.com
 0 atlassbx.com
 0 aty.sohu.com
-0 avazutracking.net
 0 avocarrot.com
 0 awsatstb.com
 0 baidustatic.com
@@ -6425,15 +6507,12 @@
 0 bnmla.com
 0 brightroll.de
 0 buzzcity.net
-0 c.wcpt.biz.weibo.com
 0 castplatform.com
 0 cb-cdn.com
 0 clic.grenads.com
 0 clickzs.com
 0 cmcore.com
 0 cuguwxkasghy.com
-0 cupid.iqiyi.com
-0 cupid.qiyi.com
 0 damoh.spiegel.de
 0 data.vod.itc.cn
 0 dev.dc.letv.com
@@ -6461,7 +6540,6 @@
 0 gowadogo.com
 0 guohead.com
 0 guomob.com
-0 gw5.push.mcp.weibo.cn
 0 h2.msn.com
 0 hxczzzw.com
 0 hydra.alibaba.com
@@ -6483,7 +6561,6 @@
 0 letv.allyes.com
 0 lives.l.qq.com
 0 livesmi.com
-0 m.game.weibo.cn
 0 m.madthumbs.com
 0 m2pub.com
 0 madmini.com
@@ -6506,7 +6583,6 @@
 0 n4adshostnet.com
 0 nyyed.com
 0 onedmp.com
-0 openvideoads.org
 0 openx.org
 0 openxenterprise.com
 0 optimizelyapis.com
@@ -6520,7 +6596,6 @@
 0 pro.hoye.letv.com
 0 pub2srv.com
 0 pushnative.com
-0 qqvideo.tc.qq.com
 0 questionmarket.com
 0 reachmax.cn
 0 redtram.com
@@ -6528,15 +6603,11 @@
 0 responsys.net
 0 rnmd.net
 0 rtb.adx1.com
-0 sbbanner.com
-0 smartmad.com
 0 socdm.com
 0 speednetwork1.adk2x.com
 0 stat.letv.com
 0 static.increas.eu
-0 sumatoad.com
 0 taboolasyndication.com
-0 tajs.qq.com
 0 tapas.net
 0 taptica.com
 0 teasernet.com
@@ -6553,7 +6624,6 @@
 0 umtrack.com
 0 unlitui.com
 0 unthem.com
-0 uyunad.com
 0 videoplaza.tv
 0 visitweb.com
 0 vivcdctagoij.com
@@ -6565,7 +6635,6 @@
 0 wqmobile.com
 0 www.grenads.com
 0 yluvo.com
-0 zc.biz.weibo.com
 0 ziiporn.com
 0 zucks.net
 # END hostsVN ---
