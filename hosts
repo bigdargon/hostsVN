@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Updated: Aug 25 2018
+# Updated: Aug 27 2018
 # Please report any unblocked ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
 # Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
@@ -2213,6 +2213,15 @@
 0.0.0.0 mobile.avazutracking.net
 0.0.0.0 www.avazutracking.net
 0.0.0.0 mdsp.avazutracking.net
+#[alexametrics]
+0.0.0.0 atrk.alexametrics.com
+0.0.0.0 certify.alexametrics.com
+0.0.0.0 alexametrics.com
+0.0.0.0 certify-amp.alexametrics.com
+0.0.0.0 certify-js.alexametrics.com
+0.0.0.0 certify-stage.alexametrics.com
+0.0.0.0 js.alexametrics.com
+0.0.0.0 pixel.alexametrics.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 ad.24h.com.vn
@@ -2270,6 +2279,7 @@
 0.0.0.0 log.sggp.org.vn
 0.0.0.0 log.thanhnien.vn
 0.0.0.0 log.vov.vn
+0.0.0.0 log.giaoduc.net.vn
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
@@ -5930,6 +5940,7 @@
 0.0.0.0 fyqydogivoxed.com
 0.0.0.0 galleries.securesoft.info
 0.0.0.0 gallerycrush.com
+0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gclabrelscon.net
 0.0.0.0 gdby.com.cn
 0.0.0.0 gddingtian.com.cn
