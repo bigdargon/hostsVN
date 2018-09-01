@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Updated: Aug 31 2018
+# Updated: Sep 01 2018
 # Minimal version for iOS
 # Please report any unblocked ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
@@ -159,6 +159,40 @@
 0 web.vortex.data.microsoft.com
 0 wes.df.telemetry.microsoft.com
 0 www.applicationinsights.microsoft.com
+0 ad.atdmt.com
+0 adecn-w.atdmt.com
+0 adn.atdmt.com
+0 aidps.atdmt.com
+0 analytics.atdmt.com
+0 api.atdmt.com
+0 atdmt.com
+0 c.atdmt.com
+0 c1.atdmt.com
+0 cdn.atdmt.com
+0 click.atdmt.com
+0 clk.atdmt.com
+0 cs.atdmt.com
+0 cx.atdmt.com
+0 db3aqu.atdmt.com
+0 ec.atdmt.com
+0 g.atdmt.com
+0 h.atdmt.com
+0 iact.atdmt.com
+0 image.atdmt.com
+0 img.atdmt.com
+0 jact.atdmt.com
+0 ll.atdmt.com
+0 rmd.atdmt.com
+0 sact.atdmt.com
+0 sig.atdmt.com
+0 spd.atdmt.com
+0 spe.atdmt.com
+0 srch.atdmt.com
+0 switch.atdmt.com
+0 tip.atdmt.com
+0 vid.atdmt.com
+0 view.atdmt.com
+0 www.atdmt.com
 #[amazon]
 0 mads.amazon.com
 0 amazon-adsystem.com
@@ -2673,6 +2707,10 @@
 0 ad.vkool.net
 0 vads.net.vn
 0 client.vads.net.vn
+0 adblox.net
+0 access.adblox.net
+0 services.adblox.net
+0 www.adblox.net
 #[trackingVN]
 0 alexajstrack.com
 0 log.baomoi.com
@@ -3871,7 +3909,6 @@
 0 assets.loomia.com
 0 assets1.exgfnetwork.com
 0 at-adserver.alltop.com
-0 atdmt.com
 0 atlassolutions.com
 0 attributiontracker.com
 0 atwola.com
@@ -4532,6 +4569,7 @@
 0 gbanners.hornymatches.com
 0 gemius.pl
 0 geo.digitalpoint.com
+0 geo.moatads.com
 0 geobanner.adultfriendfinder.com
 0 geovisite.com
 0 german-linkindex.de
@@ -5829,6 +5867,7 @@
 0 watchingthat.com
 0 wda.com
 0 wdads.sx.atl.publicus.com
+0 web.btncdn.com
 0 web.informer.com
 0 web2.deja.com
 0 webads.co.nz
@@ -5856,7 +5895,6 @@
 0 webtraffic.se
 0 webtraxx.de
 0 webtrendslive.com
-0 web.btncdn.com
 0 wegcash.com
 0 werbung.meteoxpress.com
 0 wetrack.it
@@ -5950,7 +5988,6 @@
 0 zmedia.com
 0 zqtk.net
 0 zumobi.com
-0 geo.moatads.com
 # --- Block other trackingVN ---
 0 0001.2waky.com
 0 01388.net
@@ -6080,9 +6117,9 @@
 0 armazones.com
 0 arouersobesite.free.fr
 0 arprosports.com.ar
+0 asdkd.tutuapp.com
 0 asiaok.net
 0 asj999.com
-0 asdkd.tutuapp.com
 0 asstraffic18.net
 0 ati-host.net
 0 augami.net
@@ -6110,6 +6147,7 @@
 0 bayansayfasi.com
 0 bbnp.com
 0 bbpama.com
+0 bc.dailymail.co.uk
 0 behave.nualias.com
 0 beikehongbei.com
 0 benstock.free.fr
@@ -6189,6 +6227,7 @@
 0 cow.gutterheaters.org
 0 cpajump.centenr.com
 0 cqtspj.com
+0 creative.dailymail.co.uk
 0 creatives.co.in
 0 crittercism.com
 0 crossleather.com
@@ -6234,6 +6273,7 @@
 0 din8win7.in
 0 dinkelbrezel.de
 0 dionneg.com
+0 discountcode.dailymail.co.uk
 0 divecatalina.com
 0 djcalvin.com
 0 djplazebo.com
@@ -6242,6 +6282,7 @@
 0 dl.yizhan123.com
 0 dlslw.com
 0 dm599.com
+0 dmgt.grapeshot.co.uk
 0 dns-vip.net
 0 doctorsdirectory.net
 0 dog.halfbirthdayproducts.com
@@ -6310,6 +6351,7 @@
 0 fejsbuk.com.ba
 0 fenshaolu.com.cn
 0 festival.cocobau.com
+0 fff.dailymail.co.uk
 0 fffddd11.cn
 0 ffsi.info
 0 fg.bibleandbullets.com
@@ -6327,8 +6369,11 @@
 0 fs-11.com
 0 f-scripts.co.nr
 0 f-sy.com
+0 future.grapeshot.co.uk
 0 fxpcw.com
 0 fyqydogivoxed.com
+0 g.jwpsrv.com
+0 g.uusee.com
 0 galleries.securesoft.info
 0 gallerycrush.com
 0 gate.hockeyapp.net
@@ -6350,6 +6395,7 @@
 0 gouddc.com
 0 gqwhyjh.com
 0 grk6mgehel1hfehn.ru
+0 gs.dailymail.co.uk
 0 gsimon.edu.free.fr
 0 guangdelvyou.com
 0 guihua-china.com
@@ -6358,8 +6404,6 @@
 0 gxqyyq.com
 0 gzdywz.com
 0 gillingscamps.co.uk
-0 g.jwpsrv.com
-0 g.uusee.com
 0 h148.cn
 0 haihuang-audio.com
 0 hairtease.com
@@ -6413,6 +6457,7 @@
 0 interior-examples.ru
 0 interstitial.powered-by.securesoft.info
 0 investice-do-nemovitosti.eu
+0 ipcmedia.grapeshot.co.uk
 0 ipwhrtmla.epac.to
 0 iranbar.org
 0 itclk.com
@@ -6424,6 +6469,7 @@
 0 jianyundc.com
 0 jienoo.com
 0 jjc11.com
+0 johnston.grapeshot.co.uk
 0 jomlajavascript.ru
 0 jornalistasdeangola.com
 0 joshi.org
@@ -6475,6 +6521,7 @@
 0 lococcc.com
 0 log.kmplayer.com
 0 log.kuwo.cn
+0 log.pinterest.com
 0 log.tutuapp.com
 0 log.umsns.com
 0 loles.neostrada.pl
@@ -6489,6 +6536,7 @@
 0 luguanzhan.com
 0 lysyp.com
 0 macallinecn.com
+0 mads.dailymail.co.uk
 0 mafund.cn
 0 mah0ney.com
 0 mail3x.com
@@ -6507,6 +6555,7 @@
 0 masjlr.com
 0 mayatek.info
 0 me.3788.cn
+0 mediaforce.grapeshot.co.uk
 0 mefa.ws
 0 metzgerconsulting.com
 0 miamibeachhotels.tv
@@ -6541,6 +6590,7 @@
 0 neepelsty.cz.cc
 0 neglite.com
 0 net4um.com
+0 newscorp.grapeshot.co.uk
 0 nexprice.com
 0 nonoknit.com
 0 nonglirili.net
@@ -6573,6 +6623,7 @@
 0 pear.dementiaadvocacy.com
 0 peoria33884.cz.cc
 0 pinkpillar.ru
+0 pixel.wp.com
 0 pizzotti.net
 0 pjhku.com
 0 playtomic.com
@@ -6595,6 +6646,7 @@
 0 rebotstat.com
 0 reddii.org
 0 redinvestor.com
+0 reed-cw.grapeshot.co.uk
 0 reflexonature.free.fr
 0 reglasti.com
 0 regis.foultier.free.fr
@@ -6614,6 +6666,8 @@
 0 ronasiter.com
 0 royalair.koom.ma
 0 rq82.com
+0 rta.dailymail.co.uk
+0 rta2.metro.co.uk
 0 rtyszz.com
 0 saawa.com
 0 safegraph.com
@@ -6641,6 +6695,7 @@
 0 shecanseeyou.info
 0 shenke.com.cn
 0 shuangfeidyw.com
+0 si.dailymail.co.uk
 0 sicken.cede.cl
 0 sightshare.com
 0 siliconclasses.in
@@ -6661,6 +6716,7 @@
 0 spywareshop.info
 0 stabroom.cn
 0 stats.betradar.com
+0 stats.wp.com
 0 stathat.com
 0 stoneb.cn
 0 subeihm.com
@@ -6676,12 +6732,17 @@
 0 szdamuzhi.com
 0 sznaucer-figa.nd.e-wro.pl
 0 szzlzn.com
+0 t.dailymail.co.uk
 0 t2t2.com
 0 t70123.com
 0 tablet.gutterhelment.net
 0 tapjoy.com
+0 ted.dailymail.co.uk
+0 ted.metro.co.uk
+0 ted1.metro.co.uk
 0 tedgenet.com
 0 teksograd.ru
+0 telegraph.grapeshot.co.uk
 0 telephonie-voip.info
 0 tesorosdecancun.com
 0 tinypic.info
@@ -6710,6 +6771,7 @@
 0 transition.org.cn
 0 transpec.vn
 0 tr-gdz.ru
+0 trinitymirror.grapeshot.co.uk
 0 trouble.cachetinvestments.com
 0 truckersemanifest.com
 0 uci.securesoft.info
@@ -6741,6 +6803,7 @@
 0 vra4.com
 0 vrot.stervapoimenialena.info
 0 vstart.net
+0 wa.metro.co.uk
 0 walesedu.com
 0 walklight.net
 0 wan4399.com
@@ -6822,6 +6885,7 @@
 0 wzfmxlrrynnbekcqzu.com
 0 xa58.cn
 0 xap.ss.la
+0 xaxis.grapeshot.co.uk
 0 xcl168.s37.jjisp.com
 0 xczys.com
 0 xhqsysp.com
@@ -6885,33 +6949,6 @@
 0 zwgoca.com
 0 zyjyyy.com
 0 zztxdown.com
-0 rta2.metro.co.uk
-0 ted.metro.co.uk
-0 ted1.metro.co.uk
-0 wa.metro.co.uk
-0 rta.dailymail.co.uk
-0 t.dailymail.co.uk
-0 ted.dailymail.co.uk
-0 fff.dailymail.co.uk
-0 mads.dailymail.co.uk
-0 bc.dailymail.co.uk
-0 creative.dailymail.co.uk
-0 si.dailymail.co.uk
-0 gs.dailymail.co.uk
-0 discountcode.dailymail.co.uk
-0 trinitymirror.grapeshot.co.uk
-0 ipcmedia.grapeshot.co.uk
-0 dmgt.grapeshot.co.uk
-0 telegraph.grapeshot.co.uk
-0 johnston.grapeshot.co.uk
-0 reed-cw.grapeshot.co.uk
-0 xaxis.grapeshot.co.uk
-0 newscorp.grapeshot.co.uk
-0 mediaforce.grapeshot.co.uk
-0 future.grapeshot.co.uk
-0 log.pinterest.com
-0 pixel.wp.com
-0 stats.wp.com
 # --- Block testing ---
 0 1phads.com
 0 4dle.info
