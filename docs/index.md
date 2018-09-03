@@ -8,7 +8,9 @@
 
 # Địa chỉ
 
-Trang Github: [https://github.com/bigdargon/hostsVN](https://github.com/bigdargon/hostsVN)
+Trang chủ: [https://bigdargon.github.io/hostsVN/](https://bigdargon.github.io/hostsVN)
+
+Github: [https://github.com/bigdargon/hostsVN](https://github.com/bigdargon/hostsVN)
 
 Báo lỗi: [https://github.com/bigdargon/hostsVN/issues](https://github.com/bigdargon/hostsVN/issues)
 
