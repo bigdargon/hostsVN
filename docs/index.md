@@ -34,4 +34,4 @@ Bạn chỉ cần làm theo hướng dẫn báo lỗi để chụp màn hình l�
 * Shadowrocket - [Hướng dẫn báo lỗi](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket#b%C3%A1o-l%E1%BB%97i)
 * Surge - [Hướng dẫn báo lỗi](https://github.com/bigdargon/hostsVN/wiki/Surge#b%C3%A1o-l%E1%BB%97i)
 
-# Bạn có thể tìm hiểu thêm nhiều thông tin chi tiết tại [trang Wiki](https://github.com/bigdargon/hostsVN/wiki)
+## Bạn có thể tìm hiểu thêm chi tiết tại [trang Wiki này](https://github.com/bigdargon/hostsVN/wiki)
