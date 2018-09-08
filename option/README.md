@@ -1,3 +1,3 @@
 # Tùy chọn
-Tùy chọn tập tin cấu hình cho từng ứng dụng riêng biệt như Adguard, ShadowRocket, Surge...
-Khi có nhu cầu thêm ứng dụng mới, hãy tạo thớt và đính kèm tập tin cấu hình tại https://github.com/bigdargon/hostsVN/issues 
+
+Tùy chọn tập tin cho các ứng dụng như Adblock, Adguard, ShadowRocket, Surge và một số ứng dụng khác.
