@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Updated: Sep 09 2018
+# Updated: Sep 12 2018
 # Minimal version for iOS
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
@@ -3125,6 +3125,42 @@
 0 cdn.innity.net
 0 vcdn.media.innity.net
 0 cdn.media.innity.net
+#[bidgear]
+0 bidgear.com
+0 stats.bidgear.com
+0 platform.bidgear.com
+0 vn-platform.bidgear.com
+#[woopra]
+0 woopra.com
+0 app.woopra.com
+0 cdn-origin.woopra.com
+0 www.woopra.com
+0 static.woopra.com
+#[trafficjunky]
+0 192.168.ads.trafficjunky.net
+0 192.168.media.trafficjunky.net
+0 ads.trafficjunky.net
+0 ads5.trafficjunky.net
+0 cdn1.media.trafficjunky.net
+0 cdn10.trafficjunky.net
+0 c-staging.trafficjunky.net
+0 ctrack.trafficjunky.net
+0 delivery.preprod.trafficjunky.net
+0 delivery.staging.trafficjunky.net
+0 delivery.trafficjunky.net
+0 hw-cdn.trafficjunky.net
+0 marketplace.trafficjunky.net
+0 media.trafficjunky.net
+0 pt.trafficjunky.net
+0 smtp.trafficjunky.net
+0 static.trafficjunky.net
+0 stats.ord.trafficjunky.net
+0 tracking.trafficjunky.net
+0 trafficjunky.net
+0 viamichelin.ads.trafficjunky.net
+0 viamichelin.media.trafficjunky.net
+0 vz-cdn.trafficjunky.net
+0 www.trafficjunky.net
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 ad.24h.com.vn
@@ -6243,7 +6279,6 @@
 0 trafficcdn.liveuniversenetwork.com
 0 traffic-exchange.com
 0 trafficfactory.biz
-0 trafficjunky.net
 0 trafficleader.com
 0 trafficsecrets.com
 0 trafficspaces.net
@@ -6395,7 +6430,6 @@
 0 wmirk.ru
 0 wonderlandads.com
 0 wondoads.de
-0 woopra.com
 0 worldwide-cash.net
 0 wpnrtnmrewunrtok.xyz
 0 wt-eu02.net
