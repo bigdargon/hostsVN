@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Updated: Sep 12 2018
+# Updated: Sep 13 2018
 # Minimal version for iOS
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
@@ -439,6 +439,13 @@
 0 qc.coccoc.com
 0 cp.qc.coccoc.com
 0 cdn-qc.coccoc.com
+0 ntrb.qc.coccoc.com
+0 display.qc.coccoc.com
+0 context.qc.coccoc.com
+0 catalog.qc.coccoc.com
+0 qc-static.coccoc.com
+0 metrics.coccoc.com
+0 qccoccocmedia.vn
 #[lavanetwork]
 0 lavanetwork.net
 0 ad1.lavanetwork.net
@@ -3161,6 +3168,43 @@
 0 viamichelin.media.trafficjunky.net
 0 vz-cdn.trafficjunky.net
 0 www.trafficjunky.net
+#[engageya]
+0 engageya.com
+0 ext1-api.engageya.com
+0 ecs1.engageya.com
+0 ext1.engageya.com
+0 recs.engageya.com
+0 platform.engageya.com
+0 widget.engageya.com
+#[advertica]
+0 advertica.ae
+0 www.advertica.ae
+0 advertica.eu
+0 advertica-cdn.com
+0 ylx-a-img.advertica-cdn.com
+0 ylx-aff.advertica-cdn.com
+0 aff-a.advertica-cdn.com
+0 af-web.advertica-cdn.com
+0 aw.advertica-cdn.com
+0 web.advertica-cdn.com
+#[adview]
+0 adview.cn
+0 open.adview.cn
+0 adfill.adview.cn
+0 www.adview.cn
+0 report.adview.cn
+0 config.adview.cn
+0 rtb.adview.cn
+0 bid.adview.cn
+#[kaffnet]
+0 kaffnet.com
+0 sdk.api.kaffnet.com
+0 ad.api.kaffnet.com
+0 ad.click.kaffnet.com
+0 dc.kaffnet.com
+0 ad.adapter.kaffnet.com
+0 dc.log.kaffnet.com
+0 data.api.kaffnet.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 ad.24h.com.vn
@@ -6335,6 +6379,7 @@
 0 utils.mediageneral.net
 0 uyunad.com
 0 v1.cnzz.com
+0 valegaj.com
 0 validclick.com
 0 valuead.com
 0 valueclick.com
@@ -6478,6 +6523,10 @@
 0 yieldmo.com
 0 yieldtraffic.com
 0 yldbt.com
+0 ylx-1.com
+0 ylx-2.com
+0 ylx-3.com
+0 ylx-4.com
 0 yoc.mobi
 0 yoc-performance.com
 0 yoggrt.com
