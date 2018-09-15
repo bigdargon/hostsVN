@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Updated: Sep 13 2018
+# Last updated: 15 Sep 2018
 # Minimal version for iOS
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
@@ -55,6 +55,7 @@
 0 reportcentral.doubleclick.net
 0 stats.l.doubleclick.net
 0 adservice.google.com
+0 adservice.google.com.vn
 0 adservices.google.com
 0 googlesyndication.com
 0 ade.googlesyndication.com
@@ -89,7 +90,6 @@
 0 pagead2.googleadservices.com
 0 partner.googleadservices.com
 0 www.partner.googleadservices.com
-0 www.googleadservices.com
 0 analytics.google.com
 0 google-analytics.com
 0 ssl.google-analytics.com
@@ -106,6 +106,8 @@
 0 ssl-google-analytics.l.google.com
 0 www-google-analytics.l.google.com
 0 www-googletagmanager.l.google.com
+0 video-stats.video.google.com
+0 clientmetrics-pa.googleapis.com
 0 ads.gmodules.com
 0 www.gmodules.com
 #[apple]
@@ -255,6 +257,38 @@
 0 vid.atdmt.com
 0 view.atdmt.com
 0 www.atdmt.com
+0 a.ads1.msn.com
+0 a.ads2.msn.com
+0 a.rad.msn.com
+0 adevents.msn.com
+0 ads.eu.msn.com
+0 ads.msn.com
+0 ads.msn.com.nsatc.net
+0 ads1.jp.msn.com
+0 ads1.msn.com
+0 ads2.msn.com
+0 adsyndication.msn.com
+0 advertising.jp.msn.com
+0 analytics.msn.com
+0 analytics.msnbc.msn.com
+0 analytics.r.msn.com
+0 b.ads1.msn.com
+0 b.ads2.msn.com
+0 blu.mobileads.msn.com
+0 col.mobileads.msn.com
+0 dub.mobileads.msn.com
+0 images.adsyndication.msn.com
+0 mobileads.msn.com
+0 msnbcmedia.msn.com
+0 partner.video.syndication.msn.com
+0 popup.msn.com
+0 rad.msn.com
+0 rads.msn.com
+0 redirection.prod.cms.msn.com
+0 redirection.prod.cms.msn.com.akadns.net
+0 rmads.eu.msn.com
+0 rmads.msn.com
+0 tracking.msadcenter.msn.com
 #[amazon]
 0 aan.amazon.com
 0 aax-fe.amazon-adsystem.com
@@ -619,6 +653,20 @@
 0 dev-self-service-pay.adnow.com
 0 st.ad.adnow.com
 0 mail.adnow.com
+0 ads2-adnow.com
+0 n.ads1-adnow.com
+0 n.ads2-adnow.com
+0 n.ads3-adnow.com
+0 st-n.ads1-adnow.com
+0 st.adnow.com
+0 st.n.ads2-adnow.com
+0 st-n.ads2-adnow.com
+0 ads5-adnow.com
+0 st-n.ads3-adnow.com
+0 ads1-adnow.com
+0 n.fclick-adnow.com
+0 st-n.ads5-adnow.com
+0 ads3-adnow.com
 #[mobclix]
 0 ads.mobclix.com
 0 data.mobclix.com
@@ -2117,6 +2165,7 @@
 0 webview.unityads.unity3d.com
 #[midasplayer]
 0 midasplayer.com
+0 adtrack1.midasplayer.com
 0 allan1qa.midasplayer.com
 0 autodiscover.midasplayer.com
 0 b1.midasplayer.com
@@ -2504,7 +2553,6 @@
 0 www.criteo.net
 0 www.pixel.criteo.net
 #[skimresources]
-0 optout.skimresources.com
 0 go.skimresources.com
 0 r.skimresources.com
 0 d.skimresources.com
@@ -2563,7 +2611,6 @@
 0 newsroom-help.taboola.com
 0 nr.taboola.com
 0 opps.taboola.com
-0 optout.taboola.com
 0 pages.taboola.com
 0 perscdn.taboola.com
 0 popup.taboola.com
@@ -2662,7 +2709,6 @@
 0 livejournal.tags.crwdcntrl.net
 0 multiply.crwdcntrl.net
 0 nbcu.tags.crwdcntrl.net
-0 optout.crwdcntrl.net
 0 perfspot.crwdcntrl.net
 0 reunion.crwdcntrl.net
 0 sociallitelife.tags.crwdcntrl.net
@@ -3205,6 +3251,121 @@
 0 ad.adapter.kaffnet.com
 0 dc.log.kaffnet.com
 0 data.api.kaffnet.com
+#[rfihub]
+0 20501671p.rfihub.com
+0 20510777p.rfihub.com
+0 20554339p.rfihub.com
+0 20585485p.rfihub.com
+0 20754664p.rfihub.com
+0 a.rfihub.com
+0 a.rfihub.com.akadns.net
+0 js2.rfihub.com
+0 p.rfihub.com
+0 rfihub.com
+0 rfihub.com.akadns.net
+#[chartbeat]
+0 adsapi.chartbeat.com
+0 api.chartbeat.com
+0 api2.chartbeat.com
+0 chartbeat.com
+0 dashapi.chartbeat.com
+0 docs.chartbeat.com
+0 mab.chartbeat.com
+0 static.chartbeat.com
+0 static2.chartbeat.com
+0 static-uk.chartbeat.com
+0 www.chartbeat.com
+#[clickagy]
+0 aorta.clickagy.com
+0 clickagy.com
+0 i.clickagy.com
+0 portal.clickagy.com
+0 www.clickagy.com
+#[sharethrough]
+0 apis.sharethrough.com
+0 apis.staging.sharethrough.com
+0 apis-acceptance.sharethrough.com
+0 apis-staging.sharethrough.com
+0 asap.sharethrough.com
+0 assets.acceptance.sharethrough.com
+0 assets.sharethrough.com
+0 assets.staging.sharethrough.com
+0 assets-acceptance.sharethrough.com
+0 assets-staging.sharethrough.com
+0 b.sharethrough.com
+0 btlr.sharethrough.com
+0 content.sharethrough.com
+0 content-acceptance.sharethrough.com
+0 content-staging.sharethrough.com
+0 creatives.acceptance.sharethrough.com
+0 creatives.sharethrough.com
+0 creatives.staging.sharethrough.com
+0 developers.sharethrough.com
+0 files.sharethrough.com
+0 iframe.sharethrough.com
+0 integration.sharethrough.com
+0 manage.sharethrough.com
+0 match.sharethrough.com
+0 match-us-east-1.sharethrough.com
+0 media.sharethrough.com
+0 mstr.sharethrough.com
+0 native.sharethrough.com
+0 native-staging.sharethrough.com
+0 pc.sharethrough.com
+0 preview.sharethrough.com
+0 publisher-demos.sharethrough.com
+0 sharethrough.com
+0 snowforce.sharethrough.com
+0 static.acceptance.sharethrough.com
+0 static.sharethrough.com
+0 static.staging.sharethrough.com
+0 static-acceptance.sharethrough.com
+0 static-staging.sharethrough.com
+0 support.sharethrough.com
+0 templates.sharethrough.com
+0 videos.acceptance.sharethrough.com
+0 videos.sharethrough.com
+0 videos.staging.sharethrough.com
+0 videos-acceptance.sharethrough.com
+0 videos-staging.sharethrough.com
+0 www.files.sharethrough.com
+0 www.integration.sharethrough.com
+0 www.manage.sharethrough.com
+0 www.mstr.sharethrough.com
+0 www.support.sharethrough.com
+#[bazaarvoice]
+0 analytics-static.ugc.bazaarvoice.com
+0 api.bazaarvoice.com
+0 apps.nexus.bazaarvoice.com
+0 cabelas.ugc.bazaarvoice.com
+0 conforama.ugc.bazaarvoice.com
+0 magpie-static.ugc.bazaarvoice.com
+0 network.bazaarvoice.com
+0 network-a.bazaarvoice.com
+0 network-stg.bazaarvoice.com
+0 photos-bazaar-use1.nexus.bazaarvoice.com
+0 photos-us.bazaarvoice.com
+#[lkqd]
+0 ad.lkqd.net
+0 creative.lkqd.net
+0 cs.lkqd.net
+0 lkqd.net
+0 ssp.lkqd.net
+0 t.lkqd.net
+0 v.lkqd.net
+0 www.lkqd.net
+#[parrable]
+0 api.parrable.com
+0 chantal.parrable.com
+0 chd.parrable.com
+0 dash.parrable.com
+0 dhawk.parrable.com
+0 h.parrable.com
+0 p.parrable.com
+0 parrable.com
+0 phawk.parrable.com
+0 t.parrable.com
+0 vector.parrable.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 ad.24h.com.vn
@@ -3324,6 +3485,8 @@
 0 www.ae888.com
 0 v9bet.com
 0 www.v9bet.com
+0 fabet.com
+0 static.fabet.com
 # --- Block other adsVN ---
 0 101com.com
 0 101order.com
@@ -3655,6 +3818,7 @@
 0 admarvel.s3.amazonaws.com
 0 admedia.com
 0 admedia.ro
+0 admedia.wsod.com
 0 admedo.com
 0 admeld.com
 0 admerize.be
@@ -3730,6 +3894,7 @@
 0 ads.administrator.de
 0 ads.adservme.com
 0 ads.adshareware.net
+0 ads.adstream.com.ro
 0 ads.adultfriendfinder.com
 0 ads.adultswim.com
 0 ads.advance.net
@@ -3737,6 +3902,7 @@
 0 ads.affiliates.match.com
 0 ads.affiliates-spinit.com
 0 ads.allvatar.com
+0 ads.alphonso.tv
 0 ads.alt.com
 0 ads.alwayson-network.com
 0 ads.amdmb.com
@@ -3779,6 +3945,7 @@
 0 ads.canalblog.com
 0 ads.canoe.ca
 0 ads.casinocity.com
+0 ads.casumoaffiliates.com
 0 ads.cbc.ca
 0 ads.cc
 0 ads.cc-dt.com
@@ -3788,7 +3955,9 @@
 0 ads.cimedia.com
 0 ads.clearchannel.com
 0 ads.co.com
+0 ads.colombiaonline.com
 0 ads.com.com
+0 ads.comeon.com
 0 ads.contactmusic.com
 0 ads.contentabc.com
 0 ads.contextweb.com
@@ -3821,12 +3990,12 @@
 0 ads.edbindex.dk
 0 ads.egrana.com.br
 0 ads.einmedia.com
+0 ads.elcarado.com
 0 ads.electrocelt.com
 0 ads.elitetrader.com
 0 ads.emirates.net.ae
 0 ads.epltalk.com
 0 ads.esmas.com
-0 ads.eu.msn.com
 0 ads.exactdrive.com
 0 ads.expat-blog.biz
 0 ads.expedia.com
@@ -3878,6 +4047,7 @@
 0 ads.guru3d.com
 0 ads.hardwaresecrets.com
 0 ads.harpers.org
+0 ads.harvard.edu
 0 ads.hbv.de
 0 ads.hearstmags.com
 0 ads.heartlight.org
@@ -3914,6 +4084,7 @@
 0 ads.kinxxx.com
 0 ads.kompass.com
 0 ads.krawall.de
+0 ads.lapalingo.com
 0 ads.larryaffiliates.com
 0 ads.leovegas.com
 0 ads.lesbianpersonals.com
@@ -3922,6 +4093,7 @@
 0 ads.linuxjournal.com
 0 ads.linuxsecurity.com
 0 ads.livenation.com
+0 ads.lordlucky.com
 0 ads.mariuana.it
 0 ads.massinfra.nl
 0 ads.mcafee.com
@@ -3933,11 +4105,11 @@
 0 ads.miarroba.com
 0 ads.mmania.com
 0 ads.mobilautomaten.com
+0 ads.mobilebet.com
 0 ads.moceanads.com
 0 ads.motor-forum.nl
 0 ads.motormedia.nl
 0 ads.movieflix.com
-0 ads.msn.com
 0 ads.multimania.lycos.fr
 0 ads.nationalgeographic.com
 0 ads.ncm.com
@@ -3991,6 +4163,7 @@
 0 ads.pushplay.com
 0 ads.pheedo.com
 0 ads.phpclasses.org
+0 ads.quasaraffiliates.com
 0 ads.quoka.de
 0 ads.rcs.it
 0 ads.recoletos.es
@@ -4015,6 +4188,7 @@
 0 ads.silverdisc.co.uk
 0 ads.slim.com
 0 ads.smartclick.com
+0 ads.socialtheater.com
 0 ads.soft32.com
 0 ads.space.com
 0 ads.spoonfeduk.com
@@ -4033,6 +4207,7 @@
 0 ads.tjwi.info
 0 ads.tmcs.net
 0 ads.t-online.de
+0 ads.toplayaffiliates.com
 0 ads.totallyfreestuff.com
 0 ads.townhall.com
 0 ads.tso.dennisnet.co.uk
@@ -4058,11 +4233,13 @@
 0 ads.verticalresponse.com
 0 ads.vgchartz.com
 0 ads.videosz.com
+0 ads.viksaffiliates.com
 0 ads.virtualcountries.com
 0 ads.virtual-nights.com
 0 ads.vnumedia.com
 0 ads.waps.cn
 0 ads.wapx.cn
+0 ads.watson.ch
 0 ads.weather.ca
 0 ads.web.aol.com
 0 ads.web.cs.com
@@ -4078,6 +4255,7 @@
 0 ads.wwe.biz
 0 ads.xhamster.com
 0 ads.xtra.co.nz
+0 ads.xtribeapp.com
 0 ads.y-0.net
 0 ads.yimg.com
 0 ads.yldmgrimg.net
@@ -4088,7 +4266,6 @@
 0 ads04.tapsense.com
 0 ads1.canoe.ca
 0 ads1.mediacapital.pt
-0 ads1.msn.com
 0 ads1.rne.com
 0 ads1.theglobeandmail.com
 0 ads1.virtual-nights.com
@@ -4418,6 +4595,7 @@
 0 anxiousapples.com
 0 apex-ad.com
 0 api.ad4push.com
+0 api.alphonso.tv
 0 api.appfireworks.com
 0 api.intensifier.de
 0 api.ipify.org
@@ -4595,6 +4773,7 @@
 0 beacon.gu-web.net
 0 beamincrease.com
 0 beamkite.com
+0 bebi.com
 0 begun.ru
 0 behavioralengine.com
 0 belstat.com
@@ -4662,6 +4841,7 @@
 0 btrll.com
 0 budsinc.com
 0 bullseye.backbeatmedia.com
+0 bumpberam.pro
 0 burstmedia.com
 0 business.opera.com
 0 buyhitscheap.com
@@ -4701,10 +4881,12 @@
 0 cben1.net
 0 cbmall.com
 0 cbx.net
+0 cdn.digitru.st
 0 cdn.freefacti.com
 0 cdn.freefarcy.com
 0 cdn.onesignal.com
 0 cdn.segment.com
+0 cdn.tynt.com
 0 cdnstoremedia.com
 0 cecash.com
 0 celltick.com
@@ -4761,7 +4943,6 @@
 0 clickhouse.com
 0 clickhype.com
 0 clicmanager.fr
-0 clientmetrics-pa.googleapis.com
 0 clients.tbo.com
 0 clikerz.net
 0 cliksolution.com
@@ -4883,8 +5064,8 @@
 0 channel1vids.com
 0 channelintelligence.com
 0 chango.com
+0 chardwardse.club
 0 chart.dk
-0 chartbeat.com
 0 chartbeat.net
 0 checkm8.com
 0 checkstat.nl
@@ -4924,6 +5105,7 @@
 0 differentdesk.com
 0 digital-ads.s3.amazonaws.com
 0 digitalmerkat.com
+0 digitru.st
 0 directaclick.com
 0 directivepub.com
 0 directleads.com
@@ -4963,6 +5145,7 @@
 0 e-adimages.scrippsnetworks.com
 0 earnify.com
 0 eas.almamedia.fi
+0 easydownloadnow.com
 0 easyhits4u.com
 0 e-bannerx.com
 0 ebayadvertising.com
@@ -4989,6 +5172,8 @@
 0 emediate.eu
 0 emerse.com
 0 emonitor.takeit.cz
+0 emxdgt.com
+0 emxdigital.com
 0 enlarget.com
 0 enoratraffic.com
 0 enquisite.com
@@ -5096,6 +5281,7 @@
 0 freestats.com
 0 freestats.tv
 0 freewebcounter.com
+0 freshmarketer.com
 0 frtyj.com
 0 fullstory.com
 0 functionalclam.com
@@ -5148,6 +5334,7 @@
 0 gpr.hu
 0 grafstat.ro
 0 grapeshot.co.uk
+0 graph.instagram.com
 0 greetzebra.com
 0 greystripe.com
 0 gtop.ro
@@ -5163,6 +5350,7 @@
 0 harrenmedianetwork.com
 0 havamedia.net
 0 heap.com
+0 heapanalytics.com
 0 heias.com
 0 hellobar.com
 0 hentaicounter.com
@@ -5259,6 +5447,7 @@
 0 impressionmedia.cz
 0 impressionz.co.uk
 0 imrworldwide.com
+0 inaccused.com
 0 inboxdollars.com
 0 incentaclick.com
 0 incognitosearches.com
@@ -5364,6 +5553,7 @@
 0 legolas-media.com
 0 levelrate.de
 0 lfstmedia.com
+0 lib.vmweb.net
 0 liftdna.com
 0 ligatus.de
 0 lightningcast.net
@@ -5394,8 +5584,11 @@
 0 localmantra.com
 0 localmediabuying.com
 0 log.btopenworld.com
+0 log.logrocket.io
 0 logger.snackly.co
 0 logrocket.com
+0 logs.logrocket.com
+0 logs.roku.com
 0 logua.com
 0 loopme.biz
 0 lop.com
@@ -5406,6 +5599,7 @@
 0 lucklayed.info
 0 lumpyleaf.com
 0 lunarads.com
+0 lwfjd.today
 0 lytics.io
 0 lzjl.com
 0 m.trb.com
@@ -5629,6 +5823,7 @@
 0 newt1.adultworld.com
 0 newtopsites.com
 0 nexac.com
+0 nitratory.com
 0 nitroclicks.com
 0 novaonads.com
 0 novem.pl
@@ -5685,6 +5880,7 @@
 0 openads.org
 0 openclick.com
 0 openmarket.com
+0 opentag-stats.qubit.com
 0 openvideoads.org
 0 openx.angelsgroup.org.uk
 0 openx.blindferret.com
@@ -5752,6 +5948,7 @@
 0 permutive.com
 0 personagraph.com
 0 personaly.click
+0 pgl.example0101
 0 pgmediaserve.com
 0 pgpartner.com
 0 picadmedia.com
@@ -5760,9 +5957,12 @@
 0 pillscash.com
 0 pimproll.com
 0 ping.ublock.org
+0 pippio.com
 0 pixel.condenastdigital.com
 0 pixel.digitru.st
 0 pixel.jumptap.com
+0 pixel.mediaiqdigital.com
+0 pixel.personagraph.com
 0 pixel.redditmedia.com
 0 pixel.sojern.com
 0 pixel.watch
@@ -5783,7 +5983,6 @@
 0 popub.com
 0 popunder.ru
 0 pop-under.ru
-0 popup.msn.com
 0 popupmoney.com
 0 popupnation.com
 0 popups.infostart.com
@@ -5869,7 +6068,6 @@
 0 quigo.com
 0 quinst.com
 0 quisma.com
-0 rad.msn.com
 0 radar.cedexis.com
 0 radarurl.com
 0 radiate.com
@@ -5927,6 +6125,7 @@
 0 relevanz10.de
 0 relmaxtop.com
 0 remarketingpixel.com
+0 remistrainew.club
 0 remotead.cnet.com
 0 remox.com
 0 republika.onet.pl
@@ -5946,7 +6145,6 @@
 0 rightstats.com
 0 rlcdn.com
 0 rle.ru
-0 rmads.msn.com
 0 rmedia.boston.com
 0 roar.com
 0 robotreplay.com
@@ -5957,6 +6155,7 @@
 0 rose.ixbt.com
 0 rotabanner.com
 0 roxr.net
+0 rta.dailymail.co.uk
 0 rtbidder.net
 0 rtbpop.com
 0 rtbpopd.com
@@ -5984,6 +6183,7 @@
 0 scopelight.com
 0 scorecardresearch.com
 0 scratch2cash.com
+0 script.crazyegg.com
 0 scripte-monster.de
 0 scrubsky.com
 0 scrubswim.com
@@ -6024,7 +6224,6 @@
 0 shareadspace.com
 0 shareasale.com
 0 sharepointads.com
-0 sharethrough.com
 0 shelterstraw.com
 0 sher.index.hu
 0 shermore.info
@@ -6179,6 +6378,7 @@
 0 synad.nuffnang.com.my
 0 synad2.nuffnang.com.my
 0 synad3.nuffnang.com.my
+0 sync.vmweb.net
 0 t.insigit.com
 0 t.pusk.ru
 0 tacoda.net
@@ -6270,6 +6470,7 @@
 0 tubemogul.com
 0 turboadv.com
 0 turn.com
+0 tvads.alphonso.tv
 0 tvas-a.pw
 0 tvas-c.pw
 0 tvmtracker.com
@@ -6291,11 +6492,14 @@
 0 thrnt.com
 0 throattrees.com
 0 thruport.com
+0 tr.alphonso.tv
+0 trac.mediaiqdigital.com
 0 tracedesire.com
 0 track.adform.net
 0 track.anchorfree.com
 0 track.contently.com
 0 track.dating-4-you.com
+0 track.eyeviewads.com
 0 track.flexlinks.com
 0 track.flexlinkspro.com
 0 track.gawker.com
@@ -6399,7 +6603,6 @@
 0 vibrantmedia.com
 0 videoadex.com
 0 videoegg.com
-0 video-stats.video.google.com
 0 vidora.com
 0 view4cash.de
 0 viewpoint.com
@@ -6411,6 +6614,7 @@
 0 visual-pagerank.fr
 0 visualrevenue.com
 0 vmmpxl.com
+0 vmweb.net
 0 voicefive.com
 0 voicevegetable.com
 0 vpon.com
@@ -6418,6 +6622,7 @@
 0 vs.tucows.com
 0 vutzmxahqio.co
 0 w3i.com
+0 wa.and.co.uk
 0 wads.webteh.com
 0 wantmobi.bid
 0 warlog.info
@@ -6453,6 +6658,7 @@
 0 webtracky.com
 0 webtraffic.se
 0 webtraxx.de
+0 webtrends.telegraph.co.uk
 0 webtrendslive.com
 0 wegcash.com
 0 werbung.meteoxpress.com
@@ -6465,6 +6671,7 @@
 0 wholesaletraffic.info
 0 widdit.com
 0 widespace.com
+0 widget.privy.com
 0 widgetbucks.com
 0 wikia-ads.wikia.com
 0 window.nixnet.cz
@@ -6477,6 +6684,7 @@
 0 wondoads.de
 0 worldwide-cash.net
 0 wpnrtnmrewunrtok.xyz
+0 wsod.com
 0 wt-eu02.net
 0 wtlive.com
 0 www.adexchangetracker.com
@@ -6527,6 +6735,7 @@
 0 ylx-2.com
 0 ylx-3.com
 0 ylx-4.com
+0 ymetrica1.com
 0 yoc.mobi
 0 yoc-performance.com
 0 yoggrt.com
@@ -6547,6 +6756,7 @@
 0 zeus.developershed.com
 0 zeusclicks.com
 0 zintext.com
+0 zm232.com
 0 zmedia.com
 0 zqtk.net
 0 zumobi.com
@@ -6634,6 +6844,7 @@
 0 adongcomic.com
 0 adoreclothing.co.uk
 0 ads.mail3x.com
+0 adtrack.king.com
 0 aeaer.com
 0 af-cn.com
 0 agroluftbild.de
@@ -6656,6 +6867,7 @@
 0 amskrupajal.org
 0 amusecity.com
 0 anafartalartml.k12.tr
+0 analytics.ccgateway.net
 0 analytics.localytics.com
 0 ancientroom.com
 0 andayiyuan.com
@@ -6768,6 +6980,7 @@
 0 carloselmago.com
 0 cars.constructionwitness.net
 0 caymanlandsales.com
+0 ccgateway.net
 0 cctjly.com
 0 ccycny.com
 0 cdmswj.com
@@ -7008,6 +7221,7 @@
 0 humanding.com
 0 hyl-zh.lentor.net
 0 hzm6.com
+0 ids.cdnwidget.com
 0 iebar.t2t2.com
 0 ifighi.net
 0 illaboratoriosrl.it
@@ -7193,6 +7407,7 @@
 0 pear.dementiaadvocacy.com
 0 peoria33884.cz.cc
 0 pinkpillar.ru
+0 pixel.cdnwidget.com
 0 pixel.wp.com
 0 pizzotti.net
 0 pjhku.com
@@ -7238,7 +7453,6 @@
 0 ronasiter.com
 0 royalair.koom.ma
 0 rq82.com
-0 rta.dailymail.co.uk
 0 rta2.metro.co.uk
 0 rtyszz.com
 0 saawa.com
@@ -7345,8 +7559,10 @@
 0 transpec.vn
 0 tr-gdz.ru
 0 trinitymirror.grapeshot.co.uk
+0 trk.clinch.co
 0 trouble.cachetinvestments.com
 0 truckersemanifest.com
+0 u.cdnwidget.com
 0 uci.securesoft.info
 0 uglyas.com
 0 ujvmzzwsxzrd3.com
