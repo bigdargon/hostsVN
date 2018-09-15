@@ -363,6 +363,7 @@
 0.0.0.0 sonar-iad.xx.fbcdn.net
 0.0.0.0 connect.facebook.net
 0.0.0.0 pixel.facebook.com
+0.0.0.0 graph.instagram.com
 #[twitter]
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
@@ -972,6 +973,7 @@
 0.0.0.0 origin-e.anthill.vn
 0.0.0.0 p.anthill.vn
 0.0.0.0 st-analytics.anthill.vn
+0.0.0.0 e-vcdn.anthill.vn
 #[gammaplatform]
 0.0.0.0 gammaplatform.com
 0.0.0.0 login.gammaplatform.com
@@ -3365,6 +3367,23 @@
 0.0.0.0 phawk.parrable.com
 0.0.0.0 t.parrable.com
 0.0.0.0 vector.parrable.com
+#[adasiaholdings]
+0.0.0.0 adasiaholdings.com
+0.0.0.0 adnetwork.adasiaholdings.com
+0.0.0.0 desk.adasiaholdings.com
+0.0.0.0 media.adasiaholdings.com
+0.0.0.0 dev-desk.adasiaholdings.com
+#[adbro]
+0.0.0.0 adbro.me
+0.0.0.0 api.adbro.me
+0.0.0.0 cdn.adbro.me
+0.0.0.0 adbro.rtbid.me
+#[genieessp]
+0.0.0.0 genieessp.com
+0.0.0.0 js.genieessp.com
+0.0.0.0 ads.genieessp.com
+0.0.0.0 gi-js.genieessp.com
+0.0.0.0 6159.genieessp.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 ad.24h.com.vn
@@ -3419,14 +3438,19 @@
 0.0.0.0 access.adblox.net
 0.0.0.0 services.adblox.net
 0.0.0.0 www.adblox.net
+0.0.0.0 ads.baodatviet.vn
+0.0.0.0 polyad.galaxypub.vn
 #[trackingVN]
 0.0.0.0 alexajstrack.com
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.batdongsan.com.vn
 0.0.0.0 log.sggp.org.vn
 0.0.0.0 log.thanhnien.vn
+0.0.0.0 log.tienphong.vn
+0.0.0.0 log.vietnamplus.vn
 0.0.0.0 log.vov.vn
 0.0.0.0 log.giaoduc.net.vn
+0.0.0.0 logging.galaxypub.vn
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
@@ -4593,6 +4617,7 @@
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 anxiousapples.com
 0.0.0.0 apex-ad.com
+0.0.0.0 api.52youtu.com
 0.0.0.0 api.ad4push.com
 0.0.0.0 api.alphonso.tv
 0.0.0.0 api.appfireworks.com
@@ -5333,7 +5358,6 @@
 0.0.0.0 gpr.hu
 0.0.0.0 grafstat.ro
 0.0.0.0 grapeshot.co.uk
-0.0.0.0 graph.instagram.com
 0.0.0.0 greetzebra.com
 0.0.0.0 greystripe.com
 0.0.0.0 gtop.ro
@@ -5778,6 +5802,7 @@
 0.0.0.0 mythings.com
 0.0.0.0 mytrafficads.com
 0.0.0.0 mzbcdn.net
+0.0.0.0 n.pc2ads.com
 0.0.0.0 n69.com
 0.0.0.0 naiadsystems.com
 0.0.0.0 naj.sk
@@ -5932,6 +5957,7 @@
 0.0.0.0 payserve.com
 0.0.0.0 pbnet.ru
 0.0.0.0 pbterra.com
+0.0.0.0 pc2ads.com
 0.0.0.0 pcash.imlive.com
 0.0.0.0 peep-auktion.de
 0.0.0.0 peer39.com
@@ -6207,6 +6233,7 @@
 0.0.0.0 server.iad.liveperson.net
 0.0.0.0 servethis.com
 0.0.0.0 service1.adten.de
+0.0.0.0 servicelayer.king.com
 0.0.0.0 services.hearstmags.com
 0.0.0.0 sessioncam.com
 0.0.0.0 sessionm.com
@@ -6344,6 +6371,7 @@
 0.0.0.0 steelhouse.com
 0.0.0.0 steelhousemedia.com
 0.0.0.0 stickyadstv.com
+0.0.0.0 st-n.pc2ads.com
 0.0.0.0 storesurprise.com
 0.0.0.0 stormyachiever.com
 0.0.0.0 stormyshock.com
