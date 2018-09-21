@@ -3826,6 +3826,27 @@
 0 support-legacy.newrelic.com
 0 synthetics.newrelic.com
 0 try.newrelic.com
+#[taplytics]
+0 academy.taplytics.com
+0 api.taplytics.com
+0 cdn.taplytics.com
+0 cdn-config.taplytics.com
+0 changelog.taplytics.com
+0 dev.taplytics.com
+0 info.taplytics.com
+0 labs.taplytics.com
+0 media.taplytics.com
+0 metabase.taplytics.com
+0 ping.taplytics.com
+0 rest-docs.taplytics.com
+0 socketio.taplytics.com
+0 socketio-dev.taplytics.com
+0 socketio-staging.taplytics.com
+0 status.taplytics.com
+0 switch.taplytics.com
+0 taplytics.com
+0 wpengine.taplytics.com
+0 www.taplytics.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -5070,6 +5091,7 @@
 0 api.ad4push.com
 0 api.alphonso.tv
 0 api.appfireworks.com
+0 api.catch.gift
 0 api.intensifier.de
 0 api.ipify.org
 0 api.parse.com
@@ -7705,6 +7727,7 @@
 0 ghidneamt.ro
 0 gjapplog.uc.cn
 0 gjysjl.com
+0 global.ymtracking.com
 0 globalnursesonline.com
 0 go.ad1data.com
 0 googlanalytics.ws
@@ -8373,20 +8396,20 @@
 0 fus.walla.co.il
 0 fus.yad2.co.il
 0 genericsteps.com
-0 gid.wonderlandads.com
 0 glispa.com
 0 goodadvert.com.ua
 0 googeadsserving.cn
 0 gowadogo.com
 0 guohead.com
 0 guomob.com
+0 gid.wonderlandads.com
 0 h2.msn.com
 0 hxczzzw.com
 0 hydra.alibaba.com
 0 imedia.cz
 0 immob.cn
-0 inmobi-jp.com
 0 inmobicdn.net
+0 inmobi-jp.com
 0 jsmbaidu.com
 0 kau.li
 0 kejet.net
@@ -8411,11 +8434,11 @@
 0 medibaad.com
 0 miaozhen.com
 0 microad.net
-0 mob-server.com
 0 mobads.baidu.com
 0 mobilefuse.net
 0 mobiright.com
 0 mobrand.net
+0 mob-server.com
 0 mobytrks.com
 0 movi11.com
 0 msads.net
@@ -8451,13 +8474,13 @@
 0 tapas.net
 0 taptica.com
 0 teasernet.com
+0 tuisong.baidu.com
 0 traffic.uusee.com
 0 trafficgate.net
 0 transpera.com
 0 tremorhub.com
 0 tremormedia.com
 0 trends.mobile.sina.cn
-0 tuisong.baidu.com
 0 uauniverse.com
 0 ucweb.com
 0 uimserv.net
