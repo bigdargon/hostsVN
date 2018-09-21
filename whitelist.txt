@@ -1,7 +1,10 @@
 #
-# Blocked domains will cause errors, the list here will never add back to the list
+# Blocked domains will cause errors, the list here will never add back to the block list
 #
 # =====================================================
 #
 !https://github.com/bigdargon/hostsVN/issues/18
 www.googleadservices.com
+
+!https://github.com/bigdargon/hostsVN/issues/22
+alog.umeng.com
