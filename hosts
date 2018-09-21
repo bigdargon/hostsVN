@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last updated: 18 Sep 2018
+# Last updated: 21 Sep 2018
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
 # Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
@@ -11,6 +11,7 @@
 # --- Group block ---
 #[google]
 0.0.0.0 doubleclick.net
+0.0.0.0 accounts.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
@@ -53,6 +54,8 @@
 0.0.0.0 rd.intl.doubleclick.net
 0.0.0.0 reportcentral.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
+0.0.0.0 2542116.fls.doubleclick.net
+0.0.0.0 4448269.fls.doubleclick.net
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 adservices.google.com
@@ -480,6 +483,8 @@
 0.0.0.0 catalog.qc.coccoc.com
 0.0.0.0 qc-static.coccoc.com
 0.0.0.0 metrics.coccoc.com
+0.0.0.0 cdn.comedia.coccoc.com
+0.0.0.0 nt-cdn.coccoc.com
 0.0.0.0 qccoccocmedia.vn
 #[lavanetwork]
 0.0.0.0 lavanetwork.net
@@ -554,6 +559,7 @@
 0.0.0.0 ads.viber.com
 0.0.0.0 ads-d.viber.com
 0.0.0.0 ads.aws.viber.com
+0.0.0.0 share.cdn.viber.com
 #[admob]
 0.0.0.0 admob.com
 0.0.0.0 a.admob.com
@@ -564,9 +570,132 @@
 0.0.0.0 trac.admob.com
 0.0.0.0 r.l.admob.com
 #[inmobi]
-0.0.0.0 e-ltvp.inmobi.com
+0.0.0.0 ads.inmobi.com
+0.0.0.0 adtracker.inmobi.com
+0.0.0.0 advertisersegment.inmobi.com
+0.0.0.0 aidl-dev1001.data.corp.inmobi.com
+0.0.0.0 analytics.glance.inmobi.com
+0.0.0.0 api.glance.inmobi.com
+0.0.0.0 api.inmobi.com
+0.0.0.0 api.w.inmobi.com
+0.0.0.0 apptv.w.inmobi.com
+0.0.0.0 bk.et.w.inmobi.com
+0.0.0.0 build.ares.inmobi.com
+0.0.0.0 build.tools.inmobi.com
+0.0.0.0 build1500.scm.ev1.inmobi.com
+0.0.0.0 bw.bidder.inmobi.com
+0.0.0.0 bw-euwest-bidder.appd.inmobi.com
+0.0.0.0 bw-useast-bidder.appd.inmobi.com
+0.0.0.0 bw-uswest-bidder.appd.inmobi.com
+0.0.0.0 c.w.inmobi.com
+0.0.0.0 carpet.pulse.inmobi.com
+0.0.0.0 cf.cdn.inmobi.com
+0.0.0.0 cimetrix.inmobi.com
+0.0.0.0 clarity.idsp.inmobi.com
+0.0.0.0 clarity.inmobi.com
+0.0.0.0 config.inmobi.com
 0.0.0.0 config-ltvp.inmobi.com
+0.0.0.0 corp.inmobi.com
+0.0.0.0 crash-metrics.sdk.inmobi.com
+0.0.0.0 crmapi.idsp.inmobi.com
+0.0.0.0 charm.inmobi.com
+0.0.0.0 china.inmobi.com
+0.0.0.0 da.inmobi.com
+0.0.0.0 dataexchange.inmobi.com
+0.0.0.0 de.inmobi.com
+0.0.0.0 deadpool.ops.ir1.inmobi.com
+0.0.0.0 dl.inmobi.com
+0.0.0.0 dock.inmobi.com
+0.0.0.0 dope.ops.inmobi.com
+0.0.0.0 edgy.inmobi.com
+0.0.0.0 edgy.studioservices.inmobi.com
+0.0.0.0 edgy-china-cdn-sproutbuilder.inmobi.com
+0.0.0.0 e-ltvp.inmobi.com
+0.0.0.0 en-studiotraining.inmobi.com
+0.0.0.0 ep.ifc.inmobi.com
+0.0.0.0 ep-apsoutheast.ifc.inmobi.com
+0.0.0.0 ep-euwest.ifc.inmobi.com
+0.0.0.0 ep-useast.ifc.inmobi.com
+0.0.0.0 ep-uswest.ifc.inmobi.com
+0.0.0.0 et.w.inmobi.com
+0.0.0.0 exchange.inmobi.com
+0.0.0.0 gateway.ifc.inmobi.com
+0.0.0.0 gpu4001.ds.ams1.inmobi.com
+0.0.0.0 gpu4001.ds.ev1.inmobi.com
+0.0.0.0 graylog.ops.ams1.inmobi.com
+0.0.0.0 graylog.ops.dfw1.inmobi.com
+0.0.0.0 graylog.ops.dfw2.inmobi.com
+0.0.0.0 graylog.ops.pek1.inmobi.com
+0.0.0.0 heisenberg.cdn.inmobi.com
+0.0.0.0 heisenberg.inmobi.com
+0.0.0.0 heisenberg-uswest.cdn.inmobi.com
+0.0.0.0 helix.inmobi.com
+0.0.0.0 helixuat.inmobi.com
+0.0.0.0 i.w.inmobi.com
+0.0.0.0 ifc.auth.inmobi.com
+0.0.0.0 ifc.inmobi.com
+0.0.0.0 ifc3.inmobi.com
+0.0.0.0 ifc-ep.inmobi.com
+0.0.0.0 ifd.et.w.inmobi.com
+0.0.0.0 imces.inmobi.com
+0.0.0.0 in.analytics.glance.inmobi.com
+0.0.0.0 in.api.glance.inmobi.com
+0.0.0.0 infosec.corp.inmobi.com
+0.0.0.0 inmobi.com
+0.0.0.0 internal-clarity.idsp.inmobi.com
+0.0.0.0 japan.inmobi.com
+0.0.0.0 jira.infra.inmobi.com
+0.0.0.0 js.w.inmobi.com
+0.0.0.0 korea.inmobi.com
+0.0.0.0 lens.data.inmobi.com
+0.0.0.0 lens.secondry.data.dfw1.inmobi.com
+0.0.0.0 mediaplanner.inmobi.com
+0.0.0.0 mediaplanner.uat.inmobi.com
+0.0.0.0 oem.inmobi.com
+0.0.0.0 optout.inmobi.com
+0.0.0.0 partner.glance.inmobi.com
+0.0.0.0 perfex.inmobi.com
+0.0.0.0 platform.ifc.inmobi.com
+0.0.0.0 plds4001.grid.dfw1.inmobi.com
+0.0.0.0 prclick.inmobi.com
+0.0.0.0 pso.inmobi.com
+0.0.0.0 pso.ws.ev1.inmobi.com
+0.0.0.0 pso-imbot.inmobi.com
+0.0.0.0 pulse.inmobi.com
+0.0.0.0 pulse-uat.inmobi.com
+0.0.0.0 r.w.inmobi.com
+0.0.0.0 rc-studio.inmobi.com
+0.0.0.0 reaper.pulse.inmobi.com
+0.0.0.0 reports.inmobi.com
+0.0.0.0 resource.inmobi.com
+0.0.0.0 resources.inmobi.com
+0.0.0.0 rm.inmobi.com
+0.0.0.0 rtbdsp.inmobi.com
+0.0.0.0 sdkm.inmobi.com
 0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 sdktm.w.inmobi.com
+0.0.0.0 s-et.w.inmobi.com
+0.0.0.0 s-et-rc-w.inmobi.com
+0.0.0.0 startup.inmobi.com
+0.0.0.0 stg.oem.inmobi.com
+0.0.0.0 stg-ads.inmobi.com
+0.0.0.0 stg-ua.inmobi.com
+0.0.0.0 studio.ev1.inmobi.com
+0.0.0.0 studio.glance.inmobi.com
+0.0.0.0 support.inmobi.com
+0.0.0.0 sutdio.glance.inmobi.com
+0.0.0.0 technology.inmobi.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 testjira.corp.ev1.inmobi.com
+0.0.0.0 tm.inmobi.com
+0.0.0.0 token.corp.inmobi.com
+0.0.0.0 ua.inmobi.com
+0.0.0.0 uac-assets.cdn.inmobi.com
+0.0.0.0 unlockme.corp.inmobi.com
+0.0.0.0 vastproxy.brand.inmobi.com
+0.0.0.0 venus.inmobi.com
+0.0.0.0 w.inmobi.com
+0.0.0.0 xray.corp.inmobi.com
 0.0.0.0 inmobicdn.com
 #[adsota]
 0.0.0.0 adsota.com
@@ -865,6 +994,7 @@
 0.0.0.0 lb.us-east-1.applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
 #[adjust]
+0.0.0.0 53ac365e91086e608ae1345e075105e3.ulink.adjust.com
 0.0.0.0 app.adjust.com
 0.0.0.0 adjust.com
 0.0.0.0 atom.adjust.com
@@ -998,11 +1128,14 @@
 0.0.0.0 demo.pinetech.vn
 #[startappservice]
 0.0.0.0 startappexchange.com
-0.0.0.0 www.startappexchange.com
-0.0.0.0 info.static.startappservice.com
-0.0.0.0 req.startappservice.com
 0.0.0.0 init.startappexchange.com
+0.0.0.0 www.startappexchange.com
+0.0.0.0 dts.startappservice.com
+0.0.0.0 events.startappservice.com
 0.0.0.0 imp.startappservice.com
+0.0.0.0 info.static.startappservice.com
+0.0.0.0 init.startappservice.com
+0.0.0.0 req.startappservice.com
 0.0.0.0 startappservice.com
 #[serving-sys]
 0.0.0.0 serving-sys.com
@@ -1493,9 +1626,7 @@
 0.0.0.0 qqvideo.tc.qq.com
 0.0.0.0 tajs.qq.com
 #[umeng]
-0.0.0.0 alog.umengcloud.com
 0.0.0.0 alog.umeng.co
-0.0.0.0 alog.umeng.com
 0.0.0.0 uop.umeng.com
 0.0.0.0 umeng.co
 0.0.0.0 umeng.com
@@ -3456,6 +3587,7 @@
 0.0.0.0 prexyone.appspot.com
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 revealads.appspot.com
+0.0.0.0 rs-xpromotion.appspot.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sensytracker.appspot.com
 0.0.0.0 snapabug.appspot.com
@@ -3539,6 +3671,159 @@
 0.0.0.0 ssp.deployads.com
 0.0.0.0 tags.deployads.com
 0.0.0.0 tags-cdn.deployads.com
+#[fout.jp]
+0.0.0.0 ad.fout.jp
+0.0.0.0 ad.rfp.fout.jp
+0.0.0.0 click.fout.jp
+0.0.0.0 cnt.fout.jp
+0.0.0.0 dsp.fout.jp
+0.0.0.0 fout.jp
+0.0.0.0 js.fout.jp
+0.0.0.0 js.rfp.fout.jp
+0.0.0.0 sync.fout.jp
+#[supersonicads]
+0.0.0.0 ads.supersonicads.com
+0.0.0.0 api.supersonicads.com
+0.0.0.0 banners.supersonicads.com
+0.0.0.0 click-haproxy.supersonicads.com
+0.0.0.0 custom.supersonicads.com
+0.0.0.0 custom2.supersonicads.com
+0.0.0.0 delivery.supersonicads.com
+0.0.0.0 dev8.supersonicads.com
+0.0.0.0 developers.supersonicads.com
+0.0.0.0 documents.supersonicads.com
+0.0.0.0 documents.supersonicads.com.edgesuite.net
+0.0.0.0 gateway.supersonicads.com
+0.0.0.0 init.supersonicads.com
+0.0.0.0 is-gateway.supersonicads.com
+0.0.0.0 jsd.supersonicads.com
+0.0.0.0 kibana.sonic-us.supersonicads.com
+0.0.0.0 na-gateway.supersonicads.com
+0.0.0.0 nativeapi.supersonicads.com
+0.0.0.0 outcome.supersonicads.com
+0.0.0.0 ow-gateway.supersonicads.com
+0.0.0.0 pixel-tracking.sonic-us.supersonicads.com
+0.0.0.0 pub-api.supersonicads.com
+0.0.0.0 ris-gateway.supersonicads.com
+0.0.0.0 rv-gateway.supersonicads.com
+0.0.0.0 s.supersonicads.com
+0.0.0.0 s2s-tracking.sonic-us.supersonicads.com
+0.0.0.0 sonic-dev.supersonicads.com
+0.0.0.0 sonic-us.supersonicads.com
+0.0.0.0 ssl.supersonicads.com
+0.0.0.0 static.supersonicads.com
+0.0.0.0 supersonicads.com
+0.0.0.0 td-click.sonic-us.supersonicads.com
+0.0.0.0 td-click-haproxy.supersonicads.com
+0.0.0.0 track.supersonicads.com
+0.0.0.0 ua.supersonicads.com
+0.0.0.0 www.supersonicads.com
+#[pub.network]
+0.0.0.0 pub.network
+0.0.0.0 a.pub.network
+0.0.0.0 b.pub.network
+0.0.0.0 c.pub.network
+0.0.0.0 d.pub.network
+#[disqus]
+0.0.0.0 apkpure.disqus.com
+0.0.0.0 glitter.services.disqus.com
+0.0.0.0 hasoffers.disqus.com
+0.0.0.0 javdict.disqus.com
+0.0.0.0 juggler.services.disqus.com
+0.0.0.0 links.services.disqus.com
+0.0.0.0 realtime.services.disqus.com
+0.0.0.0 referrer.disqus.com
+0.0.0.0 tempest.services.disqus.com
+0.0.0.0 www.javdict.disqus.com
+#[viglink]
+0.0.0.0 api.viglink.com
+0.0.0.0 apicdn.viglink.com
+0.0.0.0 catalog.viglink.com
+0.0.0.0 cdn.viglink.com
+0.0.0.0 hosted.viglink.com
+0.0.0.0 ideas.viglink.com
+0.0.0.0 images.viglink.com
+0.0.0.0 info.viglink.com
+0.0.0.0 mc.viglink.com
+0.0.0.0 merchants.viglink.com
+0.0.0.0 ns1.viglink.com
+0.0.0.0 ns2.viglink.com
+0.0.0.0 ns3.viglink.com
+0.0.0.0 ns4.viglink.com
+0.0.0.0 ns5.viglink.com
+0.0.0.0 ns6.viglink.com
+0.0.0.0 optimize.viglink.com
+0.0.0.0 publishers.viglink.com
+0.0.0.0 qa.viglink.com
+0.0.0.0 redirect.viglink.com
+0.0.0.0 rest.viglink.com
+0.0.0.0 viglink.com
+0.0.0.0 www.mc.viglink.com
+0.0.0.0 www.qa.viglink.com
+0.0.0.0 www.viglink.com
+#[adspruce]
+0.0.0.0 adspruce.com
+0.0.0.0 ani.adspruce.com
+0.0.0.0 clients.adspruce.com
+0.0.0.0 info.adspruce.com
+0.0.0.0 sdk.adspruce.com
+0.0.0.0 sync.adspruce.com
+0.0.0.0 track.adspruce.com
+#[newrelic.com]
+0.0.0.0 alerts.newrelic.com
+0.0.0.0 apt.newrelic.com
+0.0.0.0 azure-res-provider.newrelic.com
+0.0.0.0 beta.newrelic.com
+0.0.0.0 br.newrelic.com
+0.0.0.0 current-azure-ext.newrelic.com
+0.0.0.0 dev.newrelic.com
+0.0.0.0 df-azure-ext.newrelic.com
+0.0.0.0 discuss.newrelic.com
+0.0.0.0 docs.newrelic.com
+0.0.0.0 docs-dev.newrelic.com
+0.0.0.0 docs-ra.newrelic.com
+0.0.0.0 docs-staging.newrelic.com
+0.0.0.0 download.newrelic.com
+0.0.0.0 dr.newrelic.com
+0.0.0.0 eu.newrelic.com
+0.0.0.0 get.newrelic.com
+0.0.0.0 i18n.newrelic.com
+0.0.0.0 ir.newrelic.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 jserror.newrelic.com
+0.0.0.0 learn.newrelic.com
+0.0.0.0 learn-dev.newrelic.com
+0.0.0.0 learn-ra.newrelic.com
+0.0.0.0 learn-staging.newrelic.com
+0.0.0.0 login.newrelic.com
+0.0.0.0 login-origin.newrelic.com
+0.0.0.0 mail.newrelic.com
+0.0.0.0 mobile-collector.newrelic.com
+0.0.0.0 mobile-crash.newrelic.com
+0.0.0.0 mobile-crash-origin.newrelic.com
+0.0.0.0 mobile-symbol-upload.newrelic.com
+0.0.0.0 newrelic.com
+0.0.0.0 next-azure-ext.newrelic.com
+0.0.0.0 rpm.newrelic.com
+0.0.0.0 rpm-images.newrelic.com
+0.0.0.0 rpm-instart.newrelic.com
+0.0.0.0 service.dr.newrelic.com
+0.0.0.0 service.eu.newrelic.com
+0.0.0.0 service.newrelic.com
+0.0.0.0 staging.newrelic.com
+0.0.0.0 staging-alerts.newrelic.com
+0.0.0.0 staging-beacon-1.newrelic.com
+0.0.0.0 staging-discuss.newrelic.com
+0.0.0.0 staging-images.newrelic.com
+0.0.0.0 staging-mobile-collector.newrelic.com
+0.0.0.0 staging-service.newrelic.com
+0.0.0.0 stamp1-azure-ext.newrelic.com
+0.0.0.0 stamp2-azure-ext.newrelic.com
+0.0.0.0 status.newrelic.com
+0.0.0.0 support.newrelic.com
+0.0.0.0 support-legacy.newrelic.com
+0.0.0.0 synthetics.newrelic.com
+0.0.0.0 try.newrelic.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -3608,6 +3893,7 @@
 0.0.0.0 log.vov.vn
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 logging.galaxypub.vn
+0.0.0.0 logging.phunuonline.com.vn
 0.0.0.0 logv2.mp3.zing.vn
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.kenh14.vn
@@ -3626,6 +3912,7 @@
 0.0.0.0 vn.alexajstrack.com
 0.0.0.0 web.f8.pyco.vn
 0.0.0.0 web.stagingf8.pycogroup.com
+0.0.0.0 widget.nhaccuatui.com
 0.0.0.0 zplayer.trk.zapps.vn
 #[betVN]
 0.0.0.0 11bet.com
@@ -5263,6 +5550,7 @@
 0.0.0.0 christingel.com
 0.0.0.0 d.adroll.com
 0.0.0.0 d2cmedia.ca
+0.0.0.0 d4.hadarone.com
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 danban.com
 0.0.0.0 dapper.net
@@ -5532,6 +5820,7 @@
 0.0.0.0 gunggo.com
 0.0.0.0 guppymedia.com
 0.0.0.0 giddycoat.com
+0.0.0.0 hadarone.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 havamedia.net
@@ -5647,7 +5936,6 @@
 0.0.0.0 infinityads.com
 0.0.0.0 infolinks.com
 0.0.0.0 information.com
-0.0.0.0 inmobi.com
 0.0.0.0 inner-active.com
 0.0.0.0 inner-active.mobi
 0.0.0.0 innovid.com
@@ -6304,7 +6592,6 @@
 0.0.0.0 reedbusiness.com
 0.0.0.0 reefaquarium.biz
 0.0.0.0 referralware.com
-0.0.0.0 referrer.disqus.com
 0.0.0.0 refreshpagedownload.com
 0.0.0.0 regnow.com
 0.0.0.0 reinvigorate.net
@@ -6557,7 +6844,6 @@
 0.0.0.0 sumome.com
 0.0.0.0 superclix.de
 0.0.0.0 superficialsink.com
-0.0.0.0 supersonicads.com
 0.0.0.0 superstats.com
 0.0.0.0 supertop.ru
 0.0.0.0 supertop100.com
@@ -6996,7 +7282,6 @@
 0.0.0.0 3xstuff.com
 0.0.0.0 4006868488.cn
 0.0.0.0 400cao.com
-0.0.0.0 4448269.fls.doubleclick.net
 0.0.0.0 44cckk.com
 0.0.0.0 44ccvv.com
 0.0.0.0 510w.com
@@ -7257,6 +7542,7 @@
 0.0.0.0 crow-dc.ru
 0.0.0.0 csbjkj.com
 0.0.0.0 csdian.net
+0.0.0.0 ct.pinterest.com
 0.0.0.0 ctv.whpx8.com
 0.0.0.0 curiouserdesserts.com
 0.0.0.0 custom-blacklisted-tracking-example.com
@@ -7331,7 +7617,6 @@
 0.0.0.0 dsf.10eurosbonheur.org
 0.0.0.0 dsg.affaireenligne.org
 0.0.0.0 dtdn.cn
-0.0.0.0 dts.startappservice.com
 0.0.0.0 dtsrd.gov.cn
 0.0.0.0 dtstesting.com
 0.0.0.0 duchieu.de
@@ -7360,7 +7645,6 @@
 0.0.0.0 eurolatexthai.com
 0.0.0.0 evasive.expertwitnessautomaticdoor.net
 0.0.0.0 events.redditmedia.com
-0.0.0.0 events.startappservice.com
 0.0.0.0 evilstalin.https443.net
 0.0.0.0 eviltracker.net
 0.0.0.0 evlilikfoto.com
@@ -7409,7 +7693,10 @@
 0.0.0.0 gddingtian.com.cn
 0.0.0.0 gdeea.cc
 0.0.0.0 gen-ever.com
+0.0.0.0 geoinfo.i2w.io
+0.0.0.0 geoip.maxmind.com
 0.0.0.0 geoip.nekudo.com
+0.0.0.0 geoip.tnt-ea.com
 0.0.0.0 getexceptional.com
 0.0.0.0 ggwwquzxdkaqwerob3-dd257mbsrsenuindsps.dsnxg.57670.net
 0.0.0.0 ghgmtcrluvghlwc91.com
@@ -7482,7 +7769,6 @@
 0.0.0.0 img.securesoft.info
 0.0.0.0 indiatouragency.com
 0.0.0.0 indogator.com
-0.0.0.0 init.startappservice.com
 0.0.0.0 ink.churchofthefreespirit.com
 0.0.0.0 innatek.com
 0.0.0.0 insight.ucweb.com
@@ -7603,6 +7889,7 @@
 0.0.0.0 mediaforce.grapeshot.co.uk
 0.0.0.0 mefa.ws
 0.0.0.0 metzgerconsulting.com
+0.0.0.0 metrics.brightcove.com
 0.0.0.0 miamibeachhotels.tv
 0.0.0.0 miremanufacturing.com
 0.0.0.0 mixandbatch2000.co.uk
@@ -7612,7 +7899,6 @@
 0.0.0.0 mkhafnorcu81.com
 0.0.0.0 mmexe.com
 0.0.0.0 moacbeniv.com
-0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-safety.org
 0.0.0.0 moblao.com
 0.0.0.0 mobuna.com
@@ -7842,6 +8128,7 @@
 0.0.0.0 tr-gdz.ru
 0.0.0.0 trinitymirror.grapeshot.co.uk
 0.0.0.0 trk.clinch.co
+0.0.0.0 trk.pinterest.com
 0.0.0.0 trouble.cachetinvestments.com
 0.0.0.0 truckersemanifest.com
 0.0.0.0 u.cdnwidget.com
