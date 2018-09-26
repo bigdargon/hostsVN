@@ -1,4 +1,3 @@
-ocsp.apple.com
 doubleclick.net
 accounts.doubleclick.net
 g.doubleclick.net
@@ -99,8 +98,10 @@ www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 video-stats.video.google.com
 clientmetrics-pa.googleapis.com
+imasdk.googleapis.com
 ads.gmodules.com
 www.gmodules.com
+ocsp.apple.com
 advertising.apple.com
 banners.itunes.apple.com
 ca.iadsdk.apple.com
@@ -1035,6 +1036,7 @@ origin-st-a.anthill.vn
 staging-e.anthill.vn
 origin-e.anthill.vn
 p.anthill.vn
+st-a.anthill.vn
 st-analytics.anthill.vn
 e-vcdn.anthill.vn
 gammaplatform.com
@@ -1958,6 +1960,7 @@ ads.adnxs.com
 adstxt.adnxs.com
 adx.adnxs.com
 akamai.cdneval.adnxs.com
+ams1-ib.adnxs.com
 anycast.adnxs.com
 b.adnxs.com
 cdn.adnxs.com
@@ -2073,7 +2076,10 @@ logs-01.loggly.com
 cloudfront.loggly.com
 tail.loggly.com
 www.loggly.com
+admin.corp.mparticle.com
 config2.mparticle.com
+cookiesync.mparticle.com
+corp.mparticle.com
 identity.mparticle.com
 jssdkcdns.mparticle.com
 jssdks.mparticle.com
@@ -2193,6 +2199,7 @@ cc1.midasplayer.com
 corp.midasplayer.com
 da.midasplayer.com
 dev.midasplayer.com
+dev.bladegame.midasplayer.com
 os.dev.midasplayer.com
 up.dev.midasplayer.com
 ds.midasplayer.com
@@ -2222,7 +2229,9 @@ prs1.midasplayer.com
 prs3.midasplayer.com
 py1.midasplayer.com
 qa.midasplayer.com
+qa.bladegame.midasplayer.com
 sharelog.qa.midasplayer.com
+uat.bladegame.midasplayer.com
 up.qa.midasplayer.com
 ratkoqa.midasplayer.com
 sharelog.midasplayer.com
@@ -2253,9 +2262,11 @@ chartboost.com
 dashapi.chartboost.com
 dashboard.chartboost.com
 docs.chartboost.com
+engineering.chartboost.com
 hello.chartboost.com
 help.chartboost.com
 icon.chartboost.com
+info.chartboost.com
 live.chartboost.com
 pages.chartboost.com
 partners.chartboost.com
@@ -2266,10 +2277,9 @@ t.chartboost.com
 t3.chartboost.com
 tracking.chartboost.com
 v2.chartboost.com
+v4.chartboost.com
 v5.chartboost.com
-www.answers.chartboost.com
 www.chartboost.com
-www.dashboard.chartboost.com
 exchange.adtrue.com
 cdn.adtrue.com
 adtrue.com
@@ -3682,6 +3692,7 @@ amobi.vn
 api.app.masoffer.net
 apinas.nct.vn
 app.masoffer.net
+appapicached.vtvgo.vn
 click.uniad.vn
 click.xdeal.vn
 client.vads.net.vn
@@ -6120,6 +6131,7 @@ network.business.com
 neudesicmediagroup.com
 newads.bangbros.com
 newbie.com
+neweggstats.com
 newnet.qsrch.com
 newnudecash.com
 newonads.com
@@ -7232,6 +7244,7 @@ api.instabug.com
 api.prooffactor.com
 api.quantumgraph.com
 api.safegraph.com
+api.simpleanalytics.io
 api.simplesharebuttons.com
 api.splkmobile.com
 apiparbion.com
@@ -7339,6 +7352,7 @@ ccgateway.net
 cctjly.com
 ccycny.com
 cdmswj.com
+cdn.simpleanalytics.io
 cdn.zarget.com
 centerpieces-with-feathers-for-weddi.blogspot.com
 centralamericarealestateinvestment.com

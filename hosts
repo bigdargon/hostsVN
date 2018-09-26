@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last updated: 21 Sep 2018
+# Last updated: 26 Sep 2018
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
 # Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
@@ -110,9 +110,11 @@
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 clientmetrics-pa.googleapis.com
+0.0.0.0 imasdk.googleapis.com
 0.0.0.0 ads.gmodules.com
 0.0.0.0 www.gmodules.com
 #[apple]
+0.0.0.0 ocsp.apple.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 banners.itunes.apple.com
 0.0.0.0 ca.iadsdk.apple.com
@@ -1103,6 +1105,7 @@
 0.0.0.0 staging-e.anthill.vn
 0.0.0.0 origin-e.anthill.vn
 0.0.0.0 p.anthill.vn
+0.0.0.0 st-a.anthill.vn
 0.0.0.0 st-analytics.anthill.vn
 0.0.0.0 e-vcdn.anthill.vn
 #[gammaplatform]
@@ -2066,6 +2069,7 @@
 0.0.0.0 adstxt.adnxs.com
 0.0.0.0 adx.adnxs.com
 0.0.0.0 akamai.cdneval.adnxs.com
+0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 anycast.adnxs.com
 0.0.0.0 b.adnxs.com
 0.0.0.0 cdn.adnxs.com
@@ -2188,7 +2192,10 @@
 0.0.0.0 tail.loggly.com
 0.0.0.0 www.loggly.com
 #[mparticle]
+0.0.0.0 admin.corp.mparticle.com
 0.0.0.0 config2.mparticle.com
+0.0.0.0 cookiesync.mparticle.com
+0.0.0.0 corp.mparticle.com
 0.0.0.0 identity.mparticle.com
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssdks.mparticle.com
@@ -2314,6 +2321,7 @@
 0.0.0.0 corp.midasplayer.com
 0.0.0.0 da.midasplayer.com
 0.0.0.0 dev.midasplayer.com
+0.0.0.0 dev.bladegame.midasplayer.com
 0.0.0.0 os.dev.midasplayer.com
 0.0.0.0 up.dev.midasplayer.com
 0.0.0.0 ds.midasplayer.com
@@ -2343,7 +2351,9 @@
 0.0.0.0 prs3.midasplayer.com
 0.0.0.0 py1.midasplayer.com
 0.0.0.0 qa.midasplayer.com
+0.0.0.0 qa.bladegame.midasplayer.com
 0.0.0.0 sharelog.qa.midasplayer.com
+0.0.0.0 uat.bladegame.midasplayer.com
 0.0.0.0 up.qa.midasplayer.com
 0.0.0.0 ratkoqa.midasplayer.com
 0.0.0.0 sharelog.midasplayer.com
@@ -2377,9 +2387,11 @@
 0.0.0.0 dashapi.chartboost.com
 0.0.0.0 dashboard.chartboost.com
 0.0.0.0 docs.chartboost.com
+0.0.0.0 engineering.chartboost.com
 0.0.0.0 hello.chartboost.com
 0.0.0.0 help.chartboost.com
 0.0.0.0 icon.chartboost.com
+0.0.0.0 info.chartboost.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 pages.chartboost.com
 0.0.0.0 partners.chartboost.com
@@ -2390,10 +2402,9 @@
 0.0.0.0 t3.chartboost.com
 0.0.0.0 tracking.chartboost.com
 0.0.0.0 v2.chartboost.com
+0.0.0.0 v4.chartboost.com
 0.0.0.0 v5.chartboost.com
-0.0.0.0 www.answers.chartboost.com
 0.0.0.0 www.chartboost.com
-0.0.0.0 www.dashboard.chartboost.com
 #[adtrue]
 0.0.0.0 exchange.adtrue.com
 0.0.0.0 cdn.adtrue.com
@@ -3872,6 +3883,7 @@
 0.0.0.0 api.app.masoffer.net
 0.0.0.0 apinas.nct.vn
 0.0.0.0 app.masoffer.net
+0.0.0.0 appapicached.vtvgo.vn
 0.0.0.0 click.uniad.vn
 0.0.0.0 click.xdeal.vn
 0.0.0.0 client.vads.net.vn
@@ -6313,6 +6325,7 @@
 0.0.0.0 neudesicmediagroup.com
 0.0.0.0 newads.bangbros.com
 0.0.0.0 newbie.com
+0.0.0.0 neweggstats.com
 0.0.0.0 newnet.qsrch.com
 0.0.0.0 newnudecash.com
 0.0.0.0 newonads.com
@@ -7426,6 +7439,7 @@
 0.0.0.0 api.prooffactor.com
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.safegraph.com
+0.0.0.0 api.simpleanalytics.io
 0.0.0.0 api.simplesharebuttons.com
 0.0.0.0 api.splkmobile.com
 0.0.0.0 apiparbion.com
@@ -7533,6 +7547,7 @@
 0.0.0.0 cctjly.com
 0.0.0.0 ccycny.com
 0.0.0.0 cdmswj.com
+0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 cdn.zarget.com
 0.0.0.0 centerpieces-with-feathers-for-weddi.blogspot.com
 0.0.0.0 centralamericarealestateinvestment.com
