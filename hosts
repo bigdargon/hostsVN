@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last updated: 29 Sep 2018
+# Last updated: 01 Oct 2018
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
 # Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
@@ -3856,6 +3856,28 @@
 0.0.0.0 taplytics.com
 0.0.0.0 wpengine.taplytics.com
 0.0.0.0 www.taplytics.com
+#[amplitude]
+0.0.0.0 amplify.amplitude.com
+0.0.0.0 amplitude.com
+0.0.0.0 api.amplitude.com
+0.0.0.0 cdn.amplitude.com
+0.0.0.0 dev.amplitude.com
+0.0.0.0 discourse.amplitude.com
+0.0.0.0 events.amplitude.com
+0.0.0.0 get.amplitude.com
+0.0.0.0 go.amplitude.com
+0.0.0.0 info.amplitude.com
+0.0.0.0 meetings.amplitude.com
+0.0.0.0 promo.amplitude.com
+0.0.0.0 staging.amplitude.com
+0.0.0.0 static.amplitude.com
+0.0.0.0 status.amplitude.com
+0.0.0.0 www.amplify.amplitude.com
+0.0.0.0 www.api.amplitude.com
+0.0.0.0 www.events.amplitude.com
+0.0.0.0 www.get.amplitude.com
+0.0.0.0 www.info.amplitude.com
+0.0.0.0 www.promo.amplitude.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -4029,6 +4051,7 @@
 0.0.0.0 980media.com
 0.0.0.0 99count.com
 0.0.0.0 a.0day.kiev.ua
+0.0.0.0 a.adexchangemachine.com
 0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.collective-media.net
 0.0.0.0 a.consumer.net
@@ -4239,6 +4262,7 @@
 0.0.0.0 adengage.com
 0.0.0.0 ad-eu-west-1.pxlad.io
 0.0.0.0 adexchangegate.com
+0.0.0.0 adexchangemachine.com
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adexpose.com
 0.0.0.0 adext.inkclub.com
@@ -5087,7 +5111,6 @@
 0.0.0.0 ambitiousagreement.com
 0.0.0.0 americash.com
 0.0.0.0 amobee.com
-0.0.0.0 amplitude.com
 0.0.0.0 an.tacoda.net
 0.0.0.0 anahtars.com
 0.0.0.0 analytics.adpost.org
@@ -5164,6 +5187,7 @@
 0.0.0.0 awin1.com
 0.0.0.0 aylarl.com
 0.0.0.0 azfront.com
+0.0.0.0 b.adexchangemachine.com
 0.0.0.0 b.aol.com
 0.0.0.0 b.engadget.com
 0.0.0.0 b-1st.com
@@ -5268,6 +5292,7 @@
 0.0.0.0 bans.bride.ru
 0.0.0.0 barnesandnoble.bfast.com
 0.0.0.0 basebanner.com
+0.0.0.0 basepush.com
 0.0.0.0 baskettexture.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bawdybeast.com
@@ -5356,6 +5381,7 @@
 0.0.0.0 buzzonclick.com
 0.0.0.0 bvalphaserver.com
 0.0.0.0 bwp.download.com
+0.0.0.0 c.adexchangemachine.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.compete.com
 0.0.0.0 c1.nowlinux.com
@@ -5394,6 +5420,7 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.tynt.com
+0.0.0.0 cdnondemand.org
 0.0.0.0 cdnproviders.net
 0.0.0.0 cdnstoremedia.com
 0.0.0.0 cecash.com
@@ -6006,6 +6033,7 @@
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 ivypixel.com
+0.0.0.0 iz682noju02ye5.com
 0.0.0.0 jaminfinity.tk
 0.0.0.0 jatxt.com
 0.0.0.0 jbeet.cjt1.net
@@ -6372,6 +6400,8 @@
 0.0.0.0 omniture.com
 0.0.0.0 onclasrv.com
 0.0.0.0 onclickads.net
+0.0.0.0 onclickmega.com
+0.0.0.0 onclicksuper.com
 0.0.0.0 oneandonlynetwork.com
 0.0.0.0 onenetworkdirect.com
 0.0.0.0 onestat.com
@@ -7108,6 +7138,7 @@
 0.0.0.0 variablefitness.com
 0.0.0.0 vdopia.com
 0.0.0.0 veille-referencement.com
+0.0.0.0 velocitycdn.com
 0.0.0.0 velti.com
 0.0.0.0 ventivmedia.com
 0.0.0.0 vericlick.com
@@ -7188,6 +7219,7 @@
 0.0.0.0 widespace.com
 0.0.0.0 widget.privy.com
 0.0.0.0 widgetbucks.com
+0.0.0.0 widgets.coinmarketcap.com
 0.0.0.0 wikia-ads.wikia.com
 0.0.0.0 window.nixnet.cz
 0.0.0.0 wintricksbanner.googlepages.com
@@ -7207,14 +7239,18 @@
 0.0.0.0 www.arkonziv.com
 0.0.0.0 www.banner-link.com.br
 0.0.0.0 www.beauty-tea.com
+0.0.0.0 www.cdnondemand.org
 0.0.0.0 www.dnps.com
 0.0.0.0 www.ipify.org
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.lecap-services.fr
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.nikitinskysport.ru
+0.0.0.0 www.onclickmega.com
+0.0.0.0 www.onclicksuper.com
 0.0.0.0 www.performanceadexchange.com
 0.0.0.0 www.photo-ads.co.uk
+0.0.0.0 www.velocitycdn.com
 0.0.0.0 www.zekiatagur.com
 0.0.0.0 www1.gto-media.com
 0.0.0.0 www8.glam.com
