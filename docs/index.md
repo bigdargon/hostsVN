@@ -4,7 +4,7 @@
 * Một số ứng dụng lạm dụng việc chèn quảng cáo vào ứng dụng làm rối mắt người dùng, hoặc đặt quảng cáo tại những vị trí dễ nhấn nhầm nhằm tăng lượt nhấn vào quảng cáo, làm cho người sử dụng khó chịu khi chuyển trở về ứng dụng.
 * Ngoài ra, việc chặn theo dõi cũng chặn các nhà quảng cáo thu thập dữ liệu, theo dõi hành vi người dùng.
 
-# Địa chỉ một số trang
+# Địa chỉ
 
 Trang chủ: [https://bigdargon.github.io/hostsVN](https://bigdargon.github.io/hostsVN)
 
@@ -13,6 +13,10 @@ Github: [https://github.com/bigdargon/hostsVN](https://github.com/bigdargon/host
 Báo lỗi: [https://github.com/bigdargon/hostsVN/issues](https://github.com/bigdargon/hostsVN/issues)
 
 Wiki hướng dẫn: [https://github.com/bigdargon/hostsVN/wiki](https://github.com/bigdargon/hostsVN/wiki)
+
+# Một số bài đăng
+
+* **Tinh tế:** [Chặn quảng cáo bằng Adblock, Adguard Pro, Shadowrocket và Surge](https://tinhte.vn/threads/chan-quang-cao-bang-adblock-adguard-pro-shadowrocket-va-surge.2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @iFeed-er @se7venl0v3_198 đã tích cực theo dõi, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @thanhnh091 đã úp thớt mỗi khi có cập nhật để k trôi bài._
 
 # So sánh
 
