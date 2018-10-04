@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last updated: 01 Oct 2018
+# Last updated: 04 Oct 2018
 # Minimal version for iOS
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
@@ -296,13 +296,10 @@
 0 tracking.msadcenter.msn.com
 #[amazon]
 0 aan.amazon.com
-0 aax-fe.amazon-adsystem.com
-0 aax-us-east.amazon-adsystem.com
 0 aax-us-iad.amazon.com
 0 advertising.amazon.com
 0 advertising-eu.amazon.com
 0 affiliate-program.amazon.com
-0 amazon-adsystem.com
 0 ape-dyad-service-eu.amazon.com
 0 applab-sdk.amazon.com
 0 aps.amazon.com
@@ -320,7 +317,6 @@
 0 mas-sdk.amazon.com
 0 rcm.amazon.com
 0 rcm-images.amazon.com
-0 s.amazon-adsystem.com
 0 uedata.amazon.com
 0 unagi-na.amazon.com
 0 widgets.amazon.com
@@ -330,6 +326,12 @@
 0 ws-fe.assoc-amazon.com
 0 ws-na.assoc-amazon.com
 0 www.assoc-amazon.com
+0 amazon-adsystem.com
+0 aax-fe.amazon-adsystem.com
+0 aax-fe-sin.amazon-adsystem.com
+0 aax-us-east.amazon-adsystem.com
+0 mads.amazon-adsystem.com
+0 s.amazon-adsystem.com
 #[yahoo]
 0 platform.tumblr.com
 0 srvcs.tumblr.com
@@ -897,7 +899,6 @@
 0 static.accesstrade.vn
 0 campaign.accesstrade.vn
 0 help.accesstrade.vn
-0 click.accesstrade.vn
 0 cv.accesstrade.vn
 0 duatop.accesstrade.vn
 0 member.accesstrade.vn
@@ -3879,6 +3880,111 @@
 0 www.get.amplitude.com
 0 www.info.amplitude.com
 0 www.promo.amplitude.com
+#[measuread]
+0 b.measuread.com
+0 measuread.com
+0 measuread.com.edgekey.net
+0 wildcard.measuread.com
+0 wildcard.measuread.com.edgekey.net
+#[voicefive]
+0 ar.voicefive.com
+0 b.voicefive.com
+0 voicefive.com
+0 s.voicefive.com
+0 sb.voicefive.com
+0 survey2.voicefive.com
+0 staging-ar.voicefive.com
+0 test.voicefive.com
+0 www.voicefive.com
+#[aerserv]
+0 ads.aerserv.com
+0 alpha-events.aerserv.com
+0 aerserv.com
+0 bidder.aerserv.com
+0 debug.aerserv.com
+0 dmp.aerserv.com
+0 events.aerserv.com
+0 www.aerserv.com
+#[logly]
+0 abc.logly.co.jp
+0 b.logly.co.jp
+0 cdn.logly.co.jp
+0 dsp.logly.co.jp
+0 l.logly.co.jp
+0 sync.logly.co.jp
+0 www.logly.co.jp
+#[popin]
+0 a.popin.cc
+0 api.popin.cc
+0 discoveryplus.popin.cc
+0 l.popin.cc
+0 r.popin.cc
+0 rlog.popin.cc
+#[ettoday]
+0 ad.ettoday.net
+0 adv.ettoday.net
+0 cdn1.ettoday.net
+0 msg.ettoday.net
+#[tynt]
+0 ac.tynt.com
+0 api.tynt.com
+0 asa.tynt.com
+0 asb.tynt.com
+0 asc.tynt.com
+0 asd.tynt.com
+0 cdn.tynt.com
+0 de.tynt.com
+0 ec.tynt.com
+0 ic.tynt.com
+0 id.tynt.com
+0 p.ic.tynt.com
+0 pb.tynt.com
+0 sc.tynt.com
+0 tcr.tynt.com
+0 tynt.com
+0 vig.tynt.com
+0 vigapi.tynt.com
+0 w.ic.tynt.com
+0 wau.tynt.com
+0 waudist.tynt.com
+0 www.tynt.com
+0 www1.tynt.com
+0 wz.tynt.com
+#[appier]
+0 a.c.appier.net
+0 ad.appier.net
+0 ad2.apx.appier.net
+0 anylist.c.appier.net
+0 apn.c.appier.net
+0 apnid.c.appier.net
+0 apnjp.c.appier.net
+0 appier.net
+0 arm.c.appier.net
+0 c.c.appier.net
+0 clk-in6.c.appier.net
+0 clk-sg7.c.appier.net
+0 clk-sg8.c.appier.net
+0 d.c.appier.net
+0 dync.c.appier.net
+0 dync2.c.appier.net
+0 ey.c.appier.net
+0 feedfetch.c.appier.net
+0 frl.c.appier.net
+0 g.c.appier.net
+0 gocm.c.appier.net
+0 in.c.appier.net
+0 jp.c.appier.net
+0 jscdn.appier.net
+0 lt.c.appier.net
+0 rcp.c.appier.net
+0 s.c.appier.net
+0 sg.c.appier.net
+0 ss.c.appier.net
+0 t0.c.appier.net
+0 tw.c.appier.net
+0 vst.c.appier.net
+0 web0.track.appier.net
+0 xx.c.appier.net
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -4012,6 +4118,12 @@
 0 www.v9bet.com
 0 fabet.com
 0 static.fabet.com
+0 casino888vn.com
+0 m.casino888vn.com
+0 www.casino888vn.com
+0 income88.com
+0 record.income88.com
+0 www.income88.com
 # --- Block other adsVN ---
 0 101com.com
 0 101order.com
@@ -4110,6 +4222,7 @@
 0 ad.clix.pt
 0 ad.cooks.com
 0 ad.choiceradio.com
+0 ad.daum.net
 0 ad.digitallook.com
 0 ad.directrev.com
 0 ad.doctissimo.fr
@@ -4157,6 +4270,7 @@
 0 ad.reunion.com
 0 ad.scanmedios.com
 0 ad.sensismediasmart.com.au
+0 ad.setn.com
 0 ad.seznam.cz
 0 ad.simgames.net
 0 ad.slutload.com
@@ -4943,6 +5057,7 @@
 0 ad-souk.com
 0 ad-space.net
 0 adspace.ro
+0 ad-specs.guoshipartners.com
 0 adspeed.net
 0 adspirit.de
 0 adsponse.de
@@ -5114,6 +5229,7 @@
 0 amobee.com
 0 an.tacoda.net
 0 anahtars.com
+0 analytics.ad.daum.net
 0 analytics.adpost.org
 0 analytics.live.com
 0 analytics.newsinc.com
@@ -5420,7 +5536,6 @@
 0 cdn.freefarcy.com
 0 cdn.onesignal.com
 0 cdn.segment.com
-0 cdn.tynt.com
 0 cdnondemand.org
 0 cdnproviders.net
 0 cdnstoremedia.com
@@ -5440,6 +5555,7 @@
 0 claria.com
 0 clashmobile.com
 0 class-act-clicks.com
+0 clearbid.uberads.com
 0 click.absoluteagency.com
 0 click.fool.com
 0 click.howdoesin.net
@@ -5613,6 +5729,7 @@
 0 d.adroll.com
 0 d2cmedia.ca
 0 d4.hadarone.com
+0 dable.io
 0 dakic-ia-300.com
 0 danban.com
 0 dapper.net
@@ -5650,6 +5767,7 @@
 0 direct-xxx-access.com
 0 discountclick.com
 0 dispatcher.mng-ads.com
+0 display.ad.daum.net
 0 displayadsmedia.com
 0 displaypagerank.com
 0 disqusads.com
@@ -6058,6 +6176,7 @@
 0 kanoodle.com
 0 kargo.com
 0 karonty.com
+0 ketchapp.org
 0 keymedia.hu
 0 keynotedeviceanywhere.com
 0 kindads.com
@@ -6740,6 +6859,7 @@
 0 sedoparking.com
 0 sedotracker.com
 0 seeq.com.invalid
+0 self-service.uberads.com
 0 senddroid.com
 0 sendmepixel.com
 0 sensenetworks.com
@@ -6864,6 +6984,7 @@
 0 stat24.com
 0 stat24.meta.ua
 0 statcounter.com
+0 static.dable.io
 0 static.fmpub.net
 0 static.itrack.it
 0 staticads.btopenworld.com
@@ -7023,7 +7144,6 @@
 0 twittad.com
 0 twyn.com
 0 txtimpact.com
-0 tynt.com
 0 tyroo.com
 0 theadex.com
 0 theadhost.com
@@ -7103,6 +7223,7 @@
 0 truehits2.gits.net.th
 0 trumpia.com
 0 uarating.com
+0 uberads.com
 0 ubermedia.com
 0 ukbanners.com
 0 ultimateclixx.com
@@ -7162,7 +7283,6 @@
 0 visualrevenue.com
 0 vmmpxl.com
 0 vmweb.net
-0 voicefive.com
 0 voicevegetable.com
 0 vpon.com
 0 vrs.cz
@@ -7244,6 +7364,7 @@
 0 www.dnps.com
 0 www.ipify.org
 0 www.kaplanindex.com
+0 www.ketchapp.org
 0 www.lecap-services.fr
 0 www.money4exit.de
 0 www.nikitinskysport.ru
@@ -7471,6 +7592,7 @@
 0 annengdl.com
 0 anhui-attorney.com
 0 aonikesi.com
+0 api.gameanalytics.com
 0 api.instabug.com
 0 api.prooffactor.com
 0 api.quantumgraph.com
@@ -7597,6 +7719,7 @@
 0 cn-lushan.com
 0 co.at.vc
 0 collector.leaddyno.com
+0 com.tenjin.ios.api
 0 commissioncrusher.com
 0 compdata.ca
 0 comscoreresearch.com
@@ -7761,6 +7884,7 @@
 0 g.uusee.com
 0 galleries.securesoft.info
 0 gallerycrush.com
+0 gameanalytics.com
 0 gate.hockeyapp.net
 0 gclabrelscon.net
 0 gdby.com.cn
@@ -7965,6 +8089,7 @@
 0 mefa.ws
 0 metzgerconsulting.com
 0 metrics.brightcove.com
+0 metrics.sdkbox.com
 0 miamibeachhotels.tv
 0 miremanufacturing.com
 0 mixandbatch2000.co.uk
@@ -7974,6 +8099,7 @@
 0 mkhafnorcu81.com
 0 mmexe.com
 0 moacbeniv.com
+0 mobileanalytics.us-east-1.amazonaws.com
 0 mobile-safety.org
 0 moblao.com
 0 mobuna.com
@@ -8192,6 +8318,7 @@
 0 throne.thehelpbiz.com
 0 thxhb.com
 0 track.omg543.com
+0 track.tenjin.io
 0 trackersimulator.org
 0 tracking.checkmygirlfriend.net
 0 tracking.i2w.io
