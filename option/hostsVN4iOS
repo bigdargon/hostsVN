@@ -386,6 +386,14 @@
 0 syndication.twitter.com
 0 tap.ads-twitter.com
 0 www.ads-twitter.com
+#[spotify]
+0 adeventtracker.spotify.com
+0 ads-fa.spotify.com
+0 analytics.spotify.com
+0 crashdump.spotify.com
+0 log.spotify.com
+0 pixel.spotify.com
+0 pixel-static.spotify.com
 #[adtimaserver]
 0 adtimaserver.vn
 0 static.adtimaserver.vn
@@ -4164,6 +4172,42 @@
 0 origin-static.exosrv.com
 0 static.exosrv.com
 0 syndication.exosrv.com
+#[backtrace]
+0 accounts.backtrace.io
+0 accounts.in.backtrace.io
+0 api.backtrace.io
+0 backtrace.io
+0 bigfoot.sp.backtrace.io
+0 billing.backtrace.io
+0 ca1.metrics.backtrace.io
+0 console.backtrace.io
+0 dashboard.in.backtrace.io
+0 documentation.backtrace.io
+0 get.backtrace.io
+0 hack.in.backtrace.io
+0 help.backtrace.io
+0 intercomm01.backtrace.io
+0 loghost.in.backtrace.io
+0 metrics.backtrace.io
+0 origin-console.backtrace.io
+0 origin-get.backtrace.io
+0 packages.backtrace.io
+0 pipelinedb.sp.backtrace.io
+0 releases.backtrace.io
+0 saml.backtrace.io
+0 signup.backtrace.io
+0 sp.backtrace.io
+0 spotify.backtrace.io
+0 spotify.sp.backtrace.io
+0 submit.backtrace.io
+0 trial.backtrace.io
+0 try.backtrace.io
+0 unreal.backtrace.io
+0 use.backtrace.io
+0 website.backtrace.io
+0 www.backtrace.io
+0 www.gotime.backtrace.io
+0 yolo.sp.backtrace.io
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -6618,6 +6662,7 @@
 0 mytop-in.net
 0 mythings.com
 0 mytrafficads.com
+0 myvisualiq.net
 0 mzbcdn.net
 0 n.pc2ads.com
 0 n69.com
@@ -7235,6 +7280,7 @@
 0 sync.vmweb.net
 0 syndicate.purch.com
 0 t.insigit.com
+0 t.myvisualiq.net
 0 t.purch.com
 0 t.pusk.ru
 0 tacoda.net
@@ -7479,6 +7525,7 @@
 0 vpon.com
 0 vrs.cz
 0 vs.tucows.com
+0 vt.myvisualiq.net
 0 vutzmxahqio.co
 0 w3i.com
 0 wa.and.co.uk
