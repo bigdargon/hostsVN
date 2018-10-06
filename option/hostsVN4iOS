@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last updated: 04 Oct 2018
+# Last updated: 06 Oct 2018
 # Minimal version for iOS
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
@@ -3985,6 +3985,185 @@
 0 vst.c.appier.net
 0 web0.track.appier.net
 0 xx.c.appier.net
+#[adtech]
+0 a.adtech.de
+0 ad.dc2.adtech.de
+0 ad-dc2.adtech.de
+0 adforce.adtech.de
+0 adserver.adtech.de
+0 adserver.fr.adtech.de
+0 adserverams.adtech.de
+0 adssl01.adtech.de
+0 adssl02.adtech.de
+0 adssl-dc2.adtech.de
+0 adtech.de
+0 aka-cdn.adtech.de
+0 aka-cdn-ns.adtech.de
+0 amsad.adtech.de
+0 analytics.adtech.de
+0 api-doc.adtech.de
+0 api-selene.prod.adtech.de
+0 assets.adtech.de
+0 bannertest.adtech.de
+0 beta-adserver.adtech.de
+0 beta-imageserver.adtech.de
+0 bitburg.adtech.de
+0 burns.adtech.de
+0 classic-api.prod.adtech.de
+0 classic-rest-api.prod.adtech.de
+0 corba.adtech.de
+0 core.adtech.de
+0 cstest.adtech.de
+0 data.adtech.de
+0 demand-service.adtech.de
+0 formula-api.adtech.de
+0 glbimg.adtech.de
+0 guce.adtech.de
+0 heliosiq.adtech.de
+0 help.adtech.de
+0 hyperion.adtech.de
+0 iam-heliosiq.adtech.de
+0 iam-iq.adtech.de
+0 im.adtech.de
+0 imageserv.adtech.de
+0 img.adtech.de
+0 img-dc2.adtech.de
+0 imserv001.adtech.de
+0 imserv002.adtech.de
+0 imserv003.adtech.de
+0 imserv004.adtech.de
+0 imserv005.adtech.de
+0 imserv006.adtech.de
+0 imserv00x.adtech.de
+0 imspro.adtech.de
+0 imssl01.adtech.de
+0 intranet.adtech.de
+0 ipacc1.adtech.de
+0 ipdata.adtech.de
+0 iq.adtech.de
+0 iqreport.adtech.de
+0 iqtestsites.adtech.de
+0 ldglob01.adtech.de
+0 ldglob02.adtech.de
+0 ldimage01.adtech.de
+0 ldimage02.adtech.de
+0 ldserv01.adtech.de
+0 ldserv02.adtech.de
+0 linuxpark.adtech.de
+0 lite.adtech.de
+0 livingnet.adtech.de
+0 login.adtech.de
+0 marketplace.adtech.de
+0 media.adtech.de
+0 new-bannertest.adtech.de
+0 new-iq.adtech.de
+0 pix521.adtech.de
+0 pix522.adtech.de
+0 pr-a.adtech.de
+0 pr-iq.adtech.de
+0 rep-ibi.adtech.de
+0 report.adtech.de
+0 reporter.adtech.de
+0 reportimage.adtech.de
+0 schumacher.adtech.de
+0 secimage.adtech.de
+0 service.adtech.de
+0 service001.adtech.de
+0 service002.adtech.de
+0 service003.adtech.de
+0 service00x.adtech.de
+0 services.adtech.de
+0 services1.adtech.de
+0 sgs001.adtech.de
+0 sgsdata.adtech.de
+0 sokrates.adtech.de
+0 stage.guce.adtech.de
+0 svn.adtech.de
+0 targeting-service.adtech.de
+0 test2-adserver.adtech.de
+0 test-adserver.adtech.de
+0 tmp-heliosiq.adtech.de
+0 trunk.guce.adtech.de
+0 uiservices.adtech.de
+0 ums.adtech.de
+0 upload.adtech.de
+0 ws.adtech.de
+0 ws2.adtech.de
+0 ws-api.adtech.de
+0 www.intranet.adtech.de
+0 xml.adtech.de
+#[mxpnl]
+0 mxpnl.com
+0 cdn.mxpnl.com
+0 cdn4.mxpnl.com
+0 cdn2.mxpnl.com
+0 images.mxpnl.com
+#[hadarone]
+0 hadarone.com
+0 api.hadarone.com
+0 admin.hadarone.com
+0 dsp.hadarone.com
+0 ssp.hadarone.com
+0 d1.hadarone.com
+0 d2.hadarone.com
+0 d3.hadarone.com
+0 d4.hadarone.com
+0 d5.hadarone.com
+0 c1.hadarone.com
+0 c2.hadarone.com
+0 c3.hadarone.com
+0 c4.hadarone.com
+0 c5.hadarone.com
+#[mookie1]
+0 247access.mookie1.com
+0 au-gmtdmp.gd3.mookie1.com
+0 b3.mookie1.com
+0 b3-eu.mookie1.com
+0 b3-uk.mookie1.com
+0 cdn.mookie1.com
+0 cdn-akamai.mookie1.com
+0 cz.gmads.mookie1.com
+0 de-gmtdmp.mookie1.com
+0 dk-gmtdmp.mookie1.com
+0 dna1.mookie1.com
+0 dna2.mookie1.com
+0 dna3.mookie1.com
+0 eu-gmtdmp.gd1.mookie1.com
+0 gd1.mookie1.com
+0 gmads.mookie1.com
+0 gmtdmp.mookie1.com
+0 ib.mookie1.com
+0 ibeu2.mookie1.com
+0 ib-test.mookie1.com
+0 it.gmads.mookie1.com
+0 jp-gmtdmp.gd9.mookie1.com
+0 l2pdus.mookie1.com
+0 mookie1.com
+0 odr.mookie1.com
+0 premium.mookie1.com
+0 pt-gmtdmp.mookie1.com
+0 ru-gmtdmp.mookie1.com
+0 sg-gmtdmp.gd2.mookie1.com
+0 smibk.mookie1.com
+0 static-tagr.gd1.mookie1.com
+0 t.mookie1.com
+0 tlg.mookie1.com
+0 us.gmads.mookie1.com
+0 us-gmtdmp.mookie1.com
+0 vn-gmtdmp.mookie1.com
+0 xaxis-emea.mookie1.com
+0 xaxis-it.mookie1.com
+0 xs.mookie1.com
+0 z2.mookie1.com
+0 zap.mookie1.com
+0 zap2.mookie1.com
+#[exosrv]
+0 ads.exosrv.com
+0 exosrv.com
+0 main.exosrv.com
+0 origin-static.exosrv.com
+0 static.exosrv.com
+0 syndication.exosrv.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -4033,6 +4212,7 @@
 0 serving-ad.tv24.vn
 0 static.ad.org.vn
 0 static.masoffer.net
+0 stc-nas.nixcdn.com
 0 trenddigital.vn
 0 uniad.vn
 0 vads.net.vn
@@ -4169,6 +4349,7 @@
 0 a.collective-media.net
 0 a.consumer.net
 0 a.mktw.net
+0 a.rigelink.com
 0 a.sakh.com
 0 a.ucoz.net
 0 a.ucoz.ru
@@ -5083,7 +5264,6 @@
 0 adsystem.simplemachines.org
 0 adtech.com
 0 ad-tech.com
-0 adtech.de
 0 adtechjp.com
 0 adtechus.com
 0 adtegrity.net
@@ -5280,6 +5460,7 @@
 0 as2.advfn.com
 0 as5000.com
 0 assets.loomia.com
+0 assets.purch.com
 0 assets1.exgfnetwork.com
 0 at-adserver.alltop.com
 0 atlassolutions.com
@@ -5307,6 +5488,7 @@
 0 b.adexchangemachine.com
 0 b.aol.com
 0 b.engadget.com
+0 b.rigelink.com
 0 b-1st.com
 0 b4psads.com
 0 b59812ee54afcabd.com
@@ -5501,6 +5683,7 @@
 0 c.adexchangemachine.com
 0 c.bigmir.net
 0 c.compete.com
+0 c.rigelink.com
 0 c1.nowlinux.com
 0 c1exchange.com
 0 cache.addthiscdn.com
@@ -5536,6 +5719,7 @@
 0 cdn.freefarcy.com
 0 cdn.onesignal.com
 0 cdn.segment.com
+0 cdn.spotscenered.info
 0 cdnondemand.org
 0 cdnproviders.net
 0 cdnstoremedia.com
@@ -5728,7 +5912,6 @@
 0 christingel.com
 0 d.adroll.com
 0 d2cmedia.ca
-0 d4.hadarone.com
 0 dable.io
 0 dakic-ia-300.com
 0 danban.com
@@ -5838,6 +6021,7 @@
 0 engagebdr.com
 0 engine.awaps.net
 0 engine.espace.netavenir.com
+0 engine.spotscenered.info
 0 enginenetwork.com
 0 epiccash.com
 0 e-planning.net
@@ -5877,7 +6061,6 @@
 0 exitfuel.com
 0 exoclick.com
 0 exogripper.com
-0 exosrv.com
 0 experteerads.com
 0 exponea.com
 0 express-submit.de
@@ -6000,7 +6183,6 @@
 0 gunggo.com
 0 guppymedia.com
 0 giddycoat.com
-0 hadarone.com
 0 harrenmedia.com
 0 harrenmedianetwork.com
 0 havamedia.net
@@ -6158,6 +6340,7 @@
 0 jbeet.cjt1.net
 0 jcount.com
 0 jedonkey.cjt1.net
+0 jf71qh5v14.com
 0 jinkads.de
 0 jiwire.com
 0 jkazaa.cjt1.net
@@ -6405,7 +6588,6 @@
 0 monetizemore.com
 0 moneyexpert.com
 0 monsterpops.com
-0 mookie1.com
 0 moolahmedia.com
 0 motricity.com
 0 motrixi.com
@@ -6422,6 +6604,7 @@
 0 musiccounter.ru
 0 muwmedia.com
 0 myaffiliateprogram.com
+0 mybestmv.com
 0 mybloglog.com
 0 mybuys.com
 0 mycounter.ua
@@ -6642,6 +6825,7 @@
 0 pointroll.com
 0 politads.com
 0 pontiflex.com
+0 pop.bid
 0 popflawlessads.com
 0 popmyads.com
 0 popub.com
@@ -6737,6 +6921,7 @@
 0 radarurl.com
 0 radiate.com
 0 radiumone.com
+0 ramp.purch.com
 0 rampidads.com
 0 rankchamp.de
 0 rankingchart.de
@@ -6805,6 +6990,7 @@
 0 richmails.com
 0 richmedia.yimg.com
 0 richwebmaster.com
+0 rigelink.com
 0 rightmedia.com
 0 rightstats.com
 0 rlcdn.com
@@ -6958,6 +7144,7 @@
 0 sponsorpro.de
 0 sponsors.thoughtsmedia.com
 0 spot.fitness.com
+0 spotscenered.info
 0 spotxchange.com
 0 sprinks-clicks.about.com
 0 spykemediatrack.co
@@ -7046,7 +7233,9 @@
 0 synad2.nuffnang.com.my
 0 synad3.nuffnang.com.my
 0 sync.vmweb.net
+0 syndicate.purch.com
 0 t.insigit.com
+0 t.purch.com
 0 t.pusk.ru
 0 tacoda.net
 0 tagular.com
@@ -7150,6 +7339,7 @@
 0 theads.me
 0 thebugs.ws
 0 thecounter.com
+0 thedevband.com
 0 therapistla.com
 0 therichkids.com
 0 thinknear.com
@@ -7222,6 +7412,7 @@
 0 truehits1.gits.net.th
 0 truehits2.gits.net.th
 0 trumpia.com
+0 trustednotice.news
 0 uarating.com
 0 uberads.com
 0 ubermedia.com
@@ -7269,6 +7460,7 @@
 0 vervemobile.com
 0 vervewireless.com
 0 vibrantmedia.com
+0 vidcpm.com
 0 videoadex.com
 0 videoegg.com
 0 vidora.com
@@ -7373,6 +7565,7 @@
 0 www.performanceadexchange.com
 0 www.photo-ads.co.uk
 0 www.velocitycdn.com
+0 www.vidcpm.com
 0 www.zekiatagur.com
 0 www1.gto-media.com
 0 www8.glam.com
@@ -7600,6 +7793,7 @@
 0 api.simpleanalytics.io
 0 api.simplesharebuttons.com
 0 api.splkmobile.com
+0 eddd6b75.api.splkmobile.com
 0 apiparbion.com
 0 appimmobilier.com
 0 apple.comscoreresearch.com
