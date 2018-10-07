@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last updated: 06 Oct 2018
+# Last updated: 07 Oct 2018
 # Minimal version for iOS
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
@@ -390,10 +390,19 @@
 0 adeventtracker.spotify.com
 0 ads-fa.spotify.com
 0 analytics.spotify.com
+0 audio2.spotify.com
+0 audio-ec.spotify.com
+0 audio-fa.spotify.com
+0 audio-sp-sin.spotify.com
 0 crashdump.spotify.com
+0 exp.wg.spotify.com
+0 heads-ec.spotify.com
 0 log.spotify.com
 0 pixel.spotify.com
 0 pixel-static.spotify.com
+0 wg.spotify.com
+0 video-fa.scdn.co
+0 heads-ak.spotify.com.edgesuite.net
 #[adtimaserver]
 0 adtimaserver.vn
 0 static.adtimaserver.vn
@@ -709,6 +718,7 @@
 0 w.inmobi.com
 0 xray.corp.inmobi.com
 0 inmobicdn.com
+0 inmobisdk-a.akamaihd.net
 #[adsota]
 0 adsota.com
 0 static.adsota.com
@@ -1006,6 +1016,7 @@
 0 lb-delivery.us-east-1.applifier.info
 #[adjust]
 0 53ac365e91086e608ae1345e075105e3.ulink.adjust.com
+0 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
 0 app.adjust.com
 0 adjust.com
 0 atom.adjust.com
@@ -3539,6 +3550,7 @@
 0 ads.genieessp.com
 0 gi-js.genieessp.com
 0 6159.genieessp.com
+0 108557.genieessp.com
 #[2mdnsys]
 0 2mdnsys.com
 0 ads.2mdnsys.com
@@ -4208,6 +4220,71 @@
 0 www.backtrace.io
 0 www.gotime.backtrace.io
 0 yolo.sp.backtrace.io
+#[marinsm]
+0 marinsm.com
+0 pro.marinsm.com
+0 qa-tracker.marinsm.com
+0 t3.marinsm.com
+0 t3-testing.marinsm.com
+0 tag.marinsm.com
+0 tracker.marinsm.com
+0 w2.marinsm.com
+#[fullstory]
+0 connect.fullstory.com
+0 fullstory.com
+0 go.fullstory.com
+0 help.fullstory.com
+0 internal.fullstory.com
+0 internal.staging.fullstory.com
+0 prom.fullstory.com
+0 prometheus.fullstory.com
+0 prometheus.staging.fullstory.com
+0 r.fullstory.com
+0 r.staging.fullstory.com
+0 staging.fullstory.com
+0 status.fullstory.com
+#[bounceexchange]
+0 api.bounceexchange.com
+0 api2.bounceexchange.com
+0 api-rackspace.bounceexchange.com
+0 behavioralautomationcouncil.bounceexchange.com
+0 bounceexchange.com
+0 cnn.bounceexchange.com
+0 convert.bounceexchange.com
+0 core.bounceexchange.com
+0 events.bounceexchange.com
+0 get.bounceexchange.com
+0 inboxretargeting.bounceexchange.com
+0 looker.bounceexchange.com
+0 pixel.bounceexchange.com
+0 preflight.bounceexchange.com
+0 tag.bounceexchange.com
+0 tourneau.bounceexchange.com
+0 utils.bounceexchange.com
+0 www.bounceexchange.com
+#[insightexpressai]
+0 ad.insightexpressai.com
+0 ai003.insightexpressai.com
+0 ai078.insightexpressai.com
+0 ai113.insightexpressai.com
+0 ai125.insightexpressai.com
+0 aip-stg.insightexpressai.com
+0 core.insightexpressai.com
+0 global.insightexpressai.com
+0 hk.aip.insightexpressai.com
+0 icompass.insightexpressai.com
+0 images.insightexpressai.com
+0 infoscout.insightexpressai.com
+0 insightexpressai.com
+0 my.aip.insightexpressai.com
+0 rb.insightexpressai.com
+0 secure.insightexpressai.com
+0 sg.aip.insightexpressai.com
+0 surveys.insightexpressai.com
+0 topix.insightexpressai.com
+0 tw.aip.insightexpressai.com
+0 www.insightexpressai.com
+0 your-surveys.insightexpressai.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -4246,6 +4323,7 @@
 0 img.masoffer.net
 0 lrc.nct.nixcdn.com
 0 mobilead.vn
+0 mobileads.dieuviet.com
 0 myad.vn
 0 polyad.galaxypub.vn
 0 qc.yan.vn
@@ -4266,12 +4344,14 @@
 0 vietdorje.com
 0 vinaads.vn
 0 www.adblox.net
+0 www.vietdorje.com
 0 zone.uniad.vn
 #[trackingVN]
 0 alexajstrack.com
 0 log.baomoi.com
 0 log.batdongsan.com.vn
 0 log.giaoduc.net.vn
+0 log.kienthuc.net.vn
 0 log.sggp.org.vn
 0 log.tienphong.vn
 0 log.thanhnien.vn
@@ -4293,6 +4373,7 @@
 0 track.vatgia.com
 0 tracking.appwifi.com
 0 tracking.playzing.g6.zing.vn
+0 trackingapi.foody.vn
 0 track-srv.vietnamnet.vn
 0 userstats.shopee.vn
 0 vn.alexajstrack.com
@@ -5438,6 +5519,7 @@
 0 airpush.com
 0 aistat.net
 0 ajouter.net
+0 ak-ns.sascdn.com
 0 alclick.com
 0 alenty.com
 0 alexa-sitestats.s3.amazonaws.com
@@ -5698,7 +5780,6 @@
 0 boomads.com
 0 boost-my-pr.de
 0 boudja.com
-0 bounceexchange.com
 0 box.anchorfree.net
 0 bpath.com
 0 braincash.com
@@ -5768,6 +5849,7 @@
 0 cdnproviders.net
 0 cdnstoremedia.com
 0 cecash.com
+0 ced.sascdn.com
 0 celltick.com
 0 centerpointmedia.com
 0 ceskydomov.alias.ngs.modry.cz
@@ -5862,6 +5944,7 @@
 0 contaxe.de
 0 content.acc-hd.de
 0 content.ad
+0 content.bitsontherun.com
 0 contentabc.com
 0 contextweb.com
 0 contineljs.com
@@ -5955,6 +6038,7 @@
 0 chitika.net
 0 christingel.com
 0 d.adroll.com
+0 d.appsdt.com
 0 d2cmedia.ca
 0 dable.io
 0 dakic-ia-300.com
@@ -6035,6 +6119,7 @@
 0 eccdn1.synad3.nuffnang.com.my
 0 ecircle-ag.com
 0 eclickz.com
+0 ec-ns.sascdn.com
 0 ecoupons.com
 0 edaa.eu
 0 e-debtconsolidation.com
@@ -6165,7 +6250,6 @@
 0 freewebcounter.com
 0 freshmarketer.com
 0 frtyj.com
-0 fullstory.com
 0 functionalclam.com
 0 funklicks.com
 0 funpageexchange.com
@@ -6347,7 +6431,6 @@
 0 innovid.com
 0 inringtone.com
 0 insightexpress.com
-0 insightexpressai.com
 0 inspectlet.com
 0 inspectorclick.com
 0 instantmadness.com
@@ -7068,6 +7151,7 @@
 0 sail-horizon.com
 0 samsungacr.com
 0 samsungads.com
+0 sascdn.com
 0 saysidewalk.com
 0 sbbanner.com
 0 sbx.pagesjaunes.fr
@@ -7411,7 +7495,6 @@
 0 trackedlink.net
 0 trackedweb.net
 0 tracker.icerocket.com
-0 tracker.marinsm.com
 0 tracker-pm2.spilleren.com
 0 tracking.crunchiemedia.com
 0 tracking.gajmp.com
@@ -7840,7 +7923,6 @@
 0 api.simpleanalytics.io
 0 api.simplesharebuttons.com
 0 api.splkmobile.com
-0 eddd6b75.api.splkmobile.com
 0 apiparbion.com
 0 appimmobilier.com
 0 apple.comscoreresearch.com
@@ -8069,6 +8151,7 @@
 0 ebara.cc
 0 ecdlszczecin.eu
 0 edchiu.com
+0 eddd6b75.api.splkmobile.com
 0 edge.bayanazdirandamla.com
 0 elite-bijou.com.ua
 0 english.ahzh-pv.com
@@ -8220,6 +8303,7 @@
 0 investice-do-nemovitosti.eu
 0 ip-api.com
 0 ipcmedia.grapeshot.co.uk
+0 ipinfo.io
 0 ipwhrtmla.epac.to
 0 iranbar.org
 0 itclk.com
@@ -8327,6 +8411,7 @@
 0 mayatek.info
 0 me.3788.cn
 0 mediaforce.grapeshot.co.uk
+0 media-match.com
 0 mefa.ws
 0 metzgerconsulting.com
 0 metrics.brightcove.com
@@ -8407,6 +8492,7 @@
 0 pixel.wp.com
 0 pizzotti.net
 0 pjhku.com
+0 placehold.it
 0 playtomic.com
 0 pornstar-candysue.de
 0 power.bestconstructionexpertwitness.com
@@ -8645,6 +8731,7 @@
 0 www.lydaoyou.com
 0 www.montacarichi.it
 0 www.myhongyuan.net
+0 www.placehold.it
 0 www.qqkabb.com
 0 www.rsrly.com
 0 www.scoeyc.com
