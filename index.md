@@ -6,6 +6,8 @@
 
 # Địa chỉ
 
+HostsVN: [https://github.com/bigdargon/hostsVN/raw/master/hosts](https://github.com/bigdargon/hostsVN/raw/master/hosts)
+
 Trang chủ: [https://bigdargon.github.io/hostsVN](https://bigdargon.github.io/hostsVN)
 
 Github: [https://github.com/bigdargon/hostsVN](https://github.com/bigdargon/hostsVN)
@@ -40,10 +42,10 @@ Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặ
 
 Bạn có thể sử dụng một số ứng dụng và tham khảo hướng dẫn sử dụng dưới đây
 
-* Adblock của FutureMind - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Adblock)
+* Surge - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Surge)
 * Adguard Pro - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)
 * Shadowrocket - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)
-* Surge - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Surge)
+* Adblock của FutureMind - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Adblock)
 
 > Adblock và Adguard Pro là các ứng dụng chặn quảng cáo. Còn Shadowrocket và Surge là các ứng dụng lập trình, kiểm tra trang web và mình tận dụng để chặn quảng cáo.
 
@@ -51,10 +53,10 @@ Bạn có thể sử dụng một số ứng dụng và tham khảo hướng d�
 
 Bạn chỉ cần làm theo hướng dẫn báo lỗi để chụp màn hình lỗi chi tiết và gửi báo lỗi [tại đây](https://github.com/bigdargon/hostsVN/issues)
 
-* Adblock của FutureMind - [Hướng dẫn báo lỗi](https://github.com/bigdargon/hostsVN/wiki/Adblock#b%C3%A1o-l%E1%BB%97i)
+* Surge - [Hướng dẫn báo lỗi](https://github.com/bigdargon/hostsVN/wiki/Surge#b%C3%A1o-l%E1%BB%97i)
 * Adguard Pro - [Hướng dẫn báo lỗi](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro#b%C3%A1o-l%E1%BB%97i)
 * Shadowrocket - [Hướng dẫn báo lỗi](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket#b%C3%A1o-l%E1%BB%97i)
-* Surge - [Hướng dẫn báo lỗi](https://github.com/bigdargon/hostsVN/wiki/Surge#b%C3%A1o-l%E1%BB%97i)
+* Adblock của FutureMind - [Hướng dẫn báo lỗi](https://github.com/bigdargon/hostsVN/wiki/Adblock#b%C3%A1o-l%E1%BB%97i)
 
 ## Các ứng dụng ở trên sử dụng cho hệ điều hành iOS, vậy tôi có thể dùng cho các hệ điều hành khác hay không?
 
