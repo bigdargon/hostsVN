@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 14 Oct 2018
+# Last modified: 18 Oct 2018
 # Minimal version for iOS
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
@@ -951,6 +951,9 @@
 0 member.accesstrade.vn
 0 imp.accesstrade.vn
 0 forum.accesstrade.vn
+0 fast.accesstrade.com.vn
+0 accesstrade.com.vn
+0 accesstrade.com
 #[adpia]
 0 adpia.vn
 0 img.adpia.vn
@@ -2129,6 +2132,7 @@
 0 jenkins.appboy.com
 0 jira-hack.appboy.com
 0 null.iad.appboy.com
+0 ogma.iad.appboy.com
 0 orion.iad.appboy.com
 0 sdk-orion.appboy.com
 0 serpens.iad.appboy.com
@@ -4813,6 +4817,98 @@
 0 ids.cdnwidget.com
 0 pixel.cdnwidget.com
 0 u.cdnwidget.com
+#[cintnetworks]
+0 cintnetworks.com
+0 c.cintnetworks.com
+0 cint.com
+0 mmccint.com
+0 sf.mmccint.com
+0 controller-gateway.mmccint.com
+#[adobe]
+0 adobedtm.com
+0 assets.adobedtm.com
+0 activation.adobedtm.com
+0 sslproxy-prod.adobedtm.com
+#[3lift]
+0 3lift.com
+0 amp.3lift.com
+0 an.3lift.com
+0 as-dmpsync.3lift.com
+0 as-eb2.3lift.com
+0 as-tlx.3lift.com
+0 cdn.3lift.com
+0 dmpsync.3lift.com
+0 dynamic.3lift.com
+0 eb.3lift.com
+0 eb2.3lift.com
+0 eu-dmpsync.3lift.com
+0 eu-eb2.3lift.com
+0 eu-tlx.3lift.com
+0 ib.3lift.com
+0 ib2.3lift.com
+0 ibp.3lift.com
+0 images.3lift.com
+0 img.3lift.com
+0 img-1.3lift.com
+0 img-2.3lift.com
+0 img-3.3lift.com
+0 img-4.3lift.com
+0 img-5.3lift.com
+0 img-6.3lift.com
+0 img-7.3lift.com
+0 img-8.3lift.com
+0 img-9.3lift.com
+0 mg.3lift.com
+0 na-dmpsync.3lift.com
+0 na-eb2.3lift.com
+0 na-tlx.3lift.com
+0 pinterest.3lift.com
+0 post.update.3lift.com
+0 s.update.3lift.com
+0 screenshot.3lift.com
+0 social-stream-tag.3lift.com
+0 staging-ib.3lift.com
+0 staging-tlx.3lift.com
+0 static-2.3lift.com
+0 t.update.3lift.com
+0 tlx.3lift.com
+0 us-east.tlx.3lift.com
+0 us-east-tlx.3lift.com
+0 us-west-tlx.3lift.com
+#[po.st]
+0 i.po.st
+0 p.po.st
+0 po.st
+0 s.po.st
+0 www.po.st
+#[a-ads]
+0 a-ads.com
+0 ad.a-ads.com
+0 click.a-ads.com
+0 da-ads.com
+0 sta-ads.com
+0 static.a-ads.com
+0 www.a-ads.com
+0 www.da-ads.com
+0 wwww.a-ads.com
+#[demdex]
+0 bestbuy.demdex.net
+0 crackle.demdex.net
+0 demdex.net
+0 dpm.demdex.net
+0 fandangollc.demdex.net
+0 fast.aexp.demdex.net
+0 fast.mtvn.demdex.net
+0 fast.sears.demdex.net
+0 fast.swa.demdex.net
+0 foxnet.demdex.net
+0 pepsico.demdex.net
+0 swa.demdex.net
+0 tdameritrade.demdex.net
+0 ubisoftinternational.demdex.net
+0 vanguard.demdex.net
+0 verizon.demdex.net
+0 vivaki.demdex.net
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -4860,6 +4956,7 @@
 0 polyad.galaxypub.vn
 0 qc.yan.vn
 0 quangcao.24h.com.vn
+0 quangcao.tuoitre.vn
 0 quangcao.thanhnien.vn
 0 services.adblox.net
 0 serving.ad.org.vn
@@ -4958,8 +5055,6 @@
 0 income88.com
 0 record.income88.com
 0 www.income88.com
-0 fuckbookvietnam.com
-0 www.fuckbookvietnam.com
 0 m88cvf.com
 0 affiliate.m88cvf.com
 0 m.m88cvf.com
@@ -4990,6 +5085,13 @@
 0 www.ms88ca.com
 0 datcuoc247.com
 0 www.datcuoc247.com
+0 betvietnam.info
+0 www.betvietnam.info
+#[scamVN]
+0 fuckbookvietnam.com
+0 www.fuckbookvietnam.com
+0 xmobliefacebook.com
+0 www.xmobliefacebook.com
 # --- Block other adsVN ---
 0 101com.com
 0 101order.com
@@ -5010,7 +5112,6 @@
 0 33across.com
 0 360yield.com
 0 3cinteractive.com
-0 3lift.com
 0 4affiliate.net
 0 4d5.net
 0 4info.com
@@ -5044,7 +5145,6 @@
 0 a32.g.a.yimg.com
 0 a9.com
 0 aaddzz.com
-0 a-ads.com
 0 aarki.com
 0 abacho.net
 0 abandonedclover.com
@@ -6167,6 +6267,12 @@
 0 awempire.com
 0 awin1.com
 0 aylarl.com
+0 az361816.vo.msecnd.net
+0 az413505.vo.msecnd.net
+0 az416426.vo.msecnd.net
+0 az512334.vo.msecnd.net
+0 az598575.vo.msecnd.net
+0 az708531.vo.msecnd.net
 0 azfront.com
 0 b.adexchangemachine.com
 0 b.aol.com
@@ -6315,6 +6421,7 @@
 0 bizad.nikkeibp.co.jp
 0 bizographics.com
 0 bizrate.com
+0 bkrtx.com
 0 blast4traffic.com
 0 blingbucks.com
 0 blogads.com
@@ -6398,6 +6505,7 @@
 0 cben1.net
 0 cbmall.com
 0 cbx.net
+0 cdn.concert.io
 0 cdn.digitru.st
 0 cdn.freefacti.com
 0 cdn.freefarcy.com
@@ -6494,6 +6602,8 @@
 0 company-target.com
 0 comprabanner.it
 0 concernrain.com
+0 concert.io
+0 concertads-configs.vox-cdn.com
 0 confirmed-profits.com
 0 connatix.com
 0 connextra.com
@@ -6618,7 +6728,6 @@
 0 deloo.de
 0 deloton.com
 0 demandbase.com
-0 demdex.net
 0 depilflash.tv
 0 dev-block.mediavenus.com
 0 di1.shopping.com
@@ -7423,6 +7532,7 @@
 0 openx.angelsgroup.org.uk
 0 openx.blindferret.com
 0 openx.com
+0 openx.net
 0 opienetwork.com
 0 opinionstage.com
 0 optimize-stats.voxmedia.com
@@ -7816,6 +7926,7 @@
 0 sneakystamp.com
 0 snoobi.com
 0 socialspark.com
+0 sofia.trustx.org
 0 softclick.com.br
 0 somniture.stuff.co.nz
 0 sortable.com
@@ -7932,6 +8043,7 @@
 0 t.purch.com
 0 t.pusk.ru
 0 tacoda.net
+0 tags.bkrtx.com
 0 tagular.com
 0 tailsweep.co.uk
 0 tailsweep.com
@@ -8107,6 +8219,7 @@
 0 truehits2.gits.net.th
 0 trumpia.com
 0 trustednotice.news
+0 trustx.org
 0 uarating.com
 0 uberads.com
 0 ubermedia.com
@@ -8247,6 +8360,7 @@
 0 www.arkonziv.com
 0 www.banner-link.com.br
 0 www.beauty-tea.com
+0 www.bkrtx.com
 0 www.cdnondemand.org
 0 www.dnps.com
 0 www.groupm.com
@@ -8550,7 +8664,6 @@
 0 bjhmt.com
 0 bjpgqsc.com
 0 bkkjob.com
-0 bkrtx.com
 0 blackry.com
 0 blog.3kingsclothing.com
 0 blog.fm120.com
@@ -8573,6 +8686,7 @@
 0 brave.ebod.co.uk
 0 bronotak.cn
 0 bugsense.com
+0 bugsnag.com
 0 burstly.com
 0 buthoprus.narod.ru
 0 buyonshop.com
@@ -8599,6 +8713,7 @@
 0 cdn.promotionengine.com
 0 cdn.simpleanalytics.io
 0 cdn.zarget.com
+0 cdnstatic.geo.dmcdn.net
 0 centerpieces-with-feathers-for-weddi.blogspot.com
 0 centralamericarealestateinvestment.com
 0 ceocms.com
@@ -8739,6 +8854,7 @@
 0 evasive.expertwitnessautomaticdoor.net
 0 events.redditmedia.com
 0 events.vungtv.com
+0 everestjs.net
 0 evilstalin.https443.net
 0 eviltracker.net
 0 evlilikfoto.com
@@ -8807,6 +8923,7 @@
 0 gotoip55.com
 0 gouddc.com
 0 gqwhyjh.com
+0 grabify.link
 0 grk6mgehel1hfehn.ru
 0 gs.dailymail.co.uk
 0 gsimon.edu.free.fr
@@ -8862,6 +8979,7 @@
 0 im900.com
 0 images.dmca.com
 0 i-mar.com
+0 img.leadzutw.com
 0 img.securesoft.info
 0 indiatouragency.com
 0 indogator.com
@@ -8874,6 +8992,7 @@
 0 interior-examples.ru
 0 interstitial.powered-by.securesoft.info
 0 investice-do-nemovitosti.eu
+0 ingest.sentry.io
 0 ip-api.com
 0 ipcmedia.grapeshot.co.uk
 0 ipinfo.io
@@ -8925,6 +9044,7 @@
 0 lastmeasure.zoy.org
 0 lavoixdesmots.free.fr
 0 lead.soperson.com
+0 leadzutw.com
 0 lectscalimertdr43.land.ru
 0 leferinktractors.com
 0 lem-computers.net
@@ -9030,6 +9150,7 @@
 0 nexus.ensighten.com
 0 nonoknit.com
 0 nonglirili.net
+0 notify.bugsnag.com
 0 nppmwatch.com
 0 ns.zdbb.net
 0 nt002.cn
@@ -9069,6 +9190,7 @@
 0 pjhku.com
 0 pl.ventunotech.com
 0 placehold.it
+0 play.leadzutw.com
 0 playtomic.com
 0 pornstar-candysue.de
 0 power.bestconstructionexpertwitness.com
@@ -9118,6 +9240,8 @@
 0 rtyszz.com
 0 rules.quantcount.com
 0 s.go-mpulse.net
+0 s.infogr.am
+0 s.infogram.com
 0 s.vi-serve.com
 0 saawa.com
 0 safegraph.com
@@ -9139,12 +9263,15 @@
 0 secure-softwaremanager.com
 0 selak.info
 0 senrima.ru
+0 sentry.io
 0 seopoint.com
 0 seqsixxx.com
 0 seres.https443.net
+0 sessions.bugsnag.com
 0 sharfiles.com
 0 shecanseeyou.info
 0 shenke.com.cn
+0 showbiz.owndata.network
 0 shuangfeidyw.com
 0 si.dailymail.co.uk
 0 sicken.cede.cl
@@ -9195,6 +9322,7 @@
 0 t2t2.com
 0 t70123.com
 0 tablet.gutterhelment.net
+0 tag.researchnow.com
 0 talk99.cn
 0 tapjoy.com
 0 ted.dailymail.co.uk
@@ -9305,6 +9433,7 @@
 0 www.cfbrr.com
 0 www.defygravity.com
 0 www.elisaart.it
+0 www.everestjs.net
 0 www.fchabkirchen-frauenberg.de
 0 www.gdby.com.cn
 0 www.hentelpower.com
@@ -9538,7 +9667,6 @@
 0 ox-d.advanceweb.com
 0 padsdel.com
 0 pflexads.com
-0 play.leadzutw.com
 0 playnomics.net
 0 plog.dc.letv.com
 0 polymob.com
