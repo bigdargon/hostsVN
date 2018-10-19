@@ -1,3 +1,9 @@
+[![created](https://img.shields.io/badge/created-jul%2007%202018-brightgreen.svg)](https://bigdargon.github.io/hostsVN/) [![GitHub last commit](https://img.shields.io/github/last-commit/bigdargon/hostsVN.svg)](https://github.com/bigdargon/hostsVN/commits/master) [![license](https://img.shields.io/github/license/bigdargon/hostsVN.svg)](https://github.com/bigdargon/hostsVN/blob/master/LICENSE) [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/bigdargon/hostsVN.svg)](https://github.com/bigdargon/hostsVN)
+
+[![GitHub issues](https://img.shields.io/github/issues-raw/bigdargon/hostsVN.svg)](https://github.com/bigdargon/hostsVN/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/bigdargon/hostsVN.svg)](https://github.com/bigdargon/hostsVN/issues?q=is%3Aissue+is%3Aclosed) [![HitCount](http://hits.dwyl.io/bigdargon/hostsVN.svg)](http://hits.dwyl.io/bigdargon/hostsVN) 
+
+[![GitHub watchers](https://img.shields.io/github/watchers/bigdargon/hostsVN.svg?style=social&label=Watch)](https://github.com/bigdargon/hostsVN/watchers) [![GitHub stars](https://img.shields.io/github/stars/bigdargon/hostsVN.svg?style=social&label=Stars)](https://github.com/bigdargon/hostsVN/stargazers) [![GitHub forks](https://img.shields.io/github/forks/bigdargon/hostsVN.svg?style=social&label=Fork)](https://github.com/bigdargon/hostsVN/network/members)
+
 # Welcome to GitHub Pages
 
 * Mình tạo ra Github với nhu cầu để giảm tải băng thông khi sử dụng mạng internet nói chung và tiết kiệm dung lượng cho gói 3G/4G nói riêng. Github của mình tập trung chặn các quảng cáo tại Việt Nam.
