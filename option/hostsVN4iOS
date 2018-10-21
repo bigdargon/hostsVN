@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 18 Oct 2018
+# Last modified: 21 Oct 2018
 # Minimal version for iOS
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
@@ -334,6 +334,20 @@
 0 mads.amazon-adsystem.com
 0 s.amazon-adsystem.com
 0 z-na.amazon-adsystem.com
+#[amazonaws]
+0 admarvel.s3.amazonaws.com
+0 adzerk.s3.amazonaws.com
+0 alexa-sitestats.s3.amazonaws.com
+0 digital-ads.s3.amazonaws.com
+0 entrecard.s3.amazonaws.com
+0 interactive-assets.s3.amazonaws.com
+0 mobileanalytics.us-east-1.amazonaws.com
+0 mobileanalytics.us-east-2.amazonaws.com
+0 mobileanalytics.us-west-1.amazonaws.com
+0 mobileanalytics.us-west-2.amazonaws.com
+0 s3-ap-southeast-1.amazonaws.com
+0 sana.newsinc.com.s3.amazonaws.com
+0 yab-adimages.s3.amazonaws.com
 #[yahoo]
 0 platform.tumblr.com
 0 srvcs.tumblr.com
@@ -374,7 +388,6 @@
 0 sonar-iad.xx.fbcdn.net
 0 pixel.facebook.com
 0 an.facebook.com
-0 graph.instagram.com
 #[twitter]
 0 ads.twitter.com
 0 ads-bidder-api.twitter.com
@@ -403,7 +416,6 @@
 0 log.spotify.com
 0 pixel.spotify.com
 0 pixel-static.spotify.com
-0 wg.spotify.com
 0 video-fa.scdn.co
 0 heads-ak.spotify.com.edgesuite.net
 #[adtimaserver]
@@ -544,6 +556,8 @@
 0 st.html.polyad.net
 0 cp.polyad.net
 0 st.polyad.net
+0 ds.polyad.net
+0 html.polyad.net
 #[ambientplatform]
 0 ambientplatform.vn
 0 m.ambientplatform.vn
@@ -4751,7 +4765,6 @@
 0 nicenewsinc.com
 0 pp-serve.newsinc.com
 0 sana.newsinc.com
-0 sana.newsinc.com.s3.amazonaws.com
 #[indexww]
 0 ht.indexww.com
 0 indexww.com
@@ -4909,6 +4922,84 @@
 0 vanguard.demdex.net
 0 verizon.demdex.net
 0 vivaki.demdex.net
+#[tapjoy]
+0 advertisers.tapjoy.com
+0 api.tapjoy.com
+0 assets.tapjoy.com
+0 beeswax.tapjoy.com
+0 blog.tapjoy.com
+0 bonus.tapjoy.com
+0 connect.tapjoy.com
+0 content.tapjoy.com
+0 content-js.tapjoy.com
+0 dev.tapjoy.com
+0 developers.tapjoy.com
+0 eng.tapjoy.com
+0 events.tapjoy.com
+0 fdc.tapjoy.com
+0 go.tapjoy.com
+0 home.tapjoy.com
+0 info.tapjoy.com
+0 knowledge.tapjoy.com
+0 ltv.tapjoy.com
+0 ltvapi.tapjoy.com
+0 my.tapjoy.com
+0 online.tapjoy.com
+0 origin.home.tapjoy.com
+0 origin.tapjoy.com
+0 placements.tapjoy.com
+0 resources.tapjoy.com
+0 rpc.tapjoy.com
+0 staging5.dev.tapjoy.com
+0 supportmx.support.tapjoy.com
+0 tapjoy.com
+0 video.tapjoy.com
+0 www.content-js.tapjoy.com
+0 www.eng.tapjoy.com
+0 www.fdc.tapjoy.com
+0 www.home.tapjoy.com
+0 www.online.tapjoy.com
+0 www.supportmx.support.tapjoy.com
+0 www.tapjoy.com
+0 www1.tapjoy.com
+0 tapjoyads.com
+0 test.tapjoyads.com
+0 ws.tapjoyads.com
+0 ws1.tapjoyads.com
+0 ws12.tapjoyads.com
+0 ws2.tapjoyads.com
+0 ws3.tapjoyads.com
+0 ws33.tapjoyads.com
+0 ws4.tapjoyads.com
+0 www.test.tapjoyads.com
+0 www.ws.tapjoyads.com
+#[app.link]
+0 mangarock.app.link
+0 mangarock-alternate.app.link
+#[2mdn]
+0 2mdn.net
+0 affiliate.2mdn.net
+0 gcdn.2mdn.net
+0 m.2mdn.net
+0 m.de.2mdn.net
+0 m.fr.2mdn.net
+0 m.uk.2mdn.net
+0 m1.emea.2mdn.net
+0 m1.emea.2mdn.net.edgesuite.net
+0 rmcdn.2mdn.net
+0 rmcdn.f.2mdn.net
+0 s0.2mdn.net
+0 s1.2mdn.net
+0 so.2mdn.net
+0 static.2mdn.net
+0 twx.2mdn.net
+#[betrad]
+0 betrad.com
+0 c.betrad.com
+0 cdn.betrad.com
+0 i.betrad.com
+0 l.betrad.com
+0 www.betrad.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -4932,6 +5023,7 @@
 0 ads.tiki.vn
 0 ads1.careerbuilder.vn
 0 adsplus.vn
+0 adt.com.vn
 0 adx.kul.vn
 0 adx.xemvtv.net
 0 ailamtrieuphu.com
@@ -4949,6 +5041,7 @@
 0 deltago.com
 0 fptad.com
 0 img.masoffer.net
+0 imgraovat.vnecdn.net
 0 lrc.nct.nixcdn.com
 0 mobilead.vn
 0 mobileads.dieuviet.com
@@ -4973,6 +5066,7 @@
 0 vietdorje.com
 0 vinaads.vn
 0 www.adblox.net
+0 www.adt.com.vn
 0 www.vietdorje.com
 0 zone.uniad.vn
 #[trackingVN]
@@ -5107,7 +5201,6 @@
 0 24log.com
 0 24log.de
 0 24pm-affiliation.com
-0 2mdn.net
 0 2o7.net
 0 33across.com
 0 360yield.com
@@ -5132,6 +5225,7 @@
 0 99count.com
 0 a.0day.kiev.ua
 0 a.adexchangemachine.com
+0 a.adtng.com
 0 a.aproductmsg.com
 0 a.collective-media.net
 0 a.consumer.net
@@ -5421,7 +5515,6 @@
 0 admanager.carsoup.com
 0 admantx.com
 0 admarvel.com
-0 admarvel.s3.amazonaws.com
 0 admedia.ro
 0 admedia.wsod.com
 0 admedo.com
@@ -5992,6 +6085,7 @@
 0 adserving.unibet.com
 0 adservinginternational.com
 0 adservingsolutionsinc.adk2x.com
+0 adservme.com
 0 adsfac.eu
 0 adsfac.net
 0 adsfac.us
@@ -6051,6 +6145,7 @@
 0 adtegrity.net
 0 adtiger.de
 0 adtilt.com
+0 adtng.com
 0 adtoll.com
 0 adtology.com
 0 adtoma.com
@@ -6129,7 +6224,6 @@
 0 adz2you.com
 0 adzbazar.com
 0 adzerk.net
-0 adzerk.s3.amazonaws.com
 0 adzones.com
 0 af-ad.co.uk
 0 affbuzzads.com
@@ -6179,7 +6273,6 @@
 0 ak-ns.sascdn.com
 0 alclick.com
 0 alenty.com
-0 alexa-sitestats.s3.amazonaws.com
 0 alipromo.com
 0 all4spy.com
 0 alladvantage.com
@@ -6421,6 +6514,7 @@
 0 bizad.nikkeibp.co.jp
 0 bizographics.com
 0 bizrate.com
+0 bj1110.online
 0 bkrtx.com
 0 blast4traffic.com
 0 blingbucks.com
@@ -6735,7 +6829,6 @@
 0 dianomi.com
 0 didtheyreadit.com
 0 differentdesk.com
-0 digital-ads.s3.amazonaws.com
 0 digitalmerkat.com
 0 digitru.st
 0 directaclick.com
@@ -6813,7 +6906,6 @@
 0 ensighten.com
 0 entercasino.com
 0 e-n-t-e-r-n-e-x.com
-0 entrecard.s3.amazonaws.com
 0 engagebdr.com
 0 engine.awaps.net
 0 engine.espace.netavenir.com
@@ -6954,6 +7046,7 @@
 0 gmads.net
 0 go.ezoic.net
 0 go.mobisla.com
+0 go.onclasrv.com
 0 go.padstm.com
 0 goadservices.com
 0 go-clicks.de
@@ -6969,6 +7062,7 @@
 0 gpr.hu
 0 grafstat.ro
 0 grapeshot.co.uk
+0 graph.instagram.com
 0 greetzebra.com
 0 greystripe.com
 0 groupm.com
@@ -7111,7 +7205,6 @@
 0 intentmedia.com
 0 intentmedia.net
 0 interactive.forthnet.gr
-0 interactive-assets.s3.amazonaws.com
 0 intergi.com
 0 internetfuel.com
 0 interreklame.de
@@ -7171,6 +7264,7 @@
 0 kontera.com
 0 kt-g.de
 0 ktu.sv2.biz
+0 kurlichan.com
 0 lakequincy.com
 0 launchbit.com
 0 layer-ad.de
@@ -8055,7 +8149,6 @@
 0 tapgen.com
 0 tapinfluence.com
 0 tapit.com
-0 tapjoyads.com
 0 tapsense.com
 0 targad.de
 0 targetingnow.com
@@ -8171,6 +8264,7 @@
 0 trackedlink.net
 0 trackedweb.net
 0 tracker.icerocket.com
+0 tracker.trackerfix.com
 0 tracker-pm2.spilleren.com
 0 tracking.crunchiemedia.com
 0 tracking.gajmp.com
@@ -8391,6 +8485,7 @@
 0 xg4ken.com
 0 xiti.com
 0 xius.com
+0 xml.adservme.com
 0 xplusone.com
 0 xponsor.com
 0 xq1.net
@@ -8402,7 +8497,6 @@
 0 xxxmyself.com
 0 xy7elite.com
 0 y.ibsys.com
-0 yab-adimages.s3.amazonaws.com
 0 yabuka.com
 0 yadro.ru
 0 ybrantdigital.com
@@ -9120,7 +9214,6 @@
 0 mkhafnorcu81.com
 0 mmexe.com
 0 moacbeniv.com
-0 mobileanalytics.us-east-1.amazonaws.com
 0 mobile-safety.org
 0 moblao.com
 0 mobuna.com
@@ -9324,7 +9417,6 @@
 0 tablet.gutterhelment.net
 0 tag.researchnow.com
 0 talk99.cn
-0 tapjoy.com
 0 ted.dailymail.co.uk
 0 ted.metro.co.uk
 0 ted1.metro.co.uk
