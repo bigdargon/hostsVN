@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 23 Oct 2018
+# Last modified: 28 Oct 2018
 # Minimal version for iOS
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
@@ -592,7 +592,10 @@
 0 media2.admicro.vn
 0 media3.admicro.vn
 0 media4.admicro.vn
+0 media5.admicro.vn
 0 media6.admicro.vn
+0 media7.admicro.vn
+0 media9.admicro.vn
 0 min.admicro.vn
 0 monitor.admicro.vn
 0 nsapi.admicro.vn
@@ -5216,6 +5219,176 @@
 0 pmetrics.getclicky.com
 0 static.freewebs.getclicky.com
 0 static.getclicky.com
+#[yandex.ru]
+0 adfox.yandex.ru
+0 advertising.yandex.ru
+0 an.yandex.ru
+0 awaps.yandex.ru
+0 awsync.yandex.ru
+0 bs.yandex.ru
+0 bs-meta.yandex.ru
+0 clck.yandex.ru
+0 grade.market.yandex.ru
+0 informer.yandex.ru
+0 kiks.yandex.ru
+0 mc.yandex.ru
+0 metrica.yandex.ru
+0 metrika.yandex.ru
+0 ms.yandex.ru
+0 mx.yandex.ru
+0 redirect.appmetrica.yandex.ru
+0 share.yandex.ru
+#[stickyadstv]
+0 stickyadstv.com
+0 cdn.stickyadstv.com
+0 ads.stickyadstv.com
+0 sandbox.stickyadstv.com
+0 cdn1.stickyadstv.com
+#[mediawayss]
+0 ad.mediawayss.com
+0 cdn.mediawayss.com
+0 delivery.mediawayss.com
+0 dev.mediawayss.com
+0 mediawayss.com
+0 stage.ad.mediawayss.com
+0 vp.cdn.mediawayss.com
+#[fastly.net]
+0 assets-polarb-com.a.ssl.fastly.net
+0 beastasuum.a.ssl.fastly.net
+0 brightcove.map.fastly.net
+0 clarium.global.ssl.fastly.net
+0 epxkb8zz4ssdv7b.global.ssl.fastly.net
+0 media.brightcove.map.fastly.net
+0 naytev.global.ssl.fastly.net
+0 prod.appnexus.map.fastly.net
+0 prod.sonobi-go.map.fastly.net
+0 sonobi-go.map.fastly.net
+0 adping.chartbeat.net
+0 art.oakvillemotors.comping.chartbeat.net
+0 automation.chartbeat.net
+0 comping.chartbeat.net
+0 chartbeat.net
+0 edge01.chartbeat.net
+0 mabping.chartbeat.net
+0 pabc.chartbeat.net
+0 paol.chartbeat.net
+0 pchicagotribune.chartbeat.net
+0 pdeltatre.chartbeat.net
+0 pdev.chartbeat.net
+0 pespn.chartbeat.net
+0 pfox.chartbeat.net
+0 ping.chartbeat.net
+0 pmyspace.chartbeat.net
+0 pnytimes.chartbeat.net
+0 psankei.chartbeat.net
+0 ptimeinc.chartbeat.net
+0 survey.chartbeat.net
+0 www.chartbeat.net
+#[superfastmediation]
+0 superfastmediation.com
+0 monitor.superfastmediation.com
+0 exchange.superfastmediation.com
+0 track.superfastmediation.com
+0 www.superfastmediation.com
+#[moengage]
+0 api.moengage.com
+0 apiv2.moengage.com
+0 apiv2mumbai.moengage.com
+0 apiv3.moengage.com
+0 apiv3india.moengage.com
+0 cdn.moengage.com
+0 image.moengage.com
+0 websdk.moengage.com
+#[localytics]
+0 53.localytics.com
+0 ads.localytics.com
+0 analytics.localytics.com
+0 analyticstest.localytics.com
+0 api.localytics.com
+0 api.sandbox53.localytics.com
+0 cold.localytics.com
+0 cold2.53.localytics.com
+0 dashboard.localytics.com
+0 deployer.53.localytics.com
+0 ebooks.localytics.com
+0 eng.localytics.com
+0 frontbeta.localytics.com
+0 go.localytics.com
+0 gw.localytics.com
+0 hot2.53.localytics.com
+0 info.localytics.com
+0 localytics.com
+0 logging.53.localytics.com
+0 lyssh.gw.localytics.com
+0 manifest.53.localytics.com
+0 manifest.localytics.com
+0 profile.localytics.com
+0 profileview.localytics.com
+0 sandbox53.localytics.com
+0 sdk-assets.localytics.com
+0 services.53.localytics.com
+0 stager.53.localytics.com
+0 stager2.53.localytics.com
+0 support.localytics.com
+0 testiab.53.localytics.com
+0 two-ply.gw.localytics.com
+0 two-ply-dev.gw.localytics.com
+0 web.53.localytics.com
+0 web.localytics.com
+0 webanalytics.localytics.com
+0 www.localytics.com
+#[clevertap]
+0 api.clevertap.com
+0 campaigns.clevertap.com
+0 clevertap.com
+0 dashboard.clevertap.com
+0 in.api.clevertap.com
+0 insights.clevertap.com
+0 staging.dashboard.clevertap.com
+0 static.clevertap.com
+0 www.clevertap.com
+#[freshmarketer]
+0 app.freshmarketer.com
+0 cdn.freshmarketer.com
+0 changelog.freshmarketer.com
+0 extension.freshmarketer.com
+0 freshmarketer.com
+0 support.freshmarketer.com
+0 toolbar.freshmarketer.com
+0 www.freshmarketer.com
+#[clksite]
+0 clksite.com
+0 p117448.clksite.com
+0 p128902.clksite.com
+0 p138253.clksite.com
+0 p152037.clksite.com
+0 p175257.clksite.com
+0 p185755.clksite.com
+0 p192159.clksite.com
+0 p193611.clksite.com
+0 p215223.clksite.com
+0 p216157.clksite.com
+0 p220333.clksite.com
+0 p232207.clksite.com
+0 p237431.clksite.com
+0 p245721.clksite.com
+0 p250403.clksite.com
+0 p255082.clksite.com
+0 p264515.clksite.com
+0 p278355.clksite.com
+0 p278432.clksite.com
+0 p282054.clksite.com
+0 p291922.clksite.com
+0 p292534.clksite.com
+0 p30839.clksite.com
+0 p311425.clksite.com
+0 p33049.clksite.com
+0 p35296.clksite.com
+0 p46140.clksite.com
+0 p50523.clksite.com
+0 p69523.clksite.com
+0 p94825.clksite.com
+0 www.clksite.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -5274,6 +5447,7 @@
 0 static.masoffer.net
 0 stc-nas.nixcdn.com
 0 trenddigital.vn
+0 truoctran.com
 0 uniad.vn
 0 vads.net.vn
 0 vads.vn
@@ -5287,6 +5461,7 @@
 0 zone.uniad.vn
 #[trackingVN]
 0 alexajstrack.com
+0 analytics.bkav.com
 0 log.baomoi.com
 0 log.batdongsan.com.vn
 0 log.giaoduc.net.vn
@@ -5305,6 +5480,7 @@
 0 s.tuoitre.vn
 0 sharefb.cnnd.vn
 0 stats.bizweb.vn
+0 stats.vietnammoi.vn
 0 thongke.24h.com.vn
 0 track.sendo.vn
 0 track.srv.vietnamnet.vn
@@ -5780,6 +5956,8 @@
 0 adprimemedia.com
 0 adprofile.net
 0 adprojekt.pl
+0 adpxl.co
+0 adpxljs.adpxl.co
 0 adq.nextag.com
 0 adrazzi.com
 0 adreactor.com
@@ -6771,7 +6949,6 @@
 0 brightinfo.com
 0 british-banners.com
 0 broadboundary.com
-0 bs.yandex.ru
 0 bttrack.com
 0 btrll.com
 0 budsinc.com
@@ -6926,6 +7103,7 @@
 0 connatix.com
 0 connextra.com
 0 consciouscabbage.com
+0 consent.cmp.oath.com
 0 consumer.exacttargetapis.com
 0 contadores.miarroba.com
 0 contaxe.de
@@ -7016,7 +7194,6 @@
 0 chango.com
 0 chardwardse.club
 0 chart.dk
-0 chartbeat.net
 0 checkm8.com
 0 checkstat.nl
 0 cherrythread.com
@@ -7209,6 +7386,7 @@
 0 fineclicks.com
 0 first.nova.cz
 0 firstlightera.com
+0 fl.adpxl.co
 0 flavordecision.com
 0 fleshlightcash.com
 0 flexbanner.com
@@ -7233,7 +7411,6 @@
 0 freestats.com
 0 freestats.tv
 0 freewebcounter.com
-0 freshmarketer.com
 0 frtyj.com
 0 functionalclam.com
 0 funklicks.com
@@ -7464,6 +7641,7 @@
 0 joetec.net
 0 jokedollars.com
 0 joneself.com
+0 js.hsforms.net
 0 js.users.51.la
 0 jsecoin.com
 0 juicyads.com
@@ -7594,6 +7772,7 @@
 0 mathtag.com
 0 max.i12.de
 0 maximumcash.com
+0 maxonclick.com
 0 mbn.com.ua
 0 mbs.megaroticlive.com
 0 mbuyu.nl
@@ -7944,6 +8123,7 @@
 0 plethoramobile.com
 0 plista.com
 0 plugrush.com
+0 pndelfast.com
 0 pointroll.com
 0 politads.com
 0 pontiflex.com
@@ -8183,6 +8363,7 @@
 0 servedbyopenx.com
 0 server.iad.liveperson.net
 0 servethis.com
+0 service.cmp.oath.com
 0 service1.adten.de
 0 servicelayer.king.com
 0 services.hearstmags.com
@@ -8323,7 +8504,6 @@
 0 statxpress.com
 0 steelhouse.com
 0 steelhousemedia.com
-0 stickyadstv.com
 0 st-n.pc2ads.com
 0 storesurprise.com
 0 stormyachiever.com
@@ -8694,6 +8874,7 @@
 0 www.kaplanindex.com
 0 www.ketchapp.org
 0 www.lecap-services.fr
+0 www.maxonclick.com
 0 www.money4exit.de
 0 www.myadsystem.com
 0 www.n.popclck.org
@@ -8897,7 +9078,6 @@
 0 analytics.ihbsoft.com
 0 analytics.jabong.com
 0 analytics.lk.api.ditto.com
-0 analytics.localytics.com
 0 analytics.logsss.com
 0 analytics.mailmunch.co
 0 analytics.myfinance.com
@@ -9041,6 +9221,7 @@
 0 ccycny.com
 0 cdmswj.com
 0 cdn.blueconic.net
+0 cdn.demdex.net
 0 cdn.promotionengine.com
 0 cdn.simpleanalytics.io
 0 cdn.zarget.com
@@ -9163,6 +9344,7 @@
 0 dwdpi.co.kr
 0 dwnloader.com
 0 dyhtez.com
+0 dynatrace.com
 0 dzynestudio.neglite.com
 0 e2bworld.com
 0 ebara.cc
@@ -9354,6 +9536,7 @@
 0 js.securesoft.info
 0 js.union.doudouguo.net
 0 jsbwpg.com
+0 js-cdn.dynatrace.com
 0 jsngupdwxeoa.uglyas.com
 0 jtpk8.com
 0 jtti.net
@@ -9393,7 +9576,6 @@
 0 llbb88.com
 0 llo123.com
 0 lmsongnv.com
-0 localytics.com
 0 location.fashionises.com
 0 lococcc.com
 0 log.apk.v-mate.mobi
@@ -9431,7 +9613,6 @@
 0 mampoks.ru
 0 man1234.com
 0 mandarin.aquamarineku.com
-0 manifest.localytics.com
 0 mannesoth.com
 0 mans.cnusher.ind.in
 0 marco-behrendt.de
@@ -9445,6 +9626,7 @@
 0 mefa.ws
 0 metzgerconsulting.com
 0 metrics.brightcove.com
+0 metrics.cloudflarebolt.com
 0 metrics.sdkbox.com
 0 miamibeachhotels.tv
 0 miremanufacturing.com
@@ -9533,7 +9715,6 @@
 0 presage.io
 0 pringlepowwow.com
 0 pro.ip-api.com
-0 profile.localytics.com
 0 promotionengine.com
 0 prooffactor.com
 0 prosperity.charifree.org
@@ -9739,6 +9920,7 @@
 0 vrl.m.conviva.com
 0 vrot.stervapoimenialena.info
 0 vstart.net
+0 w3counter.com
 0 wa.metro.co.uk
 0 walesedu.com
 0 walklight.net
@@ -9777,6 +9959,7 @@
 0 www.hitcpm.com
 0 www.infoaz.nl
 0 www.ip-api.com
+0 www.js-cdn.dynatrace.com
 0 www.lydaoyou.com
 0 www.montacarichi.it
 0 www.myhongyuan.net
@@ -9792,6 +9975,7 @@
 0 www.thoosje.com
 0 www.unicaitaly.it
 0 www.vdtrack.com
+0 www.w3counter.com
 0 www.weigezhiyao.com
 0 www.wwgin.com
 0 www.yserch.com
@@ -9900,6 +10084,8 @@
 0 zwgoca.com
 0 zyjyyy.com
 0 zztxdown.com
+# --- Block other scamVN ---
+0 icloud.com-locations.in
 # --- Block testing ---
 0 1phads.com
 0 4dle.info
