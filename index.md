@@ -26,15 +26,15 @@ Wiki hướng dẫn: [https://github.com/bigdargon/hostsVN/wiki](https://github.
 
 Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặn quảng cáo, mỗi ứng dụng có ưu và khuyết điểm khác nhau.  Tùy vào nhu cầu mỗi người mà chọn ứng dụng cho phù hợp. 
 
-|   |[**Adblock**](https://github.com/bigdargon/hostsVN/wiki/Adblock)|[**Adguard Pro**](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[**Shadowrocket**](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|[**Surge**](https://github.com/bigdargon/hostsVN/wiki/Surge)|
+|   |[**Surge**](https://github.com/bigdargon/hostsVN/wiki/Surge)|[**Adguard Pro**](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[**Shadowrocket**](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|[**Adblock**](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
 |:-|:-:|:-:|:-:|:-:|
-|Giá|45.000 VND|22.000 VND|69.000 VND|**Miễn phí**|
-|Mua trong ứng dụng|**Không**|**Không**|**Không**|1.099.000 VND|
-|Đặc điểm|Chặn quảng cáo|Chặn quảng cáo|Tool phân tích|Tool phân tích|
-|VPN tự bật khi khởi động thiết bị|**Có**|**Có**|Không|Không|
-|Tự động cập nhật danh sách|Không|**Có**|Không|**Có**|
-|Điều chỉnh cập nhật|Chỉ thêm mới|**Có thêm & xóa lỗi**|**Có thêm & xóa lỗi**|**Có thêm & xóa lỗi**|
-|Tải về|[Tại đây](https://itunes.apple.com/app/adblock/id691121579?mt=8)|[Tại đây](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tại đây](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tại đây](https://itunes.apple.com/app/surge-3-web-developer-tool/id1329879957?mt=8)|
+|Giá|**Miễn phí**|22.000 VND|69.000 VND|45.000 VND|
+|Mua trong ứng dụng|1.099.000 VND|**Không**|**Không**|**Không**|
+|Đặc điểm|Tool phân tích|Chặn quảng cáo|Tool phân tích|Chặn quảng cáo|
+|VPN tự bật khi khởi động thiết bị|Không|**Có**|Không|**Có**|
+|Tự động cập nhật danh sách|**Có**|**Có**|Không|Không|
+|Điều chỉnh cập nhật|**Có thêm & xóa**|**Có thêm & xóa**|**Có thêm & xóa**|Chỉ thêm mới|
+|Tải về|[Tại đây](https://itunes.apple.com/app/surge-3-web-developer-tool/id1329879957?mt=8)|[Tại đây](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tại đây](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tại đây](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
 
 > Theo quan điểm cá nhân, mình cảm thấy `Surge` chặn quảng cáo ổn định và mạnh mẽ nhất, không cần nâng cấp bản `PRO` vẫn sử dụng được các tính năng cơ bản để chặn. Ứng dụng không tự động bật VPN sau mỗi lần mở hay khởi động lại thiết bị, nhưng chỉ cần vào ứng dụng bật VPN lại là sử dụng xuyên suốt mà VPN không bị ngắt hoặc bạn có thể thêm widget để bật nhanh hơn từ màn hình chính.
 
