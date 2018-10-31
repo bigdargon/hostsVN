@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 28 Oct 2018
+# Last modified: 31 Oct 2018
 # Minimal version for iOS
 # Please report any ads or problems by github
 # Github: https://github.com/bigdargon/hostsVN/
@@ -945,27 +945,54 @@
 0 mem2.popcash.net
 0 mem3.popcash.net
 #[mgid]
-0 mgid.com
-0 www.mgid.com
-0 ns2.mgid.com
-0 ns3.mgid.com
-0 dashboard.mgid.com
-0 img.mgid.com
-0 capping.mgid.com
-0 blog.mgid.com
-0 cm.mgid.com
-0 neptun-vm.mgid.com
-0 servicer.mgid.com
-0 usr.mgid.com
+0 a.mgid.com
+0 aa.goodsblock.mgid.com
+0 aa-gb.mgid.com
+0 ab.goodsblock.mgid.com
+0 ab-gb.mgid.com
+0 ac-gb.mgid.com
+0 ad-gb.mgid.com
+0 ae-gb.mgid.com
+0 af-gb.mgid.com
+0 aj-gb.mgid.com
 0 analytics.mgid.com
+0 blog.mgid.com
+0 c.mgid.com
+0 capping.mgid.com
+0 cdn.mgid.com
+0 cm.mgid.com
+0 counter.mgid.com
+0 dashboard.mgid.com
+0 dating.mgid.com
+0 dmp.mgid.com
+0 dsp.mgid.com
+0 example.mgid.com
+0 gitlab.mgid.com
+0 img.mgid.com
+0 imgg.mgid.com
+0 imgg-cdn.mgid.com
+0 imggprx.mgid.com
 0 js.mgid.com
 0 jsc.mgid.com
-0 tools.mgid.com
-0 youtrack.mgid.com
-0 gitlab.mgid.com
+0 jsn.mgid.com
+0 jsu.mgid.com
+0 mg.mgid.com
+0 mgid.com
+0 neptun-vm.mgid.com
+0 notify.mgid.com
 0 ns.mgid.com
-0 dating.mgid.com
+0 ns2.mgid.com
+0 ns3.mgid.com
+0 rtbproxy.mgid.com
 0 servertest.mgid.com
+0 servicer.mgid.com
+0 static.mgid.com
+0 tools.mgid.com
+0 usr.mgid.com
+0 video-cdn.mgid.com
+0 wsp.mgid.com
+0 www.mgid.com
+0 youtrack.mgid.com
 #[adnow]
 0 adnow.com
 0 ad.adnow.com
@@ -5389,6 +5416,91 @@
 0 p69523.clksite.com
 0 p94825.clksite.com
 0 www.clksite.com
+#[effectivemeasure]
+0 adt.effectivemeasure.net
+0 au.effectivemeasure.net
+0 au-cdn.effectivemeasure.net
+0 au-ssl.effectivemeasure.net
+0 c.effectivemeasure.net
+0 ca-cdn.effectivemeasure.net
+0 c-cdn.effectivemeasure.net
+0 cdn.effectivemeasure.net
+0 cf.effectivemeasure.net
+0 collector.effectivemeasure.net
+0 effectivemeasure.net
+0 fr-cdn.effectivemeasure.net
+0 hk.effectivemeasure.net
+0 hk-cdn.effectivemeasure.net
+0 id-cdn.effectivemeasure.net
+0 in-cdn.effectivemeasure.net
+0 in-ssl.effectivemeasure.net
+0 me.effectivemeasure.net
+0 me-cdn.effectivemeasure.net
+0 me-ssl.effectivemeasure.net
+0 msn-cdn.effectivemeasure.net
+0 my.effectivemeasure.net
+0 my-cdn.effectivemeasure.net
+0 my-ssl.effectivemeasure.net
+0 nz-cdn.effectivemeasure.net
+0 nz-ssl.effectivemeasure.net
+0 pk-cdn.effectivemeasure.net
+0 ph-cdn.effectivemeasure.net
+0 s.effectivemeasure.net
+0 sea.effectivemeasure.net
+0 sg-cdn.effectivemeasure.net
+0 sg-ssl.effectivemeasure.net
+0 t.effectivemeasure.net
+0 th-cdn.effectivemeasure.net
+0 us-cdn.effectivemeasure.net
+0 v.effectivemeasure.net
+0 www.effectivemeasure.net
+0 www1.effectivemeasure.net
+0 www2.effectivemeasure.net
+0 www3.effectivemeasure.net
+0 www4.effectivemeasure.net
+0 www5.effectivemeasure.net
+0 www6.effectivemeasure.net
+0 www7.effectivemeasure.net
+0 www8.effectivemeasure.net
+0 www8-ssl.effectivemeasure.net
+0 www9.effectivemeasure.net
+0 yahoo.effectivemeasure.net
+0 za-cdn.effectivemeasure.net
+0 za-ssl.effectivemeasure.net
+#[vntsm]
+0 ads.vntsm.com
+0 cdn1.vntsm.com
+0 cdn1-marketplace.vntsm.com
+0 cdn2-marketplace.vntsm.com
+0 core.vntsm.com
+0 hb.vntsm.com
+0 hb-config.vntsm.com
+0 vntsm.com
+#[mailchimp]
+0 cdn-images.mailchimp.com
+0 downloads.mailchimp.com
+0 mailchimp.com
+0 static.mailchimp.com
+0 www.mailchimp.com
+#[alexa]
+0 alexa.com
+0 data.alexa.com
+0 download.alexa.com
+0 traffic.alexa.com
+0 widgets.alexa.com
+0 www.alexa.com
+0 xslt.alexa.com
+0 xsltcache.alexa.com
+0 as.innity.com
+0 avd.innity.com
+0 avn.innity.com
+0 avp.innity.com
+0 cast.innity.com
+0 cdn.innity.com
+0 network.innity.com
+0 innity.com
+0 optimize.innity.com
+0 programmatic.innity.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -5515,6 +5627,10 @@
 0 click.mibet.com
 0 tool.mibet.com
 0 t.mibet.com
+0 www.mibet.com
+0 mibet.mobi
+0 click.mibet.mobi
+0 www.mibet.mobi
 0 nhanthuong88.com
 0 www.nhanthuong88.com
 0 fb88.com
@@ -6692,6 +6808,7 @@
 0 api.52youtu.com
 0 api.ad4push.com
 0 api.alphonso.tv
+0 api.ampiri.com
 0 api.appfireworks.com
 0 api.catch.gift
 0 api.intensifier.de
@@ -6746,6 +6863,7 @@
 0 audit.median.hu
 0 audit.webinform.hu
 0 augur.io
+0 autoads.asia
 0 auto-bannertausch.de
 0 autohits.dk
 0 avenuea.com
@@ -7104,6 +7222,7 @@
 0 connextra.com
 0 consciouscabbage.com
 0 consent.cmp.oath.com
+0 constintptr.com
 0 consumer.exacttargetapis.com
 0 contadores.miarroba.com
 0 contaxe.de
@@ -7286,7 +7405,6 @@
 0 e-debtconsolidation.com
 0 edgeio.com
 0 effectivemeasure.com
-0 effectivemeasure.net
 0 ehealthcaresolutions.com
 0 elasticchange.com
 0 elephantqueue.com
@@ -7373,11 +7491,13 @@
 0 fastlane.tools
 0 fb-promotions.com
 0 fc.webmasterpro.de
+0 fcd.autoads.asia
 0 feed.engage.im
 0 feedbackresearch.com
 0 feedjit.com
 0 ffxcam.fairfax.com.au
 0 fiksu.com
+0 file.autoads.asia
 0 fimc.net
 0 fimserve.com
 0 findcommerce.com
@@ -8050,6 +8170,7 @@
 0 oxcash.com
 0 oxen.hillcountrytexas.com
 0 p.adpdx.com
+0 p.imgur.com
 0 padstm.com
 0 pagefair.com
 0 pagefair.net
@@ -8480,6 +8601,7 @@
 0 static.dable.io
 0 static.fmpub.net
 0 static.itrack.it
+0 static.thedevband.com
 0 staticads.btopenworld.com
 0 statistik-gallup.net
 0 statm.the-adult-company.com
@@ -8674,6 +8796,7 @@
 0 tracker.icerocket.com
 0 tracker.trackerfix.com
 0 tracker-pm2.spilleren.com
+0 tracking.autoads.asia
 0 tracking.crunchiemedia.com
 0 tracking.gajmp.com
 0 tracking.internetstores.de
@@ -9120,6 +9243,7 @@
 0 apphay.me
 0 apsalar.com
 0 aquapuremultiservicios.es
+0 ar.tns-counter.ru
 0 argentinaglobalwines.com
 0 armazones.com
 0 arouersobesite.free.fr
@@ -9222,6 +9346,7 @@
 0 cdmswj.com
 0 cdn.blueconic.net
 0 cdn.demdex.net
+0 cdn.livechatinc.com
 0 cdn.promotionengine.com
 0 cdn.simpleanalytics.io
 0 cdn.zarget.com
@@ -9269,6 +9394,7 @@
 0 czhjln.com
 0 czmlfc.sxtm30.badudns.cc
 0 czqmc.com
+0 chat2.livechatinc.com
 0 cheapness.byefelicia.fr
 0 check-updates.net
 0 china-hangyi.com
@@ -9432,6 +9558,7 @@
 0 gjysjl.com
 0 global.ymtracking.com
 0 globalnursesonline.com
+0 globalwebindex.net
 0 go.ad1data.com
 0 go-mpulse.net
 0 googlanalytics.ws
@@ -9447,6 +9574,8 @@
 0 guihua-china.com
 0 gurgle.zdbb.net
 0 guyouellette.org
+0 gwiq.globalwebindex.net
+0 gwiqcdn.globalwebindex.net
 0 gxatatuning.cn
 0 gxqyyq.com
 0 gzdywz.com
@@ -9554,6 +9683,7 @@
 0 ktoooo.com
 0 kuaiyan.com.cn
 0 kumykoz.com
+0 kz.tns-counter.ru
 0 kzhqzx.com
 0 ladybug.gutterheatersus.com
 0 lagrotta4u.de
@@ -9972,6 +10102,7 @@
 0 www.soperson.com
 0 www.stkjw.net
 0 www.talk99.cn
+0 www.tns-counter.ru
 0 www.thoosje.com
 0 www.unicaitaly.it
 0 www.vdtrack.com
