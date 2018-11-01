@@ -1,10 +1,10 @@
 # Title: hostsVN
-# Last modified: 31 Oct 2018
-# Minimal version for iOS
-# Please report any ads or problems by github
+# Last modified: 01 Nov 2018
+# Minimal version for iOS. Please report any ads or problems by github
+# Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
-# Download: https://github.com/bigdargon/hostsVN/raw/master/option/hostsVN4iOS
 # Report issues: https://github.com/bigdargon/hostsVN/issues
+# Download: https://github.com/bigdargon/hostsVN/raw/master/option/hostsVN4iOS
 #
 # =====================================================
 
@@ -3829,7 +3829,6 @@
 0 instory-log.ucnews.ucweb.com
 0 logserver.insight.ucweb.com
 0 click.union.ucweb.com
-0 sg.mmstat.com
 0 woodpecker.uc.cn
 #[adsplay]
 0 log.adsplay.net
@@ -5501,6 +5500,24 @@
 0 innity.com
 0 optimize.innity.com
 0 programmatic.innity.com
+#[mmstat]
+0 ac.mmstat.com
+0 cnzz.mmstat.com
+0 gj.mmstat.com
+0 gm.mmstat.com
+0 go.mmstat.com
+0 gxb.mmstat.com
+0 hz.mmstat.com
+0 log.gds.mmstat.com
+0 log.mmstat.com
+0 mmstat.com
+0 p3p.mmstat.com
+0 perf.mmstat.com
+0 res.mmstat.com
+0 sg.mmstat.com
+0 wgo.mmstat.com
+0 www.mmstat.com
+0 yt.mmstat.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -9828,7 +9845,6 @@
 0 pear.dementiaadvocacy.com
 0 pebed.dm.gg
 0 peoria33884.cz.cc
-0 perf.mmstat.com
 0 pinkpillar.ru
 0 pixel.nc0.co
 0 pixel.wp.com
