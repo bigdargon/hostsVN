@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 01 Nov 2018
+# Last modified: 02 Nov 2018
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -3602,11 +3602,14 @@
 0 ttt.onthe.io
 0 ws.onthe.io
 #[innity]
-0 innity.net
-0 ssl-cdn.media.innity.net
+0 avd.innity.net
 0 cdn.innity.net
-0 vcdn.media.innity.net
 0 cdn.media.innity.net
+0 innity.net
+0 ssl-avd.innity.net
+0 ssl-cdn.media.innity.net
+0 vcdn.media.innity.net
+0 www.vcdn.media.innity.net
 #[bidgear]
 0 bidgear.com
 0 stats.bidgear.com
