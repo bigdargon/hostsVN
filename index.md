@@ -10,7 +10,7 @@
 
 # Một số bài đăng
 
-* [Hướng dẫn chặn quảng cáo trong apps bằng Surge, Adguard Pro, Shadowrocket và Adblock](https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-apps-bang-surge-adguard-pro-shadowrocket-va-adblock.2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @iFeed-er @se7venl0v3_198 đã tích cực theo dõi, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @thanhnh091 đã úp thớt mỗi khi có cập nhật để k trôi bài._
+* [Hướng dẫn chặn quảng cáo trong apps bằng Surge, Adguard Pro, Shadowrocket và Adblock](https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-apps-bang-surge-adguard-pro-shadowrocket-va-adblock.2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @iFeed-er @se7venl0v3_198 đã tích cực theo dõi, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @thanhnh091 đã úp thớt mỗi khi có cập nhật để không trôi bài._
 
 * [Hướng dẫn chặn quảng cáo trên Safari bằng Adguard](https://tinhte.vn/threads/huong-dan-chan-quang-cao-tren-safari-bang-adguard.2871474/)
 
@@ -58,6 +58,6 @@ Bạn chỉ cần làm theo hướng dẫn báo lỗi để chụp màn hình l�
 
 Tất nhiên là được, bạn có thể dùng tập tin `hosts` (tải về [tại đây](https://github.com/bigdargon/hostsVN/raw/master/hosts)) để dùng cho các các hệ điều khác như Windows, Mac OS X, iOS (đã jailbreak), Android (đã root), Linux. Nếu bạn sử dụng hệ điều hành Android (chưa root) không cho phép truy cập hệ thống thì bạn có thể tham khảo 1 số ứng dụng lọc DNS như [Blokada](https://blokada.org/#download), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66/)...
 
-Bạn có thể xem thêm bài viết cho hệ điều hành Android tại đây https://github.com/bigdargon/hostsVN/wiki/Android
+Bạn có thể xem thêm bài viết cho hệ điều hành Android tại đây [https://github.com/bigdargon/hostsVN/wiki/Android](https://github.com/bigdargon/hostsVN/wiki/Android)
 
 ## Tìm hiểu thêm chi tiết tại [trang Wiki này](https://github.com/bigdargon/hostsVN/wiki)
