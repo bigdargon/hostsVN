@@ -1,9 +1,10 @@
-#
-# Blocked domains will cause errors, the list here will never add back to the block list
+# Title: hostsVN-whitelist
+# Blocked domains will cause errors in the app
 #
 # =====================================================
-#
+
 !https://github.com/bigdargon/hostsVN/issues/18
+googleadservices.com
 www.googleadservices.com
 
 !https://github.com/bigdargon/hostsVN/issues/22
