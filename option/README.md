@@ -1,3 +1,3 @@
-# Tùy chọn
+# Thư mục tùy chọn
 
-Tùy chọn tập tin cho các ứng dụng như Adblock, Adguard, ShadowRocket, Surge và một số ứng dụng khác.
+Tập tin sử dụng cho các ứng dụng như Adblock, Adguard, ShadowRocket, Surge và một số ứng dụng khác.
