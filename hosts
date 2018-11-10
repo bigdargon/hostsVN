@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 09 Nov 2018
+# Last modified: 10 Nov 2018
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -1426,6 +1426,7 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 cdn.appsflyer.com
+0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 community.appsflyer.com
 0.0.0.0 get.appsflyer.com
 0.0.0.0 www.get.appsflyer.com
@@ -2570,6 +2571,7 @@
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 china-cdn.unityads.unity3d.com
+0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 httpkafka.unityads.unity3d.com
@@ -6197,6 +6199,14 @@
 0.0.0.0 welcome.openx.com
 0.0.0.0 www.openx.com
 0.0.0.0 xx.openx.com
+#[onelink.me]
+0.0.0.0 iqoption.onelink.me
+0.0.0.0 m.onelink.me
+0.0.0.0 onelink.me
+0.0.0.0 www.onelink.me
+0.0.0.0 dream11.onelink.me
+0.0.0.0 go.onelink.me
+0.0.0.0 sod.onelink.me
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
