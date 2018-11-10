@@ -1346,6 +1346,7 @@ t.appsflyer.com
 stats.appsflyer.com
 app.appsflyer.com
 cdn.appsflyer.com
+cdnappicons.appsflyer.com
 community.appsflyer.com
 get.appsflyer.com
 www.get.appsflyer.com
@@ -2446,6 +2447,7 @@ cdp.cloud.unity3d.com
 config.uca.cloud.unity3d.com
 config.unityads.unity3d.com
 china-cdn.unityads.unity3d.com
+ecommerce.iap.unity3d.com
 events.iap.unity3d.com
 geocdn.unityads.unity3d.com
 httpkafka.unityads.unity3d.com
@@ -5927,6 +5929,14 @@ ssl-i.cdn.openx.com
 welcome.openx.com
 www.openx.com
 xx.openx.com
+#[onelink.me]
+0.0.0.0 iqoption.onelink.me
+0.0.0.0 m.onelink.me
+0.0.0.0 onelink.me
+0.0.0.0 www.onelink.me
+0.0.0.0 dream11.onelink.me
+0.0.0.0 go.onelink.me
+0.0.0.0 sod.onelink.me
 123c.vn
 access.adblox.net
 ad.24h.com.vn
