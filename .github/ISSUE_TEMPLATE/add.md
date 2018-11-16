@@ -9,7 +9,7 @@ labels:
 
 ***Thông tin***:
 
-[//]: # (Nếu bạn muốn thêm tên miền quảng cáo/lỗi, vui lòng đưa tên miền vào thẻ để tiện theo dõi.)
+[//]: # (Nếu bạn muốn thêm tên miền quảng cáo/theo dõi, vui lòng đưa tên miền vào thẻ để tiện theo dõi.)
 
 ```
 Chèn (các) tên miền quảng cáo/theo dõi mà bạn muốn thêm
