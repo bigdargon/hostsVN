@@ -1,7 +1,7 @@
 ---
 name: "[Lỗi] - Nhập tiêu đề"
 about: Mẫu báo lỗi
-labels: 
+labels: bug
 
 ---
 
