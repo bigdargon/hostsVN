@@ -1,7 +1,7 @@
 ---
 name: "[Thảo luận] - Nhập tiêu đề"
 about: Mẫu thảo luận
-labels: question
+labels: 
 
 ---
 
