@@ -1,7 +1,7 @@
 ---
 name: "[Thêm] - Nhập tiêu đề"
 about: Mẫu thêm mới tên miền
-labels: "question"
+labels: help wanted
 
 ---
 
