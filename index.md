@@ -29,7 +29,7 @@ Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặ
 |VPN tự bật khi khởi động|Không|**Có**|Không|**Có**|
 |Tự động cập nhật danh sách|**Có**|**Có**|Không|Không|
 |Điều chỉnh cập nhật|**Có thêm & xóa**|**Có thêm & xóa**|**Có thêm & xóa**|Chỉ thêm mới|
-|Tải về|[Tại đây](https://itunes.apple.com/app/surge-3-web-developer-tool/id1329879957?mt=8)|[Tại đây](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tại đây](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tại đây](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
+|Tải về|[Tại đây](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tại đây](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tại đây](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tại đây](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
 |Hướng dẫn sử dụng|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
 
 > Theo quan điểm cá nhân, mình cảm thấy `Surge` và `Adguard Pro` chặn tên miền quảng cáo khá mạnh mẽ. `Surge` miễn phí nhưng `VPN` không tự bật mỗi khi khởi động thiết bị, còn `Adguard Pro` tốn phí nhưng `VPN` luôn tự bật mỗi khi mở thiết bị.
