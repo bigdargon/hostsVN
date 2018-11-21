@@ -26,7 +26,7 @@ Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặ
 |Giá|**Miễn phí**|22.000 VND|69.000 VND|45.000 VND|
 |Mua trong ứng dụng|1.099.000 VND|**Không**|**Không**|**Không**|
 |Đặc điểm|Tool phân tích|Chặn quảng cáo|Tool phân tích|Chặn quảng cáo|
-|VPN bật khi khởi động|Không|**Có**|~Không~ **Có**|**Có**|
+|VPN bật khi khởi động|Không|**Có**|**Có**|**Có**|
 |Tự động cập nhật|**Có**|**Có**|Không|Không|
 |Điều chỉnh cập nhật|**Có thêm & xóa**|**Có thêm & xóa**|**Có thêm & xóa**|Chỉ thêm mới|
 |Tải về|[Tại đây](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tại đây](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tại đây](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tại đây](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
