@@ -1,6 +1,6 @@
 ---
-name: "[Thêm] - Nhập tiêu đề"
-about: Mẫu thêm mới tên miền
+name: "Thêm mới"
+about: Mẫu yêu cầu thêm mới tên miền bị chặn sót
 labels: 
 
 ---
