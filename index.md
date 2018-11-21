@@ -26,15 +26,15 @@ Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặ
 |Giá|**Miễn phí**|22.000 VND|69.000 VND|45.000 VND|
 |Mua trong ứng dụng|1.099.000 VND|**Không**|**Không**|**Không**|
 |Đặc điểm|Tool phân tích|Chặn quảng cáo|Tool phân tích|Chặn quảng cáo|
-|VPN tự bật khi khởi động|Không|**Có**|Không|**Có**|
-|Tự động cập nhật danh sách|**Có**|**Có**|Không|Không|
+|VPN bật khi khởi động|Không|**Có**|~Không~ **Có**|**Có**|
+|Tự động cập nhật|**Có**|**Có**|Không|Không|
 |Điều chỉnh cập nhật|**Có thêm & xóa**|**Có thêm & xóa**|**Có thêm & xóa**|Chỉ thêm mới|
 |Tải về|[Tại đây](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tại đây](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tại đây](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tại đây](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
-|Hướng dẫn sử dụng|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
+|Hướng dẫn|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
 
 > Theo quan điểm cá nhân, mình cảm thấy `Surge` và `Adguard Pro` chặn tên miền quảng cáo khá mạnh mẽ. `Surge` miễn phí nhưng `VPN` không tự bật mỗi khi khởi động thiết bị, còn `Adguard Pro` tốn phí nhưng `VPN` luôn tự bật mỗi khi mở thiết bị.
 
-**_Riêng hệ điều hành Android có 3 ứng dụng bạn có thể tham khảo dùng thử để chặn tên miền quảng cáo là [DNS66](https://github.com/bigdargon/hostsVN/wiki/Android#dns66), [Blokada](https://github.com/bigdargon/hostsVN/wiki/Android#blokada) và [Virtual Hosts](https://github.com/bigdargon/hostsVN/wiki/Android#virtual-hosts). Bạn có thể xem hướng dẫn ở [Wiki](https://github.com/bigdargon/hostsVN/wiki/Android)_**
+**_Riêng hệ điều hành Android có khá nhiều ứng dụng chặn quảng cáo bằng VPN, bạn có thể tham khảo dùng thử 3 ứng dụng sau [DNS66](https://github.com/bigdargon/hostsVN/wiki/Android#dns66), [Blokada](https://github.com/bigdargon/hostsVN/wiki/Android#blokada) và [Virtual Hosts](https://github.com/bigdargon/hostsVN/wiki/Android#virtual-hosts). Xem hướng dẫn đầy đủ ở [Wiki](https://github.com/bigdargon/hostsVN/wiki/Android)_.**
 
 # Câu hỏi thường gặp
 
