@@ -98,7 +98,6 @@ www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 video-stats.video.google.com
 clientmetrics-pa.googleapis.com
-imasdk.googleapis.com
 ads.gmodules.com
 www.gmodules.com
 displayads-formats.googleusercontent.com
@@ -6163,14 +6162,17 @@ api.b2c.com
 adserver.b2c.com
 cdn.adserver.b2c.com
 homevideo.b2c.com
-123c.vn
+servs.adblox.net
 access.adblox.net
+adblox.net
+services.adblox.net
+www.adblox.net
+123c.vn
 ad.24h.com.vn
 ad.mwork.vn
 ad.org.vn
 ad.vatgia.com
 ad.vkool.net
-adblox.net
 adchoice.com
 adchoice.com.vn
 adfox.vn
@@ -6184,6 +6186,7 @@ ads.ictnews.vn
 ads.tiki.vn
 ads1.careerbuilder.vn
 adsplus.vn
+adsv2.autodaily.vn
 adt.com.vn
 adx.kul.vn
 adx.xemvtv.net
@@ -6212,7 +6215,6 @@ qc.yan.vn
 quangcao.24h.com.vn
 quangcao.tuoitre.vn
 quangcao.thanhnien.vn
-services.adblox.net
 serving.ad.org.vn
 serving-ad.tv24.vn
 static.ad.org.vn
@@ -6227,11 +6229,9 @@ vclick.vn
 vietbuzzad.com
 vietdorje.com
 vinaads.vn
-www.adblox.net
 www.adt.com.vn
 www.vietdorje.com
 zone.uniad.vn
-adsv2.autodaily.vn
 alexajstrack.com
 analytics.bkav.com
 log.baomoi.com
