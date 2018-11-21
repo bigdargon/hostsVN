@@ -1,6 +1,6 @@
 ---
-name: "[Thêm] - Nhập tiêu đề"
-about: Mẫu thêm mới tên miền
+name: "Thêm mới"
+about: Mẫu yêu cầu thêm mới tên miền bị chặn sót
 labels: 
 
 ---
@@ -12,5 +12,5 @@ labels:
 [//]: # (Nếu bạn muốn thêm tên miền quảng cáo/theo dõi, vui lòng đưa tên miền vào thẻ để tiện theo dõi.)
 
 ```
-Chèn (các) tên miền quảng cáo/theo dõi mà bạn muốn thêm
+Ghi (các) tên miền quảng cáo/theo dõi mà bạn muốn thêm
 ```
