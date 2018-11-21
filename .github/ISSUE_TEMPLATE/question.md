@@ -1,7 +1,7 @@
 ---
-name: "[Thảo luận] - Nhập tiêu đề"
-about: Mẫu thảo luận
-labels: 
+name: "Thảo luận"
+about: Mẫu để bạn thảo luận, đặt câu hỏi
+labels: question
 
 ---
 
