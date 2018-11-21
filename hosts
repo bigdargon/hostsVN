@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 19 Nov 2018
+# Last modified: 21 Nov 2018
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -111,7 +111,6 @@
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 clientmetrics-pa.googleapis.com
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 ads.gmodules.com
 0.0.0.0 www.gmodules.com
 0.0.0.0 displayads-formats.googleusercontent.com
@@ -6438,16 +6437,20 @@
 0.0.0.0 adserver.b2c.com
 0.0.0.0 cdn.adserver.b2c.com
 0.0.0.0 homevideo.b2c.com
+#[adblox]
+0.0.0.0 servs.adblox.net
+0.0.0.0 access.adblox.net
+0.0.0.0 adblox.net
+0.0.0.0 services.adblox.net
+0.0.0.0 www.adblox.net
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
-0.0.0.0 access.adblox.net
 0.0.0.0 ad.24h.com.vn
 0.0.0.0 ad.mwork.vn
 0.0.0.0 ad.org.vn
 0.0.0.0 ad.vatgia.com
 0.0.0.0 ad.vkool.net
-0.0.0.0 adblox.net
 0.0.0.0 adchoice.com
 0.0.0.0 adchoice.com.vn
 0.0.0.0 adfox.vn
@@ -6461,6 +6464,7 @@
 0.0.0.0 ads.tiki.vn
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 adsplus.vn
+0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adt.com.vn
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.xemvtv.net
@@ -6489,7 +6493,6 @@
 0.0.0.0 quangcao.24h.com.vn
 0.0.0.0 quangcao.tuoitre.vn
 0.0.0.0 quangcao.thanhnien.vn
-0.0.0.0 services.adblox.net
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 static.ad.org.vn
@@ -6504,11 +6507,9 @@
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vinaads.vn
-0.0.0.0 www.adblox.net
 0.0.0.0 www.adt.com.vn
 0.0.0.0 www.vietdorje.com
 0.0.0.0 zone.uniad.vn
-0.0.0.0 adsv2.autodaily.vn
 #[trackingVN]
 0.0.0.0 alexajstrack.com
 0.0.0.0 analytics.bkav.com
