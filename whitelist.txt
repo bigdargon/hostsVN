@@ -14,3 +14,8 @@ connect.facebook.net
 
 !https://github.com/bigdargon/hostsVN/issues/72
 imasdk.googleapis.com
+
+# Block wrong
+
+!https://github.com/bigdargon/hostsVN/issues/79
+s3-ap-southeast-1.amazonaws.com
