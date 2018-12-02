@@ -1,10 +1,10 @@
 # Title: hostsVN-only
-# Last modified: 21 Nov 2018
+# Last modified: 02 Dec 2018
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
 # Report issues: https://github.com/bigdargon/hostsVN/issues
-# Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
+# Download: https://github.com/bigdargon/hostsVN/raw/master/extend/hostsVN-only.txt
 #
 # =====================================================
 
@@ -1221,4 +1221,5 @@
 0.0.0.0 www.fuckbookvietnam.com
 0.0.0.0 xmobliefacebook.com
 0.0.0.0 www.xmobliefacebook.com
+0.0.0.0 sukientraogiaizalo.com
 # END hostsVN ---
