@@ -45,6 +45,11 @@ Mac OS X, iOS, Android, Linux: /etc/hosts
 
 Windows: %SystemRoot%\system32\drivers\etc\hosts
 
+## Danh sách chỉ bao gồm tên miền
+```
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+```
+
 ***
 
 **Truy cập [trang Wiki](https://github.com/bigdargon/hostsVN/wiki) để biết thêm chi tiết các bài hướng dẫn. Chúc các bạn thành công!**
