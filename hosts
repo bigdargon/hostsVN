@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 05 Dec 2018
+# Last modified: 08 Dec 2018
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -6687,6 +6687,121 @@
 0.0.0.0 script.wpm.neustar.biz
 0.0.0.0 static.wpm.neustar.biz
 0.0.0.0 wpm.neustar.biz
+#[adsrvr]
+0.0.0.0 a.adsrvr.org
+0.0.0.0 ad.adsrvr.org
+0.0.0.0 ads.adsrvr.org
+0.0.0.0 adsrvr.org
+0.0.0.0 apa.match.adsrvr.org
+0.0.0.0 apa-sha.adsrvr.org
+0.0.0.0 apa-sin.adsrvr.org
+0.0.0.0 apa-tok.adsrvr.org
+0.0.0.0 aps.insight.adsrvr.org
+0.0.0.0 aps-insight.adsrvr.org
+0.0.0.0 apt.insight.adsrvr.org
+0.0.0.0 apt.match.adsrvr.org
+0.0.0.0 apt-insight.adsrvr.org
+0.0.0.0 cna.rtb.adsrvr.org
+0.0.0.0 data.adsrvr.org
+0.0.0.0 datapipe.adsrvr.org
+0.0.0.0 direct.adsrvr.org
+0.0.0.0 docker.adsrvr.org
+0.0.0.0 eua.insight.adsrvr.org
+0.0.0.0 eur-ukp.adsrvr.org
+0.0.0.0 euw.fb.adsrvr.org
+0.0.0.0 euwdirect.adsrvr.org
+0.0.0.0 euwfb.adsrvr.org
+0.0.0.0 euwvideo.adsrvr.org
+0.0.0.0 fb.adsrvr.org
+0.0.0.0 foreman.adsrvr.org
+0.0.0.0 foreman.use.adsrvr.org
+0.0.0.0 html5.adsrvr.org
+0.0.0.0 idp.adsrvr.org
+0.0.0.0 import.adsrvr.org
+0.0.0.0 innocean-insight.adsrvr.org
+0.0.0.0 insight.adsrvr.org
+0.0.0.0 js.adsrvr.org
+0.0.0.0 k8dev.adsrvr.org
+0.0.0.0 k8int.adsrvr.org
+0.0.0.0 k8prd.adsrvr.org
+0.0.0.0 lax.rtb.adsrvr.org
+0.0.0.0 lon.rtb.adsrvr.org
+0.0.0.0 match.adsrvr.org
+0.0.0.0 mogointeractive-insight.adsrvr.org
+0.0.0.0 offlineattrib.adsrvr.org
+0.0.0.0 opsplatform.adsrvr.org
+0.0.0.0 ops-self-service.adsrvr.org
+0.0.0.0 ox-data.adsrvr.org
+0.0.0.0 pixel.adsrvr.org
+0.0.0.0 post.update.adsrvr.org
+0.0.0.0 pst.adsrvr.org
+0.0.0.0 pull.docker.adsrvr.org
+0.0.0.0 push.docker.adsrvr.org
+0.0.0.0 r-data.adsrvr.org
+0.0.0.0 rtb.adsrvr.org
+0.0.0.0 s.update.adsrvr.org
+0.0.0.0 sin.fb.adsrvr.org
+0.0.0.0 sindirect.adsrvr.org
+0.0.0.0 sinfb.adsrvr.org
+0.0.0.0 sinvideo.adsrvr.org
+0.0.0.0 snap.adsrvr.org
+0.0.0.0 t.update.adsrvr.org
+0.0.0.0 tdid.adsrvr.org
+0.0.0.0 tokfb.adsrvr.org
+0.0.0.0 tokvideo.adsrvr.org
+0.0.0.0 tor.rtb.adsrvr.org
+0.0.0.0 thales.adsrvr.org
+0.0.0.0 trk-sha.adsrvr.org
+0.0.0.0 ukp.rtb.adsrvr.org
+0.0.0.0 upsight.adsrvr.org
+0.0.0.0 use.adsrvr.org
+0.0.0.0 use.fb.adsrvr.org
+0.0.0.0 use-data.adsrvr.org
+0.0.0.0 usedirect.adsrvr.org
+0.0.0.0 usefb.adsrvr.org
+0.0.0.0 use-foreman1.use.adsrvr.org
+0.0.0.0 use-foreman2.use.adsrvr.org
+0.0.0.0 use-foreman3.use.adsrvr.org
+0.0.0.0 use-foreman4.use.adsrvr.org
+0.0.0.0 use-foremanproxy1.use.adsrvr.org
+0.0.0.0 use-tor.adsrvr.org
+0.0.0.0 use-va1.adsrvr.org
+0.0.0.0 usevideo.adsrvr.org
+0.0.0.0 usw.fb.adsrvr.org
+0.0.0.0 usw-ads.adsrvr.org
+0.0.0.0 uswdirect.adsrvr.org
+0.0.0.0 uswfb.adsrvr.org
+0.0.0.0 usw-lax.adsrvr.org
+0.0.0.0 usw-lax2.adsrvr.org
+0.0.0.0 uswvideo.adsrvr.org
+0.0.0.0 v.adsrvr.org
+0.0.0.0 video.adsrvr.org
+0.0.0.0 view.adsrvr.org
+0.0.0.0 www.adsrvr.org
+#[cxense]
+0.0.0.0 adserver.cxad.cxense.com
+0.0.0.0 adserver.sandbox.cxad.cxense.com
+0.0.0.0 cdn.cxense.com
+0.0.0.0 comcluster.cxense.com
+0.0.0.0 cxad.cxense.com
+0.0.0.0 cxense.com
+0.0.0.0 fairfax.cxsearch.cxense.com
+0.0.0.0 rscdn.cxense.com
+0.0.0.0 s-adserver.cxad.cxense.com
+0.0.0.0 s-adserver.sandbox.cxad.cxense.com
+0.0.0.0 scdn.cxense.com
+0.0.0.0 scomcluster.cxense.com
+0.0.0.0 sp1cluster.cxense.com
+#[onscroll]
+0.0.0.0 cdn.onscroll.com
+0.0.0.0 impl.onscroll.com
+0.0.0.0 impl.us.onscroll.com
+0.0.0.0 metrics-collector.onscroll.com
+0.0.0.0 ms.onscroll.com
+0.0.0.0 onscroll.com
+0.0.0.0 ping.onscroll.com
+0.0.0.0 tags.onscroll.com
+0.0.0.0 tags.us.onscroll.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -7583,6 +7698,7 @@
 0.0.0.0 ads.rottentomatoes.com
 0.0.0.0 ads.rpgdot.com
 0.0.0.0 ads.s3.sitepoint.com
+0.0.0.0 ads.samba.tv
 0.0.0.0 ads.satyamonline.com
 0.0.0.0 ads.savannahnow.com
 0.0.0.0 ads.saymedia.com
@@ -7836,7 +7952,6 @@
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adsrv.eacdn.com
 0.0.0.0 adsrv.iol.co.za
-0.0.0.0 adsrvr.org
 0.0.0.0 adsstat.com
 0.0.0.0 adstage.io
 0.0.0.0 adstat.4u.pl
@@ -8472,6 +8587,7 @@
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 confirmed-profits.com
 0.0.0.0 connatix.com
+0.0.0.0 connect.scroll.com
 0.0.0.0 connextra.com
 0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
@@ -8562,7 +8678,6 @@
 0.0.0.0 customad.cnn.com
 0.0.0.0 cutecushion.com
 0.0.0.0 cuteturkey.com
-0.0.0.0 cxense.com
 0.0.0.0 cyberbounty.com
 0.0.0.0 cybermonitor.com
 0.0.0.0 ch.questionmarket.com
@@ -9169,6 +9284,7 @@
 0.0.0.0 lib.vmweb.net
 0.0.0.0 liftdna.com
 0.0.0.0 ligatus.de
+0.0.0.0 lightboxcdn.com
 0.0.0.0 lightcushion.com
 0.0.0.0 lightningcast.net
 0.0.0.0 lightspeedcash.com
@@ -9518,7 +9634,6 @@
 0.0.0.0 onlinerewardcenter.com
 0.0.0.0 on-mobi.com
 0.0.0.0 onmobile.com
-0.0.0.0 onscroll.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 openad.tf1.fr
 0.0.0.0 openad.travelnow.com
@@ -9621,6 +9736,7 @@
 0.0.0.0 pixel.digitru.st
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel.mediaiqdigital.com
+0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.personagraph.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.sojern.com
@@ -10000,6 +10116,7 @@
 0.0.0.0 somniture.stuff.co.nz
 0.0.0.0 songdew.pushengage.com
 0.0.0.0 sortable.com
+0.0.0.0 spa.chiji8.info
 0.0.0.0 spacash.com
 0.0.0.0 sparkstudios.com
 0.0.0.0 specially4u.net
@@ -10057,6 +10174,7 @@
 0.0.0.0 static.dable.io
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.itrack.it
+0.0.0.0 static.scroll.com
 0.0.0.0 static.thedevband.com
 0.0.0.0 staticads.btopenworld.com
 0.0.0.0 statistik-gallup.net
@@ -10138,6 +10256,7 @@
 0.0.0.0 t.purch.com
 0.0.0.0 t.pusk.ru
 0.0.0.0 tacoda.net
+0.0.0.0 tag.mtrcs.samba.tv
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tagular.com
 0.0.0.0 tailsweep.co.uk
@@ -10503,6 +10622,7 @@
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.ketchapp.org
 0.0.0.0 www.lecap-services.fr
+0.0.0.0 www.lightboxcdn.com
 0.0.0.0 www.maxonclick.com
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.myadsystem.com
