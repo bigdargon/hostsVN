@@ -10,7 +10,7 @@
 
 # Một số bài đăng
 
-* [Hướng dẫn chặn quảng cáo trong apps bằng Surge, Adguard Pro, Shadowrocket và Adblock](https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-apps-bang-surge-adguard-pro-shadowrocket-va-adblock.2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @iFeed-er @se7venl0v3_198 đã tích cực theo dõi, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @thanhnh091 đã úp thớt mỗi khi có cập nhật để không trôi bài._
+* [Hướng dẫn chặn quảng cáo trong apps bằng Surge, Adguard Pro, Shadowrocket và Adblock](https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-apps-bang-surge-adguard-pro-shadowrocket-va-adblock.2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @iFeed-er @se7venl0v3_198 @loveleeyoungae đã tích cực theo dõi, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @thanhnh091 đã úp thớt mỗi khi có cập nhật để không trôi bài._
 
 * [Hướng dẫn chặn quảng cáo trên Safari bằng Adguard](https://tinhte.vn/threads/huong-dan-chan-quang-cao-tren-safari-bang-adguard.2871474/)
 
