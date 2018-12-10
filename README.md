@@ -10,7 +10,7 @@ Hosts block ads of Vietnamese - Hosts chặn quảng cáo của người Việt
 
 ## iOS
 
-- Với ứng dụng [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge), [Shadowrocket](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket) và [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) sử dụng tập tin cấu hình dưới đây:
+- Với ứng dụng [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) và [Shadowrocket](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket) sử dụng tập tin cấu hình dưới đây:
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN.conf
 ```
