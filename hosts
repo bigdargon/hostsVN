@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 08 Dec 2018
+# Last modified: 16 Dec 2018
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -6802,6 +6802,36 @@
 0.0.0.0 ping.onscroll.com
 0.0.0.0 tags.onscroll.com
 0.0.0.0 tags.us.onscroll.com
+#[zcoup]
+0.0.0.0 api.zcoup.com
+0.0.0.0 image.zcoup.com
+0.0.0.0 logger.zcoup.com
+0.0.0.0 v.zcoup.com
+0.0.0.0 www.zcoup.com
+0.0.0.0 zcoup.com
+#[glispa]
+0.0.0.0 ads.glispa.com
+0.0.0.0 api.glispa.com
+0.0.0.0 cdn.thumbs.glispa.com
+0.0.0.0 exp.glispa.com
+0.0.0.0 exp.platform.glispa.com
+0.0.0.0 glispa.com
+0.0.0.0 media.glispa.com
+0.0.0.0 platform.glispa.com
+0.0.0.0 rt.api.glispa.com
+0.0.0.0 rtb.platform.glispa.com
+0.0.0.0 thumbs.glispa.com
+0.0.0.0 trk.glispa.com
+#[clickhubs]
+0.0.0.0 clickhubs.com
+0.0.0.0 subtrack.clickhubs.com
+0.0.0.0 subat.clickhubs.com
+0.0.0.0 track.clickhubs.com
+#[ambimob]
+0.0.0.0 ambimob.com
+0.0.0.0 click.ambimob.com
+0.0.0.0 log.ambimob.com
+0.0.0.0 imp.ambimob.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -7555,7 +7585,6 @@
 0.0.0.0 ads.gawker.com
 0.0.0.0 ads.geekswithblogs.net
 0.0.0.0 ads.getlucky.com
-0.0.0.0 ads.glispa.com
 0.0.0.0 ads.globeandmail.com
 0.0.0.0 ads.godlikeproductions.com
 0.0.0.0 ads.goyk.com
@@ -8510,6 +8539,7 @@
 0.0.0.0 click.fool.com
 0.0.0.0 click.howdoesin.net
 0.0.0.0 click.kmindex.ru
+0.0.0.0 click.rayads.cn
 0.0.0.0 click2freemoney.com
 0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
@@ -9116,6 +9146,7 @@
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 iadctest.qwapi.com
 0.0.0.0 iadnet.com
+0.0.0.0 iapclick.gowadogo.com
 0.0.0.0 iasds01.com
 0.0.0.0 i-clicks.net
 0.0.0.0 iconadserver.com
@@ -9882,6 +9913,7 @@
 0.0.0.0 raresummer.com
 0.0.0.0 rate.ru
 0.0.0.0 ratings.lycos.com
+0.0.0.0 rayads.cn
 0.0.0.0 rb1.design.ru
 0.0.0.0 reactx.com
 0.0.0.0 reachjunction.com
@@ -10963,6 +10995,7 @@
 0.0.0.0 bxzxw.net
 0.0.0.0 by.uservoice.com
 0.0.0.0 c.go-mpulse.net
+0.0.0.0 c.snnd.co
 0.0.0.0 c.webengage.com
 0.0.0.0 c2i-cdn.startappnetwork.com
 0.0.0.0 cabomarlinisportfishing.com
@@ -11493,6 +11526,7 @@
 0.0.0.0 qgsruo.com
 0.0.0.0 qqmeise.com
 0.0.0.0 r.3gl.net
+0.0.0.0 r1.snnd.co
 0.0.0.0 rafastudio.nl
 0.0.0.0 rebisihut.com
 0.0.0.0 rebotstat.com
@@ -11569,6 +11603,7 @@
 0.0.0.0 smartpx.io
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 smetrics.boston.com
+0.0.0.0 snnd.co
 0.0.0.0 snrp.uglyas.com
 0.0.0.0 sociaplus.com
 0.0.0.0 softtube.cn
@@ -11907,7 +11942,6 @@
 0.0.0.0 fus.walla.co.il
 0.0.0.0 fus.yad2.co.il
 0.0.0.0 genericsteps.com
-0.0.0.0 glispa.com
 0.0.0.0 goodadvert.com.ua
 0.0.0.0 googeadsserving.cn
 0.0.0.0 gowadogo.com
