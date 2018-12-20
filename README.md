@@ -15,6 +15,11 @@ Hosts block ads of Vietnamese - Hosts chặn quảng cáo của người Việt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN.conf
 ```
 
+- - Với ứng dụng Quantumilt sử dụng tập tin cấu hình dưới đây:
+```
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult.conf
+```
+
 - Với ứng dụng [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) và [Adblock](https://github.com/bigdargon/hostsVN/wiki/Adblock) sử dụng tập tin hosts dưới đây:
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
