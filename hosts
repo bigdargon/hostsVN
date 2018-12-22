@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 16 Dec 2018
+# Last modified: 22 Dec 2018
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -1843,6 +1843,7 @@
 0.0.0.0 l.qq.com
 0.0.0.0 l2.l.qq.com
 0.0.0.0 m.bugly.qq.com
+0.0.0.0 mi.gdt.qq.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 p.l.qq.com
 0.0.0.0 p2.l.qq.com
@@ -1857,6 +1858,7 @@
 0.0.0.0 rs1.qq.com
 0.0.0.0 rs2.qq.com
 0.0.0.0 scdown.qq.com
+0.0.0.0 sdk.e.qq.com
 0.0.0.0 show-msgch.qq.com
 0.0.0.0 tcss.qq.com
 0.0.0.0 test-astat.bugly.qq.com
@@ -3878,6 +3880,7 @@
 0.0.0.0 api.beta.branch.io
 0.0.0.0 api.branch.io
 0.0.0.0 api.qa.branch.io
+0.0.0.0 api2.branch.io
 0.0.0.0 blog.branch.io
 0.0.0.0 branch.io
 0.0.0.0 cdn.branch.io
@@ -6832,6 +6835,14 @@
 0.0.0.0 click.ambimob.com
 0.0.0.0 log.ambimob.com
 0.0.0.0 imp.ambimob.com
+#[inner-active]
+0.0.0.0 ad-tag.inner-active.mobi
+0.0.0.0 cdn1.inner-active.mobi
+0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 event.inner-active.mobi
+0.0.0.0 inner-active.mobi
+0.0.0.0 m2m1.inner-active.mobi
+0.0.0.0 wv.inner-active.mobi
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -9201,7 +9212,6 @@
 0.0.0.0 infolinks.com
 0.0.0.0 information.com
 0.0.0.0 inner-active.com
-0.0.0.0 inner-active.mobi
 0.0.0.0 innocentwax.com
 0.0.0.0 innovid.com
 0.0.0.0 inquisitiveinvention.com
