@@ -10,7 +10,7 @@
 
 # Một số bài viết liên quan
 
-* [Hướng dẫn chặn quảng cáo trong ứng dụng bằng Surge, Adguard Pro, Shadowrocket và Adblock](https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-ung-dung-bang-surge-adguard-pro-shadowrocket-va-adblock.2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @iFeed-er @se7venl0v3_198 @loveleeyoungae đã tích cực theo dõi, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @thanhnh091 đã úp thớt mỗi khi có cập nhật để không trôi bài._
+* [Hướng dẫn chặn quảng cáo trong ứng dụng bằng Surge, Adguard Pro, Quantumult, Shadowrocket và Adblock](https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-ung-dung-bang-surge-adguard-pro-quantumult-shadowrocket-va-adblock.2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @iFeed-er @se7venl0v3_198 @loveleeyoungae đã tích cực tham gia theo dõi, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @thanhnh091 đã úp thớt mỗi khi có cập nhật để không trôi bài._
 
 * [Hướng dẫn chặn quảng cáo trên Safari bằng Adguard](https://tinhte.vn/threads/huong-dan-chan-quang-cao-tren-safari-bang-adguard.2871474/)
 
@@ -20,21 +20,23 @@
 
 Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặn quảng cáo, mỗi ứng dụng có ưu và khuyết điểm khác nhau. Tùy vào nhu cầu mỗi người mà chọn ứng dụng cho phù hợp. 
 
-|   |**Surge**|**Adguard Pro**|**Shadowrocket**|**Adblock**|
-|:-|:-:|:-:|:-:|:-:|
-|iOS hỗ trợ|iOS 10|iOS 10|iOS 9|iOS 10|
-|Giá|**Miễn phí**|22.000 VND|69.000 VND|45.000 VND|
-|Mua trong ứng dụng|1.099.000 VND|**Không**|**Không**|**Không**|
-|Đặc điểm|Tool phân tích|Chặn quảng cáo|Tool phân tích|Chặn quảng cáo|
-|VPN bật khi khởi động|Không|**Có**|**Có**|**Có**|
-|Tự động cập nhật|**Có**|**Có**|Không|Không|
-|Điều chỉnh cập nhật|**Có thêm & xóa**|**Có thêm & xóa**|**Có thêm & xóa**|Chỉ thêm mới|
-|Tải về|[Tại đây](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tại đây](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tại đây](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tại đây](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
-|Hướng dẫn|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
+|   |**Surge**|**Adguard Pro**|**Quantumult**|**Shadowrocket**|**Adblock**|
+|:-|:-:|:-:|:-:|:-:|:-:|
+|iOS hỗ trợ|iOS 10|iOS 10|iOS 10|iOS 9|iOS 10|
+|Giá|**Miễn phí**|22.000 VND|109.000 VND|69.000 VND|45.000 VND|
+|Mua trong ứng dụng|1.099.000 VND|**Không**|**Không**|**Không**|**Không**|
+|Đặc điểm|Tool phân tích|Chặn quảng cáo|Tool phân tích|Tool phân tích|Chặn quảng cáo|
+|VPN bật khi khởi động|Không|**Có**|Không|**Có**|**Có**|
+|Tự động cập nhật|**Có**|**Có**|Không|Không|Không|
+|Điều chỉnh cập nhật|**Có thêm & xóa**|**Có thêm & xóa**|**Có thêm & xóa**|**Có thêm & xóa**|Chỉ thêm mới|
+|Tải về|[Tại đây](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tại đây](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tại đây](https://itunes.apple.com//app/quantumult/id1252015438?mt=8)|[Tại đây](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tại đây](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
+|Hướng dẫn|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Quantumult)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
 
-> Theo quan điểm cá nhân, mình cảm thấy `Surge` và `Adguard Pro` chặn tên miền quảng cáo khá mạnh mẽ. `Surge` miễn phí nhưng `VPN` không tự bật mỗi khi khởi động thiết bị, còn `Adguard Pro` tốn phí nhưng `VPN` luôn tự bật mỗi khi mở thiết bị.
+Vậy chọn ứng dụng nào phù hợp? Theo kinh nghiệm cá nhân của mình
+- Xét về **miễn phí**, bạn có thể chọn [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) kết hợp với [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard)
+- Xét về khả năng **chặn tốt nhất**, bạn nên chọn [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) kết hợp với [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard)
 
-**_Riêng hệ điều hành Android có khá nhiều ứng dụng chặn quảng cáo bằng VPN, bạn có thể tham khảo dùng thử 3 ứng dụng sau [DNS66](https://github.com/bigdargon/hostsVN/wiki/Android#dns66), [Blokada](https://github.com/bigdargon/hostsVN/wiki/Android#blokada) và [Virtual Hosts](https://github.com/bigdargon/hostsVN/wiki/Android#virtual-hosts). Xem hướng dẫn đầy đủ ở [Wiki](https://github.com/bigdargon/hostsVN/wiki/Android)_.**
+**_Riêng hệ điều hành Android có khá nhiều ứng dụng chặn quảng cáo bằng VPN, bạn có thể tham khảo dùng thử các ứng dụng sau [DNS66](https://github.com/bigdargon/hostsVN/wiki/Android#dns66), [Blokada](https://github.com/bigdargon/hostsVN/wiki/Android#blokada), [Virtual Hosts](https://github.com/bigdargon/hostsVN/wiki/Android#virtual-hosts) và [Adhell](https://github.com/bigdargon/hostsVN/wiki/Android#adhell) dành riêng cho Knox máy Samsung. Xem hướng dẫn đầy đủ ở [Wiki](https://github.com/bigdargon/hostsVN/wiki/Android)_.**
 
 # Câu hỏi thường gặp
 
@@ -48,14 +50,15 @@ Bạn có thể sử dụng một số ứng dụng và tham khảo hướng d�
 
 * Surge - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Surge)
 * Adguard Pro - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)
+* Quantumult - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
 * Shadowrocket - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)
 * Adblock - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Adblock)
 
-> Adblock và Adguard Pro là các ứng dụng chặn quảng cáo. Còn Shadowrocket và Surge là các ứng dụng lập trình, kiểm tra trang web và mình tận dụng để chặn quảng cáo.
+> Adblock và Adguard Pro là các ứng dụng chặn quảng cáo. Còn Quantumult, Shadowrocket và Surge là các ứng dụng lập trình, kiểm tra trang web và mình tận dụng để chặn quảng cáo.
 
 ## Các ứng dụng ở trên sử dụng cho hệ điều hành iOS, vậy tôi có thể dùng cho các hệ điều hành khác hay không?
 
-Tất nhiên là được, bạn có thể dùng tập tin `hosts` (tải về [tại đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts)) để dùng cho các các hệ điều khác như Windows, Mac OS X, iOS (đã jailbreak), Android (đã root), Linux. Nếu bạn sử dụng hệ điều hành Android (chưa root) không cho phép truy cập hệ thống thì bạn có thể tham khảo 1 số ứng dụng lọc DNS như [Blokada](https://blokada.org/#download), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66/), [Virtual Hosts](https://play.google.com/store/apps/details?id=com.github.xfalcon.vhosts)...
+Tất nhiên là được, bạn có thể dùng tập tin `hosts` (tải về [tại đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts)) để dùng cho các các hệ điều khác như Windows, Mac OS X, iOS (đã jailbreak), Android (đã root), Linux. Nếu bạn sử dụng hệ điều hành Android (chưa root) không cho phép truy cập hệ thống thì bạn có thể tham khảo 1 số ứng dụng lọc DNS như [Blokada](https://blokada.org/#download), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66/), [Virtual Hosts](https://play.google.com/store/apps/details?id=com.github.xfalcon.vhosts), [Adhell](https://github.com/bigdargon/hostsVN/wiki/Android#adhell)...
 
 Bạn có thể xem thêm bài viết cho hệ điều hành Android [tại đây](https://github.com/bigdargon/hostsVN/wiki/Android).
 
