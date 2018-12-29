@@ -1,5 +1,5 @@
 # Title: hostsVN-extend
-# Last modified: 22 Dec 2018
+# Last modified: 29 Dec 2018
 # Extended block list, which can cause errors in some applications
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -6843,6 +6843,13 @@
 0.0.0.0 inner-active.mobi
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 wv.inner-active.mobi
+#[adthor]
+0.0.0.0 adthor.com
+0.0.0.0 api.adthor.com
+0.0.0.0 image.adthor.com
+0.0.0.0 logger.adthor.com
+0.0.0.0 static.adthor.com
+0.0.0.0 v.adthor.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -6877,6 +6884,7 @@
 0.0.0.0 click.uniad.vn
 0.0.0.0 click.xdeal.vn
 0.0.0.0 client.vads.net.vn
+0.0.0.0 clipbongda.info
 0.0.0.0 clix.vn
 0.0.0.0 cms.vinaads.vn
 0.0.0.0 delivery.senvangvn.com
@@ -6889,6 +6897,7 @@
 0.0.0.0 mobileads.dieuviet.com
 0.0.0.0 myad.vn
 0.0.0.0 polyad.galaxypub.vn
+0.0.0.0 phimmedia03.com
 0.0.0.0 qc.yan.vn
 0.0.0.0 quangcao.24h.com.vn
 0.0.0.0 quangcao.tuoitre.vn
