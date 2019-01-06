@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 29 Dec 2018
+# Last modified: 06 Jan 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -6850,6 +6850,14 @@
 0.0.0.0 logger.adthor.com
 0.0.0.0 static.adthor.com
 0.0.0.0 v.adthor.com
+#[nixozz]
+0.0.0.0 api.nixozz.com
+0.0.0.0 auth.nixozz.com
+0.0.0.0 balance.nixozz.com
+0.0.0.0 configs.nixozz.com
+0.0.0.0 inapp.nixozz.com
+0.0.0.0 nixozz.com
+0.0.0.0 profile.nixozz.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -10867,11 +10875,13 @@
 0.0.0.0 alruno.home.pl
 0.0.0.0 alsera.de
 0.0.0.0 amo122.com
+0.0.0.0 amplify.outbrain.com
 0.0.0.0 ampmetrics.techcrunch.com
 0.0.0.0 amskrupajal.org
 0.0.0.0 amusecity.com
 0.0.0.0 anafartalartml.k12.tr
 0.0.0.0 analysis.polarisoffice.com
+0.0.0.0 analytiall.com
 0.0.0.0 analytics.247sports.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.bitrix.info
@@ -11211,6 +11221,7 @@
 0.0.0.0 flipvine.com
 0.0.0.0 floridayachtpartners.com
 0.0.0.0 fm120.com
+0.0.0.0 forecast.analytiall.com
 0.0.0.0 foxionserl.com
 0.0.0.0 freemasstraffic.com
 0.0.0.0 freightmatellc.com
@@ -11454,6 +11465,7 @@
 0.0.0.0 mjw.or.kr
 0.0.0.0 mkhafnorcu81.com
 0.0.0.0 mmexe.com
+0.0.0.0 m-motu.doglobal.net
 0.0.0.0 moacbeniv.com
 0.0.0.0 mobile-safety.org
 0.0.0.0 moblao.com
@@ -11595,6 +11607,7 @@
 0.0.0.0 schibsted.com
 0.0.0.0 schibsted.io
 0.0.0.0 school-bgd.ru
+0.0.0.0 sdk.analytiall.com
 0.0.0.0 sdkupgrade.insight.ucweb.com
 0.0.0.0 secure-account-national-australia-bank.com.au-servive-customer-online.asiamusicme.com
 0.0.0.0 securesoft.info
@@ -11638,6 +11651,7 @@
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 sstats.adobe.com
 0.0.0.0 stabroom.cn
+0.0.0.0 stat.analytiall.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.leaddyno.com
 0.0.0.0 stats.betradar.com
