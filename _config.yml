@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
