@@ -1,11 +1,3 @@
-<head>
-<link rel="icon" type="image/x-icon" href="favicon/favicon.ico">
-<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
-<link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#ff0000">
-</head>
-
 ![](https://raw.githubusercontent.com/bigdargon/hostsVN/gh-pages/logo.png)
 
 [![created](https://img.shields.io/badge/created-02%20jul%202018-brightgreen.svg)](https://bigdargon.github.io/hostsVN/) [![GitHub last commit](https://img.shields.io/github/last-commit/bigdargon/hostsVN.svg)](https://github.com/bigdargon/hostsVN/commits/master) [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/bigdargon/hostsVN.svg)](https://github.com/bigdargon/hostsVN)  [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/bigdargon/hostsVN.svg)](https://github.com/bigdargon/hostsVN/issues?q=is%3Aissue+is%3Aclosed) [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/bigdargon/hostsVN.svg)](https://github.com/bigdargon/hostsVN/pulls?q=is%3Apr+is%3Aclosed) [![HitCount](http://hits.dwyl.io/bigdargon/hostsVN.svg)](https://bigdargon.github.io/hostsVN/) [![license](https://img.shields.io/github/license/bigdargon/hostsVN.svg)](https://github.com/bigdargon/hostsVN/blob/master/LICENSE)
