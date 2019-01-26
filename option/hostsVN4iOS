@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 06 Jan 2019
+# Last modified: 26 Jan 2019
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -2300,6 +2300,32 @@
 0 wiki.appboy.com
 0 lacerta.iad-03.appboy.com
 0 venetia.iad.appboy.com
+0 02.iad.appboy.com
+0 akar.iad.appboy.com
+0 andromeda.iad.appboy.com
+0 apus.iad.appboy.com
+0 aries.iad.appboy.com
+0 axion.iad.appboy.com
+0 carina.iad.appboy.com
+0 cepheus.iad.appboy.com
+0 customer.iad.appboy.com
+0 equuleus.iad.appboy.com
+0 fornax.iad.appboy.com
+0 galvatron.iad.appboy.com
+0 hercules.iad.appboy.com
+0 hoag.iad.appboy.com
+0 horologium.iad.appboy.com
+0 jlog.iad.appboy.com
+0 lacerta.iad.appboy.com
+0 mensa.iad.appboy.com
+0 mixmaster.iad.appboy.com
+0 pub-services.iad.appboy.com
+0 pyxis.iad.appboy.com
+0 sdk-03.iad.appboy.com
+0 sdk-orion.appboy.comnulled.iad.appboy.com
+0 vela.iad.appboy.com
+0 www.services.iad.appboy.com
+0 wyvern.iad.appboy.com
 #[adnxs]
 0 acdn.adnxs.com
 0 adnxs.com
@@ -6858,6 +6884,61 @@
 0 inapp.nixozz.com
 0 nixozz.com
 0 profile.nixozz.com
+#[appadhoc]
+0 appadhoc.com
+0 cdn-api.appadhoc.com
+0 console.appadhoc.com
+0 count.appadhoc.com
+0 editor.appadhoc.com
+0 experiment.appadhoc.com
+0 h5.appadhoc.com
+0 sdk.appadhoc.com
+0 tracker.appadhoc.com
+0 www.appadhoc.com
+0 zhtest.appadhoc.com
+#[batmobi]
+0 batmobi.net
+0 ab.batmobi.net
+0 ac.batmobi.net
+0 adx.callback.batmobi.net
+0 an.batmobi.net
+0 api.batmobi.net
+0 api.dsp.batmobi.net
+0 api2.batmobi.net
+0 api5.batmobi.net
+0 cdn.batmobi.net
+0 d.batmobi.net
+0 dsp.batmobi.net
+0 gtsdk.batmobi.net
+0 load.batmobi.net
+0 mcdn.batmobi.net
+0 ng001.batmobi.net
+0 oscdn.batmobi.net
+0 ploy.batmobi.net
+0 portal.batmobi.net
+0 proxy.batmobi.net
+0 pushapi.batmobi.net
+0 sdk.batmobi.net
+0 search.batmobi.net
+0 stat.dsp.batmobi.net
+0 sts.batmobi.net
+0 update.sdk.batmobi.net
+0 usdk.batmobi.net
+0 ustat.batmobi.net
+0 video.batmobi.net
+0 www.batmobi.net
+#[360in]
+0 360in.com
+0 ad.360in.com
+0 challenge.360in.com
+0 dispatcher.360in.com
+0 effectapi.360in.com
+0 exchange.360in.com
+0 exp.360in.com
+0 hotpot.360in.com
+0 i.360in.com
+0 member.360in.com
+0 smallappsapi.360in.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -6884,6 +6965,8 @@
 0 adx.kul.vn
 0 adx.xemvtv.net
 0 ailamtrieuphu.com
+0 alivar.com.vn
+0 alivar.vn
 0 amobi.vn
 0 api.app.masoffer.net
 0 apinas.nct.vn
@@ -6918,6 +7001,7 @@
 0 trenddigital.vn
 0 truoctran.com
 0 uniad.vn
+0 upfile16.mediaphim.com
 0 vads.net.vn
 0 vads.vn
 0 vclick.vn
@@ -6925,6 +7009,7 @@
 0 vietdorje.com
 0 vinaads.vn
 0 www.adt.com.vn
+0 www.alivar.vn
 0 www.vietdorje.com
 0 zone.uniad.vn
 #[trackingVN]
@@ -6969,6 +7054,7 @@
 0 static2.lucky88.com
 0 static3.lucky88.com
 0 img.lucky88.com
+0 www.lucky88.com
 0 8live.com
 0 m.8live.com
 0 ad.8live.com
@@ -7045,6 +7131,18 @@
 0 www.datcuoc247.com
 0 betvietnam.info
 0 www.betvietnam.info
+0 one88.us
+0 cache.one88.us
+0 cache1.one88.us
+0 one88.fun
+0 cache.one88.fun
+0 cache1.one88.fun
+0 one88.com
+0 cache.one88.com
+0 cache1.one88.com
+0 webdisk.one88.com
+0 webmail.one88.com
+0 www.one88.com
 #[scamVN]
 0 fuckbookvietnam.com
 0 www.fuckbookvietnam.com
@@ -10597,6 +10695,7 @@
 0 waryfog.com
 0 watchingthat.com
 0 wateryvan.com
+0 waust.at
 0 wda.com
 0 wdads.sx.atl.publicus.com
 0 web.btncdn.com
@@ -10934,7 +11033,9 @@
 0 apiparbion.com
 0 appimmobilier.com
 0 apple.comscoreresearch.com
+0 applog.camera360.com
 0 app-measurement.com
+0 appres.camera360.com
 0 apphay.me
 0 apsalar.com
 0 aquapuremultiservicios.es
