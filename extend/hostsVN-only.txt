@@ -1,5 +1,5 @@
 # Title: hostsVN-only
-# Last modified: 29 Dec 2018
+# Last modified: 26 Jan 2019
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -1057,6 +1057,8 @@
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.xemvtv.net
 0.0.0.0 ailamtrieuphu.com
+0.0.0.0 alivar.com.vn
+0.0.0.0 alivar.vn
 0.0.0.0 amobi.vn
 0.0.0.0 api.app.masoffer.net
 0.0.0.0 apinas.nct.vn
@@ -1091,6 +1093,7 @@
 0.0.0.0 trenddigital.vn
 0.0.0.0 truoctran.com
 0.0.0.0 uniad.vn
+0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 vads.net.vn
 0.0.0.0 vads.vn
 0.0.0.0 vclick.vn
@@ -1098,6 +1101,7 @@
 0.0.0.0 vietdorje.com
 0.0.0.0 vinaads.vn
 0.0.0.0 www.adt.com.vn
+0.0.0.0 www.alivar.vn
 0.0.0.0 www.vietdorje.com
 0.0.0.0 zone.uniad.vn
 #[trackingVN]
@@ -1142,6 +1146,7 @@
 0.0.0.0 static2.lucky88.com
 0.0.0.0 static3.lucky88.com
 0.0.0.0 img.lucky88.com
+0.0.0.0 www.lucky88.com
 0.0.0.0 8live.com
 0.0.0.0 m.8live.com
 0.0.0.0 ad.8live.com
@@ -1218,6 +1223,18 @@
 0.0.0.0 www.datcuoc247.com
 0.0.0.0 betvietnam.info
 0.0.0.0 www.betvietnam.info
+0.0.0.0 one88.us
+0.0.0.0 cache.one88.us
+0.0.0.0 cache1.one88.us
+0.0.0.0 one88.fun
+0.0.0.0 cache.one88.fun
+0.0.0.0 cache1.one88.fun
+0.0.0.0 one88.com
+0.0.0.0 cache.one88.com
+0.0.0.0 cache1.one88.com
+0.0.0.0 webdisk.one88.com
+0.0.0.0 webmail.one88.com
+0.0.0.0 www.one88.com
 #[scamVN]
 0.0.0.0 fuckbookvietnam.com
 0.0.0.0 www.fuckbookvietnam.com
