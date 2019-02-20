@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 05 Feb 2019
+# Last modified: 20 Feb 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -6939,6 +6939,172 @@
 0.0.0.0 i.360in.com
 0.0.0.0 member.360in.com
 0.0.0.0 smallappsapi.360in.com
+#[accountkit]
+0.0.0.0 alpha.accountkit.com
+0.0.0.0 beta.accountkit.com
+0.0.0.0 b-graph.accountkit.com
+0.0.0.0 cinyour.accountkit.com
+0.0.0.0 dev.accountkit.com
+0.0.0.0 graph.accountkit.com
+0.0.0.0 intern.accountkit.com
+0.0.0.0 inyour.accountkit.com
+0.0.0.0 latest.accountkit.com
+0.0.0.0 prod.accountkit.com
+0.0.0.0 sdk.accountkit.com
+0.0.0.0 www.accountkit.com
+#[reklamstore]
+0.0.0.0 ad.reklamstore.com
+0.0.0.0 adserver.reklamstore.com
+0.0.0.0 adserver2.reklamstore.com
+0.0.0.0 adstest.reklamstore.com
+0.0.0.0 reklamstore.com
+0.0.0.0 pixel.reklamstore.com
+0.0.0.0 img.reklamstore.com
+#[addtoany]
+0.0.0.0 addtoany.com
+0.0.0.0 static.addtoany.com
+0.0.0.0 statica.addtoany.com
+0.0.0.0 stats.addtoany.com
+0.0.0.0 www.addtoany.com
+0.0.0.0 www.static.addtoany.com
+#[staticstuff]
+0.0.0.0 cdn.staticstuff.net
+0.0.0.0 hello.staticstuff.net
+0.0.0.0 http win.staticstuff.net
+0.0.0.0 spy.staticstuff.net
+0.0.0.0 win.staticstuff.net
+0.0.0.0 www.staticstuff.net
+0.0.0.0 www.win.staticstuff.net
+#[infolinks]
+0.0.0.0 adsop.infolinks.com
+0.0.0.0 api.adshop.infolinks.com
+0.0.0.0 blog.infolinks.com
+0.0.0.0 cel.infolinks.com
+0.0.0.0 clickppc.infolinks.com
+0.0.0.0 indn.infolinks.com
+0.0.0.0 ls.infolinks.com
+0.0.0.0 m.infolinks.com
+0.0.0.0 publishers.infolinks.com
+0.0.0.0 resources.infolinks.com
+0.0.0.0 resourcs.infolinks.com
+0.0.0.0 router.infolinks.com
+0.0.0.0 thumbnails.infolinks.com
+0.0.0.0 vrtb.infolinks.com
+0.0.0.0 www.infolinks.com
+#[content.ad]
+0.0.0.0 api.content.ad
+0.0.0.0 app.content.ad
+0.0.0.0 blog.content.ad
+0.0.0.0 example.content.ad
+0.0.0.0 help.content.ad
+0.0.0.0 media.content.ad
+0.0.0.0 partners.content.ad
+0.0.0.0 rest.content.ad
+0.0.0.0 rtb-fe-us-e1.content.ad
+0.0.0.0 rtb-fe-us-e2.content.ad
+0.0.0.0 rtb-fe-us-e3.content.ad
+0.0.0.0 rtb-fe-us-e4.content.ad
+0.0.0.0 rtb-fe-us-e5.content.ad
+0.0.0.0 rtb-fe-us-e6.content.ad
+0.0.0.0 rtb-fe-us-w1.content.ad
+0.0.0.0 rtb-fe-us-w2.content.ad
+0.0.0.0 rtb-px.content.ad
+0.0.0.0 ssp.content.ad
+0.0.0.0 ssp-fe-us-e1.content.ad
+0.0.0.0 ssp-fe-us-e2.content.ad
+0.0.0.0 ssp-px.content.ad
+0.0.0.0 test.api.content.ad
+0.0.0.0 testeviron.content.ad
+0.0.0.0 test-help.content.ad
+0.0.0.0 test-www.content.ad
+0.0.0.0 unit.content.ad
+0.0.0.0 video.content.ad
+0.0.0.0 www.content.ad
+#[adnetworktech]
+0.0.0.0 adnetworktech.com
+0.0.0.0 www.adnetworktech.com
+0.0.0.0 cpanel.adnetworktech.com
+0.0.0.0 mail.adnetworktech.com
+0.0.0.0 webmail.adnetworktech.com
+#[nend]
+0.0.0.0 nend.net
+0.0.0.0 ad1.nend.net
+0.0.0.0 ad2.nend.net
+0.0.0.0 ad3.nend.net
+0.0.0.0 ad4.nend.net
+0.0.0.0 board.nend.net
+0.0.0.0 c1.nend.net
+0.0.0.0 cs.nend.net
+0.0.0.0 dev.nend.net
+0.0.0.0 di.nend.net
+0.0.0.0 img1.nend.net
+0.0.0.0 impression.nend.net
+0.0.0.0 js1.nend.net
+0.0.0.0 lois.nend.net
+0.0.0.0 lona.nend.net
+0.0.0.0 lonb.nend.net
+0.0.0.0 lons.nend.net
+0.0.0.0 mtl.nend.net
+0.0.0.0 output.nend.net
+0.0.0.0 s.nend.net
+0.0.0.0 s2.nend.net
+0.0.0.0 us.nend.net
+0.0.0.0 v1.nend.net
+0.0.0.0 vdapp.nend.net
+0.0.0.0 www.nend.net
+#[i-mobile]
+0.0.0.0 i-mobile.co.jp
+0.0.0.0 advertiser.i-mobile.co.jp
+0.0.0.0 aff-advertiser.i-mobile.co.jp
+0.0.0.0 cdn2.i-mobile.co.jp
+0.0.0.0 partner.i-mobile.co.jp
+0.0.0.0 spad.i-mobile.co.jp
+0.0.0.0 spdeliver.i-mobile.co.jp
+0.0.0.0 spdeliverp.i-mobile.co.jp
+#[ad-stir]
+0.0.0.0 ad.ad-stir.com
+0.0.0.0 ad-api.ad-stir.com
+0.0.0.0 ad-stir.com
+0.0.0.0 api.ad.ad-stir.com
+0.0.0.0 api.ad-stir.com
+0.0.0.0 blog-ja.ad-stir.com
+0.0.0.0 bs.ad-stir.com
+0.0.0.0 bypass.ad-stir.com
+0.0.0.0 bypass-adn.ad-stir.com
+0.0.0.0 bypass-bid.ad-stir.com
+0.0.0.0 bypass-image.ad-stir.com
+0.0.0.0 ccrt-en.ad-stir.com
+0.0.0.0 ccrt-ja.ad-stir.com
+0.0.0.0 cdnn.ad-stir.com
+0.0.0.0 cdnp.ad-stir.com
+0.0.0.0 cdnv.ad-stir.com
+0.0.0.0 cf-ad.ad-stir.com
+0.0.0.0 click.ad-stir.com
+0.0.0.0 dist.adp.ad-stir.com
+0.0.0.0 dist.ad-stir.com
+0.0.0.0 dist.bpc.ad-stir.com
+0.0.0.0 en.ad-stir.com
+0.0.0.0 gitlab.ad-stir.com
+0.0.0.0 img.ad-stir.com
+0.0.0.0 ja.ad-stir.com
+0.0.0.0 jcdn.ad-stir.com
+0.0.0.0 js.ad-stir.com
+0.0.0.0 news.ad-stir.com
+0.0.0.0 r.ad-stir.com
+0.0.0.0 rtb.ad-stir.com
+0.0.0.0 spr.ad-stir.com
+0.0.0.0 stage.ad-stir.com
+0.0.0.0 stage.adtag.ad-stir.com
+0.0.0.0 stage.tr.ad-stir.com
+0.0.0.0 stage-ad.ad-stir.com
+0.0.0.0 sync.ad-stir.com
+0.0.0.0 test.ad-stir.com
+0.0.0.0 tr.ad-stir.com
+0.0.0.0 vidspot-adn.ad-stir.com
+0.0.0.0 vr.ad-stir.com
+0.0.0.0 wiki.ad-stir.com
+0.0.0.0 win.ad-stir.com
+0.0.0.0 www.ad-stir.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -7038,6 +7204,7 @@
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.srv.vietnamnet.vn
 0.0.0.0 track.vatgia.com
+0.0.0.0 tracker.tintucvietnam.vn
 0.0.0.0 tracking.appwifi.com
 0.0.0.0 trackingapi.foody.vn
 0.0.0.0 track-srv.vietnamnet.vn
@@ -7143,6 +7310,11 @@
 0.0.0.0 webdisk.one88.com
 0.0.0.0 webmail.one88.com
 0.0.0.0 www.one88.com
+0.0.0.0 five88.com
+0.0.0.0 m.five88.com
+0.0.0.0 f1.five88.com
+0.0.0.0 f2.five88.com
+0.0.0.0 www.five88.com
 #[scamVN]
 0.0.0.0 fuckbookvietnam.com
 0.0.0.0 www.fuckbookvietnam.com
@@ -9704,7 +9876,6 @@
 0.0.0.0 nedstatbasic.net
 0.0.0.0 nedstatpro.net
 0.0.0.0 neighborlywatch.com
-0.0.0.0 nend.net
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 neoffic.com
 0.0.0.0 nephritish.com
@@ -10959,6 +11130,7 @@
 0.0.0.0 abond.net
 0.0.0.0 accurate.gutterhalment.com
 0.0.0.0 adfrut.cl
+0.0.0.0 adj.st
 0.0.0.0 admagnet1.com
 0.0.0.0 admisoft.com
 0.0.0.0 adongcomic.com
