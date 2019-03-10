@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 20 Feb 2019
+# Last modified: 10 Mar 2019
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -116,6 +116,8 @@
 0 displayads-formats.googleusercontent.com
 #[apple]
 0 ocsp.apple.com
+0 www.ocsp.apple.com
+0 world-gen.g.aaplimg.com
 0 advertising.apple.com
 0 banners.itunes.apple.com
 0 ca.iadsdk.apple.com
@@ -7104,6 +7106,34 @@
 0 wiki.ad-stir.com
 0 win.ad-stir.com
 0 www.ad-stir.com
+#[pubnative]
+0 adwww.pubnative.net
+0 api.market.pubnative.net
+0 api.pubnative.net
+0 apps.pubnative.net
+0 backend.pubnative.net
+0 bulk.pubnative.net
+0 cdn.pubnative.net
+0 dashboard.pubnative.net
+0 developer.pubnative.net
+0 developers.pubnative.net
+0 direct.pubnative.net
+0 dsp.pubnative.net
+0 got.pubnative.net
+0 html.pubnative.net
+0 market.pubnative.net
+0 ml.pubnative.net
+0 mockdsp.cluster.pubnative.net
+0 mock-dsp.pubnative.net
+0 news.genapi.euapi.pubnative.net
+0 opensource.pubnative.net
+0 pb.pubnative.net
+0 premium.pubnative.net
+0 r.pubnative.net
+0 t.pubnative.net
+0 tr.pubnative.net
+0 www.cdn.pubnative.net
+0 www.pubnative.net
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -7180,6 +7210,8 @@
 #[trackingVN]
 0 alexajstrack.com
 0 analytics.bkav.com
+0 analytics.vnreview.vn
+0 hc.viam.com.vn
 0 log.baomoi.com
 0 log.batdongsan.com.vn
 0 log.giaoduc.net.vn
@@ -7192,6 +7224,7 @@
 0 log4x.nixcdn.com
 0 logging.galaxypub.vn
 0 logging.phunuonline.com.vn
+0 mail.viam.com.vn
 0 s.baomoi.xdn.vn
 0 s.kenh14.vn
 0 s.soha.vn
@@ -7208,10 +7241,12 @@
 0 trackingapi.foody.vn
 0 track-srv.vietnamnet.vn
 0 userstats.shopee.vn
+0 viam.com.vn
 0 vn.alexajstrack.com
 0 web.f8.pyco.vn
 0 web.stagingf8.pycogroup.com
 0 widget.nhaccuatui.com
+0 www.viam.com.vn
 #[betVN]
 0 11bet.com
 0 lucky88.com
@@ -7314,6 +7349,10 @@
 0 f1.five88.com
 0 f2.five88.com
 0 www.five88.com
+0 sun.win
+0 get.sun.win
+0 get2.sun.win
+0 www.sun.win
 #[scamVN]
 0 fuckbookvietnam.com
 0 www.fuckbookvietnam.com
@@ -11803,6 +11842,7 @@
 0 ouroldfriends.com
 0 ovc2-ustokyyneikyfasnm.stackpathdns.com
 0 p.toourbb.com
+0 p.typekit.net
 0 panthawas.com
 0 paranteztanitim.com
 0 pattayabazaar.com
@@ -11813,6 +11853,7 @@
 0 pear.dementiaadvocacy.com
 0 pebed.dm.gg
 0 peoria33884.cz.cc
+0 performance.typekit.net
 0 pinkpillar.ru
 0 pixel.nc0.co
 0 pixel.wp.com
