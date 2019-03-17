@@ -25,11 +25,6 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantu
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ```
 
-- Với máy iOS đã jailbreak, bạn không muốn sử dụng thêm VPN mà muốn chỉnh sửa hosts của hệ thống thì sử dụng tập tin dưới đây dành riêng cho iOS _(Lưu ý: việc chỉnh sửa hosts hệ thống iOS sẽ dẫn đến lỗi kích hoạt khi bạn khôi phục lại thiết bị, cũng như unjailbreak. Hãy chắc chắn rằng bạn biết bạn đang làm gì!)_:
-```
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN4iOS
-```
-
 **Ngoài ra**, bạn nên sử dụng thêm [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard) để chặn hoàn toàn quảng cáo **trên Safari** khi đọc báo, lướt web để tránh bị làm phiền bởi các quảng cáo chiếm hết màn hình hay bật lên mỗi khi đến đoạn phim gây cấn. Với kinh nghiệm sử dụng iOS của mình, đây là combo chặn quảng cáo **hoàn hảo nhất** mà mình đã và đang sử dụng!
 
 ## Android
