@@ -4,17 +4,9 @@
 
 # **[Trang chủ](https://bigdargon.github.io/hostsVN) | [Github](https://github.com/bigdargon/hostsVN) | [Báo lỗi](https://github.com/bigdargon/hostsVN/issues) | [Wiki](https://github.com/bigdargon/hostsVN/wiki) | [Tải về](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts)**
 
-* Mình tạo ra Github với nhu cầu để giảm tải băng thông khi sử dụng mạng internet nói chung và tiết kiệm dung lượng cho gói 3G/4G nói riêng.
-* Một số ứng dụng lạm dụng việc chèn quảng cáo vào ứng dụng làm rối mắt người dùng, hoặc đặt quảng cáo tại những vị trí dễ nhấn nhầm nhằm tăng lượt nhấn vào quảng cáo, làm cho người sử dụng khó chịu khi chuyển trở về ứng dụng.
+* Github này được tạo ra với nhu cầu để giảm tải băng thông khi sử dụng mạng internet nói chung và tiết kiệm dung lượng cho gói 3G/4G nói riêng.
+* Một số ứng dụng lạm dụng việc chèn quảng cáo vào ứng dụng làm rối mắt người dùng hay đặt quảng cáo tại những vị trí dễ nhấn nhầm nhằm tăng lượt nhấn vào quảng cáo, làm cho người sử dụng khó chịu khi chuyển trở về ứng dụng.
 * Ngoài ra, việc chặn theo dõi cũng chặn các nhà quảng cáo thu thập dữ liệu, theo dõi hành vi người dùng.
-
-# Một số bài viết liên quan
-
-* [Hướng dẫn chặn quảng cáo trong ứng dụng bằng Surge, Adguard Pro, Quantumult, Shadowrocket và Adblock](https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-ung-dung-bang-surge-adguard-pro-quantumult-shadowrocket-va-adblock.2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @iFeed-er @se7venl0v3_198 @loveleeyoungae đã tích cực tham gia theo dõi, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @thanhnh091 đã úp thớt mỗi khi có cập nhật để không trôi bài._
-
-* [Hướng dẫn chặn quảng cáo trên Safari bằng Adguard](https://tinhte.vn/threads/huong-dan-chan-quang-cao-tren-safari-bang-adguard.2871474/)
-
-* [HostVN và chặn quảng cáo Android](https://tinhte.vn/threads/hostvn-va-chan-quang-cao-android.2873705/) _Cám ơn bạn @duonghungmanh89 ở diễn đàn Tinh tế đã chụp màn hình để mình thực hiện bài viết wiki._
 
 # So sánh
 
@@ -29,12 +21,13 @@ Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặ
 |VPN bật khi khởi động|Không|**Có**|Không|**Có**|**Có**|
 |Tự động cập nhật|**Có**|**Có**|Không|Không|Không|
 |Điều chỉnh cập nhật|**Có thêm & xóa**|**Có thêm & xóa**|**Có thêm & xóa**|**Có thêm & xóa**|Chỉ thêm mới|
-|Tải về|[Tại đây](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tại đây](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tại đây](https://itunes.apple.com//app/quantumult/id1252015438?mt=8)|[Tại đây](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tại đây](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
-|Hướng dẫn|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Quantumult)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|[Tại đây](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
+|Tải về|[Tải về](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tải về](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tải về](https://itunes.apple.com//app/quantumult/id1252015438?mt=8)|[Tải về](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tải về](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
+|Hướng dẫn|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Quantumult)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
 
-Vậy chọn ứng dụng nào phù hợp? Theo kinh nghiệm cá nhân của mình
+Vậy chọn ứng dụng nào phù hợp? Theo kinh nghiệm cá nhân thì:
 - Xét về **miễn phí**, bạn có thể chọn [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) kết hợp với [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard)
 - Xét về khả năng **chặn tốt nhất**, bạn nên chọn [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) kết hợp với [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard)
+- Xét về nhu cầu **dùng Apps Mod**, bạn chỉ cần sử dụng [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) là đủ vừa chặn thu hồi, tự bật VPN khi khởi động vừa chặn được quảng cáo trên ứng dụng khác.
 
 **_Riêng hệ điều hành Android có khá nhiều ứng dụng chặn quảng cáo bằng VPN, bạn có thể tham khảo dùng thử các ứng dụng sau [DNS66](https://github.com/bigdargon/hostsVN/wiki/Android#dns66), [Blokada](https://github.com/bigdargon/hostsVN/wiki/Android#blokada), [Virtual Hosts](https://github.com/bigdargon/hostsVN/wiki/Android#virtual-hosts) và [Adhell](https://github.com/bigdargon/hostsVN/wiki/Android#adhell) dành riêng cho Knox máy Samsung. Xem hướng dẫn đầy đủ ở [Wiki](https://github.com/bigdargon/hostsVN/wiki/Android)_.**
 
@@ -42,7 +35,7 @@ Vậy chọn ứng dụng nào phù hợp? Theo kinh nghiệm cá nhân của m�
 
 ## `VPN` ứng dụng tạo ra liệu có an toàn không?
 
-Ứng dụng tạo `Local VPN` nhằm lọc các truy vấn DNS ngay trên thiết bị. Những tên miền nằm trong danh sách sẽ bị chặn lại và các truy vấn của bạn `local VPN` sẽ **không bao giờ** chuyển truy cập hay lưu trữ truy vấn trên bất kỳ máy chủ nào khác nên bạn **hoàn toàn yên tâm**.
+Ứng dụng tạo `local VPN` nhằm lọc các truy vấn DNS ngay trên thiết bị. Những tên miền nằm trong danh sách sẽ bị chặn lại và các truy vấn của bạn `local VPN` sẽ **không bao giờ** chuyển truy cập hay lưu trữ truy vấn trên bất kỳ máy chủ nào khác nên bạn **hoàn toàn yên tâm**.
 
 ## Tôi phải sử dụng ứng dụng nào để chặn tên miền quảng cáo?
 
@@ -63,3 +56,19 @@ Tất nhiên là được, bạn có thể dùng tập tin `hosts` (tải về [
 Bạn có thể xem thêm bài viết cho hệ điều hành Android [tại đây](https://github.com/bigdargon/hostsVN/wiki/Android).
 
 ## Tìm hiểu thêm câu hỏi [tại trang này](https://github.com/bigdargon/hostsVN/wiki#c%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p).
+
+# Một số bài viết liên quan
+
+* [Hướng dẫn chặn quảng cáo trong ứng dụng bằng Surge, Adguard Pro, Quantumult, Shadowrocket và Adblock](https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-ung-dung-bang-surge-adguard-pro-quantumult-shadowrocket-va-adblock.2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @iFeed-er @se7venl0v3_198 @loveleeyoungae đã tích cực tham gia theo dõi, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @thanhnh091 đã úp thớt mỗi khi có cập nhật để không trôi bài._
+
+* [Hướng dẫn chặn quảng cáo trên Safari bằng Adguard](https://tinhte.vn/threads/huong-dan-chan-quang-cao-tren-safari-bang-adguard.2871474/)
+
+* [HostVN và chặn quảng cáo Android](https://tinhte.vn/threads/hostvn-va-chan-quang-cao-android.2873705/) _Cám ơn bạn @duonghungmanh89 ở diễn đàn Tinh tế đã chụp màn hình để mình thực hiện bài viết wiki._
+
+* [Hướng dẫn chặn quảng cáo phiền phức với Adguard cho iOS](https://chiasefree.com/mobile/ios/huong-dan-chan-quang-cao-phien-phuc-voi-adguard-cho-ios)
+
+* [Hướng dẫn chặn quảng cáo bằng Surge cho iOS](https://chiasefree.com/thu-thuat/huong-dan-chan-quang-cao-bang-surge-cho-ios)
+
+* [Chặn quảng cáo với Quantumult nên dùng cho iOS](https://chiasefree.com/mobile/ios/tips-chan-quang-cao-voi-quantumult-nen-dung-cho-ios)
+
+* [Hướng dẫn chặn quảng cáo bằng Shadowrocket cho iOS](https://chiasefree.com/mobile/ios/chan-quang-cao-bang-shadowrocket)
