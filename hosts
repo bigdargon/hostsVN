@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 04 Apr 2019
+# Last modified: 06 Apr 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -1813,7 +1813,7 @@
 0.0.0.0 wisepush.video.baidu.com
 0.0.0.0 wm.baidu.com
 0.0.0.0 wn.pos.baidu.com
-#[qq]
+#[qq.com]
 0.0.0.0 ad.qq.com
 0.0.0.0 adping.qq.com
 0.0.0.0 adsclick.qq.com
@@ -1828,37 +1828,22 @@
 0.0.0.0 adstextview.qq.com
 0.0.0.0 adsview.qq.com
 0.0.0.0 adsview2.qq.com
-0.0.0.0 aexception.bugly.qq.com
-0.0.0.0 ahf.bugly.qq.com
-0.0.0.0 android.bugly.qq.com
-0.0.0.0 android-mirror.bugly.qq.com
-0.0.0.0 api.bugly.qq.com
-0.0.0.0 astat.bugly.qq.com
-0.0.0.0 bugly.qq.com
 0.0.0.0 c.l.qq.com
 0.0.0.0 c2.l.qq.com
-0.0.0.0 cas.bugly.qq.com
-0.0.0.0 cdn.bugly.qq.com
-0.0.0.0 dsx.bugly.qq.com
 0.0.0.0 fodder.qq.com
 0.0.0.0 fodder.tc.qq.com
 0.0.0.0 fw.qq.com
 0.0.0.0 hm.l.qq.com
 0.0.0.0 httpring.qq.com
-0.0.0.0 huskieaccess.bugly.qq.com
 0.0.0.0 imc.l.qq.com
-0.0.0.0 ios.bugly.qq.com
 0.0.0.0 jingjia.qq.com
 0.0.0.0 l.qq.com
 0.0.0.0 l2.l.qq.com
-0.0.0.0 m.bugly.qq.com
-0.0.0.0 mi.gdt.qq.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 p.l.qq.com
 0.0.0.0 p2.l.qq.com
 0.0.0.0 pagespeed.report.qq.com
 0.0.0.0 pingfore.qq.com
-0.0.0.0 ptlogin2.bugly.qq.com
 0.0.0.0 qqlogo.qq.com
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 qss-client.qq.com
@@ -1867,10 +1852,8 @@
 0.0.0.0 rs1.qq.com
 0.0.0.0 rs2.qq.com
 0.0.0.0 scdown.qq.com
-0.0.0.0 sdk.e.qq.com
 0.0.0.0 show-msgch.qq.com
 0.0.0.0 tcss.qq.com
-0.0.0.0 test-astat.bugly.qq.com
 0.0.0.0 trace.qq.com
 0.0.0.0 track.msadcenter.eqq.com
 0.0.0.0 w.l.qq.com
@@ -7207,6 +7190,119 @@
 0.0.0.0 www.cp.tune.com
 0.0.0.0 www.tune.com
 0.0.0.0 www.ui.cp.tune.com
+#[adroll.com]
+0.0.0.0 a.adroll.com
+0.0.0.0 adroll.com
+0.0.0.0 assets1.adroll.com
+0.0.0.0 c.adroll.com
+0.0.0.0 d.adroll.com
+0.0.0.0 s.adroll.com
+#[bizible.com]
+0.0.0.0 a.bizible.com
+0.0.0.0 apps.bizible.com
+0.0.0.0 awesome.bizible.com
+0.0.0.0 bizible.com
+0.0.0.0 cdn.bizible.com
+0.0.0.0 d.bizible.com
+0.0.0.0 edgecdn.bizible.com
+0.0.0.0 email.bizible.com
+0.0.0.0 info.bizible.com
+0.0.0.0 info2.bizible.com
+0.0.0.0 ns1.bizible.com
+0.0.0.0 ns2.bizible.com
+0.0.0.0 ns3.bizible.com
+0.0.0.0 ns4.bizible.com
+0.0.0.0 roi.bizible.com
+0.0.0.0 sf.bizible.com
+0.0.0.0 support.bizible.com
+0.0.0.0 www.awesome.bizible.com
+0.0.0.0 www.bizible.com
+0.0.0.0 www.cdn.bizible.com
+#[adtarget.me]
+0.0.0.0 ads.adtarget.me
+0.0.0.0 ads-us.adtarget.me
+0.0.0.0 adtarget.me
+0.0.0.0 socrates-1.adtarget.me
+0.0.0.0 socrates-6-1.adtarget.me
+0.0.0.0 socrates-7.adtarget.me
+0.0.0.0 staging-ads.adtarget.me
+0.0.0.0 static.trackers.adtarget.me
+0.0.0.0 static-ads.adtarget.me
+0.0.0.0 static-system.adtarget.me
+0.0.0.0 static-trackers.adtarget.me
+0.0.0.0 system.adtarget.me
+0.0.0.0 trackers.adtarget.me
+0.0.0.0 www.adtarget.me
+#[ayads.co]
+0.0.0.0 ads.ayads.co
+0.0.0.0 antenna.ayads.co
+0.0.0.0 antenna-apse.ayads.co
+0.0.0.0 antenna-us.ayads.co
+0.0.0.0 ayadsaws.ayads.co
+0.0.0.0 cdn.ayads.co
+0.0.0.0 cdno.ayads.co
+0.0.0.0 coray.ayads.co
+0.0.0.0 data.ayads.co
+0.0.0.0 geoloc.ayads.co
+0.0.0.0 geoworker.ayads.co
+0.0.0.0 gkng.ayads.co
+0.0.0.0 optchk.ayads.co
+0.0.0.0 pbjs.ayads.co
+0.0.0.0 res.ayads.co
+0.0.0.0 s13.ayads.co
+0.0.0.0 s2.ayads.co
+0.0.0.0 s8.ayads.co
+0.0.0.0 sac.ayads.co
+0.0.0.0 sac4.ayads.co
+0.0.0.0 secure.ayads.co
+0.0.0.0 seg.ayads.co
+0.0.0.0 seg2.ayads.co
+0.0.0.0 sentry.ayads.co
+0.0.0.0 sublimelog.ayads.co
+0.0.0.0 ums.ayads.co
+0.0.0.0 www.ayads.co
+0.0.0.0 adserver.adtech.advertising.com
+0.0.0.0 adserver-as.adtech.advertising.com
+0.0.0.0 adserver-eu.adtech.advertising.com
+0.0.0.0 adtech.advertising.com
+0.0.0.0 bannerfarm.ace.advertising.com
+0.0.0.0 cmap.am.ace.advertising.com
+0.0.0.0 cmap.an.ace.advertising.com
+0.0.0.0 cmap.at.ace.advertising.com
+0.0.0.0 cmap.dc.ace.advertising.com
+0.0.0.0 cmap.ox.ace.advertising.com
+0.0.0.0 cmap.pub.ace.advertising.com
+0.0.0.0 cmap.rm.ace.advertising.com
+0.0.0.0 cmap.rub.ace.advertising.com
+0.0.0.0 dtm.advertising.com
+0.0.0.0 hb-as.adtech.advertising.com
+0.0.0.0 hb-us.adtech.advertising.com
+0.0.0.0 leadback.advertising.com
+0.0.0.0 r.ace.advertising.com
+0.0.0.0 r1-ads.ace.advertising.com
+0.0.0.0 secure.ace-tag.advertising.com
+0.0.0.0 servedby.advertising.com
+0.0.0.0 uac.advertising.com
+0.0.0.0 www.servedby.advertising.com
+#[heapanalytics.com]
+0.0.0.0 about.heapanalytics.com
+0.0.0.0 blog.heapanalytics.com
+0.0.0.0 cdn.heapanalytics.com
+0.0.0.0 content.heapanalytics.com
+0.0.0.0 data.heapanalytics.com
+0.0.0.0 docs.heapanalytics.com
+0.0.0.0 email.heapanalytics.com
+0.0.0.0 go.heapanalytics.com
+0.0.0.0 help.heapanalytics.com
+0.0.0.0 info.heapanalytics.com
+0.0.0.0 internal.heapanalytics.com
+0.0.0.0 mail.heapanalytics.com
+0.0.0.0 marketing.heapanalytics.com
+0.0.0.0 o1.email.heapanalytics.com
+0.0.0.0 pantheon.heapanalytics.com
+0.0.0.0 socket.heapanalytics.com
+0.0.0.0 status.heapanalytics.com
+0.0.0.0 www.heapanalytics.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -9151,7 +9247,6 @@
 0.0.0.0 chinsnakes.com
 0.0.0.0 chitika.net
 0.0.0.0 christingel.com
-0.0.0.0 d.adroll.com
 0.0.0.0 d.appsdt.com
 0.0.0.0 d2cmedia.ca
 0.0.0.0 dable.io
@@ -10182,6 +10277,7 @@
 0.0.0.0 picadmedia.com
 0.0.0.0 piet2eix3l.com
 0.0.0.0 pietexture.com
+0.0.0.0 piguiproxy.com
 0.0.0.0 pillscash.com
 0.0.0.0 pimproll.com
 0.0.0.0 ping.ublock.org
@@ -10432,7 +10528,6 @@
 0.0.0.0 ruthlessrobin.com
 0.0.0.0 ru-traffic.com
 0.0.0.0 rythmxchange.com
-0.0.0.0 s.adroll.com
 0.0.0.0 s2d6.com
 0.0.0.0 sageanalyst.net
 0.0.0.0 sail-horizon.com

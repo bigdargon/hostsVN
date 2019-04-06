@@ -5,12 +5,13 @@ labels:
 
 ---
 
-[//]: # (***Bạn có thể xóa hoặc bỏ qua các dòng có dấu "[//]:" Các dòng này là hướng dẫn bạn đăng bài lên. Vui lòng sử dụng mẫu này để thêm mới để xử lý được nhanh hơn. Xin cám ơn!)
+[//]: # (***Vui lòng nhập thông tin phía dưới dòng có dấu "[//]:" các dòng này sẽ bị ẩn khi đăng bài. Xin cám ơn!)
 
 ***Thông tin***:
 
 [//]: # (Nếu bạn muốn thêm tên miền quảng cáo/theo dõi, vui lòng đưa tên miền vào thẻ để tiện theo dõi.)
 
 ```
-Ghi (các) tên miền quảng cáo/theo dõi mà bạn muốn thêm
+[//]: # (Ghi (các) tên miền quảng cáo/theo dõi mà bạn muốn thêm)
+
 ```
