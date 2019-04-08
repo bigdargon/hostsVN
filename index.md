@@ -24,10 +24,9 @@ Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặ
 |Tải về|[Tải về](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tải về](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tải về](https://itunes.apple.com//app/quantumult/id1252015438?mt=8)|[Tải về](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tải về](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
 |Hướng dẫn|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Quantumult)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
 
-Vậy chọn ứng dụng nào phù hợp? Theo kinh nghiệm cá nhân thì:
-- Xét về **miễn phí**, bạn có thể chọn [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) kết hợp với [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard)
-- Xét về khả năng **chặn tốt nhất**, bạn nên chọn [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) kết hợp với [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard)
-- Xét về nhu cầu **dùng Apps Mod**, bạn chỉ cần sử dụng [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) là đủ vừa chặn thu hồi, tự bật VPN khi khởi động vừa chặn được quảng cáo trên ứng dụng khác.
+Vậy chọn ứng dụng nào phù hợp? Theo kinh nghiệm cá nhân
+- Bạn có thể chọn [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) kết hợp với [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard) vì nó **miễn phí**.
+- Nếu bạn **đã mua** [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) trước đây thì chỉ cần dùng [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) là đủ, do apps tích hợp VPN và bộ lọc cho Safari.
 
 **_Riêng hệ điều hành Android có khá nhiều ứng dụng chặn quảng cáo bằng VPN, bạn có thể tham khảo dùng thử các ứng dụng sau [DNS66](https://github.com/bigdargon/hostsVN/wiki/Android#dns66), [Blokada](https://github.com/bigdargon/hostsVN/wiki/Android#blokada), [Virtual Hosts](https://github.com/bigdargon/hostsVN/wiki/Android#virtual-hosts) và [Adhell](https://github.com/bigdargon/hostsVN/wiki/Android#adhell) dành riêng cho Knox máy Samsung. Xem hướng dẫn đầy đủ ở [Wiki](https://github.com/bigdargon/hostsVN/wiki/Android)_.**
 
