@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 07 Apr 2019
+# Last modified: 08 Apr 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -7461,6 +7461,53 @@
 0.0.0.0 website.adomik.com
 0.0.0.0 www.adomik.com
 0.0.0.0 www3.adomik.com
+#[urekamedia.com]
+0.0.0.0 academy.urekamedia.com
+0.0.0.0 adserving.urekamedia.com
+0.0.0.0 adsnews.urekamedia.com
+0.0.0.0 adsservices.urekamedia.com
+0.0.0.0 adv.urekamedia.com
+0.0.0.0 bd.urekamedia.com
+0.0.0.0 cdn.urekamedia.com
+0.0.0.0 clickmeter.urekamedia.com
+0.0.0.0 cookie.urekamedia.com
+0.0.0.0 crp.urekamedia.com
+0.0.0.0 chatbox.urekamedia.com
+0.0.0.0 dco.urekamedia.com
+0.0.0.0 demo.urekamedia.com
+0.0.0.0 demodsp.urekamedia.com
+0.0.0.0 devdmp.urekamedia.com
+0.0.0.0 dmp.urekamedia.com
+0.0.0.0 dmpdemo.urekamedia.com
+0.0.0.0 dmpsv46.urekamedia.com
+0.0.0.0 dmpvsa.urekamedia.com
+0.0.0.0 dsp.urekamedia.com
+0.0.0.0 emearaude.urekamedia.com
+0.0.0.0 file.urekamedia.com
+0.0.0.0 huy.urekamedia.com
+0.0.0.0 hwp.urekamedia.com
+0.0.0.0 imps.urekamedia.com
+0.0.0.0 jsons.urekamedia.com
+0.0.0.0 landingpage.urekamedia.com
+0.0.0.0 log.urekamedia.com
+0.0.0.0 optimize.urekamedia.com
+0.0.0.0 optmize.urekamedia.com
+0.0.0.0 performance-workshop.urekamedia.com
+0.0.0.0 pnkid.urekamedia.com
+0.0.0.0 quangcao.urekamedia.com
+0.0.0.0 redmine.urekamedia.com
+0.0.0.0 ssp.urekamedia.com
+0.0.0.0 static.urekamedia.com
+0.0.0.0 static3.urekamedia.com
+0.0.0.0 sv47.urekamedia.com
+0.0.0.0 tin8ads.urekamedia.com
+0.0.0.0 tracking.urekamedia.com
+0.0.0.0 transfer.urekamedia.com
+0.0.0.0 ulead.urekamedia.com
+0.0.0.0 vccb.urekamedia.com
+0.0.0.0 viber.urekamedia.com
+0.0.0.0 wifi.urekamedia.com
+0.0.0.0 www.urekamedia.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
