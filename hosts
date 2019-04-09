@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 08 Apr 2019
+# Last modified: 09 Apr 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -588,17 +588,22 @@
 0.0.0.0 www.novanet.vn
 0.0.0.0 analytics.novanet.vn
 #[coccoc]
-0.0.0.0 qc.coccoc.com
-0.0.0.0 cp.qc.coccoc.com
-0.0.0.0 cdn-qc.coccoc.com
-0.0.0.0 ntrb.qc.coccoc.com
-0.0.0.0 display.qc.coccoc.com
-0.0.0.0 context.qc.coccoc.com
+0.0.0.0 ads-target.coccoc.com
+0.0.0.0 banners-gallery.coccoc.com
 0.0.0.0 catalog.qc.coccoc.com
-0.0.0.0 qc-static.coccoc.com
-0.0.0.0 metrics.coccoc.com
 0.0.0.0 cdn.comedia.coccoc.com
+0.0.0.0 cdn.qc.coccoc.com
+0.0.0.0 cdn-qc.coccoc.com
+0.0.0.0 context.qc.coccoc.com
+0.0.0.0 cp.qc.coccoc.com
+0.0.0.0 display.qc.coccoc.com
+0.0.0.0 metrics.coccoc.com
 0.0.0.0 nt-cdn.coccoc.com
+0.0.0.0 ntrb.qc.coccoc.com
+0.0.0.0 qc.coccoc.com
+0.0.0.0 qc-static.coccoc.com
+0.0.0.0 searcher.qc.coccoc.com
+0.0.0.0 shopping.coccoc.com
 0.0.0.0 qccoccocmedia.vn
 0.0.0.0 qc.coccoc.vn
 0.0.0.0 itim.vn
@@ -12064,6 +12069,7 @@
 0.0.0.0 jquery-framework.com
 0.0.0.0 jqueryjsscript.ru
 0.0.0.0 js.5689.nl
+0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 js.idio.co
 0.0.0.0 js.maxmind.com
