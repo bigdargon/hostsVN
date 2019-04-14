@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 10 Apr 2019
+# Last modified: 14 Apr 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -76,6 +76,7 @@
 0.0.0.0 googletagservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 4.afs.googleadservices.com
 0.0.0.0 feedads.googleadservices.com
 0.0.0.0 m4.afs.googleadservices.com
@@ -1168,16 +1169,95 @@
 0.0.0.0 www.workday.exponential.com
 0.0.0.0 www.workdaylab.exponential.com
 #[propellerads]
-0.0.0.0 propellerads.com
+0.0.0.0 ab-config.propellerads.com
 0.0.0.0 ad.propellerads.com
-0.0.0.0 www.ads.propellerads.com
-0.0.0.0 publishers.propellerads.com
-0.0.0.0 partners.propellerads.com
+0.0.0.0 adex_admin.propellerads.com
+0.0.0.0 adfly.propellerads.com
+0.0.0.0 admin.propellerads.com
 0.0.0.0 adp.propellerads.com
-0.0.0.0 media.propellerads.com
+0.0.0.0 ads.propellerads.com
+0.0.0.0 alav.propellerads.com
+0.0.0.0 alexa.propellerads.com
+0.0.0.0 api.propellerads.com
+0.0.0.0 apiad.propellerads.com
+0.0.0.0 apibeta.propellerads.com
+0.0.0.0 api-publishers.propellerads.com
+0.0.0.0 apistats.propellerads.com
+0.0.0.0 apistats-static.propellerads.com
+0.0.0.0 apps.propellerads.com
+0.0.0.0 bck-herz.propellerads.com
+0.0.0.0 bitwarden.propellerads.com
+0.0.0.0 cd-lb.propellerads.com
+0.0.0.0 cdn.propellerads.com
+0.0.0.0 cnative.propellerads.com
+0.0.0.0 crontasks.propellerads.com
+0.0.0.0 dashboard.propellerads.com
+0.0.0.0 data.ap.propellerads.com
+0.0.0.0 db02.propellerads.com
+0.0.0.0 dbpartner.propellerads.com
+0.0.0.0 dbread.propellerads.com
+0.0.0.0 dbticket.propellerads.com
+0.0.0.0 deploy.propellerads.com
+0.0.0.0 dev228.propellerads.com
+0.0.0.0 ecpm_api.propellerads.com
+0.0.0.0 erpdev.propellerads.com
+0.0.0.0 fa.propellerads.com
+0.0.0.0 files.propellerads.com
+0.0.0.0 fvpn.propellerads.com
 0.0.0.0 geoip.propellerads.com
-0.0.0.0 support.propellerads.com
+0.0.0.0 gparse.propellerads.com
+0.0.0.0 help.propellerads.com
+0.0.0.0 images.propellerads.com
+0.0.0.0 imap.propellerads.com
+0.0.0.0 img.propellerads.com
+0.0.0.0 img2.propellerads.com
+0.0.0.0 info.propellerads.com
+0.0.0.0 int.propellerads.com
+0.0.0.0 itdsa-2670.propellerads.com
+0.0.0.0 itest.propellerads.com
+0.0.0.0 itest2.propellerads.com
+0.0.0.0 jira.propellerads.com
+0.0.0.0 join.propellerads.com
+0.0.0.0 k8s-dashboard.propellerads.com
+0.0.0.0 kvsapp.propellerads.com
+0.0.0.0 kvs-maintenance.propellerads.com
+0.0.0.0 letitbit.propellerads.com
+0.0.0.0 loadtest.propellerads.com
+0.0.0.0 log-manager.propellerads.com
+0.0.0.0 login.propellerads.com
+0.0.0.0 lookup.propellerads.com
+0.0.0.0 madmin.propellerads.com
+0.0.0.0 mb.propellerads.com
+0.0.0.0 mc.propellerads.com
+0.0.0.0 media.propellerads.com
+0.0.0.0 mm2.propellerads.com
+0.0.0.0 mm3.propellerads.com
+0.0.0.0 mm4.propellerads.com
+0.0.0.0 mta.propellerads.com
+0.0.0.0 my.propellerads.com
+0.0.0.0 native.propellerads.com
+0.0.0.0 offers.propellerads.com
+0.0.0.0 onclick.dashboard.propellerads.com
+0.0.0.0 partners.propellerads.com
+0.0.0.0 passback.propellerads.com
+0.0.0.0 promo.propellerads.com
+0.0.0.0 propellerads.com
 0.0.0.0 pub.propellerads.com
+0.0.0.0 publishers.propellerads.com
+0.0.0.0 screenshots.propellerads.com
+0.0.0.0 smartlink.propellerads.com
+0.0.0.0 ssp-notify.propellerads.com
+0.0.0.0 static.itest.propellerads.com
+0.0.0.0 static.propellerads.com
+0.0.0.0 stats.propellerads.com
+0.0.0.0 statsv2-backend.propellerads.com
+0.0.0.0 support.propellerads.com
+0.0.0.0 tracking.propellerads.com
+0.0.0.0 v2.propellerads.com
+0.0.0.0 vd1.propellerads.com
+0.0.0.0 www.ads.propellerads.com
+0.0.0.0 www.propellerads.com
+0.0.0.0 xmlfeed.propellerads.com
 #[yllix]
 0.0.0.0 yllix.com
 0.0.0.0 pub.yllix.com
@@ -7617,6 +7697,45 @@
 0.0.0.0 z.gds.cnzz.com
 0.0.0.0 zhan.cnzz.com
 0.0.0.0 zhanzhang.cnzz.com
+#[adtrackers.net]
+0.0.0.0 adtrackers.net
+0.0.0.0 crunchyroll.adtrackers.net
+0.0.0.0 mail.adtrackers.net
+0.0.0.0 ox-d.adtrackers.net
+0.0.0.0 serve.adtrackers.net
+0.0.0.0 torrentz.adtrackers.net
+0.0.0.0 yahoo.adtrackers.net
+0.0.0.0 yasni.adtrackers.net
+0.0.0.0 zoover.adtrackers.net
+#[adnetasia.com]
+0.0.0.0 adnetasia.com
+0.0.0.0 crunchyroll.adnetasia.com
+0.0.0.0 mail.adnetasia.com
+0.0.0.0 ox-d.adnetasia.com
+0.0.0.0 serve.adnetasia.com
+0.0.0.0 torrentz.adnetasia.com
+0.0.0.0 yahoo.adnetasia.com
+0.0.0.0 yasni.adnetasia.com
+0.0.0.0 zoover.adnetasia.com
+#[bannertrack.net]
+0.0.0.0 bannertrack.net
+0.0.0.0 crunchyroll.bannertrack.net
+0.0.0.0 ox-d.bannertrack.net
+0.0.0.0 serve.bannertrack.net
+0.0.0.0 torrentz.bannertrack.net
+0.0.0.0 yahoo.bannertrack.net
+0.0.0.0 yasni.bannertrack.net
+0.0.0.0 zoover.bannertrack.net
+#[adclixx.net]
+0.0.0.0 adclixx.net
+0.0.0.0 crunchyroll.adclixx.net
+0.0.0.0 mail.adclixx.net
+0.0.0.0 ox-d.adclixx.net
+0.0.0.0 serve.adclixx.net
+0.0.0.0 torrentz.adclixx.net
+0.0.0.0 yahoo.adclixx.net
+0.0.0.0 yasni.adclixx.net
+0.0.0.0 zoover.adclixx.net
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
