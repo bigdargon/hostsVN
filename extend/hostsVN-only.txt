@@ -1,5 +1,5 @@
 # Title: hostsVN-only
-# Last modified: 09 Apr 2019
+# Last modified: 19 Apr 2019
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -1083,6 +1083,29 @@
 0.0.0.0 viber.urekamedia.com
 0.0.0.0 wifi.urekamedia.com
 0.0.0.0 www.urekamedia.com
+#[cokhach.com]
+0.0.0.0 admin.cokhach.com
+0.0.0.0 c.cokhach.com
+0.0.0.0 cokhach.com
+0.0.0.0 w.cokhach.com
+0.0.0.0 www.cokhach.com
+#[fff.com.vn]
+0.0.0.0 a.fff.com.vn
+0.0.0.0 admin.fff.com.vn
+0.0.0.0 client.fff.com.vn
+0.0.0.0 crm.fff.com.vn
+0.0.0.0 chanclickao.fff.com.vn
+0.0.0.0 chat.fff.com.vn
+0.0.0.0 f.fff.com.vn
+0.0.0.0 fb.fff.com.vn
+0.0.0.0 fff.com.vn
+0.0.0.0 files.fff.com.vn
+0.0.0.0 hmt.fff.com.vn
+0.0.0.0 khachhang.fff.com.vn
+0.0.0.0 report.fff.com.vn
+0.0.0.0 tracking.fff.com.vn
+0.0.0.0 ws.fff.com.vn
+0.0.0.0 www.fff.com.vn
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -1161,6 +1184,7 @@
 0.0.0.0 zone.uniad.vn
 #[trackingVN]
 0.0.0.0 alexajstrack.com
+0.0.0.0 amcdn.vn
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 hc.viam.com.vn
@@ -1182,6 +1206,7 @@
 0.0.0.0 s.soha.vn
 0.0.0.0 s.tuoitre.vn
 0.0.0.0 sharefb.cnnd.vn
+0.0.0.0 static.amcdn.vn
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 stats.vietnammoi.vn
 0.0.0.0 thongke.24h.com.vn
