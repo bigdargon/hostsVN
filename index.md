@@ -18,9 +18,9 @@ Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặ
 |Giá|**Miễn phí**|45.000 VND|109.000 VND|69.000 VND|45.000 VND|
 |Mua trong ứng dụng|1.099.000 VND|**Không**|**Không**|**Không**|**Không**|
 |Đặc điểm|Tool phân tích|Chặn quảng cáo|Tool phân tích|Tool phân tích|Chặn quảng cáo|
-|VPN bật khi khởi động|Không|**Có**|Không|**Có**|**Có**|
+|VPN bật khi khởi động|**Có**|**Có**|Không|**Có**|**Có**|
 |Tự động cập nhật|**Có**|**Có**|Không|Không|Không|
-|Điều chỉnh cập nhật|**Có thêm & xóa**|**Có thêm & xóa**|**Có thêm & xóa**|**Có thêm & xóa**|Chỉ thêm mới|
+|Điều chỉnh cập nhật|**Có**|**Có**|**Có**|**Có**|Không|
 |Tải về|[Tải về](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tải về](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tải về](https://itunes.apple.com//app/quantumult/id1252015438?mt=8)|[Tải về](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tải về](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
 |Hướng dẫn|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Quantumult)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
 
