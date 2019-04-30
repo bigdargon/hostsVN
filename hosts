@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 28 Apr 2019
+# Last modified: 29 Apr 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -8257,6 +8257,14 @@
 0.0.0.0 product.braze.com
 0.0.0.0 url3080.braze.com
 0.0.0.0 www.braze.com
+#[knowlead.io]
+0.0.0.0 knowlead.io
+0.0.0.0 js.knowlead.io
+0.0.0.0 dmp.knowlead.io
+0.0.0.0 kong.knowlead.io
+0.0.0.0 ftivideostreaming.knowlead.io
+0.0.0.0 videostr.knowlead.io
+0.0.0.0 www.knowlead.io
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -12884,6 +12892,7 @@
 0.0.0.0 log.ventunotech.com
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 logs.amap.com
+0.0.0.0 logs.xiti.com
 0.0.0.0 loles.neostrada.pl
 0.0.0.0 londparig.ga
 0.0.0.0 lousecn.cn
@@ -13293,6 +13302,7 @@
 0.0.0.0 www.w3counter.com
 0.0.0.0 www.weigezhiyao.com
 0.0.0.0 www.wwgin.com
+0.0.0.0 www.xiti.com
 0.0.0.0 www.yserch.com
 0.0.0.0 wxjflab.com
 0.0.0.0 wyf003.cn
