@@ -516,21 +516,36 @@
 0.0.0.0 event.adpia.vn
 0.0.0.0 www.adpia.vn
 0.0.0.0 mail.adpia.vn
-#[subiz]
-0.0.0.0 subiz.com
-0.0.0.0 docv4.subiz.com
-0.0.0.0 static.subiz.com
-0.0.0.0 dashboard.subiz.com
-0.0.0.0 css-dashboard.subiz.com
-0.0.0.0 em.subiz.com
+#[subiz.com]
+0.0.0.0 agent-data.subiz.com
+0.0.0.0 apiv4.subiz.com
 0.0.0.0 app.subiz.com
+0.0.0.0 css-dashboard.subiz.com
+0.0.0.0 dashboard.subiz.com
+0.0.0.0 developer.subiz.com
 0.0.0.0 docs.subiz.com
-0.0.0.0 widget-css.subiz.com
-0.0.0.0 widget.subiz.com
-0.0.0.0 www.subiz.com
-0.0.0.0 ws-widget-lb-2.subiz.com
-0.0.0.0 ws-widget-lb-1.subiz.com
+0.0.0.0 docv4.subiz.com
+0.0.0.0 em.subiz.com
+0.0.0.0 files.subiz.com
+0.0.0.0 filev4.subiz.com
+0.0.0.0 integration.subiz.com
 0.0.0.0 m.widget.subiz.com
+0.0.0.0 socket-ha.dashboard.subiz.com
+0.0.0.0 sock-ha.subiz.com
+0.0.0.0 sock-ha-1.subiz.com
+0.0.0.0 sock-p.subiz.com
+0.0.0.0 static.subiz.com
+0.0.0.0 static-dashboard.subiz.com
+0.0.0.0 subiz.com
+0.0.0.0 support.subiz.com
+0.0.0.0 widget.subiz.com
+0.0.0.0 widget-api.subiz.com
+0.0.0.0 widget-css.subiz.com
+0.0.0.0 widgetv4.subiz.com
+0.0.0.0 ws-0.subiz.com
+0.0.0.0 ws-widget-lb-1.subiz.com
+0.0.0.0 ws-widget-lb-2.subiz.com
+0.0.0.0 www.subiz.com
 #[anthill]
 0.0.0.0 st-a-id.anthill.vn
 0.0.0.0 anthill.vn
@@ -1125,6 +1140,7 @@
 0.0.0.0 adnetwork.5imedia.vn
 0.0.0.0 ads.baodatviet.vn
 0.0.0.0 ads.careerbuilder.vn
+0.0.0.0 ads.home.vn
 0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.tiki.vn
 0.0.0.0 ads1.careerbuilder.vn
