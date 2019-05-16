@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 13 May 2019
+# Last modified: 16 May 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -8669,6 +8669,34 @@
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vip-ads-tpx.stg.ads.aws.fwmrm.net
 0.0.0.0 www.fwmrm.net
+#[juicyads.com]
+0.0.0.0 ads.juicyads.com
+0.0.0.0 ads-a.juicyads.com
+0.0.0.0 adserver.juicyads.com
+0.0.0.0 adserver2.juicyads.com
+0.0.0.0 adserver-a.juicyads.com
+0.0.0.0 adserver-b.juicyads.com
+0.0.0.0 adserver-g.juicyads.com
+0.0.0.0 adserver-h.juicyads.com
+0.0.0.0 api.juicyads.com
+0.0.0.0 ck.juicyads.com
+0.0.0.0 fill.juicyads.com
+0.0.0.0 help.juicyads.com
+0.0.0.0 iapi.juicyads.com
+0.0.0.0 js.juicyads.com
+0.0.0.0 juicyads.com
+0.0.0.0 manage.juicyads.com
+0.0.0.0 manage-test.juicyads.com
+0.0.0.0 mobile.juicyads.com
+0.0.0.0 px.juicyads.com
+0.0.0.0 redir.juicyads.com
+0.0.0.0 secure.juicyads.com
+0.0.0.0 static.juicyads.com
+0.0.0.0 stats.juicyads.com
+0.0.0.0 support.juicyads.com
+0.0.0.0 www.juicyads.com
+0.0.0.0 www2.juicyads.com
+0.0.0.0 xapi.juicyads.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -11153,7 +11181,6 @@
 0.0.0.0 joneself.com
 0.0.0.0 js.hsforms.net
 0.0.0.0 js.users.51.la
-0.0.0.0 juicyads.com
 0.0.0.0 julysystems.com
 0.0.0.0 jumptap.com
 0.0.0.0 justicejudo.com
