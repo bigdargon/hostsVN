@@ -1,5 +1,5 @@
 # Title: hostsVN-only
-# Last modified: 19 Apr 2019
+# Last modified: 23 May 2019
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -1204,6 +1204,7 @@
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 hc.viam.com.vn
+0.0.0.0 hostmaster.trending.vn
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.batdongsan.com.vn
 0.0.0.0 log.giaoduc.net.vn
@@ -1234,12 +1235,14 @@
 0.0.0.0 tracking.appwifi.com
 0.0.0.0 trackingapi.foody.vn
 0.0.0.0 track-srv.vietnamnet.vn
+0.0.0.0 trending.vn
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 viam.com.vn
 0.0.0.0 vn.alexajstrack.com
 0.0.0.0 web.f8.pyco.vn
 0.0.0.0 web.stagingf8.pycogroup.com
 0.0.0.0 widget.nhaccuatui.com
+0.0.0.0 www.trending.vn
 0.0.0.0 www.viam.com.vn
 #[betVN]
 0.0.0.0 11bet.com
