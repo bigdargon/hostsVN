@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 07 Jun 2019
+# Last modified: 21 Jun 2019
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -648,6 +648,7 @@
 0 dsprtb.logging.admicro.vn
 0 ea.logging.admicro.vn
 0 f.admicro.vn
+0 fingerprint.admicro.vn
 0 goodsp.admicro.vn
 0 in.admicro.vn
 0 ir.admicro.vn
@@ -796,6 +797,7 @@
 0 logv2.mp3.zing.vn
 0 tracking.playzing.g6.zing.vn
 0 shop.zalo.me
+0 sp.zalo.me
 0 ads.zaloapp.com
 0 log.api.zaloapp.com
 0 static-ads.zaloapp.com
@@ -809,6 +811,7 @@
 0 zalo-ads-td.zadn.vn
 0 ads.zdn.vn
 0 org.zaloapp.ads.zdn.vn
+0 stc.sp.zdn.vn
 0 zaloapp.ads.zdn.vn
 0 zplayer-trk.zdn.vn
 0 zplayer.trk.zapps.vn
@@ -3173,41 +3176,110 @@
 0 www.alpha-assets.adcolony.com
 0 www.c4d-cdn.adcolony.com
 0 www.de.adcolony.com
-#[adsafeprotected]
+#[adsafeprotected.com]
+0 009.bapi.adsafeprotected.com
+0 1009.bapi.adsafeprotected.com
+0 10372.bapi.adsafeprotected.com
+0 10646.bapi.adsafeprotected.com
+0 10811.bapi.adsafeprotected.com
 0 5726.bapi.adsafeprotected.com
 0 6058.bapi.adsafeprotected.com
 0 6063.bapi.adsafeprotected.com
 0 6067.bapi.adsafeprotected.com
 0 623.bapi.adsafeprotected.com
+0 6293.bapi.adsafeprotected.com
+0 6348.bapi.adsafeprotected.com
 0 6539.bapi.adsafeprotected.com
+0 6961.bapi.adsafeprotected.com
+0 7001.bapi.adsafeprotected.com
 0 707.bapi.adsafeprotected.com
+0 7077.bapi.adsafeprotected.com
 0 7093.bapi.adsafeprotected.com
+0 7107.bapi.adsafeprotected.com
+0 7114.bapi.adsafeprotected.com
+0 7142.bapi.adsafeprotected.com
+0 7194.bapi.adsafeprotected.com
+0 7198.bapi.adsafeprotected.com
 0 7202.bapi.adsafeprotected.com
 0 7246.bapi.adsafeprotected.com
+0 7247.bapi.adsafeprotected.com
 0 7250.bapi.adsafeprotected.com
 0 7251.bapi.adsafeprotected.com
+0 7347.bapi.adsafeprotected.com
+0 7453.bapi.adsafeprotected.com
+0 7465.bapi.adsafeprotected.com
+0 7777.bapi.adsafeprotected.com
 0 7882.bapi.adsafeprotected.com
+0 7900.bapi.adsafeprotected.com
+0 7969.bapi.adsafeprotected.com
+0 8304.bapi.adsafeprotected.com
 0 8328.bapi.adsafeprotected.com
+0 8519.bapi.adsafeprotected.com
+0 922526.bapi.adsafeprotected.com
+0 922527.bapi.adsafeprotected.com
+0 922781.bapi.adsafeprotected.com
 0 adsafeprotected.com
+0 amidt.adsafeprotected.com
+0 anycast.api.adsafeprotected.com
+0 anycast.bapi.adsafeprotected.com
+0 anycast.ci.adsafeprotected.com
 0 anycast.dt.adsafeprotected.com
 0 anycast.fw.adsafeprotected.com
 0 anycast.pixel.adsafeprotected.com
+0 anycast.static.adsafeprotected.com
 0 api.adsafeprotected.com
+0 appapi.adsafeprotected.com
+0 appvast.adsafeprotected.com
+0 azjpixel.adsafeprotected.com
 0 bapi.adsafeprotected.com
 0 cdn.adsafeprotected.com
+0 cdn.bapi.adsafeprotected.com
+0 cdn01.adsafeprotected.com
+0 ci.adsafeprotected.com
+0 daldt.adsafeprotected.com
 0 dt.adsafeprotected.com
+0 dt.fw.adsafeprotected.com
+0 dtias.adsafeprotected.com
+0 dw.adsafeprotected.com
+0 extapi-cmp.adsafeprotected.com
 0 fw.adsafeprotected.com
+0 fw.bapi.adsafeprotected.com
 0 fwapi.adsafeprotected.com
+0 fwcf.adsafeprotected.com
+0 fwias.adsafeprotected.com
+0 fwvc.adsafeprotected.com
+0 i9980.bapi.adsafeprotected.com
 0 mobile.adsafeprotected.com
 0 mobile-static.adsafeprotected.com
+0 mobile-static-src.adsafeprotected.com
+0 nyidt.adsafeprotected.com
+0 pet.adsafeprotected.com
 0 pixel.adsafeprotected.com
+0 pixel.bapi.adsafeprotected.com
 0 pm.adsafeprotected.com
+0 report-static.bapi.adsafeprotected.com
 0 sfw.adsafeprotected.com
+0 sjedt.adsafeprotected.com
+0 sjepm.adsafeprotected.com
 0 spixel.adsafeprotected.com
 0 static.adsafeprotected.com
+0 static.bapi.adsafeprotected.com
+0 static02.adsafeprotected.com
+0 staticvc.adsafeprotected.com
+0 vans.adsafeprotected.com
 0 vast.adsafeprotected.com
+0 vastcdn.adsafeprotected.com
+0 vastlog.adsafeprotected.com
 0 vastpixel.adsafeprotected.com
+0 vastpixel2.adsafeprotected.com
+0 vastpixel3.adsafeprotected.com
+0 video.adsafeprotected.com
 0 vpaid.adsafeprotected.com
+0 vpaid2.adsafeprotected.com
+0 vpaid3.adsafeprotected.com
+0 webvideoinspector.adsafeprotected.com
+0 www.adsafeprotected.com
+0 www.vpaid.adsafeprotected.com
 #[pubmatic]
 0 ads.pubmatic.com
 0 aktrack.pubmatic.com
@@ -3377,14 +3449,18 @@
 0 www.signup.taboola.com
 0 www.taboola.com
 0 www.vision.taboola.com
-#[casalemedia]
+#[casalemedia.com]
 0 amp.casalemedia.com
+0 api01.casalemedia.com
 0 as.casalemedia.com
 0 as.casalemedia.com.edgesuite.net
 0 as-sec.casalemedia.com
 0 b.casalemedia.com
 0 c.casalemedia.com
 0 casalemedia.com
+0 dl11.casalemedia.com
+0 dn03.casalemedia.com
+0 dn14.casalemedia.com
 0 dsum.casalemedia.com
 0 dsum-sec.casalemedia.com
 0 ebda-us-east.casalemedia.com
@@ -3393,6 +3469,7 @@
 0 gui01.casalemedia.com
 0 hr.casalemedia.com
 0 ht.casalemedia.com
+0 htlb.casalemedia.com
 0 ht-lb.casalemedia.com
 0 ht-lb-sec.casalemedia.com
 0 i.casalemedia.com
@@ -3402,8 +3479,10 @@
 0 ip2.casalemedia.com
 0 ip-sec.casalemedia.com
 0 is.casalemedia.com
+0 isg01.casalemedia.com
 0 js.casalemedia.com
 0 js-sec.casalemedia.com
+0 net-tr.casalemedia.com
 0 outstream.casalemedia.com
 0 pulse.casalemedia.com
 0 r.casalemedia.com
@@ -4003,7 +4082,7 @@
 0 p.rfihub.com
 0 rfihub.com
 0 rfihub.com.akadns.net
-#[chartbeat]
+#[chartbeat.com]
 0 adsapi.chartbeat.com
 0 api.chartbeat.com
 0 api2.chartbeat.com
@@ -4015,6 +4094,28 @@
 0 static2.chartbeat.com
 0 static-uk.chartbeat.com
 0 www.chartbeat.com
+#[chartbeat.net]
+0 adping.chartbeat.net
+0 art.oakvillemotors.comping.chartbeat.net
+0 automation.chartbeat.net
+0 comping.chartbeat.net
+0 chartbeat.net
+0 edge01.chartbeat.net
+0 mabping.chartbeat.net
+0 pabc.chartbeat.net
+0 paol.chartbeat.net
+0 pchicagotribune.chartbeat.net
+0 pdeltatre.chartbeat.net
+0 pdev.chartbeat.net
+0 pespn.chartbeat.net
+0 pfox.chartbeat.net
+0 ping.chartbeat.net
+0 pmyspace.chartbeat.net
+0 pnytimes.chartbeat.net
+0 psankei.chartbeat.net
+0 ptimeinc.chartbeat.net
+0 survey.chartbeat.net
+0 www.chartbeat.net
 #[clickagy]
 0 aorta.clickagy.com
 0 clickagy.com
@@ -5634,27 +5735,6 @@
 0 prod.appnexus.map.fastly.net
 0 prod.sonobi-go.map.fastly.net
 0 sonobi-go.map.fastly.net
-0 adping.chartbeat.net
-0 art.oakvillemotors.comping.chartbeat.net
-0 automation.chartbeat.net
-0 comping.chartbeat.net
-0 chartbeat.net
-0 edge01.chartbeat.net
-0 mabping.chartbeat.net
-0 pabc.chartbeat.net
-0 paol.chartbeat.net
-0 pchicagotribune.chartbeat.net
-0 pdeltatre.chartbeat.net
-0 pdev.chartbeat.net
-0 pespn.chartbeat.net
-0 pfox.chartbeat.net
-0 ping.chartbeat.net
-0 pmyspace.chartbeat.net
-0 pnytimes.chartbeat.net
-0 psankei.chartbeat.net
-0 ptimeinc.chartbeat.net
-0 survey.chartbeat.net
-0 www.chartbeat.net
 #[superfastmediation]
 0 superfastmediation.com
 0 monitor.superfastmediation.com
@@ -7685,7 +7765,6 @@
 0 histats.com
 0 i.histats.com
 0 s10.histats.com
-0 s10.histats.com.ero-advertising.com
 0 s103.histats.com
 0 s11.histats.com
 0 s128.histats.com
@@ -8857,45 +8936,6 @@
 0 trck.bebi.com
 0 v.bebi.com
 0 www.bebi.com
-#[casalemedia.com]
-0 amp.casalemedia.com
-0 api01.casalemedia.com
-0 as.casalemedia.com
-0 as-sec.casalemedia.com
-0 c.casalemedia.com
-0 casalemedia.com
-0 dl11.casalemedia.com
-0 dn03.casalemedia.com
-0 dn14.casalemedia.com
-0 dsum.casalemedia.com
-0 dsum-sec.casalemedia.com
-0 ebda-us-east.casalemedia.com
-0 ebda-us-west.casalemedia.com
-0 fwcs01.casalemedia.com
-0 ht.casalemedia.com
-0 htlb.casalemedia.com
-0 ht-lb.casalemedia.com
-0 ht-lb-sec.casalemedia.com
-0 instream.casalemedia.com
-0 ip.casalemedia.com
-0 ip2.casalemedia.com
-0 ip-sec.casalemedia.com
-0 isg01.casalemedia.com
-0 js.casalemedia.com
-0 js-sec.casalemedia.com
-0 net-tr.casalemedia.com
-0 outstream.casalemedia.com
-0 pulse.casalemedia.com
-0 r.casalemedia.com
-0 r-sec.casalemedia.com
-0 r-ssl.casalemedia.com
-0 san.casalemedia.com
-0 sdk.casalemedia.com
-0 ssum.casalemedia.com
-0 ssum-sec.casalemedia.com
-0 system.casalemedia.com
-0 woobi-eu.casalemedia.com
-0 www.casalemedia.com
 #[marfeelcache.com]
 0 marfeelcache.com
 0 altb.marfeelcache.com
@@ -9026,6 +9066,68 @@
 0 v1-tr.lga.contextweb.com
 0 v1-tr.sjc.contextweb.com
 0 www.contextweb.com
+#[gigya.com]
+0 cdn.gigya.com
+0 cdn1.gigya.com
+0 cdn2.gigya.com
+0 cdn3.gigya.com
+0 cdns.gigya.com
+0 cdns1.gigya.com
+0 cdns2.gigya.com
+0 cdns3.gigya.com
+0 counters.gigya.com
+#[cnn.com]
+0 ads.cnn.com
+0 cl.cnn.com
+0 cnn.dyn.cnn.com
+0 customad.cnn.com
+0 data.cnn.com
+0 gdyn.cnn.com
+0 metrics.cnn.com
+0 mms.cnn.com
+0 smetrics.cnn.com
+#[postrelease.com]
+0 a.postrelease.com
+0 adserve.postrelease.com
+0 assets.postrelease.com
+0 autodiscover.postrelease.com
+0 cdn.postrelease.com
+0 content.postrelease.com
+0 jadserve.postrelease.com
+0 jadserve.postrelease.com.akadns.net
+0 perf.postrelease.com.akadns.net
+0 postrelease.com
+0 postrelease.com.akadns.net
+0 prstats.postrelease.com
+0 secure.postrelease.com
+0 www.postrelease.com
+#[mobfox.com]
+0 my.mobfox.com
+0 account.mobfox.com
+0 api.mobfox.com
+0 api-tracker.mobfox.com
+0 api-v2.mobfox.com
+0 api-v3.mobfox.com
+0 blog.mobfox.com
+0 cdn1.mobfox.com
+0 creative1.mobfox.com
+0 creative1cdn.mobfox.com
+0 creative2cdn.mobfox.com
+0 creativecdn.mobfox.com
+0 dev.mobfox.com
+0 devwiki.mobfox.com
+0 docs.mobfox.com
+0 filecdn.mobfox.com
+0 help.mobfox.com
+0 houston-my.mobfox.com
+0 hq-my.mobfox.com
+0 mobfox.com
+0 nvirginia-callbacks.mobfox.com
+0 nvirginia-my.mobfox.com
+0 pixel.mobfox.com
+0 tokyo-my.mobfox.com
+0 track.mobfox.com
+0 www.mobfox.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -9063,6 +9165,7 @@
 0 app.masoffer.net
 0 appapicached.vtvgo.vn
 0 banner.5giay.vn
+0 click.phanquang.vn
 0 click.uniad.vn
 0 click.xdeal.vn
 0 client.vads.net.vn
@@ -9075,13 +9178,16 @@
 0 img.masoffer.net
 0 imgraovat.vnecdn.net
 0 lrc.nct.nixcdn.com
+0 mail.phanquang.vn
 0 mobilead.vn
 0 mobileads.dieuviet.com
 0 myad.vn
 0 polyad.galaxypub.vn
+0 phanquang.vn
 0 phimmedia03.com
 0 qc.yan.vn
 0 quangcao.24h.com.vn
+0 quangcao.phanquang.vn
 0 quangcao.tuoitre.vn
 0 quangcao.thanhnien.vn
 0 serving.ad.org.vn
@@ -9101,6 +9207,7 @@
 0 vinaads.vn
 0 www.adt.com.vn
 0 www.alivar.vn
+0 www.phanquang.vn
 0 www.vietdorje.com
 0 zone.uniad.vn
 #[trackingVN]
@@ -9340,6 +9447,7 @@
 0 accelerator.arsdev.net
 0 accounts.pkr.com.invalid
 0 acento.com
+0 acidityfoamy.com
 0 a-counter.kiev.ua
 0 acridtwist.com
 0 acsseo.com
@@ -9421,6 +9529,7 @@
 0 ad.preferances.com
 0 ad.profiwin.de
 0 ad.prv.pl
+0 ad.queryly.com
 0 ad.rambler.ru
 0 ad.reunion.com
 0 ad.scanmedios.com
@@ -9556,6 +9665,7 @@
 0 adi.mainichi.co.jp
 0 adimage.asiaone.com.sg
 0 adimage.guardian.co.uk
+0 adimage.sphdigital.com
 0 adimages.been.com
 0 adimages.carsoup.com
 0 adimages.go.com
@@ -9756,7 +9866,6 @@
 0 ads.comeon.com
 0 ads.contactmusic.com
 0 ads.contentabc.com
-0 ads.contextweb.com
 0 ads.crakmedia.com
 0 ads.creativematch.com
 0 ads.creative-serving.com
@@ -10239,6 +10348,7 @@
 0 adsynergy.com
 0 adsys.townnews.com
 0 adsystem.simplemachines.org
+0 adtag.sphdigital.com
 0 adtech.com
 0 ad-tech.com
 0 adtechjp.com
@@ -10411,6 +10521,7 @@
 0 api.intensifier.de
 0 api.ipify.org
 0 api.parse.com
+0 api.queryly.com
 0 app.adsoctopus.com
 0 app.pendo.io
 0 app-analytics.snapchat.com
@@ -10617,7 +10728,6 @@
 0 beamincrease.com
 0 beamkite.com
 0 beauty-tea.com
-0 bebi.com
 0 bedsbreath.com
 0 begun.ru
 0 behavioralengine.com
@@ -10646,6 +10756,7 @@
 0 billboard.cz
 0 bimlocal.com
 0 binary1.website
+0 binarymoney.site
 0 bitads.net
 0 bitmedianetwork.com
 0 bizad.nikkeibp.co.jp
@@ -10761,9 +10872,11 @@
 0 cdn.freefacti.com
 0 cdn.freefarcy.com
 0 cdn.onesignal.com
+0 cdn.pubexchange.com
 0 cdn.ravenjs.com
 0 cdn.run-syndicate.com
 0 cdn.spotscenered.info
+0 cdn2.pubexchange.com
 0 cdnondemand.org
 0 cdnproviders.net
 0 cdnstoremedia.com
@@ -10885,7 +10998,6 @@
 0 content.ad
 0 content.bitsontherun.com
 0 contentabc.com
-0 contextweb.com
 0 contineljs.com
 0 conversionruler.com
 0 convrse.media
@@ -10960,7 +11072,6 @@
 0 cubics.com
 0 cumbersomecloud.com
 0 curtaincows.com
-0 customad.cnn.com
 0 cutecushion.com
 0 cuteturkey.com
 0 cyberbounty.com
@@ -10995,6 +11106,7 @@
 0 dashingdirt.com
 0 dashingsweater.com
 0 data.namesakeoscilloscopemarquis.com
+0 data.queryly.com
 0 datashreddergold.com
 0 dataxu.com
 0 dbbsrv.com
@@ -11014,6 +11126,7 @@
 0 delegatediscussion.com
 0 delightdriving.com
 0 deloo.de
+0 deloplen.com
 0 deloton.com
 0 demandbase.com
 0 depilflash.tv
@@ -11289,6 +11402,7 @@
 0 globus-inter.com
 0 glossysense.com
 0 gmads.net
+0 go.ero-advertising.com
 0 go.ezoic.net
 0 go.mobisla.com
 0 go.onclasrv.com
@@ -11712,7 +11826,6 @@
 0 metaresolver.com
 0 methodcash.com
 0 metric.cliphub.io
-0 metrics.cnn.com
 0 metrics.ctv.ca
 0 metrics.foxnews.com
 0 metrics.govexec.com
@@ -11746,7 +11859,6 @@
 0 mobcdn.com
 0 mobclix.com
 0 mobday.com
-0 mobfox.com
 0 mobgold.com
 0 mobhero.com
 0 mobilda.com
@@ -11860,6 +11972,7 @@
 0 newt1.adultadworld.com
 0 newt1.adultworld.com
 0 newtopsites.com
+0 newthuads.com
 0 nexac.com
 0 nikitinskysport.ru
 0 nitratory.com
@@ -12058,7 +12171,6 @@
 0 porngraph.com
 0 possessivebucket.com
 0 possibleboats.com
-0 postrelease.com
 0 potenza.cz
 0 pr5dir.com
 0 practicetoothpaste.com
@@ -12709,6 +12821,7 @@
 0 trademob.com
 0 traffic.focuusing.com
 0 traffic.liveuniversenetwork.com
+0 traffic.pubexchange.com
 0 trafficadept.com
 0 trafficads.net
 0 trafficcdn.liveuniversenetwork.com
@@ -12911,6 +13024,7 @@
 0 www.banner-link.com.br
 0 www.beauty-tea.com
 0 www.binary1.website
+0 www.binarymoney.site
 0 www.bkrtx.com
 0 www.cdnondemand.org
 0 www.clixco.in
@@ -13792,6 +13906,7 @@
 0 pdk.lcn.cc
 0 pear.dementiaadvocacy.com
 0 pebed.dm.gg
+0 pegloang.com
 0 peoria33884.cz.cc
 0 performance.typekit.net
 0 pinkpillar.ru
