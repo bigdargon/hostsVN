@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 21 Jun 2019
+# Last modified: 26 Jun 2019
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -811,7 +811,6 @@
 0 zalo-ads-td.zadn.vn
 0 ads.zdn.vn
 0 org.zaloapp.ads.zdn.vn
-0 stc.sp.zdn.vn
 0 zaloapp.ads.zdn.vn
 0 zplayer-trk.zdn.vn
 0 zplayer.trk.zapps.vn
@@ -9128,6 +9127,75 @@
 0 tokyo-my.mobfox.com
 0 track.mobfox.com
 0 www.mobfox.com
+#[tenmax.io]
+0 ads.tenmax.io
+0 ads-cdn.tenmax.io
+0 ads-media-cdn.tenmax.io
+0 beta-ads-media-cdn.tenmax.io
+0 beta-c.tenmax.io
+0 beta-rtb-public.tenmax.io
+0 beta-s.tenmax.io
+0 c.tenmax.io
+0 cdn.tenmax.io
+0 dmp.tenmax.io
+0 dsp-media-cdn.tenmax.io
+0 dsp-video-cdn.tenmax.io
+0 hk-pvmax.tenmax.io
+0 ignaik.tenmax.io
+0 inbound.tenmax.io
+0 kaingi.tenmax.io
+0 kiangi.tenmax.io
+0 kuasa.tenmax.io
+0 kuasa-api.tenmax.io
+0 my-pvmax.tenmax.io
+0 product.tenmax.io
+0 push.tenmax.io
+0 pvmax.tenmax.io
+0 r.tenmax.io
+0 real-native.tenmax.io
+0 rmax.tenmax.io
+0 rtb-asiamax.tenmax.io
+0 rtb-bidswitch.tenmax.io
+0 rtb-doubleclick.tenmax.io
+0 rtb-mobfox.tenmax.io
+0 s.tenmax.io
+0 ssp.tenmax.io
+0 t.tenmax.io
+0 tenmax.io
+0 tpe-ads-cdn.tenmax.io
+0 tpe-ads-media-cdn.tenmax.io
+0 tpe-dmp.tenmax.io
+0 tpe-pvmax.tenmax.io
+0 tpe-ssp.tenmax.io
+0 twa-pvmax.tenmax.io
+0 tw-pvmax.tenmax.io
+0 vn-pvmax.tenmax.io
+0 www.tenmax.io
+#[blueseed.tv]
+0 adstudio.blueseed.tv
+0 blueseed.tv
+0 c1.blueseed.tv
+0 c2.blueseed.tv
+0 c3.blueseed.tv
+0 c4.blueseed.tv
+0 c5.blueseed.tv
+0 cdn.blueseed.tv
+0 cdn1.blueseed.tv
+0 d1.blueseed.tv
+0 d2.blueseed.tv
+0 d3.blueseed.tv
+0 d4.blueseed.tv
+0 d5.blueseed.tv
+0 git.blueseed.tv
+0 helpdesk.blueseed.tv
+0 kanban.blueseed.tv
+0 new-cdn.blueseed.tv
+0 platform.blueseed.tv
+0 showcase.blueseed.tv
+0 static.blueseed.tv
+0 static-org.blueseed.tv
+0 wrapper.blueseed.tv
+0 www.blueseed.tv
 # --- Block ads & tracking VN ---
 #[adsVN]
 0 123c.vn
@@ -10071,6 +10139,7 @@
 0 ads.quoka.de
 0 ads.rcs.it
 0 ads.recoletos.es
+0 ads.reddit.com
 0 ads.rediff.com
 0 ads.redlightcenter.com
 0 ads.redtube.com
@@ -10487,6 +10556,7 @@
 0 ajouter.net
 0 ak0gsh40.com
 0 ak-ns.sascdn.com
+0 alb.reddit.com
 0 alclick.com
 0 alenty.com
 0 alipromo.com
@@ -12140,6 +12210,7 @@
 0 pixel.mediaiqdigital.com
 0 pixel.mtrcs.samba.tv
 0 pixel.personagraph.com
+0 pixel.reddit.com
 0 pixel.redditmedia.com
 0 pixel.sojern.com
 0 pixel.watch
@@ -14299,6 +14370,9 @@
 0 webdisk.view-appleid.com
 0 webmail.view-appleid.com
 0 www.view-appleid.com
+0 mysp.ac
+0 securedashfuyiersa.com
+0 manage.problem.securedashfuyiersa.com
 # --- Block testing ---
 0 1phads.com
 0 4dle.info
