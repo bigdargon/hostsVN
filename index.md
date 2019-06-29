@@ -10,19 +10,19 @@
 
 # So sánh
 
-Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặn quảng cáo, mỗi ứng dụng có ưu và khuyết điểm khác nhau. Tùy vào nhu cầu mỗi người mà chọn ứng dụng cho phù hợp. 
+Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặn quảng cáo, mỗi ứng dụng có ưu và khuyết điểm khác nhau. Tùy vào nhu cầu mỗi người mà chọn ứng dụng cho phù hợp.
 
-|   |**Surge**|**Adguard Pro**|**Quantumult**|**Shadowrocket**|**Adblock**|
-|:-|:-:|:-:|:-:|:-:|:-:|
-|iOS hỗ trợ|iOS 10|iOS 10|iOS 10|iOS 9|iOS 10|
-|Giá|**Miễn phí**|45.000 VND|109.000 VND|69.000 VND|45.000 VND|
-|Mua trong ứng dụng|1.099.000 VND|**Không**|**Không**|**Không**|**Không**|
-|Đặc điểm|Tool phân tích|Chặn quảng cáo|Tool phân tích|Tool phân tích|Chặn quảng cáo|
-|VPN bật khi khởi động|**Có**|**Có**|Không|**Có**|**Có**|
-|Tự động cập nhật|**Có**|**Có**|Không|Không|Không|
-|Điều chỉnh cập nhật|**Có**|**Có**|**Có**|**Có**|Không|
-|Tải về|[Tải về](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tải về](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tải về](https://itunes.apple.com//app/quantumult/id1252015438?mt=8)|[Tải về](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|[Tải về](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
-|Hướng dẫn|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Quantumult)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
+|   |**Surge**|**Adguard Pro**|**Quantumult**|**Adblock**|
+|:-|:-:|:-:|:-:|:-:|
+|iOS hỗ trợ|iOS 10|iOS 10|iOS 10|iOS 10|
+|Giá|**Miễn phí**|45.000 VND|109.000 VND|45.000 VND|
+|Mua trong ứng dụng|Có|**Không**|**Không**|**Không**|
+|Đặc điểm|Tool phân tích|Chặn quảng cáo|Tool phân tích|Chặn quảng cáo|
+|VPN bật khi khởi động|**Có**|**Có**|Không|**Có**|
+|Tự động cập nhật|**Có**|**Có**|Không|Không|
+|Điều chỉnh cập nhật|**Có**|**Có**|**Có**|Không|
+|Tải về|[Tải về](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tải về](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tải về](https://itunes.apple.com//app/quantumult/id1252015438?mt=8)|[Tải về](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
+|Hướng dẫn|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Quantumult)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
 
 Vậy chọn ứng dụng nào phù hợp? Theo kinh nghiệm cá nhân
 - Bạn có thể chọn [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) kết hợp với [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard) vì nó **miễn phí**.
@@ -43,10 +43,9 @@ Bạn có thể sử dụng một số ứng dụng và tham khảo hướng d�
 * Surge - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Surge)
 * Adguard Pro - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)
 * Quantumult - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
-* Shadowrocket - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)
 * Adblock - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Adblock)
 
-> Adblock và Adguard Pro là các ứng dụng chặn quảng cáo. Còn Quantumult, Shadowrocket và Surge là các ứng dụng lập trình, kiểm tra trang web và mình tận dụng để chặn quảng cáo.
+> Adblock và Adguard Pro là các ứng dụng chặn quảng cáo. Còn Quantumult và Surge là các ứng dụng lập trình, kiểm tra trang web và proxy.
 
 ## Các ứng dụng ở trên sử dụng cho hệ điều hành iOS, vậy tôi có thể dùng cho các hệ điều hành khác hay không?
 
@@ -58,7 +57,7 @@ Bạn có thể xem thêm bài viết cho hệ điều hành Android [tại đâ
 
 # Một số bài viết liên quan
 
-* [Hướng dẫn chặn quảng cáo trong ứng dụng bằng Surge, Adguard Pro, Quantumult, Shadowrocket và Adblock](https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-ung-dung-bang-surge-adguard-pro-quantumult-shadowrocket-va-adblock.2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @iFeed-er @se7venl0v3_198 @loveleeyoungae đã tích cực tham gia theo dõi, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @thanhnh091 đã úp thớt mỗi khi có cập nhật để không trôi bài._
+* [Hướng dẫn chặn quảng cáo trong ứng dụng bằng Surge, Adguard Pro, Quantumult và Adblock](https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-ung-dung-bang-surge-adguard-pro-quantumult-va-adblock.2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @iFeed-er @se7venl0v3_198 @loveleeyoungae đã tích cực tham gia theo dõi, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @thanhnh091 đã úp thớt mỗi khi có cập nhật để không trôi bài._
 
 * [Hướng dẫn chặn quảng cáo trên Safari bằng Adguard](https://tinhte.vn/threads/huong-dan-chan-quang-cao-tren-safari-bang-adguard.2871474/)
 
@@ -69,5 +68,3 @@ Bạn có thể xem thêm bài viết cho hệ điều hành Android [tại đâ
 * [Hướng dẫn chặn quảng cáo bằng Surge cho iOS](https://chiasefree.com/thu-thuat/huong-dan-chan-quang-cao-bang-surge-cho-ios)
 
 * [Chặn quảng cáo với Quantumult nên dùng cho iOS](https://chiasefree.com/mobile/ios/tips-chan-quang-cao-voi-quantumult-nen-dung-cho-ios)
-
-* [Hướng dẫn chặn quảng cáo bằng Shadowrocket cho iOS](https://chiasefree.com/mobile/ios/chan-quang-cao-bang-shadowrocket)
