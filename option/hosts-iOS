@@ -1593,37 +1593,15 @@
 0 video.rec.duapps.com
 0 whosthat.ssl2.duapps.com
 0 www.duapps.com
-#[herokuapp]
-0 herokuapp.com
-0 sworkitads.herokuapp.com
-0 bundle-geoip.herokuapp.com
-0 powr-counter.herokuapp.com
-0 jqcdn01.herokuapp.com
-0 jqcdn03.herokuapp.com
-0 jqcdn2.herokuapp.com
-0 sxcdn1.herokuapp.com
-0 sxcdn5.herokuapp.com
-0 wpcdn1.herokuapp.com
+#[herokuapp.com]
 0 adstage-analytics.herokuapp.com
 0 collection-endpoint-prod.herokuapp.com
 0 collection-endpoint-staging.herokuapp.com
-0 evening-badlands-6215.herokuapp.com
-0 fftf-host-counter.herokuapp.com
 0 filament-stats.herokuapp.com
-0 ft-snappy-02-debate.herokuapp.com
-0 gooal.herokuapp.com
 0 ilyonanalytics.herokuapp.com
-0 inspectletws.herokuapp.com
-0 on-js.herokuapp.com
 0 onespot-tracking.herokuapp.com
-0 p13n-int.herokuapp.com
-0 p13n-test.herokuapp.com
-0 stack-exchange-dynamic-ads.herokuapp.com
 0 statt-collect.herokuapp.com
-0 thrillingos.herokuapp.com
-0 user-agent-tracker.herokuapp.com
-0 visitor-language.herokuapp.com
-0 wootric-eligibility.herokuapp.com
+0 sworkitads.herokuapp.com
 #[subiz.com]
 0 agent-data.subiz.com
 0 apiv4.subiz.com
@@ -9753,6 +9731,7 @@
 0 ad.mwork.vn
 0 ad.org.vn
 0 ad.vatgia.com
+0 ad.vietbao.vn
 0 ad.vkool.net
 0 adchoice.com
 0 adchoice.com.vn
