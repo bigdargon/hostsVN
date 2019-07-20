@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 19 Jul 2019
+# Last modified: 20 Jul 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -9719,6 +9719,66 @@
 0.0.0.0 staging-i.logrocket.com
 0.0.0.0 status.logrocket.com
 0.0.0.0 www.logrocket.com
+#[smaato.net]
+0.0.0.0 ads.smaato.net
+0.0.0.0 adtag.ad.smaato.net
+0.0.0.0 api.ad.smaato.net
+0.0.0.0 assets.smaato.net
+0.0.0.0 avr.smaato.net
+0.0.0.0 avr2.smaato.net
+0.0.0.0 avr3.smaato.net
+0.0.0.0 blueeagle.smaato.net
+0.0.0.0 bluepages.smaato.net
+0.0.0.0 confluence.smaato.net
+0.0.0.0 cosy.smaato.net
+0.0.0.0 creatives.smaato.net
+0.0.0.0 dsp.smaato.net
+0.0.0.0 dspportal.smaato.net
+0.0.0.0 ets-ap-southeast-1.smaato.net
+0.0.0.0 ets-ap-southeast-1.track.smaato.net
+0.0.0.0 ets-cn-north-1.smaato.net
+0.0.0.0 ets-cn-north-1.track.smaato.net
+0.0.0.0 ets-eu-west-1.smaato.net
+0.0.0.0 ets-eu-west-1.track.smaato.net
+0.0.0.0 ets-us-east-1.smaato.net
+0.0.0.0 ets-us-east-1.track.smaato.net
+0.0.0.0 geo.smaato.net
+0.0.0.0 gwnyc.smaato.net
+0.0.0.0 gwsfo.smaato.net
+0.0.0.0 i1010.smaato.net
+0.0.0.0 impact.smaato.net
+0.0.0.0 jira.smaato.net
+0.0.0.0 metrics.smaato.net
+0.0.0.0 profserv01.smaato.net
+0.0.0.0 s10.smaato.net
+0.0.0.0 sdk.ad.smaato.net
+0.0.0.0 sdk-android.ad.smaato.net
+0.0.0.0 sdk-ios.ad.smaato.net
+0.0.0.0 se.smaato.net
+0.0.0.0 smaato.net
+0.0.0.0 soma.smaato.net
+0.0.0.0 soma-apac.smaato.net
+0.0.0.0 soma-ap-southeast-1.ad.smaato.net
+0.0.0.0 soma-ap-southeast-1.smaato.net
+0.0.0.0 soma-assets.smaato.net
+0.0.0.0 soma-assets-weighted.smaato.net
+0.0.0.0 soma-cn-north-1.smaato.net
+0.0.0.0 soma-emea.smaato.net
+0.0.0.0 soma-eu-west-1.ad.smaato.net
+0.0.0.0 soma-eu-west-1.smaato.net
+0.0.0.0 soma-fix-ap-southeast-1.smaato.net
+0.0.0.0 soma-fix-eu-west-1.smaato.net
+0.0.0.0 soma-fix-us-east-1.smaato.net
+0.0.0.0 soma-live-load.smaato.net
+0.0.0.0 soma-transition.smaato.net
+0.0.0.0 soma-useast.smaato.net
+0.0.0.0 soma-us-east-1.smaato.net
+0.0.0.0 spx.smaato.net
+0.0.0.0 vet-cn-north-1.smaato.net
+0.0.0.0 vet-us-east-1.smaato.net
+0.0.0.0 vet-us-east-1.track.smaato.net
+0.0.0.0 webhooks.smaato.net
+0.0.0.0 www.smaato.net
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -9808,6 +9868,7 @@
 0.0.0.0 alexajstrack.com
 0.0.0.0 amcdn.vn
 0.0.0.0 analytics.bkav.com
+0.0.0.0 analytics.explus.vn
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 collect.ovp.vn
 0.0.0.0 fbuser.ovp.vn
@@ -12665,6 +12726,7 @@
 0.0.0.0 optmd.com
 0.0.0.0 optmstr.com
 0.0.0.0 ordingly.com
+0.0.0.0 oriori.com
 0.0.0.0 ortshk.tapas.net
 0.0.0.0 ota.cartrawler.com
 0.0.0.0 otto-images.developershed.com
@@ -13131,7 +13193,6 @@
 0.0.0.0 socialspark.com
 0.0.0.0 sofia.trustx.org
 0.0.0.0 softclick.com.br
-0.0.0.0 soma.smaato.net
 0.0.0.0 sombersea.com
 0.0.0.0 sombersquirrel.com
 0.0.0.0 sombersurprise.com
@@ -13675,13 +13736,13 @@
 0.0.0.0 www.nikitinskysport.ru
 0.0.0.0 www.onclickmega.com
 0.0.0.0 www.onclicksuper.com
+0.0.0.0 www.oriori.com
 0.0.0.0 www.pcmclk.com
 0.0.0.0 www.performanceadexchange.com
 0.0.0.0 www.pubmine.com
 0.0.0.0 www.push-notifications.top
 0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www.rmiesnorthur.pro
-0.0.0.0 www.soma.smaato.net
 0.0.0.0 www.statsy.net
 0.0.0.0 www.trustaffs.com
 0.0.0.0 www.velocitycdn.com
