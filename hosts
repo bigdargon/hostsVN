@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 20 Jul 2019
+# Last modified: 22 Jul 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -2113,22 +2113,31 @@
 0.0.0.0 adstextview.qq.com
 0.0.0.0 adsview.qq.com
 0.0.0.0 adsview2.qq.com
+0.0.0.0 analy.qq.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 astat.bugly.qq.com
+0.0.0.0 beacon.qq.com
+0.0.0.0 btrace.video.qq.com
 0.0.0.0 c.l.qq.com
 0.0.0.0 c2.l.qq.com
+0.0.0.0 e.qq.com
 0.0.0.0 fodder.qq.com
 0.0.0.0 fodder.tc.qq.com
 0.0.0.0 fw.qq.com
 0.0.0.0 hm.l.qq.com
 0.0.0.0 httpring.qq.com
 0.0.0.0 imc.l.qq.com
+0.0.0.0 ios.bugly.qq.com
 0.0.0.0 jingjia.qq.com
 0.0.0.0 l.qq.com
 0.0.0.0 l2.l.qq.com
+0.0.0.0 mi.gdt.qq.com
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 p.l.qq.com
 0.0.0.0 p2.l.qq.com
 0.0.0.0 pagespeed.report.qq.com
 0.0.0.0 pingfore.qq.com
+0.0.0.0 pingma.qq.com
 0.0.0.0 qqlogo.qq.com
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 qss-client.qq.com
@@ -9779,6 +9788,27 @@
 0.0.0.0 vet-us-east-1.track.smaato.net
 0.0.0.0 webhooks.smaato.net
 0.0.0.0 www.smaato.net
+#[ns1p.net]
+0.0.0.0 ns1p.net
+0.0.0.0 b.ns1p.net
+0.0.0.0 c.ns1p.net
+0.0.0.0 cs.ns1p.net
+0.0.0.0 lb.ns1p.net
+0.0.0.0 s.ns1p.net
+#[byteoversea.com]
+0.0.0.0 log.byteoversea.com
+0.0.0.0 log15.byteoversea.com
+0.0.0.0 log16.byteoversea.com
+0.0.0.0 maliva-mcs.byteoversea.com
+0.0.0.0 mon.byteoversea.com
+0.0.0.0 mon-va.byteoversea.com
+0.0.0.0 sgali-mcs.byteoversea.com
+0.0.0.0 xlog.byteoversea.com
+0.0.0.0 xlog-va.byteoversea.com
+#[tiktokv.com]
+0.0.0.0 log.tiktokv.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 xlog.tiktokv.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -9849,6 +9879,7 @@
 0.0.0.0 static.ad.org.vn
 0.0.0.0 static.masoffer.net
 0.0.0.0 stc-nas.nixcdn.com
+0.0.0.0 tvnotice.kg.garena.vn
 0.0.0.0 trenddigital.vn
 0.0.0.0 truoctran.com
 0.0.0.0 uniad.vn
@@ -12653,7 +12684,6 @@
 0.0.0.0 nondescriptstocking.com
 0.0.0.0 novem.pl
 0.0.0.0 nrc.tapas.net
-0.0.0.0 ns1p.net
 0.0.0.0 ntv.io
 0.0.0.0 ntvk1.ru
 0.0.0.0 nuffnang.com.my
