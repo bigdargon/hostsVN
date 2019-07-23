@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 22 Jul 2019
+# Last modified: 23 Jul 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -9809,6 +9809,39 @@
 0.0.0.0 log.tiktokv.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
+#[mdotm.com]
+0.0.0.0 adr.mdotm.com
+0.0.0.0 ads.mdotm.com
+0.0.0.0 bds.mdotm.com
+0.0.0.0 c.mdotm.com
+0.0.0.0 cdn.mdotm.com
+0.0.0.0 cdn10.mdotm.com
+0.0.0.0 cdn2.mdotm.com
+0.0.0.0 cdn6.mdotm.com
+0.0.0.0 cdn7.mdotm.com
+0.0.0.0 cdna.mdotm.com
+0.0.0.0 cdnv1.mdotm.com
+0.0.0.0 cdngs.mdotm.com
+0.0.0.0 cdnh.mdotm.com
+0.0.0.0 cdnh1.mdotm.com
+0.0.0.0 c-ssl.mdotm.com
+0.0.0.0 dev05.mdotm.com
+0.0.0.0 device.mdotm.com
+0.0.0.0 docs.mdotm.com
+0.0.0.0 g2.mdotm.com
+0.0.0.0 g5.mdotm.com
+0.0.0.0 lb-am.mdotm.com
+0.0.0.0 lb-si.mdotm.com
+0.0.0.0 lb-sj.mdotm.com
+0.0.0.0 lb-wdc.mdotm.com
+0.0.0.0 lb-www2.mdotm.com
+0.0.0.0 lb-www6.mdotm.com
+0.0.0.0 lb-www8.mdotm.com
+0.0.0.0 lb-wwwa.mdotm.com
+0.0.0.0 mdotm.com
+0.0.0.0 platform.mdotm.com
+0.0.0.0 secure.mdotm.com
+0.0.0.0 www.mdotm.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -10694,7 +10727,6 @@
 0.0.0.0 ads.mariuana.it
 0.0.0.0 ads.massinfra.nl
 0.0.0.0 ads.mcafee.com
-0.0.0.0 ads.mdotm.com
 0.0.0.0 ads.mediaodyssey.com
 0.0.0.0 ads.mediaplayer.one
 0.0.0.0 ads.mediaturf.net
@@ -12478,7 +12510,6 @@
 0.0.0.0 mbn.com.ua
 0.0.0.0 mbs.megaroticlive.com
 0.0.0.0 mbuyu.nl
-0.0.0.0 mdotm.com
 0.0.0.0 measuremap.com
 0.0.0.0 media.ftv-publicite.fr
 0.0.0.0 media.funpic.de
