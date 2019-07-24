@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 23 Jul 2019
+# Last modified: 24 Jul 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -391,6 +391,7 @@
 0.0.0.0 htmlads.s3.amazonaws.com
 0.0.0.0 iacpromotion.s3.amazonaws.com
 0.0.0.0 inneractive-assets.s3.amazonaws.com
+0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 load.s3.amazonaws.com
 0.0.0.0 matchbin-assets.s3.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
@@ -9842,6 +9843,56 @@
 0.0.0.0 platform.mdotm.com
 0.0.0.0 secure.mdotm.com
 0.0.0.0 www.mdotm.com
+#[jetlore.com]
+0.0.0.0 api.jetlore.com
+0.0.0.0 api.production.jetlore.com
+0.0.0.0 assets.jetlore.com
+0.0.0.0 content.jetlore.com
+0.0.0.0 dashboard.jetlore.com
+0.0.0.0 docs.jetlore.com
+0.0.0.0 jetlore.com
+0.0.0.0 www.jetlore.com
+#[headlinerlabs.com]
+0.0.0.0 api.headlinerlabs.com
+0.0.0.0 go.headlinerlabs.com
+0.0.0.0 headlinerlabs.com
+0.0.0.0 plugin.headlinerlabs.com
+0.0.0.0 portal.headlinerlabs.com
+0.0.0.0 portal-fynd.headlinerlabs.com
+0.0.0.0 staging.headlinerlabs.com
+0.0.0.0 www.headlinerlabs.com
+#[siftscience.com]
+0.0.0.0 api.siftscience.com
+0.0.0.0 api3.siftscience.com
+0.0.0.0 assets.siftscience.com
+0.0.0.0 b.siftscience.com
+0.0.0.0 blog.siftscience.com
+0.0.0.0 cdn.siftscience.com
+0.0.0.0 cdn-canary.siftscience.com
+0.0.0.0 console.siftscience.com
+0.0.0.0 demo.siftscience.com
+0.0.0.0 em.siftscience.com
+0.0.0.0 engineering.siftscience.com
+0.0.0.0 f.siftscience.com
+0.0.0.0 go.siftscience.com
+0.0.0.0 pages.siftscience.com
+0.0.0.0 resources.siftscience.com
+0.0.0.0 sales.siftscience.com
+0.0.0.0 siftscience.com
+0.0.0.0 sift-shopify.siftscience.com
+0.0.0.0 start.siftscience.com
+0.0.0.0 status.siftscience.com
+0.0.0.0 support.siftscience.com
+0.0.0.0 www.siftscience.com
+#[snssdk.com]
+0.0.0.0 analytics.snssdk.com
+0.0.0.0 applog.snssdk.com
+0.0.0.0 aweme.snssdk.com
+0.0.0.0 log.snssdk.com
+0.0.0.0 mcs.snssdk.com
+0.0.0.0 mon.snssdk.com
+0.0.0.0 rtapplog.snssdk.com
+0.0.0.0 xlog.snssdk.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -10371,7 +10422,6 @@
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adexpose.com
 0.0.0.0 adext.inkclub.com
-0.0.0.0 adf.ly
 0.0.0.0 adfactor.nl
 0.0.0.0 adfarm.mediaplex.com
 0.0.0.0 adflight.com
@@ -15054,5 +15104,4 @@
 0.0.0.0 securedashfuyiersa.com
 0.0.0.0 manage.problem.securedashfuyiersa.com
 # --- Block testing ---
-0.0.0.0 api.v5.cercube.com
 # END hostsVN ---

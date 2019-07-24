@@ -316,6 +316,7 @@ an.facebook.com
 analy.qq.com
 analytics.google.com
 analytics.msn.com
+analytics.snssdk.com
 analytics.spotify.com
 analytics.yahoo.com
 android.bugly.qq.com
@@ -332,6 +333,7 @@ appearch.info
 appier.net
 applifier.com
 applifier.info
+applog.snssdk.com
 applovin.com
 applvn.com
 appnext.com
@@ -350,6 +352,7 @@ assoc-amazon.com
 astat.bugly.qq.com
 atdmt.com
 avazutracking.net
+aweme.snssdk.com
 ayads.co
 b2c.com
 backtrace.io
@@ -452,6 +455,7 @@ gsp1.baidu.com
 gstaticadssl.l.google.com
 gigya.com
 hadarone.com
+headlinerlabs.com
 heapanalytics.com
 heyzap.com
 histats.com
@@ -475,6 +479,7 @@ instartlogic.com
 ioam.de
 ionicframework.com
 ios.bugly.qq.com
+jetlore.com
 jpush.cn
 js.mobojoy.baidu.com
 jsecoin.com
@@ -482,6 +487,7 @@ juicyads.com
 jwpltx.com
 kaffnet.com
 kau.li
+kinesis.*.amazonaws.com
 knowlead.io
 kochava.com
 krxd.net
@@ -497,6 +503,7 @@ lkqd.net
 llnwd.net
 localytics.com
 log*.byteoversea.com
+log.snssdk.com
 log.spotify.com
 log.tiktokv.com
 loggly.com
@@ -511,6 +518,7 @@ marfeelcache.com
 marfeelcdn.com
 marfeelrev.com
 marinsm.com
+mcs.snssdk.com
 mdotm.com
 measuread.com
 media.net
@@ -536,6 +544,7 @@ mocean.mobi
 moengage.com
 mojiva.com
 mon*.byteoversea.com
+mon.snssdk.com
 mon.tiktokv.com
 mookie1.com
 mopub.com
@@ -604,6 +613,7 @@ sgali-mcs.byteoversea.com
 shareaholic.com
 sharethis.com
 sharethrough.com
+siftscience.com
 skimresources.com
 smaato.net
 smartadserver.com
@@ -661,6 +671,7 @@ wootric.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 xlog*.byteoversea.com
+xlog.snssdk.com
 xlog.tiktokv.com
 xslt.alexa.com
 yllix.com
@@ -945,7 +956,6 @@ adexchangeprediction.com
 adexchangetracker.com
 adexpose.com
 adext.inkclub.com
-adf.ly
 adfactor.nl
 adfarm.mediaplex.com
 adflight.com
@@ -5548,4 +5558,3 @@ securedashfuyiersa.com
 view-apple.com
 view-appleid.com
 ! --- Block testing ---
-api.v5.cercube.com
