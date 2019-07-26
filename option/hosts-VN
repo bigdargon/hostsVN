@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 22 Jul 2019
+# Last modified: 26 Jul 2019
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -382,6 +382,31 @@
 0.0.0.0 tracking.fff.com.vn
 0.0.0.0 ws.fff.com.vn
 0.0.0.0 www.fff.com.vn
+#[ladipage]
+0.0.0.0 api.ladipage.vn
+0.0.0.0 builder.ladipage.vn
+0.0.0.0 dns.ladipage.vn
+0.0.0.0 doitac.ladipage.vn
+0.0.0.0 ladipage.vn
+0.0.0.0 ssl.ladipage.vn
+0.0.0.0 theme.ladipage.vn
+0.0.0.0 themes.ladipage.vn
+0.0.0.0 www.ladipage.vn
+0.0.0.0 ladipage.net
+0.0.0.0 static.ladipage.net
+0.0.0.0 dsmartvietnam.com
+0.0.0.0 sale.dsmartvietnam.com
+0.0.0.0 landingpagelagi.vn
+0.0.0.0 www.landingpagelagi.vn
+#[ezimar.com]
+0.0.0.0 caohavan.ezimar.com
+0.0.0.0 ezdns.ezimar.com
+0.0.0.0 ezimar.com
+0.0.0.0 server.ezimar.com
+0.0.0.0 tanyen.ezimar.com
+0.0.0.0 vietravel.ezimar.com
+0.0.0.0 www.ezimar.com
+0.0.0.0 youyou.ezimar.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -407,6 +432,7 @@
 0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.tiki.vn
 0.0.0.0 ads1.careerbuilder.vn
+0.0.0.0 adserver.lag.vn
 0.0.0.0 adsplus.vn
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adt.com.vn

@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 24 Jul 2019
+# Last modified: 26 Jul 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -2119,6 +2119,7 @@
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 btrace.video.qq.com
+0.0.0.0 bugly.qq.com
 0.0.0.0 c.l.qq.com
 0.0.0.0 c2.l.qq.com
 0.0.0.0 e.qq.com
@@ -9888,11 +9889,134 @@
 0.0.0.0 analytics.snssdk.com
 0.0.0.0 applog.snssdk.com
 0.0.0.0 aweme.snssdk.com
+0.0.0.0 gurd.snssdk.com
+0.0.0.0 isub.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 mcs.snssdk.com
 0.0.0.0 mon.snssdk.com
 0.0.0.0 rtapplog.snssdk.com
 0.0.0.0 xlog.snssdk.com
+#[isnssdk.com]
+0.0.0.0 client_monitor.isnssdk.com
+0.0.0.0 clientmonitor.isnssdk.com
+0.0.0.0 i.isnssdk.com
+0.0.0.0 isub.isnssdk.com
+0.0.0.0 isub-tb.isnssdk.com
+0.0.0.0 i-tb.isnssdk.com
+0.0.0.0 log.isnssdk.com
+0.0.0.0 log-tb.isnssdk.com
+0.0.0.0 mon.isnssdk.com
+0.0.0.0 monitor.isnssdk.com
+0.0.0.0 rtlog.isnssdk.com
+#[ipstatp.com]
+0.0.0.0 a.ipstatp.com
+0.0.0.0 a15-wd.ipstatp.com
+0.0.0.0 api-spe-ttl.ipstatp.com
+0.0.0.0 ipstatp.com
+0.0.0.0 p.ipstatp.com
+0.0.0.0 p0.ipstatp.com
+0.0.0.0 p1.ipstatp.com
+0.0.0.0 p13.ipstatp.com
+0.0.0.0 s.ipstatp.com
+0.0.0.0 s0.ipstatp.com
+0.0.0.0 s1.ipstatp.com
+0.0.0.0 s16.ipstatp.com
+0.0.0.0 v.ipstatp.com
+0.0.0.0 v1.ipstatp.com
+0.0.0.0 v17-babe.ipstatp.com
+0.0.0.0 vv.ipstatp.com
+0.0.0.0 vv1.ipstatp.com
+0.0.0.0 vv-t1.ipstatp.com
+#[pstatp.com]
+0.0.0.0 a.pstatp.com
+0.0.0.0 a0.pstatp.com
+0.0.0.0 a1.pstatp.com
+0.0.0.0 a3.pstatp.com
+0.0.0.0 a6.pstatp.com
+0.0.0.0 a8.pstatp.com
+0.0.0.0 dm.pstatp.com
+0.0.0.0 i.pstatp.com
+0.0.0.0 i0.pstatp.com
+0.0.0.0 img-bcy-qn.pstatp.com
+0.0.0.0 img-bcy-qnpubin.pstatp.com
+0.0.0.0 live6.pstatp.com
+0.0.0.0 live6a.pstatp.com
+0.0.0.0 m.pstatp.com
+0.0.0.0 p.pstatp.com
+0.0.0.0 p0.pstatp.com
+0.0.0.0 p1.pstatp.com
+0.0.0.0 p10.pstatp.com
+0.0.0.0 p16.pstatp.com
+0.0.0.0 p1-xg.pstatp.com
+0.0.0.0 p2.pstatp.com
+0.0.0.0 p3.pstatp.com
+0.0.0.0 p3a.pstatp.com
+0.0.0.0 p3-xg.pstatp.com
+0.0.0.0 p4.pstatp.com
+0.0.0.0 p5.pstatp.com
+0.0.0.0 p5a.pstatp.com
+0.0.0.0 p6.pstatp.com
+0.0.0.0 p7.pstatp.com
+0.0.0.0 p8.pstatp.com
+0.0.0.0 p9.pstatp.com
+0.0.0.0 p98.pstatp.com
+0.0.0.0 p99.pstatp.com
+0.0.0.0 p9-xg.pstatp.com
+0.0.0.0 pb1.pstatp.com
+0.0.0.0 pb2.pstatp.com
+0.0.0.0 pb3.pstatp.com
+0.0.0.0 pb9.pstatp.com
+0.0.0.0 playback.live6.pstatp.com
+0.0.0.0 s.pstatp.com
+0.0.0.0 s0.pstatp.com
+0.0.0.0 s0z.pstatp.com
+0.0.0.0 s1.pstatp.com
+0.0.0.0 s2.pstatp.com
+0.0.0.0 s3.pstatp.com
+0.0.0.0 s3a.pstatp.com
+0.0.0.0 s3b.pstatp.com
+0.0.0.0 s4.pstatp.com
+0.0.0.0 s6.pstatp.com
+0.0.0.0 s9.pstatp.com
+0.0.0.0 tuchong.pstatp.com
+0.0.0.0 v.pstatp.com
+0.0.0.0 v3.pstatp.com
+0.0.0.0 v3a.pstatp.com
+0.0.0.0 v3b.pstatp.com
+0.0.0.0 v4.pstatp.com
+0.0.0.0 v5.pstatp.com
+0.0.0.0 v6.pstatp.com
+0.0.0.0 v7.pstatp.com
+0.0.0.0 v9.pstatp.com
+0.0.0.0 v-bs.pstatp.com
+0.0.0.0 voffline.pstatp.com
+0.0.0.0 wd3.pstatp.com
+0.0.0.0 weiliicimg9.pstatp.com
+#[ladipage]
+0.0.0.0 api.ladipage.vn
+0.0.0.0 builder.ladipage.vn
+0.0.0.0 dns.ladipage.vn
+0.0.0.0 doitac.ladipage.vn
+0.0.0.0 ladipage.vn
+0.0.0.0 ssl.ladipage.vn
+0.0.0.0 theme.ladipage.vn
+0.0.0.0 themes.ladipage.vn
+0.0.0.0 www.ladipage.vn
+0.0.0.0 ladipage.net
+0.0.0.0 static.ladipage.net
+0.0.0.0 dsmartvietnam.com
+0.0.0.0 sale.dsmartvietnam.com
+0.0.0.0 landingpagelagi.vn
+0.0.0.0 www.landingpagelagi.vn
+#[ezimar.com]
+0.0.0.0 caohavan.ezimar.com
+0.0.0.0 ezdns.ezimar.com
+0.0.0.0 ezimar.com
+0.0.0.0 server.ezimar.com
+0.0.0.0 tanyen.ezimar.com
+0.0.0.0 vietravel.ezimar.com
+0.0.0.0 www.ezimar.com
+0.0.0.0 youyou.ezimar.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -9918,6 +10042,7 @@
 0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.tiki.vn
 0.0.0.0 ads1.careerbuilder.vn
+0.0.0.0 adserver.lag.vn
 0.0.0.0 adsplus.vn
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adt.com.vn
@@ -11082,6 +11207,7 @@
 0.0.0.0 adsk2.co
 0.0.0.0 adskape.ru
 0.0.0.0 adsklick.de
+0.0.0.0 adslop.com
 0.0.0.0 adsmarket.com
 0.0.0.0 adsmart.co.uk
 0.0.0.0 adsmart.com
