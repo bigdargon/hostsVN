@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 02 Aug 2019
+# Last modified: 03 Aug 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -10279,6 +10279,23 @@
 0.0.0.0 wpni.tt.omtrdc.net
 0.0.0.0 www.nissan.d3.sc.omtrdc.net
 0.0.0.0 yodleeinc.tt.omtrdc.net
+#[ugdturner.com]
+0.0.0.0 ugdturner.com
+0.0.0.0 dev.ugdturner.com
+0.0.0.0 prod.ugdturner.com
+0.0.0.0 www.ugdturner.com
+#[zergnet.com]
+0.0.0.0 img.zergnet.com
+0.0.0.0 img1.zergnet.com
+0.0.0.0 img2.zergnet.com
+0.0.0.0 img3.zergnet.com
+0.0.0.0 img4.zergnet.com
+0.0.0.0 img5.zergnet.com
+0.0.0.0 ox-d.zergnet.com
+0.0.0.0 simg.zergnet.com
+0.0.0.0 static.zergnet.com
+0.0.0.0 www.zergnet.com
+0.0.0.0 zergnet.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -12660,7 +12677,6 @@
 0.0.0.0 hitslink.com
 0.0.0.0 hittail.com
 0.0.0.0 hkoxlirf.com
-0.0.0.0 hockeyapp.net
 0.0.0.0 hollandbusinessadvertising.nl
 0.0.0.0 hollowshake.com
 0.0.0.0 homepageking.de
@@ -13584,7 +13600,6 @@
 0.0.0.0 scripte-monster.de
 0.0.0.0 scrubsky.com
 0.0.0.0 scrubswim.com
-0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 searchfeast.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 searchramp.com
@@ -14801,7 +14816,6 @@
 0.0.0.0 ga.kvideo.io
 0.0.0.0 galleries.securesoft.info
 0.0.0.0 gallerycrush.com
-0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gclabrelscon.net
 0.0.0.0 gdby.com.cn
 0.0.0.0 gddingtian.com.cn
