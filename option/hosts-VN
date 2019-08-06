@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 26 Jul 2019
+# Last modified: 06 Aug 2019
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -245,6 +245,7 @@
 0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 log.sdk.zadn.vn
+0.0.0.0 zalo-ads.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 ads.zdn.vn
 0.0.0.0 org.zaloapp.ads.zdn.vn
@@ -438,6 +439,7 @@
 0.0.0.0 adt.com.vn
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.xemvtv.net
+0.0.0.0 affiliate.k4.tinhte.vn
 0.0.0.0 ailamtrieuphu.com
 0.0.0.0 alivar.com.vn
 0.0.0.0 alivar.vn
