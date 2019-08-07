@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 06 Aug 2019
+# Last modified: 07 Aug 2019
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -8,7 +8,6 @@
 #
 # =====================================================
 
-# BEGIN hostsVN ---
 # --- Group block ---
 #[google]
 0.0.0.0 doubleclick.net
@@ -1315,16 +1314,6 @@
 0.0.0.0 fast.accesstrade.com.vn
 0.0.0.0 accesstrade.com.vn
 0.0.0.0 accesstrade.com
-#[adpia]
-0.0.0.0 adpia.vn
-0.0.0.0 img.adpia.vn
-0.0.0.0 click.adpia.vn
-0.0.0.0 front.adpia.vn
-0.0.0.0 ac.adpia.vn
-0.0.0.0 mc.adpia.vn
-0.0.0.0 event.adpia.vn
-0.0.0.0 www.adpia.vn
-0.0.0.0 mail.adpia.vn
 #[chitika]
 0.0.0.0 chitika.com
 0.0.0.0 launchpad.chitika.com
@@ -3045,6 +3034,7 @@
 0.0.0.0 a.applvn.com
 0.0.0.0 applvn.com
 0.0.0.0 d.applvn.com
+0.0.0.0 ms.applvn.com
 0.0.0.0 rt.applvn.com
 #[appodealx]
 0.0.0.0 appodealx.com
@@ -10464,6 +10454,31 @@
 0.0.0.0 epsilon.thirdparty.bnc.lt
 0.0.0.0 thirdparty.bnc.lt
 0.0.0.0 thirdparty-staging.bnc.lt
+#[vclick.vn]
+0.0.0.0 ads.vclick.vn
+0.0.0.0 clip.vclick.vn
+0.0.0.0 s.vclick.vn
+0.0.0.0 static.vclick.vn
+0.0.0.0 vclick.vn
+0.0.0.0 www.vclick.vn
+#[adpia.vn]
+0.0.0.0 ac.adpia.vn
+0.0.0.0 adpia.vn
+0.0.0.0 click.adpia.vn
+0.0.0.0 event.adpia.vn
+0.0.0.0 front.adpia.vn
+0.0.0.0 healcheck.adpia.vn
+0.0.0.0 img.adpia.vn
+0.0.0.0 pm.adpia.vn
+0.0.0.0 s3.adpia.vn
+0.0.0.0 sendy.adpia.vn
+0.0.0.0 uptime.adpia.vn
+0.0.0.0 www.adpia.vn
+#[adz2you.net]
+0.0.0.0 adz2you.net
+0.0.0.0 adhitzcom.adz2you.net
+0.0.0.0 android.adz2you.net
+0.0.0.0 www.adz2you.net
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -10543,7 +10558,6 @@
 0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 vads.net.vn
 0.0.0.0 vads.vn
-0.0.0.0 vclick.vn
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vinaads.vn
@@ -11655,6 +11669,7 @@
 0.0.0.0 adskape.ru
 0.0.0.0 adsklick.de
 0.0.0.0 adslop.com
+0.0.0.0 adsluna.com
 0.0.0.0 adsmarket.com
 0.0.0.0 adsmart.co.uk
 0.0.0.0 adsmart.com
@@ -13548,6 +13563,7 @@
 0.0.0.0 privy.com
 0.0.0.0 prmtracking.com
 0.0.0.0 pro.i-doctor.co.kr
+0.0.0.0 pro-ads.club
 0.0.0.0 pro-advertising.com
 0.0.0.0 proext.com
 0.0.0.0 profero.com
@@ -14384,6 +14400,7 @@
 0.0.0.0 wtlive.com
 0.0.0.0 www.adexchangetracker.com
 0.0.0.0 www.ads24h.net
+0.0.0.0 www.adsluna.com
 0.0.0.0 www.adstune.com
 0.0.0.0 www.adtilt.com
 0.0.0.0 www.appbaqend.com
@@ -14420,6 +14437,7 @@
 0.0.0.0 www.oriori.com
 0.0.0.0 www.pcmclk.com
 0.0.0.0 www.performanceadexchange.com
+0.0.0.0 www.pro-ads.club
 0.0.0.0 www.pubmine.com
 0.0.0.0 www.push-notifications.top
 0.0.0.0 www.photo-ads.co.uk
@@ -15673,4 +15691,3 @@
 0.0.0.0 securedashfuyiersa.com
 0.0.0.0 manage.problem.securedashfuyiersa.com
 # --- Block testing ---
-# END hostsVN ---
