@@ -1,0 +1,14 @@
+# Title: hostsVN
+# Last modified: _time_stamp_ UTC+7
+# Minimal version for iOS. Please report any ads or problems by github
+# Home: https://bigdargon.github.io/hostsVN/
+# Github: https://github.com/bigdargon/hostsVN/
+# Report issues: https://github.com/bigdargon/hostsVN/issues
+# Download: https://github.com/bigdargon/hostsVN/raw/master/option/hosts-iOS
+#
+# =====================================================
+
+127.0.0.1		localhost
+255.255.255.255 broadcasthost
+::1				localhost
+
