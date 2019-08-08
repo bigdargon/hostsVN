@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 07 Aug 2019
+# Last modified: 08 Aug 2019
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -198,6 +198,7 @@
 0.0.0.0 click.m.ambientplatform.vn
 0.0.0.0 delivery.m.ambientplatform.vn
 #[ants]
+0.0.0.0 a.ants.vn
 0.0.0.0 ad.ants.vn
 0.0.0.0 ads.ants.vn
 0.0.0.0 ants.vn

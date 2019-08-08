@@ -8,39 +8,45 @@ Hosts block ads of Vietnamese - Hosts chặn quảng cáo của người Việt
 
 ***
 
-## Tập tin hosts đầy đủ
+## Tập tin hosts
 
+- Đường dẫn tập tin [hosts](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) đầy đủ:
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ```
 
+- Đường dẫn tập tin chỉ chứa [tên miền](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt):
+```
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+```
+
 ## iOS
 
-- Với ứng dụng [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) sử dụng đường dẫn dưới đây:
+- Với ứng dụng [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers-all.txt):
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers-all.txt
 ```
 
-- Với ứng dụng [Adblock](https://github.com/bigdargon/hostsVN/wiki/Adblock) sử dụng đường dẫn dưới đây:
+- Với ứng dụng [Adblock](https://github.com/bigdargon/hostsVN/wiki/Adblock) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/domain-adservers-all.txt):
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/domain-adservers-all.txt
 ```
 
-- Với ứng dụng [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) sử dụng đường dẫn dưới đây:
+- Với ứng dụng [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN.conf):
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN.conf
 ```
 
-- Với ứng dụng [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) sử dụng đường dẫn dưới đây:
+- Với ứng dụng [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult.conf):
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult.conf
 ```
 
-**Ngoài ra**, bạn nên sử dụng thêm [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard) để chặn hoàn toàn quảng cáo **trên Safari**.
+**Ngoài ra**, bạn nên sử dụng thêm [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard) để chặn quảng cáo **trên Safari**.
 
 ## Android
 
-- Với các máy Android chưa root, sử dụng đường dẫn dưới đây cho một số ứng dụng như [Blokada](https://blokada.org/#download), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66/), [Virtual Hosts](https://play.google.com/store/apps/details?id=com.github.xfalcon.vhosts):
+- Với các máy Android chưa root, sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) cho một số ứng dụng như [Blokada](https://blokada.org/#download), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66/), [Virtual Hosts](https://play.google.com/store/apps/details?id=com.github.xfalcon.vhosts):
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ```
@@ -50,10 +56,4 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 https://abpvn.com/android/abpvn.txt
 ```
 
-## Tập tin chỉ bao gồm tên miền
-
-```
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
-```
-
-**Truy cập [trang Wiki](https://github.com/bigdargon/hostsVN/wiki) để biết thêm chi tiết các bài hướng dẫn. Chúc các bạn thành công!**
+**Truy cập [trang Wiki](https://github.com/bigdargon/hostsVN/wiki) để xem chi tiết các bài hướng dẫn. Chúc các bạn thành công!**
