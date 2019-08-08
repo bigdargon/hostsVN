@@ -1,0 +1,187 @@
+#!MANAGED-CONFIG https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN.conf interval=21600 strict=true
+[General]
+loglevel = notify
+skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, ::ffff:0.0.0.0/1, ::ffff:128.0.0.0/1, localhost, *.local
+dns-server = 8.8.8.8, system
+ipv6 = false
+
+[Replica]
+hide-apple-request = true
+hide-crashlytics-request = true
+hide-udp = true
+use-keyword-filter = false
+
+[Proxy]
+🇻🇳hostsVN = http, 127.0.0.1, 80, username, password
+Fake iAP 1 = http, 34.68.164.252, 8080
+
+[Proxy Group]
+Proxy = select, 🇻🇳hostsVN, Fake iAP 1
+
+[URL Rewrite]
+^https?:\/\/(\w+\.)?(ads|adserver|uniad|ad-|pagead|adformat|log\w?|tj|tongji|analysis|stat|stats|statis|trace|track|tracking|click)\.\w+\.(com|cn|org|info|io|net|vn) - reject
+
+//apple
+^http?://ocsp.apple.com/* - reject
+
+//facebook
+^https?://graph.facebook.com/network_ads_common/* - reject
+^https?://graph.facebook.com/.+activities - reject
+^https?://graph.facebook.com/.+advertiser_id=* - reject
+^https?://www.facebook.com/adnw_logging/* - reject
+
+//nhaccuatui
+^https?://graph.nhaccuatui.com/.+advs/* - reject
+^https?://graph.nhaccuatui.com/.+logs/* - reject
+^https?://graph.nhaccuatui.com/.+3g-get-info - reject
+^https?://graph.nhaccuatui.com/.+notify-firebase - reject
+^https?://graph.nhaccuatui.com/.+deviceinfo - reject
+^https?://avatar-nct.nixcdn.com/.+popup - reject
+
+//spotify
+^https?://spclient.wg.spotify.com/ad-logic/* - reject
+^https?://spclient.wg.spotify.com/ads/* - reject
+^https?://spclient.wg.spotify.com/.+crashlytics - reject
+^https?://spclient.wg.spotify.com/.+doubleclick.net - reject
+^https?://spclient.wg.spotify.com/.+event - reject
+^https?://spclient.wg.spotify.com/.+promoted_offer - reject
+^https?://spclient.wg.spotify.com/.+ad_slot - reject
+^https?://spclient.wg.spotify.com/.+banners - reject
+^https?://spclient.wg.spotify.com/.+enabled-tracks - reject
+
+//google
+^https?:\/\/.+\.googlevideo\.com\/.+ctier - reject
+^https?:\/\/.+\.googlevideo\.com\/.+&oad - reject
+^https?:\/\/.+\.googlevideo\.com\/.+&owc - reject
+^https?:\/\/.+\.googlevideo\.com\/ptracking\?pltype=adhost - reject
+^https?:\/\/.+\.googlevideo\.com\/videogoodput\? - reject
+^https?:\/\/.+\.youtube\.com\/.+get_ads - reject
+^https?:\/\/.+\.youtube\.com\/api\/stats\/.+adformat - reject
+^https?:\/\/.+\.youtube\.com\/api\/stats\/ads - reject
+^https?:\/\/.+\.youtube\.com\/error_204 - reject
+^https?:\/\/.+\.youtube\.com\/get_midroll - reject
+^https?:\/\/.+\.youtube\.com\/pagead\/* - reject
+^https?:\/\/.+\.youtube\.com\/ptracking\? - reject
+^https?:\/\/play.googleapis.com/log* - reject
+^https?:\/\/www.googleapis.com/adsmeasurement/* - reject
+^https?:\/\/youtubei.googleapis.com/youtubei/.+ad_ - reject
+^https?:\/\/youtubei.googleapis.com/youtubei/.+log_ - reject
+
+//tiktok
+^https?:\/\/api\d?\.tiktokv\.com\/api\/ad\/ - reject
+^https?:\/\/api\d?\.musical\.ly\/api\/ad\/ - reject
+
+//zalo
+^https?://qos-zdn.zaloapp.com/.+trackqos - reject
+^https?://centralized.zaloapp.com/.+tracking - reject
+^https?://oa.zalo.me/.+campaign=zalo - reject
+
+[MITM]
+hostname = graph.nhaccuatui.com, avatar-nct.nixcdn.com, spclient.wg.spotify.com, *.googlevideo.com, www.youtube.com, youtubei.googleapis.com, www.googleapis.com, api.tiktokv.com, oa.zalo.me
+
+[Rule]
+DOMAIN-KEYWORD,adclick,REJECT
+DOMAIN-KEYWORD,adjust,REJECT
+DOMAIN-KEYWORD,admarvel,REJECT
+DOMAIN-KEYWORD,admaster,REJECT
+DOMAIN-KEYWORD,admdfs,REJECT
+DOMAIN-KEYWORD,admicro,REJECT
+DOMAIN-KEYWORD,adnewnc,REJECT
+DOMAIN-KEYWORD,ads.,REJECT
+DOMAIN-KEYWORD,ads1.,REJECT
+DOMAIN-KEYWORD,adsage,REJECT
+DOMAIN-KEYWORD,adsame,REJECT
+DOMAIN-KEYWORD,adsensor,REJECT
+DOMAIN-KEYWORD,adserver,REJECT
+DOMAIN-KEYWORD,adservice,REJECT
+DOMAIN-KEYWORD,adsmogo,REJECT
+DOMAIN-KEYWORD,adsrvmedia,REJECT
+DOMAIN-KEYWORD,adsystem,REJECT
+DOMAIN-KEYWORD,adtima,REJECT
+DOMAIN-KEYWORD,advert,REJECT
+DOMAIN-KEYWORD,adwords,REJECT
+DOMAIN-KEYWORD,allyes,REJECT
+DOMAIN-KEYWORD,analysis,REJECT
+DOMAIN-KEYWORD,analysys,REJECT
+DOMAIN-KEYWORD,analytics,REJECT
+DOMAIN-KEYWORD,applovin,REJECT
+DOMAIN-KEYWORD,app-measurement,REJECT
+DOMAIN-KEYWORD,appsflyer,REJECT
+DOMAIN-KEYWORD,banner.,REJECT
+DOMAIN-KEYWORD,banners.,REJECT
+DOMAIN-KEYWORD,click.,REJECT
+DOMAIN-KEYWORD,clkservice,REJECT
+DOMAIN-KEYWORD,counter,REJECT
+DOMAIN-KEYWORD,crashlytics,REJECT
+DOMAIN-KEYWORD,dnserror,REJECT
+DOMAIN-KEYWORD,domob,REJECT
+DOMAIN-KEYWORD,doubleclick,REJECT
+DOMAIN-KEYWORD,duapps,REJECT
+DOMAIN-KEYWORD,duomeng,REJECT
+DOMAIN-KEYWORD,dwtrack,REJECT
+DOMAIN-KEYWORD,float,REJECT
+DOMAIN-KEYWORD,fwmrm,REJECT
+DOMAIN-KEYWORD,googleads,REJECT
+DOMAIN-KEYWORD,googlesyndication,REJECT
+DOMAIN-KEYWORD,iad.,REJECT
+DOMAIN-KEYWORD,inmobi,REJECT
+DOMAIN-KEYWORD,instabug,REJECT
+DOMAIN-KEYWORD,lianmeng,REJECT
+DOMAIN-KEYWORD,medialytics,REJECT
+DOMAIN-KEYWORD,mixpanel,REJECT
+DOMAIN-KEYWORD,mobaders,REJECT
+DOMAIN-KEYWORD,omgmta,REJECT
+DOMAIN-KEYWORD,openx,REJECT
+DOMAIN-KEYWORD,partnerad,REJECT
+DOMAIN-KEYWORD,pingfore,REJECT
+DOMAIN-KEYWORD,polyad,REJECT
+DOMAIN-KEYWORD,popads,REJECT
+DOMAIN-KEYWORD,socdm,REJECT
+DOMAIN-KEYWORD,stats.,REJECT
+DOMAIN-KEYWORD,taboola,REJECT
+DOMAIN-KEYWORD,track-,REJECT
+DOMAIN-KEYWORD,track.,REJECT
+DOMAIN-KEYWORD,tracking-,REJECT
+DOMAIN-KEYWORD,tracking.,REJECT
+DOMAIN-KEYWORD,uedas,REJECT
+DOMAIN-KEYWORD,umeng,REJECT
+DOMAIN-KEYWORD,umtrack,REJECT
+DOMAIN-KEYWORD,usage,REJECT
+DOMAIN-KEYWORD,vclick,REJECT
+
+DOMAIN-KEYWORD,api.lightricks.com,REJECT
+DOMAIN,api.revenuecat.com,Fake iAP 1
+DOMAIN,api.faceapp.io,Fake iAP 1
+DOMAIN,api.unfold.app,Fake iAP 1
+DOMAIN,asla.joytunes.com,Fake iAP 1
+DOMAIN,graph.nhaccuatui.com,Fake iAP 1
+DOMAIN,accounts.elevateapp.net,Fake iAP 1
+DOMAIN,pixmagicapp.com,Fake iAP 1
+DOMAIN,api.busuu.com,Fake iAP 1
+DOMAIN,bmall.camera360.com,Fake iAP 1
+DOMAIN,entitlements.adobe.io,Fake iAP 1
+DOMAIN,photos.adobe.io,Fake iAP 1
+DOMAIN,api-intl.mr.meitu.com,Fake iAP 1
+DOMAIN-SUFFIX,api.memrise.com,Fake iAP 1
+DOMAIN-SUFFIX,api.picsart.com,Fake iAP 1
+DOMAIN-SUFFIX,api.mondlylanguages.com,Fake iAP 1
+DOMAIN,vsco.co,Fake iAP 1
+DOMAIN-SUFFIX,pool.elsanow.io,Fake iAP 1
+DOMAIN-SUFFIX,api.calm.com,Fake iAP 1
+DOMAIN-SUFFIX,www.calm.com,Fake iAP 1
+DOMAIN-SUFFIX,api.indicative.com,Fake iAP 1
+DOMAIN-SUFFIX,lambda.us-east-1.amazonaws.com,Fake iAP 1
+DOMAIN,api.instasize.com,Fake iAP 1
+DOMAIN,purchases.ws.pho.to,Fake iAP 1
+DOMAIN,nomo.dafork.com,Fake iAP 1
+DOMAIN,cloudapp.aiarlabs.com,Fake iAP 1
+DOMAIN,buy.itunes.apple.com,Fake iAP 1
+DOMAIN,live.infltr.us,Fake iAP 1
+DOMAIN,owa.videoshowiosglobalserver.com,Fake iAP 1
+DOMAIN,viva-asia1-ak.api.xiaoying.co,Fake iAP 1
+DOMAIN,app.algoriddim.com,Fake iAP 1
+DOMAIN,viva-asia1.vvbrd.com,Fake iAP 1
+
+FINAL,DIRECT
+
+[Host]
