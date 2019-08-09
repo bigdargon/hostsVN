@@ -1,6 +1,6 @@
 ---
 name: "Báo lỗi"
-about: Mẫu dùng để báo lỗi khi gặp sự cố khi sử dụng hosts
+about: Mẫu báo lỗi gặp sự cố khi sử dụng hosts
 labels: 
 
 ---
@@ -28,3 +28,4 @@ labels:
 </details><br/>
 
 [//]: # (Mô tả chi tiết (nếu có) để lỗi được xử lý nhanh hơn!)
+***Chi tiết***:
