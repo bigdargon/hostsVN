@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 09 Aug 2019 14:35 UTC+7
+# Last modified: 09 Aug 2019 15:57 UTC+7
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -11,25 +11,59 @@
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
+0.0.0.0 api.adtimaserver.vn
+0.0.0.0 log.adtimaserver.vn
+0.0.0.0 media.adtimaserver.vn
+0.0.0.0 media.org.adtimaserver.vn
 0.0.0.0 static.adtimaserver.vn
 0.0.0.0 static2.adtimaserver.vn
-0.0.0.0 media.adtimaserver.vn
-0.0.0.0 log.adtimaserver.vn
-0.0.0.0 api.adtimaserver.vn
-0.0.0.0 mail.adtimaserver.vn
+0.0.0.0 stream.adtimaserver.vn
+0.0.0.0 stream.org.adtimaserver.vn
 #[eclick]
-0.0.0.0 eclick.vn
-0.0.0.0 la.eclick.vn
-0.0.0.0 static.eclick.vn
-0.0.0.0 iad.eclick.vn
 0.0.0.0 admin.iad.eclick.vn
-0.0.0.0 e.eclick.vn
-0.0.0.0 emarketing.eclick.vn
+0.0.0.0 analytics.eclick.vn
+0.0.0.0 c.d.eclick.vn
+0.0.0.0 c.eclick.vn
+0.0.0.0 cpm.d.eclick.vn
+0.0.0.0 cpm.eclick.vn
+0.0.0.0 cpm.j.eclick.vn
+0.0.0.0 d.eclick.vn
 0.0.0.0 dmp.eclick.vn
-0.0.0.0 s.eclick.vn
-0.0.0.0 g.eclick.vn
 0.0.0.0 dt.eclick.vn
+0.0.0.0 e.eclick.vn
+0.0.0.0 eclick.vn
+0.0.0.0 emarketing.eclick.vn
+0.0.0.0 g.eclick.vn
 0.0.0.0 html.eclick.vn
+0.0.0.0 iad.eclick.vn
+0.0.0.0 img.eclick.vn
+0.0.0.0 imgportal.eclick.vn
+0.0.0.0 j.eclick.vn
+0.0.0.0 l.a.eclick.vn
+0.0.0.0 l.d.eclick.vn
+0.0.0.0 la.eclick.vn
+0.0.0.0 la2.eclick.vn
+0.0.0.0 log.d.eclick.vn
+0.0.0.0 log.eclick.vn
+0.0.0.0 log.pv.eclick.vn
+0.0.0.0 log.pv1.eclick.vn
+0.0.0.0 r.eclick.vn
+0.0.0.0 rtb.eclick.vn
+0.0.0.0 s.eclick.vn
+0.0.0.0 scdn.eclick.vn
+0.0.0.0 st.a.eclick.vn
+0.0.0.0 st.admin.iad.eclick.vn
+0.0.0.0 st.eclick.vn
+0.0.0.0 st.l.a.eclick.vn
+0.0.0.0 staging.j.eclick.vn
+0.0.0.0 static.eclick.vn
+0.0.0.0 stiad.eclick.vn
+0.0.0.0 stla.eclick.vn
+0.0.0.0 stportal.eclick.vn
+0.0.0.0 t.d.eclick.vn
+0.0.0.0 t.eclick.vn
+0.0.0.0 tracking.eclick.vn
+0.0.0.0 www.eclick.vn
 #[admicro]
 0.0.0.0 adi.admicro.vn
 0.0.0.0 admail.admicro.vn
@@ -100,21 +134,32 @@
 0.0.0.0 ads.hosting.vcmedia.vn
 #[adnetwork]
 0.0.0.0 adnetwork.vn
-0.0.0.0 media.adnetwork.vn
-0.0.0.0 s-cm.send.adnetwork.vn
-0.0.0.0 retg.adnetwork.vn
-0.0.0.0 track.adnetwork.vn
-0.0.0.0 imp.adnetwork.vn
-0.0.0.0 member.adnetwork.vn
-0.0.0.0 metrics.adnetwork.vn
+0.0.0.0 client-pages.adnetwork.vn
 0.0.0.0 conv.adnetwork.vn
 0.0.0.0 delivery.adnetwork.vn
+0.0.0.0 imp.adnetwork.vn
+0.0.0.0 media.adnetwork.vn
+0.0.0.0 member.adnetwork.vn
+0.0.0.0 metrics.adnetwork.vn
+0.0.0.0 retg.adnetwork.vn
+0.0.0.0 s-cm.send.adnetwork.vn
+0.0.0.0 track.adnetwork.vn
+0.0.0.0 www.adnetwork.vn
 #[novanet]
 0.0.0.0 admin.novanet.vn
 0.0.0.0 ads.novanet.vn
 0.0.0.0 analytics.novanet.vn
+0.0.0.0 banner.novanet.vn
+0.0.0.0 click.novanet.vn
 0.0.0.0 cp.novanet.vn
+0.0.0.0 cpcclick.novanet.vn
+0.0.0.0 cpm.novanet.vn
 0.0.0.0 f.novanet.vn
+0.0.0.0 f2.novanet.vn
+0.0.0.0 file.novanet.vn
+0.0.0.0 landingpage.novanet.vn
+0.0.0.0 lp.novanet.vn
+0.0.0.0 mobile.novanet.vn
 0.0.0.0 novanet.vn
 0.0.0.0 rnd.novanet.vn
 0.0.0.0 script.novanet.vn
@@ -174,18 +219,31 @@
 0.0.0.0 itim.vn
 0.0.0.0 spell.itim.vn
 #[lavanetwork]
-0.0.0.0 lavanetwork.net
-0.0.0.0 ad1.lavanetwork.net
-0.0.0.0 images1.lavanetwork.net
-0.0.0.0 slv1.lavanetwork.net
-0.0.0.0 data.lavanetwork.net
-0.0.0.0 pub.lavanetwork.net
 0.0.0.0 ad.lavanetwork.net
+0.0.0.0 ad1.lavanetwork.net
 0.0.0.0 admin.lavanetwork.net
-0.0.0.0 libs.lavanetwork.net
-0.0.0.0 test.lavanetwork.net
+0.0.0.0 admin1.lavanetwork.net
+0.0.0.0 adsv.lavanetwork.net
+0.0.0.0 adv.lavanetwork.net
+0.0.0.0 banner.lavanetwork.net
+0.0.0.0 creatives.lavanetwork.net
+0.0.0.0 data.lavanetwork.net
 0.0.0.0 delivery.lavanetwork.net
 0.0.0.0 delivery1.lavanetwork.net
+0.0.0.0 delivery2.lavanetwork.net
+0.0.0.0 images.lavanetwork.net
+0.0.0.0 images1.lavanetwork.net
+0.0.0.0 img.lavanetwork.net
+0.0.0.0 lavanetwork.net
+0.0.0.0 libs.lavanetwork.net
+0.0.0.0 monitor1.lavanetwork.net
+0.0.0.0 pub.lavanetwork.net
+0.0.0.0 revive.lavanetwork.net
+0.0.0.0 slv1.lavanetwork.net
+0.0.0.0 test.lavanetwork.net
+0.0.0.0 video.lavanetwork.net
+0.0.0.0 www.lavanetwork.net
+0.0.0.0 xaxis.lavanetwork.net
 #[polyad]
 0.0.0.0 core.polyad.net
 0.0.0.0 cp.polyad.net
@@ -202,25 +260,44 @@
 0.0.0.0 st.polyad.net
 #[ambientplatform]
 0.0.0.0 ambientplatform.vn
+0.0.0.0 campaigns.ambientplatform.vn
+0.0.0.0 cdn.ambientplatform.vn
+0.0.0.0 cdn.m.ambientplatform.vn
+0.0.0.0 click.m.ambientplatform.vn
+0.0.0.0 delivery.m.ambientplatform.vn
+0.0.0.0 imp.m.ambientplatform.vn
 0.0.0.0 m.ambientplatform.vn
 0.0.0.0 media.ambientplatform.vn
 0.0.0.0 media.m.ambientplatform.vn
-0.0.0.0 click.m.ambientplatform.vn
-0.0.0.0 delivery.m.ambientplatform.vn
+0.0.0.0 metrics.m.ambientplatform.vn
+0.0.0.0 rd.ambientplatform.vn
 #[ants]
 0.0.0.0 a.ants.vn
+0.0.0.0 abs.ants.vn
 0.0.0.0 ad.ants.vn
 0.0.0.0 ads.ants.vn
+0.0.0.0 adx.ants.vn
 0.0.0.0 ants.vn
+0.0.0.0 api-app.ants.vn
+0.0.0.0 app.ants.vn
+0.0.0.0 apps.ants.vn
+0.0.0.0 au.ants.vn
+0.0.0.0 au-insight.ants.vn
 0.0.0.0 babe.ants.vn
-0.0.0.0 blog.ants.vn
 0.0.0.0 crm.ants.vn
 0.0.0.0 d.ants.vn
 0.0.0.0 dsp-d.ants.vn
+0.0.0.0 e.ants.vn
 0.0.0.0 insight.ants.vn
+0.0.0.0 m-a.ants.vn
+0.0.0.0 ogs.ants.vn
+0.0.0.0 oms-t.ants.vn
 0.0.0.0 p.ants.vn
+0.0.0.0 prebid.ants.vn
+0.0.0.0 schemas.ants.vn
 0.0.0.0 st-au.ants.vn
 0.0.0.0 t.ants.vn
+0.0.0.0 t.d.ants.vn
 0.0.0.0 www.ants.vn
 #[adtima.vn]
 0.0.0.0 admin.billing.adtima.vn

@@ -15,8 +15,8 @@ cat tmp/title-adserver.tmp tmp/list-adservers.tmp > filters/domain-adservers.txt
 cat tmp/title-adserver-all.tmp tmp/list-adservers.tmp tmp/list-adservers-all.tmp > filters/domain-adservers-all.txt
 
 # create files
-cat source/list-hosts.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' >> tmp/domain.txt
-cat source/list-hosts.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "0 "$2}' >> tmp/hosts-iOS.tmp
+cat source/list-hosts-group.txt source/list-hosts-VN-group.txt source/list-hosts-VN.txt source/list-hosts.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' >> tmp/domain.txt
+cat source/list-hosts-group.txt source/list-hosts-VN-group.txt source/list-hosts-VN.txt source/list-hosts.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "0 "$2}' >> tmp/hosts-iOS.tmp
 cat filters/domain-adservers.txt | grep -v '!' | awk '{print "||"$1"^"}' >> tmp/adservers-rule.tmp
 cat filters/domain-adservers-all.txt | grep -v '!' | awk '{print "||"$1"^"}' >> tmp/adservers-all-rule.tmp
 cat filters/domain-adservers-all.txt | grep -v '!' | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adservers-config.tmp
