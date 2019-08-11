@@ -171,7 +171,6 @@
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 qwapi.apple.com
-0.0.0.0 stats.gc.apple.com
 0.0.0.0 su.iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 ut.iadsdk.apple.com
@@ -629,7 +628,6 @@
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-twitter.com
-0.0.0.0 analytics.twitter.com
 0.0.0.0 cdn.syndication.twitter.com
 0.0.0.0 cdn-eb.syndication.twitter.com
 0.0.0.0 p.twitter.com
@@ -10228,3 +10226,17 @@
 0.0.0.0 oascentral.abclocal.go.com
 0.0.0.0 seavideo-ak.espn.go.com
 0.0.0.0 w88.go.com
+#[dm-event.net]
+0.0.0.0 dm-event.net
+0.0.0.0 mebed.dm-event.net
+0.0.0.0 pebed.dm-event.net
+0.0.0.0 webed.dm-event.net
+#[optmnstr.com]
+0.0.0.0 a.optmnstr.com
+0.0.0.0 api.optmnstr.com
+0.0.0.0 app.optmnstr.com
+0.0.0.0 certs.optmnstr.com
+0.0.0.0 ga.optmnstr.com
+0.0.0.0 optmnstr.com
+0.0.0.0 www.optmnstr.com
+0.0.0.0 z.optmnstr.com

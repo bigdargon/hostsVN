@@ -168,7 +168,6 @@ cs.iadsdk.apple.com
 iadsdk.apple.com
 news.iadsdk.apple.com
 qwapi.apple.com
-stats.gc.apple.com
 su.iadsdk.apple.com
 tr.iadsdk.apple.com
 ut.iadsdk.apple.com
@@ -619,7 +618,6 @@ graph.instagram.com
 ads.twitter.com
 ads-bidder-api.twitter.com
 ads-twitter.com
-analytics.twitter.com
 cdn.syndication.twitter.com
 cdn-eb.syndication.twitter.com
 p.twitter.com
@@ -9868,6 +9866,18 @@ ngads.go.com
 oascentral.abclocal.go.com
 seavideo-ak.espn.go.com
 w88.go.com
+dm-event.net
+mebed.dm-event.net
+pebed.dm-event.net
+webed.dm-event.net
+a.optmnstr.com
+api.optmnstr.com
+app.optmnstr.com
+certs.optmnstr.com
+ga.optmnstr.com
+optmnstr.com
+www.optmnstr.com
+z.optmnstr.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -10412,6 +10422,12 @@ vietnamhouse.mangoads.vn
 vsteel.mangoads.vn
 webcodau.mangoads.vn
 www.mangoads.vn
+ad.org.vn
+cdn.serving.ad.org.vn
+member.ad.org.vn
+serving.ad.org.vn
+static.ad.org.vn
+www.ad.org.vn
 123c.vn
 ad-hcm.24hstatic.com
 ad-hn.24hstatic.com
@@ -10419,7 +10435,6 @@ ad-img.icheck.com.vn
 ad.24h.com.vn
 ad.icheck.com.vn
 ad.mwork.vn
-ad.org.vn
 ad.vatgia.com
 ad.vietbao.vn
 ad.vkool.net
@@ -10449,7 +10464,6 @@ amobi.vn
 api.app.masoffer.net
 apinas.nct.vn
 app.masoffer.net
-appapicached.vtvgo.vn
 banner.5giay.vn
 clevernet.vn
 click.phanquang.vn
@@ -10482,8 +10496,6 @@ quangcao.phanquang.vn
 quangcao.thanhnien.vn
 quangcao.tuoitre.vn
 serving-ad.tv24.vn
-serving.ad.org.vn
-static.ad.org.vn
 static.masoffer.net
 static.mepuzz.com
 stc-nas.nixcdn.com
@@ -10511,6 +10523,7 @@ amcdn.vn
 analytics.bkav.com
 analytics.easyvideo.vn
 analytics.explus.vn
+analytics.thethao247.org
 analytics.vnreview.vn
 collect.ovp.vn
 fbuser.ovp.vn
@@ -10520,10 +10533,12 @@ log.anninhthudo.vn
 log.baomoi.com
 log.batdongsan.com.vn
 log.giaoduc.net.vn
+log.infonet.vn
 log.kienthuc.net.vn
 log.sggp.org.vn
 log.thanhnien.vn
 log.tienphong.vn
+log.vietnamdaily.net.vn
 log.vietnamplus.vn
 log.vov.vn
 log4x.nixcdn.com
@@ -10536,9 +10551,11 @@ s.soha.vn
 s.tuoitre.vn
 sharefb.cnnd.vn
 static.amcdn.vn
+staticad.thethao247.vn
 stats.bizweb.vn
 stats.vietnammoi.vn
 thongke.24h.com.vn
+thongke.baotintuc.vn
 track-srv.vietnamnet.vn
 track.icheck.com.vn
 track.sendo.vn
@@ -12934,6 +12951,7 @@ joetec.net
 jokedollars.com
 joneself.com
 js.hsforms.net
+js.spotx.tv
 js.users.51.la
 julysystems.com
 jumptap.com
@@ -13852,6 +13870,7 @@ sponsors.thoughtsmedia.com
 spot.fitness.com
 spotscenered.info
 spottysense.com
+spotx.tv
 spotxchange.com
 springaftermath.com
 sprinks-clicks.about.com
@@ -14380,9 +14399,6 @@ www.velocitycdn.com
 www.vidcpm.com
 www.webtrendslive.com
 www.zekiatagur.com
-www1.gto-media.com
-www8.glam.com
-wwwpromoter.com
 x-traceur.com
 x.appbaqend.com
 x6.yakiuchi.com
@@ -14472,7 +14488,6 @@ zy16eoat1w.com
 17so.so
 18cum.com
 191gm.com
-284419414.log.optimizely.com
 318x.com
 3262111.com
 332gm.com
@@ -14926,7 +14941,6 @@ future.grapeshot.co.uk
 fxpcw.com
 fyqydogivoxed.com
 g.3gl.net
-g.jwpsrv.com
 g.uusee.com
 ga.kvideo.io
 galleries.securesoft.info
@@ -14941,7 +14955,6 @@ geoip.maxmind.com
 geoip.nekudo.com
 geoip.tnt-ea.com
 getexceptional.com
-ggwwquzxdkaqwerob3-dd257mbsrsenuindsps.dsnxg.57670.net
 ghgmtcrluvghlwc91.com
 ghidneamt.ro
 gillingscamps.co.uk
@@ -15067,7 +15080,6 @@ jxcsteel.com
 jxy88.com
 k6r.net
 kalibrium.ru
-kele1688.web23.badudns.cc
 kidsghibli.com
 kineclick.free.fr
 kkvmaj.com
@@ -15212,13 +15224,11 @@ oqgmav.com
 orange.bageriethornslet.dk
 orcsnx.com
 ouroldfriends.com
-ovc2-ustokyyneikyfasnm.stackpathdns.com
 p.toourbb.com
 p.typekit.net
 panthawas.com
 paranteztanitim.com
 pattayabazaar.com
-paypal.com-resolution.center-ujpmq2vvcy7.l06v.com
 pc-pointers.com
 pcbangv.com
 pdk.lcn.cc
@@ -15482,9 +15492,7 @@ wittyvideos.com
 woojeoung.com
 wsxhost.net
 wtdpcb.com
-wtr1.ru
 wushirongye.com
-ww3.way-of-fun.com
 wwgin.com
 wwttmm.com
 www.4009997279.com
@@ -15549,13 +15557,11 @@ xinweico.net
 xinyangmeiye.com
 xinyitaoci.com
 xioooo.com
-xn--orw0a8690a.com
 xoads.com
 xobjzmhopjbboqkmc.com
 xpxp36.com
 xtxgsx.com
 xxi.ss.la
-xxxporno18.ru
 xy-cs.net
 xz.hkfg.net
 xzmnt.com

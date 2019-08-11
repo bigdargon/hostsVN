@@ -1,10 +1,11 @@
 ! Title: hostsVN
-! Last modified: 09 Aug 2019 15:57 UTC+7
+! Last modified: 11 Aug 2019 13:10 UTC+7
 !
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
 ||accesstrade.vn^
+||ad.org.vn^
 ||ad.zing.vn^
 ||ad360.vn^
 ||admicro*.vcmedia.com^
@@ -87,7 +88,6 @@
 ||ad.24h.com.vn^
 ||ad.icheck.com.vn^
 ||ad.mwork.vn^
-||ad.org.vn^
 ||ad.vatgia.com^
 ||ad.vietbao.vn^
 ||ad.vkool.net^
@@ -116,11 +116,9 @@
 ||amobi.vn^
 ||apinas.nct.vn^
 ||app.masoffer.net^
-||appapicached.vtvgo.vn^
 ||banner.5giay.vn^
 ||clevernet.vn^
 ||click.xdeal.vn^
-||client.vads.net.vn^
 ||clipbongda.info^
 ||clix.vn^
 ||delivery.senvangvn.com^
@@ -143,8 +141,6 @@
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
 ||serving-ad.tv24.vn^
-||serving.ad.org.vn^
-||static.ad.org.vn^
 ||static.masoffer.net^
 ||stc-nas.nixcdn.com^
 ||trenddigital.vn^
@@ -162,6 +158,7 @@
 ||analytics.bkav.com^
 ||analytics.easyvideo.vn^
 ||analytics.explus.vn^
+||analytics.thethao247.org^
 ||analytics.vnreview.vn^
 ||collect.ovp.vn^
 ||fbuser.ovp.vn^
@@ -169,10 +166,12 @@
 ||log.baomoi.com^
 ||log.batdongsan.com.vn^
 ||log.giaoduc.net.vn^
+||log.infonet.vn^
 ||log.kienthuc.net.vn^
 ||log.sggp.org.vn^
 ||log.thanhnien.vn^
 ||log.tienphong.vn^
+||log.vietnamdaily.net.vn^
 ||log.vietnamplus.vn^
 ||log.vov.vn^
 ||log4x.nixcdn.com^
@@ -183,9 +182,11 @@
 ||s.soha.vn^
 ||s.tuoitre.vn^
 ||sharefb.cnnd.vn^
+||staticad.thethao247.vn^
 ||stats.bizweb.vn^
 ||stats.vietnammoi.vn^
 ||thongke.24h.com.vn^
+||thongke.baotintuc.vn^
 ||track-srv.vietnamnet.vn^
 ||track.icheck.com.vn^
 ||track.sendo.vn^

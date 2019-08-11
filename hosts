@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 09 Aug 2019 15:57 UTC+7
+# Last modified: 11 Aug 2019 13:10 UTC+7
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -181,7 +181,6 @@
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 qwapi.apple.com
-0.0.0.0 stats.gc.apple.com
 0.0.0.0 su.iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 ut.iadsdk.apple.com
@@ -639,7 +638,6 @@
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-twitter.com
-0.0.0.0 analytics.twitter.com
 0.0.0.0 cdn.syndication.twitter.com
 0.0.0.0 cdn-eb.syndication.twitter.com
 0.0.0.0 p.twitter.com
@@ -10238,6 +10236,20 @@
 0.0.0.0 oascentral.abclocal.go.com
 0.0.0.0 seavideo-ak.espn.go.com
 0.0.0.0 w88.go.com
+#[dm-event.net]
+0.0.0.0 dm-event.net
+0.0.0.0 mebed.dm-event.net
+0.0.0.0 pebed.dm-event.net
+0.0.0.0 webed.dm-event.net
+#[optmnstr.com]
+0.0.0.0 a.optmnstr.com
+0.0.0.0 api.optmnstr.com
+0.0.0.0 app.optmnstr.com
+0.0.0.0 certs.optmnstr.com
+0.0.0.0 ga.optmnstr.com
+0.0.0.0 optmnstr.com
+0.0.0.0 www.optmnstr.com
+0.0.0.0 z.optmnstr.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -10817,6 +10829,13 @@
 0.0.0.0 vsteel.mangoads.vn
 0.0.0.0 webcodau.mangoads.vn
 0.0.0.0 www.mangoads.vn
+#[ad.org.vn]
+0.0.0.0 ad.org.vn
+0.0.0.0 cdn.serving.ad.org.vn
+0.0.0.0 member.ad.org.vn
+0.0.0.0 serving.ad.org.vn
+0.0.0.0 static.ad.org.vn
+0.0.0.0 www.ad.org.vn
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -10826,7 +10845,6 @@
 0.0.0.0 ad.24h.com.vn
 0.0.0.0 ad.icheck.com.vn
 0.0.0.0 ad.mwork.vn
-0.0.0.0 ad.org.vn
 0.0.0.0 ad.vatgia.com
 0.0.0.0 ad.vietbao.vn
 0.0.0.0 ad.vkool.net
@@ -10856,7 +10874,6 @@
 0.0.0.0 api.app.masoffer.net
 0.0.0.0 apinas.nct.vn
 0.0.0.0 app.masoffer.net
-0.0.0.0 appapicached.vtvgo.vn
 0.0.0.0 banner.5giay.vn
 0.0.0.0 clevernet.vn
 0.0.0.0 click.phanquang.vn
@@ -10889,8 +10906,6 @@
 0.0.0.0 quangcao.thanhnien.vn
 0.0.0.0 quangcao.tuoitre.vn
 0.0.0.0 serving-ad.tv24.vn
-0.0.0.0 serving.ad.org.vn
-0.0.0.0 static.ad.org.vn
 0.0.0.0 static.masoffer.net
 0.0.0.0 static.mepuzz.com
 0.0.0.0 stc-nas.nixcdn.com
@@ -10919,6 +10934,7 @@
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.explus.vn
+0.0.0.0 analytics.thethao247.org
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 collect.ovp.vn
 0.0.0.0 fbuser.ovp.vn
@@ -10928,10 +10944,12 @@
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.batdongsan.com.vn
 0.0.0.0 log.giaoduc.net.vn
+0.0.0.0 log.infonet.vn
 0.0.0.0 log.kienthuc.net.vn
 0.0.0.0 log.sggp.org.vn
 0.0.0.0 log.thanhnien.vn
 0.0.0.0 log.tienphong.vn
+0.0.0.0 log.vietnamdaily.net.vn
 0.0.0.0 log.vietnamplus.vn
 0.0.0.0 log.vov.vn
 0.0.0.0 log4x.nixcdn.com
@@ -10944,9 +10962,11 @@
 0.0.0.0 s.tuoitre.vn
 0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 static.amcdn.vn
+0.0.0.0 staticad.thethao247.vn
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 stats.vietnammoi.vn
 0.0.0.0 thongke.24h.com.vn
+0.0.0.0 thongke.baotintuc.vn
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track.icheck.com.vn
 0.0.0.0 track.sendo.vn
@@ -13345,6 +13365,7 @@
 0.0.0.0 jokedollars.com
 0.0.0.0 joneself.com
 0.0.0.0 js.hsforms.net
+0.0.0.0 js.spotx.tv
 0.0.0.0 js.users.51.la
 0.0.0.0 julysystems.com
 0.0.0.0 jumptap.com
@@ -14263,6 +14284,7 @@
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotscenered.info
 0.0.0.0 spottysense.com
+0.0.0.0 spotx.tv
 0.0.0.0 spotxchange.com
 0.0.0.0 springaftermath.com
 0.0.0.0 sprinks-clicks.about.com
@@ -14791,9 +14813,6 @@
 0.0.0.0 www.vidcpm.com
 0.0.0.0 www.webtrendslive.com
 0.0.0.0 www.zekiatagur.com
-0.0.0.0 www1.gto-media.com
-0.0.0.0 www8.glam.com
-0.0.0.0 wwwpromoter.com
 0.0.0.0 x-traceur.com
 0.0.0.0 x.appbaqend.com
 0.0.0.0 x6.yakiuchi.com
@@ -14884,7 +14903,6 @@
 0.0.0.0 17so.so
 0.0.0.0 18cum.com
 0.0.0.0 191gm.com
-0.0.0.0 284419414.log.optimizely.com
 0.0.0.0 318x.com
 0.0.0.0 3262111.com
 0.0.0.0 332gm.com
@@ -15338,7 +15356,6 @@
 0.0.0.0 fxpcw.com
 0.0.0.0 fyqydogivoxed.com
 0.0.0.0 g.3gl.net
-0.0.0.0 g.jwpsrv.com
 0.0.0.0 g.uusee.com
 0.0.0.0 ga.kvideo.io
 0.0.0.0 galleries.securesoft.info
@@ -15353,7 +15370,6 @@
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geoip.tnt-ea.com
 0.0.0.0 getexceptional.com
-0.0.0.0 ggwwquzxdkaqwerob3-dd257mbsrsenuindsps.dsnxg.57670.net
 0.0.0.0 ghgmtcrluvghlwc91.com
 0.0.0.0 ghidneamt.ro
 0.0.0.0 gillingscamps.co.uk
@@ -15479,7 +15495,6 @@
 0.0.0.0 jxy88.com
 0.0.0.0 k6r.net
 0.0.0.0 kalibrium.ru
-0.0.0.0 kele1688.web23.badudns.cc
 0.0.0.0 kidsghibli.com
 0.0.0.0 kineclick.free.fr
 0.0.0.0 kkvmaj.com
@@ -15624,13 +15639,11 @@
 0.0.0.0 orange.bageriethornslet.dk
 0.0.0.0 orcsnx.com
 0.0.0.0 ouroldfriends.com
-0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 p.toourbb.com
 0.0.0.0 p.typekit.net
 0.0.0.0 panthawas.com
 0.0.0.0 paranteztanitim.com
 0.0.0.0 pattayabazaar.com
-0.0.0.0 paypal.com-resolution.center-ujpmq2vvcy7.l06v.com
 0.0.0.0 pc-pointers.com
 0.0.0.0 pcbangv.com
 0.0.0.0 pdk.lcn.cc
@@ -15894,9 +15907,7 @@
 0.0.0.0 woojeoung.com
 0.0.0.0 wsxhost.net
 0.0.0.0 wtdpcb.com
-0.0.0.0 wtr1.ru
 0.0.0.0 wushirongye.com
-0.0.0.0 ww3.way-of-fun.com
 0.0.0.0 wwgin.com
 0.0.0.0 wwttmm.com
 0.0.0.0 www.4009997279.com
@@ -15961,13 +15972,11 @@
 0.0.0.0 xinyangmeiye.com
 0.0.0.0 xinyitaoci.com
 0.0.0.0 xioooo.com
-0.0.0.0 xn--orw0a8690a.com
 0.0.0.0 xoads.com
 0.0.0.0 xobjzmhopjbboqkmc.com
 0.0.0.0 xpxp36.com
 0.0.0.0 xtxgsx.com
 0.0.0.0 xxi.ss.la
-0.0.0.0 xxxporno18.ru
 0.0.0.0 xy-cs.net
 0.0.0.0 xz.hkfg.net
 0.0.0.0 xzmnt.com
