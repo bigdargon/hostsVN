@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 13 Aug 2019 10:14 UTC+7
-# Blocked: 811 domains
+# Last modified: 13 Aug 2019 13:48 UTC+7
+# Blocked: 812 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -202,18 +202,19 @@
 0.0.0.0 ads-target.coccoc.com
 0.0.0.0 banners-gallery.coccoc.com
 0.0.0.0 catalog.qc.coccoc.com
+0.0.0.0 cdn-qc.coccoc.com
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 cdn.qc.coccoc.com
-0.0.0.0 cdn-qc.coccoc.com
 0.0.0.0 context.qc.coccoc.com
 0.0.0.0 cp.qc.coccoc.com
 0.0.0.0 display.qc.coccoc.com
 0.0.0.0 metrics.coccoc.com
 0.0.0.0 nt-cdn.coccoc.com
 0.0.0.0 ntrb.qc.coccoc.com
-0.0.0.0 qc.coccoc.com
 0.0.0.0 qc-static.coccoc.com
+0.0.0.0 qc.coccoc.com
 0.0.0.0 searcher.qc.coccoc.com
+0.0.0.0 shop-cdn.coccoc.com
 0.0.0.0 shopping.coccoc.com
 0.0.0.0 qccoccocmedia.vn
 0.0.0.0 qc.coccoc.vn
