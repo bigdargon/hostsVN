@@ -1,18 +1,23 @@
 #!/bin/sh
 
-# make time stamp & count domain blocked
+# make time stamp & count blocked
 TIME_STAMP=`date +'%d %b %Y %H:%M'`
-COUNT_BLOCKED=$(cat source/list-hosts-group.txt source/list-hosts-VN-group.txt source/list-hosts-VN.txt source/list-hosts.txt | grep "0.0.0.0" | wc -l)
-NUMBER=$(printf "%'.f\n" "$COUNT_BLOCKED")
-COUNT_BLOCKED_VN=$(cat source/list-hosts-VN-group.txt source/list-hosts-VN.txt | grep "0.0.0.0" | wc -l)
-NUMBER_VN=$(printf "%'.f\n" "$COUNT_BLOCKED_VN")
+COUNT_DOMAIN=$(cat source/list-hosts-group.txt source/list-hosts-VN-group.txt source/list-hosts-VN.txt source/list-hosts.txt | grep "0.0.0.0" | wc -l)
+DOMAIN=$(printf "%'.f\n" "$COUNT_DOMAIN")
+COUNT_DOMAIN_VN=$(cat source/list-hosts-VN-group.txt source/list-hosts-VN.txt | grep "0.0.0.0" | wc -l)
+DOMAIN_VN=$(printf "%'.f\n" "$COUNT_DOMAIN_VN")
+
+COUNT_RULE=$(cat source/list-adservers.txt source/list-adservers-all.txt | grep -v '!' | wc -l)
+RULE=$(printf "%'.f\n" "$COUNT_RULE")
+COUNT_RULE_VN=$(cat source/list-adservers.txt | grep -v '!' | wc -l)
+RULE_VN=$(printf "%'.f\n" "$COUNT_RULE_VN")
 
 # update titles
-sed -e "s/_time_stamp_/$TIME_STAMP/g" tmp/title-adserver.txt > tmp/title-adserver.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" tmp/title-adserver-all.txt > tmp/title-adserver-all.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_number_/$NUMBER/g" tmp/title-hosts.txt > tmp/title-hosts.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_number_/$NUMBER/g" tmp/title-hosts-iOS.txt > tmp/title-hosts-iOS.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_number_vn_/$NUMBER_VN/g" tmp/title-hosts-VN.txt > tmp/title-hosts-VN.tmp
+sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_rule_vn_/$RULE_VN/g" tmp/title-adserver.txt > tmp/title-adserver.tmp
+sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_rule_/$RULE/g" tmp/title-adserver-all.txt > tmp/title-adserver-all.tmp
+sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts.txt > tmp/title-hosts.tmp
+sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts-iOS.txt > tmp/title-hosts-iOS.tmp
+sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_domain_vn_/$DOMAIN_VN/g" tmp/title-hosts-VN.txt > tmp/title-hosts-VN.tmp
 
 # create hosts files
 cat tmp/title-hosts.tmp source/list-hosts-group.txt source/list-hosts-VN-group.txt source/list-hosts-VN.txt source/list-hosts.txt > hosts

@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 11 Aug 2019 22:20 UTC+7
-!
+! Last modified: 13 Aug 2019 10:05 UTC+7
+! Blocked: 234 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -42,11 +42,11 @@
 ||ladipage.vn^
 ||landingpagelagi.vn^
 ||lavanetwork.net^
+||log*.mp3.zing.vn^
 ||log.api.zaloapp.com^
 ||log.news.zing.vn^
 ||log.sdk.zadn.vn^
 ||log.zingmp3.vn^
-||logv2.mp3.zing.vn^
 ||mangoads.vn^
 ||metrics.coccoc.com^
 ||novanet.vn^
@@ -68,7 +68,7 @@
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
 ||subiz.com^
-||tracking.playzing.g6.zing.vn^
+||tracking.*.zing.vn^
 ||vclick.vn^
 ||vietad.vn^
 ||vietnamnetad.vn^
@@ -102,10 +102,10 @@
 ||ads.home.vn^
 ||ads.ictnews.vn^
 ||ads.tiki.vn^
-||ads1.careerbuilder.vn^
+||ads*.careerbuilder.vn^
 ||adserver.lag.vn^
 ||adsplus.vn^
-||adsv2.autodaily.vn^
+||ads*.autodaily.vn^
 ||adt.com.vn^
 ||adx.kul.vn^
 ||adx.xemvtv.net^

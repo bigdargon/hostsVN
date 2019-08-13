@@ -77,7 +77,7 @@ Proxy = select, 🇻🇳hostsVN, Fake iAP 1
 ^https?://oa.zalo.me/.+campaign=zalo - reject
 
 [MITM]
-hostname = graph.nhaccuatui.com, avatar-nct.nixcdn.com, spclient.wg.spotify.com, *.googlevideo.com, www.youtube.com, youtubei.googleapis.com, www.googleapis.com, api.tiktokv.com, oa.zalo.me
+hostname = graph.nhaccuatui.com, avatar-nct.nixcdn.com, spclient.wg.spotify.com, *.googlevideo.com, www.youtube.com, youtubei.googleapis.com, www.googleapis.com, oa.zalo.me
 
 [Rule]
 DOMAIN-KEYWORD,adclick,REJECT
