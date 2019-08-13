@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 13 Aug 2019 13:48 UTC+7
-# Blocked: 15,757 domains
+# Last modified: 13 Aug 2019 14:28 UTC+7
+# Blocked: 15,824 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -10383,6 +10383,18 @@
 0.0.0.0 whoxies.advertserve.com
 0.0.0.0 wilkinson.advertserve.com
 0.0.0.0 woodenboat.advertserve.com
+#[advergine]
+0.0.0.0 advergine.com
+0.0.0.0 go.advergine.com
+0.0.0.0 spf1.advergine.com
+0.0.0.0 spf2.advergine.com
+0.0.0.0 spf3.advergine.com
+0.0.0.0 advergine.ru
+0.0.0.0 go.advergine.ru
+0.0.0.0 spf1.advergine.ru
+0.0.0.0 spf2.advergine.ru
+0.0.0.0 spf3.advergine.ru
+0.0.0.0 track.advergine.ru
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -10594,6 +10606,17 @@
 0.0.0.0 qc.coccoc.vn
 0.0.0.0 itim.vn
 0.0.0.0 spell.itim.vn
+#[rungrinh.vn]
+0.0.0.0 cdn.rungrinh.vn
+0.0.0.0 cdn1.rungrinh.vn
+0.0.0.0 dev-payment.rungrinh.vn
+0.0.0.0 dev.rungrinh.vn
+0.0.0.0 payment.rungrinh.vn
+0.0.0.0 rungrinh.vn
+0.0.0.0 staging.rungrinh.vn
+0.0.0.0 static.rungrinh.vn
+0.0.0.0 tds.rungrinh.vn
+0.0.0.0 www.rungrinh.vn
 #[lavanetwork]
 0.0.0.0 ad.lavanetwork.net
 0.0.0.0 ad1.lavanetwork.net
@@ -10970,6 +10993,54 @@
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 static.ad.org.vn
 0.0.0.0 www.ad.org.vn
+#[cityads.com]
+0.0.0.0 adv.cityads.com
+0.0.0.0 ali.cityads.com
+0.0.0.0 aliexpress-summer.cityads.com
+0.0.0.0 api.cityads.com
+0.0.0.0 auth.cityads.com
+0.0.0.0 auth2.cityads.com
+0.0.0.0 blog.cityads.com
+0.0.0.0 cdn.cityads.com
+0.0.0.0 cdn77.cityads.com
+0.0.0.0 challenge.cityads.com
+0.0.0.0 checker.cityads.com
+0.0.0.0 cityads.com
+0.0.0.0 cnt.cityads.com
+0.0.0.0 demobl.cityads.com
+0.0.0.0 developers.cityads.com
+0.0.0.0 dsp.cityads.com
+0.0.0.0 finance.cityads.com
+0.0.0.0 games.cityads.com
+0.0.0.0 geo.cityads.com
+0.0.0.0 grand-prix.cityads.com
+0.0.0.0 help.cityads.com
+0.0.0.0 infiniti.cityads.com
+0.0.0.0 join.cityads.com
+0.0.0.0 keitaro1.cityads.com
+0.0.0.0 love.cityads.com
+0.0.0.0 m.cityads.com
+0.0.0.0 market.cityads.com
+0.0.0.0 mvas.cityads.com
+0.0.0.0 mx00.cityads.com
+0.0.0.0 mxs01.cityads.com
+0.0.0.0 mxs02.cityads.com
+0.0.0.0 new.cityads.com
+0.0.0.0 nl-geo.cityads.com
+0.0.0.0 o.cityads.com
+0.0.0.0 out1.cityads.com
+0.0.0.0 out2.cityads.com
+0.0.0.0 out3.cityads.com
+0.0.0.0 promo.cityads.com
+0.0.0.0 redmine.cityads.com
+0.0.0.0 ru-geo.cityads.com
+0.0.0.0 september.cityads.com
+0.0.0.0 sg.cityads.com
+0.0.0.0 tinkoff.cityads.com
+0.0.0.0 us-geo.cityads.com
+0.0.0.0 userdocs.cityads.com
+0.0.0.0 wp-cdn.cityads.com
+0.0.0.0 www.cityads.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -12248,7 +12319,6 @@
 0.0.0.0 advariant.com
 0.0.0.0 adventory.com
 0.0.0.0 adver.mobi
-0.0.0.0 advergine.com
 0.0.0.0 adverserve.net
 0.0.0.0 advert.bayarea.com
 0.0.0.0 advert.dyna.ultraweb.hu

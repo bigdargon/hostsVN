@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 13 Aug 2019 13:48 UTC+7
-! Blocked: 5,575 rules
+! Last modified: 13 Aug 2019 14:28 UTC+7
+! Blocked: 5,578 rules
 ! The section containing the list contains all ad networks and tracking
 !
 accesstrade.com.vn
@@ -29,6 +29,7 @@ ants.vn
 api.sdk.zadn.vn
 banners-gallery.coccoc.com
 cdn.comedia.coccoc.com
+cityads.com
 cleverads.vn
 cokhach.com
 dsmartvietnam.com
@@ -62,6 +63,7 @@ qc-static.coccoc.com
 qc.coccoc.com
 qc.coccoc.vn
 qccoccocmedia.vn
+rungrinh.vn
 shop-cdn.coccoc.com
 shop.zalo.me
 shopping.coccoc.com
@@ -319,6 +321,8 @@ adthor.com
 adtimes.nytimes.com
 adtrackers.net
 adtrue.com
+advergine.com
+advergine.ru
 advertica.ae
 advertising.amazon.com
 advertising.apple.com
@@ -1737,7 +1741,6 @@ adv.yo.cz
 advariant.com
 adventory.com
 adver.mobi
-advergine.com
 adverserve.net
 advert.bayarea.com
 advert.dyna.ultraweb.hu
