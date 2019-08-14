@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 13 Aug 2019 14:28 UTC+7
-! Blocked: 5,578 rules
+! Last modified: 14 Aug 2019 10:20 UTC+7
+! Blocked: 5,573 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -17,9 +17,7 @@
 ||ads.zaloapp.com^
 ||ads.zdn.vn^
 ||adservice.google.com.vn^
-||adtima-media-td.zadn.vn^
-||adtima-media.zadn.vn^
-||adtima-static.zadn.vn^
+||adtima-*.zadn.vn^
 ||adtima.vn^
 ||adtimaserver.vn^
 ||ambient-platform.com^
@@ -56,7 +54,6 @@
 ||novaonads.com^
 ||novaonx.com^
 ||nt-cdn.coccoc.com^
-||org.zaloapp.ads.zdn.vn^
 ||pinetech.vn^
 ||polyad.net^
 ||qc-static.coccoc.com^
@@ -79,7 +76,6 @@
 ||younetmedia.com^
 ||zalo-ads-td.zadn.vn^
 ||zalo-ads.zadn.vn^
-||zaloapp.ads.zdn.vn^
 ||zlog.zingmp3.vn^
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
@@ -288,6 +284,7 @@
 ||ads-d.viber.com^
 ||ads-fa.spotify.com^
 ||ads-twitter.com^
+||ads.*.unity3d.com^
 ||ads.ak.facebook.com^
 ||ads.ak.facebook.com.edgesuite.net^
 ||ads.aws.viber.com^
@@ -357,7 +354,6 @@
 ||answers.com^
 ||api.ads.*.go.com^
 ||api.mobojoy.baidu.com^
-||api.uca.cloud.unity3d.com^
 ||app-adforce.jp^
 ||app.link^
 ||appadhoc.com^
@@ -411,7 +407,6 @@
 ||bzclk.baidu.com^
 ||casalemedia.com^
 ||cdnwidget.com^
-||cdp.cloud.unity3d.com^
 ||celtra.com^
 ||chartbeat.com^
 ||chartbeat.net^
@@ -427,12 +422,12 @@
 ||clientmetrics-pa.googleapis.com^
 ||clksite.com^
 ||clog.go.com^
+||cloud.unity3d.com^
 ||cloudmobi.net^
 ||cnzz.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
 ||conf.international.baidu.com^
-||config.uca.cloud.unity3d.com^
 ||consensu.org^
 ||content.ad^
 ||contextweb.com^
@@ -506,6 +501,7 @@
 ||hotjar.com^
 ||i-mobile.co.jp^
 ||iadsdk.apple.com^
+||iap.unity3d.com^
 ||ichnaea.netflix.com^
 ||iesnare.com^
 ||ilyonanalytics.herokuapp.com^
@@ -621,7 +617,6 @@
 ||pagead.l.google.com^
 ||parrable.com^
 ||partnerad.l.google.com^
-||perf-events.cloud.unity3d.com^
 ||persona.ly^
 ||piano.io^
 ||pingma.qq.com^

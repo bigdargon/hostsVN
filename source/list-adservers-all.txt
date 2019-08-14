@@ -48,6 +48,7 @@ ads*.msn.com
 ads-d.viber.com
 ads-fa.spotify.com
 ads-twitter.com
+ads.*.unity3d.com
 ads.ak.facebook.com
 ads.ak.facebook.com.edgesuite.net
 ads.aws.viber.com
@@ -117,7 +118,6 @@ analytics.yahoo.com
 answers.com
 api.ads.*.go.com
 api.mobojoy.baidu.com
-api.uca.cloud.unity3d.com
 app-adforce.jp
 app.link
 appadhoc.com
@@ -171,7 +171,6 @@ bugly.qq.com
 bzclk.baidu.com
 casalemedia.com
 cdnwidget.com
-cdp.cloud.unity3d.com
 celtra.com
 chartbeat.com
 chartbeat.net
@@ -187,12 +186,12 @@ clickintext.net
 clientmetrics-pa.googleapis.com
 clksite.com
 clog.go.com
+cloud.unity3d.com
 cloudmobi.net
 cnzz.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
 conf.international.baidu.com
-config.uca.cloud.unity3d.com
 consensu.org
 content.ad
 contextweb.com
@@ -266,6 +265,7 @@ hmma.baidu.com
 hotjar.com
 i-mobile.co.jp
 iadsdk.apple.com
+iap.unity3d.com
 ichnaea.netflix.com
 iesnare.com
 ilyonanalytics.herokuapp.com
@@ -381,7 +381,6 @@ pagead-tpc.l.google.com
 pagead.l.google.com
 parrable.com
 partnerad.l.google.com
-perf-events.cloud.unity3d.com
 persona.ly
 piano.io
 pingma.qq.com

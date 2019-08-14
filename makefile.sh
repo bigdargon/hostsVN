@@ -6,7 +6,6 @@ COUNT_DOMAIN=$(cat source/list-hosts-group.txt source/list-hosts-VN-group.txt so
 DOMAIN=$(printf "%'.f\n" "$COUNT_DOMAIN")
 COUNT_DOMAIN_VN=$(cat source/list-hosts-VN-group.txt source/list-hosts-VN.txt | grep "0.0.0.0" | wc -l)
 DOMAIN_VN=$(printf "%'.f\n" "$COUNT_DOMAIN_VN")
-
 COUNT_RULE=$(cat source/list-adservers.txt source/list-adservers-all.txt | grep -v '!' | wc -l)
 RULE=$(printf "%'.f\n" "$COUNT_RULE")
 COUNT_RULE_VN=$(cat source/list-adservers.txt | grep -v '!' | wc -l)
