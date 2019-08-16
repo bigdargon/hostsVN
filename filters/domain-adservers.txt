@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 14 Aug 2019 10:20 UTC+7
-! Blocked: 233 rules
+! Last modified: 16 Aug 2019 09:51 UTC+7
+! Blocked: 237 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 accesstrade.com.vn
@@ -17,6 +17,7 @@ ads.hosting.vcmedia.vn
 ads.zaloapp.com
 ads.zdn.vn
 adservice.google.com.vn
+adsota.com
 adtima-*.zadn.vn
 adtima.vn
 adtimaserver.vn
@@ -158,8 +159,10 @@ analytics.bkav.com
 analytics.easyvideo.vn
 analytics.explus.vn
 analytics.thethao247.org
+analytics.tiki.vn
 analytics.vnreview.vn
 collect.ovp.vn
+elogs.vnexpress.net
 fbuser.ovp.vn
 log.anninhthudo.vn
 log.baomoi.com
@@ -195,6 +198,7 @@ tracker.tintucvietnam.vn
 tracking.appwifi.com
 tracking.vht.com.vn
 trackingapi.foody.vn
+trackity.tiki.vn
 trending.vn
 userstats.shopee.vn
 viam.com.vn

@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 14 Aug 2019 10:20 UTC+7
-# Blocked: 933 domains
+# Last modified: 16 Aug 2019 09:51 UTC+7
+# Blocked: 945 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -719,6 +719,16 @@
 0.0.0.0 userdocs.cityads.com
 0.0.0.0 wp-cdn.cityads.com
 0.0.0.0 www.cityads.com
+#[adsota]
+0.0.0.0 ads.appota.com
+0.0.0.0 adsota.com
+0.0.0.0 agency.adsota.com
+0.0.0.0 app.adsota.com
+0.0.0.0 dashboard.adsota.com
+0.0.0.0 highlandscoffee.adsota.com
+0.0.0.0 static.adsota.com
+0.0.0.0 track.adsota.com
+0.0.0.0 www.adsota.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -818,8 +828,10 @@
 0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.explus.vn
 0.0.0.0 analytics.thethao247.org
+0.0.0.0 analytics.tiki.vn
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 collect.ovp.vn
+0.0.0.0 elogs.vnexpress.net
 0.0.0.0 fbuser.ovp.vn
 0.0.0.0 hc.viam.com.vn
 0.0.0.0 hostmaster.trending.vn
@@ -859,6 +871,7 @@
 0.0.0.0 tracking.appwifi.com
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 trackingapi.foody.vn
+0.0.0.0 trackity.tiki.vn
 0.0.0.0 trending.vn
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 viam.com.vn

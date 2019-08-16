@@ -150,6 +150,7 @@ DOMAIN-KEYWORD,usage,REJECT
 DOMAIN-KEYWORD,vclick,REJECT
 
 DOMAIN-KEYWORD,api.lightricks.com,REJECT
+DOMAIN,pay.wecut.com,Fake iAP 1
 DOMAIN,api.revenuecat.com,Fake iAP 1
 DOMAIN,api.faceapp.io,Fake iAP 1
 DOMAIN,api.unfold.app,Fake iAP 1

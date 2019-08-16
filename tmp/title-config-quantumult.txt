@@ -149,6 +149,7 @@ HOST-KEYWORD,usage,REJECT
 HOST-KEYWORD,vclick,REJECT
 
 HOST-KEYWORD,api.lightricks.com,REJECT
+HOST,pay.wecut.com,Fake iAP 1
 HOST,api.revenuecat.com,Fake iAP 1
 HOST,api.faceapp.io,Fake iAP 1
 HOST,api.unfold.app,Fake iAP 1

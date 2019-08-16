@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 14 Aug 2019 10:20 UTC+7
-! Blocked: 5,573 rules
+! Last modified: 16 Aug 2019 09:51 UTC+7
+! Blocked: 5,575 rules
 ! The section containing the list contains all ad networks and tracking
 !
 accesstrade.com.vn
@@ -17,6 +17,7 @@ ads.hosting.vcmedia.vn
 ads.zaloapp.com
 ads.zdn.vn
 adservice.google.com.vn
+adsota.com
 adtima-*.zadn.vn
 adtima.vn
 adtimaserver.vn
@@ -158,8 +159,10 @@ analytics.bkav.com
 analytics.easyvideo.vn
 analytics.explus.vn
 analytics.thethao247.org
+analytics.tiki.vn
 analytics.vnreview.vn
 collect.ovp.vn
+elogs.vnexpress.net
 fbuser.ovp.vn
 log.anninhthudo.vn
 log.baomoi.com
@@ -195,6 +198,7 @@ tracker.tintucvietnam.vn
 tracking.appwifi.com
 tracking.vht.com.vn
 trackingapi.foody.vn
+trackity.tiki.vn
 trending.vn
 userstats.shopee.vn
 viam.com.vn
@@ -286,7 +290,6 @@ ads-fa.spotify.com
 ads-twitter.com
 ads.*.unity3d.com
 ads.ak.facebook.com
-ads.ak.facebook.com.edgesuite.net
 ads.aws.viber.com
 ads.cnet.com
 ads.cnn.com
@@ -304,7 +307,6 @@ adservice.google.*
 adservice.google.com
 adsintl.starwave.com
 adskeeper.co.uk
-adsota.com
 adspirit.de
 adsplay.net
 adspruce.com
@@ -424,6 +426,7 @@ clksite.com
 clog.go.com
 cloud.unity3d.com
 cloudmobi.net
+cnt.my
 cnzz.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
@@ -436,6 +439,7 @@ cpro.baidu.com
 crashlytics.com
 creative.ak.facebook.com
 creative.ak.fbcdn.net
+creativecdn.com
 criteo.net
 crwdcntrl.net
 customad.cnn.com
@@ -455,6 +459,7 @@ dxp.baidu.com
 e.qq.com
 eclick.baidu.com
 effectivemeasure.net
+ematicsolutions.com
 engageya.com
 ettoday.net
 evidon.com
@@ -664,6 +669,7 @@ smaato.net
 smartadserver.com
 smetrics.cnn.com
 snssdk.com
+sociaplus.com
 sonar-iad.xx.fbcdn.net
 sonobi.com
 speee-ad.akamaized.net
@@ -2662,7 +2668,6 @@ farmergoldfish.com
 fascinatedfeather.com
 fast-adv.it
 fastclick.com
-fastclick.com.edgesuite.net
 fastclick.net
 fastlane.tools
 faultycanvas.com
@@ -5133,7 +5138,6 @@ luguanmm.com
 luguanzhan.com
 lydaoyou.com
 lysyp.com
-ma1310-r.analytics.edgekey.net
 macallinecn.com
 mads.dailymail.co.uk
 mafund.cn
@@ -5347,7 +5351,6 @@ smetrics.bestbuy.com
 smetrics.boston.com
 snnd.co
 snrp.uglyas.com
-sociaplus.com
 softh.blogsky.com
 softtube.cn
 soidc.com
@@ -5409,7 +5412,6 @@ thomashobbs.com
 thoosje.com
 throne.thehelpbiz.com
 thxhb.com
-tikivn.api.sociaplus.com
 tinypic.info
 today-newday.cn
 topmailersblog.com

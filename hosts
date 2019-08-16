@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 14 Aug 2019 10:20 UTC+7
-# Blocked: 15,689 domains
+# Last modified: 16 Aug 2019 09:51 UTC+7
+# Blocked: 15,744 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -628,7 +628,6 @@
 0.0.0.0 z.analytics.yahoo.com
 #[facebook]
 0.0.0.0 ads.ak.facebook.com
-0.0.0.0 ads.ak.facebook.com.edgesuite.net
 0.0.0.0 creative.ak.facebook.com
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 sonar-iad.xx.fbcdn.net
@@ -798,13 +797,6 @@
 0.0.0.0 xray.corp.inmobi.com
 0.0.0.0 inmobicdn.com
 0.0.0.0 inmobisdk-a.akamaihd.net
-#[adsota]
-0.0.0.0 adsota.com
-0.0.0.0 static.adsota.com
-0.0.0.0 blog.adsota.com
-0.0.0.0 track.adsota.com
-0.0.0.0 app.adsota.com
-0.0.0.0 ads.appota.com
 #[blueserving]
 0.0.0.0 blueserving.com
 0.0.0.0 a.blueserving.com
@@ -2350,7 +2342,6 @@
 0.0.0.0 audiomax.adswizz.com
 0.0.0.0 audiomax.devel.adswizz.com
 0.0.0.0 cdn.adswizz.com
-0.0.0.0 cdn.adswizz.com.edgesuite.net
 0.0.0.0 clearchannel.adswizz.com
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 deliveryengine.adswizz.com
@@ -2596,7 +2587,6 @@
 0.0.0.0 s.ligatus.com
 0.0.0.0 self-booking.ligatus.com
 0.0.0.0 ssl.ligatus.com
-0.0.0.0 ssl.ligatus.com.edgekey.net
 0.0.0.0 tableau.dashboard.ligatus.com
 0.0.0.0 tableau-staging.dashboard.ligatus.com
 0.0.0.0 tagmanager.ligatus.com
@@ -3113,7 +3103,6 @@
 0.0.0.0 vpaid3.adsafeprotected.com
 0.0.0.0 webvideoinspector.adsafeprotected.com
 0.0.0.0 www.adsafeprotected.com
-0.0.0.0 www.vpaid.adsafeprotected.com
 #[pubmatic.com]
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ae.pubmatic.com
@@ -3213,7 +3202,6 @@
 0.0.0.0 us.criteo.net
 0.0.0.0 va.us.criteo.net
 0.0.0.0 www.criteo.net
-0.0.0.0 www.pixel.criteo.net
 #[skimresources]
 0.0.0.0 go.skimresources.com
 0.0.0.0 r.skimresources.com
@@ -3283,7 +3271,6 @@
 0.0.0.0 store.taboola.com
 0.0.0.0 swag.taboola.com
 0.0.0.0 taboola.com
-0.0.0.0 taboola.com.cdn.cloudflare.net
 0.0.0.0 test-www.taboola.com
 0.0.0.0 timeinc.trc.taboola.com
 0.0.0.0 tracking.taboola.com
@@ -3292,29 +3279,16 @@
 0.0.0.0 trends.taboola.com
 0.0.0.0 vidanalytics.taboola.com
 0.0.0.0 vidstat.taboola.com
-0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstatb.taboola.com
 0.0.0.0 vidutils.taboola.com
 0.0.0.0 vision.taboola.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 workshops.taboola.com
-0.0.0.0 www.accessrequest.taboola.com
-0.0.0.0 www.backstage.taboola.com
-0.0.0.0 www.billing.taboola.com
-0.0.0.0 www.content.taboola.com
-0.0.0.0 www.go.taboola.com
-0.0.0.0 www.il-vpn.taboola.com
-0.0.0.0 www.ldaps.taboola.com
-0.0.0.0 www.newsroom-help.taboola.com
-0.0.0.0 www.popup.taboola.com
-0.0.0.0 www.signup.taboola.com
 0.0.0.0 www.taboola.com
-0.0.0.0 www.vision.taboola.com
 #[casalemedia.com]
 0.0.0.0 amp.casalemedia.com
 0.0.0.0 api01.casalemedia.com
 0.0.0.0 as.casalemedia.com
-0.0.0.0 as.casalemedia.com.edgesuite.net
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 b.casalemedia.com
 0.0.0.0 c.casalemedia.com
@@ -3739,7 +3713,6 @@
 0.0.0.0 banner.fyber.com
 0.0.0.0 banner-server.fyber.com
 0.0.0.0 be.fyber.com
-0.0.0.0 blog.fyber.com
 0.0.0.0 bre.fyber.com
 0.0.0.0 broker.staging-video-v2.fyber.com
 0.0.0.0 broker.video-v2.fyber.com
@@ -3829,8 +3802,6 @@
 0.0.0.0 wiki.fyber.com
 0.0.0.0 wiki.rtb-demand.fyber.com
 0.0.0.0 wiki.rtb-supply.fyber.com
-0.0.0.0 www.blog.fyber.com
-0.0.0.0 www.developer.fyber.com
 0.0.0.0 www.fyber.com
 #[onthe]
 0.0.0.0 cdn.onthe.io
@@ -4030,11 +4001,7 @@
 0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
-0.0.0.0 www.files.sharethrough.com
-0.0.0.0 www.integration.sharethrough.com
-0.0.0.0 www.manage.sharethrough.com
-0.0.0.0 www.mstr.sharethrough.com
-0.0.0.0 www.support.sharethrough.com
+0.0.0.0 www.sharethrough.com
 #[bazaarvoice]
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 api.bazaarvoice.com
@@ -4261,7 +4228,6 @@
 0.0.0.0 dev8.supersonicads.com
 0.0.0.0 developers.supersonicads.com
 0.0.0.0 documents.supersonicads.com
-0.0.0.0 documents.supersonicads.com.edgesuite.net
 0.0.0.0 gateway.supersonicads.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 is-gateway.supersonicads.com
@@ -4327,8 +4293,6 @@
 0.0.0.0 redirect.viglink.com
 0.0.0.0 rest.viglink.com
 0.0.0.0 viglink.com
-0.0.0.0 www.mc.viglink.com
-0.0.0.0 www.qa.viglink.com
 0.0.0.0 www.viglink.com
 #[adspruce]
 0.0.0.0 adspruce.com
@@ -4447,11 +4411,12 @@
 0.0.0.0 status.amplitude.com
 0.0.0.0 www.amplitude.com
 #[measuread]
+0.0.0.0 b-stage.measuread.com
 0.0.0.0 b.measuread.com
 0.0.0.0 measuread.com
-0.0.0.0 measuread.com.edgekey.net
+0.0.0.0 stg.measuread.com
 0.0.0.0 wildcard.measuread.com
-0.0.0.0 wildcard.measuread.com.edgekey.net
+0.0.0.0 www.measuread.com
 #[voicefive]
 0.0.0.0 ar.voicefive.com
 0.0.0.0 b.voicefive.com
@@ -5011,7 +4976,6 @@
 0.0.0.0 logtest.moatads.com
 0.0.0.0 mb.moatads.com
 0.0.0.0 moatads.com
-0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 oo.moatads.com
 0.0.0.0 pixel.moatads.com
 0.0.0.0 pixel2.moatads.com
@@ -5046,7 +5010,6 @@
 0.0.0.0 video.moatads.com
 0.0.0.0 vpb0.moatads.com
 0.0.0.0 vu.moatads.com
-0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 www.moatads.com
 0.0.0.0 y.moatads.com
 0.0.0.0 yj.moatads.com
@@ -5267,7 +5230,6 @@
 #[cnet]
 0.0.0.0 ad.download.cnet.com
 0.0.0.0 adimg.cnet.com
-0.0.0.0 adinterax.cnet.com.edgesuite.net
 0.0.0.0 ads.cnet.com
 0.0.0.0 ct.cnet-ssa.cnet.com
 0.0.0.0 dw.cnet.com
@@ -5476,7 +5438,6 @@
 0.0.0.0 m.fr.2mdn.net
 0.0.0.0 m.uk.2mdn.net
 0.0.0.0 m1.emea.2mdn.net
-0.0.0.0 m1.emea.2mdn.net.edgesuite.net
 0.0.0.0 rmcdn.2mdn.net
 0.0.0.0 rmcdn.f.2mdn.net
 0.0.0.0 s0.2mdn.net
@@ -10196,6 +10157,95 @@
 0.0.0.0 spf2.advergine.ru
 0.0.0.0 spf3.advergine.ru
 0.0.0.0 track.advergine.ru
+#[creativecdn.com]
+0.0.0.0 adfox-c2s-ams.creativecdn.com
+0.0.0.0 aff.creativecdn.com
+0.0.0.0 afx.creativecdn.com
+0.0.0.0 ams.creativecdn.com
+0.0.0.0 ash.creativecdn.com
+0.0.0.0 asia.creativecdn.com
+0.0.0.0 cm.creativecdn.com
+0.0.0.0 cm.rdr.creativecdn.com
+0.0.0.0 creativecdn.com
+0.0.0.0 eu.creativecdn.com
+0.0.0.0 phx.creativecdn.com
+0.0.0.0 prebid-asia.creativecdn.com
+0.0.0.0 prebid-eu.creativecdn.com
+0.0.0.0 prebid-us.creativecdn.com
+0.0.0.0 pubs2-asia.creativecdn.com
+0.0.0.0 pubs2-eu.creativecdn.com
+0.0.0.0 pubs2-us.creativecdn.com
+0.0.0.0 rtbsnip-c2s-ams.creativecdn.com
+0.0.0.0 rtbsnip-c2s-ash.creativecdn.com
+0.0.0.0 rtbsnip-c2s-sin.creativecdn.com
+0.0.0.0 sin.creativecdn.com
+0.0.0.0 snippets-codes.creativecdn.com
+0.0.0.0 snippets-fallback.creativecdn.com
+0.0.0.0 statics-asia.creativecdn.com
+0.0.0.0 statics-europe.creativecdn.com
+0.0.0.0 statics-usa.creativecdn.com
+0.0.0.0 tracker.creativecdn.com
+0.0.0.0 us.creativecdn.com
+#[cnt.my]
+0.0.0.0 2i.cnt.my
+0.0.0.0 br.x.cnt.my
+0.0.0.0 br2.x.cnt.my
+0.0.0.0 br4.cnt.my
+0.0.0.0 cnt.my
+0.0.0.0 gl.cnt.my
+0.0.0.0 i1.cnt.my
+0.0.0.0 i2.cnt.my
+0.0.0.0 i3.cnt.my
+0.0.0.0 p.cnt.my
+0.0.0.0 r2.cnt.my
+0.0.0.0 reco.cnt.my
+0.0.0.0 ru.x.cnt.my
+0.0.0.0 www.cnt.my
+0.0.0.0 x.cnt.my
+#[ematicsolutions.com]
+0.0.0.0 analytics.ematicsolutions.com
+0.0.0.0 analytics-development.ematicsolutions.com
+0.0.0.0 api.ematicsolutions.com
+0.0.0.0 api2.ematicsolutions.com
+0.0.0.0 apk-api.ematicsolutions.com
+0.0.0.0 billing-development.ematicsolutions.com
+0.0.0.0 bye-images.ematicsolutions.com
+0.0.0.0 cse-api.ematicsolutions.com
+0.0.0.0 cse-dev2-api.ematicsolutions.com
+0.0.0.0 cse-dev-api.ematicsolutions.com
+0.0.0.0 cse-prod.ematicsolutions.com
+0.0.0.0 cse-prod2.ematicsolutions.com
+0.0.0.0 docs.ematicsolutions.com
+0.0.0.0 ematicsolutions.com
+0.0.0.0 fb-connect.ematicsolutions.com
+0.0.0.0 graylog.ematicsolutions.com
+0.0.0.0 haravan.ematicsolutions.com
+0.0.0.0 magento1.ematicsolutions.com
+0.0.0.0 platform.ematicsolutions.com
+0.0.0.0 pmm.ematicsolutions.com
+0.0.0.0 sg1-api.ematicsolutions.com
+0.0.0.0 sg2-api.ematicsolutions.com
+0.0.0.0 sg3-api.ematicsolutions.com
+0.0.0.0 sg4-api.ematicsolutions.com
+0.0.0.0 sg5-api.ematicsolutions.com
+0.0.0.0 sg6-api.ematicsolutions.com
+0.0.0.0 sg7-api.ematicsolutions.com
+0.0.0.0 shopify.ematicsolutions.com
+0.0.0.0 shopify-development.ematicsolutions.com
+0.0.0.0 squeezegr8.ematicsolutions.com
+0.0.0.0 www.ematicsolutions.com
+0.0.0.0 zabbix.ematicsolutions.com
+#[sociaplus.com]
+0.0.0.0 api.sociaplus.com
+0.0.0.0 hit.api.sociaplus.com
+0.0.0.0 image.sociaplus.com
+0.0.0.0 img.sociaplus.com
+0.0.0.0 panel.sociaplus.com
+0.0.0.0 sociaplus.com
+0.0.0.0 static.api.sociaplus.com
+0.0.0.0 tikivn.api.sociaplus.com
+0.0.0.0 zaloramy.api.sociaplus.com
+0.0.0.0 zalorasg.api.sociaplus.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -10906,6 +10956,16 @@
 0.0.0.0 userdocs.cityads.com
 0.0.0.0 wp-cdn.cityads.com
 0.0.0.0 www.cityads.com
+#[adsota]
+0.0.0.0 ads.appota.com
+0.0.0.0 adsota.com
+0.0.0.0 agency.adsota.com
+0.0.0.0 app.adsota.com
+0.0.0.0 dashboard.adsota.com
+0.0.0.0 highlandscoffee.adsota.com
+0.0.0.0 static.adsota.com
+0.0.0.0 track.adsota.com
+0.0.0.0 www.adsota.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -11005,8 +11065,10 @@
 0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.explus.vn
 0.0.0.0 analytics.thethao247.org
+0.0.0.0 analytics.tiki.vn
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 collect.ovp.vn
+0.0.0.0 elogs.vnexpress.net
 0.0.0.0 fbuser.ovp.vn
 0.0.0.0 hc.viam.com.vn
 0.0.0.0 hostmaster.trending.vn
@@ -11046,6 +11108,7 @@
 0.0.0.0 tracking.appwifi.com
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 trackingapi.foody.vn
+0.0.0.0 trackity.tiki.vn
 0.0.0.0 trending.vn
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 viam.com.vn
@@ -13108,7 +13171,6 @@
 0.0.0.0 fascinatedfeather.com
 0.0.0.0 fast-adv.it
 0.0.0.0 fastclick.com
-0.0.0.0 fastclick.com.edgesuite.net
 0.0.0.0 fastclick.net
 0.0.0.0 fastlane.tools
 0.0.0.0 faultycanvas.com
@@ -15620,7 +15682,6 @@
 0.0.0.0 luguanmm.com
 0.0.0.0 luguanzhan.com
 0.0.0.0 lysyp.com
-0.0.0.0 ma1310-r.analytics.edgekey.net
 0.0.0.0 macallinecn.com
 0.0.0.0 mads.dailymail.co.uk
 0.0.0.0 mafund.cn
@@ -15830,7 +15891,6 @@
 0.0.0.0 smetrics.boston.com
 0.0.0.0 snnd.co
 0.0.0.0 snrp.uglyas.com
-0.0.0.0 sociaplus.com
 0.0.0.0 softh.blogsky.com
 0.0.0.0 softtube.cn
 0.0.0.0 soperson.com
@@ -15890,7 +15950,6 @@
 0.0.0.0 thoosje.com
 0.0.0.0 throne.thehelpbiz.com
 0.0.0.0 thxhb.com
-0.0.0.0 tikivn.api.sociaplus.com
 0.0.0.0 tinypic.info
 0.0.0.0 today-newday.cn
 0.0.0.0 topmailersblog.com
