@@ -2,9 +2,9 @@
 
 # make time stamp & count blocked
 TIME_STAMP=`date +'%d %b %Y %H:%M'`
-COUNT_DOMAIN=$(cat source/list-hosts-group.txt source/list-hosts-VN-group.txt source/list-hosts-VN.txt source/list-hosts.txt | grep "0.0.0.0" | wc -l)
+COUNT_DOMAIN=$(cat source/list-hosts-group.txt source/list-hosts-group-VN.txt source/list-hosts-VN.txt source/list-hosts.txt | grep "0.0.0.0" | wc -l)
 DOMAIN=$(printf "%'.f\n" "$COUNT_DOMAIN")
-COUNT_DOMAIN_VN=$(cat source/list-hosts-VN-group.txt source/list-hosts-VN.txt | grep "0.0.0.0" | wc -l)
+COUNT_DOMAIN_VN=$(cat source/list-hosts-group-VN.txt source/list-hosts-VN.txt | grep "0.0.0.0" | wc -l)
 DOMAIN_VN=$(printf "%'.f\n" "$COUNT_DOMAIN_VN")
 COUNT_RULE=$(cat source/list-adservers.txt source/list-adservers-all.txt | grep -v '!' | wc -l)
 RULE=$(printf "%'.f\n" "$COUNT_RULE")
@@ -19,8 +19,8 @@ sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts-
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_domain_vn_/$DOMAIN_VN/g" tmp/title-hosts-VN.txt > tmp/title-hosts-VN.tmp
 
 # create hosts files
-cat tmp/title-hosts.tmp source/list-hosts-group.txt source/list-hosts-VN-group.txt source/list-hosts-VN.txt source/list-hosts.txt > hosts
-cat tmp/title-hosts-VN.tmp source/list-hosts-VN-group.txt source/list-hosts-VN.txt > option/hosts-VN
+cat tmp/title-hosts.tmp source/list-hosts-group.txt source/list-hosts-group-VN.txt source/list-hosts-VN.txt source/list-hosts.txt > hosts
+cat tmp/title-hosts-VN.tmp source/list-hosts-group-VN.txt source/list-hosts-VN.txt > option/hosts-VN
 cat hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "0 "$2}' >> tmp/hosts-iOS.tmp
 cat tmp/title-hosts-iOS.tmp tmp/hosts-iOS.tmp > option/hosts-iOS
 
