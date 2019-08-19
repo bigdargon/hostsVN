@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 16 Aug 2019 09:51 UTC+7
-# Blocked: 945 domains
+# Last modified: 19 Aug 2019 16:41 UTC+7
+# Blocked: 946 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -850,6 +850,7 @@
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 logging.galaxypub.vn
 0.0.0.0 logging.phunuonline.com.vn
+0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 mail.viam.com.vn
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.kenh14.vn

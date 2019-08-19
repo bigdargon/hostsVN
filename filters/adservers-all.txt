@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 16 Aug 2019 09:51 UTC+7
-! Blocked: 5,575 rules
+! Last modified: 19 Aug 2019 16:41 UTC+7
+! Blocked: 5,586 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -179,6 +179,7 @@
 ||log4x.nixcdn.com^
 ||logging.galaxypub.vn^
 ||logging.phunuonline.com.vn^
+||logsbin.dantri.com.vn^
 ||s.baomoi.xdn.vn^
 ||s.kenh14.vn^
 ||s.soha.vn^
@@ -240,6 +241,7 @@
 ||sun.win^
 ||v9bet.com^
 ||xmobliefacebook.com^
+||1rx.io^
 ||2mdn.net^
 ||2mdnsys.com^
 ||360in.com^
@@ -273,6 +275,7 @@
 ||adjust.io^
 ||adjustnetwork.com^
 ||adk2x.com^
+||adkernel.com^
 ||admarketplace.net^
 ||admedia.com^
 ||admob.com^
@@ -339,6 +342,7 @@
 ||agentanalytics.com^
 ||airbrake.io^
 ||akaads*.starwave.com^
+||alcmpn.com^
 ||alexametrics.com^
 ||amazon-adsystem.amazon.com^
 ||amazon-adsystem.com^
@@ -395,18 +399,23 @@
 ||beacon.qq.com^
 ||bebi.com^
 ||betrad.com^
+||bfmio.com^
 ||bidgear.com^
+||bidswitch.net^
 ||bizible.com^
 ||blueseed.tv^
 ||blueserving.com^
+||bnmla.com^
 ||bounceexchange.com^
 ||branch.io^
 ||braze.com^
 ||breaktime-inc.com^
 ||breaktime.com.tw^
 ||btrace.video.qq.com^
+||bttrack.com^
 ||bugly.qq.com^
 ||bzclk.baidu.com^
+||cacafly.net^
 ||casalemedia.com^
 ||cdnwidget.com^
 ||celtra.com^
@@ -448,9 +457,11 @@
 ||daum.net^
 ||demdex.net^
 ||deployads.com^
+||device-metrics-*.amazon.com^
 ||dfnb-ads.com^
 ||displayads-formats.googleusercontent.com^
 ||dm-event.net^
+||dotomi.com^
 ||doubleclick.net^
 ||doubleverify.com^
 ||dpmsrv.com^
@@ -527,6 +538,7 @@
 ||jetlore.com^
 ||jpush.cn^
 ||js.mobojoy.baidu.com^
+||jscount.com^
 ||jsecoin.com^
 ||juicer.cc^
 ||juicyads.com^
@@ -564,10 +576,12 @@
 ||marfeelcdn.com^
 ||marfeelrev.com^
 ||marinsm.com^
+||mathtag.com^
 ||mdotm.com^
 ||measuread.com^
 ||media.net^
 ||medialytics.com^
+||mediarithmics.com^
 ||mediawayss.com^
 ||metrics.cnn.com^
 ||mgid.com^
@@ -636,6 +650,7 @@
 ||popin.cc^
 ||pos.baidu.com^
 ||postrelease.com^
+||powerlinks.com^
 ||prebid.org^
 ||propellerads.com^
 ||propellerclick.com^
@@ -656,6 +671,7 @@
 ||rfihub.com^
 ||rubiconproject.com^
 ||segment.com^
+||servebom.com^
 ||servedby-buysellads.com^
 ||servedbyopenx.com^
 ||serving-sys.com^
@@ -698,6 +714,7 @@
 ||track.uc.cn^
 ||trackjs.com^
 ||trafficjunky.net^
+||tremorhub.com^
 ||tune.com^
 ||tynt.com^
 ||ugdturner.com^
@@ -747,7 +764,6 @@
 ||24pm-affiliation.com^
 ||2o7.net^
 ||2znp09oa.com^
-||33across.com^
 ||360yield.com^
 ||3cinteractive.com^
 ||4affiliate.net^
@@ -854,7 +870,6 @@
 ||ad.apsalar.com^
 ||ad.auditude.com^
 ||ad.bizo.com^
-||ad.bnmla.com^
 ||ad.bondage.com^
 ||ad.caradisiac.com^
 ||ad.centrum.cz^
@@ -1456,7 +1471,6 @@
 ||ads.saymedia.com^
 ||ads.scifi.com^
 ||ads.seniorfriendfinder.com^
-||ads.servebom.com^
 ||ads.sexinyourcity.com^
 ||ads.shizmoo.com^
 ||ads.shopstyle.com^
@@ -2105,7 +2119,6 @@
 ||bidclix.com^
 ||bidclix.net^
 ||bidr.io^
-||bidswitch.net^
 ||bidtrk.com^
 ||bidvertiser.com^
 ||bigads.guj.de^
@@ -2167,7 +2180,6 @@
 ||broaddoor.com^
 ||btez8.xyz^
 ||btrll.com^
-||bttrack.com^
 ||bucketbean.com^
 ||budsinc.com^
 ||bullseye.backbeatmedia.com^
@@ -2528,7 +2540,6 @@
 ||domainsponsor.com^
 ||domainsteam.de^
 ||domdex.com^
-||dotomi.com^
 ||doubleclick.com^
 ||doubleclick.de^
 ||doublepimp.com^
@@ -3130,7 +3141,6 @@
 ||matchcows.com^
 ||matchcraft.com^
 ||matheranalytics.com^
-||mathtag.com^
 ||matomy.com^
 ||max.i12.de^
 ||maximumcash.com^
@@ -4589,6 +4599,7 @@
 ||analytics.colacoweb.net^
 ||analytics.digit.in^
 ||analytics.ff.avast.com^
+||analytics.hostyour.video^
 ||analytics.htmedia.in^
 ||analytics.icons8.com^
 ||analytics.ihbsoft.com^
