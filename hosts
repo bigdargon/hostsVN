@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 19 Aug 2019 21:20 UTC+7
-# Blocked: 16,266 domains
+# Last modified: 20 Aug 2019 09:42 UTC+7
+# Blocked: 16,347 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -1581,36 +1581,80 @@
 0.0.0.0 apps-ios.crashlytics.com
 0.0.0.0 try.crashlytics.com
 #[sharethis]
+0.0.0.0 a.sharethis.com
+0.0.0.0 ab.sharethis.com
 0.0.0.0 ad.sharethis.com
+0.0.0.0 adops.sharethis.com
 0.0.0.0 al1.sharethis.com
-0.0.0.0 ead.sharethis.com
-0.0.0.0 sad.sharethis.com
-0.0.0.0 wd-edge.sharethis.com
-0.0.0.0 ws.sharethis.com
-0.0.0.0 l.sharethis.com
-0.0.0.0 seg.sharethis.com
+0.0.0.0 api.sharethis.com
+0.0.0.0 b.sharethis.com
+0.0.0.0 btr.sharethis.com
+0.0.0.0 buttons-config.sharethis.com
+0.0.0.0 cdn.sharethis.com
+0.0.0.0 cf-wp-prod.sharethis.com
 0.0.0.0 count-server.sharethis.com
-0.0.0.0 sharethis.com
+0.0.0.0 count-server2.sharethis.com
 0.0.0.0 data.sharethis.com
+0.0.0.0 demo.sharethis.com
 0.0.0.0 developer.sharethis.com
-0.0.0.0 help.sharethis.com
-0.0.0.0 platform-api.sharethis.com
-0.0.0.0 px.sharethis.com
-0.0.0.0 pxcel.sharethis.com
-0.0.0.0 support.sharethis.com
-0.0.0.0 www.sharethis.com
-0.0.0.0 t.sharethis.com
+0.0.0.0 ead.qa.sharethis.com
+0.0.0.0 ead.sharethis.com
+0.0.0.0 edaa.sharethis.com
 0.0.0.0 edge.sharethis.com
-0.0.0.0 rest.sharethis.com
-0.0.0.0 s.sharethis.com
-0.0.0.0 sd.sharethis.com
-0.0.0.0 w.sharethis.com
-0.0.0.0 wd.sharethis.com
-0.0.0.0 mail.sharethis.com
+0.0.0.0 edge.staging.sharethis.com
 0.0.0.0 emu.sharethis.com
 0.0.0.0 engineering.sharethis.com
-0.0.0.0 blog.sharethis.com
+0.0.0.0 forums.dev.sharethis.com
+0.0.0.0 forums.sharethis.com
+0.0.0.0 go.sharethis.com
+0.0.0.0 img.sharethis.com
+0.0.0.0 info.sharethis.com
+0.0.0.0 inline.sharethis.com
+0.0.0.0 instantarticles.sharethis.com
 0.0.0.0 kiwi.sharethis.com
+0.0.0.0 l.sharethis.com
+0.0.0.0 l2.sharethis.com
+0.0.0.0 loader.sharethis.com
+0.0.0.0 mail.sharethis.com
+0.0.0.0 nai.sharethis.com
+0.0.0.0 nexac.sharethis.com
+0.0.0.0 pademo.sharethis.com
+0.0.0.0 pd.sharethis.com
+0.0.0.0 platform.sharethis.com
+0.0.0.0 platform-api.sharethis.com
+0.0.0.0 platform-cdn.sharethis.com
+0.0.0.0 platform-metrics-api.sharethis.com
+0.0.0.0 px.sharethis.com
+0.0.0.0 pxcel.sharethis.com
+0.0.0.0 r.sharethis.com
+0.0.0.0 rest.sharethis.com
+0.0.0.0 s.sharethis.com
+0.0.0.0 sad.qa.sharethis.com
+0.0.0.0 sad.sharethis.com
+0.0.0.0 sd.sharethis.com
+0.0.0.0 secure.sharethis.com
+0.0.0.0 seg.sharethis.com
+0.0.0.0 sharethis.com
+0.0.0.0 socialab.sharethis.com
+0.0.0.0 ss.sharethis.com
+0.0.0.0 stagewp.sharethis.com
+0.0.0.0 static.blog.sharethis.com
+0.0.0.0 support.sharethis.com
+0.0.0.0 sync.sharethis.com
+0.0.0.0 t.sharethis.com
+0.0.0.0 tags.sharethis.com
+0.0.0.0 talent.sharethis.com
+0.0.0.0 tm.sharethis.com
+0.0.0.0 tools.sharethis.com
+0.0.0.0 w.sharethis.com
+0.0.0.0 w.staging.sharethis.com
+0.0.0.0 wd.sharethis.com
+0.0.0.0 wd.staging.sharethis.com
+0.0.0.0 wd-edge.sharethis.com
+0.0.0.0 widget.sharethis.com
+0.0.0.0 wp-uploads.sharethis.com
+0.0.0.0 ws.sharethis.com
+0.0.0.0 www.sharethis.com
 #[airbrake]
 0.0.0.0 airbrake.io
 0.0.0.0 api.airbrake.io
@@ -11184,7 +11228,6 @@
 0.0.0.0 api.accesstrade.vn
 0.0.0.0 campaign.accesstrade.vn
 0.0.0.0 cdn.accesstrade.vn
-0.0.0.0 click.accesstrade.vn
 0.0.0.0 cv.accesstrade.vn
 0.0.0.0 dangky.accesstrade.vn
 0.0.0.0 docs.accesstrade.vn
@@ -11287,18 +11330,24 @@
 0.0.0.0 track.gammaplatform.com
 0.0.0.0 www.gammaplatform.com
 #[yomedia]
-0.0.0.0 yomedia.vn
-0.0.0.0 static.yomedia.vn
-0.0.0.0 tracking.yomedia.vn
-0.0.0.0 mail.yomedia.vn
-0.0.0.0 ss.yomedia.vn
+0.0.0.0 ad-deliver.yomedia.vn
 0.0.0.0 analytics.yomedia.vn
 0.0.0.0 delivery.yomedia.vn
+0.0.0.0 demo.yomedia.vn
+0.0.0.0 dmp-log.yomedia.vn
+0.0.0.0 media.yomedia.vn
+0.0.0.0 media1.yomedia.vn
+0.0.0.0 ss.yomedia.vn
+0.0.0.0 sslstatic.yomedia.vn
+0.0.0.0 static.yomedia.vn
+0.0.0.0 tracking.yomedia.vn
+0.0.0.0 yomedia.vn
 #[pinetech]
+0.0.0.0 demo.pinetech.vn
+0.0.0.0 file.pinetech.vn
+0.0.0.0 newsletter.pinetech.vn
 0.0.0.0 pinetech.vn
 0.0.0.0 www.pinetech.vn
-0.0.0.0 file.pinetech.vn
-0.0.0.0 demo.pinetech.vn
 #[cleverads.vn]
 0.0.0.0 business.cleverads.vn
 0.0.0.0 cleverads.vn
@@ -11313,13 +11362,35 @@
 #[ambient-platform]
 0.0.0.0 ambient-platform.com
 0.0.0.0 analytics.ambient-platform.com
+0.0.0.0 campaigns.ambient-platform.com
+0.0.0.0 cdn-media.ambient-platform.com
+0.0.0.0 cdn-media.m.ambient-platform.com
+0.0.0.0 cdn-media-m.ambient-platform.com
+0.0.0.0 cli.ambient-platform.com
+0.0.0.0 cli.m.ambient-platform.com
+0.0.0.0 conv.ambient-platform.com
+0.0.0.0 delivery.ambient-platform.com
+0.0.0.0 delivery.m.ambient-platform.com
+0.0.0.0 delivery-m.ambient-platform.com
+0.0.0.0 imp.ambient-platform.com
+0.0.0.0 imp.m.ambient-platform.com
+0.0.0.0 local-media.ambient-platform.com
+0.0.0.0 local-media.m.ambient-platform.com
+0.0.0.0 member.ambient-platform.com
 0.0.0.0 metrics.ambient-platform.com
+0.0.0.0 retg.ambient-platform.com
+0.0.0.0 static.ambient-platform.com
+0.0.0.0 www.ambient-platform.com
 #[klick]
-0.0.0.0 klick.vn
 0.0.0.0 adv.klick.vn
 0.0.0.0 demo.klick.vn
 0.0.0.0 euro.klick.vn
+0.0.0.0 klick.vn
+0.0.0.0 qc.klick.vn
+0.0.0.0 text1.klick.vn
+0.0.0.0 wakeup.klick.vn
 0.0.0.0 wakeup247.klick.vn
+0.0.0.0 www.klick.vn
 #[cokhach.com]
 0.0.0.0 admin.cokhach.com
 0.0.0.0 c.cokhach.com
@@ -11511,6 +11582,18 @@
 0.0.0.0 static.adsota.com
 0.0.0.0 track.adsota.com
 0.0.0.0 www.adsota.com
+#[masoffer.net]
+0.0.0.0 api.app.masoffer.net
+0.0.0.0 app.masoffer.net
+0.0.0.0 beta-go.masoffer.net
+0.0.0.0 beta.go.masoffer.net
+0.0.0.0 cdn.masoffer.net
+0.0.0.0 img.masoffer.net
+0.0.0.0 m.masoffer.net
+0.0.0.0 masoffer.net
+0.0.0.0 static.masoffer.net
+0.0.0.0 tr.masoffer.net
+0.0.0.0 www.masoffer.net
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -11546,9 +11629,7 @@
 0.0.0.0 alivar.com.vn
 0.0.0.0 alivar.vn
 0.0.0.0 amobi.vn
-0.0.0.0 api.app.masoffer.net
 0.0.0.0 apinas.nct.vn
-0.0.0.0 app.masoffer.net
 0.0.0.0 banner.5giay.vn
 0.0.0.0 clevernet.vn
 0.0.0.0 click.phanquang.vn
@@ -11561,7 +11642,6 @@
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 deltago.com
 0.0.0.0 fptad.com
-0.0.0.0 img.masoffer.net
 0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 lrc.nct.nixcdn.com
 0.0.0.0 m.clevernet.vn
@@ -11581,7 +11661,6 @@
 0.0.0.0 quangcao.thanhnien.vn
 0.0.0.0 quangcao.tuoitre.vn
 0.0.0.0 serving-ad.tv24.vn
-0.0.0.0 static.masoffer.net
 0.0.0.0 static.mepuzz.com
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 trenddigital.vn
@@ -11613,6 +11692,7 @@
 0.0.0.0 analytics.tiki.vn
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 collect.ovp.vn
+0.0.0.0 deqik.com
 0.0.0.0 elogs.vnexpress.net
 0.0.0.0 fbuser.ovp.vn
 0.0.0.0 hc.viam.com.vn
@@ -12525,6 +12605,7 @@
 0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.t-online.de
 0.0.0.0 ads.tahono.com
+0.0.0.0 ads.tapdaq.com
 0.0.0.0 ads.techtv.com
 0.0.0.0 ads.techweb.com
 0.0.0.0 ads.telegraph.co.uk
@@ -15655,6 +15736,7 @@
 0.0.0.0 akuaba.chez.com
 0.0.0.0 alchenomy.com
 0.0.0.0 alemeitu.com
+0.0.0.0 aliyuncs.com
 0.0.0.0 alphaprinthouse.org
 0.0.0.0 alphaxiom.com
 0.0.0.0 alruno.home.pl

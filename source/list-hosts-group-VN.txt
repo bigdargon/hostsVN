@@ -391,7 +391,6 @@
 0.0.0.0 api.accesstrade.vn
 0.0.0.0 campaign.accesstrade.vn
 0.0.0.0 cdn.accesstrade.vn
-0.0.0.0 click.accesstrade.vn
 0.0.0.0 cv.accesstrade.vn
 0.0.0.0 dangky.accesstrade.vn
 0.0.0.0 docs.accesstrade.vn
@@ -414,7 +413,7 @@
 0.0.0.0 www.accesstrade.vn
 0.0.0.0 accesstrade.com.vn
 0.0.0.0 click.accesstrade.com.vn
-0.0.0.0 fast.accesstrade.com.vn	
+0.0.0.0 fast.accesstrade.com.vn
 #[subiz.com]
 0.0.0.0 agent-data.subiz.com
 0.0.0.0 api.subiz.com
@@ -494,18 +493,24 @@
 0.0.0.0 track.gammaplatform.com
 0.0.0.0 www.gammaplatform.com
 #[yomedia]
-0.0.0.0 yomedia.vn
-0.0.0.0 static.yomedia.vn
-0.0.0.0 tracking.yomedia.vn
-0.0.0.0 mail.yomedia.vn
-0.0.0.0 ss.yomedia.vn
+0.0.0.0 ad-deliver.yomedia.vn
 0.0.0.0 analytics.yomedia.vn
 0.0.0.0 delivery.yomedia.vn
+0.0.0.0 demo.yomedia.vn
+0.0.0.0 dmp-log.yomedia.vn
+0.0.0.0 media.yomedia.vn
+0.0.0.0 media1.yomedia.vn
+0.0.0.0 ss.yomedia.vn
+0.0.0.0 sslstatic.yomedia.vn
+0.0.0.0 static.yomedia.vn
+0.0.0.0 tracking.yomedia.vn
+0.0.0.0 yomedia.vn
 #[pinetech]
+0.0.0.0 demo.pinetech.vn
+0.0.0.0 file.pinetech.vn
+0.0.0.0 newsletter.pinetech.vn
 0.0.0.0 pinetech.vn
 0.0.0.0 www.pinetech.vn
-0.0.0.0 file.pinetech.vn
-0.0.0.0 demo.pinetech.vn
 #[cleverads.vn]
 0.0.0.0 business.cleverads.vn
 0.0.0.0 cleverads.vn
@@ -520,13 +525,35 @@
 #[ambient-platform]
 0.0.0.0 ambient-platform.com
 0.0.0.0 analytics.ambient-platform.com
+0.0.0.0 campaigns.ambient-platform.com
+0.0.0.0 cdn-media.ambient-platform.com
+0.0.0.0 cdn-media.m.ambient-platform.com
+0.0.0.0 cdn-media-m.ambient-platform.com
+0.0.0.0 cli.ambient-platform.com
+0.0.0.0 cli.m.ambient-platform.com
+0.0.0.0 conv.ambient-platform.com
+0.0.0.0 delivery.ambient-platform.com
+0.0.0.0 delivery.m.ambient-platform.com
+0.0.0.0 delivery-m.ambient-platform.com
+0.0.0.0 imp.ambient-platform.com
+0.0.0.0 imp.m.ambient-platform.com
+0.0.0.0 local-media.ambient-platform.com
+0.0.0.0 local-media.m.ambient-platform.com
+0.0.0.0 member.ambient-platform.com
 0.0.0.0 metrics.ambient-platform.com
+0.0.0.0 retg.ambient-platform.com
+0.0.0.0 static.ambient-platform.com
+0.0.0.0 www.ambient-platform.com
 #[klick]
-0.0.0.0 klick.vn
 0.0.0.0 adv.klick.vn
 0.0.0.0 demo.klick.vn
 0.0.0.0 euro.klick.vn
+0.0.0.0 klick.vn
+0.0.0.0 qc.klick.vn
+0.0.0.0 text1.klick.vn
+0.0.0.0 wakeup.klick.vn
 0.0.0.0 wakeup247.klick.vn
+0.0.0.0 www.klick.vn
 #[cokhach.com]
 0.0.0.0 admin.cokhach.com
 0.0.0.0 c.cokhach.com
@@ -718,3 +745,15 @@
 0.0.0.0 static.adsota.com
 0.0.0.0 track.adsota.com
 0.0.0.0 www.adsota.com
+#[masoffer.net]
+0.0.0.0 api.app.masoffer.net
+0.0.0.0 app.masoffer.net
+0.0.0.0 beta-go.masoffer.net
+0.0.0.0 beta.go.masoffer.net
+0.0.0.0 cdn.masoffer.net
+0.0.0.0 img.masoffer.net
+0.0.0.0 m.masoffer.net
+0.0.0.0 masoffer.net
+0.0.0.0 static.masoffer.net
+0.0.0.0 tr.masoffer.net
+0.0.0.0 www.masoffer.net
