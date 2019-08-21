@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 20 Aug 2019 09:42 UTC+7
-! Blocked: 237 rules
+! Last modified: 21 Aug 2019 10:36 UTC+7
+! Blocked: 238 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -26,6 +26,7 @@
 ||anthill.vn^
 ||ants.vn^
 ||api.sdk.zadn.vn^
+||autoads.asia^
 ||banners-gallery.coccoc.com^
 ||cdn.comedia.coccoc.com^
 ||cityads.com^
@@ -56,6 +57,7 @@
 ||novaonads.com^
 ||novaonx.com^
 ||nt-cdn.coccoc.com^
+||phanquang.vn^
 ||pinetech.vn^
 ||polyad.net^
 ||qc-static.coccoc.com^
@@ -132,7 +134,6 @@
 ||mobileads.dieuviet.com^
 ||myad.vn^
 ||ng-vn-notice.gameitop.com^
-||phanquang.vn^
 ||phimmedia03.com^
 ||polyad.galaxypub.vn^
 ||qc.yan.vn^

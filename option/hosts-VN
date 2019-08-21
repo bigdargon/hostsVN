@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 20 Aug 2019 09:42 UTC+7
-# Blocked: 981 domains
+# Last modified: 21 Aug 2019 10:36 UTC+7
+# Blocked: 995 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -768,6 +768,25 @@
 0.0.0.0 static.masoffer.net
 0.0.0.0 tr.masoffer.net
 0.0.0.0 www.masoffer.net
+#[autoads.asia]
+0.0.0.0 api.autoads.asia
+0.0.0.0 autoads.asia
+0.0.0.0 cdn.autoads.asia
+0.0.0.0 fcd.autoads.asia
+0.0.0.0 file.autoads.asia
+0.0.0.0 indo.autoads.asia
+0.0.0.0 mantis.autoads.asia
+0.0.0.0 pixel.autoads.asia
+0.0.0.0 testcert.autoads.asia
+0.0.0.0 tracking.autoads.asia
+0.0.0.0 www.autoads.asia
+0.0.0.0 xacthuc.autoads.asia
+#[phanquang.vn]
+0.0.0.0 click.phanquang.vn
+0.0.0.0 mail.phanquang.vn
+0.0.0.0 phanquang.vn
+0.0.0.0 quangcao.phanquang.vn
+0.0.0.0 www.phanquang.vn
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -806,7 +825,6 @@
 0.0.0.0 apinas.nct.vn
 0.0.0.0 banner.5giay.vn
 0.0.0.0 clevernet.vn
-0.0.0.0 click.phanquang.vn
 0.0.0.0 click.uniad.vn
 0.0.0.0 click.xdeal.vn
 0.0.0.0 client.vads.net.vn
@@ -815,23 +833,22 @@
 0.0.0.0 cms.vinaads.vn
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 deltago.com
+0.0.0.0 dev.mobilead.vn
 0.0.0.0 fptad.com
 0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 lrc.nct.nixcdn.com
 0.0.0.0 m.clevernet.vn
-0.0.0.0 mail.phanquang.vn
+0.0.0.0 m.mobilead.vn
 0.0.0.0 mepuzz.com
 0.0.0.0 microad.vn
 0.0.0.0 mobilead.vn
 0.0.0.0 mobileads.dieuviet.com
 0.0.0.0 myad.vn
 0.0.0.0 ng-vn-notice.gameitop.com
-0.0.0.0 phanquang.vn
 0.0.0.0 phimmedia03.com
 0.0.0.0 polyad.galaxypub.vn
 0.0.0.0 qc.yan.vn
 0.0.0.0 quangcao.24h.com.vn
-0.0.0.0 quangcao.phanquang.vn
 0.0.0.0 quangcao.thanhnien.vn
 0.0.0.0 quangcao.tuoitre.vn
 0.0.0.0 serving-ad.tv24.vn
@@ -852,7 +869,6 @@
 0.0.0.0 www.clevernet.vn
 0.0.0.0 www.mepuzz.com
 0.0.0.0 www.microad.vn
-0.0.0.0 www.phanquang.vn
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 0.0.0.0 zone.uniad.vn

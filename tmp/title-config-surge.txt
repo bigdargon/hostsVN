@@ -13,7 +13,7 @@ use-keyword-filter = false
 
 [Proxy]
 🇻🇳hostsVN = http, 127.0.0.1, 80, username, password
-Fake iAP 1 = http, 34.68.164.252, 8080
+Fake iAP 1 = http, 34.68.164.252, 8889
 
 [Proxy Group]
 Proxy = select, 🇻🇳hostsVN, Fake iAP 1

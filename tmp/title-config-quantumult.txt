@@ -1,6 +1,6 @@
 [SERVER]
 🇻🇳hostsVN = http, upstream-proxy-address=127.0.0.1, upstream-proxy-port=80, upstream-proxy-auth=false, over-tls=false, certificate=1
-Fake iAP 1 = http, upstream-proxy-address=34.68.164.252, upstream-proxy-port=8080, upstream-proxy-auth=false, over-tls=false, certificate=1
+Fake iAP 1 = http, upstream-proxy-address=34.68.164.252, upstream-proxy-port=8889, upstream-proxy-auth=false, over-tls=false, certificate=1
 
 [SOURCE]
 hostsVN-quantumult, filter, https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult.conf, false
