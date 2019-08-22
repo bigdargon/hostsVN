@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 21 Aug 2019 10:36 UTC+7
-# Blocked: 16,430 domains
+# Last modified: 22 Aug 2019 15:23 UTC+7
+# Blocked: 16,424 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -4695,12 +4695,6 @@
 0 t1.daumcdn.net
 0 amsimg.daum-img.net
 0 put.qostore.daumkakao.io
-0 beacon.geo.netflix.com
-0 beacon.netflix.com
-0 beacon.us-west-2.prodaa.netflix.com
-0 ichnaea.netflix.com
-0 nmtracking.netflix.com
-0 presentationtracking.netflix.com
 0 a.steepto.com
 0 cdn.steepto.com
 0 cm.steepto.com

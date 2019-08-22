@@ -27,5 +27,4 @@ labels:
 ![image](%url_of_screenshot%)
 </details><br/>
 
-[//]: # (Mô tả chi tiết (nếu có) để lỗi được xử lý nhanh hơn!)
 ***Chi tiết***:
