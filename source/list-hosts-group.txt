@@ -5387,14 +5387,13 @@
 0.0.0.0 a-ads.com
 0.0.0.0 ad.a-ads.com
 0.0.0.0 click.a-ads.com
-0.0.0.0 da-ads.com
 0.0.0.0 sta-ads.com
 0.0.0.0 static.a-ads.com
 0.0.0.0 www.a-ads.com
-0.0.0.0 www.da-ads.com
 0.0.0.0 wwww.a-ads.com
 #[demdex]
 0.0.0.0 bestbuy.demdex.net
+0.0.0.0 cdn.demdex.net
 0.0.0.0 crackle.demdex.net
 0.0.0.0 demdex.net
 0.0.0.0 dpm.demdex.net
@@ -10892,3 +10891,12 @@
 0.0.0.0 voicefive-sb-ec.adtechus.com
 0.0.0.0 voicefive-sb-wc.adtechus.com
 0.0.0.0 www.adtechus.com
+#[go-mpulse.net]
+0.0.0.0 c-lt2.go-mpulse.net
+0.0.0.0 c-lt3.go-mpulse.net
+0.0.0.0 c.go-mpulse.net
+0.0.0.0 d.go-mpulse.net
+0.0.0.0 go-mpulse.net
+0.0.0.0 s.go-mpulse.net
+0.0.0.0 s2-test.go-mpulse.net
+0.0.0.0 s2.go-mpulse.net

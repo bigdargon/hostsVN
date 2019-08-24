@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 22 Aug 2019 15:23 UTC+7
-! Blocked: 238 rules
+! Last modified: 24 Aug 2019 21:46 UTC+7
+! Blocked: 242 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -43,6 +43,7 @@
 ||ladipage.vn^
 ||landingpagelagi.vn^
 ||lavanetwork.net^
+||laydata.com^
 ||log*.mp3.zing.vn^
 ||log.api.zaloapp.com^
 ||log.news.zing.vn^
@@ -57,9 +58,11 @@
 ||novaonads.com^
 ||novaonx.com^
 ||nt-cdn.coccoc.com^
+||ohchat.net^
 ||phanquang.vn^
 ||pinetech.vn^
 ||polyad.net^
+||px.za.zaloapp.com^
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^
 ||qc.coccoc.vn^
@@ -197,6 +200,7 @@
 ||track.vatgia.com^
 ||tracker.tintucvietnam.vn^
 ||tracking.appwifi.com^
+||tracking.meete.co^
 ||tracking.vht.com.vn^
 ||trackingapi.foody.vn^
 ||trackity.tiki.vn^

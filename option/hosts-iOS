@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 22 Aug 2019 15:23 UTC+7
-# Blocked: 16,424 domains
+# Last modified: 24 Aug 2019 21:46 UTC+7
+# Blocked: 16,427 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -5202,13 +5202,12 @@
 0 a-ads.com
 0 ad.a-ads.com
 0 click.a-ads.com
-0 da-ads.com
 0 sta-ads.com
 0 static.a-ads.com
 0 www.a-ads.com
-0 www.da-ads.com
 0 wwww.a-ads.com
 0 bestbuy.demdex.net
+0 cdn.demdex.net
 0 crackle.demdex.net
 0 demdex.net
 0 dpm.demdex.net
@@ -10521,6 +10520,14 @@
 0 voicefive-sb-ec.adtechus.com
 0 voicefive-sb-wc.adtechus.com
 0 www.adtechus.com
+0 c-lt2.go-mpulse.net
+0 c-lt3.go-mpulse.net
+0 c.go-mpulse.net
+0 d.go-mpulse.net
+0 go-mpulse.net
+0 s.go-mpulse.net
+0 s2-test.go-mpulse.net
+0 s2.go-mpulse.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10852,6 +10859,7 @@
 0 sp.zalo.me
 0 ads.zaloapp.com
 0 log.api.zaloapp.com
+0 px.za.zaloapp.com
 0 static-ads.zaloapp.com
 0 stats.zaloapp.com
 0 zminer.zaloapp.com
@@ -11257,6 +11265,16 @@
 0 phanquang.vn
 0 quangcao.phanquang.vn
 0 www.phanquang.vn
+0 api.laydata.com
+0 cms.laydata.com
+0 databox.laydata.com
+0 facefone.laydata.com
+0 laydata.com
+0 
+0 ohchat.net
+0 app.ohchat.net
+0 hostmaster.ohchat.net
+0 www.ohchat.net
 0 123c.vn
 0 ad-hcm.24hstatic.com
 0 ad-hn.24hstatic.com
@@ -11389,6 +11407,7 @@
 0 track.vatgia.com
 0 tracker.tintucvietnam.vn
 0 tracking.appwifi.com
+0 tracking.meete.co
 0 tracking.vht.com.vn
 0 trackingapi.foody.vn
 0 trackity.tiki.vn
@@ -11531,7 +11550,6 @@
 0 24log.com
 0 24log.de
 0 24pm-affiliation.com
-0 2o7.net
 0 2znp09oa.com
 0 360yield.com
 0 3cinteractive.com
@@ -12733,12 +12751,6 @@
 0 awzbijw.com
 0 axiomaticalley.com
 0 aylarl.com
-0 az361816.vo.msecnd.net
-0 az413505.vo.msecnd.net
-0 az416426.vo.msecnd.net
-0 az512334.vo.msecnd.net
-0 az598575.vo.msecnd.net
-0 az708531.vo.msecnd.net
 0 azfront.com
 0 b-1st.com
 0 b.adexchangemachine.com
@@ -15300,6 +15312,7 @@
 0 17so.so
 0 18cum.com
 0 191gm.com
+0 2o7.net
 0 318x.com
 0 3262111.com
 0 332gm.com
@@ -15440,7 +15453,6 @@
 0 annedouglas.com
 0 annengdl.com
 0 aonikesi.com
-0 api.instabug.com
 0 api.prooffactor.com
 0 api.quantumgraph.com
 0 api.safegraph.com
@@ -15541,7 +15553,6 @@
 0 bxpaffc.com
 0 bxzxw.net
 0 by.uservoice.com
-0 c.go-mpulse.net
 0 c.snnd.co
 0 c.trazk.com
 0 c.webengage.com
@@ -15562,7 +15573,6 @@
 0 ccycny.com
 0 cdmswj.com
 0 cdn.blueconic.net
-0 cdn.demdex.net
 0 cdn.livechatinc.com
 0 cdn.promotionengine.com
 0 cdn.simpleanalytics.io
@@ -15777,7 +15787,6 @@
 0 global.ymtracking.com
 0 globalnursesonline.com
 0 globalwebindex.net
-0 go-mpulse.net
 0 go.ad1data.com
 0 googlanalytics.ws
 0 gool.frieghtiger.com
@@ -15849,13 +15858,11 @@
 0 ink.churchofthefreespirit.com
 0 innatek.com
 0 insight.ucweb.com
-0 instabug.com
 0 install.securesoft.info
 0 interfere.marionunezcampusano.com
 0 interior-examples.ru
 0 interstitial.powered-by.securesoft.info
 0 investice-do-nemovitosti.eu
-0 ip-api.com
 0 ipcmedia.grapeshot.co.uk
 0 ipinfo.io
 0 ipwhrtmla.epac.to
@@ -15937,7 +15944,6 @@
 0 log.tutuapp.com
 0 log.umsns.com
 0 log.ventunotech.com
-0 logitechlogitechglobal.112.2o7.net
 0 logs.amap.com
 0 logs.xiti.com
 0 loles.neostrada.pl
@@ -15951,6 +15957,7 @@
 0 luguanmm.com
 0 luguanzhan.com
 0 lysyp.com
+0 m.addthisedge.com
 0 macallinecn.com
 0 mads.dailymail.co.uk
 0 mafund.cn
@@ -16067,7 +16074,6 @@
 0 prefer.gutterhelment.com
 0 presage.io
 0 pringlepowwow.com
-0 pro.ip-api.com
 0 promotionengine.com
 0 prooffactor.com
 0 prosperity.charifree.org
@@ -16111,7 +16117,6 @@
 0 rtyszz.com
 0 rules.quantcount.com
 0 s-parta.za.pl
-0 s.go-mpulse.net
 0 s.iaudienc.com
 0 s.idio.co
 0 s.infogr.am
@@ -16320,7 +16325,6 @@
 0 www.hentelpower.com
 0 www.hitcpm.com
 0 www.infoaz.nl
-0 www.ip-api.com
 0 www.js-cdn.dynatrace.com
 0 www.lydaoyou.com
 0 www.montacarichi.it

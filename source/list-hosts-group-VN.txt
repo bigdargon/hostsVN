@@ -347,6 +347,7 @@
 0.0.0.0 sp.zalo.me
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 log.api.zaloapp.com
+0.0.0.0 px.za.zaloapp.com
 0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 stats.zaloapp.com
 0.0.0.0 zminer.zaloapp.com
@@ -776,3 +777,15 @@
 0.0.0.0 phanquang.vn
 0.0.0.0 quangcao.phanquang.vn
 0.0.0.0 www.phanquang.vn
+#[laydata.com]
+0.0.0.0 api.laydata.com
+0.0.0.0 cms.laydata.com
+0.0.0.0 databox.laydata.com
+0.0.0.0 facefone.laydata.com
+0.0.0.0 laydata.com
+www.laydata.com
+#[ohchat.net]
+0.0.0.0 ohchat.net
+0.0.0.0 app.ohchat.net
+0.0.0.0 hostmaster.ohchat.net
+0.0.0.0 www.ohchat.net
