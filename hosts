@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 24 Aug 2019 21:46 UTC+7
+# Last modified: 24 Aug 2019 22:05 UTC+7
 # Blocked: 16,427 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
@@ -11696,7 +11696,7 @@
 0.0.0.0 databox.laydata.com
 0.0.0.0 facefone.laydata.com
 0.0.0.0 laydata.com
-www.laydata.com
+0.0.0.0 www.laydata.com
 #[ohchat.net]
 0.0.0.0 ohchat.net
 0.0.0.0 app.ohchat.net
@@ -15709,7 +15709,6 @@ www.laydata.com
 0.0.0.0 zanox.com
 0.0.0.0 zantracker.com
 0.0.0.0 zbwp6ghm.com
-0.0.0.0 zde-affinity.edgecaching.net
 0.0.0.0 zealousfield.com
 0.0.0.0 zedo.com
 0.0.0.0 zeepmedia.com

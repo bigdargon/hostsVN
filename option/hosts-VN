@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 24 Aug 2019 21:46 UTC+7
-# Blocked: 1,006 domains
+# Last modified: 24 Aug 2019 22:05 UTC+7
+# Blocked: 1,007 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -794,7 +794,7 @@
 0.0.0.0 databox.laydata.com
 0.0.0.0 facefone.laydata.com
 0.0.0.0 laydata.com
-www.laydata.com
+0.0.0.0 www.laydata.com
 #[ohchat.net]
 0.0.0.0 ohchat.net
 0.0.0.0 app.ohchat.net
