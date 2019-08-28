@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 24 Aug 2019 22:05 UTC+7
-! Blocked: 5,577 rules
+! Last modified: 28 Aug 2019 16:00 UTC+7
+! Blocked: 5,584 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -9,6 +9,7 @@
 ||ad.zing.vn^
 ||ad360.vn^
 ||admicro*.vcmedia.com^
+||admicro*.vcmedia.vn^
 ||admicro.vn^
 ||adnetwork.vn^
 ||adpia.vn^
@@ -213,6 +214,7 @@
 ||widget.nhaccuatui.com^
 ||11bet.com^
 ||11bet.net^
+||1xbetvn.com^
 ||8live.com^
 ||ae888.com^
 ||betvietnam.info^
@@ -469,6 +471,7 @@
 ||dm-event.net^
 ||dotomi.com^
 ||doubleclick.net^
+||doublepimp.com^
 ||doubleverify.com^
 ||dpmsrv.com^
 ||duapps.com^
@@ -629,6 +632,7 @@
 ||nsclick.baidu.com^
 ||nytadvertising.nytimes.com^
 ||o-s.io^
+||o333o.com^
 ||ocsp.apple.com^
 ||odc.starwave.com^
 ||omtrdc.net^
@@ -674,7 +678,9 @@
 ||qwapi.apple.com^
 ||rayjump.com^
 ||referrer.disqus.com^
+||refpa.top^
 ||reklamstore.com^
+||remarketingpixel.com^
 ||remotead-internal.cnet.com^
 ||remotead.cnet.com^
 ||revcontent.com^
@@ -699,6 +705,7 @@
 ||sonar-iad.xx.fbcdn.net^
 ||sonobi.com^
 ||speee-ad.akamaized.net^
+||ss2.us^
 ||ssl-google-analytics.l.google.com^
 ||startappservice.com^
 ||static-ads.akamaized.net^
@@ -718,6 +725,7 @@
 ||taplytics.com^
 ||teads.tv^
 ||tenmax.io^
+||test-app.link^
 ||tinypass.com^
 ||toast.com^
 ||trace.qq.com^
@@ -1712,6 +1720,7 @@
 ||adspace.ro^
 ||adspeed.net^
 ||adsponse.de^
+||adspot.co^
 ||adsremote.scrippsnetworks.com^
 ||adsrevenue.net^
 ||adsrocket.net^
@@ -2544,7 +2553,6 @@
 ||domdex.com^
 ||doubleclick.com^
 ||doubleclick.de^
-||doublepimp.com^
 ||doubtfulrainstorm.com^
 ||downloadr.xyz^
 ||dq95d35.com^
@@ -3705,7 +3713,6 @@
 ||reklamer.com.ua^
 ||relevanz10.de^
 ||relmaxtop.com^
-||remarketingpixel.com^
 ||remistrainew.club^
 ||remox.com^
 ||reporo.net^
@@ -4786,6 +4793,7 @@
 ||condosguru.com^
 ||config.789wed.com^
 ||congchuzs.com^
+||cookieinfoscript.com^
 ||corsa-cologne.de^
 ||count.ly^
 ||cow.gutterheaters.org^
@@ -5028,6 +5036,7 @@
 ||hzm6.com^
 ||i-mar.com^
 ||iaudienc.com^
+||ie8eamus.com^
 ||iebar.t2t2.com^
 ||ifighi.net^
 ||illaboratoriosrl.it^
@@ -5037,7 +5046,6 @@
 ||indiatouragency.com^
 ||indogator.com^
 ||infoaz.nl^
-||ingest.sentry.io^
 ||ink.churchofthefreespirit.com^
 ||innatek.com^
 ||insight.ucweb.com^
@@ -5330,7 +5338,6 @@
 ||securesoft.info^
 ||selak.info^
 ||senrima.ru^
-||sentry.io^
 ||seopoint.com^
 ||seqsixxx.com^
 ||seres.https443.net^

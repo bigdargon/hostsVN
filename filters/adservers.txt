@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 24 Aug 2019 22:05 UTC+7
-! Blocked: 242 rules
+! Last modified: 28 Aug 2019 16:00 UTC+7
+! Blocked: 244 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -9,6 +9,7 @@
 ||ad.zing.vn^
 ||ad360.vn^
 ||admicro*.vcmedia.com^
+||admicro*.vcmedia.vn^
 ||admicro.vn^
 ||adnetwork.vn^
 ||adpia.vn^
@@ -213,6 +214,7 @@
 ||widget.nhaccuatui.com^
 ||11bet.com^
 ||11bet.net^
+||1xbetvn.com^
 ||8live.com^
 ||ae888.com^
 ||betvietnam.info^

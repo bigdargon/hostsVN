@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 24 Aug 2019 22:05 UTC+7
-# Blocked: 16,427 domains
+# Last modified: 28 Aug 2019 16:00 UTC+7
+# Blocked: 16,531 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -5475,6 +5475,7 @@
 #[app.link]
 0.0.0.0 mangarock.app.link
 0.0.0.0 mangarock-alternate.app.link
+0.0.0.0 reddit.test-app.link
 #[2mdn]
 0.0.0.0 2mdn.net
 0.0.0.0 affiliate.2mdn.net
@@ -10911,6 +10912,114 @@
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s2-test.go-mpulse.net
 0.0.0.0 s2.go-mpulse.net
+#[ss2.us]
+0.0.0.0 o.ss2.us
+0.0.0.0 s.ss2.us
+0.0.0.0 ss2.us
+0.0.0.0 x.ss2.us
+#[remarketingpixel.com]
+0.0.0.0 cdn.remarketingpixel.com
+0.0.0.0 r.remarketingpixel.com
+0.0.0.0 remarketingpixel.com
+0.0.0.0 www.remarketingpixel.com
+#[refpa.top]
+0.0.0.0 cdn.refpa.top
+0.0.0.0 refpa.top
+0.0.0.0 www.refpa.top
+#[doublepimp.com]
+0.0.0.0 a1-m1.doublepimp.com
+0.0.0.0 ad1.doublepimp.com
+0.0.0.0 ad2.doublepimp.com
+0.0.0.0 ad3.doublepimp.com
+0.0.0.0 admin.rts.doublepimp.com
+0.0.0.0 admin.rts.phn.doublepimp.com
+0.0.0.0 ads.doublepimp.com
+0.0.0.0 afin.doublepimp.com
+0.0.0.0 cdn.engine.avid.doublepimp.com
+0.0.0.0 cdn.engine.bang.doublepimp.com
+0.0.0.0 cdn.engine.doublepimp.com
+0.0.0.0 cdn.engine.fling.doublepimp.com
+0.0.0.0 cdn.engine.manwin.doublepimp.com
+0.0.0.0 cdn.engine.phn.doublepimp.com
+0.0.0.0 cdn.engine.rk.doublepimp.com
+0.0.0.0 cdn.engine.streamate.doublepimp.com
+0.0.0.0 cdn.ui.phn.doublepimp.com
+0.0.0.0 conversions.rts.doublepimp.com
+0.0.0.0 cp.doublepimp.com
+0.0.0.0 cuty.doublepimp.com
+0.0.0.0 db.hosting.doublepimp.com
+0.0.0.0 db.hosting.rts.doublepimp.com
+0.0.0.0 db.hosting.rts.fling.doublepimp.com
+0.0.0.0 db.hosting.rts.lj.doublepimp.com
+0.0.0.0 db.hosting.rts.phn.doublepimp.com
+0.0.0.0 db.hosting.streamate.doublepimp.com
+0.0.0.0 db2.hosting.doublepimp.com
+0.0.0.0 db2.hosting.rts.doublepimp.com
+0.0.0.0 db2.hosting.rts.fling.doublepimp.com
+0.0.0.0 db2.hosting.rts.lj.doublepimp.com
+0.0.0.0 db2.hosting.rts.phn.doublepimp.com
+0.0.0.0 db2.hosting.streamate.doublepimp.com
+0.0.0.0 dean.doublepimp.com
+0.0.0.0 dev.doublepimp.com
+0.0.0.0 engine.avid.doublepimp.com
+0.0.0.0 engine.bang.doublepimp.com
+0.0.0.0 engine.doublepimp.com
+0.0.0.0 engine.fling.doublepimp.com
+0.0.0.0 engine.manwin.doublepimp.com
+0.0.0.0 engine.partygaming.doublepimp.com
+0.0.0.0 engine.phn.doublepimp.com
+0.0.0.0 engine.rk.doublepimp.com
+0.0.0.0 engine.streamate.doublepimp.com
+0.0.0.0 exit.doublepimp.com
+0.0.0.0 fresh.doublepimp.com
+0.0.0.0 gk.rts.doublepimp.com
+0.0.0.0 gk.streamate.doublepimp.com
+0.0.0.0 hosting2.rts.lj.doublepimp.com
+0.0.0.0 hosting4.rts.fling.doublepimp.com
+0.0.0.0 manwin.doublepimp.com
+0.0.0.0 media.doublepimp.com
+0.0.0.0 media.origin.doublepimp.com
+0.0.0.0 oldwww.doublepimp.com
+0.0.0.0 origin.privoy.doublepimp.com
+0.0.0.0 prerelease.rts.doublepimp.com
+0.0.0.0 prerelease.rts.phn.doublepimp.com
+0.0.0.0 prerelease.streamate.doublepimp.com
+0.0.0.0 privoy.doublepimp.com
+0.0.0.0 rts.doublepimp.com
+0.0.0.0 rts.fling.doublepimp.com
+0.0.0.0 rts.lj.doublepimp.com
+0.0.0.0 rts.phn.doublepimp.com
+0.0.0.0 sql.doublepimp.com
+0.0.0.0 staging.rts.doublepimp.com
+0.0.0.0 staging.rts.phn.doublepimp.com
+0.0.0.0 staging.streamate.doublepimp.com
+0.0.0.0 static.manwin.doublepimp.com
+0.0.0.0 static.rts.doublepimp.com
+0.0.0.0 static.rts.phn.doublepimp.com
+0.0.0.0 static.streamate.doublepimp.com
+0.0.0.0 streamate.doublepimp.com
+0.0.0.0 test.doublepimp.com
+0.0.0.0 ui.avid.doublepimp.com
+0.0.0.0 ui.bang.doublepimp.com
+0.0.0.0 ui.doublepimp.com
+0.0.0.0 ui.fling.doublepimp.com
+0.0.0.0 ui.manwin.doublepimp.com
+0.0.0.0 ui.partygaming.doublepimp.com
+0.0.0.0 ui.phn.doublepimp.com
+0.0.0.0 ui.rk.doublepimp.com
+0.0.0.0 ui.streamate.doublepimp.com
+0.0.0.0 vrts.doublepimp.com
+0.0.0.0 vulcan.doublepimp.com
+0.0.0.0 www.doublepimp.com
+#[o333o.com]
+0.0.0.0 a.o333o.com
+0.0.0.0 as.o333o.com
+0.0.0.0 bid.o333o.com
+0.0.0.0 cdn.o333o.com
+0.0.0.0 cdns.o333o.com
+0.0.0.0 o333o.com
+0.0.0.0 s.o333o.com
+0.0.0.0 www.o333o.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -11959,6 +12068,7 @@
 0.0.0.0 www.sun.win
 0.0.0.0 11bet.net
 0.0.0.0 tin.11bet.net
+0.0.0.0 1xbetvn.com
 #[scamVN]
 0.0.0.0 fuckbookvietnam.com
 0.0.0.0 www.fuckbookvietnam.com
@@ -12922,6 +13032,7 @@
 0.0.0.0 adspace.ro
 0.0.0.0 adspeed.net
 0.0.0.0 adsponse.de
+0.0.0.0 adspot.co
 0.0.0.0 adsremote.scrippsnetworks.com
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrocket.net
@@ -13752,7 +13863,6 @@
 0.0.0.0 domdex.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
-0.0.0.0 doublepimp.com
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 downloadr.xyz
 0.0.0.0 dq95d35.com
@@ -14911,7 +15021,6 @@
 0.0.0.0 reklamer.com.ua
 0.0.0.0 relevanz10.de
 0.0.0.0 relmaxtop.com
-0.0.0.0 remarketingpixel.com
 0.0.0.0 remistrainew.club
 0.0.0.0 remox.com
 0.0.0.0 reporo.net
@@ -16039,6 +16148,7 @@
 0.0.0.0 condosguru.com
 0.0.0.0 config.789wed.com
 0.0.0.0 congchuzs.com
+0.0.0.0 cookieinfoscript.com
 0.0.0.0 corsa-cologne.de
 0.0.0.0 count.ly
 0.0.0.0 cow.gutterheaters.org
@@ -16279,6 +16389,7 @@
 0.0.0.0 hzm6.com
 0.0.0.0 i-mar.com
 0.0.0.0 iaudienc.com
+0.0.0.0 ie8eamus.com
 0.0.0.0 iebar.t2t2.com
 0.0.0.0 ifighi.net
 0.0.0.0 illaboratoriosrl.it
@@ -16287,7 +16398,6 @@
 0.0.0.0 img.securesoft.info
 0.0.0.0 indiatouragency.com
 0.0.0.0 indogator.com
-0.0.0.0 ingest.sentry.io
 0.0.0.0 ink.churchofthefreespirit.com
 0.0.0.0 innatek.com
 0.0.0.0 insight.ucweb.com
@@ -16575,7 +16685,6 @@
 0.0.0.0 securesoft.info
 0.0.0.0 selak.info
 0.0.0.0 senrima.ru
-0.0.0.0 sentry.io
 0.0.0.0 seopoint.com
 0.0.0.0 seqsixxx.com
 0.0.0.0 seres.https443.net
