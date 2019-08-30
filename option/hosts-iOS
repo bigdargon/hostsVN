@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 28 Aug 2019 16:00 UTC+7
-# Blocked: 16,531 domains
+# Last modified: 30 Aug 2019 10:48 UTC+7
+# Blocked: 16,519 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13,6 +13,19 @@
 255.255.255.255 broadcasthost
 ::1				localhost
 
+0 ocsp.apple.com
+0 www.ocsp.apple.com
+0 advertising.apple.com
+0 banners.itunes.apple.com
+0 ca.iadsdk.apple.com
+0 cf.iadsdk.apple.com
+0 cs.iadsdk.apple.com
+0 iadsdk.apple.com
+0 news.iadsdk.apple.com
+0 su.iadsdk.apple.com
+0 tr.iadsdk.apple.com
+0 ut.iadsdk.apple.com
+0 www.iadsdk.apple.com
 0 doubleclick.net
 0 accounts.doubleclick.net
 0 ad.au.doubleclick.net
@@ -173,20 +186,6 @@
 0 clientmetrics-pa.googleapis.com
 0 ads.gmodules.com
 0 displayads-formats.googleusercontent.com
-0 ocsp.apple.com
-0 www.ocsp.apple.com
-0 advertising.apple.com
-0 banners.itunes.apple.com
-0 ca.iadsdk.apple.com
-0 cf.iadsdk.apple.com
-0 cs.iadsdk.apple.com
-0 iadsdk.apple.com
-0 news.iadsdk.apple.com
-0 qwapi.apple.com
-0 su.iadsdk.apple.com
-0 tr.iadsdk.apple.com
-0 ut.iadsdk.apple.com
-0 www.iadsdk.apple.com
 0 amer.hops.glbdns.microsoft.com
 0 apprep.smartscreen.microsoft.com
 0 browser.pipe.aria.microsoft.com
@@ -264,7 +263,6 @@
 0 rad.msn.com
 0 rads.msn.com
 0 redirection.prod.cms.msn.com
-0 redirection.prod.cms.msn.com.akadns.net
 0 rmads.eu.msn.com
 0 rmads.msn.com
 0 tracking.msadcenter.msn.com
@@ -310,10 +308,6 @@
 0 aax-eu.amazon-adsystem.com
 0 aax-eu-rtb.amazon-adsystem.com
 0 aax-eu-rtb-adx.amazon-adsystem.com
-0 aax-eu-test.amazon-adsystem.com
-0 aax-eu-test1.amazon-adsystem.com
-0 aax-eu-test2.amazon-adsystem.com
-0 aax-eu-test3.amazon-adsystem.com
 0 aax-fe.amazon-adsystem.com
 0 aax-fe-pek.amazon-adsystem.com
 0 aax-fe-sin.amazon-adsystem.com
@@ -324,13 +318,6 @@
 0 aax-us-east.amazon-adsystem.com
 0 aax-us-east-rtb.amazon-adsystem.com
 0 aax-us-east-rtb-adx.amazon-adsystem.com
-0 aax-us-east-test.amazon-adsystem.com
-0 aax-us-east-test1.amazon-adsystem.com
-0 aax-us-east-test2.amazon-adsystem.com
-0 aax-us-east-test3.amazon-adsystem.com
-0 aax-us-east-test4.amazon-adsystem.com
-0 aax-us-east-test5.amazon-adsystem.com
-0 aax-us-east-test6.amazon-adsystem.com
 0 aax-us-pdx.amazon-adsystem.com
 0 aax-us-pdx-rtb.amazon-adsystem.com
 0 aax-us-pdx-rtb-adx.amazon-adsystem.com
@@ -428,6 +415,13 @@
 0 z-fe.amazon-adsystem.com
 0 z-in.amazon-adsystem.com
 0 z-na.amazon-adsystem.com
+0 aax.amazon-adsystems.com
+0 c.amazon-adsystems.com
+0 fls-fe.amazon-adsystems.com
+0 ir-na.amazon-adsystems.com
+0 rcm-na.amazon-adsystems.com
+0 ws.amazon-adsystems.com
+0 z-na.amazon-adsystems.com
 0 adagiobanner.s3.amazonaws.com
 0 admarvel.s3.amazonaws.com
 0 adtago.s3.amazonaws.com
@@ -466,11 +460,9 @@
 0 yab-adimages.s3.amazonaws.com
 0 znaptag-us.s3.amazonaws.com
 0 platform.tumblr.com
-0 srvcs.tumblr.com
 0 ls.srvcs.tumblr.com
 0 px.srvcs.tumblr.com
 0 saber.srvcs.tumblr.com
-0 cspreports.srvcs.tumblr.com
 0 a.analytics.yahoo.com
 0 ads.auctions.yahoo.com
 0 ads.finance.yahoo.com
@@ -2208,7 +2200,6 @@
 0 xmpie.vo.llnwd.net
 0 goviral.hs.llnwd.net
 0 ad.admarketplace.net
-0 adlanding.admarketplace.net.akadns.net
 0 admarketplace.com
 0 admarketplace.net
 0 adtag.admarketplace.net
@@ -3832,11 +3823,9 @@
 0 20585485p.rfihub.com
 0 20754664p.rfihub.com
 0 a.rfihub.com
-0 a.rfihub.com.akadns.net
 0 js2.rfihub.com
 0 p.rfihub.com
 0 rfihub.com
-0 rfihub.com.akadns.net
 0 adsapi.chartbeat.com
 0 api.chartbeat.com
 0 api2.chartbeat.com
@@ -5274,9 +5263,21 @@
 0 ws4.tapjoyads.com
 0 www.test.tapjoyads.com
 0 www.ws.tapjoyads.com
+0 app.link
 0 mangarock.app.link
 0 mangarock-alternate.app.link
+0 test-app.link
 0 reddit.test-app.link
+0 page.link
+0 vingroup.page.link
+0 vinid.page.link
+0 iqoption.onelink.me
+0 m.onelink.me
+0 onelink.me
+0 www.onelink.me
+0 dream11.onelink.me
+0 go.onelink.me
+0 sod.onelink.me
 0 2mdn.net
 0 affiliate.2mdn.net
 0 gcdn.2mdn.net
@@ -6301,13 +6302,6 @@
 0 welcome.openx.com
 0 www.openx.com
 0 xx.openx.com
-0 iqoption.onelink.me
-0 m.onelink.me
-0 onelink.me
-0 www.onelink.me
-0 dream11.onelink.me
-0 go.onelink.me
-0 sod.onelink.me
 0 c.webtrends.com
 0 counter.webtrends.com
 0 dc.webtrends.com
@@ -8418,10 +8412,7 @@
 0 cdn.postrelease.com
 0 content.postrelease.com
 0 jadserve.postrelease.com
-0 jadserve.postrelease.com.akadns.net
-0 perf.postrelease.com.akadns.net
 0 postrelease.com
-0 postrelease.com.akadns.net
 0 prstats.postrelease.com
 0 secure.postrelease.com
 0 www.postrelease.com
@@ -13440,7 +13431,6 @@
 0 e-bannerx.com
 0 e-debtconsolidation.com
 0 e-m.fr
-0 e-n-t-e-r-n-e-x.com
 0 e-planning.net
 0 e-ssl.apsalar.com
 0 e.apsalar.com
@@ -15284,7 +15274,6 @@
 0 www.adstune.com
 0 www.adtilt.com
 0 www.appbaqend.com
-0 www.apple.com-fasting.live
 0 www.arkonziv.com
 0 www.banner-link.com.br
 0 www.beauty-tea.com
@@ -15567,7 +15556,6 @@
 0 app-measurement.com
 0 apphay.me
 0 appimmobilier.com
-0 apple.comscoreresearch.com
 0 applog.camera360.com
 0 appres.camera360.com
 0 aquapuremultiservicios.es

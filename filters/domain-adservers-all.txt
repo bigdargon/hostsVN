@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 28 Aug 2019 16:00 UTC+7
-! Blocked: 5,584 rules
+! Last modified: 30 Aug 2019 10:48 UTC+7
+! Blocked: 5,579 rules
 ! The section containing the list contains all ad networks and tracking
 !
 accesstrade.com.vn
@@ -259,8 +259,8 @@ aatkit.com
 accengage.com
 ad*.qq.com
 ad-brix.com
+ad-stir.com
 ad.*.starwave.com
-ad.ad-stir.com
 ad.download.cnet.com
 ad.go.com
 ad.youtube.com
@@ -314,7 +314,6 @@ adsatt.*.go.com
 adsatt.*.starwave.com
 adserver.yahoo.com
 adservice.google.*
-adservice.google.com
 adsintl.starwave.com
 adskeeper.co.uk
 adspirit.de
@@ -355,6 +354,7 @@ alcmpn.com
 alexametrics.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
+amazon-adsystems.com
 ambimob.com
 amplitude.com
 amung.us
@@ -445,8 +445,7 @@ cloud.unity3d.com
 cloudmobi.net
 cnt.my
 cnzz.com
-collection-endpoint-prod.herokuapp.com
-collection-endpoint-staging.herokuapp.com
+collection-*.herokuapp.com
 conf.international.baidu.com
 consensu.org
 content.ad
@@ -498,7 +497,6 @@ freshmarketer.com
 fullstory.com
 fwmrm.net
 fyber.com
-g.doubleclick.net
 gameanalytics.com
 genieessp.com
 geo.yahoo.com
@@ -559,7 +557,6 @@ kinesis.*.amazonaws.com
 knowlead.io
 kochava.com
 krxd.net
-l.doubleclick.net
 leanplum.com
 lifestreet.com
 lifestreetmedia.com
@@ -644,8 +641,8 @@ openx.com
 openx.net
 optimizely.com
 optmnstr.com
-pagead-googlehosted.l.google.com
-pagead-tpc.l.google.com
+page.link
+pagead-*.l.google.com
 pagead.l.google.com
 parrable.com
 parsely.com
@@ -656,6 +653,7 @@ pingma.qq.com
 pixel-static.spotify.com
 pixel.facebook.com
 pixel.spotify.com
+platform.tumblr.com
 playground.xyz
 plugin.mobopay.baidu.com
 po.st
@@ -675,7 +673,6 @@ pubnative.net
 pushwoosh.com
 qualtrics.com
 quantserve.com
-qwapi.apple.com
 rayjump.com
 referrer.disqus.com
 refpa.top
@@ -705,6 +702,7 @@ sociaplus.com
 sonar-iad.xx.fbcdn.net
 sonobi.com
 speee-ad.akamaized.net
+srvcs.tumblr.com
 ss2.us
 ssl-google-analytics.l.google.com
 startappservice.com
@@ -1922,7 +1920,6 @@ appfireworks.com
 appflood.com
 appia.com
 appier.com
-apple.com-fasting.live
 appnexus.com
 appolicious.com
 apprebates.com
@@ -2568,7 +2565,6 @@ e-adimages.scrippsnetworks.com
 e-bannerx.com
 e-debtconsolidation.com
 e-m.fr
-e-n-t-e-r-n-e-x.com
 e-planning.net
 e-ssl.apsalar.com
 e.apsalar.com
@@ -4650,7 +4646,6 @@ apiparbion.com
 app-measurement.com
 apphay.me
 appimmobilier.com
-apple.comscoreresearch.com
 applog.camera360.com
 appres.camera360.com
 aquapuremultiservicios.es

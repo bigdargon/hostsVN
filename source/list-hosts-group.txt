@@ -1,4 +1,18 @@
 # --- Group block ---
+#[apple]
+0.0.0.0 ocsp.apple.com
+0.0.0.0 www.ocsp.apple.com
+0.0.0.0 advertising.apple.com
+0.0.0.0 banners.itunes.apple.com
+0.0.0.0 ca.iadsdk.apple.com
+0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 cs.iadsdk.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 news.iadsdk.apple.com
+0.0.0.0 su.iadsdk.apple.com
+0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 ut.iadsdk.apple.com
+0.0.0.0 www.iadsdk.apple.com
 #[google]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
@@ -160,21 +174,6 @@
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 ads.gmodules.com
 0.0.0.0 displayads-formats.googleusercontent.com
-#[apple]
-0.0.0.0 ocsp.apple.com
-0.0.0.0 www.ocsp.apple.com
-0.0.0.0 advertising.apple.com
-0.0.0.0 banners.itunes.apple.com
-0.0.0.0 ca.iadsdk.apple.com
-0.0.0.0 cf.iadsdk.apple.com
-0.0.0.0 cs.iadsdk.apple.com
-0.0.0.0 iadsdk.apple.com
-0.0.0.0 news.iadsdk.apple.com
-0.0.0.0 qwapi.apple.com
-0.0.0.0 su.iadsdk.apple.com
-0.0.0.0 tr.iadsdk.apple.com
-0.0.0.0 ut.iadsdk.apple.com
-0.0.0.0 www.iadsdk.apple.com
 #[microsoft]
 0.0.0.0 amer.hops.glbdns.microsoft.com
 0.0.0.0 apprep.smartscreen.microsoft.com
@@ -253,7 +252,6 @@
 0.0.0.0 rad.msn.com
 0.0.0.0 rads.msn.com
 0.0.0.0 redirection.prod.cms.msn.com
-0.0.0.0 redirection.prod.cms.msn.com.akadns.net
 0.0.0.0 rmads.eu.msn.com
 0.0.0.0 rmads.msn.com
 0.0.0.0 tracking.msadcenter.msn.com
@@ -300,10 +298,6 @@
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-eu-rtb.amazon-adsystem.com
 0.0.0.0 aax-eu-rtb-adx.amazon-adsystem.com
-0.0.0.0 aax-eu-test.amazon-adsystem.com
-0.0.0.0 aax-eu-test1.amazon-adsystem.com
-0.0.0.0 aax-eu-test2.amazon-adsystem.com
-0.0.0.0 aax-eu-test3.amazon-adsystem.com
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 aax-fe-pek.amazon-adsystem.com
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
@@ -314,13 +308,6 @@
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb-adx.amazon-adsystem.com
-0.0.0.0 aax-us-east-test.amazon-adsystem.com
-0.0.0.0 aax-us-east-test1.amazon-adsystem.com
-0.0.0.0 aax-us-east-test2.amazon-adsystem.com
-0.0.0.0 aax-us-east-test3.amazon-adsystem.com
-0.0.0.0 aax-us-east-test4.amazon-adsystem.com
-0.0.0.0 aax-us-east-test5.amazon-adsystem.com
-0.0.0.0 aax-us-east-test6.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 aax-us-pdx-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-pdx-rtb-adx.amazon-adsystem.com
@@ -418,6 +405,13 @@
 0.0.0.0 z-fe.amazon-adsystem.com
 0.0.0.0 z-in.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystems.com
+0.0.0.0 c.amazon-adsystems.com
+0.0.0.0 fls-fe.amazon-adsystems.com
+0.0.0.0 ir-na.amazon-adsystems.com
+0.0.0.0 rcm-na.amazon-adsystems.com
+0.0.0.0 ws.amazon-adsystems.com
+0.0.0.0 z-na.amazon-adsystems.com
 #[amazonaws]
 0.0.0.0 adagiobanner.s3.amazonaws.com
 0.0.0.0 admarvel.s3.amazonaws.com
@@ -458,11 +452,9 @@
 0.0.0.0 znaptag-us.s3.amazonaws.com
 #[tumblr]
 0.0.0.0 platform.tumblr.com
-0.0.0.0 srvcs.tumblr.com
 0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 saber.srvcs.tumblr.com
-0.0.0.0 cspreports.srvcs.tumblr.com
 #[yahoo.com]
 0.0.0.0 a.analytics.yahoo.com
 0.0.0.0 ads.auctions.yahoo.com
@@ -2262,7 +2254,6 @@
 0.0.0.0 goviral.hs.llnwd.net
 #[admarketplace]
 0.0.0.0 ad.admarketplace.net
-0.0.0.0 adlanding.admarketplace.net.akadns.net
 0.0.0.0 admarketplace.com
 0.0.0.0 admarketplace.net
 0.0.0.0 adtag.admarketplace.net
@@ -3947,11 +3938,9 @@
 0.0.0.0 20585485p.rfihub.com
 0.0.0.0 20754664p.rfihub.com
 0.0.0.0 a.rfihub.com
-0.0.0.0 a.rfihub.com.akadns.net
 0.0.0.0 js2.rfihub.com
 0.0.0.0 p.rfihub.com
 0.0.0.0 rfihub.com
-0.0.0.0 rfihub.com.akadns.net
 #[chartbeat.com]
 0.0.0.0 adsapi.chartbeat.com
 0.0.0.0 api.chartbeat.com
@@ -5462,9 +5451,23 @@
 0.0.0.0 www.test.tapjoyads.com
 0.0.0.0 www.ws.tapjoyads.com
 #[app.link]
+0.0.0.0 app.link
 0.0.0.0 mangarock.app.link
 0.0.0.0 mangarock-alternate.app.link
+0.0.0.0 test-app.link
 0.0.0.0 reddit.test-app.link
+#[page.link]
+0.0.0.0 page.link
+0.0.0.0 vingroup.page.link
+0.0.0.0 vinid.page.link
+#[onelink.me]
+0.0.0.0 iqoption.onelink.me
+0.0.0.0 m.onelink.me
+0.0.0.0 onelink.me
+0.0.0.0 www.onelink.me
+0.0.0.0 dream11.onelink.me
+0.0.0.0 go.onelink.me
+0.0.0.0 sod.onelink.me
 #[2mdn]
 0.0.0.0 2mdn.net
 0.0.0.0 affiliate.2mdn.net
@@ -6520,14 +6523,6 @@
 0.0.0.0 welcome.openx.com
 0.0.0.0 www.openx.com
 0.0.0.0 xx.openx.com
-#[onelink.me]
-0.0.0.0 iqoption.onelink.me
-0.0.0.0 m.onelink.me
-0.0.0.0 onelink.me
-0.0.0.0 www.onelink.me
-0.0.0.0 dream11.onelink.me
-0.0.0.0 go.onelink.me
-0.0.0.0 sod.onelink.me
 #[webtrends]
 0.0.0.0 c.webtrends.com
 0.0.0.0 counter.webtrends.com
@@ -8715,10 +8710,7 @@
 0.0.0.0 cdn.postrelease.com
 0.0.0.0 content.postrelease.com
 0.0.0.0 jadserve.postrelease.com
-0.0.0.0 jadserve.postrelease.com.akadns.net
-0.0.0.0 perf.postrelease.com.akadns.net
 0.0.0.0 postrelease.com
-0.0.0.0 postrelease.com.akadns.net
 0.0.0.0 prstats.postrelease.com
 0.0.0.0 secure.postrelease.com
 0.0.0.0 www.postrelease.com
