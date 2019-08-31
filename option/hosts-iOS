@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 30 Aug 2019 10:48 UTC+7
-# Blocked: 16,519 domains
+# Last modified: 31 Aug 2019 20:54 UTC+7
+# Blocked: 16,562 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -17,15 +17,20 @@
 0 www.ocsp.apple.com
 0 advertising.apple.com
 0 banners.itunes.apple.com
+0 iadsdk.apple.com
 0 ca.iadsdk.apple.com
 0 cf.iadsdk.apple.com
 0 cs.iadsdk.apple.com
-0 iadsdk.apple.com
 0 news.iadsdk.apple.com
 0 su.iadsdk.apple.com
 0 tr.iadsdk.apple.com
 0 ut.iadsdk.apple.com
 0 www.iadsdk.apple.com
+0 iad.apple.com
+0 blueprints.iad.apple.com
+0 overlord.iad.apple.com
+0 stg-cmws.iad.apple.com
+0 www.iad.apple.com
 0 doubleclick.net
 0 accounts.doubleclick.net
 0 ad.au.doubleclick.net
@@ -172,8 +177,8 @@
 0 ssl.google-analytics.com
 0 www.google-analytics.com
 0 cctldtest.google-analytics.com
-0 ads.youtube.com
 0 ad.youtube.com
+0 ads.youtube.com
 0 gstaticadssl.l.google.com
 0 googleadapis.l.google.com
 0 pagead.l.google.com
@@ -3965,7 +3970,6 @@
 0 gj.applog.uc.cn
 0 gj.track.uc.cn
 0 gjtrack.ucweb.com
-0 in-gmtdmp.mookie1.com
 0 instory-log.ucnews.ucweb.com
 0 logserver.insight.ucweb.com
 0 click.union.ucweb.com
@@ -4522,11 +4526,11 @@
 0 static.hadarone.com
 0 247access.mookie1.com
 0 au-gmtdmp.gd3.mookie1.com
-0 b3.mookie1.com
 0 b3-eu.mookie1.com
 0 b3-uk.mookie1.com
-0 cdn.mookie1.com
+0 b3.mookie1.com
 0 cdn-akamai.mookie1.com
+0 cdn.mookie1.com
 0 cz.gmads.mookie1.com
 0 de-gmtdmp.mookie1.com
 0 dk-gmtdmp.mookie1.com
@@ -4537,9 +4541,10 @@
 0 gd1.mookie1.com
 0 gmads.mookie1.com
 0 gmtdmp.mookie1.com
+0 ib-test.mookie1.com
 0 ib.mookie1.com
 0 ibeu2.mookie1.com
-0 ib-test.mookie1.com
+0 in-gmtdmp.mookie1.com
 0 it.gmads.mookie1.com
 0 jp-gmtdmp.gd9.mookie1.com
 0 l2pdus.mookie1.com
@@ -4553,8 +4558,8 @@
 0 static-tagr.gd1.mookie1.com
 0 t.mookie1.com
 0 tlg.mookie1.com
-0 us.gmads.mookie1.com
 0 us-gmtdmp.mookie1.com
+0 us.gmads.mookie1.com
 0 vn-gmtdmp.mookie1.com
 0 xaxis-emea.mookie1.com
 0 xaxis-it.mookie1.com
@@ -5213,6 +5218,7 @@
 0 vanguard.demdex.net
 0 verizon.demdex.net
 0 vivaki.demdex.net
+0 www.demdex.net
 0 advertisers.tapjoy.com
 0 api.tapjoy.com
 0 assets.tapjoy.com
@@ -10623,6 +10629,43 @@
 0 o333o.com
 0 s.o333o.com
 0 www.o333o.com
+0 logs.cln.unionstatistics.com
+0 sa.unionstatistics.com
+0 tag.unionstatistics.com
+0 unionstatistics.com
+0 adoptimize.info
+0 autodiscover.adoptimize.com
+0 businessforsaleexchange.adoptimize.com
+0 cpanel.adoptimize.com
+0 rbiz.adoptimize.com
+0 restaurantforsale.adoptimize.com
+0 rmarketer.adoptimize.com
+0 spunjbox.adoptimize.com
+0 www.adoptimize.com
+0 ad.qwapi.com
+0 adsdk.qwapi.com
+0 adtest.qwapi.com
+0 approval.qwapi.com
+0 cts.qwapi.com
+0 iadasa.qwapi.com
+0 iadc.qwapi.com
+0 iadc-origin.qwapi.com
+0 iadcpreview.qwapi.com
+0 iadctest.qwapi.com
+0 iadctest-origin.qwapi.com
+0 iadctestus.qwapi.com
+0 iadfeed.qwapi.com
+0 iad-feed.qwapi.com
+0 iadfeedtest.qwapi.com
+0 iadmfeed.qwapi.com
+0 iadmsoak.qwapi.com
+0 iadsdk.qwapi.com
+0 iadsoak.qwapi.com
+0 parallel.qwapi.com
+0 psfeed.qwapi.com
+0 qwapi.com
+0 site.qwapi.com
+0 www.qwapi.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13761,7 +13804,6 @@
 0 i1media.no
 0 ia.iinfo.cz
 0 iad.anm.co.uk
-0 iadctest.qwapi.com
 0 iadnet.com
 0 iapclick.gowadogo.com
 0 iasds01.com
@@ -13902,6 +13944,7 @@
 0 ktu.sv2.biz
 0 kurlichan.com
 0 ladsreds.com
+0 ladsup.com
 0 lakequincy.com
 0 laughablecopper.com
 0 laughcloth.com

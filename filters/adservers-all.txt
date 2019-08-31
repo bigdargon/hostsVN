@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 30 Aug 2019 10:48 UTC+7
-! Blocked: 5,579 rules
+! Last modified: 31 Aug 2019 20:54 UTC+7
+! Blocked: 5,583 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -291,6 +291,8 @@
 ||adnow.com^
 ||adnxs.com^
 ||adomik.com^
+||adoptimize.com^
+||adoptimize.info^
 ||adpushup.com^
 ||adroll.com^
 ||ads*-adnow.com^
@@ -525,6 +527,7 @@
 ||hmma.baidu.com^
 ||hotjar.com^
 ||i-mobile.co.jp^
+||iad.apple.com^
 ||iadsdk.apple.com^
 ||iap.unity3d.com^
 ||iesnare.com^
@@ -737,6 +740,7 @@
 ||umeng.co^
 ||umeng.com^
 ||umengcloud.com^
+||unionstatistics.com^
 ||unityads.unity3d.com^
 ||unrulymedia.com^
 ||upsight.com^
@@ -2895,7 +2899,6 @@
 ||i1media.no^
 ||ia.iinfo.cz^
 ||iad.anm.co.uk^
-||iadctest.qwapi.com^
 ||iadnet.com^
 ||iapclick.gowadogo.com^
 ||iasds01.com^
@@ -3036,6 +3039,7 @@
 ||ktu.sv2.biz^
 ||kurlichan.com^
 ||ladsreds.com^
+||ladsup.com^
 ||lakequincy.com^
 ||laughablecopper.com^
 ||laughcloth.com^

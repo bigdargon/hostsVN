@@ -4,15 +4,20 @@
 0.0.0.0 www.ocsp.apple.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 banners.itunes.apple.com
+0.0.0.0 iadsdk.apple.com
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 cs.iadsdk.apple.com
-0.0.0.0 iadsdk.apple.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 su.iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 ut.iadsdk.apple.com
 0.0.0.0 www.iadsdk.apple.com
+0.0.0.0 iad.apple.com
+0.0.0.0 blueprints.iad.apple.com
+0.0.0.0 overlord.iad.apple.com
+0.0.0.0 stg-cmws.iad.apple.com
+0.0.0.0 www.iad.apple.com
 #[google]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
@@ -160,8 +165,8 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 cctldtest.google-analytics.com
-0.0.0.0 ads.youtube.com
 0.0.0.0 ad.youtube.com
+0.0.0.0 ads.youtube.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 pagead.l.google.com
@@ -4092,7 +4097,6 @@
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gj.track.uc.cn
 0.0.0.0 gjtrack.ucweb.com
-0.0.0.0 in-gmtdmp.mookie1.com
 0.0.0.0 instory-log.ucnews.ucweb.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 click.union.ucweb.com
@@ -4676,11 +4680,11 @@
 #[mookie1]
 0.0.0.0 247access.mookie1.com
 0.0.0.0 au-gmtdmp.gd3.mookie1.com
-0.0.0.0 b3.mookie1.com
 0.0.0.0 b3-eu.mookie1.com
 0.0.0.0 b3-uk.mookie1.com
-0.0.0.0 cdn.mookie1.com
+0.0.0.0 b3.mookie1.com
 0.0.0.0 cdn-akamai.mookie1.com
+0.0.0.0 cdn.mookie1.com
 0.0.0.0 cz.gmads.mookie1.com
 0.0.0.0 de-gmtdmp.mookie1.com
 0.0.0.0 dk-gmtdmp.mookie1.com
@@ -4691,9 +4695,10 @@
 0.0.0.0 gd1.mookie1.com
 0.0.0.0 gmads.mookie1.com
 0.0.0.0 gmtdmp.mookie1.com
+0.0.0.0 ib-test.mookie1.com
 0.0.0.0 ib.mookie1.com
 0.0.0.0 ibeu2.mookie1.com
-0.0.0.0 ib-test.mookie1.com
+0.0.0.0 in-gmtdmp.mookie1.com
 0.0.0.0 it.gmads.mookie1.com
 0.0.0.0 jp-gmtdmp.gd9.mookie1.com
 0.0.0.0 l2pdus.mookie1.com
@@ -4707,8 +4712,8 @@
 0.0.0.0 static-tagr.gd1.mookie1.com
 0.0.0.0 t.mookie1.com
 0.0.0.0 tlg.mookie1.com
-0.0.0.0 us.gmads.mookie1.com
 0.0.0.0 us-gmtdmp.mookie1.com
+0.0.0.0 us.gmads.mookie1.com
 0.0.0.0 vn-gmtdmp.mookie1.com
 0.0.0.0 xaxis-emea.mookie1.com
 0.0.0.0 xaxis-it.mookie1.com
@@ -5399,6 +5404,7 @@
 0.0.0.0 vanguard.demdex.net
 0.0.0.0 verizon.demdex.net
 0.0.0.0 vivaki.demdex.net
+0.0.0.0 www.demdex.net
 #[tapjoy]
 0.0.0.0 advertisers.tapjoy.com
 0.0.0.0 api.tapjoy.com
@@ -11001,3 +11007,43 @@
 0.0.0.0 o333o.com
 0.0.0.0 s.o333o.com
 0.0.0.0 www.o333o.com
+#[unionstatistics.com]
+0.0.0.0 logs.cln.unionstatistics.com
+0.0.0.0 sa.unionstatistics.com
+0.0.0.0 tag.unionstatistics.com
+0.0.0.0 unionstatistics.com
+#[adoptimize]
+0.0.0.0 adoptimize.info
+0.0.0.0 autodiscover.adoptimize.com
+0.0.0.0 businessforsaleexchange.adoptimize.com
+0.0.0.0 cpanel.adoptimize.com
+0.0.0.0 rbiz.adoptimize.com
+0.0.0.0 restaurantforsale.adoptimize.com
+0.0.0.0 rmarketer.adoptimize.com
+0.0.0.0 spunjbox.adoptimize.com
+0.0.0.0 www.adoptimize.com
+#[qwapi.com]
+0.0.0.0 ad.qwapi.com
+0.0.0.0 adsdk.qwapi.com
+0.0.0.0 adtest.qwapi.com
+0.0.0.0 approval.qwapi.com
+0.0.0.0 cts.qwapi.com
+0.0.0.0 iadasa.qwapi.com
+0.0.0.0 iadc.qwapi.com
+0.0.0.0 iadc-origin.qwapi.com
+0.0.0.0 iadcpreview.qwapi.com
+0.0.0.0 iadctest.qwapi.com
+0.0.0.0 iadctest-origin.qwapi.com
+0.0.0.0 iadctestus.qwapi.com
+0.0.0.0 iadfeed.qwapi.com
+0.0.0.0 iad-feed.qwapi.com
+0.0.0.0 iadfeedtest.qwapi.com
+0.0.0.0 iadmfeed.qwapi.com
+0.0.0.0 iadmsoak.qwapi.com
+0.0.0.0 iadsdk.qwapi.com
+0.0.0.0 iadsoak.qwapi.com
+0.0.0.0 parallel.qwapi.com
+0.0.0.0 psfeed.qwapi.com
+0.0.0.0 qwapi.com
+0.0.0.0 site.qwapi.com
+0.0.0.0 www.qwapi.com
