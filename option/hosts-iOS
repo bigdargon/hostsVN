@@ -1,5 +1,5 @@
 # Title: hostsVN
-# Last modified: 02 Sep 2019 20:05 UTC+7
+# Last modified: 02 Sep 2019 20:11 UTC+7
 # Blocked: 16,680 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
@@ -11164,6 +11164,7 @@
 0 api.accesstrade.vn
 0 campaign.accesstrade.vn
 0 cdn.accesstrade.vn
+0 click.accesstrade.vn
 0 cv.accesstrade.vn
 0 dangky.accesstrade.vn
 0 docs.accesstrade.vn
@@ -11176,13 +11177,12 @@
 0 mascot.accesstrade.vn
 0 member.accesstrade.vn
 0 partner.accesstrade.vn
-0 pub.accesstrade.vn
 0 restream.accesstrade.vn
 0 static.accesstrade.vn
 0 superbox.accesstrade.vn
 0 top2017.accesstrade.vn
-0 tuyendung.accesstrade.vn
 0 track.accesstrade.vn
+0 tuyendung.accesstrade.vn
 0 www.accesstrade.vn
 0 accesstrade.com.vn
 0 click.accesstrade.com.vn

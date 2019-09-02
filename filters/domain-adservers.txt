@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 02 Sep 2019 20:05 UTC+7
-! Blocked: 245 rules
+! Last modified: 02 Sep 2019 20:11 UTC+7
+! Blocked: 244 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 accesstrade.com.vn
@@ -19,7 +19,7 @@ ads.zaloapp.com
 ads.zdn.vn
 adservice.google.com.vn
 adsota.com
-adtima-*.zadn.vn
+adtima*.zadn.vn
 adtima.vn
 adtimaserver.vn
 ambient-platform.com
@@ -82,8 +82,7 @@ vietad.vn
 vietnamnetad.vn
 yomedia.vn
 younetmedia.com
-zalo-ads-td.zadn.vn
-zalo-ads.zadn.vn
+zalo-ads*.zadn.vn
 zlog.zingmp3.vn
 zminer.zaloapp.com
 zplayer-trk.zdn.vn
