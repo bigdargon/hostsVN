@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 01 Sep 2019 13:49 UTC+7
-! Blocked: 244 rules
+! Last modified: 02 Sep 2019 19:32 UTC+7
+! Blocked: 245 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -104,15 +104,16 @@
 ||admedia.com.vn^
 ||admin.sothuchi.vn^
 ||adnetwork.5imedia.vn^
+||ads*.autodaily.vn^
+||ads*.careerbuilder.vn^
+||ads-cdn.fptplay.net^
 ||ads.baodatviet.vn^
 ||ads.careerbuilder.vn^
 ||ads.home.vn^
 ||ads.ictnews.vn^
 ||ads.tiki.vn^
-||ads*.careerbuilder.vn^
 ||adserver.lag.vn^
 ||adsplus.vn^
-||ads*.autodaily.vn^
 ||adt.com.vn^
 ||adx.kul.vn^
 ||adx.xemvtv.net^

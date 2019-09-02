@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 01 Sep 2019 13:49 UTC+7
-# Blocked: 1,008 domains
+# Last modified: 02 Sep 2019 19:32 UTC+7
+# Blocked: 1,009 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -818,6 +818,7 @@
 0.0.0.0 admedia.com.vn
 0.0.0.0 admin.sothuchi.vn
 0.0.0.0 adnetwork.5imedia.vn
+0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads.baodatviet.vn
 0.0.0.0 ads.careerbuilder.vn
 0.0.0.0 ads.home.vn
