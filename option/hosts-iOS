@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 02 Sep 2019 21:24 UTC+7
-# Blocked: 16,832 domains
+# Last modified: 03 Sep 2019 09:47 UTC+7
+# Blocked: 16,823 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -859,7 +859,6 @@
 0 af-gb.mgid.com
 0 aj-gb.mgid.com
 0 analytics.mgid.com
-0 blog.mgid.com
 0 c.mgid.com
 0 capping.mgid.com
 0 cdn.mgid.com
@@ -992,7 +991,6 @@
 0 wp.adnow.com
 0 wp_plug.adnow.com
 0 www.adnow.com
-0 www.blog.adnow.com
 0 xkey.adnow.com
 0 zabbix.adnow.com
 0 zh.adnow.com
@@ -1132,7 +1130,6 @@
 0 aws2webapp.exponential.com
 0 aws2webconf.exponential.com
 0 bidder.pcl.exponential.com
-0 blog.exponential.com
 0 cdnx.exponential.com
 0 consumerjourney.exponential.com
 0 creative.exponential.com
@@ -1608,12 +1605,6 @@
 0 wp-uploads.sharethis.com
 0 ws.sharethis.com
 0 www.sharethis.com
-0 airbrake.io
-0 api.airbrake.io
-0 ssljscdn.airbrake.io
-0 blog.airbrake.io
-0 airbrake-gitlab.airbrake.io
-0 airbrake-github.airbrake.io
 0 snip.answers.com
 0 staging.snip.answers.com
 0 a.answers.com
@@ -1681,7 +1672,6 @@
 0 ad.flurry.com
 0 admanagerplus.flurry.com
 0 auth-canary.flurry.com
-0 blog.flurry.com
 0 canary.flurry.com
 0 canary-x.flurry.com
 0 cdn.flurry.com
@@ -2084,7 +2074,6 @@
 0 api.addthis.com
 0 api-public.addthis.com
 0 appdev.addthis.com
-0 blog.addthis.com
 0 cache.addthis.com
 0 cache-dev.addthis.com
 0 cf.addthis.com
@@ -2613,7 +2602,6 @@
 0 appgrowth.appsee.com
 0 appsee.com
 0 apptesting.appsee.com
-0 blog.appsee.com
 0 courses.appsee.com
 0 cr.appsee.com
 0 dashboard.appsee.com
@@ -2626,13 +2614,7 @@
 0 status.appsee.com
 0 support.appsee.com
 0 ux.appsee.com
-0 www.api.appsee.com
 0 www.appsee.com
-0 www.blog.appsee.com
-0 www.dashboard.appsee.com
-0 www.get.appsee.com
-0 www.qa.test.appsee.com
-0 www.support.appsee.com
 0 link.ad-brix.com
 0 api.ad-brix.com
 0 www.ad-brix.com
@@ -3952,8 +3934,16 @@
 0 dev-desk.adasiaholdings.com
 0 adbro.me
 0 api.adbro.me
+0 apis.adbro.me
 0 cdn.adbro.me
+0 portal.adbro.me
 0 adbro.rtbid.me
+0 cdn.rtbid.me
+0 context.rtbid.me
+0 ide.rtbid.me
+0 rtbid.me
+0 static.asia.rtbid.me
+0 www.rtbid.me
 0 genieessp.com
 0 js.genieessp.com
 0 ads.genieessp.com
@@ -4041,7 +4031,6 @@
 0 api.branch.io
 0 api.qa.branch.io
 0 api2.branch.io
-0 blog.branch.io
 0 branch.io
 0 cdn.branch.io
 0 crypt.aws.branch.io
@@ -5223,7 +5212,6 @@
 0 api.tapjoy.com
 0 assets.tapjoy.com
 0 beeswax.tapjoy.com
-0 blog.tapjoy.com
 0 bonus.tapjoy.com
 0 connect.tapjoy.com
 0 content.tapjoy.com
@@ -5594,7 +5582,6 @@
 0 avp.innity.com
 0 avvn.innity.com
 0 beam.innity.com
-0 blog.innity.com
 0 cast.innity.com
 0 cdn.innity.com
 0 engageplus.innity.com
@@ -5751,7 +5738,6 @@
 0 code.ionicframework.com
 0 showcase.ionicframework.com
 0 staging.ionicframework.com
-0 blog.ionicframework.com
 0 capacitor.ionicframework.com
 0 jobs.ionicframework.com
 0 status.ionicframework.com
@@ -6731,7 +6717,6 @@
 0 admin.revcontent.com
 0 admin-stg.revcontent.com
 0 api.revcontent.com
-0 blog.revcontent.com
 0 cdn.revcontent.com
 0 cm.revcontent.com
 0 cm-s1.revcontent.com
@@ -7042,7 +7027,6 @@
 0 infolinks.com
 0 adsop.infolinks.com
 0 api.adshop.infolinks.com
-0 blog.infolinks.com
 0 cel.infolinks.com
 0 clickppc.infolinks.com
 0 indn.infolinks.com
@@ -7058,7 +7042,6 @@
 0 content.ad
 0 api.content.ad
 0 app.content.ad
-0 blog.content.ad
 0 example.content.ad
 0 help.content.ad
 0 media.content.ad
@@ -7405,7 +7388,6 @@
 0 api.adomik.com
 0 app.adomik.com
 0 b-endpoint-elb-307841411.adomik.com
-0 blog.adomik.com
 0 cle-test1.adomik.com
 0 cle-test2.adomik.com
 0 hb.adomik.com
@@ -7669,12 +7651,12 @@
 0 ws9.hotjar.com
 0 www.hotjar.com
 0 xawards.hotjar.com
-0 vidoomy.com
 0 ads.vidoomy.com
-0 pixel.vidoomy.com
-0 www.vidoomy.com
-0 rtb-useast.vidoomy.com
 0 cpm.vidoomy.com
+0 pixel.vidoomy.com
+0 rtb-useast.vidoomy.com
+0 vidoomy.com
+0 www.vidoomy.com
 0 alerts.api.kochava.com
 0 analytics.kochava.com
 0 analytics20.kochava.com
@@ -7682,7 +7664,6 @@
 0 apps.api.kochava.com
 0 assets.kochava.com
 0 bidder.kochava.com
-0 blog.kochava.com
 0 campaign.api.kochava.com
 0 clk.control.kochava.com
 0 collective.kochava.com
@@ -7719,12 +7700,10 @@
 0 token.api.kochava.com
 0 web-sdk.control.kochava.com
 0 whatif.api.kochava.com
-0 www.control.kochava.com
 0 www.kochava.com
 0 xxxbidder.kochava.com
 0 account.evidon.com
 0 ads.evidon.com
-0 blog.evidon.com
 0 c.evidon.com
 0 cdn.evidon.com
 0 cop.evidon.com
@@ -7897,7 +7876,6 @@
 0 azure.appdynamics.com
 0 blitz.appdynamics.com
 0 blitz01.ops.appdynamics.com
-0 blog.appdynamics.com
 0 calendar.appdynamics.com
 0 cdn.appdynamics.com
 0 community.appdynamics.com
@@ -8314,7 +8292,6 @@
 0 bh.sjc.contextweb.com
 0 bid.contextweb.com
 0 bidbgp-lga.contextweb.com
-0 blog.contextweb.com
 0 cdslog.contextweb.com
 0 content.contextweb.com
 0 contextweb.com
@@ -8429,7 +8406,6 @@
 0 api-tracker.mobfox.com
 0 api-v2.mobfox.com
 0 api-v3.mobfox.com
-0 blog.mobfox.com
 0 cdn1.mobfox.com
 0 creative1.mobfox.com
 0 creative1cdn.mobfox.com
@@ -8994,7 +8970,6 @@
 0 app.logrocket.com
 0 assets.logrocket.com
 0 b.logrocket.com
-0 blog.logrocket.com
 0 brief.logrocket.com
 0 cdn.logrocket.com
 0 cdn-alpha.logrocket.com
@@ -9149,7 +9124,6 @@
 0 api3.siftscience.com
 0 assets.siftscience.com
 0 b.siftscience.com
-0 blog.siftscience.com
 0 cdn.siftscience.com
 0 cdn-canary.siftscience.com
 0 console.siftscience.com
@@ -9639,7 +9613,6 @@
 0 younetmedia.com
 0 beta-develop-kitchen.juicer.cc
 0 blank.juicer.cc
-0 blog.juicer.cc
 0 dmp.juicer.cc
 0 faq.juicer.cc
 0 juicer.cc
@@ -9923,7 +9896,6 @@
 0 zaloramy.api.sociaplus.com
 0 zalorasg.api.sociaplus.com
 0 api.netcoresmartech.com
-0 blog.netcoresmartech.com
 0 cdn1.netcoresmartech.com
 0 cdnt.netcoresmartech.com
 0 docs.netcoresmartech.com
@@ -10948,6 +10920,25 @@
 0 ums.adtechjp.com
 0 ums-toy.adtechjp.com
 0 www.adtechjp.com
+0 ad-log.dable.io
+0 admin.dable.io
+0 adx.dable.io
+0 adxpd.dable.io
+0 api.dable.io
+0 dable.io
+0 demo.dable.io
+0 dsp.dable.io
+0 images.dable.io
+0 k8s.dable.io
+0 marketing.dable.io
+0 news.dable.io
+0 redirect.dable.io
+0 sp-api.dable.io
+0 sp-r.dable.io
+0 static.dable.io
+0 support.dable.io
+0 thumb.dable.io
+0 www.dable.io
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn

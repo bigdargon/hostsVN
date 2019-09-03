@@ -844,7 +844,6 @@ ae-gb.mgid.com
 af-gb.mgid.com
 aj-gb.mgid.com
 analytics.mgid.com
-blog.mgid.com
 c.mgid.com
 capping.mgid.com
 cdn.mgid.com
@@ -977,7 +976,6 @@ vshkanov.adnow.com
 wp.adnow.com
 wp_plug.adnow.com
 www.adnow.com
-www.blog.adnow.com
 xkey.adnow.com
 zabbix.adnow.com
 zh.adnow.com
@@ -1117,7 +1115,6 @@ aws2sip.exponential.com
 aws2webapp.exponential.com
 aws2webconf.exponential.com
 bidder.pcl.exponential.com
-blog.exponential.com
 cdnx.exponential.com
 consumerjourney.exponential.com
 creative.exponential.com
@@ -1593,12 +1590,6 @@ widget.sharethis.com
 wp-uploads.sharethis.com
 ws.sharethis.com
 www.sharethis.com
-airbrake.io
-api.airbrake.io
-ssljscdn.airbrake.io
-blog.airbrake.io
-airbrake-gitlab.airbrake.io
-airbrake-github.airbrake.io
 snip.answers.com
 staging.snip.answers.com
 a.answers.com
@@ -1666,7 +1657,6 @@ dev.flurry.com
 ad.flurry.com
 admanagerplus.flurry.com
 auth-canary.flurry.com
-blog.flurry.com
 canary.flurry.com
 canary-x.flurry.com
 cdn.flurry.com
@@ -2069,7 +2059,6 @@ amp-service-iad.addthis.com
 api.addthis.com
 api-public.addthis.com
 appdev.addthis.com
-blog.addthis.com
 cache.addthis.com
 cache-dev.addthis.com
 cf.addthis.com
@@ -2598,7 +2587,6 @@ appetizers.appsee.com
 appgrowth.appsee.com
 appsee.com
 apptesting.appsee.com
-blog.appsee.com
 courses.appsee.com
 cr.appsee.com
 dashboard.appsee.com
@@ -2611,13 +2599,7 @@ pm.appsee.com
 status.appsee.com
 support.appsee.com
 ux.appsee.com
-www.api.appsee.com
 www.appsee.com
-www.blog.appsee.com
-www.dashboard.appsee.com
-www.get.appsee.com
-www.qa.test.appsee.com
-www.support.appsee.com
 link.ad-brix.com
 api.ad-brix.com
 www.ad-brix.com
@@ -3937,8 +3919,16 @@ media.adasiaholdings.com
 dev-desk.adasiaholdings.com
 adbro.me
 api.adbro.me
+apis.adbro.me
 cdn.adbro.me
+portal.adbro.me
 adbro.rtbid.me
+cdn.rtbid.me
+context.rtbid.me
+ide.rtbid.me
+rtbid.me
+static.asia.rtbid.me
+www.rtbid.me
 genieessp.com
 js.genieessp.com
 ads.genieessp.com
@@ -4026,7 +4016,6 @@ api.beta.branch.io
 api.branch.io
 api.qa.branch.io
 api2.branch.io
-blog.branch.io
 branch.io
 cdn.branch.io
 crypt.aws.branch.io
@@ -5208,7 +5197,6 @@ advertisers.tapjoy.com
 api.tapjoy.com
 assets.tapjoy.com
 beeswax.tapjoy.com
-blog.tapjoy.com
 bonus.tapjoy.com
 connect.tapjoy.com
 content.tapjoy.com
@@ -5579,7 +5567,6 @@ avn.innity.com
 avp.innity.com
 avvn.innity.com
 beam.innity.com
-blog.innity.com
 cast.innity.com
 cdn.innity.com
 engageplus.innity.com
@@ -5736,7 +5723,6 @@ dashboard.ionicframework.com
 code.ionicframework.com
 showcase.ionicframework.com
 staging.ionicframework.com
-blog.ionicframework.com
 capacitor.ionicframework.com
 jobs.ionicframework.com
 status.ionicframework.com
@@ -6716,7 +6702,6 @@ aboutus.revcontent.com
 admin.revcontent.com
 admin-stg.revcontent.com
 api.revcontent.com
-blog.revcontent.com
 cdn.revcontent.com
 cm.revcontent.com
 cm-s1.revcontent.com
@@ -7027,7 +7012,6 @@ www.win.staticstuff.net
 infolinks.com
 adsop.infolinks.com
 api.adshop.infolinks.com
-blog.infolinks.com
 cel.infolinks.com
 clickppc.infolinks.com
 indn.infolinks.com
@@ -7043,7 +7027,6 @@ www.infolinks.com
 content.ad
 api.content.ad
 app.content.ad
-blog.content.ad
 example.content.ad
 help.content.ad
 media.content.ad
@@ -7390,7 +7373,6 @@ adomik-site-test.adomik.com
 api.adomik.com
 app.adomik.com
 b-endpoint-elb-307841411.adomik.com
-blog.adomik.com
 cle-test1.adomik.com
 cle-test2.adomik.com
 hb.adomik.com
@@ -7654,12 +7636,12 @@ ws8.hotjar.com
 ws9.hotjar.com
 www.hotjar.com
 xawards.hotjar.com
-vidoomy.com
 ads.vidoomy.com
-pixel.vidoomy.com
-www.vidoomy.com
-rtb-useast.vidoomy.com
 cpm.vidoomy.com
+pixel.vidoomy.com
+rtb-useast.vidoomy.com
+vidoomy.com
+www.vidoomy.com
 alerts.api.kochava.com
 analytics.kochava.com
 analytics20.kochava.com
@@ -7667,7 +7649,6 @@ api.kochava.com
 apps.api.kochava.com
 assets.kochava.com
 bidder.kochava.com
-blog.kochava.com
 campaign.api.kochava.com
 clk.control.kochava.com
 collective.kochava.com
@@ -7704,12 +7685,10 @@ t-metaps-biz.control.kochava.com
 token.api.kochava.com
 web-sdk.control.kochava.com
 whatif.api.kochava.com
-www.control.kochava.com
 www.kochava.com
 xxxbidder.kochava.com
 account.evidon.com
 ads.evidon.com
-blog.evidon.com
 c.evidon.com
 cdn.evidon.com
 cop.evidon.com
@@ -7882,7 +7861,6 @@ asset.appdynamics.com
 azure.appdynamics.com
 blitz.appdynamics.com
 blitz01.ops.appdynamics.com
-blog.appdynamics.com
 calendar.appdynamics.com
 cdn.appdynamics.com
 community.appdynamics.com
@@ -8299,7 +8277,6 @@ bh.lga.contextweb.com
 bh.sjc.contextweb.com
 bid.contextweb.com
 bidbgp-lga.contextweb.com
-blog.contextweb.com
 cdslog.contextweb.com
 content.contextweb.com
 contextweb.com
@@ -8414,7 +8391,6 @@ api.mobfox.com
 api-tracker.mobfox.com
 api-v2.mobfox.com
 api-v3.mobfox.com
-blog.mobfox.com
 cdn1.mobfox.com
 creative1.mobfox.com
 creative1cdn.mobfox.com
@@ -8979,7 +8955,6 @@ api.logrocket.com
 app.logrocket.com
 assets.logrocket.com
 b.logrocket.com
-blog.logrocket.com
 brief.logrocket.com
 cdn.logrocket.com
 cdn-alpha.logrocket.com
@@ -9134,7 +9109,6 @@ api.siftscience.com
 api3.siftscience.com
 assets.siftscience.com
 b.siftscience.com
-blog.siftscience.com
 cdn.siftscience.com
 cdn-canary.siftscience.com
 console.siftscience.com
@@ -9624,7 +9598,6 @@ www.younetmedia.com
 younetmedia.com
 beta-develop-kitchen.juicer.cc
 blank.juicer.cc
-blog.juicer.cc
 dmp.juicer.cc
 faq.juicer.cc
 juicer.cc
@@ -9908,7 +9881,6 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 api.netcoresmartech.com
-blog.netcoresmartech.com
 cdn1.netcoresmartech.com
 cdnt.netcoresmartech.com
 docs.netcoresmartech.com
@@ -10933,6 +10905,25 @@ trunk.guce.adtechjp.com
 ums.adtechjp.com
 ums-toy.adtechjp.com
 www.adtechjp.com
+ad-log.dable.io
+admin.dable.io
+adx.dable.io
+adxpd.dable.io
+api.dable.io
+dable.io
+demo.dable.io
+dsp.dable.io
+images.dable.io
+k8s.dable.io
+marketing.dable.io
+news.dable.io
+redirect.dable.io
+sp-api.dable.io
+sp-r.dable.io
+static.dable.io
+support.dable.io
+thumb.dable.io
+www.dable.io
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
