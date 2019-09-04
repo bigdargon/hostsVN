@@ -15,6 +15,16 @@ Hosts block ads of Vietnamese - Hosts chặn quảng cáo của người Việt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ```
 
+- Đường dẫn tập tin [hosts-iOS](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-iOS) dành cho iOS (đã jailbreak):
+```
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-iOS
+```
+
+- Đường dẫn tập tin [hosts-VN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN) chỉ bao gồm tên miền ở Việt Nam:
+```
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
+```
+
 - Đường dẫn tập tin chỉ chứa [tên miền](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt):
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt

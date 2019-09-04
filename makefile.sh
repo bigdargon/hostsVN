@@ -21,6 +21,8 @@ sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_domain_vn_/$DOMAIN_VN/g" tmp/title-
 # create hosts files
 cat tmp/title-hosts.tmp source/list-hosts-group.txt source/list-hosts-group-VN.txt source/list-hosts-VN.txt source/list-hosts.txt > hosts
 cat tmp/title-hosts-VN.tmp source/list-hosts-group-VN.txt source/list-hosts-VN.txt > option/hosts-VN
+
+# create hosts-iOS file
 cat hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "0 "$2}' >> tmp/hosts-iOS.tmp
 cat tmp/title-hosts-iOS.tmp tmp/hosts-iOS.tmp > option/hosts-iOS
 
@@ -31,13 +33,12 @@ mv tmp/domain.txt option/
 # create adserver files
 cat source/list-adservers.txt | grep -v '!' | awk '{print $1}' >> tmp/list-adservers.tmp
 cat source/list-adservers-all.txt | grep -v '!' | awk '{print $1}' >> tmp/list-adservers-all.tmp
-cat tmp/title-adserver.tmp tmp/list-adservers.tmp > filters/domain-adservers.txt
 cat tmp/title-adserver-all.tmp tmp/list-adservers.tmp tmp/list-adservers-all.tmp > filters/domain-adservers-all.txt
 
 # create rule & config files
-cat filters/domain-adservers.txt | grep -v '!' | awk '{print "||"$1"^"}' >> tmp/adservers-rule.tmp
-cat filters/domain-adservers-all.txt | grep -v '!' | awk '{print "||"$1"^"}' >> tmp/adservers-all-rule.tmp
-cat filters/domain-adservers-all.txt | grep -v '!' | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adservers-config.tmp
+cat tmp/list-adservers.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-rule.tmp
+cat tmp/list-adservers.tmp tmp/list-adservers-all.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-all-rule.tmp
+cat tmp/list-adservers.tmp tmp/list-adservers-all.tmp | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adservers-config.tmp
 
 # add to files
 cat tmp/title-adserver.tmp tmp/adservers-rule.tmp > filters/adservers.txt
