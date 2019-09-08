@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 06 Sep 2019 16:31 UTC+7
-# Blocked: 17,003 domains
+# Last modified: 08 Sep 2019 17:48 UTC+7
+# Blocked: 16,999 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -5410,14 +5410,7 @@
 0.0.0.0 supportmx.support.tapjoy.com
 0.0.0.0 tapjoy.com
 0.0.0.0 video.tapjoy.com
-0.0.0.0 www.content-js.tapjoy.com
-0.0.0.0 www.eng.tapjoy.com
-0.0.0.0 www.fdc.tapjoy.com
-0.0.0.0 www.home.tapjoy.com
-0.0.0.0 www.online.tapjoy.com
-0.0.0.0 www.supportmx.support.tapjoy.com
 0.0.0.0 www.tapjoy.com
-0.0.0.0 www1.tapjoy.com
 0.0.0.0 tapjoyads.com
 0.0.0.0 test.tapjoyads.com
 0.0.0.0 ws.tapjoyads.com
@@ -5427,16 +5420,17 @@
 0.0.0.0 ws3.tapjoyads.com
 0.0.0.0 ws33.tapjoyads.com
 0.0.0.0 ws4.tapjoyads.com
-0.0.0.0 www.test.tapjoyads.com
-0.0.0.0 www.ws.tapjoyads.com
 #[app.link]
 0.0.0.0 app.link
-0.0.0.0 mangarock.app.link
+0.0.0.0 lichviet-alternate.app.link
+0.0.0.0 lichviet.app.link
 0.0.0.0 mangarock-alternate.app.link
+0.0.0.0 mangarock.app.link
 0.0.0.0 test-app.link
 0.0.0.0 reddit.test-app.link
 #[page.link]
 0.0.0.0 page.link
+0.0.0.0 sothuchi.page.link
 0.0.0.0 vingroup.page.link
 0.0.0.0 vinid.page.link
 #[onelink.me]
@@ -12589,6 +12583,7 @@
 0.0.0.0 11bet.net
 0.0.0.0 tin.11bet.net
 0.0.0.0 1xbetvn.com
+0.0.0.0 nhatvip.net
 #[scamVN]
 0.0.0.0 fuckbookvietnam.com
 0.0.0.0 www.fuckbookvietnam.com
@@ -12756,6 +12751,7 @@
 0.0.0.0 ad.liveinternet.ru
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.m5prod.net
+0.0.0.0 ad.mail.ru
 0.0.0.0 ad.media-servers.net
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.mgd.de
