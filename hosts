@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 10 Sep 2019 12:12 UTC+7
-# Blocked: 16,985 domains
+# Last modified: 10 Sep 2019 15:18 UTC+7
+# Blocked: 17,047 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -1200,8 +1200,6 @@
 0.0.0.0 workday.exponential.com
 0.0.0.0 workdaylab.exponential.com
 0.0.0.0 www.exponential.com
-0.0.0.0 www.workday.exponential.com
-0.0.0.0 www.workdaylab.exponential.com
 #[propellerads]
 0.0.0.0 ab-config.propellerads.com
 0.0.0.0 ad.propellerads.com
@@ -1212,12 +1210,12 @@
 0.0.0.0 ads.propellerads.com
 0.0.0.0 alav.propellerads.com
 0.0.0.0 alexa.propellerads.com
+0.0.0.0 api-publishers.propellerads.com
 0.0.0.0 api.propellerads.com
 0.0.0.0 apiad.propellerads.com
 0.0.0.0 apibeta.propellerads.com
-0.0.0.0 api-publishers.propellerads.com
-0.0.0.0 apistats.propellerads.com
 0.0.0.0 apistats-static.propellerads.com
+0.0.0.0 apistats.propellerads.com
 0.0.0.0 apps.propellerads.com
 0.0.0.0 bck-herz.propellerads.com
 0.0.0.0 bitwarden.propellerads.com
@@ -1252,8 +1250,8 @@
 0.0.0.0 jira.propellerads.com
 0.0.0.0 join.propellerads.com
 0.0.0.0 k8s-dashboard.propellerads.com
-0.0.0.0 kvsapp.propellerads.com
 0.0.0.0 kvs-maintenance.propellerads.com
+0.0.0.0 kvsapp.propellerads.com
 0.0.0.0 letitbit.propellerads.com
 0.0.0.0 loadtest.propellerads.com
 0.0.0.0 log-manager.propellerads.com
@@ -1288,7 +1286,6 @@
 0.0.0.0 tracking.propellerads.com
 0.0.0.0 v2.propellerads.com
 0.0.0.0 vd1.propellerads.com
-0.0.0.0 www.ads.propellerads.com
 0.0.0.0 www.propellerads.com
 0.0.0.0 xmlfeed.propellerads.com
 #[yllix]
@@ -1534,33 +1531,32 @@
 0.0.0.0 s.agentanalytics.com
 0.0.0.0 t.agentanalytics.com
 #[appsflyer]
+0.0.0.0 api.appsflyer.com
+0.0.0.0 app.appsflyer.com
 0.0.0.0 appsflyer.com
 0.0.0.0 attr.appsflyer.com
-0.0.0.0 register.appsflyer.com
-0.0.0.0 events.appsflyer.com
-0.0.0.0 t.appsflyer.com
-0.0.0.0 stats.appsflyer.com
-0.0.0.0 app.appsflyer.com
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 community.appsflyer.com
+0.0.0.0 events.appsflyer.com
 0.0.0.0 get.appsflyer.com
-0.0.0.0 www.get.appsflyer.com
 0.0.0.0 global.appsflyer.com
 0.0.0.0 hq.appsflyer.com
 0.0.0.0 hq1.appsflyer.com
 0.0.0.0 hub.appsflyer.com
-0.0.0.0 newclicks.appsflyer.com
-0.0.0.0 partners.appsflyer.com
-0.0.0.0 statsgoogle.appsflyer.com
-0.0.0.0 support.appsflyer.com
-0.0.0.0 www.appsflyer.com
-0.0.0.0 api.appsflyer.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 monitorsdk.appsflyer.com
-0.0.0.0 sdk.appsflyer.com
+0.0.0.0 newclicks.appsflyer.com
+0.0.0.0 partners.appsflyer.com
+0.0.0.0 register.appsflyer.com
 0.0.0.0 sdk-services.appsflyer.com
+0.0.0.0 sdk.appsflyer.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 statsgoogle.appsflyer.com
+0.0.0.0 support.appsflyer.com
+0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 www.appsflyer.com
 #[crashlytics]
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 reports.crashlytics.com
@@ -5489,11 +5485,7 @@
 0.0.0.0 support.instartlogic.com
 0.0.0.0 test.instartlogic.com
 0.0.0.0 unifi.corp.instartlogic.com
-0.0.0.0 www.customer.instartlogic.com
 0.0.0.0 www.instartlogic.com
-0.0.0.0 www.support.instartlogic.com
-0.0.0.0 www.testns.instartlogic.com
-0.0.0.0 www2.instartlogic.com
 0.0.0.0 www-le.instartlogic.com
 0.0.0.0 www-staging.instartlogic.com
 #[dpmsrv]
@@ -7969,14 +7961,13 @@
 0.0.0.0 privacyapi.evidon.com
 0.0.0.0 publisher.evidon.com
 0.0.0.0 signon.evidon.com
+0.0.0.0 sso.evidon.com
 0.0.0.0 staging.corp.evidon.com
 0.0.0.0 tagcontrolapi.evidon.com
 0.0.0.0 tagcontrol-cdn.evidon.com
 0.0.0.0 tagcontrolcollector.evidon.com
 0.0.0.0 trackermap.evidon.com
 0.0.0.0 www.evidon.com
-0.0.0.0 www.insights.evidon.com
-0.0.0.0 www.my.evidon.com
 #[segment.com]
 0.0.0.0 app.segment.com
 0.0.0.0 app-canary.segment.com
@@ -11524,6 +11515,79 @@
 0.0.0.0 medusa-api.cbsileads.com
 0.0.0.0 static.cbsileads.com
 0.0.0.0 www.cbsileads.com
+#[cbsi.com]
+0.0.0.0 aa.cbsi.com
+0.0.0.0 adimg.cbsi.com
+0.0.0.0 adlog.cbsi.com
+0.0.0.0 apex.cbsi.com
+0.0.0.0 bwp.cbsi.com
+0.0.0.0 cbsi.com
+0.0.0.0 cbsiadops.cbsi.com
+0.0.0.0 cbsnews.cbsi.com
+0.0.0.0 cbssports.cbsi.com
+0.0.0.0 cnet.cbsi.com
+0.0.0.0 comicbook.cbsi.com
+0.0.0.0 ct.cbsi.com
+0.0.0.0 chowhound.cbsi.com
+0.0.0.0 darktrace.cbsi.com
+0.0.0.0 dw.cbsi.com
+0.0.0.0 etonline.cbsi.com
+0.0.0.0 fileupload.cbsi.com
+0.0.0.0 fonts.cbsi.com
+0.0.0.0 gamespot.cbsi.com
+0.0.0.0 i.d.cbsi.com
+0.0.0.0 i.i.cbsi.com
+0.0.0.0 i.n.cbsi.com
+0.0.0.0 i.t.cbsi.com
+0.0.0.0 i.techrepublic.cbsi.com
+0.0.0.0 image.cbsi.com
+0.0.0.0 img.cbsi.com
+0.0.0.0 insideedition.cbsi.com
+0.0.0.0 intent.cbsi.com
+0.0.0.0 isg.cbsi.com
+0.0.0.0 mads.cbsi.com
+0.0.0.0 maxpreps.cbsi.com
+0.0.0.0 news.cbsi.com
+0.0.0.0 om.cbsi.com
+0.0.0.0 origin-img.cbsi.com
+0.0.0.0 owl.cbsi.com
+0.0.0.0 popculture.cbsi.com
+0.0.0.0 phx1-mx.cbsi.com
+0.0.0.0 rev.cbsi.com
+0.0.0.0 ricochet.cbsi.com
+0.0.0.0 rok.cbsi.com
+0.0.0.0 saa.cbsi.com
+0.0.0.0 scout.cbsi.com
+0.0.0.0 som.cbsi.com
+0.0.0.0 staging-mobilecms.cbsi.com
+0.0.0.0 tableau.cbsi.com
+0.0.0.0 techrepublic.cbsi.com
+0.0.0.0 tv.cbsi.com
+0.0.0.0 tvguide.cbsi.com
+0.0.0.0 truyopoc.cbsi.com
+0.0.0.0 wired2fish.cbsi.com
+0.0.0.0 www.cbsi.com
+0.0.0.0 zdnet.cbsi.com
+#[cbsinteractive.com]
+0.0.0.0 adops.cbsinteractive.com
+0.0.0.0 adportal.cbsinteractive.com
+0.0.0.0 ads.asia.cbsinteractive.com
+0.0.0.0 asia.cbsinteractive.com
+0.0.0.0 b2b-ma.cbsinteractive.com
+0.0.0.0 cbsinteractive.com
+0.0.0.0 cnu.cbsinteractive.com
+0.0.0.0 connect.cbsinteractive.com
+0.0.0.0 ddpefewest.cbsinteractive.com
+0.0.0.0 gadgets.cbsinteractive.com
+0.0.0.0 gammo.cbsinteractive.com
+0.0.0.0 i.asia.cbsinteractive.com
+0.0.0.0 legalterms.cbsinteractive.com
+0.0.0.0 nls.cbsinteractive.com
+0.0.0.0 ocp.cbsinteractive.com
+0.0.0.0 secure-ca.cbsinteractive.com
+0.0.0.0 vidtech.cbsinteractive.com
+0.0.0.0 vtstage.cbsinteractive.com
+0.0.0.0 www.cbsinteractive.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
