@@ -9867,31 +9867,6 @@
 0.0.0.0 adhitzcom.adz2you.net
 0.0.0.0 android.adz2you.net
 0.0.0.0 www.adz2you.net
-#[younetmedia.com]
-0.0.0.0 beta.younetmedia.com
-0.0.0.0 digital.younetmedia.com
-0.0.0.0 facebookid.younetmedia.com
-0.0.0.0 gandalf.younetmedia.com
-0.0.0.0 git.younetmedia.com
-0.0.0.0 jenkins.younetmedia.com
-0.0.0.0 mail.younetmedia.com
-0.0.0.0 ranking.younetmedia.com
-0.0.0.0 sen02.younetmedia.com
-0.0.0.0 sh.younetmedia.com
-0.0.0.0 sh-cdn.younetmedia.com
-0.0.0.0 sh-staging.younetmedia.com
-0.0.0.0 sh-staging-cdn.younetmedia.com
-0.0.0.0 smtp1.younetmedia.com
-0.0.0.0 smtp2.younetmedia.com
-0.0.0.0 smtp3.younetmedia.com
-0.0.0.0 smtp4.younetmedia.com
-0.0.0.0 smtp5.younetmedia.com
-0.0.0.0 smtp6.younetmedia.com
-0.0.0.0 socialheat.younetmedia.com
-0.0.0.0 static.younetmedia.com
-0.0.0.0 testing.younetmedia.com
-0.0.0.0 www.younetmedia.com
-0.0.0.0 younetmedia.com
 #[juicer.cc]
 0.0.0.0 beta-develop-kitchen.juicer.cc
 0.0.0.0 blank.juicer.cc
@@ -11522,3 +11497,19 @@
 0.0.0.0 rtb-srv.nxtck.com
 0.0.0.0 rtb-srv-mrs.nxtck.com
 0.0.0.0 rtb-yahoo-gus.nxtck.com
+#[ml314.com]
+0.0.0.0 in.ml314.com
+0.0.0.0 ml314.com
+0.0.0.0 rtg.ml314.com
+0.0.0.0 www.ml314.com
+#[tru.am]
+0.0.0.0 beacon.tru.am
+0.0.0.0 tru.am
+0.0.0.0 www.tru.am
+#[cbsileads.com]
+0.0.0.0 cbsileads.com
+0.0.0.0 cbslnk.cbsileads.com
+0.0.0.0 creatives.cbsileads.com
+0.0.0.0 medusa-api.cbsileads.com
+0.0.0.0 static.cbsileads.com
+0.0.0.0 www.cbsileads.com
