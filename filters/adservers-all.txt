@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 10 Sep 2019 16:30 UTC+7
-! Blocked: 5,598 rules
+! Last modified: 13 Sep 2019 20:24 UTC+7
+! Blocked: 5,601 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -323,6 +323,7 @@
 ||adsatt.*.starwave.com^
 ||adserver.yahoo.com^
 ||adservice.google.*^
+||adsfactor.net^
 ||adsintl.starwave.com^
 ||adskeeper.co.uk^
 ||adspirit.de^
@@ -343,8 +344,7 @@
 ||advergine.com^
 ||advergine.ru^
 ||advertica.ae^
-||advertising-*.amazon.com^
-||advertising.amazon.com^
+||advertising*.amazon.com^
 ||advertising.apple.com^
 ||advertising.com^
 ||advertising.yahoo.com^
@@ -422,6 +422,7 @@
 ||bfmio.com^
 ||bidgear.com^
 ||bidswitch.net^
+||bigclicker.me^
 ||bizible.com^
 ||blueseed.tv^
 ||blueserving.com^
@@ -499,6 +500,7 @@
 ||effectivemeasure.net^
 ||ematicsolutions.com^
 ||engageya.com^
+||epom.com^
 ||ettoday.net^
 ||evidon.com^
 ||exosrv.com^
@@ -508,7 +510,6 @@
 ||fidelity-media.com^
 ||filament-stats.herokuapp.com^
 ||flashtalking.com^
-||fls-*.amazon.com^
 ||flurry.com^
 ||fout.jp^
 ||fqtag.com^
@@ -596,8 +597,7 @@
 ||logly.co.jp^
 ||logrocket.com^
 ||logrocket.io^
-||mads-*.amazon.com^
-||mads.amazon.com^
+||mads*.amazon.com^
 ||mads.cnet.com^
 ||mailchimp.com^
 ||maliva-mcs.byteoversea.com^
@@ -723,6 +723,7 @@
 ||siftscience.com^
 ||simpli.fi^
 ||skimresources.com^
+||smaato.com^
 ||smaato.net^
 ||smartadserver.com^
 ||smetrics.cnn.com^
@@ -899,6 +900,7 @@
 ||ad-serverparc.nl^
 ||ad-souk.com^
 ||ad-space.net^
+||ad-spb.ru^
 ||ad-specs.guoshipartners.com^
 ||ad-tech.com^
 ||ad-up.com^
@@ -3284,6 +3286,7 @@
 ||mobixell.com^
 ||mobstac.com^
 ||mobyt.com^
+||mobzeg.com^
 ||moceanmobile.com^
 ||modifyeyes.com^
 ||moggattice.com^
@@ -3899,7 +3902,6 @@
 ||slipperysack.com^
 ||slopeaota.com^
 ||sma.punto.net^
-||smaato.com^
 ||smart.brvaffs.com^
 ||smart4ads.com^
 ||smartbase.cdnservices.com^
@@ -4242,6 +4244,7 @@
 ||trendmd.com^
 ||trhunt.com^
 ||tribalfusion.com^
+||tribedone.org^
 ||trickycelery.com^
 ||tritetongue.com^
 ||trix.net^

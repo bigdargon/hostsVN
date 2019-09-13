@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 10 Sep 2019 16:30 UTC+7
-# Blocked: 17,117 domains
+# Last modified: 13 Sep 2019 20:24 UTC+7
+# Blocked: 17,173 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -290,16 +290,12 @@
 0.0.0.0 completion.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 fls-eu.amazon.com
-0.0.0.0 fls-na.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 mas-sdk.amazon.com
 0.0.0.0 rcm.amazon.com
 0.0.0.0 rcm-images.amazon.com
 0.0.0.0 uedata.amazon.com
-0.0.0.0 unagi-fe.amazon.com
-0.0.0.0 unagi-na.amazon.com
 0.0.0.0 widgets.amazon.com
 0.0.0.0 wms.assoc-amazon.com
 0.0.0.0 ws.amazon.com
@@ -2325,7 +2321,6 @@
 0.0.0.0 mobilecrm.accengage.com
 0.0.0.0 preprod.accengage.com
 0.0.0.0 push1.dev.accengage.com
-0.0.0.0 wiki.accengage.com
 0.0.0.0 www.accengage.com
 #[aatkit]
 0.0.0.0 aatkit.com
@@ -2413,7 +2408,6 @@
 0.0.0.0 sweeney-elb.appboy.com
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 velvet.iad.appboy.com
-0.0.0.0 wiki.appboy.com
 0.0.0.0 lacerta.iad-03.appboy.com
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 02.iad.appboy.com
@@ -2577,7 +2571,6 @@
 0.0.0.0 status.leanplum.com
 0.0.0.0 support.leanplum.com
 0.0.0.0 web.leanplum.com
-0.0.0.0 wiki.corp.leanplum.com
 0.0.0.0 www.leanplum.com
 #[ligatus]
 0.0.0.0 a.ligatus.com
@@ -3000,13 +2993,7 @@
 0.0.0.0 securev4vcapi.adcolony.com
 0.0.0.0 support.adcolony.com
 0.0.0.0 wd.adcolony.com
-0.0.0.0 wiki.adcolony.com
-0.0.0.0 www.adc3-assets.adcolony.com
-0.0.0.0 www.adc3-assets-enc-cdn.adcolony.com
 0.0.0.0 www.adcolony.com
-0.0.0.0 www.alpha-assets.adcolony.com
-0.0.0.0 www.c4d-cdn.adcolony.com
-0.0.0.0 www.de.adcolony.com
 #[adsafeprotected.com]
 0.0.0.0 009.bapi.adsafeprotected.com
 0.0.0.0 1009.bapi.adsafeprotected.com
@@ -3794,8 +3781,6 @@
 0.0.0.0 staging-video.fyber.com
 0.0.0.0 staging-video-broker.fyber.com
 0.0.0.0 stg.fyber.com
-0.0.0.0 test-tickets.fyber.com
-0.0.0.0 test-wiki.fyber.com
 0.0.0.0 tickets.fyber.com
 0.0.0.0 track.fyber.com
 0.0.0.0 tracker.fyber.com
@@ -3807,9 +3792,6 @@
 0.0.0.0 video-aws-stg.fyber.com
 0.0.0.0 video-dsa.fyber.com
 0.0.0.0 video-interstitial-assets-cdn.fyber.com
-0.0.0.0 wiki.fyber.com
-0.0.0.0 wiki.rtb-demand.fyber.com
-0.0.0.0 wiki.rtb-supply.fyber.com
 0.0.0.0 www.fyber.com
 #[onthe]
 0.0.0.0 cdn.onthe.io
@@ -5694,9 +5676,7 @@
 0.0.0.0 two-ply-dev.gw.localytics.com
 0.0.0.0 web.localytics.com
 0.0.0.0 webanalytics.localytics.com
-0.0.0.0 wiki.localytics.com
 0.0.0.0 www.localytics.com
-0.0.0.0 www.truenorth.localytics.com
 #[clevertap]
 0.0.0.0 api.clevertap.com
 0.0.0.0 campaigns.clevertap.com
@@ -7438,7 +7418,6 @@
 0.0.0.0 tr.ad-stir.com
 0.0.0.0 vidspot-adn.ad-stir.com
 0.0.0.0 vr.ad-stir.com
-0.0.0.0 wiki.ad-stir.com
 0.0.0.0 win.ad-stir.com
 0.0.0.0 www.ad-stir.com
 #[pubnative]
@@ -8919,7 +8898,6 @@
 0.0.0.0 testbot.adx1.com
 0.0.0.0 testsql.adx1.com
 0.0.0.0 u5t.adx1.com
-0.0.0.0 wiki.adx1.com
 0.0.0.0 wtmr.adx1.com
 0.0.0.0 www.adx1.com
 0.0.0.0 yy.adx1.com
@@ -11658,6 +11636,83 @@
 0.0.0.0 vidtech.cbsinteractive.com
 0.0.0.0 vtstage.cbsinteractive.com
 0.0.0.0 www.cbsinteractive.com
+#[bigclicker.me]
+0.0.0.0 0.bigclicker.me
+0.0.0.0 1.bigclicker.me
+0.0.0.0 10.bigclicker.me
+0.0.0.0 2.bigclicker.me
+0.0.0.0 3.bigclicker.me
+0.0.0.0 4.bigclicker.me
+0.0.0.0 5.bigclicker.me
+0.0.0.0 6.bigclicker.me
+0.0.0.0 7.bigclicker.me
+0.0.0.0 8.bigclicker.me
+0.0.0.0 9.bigclicker.me
+0.0.0.0 bigclicker.me
+#[adsfactor.net]
+0.0.0.0 adsfactor.net
+0.0.0.0 bdaz.adsfactor.net
+0.0.0.0 cdn.adsfactor.net
+0.0.0.0 cdn-html.adsfactor.net
+0.0.0.0 cf.adsfactor.net
+0.0.0.0 csync.adsfactor.net
+0.0.0.0 hydra.adsfactor.net
+0.0.0.0 jkci.adsfactor.net
+0.0.0.0 jktest.adsfactor.net
+0.0.0.0 pxrt.adsfactor.net
+0.0.0.0 rdr.adsfactor.net
+0.0.0.0 rdr-test.adsfactor.net
+0.0.0.0 rdr-test2.adsfactor.net
+0.0.0.0 rtr.adsfactor.net
+0.0.0.0 rtr-dsp.adsfactor.net
+0.0.0.0 tugela.adsfactor.net
+0.0.0.0 v.adsfactor.net
+0.0.0.0 www.adsfactor.net
+#[smaato.com]
+0.0.0.0 adelh.smaato.com
+0.0.0.0 ads.smaato.com
+0.0.0.0 creatives.smaato.com
+0.0.0.0 creatives-adserver.smaato.com
+0.0.0.0 dashboard.smaato.com
+0.0.0.0 demofiles.smaato.com
+0.0.0.0 dspportal.smaato.com
+0.0.0.0 go.smaato.com
+0.0.0.0 info.smaato.com
+0.0.0.0 mobile.smaato.com
+0.0.0.0 mobilevideorefocused.smaato.com
+0.0.0.0 my.smaato.com
+0.0.0.0 sdx.smaato.com
+0.0.0.0 smaato.com
+0.0.0.0 soma.smaato.com
+0.0.0.0 spx.smaato.com
+0.0.0.0 standards.smaato.com
+0.0.0.0 startsurvey.smaato.com
+0.0.0.0 www.smaato.com
+#[epom.com]
+0.0.0.0 a6.epom.com
+0.0.0.0 ads.epom.com
+0.0.0.0 api.epom.com
+0.0.0.0 apilw.epom.com
+0.0.0.0 apps.epom.com
+0.0.0.0 bidder-ex.epom.com
+0.0.0.0 cdn.epom.com
+0.0.0.0 directads.epom.com
+0.0.0.0 dsp.epom.com
+0.0.0.0 epom.com
+0.0.0.0 manage.epom.com
+0.0.0.0 market.epom.com
+0.0.0.0 pages.epom.com
+0.0.0.0 resources.epom.com
+0.0.0.0 smtp18.epom.com
+0.0.0.0 smtp9.epom.com
+0.0.0.0 static-ex.epom.com
+0.0.0.0 stats-d1316.epom.com
+0.0.0.0 stats-d1328.epom.com
+0.0.0.0 stats-d1345.epom.com
+0.0.0.0 stats-d272.epom.com
+0.0.0.0 stats-dss1402.epom.com
+0.0.0.0 us-east-stats-ex.epom.com
+0.0.0.0 www.epom.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12816,6 +12871,7 @@
 0.0.0.0 ad-serverparc.nl
 0.0.0.0 ad-souk.com
 0.0.0.0 ad-space.net
+0.0.0.0 ad-spb.ru
 0.0.0.0 ad-specs.guoshipartners.com
 0.0.0.0 ad-tech.com
 0.0.0.0 ad-up.com
@@ -15199,6 +15255,7 @@
 0.0.0.0 mobixell.com
 0.0.0.0 mobstac.com
 0.0.0.0 mobyt.com
+0.0.0.0 mobzeg.com
 0.0.0.0 moceanmobile.com
 0.0.0.0 modifyeyes.com
 0.0.0.0 moggattice.com
@@ -15812,7 +15869,6 @@
 0.0.0.0 slipperysack.com
 0.0.0.0 slopeaota.com
 0.0.0.0 sma.punto.net
-0.0.0.0 smaato.com
 0.0.0.0 smart.brvaffs.com
 0.0.0.0 smart4ads.com
 0.0.0.0 smartbase.cdnservices.com
@@ -16155,6 +16211,7 @@
 0.0.0.0 trendmd.com
 0.0.0.0 trhunt.com
 0.0.0.0 tribalfusion.com
+0.0.0.0 tribedone.org
 0.0.0.0 trickycelery.com
 0.0.0.0 tritetongue.com
 0.0.0.0 trix.net
@@ -16336,6 +16393,7 @@
 0.0.0.0 wt-eu02.net
 0.0.0.0 wtlive.com
 0.0.0.0 www-banner.chat.ru
+0.0.0.0 www.ad-spb.ru
 0.0.0.0 www.adexchangetracker.com
 0.0.0.0 www.ads24h.net
 0.0.0.0 www.adsluna.com
@@ -16363,6 +16421,7 @@
 0.0.0.0 www.lecap-services.fr
 0.0.0.0 www.lightboxcdn.com
 0.0.0.0 www.maxonclick.com
+0.0.0.0 www.mobzeg.com
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.moneymakercdn.com
 0.0.0.0 www.myadsystem.com
@@ -16379,6 +16438,7 @@
 0.0.0.0 www.push-notifications.top
 0.0.0.0 www.rmiesnorthur.pro
 0.0.0.0 www.statsy.net
+0.0.0.0 www.tribedone.org
 0.0.0.0 www.trustaffs.com
 0.0.0.0 www.velocitycdn.com
 0.0.0.0 www.vidcpm.com
