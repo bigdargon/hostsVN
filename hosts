@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 13 Sep 2019 20:24 UTC+7
-# Blocked: 17,173 domains
+# Last modified: 14 Sep 2019 21:52 UTC+7
+# Blocked: 17,193 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -11688,6 +11688,30 @@
 0.0.0.0 standards.smaato.com
 0.0.0.0 startsurvey.smaato.com
 0.0.0.0 www.smaato.com
+#[dspmulti.com]
+0.0.0.0 252feu.dspmulti.com
+0.0.0.0 2feu.dspmulti.com
+0.0.0.0 all.dspmulti.com
+0.0.0.0 dspmulti.com
+0.0.0.0 en.dspmulti.com
+0.0.0.0 ep.dspmulti.com
+0.0.0.0 u.dspmulti.com
+0.0.0.0 www.dspmulti.com
+#[adcaffe.com]
+0.0.0.0 adcaffe.com
+0.0.0.0 api.adcaffe.com
+0.0.0.0 img.adcaffe.com
+0.0.0.0 monitor.adcaffe.com
+0.0.0.0 search.adcaffe.com
+#[appcloudbox.net]
+0.0.0.0 ap.appcloudbox.net
+0.0.0.0 api.appcloudbox.net
+0.0.0.0 cdn.appcloudbox.net
+0.0.0.0 crashlytics.appcloudbox.net
+0.0.0.0 ge.appcloudbox.net
+0.0.0.0 location.appcloudbox.net
+0.0.0.0 static.appcloudbox.net
+0.0.0.0 td-service.appcloudbox.net
 #[epom.com]
 0.0.0.0 a6.epom.com
 0.0.0.0 ads.epom.com
@@ -17647,18 +17671,17 @@
 0.0.0.0 icloud.com-locations.in
 0.0.0.0 cpanel.view-apple.com
 0.0.0.0 icloud.com.view-apple.com
-0.0.0.0 mail.view-apple.com
 0.0.0.0 view-apple.com
 0.0.0.0 webdisk.view-apple.com
-0.0.0.0 webmail.view-apple.com
-0.0.0.0 www.icloud.com.view-apple.com
 0.0.0.0 www.view-apple.com
 0.0.0.0 cpanel.view-appleid.com
-0.0.0.0 mail.view-appleid.com
 0.0.0.0 view-appleid.com
 0.0.0.0 webdisk.view-appleid.com
-0.0.0.0 webmail.view-appleid.com
 0.0.0.0 www.view-appleid.com
 0.0.0.0 mysp.ac
 0.0.0.0 securedashfuyiersa.com
 0.0.0.0 manage.problem.securedashfuyiersa.com
+0.0.0.0 ladsblue.com
+0.0.0.0 www.ladsblue.com
+0.0.0.0 fortt-rade.com
+0.0.0.0 screenshielded.com
