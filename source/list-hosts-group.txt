@@ -196,6 +196,7 @@
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
+#[atdmt.com]
 0.0.0.0 ad.atdmt.com
 0.0.0.0 adecn-w.atdmt.com
 0.0.0.0 adn.atdmt.com
@@ -230,6 +231,7 @@
 0.0.0.0 vid.atdmt.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 www.atdmt.com
+#[msn.com]
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.rad.msn.com
@@ -1311,8 +1313,6 @@
 0.0.0.0 lb.us-east-1.applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
 #[adjust]
-0.0.0.0 53ac365e91086e608ae1345e075105e3.ulink.adjust.com
-0.0.0.0 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
 0.0.0.0 app.adjust.com
 0.0.0.0 adjust.com
 0.0.0.0 atom.adjust.com
