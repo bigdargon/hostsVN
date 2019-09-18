@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 18 Sep 2019 14:49 UTC+7
-! Blocked: 5,620 rules
+! Last modified: 18 Sep 2019 14:59 UTC+7
+! Blocked: 5,621 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -410,6 +410,7 @@
 ||aralego.com^
 ||aralego.net^
 ||arsdev.net^
+||arsena*.xyz^
 ||askingpoint.com^
 ||assets.adobedtm.com^
 ||assoc-amazon.com^
