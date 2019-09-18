@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 16 Sep 2019 15:19 UTC+7
-! Blocked: 5,608 rules
+! Last modified: 18 Sep 2019 14:49 UTC+7
+! Blocked: 5,620 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -360,6 +360,9 @@
 ||aerserv.com^
 ||affise.com^
 ||agentanalytics.com^
+||aj1*.online^
+||ajgc1*.online^
+||ajx*.online^
 ||akaads*.starwave.com^
 ||alcmpn.com^
 ||alexametrics.com^
@@ -370,6 +373,7 @@
 ||ambimob.com^
 ||amplitude.com^
 ||amung.us^
+||an*adserv.online^
 ||an.facebook.com^
 ||analy.qq.com^
 ||analytics.go.com^
@@ -405,6 +409,7 @@
 ||apxadtracking.net^
 ||aralego.com^
 ||aralego.net^
+||arsdev.net^
 ||askingpoint.com^
 ||assets.adobedtm.com^
 ||assoc-amazon.com^
@@ -427,6 +432,7 @@
 ||bidswitch.net^
 ||bigclicker.me^
 ||bizible.com^
+||bj1*.online^
 ||blueseed.tv^
 ||blueserving.com^
 ||bnmla.com^
@@ -452,6 +458,7 @@
 ||chitika.com^
 ||cint.com^
 ||cintnetworks.com^
+||cj1*.online^
 ||clean.gg^
 ||clevertap.com^
 ||clickagy.com^
@@ -490,6 +497,7 @@
 ||device-metrics-*.amazon.com^
 ||dfnb-ads.com^
 ||displayads-formats.googleusercontent.com^
+||dj1*.online^
 ||dm-event.net^
 ||dotomi.com^
 ||doubleclick.net^
@@ -502,6 +510,7 @@
 ||e.qq.com^
 ||eclick.baidu.com^
 ||effectivemeasure.net^
+||ej1*.online^
 ||ematicsolutions.com^
 ||engageya.com^
 ||epom.com^
@@ -536,6 +545,7 @@
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
+||goraps.com^
 ||graph.instagram.com^
 ||gsp1.baidu.com^
 ||gssprt.jp^
@@ -643,6 +653,8 @@
 ||mparticle.com^
 ||mxpnl.com^
 ||mydas.mobi^
+||n*adserv.com^
+||n*adserv.xyz^
 ||ncaudienceexchange.com^
 ||nend.net^
 ||netcoresmartech.com^
@@ -879,8 +891,6 @@
 ||absurdwater.com^
 ||abz.com^
 ||ac.rnm.ca^
-||accelerator.arsdev.net^
-||accounts.pkr.com.invalid^
 ||acento.com^
 ||acidityfoamy.com^
 ||acridtwist.com^
@@ -1983,7 +1993,6 @@
 ||argyresthia.com^
 ||arkonziv.com^
 ||aromamirror.com^
-||arsdev.net^
 ||as.webmd.com^
 ||as1.advfn.com^
 ||as2.advfn.com^
@@ -2216,7 +2225,6 @@
 ||brandreachsys.com^
 ||branovate.com^
 ||brassrule.com^
-||bravenet.com.invalid^
 ||brickandmobile.com^
 ||bridgetrack.com^
 ||brightinfo.com^
@@ -2281,7 +2289,7 @@
 ||cben1.net^
 ||cbmall.com^
 ||cbx.net^
-||cdn.accelerator.arsdev.net^
+||cdn-server.top^
 ||cdn.bidadx.com^
 ||cdn.concert.io^
 ||cdn.digitru.st^
@@ -3255,7 +3263,6 @@
 ||mindmemobile.com^
 ||minormeeting.com^
 ||mintrace.com^
-||misc.arsdev.net^
 ||misstrends.com^
 ||miva.com^
 ||mixedreading.com^
@@ -3343,6 +3350,7 @@
 ||naj.sk^
 ||namimedia.com^
 ||nastydollars.com^
+||nativeadv.online^
 ||nativeroll.tv^
 ||navigator.io^
 ||navrcholu.cz^
@@ -3443,6 +3451,7 @@
 ||onlinecash.com^
 ||onlinecashmethod.com^
 ||onlinerewardcenter.com^
+||onlyadshere.info^
 ||onmobile.com^
 ||open.oneplus.net^
 ||openad.tf1.fr^
@@ -3830,7 +3839,6 @@
 ||secure.webconnect.net^
 ||sedoparking.com^
 ||sedotracker.com^
-||seeq.com.invalid^
 ||selectionsugar.com^
 ||selectivesummer.com^
 ||self-service.uberads.com^
@@ -4042,6 +4050,7 @@
 ||stupendoussleet.com^
 ||suavalds.com^
 ||subscribe.hearstmags.com^
+||subscribers.click^
 ||succeedscene.com^
 ||suddensidewalk.com^
 ||sugarcurtain.com^
@@ -5004,6 +5013,7 @@
 ||gouddc.com^
 ||gqwhyjh.com^
 ||grabify.link^
+||greedseed.world^
 ||grk6mgehel1hfehn.ru^
 ||gs.dailymail.co.uk^
 ||gsimon.edu.free.fr^
@@ -5283,6 +5293,7 @@
 ||placehold.it^
 ||play.leadzutw.com^
 ||playtomic.com^
+||plrxserv.com^
 ||pornstar-candysue.de^
 ||power.bestconstructionexpertwitness.com^
 ||pozdrav-im.ru^
@@ -5611,3 +5622,4 @@
 ||securedashfuyiersa.com^
 ||view-apple.com^
 ||view-appleid.com^
+||zhangtom1989.cn^
