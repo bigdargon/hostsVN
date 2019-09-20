@@ -1,11 +1,17 @@
 #!/bin/sh
 
+echo "Filtering data..."
+# filtering cloudfront form AdGuardSDNSFilter
+curl -s https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt | cat | grep -v '!' | grep "cloudfront.net" | sed 's/||//' | sed 's/\^//' | awk '{print "0.0.0.0 "$1}' > tmp/adguard.tmp
+cat tmp/title-cloudfront.txt tmp/adguard.tmp > tmp/cloudfront-hosts.tmp
+cat tmp/cloudfront-hosts.tmp | grep -v '#' | grep "0.0.0.0" | awk '{print $2}' >> tmp/cloudfront-rule.tmp
+
 echo "Making titles..."
 # make time stamp & count blocked
 TIME_STAMP=`date +'%d %b %Y %H:%M'`
-DOMAIN=$(printf "%'.f\n" $(cat source/list-hosts-group.txt source/list-hosts-group-VN.txt source/list-hosts-VN.txt source/list-hosts.txt | grep "0.0.0.0" | wc -l))
+DOMAIN=$(printf "%'.f\n" $(cat source/list-hosts-group.txt source/list-hosts-group-VN.txt source/list-hosts-VN.txt source/list-hosts.txt tmp/cloudfront-hosts.tmp | grep "0.0.0.0" | wc -l))
 DOMAIN_VN=$(printf "%'.f\n" $(cat source/list-hosts-group-VN.txt source/list-hosts-VN.txt | grep "0.0.0.0" | wc -l))
-RULE=$(printf "%'.f\n" $(cat source/list-adservers.txt source/list-adservers-all.txt | grep -v '!' | wc -l))
+RULE=$(printf "%'.f\n" $(cat source/list-adservers.txt source/list-adservers-all.txt tmp/cloudfront-rule.tmp | grep -v '!' | wc -l))
 RULE_VN=$(printf "%'.f\n" $(cat source/list-adservers.txt | grep -v '!' | wc -l))
 
 # update titles
@@ -17,7 +23,7 @@ sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_domain_vn_/$DOMAIN_VN/g" tmp/title-
 
 echo "Creating hosts file..."
 # create hosts files
-cat tmp/title-hosts.tmp source/list-hosts-group.txt source/list-hosts-group-VN.txt source/list-hosts-VN.txt source/list-hosts.txt > hosts
+cat tmp/title-hosts.tmp source/list-hosts-group.txt source/list-hosts-group-VN.txt source/list-hosts-VN.txt source/list-hosts.txt tmp/cloudfront-hosts.tmp > hosts
 cat tmp/title-hosts-VN.tmp source/list-hosts-group-VN.txt source/list-hosts-VN.txt > option/hosts-VN
 
 # create hosts-iOS file
@@ -31,7 +37,7 @@ mv tmp/domain.txt option/
 echo "Creating temp file..."
 # create adserver files
 cat source/list-adservers.txt | grep -v '!' | awk '{print $1}' >> tmp/list-adservers.tmp
-cat source/list-adservers-all.txt | grep -v '!' | awk '{print $1}' >> tmp/list-adservers-all.tmp
+cat source/list-adservers-all.txt tmp/cloudfront-rule.tmp | grep -v '!' |awk '{print $1}' >> tmp/list-adservers-all.tmp
 
 # create rule & config files
 cat tmp/list-adservers.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-rule.tmp
