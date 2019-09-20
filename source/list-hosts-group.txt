@@ -4769,27 +4769,6 @@
 0.0.0.0 tw.aip.insightexpressai.com
 0.0.0.0 www.insightexpressai.com
 0.0.0.0 your-surveys.insightexpressai.com
-#[daum]
-0.0.0.0 ad.daum.net
-0.0.0.0 alea.adam.ad.daum.net
-0.0.0.0 alea.adam.daum.net
-0.0.0.0 analytics.ad.daum.net
-0.0.0.0 display.ad.daum.net
-0.0.0.0 get.daum.net
-0.0.0.0 live.tvpot.daum.net
-0.0.0.0 m.adtc.daum.net
-0.0.0.0 mobile.biz.daum.net
-0.0.0.0 potplayertv.daum.net
-0.0.0.0 statistics.videofarm.daum.net
-0.0.0.0 track.tiara.daum.net
-0.0.0.0 tracker.mobile.biz.daum.net
-0.0.0.0 adimg.daumcdn.net
-0.0.0.0 daumcdn.net
-0.0.0.0 keyword.daumdn.com
-0.0.0.0 m1.daumcdn.net
-0.0.0.0 t1.daumcdn.net
-0.0.0.0 amsimg.daum-img.net
-0.0.0.0 put.qostore.daumkakao.io
 #[steepto]
 0.0.0.0 a.steepto.com
 0.0.0.0 cdn.steepto.com
@@ -11880,3 +11859,56 @@
 0.0.0.0 arsdev.net
 0.0.0.0 cdn.accelerator.arsdev.net
 0.0.0.0 misc.arsdev.net
+#[ad.plus]
+0.0.0.0 ad.plus
+0.0.0.0 cdn.ad.plus
+0.0.0.0 dashboard.ad.plus
+0.0.0.0 reports.ad.plus
+0.0.0.0 video.ad.plus
+0.0.0.0 www.ad.plus
+#[asianmedia.com]
+0.0.0.0 articles.asianmedia.com
+0.0.0.0 asianmedia.com
+0.0.0.0 cpanel.asianmedia.com
+0.0.0.0 lb.asianmedia.com
+0.0.0.0 server.asianmedia.com
+0.0.0.0 share.asianmedia.com
+0.0.0.0 webdisk.asianmedia.com
+0.0.0.0 webmail.asianmedia.com
+0.0.0.0 whm.asianmedia.com
+0.0.0.0 www.asianmedia.com
+#[scorecardresearch.com]
+0.0.0.0 a.scorecardresearch.com
+0.0.0.0 ads.scorecardresearch.com
+0.0.0.0 api.scorecardresearch.com
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 beacon.scorecardresearch.com
+0.0.0.0 c.scorecardresearch.com
+0.0.0.0 d.scorecardresearch.com
+0.0.0.0 sa.scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 seb.scorecardresearch.com
+0.0.0.0 udm.scorecardresearch.com
+0.0.0.0 www.scorecardresearch.com
+#[ad.daum.net]
+0.0.0.0 ad.daum.net
+0.0.0.0 alea.adam.ad.daum.net
+0.0.0.0 analytics.ad.daum.net
+0.0.0.0 analytics2.ad.daum.net
+0.0.0.0 bc.ad.daum.net
+0.0.0.0 cts.ad.daum.net
+0.0.0.0 cts.keyword.ad.daum.net
+0.0.0.0 display.ad.daum.net
+0.0.0.0 info.ad.daum.net
+0.0.0.0 ka.display.ad.daum.net
+0.0.0.0 kb.display.ad.daum.net
+0.0.0.0 keyword.ad.daum.net
+0.0.0.0 kyson.ad.daum.net
+0.0.0.0 preview.ad.daum.net
+0.0.0.0 st.display.ad.daum.net
+0.0.0.0 stmp.ad.daum.net
+0.0.0.0 tessera.ad.daum.net
+0.0.0.0 vads-api.ad.daum.net
+0.0.0.0 wat.ad.daum.net
+0.0.0.0 webid.ad.daum.net

@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 20 Sep 2019 15:08 UTC+7
-# Blocked: 17,705 domains
+# Last modified: 20 Sep 2019 16:23 UTC+7
+# Blocked: 17,736 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -4608,26 +4608,6 @@
 0 tw.aip.insightexpressai.com
 0 www.insightexpressai.com
 0 your-surveys.insightexpressai.com
-0 ad.daum.net
-0 alea.adam.ad.daum.net
-0 alea.adam.daum.net
-0 analytics.ad.daum.net
-0 display.ad.daum.net
-0 get.daum.net
-0 live.tvpot.daum.net
-0 m.adtc.daum.net
-0 mobile.biz.daum.net
-0 potplayertv.daum.net
-0 statistics.videofarm.daum.net
-0 track.tiara.daum.net
-0 tracker.mobile.biz.daum.net
-0 adimg.daumcdn.net
-0 daumcdn.net
-0 keyword.daumdn.com
-0 m1.daumcdn.net
-0 t1.daumcdn.net
-0 amsimg.daum-img.net
-0 put.qostore.daumkakao.io
 0 a.steepto.com
 0 cdn.steepto.com
 0 cm.steepto.com
@@ -11456,6 +11436,55 @@
 0 arsdev.net
 0 cdn.accelerator.arsdev.net
 0 misc.arsdev.net
+0 ad.plus
+0 cdn.ad.plus
+0 dashboard.ad.plus
+0 reports.ad.plus
+0 video.ad.plus
+0 www.ad.plus
+0 articles.asianmedia.com
+0 asianmedia.com
+0 cpanel.asianmedia.com
+0 lb.asianmedia.com
+0 server.asianmedia.com
+0 share.asianmedia.com
+0 webdisk.asianmedia.com
+0 webmail.asianmedia.com
+0 whm.asianmedia.com
+0 www.asianmedia.com
+0 a.scorecardresearch.com
+0 ads.scorecardresearch.com
+0 api.scorecardresearch.com
+0 b.scorecardresearch.com
+0 beacon.scorecardresearch.com
+0 c.scorecardresearch.com
+0 d.scorecardresearch.com
+0 sa.scorecardresearch.com
+0 sb.scorecardresearch.com
+0 scorecardresearch.com
+0 seb.scorecardresearch.com
+0 udm.scorecardresearch.com
+0 www.scorecardresearch.com
+0 ad.daum.net
+0 alea.adam.ad.daum.net
+0 analytics.ad.daum.net
+0 analytics2.ad.daum.net
+0 bc.ad.daum.net
+0 cts.ad.daum.net
+0 cts.keyword.ad.daum.net
+0 display.ad.daum.net
+0 info.ad.daum.net
+0 ka.display.ad.daum.net
+0 kb.display.ad.daum.net
+0 keyword.ad.daum.net
+0 kyson.ad.daum.net
+0 preview.ad.daum.net
+0 st.display.ad.daum.net
+0 stmp.ad.daum.net
+0 tessera.ad.daum.net
+0 vads-api.ad.daum.net
+0 wat.ad.daum.net
+0 webid.ad.daum.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14260,6 +14289,7 @@
 0 defectivesun.com
 0 delegatediscussion.com
 0 delightdriving.com
+0 deliver.vkcdnservice.com
 0 deloo.de
 0 deloplen.com
 0 deloton.com
@@ -15532,7 +15562,6 @@
 0 scintillatingscissors.com
 0 scintillatingspace.com
 0 scopelight.com
-0 scorecardresearch.com
 0 scratch2cash.com
 0 screechingfurniture.com
 0 script.crazyegg.com
@@ -16459,7 +16488,6 @@
 0 azteou.com
 0 b.l-a-c.cn
 0 b.nt002.cn
-0 b.scorecardresearch.com
 0 baby.py.shangdu.com
 0 badaonz.com
 0 bafuhotel.com
@@ -16681,6 +16709,7 @@
 0 ecdlszczecin.eu
 0 edchiu.com
 0 edge.bayanazdirandamla.com
+0 edigitalsurvey.com
 0 elite-bijou.com.ua
 0 embed.tawk.to
 0 english.ahzh-pv.com
@@ -16785,6 +16814,7 @@
 0 h148.cn
 0 haihuang-audio.com
 0 hairtease.com
+0 halo.smamuhh1metro.com
 0 hao1680.com
 0 hdrhsy.cn
 0 hdxxpp.com
@@ -16820,6 +16850,7 @@
 0 hyl-zh.lentor.net
 0 hzm6.com
 0 i-mar.com
+0 i.shannon-fisher.xyz
 0 iaudienc.com
 0 ie8eamus.com
 0 iebar.t2t2.com
@@ -17106,7 +17137,6 @@
 0 sarahcraig.org
 0 saspreview.com
 0 savingnegociacoes.com.br
-0 sb.scorecardresearch.com
 0 schibsted.com
 0 schibsted.io
 0 school-bgd.ru
@@ -17160,6 +17190,7 @@
 0 stats.unlimapps.com
 0 stats.wp.com
 0 stats.zotabox.com
+0 statsforads.com
 0 stoneb.cn
 0 subeihm.com
 0 sukhshantisales.com

@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 20 Sep 2019 15:08 UTC+7
-! Blocked: 5,930 rules
+! Last modified: 20 Sep 2019 16:23 UTC+7
+! Blocked: 5,935 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -254,6 +254,7 @@
 ||sun.win^
 ||v9bet.com^
 ||xmobliefacebook.com^
+||scorecardresearch.com^
 ||1rx.io^
 ||2mdn.net^
 ||2mdnsys.com^
@@ -270,9 +271,11 @@
 ||ad-brix.com^
 ||ad-stir.com^
 ||ad.*.starwave.com^
+||ad.daum.net^
 ||ad.download.cnet.com^
 ||ad.go.com^
 ||ad.gt^
+||ad.plus^
 ||ad.youtube.com^
 ||ad4screen.com^
 ||adadvisor.net^
@@ -417,6 +420,7 @@
 ||aralego.net^
 ||arsdev.net^
 ||arsena*.xyz^
+||asianmedia.com^
 ||askingpoint.com^
 ||assets.adobedtm.com^
 ||assoc-amazon.com^
@@ -498,7 +502,6 @@
 ||cxense.com^
 ||dable.io^
 ||data.alexa.com^
-||daum.net^
 ||demdex.net^
 ||deployads.com^
 ||device-metrics-*.amazon.com^
@@ -2557,6 +2560,7 @@
 ||defectivesun.com^
 ||delegatediscussion.com^
 ||delightdriving.com^
+||deliver.vkcdnservice.com^
 ||deloo.de^
 ||deloplen.com^
 ||deloton.com^
@@ -3832,7 +3836,6 @@
 ||scintillatingscissors.com^
 ||scintillatingspace.com^
 ||scopelight.com^
-||scorecardresearch.com^
 ||scratch2cash.com^
 ||screechingfurniture.com^
 ||script.crazyegg.com^
@@ -4710,7 +4713,6 @@
 ||azteou.com^
 ||b.l-a-c.cn^
 ||b.nt002.cn^
-||b.scorecardresearch.com^
 ||baby.py.shangdu.com^
 ||badaonz.com^
 ||bafuhotel.com^
@@ -4933,6 +4935,7 @@
 ||ecdlszczecin.eu^
 ||edchiu.com^
 ||edge.bayanazdirandamla.com^
+||edigitalsurvey.com^
 ||elisaart.it^
 ||elite-bijou.com.ua^
 ||embed.tawk.to^
@@ -5038,6 +5041,7 @@
 ||h148.cn^
 ||haihuang-audio.com^
 ||hairtease.com^
+||halo.smamuhh1metro.com^
 ||hao1680.com^
 ||hdrhsy.cn^
 ||hdxxpp.com^
@@ -5074,6 +5078,7 @@
 ||hyl-zh.lentor.net^
 ||hzm6.com^
 ||i-mar.com^
+||i.shannon-fisher.xyz^
 ||iaudienc.com^
 ||ie8eamus.com^
 ||iebar.t2t2.com^
@@ -5366,7 +5371,6 @@
 ||sarahcraig.org^
 ||saspreview.com^
 ||savingnegociacoes.com.br^
-||sb.scorecardresearch.com^
 ||schibsted.com^
 ||schibsted.io^
 ||school-bgd.ru^
@@ -5421,6 +5425,7 @@
 ||stats.unlimapps.com^
 ||stats.wp.com^
 ||stats.zotabox.com^
+||statsforads.com^
 ||stkjw.net^
 ||stoneb.cn^
 ||subeihm.com^
