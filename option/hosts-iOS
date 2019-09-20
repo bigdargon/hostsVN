@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 20 Sep 2019 14:40 UTC+7
-# Blocked: 17,694 domains
+# Last modified: 20 Sep 2019 15:08 UTC+7
+# Blocked: 17,705 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -3701,10 +3701,6 @@
 0 www.innity.net
 0 www.media.innity.net
 0 www.vcdn.media.innity.net
-0 bidgear.com
-0 stats.bidgear.com
-0 platform.bidgear.com
-0 vn-platform.bidgear.com
 0 woopra.com
 0 app.woopra.com
 0 cdn-origin.woopra.com
@@ -12255,6 +12251,21 @@
 0 dsp.mediaz.asia
 0 guide.mediad.asia
 0 www.mediad.asia
+0 astats.bidgear.com
+0 bidgear.com
+0 dsp.bidgear.com
+0 hb.bidgear.com
+0 hb-ad.bidgear.com
+0 hb-imp.bidgear.com
+0 media.bidgear.com
+0 optimize-dsp.bidgear.com
+0 platform.bidgear.com
+0 rtb.bidgear.com
+0 stats.bidgear.com
+0 vn-platform.bidgear.com
+0 www.bidgear.com
+0 zabbix.bidgear.com
+0 bidgear-syndication.com
 0 123c.vn
 0 ad-hcm.24hstatic.com
 0 ad-hn.24hstatic.com

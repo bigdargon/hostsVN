@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 20 Sep 2019 14:40 UTC+7
-# Blocked: 17,694 domains
+# Last modified: 20 Sep 2019 15:08 UTC+7
+# Blocked: 17,705 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -3820,11 +3820,6 @@
 0.0.0.0 www.innity.net
 0.0.0.0 www.media.innity.net
 0.0.0.0 www.vcdn.media.innity.net
-#[bidgear]
-0.0.0.0 bidgear.com
-0.0.0.0 stats.bidgear.com
-0.0.0.0 platform.bidgear.com
-0.0.0.0 vn-platform.bidgear.com
 #[woopra]
 0.0.0.0 woopra.com
 0.0.0.0 app.woopra.com
@@ -12737,6 +12732,22 @@
 0.0.0.0 dsp.mediaz.asia
 0.0.0.0 guide.mediad.asia
 0.0.0.0 www.mediad.asia
+#[bidgear]
+0.0.0.0 astats.bidgear.com
+0.0.0.0 bidgear.com
+0.0.0.0 dsp.bidgear.com
+0.0.0.0 hb.bidgear.com
+0.0.0.0 hb-ad.bidgear.com
+0.0.0.0 hb-imp.bidgear.com
+0.0.0.0 media.bidgear.com
+0.0.0.0 optimize-dsp.bidgear.com
+0.0.0.0 platform.bidgear.com
+0.0.0.0 rtb.bidgear.com
+0.0.0.0 stats.bidgear.com
+0.0.0.0 vn-platform.bidgear.com
+0.0.0.0 www.bidgear.com
+0.0.0.0 zabbix.bidgear.com
+0.0.0.0 bidgear-syndication.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn

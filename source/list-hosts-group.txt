@@ -3809,11 +3809,6 @@
 0.0.0.0 www.innity.net
 0.0.0.0 www.media.innity.net
 0.0.0.0 www.vcdn.media.innity.net
-#[bidgear]
-0.0.0.0 bidgear.com
-0.0.0.0 stats.bidgear.com
-0.0.0.0 platform.bidgear.com
-0.0.0.0 vn-platform.bidgear.com
 #[woopra]
 0.0.0.0 woopra.com
 0.0.0.0 app.woopra.com
