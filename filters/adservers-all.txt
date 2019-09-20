@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 18 Sep 2019 14:59 UTC+7
-! Blocked: 5,621 rules
+! Last modified: 20 Sep 2019 10:10 UTC+7
+! Blocked: 5,627 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -52,6 +52,10 @@
 ||log.zingmp3.vn^
 ||mangoads.vn^
 ||masoffer.net^
+||mediad.asia^
+||mediaz.asia^
+||mediaz.vn^
+||mediazcorp.com^
 ||metrics.coccoc.com^
 ||novanet.vn^
 ||novaon.asia^
@@ -426,6 +430,7 @@
 ||batmobi.net^
 ||bazaarvoice.com^
 ||beacon.qq.com^
+||beap*.yahoo.com^
 ||bebi.com^
 ||betrad.com^
 ||bfmio.com^
@@ -815,6 +820,7 @@
 ||xlog*.byteoversea.com^
 ||xlog.tiktokv.com^
 ||xslt.alexa.com^
+||yap.yahoo.com^
 ||yllix.com^
 ||zcoup.com^
 ||zergnet.com^

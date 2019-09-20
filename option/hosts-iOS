@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 18 Sep 2019 14:59 UTC+7
-# Blocked: 17,343 domains
+# Last modified: 20 Sep 2019 10:10 UTC+7
+# Blocked: 17,392 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -539,6 +539,7 @@
 0 launch.adserver.yahoo.com
 0 log.fc.yahoo.com
 0 m.adserver.yahoo.com
+0 m.yap.yahoo.com
 0 marketingsolutions.yahoo.com
 0 mobile.analytics.yahoo.com
 0 mx.adserver.yahoo.com
@@ -12206,6 +12207,54 @@
 0 app.ohchat.net
 0 hostmaster.ohchat.net
 0 www.ohchat.net
+0 adwords.mediaz.vn
+0 blog.mediaz.vn
+0 book.mediaz.vn
+0 booking.mediaz.vn
+0 brief.mediaz.vn
+0 creative.mediaz.vn
+0 dnsbak.mediaz.vn
+0 erp.mediaz.vn
+0 facebook-ads.mediaz.vn
+0 go.mediaz.vn
+0 hotro.mediaz.vn
+0 imc.mediaz.vn
+0 insight.mediaz.vn
+0 landing.mediaz.vn
+0 landingpage1.mediaz.vn
+0 mediaz.vn
+0 ns1.mediaz.vn
+0 ns2.mediaz.vn
+0 ns3.mediaz.vn
+0 ns4.mediaz.vn
+0 nsbak.mediaz.vn
+0 offer.mediaz.vn
+0 pricing.mediaz.vn
+0 proof.mediaz.vn
+0 report.mediaz.vn
+0 send.mediaz.vn
+0 seo.mediaz.vn
+0 thietkeweb.mediaz.vn
+0 tlk.mediaz.vn
+0 tuyendung.mediaz.vn
+0 viral.mediaz.vn
+0 wallet.mediaz.vn
+0 website.mediaz.vn
+0 www.mediaz.vn
+0 zalo-ads.mediaz.vn
+0 mediazcorp.com
+0 www.mediazcorp.com
+0 mediaz.asia
+0 js.mediaz.asia
+0 static.mediaz.asia
+0 www.mediaz.asia
+0 mediad.asia
+0 adx.mediaz.asia
+0 blog.mediad.asia
+0 brief.mediad.asia
+0 dsp.mediaz.asia
+0 guide.mediad.asia
+0 www.mediad.asia
 0 123c.vn
 0 ad-hcm.24hstatic.com
 0 ad-hn.24hstatic.com

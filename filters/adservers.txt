@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 18 Sep 2019 14:59 UTC+7
-! Blocked: 245 rules
+! Last modified: 20 Sep 2019 10:10 UTC+7
+! Blocked: 249 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -52,6 +52,10 @@
 ||log.zingmp3.vn^
 ||mangoads.vn^
 ||masoffer.net^
+||mediad.asia^
+||mediaz.asia^
+||mediaz.vn^
+||mediazcorp.com^
 ||metrics.coccoc.com^
 ||novanet.vn^
 ||novaon.asia^
