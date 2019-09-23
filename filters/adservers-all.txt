@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 20 Sep 2019 16:23 UTC+7
-! Blocked: 5,935 rules
+! Last modified: 23 Sep 2019 14:38 UTC+7
+! Blocked: 5,958 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -221,6 +221,7 @@
 ||11bet.com^
 ||11bet.net^
 ||1xbetvn.com^
+||88viet.com^
 ||8live.com^
 ||ae888.com^
 ||betvietnam.info^
@@ -230,7 +231,6 @@
 ||fabet.com^
 ||fb88.com^
 ||five88.com^
-||fuckbookvietnam.com^
 ||gdwbetvn888.com^
 ||gdwviet.com^
 ||income88.com^
@@ -249,12 +249,17 @@
 ||one88.com^
 ||one88.fun^
 ||one88.us^
-||quangcaotructuyen247.com^
-||sukientraogiaizalo.com^
 ||sun.win^
 ||v9bet.com^
+||vn88.bet^
+||vn88.casino^
+||vn88.club^
+||vn88.com^
+||websvn.info^
+||fuckbookvietnam.com^
+||quangcaotructuyen247.com^
+||sukientraogiaizalo.com^
 ||xmobliefacebook.com^
-||scorecardresearch.com^
 ||1rx.io^
 ||2mdn.net^
 ||2mdnsys.com^
@@ -384,6 +389,7 @@
 ||amung.us^
 ||an*adserv.online^
 ||an.facebook.com^
+||an.yandex.ru^
 ||analy.qq.com^
 ||analytics.go.com^
 ||analytics.google.com^
@@ -426,6 +432,8 @@
 ||assoc-amazon.com^
 ||atdmt.com^
 ||avazutracking.net^
+||awaps.yandex.ru^
+||awsync.yandex.ru^
 ||ayads.co^
 ||b2c.com^
 ||backtrace.io^
@@ -452,6 +460,7 @@
 ||braze.com^
 ||breaktime-inc.com^
 ||breaktime.com.tw^
+||bs.yandex.ru^
 ||btrace.video.qq.com^
 ||bttrack.com^
 ||bugly.qq.com^
@@ -475,6 +484,7 @@
 ||clickagy.com^
 ||clickhubs.com^
 ||clickintext.net^
+||client-event-reporter.twitch.tv^
 ||clientmetrics-pa.googleapis.com^
 ||clksite.com^
 ||clog.go.com^
@@ -491,11 +501,13 @@
 ||content.ad^
 ||contextweb.com^
 ||conversantmedia.com^
+||countess.twitch.tv^
 ||cpro.baidu.com^
 ||crashlytics.com^
 ||creative.ak.facebook.com^
 ||creative.ak.fbcdn.net^
 ||creativecdn.com^
+||criteo.com^
 ||criteo.net^
 ||crwdcntrl.net^
 ||customad.cnn.com^
@@ -526,6 +538,7 @@
 ||epom.com^
 ||ettoday.net^
 ||evidon.com^
+||exdynsrv.com^
 ||exosrv.com^
 ||exponential.com^
 ||fabric.io^
@@ -577,12 +590,14 @@
 ||imrworldwide.com^
 ||indexww.com^
 ||infolinks.com^
+||informer.yandex.ru^
 ||inmobi.cn^
 ||inmobi.com^
 ||inner-active.mobi^
 ||innity.com^
 ||innity.net^
 ||insightexpressai.com^
+||instapage.com^
 ||instartlogic.com^
 ||ioam.de^
 ||ionicframework.com^
@@ -630,6 +645,7 @@
 ||marfeelrev.com^
 ||marinsm.com^
 ||mathtag.com^
+||mc.yandex.ru^
 ||mdotm.com^
 ||measuread.com^
 ||media.net^
@@ -672,6 +688,7 @@
 ||newrelic.com^
 ||newsinc.com^
 ||nexage.com^
+||nextsmarty.com^
 ||ngads.go.com^
 ||nixozz.com^
 ||ns1p.net^
@@ -735,9 +752,13 @@
 ||rfihub.com^
 ||rtbid.me^
 ||rubiconproject.com^
+||run-syndicate.com^
+||runative.com^
 ||samba.tv^
 ||scanscout.com^
+||scorecardresearch.com^
 ||segment.com^
+||segment.io^
 ||servebom.com^
 ||servedby-buysellads.com^
 ||servedbyopenx.com^
@@ -754,9 +775,11 @@
 ||smartadserver.com^
 ||smetrics.cnn.com^
 ||snssdk.com^
+||socdm.com^
 ||sociaplus.com^
 ||sonar-iad.xx.fbcdn.net^
 ||sonobi.com^
+||spade.twitch.tv^
 ||specificclick.net^
 ||specificmedia.com^
 ||speee-ad.akamaized.net^
@@ -824,8 +847,10 @@
 ||xlog*.byteoversea.com^
 ||xlog.tiktokv.com^
 ||xslt.alexa.com^
+||yadro.ru^
 ||yap.yahoo.com^
 ||yllix.com^
+||youbora.com^
 ||zcoup.com^
 ||zergnet.com^
 ||zucks.net^
@@ -1029,7 +1054,6 @@
 ||ad.wsod.com^
 ||ad.wz.cz^
 ||ad.xrea.com^
-||ad.yadro.ru^
 ||ad.yourmedia.com^
 ||ad.zanox.com^
 ||ad0.bigmir.net^
@@ -1753,6 +1777,7 @@
 ||adsfac.eu^
 ||adsfac.net^
 ||adsfac.us^
+||adshark.site^
 ||adshost1.com^
 ||adshost2.com^
 ||adside.com^
@@ -2310,7 +2335,6 @@
 ||cdn.onesignal.com^
 ||cdn.pubexchange.com^
 ||cdn.ravenjs.com^
-||cdn.run-syndicate.com^
 ||cdn.spotscenered.info^
 ||cdn2.pubexchange.com^
 ||cdnondemand.org^
@@ -2482,7 +2506,6 @@
 ||counter.search.bg^
 ||counter.snackly.co^
 ||counter.sparklit.com^
-||counter.yadro.ru^
 ||counters.honesty.com^
 ||counting.kmindex.ru^
 ||counts.tucows.com^
@@ -2515,7 +2538,6 @@
 ||crispads.com^
 ||crispmedia.com^
 ||crispwireless.com^
-||criteo.com^
 ||critictruck.com^
 ||croissed.info^
 ||crowdgravity.com^
@@ -2761,6 +2783,7 @@
 ||findepended.com^
 ||findyourcasino.com^
 ||fineclicks.com^
+||fingahvf.top^
 ||first.nova.cz^
 ||firstlightera.com^
 ||fl.adpxl.co^
@@ -3084,6 +3107,7 @@
 ||knifeoctopus.com^
 ||kniverto.com^
 ||knorex.com^
+||koindut.com^
 ||koinser.in^
 ||komoona.com^
 ||kompasads.com^
@@ -3813,7 +3837,6 @@
 ||ru-traffic.com^
 ||ru4.com^
 ||rulerabbit.com^
-||run-syndicate.com^
 ||runads.com^
 ||rundsp.com^
 ||ruthlessrobin.com^
@@ -4474,7 +4497,6 @@
 ||xy7elite.com^
 ||y.ibsys.com^
 ||yabuka.com^
-||yadro.ru^
 ||ybrantdigital.com^
 ||ydworld.com^
 ||yesads.com^
@@ -5218,6 +5240,7 @@
 ||media-match.com^
 ||mediaforce.grapeshot.co.uk^
 ||mefa.ws^
+||metricfast.com^
 ||metrics.brightcove.com^
 ||metrics.cloudflarebolt.com^
 ||metrics.sdkbox.com^

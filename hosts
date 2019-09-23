@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 20 Sep 2019 16:23 UTC+7
-# Blocked: 17,736 domains
+# Last modified: 23 Sep 2019 14:38 UTC+7
+# Blocked: 17,950 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -3173,7 +3173,7 @@
 0.0.0.0 tps31.doubleverify.com
 0.0.0.0 tracker.cdn-us-doubleverify.com
 0.0.0.0 yt.srs.doubleverify.com
-#[criteo]
+#[criteo.net]
 0.0.0.0 azcdn.criteo.net
 0.0.0.0 azcdn-preprod.criteo.net
 0.0.0.0 cn.criteo.net
@@ -3196,6 +3196,43 @@
 0.0.0.0 us.criteo.net
 0.0.0.0 va.us.criteo.net
 0.0.0.0 www.criteo.net
+#[criteo.com]
+0.0.0.0 ads.eu.criteo.com
+0.0.0.0 ads.us.criteo.com
+0.0.0.0 ag.gbc.criteo.com
+0.0.0.0 ailab.criteo.com
+0.0.0.0 api.criteo.com
+0.0.0.0 b.criteo.com
+0.0.0.0 bidder.criteo.com
+0.0.0.0 cas.criteo.com
+0.0.0.0 cat.criteo.com
+0.0.0.0 criteo.com
+0.0.0.0 d.eu.criteo.com
+0.0.0.0 d.us.criteo.com
+0.0.0.0 dev.criteo.com
+0.0.0.0 dis.criteo.com
+0.0.0.0 dynamic.criteo.com
+0.0.0.0 ebs.criteo.com
+0.0.0.0 gem.gbc.criteo.com
+0.0.0.0 go.criteo.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 info.criteo.com
+0.0.0.0 labs.criteo.com
+0.0.0.0 marketing.criteo.com
+0.0.0.0 mug.criteo.com
+0.0.0.0 pubsdk-bin.criteo.com
+0.0.0.0 pub-sdk-cfg.criteo.com
+0.0.0.0 rdi.criteo.com
+0.0.0.0 rtax.criteo.com
+0.0.0.0 sftp.criteo.com
+0.0.0.0 sip.criteo.com
+0.0.0.0 sslwidget.criteo.com
+0.0.0.0 static.criteo.com
+0.0.0.0 staticdemo.criteo.com
+0.0.0.0 studio.criteo.com
+0.0.0.0 webportal.criteo.com
+0.0.0.0 widget.criteo.com
+0.0.0.0 www.criteo.com
 #[skimresources]
 0.0.0.0 assistjs.skimresources.com
 0.0.0.0 cdn.skimresources.com
@@ -8040,8 +8077,12 @@
 0.0.0.0 status.segment.com
 0.0.0.0 synapse.segment.com
 0.0.0.0 vpn.segment.com
-0.0.0.0 www.learn.segment.com
 0.0.0.0 www.segment.com
+#[segment.io]
+0.0.0.0 api.segment.io
+0.0.0.0 cdn.segment.io
+0.0.0.0 segment.io
+0.0.0.0 www.segment.io
 #[askingpoint.com]
 0.0.0.0 askingpoint.com
 0.0.0.0 cs.askingpoint.com
@@ -11923,6 +11964,165 @@
 0.0.0.0 vads-api.ad.daum.net
 0.0.0.0 wat.ad.daum.net
 0.0.0.0 webid.ad.daum.net
+#[nextsmarty.com]
+0.0.0.0 ci.nextsmarty.com
+0.0.0.0 demo.nextsmarty.com
+0.0.0.0 fin1.logging.nextsmarty.com
+0.0.0.0 fin2.logging.nextsmarty.com
+0.0.0.0 glamira.nextsmarty.com
+0.0.0.0 git.nextsmarty.com
+0.0.0.0 jira.nextsmarty.com
+0.0.0.0 logs.nextsmarty.com
+0.0.0.0 minty.nextsmarty.com
+0.0.0.0 monitor.nextsmarty.com
+0.0.0.0 monitor2.nextsmarty.com
+0.0.0.0 nct1.logging.nextsmarty.com
+0.0.0.0 nct2.logging.nextsmarty.com
+0.0.0.0 nextsmarty.com
+0.0.0.0 www.nextsmarty.com
+#[runative.com]
+0.0.0.0 admin.runative.com
+0.0.0.0 api.runative.com
+0.0.0.0 auth.runative.com
+0.0.0.0 pusher.staging.runative.com
+0.0.0.0 rotator.staging.runative.com
+0.0.0.0 runative.com
+0.0.0.0 single.runative.com
+0.0.0.0 staging.runative.com
+0.0.0.0 static.runative.com
+0.0.0.0 support.runative.com
+0.0.0.0 www.runative.com
+0.0.0.0 run-syndicate.com
+0.0.0.0 cdn.run-syndicate.com
+#[yadro.ru]
+0.0.0.0 ad.yadro.ru
+0.0.0.0 adriver.yadro.ru
+0.0.0.0 ads.yadro.ru
+0.0.0.0 aif.yadro.ru
+0.0.0.0 counter.yadro.ru
+0.0.0.0 directa.yadro.ru
+0.0.0.0 essencom.yadro.ru
+0.0.0.0 host.yadro.ru
+0.0.0.0 host1.yadro.ru
+0.0.0.0 knop.yadro.ru
+0.0.0.0 madnet.yadro.ru
+0.0.0.0 medianet.yadro.ru
+0.0.0.0 members.yadro.ru
+0.0.0.0 mg.yadro.ru
+0.0.0.0 opros.yadro.ru
+0.0.0.0 pdocs.yadro.ru
+0.0.0.0 qip.yadro.ru
+0.0.0.0 quad.yadro.ru
+0.0.0.0 slinks.yadro.ru
+0.0.0.0 smidva.yadro.ru
+0.0.0.0 ssl.yadro.ru
+0.0.0.0 sticker.yadro.ru
+0.0.0.0 tvigle.yadro.ru
+0.0.0.0 upstats.yadro.ru
+0.0.0.0 vitpc.yadro.ru
+0.0.0.0 web.yadro.ru
+0.0.0.0 www.yadro.ru
+0.0.0.0 yadro.ru
+#[youbora.com]
+0.0.0.0 abertistelecom.prerelease.youbora.com
+0.0.0.0 clevelreports.youbora.com
+0.0.0.0 events.youbora.com
+0.0.0.0 gzip-smartplugin.youbora.com
+0.0.0.0 infinity-dev.youbora.com
+0.0.0.0 multi1-wdc.youbora.com
+0.0.0.0 multi2-wdc.youbora.com
+0.0.0.0 nicealerts.youbora.com
+0.0.0.0 pc.youbora.com
+0.0.0.0 plugins.youbora.com
+0.0.0.0 pre.smartplugin.youbora.com
+0.0.0.0 qa-smartplugin.youbora.com
+0.0.0.0 rc.youbora.com
+0.0.0.0 reports.youbora.com
+0.0.0.0 smartplugin.youbora.com
+0.0.0.0 smartswitch.youbora.com
+0.0.0.0 smartreports.youbora.com
+0.0.0.0 support.youbora.com
+0.0.0.0 ui-api.youbora.com
+0.0.0.0 vegetapi-rc.youbora.com
+0.0.0.0 www.youbora.com
+0.0.0.0 youbora.com
+#[socdm.com]
+0.0.0.0 abematv.socdm.com
+0.0.0.0 adc.auone.socdm.com
+0.0.0.0 adfuri.socdm.com
+0.0.0.0 adgen.socdm.com
+0.0.0.0 admax.socdm.com
+0.0.0.0 adstir.socdm.com
+0.0.0.0 aol.socdm.com
+0.0.0.0 apc.socdm.com
+0.0.0.0 audr.iida.socdm.com
+0.0.0.0 bid.dr.socdm.com
+0.0.0.0 bid.socdm.com
+0.0.0.0 bid2.dr.socdm.com
+0.0.0.0 bid3.dr.socdm.com
+0.0.0.0 biddr.socdm.com
+0.0.0.0 bitisle1.iida.socdm.com
+0.0.0.0 bitisle2.iida.socdm.com
+0.0.0.0 bitisle3.iida.socdm.com
+0.0.0.0 bitisle4.socdm.com
+0.0.0.0 compass.socdm.com
+0.0.0.0 d.socdm.com
+0.0.0.0 df.socdm.com
+0.0.0.0 dr1.a.socdm.com
+0.0.0.0 dr3.socdm.com
+0.0.0.0 frtn.socdm.com
+0.0.0.0 gdn.socdm.com
+0.0.0.0 gmo.socdm.com
+0.0.0.0 gree.socdm.com
+0.0.0.0 i.pa-1.socdm.com
+0.0.0.0 i.socdm.com
+0.0.0.0 imgcn.socdm.com
+0.0.0.0 imobile.socdm.com
+0.0.0.0 kauli.socdm.com
+0.0.0.0 logly.socdm.com
+0.0.0.0 medibaad.socdm.com
+0.0.0.0 nazs.socdm.com
+0.0.0.0 oo.socdm.com
+0.0.0.0 openx.socdm.com
+0.0.0.0 pa-1.socdm.com
+0.0.0.0 rel.socdm.com
+0.0.0.0 rubicon.socdm.com
+0.0.0.0 rwrd.socdm.com
+0.0.0.0 socdm.com
+0.0.0.0 ssl.socdm.com
+0.0.0.0 suvt.socdm.com
+0.0.0.0 tg.dr.socdm.com
+0.0.0.0 tg.socdm.com
+0.0.0.0 tg.test.socdm.com
+0.0.0.0 tg2.dr.socdm.com
+0.0.0.0 tg3.dr.socdm.com
+0.0.0.0 xrost.socdm.com
+0.0.0.0 yieldone.socdm.com
+#[exdynsrv.com]
+0.0.0.0 a.exdynsrv.com
+0.0.0.0 ads.exdynsrv.com
+0.0.0.0 exdynsrv.com
+0.0.0.0 main.exdynsrv.com
+0.0.0.0 origin-ads.exdynsrv.com
+0.0.0.0 static.exdynsrv.com
+0.0.0.0 syndication.exdynsrv.com
+#[instapage.com]
+0.0.0.0 affiliates.instapage.com
+0.0.0.0 anthill.instapage.com
+0.0.0.0 app.instapage.com
+0.0.0.0 audit-log.instapage.com
+0.0.0.0 badges.instapage.com
+0.0.0.0 bbs.instapage.com
+0.0.0.0 builder-service.instapage.com
+0.0.0.0 domain.instapage.com
+0.0.0.0 go.instapage.com
+0.0.0.0 map.instapage.com
+0.0.0.0 onboarding.instapage.com
+0.0.0.0 page-preview.instapage.com
+0.0.0.0 pages.instapage.com
+0.0.0.0 promo.instapage.com
+0.0.0.0 upstream.instapage.com
+0.0.0.0 www.instapage.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13040,6 +13240,30 @@
 0.0.0.0 tin.11bet.net
 0.0.0.0 1xbetvn.com
 0.0.0.0 nhatvip.net
+0.0.0.0 websvn.info
+0.0.0.0 cdn.websvn.info
+0.0.0.0 demo.websvn.info
+0.0.0.0 trunk.websvn.info
+0.0.0.0 webdisk.websvn.info
+0.0.0.0 www.websvn.info
+0.0.0.0 vn88.com
+0.0.0.0 ad.vn88.com
+0.0.0.0 ads.vn88.com
+0.0.0.0 affiliate.vn88.com
+0.0.0.0 get.vn88.com
+0.0.0.0 img.vn88.com
+0.0.0.0 m.vn88.com
+0.0.0.0 upanh.vn88.com
+0.0.0.0 www.vn88.com
+0.0.0.0 vn88.club
+0.0.0.0 www.vn88.club
+0.0.0.0 vn88.bet
+0.0.0.0 www.vn88.bet
+0.0.0.0 vn88.casino
+0.0.0.0 www.vn88.casino
+0.0.0.0 88viet.com
+0.0.0.0 m.88viet.com
+0.0.0.0 www.88viet.com
 #[scamVN]
 0.0.0.0 fuckbookvietnam.com
 0.0.0.0 www.fuckbookvietnam.com
@@ -13049,6 +13273,8 @@
 0.0.0.0 quangcaotructuyen247.com
 0.0.0.0 www.quangcaotructuyen247.com
 # --- Block other adsVN ---
+0.0.0.0 koindut.com
+0.0.0.0 fingahvf.top
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -13249,7 +13475,6 @@
 0.0.0.0 ad.wsod.com
 0.0.0.0 ad.wz.cz
 0.0.0.0 ad.xrea.com
-0.0.0.0 ad.yadro.ru
 0.0.0.0 ad.yourmedia.com
 0.0.0.0 ad.zanox.com
 0.0.0.0 ad0.bigmir.net
@@ -13972,6 +14197,7 @@
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
+0.0.0.0 adshark.site
 0.0.0.0 adshost1.com
 0.0.0.0 adshost2.com
 0.0.0.0 adside.com
@@ -14530,7 +14756,6 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.pubexchange.com
 0.0.0.0 cdn.ravenjs.com
-0.0.0.0 cdn.run-syndicate.com
 0.0.0.0 cdn.spotscenered.info
 0.0.0.0 cdn2.pubexchange.com
 0.0.0.0 cdnondemand.org
@@ -14702,7 +14927,6 @@
 0.0.0.0 counter.search.bg
 0.0.0.0 counter.snackly.co
 0.0.0.0 counter.sparklit.com
-0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.honesty.com
 0.0.0.0 counting.kmindex.ru
 0.0.0.0 counts.tucows.com
@@ -14735,7 +14959,6 @@
 0.0.0.0 crispads.com
 0.0.0.0 crispmedia.com
 0.0.0.0 crispwireless.com
-0.0.0.0 criteo.com
 0.0.0.0 critictruck.com
 0.0.0.0 croissed.info
 0.0.0.0 crowdgravity.com
@@ -16030,7 +16253,6 @@
 0.0.0.0 ru-traffic.com
 0.0.0.0 ru4.com
 0.0.0.0 rulerabbit.com
-0.0.0.0 run-syndicate.com
 0.0.0.0 runads.com
 0.0.0.0 rundsp.com
 0.0.0.0 ruthlessrobin.com
@@ -16055,6 +16277,7 @@
 0.0.0.0 scopelight.com
 0.0.0.0 scratch2cash.com
 0.0.0.0 screechingfurniture.com
+0.0.0.0 script.adshark.site
 0.0.0.0 script.crazyegg.com
 0.0.0.0 scripte-monster.de
 0.0.0.0 scrubsky.com
@@ -16742,7 +16965,6 @@
 0.0.0.0 xy7elite.com
 0.0.0.0 y.ibsys.com
 0.0.0.0 yabuka.com
-0.0.0.0 yadro.ru
 0.0.0.0 ybrantdigital.com
 0.0.0.0 ydworld.com
 0.0.0.0 yesads.com
@@ -17480,6 +17702,7 @@
 0.0.0.0 media-match.com
 0.0.0.0 mediaforce.grapeshot.co.uk
 0.0.0.0 mefa.ws
+0.0.0.0 metricfast.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cloudflarebolt.com
 0.0.0.0 metrics.sdkbox.com
