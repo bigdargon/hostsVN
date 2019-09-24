@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 23 Sep 2019 14:38 UTC+7
-# Blocked: 17,950 domains
+# Last modified: 24 Sep 2019 13:39 UTC+7
+# Blocked: 17,980 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -12123,6 +12123,38 @@
 0.0.0.0 promo.instapage.com
 0.0.0.0 upstream.instapage.com
 0.0.0.0 www.instapage.com
+#[adsymptotic.com]
+0.0.0.0 ads.adsymptotic.com
+0.0.0.0 adsapi.adsymptotic.com
+0.0.0.0 adsymptotic.com
+0.0.0.0 api.adsymptotic.com
+0.0.0.0 api-eu.adsymptotic.com
+0.0.0.0 apis.adsymptotic.com
+0.0.0.0 api-sc2.adsymptotic.com
+0.0.0.0 c.adsymptotic.com
+0.0.0.0 ceast.adsymptotic.com
+0.0.0.0 c-eu.adsymptotic.com
+0.0.0.0 dev.adsymptotic.com
+0.0.0.0 ec.adsymptotic.com
+0.0.0.0 gapi.adsymptotic.com
+0.0.0.0 m.adsymptotic.com
+0.0.0.0 mf.adsymptotic.com
+0.0.0.0 m-sc2.adsymptotic.com
+0.0.0.0 og-iad2.adsymptotic.com
+0.0.0.0 og-sc2.adsymptotic.com
+0.0.0.0 p.adsymptotic.com
+0.0.0.0 p-awse-ebs.adsymptotic.com
+0.0.0.0 p-eu.adsymptotic.com
+0.0.0.0 pinterest.adsymptotic.com
+0.0.0.0 pixel-apc.adsymptotic.com
+0.0.0.0 pixel-sc2.adsymptotic.com
+0.0.0.0 pixel-useast.adsymptotic.com
+0.0.0.0 p-tky-ebs.adsymptotic.com
+0.0.0.0 repo.adsymptotic.com
+0.0.0.0 rtb.adsymptotic.com
+0.0.0.0 rtbe.adsymptotic.com
+0.0.0.0 rtb-eu.adsymptotic.com
+0.0.0.0 www.adsymptotic.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14240,7 +14272,6 @@
 0.0.0.0 adsupply.com
 0.0.0.0 adsupplyads.com
 0.0.0.0 adswitcher.com
-0.0.0.0 adsymptotic.com
 0.0.0.0 adsynergy.com
 0.0.0.0 adsys.townnews.com
 0.0.0.0 adsystem.simplemachines.org
