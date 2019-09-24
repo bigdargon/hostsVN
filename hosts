@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 24 Sep 2019 13:39 UTC+7
-# Blocked: 17,980 domains
+# Last modified: 24 Sep 2019 14:38 UTC+7
+# Blocked: 17,982 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -12155,6 +12155,11 @@
 0.0.0.0 rtbe.adsymptotic.com
 0.0.0.0 rtb-eu.adsymptotic.com
 0.0.0.0 www.adsymptotic.com
+#[trazk.com]
+0.0.0.0 c.trazk.com
+0.0.0.0 f.trazk.com
+0.0.0.0 localapi.trazk.com
+0.0.0.0 trazk.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -17300,7 +17305,6 @@
 0.0.0.0 bxzxw.net
 0.0.0.0 by.uservoice.com
 0.0.0.0 c.snnd.co
-0.0.0.0 c.trazk.com
 0.0.0.0 c.webengage.com
 0.0.0.0 c2i-cdn.startappnetwork.com
 0.0.0.0 cabomarlinisportfishing.com
@@ -17997,7 +18001,6 @@
 0.0.0.0 traffok.cn
 0.0.0.0 transition.org.cn
 0.0.0.0 transpec.vn
-0.0.0.0 trazk.com
 0.0.0.0 trinitymirror.grapeshot.co.uk
 0.0.0.0 trk.clinch.co
 0.0.0.0 trk.pinterest.com

@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 24 Sep 2019 13:39 UTC+7
-! Blocked: 5,958 rules
+! Last modified: 24 Sep 2019 14:38 UTC+7
+! Blocked: 5,957 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -815,6 +815,7 @@
 ||track.uc.cn^
 ||trackjs.com^
 ||trafficjunky.net^
+||trazk.com^
 ||tremorhub.com^
 ||tru.am^
 ||tune.com^
@@ -4802,7 +4803,6 @@
 ||bxzxw.net^
 ||by.uservoice.com^
 ||c.snnd.co^
-||c.trazk.com^
 ||c.webengage.com^
 ||c2i-cdn.startappnetwork.com^
 ||cabomarlinisportfishing.com^
@@ -5510,7 +5510,6 @@
 ||traffok.cn^
 ||transition.org.cn^
 ||transpec.vn^
-||trazk.com^
 ||trinitymirror.grapeshot.co.uk^
 ||trk.clinch.co^
 ||trk.pinterest.com^
