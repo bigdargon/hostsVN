@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 24 Sep 2019 14:38 UTC+7
-! Blocked: 5,957 rules
+! Last modified: 27 Sep 2019 20:23 UTC+7
+! Blocked: 5,956 rules
 ! The section containing the list contains all ad networks and tracking
 !
 accesstrade.com.vn
@@ -449,6 +449,7 @@ beap*.yahoo.com
 bebi.com
 betrad.com
 bfmio.com
+bidr.io
 bidswitch.net
 bigclicker.me
 bizible.com
@@ -458,6 +459,7 @@ blueserving.com
 bnmla.com
 bounceexchange.com
 branch.io
+brand-display.com
 braze.com
 breaktime-inc.com
 breaktime.com.tw
@@ -564,7 +566,6 @@ gigya.com
 glispa.com
 go-mpulse.net
 google-analytics.com
-googleadapis.l.google.com
 googleadservices.com
 googlesyndication.com
 googletagmanager.com
@@ -573,7 +574,6 @@ goraps.com
 graph.instagram.com
 gsp1.baidu.com
 gssprt.jp
-gstaticadssl.l.google.com
 hadarone.com
 headlinerlabs.com
 heapanalytics.com
@@ -2210,7 +2210,6 @@ bhcumsc.com
 bidadx.com
 bidclix.com
 bidclix.net
-bidr.io
 bidtrk.com
 bidvertiser.com
 bigads.guj.de

@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 24 Sep 2019 14:38 UTC+7
-# Blocked: 17,982 domains
+# Last modified: 27 Sep 2019 20:23 UTC+7
+# Blocked: 18,040 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -179,8 +179,6 @@
 0 cctldtest.google-analytics.com
 0 ad.youtube.com
 0 ads.youtube.com
-0 gstaticadssl.l.google.com
-0 googleadapis.l.google.com
 0 pagead.l.google.com
 0 pagead-googlehosted.l.google.com
 0 pagead-tpc.l.google.com
@@ -1647,10 +1645,31 @@
 0 wootric.com
 0 www-staging.wootric.com
 0 www.wootric.com
-0 decide.mixpanel.com
 0 api.mixpanel.com
+0 api-compatible.mixpanel.com
+0 api-secure.mixpanel.com
+0 code.mixpanel.com
+0 community.mixpanel.com
+0 contact.mixpanel.com
+0 data.mixpanel.com
+0 decide.mixpanel.com
+0 developer.mixpanel.com
+0 discover.mixpanel.com
+0 engineering.mixpanel.com
+0 explore.mixpanel.com
+0 gerrit.corp.mixpanel.com
+0 help.mixpanel.com
+0 landingtest.mixpanel.com
+0 learn.mixpanel.com
+0 lift.mixpanel.com
+0 meet.mixpanel.com
 0 mixpanel.com
+0 resources.mixpanel.com
+0 share.mixpanel.com
+0 sso.mixpanel.com
+0 status.mixpanel.com
 0 switchboard.mixpanel.com
+0 www.mixpanel.com
 0 data.flurry.com
 0 flurry.com
 0 dev.flurry.com
@@ -11711,6 +11730,46 @@
 0 f.trazk.com
 0 localapi.trazk.com
 0 trazk.com
+0 ae.brand-display.com
+0 ap.brand-display.com
+0 bid.brand-display.com
+0 brand-display.com
+0 cdn.brand-display.com
+0 cdn-cn.brand-display.com
+0 dg.brand-display.com
+0 dmp.brand-display.com
+0 media-service-video-input.brand-display.com
+0 media-service-video-output.brand-display.com
+0 rtb-analytics.brand-display.com
+0 rtb-analytics-test.brand-display.com
+0 studio.brand-display.com
+0 sv.brand-display.com
+0 tr.brand-display.com
+0 trus.brand-display.com
+0 www.brand-display.com
+0 ad-stinger.prod.bidr.io
+0 apac.match.prod.bidr.io
+0 bidr.io
+0 cnv.event.prod.bidr.io
+0 dealerx.prod.bidr.io
+0 eu-west-1.bid.bidr.io
+0 eu-west-1.event.prod.bidr.io
+0 event.prod.bidr.io
+0 events.prod.bidr.io
+0 fy.eu-west-1.bid.bidr.io
+0 fy.us-east-1.bid.bidr.io
+0 global.event.prod.bidr.io
+0 lr.us-east-1.bid.bidr.io
+0 match.prod.bidr.io
+0 media.bidr.io
+0 nam.segment.prod.bidr.io
+0 pl.us-east-1.bid.bidr.io
+0 segment.prod.bidr.io
+0 us-east-1.bid.bidr.io
+0 us-east-1.event.prod.bidr.io
+0 us-east-1.segment-asg.bidr.io
+0 us-west-2.bid.bidr.io
+0 us-west-2.event.prod.bidr.io
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14163,7 +14222,6 @@
 0 bidadx.com
 0 bidclix.com
 0 bidclix.net
-0 bidr.io
 0 bidtrk.com
 0 bidvertiser.com
 0 bigads.guj.de
