@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 27 Sep 2019 20:23 UTC+7
-! Blocked: 5,956 rules
+! Last modified: 04 Oct 2019 10:49 UTC+7
+! Blocked: 5,957 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -134,7 +134,9 @@
 ||clipbongda.info^
 ||clix.vn^
 ||delivery.senvangvn.com^
+||delivery.vungtv.com^
 ||deltago.com^
+||events.vungtv.com^
 ||fptad.com^
 ||imgraovat.vnecdn.net^
 ||lrc.nct.nixcdn.com^
@@ -164,6 +166,7 @@
 ||vinaads.vn^
 ||alexajstrack.com^
 ||amcdn.vn^
+||an.dongphim.net^
 ||analytics.bkav.com^
 ||analytics.easyvideo.vn^
 ||analytics.explus.vn^
@@ -197,6 +200,7 @@
 ||sharefb.cnnd.vn^
 ||staticad.thethao247.vn^
 ||stats.bizweb.vn^
+||stats.dongphim.net^
 ||stats.vietnammoi.vn^
 ||thongke.24h.com.vn^
 ||thongke.baotintuc.vn^
@@ -256,6 +260,7 @@
 ||vn88.club^
 ||vn88.com^
 ||websvn.info^
+||zbet.com^
 ||fuckbookvietnam.com^
 ||quangcaotructuyen247.com^
 ||sukientraogiaizalo.com^
@@ -639,6 +644,7 @@
 ||logrocket.io^
 ||mads*.amazon.com^
 ||mads.cnet.com^
+||mahimeta.com^
 ||mailchimp.com^
 ||maliva-mcs.byteoversea.com^
 ||marfeelcache.com^
@@ -702,6 +708,7 @@
 ||odc.starwave.com^
 ||omtrdc.net^
 ||onelink.me^
+||onesignal.com^
 ||onespot-tracking.herokuapp.com^
 ||onscroll.com^
 ||onthe.io^
@@ -769,7 +776,9 @@
 ||sharethis.com^
 ||sharethrough.com^
 ||siftscience.com^
+||simpleanalytics.io^
 ||simpli.fi^
+||siteswithcontent.com^
 ||skimresources.com^
 ||smaato.com^
 ||smaato.net^
@@ -2332,7 +2341,6 @@
 ||cdn.feeds.ibt.com^
 ||cdn.freefacti.com^
 ||cdn.freefarcy.com^
-||cdn.onesignal.com^
 ||cdn.pubexchange.com^
 ||cdn.ravenjs.com^
 ||cdn.spotscenered.info^
@@ -3829,6 +3837,7 @@
 ||rotabanner.com^
 ||roughroll.com^
 ||roxr.net^
+||rsalcch.com^
 ||rta.dailymail.co.uk^
 ||rtbidder.net^
 ||rtbpop.com^
@@ -4706,8 +4715,6 @@
 ||api.prooffactor.com^
 ||api.quantumgraph.com^
 ||api.safegraph.com^
-||api.simpleanalytics.io^
-||api.simplesharebuttons.com^
 ||api.splkmobile.com^
 ||apiinit.amap.com^
 ||apiparbion.com^
@@ -4821,17 +4828,12 @@
 ||ccycny.com^
 ||cdmswj.com^
 ||cdn.blueconic.net^
-||cdn.livechatinc.com^
 ||cdn.promotionengine.com^
-||cdn.simpleanalytics.io^
 ||cdn.zarget.com^
 ||cdnstatic.geo.dmcdn.net^
-||centerpieces-with-feathers-for-weddi.blogspot.com^
-||centralamericarealestateinvestment.com^
 ||ceocms.com^
 ||cfbrr.com^
 ||cfcgl.com^
-||chat2.livechatinc.com^
 ||cheapness.byefelicia.fr^
 ||check-updates.net^
 ||china-hangyi.com^
@@ -4889,7 +4891,6 @@
 ||dccallers.org^
 ||dd-seo.cn^
 ||defygravity.com^
-||delivery.vungtv.com^
 ||deltagroup.kz^
 ||demo25.extstore.com^
 ||demodomain.cz^
@@ -4974,7 +4975,6 @@
 ||eurolatexthai.com^
 ||evasive.expertwitnessautomaticdoor.net^
 ||events.redditmedia.com^
-||events.vungtv.com^
 ||everestjs.net^
 ||evilstalin.https443.net^
 ||eviltracker.net^
@@ -5298,7 +5298,6 @@
 ||okboobs.com^
 ||old.yesmeskin.co.kr^
 ||omgates.com^
-||onesignal.com^
 ||opensharecount.com^
 ||oqgmav.com^
 ||orange.bageriethornslet.dk^
@@ -5825,6 +5824,8 @@
 ||d830x8j3o1b2k.cloudfront.net^
 ||debojuagug1sf.cloudfront.net^
 ||d10vy5gom1ed53.cloudfront.net^
+||d2yh8t8mdj4l9x.cloudfront.net^
+||detwzgl8cvciv.cloudfront.net^
 ||d3j1weegxvu8ns.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d10lpsik1i8c69.cloudfront.net^
@@ -5905,6 +5906,7 @@
 ||d3r7h55ola878c.cloudfront.net^
 ||d11a2fzhgzqe7i.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
+||d16xpr36wrmcmk.cloudfront.net^
 ||d18p8z0ptb8qab.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
@@ -5951,7 +5953,6 @@
 ||dymlo6ffhj97l.cloudfront.net^
 ||dzmxze7hxwn6b.cloudfront.net^
 ||dzxxxg6ij9u99.cloudfront.net^
-||d3eokk6ya562p5.cloudfront.net^
 ||d17m68fovwmgxj.cloudfront.net^
 ||d32hwlnfiv2gyn.cloudfront.net^
 ||d2405b0jymm2dk.cloudfront.net^

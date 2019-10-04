@@ -12210,3 +12210,34 @@
 0.0.0.0 us-east-1.segment-asg.bidr.io
 0.0.0.0 us-west-2.bid.bidr.io
 0.0.0.0 us-west-2.event.prod.bidr.io
+#[onesignal.com]
+0.0.0.0 cdn.onesignal.com
+0.0.0.0 img.onesignal.com
+0.0.0.0 onesignal.com
+0.0.0.0 www.onesignal.com
+#[siteswithcontent.com]
+0.0.0.0 c.siteswithcontent.com
+0.0.0.0 cdn.siteswithcontent.com
+0.0.0.0 siteswithcontent.com
+0.0.0.0 www.siteswithcontent.com
+#[mahimeta.com]
+0.0.0.0 mahimeta.com
+0.0.0.0 adserve.mahimeta.com
+0.0.0.0 www.mahimeta.com
+#[simpleanalytics.io]
+0.0.0.0 acceptance.simpleanalytics.io
+0.0.0.0 api.simpleanalytics.io
+0.0.0.0 cdn.simpleanalytics.io
+0.0.0.0 chat.simpleanalytics.io
+0.0.0.0 external.simpleanalytics.io
+0.0.0.0 gif.simpleanalytics.io
+0.0.0.0 helpdesk.simpleanalytics.io
+0.0.0.0 iceland.simpleanalytics.io
+0.0.0.0 metabase.simpleanalytics.io
+0.0.0.0 monitor.simpleanalytics.io
+0.0.0.0 notify.simpleanalytics.io
+0.0.0.0 queue.simpleanalytics.io
+0.0.0.0 simpleanalytics.io
+0.0.0.0 test.simpleanalytics.io
+0.0.0.0 testing.simpleanalytics.io
+0.0.0.0 www.simpleanalytics.io

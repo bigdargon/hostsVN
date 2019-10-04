@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 27 Sep 2019 20:23 UTC+7
-# Blocked: 18,040 domains
+# Last modified: 04 Oct 2019 10:49 UTC+7
+# Blocked: 18,069 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -11770,6 +11770,33 @@
 0 us-east-1.segment-asg.bidr.io
 0 us-west-2.bid.bidr.io
 0 us-west-2.event.prod.bidr.io
+0 cdn.onesignal.com
+0 img.onesignal.com
+0 onesignal.com
+0 www.onesignal.com
+0 c.siteswithcontent.com
+0 cdn.siteswithcontent.com
+0 siteswithcontent.com
+0 www.siteswithcontent.com
+0 mahimeta.com
+0 adserve.mahimeta.com
+0 www.mahimeta.com
+0 acceptance.simpleanalytics.io
+0 api.simpleanalytics.io
+0 cdn.simpleanalytics.io
+0 chat.simpleanalytics.io
+0 external.simpleanalytics.io
+0 gif.simpleanalytics.io
+0 helpdesk.simpleanalytics.io
+0 iceland.simpleanalytics.io
+0 metabase.simpleanalytics.io
+0 monitor.simpleanalytics.io
+0 notify.simpleanalytics.io
+0 queue.simpleanalytics.io
+0 simpleanalytics.io
+0 test.simpleanalytics.io
+0 testing.simpleanalytics.io
+0 www.simpleanalytics.io
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -12624,8 +12651,10 @@
 0 clix.vn
 0 cms.vinaads.vn
 0 delivery.senvangvn.com
+0 delivery.vungtv.com
 0 deltago.com
 0 dev.mobilead.vn
+0 events.vungtv.com
 0 fptad.com
 0 imgraovat.vnecdn.net
 0 lrc.nct.nixcdn.com
@@ -12666,6 +12695,7 @@
 0 zone.uniad.vn
 0 alexajstrack.com
 0 amcdn.vn
+0 an.dongphim.net
 0 analytics.bkav.com
 0 analytics.easyvideo.vn
 0 analytics.explus.vn
@@ -12703,6 +12733,7 @@
 0 static.amcdn.vn
 0 staticad.thethao247.vn
 0 stats.bizweb.vn
+0 stats.dongphim.net
 0 stats.vietnammoi.vn
 0 thongke.24h.com.vn
 0 thongke.baotintuc.vn
@@ -12860,6 +12891,12 @@
 0 88viet.com
 0 m.88viet.com
 0 www.88viet.com
+0 zbet.com
+0 gw.zbet.com
+0 z1.zbet.com
+0 z2.zbet.com
+0 z3.zbet.com
+0 www.zbet.com
 0 fuckbookvietnam.com
 0 www.fuckbookvietnam.com
 0 xmobliefacebook.com
@@ -12867,8 +12904,6 @@
 0 sukientraogiaizalo.com
 0 quangcaotructuyen247.com
 0 www.quangcaotructuyen247.com
-0 koindut.com
-0 fingahvf.top
 0 101com.com
 0 101order.com
 0 123found.com
@@ -14345,7 +14380,6 @@
 0 cdn.feeds.ibt.com
 0 cdn.freefacti.com
 0 cdn.freefarcy.com
-0 cdn.onesignal.com
 0 cdn.pubexchange.com
 0 cdn.ravenjs.com
 0 cdn.spotscenered.info
@@ -14795,6 +14829,7 @@
 0 findepended.com
 0 findyourcasino.com
 0 fineclicks.com
+0 fingahvf.top
 0 first.nova.cz
 0 firstlightera.com
 0 fl.adpxl.co
@@ -15118,6 +15153,7 @@
 0 knifeoctopus.com
 0 kniverto.com
 0 knorex.com
+0 koindut.com
 0 koinser.in
 0 komoona.com
 0 kompasads.com
@@ -15837,6 +15873,7 @@
 0 rotabanner.com
 0 roughroll.com
 0 roxr.net
+0 rsalcch.com
 0 rta.dailymail.co.uk
 0 rtbidder.net
 0 rtbpop.com
@@ -16764,8 +16801,6 @@
 0 api.prooffactor.com
 0 api.quantumgraph.com
 0 api.safegraph.com
-0 api.simpleanalytics.io
-0 api.simplesharebuttons.com
 0 api.splkmobile.com
 0 apiinit.amap.com
 0 apiparbion.com
@@ -16878,17 +16913,12 @@
 0 ccycny.com
 0 cdmswj.com
 0 cdn.blueconic.net
-0 cdn.livechatinc.com
 0 cdn.promotionengine.com
-0 cdn.simpleanalytics.io
 0 cdn.zarget.com
 0 cdnstatic.geo.dmcdn.net
-0 centerpieces-with-feathers-for-weddi.blogspot.com
-0 centralamericarealestateinvestment.com
 0 ceocms.com
 0 cfbrr.com
 0 cfcgl.com
-0 chat2.livechatinc.com
 0 cheapness.byefelicia.fr
 0 check-updates.net
 0 china-hangyi.com
@@ -16946,7 +16976,6 @@
 0 dccallers.org
 0 dd-seo.cn
 0 defygravity.com
-0 delivery.vungtv.com
 0 deltagroup.kz
 0 demo25.extstore.com
 0 demodomain.cz
@@ -17030,7 +17059,6 @@
 0 eurolatexthai.com
 0 evasive.expertwitnessautomaticdoor.net
 0 events.redditmedia.com
-0 events.vungtv.com
 0 everestjs.net
 0 evilstalin.https443.net
 0 eviltracker.net
@@ -17349,7 +17377,6 @@
 0 okboobs.com
 0 old.yesmeskin.co.kr
 0 omgates.com
-0 onesignal.com
 0 opensharecount.com
 0 oqgmav.com
 0 orange.bageriethornslet.dk
@@ -17919,6 +17946,8 @@
 0 d830x8j3o1b2k.cloudfront.net
 0 debojuagug1sf.cloudfront.net
 0 d10vy5gom1ed53.cloudfront.net
+0 d2yh8t8mdj4l9x.cloudfront.net
+0 detwzgl8cvciv.cloudfront.net
 0 d3j1weegxvu8ns.cloudfront.net
 0 d2ibu2ug0mt5qp.cloudfront.net
 0 d10lpsik1i8c69.cloudfront.net
@@ -17999,6 +18028,7 @@
 0 d3r7h55ola878c.cloudfront.net
 0 d11a2fzhgzqe7i.cloudfront.net
 0 d16fk4ms6rqz1v.cloudfront.net
+0 d16xpr36wrmcmk.cloudfront.net
 0 d18p8z0ptb8qab.cloudfront.net
 0 d191y0yd6d0jy4.cloudfront.net
 0 d1cr9zxt7u0sgu.cloudfront.net
@@ -18045,7 +18075,6 @@
 0 dymlo6ffhj97l.cloudfront.net
 0 dzmxze7hxwn6b.cloudfront.net
 0 dzxxxg6ij9u99.cloudfront.net
-0 d3eokk6ya562p5.cloudfront.net
 0 d17m68fovwmgxj.cloudfront.net
 0 d32hwlnfiv2gyn.cloudfront.net
 0 d2405b0jymm2dk.cloudfront.net

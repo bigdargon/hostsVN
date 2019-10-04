@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 27 Sep 2019 20:23 UTC+7
-! Blocked: 257 rules
+! Last modified: 04 Oct 2019 10:49 UTC+7
+! Blocked: 262 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -134,7 +134,9 @@
 ||clipbongda.info^
 ||clix.vn^
 ||delivery.senvangvn.com^
+||delivery.vungtv.com^
 ||deltago.com^
+||events.vungtv.com^
 ||fptad.com^
 ||imgraovat.vnecdn.net^
 ||lrc.nct.nixcdn.com^
@@ -164,6 +166,7 @@
 ||vinaads.vn^
 ||alexajstrack.com^
 ||amcdn.vn^
+||an.dongphim.net^
 ||analytics.bkav.com^
 ||analytics.easyvideo.vn^
 ||analytics.explus.vn^
@@ -197,6 +200,7 @@
 ||sharefb.cnnd.vn^
 ||staticad.thethao247.vn^
 ||stats.bizweb.vn^
+||stats.dongphim.net^
 ||stats.vietnammoi.vn^
 ||thongke.24h.com.vn^
 ||thongke.baotintuc.vn^
@@ -256,6 +260,7 @@
 ||vn88.club^
 ||vn88.com^
 ||websvn.info^
+||zbet.com^
 ||fuckbookvietnam.com^
 ||quangcaotructuyen247.com^
 ||sukientraogiaizalo.com^
