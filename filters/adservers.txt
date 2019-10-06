@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 04 Oct 2019 10:49 UTC+7
-! Blocked: 262 rules
+! Last modified: 06 Oct 2019 19:52 UTC+7
+! Blocked: 261 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -81,7 +81,6 @@
 ||sp.zalo.me^
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
-||subiz.com^
 ||tracking.*.zing.vn^
 ||vclick.vn^
 ||vietad.vn^

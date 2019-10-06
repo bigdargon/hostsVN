@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 04 Oct 2019 10:49 UTC+7
-# Blocked: 1,107 domains
+# Last modified: 06 Oct 2019 19:52 UTC+7
+# Blocked: 1,076 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -426,38 +426,6 @@
 0.0.0.0 accesstrade.com.vn
 0.0.0.0 click.accesstrade.com.vn
 0.0.0.0 fast.accesstrade.com.vn
-#[subiz.com]
-0.0.0.0 agent-data.subiz.com
-0.0.0.0 api.subiz.com
-0.0.0.0 apiv4.subiz.com
-0.0.0.0 app.subiz.com
-0.0.0.0 css-dashboard.subiz.com
-0.0.0.0 dashboard.subiz.com
-0.0.0.0 developer.subiz.com
-0.0.0.0 docs.subiz.com
-0.0.0.0 docv4.subiz.com
-0.0.0.0 em.subiz.com
-0.0.0.0 files.subiz.com
-0.0.0.0 filev4.subiz.com
-0.0.0.0 integration.subiz.com
-0.0.0.0 m.widget.subiz.com
-0.0.0.0 socket-ha.dashboard.subiz.com
-0.0.0.0 sock-ha.subiz.com
-0.0.0.0 sock-ha-1.subiz.com
-0.0.0.0 sock-p.subiz.com
-0.0.0.0 static.subiz.com
-0.0.0.0 static-dashboard.subiz.com
-0.0.0.0 subiz.com
-0.0.0.0 support.subiz.com
-0.0.0.0 widget.subiz.com
-0.0.0.0 widget-4.subiz.com
-0.0.0.0 widget-api.subiz.com
-0.0.0.0 widget-css.subiz.com
-0.0.0.0 widgetv4.subiz.com
-0.0.0.0 ws-0.subiz.com
-0.0.0.0 ws-widget-lb-1.subiz.com
-0.0.0.0 ws-widget-lb-2.subiz.com
-0.0.0.0 www.subiz.com
 #[anthill]
 0.0.0.0 a.anthill.vn
 0.0.0.0 anthill.vn
@@ -866,8 +834,7 @@
 0.0.0.0 www.bidgear.com
 0.0.0.0 zabbix.bidgear.com
 0.0.0.0 bidgear-syndication.com
-# --- Block ads & tracking VN ---
-#[adsVN]
+# --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com
 0.0.0.0 ad-hn.24hstatic.com
@@ -954,7 +921,7 @@
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 0.0.0.0 zone.uniad.vn
-#[trackingVN]
+# --- Block trackingVN ---
 0.0.0.0 alexajstrack.com
 0.0.0.0 amcdn.vn
 0.0.0.0 an.dongphim.net
@@ -1020,7 +987,7 @@
 0.0.0.0 widget.nhaccuatui.com
 0.0.0.0 www.trending.vn
 0.0.0.0 www.viam.com.vn
-#[betVN]
+# --- Block betVN ---
 0.0.0.0 11bet.com
 0.0.0.0 lucky88.com
 0.0.0.0 m.lucky88.com
@@ -1160,7 +1127,7 @@
 0.0.0.0 z2.zbet.com
 0.0.0.0 z3.zbet.com
 0.0.0.0 www.zbet.com
-#[scamVN]
+# --- Block scamVN ---
 0.0.0.0 fuckbookvietnam.com
 0.0.0.0 www.fuckbookvietnam.com
 0.0.0.0 xmobliefacebook.com
