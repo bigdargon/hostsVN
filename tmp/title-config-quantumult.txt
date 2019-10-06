@@ -33,25 +33,26 @@ hostsVN-quantumult, blacklist, https://raw.githubusercontent.com/bigdargon/hosts
 ^https?://graph.nhaccuatui.com/.+advs/*
 ^https?://graph.nhaccuatui.com/.+logs/*
 ^https?://graph.nhaccuatui.com/.+3g-get-info
-^https?://graph.nhaccuatui.com/.+notify-firebase
 ^https?://graph.nhaccuatui.com/.+deviceinfo
+^https?://graph.nhaccuatui.com/.+notify-firebase
 ^https?://avatar-nct.nixcdn.com/.+popup
 
 //spotify
 ^https?://spclient.wg.spotify.com/ad-logic/*
 ^https?://spclient.wg.spotify.com/ads/*
-^https?://spclient.wg.spotify.com/.+crashlytics
-^https?://spclient.wg.spotify.com/.+doubleclick.net
-^https?://spclient.wg.spotify.com/.+event
-^https?://spclient.wg.spotify.com/.+promoted_offer
 ^https?://spclient.wg.spotify.com/.+ad_slot
 ^https?://spclient.wg.spotify.com/.+banners
+^https?://spclient.wg.spotify.com/.+canvases
+^https?://spclient.wg.spotify.com/.+crashlytics
+^https?://spclient.wg.spotify.com/.+doubleclick.net
 ^https?://spclient.wg.spotify.com/.+enabled-tracks
+^https?://spclient.wg.spotify.com/.+event
+^https?://spclient.wg.spotify.com/.+promoted_offer
 
 //google
-#^https?:\/\/.+\.googlevideo\.com\/.+ctier
 ^https?:\/\/.+\.googlevideo\.com\/.+&oad
 ^https?:\/\/.+\.googlevideo\.com\/.+&owc
+#^https?:\/\/.+\.googlevideo\.com\/.+ctier
 ^https?:\/\/.+\.googlevideo\.com\/ptracking\?pltype=adhost
 ^https?:\/\/.+\.googlevideo\.com\/videogoodput\?
 ^https?:\/\/.+\.youtube\.com\/.+get_ads
@@ -99,7 +100,6 @@ HOST-KEYWORD,adsystem,REJECT
 HOST-KEYWORD,adtima,REJECT
 HOST-KEYWORD,advert,REJECT
 HOST-KEYWORD,adwords,REJECT
-HOST-KEYWORD,allyes,REJECT
 HOST-KEYWORD,analysis,REJECT
 HOST-KEYWORD,analysys,REJECT
 HOST-KEYWORD,analytics,REJECT
@@ -112,7 +112,6 @@ HOST-KEYWORD,click.,REJECT
 HOST-KEYWORD,clkservice,REJECT
 HOST-KEYWORD,counter,REJECT
 HOST-KEYWORD,crashlytics,REJECT
-HOST-KEYWORD,dnserror,REJECT
 HOST-KEYWORD,domob,REJECT
 HOST-KEYWORD,doubleclick,REJECT
 HOST-KEYWORD,duapps,REJECT
@@ -124,7 +123,6 @@ HOST-KEYWORD,googleads,REJECT
 HOST-KEYWORD,googlesyndication,REJECT
 HOST-KEYWORD,iad.,REJECT
 HOST-KEYWORD,inmobi,REJECT
-HOST-KEYWORD,instabug,REJECT
 HOST-KEYWORD,lianmeng,REJECT
 HOST-KEYWORD,medialytics,REJECT
 HOST-KEYWORD,mixpanel,REJECT
@@ -132,12 +130,10 @@ HOST-KEYWORD,mobaders,REJECT
 HOST-KEYWORD,omgmta,REJECT
 HOST-KEYWORD,openx,REJECT
 HOST-KEYWORD,partnerad,REJECT
-HOST-KEYWORD,pingfore,REJECT
 HOST-KEYWORD,polyad,REJECT
 HOST-KEYWORD,popads,REJECT
 HOST-KEYWORD,socdm,REJECT
 HOST-KEYWORD,stats.,REJECT
-HOST-KEYWORD,taboola,REJECT
 HOST-KEYWORD,track-,REJECT
 HOST-KEYWORD,track.,REJECT
 HOST-KEYWORD,tracking-,REJECT
@@ -178,9 +174,10 @@ HOST,cloudapp.aiarlabs.com,Fake iAP 1
 #HOST,buy.itunes.apple.com,Fake iAP 1
 HOST,live.infltr.us,Fake iAP 1
 HOST,owa.videoshowiosglobalserver.com,Fake iAP 1
-HOST,viva-asia1-ak.api.xiaoying.co,Fake iAP 1
 HOST,app.algoriddim.com,Fake iAP 1
+HOST,viva.v21xy.com,Fake iAP 1
 HOST,viva-asia1.vvbrd.com,Fake iAP 1
+HOST,api.getmimo.com,Fake iAP 1
 
 FINAL,DIRECT
 

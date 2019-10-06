@@ -34,25 +34,26 @@ Proxy = select, 🇻🇳hostsVN, Fake iAP 1
 ^https?://graph.nhaccuatui.com/.+advs/* - reject
 ^https?://graph.nhaccuatui.com/.+logs/* - reject
 ^https?://graph.nhaccuatui.com/.+3g-get-info - reject
-^https?://graph.nhaccuatui.com/.+notify-firebase - reject
 ^https?://graph.nhaccuatui.com/.+deviceinfo - reject
+^https?://graph.nhaccuatui.com/.+notify-firebase - reject
 ^https?://avatar-nct.nixcdn.com/.+popup - reject
 
 //spotify
 ^https?://spclient.wg.spotify.com/ad-logic/* - reject
 ^https?://spclient.wg.spotify.com/ads/* - reject
-^https?://spclient.wg.spotify.com/.+crashlytics - reject
-^https?://spclient.wg.spotify.com/.+doubleclick.net - reject
-^https?://spclient.wg.spotify.com/.+event - reject
-^https?://spclient.wg.spotify.com/.+promoted_offer - reject
 ^https?://spclient.wg.spotify.com/.+ad_slot - reject
 ^https?://spclient.wg.spotify.com/.+banners - reject
+^https?://spclient.wg.spotify.com/.+canvases - reject
+^https?://spclient.wg.spotify.com/.+crashlytics - reject
+^https?://spclient.wg.spotify.com/.+doubleclick.net - reject
 ^https?://spclient.wg.spotify.com/.+enabled-tracks - reject
+^https?://spclient.wg.spotify.com/.+event - reject
+^https?://spclient.wg.spotify.com/.+promoted_offer - reject
 
 //google
-^https?:\/\/.+\.googlevideo\.com\/.+ctier - reject
 ^https?:\/\/.+\.googlevideo\.com\/.+&oad - reject
 ^https?:\/\/.+\.googlevideo\.com\/.+&owc - reject
+^https?:\/\/.+\.googlevideo\.com\/.+ctier - reject
 ^https?:\/\/.+\.googlevideo\.com\/ptracking\?pltype=adhost - reject
 ^https?:\/\/.+\.googlevideo\.com\/videogoodput\? - reject
 ^https?:\/\/.+\.youtube\.com\/.+get_ads - reject
@@ -100,7 +101,6 @@ DOMAIN-KEYWORD,adsystem,REJECT
 DOMAIN-KEYWORD,adtima,REJECT
 DOMAIN-KEYWORD,advert,REJECT
 DOMAIN-KEYWORD,adwords,REJECT
-DOMAIN-KEYWORD,allyes,REJECT
 DOMAIN-KEYWORD,analysis,REJECT
 DOMAIN-KEYWORD,analysys,REJECT
 DOMAIN-KEYWORD,analytics,REJECT
@@ -113,7 +113,6 @@ DOMAIN-KEYWORD,click.,REJECT
 DOMAIN-KEYWORD,clkservice,REJECT
 DOMAIN-KEYWORD,counter,REJECT
 DOMAIN-KEYWORD,crashlytics,REJECT
-DOMAIN-KEYWORD,dnserror,REJECT
 DOMAIN-KEYWORD,domob,REJECT
 DOMAIN-KEYWORD,doubleclick,REJECT
 DOMAIN-KEYWORD,duapps,REJECT
@@ -125,7 +124,6 @@ DOMAIN-KEYWORD,googleads,REJECT
 DOMAIN-KEYWORD,googlesyndication,REJECT
 DOMAIN-KEYWORD,iad.,REJECT
 DOMAIN-KEYWORD,inmobi,REJECT
-DOMAIN-KEYWORD,instabug,REJECT
 DOMAIN-KEYWORD,lianmeng,REJECT
 DOMAIN-KEYWORD,medialytics,REJECT
 DOMAIN-KEYWORD,mixpanel,REJECT
@@ -133,12 +131,10 @@ DOMAIN-KEYWORD,mobaders,REJECT
 DOMAIN-KEYWORD,omgmta,REJECT
 DOMAIN-KEYWORD,openx,REJECT
 DOMAIN-KEYWORD,partnerad,REJECT
-DOMAIN-KEYWORD,pingfore,REJECT
 DOMAIN-KEYWORD,polyad,REJECT
 DOMAIN-KEYWORD,popads,REJECT
 DOMAIN-KEYWORD,socdm,REJECT
 DOMAIN-KEYWORD,stats.,REJECT
-DOMAIN-KEYWORD,taboola,REJECT
 DOMAIN-KEYWORD,track-,REJECT
 DOMAIN-KEYWORD,track.,REJECT
 DOMAIN-KEYWORD,tracking-,REJECT
@@ -179,9 +175,10 @@ DOMAIN,cloudapp.aiarlabs.com,Fake iAP 1
 DOMAIN,buy.itunes.apple.com,Fake iAP 1
 DOMAIN,live.infltr.us,Fake iAP 1
 DOMAIN,owa.videoshowiosglobalserver.com,Fake iAP 1
-DOMAIN,viva-asia1-ak.api.xiaoying.co,Fake iAP 1
 DOMAIN,app.algoriddim.com,Fake iAP 1
+DOMAIN,viva.v21xy.com,Fake iAP 1
 DOMAIN,viva-asia1.vvbrd.com,Fake iAP 1
+DOMAIN,api.getmimo.com,Fake iAP 1
 
 FINAL,DIRECT
 
