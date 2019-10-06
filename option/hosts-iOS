@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 06 Oct 2019 20:29 UTC+7
-# Blocked: 18,041 domains
+# Last modified: 06 Oct 2019 22:03 UTC+7
+# Blocked: 18,043 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -1292,6 +1292,8 @@
 0 events.adjust.com
 0 learn.adjust.com
 0 ulink.adjust.com
+0 d613d1f49df810135fa4b2a65f7b5f76.ulink.adjust.com
+0 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
 0 adjustnetwork.com
 0 syo.adjustnetwork.com
 0 adn.adjustnetwork.com
