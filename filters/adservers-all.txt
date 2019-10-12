@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 12 Oct 2019 19:38 UTC+7
-! Blocked: 5,963 rules
+! Last modified: 12 Oct 2019 20:49 UTC+7
+! Blocked: 5,971 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -358,6 +358,7 @@
 ||adsymptotic.com^
 ||adsyndication.msn.com^
 ||adtarget.me^
+||adtdp.com^
 ||adtech.de^
 ||adtechjp.com^
 ||adtechus.com^
@@ -525,6 +526,7 @@
 ||cxense.com^
 ||dable.io^
 ||data.alexa.com^
+||demandbase.com^
 ||demdex.net^
 ||deployads.com^
 ||device-metrics-*.amazon.com^
@@ -548,6 +550,7 @@
 ||engageya.com^
 ||epom.com^
 ||ettoday.net^
+||everesttech.net^
 ||evidon.com^
 ||exdynsrv.com^
 ||exosrv.com^
@@ -580,8 +583,10 @@
 ||googletagservices.com^
 ||goraps.com^
 ||graph.instagram.com^
+||growingio.com^
 ||gsp1.baidu.com^
 ||gssprt.jp^
+||gumgum.com^
 ||hadarone.com^
 ||headlinerlabs.com^
 ||heapanalytics.com^
@@ -596,6 +601,7 @@
 ||iap.unity3d.com^
 ||iesnare.com^
 ||ilyonanalytics.herokuapp.com^
+||im-apps.net^
 ||imrworldwide.com^
 ||indexww.com^
 ||infolinks.com^
@@ -610,6 +616,7 @@
 ||instartlogic.com^
 ||ioam.de^
 ||ionicframework.com^
+||iperceptions.com^
 ||ipstatp.com^
 ||isnssdk.com^
 ||jetlore.com^
@@ -626,6 +633,7 @@
 ||knowlead.io^
 ||kochava.com^
 ||krxd.net^
+||ladsp.com^
 ||leanplum.com^
 ||lifestreet.com^
 ||lifestreetmedia.com^
@@ -654,6 +662,8 @@
 ||marfeelcdn.com^
 ||marfeelrev.com^
 ||marinsm.com^
+||marketo.com^
+||marketolive.com^
 ||mathtag.com^
 ||mc.yandex.ru^
 ||mdotm.com^
@@ -665,6 +675,8 @@
 ||metrics.cnn.com^
 ||mgid.com^
 ||mi.gdt.qq.com^
+||microad.jp^
+||microad.net^
 ||midasplayer.com^
 ||millennialmedia.com^
 ||mixpanel.com^
@@ -820,6 +832,7 @@
 ||tapad.com^
 ||tapjoy.com^
 ||taplytics.com^
+||taxel.jp^
 ||teads.tv^
 ||tenmax.io^
 ||test-app.link^
@@ -2598,7 +2611,6 @@
 ||deloo.de^
 ||deloplen.com^
 ||deloton.com^
-||demandbase.com^
 ||depilflash.tv^
 ||desertedbreath.com^
 ||desertedrat.com^
@@ -2733,7 +2745,6 @@
 ||euros4click.de^
 ||eusta.de^
 ||eventbeacon.ca^
-||everesttech.net^
 ||evergage.com^
 ||evidencecleanergold.com^
 ||ewebcounter.com^
@@ -3068,7 +3079,6 @@
 ||invitesugar.com^
 ||ip.ro^
 ||ip193.cn^
-||iperceptions.com^
 ||ipro.com^
 ||ireklama.cz^
 ||itfarm.com^
@@ -3080,7 +3090,6 @@
 ||ivypixel.com^
 ||iz682noju02ye5.com^
 ||j.exit-ad.com^
-||j.microad.net^
 ||j93557g.com^
 ||jadeitite.com^
 ||jaizouji.com^
@@ -3230,7 +3239,6 @@
 ||marketing.hearstmagazines.nl^
 ||marketing.nyi.net^
 ||marketing.osijek031.com^
-||marketo.com^
 ||marketron.com^
 ||maroonspider.com^
 ||mas.sector.sk^
@@ -3303,7 +3311,6 @@
 ||metrilo.com^
 ||mg2connext.com^
 ||miarroba.com^
-||microad.net^
 ||microstatic.pl^
 ||microticker.com^
 ||midnightclicking.com^
@@ -4509,6 +4516,7 @@
 ||xy7elite.com^
 ||y.ibsys.com^
 ||yabuka.com^
+||yads.c.yimg.jp^
 ||ybrantdigital.com^
 ||ydworld.com^
 ||yesads.com^
