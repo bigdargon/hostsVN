@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 07 Oct 2019 15:38 UTC+7
-# Blocked: 18,220 domains
+# Last modified: 12 Oct 2019 19:38 UTC+7
+# Blocked: 18,221 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -111,6 +111,7 @@
 0 uk.doubleclick.net
 0 www.doubleclick.net
 0 www3.doubleclick.net
+0 1295336.fls.doubleclick.net
 0 1435575.fls.doubleclick.net
 0 2542116.fls.doubleclick.net
 0 3642305.fls.doubleclick.net
@@ -128,6 +129,7 @@
 0 5362399.fls.doubleclick.net
 0 5582200.fls.doubleclick.net
 0 8210643.fls.doubleclick.net
+0 8392543.fls.doubleclick.net
 0 8482194.fls.doubleclick.net
 0 8563004.fls.doubleclick.net
 0 fls.doubleclick.net
@@ -1975,7 +1977,6 @@
 0 oc.umeng.co
 0 sec.umeng.com
 0 accscdn.m.taobao.com
-0 acs.m.taobao.com
 0 acs4baichuan.m.taobao.com
 0 adash.m.taobao.com
 0 adashbc.m.taobao.com
@@ -1995,7 +1996,6 @@
 0 ju.taobao.com
 0 m-adash.m.taobao.com
 0 nbsdk-baichuan.taobao.com
-0 openjmacs.m.taobao.com
 0 pcookie.taobao.com
 0 pindao.huoban.taobao.com
 0 re.m.taobao.com
@@ -2016,7 +2016,6 @@
 0 tui.taobao.com
 0 tunion-api.m.taobao.com
 0 tyh.taobao.com
-0 umengjmacs.m.taobao.com
 0 w.m.taobao.com
 0 wb.110.taobao.com
 0 applift-a.apptornado.com
@@ -11324,7 +11323,6 @@
 0 search.adcaffe.com
 0 ap.appcloudbox.net
 0 api.appcloudbox.net
-0 cdn.appcloudbox.net
 0 crashlytics.appcloudbox.net
 0 ge.appcloudbox.net
 0 location.appcloudbox.net
@@ -17949,6 +17947,7 @@
 0 d19182vyfoustz.cloudfront.net
 0 d191y0yd6d0jy4.cloudfront.net
 0 d19uh5b0umbjrr.cloudfront.net
+0 d19xf4taj229i8.cloudfront.net
 0 d1af165twk0zgn.cloudfront.net
 0 d1b0fk9ns6n0w9.cloudfront.net
 0 d1bevsqehy4npt.cloudfront.net
@@ -18060,6 +18059,7 @@
 0 d2nzjxafm0iowq.cloudfront.net
 0 d2o5idwacg3gyw.cloudfront.net
 0 d2o67tzzxkqap2.cloudfront.net
+0 d2oa97wrxvxm7y.cloudfront.net
 0 d2oh4tlt9mrke9.cloudfront.net
 0 d2pc0q32fod0ha.cloudfront.net
 0 d2pppxxtaciku9.cloudfront.net
@@ -18109,6 +18109,7 @@
 0 d3c3cq33003psk.cloudfront.net
 0 d3cesrg5igdcgt.cloudfront.net
 0 d3cxv97fi8q177.cloudfront.net
+0 d3d52lhoy0sh2w.cloudfront.net
 0 d3elm8wezzwg42.cloudfront.net
 0 d3ezl4ajpp2zy8.cloudfront.net
 0 d3fqhkmofpujs3.cloudfront.net
