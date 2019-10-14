@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 12 Oct 2019 20:49 UTC+7
-# Blocked: 18,718 domains
+# Last modified: 14 Oct 2019 15:37 UTC+7
+# Blocked: 18,715 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -4332,10 +4332,6 @@
 0 l.popin.cc
 0 r.popin.cc
 0 rlog.popin.cc
-0 ad.ettoday.net
-0 adv.ettoday.net
-0 cdn1.ettoday.net
-0 msg.ettoday.net
 0 ac.tynt.com
 0 api.tynt.com
 0 asa.tynt.com
@@ -13693,6 +13689,7 @@
 0 ad.doctissimo.fr
 0 ad.domainfactory.de
 0 ad.e-kolay.net
+0 ad.ettoday.net
 0 ad.eurosport.com
 0 ad.f1cd.ru
 0 ad.foxnetworks.com
