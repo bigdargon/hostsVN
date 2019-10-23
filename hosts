@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 14 Oct 2019 15:37 UTC+7
-# Blocked: 18,715 domains
+# Last modified: 23 Oct 2019 14:13 UTC+7
+# Blocked: 18,839 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -190,6 +190,7 @@
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 ads.gmodules.com
 0.0.0.0 displayads-formats.googleusercontent.com
+0.0.0.0 csi.gstatic.com
 #[microsoft]
 0.0.0.0 amer.hops.glbdns.microsoft.com
 0.0.0.0 apprep.smartscreen.microsoft.com
@@ -793,6 +794,59 @@
 0.0.0.0 xray.corp.inmobi.com
 0.0.0.0 inmobicdn.com
 0.0.0.0 inmobisdk-a.akamaihd.net
+#[inmobi.cn]
+0.0.0.0 api.inmobi.cn
+0.0.0.0 api.w.inmobi.cn
+0.0.0.0 au.w.inmobi.cn
+0.0.0.0 c.w.inmobi.cn
+0.0.0.0 c.w.vip.pek1.inmobi.cn
+0.0.0.0 c2s.w.inmobi.cn
+0.0.0.0 config.inmobi.cn
+0.0.0.0 et.w.inmobi.cn
+0.0.0.0 et.w.vip.pek1.inmobi.cn
+0.0.0.0 et2.w.inmobi.cn
+0.0.0.0 helix.inmobi.cn
+0.0.0.0 i.w.inmobi.cn
+0.0.0.0 inmobi.cn
+0.0.0.0 ns3.inmobi.cn
+0.0.0.0 sdkm.w.inmobi.cn
+0.0.0.0 sdktm.w.inmobi.cn
+0.0.0.0 supply-tool.inmobi.cn
+0.0.0.0 telemetry.sdk.inmobi.cn
+0.0.0.0 w.inmobi.cn
+0.0.0.0 w.vip.dfw2.inmobi.cn
+0.0.0.0 w.vip.pek1.inmobi.cn
+0.0.0.0 www.inmobi.cn
+#[inmobi.net]
+0.0.0.0 cdn.oem.inmobi.net
+0.0.0.0 go.inmobi.net
+0.0.0.0 indecode.inmobi.net
+0.0.0.0 inmobi.net
+0.0.0.0 resources.inmobi.net
+0.0.0.0 www.inmobi.net
+#[inmobicdn.net]
+0.0.0.0 adtools.inmobicdn.net
+0.0.0.0 cors-studio.inmobicdn.net
+0.0.0.0 fp.studio.inmobicdn.net
+0.0.0.0 g.g.l.inmobicdn.net
+0.0.0.0 glance.l.inmobicdn.net
+0.0.0.0 heisenberg.inmobicdn.net
+0.0.0.0 i.l.inmobicdn.net
+0.0.0.0 ifctpads.inmobicdn.net
+0.0.0.0 inmobiassets.inmobicdn.net
+0.0.0.0 inmobicdn.net
+0.0.0.0 ono.inmobicdn.net
+0.0.0.0 r.edge.inmobicdn.net
+0.0.0.0 redge.inmobicdn.net
+0.0.0.0 review.studio.inmobicdn.net
+0.0.0.0 s.g.l.inmobicdn.net
+0.0.0.0 sink.l.inmobicdn.net
+0.0.0.0 studio.inmobicdn.net
+0.0.0.0 t.g.l.inmobicdn.net
+0.0.0.0 uac-assets.inmobicdn.net
+0.0.0.0 v.g.l.inmobicdn.net
+0.0.0.0 website.inmobicdn.net
+0.0.0.0 x.g.l.inmobicdn.net
 #[blueserving]
 0.0.0.0 blueserving.com
 0.0.0.0 a.blueserving.com
@@ -4108,13 +4162,20 @@
 0.0.0.0 cfa.2mdnsys.com
 #[ucweb]
 0.0.0.0 adn.insight.ucweb.com
+0.0.0.0 click.union.ucweb.com
+0.0.0.0 gjapplog.ucweb.com
+0.0.0.0 gjtrack.ucweb.com
+0.0.0.0 insight.ucweb.com
+0.0.0.0 instory-log.ucnews.ucweb.com
+0.0.0.0 logserver.insight.ucweb.com
+0.0.0.0 puds.ucweb.com
+0.0.0.0 sdkupgrade.insight.ucweb.com
+0.0.0.0 uc.ucweb.com
+0.0.0.0 applog.uc.cn
 0.0.0.0 feedback.uc.cn
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gj.track.uc.cn
-0.0.0.0 gjtrack.ucweb.com
-0.0.0.0 instory-log.ucnews.ucweb.com
-0.0.0.0 logserver.insight.ucweb.com
-0.0.0.0 click.union.ucweb.com
+0.0.0.0 gjapplog.uc.cn
 0.0.0.0 woodpecker.uc.cn
 #[adsplay]
 0.0.0.0 log.adsplay.net
@@ -9278,29 +9339,6 @@
 0.0.0.0 assets.adxcorp.kr
 0.0.0.0 developer.adxcorp.kr
 0.0.0.0 www.adxcorp.kr
-#[inmobi.cn]
-0.0.0.0 api.inmobi.cn
-0.0.0.0 api.w.inmobi.cn
-0.0.0.0 au.w.inmobi.cn
-0.0.0.0 c.w.inmobi.cn
-0.0.0.0 c.w.vip.pek1.inmobi.cn
-0.0.0.0 c2s.w.inmobi.cn
-0.0.0.0 config.inmobi.cn
-0.0.0.0 et.w.inmobi.cn
-0.0.0.0 et.w.vip.pek1.inmobi.cn
-0.0.0.0 et2.w.inmobi.cn
-0.0.0.0 helix.inmobi.cn
-0.0.0.0 i.w.inmobi.cn
-0.0.0.0 inmobi.cn
-0.0.0.0 ns3.inmobi.cn
-0.0.0.0 sdkm.w.inmobi.cn
-0.0.0.0 sdktm.w.inmobi.cn
-0.0.0.0 supply-tool.inmobi.cn
-0.0.0.0 telemetry.sdk.inmobi.cn
-0.0.0.0 w.inmobi.cn
-0.0.0.0 w.vip.dfw2.inmobi.cn
-0.0.0.0 w.vip.pek1.inmobi.cn
-0.0.0.0 www.inmobi.cn
 #[logrocket.io]
 0.0.0.0 aks-test.logrocket.io
 0.0.0.0 assets.logrocket.io
@@ -11317,26 +11355,6 @@
 0.0.0.0 ums.adtechjp.com
 0.0.0.0 ums-toy.adtechjp.com
 0.0.0.0 www.adtechjp.com
-#[dable.io]
-0.0.0.0 ad-log.dable.io
-0.0.0.0 admin.dable.io
-0.0.0.0 adx.dable.io
-0.0.0.0 adxpd.dable.io
-0.0.0.0 api.dable.io
-0.0.0.0 dable.io
-0.0.0.0 demo.dable.io
-0.0.0.0 dsp.dable.io
-0.0.0.0 images.dable.io
-0.0.0.0 k8s.dable.io
-0.0.0.0 marketing.dable.io
-0.0.0.0 news.dable.io
-0.0.0.0 redirect.dable.io
-0.0.0.0 sp-api.dable.io
-0.0.0.0 sp-r.dable.io
-0.0.0.0 static.dable.io
-0.0.0.0 support.dable.io
-0.0.0.0 thumb.dable.io
-0.0.0.0 www.dable.io
 #[acuityplatform.com]
 0.0.0.0 acuityplatform.com
 0.0.0.0 bell-ads.acuityplatform.com
@@ -12956,6 +12974,92 @@
 0.0.0.0 staging-api.iperceptions.com
 0.0.0.0 universal.iperceptions.com
 0.0.0.0 www.iperceptions.com
+#[adop.cc]
+0.0.0.0 adop.cc
+0.0.0.0 adopdmp.adop.cc
+0.0.0.0 amp.adop.cc
+0.0.0.0 appinfo.adop.cc
+0.0.0.0 atom.adop.cc
+0.0.0.0 atomcdn.adop.cc
+0.0.0.0 atomlog.adop.cc
+0.0.0.0 atomvideolog.adop.cc
+0.0.0.0 compass.adop.cc
+0.0.0.0 compasscdn.adop.cc
+0.0.0.0 compasstest.adop.cc
+0.0.0.0 data.adop.cc
+0.0.0.0 dataapi.adop.cc
+0.0.0.0 demo.adop.cc
+0.0.0.0 dmp.adop.cc
+0.0.0.0 dmp2.adop.cc
+0.0.0.0 dmp3.adop.cc
+0.0.0.0 dmp4.adop.cc
+0.0.0.0 dsp.adop.cc
+0.0.0.0 exchange.adop.cc
+0.0.0.0 gcpcom.adop.cc
+0.0.0.0 insight.adop.cc
+0.0.0.0 log.adop.cc
+0.0.0.0 log2.adop.cc
+0.0.0.0 one.adop.cc
+0.0.0.0 travelholic.adop.cc
+0.0.0.0 www.adop.cc
+#[mon-thu*.life]
+0.0.0.0 mon-thu1.life
+0.0.0.0 mon-thu2.life
+0.0.0.0 mon-thu3.life
+0.0.0.0 mon-thu4.life
+0.0.0.0 mon-thu5.life
+0.0.0.0 mon-thu6.life
+0.0.0.0 mon-thu7.life
+0.0.0.0 mon-thu8.life
+0.0.0.0 mon-thu9.life
+#[revive-adserver.com]
+0.0.0.0 revive-adserver.com
+0.0.0.0 sync.revive-adserver.com
+0.0.0.0 www.revive-adserver.com
+#[djaxadserver.com]
+0.0.0.0 adexchange.djaxadserver.com
+0.0.0.0 adst.djaxadserver.com
+0.0.0.0 adstmanger.djaxadserver.com
+0.0.0.0 advertiseradserver.djaxadserver.com
+0.0.0.0 affiliate-demo.djaxadserver.com
+0.0.0.0 affiliates.djaxadserver.com
+0.0.0.0 disp.djaxadserver.com
+0.0.0.0 dispatchtest.djaxadserver.com
+0.0.0.0 display.djaxadserver.com
+0.0.0.0 djaxadserver.com
+0.0.0.0 dm.djaxadserver.com
+0.0.0.0 enterprise.djaxadserver.com
+0.0.0.0 enterprise-demo.djaxadserver.com
+0.0.0.0 enterprisertb.djaxadserver.com
+0.0.0.0 faq.djaxadserver.com
+0.0.0.0 mob.djaxadserver.com
+0.0.0.0 mobile.djaxadserver.com
+0.0.0.0 mobilesdk.djaxadserver.com
+0.0.0.0 mobilevideo.djaxadserver.com
+0.0.0.0 myron.mobile.djaxadserver.com
+0.0.0.0 native.djaxadserver.com
+0.0.0.0 premium-adserver.djaxadserver.com
+0.0.0.0 rtb.djaxadserver.com
+0.0.0.0 test.djaxadserver.com
+0.0.0.0 video.djaxadserver.com
+0.0.0.0 www.djaxadserver.com
+#[adnow.cc]
+0.0.0.0 adnow.cc
+0.0.0.0 dv.adnow.cc
+0.0.0.0 www.adnow.cc
+#[bilsyndication.com]
+0.0.0.0 alys.bilsyndication.com
+0.0.0.0 assets.bilsyndication.com
+0.0.0.0 bilsyndication.com
+0.0.0.0 biltag.bilsyndication.com
+0.0.0.0 logs.bilsyndication.com
+0.0.0.0 media.bilsyndication.com
+0.0.0.0 pb.bilsyndication.com
+0.0.0.0 services.bilsyndication.com
+0.0.0.0 st.bilsyndication.com
+0.0.0.0 static.bilsyndication.com
+0.0.0.0 stats.bilsyndication.com
+0.0.0.0 sync.bilsyndication.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13778,6 +13882,30 @@
 0.0.0.0 www.bidgear.com
 0.0.0.0 zabbix.bidgear.com
 0.0.0.0 bidgear-syndication.com
+#[sharks.vn]
+0.0.0.0 delivery.sharks.vn
+0.0.0.0 sharks.vn
+0.0.0.0 www.sharks.vn
+#[dable.io]
+0.0.0.0 ad-log.dable.io
+0.0.0.0 admin.dable.io
+0.0.0.0 adx.dable.io
+0.0.0.0 adxpd.dable.io
+0.0.0.0 api.dable.io
+0.0.0.0 dable.io
+0.0.0.0 demo.dable.io
+0.0.0.0 dsp.dable.io
+0.0.0.0 images.dable.io
+0.0.0.0 k8s.dable.io
+0.0.0.0 marketing.dable.io
+0.0.0.0 news.dable.io
+0.0.0.0 redirect.dable.io
+0.0.0.0 sp-api.dable.io
+0.0.0.0 sp-r.dable.io
+0.0.0.0 static.dable.io
+0.0.0.0 support.dable.io
+0.0.0.0 thumb.dable.io
+0.0.0.0 www.dable.io
 # --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com
@@ -14273,6 +14401,7 @@
 0.0.0.0 ad.turn.com
 0.0.0.0 ad.tv2.no
 0.0.0.0 ad.twitchguru.com
+0.0.0.0 ad.unimhk.com
 0.0.0.0 ad.usatoday.com
 0.0.0.0 ad.virtual-nights.com
 0.0.0.0 ad.watch.impress.co.jp
@@ -16602,6 +16731,7 @@
 0.0.0.0 namimedia.com
 0.0.0.0 nastydollars.com
 0.0.0.0 nativeadv.online
+0.0.0.0 nativepu.sh
 0.0.0.0 nativeroll.tv
 0.0.0.0 navigator.io
 0.0.0.0 navrcholu.cz
@@ -16807,7 +16937,6 @@
 0.0.0.0 picadmedia.com
 0.0.0.0 piet2eix3l.com
 0.0.0.0 pietexture.com
-0.0.0.0 piguiqproxy.com
 0.0.0.0 pillscash.com
 0.0.0.0 pimproll.com
 0.0.0.0 ping.ublock.org
@@ -17380,6 +17509,7 @@
 0.0.0.0 textads.opera.com
 0.0.0.0 textlinks.com
 0.0.0.0 tfag.de
+0.0.0.0 tharbadir.com
 0.0.0.0 theadex.com
 0.0.0.0 theadhost.com
 0.0.0.0 theads.me
@@ -18284,7 +18414,6 @@
 0.0.0.0 ghgmtcrluvghlwc91.com
 0.0.0.0 ghidneamt.ro
 0.0.0.0 gillingscamps.co.uk
-0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjysjl.com
 0.0.0.0 global.ymtracking.com
 0.0.0.0 globalnursesonline.com
@@ -18356,13 +18485,13 @@
 0.0.0.0 ifighi.net
 0.0.0.0 illaboratoriosrl.it
 0.0.0.0 im900.com
+0.0.0.0 images.dmca.com
 0.0.0.0 img.leadzutw.com
 0.0.0.0 img.securesoft.info
 0.0.0.0 indiatouragency.com
 0.0.0.0 indogator.com
 0.0.0.0 ink.churchofthefreespirit.com
 0.0.0.0 innatek.com
-0.0.0.0 insight.ucweb.com
 0.0.0.0 install.securesoft.info
 0.0.0.0 interfere.marionunezcampusano.com
 0.0.0.0 interior-examples.ru
@@ -18643,7 +18772,6 @@
 0.0.0.0 scoeyc.com
 0.0.0.0 scuolaartedanza.net
 0.0.0.0 sdk.analytiall.com
-0.0.0.0 sdkupgrade.insight.ucweb.com
 0.0.0.0 secure-softwaremanager.com
 0.0.0.0 securesoft.info
 0.0.0.0 selak.info
@@ -18843,6 +18971,7 @@
 0.0.0.0 www.softtube.cn
 0.0.0.0 www.soidc.com
 0.0.0.0 www.soperson.com
+0.0.0.0 www.statsforads.com
 0.0.0.0 www.stkjw.net
 0.0.0.0 www.summerhamster.com
 0.0.0.0 www.talk99.cn
@@ -18949,6 +19078,7 @@
 0.0.0.0 zhangtom1989.cn
 # --- Block cloudfront.net ---
 # Filtered from https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+#[adop.cc]
 0.0.0.0 d10g3hyu3zeg91.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d10lumateci472.cloudfront.net
@@ -19018,6 +19148,7 @@
 0.0.0.0 d1ssbq1bwjg5ux.cloudfront.net
 0.0.0.0 d1t9uctetvi0tu.cloudfront.net
 0.0.0.0 d1uanozc5el74n.cloudfront.net
+0.0.0.0 d1uw69x4c2zrim.cloudfront.net
 0.0.0.0 d1uy7uzra011au.cloudfront.net
 0.0.0.0 d1v6js7bjzmhoa.cloudfront.net
 0.0.0.0 d1vh0xkmncek4z.cloudfront.net
@@ -19049,6 +19180,7 @@
 0.0.0.0 d25ezbwokoefx6.cloudfront.net
 0.0.0.0 d269y12mnftu9c.cloudfront.net
 0.0.0.0 d26r15y2ken1t9.cloudfront.net
+0.0.0.0 d26tbbq8zqdi4v.cloudfront.net
 0.0.0.0 d27x580xb9ao1l.cloudfront.net
 0.0.0.0 d28g1fhp6rn9w3.cloudfront.net
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
@@ -19079,7 +19211,6 @@
 0.0.0.0 d2nrdy2pg3k168.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2nzjxafm0iowq.cloudfront.net
-0.0.0.0 d2o5idwacg3gyw.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oa97wrxvxm7y.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
@@ -19088,6 +19219,7 @@
 0.0.0.0 d2pxb4n3f9klsc.cloudfront.net
 0.0.0.0 d2q7mvwub8tmwf.cloudfront.net
 0.0.0.0 d2qmp7jjpd79k7.cloudfront.net
+0.0.0.0 d2r173wcohmi6.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
 0.0.0.0 d2so4705rl485y.cloudfront.net
@@ -19096,6 +19228,7 @@
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2ue9k1rhsumed.cloudfront.net
 0.0.0.0 d2va1d0hpla18n.cloudfront.net
+0.0.0.0 d2wbr3tthrn9lu.cloudfront.net
 0.0.0.0 d2wl3qmk54t3ha.cloudfront.net
 0.0.0.0 d2wpknqle9nuv8.cloudfront.net
 0.0.0.0 d2xgf76oeu9pbh.cloudfront.net
@@ -19115,7 +19248,6 @@
 0.0.0.0 d33im0067v833a.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d35r45qhjmgs3g.cloudfront.net
-0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36sxvmjoflc2i.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
@@ -19172,6 +19304,7 @@
 0.0.0.0 d4ax0r5detcsu.cloudfront.net
 0.0.0.0 d4ngwggzm3w7j.cloudfront.net
 0.0.0.0 d5i9o0tpq9sa1.cloudfront.net
+0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 d5ou3dytze6uf.cloudfront.net
 0.0.0.0 d60y8cj1tje2a.cloudfront.net
 0.0.0.0 d63a3au5lqmtu.cloudfront.net
@@ -19229,6 +19362,7 @@
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 dp1fzft1fdb84.cloudfront.net
 0.0.0.0 dpz55hrzd89zs.cloudfront.net
+0.0.0.0 dql2sdu63f1cw.cloudfront.net
 0.0.0.0 dqqulesm3pfse.cloudfront.net
 0.0.0.0 dr3k6qonw2kee.cloudfront.net
 0.0.0.0 drda5yf9kgz5p.cloudfront.net

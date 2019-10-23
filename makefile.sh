@@ -37,8 +37,8 @@ mv tmp/domain.txt option/
 echo "Creating temp file..."
 # create adserver files
 cat source/adservers.txt | grep -v '!' | awk '{print $1}' >> tmp/adservers.tmp
-cat source/adservers-all.txt tmp/cloudfront-domain.tmp | grep -v '!' |awk '{print $1}' >> tmp/adservers-all.tmp
-cat source/adservers-extra.txt | grep -v '!' |awk '{print $1}' >> tmp/adservers-extra.tmp
+cat source/adservers-all.txt | grep -v '!' |awk '{print $1}' >> tmp/adservers-all.tmp
+cat source/adservers-extra.txt  tmp/cloudfront-domain.tmp | grep -v '!' |awk '{print $1}' >> tmp/adservers-extra.tmp
 
 # create rule & config files
 cat tmp/adservers.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-rule.tmp

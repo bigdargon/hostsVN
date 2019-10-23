@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 14 Oct 2019 15:37 UTC+7
-! Blocked: 5,971 rules
+! Last modified: 23 Oct 2019 14:13 UTC+7
+! Blocked: 5,996 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -35,6 +35,7 @@
 ||cityads.com^
 ||cleverads.vn^
 ||cokhach.com^
+||dable.io^
 ||dsmartvietnam.com^
 ||eclick.vn^
 ||ezimar.com^
@@ -75,6 +76,7 @@
 ||qc.coccoc.vn^
 ||qccoccocmedia.vn^
 ||rungrinh.vn^
+||sharks.vn^
 ||shop-cdn.coccoc.com^
 ||shop.zalo.me^
 ||shopping.coccoc.com^
@@ -317,9 +319,11 @@
 ||admob.com^
 ||adnetasia.com^
 ||adnetworktech.com^
+||adnow.cc^
 ||adnow.com^
 ||adnxs.com^
 ||adomik.com^
+||adop.cc^
 ||adoptimize.com^
 ||adoptimize.info^
 ||adpushup.com^
@@ -460,6 +464,7 @@
 ||bidr.io^
 ||bidswitch.net^
 ||bigclicker.me^
+||bilsyndication.com^
 ||bizible.com^
 ||bj1*.online^
 ||blueseed.tv^
@@ -492,6 +497,7 @@
 ||cj1*.online^
 ||clean.gg^
 ||clevertap.com^
+||click.union.ucweb.com^
 ||clickagy.com^
 ||clickhubs.com^
 ||clickintext.net^
@@ -522,9 +528,9 @@
 ||criteo.com^
 ||criteo.net^
 ||crwdcntrl.net^
+||csi.gstatic.com^
 ||customad.cnn.com^
 ||cxense.com^
-||dable.io^
 ||data.alexa.com^
 ||demandbase.com^
 ||demdex.net^
@@ -533,6 +539,7 @@
 ||dfnb-ads.com^
 ||displayads-formats.googleusercontent.com^
 ||dj1*.online^
+||djaxadserver.com^
 ||dm-event.net^
 ||dotomi.com^
 ||doubleclick.net^
@@ -549,6 +556,7 @@
 ||ematicsolutions.com^
 ||engageya.com^
 ||epom.com^
+||events.data.microsoft.com^
 ||everesttech.net^
 ||evidon.com^
 ||exdynsrv.com^
@@ -573,6 +581,8 @@
 ||getblueshift.com^
 ||getclicky.com^
 ||gigya.com^
+||gjapplog.ucweb.com^
+||gjtrack.ucweb.com^
 ||glispa.com^
 ||go-mpulse.net^
 ||google-analytics.com^
@@ -607,9 +617,12 @@
 ||informer.yandex.ru^
 ||inmobi.cn^
 ||inmobi.com^
+||inmobi.net^
+||inmobicdn.net^
 ||inner-active.mobi^
 ||innity.com^
 ||innity.net^
+||insight.ucweb.com^
 ||insightexpressai.com^
 ||instapage.com^
 ||instartlogic.com^
@@ -671,6 +684,7 @@
 ||medialytics.com^
 ||mediarithmics.com^
 ||mediawayss.com^
+||meter-svc.nytimes.com^
 ||metrics.cnn.com^
 ||mgid.com^
 ||mi.gdt.qq.com^
@@ -694,6 +708,7 @@
 ||moengage.com^
 ||mojiva.com^
 ||mon*.byteoversea.com^
+||mon-thu*.life^
 ||mon.tiktokv.com^
 ||mookie1.com^
 ||mopub.com^
@@ -741,6 +756,7 @@
 ||persona.ly^
 ||piano.io^
 ||pingma.qq.com^
+||pipe.aria.microsoft.com^
 ||pixel-static.spotify.com^
 ||pixel.facebook.com^
 ||pixel.spotify.com^
@@ -761,6 +777,7 @@
 ||pub.network^
 ||pubmatic.com^
 ||pubnative.net^
+||puds.ucweb.com^
 ||pushwoosh.com^
 ||qualtrics.com^
 ||quantserve.com^
@@ -773,6 +790,7 @@
 ||remotead-internal.cnet.com^
 ||remotead.cnet.com^
 ||revcontent.com^
+||revive-adserver.com^
 ||rfihub.com^
 ||rtbid.me^
 ||rubiconproject.com^
@@ -846,6 +864,7 @@
 ||tru.am^
 ||tune.com^
 ||tynt.com^
+||uc.ucweb.com^
 ||ugdturner.com^
 ||umeng.co^
 ||umeng.com^
@@ -863,6 +882,8 @@
 ||viglink.com^
 ||vntsm.com^
 ||voicefive.com^
+||vortex-win.data.microsoft.com^
+||vortex.data.microsoft.com^
 ||vserv.mobi^
 ||vungle.com^
 ||w88.go.com^
@@ -1075,6 +1096,7 @@
 ||ad.turn.com^
 ||ad.tv2.no^
 ||ad.twitchguru.com^
+||ad.unimhk.com^
 ||ad.usatoday.com^
 ||ad.virtual-nights.com^
 ||ad.watch.impress.co.jp^
@@ -3406,6 +3428,7 @@
 ||namimedia.com^
 ||nastydollars.com^
 ||nativeadv.online^
+||nativepu.sh^
 ||nativeroll.tv^
 ||navigator.io^
 ||navrcholu.cz^
@@ -3612,7 +3635,6 @@
 ||picadmedia.com^
 ||piet2eix3l.com^
 ||pietexture.com^
-||piguiqproxy.com^
 ||pillscash.com^
 ||pimproll.com^
 ||ping.ublock.org^
@@ -4184,6 +4206,7 @@
 ||textads.opera.com^
 ||textlinks.com^
 ||tfag.de^
+||tharbadir.com^
 ||theadex.com^
 ||theadhost.com^
 ||theads.me^
@@ -5040,7 +5063,6 @@
 ||ghgmtcrluvghlwc91.com^
 ||ghidneamt.ro^
 ||gillingscamps.co.uk^
-||gjapplog.uc.cn^
 ||gjysjl.com^
 ||global.ymtracking.com^
 ||globalnursesonline.com^
@@ -5113,6 +5135,7 @@
 ||ifighi.net^
 ||illaboratoriosrl.it^
 ||im900.com^
+||images.dmca.com^
 ||img.leadzutw.com^
 ||img.securesoft.info^
 ||indiatouragency.com^
@@ -5120,7 +5143,6 @@
 ||infoaz.nl^
 ||ink.churchofthefreespirit.com^
 ||innatek.com^
-||insight.ucweb.com^
 ||install.securesoft.info^
 ||interfere.marionunezcampusano.com^
 ||interior-examples.ru^
@@ -5406,7 +5428,6 @@
 ||scoeyc.com^
 ||scuolaartedanza.net^
 ||sdk.analytiall.com^
-||sdkupgrade.insight.ucweb.com^
 ||secure-softwaremanager.com^
 ||securesoft.info^
 ||selak.info^
@@ -5664,6 +5685,9 @@
 ||view-apple.com^
 ||view-appleid.com^
 ||zhangtom1989.cn^
+||connect.facebook.net^
+||s.update.fbsbx.com^
+||t.update.fbsbx.com^
 ||d10g3hyu3zeg91.cloudfront.net^
 ||d10lpsik1i8c69.cloudfront.net^
 ||d10lumateci472.cloudfront.net^
@@ -5733,6 +5757,7 @@
 ||d1ssbq1bwjg5ux.cloudfront.net^
 ||d1t9uctetvi0tu.cloudfront.net^
 ||d1uanozc5el74n.cloudfront.net^
+||d1uw69x4c2zrim.cloudfront.net^
 ||d1uy7uzra011au.cloudfront.net^
 ||d1v6js7bjzmhoa.cloudfront.net^
 ||d1vh0xkmncek4z.cloudfront.net^
@@ -5764,6 +5789,7 @@
 ||d25ezbwokoefx6.cloudfront.net^
 ||d269y12mnftu9c.cloudfront.net^
 ||d26r15y2ken1t9.cloudfront.net^
+||d26tbbq8zqdi4v.cloudfront.net^
 ||d27x580xb9ao1l.cloudfront.net^
 ||d28g1fhp6rn9w3.cloudfront.net^
 ||d28g9g3vb08y70.cloudfront.net^
@@ -5794,7 +5820,6 @@
 ||d2nrdy2pg3k168.cloudfront.net^
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d2nzjxafm0iowq.cloudfront.net^
-||d2o5idwacg3gyw.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oa97wrxvxm7y.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
@@ -5803,6 +5828,7 @@
 ||d2pxb4n3f9klsc.cloudfront.net^
 ||d2q7mvwub8tmwf.cloudfront.net^
 ||d2qmp7jjpd79k7.cloudfront.net^
+||d2r173wcohmi6.cloudfront.net^
 ||d2ry9vue95px0b.cloudfront.net^
 ||d2san7t27xb2pn.cloudfront.net^
 ||d2so4705rl485y.cloudfront.net^
@@ -5811,6 +5837,7 @@
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2ue9k1rhsumed.cloudfront.net^
 ||d2va1d0hpla18n.cloudfront.net^
+||d2wbr3tthrn9lu.cloudfront.net^
 ||d2wl3qmk54t3ha.cloudfront.net^
 ||d2wpknqle9nuv8.cloudfront.net^
 ||d2xgf76oeu9pbh.cloudfront.net^
@@ -5830,7 +5857,6 @@
 ||d33im0067v833a.cloudfront.net^
 ||d34ko97cxuv4p7.cloudfront.net^
 ||d35r45qhjmgs3g.cloudfront.net^
-||d35u1vg1q28b3w.cloudfront.net^
 ||d36lvucg9kzous.cloudfront.net^
 ||d36sxvmjoflc2i.cloudfront.net^
 ||d36wtdrdo22bqa.cloudfront.net^
@@ -5887,6 +5913,7 @@
 ||d4ax0r5detcsu.cloudfront.net^
 ||d4ngwggzm3w7j.cloudfront.net^
 ||d5i9o0tpq9sa1.cloudfront.net^
+||d5nxst8fruw4z.cloudfront.net^
 ||d5ou3dytze6uf.cloudfront.net^
 ||d60y8cj1tje2a.cloudfront.net^
 ||d63a3au5lqmtu.cloudfront.net^
@@ -5944,6 +5971,7 @@
 ||doug1izaerwt3.cloudfront.net^
 ||dp1fzft1fdb84.cloudfront.net^
 ||dpz55hrzd89zs.cloudfront.net^
+||dql2sdu63f1cw.cloudfront.net^
 ||dqqulesm3pfse.cloudfront.net^
 ||dr3k6qonw2kee.cloudfront.net^
 ||drda5yf9kgz5p.cloudfront.net^
@@ -5971,6 +5999,3 @@
 ||dzpu6za66svjl.cloudfront.net^
 ||dzs55b7slwyx.cloudfront.net^
 ||dzxxxg6ij9u99.cloudfront.net^
-||connect.facebook.net^
-||s.update.fbsbx.com^
-||t.update.fbsbx.com^
