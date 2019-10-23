@@ -46,15 +46,9 @@ cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{prin
 cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adservers-config.tmp
 
 # create quantumult rule
-echo "[filter_local]" >> tmp/hostsVN-quantumultX-rule.conf
-cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "host-suffix, "$1", reject"}' >> tmp/hostsVN-quantumultX-rule.conf
-echo "final, direct" >> tmp/hostsVN-quantumultX-rule.conf
-mv tmp/hostsVN-quantumultX-rule.conf option/
-
-echo "[TCP]" >> tmp/hostsVN-quantumult-rule.conf
-cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "HOST-SUFFIX,"$1",REJECT"}' >> tmp/hostsVN-quantumult-rule.conf
-echo "FINAL,DIRECT" >> tmp/hostsVN-quantumult-rule.conf
-mv tmp/hostsVN-quantumult-rule.conf option/
+cat source/config-rule.txt | awk '{print "HOST-KEYWORD,"$1",REJECT"}' > option/hostsVN-quantumult-rule.conf
+cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "HOST-SUFFIX,"$1",REJECT"}' >> option/hostsVN-quantumult-rule.conf
+echo "FINAL,DIRECT" >> option/hostsVN-quantumult-rule.conf
 
 echo "Adding to file..."
 # add to files
