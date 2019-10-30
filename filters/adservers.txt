@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 23 Oct 2019 16:18 UTC+7
-! Blocked: 263 rules
+! Last modified: 30 Oct 2019 11:10 UTC+7
+! Blocked: 267 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -8,6 +8,8 @@
 ||ad.org.vn^
 ||ad.zing.vn^
 ||ad360.vn^
+||adasiaholdings.com^
+||adbro.me^
 ||admicro*.vcmedia.com^
 ||admicro*.vcmedia.vn^
 ||admicro.vn^
@@ -33,6 +35,7 @@
 ||bidgear.com^
 ||cdn.comedia.coccoc.com^
 ||cityads.com^
+||cityadstrack.com^
 ||cleverads.vn^
 ||cokhach.com^
 ||dable.io^
@@ -117,6 +120,7 @@
 ||ads.careerbuilder.vn^
 ||ads.home.vn^
 ||ads.ictnews.vn^
+||ads.itsgroup.vn^
 ||ads.tiki.vn^
 ||adserver.lag.vn^
 ||adsplus.vn^

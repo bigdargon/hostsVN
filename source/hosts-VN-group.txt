@@ -701,6 +701,9 @@
 0.0.0.0 userdocs.cityads.com
 0.0.0.0 wp-cdn.cityads.com
 0.0.0.0 www.cityads.com
+0.0.0.0 cityadstrack.com
+0.0.0.0 p.cityadstrack.com
+0.0.0.0 stats.cityadstrack.com
 #[adsota]
 0.0.0.0 ads.appota.com
 0.0.0.0 adsota.com
@@ -844,3 +847,26 @@
 0.0.0.0 support.dable.io
 0.0.0.0 thumb.dable.io
 0.0.0.0 www.dable.io
+#[adbro]
+0.0.0.0 adbro.me
+0.0.0.0 api.adbro.me
+0.0.0.0 apis.adbro.me
+0.0.0.0 cdn.adbro.me
+0.0.0.0 portal.adbro.me
+#[adasiaholdings]
+0.0.0.0 adasiaholdings.com
+0.0.0.0 adnetwork.adasiaholdings.com
+0.0.0.0 adpa-dooh-prod-vpn.adasiaholdings.com
+0.0.0.0 adpa.adasiaholdings.com
+0.0.0.0 ads.adasiaholdings.com
+0.0.0.0 advertisers.adasiaholdings.com
+0.0.0.0 apm.adasiaholdings.com
+0.0.0.0 bls.adasiaholdings.com
+0.0.0.0 cdn.adasiaholdings.com
+0.0.0.0 desk.adasiaholdings.com
+0.0.0.0 dev-desk.adasiaholdings.com
+0.0.0.0 media.adasiaholdings.com
+0.0.0.0 pixel.adasiaholdings.com
+0.0.0.0 publishers.adasiaholdings.com
+0.0.0.0 tags.adasiaholdings.com
+0.0.0.0 www.adasiaholdings.com
