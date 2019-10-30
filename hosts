@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 30 Oct 2019 11:10 UTC+7
-# Blocked: 18,988 domains
+# Last modified: 30 Oct 2019 11:54 UTC+7
+# Blocked: 19,075 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13187,6 +13187,91 @@
 0.0.0.0 pubmine.com
 0.0.0.0 s.pubmine.com
 0.0.0.0 www.pubmine.com
+#[safedk.com]
+0.0.0.0 api.safedk.com
+0.0.0.0 blog.safedk.com
+0.0.0.0 brand.safedk.com
+0.0.0.0 config.safedk.com
+0.0.0.0 dashboard.safedk.com
+0.0.0.0 gdpr.safedk.com
+0.0.0.0 mobile-sdk-data-trends.safedk.com
+0.0.0.0 mp.safedk.com
+0.0.0.0 pr.safedk.com
+0.0.0.0 press.safedk.com
+0.0.0.0 safedk.com
+0.0.0.0 www.safedk.com
+#[izooto.com]
+0.0.0.0 acr.izooto.com
+0.0.0.0 adarsh.izooto.com
+0.0.0.0 adventure.izooto.com
+0.0.0.0 aevents.izooto.com
+0.0.0.0 aman3.izooto.com
+0.0.0.0 api.izooto.com
+0.0.0.0 apis.izooto.com
+0.0.0.0 assion.izooto.com
+0.0.0.0 bajaao.izooto.com
+0.0.0.0 beautyhooked.izooto.com
+0.0.0.0 blog.izooto.com
+0.0.0.0 bwcio.izooto.com
+0.0.0.0 campaign.izooto.com
+0.0.0.0 cdn.izooto.com
+0.0.0.0 cdnimg.izooto.com
+0.0.0.0 ckr.izooto.com
+0.0.0.0 clk.izooto.com
+0.0.0.0 clk5.izooto.com
+0.0.0.0 community.izooto.com
+0.0.0.0 couponcenter.izooto.com
+0.0.0.0 cpnr.izooto.com
+0.0.0.0 cs.izooto.com
+0.0.0.0 chat.izooto.com
+0.0.0.0 dinamani.izooto.com
+0.0.0.0 dnaindia.izooto.com
+0.0.0.0 dnir.izooto.com
+0.0.0.0 dogreen.izooto.com
+0.0.0.0 enp.izooto.com
+0.0.0.0 enu.izooto.com
+0.0.0.0 erd.izooto.com
+0.0.0.0 err.izooto.com
+0.0.0.0 et.izooto.com
+0.0.0.0 ev.izooto.com
+0.0.0.0 events.izooto.com
+0.0.0.0 evt.izooto.com
+0.0.0.0 expr.izooto.com
+0.0.0.0 fetch.izooto.com
+0.0.0.0 fpr.izooto.com
+0.0.0.0 idp.izooto.com
+0.0.0.0 imp.izooto.com
+0.0.0.0 impr.izooto.com
+0.0.0.0 izooto.com
+0.0.0.0 jsr.izooto.com
+0.0.0.0 lvi.izooto.com
+0.0.0.0 mnr.izooto.com
+0.0.0.0 mobileconnect.izooto.com
+0.0.0.0 nwr.izooto.com
+0.0.0.0 obis.izooto.com
+0.0.0.0 oth.izooto.com
+0.0.0.0 panel.izooto.com
+0.0.0.0 pers.izooto.com
+0.0.0.0 pp.izooto.com
+0.0.0.0 pr-g.izooto.com
+0.0.0.0 prp.izooto.com
+0.0.0.0 prv.izooto.com
+0.0.0.0 rapi.izooto.com
+0.0.0.0 rltr.izooto.com
+0.0.0.0 route.izooto.com
+0.0.0.0 safari.izooto.com
+0.0.0.0 sbp.izooto.com
+0.0.0.0 sbpd.izooto.com
+0.0.0.0 shopelect.izooto.com
+0.0.0.0 ss.izooto.com
+0.0.0.0 sw.izooto.com
+0.0.0.0 tclr.izooto.com
+0.0.0.0 tracking.izooto.com
+0.0.0.0 trg.izooto.com
+0.0.0.0 uneidou.izooto.com
+0.0.0.0 usub.izooto.com
+0.0.0.0 vr.izooto.com
+0.0.0.0 www.izooto.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -18259,6 +18344,8 @@
 0.0.0.0 appimmobilier.com
 0.0.0.0 applog.camera360.com
 0.0.0.0 appres.camera360.com
+0.0.0.0 apps.outfit7.com
+0.0.0.0 apps2.outfit7.com
 0.0.0.0 aquapuremultiservicios.es
 0.0.0.0 ar.tns-counter.ru
 0.0.0.0 argentinaglobalwines.com
@@ -18644,6 +18731,8 @@
 0.0.0.0 ink.churchofthefreespirit.com
 0.0.0.0 innatek.com
 0.0.0.0 install.securesoft.info
+0.0.0.0 intercom.io
+0.0.0.0 intercomcdn.com
 0.0.0.0 interfere.marionunezcampusano.com
 0.0.0.0 interior-examples.ru
 0.0.0.0 interstitial.powered-by.securesoft.info

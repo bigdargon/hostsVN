@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 30 Oct 2019 11:10 UTC+7
-! Blocked: 6,013 rules
+! Last modified: 30 Oct 2019 11:54 UTC+7
+! Blocked: 6,019 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -641,6 +641,7 @@
 ||iperceptions.com^
 ||ipstatp.com^
 ||isnssdk.com^
+||izooto.com^
 ||jetlore.com^
 ||jpush.cn^
 ||js.mobojoy.baidu.com^
@@ -809,6 +810,7 @@
 ||rubiconproject.com^
 ||run-syndicate.com^
 ||runative.com^
+||safedk.com^
 ||samba.tv^
 ||scanscout.com^
 ||scorecardresearch.com^
@@ -4769,6 +4771,8 @@
 ||appimmobilier.com^
 ||applog.camera360.com^
 ||appres.camera360.com^
+||apps.outfit7.com^
+||apps2.outfit7.com^
 ||aquapuremultiservicios.es^
 ||ar.tns-counter.ru^
 ||argentinaglobalwines.com^
@@ -5158,6 +5162,8 @@
 ||ink.churchofthefreespirit.com^
 ||innatek.com^
 ||install.securesoft.info^
+||intercom.io^
+||intercomcdn.com^
 ||interfere.marionunezcampusano.com^
 ||interior-examples.ru^
 ||interstitial.powered-by.securesoft.info^
