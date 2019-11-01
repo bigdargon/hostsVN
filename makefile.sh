@@ -1,29 +1,23 @@
 #!/bin/sh
 
-echo "Filtering data..."
-# filtering cloudfront form AdGuardSDNSFilter
-curl -s https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt | cat | grep -v '!' | grep "cloudfront.net" | sed 's/||//' | sed 's/\^//' | awk '{print "0.0.0.0 "$1}' > tmp/cloudfront.tmp
-cat source/hosts-cloudfront.txt tmp/cloudfront.tmp | sort | uniq > tmp/cloudfront-hosts.tmp
-cat tmp/cloudfront-hosts.tmp | grep -v '#' | grep "0.0.0.0" | awk '{print $2}' >> tmp/cloudfront-domain.tmp
-
 echo "Making titles..."
 # make time stamp & count blocked
 TIME_STAMP=`date +'%d %b %Y %H:%M'`
-DOMAIN=$(printf "%'.f\n" $(cat source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt tmp/cloudfront-hosts.tmp | grep "0.0.0.0" | wc -l))
+DOMAIN=$(printf "%'.f\n" $(cat source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt | grep "0.0.0.0" | wc -l))
 DOMAIN_VN=$(printf "%'.f\n" $(cat source/hosts-VN-group.txt source/hosts-VN.txt | grep "0.0.0.0" | wc -l))
-RULE=$(printf "%'.f\n" $(cat source/adservers.txt source/adservers-all.txt source/adservers-extra.txt tmp/cloudfront-domain.tmp | grep -v '!' | wc -l))
+RULE=$(printf "%'.f\n" $(cat source/adservers.txt source/adservers-all.txt source/adservers-extra.txt | grep -v '!' | wc -l))
 RULE_VN=$(printf "%'.f\n" $(cat source/adservers.txt | grep -v '!' | wc -l))
 
 # update titles
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_rule_vn_/$RULE_VN/g" tmp/title-adserver.txt > tmp/title-adserver.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_rule_/$RULE/g" tmp/title-adserver-all.txt > tmp/title-adserver-all.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts.txt > tmp/title-hosts.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts-iOS.txt > tmp/title-hosts-iOS.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_domain_vn_/$DOMAIN_VN/g" tmp/title-hosts-VN.txt > tmp/title-hosts-VN.tmp
+sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_rule_/$RULE/g" tmp/title-adserver-all.txt > tmp/title-adserver-all.tmp
+sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_rule_vn_/$RULE_VN/g" tmp/title-adserver.txt > tmp/title-adserver.tmp
 
 echo "Creating hosts file..."
 # create hosts files
-cat tmp/title-hosts.tmp source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt tmp/cloudfront-hosts.tmp > hosts
+cat tmp/title-hosts.tmp source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt > hosts
 cat tmp/title-hosts-VN.tmp source/hosts-VN-group.txt source/hosts-VN.txt > option/hosts-VN
 
 # create hosts-iOS file
@@ -34,29 +28,43 @@ cat tmp/title-hosts-iOS.tmp tmp/hosts-iOS.tmp > option/hosts-iOS
 cat hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' >> tmp/domain.txt
 mv tmp/domain.txt option/
 
-echo "Creating temp file..."
-# create adserver files
+echo "Creating adserver file..."
+# create temp adserver files
 cat source/adservers.txt | grep -v '!' | awk '{print $1}' >> tmp/adservers.tmp
 cat source/adservers-all.txt | grep -v '!' |awk '{print $1}' >> tmp/adservers-all.tmp
-cat source/adservers-extra.txt  tmp/cloudfront-domain.tmp | grep -v '!' |awk '{print $1}' >> tmp/adservers-extra.tmp
+cat source/adservers-extra.txt | grep -v '!' |awk '{print $1}' >> tmp/adservers-extra.tmp
 
-# create rule & config files
+# create adserver files
 cat tmp/adservers.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-rule.tmp
 cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-all-rule.tmp
 cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adservers-config.tmp
 
-# create quantumult rule
+echo "Creating config file..."
+# create rule
 cat source/config-rule.txt | awk '{print "HOST-KEYWORD,"$1",REJECT"}' > option/hostsVN-quantumult-rule.conf
 cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "HOST-SUFFIX,"$1",REJECT"}' >> option/hostsVN-quantumult-rule.conf
-echo "FINAL,DIRECT" >> option/hostsVN-quantumult-rule.conf
+cat source/config-rule.txt | awk '{print "DOMAIN-KEYWORD,"$1}' > option/hostsVN-surge-rule.conf
+cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' >> option/hostsVN-surge-rule.conf
+
+# create rewrite
+cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1}' > option/hostsVN-quantumult-rejection.conf
+cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" - reject"}' >> tmp/rewrite-surge.tmp
+cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" url 302 http://google.com/generate_204"}' >> tmp/rewrite-quantumultX.tmp
+
+# create config
+HOSTNAME=$(cat source/config-hostname.txt)
+sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rewrite_surge_/r tmp/rewrite-surge.tmp' -e '/!_rewrite_surge_/d' tmp/title-config-surge.txt > tmp/title-config-surge.tmp
+sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rewrite_quantumultX_/r tmp/rewrite-quantumultX.tmp' -e '/!_rewrite_quantumultX_/d' tmp/title-config-quantumultX.txt > option/hostsVN-quantumultX.conf
+sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rejection_quantumult_/r option/hostsVN-quantumult-rejection.conf' -e '/!_rejection_quantumult_/d' -e '/!_rule_quantumult_/r option/hostsVN-quantumult-rule.conf' -e '/!_rule_quantumult_/d' tmp/title-config-quantumult.txt > option/hostsVN-quantumult.conf
+
 
 echo "Adding to file..."
 # add to files
 cat tmp/title-adserver.tmp tmp/adservers-rule.tmp > filters/adservers.txt
 cat tmp/title-adserver-all.tmp tmp/adservers-all-rule.tmp > filters/adservers-all.txt
 cat tmp/title-adserver-all.tmp tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp > filters/domain-adservers-all.txt
-cat tmp/title-config-surge.txt tmp/adservers-config.tmp > option/hostsVN.conf
-cat tmp/title-config-quantumult.txt tmp/adservers-config.tmp > option/hostsVN-quantumult.conf
+cat tmp/title-config-surge.tmp tmp/adservers-config.tmp > option/hostsVN.conf
+#cat tmp/title-config-quantumult.txt tmp/adservers-config.tmp > option/hostsVN-quantumult.conf
 
 # remove tmp file
 rm -rf tmp/*.tmp
