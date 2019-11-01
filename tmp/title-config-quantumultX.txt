@@ -9,7 +9,7 @@ server=8.8.8.8
 [server_remote]
 
 [filter_remote]
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-rule.conf, tag=hostsVN, force-policy=reject,enabled=true
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-rule.conf, tag=hostsVN, force-policy=reject, enabled=true
 
 [rewrite_remote]
 

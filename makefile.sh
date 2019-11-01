@@ -49,7 +49,7 @@ cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' >
 # create rewrite
 cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1}' > option/hostsVN-quantumult-rejection.conf
 cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" - reject"}' >> tmp/rewrite-surge.tmp
-cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" url 302 http://google.com/generate_204"}' >> tmp/rewrite-quantumultX.tmp
+cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" url reject-img"}' >> tmp/rewrite-quantumultX.tmp
 
 # create config
 HOSTNAME=$(cat source/config-hostname.txt)
