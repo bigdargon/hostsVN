@@ -48,14 +48,14 @@ cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' >
 
 # create rewrite
 cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1}' > option/hostsVN-quantumult-rejection.conf
-cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" - reject"}' >> tmp/rewrite-surge.tmp
-cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" url reject-img"}' >> tmp/rewrite-quantumultX.tmp
+cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" - reject"}' > tmp/rewrite-surge.tmp
+cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" url reject-img"}' > option/hostsVN-quantumultX-rewrite.conf
 
 # create config
 HOSTNAME=$(cat source/config-hostname.txt)
-sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rewrite_surge_/r tmp/rewrite-surge.tmp' -e '/!_rewrite_surge_/d' tmp/title-config-surge.txt > tmp/title-config-surge.tmp
-sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rewrite_quantumultX_/r tmp/rewrite-quantumultX.tmp' -e '/!_rewrite_quantumultX_/d' tmp/title-config-quantumultX.txt > option/hostsVN-quantumultX.conf
+sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-quantumultX.txt > option/hostsVN-quantumultX.conf
 sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rejection_quantumult_/r option/hostsVN-quantumult-rejection.conf' -e '/!_rejection_quantumult_/d' -e '/!_rule_quantumult_/r option/hostsVN-quantumult-rule.conf' -e '/!_rule_quantumult_/d' tmp/title-config-quantumult.txt > option/hostsVN-quantumult.conf
+sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rewrite_surge_/r tmp/rewrite-surge.tmp' -e '/!_rewrite_surge_/d' tmp/title-config-surge.txt > tmp/title-config-surge.tmp
 
 
 echo "Adding to file..."

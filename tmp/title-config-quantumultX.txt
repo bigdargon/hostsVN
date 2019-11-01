@@ -12,6 +12,7 @@ server=8.8.8.8
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-rule.conf, tag=hostsVN, force-policy=reject, enabled=true
 
 [rewrite_remote]
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX-rewrite.conf, tag=hostsVN, enabled=true
 
 [server_local]
 shadowsocks=127.0.0.1:80, method=none, password=password, fast-open=false, udp-relay=false, tag=localhost
