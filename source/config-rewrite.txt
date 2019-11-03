@@ -1,9 +1,6 @@
 #all
 ^https?:\/\/(\w+\.)?(ads|adserver|uniad|ad-|pagead|adformat|log\w?|tj|tongji|analysis|stat|stats|statis|trace|track|tracking|click)\.\w+\.(com|cn|org|info|io|net|vn)
 
-#apple
-^http?://ocsp.apple.com/*
-
 #facebook
 ^https?://graph.facebook.com/network_ads_common/*
 ^https?://graph.facebook.com/.+activities
