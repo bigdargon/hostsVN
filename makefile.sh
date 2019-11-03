@@ -45,26 +45,28 @@ cat source/config-rule.txt | awk '{print "HOST-KEYWORD,"$1",REJECT"}' > option/h
 cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "HOST-SUFFIX,"$1",REJECT"}' >> option/hostsVN-quantumult-rule.conf
 cat source/config-rule.txt | awk '{print "DOMAIN-KEYWORD,"$1}' > option/hostsVN-surge-rule.conf
 cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' >> option/hostsVN-surge-rule.conf
+cat source/config-rule.txt | awk '{print "DOMAIN-KEYWORD,"$1",REJECT"}' > tmp/shadowrocket-rule.tmp
+cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "DOMAIN-SUFFIX,"$1",REJECT"}' >> tmp/shadowrocket-rule.tmp
 
 # create rewrite
 cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1}' > option/hostsVN-quantumult-rejection.conf
 cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" - reject"}' > tmp/rewrite-surge.tmp
+cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" reject"}' > tmp/rewrite-shadowrocket.tmp
 cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" url reject-img"}' > option/hostsVN-quantumultX-rewrite.conf
 
 # create config
 HOSTNAME=$(cat source/config-hostname.txt)
 sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-quantumultX.txt > option/hostsVN-quantumultX.conf
 sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rejection_quantumult_/r option/hostsVN-quantumult-rejection.conf' -e '/!_rejection_quantumult_/d' -e '/!_rule_quantumult_/r option/hostsVN-quantumult-rule.conf' -e '/!_rule_quantumult_/d' tmp/title-config-quantumult.txt > option/hostsVN-quantumult.conf
-sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rewrite_surge_/r tmp/rewrite-surge.tmp' -e '/!_rewrite_surge_/d' tmp/title-config-surge.txt > tmp/title-config-surge.tmp
-
+sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rewrite_shadowrocket_/r tmp/rewrite-shadowrocket.tmp' -e '/!_rewrite_shadowrocket_/d' -e '/!_rule_shadowrocket_/r tmp/shadowrocket-rule.tmp' -e '/!_rule_shadowrocket_/d' tmp/title-config-shadowrocket.txt > option/hostsVN-shadowrocket.conf
+sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rewrite_surge_/r tmp/rewrite-surge.tmp' -e '/!_rewrite_surge_/d' tmp/title-config-surge-pro.txt > option/hostsVN-surge-pro.conf
 
 echo "Adding to file..."
 # add to files
 cat tmp/title-adserver.tmp tmp/adservers-rule.tmp > filters/adservers.txt
 cat tmp/title-adserver-all.tmp tmp/adservers-all-rule.tmp > filters/adservers-all.txt
 cat tmp/title-adserver-all.tmp tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp > filters/domain-adservers-all.txt
-cat tmp/title-config-surge.tmp tmp/adservers-config.tmp > option/hostsVN.conf
-#cat tmp/title-config-quantumult.txt tmp/adservers-config.tmp > option/hostsVN-quantumult.conf
+cat tmp/title-config-surge.txt tmp/adservers-config.tmp > option/hostsVN.conf
 
 # remove tmp file
 rm -rf tmp/*.tmp

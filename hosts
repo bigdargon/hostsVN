@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 01 Nov 2019 22:47 UTC+7
-# Blocked: 18,766 domains
+# Last modified: 03 Nov 2019 22:53 UTC+7
+# Blocked: 18,724 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -3075,47 +3075,6 @@
 0.0.0.0 wd.adcolony.com
 0.0.0.0 www.adcolony.com
 #[adsafeprotected.com]
-0.0.0.0 009.bapi.adsafeprotected.com
-0.0.0.0 1009.bapi.adsafeprotected.com
-0.0.0.0 10372.bapi.adsafeprotected.com
-0.0.0.0 10646.bapi.adsafeprotected.com
-0.0.0.0 10811.bapi.adsafeprotected.com
-0.0.0.0 5726.bapi.adsafeprotected.com
-0.0.0.0 6058.bapi.adsafeprotected.com
-0.0.0.0 6063.bapi.adsafeprotected.com
-0.0.0.0 6067.bapi.adsafeprotected.com
-0.0.0.0 623.bapi.adsafeprotected.com
-0.0.0.0 6293.bapi.adsafeprotected.com
-0.0.0.0 6348.bapi.adsafeprotected.com
-0.0.0.0 6539.bapi.adsafeprotected.com
-0.0.0.0 6961.bapi.adsafeprotected.com
-0.0.0.0 7001.bapi.adsafeprotected.com
-0.0.0.0 707.bapi.adsafeprotected.com
-0.0.0.0 7077.bapi.adsafeprotected.com
-0.0.0.0 7093.bapi.adsafeprotected.com
-0.0.0.0 7107.bapi.adsafeprotected.com
-0.0.0.0 7114.bapi.adsafeprotected.com
-0.0.0.0 7142.bapi.adsafeprotected.com
-0.0.0.0 7194.bapi.adsafeprotected.com
-0.0.0.0 7198.bapi.adsafeprotected.com
-0.0.0.0 7202.bapi.adsafeprotected.com
-0.0.0.0 7246.bapi.adsafeprotected.com
-0.0.0.0 7247.bapi.adsafeprotected.com
-0.0.0.0 7250.bapi.adsafeprotected.com
-0.0.0.0 7251.bapi.adsafeprotected.com
-0.0.0.0 7347.bapi.adsafeprotected.com
-0.0.0.0 7453.bapi.adsafeprotected.com
-0.0.0.0 7465.bapi.adsafeprotected.com
-0.0.0.0 7777.bapi.adsafeprotected.com
-0.0.0.0 7882.bapi.adsafeprotected.com
-0.0.0.0 7900.bapi.adsafeprotected.com
-0.0.0.0 7969.bapi.adsafeprotected.com
-0.0.0.0 8304.bapi.adsafeprotected.com
-0.0.0.0 8328.bapi.adsafeprotected.com
-0.0.0.0 8519.bapi.adsafeprotected.com
-0.0.0.0 922526.bapi.adsafeprotected.com
-0.0.0.0 922527.bapi.adsafeprotected.com
-0.0.0.0 922781.bapi.adsafeprotected.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 amidt.adsafeprotected.com
 0.0.0.0 anycast.api.adsafeprotected.com
@@ -3146,7 +3105,6 @@
 0.0.0.0 fwcf.adsafeprotected.com
 0.0.0.0 fwias.adsafeprotected.com
 0.0.0.0 fwvc.adsafeprotected.com
-0.0.0.0 i9980.bapi.adsafeprotected.com
 0.0.0.0 mobile.adsafeprotected.com
 0.0.0.0 mobile-static.adsafeprotected.com
 0.0.0.0 mobile-static-src.adsafeprotected.com
