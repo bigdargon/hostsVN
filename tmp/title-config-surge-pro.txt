@@ -1,4 +1,4 @@
-#!MANAGED-CONFIG https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN.conf interval=21600 strict=true
+#!MANAGED-CONFIG https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-pro.conf interval=21600 strict=true
 [General]
 loglevel = notify
 skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, ::ffff:0.0.0.0/1, ::ffff:128.0.0.0/1, localhost, *.local
