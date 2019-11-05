@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 04 Nov 2019 09:04 UTC+7
-! Blocked: 267 rules
+! Last modified: 05 Nov 2019 14:59 UTC+7
+! Blocked: 274 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -21,9 +21,11 @@
 ||ads.zdn.vn^
 ||adservice.google.com.vn^
 ||adsota.com^
+||adsplay.net^
 ||adtima*.zadn.vn^
 ||adtima.vn^
 ||adtimaserver.vn^
+||aiservice.vn^
 ||ambient-platform.com^
 ||ambientplatform.vn^
 ||anthill.vn^
@@ -138,11 +140,15 @@
 ||click.xdeal.vn^
 ||clipbongda.info^
 ||clix.vn^
+||core.vnecdn.com^
+||cpx.vnecdn.com^
 ||delivery.senvangvn.com^
 ||delivery.vungtv.com^
 ||deltago.com^
+||dt.vnecdn.com^
 ||events.vungtv.com^
 ||fptad.com^
+||go.vnecdn.com^
 ||imgraovat.vnecdn.net^
 ||lrc.nct.nixcdn.com^
 ||mepuzz.com^
@@ -162,6 +168,7 @@
 ||trenddigital.vn^
 ||truoctran.com^
 ||tvnotice.kg.garena.vn^
+||uniad.phimmoi.net^
 ||uniad.vn^
 ||upfile16.mediaphim.com^
 ||vads.net.vn^

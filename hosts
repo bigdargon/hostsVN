@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 04 Nov 2019 09:04 UTC+7
-# Blocked: 18,724 domains
+# Last modified: 05 Nov 2019 14:59 UTC+7
+# Blocked: 18,847 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -4129,12 +4129,6 @@
 0.0.0.0 gj.track.uc.cn
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 woodpecker.uc.cn
-#[adsplay]
-0.0.0.0 log.adsplay.net
-0.0.0.0 d.adsplay.net
-0.0.0.0 admin.adsplay.net
-0.0.0.0 adsplay.net
-0.0.0.0 id.adsplay.net
 #[appspot]
 0.0.0.0 8.dramafeverw2.appspot.com
 0.0.0.0 adasiatagmanager.appspot.com
@@ -4318,16 +4312,12 @@
 0.0.0.0 c.pub.network
 0.0.0.0 d.pub.network
 #[disqus]
-0.0.0.0 apkpure.disqus.com
 0.0.0.0 glitter.services.disqus.com
-0.0.0.0 hasoffers.disqus.com
-0.0.0.0 javdict.disqus.com
 0.0.0.0 juggler.services.disqus.com
 0.0.0.0 links.services.disqus.com
 0.0.0.0 realtime.services.disqus.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 tempest.services.disqus.com
-0.0.0.0 www.javdict.disqus.com
 #[viglink]
 0.0.0.0 api.viglink.com
 0.0.0.0 apicdn.viglink.com
@@ -5516,6 +5506,8 @@
 0.0.0.0 reddit.test-app.link
 #[page.link]
 0.0.0.0 page.link
+0.0.0.0 appvietnamairlines.page.link
+0.0.0.0 fptplay.page.link
 0.0.0.0 sothuchi.page.link
 0.0.0.0 vingroup.page.link
 0.0.0.0 vinid.page.link
@@ -13231,6 +13223,111 @@
 0.0.0.0 usub.izooto.com
 0.0.0.0 vr.izooto.com
 0.0.0.0 www.izooto.com
+#[indoleads.com]
+0.0.0.0 app.indoleads.com
+0.0.0.0 confluence.indoleads.com
+0.0.0.0 devcname.indoleads.com
+0.0.0.0 dsp.indoleads.com
+0.0.0.0 grafana.indoleads.com
+0.0.0.0 i.indoleads.com
+0.0.0.0 indoleads.com
+0.0.0.0 ivan.indoleads.com
+0.0.0.0 jira.indoleads.com
+0.0.0.0 lp.indoleads.com
+0.0.0.0 new2.indoleads.com
+0.0.0.0 old.indoleads.com
+0.0.0.0 ruslan.indoleads.com
+0.0.0.0 status.indoleads.com
+0.0.0.0 support.indoleads.com
+0.0.0.0 track.indoleads.com
+0.0.0.0 trk.indoleads.com
+0.0.0.0 trkdev.indoleads.com
+0.0.0.0 www.indoleads.com
+#[bkrtx.com]
+0.0.0.0 beta.bkrtx.com
+0.0.0.0 bkrtx.com
+0.0.0.0 origin.bkrtx.com
+0.0.0.0 tags.bkrtx.com
+0.0.0.0 www.bkrtx.com
+#[adtelligent.com]
+0.0.0.0 a.adtelligent.com
+0.0.0.0 ads1.adtelligent.com
+0.0.0.0 ads2.adtelligent.com
+0.0.0.0 ads3.adtelligent.com
+0.0.0.0 ads4.adtelligent.com
+0.0.0.0 ads5.adtelligent.com
+0.0.0.0 ads6.adtelligent.com
+0.0.0.0 ads7.adtelligent.com
+0.0.0.0 ads8.adtelligent.com
+0.0.0.0 ads9.adtelligent.com
+0.0.0.0 adtelligent.com
+0.0.0.0 ald.adtelligent.com
+0.0.0.0 api1-stat.adtelligent.com
+0.0.0.0 api2-stat.adtelligent.com
+0.0.0.0 aux-log.adtelligent.com
+0.0.0.0 aux-log1-sh.adtelligent.com
+0.0.0.0 aux-log2-sh.adtelligent.com
+0.0.0.0 bootstrap.adtelligent.com
+0.0.0.0 d.adtelligent.com
+0.0.0.0 divan.adtelligent.com
+0.0.0.0 dsp1.adtelligent.com
+0.0.0.0 dsp2.adtelligent.com
+0.0.0.0 dsp3.adtelligent.com
+0.0.0.0 dsp4.adtelligent.com
+0.0.0.0 ecrtb.adtelligent.com
+0.0.0.0 eu.adtelligent.com
+0.0.0.0 euhb.adtelligent.com
+0.0.0.0 eurtb.adtelligent.com
+0.0.0.0 files.adtelligent.com
+0.0.0.0 ghb.adtelligent.com
+0.0.0.0 hb.adtelligent.com
+0.0.0.0 hb2.adtelligent.com
+0.0.0.0 hbmp.adtelligent.com
+0.0.0.0 pixel.adtelligent.com
+0.0.0.0 player.adtelligent.com
+0.0.0.0 player-aws.adtelligent.com
+0.0.0.0 push.adtelligent.com
+0.0.0.0 pusher.adtelligent.com
+0.0.0.0 research.adtelligent.com
+0.0.0.0 rtb.adtelligent.com
+0.0.0.0 s.adtelligent.com
+0.0.0.0 ssp.adtelligent.com
+0.0.0.0 static.adtelligent.com
+0.0.0.0 static-aws.adtelligent.com
+0.0.0.0 static-cdn.adtelligent.com
+0.0.0.0 sync.adtelligent.com
+0.0.0.0 sync-ua.adtelligent.com
+0.0.0.0 sync-us.adtelligent.com
+0.0.0.0 vast.adtelligent.com
+0.0.0.0 video.adtelligent.com
+0.0.0.0 video-ua.adtelligent.com
+0.0.0.0 www.adtelligent.com
+#[treasuredata.com]
+0.0.0.0 api.treasuredata.com
+0.0.0.0 cdn.treasuredata.com
+0.0.0.0 go.treasuredata.com
+0.0.0.0 in.treasuredata.com
+0.0.0.0 treasuredata.com
+0.0.0.0 www.treasuredata.com
+#[clicktale.net]
+0.0.0.0 c.clicktale.net
+0.0.0.0 cdn.clicktale.net
+0.0.0.0 cdnssl.clicktale.net
+0.0.0.0 ing-district.clicktale.net
+0.0.0.0 ing.clicktale.net
+0.0.0.0 l.clicktale.net
+0.0.0.0 r.clicktale.net
+0.0.0.0 s.clicktale.net
+0.0.0.0 t.clicktale.net
+0.0.0.0 www.clicktale.net
+#[adhigh.net]
+0.0.0.0 cdn.adhigh.net
+0.0.0.0 px.adhigh.net
+0.0.0.0 px-us.adhigh.net
+0.0.0.0 px-eu.adhigh.net
+0.0.0.0 www.adhigh.net
+0.0.0.0 adhigh.net
+0.0.0.0 dataserver.adhigh.net
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14103,6 +14200,36 @@
 0.0.0.0 publishers.adasiaholdings.com
 0.0.0.0 tags.adasiaholdings.com
 0.0.0.0 www.adasiaholdings.com
+#[aiservice.vn]
+0.0.0.0 aiservice.vn
+0.0.0.0 boxpr.aiservice.vn
+0.0.0.0 news.aiservice.vn
+0.0.0.0 newstesting.aiservice.vn
+0.0.0.0 nspapi.aiservice.vn
+0.0.0.0 ntimg.aiservice.vn
+0.0.0.0 recsys.aiservice.vn
+0.0.0.0 snews.aiservice.vn
+#[adsplay]
+0.0.0.0 admin.adsplay.net
+0.0.0.0 adsplay.net
+0.0.0.0 d.adsplay.net
+0.0.0.0 d1.adsplay.net
+0.0.0.0 d2.adsplay.net
+0.0.0.0 d3.adsplay.net
+0.0.0.0 d4.adsplay.net
+0.0.0.0 d5.adsplay.net
+0.0.0.0 d6.adsplay.net
+0.0.0.0 engineering.adsplay.net
+0.0.0.0 id.adsplay.net
+0.0.0.0 log.adsplay.net
+0.0.0.0 log1.adsplay.net
+0.0.0.0 log2.adsplay.net
+0.0.0.0 log3.adsplay.net
+0.0.0.0 log4.adsplay.net
+0.0.0.0 report.adsplay.net
+0.0.0.0 st.adsplay.net
+0.0.0.0 static.adsplay.net
+0.0.0.0 www.adsplay.net
 # --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com
@@ -14148,12 +14275,16 @@
 0.0.0.0 clipbongda.info
 0.0.0.0 clix.vn
 0.0.0.0 cms.vinaads.vn
+0.0.0.0 core.vnecdn.com
+0.0.0.0 cpx.vnecdn.com
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 delivery.vungtv.com
 0.0.0.0 deltago.com
 0.0.0.0 dev.mobilead.vn
+0.0.0.0 dt.vnecdn.com
 0.0.0.0 events.vungtv.com
 0.0.0.0 fptad.com
+0.0.0.0 go.vnecdn.com
 0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 lrc.nct.nixcdn.com
 0.0.0.0 m.clevernet.vn
@@ -14176,6 +14307,7 @@
 0.0.0.0 trenddigital.vn
 0.0.0.0 truoctran.com
 0.0.0.0 tvnotice.kg.garena.vn
+0.0.0.0 uniad.phimmoi.net
 0.0.0.0 uniad.vn
 0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 vads.net.vn
@@ -15770,8 +15902,6 @@
 0.0.0.0 bizad.nikkeibp.co.jp
 0.0.0.0 bizographics.com
 0.0.0.0 bizrate.com
-0.0.0.0 bj1110.online
-0.0.0.0 bkrtx.com
 0.0.0.0 blast4traffic.com
 0.0.0.0 blingbucks.com
 0.0.0.0 blogads.com
@@ -15888,6 +16018,7 @@
 0.0.0.0 cdnstoremedia.com
 0.0.0.0 cecash.com
 0.0.0.0 ced.sascdn.com
+0.0.0.0 celeritascdn.com
 0.0.0.0 celltick.com
 0.0.0.0 centerpointmedia.com
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
@@ -15995,6 +16126,7 @@
 0.0.0.0 comece-a-negociar.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commandwalk.com
+0.0.0.0 commercialvalue.org
 0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
 0.0.0.0 commonswing.com
@@ -16207,6 +16339,7 @@
 0.0.0.0 ecircle-ag.com
 0.0.0.0 eclickz.com
 0.0.0.0 economicpizzas.com
+0.0.0.0 ecotrackings.com
 0.0.0.0 ecoupons.com
 0.0.0.0 edaa.eu
 0.0.0.0 edgeio.com
@@ -17660,7 +17793,6 @@
 0.0.0.0 t.pusk.ru
 0.0.0.0 tacoda.net
 0.0.0.0 tagmngrs.com
-0.0.0.0 tags.bkrtx.com
 0.0.0.0 tagular.com
 0.0.0.0 tailsweep.co.uk
 0.0.0.0 tailsweep.com
@@ -17711,6 +17843,7 @@
 0.0.0.0 thebugs.ws
 0.0.0.0 thecounter.com
 0.0.0.0 thedevband.com
+0.0.0.0 theonecdn.com
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
 0.0.0.0 thinkablerice.com
@@ -18026,7 +18159,6 @@
 0.0.0.0 www.beauty-tea.com
 0.0.0.0 www.binary1.website
 0.0.0.0 www.binarymoney.site
-0.0.0.0 www.bkrtx.com
 0.0.0.0 www.butheptesitrew.pro
 0.0.0.0 www.cdnondemand.org
 0.0.0.0 www.clixco.in
@@ -19258,14 +19390,10 @@
 # --- Block other scamVN ---
 0.0.0.0 applelink.store
 0.0.0.0 icloud.com-locations.in
-0.0.0.0 cpanel.view-apple.com
 0.0.0.0 icloud.com.view-apple.com
 0.0.0.0 view-apple.com
-0.0.0.0 webdisk.view-apple.com
 0.0.0.0 www.view-apple.com
-0.0.0.0 cpanel.view-appleid.com
 0.0.0.0 view-appleid.com
-0.0.0.0 webdisk.view-appleid.com
 0.0.0.0 www.view-appleid.com
 0.0.0.0 mysp.ac
 0.0.0.0 securedashfuyiersa.com
@@ -19275,6 +19403,8 @@
 0.0.0.0 fortt-rade.com
 0.0.0.0 screenshielded.com
 0.0.0.0 zhangtom1989.cn
+0.0.0.0 fmiphone-apple.com
+0.0.0.0 www.fmiphone-apple.com
 # --- Block cloudfront.net ---
 #[adop.cc]
 0.0.0.0 d26tbbq8zqdi4v.cloudfront.net

@@ -4118,12 +4118,6 @@
 0.0.0.0 gj.track.uc.cn
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 woodpecker.uc.cn
-#[adsplay]
-0.0.0.0 log.adsplay.net
-0.0.0.0 d.adsplay.net
-0.0.0.0 admin.adsplay.net
-0.0.0.0 adsplay.net
-0.0.0.0 id.adsplay.net
 #[appspot]
 0.0.0.0 8.dramafeverw2.appspot.com
 0.0.0.0 adasiatagmanager.appspot.com
@@ -4307,16 +4301,12 @@
 0.0.0.0 c.pub.network
 0.0.0.0 d.pub.network
 #[disqus]
-0.0.0.0 apkpure.disqus.com
 0.0.0.0 glitter.services.disqus.com
-0.0.0.0 hasoffers.disqus.com
-0.0.0.0 javdict.disqus.com
 0.0.0.0 juggler.services.disqus.com
 0.0.0.0 links.services.disqus.com
 0.0.0.0 realtime.services.disqus.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 tempest.services.disqus.com
-0.0.0.0 www.javdict.disqus.com
 #[viglink]
 0.0.0.0 api.viglink.com
 0.0.0.0 apicdn.viglink.com
@@ -5505,6 +5495,8 @@
 0.0.0.0 reddit.test-app.link
 #[page.link]
 0.0.0.0 page.link
+0.0.0.0 appvietnamairlines.page.link
+0.0.0.0 fptplay.page.link
 0.0.0.0 sothuchi.page.link
 0.0.0.0 vingroup.page.link
 0.0.0.0 vinid.page.link
@@ -13220,3 +13212,108 @@
 0.0.0.0 usub.izooto.com
 0.0.0.0 vr.izooto.com
 0.0.0.0 www.izooto.com
+#[indoleads.com]
+0.0.0.0 app.indoleads.com
+0.0.0.0 confluence.indoleads.com
+0.0.0.0 devcname.indoleads.com
+0.0.0.0 dsp.indoleads.com
+0.0.0.0 grafana.indoleads.com
+0.0.0.0 i.indoleads.com
+0.0.0.0 indoleads.com
+0.0.0.0 ivan.indoleads.com
+0.0.0.0 jira.indoleads.com
+0.0.0.0 lp.indoleads.com
+0.0.0.0 new2.indoleads.com
+0.0.0.0 old.indoleads.com
+0.0.0.0 ruslan.indoleads.com
+0.0.0.0 status.indoleads.com
+0.0.0.0 support.indoleads.com
+0.0.0.0 track.indoleads.com
+0.0.0.0 trk.indoleads.com
+0.0.0.0 trkdev.indoleads.com
+0.0.0.0 www.indoleads.com
+#[bkrtx.com]
+0.0.0.0 beta.bkrtx.com
+0.0.0.0 bkrtx.com
+0.0.0.0 origin.bkrtx.com
+0.0.0.0 tags.bkrtx.com
+0.0.0.0 www.bkrtx.com
+#[adtelligent.com]
+0.0.0.0 a.adtelligent.com
+0.0.0.0 ads1.adtelligent.com
+0.0.0.0 ads2.adtelligent.com
+0.0.0.0 ads3.adtelligent.com
+0.0.0.0 ads4.adtelligent.com
+0.0.0.0 ads5.adtelligent.com
+0.0.0.0 ads6.adtelligent.com
+0.0.0.0 ads7.adtelligent.com
+0.0.0.0 ads8.adtelligent.com
+0.0.0.0 ads9.adtelligent.com
+0.0.0.0 adtelligent.com
+0.0.0.0 ald.adtelligent.com
+0.0.0.0 api1-stat.adtelligent.com
+0.0.0.0 api2-stat.adtelligent.com
+0.0.0.0 aux-log.adtelligent.com
+0.0.0.0 aux-log1-sh.adtelligent.com
+0.0.0.0 aux-log2-sh.adtelligent.com
+0.0.0.0 bootstrap.adtelligent.com
+0.0.0.0 d.adtelligent.com
+0.0.0.0 divan.adtelligent.com
+0.0.0.0 dsp1.adtelligent.com
+0.0.0.0 dsp2.adtelligent.com
+0.0.0.0 dsp3.adtelligent.com
+0.0.0.0 dsp4.adtelligent.com
+0.0.0.0 ecrtb.adtelligent.com
+0.0.0.0 eu.adtelligent.com
+0.0.0.0 euhb.adtelligent.com
+0.0.0.0 eurtb.adtelligent.com
+0.0.0.0 files.adtelligent.com
+0.0.0.0 ghb.adtelligent.com
+0.0.0.0 hb.adtelligent.com
+0.0.0.0 hb2.adtelligent.com
+0.0.0.0 hbmp.adtelligent.com
+0.0.0.0 pixel.adtelligent.com
+0.0.0.0 player.adtelligent.com
+0.0.0.0 player-aws.adtelligent.com
+0.0.0.0 push.adtelligent.com
+0.0.0.0 pusher.adtelligent.com
+0.0.0.0 research.adtelligent.com
+0.0.0.0 rtb.adtelligent.com
+0.0.0.0 s.adtelligent.com
+0.0.0.0 ssp.adtelligent.com
+0.0.0.0 static.adtelligent.com
+0.0.0.0 static-aws.adtelligent.com
+0.0.0.0 static-cdn.adtelligent.com
+0.0.0.0 sync.adtelligent.com
+0.0.0.0 sync-ua.adtelligent.com
+0.0.0.0 sync-us.adtelligent.com
+0.0.0.0 vast.adtelligent.com
+0.0.0.0 video.adtelligent.com
+0.0.0.0 video-ua.adtelligent.com
+0.0.0.0 www.adtelligent.com
+#[treasuredata.com]
+0.0.0.0 api.treasuredata.com
+0.0.0.0 cdn.treasuredata.com
+0.0.0.0 go.treasuredata.com
+0.0.0.0 in.treasuredata.com
+0.0.0.0 treasuredata.com
+0.0.0.0 www.treasuredata.com
+#[clicktale.net]
+0.0.0.0 c.clicktale.net
+0.0.0.0 cdn.clicktale.net
+0.0.0.0 cdnssl.clicktale.net
+0.0.0.0 ing-district.clicktale.net
+0.0.0.0 ing.clicktale.net
+0.0.0.0 l.clicktale.net
+0.0.0.0 r.clicktale.net
+0.0.0.0 s.clicktale.net
+0.0.0.0 t.clicktale.net
+0.0.0.0 www.clicktale.net
+#[adhigh.net]
+0.0.0.0 cdn.adhigh.net
+0.0.0.0 px.adhigh.net
+0.0.0.0 px-us.adhigh.net
+0.0.0.0 px-eu.adhigh.net
+0.0.0.0 www.adhigh.net
+0.0.0.0 adhigh.net
+0.0.0.0 dataserver.adhigh.net

@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 04 Nov 2019 09:04 UTC+7
-! Blocked: 5,709 rules
+! Last modified: 05 Nov 2019 14:59 UTC+7
+! Blocked: 5,723 rules
 ! The section containing the list contains all ad networks and tracking
 !
 accesstrade.com.vn
@@ -21,9 +21,11 @@ ads.zaloapp.com
 ads.zdn.vn
 adservice.google.com.vn
 adsota.com
+adsplay.net
 adtima*.zadn.vn
 adtima.vn
 adtimaserver.vn
+aiservice.vn
 ambient-platform.com
 ambientplatform.vn
 anthill.vn
@@ -138,11 +140,15 @@ clevernet.vn
 click.xdeal.vn
 clipbongda.info
 clix.vn
+core.vnecdn.com
+cpx.vnecdn.com
 delivery.senvangvn.com
 delivery.vungtv.com
 deltago.com
+dt.vnecdn.com
 events.vungtv.com
 fptad.com
+go.vnecdn.com
 imgraovat.vnecdn.net
 lrc.nct.nixcdn.com
 mepuzz.com
@@ -162,6 +168,7 @@ stc-nas.nixcdn.com
 trenddigital.vn
 truoctran.com
 tvnotice.kg.garena.vn
+uniad.phimmoi.net
 uniad.vn
 upfile16.mediaphim.com
 vads.net.vn
@@ -309,6 +316,7 @@ adfox.yandex.ru
 adgrx.com
 adhacker.online
 adhaven.com
+adhigh.net
 adimages.go.com
 adinfuse.com
 adjust.com
@@ -360,7 +368,6 @@ adsintl.starwave.com
 adskeeper.co.uk
 adsnative.com
 adspirit.de
-adsplay.net
 adspruce.com
 adsrvr.org
 adstage-analytics.herokuapp.com
@@ -372,6 +379,7 @@ adtdp.com
 adtech.de
 adtechjp.com
 adtechus.com
+adtelligent.com
 adthor.com
 adtimes.nytimes.com
 adtrackers.net
@@ -476,6 +484,7 @@ bigclicker.me
 bilsyndication.com
 bizible.com
 bj1*.online
+bkrtx.com
 blueseed.tv
 blueserving.com
 bnmla.com
@@ -511,6 +520,7 @@ click.union.ucweb.com
 clickagy.com
 clickhubs.com
 clickintext.net
+clicktale.net
 client-event-reporter.twitch.tv
 clientmetrics-pa.googleapis.com
 clksite.com
@@ -623,6 +633,7 @@ ilyonanalytics.herokuapp.com
 im-apps.net
 imrworldwide.com
 indexww.com
+indoleads.com
 infolinks.com
 informer.yandex.ru
 inmobi.cn
@@ -820,6 +831,7 @@ servebom.com
 servedby-buysellads.com
 servedbyopenx.com
 server-analytics.snapchat.com
+services.disqus.com
 serving-sys.com
 sgali-mcs.byteoversea.com
 shareaholic.com
@@ -877,6 +889,7 @@ track.uc.cn
 trackjs.com
 trafficjunky.net
 trazk.com
+treasuredata.com
 tremorhub.com
 tru.am
 tune.com
@@ -2285,9 +2298,6 @@ bitads.net
 bitmedianetwork.com
 bizad.nikkeibp.co.jp
 bizographics.com
-bizrate.com
-bj1110.online
-bkrtx.com
 blast4traffic.com
 blingbucks.com
 blogads.com
@@ -2403,6 +2413,7 @@ cdnproviders.net
 cdnstoremedia.com
 cecash.com
 ced.sascdn.com
+celeritascdn.com
 celltick.com
 centerpointmedia.com
 ceskydomov.alias.ngs.modry.cz
@@ -2510,6 +2521,7 @@ comclick.com
 comece-a-negociar.com
 comfortablecheese.com
 commandwalk.com
+commercialvalue.org
 commindo-media-ressourcen.de
 commissionmonster.com
 commonswing.com
@@ -2723,6 +2735,7 @@ eccdn1.synad3.nuffnang.com.my
 ecircle-ag.com
 eclickz.com
 economicpizzas.com
+ecotrackings.com
 ecoupons.com
 edaa.eu
 edgeio.com
@@ -4177,7 +4190,6 @@ t.purch.com
 t.pusk.ru
 tacoda.net
 tagmngrs.com
-tags.bkrtx.com
 tagular.com
 tailsweep.co.uk
 tailsweep.com
@@ -4228,6 +4240,7 @@ theads.me
 thebugs.ws
 thecounter.com
 thedevband.com
+theonecdn.com
 therapistla.com
 therichkids.com
 thinkablerice.com
@@ -5696,6 +5709,7 @@ zwgoca.com
 zyjyyy.com
 zztxdown.com
 applelink.store
+fmiphone-apple.com
 fortt-rade.com
 icloud.com-locations.in
 ladsblue.com

@@ -1363,8 +1363,6 @@
 0.0.0.0 bizad.nikkeibp.co.jp
 0.0.0.0 bizographics.com
 0.0.0.0 bizrate.com
-0.0.0.0 bj1110.online
-0.0.0.0 bkrtx.com
 0.0.0.0 blast4traffic.com
 0.0.0.0 blingbucks.com
 0.0.0.0 blogads.com
@@ -1481,6 +1479,7 @@
 0.0.0.0 cdnstoremedia.com
 0.0.0.0 cecash.com
 0.0.0.0 ced.sascdn.com
+0.0.0.0 celeritascdn.com
 0.0.0.0 celltick.com
 0.0.0.0 centerpointmedia.com
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
@@ -1588,6 +1587,7 @@
 0.0.0.0 comece-a-negociar.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commandwalk.com
+0.0.0.0 commercialvalue.org
 0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
 0.0.0.0 commonswing.com
@@ -1800,6 +1800,7 @@
 0.0.0.0 ecircle-ag.com
 0.0.0.0 eclickz.com
 0.0.0.0 economicpizzas.com
+0.0.0.0 ecotrackings.com
 0.0.0.0 ecoupons.com
 0.0.0.0 edaa.eu
 0.0.0.0 edgeio.com
@@ -3253,7 +3254,6 @@
 0.0.0.0 t.pusk.ru
 0.0.0.0 tacoda.net
 0.0.0.0 tagmngrs.com
-0.0.0.0 tags.bkrtx.com
 0.0.0.0 tagular.com
 0.0.0.0 tailsweep.co.uk
 0.0.0.0 tailsweep.com
@@ -3304,6 +3304,7 @@
 0.0.0.0 thebugs.ws
 0.0.0.0 thecounter.com
 0.0.0.0 thedevband.com
+0.0.0.0 theonecdn.com
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
 0.0.0.0 thinkablerice.com
@@ -3619,7 +3620,6 @@
 0.0.0.0 www.beauty-tea.com
 0.0.0.0 www.binary1.website
 0.0.0.0 www.binarymoney.site
-0.0.0.0 www.bkrtx.com
 0.0.0.0 www.butheptesitrew.pro
 0.0.0.0 www.cdnondemand.org
 0.0.0.0 www.clixco.in
@@ -4851,14 +4851,10 @@
 # --- Block other scamVN ---
 0.0.0.0 applelink.store
 0.0.0.0 icloud.com-locations.in
-0.0.0.0 cpanel.view-apple.com
 0.0.0.0 icloud.com.view-apple.com
 0.0.0.0 view-apple.com
-0.0.0.0 webdisk.view-apple.com
 0.0.0.0 www.view-apple.com
-0.0.0.0 cpanel.view-appleid.com
 0.0.0.0 view-appleid.com
-0.0.0.0 webdisk.view-appleid.com
 0.0.0.0 www.view-appleid.com
 0.0.0.0 mysp.ac
 0.0.0.0 securedashfuyiersa.com
@@ -4868,3 +4864,5 @@
 0.0.0.0 fortt-rade.com
 0.0.0.0 screenshielded.com
 0.0.0.0 zhangtom1989.cn
+0.0.0.0 fmiphone-apple.com
+0.0.0.0 www.fmiphone-apple.com
