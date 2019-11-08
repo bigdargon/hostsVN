@@ -10,12 +10,13 @@ server=1.1.1.1
 [server_remote]
 
 [filter_remote]
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-rule.conf, tag=hostsVN, force-policy=reject, enabled=true
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-rule.conf, tag=🇻🇳hostsVN, force-policy=reject, enabled=true
 
 [rewrite_remote]
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX-rewrite.conf, tag=hostsVN, enabled=true
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX-rewrite.conf, tag=🇻🇳hostsVN, enabled=true
 
 [server_local]
+shadowsocks=127.0.0.1:8080, method=none, password=password, fast-open=false, udp-replay=false, tag=🇻🇳hostsVN
 
 [filter_local]
 FINAL,DIRECT
