@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 08 Nov 2019 09:18 UTC+7
-# Blocked: 18,848 domains
+# Last modified: 08 Nov 2019 10:08 UTC+7
+# Blocked: 18,859 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -630,6 +630,13 @@
 0 creative.ak.fbcdn.net
 0 sonar-iad.xx.fbcdn.net
 0 graph.instagram.com
+0 o.update.fbsbx.com
+0 p.update.fbsbx.com
+0 post.update.fbsbx.com
+0 s.update.fbsbx.com
+0 t.update.fbsbx.com
+0 u.update.fbsbx.com
+0 update.fbsbx.com
 0 ads.twitter.com
 0 ads-bidder-api.twitter.com
 0 ads-twitter.com
@@ -1540,8 +1547,12 @@
 0 px.cdn.creative.medialytics.com
 0 t.medialytics.com
 0 agentanalytics.com
+0 o.agentanalytics.com
+0 p.agentanalytics.com
+0 post.agentanalytics.com
 0 s.agentanalytics.com
 0 t.agentanalytics.com
+0 u.agentanalytics.com
 0 api.appsflyer.com
 0 app.appsflyer.com
 0 appsflyer.com
