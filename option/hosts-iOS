@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 08 Nov 2019 09:07 UTC+7
-# Blocked: 18,841 domains
+# Last modified: 08 Nov 2019 09:18 UTC+7
+# Blocked: 18,848 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -12838,6 +12838,15 @@
 0 www.adhigh.net
 0 adhigh.net
 0 dataserver.adhigh.net
+0 mt.rtmark.net
+0 mt2.rtmark.net
+0 my.rtmark.net
+0 rtmark.net
+0 us.rtmark.net
+0 adxxx.info
+0 n.adxxx.info
+0 st.adxxx.info
+0 www.adxxx.info
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13761,6 +13770,7 @@
 0 serving-ad.tv24.vn
 0 static.mepuzz.com
 0 stc-nas.nixcdn.com
+0 stc.nas.nixcdn.com
 0 trenddigital.vn
 0 truoctran.com
 0 tvnotice.kg.garena.vn
@@ -16958,7 +16968,6 @@
 0 rtbidder.net
 0 rtbpop.com
 0 rtbpopd.com
-0 rtmark.net
 0 ru-traffic.com
 0 ru4.com
 0 rulerabbit.com
@@ -18418,9 +18427,7 @@
 0 mpif.eu
 0 mrappolt.de
 0 msw67.cafe24.com
-0 mt.rtmark.net
 0 mxyyth.com
-0 my.rtmark.net
 0 mybuzzmonitor.com
 0 myeverydaylife.net
 0 myfileupload.ru

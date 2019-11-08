@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 08 Nov 2019 09:07 UTC+7
-# Blocked: 1,153 domains
+# Last modified: 08 Nov 2019 09:18 UTC+7
+# Blocked: 1,154 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -985,6 +985,7 @@
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 static.mepuzz.com
 0.0.0.0 stc-nas.nixcdn.com
+0.0.0.0 stc.nas.nixcdn.com
 0.0.0.0 trenddigital.vn
 0.0.0.0 truoctran.com
 0.0.0.0 tvnotice.kg.garena.vn

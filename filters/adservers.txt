@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 08 Nov 2019 09:07 UTC+7
-! Blocked: 274 rules
+! Last modified: 08 Nov 2019 09:18 UTC+7
+! Blocked: 275 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -165,6 +165,7 @@
 ||quangcao.tuoitre.vn^
 ||serving-ad.tv24.vn^
 ||stc-nas.nixcdn.com^
+||stc.nas.nixcdn.com^
 ||trenddigital.vn^
 ||truoctran.com^
 ||tvnotice.kg.garena.vn^

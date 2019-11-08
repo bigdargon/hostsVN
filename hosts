@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 08 Nov 2019 09:07 UTC+7
-# Blocked: 18,841 domains
+# Last modified: 08 Nov 2019 09:18 UTC+7
+# Blocked: 18,848 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13328,6 +13328,17 @@
 0.0.0.0 www.adhigh.net
 0.0.0.0 adhigh.net
 0.0.0.0 dataserver.adhigh.net
+#[rtmark.net]
+0.0.0.0 mt.rtmark.net
+0.0.0.0 mt2.rtmark.net
+0.0.0.0 my.rtmark.net
+0.0.0.0 rtmark.net
+0.0.0.0 us.rtmark.net
+#[adxxx.info]
+0.0.0.0 adxxx.info
+0.0.0.0 n.adxxx.info
+0.0.0.0 st.adxxx.info
+0.0.0.0 www.adxxx.info
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14304,6 +14315,7 @@
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 static.mepuzz.com
 0.0.0.0 stc-nas.nixcdn.com
+0.0.0.0 stc.nas.nixcdn.com
 0.0.0.0 trenddigital.vn
 0.0.0.0 truoctran.com
 0.0.0.0 tvnotice.kg.garena.vn
@@ -17505,7 +17517,6 @@
 0.0.0.0 rtbidder.net
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
-0.0.0.0 rtmark.net
 0.0.0.0 ru-traffic.com
 0.0.0.0 ru4.com
 0.0.0.0 rulerabbit.com
@@ -18966,9 +18977,7 @@
 0.0.0.0 mpif.eu
 0.0.0.0 mrappolt.de
 0.0.0.0 msw67.cafe24.com
-0.0.0.0 mt.rtmark.net
 0.0.0.0 mxyyth.com
-0.0.0.0 my.rtmark.net
 0.0.0.0 mybuzzmonitor.com
 0.0.0.0 myeverydaylife.net
 0.0.0.0 myfileupload.ru
