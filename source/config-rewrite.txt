@@ -2,9 +2,9 @@
 ^https?:\/\/(\w+\.)?(ads|adserver|uniad|ad-|pagead|adformat|log\w?|tj|tongji|analysis|stat|stats|statis|trace|track|tracking|click)\.\w+\.(com|cn|org|info|io|net|vn)
 
 #facebook
-^https?://graph.facebook.com/network_ads_common/*
 ^https?://graph.facebook.com/.+activities
 ^https?://graph.facebook.com/.+advertiser_id=*
+^https?://graph.facebook.com/network_ads_common/*
 ^https?://www.facebook.com/adnw_logging/*
 
 #nhaccuatui
@@ -30,7 +30,7 @@
 #google
 ^https?:\/\/.+\.googlevideo\.com\/.+&oad
 ^https?:\/\/.+\.googlevideo\.com\/.+&owc
-;^https?:\/\/.+\.googlevideo\.com\/.+ctier
+^https?:\/\/.+\.googlevideo\.com\/.+ctier
 ^https?:\/\/.+\.googlevideo\.com\/ptracking\?pltype=adhost
 ^https?:\/\/.+\.googlevideo\.com\/videogoodput\?
 ^https?:\/\/.+\.youtube\.com\/.+get_ads

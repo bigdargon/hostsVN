@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 08 Nov 2019 10:15 UTC+7
-# Blocked: 18,852 domains
+# Last modified: 10 Nov 2019 21:39 UTC+7
+# Blocked: 18,857 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -1560,9 +1560,12 @@
 0 hq1.appsflyer.com
 0 hub.appsflyer.com
 0 impression.appsflyer.com
+0 inapps.appsflyer.com
+0 launches.appsflyer.com
 0 monitorsdk.appsflyer.com
 0 newclicks.appsflyer.com
 0 partners.appsflyer.com
+0 r.appsflyer.com
 0 register.appsflyer.com
 0 sdk-services.appsflyer.com
 0 sdk.appsflyer.com
@@ -16629,6 +16632,7 @@
 0 onlinerewardcenter.com
 0 onlyadshere.info
 0 onmobile.com
+0 oodsotso.com
 0 open.oneplus.net
 0 openad.tf1.fr
 0 openad.travelnow.com
@@ -16820,6 +16824,7 @@
 0 provexia.com
 0 provideplant.com
 0 prsitecheck.com
+0 ps.ns-cdn.com
 0 ps7894.com
 0 psstt.com
 0 pub.chez.com
