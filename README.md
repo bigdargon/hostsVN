@@ -52,14 +52,14 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN.conf
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult.conf
 ```
 
-- Với ứng dụng [Quantumult X](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX.conf):
-```
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX.conf
-```
-
 - Với ứng dụng [Shadowrocket](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-shadowrocket.conf):
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-shadowrocket.conf
+```
+
+- Với ứng dụng [Quantumult X](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX.conf):
+```
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX.conf
 ```
 
 **Ngoài ra**, bạn nên sử dụng thêm [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard) để chặn quảng cáo **trên Safari**.
