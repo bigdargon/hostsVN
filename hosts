@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 10 Nov 2019 21:39 UTC+7
-# Blocked: 18,857 domains
+# Last modified: 12 Nov 2019 15:04 UTC+7
+# Blocked: 18,943 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13346,6 +13346,94 @@
 0.0.0.0 n.adxxx.info
 0.0.0.0 st.adxxx.info
 0.0.0.0 www.adxxx.info
+#[matomo.cloud]
+0.0.0.0 matomo.cloud
+0.0.0.0 cdn.matomo.cloud
+0.0.0.0 cuoituoitrevn.matomo.cloud
+0.0.0.0 oxiivn.matomo.cloud
+#[opecloud.com]
+0.0.0.0 opecloud.com
+0.0.0.0 papi.tagger.opecloud.com
+0.0.0.0 profiles.tagger.opecloud.com
+0.0.0.0 tagger.opecloud.com
+0.0.0.0 tagger-admeira.opecloud.com
+0.0.0.0 tagger-hoydigital.opecloud.com
+0.0.0.0 tagger-test.opecloud.com
+0.0.0.0 wwwr.opecloud.com
+#[petametrics.com]
+0.0.0.0 api.petametrics.com
+0.0.0.0 api-eu-central-1.petametrics.com
+0.0.0.0 api-eu-west-1.petametrics.com
+0.0.0.0 cdn.petametrics.com
+0.0.0.0 cdn-cloudfront.petametrics.com
+0.0.0.0 cdn-maxcdn.petametrics.com
+0.0.0.0 deltaflow.petametrics.com
+0.0.0.0 fpo.petametrics.com
+0.0.0.0 metabase.petametrics.com
+0.0.0.0 petametrics.com
+0.0.0.0 query.petametrics.com
+0.0.0.0 query1.petametrics.com
+0.0.0.0 query2.petametrics.com
+0.0.0.0 query-europe-west1.petametrics.com
+0.0.0.0 query-eu-west-1.petametrics.com
+0.0.0.0 query-gce.petametrics.com
+0.0.0.0 query-us.petametrics.com
+0.0.0.0 query-us-east1.petametrics.com
+0.0.0.0 query-us-east-1.petametrics.com
+0.0.0.0 query-us-west1.petametrics.com
+0.0.0.0 query-us-west-1.petametrics.com
+0.0.0.0 www.petametrics.com
+#[ibillboard.com]
+0.0.0.0 action-rtb.ibillboard.com
+0.0.0.0 adserver.ibillboard.com
+0.0.0.0 bbcdn-bbnaut.ibillboard.com
+0.0.0.0 bbcdn-static-adserver.ibillboard.com
+0.0.0.0 bbcdn-static-mbrdsp.ibillboard.com
+0.0.0.0 bbcdn-tag.ibillboard.com
+0.0.0.0 bbnaut.ibillboard.com
+0.0.0.0 bbnautid1.ibillboard.com
+0.0.0.0 bbnautid2.ibillboard.com
+0.0.0.0 bbnautid3.ibillboard.com
+0.0.0.0 bbnautid4.ibillboard.com
+0.0.0.0 bidproxy.ibillboard.com
+0.0.0.0 clientui-adserver.ibillboard.com
+0.0.0.0 colpirio.ibillboard.com
+0.0.0.0 ibillboard.com
+0.0.0.0 premiumdsp.ibillboard.com
+0.0.0.0 static.premiumdsp.ibillboard.com
+0.0.0.0 static-mbrdsp.ibillboard.com
+0.0.0.0 static-premiumdsp.ibillboard.com
+0.0.0.0 tag-premiumdsp.ibillboard.com
+0.0.0.0 tracker-adserver.ibillboard.com
+0.0.0.0 track-premiumdsp.ibillboard.com
+0.0.0.0 ui-ssp.ibillboard.com
+0.0.0.0 video-adserver.ibillboard.com
+0.0.0.0 www.ibillboard.com
+#[invitemedia.com]
+0.0.0.0 adaptv.pixel.invitemedia.com
+0.0.0.0 adscale.pixel.invitemedia.com
+0.0.0.0 akamai.invitemedia.com
+0.0.0.0 assets.invitemedia.com
+0.0.0.0 ca.lijit.pixel.invitemedia.com
+0.0.0.0 contextweb.pixel.invitemedia.com
+0.0.0.0 conversion-pixel.invitemedia.com
+0.0.0.0 dashboard.invitemedia.com
+0.0.0.0 eec.pixel.prod2.invitemedia.com
+0.0.0.0 eu.pixel.prod2.invitemedia.com
+0.0.0.0 g-pixel.invitemedia.com
+0.0.0.0 hulu.pixel.invitemedia.com
+0.0.0.0 invitemedia.com
+0.0.0.0 lijit.pixel.invitemedia.com
+0.0.0.0 liverail.bid.invitemedia.com
+0.0.0.0 openx.px.invitemedia.com
+0.0.0.0 pixel.invitemedia.com
+0.0.0.0 pixel.prod2.invitemedia.com
+0.0.0.0 segment-pixel.invitemedia.com
+0.0.0.0 t.invitemedia.com
+0.0.0.0 va.pixel.prod2.invitemedia.com
+0.0.0.0 va.px.invitemedia.com
+0.0.0.0 vmm-pixel.invitemedia.com
+0.0.0.0 www.invitemedia.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14286,6 +14374,7 @@
 0.0.0.0 amobi.vn
 0.0.0.0 apinas.nct.vn
 0.0.0.0 banner.5giay.vn
+0.0.0.0 bgadx.com
 0.0.0.0 clevernet.vn
 0.0.0.0 click.uniad.vn
 0.0.0.0 click.xdeal.vn
@@ -14354,6 +14443,7 @@
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 collect.ovp.vn
 0.0.0.0 deqik.com
+0.0.0.0 dt.tuoitre.vn
 0.0.0.0 elogs.vnexpress.net
 0.0.0.0 fbuser.ovp.vn
 0.0.0.0 hc.viam.com.vn
@@ -18366,6 +18456,7 @@
 0.0.0.0 abcmlm.com
 0.0.0.0 abond.net
 0.0.0.0 accurate.gutterhalment.com
+0.0.0.0 adentify.com
 0.0.0.0 adfrut.cl
 0.0.0.0 adj.st
 0.0.0.0 admagnet1.com

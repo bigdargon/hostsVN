@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 10 Nov 2019 21:39 UTC+7
-! Blocked: 5,718 rules
+! Last modified: 12 Nov 2019 15:04 UTC+7
+! Blocked: 5,726 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -136,6 +136,7 @@
 ||amobi.vn^
 ||apinas.nct.vn^
 ||banner.5giay.vn^
+||bgadx.com^
 ||clevernet.vn^
 ||click.xdeal.vn^
 ||clipbongda.info^
@@ -188,6 +189,7 @@
 ||analytics.vnreview.vn^
 ||collect.ovp.vn^
 ||deqik.com^
+||dt.tuoitre.vn^
 ||elogs.vnexpress.net^
 ||fbuser.ovp.vn^
 ||log.anninhthudo.vn^
@@ -630,6 +632,7 @@
 ||iad.apple.com^
 ||iadsdk.apple.com^
 ||iap.unity3d.com^
+||ibillboard.com^
 ||iesnare.com^
 ||ilyonanalytics.herokuapp.com^
 ||im-apps.net^
@@ -649,6 +652,7 @@
 ||insightexpressai.com^
 ||instapage.com^
 ||instartlogic.com^
+||invitemedia.com^
 ||ioam.de^
 ||ionicframework.com^
 ||iperceptions.com^
@@ -701,6 +705,7 @@
 ||marketo.com^
 ||marketolive.com^
 ||mathtag.com^
+||matomo.cloud^
 ||mc.yandex.ru^
 ||mdotm.com^
 ||measuread.com^
@@ -766,6 +771,7 @@
 ||onespot-tracking.herokuapp.com^
 ||onscroll.com^
 ||onthe.io^
+||opecloud.com^
 ||openx.com^
 ||openx.net^
 ||optimizely.com^
@@ -778,6 +784,7 @@
 ||parsely.com^
 ||partnerad.l.google.com^
 ||persona.ly^
+||petametrics.com^
 ||piano.io^
 ||pingma.qq.com^
 ||pinpoint.*.amazonaws.com^
@@ -4698,6 +4705,7 @@
 ||abcmlm.com^
 ||abond.net^
 ||accurate.gutterhalment.com^
+||adentify.com^
 ||adfrut.cl^
 ||adj.st^
 ||admagnet1.com^
