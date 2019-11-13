@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 12 Nov 2019 15:16 UTC+7
-# Blocked: 18,943 domains
+# Last modified: 13 Nov 2019 11:53 UTC+7
+# Blocked: 18,957 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13434,6 +13434,23 @@
 0.0.0.0 va.px.invitemedia.com
 0.0.0.0 vmm-pixel.invitemedia.com
 0.0.0.0 www.invitemedia.com
+#[adschoom.com]
+0.0.0.0 adschoom.com
+0.0.0.0 vu.adschoom.com
+0.0.0.0 www.adschoom.com
+#[popclck.org]
+0.0.0.0 popclck.org
+0.0.0.0 n.popclck.org
+0.0.0.0 st-n.popclck.org
+0.0.0.0 www.popclck.org
+#[pmddby.com]
+0.0.0.0 pmddby.com
+0.0.0.0 s.pmddby.com
+0.0.0.0 www.pmddby.com
+#[brand.ad]
+0.0.0.0 brand.ad
+0.0.0.0 a.brand.ad
+0.0.0.0 www.brand.ad
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14336,6 +14353,12 @@
 0.0.0.0 st.adsplay.net
 0.0.0.0 static.adsplay.net
 0.0.0.0 www.adsplay.net
+#[yoads.net]
+0.0.0.0 yoads.net
+0.0.0.0 push.yoads.net
+0.0.0.0 push2.yoads.net
+0.0.0.0 www.yoads.net
+0.0.0.0 yoads.network
 # --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com
@@ -14372,6 +14395,7 @@
 0.0.0.0 alivar.com.vn
 0.0.0.0 alivar.vn
 0.0.0.0 amobi.vn
+0.0.0.0 api.nas.nct.vn
 0.0.0.0 apinas.nct.vn
 0.0.0.0 banner.5giay.vn
 0.0.0.0 bgadx.com
@@ -14392,8 +14416,6 @@
 0.0.0.0 events.vungtv.com
 0.0.0.0 fptad.com
 0.0.0.0 go.vnecdn.com
-0.0.0.0 imgraovat.vnecdn.net
-0.0.0.0 lrc.nct.nixcdn.com
 0.0.0.0 m.clevernet.vn
 0.0.0.0 m.mobilead.vn
 0.0.0.0 mepuzz.com
@@ -14435,6 +14457,7 @@
 0.0.0.0 alexajstrack.com
 0.0.0.0 amcdn.vn
 0.0.0.0 an.dongphim.net
+0.0.0.0 an.xemvtv.net
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.explus.vn
@@ -17160,7 +17183,6 @@
 0.0.0.0 myvisualiq.net
 0.0.0.0 mzbcdn.net
 0.0.0.0 n.pc2ads.com
-0.0.0.0 n.popclck.org
 0.0.0.0 n176adserv.com
 0.0.0.0 n69.com
 0.0.0.0 naiadsystems.com
@@ -17406,7 +17428,6 @@
 0.0.0.0 pontiflex.com
 0.0.0.0 pop-under.ru
 0.0.0.0 pop.bid
-0.0.0.0 popclck.org
 0.0.0.0 popflawlessads.com
 0.0.0.0 popmyads.com
 0.0.0.0 popub.com
@@ -18288,7 +18309,6 @@
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.moneymakercdn.com
 0.0.0.0 www.myadsystem.com
-0.0.0.0 www.n.popclck.org
 0.0.0.0 www.nikitinskysport.ru
 0.0.0.0 www.onclickmega.com
 0.0.0.0 www.onclicksuper.com
@@ -18347,7 +18367,6 @@
 0.0.0.0 ylx-3.com
 0.0.0.0 ylx-4.com
 0.0.0.0 ymetrica1.com
-0.0.0.0 yoads.network
 0.0.0.0 yoc-performance.com
 0.0.0.0 yoc.mobi
 0.0.0.0 yoggrt.com
