@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 19 Nov 2019 20:10 UTC+7
-# Blocked: 18,957 domains
+# Last modified: 19 Nov 2019 20:19 UTC+7
+# Blocked: 18,926 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -4136,63 +4136,32 @@
 0.0.0.0 gj.track.uc.cn
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 woodpecker.uc.cn
-#[appspot]
-0.0.0.0 8.dramafeverw2.appspot.com
-0.0.0.0 adasiatagmanager.appspot.com
-0.0.0.0 adscaspion.appspot.com
-0.0.0.0 advancedtracker.appspot.com
-0.0.0.0 agilecrm-web-stats.appspot.com
-0.0.0.0 alt.bugsense.appspot.com
+#[appspot.com]
 0.0.0.0 amp-error-reporting.appspot.com
-0.0.0.0 androidquery.appspot.com
 0.0.0.0 axislogger.appspot.com
 0.0.0.0 bdg-analytics.appspot.com
 0.0.0.0 bitdash-reporting.appspot.com
-0.0.0.0 bitmovin-bitanalytics.appspot.com
-0.0.0.0 bugsense.appspot.com
 0.0.0.0 caspionlog.appspot.com
-0.0.0.0 crwscdn.appspot.com
-0.0.0.0 crwscdn9.appspot.com
 0.0.0.0 csp-collector.appspot.com
-0.0.0.0 chrome-devtools-frontend.appspot.com
-0.0.0.0 chtatic.appspot.com
-0.0.0.0 echofonads.appspot.com
-0.0.0.0 eqs-redserver.appspot.com
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
+0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 geoapi123.appspot.com
-0.0.0.0 geo-locate.appspot.com
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 gu-pix.appspot.com
-0.0.0.0 hnbutton.appspot.com
-0.0.0.0 ima3vpaid.appspot.com
 0.0.0.0 ip-geo.appspot.com
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 javascriptcounter.appspot.com
-0.0.0.0 json-cricket.appspot.com
 0.0.0.0 mailfoogae.appspot.com
-0.0.0.0 mobilemetrics.appspot.com
-0.0.0.0 musculahq.appspot.com
 0.0.0.0 nojsstats.appspot.com
-0.0.0.0 offerssyndication.appspot.com
-0.0.0.0 openamp-error-reporting.appspot.com
 0.0.0.0 optimizely.appspot.com
 0.0.0.0 petitionermaster.appspot.com
+0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 prexyone.appspot.com
 0.0.0.0 qubitanalytics.appspot.com
-0.0.0.0 revealads.appspot.com
-0.0.0.0 rs-xpromotion.appspot.com
 0.0.0.0 sc-analytics.appspot.com
-0.0.0.0 sensytracker.appspot.com
-0.0.0.0 snapabug.appspot.com
 0.0.0.0 tap-nexus.appspot.com
-0.0.0.0 triggeredmail.appspot.com
 0.0.0.0 vkcdnservice.appspot.com
-0.0.0.0 vuukle-analytics.appspot.com
-0.0.0.0 webiq-cdn.appspot.com
-0.0.0.0 webiq-cdn-hr.appspot.com
-0.0.0.0 webiq-warp.appspot.com
-0.0.0.0 webiq-warp-hrd.appspot.com
 #[branch]
 0.0.0.0 ai.branch.io
 0.0.0.0 api.alpha.branch.io

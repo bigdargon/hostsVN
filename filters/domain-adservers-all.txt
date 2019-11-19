@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 19 Nov 2019 20:10 UTC+7
-! Blocked: 5,729 rules
+! Last modified: 19 Nov 2019 20:19 UTC+7
+! Blocked: 5,730 rules
 ! The section containing the list contains all ad networks and tracking
 !
 accesstrade.com.vn
@@ -420,6 +420,7 @@ amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazon-adsystems.com
 ambimob.com
+amp-error-reporting.appspot.com
 amplitude.com
 amung.us
 an*adserv.online
