@@ -20,6 +20,7 @@
 ^https?://spclient.wg.spotify.com/.+ad_slot
 ^https?://spclient.wg.spotify.com/.+banners
 ^https?://spclient.wg.spotify.com/.+canvases
+^https?://spclient.wg.spotify.com/.+cards
 ^https?://spclient.wg.spotify.com/.+crashlytics
 ^https?://spclient.wg.spotify.com/.+doubleclick.net
 ^https?://spclient.wg.spotify.com/.+enabled-tracks
