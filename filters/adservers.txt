@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 19 Nov 2019 20:19 UTC+7
-! Blocked: 279 rules
+! Last modified: 23 Nov 2019 22:36 UTC+7
+! Blocked: 285 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -22,6 +22,7 @@
 ||adservice.google.com.vn^
 ||adsota.com^
 ||adsplay.net^
+||adsplay.xyz^
 ||adtima*.zadn.vn^
 ||adtima.vn^
 ||adtimaserver.vn^
@@ -108,6 +109,7 @@
 ||ad.24h.com.vn^
 ||ad.icheck.com.vn^
 ||ad.mwork.vn^
+||ad.sunflower.vn^
 ||ad.vatgia.com^
 ||ad.vietbao.vn^
 ||ad.vkool.net^
@@ -122,9 +124,11 @@
 ||ads-cdn.fptplay.net^
 ||ads.baodatviet.vn^
 ||ads.careerbuilder.vn^
+||ads.fptplay.net.vn^
 ||ads.home.vn^
 ||ads.ictnews.vn^
 ||ads.itsgroup.vn^
+||ads.khoahocdoisong.vn^
 ||ads.tiki.vn^
 ||adserver.lag.vn^
 ||adsplus.vn^
@@ -165,6 +169,7 @@
 ||quangcao.24h.com.vn^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
+||quangcao247.com.vn^
 ||serving-ad.tv24.vn^
 ||stc-nas.nixcdn.com^
 ||stc.nas.nixcdn.com^
@@ -195,6 +200,7 @@
 ||elogs.vnexpress.net^
 ||fbuser.ovp.vn^
 ||log.anninhthudo.vn^
+||log.baodatviet.vn^
 ||log.baomoi.com^
 ||log.batdongsan.com.vn^
 ||log.giaoduc.net.vn^

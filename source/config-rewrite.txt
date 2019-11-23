@@ -29,7 +29,7 @@
 
 #google
 ^https?:\/\/.+\.googlevideo\.com\/.+&oad
-^https?:\/\/.+\.googlevideo\.com\/.+&owc
+#^https?:\/\/.+\.googlevideo\.com\/.+&owc
 ^https?:\/\/.+\.googlevideo\.com\/.+ctier
 ^https?:\/\/.+\.googlevideo\.com\/ptracking\?pltype=adhost
 ^https?:\/\/.+\.googlevideo\.com\/videogoodput\?
