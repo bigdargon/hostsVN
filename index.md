@@ -13,17 +13,17 @@
 
 Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặn quảng cáo, mỗi ứng dụng có ưu và khuyết điểm khác nhau. Tùy vào nhu cầu mỗi người mà chọn ứng dụng cho phù hợp.
 
-|   |**Surge**|**Adguard Pro**|**Quantumult**|**Quantumult X**|**Adblock**|
+|   |**Surge**|**Adguard Pro**|**Quantumult X**|**Adblock**|**Shadowrocket**|
 |:-|:-:|:-:|:-:|:-:|:-:|
-|iOS hỗ trợ|iOS 10|iOS 10|iOS 10|iOS 10|iOS 10|
-|Giá|**Miễn phí**|45.000 VND|109.000 VND|109.000 VND|45.000 VND|
+|iOS hỗ trợ|iOS 10|iOS 10|iOS 10|iOS 10|iOS 9|
+|Giá|**Miễn phí**|45.000 VND|109.000 VND|45.000 VND|69.000 VND|
 |Mua trong ứng dụng|Có|**Không**|**Không**|**Không**|**Không**|
-|Đặc điểm|Tool phân tích|Chặn quảng cáo|Tool phân tích|Tool phân tích|Chặn quảng cáo|
-|VPN bật khi khởi động|Không|**Có**|Không|**Có**|**Có**|
-|Tự động cập nhật|**Có**|**Có**|Không|Không|Không|
-|Điều chỉnh cập nhật|**Có**|**Có**|**Có**|**Có**|Không|
-|Tải về|[Tải về](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tải về](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tải về](https://itunes.apple.com/app/quantumult/id1252015438?mt=8)|[Tải về](https://itunes.apple.com/app/quantumult-x/id1443988620?mt=8)|[Tải về](https://itunes.apple.com/app/adblock/id691121579?mt=8)|
-|Hướng dẫn|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Quantumult)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adblock)|
+|Đặc điểm|Tool phân tích|Chặn quảng cáo|Tool phân tích|Chặn quảng cáo|Tool phân tích|
+|VPN bật khi khởi động|Không|**Có**|**Có**|**Có**|**Có**|
+|Tự động cập nhật|**Có**|**Có**|**Có**|Không|Không|
+|Điều chỉnh cập nhật|**Có**|**Có**|**Có**|Không|**Có**|
+|Tải về|[Tải về](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tải về](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tải về](https://itunes.apple.com/app/quantumult-x/id1443988620?mt=8)|[Tải về](https://itunes.apple.com/app/adblock/id691121579?mt=8)|[Tải về](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|
+|Hướng dẫn|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adblock)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|
 
 Vậy chọn ứng dụng nào phù hợp? Theo kinh nghiệm cá nhân
 - Để chặn trên `Safari`, sử dụng [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard).
