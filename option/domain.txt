@@ -423,7 +423,6 @@ alexa-sitestats.s3.amazonaws.com
 campaign-tapad.s3.amazonaws.com
 cdn.installationsafe.net.s3.amazonaws.com
 digital-ads.s3.amazonaws.com
-ec2-13-58-215-234.us-east-2.compute.amazonaws.com
 ecommstats.s3.amazonaws.com
 entrecard.s3.amazonaws.com
 exitsplash.s3.amazonaws.com
@@ -431,7 +430,6 @@ html5adkit.plusmo.s3.amazonaws.com
 htmlads.s3.amazonaws.com
 iacpromotion.s3.amazonaws.com
 inneractive-assets.s3.amazonaws.com
-kinesis.us-east-1.amazonaws.com
 load.s3.amazonaws.com
 matchbin-assets.s3.amazonaws.com
 mobileanalytics.us-east-1.amazonaws.com
@@ -861,6 +859,19 @@ smartadserver.com
 tcy.smartadserver.com
 tmk.smartadserver.com
 www.smartadserver.com
+ak-ns.sascdn.com
+ak.sascdn.com
+ced-ns.sascdn.com
+ced.sascdn.com
+ec-ns.sascdn.com
+ec.sascdn.com
+r.sascdn.com
+sascdn.com
+www.sascdn.com
+smart.styria-digital.com
+static.styria-digital.com
+styria-digital.com
+www.styria-digital.com
 anycast.popads.net
 banners.popads.net
 c1.popads.net
@@ -13448,6 +13459,7 @@ sp.zalo.me
 ads.zaloapp.com
 log.api.zaloapp.com
 px.za.zaloapp.com
+shop.zaloapp.com
 static-ads.zaloapp.com
 stats.zaloapp.com
 zminer.zaloapp.com
@@ -14029,6 +14041,7 @@ ads.home.vn
 ads.ictnews.vn
 ads.itsgroup.vn
 ads.khoahocdoisong.vn
+ads.phunuonline.com.vn
 ads.tiki.vn
 ads1.careerbuilder.vn
 adserver.lag.vn
@@ -15413,7 +15426,6 @@ aim4media.com
 airpush.com
 aistat.net
 ajouter.net
-ak-ns.sascdn.com
 ak0gsh40.com
 alb.reddit.com
 alclick.com
@@ -15793,7 +15805,6 @@ cdnondemand.org
 cdnproviders.net
 cdnstoremedia.com
 cecash.com
-ced.sascdn.com
 celeritascdn.com
 celltick.com
 centerpointmedia.com
@@ -16111,7 +16122,6 @@ easyhits4u.com
 ebayadvertising.com
 ebocornac.com
 ebuzzing.com
-ec-ns.sascdn.com
 eccdn1.synad3.nuffnang.com.my
 ecircle-ag.com
 eclickz.com
@@ -17142,6 +17152,7 @@ puffypull.com
 puffypurpose.com
 pulse360.com
 push-notifications.top
+pushazam.com
 pushazer.com
 pushengage.com
 pushlaram.com
@@ -17291,7 +17302,6 @@ sageanalyst.net
 sail-horizon.com
 samsungacr.com
 samsungads.com
-sascdn.com
 saysidewalk.com
 sbbanner.com
 sbx.pagesjaunes.fr
@@ -18010,6 +18020,7 @@ ylx-2.com
 ylx-3.com
 ylx-4.com
 ymetrica1.com
+yoc-adserver.com
 yoc-performance.com
 yoc.mobi
 yoggrt.com

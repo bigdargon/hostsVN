@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 23 Nov 2019 22:36 UTC+7
-# Blocked: 19,176 domains
+# Last modified: 29 Nov 2019 21:43 UTC+7
+# Blocked: 19,187 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -438,7 +438,6 @@
 0 campaign-tapad.s3.amazonaws.com
 0 cdn.installationsafe.net.s3.amazonaws.com
 0 digital-ads.s3.amazonaws.com
-0 ec2-13-58-215-234.us-east-2.compute.amazonaws.com
 0 ecommstats.s3.amazonaws.com
 0 entrecard.s3.amazonaws.com
 0 exitsplash.s3.amazonaws.com
@@ -446,7 +445,6 @@
 0 htmlads.s3.amazonaws.com
 0 iacpromotion.s3.amazonaws.com
 0 inneractive-assets.s3.amazonaws.com
-0 kinesis.us-east-1.amazonaws.com
 0 load.s3.amazonaws.com
 0 matchbin-assets.s3.amazonaws.com
 0 mobileanalytics.us-east-1.amazonaws.com
@@ -876,6 +874,19 @@
 0 tcy.smartadserver.com
 0 tmk.smartadserver.com
 0 www.smartadserver.com
+0 ak-ns.sascdn.com
+0 ak.sascdn.com
+0 ced-ns.sascdn.com
+0 ced.sascdn.com
+0 ec-ns.sascdn.com
+0 ec.sascdn.com
+0 r.sascdn.com
+0 sascdn.com
+0 www.sascdn.com
+0 smart.styria-digital.com
+0 static.styria-digital.com
+0 styria-digital.com
+0 www.styria-digital.com
 0 anycast.popads.net
 0 banners.popads.net
 0 c1.popads.net
@@ -13463,6 +13474,7 @@
 0 ads.zaloapp.com
 0 log.api.zaloapp.com
 0 px.za.zaloapp.com
+0 shop.zaloapp.com
 0 static-ads.zaloapp.com
 0 stats.zaloapp.com
 0 zminer.zaloapp.com
@@ -14044,6 +14056,7 @@
 0 ads.ictnews.vn
 0 ads.itsgroup.vn
 0 ads.khoahocdoisong.vn
+0 ads.phunuonline.com.vn
 0 ads.tiki.vn
 0 ads1.careerbuilder.vn
 0 adserver.lag.vn
@@ -15428,7 +15441,6 @@
 0 airpush.com
 0 aistat.net
 0 ajouter.net
-0 ak-ns.sascdn.com
 0 ak0gsh40.com
 0 alb.reddit.com
 0 alclick.com
@@ -15808,7 +15820,6 @@
 0 cdnproviders.net
 0 cdnstoremedia.com
 0 cecash.com
-0 ced.sascdn.com
 0 celeritascdn.com
 0 celltick.com
 0 centerpointmedia.com
@@ -16126,7 +16137,6 @@
 0 ebayadvertising.com
 0 ebocornac.com
 0 ebuzzing.com
-0 ec-ns.sascdn.com
 0 eccdn1.synad3.nuffnang.com.my
 0 ecircle-ag.com
 0 eclickz.com
@@ -17157,6 +17167,7 @@
 0 puffypurpose.com
 0 pulse360.com
 0 push-notifications.top
+0 pushazam.com
 0 pushazer.com
 0 pushengage.com
 0 pushlaram.com
@@ -17306,7 +17317,6 @@
 0 sail-horizon.com
 0 samsungacr.com
 0 samsungads.com
-0 sascdn.com
 0 saysidewalk.com
 0 sbbanner.com
 0 sbx.pagesjaunes.fr
@@ -18025,6 +18035,7 @@
 0 ylx-3.com
 0 ylx-4.com
 0 ymetrica1.com
+0 yoc-adserver.com
 0 yoc-performance.com
 0 yoc.mobi
 0 yoggrt.com

@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 23 Nov 2019 22:36 UTC+7
-! Blocked: 5,755 rules
+! Last modified: 29 Nov 2019 21:43 UTC+7
+! Blocked: 5,756 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -85,6 +85,7 @@
 ||sharks.vn^
 ||shop-cdn.coccoc.com^
 ||shop.zalo.me^
+||shop.zaloapp.com^
 ||shopping.coccoc.com^
 ||sp.zalo.me^
 ||static-ads.zaloapp.com^
@@ -129,6 +130,7 @@
 ||ads.ictnews.vn^
 ||ads.itsgroup.vn^
 ||ads.khoahocdoisong.vn^
+||ads.phunuonline.com.vn^
 ||ads.tiki.vn^
 ||adserver.lag.vn^
 ||adsplus.vn^
@@ -693,7 +695,6 @@
 ||jwpltx.com^
 ||kaffnet.com^
 ||kau.li^
-||kinesis.*.amazonaws.com^
 ||knowlead.io^
 ||kochava.com^
 ||krxd.net^
@@ -863,6 +864,7 @@
 ||s-onetag.com^
 ||safedk.com^
 ||samba.tv^
+||sascdn.com^
 ||scanscout.com^
 ||scorecardresearch.com^
 ||segment.com^
@@ -908,6 +910,7 @@
 ||steelhousemedia.com^
 ||steepto.com^
 ||stickyadstv.com^
+||styria-digital.com^
 ||superfastmediation.com^
 ||supersonicads.com^
 ||sworkitads.herokuapp.com^
@@ -2076,7 +2079,6 @@
 ||airpush.com^
 ||aistat.net^
 ||ajouter.net^
-||ak-ns.sascdn.com^
 ||ak0gsh40.com^
 ||alb.reddit.com^
 ||alclick.com^
@@ -2454,7 +2456,6 @@
 ||cdnproviders.net^
 ||cdnstoremedia.com^
 ||cecash.com^
-||ced.sascdn.com^
 ||celeritascdn.com^
 ||celltick.com^
 ||centerpointmedia.com^
@@ -2773,7 +2774,6 @@
 ||ebayadvertising.com^
 ||ebocornac.com^
 ||ebuzzing.com^
-||ec-ns.sascdn.com^
 ||eccdn1.synad3.nuffnang.com.my^
 ||ecircle-ag.com^
 ||eclickz.com^
@@ -3806,6 +3806,7 @@
 ||puffypurpose.com^
 ||pulse360.com^
 ||push-notifications.top^
+||pushazam.com^
 ||pushazer.com^
 ||pushengage.com^
 ||pushlaram.com^
@@ -3955,7 +3956,6 @@
 ||sail-horizon.com^
 ||samsungacr.com^
 ||samsungads.com^
-||sascdn.com^
 ||saysidewalk.com^
 ||sbbanner.com^
 ||sbx.pagesjaunes.fr^
@@ -4624,6 +4624,7 @@
 ||ylx-3.com^
 ||ylx-4.com^
 ||ymetrica1.com^
+||yoc-adserver.com^
 ||yoc-performance.com^
 ||yoc.mobi^
 ||yoggrt.com^

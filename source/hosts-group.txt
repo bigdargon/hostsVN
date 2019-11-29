@@ -432,7 +432,6 @@
 0.0.0.0 campaign-tapad.s3.amazonaws.com
 0.0.0.0 cdn.installationsafe.net.s3.amazonaws.com
 0.0.0.0 digital-ads.s3.amazonaws.com
-0.0.0.0 ec2-13-58-215-234.us-east-2.compute.amazonaws.com
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 entrecard.s3.amazonaws.com
 0.0.0.0 exitsplash.s3.amazonaws.com
@@ -440,7 +439,6 @@
 0.0.0.0 htmlads.s3.amazonaws.com
 0.0.0.0 iacpromotion.s3.amazonaws.com
 0.0.0.0 inneractive-assets.s3.amazonaws.com
-0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 load.s3.amazonaws.com
 0.0.0.0 matchbin-assets.s3.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
@@ -884,6 +882,21 @@
 0.0.0.0 tcy.smartadserver.com
 0.0.0.0 tmk.smartadserver.com
 0.0.0.0 www.smartadserver.com
+#[sascdn.com]
+0.0.0.0 ak-ns.sascdn.com
+0.0.0.0 ak.sascdn.com
+0.0.0.0 ced-ns.sascdn.com
+0.0.0.0 ced.sascdn.com
+0.0.0.0 ec-ns.sascdn.com
+0.0.0.0 ec.sascdn.com
+0.0.0.0 r.sascdn.com
+0.0.0.0 sascdn.com
+0.0.0.0 www.sascdn.com
+#[styria-digital.com]
+0.0.0.0 smart.styria-digital.com
+0.0.0.0 static.styria-digital.com
+0.0.0.0 styria-digital.com
+0.0.0.0 www.styria-digital.com
 #[popads]
 0.0.0.0 anycast.popads.net
 0.0.0.0 banners.popads.net

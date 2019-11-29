@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 23 Nov 2019 22:36 UTC+7
-! Blocked: 285 rules
+! Last modified: 29 Nov 2019 21:43 UTC+7
+! Blocked: 287 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -85,6 +85,7 @@
 ||sharks.vn^
 ||shop-cdn.coccoc.com^
 ||shop.zalo.me^
+||shop.zaloapp.com^
 ||shopping.coccoc.com^
 ||sp.zalo.me^
 ||static-ads.zaloapp.com^
@@ -129,6 +130,7 @@
 ||ads.ictnews.vn^
 ||ads.itsgroup.vn^
 ||ads.khoahocdoisong.vn^
+||ads.phunuonline.com.vn^
 ||ads.tiki.vn^
 ||adserver.lag.vn^
 ||adsplus.vn^
