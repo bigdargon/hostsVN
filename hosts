@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 29 Nov 2019 21:43 UTC+7
-# Blocked: 19,187 domains
+# Last modified: 01 Dec 2019 22:29 UTC+7
+# Blocked: 19,222 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -637,6 +637,13 @@
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 sonar-iad.xx.fbcdn.net
 0.0.0.0 graph.instagram.com
+#[update.fbsbx.com]
+0.0.0.0 o.update.fbsbx.com
+0.0.0.0 p.update.fbsbx.com
+0.0.0.0 post.update.fbsbx.com
+0.0.0.0 s.update.fbsbx.com
+0.0.0.0 t.update.fbsbx.com
+0.0.0.0 u.update.fbsbx.com
 #[twitter]
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
@@ -13658,6 +13665,28 @@
 0.0.0.0 prebid.s-onetag.com
 0.0.0.0 s-onetag.com
 0.0.0.0 www.s-onetag.com
+#[gop1.co]
+0.0.0.0 aos.gop1.co
+0.0.0.0 g.gop1.co
+0.0.0.0 geo.gop1.co
+0.0.0.0 gop1.co
+0.0.0.0 img.gop1.co
+0.0.0.0 in1.gop1.co
+0.0.0.0 log.gop1.co
+0.0.0.0 offer.gop1.co
+#[adspsp.com]
+0.0.0.0 adspsp.com
+0.0.0.0 bids.adspsp.com
+0.0.0.0 cc.adspsp.com
+0.0.0.0 prod.adspsp.com
+#[islandmob.com]
+0.0.0.0 cdn.islandmob.com
+0.0.0.0 islandmob.com
+0.0.0.0 www.islandmob.com
+#[viruspro.pro]
+0.0.0.0 static.viruspro.pro
+0.0.0.0 viruspro.pro
+0.0.0.0 www.viruspro.pro
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14221,6 +14250,11 @@
 0.0.0.0 sale.dsmartvietnam.com
 0.0.0.0 landingpagelagi.vn
 0.0.0.0 www.landingpagelagi.vn
+0.0.0.0 ladipage.com
+0.0.0.0 api.ladipage.com
+0.0.0.0 builder.ladipage.com
+0.0.0.0 dns.ladipage.com
+0.0.0.0 la.ladipage.com
 #[ezimar.com]
 0.0.0.0 caohavan.ezimar.com
 0.0.0.0 ezdns.ezimar.com
@@ -16243,6 +16277,7 @@
 0.0.0.0 bc.marfeel.com
 0.0.0.0 bcfads.com
 0.0.0.0 bcmediagroup.com
+0.0.0.0 beabsolom.com
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 bead-ad.com
 0.0.0.0 beamincrease.com
@@ -16683,6 +16718,7 @@
 0.0.0.0 domdex.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
+0.0.0.0 doublepimpads.com
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 downloadr.xyz
 0.0.0.0 dq95d35.com
@@ -16710,6 +16746,7 @@
 0.0.0.0 easydownloadnow.com
 0.0.0.0 easyhits4u.com
 0.0.0.0 ebayadvertising.com
+0.0.0.0 ebetoni.com
 0.0.0.0 ebocornac.com
 0.0.0.0 ebuzzing.com
 0.0.0.0 eccdn1.synad3.nuffnang.com.my
@@ -17695,6 +17732,7 @@
 0.0.0.0 presetrabbits.com
 0.0.0.0 previousplayground.com
 0.0.0.0 previouspotato.com
+0.0.0.0 prfwpclck.com
 0.0.0.0 primaryads.com
 0.0.0.0 primetime.net
 0.0.0.0 privacyassistant.net
@@ -19779,3 +19817,6 @@
 0.0.0.0 d2r173wcohmi6.cloudfront.net
 0.0.0.0 d2wbr3tthrn9lu.cloudfront.net
 0.0.0.0 dql2sdu63f1cw.cloudfront.net
+#[gop1.co]
+0.0.0.0 d1v373ntykegkp.cloudfront.net
+0.0.0.0 d3luypns9uh4a4.cloudfront.net

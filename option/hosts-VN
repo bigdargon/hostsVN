@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 29 Nov 2019 21:43 UTC+7
-# Blocked: 1,201 domains
+# Last modified: 01 Dec 2019 22:29 UTC+7
+# Blocked: 1,206 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -572,6 +572,11 @@
 0.0.0.0 sale.dsmartvietnam.com
 0.0.0.0 landingpagelagi.vn
 0.0.0.0 www.landingpagelagi.vn
+0.0.0.0 ladipage.com
+0.0.0.0 api.ladipage.com
+0.0.0.0 builder.ladipage.com
+0.0.0.0 dns.ladipage.com
+0.0.0.0 la.ladipage.com
 #[ezimar.com]
 0.0.0.0 caohavan.ezimar.com
 0.0.0.0 ezdns.ezimar.com

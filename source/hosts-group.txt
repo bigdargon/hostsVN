@@ -626,6 +626,13 @@
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 sonar-iad.xx.fbcdn.net
 0.0.0.0 graph.instagram.com
+#[update.fbsbx.com]
+0.0.0.0 o.update.fbsbx.com
+0.0.0.0 p.update.fbsbx.com
+0.0.0.0 post.update.fbsbx.com
+0.0.0.0 s.update.fbsbx.com
+0.0.0.0 t.update.fbsbx.com
+0.0.0.0 u.update.fbsbx.com
 #[twitter]
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
@@ -13647,3 +13654,25 @@
 0.0.0.0 prebid.s-onetag.com
 0.0.0.0 s-onetag.com
 0.0.0.0 www.s-onetag.com
+#[gop1.co]
+0.0.0.0 aos.gop1.co
+0.0.0.0 g.gop1.co
+0.0.0.0 geo.gop1.co
+0.0.0.0 gop1.co
+0.0.0.0 img.gop1.co
+0.0.0.0 in1.gop1.co
+0.0.0.0 log.gop1.co
+0.0.0.0 offer.gop1.co
+#[adspsp.com]
+0.0.0.0 adspsp.com
+0.0.0.0 bids.adspsp.com
+0.0.0.0 cc.adspsp.com
+0.0.0.0 prod.adspsp.com
+#[islandmob.com]
+0.0.0.0 cdn.islandmob.com
+0.0.0.0 islandmob.com
+0.0.0.0 www.islandmob.com
+#[viruspro.pro]
+0.0.0.0 static.viruspro.pro
+0.0.0.0 viruspro.pro
+0.0.0.0 www.viruspro.pro
