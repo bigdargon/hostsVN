@@ -47,6 +47,8 @@
 #tiktok
 ^https?:\/\/.+\.tiktokv\.com\/api\/ad\/
 ^https?:\/\/.+\.tiktokv\.com\/aweme\/.+stats\/
+^https?:\/\/.+\.musical\.ly\/api\/ad\/
+^https?:\/\/.+\.musical\.ly\/aweme\/.+stats\/
 
 #zalo
 ^https?://qos-zdn.zaloapp.com/.+trackqos
