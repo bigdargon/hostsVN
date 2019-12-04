@@ -49,8 +49,7 @@ Bạn có thể sử dụng một số ứng dụng và tham khảo hướng d�
 * Quantumult - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
 * Quantumult X - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X)
 * Adblock - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Adblock)
-
-> Adblock và Adguard Pro là các ứng dụng chặn quảng cáo. Còn Quantumult, Quantumult X và Surge là các ứng dụng proxy.
+* Shadowrocket - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)
 
 ## Các ứng dụng ở trên sử dụng cho hệ điều hành iOS, vậy tôi có thể dùng cho các hệ điều hành khác hay không?
 
