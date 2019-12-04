@@ -439,6 +439,7 @@
 *analytics.google.com
 *analytics.msn.com
 *analytics.query.yahoo.com
+*analytics.snssdk.com
 *analytics.spotify.com
 *analytics.yahoo.com
 *aniview.com
@@ -457,6 +458,7 @@
 *appier.net
 *applifier.com
 *applifier.info
+*applog.snssdk.com
 *applovin.com
 *applvn.com
 *appnext.com
@@ -541,7 +543,9 @@
 *clickintext.net
 *clicktale.net
 *client-event-reporter.twitch.tv
+*client_monitor.isnssdk.com
 *clientmetrics-pa.googleapis.com
+*clientmonitor.isnssdk.com
 *clksite.com
 *clog.go.com
 *cloud.unity3d.com
@@ -679,9 +683,7 @@
 *ioam.de
 *ionicframework.com
 *iperceptions.com
-*ipstatp.com
 *islandmob.com
-*isnssdk.com
 *izooto.com
 *jetlore.com
 *jpush.cn
@@ -710,6 +712,8 @@
 *llnwd.net
 *localytics.com
 *log*.byteoversea.com
+*log*.isnssdk.com
+*log*.snssdk.com
 *log.go.com
 *log.spotify.com
 *log.tiktokv.com
@@ -763,6 +767,8 @@
 *moengage.com
 *mojiva.com
 *mon*.byteoversea.com
+*mon*.isnssdk.com
+*mon*.snssdk.com
 *mon-thu*.life
 *mon.tiktokv.com
 *mookie1.com
@@ -835,7 +841,6 @@
 *prebid.org
 *propellerads.com
 *propellerclick.com
-*pstatp.com
 *pub.network
 *pubmatic.com
 *pubmine.com
@@ -855,7 +860,9 @@
 *revcontent.com
 *revive-adserver.com
 *rfihub.com
+*rtapplog.snssdk.com
 *rtbid.me
+*rtlog.isnssdk.com
 *rtmark.net
 *rubiconproject.com
 *run-syndicate.com
@@ -887,7 +894,6 @@
 *smaato.net
 *smartadserver.com
 *smetrics.cnn.com
-*snssdk.com
 *socdm.com
 *sociaplus.com
 *sonar-iad.xx.fbcdn.net
@@ -970,6 +976,7 @@
 *www-google-analytics.l.google.com
 *www-googletagmanager.l.google.com
 *xlog*.byteoversea.com
+*xlog.snssdk.com
 *xlog.tiktokv.com
 *xslt.alexa.com
 *yadro.ru
