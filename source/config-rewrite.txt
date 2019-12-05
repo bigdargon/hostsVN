@@ -46,11 +46,12 @@
 
 #tiktok
 ^https?:\/\/.+\.tiktokv\.com\/api\/ad\/
-^https?:\/\/.+\.tiktokv\.com\/aweme\/.+stats\/
+^https?:\/\/.+\.tiktokv\.com\/.+stats\/
 ^https?:\/\/.+\.musical\.ly\/api\/ad\/
-^https?:\/\/.+\.musical\.ly\/aweme\/.+stats\/
+^https?:\/\/.+\.musical\.ly\/.+stats\/
 ^https?:\/\/.+\.snssdk\.com\/api\/ad\/
 ^https?:\/\/.+\.snssdk\.com\/.+stats\/
+^https?:\/\/.+\.snssdk\.com\/.+promotion\/
 
 #zalo
 ^https?://qos-zdn.zaloapp.com/.+trackqos
