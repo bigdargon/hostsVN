@@ -50,8 +50,10 @@
 ^https?:\/\/.+\.musical\.ly\/api\/ad\/
 ^https?:\/\/.+\.musical\.ly\/.+stats\/
 ^https?:\/\/.+\.snssdk\.com\/api\/ad\/
-^https?:\/\/.+\.snssdk\.com\/.+stats\/
+^https?:\/\/.+\.snssdk\.com\/.+app_log\/
+^https?:\/\/.+\.snssdk\.com\/.+monitor\/
 ^https?:\/\/.+\.snssdk\.com\/.+promotion\/
+^https?:\/\/.+\.snssdk\.com\/.+stats\/
 
 #zalo
 ^https?://qos-zdn.zaloapp.com/.+trackqos
