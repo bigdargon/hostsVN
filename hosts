@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Dec 2019 14:51 UTC+7
-# Version: 1912051451
-# Blocked: 19,132 domains
+# Last modified: 06 Dec 2019 16:12 UTC+7
+# Version: 1912061612
+# Blocked: 19,140 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13596,6 +13596,10 @@
 0.0.0.0 static.viruspro.pro
 0.0.0.0 viruspro.pro
 0.0.0.0 www.viruspro.pro
+#[domnovrek.com]
+0.0.0.0 domnovrek.com
+0.0.0.0 n.domnovrek.com
+0.0.0.0 st-n.domnovrek.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14544,6 +14548,20 @@
 0.0.0.0 wifi-api2.adsplay.xyz
 0.0.0.0 wifi-api3.adsplay.xyz
 0.0.0.0 wifi-api4.adsplay.xyz
+#[viam.com.vn]
+0.0.0.0 hc.viam.com.vn
+0.0.0.0 viam.com.vn
+0.0.0.0 www.viam.com.vn
+#[vads.vn]
+0.0.0.0 baogia.vads.vn
+0.0.0.0 images.vads.vn
+0.0.0.0 vads.vn
+0.0.0.0 www.vads.vn
+#[vads.net.vn]
+0.0.0.0 client.vads.net.vn
+0.0.0.0 log.vads.net.vn
+0.0.0.0 vads.net.vn
+0.0.0.0 www.vads.net.vn
 # --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com
@@ -14558,6 +14576,7 @@
 0.0.0.0 ad.vkool.net
 0.0.0.0 adchoice.com
 0.0.0.0 adchoice.com.vn
+0.0.0.0 adclient.vietnamnetjsc.vn
 0.0.0.0 adfox.vn
 0.0.0.0 admedia.com.vn
 0.0.0.0 admin.sothuchi.vn
@@ -14591,7 +14610,6 @@
 0.0.0.0 clevernet.vn
 0.0.0.0 click.uniad.vn
 0.0.0.0 click.xdeal.vn
-0.0.0.0 client.vads.net.vn
 0.0.0.0 clipbongda.info
 0.0.0.0 clix.vn
 0.0.0.0 cms.vinaads.vn
@@ -14630,8 +14648,6 @@
 0.0.0.0 uniad.phimmoi.net
 0.0.0.0 uniad.vn
 0.0.0.0 upfile16.mediaphim.com
-0.0.0.0 vads.net.vn
-0.0.0.0 vads.vn
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vinaads.vn
@@ -14659,7 +14675,6 @@
 0.0.0.0 dt.tuoitre.vn
 0.0.0.0 elogs.vnexpress.net
 0.0.0.0 fbuser.ovp.vn
-0.0.0.0 hc.viam.com.vn
 0.0.0.0 hostmaster.trending.vn
 0.0.0.0 log.anninhthudo.vn
 0.0.0.0 log.baodatviet.vn
@@ -14678,7 +14693,6 @@
 0.0.0.0 logging.galaxypub.vn
 0.0.0.0 logging.phunuonline.com.vn
 0.0.0.0 logsbin.dantri.com.vn
-0.0.0.0 mail.viam.com.vn
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
@@ -14704,14 +14718,12 @@
 0.0.0.0 trackity.tiki.vn
 0.0.0.0 trending.vn
 0.0.0.0 userstats.shopee.vn
-0.0.0.0 viam.com.vn
 0.0.0.0 vn.alexajstrack.com
 0.0.0.0 vtrack.vht.com.vn
 0.0.0.0 web.f8.pyco.vn
 0.0.0.0 web.stagingf8.pycogroup.com
 0.0.0.0 widget.nhaccuatui.com
 0.0.0.0 www.trending.vn
-0.0.0.0 www.viam.com.vn
 # --- Block betVN ---
 0.0.0.0 11bet.com
 0.0.0.0 lucky88.com

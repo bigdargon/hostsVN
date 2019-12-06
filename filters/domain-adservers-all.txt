@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 05 Dec 2019 14:51 UTC+7
-! Version: 1912051451
-! Blocked: 5,774 rules
+! Last modified: 06 Dec 2019 16:12 UTC+7
+! Version: 1912061612
+! Blocked: 5,776 rules
 ! The section containing the list contains all ad networks and tracking
 !
 accesstrade.com.vn
@@ -93,7 +93,10 @@ sp.zalo.me
 static-ads.zaloapp.com
 stats.zaloapp.com
 tracking.*.zing.vn
+vads.net.vn
+vads.vn
 vclick.vn
+viam.com.vn
 vietad.vn
 vietnamnetad.vn
 yoads.net
@@ -118,6 +121,7 @@ ad.vietbao.vn
 ad.vkool.net
 adchoice.com
 adchoice.com.vn
+adclient.vietnamnetjsc.vn
 adfox.vn
 admedia.com.vn
 admin.sothuchi.vn
@@ -183,8 +187,6 @@ tvnotice.kg.garena.vn
 uniad.phimmoi.net
 uniad.vn
 upfile16.mediaphim.com
-vads.net.vn
-vads.vn
 vietbuzzad.com
 vietdorje.com
 vinaads.vn
@@ -244,7 +246,6 @@ trackingapi.foody.vn
 trackity.tiki.vn
 trending.vn
 userstats.shopee.vn
-viam.com.vn
 vtrack.vht.com.vn
 web.f8.pyco.vn
 web.stagingf8.pycogroup.com
@@ -590,6 +591,7 @@ displayads-formats.googleusercontent.com
 dj1*.online
 djaxadserver.com
 dm-event.net
+domnovrek.com
 dotomi.com
 doubleclick.net
 doublepimp.com
