@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Dec 2019 16:12 UTC+7
-# Version: 1912061612
-# Blocked: 19,140 domains
+# Last modified: 08 Dec 2019 20:18 UTC+7
+# Version: 1912082018
+# Blocked: 19,191 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13080,6 +13080,57 @@
 0 domnovrek.com
 0 n.domnovrek.com
 0 st-n.domnovrek.com
+0 ad-test.doublemax.net
+0 ad.doublemax.net
+0 ads-img.doublemax.net
+0 ads.doublemax.net
+0 adx.doublemax.net
+0 appengine.doublemax.net
+0 asia-web1.doublemax.net
+0 c-dev.doublemax.net
+0 c.doublemax.net
+0 cap-ad.doublemax.net
+0 cdn.doublemax.net
+0 cf-admin.doublemax.net
+0 cf-test.doublemax.net
+0 cf.doublemax.net
+0 cft.doublemax.net
+0 clg.doublemax.net
+0 cm.doublemax.net
+0 ctrac.doublemax.net
+0 dmp.doublemax.net
+0 doublemax.net
+0 dsp-admin.doublemax.net
+0 dsp.doublemax.net
+0 ec.doublemax.net
+0 ecv1.doublemax.net
+0 eland.doublemax.net
+0 eventapi.doublemax.net
+0 events-admin.doublemax.net
+0 events-report.doublemax.net
+0 events.doublemax.net
+0 fcm.doublemax.net
+0 gcp-ad.doublemax.net
+0 hx1.doublemax.net
+0 kxcdn.doublemax.net
+0 lg.doublemax.net
+0 m.doublemax.net
+0 mt.doublemax.net
+0 pp.doublemax.net
+0 proxy-bid.doublemax.net
+0 st.doublemax.net
+0 static.doublemax.net
+0 t.doublemax.net
+0 ta.doublemax.net
+0 tad.doublemax.net
+0 test-clg.doublemax.net
+0 tp.doublemax.net
+0 v.doublemax.net
+0 vast.doublemax.net
+0 video.doublemax.net
+0 webdisk.asia-web1.doublemax.net
+0 www.doublemax.net
+0 www3.doublemax.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn

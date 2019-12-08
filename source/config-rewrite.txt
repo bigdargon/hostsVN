@@ -11,8 +11,7 @@
 ^https?://graph.nhaccuatui.com/.+advs
 ^https?://graph.nhaccuatui.com/.+logs
 ^https?://graph.nhaccuatui.com/.+deviceinfo
-^https?://graph.nhaccuatui.com/.+notify-firebase
-^https?://avatar-nct.nixcdn.com/.+popup
+^https?://graph.nhaccuatui.com/.+notify
 
 #spotify
 ^https?://spclient.wg.spotify.com/ad-logic/*
