@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 08 Dec 2019 20:18 UTC+7
-! Version: 1912082018
-! Blocked: 5,777 rules
+! Last modified: 10 Dec 2019 10:43 UTC+7
+! Version: 1912101043
+! Blocked: 5,780 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -93,6 +93,7 @@
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
 ||tracking.*.zing.vn^
+||uniad.vn^
 ||vads.net.vn^
 ||vads.vn^
 ||vclick.vn^
@@ -185,7 +186,6 @@
 ||truoctran.com^
 ||tvnotice.kg.garena.vn^
 ||uniad.phimmoi.net^
-||uniad.vn^
 ||upfile16.mediaphim.com^
 ||vietbuzzad.com^
 ||vietdorje.com^
@@ -984,6 +984,8 @@
 ||wootric.com^
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
+||wywy.com^
+||wywyuserservice.com^
 ||xlog*.byteoversea.com^
 ||xlog.snssdk.com^
 ||xlog.tiktokv.com^
@@ -2800,6 +2802,7 @@
 ||economicpizzas.com^
 ||ecotrackings.com^
 ||ecoupons.com^
+||ecpms.net^
 ||edaa.eu^
 ||edgeio.com^
 ||effectivemeasure.com^

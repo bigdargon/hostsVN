@@ -6,12 +6,12 @@
 ^https?://graph.facebook.com/.+advertiser_id=*
 ^https?://graph.facebook.com/network_ads_common/*
 ^https?://www.facebook.com/adnw_logging/*
+^https?://www.facebook.com/adnw_sync/*
 
 #nhaccuatui
 ^https?://graph.nhaccuatui.com/.+advs
 ^https?://graph.nhaccuatui.com/.+logs
 ^https?://graph.nhaccuatui.com/.+deviceinfo
-^https?://graph.nhaccuatui.com/.+notify
 
 #spotify
 ^https?://spclient.wg.spotify.com/ad-logic/*

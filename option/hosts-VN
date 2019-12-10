@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Dec 2019 20:18 UTC+7
-# Version: 1912082018
-# Blocked: 1,211 domains
+# Last modified: 10 Dec 2019 10:43 UTC+7
+# Version: 1912101043
+# Blocked: 1,214 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -972,6 +972,13 @@
 0.0.0.0 log.vads.net.vn
 0.0.0.0 vads.net.vn
 0.0.0.0 www.vads.net.vn
+#[uniad.vn]
+0.0.0.0 click.uniad.vn
+0.0.0.0 pub.uniad.vn
+0.0.0.0 publisher.uniad.vn
+0.0.0.0 uniad.vn
+0.0.0.0 www.uniad.vn
+0.0.0.0 zone.uniad.vn
 # --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com
@@ -1018,7 +1025,6 @@
 0.0.0.0 banner.5giay.vn
 0.0.0.0 bgadx.com
 0.0.0.0 clevernet.vn
-0.0.0.0 click.uniad.vn
 0.0.0.0 click.xdeal.vn
 0.0.0.0 clipbongda.info
 0.0.0.0 clix.vn
@@ -1056,7 +1062,6 @@
 0.0.0.0 truoctran.com
 0.0.0.0 tvnotice.kg.garena.vn
 0.0.0.0 uniad.phimmoi.net
-0.0.0.0 uniad.vn
 0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
@@ -1068,7 +1073,6 @@
 0.0.0.0 www.microad.vn
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
-0.0.0.0 zone.uniad.vn
 # --- Block trackingVN ---
 0.0.0.0 alexajstrack.com
 0.0.0.0 amcdn.vn

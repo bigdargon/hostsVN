@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 08 Dec 2019 20:18 UTC+7
-! Version: 1912082018
+! Last modified: 10 Dec 2019 10:43 UTC+7
+! Version: 1912101043
 ! Blocked: 289 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -93,6 +93,7 @@
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
 ||tracking.*.zing.vn^
+||uniad.vn^
 ||vads.net.vn^
 ||vads.vn^
 ||vclick.vn^
@@ -185,7 +186,6 @@
 ||truoctran.com^
 ||tvnotice.kg.garena.vn^
 ||uniad.phimmoi.net^
-||uniad.vn^
 ||upfile16.mediaphim.com^
 ||vietbuzzad.com^
 ||vietdorje.com^

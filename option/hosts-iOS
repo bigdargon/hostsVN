@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Dec 2019 20:18 UTC+7
-# Version: 1912082018
-# Blocked: 19,191 domains
+# Last modified: 10 Dec 2019 10:43 UTC+7
+# Version: 1912101043
+# Blocked: 19,207 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13131,6 +13131,17 @@
 0 webdisk.asia-web1.doublemax.net
 0 www.doublemax.net
 0 www3.doublemax.net
+0 admin.wywy.com
+0 analytics.wywy.com
+0 analyze.wywy.com
+0 api.cloud.wywy.com
+0 console.wywy.com
+0 sitesync.wywy.com
+0 sitesynctest.wywy.com
+0 static.wywy.com
+0 www.wywy.com
+0 wywy.com
+0 wywyuserservice.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14036,6 +14047,12 @@
 0 log.vads.net.vn
 0 vads.net.vn
 0 www.vads.net.vn
+0 click.uniad.vn
+0 pub.uniad.vn
+0 publisher.uniad.vn
+0 uniad.vn
+0 www.uniad.vn
+0 zone.uniad.vn
 0 123c.vn
 0 ad-hcm.24hstatic.com
 0 ad-hn.24hstatic.com
@@ -14081,7 +14098,6 @@
 0 banner.5giay.vn
 0 bgadx.com
 0 clevernet.vn
-0 click.uniad.vn
 0 click.xdeal.vn
 0 clipbongda.info
 0 clix.vn
@@ -14119,7 +14135,6 @@
 0 truoctran.com
 0 tvnotice.kg.garena.vn
 0 uniad.phimmoi.net
-0 uniad.vn
 0 upfile16.mediaphim.com
 0 vietbuzzad.com
 0 vietdorje.com
@@ -14131,7 +14146,6 @@
 0 www.microad.vn
 0 www.vietbuzzad.com
 0 www.vietdorje.com
-0 zone.uniad.vn
 0 alexajstrack.com
 0 amcdn.vn
 0 an.dongphim.net
@@ -16145,6 +16159,7 @@
 0 economicpizzas.com
 0 ecotrackings.com
 0 ecoupons.com
+0 ecpms.net
 0 edaa.eu
 0 edgeio.com
 0 effectivemeasure.com
@@ -17966,6 +17981,7 @@
 0 www.comwgi.com
 0 www.cpm-ad.com
 0 www.dnps.com
+0 www.ecpms.net
 0 www.fbcdn2.com
 0 www.fm6dz864.top
 0 www.groupm.com

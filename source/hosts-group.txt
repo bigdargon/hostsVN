@@ -13532,22 +13532,22 @@
 0.0.0.0 www.yieldlove.com
 0.0.0.0 yieldlove.com
 #[yieldlove-ad-serving.net]
-0.0.0.0 ads.yieldlove-ad-serving.net 
-0.0.0.0 api.yieldlove-ad-serving.net 
-0.0.0.0 cloudfront.yieldlove-ad-serving.net 
-0.0.0.0 prebid-cache.yieldlove-ad-serving.net 
-0.0.0.0 prebid-server.yieldlove-ad-serving.net 
-0.0.0.0 prebid-server-metrics.yieldlove-ad-serving.net 
-0.0.0.0 privacy.yieldlove-ad-serving.net 
-0.0.0.0 prod-ingestion.tracking.v2.yieldlove-ad-serving.net 
-0.0.0.0 qa-api.tracking.v2.yieldlove-ad-serving.net 
-0.0.0.0 racking.yieldlove-ad-serving.net 
-0.0.0.0 revive.yieldlove-ad-serving.net 
-0.0.0.0 s2s.yieldlove-ad-serving.net 
-0.0.0.0 sra-delivery.yieldlove-ad-serving.net 
-0.0.0.0 tracking.yieldlove-ad-serving.net 
-0.0.0.0 uploaded.yieldlove-ad-serving.net 
-0.0.0.0 yieldlove-ad-serving.net 
+0.0.0.0 ads.yieldlove-ad-serving.net
+0.0.0.0 api.yieldlove-ad-serving.net
+0.0.0.0 cloudfront.yieldlove-ad-serving.net
+0.0.0.0 prebid-cache.yieldlove-ad-serving.net
+0.0.0.0 prebid-server.yieldlove-ad-serving.net
+0.0.0.0 prebid-server-metrics.yieldlove-ad-serving.net
+0.0.0.0 privacy.yieldlove-ad-serving.net
+0.0.0.0 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
+0.0.0.0 qa-api.tracking.v2.yieldlove-ad-serving.net
+0.0.0.0 racking.yieldlove-ad-serving.net
+0.0.0.0 revive.yieldlove-ad-serving.net
+0.0.0.0 s2s.yieldlove-ad-serving.net
+0.0.0.0 sra-delivery.yieldlove-ad-serving.net
+0.0.0.0 tracking.yieldlove-ad-serving.net
+0.0.0.0 uploaded.yieldlove-ad-serving.net
+0.0.0.0 yieldlove-ad-serving.net
 #[s-onetag.com]
 0.0.0.0 beacon.s-onetag.com
 0.0.0.0 data-beacons.s-onetag.com
@@ -13640,3 +13640,15 @@
 0.0.0.0 webdisk.asia-web1.doublemax.net
 0.0.0.0 www.doublemax.net
 0.0.0.0 www3.doublemax.net
+#[wywy.com]
+0.0.0.0 admin.wywy.com
+0.0.0.0 analytics.wywy.com
+0.0.0.0 analyze.wywy.com
+0.0.0.0 api.cloud.wywy.com
+0.0.0.0 console.wywy.com
+0.0.0.0 sitesync.wywy.com
+0.0.0.0 sitesynctest.wywy.com
+0.0.0.0 static.wywy.com
+0.0.0.0 www.wywy.com
+0.0.0.0 wywy.com
+0.0.0.0 wywyuserservice.com
