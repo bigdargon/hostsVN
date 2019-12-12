@@ -285,7 +285,6 @@
 0.0.0.0 aps.amazon.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 astore.amazon.com
-0.0.0.0 completion.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon.com
@@ -13652,3 +13651,25 @@
 0.0.0.0 www.wywy.com
 0.0.0.0 wywy.com
 0.0.0.0 wywyuserservice.com
+#[navdmp.com]
+0.0.0.0 amp.navdmp.com
+0.0.0.0 app.navdmp.com
+0.0.0.0 cd.navdmp.com
+0.0.0.0 cdn.navdmp.com
+0.0.0.0 comprar.navdmp.com
+0.0.0.0 debug.navdmp.com
+0.0.0.0 j.navdmp.com
+0.0.0.0 mcd.navdmp.com
+0.0.0.0 mcdn.navdmp.com
+0.0.0.0 musr.navdmp.com
+0.0.0.0 mx.cdn.navdmp.com
+0.0.0.0 mx.usr.navdmp.com
+0.0.0.0 navdmp.com
+0.0.0.0 opt.navdmp.com
+0.0.0.0 sync.navdmp.com
+0.0.0.0 sync19.navdmp.com
+0.0.0.0 sync2.navdmp.com
+0.0.0.0 tag.navdmp.com
+0.0.0.0 usr.navdmp.com
+0.0.0.0 view.navdmp.com
+0.0.0.0 www.navdmp.com

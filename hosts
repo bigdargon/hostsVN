@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Dec 2019 10:43 UTC+7
-# Version: 1912101043
-# Blocked: 19,207 domains
+# Last modified: 12 Dec 2019 09:13 UTC+7
+# Version: 1912120913
+# Blocked: 19,227 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -297,7 +297,6 @@
 0.0.0.0 aps.amazon.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 astore.amazon.com
-0.0.0.0 completion.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon.com
@@ -13664,6 +13663,28 @@
 0.0.0.0 www.wywy.com
 0.0.0.0 wywy.com
 0.0.0.0 wywyuserservice.com
+#[navdmp.com]
+0.0.0.0 amp.navdmp.com
+0.0.0.0 app.navdmp.com
+0.0.0.0 cd.navdmp.com
+0.0.0.0 cdn.navdmp.com
+0.0.0.0 comprar.navdmp.com
+0.0.0.0 debug.navdmp.com
+0.0.0.0 j.navdmp.com
+0.0.0.0 mcd.navdmp.com
+0.0.0.0 mcdn.navdmp.com
+0.0.0.0 musr.navdmp.com
+0.0.0.0 mx.cdn.navdmp.com
+0.0.0.0 mx.usr.navdmp.com
+0.0.0.0 navdmp.com
+0.0.0.0 opt.navdmp.com
+0.0.0.0 sync.navdmp.com
+0.0.0.0 sync19.navdmp.com
+0.0.0.0 sync2.navdmp.com
+0.0.0.0 tag.navdmp.com
+0.0.0.0 usr.navdmp.com
+0.0.0.0 view.navdmp.com
+0.0.0.0 www.navdmp.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -18829,7 +18850,6 @@
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.safegraph.com
 0.0.0.0 apiparbion.com
-0.0.0.0 app-measurement.com
 0.0.0.0 apphay.me
 0.0.0.0 appimmobilier.com
 0.0.0.0 applog.camera360.com
@@ -19802,6 +19822,9 @@
 0.0.0.0 zhangtom1989.cn
 0.0.0.0 fmiphone-apple.com
 0.0.0.0 www.fmiphone-apple.com
+# --- Extra block ---
+#[Google]
+0.0.0.0 app-measurement.com
 # --- Block cloudfront.net ---
 #[adop.cc]
 0.0.0.0 d26tbbq8zqdi4v.cloudfront.net

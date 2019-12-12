@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Dec 2019 10:43 UTC+7
-# Version: 1912101043
-# Blocked: 19,207 domains
+# Last modified: 12 Dec 2019 09:13 UTC+7
+# Version: 1912120913
+# Blocked: 19,227 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -293,7 +293,6 @@
 0 aps.amazon.com
 0 assoc-amazon.com
 0 astore.amazon.com
-0 completion.amazon.com
 0 device-metrics-us.amazon.com
 0 device-metrics-us-2.amazon.com
 0 mads.amazon.com
@@ -13142,6 +13141,27 @@
 0 www.wywy.com
 0 wywy.com
 0 wywyuserservice.com
+0 amp.navdmp.com
+0 app.navdmp.com
+0 cd.navdmp.com
+0 cdn.navdmp.com
+0 comprar.navdmp.com
+0 debug.navdmp.com
+0 j.navdmp.com
+0 mcd.navdmp.com
+0 mcdn.navdmp.com
+0 musr.navdmp.com
+0 mx.cdn.navdmp.com
+0 mx.usr.navdmp.com
+0 navdmp.com
+0 opt.navdmp.com
+0 sync.navdmp.com
+0 sync19.navdmp.com
+0 sync2.navdmp.com
+0 tag.navdmp.com
+0 usr.navdmp.com
+0 view.navdmp.com
+0 www.navdmp.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -18243,7 +18263,6 @@
 0 api.quantumgraph.com
 0 api.safegraph.com
 0 apiparbion.com
-0 app-measurement.com
 0 apphay.me
 0 appimmobilier.com
 0 applog.camera360.com
@@ -19215,6 +19234,7 @@
 0 zhangtom1989.cn
 0 fmiphone-apple.com
 0 www.fmiphone-apple.com
+0 app-measurement.com
 0 d26tbbq8zqdi4v.cloudfront.net
 0 d2r173wcohmi6.cloudfront.net
 0 d2wbr3tthrn9lu.cloudfront.net
