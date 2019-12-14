@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 12 Dec 2019 09:13 UTC+7
-! Version: 1912120913
-! Blocked: 5,781 rules
+! Last modified: 14 Dec 2019 22:08 UTC+7
+! Version: 1912142208
+! Blocked: 5,782 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -301,6 +301,7 @@
 ||33across.com^
 ||360in.com^
 ||3lift.com^
+||4dsply.com^
 ||a-ads.com^
 ||a4.tl^
 ||aatkit.com^
@@ -376,6 +377,7 @@
 ||ads.yahoo.com^
 ||ads.youtube.com^
 ||adsafeprotected.com^
+||adsafety.net^
 ||adsapi*.snapchat.com^
 ||adsatt.*.go.com^
 ||adsatt.*.starwave.com^
@@ -571,14 +573,12 @@
 ||conversantmedia.com^
 ||countess.twitch.tv^
 ||cpro.baidu.com^
-||crashlytics.com^
 ||creative.ak.facebook.com^
 ||creative.ak.fbcdn.net^
 ||creativecdn.com^
 ||criteo.com^
 ||criteo.net^
 ||crwdcntrl.net^
-||csi.gstatic.com^
 ||customad.cnn.com^
 ||cxense.com^
 ||data.alexa.com^
@@ -587,7 +587,7 @@
 ||deployads.com^
 ||device-metrics-*.amazon.com^
 ||dfnb-ads.com^
-||displayads-formats.googleusercontent.com^
+||districtm.io^
 ||dj1*.online^
 ||djaxadserver.com^
 ||dm-event.net^
@@ -620,7 +620,6 @@
 ||fclick-adnow.com^
 ||fidelity-media.com^
 ||filament-stats.herokuapp.com^
-||firebaselogging.googleapis.com^
 ||flashtalking.com^
 ||flurry.com^
 ||fout.jp^
@@ -693,6 +692,7 @@
 ||ionicframework.com^
 ||iperceptions.com^
 ||islandmob.com^
+||ivstracker.net^
 ||izooto.com^
 ||jetlore.com^
 ||jpush.cn^
@@ -2805,6 +2805,7 @@
 ||ecoupons.com^
 ||ecpms.net^
 ||edaa.eu^
+||edge.mdcgate.com^
 ||edgeio.com^
 ||effectivemeasure.com^
 ||efficaciouscactus.com^
@@ -5617,6 +5618,7 @@
 ||track.omg543.com^
 ||track.publeadmedia.com^
 ||track.tenjin.io^
+||trackcmp.net^
 ||tracker.mtrtb.com^
 ||tracker.vgame.us^
 ||trackers.voodoo-analytics.io^
@@ -5778,7 +5780,6 @@
 ||view-appleid.com^
 ||zhangtom1989.cn^
 ||connect.facebook.net^
-||app-measurement.com^
 ||d26tbbq8zqdi4v.cloudfront.net^
 ||d2r173wcohmi6.cloudfront.net^
 ||d2wbr3tthrn9lu.cloudfront.net^
