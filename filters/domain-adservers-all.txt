@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 17 Dec 2019 10:13 UTC+7
-! Version: 1912171013
-! Blocked: 5,783 rules
+! Last modified: 17 Dec 2019 10:37 UTC+7
+! Version: 1912171037
+! Blocked: 5,779 rules
 ! The section containing the list contains all ad networks and tracking
 !
 accesstrade.com.vn
@@ -457,7 +457,6 @@ api.ads.*.go.com
 api.mobojoy.baidu.com
 app-adforce.jp
 app-analytics*.snapchat.com
-app.link
 appadhoc.com
 appads.com
 appboy.com
@@ -808,7 +807,6 @@ o333o.com
 ocsp.apple.com
 odc.starwave.com
 omtrdc.net
-onelink.me
 onesignal.com
 onespot-tracking.herokuapp.com
 onscroll.com
@@ -819,7 +817,6 @@ openx.net
 optimizely.com
 optmnstr.com
 outbrain.com
-page.link
 pagead-*.l.google.com
 pagead.l.google.com
 parrable.com
@@ -940,7 +937,6 @@ taplytics.com
 taxel.jp
 teads.tv
 tenmax.io
-test-app.link
 tinypass.com
 toast.com
 tr.snapchat.com

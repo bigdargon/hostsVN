@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Dec 2019 10:13 UTC+7
-# Version: 1912171013
-# Blocked: 19,268 domains
+# Last modified: 17 Dec 2019 10:37 UTC+7
+# Version: 1912171037
+# Blocked: 19,243 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -2523,7 +2523,7 @@
 0 services.krxd.net
 0 userdata-maxis.krxd.net
 0 usermatch.krxd.net
-0 www.link.krxd.net
+0 www.krxd.net
 0 alpha.leanplum.com
 0 api.leanplum.com
 0 beta.leanplum.com
@@ -5254,31 +5254,6 @@
 0 ws3.tapjoyads.com
 0 ws33.tapjoyads.com
 0 ws4.tapjoyads.com
-0 app.link
-0 lichviet-alternate.app.link
-0 lichviet.app.link
-0 mangarock-alternate.app.link
-0 mangarock.app.link
-0 test-app.link
-0 reddit.test-app.link
-0 page.link
-0 appvietnamairlines.page.link
-0 fptplay.page.link
-0 sothuchi.page.link
-0 vingroup.page.link
-0 vinid.page.link
-0 dream11.onelink.me
-0 go.onelink.me
-0 grab.onelink.me
-0 iqoption.onelink.me
-0 m.onelink.me
-0 mail.onelink.me
-0 onelink.me
-0 shopeevn.onelink.me
-0 sod.onelink.me
-0 vinid.onelink.me
-0 vntiki.onelink.me
-0 www.onelink.me
 0 2mdn.net
 0 affiliate.2mdn.net
 0 gcdn.2mdn.net

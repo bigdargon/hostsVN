@@ -2593,7 +2593,7 @@
 0.0.0.0 services.krxd.net
 0.0.0.0 userdata-maxis.krxd.net
 0.0.0.0 usermatch.krxd.net
-0.0.0.0 www.link.krxd.net
+0.0.0.0 www.krxd.net
 #[leanplum]
 0.0.0.0 alpha.leanplum.com
 0.0.0.0 api.leanplum.com
@@ -5443,34 +5443,6 @@
 0.0.0.0 ws3.tapjoyads.com
 0.0.0.0 ws33.tapjoyads.com
 0.0.0.0 ws4.tapjoyads.com
-#[app.link]
-0.0.0.0 app.link
-0.0.0.0 lichviet-alternate.app.link
-0.0.0.0 lichviet.app.link
-0.0.0.0 mangarock-alternate.app.link
-0.0.0.0 mangarock.app.link
-0.0.0.0 test-app.link
-0.0.0.0 reddit.test-app.link
-#[page.link]
-0.0.0.0 page.link
-0.0.0.0 appvietnamairlines.page.link
-0.0.0.0 fptplay.page.link
-0.0.0.0 sothuchi.page.link
-0.0.0.0 vingroup.page.link
-0.0.0.0 vinid.page.link
-#[onelink.me]
-0.0.0.0 dream11.onelink.me
-0.0.0.0 go.onelink.me
-0.0.0.0 grab.onelink.me
-0.0.0.0 iqoption.onelink.me
-0.0.0.0 m.onelink.me
-0.0.0.0 mail.onelink.me
-0.0.0.0 onelink.me
-0.0.0.0 shopeevn.onelink.me
-0.0.0.0 sod.onelink.me
-0.0.0.0 vinid.onelink.me
-0.0.0.0 vntiki.onelink.me
-0.0.0.0 www.onelink.me
 #[2mdn]
 0.0.0.0 2mdn.net
 0.0.0.0 affiliate.2mdn.net
