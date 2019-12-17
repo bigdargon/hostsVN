@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 14 Dec 2019 22:08 UTC+7
-! Version: 1912142208
-! Blocked: 5,782 rules
+! Last modified: 17 Dec 2019 10:13 UTC+7
+! Version: 1912171013
+! Blocked: 5,783 rules
 ! The section containing the list contains all ad networks and tracking
 !
 accesstrade.com.vn
@@ -917,6 +917,7 @@ srvcs.tumblr.com
 ss2.us
 ssl-google-analytics.l.google.com
 sslproxy-prod.adobedtm.com
+starbolt.io
 startappservice.com
 static-ads.akamaized.net
 staticstuff.net
