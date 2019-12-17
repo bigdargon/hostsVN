@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Dec 2019 10:37 UTC+7
-# Version: 1912171037
-# Blocked: 19,243 domains
+# Last modified: 17 Dec 2019 10:45 UTC+7
+# Version: 1912171045
+# Blocked: 19,245 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13241,6 +13241,8 @@
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 hs-scripts.com
 0.0.0.0 js.hs-scripts.com
+0.0.0.0 hsadspixel.net
+0.0.0.0 js.hsadspixel.net
 #[spotxchange.com]
 0.0.0.0 api.spotxchange.com
 0.0.0.0 cdn-source.spotxchange.com

@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 17 Dec 2019 10:37 UTC+7
-! Version: 1912171037
-! Blocked: 5,779 rules
+! Last modified: 17 Dec 2019 10:45 UTC+7
+! Version: 1912171045
+! Blocked: 5,780 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -660,6 +660,7 @@
 ||hotjar.com^
 ||hs-analytics.net^
 ||hs-scripts.com^
+||hsadspixel.net^
 ||hubapi.com^
 ||hubspot.com^
 ||i-mobile.co.jp^
