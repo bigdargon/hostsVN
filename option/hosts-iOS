@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Dec 2019 10:45 UTC+7
-# Version: 1912171045
-# Blocked: 19,245 domains
+# Last modified: 18 Dec 2019 11:04 UTC+7
+# Version: 1912181104
+# Blocked: 19,243 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -5029,8 +5029,6 @@
 0 edgecast.tags.tiqcdn.com
 0 tags.tiqcdn.com
 0 tags-eu.tiqcdn.com
-0 tiqcdn.com
-0 vodafone.tiqcdn.com
 0 ad.linksynergy.com
 0 ads.rd.linksynergy.com
 0 aftp.linksynergy.com
