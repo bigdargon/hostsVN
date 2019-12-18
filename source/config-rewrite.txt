@@ -29,8 +29,8 @@
 #google
 ^https?:\/\/.+\.googlevideo\.com\/.+&oad
 ^https?:\/\/.+\.googlevideo\.com\/.+ctier
-^https?:\/\/.+\.googlevideo\.com\/ptracking\?pltype=adhost
-^https?:\/\/.+\.googlevideo\.com\/videogoodput\?
+^https?:\/\/.+\.googlevideo\.com\/ptracking
+^https?:\/\/.+\.googlevideo\.com\/videogoodput
 ^https?:\/\/.+\.youtube\.com\/.+get_ads
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/.+adformat
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/ads
@@ -41,7 +41,7 @@
 ^https?:\/\/play.googleapis.com/log*
 ^https?:\/\/www.googleapis.com/adsmeasurement/*
 ^https?:\/\/youtubei.googleapis.com/youtubei/.+ad_
-^https?:\/\/youtubei.googleapis.com/youtubei/.+log_
+#^https?:\/\/youtubei.googleapis.com/youtubei/.+log_
 
 #tiktok
 ^https?:\/\/.+\.tiktokv\.com\/api\/ad\/
