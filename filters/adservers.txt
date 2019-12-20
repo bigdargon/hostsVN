@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 18 Dec 2019 11:43 UTC+7
-! Version: 1912181143
-! Blocked: 289 rules
+! Last modified: 20 Dec 2019 09:11 UTC+7
+! Version: 1912200911
+! Blocked: 290 rules
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
 ||accesstrade.com.vn^
@@ -267,6 +267,7 @@
 ||gdwviet.com^
 ||income88.com^
 ||lucky88.com^
+||lucky88.net^
 ||m88cvf.com^
 ||m88my.com^
 ||m88vina.com^

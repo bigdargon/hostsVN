@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 18 Dec 2019 11:43 UTC+7
-! Version: 1912181143
-! Blocked: 5,782 rules
+! Last modified: 20 Dec 2019 09:11 UTC+7
+! Version: 1912200911
+! Blocked: 5,787 rules
 ! The section containing the list contains all ad networks and tracking
 !
 ||accesstrade.com.vn^
@@ -267,6 +267,7 @@
 ||gdwviet.com^
 ||income88.com^
 ||lucky88.com^
+||lucky88.net^
 ||m88cvf.com^
 ||m88my.com^
 ||m88vina.com^
@@ -3334,6 +3335,7 @@
 ||mackeeperapp.mackeeper.com^
 ||madadsmedia.com^
 ||madclient.uimserv.net^
+||made2you.com^
 ||madisonavenue.com^
 ||mads.aol.com^
 ||madserve.org^
@@ -3370,6 +3372,7 @@
 ||mbuyu.nl^
 ||measuremap.com^
 ||media-adrunner.mycomputer.com^
+||media-sapiens.com^
 ||media-servers.net^
 ||media.ftv-publicite.fr^
 ||media.funpic.de^
@@ -3446,6 +3449,7 @@
 ||mng-ads.com^
 ||moadnet.com^
 ||moat.com^
+||mob1ledev1ces.com^
 ||mobcdn.com^
 ||mobday.com^
 ||mobgold.com^
@@ -3638,6 +3642,7 @@
 ||operationkettle.com^
 ||opienetwork.com^
 ||opinionstage.com^
+||opsivesh.net^
 ||optad360.io^
 ||optimallimit.com^
 ||optimize-stats.voxmedia.com^
@@ -4050,6 +4055,7 @@
 ||shinystat.it^
 ||shiveringsail.com^
 ||shockingswing.com^
+||shofteph.com^
 ||shoppingads.com^
 ||siccash.com^
 ||sicksmash.com^
@@ -4761,7 +4767,6 @@
 ||accurate.gutterhalment.com^
 ||adentify.com^
 ||adfrut.cl^
-||adj.st^
 ||admagnet1.com^
 ||admisoft.com^
 ||adongcomic.com^
