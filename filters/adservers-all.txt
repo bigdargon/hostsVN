@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 24 Dec 2019 14:32 UTC+7
-! Version: 1912241432
-! Blocked: 5,798 rules
+! Last modified: 25 Dec 2019 14:19 UTC+7
+! Version: 1912251419
+! Blocked: 5,797 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -5261,7 +5261,6 @@
 ||interstitial.powered-by.securesoft.info^
 ||investice-do-nemovitosti.eu^
 ||ipcmedia.grapeshot.co.uk^
-||ipinfo.io^
 ||ipwhrtmla.epac.to^
 ||iranbar.org^
 ||itclk.com^

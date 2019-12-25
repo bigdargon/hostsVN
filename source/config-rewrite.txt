@@ -1,17 +1,21 @@
 #all
 ^https?:\/\/(\w+\.)?(adclick|ads([0-9]+)?|adserver|adformat|analysis|banners?|click|counter|log|log-?\w+?|pagead|stat|stats|statis|trace|track|tracking|uniad)\.\w+\.(com|cn|org|info|io|net|vn|com.vn)
 
+
 #facebook
 ^https?://graph.facebook.com/.+activities
 ^https?://graph.facebook.com/.+advertiser_id=*
 ^https?://graph.facebook.com/network_ads_common/*
+
 ^https?://www.facebook.com/adnw_logging/*
 ^https?://www.facebook.com/adnw_sync/*
+
 
 #nhaccuatui
 ^https?://graph.nhaccuatui.com/.+advs
 ^https?://graph.nhaccuatui.com/.+logs
 ^https?://graph.nhaccuatui.com/.+deviceinfo
+
 
 #spotify
 ^https?://spclient.wg.spotify.com/ad-logic/*
@@ -21,38 +25,48 @@
 ^https?://spclient.wg.spotify.com/.+canvases
 ^https?://spclient.wg.spotify.com/.+cards
 ^https?://spclient.wg.spotify.com/.+crashlytics
-^https?://spclient.wg.spotify.com/.+doubleclick.net
+^https?://spclient.wg.spotify.com/.+doubleclick
 ^https?://spclient.wg.spotify.com/.+enabled-tracks
 ^https?://spclient.wg.spotify.com/.+event
 ^https?://spclient.wg.spotify.com/.+promoted_offer
 
+
 #google
 ^https?:\/\/.+\.googlevideo\.com\/.+&oad
+^https?:\/\/.+\.googlevideo\.com\/.+&owc
 ^https?:\/\/.+\.googlevideo\.com\/.+ctier
 ^https?:\/\/.+\.googlevideo\.com\/ptracking
 ^https?:\/\/.+\.googlevideo\.com\/videogoodput
+
 ^https?:\/\/.+\.youtube\.com\/.+get_ads
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/.+adformat
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/ads
+^https?:\/\/.+\.youtube\.com\/api\/stats\/qoe
+^https?:\/\/.+\.youtube\.com\/csi_204
 ^https?:\/\/.+\.youtube\.com\/error_204
 ^https?:\/\/.+\.youtube\.com\/get_midroll
-^https?:\/\/.+\.youtube\.com\/pagead\/*
-^https?:\/\/.+\.youtube\.com\/ptracking\?
-^https?:\/\/play.googleapis.com/log*
-^https?:\/\/www.googleapis.com/adsmeasurement/*
+^https?:\/\/.+\.youtube\.com\/pagead
+^https?:\/\/.+\.youtube\.com\/ptracking
+
+^https?:\/\/play.googleapis.com/log
+^https?:\/\/www.googleapis.com/adsmeasurement
 ^https?:\/\/youtubei.googleapis.com/youtubei/.+ad_
-#^https?:\/\/youtubei.googleapis.com/youtubei/.+log_
+^https?:\/\/youtubei.googleapis.com/youtubei/.+log_
+
 
 #tiktok
 ^https?:\/\/.+\.tiktokv\.com\/api\/ad\/
 ^https?:\/\/.+\.tiktokv\.com\/.+stats\/
+
 ^https?:\/\/.+\.musical\.ly\/api\/ad\/
 ^https?:\/\/.+\.musical\.ly\/.+stats\/
+
 ^https?:\/\/.+\.snssdk\.com\/api\/ad\/
 ^https?:\/\/.+\.snssdk\.com\/monitor\/
 ^https?:\/\/.+\.snssdk\.com\/.+app_log\/
 ^https?:\/\/.+\.snssdk\.com\/.+promotion\/
 ^https?:\/\/.+\.snssdk\.com\/.+stats\/
+
 
 #zalo
 ^https?://qos-zdn.zaloapp.com/.+trackqos
