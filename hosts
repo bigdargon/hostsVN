@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 Dec 2019 14:19 UTC+7
-# Version: 1912251419
-# Blocked: 19,076 domains
+# Last modified: 27 Dec 2019 09:08 UTC+7
+# Version: 1912270908
+# Blocked: 19,072 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -11780,11 +11780,6 @@
 0.0.0.0 us-east-1.segment-asg.bidr.io
 0.0.0.0 us-west-2.bid.bidr.io
 0.0.0.0 us-west-2.event.prod.bidr.io
-#[onesignal.com]
-0.0.0.0 cdn.onesignal.com
-0.0.0.0 img.onesignal.com
-0.0.0.0 onesignal.com
-0.0.0.0 www.onesignal.com
 #[siteswithcontent.com]
 0.0.0.0 c.siteswithcontent.com
 0.0.0.0 cdn.siteswithcontent.com

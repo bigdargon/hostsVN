@@ -11768,11 +11768,6 @@
 0.0.0.0 us-east-1.segment-asg.bidr.io
 0.0.0.0 us-west-2.bid.bidr.io
 0.0.0.0 us-west-2.event.prod.bidr.io
-#[onesignal.com]
-0.0.0.0 cdn.onesignal.com
-0.0.0.0 img.onesignal.com
-0.0.0.0 onesignal.com
-0.0.0.0 www.onesignal.com
 #[siteswithcontent.com]
 0.0.0.0 c.siteswithcontent.com
 0.0.0.0 cdn.siteswithcontent.com
