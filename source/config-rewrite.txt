@@ -29,6 +29,7 @@
 ^https?://spclient.wg.spotify.com/.+enabled-tracks
 ^https?://spclient.wg.spotify.com/.+event
 ^https?://spclient.wg.spotify.com/.+promoted_offer
+^https?://spclient.wg.spotify.com/.+sponsored
 
 
 #google
@@ -41,6 +42,7 @@
 ^https?:\/\/.+\.youtube\.com\/.+get_ads
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/.+adformat
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/ads
+^https?:\/\/.+\.youtube\.com\/api\/stats\/atr
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/qoe
 ^https?:\/\/.+\.youtube\.com\/csi_204
 ^https?:\/\/.+\.youtube\.com\/error_204
@@ -48,10 +50,10 @@
 ^https?:\/\/.+\.youtube\.com\/pagead
 ^https?:\/\/.+\.youtube\.com\/ptracking
 
-^https?:\/\/play.googleapis.com/log
-^https?:\/\/www.googleapis.com/adsmeasurement
-^https?:\/\/youtubei.googleapis.com/youtubei/.+ad_
-^https?:\/\/youtubei.googleapis.com/youtubei/.+log_
+^https?:\/\/.+\.googleapis.com/.+ad_break
+^https?:\/\/.+\.googleapis.com/.+log_event
+^https?:\/\/.+\.googleapis.com/adsmeasurement
+^https?:\/\/.+\.googleapis.com/log
 
 
 #tiktok

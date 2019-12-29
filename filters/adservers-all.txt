@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 27 Dec 2019 09:08 UTC+7
-! Version: 1912270908
-! Blocked: 5,796 rules
+! Last modified: 29 Dec 2019 21:23 UTC+7
+! Version: 1912292123
+! Blocked: 5,825 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -269,6 +269,7 @@
 ||gdwviet.com^
 ||go88.com^
 ||income88.com^
+||jbovn.com^
 ||lucky88.com^
 ||lucky88.net^
 ||m88cvf.com^
@@ -287,9 +288,11 @@
 ||one88.com^
 ||one88.fun^
 ||one88.us^
+||one88.vn^
 ||sun.win^
 ||v8.club^
 ||v9bet.com^
+||vietbet.eu^
 ||vn88.bet^
 ||vn88.casino^
 ||vn88.club^
@@ -388,6 +391,7 @@
 ||adsafeprotected.com^
 ||adsafety.net^
 ||adsapi*.snapchat.com^
+||adsaro.net^
 ||adsatt.*.go.com^
 ||adsatt.*.starwave.com^
 ||adschoom.com^
@@ -403,6 +407,7 @@
 ||adspsp.com^
 ||adsrvr.org^
 ||adstage-analytics.herokuapp.com^
+||adswick.com^
 ||adswizz.com^
 ||adsymptotic.com^
 ||adsyndication.msn.com^
@@ -558,6 +563,7 @@
 ||clickagy.com^
 ||clickhubs.com^
 ||clickintext.net^
+||clicksor.com^
 ||clicktale.net^
 ||client-event-reporter.twitch.tv^
 ||client_monitor.isnssdk.com^
@@ -962,6 +968,7 @@
 ||treasuredata.com^
 ||tremorhub.com^
 ||tru.am^
+||tsyndicate.com^
 ||tune.com^
 ||twik.io^
 ||tynt.com^
@@ -1407,6 +1414,7 @@
 ||adpepper.dk^
 ||adpepper.nl^
 ||adperium.com^
+||adplexity.com^
 ||adplus.co.id^
 ||adplxmd.com^
 ||adprimemedia.com^
@@ -1843,6 +1851,7 @@
 ||ads6.gamecity.net^
 ||ads7.gamecity.net^
 ||ads8.com^
+||adsbridge.com^
 ||adsby.bidtheatre.com^
 ||adscale.de^
 ||adscan.yelabapp.com^
@@ -2097,6 +2106,7 @@
 ||affiliatetrading.net^
 ||affiliatewindow.com^
 ||affiliation-france.com^
+||affinity.com^
 ||afftracking.justanswer.com^
 ||afterview.ru^
 ||agreeableprice.com^
@@ -2213,6 +2223,7 @@
 ||awempire.com^
 ||awin1.com^
 ||awzbijw.com^
+||axdsz.pro^
 ||axiomaticalley.com^
 ||aylarl.com^
 ||azfront.com^
@@ -2440,6 +2451,7 @@
 ||c.rigelink.com^
 ||c1.nowlinux.com^
 ||c1exchange.com^
+||ca.clcknads.pro^
 ||cache.addthiscdn.com^
 ||calculatingcircle.com^
 ||calculatingtoothbrush.com^
@@ -2554,7 +2566,6 @@
 ||clicks.equantum.com^
 ||clicks.mods.de^
 ||clickserve.cc-dt.com^
-||clicksor.com^
 ||clicktag.de^
 ||clickthrucash.com^
 ||clickthruserver.com^
@@ -2622,6 +2633,7 @@
 ||consumer.exacttargetapis.com^
 ||contadores.miarroba.com^
 ||contaxe.de^
+||contehos.com^
 ||content.acc-hd.de^
 ||content.bitsontherun.com^
 ||contentabc.com^
@@ -2854,6 +2866,7 @@
 ||entercasino.com^
 ||enthusiasticdad.com^
 ||enviousthread.com^
+||epi0tzwi.com^
 ||epiccash.com^
 ||eqads.com^
 ||eqworks.com^
@@ -3163,6 +3176,7 @@
 ||impressionmedia.cz^
 ||impressionz.co.uk^
 ||impulsehands.com^
+||inabsolor.com^
 ||inaccused.com^
 ||inboxdollars.com^
 ||incentaclick.com^
@@ -3255,6 +3269,7 @@
 ||knifeoctopus.com^
 ||kniverto.com^
 ||knorex.com^
+||koacojus.net^
 ||koindut.com^
 ||koinser.in^
 ||komoona.com^
@@ -3421,6 +3436,7 @@
 ||megago.com^
 ||megastats.com^
 ||megawerbung.de^
+||meglanatha.pro^
 ||mellowads.com^
 ||meltdsp.com^
 ||memeglobal.com^
@@ -3591,13 +3607,16 @@
 ||nrc.tapas.net^
 ||ntv.io^
 ||ntvk1.ru^
+||nuclearads.com^
 ||nuffnang.com.my^
 ||nuggad.net^
 ||numax.nu-1.com^
 ||nuseek.com^
 ||nuttyorganization.com^
 ||nzaza.com^
+||o.mbon.fun^
 ||o0bc.com^
+||oalselry.com^
 ||oas.benchmark.fr^
 ||oas.foxnews.com^
 ||oas.repubblica.it^
@@ -3928,6 +3947,7 @@
 ||reduxmediagroup.com^
 ||reedbusiness.com^
 ||reefaquarium.biz^
+||reevaipi.com^
 ||referralware.com^
 ||reflectivereward.com^
 ||refreshpagedownload.com^
@@ -3980,6 +4000,7 @@
 ||rok.com.com^
 ||rose.ixbt.com^
 ||rotabanner.com^
+||roughexampler.info^
 ||roughroll.com^
 ||routeserve.info^
 ||roxr.net^
@@ -4034,6 +4055,7 @@
 ||sensismediasmart.com.au^
 ||seo4india.com^
 ||separatesilver.com^
+||serconmp.com^
 ||serv0.com^
 ||servedbyadbutler.com^
 ||server.iad.liveperson.net^
@@ -4267,6 +4289,7 @@
 ||synad3.nuffnang.com.my^
 ||sync.vmweb.net^
 ||syndicate.purch.com^
+||syyycc.com^
 ||t.ads.cc^
 ||t.insigit.com^
 ||t.myvisualiq.net^
@@ -4449,6 +4472,7 @@
 ||tribalfusion.com^
 ||tribedone.org^
 ||trickycelery.com^
+||trillianu.info^
 ||tritetongue.com^
 ||trix.net^
 ||trmit.com^
@@ -4461,7 +4485,6 @@
 ||trustednotice.news^
 ||trustx.org^
 ||tsms-ad.tsms.com^
-||tsyndicate.com^
 ||tubedspots.com^
 ||tubemogul.com^
 ||turboadv.com^
@@ -4682,6 +4705,7 @@
 ||zbwp6ghm.com^
 ||zealousfield.com^
 ||zedo.com^
+||zeegreen.net^
 ||zeepmedia.com^
 ||zekiatagur.com^
 ||zencudo.co.uk^
@@ -4689,6 +4713,7 @@
 ||zenzuu.com^
 ||zeus.developershed.com^
 ||zeusclicks.com^
+||zijaipse.com^
 ||zintext.com^
 ||zlp6s.pw^
 ||zm232.com^
@@ -4769,6 +4794,7 @@
 ||9rbk.com^
 ||a.axmtrack.com^
 ||a.idio.co^
+||a.klaviyo.com^
 ||a.nt002.cn^
 ||aa.xqwqbg.com^
 ||aaa520.izlinix.com^
@@ -5090,6 +5116,7 @@
 ||dyhtez.com^
 ||dynatrace.com^
 ||dzynestudio.neglite.com^
+||e.crashlytics.com^
 ||e2bworld.com^
 ||ebara.cc^
 ||ecdlszczecin.eu^
@@ -5495,6 +5522,7 @@
 ||relish.com.cn^
 ||remyyadan.online.fr^
 ||rentimeinvz.com^
+||reports.crashlytics.com^
 ||reycross.cn^
 ||ri-materials.com^
 ||richmetrics.com^
@@ -5569,6 +5597,7 @@
 ||specialistups.com^
 ||spyshredderscanner.com^
 ||spywareshop.info^
+||srv.dc-1.net^
 ||sstats.adobe.com^
 ||stabroom.cn^
 ||stat.analytiall.com^
