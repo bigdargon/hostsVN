@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 29 Dec 2019 21:36 UTC+7
-# Version: 1912292136
-# Blocked: 19,114 domains
+# Last modified: 02 Jan 2020 14:04 UTC+7
+# Version: 2001021404
+# Blocked: 19,060 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -172,16 +172,12 @@
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
-0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 v10.events.data.microsoft.com
-0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 v10c.events.data.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
-0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
 #[atdmt.com]
 0.0.0.0 ad.atdmt.com
@@ -13891,7 +13887,6 @@
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-media-td.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
-0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 zalo-ads.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
@@ -13944,7 +13939,6 @@
 0.0.0.0 restream.accesstrade.vn
 0.0.0.0 static.accesstrade.vn
 0.0.0.0 superbox.accesstrade.vn
-0.0.0.0 top2017.accesstrade.vn
 0.0.0.0 track.accesstrade.vn
 0.0.0.0 tuyendung.accesstrade.vn
 0.0.0.0 www.accesstrade.vn
@@ -17631,7 +17625,6 @@
 0.0.0.0 prmtracking.com
 0.0.0.0 pro-ads.club
 0.0.0.0 pro-advertising.com
-0.0.0.0 pro.i-doctor.co.kr
 0.0.0.0 proext.com
 0.0.0.0 profero.com
 0.0.0.0 profitrumour.com
@@ -18796,23 +18789,16 @@
 0.0.0.0 bioito.cn
 0.0.0.0 biolat.org
 0.0.0.0 bisimai.com
-0.0.0.0 bizneskatalogyekaterinburg.mobivizitka.com
 0.0.0.0 bjdxhs.com
 0.0.0.0 bjhmt.com
 0.0.0.0 bjpgqsc.com
 0.0.0.0 bkkjob.com
 0.0.0.0 blackry.com
-0.0.0.0 blog.3kingsclothing.com
-0.0.0.0 blog.fm120.com
-0.0.0.0 blog.teatroacorte.it
 0.0.0.0 blueconic.net
-0.0.0.0 blushing.findgutterhelmet.com
 0.0.0.0 bohoth.com
 0.0.0.0 bomar-spa.com
-0.0.0.0 bookmark.t2t2.com
 0.0.0.0 bor-bogdanych.com
 0.0.0.0 bori82.com
-0.0.0.0 bormanns-wetter.de
 0.0.0.0 bostelbekersv.com
 0.0.0.0 boutique-miniature.com
 0.0.0.0 bovusforum.com
@@ -18820,7 +18806,6 @@
 0.0.0.0 bqbbw.com
 0.0.0.0 bradyhansen.com
 0.0.0.0 brandmeacademy.com
-0.0.0.0 brandschutztechnik-hartmann.de
 0.0.0.0 brave.ebod.co.uk
 0.0.0.0 bronotak.cn
 0.0.0.0 bugsense.com
@@ -18857,13 +18842,11 @@
 0.0.0.0 ceocms.com
 0.0.0.0 cfbrr.com
 0.0.0.0 cfcgl.com
-0.0.0.0 cheapness.byefelicia.fr
 0.0.0.0 check-updates.net
 0.0.0.0 china-hangyi.com
 0.0.0.0 china-zhenao.com
 0.0.0.0 chinatlz.com
 0.0.0.0 chinese.ahzh-pv.com
-0.0.0.0 choongmoosports.co.kr
 0.0.0.0 cinemaedvd.com
 0.0.0.0 ciscotred.cz.cc
 0.0.0.0 ckidkina.ru
@@ -18896,10 +18879,8 @@
 0.0.0.0 curiouserdesserts.com
 0.0.0.0 cwettqtlffki.com
 0.0.0.0 cx81.com
-0.0.0.0 cylm.jh56.cn
 0.0.0.0 cypgroup.com
 0.0.0.0 czhjln.com
-0.0.0.0 czmlfc.sxtm30.badudns.cc
 0.0.0.0 czqmc.com
 0.0.0.0 d4n.platformd.com
 0.0.0.0 daguogroup.com
@@ -18921,7 +18902,6 @@
 0.0.0.0 dgbangyuan.cn
 0.0.0.0 dgboiler.cn
 0.0.0.0 dgdaerxing.com
-0.0.0.0 din8win7.in
 0.0.0.0 dinkelbrezel.de
 0.0.0.0 dionneg.com
 0.0.0.0 discountcode.dailymail.co.uk
@@ -18931,25 +18911,19 @@
 0.0.0.0 djcalvin.com
 0.0.0.0 djplazebo.com
 0.0.0.0 dl.bzgthg.com
-0.0.0.0 dl.yizhan123.com
 0.0.0.0 dlslw.com
 0.0.0.0 dm.gg
 0.0.0.0 dm599.com
 0.0.0.0 dmgt.grapeshot.co.uk
-0.0.0.0 dns-vip.net
 0.0.0.0 do-not-tracker.org
 0.0.0.0 do.count.ly
 0.0.0.0 doctorsdirectory.net
-0.0.0.0 dog.halfbirthdayproducts.com
 0.0.0.0 dolohen.com
 0.0.0.0 dookioo.com
 0.0.0.0 dortxn.com
 0.0.0.0 doushimm.com
 0.0.0.0 down.nishuoa.com
 0.0.0.0 down.tututool.com
-0.0.0.0 downlaod.vstart.net
-0.0.0.0 downlaod1.vstart.net
-0.0.0.0 download.dns-vip.net
 0.0.0.0 downloadally.com
 0.0.0.0 downloadcypher.com
 0.0.0.0 downloadedsoftware.com
@@ -18961,14 +18935,11 @@
 0.0.0.0 druming.free.fr
 0.0.0.0 dsf.10eurosbonheur.org
 0.0.0.0 dsg.affaireenligne.org
-0.0.0.0 dtdn.cn
-0.0.0.0 dtsrd.gov.cn
 0.0.0.0 dtstesting.com
 0.0.0.0 duchieu.de
 0.0.0.0 dusmin.com
 0.0.0.0 dvyiub.com
 0.0.0.0 dwcreations.net
-0.0.0.0 dwdpi.co.kr
 0.0.0.0 dwnloader.com
 0.0.0.0 dyhtez.com
 0.0.0.0 dynatrace.com
@@ -18976,7 +18947,6 @@
 0.0.0.0 e.crashlytics.com
 0.0.0.0 e2bworld.com
 0.0.0.0 ebara.cc
-0.0.0.0 ecdlszczecin.eu
 0.0.0.0 edchiu.com
 0.0.0.0 edge.bayanazdirandamla.com
 0.0.0.0 edigitalsurvey.com
@@ -19022,7 +18992,6 @@
 0.0.0.0 ffsi.info
 0.0.0.0 fg.bibleandbullets.com
 0.0.0.0 fideln.com
-0.0.0.0 fileserver.co.kr
 0.0.0.0 filmschoolsforum.com
 0.0.0.0 firoznadiadwala.com
 0.0.0.0 first-ware.com
@@ -19074,13 +19043,10 @@
 0.0.0.0 guihua-china.com
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 guyouellette.org
-0.0.0.0 gwiq.globalwebindex.net
-0.0.0.0 gwiqcdn.globalwebindex.net
 0.0.0.0 gxatatuning.cn
 0.0.0.0 gxqyyq.com
 0.0.0.0 gzdywz.com
 0.0.0.0 h-sdk.online-metrix.net
-0.0.0.0 h148.cn
 0.0.0.0 haihuang-audio.com
 0.0.0.0 hairtease.com
 0.0.0.0 halo.smamuhh1metro.com
@@ -19088,15 +19054,11 @@
 0.0.0.0 hdrhsy.cn
 0.0.0.0 hdxxpp.com
 0.0.0.0 hentelpower.com
-0.0.0.0 heshenkj.cn
-0.0.0.0 hhj3.cn
-0.0.0.0 hi8.ss.la
 0.0.0.0 highstreeters.com
 0.0.0.0 hihimn.com
 0.0.0.0 hits.theguardian.com
 0.0.0.0 hkfg.net
 0.0.0.0 hlzx8.com
-0.0.0.0 hncshunyin.cn
 0.0.0.0 hntldgk.com
 0.0.0.0 hobbyworkshop.com
 0.0.0.0 homely.gutterheaters4u.com
@@ -19114,7 +19076,6 @@
 0.0.0.0 huatongchuye.com
 0.0.0.0 huaxiagongzhu.com
 0.0.0.0 huaxingee.com
-0.0.0.0 huidakms.com.cn
 0.0.0.0 humanding.com
 0.0.0.0 hyl-zh.lentor.net
 0.0.0.0 hzm6.com
@@ -19122,7 +19083,6 @@
 0.0.0.0 i.shannon-fisher.xyz
 0.0.0.0 iaudienc.com
 0.0.0.0 ie8eamus.com
-0.0.0.0 iebar.t2t2.com
 0.0.0.0 ifighi.net
 0.0.0.0 illaboratoriosrl.it
 0.0.0.0 im900.com
@@ -19168,7 +19128,6 @@
 0.0.0.0 jsngupdwxeoa.uglyas.com
 0.0.0.0 jtpk8.com
 0.0.0.0 jtti.net
-0.0.0.0 junggomania.nefficient.co.kr
 0.0.0.0 junjiezyc.com
 0.0.0.0 junshi366.com
 0.0.0.0 jxcsteel.com
@@ -19306,7 +19265,6 @@
 0.0.0.0 ohhdear.org
 0.0.0.0 ojakobi.de
 0.0.0.0 okboobs.com
-0.0.0.0 old.yesmeskin.co.kr
 0.0.0.0 omgates.com
 0.0.0.0 opensharecount.com
 0.0.0.0 ophan.theguardian.com
@@ -19471,10 +19429,8 @@
 0.0.0.0 sympation.com
 0.0.0.0 sync2ad.com
 0.0.0.0 szdamuzhi.com
-0.0.0.0 sznaucer-figa.nd.e-wro.pl
 0.0.0.0 szzlzn.com
 0.0.0.0 t.dailymail.co.uk
-0.0.0.0 t2t2.com
 0.0.0.0 t70123.com
 0.0.0.0 tablet.gutterhelment.net
 0.0.0.0 tag.researchnow.com
@@ -19537,11 +19493,9 @@
 0.0.0.0 urnsforpets.net
 0.0.0.0 usa-jiaji.com
 0.0.0.0 usabilla.com
-0.0.0.0 user.fileserver.co.kr
 0.0.0.0 usergrid.com
 0.0.0.0 users.quantumgraph.com
 0.0.0.0 uservoice.com
-0.0.0.0 utildata.co.kr
 0.0.0.0 utpsoxvninhi6.com
 0.0.0.0 uyqrwg.com
 0.0.0.0 va.tawk.to
@@ -19554,7 +19508,6 @@
 0.0.0.0 verfer.com
 0.0.0.0 vi-serve.com
 0.0.0.0 vilagnomad.com
-0.0.0.0 vip.dns-vip.net
 0.0.0.0 vipprojects.cn
 0.0.0.0 virtual-pcb.com
 0.0.0.0 volpefurniture.com
@@ -19562,7 +19515,6 @@
 0.0.0.0 vra4.com
 0.0.0.0 vrl.m.conviva.com
 0.0.0.0 vrot.stervapoimenialena.info
-0.0.0.0 vstart.net
 0.0.0.0 w.usabilla.com
 0.0.0.0 w3counter.com
 0.0.0.0 wa.metro.co.uk
@@ -19628,17 +19580,13 @@
 0.0.0.0 www.yserch.com
 0.0.0.0 wxjflab.com
 0.0.0.0 wyf003.cn
-0.0.0.0 wypromuj.nazwa.pl
 0.0.0.0 wzfmxlrrynnbekcqzu.com
 0.0.0.0 xa58.cn
-0.0.0.0 xap.ss.la
 0.0.0.0 xaxis.grapeshot.co.uk
-0.0.0.0 xcl168.s37.jjisp.com
 0.0.0.0 xczys.com
 0.0.0.0 xhqsysp.com
 0.0.0.0 xi1111.com
 0.0.0.0 xianyicao.net
-0.0.0.0 xiazai.dns-vip.net
 0.0.0.0 xiazai1.wan4399.com
 0.0.0.0 xin-lian.cn
 0.0.0.0 xingqibaile.com
@@ -19649,10 +19597,8 @@
 0.0.0.0 xinyitaoci.com
 0.0.0.0 xioooo.com
 0.0.0.0 xoads.com
-0.0.0.0 xobjzmhopjbboqkmc.com
 0.0.0.0 xpxp36.com
 0.0.0.0 xtxgsx.com
-0.0.0.0 xxi.ss.la
 0.0.0.0 xy-cs.net
 0.0.0.0 xz.hkfg.net
 0.0.0.0 xzmnt.com

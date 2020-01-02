@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 29 Dec 2019 21:36 UTC+7
-! Version: 1912292136
-! Blocked: 299 rules
+! Last modified: 02 Jan 2020 14:04 UTC+7
+! Version: 2001021404
+! Blocked: 298 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -33,7 +33,6 @@
 ||ambientplatform.vn^
 ||anthill.vn^
 ||ants.vn^
-||api.sdk.zadn.vn^
 ||autoads.asia^
 ||banners-gallery.coccoc.com^
 ||bidgear-syndication.com^
