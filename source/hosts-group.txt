@@ -2042,12 +2042,9 @@
 0.0.0.0 track.msadcenter.eqq.com
 0.0.0.0 w.l.qq.com
 #[umeng]
-0.0.0.0 alog.umengcloud.com
 0.0.0.0 alog.umeng.co
-0.0.0.0 uop.umeng.com
-0.0.0.0 umeng.co
-0.0.0.0 umeng.com
-0.0.0.0 umengcloud.com
+0.0.0.0 alog.umeng.com
+0.0.0.0 alog.umengcloud.com
 0.0.0.0 alogs.umeng.com
 0.0.0.0 alogs.umengcloud.com
 0.0.0.0 api.umeng.com
@@ -2056,17 +2053,21 @@
 0.0.0.0 at.umeng.com
 0.0.0.0 dev.umeng.com
 0.0.0.0 msg.umengcloud.com
+0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
 0.0.0.0 ocx.umeng.com
+0.0.0.0 plbslog.umeng.com
+0.0.0.0 sec.umeng.com
 0.0.0.0 udash.umengcloud.com
 0.0.0.0 ulogs.umengcloud.com
+0.0.0.0 umeng.co
+0.0.0.0 umeng.com
+0.0.0.0 umengcloud.com
+0.0.0.0 uop.umeng.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 wsq.umeng.com
 0.0.0.0 www.umeng.com
-0.0.0.0 plbslog.umeng.com
-0.0.0.0 oc.umeng.co
-0.0.0.0 sec.umeng.com
 #[taobao]
 0.0.0.0 accscdn.m.taobao.com
 0.0.0.0 acs4baichuan.m.taobao.com
