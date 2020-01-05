@@ -57,7 +57,7 @@ Tất nhiên là được, bạn có thể dùng tập tin `hosts` (tải về [
 
 Bạn có thể xem thêm bài viết cho hệ điều hành Android [tại đây](https://github.com/bigdargon/hostsVN/wiki/Android).
 
-## Tìm hiểu thêm câu hỏi thường gặp[tại đây](https://github.com/bigdargon/hostsVN/wiki/FAQ)
+## Tìm hiểu thêm câu hỏi thường gặp [tại đây](https://github.com/bigdargon/hostsVN/wiki/FAQ)
 
 # Một số bài viết
 
