@@ -57,12 +57,12 @@ Tất nhiên là được, bạn có thể dùng tập tin `hosts` (tải về [
 
 Bạn có thể xem thêm bài viết cho hệ điều hành Android [tại đây](https://github.com/bigdargon/hostsVN/wiki/Android).
 
-## Tìm hiểu thêm câu hỏi [tại trang này](https://github.com/bigdargon/hostsVN/wiki#c%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p).
+## Tìm hiểu thêm câu hỏi thường gặp[tại đây](https://github.com/bigdargon/hostsVN/wiki/FAQ)
 
 # Một số bài viết
 
-* [Hướng dẫn chặn quảng cáo trong ứng dụng bằng Surge, Adguard Pro, Quantumult, Quantumult X và Adblock](https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-ung-dung-bang-surge-adguard-pro-quantumult-quantumult-x-va-adblock.2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @Thịnh BBQ @se7venl0v3_198 @loveleeyoungae đã tích cực tham gia theo dõi, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @Hoàng_Ngọc_Thành đã úp thớt mỗi khi có cập nhật để không trôi bài._
+* [Hướng dẫn chặn quảng cáo trong ứng dụng bằng Surge, Adguard Pro, Quantumult X và Adblock](https://tinhte.vn/threads/2844988/) _Chân thành cám ơn các bạn ở diễn đàn Tinh tế: @duonghungmanh89 @Thịnh BBQ @se7venl0v3_198 @loveleeyoungae đã tích cực tham gia, đề xuất thêm tên miền quảng cáo mới và cũng cám ơn sự nhiệt tình của bạn @Hoàng_Ngọc_Thành._
 
-* [Hướng dẫn chặn quảng cáo trên Safari bằng Adguard](https://tinhte.vn/threads/huong-dan-chan-quang-cao-tren-safari-bang-adguard.2871474/)
+* [Hướng dẫn chặn quảng cáo trên Safari bằng Adguard](https://tinhte.vn/threads/2871474/)
 
-* [HostVN và chặn quảng cáo Android](https://tinhte.vn/threads/hostvn-va-chan-quang-cao-android.2873705/) _Cám ơn bạn @duonghungmanh89 ở diễn đàn Tinh tế đã chụp màn hình để mình thực hiện bài viết wiki._
+* [HostVN và chặn quảng cáo Android](https://tinhte.vn/threads/2873705/) _Cám ơn bạn @duonghungmanh89 ở diễn đàn Tinh tế đã chụp màn hình để mình thực hiện bài viết wiki._
