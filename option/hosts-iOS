@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Jan 2020 09:54 UTC+7
-# Version: 2001070954
-# Blocked: 19,152 domains
+# Last modified: 07 Jan 2020 15:08 UTC+7
+# Version: 2001071508
+# Blocked: 19,182 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13016,6 +13016,36 @@
 0 adsaro.net
 0 cdn.adsaro.net
 0 www.adsaro.net
+0 aab.adxxx.com
+0 adxxx.com
+0 b.adxxx.com
+0 cn.adxxx.com
+0 cs.adxxx.com
+0 de.adxxx.com
+0 endpoint.adxxx.com
+0 es.adxxx.com
+0 iframe.adxxx.com
+0 iframe2.adxxx.com
+0 n.adxxx.com
+0 pl.adxxx.com
+0 pr.adxxx.com
+0 ru.adxxx.com
+0 samples.adxxx.com
+0 scan.adxxx.com
+0 self-service.adxxx.com
+0 self-service-adm.adxxx.com
+0 self-service-pay.adxxx.com
+0 st.adxxx.com
+0 static.adxxx.com
+0 static2-src.adxxx.com
+0 static-src.adxxx.com
+0 st-n.adxxx.com
+0 teasers.adxxx.com
+0 tr.adxxx.com
+0 track.adxxx.com
+0 tracking.adxxx.com
+0 vi.adxxx.com
+0 www.adxxx.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
