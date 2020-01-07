@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Jan 2020 21:56 UTC+7
-# Version: 2001042156
-# Blocked: 19,138 domains
+# Last modified: 07 Jan 2020 09:54 UTC+7
+# Version: 2001070954
+# Blocked: 19,152 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -3842,9 +3842,22 @@
 0.0.0.0 ad.lkqd.net
 0.0.0.0 creative.lkqd.net
 0.0.0.0 cs.lkqd.net
+0.0.0.0 fcs.lkqd.net
 0.0.0.0 lkqd.net
+0.0.0.0 lookup.lkqd.net
+0.0.0.0 m.lkqd.net
+0.0.0.0 p.lkqd.net
+0.0.0.0 rfp.lkqd.net
+0.0.0.0 rs-lb-a.lkqd.net
+0.0.0.0 rs-lb-b.lkqd.net
+0.0.0.0 rs-lb-dev.lkqd.net
+0.0.0.0 rtb.lkqd.net
+0.0.0.0 s.lkqd.net
 0.0.0.0 ssp.lkqd.net
+0.0.0.0 ssp-cw.lkqd.net
+0.0.0.0 sup.lkqd.net
 0.0.0.0 t.lkqd.net
+0.0.0.0 us.lkqd.net
 0.0.0.0 v.lkqd.net
 0.0.0.0 www.lkqd.net
 #[parrable]
@@ -14498,6 +14511,11 @@
 0.0.0.0 uniad.vn
 0.0.0.0 www.uniad.vn
 0.0.0.0 zone.uniad.vn
+#[mepuzz.com]
+0.0.0.0 mepuzz.com
+0.0.0.0 mysql.mepuzz.com
+0.0.0.0 static.mepuzz.com
+0.0.0.0 www.mepuzz.com
 # --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com
@@ -14560,7 +14578,6 @@
 0.0.0.0 go.vnecdn.com
 0.0.0.0 m.clevernet.vn
 0.0.0.0 m.mobilead.vn
-0.0.0.0 mepuzz.com
 0.0.0.0 microad.vn
 0.0.0.0 mobilead.vn
 0.0.0.0 mobileads.dieuviet.com
@@ -14574,7 +14591,6 @@
 0.0.0.0 quangcao.tuoitre.vn
 0.0.0.0 quangcao247.com.vn
 0.0.0.0 serving-ad.tv24.vn
-0.0.0.0 static.mepuzz.com
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.nas.nixcdn.com
 0.0.0.0 trenddigital.vn
@@ -14588,7 +14604,6 @@
 0.0.0.0 www.adt.com.vn
 0.0.0.0 www.alivar.vn
 0.0.0.0 www.clevernet.vn
-0.0.0.0 www.mepuzz.com
 0.0.0.0 www.microad.vn
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com

@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 04 Jan 2020 21:56 UTC+7
-! Version: 2001042156
+! Last modified: 07 Jan 2020 09:54 UTC+7
+! Version: 2001070954
 ! Blocked: 5,760 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
@@ -67,6 +67,7 @@
 ||mediaz.asia^
 ||mediaz.vn^
 ||mediazcorp.com^
+||mepuzz.com^
 ||metrics.coccoc.com^
 ||novanet.vn^
 ||novaon.asia^
@@ -166,7 +167,6 @@
 ||events.vungtv.com^
 ||fptad.com^
 ||go.vnecdn.com^
-||mepuzz.com^
 ||microad.vn^
 ||mobilead.vn^
 ||mobileads.dieuviet.com^
