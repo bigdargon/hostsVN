@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Jan 2020 15:08 UTC+7
-# Version: 2001071508
-# Blocked: 19,182 domains
+# Last modified: 13 Jan 2020 14:53 UTC+7
+# Version: 2001131453
+# Blocked: 19,211 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -3925,12 +3925,6 @@
 0 info.viglink.com
 0 mc.viglink.com
 0 merchants.viglink.com
-0 ns1.viglink.com
-0 ns2.viglink.com
-0 ns3.viglink.com
-0 ns4.viglink.com
-0 ns5.viglink.com
-0 ns6.viglink.com
 0 optimize.viglink.com
 0 publishers.viglink.com
 0 qa.viglink.com
@@ -13046,6 +13040,34 @@
 0 tracking.adxxx.com
 0 vi.adxxx.com
 0 www.adxxx.com
+0 asset.pubexchange.com
+0 by.pubexchange.com
+0 cdn.pubexchange.com
+0 cdn2.pubexchange.com
+0 demo.pubexchange.com
+0 err.pubexchange.com
+0 explorer.pubexchange.com
+0 main.pubexchange.com
+0 pubexchange.com
+0 pv.pubexchange.com
+0 recommendations.pubexchange.com
+0 stag.pubexchange.com
+0 traffic.pubexchange.com
+0 welcome.pubexchange.com
+0 www.pubexchange.com
+0 ads.justpremium.com
+0 adserver.justpremium.com
+0 cdn-cf.justpremium.com
+0 cdn.justpremium.com
+0 click.justpremium.com
+0 d.justpremium.com
+0 justpremium.com
+0 match.justpremium.com
+0 pre.ads.justpremium.com
+0 tracking.justpremium.com
+0 uk.ads.justpremium.com
+0 us.ads.justpremium.com
+0 www.justpremium.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14378,6 +14400,12 @@
 0 gql.letou8868.com
 0 msp2.letou8868.com
 0 www.letou8868.com
+0 debet.com
+0 mkt.debet.com
+0 www.debet.com
+0 lode88.vip
+0 m.lode88.vip
+0 smartpay.lode88.vip
 0 fuckbookvietnam.com
 0 www.fuckbookvietnam.com
 0 xmobliefacebook.com
@@ -15823,10 +15851,8 @@
 0 cdn.feeds.ibt.com
 0 cdn.freefacti.com
 0 cdn.freefarcy.com
-0 cdn.pubexchange.com
 0 cdn.ravenjs.com
 0 cdn.spotscenered.info
-0 cdn2.pubexchange.com
 0 cdnondemand.org
 0 cdnproviders.net
 0 cdnstoremedia.com
@@ -17135,6 +17161,7 @@
 0 possessivebucket.com
 0 possibleboats.com
 0 potenza.cz
+0 powerad.ai
 0 pr-star.de
 0 pr-ten.de
 0 pr5dir.com
@@ -17767,7 +17794,6 @@
 0 traffic-exchange.com
 0 traffic.focuusing.com
 0 traffic.liveuniversenetwork.com
-0 traffic.pubexchange.com
 0 trafficadept.com
 0 trafficads.net
 0 trafficcdn.liveuniversenetwork.com
@@ -17827,6 +17853,7 @@
 0 uarating.com
 0 uberads.com
 0 ubermedia.com
+0 uge521.com
 0 ukbanners.com
 0 ultimateclixx.com
 0 ultramercial.com
@@ -18025,6 +18052,7 @@
 0 www.pcmclk.com
 0 www.performanceadexchange.com
 0 www.photo-ads.co.uk
+0 www.powerad.ai
 0 www.pro-ads.club
 0 www.push-notifications.top
 0 www.rmiesnorthur.pro
@@ -18227,7 +18255,9 @@
 0 analytics.cloudron.io
 0 analytics.colacoweb.net
 0 analytics.digit.in
+0 analytics.diyriver.io
 0 analytics.ff.avast.com
+0 analytics.headerbiddr.net
 0 analytics.hostyour.video
 0 analytics.htmedia.in
 0 analytics.icons8.com
@@ -18814,7 +18844,6 @@
 0 pebed.dm.gg
 0 pegloang.com
 0 peoria33884.cz.cc
-0 performance.typekit.net
 0 pham.duchieu.de
 0 pinkpillar.ru
 0 pipedream.wistia.com

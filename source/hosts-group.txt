@@ -4066,12 +4066,6 @@
 0.0.0.0 info.viglink.com
 0.0.0.0 mc.viglink.com
 0.0.0.0 merchants.viglink.com
-0.0.0.0 ns1.viglink.com
-0.0.0.0 ns2.viglink.com
-0.0.0.0 ns3.viglink.com
-0.0.0.0 ns4.viglink.com
-0.0.0.0 ns5.viglink.com
-0.0.0.0 ns6.viglink.com
 0.0.0.0 optimize.viglink.com
 0.0.0.0 publishers.viglink.com
 0.0.0.0 qa.viglink.com
@@ -13563,3 +13557,33 @@
 0.0.0.0 tracking.adxxx.com
 0.0.0.0 vi.adxxx.com
 0.0.0.0 www.adxxx.com
+#[pubexchange.com]
+0.0.0.0 asset.pubexchange.com
+0.0.0.0 by.pubexchange.com
+0.0.0.0 cdn.pubexchange.com
+0.0.0.0 cdn2.pubexchange.com
+0.0.0.0 demo.pubexchange.com
+0.0.0.0 err.pubexchange.com
+0.0.0.0 explorer.pubexchange.com
+0.0.0.0 main.pubexchange.com
+0.0.0.0 pubexchange.com
+0.0.0.0 pv.pubexchange.com
+0.0.0.0 recommendations.pubexchange.com
+0.0.0.0 stag.pubexchange.com
+0.0.0.0 traffic.pubexchange.com
+0.0.0.0 welcome.pubexchange.com
+0.0.0.0 www.pubexchange.com
+#[justpremium.com]
+0.0.0.0 ads.justpremium.com
+0.0.0.0 adserver.justpremium.com
+0.0.0.0 cdn-cf.justpremium.com
+0.0.0.0 cdn.justpremium.com
+0.0.0.0 click.justpremium.com
+0.0.0.0 d.justpremium.com
+0.0.0.0 justpremium.com
+0.0.0.0 match.justpremium.com
+0.0.0.0 pre.ads.justpremium.com
+0.0.0.0 tracking.justpremium.com
+0.0.0.0 uk.ads.justpremium.com
+0.0.0.0 us.ads.justpremium.com
+0.0.0.0 www.justpremium.com

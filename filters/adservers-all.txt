@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 07 Jan 2020 15:08 UTC+7
-! Version: 2001071508
-! Blocked: 5,761 rules
+! Last modified: 13 Jan 2020 14:53 UTC+7
+! Version: 2001131453
+! Blocked: 5,765 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -266,6 +266,7 @@
 ||bong99.com^
 ||casino888vn.com^
 ||datcuoc247.com^
+||debet.com^
 ||fabet.com^
 ||fabetvn.com^
 ||fb88.com^
@@ -283,6 +284,7 @@
 ||jbovn.com^
 ||k8vn03.com^
 ||letou8868.com^
+||lode88.vip^
 ||lucky88.com^
 ||lucky88.net^
 ||m883d.com^
@@ -745,6 +747,7 @@
 ||jsecoin.com^
 ||juicer.cc^
 ||juicyads.com^
+||justpremium.com^
 ||jwpltx.com^
 ||kaffnet.com^
 ||kau.li^
@@ -893,6 +896,7 @@
 ||propellerads.com^
 ||propellerclick.com^
 ||pub.network^
+||pubexchange.com^
 ||pubmatic.com^
 ||pubmine.com^
 ||pubnative.net^
@@ -2479,10 +2483,8 @@
 ||cdn.feeds.ibt.com^
 ||cdn.freefacti.com^
 ||cdn.freefarcy.com^
-||cdn.pubexchange.com^
 ||cdn.ravenjs.com^
 ||cdn.spotscenered.info^
-||cdn2.pubexchange.com^
 ||cdnondemand.org^
 ||cdnproviders.net^
 ||cdnstoremedia.com^
@@ -3794,6 +3796,7 @@
 ||possessivebucket.com^
 ||possibleboats.com^
 ||potenza.cz^
+||powerad.ai^
 ||pr-star.de^
 ||pr-ten.de^
 ||pr5dir.com^
@@ -4425,7 +4428,6 @@
 ||traffic-exchange.com^
 ||traffic.focuusing.com^
 ||traffic.liveuniversenetwork.com^
-||traffic.pubexchange.com^
 ||trafficadept.com^
 ||trafficads.net^
 ||trafficcdn.liveuniversenetwork.com^
@@ -4485,6 +4487,7 @@
 ||uarating.com^
 ||uberads.com^
 ||ubermedia.com^
+||uge521.com^
 ||ukbanners.com^
 ||ultimateclixx.com^
 ||ultramercial.com^
@@ -4829,7 +4832,9 @@
 ||analytics.cloudron.io^
 ||analytics.colacoweb.net^
 ||analytics.digit.in^
+||analytics.diyriver.io^
 ||analytics.ff.avast.com^
+||analytics.headerbiddr.net^
 ||analytics.hostyour.video^
 ||analytics.htmedia.in^
 ||analytics.icons8.com^
@@ -5424,7 +5429,6 @@
 ||pebed.dm.gg^
 ||pegloang.com^
 ||peoria33884.cz.cc^
-||performance.typekit.net^
 ||pham.duchieu.de^
 ||pinkpillar.ru^
 ||pipedream.wistia.com^
