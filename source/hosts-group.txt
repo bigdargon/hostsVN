@@ -593,7 +593,6 @@
 0.0.0.0 pixel.facebook.com
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 sonar-iad.xx.fbcdn.net
-0.0.0.0 graph.instagram.com
 #[update.fbsbx.com]
 0.0.0.0 o.update.fbsbx.com
 0.0.0.0 p.update.fbsbx.com
@@ -893,13 +892,26 @@
 0.0.0.0 megapopads.com
 0.0.0.0 sender.megapopads.com
 0.0.0.0 www.megapopads.com
-#[popcash]
+#[popcash.net]
 0.0.0.0 cdn.popcash.net
-0.0.0.0 popcash.net
-0.0.0.0 www.popcash.net
+0.0.0.0 cdn2.popcash.net
+0.0.0.0 cdn-alt.popcash.net
+0.0.0.0 ct.popcash.net
+0.0.0.0 dcba.popcash.net
 0.0.0.0 mem1.popcash.net
 0.0.0.0 mem2.popcash.net
 0.0.0.0 mem3.popcash.net
+0.0.0.0 members.popcash.net
+0.0.0.0 popcash.net
+0.0.0.0 ps.popcash.net
+0.0.0.0 push.popcash.net
+0.0.0.0 pushads.popcash.net
+0.0.0.0 redirector.popcash.net
+0.0.0.0 sp.popcash.net
+0.0.0.0 static.popcash.net
+0.0.0.0 tb.popcash.net
+0.0.0.0 web1.popcash.net
+0.0.0.0 www.popcash.net
 #[mgid]
 0.0.0.0 a.mgid.com
 0.0.0.0 aa.goodsblock.mgid.com
@@ -2680,23 +2692,25 @@
 0.0.0.0 mparticle.com
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 www.identity.mparticle.com
-#[nexage]
+#[nexage.com]
 0.0.0.0 admax.nexage.com
 0.0.0.0 ads.nexage.com
-0.0.0.0 gdprmedtest.nexage.com
+0.0.0.0 adserver.nexage.com
+0.0.0.0 bos.ads.nexage.com
 0.0.0.0 hb.nexage.com
 0.0.0.0 hk4.nexage.com
 0.0.0.0 hub.nexage.com
 0.0.0.0 medtest.nexage.com
 0.0.0.0 myadmax.nexage.com
 0.0.0.0 nexage.com
+0.0.0.0 pinger.ads.nexage.com
 0.0.0.0 reports.nexage.com
 0.0.0.0 rtb.nexage.com
 0.0.0.0 sdk.nexage.com
 0.0.0.0 sjc.ads0.nexage.com
-0.0.0.0 stage.www.nexage.com
 0.0.0.0 tangerine.nexage.com
 0.0.0.0 vpn.nexage.com
+0.0.0.0 www.nexage.com
 #[pushwoosh]
 0.0.0.0 ha.pushwoosh.com
 0.0.0.0 ha-api.pushwoosh.com
@@ -12226,9 +12240,7 @@
 0.0.0.0 verity-api.gumgum.com
 0.0.0.0 vi.gumgum.com
 0.0.0.0 video-converter.gumgum.com
-0.0.0.0 www.events.gumgum.com
 0.0.0.0 www.gumgum.com
-0.0.0.0 www.store2.gumgum.com
 #[im-apps.net]
 0.0.0.0 apac.sync.im-apps.net
 0.0.0.0 aspui.im-apps.net
@@ -13587,3 +13599,149 @@
 0.0.0.0 uk.ads.justpremium.com
 0.0.0.0 us.ads.justpremium.com
 0.0.0.0 www.justpremium.com
+#[adzerk.net]
+0.0.0.0 adzerk.net
+0.0.0.0 engine.adzerk.net
+0.0.0.0 engine2.adzerk.net
+0.0.0.0 static.adzerk.net
+0.0.0.0 www.adzerk.net
+#[beverly-downing.xyz]
+0.0.0.0 beverly-downing.xyz
+0.0.0.0 i.beverly-downing.xyz
+#[88-f.net]
+0.0.0.0 88.88-f.net
+0.0.0.0 88-f.net
+0.0.0.0 cdn.88-f.net
+0.0.0.0 cfg.88-f.net
+0.0.0.0 config.88-f.net
+0.0.0.0 du.88-f.net
+0.0.0.0 en.88-f.net
+0.0.0.0 rtb-1.88-f.net
+#[a-mo.net]
+0.0.0.0 a-mo.net
+0.0.0.0 assets.a-mo.net
+0.0.0.0 collector.a-mo.net
+0.0.0.0 config.a-mo.net
+0.0.0.0 cpxy.a-mo.net
+0.0.0.0 downloads.a-mo.net
+0.0.0.0 fav.a-mo.net
+0.0.0.0 fav-cdn.a-mo.net
+0.0.0.0 metrics.a-mo.net
+0.0.0.0 o.update.a-mo.net
+0.0.0.0 p.update.a-mo.net
+0.0.0.0 post.update.a-mo.net
+0.0.0.0 rj.a-mo.net
+0.0.0.0 s.update.a-mo.net
+0.0.0.0 sdk.a-mo.net
+0.0.0.0 static.a-mo.net
+0.0.0.0 tracking.a-mo.net
+0.0.0.0 u.update.a-mo.net
+0.0.0.0 update.a-mo.net
+0.0.0.0 us-east-1.rtb.a-mo.net
+#[vicksot.com]
+0.0.0.0 o.vicksot.com
+0.0.0.0 p.vicksot.com
+0.0.0.0 post.vicksot.com
+0.0.0.0 s.vicksot.com
+0.0.0.0 t.vicksot.com
+0.0.0.0 u.vicksot.com
+0.0.0.0 vicksot.com
+#[clcktrax.com]
+0.0.0.0 clcktrax.com
+0.0.0.0 p.clcktrax.com
+0.0.0.0 post.clcktrax.com
+0.0.0.0 s.clcktrax.com
+0.0.0.0 t.clcktrax.com
+0.0.0.0 u.clcktrax.com
+#[pjiptn.com]
+0.0.0.0 p.pjiptn.com
+0.0.0.0 pjiptn.com
+0.0.0.0 post.pjiptn.com
+0.0.0.0 s.pjiptn.com
+0.0.0.0 t.pjiptn.com
+0.0.0.0 u.pjiptn.com
+#[pixsrvcs.com]
+0.0.0.0 p.pixsrvcs.com
+0.0.0.0 pixsrvcs.com
+0.0.0.0 post.pixsrvcs.com
+0.0.0.0 s.pixsrvcs.com
+0.0.0.0 u.pixsrvcs.com
+#[dc-1.net]
+0.0.0.0 aas.dc-1.net
+0.0.0.0 dc-1.net
+0.0.0.0 pbs.dc-1.net
+0.0.0.0 srv.dc-1.net
+0.0.0.0 xx.dc-1.net
+#[vdopia.com]
+0.0.0.0 ads.vdopia.com
+0.0.0.0 anil.vdopia.com
+0.0.0.0 ankit.dev.vdopia.com
+0.0.0.0 bulkesh.dev.vdopia.com
+0.0.0.0 cdn.vdopia.com
+0.0.0.0 cdni.sb.vdopia.com
+0.0.0.0 cdni.vdopia.com
+0.0.0.0 creatives.vdopia.com
+0.0.0.0 cs.cookie-sync.vdopia.com
+0.0.0.0 cs.vdopia.com
+0.0.0.0 chocolatesdk.vdopia.com
+0.0.0.0 chocolate-trackers.us-east-1.resources.vdopia.com
+0.0.0.0 demo.vdopia.com
+0.0.0.0 dev.vdopia.com
+0.0.0.0 i2.vdopia.com
+0.0.0.0 master.vdopia.com
+0.0.0.0 mayank.qa.vdopia.com
+0.0.0.0 mayank.serve.qa.vdopia.com
+0.0.0.0 mobile.vdopia.com
+0.0.0.0 mukesh.mobile.qa.vdopia.com
+0.0.0.0 om.dev.vdopia.com
+0.0.0.0 online.vdopia.com
+0.0.0.0 pdot.vdopia.com
+0.0.0.0 portal.vdopia.com
+0.0.0.0 prod2-trackers.us-east-1.resources.vdopia.com
+0.0.0.0 pushpender.dev.vdopia.com
+0.0.0.0 q.vdopia.com
+0.0.0.0 qa.vdopia.com
+0.0.0.0 sb.vdopia.com
+0.0.0.0 serve.vdopia.com
+0.0.0.0 serve-virginia.vdopia.com
+0.0.0.0 sonuj.dev.vdopia.com
+0.0.0.0 ssp2.vdopia.com
+0.0.0.0 tarunsharma.dev.vdopia.com
+0.0.0.0 trk.us-east-1.resources.vdopia.com
+0.0.0.0 trk.vdopia.com
+0.0.0.0 trk2.us-east-1.resources.vdopia.com
+0.0.0.0 trk2.vdopia.com
+0.0.0.0 trk3.vdopia.com
+0.0.0.0 trk4.vdopia.com
+0.0.0.0 trk5.vdopia.com
+0.0.0.0 trkstaging.vdopia.com
+0.0.0.0 vdopia.com
+0.0.0.0 www.vdopia.com
+#[chocolateplatform.com]
+0.0.0.0 chocolateplatform.com
+0.0.0.0 cs.chocolateplatform.com
+0.0.0.0 hello.chocolateplatform.com
+0.0.0.0 www.chocolateplatform.com
+#[komoona.com]
+0.0.0.0 a.komoona.com
+0.0.0.0 bidder.komoona.com
+0.0.0.0 bkcdn.komoona.com
+0.0.0.0 cdn.komoona.com
+0.0.0.0 cs.komoona.com
+0.0.0.0 csync.komoona.com
+0.0.0.0 dn.komoona.com
+0.0.0.0 e1.komoona.com
+0.0.0.0 hb.komoona.com
+0.0.0.0 komoona.com
+0.0.0.0 s.komoona.com
+0.0.0.0 s2s.komoona.com
+0.0.0.0 stat.komoona.com
+0.0.0.0 www.komoona.com
+#[admarvel.com]
+0.0.0.0 admarvel.com
+0.0.0.0 ads.admarvel.com
+0.0.0.0 automator.admarvel.com
+0.0.0.0 base-cdn.admarvel.com
+0.0.0.0 cdn.admarvel.com
+0.0.0.0 map.admarvel.com
+0.0.0.0 omax.admarvel.com

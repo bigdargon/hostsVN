@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 13 Jan 2020 14:53 UTC+7
-! Version: 2001131453
-! Blocked: 5,765 rules
+! Last modified: 01 Feb 2020 21:11 UTC+7
+! Version: 2002012111
+! Blocked: 5,773 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -167,6 +167,7 @@
 ||events.vungtv.com^
 ||fptad.com^
 ||go.vnecdn.com^
+||isoad.com^
 ||microad.vn^
 ||mobilead.vn^
 ||mobileads.dieuviet.com^
@@ -340,7 +341,9 @@
 ||360in.com^
 ||3lift.com^
 ||4dsply.com^
+||88-f.net^
 ||a-ads.com^
+||a-mo.net^
 ||a4.tl^
 ||aatkit.com^
 ||aax-*-iad.amazon.com^
@@ -382,6 +385,7 @@
 ||adk2x.com^
 ||adkernel.com^
 ||admarketplace.net^
+||admarvel.com^
 ||admedia.com^
 ||admob.com^
 ||adnetasia.com^
@@ -465,6 +469,7 @@
 ||adxxx.com^
 ||adxxx.info^
 ||adz2you.net^
+||adzerk.net^
 ||aerserv.com^
 ||affise.com^
 ||agentanalytics.com^
@@ -546,6 +551,7 @@
 ||beap*.yahoo.com^
 ||bebi.com^
 ||betrad.com^
+||beverly-downing.xyz^
 ||bfmio.com^
 ||bidfilter.com^
 ||bidr.io^
@@ -582,9 +588,11 @@
 ||chartbeat.net^
 ||chartboost.com^
 ||chitika.com^
+||chocolateplatform.com^
 ||cint.com^
 ||cintnetworks.com^
 ||cj1*.online^
+||clcktrax.com^
 ||clean.gg^
 ||clevertap.com^
 ||click.union.ucweb.com^
@@ -624,6 +632,7 @@
 ||customad.cnn.com^
 ||cxense.com^
 ||data.alexa.com^
+||dc-1.net^
 ||demandbase.com^
 ||demdex.net^
 ||deployads.com^
@@ -690,7 +699,6 @@
 ||googletagservices.com^
 ||gop1.co^
 ||goraps.com^
-||graph.instagram.com^
 ||growingio.com^
 ||gsp1.baidu.com^
 ||gssprt.jp^
@@ -753,6 +761,7 @@
 ||kau.li^
 ||knowlead.io^
 ||kochava.com^
+||komoona.com^
 ||krxd.net^
 ||ladsp.com^
 ||leanplum.com^
@@ -878,6 +887,8 @@
 ||pixel-static.spotify.com^
 ||pixel.facebook.com^
 ||pixel.spotify.com^
+||pixsrvcs.com^
+||pjiptn.com^
 ||platform.tumblr.com^
 ||playbuzz.com^
 ||playground.xyz^
@@ -1016,6 +1027,8 @@
 ||urekamedia.com^
 ||useinsider.com^
 ||usp1.baidu.com^
+||vdopia.com^
+||vicksot.com^
 ||videohub.tv^
 ||vidoomy.com^
 ||viglink.com^
@@ -1363,7 +1376,6 @@
 ||admanager.btopenworld.com^
 ||admanager.carsoup.com^
 ||admantx.com^
-||admarvel.com^
 ||admedia.ro^
 ||admedia.wsod.com^
 ||admedo.com^
@@ -1391,7 +1403,6 @@
 ||adnetinteractive.com^
 ||adnetwork.net^
 ||adnetworkperformance.com^
-||adnetworkperformance.compopcash.net^
 ||adnews.maddog2000.de^
 ||adnotch.com^
 ||adocean.pl^
@@ -2038,6 +2049,7 @@
 ||advfromnwl.com^
 ||advideo.uimserv.net^
 ||adview.ppro.de^
+||advinci.net^
 ||advisormedia.cz^
 ||adviva.com^
 ||adviva.net^
@@ -2060,7 +2072,6 @@
 ||adyea.com^
 ||adz2you.com^
 ||adzbazar.com^
-||adzerk.net^
 ||adzones.com^
 ||af-ad.co.uk^
 ||affbuzzads.com^
@@ -3260,7 +3271,6 @@
 ||koacojus.net^
 ||koindut.com^
 ||koinser.in^
-||komoona.com^
 ||kompasads.com^
 ||kontera.com^
 ||kt-g.de^
@@ -4525,7 +4535,6 @@
 ||valuesponsor.com^
 ||vanfireworks.com^
 ||variablefitness.com^
-||vdopia.com^
 ||veille-referencement.com^
 ||velocecdn.com^
 ||velocitycdn.com^
@@ -5549,7 +5558,6 @@
 ||specialistups.com^
 ||spyshredderscanner.com^
 ||spywareshop.info^
-||srv.dc-1.net^
 ||sstats.adobe.com^
 ||stabroom.cn^
 ||stat.analytiall.com^

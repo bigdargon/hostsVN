@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 13 Jan 2020 14:53 UTC+7
-! Version: 2001131453
-! Blocked: 326 rules
+! Last modified: 01 Feb 2020 21:11 UTC+7
+! Version: 2002012111
+! Blocked: 327 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -167,6 +167,7 @@
 ||events.vungtv.com^
 ||fptad.com^
 ||go.vnecdn.com^
+||isoad.com^
 ||microad.vn^
 ||mobilead.vn^
 ||mobileads.dieuviet.com^
