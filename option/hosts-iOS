@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Feb 2020 21:11 UTC+7
-# Version: 2002012111
-# Blocked: 19,354 domains
+# Last modified: 03 Feb 2020 14:35 UTC+7
+# Version: 2002031435
+# Blocked: 19,347 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13213,6 +13213,10 @@
 0 cdn.admarvel.com
 0 map.admarvel.com
 0 omax.admarvel.com
+0 d.exit-ad.com
+0 exit-ad.com
+0 i.exit-ad.com
+0 j.exit-ad.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -16035,6 +16039,7 @@
 0 cj.com
 0 cjbmanagement.com
 0 cjlog.com
+0 cjt1.net
 0 claria.com
 0 clashmobile.com
 0 class-act-clicks.com
@@ -16216,7 +16221,6 @@
 0 cyberbounty.com
 0 cybermonitor.com
 0 d.appsdt.com
-0 d.exit-ad.com
 0 d2cmedia.ca
 0 dakic-ia-300.com
 0 damdoor.com
@@ -16225,7 +16229,6 @@
 0 dapper.net
 0 dashingdirt.com
 0 dashingsweater.com
-0 data.namesakeoscilloscopemarquis.com
 0 data.queryly.com
 0 datashreddergold.com
 0 dataxu.com
@@ -16245,7 +16248,6 @@
 0 defectivesun.com
 0 delegatediscussion.com
 0 delightdriving.com
-0 deliver.vkcdnservice.com
 0 deloo.de
 0 deloplen.com
 0 deloton.com
@@ -16399,7 +16401,6 @@
 0 exchangeclicksonline.com
 0 exclusivebrass.com
 0 exelator.com
-0 exit-ad.com
 0 exit76.com
 0 exitexchange.com
 0 exitfuel.com
@@ -16630,7 +16631,6 @@
 0 hystericalhelp.com
 0 i-clicks.net
 0 i-lookup.com
-0 i.exit-ad.com
 0 i.rmbl.ws
 0 i1img.com
 0 i1media.no
@@ -16723,26 +16723,19 @@
 0 ireklama.cz
 0 itfarm.com
 0 itop.cz
-0 its-that-easy.com
 0 itsptp.com
 0 ivwbox.de
 0 ivykiosk.com
 0 ivypixel.com
-0 iz682noju02ye5.com
-0 j.exit-ad.com
 0 j93557g.com
 0 jadeitite.com
 0 jaizouji.com
 0 jaminfinity.tk
 0 jatxt.com
-0 jbeet.cjt1.net
 0 jcount.com
-0 jedonkey.cjt1.net
 0 jf71qh5v14.com
 0 jinkads.de
 0 jiwire.com
-0 jkazaa.cjt1.net
-0 jnova.cjt1.net
 0 joetec.net
 0 jokedollars.com
 0 joneself.com
