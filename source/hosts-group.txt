@@ -13750,3 +13750,14 @@
 0.0.0.0 exit-ad.com
 0.0.0.0 i.exit-ad.com
 0.0.0.0 j.exit-ad.com
+#[adexchangemachine.com]
+0.0.0.0 a.adexchangemachine.com
+0.0.0.0 adexchangemachine.com
+0.0.0.0 b.adexchangemachine.com
+0.0.0.0 c.adexchangemachine.com
+#[appbaqend.com]
+0.0.0.0 a.appbaqend.com
+0.0.0.0 appbaqend.com
+0.0.0.0 www.appbaqend.com
+0.0.0.0 x-us.appbaqend.com
+0.0.0.0 x.appbaqend.com
