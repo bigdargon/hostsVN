@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Feb 2020 14:37 UTC+7
-# Version: 2002041437
-# Blocked: 19,284 domains
+# Last modified: 04 Feb 2020 15:01 UTC+7
+# Version: 2002041501
+# Blocked: 19,260 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -1545,35 +1545,6 @@
 0 s.agentanalytics.com
 0 t.agentanalytics.com
 0 u.agentanalytics.com
-0 api.appsflyer.com
-0 app.appsflyer.com
-0 appsflyer.com
-0 attr.appsflyer.com
-0 cdn.appsflyer.com
-0 cdnappicons.appsflyer.com
-0 community.appsflyer.com
-0 events.appsflyer.com
-0 get.appsflyer.com
-0 global.appsflyer.com
-0 hq.appsflyer.com
-0 hq1.appsflyer.com
-0 hub.appsflyer.com
-0 impression.appsflyer.com
-0 inapps.appsflyer.com
-0 launches.appsflyer.com
-0 monitorsdk.appsflyer.com
-0 newclicks.appsflyer.com
-0 partners.appsflyer.com
-0 r.appsflyer.com
-0 register.appsflyer.com
-0 sdk-services.appsflyer.com
-0 sdk.appsflyer.com
-0 stats.appsflyer.com
-0 statsgoogle.appsflyer.com
-0 support.appsflyer.com
-0 t.appsflyer.com
-0 track.appsflyer.com
-0 www.appsflyer.com
 0 a.sharethis.com
 0 ab.sharethis.com
 0 ad.sharethis.com
@@ -18365,6 +18336,7 @@
 0 annedouglas.com
 0 annengdl.com
 0 aonikesi.com
+0 api.appsflyer.com
 0 api.prooffactor.com
 0 api.quantumgraph.com
 0 api.safegraph.com
@@ -18600,6 +18572,7 @@
 0 eurolatexthai.com
 0 evasive.expertwitnessautomaticdoor.net
 0 events-collector.spot.im
+0 events.appsflyer.com
 0 events.redditmedia.com
 0 everestjs.net
 0 evilstalin.https443.net
@@ -18957,6 +18930,7 @@
 0 reed-cw.grapeshot.co.uk
 0 reflexonature.free.fr
 0 regis.foultier.free.fr
+0 register.appsflyer.com
 0 reglasti.com
 0 relimar.com
 0 relish.com.cn
@@ -19062,6 +19036,7 @@
 0 sync2ad.com
 0 szdamuzhi.com
 0 szzlzn.com
+0 t.appsflyer.com
 0 t.dailymail.co.uk
 0 t70123.com
 0 tablet.gutterhelment.net
@@ -19093,6 +19068,7 @@
 0 tottaldomain.cn
 0 toursportsimage.com
 0 tr-gdz.ru
+0 track.appsflyer.com
 0 track.omg543.com
 0 track.publeadmedia.com
 0 track.tenjin.io
