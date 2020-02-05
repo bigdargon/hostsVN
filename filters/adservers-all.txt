@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 05 Feb 2020 16:36 UTC+7
-! Version: 2002051636
+! Last modified: 05 Feb 2020 16:43 UTC+7
+! Version: 2002051643
 ! Blocked: 5,693 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
@@ -5696,5 +5696,5 @@
 ||dql2sdu63f1cw.cloudfront.net^
 ||d1v373ntykegkp.cloudfront.net^
 ||d3luypns9uh4a4.cloudfront.net^
-@@||app.adjust.com^|
-@@||app.appsflyer.com^|
+@@||app.adjust.com^
+@@||app.appsflyer.com^
