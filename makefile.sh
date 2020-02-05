@@ -4,11 +4,12 @@ echo "Making titles..."
 # make time stamp & count blocked
 TIME_STAMP=$(date +'%d %b %Y %H:%M')
 VERSION=$(date +'%y%m%d%H%M')
-DOMAIN=$(printf "%'.f\n" $(cat source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt | grep "0.0.0.0" | wc -l))
-DOMAIN_VN=$(printf "%'.f\n" $(cat source/hosts-VN-group.txt source/hosts-VN.txt | grep "0.0.0.0" | wc -l))
-DOMAIN_GA=$(printf "%'.f\n" $(cat source/hosts-gambling.txt | grep "0.0.0.0" | wc -l))
-RULE=$(printf "%'.f\n" $(cat source/adservers.txt source/adservers-all.txt source/adservers-extra.txt source/exceptions.txt | grep -v '!' | wc -l))
-RULE_VN=$(printf "%'.f\n" $(cat source/adservers.txt | grep -v '!' | wc -l))
+LC_NUMERIC="en_US.UTF-8"
+DOMAIN=$(printf "%'.3d\n" $(cat source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt | grep "0.0.0.0" | wc -l))
+DOMAIN_VN=$(printf "%'.3d\n" $(cat source/hosts-VN-group.txt source/hosts-VN.txt | grep "0.0.0.0" | wc -l))
+DOMAIN_GA=$(printf "%'.3d\n" $(cat source/hosts-gambling.txt | grep "0.0.0.0" | wc -l))
+RULE=$(printf "%'.3d\n" $(cat source/adservers.txt source/adservers-all.txt source/adservers-extra.txt source/exceptions.txt | grep -v '!' | wc -l))
+RULE_VN=$(printf "%'.3d\n" $(cat source/adservers.txt | grep -v '!' | wc -l))
 
 # update titles
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts.txt > tmp/title-hosts.tmp
