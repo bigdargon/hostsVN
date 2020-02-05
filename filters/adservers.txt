@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 04 Feb 2020 15:01 UTC+7
-! Version: 2002041501
-! Blocked: 327 rules
+! Last modified: 05 Feb 2020 16:36 UTC+7
+! Version: 2002051636
+! Blocked: 323 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -69,6 +69,7 @@
 ||mediazcorp.com^
 ||mepuzz.com^
 ||metrics.coccoc.com^
+||mobilead.vn^
 ||novanet.vn^
 ||novaon.asia^
 ||novaon.vn^
@@ -167,9 +168,7 @@
 ||events.vungtv.com^
 ||fptad.com^
 ||go.vnecdn.com^
-||isoad.com^
 ||microad.vn^
-||mobilead.vn^
 ||mobileads.dieuviet.com^
 ||myad.vn^
 ||ng-vn-notice.gameitop.com^
@@ -201,11 +200,8 @@
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
 ||analytics.vnreview.vn^
-||collect.ovp.vn^
 ||deqik.com^
-||dt.tuoitre.vn^
 ||elogs.vnexpress.net^
-||fbuser.ovp.vn^
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
 ||log.baomoi.com^

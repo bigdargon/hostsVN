@@ -6,13 +6,15 @@ TIME_STAMP=$(date +'%d %b %Y %H:%M')
 VERSION=$(date +'%y%m%d%H%M')
 DOMAIN=$(printf "%'.f\n" $(cat source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt | grep "0.0.0.0" | wc -l))
 DOMAIN_VN=$(printf "%'.f\n" $(cat source/hosts-VN-group.txt source/hosts-VN.txt | grep "0.0.0.0" | wc -l))
-RULE=$(printf "%'.f\n" $(cat source/adservers.txt source/adservers-all.txt source/adservers-extra.txt | grep -v '!' | wc -l))
+DOMAIN_GA=$(printf "%'.f\n" $(cat source/hosts-gambling.txt | grep "0.0.0.0" | wc -l))
+RULE=$(printf "%'.f\n" $(cat source/adservers.txt source/adservers-all.txt source/adservers-extra.txt source/exceptions.txt | grep -v '!' | wc -l))
 RULE_VN=$(printf "%'.f\n" $(cat source/adservers.txt | grep -v '!' | wc -l))
 
 # update titles
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts.txt > tmp/title-hosts.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts-iOS.txt > tmp/title-hosts-iOS.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_vn_/$DOMAIN_VN/g" tmp/title-hosts-VN.txt > tmp/title-hosts-VN.tmp
+sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_ga_/$DOMAIN_GA/g" tmp/title-hosts-gambling.txt > tmp/title-hosts-gambling.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_/$RULE/g" tmp/title-adserver-all.txt > tmp/title-adserver-all.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_vn_/$RULE_VN/g" tmp/title-adserver.txt > tmp/title-adserver.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_/$RULE/g" tmp/title-domain.txt > tmp/title-domain.tmp
@@ -21,6 +23,7 @@ echo "Creating hosts file..."
 # create hosts files
 cat tmp/title-hosts.tmp source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt > hosts
 cat tmp/title-hosts-VN.tmp source/hosts-VN-group.txt source/hosts-VN.txt > option/hosts-VN
+cat tmp/title-hosts-gambling.tmp source/hosts-gambling.txt > option/hosts-gambling
 
 # create hosts-iOS file
 cat hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "0 "$2}' >> tmp/hosts-iOS.tmp
@@ -34,10 +37,12 @@ echo "Creating adserver file..."
 cat source/adservers.txt | grep -v '!' | awk '{print $1}' >> tmp/adservers.tmp
 cat source/adservers-all.txt | grep -v '!' |awk '{print $1}' >> tmp/adservers-all.tmp
 cat source/adservers-extra.txt | grep -v '!' |awk '{print $1}' >> tmp/adservers-extra.tmp
+cat source/exceptions.txt | grep -v '!' |awk '{print $1}' >> tmp/exceptions.tmp
 
 # create adserver files
 cat tmp/adservers.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-rule.tmp
 cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-all-rule.tmp
+cat tmp/exceptions.tmp | awk '{print "@@||"$1"^|"}' >> tmp/adservers-all-rule.tmp
 cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adservers-config.tmp
 
 echo "Creating config file..."

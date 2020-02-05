@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 04 Feb 2020 15:01 UTC+7
-! Version: 2002041501
-! Blocked: 5,698 rules
+! Last modified: 05 Feb 2020 16:36 UTC+7
+! Version: 2002051636
+! Blocked: 5,693 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -69,6 +69,7 @@
 ||mediazcorp.com^
 ||mepuzz.com^
 ||metrics.coccoc.com^
+||mobilead.vn^
 ||novanet.vn^
 ||novaon.asia^
 ||novaon.vn^
@@ -167,9 +168,7 @@
 ||events.vungtv.com^
 ||fptad.com^
 ||go.vnecdn.com^
-||isoad.com^
 ||microad.vn^
-||mobilead.vn^
 ||mobileads.dieuviet.com^
 ||myad.vn^
 ||ng-vn-notice.gameitop.com^
@@ -201,11 +200,8 @@
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
 ||analytics.vnreview.vn^
-||collect.ovp.vn^
 ||deqik.com^
-||dt.tuoitre.vn^
 ||elogs.vnexpress.net^
-||fbuser.ovp.vn^
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
 ||log.baomoi.com^
@@ -380,9 +376,6 @@
 ||adimages.go.com^
 ||adinfuse.com^
 ||aditms.me^
-||adjust.com^
-||adjust.io^
-||adjustnetwork.com^
 ||adk2x.com^
 ||adkernel.com^
 ||admarketplace.net^
@@ -445,7 +438,6 @@
 ||adsyndication.msn.com^
 ||adtarget.me^
 ||adtdp.com^
-||adtech.de^
 ||adtechjp.com^
 ||adtechus.com^
 ||adtelligent.com^
@@ -787,6 +779,7 @@
 ||logly.co.jp^
 ||logrocket.com^
 ||logrocket.io^
+||lsosad.com^
 ||mads*.amazon.com^
 ||mads.cnet.com^
 ||mahimeta.com^
@@ -1347,6 +1340,9 @@
 ||adjug.com^
 ||adjuggler.com^
 ||adjuggler.yourdictionary.com^
+||adjust.com^
+||adjust.io^
+||adjustnetwork.com^
 ||adk2.co^
 ||adk2.com^
 ||adk2ads.tictacti.com^
@@ -1968,6 +1964,7 @@
 ||adsystem.simplemachines.org^
 ||adtag.sphdigital.com^
 ||adtech.com^
+||adtech.de^
 ||adtegrity.net^
 ||adtheorent.com^
 ||adthis.com^
@@ -4798,7 +4795,6 @@
 ||annengdl.com^
 ||anticarredodolomiti.com^
 ||aonikesi.com^
-||api.appsflyer.com^
 ||api.prooffactor.com^
 ||api.quantumgraph.com^
 ||api.safegraph.com^
@@ -4809,6 +4805,7 @@
 ||appres.camera360.com^
 ||apps.outfit7.com^
 ||apps2.outfit7.com^
+||appsflyer.com^
 ||aquapuremultiservicios.es^
 ||ar.tns-counter.ru^
 ||argentinaglobalwines.com^
@@ -5036,7 +5033,6 @@
 ||eurolatexthai.com^
 ||evasive.expertwitnessautomaticdoor.net^
 ||events-collector.spot.im^
-||events.appsflyer.com^
 ||events.redditmedia.com^
 ||everestjs.net^
 ||evilstalin.https443.net^
@@ -5400,7 +5396,6 @@
 ||reed-cw.grapeshot.co.uk^
 ||reflexonature.free.fr^
 ||regis.foultier.free.fr^
-||register.appsflyer.com^
 ||reglasti.com^
 ||relimar.com^
 ||relish.com.cn^
@@ -5509,7 +5504,6 @@
 ||sync2ad.com^
 ||szdamuzhi.com^
 ||szzlzn.com^
-||t.appsflyer.com^
 ||t.dailymail.co.uk^
 ||t70123.com^
 ||tablet.gutterhelment.net^
@@ -5541,7 +5535,6 @@
 ||tottaldomain.cn^
 ||toursportsimage.com^
 ||tr-gdz.ru^
-||track.appsflyer.com^
 ||track.omg543.com^
 ||track.publeadmedia.com^
 ||track.tenjin.io^
@@ -5703,3 +5696,5 @@
 ||dql2sdu63f1cw.cloudfront.net^
 ||d1v373ntykegkp.cloudfront.net^
 ||d3luypns9uh4a4.cloudfront.net^
+@@||app.adjust.com^|
+@@||app.appsflyer.com^|
