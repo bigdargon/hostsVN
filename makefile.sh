@@ -42,7 +42,7 @@ cat source/exceptions.txt | grep -v '!' |awk '{print $1}' >> tmp/exceptions.tmp
 # create adserver files
 cat tmp/adservers.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-rule.tmp
 cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-all-rule.tmp
-cat tmp/exceptions.tmp | awk '{print "@@||"$1"^"}' >> tmp/adservers-all-rule.tmp
+cat tmp/exceptions.tmp | awk '{print "@@||"$1"^|"}' >> tmp/adservers-all-rule.tmp
 cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adservers-config.tmp
 
 echo "Creating config file..."
