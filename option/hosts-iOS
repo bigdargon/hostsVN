@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Feb 2020 18:16 UTC+7
-# Version: 2002051816
-# Blocked: 18,859 domains
+# Last modified: 06 Feb 2020 14:20 UTC+7
+# Version: 2002061420
+# Blocked: 18,847 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13073,6 +13073,31 @@
 0 dc.lsosad.com
 0 lsosad.com
 0 ucloud.lsosad.com
+0 app.serverbid.com
+0 dev.serverbid.com
+0 e.serverbid.com
+0 e-eu-central-1.serverbid.com
+0 serverbid.com
+0 sync.serverbid.com
+0 www.serverbid.com
+0 cdn.connectad.io
+0 connectad.io
+0 connectedby.connectad.io
+0 control.connectad.io
+0 deliveredby.connectad.io
+0 demand.connectad.io
+0 e.connectad.io
+0 eu-1a.connectad.io
+0 eu-central-1b.connectad.io
+0 gbalancer.connectad.io
+0 i.connectad.io
+0 intern.connectad.io
+0 pilatus.connectad.io
+0 realtime.connectad.io
+0 sync.connectad.io
+0 sync-eu.connectad.io
+0 update.connectad.io
+0 www.connectad.io
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -17854,7 +17879,6 @@
 0 a.axmtrack.com
 0 a.idio.co
 0 a.klaviyo.com
-0 a.nt002.cn
 0 aa.xqwqbg.com
 0 aaa520.izlinix.com
 0 abbyspanties.com
@@ -17871,27 +17895,21 @@
 0 adtrack.king.com
 0 aeaer.com
 0 af-cn.com
-0 agroluftbild.de
 0 ahlswh.net
 0 ahmhls.com
-0 ahzh-pv.com
-0 aipp-italia.it
 0 aiwoxin.com
 0 ajusa.net
-0 akorenramizefendiyurdu.com
 0 akshatadesigns.in
 0 akuaba.chez.com
 0 alchenomy.com
 0 alemeitu.com
 0 alphaprinthouse.org
 0 alphaxiom.com
-0 alruno.home.pl
 0 alsera.de
 0 amo122.com
 0 ampmetrics.techcrunch.com
 0 amskrupajal.org
 0 amusecity.com
-0 anafartalartml.k12.tr
 0 analysis.polarisoffice.com
 0 analytiall.com
 0 analytics-digit-in.cdn.ampproject.org
@@ -17954,7 +17972,6 @@
 0 ar.tns-counter.ru
 0 argentinaglobalwines.com
 0 armazones.com
-0 arouersobesite.free.fr
 0 arprosports.com.ar
 0 asdkd.tutuapp.com
 0 asiaok.net
@@ -17963,12 +17980,9 @@
 0 ati-host.net
 0 augami.net
 0 aupvfp.com
-0 autizmus.n1.hu
 0 av5k.com
 0 axmtrack.com
 0 azteou.com
-0 b.l-a-c.cn
-0 b.nt002.cn
 0 baby.py.shangdu.com
 0 badaonz.com
 0 bafuhotel.com
@@ -17989,7 +18003,6 @@
 0 bc.dailymail.co.uk
 0 behave.nualias.com
 0 beikehongbei.com
-0 benstock.free.fr
 0 beroepsperformancescan.nl
 0 bestpons.net
 0 bga100.cn
@@ -18029,7 +18042,6 @@
 0 c.snnd.co
 0 c.webengage.com
 0 c2i-cdn.startappnetwork.com
-0 cabomarlinisportfishing.com
 0 cache.usabilla.com
 0 cadastrabb.com
 0 cadxiedan.com
@@ -18041,27 +18053,17 @@
 0 caymanlandsales.com
 0 cc.swiftype.com
 0 ccgateway.net
-0 cctjly.com
-0 ccycny.com
-0 cdmswj.com
-0 cdn.blueconic.net
 0 cdn.promotionengine.com
 0 cdn.zarget.com
 0 cdnstatic.geo.dmcdn.net
 0 ceocms.com
-0 cfbrr.com
-0 cfcgl.com
-0 check-updates.net
 0 china-hangyi.com
 0 china-zhenao.com
 0 chinatlz.com
-0 chinese.ahzh-pv.com
 0 cinemaedvd.com
-0 ciscotred.cz.cc
 0 ckidkina.ru
 0 client-analytics.braintreegateway.com
 0 cn-lushan.com
-0 co.at.vc
 0 collector.leaddyno.com
 0 commissioncrusher.com
 0 compdata.ca
@@ -18076,6 +18078,7 @@
 0 cow.gutterheaters.org
 0 cpajump.centenr.com
 0 cqtspj.com
+0 crashlytics.com
 0 creative.dailymail.co.uk
 0 creatives.co.in
 0 crittercism.com
@@ -18141,7 +18144,6 @@
 0 dpgjjs.com
 0 dreamdrama.tv
 0 drteachme.com
-0 druming.free.fr
 0 dsf.10eurosbonheur.org
 0 dsg.affaireenligne.org
 0 dtstesting.com
@@ -18153,7 +18155,6 @@
 0 dyhtez.com
 0 dynatrace.com
 0 dzynestudio.neglite.com
-0 e.crashlytics.com
 0 e2bworld.com
 0 ebara.cc
 0 edchiu.com
@@ -18161,7 +18162,6 @@
 0 edigitalsurvey.com
 0 elite-bijou.com.ua
 0 embed.tawk.to
-0 english.ahzh-pv.com
 0 entitlements.jwplayer.com
 0 errordoctor.com
 0 etbld.com
@@ -18247,7 +18247,6 @@
 0 greedseed.world
 0 grk6mgehel1hfehn.ru
 0 gs.dailymail.co.uk
-0 gsimon.edu.free.fr
 0 guangdelvyou.com
 0 guihua-china.com
 0 gurgle.zdbb.net
@@ -18317,7 +18316,6 @@
 0 izlinix.com
 0 jah.skateparkvr.com
 0 jdcartoon.com
-0 jefaerosol.free.fr
 0 jianyundc.com
 0 jienoo.com
 0 jjc11.com
@@ -18344,7 +18342,6 @@
 0 k6r.net
 0 kalibrium.ru
 0 kidsghibli.com
-0 kineclick.free.fr
 0 kkvmaj.com
 0 ktoooo.com
 0 kuaiyan.com.cn
@@ -18354,9 +18351,7 @@
 0 ladybug.gutterheatersus.com
 0 lagrotta4u.de
 0 laohuangli365.com
-0 laos.luangprabang.free.fr
 0 lastmeasure.zoy.org
-0 lavoixdesmots.free.fr
 0 lead.soperson.com
 0 leadzutw.com
 0 lectscalimertdr43.land.ru
@@ -18454,7 +18449,6 @@
 0 n85853.cn
 0 nainasdesigner.com
 0 nancunshan.com
-0 neepelsty.cz.cc
 0 neglite.com
 0 net4um.com
 0 newscorp.grapeshot.co.uk
@@ -18466,7 +18460,6 @@
 0 nppmwatch.com
 0 npttech.com
 0 ns.zdbb.net
-0 nt002.cn
 0 nvplv.cc
 0 nycsoaw.org
 0 oceanic.ws
@@ -18492,7 +18485,6 @@
 0 pear.dementiaadvocacy.com
 0 pebed.dm.gg
 0 pegloang.com
-0 peoria33884.cz.cc
 0 pham.duchieu.de
 0 pinkpillar.ru
 0 pipedream.wistia.com
@@ -18530,14 +18522,11 @@
 0 reddii.org
 0 redinvestor.com
 0 reed-cw.grapeshot.co.uk
-0 reflexonature.free.fr
-0 regis.foultier.free.fr
 0 reglasti.com
 0 relimar.com
 0 relish.com.cn
 0 remyyadan.online.fr
 0 rentimeinvz.com
-0 reports.crashlytics.com
 0 reycross.cn
 0 ri-materials.com
 0 richmetrics.com
@@ -18841,7 +18830,6 @@
 0 zhaopai020.com
 0 zhidao.yxad.com
 0 zhongpandz.com
-0 ziejpzrv.cz.cc
 0 ziheyuan.com
 0 zmt100.com
 0 zqmdm.com
