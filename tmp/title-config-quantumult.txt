@@ -23,6 +23,7 @@
 !_hostname_
 
 [TCP]
+!_rule_exceptions_quantumult_
 !_rule_quantumult_
 FINAL,DIRECT
 

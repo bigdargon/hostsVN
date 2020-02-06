@@ -5,6 +5,7 @@ dns-server = 8.8.8.8,1.1.1.1
 ipv6 = false
 
 [Rule]
+!_rule_exceptions_shadowrocket_
 !_rule_shadowrocket_
 FINAL,DIRECT
 
