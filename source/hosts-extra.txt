@@ -1,3 +1,43 @@
+# --- Extra block ---
+#[adjust.com]
+0.0.0.0 atom.adjust.com
+0.0.0.0 events.adjust.com
+0.0.0.0 s2s.adjust.com
+0.0.0.0 view.adjust.com
+#[appsflyer.com]
+0.0.0.0 api.appsflyer.com
+0.0.0.0 attr.appsflyer.com
+0.0.0.0 cdn.appsflyer.com
+0.0.0.0 cdnappicons.appsflyer.com
+0.0.0.0 conversions.appsflyer.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 fvalid.appsflyer.com
+0.0.0.0 global.appsflyer.com
+0.0.0.0 hq.appsflyer.com
+0.0.0.0 hq1.appsflyer.com
+0.0.0.0 hub.appsflyer.com
+0.0.0.0 impression.appsflyer.com
+0.0.0.0 inapps.appsflyer.com
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 monitorsdk.appsflyer.com
+0.0.0.0 newclicks.appsflyer.com
+0.0.0.0 onelink.appsflyer.com
+0.0.0.0 register.appsflyer.com
+0.0.0.0 s2s.appsflyer.com
+0.0.0.0 sdk-services.appsflyer.com
+0.0.0.0 sdk.appsflyer.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 statsgoogle.appsflyer.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 track.appsflyer.com
+0.0.0.0 validate.appsflyer.com
+0.0.0.0 wa.appsflyer.com
+#[crashlytics.com]
+0.0.0.0 api.crashlytics.com
+0.0.0.0 cm.crashlytics.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 kits.crashlytics.com
+0.0.0.0 reports.crashlytics.com
 # --- Block cloudfront.net ---
 #[adop.cc]
 0.0.0.0 d26tbbq8zqdi4v.cloudfront.net

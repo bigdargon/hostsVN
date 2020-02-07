@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Feb 2020 14:45 UTC+7
-# Version: 2002061445
-# Blocked: 18,847 domains
+# Last modified: 07 Feb 2020 10:16 UTC+7
+# Version: 2002071016
+# Blocked: 18,880 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -15065,7 +15065,6 @@
 0.0.0.0 adjug.com
 0.0.0.0 adjuggler.com
 0.0.0.0 adjuggler.yourdictionary.com
-0.0.0.0 adjust.com
 0.0.0.0 adjust.io
 0.0.0.0 adjustnetwork.com
 0.0.0.0 adk2.co
@@ -18579,7 +18578,6 @@
 0.0.0.0 appres.camera360.com
 0.0.0.0 apps.outfit7.com
 0.0.0.0 apps2.outfit7.com
-0.0.0.0 appsflyer.com
 0.0.0.0 aquapuremultiservicios.es
 0.0.0.0 ar.tns-counter.ru
 0.0.0.0 argentinaglobalwines.com
@@ -18690,7 +18688,6 @@
 0.0.0.0 cow.gutterheaters.org
 0.0.0.0 cpajump.centenr.com
 0.0.0.0 cqtspj.com
-0.0.0.0 crashlytics.com
 0.0.0.0 creative.dailymail.co.uk
 0.0.0.0 creatives.co.in
 0.0.0.0 crittercism.com
@@ -19468,6 +19465,46 @@
 0.0.0.0 zhangtom1989.cn
 0.0.0.0 fmiphone-apple.com
 0.0.0.0 www.fmiphone-apple.com
+# --- Extra block ---
+#[adjust.com]
+0.0.0.0 atom.adjust.com
+0.0.0.0 events.adjust.com
+0.0.0.0 s2s.adjust.com
+0.0.0.0 view.adjust.com
+#[appsflyer.com]
+0.0.0.0 api.appsflyer.com
+0.0.0.0 attr.appsflyer.com
+0.0.0.0 cdn.appsflyer.com
+0.0.0.0 cdnappicons.appsflyer.com
+0.0.0.0 conversions.appsflyer.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 fvalid.appsflyer.com
+0.0.0.0 global.appsflyer.com
+0.0.0.0 hq.appsflyer.com
+0.0.0.0 hq1.appsflyer.com
+0.0.0.0 hub.appsflyer.com
+0.0.0.0 impression.appsflyer.com
+0.0.0.0 inapps.appsflyer.com
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 monitorsdk.appsflyer.com
+0.0.0.0 newclicks.appsflyer.com
+0.0.0.0 onelink.appsflyer.com
+0.0.0.0 register.appsflyer.com
+0.0.0.0 s2s.appsflyer.com
+0.0.0.0 sdk-services.appsflyer.com
+0.0.0.0 sdk.appsflyer.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 statsgoogle.appsflyer.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 track.appsflyer.com
+0.0.0.0 validate.appsflyer.com
+0.0.0.0 wa.appsflyer.com
+#[crashlytics.com]
+0.0.0.0 api.crashlytics.com
+0.0.0.0 cm.crashlytics.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 kits.crashlytics.com
+0.0.0.0 reports.crashlytics.com
 # --- Block cloudfront.net ---
 #[adop.cc]
 0.0.0.0 d26tbbq8zqdi4v.cloudfront.net
