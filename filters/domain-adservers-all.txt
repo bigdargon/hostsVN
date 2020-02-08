@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 08 Feb 2020 16:04 UTC+7
-! Version: 2002081604
-! Blocked: 5,673 domains
+! Last modified: 08 Feb 2020 20:13 UTC+7
+! Version: 2002082013
+! Blocked: 5,677 domains
 ! The section containing the list contains all ad networks and tracking
 !
 accesstrade.com.vn
@@ -665,6 +665,8 @@ exosrv.com
 exponential.com
 ezoic.net
 fabric.io
+fads*s.com
+fads*z.com
 fclick-adnow.com
 fidelity-media.com
 filament-stats.herokuapp.com
@@ -676,6 +678,8 @@ freshmarketer.com
 fullstory.com
 fwmrm.net
 fyber.com
+gads*s.com
+gads*z.com
 gameanalytics.com
 genieessp.com
 geo.yahoo.com
@@ -785,6 +789,7 @@ logrocket.com
 logrocket.io
 lsosad.com
 mads*.amazon.com
+mads*z.com
 mads.cnet.com
 mahimeta.com
 mailchimp.com
@@ -934,6 +939,7 @@ rubiconproject.com
 run-syndicate.com
 runative.com
 s-onetag.com
+sads*z.com
 safedk.com
 samba.tv
 sascdn.com
@@ -2886,8 +2892,6 @@ ezula.com
 f5biz.com
 facilitategrandfather.com
 fadedprofit.com
-fadsabs.com
-fadsabz.com
 familiarfloor.com
 famousquarter.com
 fanaticalfly.com
