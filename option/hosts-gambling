@@ -1,6 +1,6 @@
 # Title: hostsVN Gambling
-# Last modified: 07 Feb 2020 10:16 UTC+7
-# Version: 2002071016
+# Last modified: 08 Feb 2020 16:04 UTC+7
+# Version: 2002081604
 # Blocked: 838 domains
 # Only include gambling domains
 # Home: https://bigdargon.github.io/hostsVN/
@@ -282,6 +282,7 @@
 0.0.0.0 lode88.vip
 0.0.0.0 m.lode88.vip
 0.0.0.0 smartpay.lode88.vip
+0.0.0.0 11bet.win
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
@@ -766,7 +767,6 @@
 0.0.0.0 t188xj.com
 0.0.0.0 the188bet.com
 #https://github.com/bigdargon/hostsVN/issues/152#issuecomment-582203348
-0.0.0.0 11bet.win
 0.0.0.0 99letou.com
 0.0.0.0 9club.asia
 0.0.0.0 betvision.com
@@ -855,3 +855,120 @@
 0.0.0.0 zbet.com.vn
 0.0.0.0 zbet.fun
 0.0.0.0 zbet.win
+#https://github.com/bigdargon/hostsVN/issues/153#issue-561471377
+8685656.com
+ud1a.com
+ud1f.com
+ude184.com
+ude193.com
+ude194.com
+ude87.xyz
+ude92.cc
+ude95.cc
+udw85.cc
+udw87.cc
+udw880.com
+udw881.cc
+udw886.com
+udw887.cc
+udw895.com
+udw897.cc
+udw899.cc
+udw899.com
+udw9.com
+udw94.cc
+vv88cnh.com
+vv88id.com
+w88010.com
+w88108.net
+w88124.com
+w88125.com
+w88126.com
+w88158.com
+w88983.com
+w88988.com
+w8899w.com
+w88a.co
+w88aixin.net
+w88ap.com
+w88asia.com
+w88banh.com
+w88bima.com
+w88boleh.com
+w88casinoonline.com
+w88cat.net
+w88clubvip.com
+w88coid.com
+w88cup.com
+w88chn.com
+w88d.com
+w88dn.com
+w88fin.com
+w88fitamin.com
+w88goal.com
+w88hankook.com
+w88help.com
+w88-hn.com
+w88hn.online
+w88hn.top
+w88hn.vip
+w88info.com
+w88jaya.com
+w88jet.com
+w88jin.com
+w88jp.com
+w88ka.com
+w88kece.com
+w88kr.com
+w88kub.com
+w88life.com
+w88live.com
+w88loto.com
+w88ml.com
+w88mlbr.com
+w88my.com
+w88nihon.com
+w88no1.com
+w88nobar.com
+w88play.com
+w88soikeo.com
+w88tel.com
+w88tian.com
+w88tian.net
+w88time.com
+w88top.com
+w88th.com
+w88tha.com
+w88u15.com
+w88u25.com
+w88u35.com
+w88u48.com
+w88u68.com
+w88u78.com
+w88u88.net
+w88u95.com
+w88vao.com
+w88vipid.com
+w88vipmy.com
+w88vipvn.com
+w88vn.co
+w88vnm.com
+w88vntop.club
+w88vvip.com
+w88-w88.com
+w88wap.com
+w88wasia.com
+w88wid.com
+w88win.com
+w88wkr.com
+w88wlive.com
+w88wth.com
+w88wvip.com
+w88wvn.com
+w88wworld.com
+w88xoso.com
+x0581.com
+yd86.xyz
+yd88y.com
+yd93.xyz
+ydw8800.com

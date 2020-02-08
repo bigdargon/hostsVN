@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Feb 2020 10:16 UTC+7
-# Version: 2002071016
-# Blocked: 18,880 domains
+# Last modified: 08 Feb 2020 16:04 UTC+7
+# Version: 2002081604
+# Blocked: 18,922 domains
 # Minimal version for iOS. Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -398,42 +398,12 @@
 0 rcm-na.amazon-adsystems.com
 0 ws.amazon-adsystems.com
 0 z-na.amazon-adsystems.com
-0 adagiobanner.s3.amazonaws.com
-0 admarvel.s3.amazonaws.com
-0 adtago.s3.amazonaws.com
-0 advice-ads.s3.amazonaws.com
-0 adzerk.s3.amazonaws.com
-0 alexa-sitestats.s3.amazonaws.com
-0 campaign-tapad.s3.amazonaws.com
-0 cdn.installationsafe.net.s3.amazonaws.com
-0 digital-ads.s3.amazonaws.com
-0 ecommstats.s3.amazonaws.com
-0 entrecard.s3.amazonaws.com
-0 exitsplash.s3.amazonaws.com
-0 html5adkit.plusmo.s3.amazonaws.com
-0 htmlads.s3.amazonaws.com
-0 iacpromotion.s3.amazonaws.com
-0 inneractive-assets.s3.amazonaws.com
-0 load.s3.amazonaws.com
-0 matchbin-assets.s3.amazonaws.com
+0 kinesis.us-east-1.amazonaws.com
 0 mobileanalytics.us-east-1.amazonaws.com
 0 mobileanalytics.us-east-2.amazonaws.com
 0 mobileanalytics.us-west-1.amazonaws.com
 0 mobileanalytics.us-west-2.amazonaws.com
-0 mondoads.s3.amazonaws.com
-0 ncads.s3.amazonaws.com
 0 pinpoint.us-east-1.amazonaws.com
-0 slate-ad-scripts.s3.amazonaws.com
-0 springclick-ads.s3.amazonaws.com
-0 spyhunter-download.s3.amazonaws.com
-0 static-shareaholic.s3.amazonaws.com
-0 strikeadcdn.s3.amazonaws.com
-0 sync.cmedia.s3.amazonaws.com
-0 tracking.opencandy.com.s3.amazonaws.com
-0 viewerstats.docstoc.com.s3.amazonaws.com
-0 vml1.s3.amazonaws.com
-0 yab-adimages.s3.amazonaws.com
-0 znaptag-us.s3.amazonaws.com
 0 platform.tumblr.com
 0 ls.srvcs.tumblr.com
 0 px.srvcs.tumblr.com
@@ -13098,6 +13068,71 @@
 0 sync-eu.connectad.io
 0 update.connectad.io
 0 www.connectad.io
+0 cst.wpu.sh
+0 dsp.wpu.sh
+0 lb.wpu.sh
+0 logger.wpu.sh
+0 na.wpu.sh
+0 native.wpu.sh
+0 ntvp.wpu.sh
+0 pw.wpu.sh
+0 sw.wpu.sh
+0 tw.wpu.sh
+0 wpu.sh
+0 adbrix.io
+0 adtouch.adbrix.io
+0 adtouch-qa.adbrix.io
+0 applinks.adbrix.io
+0 event.adbrix.io
+0 event-qa.adbrix.io
+0 gdpr.adbrix.io
+0 rm-lo-sdk.adbrix.io
+0 static.adbrix.io
+0 stream.adbrix.io
+0 www.adbrix.io
+0 adpopcorn.com
+0 apapi.adpopcorn.com
+0 api.adpopcorn.com
+0 npi.adpopcorn.com
+0 partners.adpopcorn.com
+0 rpc.adpopcorn.com
+0 rpi.adpopcorn.com
+0 rpi-staging.adpopcorn.com
+0 ssp.adpopcorn.com
+0 sspadstrk.adpopcorn.com
+0 sspc.adpopcorn.com
+0 sspi.adpopcorn.com
+0 sspi-web-bidder.adpopcorn.com
+0 sspi-web-request.adpopcorn.com
+0 ssptrk.adpopcorn.com
+0 staging.adpopcorn.com
+0 www.adpopcorn.com
+0 mobileoffers-aa-download.com
+0 mobileoffers-ab-download.com
+0 mobileoffers-ac-download.com
+0 mobileoffers-ad-download.com
+0 mobileoffers-a-download.com
+0 mobileoffers-af-download.com
+0 mobileoffers-al-download.com
+0 mobileoffers-bm-download.com
+0 mobileoffers-bn-download.com
+0 mobileoffers-ca-download.com
+0 mobileoffers-cb-download.com
+0 mobileoffers-y-download.com
+0 mobileoffers-z-download.com
+0 js.mobileoffers-aa-download.com
+0 js.mobileoffers-ab-download.com
+0 js.mobileoffers-ac-download.com
+0 js.mobileoffers-ad-download.com
+0 js.mobileoffers-a-download.com
+0 js.mobileoffers-af-download.com
+0 js.mobileoffers-al-download.com
+0 js.mobileoffers-bm-download.com
+0 js.mobileoffers-bn-download.com
+0 js.mobileoffers-ca-download.com
+0 js.mobileoffers-cb-download.com
+0 js.mobileoffers-y-download.com
+0 js.mobileoffers-z-download.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -15067,6 +15102,7 @@
 0 adsstat.com
 0 adstage.io
 0 adstat.4u.pl
+0 adsterra.com
 0 adstest.weather.com
 0 adstune.com
 0 adsupply.com
@@ -15861,6 +15897,7 @@
 0 domainsponsor.com
 0 domainsteam.de
 0 domdex.com
+0 doubleadserve.com
 0 doubleclick.com
 0 doubleclick.de
 0 doublepimpads.com
@@ -15991,6 +16028,8 @@
 0 f5biz.com
 0 facilitategrandfather.com
 0 fadedprofit.com
+0 fadsabs.com
+0 fadsabz.com
 0 familiarfloor.com
 0 famousquarter.com
 0 fanaticalfly.com
@@ -16742,6 +16781,7 @@
 0 pagerank4u.eu
 0 pagerank4you.com
 0 pageranktop.com
+0 pagiwp.com
 0 paleleaf.com
 0 papayamobile.com
 0 paradoxfactor.com
@@ -17675,7 +17715,6 @@
 0 worriednumber.com
 0 worrybutter.com
 0 wpnrtnmrewunrtok.xyz
-0 wpu.sh
 0 wryfinger.com
 0 wsod.com
 0 wt-eu02.net
@@ -17705,6 +17744,8 @@
 0 www.dnps.com
 0 www.ecpms.net
 0 www.epi0tzwi.com
+0 www.fadsabs.com
+0 www.fadsabz.com
 0 www.fbcdn2.com
 0 www.fm6dz864.top
 0 www.groupm.com
@@ -17748,6 +17789,8 @@
 0 xg4ken.com
 0 xiti.com
 0 xius.com
+0 xml.adreach.me
+0 xml.adright.com
 0 xml.adservme.com
 0 xml.revrtb.com
 0 xovq5nemr.com
@@ -18885,7 +18928,6 @@
 0 wa.appsflyer.com
 0 api.crashlytics.com
 0 cm.crashlytics.com
-0 e.crashlytics.com
 0 kits.crashlytics.com
 0 reports.crashlytics.com
 0 d26tbbq8zqdi4v.cloudfront.net

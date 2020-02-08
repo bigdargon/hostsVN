@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 07 Feb 2020 10:16 UTC+7
-! Version: 2002071016
-! Blocked: 5,659 domains
+! Last modified: 08 Feb 2020 16:04 UTC+7
+! Version: 2002081604
+! Blocked: 5,673 domains
 ! The section containing the list contains all ad networks and tracking
 !
 accesstrade.com.vn
@@ -248,6 +248,7 @@ web.stagingf8.pycogroup.com
 widget.nhaccuatui.com
 11bet.com
 11bet.net
+11bet.win
 1xbetvn.com
 388bet.vip
 520xiaojin.com
@@ -359,6 +360,7 @@ adadvisor.net
 adap.tv
 adblade.com
 adblox.net
+adbrix.io
 adcaffe.com
 adclixx.net
 adcolony.com
@@ -390,6 +392,7 @@ adomik.com
 adop.cc
 adoptimize.com
 adoptimize.info
+adpopcorn.com
 adpushup.com
 adrecover.com
 adroll.com
@@ -753,6 +756,7 @@ justpremium.com
 jwpltx.com
 kaffnet.com
 kau.li
+kinesis.*.amazonaws.com
 knowlead.io
 kochava.com
 komoona.com
@@ -821,6 +825,7 @@ mobfox.com
 mobileads.msn.com
 mobileanalytics.*.amazonaws.com
 mobileapptracking.com
+mobileoffers-*-download.com
 mobpartner.mobi
 mocean.mobi
 moengage.com
@@ -1038,6 +1043,7 @@ weborama.com
 webtrends.com
 woopra.com
 wootric.com
+wpu.sh
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 wywy.com
@@ -1954,6 +1960,7 @@ adsrv.iol.co.za
 adsstat.com
 adstage.io
 adstat.4u.pl
+adsterra.com
 adstest.weather.com
 adstune.com
 adsupply.com
@@ -2748,6 +2755,7 @@ domaining.in
 domainsponsor.com
 domainsteam.de
 domdex.com
+doubleadserve.com
 doubleclick.com
 doubleclick.de
 doublepimpads.com
@@ -2878,6 +2886,8 @@ ezula.com
 f5biz.com
 facilitategrandfather.com
 fadedprofit.com
+fadsabs.com
+fadsabz.com
 familiarfloor.com
 famousquarter.com
 fanaticalfly.com
@@ -3630,6 +3640,7 @@ pagerank-united.de
 pagerank4u.eu
 pagerank4you.com
 pageranktop.com
+pagiwp.com
 paleleaf.com
 papayamobile.com
 paradoxfactor.com
@@ -4563,7 +4574,6 @@ worldwide-cash.net
 worriednumber.com
 worrybutter.com
 wpnrtnmrewunrtok.xyz
-wpu.sh
 wryfinger.com
 wsod.com
 wt-eu02.net
@@ -4578,6 +4588,8 @@ xertive.com
 xg4ken.com
 xiti.com
 xius.com
+xml.adreach.me
+xml.adright.com
 xml.adservme.com
 xml.revrtb.com
 xovq5nemr.com
@@ -5650,9 +5662,9 @@ securedashfuyiersa.com
 view-apple.com
 view-appleid.com
 zhangtom1989.cn
+connect.facebook.net
 adjust.com
 appsflyer.com
-connect.facebook.net
 crashlytics.com
 d26tbbq8zqdi4v.cloudfront.net
 d2r173wcohmi6.cloudfront.net

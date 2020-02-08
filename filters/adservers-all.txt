@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 07 Feb 2020 10:16 UTC+7
-! Version: 2002071016
-! Blocked: 5,659 rules
+! Last modified: 08 Feb 2020 16:04 UTC+7
+! Version: 2002081604
+! Blocked: 5,673 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -249,6 +249,7 @@
 ||widget.nhaccuatui.com^
 ||11bet.com^
 ||11bet.net^
+||11bet.win^
 ||1xbetvn.com^
 ||388bet.vip^
 ||520xiaojin.com^
@@ -360,6 +361,7 @@
 ||adap.tv^
 ||adblade.com^
 ||adblox.net^
+||adbrix.io^
 ||adcaffe.com^
 ||adclixx.net^
 ||adcolony.com^
@@ -391,6 +393,7 @@
 ||adop.cc^
 ||adoptimize.com^
 ||adoptimize.info^
+||adpopcorn.com^
 ||adpushup.com^
 ||adrecover.com^
 ||adroll.com^
@@ -754,6 +757,7 @@
 ||jwpltx.com^
 ||kaffnet.com^
 ||kau.li^
+||kinesis.*.amazonaws.com^
 ||knowlead.io^
 ||kochava.com^
 ||komoona.com^
@@ -822,6 +826,7 @@
 ||mobileads.msn.com^
 ||mobileanalytics.*.amazonaws.com^
 ||mobileapptracking.com^
+||mobileoffers-*-download.com^
 ||mobpartner.mobi^
 ||mocean.mobi^
 ||moengage.com^
@@ -1039,6 +1044,7 @@
 ||webtrends.com^
 ||woopra.com^
 ||wootric.com^
+||wpu.sh^
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
 ||wywy.com^
@@ -1955,6 +1961,7 @@
 ||adsstat.com^
 ||adstage.io^
 ||adstat.4u.pl^
+||adsterra.com^
 ||adstest.weather.com^
 ||adstune.com^
 ||adsupply.com^
@@ -2749,6 +2756,7 @@
 ||domainsponsor.com^
 ||domainsteam.de^
 ||domdex.com^
+||doubleadserve.com^
 ||doubleclick.com^
 ||doubleclick.de^
 ||doublepimpads.com^
@@ -2879,6 +2887,8 @@
 ||f5biz.com^
 ||facilitategrandfather.com^
 ||fadedprofit.com^
+||fadsabs.com^
+||fadsabz.com^
 ||familiarfloor.com^
 ||famousquarter.com^
 ||fanaticalfly.com^
@@ -3631,6 +3641,7 @@
 ||pagerank4u.eu^
 ||pagerank4you.com^
 ||pageranktop.com^
+||pagiwp.com^
 ||paleleaf.com^
 ||papayamobile.com^
 ||paradoxfactor.com^
@@ -4564,7 +4575,6 @@
 ||worriednumber.com^
 ||worrybutter.com^
 ||wpnrtnmrewunrtok.xyz^
-||wpu.sh^
 ||wryfinger.com^
 ||wsod.com^
 ||wt-eu02.net^
@@ -4579,6 +4589,8 @@
 ||xg4ken.com^
 ||xiti.com^
 ||xius.com^
+||xml.adreach.me^
+||xml.adright.com^
 ||xml.adservme.com^
 ||xml.revrtb.com^
 ||xovq5nemr.com^
@@ -5651,9 +5663,9 @@
 ||view-apple.com^
 ||view-appleid.com^
 ||zhangtom1989.cn^
+||connect.facebook.net^
 ||adjust.com^
 ||appsflyer.com^
-||connect.facebook.net^
 ||crashlytics.com^
 ||d26tbbq8zqdi4v.cloudfront.net^
 ||d2r173wcohmi6.cloudfront.net^
@@ -5663,4 +5675,6 @@
 ||d3luypns9uh4a4.cloudfront.net^
 @@||app.adjust.com^|
 @@||app.appsflyer.com^|
+@@||e.crashlytics.com^|
 @@||settings.crashlytics.com^|
+@@||pub.accesstrade.vn^|

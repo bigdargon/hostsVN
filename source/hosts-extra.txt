@@ -35,7 +35,6 @@
 #[crashlytics.com]
 0.0.0.0 api.crashlytics.com
 0.0.0.0 cm.crashlytics.com
-0.0.0.0 e.crashlytics.com
 0.0.0.0 kits.crashlytics.com
 0.0.0.0 reports.crashlytics.com
 # --- Block cloudfront.net ---
