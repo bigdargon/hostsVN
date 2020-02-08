@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Feb 2020 20:13 UTC+7
-# Version: 2002082013
-# Blocked: 18,978 domains
+# Last modified: 08 Feb 2020 20:43 UTC+7
+# Version: 2002082043
+# Blocked: 18,988 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13750,6 +13750,16 @@
 0.0.0.0 sadslimz.com
 0.0.0.0 sadsokz.com
 0.0.0.0 sadspmz.com
+#[darfilms.com]
+0.0.0.0 darfilms.com
+0.0.0.0 sc.darfilms.com
+0.0.0.0 sc2.darfilms.com
+0.0.0.0 sc3.darfilms.com
+0.0.0.0 sc4.darfilms.com
+0.0.0.0 sc5.darfilms.com
+0.0.0.0 sc6.darfilms.com
+0.0.0.0 sc7.darfilms.com
+0.0.0.0 www.darfilms.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -18225,6 +18235,7 @@
 0.0.0.0 trillianu.info
 0.0.0.0 tritetongue.com
 0.0.0.0 trix.net
+0.0.0.0 trk4ppl.com
 0.0.0.0 trmit.com
 0.0.0.0 truckstomatoes.com
 0.0.0.0 truehits.net
