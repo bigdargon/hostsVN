@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Feb 2020 20:43 UTC+7
-# Version: 2002082043
-# Blocked: 18,988 domains
+# Last modified: 08 Feb 2020 22:08 UTC+7
+# Version: 2002082208
+# Blocked: 18,992 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -13760,6 +13760,11 @@
 0.0.0.0 sc6.darfilms.com
 0.0.0.0 sc7.darfilms.com
 0.0.0.0 www.darfilms.com
+#[affcpatrack.com]
+0.0.0.0 affcpatrack.com
+0.0.0.0 c.affcpatrack.com
+0.0.0.0 conv.affcpatrack.com
+0.0.0.0 imp.affcpatrack.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
