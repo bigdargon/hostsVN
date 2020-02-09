@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 09 Feb 2020 13:04 UTC+7
-# Version: 2002091304
-# Blocked: 838 domains
+# Last modified: 09 Feb 2020 13:46 UTC+7
+# Version: 2002091346
+# Blocked: 1,058 domains
 # Only include gambling domains
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -856,119 +856,224 @@
 0.0.0.0 zbet.fun
 0.0.0.0 zbet.win
 #https://github.com/bigdargon/hostsVN/issues/153#issue-561471377
-8685656.com
-ud1a.com
-ud1f.com
-ude184.com
-ude193.com
-ude194.com
-ude87.xyz
-ude92.cc
-ude95.cc
-udw85.cc
-udw87.cc
-udw880.com
-udw881.cc
-udw886.com
-udw887.cc
-udw895.com
-udw897.cc
-udw899.cc
-udw899.com
-udw9.com
-udw94.cc
-vv88cnh.com
-vv88id.com
-w88010.com
-w88108.net
-w88124.com
-w88125.com
-w88126.com
-w88158.com
-w88983.com
-w88988.com
-w8899w.com
-w88a.co
-w88aixin.net
-w88ap.com
-w88asia.com
-w88banh.com
-w88bima.com
-w88boleh.com
-w88casinoonline.com
-w88cat.net
-w88clubvip.com
-w88coid.com
-w88cup.com
-w88chn.com
-w88d.com
-w88dn.com
-w88fin.com
-w88fitamin.com
-w88goal.com
-w88hankook.com
-w88help.com
-w88-hn.com
-w88hn.online
-w88hn.top
-w88hn.vip
-w88info.com
-w88jaya.com
-w88jet.com
-w88jin.com
-w88jp.com
-w88ka.com
-w88kece.com
-w88kr.com
-w88kub.com
-w88life.com
-w88live.com
-w88loto.com
-w88ml.com
-w88mlbr.com
-w88my.com
-w88nihon.com
-w88no1.com
-w88nobar.com
-w88play.com
-w88soikeo.com
-w88tel.com
-w88tian.com
-w88tian.net
-w88time.com
-w88top.com
-w88th.com
-w88tha.com
-w88u15.com
-w88u25.com
-w88u35.com
-w88u48.com
-w88u68.com
-w88u78.com
-w88u88.net
-w88u95.com
-w88vao.com
-w88vipid.com
-w88vipmy.com
-w88vipvn.com
-w88vn.co
-w88vnm.com
-w88vntop.club
-w88vvip.com
-w88-w88.com
-w88wap.com
-w88wasia.com
-w88wid.com
-w88win.com
-w88wkr.com
-w88wlive.com
-w88wth.com
-w88wvip.com
-w88wvn.com
-w88wworld.com
-w88xoso.com
-x0581.com
-yd86.xyz
-yd88y.com
-yd93.xyz
-ydw8800.com
+0.0.0.0 8685656.com
+0.0.0.0 ud1a.com
+0.0.0.0 ud1f.com
+0.0.0.0 ude184.com
+0.0.0.0 ude193.com
+0.0.0.0 ude194.com
+0.0.0.0 ude87.xyz
+0.0.0.0 ude92.cc
+0.0.0.0 ude95.cc
+0.0.0.0 udw85.cc
+0.0.0.0 udw87.cc
+0.0.0.0 udw880.com
+0.0.0.0 udw881.cc
+0.0.0.0 udw886.com
+0.0.0.0 udw887.cc
+0.0.0.0 udw895.com
+0.0.0.0 udw897.cc
+0.0.0.0 udw899.cc
+0.0.0.0 udw899.com
+0.0.0.0 udw9.com
+0.0.0.0 udw94.cc
+0.0.0.0 vv88cnh.com
+0.0.0.0 vv88id.com
+0.0.0.0 w88010.com
+0.0.0.0 w88108.net
+0.0.0.0 w88124.com
+0.0.0.0 w88125.com
+0.0.0.0 w88126.com
+0.0.0.0 w88158.com
+0.0.0.0 w88983.com
+0.0.0.0 w88988.com
+0.0.0.0 w8899w.com
+0.0.0.0 w88a.co
+0.0.0.0 w88aixin.net
+0.0.0.0 w88ap.com
+0.0.0.0 w88asia.com
+0.0.0.0 w88banh.com
+0.0.0.0 w88bima.com
+0.0.0.0 w88boleh.com
+0.0.0.0 w88casinoonline.com
+0.0.0.0 w88cat.net
+0.0.0.0 w88clubvip.com
+0.0.0.0 w88coid.com
+0.0.0.0 w88cup.com
+0.0.0.0 w88chn.com
+0.0.0.0 w88d.com
+0.0.0.0 w88dn.com
+0.0.0.0 w88fin.com
+0.0.0.0 w88fitamin.com
+0.0.0.0 w88goal.com
+0.0.0.0 w88hankook.com
+0.0.0.0 w88help.com
+0.0.0.0 w88-hn.com
+0.0.0.0 w88hn.online
+0.0.0.0 w88hn.top
+0.0.0.0 w88hn.vip
+0.0.0.0 w88info.com
+0.0.0.0 w88jaya.com
+0.0.0.0 w88jet.com
+0.0.0.0 w88jin.com
+0.0.0.0 w88jp.com
+0.0.0.0 w88ka.com
+0.0.0.0 w88kece.com
+0.0.0.0 w88kr.com
+0.0.0.0 w88kub.com
+0.0.0.0 w88life.com
+0.0.0.0 w88live.com
+0.0.0.0 w88loto.com
+0.0.0.0 w88ml.com
+0.0.0.0 w88mlbr.com
+0.0.0.0 w88my.com
+0.0.0.0 w88nihon.com
+0.0.0.0 w88no1.com
+0.0.0.0 w88nobar.com
+0.0.0.0 w88play.com
+0.0.0.0 w88soikeo.com
+0.0.0.0 w88tel.com
+0.0.0.0 w88tian.com
+0.0.0.0 w88tian.net
+0.0.0.0 w88time.com
+0.0.0.0 w88top.com
+0.0.0.0 w88th.com
+0.0.0.0 w88tha.com
+0.0.0.0 w88u15.com
+0.0.0.0 w88u25.com
+0.0.0.0 w88u35.com
+0.0.0.0 w88u48.com
+0.0.0.0 w88u68.com
+0.0.0.0 w88u78.com
+0.0.0.0 w88u88.net
+0.0.0.0 w88u95.com
+0.0.0.0 w88vao.com
+0.0.0.0 w88vipid.com
+0.0.0.0 w88vipmy.com
+0.0.0.0 w88vipvn.com
+0.0.0.0 w88vn.co
+0.0.0.0 w88vnm.com
+0.0.0.0 w88vntop.club
+0.0.0.0 w88vvip.com
+0.0.0.0 w88-w88.com
+0.0.0.0 w88wap.com
+0.0.0.0 w88wasia.com
+0.0.0.0 w88wid.com
+0.0.0.0 w88win.com
+0.0.0.0 w88wkr.com
+0.0.0.0 w88wlive.com
+0.0.0.0 w88wth.com
+0.0.0.0 w88wvip.com
+0.0.0.0 w88wvn.com
+0.0.0.0 w88wworld.com
+0.0.0.0 w88xoso.com
+0.0.0.0 x0581.com
+0.0.0.0 yd86.xyz
+0.0.0.0 yd88y.com
+0.0.0.0 yd93.xyz
+0.0.0.0 ydw8800.com
+#https://github.com/bigdargon/hostsVN/issues/154#issue-562130548
+0.0.0.0 066-365.com
+0.0.0.0 121365sb.com
+0.0.0.0 121-365sb.com
+0.0.0.0 123365-sb.com
+0.0.0.0 188563.com
+0.0.0.0 188-563.com
+0.0.0.0 188sb.com
+0.0.0.0 188-sb.com
+0.0.0.0 248365365.com
+0.0.0.0 28365365.com
+0.0.0.0 28365-365.com
+0.0.0.0 28-365365.com
+0.0.0.0 288365.com
+0.0.0.0 288-365.com
+0.0.0.0 288563.com
+0.0.0.0 288-563.com
+0.0.0.0 288sb.com
+0.0.0.0 328365365.com
+0.0.0.0 348365365.com
+0.0.0.0 356488.com
+0.0.0.0 356884.com
+0.0.0.0 36500365.com
+0.0.0.0 365066365.com
+0.0.0.0 365212365.com
+0.0.0.0 365-288.com
+0.0.0.0 365365667.com
+0.0.0.0 365365868.com
+0.0.0.0 365365918.com
+0.0.0.0 365466.com
+0.0.0.0 365488.com
+0.0.0.0 365-518.com
+0.0.0.0 365-588.com
+0.0.0.0 365-777.com
+0.0.0.0 365-788.com
+0.0.0.0 365-808.com
+0.0.0.0 365-818.com
+0.0.0.0 365828.com
+0.0.0.0 365-828.com
+0.0.0.0 365838.com
+0.0.0.0 365-838.com
+0.0.0.0 365-848.com
+0.0.0.0 365-858.com
+0.0.0.0 365-868.com
+0.0.0.0 365-878.com
+0.0.0.0 365-88.com
+0.0.0.0 365sb.com
+0.0.0.0 365sbaffiliates.com
+0.0.0.0 365sport365.com
+0.0.0.0 38365365.com
+0.0.0.0 38365-365.com
+0.0.0.0 38-365365.com
+0.0.0.0 448365365.com
+0.0.0.0 48365365.com
+0.0.0.0 48365-365.com
+0.0.0.0 48-365365.com
+0.0.0.0 488365.com
+0.0.0.0 488sb.com
+0.0.0.0 536488.com
+0.0.0.0 563488.com
+0.0.0.0 58365365.com
+0.0.0.0 635288.com
+0.0.0.0 635-288.com
+0.0.0.0 653228.com
+0.0.0.0 653-288.com
+0.0.0.0 653884.com
+0.0.0.0 68365365.com
+0.0.0.0 688365365.com
+0.0.0.0 768365.com
+0.0.0.0 7788365365.com
+0.0.0.0 788-365.com
+0.0.0.0 788-sb.com
+0.0.0.0 838365.com
+0.0.0.0 848-365.com
+0.0.0.0 878365.com
+0.0.0.0 99365365.com
+0.0.0.0 999365365.com
+0.0.0.0 affiliates365.com
+0.0.0.0 allsport365.com
+0.0.0.0 bet365.co.uk
+0.0.0.0 bet365.com
+0.0.0.0 bet365.com.au
+0.0.0.0 bet365.com.cy
+0.0.0.0 bet365.cz
+0.0.0.0 bet365.dk
+0.0.0.0 bet365.ee
+0.0.0.0 bet365.es
+0.0.0.0 bet365.gr
+0.0.0.0 bet365.it
+0.0.0.0 bet365.mx
+0.0.0.0 bet365affiliates.com
+0.0.0.0 bet365bingo.com
+0.0.0.0 bet365careers.com
+0.0.0.0 bet365casino.com
+0.0.0.0 bet365poker.com
+0.0.0.0 bet365poker.net
+0.0.0.0 bet365techblog.com
+0.0.0.0 bet-mart.com
+0.0.0.0 betpop.com
+0.0.0.0 betpop.eu
+0.0.0.0 betsbg.com
+0.0.0.0 bowmans.net
+0.0.0.0 c365play.com
+0.0.0.0 game-365.com
+0.0.0.0 p365play.com
