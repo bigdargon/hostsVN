@@ -1,9 +1,4 @@
 # --- Extra block ---
-#[adjust.com]
-0.0.0.0 atom.adjust.com
-0.0.0.0 events.adjust.com
-0.0.0.0 s2s.adjust.com
-0.0.0.0 view.adjust.com
 #[appsflyer.com]
 0.0.0.0 api.appsflyer.com
 0.0.0.0 attr.appsflyer.com
