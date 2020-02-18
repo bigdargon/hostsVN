@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 17 Feb 2020 13:51 UTC+7
-# Version: 2002171351
+# Last modified: 18 Feb 2020 15:27 UTC+7
+# Version: 2002181527
 # Blocked: 19,077 domains
 # Please report any ads or problems by github
 # Home: https://bigdargon.github.io/hostsVN/
@@ -14242,7 +14242,6 @@
 0.0.0.0 api.accesstrade.vn
 0.0.0.0 campaign.accesstrade.vn
 0.0.0.0 cdn.accesstrade.vn
-0.0.0.0 click.accesstrade.vn
 0.0.0.0 cv.accesstrade.vn
 0.0.0.0 dangky.accesstrade.vn
 0.0.0.0 docs.accesstrade.vn
@@ -14262,6 +14261,7 @@
 0.0.0.0 www.accesstrade.vn
 0.0.0.0 accesstrade.com.vn
 0.0.0.0 click.accesstrade.com.vn
+0.0.0.0 fast.accesstrade.com.vn
 #[anthill]
 0.0.0.0 a.anthill.vn
 0.0.0.0 anthill.vn
