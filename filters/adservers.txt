@@ -1,12 +1,10 @@
 ! Title: hostsVN
-! Last modified: 18 Feb 2020 15:36 UTC+7
-! Version: 2002181536
+! Last modified: 21 Feb 2020 14:25 UTC+7
+! Version: 2002211425
 ! Blocked: 326 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
-||accesstrade.com.vn^
-||accesstrade.vn^
 ||ad.org.vn^
 ||ad.zing.vn^
 ||ad360.vn^
@@ -328,6 +326,8 @@
 ||zbet.com^
 ||zo.game^
 ||fuckbookvietnam.com^
+||hashearog.com^
+||phone-notification.com^
 ||quangcaotructuyen247.com^
 ||sukientraogiaizalo.com^
 ||xmobliefacebook.com^
