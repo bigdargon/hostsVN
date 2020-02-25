@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 21 Feb 2020 14:25 UTC+7
-# Version: 2002211425
-# Blocked: 19,053 domains
+# Last modified: 25 Feb 2020 11:26 UTC+7
+# Version: 2002251126
+# Blocked: 19,072 domains
 # Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13848,6 +13848,26 @@
 0.0.0.0 beacons6.gvt2.com
 0.0.0.0 beacons-blackholed.gcp.gvt2.com
 0.0.0.0 beacons-handoff.gcp.gvt2.com
+#[beacons*.gvt3.com]
+0.0.0.0 beacons5.gvt3.com
+0.0.0.0 beacons6.gvt3.com
+#[ad4game.com]
+0.0.0.0 ad4game.com
+0.0.0.0 ads.ad4game.com
+0.0.0.0 cdn.ad4game.com
+0.0.0.0 delivery03.ad4game.com
+0.0.0.0 delivery04.ad4game.com
+0.0.0.0 delivery05.ad4game.com
+0.0.0.0 dev01.ad4game.com
+0.0.0.0 developer.ad4game.com
+0.0.0.0 haproxy1.ad4game.com
+0.0.0.0 haproxy2.ad4game.com
+0.0.0.0 helpdesk.ad4game.com
+0.0.0.0 monitor.ad4game.com
+0.0.0.0 mpe.ad4game.com
+0.0.0.0 report.ad4game.com
+0.0.0.0 traffic.ad4game.com
+0.0.0.0 www.ad4game.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14803,6 +14823,7 @@
 0.0.0.0 ad-hn.24hstatic.com
 0.0.0.0 ad-img.icheck.com.vn
 0.0.0.0 ad.24h.com.vn
+0.0.0.0 ad.accesstrade.vn
 0.0.0.0 ad.icheck.com.vn
 0.0.0.0 ad.mwork.vn
 0.0.0.0 ad.sunflower.vn
@@ -14928,6 +14949,7 @@
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 thongke.baotintuc.vn
 0.0.0.0 track-srv.vietnamnet.vn
+0.0.0.0 track.accesstrade.vn
 0.0.0.0 track.icheck.com.vn
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.srv.vietnamnet.vn
@@ -15142,7 +15164,6 @@
 0.0.0.0 ad3.iinfo.cz
 0.0.0.0 ad3.pamedia.com.au
 0.0.0.0 ad3.xrea.com
-0.0.0.0 ad4game.com
 0.0.0.0 ad4mat.com
 0.0.0.0 ad4mat.de
 0.0.0.0 ad4mat.net

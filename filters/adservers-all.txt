@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 21 Feb 2020 14:25 UTC+7
-! Version: 2002211425
-! Blocked: 5,690 rules
+! Last modified: 25 Feb 2020 11:26 UTC+7
+! Version: 2002251126
+! Blocked: 5,694 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -114,6 +114,7 @@
 ||ad-hn.24hstatic.com^
 ||ad-img.icheck.com.vn^
 ||ad.24h.com.vn^
+||ad.accesstrade.vn^
 ||ad.icheck.com.vn^
 ||ad.mwork.vn^
 ||ad.sunflower.vn^
@@ -229,6 +230,7 @@
 ||thongke.24h.com.vn^
 ||thongke.baotintuc.vn^
 ||track-srv.vietnamnet.vn^
+||track.accesstrade.vn^
 ||track.icheck.com.vn^
 ||track.sendo.vn^
 ||track.srv.vietnamnet.vn^
@@ -359,6 +361,7 @@
 ||ad.gt^
 ||ad.plus^
 ||ad.youtube.com^
+||ad4game.com^
 ||ad4screen.com^
 ||adadvisor.net^
 ||adap.tv^
@@ -550,6 +553,7 @@
 ||bazaarvoice.com^
 ||beacon.qq.com^
 ||beacons*.gvt2.com^
+||beacons*.gvt3.com^
 ||beap*.yahoo.com^
 ||bebi.com^
 ||betrad.com^
@@ -565,6 +569,7 @@
 ||bkrtx.com^
 ||blueseed.tv^
 ||blueserving.com^
+||bnc.lt^
 ||bnmla.com^
 ||bounceexchange.com^
 ||branch.io^
@@ -1259,7 +1264,6 @@
 ||ad3.iinfo.cz^
 ||ad3.pamedia.com.au^
 ||ad3.xrea.com^
-||ad4game.com^
 ||ad4mat.com^
 ||ad4mat.de^
 ||ad4mat.net^

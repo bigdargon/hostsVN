@@ -13836,3 +13836,23 @@
 0.0.0.0 beacons6.gvt2.com
 0.0.0.0 beacons-blackholed.gcp.gvt2.com
 0.0.0.0 beacons-handoff.gcp.gvt2.com
+#[beacons*.gvt3.com]
+0.0.0.0 beacons5.gvt3.com
+0.0.0.0 beacons6.gvt3.com
+#[ad4game.com]
+0.0.0.0 ad4game.com
+0.0.0.0 ads.ad4game.com
+0.0.0.0 cdn.ad4game.com
+0.0.0.0 delivery03.ad4game.com
+0.0.0.0 delivery04.ad4game.com
+0.0.0.0 delivery05.ad4game.com
+0.0.0.0 dev01.ad4game.com
+0.0.0.0 developer.ad4game.com
+0.0.0.0 haproxy1.ad4game.com
+0.0.0.0 haproxy2.ad4game.com
+0.0.0.0 helpdesk.ad4game.com
+0.0.0.0 monitor.ad4game.com
+0.0.0.0 mpe.ad4game.com
+0.0.0.0 report.ad4game.com
+0.0.0.0 traffic.ad4game.com
+0.0.0.0 www.ad4game.com
