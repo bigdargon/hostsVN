@@ -1,0 +1,27 @@
+!
+! --- Block OTA ---
+!
+appldnld.apple.com
+mesu.apple.com
+ocsp.apple.com
+updates.apple.com
+!
+!cdn-apple.com
+!
+updates-http.cdn-apple.com
+updates.cdn-apple.com
+!
+!akadns.net
+!
+appldnld.apple.com.akadns.net
+mesu-cdn.apple.com.akadns.net
+mesu-cdn.origin-apple.com.akadns.net
+updates-http.cdn-apple.com.akadns.net
+updates.cdn-apple.com.akadns.net
+!
+!aaplimg.com
+!
+appldnld.g.aaplimg.com
+mesu.g.aaplimg.com
+updates-http.g.aaplimg.com
+updates.g.aaplimg.com

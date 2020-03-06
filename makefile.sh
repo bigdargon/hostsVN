@@ -83,6 +83,11 @@ cat tmp/title-adserver-all.tmp tmp/adservers-all-rule.tmp > filters/adservers-al
 cat tmp/title-domain.tmp tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp > filters/domain-adservers-all.txt
 cat tmp/title-config-surge.tmp tmp/adservers-config.tmp > option/hostsVN.conf
 
+echo "Creating block OTA file..."
+cat source/OTA.txt | grep -v '!' | awk '{print "HOST-SUFFIX,"$1",REJECT"}' > option/hostsVN-quantumult-OTA.conf
+PACJS=$(cat source/OTA.txt | grep -v '!' | awk -F'\n' '{if(NR == 1) {printf "\""$0"\":1"} else {printf ",\""$0"\":1"}}')
+sed -e "s/!_pac_js_/$PACJS/g" tmp/title-pac-js.txt > option/hostsVN-OTA-PAC.js
+
 # remove tmp file
 rm -rf tmp/*.tmp
 
