@@ -120,6 +120,7 @@
 0.0.0.0 ad.media-servers.net
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.mgd.de
+0.0.0.0 ad.mox.tv
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.nachtagenten.de
 0.0.0.0 ad.nozonedata.com
@@ -1587,7 +1588,6 @@
 0.0.0.0 cpays.com
 0.0.0.0 cpm-ad.com
 0.0.0.0 cpmaffiliation.com
-0.0.0.0 cpmstar.com
 0.0.0.0 cpx.to
 0.0.0.0 cpxadroit.com
 0.0.0.0 cpxinteractive.com
@@ -3640,6 +3640,7 @@
 0.0.0.0 zenzuu.com
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
+0.0.0.0 ziffdavis.com
 0.0.0.0 zijaipse.com
 0.0.0.0 zintext.com
 0.0.0.0 zlp6s.pw
@@ -4682,19 +4683,19 @@
 0.0.0.0 zztxdown.com
 # --- Block other scamVN ---
 0.0.0.0 applelink.store
+0.0.0.0 fmiphone-apple.com
+0.0.0.0 fortt-rade.com
 0.0.0.0 icloud.com-locations.in
 0.0.0.0 icloud.com.view-apple.com
-0.0.0.0 view-apple.com
-0.0.0.0 www.view-apple.com
-0.0.0.0 view-appleid.com
-0.0.0.0 www.view-appleid.com
-0.0.0.0 mysp.ac
-0.0.0.0 securedashfuyiersa.com
-0.0.0.0 manage.problem.securedashfuyiersa.com
 0.0.0.0 ladsblue.com
-0.0.0.0 www.ladsblue.com
-0.0.0.0 fortt-rade.com
+0.0.0.0 manage.problem.securedashfuyiersa.com
+0.0.0.0 mysp.ac
 0.0.0.0 screenshielded.com
-0.0.0.0 zhangtom1989.cn
-0.0.0.0 fmiphone-apple.com
+0.0.0.0 securedashfuyiersa.com
+0.0.0.0 view-apple.com
+0.0.0.0 view-appleid.com
 0.0.0.0 www.fmiphone-apple.com
+0.0.0.0 www.ladsblue.com
+0.0.0.0 www.view-apple.com
+0.0.0.0 www.view-appleid.com
+0.0.0.0 zhangtom1989.cn
