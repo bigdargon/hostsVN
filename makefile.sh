@@ -72,6 +72,7 @@ echo "Creating config file..."
 # create config
 HOSTNAME=$(cat source/config-hostname.txt)
 sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-surge.txt > tmp/title-config-surge.tmp
+sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-surge.txt | grep -v '#' > option/hostsVN-surge-pro.conf
 sed -e "s/_time_stamp_/$TIME_STAMP/g" tmp/title-config-quantumultX.txt > option/hostsVN-quantumultX.conf
 sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rejection_quantumult_/r option/hostsVN-quantumult-rejection.conf' -e '/!_rejection_quantumult_/d' -e '/!_rule_quantumult_/r option/hostsVN-quantumult-rule.conf' -e '/!_rule_quantumult_/d' -e '/!_rule_exceptions_quantumult_/r option/hostsVN-quantumult-exceptions-rule.conf' -e '/!_rule_exceptions_quantumult_/d' tmp/title-config-quantumult.txt > option/hostsVN-quantumult.conf
 sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rewrite_shadowrocket_/r tmp/rewrite-shadowrocket.tmp' -e '/!_rewrite_shadowrocket_/d' -e '/!_rule_shadowrocket_/r tmp/shadowrocket-rule.tmp' -e '/!_rule_shadowrocket_/d' -e '/!_rule_exceptions_shadowrocket_/r tmp/shadowrocket-exceptions-rule.tmp' -e '/!_rule_exceptions_shadowrocket_/d' tmp/title-config-shadowrocket.txt > option/hostsVN-shadowrocket.conf
@@ -85,7 +86,8 @@ cat tmp/title-config-surge.tmp tmp/adservers-config.tmp > option/hostsVN.conf
 
 echo "Creating block OTA file..."
 cat source/OTA.txt | grep -v '!' | awk '{print "HOST-SUFFIX,"$1",REJECT"}' > option/hostsVN-quantumult-OTA.conf
-PACJS=$(cat source/OTA.txt | grep -v '!' | awk -F'\n' '{if(NR == 1) {printf "\""$0"\":1"} else {printf ",\""$0"\":1"}}')
+cat source/OTA.txt | grep -v '!' | awk '{print "DOMAIN-SUFFIX,"$1}' > option/hostsVN-surge-OTA.conf
+PACJS=$(cat source/OTA.txt | grep -v '!' | awk -F'\n' '{if(NR == 1) {printf "\""$1"\":1"} else {printf ",\""$1"\":1"}}')
 sed -e "s/!_pac_js_/$PACJS/g" tmp/title-pac-js.txt > option/hostsVN-OTA-PAC.js
 
 # remove tmp file
