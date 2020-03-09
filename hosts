@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Mar 2020 16:40 UTC+7
-# Version: 2003071640
-# Blocked: 19,082 domains
+# Last modified: 09 Mar 2020 11:14 UTC+7
+# Version: 2003091114
+# Blocked: 19,068 domains
 # Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2007,49 +2007,6 @@
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 wsq.umeng.com
 0.0.0.0 www.umeng.com
-#[taobao]
-0.0.0.0 accscdn.m.taobao.com
-0.0.0.0 acs4baichuan.m.taobao.com
-0.0.0.0 adash.m.taobao.com
-0.0.0.0 adashbc.m.taobao.com
-0.0.0.0 adashbc.ut.taobao.com
-0.0.0.0 adashx.m.taobao.com
-0.0.0.0 adashxgc.ut.taobao.com
-0.0.0.0 agoodm.m.taobao.com
-0.0.0.0 ai.m.taobao.com
-0.0.0.0 ai.taobao.com
-0.0.0.0 amdc.m.taobao.com
-0.0.0.0 apoll.m.taobao.com
-0.0.0.0 c-adash.m.taobao.com
-0.0.0.0 count.taobao.com
-0.0.0.0 dsp.simba.taobao.com
-0.0.0.0 i.click.taobao.com
-0.0.0.0 ip.taobao.com
-0.0.0.0 ju.taobao.com
-0.0.0.0 m-adash.m.taobao.com
-0.0.0.0 nbsdk-baichuan.taobao.com
-0.0.0.0 pcookie.taobao.com
-0.0.0.0 pindao.huoban.taobao.com
-0.0.0.0 re.m.taobao.com
-0.0.0.0 re.taobao.com
-0.0.0.0 redirect.simba.taobao.com
-0.0.0.0 rj.m.taobao.com
-0.0.0.0 s.click.taobao.com
-0.0.0.0 shop115048570.taobao.com
-0.0.0.0 show.re.taobao.com
-0.0.0.0 simaba.taobao.com
-0.0.0.0 simba.m.taobao.com
-0.0.0.0 srd.simba.taobao.com
-0.0.0.0 tejia.taobao.com
-0.0.0.0 temai.m.taobao.com
-0.0.0.0 temai.taobao.com
-0.0.0.0 textlink.simba.taobao.com
-0.0.0.0 tns.simba.taobao.com
-0.0.0.0 tui.taobao.com
-0.0.0.0 tunion-api.m.taobao.com
-0.0.0.0 tyh.taobao.com
-0.0.0.0 w.m.taobao.com
-0.0.0.0 wb.110.taobao.com
 #[applift]
 0.0.0.0 applift-a.apptornado.com
 0.0.0.0 applift-b.apptornado.com
@@ -13871,6 +13828,24 @@
 0.0.0.0 s-cs.rmp.rakuten.com
 0.0.0.0 s-imp.rmp.rakuten.com
 0.0.0.0 tag.rmp.rakuten.com
+#[alert-*.club]
+0.0.0.0 alert-booster.club
+0.0.0.0 alert-cellphone.club
+0.0.0.0 alert-cleaner.club
+0.0.0.0 alert-device.club
+0.0.0.0 alert-fix.club
+0.0.0.0 alert-fixer.club
+0.0.0.0 alert-iphone.club
+0.0.0.0 alert-phone.club
+#[notification-*.club]
+0.0.0.0 notification-booster.club
+0.0.0.0 notification-cellphone.club
+0.0.0.0 notification-cleaner.club
+0.0.0.0 notification-device.club
+0.0.0.0 notification-fix.club
+0.0.0.0 notification-fixer.club
+0.0.0.0 notification-iphone.club
+0.0.0.0 notification-phone.club
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14978,10 +14953,8 @@
 0.0.0.0 widget.nhaccuatui.com
 0.0.0.0 www.trending.vn
 # --- Block scamVN ---
-0.0.0.0 alert-iphone.club
 0.0.0.0 fuckbookvietnam.com
 0.0.0.0 hashearog.com
-0.0.0.0 phone-notification.com
 0.0.0.0 quangcaotructuyen247.com
 0.0.0.0 sukientraogiaizalo.com
 0.0.0.0 www.fuckbookvietnam.com
@@ -18718,6 +18691,7 @@
 0.0.0.0 abcmlm.com
 0.0.0.0 abond.net
 0.0.0.0 accurate.gutterhalment.com
+0.0.0.0 acs.m.taobao.com
 0.0.0.0 adentify.com
 0.0.0.0 adfrut.cl
 0.0.0.0 adj.st
@@ -19391,6 +19365,7 @@
 0.0.0.0 sarahcraig.org
 0.0.0.0 saspreview.com
 0.0.0.0 savingnegociacoes.com.br
+0.0.0.0 sc-static.net
 0.0.0.0 schibsted.com
 0.0.0.0 schibsted.io
 0.0.0.0 school-bgd.ru
@@ -19423,6 +19398,7 @@
 0.0.0.0 smetrics.boston.com
 0.0.0.0 snnd.co
 0.0.0.0 snrp.uglyas.com
+0.0.0.0 soflopxl.com
 0.0.0.0 softh.blogsky.com
 0.0.0.0 softtube.cn
 0.0.0.0 soperson.com
@@ -19677,11 +19653,22 @@
 0.0.0.0 fortt-rade.com
 0.0.0.0 icloud.com-locations.in
 0.0.0.0 icloud.com.view-apple.com
+0.0.0.0 important-notices.com
+0.0.0.0 iphone-fix.com
+0.0.0.0 iphone-fix.org
+0.0.0.0 iphone-notice.com
+0.0.0.0 iphone-notification.com
 0.0.0.0 ladsblue.com
 0.0.0.0 manage.problem.securedashfuyiersa.com
 0.0.0.0 mysp.ac
+0.0.0.0 phone-notices.com
+0.0.0.0 phone-notification.com
+0.0.0.0 phone-notification.online
+0.0.0.0 phone-notify.com
 0.0.0.0 screenshielded.com
 0.0.0.0 securedashfuyiersa.com
+0.0.0.0 special-offerz.org
+0.0.0.0 urgent-notice.com
 0.0.0.0 view-apple.com
 0.0.0.0 view-appleid.com
 0.0.0.0 www.fmiphone-apple.com

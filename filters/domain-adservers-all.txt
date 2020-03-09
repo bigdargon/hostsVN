@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 07 Mar 2020 16:40 UTC+7
-! Version: 2003071640
-! Blocked: 5,699 domains
+! Last modified: 09 Mar 2020 11:14 UTC+7
+! Version: 2003091114
+! Blocked: 5,713 domains
 ! The section containing the list contains all ad networks and tracking
 !
 ad.org.vn
@@ -331,10 +331,8 @@ websvn.info
 ww88club.com
 zbet.com
 zo.game
-alert-iphone.club
 fuckbookvietnam.com
 hashearog.com
-phone-notification.com
 quangcaotructuyen247.com
 sukientraogiaizalo.com
 xmobliefacebook.com
@@ -485,6 +483,7 @@ ajgc1*.online
 ajx*.online
 akaads*.starwave.com
 alcmpn.com
+alert-*.club
 alexametrics.com
 alphonso.tv
 amazon-adsystem.amazon.com
@@ -874,6 +873,7 @@ nexage.com
 nextsmarty.com
 ngads.go.com
 nixozz.com
+notification-*.club
 ns1p.net
 nsclick.baidu.com
 nxtck.com
@@ -4754,6 +4754,7 @@ abbyspanties.com
 abcmlm.com
 abond.net
 accurate.gutterhalment.com
+acs.m.taobao.com
 adentify.com
 adfrut.cl
 adj.st
@@ -5437,6 +5438,7 @@ sam4m.com
 sarahcraig.org
 saspreview.com
 savingnegociacoes.com.br
+sc-static.net
 schibsted.com
 schibsted.io
 school-bgd.ru
@@ -5469,6 +5471,7 @@ smetrics.bestbuy.com
 smetrics.boston.com
 snnd.co
 snrp.uglyas.com
+soflopxl.com
 softh.blogsky.com
 softtube.cn
 soidc.com
@@ -5684,10 +5687,21 @@ applelink.store
 fmiphone-apple.com
 fortt-rade.com
 icloud.com-locations.in
+important-notices.com
+iphone-fix.com
+iphone-fix.org
+iphone-notice.com
+iphone-notification.com
 ladsblue.com
 mysp.ac
+phone-notices.com
+phone-notification.com
+phone-notification.online
+phone-notify.com
 screenshielded.com
 securedashfuyiersa.com
+special-offerz.org
+urgent-notice.com
 view-apple.com
 view-appleid.com
 zhangtom1989.cn
