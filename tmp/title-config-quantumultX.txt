@@ -1,6 +1,6 @@
 # _time_stamp_
 [general]
-udp_whitelist=53
+udp_whitelist=53, 1024-49151
 
 [dns]
 server=8.8.8.8
