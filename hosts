@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Mar 2020 16:54 UTC+7
-# Version: 2003111654
-# Blocked: 19,258 domains
+# Last modified: 12 Mar 2020 11:42 UTC+7
+# Version: 2003121142
+# Blocked: 19,297 domains
 # Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -831,6 +831,7 @@
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 preview.smartadserver.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 prg8.smartadserver.com
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 smartadserver.com
 0.0.0.0 tcy.smartadserver.com
@@ -3338,12 +3339,22 @@
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 stat.flashtalking.com
 0.0.0.0 www.flashtalking.com
-#[rubiconproject]
+#[rubiconproject.com]
 0.0.0.0 ads.aws.rubiconproject.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 anvil.rubiconproject.com
 0.0.0.0 assets.rubiconproject.com
 0.0.0.0 beacon.rubiconproject.com
+0.0.0.0 beacon-apac-hkg1.rubiconproject.com
+0.0.0.0 beacon-eu2.rubiconproject.com
+0.0.0.0 beacon-eu-ams3.rubiconproject.com
+0.0.0.0 beacon-nf.rubiconproject.com
+0.0.0.0 beacon-us-iad3.rubiconproject.com
+0.0.0.0 cca-fra2.rubiconproject.com
+0.0.0.0 cca-hkg1.rubiconproject.com
+0.0.0.0 cca-iad2.rubiconproject.com
+0.0.0.0 cca-iad3.rubiconproject.com
+0.0.0.0 cca-sjc2.rubiconproject.com
 0.0.0.0 dsp-token.aws.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 exapi-apac.rubiconproject.com
@@ -3364,6 +3375,7 @@
 0.0.0.0 pixel-us-east.rubiconproject.com
 0.0.0.0 pixel-us-west.rubiconproject.com
 0.0.0.0 prebid.aws.rubiconproject.com
+0.0.0.0 prebid-a.rubiconproject.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 rfm.rubiconproject.com
 0.0.0.0 rubiconproject.com
@@ -3376,6 +3388,7 @@
 0.0.0.0 tap-cdn.rubiconproject.com
 0.0.0.0 tap-secure.rubiconproject.com
 0.0.0.0 token.rubiconproject.com
+0.0.0.0 update.rubiconproject.com
 0.0.0.0 usync.aws.rubiconproject.com
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 video-ads-apex.rubiconproject.com
@@ -5566,6 +5579,8 @@
 0.0.0.0 33across-d.openx.net
 0.0.0.0 aa-d.openx.net
 0.0.0.0 activenetwork-d.openx.net
+0.0.0.0 adasia-d.openx.net
+0.0.0.0 admarvel-d.openx.net
 0.0.0.0 admediaspace-d.openx.net
 0.0.0.0 adnimation1-d.openx.net
 0.0.0.0 adnimation2-d.openx.net
@@ -5810,6 +5825,7 @@
 0.0.0.0 mobilityware-d.openx.net
 0.0.0.0 mobimagic-d.openx.net
 0.0.0.0 mobzilla-d.openx.net
+0.0.0.0 monetizemore-d.openx.net
 0.0.0.0 monkey-broker-d.openx.net
 0.0.0.0 motleyfool-d.openx.net
 0.0.0.0 nervora-d.openx.net
@@ -14037,6 +14053,29 @@
 0.0.0.0 us.xmlppcbuzz.com
 0.0.0.0 www.xmlppcbuzz.com
 0.0.0.0 xmlppcbuzz.com
+#[collective-media.net]
+0.0.0.0 a.collective-media.net
+0.0.0.0 aan.collective-media.net
+0.0.0.0 ad.collective-media.net
+0.0.0.0 b.collective-media.net
+0.0.0.0 collective-media.net
+0.0.0.0 haproxy001.iad3.collective-media.net
+0.0.0.0 haproxy001.sjc4.collective-media.net
+0.0.0.0 haproxy002.iad3.collective-media.net
+0.0.0.0 haproxy002.sjc4.collective-media.net
+0.0.0.0 haproxy003.iad3.collective-media.net
+0.0.0.0 haproxy003.sjc4.collective-media.net
+0.0.0.0 haproxy004.iad3.collective-media.net
+0.0.0.0 haproxy004.sjc4.collective-media.net
+0.0.0.0 iad3.collective-media.net
+0.0.0.0 k.collective-media.net
+0.0.0.0 l.collective-media.net
+0.0.0.0 lorigin.collective-media.net
+0.0.0.0 origin.collective-media.net
+0.0.0.0 qa1.collective-media.net
+0.0.0.0 t.collective-media.net
+0.0.0.0 toro-dal-01.collective-media.net
+0.0.0.0 web01.collective-media.net
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15162,7 +15201,6 @@
 0.0.0.0 4d5.net
 0.0.0.0 4info.com
 0.0.0.0 4mads.com
-0.0.0.0 a.collective-media.net
 0.0.0.0 a.consumer.net
 0.0.0.0 a.mktw.net
 0.0.0.0 a.rigelink.com
@@ -16602,6 +16640,7 @@
 0.0.0.0 cjlog.com
 0.0.0.0 cjt1.net
 0.0.0.0 claria.com
+0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 clashmobile.com
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearbid.uberads.com
@@ -18338,6 +18377,7 @@
 0.0.0.0 tangerinenet.biz
 0.0.0.0 tangibleteam.com
 0.0.0.0 tapas.net
+0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
 0.0.0.0 tapfiliate.com
 0.0.0.0 tapgen.com
 0.0.0.0 tapinfluence.com

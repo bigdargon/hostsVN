@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 11 Mar 2020 16:54 UTC+7
-! Version: 2003111654
-! Blocked: 5,727 rules
+! Last modified: 12 Mar 2020 11:42 UTC+7
+! Version: 2003121142
+! Blocked: 5,729 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -337,6 +337,7 @@
 ||quangcaotructuyen247.com^
 ||sukientraogiaizalo.com^
 ||xmobliefacebook.com^
+||collective-media.net^
 ||152media.com^
 ||1rx.io^
 ||2leep.com^
@@ -1101,7 +1102,6 @@
 ||4d5.net^
 ||4info.com^
 ||4mads.com^
-||a.collective-media.net^
 ||a.consumer.net^
 ||a.mktw.net^
 ||a.rigelink.com^
@@ -2540,6 +2540,7 @@
 ||cjlog.com^
 ||cjt1.net^
 ||claria.com^
+||clarium.global.ssl.fastly.net^
 ||clashmobile.com^
 ||class-act-clicks.com^
 ||clearbid.uberads.com^
@@ -4278,6 +4279,7 @@
 ||tangerinenet.biz^
 ||tangibleteam.com^
 ||tapas.net^
+||tapdaq-adverts.global.ssl.fastly.net^
 ||tapfiliate.com^
 ||tapgen.com^
 ||tapinfluence.com^
