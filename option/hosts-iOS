@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Mar 2020 15:35 UTC+7
-# Version: 2003121535
-# Blocked: 18,922 domains
+# Last modified: 12 Mar 2020 16:21 UTC+7
+# Version: 2003121621
+# Blocked: 18,987 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13175,35 +13175,77 @@
 0 t.eclick.vn
 0 tracking.eclick.vn
 0 www.eclick.vn
+0 abm.admicro.vn
 0 adi.admicro.vn
 0 admail.admicro.vn
 0 admarket.admicro.vn
 0 admatic.admicro.vn
 0 admicro.vn
 0 adnetwork.admicro.vn
+0 adopt.admicro.vn
+0 adsdemo.admicro.vn
 0 adtimes.admicro.vn
+0 adv.admicro.vn
 0 adx.admicro.vn
 0 afp.admicro.vn
+0 analytics.admicro.vn
+0 apigateway.admicro.vn
+0 appdigitalstory.admicro.vn
+0 b.logging.admicro.vn
 0 banners.admicro.vn
+0 benk.logging.admicro.vn
 0 beta.admicro.vn
+0 beta.sspapi.admicro.vn
+0 bi.admicro.vn
 0 boxapp.admicro.vn
+0 boxpr.admicro.vn
+0 brand.admicro.vn
+0 bs.admicro.vn
 0 c.logging.admicro.vn
+0 cmsads.admicro.vn
+0 cmsanalytics.admicro.vn
 0 code.admicro.vn
+0 content-ml.admicro.vn
+0 contract.admicro.vn
+0 contracttest.admicro.vn
+0 cpd.admicro.vn
+0 chamcong.admicro.vn
+0 chamcongtest.admicro.vn
+0 defaultdsp.admicro.vn
 0 demo.admicro.vn
 0 demo-adopt.admicro.vn
 0 dev.email-analytics.admicro.vn
+0 display.admicro.vn
 0 dl.logging.admicro.vn
+0 drive.admicro.vn
 0 dsprtb.logging.admicro.vn
+0 dynamic-ads.admicro.vn
 0 ea.logging.admicro.vn
+0 e-learning.admicro.vn
+0 enterpriseapi.admicro.vn
+0 erptest.admicro.vn
 0 f.admicro.vn
+0 file.admicro.vn
 0 fingerprint.admicro.vn
+0 ganglia.admicro.vn
 0 goodsp.admicro.vn
+0 giaiphapbds.admicro.vn
+0 hd.admicro.vn
+0 html5.admicro.vn
+0 img.admicro.vn
 0 in.admicro.vn
 0 ir.admicro.vn
+0 ketoan.admicro.vn
+0 kpi.admicro.vn
 0 lab.admicro.vn
+0 layout.admicro.vn
+0 learning.admicro.vn
 0 lg.logging.admicro.vn
 0 lg1.logging.admicro.vn
 0 logging.admicro.vn
+0 ma.admicro.vn
+0 mapping-platform.admicro.vn
+0 marketingai.admicro.vn
 0 marketingauto.e-learning.admicro.vn
 0 media.admicro.vn
 0 media.e-learning.admicro.vn
@@ -13218,17 +13260,31 @@
 0 media9.admicro.vn
 0 min.admicro.vn
 0 monitor.admicro.vn
+0 news.admicro.vn
 0 nsapi.admicro.vn
+0 nspapi.admicro.vn
 0 pson.logging.admicro.vn
 0 publisher.admicro.vn
 0 redmine.admicro.vn
+0 remarketing.admicro.vn
 0 sale.test.admicro.vn
 0 saledev.admicro.vn
+0 snews.admicro.vn
 0 sso.admicro.vn
 0 sspapi.admicro.vn
+0 ssprtb.admicro.vn
+0 sspsrv.admicro.vn
+0 static-cmsads.admicro.vn
+0 systracking.admicro.vn
 0 tech.admicro.vn
 0 topkid.admicro.vn
+0 tuyendung.admicro.vn
+0 thucchay.admicro.vn
+0 thuctreo.admicro.vn
 0 vccrm.admicro.vn
+0 viewplus.admicro.vn
+0 vote.admicro.vn
+0 wcc.admicro.vn
 0 www.admicro.vn
 0 admicro.vcmedia.com
 0 admicro1.vcmedia.vn
@@ -14016,6 +14072,15 @@
 0 static.sourcetobin.com
 0 philacct.com
 0 static.philacct.com
+0 contineljs.com
+0 defaultdsp.contineljs.com
+0 static.contineljs.com
+0 cdn.surfcountor.com
+0 ck.surfcountor.com
+0 cms.surfcountor.com
+0 dk.surfcountor.com
+0 pin.surfcountor.com
+0 surfcountor.com
 0 123c.vn
 0 ad-hcm.24hstatic.com
 0 ad-hn.24hstatic.com
@@ -14120,6 +14185,7 @@
 0 deqik.com
 0 elogs.vnexpress.net
 0 event.headlines.pw
+0 la.vietid.net
 0 lg.lotus.vn
 0 log.anninhthudo.vn
 0 log.baodatviet.vn
@@ -15728,7 +15794,6 @@
 0 content.acc-hd.de
 0 content.bitsontherun.com
 0 contentabc.com
-0 contineljs.com
 0 conversionruler.com
 0 convrse.media
 0 cookies.cmpnet.com

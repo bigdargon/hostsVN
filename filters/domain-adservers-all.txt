@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 12 Mar 2020 15:35 UTC+7
-! Version: 2003121535
-! Blocked: 5,739 domains
+! Last modified: 12 Mar 2020 16:21 UTC+7
+! Version: 2003121621
+! Blocked: 5,741 domains
 ! The section containing the list contains all ad networks and tracking
 !
 ad.org.vn
@@ -39,6 +39,7 @@ cityads.com
 cityadstrack.com
 cleverads.vn
 cokhach.com
+contineljs.com
 dable.io
 dsmartvietnam.com
 eclick.vn
@@ -94,6 +95,7 @@ sourcetobin.com
 sp.zalo.me
 static-ads.zaloapp.com
 stats.zaloapp.com
+surfcountor.com
 tracking.*.zing.vn
 uniad.vn
 vads.net.vn
@@ -206,6 +208,7 @@ analytics.vnreview.vn
 deqik.com
 elogs.vnexpress.net
 event.headlines.pw
+la.vietid.net
 lg.lotus.vn
 log.anninhthudo.vn
 log.baodatviet.vn
@@ -2652,7 +2655,6 @@ contehos.com
 content.acc-hd.de
 content.bitsontherun.com
 contentabc.com
-contineljs.com
 conversionruler.com
 convrse.media
 cookies.cmpnet.com
