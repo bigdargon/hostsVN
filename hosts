@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Mar 2020 13:38 UTC+7
-# Version: 2003121338
-# Blocked: 18,845 domains
+# Last modified: 12 Mar 2020 14:19 UTC+7
+# Version: 2003121419
+# Blocked: 18,918 domains
 # Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -726,7 +726,6 @@
 0.0.0.0 stg-ua.inmobi.com
 0.0.0.0 studio.ev1.inmobi.com
 0.0.0.0 studio.glance.inmobi.com
-0.0.0.0 support.inmobi.com
 0.0.0.0 sutdio.glance.inmobi.com
 0.0.0.0 technology.inmobi.com
 0.0.0.0 telemetry.sdk.inmobi.com
@@ -1285,7 +1284,6 @@
 0.0.0.0 letitbit.propellerads.com
 0.0.0.0 loadtest.propellerads.com
 0.0.0.0 log-manager.propellerads.com
-0.0.0.0 login.propellerads.com
 0.0.0.0 lookup.propellerads.com
 0.0.0.0 madmin.propellerads.com
 0.0.0.0 mb.propellerads.com
@@ -1312,7 +1310,6 @@
 0.0.0.0 static.propellerads.com
 0.0.0.0 stats.propellerads.com
 0.0.0.0 statsv2-backend.propellerads.com
-0.0.0.0 support.propellerads.com
 0.0.0.0 tracking.propellerads.com
 0.0.0.0 v2.propellerads.com
 0.0.0.0 vd1.propellerads.com
@@ -1616,7 +1613,6 @@
 0.0.0.0 ss.sharethis.com
 0.0.0.0 stagewp.sharethis.com
 0.0.0.0 static.blog.sharethis.com
-0.0.0.0 support.sharethis.com
 0.0.0.0 sync.sharethis.com
 0.0.0.0 t.sharethis.com
 0.0.0.0 tags.sharethis.com
@@ -1658,7 +1654,6 @@
 0.0.0.0 plank.apptimize.com
 0.0.0.0 prod.apptimize.com
 0.0.0.0 sdk.apptimize.com
-0.0.0.0 support.apptimize.com
 0.0.0.0 tycho.apptimize.com
 0.0.0.0 user-data.apptimize.com
 0.0.0.0 www.apptimize.com
@@ -1729,7 +1724,6 @@
 0.0.0.0 ecto-stg.flurry.com
 0.0.0.0 explorer-staging.flurry.com
 0.0.0.0 gw.flurry.com
-0.0.0.0 login.flurry.com
 0.0.0.0 login-canary.flurry.com
 0.0.0.0 ngdp-staging.flurry.com
 0.0.0.0 nonprod.flurry.com
@@ -1789,7 +1783,6 @@
 0.0.0.0 sf.mm.vungle.com
 0.0.0.0 monitoring.vungle.com
 0.0.0.0 ssl.vungle.com
-0.0.0.0 support.vungle.com
 0.0.0.0 v.vungle.com
 0.0.0.0 vungle-cdn.vungle.com
 0.0.0.0 akamai.vungle-cdn.vungle.com
@@ -2240,7 +2233,6 @@
 0.0.0.0 mobileapptracking.com
 0.0.0.0 platform.mobileapptracking.com
 0.0.0.0 stage.mobileapptracking.com
-0.0.0.0 support.mobileapptracking.com
 0.0.0.0 www.mobileapptracking.com
 0.0.0.0 10147.engine.mobileapptracking.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -2347,7 +2339,6 @@
 0.0.0.0 staging.adswizz.com
 0.0.0.0 streaming.adswizz.com
 0.0.0.0 streaming-dev.adswizz.com
-0.0.0.0 support.adswizz.com
 0.0.0.0 synchrobox.adswizz.com
 0.0.0.0 synchroscript.adswizz.com
 0.0.0.0 synchroscript.deliveryengine.adswizz.com
@@ -2538,7 +2529,6 @@
 0.0.0.0 sales.leanplum.com
 0.0.0.0 sso.leanplum.com
 0.0.0.0 status.leanplum.com
-0.0.0.0 support.leanplum.com
 0.0.0.0 web.leanplum.com
 0.0.0.0 www.leanplum.com
 #[ligatus]
@@ -2646,7 +2636,6 @@
 0.0.0.0 mmmag.appsee.com
 0.0.0.0 pm.appsee.com
 0.0.0.0 status.appsee.com
-0.0.0.0 support.appsee.com
 0.0.0.0 ux.appsee.com
 0.0.0.0 www.appsee.com
 #[ad-brix]
@@ -2962,7 +2951,6 @@
 0.0.0.0 rtb.adcolony.com
 0.0.0.0 rtb-trk.adcolony.com
 0.0.0.0 securev4vcapi.adcolony.com
-0.0.0.0 support.adcolony.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 www.adcolony.com
 #[adsafeprotected.com]
@@ -3733,7 +3721,6 @@
 0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static-staging.sharethrough.com
-0.0.0.0 support.sharethrough.com
 0.0.0.0 templates.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
@@ -3857,7 +3844,6 @@
 0.0.0.0 stage.branch.io
 0.0.0.0 start.branch.io
 0.0.0.0 status.branch.io
-0.0.0.0 support.branch.io
 0.0.0.0 tron-api.prod.branch.io
 0.0.0.0 tron-branchmain.prod.branch.io
 0.0.0.0 tron-test.prod.branch.io
@@ -4004,7 +3990,6 @@
 0.0.0.0 learn-dev.newrelic.com
 0.0.0.0 learn-ra.newrelic.com
 0.0.0.0 learn-staging.newrelic.com
-0.0.0.0 login.newrelic.com
 0.0.0.0 login-origin.newrelic.com
 0.0.0.0 mail.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
@@ -4029,7 +4014,6 @@
 0.0.0.0 stamp1-azure-ext.newrelic.com
 0.0.0.0 stamp2-azure-ext.newrelic.com
 0.0.0.0 status.newrelic.com
-0.0.0.0 support.newrelic.com
 0.0.0.0 support-legacy.newrelic.com
 0.0.0.0 synthetics.newrelic.com
 0.0.0.0 try.newrelic.com
@@ -4054,7 +4038,6 @@
 0.0.0.0 socketio-staging.taplytics.com
 0.0.0.0 staging.taplytics.com
 0.0.0.0 status.taplytics.com
-0.0.0.0 support.taplytics.com
 0.0.0.0 switch.taplytics.com
 0.0.0.0 taplytics.com
 0.0.0.0 wpengine.taplytics.com
@@ -4414,7 +4397,6 @@
 0.0.0.0 recommendations.shareaholic.com
 0.0.0.0 recs.shareaholic.com
 0.0.0.0 shareaholic.com
-0.0.0.0 support.shareaholic.com
 0.0.0.0 traffic.shareaholic.com
 0.0.0.0 v2.shareaholic.com
 0.0.0.0 www.shareaholic.com
@@ -4665,7 +4647,6 @@
 0.0.0.0 stable.app.optimizely.com
 0.0.0.0 status.optimizely.com
 0.0.0.0 success.optimizely.com
-0.0.0.0 support.optimizely.com
 0.0.0.0 teams.optimizely.com
 0.0.0.0 teams-admin.optimizely.com
 0.0.0.0 teams-staging.optimizely.com
@@ -4701,7 +4682,6 @@
 0.0.0.0 sfmc-stag.urbanairship.com
 0.0.0.0 sgc.urbanairship.com
 0.0.0.0 status.urbanairship.com
-0.0.0.0 support.urbanairship.com
 0.0.0.0 tofurkey.urbanairship.com
 0.0.0.0 urbanairship.com
 0.0.0.0 userdocs.urbanairship.com
@@ -4994,7 +4974,6 @@
 0.0.0.0 go.tapjoy.com
 0.0.0.0 home.tapjoy.com
 0.0.0.0 info.tapjoy.com
-0.0.0.0 knowledge.tapjoy.com
 0.0.0.0 ltv.tapjoy.com
 0.0.0.0 ltvapi.tapjoy.com
 0.0.0.0 my.tapjoy.com
@@ -5005,7 +4984,6 @@
 0.0.0.0 resources.tapjoy.com
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 staging5.dev.tapjoy.com
-0.0.0.0 supportmx.support.tapjoy.com
 0.0.0.0 tapjoy.com
 0.0.0.0 video.tapjoy.com
 0.0.0.0 www.tapjoy.com
@@ -5057,11 +5035,9 @@
 0.0.0.0 instartlogic.com
 0.0.0.0 internal.instartlogic.com
 0.0.0.0 internals.instartlogic.com
-0.0.0.0 login.instartlogic.com
 0.0.0.0 login-dev.instartlogic.com
 0.0.0.0 newsite.instartlogic.com
 0.0.0.0 security.instartlogic.com
-0.0.0.0 support.instartlogic.com
 0.0.0.0 test.instartlogic.com
 0.0.0.0 unifi.corp.instartlogic.com
 0.0.0.0 www.instartlogic.com
@@ -5185,7 +5161,6 @@
 0.0.0.0 scavenger.localytics.com
 0.0.0.0 sdk-assets.localytics.com
 0.0.0.0 status.localytics.com
-0.0.0.0 support.localytics.com
 0.0.0.0 telenor-analytics.localytics.com
 0.0.0.0 telenor-profile.localytics.com
 0.0.0.0 testqueuer.localytics.com
@@ -5211,7 +5186,6 @@
 0.0.0.0 changelog.freshmarketer.com
 0.0.0.0 extension.freshmarketer.com
 0.0.0.0 freshmarketer.com
-0.0.0.0 support.freshmarketer.com
 0.0.0.0 toolbar.freshmarketer.com
 0.0.0.0 www.freshmarketer.com
 #[clksite]
@@ -5714,7 +5688,6 @@
 0.0.0.0 konicaminolta.eu.qualtrics.com
 0.0.0.0 lds.qualtrics.com
 0.0.0.0 liberty.co1.qualtrics.com
-0.0.0.0 login.qualtrics.com
 0.0.0.0 lvhn.co1.qualtrics.com
 0.0.0.0 lvhn.qualtrics.com
 0.0.0.0 mcafee.co1.qualtrics.com
@@ -5989,7 +5962,6 @@
 0.0.0.0 exchange.unrulymedia.com
 0.0.0.0 fls.unrulymedia.com
 0.0.0.0 galactify.unrulymedia.com
-0.0.0.0 login.console.unrulymedia.com
 0.0.0.0 pre-usermatch.targeting.unrulymedia.com
 0.0.0.0 stats.unrulymedia.com
 0.0.0.0 stats2.unrulymedia.com
@@ -6578,7 +6550,6 @@
 0.0.0.0 info2.bizible.com
 0.0.0.0 roi.bizible.com
 0.0.0.0 sf.bizible.com
-0.0.0.0 support.bizible.com
 0.0.0.0 www.bizible.com
 #[adtarget.me]
 0.0.0.0 ads.adtarget.me
@@ -7018,7 +6989,6 @@
 0.0.0.0 stage.kochava.com
 0.0.0.0 stash.api.kochava.com
 0.0.0.0 static.kochava.com
-0.0.0.0 support.kochava.com
 0.0.0.0 t-metaps-biz.control.kochava.com
 0.0.0.0 token.api.kochava.com
 0.0.0.0 web-sdk.control.kochava.com
@@ -7191,7 +7161,6 @@
 0.0.0.0 premiumanalytics.swrve.com
 0.0.0.0 qa-log.swrve.com
 0.0.0.0 status.swrve.com
-0.0.0.0 support.swrve.com
 0.0.0.0 swrve.com
 0.0.0.0 us-fs10-mitm-api.swrve.com
 0.0.0.0 us-fs12-mitm-api.swrve.com
@@ -7233,7 +7202,6 @@
 0.0.0.0 jira.corp.appdynamics.com
 0.0.0.0 learn.appdynamics.com
 0.0.0.0 legal.appdynamics.com
-0.0.0.0 login.appdynamics.com
 0.0.0.0 ops.appdynamics.com
 0.0.0.0 packages.appdynamics.com
 0.0.0.0 particle.appdynamics.com
@@ -7259,7 +7227,6 @@
 0.0.0.0 dashboard-api.upsight.com
 0.0.0.0 email.upsight.com
 0.0.0.0 imgproxy.upsight.com
-0.0.0.0 login.upsight.com
 0.0.0.0 marketing.upsight.com
 0.0.0.0 marketing-api.upsight.com
 0.0.0.0 nexus.upsight.com
@@ -7267,7 +7234,6 @@
 0.0.0.0 origin-marketing.upsight.com
 0.0.0.0 resources.upsight.com
 0.0.0.0 static.upsight.com
-0.0.0.0 support.upsight.com
 0.0.0.0 upsight.com
 0.0.0.0 www.upsight.com
 #[apptentive.com]
@@ -7296,7 +7262,6 @@
 0.0.0.0 jobs.apptentive.com
 0.0.0.0 kong-proxy.heartthrob.apptentive.com
 0.0.0.0 learn.apptentive.com
-0.0.0.0 login.apptentive.com
 0.0.0.0 lovescore.apptentive.com
 0.0.0.0 mail.apptentive.com
 0.0.0.0 notify.apptentive.com
@@ -7603,7 +7568,6 @@
 0.0.0.0 secure.juicyads.com
 0.0.0.0 static.juicyads.com
 0.0.0.0 stats.juicyads.com
-0.0.0.0 support.juicyads.com
 0.0.0.0 www.juicyads.com
 0.0.0.0 www2.juicyads.com
 0.0.0.0 xapi.juicyads.com
@@ -8365,7 +8329,6 @@
 0.0.0.0 jobs.logrocket.com
 0.0.0.0 log.logrocket.com
 0.0.0.0 logrocket.com
-0.0.0.0 login.logrocket.com
 0.0.0.0 login-staging.logrocket.com
 0.0.0.0 pixel.logrocket.com
 0.0.0.0 phoneburner.logrocket.com
@@ -8510,7 +8473,6 @@
 0.0.0.0 sift-shopify.siftscience.com
 0.0.0.0 start.siftscience.com
 0.0.0.0 status.siftscience.com
-0.0.0.0 support.siftscience.com
 0.0.0.0 www.siftscience.com
 #[tiktokv.com]
 0.0.0.0 log.tiktokv.com
@@ -8570,7 +8532,6 @@
 0.0.0.0 socket.adpushup.com
 0.0.0.0 start.adpushup.com
 0.0.0.0 static.adpushup.com
-0.0.0.0 support.adpushup.com
 0.0.0.0 www.adpushup.com
 #[clean.gg]
 0.0.0.0 clean.gg
@@ -9196,8 +9157,6 @@
 0.0.0.0 go.netcoresmartech.com
 0.0.0.0 imap.netcoresmartech.com
 0.0.0.0 knowledgecentre.netcoresmartech.com
-0.0.0.0 login.netcoresmartech.com
-0.0.0.0 login1.netcoresmartech.com
 0.0.0.0 netcoresmartech.com
 0.0.0.0 offers.netcoresmartech.com
 0.0.0.0 pa.netcoresmartech.com
@@ -9416,7 +9375,6 @@
 0.0.0.0 eyeota-sync.dotomi.com
 0.0.0.0 iad-login.dotomi.com
 0.0.0.0 iad-usadmm.dotomi.com
-0.0.0.0 login.dotomi.com
 0.0.0.0 login-ds.dotomi.com
 0.0.0.0 media-ams5.msg.dotomi.com
 0.0.0.0 media-dc6.msg.dotomi.com
@@ -9530,7 +9488,6 @@
 0.0.0.0 static.analytics.adkernel.com
 0.0.0.0 static-analytics.adkernel.com
 0.0.0.0 static-rtb.adkernel.com
-0.0.0.0 support.adkernel.com
 0.0.0.0 svc.analytics.adkernel.com
 0.0.0.0 svc-analytics.adkernel.com
 0.0.0.0 sync.adkernel.com
@@ -9785,7 +9742,6 @@
 0.0.0.0 legacy-sb-ec.adtechus.com
 0.0.0.0 legacy-sb-wc.adtechus.com
 0.0.0.0 lite.adtechus.com
-0.0.0.0 login.adtechus.com
 0.0.0.0 marketplace.adtechus.com
 0.0.0.0 pictela-sb-ec.adtechus.com
 0.0.0.0 pr-a.adtechus.com
@@ -10299,7 +10255,6 @@
 0.0.0.0 istream.rakutenmarketing.com
 0.0.0.0 jira.rakutenmarketing.com
 0.0.0.0 landing.rakutenmarketing.com
-0.0.0.0 login.rakutenmarketing.com
 0.0.0.0 marketplace.rakutenmarketing.com
 0.0.0.0 performance.rakutenmarketing.com
 0.0.0.0 rakutenmarketing.com
@@ -10320,7 +10275,6 @@
 0.0.0.0 info.linkshare.com
 0.0.0.0 jp.linkshare.com
 0.0.0.0 linkshare.com
-0.0.0.0 login.linkshare.com
 0.0.0.0 marcom.linkshare.com
 0.0.0.0 metrics.linkshare.com
 0.0.0.0 newsletter.linkshare.com
@@ -10926,7 +10880,6 @@
 0.0.0.0 single.runative.com
 0.0.0.0 staging.runative.com
 0.0.0.0 static.runative.com
-0.0.0.0 support.runative.com
 0.0.0.0 www.runative.com
 0.0.0.0 run-syndicate.com
 0.0.0.0 cdn.run-syndicate.com
@@ -10977,7 +10930,6 @@
 0.0.0.0 smartplugin.youbora.com
 0.0.0.0 smartswitch.youbora.com
 0.0.0.0 smartreports.youbora.com
-0.0.0.0 support.youbora.com
 0.0.0.0 ui-api.youbora.com
 0.0.0.0 vegetapi-rc.youbora.com
 0.0.0.0 www.youbora.com
@@ -12152,7 +12104,6 @@
 0.0.0.0 old.indoleads.com
 0.0.0.0 ruslan.indoleads.com
 0.0.0.0 status.indoleads.com
-0.0.0.0 support.indoleads.com
 0.0.0.0 track.indoleads.com
 0.0.0.0 trk.indoleads.com
 0.0.0.0 trkdev.indoleads.com
@@ -12877,7 +12828,6 @@
 0.0.0.0 serv.clicksor.com
 0.0.0.0 servw.clicksor.com
 0.0.0.0 serw.clicksor.com
-0.0.0.0 signup.clicksor.com
 0.0.0.0 track.clicksor.com
 0.0.0.0 www.clicksor.com
 #[adswick.com]
@@ -13624,6 +13574,140 @@
 0.0.0.0 t.collective-media.net
 0.0.0.0 toro-dal-01.collective-media.net
 0.0.0.0 web01.collective-media.net
+#[adsparc.com]
+0.0.0.0 adsparc.com
+0.0.0.0 play.adsparc.com
+0.0.0.0 prebid.adsparc.com
+0.0.0.0 publisher.adsparc.com
+0.0.0.0 pushad.adsparc.com
+0.0.0.0 video.adsparc.com
+0.0.0.0 vl2.adsparc.com
+0.0.0.0 vl3.adsparc.com
+0.0.0.0 vl4.adsparc.com
+0.0.0.0 vl5.adsparc.com
+0.0.0.0 vl6.adsparc.com
+0.0.0.0 vls.adsparc.com
+0.0.0.0 www.adsparc.com
+#[bidgear-dsp.network]
+0.0.0.0 bidgear-dsp.network
+0.0.0.0 platform.bidgear-dsp.network
+#[clarium.io]
+0.0.0.0 cdn.clarium.io
+0.0.0.0 clarium.io
+0.0.0.0 protected-by-staging.clarium.io
+0.0.0.0 protected-by.clarium.io
+#[appnexus.com]
+0.0.0.0 anex.appnexus.com
+0.0.0.0 api.appnexus.com
+0.0.0.0 app.appnexus.com
+0.0.0.0 autodiscover.ad.corp.appnexus.com
+0.0.0.0 autodiscover.appnexus.com
+0.0.0.0 bidder-sand.appnexus.com
+0.0.0.0 bind-gateway.corp.appnexus.com
+0.0.0.0 bts.appnexus.com
+0.0.0.0 careers.appnexus.com
+0.0.0.0 careerstest.appnexus.com
+0.0.0.0 console.appnexus.com
+0.0.0.0 corpwiki.appnexus.com
+0.0.0.0 dev.appnexus.com
+0.0.0.0 developers.appnexus.com
+0.0.0.0 docs.appnexus.com
+0.0.0.0 go.appnexus.com
+0.0.0.0 kace.corp.appnexus.com
+0.0.0.0 lg.appnexus.com
+0.0.0.0 ok.appnexus.com
+0.0.0.0 pbx-ams1.corp.appnexus.com
+0.0.0.0 pmfstream.appnexus.com
+0.0.0.0 portal.appnexus.com
+0.0.0.0 psa.appnexus.com
+0.0.0.0 secure-console.appnexus.com
+0.0.0.0 staging.appnexus.com
+0.0.0.0 status.appnexus.com
+0.0.0.0 summit.appnexus.com
+0.0.0.0 www.appnexus.com
+0.0.0.0 zimbra.corp.appnexus.com
+#[emxdgt.com]
+0.0.0.0 bounce.emxdgt.com
+0.0.0.0 bounce-west.emxdgt.com
+0.0.0.0 cs.emxdgt.com
+0.0.0.0 e1.emxdgt.com
+0.0.0.0 emxdgt.com
+0.0.0.0 emxhb.emxdgt.com
+0.0.0.0 hb.emxdgt.com
+0.0.0.0 hbint.emxdgt.com
+0.0.0.0 imp.emxdgt.com
+0.0.0.0 rtbx.emxdgt.com
+0.0.0.0 vast.emxdgt.com
+#[brealtime.com]
+0.0.0.0 biddr.brealtime.com
+0.0.0.0 biddr.dev.brealtime.com
+0.0.0.0 biddr-cloud.brealtime.com
+0.0.0.0 bounce.brealtime.com
+0.0.0.0 brealtime.com
+0.0.0.0 console.brealtime.com
+0.0.0.0 controlcenter.brealtime.com
+0.0.0.0 cookie.brealtime.com
+0.0.0.0 dashboard.brealtime.com
+0.0.0.0 edba.brealtime.com
+0.0.0.0 gif.brealtime.com
+0.0.0.0 js.brealtime.com
+0.0.0.0 js.dev.brealtime.com
+0.0.0.0 mobile.brealtime.com
+0.0.0.0 nibble-cloud.brealtime.com
+0.0.0.0 openrtb.brealtime.com
+0.0.0.0 optimizedby.brealtime.com
+0.0.0.0 p.brealtime.com
+0.0.0.0 portal.brealtime.com
+0.0.0.0 realbid.brealtime.com
+0.0.0.0 select.brealtime.com
+0.0.0.0 serve.brealtime.com
+0.0.0.0 track.brealtime.com
+0.0.0.0 vast.brealtime.com
+0.0.0.0 vast-west.brealtime.com
+0.0.0.0 www.brealtime.com
+#[marphezis.com]
+0.0.0.0 brightcombid.marphezis.com
+0.0.0.0 cdn.marphezis.com
+0.0.0.0 marphezis.com
+0.0.0.0 www.marphezis.com
+#[fuseplatform.net]
+0.0.0.0 adasia.fuseplatform.net
+0.0.0.0 adfill.fuseplatform.net
+0.0.0.0 adireto.fuseplatform.net
+0.0.0.0 admin-portal.fuseplatform.net
+0.0.0.0 adop.fuseplatform.net
+0.0.0.0 ad-vanx.fuseplatform.net
+0.0.0.0 api.fuseplatform.net
+0.0.0.0 cdn.fuseplatform.net
+0.0.0.0 client-portal.fuseplatform.net
+0.0.0.0 demo.fuseplatform.net
+0.0.0.0 dqna.fuseplatform.net
+0.0.0.0 fluct.fuseplatform.net
+0.0.0.0 fuseplatform.net
+0.0.0.0 publift.fuseplatform.net
+0.0.0.0 rwadx.fuseplatform.net
+0.0.0.0 sph.fuseplatform.net
+0.0.0.0 staging.fuseplatform.net
+0.0.0.0 static.fuseplatform.net
+0.0.0.0 summitmedia.fuseplatform.net
+0.0.0.0 vidmatic.fuseplatform.net
+#[publift.com]
+0.0.0.0 admin.publift.com
+0.0.0.0 api.publift.com
+0.0.0.0 api-v2.publift.com
+0.0.0.0 assets.publift.com
+0.0.0.0 cdn.publift.com
+0.0.0.0 ci.publift.com
+0.0.0.0 dashboard.publift.com
+0.0.0.0 hb.publift.com
+0.0.0.0 npm.publift.com
+0.0.0.0 prebid.publift.com
+0.0.0.0 publift.com
+0.0.0.0 showroom.publift.com
+0.0.0.0 showroom2.publift.com
+0.0.0.0 tools.publift.com
+0.0.0.0 wp-static.publift.com
+0.0.0.0 www.publift.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13811,7 +13895,6 @@
 0.0.0.0 novaonxsupport.novaonx.com
 0.0.0.0 registry.novaonx.com
 0.0.0.0 staging.novaonx.com
-0.0.0.0 support.novaonx.com
 0.0.0.0 www.novaonx.com
 #[coccoc]
 0.0.0.0 ads-target.coccoc.com
@@ -14050,7 +14133,6 @@
 0.0.0.0 hb.gammaplatform.com
 0.0.0.0 imp.gammaplatform.com
 0.0.0.0 in-view.gammaplatform.com
-0.0.0.0 login.gammaplatform.com
 0.0.0.0 static.gammaplatform.com
 0.0.0.0 stc.gammaplatform.com
 0.0.0.0 t.gammaplatform.com
@@ -14447,7 +14529,6 @@
 0.0.0.0 sp-api.dable.io
 0.0.0.0 sp-r.dable.io
 0.0.0.0 static.dable.io
-0.0.0.0 support.dable.io
 0.0.0.0 thumb.dable.io
 0.0.0.0 www.dable.io
 #[adbro]
@@ -14573,6 +14654,10 @@
 0.0.0.0 dev.mobilead.vn
 0.0.0.0 m.mobilead.vn
 0.0.0.0 mobilead.vn
+#[hbplatform.com]
+0.0.0.0 cdn.hbplatform.com
+0.0.0.0 hbplatform.com
+0.0.0.0 static.hbplatform.com
 # --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com
@@ -15828,7 +15913,6 @@
 0.0.0.0 appflood.com
 0.0.0.0 appia.com
 0.0.0.0 appier.com
-0.0.0.0 appnexus.com
 0.0.0.0 appolicious.com
 0.0.0.0 apprebates.com
 0.0.0.0 appredeem.com
@@ -16495,7 +16579,6 @@
 0.0.0.0 emediate.eu
 0.0.0.0 emerse.com
 0.0.0.0 emonitor.takeit.cz
-0.0.0.0 emxdgt.com
 0.0.0.0 emxdigital.com
 0.0.0.0 en25.com
 0.0.0.0 encouragingwilderness.com

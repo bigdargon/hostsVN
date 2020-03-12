@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 12 Mar 2020 13:38 UTC+7
-! Version: 2003121338
-! Blocked: 5,729 rules
+! Last modified: 12 Mar 2020 14:19 UTC+7
+! Version: 2003121419
+! Blocked: 5,737 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -46,6 +46,7 @@
 ||ezimar.com^
 ||fff.com.vn^
 ||gammaplatform.com^
+||hbplatform.com^
 ||itim.vn^
 ||klick.vn^
 ||ladipage.com^
@@ -337,7 +338,6 @@
 ||quangcaotructuyen247.com^
 ||sukientraogiaizalo.com^
 ||xmobliefacebook.com^
-||collective-media.net^
 ||152media.com^
 ||1rx.io^
 ||2leep.com^
@@ -441,6 +441,7 @@
 ||adsintl.starwave.com^
 ||adskeeper.co.uk^
 ||adsnative.com^
+||adsparc.com^
 ||adspirit.de^
 ||adspruce.com^
 ||adspsp.com^
@@ -526,6 +527,7 @@
 ||applovin.com^
 ||applvn.com^
 ||appnext.com^
+||appnexus.com^
 ||appodealx.com^
 ||appsee.com^
 ||apptentive.com^
@@ -563,6 +565,7 @@
 ||beverly-downing.xyz^
 ||bfmio.com^
 ||bidfilter.com^
+||bidgear-dsp.network^
 ||bidr.io^
 ||bidswitch.net^
 ||bigclicker.me^
@@ -580,6 +583,7 @@
 ||brand.ad^
 ||breaktime-inc.com^
 ||breaktime.com.tw^
+||brealtime.com^
 ||bs.yandex.ru^
 ||btrace.video.qq.com^
 ||bttrack.com^
@@ -602,6 +606,7 @@
 ||cint.com^
 ||cintnetworks.com^
 ||cj1*.online^
+||clarium.io^
 ||clcktrax.com^
 ||clean.gg^
 ||clevertap.com^
@@ -623,6 +628,7 @@
 ||cnt.my^
 ||cnzz.com^
 ||collection-*.herokuapp.com^
+||collective-media.net^
 ||commerce.adobedtm.com^
 ||conf.international.baidu.com^
 ||connect.adobedtm.com^
@@ -672,6 +678,7 @@
 ||effectivemeasure.net^
 ||ej1*.online^
 ||ematicsolutions.com^
+||emxdgt.com^
 ||engageya.com^
 ||epom.com^
 ||events.data.microsoft.com^
@@ -695,6 +702,7 @@
 ||fqtag.com^
 ||freshmarketer.com^
 ||fullstory.com^
+||fuseplatform.net^
 ||fwmrm.net^
 ||fyber.com^
 ||gads*s.com^
@@ -822,6 +830,7 @@
 ||marinsm.com^
 ||marketo.com^
 ||marketolive.com^
+||marphezis.com^
 ||mathtag.com^
 ||matomo.cloud^
 ||mc.yandex.ru^
@@ -938,6 +947,7 @@
 ||proper.io^
 ||pub.network^
 ||pubexchange.com^
+||publift.com^
 ||pubmatic.com^
 ||pubmine.com^
 ||pubnative.net^
@@ -2181,7 +2191,6 @@
 ||appflood.com^
 ||appia.com^
 ||appier.com^
-||appnexus.com^
 ||appolicious.com^
 ||apprebates.com^
 ||appredeem.com^
@@ -2848,7 +2857,6 @@
 ||emediate.eu^
 ||emerse.com^
 ||emonitor.takeit.cz^
-||emxdgt.com^
 ||emxdigital.com^
 ||en25.com^
 ||encouragingwilderness.com^

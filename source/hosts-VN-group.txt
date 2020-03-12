@@ -185,7 +185,6 @@
 0.0.0.0 novaonxsupport.novaonx.com
 0.0.0.0 registry.novaonx.com
 0.0.0.0 staging.novaonx.com
-0.0.0.0 support.novaonx.com
 0.0.0.0 www.novaonx.com
 #[coccoc]
 0.0.0.0 ads-target.coccoc.com
@@ -424,7 +423,6 @@
 0.0.0.0 hb.gammaplatform.com
 0.0.0.0 imp.gammaplatform.com
 0.0.0.0 in-view.gammaplatform.com
-0.0.0.0 login.gammaplatform.com
 0.0.0.0 static.gammaplatform.com
 0.0.0.0 stc.gammaplatform.com
 0.0.0.0 t.gammaplatform.com
@@ -821,7 +819,6 @@
 0.0.0.0 sp-api.dable.io
 0.0.0.0 sp-r.dable.io
 0.0.0.0 static.dable.io
-0.0.0.0 support.dable.io
 0.0.0.0 thumb.dable.io
 0.0.0.0 www.dable.io
 #[adbro]
@@ -947,3 +944,7 @@
 0.0.0.0 dev.mobilead.vn
 0.0.0.0 m.mobilead.vn
 0.0.0.0 mobilead.vn
+#[hbplatform.com]
+0.0.0.0 cdn.hbplatform.com
+0.0.0.0 hbplatform.com
+0.0.0.0 static.hbplatform.com
