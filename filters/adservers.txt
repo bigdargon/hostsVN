@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 12 Mar 2020 14:19 UTC+7
-! Version: 2003121419
-! Blocked: 333 rules
+! Last modified: 12 Mar 2020 15:35 UTC+7
+! Version: 2003121535
+! Blocked: 335 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -77,6 +77,7 @@
 ||nt-cdn.coccoc.com^
 ||ohchat.net^
 ||phanquang.vn^
+||philacct.com^
 ||pinetech.vn^
 ||polyad.net^
 ||px.za.zaloapp.com^
@@ -90,6 +91,7 @@
 ||shop.zalo.me^
 ||shop.zaloapp.com^
 ||shopping.coccoc.com^
+||sourcetobin.com^
 ||sp.zalo.me^
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
