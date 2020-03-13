@@ -132,10 +132,10 @@ advertising.apple.com
 advertising.com
 advertising.snapchat.com
 advertising.yahoo.com
-advertising.yandex.ru
 advertnative.com
 advertserve.com
 adview.cn
+advinci.net
 adx1.com
 adxcorp.kr
 adxxx.com
@@ -151,7 +151,6 @@ ajgc1*.online
 ajx*.online
 akaads*.starwave.com
 alcmpn.com
-alert-*.club
 alexametrics.com
 alphonso.tv
 amazon-adsystem.amazon.com
@@ -166,6 +165,7 @@ an.yandex.ru
 analy.qq.com
 analytics.go.com
 analytics.google.com
+analytics.mobile.yandex.net
 analytics.msn.com
 analytics.query.yahoo.com
 analytics.snssdk.com
@@ -190,6 +190,8 @@ applifier.info
 applog.snssdk.com
 applovin.com
 applvn.com
+appmetrica.yandex.com
+appmetrica.yandex.net
 appnext.com
 appnexus.com
 appodealx.com
@@ -208,13 +210,16 @@ assets.adobedtm.com
 assoc-amazon.com
 atdmt.com
 avazutracking.net
+awaps.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
 ayads.co
 b2c.com
 backtrace.io
 bam-x.com
+banners-slb.mobile.yandex.net
 banners.itunes.apple.com
+banners.mobile.yandex.net
 bannertrack.net
 bat.bing.com
 batch.com
@@ -271,6 +276,7 @@ cint.com
 cintnetworks.com
 cj1*.online
 clarium.io
+clck.yandex.com
 clcktrax.com
 clean.gg
 clevertap.com
@@ -314,6 +320,17 @@ criteo.net
 crwdcntrl.net
 customad.cnn.com
 cxense.com
+d1ros97qkrwjf5.cloudfront.net
+d1v373ntykegkp.cloudfront.net
+d26tbbq8zqdi4v.cloudfront.net
+d2dq2ahtl5zl1z.cloudfront.net
+d2r173wcohmi6.cloudfront.net
+d2wbr3tthrn9lu.cloudfront.net
+d31j93rd8oukbv.cloudfront.net
+d31qbv1cthcecs.cloudfront.net
+d3luypns9uh4a4.cloudfront.net
+d47xnnr8b1rki.cloudfront.net
+d5nxst8fruw4z.cloudfront.net
 darfilms.com
 data.alexa.com
 dc-1.net
@@ -334,6 +351,7 @@ doublemax.net
 doublepimp.com
 doubleverify.com
 dpmsrv.com
+dql2sdu63f1cw.cloudfront.net
 dspmulti.com
 duapps.com
 dxp.baidu.com
@@ -353,6 +371,7 @@ exit-ad.com
 exoclick.com
 exosrv.com
 exponential.com
+external-promo-metrics.yandex.net
 ezoic.net
 fabric.io
 fads*s.com
@@ -414,6 +433,7 @@ iad.apple.com
 iadsdk.apple.com
 iap.unity3d.com
 ibillboard.com
+id5-sync.com
 iesnare.com
 ilyonanalytics.herokuapp.com
 im-apps.net
@@ -554,7 +574,7 @@ nexage.com
 nextsmarty.com
 ngads.go.com
 nixozz.com
-notification-*.club
+nr-data.net
 ns1p.net
 nsclick.baidu.com
 nxtck.com
@@ -627,10 +647,12 @@ reklamstore.com
 remarketingpixel.com
 remotead-internal.cnet.com
 remotead.cnet.com
+report.appmetrica.yandex.net
 revcontent.com
 revive-adserver.com
 rfihub.com
 rmp.rakuten.com
+rosenberg.appmetrica.yandex.net
 rtapplog.snssdk.com
 rtbid.me
 rtlog.isnssdk.com
@@ -733,6 +755,7 @@ urbanairship.com
 urekamedia.com
 useinsider.com
 usp1.baidu.com
+vdo.ai
 vdopia.com
 vicksot.com
 videohub.tv
@@ -746,6 +769,9 @@ vungle.com
 w88.go.com
 weborama.com
 webtrends.com
+webvisor.com
+webvisor.org
+webvisor.ru
 woopra.com
 wootric.com
 wpu.sh
@@ -1738,7 +1764,7 @@ advertwizard.com
 advfromnwl.com
 advideo.uimserv.net
 adview.ppro.de
-advinci.net
+advinci.co
 advisormedia.cz
 adviva.com
 adviva.net
@@ -3979,6 +4005,7 @@ teethfan.com
 teliad.de
 temelio.com
 tendertest.com
+terrapsps.com
 terriblethumb.com
 terribleturkey.com
 test.com
@@ -4630,6 +4657,7 @@ chinatlz.com
 cinemaedvd.com
 ckidkina.ru
 client-analytics.braintreegateway.com
+cmp.dmgmediaprivacy.co.uk
 cn-lushan.com
 collector.leaddyno.com
 commissioncrusher.com
@@ -5380,6 +5408,7 @@ zztxdown.com
 !
 ! --- Block other scamVN ---
 !
+alert-*.club
 applelink.store
 fmiphone-apple.com
 fortt-rade.com
@@ -5391,6 +5420,9 @@ iphone-notice.com
 iphone-notification.com
 ladsblue.com
 mysp.ac
+notice-*.club
+notice-*.site
+notification-*.club
 phone-notices.com
 phone-notification.com
 phone-notification.online

@@ -967,7 +967,7 @@
 0.0.0.0 advfromnwl.com
 0.0.0.0 advideo.uimserv.net
 0.0.0.0 adview.ppro.de
-0.0.0.0 advinci.net
+0.0.0.0 advinci.co
 0.0.0.0 advisormedia.cz
 0.0.0.0 adviva.com
 0.0.0.0 adviva.net
@@ -3207,6 +3207,7 @@
 0.0.0.0 teliad.de
 0.0.0.0 temelio.com
 0.0.0.0 tendertest.com
+0.0.0.0 terrapsps.com
 0.0.0.0 terriblethumb.com
 0.0.0.0 terribleturkey.com
 0.0.0.0 test.com
@@ -3530,7 +3531,7 @@
 0.0.0.0 www.adsluna.com
 0.0.0.0 www.adstune.com
 0.0.0.0 www.adtilt.com
-0.0.0.0 www.advinci.net
+0.0.0.0 www.advinci.co
 0.0.0.0 www.allmygoodlife.com
 0.0.0.0 www.antiviruspro-vietnam.info
 0.0.0.0 www.arkonziv.com
@@ -3915,6 +3916,7 @@
 0.0.0.0 cinemaedvd.com
 0.0.0.0 ckidkina.ru
 0.0.0.0 client-analytics.braintreegateway.com
+0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cn-lushan.com
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 commissioncrusher.com
@@ -4720,3 +4722,29 @@
 0.0.0.0 www.view-apple.com
 0.0.0.0 www.view-appleid.com
 0.0.0.0 zhangtom1989.cn
+#[alert-*.club]
+0.0.0.0 alert-booster.club
+0.0.0.0 alert-cellphone.club
+0.0.0.0 alert-cleaner.club
+0.0.0.0 alert-device.club
+0.0.0.0 alert-fix.club
+0.0.0.0 alert-fixer.club
+0.0.0.0 alert-iphone.club
+0.0.0.0 alert-phone.club
+#[notification-*.club]
+0.0.0.0 notification-booster.club
+0.0.0.0 notification-cellphone.club
+0.0.0.0 notification-cleaner.club
+0.0.0.0 notification-device.club
+0.0.0.0 notification-fix.club
+0.0.0.0 notification-fixer.club
+0.0.0.0 notification-iphone.club
+0.0.0.0 notification-phone.club
+#[notice-*.club]
+0.0.0.0 notice-cellphone.club
+0.0.0.0 notice-device.club
+0.0.0.0 notice-iphone.club
+0.0.0.0 notice-phone.club
+#[notice-*.site]
+0.0.0.0 notice-booster.site
+0.0.0.0 notice-fix.site
