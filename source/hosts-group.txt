@@ -13535,3 +13535,49 @@
 #[partnershipsprogram.com]
 0.0.0.0 partnershipsprogram.com
 0.0.0.0 js.partnershipsprogram.com
+#[spotscenered.info]
+0.0.0.0 cdn.engine.spotscenered.info
+0.0.0.0 cdn.spotscenered.info
+0.0.0.0 engine.spotscenered.info
+0.0.0.0 spotscenered.info
+#[awaps.net]
+0.0.0.0 awaps.net
+0.0.0.0 engine.awaps.net
+0.0.0.0 www.awaps.net
+#[optvx.com]
+0.0.0.0 m.optvx.com
+0.0.0.0 main.optvx.com
+0.0.0.0 optvx.com
+0.0.0.0 s.optvx.com
+#[adreach.me]
+0.0.0.0 adreach.me
+0.0.0.0 www.adreach.me
+0.0.0.0 xml.adreach.me
+#[adright.com]
+0.0.0.0 adright.com
+0.0.0.0 platform.adright.com
+0.0.0.0 static.adright.com
+0.0.0.0 www.adright.com
+#[adservme.com]
+0.0.0.0 ads.adservme.com
+0.0.0.0 adservme.com
+0.0.0.0 dsp.adservme.com
+0.0.0.0 filter.adservme.com
+0.0.0.0 rtb.adservme.com
+0.0.0.0 rtb-apac.adservme.com
+0.0.0.0 rtb-eu.adservme.com
+0.0.0.0 rtb-g.adservme.com
+0.0.0.0 rtb-uswest.adservme.com
+0.0.0.0 ssp.adservme.com
+0.0.0.0 static.adservme.com
+0.0.0.0 uswest.rtb.adservme.com
+0.0.0.0 www.adservme.com
+0.0.0.0 xml.adservme.com
+0.0.0.0 xml-g.adservme.com
+#[revrtb.com]
+0.0.0.0 filter.revrtb.com
+0.0.0.0 push.revrtb.com
+0.0.0.0 revrtb.com
+0.0.0.0 static.revrtb.com
+0.0.0.0 www.revrtb.com
+0.0.0.0 xml.revrtb.com

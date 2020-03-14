@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Mar 2020 22:25 UTC+7
-# Version: 2003142225
-# Blocked: 18,862 domains
+# Last modified: 14 Mar 2020 23:26 UTC+7
+# Version: 2003142326
+# Blocked: 18,893 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12953,6 +12953,45 @@
 0 www.agkn.com
 0 partnershipsprogram.com
 0 js.partnershipsprogram.com
+0 cdn.engine.spotscenered.info
+0 cdn.spotscenered.info
+0 engine.spotscenered.info
+0 spotscenered.info
+0 awaps.net
+0 engine.awaps.net
+0 www.awaps.net
+0 m.optvx.com
+0 main.optvx.com
+0 optvx.com
+0 s.optvx.com
+0 adreach.me
+0 www.adreach.me
+0 xml.adreach.me
+0 adright.com
+0 platform.adright.com
+0 static.adright.com
+0 www.adright.com
+0 ads.adservme.com
+0 adservme.com
+0 dsp.adservme.com
+0 filter.adservme.com
+0 rtb.adservme.com
+0 rtb-apac.adservme.com
+0 rtb-eu.adservme.com
+0 rtb-g.adservme.com
+0 rtb-uswest.adservme.com
+0 ssp.adservme.com
+0 static.adservme.com
+0 uswest.rtb.adservme.com
+0 www.adservme.com
+0 xml.adservme.com
+0 xml-g.adservme.com
+0 filter.revrtb.com
+0 push.revrtb.com
+0 revrtb.com
+0 static.revrtb.com
+0 www.revrtb.com
+0 xml.revrtb.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14071,6 +14110,7 @@
 0 fuckbookvietnam.com
 0 hashearog.com
 0 quangcaotructuyen247.com
+0 rituationscardb.info
 0 sacchaeleduk.com
 0 sukientraogiaizalo.com
 0 www.fuckbookvietnam.com
@@ -14462,7 +14502,6 @@
 0 ads.adadapted.com
 0 ads.adfox.ru
 0 ads.administrator.de
-0 ads.adservme.com
 0 ads.adshareware.net
 0 ads.adstream.com.ro
 0 ads.adultfriendfinder.com
@@ -14936,7 +14975,6 @@
 0 adserversolutions.com
 0 adserving.unibet.com
 0 adservinginternational.com
-0 adservme.com
 0 adsfac.eu
 0 adsfac.net
 0 adsfac.us
@@ -15122,6 +15160,7 @@
 0 aim4media.com
 0 aimaniape.club
 0 aimaptair.club
+0 airartapt.site
 0 airpush.com
 0 aistat.net
 0 ajouter.net
@@ -15493,7 +15532,6 @@
 0 cdn.freefacti.com
 0 cdn.freefarcy.com
 0 cdn.ravenjs.com
-0 cdn.spotscenered.info
 0 cdnondemand.org
 0 cdnproviders.net
 0 cdnstoremedia.com
@@ -15844,11 +15882,10 @@
 0 emxdigital.com
 0 en25.com
 0 encouragingwilderness.com
+0 encoursejaso.site
 0 endurableshop.com
 0 engagebdr.com
-0 engine.awaps.net
 0 engine.espace.netavenir.com
-0 engine.spotscenered.info
 0 enginenetwork.com
 0 enlarget.com
 0 enoratraffic.com
@@ -16189,8 +16226,6 @@
 0 inventionpassenger.com
 0 inviterabbits.com
 0 invitesugar.com
-0 ip.ro
-0 ip193.cn
 0 ipro.com
 0 ireklama.cz
 0 itfarm.com
@@ -16335,6 +16370,7 @@
 0 magnificentmist.com
 0 malware-scan.com
 0 manage.com
+0 mancehostic.site
 0 maplefarmmedia.com
 0 mappealist.club
 0 marchex.com
@@ -16650,6 +16686,7 @@
 0 ortshk.tapas.net
 0 ota.cartrawler.com
 0 otto-images.developershed.com
+0 ousseventi.info
 0 out-there-media.com
 0 overture.com
 0 owebmoney.ru
@@ -16815,6 +16852,7 @@
 0 protraffic.com
 0 provalist.info
 0 provexia.com
+0 providentsopport.site
 0 provideplant.com
 0 prsitecheck.com
 0 ps.ns-cdn.com
@@ -16942,7 +16980,6 @@
 0 revenue.net
 0 revenuedirect.com
 0 revmob.com
-0 revrtb.com
 0 revsci.net
 0 revstats.com
 0 rhythmnewmedia.com
@@ -16954,7 +16991,6 @@
 0 rightmedia.com
 0 rightstats.com
 0 ringsrecord.com
-0 rituationscardb.info
 0 ritzykey.com
 0 ritzysponge.com
 0 riverhit.com
@@ -17144,7 +17180,6 @@
 0 sponsorpro.de
 0 sponsors.thoughtsmedia.com
 0 spot.fitness.com
-0 spotscenered.info
 0 spottysense.com
 0 spotx.tv
 0 springaftermath.com
@@ -17694,10 +17729,6 @@
 0 xg4ken.com
 0 xiti.com
 0 xius.com
-0 xml.adreach.me
-0 xml.adright.com
-0 xml.adservme.com
-0 xml.revrtb.com
 0 xovq5nemr.com
 0 xplusone.com
 0 xponsor.com
