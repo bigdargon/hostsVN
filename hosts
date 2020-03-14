@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Mar 2020 15:16 UTC+7
-# Version: 2003131516
-# Blocked: 18,846 domains
+# Last modified: 14 Mar 2020 22:25 UTC+7
+# Version: 2003142225
+# Blocked: 18,862 domains
 # Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10296,59 +10296,6 @@
 0.0.0.0 medusa-api.cbsileads.com
 0.0.0.0 static.cbsileads.com
 0.0.0.0 www.cbsileads.com
-#[cbsi.com]
-0.0.0.0 aa.cbsi.com
-0.0.0.0 adimg.cbsi.com
-0.0.0.0 adlog.cbsi.com
-0.0.0.0 apex.cbsi.com
-0.0.0.0 bwp.cbsi.com
-0.0.0.0 cbsi.com
-0.0.0.0 cbsiadops.cbsi.com
-0.0.0.0 cbsnews.cbsi.com
-0.0.0.0 cbssports.cbsi.com
-0.0.0.0 cnet.cbsi.com
-0.0.0.0 comicbook.cbsi.com
-0.0.0.0 ct.cbsi.com
-0.0.0.0 chowhound.cbsi.com
-0.0.0.0 darktrace.cbsi.com
-0.0.0.0 dw.cbsi.com
-0.0.0.0 etonline.cbsi.com
-0.0.0.0 fileupload.cbsi.com
-0.0.0.0 fonts.cbsi.com
-0.0.0.0 gamespot.cbsi.com
-0.0.0.0 i.d.cbsi.com
-0.0.0.0 i.i.cbsi.com
-0.0.0.0 i.n.cbsi.com
-0.0.0.0 i.t.cbsi.com
-0.0.0.0 i.techrepublic.cbsi.com
-0.0.0.0 image.cbsi.com
-0.0.0.0 img.cbsi.com
-0.0.0.0 insideedition.cbsi.com
-0.0.0.0 intent.cbsi.com
-0.0.0.0 isg.cbsi.com
-0.0.0.0 mads.cbsi.com
-0.0.0.0 maxpreps.cbsi.com
-0.0.0.0 news.cbsi.com
-0.0.0.0 om.cbsi.com
-0.0.0.0 origin-img.cbsi.com
-0.0.0.0 owl.cbsi.com
-0.0.0.0 popculture.cbsi.com
-0.0.0.0 phx1-mx.cbsi.com
-0.0.0.0 rev.cbsi.com
-0.0.0.0 ricochet.cbsi.com
-0.0.0.0 rok.cbsi.com
-0.0.0.0 saa.cbsi.com
-0.0.0.0 scout.cbsi.com
-0.0.0.0 som.cbsi.com
-0.0.0.0 staging-mobilecms.cbsi.com
-0.0.0.0 tableau.cbsi.com
-0.0.0.0 techrepublic.cbsi.com
-0.0.0.0 tv.cbsi.com
-0.0.0.0 tvguide.cbsi.com
-0.0.0.0 truyopoc.cbsi.com
-0.0.0.0 wired2fish.cbsi.com
-0.0.0.0 www.cbsi.com
-0.0.0.0 zdnet.cbsi.com
 #[cbsinteractive.com]
 0.0.0.0 adops.cbsinteractive.com
 0.0.0.0 adportal.cbsinteractive.com
@@ -13554,6 +13501,52 @@
 0.0.0.0 advinci.net
 0.0.0.0 count.advinci.net
 0.0.0.0 www.advinci.net
+#[trafficfactory.biz]
+0.0.0.0 analytics.trafficfactory.biz
+0.0.0.0 assets-main.trafficfactory.biz
+0.0.0.0 cdn.trafficfactory.biz
+0.0.0.0 cdnegc.trafficfactory.biz
+0.0.0.0 cdnrgc.trafficfactory.biz
+0.0.0.0 data.trafficfactory.biz
+0.0.0.0 data-public.trafficfactory.biz
+0.0.0.0 dev-design.trafficfactory.biz
+0.0.0.0 front-dev-php.trafficfactory.biz
+0.0.0.0 lkm-admin.trafficfactory.biz
+0.0.0.0 main.trafficfactory.biz
+0.0.0.0 media.trafficfactory.biz
+0.0.0.0 php.trafficfactory.biz
+0.0.0.0 randy-maugans.trafficfactory.biz
+0.0.0.0 rcp-php.trafficfactory.biz
+0.0.0.0 rpc.phc.trafficfactory.biz
+0.0.0.0 rpc.trafficfactory.biz
+0.0.0.0 rpc-dev-php.trafficfactory.biz
+0.0.0.0 rpc-pac.trafficfactory.biz
+0.0.0.0 rpc-php.trafficfactory.biz
+0.0.0.0 store.trafficfactory.biz
+0.0.0.0 trafficfactory.biz
+0.0.0.0 www.trafficfactory.biz
+#[agkn.com]
+0.0.0.0 aa.agkn.com
+0.0.0.0 ad.agkn.com
+0.0.0.0 agkn.com
+0.0.0.0 d.agkn.com
+0.0.0.0 data.agkn.com
+0.0.0.0 distro.agkn.com
+0.0.0.0 expn.agkn.com
+0.0.0.0 g.agkn.com
+0.0.0.0 js.agkn.com
+0.0.0.0 m.agkn.com
+0.0.0.0 main.js.agkn.com
+0.0.0.0 management-api.agkn.com
+0.0.0.0 m-tomorrow.agkn.com
+0.0.0.0 mver.agkn.com
+0.0.0.0 pbbl.agkn.com
+0.0.0.0 pixel.agkn.com
+0.0.0.0 static.agkn.com
+0.0.0.0 www.agkn.com
+#[partnershipsprogram.com]
+0.0.0.0 partnershipsprogram.com
+0.0.0.0 js.partnershipsprogram.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14739,6 +14732,7 @@
 0.0.0.0 fuckbookvietnam.com
 0.0.0.0 hashearog.com
 0.0.0.0 quangcaotructuyen247.com
+0.0.0.0 sacchaeleduk.com
 0.0.0.0 sukientraogiaizalo.com
 0.0.0.0 www.fuckbookvietnam.com
 0.0.0.0 www.quangcaotructuyen247.com
@@ -14773,6 +14767,7 @@
 0.0.0.0 aboardlevel.com
 0.0.0.0 abruptroad.com
 0.0.0.0 absentstream.com
+0.0.0.0 abserv123.com
 0.0.0.0 absoluteclickscom.com
 0.0.0.0 absorbingband.com
 0.0.0.0 absurdwater.com
@@ -15011,6 +15006,7 @@
 0.0.0.0 adimages.homestore.com
 0.0.0.0 adimages.omroepzeeland.nl
 0.0.0.0 adimages.sanomawsoy.fi
+0.0.0.0 adimg.cbsi.com
 0.0.0.0 adimg.com.com
 0.0.0.0 adimg.net
 0.0.0.0 adimg.uimserv.net
@@ -15044,6 +15040,7 @@
 0.0.0.0 adlike.net
 0.0.0.0 adlink.de
 0.0.0.0 adlite.net
+0.0.0.0 adlog.cbsi.com
 0.0.0.0 adloox.com
 0.0.0.0 adlooxtracking.com
 0.0.0.0 adlure.net
@@ -15675,6 +15672,8 @@
 0.0.0.0 adunion.tapas.net
 0.0.0.0 adv-adserver.com
 0.0.0.0 adv-banner.libero.it
+0.0.0.0 adv-sv-show.focus.cn
+0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 adv.cooperhosting.net
 0.0.0.0 adv.freeonline.it
 0.0.0.0 adv.hwupgrade.it
@@ -15781,7 +15780,9 @@
 0.0.0.0 ahalogy.com
 0.0.0.0 aheadday.com
 0.0.0.0 aidu-ads.de
+0.0.0.0 ailalbapt.club
 0.0.0.0 aim4media.com
+0.0.0.0 aimaniape.club
 0.0.0.0 aimaptair.club
 0.0.0.0 airpush.com
 0.0.0.0 aistat.net
@@ -15959,6 +15960,7 @@
 0.0.0.0 banners.asiafriendfinder.com
 0.0.0.0 banners.audioholics.com
 0.0.0.0 banners.babylon-x.com
+0.0.0.0 banners.binary.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.clubseventeen.com
@@ -16026,6 +16028,7 @@
 0.0.0.0 bestboundary.com
 0.0.0.0 bestsearch.net
 0.0.0.0 beta.ads.cc
+0.0.0.0 bethanyharrell.pro
 0.0.0.0 bewilderedblade.com
 0.0.0.0 bhclicks.com
 0.0.0.0 bhcumsc.com
@@ -16371,6 +16374,7 @@
 0.0.0.0 cybermonitor.com
 0.0.0.0 d.appsdt.com
 0.0.0.0 d2cmedia.ca
+0.0.0.0 dadslims.com
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 damdoor.com
 0.0.0.0 danban.com
@@ -16454,6 +16458,7 @@
 0.0.0.0 drydrum.com
 0.0.0.0 dsp.io
 0.0.0.0 dynamic.fmpub.net
+0.0.0.0 dynamicadx.com
 0.0.0.0 dyntrk.com
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 e-bannerx.com
@@ -16869,6 +16874,7 @@
 0.0.0.0 joneself.com
 0.0.0.0 js.hsforms.net
 0.0.0.0 js.spotx.tv
+0.0.0.0 jugjetwok.com
 0.0.0.0 julysystems.com
 0.0.0.0 jumptap.com
 0.0.0.0 justicejudo.com
@@ -16879,6 +16885,7 @@
 0.0.0.0 kargo.com
 0.0.0.0 karisimbi.net
 0.0.0.0 karonty.com
+0.0.0.0 keapeiros.xyz
 0.0.0.0 ketchapp.org
 0.0.0.0 keymedia.hu
 0.0.0.0 keynotedeviceanywhere.com
@@ -17146,6 +17153,7 @@
 0.0.0.0 muwmedia.com
 0.0.0.0 myadsystem.com
 0.0.0.0 myaffiliateprogram.com
+0.0.0.0 myaffiliates.com
 0.0.0.0 mybestmv.com
 0.0.0.0 mybloglog.com
 0.0.0.0 mybuys.com
@@ -17491,7 +17499,9 @@
 0.0.0.0 pushazer.com
 0.0.0.0 pushengage.com
 0.0.0.0 pushlaram.com
+0.0.0.0 pushlum.com
 0.0.0.0 pushno.com
+0.0.0.0 pushokey.com
 0.0.0.0 puzzlingfall.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 q.azcentral.com
@@ -17561,6 +17571,7 @@
 0.0.0.0 record.affiliates.karjalakasino.com
 0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.mrwin.com
+0.0.0.0 redirect2719.ws
 0.0.0.0 redirectvoluum.com
 0.0.0.0 redmas.com
 0.0.0.0 reduxmedia.com
@@ -18066,7 +18077,6 @@
 0.0.0.0 trafficadept.com
 0.0.0.0 trafficads.net
 0.0.0.0 trafficcdn.liveuniversenetwork.com
-0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficgate.net
 0.0.0.0 trafficholder.com
 0.0.0.0 traffichunt.com
@@ -18273,6 +18283,7 @@
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www.ad-spb.ru
 0.0.0.0 www.adexchangetracker.com
+0.0.0.0 www.adnetworkperformance.com
 0.0.0.0 www.ads24h.net
 0.0.0.0 www.adsluna.com
 0.0.0.0 www.adstune.com
@@ -18295,6 +18306,7 @@
 0.0.0.0 www.cpm-ad.com
 0.0.0.0 www.dexchangenic.com
 0.0.0.0 www.dnps.com
+0.0.0.0 www.dynamicadx.com
 0.0.0.0 www.ecpms.net
 0.0.0.0 www.eo62cocntx.com
 0.0.0.0 www.epi0tzwi.com
@@ -18323,6 +18335,7 @@
 0.0.0.0 www.powerad.ai
 0.0.0.0 www.pro-ads.club
 0.0.0.0 www.push-notifications.top
+0.0.0.0 www.redirect2719.ws
 0.0.0.0 www.rmiesnorthur.pro
 0.0.0.0 www.routeserve.info
 0.0.0.0 www.statsy.net
@@ -18332,6 +18345,7 @@
 0.0.0.0 www.velocitycdn.com
 0.0.0.0 www.vidcpm.com
 0.0.0.0 www.webtrendslive.com
+0.0.0.0 www.zap.buzz
 0.0.0.0 www.zekiatagur.com
 0.0.0.0 x-traceur.com
 0.0.0.0 x6.yakiuchi.com
@@ -18383,6 +18397,7 @@
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 zanox.com
 0.0.0.0 zantracker.com
+0.0.0.0 zap.buzz
 0.0.0.0 zbwp6ghm.com
 0.0.0.0 zealousfield.com
 0.0.0.0 zedo.com
@@ -18447,7 +18462,6 @@
 0.0.0.0 54fangtan.com
 0.0.0.0 54ly.com
 0.0.0.0 567bbl.com
-0.0.0.0 5689.nl
 0.0.0.0 56hj.cn
 0.0.0.0 5xian8.com
 0.0.0.0 61gamei.com
@@ -18810,6 +18824,7 @@
 0.0.0.0 foxionserl.com
 0.0.0.0 freemasstraffic.com
 0.0.0.0 freightmatellc.com
+0.0.0.0 frog.wix.com
 0.0.0.0 fs-11.com
 0.0.0.0 future.grapeshot.co.uk
 0.0.0.0 fxpcw.com
@@ -18901,6 +18916,7 @@
 0.0.0.0 ink.churchofthefreespirit.com
 0.0.0.0 innatek.com
 0.0.0.0 install.securesoft.info
+0.0.0.0 intent.cbsi.com
 0.0.0.0 intercom.io
 0.0.0.0 intercomcdn.com
 0.0.0.0 interfere.marionunezcampusano.com
@@ -18925,7 +18941,6 @@
 0.0.0.0 jquery-framework.com
 0.0.0.0 jqueryjsscript.ru
 0.0.0.0 js-cdn.dynatrace.com
-0.0.0.0 js.5689.nl
 0.0.0.0 js.idio.co
 0.0.0.0 js.maxmind.com
 0.0.0.0 js.securesoft.info
@@ -19066,6 +19081,7 @@
 0.0.0.0 ohhdear.org
 0.0.0.0 ojakobi.de
 0.0.0.0 okboobs.com
+0.0.0.0 om.cbsi.com
 0.0.0.0 omgates.com
 0.0.0.0 opensharecount.com
 0.0.0.0 ophan.theguardian.com
@@ -19108,6 +19124,7 @@
 0.0.0.0 prosperity.charifree.org
 0.0.0.0 ptrack.betaout.com
 0.0.0.0 publicandolo.com
+0.0.0.0 pv.sohu.com
 0.0.0.0 q2melbourne.com
 0.0.0.0 qabbanihost.com
 0.0.0.0 qgmmrvbqwlouglqggi.com
@@ -19260,6 +19277,7 @@
 0.0.0.0 tr-gdz.ru
 0.0.0.0 track.omg543.com
 0.0.0.0 track.publeadmedia.com
+0.0.0.0 track.sohu.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 trackcmp.net
 0.0.0.0 tracker.mtrtb.com

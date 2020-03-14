@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 13 Mar 2020 15:16 UTC+7
-! Version: 2003131516
-! Blocked: 5,768 rules
+! Last modified: 14 Mar 2020 22:25 UTC+7
+! Version: 2003142225
+! Blocked: 5,791 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -341,6 +341,7 @@
 ||fuckbookvietnam.com^
 ||hashearog.com^
 ||quangcaotructuyen247.com^
+||sacchaeleduk.com^
 ||sukientraogiaizalo.com^
 ||xmobliefacebook.com^
 ||152media.com^
@@ -487,6 +488,7 @@
 ||affcpatrack.com^
 ||affise.com^
 ||agentanalytics.com^
+||agkn.com^
 ||aj1*.online^
 ||ajgc1*.online^
 ||ajx*.online^
@@ -602,7 +604,6 @@
 ||c.bing.com^
 ||cacafly.net^
 ||casalemedia.com^
-||cbsi.com^
 ||cbsileads.com^
 ||cbsinteractive.com^
 ||cdnwidget.com^
@@ -940,6 +941,7 @@
 ||parrable.com^
 ||parsely.com^
 ||partnerad.l.google.com^
+||partnershipsprogram.com^
 ||perimeterx.net^
 ||persona.ly^
 ||petametrics.com^
@@ -1072,6 +1074,7 @@
 ||trace.qq.com^
 ||track.uc.cn^
 ||trackjs.com^
+||trafficfactory.biz^
 ||trafficjunky.net^
 ||trazk.com^
 ||treasuredata.com^
@@ -1162,6 +1165,7 @@
 ||aboardlevel.com^
 ||abruptroad.com^
 ||absentstream.com^
+||abserv123.com^
 ||absoluteclickscom.com^
 ||absorbingband.com^
 ||absurdwater.com^
@@ -1400,6 +1404,7 @@
 ||adimages.homestore.com^
 ||adimages.omroepzeeland.nl^
 ||adimages.sanomawsoy.fi^
+||adimg.cbsi.com^
 ||adimg.com.com^
 ||adimg.net^
 ||adimg.uimserv.net^
@@ -1433,6 +1438,7 @@
 ||adlike.net^
 ||adlink.de^
 ||adlite.net^
+||adlog.cbsi.com^
 ||adloox.com^
 ||adlooxtracking.com^
 ||adlure.net^
@@ -2064,6 +2070,8 @@
 ||adunion.tapas.net^
 ||adv-adserver.com^
 ||adv-banner.libero.it^
+||adv-sv-show.focus.cn^
+||adv-sv-stat.focus.cn^
 ||adv.cooperhosting.net^
 ||adv.freeonline.it^
 ||adv.hwupgrade.it^
@@ -2170,7 +2178,9 @@
 ||ahalogy.com^
 ||aheadday.com^
 ||aidu-ads.de^
+||ailalbapt.club^
 ||aim4media.com^
+||aimaniape.club^
 ||aimaptair.club^
 ||airpush.com^
 ||aistat.net^
@@ -2349,6 +2359,7 @@
 ||banners.asiafriendfinder.com^
 ||banners.audioholics.com^
 ||banners.babylon-x.com^
+||banners.binary.com^
 ||banners.bol.com.br^
 ||banners.cams.com^
 ||banners.clubseventeen.com^
@@ -2416,6 +2427,7 @@
 ||bestboundary.com^
 ||bestsearch.net^
 ||beta.ads.cc^
+||bethanyharrell.pro^
 ||bewilderedblade.com^
 ||bhclicks.com^
 ||bhcumsc.com^
@@ -2759,6 +2771,7 @@
 ||cybermonitor.com^
 ||d.appsdt.com^
 ||d2cmedia.ca^
+||dadslims.com^
 ||dakic-ia-300.com^
 ||damdoor.com^
 ||danban.com^
@@ -2843,6 +2856,7 @@
 ||drydrum.com^
 ||dsp.io^
 ||dynamic.fmpub.net^
+||dynamicadx.com^
 ||dyntrk.com^
 ||e-adimages.scrippsnetworks.com^
 ||e-bannerx.com^
@@ -3257,6 +3271,7 @@
 ||jokedollars.com^
 ||joneself.com^
 ||js.hsforms.net^
+||jugjetwok.com^
 ||julysystems.com^
 ||jumptap.com^
 ||justicejudo.com^
@@ -3268,6 +3283,7 @@
 ||kargo.com^
 ||karisimbi.net^
 ||karonty.com^
+||keapeiros.xyz^
 ||ketchapp.org^
 ||keymedia.hu^
 ||keynotedeviceanywhere.com^
@@ -3536,6 +3552,7 @@
 ||muwmedia.com^
 ||myadsystem.com^
 ||myaffiliateprogram.com^
+||myaffiliates.com^
 ||mybestmv.com^
 ||mybloglog.com^
 ||mybuys.com^
@@ -3882,7 +3899,9 @@
 ||pushazer.com^
 ||pushengage.com^
 ||pushlaram.com^
+||pushlum.com^
 ||pushno.com^
+||pushokey.com^
 ||puzzlingfall.com^
 ||px.dynamicyield.com^
 ||q.azcentral.com^
@@ -3952,6 +3971,7 @@
 ||record.affiliates.karjalakasino.com^
 ||record.bonniergaming.com^
 ||record.mrwin.com^
+||redirect2719.ws^
 ||redirectvoluum.com^
 ||redmas.com^
 ||reduxmedia.com^
@@ -4456,7 +4476,6 @@
 ||trafficadept.com^
 ||trafficads.net^
 ||trafficcdn.liveuniversenetwork.com^
-||trafficfactory.biz^
 ||trafficgate.net^
 ||trafficholder.com^
 ||traffichunt.com^
@@ -4711,6 +4730,7 @@
 ||zanox-affiliate.de^
 ||zanox.com^
 ||zantracker.com^
+||zap.buzz^
 ||zbwp6ghm.com^
 ||zealousfield.com^
 ||zedo.com^
@@ -4775,7 +4795,6 @@
 ||54fangtan.com^
 ||54ly.com^
 ||567bbl.com^
-||5689.nl^
 ||56hj.cn^
 ||5xian8.com^
 ||61gamei.com^
@@ -5141,6 +5160,7 @@
 ||foxionserl.com^
 ||freemasstraffic.com^
 ||freightmatellc.com^
+||frog.wix.com^
 ||fs-11.com^
 ||future.grapeshot.co.uk^
 ||fxpcw.com^
@@ -5234,6 +5254,7 @@
 ||ink.churchofthefreespirit.com^
 ||innatek.com^
 ||install.securesoft.info^
+||intent.cbsi.com^
 ||intercom.io^
 ||intercomcdn.com^
 ||interfere.marionunezcampusano.com^
@@ -5258,7 +5279,6 @@
 ||jquery-framework.com^
 ||jqueryjsscript.ru^
 ||js-cdn.dynatrace.com^
-||js.5689.nl^
 ||js.idio.co^
 ||js.maxmind.com^
 ||js.securesoft.info^
@@ -5402,6 +5422,7 @@
 ||ohhdear.org^
 ||ojakobi.de^
 ||okboobs.com^
+||om.cbsi.com^
 ||omgates.com^
 ||opensharecount.com^
 ||ophan.theguardian.com^
@@ -5444,6 +5465,7 @@
 ||prosperity.charifree.org^
 ||ptrack.betaout.com^
 ||publicandolo.com^
+||pv.sohu.com^
 ||q2melbourne.com^
 ||qabbanihost.com^
 ||qgmmrvbqwlouglqggi.com^
@@ -5600,6 +5622,7 @@
 ||tr-gdz.ru^
 ||track.omg543.com^
 ||track.publeadmedia.com^
+||track.sohu.com^
 ||track.tenjin.io^
 ||trackcmp.net^
 ||tracker.mtrtb.com^
