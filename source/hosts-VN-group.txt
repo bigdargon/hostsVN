@@ -1004,6 +1004,27 @@
 0.0.0.0 cdn.hbplatform.com
 0.0.0.0 hbplatform.com
 0.0.0.0 static.hbplatform.com
+#[fuseplatform.net]
+0.0.0.0 adasia.fuseplatform.net
+0.0.0.0 adfill.fuseplatform.net
+0.0.0.0 adireto.fuseplatform.net
+0.0.0.0 admin-portal.fuseplatform.net
+0.0.0.0 adop.fuseplatform.net
+0.0.0.0 ad-vanx.fuseplatform.net
+0.0.0.0 api.fuseplatform.net
+0.0.0.0 cdn.fuseplatform.net
+0.0.0.0 client-portal.fuseplatform.net
+0.0.0.0 demo.fuseplatform.net
+0.0.0.0 dqna.fuseplatform.net
+0.0.0.0 fluct.fuseplatform.net
+0.0.0.0 fuseplatform.net
+0.0.0.0 publift.fuseplatform.net
+0.0.0.0 rwadx.fuseplatform.net
+0.0.0.0 sph.fuseplatform.net
+0.0.0.0 staging.fuseplatform.net
+0.0.0.0 static.fuseplatform.net
+0.0.0.0 summitmedia.fuseplatform.net
+0.0.0.0 vidmatic.fuseplatform.net
 #[sourcetobin.com]
 0.0.0.0 sourcetobin.com
 0.0.0.0 static.sourcetobin.com
@@ -1021,3 +1042,20 @@
 0.0.0.0 dk.surfcountor.com
 0.0.0.0 pin.surfcountor.com
 0.0.0.0 surfcountor.com
+#[adsparc.com]
+0.0.0.0 adsparc.com
+0.0.0.0 play.adsparc.com
+0.0.0.0 prebid.adsparc.com
+0.0.0.0 publisher.adsparc.com
+0.0.0.0 pushad.adsparc.com
+0.0.0.0 video.adsparc.com
+0.0.0.0 vl2.adsparc.com
+0.0.0.0 vl3.adsparc.com
+0.0.0.0 vl4.adsparc.com
+0.0.0.0 vl5.adsparc.com
+0.0.0.0 vl6.adsparc.com
+0.0.0.0 vls.adsparc.com
+0.0.0.0 www.adsparc.com
+#[amcdn.vn]
+0.0.0.0 amcdn.vn
+0.0.0.0 static.amcdn.vn

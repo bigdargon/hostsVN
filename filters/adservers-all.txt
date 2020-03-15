@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 15 Mar 2020 16:46 UTC+7
-! Version: 2003151646
-! Blocked: 5,804 rules
+! Last modified: 15 Mar 2020 20:33 UTC+7
+! Version: 2003152033
+! Blocked: 5,803 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -19,8 +19,8 @@
 ||ads.hosting.vcmedia.vn^
 ||ads.zaloapp.com^
 ||ads.zdn.vn^
-||adservice.google.com.vn^
 ||adsota.com^
+||adsparc.com^
 ||adsplay.net^
 ||adsplay.xyz^
 ||adtima*.zadn.vn^
@@ -29,6 +29,7 @@
 ||aiservice.vn^
 ||ambient-platform.com^
 ||ambientplatform.vn^
+||amcdn.vn^
 ||anthill.vn^
 ||ants.vn^
 ||autoads.asia^
@@ -46,6 +47,7 @@
 ||eclick.vn^
 ||ezimar.com^
 ||fff.com.vn^
+||fuseplatform.net^
 ||gammaplatform.com^
 ||hbplatform.com^
 ||itim.vn^
@@ -167,6 +169,7 @@
 ||cpx.vnecdn.com^
 ||delecpuzz.com^
 ||delivery.senvangvn.com^
+||delivery.vtcnew.com.vn^
 ||delivery.vungtv.com^
 ||deltago.com^
 ||dt.vnecdn.com^
@@ -196,7 +199,6 @@
 ||vietdorje.com^
 ||vinaads.vn^
 ||alexajstrack.com^
-||amcdn.vn^
 ||an.dongphim.net^
 ||an.xemvtv.net^
 ||analytics.bkav.com^
@@ -250,6 +252,7 @@
 ||tracking.appwifi.com^
 ||tracking.meete.co^
 ||tracking.vht.com.vn^
+||tracking.vtcnew.com.vn^
 ||trackingapi.foody.vn^
 ||trackity.tiki.vn^
 ||trending.vn^
@@ -451,7 +454,6 @@
 ||adsintl.starwave.com^
 ||adskeeper.co.uk^
 ||adsnative.com^
-||adsparc.com^
 ||adspirit.de^
 ||adspruce.com^
 ||adspsp.com^
@@ -732,7 +734,6 @@
 ||fqtag.com^
 ||freshmarketer.com^
 ||fullstory.com^
-||fuseplatform.net^
 ||fwmrm.net^
 ||fyber.com^
 ||gads*s.com^
@@ -1032,6 +1033,7 @@
 ||shareaholic.com^
 ||sharethis.com^
 ||sharethrough.com^
+||showheroes.com^
 ||siftscience.com^
 ||simpleanalytics.io^
 ||simpli.fi^
@@ -5804,8 +5806,5 @@
 ||zhangtom1989.cn^
 ||connect.facebook.net^
 ||appsflyer.com^
-||crashlytics.com^
 ||du8783wkf05yr.cloudfront.net^
 @@||app.appsflyer.com^|
-@@||e.crashlytics.com^|
-@@||settings.crashlytics.com^|

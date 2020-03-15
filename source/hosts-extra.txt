@@ -27,11 +27,6 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 wa.appsflyer.com
-#[crashlytics.com]
-0.0.0.0 api.crashlytics.com
-0.0.0.0 cm.crashlytics.com
-0.0.0.0 kits.crashlytics.com
-0.0.0.0 reports.crashlytics.com
 # --- Block cloudfront.net ---
 #[Adobe]
 0.0.0.0 du8783wkf05yr.cloudfront.net

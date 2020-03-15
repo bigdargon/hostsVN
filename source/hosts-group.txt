@@ -4449,10 +4449,11 @@
 0.0.0.0 www.edge.quantserve.com
 0.0.0.0 www.quantserve.com
 #[advertising.com]
-0.0.0.0 adserver.adtech.advertising.com
+0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 adserver-as.adtech.advertising.com
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 adserver.adtech.advertising.com
 0.0.0.0 adtech.advertising.com
 0.0.0.0 advertising.com
 0.0.0.0 bannerfarm.ace.advertising.com
@@ -5543,6 +5544,7 @@
 0.0.0.0 uol-i3.servedbyopenx.com
 0.0.0.0 www.servedbyopenx.com
 #[openx.net]
+0.0.0.0 adasia-d.openx.net
 0.0.0.0 ads.openx.net
 0.0.0.0 ak.p.openx.net
 0.0.0.0 bid.openx.net
@@ -5562,10 +5564,10 @@
 0.0.0.0 meta.openx.net
 0.0.0.0 openx.net
 0.0.0.0 r.openx.net
-0.0.0.0 rtb.openx.net
 0.0.0.0 rtb-ca.openx.net
 0.0.0.0 rtb-lc.openx.net
 0.0.0.0 rtb-xa.openx.net
+0.0.0.0 rtb.openx.net
 0.0.0.0 sea-u.openx.net
 0.0.0.0 servedbyopenx.net
 0.0.0.0 soju.openx.net
@@ -13323,20 +13325,6 @@
 0.0.0.0 t.collective-media.net
 0.0.0.0 toro-dal-01.collective-media.net
 0.0.0.0 web01.collective-media.net
-#[adsparc.com]
-0.0.0.0 adsparc.com
-0.0.0.0 play.adsparc.com
-0.0.0.0 prebid.adsparc.com
-0.0.0.0 publisher.adsparc.com
-0.0.0.0 pushad.adsparc.com
-0.0.0.0 video.adsparc.com
-0.0.0.0 vl2.adsparc.com
-0.0.0.0 vl3.adsparc.com
-0.0.0.0 vl4.adsparc.com
-0.0.0.0 vl5.adsparc.com
-0.0.0.0 vl6.adsparc.com
-0.0.0.0 vls.adsparc.com
-0.0.0.0 www.adsparc.com
 #[bidgear-dsp.network]
 0.0.0.0 bidgear-dsp.network
 0.0.0.0 platform.bidgear-dsp.network
@@ -13419,27 +13407,6 @@
 0.0.0.0 cdn.marphezis.com
 0.0.0.0 marphezis.com
 0.0.0.0 www.marphezis.com
-#[fuseplatform.net]
-0.0.0.0 adasia.fuseplatform.net
-0.0.0.0 adfill.fuseplatform.net
-0.0.0.0 adireto.fuseplatform.net
-0.0.0.0 admin-portal.fuseplatform.net
-0.0.0.0 adop.fuseplatform.net
-0.0.0.0 ad-vanx.fuseplatform.net
-0.0.0.0 api.fuseplatform.net
-0.0.0.0 cdn.fuseplatform.net
-0.0.0.0 client-portal.fuseplatform.net
-0.0.0.0 demo.fuseplatform.net
-0.0.0.0 dqna.fuseplatform.net
-0.0.0.0 fluct.fuseplatform.net
-0.0.0.0 fuseplatform.net
-0.0.0.0 publift.fuseplatform.net
-0.0.0.0 rwadx.fuseplatform.net
-0.0.0.0 sph.fuseplatform.net
-0.0.0.0 staging.fuseplatform.net
-0.0.0.0 static.fuseplatform.net
-0.0.0.0 summitmedia.fuseplatform.net
-0.0.0.0 vidmatic.fuseplatform.net
 #[publift.com]
 0.0.0.0 admin.publift.com
 0.0.0.0 api.publift.com
@@ -13595,3 +13562,42 @@
 0.0.0.0 click.wct.link
 0.0.0.0 wct.link
 0.0.0.0 www.wct.link
+#[showheroes.com]
+0.0.0.0 apollo.showheroes.com
+0.0.0.0 arvister.showheroes.com
+0.0.0.0 book-keeping.showheroes.com
+0.0.0.0 bs.showheroes.com
+0.0.0.0 bs1.showheroes.com
+0.0.0.0 canvas-encoder.showheroes.com
+0.0.0.0 cdn01-creatives.showheroes.com
+0.0.0.0 ci.showheroes.com
+0.0.0.0 demo.showheroes.com
+0.0.0.0 demo-mockups.showheroes.com
+0.0.0.0 grand-central.showheroes.com
+0.0.0.0 harvester.showheroes.com
+0.0.0.0 play.showheroes.com
+0.0.0.0 playview.showheroes.com
+0.0.0.0 playview.stage.showheroes.com
+0.0.0.0 rancher.showheroes.com
+0.0.0.0 receiver.showheroes.com
+0.0.0.0 receiver-funnel.showheroes.com
+0.0.0.0 receiver-hetzner.showheroes.com
+0.0.0.0 showheroes.com
+0.0.0.0 static.showheroes.com
+0.0.0.0 stats-receiver.showheroes.com
+0.0.0.0 stitching-service.showheroes.com
+0.0.0.0 stratum.showheroes.com
+0.0.0.0 sync.showheroes.com
+0.0.0.0 tptracker.showheroes.com
+0.0.0.0 ui-kit.showheroes.com
+0.0.0.0 video-library.showheroes.com
+0.0.0.0 video-library-mirror-2.showheroes.com
+0.0.0.0 video-library-mirror-3.showheroes.com
+0.0.0.0 video-library-mirror-4.showheroes.com
+0.0.0.0 video-library-mirror-5.showheroes.com
+0.0.0.0 video-library-mirror-6.showheroes.com
+0.0.0.0 video-library-mirror-7.showheroes.com
+0.0.0.0 video-library-mirror-8.showheroes.com
+0.0.0.0 video-library-mirror-9.showheroes.com
+0.0.0.0 website.showheroes.com
+0.0.0.0 www.showheroes.com

@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 15 Mar 2020 16:46 UTC+7
-! Version: 2003151646
-! Blocked: 5,804 domains
+! Last modified: 15 Mar 2020 20:33 UTC+7
+! Version: 2003152033
+! Blocked: 5,803 domains
 ! The section containing the list contains all ad networks and tracking
 !
 ad.org.vn
@@ -18,8 +18,8 @@ ads-target.coccoc.com
 ads.hosting.vcmedia.vn
 ads.zaloapp.com
 ads.zdn.vn
-adservice.google.com.vn
 adsota.com
+adsparc.com
 adsplay.net
 adsplay.xyz
 adtima*.zadn.vn
@@ -28,6 +28,7 @@ adtimaserver.vn
 aiservice.vn
 ambient-platform.com
 ambientplatform.vn
+amcdn.vn
 anthill.vn
 ants.vn
 autoads.asia
@@ -45,6 +46,7 @@ dsmartvietnam.com
 eclick.vn
 ezimar.com
 fff.com.vn
+fuseplatform.net
 gammaplatform.com
 hbplatform.com
 itim.vn
@@ -166,6 +168,7 @@ core.vnecdn.com
 cpx.vnecdn.com
 delecpuzz.com
 delivery.senvangvn.com
+delivery.vtcnew.com.vn
 delivery.vungtv.com
 deltago.com
 dt.vnecdn.com
@@ -195,7 +198,6 @@ vietbuzzad.com
 vietdorje.com
 vinaads.vn
 alexajstrack.com
-amcdn.vn
 an.dongphim.net
 an.xemvtv.net
 analytics.bkav.com
@@ -249,6 +251,7 @@ tracker.tintucvietnam.vn
 tracking.appwifi.com
 tracking.meete.co
 tracking.vht.com.vn
+tracking.vtcnew.com.vn
 trackingapi.foody.vn
 trackity.tiki.vn
 trending.vn
@@ -450,7 +453,6 @@ adsfactor.net
 adsintl.starwave.com
 adskeeper.co.uk
 adsnative.com
-adsparc.com
 adspirit.de
 adspruce.com
 adspsp.com
@@ -731,7 +733,6 @@ fout.jp
 fqtag.com
 freshmarketer.com
 fullstory.com
-fuseplatform.net
 fwmrm.net
 fyber.com
 gads*s.com
@@ -1031,6 +1032,7 @@ sgali-mcs.byteoversea.com
 shareaholic.com
 sharethis.com
 sharethrough.com
+showheroes.com
 siftscience.com
 simpleanalytics.io
 simpli.fi
@@ -5803,5 +5805,4 @@ view-appleid.com
 zhangtom1989.cn
 connect.facebook.net
 appsflyer.com
-crashlytics.com
 du8783wkf05yr.cloudfront.net

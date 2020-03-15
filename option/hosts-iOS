@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 Mar 2020 16:46 UTC+7
-# Version: 2003151646
-# Blocked: 18,926 domains
+# Last modified: 15 Mar 2020 20:33 UTC+7
+# Version: 2003152033
+# Blocked: 18,964 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4284,10 +4284,11 @@
 0 vast.quantserve.com
 0 www.edge.quantserve.com
 0 www.quantserve.com
-0 adserver.adtech.advertising.com
+0 ads.adaptv.advertising.com
 0 adserver-as.adtech.advertising.com
 0 adserver-eu.adtech.advertising.com
 0 adserver-us.adtech.advertising.com
+0 adserver.adtech.advertising.com
 0 adtech.advertising.com
 0 advertising.com
 0 bannerfarm.ace.advertising.com
@@ -5327,6 +5328,7 @@
 0 servedbyopenx.com
 0 uol-i3.servedbyopenx.com
 0 www.servedbyopenx.com
+0 adasia-d.openx.net
 0 ads.openx.net
 0 ak.p.openx.net
 0 bid.openx.net
@@ -5346,10 +5348,10 @@
 0 meta.openx.net
 0 openx.net
 0 r.openx.net
-0 rtb.openx.net
 0 rtb-ca.openx.net
 0 rtb-lc.openx.net
 0 rtb-xa.openx.net
+0 rtb.openx.net
 0 sea-u.openx.net
 0 servedbyopenx.net
 0 soju.openx.net
@@ -12756,19 +12758,6 @@
 0 t.collective-media.net
 0 toro-dal-01.collective-media.net
 0 web01.collective-media.net
-0 adsparc.com
-0 play.adsparc.com
-0 prebid.adsparc.com
-0 publisher.adsparc.com
-0 pushad.adsparc.com
-0 video.adsparc.com
-0 vl2.adsparc.com
-0 vl3.adsparc.com
-0 vl4.adsparc.com
-0 vl5.adsparc.com
-0 vl6.adsparc.com
-0 vls.adsparc.com
-0 www.adsparc.com
 0 bidgear-dsp.network
 0 platform.bidgear-dsp.network
 0 cdn.clarium.io
@@ -12845,26 +12834,6 @@
 0 cdn.marphezis.com
 0 marphezis.com
 0 www.marphezis.com
-0 adasia.fuseplatform.net
-0 adfill.fuseplatform.net
-0 adireto.fuseplatform.net
-0 admin-portal.fuseplatform.net
-0 adop.fuseplatform.net
-0 ad-vanx.fuseplatform.net
-0 api.fuseplatform.net
-0 cdn.fuseplatform.net
-0 client-portal.fuseplatform.net
-0 demo.fuseplatform.net
-0 dqna.fuseplatform.net
-0 fluct.fuseplatform.net
-0 fuseplatform.net
-0 publift.fuseplatform.net
-0 rwadx.fuseplatform.net
-0 sph.fuseplatform.net
-0 staging.fuseplatform.net
-0 static.fuseplatform.net
-0 summitmedia.fuseplatform.net
-0 vidmatic.fuseplatform.net
 0 admin.publift.com
 0 api.publift.com
 0 api-v2.publift.com
@@ -13003,6 +12972,44 @@
 0 click.wct.link
 0 wct.link
 0 www.wct.link
+0 apollo.showheroes.com
+0 arvister.showheroes.com
+0 book-keeping.showheroes.com
+0 bs.showheroes.com
+0 bs1.showheroes.com
+0 canvas-encoder.showheroes.com
+0 cdn01-creatives.showheroes.com
+0 ci.showheroes.com
+0 demo.showheroes.com
+0 demo-mockups.showheroes.com
+0 grand-central.showheroes.com
+0 harvester.showheroes.com
+0 play.showheroes.com
+0 playview.showheroes.com
+0 playview.stage.showheroes.com
+0 rancher.showheroes.com
+0 receiver.showheroes.com
+0 receiver-funnel.showheroes.com
+0 receiver-hetzner.showheroes.com
+0 showheroes.com
+0 static.showheroes.com
+0 stats-receiver.showheroes.com
+0 stitching-service.showheroes.com
+0 stratum.showheroes.com
+0 sync.showheroes.com
+0 tptracker.showheroes.com
+0 ui-kit.showheroes.com
+0 video-library.showheroes.com
+0 video-library-mirror-2.showheroes.com
+0 video-library-mirror-3.showheroes.com
+0 video-library-mirror-4.showheroes.com
+0 video-library-mirror-5.showheroes.com
+0 video-library-mirror-6.showheroes.com
+0 video-library-mirror-7.showheroes.com
+0 video-library-mirror-8.showheroes.com
+0 video-library-mirror-9.showheroes.com
+0 website.showheroes.com
+0 www.showheroes.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13949,6 +13956,26 @@
 0 cdn.hbplatform.com
 0 hbplatform.com
 0 static.hbplatform.com
+0 adasia.fuseplatform.net
+0 adfill.fuseplatform.net
+0 adireto.fuseplatform.net
+0 admin-portal.fuseplatform.net
+0 adop.fuseplatform.net
+0 ad-vanx.fuseplatform.net
+0 api.fuseplatform.net
+0 cdn.fuseplatform.net
+0 client-portal.fuseplatform.net
+0 demo.fuseplatform.net
+0 dqna.fuseplatform.net
+0 fluct.fuseplatform.net
+0 fuseplatform.net
+0 publift.fuseplatform.net
+0 rwadx.fuseplatform.net
+0 sph.fuseplatform.net
+0 staging.fuseplatform.net
+0 static.fuseplatform.net
+0 summitmedia.fuseplatform.net
+0 vidmatic.fuseplatform.net
 0 sourcetobin.com
 0 static.sourcetobin.com
 0 philacct.com
@@ -13962,6 +13989,21 @@
 0 dk.surfcountor.com
 0 pin.surfcountor.com
 0 surfcountor.com
+0 adsparc.com
+0 play.adsparc.com
+0 prebid.adsparc.com
+0 publisher.adsparc.com
+0 pushad.adsparc.com
+0 video.adsparc.com
+0 vl2.adsparc.com
+0 vl3.adsparc.com
+0 vl4.adsparc.com
+0 vl5.adsparc.com
+0 vl6.adsparc.com
+0 vls.adsparc.com
+0 www.adsparc.com
+0 amcdn.vn
+0 static.amcdn.vn
 0 123c.vn
 0 ad-hcm.24hstatic.com
 0 ad-hn.24hstatic.com
@@ -14016,6 +14058,7 @@
 0 cpx.vnecdn.com
 0 delecpuzz.com
 0 delivery.senvangvn.com
+0 delivery.vtcnew.com.vn
 0 delivery.vungtv.com
 0 deltago.com
 0 dt.vnecdn.com
@@ -14053,7 +14096,6 @@
 0 www.vietbuzzad.com
 0 www.vietdorje.com
 0 alexajstrack.com
-0 amcdn.vn
 0 an.dongphim.net
 0 an.xemvtv.net
 0 analytics.bkav.com
@@ -14091,7 +14133,6 @@
 0 s.tuoitre.vn
 0 sharefb.cnnd.vn
 0 stat.headlines.pw
-0 static.amcdn.vn
 0 staticad.thethao247.vn
 0 stats.bizweb.vn
 0 stats.dongphim.net
@@ -14108,6 +14149,7 @@
 0 tracking.appwifi.com
 0 tracking.meete.co
 0 tracking.vht.com.vn
+0 tracking.vtcnew.com.vn
 0 trackingapi.foody.vn
 0 trackity.tiki.vn
 0 trending.vn
@@ -18935,8 +18977,4 @@
 0 track.appsflyer.com
 0 validate.appsflyer.com
 0 wa.appsflyer.com
-0 api.crashlytics.com
-0 cm.crashlytics.com
-0 kits.crashlytics.com
-0 reports.crashlytics.com
 0 du8783wkf05yr.cloudfront.net
