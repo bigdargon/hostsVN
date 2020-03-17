@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 Mar 2020 20:33 UTC+7
-# Version: 2003152033
-# Blocked: 18,964 domains
+# Last modified: 17 Mar 2020 15:08 UTC+7
+# Version: 2003171508
+# Blocked: 18,968 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4635,6 +4635,8 @@
 0 commerce.adobedtm.com
 0 connect.adobedtm.com
 0 sslproxy-prod.adobedtm.com
+0 sstats.adobe.com
+0 du8783wkf05yr.cloudfront.net
 0 3lift.com
 0 amp.3lift.com
 0 an.3lift.com
@@ -15458,7 +15460,6 @@
 0 bestboundary.com
 0 bestsearch.net
 0 beta.ads.cc
-0 bethanyharrell.pro
 0 bewilderedblade.com
 0 bhclicks.com
 0 bhcumsc.com
@@ -16083,6 +16084,7 @@
 0 geobanner.adultfriendfinder.com
 0 geovisite.com
 0 getalinkandshare.com
+0 getedicta.info
 0 getwisdom.io
 0 ggimg.tapas.net
 0 giddycoat.com
@@ -16402,7 +16404,6 @@
 0 loudlunch.com
 0 lp3tdqle.com
 0 lucidmedia.com
-0 lucienmann.pro
 0 lucklayed.info
 0 lumpyleaf.com
 0 lunarads.com
@@ -17415,6 +17416,7 @@
 0 theonecdn.com
 0 therapistla.com
 0 therichkids.com
+0 thighlykamsh.site
 0 thinkablerice.com
 0 thinknear.com
 0 thinkupfront.com
@@ -17582,6 +17584,7 @@
 0 updated.com
 0 upsnap.com
 0 urbanityadnetwork.com
+0 urchrevening.info
 0 urlcash.net
 0 us.a1.yimg.com
 0 usapromotravel.com
@@ -17621,6 +17624,7 @@
 0 view4cash.de
 0 viewpoint.com
 0 viewwonder.com
+0 villandoping.site
 0 visiblemeasures.com
 0 visistat.com
 0 visitbox.de
@@ -18644,7 +18648,6 @@
 0 specialistups.com
 0 spyshredderscanner.com
 0 spywareshop.info
-0 sstats.adobe.com
 0 stabroom.cn
 0 stat.analytiall.com
 0 stathat.com
@@ -18888,6 +18891,8 @@
 0 applelink.store
 0 comptrffc.com
 0 cpa-tc.com
+0 d1nmxiiewlx627.cloudfront.net
+0 d2k1gzykfsah3o.cloudfront.net
 0 fmiphone-apple.com
 0 fortt-rade.com
 0 icloud.com-locations.in
@@ -18977,4 +18982,3 @@
 0 track.appsflyer.com
 0 validate.appsflyer.com
 0 wa.appsflyer.com
-0 du8783wkf05yr.cloudfront.net

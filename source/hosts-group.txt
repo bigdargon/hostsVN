@@ -4813,6 +4813,8 @@
 0.0.0.0 commerce.adobedtm.com
 0.0.0.0 connect.adobedtm.com
 0.0.0.0 sslproxy-prod.adobedtm.com
+0.0.0.0 sstats.adobe.com
+0.0.0.0 du8783wkf05yr.cloudfront.net
 #[3lift.com]
 0.0.0.0 3lift.com
 0.0.0.0 amp.3lift.com

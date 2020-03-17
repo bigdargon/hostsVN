@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 15 Mar 2020 20:33 UTC+7
-! Version: 2003152033
-! Blocked: 5,803 rules
+! Last modified: 17 Mar 2020 15:08 UTC+7
+! Version: 2003171508
+! Blocked: 5,807 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -1057,8 +1057,10 @@
 ||ss2.us^
 ||ssl-google-analytics.l.google.com^
 ||sslproxy-prod.adobedtm.com^
+||sstats.adobe.com^
 ||starbolt.io^
 ||startappservice.com^
+||du8783wkf05yr.cloudfront.net^
 ||static-ads.akamaized.net^
 ||staticstuff.net^
 ||stats.unity3d.com^
@@ -2439,7 +2441,6 @@
 ||bestboundary.com^
 ||bestsearch.net^
 ||beta.ads.cc^
-||bethanyharrell.pro^
 ||bewilderedblade.com^
 ||bhclicks.com^
 ||bhcumsc.com^
@@ -3063,6 +3064,7 @@
 ||geobanner.adultfriendfinder.com^
 ||geovisite.com^
 ||getalinkandshare.com^
+||getedicta.info^
 ||getwisdom.io^
 ||ggimg.tapas.net^
 ||giddycoat.com^
@@ -3382,7 +3384,6 @@
 ||loudlunch.com^
 ||lp3tdqle.com^
 ||lucidmedia.com^
-||lucienmann.pro^
 ||lucklayed.info^
 ||lumpyleaf.com^
 ||lunarads.com^
@@ -4396,6 +4397,7 @@
 ||theonecdn.com^
 ||therapistla.com^
 ||therichkids.com^
+||thighlykamsh.site^
 ||thinkablerice.com^
 ||thinknear.com^
 ||thinkupfront.com^
@@ -4563,6 +4565,7 @@
 ||updated.com^
 ||upsnap.com^
 ||urbanityadnetwork.com^
+||urchrevening.info^
 ||urlcash.net^
 ||us.a1.yimg.com^
 ||usapromotravel.com^
@@ -4602,6 +4605,7 @@
 ||view4cash.de^
 ||viewpoint.com^
 ||viewwonder.com^
+||villandoping.site^
 ||visiblemeasures.com^
 ||visistat.com^
 ||visitbox.de^
@@ -5570,7 +5574,6 @@
 ||specialistups.com^
 ||spyshredderscanner.com^
 ||spywareshop.info^
-||sstats.adobe.com^
 ||stabroom.cn^
 ||stat.analytiall.com^
 ||stathat.com^
@@ -5777,6 +5780,8 @@
 ||applelink.store^
 ||comptrffc.com^
 ||cpa-tc.com^
+||d1nmxiiewlx627.cloudfront.net^
+||d2k1gzykfsah3o.cloudfront.net^
 ||fmiphone-apple.com^
 ||fortt-rade.com^
 ||icloud.com-locations.in^
@@ -5806,5 +5811,4 @@
 ||zhangtom1989.cn^
 ||connect.facebook.net^
 ||appsflyer.com^
-||du8783wkf05yr.cloudfront.net^
 @@||app.appsflyer.com^|
