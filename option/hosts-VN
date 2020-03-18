@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Mar 2020 15:08 UTC+7
-# Version: 2003171508
-# Blocked: 1,160 domains
+# Last modified: 18 Mar 2020 14:39 UTC+7
+# Version: 2003181439
+# Blocked: 1,163 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1071,6 +1071,10 @@
 #[amcdn.vn]
 0.0.0.0 amcdn.vn
 0.0.0.0 static.amcdn.vn
+#[cheap-ads.net]
+0.0.0.0 cheap-ads.net
+0.0.0.0 verycheap.cheap-ads.net
+0.0.0.0 www.cheap-ads.net
 # --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com
