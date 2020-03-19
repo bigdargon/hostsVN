@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 19 Mar 2020 20:17 UTC+7
-! Version: 2003192017
-! Blocked: 5,818 rules
+! Last modified: 19 Mar 2020 20:30 UTC+7
+! Version: 2003192030
+! Blocked: 5,819 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -514,6 +514,7 @@
 ||an.facebook.com^
 ||an.yandex.ru^
 ||analy.qq.com^
+||analytics.edgekey.net^
 ||analytics.go.com^
 ||analytics.google.com^
 ||analytics.mobile.yandex.net^

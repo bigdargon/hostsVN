@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Mar 2020 20:17 UTC+7
-# Version: 2003192017
-# Blocked: 19,012 domains
+# Last modified: 19 Mar 2020 20:30 UTC+7
+# Version: 2003192030
+# Blocked: 19,014 domains
 # Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13654,6 +13654,9 @@
 #[mobytrks.com]
 0.0.0.0 mobytrks.com
 0.0.0.0 go.mobytrks.com
+#[analytics.edgekey.net]
+0.0.0.0 79423.analytics.edgekey.net
+0.0.0.0 analytics.edgekey.net
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn

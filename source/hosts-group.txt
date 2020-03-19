@@ -13642,3 +13642,6 @@
 #[mobytrks.com]
 0.0.0.0 mobytrks.com
 0.0.0.0 go.mobytrks.com
+#[analytics.edgekey.net]
+0.0.0.0 79423.analytics.edgekey.net
+0.0.0.0 analytics.edgekey.net
