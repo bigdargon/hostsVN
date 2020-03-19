@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Mar 2020 19:55 UTC+7
-# Version: 2003191955
-# Blocked: 19,008 domains
+# Last modified: 19 Mar 2020 20:17 UTC+7
+# Version: 2003192017
+# Blocked: 19,012 domains
 # Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13651,6 +13651,9 @@
 0.0.0.0 cdn01.pushtimize.com
 0.0.0.0 feed.pushtimize.com
 0.0.0.0 pushtimize.com
+#[mobytrks.com]
+0.0.0.0 mobytrks.com
+0.0.0.0 go.mobytrks.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -16645,6 +16648,7 @@
 0.0.0.0 elephantqueue.com
 0.0.0.0 elitedollars.com
 0.0.0.0 elitetoplist.com
+0.0.0.0 ellcurvth.com
 0.0.0.0 elthamely.com
 0.0.0.0 emarketer.com
 0.0.0.0 emediate.dk
@@ -17435,6 +17439,7 @@
 0.0.0.0 onlinerewardcenter.com
 0.0.0.0 onlyadshere.info
 0.0.0.0 onmobile.com
+0.0.0.0 onvictinitor.com
 0.0.0.0 oodsotso.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 openad.tf1.fr

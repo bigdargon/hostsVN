@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 19 Mar 2020 19:55 UTC+7
-! Version: 2003191955
-! Blocked: 5,815 rules
+! Last modified: 19 Mar 2020 20:17 UTC+7
+! Version: 2003192017
+! Blocked: 5,818 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -900,6 +900,7 @@
 ||mobileapptracking.com^
 ||mobileoffers-*-download.com^
 ||mobpartner.mobi^
+||mobytrks.com^
 ||mocean.mobi^
 ||moengage.com^
 ||mojiva.com^
@@ -2914,6 +2915,7 @@
 ||elephantqueue.com^
 ||elitedollars.com^
 ||elitetoplist.com^
+||ellcurvth.com^
 ||elthamely.com^
 ||emarketer.com^
 ||emediate.dk^
@@ -3705,6 +3707,7 @@
 ||onlinerewardcenter.com^
 ||onlyadshere.info^
 ||onmobile.com^
+||onvictinitor.com^
 ||oodsotso.com^
 ||open.oneplus.net^
 ||openad.tf1.fr^
