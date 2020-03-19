@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 19 Mar 2020 13:59 UTC+7
-! Version: 2003191359
-! Blocked: 5,814 rules
+! Last modified: 19 Mar 2020 19:55 UTC+7
+! Version: 2003191955
+! Blocked: 5,815 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -97,6 +97,7 @@
 ||shopping.coccoc.com^
 ||sourcetobin.com^
 ||sp.zalo.me^
+||sporttv.today^
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
 ||surfcountor.com^

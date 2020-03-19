@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Mar 2020 13:59 UTC+7
-# Version: 2003191359
-# Blocked: 19,005 domains
+# Last modified: 19 Mar 2020 19:55 UTC+7
+# Version: 2003191955
+# Blocked: 19,008 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14042,6 +14042,9 @@
 0 cheap-ads.net
 0 verycheap.cheap-ads.net
 0 www.cheap-ads.net
+0 ads.sporttv.today
+0 sporttv.today
+0 www.sporttv.today
 0 123c.vn
 0 ad-hcm.24hstatic.com
 0 ad-hn.24hstatic.com

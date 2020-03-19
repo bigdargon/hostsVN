@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Mar 2020 13:59 UTC+7
-# Version: 2003191359
-# Blocked: 1,163 domains
+# Last modified: 19 Mar 2020 19:55 UTC+7
+# Version: 2003191955
+# Blocked: 1,166 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1075,6 +1075,10 @@
 0.0.0.0 cheap-ads.net
 0.0.0.0 verycheap.cheap-ads.net
 0.0.0.0 www.cheap-ads.net
+#[sporttv.today]
+0.0.0.0 ads.sporttv.today
+0.0.0.0 sporttv.today
+0.0.0.0 www.sporttv.today
 # --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com

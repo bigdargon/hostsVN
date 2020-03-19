@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 19 Mar 2020 13:59 UTC+7
-! Version: 2003191359
-! Blocked: 344 rules
+! Last modified: 19 Mar 2020 19:55 UTC+7
+! Version: 2003191955
+! Blocked: 345 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -97,6 +97,7 @@
 ||shopping.coccoc.com^
 ||sourcetobin.com^
 ||sp.zalo.me^
+||sporttv.today^
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
 ||surfcountor.com^
