@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 18 Mar 2020 14:39 UTC+7
-! Version: 2003181439
-! Blocked: 5,808 rules
+! Last modified: 19 Mar 2020 13:59 UTC+7
+! Version: 2003191359
+! Blocked: 5,814 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -676,6 +676,7 @@
 ||d2dq2ahtl5zl1z.cloudfront.net^
 ||d2r173wcohmi6.cloudfront.net^
 ||d2wbr3tthrn9lu.cloudfront.net^
+||d2zah9y47r7bi2.cloudfront.net^
 ||d31j93rd8oukbv.cloudfront.net^
 ||d31qbv1cthcecs.cloudfront.net^
 ||d3luypns9uh4a4.cloudfront.net^
@@ -693,6 +694,7 @@
 ||districtm.net^
 ||dj1*.online^
 ||djaxadserver.com^
+||dl1d2m8ri9v3j.cloudfront.net^
 ||dm-event.net^
 ||domnovrek.com^
 ||dotomi.com^
@@ -703,6 +705,7 @@
 ||dpmsrv.com^
 ||dql2sdu63f1cw.cloudfront.net^
 ||dspmulti.com^
+||du8783wkf05yr.cloudfront.net^
 ||duapps.com^
 ||dxp.baidu.com^
 ||e.qq.com^
@@ -956,6 +959,7 @@
 ||persona.ly^
 ||petametrics.com^
 ||piano.io^
+||pingdom.net^
 ||pingma.qq.com^
 ||pinpoint.*.amazonaws.com^
 ||pipe.aria.microsoft.com^
@@ -989,6 +993,7 @@
 ||pubmine.com^
 ||pubnative.net^
 ||puds.ucweb.com^
+||pushtimize.com^
 ||pushwoosh.com^
 ||qualtrics.com^
 ||quantserve.com^
@@ -1061,7 +1066,6 @@
 ||sstats.adobe.com^
 ||starbolt.io^
 ||startappservice.com^
-||du8783wkf05yr.cloudfront.net^
 ||static-ads.akamaized.net^
 ||staticstuff.net^
 ||stats.unity3d.com^
@@ -1089,6 +1093,7 @@
 ||trace.qq.com^
 ||track.uc.cn^
 ||trackjs.com^
+||trackpush.com^
 ||trafficfactory.biz^
 ||trafficjunky.net^
 ||trazk.com^
@@ -3240,6 +3245,7 @@
 ||innocentwax.com^
 ||innovid.com^
 ||inorcelliana.info^
+||inpagepush.com^
 ||inquisitiveinvention.com^
 ||inringtone.com^
 ||insightexpress.com^

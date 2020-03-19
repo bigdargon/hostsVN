@@ -2831,12 +2831,16 @@
 0.0.0.0 srv95.clickintext.com
 0.0.0.0 www.clickintext.com
 #[trackjs]
-0.0.0.0 trackjs.com
-0.0.0.0 usage.trackjs.com
-0.0.0.0 my.trackjs.com
-0.0.0.0 www.trackjs.com
-0.0.0.0 cdn.trackjs.com
 0.0.0.0 capture.trackjs.com
+0.0.0.0 cdn.trackjs.com
+0.0.0.0 my.trackjs.com
+0.0.0.0 status.trackjs.com
+0.0.0.0 trackjs.com
+0.0.0.0 try.trackjs.com
+0.0.0.0 usage.trackjs.com
+0.0.0.0 www.trackjs.com
+0.0.0.0 d2zah9y47r7bi2.cloudfront.net
+0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 #[fabric]
 0.0.0.0 fabric.io
 0.0.0.0 ana-ing.fabric.io
@@ -13603,3 +13607,35 @@
 0.0.0.0 video-library-mirror-9.showheroes.com
 0.0.0.0 website.showheroes.com
 0.0.0.0 www.showheroes.com
+#[pingdom.net]
+0.0.0.0 dev-d1-rum-collector-2.pingdom.net
+0.0.0.0 dev-d1-rum-static-2.pingdom.net
+0.0.0.0 dev-rbc-api-data.pingdom.net
+0.0.0.0 flip-flipflop.pingdom.net
+0.0.0.0 pingdom.net
+0.0.0.0 rbc-api-data.pingdom.net
+0.0.0.0 ruem-collector.pingdom.net
+0.0.0.0 rum-collector.pingdom.net
+0.0.0.0 rum-collector-2.pingdom.net
+0.0.0.0 rum-dev-collector.pingdom.net
+0.0.0.0 rum-static.pingdom.net
+0.0.0.0 rum-static-2.pingdom.net
+0.0.0.0 st-dpa.pingdom.net
+0.0.0.0 st-flip-flipflop.pingdom.net
+0.0.0.0 st-rbc-api-data.pingdom.net
+0.0.0.0 st-www-4.pingdom.net
+0.0.0.0 www.pingdom.net
+0.0.0.0 www-4.pingdom.net
+#[trackpush.com]
+0.0.0.0 api.trackpush.com
+0.0.0.0 client.trackpush.com
+0.0.0.0 feedicon.trackpush.com
+0.0.0.0 growpush.trackpush.com
+0.0.0.0 notification.trackpush.com
+0.0.0.0 prod305.trackpush.com
+0.0.0.0 trackpush.com
+#[pushtimize.com]
+0.0.0.0 adv.pushtimize.com
+0.0.0.0 cdn01.pushtimize.com
+0.0.0.0 feed.pushtimize.com
+0.0.0.0 pushtimize.com
