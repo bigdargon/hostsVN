@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 19 Mar 2020 20:30 UTC+7
-! Version: 2003192030
-! Blocked: 5,819 rules
+! Last modified: 20 Mar 2020 11:33 UTC+7
+! Version: 2003201133
+! Blocked: 5,822 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -15,6 +15,7 @@
 ||admicro.vn^
 ||adnetwork.vn^
 ||adpia.vn^
+||adrealclick.com^
 ||ads-target.coccoc.com^
 ||ads.hosting.vcmedia.vn^
 ||ads.zaloapp.com^
@@ -107,6 +108,7 @@
 ||vads.vn^
 ||vclick.vn^
 ||viam.com.vn^
+||vidoomy.com^
 ||vietad.vn^
 ||vietnamnetad.vn^
 ||yoads.net^
@@ -130,6 +132,7 @@
 ||ad.vatgia.com^
 ||ad.vietbao.vn^
 ||ad.vkool.net^
+||adc.quantrimang.com^
 ||adchoice.com^
 ||adchoice.com.vn^
 ||adclient.vietnamnetjsc.vn^
@@ -189,6 +192,7 @@
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
 ||quangcao247.com.vn^
+||realclick.vn^
 ||serving-ad.tv24.vn^
 ||stc-nas.nixcdn.com^
 ||stc.nas.nixcdn.com^
@@ -1126,7 +1130,6 @@
 ||vdopia.com^
 ||vicksot.com^
 ||videohub.tv^
-||vidoomy.com^
 ||viglink.com^
 ||viruspro.pro^
 ||vntsm.com^

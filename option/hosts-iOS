@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Mar 2020 20:30 UTC+7
-# Version: 2003192030
-# Blocked: 19,014 domains
+# Last modified: 20 Mar 2020 11:33 UTC+7
+# Version: 2003201133
+# Blocked: 19,022 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6709,12 +6709,6 @@
 0 ws9.hotjar.com
 0 www.hotjar.com
 0 xawards.hotjar.com
-0 ads.vidoomy.com
-0 cpm.vidoomy.com
-0 pixel.vidoomy.com
-0 rtb-useast.vidoomy.com
-0 vidoomy.com
-0 www.vidoomy.com
 0 alerts.api.kochava.com
 0 analytics.kochava.com
 0 analytics20.kochava.com
@@ -14049,6 +14043,17 @@
 0 ads.sporttv.today
 0 sporttv.today
 0 www.sporttv.today
+0 ads.vidoomy.com
+0 cpm.vidoomy.com
+0 pixel.vidoomy.com
+0 rtb-useast.vidoomy.com
+0 vidoomy.com
+0 www.vidoomy.com
+0 adrealclick.com
+0 media3.adrealclick.com
+0 media5.adrealclick.com
+0 s.adrealclick.com
+0 www.adrealclick.com
 0 123c.vn
 0 ad-hcm.24hstatic.com
 0 ad-hn.24hstatic.com
@@ -14061,6 +14066,7 @@
 0 ad.vatgia.com
 0 ad.vietbao.vn
 0 ad.vkool.net
+0 adc.quantrimang.com
 0 adchoice.com
 0 adchoice.com.vn
 0 adclient.vietnamnetjsc.vn
@@ -14122,6 +14128,7 @@
 0 quangcao.thanhnien.vn
 0 quangcao.tuoitre.vn
 0 quangcao247.com.vn
+0 realclick.vn
 0 serving-ad.tv24.vn
 0 stc-nas.nixcdn.com
 0 stc.nas.nixcdn.com
@@ -14138,6 +14145,7 @@
 0 www.clevernet.vn
 0 www.delecpuzz.com
 0 www.microad.vn
+0 www.realclick.vn
 0 www.vietbuzzad.com
 0 www.vietdorje.com
 0 alexajstrack.com
