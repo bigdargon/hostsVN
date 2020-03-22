@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 22 Mar 2020 19:57 UTC+7
-! Version: 2003221957
-! Blocked: 5,833 rules
+! Last modified: 22 Mar 2020 20:45 UTC+7
+! Version: 2003222045
+! Blocked: 5,841 rules
 ! Expires: 1 days (update frequency)
 ! The section containing the list contains all ad networks and tracking
 !
@@ -187,6 +187,7 @@
 ||mobileads.dieuviet.com^
 ||myad.vn^
 ||ng-vn-notice.gameitop.com^
+||ox1.vietstock.vn^
 ||phimmedia03.com^
 ||polyad.galaxypub.vn^
 ||qc.yan.vn^
@@ -955,6 +956,8 @@
 ||openx.com^
 ||openx.net^
 ||opoxv.com^
+||optad360.com^
+||optad360.io^
 ||optimizely.com^
 ||optimizesrv.com^
 ||optmnstr.com^
@@ -1078,6 +1081,7 @@
 ||sstats.adobe.com^
 ||starbolt.io^
 ||startappservice.com^
+||stat-rock.com^
 ||static-ads.akamaized.net^
 ||staticstuff.net^
 ||stats.unity3d.com^
@@ -1099,6 +1103,7 @@
 ||taxel.jp^
 ||teads.tv^
 ||tenmax.io^
+||themoneytizer.com^
 ||tinypass.com^
 ||toast.com^
 ||tr.snapchat.com^
@@ -2091,6 +2096,7 @@
 ||adtology.com^
 ||adtoma.com^
 ||adtrace.org^
+||adtrackingflow.pro^
 ||adtrade.net^
 ||adtrading.de^
 ||adtrak.net^
@@ -2524,6 +2530,7 @@
 ||btrll.com^
 ||bucketbean.com^
 ||budsinc.com^
+||buleor.com^
 ||bullseye.backbeatmedia.com^
 ||bumpberam.pro^
 ||burstmedia.com^
@@ -3736,7 +3743,6 @@
 ||opienetwork.com^
 ||opinionstage.com^
 ||opsivesh.net^
-||optad360.io^
 ||optimallimit.com^
 ||optimize-stats.voxmedia.com^
 ||optimost.com^
@@ -4093,6 +4099,7 @@
 ||s2d6.com^
 ||sageanalyst.net^
 ||sail-horizon.com^
+||sailif.com^
 ||samsungacr.com^
 ||samsungads.com^
 ||saysidewalk.com^
@@ -4166,6 +4173,7 @@
 ||shockingswing.com^
 ||shofteph.com^
 ||shoppingads.com^
+||shorteh.com^
 ||siccash.com^
 ||sicksmash.com^
 ||sidebar.angelfire.com^

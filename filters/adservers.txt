@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 22 Mar 2020 19:57 UTC+7
-! Version: 2003221957
-! Blocked: 352 rules
+! Last modified: 22 Mar 2020 20:45 UTC+7
+! Version: 2003222045
+! Blocked: 353 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -187,6 +187,7 @@
 ||mobileads.dieuviet.com^
 ||myad.vn^
 ||ng-vn-notice.gameitop.com^
+||ox1.vietstock.vn^
 ||phimmedia03.com^
 ||polyad.galaxypub.vn^
 ||qc.yan.vn^
