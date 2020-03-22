@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 20 Mar 2020 11:33 UTC+7
-! Version: 2003201133
-! Blocked: 349 rules
+! Last modified: 22 Mar 2020 19:57 UTC+7
+! Version: 2003221957
+! Blocked: 352 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -152,6 +152,7 @@
 ||ads.khoahocdoisong.vn^
 ||ads.phunuonline.com.vn^
 ||ads.tiki.vn^
+||ads.xemphimso.com^
 ||adserver.lag.vn^
 ||adsplus.vn^
 ||adt.com.vn^
@@ -172,6 +173,7 @@
 ||clix.vn^
 ||core.vnecdn.com^
 ||cpx.vnecdn.com^
+||crocopop.com^
 ||delecpuzz.com^
 ||delivery.senvangvn.com^
 ||delivery.vtcnew.com.vn^
@@ -345,6 +347,7 @@
 ||w88yes.com^
 ||websvn.info^
 ||ww88club.com^
+||x8.club^
 ||zbet.com^
 ||zo.game^
 ||fuckbookvietnam.com^

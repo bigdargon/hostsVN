@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 20 Mar 2020 11:33 UTC+7
-# Version: 2003201133
-# Blocked: 2,449 domains
+# Last modified: 22 Mar 2020 19:57 UTC+7
+# Version: 2003221957
+# Blocked: 2,452 domains
 # Only include gambling domains
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -286,6 +286,9 @@
 0.0.0.0 888b.com
 0.0.0.0 www.888b.com
 0.0.0.0 888b.in
+0.0.0.0 x8.club
+0.0.0.0 play.x8.club
+0.0.0.0 qc.x8.club
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
