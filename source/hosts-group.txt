@@ -6708,6 +6708,10 @@
 0.0.0.0 tools.adskeeper.co.uk
 0.0.0.0 wsp.adskeeper.co.uk
 0.0.0.0 www.adskeeper.co.uk
+#[adskeeper.com]
+0.0.0.0 adskeeper.com
+0.0.0.0 widgets.adskeeper.com
+0.0.0.0 www.adskeeper.com
 #[adomik.com]
 0.0.0.0 adomik-site-test.adomik.com
 0.0.0.0 api.adomik.com
@@ -13740,3 +13744,7 @@
 0.0.0.0 stat-rock.com
 0.0.0.0 stream.stat-rock.com
 0.0.0.0 us-m.stat-rock.com
+#[mirs.com]
+0.0.0.0 mirs.com
+0.0.0.0 cdn.mirs.com
+0.0.0.0 www.mirs.com

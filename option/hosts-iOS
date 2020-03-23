@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 Mar 2020 20:45 UTC+7
-# Version: 2003222045
-# Blocked: 19,129 domains
+# Last modified: 23 Mar 2020 09:45 UTC+7
+# Version: 2003230945
+# Blocked: 19,102 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6445,6 +6445,9 @@
 0 tools.adskeeper.co.uk
 0 wsp.adskeeper.co.uk
 0 www.adskeeper.co.uk
+0 adskeeper.com
+0 widgets.adskeeper.com
+0 www.adskeeper.com
 0 adomik-site-test.adomik.com
 0 api.adomik.com
 0 app.adomik.com
@@ -13138,6 +13141,9 @@
 0 stat-rock.com
 0 stream.stat-rock.com
 0 us-m.stat-rock.com
+0 mirs.com
+0 cdn.mirs.com
+0 www.mirs.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14192,6 +14198,9 @@
 0 alivar.com.vn
 0 alivar.vn
 0 amobi.vn
+0 an.dongphim.net
+0 an.motphim.net
+0 an.xemvtv.net
 0 api.nas.nct.vn
 0 apinas.nct.vn
 0 banner.5giay.vn
@@ -14247,8 +14256,6 @@
 0 www.vietbuzzad.com
 0 www.vietdorje.com
 0 alexajstrack.com
-0 an.dongphim.net
-0 an.xemvtv.net
 0 analytics.bkav.com
 0 analytics.easyvideo.vn
 0 analytics.explus.vn
@@ -15386,6 +15393,7 @@
 0 ambitiousagreement.com
 0 americash.com
 0 amobee.com
+0 an.clhcdn.net
 0 an.cliphub.io
 0 an.cliphub.net
 0 an.tacoda.net
@@ -16512,6 +16520,7 @@
 0 leaplunchroom.com
 0 lecap-services.fr
 0 legolas-media.com
+0 lentainform.com
 0 lettucelimit.com
 0 levelrate.de
 0 lfstmedia.com
@@ -18174,7 +18183,6 @@
 0 apps.outfit7.com
 0 apps2.outfit7.com
 0 aquapuremultiservicios.es
-0 ar.tns-counter.ru
 0 argentinaglobalwines.com
 0 armazones.com
 0 arprosports.com.ar
@@ -18382,7 +18390,6 @@
 0 events-collector.spot.im
 0 events.redditmedia.com
 0 everestjs.net
-0 evilstalin.https443.net
 0 eviltracker.net
 0 evlilikfoto.com
 0 evodownload.com
@@ -18424,11 +18431,9 @@
 0 g.3gl.net
 0 g.uusee.com
 0 ga.kvideo.io
-0 galleries.securesoft.info
 0 gallerycrush.com
 0 gclabrelscon.net
 0 gdby.com.cn
-0 gddingtian.com.cn
 0 gdeea.cc
 0 gen-ever.com
 0 geoinfo.i2w.io
@@ -18482,8 +18487,6 @@
 0 hp-h.us
 0 hsbarbershop.co.uk
 0 hsych.com
-0 htpm.com.cn
-0 https443.net
 0 htxvcl.com
 0 htyzs.cn
 0 huate.hk
@@ -18502,18 +18505,15 @@
 0 im900.com
 0 images.dmca.com
 0 img.leadzutw.com
-0 img.securesoft.info
 0 indiatouragency.com
 0 indogator.com
 0 ink.churchofthefreespirit.com
 0 innatek.com
-0 install.securesoft.info
 0 intent.cbsi.com
 0 intercom.io
 0 intercomcdn.com
 0 interfere.marionunezcampusano.com
 0 interior-examples.ru
-0 interstitial.powered-by.securesoft.info
 0 investice-do-nemovitosti.eu
 0 ipcmedia.grapeshot.co.uk
 0 ipwhrtmla.epac.to
@@ -18535,7 +18535,6 @@
 0 js-cdn.dynatrace.com
 0 js.idio.co
 0 js.maxmind.com
-0 js.securesoft.info
 0 js.union.doudouguo.net
 0 jsbwpg.com
 0 jsngupdwxeoa.uglyas.com
@@ -18552,7 +18551,6 @@
 0 ktoooo.com
 0 kuaiyan.com.cn
 0 kumykoz.com
-0 kz.tns-counter.ru
 0 kzhqzx.com
 0 ladybug.gutterheatersus.com
 0 lagrotta4u.de
@@ -18586,18 +18584,7 @@
 0 log.tutuapp.com
 0 log.umsns.com
 0 log.ventunotech.com
-0 logs.xiti.com
 0 loles.neostrada.pl
-0 londparig.ga
-0 lousecn.cn
-0 lpcloudsvr302.com
-0 lpmxp2023.com
-0 lpmxp2024.com
-0 lpmxp2026.com
-0 luckyson0660.com
-0 luguanmm.com
-0 luguanzhan.com
-0 lysyp.com
 0 m.addthisedge.com
 0 macallinecn.com
 0 mads.dailymail.co.uk
@@ -18612,12 +18599,10 @@
 0 man1234.com
 0 mandarin.aquamarineku.com
 0 mannesoth.com
-0 mans.cnusher.ind.in
 0 marco-behrendt.de
 0 masasaudi.com
 0 masjlr.com
 0 mayatek.info
-0 me.3788.cn
 0 mebed.dm.gg
 0 media-match.com
 0 mediaforce.grapeshot.co.uk
@@ -18629,10 +18614,8 @@
 0 metzgerconsulting.com
 0 miamibeachhotels.tv
 0 miremanufacturing.com
-0 mixandbatch2000.co.uk
 0 mizahturk.com
 0 mjhkj8.u5a.wentserver.com
-0 mjw.or.kr
 0 mkhafnorcu81.com
 0 mmexe.com
 0 moacbeniv.com
@@ -18652,7 +18635,6 @@
 0 myeverydaylife.net
 0 myfileupload.ru
 0 mysimash.info
-0 n85853.cn
 0 nainasdesigner.com
 0 nancunshan.com
 0 neglite.com
@@ -18705,8 +18687,6 @@
 0 play.leadzutw.com
 0 playtomic.com
 0 plrxserv.com
-0 pornstar-candysue.de
-0 power.bestconstructionexpertwitness.com
 0 pozdrav-im.ru
 0 prefer.gutterhelment.com
 0 presage.io
@@ -18719,7 +18699,6 @@
 0 pv.sohu.com
 0 q2melbourne.com
 0 qabbanihost.com
-0 qgmmrvbqwlouglqggi.com
 0 qgsruo.com
 0 qqmeise.com
 0 r.3gl.net
@@ -18779,7 +18758,6 @@
 0 senrima.ru
 0 seopoint.com
 0 seqsixxx.com
-0 seres.https443.net
 0 sessions.bugsnag.com
 0 sharfiles.com
 0 shecanseeyou.info
@@ -18839,7 +18817,6 @@
 0 t70123.com
 0 tablet.gutterhelment.net
 0 tag.researchnow.com
-0 talk99.cn
 0 ted.dailymail.co.uk
 0 ted.metro.co.uk
 0 ted1.metro.co.uk
@@ -18890,7 +18867,6 @@
 0 trouble.cachetinvestments.com
 0 truckersemanifest.com
 0 ttb.lpcloudsvr302.com
-0 uci.securesoft.info
 0 uglyas.com
 0 ujvmzzwsxzrd3.com
 0 ukkvdx.com
@@ -18974,16 +18950,13 @@
 0 www.statsforads.com
 0 www.stkjw.net
 0 www.summerhamster.com
-0 www.talk99.cn
 0 www.thoosje.com
-0 www.tns-counter.ru
 0 www.unicaitaly.it
 0 www.usabilla.com
 0 www.vdtrack.com
 0 www.w3counter.com
 0 www.weigezhiyao.com
 0 www.wwgin.com
-0 www.xiti.com
 0 www.yserch.com
 0 wxjflab.com
 0 wyf003.cn

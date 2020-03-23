@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 22 Mar 2020 20:45 UTC+7
-! Version: 2003222045
-! Blocked: 353 rules
+! Last modified: 23 Mar 2020 09:45 UTC+7
+! Version: 2003230945
+! Blocked: 354 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -163,6 +163,9 @@
 ||alivar.com.vn^
 ||alivar.vn^
 ||amobi.vn^
+||an.dongphim.net^
+||an.motphim.net^
+||an.xemvtv.net^
 ||api.nas.nct.vn^
 ||apinas.nct.vn^
 ||banner.5giay.vn^
@@ -208,8 +211,6 @@
 ||vietdorje.com^
 ||vinaads.vn^
 ||alexajstrack.com^
-||an.dongphim.net^
-||an.xemvtv.net^
 ||analytics.bkav.com^
 ||analytics.easyvideo.vn^
 ||analytics.explus.vn^
