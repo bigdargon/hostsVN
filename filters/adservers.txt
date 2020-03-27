@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 23 Mar 2020 09:45 UTC+7
-! Version: 2003230945
-! Blocked: 354 rules
+! Last modified: 27 Mar 2020 22:00 UTC+7
+! Version: 2003272200
+! Blocked: 355 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -156,6 +156,7 @@
 ||adserver.lag.vn^
 ||adsplus.vn^
 ||adt.com.vn^
+||adv.baotintuc.vn^
 ||adx.kul.vn^
 ||adx.xemvtv.net^
 ||affiliate.k4.tinhte.vn^

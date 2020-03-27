@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 23 Mar 2020 09:45 UTC+7
-# Version: 2003230945
-# Blocked: 19,102 domains
+# Last modified: 27 Mar 2020 22:00 UTC+7
+# Version: 2003272200
+# Blocked: 19,145 domains
 # Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11078,6 +11078,12 @@
 0.0.0.0 wpadmin.outbrain.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 zem-us-west.outbrain.com
+#[outbrainimg.com]
+0.0.0.0 images.outbrainimg.com
+0.0.0.0 log.outbrainimg.com
+0.0.0.0 outbrainimg.com
+0.0.0.0 tcheck.outbrainimg.com
+0.0.0.0 www.outbrainimg.com
 #[growingio.com]
 0.0.0.0 accounts.growingio.com
 0.0.0.0 activity.growingio.com
@@ -11532,6 +11538,7 @@
 0.0.0.0 webassets.demandbase.com
 0.0.0.0 www.demandbase.com
 #[iperceptions.com]
+0.0.0.0 4q.iperceptions.com
 0.0.0.0 4qinvite.4q.iperceptions.com
 0.0.0.0 active.iperceptions.com
 0.0.0.0 analytics.iperceptions.com
@@ -11539,11 +11546,15 @@
 0.0.0.0 collect.iperceptions.com
 0.0.0.0 group11.iperceptions.com
 0.0.0.0 iperceptions.com
+0.0.0.0 ipinvite.iperceptions.com
 0.0.0.0 ips-collect.iperceptions.com
+0.0.0.0 ips-img.iperceptions.com
 0.0.0.0 ips-invite.iperceptions.com
+0.0.0.0 ips-post.iperceptions.com
 0.0.0.0 ipsvr06.iperceptions.com
-0.0.0.0 post.iperceptions.com	
+0.0.0.0 post.iperceptions.com
 0.0.0.0 redirect.iperceptions.com
+0.0.0.0 sd.iperceptions.com
 0.0.0.0 staging-api.iperceptions.com
 0.0.0.0 universal.iperceptions.com
 0.0.0.0 www.iperceptions.com
@@ -13760,6 +13771,33 @@
 0.0.0.0 mirs.com
 0.0.0.0 cdn.mirs.com
 0.0.0.0 www.mirs.com
+#[sail-horizon.com]
+0.0.0.0 ak.sail-horizon.com
+0.0.0.0 ak2.sail-horizon.com
+0.0.0.0 cdn.sail-horizon.com
+0.0.0.0 sail-horizon.com
+#[speedcurve.com]
+0.0.0.0 alerts.speedcurve.com
+0.0.0.0 api.speedcurve.com
+0.0.0.0 assets.speedcurve.com
+0.0.0.0 cdn.speedcurve.com
+0.0.0.0 dev.speedcurve.com
+0.0.0.0 donut.speedcurve.com
+0.0.0.0 img.speedcurve.com
+0.0.0.0 lab.speedcurve.com
+0.0.0.0 lux.speedcurve.com
+0.0.0.0 speedcurve.com
+0.0.0.0 ssd.speedcurve.com
+0.0.0.0 status.speedcurve.com
+0.0.0.0 wpt.speedcurve.com
+0.0.0.0 wpt1.speedcurve.com
+0.0.0.0 www.speedcurve.com
+#[uprimp.com]
+0.0.0.0 banners.uprimp.com
+0.0.0.0 click.uprimp.com
+0.0.0.0 redir.uprimp.com
+0.0.0.0 uprimp.com
+0.0.0.0 www.uprimp.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14879,6 +14917,7 @@
 0.0.0.0 adsplus.vn
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adt.com.vn
+0.0.0.0 adv.baotintuc.vn
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.xemvtv.net
 0.0.0.0 affiliate.k4.tinhte.vn
@@ -16084,6 +16123,7 @@
 0.0.0.0 ambitiousagreement.com
 0.0.0.0 americash.com
 0.0.0.0 amobee.com
+0.0.0.0 an.acxapi.net
 0.0.0.0 an.clhcdn.net
 0.0.0.0 an.cliphub.io
 0.0.0.0 an.cliphub.net
@@ -17942,7 +17982,6 @@
 0.0.0.0 rythmxchange.com
 0.0.0.0 s2d6.com
 0.0.0.0 sageanalyst.net
-0.0.0.0 sail-horizon.com
 0.0.0.0 sailif.com
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungads.com
@@ -19786,6 +19825,15 @@
 0.0.0.0 notice-fixer.site
 0.0.0.0 notice-iphone.site
 0.0.0.0 notice-phone.site
+#[protection-*.site]
+0.0.0.0 protection-booster.site
+0.0.0.0 protection-cellphone.site
+0.0.0.0 protection-cleaner.site
+0.0.0.0 protection-device.site
+0.0.0.0 protection-fix.site
+0.0.0.0 protection-fixer.site
+0.0.0.0 protection-iphone.site
+0.0.0.0 protection-phone.site
 # --- Extra block ---
 #[appsflyer.com]
 0.0.0.0 api.appsflyer.com

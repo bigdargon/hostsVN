@@ -1064,6 +1064,7 @@
 0.0.0.0 ambitiousagreement.com
 0.0.0.0 americash.com
 0.0.0.0 amobee.com
+0.0.0.0 an.acxapi.net
 0.0.0.0 an.clhcdn.net
 0.0.0.0 an.cliphub.io
 0.0.0.0 an.cliphub.net
@@ -2922,7 +2923,6 @@
 0.0.0.0 rythmxchange.com
 0.0.0.0 s2d6.com
 0.0.0.0 sageanalyst.net
-0.0.0.0 sail-horizon.com
 0.0.0.0 sailif.com
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungads.com
@@ -4766,3 +4766,12 @@
 0.0.0.0 notice-fixer.site
 0.0.0.0 notice-iphone.site
 0.0.0.0 notice-phone.site
+#[protection-*.site]
+0.0.0.0 protection-booster.site
+0.0.0.0 protection-cellphone.site
+0.0.0.0 protection-cleaner.site
+0.0.0.0 protection-device.site
+0.0.0.0 protection-fix.site
+0.0.0.0 protection-fixer.site
+0.0.0.0 protection-iphone.site
+0.0.0.0 protection-phone.site
