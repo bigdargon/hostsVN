@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 29 Mar 2020 21:32 UTC+7
-# Version: 2003292132
-# Blocked: 18,576 domains
+# Last modified: 29 Mar 2020 21:53 UTC+7
+# Version: 2003292153
+# Blocked: 18,545 domains
 # Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13853,6 +13853,12 @@
 0.0.0.0 revenuehits.com
 0.0.0.0 www.revenuehits.com
 0.0.0.0 xml.revenuehits.com
+#[analytiall.com]
+0.0.0.0 analytiall.com
+0.0.0.0 forecast.analytiall.com
+0.0.0.0 sdk.analytiall.com
+0.0.0.0 stat.analytiall.com
+0.0.0.0 www.analytiall.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -18812,17 +18818,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zumobi.com
 # --- Block other trackingVN ---
-0.0.0.0 0746bit.com
-0.0.0.0 0871ggw.net
-0.0.0.0 12directions.com
 0.0.0.0 2o7.net
-0.0.0.0 3e1.cn
-0.0.0.0 3gl.net
-0.0.0.0 4009997279.com
-0.0.0.0 5-g.cn
-0.0.0.0 52yxg.cn
-0.0.0.0 99976.com
-0.0.0.0 99chg.com
 0.0.0.0 a.axmtrack.com
 0.0.0.0 a.idio.co
 0.0.0.0 a.klaviyo.com
@@ -18833,7 +18829,6 @@
 0.0.0.0 akuaba.chez.com
 0.0.0.0 ampmetrics.techcrunch.com
 0.0.0.0 analysis.polarisoffice.com
-0.0.0.0 analytiall.com
 0.0.0.0 analytics-digit-in.cdn.ampproject.org
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics.247sports.com
@@ -18879,8 +18874,6 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 applog.camera360.com
 0.0.0.0 appres.camera360.com
-0.0.0.0 apps.outfit7.com
-0.0.0.0 apps2.outfit7.com
 0.0.0.0 asdkd.tutuapp.com
 0.0.0.0 ati-host.net
 0.0.0.0 axmtrack.com
@@ -18900,7 +18893,6 @@
 0.0.0.0 c.snnd.co
 0.0.0.0 c.webengage.com
 0.0.0.0 c2i-cdn.startappnetwork.com
-0.0.0.0 cache.usabilla.com
 0.0.0.0 cankaowang.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccgateway.net
@@ -18948,7 +18940,6 @@
 0.0.0.0 eviltracker.net
 0.0.0.0 fchabkirchen-frauenberg.de
 0.0.0.0 fff.dailymail.co.uk
-0.0.0.0 forecast.analytiall.com
 0.0.0.0 frog.wix.com
 0.0.0.0 future.grapeshot.co.uk
 0.0.0.0 g.3gl.net
@@ -18959,7 +18950,6 @@
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geoip.tnt-ea.com
 0.0.0.0 getexceptional.com
-0.0.0.0 global.ymtracking.com
 0.0.0.0 globalwebindex.net
 0.0.0.0 go.ad1data.com
 0.0.0.0 gotoip55.com
@@ -18988,13 +18978,11 @@
 0.0.0.0 ipcmedia.grapeshot.co.uk
 0.0.0.0 itclk.com
 0.0.0.0 johnston.grapeshot.co.uk
-0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 js.idio.co
 0.0.0.0 js.maxmind.com
 0.0.0.0 k6r.net
 0.0.0.0 kidsghibli.com
 0.0.0.0 kkvmaj.com
-0.0.0.0 lead.soperson.com
 0.0.0.0 leadzutw.com
 0.0.0.0 lem-computers.net
 0.0.0.0 liftoff.io
@@ -19081,7 +19069,6 @@
 0.0.0.0 sc-static.net
 0.0.0.0 schibsted.com
 0.0.0.0 schibsted.io
-0.0.0.0 sdk.analytiall.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 showbiz.owndata.network
 0.0.0.0 si.dailymail.co.uk
@@ -19095,7 +19082,6 @@
 0.0.0.0 softtube.cn
 0.0.0.0 soidc.com
 0.0.0.0 soperson.com
-0.0.0.0 stat.analytiall.com
 0.0.0.0 stathat.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.leaddyno.com
@@ -19134,7 +19120,6 @@
 0.0.0.0 tracking.i2w.io
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 traffic.spot.im
-0.0.0.0 transpec.vn
 0.0.0.0 trinitymirror.grapeshot.co.uk
 0.0.0.0 trk.clinch.co
 0.0.0.0 trk.pinterest.com
@@ -19149,8 +19134,6 @@
 0.0.0.0 vectaury.io
 0.0.0.0 vi-serve.com
 0.0.0.0 vilagnomad.com
-0.0.0.0 vrl.m.conviva.com
-0.0.0.0 w.usabilla.com
 0.0.0.0 w3counter.com
 0.0.0.0 wa.metro.co.uk
 0.0.0.0 wc-tracking.lavasoft.com
@@ -19159,36 +19142,23 @@
 0.0.0.0 weigezhiyao.com
 0.0.0.0 widget.uservoice.com
 0.0.0.0 wieistmeineip.de
-0.0.0.0 www.4009997279.com
-0.0.0.0 www.51ysxs.com
 0.0.0.0 www.anticarredodolomiti.com
-0.0.0.0 www.defygravity.com
 0.0.0.0 www.ethtrader.de
 0.0.0.0 www.everestjs.net
-0.0.0.0 www.hentelpower.com
 0.0.0.0 www.hitcpm.com
-0.0.0.0 www.js-cdn.dynatrace.com
 0.0.0.0 www.montacarichi.it
-0.0.0.0 www.myhongyuan.net
 0.0.0.0 www.npttech.com
 0.0.0.0 www.placehold.it
 0.0.0.0 www.rtb123.com
-0.0.0.0 www.scoeyc.com
-0.0.0.0 www.soperson.com
 0.0.0.0 www.statsforads.com
 0.0.0.0 www.summerhamster.com
-0.0.0.0 www.usabilla.com
 0.0.0.0 www.vdtrack.com
 0.0.0.0 www.w3counter.com
 0.0.0.0 www.weigezhiyao.com
-0.0.0.0 www.wwgin.com
 0.0.0.0 xaxis.grapeshot.co.uk
 0.0.0.0 ymtracking.com
 0.0.0.0 youthfire.com
-0.0.0.0 yun-static.soperson.com
 0.0.0.0 zarget.com
-0.0.0.0 zee.cws.conviva.com
-0.0.0.0 zhaopai020.com
 # --- Block other scamVN ---
 0.0.0.0 applelink.store
 0.0.0.0 comptrffc.com
