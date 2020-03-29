@@ -1,9 +1,10 @@
 ! Title: hostsVN
-! Last modified: 29 Mar 2020 21:53 UTC+7
-! Version: 2003292153
+! Last modified: 29 Mar 2020 22:28 UTC+7
+! Version: 2003292228
 ! Blocked: 5,184 rules
 ! Expires: 1 days (update frequency)
-! The section containing the list contains all ad networks and tracking
+! Homepage: https://bigdargon.github.io/hostsVN/
+! Description: Filter contains all ad networks and tracking frequently accessed.
 !
 ||ad.org.vn^
 ||ad.zing.vn^
