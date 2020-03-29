@@ -12583,6 +12583,24 @@
 0.0.0.0 aditmedia.go2afse.com
 0.0.0.0 go2affise.com
 0.0.0.0 aditmedia.go2affise.com
+#[trafficstars.com]
+0.0.0.0 admin.trafficstars.com
+0.0.0.0 api.trafficstars.com
+0.0.0.0 auth.trafficstars.com
+0.0.0.0 cdn.trafficstars.com
+0.0.0.0 cnt.trafficstars.com
+0.0.0.0 extmedia.trafficstars.com
+0.0.0.0 gate.trafficstars.com
+0.0.0.0 new.trafficstars.com
+0.0.0.0 pxl.trafficstars.com
+0.0.0.0 rotator.trafficstars.com
+0.0.0.0 staging.trafficstars.com
+0.0.0.0 static.trafficstars.com
+0.0.0.0 tesla.trafficstars.com
+0.0.0.0 trafficstars.com
+0.0.0.0 us-pxl.trafficstars.com
+0.0.0.0 ws3.trafficstars.com
+0.0.0.0 www.trafficstars.com
 #[tsyndicate.com]
 0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 pxl.tsyndicate.com
@@ -13786,3 +13804,40 @@
 0.0.0.0 redir.uprimp.com
 0.0.0.0 uprimp.com
 0.0.0.0 www.uprimp.com
+#[viadata.store]
+0.0.0.0 cdn.viadata.store
+0.0.0.0 logs.viadata.store
+0.0.0.0 rtb.viadata.store
+0.0.0.0 static.viadata.store
+0.0.0.0 viadata.store
+#[firstimpression.io]
+0.0.0.0 admin.firstimpression.io
+0.0.0.0 admin1.firstimpression.io
+0.0.0.0 adstxt.firstimpression.io
+0.0.0.0 andbeyond.cdn.firstimpression.io
+0.0.0.0 andbeyond.ecdn.firstimpression.io
+0.0.0.0 cdn.firstimpression.io
+0.0.0.0 cooperate.firstimpression.io
+0.0.0.0 ecdn.firstimpression.io
+0.0.0.0 firstimpression.io
+0.0.0.0 habit.firstimpression.io
+0.0.0.0 hbt.firstimpression.io
+0.0.0.0 nothotdog.firstimpression.io
+0.0.0.0 products.firstimpression.io
+0.0.0.0 publishers.firstimpression.io
+0.0.0.0 secure.firstimpression.io
+0.0.0.0 tracking.firstimpression.io
+0.0.0.0 tracking1.firstimpression.io
+0.0.0.0 tracking2.firstimpression.io
+0.0.0.0 www.firstimpression.io
+#[analysis.fi]
+0.0.0.0 analysis.fi
+0.0.0.0 ecdn.analysis.fi
+0.0.0.0 measure.analysis.fi
+0.0.0.0 www.analysis.fi
+#[revenuehits.com]
+0.0.0.0 filter.revenuehits.com
+0.0.0.0 jira.revenuehits.com
+0.0.0.0 revenuehits.com
+0.0.0.0 www.revenuehits.com
+0.0.0.0 xml.revenuehits.com

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Mar 2020 22:00 UTC+7
-# Version: 2003272200
-# Blocked: 19,145 domains
+# Last modified: 29 Mar 2020 21:02 UTC+7
+# Version: 2003292102
+# Blocked: 19,202 domains
 # Please report any ads or problems on GitHub
 # Home: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12595,6 +12595,24 @@
 0.0.0.0 aditmedia.go2afse.com
 0.0.0.0 go2affise.com
 0.0.0.0 aditmedia.go2affise.com
+#[trafficstars.com]
+0.0.0.0 admin.trafficstars.com
+0.0.0.0 api.trafficstars.com
+0.0.0.0 auth.trafficstars.com
+0.0.0.0 cdn.trafficstars.com
+0.0.0.0 cnt.trafficstars.com
+0.0.0.0 extmedia.trafficstars.com
+0.0.0.0 gate.trafficstars.com
+0.0.0.0 new.trafficstars.com
+0.0.0.0 pxl.trafficstars.com
+0.0.0.0 rotator.trafficstars.com
+0.0.0.0 staging.trafficstars.com
+0.0.0.0 static.trafficstars.com
+0.0.0.0 tesla.trafficstars.com
+0.0.0.0 trafficstars.com
+0.0.0.0 us-pxl.trafficstars.com
+0.0.0.0 ws3.trafficstars.com
+0.0.0.0 www.trafficstars.com
 #[tsyndicate.com]
 0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 pxl.tsyndicate.com
@@ -13798,6 +13816,43 @@
 0.0.0.0 redir.uprimp.com
 0.0.0.0 uprimp.com
 0.0.0.0 www.uprimp.com
+#[viadata.store]
+0.0.0.0 cdn.viadata.store
+0.0.0.0 logs.viadata.store
+0.0.0.0 rtb.viadata.store
+0.0.0.0 static.viadata.store
+0.0.0.0 viadata.store
+#[firstimpression.io]
+0.0.0.0 admin.firstimpression.io
+0.0.0.0 admin1.firstimpression.io
+0.0.0.0 adstxt.firstimpression.io
+0.0.0.0 andbeyond.cdn.firstimpression.io
+0.0.0.0 andbeyond.ecdn.firstimpression.io
+0.0.0.0 cdn.firstimpression.io
+0.0.0.0 cooperate.firstimpression.io
+0.0.0.0 ecdn.firstimpression.io
+0.0.0.0 firstimpression.io
+0.0.0.0 habit.firstimpression.io
+0.0.0.0 hbt.firstimpression.io
+0.0.0.0 nothotdog.firstimpression.io
+0.0.0.0 products.firstimpression.io
+0.0.0.0 publishers.firstimpression.io
+0.0.0.0 secure.firstimpression.io
+0.0.0.0 tracking.firstimpression.io
+0.0.0.0 tracking1.firstimpression.io
+0.0.0.0 tracking2.firstimpression.io
+0.0.0.0 www.firstimpression.io
+#[analysis.fi]
+0.0.0.0 analysis.fi
+0.0.0.0 ecdn.analysis.fi
+0.0.0.0 measure.analysis.fi
+0.0.0.0 www.analysis.fi
+#[revenuehits.com]
+0.0.0.0 filter.revenuehits.com
+0.0.0.0 jira.revenuehits.com
+0.0.0.0 revenuehits.com
+0.0.0.0 www.revenuehits.com
+0.0.0.0 xml.revenuehits.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15047,6 +15102,7 @@
 0.0.0.0 widget.nhaccuatui.com
 0.0.0.0 www.trending.vn
 # --- Block scamVN ---
+0.0.0.0 celerantatters.com
 0.0.0.0 fuckbookvietnam.com
 0.0.0.0 hashearog.com
 0.0.0.0 quangcaotructuyen247.com
@@ -16338,6 +16394,7 @@
 0.0.0.0 beamkite.com
 0.0.0.0 beauty-tea.com
 0.0.0.0 bedsbreath.com
+0.0.0.0 beeashale.club
 0.0.0.0 begun.ru
 0.0.0.0 beharmalted.info
 0.0.0.0 behavioralengine.com
@@ -16611,6 +16668,7 @@
 0.0.0.0 consciouschairs.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 constintptr.com
+0.0.0.0 constrongyfe.site
 0.0.0.0 consumer.exacttargetapis.com
 0.0.0.0 contadores.miarroba.com
 0.0.0.0 contaxe.de
@@ -16898,6 +16956,7 @@
 0.0.0.0 fadedprofit.com
 0.0.0.0 faidoud.com
 0.0.0.0 familiarfloor.com
+0.0.0.0 famountsuref.site
 0.0.0.0 famousquarter.com
 0.0.0.0 fanaticalfly.com
 0.0.0.0 farethief.com
@@ -17279,6 +17338,7 @@
 0.0.0.0 linkswaper.com
 0.0.0.0 linktarget.com
 0.0.0.0 liquidad.narrowcastmedia.com
+0.0.0.0 litheremility.site
 0.0.0.0 liveadexchanger.com
 0.0.0.0 liveintent.com
 0.0.0.0 liverail.com
@@ -17688,6 +17748,7 @@
 0.0.0.0 pc2ads.com
 0.0.0.0 pcash.imlive.com
 0.0.0.0 pcmclk.com
+0.0.0.0 pcteast.com
 0.0.0.0 peacepowder.com
 0.0.0.0 peep-auktion.de
 0.0.0.0 peer39.com
@@ -18666,6 +18727,7 @@
 0.0.0.0 www.onclicksuper.com
 0.0.0.0 www.oriori.com
 0.0.0.0 www.pcmclk.com
+0.0.0.0 www.pcteast.com
 0.0.0.0 www.performanceadexchange.com
 0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www.powerad.ai
