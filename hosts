@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 29 Mar 2020 22:28 UTC+7
-# Version: 2003292228
-# Blocked: 18,545 domains
+# Last modified: 29 Mar 2020 22:33 UTC+7
+# Version: 2003292233
+# Blocked: 18,543 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13859,6 +13859,10 @@
 0.0.0.0 sdk.analytiall.com
 0.0.0.0 stat.analytiall.com
 0.0.0.0 www.analytiall.com
+#[rayads.cn]
+0.0.0.0 rayads.cn
+0.0.0.0 click.rayads.cn
+0.0.0.0 www.rayads.cn
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -16588,7 +16592,6 @@
 0.0.0.0 click.fool.com
 0.0.0.0 click.howdoesin.net
 0.0.0.0 click.kmindex.ru
-0.0.0.0 click.rayads.cn
 0.0.0.0 click2freemoney.com
 0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
@@ -17947,7 +17950,6 @@
 0.0.0.0 raresummer.com
 0.0.0.0 rate.ru
 0.0.0.0 ratings.lycos.com
-0.0.0.0 rayads.cn
 0.0.0.0 rb1.design.ru
 0.0.0.0 re-directme.com
 0.0.0.0 reachjunction.com
@@ -18914,7 +18916,6 @@
 0.0.0.0 databerries.com
 0.0.0.0 demo25.extstore.com
 0.0.0.0 device.maxmind.com
-0.0.0.0 dgbangyuan.cn
 0.0.0.0 discountcode.dailymail.co.uk
 0.0.0.0 distillery.wistia.com
 0.0.0.0 djplazebo.com
@@ -18933,7 +18934,6 @@
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 ethtrader.de
 0.0.0.0 etl.tindersparks.com
-0.0.0.0 eurocompkft.hu
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events.redditmedia.com
 0.0.0.0 everestjs.net
@@ -19079,7 +19079,6 @@
 0.0.0.0 smetrics.boston.com
 0.0.0.0 snnd.co
 0.0.0.0 soflopxl.com
-0.0.0.0 softtube.cn
 0.0.0.0 soidc.com
 0.0.0.0 soperson.com
 0.0.0.0 stathat.com
