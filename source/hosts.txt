@@ -4039,6 +4039,7 @@
 0.0.0.0 cpa-tc.com
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
 0.0.0.0 d2k1gzykfsah3o.cloudfront.net
+0.0.0.0 d3dkhq0wwdwodv.cloudfront.net
 0.0.0.0 fmiphone-apple.com
 0.0.0.0 fortt-rade.com
 0.0.0.0 icloud.com-locations.in
@@ -4114,3 +4115,12 @@
 0.0.0.0 protection-fixer.site
 0.0.0.0 protection-iphone.site
 0.0.0.0 protection-phone.site
+#[protection-*.fun]
+0.0.0.0 protection-booster.fun
+0.0.0.0 protection-cellphone.fun
+0.0.0.0 protection-cleaner.fun
+0.0.0.0 protection-device.fun
+0.0.0.0 protection-fix.fun
+0.0.0.0 protection-fixer.fun
+0.0.0.0 protection-iphone.fun
+0.0.0.0 protection-phone.fun

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 31 Mar 2020 10:06 UTC+7
-! Version: 2003311006
-! Blocked: 5,183 rules
+! Last modified: 31 Mar 2020 15:17 UTC+7
+! Version: 2003311517
+! Blocked: 5,186 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1019,6 +1019,7 @@
 ||pubmine.com^
 ||pubnative.net^
 ||puds.ucweb.com^
+||pushpush.io^
 ||pushtimize.com^
 ||pushwoosh.com^
 ||qualtrics.com^
@@ -5158,6 +5159,7 @@
 ||cpa-tc.com^
 ||d1nmxiiewlx627.cloudfront.net^
 ||d2k1gzykfsah3o.cloudfront.net^
+||d3dkhq0wwdwodv.cloudfront.net^
 ||fmiphone-apple.com^
 ||fortt-rade.com^
 ||icloud.com-locations.in^
@@ -5175,6 +5177,7 @@
 ||phone-notification.com^
 ||phone-notification.online^
 ||phone-notify.com^
+||protection-*.fun^
 ||protection-*.site^
 ||screenshielded.com^
 ||securedashfuyiersa.com^

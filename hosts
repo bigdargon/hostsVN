@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 31 Mar 2020 10:06 UTC+7
-# Version: 2003311006
-# Blocked: 18,535 domains
+# Last modified: 31 Mar 2020 15:17 UTC+7
+# Version: 2003311517
+# Blocked: 18,547 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13854,6 +13854,10 @@
 0.0.0.0 rayads.cn
 0.0.0.0 click.rayads.cn
 0.0.0.0 www.rayads.cn
+#[pushpush.io]
+0.0.0.0 click.pushpush.io
+0.0.0.0 pushpush.io
+0.0.0.0 www.pushpush.io
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -19155,6 +19159,7 @@
 0.0.0.0 cpa-tc.com
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
 0.0.0.0 d2k1gzykfsah3o.cloudfront.net
+0.0.0.0 d3dkhq0wwdwodv.cloudfront.net
 0.0.0.0 fmiphone-apple.com
 0.0.0.0 fortt-rade.com
 0.0.0.0 icloud.com-locations.in
@@ -19230,6 +19235,15 @@
 0.0.0.0 protection-fixer.site
 0.0.0.0 protection-iphone.site
 0.0.0.0 protection-phone.site
+#[protection-*.fun]
+0.0.0.0 protection-booster.fun
+0.0.0.0 protection-cellphone.fun
+0.0.0.0 protection-cleaner.fun
+0.0.0.0 protection-device.fun
+0.0.0.0 protection-fix.fun
+0.0.0.0 protection-fixer.fun
+0.0.0.0 protection-iphone.fun
+0.0.0.0 protection-phone.fun
 # --- Extra block ---
 #[appsflyer.com]
 0.0.0.0 api.appsflyer.com
