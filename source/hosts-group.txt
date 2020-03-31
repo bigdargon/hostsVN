@@ -154,19 +154,18 @@
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 ads.gmodules.com
-#[microsoft]
-0.0.0.0 amer.hops.glbdns.microsoft.com
-0.0.0.0 apprep.smartscreen.microsoft.com
-0.0.0.0 browser.pipe.aria.microsoft.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
+#[microsoft.com]
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
-0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com
-0.0.0.0 v10.events.data.microsoft.com
-0.0.0.0 v10c.events.data.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 bingads.microsoft.com
+0.0.0.0 advertise.bingads.microsoft.com
+0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 c.microsoft.com
 #[atdmt.com]
 0.0.0.0 ad.atdmt.com
 0.0.0.0 adecn-w.atdmt.com
@@ -8659,14 +8658,6 @@
 0.0.0.0 us.adform.net
 0.0.0.0 villaxl.adform.net
 0.0.0.0 xd.adform.net
-#[bnc.lt]
-0.0.0.0 bnc.lt
-0.0.0.0 custom.bnc.lt
-0.0.0.0 custom2.bnc.lt
-0.0.0.0 dev.bnc.lt
-0.0.0.0 epsilon.thirdparty.bnc.lt
-0.0.0.0 thirdparty.bnc.lt
-0.0.0.0 thirdparty-staging.bnc.lt
 #[adz2you.net]
 0.0.0.0 adz2you.net
 0.0.0.0 adhitzcom.adz2you.net

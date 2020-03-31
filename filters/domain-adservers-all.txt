@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 30 Mar 2020 21:24 UTC+7
-! Version: 2003302124
-! Blocked: 5,180 domains
+! Last modified: 31 Mar 2020 10:06 UTC+7
+! Version: 2003311006
+! Blocked: 5,183 domains
 ! The section containing the list contains all ad networks and tracking
 !
 ad.org.vn
@@ -606,12 +606,12 @@ bidr.io
 bidswitch.net
 bigclicker.me
 bilsyndication.com
+bingads.microsoft.com
 bizible.com
 bj1*.online
 bkrtx.com
 blueseed.tv
 blueserving.com
-bnc.lt
 bnmla.com
 bounceexchange.com
 branch.io
@@ -620,12 +620,14 @@ brand.ad
 breaktime-inc.com
 breaktime.com.tw
 brealtime.com
+browser.pipe.aria.microsoft.com
 bs.yandex.ru
 btrace.video.qq.com
 bttrack.com
 bugly.qq.com
 bzclk.baidu.com
 c.bing.com
+c.microsoft.com
 cacafly.net
 casalemedia.com
 cbsileads.com
@@ -732,7 +734,6 @@ ematicsolutions.com
 emxdgt.com
 engageya.com
 epom.com
-events.data.microsoft.com
 everesttech.net
 evidon.com
 exdynsrv.com
@@ -913,6 +914,7 @@ moatads.com
 mobads.baidu.com
 mobclix.com
 mobfox.com
+mobile.pipe.aria.microsoft.com
 mobileads.msn.com
 mobileanalytics.*.amazonaws.com
 mobileapptracking.com
@@ -985,7 +987,6 @@ piano.io
 pingdom.net
 pingma.qq.com
 pinpoint.*.amazonaws.com
-pipe.aria.microsoft.com
 pixel-static.spotify.com
 pixel.facebook.com
 pixel.spotify.com
@@ -1114,6 +1115,7 @@ tapjoy.com
 taplytics.com
 taxel.jp
 teads.tv
+telemetry.microsoft.com
 tenmax.io
 themoneytizer.com
 tinypass.com
@@ -1159,6 +1161,7 @@ viglink.com
 viruspro.pro
 vntsm.com
 voicefive.com
+vortex.data.microsoft.com
 vserv.mobi
 vungle.com
 w88.go.com

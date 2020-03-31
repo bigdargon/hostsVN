@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Mar 2020 21:24 UTC+7
-# Version: 2003302124
-# Blocked: 18,543 domains
+# Last modified: 31 Mar 2020 10:06 UTC+7
+# Version: 2003311006
+# Blocked: 18,535 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -167,18 +167,17 @@
 0 www-google-analytics.l.google.com
 0 www-googletagmanager.l.google.com
 0 ads.gmodules.com
-0 amer.hops.glbdns.microsoft.com
-0 apprep.smartscreen.microsoft.com
-0 browser.pipe.aria.microsoft.com
-0 mobile.pipe.aria.microsoft.com
 0 reports.wes.df.telemetry.microsoft.com
 0 sqm.telemetry.microsoft.com
-0 statsfe2.ws.microsoft.com
 0 telecommand.telemetry.microsoft.com
-0 v10.events.data.microsoft.com
-0 v10c.events.data.microsoft.com
 0 watson.telemetry.microsoft.com
 0 wes.df.telemetry.microsoft.com
+0 bingads.microsoft.com
+0 advertise.bingads.microsoft.com
+0 browser.pipe.aria.microsoft.com
+0 mobile.pipe.aria.microsoft.com
+0 vortex.data.microsoft.com
+0 c.microsoft.com
 0 ad.atdmt.com
 0 adecn-w.atdmt.com
 0 adn.atdmt.com
@@ -8327,13 +8326,6 @@
 0 us.adform.net
 0 villaxl.adform.net
 0 xd.adform.net
-0 bnc.lt
-0 custom.bnc.lt
-0 custom2.bnc.lt
-0 dev.bnc.lt
-0 epsilon.thirdparty.bnc.lt
-0 thirdparty.bnc.lt
-0 thirdparty-staging.bnc.lt
 0 adz2you.net
 0 adhitzcom.adz2you.net
 0 android.adz2you.net
