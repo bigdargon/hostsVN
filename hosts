@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Apr 2020 09:40 UTC+7
-# Version: 2004030940
-# Blocked: 18,605 domains
+# Last modified: 03 Apr 2020 09:48 UTC+7
+# Version: 2004030948
+# Blocked: 18,606 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -15131,6 +15131,7 @@
 0.0.0.0 logging.galaxypub.vn
 0.0.0.0 logging.phunuonline.com.vn
 0.0.0.0 logsbin.dantri.com.vn
+0.0.0.0 nstat.headlines.pw
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn

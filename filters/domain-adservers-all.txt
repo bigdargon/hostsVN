@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 03 Apr 2020 09:40 UTC+7
-! Version: 2004030940
-! Blocked: 5,190 domains
+! Last modified: 03 Apr 2020 09:48 UTC+7
+! Version: 2004030948
+! Blocked: 5,191 domains
 ! The section containing the list contains all ad networks and tracking
 !
 ad.org.vn
@@ -240,6 +240,7 @@ log4x.nixcdn.com
 logging.galaxypub.vn
 logging.phunuonline.com.vn
 logsbin.dantri.com.vn
+nstat.headlines.pw
 s.baomoi.xdn.vn
 s.kenh14.vn
 s.soha.vn
