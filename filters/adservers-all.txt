@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 31 Mar 2020 15:17 UTC+7
-! Version: 2003311517
-! Blocked: 5,186 rules
+! Last modified: 03 Apr 2020 09:40 UTC+7
+! Version: 2004030940
+! Blocked: 5,190 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -739,6 +739,7 @@
 ||everesttech.net^
 ||evidon.com^
 ||exdynsrv.com^
+||exelator.com^
 ||exit-ad.com^
 ||exoclick.com^
 ||exosrv.com^
@@ -749,6 +750,7 @@
 ||fabric.io^
 ||fads*s.com^
 ||fads*z.com^
+||faktor.io^
 ||fclick-adnow.com^
 ||fidelity-media.com^
 ||filament-stats.herokuapp.com^
@@ -2076,6 +2078,7 @@
 ||adsmogo.mobi^
 ||adsmogo.net^
 ||adsmogo.org^
+||adsniper.ru^
 ||adsoctopus.com^
 ||adsoftware.com^
 ||adsoldier.com^
@@ -2536,6 +2539,7 @@
 ||boom.ro^
 ||boomads.com^
 ||boost-my-pr.de^
+||bopvetgel.com^
 ||boredcrown.com^
 ||boringcoat.com^
 ||boudja.com^
@@ -3015,7 +3019,6 @@
 ||exchangead.com^
 ||exchangeclicksonline.com^
 ||exclusivebrass.com^
-||exelator.com^
 ||exit76.com^
 ||exitexchange.com^
 ||exitfuel.com^
@@ -4150,6 +4153,7 @@
 ||scripte-monster.de^
 ||scrubsky.com^
 ||scrubswim.com^
+||seaboblit.com^
 ||searchfeast.com^
 ||searchmarketing.com^
 ||searchramp.com^

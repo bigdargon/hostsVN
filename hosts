@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 31 Mar 2020 15:17 UTC+7
-# Version: 2003311517
-# Blocked: 18,547 domains
+# Last modified: 03 Apr 2020 09:40 UTC+7
+# Version: 2004030940
+# Blocked: 18,605 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13858,6 +13858,64 @@
 0.0.0.0 click.pushpush.io
 0.0.0.0 pushpush.io
 0.0.0.0 www.pushpush.io
+#[exelator.com]
+0.0.0.0 action.exelator.com
+0.0.0.0 ap-central.load.exelator.com
+0.0.0.0 ap-northeast.load.exelator.com
+0.0.0.0 ap-southeast.load.exelator.com
+0.0.0.0 cdn.exelator.com
+0.0.0.0 eu-static.load.exelator.com
+0.0.0.0 eu-west.load.exelator.com
+0.0.0.0 exelator.com
+0.0.0.0 global.load.exelator.com
+0.0.0.0 haproxy.ewr1.exelator.com
+0.0.0.0 imrww.exelator.com
+0.0.0.0 load.exelator.com
+0.0.0.0 loadan.exelator.com
+0.0.0.0 loadeu.exelator.com
+0.0.0.0 loadm.exelator.com
+0.0.0.0 loadm.tm.ssl.exelator.com
+0.0.0.0 loadpm.exelator.com
+0.0.0.0 loadr.exelator.com
+0.0.0.0 loadus.exelator.com
+0.0.0.0 loadus.tm.ssl.exelator.com
+0.0.0.0 loadvxsc.exelator.com
+0.0.0.0 mojo.exelator.com
+0.0.0.0 mojo-dev.exelator.com
+0.0.0.0 mydmp.exelator.com
+0.0.0.0 pixel.exelator.com
+0.0.0.0 pwm.exelator.com
+0.0.0.0 sandbox.exelator.com
+0.0.0.0 smart.exelator.com
+0.0.0.0 smart.scexp.exelator.com
+0.0.0.0 smart.txexp.exelator.com
+0.0.0.0 static.exelator.com
+0.0.0.0 us-central.load.exelator.com
+0.0.0.0 us-east.load.exelator.com
+0.0.0.0 us-west.load.exelator.com
+0.0.0.0 vdna.exelator.com
+0.0.0.0 west.us.tm.exelator.com
+0.0.0.0 www.exelator.com
+#[faktor.io]
+0.0.0.0 cdn.faktor.io
+0.0.0.0 cmp.choice.faktor.io
+0.0.0.0 cmp-headless-dev.choice.faktor.io
+0.0.0.0 cmp-loader.choice.faktor.io
+0.0.0.0 config-prod.choice.faktor.io
+0.0.0.0 cw.choice.faktor.io
+0.0.0.0 faktor.io
+0.0.0.0 faktorid-fid.choice.faktor.io
+0.0.0.0 faktornet.faktor.io
+0.0.0.0 geo.choice.faktor.io
+0.0.0.0 intranet.faktor.io
+0.0.0.0 logos.choice.faktor.io
+0.0.0.0 logs.choice.faktor.io
+0.0.0.0 lounge.faktor.io
+0.0.0.0 m.faktor.io
+0.0.0.0 mobile.faktor.io
+0.0.0.0 portal.faktor.io
+0.0.0.0 vendors.choice.faktor.io
+0.0.0.0 www.faktor.io
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15998,6 +16056,7 @@
 0.0.0.0 adsmogo.mobi
 0.0.0.0 adsmogo.net
 0.0.0.0 adsmogo.org
+0.0.0.0 adsniper.ru
 0.0.0.0 adsoctopus.com
 0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
@@ -16457,6 +16516,7 @@
 0.0.0.0 boom.ro
 0.0.0.0 boomads.com
 0.0.0.0 boost-my-pr.de
+0.0.0.0 bopvetgel.com
 0.0.0.0 boredcrown.com
 0.0.0.0 boringcoat.com
 0.0.0.0 boudja.com
@@ -16935,7 +16995,6 @@
 0.0.0.0 exchangead.com
 0.0.0.0 exchangeclicksonline.com
 0.0.0.0 exclusivebrass.com
-0.0.0.0 exelator.com
 0.0.0.0 exit76.com
 0.0.0.0 exitexchange.com
 0.0.0.0 exitfuel.com
@@ -18067,6 +18126,7 @@
 0.0.0.0 scripte-monster.de
 0.0.0.0 scrubsky.com
 0.0.0.0 scrubswim.com
+0.0.0.0 seaboblit.com
 0.0.0.0 searchfeast.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 searchramp.com
