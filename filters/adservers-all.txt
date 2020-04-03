@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 03 Apr 2020 09:48 UTC+7
-! Version: 2004030948
-! Blocked: 5,191 rules
+! Last modified: 03 Apr 2020 14:23 UTC+7
+! Version: 2004031423
+! Blocked: 5,192 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4610,6 +4610,7 @@
 ||tvas-c.pw^
 ||tvmtracker.com^
 ||twittad.com^
+||twokidjay.com^
 ||twyn.com^
 ||txtimpact.com^
 ||typicalteeth.com^
