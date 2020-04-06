@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Apr 2020 14:23 UTC+7
-! Version: 2004031423
-! Blocked: 357 rules
+! Last modified: 06 Apr 2020 10:38 UTC+7
+! Version: 2004061038
+! Blocked: 362 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -11,6 +11,8 @@
 ||ad360.vn^
 ||adasiaholdings.com^
 ||adbro.me^
+||adflex.vn^
+||adfly.vn^
 ||admicro*.vcmedia.com^
 ||admicro*.vcmedia.vn^
 ||admicro.vn^
@@ -39,6 +41,7 @@
 ||bidgear-syndication.com^
 ||bidgear.com^
 ||cdn.comedia.coccoc.com^
+||cdnstoremedia.com^
 ||cheap-ads.net^
 ||cityads.com^
 ||cityadstrack.com^
@@ -46,7 +49,6 @@
 ||cokhach.com^
 ||contineljs.com^
 ||dable.io^
-||dsmartvietnam.com^
 ||eclick.vn^
 ||ezimar.com^
 ||fff.com.vn^
@@ -58,7 +60,6 @@
 ||ladipage.com^
 ||ladipage.net^
 ||ladipage.vn^
-||landingpagelagi.vn^
 ||lavanetwork.net^
 ||laydata.com^
 ||log*.mp3.zing.vn^
@@ -68,6 +69,7 @@
 ||log.zingmp3.vn^
 ||mangoads.vn^
 ||masoffer.net^
+||mclick.mobi^
 ||mediad.asia^
 ||mediaz.asia^
 ||mediaz.vn^
@@ -112,6 +114,7 @@
 ||vidoomy.com^
 ||vietad.vn^
 ||vietnamnetad.vn^
+||yeah1media.vn^
 ||yoads.net^
 ||yoads.network^
 ||yomedia.vn^
@@ -184,10 +187,12 @@
 ||delivery.vtcnew.com.vn^
 ||delivery.vungtv.com^
 ||deltago.com^
+||demopage.me^
 ||dt.vnecdn.com^
 ||events.vungtv.com^
 ||fptad.com^
 ||go.vnecdn.com^
+||landingpagelagi.vn^
 ||microad.vn^
 ||mobileads.dieuviet.com^
 ||myad.vn^

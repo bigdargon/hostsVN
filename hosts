@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Apr 2020 14:23 UTC+7
-# Version: 2004031423
-# Blocked: 18,607 domains
+# Last modified: 06 Apr 2020 10:38 UTC+7
+# Version: 2004061038
+# Blocked: 18,719 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9703,6 +9703,7 @@
 0.0.0.0 unionstatistics.com
 #[adoptimize]
 0.0.0.0 adoptimize.info
+0.0.0.0 www.adoptimize.info
 0.0.0.0 autodiscover.adoptimize.com
 0.0.0.0 businessforsaleexchange.adoptimize.com
 0.0.0.0 cpanel.adoptimize.com
@@ -13916,6 +13917,51 @@
 0.0.0.0 portal.faktor.io
 0.0.0.0 vendors.choice.faktor.io
 0.0.0.0 www.faktor.io
+#[aaddcount.com]
+0.0.0.0 aaddcount.com
+0.0.0.0 image.aaddcount.com
+0.0.0.0 js.aaddcount.com
+0.0.0.0 js-ssl.aaddcount.com
+0.0.0.0 script.aaddcount.com
+#[proadscdn.com]
+0.0.0.0 adx.proadscdn.com
+0.0.0.0 cdn.proadscdn.com
+0.0.0.0 cdn5.proadscdn.com
+0.0.0.0 kangaroo.proadscdn.com
+0.0.0.0 media.proadscdn.com
+0.0.0.0 opt.proadscdn.com
+0.0.0.0 owl.proadscdn.com
+0.0.0.0 proadscdn.com
+0.0.0.0 script.proadscdn.com
+0.0.0.0 www.proadscdn.com
+#[pvmax.net]
+0.0.0.0 api.pvmax.net
+0.0.0.0 cdn.pvmax.net
+0.0.0.0 kuasa.pvmax.net
+0.0.0.0 monika.pvmax.net
+0.0.0.0 pvmax.net
+0.0.0.0 www.pvmax.net
+#[adflex.asia]
+0.0.0.0 adflex.asia
+0.0.0.0 api.adflex.asia
+0.0.0.0 app2.adflex.asia
+0.0.0.0 console.adflex.asia
+0.0.0.0 cpi.adflex.asia
+0.0.0.0 cpm.adflex.asia
+0.0.0.0 cpm-admin.adflex.asia
+0.0.0.0 cpm-cdn.adflex.asia
+0.0.0.0 cpm-exchange.adflex.asia
+0.0.0.0 cpm-track.adflex.asia
+0.0.0.0 pub.adflex.asia
+0.0.0.0 tracking.adflex.asia
+0.0.0.0 www.adflex.asia
+#[ladicdn.com]
+0.0.0.0 cdn.ladicdn.com
+0.0.0.0 g.ladicdn.com
+0.0.0.0 ladicdn.com
+0.0.0.0 v.ladicdn.com
+0.0.0.0 w.ladicdn.com
+0.0.0.0 www.ladicdn.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14491,24 +14537,20 @@
 #[ladipage]
 0.0.0.0 api.ladipage.vn
 0.0.0.0 builder.ladipage.vn
-0.0.0.0 dns.ladipage.vn
 0.0.0.0 doitac.ladipage.vn
 0.0.0.0 ladipage.vn
 0.0.0.0 ssl.ladipage.vn
 0.0.0.0 theme.ladipage.vn
 0.0.0.0 themes.ladipage.vn
 0.0.0.0 www.ladipage.vn
+#[ladipage.net]
 0.0.0.0 ladipage.net
 0.0.0.0 static.ladipage.net
-0.0.0.0 dsmartvietnam.com
-0.0.0.0 sale.dsmartvietnam.com
-0.0.0.0 landingpagelagi.vn
-0.0.0.0 www.landingpagelagi.vn
-0.0.0.0 ladipage.com
+#[ladipage.com]
 0.0.0.0 api.ladipage.com
 0.0.0.0 builder.ladipage.com
-0.0.0.0 dns.ladipage.com
 0.0.0.0 la.ladipage.com
+0.0.0.0 ladipage.com
 #[ezimar.com]
 0.0.0.0 caohavan.ezimar.com
 0.0.0.0 ezdns.ezimar.com
@@ -14998,6 +15040,72 @@
 0.0.0.0 media5.adrealclick.com
 0.0.0.0 s.adrealclick.com
 0.0.0.0 www.adrealclick.com
+#[cdnstoremedia.com]
+0.0.0.0 cdnstoremedia.com
+0.0.0.0 static.cdnstoremedia.com
+0.0.0.0 vp.cdnstoremedia.com
+#[adfly.vn]
+0.0.0.0 adfly.vn
+0.0.0.0 api.adfly.vn
+0.0.0.0 www.adfly.vn
+#[mclick.mobi]
+0.0.0.0 aff.mclick.mobi
+0.0.0.0 cdn.mclick.mobi
+0.0.0.0 cloudfront.mclick.mobi
+0.0.0.0 cpa-tracking.mclick.mobi
+0.0.0.0 down.us2.mclick.mobi
+0.0.0.0 down140.mclick.mobi
+0.0.0.0 down141.mclick.mobi
+0.0.0.0 download.mclick.mobi
+0.0.0.0 mclick.mobi
+0.0.0.0 script.mclick.mobi
+0.0.0.0 static.download.mclick.mobi
+0.0.0.0 track.mclick.mobi
+0.0.0.0 www.mclick.mobi
+#[adflex.vn]
+0.0.0.0 adflex.vn
+0.0.0.0 ads.adflex.vn
+0.0.0.0 adv.adflex.vn
+0.0.0.0 aff.adflex.vn
+0.0.0.0 ap.adflex.vn
+0.0.0.0 apk.adflex.vn
+0.0.0.0 cdn.adflex.vn
+0.0.0.0 cdn2.adflex.vn
+0.0.0.0 cloudfront.adflex.vn
+0.0.0.0 cpi.adflex.vn
+0.0.0.0 cpo.adflex.vn
+0.0.0.0 dev.adflex.vn
+0.0.0.0 dn.adflex.vn
+0.0.0.0 ecm.adflex.vn
+0.0.0.0 ecn.adflex.vn
+0.0.0.0 image.static.adflex.vn
+0.0.0.0 image3.static.adflex.vn
+0.0.0.0 image-static.adflex.vn
+0.0.0.0 kiemtien.adflex.vn
+0.0.0.0 log.adflex.vn
+0.0.0.0 mediation.adflex.vn
+0.0.0.0 pi.adflex.vn
+0.0.0.0 po.adflex.vn
+0.0.0.0 pub.adflex.vn
+0.0.0.0 schemas.adflex.vn
+0.0.0.0 sdk.adflex.vn
+0.0.0.0 static2.adflex.vn
+0.0.0.0 status.adflex.vn
+0.0.0.0 status-cpo.adflex.vn
+0.0.0.0 tmp.adflex.vn
+0.0.0.0 track.adflex.vn
+0.0.0.0 tracking.adflex.vn
+0.0.0.0 update.adflex.vn
+0.0.0.0 v2.api.adflex.vn
+0.0.0.0 www.adflex.vn
+#[yeah1media.vn]
+0.0.0.0 delivery.yeah1media.vn
+0.0.0.0 gallery.yeah1media.vn
+0.0.0.0 log.yeah1media.vn
+0.0.0.0 media.yeah1media.vn
+0.0.0.0 static.yeah1media.vn
+0.0.0.0 system.yeah1media.vn
+0.0.0.0 yeah1media.vn
 # --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com
@@ -15063,10 +15171,12 @@
 0.0.0.0 delivery.vtcnew.com.vn
 0.0.0.0 delivery.vungtv.com
 0.0.0.0 deltago.com
+0.0.0.0 demopage.me
 0.0.0.0 dt.vnecdn.com
 0.0.0.0 events.vungtv.com
 0.0.0.0 fptad.com
 0.0.0.0 go.vnecdn.com
+0.0.0.0 landingpagelagi.vn
 0.0.0.0 m.clevernet.vn
 0.0.0.0 microad.vn
 0.0.0.0 mobileads.dieuviet.com
@@ -15096,6 +15206,7 @@
 0.0.0.0 www.alivar.vn
 0.0.0.0 www.clevernet.vn
 0.0.0.0 www.delecpuzz.com
+0.0.0.0 www.landingpagelagi.vn
 0.0.0.0 www.microad.vn
 0.0.0.0 www.realclick.vn
 0.0.0.0 www.vietbuzzad.com
@@ -16068,6 +16179,7 @@
 0.0.0.0 adspeed.net
 0.0.0.0 adsponse.de
 0.0.0.0 adspot.co
+0.0.0.0 adspyglass.com
 0.0.0.0 adsremote.scrippsnetworks.com
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrocket.net
@@ -16588,6 +16700,7 @@
 0.0.0.0 casinotraffic.com
 0.0.0.0 casinotreasure.com
 0.0.0.0 casterist.info
+0.0.0.0 cawsodpet.club
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cben1.net
 0.0.0.0 cbmall.com
@@ -16602,7 +16715,6 @@
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 cdnondemand.org
 0.0.0.0 cdnproviders.net
-0.0.0.0 cdnstoremedia.com
 0.0.0.0 cecash.com
 0.0.0.0 celeritascdn.com
 0.0.0.0 celltick.com
@@ -17027,6 +17139,7 @@
 0.0.0.0 farmergoldfish.com
 0.0.0.0 fascinatedfeather.com
 0.0.0.0 fast-adv.it
+0.0.0.0 fastbuy.biz
 0.0.0.0 fastclick.com
 0.0.0.0 fastclick.net
 0.0.0.0 fastlane.tools
@@ -17092,10 +17205,12 @@
 0.0.0.0 fxstyle.net
 0.0.0.0 ga.clearbit.com
 0.0.0.0 ga87z2o.com
+0.0.0.0 galaksion.com
 0.0.0.0 galaxien.com
 0.0.0.0 gayadnetwork.com
 0.0.0.0 gbanners.hornymatches.com
 0.0.0.0 gemius.pl
+0.0.0.0 genieesspv.jp
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geovisite.com
@@ -17531,6 +17646,7 @@
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 metrilo.com
+0.0.0.0 mewtenhah.com
 0.0.0.0 mg2connext.com
 0.0.0.0 miarroba.com
 0.0.0.0 microstatic.pl
@@ -18548,6 +18664,7 @@
 0.0.0.0 traffiq.com
 0.0.0.0 trafic.ro
 0.0.0.0 trafyield.com
+0.0.0.0 trahes.site
 0.0.0.0 traktrafficflow.com
 0.0.0.0 tranquilside.com
 0.0.0.0 travis.bosscasinos.com
@@ -18746,6 +18863,7 @@
 0.0.0.0 www.adnetworkperformance.com
 0.0.0.0 www.ads24h.net
 0.0.0.0 www.adsluna.com
+0.0.0.0 www.adspyglass.com
 0.0.0.0 www.adstune.com
 0.0.0.0 www.adtilt.com
 0.0.0.0 www.advinci.co
@@ -18774,6 +18892,7 @@
 0.0.0.0 www.fbcdn2.com
 0.0.0.0 www.find-my-great-life.com
 0.0.0.0 www.fm6dz864.top
+0.0.0.0 www.galaksion.com
 0.0.0.0 www.go-rillatrack.com
 0.0.0.0 www.groupm.com
 0.0.0.0 www.hkoxlirf.com
@@ -18810,6 +18929,7 @@
 0.0.0.0 www.webtrendslive.com
 0.0.0.0 www.zap.buzz
 0.0.0.0 www.zekiatagur.com
+0.0.0.0 www.zxc.world
 0.0.0.0 x-traceur.com
 0.0.0.0 x6.yakiuchi.com
 0.0.0.0 xad.com
@@ -18876,6 +18996,7 @@
 0.0.0.0 zmedia.com
 0.0.0.0 zqtk.net
 0.0.0.0 zumobi.com
+0.0.0.0 zxc.world
 # --- Block other trackingVN ---
 0.0.0.0 2o7.net
 0.0.0.0 a.axmtrack.com
@@ -18949,6 +19070,7 @@
 0.0.0.0 burstly.com
 0.0.0.0 bvpdf9.u9a.wentserver.com
 0.0.0.0 by.uservoice.com
+0.0.0.0 bytedance.com
 0.0.0.0 c.snnd.co
 0.0.0.0 c.webengage.com
 0.0.0.0 c2i-cdn.startappnetwork.com
@@ -19022,6 +19144,7 @@
 0.0.0.0 hits.theguardian.com
 0.0.0.0 hsbarbershop.co.uk
 0.0.0.0 hsych.com
+0.0.0.0 hypestat.com
 0.0.0.0 i-mar.com
 0.0.0.0 i.shannon-fisher.xyz
 0.0.0.0 iaudienc.com
@@ -19202,6 +19325,7 @@
 0.0.0.0 www.ethtrader.de
 0.0.0.0 www.everestjs.net
 0.0.0.0 www.hitcpm.com
+0.0.0.0 www.hypestat.com
 0.0.0.0 www.montacarichi.it
 0.0.0.0 www.npttech.com
 0.0.0.0 www.placehold.it

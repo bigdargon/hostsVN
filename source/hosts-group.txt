@@ -9691,6 +9691,7 @@
 0.0.0.0 unionstatistics.com
 #[adoptimize]
 0.0.0.0 adoptimize.info
+0.0.0.0 www.adoptimize.info
 0.0.0.0 autodiscover.adoptimize.com
 0.0.0.0 businessforsaleexchange.adoptimize.com
 0.0.0.0 cpanel.adoptimize.com
@@ -13904,3 +13905,48 @@
 0.0.0.0 portal.faktor.io
 0.0.0.0 vendors.choice.faktor.io
 0.0.0.0 www.faktor.io
+#[aaddcount.com]
+0.0.0.0 aaddcount.com
+0.0.0.0 image.aaddcount.com
+0.0.0.0 js.aaddcount.com
+0.0.0.0 js-ssl.aaddcount.com
+0.0.0.0 script.aaddcount.com
+#[proadscdn.com]
+0.0.0.0 adx.proadscdn.com
+0.0.0.0 cdn.proadscdn.com
+0.0.0.0 cdn5.proadscdn.com
+0.0.0.0 kangaroo.proadscdn.com
+0.0.0.0 media.proadscdn.com
+0.0.0.0 opt.proadscdn.com
+0.0.0.0 owl.proadscdn.com
+0.0.0.0 proadscdn.com
+0.0.0.0 script.proadscdn.com
+0.0.0.0 www.proadscdn.com
+#[pvmax.net]
+0.0.0.0 api.pvmax.net
+0.0.0.0 cdn.pvmax.net
+0.0.0.0 kuasa.pvmax.net
+0.0.0.0 monika.pvmax.net
+0.0.0.0 pvmax.net
+0.0.0.0 www.pvmax.net
+#[adflex.asia]
+0.0.0.0 adflex.asia
+0.0.0.0 api.adflex.asia
+0.0.0.0 app2.adflex.asia
+0.0.0.0 console.adflex.asia
+0.0.0.0 cpi.adflex.asia
+0.0.0.0 cpm.adflex.asia
+0.0.0.0 cpm-admin.adflex.asia
+0.0.0.0 cpm-cdn.adflex.asia
+0.0.0.0 cpm-exchange.adflex.asia
+0.0.0.0 cpm-track.adflex.asia
+0.0.0.0 pub.adflex.asia
+0.0.0.0 tracking.adflex.asia
+0.0.0.0 www.adflex.asia
+#[ladicdn.com]
+0.0.0.0 cdn.ladicdn.com
+0.0.0.0 g.ladicdn.com
+0.0.0.0 ladicdn.com
+0.0.0.0 v.ladicdn.com
+0.0.0.0 w.ladicdn.com
+0.0.0.0 www.ladicdn.com
