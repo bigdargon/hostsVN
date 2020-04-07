@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 07 Apr 2020 10:19 UTC+7
-! Version: 2004071019
-! Blocked: 5,227 domains
+! Last modified: 07 Apr 2020 21:36 UTC+7
+! Version: 2004072136
+! Blocked: 5,234 domains
 ! The section containing the list contains all ad networks and tracking
 !
 ad.org.vn
@@ -154,6 +154,7 @@ ads.itsgroup.vn
 ads.khoahocdoisong.vn
 ads.phunuonline.com.vn
 ads.tiki.vn
+ads.vkool.info
 ads.xemphimso.com
 adserver.lag.vn
 adsplus.vn
@@ -659,7 +660,6 @@ clevertap.com
 click.union.ucweb.com
 clickagy.com
 clickhubs.com
-clickintext.net
 clicksor.com
 clicktale.net
 client-event-reporter.twitch.tv
@@ -1072,6 +1072,7 @@ scanscout.com
 scorecardresearch.com
 segment.com
 segment.io
+sendpulse.com
 servebom.com
 servedby-buysellads.com
 servedbyopenx.com
@@ -1184,6 +1185,7 @@ vungle.com
 w88.go.com
 wct.link
 weborama.com
+webpushs.com
 webtrends.com
 webvisor.com
 webvisor.org
@@ -2702,6 +2704,8 @@ clickedyclick.com
 clickhereforcellphones.com
 clickhouse.com
 clickhype.com
+clickintext.com
+clickintext.net
 clickks.net
 clicklink.jp
 clickmedia.ro
@@ -3260,6 +3264,8 @@ i.rmbl.ws
 i1img.com
 i1media.no
 ia.iinfo.cz
+iab.net
+iabtechlab.com
 iad.anm.co.uk
 iadnet.com
 iapclick.gowadogo.com
@@ -4926,6 +4932,7 @@ bango.combango.org
 bango.net
 batchlogging4.truecaller.com
 bc.dailymail.co.uk
+beampulse.com
 bjdxhs.com
 bjhmt.com
 blueconic.net
