@@ -12087,15 +12087,22 @@
 0.0.0.0 js.hubspot.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 tracking.hubspot.com
+#[hubapi.com]
 0.0.0.0 hubapi.com
 0.0.0.0 api.hubapi.com
 0.0.0.0 eventtracking.hubapi.com
+#[hs-analytics.net]
 0.0.0.0 hs-analytics.net
 0.0.0.0 js.hs-analytics.net
+#[hs-scripts.com]
 0.0.0.0 hs-scripts.com
 0.0.0.0 js.hs-scripts.com
+#[hsadspixel.net]
 0.0.0.0 hsadspixel.net
 0.0.0.0 js.hsadspixel.net
+#[hs-banner.com]
+0.0.0.0 hs-banner.com
+0.0.0.0 js.hs-banner.com
 #[spotxchange.com]
 0.0.0.0 api.spotxchange.com
 0.0.0.0 cdn-source.spotxchange.com
@@ -13950,3 +13957,11 @@
 0.0.0.0 v.ladicdn.com
 0.0.0.0 w.ladicdn.com
 0.0.0.0 www.ladicdn.com
+#[opmnstr.com]
+0.0.0.0 a.opmnstr.com
+0.0.0.0 api.opmnstr.com
+0.0.0.0 app.opmnstr.com
+0.0.0.0 ga.opmnstr.com
+0.0.0.0 opmnstr.com
+0.0.0.0 www.opmnstr.com
+0.0.0.0 z.opmnstr.com

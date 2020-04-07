@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Apr 2020 10:38 UTC+7
-! Version: 2004061038
-! Blocked: 5,211 rules
+! Last modified: 07 Apr 2020 09:44 UTC+7
+! Version: 2004070944
+! Blocked: 5,224 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -806,6 +806,7 @@
 ||hmma.baidu.com^
 ||hotjar.com^
 ||hs-analytics.net^
+||hs-banner.com^
 ||hs-scripts.com^
 ||hsadspixel.net^
 ||hubapi.com^
@@ -977,6 +978,7 @@
 ||opecloud.com^
 ||openx.com^
 ||openx.net^
+||opmnstr.com^
 ||opoxv.com^
 ||optad360.com^
 ||optad360.io^
@@ -2525,6 +2527,7 @@
 ||bitmedianetwork.com^
 ||bizographics.com^
 ||bizrate.com^
+||blacurlik.com^
 ||blast4traffic.com^
 ||blingbucks.com^
 ||blogads.com^
@@ -2678,6 +2681,7 @@
 ||class-act-clicks.com^
 ||clearbid.uberads.com^
 ||clearcomb.com^
+||clicck.net^
 ||click.absoluteagency.com^
 ||click.fool.com^
 ||click.howdoesin.net^
@@ -2698,6 +2702,7 @@
 ||clickhereforcellphones.com^
 ||clickhouse.com^
 ||clickhype.com^
+||clickks.net^
 ||clicklink.jp^
 ||clickmedia.ro^
 ||clickonometrics.pl^
@@ -3263,6 +3268,8 @@
 ||icptrack.com^
 ||idcounter.com^
 ||iddiction.com^
+||ideliv.net^
+||idelv.net^
 ||identads.com^
 ||idot.cz^
 ||idregie.com^
@@ -4133,7 +4140,9 @@
 ||roughroll.com^
 ||routeserve.info^
 ||roxr.net^
+||rsalcau.com^
 ||rsalcch.com^
+||rschairwaydi.site^
 ||rta.dailymail.co.uk^
 ||rtbidder.net^
 ||rtbpop.com^
@@ -4625,6 +4634,7 @@
 ||tvas-a.pw^
 ||tvas-c.pw^
 ||tvmtracker.com^
+||twenticiseflo.site^
 ||twittad.com^
 ||twokidjay.com^
 ||twyn.com^
@@ -4935,6 +4945,7 @@
 ||cdnstatic.geo.dmcdn.net^
 ||client-analytics.braintreegateway.com^
 ||cmp.dmgmediaprivacy.co.uk^
+||collector.apester.com^
 ||collector.leaddyno.com^
 ||comscoreresearch.com^
 ||config.789wed.com^
@@ -4967,6 +4978,7 @@
 ||ethtrader.de^
 ||etl.tindersparks.com^
 ||events-collector.spot.im^
+||events.apester.com^
 ||events.redditmedia.com^
 ||everestjs.net^
 ||eviltracker.net^
@@ -5117,6 +5129,7 @@
 ||stathat.com^
 ||static.intentarget.com^
 ||static.leaddyno.com^
+||stats.apester.com^
 ||stats.betradar.com^
 ||stats.count.ly^
 ||stats.unlimapps.com^

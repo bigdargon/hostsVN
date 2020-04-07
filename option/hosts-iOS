@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Apr 2020 10:38 UTC+7
-# Version: 2004061038
-# Blocked: 18,719 domains
+# Last modified: 07 Apr 2020 09:44 UTC+7
+# Version: 2004070944
+# Blocked: 18,739 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11616,6 +11616,8 @@
 0 js.hs-scripts.com
 0 hsadspixel.net
 0 js.hsadspixel.net
+0 hs-banner.com
+0 js.hs-banner.com
 0 api.spotxchange.com
 0 cdn-source.spotxchange.com
 0 cdn.spotxchange.com
@@ -13328,6 +13330,13 @@
 0 v.ladicdn.com
 0 w.ladicdn.com
 0 www.ladicdn.com
+0 a.opmnstr.com
+0 api.opmnstr.com
+0 app.opmnstr.com
+0 ga.opmnstr.com
+0 opmnstr.com
+0 www.opmnstr.com
+0 z.opmnstr.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -15887,6 +15896,7 @@
 0 bitmedianetwork.com
 0 bizographics.com
 0 bizrate.com
+0 blacurlik.com
 0 blast4traffic.com
 0 blingbucks.com
 0 blogads.com
@@ -16040,6 +16050,7 @@
 0 class-act-clicks.com
 0 clearbid.uberads.com
 0 clearcomb.com
+0 clicck.net
 0 click.absoluteagency.com
 0 click.fool.com
 0 click.howdoesin.net
@@ -16060,6 +16071,7 @@
 0 clickhereforcellphones.com
 0 clickhouse.com
 0 clickhype.com
+0 clickks.net
 0 clicklink.jp
 0 clickmedia.ro
 0 clickonometrics.pl
@@ -16624,6 +16636,8 @@
 0 icptrack.com
 0 idcounter.com
 0 iddiction.com
+0 ideliv.net
+0 idelv.net
 0 identads.com
 0 idot.cz
 0 idregie.com
@@ -17491,7 +17505,9 @@
 0 roughroll.com
 0 routeserve.info
 0 roxr.net
+0 rsalcau.com
 0 rsalcch.com
+0 rschairwaydi.site
 0 rta.dailymail.co.uk
 0 rtbidder.net
 0 rtbpop.com
@@ -17983,6 +17999,7 @@
 0 tvas-a.pw
 0 tvas-c.pw
 0 tvmtracker.com
+0 twenticiseflo.site
 0 twittad.com
 0 twokidjay.com
 0 twyn.com
@@ -18365,6 +18382,7 @@
 0 cdnstatic.geo.dmcdn.net
 0 client-analytics.braintreegateway.com
 0 cmp.dmgmediaprivacy.co.uk
+0 collector.apester.com
 0 collector.leaddyno.com
 0 comscoreresearch.com
 0 config.789wed.com
@@ -18397,6 +18415,7 @@
 0 ethtrader.de
 0 etl.tindersparks.com
 0 events-collector.spot.im
+0 events.apester.com
 0 events.redditmedia.com
 0 everestjs.net
 0 eviltracker.net
@@ -18547,6 +18566,7 @@
 0 stathat.com
 0 static.intentarget.com
 0 static.leaddyno.com
+0 stats.apester.com
 0 stats.betradar.com
 0 stats.count.ly
 0 stats.unlimapps.com
