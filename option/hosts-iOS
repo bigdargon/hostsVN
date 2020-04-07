@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Apr 2020 09:44 UTC+7
-# Version: 2004070944
-# Blocked: 18,739 domains
+# Last modified: 07 Apr 2020 10:07 UTC+7
+# Version: 2004071007
+# Blocked: 18,745 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13337,6 +13337,11 @@
 0 opmnstr.com
 0 www.opmnstr.com
 0 z.opmnstr.com
+0 cdn.insurads.com
+0 insurads.com
+0 messaging.insurads.com
+0 services.insurads.com
+0 www.insurads.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14957,6 +14962,7 @@
 0 adrotator.se
 0 adrotic.girlonthenet.com
 0 adru.net
+0 ads-bi.zenkube.com
 0 ads-click.com
 0 ads-trk.vidible.tv
 0 ads.4tube.com
