@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Apr 2020 21:36 UTC+7
-# Version: 2004072136
-# Blocked: 18,640 domains
+# Last modified: 08 Apr 2020 15:49 UTC+7
+# Version: 2004081549
+# Blocked: 18,643 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14346,6 +14346,7 @@
 0 an.xemvtv.net
 0 api.nas.nct.vn
 0 apinas.nct.vn
+0 banhtv.org
 0 banner.5giay.vn
 0 bgadx.com
 0 clevernet.vn
@@ -14381,6 +14382,7 @@
 0 quangcao.tuoitre.vn
 0 quangcao247.com.vn
 0 realclick.vn
+0 sbbanner.com
 0 serving-ad.tv24.vn
 0 stc-nas.nixcdn.com
 0 stc.nas.nixcdn.com
@@ -14394,11 +14396,13 @@
 0 vinaads.vn
 0 www.adt.com.vn
 0 www.alivar.vn
+0 www.banhtv.org
 0 www.clevernet.vn
 0 www.delecpuzz.com
 0 www.landingpagelagi.vn
 0 www.microad.vn
 0 www.realclick.vn
+0 www.sbbanner.com
 0 www.vietbuzzad.com
 0 www.vietdorje.com
 0 alexajstrack.com
@@ -17426,7 +17430,6 @@
 0 samsungacr.com
 0 samsungads.com
 0 saysidewalk.com
-0 sbbanner.com
 0 sbx.pagesjaunes.fr
 0 scambiobanner.aruba.it
 0 scarcesign.com

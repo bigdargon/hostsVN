@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Apr 2020 21:36 UTC+7
-! Version: 2004072136
-! Blocked: 363 rules
+! Last modified: 08 Apr 2020 15:49 UTC+7
+! Version: 2004081549
+! Blocked: 365 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -174,6 +174,7 @@
 ||an.xemvtv.net^
 ||api.nas.nct.vn^
 ||apinas.nct.vn^
+||banhtv.org^
 ||banner.5giay.vn^
 ||bgadx.com^
 ||clevernet.vn^
@@ -207,6 +208,7 @@
 ||quangcao.tuoitre.vn^
 ||quangcao247.com.vn^
 ||realclick.vn^
+||sbbanner.com^
 ||serving-ad.tv24.vn^
 ||stc-nas.nixcdn.com^
 ||stc.nas.nixcdn.com^
