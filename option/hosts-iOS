@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Apr 2020 15:49 UTC+7
-# Version: 2004081549
-# Blocked: 18,643 domains
+# Last modified: 11 Apr 2020 16:55 UTC+7
+# Version: 2004111655
+# Blocked: 18,688 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7508,7 +7508,6 @@
 0 f5.adx1.com
 0 falcon.adx1.com
 0 fileserver.adx1.com
-0 forum.adx1.com
 0 fs7.adx1.com
 0 g27ve.adx1.com
 0 gz7.adx1.com
@@ -9281,7 +9280,6 @@
 0 dx.frontend-preprod.weborama.com
 0 encuesta.weborama.com
 0 es.weborama.com
-0 forum.weborama.com
 0 go.weborama.com
 0 integration.data.weborama.com
 0 intranet-preprod.weborama.com
@@ -13230,6 +13228,49 @@
 0 pr.sendpulse.com
 0 pushdata.sendpulse.com
 0 sendpulse.com
+0 adformsync01.admantx.com
+0 adformui.admantx.com
+0 admantx.com
+0 async01.admantx.com
+0 euasync01.admantx.com
+0 eutest01.admantx.com
+0 usasync01.admantx.com
+0 www.admantx.com
+0 control.monetiza.co
+0 dashboard.monetiza.co
+0 monetiza.co
+0 ssp.monetiza.co
+0 monetize.com
+0 xml.monetize.com
+0 pop.monetize.com
+0 y.monetize.com
+0 www.monetize.com
+0 cdn.monetize.com
+0 adrcdn.com
+0 media.adrcdn.com
+0 pop.adrcdn.com
+0 report-scripts.adrcdn.com
+0 request.adrcdn.com
+0 scripts.adrcdn.com
+0 www.adrcdn.com
+0 adrcntr.com
+0 cntr.adrcntr.com
+0 evt.adrcntr.com
+0 atemda.com
+0 az-ue2.atemda.com
+0 default.atemda.com
+0 lw-ue.atemda.com
+0 lw-uw.atemda.com
+0 media.atemda.com
+0 retargeting.atemda.com
+0 s.atemda.com
+0 ue.atemda.com
+0 www.atemda.com
+0 x.atemda.com
+0 admaym.com
+0 s.admaym.com
+0 smtp.admaym.com
+0 www.admaym.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14326,12 +14367,14 @@
 0 ads.khoahocdoisong.vn
 0 ads.phunuonline.com.vn
 0 ads.tiki.vn
+0 ads.tinmoi.vn
 0 ads.vkool.info
 0 ads.xemphimso.com
 0 ads1.careerbuilder.vn
 0 adserver.lag.vn
 0 adsplus.vn
 0 adsv2.autodaily.vn
+0 adsweb.vn
 0 adt.com.vn
 0 adv.baotintuc.vn
 0 adx.kul.vn
@@ -14386,6 +14429,7 @@
 0 serving-ad.tv24.vn
 0 stc-nas.nixcdn.com
 0 stc.nas.nixcdn.com
+0 toppage.vn
 0 trenddigital.vn
 0 truoctran.com
 0 tvnotice.kg.garena.vn
@@ -14394,6 +14438,7 @@
 0 vietbuzzad.com
 0 vietdorje.com
 0 vinaads.vn
+0 www.adsweb.vn
 0 www.adt.com.vn
 0 www.alivar.vn
 0 www.banhtv.org
@@ -14790,7 +14835,6 @@
 0 admanagement.ch
 0 admanager.btopenworld.com
 0 admanager.carsoup.com
-0 admantx.com
 0 admedia.ro
 0 admedia.wsod.com
 0 admedo.com
@@ -18546,6 +18590,7 @@
 0 ymtracking.com
 0 youthfire.com
 0 zarget.com
+0 abutparker.com
 0 applelink.store
 0 comptrffc.com
 0 cpa-tc.com

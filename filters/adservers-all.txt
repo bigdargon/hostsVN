@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 08 Apr 2020 15:49 UTC+7
-! Version: 2004081549
-! Blocked: 5,235 rules
+! Last modified: 11 Apr 2020 16:55 UTC+7
+! Version: 2004111655
+! Blocked: 5,245 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -156,10 +156,12 @@
 ||ads.khoahocdoisong.vn^
 ||ads.phunuonline.com.vn^
 ||ads.tiki.vn^
+||ads.tinmoi.vn^
 ||ads.vkool.info^
 ||ads.xemphimso.com^
 ||adserver.lag.vn^
 ||adsplus.vn^
+||adsweb.vn^
 ||adt.com.vn^
 ||adv.baotintuc.vn^
 ||adx.kul.vn^
@@ -212,6 +214,7 @@
 ||serving-ad.tv24.vn^
 ||stc-nas.nixcdn.com^
 ||stc.nas.nixcdn.com^
+||toppage.vn^
 ||trenddigital.vn^
 ||truoctran.com^
 ||tvnotice.kg.garena.vn^
@@ -428,8 +431,10 @@
 ||adjust.com^
 ||adk2x.com^
 ||adkernel.com^
+||admantx.com^
 ||admarketplace.net^
 ||admarvel.com^
+||admaym.com^
 ||admedia.com^
 ||admob.com^
 ||adnetasia.com^
@@ -443,6 +448,8 @@
 ||adoptimize.info^
 ||adpopcorn.com^
 ||adpushup.com^
+||adrcdn.com^
+||adrcntr.com^
 ||adreach.me^
 ||adrecover.com^
 ||adright.com^
@@ -588,6 +595,7 @@
 ||assets.adobedtm.com^
 ||assoc-amazon.com^
 ||atdmt.com^
+||atemda.com^
 ||avazutracking.net^
 ||awaps.net^
 ||awaps.yandex.net^
@@ -946,6 +954,8 @@
 ||mon*.snssdk.com^
 ||mon-thu*.life^
 ||mon.tiktokv.com^
+||monetiza.co^
+||monetize.com^
 ||mookie1.com^
 ||mopub.com^
 ||mparticle.com^
@@ -1527,7 +1537,6 @@
 ||admanagement.ch^
 ||admanager.btopenworld.com^
 ||admanager.carsoup.com^
-||admantx.com^
 ||admedia.ro^
 ||admedia.wsod.com^
 ||admedo.com^
@@ -5202,6 +5211,7 @@
 ||ymtracking.com^
 ||youthfire.com^
 ||zarget.com^
+||abutparker.com^
 ||alert-*.club^
 ||applelink.store^
 ||comptrffc.com^

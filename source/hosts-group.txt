@@ -7807,7 +7807,6 @@
 0.0.0.0 f5.adx1.com
 0.0.0.0 falcon.adx1.com
 0.0.0.0 fileserver.adx1.com
-0.0.0.0 forum.adx1.com
 0.0.0.0 fs7.adx1.com
 0.0.0.0 g27ve.adx1.com
 0.0.0.0 gz7.adx1.com
@@ -9656,7 +9655,6 @@
 0.0.0.0 dx.frontend-preprod.weborama.com
 0.0.0.0 encuesta.weborama.com
 0.0.0.0 es.weborama.com
-0.0.0.0 forum.weborama.com
 0.0.0.0 go.weborama.com
 0.0.0.0 integration.data.weborama.com
 0.0.0.0 intranet-preprod.weborama.com
@@ -13859,3 +13857,53 @@
 0.0.0.0 pr.sendpulse.com
 0.0.0.0 pushdata.sendpulse.com
 0.0.0.0 sendpulse.com
+#[admantx.com]
+0.0.0.0 adformsync01.admantx.com
+0.0.0.0 adformui.admantx.com
+0.0.0.0 admantx.com
+0.0.0.0 async01.admantx.com
+0.0.0.0 euasync01.admantx.com
+0.0.0.0 eutest01.admantx.com
+0.0.0.0 usasync01.admantx.com
+0.0.0.0 www.admantx.com
+#[monetiza.co]
+0.0.0.0 control.monetiza.co
+0.0.0.0 dashboard.monetiza.co
+0.0.0.0 monetiza.co
+0.0.0.0 ssp.monetiza.co
+#[monetize.com]
+0.0.0.0 monetize.com
+0.0.0.0 xml.monetize.com
+0.0.0.0 pop.monetize.com
+0.0.0.0 y.monetize.com
+0.0.0.0 www.monetize.com
+0.0.0.0 cdn.monetize.com
+#[adrcdn.com]
+0.0.0.0 adrcdn.com
+0.0.0.0 media.adrcdn.com
+0.0.0.0 pop.adrcdn.com
+0.0.0.0 report-scripts.adrcdn.com
+0.0.0.0 request.adrcdn.com
+0.0.0.0 scripts.adrcdn.com
+0.0.0.0 www.adrcdn.com
+#[adrcntr.com]
+0.0.0.0 adrcntr.com
+0.0.0.0 cntr.adrcntr.com
+0.0.0.0 evt.adrcntr.com
+#[atemda.com]
+0.0.0.0 atemda.com
+0.0.0.0 az-ue2.atemda.com
+0.0.0.0 default.atemda.com
+0.0.0.0 lw-ue.atemda.com
+0.0.0.0 lw-uw.atemda.com
+0.0.0.0 media.atemda.com
+0.0.0.0 retargeting.atemda.com
+0.0.0.0 s.atemda.com
+0.0.0.0 ue.atemda.com
+0.0.0.0 www.atemda.com
+0.0.0.0 x.atemda.com
+#[admaym.com]
+0.0.0.0 admaym.com
+0.0.0.0 s.admaym.com
+0.0.0.0 smtp.admaym.com
+0.0.0.0 www.admaym.com
