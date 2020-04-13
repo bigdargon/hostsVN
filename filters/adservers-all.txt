@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 11 Apr 2020 16:55 UTC+7
-! Version: 2004111655
-! Blocked: 5,245 rules
+! Last modified: 13 Apr 2020 16:06 UTC+7
+! Version: 2004131606
+! Blocked: 5,248 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -179,6 +179,7 @@
 ||banhtv.org^
 ||banner.5giay.vn^
 ||bgadx.com^
+||chiasephim.xyz^
 ||clevernet.vn^
 ||click.xdeal.vn^
 ||clipbongda.info^
@@ -518,6 +519,7 @@
 ||advertserve.com^
 ||adview.cn^
 ||advinci.net^
+||adworkmedia.net^
 ||adx1.com^
 ||adxcorp.kr^
 ||adxxx.com^
@@ -625,9 +627,11 @@
 ||bidgear-dsp.network^
 ||bidr.io^
 ||bidswitch.net^
+||bidvertiser.com^
 ||bigclicker.me^
 ||bilsyndication.com^
 ||bingads.microsoft.com^
+||bitmedia.io^
 ||bizible.com^
 ||bj1*.online^
 ||bkrtx.com^
@@ -689,6 +693,7 @@
 ||collective-media.net^
 ||commerce.adobedtm.com^
 ||conf.international.baidu.com^
+||connatix.com^
 ||connect.adobedtm.com^
 ||connectad.io^
 ||consensu.org^
@@ -2530,7 +2535,6 @@
 ||bidclix.com^
 ||bidclix.net^
 ||bidtrk.com^
-||bidvertiser.com^
 ||bigads.guj.de^
 ||bigbangmedia.com^
 ||bigclicks.com^
@@ -2782,7 +2786,6 @@
 ||concert.io^
 ||concertads-configs.vox-cdn.com^
 ||confirmed-profits.com^
-||connatix.com^
 ||connect.scroll.com^
 ||connextra.com^
 ||consciouscabbage.com^

@@ -3743,15 +3743,20 @@
 0.0.0.0 pubster.twitch.tv
 0.0.0.0 spade.twitch.tv
 0.0.0.0 trowel.twitch.tv
-#[deployads]
+#[deployads.com]
 0.0.0.0 assets.deployads.com
 0.0.0.0 c.deployads.com
+0.0.0.0 deals.deployads.com
 0.0.0.0 deployads.com
 0.0.0.0 e.deployads.com
 0.0.0.0 frame.deployads.com
+0.0.0.0 pbs.deployads.com
+0.0.0.0 results.deployads.com
+0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 ssp.deployads.com
 0.0.0.0 tags.deployads.com
 0.0.0.0 tags-cdn.deployads.com
+0.0.0.0 www.deployads.com
 #[fout.jp]
 0.0.0.0 ad.fout.jp
 0.0.0.0 ad.rfp.fout.jp
@@ -13907,3 +13912,71 @@
 0.0.0.0 s.admaym.com
 0.0.0.0 smtp.admaym.com
 0.0.0.0 www.admaym.com
+#[bidvertiser.com]
+0.0.0.0 ads.bidvertiser.com
+0.0.0.0 bdfrm.bidvertiser.com
+0.0.0.0 bdv.bidvertiser.com
+0.0.0.0 bidvertiser.com
+0.0.0.0 cdn.bidvertiser.com
+0.0.0.0 ntv.bidvertiser.com
+0.0.0.0 pxl.bidvertiser.com
+0.0.0.0 secure.bidvertiser.com
+0.0.0.0 srv.bidvertiser.com
+0.0.0.0 www.bidvertiser.com
+#[bitmedia.io]
+0.0.0.0 ad.bitmedia.io
+0.0.0.0 bitmedia.io
+0.0.0.0 c1.bitmedia.io
+0.0.0.0 cdn.bitmedia.io
+0.0.0.0 cs.bitmedia.io
+0.0.0.0 media.bitmedia.io
+0.0.0.0 mymarketing.bitmedia.io
+0.0.0.0 promo.bitmedia.io
+0.0.0.0 static.bitmedia.io
+0.0.0.0 static-cdn.bitmedia.io
+0.0.0.0 ws.bitmedia.io
+0.0.0.0 www.bitmedia.io
+#[adworkmedia.net]
+0.0.0.0 a-ads.adworkmedia.net
+0.0.0.0 adworkmedia.net
+0.0.0.0 bit.adworkmedia.net
+0.0.0.0 www.adworkmedia.net
+#[connatix.com]
+0.0.0.0 a.connatix.com
+0.0.0.0 admin.connatix.com
+0.0.0.0 api.connatix.com
+0.0.0.0 api.staging.connatix.com
+0.0.0.0 capi.connatix.com
+0.0.0.0 cd.connatix.com
+0.0.0.0 cdn.connatix.com
+0.0.0.0 cdn.staging.connatix.com
+0.0.0.0 cdns.connatix.com
+0.0.0.0 cds.connatix.com
+0.0.0.0 ck.connatix.com
+0.0.0.0 cks.connatix.com
+0.0.0.0 connatix.com
+0.0.0.0 console.connatix.com
+0.0.0.0 console.staging.connatix.com
+0.0.0.0 core.connatix.com
+0.0.0.0 gitlab.connatix.com
+0.0.0.0 i.connatix.com
+0.0.0.0 img.connatix.com
+0.0.0.0 kapi.connatix.com
+0.0.0.0 l.connatix.com
+0.0.0.0 logs.connatix.com
+0.0.0.0 minio.connatix.com
+0.0.0.0 registry.connatix.com
+0.0.0.0 rtb.connatix.com
+0.0.0.0 sentry.connatix.com
+0.0.0.0 shared.connatix.com
+0.0.0.0 staging.connatix.com
+0.0.0.0 tr.connatix.com
+0.0.0.0 trk.connatix.com
+0.0.0.0 u.connatix.com
+0.0.0.0 upload.connatix.com
+0.0.0.0 uploads.connatix.com
+0.0.0.0 v.connatix.com
+0.0.0.0 vapi.connatix.com
+0.0.0.0 vcore.connatix.com
+0.0.0.0 vid.connatix.com
+0.0.0.0 www.connatix.com

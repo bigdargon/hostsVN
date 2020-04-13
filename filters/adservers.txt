@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Apr 2020 16:55 UTC+7
-! Version: 2004111655
-! Blocked: 368 rules
+! Last modified: 13 Apr 2020 16:06 UTC+7
+! Version: 2004131606
+! Blocked: 369 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -179,6 +179,7 @@
 ||banhtv.org^
 ||banner.5giay.vn^
 ||bgadx.com^
+||chiasephim.xyz^
 ||clevernet.vn^
 ||click.xdeal.vn^
 ||clipbongda.info^

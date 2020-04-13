@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Apr 2020 16:55 UTC+7
-# Version: 2004111655
-# Blocked: 18,688 domains
+# Last modified: 13 Apr 2020 16:06 UTC+7
+# Version: 2004131606
+# Blocked: 18,757 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3616,12 +3616,17 @@
 0 trowel.twitch.tv
 0 assets.deployads.com
 0 c.deployads.com
+0 deals.deployads.com
 0 deployads.com
 0 e.deployads.com
 0 frame.deployads.com
+0 pbs.deployads.com
+0 results.deployads.com
+0 search-cldellow.deployads.com
 0 ssp.deployads.com
 0 tags.deployads.com
 0 tags-cdn.deployads.com
+0 www.deployads.com
 0 ad.fout.jp
 0 ad.rfp.fout.jp
 0 click.fout.jp
@@ -13271,6 +13276,70 @@
 0 s.admaym.com
 0 smtp.admaym.com
 0 www.admaym.com
+0 ads.bidvertiser.com
+0 bdfrm.bidvertiser.com
+0 bdv.bidvertiser.com
+0 bidvertiser.com
+0 cdn.bidvertiser.com
+0 ntv.bidvertiser.com
+0 pxl.bidvertiser.com
+0 secure.bidvertiser.com
+0 srv.bidvertiser.com
+0 www.bidvertiser.com
+0 ad.bitmedia.io
+0 bitmedia.io
+0 c1.bitmedia.io
+0 cdn.bitmedia.io
+0 cs.bitmedia.io
+0 media.bitmedia.io
+0 mymarketing.bitmedia.io
+0 promo.bitmedia.io
+0 static.bitmedia.io
+0 static-cdn.bitmedia.io
+0 ws.bitmedia.io
+0 www.bitmedia.io
+0 a-ads.adworkmedia.net
+0 adworkmedia.net
+0 bit.adworkmedia.net
+0 www.adworkmedia.net
+0 a.connatix.com
+0 admin.connatix.com
+0 api.connatix.com
+0 api.staging.connatix.com
+0 capi.connatix.com
+0 cd.connatix.com
+0 cdn.connatix.com
+0 cdn.staging.connatix.com
+0 cdns.connatix.com
+0 cds.connatix.com
+0 ck.connatix.com
+0 cks.connatix.com
+0 connatix.com
+0 console.connatix.com
+0 console.staging.connatix.com
+0 core.connatix.com
+0 gitlab.connatix.com
+0 i.connatix.com
+0 img.connatix.com
+0 kapi.connatix.com
+0 l.connatix.com
+0 logs.connatix.com
+0 minio.connatix.com
+0 registry.connatix.com
+0 rtb.connatix.com
+0 sentry.connatix.com
+0 shared.connatix.com
+0 staging.connatix.com
+0 tr.connatix.com
+0 trk.connatix.com
+0 u.connatix.com
+0 upload.connatix.com
+0 uploads.connatix.com
+0 v.connatix.com
+0 vapi.connatix.com
+0 vcore.connatix.com
+0 vid.connatix.com
+0 www.connatix.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14392,6 +14461,7 @@
 0 banhtv.org
 0 banner.5giay.vn
 0 bgadx.com
+0 chiasephim.xyz
 0 clevernet.vn
 0 click.xdeal.vn
 0 clipbongda.info
@@ -14442,6 +14512,7 @@
 0 www.adt.com.vn
 0 www.alivar.vn
 0 www.banhtv.org
+0 www.chiasephim.xyz
 0 www.clevernet.vn
 0 www.delecpuzz.com
 0 www.landingpagelagi.vn
@@ -15827,7 +15898,6 @@
 0 bidclix.com
 0 bidclix.net
 0 bidtrk.com
-0 bidvertiser.com
 0 bigads.guj.de
 0 bigbangmedia.com
 0 bigclicks.com
@@ -16079,7 +16149,6 @@
 0 concert.io
 0 concertads-configs.vox-cdn.com
 0 confirmed-profits.com
-0 connatix.com
 0 connect.scroll.com
 0 connextra.com
 0 consciouscabbage.com
