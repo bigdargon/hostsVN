@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Apr 2020 14:23 UTC+7
-# Version: 2004171423
-# Blocked: 18,898 domains
+# Last modified: 17 Apr 2020 15:08 UTC+7
+# Version: 2004171508
+# Blocked: 18,910 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -15244,10 +15244,22 @@
 0.0.0.0 api.pushdi.com
 0.0.0.0 sdk.pushdi.com
 0.0.0.0 d2ox6x0y9xhicd.cloudfront.net
-# --- Block adsVN ---
-0.0.0.0 123c.vn
+#[ad*.24hstatic.com]
+0.0.0.0 24h-ad.24hstatic.com
+0.0.0.0 24h-ipad-ad.24hstatic.com
+0.0.0.0 ad-eva.24hstatic.com
 0.0.0.0 ad-hcm.24hstatic.com
 0.0.0.0 ad-hn.24hstatic.com
+0.0.0.0 ad-m.24hstatic.com
+0.0.0.0 ad-us.24hstatic.com
+0.0.0.0 eva-ad.24hstatic.com
+0.0.0.0 eva-ipad-ad.24hstatic.com
+0.0.0.0 eva-m-ad.24hstatic.com
+0.0.0.0 nv-ad.24hstatic.com
+0.0.0.0 nv-ad-hcm.24hstatic.com
+0.0.0.0 nv-ad-hn.24hstatic.com
+# --- Block adsVN ---
+0.0.0.0 123c.vn
 0.0.0.0 ad-img.icheck.com.vn
 0.0.0.0 ad.24h.com.vn
 0.0.0.0 ad.accesstrade.vn
@@ -15333,6 +15345,7 @@
 0.0.0.0 quangcao.thanhnien.vn
 0.0.0.0 quangcao.tuoitre.vn
 0.0.0.0 quangcao247.com.vn
+0.0.0.0 r.tinmoi24.vn
 0.0.0.0 realclick.vn
 0.0.0.0 sbbanner.com
 0.0.0.0 serving-ad.tv24.vn

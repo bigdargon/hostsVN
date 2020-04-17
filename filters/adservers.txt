@@ -1,11 +1,13 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Apr 2020 14:23 UTC+7
-! Version: 2004171423
-! Blocked: 373 rules
+! Last modified: 17 Apr 2020 15:08 UTC+7
+! Version: 2004171508
+! Blocked: 376 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
+||24h*-ad.24hstatic.com^
+||ad*.24hstatic.com^
 ||ad.org.vn^
 ||ad.zing.vn^
 ||ad360.vn^
@@ -51,6 +53,7 @@
 ||d2ox6x0y9xhicd.cloudfront.net^
 ||dable.io^
 ||eclick.vn^
+||eva*-ad.24hstatic.com^
 ||ezimar.com^
 ||fff.com.vn^
 ||fuseplatform.net^
@@ -84,6 +87,7 @@
 ||novaonads.com^
 ||novaonx.com^
 ||nt-cdn.coccoc.com^
+||nv-ad*.24hstatic.com^
 ||ohchat.net^
 ||phanquang.vn^
 ||philacct.com^
@@ -129,8 +133,6 @@
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
 ||123c.vn^
-||ad-hcm.24hstatic.com^
-||ad-hn.24hstatic.com^
 ||ad-img.icheck.com.vn^
 ||ad.24h.com.vn^
 ||ad.accesstrade.vn^
@@ -214,6 +216,7 @@
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
 ||quangcao247.com.vn^
+||r.tinmoi24.vn^
 ||realclick.vn^
 ||sbbanner.com^
 ||serving-ad.tv24.vn^
