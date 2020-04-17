@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Apr 2020 13:54 UTC+7
-! Version: 2004171354
-! Blocked: 5,293 rules
+! Last modified: 17 Apr 2020 14:11 UTC+7
+! Version: 2004171411
+! Blocked: 5,297 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2287,6 +2287,7 @@
 ||aheadday.com^
 ||aidu-ads.de^
 ||ailalbapt.club^
+||ailpielei.com^
 ||aim4media.com^
 ||aimaniape.club^
 ||aimaptair.club^
@@ -2939,6 +2940,7 @@
 ||differentdesk.com^
 ||digitalmerkat.com^
 ||digitru.st^
+||dimfarlow.com^
 ||direct-xxx-access.com^
 ||directaclick.com^
 ||directivepub.com^
@@ -3156,6 +3158,7 @@
 ||freestats.tv^
 ||freewebcounter.com^
 ||frightenedpotato.com^
+||fryawlauk.com^
 ||functionalclam.com^
 ||functionalcrown.com^
 ||funklicks.com^
@@ -4560,6 +4563,7 @@
 ||ticklesign.com^
 ||tidaltv.com^
 ||tinybar.com^
+||tithewtog.com^
 ||tizers.net^
 ||tlvmedia.com^
 ||tnkexchange.com^

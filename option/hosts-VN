@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Apr 2020 13:54 UTC+7
-# Version: 2004171354
-# Blocked: 1,257 domains
+# Last modified: 17 Apr 2020 14:11 UTC+7
+# Version: 2004171411
+# Blocked: 1,272 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -847,22 +847,38 @@
 0.0.0.0 dsp.mediaz.asia
 0.0.0.0 guide.mediad.asia
 0.0.0.0 www.mediad.asia
-#[bidgear]
+#[bidgear.com]
+0.0.0.0 asset.bidgear.com
 0.0.0.0 astats.bidgear.com
+0.0.0.0 bfp.bidgear.com
 0.0.0.0 bidgear.com
+0.0.0.0 cdn.bidgear.com
+0.0.0.0 demand.bidgear.com
 0.0.0.0 dsp.bidgear.com
 0.0.0.0 hb.bidgear.com
 0.0.0.0 hb-ad.bidgear.com
 0.0.0.0 hb-imp.bidgear.com
+0.0.0.0 imp.bidgear.com
+0.0.0.0 imp-dsp.bidgear.com
 0.0.0.0 media.bidgear.com
 0.0.0.0 optimize-dsp.bidgear.com
 0.0.0.0 platform.bidgear.com
+0.0.0.0 platform1.bidgear.com
 0.0.0.0 rtb.bidgear.com
+0.0.0.0 sg-cdn.bidgear.com
+0.0.0.0 source.bidgear.com
 0.0.0.0 stats.bidgear.com
 0.0.0.0 vn-platform.bidgear.com
+0.0.0.0 vt-cdn.bidgear.com
 0.0.0.0 www.bidgear.com
 0.0.0.0 zabbix.bidgear.com
+#[bidgear-syndication.com]
 0.0.0.0 bidgear-syndication.com
+0.0.0.0 demand.bidgear-syndication.com
+0.0.0.0 imp-dsp.bidgear-syndication.com
+0.0.0.0 vegacdn1.bidgear-syndication.com
+0.0.0.0 vt-cdn.bidgear-syndication.com
+0.0.0.0 www.bidgear-syndication.com
 #[sharks.vn]
 0.0.0.0 delivery.sharks.vn
 0.0.0.0 sharks.vn

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Apr 2020 13:54 UTC+7
-# Version: 2004171354
-# Blocked: 18,870 domains
+# Last modified: 17 Apr 2020 14:11 UTC+7
+# Version: 2004171411
+# Blocked: 18,889 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14205,21 +14205,36 @@
 0 dsp.mediaz.asia
 0 guide.mediad.asia
 0 www.mediad.asia
+0 asset.bidgear.com
 0 astats.bidgear.com
+0 bfp.bidgear.com
 0 bidgear.com
+0 cdn.bidgear.com
+0 demand.bidgear.com
 0 dsp.bidgear.com
 0 hb.bidgear.com
 0 hb-ad.bidgear.com
 0 hb-imp.bidgear.com
+0 imp.bidgear.com
+0 imp-dsp.bidgear.com
 0 media.bidgear.com
 0 optimize-dsp.bidgear.com
 0 platform.bidgear.com
+0 platform1.bidgear.com
 0 rtb.bidgear.com
+0 sg-cdn.bidgear.com
+0 source.bidgear.com
 0 stats.bidgear.com
 0 vn-platform.bidgear.com
+0 vt-cdn.bidgear.com
 0 www.bidgear.com
 0 zabbix.bidgear.com
 0 bidgear-syndication.com
+0 demand.bidgear-syndication.com
+0 imp-dsp.bidgear-syndication.com
+0 vegacdn1.bidgear-syndication.com
+0 vt-cdn.bidgear-syndication.com
+0 www.bidgear-syndication.com
 0 delivery.sharks.vn
 0 sharks.vn
 0 www.sharks.vn
@@ -15719,6 +15734,7 @@
 0 aheadday.com
 0 aidu-ads.de
 0 ailalbapt.club
+0 ailpielei.com
 0 aim4media.com
 0 aimaniape.club
 0 aimaptair.club
@@ -16370,6 +16386,7 @@
 0 differentdesk.com
 0 digitalmerkat.com
 0 digitru.st
+0 dimfarlow.com
 0 direct-xxx-access.com
 0 directaclick.com
 0 directivepub.com
@@ -16586,6 +16603,7 @@
 0 freestats.tv
 0 freewebcounter.com
 0 frightenedpotato.com
+0 fryawlauk.com
 0 functionalclam.com
 0 functionalcrown.com
 0 funklicks.com
@@ -17987,6 +18005,7 @@
 0 ticklesign.com
 0 tidaltv.com
 0 tinybar.com
+0 tithewtog.com
 0 tizers.net
 0 tlvmedia.com
 0 tnkexchange.com
