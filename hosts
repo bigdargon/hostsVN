@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Apr 2020 11:34 UTC+7
-# Version: 2004171134
-# Blocked: 18,859 domains
+# Last modified: 17 Apr 2020 13:54 UTC+7
+# Version: 2004171354
+# Blocked: 18,870 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12923,6 +12923,17 @@
 0.0.0.0 sadslimz.com
 0.0.0.0 sadsokz.com
 0.0.0.0 sadspmz.com
+#[hads*s.com]
+0.0.0.0 hadsabz.com
+0.0.0.0 hadsanz.com
+0.0.0.0 hadsatz.com
+0.0.0.0 hadsecz.com
+0.0.0.0 hadsimz.com
+0.0.0.0 hadsipz.com
+0.0.0.0 hadskiz.com
+0.0.0.0 hadslimz.com
+0.0.0.0 hadsokz.com
+0.0.0.0 hadspmz.com
 #[darfilms.com]
 0.0.0.0 darfilms.com
 0.0.0.0 sc.darfilms.com
@@ -17386,7 +17397,6 @@
 0.0.0.0 gunggo.com
 0.0.0.0 guppymedia.com
 0.0.0.0 h78xb.pw
-0.0.0.0 hadsabz.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 handyfield.com
 0.0.0.0 hardtofindmilk.com
@@ -18056,6 +18066,7 @@
 0.0.0.0 partners.priceline.com
 0.0.0.0 passeura.com
 0.0.0.0 passion-4.net
+0.0.0.0 passtechusa.com
 0.0.0.0 pay-ads.com
 0.0.0.0 paycounter.com
 0.0.0.0 paypopup.com
@@ -18214,6 +18225,7 @@
 0.0.0.0 pushokey.com
 0.0.0.0 pushqwer.com
 0.0.0.0 puzzlingfall.com
+0.0.0.0 pvclouds.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 qa.token.ad

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Apr 2020 11:34 UTC+7
-! Version: 2004171134
-! Blocked: 5,291 rules
+! Last modified: 17 Apr 2020 13:54 UTC+7
+! Version: 2004171354
+! Blocked: 5,293 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -813,6 +813,7 @@
 ||gssprt.jp^
 ||gumgum.com^
 ||hadarone.com^
+||hads*s.com^
 ||headlinerlabs.com^
 ||heapanalytics.com^
 ||heyzap.com^
@@ -3225,7 +3226,6 @@
 ||gunggo.com^
 ||guppymedia.com^
 ||h78xb.pw^
-||hadsabz.com^
 ||hammerhearing.com^
 ||handyfield.com^
 ||hardtofindmilk.com^
@@ -3897,6 +3897,7 @@
 ||partners.priceline.com^
 ||passeura.com^
 ||passion-4.net^
+||passtechusa.com^
 ||pay-ads.com^
 ||paycounter.com^
 ||paypopup.com^
@@ -4056,6 +4057,7 @@
 ||pushokey.com^
 ||pushqwer.com^
 ||puzzlingfall.com^
+||pvclouds.com^
 ||px.dynamicyield.com^
 ||q.azcentral.com^
 ||qa.token.ad^
