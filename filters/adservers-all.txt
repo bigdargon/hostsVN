@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Apr 2020 16:36 UTC+7
-! Version: 2004171636
-! Blocked: 5,318 rules
+! Last modified: 17 Apr 2020 21:39 UTC+7
+! Version: 2004172139
+! Blocked: 5,326 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -900,6 +900,7 @@
 ||kochava.com^
 ||komoona.com^
 ||krxd.net^
+||kumobiles.com^
 ||ladicdn.com^
 ||ladsp.com^
 ||lalaping.com^
@@ -2374,6 +2375,8 @@
 ||appsdt.com^
 ||appsfire.com^
 ||appsfire.net^
+||appsflyer.club^
+||appsliving.com^
 ||appsnack.com^
 ||apptera.com^
 ||appular.com^
@@ -2561,6 +2564,7 @@
 ||besguses.pro^
 ||best-pr.info^
 ||best-top.ro^
+||bestadbid.com^
 ||bestboundary.com^
 ||bestsearch.net^
 ||beta.ads.cc^
@@ -2616,6 +2620,7 @@
 ||box.anchorfree.net^
 ||bpath.com^
 ||braincash.com^
+||branch.fun^
 ||brandreachsys.com^
 ||branovate.com^
 ||brassrule.com^
@@ -4234,6 +4239,7 @@
 ||sailif.com^
 ||samsungacr.com^
 ||samsungads.com^
+||sandsitedrhec.club^
 ||saysidewalk.com^
 ||sbx.pagesjaunes.fr^
 ||scambiobanner.aruba.it^
@@ -4784,6 +4790,7 @@
 ||viewpoint.com^
 ||viewwonder.com^
 ||villandoping.site^
+||villandopingcon.site^
 ||visiblemeasures.com^
 ||visistat.com^
 ||visitbox.de^
@@ -5312,6 +5319,7 @@
 ||protection-*.fun^
 ||protection-*.site^
 ||screenshielded.com^
+||secured-*.club^
 ||securedashfuyiersa.com^
 ||special-offerz.org^
 ||tc-clicks.com^

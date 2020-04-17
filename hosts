@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Apr 2020 16:36 UTC+7
-# Version: 2004171636
-# Blocked: 18,925 domains
+# Last modified: 17 Apr 2020 21:39 UTC+7
+# Version: 2004172139
+# Blocked: 18,944 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14073,6 +14073,12 @@
 0.0.0.0 us-content.mediaforge.com
 0.0.0.0 webservice.mediaforge.com
 0.0.0.0 www.mediaforge.com
+#[kumobiles.com]
+0.0.0.0 kumobiles.com
+0.0.0.0 shop.kumobiles.com
+0.0.0.0 guessgame.kumobiles.com
+0.0.0.0 ft.kumobiles.com
+0.0.0.0 lionking.kumobiles.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -16581,6 +16587,8 @@
 0.0.0.0 appsdt.com
 0.0.0.0 appsfire.com
 0.0.0.0 appsfire.net
+0.0.0.0 appsflyer.club
+0.0.0.0 appsliving.com
 0.0.0.0 appsnack.com
 0.0.0.0 apptera.com
 0.0.0.0 appular.com
@@ -16767,6 +16775,7 @@
 0.0.0.0 besguses.pro
 0.0.0.0 best-pr.info
 0.0.0.0 best-top.ro
+0.0.0.0 bestadbid.com
 0.0.0.0 bestboundary.com
 0.0.0.0 bestsearch.net
 0.0.0.0 beta.ads.cc
@@ -16822,6 +16831,7 @@
 0.0.0.0 box.anchorfree.net
 0.0.0.0 bpath.com
 0.0.0.0 braincash.com
+0.0.0.0 branch.fun
 0.0.0.0 brandreachsys.com
 0.0.0.0 branovate.com
 0.0.0.0 brassrule.com
@@ -18436,6 +18446,7 @@
 0.0.0.0 sailif.com
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungads.com
+0.0.0.0 sandsitedrhec.club
 0.0.0.0 saysidewalk.com
 0.0.0.0 sbx.pagesjaunes.fr
 0.0.0.0 scambiobanner.aruba.it
@@ -18986,6 +18997,7 @@
 0.0.0.0 viewpoint.com
 0.0.0.0 viewwonder.com
 0.0.0.0 villandoping.site
+0.0.0.0 villandopingcon.site
 0.0.0.0 visiblemeasures.com
 0.0.0.0 visistat.com
 0.0.0.0 visitbox.de
@@ -19665,6 +19677,15 @@
 0.0.0.0 protection-fixer.fun
 0.0.0.0 protection-iphone.fun
 0.0.0.0 protection-phone.fun
+#[secured-*.club]
+0.0.0.0 secured-booster.club
+0.0.0.0 secured-cellphone.club
+0.0.0.0 secured-cleaner.club
+0.0.0.0 secured-device.club
+0.0.0.0 secured-fix.club
+0.0.0.0 secured-fixer.club
+0.0.0.0 secured-iphone.club
+0.0.0.0 secured-phone.club
 # --- Extra block ---
 #[appsflyer.com]
 0.0.0.0 api.appsflyer.com
