@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Apr 2020 16:06 UTC+7
-# Version: 2004131606
-# Blocked: 18,757 domains
+# Last modified: 17 Apr 2020 11:34 UTC+7
+# Version: 2004171134
+# Blocked: 18,859 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13340,6 +13340,70 @@
 0 vcore.connatix.com
 0 vid.connatix.com
 0 www.connatix.com
+0 16x9.myfastcdn.com
+0 1x1.myfastcdn.com
+0 3x2.myfastcdn.com
+0 4x3.myfastcdn.com
+0 d3x2.myfastcdn.com
+0 myfastcdn.com
+0 lalaping.com
+0 static.lalaping.com
+0 o.wowreality.info
+0 r.wowreality.info
+0 wowreality.info
+0 ads.programattik.com
+0 programattik.com
+0 ssp.programattik.com
+0 www.programattik.com
+0 cdn.rmtag.com
+0 intljs.rmtag.com
+0 js.rmtag.com
+0 rmtag.com
+0 admin.mediaforge.com
+0 ads.mediaforge.com
+0 ads-cluster.mediaforge.com
+0 amp.mediaforge.com
+0 ampadmin.mediaforge.com
+0 amp-cl1.mediaforge.com
+0 amp-cluster.mediaforge.com
+0 api.mediaforge.com
+0 api2.mediaforge.com
+0 auth-service.mediaforge.com
+0 cdn.mediaforge.com
+0 cdn1.mediaforge.com
+0 cf-qa.mediaforge.com
+0 click.mediaforge.com
+0 click-cluster.mediaforge.com
+0 clients.mediaforge.com
+0 consent.mediaforge.com
+0 consent-dev.mediaforge.com
+0 content.mediaforge.com
+0 content-cluster.mediaforge.com
+0 dev-tag-builder-api.mediaforge.com
+0 feeds.mediaforge.com
+0 jp.mediaforge.com
+0 jp.tags.mediaforge.com
+0 jp-ads.mediaforge.com
+0 jp-amp.mediaforge.com
+0 jp-cdn.mediaforge.com
+0 jp-click.mediaforge.com
+0 jp-map.mediaforge.com
+0 jp-stats.mediaforge.com
+0 jp-tags.mediaforge.com
+0 logs.mediaforge.com
+0 m-ads.mediaforge.com
+0 map.mediaforge.com
+0 mediaforge.com
+0 ox-d.mediaforge.com
+0 products.mediaforge.com
+0 stats.mediaforge.com
+0 stats-cluster.mediaforge.com
+0 sync.mediaforge.com
+0 tags.mediaforge.com
+0 tags-cluster.mediaforge.com
+0 us-content.mediaforge.com
+0 webservice.mediaforge.com
+0 www.mediaforge.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13744,6 +13808,7 @@
 0 zplayer.trk.zapps.vn
 0 log.zingmp3.vn
 0 zlog.zingmp3.vn
+0 log.zingnews.vn
 0 ads.vietad.vn
 0 as.vietad.vn
 0 banner.vietad.vn
@@ -14605,6 +14670,7 @@
 0 4d5.net
 0 4info.com
 0 4mads.com
+0 4wnet.com
 0 a.consumer.net
 0 a.mktw.net
 0 a.rigelink.com
@@ -14654,6 +14720,7 @@
 0 ad-space.net
 0 ad-spb.ru
 0 ad-specs.guoshipartners.com
+0 ad-srv.net
 0 ad-tech.com
 0 ad-up.com
 0 ad.100.tbn.ru
@@ -14803,6 +14870,7 @@
 0 adbunker.com
 0 adbutler.com
 0 adbutler.de
+0 adbutter.net
 0 adbuyer.com
 0 adbuyer3.lycos.com
 0 adcash.com
@@ -15243,7 +15311,6 @@
 0 ads.printscr.com
 0 ads.prisacom.com
 0 ads.program3.com
-0 ads.programattik.com
 0 ads.psd2html.com
 0 ads.pushplay.com
 0 ads.quasaraffiliates.com
@@ -15528,6 +15595,7 @@
 0 adultadvertising.com
 0 adultmoda.com
 0 adunion.tapas.net
+0 adux.com
 0 adv-adserver.com
 0 adv-banner.libero.it
 0 adv-sv-show.focus.cn
@@ -15555,6 +15623,7 @@
 0 advertisementafterthought.com
 0 advertiserurl.com
 0 advertisespace.com
+0 advertising-cdn.dpgmedia.cloud
 0 advertising.aol.com
 0 advertising.guildlaunch.net
 0 advertisingbanners.com
@@ -15591,6 +15660,7 @@
 0 adxprts.com
 0 adxvalue.com
 0 adyea.com
+0 adyieldoptimizer.com
 0 adz2you.com
 0 adzbazar.com
 0 adzones.com
@@ -15662,6 +15732,7 @@
 0 ambiguousquilt.com
 0 ambitiousagreement.com
 0 americash.com
+0 amgdgt.com
 0 amobee.com
 0 an.acxapi.net
 0 an.clhcdn.net
@@ -15738,6 +15809,7 @@
 0 auctionads.net
 0 audience2media.com
 0 audienceinsights.com
+0 audiencemanager.de
 0 audit.median.hu
 0 audit.webinform.hu
 0 augur.io
@@ -15949,6 +16021,7 @@
 0 brickandmobile.com
 0 bridgetrack.com
 0 brightinfo.com
+0 britepool.com
 0 british-banners.com
 0 broadboundary.com
 0 broadcastbed.com
@@ -16045,6 +16118,7 @@
 0 chestionar.ro
 0 chewcoat.com
 0 chickensstation.com
+0 chicoryapp.com
 0 chiefcurrent.com
 0 chinsnakes.com
 0 chitika.net
@@ -16249,6 +16323,7 @@
 0 dashingdirt.com
 0 dashingsweater.com
 0 data.queryly.com
+0 datafront.co
 0 datashreddergold.com
 0 dataxu.com
 0 dbbsrv.com
@@ -16483,6 +16558,7 @@
 0 flowgo.com
 0 fm6dz864.top
 0 foamybox.com
+0 fonecta.fi
 0 fonecta.leiki.com
 0 foresee.com
 0 forex-affiliate.net
@@ -16729,6 +16805,8 @@
 0 inviterabbits.com
 0 invitesugar.com
 0 ipro.com
+0 ipromote.com
+0 iqm.com
 0 ireklama.cz
 0 itfarm.com
 0 itop.cz
@@ -16738,6 +16816,7 @@
 0 ivypixel.com
 0 j93557g.com
 0 jadeitite.com
+0 jaduda.com
 0 jaizouji.com
 0 jatxt.com
 0 jcount.com
@@ -17038,6 +17117,7 @@
 0 mybuys.com
 0 mycounter.ua
 0 mymoneymakingapp.com
+0 mynsystems.com
 0 mypagerank.net
 0 mypagerank.ru
 0 mypowermall.com
@@ -17070,6 +17150,7 @@
 0 nedstatpro.net
 0 neighborlywatch.com
 0 neocounter.neoworx-blog-tools.net
+0 neodatagroup.com
 0 neoffic.com
 0 nephritish.com
 0 nervoussummer.com
@@ -17144,6 +17225,7 @@
 0 oewabox.at
 0 offerforge.com
 0 offerfusion.com
+0 offerimage.com
 0 offermatica.com
 0 olivebrandresponse.com
 0 omniscientspark.com
@@ -17187,6 +17269,7 @@
 0 optimost.com
 0 optmd.com
 0 optmstr.com
+0 orangeads.fr
 0 ordingly.com
 0 oriori.com
 0 ortshk.tapas.net
@@ -17433,6 +17516,7 @@
 0 rankyou.com
 0 rapidcounter.com
 0 rapidkittens.com
+0 rapleaf.com
 0 raresummer.com
 0 rate.ru
 0 ratings.lycos.com
@@ -17551,6 +17635,7 @@
 0 scientiamobile.com
 0 scintillatingscissors.com
 0 scintillatingspace.com
+0 scoota.co
 0 scopelight.com
 0 scratch2cash.com
 0 screechingfurniture.com
@@ -17571,6 +17656,7 @@
 0 selectionsugar.com
 0 selectivesummer.com
 0 self-service.uberads.com
+0 semasio.net
 0 senddroid.com
 0 sendmepixel.com
 0 sensenetworks.com
@@ -17649,6 +17735,8 @@
 0 smart.brvaffs.com
 0 smart4ads.com
 0 smartbase.cdnservices.com
+0 smartclick.net
+0 smartclip.net
 0 smartdevicemedia.com
 0 smartlook.com
 0 smartmad.com
@@ -17667,6 +17755,7 @@
 0 socialspark.com
 0 sofia.trustx.org
 0 softclick.com.br
+0 sojern.com
 0 sombersea.com
 0 sombersquirrel.com
 0 sombersurprise.com
@@ -18065,6 +18154,7 @@
 0 vanfireworks.com
 0 variablefitness.com
 0 veille-referencement.com
+0 veinteractive.com
 0 velocecdn.com
 0 velocitycdn.com
 0 velti.com
@@ -18075,6 +18165,7 @@
 0 veruta.com
 0 vervemobile.com
 0 vervewireless.com
+0 vi-tag.net
 0 vibrantmedia.com
 0 vidcpm.com
 0 videoadex.com
@@ -18097,7 +18188,9 @@
 0 vrs.cz
 0 vs.tucows.com
 0 vt.myvisualiq.net
+0 vtracy.de
 0 w3i.com
+0 w55c.net
 0 wa.and.co.uk
 0 wads.webteh.com
 0 wantmobi.bid
@@ -18110,6 +18203,7 @@
 0 waust.at
 0 wda.com
 0 wdads.sx.atl.publicus.com
+0 wearemiq.com
 0 web-stat.com
 0 web.btncdn.com
 0 web.informer.com
@@ -18257,6 +18351,7 @@
 0 xiti.com
 0 xius.com
 0 xovq5nemr.com
+0 xplosion.de
 0 xplusone.com
 0 xponsor.com
 0 xq1.net
@@ -18279,6 +18374,7 @@
 0 yieldmanager.com
 0 yieldmanager.net
 0 yieldmo.com
+0 yieldoptimizer.com
 0 yieldtraffic.com
 0 yldbt.com
 0 ymetrica1.com
@@ -18300,6 +18396,7 @@
 0 zeegreen.net
 0 zeepmedia.com
 0 zekiatagur.com
+0 zemanta.com
 0 zencudo.co.uk
 0 zenkreka.com
 0 zenzuu.com
@@ -18318,6 +18415,7 @@
 0 a.axmtrack.com
 0 a.idio.co
 0 a.klaviyo.com
+0 a3cloud.net
 0 acs.m.taobao.com
 0 adentify.com
 0 adj.st
@@ -18367,6 +18465,7 @@
 0 api.prooffactor.com
 0 api.quantumgraph.com
 0 api.safegraph.com
+0 apolloprogram.io
 0 app-measurement.com
 0 applog.camera360.com
 0 appres.camera360.com
@@ -18399,6 +18498,7 @@
 0 cdnstatic.geo.dmcdn.net
 0 client-analytics.braintreegateway.com
 0 cmp.dmgmediaprivacy.co.uk
+0 cognitivlabs.com
 0 collector.apester.com
 0 collector.leaddyno.com
 0 comscoreresearch.com
@@ -18502,6 +18602,7 @@
 0 masasaudi.com
 0 mebed.dm.gg
 0 media-match.com
+0 mediaforce.com
 0 mediaforce.grapeshot.co.uk
 0 metricfast.com
 0 metrics.brightcove.com
@@ -18573,6 +18674,7 @@
 0 si.dailymail.co.uk
 0 siliconclasses.in
 0 simplesharebuttons.com
+0 smart-dmp.com
 0 smartpx.io
 0 smetrics.bestbuy.com
 0 smetrics.boston.com

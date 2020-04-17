@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Apr 2020 16:06 UTC+7
-# Version: 2004131606
-# Blocked: 1,256 domains
+# Last modified: 17 Apr 2020 11:34 UTC+7
+# Version: 2004171134
+# Blocked: 1,257 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -432,6 +432,7 @@
 0.0.0.0 zplayer.trk.zapps.vn
 0.0.0.0 log.zingmp3.vn
 0.0.0.0 zlog.zingmp3.vn
+0.0.0.0 log.zingnews.vn
 #[vietad]
 0.0.0.0 ads.vietad.vn
 0.0.0.0 as.vietad.vn

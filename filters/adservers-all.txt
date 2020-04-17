@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Apr 2020 16:06 UTC+7
-! Version: 2004131606
-! Blocked: 5,248 rules
+! Last modified: 17 Apr 2020 11:34 UTC+7
+! Version: 2004171134
+! Blocked: 5,291 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -62,11 +62,11 @@
 ||ladipage.vn^
 ||lavanetwork.net^
 ||laydata.com^
-||log*.mp3.zing.vn^
+||log*.zing.vn^
 ||log.api.zaloapp.com^
-||log.news.zing.vn^
 ||log.sdk.zadn.vn^
 ||log.zingmp3.vn^
+||log.zingnews.vn^
 ||mangoads.vn^
 ||masoffer.net^
 ||mclick.mobi^
@@ -105,7 +105,7 @@
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
 ||surfcountor.com^
-||tracking.*.zing.vn^
+||tracking.playzing.g6.zing.vn^
 ||uniad.vn^
 ||vads.net.vn^
 ||vads.vn^
@@ -880,6 +880,7 @@
 ||krxd.net^
 ||ladicdn.com^
 ||ladsp.com^
+||lalaping.com^
 ||leanplum.com^
 ||lifestreet.com^
 ||lifestreetmedia.com^
@@ -922,6 +923,7 @@
 ||mdotm.com^
 ||measuread.com^
 ||media.net^
+||mediaforge.com^
 ||medialytics.com^
 ||mediarithmics.com^
 ||mediawayss.com^
@@ -966,6 +968,7 @@
 ||mparticle.com^
 ||mxpnl.com^
 ||mydas.mobi^
+||myfastcdn.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||navdmp.com^
@@ -1041,6 +1044,7 @@
 ||powerlinks.com^
 ||prebid.org^
 ||proadscdn.com^
+||programattik.com^
 ||propellerads.com^
 ||propellerclick.com^
 ||proper.io^
@@ -1073,6 +1077,7 @@
 ||revrtb.com^
 ||rfihub.com^
 ||rmp.rakuten.com^
+||rmtag.com^
 ||rosenberg.appmetrica.yandex.net^
 ||rtapplog.snssdk.com^
 ||rtbid.me^
@@ -1211,6 +1216,7 @@
 ||webvisor.ru^
 ||woopra.com^
 ||wootric.com^
+||wowreality.info^
 ||wpu.sh^
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
@@ -1240,6 +1246,7 @@
 ||4d5.net^
 ||4info.com^
 ||4mads.com^
+||4wnet.com^
 ||a.consumer.net^
 ||a.mktw.net^
 ||a.rigelink.com^
@@ -1289,6 +1296,7 @@
 ||ad-space.net^
 ||ad-spb.ru^
 ||ad-specs.guoshipartners.com^
+||ad-srv.net^
 ||ad-tech.com^
 ||ad-up.com^
 ||ad.100.tbn.ru^
@@ -1438,6 +1446,7 @@
 ||adbunker.com^
 ||adbutler.com^
 ||adbutler.de^
+||adbutter.net^
 ||adbuyer.com^
 ||adbuyer3.lycos.com^
 ||adcash.com^
@@ -1879,7 +1888,6 @@
 ||ads.printscr.com^
 ||ads.prisacom.com^
 ||ads.program3.com^
-||ads.programattik.com^
 ||ads.psd2html.com^
 ||ads.pushplay.com^
 ||ads.quasaraffiliates.com^
@@ -2164,6 +2172,7 @@
 ||adultadvertising.com^
 ||adultmoda.com^
 ||adunion.tapas.net^
+||adux.com^
 ||adv-adserver.com^
 ||adv-banner.libero.it^
 ||adv-sv-show.focus.cn^
@@ -2191,6 +2200,7 @@
 ||advertisementafterthought.com^
 ||advertiserurl.com^
 ||advertisespace.com^
+||advertising-cdn.dpgmedia.cloud^
 ||advertising.aol.com^
 ||advertising.guildlaunch.net^
 ||advertisingbanners.com^
@@ -2227,6 +2237,7 @@
 ||adxprts.com^
 ||adxvalue.com^
 ||adyea.com^
+||adyieldoptimizer.com^
 ||adz2you.com^
 ||adzbazar.com^
 ||adzones.com^
@@ -2298,6 +2309,7 @@
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
 ||americash.com^
+||amgdgt.com^
 ||amobee.com^
 ||an.acxapi.net^
 ||an.clhcdn.net^
@@ -2374,6 +2386,7 @@
 ||auctionads.net^
 ||audience2media.com^
 ||audienceinsights.com^
+||audiencemanager.de^
 ||audit.median.hu^
 ||audit.webinform.hu^
 ||augur.io^
@@ -2586,6 +2599,7 @@
 ||brickandmobile.com^
 ||bridgetrack.com^
 ||brightinfo.com^
+||britepool.com^
 ||british-banners.com^
 ||broadboundary.com^
 ||broadcastbed.com^
@@ -2682,6 +2696,7 @@
 ||chestionar.ro^
 ||chewcoat.com^
 ||chickensstation.com^
+||chicoryapp.com^
 ||chiefcurrent.com^
 ||chinsnakes.com^
 ||chitika.net^
@@ -2886,6 +2901,7 @@
 ||dashingdirt.com^
 ||dashingsweater.com^
 ||data.queryly.com^
+||datafront.co^
 ||datashreddergold.com^
 ||dataxu.com^
 ||dbbsrv.com^
@@ -3121,6 +3137,7 @@
 ||flowgo.com^
 ||fm6dz864.top^
 ||foamybox.com^
+||fonecta.fi^
 ||fonecta.leiki.com^
 ||foresee.com^
 ||forex-affiliate.net^
@@ -3367,6 +3384,8 @@
 ||inviterabbits.com^
 ||invitesugar.com^
 ||ipro.com^
+||ipromote.com^
+||iqm.com^
 ||ireklama.cz^
 ||itfarm.com^
 ||itop.cz^
@@ -3376,6 +3395,7 @@
 ||ivypixel.com^
 ||j93557g.com^
 ||jadeitite.com^
+||jaduda.com^
 ||jaizouji.com^
 ||jatxt.com^
 ||jcount.com^
@@ -3678,6 +3698,7 @@
 ||mybuys.com^
 ||mycounter.ua^
 ||mymoneymakingapp.com^
+||mynsystems.com^
 ||mypagerank.net^
 ||mypagerank.ru^
 ||mypowermall.com^
@@ -3710,6 +3731,7 @@
 ||nedstatpro.net^
 ||neighborlywatch.com^
 ||neocounter.neoworx-blog-tools.net^
+||neodatagroup.com^
 ||neoffic.com^
 ||nephritish.com^
 ||nervoussummer.com^
@@ -3784,6 +3806,7 @@
 ||oewabox.at^
 ||offerforge.com^
 ||offerfusion.com^
+||offerimage.com^
 ||offermatica.com^
 ||olivebrandresponse.com^
 ||omniscientspark.com^
@@ -3827,6 +3850,7 @@
 ||optimost.com^
 ||optmd.com^
 ||optmstr.com^
+||orangeads.fr^
 ||ordingly.com^
 ||oriori.com^
 ||ortshk.tapas.net^
@@ -4074,6 +4098,7 @@
 ||rankyou.com^
 ||rapidcounter.com^
 ||rapidkittens.com^
+||rapleaf.com^
 ||raresummer.com^
 ||rate.ru^
 ||ratings.lycos.com^
@@ -4192,6 +4217,7 @@
 ||scientiamobile.com^
 ||scintillatingscissors.com^
 ||scintillatingspace.com^
+||scoota.co^
 ||scopelight.com^
 ||scratch2cash.com^
 ||screechingfurniture.com^
@@ -4212,6 +4238,7 @@
 ||selectionsugar.com^
 ||selectivesummer.com^
 ||self-service.uberads.com^
+||semasio.net^
 ||senddroid.com^
 ||sendmepixel.com^
 ||sensenetworks.com^
@@ -4290,6 +4317,8 @@
 ||smart.brvaffs.com^
 ||smart4ads.com^
 ||smartbase.cdnservices.com^
+||smartclick.net^
+||smartclip.net^
 ||smartdevicemedia.com^
 ||smartlook.com^
 ||smartmad.com^
@@ -4308,6 +4337,7 @@
 ||socialspark.com^
 ||sofia.trustx.org^
 ||softclick.com.br^
+||sojern.com^
 ||sombersea.com^
 ||sombersquirrel.com^
 ||sombersurprise.com^
@@ -4706,6 +4736,7 @@
 ||vanfireworks.com^
 ||variablefitness.com^
 ||veille-referencement.com^
+||veinteractive.com^
 ||velocecdn.com^
 ||velocitycdn.com^
 ||velti.com^
@@ -4716,6 +4747,7 @@
 ||veruta.com^
 ||vervemobile.com^
 ||vervewireless.com^
+||vi-tag.net^
 ||vibrantmedia.com^
 ||vidcpm.com^
 ||videoadex.com^
@@ -4738,7 +4770,9 @@
 ||vrs.cz^
 ||vs.tucows.com^
 ||vt.myvisualiq.net^
+||vtracy.de^
 ||w3i.com^
+||w55c.net^
 ||wa.and.co.uk^
 ||wads.webteh.com^
 ||wantmobi.bid^
@@ -4751,6 +4785,7 @@
 ||waust.at^
 ||wda.com^
 ||wdads.sx.atl.publicus.com^
+||wearemiq.com^
 ||web-stat.com^
 ||web.btncdn.com^
 ||web.informer.com^
@@ -4826,6 +4861,7 @@
 ||xiti.com^
 ||xius.com^
 ||xovq5nemr.com^
+||xplosion.de^
 ||xplusone.com^
 ||xponsor.com^
 ||xq1.net^
@@ -4848,6 +4884,7 @@
 ||yieldmanager.com^
 ||yieldmanager.net^
 ||yieldmo.com^
+||yieldoptimizer.com^
 ||yieldtraffic.com^
 ||yldbt.com^
 ||ymetrica1.com^
@@ -4869,6 +4906,7 @@
 ||zeegreen.net^
 ||zeepmedia.com^
 ||zekiatagur.com^
+||zemanta.com^
 ||zencudo.co.uk^
 ||zenkreka.com^
 ||zenzuu.com^
@@ -4887,6 +4925,7 @@
 ||a.axmtrack.com^
 ||a.idio.co^
 ||a.klaviyo.com^
+||a3cloud.net^
 ||acs.m.taobao.com^
 ||adentify.com^
 ||adj.st^
@@ -4936,6 +4975,7 @@
 ||api.prooffactor.com^
 ||api.quantumgraph.com^
 ||api.safegraph.com^
+||apolloprogram.io^
 ||app-measurement.com^
 ||applog.camera360.com^
 ||appres.camera360.com^
@@ -4968,6 +5008,7 @@
 ||cdnstatic.geo.dmcdn.net^
 ||client-analytics.braintreegateway.com^
 ||cmp.dmgmediaprivacy.co.uk^
+||cognitivlabs.com^
 ||collector.apester.com^
 ||collector.leaddyno.com^
 ||comscoreresearch.com^
@@ -5071,6 +5112,7 @@
 ||masasaudi.com^
 ||mebed.dm.gg^
 ||media-match.com^
+||mediaforce.com^
 ||mediaforce.grapeshot.co.uk^
 ||metricfast.com^
 ||metrics.brightcove.com^
@@ -5142,6 +5184,7 @@
 ||si.dailymail.co.uk^
 ||siliconclasses.in^
 ||simplesharebuttons.com^
+||smart-dmp.com^
 ||smartpx.io^
 ||smetrics.bestbuy.com^
 ||smetrics.boston.com^
