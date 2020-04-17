@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Apr 2020 14:11 UTC+7
-! Version: 2004171411
-! Blocked: 369 rules
+! Last modified: 17 Apr 2020 14:23 UTC+7
+! Version: 2004171423
+! Blocked: 373 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -48,6 +48,7 @@
 ||cleverads.vn^
 ||cokhach.com^
 ||contineljs.com^
+||d2ox6x0y9xhicd.cloudfront.net^
 ||dable.io^
 ||eclick.vn^
 ||ezimar.com^
@@ -88,6 +89,9 @@
 ||philacct.com^
 ||pinetech.vn^
 ||polyad.net^
+||pushdi.com^
+||pushdy.com^
+||pushdy.vn^
 ||px.za.zaloapp.com^
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^

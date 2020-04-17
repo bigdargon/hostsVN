@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Apr 2020 14:11 UTC+7
-# Version: 2004171411
-# Blocked: 18,889 domains
+# Last modified: 17 Apr 2020 14:23 UTC+7
+# Version: 2004171423
+# Blocked: 18,898 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14496,6 +14496,15 @@
 0 static.yeah1media.vn
 0 system.yeah1media.vn
 0 yeah1media.vn
+0 pushdy.vn
+0 www.pushdy.vn
+0 pushdy.com
+0 cdn.pushdy.com
+0 www.pushdy.com
+0 pushdi.com
+0 api.pushdi.com
+0 sdk.pushdi.com
+0 d2ox6x0y9xhicd.cloudfront.net
 0 123c.vn
 0 ad-hcm.24hstatic.com
 0 ad-hn.24hstatic.com
