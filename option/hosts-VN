@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Apr 2020 15:08 UTC+7
-# Version: 2004171508
-# Blocked: 1,293 domains
+# Last modified: 17 Apr 2020 16:36 UTC+7
+# Version: 2004171636
+# Blocked: 1,308 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1195,8 +1195,12 @@
 0.0.0.0 nv-ad.24hstatic.com
 0.0.0.0 nv-ad-hcm.24hstatic.com
 0.0.0.0 nv-ad-hn.24hstatic.com
+#[vnnayngaytin.vn]
+0.0.0.0 vnnayngaytin.vn
+0.0.0.0 ad.vnnayngaytin.vn
 # --- Block adsVN ---
 0.0.0.0 123c.vn
+0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-img.icheck.com.vn
 0.0.0.0 ad.24h.com.vn
 0.0.0.0 ad.accesstrade.vn
@@ -1206,6 +1210,7 @@
 0.0.0.0 ad.vatgia.com
 0.0.0.0 ad.vietbao.vn
 0.0.0.0 ad.vkool.net
+0.0.0.0 adadmin.headlines.pw
 0.0.0.0 adc.quantrimang.com
 0.0.0.0 adchoice.com
 0.0.0.0 adchoice.com.vn
@@ -1214,6 +1219,7 @@
 0.0.0.0 admedia.com.vn
 0.0.0.0 admin.sothuchi.vn
 0.0.0.0 adnetwork.5imedia.vn
+0.0.0.0 adpostback.headlines.pw
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads.baodatviet.vn
 0.0.0.0 ads.careerbuilder.vn
@@ -1234,6 +1240,7 @@
 0.0.0.0 adsweb.vn
 0.0.0.0 adt.com.vn
 0.0.0.0 adv.baotintuc.vn
+0.0.0.0 advert-admin.vnay.vn
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.xemvtv.net
 0.0.0.0 affiliate.k4.tinhte.vn
@@ -1267,13 +1274,17 @@
 0.0.0.0 dt.vnecdn.com
 0.0.0.0 events.vungtv.com
 0.0.0.0 fptad.com
+0.0.0.0 ghimc.vn
 0.0.0.0 go.vnecdn.com
 0.0.0.0 landingpagelagi.vn
+0.0.0.0 lottery.headlines.pw
+0.0.0.0 lottery.vntoday.news
 0.0.0.0 m.clevernet.vn
 0.0.0.0 microad.vn
 0.0.0.0 mobileads.dieuviet.com
 0.0.0.0 myad.vn
 0.0.0.0 ng-vn-notice.gameitop.com
+0.0.0.0 offerwall.headlines.pw
 0.0.0.0 ox1.vietstock.vn
 0.0.0.0 phimmedia03.com
 0.0.0.0 polyad.galaxypub.vn
@@ -1286,6 +1297,7 @@
 0.0.0.0 realclick.vn
 0.0.0.0 sbbanner.com
 0.0.0.0 serving-ad.tv24.vn
+0.0.0.0 shop.vnay.vn
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.nas.nixcdn.com
 0.0.0.0 toppage.vn
@@ -1322,6 +1334,7 @@
 0.0.0.0 deqik.com
 0.0.0.0 elogs.vnexpress.net
 0.0.0.0 event.headlines.pw
+0.0.0.0 event.vntoday.news
 0.0.0.0 la.vietid.net
 0.0.0.0 lg.lotus.vn
 0.0.0.0 log.anninhthudo.vn
@@ -1336,12 +1349,15 @@
 0.0.0.0 log.tienphong.vn
 0.0.0.0 log.vietnamdaily.net.vn
 0.0.0.0 log.vietnamplus.vn
+0.0.0.0 log.vnay.vn
+0.0.0.0 log.vntoday.news
 0.0.0.0 log.vov.vn
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 logging.galaxypub.vn
 0.0.0.0 logging.phunuonline.com.vn
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 nstat.headlines.pw
+0.0.0.0 report.vnay.vn
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
