@@ -35,13 +35,13 @@
 
 
 #google
-^https?:\/\/.+\.googlevideo\.com\/.+&oad
 ^https?:\/\/.+\.googlevideo\.com\/.+ctier
+^https?:\/\/.+\.googlevideo\.com\/.+oad=
 ^https?:\/\/.+\.googlevideo\.com\/ptracking
 ^https?:\/\/.+\.googlevideo\.com\/videogoodput
 
+^https?:\/\/.+\.youtube\.com\/.+adformat
 ^https?:\/\/.+\.youtube\.com\/.+get_ads
-^https?:\/\/.+\.youtube\.com\/api\/stats\/.+adformat
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/ads
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/qoe
 ^https?:\/\/.+\.youtube\.com\/csi_204

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Apr 2020 21:39 UTC+7
-# Version: 2004172139
-# Blocked: 18,944 domains
+# Last modified: 18 Apr 2020 20:59 UTC+7
+# Version: 2004182059
+# Blocked: 18,968 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13419,6 +13419,20 @@
 0 guessgame.kumobiles.com
 0 ft.kumobiles.com
 0 lionking.kumobiles.com
+0 api.inspectlet.com
+0 cdn.inspectlet.com
+0 direct.inspectlet.com
+0 hn.inspectlet.com
+0 inspectlet.com
+0 ws.inspectlet.com
+0 www.inspectlet.com
+0 wwwstatic.inspectlet.com
+0 appstore.objc.top
+0 lean.objc.top
+0 netfm.objc.top
+0 noloss.objc.top
+0 objc.top
+0 www.objc.top
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13801,6 +13815,8 @@
 0 log.news.zing.vn
 0 logv2.mp3.zing.vn
 0 tracking.playzing.g6.zing.vn
+0 ads.zalo.me
+0 px.za.zalo.me
 0 shop.zalo.me
 0 sp.zalo.me
 0 ads.zaloapp.com
@@ -14525,6 +14541,12 @@
 0 nv-ad-hn.24hstatic.com
 0 vnnayngaytin.vn
 0 ad.vnnayngaytin.vn
+0 analytics.donglogs.com
+0 api.donglogs.com
+0 donglogs.com
+0 rec.donglogs.com
+0 scripts.donglogs.com
+0 www.donglogs.com
 0 123c.vn
 0 ad-admin.vnay.vn
 0 ad-img.icheck.com.vn
@@ -16347,6 +16369,7 @@
 0 cpays.com
 0 cpm-ad.com
 0 cpmaffiliation.com
+0 cpux.gmud.top
 0 cpx.to
 0 cpxadroit.com
 0 cpxinteractive.com
@@ -16856,7 +16879,6 @@
 0 inquisitiveinvention.com
 0 inringtone.com
 0 insightexpress.com
-0 inspectlet.com
 0 inspectorclick.com
 0 install.365-stream.com
 0 instantmadness.com
@@ -17490,6 +17512,7 @@
 0 presetrabbits.com
 0 previousplayground.com
 0 previouspotato.com
+0 prf.hn
 0 prfwpclck.com
 0 primaryads.com
 0 primetime.net
@@ -18765,6 +18788,7 @@
 0 stats.apester.com
 0 stats.betradar.com
 0 stats.count.ly
+0 stats.lncld.net
 0 stats.unlimapps.com
 0 stats.wp.com
 0 stats.xtraffic.xyz

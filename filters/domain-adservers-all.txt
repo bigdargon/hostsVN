@@ -1,11 +1,10 @@
 ! Title: hostsVN
-! Last modified: 17 Apr 2020 21:39 UTC+7
-! Version: 2004172139
-! Blocked: 5,326 domains
+! Last modified: 18 Apr 2020 20:59 UTC+7
+! Version: 2004182059
+! Blocked: 5,334 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h*-ad.24hstatic.com
-vnnayngaytin.vn
 ad*.24hstatic.com
 ad.org.vn
 ad.zing.vn
@@ -22,6 +21,7 @@ adpia.vn
 adrealclick.com
 ads-target.coccoc.com
 ads.hosting.vcmedia.vn
+ads.zalo.me
 ads.zaloapp.com
 ads.zdn.vn
 adsota.com
@@ -51,6 +51,7 @@ cokhach.com
 contineljs.com
 d2ox6x0y9xhicd.cloudfront.net
 dable.io
+donglogs.com
 eclick.vn
 eva*-ad.24hstatic.com
 ezimar.com
@@ -95,6 +96,7 @@ polyad.net
 pushdi.com
 pushdy.com
 pushdy.vn
+px.za.zalo.me
 px.za.zaloapp.com
 qc-static.coccoc.com
 qc.coccoc.com
@@ -121,12 +123,14 @@ viam.com.vn
 vidoomy.com
 vietad.vn
 vietnamnetad.vn
+vnnayngaytin.vn
 yeah1media.vn
 yoads.net
 yoads.network
 yomedia.vn
 younetmedia.com
 zalo-ads*.zadn.vn
+zaloapp.ads.zdn.vn
 zlog.zingmp3.vn
 zminer.zaloapp.com
 zplayer-trk.zdn.vn
@@ -871,6 +875,7 @@ innity.com
 innity.net
 insight.ucweb.com
 insightexpressai.com
+inspectlet.com
 instapage.com
 instartlogic.com
 insurads.com
@@ -1011,6 +1016,7 @@ nxtck.com
 nytadvertising.nytimes.com
 o-s.io
 o333o.com
+objc.top
 ocsp.apple.com
 odc.starwave.com
 omtrdc.net
@@ -2880,6 +2886,7 @@ cpalead.com
 cpays.com
 cpm-ad.com
 cpmaffiliation.com
+cpux.gmud.top
 cpx.to
 cpxadroit.com
 cpxinteractive.com
@@ -3390,7 +3397,6 @@ inpagepush.com
 inquisitiveinvention.com
 inringtone.com
 insightexpress.com
-inspectlet.com
 inspectorclick.com
 install.365-stream.com
 instantmadness.com
@@ -4027,6 +4033,7 @@ presbanise.pw
 presetrabbits.com
 previousplayground.com
 previouspotato.com
+prf.hn
 prfwpclck.com
 primaryads.com
 primetime.net
@@ -5230,6 +5237,7 @@ static.leaddyno.com
 stats.apester.com
 stats.betradar.com
 stats.count.ly
+stats.lncld.net
 stats.unlimapps.com
 stats.wp.com
 stats.xtraffic.xyz

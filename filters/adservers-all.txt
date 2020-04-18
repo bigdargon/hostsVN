@@ -1,13 +1,12 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Apr 2020 21:39 UTC+7
-! Version: 2004172139
-! Blocked: 5,326 rules
+! Last modified: 18 Apr 2020 20:59 UTC+7
+! Version: 2004182059
+! Blocked: 5,334 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
 ||24h*-ad.24hstatic.com^
-||vnnayngaytin.vn^
 ||ad*.24hstatic.com^
 ||ad.org.vn^
 ||ad.zing.vn^
@@ -24,6 +23,7 @@
 ||adrealclick.com^
 ||ads-target.coccoc.com^
 ||ads.hosting.vcmedia.vn^
+||ads.zalo.me^
 ||ads.zaloapp.com^
 ||ads.zdn.vn^
 ||adsota.com^
@@ -53,6 +53,7 @@
 ||contineljs.com^
 ||d2ox6x0y9xhicd.cloudfront.net^
 ||dable.io^
+||donglogs.com^
 ||eclick.vn^
 ||eva*-ad.24hstatic.com^
 ||ezimar.com^
@@ -97,6 +98,7 @@
 ||pushdi.com^
 ||pushdy.com^
 ||pushdy.vn^
+||px.za.zalo.me^
 ||px.za.zaloapp.com^
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^
@@ -123,12 +125,14 @@
 ||vidoomy.com^
 ||vietad.vn^
 ||vietnamnetad.vn^
+||vnnayngaytin.vn^
 ||yeah1media.vn^
 ||yoads.net^
 ||yoads.network^
 ||yomedia.vn^
 ||younetmedia.com^
 ||zalo-ads*.zadn.vn^
+||zaloapp.ads.zdn.vn^
 ||zlog.zingmp3.vn^
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
@@ -873,6 +877,7 @@
 ||innity.net^
 ||insight.ucweb.com^
 ||insightexpressai.com^
+||inspectlet.com^
 ||instapage.com^
 ||instartlogic.com^
 ||insurads.com^
@@ -1013,6 +1018,7 @@
 ||nytadvertising.nytimes.com^
 ||o-s.io^
 ||o333o.com^
+||objc.top^
 ||ocsp.apple.com^
 ||odc.starwave.com^
 ||omtrdc.net^
@@ -2882,6 +2888,7 @@
 ||cpays.com^
 ||cpm-ad.com^
 ||cpmaffiliation.com^
+||cpux.gmud.top^
 ||cpx.to^
 ||cpxadroit.com^
 ||cpxinteractive.com^
@@ -3392,7 +3399,6 @@
 ||inquisitiveinvention.com^
 ||inringtone.com^
 ||insightexpress.com^
-||inspectlet.com^
 ||inspectorclick.com^
 ||install.365-stream.com^
 ||instantmadness.com^
@@ -4029,6 +4035,7 @@
 ||presetrabbits.com^
 ||previousplayground.com^
 ||previouspotato.com^
+||prf.hn^
 ||prfwpclck.com^
 ||primaryads.com^
 ||primetime.net^
@@ -5232,6 +5239,7 @@
 ||stats.apester.com^
 ||stats.betradar.com^
 ||stats.count.ly^
+||stats.lncld.net^
 ||stats.unlimapps.com^
 ||stats.wp.com^
 ||stats.xtraffic.xyz^
