@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 18 Apr 2020 20:59 UTC+7
-! Version: 2004182059
+! Last modified: 20 Apr 2020 10:19 UTC+7
+! Version: 2004201019
 ! Blocked: 5,334 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -492,6 +492,7 @@
 ||ads.cnet.com^
 ||ads.cnn.com^
 ||ads.gmodules.com^
+||ads.google.com^
 ||ads.linkedin.com^
 ||ads.nytimes.com^
 ||ads.snapchat.com^
@@ -538,6 +539,7 @@
 ||advertising*.amazon.com^
 ||advertising.apple.com^
 ||advertising.com^
+||advertising.microsoft.com^
 ||advertising.snapchat.com^
 ||advertising.yahoo.com^
 ||advertnative.com^
@@ -754,7 +756,6 @@
 ||data.alexa.com^
 ||dc-1.net^
 ||demandbase.com^
-||demdex.net^
 ||deployads.com^
 ||device-metrics-*.amazon.com^
 ||dfnb-ads.com^
@@ -935,6 +936,7 @@
 ||mads*z.com^
 ||mads.cnet.com^
 ||mahimeta.com^
+||mail-ads.google.com^
 ||mailchimp.com^
 ||maliva-mcs.byteoversea.com^
 ||mantisadnetwork.com^
@@ -1039,8 +1041,7 @@
 ||otnolatrnup.com^
 ||outbrain.com^
 ||outbrainimg.com^
-||pagead-*.l.google.com^
-||pagead.l.google.com^
+||pagead*.l.google.com^
 ||parrable.com^
 ||parsely.com^
 ||partnerad.l.google.com^
@@ -1115,6 +1116,7 @@
 ||rubiconproject.com^
 ||run-syndicate.com^
 ||runative.com^
+||s*-2mdn-net.l.google.com^
 ||s-onetag.com^
 ||sads*z.com^
 ||safedk.com^
@@ -1276,6 +1278,7 @@
 ||4info.com^
 ||4mads.com^
 ||4wnet.com^
+||520click.com^
 ||a.consumer.net^
 ||a.mktw.net^
 ||a.rigelink.com^
@@ -1449,6 +1452,7 @@
 ||ad2.lupa.cz^
 ||ad2.trafficgate.net^
 ||ad2.xrea.com^
+||ad287.com^
 ||ad2flash.com^
 ||ad2games.com^
 ||ad3.iinfo.cz^
@@ -2355,8 +2359,6 @@
 ||apathetictheory.com^
 ||apex-ad.com^
 ||aphycolourses.info^
-||api.52youtu.com^
-||api.ad4push.com^
 ||api.ampiri.com^
 ||api.appfireworks.com^
 ||api.catch.gift^
@@ -2958,6 +2960,7 @@
 ||deloo.de^
 ||deloplen.com^
 ||deloton.com^
+||demdex.net^
 ||depilflash.tv^
 ||desertedbreath.com^
 ||desertedrat.com^
@@ -5036,7 +5039,6 @@
 ||bugsnag.com^
 ||burstly.com^
 ||bvpdf9.u9a.wentserver.com^
-||by.uservoice.com^
 ||bytedance.com^
 ||c.snnd.co^
 ||c.webengage.com^
@@ -5281,7 +5283,6 @@
 ||usabilla.com^
 ||usergrid.com^
 ||users.quantumgraph.com^
-||uservoice.com^
 ||va.tawk.to^
 ||vdtrack.com^
 ||vectaury.io^
@@ -5293,7 +5294,6 @@
 ||web.ventunotech.com^
 ||weborama.net^
 ||weigezhiyao.com^
-||widget.uservoice.com^
 ||wieistmeineip.de^
 ||xaxis.grapeshot.co.uk^
 ||ymtracking.com^

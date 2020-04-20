@@ -4,6 +4,7 @@
 0.0.0.0 www.ocsp.apple.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 banners.itunes.apple.com
+#[iadsdk.apple.com]
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 cf.iadsdk.apple.com
@@ -13,12 +14,13 @@
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 ut.iadsdk.apple.com
 0.0.0.0 www.iadsdk.apple.com
+#[iad.apple.com]
 0.0.0.0 iad.apple.com
 0.0.0.0 blueprints.iad.apple.com
 0.0.0.0 overlord.iad.apple.com
 0.0.0.0 stg-cmws.iad.apple.com
 0.0.0.0 www.iad.apple.com
-#[google]
+#[doubleclick.net]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 ad.au.doubleclick.net
@@ -101,9 +103,11 @@
 0.0.0.0 www3.doubleclick.net
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 undefined.fls.doubleclick.net
+#[adservice.google.*]
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 adservices.google.com
+#[googlesyndication.com]
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 afs.googlesyndication.com
@@ -114,17 +118,26 @@
 0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead3.googlesyndication.com
+0.0.0.0 pagead46.googlesyndication.com
 0.0.0.0 tic.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpcnc.googlesyndication.com
 0.0.0.0 video-ad-stats.googlesyndication.com
+#[googletagmanager.com]
+0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 www-googletagmanager.l.google.com
+#[googletagservices.com]
 0.0.0.0 googletagservices.com
 0.0.0.0 www.googletagservices.com
-0.0.0.0 googleadservices.com
-0.0.0.0 www.googleadservices.com
+#[googleadservices.com]
+0.0.0.0 10.afs.googleadservices.com
+0.0.0.0 18.afs.googleadservices.com
+0.0.0.0 2.afs.googleadservices.com
 0.0.0.0 4.afs.googleadservices.com
 0.0.0.0 feedads.googleadservices.com
+0.0.0.0 googleadservices.com
+0.0.0.0 imageads.googleadservices.com
 0.0.0.0 m4.afs.googleadservices.com
 0.0.0.0 mimageads.googleadservices.com
 0.0.0.0 mimageads1.googleadservices.com
@@ -139,31 +152,55 @@
 0.0.0.0 mpartner.googleadservices.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
+0.0.0.0 partnerssl.googleadservices.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.partner.googleadservices.com
+#[google-analytics.com]
 0.0.0.0 analytics.google.com
+0.0.0.0 www.analytics.google.com
+0.0.0.0 click.google-analytics.com
 0.0.0.0 google-analytics.com
+0.0.0.0 sandbox.google-analytics.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 www.google-analytics.com
-0.0.0.0 ad.youtube.com
-0.0.0.0 ads.youtube.com
-0.0.0.0 pagead.l.google.com
+0.0.0.0 www-google-analytics.l.google.com
+#[google]
+0.0.0.0 ads.google.com
+0.0.0.0 mail-ads.google.com
+0.0.0.0 www.ads.google.com
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead-tpc.l.google.com
+0.0.0.0 pagead.l.google.com
 0.0.0.0 partnerad.l.google.com
-0.0.0.0 ssl-google-analytics.l.google.com
-0.0.0.0 www-google-analytics.l.google.com
-0.0.0.0 www-googletagmanager.l.google.com
+0.0.0.0 s0-2mdn-net.l.google.com
+0.0.0.0 static-2mdn-net.l.google.com
+0.0.0.0 ad.youtube.com
+0.0.0.0 ads.youtube.com
 0.0.0.0 ads.gmodules.com
-#[microsoft.com]
+#[telemetry.microsoft.com]
+0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 responses.df.telemetry.microsoft.com
+0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 sqm.df.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
-0.0.0.0 bingads.microsoft.com
+#[bingads.microsoft.com]
+0.0.0.0 ads.bingads.microsoft.com
 0.0.0.0 advertise.bingads.microsoft.com
-0.0.0.0 browser.pipe.aria.microsoft.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 api.bingads.microsoft.com
+0.0.0.0 bingads.microsoft.com
+0.0.0.0 m.bingads.microsoft.com
+#[advertising.microsoft.com]
+0.0.0.0 advertising.microsoft.com
+0.0.0.0 community.advertising.microsoft.com
+0.0.0.0 fp.advertising.microsoft.com
+0.0.0.0 sts.advertising.microsoft.com
+0.0.0.0 sts.si.advertising.microsoft.com
+#[microsoft]
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 c.microsoft.com
 #[atdmt.com]
@@ -4764,96 +4801,6 @@
 0.0.0.0 static.a-ads.com
 0.0.0.0 www.a-ads.com
 0.0.0.0 wwww.a-ads.com
-#[demdex]
-0.0.0.0 adobe.demdex.net
-0.0.0.0 aexp.demdex.net
-0.0.0.0 bestbuy.demdex.net
-0.0.0.0 bet.demdex.net
-0.0.0.0 bostonglobe.demdex.net
-0.0.0.0 cam.demdex.net
-0.0.0.0 cbsi.demdex.net
-0.0.0.0 cdn.demdex.net
-0.0.0.0 comcast.demdex.net
-0.0.0.0 condenast.demdex.net
-0.0.0.0 crackle.demdex.net
-0.0.0.0 crosspixel.demdex.net
-0.0.0.0 charter.demdex.net
-0.0.0.0 dailymotion.demdex.net
-0.0.0.0 de.demdex.net
-0.0.0.0 demdex.net
-0.0.0.0 dm.demdex.net
-0.0.0.0 dpm.demdex.net
-0.0.0.0 ecs.demdex.net
-0.0.0.0 error.demdex.net
-0.0.0.0 everydayhealth.demdex.net
-0.0.0.0 fairfax.demdex.net
-0.0.0.0 fairfaxau.demdex.net
-0.0.0.0 fandangollc.demdex.net
-0.0.0.0 fast.adobe.demdex.net
-0.0.0.0 fast.aexp.demdex.net
-0.0.0.0 fast.bet.demdex.net
-0.0.0.0 fast.bostonglobe.demdex.net
-0.0.0.0 fast.cbsi.demdex.net
-0.0.0.0 fast.condenast.demdex.net
-0.0.0.0 fast.de.demdex.net
-0.0.0.0 fast.dm.demdex.net
-0.0.0.0 fast.ecs.demdex.net
-0.0.0.0 fast.everydayhealth.demdex.net
-0.0.0.0 fast.fairfax.demdex.net
-0.0.0.0 fast.fairfaxau.demdex.net
-0.0.0.0 fast.fedex.demdex.net
-0.0.0.0 fast.ford.demdex.net
-0.0.0.0 fast.gannett.demdex.net
-0.0.0.0 fast.gm.demdex.net
-0.0.0.0 fast.iyogi.demdex.net
-0.0.0.0 fast.marthastewart.demdex.net
-0.0.0.0 fast.mtvn.demdex.net
-0.0.0.0 fast.nbcots.demdex.net
-0.0.0.0 fast.nbcu.demdex.net
-0.0.0.0 fast.nfl.demdex.net
-0.0.0.0 fast.nrjgroup.demdex.net
-0.0.0.0 fast.postmedia.demdex.net
-0.0.0.0 fast.philly.demdex.net
-0.0.0.0 fast.sears.demdex.net
-0.0.0.0 fast.swa.demdex.net
-0.0.0.0 fast.td.demdex.net
-0.0.0.0 fast.telstra.demdex.net
-0.0.0.0 fast.timeinc.demdex.net
-0.0.0.0 fast.torontostar.demdex.net
-0.0.0.0 fast.twc.demdex.net
-0.0.0.0 fedex.demdex.net
-0.0.0.0 ford.demdex.net
-0.0.0.0 foxnet.demdex.net
-0.0.0.0 foxnews.demdex.net
-0.0.0.0 freecharge.demdex.net
-0.0.0.0 gannett.demdex.net
-0.0.0.0 gm.demdex.net
-0.0.0.0 iyogi.demdex.net
-0.0.0.0 marthastewart.demdex.net
-0.0.0.0 mscom.demdex.net
-0.0.0.0 mtvn.demdex.net
-0.0.0.0 nbcots.demdex.net
-0.0.0.0 nbcu.demdex.net
-0.0.0.0 nfl.demdex.net
-0.0.0.0 pepsico.demdex.net
-0.0.0.0 postmedia.demdex.net
-0.0.0.0 philly.demdex.net
-0.0.0.0 scripps.demdex.net
-0.0.0.0 schwab.demdex.net
-0.0.0.0 sears.demdex.net
-0.0.0.0 swa.demdex.net
-0.0.0.0 swisscom.demdex.net
-0.0.0.0 td.demdex.net
-0.0.0.0 tdameritrade.demdex.net
-0.0.0.0 timeinc.demdex.net
-0.0.0.0 torontostar.demdex.net
-0.0.0.0 toyota.demdex.net
-0.0.0.0 twc.demdex.net
-0.0.0.0 ubisoftinternational.demdex.net
-0.0.0.0 vanguard.demdex.net
-0.0.0.0 verizon.demdex.net
-0.0.0.0 vivaki.demdex.net
-0.0.0.0 www.demdex.net
 #[tapjoy]
 0.0.0.0 advertisers.tapjoy.com
 0.0.0.0 api.tapjoy.com
@@ -4898,13 +4845,19 @@
 0.0.0.0 affiliate.2mdn.net
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 m.2mdn.net
-0.0.0.0 m.de.2mdn.net
-0.0.0.0 m.fr.2mdn.net
-0.0.0.0 m.uk.2mdn.net
-0.0.0.0 m1.emea.2mdn.net
+0.0.0.0 m1.2mdn.net
+0.0.0.0 m2.2mdn.net
+0.0.0.0 m3.2mdn.net
+0.0.0.0 m4.2mdn.net
+0.0.0.0 m5.2mdn.net
+0.0.0.0 m6.2mdn.net
+0.0.0.0 m7.2mdn.net
+0.0.0.0 m8.2mdn.net
+0.0.0.0 m9.2mdn.net
 0.0.0.0 rmcdn.2mdn.net
 0.0.0.0 rmcdn.f.2mdn.net
 0.0.0.0 s0.2mdn.net
+0.0.0.0 s0qa.2mdn.net
 0.0.0.0 s1.2mdn.net
 0.0.0.0 so.2mdn.net
 0.0.0.0 static.2mdn.net
