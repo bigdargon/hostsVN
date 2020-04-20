@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Apr 2020 10:19 UTC+7
-! Version: 2004201019
-! Blocked: 5,334 rules
+! Last modified: 20 Apr 2020 16:38 UTC+7
+! Version: 2004201638
+! Blocked: 5,336 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -171,6 +171,7 @@
 ||ads.phunuonline.com.vn^
 ||ads.tiki.vn^
 ||ads.tinmoi.vn^
+||ads.vietbao.vn^
 ||ads.vkool.info^
 ||ads.xemphimso.com^
 ||adserver.lag.vn^
@@ -302,6 +303,7 @@
 ||tracking.appwifi.com^
 ||tracking.meete.co^
 ||tracking.vht.com.vn^
+||tracking.vietbao.vn^
 ||tracking.vtcnew.com.vn^
 ||trackingapi.foody.vn^
 ||trackity.tiki.vn^

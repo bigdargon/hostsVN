@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 20 Apr 2020 10:19 UTC+7
-# Version: 2004201019
-# Blocked: 18,910 domains
+# Last modified: 20 Apr 2020 16:38 UTC+7
+# Version: 2004201638
+# Blocked: 18,916 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14465,6 +14465,10 @@
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-media-td.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
+0.0.0.0 adtima-video-te-vnso-pt-15.zadn.vn
+0.0.0.0 adtima-video-te-vnso-zn-30.zadn.vn
+0.0.0.0 adtima-video-te-vnso-zn-31.zadn.vn
+0.0.0.0 adtima-video-te-vnso-zn-4.zadn.vn
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 zalo-ads.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
@@ -15283,6 +15287,7 @@
 0.0.0.0 ads.phunuonline.com.vn
 0.0.0.0 ads.tiki.vn
 0.0.0.0 ads.tinmoi.vn
+0.0.0.0 ads.vietbao.vn
 0.0.0.0 ads.vkool.info
 0.0.0.0 ads.xemphimso.com
 0.0.0.0 ads1.careerbuilder.vn
@@ -15432,6 +15437,7 @@
 0.0.0.0 tracking.appwifi.com
 0.0.0.0 tracking.meete.co
 0.0.0.0 tracking.vht.com.vn
+0.0.0.0 tracking.vietbao.vn
 0.0.0.0 tracking.vtcnew.com.vn
 0.0.0.0 trackingapi.foody.vn
 0.0.0.0 trackity.tiki.vn
