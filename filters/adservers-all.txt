@@ -1,11 +1,12 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Apr 2020 16:38 UTC+7
-! Version: 2004201638
-! Blocked: 5,336 rules
+! Last modified: 22 Apr 2020 15:19 UTC+7
+! Version: 2004221519
+! Blocked: 5,340 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
+||123c.vn^
 ||24h*-ad.24hstatic.com^
 ||ad*.24hstatic.com^
 ||ad.org.vn^
@@ -93,6 +94,7 @@
 ||ohchat.net^
 ||phanquang.vn^
 ||philacct.com^
+||photo-ads.zaloapp.com^
 ||pinetech.vn^
 ||polyad.net^
 ||pushdi.com^
@@ -137,7 +139,6 @@
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
-||123c.vn^
 ||ad-admin.vnay.vn^
 ||ad-img.icheck.com.vn^
 ||ad.24h.com.vn^
@@ -169,6 +170,7 @@
 ||ads.itsgroup.vn^
 ||ads.khoahocdoisong.vn^
 ||ads.phunuonline.com.vn^
+||ads.thesaigontimes.vn^
 ||ads.tiki.vn^
 ||ads.tinmoi.vn^
 ||ads.vietbao.vn^
@@ -195,6 +197,7 @@
 ||banhtv.org^
 ||banner.5giay.vn^
 ||bgadx.com^
+||cdn-ads.thesaigontimes.vn^
 ||chiasephim.xyz^
 ||clevernet.vn^
 ||click.xdeal.vn^
@@ -998,6 +1001,7 @@
 ||mookie1.com^
 ||mopub.com^
 ||mparticle.com^
+||mppmnetwork.com^
 ||mxpnl.com^
 ||mydas.mobi^
 ||myfastcdn.com^
@@ -1267,6 +1271,7 @@
 ||yieldlove.com^
 ||yllix.com^
 ||youbora.com^
+||youborafds01.com^
 ||zcoup.com^
 ||zergnet.com^
 ||zucks.net^
@@ -3446,7 +3451,6 @@
 ||jokedollars.com^
 ||joneself.com^
 ||js.hsforms.net^
-||js.spotx.tv^
 ||jugjetwok.com^
 ||julysystems.com^
 ||jumptap.com^

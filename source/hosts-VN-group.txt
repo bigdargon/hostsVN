@@ -406,22 +406,24 @@
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 log.api.zaloapp.com
+0.0.0.0 photo-ads.zaloapp.com
 0.0.0.0 px.za.zaloapp.com
 0.0.0.0 shop.zaloapp.com
 0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 stats.zaloapp.com
 0.0.0.0 zminer.zaloapp.com
 #[zadn.vn]
-0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-media-td.zadn.vn
+0.0.0.0 adtima-media.zadn.vn
+0.0.0.0 adtima-static-td.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
-0.0.0.0 adtima-video-te-vnso-pt-15.zadn.vn
-0.0.0.0 adtima-video-te-vnso-zn-30.zadn.vn
-0.0.0.0 adtima-video-te-vnso-zn-31.zadn.vn
-0.0.0.0 adtima-video-te-vnso-zn-4.zadn.vn
 0.0.0.0 log.sdk.zadn.vn
-0.0.0.0 zalo-ads.zadn.vn
+0.0.0.0 zalo-ads-240-td.zadn.vn
+0.0.0.0 zalo-ads-240.zadn.vn
+0.0.0.0 zalo-ads-480-td.zadn.vn
+0.0.0.0 zalo-ads-480.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
+0.0.0.0 zalo-ads.zadn.vn
 #[zdn.vn]
 0.0.0.0 ads.zdn.vn
 0.0.0.0 org.zaloapp.ads.zdn.vn
@@ -1204,3 +1206,19 @@
 0.0.0.0 rec.donglogs.com
 0.0.0.0 scripts.donglogs.com
 0.0.0.0 www.donglogs.com
+#[123c.vn]
+0.0.0.0 123c.vn
+0.0.0.0 b.123c.vn
+0.0.0.0 b.staging.123c.vn
+0.0.0.0 d.123c.vn
+0.0.0.0 dev.d.123c.vn
+0.0.0.0 failover.123c.vn
+0.0.0.0 hit.123c.vn
+0.0.0.0 l.123c.vn
+0.0.0.0 qos-talk.123c.vn
+0.0.0.0 qos-zdn.123c.vn
+0.0.0.0 st.123c.vn
+0.0.0.0 stats.123c.vn
+0.0.0.0 t.123c.vn
+0.0.0.0 trk.123c.vn
+0.0.0.0 trk.staging.123c.vn
