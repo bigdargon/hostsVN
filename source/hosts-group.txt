@@ -165,6 +165,11 @@
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www-google-analytics.l.google.com
+#[googleapis.com]
+0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
+0.0.0.0 clientmetrics-pa.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
 #[google]
 0.0.0.0 ads.google.com
 0.0.0.0 mail-ads.google.com
@@ -4066,41 +4071,6 @@
 0.0.0.0 www.tynt.com
 0.0.0.0 www1.tynt.com
 0.0.0.0 wz.tynt.com
-#[appier]
-0.0.0.0 a.c.appier.net
-0.0.0.0 ad.appier.net
-0.0.0.0 ad2.apx.appier.net
-0.0.0.0 anylist.c.appier.net
-0.0.0.0 apn.c.appier.net
-0.0.0.0 apnid.c.appier.net
-0.0.0.0 apnjp.c.appier.net
-0.0.0.0 appier.net
-0.0.0.0 arm.c.appier.net
-0.0.0.0 c.c.appier.net
-0.0.0.0 clk-in6.c.appier.net
-0.0.0.0 clk-sg7.c.appier.net
-0.0.0.0 clk-sg8.c.appier.net
-0.0.0.0 d.c.appier.net
-0.0.0.0 dync.c.appier.net
-0.0.0.0 dync2.c.appier.net
-0.0.0.0 ey.c.appier.net
-0.0.0.0 feedfetch.c.appier.net
-0.0.0.0 frl.c.appier.net
-0.0.0.0 g.c.appier.net
-0.0.0.0 gocm.c.appier.net
-0.0.0.0 in.c.appier.net
-0.0.0.0 jp.c.appier.net
-0.0.0.0 jscdn.appier.net
-0.0.0.0 lt.c.appier.net
-0.0.0.0 rcp.c.appier.net
-0.0.0.0 s.c.appier.net
-0.0.0.0 sg.c.appier.net
-0.0.0.0 ss.c.appier.net
-0.0.0.0 t0.c.appier.net
-0.0.0.0 tw.c.appier.net
-0.0.0.0 vst.c.appier.net
-0.0.0.0 web0.track.appier.net
-0.0.0.0 xx.c.appier.net
 #[mxpnl]
 0.0.0.0 mxpnl.com
 0.0.0.0 cdn.mxpnl.com
@@ -5223,11 +5193,12 @@
 #[jpush]
 0.0.0.0 im.jpush.cn
 0.0.0.0 im64.jpush.cn
-0.0.0.0 jpush.io
 0.0.0.0 s.jpush.cn
-0.0.0.0 sis.jpush.io
 0.0.0.0 stats.jpush.cn
+0.0.0.0 user.jpush.cn
 0.0.0.0 www.jpush.cn
+0.0.0.0 jpush.io
+0.0.0.0 sis.jpush.io
 0.0.0.0 www.jpush.io
 #[imrworldwide]
 0.0.0.0 abc.imrworldwide.com
@@ -14095,3 +14066,42 @@
 0.0.0.0 ssp.ynxs.io
 0.0.0.0 txn.ynxs.io
 0.0.0.0 ynxs.io
+#[rfrl.pw]
+0.0.0.0 a.rfrl.pw
+0.0.0.0 g.rfrl.pw
+0.0.0.0 rfrl.pw
+#[aper.pw]
+0.0.0.0 aper.pw
+0.0.0.0 c.aper.pw
+0.0.0.0 xx.aper.pw
+#[taobao.com]
+0.0.0.0 acs.m.taobao.com
+0.0.0.0 adash.m.taobao.com
+0.0.0.0 adashbc.m.taobao.com
+0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 adashx.m.taobao.com
+0.0.0.0 adashx.ut.taobao.com
+0.0.0.0 adashx4ae.ut.taobao.com
+0.0.0.0 adashxgc.ut.taobao.com
+0.0.0.0 c-adash.m.taobao.com
+0.0.0.0 count.taobao.com
+0.0.0.0 h-adashx.ut.taobao.com
+0.0.0.0 h-adashx4ae.ut.taobao.com
+0.0.0.0 ip.taobao.com
+0.0.0.0 m-adash.m.taobao.com
+0.0.0.0 pcookie.taobao.com
+0.0.0.0 s.click.taobao.com
+#[tanx.com]
+0.0.0.0 cdn.tanx.com
+0.0.0.0 click.tanx.com
+0.0.0.0 p.tanx.com
+0.0.0.0 pcookie.tanx.com
+0.0.0.0 phs.tanx.com
+0.0.0.0 rdstat.tanx.com
+0.0.0.0 tanx.com
+0.0.0.0 toruk.tanx.com
+#[sdkclickurl.com]
+0.0.0.0 c.sdkclickurl.com
+0.0.0.0 c3.sdkclickurl.com
+0.0.0.0 ccloud.sdkclickurl.com
+0.0.0.0 sdkclickurl.com
