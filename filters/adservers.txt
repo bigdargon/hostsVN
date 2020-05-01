@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Apr 2020 15:19 UTC+7
-! Version: 2004221519
-! Blocked: 399 rules
+! Last modified: 01 May 2020 17:24 UTC+7
+! Version: 2005011724
+! Blocked: 412 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -72,8 +72,7 @@
 ||log*.zing.vn^
 ||log.api.zaloapp.com^
 ||log.sdk.zadn.vn^
-||log.zingmp3.vn^
-||log.zingnews.vn^
+||log.zing*.vn^
 ||mangoads.vn^
 ||masoffer.net^
 ||mclick.mobi^
@@ -84,6 +83,7 @@
 ||mepuzz.com^
 ||metrics.coccoc.com^
 ||mobilead.vn^
+||nanda.vn^
 ||novanet.vn^
 ||novaon.asia^
 ||novaon.vn^
@@ -155,6 +155,7 @@
 ||adchoice.com.vn^
 ||adclient.vietnamnetjsc.vn^
 ||adfox.vn^
+||adjusts.info^
 ||admedia.com.vn^
 ||admin.sothuchi.vn^
 ||adnetwork.5imedia.vn^
@@ -193,6 +194,7 @@
 ||an.motphim.net^
 ||an.xemvtv.net^
 ||api.nas.nct.vn^
+||apia.headlines.pw^
 ||apinas.nct.vn^
 ||banhtv.org^
 ||banner.5giay.vn^
@@ -214,7 +216,9 @@
 ||demopage.me^
 ||dt.vnecdn.com^
 ||events.vungtv.com^
+||financial-agent.headlines.pw^
 ||fptad.com^
+||genmonet.com^
 ||ghimc.vn^
 ||go.vnecdn.com^
 ||landingpagelagi.vn^
@@ -238,8 +242,11 @@
 ||sbbanner.com^
 ||serving-ad.tv24.vn^
 ||shop.vnay.vn^
+||static.mvot.vn^
 ||stc-nas.nixcdn.com^
 ||stc.nas.nixcdn.com^
+||sv-api-lottery.headlines.pw^
+||sv-static-lottery.headlines.pw^
 ||toppage.vn^
 ||trenddigital.vn^
 ||truoctran.com^
@@ -249,6 +256,7 @@
 ||vietbuzzad.com^
 ||vietdorje.com^
 ||vinaads.vn^
+||vnd247.vn^
 ||alexajstrack.com^
 ||analytics.bkav.com^
 ||analytics.easyvideo.vn^
@@ -257,10 +265,14 @@
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
 ||analytics.vnreview.vn^
+||apl.headlines.pw^
+||cnnd.vn^
 ||deqik.com^
 ||elogs.vnexpress.net^
 ||event.headlines.pw^
 ||event.vntoday.news^
+||follow.vnay.vn^
+||invite.baomoi.com^
 ||la.vietid.net^
 ||lg.lotus.vn^
 ||log.anninhthudo.vn^
@@ -282,18 +294,19 @@
 ||logging.galaxypub.vn^
 ||logging.phunuonline.com.vn^
 ||logsbin.dantri.com.vn^
+||lp.baomoi.com^
 ||nstat.headlines.pw^
 ||report.vnay.vn^
 ||s.baomoi.xdn.vn^
 ||s.kenh14.vn^
 ||s.soha.vn^
 ||s.tuoitre.vn^
-||sharefb.cnnd.vn^
 ||stat.headlines.pw^
 ||staticad.thethao247.vn^
 ||stats.bizweb.vn^
 ||stats.dongphim.net^
 ||stats.vietnammoi.vn^
+||sv-api-event.headlines.pw^
 ||thongke.24h.com.vn^
 ||thongke.baotintuc.vn^
 ||track-srv.vietnamnet.vn^

@@ -11408,10 +11408,6 @@
 0.0.0.0 mon-thu7.life
 0.0.0.0 mon-thu8.life
 0.0.0.0 mon-thu9.life
-#[revive-adserver.com]
-0.0.0.0 revive-adserver.com
-0.0.0.0 sync.revive-adserver.com
-0.0.0.0 www.revive-adserver.com
 #[djaxadserver.com]
 0.0.0.0 adexchange.djaxadserver.com
 0.0.0.0 adst.djaxadserver.com
@@ -14052,7 +14048,6 @@
 #[revive-adserver.com]
 0.0.0.0 cdn.revive-adserver.com
 0.0.0.0 delivery.revive-adserver.com
-0.0.0.0 download.revive-adserver.com
 0.0.0.0 revive-adserver.com
 0.0.0.0 sync.revive-adserver.com
 0.0.0.0 www.revive-adserver.com
