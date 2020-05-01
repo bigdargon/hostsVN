@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 01 May 2020 17:24 UTC+7
-! Version: 2005011724
-! Blocked: 5,501 domains
+! Last modified: 01 May 2020 22:25 UTC+7
+! Version: 2005012225
+! Blocked: 5,521 domains
 ! The section containing the list contains all ad networks and tracking
 !
 123c.vn
@@ -126,6 +126,7 @@ vidoomy.com
 vietad.vn
 vietnamnetad.vn
 vnnayngaytin.vn
+wg.zaloapp.com
 yeah1media.vn
 yoads.net
 yoads.network
@@ -435,9 +436,11 @@ aatkit.com
 aax-*-iad.amazon.com
 aaxads.com
 accengage.com
+acs.m.taobao.com
 acuityplatform.com
 ad*.qq.com
 ad-brix.com
+ad-creatives-public.commondatastorage.googleapis.com
 ad-stir.com
 ad.*.starwave.com
 ad.daum.net
@@ -450,6 +453,7 @@ ad4game.com
 ad4screen.com
 adadvisor.net
 adap.tv
+adash*.taobao.com
 adblade.com
 adblox.net
 adbrix.io
@@ -605,6 +609,7 @@ analytics.spotify.com
 analytics.yahoo.com
 aniview.com
 answers.com
+aper.pw
 api.ads.*.go.com
 api.mobojoy.baidu.com
 app-adforce.jp
@@ -616,7 +621,6 @@ appboy.com
 appcloudbox.net
 appdynamics.com
 appearch.info
-appier.net
 applifier.com
 applifier.info
 applog.snssdk.com
@@ -717,6 +721,7 @@ clck.yandex.com
 clcktrax.com
 clean.gg
 clevertap.com
+click.taobao.com
 click.union.ucweb.com
 clickagy.com
 clickhubs.com
@@ -746,6 +751,7 @@ content-ad.net
 content.ad
 contextweb.com
 conversantmedia.com
+count.taobao.com
 countess.twitch.tv
 cpmstar.com
 cpro.baidu.com
@@ -821,6 +827,7 @@ fclick-adnow.com
 feedad.com
 fidelity-media.com
 filament-stats.herokuapp.com
+firebaselogging*.googleapis.com
 firstimpression.io
 flashtalking.com
 flurry.com
@@ -903,6 +910,7 @@ insurads.com
 invitemedia.com
 ioam.de
 ionicframework.com
+ip.taobao.com
 iperceptions.com
 islandmob.com
 ivstracker.net
@@ -1064,6 +1072,7 @@ parrable.com
 parsely.com
 partnerad.l.google.com
 partnershipsprogram.com
+pcookie.taobao.com
 perimeterx.net
 persona.ly
 petametrics.com
@@ -1124,6 +1133,7 @@ revenuehits.com
 revive-adserver.com
 revrtb.com
 rfihub.com
+rfrl.pw
 rmp.rakuten.com
 rmtag.com
 rosenberg.appmetrica.yandex.net
@@ -1143,6 +1153,7 @@ samba.tv
 sascdn.com
 scanscout.com
 scorecardresearch.com
+sdkclickurl.com
 segment.com
 segment.io
 sendpulse.com
@@ -1201,6 +1212,7 @@ swrve.com
 sync.mobojoy.baidu.com
 syndication.twitter.com
 taboola.com
+tanx.com
 tapad.com
 tapjoy.com
 taplytics.com
@@ -1299,6 +1311,7 @@ zucks.net
 4mads.com
 4wnet.com
 520click.com
+5advertise.com
 a.consumer.net
 a.mktw.net
 a.rigelink.com
@@ -1362,7 +1375,6 @@ ad.about.com
 ad.aboutit.de
 ad.aboutwebservices.com
 ad.abum.com
-ad.admitad.com
 ad.afy11.net
 ad.allstar.cz
 ad.altervista.org
@@ -1622,6 +1634,7 @@ admeta.com
 admex.com
 adminder.com
 adminshop.com
+admitad.com
 admixer.net
 admized.com
 admob.comadwhirl.com
@@ -2435,6 +2448,7 @@ appfireworks.com
 appflood.com
 appia.com
 appier.com
+appier.net
 appolicious.com
 apprebates.com
 appredeem.com
@@ -2827,6 +2841,7 @@ claria.com
 clarium.global.ssl.fastly.net
 clashmobile.com
 class-act-clicks.com
+clearadnetwork.com
 clearbid.uberads.com
 clearcomb.com
 clicck.net
@@ -3151,6 +3166,7 @@ ellads.com
 ellcurvth.com
 elthamely.com
 emarketer.com
+embed.dugout.com
 emediate.dk
 emediate.eu
 emerse.com
@@ -5000,6 +5016,7 @@ waryfog.com
 watchingthat.com
 wateryvan.com
 waust.at
+waxpigbaa.com
 wda.com
 wdads.sx.atl.publicus.com
 wearemiq.com
@@ -5149,7 +5166,6 @@ a.axmtrack.com
 a.idio.co
 a.klaviyo.com
 a3cloud.net
-acs.m.taobao.com
 adentify.com
 adj.st
 adtrack.king.com
@@ -5441,11 +5457,14 @@ tedgenet.com
 telegraph.grapeshot.co.uk
 theirsvendor.com
 thoosje.com
+track.56txs4.com
 track.datetrck.com
+track.mobgc.com
 track.omg543.com
 track.publeadmedia.com
 track.sohu.com
 track.tenjin.io
+track.upcpi.com
 trackcmp.net
 tracker.mtrtb.com
 tracker.vgame.us
@@ -5480,6 +5499,7 @@ ymtracking.com
 youthfire.com
 zarget.com
 abutparker.com
+agiegoeig.com
 applelink.store
 comptrffc.com
 cpa-tc.com

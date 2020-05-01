@@ -2,15 +2,6 @@
 !
 ! --- Optimized ---
 !
-rfrl.pw
-adash*.taobao.com
-count.taobao.com
-click.taobao.com
-pcookie.taobao.com
-acs.m.taobao.com
-sdkclickurl.com
-tanx.com
-ip.taobao.com
 152media.com
 1rx.io
 1ts06.top
@@ -30,9 +21,11 @@ aatkit.com
 aax-*-iad.amazon.com
 aaxads.com
 accengage.com
+acs.m.taobao.com
 acuityplatform.com
 ad*.qq.com
 ad-brix.com
+ad-creatives-public.commondatastorage.googleapis.com
 ad-stir.com
 ad.*.starwave.com
 ad.daum.net
@@ -45,6 +38,7 @@ ad4game.com
 ad4screen.com
 adadvisor.net
 adap.tv
+adash*.taobao.com
 adblade.com
 adblox.net
 adbrix.io
@@ -200,6 +194,7 @@ analytics.spotify.com
 analytics.yahoo.com
 aniview.com
 answers.com
+aper.pw
 api.ads.*.go.com
 api.mobojoy.baidu.com
 app-adforce.jp
@@ -311,6 +306,7 @@ clck.yandex.com
 clcktrax.com
 clean.gg
 clevertap.com
+click.taobao.com
 click.union.ucweb.com
 clickagy.com
 clickhubs.com
@@ -319,8 +315,6 @@ clicktale.net
 client-event-reporter.twitch.tv
 client_monitor.isnssdk.com
 clientmetrics-pa.googleapis.com
-ad-creatives-public.commondatastorage.googleapis.com
-firebaselogging*.googleapis.com
 clientmonitor.isnssdk.com
 clksite.com
 clog.go.com
@@ -342,6 +336,7 @@ content-ad.net
 content.ad
 contextweb.com
 conversantmedia.com
+count.taobao.com
 countess.twitch.tv
 cpmstar.com
 cpro.baidu.com
@@ -417,6 +412,7 @@ fclick-adnow.com
 feedad.com
 fidelity-media.com
 filament-stats.herokuapp.com
+firebaselogging*.googleapis.com
 firstimpression.io
 flashtalking.com
 flurry.com
@@ -499,6 +495,7 @@ insurads.com
 invitemedia.com
 ioam.de
 ionicframework.com
+ip.taobao.com
 iperceptions.com
 islandmob.com
 ivstracker.net
@@ -660,6 +657,7 @@ parrable.com
 parsely.com
 partnerad.l.google.com
 partnershipsprogram.com
+pcookie.taobao.com
 perimeterx.net
 persona.ly
 petametrics.com
@@ -720,6 +718,7 @@ revenuehits.com
 revive-adserver.com
 revrtb.com
 rfihub.com
+rfrl.pw
 rmp.rakuten.com
 rmtag.com
 rosenberg.appmetrica.yandex.net
@@ -739,6 +738,7 @@ samba.tv
 sascdn.com
 scanscout.com
 scorecardresearch.com
+sdkclickurl.com
 segment.com
 segment.io
 sendpulse.com
@@ -797,6 +797,7 @@ swrve.com
 sync.mobojoy.baidu.com
 syndication.twitter.com
 taboola.com
+tanx.com
 tapad.com
 tapjoy.com
 taplytics.com
@@ -883,15 +884,9 @@ youborafds01.com
 zcoup.com
 zergnet.com
 zucks.net
-aper.pw
 !
 ! --- Block other adsVN ---
 !
-embed.dugout.com
-clearadnetwork.com
-waxpigbaa.com
-5advertise.com
-appier.net
 1-1ads.com
 1phads.com
 207.net
@@ -904,6 +899,7 @@ appier.net
 4mads.com
 4wnet.com
 520click.com
+5advertise.com
 a.consumer.net
 a.mktw.net
 a.rigelink.com
@@ -967,7 +963,6 @@ ad.about.com
 ad.aboutit.de
 ad.aboutwebservices.com
 ad.abum.com
-admitad.com
 ad.afy11.net
 ad.allstar.cz
 ad.altervista.org
@@ -1227,6 +1222,7 @@ admeta.com
 admex.com
 adminder.com
 adminshop.com
+admitad.com
 admixer.net
 admized.com
 admob.comadwhirl.com
@@ -2040,6 +2036,7 @@ appfireworks.com
 appflood.com
 appia.com
 appier.com
+appier.net
 appolicious.com
 apprebates.com
 appredeem.com
@@ -2432,6 +2429,7 @@ claria.com
 clarium.global.ssl.fastly.net
 clashmobile.com
 class-act-clicks.com
+clearadnetwork.com
 clearbid.uberads.com
 clearcomb.com
 clicck.net
@@ -2756,6 +2754,7 @@ ellads.com
 ellcurvth.com
 elthamely.com
 emarketer.com
+embed.dugout.com
 emediate.dk
 emediate.eu
 emerse.com
@@ -4605,6 +4604,7 @@ waryfog.com
 watchingthat.com
 wateryvan.com
 waust.at
+waxpigbaa.com
 wda.com
 wdads.sx.atl.publicus.com
 wearemiq.com
@@ -5048,11 +5048,14 @@ tedgenet.com
 telegraph.grapeshot.co.uk
 theirsvendor.com
 thoosje.com
+track.56txs4.com
 track.datetrck.com
+track.mobgc.com
 track.omg543.com
 track.publeadmedia.com
 track.sohu.com
 track.tenjin.io
+track.upcpi.com
 trackcmp.net
 tracker.mtrtb.com
 tracker.vgame.us
@@ -5086,9 +5089,6 @@ xaxis.grapeshot.co.uk
 ymtracking.com
 youthfire.com
 zarget.com
-track.56txs4.com
-track.upcpi.com
-track.mobgc.com
 !
 ! --- Block other scamVN ---
 !

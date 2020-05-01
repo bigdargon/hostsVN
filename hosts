@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 May 2020 17:24 UTC+7
-# Version: 2005011724
-# Blocked: 19,105 domains
+# Last modified: 01 May 2020 22:25 UTC+7
+# Version: 2005012225
+# Blocked: 19,121 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -177,6 +177,11 @@
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www-google-analytics.l.google.com
+#[googleapis.com]
+0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
+0.0.0.0 clientmetrics-pa.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
 #[google]
 0.0.0.0 ads.google.com
 0.0.0.0 mail-ads.google.com
@@ -4078,41 +4083,6 @@
 0.0.0.0 www.tynt.com
 0.0.0.0 www1.tynt.com
 0.0.0.0 wz.tynt.com
-#[appier]
-0.0.0.0 a.c.appier.net
-0.0.0.0 ad.appier.net
-0.0.0.0 ad2.apx.appier.net
-0.0.0.0 anylist.c.appier.net
-0.0.0.0 apn.c.appier.net
-0.0.0.0 apnid.c.appier.net
-0.0.0.0 apnjp.c.appier.net
-0.0.0.0 appier.net
-0.0.0.0 arm.c.appier.net
-0.0.0.0 c.c.appier.net
-0.0.0.0 clk-in6.c.appier.net
-0.0.0.0 clk-sg7.c.appier.net
-0.0.0.0 clk-sg8.c.appier.net
-0.0.0.0 d.c.appier.net
-0.0.0.0 dync.c.appier.net
-0.0.0.0 dync2.c.appier.net
-0.0.0.0 ey.c.appier.net
-0.0.0.0 feedfetch.c.appier.net
-0.0.0.0 frl.c.appier.net
-0.0.0.0 g.c.appier.net
-0.0.0.0 gocm.c.appier.net
-0.0.0.0 in.c.appier.net
-0.0.0.0 jp.c.appier.net
-0.0.0.0 jscdn.appier.net
-0.0.0.0 lt.c.appier.net
-0.0.0.0 rcp.c.appier.net
-0.0.0.0 s.c.appier.net
-0.0.0.0 sg.c.appier.net
-0.0.0.0 ss.c.appier.net
-0.0.0.0 t0.c.appier.net
-0.0.0.0 tw.c.appier.net
-0.0.0.0 vst.c.appier.net
-0.0.0.0 web0.track.appier.net
-0.0.0.0 xx.c.appier.net
 #[mxpnl]
 0.0.0.0 mxpnl.com
 0.0.0.0 cdn.mxpnl.com
@@ -5235,11 +5205,12 @@
 #[jpush]
 0.0.0.0 im.jpush.cn
 0.0.0.0 im64.jpush.cn
-0.0.0.0 jpush.io
 0.0.0.0 s.jpush.cn
-0.0.0.0 sis.jpush.io
 0.0.0.0 stats.jpush.cn
+0.0.0.0 user.jpush.cn
 0.0.0.0 www.jpush.cn
+0.0.0.0 jpush.io
+0.0.0.0 sis.jpush.io
 0.0.0.0 www.jpush.io
 #[imrworldwide]
 0.0.0.0 abc.imrworldwide.com
@@ -14107,6 +14078,45 @@
 0.0.0.0 ssp.ynxs.io
 0.0.0.0 txn.ynxs.io
 0.0.0.0 ynxs.io
+#[rfrl.pw]
+0.0.0.0 a.rfrl.pw
+0.0.0.0 g.rfrl.pw
+0.0.0.0 rfrl.pw
+#[aper.pw]
+0.0.0.0 aper.pw
+0.0.0.0 c.aper.pw
+0.0.0.0 xx.aper.pw
+#[taobao.com]
+0.0.0.0 acs.m.taobao.com
+0.0.0.0 adash.m.taobao.com
+0.0.0.0 adashbc.m.taobao.com
+0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 adashx.m.taobao.com
+0.0.0.0 adashx.ut.taobao.com
+0.0.0.0 adashx4ae.ut.taobao.com
+0.0.0.0 adashxgc.ut.taobao.com
+0.0.0.0 c-adash.m.taobao.com
+0.0.0.0 count.taobao.com
+0.0.0.0 h-adashx.ut.taobao.com
+0.0.0.0 h-adashx4ae.ut.taobao.com
+0.0.0.0 ip.taobao.com
+0.0.0.0 m-adash.m.taobao.com
+0.0.0.0 pcookie.taobao.com
+0.0.0.0 s.click.taobao.com
+#[tanx.com]
+0.0.0.0 cdn.tanx.com
+0.0.0.0 click.tanx.com
+0.0.0.0 p.tanx.com
+0.0.0.0 pcookie.tanx.com
+0.0.0.0 phs.tanx.com
+0.0.0.0 rdstat.tanx.com
+0.0.0.0 tanx.com
+0.0.0.0 toruk.tanx.com
+#[sdkclickurl.com]
+0.0.0.0 c.sdkclickurl.com
+0.0.0.0 c3.sdkclickurl.com
+0.0.0.0 ccloud.sdkclickurl.com
+0.0.0.0 sdkclickurl.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14520,6 +14530,7 @@
 0.0.0.0 shop.zaloapp.com
 0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 stats.zaloapp.com
+0.0.0.0 wg.zaloapp.com
 0.0.0.0 zminer.zaloapp.com
 #[zadn.vn]
 0.0.0.0 adtima-media-td.zadn.vn
@@ -15573,6 +15584,7 @@
 0.0.0.0 4mads.com
 0.0.0.0 4wnet.com
 0.0.0.0 520click.com
+0.0.0.0 5advertise.com
 0.0.0.0 a.consumer.net
 0.0.0.0 a.mktw.net
 0.0.0.0 a.rigelink.com
@@ -15636,7 +15648,6 @@
 0.0.0.0 ad.aboutit.de
 0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 ad.abum.com
-0.0.0.0 ad.admitad.com
 0.0.0.0 ad.afy11.net
 0.0.0.0 ad.allstar.cz
 0.0.0.0 ad.altervista.org
@@ -15895,6 +15906,7 @@
 0.0.0.0 admex.com
 0.0.0.0 adminder.com
 0.0.0.0 adminshop.com
+0.0.0.0 admitad.com
 0.0.0.0 admixer.net
 0.0.0.0 admized.com
 0.0.0.0 admob.comadwhirl.com
@@ -16708,6 +16720,7 @@
 0.0.0.0 appflood.com
 0.0.0.0 appia.com
 0.0.0.0 appier.com
+0.0.0.0 appier.net
 0.0.0.0 appolicious.com
 0.0.0.0 apprebates.com
 0.0.0.0 appredeem.com
@@ -17099,6 +17112,7 @@
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 clashmobile.com
 0.0.0.0 class-act-clicks.com
+0.0.0.0 clearadnetwork.com
 0.0.0.0 clearbid.uberads.com
 0.0.0.0 clearcomb.com
 0.0.0.0 clicck.net
@@ -17422,6 +17436,7 @@
 0.0.0.0 ellcurvth.com
 0.0.0.0 elthamely.com
 0.0.0.0 emarketer.com
+0.0.0.0 embed.dugout.com
 0.0.0.0 emediate.dk
 0.0.0.0 emediate.eu
 0.0.0.0 emerse.com
@@ -19268,6 +19283,7 @@
 0.0.0.0 watchingthat.com
 0.0.0.0 wateryvan.com
 0.0.0.0 waust.at
+0.0.0.0 waxpigbaa.com
 0.0.0.0 wda.com
 0.0.0.0 wdads.sx.atl.publicus.com
 0.0.0.0 wearemiq.com
@@ -19341,6 +19357,7 @@
 0.0.0.0 wtlive.com
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www.520click.com
+0.0.0.0 www.5advertise.com
 0.0.0.0 www.ad-spb.ru
 0.0.0.0 www.ad287.com
 0.0.0.0 www.adexchangetracker.com
@@ -19363,6 +19380,7 @@
 0.0.0.0 www.binarymoney.site
 0.0.0.0 www.butheptesitrew.pro
 0.0.0.0 www.cdnondemand.org
+0.0.0.0 www.clearadnetwork.com
 0.0.0.0 www.clixco.in
 0.0.0.0 www.comece-a-negociar.com
 0.0.0.0 www.comwgi.com
@@ -19492,7 +19510,6 @@
 0.0.0.0 a.idio.co
 0.0.0.0 a.klaviyo.com
 0.0.0.0 a3cloud.net
-0.0.0.0 acs.m.taobao.com
 0.0.0.0 adentify.com
 0.0.0.0 adj.st
 0.0.0.0 adtrack.king.com
@@ -19784,11 +19801,14 @@
 0.0.0.0 telegraph.grapeshot.co.uk
 0.0.0.0 theirsvendor.com
 0.0.0.0 thoosje.com
+0.0.0.0 track.56txs4.com
 0.0.0.0 track.datetrck.com
+0.0.0.0 track.mobgc.com
 0.0.0.0 track.omg543.com
 0.0.0.0 track.publeadmedia.com
 0.0.0.0 track.sohu.com
 0.0.0.0 track.tenjin.io
+0.0.0.0 track.upcpi.com
 0.0.0.0 trackcmp.net
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.vgame.us
@@ -19838,6 +19858,7 @@
 0.0.0.0 zarget.com
 # --- Block other scamVN ---
 0.0.0.0 abutparker.com
+0.0.0.0 agiegoeig.com
 0.0.0.0 applelink.store
 0.0.0.0 comptrffc.com
 0.0.0.0 cpa-tc.com
