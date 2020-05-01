@@ -8342,10 +8342,6 @@
 0.0.0.0 start.siftscience.com
 0.0.0.0 status.siftscience.com
 0.0.0.0 www.siftscience.com
-#[tiktokv.com]
-0.0.0.0 log.tiktokv.com
-0.0.0.0 mon.tiktokv.com
-0.0.0.0 xlog.tiktokv.com
 #[byteoversea.com]
 0.0.0.0 log.byteoversea.com
 0.0.0.0 log15.byteoversea.com
@@ -14053,3 +14049,54 @@
 0.0.0.0 proxy-eu.mppmnetwork.com
 0.0.0.0 proxy-eu-ping.mppmnetwork.com
 0.0.0.0 tm.mppmnetwork.com
+#[revive-adserver.com]
+0.0.0.0 cdn.revive-adserver.com
+0.0.0.0 delivery.revive-adserver.com
+0.0.0.0 download.revive-adserver.com
+0.0.0.0 revive-adserver.com
+0.0.0.0 sync.revive-adserver.com
+0.0.0.0 www.revive-adserver.com
+#[adpone.com]
+0.0.0.0 adpone.com
+0.0.0.0 ads.adpone.com
+0.0.0.0 adstxt.adpone.com
+0.0.0.0 alerts.adpone.com
+0.0.0.0 eu-ads.adpone.com
+0.0.0.0 hb.adpone.com
+0.0.0.0 pubadmin.adpone.com
+0.0.0.0 publishers.adpone.com
+0.0.0.0 rtb.adpone.com
+0.0.0.0 usersync.adpone.com
+0.0.0.0 www.adpone.com
+#[feedad.com]
+0.0.0.0 api.feedad.com
+0.0.0.0 feedad.com
+0.0.0.0 ios.feedad.com
+0.0.0.0 native.feedad.com
+0.0.0.0 omsdk.feedad.com
+0.0.0.0 tags.feedad.com
+0.0.0.0 web.feedad.com
+0.0.0.0 www.feedad.com
+#[movad.net]
+0.0.0.0 ad.movad.net
+0.0.0.0 ad2.movad.net
+0.0.0.0 adscale.movad.net
+0.0.0.0 advideo.movad.net
+0.0.0.0 cdn.movad.net
+0.0.0.0 cdn2.movad.net
+0.0.0.0 dev.reptracy.movad.net
+0.0.0.0 event.movad.net
+0.0.0.0 movad.net
+0.0.0.0 prelive.movad.net
+0.0.0.0 preview.movad.net
+0.0.0.0 rack.movad.net
+0.0.0.0 reptracy.movad.net
+0.0.0.0 track.movad.net
+0.0.0.0 vacs.movad.net
+0.0.0.0 vast.movad.net
+0.0.0.0 www.movad.net
+#[ynxs.io]
+0.0.0.0 link.ynxs.io
+0.0.0.0 ssp.ynxs.io
+0.0.0.0 txn.ynxs.io
+0.0.0.0 ynxs.io

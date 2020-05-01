@@ -1,5 +1,8 @@
 # --- Block adsVN ---
+0.0.0.0 static.mvot.vn
+0.0.0.0 genmonet.com
 0.0.0.0 ad-admin.vnay.vn
+0.0.0.0 financial-agent.headlines.pw
 0.0.0.0 ad-img.icheck.com.vn
 0.0.0.0 ad.24h.com.vn
 0.0.0.0 ad.accesstrade.vn
@@ -19,6 +22,7 @@
 0.0.0.0 admin.sothuchi.vn
 0.0.0.0 adnetwork.5imedia.vn
 0.0.0.0 adpostback.headlines.pw
+0.0.0.0 apia.headlines.pw
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads.baodatviet.vn
 0.0.0.0 ads.careerbuilder.vn
@@ -80,6 +84,8 @@
 0.0.0.0 go.vnecdn.com
 0.0.0.0 landingpagelagi.vn
 0.0.0.0 lottery.headlines.pw
+0.0.0.0 sv-api-lottery.headlines.pw
+0.0.0.0 sv-static-lottery.headlines.pw
 0.0.0.0 lottery.vntoday.news
 0.0.0.0 m.clevernet.vn
 0.0.0.0 microad.vn
@@ -124,7 +130,10 @@
 0.0.0.0 www.sbbanner.com
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
+0.0.0.0 vnd247.vn
+0.0.0.0 adjusts.info
 # --- Block trackingVN ---
+0.0.0.0 apl.headlines.pw
 0.0.0.0 alexajstrack.com
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.easyvideo.vn
@@ -136,6 +145,7 @@
 0.0.0.0 deqik.com
 0.0.0.0 elogs.vnexpress.net
 0.0.0.0 event.headlines.pw
+0.0.0.0 sv-api-event.headlines.pw
 0.0.0.0 event.vntoday.news
 0.0.0.0 la.vietid.net
 0.0.0.0 lg.lotus.vn
@@ -160,6 +170,7 @@
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 nstat.headlines.pw
 0.0.0.0 report.vnay.vn
+0.0.0.0 follow.vnay.vn
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn

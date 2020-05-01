@@ -432,8 +432,9 @@
 0.0.0.0 zplayer.trk.zapps.vn
 #[log.zing*.vn]
 0.0.0.0 log.zingmp3.vn
-0.0.0.0 zlog.zingmp3.vn
 0.0.0.0 log.zingnews.vn
+0.0.0.0 log.zingtv.vn
+0.0.0.0 zlog.zingmp3.vn
 #[vietad]
 0.0.0.0 ads.vietad.vn
 0.0.0.0 as.vietad.vn
@@ -1222,3 +1223,10 @@
 0.0.0.0 t.123c.vn
 0.0.0.0 trk.123c.vn
 0.0.0.0 trk.staging.123c.vn
+#[nanda.vn]
+0.0.0.0 ai.nanda.vn
+0.0.0.0 analytics.nanda.vn
+0.0.0.0 cdn.nanda.vn
+0.0.0.0 lg.nanda.vn
+0.0.0.0 nanda.vn
+0.0.0.0 static.nanda.vn
