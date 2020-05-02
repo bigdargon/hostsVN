@@ -14127,3 +14127,7 @@
 0.0.0.0 zdlogs.sphereup.com
 0.0.0.0 zdwidget3-bs.sphereup.com
 0.0.0.0 zdwidget3-bs-alt.sphereup.com
+#[serving1.net]
+0.0.0.0 cdn.serving1.net
+0.0.0.0 serving1.net
+0.0.0.0 www.cdn.serving1.net
