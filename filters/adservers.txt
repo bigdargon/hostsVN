@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 May 2020 22:25 UTC+7
-! Version: 2005012225
-! Blocked: 413 rules
+! Last modified: 02 May 2020 19:15 UTC+7
+! Version: 2005021915
+! Blocked: 416 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -219,6 +219,7 @@
 ||events.vungtv.com^
 ||financial-agent.headlines.pw^
 ||fptad.com^
+||game.hotngay.vn^
 ||genmonet.com^
 ||ghimc.vn^
 ||go.vnecdn.com^
@@ -265,6 +266,7 @@
 ||analytics.sohatv.vn^
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
+||analytics.videocloud.top^
 ||analytics.vnreview.vn^
 ||apl.headlines.pw^
 ||cnnd.vn^
@@ -294,6 +296,7 @@
 ||log4x.nixcdn.com^
 ||logging.galaxypub.vn^
 ||logging.phunuonline.com.vn^
+||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
 ||lp.baomoi.com^
 ||nstat.headlines.pw^

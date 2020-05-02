@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 01 May 2020 22:25 UTC+7
-! Version: 2005012225
-! Blocked: 5,521 rules
+! Last modified: 02 May 2020 19:15 UTC+7
+! Version: 2005021915
+! Blocked: 5,534 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -219,6 +219,7 @@
 ||events.vungtv.com^
 ||financial-agent.headlines.pw^
 ||fptad.com^
+||game.hotngay.vn^
 ||genmonet.com^
 ||ghimc.vn^
 ||go.vnecdn.com^
@@ -265,6 +266,7 @@
 ||analytics.sohatv.vn^
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
+||analytics.videocloud.top^
 ||analytics.vnreview.vn^
 ||apl.headlines.pw^
 ||cnnd.vn^
@@ -294,6 +296,7 @@
 ||log4x.nixcdn.com^
 ||logging.galaxypub.vn^
 ||logging.phunuonline.com.vn^
+||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
 ||lp.baomoi.com^
 ||nstat.headlines.pw^
@@ -682,6 +685,7 @@
 ||bilsyndication.com^
 ||bingads.microsoft.com^
 ||bitmedia.io^
+||bitsngo.net^
 ||bizible.com^
 ||bj1*.online^
 ||bkrtx.com^
@@ -906,6 +910,7 @@
 ||insight.ucweb.com^
 ||insightexpressai.com^
 ||inspectlet.com^
+||instant.page^
 ||instapage.com^
 ||instartlogic.com^
 ||insurads.com^
@@ -1189,6 +1194,7 @@
 ||specificmedia.com^
 ||speedcurve.com^
 ||speee-ad.akamaized.net^
+||sphereup.com^
 ||spotscenered.info^
 ||spotxchange.com^
 ||srvcs.tumblr.com^
@@ -2383,6 +2389,7 @@
 ||agreeableprice.com^
 ||agreeablestew.com^
 ||agreemand.com^
+||agroupadx.com^
 ||ah-ha.com^
 ||ahalogy.com^
 ||aheadday.com^
@@ -2431,6 +2438,7 @@
 ||apathetictheory.com^
 ||apex-ad.com^
 ||aphycolourses.info^
+||api.52youtu.com^
 ||api.adserver-e7.com^
 ||api.ampiri.com^
 ||api.appfireworks.com^
@@ -4120,6 +4128,7 @@
 ||permutive.com^
 ||personagraph.com^
 ||personaly.click^
+||petchesa.net^
 ||petiteumbrella.com^
 ||pgl.example0101^
 ||pgmediaserve.com^
@@ -4936,6 +4945,7 @@
 ||unarmedindustry.com^
 ||undertone.com^
 ||unknowntray.com^
+||unreshiramor.com^
 ||untd.com^
 ||unthem.com^
 ||untidyquestion.com^
@@ -5254,6 +5264,7 @@
 ||comscoreresearch.com^
 ||config.789wed.com^
 ||cookieinfoscript.com^
+||coralogix.com^
 ||count.ly^
 ||creative.dailymail.co.uk^
 ||crittercism.com^
@@ -5334,6 +5345,7 @@
 ||kkvmaj.com^
 ||leadzutw.com^
 ||lem-computers.net^
+||lfeeder.com^
 ||liftoff.io^
 ||llbb88.com^
 ||log.apk.v-mate.mobi^
@@ -5415,6 +5427,7 @@
 ||s.vi-serve.com^
 ||safegraph.com^
 ||safelyawake.com^
+||salesloft.com^
 ||sam4m.com^
 ||saspreview.com^
 ||sc-static.net^

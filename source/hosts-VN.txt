@@ -1,5 +1,4 @@
 # --- Block adsVN ---
-0.0.0.0 game.hotngay.vn
 0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-img.icheck.com.vn
 0.0.0.0 ad.24h.com.vn
@@ -80,6 +79,7 @@
 0.0.0.0 events.vungtv.com
 0.0.0.0 financial-agent.headlines.pw
 0.0.0.0 fptad.com
+0.0.0.0 game.hotngay.vn
 0.0.0.0 genmonet.com
 0.0.0.0 ghimc.vn
 0.0.0.0 go.vnecdn.com
@@ -134,8 +134,6 @@
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 # --- Block trackingVN ---
-0.0.0.0 logs.thethaovanhoa.vn
-0.0.0.0 analytics.videocloud.top
 0.0.0.0 alexajstrack.com
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.easyvideo.vn
@@ -143,6 +141,7 @@
 0.0.0.0 analytics.sohatv.vn
 0.0.0.0 analytics.thethao247.org
 0.0.0.0 analytics.tiki.vn
+0.0.0.0 analytics.videocloud.top
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 apl.headlines.pw
 0.0.0.0 cnnd.vn
@@ -172,6 +171,7 @@
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 logging.galaxypub.vn
 0.0.0.0 logging.phunuonline.com.vn
+0.0.0.0 logs.thethaovanhoa.vn
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 lp.baomoi.com
 0.0.0.0 nstat.headlines.pw
