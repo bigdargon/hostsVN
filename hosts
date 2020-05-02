@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 May 2020 19:19 UTC+7
-# Version: 2005021919
-# Blocked: 19,151 domains
+# Last modified: 02 May 2020 21:33 UTC+7
+# Version: 2005022133
+# Blocked: 19,166 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14139,6 +14139,21 @@
 0.0.0.0 zdlogs.sphereup.com
 0.0.0.0 zdwidget3-bs.sphereup.com
 0.0.0.0 zdwidget3-bs-alt.sphereup.com
+#[serving1.net]
+0.0.0.0 cdn.serving1.net
+0.0.0.0 serving1.net
+0.0.0.0 www.cdn.serving1.net
+#[richmediaads.com]
+0.0.0.0 cdn.richmediaads.com
+0.0.0.0 repo.richmediaads.com
+0.0.0.0 richmediaads.com
+0.0.0.0 rmarepo.richmediaads.com
+0.0.0.0 serve.richmediaads.com
+0.0.0.0 track.richmediaads.com
+0.0.0.0 vast.richmediaads.com
+0.0.0.0 vastgt.richmediaads.com
+0.0.0.0 ww3.richmediaads.com
+0.0.0.0 www.richmediaads.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -17028,6 +17043,7 @@
 0.0.0.0 btez8.xyz
 0.0.0.0 btrll.com
 0.0.0.0 bucketbean.com
+0.0.0.0 bucksense.com
 0.0.0.0 budsinc.com
 0.0.0.0 buleor.com
 0.0.0.0 bullseye.backbeatmedia.com
@@ -19397,6 +19413,7 @@
 0.0.0.0 www.adstune.com
 0.0.0.0 www.adtilt.com
 0.0.0.0 www.advinci.co
+0.0.0.0 www.agroupadx.com
 0.0.0.0 www.allmygoodlife.com
 0.0.0.0 www.allmyverygreatlife.com
 0.0.0.0 www.antiviruspro-vietnam.info
