@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 May 2020 19:15 UTC+7
-# Version: 2005021915
-# Blocked: 19,157 domains
+# Last modified: 02 May 2020 19:19 UTC+7
+# Version: 2005021919
+# Blocked: 19,151 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2663,12 +2663,6 @@
 0 www.trackjs.com
 0 d2zah9y47r7bi2.cloudfront.net
 0 dl1d2m8ri9v3j.cloudfront.net
-0 fabric.io
-0 ana-ing.fabric.io
-0 get.fabric.io
-0 maven.fabric.io
-0 cdn-cf.fabric.io
-0 fastlane-metrics.fabric.io
 0 ad4screen.com
 0 www.ad4screen.com
 0 portal.ad4screen.com
