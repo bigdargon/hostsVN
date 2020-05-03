@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 May 2020 21:33 UTC+7
-! Version: 2005022133
-! Blocked: 416 rules
+! Last modified: 03 May 2020 20:36 UTC+7
+! Version: 2005032036
+! Blocked: 419 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -255,10 +255,12 @@
 ||tvnotice.kg.garena.vn^
 ||uniad.phimmoi.net^
 ||upfile16.mediaphim.com^
+||user.headlines.pw^
 ||vietbuzzad.com^
 ||vietdorje.com^
 ||vinaads.vn^
 ||vnd247.vn^
+||widget.headlines.pw^
 ||alexajstrack.com^
 ||analytics.bkav.com^
 ||analytics.easyvideo.vn^
@@ -286,6 +288,7 @@
 ||log.infonet.vn^
 ||log.kienthuc.net.vn^
 ||log.sggp.org.vn^
+||log.tapchitaichinh.vn^
 ||log.thanhnien.vn^
 ||log.tienphong.vn^
 ||log.vietnamdaily.net.vn^
