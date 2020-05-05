@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 May 2020 20:36 UTC+7
-! Version: 2005032036
-! Blocked: 419 rules
+! Last modified: 05 May 2020 14:48 UTC+7
+! Version: 2005051448
+! Blocked: 422 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -130,6 +130,7 @@
 ||vnnayngaytin.vn^
 ||wg.zaloapp.com^
 ||yeah1media.vn^
+||yeah1publishing.com^
 ||yoads.net^
 ||yoads.network^
 ||yomedia.vn^
@@ -226,6 +227,7 @@
 ||landingpagelagi.vn^
 ||lottery.headlines.pw^
 ||lottery.vntoday.news^
+||mega1.yeah1.com^
 ||microad.vn^
 ||mobileads.dieuviet.com^
 ||myad.vn^
@@ -283,6 +285,7 @@
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
 ||log.baomoi.com^
+||log.baophapluat.vn^
 ||log.batdongsan.com.vn^
 ||log.giaoduc.net.vn^
 ||log.infonet.vn^

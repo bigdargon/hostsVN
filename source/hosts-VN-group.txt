@@ -630,6 +630,7 @@
 0.0.0.0 pm.adpia.vn
 0.0.0.0 s3.adpia.vn
 0.0.0.0 sendy.adpia.vn
+0.0.0.0 smartlink.adpia.vn
 0.0.0.0 uptime.adpia.vn
 0.0.0.0 www.adpia.vn
 #[younetmedia.com]
@@ -1231,3 +1232,8 @@
 0.0.0.0 lg.nanda.vn
 0.0.0.0 nanda.vn
 0.0.0.0 static.nanda.vn
+#[yeah1publishing.com]
+0.0.0.0 mega1.yeah1publishing.com
+0.0.0.0 mega1app.yeah1publishing.com
+0.0.0.0 www.yeah1publishing.com
+0.0.0.0 yeah1publishing.com

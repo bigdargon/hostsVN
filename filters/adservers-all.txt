@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 03 May 2020 20:36 UTC+7
-! Version: 2005032036
-! Blocked: 5,539 rules
+! Last modified: 05 May 2020 14:48 UTC+7
+! Version: 2005051448
+! Blocked: 5,555 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -130,6 +130,7 @@
 ||vnnayngaytin.vn^
 ||wg.zaloapp.com^
 ||yeah1media.vn^
+||yeah1publishing.com^
 ||yoads.net^
 ||yoads.network^
 ||yomedia.vn^
@@ -226,6 +227,7 @@
 ||landingpagelagi.vn^
 ||lottery.headlines.pw^
 ||lottery.vntoday.news^
+||mega1.yeah1.com^
 ||microad.vn^
 ||mobileads.dieuviet.com^
 ||myad.vn^
@@ -283,6 +285,7 @@
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
 ||log.baomoi.com^
+||log.baophapluat.vn^
 ||log.batdongsan.com.vn^
 ||log.giaoduc.net.vn^
 ||log.infonet.vn^
@@ -522,6 +525,7 @@
 ||ads.cnn.com^
 ||ads.gmodules.com^
 ||ads.google.com^
+||ads.heytapmobi.com^
 ||ads.linkedin.com^
 ||ads.nytimes.com^
 ||ads.snapchat.com^
@@ -675,6 +679,7 @@
 ||beacons*.gvt2.com^
 ||beacons*.gvt3.com^
 ||beap*.yahoo.com^
+||beaverads.com^
 ||bebi.com^
 ||betrad.com^
 ||beverly-downing.xyz^
@@ -790,6 +795,7 @@
 ||demandbase.com^
 ||deployads.com^
 ||device-metrics-*.amazon.com^
+||dezf3o8j9jdt6.cloudfront.net^
 ||dfnb-ads.com^
 ||districtm.io^
 ||districtm.net^
@@ -842,6 +848,7 @@
 ||fout.jp^
 ||fqtag.com^
 ||freshmarketer.com^
+||fstats.xyz^
 ||fullstory.com^
 ||fwmrm.net^
 ||fyber.com^
@@ -1023,7 +1030,6 @@
 ||mon*.byteoversea.com^
 ||mon*.isnssdk.com^
 ||mon*.snssdk.com^
-||mon-thu*.life^
 ||monetiza.co^
 ||monetize.com^
 ||mookie1.com^
@@ -1235,6 +1241,7 @@
 ||themoneytizer.com^
 ||tinypass.com^
 ||toast.com^
+||toponad.com^
 ||tr.snapchat.com^
 ||trace.qq.com^
 ||track.uc.cn^
@@ -1511,6 +1518,7 @@
 ||adacado.com^
 ||adaction.de^
 ||adapt.tv^
+||adasiatagmanager.appspot.com^
 ||adbanner.ro^
 ||adbard.net^
 ||adblockanalytics.com^
@@ -2493,6 +2501,7 @@
 ||as1.advfn.com^
 ||as2.advfn.com^
 ||as5000.com^
+||asdnn1331.xyz^
 ||askaspalb.online^
 ||asp.animelab.com^
 ||aspboxant.club^
@@ -2655,6 +2664,7 @@
 ||beamincrease.com^
 ||beamkite.com^
 ||beauty-tea.com^
+||bebreloomr.com^
 ||bedsbreath.com^
 ||beeashale.club^
 ||beemray.com^
@@ -3536,6 +3546,7 @@
 ||inboxdollars.com^
 ||incentaclick.com^
 ||incognitosearches.com^
+||increaserev.com^
 ||incrediblesugar.com^
 ||indexstats.com^
 ||indieclick.com^
@@ -3706,6 +3717,7 @@
 ||lopsidedspoon.com^
 ||loudloss.com^
 ||loudlunch.com^
+||lowtyroguer.com^
 ||lp3tdqle.com^
 ||lucidmedia.com^
 ||lucklayed.info^
@@ -4407,6 +4419,7 @@
 ||rok.com.com^
 ||rose.ixbt.com^
 ||rotabanner.com^
+||rotumal.com^
 ||roughexampler.info^
 ||roughroll.com^
 ||routeserve.info^
@@ -4451,6 +4464,7 @@
 ||scripte-monster.de^
 ||scrubsky.com^
 ||scrubswim.com^
+||sdhfbvd.com^
 ||seaboblit.com^
 ||searchfeast.com^
 ||searchmarketing.com^
@@ -5243,6 +5257,7 @@
 ||bango.net^
 ||batchlogging4.truecaller.com^
 ||bc.dailymail.co.uk^
+||beacon.shazam.com^
 ||beampulse.com^
 ||bjdxhs.com^
 ||bjhmt.com^
@@ -5261,6 +5276,7 @@
 ||cdn.promotionengine.com^
 ||cdn.zarget.com^
 ||cdnstatic.geo.dmcdn.net^
+||clerrrep.com^
 ||client-analytics.braintreegateway.com^
 ||cmp.dmgmediaprivacy.co.uk^
 ||cognitivlabs.com^

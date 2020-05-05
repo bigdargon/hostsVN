@@ -11361,17 +11361,8 @@
 0.0.0.0 d26tbbq8zqdi4v.cloudfront.net
 0.0.0.0 d2r173wcohmi6.cloudfront.net
 0.0.0.0 d2wbr3tthrn9lu.cloudfront.net
+0.0.0.0 dezf3o8j9jdt6.cloudfront.net
 0.0.0.0 dql2sdu63f1cw.cloudfront.net
-#[mon-thu*.life]
-0.0.0.0 mon-thu1.life
-0.0.0.0 mon-thu2.life
-0.0.0.0 mon-thu3.life
-0.0.0.0 mon-thu4.life
-0.0.0.0 mon-thu5.life
-0.0.0.0 mon-thu6.life
-0.0.0.0 mon-thu7.life
-0.0.0.0 mon-thu8.life
-0.0.0.0 mon-thu9.life
 #[djaxadserver.com]
 0.0.0.0 adexchange.djaxadserver.com
 0.0.0.0 adst.djaxadserver.com
@@ -14142,3 +14133,53 @@
 0.0.0.0 vastgt.richmediaads.com
 0.0.0.0 ww3.richmediaads.com
 0.0.0.0 www.richmediaads.com
+#[fstats.xyz]
+0.0.0.0 fstats.xyz
+0.0.0.0 v3.fstats.xyz
+#[toponad.com]
+0.0.0.0 aa.toponad.com
+0.0.0.0 app.toponad.com
+0.0.0.0 dd.toponad.com
+0.0.0.0 img.toponad.com
+0.0.0.0 mores.toponad.com
+0.0.0.0 pkg.toponad.com
+0.0.0.0 toponad.com
+0.0.0.0 tt.toponad.com
+0.0.0.0 www.toponad.com
+#[beaverads.com]
+0.0.0.0 advert.beaverads.com
+0.0.0.0 beaverads.com
+0.0.0.0 cdn.beaverads.com
+0.0.0.0 code.beaverads.com
+0.0.0.0 img.beaverads.com
+0.0.0.0 publisher.beaverads.com
+0.0.0.0 st.beaverads.com
+0.0.0.0 www.beaverads.com
+#[ads.heytapmobi.com]
+0.0.0.0 ads.heytapmobi.com
+0.0.0.0 adx.ads.heytapmobi.com
+0.0.0.0 adx-f.ads.heytapmobi.com
+0.0.0.0 adx-id.ads.heytapmobi.com
+0.0.0.0 adx-in.ads.heytapmobi.com
+0.0.0.0 adx-sg.ads.heytapmobi.com
+0.0.0.0 b1-data.ads.heytapmobi.com
+0.0.0.0 b2-data.ads.heytapmobi.com
+0.0.0.0 bdapi.ads.heytapmobi.com
+0.0.0.0 bdapi-id.ads.heytapmobi.com
+0.0.0.0 bdapi-in.ads.heytapmobi.com
+0.0.0.0 ck.ads.heytapmobi.com
+0.0.0.0 cl-data.ads.heytapmobi.com
+0.0.0.0 cl-data-f.ads.heytapmobi.com
+0.0.0.0 cl-data-id.ads.heytapmobi.com
+0.0.0.0 cl-data-in.ads.heytapmobi.com
+0.0.0.0 cl-data-sg.ads.heytapmobi.com
+0.0.0.0 cm.ads.heytapmobi.com
+0.0.0.0 darvin-ec.ads.heytapmobi.com
+0.0.0.0 data.ads.heytapmobi.com
+0.0.0.0 sms.ads.heytapmobi.com
+0.0.0.0 stg-data.ads.heytapmobi.com
+0.0.0.0 stg-data-f.ads.heytapmobi.com
+0.0.0.0 stg-data-id.ads.heytapmobi.com
+0.0.0.0 stg-data-in.ads.heytapmobi.com
+0.0.0.0 stg-data-sg.ads.heytapmobi.com
+0.0.0.0 uapi.ads.heytapmobi.com
