@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 May 2020 10:50 UTC+7
-# Version: 2005061050
-# Blocked: 19,226 domains
+# Last modified: 06 May 2020 13:39 UTC+7
+# Version: 2005061339
+# Blocked: 19,202 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2324,31 +2324,6 @@
 0 api.batch.com
 0 ws.batch.com
 0 status.batch.com
-0 dev.jwpltx.com
-0 fpoc-origin-dev.jwpltx.com
-0 i.dev.jwpltx.com
-0 i.n.jwpltx.com
-0 ihe.jwpltx.com
-0 ihe-dev.jwpltx.com
-0 ihe-stg.jwpltx.com
-0 in.jwpltx.com
-0 jwpltx.com
-0 ping-boost-origin-dev.jwpltx.com
-0 ping-boost-origin-prd.jwpltx.com
-0 ping-external-origin-dev.jwpltx.com
-0 ping-external-origin-prd.jwpltx.com
-0 ping-external-origin-stg.jwpltx.com
-0 ping-meta-origin-dev.jwpltx.com
-0 ping-meta-origin-prd.jwpltx.com
-0 ping-meta-origin-stg.jwpltx.com
-0 ping-meta-prd.jwpltx.com
-0 ping-origin-dev.jwpltx.com
-0 ping-origin-prd.jwpltx.com
-0 ping-origin-stg.jwpltx.com
-0 prd.jwpltx.com
-0 s.jwpltx.com
-0 s.n.jwpltx.com
-0 stg.jwpltx.com
 0 apiservices.krxd.net
 0 beacon.krxd.net
 0 beacon-maxis.krxd.net
@@ -18997,6 +18972,7 @@
 0 johnston.grapeshot.co.uk
 0 js.idio.co
 0 js.maxmind.com
+0 jwpltx.com
 0 k6r.net
 0 kidsghibli.com
 0 kkvmaj.com

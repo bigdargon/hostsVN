@@ -2401,32 +2401,6 @@
 0.0.0.0 api.batch.com
 0.0.0.0 ws.batch.com
 0.0.0.0 status.batch.com
-#[jwpltx.com]
-0.0.0.0 dev.jwpltx.com
-0.0.0.0 fpoc-origin-dev.jwpltx.com
-0.0.0.0 i.dev.jwpltx.com
-0.0.0.0 i.n.jwpltx.com
-0.0.0.0 ihe.jwpltx.com
-0.0.0.0 ihe-dev.jwpltx.com
-0.0.0.0 ihe-stg.jwpltx.com
-0.0.0.0 in.jwpltx.com
-0.0.0.0 jwpltx.com
-0.0.0.0 ping-boost-origin-dev.jwpltx.com
-0.0.0.0 ping-boost-origin-prd.jwpltx.com
-0.0.0.0 ping-external-origin-dev.jwpltx.com
-0.0.0.0 ping-external-origin-prd.jwpltx.com
-0.0.0.0 ping-external-origin-stg.jwpltx.com
-0.0.0.0 ping-meta-origin-dev.jwpltx.com
-0.0.0.0 ping-meta-origin-prd.jwpltx.com
-0.0.0.0 ping-meta-origin-stg.jwpltx.com
-0.0.0.0 ping-meta-prd.jwpltx.com
-0.0.0.0 ping-origin-dev.jwpltx.com
-0.0.0.0 ping-origin-prd.jwpltx.com
-0.0.0.0 ping-origin-stg.jwpltx.com
-0.0.0.0 prd.jwpltx.com
-0.0.0.0 s.jwpltx.com
-0.0.0.0 s.n.jwpltx.com
-0.0.0.0 stg.jwpltx.com
 #[krxd]
 0.0.0.0 apiservices.krxd.net
 0.0.0.0 beacon.krxd.net
