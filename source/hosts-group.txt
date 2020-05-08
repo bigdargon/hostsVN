@@ -3027,24 +3027,6 @@
 0.0.0.0 webportal.criteo.com
 0.0.0.0 widget.criteo.com
 0.0.0.0 www.criteo.com
-#[skimresources]
-0.0.0.0 assistjs.skimresources.com
-0.0.0.0 cdn.skimresources.com
-0.0.0.0 d.skimresources.com
-0.0.0.0 g.skimresources.com
-0.0.0.0 go.skimresources.com
-0.0.0.0 i.skimresources.com
-0.0.0.0 images.skimresources.com
-0.0.0.0 incentive.skimresources.com
-0.0.0.0 m.skimresources.com
-0.0.0.0 o.skimresources.com
-0.0.0.0 p.skimresources.com
-0.0.0.0 r.skimresources.com
-0.0.0.0 s.skimresources.com
-0.0.0.0 skimresources.com
-0.0.0.0 t.skimresources.com
-0.0.0.0 www.skimresources.com
-0.0.0.0 x.skimresources.com
 #[taboola]
 0.0.0.0 15.taboola.com
 0.0.0.0 accessrequest.taboola.com
