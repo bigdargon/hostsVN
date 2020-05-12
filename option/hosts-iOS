@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 May 2020 16:08 UTC+7
-# Version: 2005061608
-# Blocked: 19,213 domains
+# Last modified: 12 May 2020 14:37 UTC+7
+# Version: 2005121437
+# Blocked: 19,202 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2920,23 +2920,6 @@
 0 webportal.criteo.com
 0 widget.criteo.com
 0 www.criteo.com
-0 assistjs.skimresources.com
-0 cdn.skimresources.com
-0 d.skimresources.com
-0 g.skimresources.com
-0 go.skimresources.com
-0 i.skimresources.com
-0 images.skimresources.com
-0 incentive.skimresources.com
-0 m.skimresources.com
-0 o.skimresources.com
-0 p.skimresources.com
-0 r.skimresources.com
-0 s.skimresources.com
-0 skimresources.com
-0 t.skimresources.com
-0 www.skimresources.com
-0 x.skimresources.com
 0 15.taboola.com
 0 accessrequest.taboola.com
 0 actions-am.taboola.com
@@ -14054,6 +14037,7 @@
 0 www.ladipage.vn
 0 ladipage.net
 0 static.ladipage.net
+0 api.forms.ladipage.com
 0 api.ladipage.com
 0 builder.ladipage.com
 0 la.ladipage.com
@@ -15133,6 +15117,7 @@
 0 adformdsp.net
 0 adframe.mediaplex.com
 0 adgardener.com
+0 adgear.com
 0 adgoto.com
 0 adgridwork.com
 0 adgroups.net
@@ -16487,6 +16472,7 @@
 0 comclick.com
 0 comece-a-negociar.com
 0 comfortablecheese.com
+0 commander1.com
 0 commandersact.com
 0 commandwalk.com
 0 commercialvalue.org
@@ -16668,6 +16654,7 @@
 0 displaypagerank.com
 0 disqusads.com
 0 dist.belnk.com
+0 districtm.ca
 0 dk4ywix.com
 0 dmtracker.com
 0 dmtracking.alibaba.com
@@ -18913,6 +18900,7 @@
 0 crittercism.com
 0 csdian.net
 0 ct.pinterest.com
+0 d24n15hnbwhuhn.cloudfront.net
 0 d4n.platformd.com
 0 databerries.com
 0 demo25.extstore.com
@@ -18923,6 +18911,7 @@
 0 dm.gg
 0 dm599.com
 0 dmgt.grapeshot.co.uk
+0 dnn506yrbagrg.cloudfront.net
 0 do-not-tracker.org
 0 do.count.ly
 0 dolohen.com

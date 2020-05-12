@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 May 2020 16:08 UTC+7
-! Version: 2005061608
-! Blocked: 5,562 rules
+! Last modified: 12 May 2020 14:37 UTC+7
+! Version: 2005121437
+! Blocked: 5,566 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1197,7 +1197,6 @@
 ||simpleanalytics.io^
 ||simpli.fi^
 ||siteswithcontent.com^
-||skimresources.com^
 ||smaato.com^
 ||smaato.net^
 ||smartadserver.com^
@@ -1591,6 +1590,7 @@
 ||adformdsp.net^
 ||adframe.mediaplex.com^
 ||adgardener.com^
+||adgear.com^
 ||adgoto.com^
 ||adgridwork.com^
 ||adgroups.net^
@@ -2946,6 +2946,7 @@
 ||comclick.com^
 ||comece-a-negociar.com^
 ||comfortablecheese.com^
+||commander1.com^
 ||commandersact.com^
 ||commandwalk.com^
 ||commercialvalue.org^
@@ -3127,6 +3128,7 @@
 ||displaypagerank.com^
 ||disqusads.com^
 ||dist.belnk.com^
+||districtm.ca^
 ||dk4ywix.com^
 ||dmtracker.com^
 ||dmtracking.alibaba.com^
@@ -5298,6 +5300,7 @@
 ||crittercism.com^
 ||csdian.net^
 ||ct.pinterest.com^
+||d24n15hnbwhuhn.cloudfront.net^
 ||d4n.platformd.com^
 ||databerries.com^
 ||demo25.extstore.com^
@@ -5308,6 +5311,7 @@
 ||dm.gg^
 ||dm599.com^
 ||dmgt.grapeshot.co.uk^
+||dnn506yrbagrg.cloudfront.net^
 ||do-not-tracker.org^
 ||do.count.ly^
 ||dolohen.com^
