@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 May 2020 14:37 UTC+7
-# Version: 2005121437
-# Blocked: 19,202 domains
+# Last modified: 13 May 2020 14:44 UTC+7
+# Version: 2005131444
+# Blocked: 19,121 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5360,109 +5360,6 @@
 0 adblox.net
 0 services.adblox.net
 0 www.adblox.net
-0 2xx.sddan.mgr.consensu.org
-0 admiral.mgr.consensu.org
-0 adversal.mgr.consensu.org
-0 affinity.mgr.consensu.org
-0 api.conversant.mgr.consensu.org
-0 api.quantcast.mgr.consensu.org
-0 api.sibboventures.mgr.consensu.org
-0 api.skimlinks.mgr.consensu.org
-0 audit.quantcast.mgr.consensu.org
-0 avocet.mgr.consensu.org
-0 c.sharethis.mgr.consensu.org
-0 captify.mgr.consensu.org
-0 cdn.conversant.mgr.consensu.org
-0 cdn.digitrust.mgr.consensu.org
-0 ciaopeople.mgr.consensu.org
-0 clickio.mgr.consensu.org
-0 cmp.avocet.mgr.consensu.org
-0 cmp.faktor.mgr.consensu.org
-0 cmp.madvertise.mgr.consensu.org
-0 cmp.redpineapplemedia.mgr.consensu.org
-0 cmp.sibboventures.mgr.consensu.org
-0 cmp.smartadserver.mgr.consensu.org
-0 cmp.teads.mgr.consensu.org
-0 cmp.uniconsent.mgr.consensu.org
-0 consensu.org
-0 consentag.mgr.consensu.org
-0 consentmanager.mgr.consensu.org
-0 conversant.mgr.consensu.org
-0 cookieinformation.mgr.consensu.org
-0 cookies.onetrust.mgr.consensu.org
-0 cookies-dev.onetrust.mgr.consensu.org
-0 cookies-prod.onetrust.mgr.consensu.org
-0 cookies-staging.onetrust.mgr.consensu.org
-0 core.conversant.mgr.consensu.org
-0 destinet.mgr.consensu.org
-0 dev.widget.databoxer.mgr.consensu.org
-0 didomi.mgr.consensu.org
-0 digitrust.mgr.consensu.org
-0 etarget.mgr.consensu.org
-0 events.streamamp.mgr.consensu.org
-0 evidon.mgr.consensu.org
-0 faktor.mgr.consensu.org
-0 gdpr-itx5.smartadserver.mgr.consensu.org
-0 gemius.mgr.consensu.org
-0 geo.smartadserver.mgr.consensu.org
-0 geo-eqx.smartadserver.mgr.consensu.org
-0 geo-tmk.smartadserver.mgr.consensu.org
-0 global.mgr.consensu.org
-0 goldenbees.mgr.consensu.org
-0 hiro.mgr.consensu.org
-0 iubenda.mgr.consensu.org
-0 liqwid.mgr.consensu.org
-0 log.uniconsent.mgr.consensu.org
-0 marfeel.mgr.consensu.org
-0 mgr.consensu.org
-0 monitor.sddan.mgr.consensu.org
-0 monitor-preprod.sddan.mgr.consensu.org
-0 ogury.mgr.consensu.org
-0 onetag.mgr.consensu.org
-0 oriel.mgr.consensu.org
-0 planetmedia.mgr.consensu.org
-0 pluto.mgr.consensu.org
-0 pm.sourcepoint.mgr.consensu.org
-0 preprod.sddan.mgr.consensu.org
-0 prisa.mgr.consensu.org
-0 purch.mgr.consensu.org
-0 quantcast.mgr.consensu.org
-0 rakuten.digitrust.mgr.consensu.org
-0 register.consensu.org
-0 richaudience.mgr.consensu.org
-0 rossel.mgr.consensu.org
-0 rtbhouse.mgr.consensu.org
-0 sddan.mgr.consensu.org
-0 sharethis.mgr.consensu.org
-0 shinystat.mgr.consensu.org
-0 sibboventures.mgr.consensu.org
-0 sipaof.mgr.consensu.org
-0 smartadserver.mgr.consensu.org
-0 societe.mgr.consensu.org
-0 sourcepoint.mgr.consensu.org
-0 sovrn.mgr.consensu.org
-0 spolecznosci.mgr.consensu.org
-0 stage.oriel.mgr.consensu.org
-0 staging.pluto.mgr.consensu.org
-0 static.quantcast.mgr.consensu.org
-0 streamamp.mgr.consensu.org
-0 teads.mgr.consensu.org
-0 traffective.mgr.consensu.org
-0 triboo.mgr.consensu.org
-0 trustarc.mgr.consensu.org
-0 ui.preprod.sddan.mgr.consensu.org
-0 ui.sddan.mgr.consensu.org
-0 unveilmedia.mgr.consensu.org
-0 usercentrics.mgr.consensu.org
-0 vendorlist.fidzup.mgr.consensu.org
-0 vibrant.mgr.consensu.org
-0 vortex.mgr.consensu.org
-0 webedia.mgr.consensu.org
-0 widget.databoxer.mgr.consensu.org
-0 widget-dev.databoxer.mgr.consensu.org
-0 widget-staging.databoxer.mgr.consensu.org
-0 wpm.mgr.consensu.org
-0 www.consensu.org
 0 assets.prebid.org
 0 currency.prebid.org
 0 prebid.org
@@ -13470,6 +13367,19 @@
 0 clickbuy.bz
 0 lp.clickbuy.bz
 0 www.clickbuy.bz
+0 ads.adxadserv.com
+0 ads.g.adxadserv.com
+0 adxadserv.com
+0 api.adxadserv.com
+0 dsp-test.adxadserv.com
+0 go.adxadserv.com
+0 nsb.adxadserv.com
+0 static.adxadserv.com
+0 tracking.adxadserv.com
+0 www.adxadserv.com
+0 runative-syndicate.com
+0 cdn.runative-syndicate.com
+0 pixel.runative-syndicate.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14722,6 +14632,7 @@
 0 polyad.galaxypub.vn
 0 qc.yan.vn
 0 quangcao.24h.com.vn
+0 quangcao.baovannghe.com.vn
 0 quangcao.thanhnien.vn
 0 quangcao.tuoitre.vn
 0 quangcao247.com.vn
@@ -16939,6 +16850,7 @@
 0 greetzebra.com
 0 greyinstrument.com
 0 greystripe.com
+0 groovinads.com
 0 groupm.com
 0 gtop.ro
 0 gtop100.com
@@ -17350,6 +17262,7 @@
 0 memorix.sdv.fr
 0 memorizeneck.com
 0 memorycobweb.com
+0 meowpushnot.com
 0 messagenovice.com
 0 metaffiliation.com
 0 metallicgrey.com
@@ -17527,6 +17440,7 @@
 0 nrc.tapas.net
 0 ntv.io
 0 ntvk1.ru
+0 ntvsw.com
 0 nuclearads.com
 0 nuffnang.com.my
 0 nuggad.net
@@ -17780,6 +17694,7 @@
 0 promotion-campaigns.com
 0 pronetadvertising.com
 0 props.id
+0 propu.sh
 0 proranktracker.com
 0 protexting.com
 0 proton-tm.com
@@ -18328,6 +18243,7 @@
 0 therapistla.com
 0 therichkids.com
 0 thetarhaw.com
+0 theweblocker.net
 0 thighlykamsh.site
 0 thinkablerice.com
 0 thinknear.com
@@ -18706,6 +18622,7 @@
 0 www.moneymakercdn.com
 0 www.myadsystem.com
 0 www.nikitinskysport.ru
+0 www.ntvsw.com
 0 www.onclickmega.com
 0 www.onclicksuper.com
 0 www.oriori.com
@@ -18715,11 +18632,13 @@
 0 www.photo-ads.co.uk
 0 www.powerad.ai
 0 www.pro-ads.club
+0 www.propu.sh
 0 www.push-notifications.top
 0 www.redirect2719.ws
 0 www.rmiesnorthur.pro
 0 www.routeserve.info
 0 www.statsy.net
+0 www.theweblocker.net
 0 www.trafyield.com
 0 www.tribedone.org
 0 www.trustaffs.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 May 2020 14:37 UTC+7
-! Version: 2005121437
-! Blocked: 5,566 rules
+! Last modified: 13 May 2020 14:44 UTC+7
+! Version: 2005131444
+! Blocked: 5,573 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -241,6 +241,7 @@
 ||polyad.galaxypub.vn^
 ||qc.yan.vn^
 ||quangcao.24h.com.vn^
+||quangcao.baovannghe.com.vn^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
 ||quangcao247.com.vn^
@@ -588,6 +589,7 @@
 ||advinci.net^
 ||adworkmedia.net^
 ||adx1.com^
+||adxadserv.com^
 ||adxcorp.kr^
 ||adxxx.com^
 ||adxxx.info^
@@ -767,7 +769,6 @@
 ||connatix.com^
 ||connect.adobedtm.com^
 ||connectad.io^
-||consensu.org^
 ||consumable.com^
 ||content-ad.net^
 ||content.ad^
@@ -1166,6 +1167,7 @@
 ||rtmark.net^
 ||rubiconproject.com^
 ||run-syndicate.com^
+||runative-syndicate.com^
 ||runative.com^
 ||s*-2mdn-net.l.google.com^
 ||s-onetag.com^
@@ -3414,6 +3416,7 @@
 ||greetzebra.com^
 ||greyinstrument.com^
 ||greystripe.com^
+||groovinads.com^
 ||groupm.com^
 ||gtop.ro^
 ||gtop100.com^
@@ -3826,6 +3829,7 @@
 ||memorix.sdv.fr^
 ||memorizeneck.com^
 ||memorycobweb.com^
+||meowpushnot.com^
 ||messagenovice.com^
 ||metaffiliation.com^
 ||metallicgrey.com^
@@ -4004,6 +4008,7 @@
 ||nrc.tapas.net^
 ||ntv.io^
 ||ntvk1.ru^
+||ntvsw.com^
 ||nuclearads.com^
 ||nuffnang.com.my^
 ||nuggad.net^
@@ -4258,6 +4263,7 @@
 ||promotion-campaigns.com^
 ||pronetadvertising.com^
 ||props.id^
+||propu.sh^
 ||proranktracker.com^
 ||protexting.com^
 ||proton-tm.com^
@@ -4806,6 +4812,7 @@
 ||therapistla.com^
 ||therichkids.com^
 ||thetarhaw.com^
+||theweblocker.net^
 ||thighlykamsh.site^
 ||thinkablerice.com^
 ||thinknear.com^
