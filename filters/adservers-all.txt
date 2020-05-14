@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 May 2020 14:44 UTC+7
-! Version: 2005131444
-! Blocked: 5,573 rules
+! Last modified: 14 May 2020 09:00 UTC+7
+! Version: 2005140900
+! Blocked: 5,561 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5317,7 +5317,6 @@
 ||djplazebo.com^
 ||dm.gg^
 ||dm599.com^
-||dmgt.grapeshot.co.uk^
 ||dnn506yrbagrg.cloudfront.net^
 ||do-not-tracker.org^
 ||do.count.ly^
@@ -5339,7 +5338,6 @@
 ||fchabkirchen-frauenberg.de^
 ||fff.dailymail.co.uk^
 ||frog.wix.com^
-||future.grapeshot.co.uk^
 ||g.3gl.net^
 ||g.uusee.com^
 ||ga.kvideo.io^
@@ -5372,11 +5370,7 @@
 ||img.leadzutw.com^
 ||infoaz.nl^
 ||intent.cbsi.com^
-||intercom.io^
-||intercomcdn.com^
-||ipcmedia.grapeshot.co.uk^
 ||itclk.com^
-||johnston.grapeshot.co.uk^
 ||js.idio.co^
 ||js.maxmind.com^
 ||jwpltx.com^
@@ -5405,7 +5399,6 @@
 ||mebed.dm.gg^
 ||media-match.com^
 ||mediaforce.com^
-||mediaforce.grapeshot.co.uk^
 ||metricfast.com^
 ||metrics.brightcove.com^
 ||metrics.cloudflarebolt.com^
@@ -5415,7 +5408,6 @@
 ||movestone.net^
 ||mxyyth.com^
 ||mybuzzmonitor.com^
-||newscorp.grapeshot.co.uk^
 ||nexus.ensighten.com^
 ||nonglirili.net^
 ||notify.bugsnag.com^
@@ -5449,7 +5441,6 @@
 ||r.3gl.net^
 ||r1.snnd.co^
 ||redinvestor.com^
-||reed-cw.grapeshot.co.uk^
 ||remyyadan.online.fr^
 ||rentimeinvz.com^
 ||richmetrics.com^
@@ -5508,7 +5499,6 @@
 ||ted.metro.co.uk^
 ||ted1.metro.co.uk^
 ||tedgenet.com^
-||telegraph.grapeshot.co.uk^
 ||theirsvendor.com^
 ||thoosje.com^
 ||track.56txs4.com^
@@ -5528,7 +5518,6 @@
 ||tracking.i2w.io^
 ||tracking.lenzmx.com^
 ||traffic.spot.im^
-||trinitymirror.grapeshot.co.uk^
 ||trk.clinch.co^
 ||trk.pinterest.com^
 ||ultimedia.com^
@@ -5548,7 +5537,6 @@
 ||weborama.net^
 ||weigezhiyao.com^
 ||wieistmeineip.de^
-||xaxis.grapeshot.co.uk^
 ||ymtracking.com^
 ||youthfire.com^
 ||zarget.com^
