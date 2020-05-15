@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 May 2020 10:36 UTC+7
-# Version: 2005141036
-# Blocked: 19,110 domains
+# Last modified: 15 May 2020 14:03 UTC+7
+# Version: 2005151403
+# Blocked: 19,127 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14071,6 +14071,23 @@
 0.0.0.0 runative-syndicate.com
 0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 pixel.runative-syndicate.com
+#[adthrive.com]
+0.0.0.0 ads.adthrive.com
+0.0.0.0 ads.test.adthrive.com
+0.0.0.0 ads-s3.adthrive.com
+0.0.0.0 adthrive.com
+0.0.0.0 cdn.adthrive.com
+0.0.0.0 cloud.adthrive.com
+0.0.0.0 dev.adthrive.com
+0.0.0.0 dev-track.adthrive.com
+0.0.0.0 logger.adthrive.com
+0.0.0.0 looker.adthrive.com
+0.0.0.0 marmalade.adthrive.com
+0.0.0.0 marmalade-cdn.adthrive.com
+0.0.0.0 portal.adthrive.com
+0.0.0.0 sentry.adthrive.com
+0.0.0.0 track.adthrive.com
+0.0.0.0 www.adthrive.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -16495,7 +16512,6 @@
 0.0.0.0 adtegrity.net
 0.0.0.0 adtheorent.com
 0.0.0.0 adthis.com
-0.0.0.0 adthrive.com
 0.0.0.0 adtiger.de
 0.0.0.0 adtilt.com
 0.0.0.0 adtng.com
@@ -17350,6 +17366,7 @@
 0.0.0.0 dispensablestranger.com
 0.0.0.0 displayadsmedia.com
 0.0.0.0 displaypagerank.com
+0.0.0.0 displayvertising.com
 0.0.0.0 disqusads.com
 0.0.0.0 dist.belnk.com
 0.0.0.0 districtm.ca
@@ -19385,6 +19402,7 @@
 0.0.0.0 www.comwgi.com
 0.0.0.0 www.cpm-ad.com
 0.0.0.0 www.dexchangenic.com
+0.0.0.0 www.displayvertising.com
 0.0.0.0 www.dnps.com
 0.0.0.0 www.dynamicadx.com
 0.0.0.0 www.ecpms.net

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 May 2020 10:36 UTC+7
-! Version: 2005141036
-! Blocked: 5,562 rules
+! Last modified: 15 May 2020 14:03 UTC+7
+! Version: 2005151403
+! Blocked: 5,563 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -572,6 +572,7 @@
 ||adtechus.com^
 ||adtelligent.com^
 ||adthor.com^
+||adthrive.com^
 ||adtimes.nytimes.com^
 ||adtrackers.net^
 ||adtrue.com^
@@ -2273,7 +2274,6 @@
 ||adtegrity.net^
 ||adtheorent.com^
 ||adthis.com^
-||adthrive.com^
 ||adtiger.de^
 ||adtilt.com^
 ||adtng.com^
@@ -3129,6 +3129,7 @@
 ||dispensablestranger.com^
 ||displayadsmedia.com^
 ||displaypagerank.com^
+||displayvertising.com^
 ||disqusads.com^
 ||dist.belnk.com^
 ||districtm.ca^

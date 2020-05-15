@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 May 2020 10:36 UTC+7
-# Version: 2005141036
-# Blocked: 19,110 domains
+# Last modified: 15 May 2020 14:03 UTC+7
+# Version: 2005151403
+# Blocked: 19,127 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13380,6 +13380,22 @@
 0 runative-syndicate.com
 0 cdn.runative-syndicate.com
 0 pixel.runative-syndicate.com
+0 ads.adthrive.com
+0 ads.test.adthrive.com
+0 ads-s3.adthrive.com
+0 adthrive.com
+0 cdn.adthrive.com
+0 cloud.adthrive.com
+0 dev.adthrive.com
+0 dev-track.adthrive.com
+0 logger.adthrive.com
+0 looker.adthrive.com
+0 marmalade.adthrive.com
+0 marmalade-cdn.adthrive.com
+0 portal.adthrive.com
+0 sentry.adthrive.com
+0 track.adthrive.com
+0 www.adthrive.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -15709,7 +15725,6 @@
 0 adtegrity.net
 0 adtheorent.com
 0 adthis.com
-0 adthrive.com
 0 adtiger.de
 0 adtilt.com
 0 adtng.com
@@ -16564,6 +16579,7 @@
 0 dispensablestranger.com
 0 displayadsmedia.com
 0 displaypagerank.com
+0 displayvertising.com
 0 disqusads.com
 0 dist.belnk.com
 0 districtm.ca
@@ -18599,6 +18615,7 @@
 0 www.comwgi.com
 0 www.cpm-ad.com
 0 www.dexchangenic.com
+0 www.displayvertising.com
 0 www.dnps.com
 0 www.dynamicadx.com
 0 www.ecpms.net
