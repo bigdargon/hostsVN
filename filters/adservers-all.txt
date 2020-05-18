@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 May 2020 14:03 UTC+7
-! Version: 2005151403
-! Blocked: 5,563 rules
+! Last modified: 18 May 2020 14:01 UTC+7
+! Version: 2005181401
+! Blocked: 5,568 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -480,6 +480,7 @@
 ||adclixx.net^
 ||adcolony.com^
 ||addthis.com^
+||addthiscdn.com^
 ||addthisedge.com^
 ||addtoany.com^
 ||adeventtracker.spotify.com^
@@ -2452,6 +2453,7 @@
 ||an.tacoda.net^
 ||anahtars.com^
 ||analytics.live.com^
+||anglishreasts.site^
 ||anm.intelli-direct.com^
 ||annonser.dagbladet.no^
 ||antiviruspro-vietnam.info^
@@ -2504,6 +2506,7 @@
 ||archswimming.com^
 ||are-ter.com^
 ||area51-ts.com^
+||areasonsimon.club^
 ||argyresthia.com^
 ||arkonziv.com^
 ||aromamirror.com^
@@ -2786,7 +2789,6 @@
 ||c1.nowlinux.com^
 ||c1exchange.com^
 ||ca.clcknads.pro^
-||cache.addthiscdn.com^
 ||calculatingcircle.com^
 ||calculatingtoothbrush.com^
 ||calculatorcamera.com^
@@ -2941,6 +2943,7 @@
 ||cnt.spbland.ru^
 ||cnt1.pocitadlo.cz^
 ||code-server.biz^
+||codedexchange.com^
 ||coin-hive.com^
 ||coinhive.com^
 ||cointraffic.io^
@@ -3773,6 +3776,7 @@
 ||marketron.com^
 ||maroonspider.com^
 ||mas.sector.sk^
+||massicrathem.info^
 ||mastermind.com^
 ||matchcows.com^
 ||matchcraft.com^
@@ -5122,6 +5126,7 @@
 ||wirecomic.com^
 ||wisepops.com^
 ||witch-counter.de^
+||withinknuko.club^
 ||wizaly.com^
 ||wlmarketing.com^
 ||wmirk.ru^

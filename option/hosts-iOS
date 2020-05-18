@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 May 2020 14:03 UTC+7
-# Version: 2005151403
-# Blocked: 19,127 domains
+# Last modified: 18 May 2020 14:01 UTC+7
+# Version: 2005181401
+# Blocked: 19,139 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2060,6 +2060,7 @@
 0 origin-snapshot.addthis.com
 0 p.addthis.com
 0 q.addthis.com
+0 r.dlx.addthis.com
 0 s3.addthis.com
 0 s4.addthis.com
 0 s5.addthis.com
@@ -2070,14 +2071,23 @@
 0 status.addthis.com
 0 su.addthis.com
 0 ut.addthis.com
-0 vp2-www.addthis.com
-0 vp-www.addthis.com
 0 vp-www-uat.addthis.com
-0 ws.addthis.com
+0 vp-www.addthis.com
+0 vp2-www.addthis.com
 0 ws-uat.addthis.com
+0 ws.addthis.com
 0 www.addthis.com
 0 www3.addthis.com
-0 www-test.addthis.com
+0 addthisedge.com
+0 m.addthisedge.com
+0 v1.addthisedge.com
+0 addthiscdn.com
+0 cache.addthiscdn.com
+0 client.addthiscdn.com
+0 client-uat.addthiscdn.com
+0 l.addthiscdn.com
+0 sharebar.addthiscdn.com
+0 www.addthiscdn.com
 0 analytics.rayjump.com
 0 cdn-adn.rayjump.com
 0 detect.rayjump.com
@@ -13360,9 +13370,6 @@
 0 stg-data-in.ads.heytapmobi.com
 0 stg-data-sg.ads.heytapmobi.com
 0 uapi.ads.heytapmobi.com
-0 addthisedge.com
-0 m.addthisedge.com
-0 v1.addthisedge.com
 0 ads.clickbuy.bz
 0 clickbuy.bz
 0 lp.clickbuy.bz
@@ -15903,6 +15910,7 @@
 0 an.tacoda.net
 0 anahtars.com
 0 analytics.live.com
+0 anglishreasts.site
 0 anm.intelli-direct.com
 0 annonser.dagbladet.no
 0 antiviruspro-vietnam.info
@@ -15955,6 +15963,7 @@
 0 archswimming.com
 0 are-ter.com
 0 area51-ts.com
+0 areasonsimon.club
 0 argyresthia.com
 0 arkonziv.com
 0 aromamirror.com
@@ -16236,7 +16245,6 @@
 0 c1.nowlinux.com
 0 c1exchange.com
 0 ca.clcknads.pro
-0 cache.addthiscdn.com
 0 calculatingcircle.com
 0 calculatingtoothbrush.com
 0 calculatorcamera.com
@@ -16391,6 +16399,7 @@
 0 cnt.spbland.ru
 0 cnt1.pocitadlo.cz
 0 code-server.biz
+0 codedexchange.com
 0 coin-hive.com
 0 coinhive.com
 0 cointraffic.io
@@ -17221,6 +17230,7 @@
 0 marketron.com
 0 maroonspider.com
 0 mas.sector.sk
+0 massicrathem.info
 0 mastermind.com
 0 matchcows.com
 0 matchcraft.com
@@ -18568,6 +18578,7 @@
 0 wirecomic.com
 0 wisepops.com
 0 witch-counter.de
+0 withinknuko.club
 0 wizaly.com
 0 wlmarketing.com
 0 wmirk.ru
@@ -18611,6 +18622,7 @@
 0 www.cdnondemand.org
 0 www.clearadnetwork.com
 0 www.clixco.in
+0 www.codedexchange.com
 0 www.comece-a-negociar.com
 0 www.comwgi.com
 0 www.cpm-ad.com

@@ -2125,6 +2125,7 @@
 0.0.0.0 origin-snapshot.addthis.com
 0.0.0.0 p.addthis.com
 0.0.0.0 q.addthis.com
+0.0.0.0 r.dlx.addthis.com
 0.0.0.0 s3.addthis.com
 0.0.0.0 s4.addthis.com
 0.0.0.0 s5.addthis.com
@@ -2135,14 +2136,25 @@
 0.0.0.0 status.addthis.com
 0.0.0.0 su.addthis.com
 0.0.0.0 ut.addthis.com
-0.0.0.0 vp2-www.addthis.com
-0.0.0.0 vp-www.addthis.com
 0.0.0.0 vp-www-uat.addthis.com
-0.0.0.0 ws.addthis.com
+0.0.0.0 vp-www.addthis.com
+0.0.0.0 vp2-www.addthis.com
 0.0.0.0 ws-uat.addthis.com
+0.0.0.0 ws.addthis.com
 0.0.0.0 www.addthis.com
 0.0.0.0 www3.addthis.com
-0.0.0.0 www-test.addthis.com
+#[addthisedge.com]
+0.0.0.0 addthisedge.com
+0.0.0.0 m.addthisedge.com
+0.0.0.0 v1.addthisedge.com
+#[addthiscdn.com]
+0.0.0.0 addthiscdn.com
+0.0.0.0 cache.addthiscdn.com
+0.0.0.0 client.addthiscdn.com
+0.0.0.0 client-uat.addthiscdn.com
+0.0.0.0 l.addthiscdn.com
+0.0.0.0 sharebar.addthiscdn.com
+0.0.0.0 www.addthiscdn.com
 #[rayjump]
 0.0.0.0 analytics.rayjump.com
 0.0.0.0 cdn-adn.rayjump.com
@@ -14035,10 +14047,6 @@
 0.0.0.0 stg-data-in.ads.heytapmobi.com
 0.0.0.0 stg-data-sg.ads.heytapmobi.com
 0.0.0.0 uapi.ads.heytapmobi.com
-#[addthisedge.com]
-0.0.0.0 addthisedge.com
-0.0.0.0 m.addthisedge.com
-0.0.0.0 v1.addthisedge.com
 #[clickbuy.bz]
 0.0.0.0 ads.clickbuy.bz
 0.0.0.0 clickbuy.bz
