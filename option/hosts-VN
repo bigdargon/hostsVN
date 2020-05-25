@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 18 May 2020 14:01 UTC+7
-# Version: 2005181401
-# Blocked: 1,384 domains
+# Last modified: 25 May 2020 16:08 UTC+7
+# Version: 2005251608
+# Blocked: 1,385 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1338,6 +1338,7 @@
 0.0.0.0 genmonet.com
 0.0.0.0 ghimc.vn
 0.0.0.0 go.vnecdn.com
+0.0.0.0 imgcdnbet.com
 0.0.0.0 interactive.tinnhanhchungkhoan.vn
 0.0.0.0 landingpagelagi.vn
 0.0.0.0 lottery.headlines.pw

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 18 May 2020 14:01 UTC+7
-# Version: 2005181401
-# Blocked: 2,452 domains
+# Last modified: 25 May 2020 16:08 UTC+7
+# Version: 2005251608
+# Blocked: 2,464 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -289,6 +289,18 @@
 0.0.0.0 x8.club
 0.0.0.0 play.x8.club
 0.0.0.0 qc.x8.club
+0.0.0.0 ric.win
+0.0.0.0 dangky.ric.win
+0.0.0.0 play.ric.win
+0.0.0.0 vic.win
+0.0.0.0 qc.vic.win
+0.0.0.0 play.vic.win
+0.0.0.0 mayclub.net
+0.0.0.0 lp.mayclub.net
+0.0.0.0 web.mayclub.net
+0.0.0.0 yo88.win
+0.0.0.0 ad.yo88.win
+0.0.0.0 play.yo88.win
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
