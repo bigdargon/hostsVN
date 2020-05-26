@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 May 2020 16:08 UTC+7
-# Version: 2005251608
-# Blocked: 19,140 domains
+# Last modified: 26 May 2020 13:50 UTC+7
+# Version: 2005261350
+# Blocked: 19,156 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12944,16 +12944,6 @@
 0 js.aaddcount.com
 0 js-ssl.aaddcount.com
 0 script.aaddcount.com
-0 adx.proadscdn.com
-0 cdn.proadscdn.com
-0 cdn5.proadscdn.com
-0 kangaroo.proadscdn.com
-0 media.proadscdn.com
-0 opt.proadscdn.com
-0 owl.proadscdn.com
-0 proadscdn.com
-0 script.proadscdn.com
-0 www.proadscdn.com
 0 api.pvmax.net
 0 cdn.pvmax.net
 0 kuasa.pvmax.net
@@ -13403,6 +13393,23 @@
 0 sentry.adthrive.com
 0 track.adthrive.com
 0 www.adthrive.com
+0 a.proads.space
+0 analytics.proads.space
+0 api.proads.space
+0 app.proads.space
+0 b.proads.space
+0 c.proads.space
+0 my.proads.space
+0 proads.space
+0 www.proads.space
+0 cdn.fatchilli.media
+0 fatchilli.media
+0 my.fatchilli.media
+0 myadplus.fatchilli.media
+0 player.fatchilli.media
+0 reports.fatchilli.media
+0 static.fatchilli.media
+0 www.fatchilli.media
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14554,6 +14561,16 @@
 0 mega1app.yeah1publishing.com
 0 www.yeah1publishing.com
 0 yeah1publishing.com
+0 adx.proadscdn.com
+0 cdn.proadscdn.com
+0 cdn5.proadscdn.com
+0 kangaroo.proadscdn.com
+0 media.proadscdn.com
+0 opt.proadscdn.com
+0 owl.proadscdn.com
+0 proadscdn.com
+0 script.proadscdn.com
+0 www.proadscdn.com
 0 ad-admin.vnay.vn
 0 ad-img.icheck.com.vn
 0 ad.24h.com.vn
@@ -14625,6 +14642,8 @@
 0 core.vnecdn.com
 0 cpx.vnecdn.com
 0 crocopop.com
+0 dc.motphim.co
+0 dc.motphim.net
 0 delecpuzz.com
 0 delivery.senvangvn.com
 0 delivery.vtcnew.com.vn
@@ -16096,7 +16115,6 @@
 0 banners.linkbuddies.com
 0 banners.passion.com
 0 banners.resultonline.com
-0 banners.sexsearch.com
 0 banners.sys-con.com
 0 banners.thomsonlocal.com
 0 banners.videosz.com
@@ -16292,6 +16310,7 @@
 0 cdn.freefacti.com
 0 cdn.freefarcy.com
 0 cdn.ravenjs.com
+0 cdn4ads.com
 0 cdnondemand.org
 0 cdnproviders.net
 0 cecash.com
@@ -16599,7 +16618,6 @@
 0 dmtracking2.alibaba.com
 0 dnads.directnic.com
 0 docksalmon.com
-0 docs.fastlane.tools
 0 domaining.in
 0 domainsponsor.com
 0 domainsteam.de
@@ -16761,7 +16779,6 @@
 0 fastbuy.biz
 0 fastclick.com
 0 fastclick.net
-0 fastlane.tools
 0 faultycanvas.com
 0 faultyfowl.com
 0 fb-promotions.com
@@ -18252,9 +18269,7 @@
 0 terrapsps.com
 0 terriblethumb.com
 0 terribleturkey.com
-0 test.com
 0 text-link-ads.com
-0 textad.sexsearch.com
 0 textads.biz
 0 textads.opera.com
 0 textlinks.com
@@ -18620,6 +18635,7 @@
 0 www.binary1.website
 0 www.binarymoney.site
 0 www.butheptesitrew.pro
+0 www.cdn4ads.com
 0 www.cdnondemand.org
 0 www.clearadnetwork.com
 0 www.clixco.in

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 25 May 2020 16:08 UTC+7
-# Version: 2005251608
-# Blocked: 2,464 domains
+# Last modified: 26 May 2020 13:50 UTC+7
+# Version: 2005261350
+# Blocked: 2,475 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -301,6 +301,19 @@
 0.0.0.0 yo88.win
 0.0.0.0 ad.yo88.win
 0.0.0.0 play.yo88.win
+0.0.0.0 macau.club
+0.0.0.0 qc.macau.club
+0.0.0.0 f2.macau.club
+0.0.0.0 f1.macau.club
+0.0.0.0 f3.macau.club
+0.0.0.0 f5.macau.club
+0.0.0.0 web.macau.club
+0.0.0.0 fa88.win
+0.0.0.0 tai.fa88.win
+0.0.0.0 dl.fa88.win
+0.0.0.0 play.fa88.win
+0.0.0.0 88vwin.com
+0.0.0.0 www.88vwin.com
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
@@ -386,7 +399,6 @@
 0.0.0.0 lucky88.win
 0.0.0.0 lucky88.uk
 0.0.0.0 m88me.com
-0.0.0.0 macau.club
 0.0.0.0 mansion88.com
 0.0.0.0 mgm.mojy999.com
 0.0.0.0 ms.388bet.com
@@ -789,7 +801,6 @@
 0.0.0.0 9club.asia
 0.0.0.0 betvision.com
 0.0.0.0 dabong247.com
-0.0.0.0 fa88.win
 0.0.0.0 fabet.app
 0.0.0.0 fabet.info
 0.0.0.0 fabet.it

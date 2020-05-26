@@ -13572,17 +13572,6 @@
 0.0.0.0 js.aaddcount.com
 0.0.0.0 js-ssl.aaddcount.com
 0.0.0.0 script.aaddcount.com
-#[proadscdn.com]
-0.0.0.0 adx.proadscdn.com
-0.0.0.0 cdn.proadscdn.com
-0.0.0.0 cdn5.proadscdn.com
-0.0.0.0 kangaroo.proadscdn.com
-0.0.0.0 media.proadscdn.com
-0.0.0.0 opt.proadscdn.com
-0.0.0.0 owl.proadscdn.com
-0.0.0.0 proadscdn.com
-0.0.0.0 script.proadscdn.com
-0.0.0.0 www.proadscdn.com
 #[pvmax.net]
 0.0.0.0 api.pvmax.net
 0.0.0.0 cdn.pvmax.net
@@ -14084,3 +14073,22 @@
 0.0.0.0 sentry.adthrive.com
 0.0.0.0 track.adthrive.com
 0.0.0.0 www.adthrive.com
+#[proads.space]
+0.0.0.0 a.proads.space
+0.0.0.0 analytics.proads.space
+0.0.0.0 api.proads.space
+0.0.0.0 app.proads.space
+0.0.0.0 b.proads.space
+0.0.0.0 c.proads.space
+0.0.0.0 my.proads.space
+0.0.0.0 proads.space
+0.0.0.0 www.proads.space
+#[fatchilli.media]
+0.0.0.0 cdn.fatchilli.media
+0.0.0.0 fatchilli.media
+0.0.0.0 my.fatchilli.media
+0.0.0.0 myadplus.fatchilli.media
+0.0.0.0 player.fatchilli.media
+0.0.0.0 reports.fatchilli.media
+0.0.0.0 static.fatchilli.media
+0.0.0.0 www.fatchilli.media

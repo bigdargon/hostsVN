@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 May 2020 16:08 UTC+7
-! Version: 2005251608
-! Blocked: 435 rules
+! Last modified: 26 May 2020 13:50 UTC+7
+! Version: 2005261350
+! Blocked: 441 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -97,6 +97,7 @@
 ||photo-ads.zaloapp.com^
 ||pinetech.vn^
 ||polyad.net^
+||proadscdn.com^
 ||pushdi.com^
 ||pushdy.com^
 ||pushdy.vn^
@@ -212,6 +213,8 @@
 ||core.vnecdn.com^
 ||cpx.vnecdn.com^
 ||crocopop.com^
+||dc.motphim.co^
+||dc.motphim.net^
 ||delecpuzz.com^
 ||delivery.senvangvn.com^
 ||delivery.vtcnew.com.vn^
@@ -357,6 +360,7 @@
 ||888b.com^
 ||888b.in^
 ||88viet.com^
+||88vwin.com^
 ||8live.com^
 ||8live.net^
 ||8live.vip^
@@ -368,6 +372,7 @@
 ||casino888vn.com^
 ||datcuoc247.com^
 ||debet.com^
+||fa88.win^
 ||fabet.com^
 ||fabetvn.com^
 ||fb88.com^
@@ -392,6 +397,7 @@
 ||m88cvf.com^
 ||m88my.com^
 ||m88vina.com^
+||macau.club^
 ||mansion66.com^
 ||mayclub.net^
 ||mibet.com^
