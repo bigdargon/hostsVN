@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 May 2020 13:50 UTC+7
-! Version: 2005261350
-! Blocked: 5,576 rules
+! Last modified: 27 May 2020 13:49 UTC+7
+! Version: 2005271349
+! Blocked: 5,577 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -599,6 +599,7 @@
 ||advertising.yahoo.com^
 ||advertnative.com^
 ||advertserve.com^
+||advgalaxy.com^
 ||adview.cn^
 ||advinci.net^
 ||adworkmedia.net^

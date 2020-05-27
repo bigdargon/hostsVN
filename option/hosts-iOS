@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 26 May 2020 13:50 UTC+7
-# Version: 2005261350
-# Blocked: 19,156 domains
+# Last modified: 27 May 2020 13:49 UTC+7
+# Version: 2005271349
+# Blocked: 19,161 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13410,6 +13410,11 @@
 0 reports.fatchilli.media
 0 static.fatchilli.media
 0 www.fatchilli.media
+0 advgalaxy.com
+0 cdn.advgalaxy.com
+0 g1.cdn.advgalaxy.com
+0 www.advgalaxy.com
+0 z.cdn.advgalaxy.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
