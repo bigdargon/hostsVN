@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 28 May 2020 09:58 UTC+7
-# Version: 2005280958
-# Blocked: 19,164 domains
+# Last modified: 28 May 2020 15:05 UTC+7
+# Version: 2005281505
+# Blocked: 19,186 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14110,6 +14110,28 @@
 0.0.0.0 g1.cdn.advgalaxy.com
 0.0.0.0 www.advgalaxy.com
 0.0.0.0 z.cdn.advgalaxy.com
+#[bestads.me]
+0.0.0.0 ads.bestads.me
+0.0.0.0 bestads.me
+0.0.0.0 data.bestads.me
+#[s4d.xyz]
+0.0.0.0 nnmo.s4d.xyz
+0.0.0.0 roots.s4d.xyz
+0.0.0.0 rvnm.s4d.xyz
+0.0.0.0 s3eds.s4d.xyz
+0.0.0.0 s4d.xyz
+#[acloudimages.com]
+0.0.0.0 acloudimages.com
+0.0.0.0 bn04.acloudimages.com
+0.0.0.0 cdn15.acloudimages.com
+0.0.0.0 cdn18.acloudimages.com
+#[vev77.com]
+0.0.0.0 capi.vev77.com
+0.0.0.0 cmsapi.vev77.com
+0.0.0.0 foto.vev77.com
+0.0.0.0 fotom.vev77.com
+0.0.0.0 gfoto.vev77.com
+0.0.0.0 vev77.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -17447,6 +17469,7 @@
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 e.apsalar.com
 0.0.0.0 e.kde.cz
+0.0.0.0 e2wysbacctt1.com
 0.0.0.0 eadexchange.com
 0.0.0.0 earnify.com
 0.0.0.0 earthquakescarf.com
@@ -17590,6 +17613,7 @@
 0.0.0.0 feed.engage.im
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
+0.0.0.0 feurl.com
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fiksu.com
 0.0.0.0 fimc.net
@@ -19451,6 +19475,7 @@
 0.0.0.0 www.eo62cocntx.com
 0.0.0.0 www.epi0tzwi.com
 0.0.0.0 www.fbcdn2.com
+0.0.0.0 www.feurl.com
 0.0.0.0 www.find-my-great-life.com
 0.0.0.0 www.fm6dz864.top
 0.0.0.0 www.galaksion.com
@@ -19538,6 +19563,7 @@
 0.0.0.0 yoggrt.com
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com
+0.0.0.0 z3dmbpl6309s.com
 0.0.0.0 z5x.net
 0.0.0.0 zangocash.com
 0.0.0.0 zanox-affiliate.de

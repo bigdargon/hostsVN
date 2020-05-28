@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 28 May 2020 09:58 UTC+7
-# Version: 2005280958
-# Blocked: 2,475 domains
+# Last modified: 28 May 2020 15:05 UTC+7
+# Version: 2005281505
+# Blocked: 2,492 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -314,6 +314,23 @@
 0.0.0.0 play.fa88.win
 0.0.0.0 88vwin.com
 0.0.0.0 www.88vwin.com
+0.0.0.0 taiv8.com
+0.0.0.0 f1.taiv8.com
+0.0.0.0 f2.taiv8.com
+0.0.0.0 f4.taiv8.com
+0.0.0.0 web.taiv8.com
+0.0.0.0 sbc31.com
+0.0.0.0 access.sbc31.com
+0.0.0.0 www.sbc31.com
+0.0.0.0 yule12888.com
+0.0.0.0 access.yule12888.com
+0.0.0.0 go.yule12888.com
+0.0.0.0 hm.yule12888.com
+0.0.0.0 mkt.yule12888.com
+0.0.0.0 notification.yule12888.com
+0.0.0.0 promotions.yule12888.com
+0.0.0.0 smart.yule12888.com
+0.0.0.0 www.yule12888.com
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com

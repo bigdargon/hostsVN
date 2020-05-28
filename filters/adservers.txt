@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 May 2020 09:58 UTC+7
-! Version: 2005280958
-! Blocked: 441 rules
+! Last modified: 28 May 2020 15:05 UTC+7
+! Version: 2005281505
+! Blocked: 444 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -414,7 +414,9 @@
 ||one88.us^
 ||one88.vn^
 ||ric.win^
+||sbc31.com^
 ||sun.win^
+||taiv8.com^
 ||thethaofb88.com^
 ||v8.club^
 ||v9bet.com^
@@ -437,6 +439,7 @@
 ||ww88club.com^
 ||x8.club^
 ||yo88.win^
+||yule12888.com^
 ||zbet.com^
 ||zo.game^
 ||celerantatters.com^
