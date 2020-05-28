@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 May 2020 13:49 UTC+7
-! Version: 2005271349
+! Last modified: 28 May 2020 09:58 UTC+7
+! Version: 2005280958
 ! Blocked: 441 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -62,6 +62,7 @@
 ||fuseplatform.net^
 ||gammaplatform.com^
 ||hbplatform.com^
+||hotngay.vn^
 ||itim.vn^
 ||klick.vn^
 ||ladipage.com^
@@ -225,7 +226,6 @@
 ||events.vungtv.com^
 ||financial-agent.headlines.pw^
 ||fptad.com^
-||game.hotngay.vn^
 ||genmonet.com^
 ||ghimc.vn^
 ||go.vnecdn.com^

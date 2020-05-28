@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 May 2020 13:49 UTC+7
-# Version: 2005271349
-# Blocked: 19,161 domains
+# Last modified: 28 May 2020 09:58 UTC+7
+# Version: 2005280958
+# Blocked: 19,164 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -15363,6 +15363,10 @@
 0.0.0.0 proadscdn.com
 0.0.0.0 script.proadscdn.com
 0.0.0.0 www.proadscdn.com
+#[hotngay.vn]
+0.0.0.0 game-static.hotngay.vn
+0.0.0.0 game.hotngay.vn
+0.0.0.0 hotngay.vn
 # --- Block adsVN ---
 0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-img.icheck.com.vn
@@ -15447,7 +15451,6 @@
 0.0.0.0 events.vungtv.com
 0.0.0.0 financial-agent.headlines.pw
 0.0.0.0 fptad.com
-0.0.0.0 game.hotngay.vn
 0.0.0.0 genmonet.com
 0.0.0.0 ghimc.vn
 0.0.0.0 go.vnecdn.com
@@ -17020,6 +17023,7 @@
 0.0.0.0 boudja.com
 0.0.0.0 bouncex.com
 0.0.0.0 box.anchorfree.net
+0.0.0.0 boyaidare.club
 0.0.0.0 bpath.com
 0.0.0.0 braincash.com
 0.0.0.0 branch.fun
