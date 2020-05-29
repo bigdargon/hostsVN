@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 29 May 2020 14:33 UTC+7
-! Version: 2005291433
-! Blocked: 5,592 rules
+! Last modified: 29 May 2020 15:14 UTC+7
+! Version: 2005291514
+! Blocked: 5,595 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -494,6 +494,7 @@
 ||adcaffe.com^
 ||adclixx.net^
 ||adcolony.com^
+||adctrl.com^
 ||addthis.com^
 ||addthiscdn.com^
 ||addthisedge.com^
@@ -724,6 +725,7 @@
 ||bitmedia.io^
 ||bitsngo.net^
 ||bizible.com^
+||bizographics.com^
 ||bj1*.online^
 ||bkrtx.com^
 ||blueseed.tv^
@@ -850,6 +852,7 @@
 ||ej1*.online^
 ||ematicsolutions.com^
 ||emxdgt.com^
+||en25.com^
 ||engageya.com^
 ||epom.com^
 ||everesttech.net^
@@ -1267,6 +1270,7 @@
 ||taplytics.com^
 ||taxel.jp^
 ||teads.tv^
+||tealiumiq.com^
 ||telemetry.microsoft.com^
 ||tenmax.io^
 ||themoneytizer.com^
@@ -2627,7 +2631,6 @@
 ||banner.wirenode.com^
 ||bannerads.de^
 ||bannerboxes.com^
-||bannercommunity.de^
 ||bannerconnect.com^
 ||bannerconnect.net^
 ||bannerexchange.cjb.net^
@@ -2736,7 +2739,6 @@
 ||birthmarkagency.com^
 ||bitads.net^
 ||bitmedianetwork.com^
-||bizographics.com^
 ||bizrate.com^
 ||blacurlik.com^
 ||blast4traffic.com^
@@ -3240,7 +3242,6 @@
 ||emonitor.takeit.cz^
 ||emrgods.com^
 ||emxdigital.com^
-||en25.com^
 ||encouragingwilderness.com^
 ||encoursejaso.site^
 ||endurableshop.com^
@@ -5285,6 +5286,7 @@
 ||analytics.swiggy.com^
 ||analytics.thevideo.me^
 ||analytics.vancms.net^
+||analytics.ziftsolutions.com^
 ||analyticsapi.bsbportal.com^
 ||anayltics.kuikr.com^
 ||anhui-attorney.com^
@@ -5527,6 +5529,7 @@
 ||sync2ad.com^
 ||t.dailymail.co.uk^
 ||tag.researchnow.com^
+||tags.tiqcdn.com^
 ||ted.dailymail.co.uk^
 ||ted.metro.co.uk^
 ||ted1.metro.co.uk^
