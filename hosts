@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 29 May 2020 15:14 UTC+7
-# Version: 2005291514
-# Blocked: 19,260 domains
+# Last modified: 29 May 2020 23:09 UTC+7
+# Version: 2005292309
+# Blocked: 19,153 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5167,105 +5167,6 @@
 0.0.0.0 jpush.io
 0.0.0.0 sis.jpush.io
 0.0.0.0 www.jpush.io
-#[imrworldwide]
-0.0.0.0 abc.imrworldwide.com
-0.0.0.0 cdn-gl.imrworldwide.com
-0.0.0.0 cloudapi.imrworldwide.com
-0.0.0.0 cm.imrworldwide.com
-0.0.0.0 cricinfo-au.imrworldwide.com
-0.0.0.0 dar.imrworldwide.com
-0.0.0.0 devfw.imrworldwide.com
-0.0.0.0 export02-au.imrworldwide.com
-0.0.0.0 fe1-au.imrworldwide.com
-0.0.0.0 fe1-fi.imrworldwide.com
-0.0.0.0 fe1-it.imrworldwide.com
-0.0.0.0 fe2-au.imrworldwide.com
-0.0.0.0 fe3-au.imrworldwide.com
-0.0.0.0 fe3-gc.imrworldwide.com
-0.0.0.0 fe3-uk.imrworldwide.com
-0.0.0.0 fe4-au.imrworldwide.com
-0.0.0.0 fe4-uk.imrworldwide.com
-0.0.0.0 fe-au.imrworldwide.com
-0.0.0.0 imrworldwide.com
-0.0.0.0 lycos-eu.imrworldwide.com
-0.0.0.0 news.imrworldwide.com
-0.0.0.0 ninemsn.imrworldwide.com
-0.0.0.0 nt-es.imrworldwide.com
-0.0.0.0 ozemail.imrworldwide.com
-0.0.0.0 piq.imrworldwide.com
-0.0.0.0 priv-policy.imrworldwide.com
-0.0.0.0 pyk.imrworldwide.com
-0.0.0.0 rc-au.imrworldwide.com
-0.0.0.0 safe-es.imrworldwide.com
-0.0.0.0 seccdn-gl.imrworldwide.com
-0.0.0.0 secure.imrworldwide.com
-0.0.0.0 secure-asia.imrworldwide.com
-0.0.0.0 secure-au.imrworldwide.com
-0.0.0.0 secure-cert.imrworldwide.com
-0.0.0.0 secure-chn.imrworldwide.com
-0.0.0.0 secure-dcr.imrworldwide.com
-0.0.0.0 secure-dcr-cert.imrworldwide.com
-0.0.0.0 secure-dk.imrworldwide.com
-0.0.0.0 secure-drm.imrworldwide.com
-0.0.0.0 secure-eu.imrworldwide.com
-0.0.0.0 secure-gg.imrworldwide.com
-0.0.0.0 secure-gl.imrworldwide.com
-0.0.0.0 secure-it.imrworldwide.com
-0.0.0.0 secure-jp.imrworldwide.com
-0.0.0.0 secure-nz.imrworldwide.com
-0.0.0.0 secure-ngd.imrworldwide.com
-0.0.0.0 secure-proxy.imrworldwide.com
-0.0.0.0 secure-sg.imrworldwide.com
-0.0.0.0 secure-uat2.imrworldwide.com
-0.0.0.0 secure-uk.imrworldwide.com
-0.0.0.0 secure-us.imrworldwide.com
-0.0.0.0 secure-wbw.imrworldwide.com
-0.0.0.0 secure-yt.imrworldwide.com
-0.0.0.0 secure-za.imrworldwide.com
-0.0.0.0 server-au.imrworldwide.com
-0.0.0.0 server-br.imrworldwide.com
-0.0.0.0 server-by.imrworldwide.com
-0.0.0.0 server-ca.imrworldwide.com
-0.0.0.0 server-ch.imrworldwide.com
-0.0.0.0 server-de.imrworldwide.com
-0.0.0.0 server-dk.imrworldwide.com
-0.0.0.0 server-ee.imrworldwide.com
-0.0.0.0 server-es.imrworldwide.com
-0.0.0.0 server-fi.imrworldwide.com
-0.0.0.0 server-fr.imrworldwide.com
-0.0.0.0 server-g1-au.imrworldwide.com
-0.0.0.0 server-gr.imrworldwide.com
-0.0.0.0 server-hk.imrworldwide.com
-0.0.0.0 server-hu.imrworldwide.com
-0.0.0.0 server-it.imrworldwide.com
-0.0.0.0 server-jp.imrworldwide.com
-0.0.0.0 server-kr.imrworldwide.com
-0.0.0.0 server-lt.imrworldwide.com
-0.0.0.0 server-lv.imrworldwide.com
-0.0.0.0 server-my.imrworldwide.com
-0.0.0.0 server-nl.imrworldwide.com
-0.0.0.0 server-no.imrworldwide.com
-0.0.0.0 server-nz.imrworldwide.com
-0.0.0.0 server-oslo.imrworldwide.com
-0.0.0.0 server-pl.imrworldwide.com
-0.0.0.0 server-ph.imrworldwide.com
-0.0.0.0 server-ru.imrworldwide.com
-0.0.0.0 server-se.imrworldwide.com
-0.0.0.0 server-sg.imrworldwide.com
-0.0.0.0 server-stockh.imrworldwide.com
-0.0.0.0 server-th.imrworldwide.com
-0.0.0.0 server-tr.imrworldwide.com
-0.0.0.0 server-ua.imrworldwide.com
-0.0.0.0 server-uk.imrworldwide.com
-0.0.0.0 server-us.imrworldwide.com
-0.0.0.0 server-ve.imrworldwide.com
-0.0.0.0 server-za.imrworldwide.com
-0.0.0.0 static.imrworldwide.com
-0.0.0.0 survey1-au.imrworldwide.com
-0.0.0.0 telstra.imrworldwide.com
-0.0.0.0 uaid-linkage.imrworldwide.com
-0.0.0.0 www.imrworldwide.com
-0.0.0.0 www.imrworldwide.com.au
 #[ionicframework]
 0.0.0.0 ionicframework.com
 0.0.0.0 beta.ionicframework.com
@@ -15851,7 +15752,6 @@
 0.0.0.0 ad.rambler.ru
 0.0.0.0 ad.reunion.com
 0.0.0.0 ad.scanmedios.com
-0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 ad.setn.com
 0.0.0.0 ad.seznam.cz
 0.0.0.0 ad.simgames.net
@@ -15883,7 +15783,6 @@
 0.0.0.0 ad1.emediate.dk
 0.0.0.0 ad1.emule-project.org
 0.0.0.0 ad1.kde.cz
-0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad120m.com
 0.0.0.0 ad127m.com
 0.0.0.0 ad131m.com
@@ -15898,7 +15797,6 @@
 0.0.0.0 ad2flash.com
 0.0.0.0 ad2games.com
 0.0.0.0 ad3.iinfo.cz
-0.0.0.0 ad3.pamedia.com.au
 0.0.0.0 ad3.xrea.com
 0.0.0.0 ad4mat.com
 0.0.0.0 ad4mat.de
@@ -16146,7 +16044,6 @@
 0.0.0.0 ads.berlinonline.de
 0.0.0.0 ads.betanews.com
 0.0.0.0 ads.betfair.com
-0.0.0.0 ads.betfair.com.au
 0.0.0.0 ads.bigchurch.com
 0.0.0.0 ads.bigfoot.com
 0.0.0.0 ads.billiton.de
@@ -16223,7 +16120,6 @@
 0.0.0.0 ads.expedia.com
 0.0.0.0 ads.ezboard.com
 0.0.0.0 ads.factorymedia.com
-0.0.0.0 ads.fairfax.com.au
 0.0.0.0 ads.fasttrack-ignite.com
 0.0.0.0 ads.faxo.com
 0.0.0.0 ads.ferianc.com
@@ -16343,7 +16239,6 @@
 0.0.0.0 ads.newsint.co.uk
 0.0.0.0 ads.newsquest.co.uk
 0.0.0.0 ads.newtention.net
-0.0.0.0 ads.ninemsn.com.au
 0.0.0.0 ads.nj.com
 0.0.0.0 ads.nola.com
 0.0.0.0 ads.nordichardware.com
@@ -16360,7 +16255,6 @@
 0.0.0.0 ads.oneplace.com
 0.0.0.0 ads.ontarget.mobi
 0.0.0.0 ads.ookla.com
-0.0.0.0 ads.optusnet.com.au
 0.0.0.0 ads.outpersonals.com
 0.0.0.0 ads.p161.net
 0.0.0.0 ads.passion.com
@@ -16556,7 +16450,6 @@
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.mgsex.com
 0.0.0.0 adserver.motorpresse.de
-0.0.0.0 adserver.news.com.au
 0.0.0.0 adserver.ngz-network.de
 0.0.0.0 adserver.nydailynews.com
 0.0.0.0 adserver.o2.pl
@@ -17692,8 +17585,6 @@
 0.0.0.0 feed.engage.im
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
-0.0.0.0 feurl.com
-0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fiksu.com
 0.0.0.0 fimc.net
 0.0.0.0 fimserve.com
@@ -17934,6 +17825,7 @@
 0.0.0.0 impressionmedia.cz
 0.0.0.0 impressionz.co.uk
 0.0.0.0 impulsehands.com
+0.0.0.0 imrworldwide.com
 0.0.0.0 inabsolor.com
 0.0.0.0 inaccused.com
 0.0.0.0 inboxdollars.com
@@ -18877,7 +18769,6 @@
 0.0.0.0 senddroid.com
 0.0.0.0 sendmepixel.com
 0.0.0.0 sensenetworks.com
-0.0.0.0 sensismediasmart.com.au
 0.0.0.0 seo4india.com
 0.0.0.0 separatesilver.com
 0.0.0.0 serconmp.com
@@ -19554,7 +19445,6 @@
 0.0.0.0 www.eo62cocntx.com
 0.0.0.0 www.epi0tzwi.com
 0.0.0.0 www.fbcdn2.com
-0.0.0.0 www.feurl.com
 0.0.0.0 www.find-my-great-life.com
 0.0.0.0 www.fm6dz864.top
 0.0.0.0 www.galaksion.com
@@ -19812,6 +19702,7 @@
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geoip.tnt-ea.com
 0.0.0.0 getexceptional.com
+0.0.0.0 glanceguide.com
 0.0.0.0 globalwebindex.net
 0.0.0.0 go.ad1data.com
 0.0.0.0 gotoip55.com
@@ -19996,6 +19887,7 @@
 0.0.0.0 vectaury.io
 0.0.0.0 vi-serve.com
 0.0.0.0 vilagnomad.com
+0.0.0.0 vizu.com
 0.0.0.0 w3counter.com
 0.0.0.0 wa.metro.co.uk
 0.0.0.0 wc-tracking.lavasoft.com
