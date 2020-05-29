@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 28 May 2020 15:05 UTC+7
-! Version: 2005281505
-! Blocked: 5,588 domains
+! Last modified: 29 May 2020 14:33 UTC+7
+! Version: 2005291433
+! Blocked: 5,592 domains
 ! The section containing the list contains all ad networks and tracking
 !
 123c.vn
@@ -1261,6 +1261,7 @@ taboola.com
 tanx.com
 tapad.com
 tapjoy.com
+tapjoyads.com
 taplytics.com
 taxel.jp
 teads.tv
@@ -1312,6 +1313,8 @@ viglink.com
 viruspro.pro
 vntsm.com
 voicefive.com
+voodoo-ads.io
+voodoo-analytics.io
 vortex.data.microsoft.com
 vserv.mobi
 vungle.com
@@ -2480,6 +2483,7 @@ anxiousapples.com
 apathetictheory.com
 apex-ad.com
 aphycolourses.info
+api-gdpr.voodoo-tech.io
 api.52youtu.com
 api.adserver-e7.com
 api.ampiri.com
@@ -3070,6 +3074,7 @@ crispmedia.com
 crispwireless.com
 critictruck.com
 croissed.info
+crosspromo.voodoo.io
 crowdgravity.com
 crownclam.com
 crownrecluse.com
@@ -5537,7 +5542,6 @@ track.upcpi.com
 trackcmp.net
 tracker.mtrtb.com
 tracker.vgame.us
-trackers.voodoo-analytics.io
 trackersimulator.org
 tracking-thirdparty.i2w.io
 tracking.i2w.io

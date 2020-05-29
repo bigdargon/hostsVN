@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 28 May 2020 15:05 UTC+7
-# Version: 2005281505
-# Blocked: 19,186 domains
+# Last modified: 29 May 2020 14:33 UTC+7
+# Version: 2005291433
+# Blocked: 19,205 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14132,6 +14132,26 @@
 0.0.0.0 fotom.vev77.com
 0.0.0.0 gfoto.vev77.com
 0.0.0.0 vev77.com
+#[voodoo-ads.io]
+0.0.0.0 addelivery-engine-api.voodoo-ads.io
+0.0.0.0 airflow.voodoo-ads.io
+0.0.0.0 campaign-assets.voodoo-ads.io
+0.0.0.0 data-collector.voodoo-ads.io
+0.0.0.0 engine.voodoo-ads.io
+0.0.0.0 front-logs.voodoo-ads.io
+0.0.0.0 kmonitoring.voodoo-ads.io
+0.0.0.0 krancher.voodoo-ads.io
+0.0.0.0 monitoring.voodoo-ads.io
+0.0.0.0 promfederation.voodoo-ads.io
+0.0.0.0 rancher.voodoo-ads.io
+0.0.0.0 splash-screen.voodoo-ads.io
+0.0.0.0 splash-screen-data.voodoo-ads.io
+0.0.0.0 subscription-project-api.voodoo-ads.io
+0.0.0.0 voodoo-ads.io
+#[voodoo-analytics.io]
+0.0.0.0 trackers.voodoo-analytics.io
+0.0.0.0 voodoo-analytics.io
+0.0.0.0 www.voodoo-analytics.io
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -16760,6 +16780,7 @@
 0.0.0.0 apathetictheory.com
 0.0.0.0 apex-ad.com
 0.0.0.0 aphycolourses.info
+0.0.0.0 api-gdpr.voodoo-tech.io
 0.0.0.0 api.52youtu.com
 0.0.0.0 api.adserver-e7.com
 0.0.0.0 api.ampiri.com
@@ -17349,6 +17370,7 @@
 0.0.0.0 crispwireless.com
 0.0.0.0 critictruck.com
 0.0.0.0 croissed.info
+0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 crowdgravity.com
 0.0.0.0 crownclam.com
 0.0.0.0 crownrecluse.com
@@ -19898,7 +19920,6 @@
 0.0.0.0 trackcmp.net
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.vgame.us
-0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 trackersimulator.org
 0.0.0.0 tracking-thirdparty.i2w.io
 0.0.0.0 tracking.i2w.io

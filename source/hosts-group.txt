@@ -14120,3 +14120,23 @@
 0.0.0.0 fotom.vev77.com
 0.0.0.0 gfoto.vev77.com
 0.0.0.0 vev77.com
+#[voodoo-ads.io]
+0.0.0.0 addelivery-engine-api.voodoo-ads.io
+0.0.0.0 airflow.voodoo-ads.io
+0.0.0.0 campaign-assets.voodoo-ads.io
+0.0.0.0 data-collector.voodoo-ads.io
+0.0.0.0 engine.voodoo-ads.io
+0.0.0.0 front-logs.voodoo-ads.io
+0.0.0.0 kmonitoring.voodoo-ads.io
+0.0.0.0 krancher.voodoo-ads.io
+0.0.0.0 monitoring.voodoo-ads.io
+0.0.0.0 promfederation.voodoo-ads.io
+0.0.0.0 rancher.voodoo-ads.io
+0.0.0.0 splash-screen.voodoo-ads.io
+0.0.0.0 splash-screen-data.voodoo-ads.io
+0.0.0.0 subscription-project-api.voodoo-ads.io
+0.0.0.0 voodoo-ads.io
+#[voodoo-analytics.io]
+0.0.0.0 trackers.voodoo-analytics.io
+0.0.0.0 voodoo-analytics.io
+0.0.0.0 www.voodoo-analytics.io
