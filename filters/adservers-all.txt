@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 29 May 2020 23:09 UTC+7
-! Version: 2005292309
-! Blocked: 5,586 rules
+! Last modified: 30 May 2020 20:43 UTC+7
+! Version: 2005302043
+! Blocked: 5,585 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1093,7 +1093,6 @@
 ||o-s.io^
 ||o333o.com^
 ||objc.top^
-||ocsp.apple.com^
 ||odc.starwave.com^
 ||omtrdc.net^
 ||onespot-tracking.herokuapp.com^

@@ -1,7 +1,5 @@
 # --- Group block ---
 #[apple]
-0.0.0.0 ocsp.apple.com
-0.0.0.0 www.ocsp.apple.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 banners.itunes.apple.com
 #[iadsdk.apple.com]

@@ -87,8 +87,6 @@ cat tmp/title-config-surge.tmp tmp/adservers-config.tmp > option/hostsVN.conf
 echo "Creating block OTA file..."
 cat source/OTA.txt | grep -v '!' | awk '{print "HOST-SUFFIX,"$1",REJECT"}' > option/hostsVN-quantumult-OTA.conf
 cat source/OTA.txt | grep -v '!' | awk '{print "DOMAIN-SUFFIX,"$1}' > option/hostsVN-surge-OTA.conf
-PACJS=$(cat source/OTA.txt | grep -v '!' | awk -F'\n' '{if(NR == 1) {printf "\""$1"\":1"} else {printf ",\""$1"\":1"}}')
-sed -e "s/!_pac_js_/$PACJS/g" tmp/title-pac-js.txt > option/hostsVN-OTA-PAC.js
 
 # remove tmp file
 rm -rf tmp/*.tmp
