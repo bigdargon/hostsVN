@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 30 May 2020 20:43 UTC+7
-! Version: 2005302043
-! Blocked: 5,585 rules
+! Last modified: 31 May 2020 22:10 UTC+7
+! Version: 2005312210
+! Blocked: 5,594 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -354,7 +354,9 @@
 ||11bet.com^
 ||11bet.net^
 ||11bet.win^
+||12b99.com^
 ||1xbetvn.com^
+||388bet.top^
 ||388bet.vip^
 ||520xiaojin.com^
 ||888b.com^
@@ -374,6 +376,7 @@
 ||debet.com^
 ||fa88.win^
 ||fabet.com^
+||fabet.vip^
 ||fabetvn.com^
 ||fb88.com^
 ||fb88club.com^
@@ -382,6 +385,7 @@
 ||fb88live.com^
 ||fb88sports.com^
 ||five88.com^
+||five88.net^
 ||gdwbetvn888.com^
 ||gdwviet.com^
 ||go88.com^
@@ -393,6 +397,7 @@
 ||lode88.vip^
 ||lucky88.com^
 ||lucky88.net^
+||lucky88.win^
 ||m883d.com^
 ||m88cvf.com^
 ||m88my.com^
@@ -402,6 +407,7 @@
 ||mayclub.net^
 ||mibet.com^
 ||mibet.mobi^
+||mibet.win^
 ||mibet88.com^
 ||ms3388.com^
 ||ms88asia.com^
@@ -413,6 +419,7 @@
 ||one88.fun^
 ||one88.us^
 ||one88.vn^
+||oneday88.com^
 ||ric.win^
 ||sbc31.com^
 ||sun.win^
@@ -441,6 +448,7 @@
 ||yo88.win^
 ||yule12888.com^
 ||zbet.com^
+||zbet.vn^
 ||zo.game^
 ||celerantatters.com^
 ||fuckbookvietnam.com^
@@ -3244,6 +3252,7 @@
 ||ensighten.com^
 ||entercasino.com^
 ||enthusiasticdad.com^
+||entobservic.info^
 ||enviousthread.com^
 ||eo62cocntx.com^
 ||epi0tzwi.com^
@@ -5314,6 +5323,7 @@
 ||cdn.promotionengine.com^
 ||cdn.zarget.com^
 ||cdnstatic.geo.dmcdn.net^
+||cedexis.com^
 ||clerrrep.com^
 ||client-analytics.braintreegateway.com^
 ||cmp.dmgmediaprivacy.co.uk^
@@ -5513,7 +5523,6 @@
 ||statsforads.com^
 ||stkjw.net^
 ||summerhamster.com^
-||supercell.net^
 ||suriflowers.com^
 ||sync2ad.com^
 ||t.dailymail.co.uk^

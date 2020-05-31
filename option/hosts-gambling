@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 30 May 2020 20:43 UTC+7
-# Version: 2005302043
-# Blocked: 2,492 domains
+# Last modified: 31 May 2020 22:10 UTC+7
+# Version: 2005312210
+# Blocked: 2,520 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -209,7 +209,20 @@
 0.0.0.0 m.viva88.com
 0.0.0.0 www.viva88.com
 0.0.0.0 thethaofb88.com
+0.0.0.0 bongda.thethaofb88.com
+0.0.0.0 cado.thethaofb88.com
+0.0.0.0 cuocbong.thethaofb88.com
+0.0.0.0 dabanh.thethaofb88.com
+0.0.0.0 dabong.thethaofb88.com
+0.0.0.0 dangky.thethaofb88.com
+0.0.0.0 datcuoc.thethaofb88.com
+0.0.0.0 keobong.thethaofb88.com
+0.0.0.0 keocuoc.thethaofb88.com
+0.0.0.0 tienve.thethaofb88.com
+0.0.0.0 tipkeo.thethaofb88.com
+0.0.0.0 www.thethaofb88.com
 0.0.0.0 fb88sports.com
+0.0.0.0 www.fb88sports.com
 0.0.0.0 fabetvn.com
 0.0.0.0 img.fabetvn.com
 0.0.0.0 static.fabetvn.com
@@ -331,6 +344,34 @@
 0.0.0.0 promotions.yule12888.com
 0.0.0.0 smart.yule12888.com
 0.0.0.0 www.yule12888.com
+0.0.0.0 12b99.com
+0.0.0.0 alb.12b99.com
+0.0.0.0 apiproxy.12b99.com
+0.0.0.0 maap.12b99.com
+0.0.0.0 piwik.12b99.com
+0.0.0.0 www.12b99.com
+0.0.0.0 fabet.vip
+0.0.0.0 hm.fabet.vip
+0.0.0.0 img.fabet.vip
+0.0.0.0 static.fabet.vip
+0.0.0.0 tracking.fabet.vip
+0.0.0.0 zbet.vn
+0.0.0.0 ismart.zbet.vn
+0.0.0.0 tracking.zbet.vn
+0.0.0.0 www.zbet.vn
+0.0.0.0 z1.zbet.vn
+0.0.0.0 z2.zbet.vn
+0.0.0.0 z3.zbet.vn
+0.0.0.0 mibet.win
+0.0.0.0 m.mibet.win
+0.0.0.0 388bet.top
+0.0.0.0 m.388bet.top
+0.0.0.0 ms.388bet.top
+0.0.0.0 s.388bet.top
+0.0.0.0 www.388bet.top
+0.0.0.0 lucky88.win
+0.0.0.0 img.lucky88.win
+0.0.0.0 m.lucky88.win
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
@@ -365,10 +406,8 @@
 0.0.0.0 bong8899vn.com
 0.0.0.0 bong99.fun
 0.0.0.0 bongda.gamefb88.com
-0.0.0.0 bongda.thethaofb88.com
 0.0.0.0 cacuoc.gamefb88.com
 0.0.0.0 cacuoc24.net
-0.0.0.0 cado.thethaofb88.com
 0.0.0.0 camquit.com
 0.0.0.0 club.gamefb88.com
 0.0.0.0 club.sbobet.com
@@ -376,15 +415,10 @@
 0.0.0.0 controls.gamefb88.com
 0.0.0.0 cs.lucky88.net
 0.0.0.0 cuocbong.gamefb88.com
-0.0.0.0 cuocbong.thethaofb88.com
 0.0.0.0 dabanh.gamefb88.com
-0.0.0.0 dabanh.thethaofb88.com
 0.0.0.0 dabong.gamefb88.com
-0.0.0.0 dabong.thethaofb88.com
 0.0.0.0 dangky.gamefb88.com
-0.0.0.0 dangky.thethaofb88.com
 0.0.0.0 datcuoc.gamefb88.com
-0.0.0.0 datcuoc.thethaofb88.com
 0.0.0.0 d1.debet.com
 0.0.0.0 d3.debet.com
 0.0.0.0 dev.debet.com
@@ -404,16 +438,13 @@
 0.0.0.0 ibet789.com
 0.0.0.0 ibet789.net
 0.0.0.0 jp.lucky88.net
-0.0.0.0 keobong.thethaofb88.com
 0.0.0.0 keocuoc.gamefb88.com
-0.0.0.0 keocuoc.thethaofb88.com
 0.0.0.0 keotip.gamefb88.com
 0.0.0.0 koi.gamefb88.com
 0.0.0.0 live.gamefb88.com
 0.0.0.0 live1.7msport.com
 0.0.0.0 lode88.win
 0.0.0.0 longmirror.com
-0.0.0.0 lucky88.win
 0.0.0.0 lucky88.uk
 0.0.0.0 m88me.com
 0.0.0.0 mansion88.com
@@ -428,8 +459,6 @@
 0.0.0.0 spin.gamefb88.com
 0.0.0.0 spins.gamefb88.com
 0.0.0.0 sports.sbobet.com
-0.0.0.0 tienve.thethaofb88.com
-0.0.0.0 tipkeo.thethaofb88.com
 0.0.0.0 th.lucky88.net
 0.0.0.0 thethao.gamefb88.com
 0.0.0.0 thethao66.gamefb88.com
@@ -438,10 +467,19 @@
 0.0.0.0 win.gamefb88.com
 0.0.0.0 wins.gamefb88.com
 0.0.0.0 www.gamefb88.com
-0.0.0.0 www.thethaofb88.com
-0.0.0.0 mibet.win
 0.0.0.0 mibet88.fun
 0.0.0.0 lucky88.online
+0.0.0.0 five88.net
+0.0.0.0 affiliate.five88.net
+0.0.0.0 f3.five88.net
+0.0.0.0 m-xs.five88.net
+0.0.0.0 m.five88.net
+0.0.0.0 static.five88.net
+0.0.0.0 xs.five88.net
+0.0.0.0 oneday88.com
+0.0.0.0 oaffbo.oneday88.com
+0.0.0.0 ocdn.oneday88.com
+0.0.0.0 ocrm.oneday88.com
 #https://github.com/bigdargon/hostsVN/issues/152#issuecomment-574491241
 0.0.0.0 138.com
 0.0.0.0 138fc.co
@@ -457,7 +495,6 @@
 0.0.0.0 20080088.com
 0.0.0.0 238bet.com
 0.0.0.0 365-818.com
-0.0.0.0 388bet.top
 0.0.0.0 3in1bet.com
 0.0.0.0 51xiaojin.com
 0.0.0.0 520590.com
@@ -613,12 +650,6 @@
 0.0.0.0 xlzolmelli.top
 0.0.0.0 xoso889.com
 0.0.0.0 zalagam.net
-0.0.0.0 zbet.vn
-0.0.0.0 ismart.zbet.vn
-0.0.0.0 www.zbet.vn
-0.0.0.0 z3.zbet.vn
-0.0.0.0 z2.zbet.vn
-0.0.0.0 z1.zbet.vn
 0.0.0.0 zeanballthai.com
 #https://github.com/bigdargon/hostsVN/issues/152#issuecomment-581283866
 0.0.0.0 10010688.com
@@ -823,13 +854,11 @@
 0.0.0.0 fabet.it
 0.0.0.0 fabet.live
 0.0.0.0 fabet.pl
-0.0.0.0 fabet.vip
 0.0.0.0 fabet.win
 0.0.0.0 five88.co
 0.0.0.0 five88.info
 0.0.0.0 five88.me
 0.0.0.0 five88.mobi
-0.0.0.0 five88.net
 0.0.0.0 go88.app
 0.0.0.0 go88.biz
 0.0.0.0 go88.buzz
@@ -897,7 +926,6 @@
 0.0.0.0 vwinnow.com
 0.0.0.0 www.join-sbo.com
 0.0.0.0 yo88.icu
-0.0.0.0 yo88.win
 0.0.0.0 zbet.com.vn
 0.0.0.0 zbet.fun
 0.0.0.0 zbet.win
