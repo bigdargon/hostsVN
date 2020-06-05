@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 31 May 2020 22:10 UTC+7
-# Version: 2005312210
+# Last modified: 05 Jun 2020 11:08 UTC+7
+# Version: 2006051108
 # Blocked: 19,153 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -15370,6 +15370,7 @@
 0.0.0.0 game.hotngay.vn
 0.0.0.0 hotngay.vn
 # --- Block adsVN ---
+0.0.0.0 703531862.vws.vegacdn.vn
 0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-img.icheck.com.vn
 0.0.0.0 ad.24h.com.vn
@@ -15471,6 +15472,7 @@
 0.0.0.0 ox1.vietstock.vn
 0.0.0.0 phimmedia03.com
 0.0.0.0 polyad.galaxypub.vn
+0.0.0.0 qc.designervn.net
 0.0.0.0 qc.yan.vn
 0.0.0.0 quangcao.24h.com.vn
 0.0.0.0 quangcao.baovannghe.com.vn
@@ -19819,8 +19821,6 @@
 0.0.0.0 sam4m.com
 0.0.0.0 saspreview.com
 0.0.0.0 sc-static.net
-0.0.0.0 schibsted.com
-0.0.0.0 schibsted.io
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 showbiz.owndata.network
 0.0.0.0 si.dailymail.co.uk

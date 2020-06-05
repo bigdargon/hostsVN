@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 31 May 2020 22:10 UTC+7
-! Version: 2005312210
-! Blocked: 452 rules
+! Last modified: 05 Jun 2020 11:08 UTC+7
+! Version: 2006051108
+! Blocked: 458 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -144,6 +144,7 @@
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||703531862.vws.vegacdn.vn^
 ||ad-admin.vnay.vn^
 ||ad-img.icheck.com.vn^
 ||ad.24h.com.vn^
@@ -243,6 +244,7 @@
 ||ox1.vietstock.vn^
 ||phimmedia03.com^
 ||polyad.galaxypub.vn^
+||qc.designervn.net^
 ||qc.yan.vn^
 ||quangcao.24h.com.vn^
 ||quangcao.baovannghe.com.vn^
@@ -359,11 +361,13 @@
 ||388bet.top^
 ||388bet.vip^
 ||520xiaojin.com^
+||789.club^
 ||888b.com^
 ||888b.in^
 ||88viet.com^
 ||88vwin.com^
 ||8live.com^
+||8live.fun^
 ||8live.net^
 ||8live.vip^
 ||8livevn.com^
@@ -371,6 +375,7 @@
 ||betvietnam.info^
 ||bong88net.com^
 ||bong99.com^
+||bong99.fun^
 ||casino888vn.com^
 ||datcuoc247.com^
 ||debet.com^
@@ -425,6 +430,7 @@
 ||sun.win^
 ||taiv8.com^
 ||thethaofb88.com^
+||top88.fun^
 ||v8.club^
 ||v9bet.com^
 ||vic.win^
