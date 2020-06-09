@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Jun 2020 11:08 UTC+7
-# Version: 2006051108
-# Blocked: 19,153 domains
+# Last modified: 09 Jun 2020 13:55 UTC+7
+# Version: 2006091355
+# Blocked: 19,178 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4627,17 +4627,6 @@
 0 dpmsrv.com
 0 px.dpmsrv.com
 0 s.dpmsrv.com
-0 a.fqtag.com
-0 c.fqtag.com
-0 cdn.fqtag.com
-0 fqtag.com
-0 legacy.fqtag.com
-0 new.fqtag.com
-0 prebid.fqtag.com
-0 query.fqtag.com
-0 s.fqtag.com
-0 testle.fqtag.com
-0 www.fqtag.com
 0 ads.fidelity-media.com
 0 fidelity-media.com
 0 hb.fidelity-media.com
@@ -13408,6 +13397,38 @@
 0 uconnect.tealiumiq.com
 0 visitor-service.tealiumiq.com
 0 www.tealiumiq.com
+0 adhelicopter.club
+0 trk.adhelicopter.club
+0 www.adhelicopter.club
+0 a.fqtag.com
+0 aux.fqtag.com
+0 b.fqtag.com
+0 c.fqtag.com
+0 cdn.fqtag.com
+0 fqtag.com
+0 legacy.fqtag.com
+0 new.fqtag.com
+0 prebid.fqtag.com
+0 query.fqtag.com
+0 s.fqtag.com
+0 testle.fqtag.com
+0 www.fqtag.com
+0 bt.cheqzone.com
+0 cheqzone.com
+0 duuzseb2b7-jp.cheqzone.com
+0 invocation.cheqzone.com
+0 ingame.cheqzone.com
+0 ob.cheqzone.com
+0 obs.cheqzone.com
+0 obstaging.cheqzone.com
+0 pixel2.cheqzone.com
+0 s2.cheqzone.com
+0 s3.cheqzone.com
+0 serve2.cheqzone.com
+0 serve-static.cheqzone.com
+0 stagingserve3.cheqzone.com
+0 systran.cheqzone.com
+0 testcady.cheqzone.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14746,6 +14767,7 @@
 0 log.giaoduc.net.vn
 0 log.infonet.vn
 0 log.kienthuc.net.vn
+0 log.ngaynay.vn
 0 log.sggp.org.vn
 0 log.tapchitaichinh.vn
 0 log.thanhnien.vn
@@ -14776,6 +14798,7 @@
 0 sv-api-event.headlines.pw
 0 thongke.24h.com.vn
 0 thongke.baotintuc.vn
+0 thongke99.baogiaothong.vn
 0 track-srv.vietnamnet.vn
 0 track.accesstrade.vn
 0 track.icheck.com.vn
@@ -16442,6 +16465,7 @@
 0 concertads-configs.vox-cdn.com
 0 confirmed-profits.com
 0 connect.scroll.com
+0 connection1safety.com
 0 connexity.net
 0 connextra.com
 0 consciouscabbage.com
@@ -17565,6 +17589,7 @@
 0 otto-images.developershed.com
 0 ousseventi.info
 0 out-there-media.com
+0 outtimburrtor.com
 0 overture.com
 0 owebmoney.ru
 0 owlsr.us

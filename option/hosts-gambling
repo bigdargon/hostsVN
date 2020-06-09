@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 05 Jun 2020 11:08 UTC+7
-# Version: 2006051108
-# Blocked: 2,533 domains
+# Last modified: 09 Jun 2020 13:55 UTC+7
+# Version: 2006091355
+# Blocked: 2,541 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -385,6 +385,14 @@
 0.0.0.0 8live.fun
 0.0.0.0 m.8live.fun
 0.0.0.0 www.8live.fun
+0.0.0.0 tai789.net
+0.0.0.0 www.tai789.net
+0.0.0.0 big88.one
+0.0.0.0 www.big88.one
+0.0.0.0 top88.club
+0.0.0.0 qc.top88.club
+0.0.0.0 play.top88.club
+0.0.0.0 www.top88.club
 # --- Block other gameblingVN ---
 0.0.0.0 027copy.com
 0.0.0.0 www.027copy.com

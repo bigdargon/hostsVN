@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Jun 2020 11:08 UTC+7
-! Version: 2006051108
-! Blocked: 5,599 rules
+! Last modified: 09 Jun 2020 13:55 UTC+7
+! Version: 2006091355
+! Blocked: 5,608 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -303,6 +303,7 @@
 ||log.giaoduc.net.vn^
 ||log.infonet.vn^
 ||log.kienthuc.net.vn^
+||log.ngaynay.vn^
 ||log.sggp.org.vn^
 ||log.tapchitaichinh.vn^
 ||log.thanhnien.vn^
@@ -333,6 +334,7 @@
 ||sv-api-event.headlines.pw^
 ||thongke.24h.com.vn^
 ||thongke.baotintuc.vn^
+||thongke99.baogiaothong.vn^
 ||track-srv.vietnamnet.vn^
 ||track.accesstrade.vn^
 ||track.icheck.com.vn^
@@ -373,6 +375,7 @@
 ||8livevn.com^
 ||ae888.com^
 ||betvietnam.info^
+||big88.one^
 ||bong88net.com^
 ||bong99.com^
 ||bong99.fun^
@@ -428,8 +431,10 @@
 ||ric.win^
 ||sbc31.com^
 ||sun.win^
+||tai789.net^
 ||taiv8.com^
 ||thethaofb88.com^
+||top88.club^
 ||top88.fun^
 ||v8.club^
 ||v9bet.com^
@@ -521,6 +526,7 @@
 ||adgrx.com^
 ||adhacker.online^
 ||adhaven.com^
+||adhelicopter.club^
 ||adhigh.net^
 ||adimages.go.com^
 ||adinfuse.com^
@@ -769,6 +775,7 @@
 ||chartbeat.com^
 ||chartbeat.net^
 ||chartboost.com^
+||cheqzone.com^
 ||chitika.com^
 ||chocolateplatform.com^
 ||cignal.io^
@@ -3003,6 +3010,7 @@
 ||concertads-configs.vox-cdn.com^
 ||confirmed-profits.com^
 ||connect.scroll.com^
+||connection1safety.com^
 ||connexity.net^
 ||connextra.com^
 ||consciouscabbage.com^
@@ -4129,6 +4137,7 @@
 ||otto-images.developershed.com^
 ||ousseventi.info^
 ||out-there-media.com^
+||outtimburrtor.com^
 ||overture.com^
 ||owebmoney.ru^
 ||owlsr.us^

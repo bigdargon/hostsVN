@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Jun 2020 11:08 UTC+7
-! Version: 2006051108
-! Blocked: 458 rules
+! Last modified: 09 Jun 2020 13:55 UTC+7
+! Version: 2006091355
+! Blocked: 463 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -303,6 +303,7 @@
 ||log.giaoduc.net.vn^
 ||log.infonet.vn^
 ||log.kienthuc.net.vn^
+||log.ngaynay.vn^
 ||log.sggp.org.vn^
 ||log.tapchitaichinh.vn^
 ||log.thanhnien.vn^
@@ -333,6 +334,7 @@
 ||sv-api-event.headlines.pw^
 ||thongke.24h.com.vn^
 ||thongke.baotintuc.vn^
+||thongke99.baogiaothong.vn^
 ||track-srv.vietnamnet.vn^
 ||track.accesstrade.vn^
 ||track.icheck.com.vn^
@@ -373,6 +375,7 @@
 ||8livevn.com^
 ||ae888.com^
 ||betvietnam.info^
+||big88.one^
 ||bong88net.com^
 ||bong99.com^
 ||bong99.fun^
@@ -428,8 +431,10 @@
 ||ric.win^
 ||sbc31.com^
 ||sun.win^
+||tai789.net^
 ||taiv8.com^
 ||thethaofb88.com^
+||top88.club^
 ||top88.fun^
 ||v8.club^
 ||v9bet.com^
