@@ -643,7 +643,6 @@
 0.0.0.0 gandalf.younetmedia.com
 0.0.0.0 git.younetmedia.com
 0.0.0.0 jenkins.younetmedia.com
-0.0.0.0 mail.younetmedia.com
 0.0.0.0 ranking.younetmedia.com
 0.0.0.0 sen02.younetmedia.com
 0.0.0.0 sh.younetmedia.com
@@ -788,7 +787,6 @@
 0.0.0.0 xacthuc.autoads.asia
 #[phanquang.vn]
 0.0.0.0 click.phanquang.vn
-0.0.0.0 mail.phanquang.vn
 0.0.0.0 phanquang.vn
 0.0.0.0 quangcao.phanquang.vn
 0.0.0.0 www.phanquang.vn
@@ -1255,3 +1253,17 @@
 0.0.0.0 game-static.hotngay.vn
 0.0.0.0 game.hotngay.vn
 0.0.0.0 hotngay.vn
+#[atdnetwork.com]
+0.0.0.0 adserver.atdnetwork.com
+0.0.0.0 atdnetwork.com
+0.0.0.0 delivery.atdnetwork.com
+0.0.0.0 platform.atdnetwork.com
+0.0.0.0 static01.atdnetwork.com
+0.0.0.0 track.atdnetwork.com
+0.0.0.0 www.atdnetwork.com
+#[tuiiu.com]
+0.0.0.0 adi.tuiiu.com
+0.0.0.0 demo.tuiiu.com
+0.0.0.0 img.tuiiu.com
+0.0.0.0 tuiiu.com
+0.0.0.0 www.tuiiu.com
