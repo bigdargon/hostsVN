@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 Jun 2020 09:47 UTC+7
-! Version: 2006120947
-! Blocked: 5,612 rules
+! Last modified: 12 Jun 2020 14:30 UTC+7
+! Version: 2006121430
+! Blocked: 5,615 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -40,6 +40,7 @@
 ||amcdn.vn^
 ||anthill.vn^
 ||ants.vn^
+||atdnetwork.com^
 ||autoads.asia^
 ||banners-gallery.coccoc.com^
 ||bidgear-syndication.com^
@@ -122,6 +123,7 @@
 ||stc.za.zaloapp.com^
 ||surfcountor.com^
 ||tracking.playzing.g6.zing.vn^
+||tuiiu.com^
 ||uniad.vn^
 ||vads.net.vn^
 ||vads.vn^
@@ -748,6 +750,7 @@
 ||bizographics.com^
 ||bj1*.online^
 ||bkrtx.com^
+||blueadss.com^
 ||blueseed.tv^
 ||blueserving.com^
 ||bnmla.com^
@@ -886,6 +889,7 @@
 ||exponential.com^
 ||exrtbsrv.com^
 ||external-promo-metrics.yandex.net^
+||ezodn.com^
 ||ezoic.net^
 ||fads*s.com^
 ||fads*z.com^
@@ -2510,7 +2514,6 @@
 ||api.forshrd.com^
 ||api.intensifier.de^
 ||api.parse.com^
-||api.queryly.com^
 ||api.unthem.com^
 ||app-promo.com^
 ||app.adsoctopus.com^

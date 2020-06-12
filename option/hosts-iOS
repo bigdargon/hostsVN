@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Jun 2020 09:47 UTC+7
-# Version: 2006120947
-# Blocked: 19,192 domains
+# Last modified: 12 Jun 2020 14:30 UTC+7
+# Version: 2006121430
+# Blocked: 19,179 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1211,7 +1211,6 @@
 0 tags.expo9.exponential.com
 0 uksummerparty.exponential.com
 0 webconf.exponential.com
-0 webmail.exponential.com
 0 workday.exponential.com
 0 workdaylab.exponential.com
 0 www.exponential.com
@@ -1564,7 +1563,6 @@
 0 l.sharethis.com
 0 l2.sharethis.com
 0 loader.sharethis.com
-0 mail.sharethis.com
 0 nai.sharethis.com
 0 nexac.sharethis.com
 0 pademo.sharethis.com
@@ -2244,7 +2242,6 @@
 0 docker-registry.adswizz.com
 0 exchange.adswizz.com
 0 hotfix.adswizz.com
-0 mail.adswizz.com
 0 mailing.adswizz.com
 0 mailingsmtp.adswizz.com
 0 metrics.adswizz.com
@@ -2356,7 +2353,6 @@
 0 corp.leanplum.com
 0 customer-pages.leanplum.com
 0 dev.leanplum.com
-0 email.leanplum.com
 0 eng.leanplum.com
 0 estimator.leanplum.com
 0 estimator-staging.leanplum.com
@@ -2552,7 +2548,6 @@
 0 k1.midasplayer.com
 0 k1qa.midasplayer.com
 0 lb.midasplayer.com
-0 mail.midasplayer.com
 0 mgt.midasplayer.com
 0 mi1.midasplayer.com
 0 mi2.midasplayer.com
@@ -3553,7 +3548,6 @@
 0 dashboard.beta.branch.io
 0 dashboard.branch.io
 0 dev.branch.io
-0 email.branch.io
 0 encrypt.branch.io
 0 events.branch.io
 0 gdpr.branch.io
@@ -3714,7 +3708,6 @@
 0 learn-ra.newrelic.com
 0 learn-staging.newrelic.com
 0 login-origin.newrelic.com
-0 mail.newrelic.com
 0 mobile-collector.newrelic.com
 0 mobile-crash.newrelic.com
 0 mobile-crash-origin.newrelic.com
@@ -4288,7 +4281,6 @@
 0 develrc.app.optimizely.com
 0 develrc-app.optimizely.com
 0 dz.optimizely.com
-0 email.optimizely.com
 0 errors.client.optimizely.com
 0 errors.mobile.optimizely.com
 0 events.mobile.optimizely.com
@@ -5323,24 +5315,24 @@
 0 viralvideochart.unrulymedia.com
 0 www.unrulymedia.com
 0 aboutus.revcontent.com
-0 admin.revcontent.com
 0 admin-stg.revcontent.com
+0 admin.revcontent.com
 0 api.revcontent.com
+0 assets.revcontent.com
 0 cdn.revcontent.com
-0 cm.revcontent.com
 0 cm-s1.revcontent.com
+0 cm.revcontent.com
 0 code.revcontent.com
 0 faq.revcontent.com
 0 files.revcontent.com
 0 img.revcontent.com
 0 internal.revcontent.com
-0 labs.revcontent.com
 0 labs-cdn.revcontent.com
 0 labs-s1.revcontent.com
 0 labs-s2.revcontent.com
 0 labs-s4.revcontent.com
 0 labs-stg.revcontent.com
-0 mail.revcontent.com
+0 labs.revcontent.com
 0 ocm.revcontent.com
 0 origin-ui.revcontent.com
 0 publishers.revcontent.com
@@ -5349,15 +5341,15 @@
 0 serve.revcontent.com
 0 servedby.revcontent.com
 0 trending.revcontent.com
-0 trends.revcontent.com
 0 trends-s1.revcontent.com
+0 trends.revcontent.com
 0 v2.revcontent.com
 0 video.revcontent.com
+0 www-s1.revcontent.com
 0 www.revcontent.com
 0 apxadtracking.net
 0 clk.apxadtracking.net
 0 www.apxadtracking.net
-0 mail.apxadtracking.net
 0 assets.servedby-buysellads.com
 0 m.servedby-buysellads.com
 0 s.servedby-buysellads.com
@@ -5681,8 +5673,6 @@
 0 adnetworktech.com
 0 www.adnetworktech.com
 0 cpanel.adnetworktech.com
-0 mail.adnetworktech.com
-0 webmail.adnetworktech.com
 0 nend.net
 0 ad1.nend.net
 0 ad2.nend.net
@@ -5861,7 +5851,6 @@
 0 cdn.bizible.com
 0 d.bizible.com
 0 edgecdn.bizible.com
-0 email.bizible.com
 0 info.bizible.com
 0 info2.bizible.com
 0 roi.bizible.com
@@ -6141,7 +6130,6 @@
 0 zhanzhang.cnzz.com
 0 adtrackers.net
 0 crunchyroll.adtrackers.net
-0 mail.adtrackers.net
 0 ox-d.adtrackers.net
 0 serve.adtrackers.net
 0 torrentz.adtrackers.net
@@ -6150,7 +6138,6 @@
 0 zoover.adtrackers.net
 0 adnetasia.com
 0 crunchyroll.adnetasia.com
-0 mail.adnetasia.com
 0 ox-d.adnetasia.com
 0 serve.adnetasia.com
 0 torrentz.adnetasia.com
@@ -6167,7 +6154,6 @@
 0 zoover.bannertrack.net
 0 adclixx.net
 0 crunchyroll.adclixx.net
-0 mail.adclixx.net
 0 ox-d.adclixx.net
 0 serve.adclixx.net
 0 torrentz.adclixx.net
@@ -6265,7 +6251,6 @@
 0 chef.rob.ops.kochava.com
 0 dash.kochava.com
 0 dev.kochava.com
-0 email.kochava.com
 0 external-appcluster-kp1g.kochava.com
 0 frontend-na.collective.kochava.com
 0 go.kochava.com
@@ -6336,7 +6321,6 @@
 0 cid.segment.com
 0 composer.segment.com
 0 developer.segment.com
-0 email.segment.com
 0 events.segment.com
 0 evergreen.segment.com
 0 facade.segment.com
@@ -6392,13 +6376,11 @@
 0 cn.gameanalytics.com
 0 download.gameanalytics.com
 0 easy.gameanalytics.com
-0 email.gameanalytics.com
 0 gameanalytics.com
 0 go.gameanalytics.com
 0 go-export.gameanalytics.com
 0 maven.gameanalytics.com
 0 nyblog.gameanalytics.com
-0 o1.email.gameanalytics.com
 0 ops-query-0.gameanalytics.com
 0 ops-query-1.gameanalytics.com
 0 ops-query-2.gameanalytics.com
@@ -6514,7 +6496,6 @@
 0 analytics.upsight.com
 0 dashboard.upsight.com
 0 dashboard-api.upsight.com
-0 email.upsight.com
 0 imgproxy.upsight.com
 0 marketing.upsight.com
 0 marketing-api.upsight.com
@@ -6551,9 +6532,7 @@
 0 kong-proxy.heartthrob.apptentive.com
 0 learn.apptentive.com
 0 lovescore.apptentive.com
-0 mail.apptentive.com
 0 notify.apptentive.com
-0 o1.email.apptentive.com
 0 outrch.apptentive.com
 0 rails4test.apptentive.com
 0 sdk.apptentive.com
@@ -6750,7 +6729,6 @@
 0 m.v.fwmrm.net
 0 m1.fwmrm.net
 0 m2.fwmrm.net
-0 mail.fwmrm.net
 0 manifest.fwmrm.net
 0 mmod.v.fwmrm.net
 0 mrm.stg.fwmrm.net
@@ -6949,7 +6927,6 @@
 0 lga-tag-weighted.contextweb.com
 0 lga-tr.contextweb.com
 0 linkedfastly.contextweb.com
-0 mail.ny.contextweb.com
 0 media.contextweb.com
 0 media.lga.contextweb.com
 0 media-active.contextweb.com
@@ -8172,7 +8149,6 @@
 0 twa3.netcoresmartech.com
 0 urlin.netcoresmartech.com
 0 waapi.netcoresmartech.com
-0 webmail.netcoresmartech.com
 0 wt.netcoresmartech.com
 0 www.netcoresmartech.com
 0 jscount.com
@@ -9686,8 +9662,6 @@
 0 lb.asianmedia.com
 0 server.asianmedia.com
 0 share.asianmedia.com
-0 webdisk.asianmedia.com
-0 webmail.asianmedia.com
 0 whm.asianmedia.com
 0 www.asianmedia.com
 0 a.scorecardresearch.com
@@ -10303,7 +10277,6 @@
 0 lodeo-win.adtdp.com
 0 lodeo.adtdp.com
 0 m2.amanad.adtdp.com
-0 mail.adtdp.com
 0 mark.skyrocket.adtdp.com
 0 prague-ad.adtdp.com
 0 prague-bid.adtdp.com
@@ -11459,7 +11432,6 @@
 0 v.doublemax.net
 0 vast.doublemax.net
 0 video.doublemax.net
-0 webdisk.asia-web1.doublemax.net
 0 www.doublemax.net
 0 www3.doublemax.net
 0 admin.wywy.com
@@ -13370,7 +13342,6 @@
 0 cdn.bizographics.com
 0 data.bizographics.com
 0 dc.bizographics.com
-0 email.bizographics.com
 0 error.bizographics.com
 0 img.bizographics.com
 0 imp2.bizographics.com
@@ -13440,6 +13411,13 @@
 0 immediatemedia.amp.permutive.com
 0 permutive.com
 0 www.permutive.com
+0 blueadss.com
+0 cdn.blueadss.com
+0 www.blueadss.com
+0 ezodn.com
+0 g.ezodn.com
+0 go.ezodn.com
+0 www.ezodn.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14045,7 +14023,6 @@
 0 gandalf.younetmedia.com
 0 git.younetmedia.com
 0 jenkins.younetmedia.com
-0 mail.younetmedia.com
 0 ranking.younetmedia.com
 0 sen02.younetmedia.com
 0 sh.younetmedia.com
@@ -14183,7 +14160,6 @@
 0 www.autoads.asia
 0 xacthuc.autoads.asia
 0 click.phanquang.vn
-0 mail.phanquang.vn
 0 phanquang.vn
 0 quangcao.phanquang.vn
 0 www.phanquang.vn
@@ -14604,6 +14580,18 @@
 0 game-static.hotngay.vn
 0 game.hotngay.vn
 0 hotngay.vn
+0 adserver.atdnetwork.com
+0 atdnetwork.com
+0 delivery.atdnetwork.com
+0 platform.atdnetwork.com
+0 static01.atdnetwork.com
+0 track.atdnetwork.com
+0 www.atdnetwork.com
+0 adi.tuiiu.com
+0 demo.tuiiu.com
+0 img.tuiiu.com
+0 tuiiu.com
+0 www.tuiiu.com
 0 703531862.vws.vegacdn.vn
 0 ad-admin.vnay.vn
 0 ad-img.icheck.com.vn
@@ -15976,7 +15964,6 @@
 0 api.forshrd.com
 0 api.intensifier.de
 0 api.parse.com
-0 api.queryly.com
 0 api.unthem.com
 0 app-promo.com
 0 app.adsoctopus.com

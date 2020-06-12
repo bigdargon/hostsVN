@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jun 2020 09:47 UTC+7
-! Version: 2006120947
-! Blocked: 463 rules
+! Last modified: 12 Jun 2020 14:30 UTC+7
+! Version: 2006121430
+! Blocked: 465 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -40,6 +40,7 @@
 ||amcdn.vn^
 ||anthill.vn^
 ||ants.vn^
+||atdnetwork.com^
 ||autoads.asia^
 ||banners-gallery.coccoc.com^
 ||bidgear-syndication.com^
@@ -122,6 +123,7 @@
 ||stc.za.zaloapp.com^
 ||surfcountor.com^
 ||tracking.playzing.g6.zing.vn^
+||tuiiu.com^
 ||uniad.vn^
 ||vads.net.vn^
 ||vads.vn^

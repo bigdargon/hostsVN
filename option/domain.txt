@@ -1195,7 +1195,6 @@ sip.exponential.com
 tags.expo9.exponential.com
 uksummerparty.exponential.com
 webconf.exponential.com
-webmail.exponential.com
 workday.exponential.com
 workdaylab.exponential.com
 www.exponential.com
@@ -1548,7 +1547,6 @@ kiwi.sharethis.com
 l.sharethis.com
 l2.sharethis.com
 loader.sharethis.com
-mail.sharethis.com
 nai.sharethis.com
 nexac.sharethis.com
 pademo.sharethis.com
@@ -2228,7 +2226,6 @@ devops.adswizz.com
 docker-registry.adswizz.com
 exchange.adswizz.com
 hotfix.adswizz.com
-mail.adswizz.com
 mailing.adswizz.com
 mailingsmtp.adswizz.com
 metrics.adswizz.com
@@ -2340,7 +2337,6 @@ beta.leanplum.com
 corp.leanplum.com
 customer-pages.leanplum.com
 dev.leanplum.com
-email.leanplum.com
 eng.leanplum.com
 estimator.leanplum.com
 estimator-staging.leanplum.com
@@ -2536,7 +2532,6 @@ int.midasplayer.com
 k1.midasplayer.com
 k1qa.midasplayer.com
 lb.midasplayer.com
-mail.midasplayer.com
 mgt.midasplayer.com
 mi1.midasplayer.com
 mi2.midasplayer.com
@@ -3537,7 +3532,6 @@ dashboard.alpha.branch.io
 dashboard.beta.branch.io
 dashboard.branch.io
 dev.branch.io
-email.branch.io
 encrypt.branch.io
 events.branch.io
 gdpr.branch.io
@@ -3698,7 +3692,6 @@ learn-dev.newrelic.com
 learn-ra.newrelic.com
 learn-staging.newrelic.com
 login-origin.newrelic.com
-mail.newrelic.com
 mobile-collector.newrelic.com
 mobile-crash.newrelic.com
 mobile-crash-origin.newrelic.com
@@ -4272,7 +4265,6 @@ developers.optimizely.com
 develrc.app.optimizely.com
 develrc-app.optimizely.com
 dz.optimizely.com
-email.optimizely.com
 errors.client.optimizely.com
 errors.mobile.optimizely.com
 events.mobile.optimizely.com
@@ -5307,24 +5299,24 @@ video.unrulymedia.com
 viralvideochart.unrulymedia.com
 www.unrulymedia.com
 aboutus.revcontent.com
-admin.revcontent.com
 admin-stg.revcontent.com
+admin.revcontent.com
 api.revcontent.com
+assets.revcontent.com
 cdn.revcontent.com
-cm.revcontent.com
 cm-s1.revcontent.com
+cm.revcontent.com
 code.revcontent.com
 faq.revcontent.com
 files.revcontent.com
 img.revcontent.com
 internal.revcontent.com
-labs.revcontent.com
 labs-cdn.revcontent.com
 labs-s1.revcontent.com
 labs-s2.revcontent.com
 labs-s4.revcontent.com
 labs-stg.revcontent.com
-mail.revcontent.com
+labs.revcontent.com
 ocm.revcontent.com
 origin-ui.revcontent.com
 publishers.revcontent.com
@@ -5333,15 +5325,15 @@ revcontent.com
 serve.revcontent.com
 servedby.revcontent.com
 trending.revcontent.com
-trends.revcontent.com
 trends-s1.revcontent.com
+trends.revcontent.com
 v2.revcontent.com
 video.revcontent.com
+www-s1.revcontent.com
 www.revcontent.com
 apxadtracking.net
 clk.apxadtracking.net
 www.apxadtracking.net
-mail.apxadtracking.net
 assets.servedby-buysellads.com
 m.servedby-buysellads.com
 s.servedby-buysellads.com
@@ -5665,8 +5657,6 @@ unit.content-ad.net
 adnetworktech.com
 www.adnetworktech.com
 cpanel.adnetworktech.com
-mail.adnetworktech.com
-webmail.adnetworktech.com
 nend.net
 ad1.nend.net
 ad2.nend.net
@@ -5845,7 +5835,6 @@ bizible.com
 cdn.bizible.com
 d.bizible.com
 edgecdn.bizible.com
-email.bizible.com
 info.bizible.com
 info2.bizible.com
 roi.bizible.com
@@ -6125,7 +6114,6 @@ zhan.cnzz.com
 zhanzhang.cnzz.com
 adtrackers.net
 crunchyroll.adtrackers.net
-mail.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
@@ -6134,7 +6122,6 @@ yasni.adtrackers.net
 zoover.adtrackers.net
 adnetasia.com
 crunchyroll.adnetasia.com
-mail.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
@@ -6151,7 +6138,6 @@ yasni.bannertrack.net
 zoover.bannertrack.net
 adclixx.net
 crunchyroll.adclixx.net
-mail.adclixx.net
 ox-d.adclixx.net
 serve.adclixx.net
 torrentz.adclixx.net
@@ -6249,7 +6235,6 @@ currencies.api.kochava.com
 chef.rob.ops.kochava.com
 dash.kochava.com
 dev.kochava.com
-email.kochava.com
 external-appcluster-kp1g.kochava.com
 frontend-na.collective.kochava.com
 go.kochava.com
@@ -6320,7 +6305,6 @@ ci.segment.com
 cid.segment.com
 composer.segment.com
 developer.segment.com
-email.segment.com
 events.segment.com
 evergreen.segment.com
 facade.segment.com
@@ -6376,13 +6360,11 @@ cdn.gameanalytics.com
 cn.gameanalytics.com
 download.gameanalytics.com
 easy.gameanalytics.com
-email.gameanalytics.com
 gameanalytics.com
 go.gameanalytics.com
 go-export.gameanalytics.com
 maven.gameanalytics.com
 nyblog.gameanalytics.com
-o1.email.gameanalytics.com
 ops-query-0.gameanalytics.com
 ops-query-1.gameanalytics.com
 ops-query-2.gameanalytics.com
@@ -6498,7 +6480,6 @@ www-origin-golden.appdynamics.com
 analytics.upsight.com
 dashboard.upsight.com
 dashboard-api.upsight.com
-email.upsight.com
 imgproxy.upsight.com
 marketing.upsight.com
 marketing-api.upsight.com
@@ -6535,9 +6516,7 @@ jobs.apptentive.com
 kong-proxy.heartthrob.apptentive.com
 learn.apptentive.com
 lovescore.apptentive.com
-mail.apptentive.com
 notify.apptentive.com
-o1.email.apptentive.com
 outrch.apptentive.com
 rails4test.apptentive.com
 sdk.apptentive.com
@@ -6734,7 +6713,6 @@ m.fwmrm.net
 m.v.fwmrm.net
 m1.fwmrm.net
 m2.fwmrm.net
-mail.fwmrm.net
 manifest.fwmrm.net
 mmod.v.fwmrm.net
 mrm.stg.fwmrm.net
@@ -6933,7 +6911,6 @@ lga-tag-stage00.contextweb.com
 lga-tag-weighted.contextweb.com
 lga-tr.contextweb.com
 linkedfastly.contextweb.com
-mail.ny.contextweb.com
 media.contextweb.com
 media.lga.contextweb.com
 media-active.contextweb.com
@@ -8156,7 +8133,6 @@ twa.netcoresmartech.com
 twa3.netcoresmartech.com
 urlin.netcoresmartech.com
 waapi.netcoresmartech.com
-webmail.netcoresmartech.com
 wt.netcoresmartech.com
 www.netcoresmartech.com
 jscount.com
@@ -9670,8 +9646,6 @@ cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
-webdisk.asianmedia.com
-webmail.asianmedia.com
 whm.asianmedia.com
 www.asianmedia.com
 a.scorecardresearch.com
@@ -10287,7 +10261,6 @@ lodeo-rd.adtdp.com
 lodeo-win.adtdp.com
 lodeo.adtdp.com
 m2.amanad.adtdp.com
-mail.adtdp.com
 mark.skyrocket.adtdp.com
 prague-ad.adtdp.com
 prague-bid.adtdp.com
@@ -11443,7 +11416,6 @@ tp.doublemax.net
 v.doublemax.net
 vast.doublemax.net
 video.doublemax.net
-webdisk.asia-web1.doublemax.net
 www.doublemax.net
 www3.doublemax.net
 admin.wywy.com
@@ -13354,7 +13326,6 @@ bizographics.com
 cdn.bizographics.com
 data.bizographics.com
 dc.bizographics.com
-email.bizographics.com
 error.bizographics.com
 img.bizographics.com
 imp2.bizographics.com
@@ -13424,6 +13395,13 @@ idg.amp.permutive.com
 immediatemedia.amp.permutive.com
 permutive.com
 www.permutive.com
+blueadss.com
+cdn.blueadss.com
+www.blueadss.com
+ezodn.com
+g.ezodn.com
+go.ezodn.com
+www.ezodn.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -14029,7 +14007,6 @@ facebookid.younetmedia.com
 gandalf.younetmedia.com
 git.younetmedia.com
 jenkins.younetmedia.com
-mail.younetmedia.com
 ranking.younetmedia.com
 sen02.younetmedia.com
 sh.younetmedia.com
@@ -14167,7 +14144,6 @@ tracking.autoads.asia
 www.autoads.asia
 xacthuc.autoads.asia
 click.phanquang.vn
-mail.phanquang.vn
 phanquang.vn
 quangcao.phanquang.vn
 www.phanquang.vn
@@ -14588,6 +14564,18 @@ www.proadscdn.com
 game-static.hotngay.vn
 game.hotngay.vn
 hotngay.vn
+adserver.atdnetwork.com
+atdnetwork.com
+delivery.atdnetwork.com
+platform.atdnetwork.com
+static01.atdnetwork.com
+track.atdnetwork.com
+www.atdnetwork.com
+adi.tuiiu.com
+demo.tuiiu.com
+img.tuiiu.com
+tuiiu.com
+www.tuiiu.com
 703531862.vws.vegacdn.vn
 ad-admin.vnay.vn
 ad-img.icheck.com.vn
@@ -15960,7 +15948,6 @@ api.catch.gift
 api.forshrd.com
 api.intensifier.de
 api.parse.com
-api.queryly.com
 api.unthem.com
 app-promo.com
 app.adsoctopus.com

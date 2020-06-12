@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 12 Jun 2020 09:47 UTC+7
-# Version: 2006120947
-# Blocked: 2,541 domains
+# Last modified: 12 Jun 2020 14:30 UTC+7
+# Version: 2006121430
+# Blocked: 2,538 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -104,8 +104,6 @@
 0.0.0.0 one88.com
 0.0.0.0 cache.one88.com
 0.0.0.0 cache1.one88.com
-0.0.0.0 webdisk.one88.com
-0.0.0.0 webmail.one88.com
 0.0.0.0 www.one88.com
 0.0.0.0 five88.com
 0.0.0.0 m.five88.com
@@ -124,7 +122,6 @@
 0.0.0.0 cdn.websvn.info
 0.0.0.0 demo.websvn.info
 0.0.0.0 trunk.websvn.info
-0.0.0.0 webdisk.websvn.info
 0.0.0.0 www.websvn.info
 0.0.0.0 vn88.com
 0.0.0.0 ad.vn88.com
