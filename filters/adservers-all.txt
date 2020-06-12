@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Jun 2020 13:55 UTC+7
-! Version: 2006091355
-! Blocked: 5,608 rules
+! Last modified: 12 Jun 2020 09:47 UTC+7
+! Version: 2006120947
+! Blocked: 5,612 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1140,6 +1140,7 @@
 ||partnershipsprogram.com^
 ||pcookie.taobao.com^
 ||perimeterx.net^
+||permutive.com^
 ||persona.ly^
 ||petametrics.com^
 ||piano.io^
@@ -3461,6 +3462,7 @@
 ||greystripe.com^
 ||groovinads.com^
 ||groupm.com^
+||gscontxt.net^
 ||gtop.ro^
 ||gtop100.com^
 ||gtsads.com^
@@ -4202,7 +4204,6 @@
 ||performancerevenue.com^
 ||performancerevenues.com^
 ||performancing.com^
-||permutive.com^
 ||personagraph.com^
 ||personaly.click^
 ||petchesa.net^
@@ -5455,6 +5456,7 @@
 ||montacarichi.it^
 ||movestone.net^
 ||mxyyth.com^
+||mybbc-analytics.files.bbci.co.uk^
 ||mybuzzmonitor.com^
 ||nexus.ensighten.com^
 ||nonglirili.net^
@@ -5487,6 +5489,7 @@
 ||q2melbourne.com^
 ||qqkabb.com^
 ||r.3gl.net^
+||r.bbci.co.uk^
 ||r1.snnd.co^
 ||redinvestor.com^
 ||remyyadan.online.fr^
@@ -5522,6 +5525,7 @@
 ||soflopxl.com^
 ||soidc.com^
 ||soperson.com^
+||ssc.api.bbc.com^
 ||stathat.com^
 ||static.intentarget.com^
 ||static.leaddyno.com^

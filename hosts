@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Jun 2020 13:55 UTC+7
-# Version: 2006091355
-# Blocked: 19,178 domains
+# Last modified: 12 Jun 2020 09:47 UTC+7
+# Version: 2006120947
+# Blocked: 19,192 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14135,6 +14135,18 @@
 0.0.0.0 stagingserve3.cheqzone.com
 0.0.0.0 systran.cheqzone.com
 0.0.0.0 testcady.cheqzone.com
+#[permutive.com]
+0.0.0.0 amp.permutive.com
+0.0.0.0 api.permutive.com
+0.0.0.0 buzzfeed.amp.permutive.com
+0.0.0.0 cdn-cf-staging.permutive.com
+0.0.0.0 cdn.permutive.com
+0.0.0.0 conde.amp.permutive.com
+0.0.0.0 esi.amp.permutive.com
+0.0.0.0 idg.amp.permutive.com
+0.0.0.0 immediatemedia.amp.permutive.com
+0.0.0.0 permutive.com
+0.0.0.0 www.permutive.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -17718,6 +17730,7 @@
 0.0.0.0 greystripe.com
 0.0.0.0 groovinads.com
 0.0.0.0 groupm.com
+0.0.0.0 gscontxt.net
 0.0.0.0 gtop.ro
 0.0.0.0 gtop100.com
 0.0.0.0 gtsads.com
@@ -18457,7 +18470,6 @@
 0.0.0.0 performancerevenue.com
 0.0.0.0 performancerevenues.com
 0.0.0.0 performancing.com
-0.0.0.0 permutive.com
 0.0.0.0 personagraph.com
 0.0.0.0 personaly.click
 0.0.0.0 petchesa.net
@@ -19794,6 +19806,7 @@
 0.0.0.0 montacarichi.it
 0.0.0.0 movestone.net
 0.0.0.0 mxyyth.com
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybuzzmonitor.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nonglirili.net
@@ -19826,6 +19839,7 @@
 0.0.0.0 q2melbourne.com
 0.0.0.0 qqkabb.com
 0.0.0.0 r.3gl.net
+0.0.0.0 r.bbci.co.uk
 0.0.0.0 r1.snnd.co
 0.0.0.0 redinvestor.com
 0.0.0.0 remyyadan.online.fr
@@ -19861,6 +19875,7 @@
 0.0.0.0 soflopxl.com
 0.0.0.0 soidc.com
 0.0.0.0 soperson.com
+0.0.0.0 ssc.api.bbc.com
 0.0.0.0 stathat.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.leaddyno.com
