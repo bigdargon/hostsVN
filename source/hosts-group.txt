@@ -153,7 +153,7 @@
 0.0.0.0 partnerssl.googleadservices.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.partner.googleadservices.com
-#[google-analytics.com]
+#[analytics.google.com]
 0.0.0.0 analytics.google.com
 0.0.0.0 www.analytics.google.com
 0.0.0.0 click.google-analytics.com
@@ -163,6 +163,12 @@
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www-google-analytics.l.google.com
+#[optimize.google.com]
+0.0.0.0 optimize.google.com
+0.0.0.0 www.optimize.google.com
+0.0.0.0 dr-mobiweb.googleoptimize.com
+0.0.0.0 googleoptimize.com
+0.0.0.0 www.googleoptimize.com
 #[googleapis.com]
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
@@ -178,6 +184,7 @@
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 s0-2mdn-net.l.google.com
 0.0.0.0 static-2mdn-net.l.google.com
+0.0.0.0 static-doubleclick-net.l.google.com
 0.0.0.0 ad.youtube.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.gmodules.com
@@ -14115,3 +14122,33 @@
 0.0.0.0 g.ezodn.com
 0.0.0.0 go.ezodn.com
 0.0.0.0 www.ezodn.com
+#[igexin.com]
+0.0.0.0 amp.nz4.igexin.com
+0.0.0.0 api.nz.igexin.com
+0.0.0.0 bazhua.igexin.com
+0.0.0.0 cname1.igexin.com
+0.0.0.0 cname2.igexin.com
+0.0.0.0 cname3.igexin.com
+0.0.0.0 dizhensubao.igexin.com
+0.0.0.0 gd.cname1.igexin.com
+0.0.0.0 geyan.cname1.igexin.com
+0.0.0.0 gi.cname2.igexin.com
+0.0.0.0 igexin.com
+0.0.0.0 legal.igexin.com
+0.0.0.0 mvn.gt.igexin.com
+0.0.0.0 ps.cname1.igexin.com
+0.0.0.0 ps.cname2.igexin.com
+0.0.0.0 ps.gl.igexin.com
+0.0.0.0 rtbwx.cname1.igexin.com
+0.0.0.0 sd.cname2.igexin.com
+0.0.0.0 sd.cname3.igexin.com
+0.0.0.0 sd.cname5.igexin.com
+0.0.0.0 sd.cname6.igexin.com
+0.0.0.0 sdk.conf.igexin.com
+0.0.0.0 sdk.open.phone.igexin.com
+0.0.0.0 sdk.open.talk.igexin.com
+0.0.0.0 talk.igexin.com
+0.0.0.0 talk.nz.igexin.com
+0.0.0.0 talk.nz4.igexin.com
+0.0.0.0 www.igexin.com
+0.0.0.0 wx.cname1.igexin.com

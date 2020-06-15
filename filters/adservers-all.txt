@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Jun 2020 09:54 UTC+7
-! Version: 2006150954
-! Blocked: 5,617 rules
+! Last modified: 15 Jun 2020 10:44 UTC+7
+! Version: 2006151044
+! Blocked: 5,624 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -929,6 +929,7 @@
 ||go2afse.com^
 ||google-analytics.com^
 ||googleadservices.com^
+||googleoptimize.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
@@ -961,6 +962,7 @@
 ||ibillboard.com^
 ||id5-sync.com^
 ||iesnare.com^
+||igexin.com^
 ||ilyonanalytics.herokuapp.com^
 ||im-apps.net^
 ||indexexchange.com^
@@ -1132,6 +1134,7 @@
 ||opoxv.com^
 ||optad360.com^
 ||optad360.io^
+||optimize.google.com^
 ||optimizely.com^
 ||optimizesrv.com^
 ||optmnstr.com^
@@ -1275,6 +1278,7 @@
 ||startappservice.com^
 ||stat-rock.com^
 ||static-ads.akamaized.net^
+||static-doubleclick-net.l.google.com^
 ||staticstuff.net^
 ||stats.unity3d.com^
 ||statt-collect.herokuapp.com^
@@ -5273,6 +5277,7 @@
 ||analytics-digit-in.cdn.ampproject.org^
 ||analytics-production.hapyak.com^
 ||analytics.247sports.com^
+||analytics.agoda.com^
 ||analytics.archive.org^
 ||analytics.bitrix.info^
 ||analytics.ccgateway.net^
@@ -5313,6 +5318,7 @@
 ||api.prooffactor.com^
 ||api.quantumgraph.com^
 ||api.safegraph.com^
+||api.usebutton.com^
 ||apolloprogram.io^
 ||app-measurement.com^
 ||applog.camera360.com^
@@ -5325,6 +5331,7 @@
 ||bango.net^
 ||batchlogging4.truecaller.com^
 ||bc.dailymail.co.uk^
+||beacon.riskified.com^
 ||beacon.shazam.com^
 ||beampulse.com^
 ||bjdxhs.com^
