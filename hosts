@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 Jun 2020 10:44 UTC+7
-# Version: 2006151044
-# Blocked: 19,219 domains
+# Last modified: 19 Jun 2020 14:54 UTC+7
+# Version: 2006191454
+# Blocked: 19,264 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14164,6 +14164,52 @@
 0.0.0.0 talk.nz4.igexin.com
 0.0.0.0 www.igexin.com
 0.0.0.0 wx.cname1.igexin.com
+#[pxlad.io]
+0.0.0.0 ad-eu-west-1.pxlad.io
+0.0.0.0 ad-us-east-1.pxlad.io
+0.0.0.0 ad-us-west-2.pxlad.io
+0.0.0.0 ad.pxlad.io
+0.0.0.0 api.pxlad.io
+0.0.0.0 i.pxlad.io
+0.0.0.0 insights.pxlad.io
+0.0.0.0 pxlad.io
+0.0.0.0 sso.pxlad.io
+0.0.0.0 static.pxlad.io
+#[relap.io]
+0.0.0.0 amscdn.relap.io
+0.0.0.0 api.relap.io
+0.0.0.0 cdn.relap.io
+0.0.0.0 cdn01.relap.io
+0.0.0.0 cdn11.relap.io
+0.0.0.0 cdn12.relap.io
+0.0.0.0 eucdn.relap.io
+0.0.0.0 new.relap.io
+0.0.0.0 pre.relap.io
+0.0.0.0 relap.io
+0.0.0.0 scout11.relap.io
+0.0.0.0 scout12.relap.io
+0.0.0.0 v7.relap.io
+0.0.0.0 v7admin.relap.io
+0.0.0.0 v7lk.relap.io
+0.0.0.0 www.relap.io
+#[gaug.es]
+0.0.0.0 flytest.gaug.es
+0.0.0.0 gaug.es
+0.0.0.0 get.gaug.es
+0.0.0.0 secure.gaug.es
+0.0.0.0 sheep.gaug.es
+0.0.0.0 smoke.gaug.es
+0.0.0.0 staging.gaug.es
+0.0.0.0 track.gaug.es
+0.0.0.0 www.gaug.es
+#[realsrv.com]
+0.0.0.0 a.realsrv.com
+0.0.0.0 ads.realsrv.com
+0.0.0.0 main.realsrv.com
+0.0.0.0 origin-ads.realsrv.com
+0.0.0.0 realsrv.com
+0.0.0.0 static.realsrv.com
+0.0.0.0 syndication.realsrv.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15464,6 +15510,7 @@
 0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.itsgroup.vn
 0.0.0.0 ads.khoahocdoisong.vn
+0.0.0.0 ads.nghenhinvietnam.vn
 0.0.0.0 ads.phunuonline.com.vn
 0.0.0.0 ads.phunusuckhoe.vn
 0.0.0.0 ads.thesaigontimes.vn
@@ -15478,6 +15525,7 @@
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adsweb.vn
 0.0.0.0 adt.com.vn
+0.0.0.0 adv.anhsangvacuocsong.vn
 0.0.0.0 adv.baotintuc.vn
 0.0.0.0 advert-admin.vnay.vn
 0.0.0.0 adx.kul.vn
@@ -15547,6 +15595,7 @@
 0.0.0.0 realclick.vn
 0.0.0.0 s.giaoducthoidai.vn
 0.0.0.0 sbbanner.com
+0.0.0.0 sda.tamdiem247.com
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 shop.vnay.vn
 0.0.0.0 static.mvot.vn
@@ -15638,6 +15687,7 @@
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 stats.dongphim.net
 0.0.0.0 stats.petrotimes.vn
+0.0.0.0 stats.tamdiem247.com
 0.0.0.0 stats.vietnammoi.vn
 0.0.0.0 sv-api-event.headlines.pw
 0.0.0.0 thongke.24h.com.vn
@@ -15728,7 +15778,6 @@
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-center.com
-0.0.0.0 ad-eu-west-1.pxlad.io
 0.0.0.0 ad-images.suntimes.com
 0.0.0.0 ad-miner.com
 0.0.0.0 ad-pay.de

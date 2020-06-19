@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Jun 2020 10:44 UTC+7
-! Version: 2006151044
-! Blocked: 5,624 rules
+! Last modified: 19 Jun 2020 14:54 UTC+7
+! Version: 2006191454
+! Blocked: 5,631 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -178,6 +178,7 @@
 ||ads.ictnews.vn^
 ||ads.itsgroup.vn^
 ||ads.khoahocdoisong.vn^
+||ads.nghenhinvietnam.vn^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.thesaigontimes.vn^
@@ -190,6 +191,7 @@
 ||adsplus.vn^
 ||adsweb.vn^
 ||adt.com.vn^
+||adv.anhsangvacuocsong.vn^
 ||adv.baotintuc.vn^
 ||advert-admin.vnay.vn^
 ||adx.kul.vn^
@@ -257,6 +259,7 @@
 ||realclick.vn^
 ||s.giaoducthoidai.vn^
 ||sbbanner.com^
+||sda.tamdiem247.com^
 ||serving-ad.tv24.vn^
 ||shop.vnay.vn^
 ||static.mvot.vn^
@@ -334,6 +337,7 @@
 ||stats.bizweb.vn^
 ||stats.dongphim.net^
 ||stats.petrotimes.vn^
+||stats.tamdiem247.com^
 ||stats.vietnammoi.vn^
 ||sv-api-event.headlines.pw^
 ||thongke.24h.com.vn^
@@ -915,6 +919,7 @@
 ||gads*s.com^
 ||gads*z.com^
 ||gameanalytics.com^
+||gaug.es^
 ||genieessp.com^
 ||geo.yahoo.com^
 ||getadmiral.com^
@@ -1192,14 +1197,17 @@
 ||pushtimize.com^
 ||pushwoosh.com^
 ||pvmax.net^
+||pxlad.io^
 ||qualtrics.com^
 ||quantserve.com^
 ||rakutenmarketing.com^
 ||rayads.cn^
 ||rayjump.com^
+||realsrv.com^
 ||referrer.disqus.com^
 ||refpa.top^
 ||reklamstore.com^
+||relap.io^
 ||remarketingpixel.com^
 ||remotead-internal.cnet.com^
 ||remotead.cnet.com^
@@ -1436,7 +1444,6 @@
 ||ad-balancer.at^
 ||ad-balancer.net^
 ||ad-center.com^
-||ad-eu-west-1.pxlad.io^
 ||ad-images.suntimes.com^
 ||ad-miner.com^
 ||ad-pay.de^
