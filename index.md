@@ -13,7 +13,7 @@
 
 Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặn quảng cáo, mỗi ứng dụng có ưu và khuyết điểm khác nhau. Tùy vào nhu cầu mỗi người mà chọn ứng dụng cho phù hợp.
 
-|   |**Surge**|**Adguard Pro**|**Quantumult X**|**Adblock**|**Shadowrocket**|
+|   |**Surge**|**Adguard Premium/Pro**|**Quantumult X**|**Adblock**|**Shadowrocket**|
 |:-|:-:|:-:|:-:|:-:|:-:|
 |iOS hỗ trợ|iOS 10|iOS 10|iOS 10|iOS 10|iOS 9|
 |Giá|**Miễn phí**|45.000 VND|109.000 VND|45.000 VND|69.000 VND|
@@ -22,15 +22,15 @@ Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặ
 |VPN bật khi khởi động|Không|**Có**|**Có**|**Có**|**Có**|
 |Tự động cập nhật|**Có**|**Có**|**Có**|Không|Không|
 |Điều chỉnh cập nhật|**Có**|**Có**|**Có**|Không|**Có**|
-|Tải về|[Tải về](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Tải về](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Tải về](https://itunes.apple.com/app/quantumult-x/id1443988620?mt=8)|[Tải về](https://itunes.apple.com/app/adblock/id691121579?mt=8)|[Tải về](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|
-|Hướng dẫn|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Adblock)|[Hướng dẫn](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|
+|Tải về|[Surge](https://itunes.apple.com/app/surge-3/id1442620678?mt=8)|[Adguard](https://itunes.apple.com/app/adguard-adblock-privacy/id1047223162?mt=8)/[Adguard Pro](https://itunes.apple.com/app/apple-store/id1126386264?mt=8)|[Quantumult X](https://itunes.apple.com/app/quantumult-x/id1443988620?mt=8)|[Adblock](https://itunes.apple.com/app/adblock/id691121579?mt=8)|[Shadowrocket](https://itunes.apple.com/app/shadowrocket/id932747118?mt=8)|
+|Hướng dẫn|[Surge](https://github.com/bigdargon/hostsVN/wiki/Surge)|[Adguard Premium](https://github.com/bigdargon/hostsVN/wiki/Adguard#ph%E1%BA%A7n-2-vpn)/[Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)|[Quantumult X](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X)|[Adblock](https://github.com/bigdargon/hostsVN/wiki/Adblock)|[Shadowrocket](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket)|
 
 Vậy chọn ứng dụng nào phù hợp? Theo kinh nghiệm cá nhân
-- Để chặn trên `Safari`, sử dụng [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard).
+- Để chặn trên `Safari`, sử dụng [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard)/[Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (nếu đã mua).
 - Để chặn `in-app`, có 3 lựa chọn:
   * **Miễn phí**, sử dụng [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) **nhưng** `VPN` không tự bật khi khởi động.
   * Tối ưu **khả năng chặn**, sử dụng [Quantumult X](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X) **do** `VPN` tự bật khi khởi động, chặn được trong một số ứng dụng có giao thức `https` **nhưng** hao pin đáng kể.
-  * Tối ưu **thời lượng pin**, sử dụng [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) **do** `VPN` tự động bật, ít tốn pin **nhưng** không chặn được trong một số ứng dụng có giao thức `https`.
+  * Tối ưu **thời lượng pin**, sử dụng [Adguard Premium](https://github.com/bigdargon/hostsVN/wiki/Adguard#ph%E1%BA%A7n-2-vpn)/[Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) **do** `VPN` tự động bật, ít tốn pin **nhưng** không chặn được trong một số ứng dụng có giao thức `https`.
 
 **_Riêng hệ điều hành Android có khá nhiều ứng dụng chặn quảng cáo bằng VPN, bạn có thể tham khảo dùng thử các ứng dụng sau [DNS66](https://github.com/bigdargon/hostsVN/wiki/Android#dns66), [Blokada](https://github.com/bigdargon/hostsVN/wiki/Android#blokada), [Virtual Hosts](https://github.com/bigdargon/hostsVN/wiki/Android#virtual-hosts) và [Adhell](https://github.com/bigdargon/hostsVN/wiki/Android#adhell) dành riêng cho Knox máy Samsung. Xem hướng dẫn đầy đủ ở [Wiki](https://github.com/bigdargon/hostsVN/wiki/Android)_.**
 
