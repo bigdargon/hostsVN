@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 Jun 2020 14:54 UTC+7
-! Version: 2006191454
-! Blocked: 471 rules
+! Last modified: 22 Jun 2020 14:51 UTC+7
+! Version: 2006221451
+! Blocked: 476 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -66,6 +66,8 @@
 ||hotngay.vn^
 ||itim.vn^
 ||klick.vn^
+||ladi.me^
+||ladicdn.com^
 ||ladipage.com^
 ||ladipage.net^
 ||ladipage.vn^
@@ -146,6 +148,7 @@
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||ztevents.zaloapp.com^
 ||703531862.vws.vegacdn.vn^
 ||ad-admin.vnay.vn^
 ||ad-img.icheck.com.vn^
@@ -194,6 +197,7 @@
 ||adv.anhsangvacuocsong.vn^
 ||adv.baotintuc.vn^
 ||advert-admin.vnay.vn^
+||advertisement-nhatanh.com^
 ||adx.kul.vn^
 ||adx.xemvtv.net^
 ||affiliate.k4.tinhte.vn^
@@ -346,6 +350,7 @@
 ||track-srv.vietnamnet.vn^
 ||track.accesstrade.vn^
 ||track.icheck.com.vn^
+||track.pregmomvietnam.com^
 ||track.sendo.vn^
 ||track.srv.vietnamnet.vn^
 ||track.vatgia.com^

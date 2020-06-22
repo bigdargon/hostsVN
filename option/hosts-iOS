@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Jun 2020 14:54 UTC+7
-# Version: 2006191454
-# Blocked: 19,264 domains
+# Last modified: 22 Jun 2020 14:51 UTC+7
+# Version: 2006221451
+# Blocked: 19,274 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12820,12 +12820,6 @@
 0 pub.adflex.asia
 0 tracking.adflex.asia
 0 www.adflex.asia
-0 cdn.ladicdn.com
-0 g.ladicdn.com
-0 ladicdn.com
-0 v.ladicdn.com
-0 w.ladicdn.com
-0 www.ladicdn.com
 0 a.opmnstr.com
 0 api.opmnstr.com
 0 app.opmnstr.com
@@ -13495,6 +13489,10 @@
 0 realsrv.com
 0 static.realsrv.com
 0 syndication.realsrv.com
+0 media.vivaclix.com
+0 srv.vivaclix.com
+0 track.vivaclix.com
+0 vivaclix.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13892,6 +13890,7 @@
 0 stc.za.zaloapp.com
 0 wg.zaloapp.com
 0 zminer.zaloapp.com
+0 ztevents.zaloapp.com
 0 adtima-media-td.zadn.vn
 0 adtima-media.zadn.vn
 0 adtima-static-td.zadn.vn
@@ -14060,13 +14059,20 @@
 0 theme.ladipage.vn
 0 themes.ladipage.vn
 0 www.ladipage.vn
-0 ladipage.net
-0 static.ladipage.net
 0 api.forms.ladipage.com
 0 api.ladipage.com
 0 builder.ladipage.com
 0 la.ladipage.com
 0 ladipage.com
+0 ladi.me
+0 ladipage.net
+0 static.ladipage.net
+0 cdn.ladicdn.com
+0 g.ladicdn.com
+0 ladicdn.com
+0 v.ladicdn.com
+0 w.ladicdn.com
+0 www.ladicdn.com
 0 caohavan.ezimar.com
 0 ezdns.ezimar.com
 0 ezimar.com
@@ -14717,6 +14723,7 @@
 0 adv.anhsangvacuocsong.vn
 0 adv.baotintuc.vn
 0 advert-admin.vnay.vn
+0 advertisement-nhatanh.com
 0 adx.kul.vn
 0 adx.xemvtv.net
 0 affiliate.k4.tinhte.vn
@@ -14807,6 +14814,7 @@
 0 widget.headlines.pw
 0 www.adsweb.vn
 0 www.adt.com.vn
+0 www.advertisement-nhatanh.com
 0 www.alivar.vn
 0 www.banhtv.org
 0 www.chiasephim.xyz
@@ -14884,6 +14892,7 @@
 0 track-srv.vietnamnet.vn
 0 track.accesstrade.vn
 0 track.icheck.com.vn
+0 track.pregmomvietnam.com
 0 track.sendo.vn
 0 track.srv.vietnamnet.vn
 0 track.vatgia.com
@@ -17184,6 +17193,7 @@
 0 ireklama.cz
 0 irncdn.com
 0 itfarm.com
+0 itnuzleafan.com
 0 itop.cz
 0 itsptp.com
 0 ivwbox.de

@@ -13449,13 +13449,6 @@
 0.0.0.0 pub.adflex.asia
 0.0.0.0 tracking.adflex.asia
 0.0.0.0 www.adflex.asia
-#[ladicdn.com]
-0.0.0.0 cdn.ladicdn.com
-0.0.0.0 g.ladicdn.com
-0.0.0.0 ladicdn.com
-0.0.0.0 v.ladicdn.com
-0.0.0.0 w.ladicdn.com
-0.0.0.0 www.ladicdn.com
 #[opmnstr.com]
 0.0.0.0 a.opmnstr.com
 0.0.0.0 api.opmnstr.com
@@ -14198,3 +14191,8 @@
 0.0.0.0 realsrv.com
 0.0.0.0 static.realsrv.com
 0.0.0.0 syndication.realsrv.com
+#[vivaclix.com]
+0.0.0.0 media.vivaclix.com
+0.0.0.0 srv.vivaclix.com
+0.0.0.0 track.vivaclix.com
+0.0.0.0 vivaclix.com

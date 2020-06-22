@@ -415,6 +415,7 @@
 0.0.0.0 stc.za.zaloapp.com
 0.0.0.0 wg.zaloapp.com
 0.0.0.0 zminer.zaloapp.com
+0.0.0.0 ztevents.zaloapp.com
 #[zadn.vn]
 0.0.0.0 adtima-media-td.zadn.vn
 0.0.0.0 adtima-media.zadn.vn
@@ -588,7 +589,7 @@
 0.0.0.0 tracking.fff.com.vn
 0.0.0.0 ws.fff.com.vn
 0.0.0.0 www.fff.com.vn
-#[ladipage]
+#[ladipage.vn]
 0.0.0.0 api.ladipage.vn
 0.0.0.0 builder.ladipage.vn
 0.0.0.0 doitac.ladipage.vn
@@ -597,15 +598,23 @@
 0.0.0.0 theme.ladipage.vn
 0.0.0.0 themes.ladipage.vn
 0.0.0.0 www.ladipage.vn
-#[ladipage.net]
-0.0.0.0 ladipage.net
-0.0.0.0 static.ladipage.net
 #[ladipage.com]
 0.0.0.0 api.forms.ladipage.com
 0.0.0.0 api.ladipage.com
 0.0.0.0 builder.ladipage.com
 0.0.0.0 la.ladipage.com
 0.0.0.0 ladipage.com
+0.0.0.0 ladi.me
+#[ladipage.net]
+0.0.0.0 ladipage.net
+0.0.0.0 static.ladipage.net
+#[ladicdn.com]
+0.0.0.0 cdn.ladicdn.com
+0.0.0.0 g.ladicdn.com
+0.0.0.0 ladicdn.com
+0.0.0.0 v.ladicdn.com
+0.0.0.0 w.ladicdn.com
+0.0.0.0 www.ladicdn.com
 #[ezimar.com]
 0.0.0.0 caohavan.ezimar.com
 0.0.0.0 ezdns.ezimar.com

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Jun 2020 14:54 UTC+7
-# Version: 2006191454
-# Blocked: 1,419 domains
+# Last modified: 22 Jun 2020 14:51 UTC+7
+# Version: 2006221451
+# Blocked: 1,430 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -427,6 +427,7 @@
 0.0.0.0 stc.za.zaloapp.com
 0.0.0.0 wg.zaloapp.com
 0.0.0.0 zminer.zaloapp.com
+0.0.0.0 ztevents.zaloapp.com
 #[zadn.vn]
 0.0.0.0 adtima-media-td.zadn.vn
 0.0.0.0 adtima-media.zadn.vn
@@ -600,7 +601,7 @@
 0.0.0.0 tracking.fff.com.vn
 0.0.0.0 ws.fff.com.vn
 0.0.0.0 www.fff.com.vn
-#[ladipage]
+#[ladipage.vn]
 0.0.0.0 api.ladipage.vn
 0.0.0.0 builder.ladipage.vn
 0.0.0.0 doitac.ladipage.vn
@@ -609,15 +610,23 @@
 0.0.0.0 theme.ladipage.vn
 0.0.0.0 themes.ladipage.vn
 0.0.0.0 www.ladipage.vn
-#[ladipage.net]
-0.0.0.0 ladipage.net
-0.0.0.0 static.ladipage.net
 #[ladipage.com]
 0.0.0.0 api.forms.ladipage.com
 0.0.0.0 api.ladipage.com
 0.0.0.0 builder.ladipage.com
 0.0.0.0 la.ladipage.com
 0.0.0.0 ladipage.com
+0.0.0.0 ladi.me
+#[ladipage.net]
+0.0.0.0 ladipage.net
+0.0.0.0 static.ladipage.net
+#[ladicdn.com]
+0.0.0.0 cdn.ladicdn.com
+0.0.0.0 g.ladicdn.com
+0.0.0.0 ladicdn.com
+0.0.0.0 v.ladicdn.com
+0.0.0.0 w.ladicdn.com
+0.0.0.0 www.ladicdn.com
 #[ezimar.com]
 0.0.0.0 caohavan.ezimar.com
 0.0.0.0 ezdns.ezimar.com
@@ -1328,6 +1337,7 @@
 0.0.0.0 adv.anhsangvacuocsong.vn
 0.0.0.0 adv.baotintuc.vn
 0.0.0.0 advert-admin.vnay.vn
+0.0.0.0 advertisement-nhatanh.com
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.xemvtv.net
 0.0.0.0 affiliate.k4.tinhte.vn
@@ -1418,6 +1428,7 @@
 0.0.0.0 widget.headlines.pw
 0.0.0.0 www.adsweb.vn
 0.0.0.0 www.adt.com.vn
+0.0.0.0 www.advertisement-nhatanh.com
 0.0.0.0 www.alivar.vn
 0.0.0.0 www.banhtv.org
 0.0.0.0 www.chiasephim.xyz
@@ -1496,6 +1507,7 @@
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track.accesstrade.vn
 0.0.0.0 track.icheck.com.vn
+0.0.0.0 track.pregmomvietnam.com
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.srv.vietnamnet.vn
 0.0.0.0 track.vatgia.com
