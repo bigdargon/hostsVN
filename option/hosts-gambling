@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 22 Jun 2020 14:51 UTC+7
-# Version: 2006221451
-# Blocked: 2,538 domains
+# Last modified: 22 Jun 2020 15:18 UTC+7
+# Version: 2006221518
+# Blocked: 2,544 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -390,6 +390,12 @@
 0.0.0.0 qc.top88.club
 0.0.0.0 play.top88.club
 0.0.0.0 www.top88.club
+0.0.0.0 r88.vn
+0.0.0.0 download.r88.vn
+0.0.0.0 fan88.r88.vn
+0.0.0.0 gamvip88.r88.vn
+0.0.0.0 m.r88.vn
+0.0.0.0 www.r88.vn
 # --- Block other gameblingVN ---
 0.0.0.0 027copy.com
 0.0.0.0 www.027copy.com
