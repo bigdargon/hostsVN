@@ -46,6 +46,7 @@ Bạn có thể sử dụng một số ứng dụng và tham khảo hướng d�
 
 * Surge - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Surge)
 * Adguard Pro - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)
+* Adguard Premium - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Adguard)
 * Quantumult - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
 * Quantumult X - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X)
 * Adblock - [Hướng dẫn cài đặt](https://github.com/bigdargon/hostsVN/wiki/Adblock)
