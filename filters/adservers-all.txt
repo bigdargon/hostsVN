@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 22 Jun 2020 15:18 UTC+7
-! Version: 2006221518
-! Blocked: 5,638 rules
+! Last modified: 23 Jun 2020 14:09 UTC+7
+! Version: 2006231409
+! Blocked: 5,642 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3224,6 +3224,7 @@
 ||drydrum.com^
 ||dsp.io^
 ||dtxngr.com^
+||dyecowwhy.com^
 ||dynamic.fmpub.net^
 ||dynamicadx.com^
 ||dyntrk.com^
@@ -3256,6 +3257,7 @@
 ||edaa.eu^
 ||edge.mdcgate.com^
 ||edgeio.com^
+||edublog.pw^
 ||effectivemeasure.com^
 ||efficaciouscactus.com^
 ||ehealthcaresolutions.com^
@@ -3893,6 +3895,7 @@
 ||megastats.com^
 ||megawerbung.de^
 ||meglanatha.pro^
+||mehebborc.com^
 ||mellowads.com^
 ||meltdsp.com^
 ||memeglobal.com^
@@ -5093,6 +5096,7 @@
 ||vervewireless.com^
 ||vhostxo.com^
 ||vi-tag.net^
+||viaslyeve.club^
 ||vibrantmedia.com^
 ||vidcpm.com^
 ||videoadex.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 Jun 2020 15:18 UTC+7
-# Version: 2006221518
-# Blocked: 19,274 domains
+# Last modified: 23 Jun 2020 14:09 UTC+7
+# Version: 2006231409
+# Blocked: 19,281 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4037,14 +4037,17 @@
 0 a.steepto.com
 0 cdn.steepto.com
 0 cm.steepto.com
+0 dashboard.steepto.com
 0 img.steepto.com
 0 img-cdn.steepto.com
 0 imgg.steepto.com
 0 imgg-cdn.steepto.com
+0 imggprx.steepto.com
 0 imgn.steepto.com
-0 ns.steepto.com
-0 ns2.steepto.com
+0 mg.steepto.com
+0 s-img.steepto.com
 0 steepto.com
+0 video-native.steepto.com
 0 wsp.steepto.com
 0 www.steepto.com
 0 appearch.info
@@ -16744,6 +16747,7 @@
 0 drydrum.com
 0 dsp.io
 0 dtxngr.com
+0 dyecowwhy.com
 0 dynamic.fmpub.net
 0 dynamicadx.com
 0 dyntrk.com
@@ -16776,6 +16780,7 @@
 0 edaa.eu
 0 edge.mdcgate.com
 0 edgeio.com
+0 edublog.pw
 0 effectivemeasure.com
 0 efficaciouscactus.com
 0 ehealthcaresolutions.com
@@ -17412,6 +17417,7 @@
 0 megastats.com
 0 megawerbung.de
 0 meglanatha.pro
+0 mehebborc.com
 0 mellowads.com
 0 meltdsp.com
 0 memeglobal.com
@@ -18610,6 +18616,7 @@
 0 vervewireless.com
 0 vhostxo.com
 0 vi-tag.net
+0 viaslyeve.club
 0 vibrantmedia.com
 0 vidcpm.com
 0 videoadex.com
