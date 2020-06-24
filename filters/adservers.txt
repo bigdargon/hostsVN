@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Jun 2020 14:09 UTC+7
-! Version: 2006231409
-! Blocked: 477 rules
+! Last modified: 24 Jun 2020 14:41 UTC+7
+! Version: 2006241441
+! Blocked: 459 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -51,6 +51,7 @@
 ||cityads.com^
 ||cityadstrack.com^
 ||cleverads.vn^
+||clevernet.vn^
 ||cokhach.com^
 ||contineljs.com^
 ||d2ox6x0y9xhicd.cloudfront.net^
@@ -126,13 +127,11 @@
 ||surfcountor.com^
 ||tracking.playzing.g6.zing.vn^
 ||tuiiu.com^
-||uniad.vn^
 ||vads.net.vn^
 ||vads.vn^
 ||vclick.vn^
 ||viam.com.vn^
 ||vidoomy.com^
-||vietad.vn^
 ||vietnamnetad.vn^
 ||vnnayngaytin.vn^
 ||wg.zaloapp.com^
@@ -151,47 +150,39 @@
 ||ztevents.zaloapp.com^
 ||703531862.vws.vegacdn.vn^
 ||ad-admin.vnay.vn^
-||ad-img.icheck.com.vn^
 ||ad.24h.com.vn^
 ||ad.accesstrade.vn^
 ||ad.icheck.com.vn^
 ||ad.mwork.vn^
 ||ad.sunflower.vn^
-||ad.vatgia.com^
-||ad.vietbao.vn^
 ||ad.vkool.net^
 ||adadmin.headlines.pw^
 ||adc.quantrimang.com^
 ||adchoice.com^
-||adchoice.com.vn^
 ||adclient.vietnamnetjsc.vn^
 ||adfox.vn^
 ||adjusts.info^
 ||admedia.com.vn^
 ||admin.sothuchi.vn^
-||adnetwork.5imedia.vn^
 ||adpostback.headlines.pw^
-||ads*.autodaily.vn^
-||ads*.careerbuilder.vn^
 ||ads-cdn.fptplay.net^
 ||ads.baodatviet.vn^
 ||ads.careerbuilder.vn^
 ||ads.fptplay.net.vn^
 ||ads.home.vn^
 ||ads.ictnews.vn^
-||ads.itsgroup.vn^
 ||ads.khoahocdoisong.vn^
 ||ads.nghenhinvietnam.vn^
-||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.thesaigontimes.vn^
 ||ads.tiki.vn^
-||ads.tinmoi.vn^
 ||ads.vietbao.vn^
 ||ads.vkool.info^
 ||ads.xemphimso.com^
+||ads1.careerbuilder.vn^
 ||adserver.lag.vn^
 ||adsplus.vn^
+||adsv2.autodaily.vn^
 ||adsweb.vn^
 ||adt.com.vn^
 ||adv.anhsangvacuocsong.vn^
@@ -216,8 +207,6 @@
 ||bgadx.com^
 ||cdn-ads.thesaigontimes.vn^
 ||chiasephim.xyz^
-||clevernet.vn^
-||click.xdeal.vn^
 ||clipbongda.info^
 ||clix.vn^
 ||core.vnecdn.com^
@@ -228,11 +217,9 @@
 ||delecpuzz.com^
 ||delivery.senvangvn.com^
 ||delivery.vtcnew.com.vn^
-||delivery.vungtv.com^
 ||deltago.com^
 ||demopage.me^
 ||dt.vnecdn.com^
-||events.vungtv.com^
 ||financial-agent.headlines.pw^
 ||fptad.com^
 ||genmonet.com^
@@ -249,11 +236,9 @@
 ||myad.vn^
 ||ng-vn-notice.gameitop.com^
 ||offerwall.headlines.pw^
-||ox1.vietstock.vn^
 ||phimmedia03.com^
 ||polyad.galaxypub.vn^
 ||qc.designervn.net^
-||qc.yan.vn^
 ||quangcao.24h.com.vn^
 ||quangcao.baovannghe.com.vn^
 ||quangcao.thanhnien.vn^
@@ -276,7 +261,6 @@
 ||trenddigital.vn^
 ||truoctran.com^
 ||tvnotice.kg.garena.vn^
-||uniad.phimmoi.net^
 ||upfile16.mediaphim.com^
 ||user.headlines.pw^
 ||vietbuzzad.com^
@@ -481,5 +465,3 @@
 ||quangcaotructuyen247.com^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
-||sukientraogiaizalo.com^
-||xmobliefacebook.com^
