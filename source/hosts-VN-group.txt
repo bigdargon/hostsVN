@@ -439,26 +439,6 @@
 0.0.0.0 log.zingnews.vn
 0.0.0.0 log.zingtv.vn
 0.0.0.0 zlog.zingmp3.vn
-#[vietad]
-0.0.0.0 ads.vietad.vn
-0.0.0.0 as.vietad.vn
-0.0.0.0 banner.vietad.vn
-0.0.0.0 cpd.vietad.vn
-0.0.0.0 display.vietad.vn
-0.0.0.0 embed.vietad.vn
-0.0.0.0 i.vietad.vn
-0.0.0.0 img.vietad.vn
-0.0.0.0 logb20.vietad.vn
-0.0.0.0 logb21.vietad.vn
-0.0.0.0 logb22.vietad.vn
-0.0.0.0 logb23.vietad.vn
-0.0.0.0 logb3.vietad.vn
-0.0.0.0 logw.vietad.vn
-0.0.0.0 nlb.vietad.vn
-0.0.0.0 vietad.vn
-0.0.0.0 www.vietad.vn
-0.0.0.0 z.vietad.vn
-0.0.0.0 zone.vietad.vn
 #[anthill]
 0.0.0.0 a.anthill.vn
 0.0.0.0 anthill.vn
@@ -716,7 +696,6 @@
 0.0.0.0 api.cityads.com
 0.0.0.0 auth.cityads.com
 0.0.0.0 auth2.cityads.com
-0.0.0.0 blog.cityads.com
 0.0.0.0 cdn.cityads.com
 0.0.0.0 cdn77.cityads.com
 0.0.0.0 challenge.cityads.com
@@ -813,8 +792,6 @@
 0.0.0.0 www.ohchat.net
 #[mediaz.vn]
 0.0.0.0 adwords.mediaz.vn
-0.0.0.0 blog.mediaz.vn
-0.0.0.0 book.mediaz.vn
 0.0.0.0 booking.mediaz.vn
 0.0.0.0 brief.mediaz.vn
 0.0.0.0 creative.mediaz.vn
@@ -822,16 +799,10 @@
 0.0.0.0 erp.mediaz.vn
 0.0.0.0 facebook-ads.mediaz.vn
 0.0.0.0 go.mediaz.vn
-0.0.0.0 hotro.mediaz.vn
 0.0.0.0 imc.mediaz.vn
 0.0.0.0 insight.mediaz.vn
 0.0.0.0 landing.mediaz.vn
-0.0.0.0 landingpage1.mediaz.vn
 0.0.0.0 mediaz.vn
-0.0.0.0 ns1.mediaz.vn
-0.0.0.0 ns2.mediaz.vn
-0.0.0.0 ns3.mediaz.vn
-0.0.0.0 ns4.mediaz.vn
 0.0.0.0 nsbak.mediaz.vn
 0.0.0.0 offer.mediaz.vn
 0.0.0.0 pricing.mediaz.vn
@@ -856,7 +827,6 @@
 #[mediad.asia]
 0.0.0.0 mediad.asia
 0.0.0.0 adx.mediaz.asia
-0.0.0.0 blog.mediad.asia
 0.0.0.0 brief.mediad.asia
 0.0.0.0 dsp.mediaz.asia
 0.0.0.0 guide.mediad.asia
@@ -1023,13 +993,6 @@
 0.0.0.0 log.vads.net.vn
 0.0.0.0 vads.net.vn
 0.0.0.0 www.vads.net.vn
-#[uniad.vn]
-0.0.0.0 click.uniad.vn
-0.0.0.0 pub.uniad.vn
-0.0.0.0 publisher.uniad.vn
-0.0.0.0 uniad.vn
-0.0.0.0 www.uniad.vn
-0.0.0.0 zone.uniad.vn
 #[mepuzz.com]
 0.0.0.0 mepuzz.com
 0.0.0.0 mysql.mepuzz.com
@@ -1276,3 +1239,7 @@
 0.0.0.0 img.tuiiu.com
 0.0.0.0 tuiiu.com
 0.0.0.0 www.tuiiu.com
+#[clevernet.vn]
+clevernet.vn
+m.clevernet.vn
+www.clevernet.vn
