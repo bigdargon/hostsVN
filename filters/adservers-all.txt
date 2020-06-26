@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Jun 2020 14:41 UTC+7
-! Version: 2006241441
-! Blocked: 5,234 rules
+! Last modified: 26 Jun 2020 23:25 UTC+7
+! Version: 2006262325
+! Blocked: 5,232 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -115,8 +115,6 @@
 ||rungrinh.vn^
 ||sharks.vn^
 ||shop-cdn.coccoc.com^
-||shop.zalo.me^
-||shop.zaloapp.com^
 ||shopping.coccoc.com^
 ||sourcetobin.com^
 ||sp.zalo.me^
