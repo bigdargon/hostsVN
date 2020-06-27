@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 26 Jun 2020 23:25 UTC+7
-# Version: 2006262325
-# Blocked: 1,370 domains
+# Last modified: 27 Jun 2020 21:10 UTC+7
+# Version: 2006272110
+# Blocked: 1,368 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1318,8 +1318,6 @@
 0.0.0.0 core.vnecdn.com
 0.0.0.0 cpx.vnecdn.com
 0.0.0.0 crocopop.com
-0.0.0.0 dc.motphim.co
-0.0.0.0 dc.motphim.net
 0.0.0.0 delecpuzz.com
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 delivery.vtcnew.com.vn
