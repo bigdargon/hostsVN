@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Jun 2020 21:10 UTC+7
-# Version: 2006272110
-# Blocked: 1,368 domains
+# Last modified: 01 Jul 2020 15:24 UTC+7
+# Version: 2007011524
+# Blocked: 1,370 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -896,12 +896,13 @@
 0.0.0.0 static.dable.io
 0.0.0.0 thumb.dable.io
 0.0.0.0 www.dable.io
-#[adbro]
+#[adbro.me]
 0.0.0.0 adbro.me
 0.0.0.0 api.adbro.me
 0.0.0.0 apis.adbro.me
 0.0.0.0 cdn.adbro.me
 0.0.0.0 portal.adbro.me
+0.0.0.0 tag.adbro.me
 #[adasiaholdings]
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adnetwork.adasiaholdings.com
@@ -1287,6 +1288,7 @@
 0.0.0.0 ads.xemphimso.com
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 adserver.lag.vn
+0.0.0.0 adserver.luzu.vn
 0.0.0.0 adsplus.vn
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adsweb.vn

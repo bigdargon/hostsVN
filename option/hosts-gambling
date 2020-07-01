@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 27 Jun 2020 21:10 UTC+7
-# Version: 2006272110
-# Blocked: 2,544 domains
+# Last modified: 01 Jul 2020 15:24 UTC+7
+# Version: 2007011524
+# Blocked: 2,583 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -117,7 +117,6 @@
 0.0.0.0 11bet.net
 0.0.0.0 tin.11bet.net
 0.0.0.0 1xbetvn.com
-0.0.0.0 nhatvip.net
 0.0.0.0 websvn.info
 0.0.0.0 cdn.websvn.info
 0.0.0.0 demo.websvn.info
@@ -396,6 +395,47 @@
 0.0.0.0 gamvip88.r88.vn
 0.0.0.0 m.r88.vn
 0.0.0.0 www.r88.vn
+0.0.0.0 red88.com
+0.0.0.0 m.red88.com
+0.0.0.0 sock.red88.com
+0.0.0.0 388bet.us
+0.0.0.0 789.fun
+0.0.0.0 f6.789.fun
+0.0.0.0 game.789.fun
+0.0.0.0 qc.789.fun
+0.0.0.0 cacuoc247.com
+0.0.0.0 www.cacuoc247.com
+0.0.0.0 zo.club
+0.0.0.0 lp.zo.club
+0.0.0.0 zbet.win
+0.0.0.0 x8.vin
+0.0.0.0 qc.x8.vin
+0.0.0.0 wbet99.net
+0.0.0.0 vic.fun
+0.0.0.0 qc.vic.fun
+0.0.0.0 lucky88.live
+0.0.0.0 keotot.net
+0.0.0.0 go88.club
+0.0.0.0 tai.go88.club
+0.0.0.0 play.go88.club
+0.0.0.0 five88.biz
+0.0.0.0 ismart.five88.biz
+0.0.0.0 mkt.five88.biz
+0.0.0.0 sport.five88.biz
+0.0.0.0 static.five88.biz
+0.0.0.0 lux39.club
+0.0.0.0 vwinnow.com
+0.0.0.0 www.vwinnow.com
+0.0.0.0 nhatvip.net
+0.0.0.0 dl.nhatvip.net
+0.0.0.0 f1.nhatvip.net
+0.0.0.0 f5.nhatvip.net
+0.0.0.0 qc.nhatvip.net
+0.0.0.0 web.nhatvip.net
+0.0.0.0 www.nhatvip.net
+0.0.0.0 lixi88.info
+0.0.0.0 m.lixi88.info
+0.0.0.0 www.lixi88.info
 # --- Block other gameblingVN ---
 0.0.0.0 027copy.com
 0.0.0.0 www.027copy.com
@@ -952,7 +992,6 @@
 0.0.0.0 yo88.icu
 0.0.0.0 zbet.com.vn
 0.0.0.0 zbet.fun
-0.0.0.0 zbet.win
 #https://github.com/bigdargon/hostsVN/issues/153#issue-561471377
 0.0.0.0 8685656.com
 0.0.0.0 ud1a.com

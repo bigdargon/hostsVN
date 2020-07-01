@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Jun 2020 21:10 UTC+7
-# Version: 2006272110
-# Blocked: 18,776 domains
+# Last modified: 01 Jul 2020 15:24 UTC+7
+# Version: 2007011524
+# Blocked: 18,785 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13732,7 +13732,6 @@
 0.0.0.0 c.aper.pw
 0.0.0.0 xx.aper.pw
 #[taobao.com]
-0.0.0.0 acs.m.taobao.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adashbc.m.taobao.com
 0.0.0.0 adashbc.ut.taobao.com
@@ -14167,6 +14166,10 @@
 0.0.0.0 srv.vivaclix.com
 0.0.0.0 track.vivaclix.com
 0.0.0.0 vivaclix.com
+#[admarket.network]
+0.0.0.0 admarket.network
+0.0.0.0 s1.admarket.network
+0.0.0.0 www.admarket.network
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15053,12 +15056,13 @@
 0.0.0.0 static.dable.io
 0.0.0.0 thumb.dable.io
 0.0.0.0 www.dable.io
-#[adbro]
+#[adbro.me]
 0.0.0.0 adbro.me
 0.0.0.0 api.adbro.me
 0.0.0.0 apis.adbro.me
 0.0.0.0 cdn.adbro.me
 0.0.0.0 portal.adbro.me
+0.0.0.0 tag.adbro.me
 #[adasiaholdings]
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adnetwork.adasiaholdings.com
@@ -15444,6 +15448,7 @@
 0.0.0.0 ads.xemphimso.com
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 adserver.lag.vn
+0.0.0.0 adserver.luzu.vn
 0.0.0.0 adsplus.vn
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adsweb.vn
@@ -15710,6 +15715,7 @@
 0.0.0.0 ad.amgdgt.com
 0.0.0.0 ad.anuntis.com
 0.0.0.0 ad.api.3g.tudou.com
+0.0.0.0 ad.apl11.me
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.auditude.com
 0.0.0.0 ad.bizo.com
@@ -16157,6 +16163,7 @@
 0.0.0.0 ads.lesbianpersonals.com
 0.0.0.0 ads.linuxfoundation.org
 0.0.0.0 ads.livenation.com
+0.0.0.0 ads.livetv314.me
 0.0.0.0 ads.lordlucky.com
 0.0.0.0 ads.massinfra.nl
 0.0.0.0 ads.mcafee.com
@@ -16278,6 +16285,7 @@
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads04.tapsense.com
 0.0.0.0 ads1.mediacapital.pt
+0.0.0.0 ads1.opensubtitles.org
 0.0.0.0 ads1.rne.com
 0.0.0.0 ads1.virtual-nights.com
 0.0.0.0 ads10.speedbit.com
@@ -17951,6 +17959,7 @@
 0.0.0.0 mouseflow.com
 0.0.0.0 mousestats.com
 0.0.0.0 moversa.com
+0.0.0.0 movie-pass.live
 0.0.0.0 mowfruit.com
 0.0.0.0 mpstat.us
 0.0.0.0 mr-rank.de
@@ -18282,6 +18291,7 @@
 0.0.0.0 promos.fling.com
 0.0.0.0 promote.pair.com
 0.0.0.0 pronetadvertising.com
+0.0.0.0 propadsviews.com
 0.0.0.0 props.id
 0.0.0.0 propu.sh
 0.0.0.0 proranktracker.com

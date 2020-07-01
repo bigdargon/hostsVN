@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 27 Jun 2020 21:10 UTC+7
-! Version: 2006272110
-! Blocked: 5,230 rules
+! Last modified: 01 Jul 2020 15:24 UTC+7
+! Version: 2007011524
+! Blocked: 5,251 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -179,6 +179,7 @@
 ||ads.xemphimso.com^
 ||ads1.careerbuilder.vn^
 ||adserver.lag.vn^
+||adserver.luzu.vn^
 ||adsplus.vn^
 ||adsv2.autodaily.vn^
 ||adsweb.vn^
@@ -357,6 +358,7 @@
 ||388bet.vip^
 ||520xiaojin.com^
 ||789.club^
+||789.fun^
 ||888b.com^
 ||888b.in^
 ||88viet.com^
@@ -372,6 +374,7 @@
 ||bong88net.com^
 ||bong99.com^
 ||bong99.fun^
+||cacuoc247.com^
 ||casino888vn.com^
 ||datcuoc247.com^
 ||debet.com^
@@ -385,20 +388,26 @@
 ||fb88go.com^
 ||fb88live.com^
 ||fb88sports.com^
+||five88.biz^
 ||five88.com^
 ||five88.net^
 ||gdwbetvn888.com^
 ||gdwviet.com^
+||go88.club^
 ||go88.com^
 ||ibet889.com^
 ||income88.com^
 ||jbovn.com^
 ||k8vn03.com^
+||keotot.net^
 ||letou8868.com^
+||lixi88.info^
 ||lode88.vip^
 ||lucky88.com^
+||lucky88.live^
 ||lucky88.net^
 ||lucky88.win^
+||lux39.club^
 ||m883d.com^
 ||m88cvf.com^
 ||m88my.com^
@@ -422,6 +431,7 @@
 ||one88.vn^
 ||oneday88.com^
 ||r88.vn^
+||red88.com^
 ||ric.win^
 ||sbc31.com^
 ||sun.win^
@@ -432,6 +442,7 @@
 ||top88.fun^
 ||v8.club^
 ||v9bet.com^
+||vic.fun^
 ||vic.win^
 ||vietbet.eu^
 ||viva88.com^
@@ -441,19 +452,24 @@
 ||vn88.casino^
 ||vn88.club^
 ||vn88.com^
+||vwinnow.com^
 ||w88.vin^
 ||w88bro.com^
 ||w88city.com^
 ||w88club.com^
 ||w88hn.com^
 ||w88yes.com^
+||wbet99.net^
 ||websvn.info^
 ||ww88club.com^
 ||x8.club^
+||x8.vin^
 ||yo88.win^
 ||yule12888.com^
 ||zbet.com^
 ||zbet.vn^
+||zbet.win^
+||zo.club^
 ||zo.game^
 ||celerantatters.com^
 ||fuckbookvietnam.com^
@@ -481,7 +497,6 @@
 ||aaxads.com^
 ||accengage.com^
 ||acloudimages.com^
-||acs.m.taobao.com^
 ||acuityplatform.com^
 ||ad*.qq.com^
 ||ad-brix.com^
@@ -527,6 +542,7 @@
 ||adk2x.com^
 ||adkernel.com^
 ||admantx.com^
+||admarket.network^
 ||admarketplace.net^
 ||admarvel.com^
 ||admaym.com^
@@ -1453,6 +1469,7 @@
 ||ad.amgdgt.com^
 ||ad.anuntis.com^
 ||ad.api.3g.tudou.com^
+||ad.apl11.me^
 ||ad.apsalar.com^
 ||ad.auditude.com^
 ||ad.bizo.com^
@@ -1901,6 +1918,7 @@
 ||ads.lesbianpersonals.com^
 ||ads.linuxfoundation.org^
 ||ads.livenation.com^
+||ads.livetv314.me^
 ||ads.lordlucky.com^
 ||ads.massinfra.nl^
 ||ads.mcafee.com^
@@ -2022,6 +2040,7 @@
 ||ads.ztod.com^
 ||ads04.tapsense.com^
 ||ads1.mediacapital.pt^
+||ads1.opensubtitles.org^
 ||ads1.rne.com^
 ||ads1.virtual-nights.com^
 ||ads10.speedbit.com^
@@ -3698,6 +3717,7 @@
 ||mouseflow.com^
 ||mousestats.com^
 ||moversa.com^
+||movie-pass.live^
 ||mowfruit.com^
 ||mpstat.us^
 ||mr-rank.de^
@@ -4030,6 +4050,7 @@
 ||promos.fling.com^
 ||promote.pair.com^
 ||pronetadvertising.com^
+||propadsviews.com^
 ||props.id^
 ||propu.sh^
 ||proranktracker.com^

@@ -13720,7 +13720,6 @@
 0.0.0.0 c.aper.pw
 0.0.0.0 xx.aper.pw
 #[taobao.com]
-0.0.0.0 acs.m.taobao.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adashbc.m.taobao.com
 0.0.0.0 adashbc.ut.taobao.com
@@ -14155,3 +14154,7 @@
 0.0.0.0 srv.vivaclix.com
 0.0.0.0 track.vivaclix.com
 0.0.0.0 vivaclix.com
+#[admarket.network]
+0.0.0.0 admarket.network
+0.0.0.0 s1.admarket.network
+0.0.0.0 www.admarket.network
