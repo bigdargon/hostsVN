@@ -7242,16 +7242,6 @@
 0.0.0.0 v1-tr.lga.contextweb.com
 0.0.0.0 v1-tr.sjc.contextweb.com
 0.0.0.0 www.contextweb.com
-#[gigya.com]
-0.0.0.0 cdn.gigya.com
-0.0.0.0 cdn1.gigya.com
-0.0.0.0 cdn2.gigya.com
-0.0.0.0 cdn3.gigya.com
-0.0.0.0 cdns.gigya.com
-0.0.0.0 cdns1.gigya.com
-0.0.0.0 cdns2.gigya.com
-0.0.0.0 cdns3.gigya.com
-0.0.0.0 counters.gigya.com
 #[cnn.com]
 0.0.0.0 ads.cnn.com
 0.0.0.0 cl.cnn.com
