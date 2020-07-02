@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Jul 2020 09:45 UTC+7
-! Version: 2007020945
-! Blocked: 474 rules
+! Last modified: 02 Jul 2020 15:56 UTC+7
+! Version: 2007021556
+! Blocked: 475 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -287,6 +287,7 @@
 ||lg.lotus.vn^
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
+||log.baodauthau.vn^
 ||log.baomoi.com^
 ||log.baophapluat.vn^
 ||log.batdongsan.com.vn^
