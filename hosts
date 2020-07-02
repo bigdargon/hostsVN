@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Jul 2020 15:24 UTC+7
-# Version: 2007011524
-# Blocked: 18,785 domains
+# Last modified: 02 Jul 2020 09:45 UTC+7
+# Version: 2007020945
+# Blocked: 18,778 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7254,16 +7254,6 @@
 0.0.0.0 v1-tr.lga.contextweb.com
 0.0.0.0 v1-tr.sjc.contextweb.com
 0.0.0.0 www.contextweb.com
-#[gigya.com]
-0.0.0.0 cdn.gigya.com
-0.0.0.0 cdn1.gigya.com
-0.0.0.0 cdn2.gigya.com
-0.0.0.0 cdn3.gigya.com
-0.0.0.0 cdns.gigya.com
-0.0.0.0 cdns1.gigya.com
-0.0.0.0 cdns2.gigya.com
-0.0.0.0 cdns3.gigya.com
-0.0.0.0 counters.gigya.com
 #[cnn.com]
 0.0.0.0 ads.cnn.com
 0.0.0.0 cl.cnn.com
@@ -18389,6 +18379,7 @@
 0.0.0.0 realteencash.com
 0.0.0.0 realtracker.com
 0.0.0.0 rebelsubway.com
+0.0.0.0 rebrand.ly
 0.0.0.0 receptiveink.com
 0.0.0.0 receptivereaction.com
 0.0.0.0 record.affiliates.karjalakasino.com
@@ -19401,6 +19392,7 @@
 0.0.0.0 js.maxmind.com
 0.0.0.0 jwpltx.com
 0.0.0.0 k6r.net
+0.0.0.0 kameleoon.eu
 0.0.0.0 kidsghibli.com
 0.0.0.0 kkvmaj.com
 0.0.0.0 leadzutw.com

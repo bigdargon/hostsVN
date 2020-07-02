@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Jul 2020 15:24 UTC+7
-! Version: 2007011524
-! Blocked: 471 rules
+! Last modified: 02 Jul 2020 09:45 UTC+7
+! Version: 2007020945
+! Blocked: 474 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -375,6 +375,7 @@
 ||bong99.com^
 ||bong99.fun^
 ||cacuoc247.com^
+||cacuoc79.com^
 ||casino888vn.com^
 ||datcuoc247.com^
 ||debet.com^
@@ -434,8 +435,10 @@
 ||red88.com^
 ||ric.win^
 ||sbc31.com^
+||sieubomtan.com^
 ||sun.win^
 ||tai789.net^
+||taimacau.club^
 ||taiv8.com^
 ||thethaofb88.com^
 ||top88.club^
