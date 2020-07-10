@@ -3459,16 +3459,12 @@
 0.0.0.0 ad.adapter.kaffnet.com
 0.0.0.0 dc.log.kaffnet.com
 0.0.0.0 data.api.kaffnet.com
-#[rfihub]
-0.0.0.0 20501671p.rfihub.com
-0.0.0.0 20510777p.rfihub.com
-0.0.0.0 20554339p.rfihub.com
-0.0.0.0 20585485p.rfihub.com
-0.0.0.0 20754664p.rfihub.com
+#[rfihub.com]
 0.0.0.0 a.rfihub.com
 0.0.0.0 js2.rfihub.com
 0.0.0.0 p.rfihub.com
 0.0.0.0 rfihub.com
+0.0.0.0 s.rfihub.com
 #[chartbeat.com]
 0.0.0.0 adsapi.chartbeat.com
 0.0.0.0 api.chartbeat.com
@@ -11752,12 +11748,14 @@
 0.0.0.0 cpm.152media.com
 0.0.0.0 hb.ads.152media.com
 0.0.0.0 mob.152media.com
-0.0.0.0 player.ads.152media.com
 0.0.0.0 player-aws.ads.152media.com
+0.0.0.0 player.ads.152media.com
 0.0.0.0 reports.152media.com
 0.0.0.0 rtb-eu.152media.com
 0.0.0.0 rtb-useast.152media.com
 0.0.0.0 rtb-uswest.152media.com
+0.0.0.0 s.ads.152media.com
+0.0.0.0 sync.ads.152media.com
 0.0.0.0 www.152media.com
 #[bidfilter.com]
 0.0.0.0 bidfilter.com
@@ -14148,3 +14146,24 @@
 0.0.0.0 admarket.network
 0.0.0.0 s1.admarket.network
 0.0.0.0 www.admarket.network
+#[rekmob.com]
+0.0.0.0 adimg.rekmob.com
+0.0.0.0 ads.rekmob.com
+0.0.0.0 rekmob.com
+0.0.0.0 www.rekmob.com
+#[quantumdex.io]
+0.0.0.0 quantumdex.io
+0.0.0.0 sync.quantumdex.io
+0.0.0.0 useast.quantumdex.io
+0.0.0.0 www.quantumdex.io
+#[advangelists.com]
+0.0.0.0 advangelists.com
+0.0.0.0 advertiser.advangelists.com
+0.0.0.0 api-iqzone.advangelists.com
+0.0.0.0 delplaya-api.advangelists.com
+0.0.0.0 nep.advangelists.com
+0.0.0.0 nep-west.advangelists.com
+0.0.0.0 slack-in.advangelists.com
+0.0.0.0 supply.advangelists.com
+0.0.0.0 verve-api.advangelists.com
+0.0.0.0 www.advangelists.com
