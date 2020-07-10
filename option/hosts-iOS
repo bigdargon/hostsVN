@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Jul 2020 10:52 UTC+7
-# Version: 2007101052
-# Blocked: 18,886 domains
+# Last modified: 10 Jul 2020 15:01 UTC+7
+# Version: 2007101501
+# Blocked: 18,891 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13543,6 +13543,12 @@
 0 video.omnitagjs.com
 0 visitor.omnitagjs.com
 0 www.omnitagjs.com
+0 adlooxtracking.com
+0 am.adlooxtracking.com
+0 as.adlooxtracking.com
+0 brandsafe.adlooxtracking.com
+0 j.adlooxtracking.com
+0 services.adlooxtracking.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -15208,7 +15214,6 @@
 0 adlite.net
 0 adlog.cbsi.com
 0 adloox.com
-0 adlooxtracking.com
 0 adlure.net
 0 admagnet.net
 0 admailtiser.com

@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 10 Jul 2020 10:52 UTC+7
-! Version: 2007101052
+! Last modified: 10 Jul 2020 15:01 UTC+7
+! Version: 2007101501
 ! Blocked: 5,266 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -549,6 +549,7 @@
 ||adjust.com^
 ||adk2x.com^
 ||adkernel.com^
+||adlooxtracking.com^
 ||admantx.com^
 ||admarket.network^
 ||admarketplace.net^
@@ -1692,7 +1693,6 @@
 ||adlite.net^
 ||adlog.cbsi.com^
 ||adloox.com^
-||adlooxtracking.com^
 ||adlure.net^
 ||admagnet.net^
 ||admailtiser.com^
