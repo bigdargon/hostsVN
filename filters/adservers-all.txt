@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Jul 2020 21:16 UTC+7
-! Version: 2007042116
-! Blocked: 5,256 rules
+! Last modified: 10 Jul 2020 10:52 UTC+7
+! Version: 2007101052
+! Blocked: 5,266 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -22,9 +22,9 @@
 ||adnetwork.vn^
 ||adpia.vn^
 ||adrealclick.com^
+||ads*.zalo.me^
 ||ads-target.coccoc.com^
 ||ads.hosting.vcmedia.vn^
-||ads.zalo.me^
 ||ads.zaloapp.com^
 ||ads.zdn.vn^
 ||adsota.com^
@@ -52,6 +52,7 @@
 ||cityadstrack.com^
 ||cleverads.vn^
 ||clevernet.vn^
+||clickbuy.bz^
 ||cokhach.com^
 ||contineljs.com^
 ||d2ox6x0y9xhicd.cloudfront.net^
@@ -160,6 +161,7 @@
 ||adclient.vietnamnetjsc.vn^
 ||adfox.vn^
 ||adjusts.info^
+||adm.phunuvagiadinh.vn^
 ||admedia.com.vn^
 ||admin.sothuchi.vn^
 ||adpostback.headlines.pw^
@@ -172,6 +174,7 @@
 ||ads.khoahocdoisong.vn^
 ||ads.nghenhinvietnam.vn^
 ||ads.phunusuckhoe.vn^
+||ads.phunuvagiadinh.vn^
 ||ads.thesaigontimes.vn^
 ||ads.tiki.vn^
 ||ads.vietbao.vn^
@@ -336,6 +339,7 @@
 ||track.sendo.vn^
 ||track.srv.vietnamnet.vn^
 ||track.vatgia.com^
+||tracker.phunuvagiadinh.vn^
 ||tracker.tintucvietnam.vn^
 ||tracking.appwifi.com^
 ||tracking.meete.co^
@@ -625,6 +629,7 @@
 ||adtimes.nytimes.com^
 ||adtrackers.net^
 ||adtrue.com^
+||advangelists.com^
 ||advergine.com^
 ||advergine.ru^
 ||advertica.ae^
@@ -803,7 +808,6 @@
 ||click.taobao.com^
 ||click.union.ucweb.com^
 ||clickagy.com^
-||clickbuy.bz^
 ||clickhubs.com^
 ||clicksor.com^
 ||clicktale.net^
@@ -1129,8 +1133,10 @@
 ||o333o.com^
 ||objc.top^
 ||odc.starwave.com^
+||omnitagjs.com^
 ||omtrdc.net^
 ||onespot-tracking.herokuapp.com^
+||onetag-sys.com^
 ||onscroll.com^
 ||onthe.io^
 ||opecloud.com^
@@ -1201,6 +1207,7 @@
 ||pxlad.io^
 ||qualtrics.com^
 ||quantserve.com^
+||quantumdex.io^
 ||rakutenmarketing.com^
 ||rayads.cn^
 ||rayjump.com^
@@ -1208,6 +1215,7 @@
 ||referrer.disqus.com^
 ||refpa.top^
 ||reklamstore.com^
+||rekmob.com^
 ||relap.io^
 ||remarketingpixel.com^
 ||remotead-internal.cnet.com^
@@ -1266,6 +1274,7 @@
 ||smaato.net^
 ||smartadserver.com^
 ||smetrics.cnn.com^
+||smrtb.com^
 ||socdm.com^
 ||sociaplus.com^
 ||sonar-iad.xx.fbcdn.net^
@@ -5134,6 +5143,7 @@
 ||pipedream.wistia.com^
 ||pix.spot.im^
 ||pixel.nc0.co^
+||pixel.s3xified.com^
 ||pixel.wp.com^
 ||pjhku.com^
 ||pl.ventunotech.com^

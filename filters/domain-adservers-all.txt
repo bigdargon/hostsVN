@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 04 Jul 2020 21:16 UTC+7
-! Version: 2007042116
-! Blocked: 5,256 domains
+! Last modified: 10 Jul 2020 10:52 UTC+7
+! Version: 2007101052
+! Blocked: 5,266 domains
 ! The section containing the list contains all ad networks and tracking
 !
 123c.vn
@@ -20,9 +20,9 @@ admicro.vn
 adnetwork.vn
 adpia.vn
 adrealclick.com
+ads*.zalo.me
 ads-target.coccoc.com
 ads.hosting.vcmedia.vn
-ads.zalo.me
 ads.zaloapp.com
 ads.zdn.vn
 adsota.com
@@ -50,6 +50,7 @@ cityads.com
 cityadstrack.com
 cleverads.vn
 clevernet.vn
+clickbuy.bz
 cokhach.com
 contineljs.com
 d2ox6x0y9xhicd.cloudfront.net
@@ -158,6 +159,7 @@ adchoice.com
 adclient.vietnamnetjsc.vn
 adfox.vn
 adjusts.info
+adm.phunuvagiadinh.vn
 admedia.com.vn
 admin.sothuchi.vn
 adpostback.headlines.pw
@@ -170,6 +172,7 @@ ads.ictnews.vn
 ads.khoahocdoisong.vn
 ads.nghenhinvietnam.vn
 ads.phunusuckhoe.vn
+ads.phunuvagiadinh.vn
 ads.thesaigontimes.vn
 ads.tiki.vn
 ads.vietbao.vn
@@ -334,6 +337,7 @@ track.pregmomvietnam.com
 track.sendo.vn
 track.srv.vietnamnet.vn
 track.vatgia.com
+tracker.phunuvagiadinh.vn
 tracker.tintucvietnam.vn
 tracking.appwifi.com
 tracking.meete.co
@@ -623,6 +627,7 @@ adthrive.com
 adtimes.nytimes.com
 adtrackers.net
 adtrue.com
+advangelists.com
 advergine.com
 advergine.ru
 advertica.ae
@@ -801,7 +806,6 @@ clevertap.com
 click.taobao.com
 click.union.ucweb.com
 clickagy.com
-clickbuy.bz
 clickhubs.com
 clicksor.com
 clicktale.net
@@ -1127,8 +1131,10 @@ o-s.io
 o333o.com
 objc.top
 odc.starwave.com
+omnitagjs.com
 omtrdc.net
 onespot-tracking.herokuapp.com
+onetag-sys.com
 onscroll.com
 onthe.io
 opecloud.com
@@ -1199,6 +1205,7 @@ pvmax.net
 pxlad.io
 qualtrics.com
 quantserve.com
+quantumdex.io
 rakutenmarketing.com
 rayads.cn
 rayjump.com
@@ -1206,6 +1213,7 @@ realsrv.com
 referrer.disqus.com
 refpa.top
 reklamstore.com
+rekmob.com
 relap.io
 remarketingpixel.com
 remotead-internal.cnet.com
@@ -1264,6 +1272,7 @@ smaato.com
 smaato.net
 smartadserver.com
 smetrics.cnn.com
+smrtb.com
 socdm.com
 sociaplus.com
 sonar-iad.xx.fbcdn.net
@@ -5132,6 +5141,7 @@ pegloang.com
 pipedream.wistia.com
 pix.spot.im
 pixel.nc0.co
+pixel.s3xified.com
 pixel.wp.com
 pjhku.com
 pl.ventunotech.com

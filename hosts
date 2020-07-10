@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Jul 2020 21:16 UTC+7
-# Version: 2007042116
-# Blocked: 18,780 domains
+# Last modified: 10 Jul 2020 10:52 UTC+7
+# Version: 2007101052
+# Blocked: 18,886 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3471,16 +3471,12 @@
 0.0.0.0 ad.adapter.kaffnet.com
 0.0.0.0 dc.log.kaffnet.com
 0.0.0.0 data.api.kaffnet.com
-#[rfihub]
-0.0.0.0 20501671p.rfihub.com
-0.0.0.0 20510777p.rfihub.com
-0.0.0.0 20554339p.rfihub.com
-0.0.0.0 20585485p.rfihub.com
-0.0.0.0 20754664p.rfihub.com
+#[rfihub.com]
 0.0.0.0 a.rfihub.com
 0.0.0.0 js2.rfihub.com
 0.0.0.0 p.rfihub.com
 0.0.0.0 rfihub.com
+0.0.0.0 s.rfihub.com
 #[chartbeat.com]
 0.0.0.0 adsapi.chartbeat.com
 0.0.0.0 api.chartbeat.com
@@ -11764,12 +11760,14 @@
 0.0.0.0 cpm.152media.com
 0.0.0.0 hb.ads.152media.com
 0.0.0.0 mob.152media.com
-0.0.0.0 player.ads.152media.com
 0.0.0.0 player-aws.ads.152media.com
+0.0.0.0 player.ads.152media.com
 0.0.0.0 reports.152media.com
 0.0.0.0 rtb-eu.152media.com
 0.0.0.0 rtb-useast.152media.com
 0.0.0.0 rtb-uswest.152media.com
+0.0.0.0 s.ads.152media.com
+0.0.0.0 sync.ads.152media.com
 0.0.0.0 www.152media.com
 #[bidfilter.com]
 0.0.0.0 bidfilter.com
@@ -13845,11 +13843,6 @@
 0.0.0.0 stg-data-in.ads.heytapmobi.com
 0.0.0.0 stg-data-sg.ads.heytapmobi.com
 0.0.0.0 uapi.ads.heytapmobi.com
-#[clickbuy.bz]
-0.0.0.0 ads.clickbuy.bz
-0.0.0.0 clickbuy.bz
-0.0.0.0 lp.clickbuy.bz
-0.0.0.0 www.clickbuy.bz
 #[adxadserv.com]
 0.0.0.0 ads.adxadserv.com
 0.0.0.0 ads.g.adxadserv.com
@@ -14160,6 +14153,115 @@
 0.0.0.0 admarket.network
 0.0.0.0 s1.admarket.network
 0.0.0.0 www.admarket.network
+#[rekmob.com]
+0.0.0.0 adimg.rekmob.com
+0.0.0.0 ads.rekmob.com
+0.0.0.0 rekmob.com
+0.0.0.0 www.rekmob.com
+#[quantumdex.io]
+0.0.0.0 quantumdex.io
+0.0.0.0 sync.quantumdex.io
+0.0.0.0 useast.quantumdex.io
+0.0.0.0 www.quantumdex.io
+#[advangelists.com]
+0.0.0.0 advangelists.com
+0.0.0.0 advertiser.advangelists.com
+0.0.0.0 api-iqzone.advangelists.com
+0.0.0.0 delplaya-api.advangelists.com
+0.0.0.0 nep.advangelists.com
+0.0.0.0 nep-west.advangelists.com
+0.0.0.0 slack-in.advangelists.com
+0.0.0.0 supply.advangelists.com
+0.0.0.0 verve-api.advangelists.com
+0.0.0.0 www.advangelists.com
+#[smrtb.com]
+0.0.0.0 ads.smrtb.com
+0.0.0.0 app.smrtb.com
+0.0.0.0 assets-east.smrtb.com
+0.0.0.0 eu.smrtb.com
+0.0.0.0 lb.smrtb.com
+0.0.0.0 market-east.smrtb.com
+0.0.0.0 market-east-1.smrtb.com
+0.0.0.0 market-east-2.smrtb.com
+0.0.0.0 market-east-3.smrtb.com
+0.0.0.0 market-east-5.smrtb.com
+0.0.0.0 market-east-6.smrtb.com
+0.0.0.0 market-east-7.smrtb.com
+0.0.0.0 market-global.smrtb.com
+0.0.0.0 privacy.smrtb.com
+0.0.0.0 pubs.smrtb.com
+0.0.0.0 smrtb.com
+0.0.0.0 ssl-eu.smrtb.com
+0.0.0.0 ssl-market-east.smrtb.com
+0.0.0.0 ssl-market-east-1.smrtb.com
+0.0.0.0 ssl-market-east-2.smrtb.com
+0.0.0.0 ssl-market-east-3.smrtb.com
+0.0.0.0 ssl-market-east-4.smrtb.com
+0.0.0.0 ssl-market-east-5.smrtb.com
+0.0.0.0 ssl-market-east-6.smrtb.com
+0.0.0.0 ssl-market-east-7.smrtb.com
+0.0.0.0 ssl-web3-east.smrtb.com
+0.0.0.0 ssl-web3-east-1.smrtb.com
+0.0.0.0 ssl-web3-east-2.smrtb.com
+0.0.0.0 ssl-web3-east-3.smrtb.com
+0.0.0.0 ssl-web3-east-4.smrtb.com
+0.0.0.0 ssl-web3-east-5.smrtb.com
+0.0.0.0 ssl-xsp1-east.smrtb.com
+0.0.0.0 ssl-xsp2-east.smrtb.com
+0.0.0.0 ssl-xsp3-east.smrtb.com
+0.0.0.0 ssl-xsp4-east.smrtb.com
+0.0.0.0 ssl-xsp5-east.smrtb.com
+0.0.0.0 ssl-xsp6-east.smrtb.com
+0.0.0.0 ssl-xsp7-east.smrtb.com
+0.0.0.0 ssl-xsp8-east.smrtb.com
+0.0.0.0 ssl-xsp-test.smrtb.com
+0.0.0.0 sync.smrtb.com
+0.0.0.0 web3-east-1.smrtb.com
+0.0.0.0 web3-east-2.smrtb.com
+0.0.0.0 web3-east-3.smrtb.com
+0.0.0.0 web3-east-4.smrtb.com
+0.0.0.0 web3-east-5.smrtb.com
+0.0.0.0 www.smrtb.com
+0.0.0.0 xsp1-east.smrtb.com
+0.0.0.0 xsp2-east.smrtb.com
+0.0.0.0 xsp3-east.smrtb.com
+0.0.0.0 xsp4-east.smrtb.com
+0.0.0.0 xsp5-east.smrtb.com
+0.0.0.0 xsp6-east.smrtb.com
+0.0.0.0 xsp7-east.smrtb.com
+0.0.0.0 xsp8-east.smrtb.com
+#[onetag-sys.com]
+0.0.0.0 ads.onetag-sys.com
+0.0.0.0 bid.onetag-sys.com
+0.0.0.0 bid-apac.onetag-sys.com
+0.0.0.0 bid-eu.onetag-sys.com
+0.0.0.0 bid-g.onetag-sys.com
+0.0.0.0 bid-us.onetag-sys.com
+0.0.0.0 bid-us-east.onetag-sys.com
+0.0.0.0 debug.onetag-sys.com
+0.0.0.0 onetag-sys.com
+0.0.0.0 preprod.onetag-sys.com
+#[omnitagjs.com]
+0.0.0.0 adyoulike.omnitagjs.com
+0.0.0.0 api.omnitagjs.com
+0.0.0.0 b-api.omnitagjs.com
+0.0.0.0 dyn.omnitagjs.com
+0.0.0.0 fo-api.omnitagjs.com
+0.0.0.0 fo-dyn.omnitagjs.com
+0.0.0.0 fo-ssp.omnitagjs.com
+0.0.0.0 fo-static.omnitagjs.com
+0.0.0.0 hb-api.omnitagjs.com
+0.0.0.0 hp-api.omnitagjs.com
+0.0.0.0 omnitagjs.com
+0.0.0.0 pixels.omnitagjs.com
+0.0.0.0 ssp.omnitagjs.com
+0.0.0.0 static.omnitagjs.com
+0.0.0.0 tag.omnitagjs.com
+0.0.0.0 tag-dyn.omnitagjs.com
+0.0.0.0 tracking.omnitagjs.com
+0.0.0.0 video.omnitagjs.com
+0.0.0.0 visitor.omnitagjs.com
+0.0.0.0 www.omnitagjs.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14562,6 +14664,7 @@
 0.0.0.0 logv2.mp3.zing.vn
 0.0.0.0 tracking.playzing.g6.zing.vn
 #[zalo.me]
+0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.zalo.me
 0.0.0.0 px.za.zalo.me
 0.0.0.0 sp.zalo.me
@@ -15404,6 +15507,11 @@
 0.0.0.0 clevernet.vn
 0.0.0.0 m.clevernet.vn
 0.0.0.0 www.clevernet.vn
+#[clickbuy.bz]
+0.0.0.0 ads.clickbuy.bz
+0.0.0.0 clickbuy.bz
+0.0.0.0 lp.clickbuy.bz
+0.0.0.0 www.clickbuy.bz
 # --- Block adsVN ---
 0.0.0.0 703531862.vws.vegacdn.vn
 0.0.0.0 ad-admin.vnay.vn
@@ -15419,6 +15527,7 @@
 0.0.0.0 adclient.vietnamnetjsc.vn
 0.0.0.0 adfox.vn
 0.0.0.0 adjusts.info
+0.0.0.0 adm.phunuvagiadinh.vn
 0.0.0.0 admedia.com.vn
 0.0.0.0 admin.sothuchi.vn
 0.0.0.0 adpostback.headlines.pw
@@ -15431,6 +15540,7 @@
 0.0.0.0 ads.khoahocdoisong.vn
 0.0.0.0 ads.nghenhinvietnam.vn
 0.0.0.0 ads.phunusuckhoe.vn
+0.0.0.0 ads.phunuvagiadinh.vn
 0.0.0.0 ads.thesaigontimes.vn
 0.0.0.0 ads.tiki.vn
 0.0.0.0 ads.vietbao.vn
@@ -15606,6 +15716,7 @@
 0.0.0.0 track.icheck.com.vn
 0.0.0.0 track.pregmomvietnam.com
 0.0.0.0 track.sendo.vn
+0.0.0.0 tracker.phunuvagiadinh.vn
 0.0.0.0 tracker.tintucvietnam.vn
 0.0.0.0 tracking.appwifi.com
 0.0.0.0 tracking.meete.co
@@ -19440,6 +19551,7 @@
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pix.spot.im
 0.0.0.0 pixel.nc0.co
+0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pjhku.com
 0.0.0.0 pl.ventunotech.com

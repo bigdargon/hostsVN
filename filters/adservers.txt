@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 Jul 2020 21:16 UTC+7
-! Version: 2007042116
-! Blocked: 475 rules
+! Last modified: 10 Jul 2020 10:52 UTC+7
+! Version: 2007101052
+! Blocked: 479 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -22,9 +22,9 @@
 ||adnetwork.vn^
 ||adpia.vn^
 ||adrealclick.com^
+||ads*.zalo.me^
 ||ads-target.coccoc.com^
 ||ads.hosting.vcmedia.vn^
-||ads.zalo.me^
 ||ads.zaloapp.com^
 ||ads.zdn.vn^
 ||adsota.com^
@@ -52,6 +52,7 @@
 ||cityadstrack.com^
 ||cleverads.vn^
 ||clevernet.vn^
+||clickbuy.bz^
 ||cokhach.com^
 ||contineljs.com^
 ||d2ox6x0y9xhicd.cloudfront.net^
@@ -160,6 +161,7 @@
 ||adclient.vietnamnetjsc.vn^
 ||adfox.vn^
 ||adjusts.info^
+||adm.phunuvagiadinh.vn^
 ||admedia.com.vn^
 ||admin.sothuchi.vn^
 ||adpostback.headlines.pw^
@@ -172,6 +174,7 @@
 ||ads.khoahocdoisong.vn^
 ||ads.nghenhinvietnam.vn^
 ||ads.phunusuckhoe.vn^
+||ads.phunuvagiadinh.vn^
 ||ads.thesaigontimes.vn^
 ||ads.tiki.vn^
 ||ads.vietbao.vn^
@@ -336,6 +339,7 @@
 ||track.sendo.vn^
 ||track.srv.vietnamnet.vn^
 ||track.vatgia.com^
+||tracker.phunuvagiadinh.vn^
 ||tracker.tintucvietnam.vn^
 ||tracking.appwifi.com^
 ||tracking.meete.co^
