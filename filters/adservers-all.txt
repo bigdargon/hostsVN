@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 10 Jul 2020 15:01 UTC+7
-! Version: 2007101501
-! Blocked: 5,266 rules
+! Last modified: 15 Jul 2020 13:51 UTC+7
+! Version: 2007151351
+! Blocked: 5,267 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -22,9 +22,10 @@
 ||adnetwork.vn^
 ||adpia.vn^
 ||adrealclick.com^
-||ads*.zalo.me^
 ||ads-target.coccoc.com^
 ||ads.hosting.vcmedia.vn^
+||ads.platform.zalo.me^
+||ads.zalo.me^
 ||ads.zaloapp.com^
 ||ads.zdn.vn^
 ||adsota.com^
