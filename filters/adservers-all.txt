@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Jul 2020 13:51 UTC+7
-! Version: 2007151351
-! Blocked: 5,267 rules
+! Last modified: 15 Jul 2020 16:09 UTC+7
+! Version: 2007151609
+! Blocked: 5,268 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1109,6 +1109,7 @@
 ||movad.net^
 ||mparticle.com^
 ||mppmnetwork.com^
+||mstorer.net^
 ||mxpnl.com^
 ||mydas.mobi^
 ||myfastcdn.com^

@@ -3365,11 +3365,17 @@
 0.0.0.0 video-dsa.fyber.com
 0.0.0.0 video-interstitial-assets-cdn.fyber.com
 0.0.0.0 www.fyber.com
-#[onthe]
+#[onthe.io]
+0.0.0.0 as.cdn5.onthe.io
 0.0.0.0 cdn.onthe.io
+0.0.0.0 cdn5.onthe.io
+0.0.0.0 do.onthe.io
+0.0.0.0 eu.cdn5.onthe.io
 0.0.0.0 fb.onthe.io
 0.0.0.0 i.onthe.io
+0.0.0.0 na.cdn5.onthe.io
 0.0.0.0 onthe.io
+0.0.0.0 ru.cdn5.onthe.io
 0.0.0.0 tapi.onthe.io
 0.0.0.0 tt.onthe.io
 0.0.0.0 ttt.onthe.io
@@ -14257,3 +14263,7 @@
 0.0.0.0 brandsafe.adlooxtracking.com
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 services.adlooxtracking.com
+#[mstorer.net]
+0.0.0.0 c.mstorer.net
+0.0.0.0 m.mstorer.net
+0.0.0.0 mstorer.net
