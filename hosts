@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 Jul 2020 16:09 UTC+7
-# Version: 2007151609
-# Blocked: 18,900 domains
+# Last modified: 29 Jul 2020 22:00 UTC+7
+# Version: 2007292200
+# Blocked: 19,202 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -116,7 +116,6 @@
 #[adservice.google.*]
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.vn
-0.0.0.0 adservices.google.com
 #[googlesyndication.com]
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
@@ -311,13 +310,14 @@
 0.0.0.0 aps.amazon.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 astore.amazon.com
-0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 mads.amazon.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 fls-na.amazon.com
 0.0.0.0 mads-eu.amazon.com
+0.0.0.0 mads.amazon.com
 0.0.0.0 mas-sdk.amazon.com
-0.0.0.0 rcm.amazon.com
 0.0.0.0 rcm-images.amazon.com
+0.0.0.0 rcm.amazon.com
 0.0.0.0 uedata.amazon.com
 0.0.0.0 widgets.amazon.com
 0.0.0.0 wms.assoc-amazon.com
@@ -3805,14 +3805,26 @@
 0.0.0.0 rest.viglink.com
 0.0.0.0 viglink.com
 0.0.0.0 www.viglink.com
-#[adspruce]
+#[adspruce.com]
 0.0.0.0 adspruce.com
 0.0.0.0 ani.adspruce.com
+0.0.0.0 api3.adspruce.com
+0.0.0.0 assets.adspruce.com
+0.0.0.0 cdn-assets.adspruce.com
+0.0.0.0 cdn-vast.adspruce.com
+0.0.0.0 cdn-video.adspruce.com
 0.0.0.0 clients.adspruce.com
 0.0.0.0 info.adspruce.com
+0.0.0.0 publishers.adspruce.com
+0.0.0.0 queue.adspruce.com
 0.0.0.0 sdk.adspruce.com
+0.0.0.0 serve.adspruce.com
 0.0.0.0 sync.adspruce.com
 0.0.0.0 track.adspruce.com
+0.0.0.0 vast.adspruce.com
+0.0.0.0 video.adspruce.com
+0.0.0.0 vod.adspruce.com
+0.0.0.0 www.adspruce.com
 #[newrelic.com]
 0.0.0.0 alerts.newrelic.com
 0.0.0.0 apt.newrelic.com
@@ -14279,6 +14291,302 @@
 0.0.0.0 c.mstorer.net
 0.0.0.0 m.mstorer.net
 0.0.0.0 mstorer.net
+#[fouanalytics.com]
+0.0.0.0 adsbydomain.fouanalytics.com
+0.0.0.0 api.fouanalytics.com
+0.0.0.0 fouanalytics.com
+0.0.0.0 www.fouanalytics.com
+#[contentabc.com]
+0.0.0.0 ads.contentabc.com
+0.0.0.0 ads2.contentabc.com
+0.0.0.0 ads3.contentabc.com
+0.0.0.0 cdn.contentabc.com
+0.0.0.0 contentabc.com
+0.0.0.0 static.contentabc.com
+#[your-notice.com]
+0.0.0.0 read.your-notice.com
+0.0.0.0 video.your-notice.com
+0.0.0.0 www.your-notice.com
+0.0.0.0 your-notice.com
+#[simpleanalyticscdn.com]
+0.0.0.0 online.simpleanalyticscdn.com
+0.0.0.0 queue.simpleanalyticscdn.com
+0.0.0.0 screenshots.simpleanalyticscdn.com
+0.0.0.0 scripts.simpleanalyticscdn.com
+0.0.0.0 simpleanalyticscdn.com
+#[servenobid.com]
+0.0.0.0 ads.servenobid.com
+0.0.0.0 public.servenobid.com
+0.0.0.0 servenobid.com
+#[yldbt.com]
+0.0.0.0 ads-adseast.yldbt.com
+0.0.0.0 ads-adseast-vpc.yldbt.com
+0.0.0.0 ads-adswest.yldbt.com
+0.0.0.0 ads-adswest-vpc.yldbt.com
+0.0.0.0 adseast.yldbt.com
+0.0.0.0 ads-useast1.yldbt.com
+0.0.0.0 ads-useast1n.yldbt.com
+0.0.0.0 ads-uswest2n.yldbt.com
+0.0.0.0 adswest.yldbt.com
+0.0.0.0 bid.yldbt.com
+0.0.0.0 cbn.yldbt.com
+0.0.0.0 cdn.yldbt.com
+0.0.0.0 cnd.yldbt.com
+0.0.0.0 i.yldbt.com
+0.0.0.0 jcdn.yldbt.com
+0.0.0.0 l.yldbt.com
+0.0.0.0 msg.yldbt.com
+0.0.0.0 sdn.yldbt.com
+0.0.0.0 useast1n.yldbt.com
+0.0.0.0 vpc.yldbt.com
+0.0.0.0 www.yldbt.com
+0.0.0.0 yldbt.com
+#[galaxiemedia.fr]
+0.0.0.0 cdn.galaxiemedia.fr
+0.0.0.0 ce.galaxiemedia.fr
+0.0.0.0 cms.galaxiemedia.fr
+0.0.0.0 cms-preprod.galaxiemedia.fr
+0.0.0.0 conges.galaxiemedia.fr
+0.0.0.0 galaxiemedia.fr
+0.0.0.0 images.galaxiemedia.fr
+0.0.0.0 kvm.galaxiemedia.fr
+0.0.0.0 manage.galaxiemedia.fr
+0.0.0.0 mydayoff.galaxiemedia.fr
+0.0.0.0 pbserver.galaxiemedia.fr
+0.0.0.0 www.galaxiemedia.fr
+#[kargo.com]
+0.0.0.0 ad-monitor.kargo.com
+0.0.0.0 adserve.kargo.com
+0.0.0.0 aes.kargo.com
+0.0.0.0 cerberus.production.ap-southeast-2.kops.kargo.com
+0.0.0.0 cerberus.production.us-east-1.kops.kargo.com
+0.0.0.0 cma.kargo.com
+0.0.0.0 cma.production.ap-southeast-2.kops.kargo.com
+0.0.0.0 cma.production.us-east-1.kops.kargo.com
+0.0.0.0 crb.kargo.com
+0.0.0.0 kargo.com
+0.0.0.0 kds-pixel.kargo.com
+0.0.0.0 klkstrm.kargo.com
+0.0.0.0 kraken.production.ap-southeast-2.kops.kargo.com
+0.0.0.0 kraken.production.us-east-1.kops.kargo.com
+0.0.0.0 kraken.production.us-west-1.kops.kargo.com
+0.0.0.0 krk.kargo.com
+0.0.0.0 monitor.kargo.com
+0.0.0.0 pixel.kargo.com
+0.0.0.0 prg.kargo.com
+0.0.0.0 production.kargo.com
+0.0.0.0 staging.kargo.com
+0.0.0.0 storage.cloud.kargo.com
+#[yieldlab.net]
+0.0.0.0 ad.yieldlab.net
+0.0.0.0 api.yieldlab.net
+0.0.0.0 aut.yieldlab.net
+0.0.0.0 counts.yieldlab.net
+0.0.0.0 id.yieldlab.net
+0.0.0.0 instayp.yieldlab.net
+0.0.0.0 lb.yieldlab.net
+0.0.0.0 multissp.yieldlab.net
+0.0.0.0 multissp-dev.yieldlab.net
+0.0.0.0 ortb.yieldlab.net
+0.0.0.0 p.yieldlab.net
+0.0.0.0 probe.yieldlab.net
+0.0.0.0 rtb.yieldlab.net
+0.0.0.0 stage-instayp.yieldlab.net
+0.0.0.0 www.yieldlab.net
+0.0.0.0 yieldlab.net
+#[automatad.com]
+0.0.0.0 ad.automatad.com
+0.0.0.0 automatad.com
+0.0.0.0 b2cdn.automatad.com
+0.0.0.0 bcdn.automatad.com
+0.0.0.0 cdn.automatad.com
+0.0.0.0 dc01.automatad.com
+0.0.0.0 geo.automatad.com
+0.0.0.0 go.automatad.com
+0.0.0.0 go2.automatad.com
+0.0.0.0 hub.automatad.com
+0.0.0.0 lite.automatad.com
+0.0.0.0 nivid.automatad.com
+0.0.0.0 o2cdn.automatad.com
+0.0.0.0 pba.automatad.com
+0.0.0.0 pbc.automatad.com
+0.0.0.0 pbs01.automatad.com
+0.0.0.0 pub.automatad.com
+0.0.0.0 rtb2.automatad.com
+0.0.0.0 stories.automatad.com
+0.0.0.0 us-east-pbc.automatad.com
+0.0.0.0 us-east-pbc-cluster.automatad.com
+0.0.0.0 us-east-pbs.automatad.com
+0.0.0.0 us-east-pbs01.automatad.com
+0.0.0.0 wpold.automatad.com
+0.0.0.0 www.automatad.com
+0.0.0.0 yeti.automatad.com
+0.0.0.0 yeti-api.automatad.com
+#[flux-adserver.com]
+0.0.0.0 flux-adserver.com
+0.0.0.0 prebid-cache.flux-adserver.com
+0.0.0.0 prebid-server.flux-adserver.com
+0.0.0.0 staging.flux-adserver.com
+#[browsiprod.com]
+0.0.0.0 amp.browsiprod.com
+0.0.0.0 browsiprod.com
+0.0.0.0 cdn.browsiprod.com
+0.0.0.0 device-detect.browsiprod.com
+0.0.0.0 events.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 yield-manager.browsiprod.com
+#[24smi.net]
+0.0.0.0 24smi.net
+0.0.0.0 data.24smi.net
+0.0.0.0 img.24smi.net
+0.0.0.0 jsn.24smi.net
+0.0.0.0 new.data.24smi.net
+0.0.0.0 new.img.24smi.net
+0.0.0.0 ssp.24smi.net
+0.0.0.0 static.24smi.net
+#[accesstrade.net]
+0.0.0.0 a.image.accesstrade.net
+0.0.0.0 accesstrade.net
+0.0.0.0 analyze.accesstrade.net
+0.0.0.0 api.accesstrade.net
+0.0.0.0 bck.accesstrade.net
+0.0.0.0 eu.accesstrade.net
+0.0.0.0 f-api.accesstrade.net
+0.0.0.0 h.accesstrade.net
+0.0.0.0 img.accesstrade.net
+0.0.0.0 is.accesstrade.net
+0.0.0.0 labs.accesstrade.net
+0.0.0.0 merchant.accesstrade.net
+0.0.0.0 order-c.accesstrade.net
+0.0.0.0 s.accesstrade.net
+0.0.0.0 s.gslb.accesstrade.net
+0.0.0.0 s0.accesstrade.net
+0.0.0.0 sp.accesstrade.net
+0.0.0.0 ws.accesstrade.net
+0.0.0.0 www.accesstrade.net
+0.0.0.0 xml.accesstrade.net
+#[a8.net]
+0.0.0.0 a8.net
+0.0.0.0 ad.a8.net
+0.0.0.0 ad-api.a8.net
+0.0.0.0 adv.a8.net
+0.0.0.0 ad-verification.a8.net
+0.0.0.0 amz-ad.a8.net
+0.0.0.0 datafeed.a8.net
+0.0.0.0 direct.a8.net
+0.0.0.0 goods.a8.net
+0.0.0.0 ifrb.a8.net
+0.0.0.0 items.a8.net
+0.0.0.0 lm.a8.net
+0.0.0.0 ns6.a8.net
+0.0.0.0 ns7.a8.net
+0.0.0.0 ow.a8.net
+0.0.0.0 prg.a8.net
+0.0.0.0 pub.a8.net
+0.0.0.0 px.a8.net
+0.0.0.0 rot0.a8.net
+0.0.0.0 rot1.a8.net
+0.0.0.0 rot2.a8.net
+0.0.0.0 rot3.a8.net
+0.0.0.0 rot4.a8.net
+0.0.0.0 rot5.a8.net
+0.0.0.0 rot6.a8.net
+0.0.0.0 rot7.a8.net
+0.0.0.0 rot8.a8.net
+0.0.0.0 rot9.a8.net
+0.0.0.0 rpx.a8.net
+0.0.0.0 rws.a8.net
+0.0.0.0 sp-api.a8.net
+0.0.0.0 statics.a8.net
+0.0.0.0 support.a8.net
+0.0.0.0 trck.a8.net
+0.0.0.0 trck-v4.a8.net
+0.0.0.0 www.a8.net
+#[adplugg.com]
+0.0.0.0 adplugg.com
+0.0.0.0 cdn.adplugg.com
+0.0.0.0 www.adplugg.com
+#[adspeed.net]
+0.0.0.0 a.adspeed.net
+0.0.0.0 adspeed.net
+0.0.0.0 amplify.adspeed.net
+0.0.0.0 animelab.adspeed.net
+0.0.0.0 aus.adspeed.net
+0.0.0.0 b.adspeed.net
+0.0.0.0 bluegrasstoday.adspeed.net
+0.0.0.0 branded.adspeed.net
+0.0.0.0 c.adspeed.net
+0.0.0.0 cdn3.adspeed.net
+0.0.0.0 cdneu.adspeed.net
+0.0.0.0 consumertrack.adspeed.net
+0.0.0.0 d.adspeed.net
+0.0.0.0 g.adspeed.net
+0.0.0.0 g2.adspeed.net
+0.0.0.0 g8.adspeed.net
+0.0.0.0 gs.adspeed.net
+0.0.0.0 pdaorg.adspeed.net
+0.0.0.0 videocdn.adspeed.net
+0.0.0.0 www.adspeed.net
+#[ad.style]
+0.0.0.0 ad.style
+0.0.0.0 api.ad.style
+0.0.0.0 display.ad.style
+0.0.0.0 w.ad.style
+0.0.0.0 widgets.ad.style
+0.0.0.0 www.ad.style
+#[adup-tech.com]
+0.0.0.0 adup-tech.com
+0.0.0.0 d.adup-tech.com
+0.0.0.0 m.adup-tech.com
+0.0.0.0 m2.adup-tech.com
+0.0.0.0 media.adup-tech.com
+0.0.0.0 ms.adup-tech.com
+0.0.0.0 n.adup-tech.com
+0.0.0.0 regio.adup-tech.com
+0.0.0.0 rtb.d.adup-tech.com
+0.0.0.0 s.d.adup-tech.com
+0.0.0.0 secure.adup-tech.com
+0.0.0.0 t.d.adup-tech.com
+0.0.0.0 t2.d.adup-tech.com
+0.0.0.0 v.adup-tech.com
+0.0.0.0 www.adup-tech.com
+#[cpaikon.net]
+0.0.0.0 api.cpaikon.net
+0.0.0.0 cdn.cpaikon.net
+0.0.0.0 cpaikon.net
+0.0.0.0 flow.cpaikon.net
+0.0.0.0 tds.cpaikon.net
+0.0.0.0 track.cpaikon.net
+#[factual.com]
+0.0.0.0 api.factual.com
+0.0.0.0 factual.com
+0.0.0.0 geopulse.factual.com
+0.0.0.0 intake.factual.com
+0.0.0.0 p.factual.com
+0.0.0.0 www.factual.com
+#[lotame.com]
+0.0.0.0 api.lotame.com
+0.0.0.0 lotame.com
+0.0.0.0 platform.lotame.com
+0.0.0.0 www.lotame.com
+#[pushspring.com]
+0.0.0.0 adotron.pushspring.com
+0.0.0.0 api.pushspring.com
+0.0.0.0 cdn.media.pushspring.com
+0.0.0.0 cdn.public.pushspring.com
+0.0.0.0 cdnc.pushspring.com
+0.0.0.0 cdnp.pushspring.com
+0.0.0.0 console.pushspring.com
+0.0.0.0 developer.pushspring.com
+0.0.0.0 docs.pushspring.com
+0.0.0.0 internal.pushspring.com
+0.0.0.0 media.pushspring.com
+0.0.0.0 mkt.pushspring.com
+0.0.0.0 pixel.pushspring.com
+0.0.0.0 public.pushspring.com
+0.0.0.0 pushspring.com
+0.0.0.0 www.pushspring.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14495,6 +14803,9 @@
 #[novaonads]
 0.0.0.0 novaonads.com
 0.0.0.0 www.novaonads.com
+0.0.0.0 novaon.vn
+0.0.0.0 www.novaon.vn
+#[novaon.asia]
 0.0.0.0 novaon.asia
 0.0.0.0 cms.novaon.asia
 0.0.0.0 crowd.novaon.asia
@@ -14506,8 +14817,7 @@
 0.0.0.0 phi.novaon.asia
 0.0.0.0 report.novaon.asia
 0.0.0.0 www.novaon.asia
-0.0.0.0 novaon.vn
-0.0.0.0 www.novaon.vn
+#[novaonx.com]
 0.0.0.0 novaonx.com
 0.0.0.0 accounts.novaonx.com
 0.0.0.0 crm.novaonx.com
@@ -14515,7 +14825,6 @@
 0.0.0.0 chatbot-staging.novaonx.com
 0.0.0.0 chatbottudong.novaonx.com
 0.0.0.0 chatbotthoitrang.novaonx.com
-0.0.0.0 dns.novaonx.com
 0.0.0.0 drone.novaonx.com
 0.0.0.0 git.novaonx.com
 0.0.0.0 landingpage.novaonx.com
@@ -15049,7 +15358,6 @@
 0.0.0.0 indo.autoads.asia
 0.0.0.0 mantis.autoads.asia
 0.0.0.0 pixel.autoads.asia
-0.0.0.0 testcert.autoads.asia
 0.0.0.0 tracking.autoads.asia
 0.0.0.0 www.autoads.asia
 0.0.0.0 xacthuc.autoads.asia
@@ -15529,6 +15837,22 @@
 0.0.0.0 clickbuy.bz
 0.0.0.0 lp.clickbuy.bz
 0.0.0.0 www.clickbuy.bz
+#[oncustomer.asia]
+0.0.0.0 api-internal.oncustomer.asia
+0.0.0.0 app.oncustomer.asia
+0.0.0.0 beta.oncustomer.asia
+0.0.0.0 company.oncustomer.asia
+0.0.0.0 hook.oncustomer.asia
+0.0.0.0 livechat.oncustomer.asia
+0.0.0.0 oncall.oncustomer.asia
+0.0.0.0 oncustomer.asia
+0.0.0.0 push.oncustomer.asia
+0.0.0.0 reports-api.oncustomer.asia
+0.0.0.0 style.oncustomer.asia
+0.0.0.0 widget.oncustomer.asia
+0.0.0.0 widget-1.oncustomer.asia
+0.0.0.0 widget-2.oncustomer.asia
+0.0.0.0 widget-beta.oncustomer.asia
 # --- Block adsVN ---
 0.0.0.0 703531862.vws.vegacdn.vn
 0.0.0.0 ad-admin.vnay.vn
@@ -15589,6 +15913,7 @@
 0.0.0.0 apinas.nct.vn
 0.0.0.0 banhtv.org
 0.0.0.0 banner.5giay.vn
+0.0.0.0 banner.vietnamfinance.vn
 0.0.0.0 bgadx.com
 0.0.0.0 cdn-ads.thesaigontimes.vn
 0.0.0.0 chiasephim.xyz
@@ -15674,6 +15999,7 @@
 0.0.0.0 analytics.thethao247.org
 0.0.0.0 analytics.tiki.vn
 0.0.0.0 analytics.videocloud.top
+0.0.0.0 analytics.vietnamfinance.vn
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 apl.headlines.pw
 0.0.0.0 deqik.com
@@ -15700,6 +16026,7 @@
 0.0.0.0 log.thanhnien.vn
 0.0.0.0 log.tienphong.vn
 0.0.0.0 log.vietnamdaily.net.vn
+0.0.0.0 log.vietnamfinance.vn
 0.0.0.0 log.vietnamplus.vn
 0.0.0.0 log.vnay.vn
 0.0.0.0 log.vntoday.news
@@ -15748,6 +16075,8 @@
 0.0.0.0 vtrack.vht.com.vn
 0.0.0.0 web.stagingf8.pycogroup.com
 0.0.0.0 widget.nhaccuatui.com
+0.0.0.0 widget.sbz.vn
+0.0.0.0 widget.subiz.xyz
 # --- Block scamVN ---
 0.0.0.0 celerantatters.com
 0.0.0.0 fuckbookvietnam.com
@@ -15823,12 +16152,12 @@
 0.0.0.0 ad.103092804.com
 0.0.0.0 ad.71i.de
 0.0.0.0 ad.980x.com
-0.0.0.0 ad.a8.net
 0.0.0.0 ad.abcnews.com
 0.0.0.0 ad.abctv.com
 0.0.0.0 ad.about.com
 0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 ad.abum.com
+0.0.0.0 ad.adpon.jp
 0.0.0.0 ad.allstar.cz
 0.0.0.0 ad.altervista.org
 0.0.0.0 ad.amgdgt.com
@@ -16177,7 +16506,6 @@
 0.0.0.0 ads.com.com
 0.0.0.0 ads.comeon.com
 0.0.0.0 ads.contactmusic.com
-0.0.0.0 ads.contentabc.com
 0.0.0.0 ads.crakmedia.com
 0.0.0.0 ads.creative-serving.com
 0.0.0.0 ads.cybersales.cz
@@ -16410,7 +16738,6 @@
 0.0.0.0 ads180.com
 0.0.0.0 ads2.brazzers.com
 0.0.0.0 ads2.clearchannel.com
-0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.jubii.dk
 0.0.0.0 ads2.net-communities.co.uk
 0.0.0.0 ads2.oneplace.com
@@ -16419,7 +16746,6 @@
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads2004.treiberupdate.de
 0.0.0.0 ads24h.net
-0.0.0.0 ads3.contentabc.com
 0.0.0.0 ads3.virtual-nights.com
 0.0.0.0 ads4.clearchannel.com
 0.0.0.0 ads4.virtual-nights.com
@@ -16522,7 +16848,6 @@
 0.0.0.0 adsonar.com
 0.0.0.0 adsoptimal.com
 0.0.0.0 adspace.ro
-0.0.0.0 adspeed.net
 0.0.0.0 adspleen.com
 0.0.0.0 adsponse.de
 0.0.0.0 adspot.co
@@ -16568,7 +16893,6 @@
 0.0.0.0 adultmoda.com
 0.0.0.0 adunion.tapas.net
 0.0.0.0 adunity.com
-0.0.0.0 adup-tech.com
 0.0.0.0 adux.com
 0.0.0.0 adv-adserver.com
 0.0.0.0 adv-banner.libero.it
@@ -17196,7 +17520,6 @@
 0.0.0.0 contehos.com
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.bitsontherun.com
-0.0.0.0 contentabc.com
 0.0.0.0 conversionruler.com
 0.0.0.0 convrse.media
 0.0.0.0 cookies.cmpnet.com
@@ -17816,7 +18139,6 @@
 0.0.0.0 justwebads.com
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kanoodle.com
-0.0.0.0 kargo.com
 0.0.0.0 karisimbi.net
 0.0.0.0 karonty.com
 0.0.0.0 keapeiros.xyz
@@ -18426,6 +18748,7 @@
 0.0.0.0 pub.club-internet.fr
 0.0.0.0 pub.hardware.fr
 0.0.0.0 pub.realmedia.fr
+0.0.0.0 pub.trads.io
 0.0.0.0 pubdirecte.com
 0.0.0.0 publicidad.elmundo.es
 0.0.0.0 publicidees.com
@@ -18666,6 +18989,7 @@
 0.0.0.0 shermore.info
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
+0.0.0.0 shndrktrk.com
 0.0.0.0 shofteph.com
 0.0.0.0 shoppingads.com
 0.0.0.0 shopzilla.com
@@ -19043,6 +19367,7 @@
 0.0.0.0 tunnl.com
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com
+0.0.0.0 tutelatechnologies.com
 0.0.0.0 tvmtracker.com
 0.0.0.0 twenticiseflo.site
 0.0.0.0 twiago.com
@@ -19283,6 +19608,7 @@
 0.0.0.0 www.propu.sh
 0.0.0.0 www.push-notifications.top
 0.0.0.0 www.routeserve.info
+0.0.0.0 www.shndrktrk.com
 0.0.0.0 www.statsy.net
 0.0.0.0 www.theweblocker.net
 0.0.0.0 www.trafyield.com
@@ -19323,13 +19649,11 @@
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com
 0.0.0.0 yieldads.com
-0.0.0.0 yieldlab.net
 0.0.0.0 yieldmanager.com
 0.0.0.0 yieldmanager.net
 0.0.0.0 yieldmo.com
 0.0.0.0 yieldoptimizer.com
 0.0.0.0 yieldtraffic.com
-0.0.0.0 yldbt.com
 0.0.0.0 ymetrica1.com
 0.0.0.0 yoc-adserver.com
 0.0.0.0 yoc-performance.com
@@ -19476,7 +19800,6 @@
 0.0.0.0 dynatrace.com
 0.0.0.0 edigitalsurvey.com
 0.0.0.0 embed.tawk.to
-0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 ethtrader.de
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 events-collector.spot.im
@@ -19516,6 +19839,8 @@
 0.0.0.0 img.leadzutw.com
 0.0.0.0 infoaz.nl
 0.0.0.0 intent.cbsi.com
+0.0.0.0 js.hscollectedforms.net
+0.0.0.0 js.hsleadflows.net
 0.0.0.0 js.idio.co
 0.0.0.0 js.maxmind.com
 0.0.0.0 jwpltx.com
@@ -19586,6 +19911,7 @@
 0.0.0.0 r1.snnd.co
 0.0.0.0 redinvestor.com
 0.0.0.0 remyyadan.online.fr
+0.0.0.0 reports.ubimo.com
 0.0.0.0 richmetrics.com
 0.0.0.0 robinkornett.com
 0.0.0.0 rochesterdata.com
@@ -19643,6 +19969,7 @@
 0.0.0.0 track.omg543.com
 0.0.0.0 track.sohu.com
 0.0.0.0 track.tenjin.io
+0.0.0.0 track.videmob.com
 0.0.0.0 trackcmp.net
 0.0.0.0 tracker.vgame.us
 0.0.0.0 trackersimulator.org
@@ -19651,6 +19978,7 @@
 0.0.0.0 trk.clinch.co
 0.0.0.0 trk.pinterest.com
 0.0.0.0 ultimedia.com
+0.0.0.0 um.videmob.com
 0.0.0.0 unicaitaly.it
 0.0.0.0 usabilla.com
 0.0.0.0 usergrid.com

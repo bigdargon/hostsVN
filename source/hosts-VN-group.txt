@@ -214,6 +214,9 @@
 #[novaonads]
 0.0.0.0 novaonads.com
 0.0.0.0 www.novaonads.com
+0.0.0.0 novaon.vn
+0.0.0.0 www.novaon.vn
+#[novaon.asia]
 0.0.0.0 novaon.asia
 0.0.0.0 cms.novaon.asia
 0.0.0.0 crowd.novaon.asia
@@ -225,8 +228,7 @@
 0.0.0.0 phi.novaon.asia
 0.0.0.0 report.novaon.asia
 0.0.0.0 www.novaon.asia
-0.0.0.0 novaon.vn
-0.0.0.0 www.novaon.vn
+#[novaonx.com]
 0.0.0.0 novaonx.com
 0.0.0.0 accounts.novaonx.com
 0.0.0.0 crm.novaonx.com
@@ -234,7 +236,6 @@
 0.0.0.0 chatbot-staging.novaonx.com
 0.0.0.0 chatbottudong.novaonx.com
 0.0.0.0 chatbotthoitrang.novaonx.com
-0.0.0.0 dns.novaonx.com
 0.0.0.0 drone.novaonx.com
 0.0.0.0 git.novaonx.com
 0.0.0.0 landingpage.novaonx.com
@@ -768,7 +769,6 @@
 0.0.0.0 indo.autoads.asia
 0.0.0.0 mantis.autoads.asia
 0.0.0.0 pixel.autoads.asia
-0.0.0.0 testcert.autoads.asia
 0.0.0.0 tracking.autoads.asia
 0.0.0.0 www.autoads.asia
 0.0.0.0 xacthuc.autoads.asia
@@ -1248,3 +1248,19 @@
 0.0.0.0 clickbuy.bz
 0.0.0.0 lp.clickbuy.bz
 0.0.0.0 www.clickbuy.bz
+#[oncustomer.asia]
+0.0.0.0 api-internal.oncustomer.asia
+0.0.0.0 app.oncustomer.asia
+0.0.0.0 beta.oncustomer.asia
+0.0.0.0 company.oncustomer.asia
+0.0.0.0 hook.oncustomer.asia
+0.0.0.0 livechat.oncustomer.asia
+0.0.0.0 oncall.oncustomer.asia
+0.0.0.0 oncustomer.asia
+0.0.0.0 push.oncustomer.asia
+0.0.0.0 reports-api.oncustomer.asia
+0.0.0.0 style.oncustomer.asia
+0.0.0.0 widget.oncustomer.asia
+0.0.0.0 widget-1.oncustomer.asia
+0.0.0.0 widget-2.oncustomer.asia
+0.0.0.0 widget-beta.oncustomer.asia

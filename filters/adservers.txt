@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Jul 2020 16:09 UTC+7
-! Version: 2007151609
-! Blocked: 480 rules
+! Last modified: 29 Jul 2020 22:00 UTC+7
+! Version: 2007292200
+! Blocked: 488 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -28,6 +28,7 @@
 ||ads.zalo.me^
 ||ads.zaloapp.com^
 ||ads.zdn.vn^
+||adservice.google.com.vn^
 ||adsota.com^
 ||adsparc.com^
 ||adsplay.net^
@@ -99,6 +100,7 @@
 ||nt-cdn.coccoc.com^
 ||nv-ad*.24hstatic.com^
 ||ohchat.net^
+||oncustomer.asia^
 ||phanquang.vn^
 ||philacct.com^
 ||photo-ads.zaloapp.com^
@@ -207,6 +209,7 @@
 ||apinas.nct.vn^
 ||banhtv.org^
 ||banner.5giay.vn^
+||banner.vietnamfinance.vn^
 ||bgadx.com^
 ||cdn-ads.thesaigontimes.vn^
 ||chiasephim.xyz^
@@ -278,6 +281,7 @@
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
 ||analytics.videocloud.top^
+||analytics.vietnamfinance.vn^
 ||analytics.vnreview.vn^
 ||apl.headlines.pw^
 ||deqik.com^
@@ -304,6 +308,7 @@
 ||log.thanhnien.vn^
 ||log.tienphong.vn^
 ||log.vietnamdaily.net.vn^
+||log.vietnamfinance.vn^
 ||log.vietnamplus.vn^
 ||log.vnay.vn^
 ||log.vntoday.news^
@@ -355,6 +360,8 @@
 ||web.f8.pyco.vn^
 ||web.stagingf8.pycogroup.com^
 ||widget.nhaccuatui.com^
+||widget.sbz.vn^
+||widget.subiz.xyz^
 ||11bet.com^
 ||11bet.net^
 ||11bet.win^
@@ -443,6 +450,7 @@
 ||sbc31.com^
 ||sieubomtan.com^
 ||sun.win^
+||sv88.com^
 ||tai789.net^
 ||taimacau.club^
 ||taiv8.com^

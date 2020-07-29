@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Jul 2020 16:09 UTC+7
-! Version: 2007151609
-! Blocked: 5,268 rules
+! Last modified: 29 Jul 2020 22:00 UTC+7
+! Version: 2007292200
+! Blocked: 5,300 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -28,6 +28,7 @@
 ||ads.zalo.me^
 ||ads.zaloapp.com^
 ||ads.zdn.vn^
+||adservice.google.com.vn^
 ||adsota.com^
 ||adsparc.com^
 ||adsplay.net^
@@ -99,6 +100,7 @@
 ||nt-cdn.coccoc.com^
 ||nv-ad*.24hstatic.com^
 ||ohchat.net^
+||oncustomer.asia^
 ||phanquang.vn^
 ||philacct.com^
 ||photo-ads.zaloapp.com^
@@ -207,6 +209,7 @@
 ||apinas.nct.vn^
 ||banhtv.org^
 ||banner.5giay.vn^
+||banner.vietnamfinance.vn^
 ||bgadx.com^
 ||cdn-ads.thesaigontimes.vn^
 ||chiasephim.xyz^
@@ -278,6 +281,7 @@
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
 ||analytics.videocloud.top^
+||analytics.vietnamfinance.vn^
 ||analytics.vnreview.vn^
 ||apl.headlines.pw^
 ||deqik.com^
@@ -304,6 +308,7 @@
 ||log.thanhnien.vn^
 ||log.tienphong.vn^
 ||log.vietnamdaily.net.vn^
+||log.vietnamfinance.vn^
 ||log.vietnamplus.vn^
 ||log.vnay.vn^
 ||log.vntoday.news^
@@ -355,6 +360,8 @@
 ||web.f8.pyco.vn^
 ||web.stagingf8.pycogroup.com^
 ||widget.nhaccuatui.com^
+||widget.sbz.vn^
+||widget.subiz.xyz^
 ||11bet.com^
 ||11bet.net^
 ||11bet.win^
@@ -443,6 +450,7 @@
 ||sbc31.com^
 ||sieubomtan.com^
 ||sun.win^
+||sv88.com^
 ||tai789.net^
 ||taimacau.club^
 ||taiv8.com^
@@ -489,6 +497,7 @@
 ||152media.com^
 ||1rx.io^
 ||1ts06.top^
+||24smi.net^
 ||2leep.com^
 ||2mdn.net^
 ||2mdnsys.com^
@@ -500,11 +509,13 @@
 ||a-ads.com^
 ||a-mo.net^
 ||a4.tl^
+||a8.net^
 ||aaddcount.com^
 ||aatkit.com^
 ||aax-*-iad.amazon.com^
 ||aaxads.com^
 ||accengage.com^
+||accesstrade.net^
 ||acloudimages.com^
 ||acuityplatform.com^
 ||ad*.qq.com^
@@ -517,6 +528,7 @@
 ||ad.go.com^
 ||ad.gt^
 ||ad.plus^
+||ad.style^
 ||ad.youtube.com^
 ||ad4game.com^
 ||ad4screen.com^
@@ -567,6 +579,7 @@
 ||adop.cc^
 ||adoptimize.com^
 ||adoptimize.info^
+||adplugg.com^
 ||adpone.com^
 ||adpopcorn.com^
 ||adpushup.com^
@@ -580,6 +593,7 @@
 ||ads*-adnow.com^
 ||ads*.msn.com^
 ||ads*.viber.com^
+||ads-bidder-api.twitter.com^
 ||ads-fa.spotify.com^
 ||ads-twitter.com^
 ||ads.*.unity3d.com^
@@ -612,6 +626,7 @@
 ||adskeeper.co.uk^
 ||adskeeper.com^
 ||adsnative.com^
+||adspeed.net^
 ||adspirit.de^
 ||adspruce.com^
 ||adspsp.com^
@@ -631,6 +646,7 @@
 ||adtimes.nytimes.com^
 ||adtrackers.net^
 ||adtrue.com^
+||adup-tech.com^
 ||advangelists.com^
 ||advergine.com^
 ||advergine.ru^
@@ -726,6 +742,7 @@
 ||assoc-amazon.com^
 ||atdmt.com^
 ||atemda.com^
+||automatad.com^
 ||avazutracking.net^
 ||awaps.net^
 ||awaps.yandex.net^
@@ -779,6 +796,7 @@
 ||breaktime.com.tw^
 ||brealtime.com^
 ||browser.pipe.aria.microsoft.com^
+||browsiprod.com^
 ||bs.yandex.ru^
 ||btrace.video.qq.com^
 ||bttrack.com^
@@ -834,10 +852,12 @@
 ||consumable.com^
 ||content-ad.net^
 ||content.ad^
+||contentabc.com^
 ||contextweb.com^
 ||conversantmedia.com^
 ||count.taobao.com^
 ||countess.twitch.tv^
+||cpaikon.net^
 ||cpmstar.com^
 ||cpro.baidu.com^
 ||creative.ak.facebook.com^
@@ -907,6 +927,7 @@
 ||external-promo-metrics.yandex.net^
 ||ezodn.com^
 ||ezoic.net^
+||factual.com^
 ||fads*s.com^
 ||fads*z.com^
 ||faktor.io^
@@ -918,7 +939,10 @@
 ||firebaselogging*.googleapis.com^
 ||firstimpression.io^
 ||flashtalking.com^
+||fls-na.amazon.com^
 ||flurry.com^
+||flux-adserver.com^
+||fouanalytics.com^
 ||fout.jp^
 ||fqtag.com^
 ||freshmarketer.com^
@@ -928,6 +952,7 @@
 ||fyber.com^
 ||gads*s.com^
 ||gads*z.com^
+||galaxiemedia.fr^
 ||gameanalytics.com^
 ||gaug.es^
 ||genieessp.com^
@@ -1016,6 +1041,7 @@
 ||juicyads.com^
 ||justpremium.com^
 ||kaffnet.com^
+||kargo.com^
 ||kau.li^
 ||kinesis.*.amazonaws.com^
 ||knowlead.io^
@@ -1044,6 +1070,7 @@
 ||logly.co.jp^
 ||logrocket.com^
 ||logrocket.io^
+||lotame.com^
 ||lsosad.com^
 ||mads*.amazon.com^
 ||mads*z.com^
@@ -1204,6 +1231,7 @@
 ||pubnative.net^
 ||puds.ucweb.com^
 ||pushpush.io^
+||pushspring.com^
 ||pushtimize.com^
 ||pushwoosh.com^
 ||pvmax.net^
@@ -1259,6 +1287,7 @@
 ||servebom.com^
 ||servedby-buysellads.com^
 ||servedbyopenx.com^
+||servenobid.com^
 ||server-analytics.snapchat.com^
 ||serverbid.com^
 ||services.disqus.com^
@@ -1271,6 +1300,7 @@
 ||showheroes.com^
 ||siftscience.com^
 ||simpleanalytics.io^
+||simpleanalyticscdn.com^
 ||simpli.fi^
 ||siteswithcontent.com^
 ||smaato.com^
@@ -1399,12 +1429,15 @@
 ||xslt.alexa.com^
 ||yadro.ru^
 ||yap.yahoo.com^
+||yieldlab.net^
 ||yieldlove-ad-serving.net^
 ||yieldlove.com^
+||yldbt.com^
 ||yllix.com^
 ||ynxs.io^
 ||youbora.com^
 ||youborafds01.com^
+||your-notice.com^
 ||zcoup.com^
 ||zergnet.com^
 ||zucks.net^
@@ -1479,6 +1512,7 @@
 ||ad.about.com^
 ||ad.aboutwebservices.com^
 ||ad.abum.com^
+||ad.adpon.jp^
 ||ad.allstar.cz^
 ||ad.altervista.org^
 ||ad.amgdgt.com^
@@ -1828,7 +1862,6 @@
 ||ads.com.com^
 ||ads.comeon.com^
 ||ads.contactmusic.com^
-||ads.contentabc.com^
 ||ads.crakmedia.com^
 ||ads.creative-serving.com^
 ||ads.cybersales.cz^
@@ -2061,7 +2094,6 @@
 ||ads180.com^
 ||ads2.brazzers.com^
 ||ads2.clearchannel.com^
-||ads2.contentabc.com^
 ||ads2.jubii.dk^
 ||ads2.net-communities.co.uk^
 ||ads2.oneplace.com^
@@ -2070,7 +2102,6 @@
 ||ads2.xnet.cz^
 ||ads2004.treiberupdate.de^
 ||ads24h.net^
-||ads3.contentabc.com^
 ||ads3.virtual-nights.com^
 ||ads4.clearchannel.com^
 ||ads4.virtual-nights.com^
@@ -2173,7 +2204,6 @@
 ||adsonar.com^
 ||adsoptimal.com^
 ||adspace.ro^
-||adspeed.net^
 ||adspleen.com^
 ||adsponse.de^
 ||adspot.co^
@@ -2219,7 +2249,6 @@
 ||adultmoda.com^
 ||adunion.tapas.net^
 ||adunity.com^
-||adup-tech.com^
 ||adux.com^
 ||adv-adserver.com^
 ||adv-banner.libero.it^
@@ -2847,7 +2876,6 @@
 ||contehos.com^
 ||content.acc-hd.de^
 ||content.bitsontherun.com^
-||contentabc.com^
 ||conversionruler.com^
 ||convrse.media^
 ||cookies.cmpnet.com^
@@ -3469,7 +3497,6 @@
 ||k.iinfo.cz^
 ||kanoodle.com^
 ||kaplanindex.com^
-||kargo.com^
 ||karisimbi.net^
 ||karonty.com^
 ||keapeiros.xyz^
@@ -4081,6 +4108,7 @@
 ||pub.club-internet.fr^
 ||pub.hardware.fr^
 ||pub.realmedia.fr^
+||pub.trads.io^
 ||pubdirecte.com^
 ||publicidad.elmundo.es^
 ||publicidees.com^
@@ -4321,6 +4349,7 @@
 ||shermore.info^
 ||shinystat.com^
 ||shinystat.it^
+||shndrktrk.com^
 ||shofteph.com^
 ||shoppingads.com^
 ||shopzilla.com^
@@ -4698,6 +4727,7 @@
 ||tunnl.com^
 ||turboadv.com^
 ||turn.com^
+||tutelatechnologies.com^
 ||tvmtracker.com^
 ||twenticiseflo.site^
 ||twiago.com^
@@ -4902,13 +4932,11 @@
 ||yesads.com^
 ||yesadvertising.com^
 ||yieldads.com^
-||yieldlab.net^
 ||yieldmanager.com^
 ||yieldmanager.net^
 ||yieldmo.com^
 ||yieldoptimizer.com^
 ||yieldtraffic.com^
-||yldbt.com^
 ||ymetrica1.com^
 ||yoc-adserver.com^
 ||yoc-performance.com^
@@ -5054,7 +5082,6 @@
 ||dynatrace.com^
 ||edigitalsurvey.com^
 ||embed.tawk.to^
-||entitlements.jwplayer.com^
 ||ethtrader.de^
 ||etl.tindersparks.com^
 ||events-collector.spot.im^
@@ -5094,6 +5121,8 @@
 ||img.leadzutw.com^
 ||infoaz.nl^
 ||intent.cbsi.com^
+||js.hscollectedforms.net^
+||js.hsleadflows.net^
 ||js.idio.co^
 ||js.maxmind.com^
 ||jwpltx.com^
@@ -5164,6 +5193,7 @@
 ||r1.snnd.co^
 ||redinvestor.com^
 ||remyyadan.online.fr^
+||reports.ubimo.com^
 ||richmetrics.com^
 ||robinkornett.com^
 ||rochesterdata.com^
@@ -5221,6 +5251,7 @@
 ||track.omg543.com^
 ||track.sohu.com^
 ||track.tenjin.io^
+||track.videmob.com^
 ||trackcmp.net^
 ||tracker.vgame.us^
 ||trackersimulator.org^
@@ -5229,6 +5260,7 @@
 ||trk.clinch.co^
 ||trk.pinterest.com^
 ||ultimedia.com^
+||um.videmob.com^
 ||unicaitaly.it^
 ||usabilla.com^
 ||usergrid.com^

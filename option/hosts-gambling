@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 15 Jul 2020 16:09 UTC+7
-# Version: 2007151609
-# Blocked: 2,588 domains
+# Last modified: 29 Jul 2020 22:00 UTC+7
+# Version: 2007292200
+# Blocked: 2,590 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -441,6 +441,8 @@
 0.0.0.0 sieubomtan.com
 0.0.0.0 taimacau.club
 0.0.0.0 qc.taimacau.club
+0.0.0.0 sv88.com
+0.0.0.0 www.sv88.com
 # --- Block other gameblingVN ---
 0.0.0.0 027copy.com
 0.0.0.0 www.027copy.com
