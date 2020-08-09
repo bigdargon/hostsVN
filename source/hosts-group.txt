@@ -3404,12 +3404,7 @@
 0.0.0.0 www.woopra.com
 0.0.0.0 static.woopra.com
 #[trafficjunky]
-0.0.0.0 192.168.ads.trafficjunky.net
-0.0.0.0 192.168.media.trafficjunky.net
 0.0.0.0 ads.trafficjunky.net
-0.0.0.0 ads5.trafficjunky.net
-0.0.0.0 cdn1.media.trafficjunky.net
-0.0.0.0 cdn10.trafficjunky.net
 0.0.0.0 c-staging.trafficjunky.net
 0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 delivery.preprod.trafficjunky.net
@@ -4369,13 +4364,12 @@
 0.0.0.0 yts.moatads.com
 0.0.0.0 z.moatads.com
 #[media.net]
+0.0.0.0 a-srvjsr.media.net
 0.0.0.0 abd.media.net
-0.0.0.0 adservetx.media.net
 0.0.0.0 adservex.media.net
 0.0.0.0 affiliate.media.net
 0.0.0.0 aimg.media.net
 0.0.0.0 amprtc.media.net
-0.0.0.0 a-srvjsr.media.net
 0.0.0.0 cdn.aimg.media.net
 0.0.0.0 cdn.media.net
 0.0.0.0 cdn3nc.media.net
@@ -4386,6 +4380,7 @@
 0.0.0.0 control.media.net
 0.0.0.0 cs.media.net
 0.0.0.0 forbes.media.net
+0.0.0.0 hbx.media.net
 0.0.0.0 imgads.media.net
 0.0.0.0 lg1.media.net
 0.0.0.0 lg3.media.net
@@ -4407,14 +4402,11 @@
 0.0.0.0 srvjsr.media.net
 0.0.0.0 srvjsre.media.net
 0.0.0.0 srvjsrnc.media.net
-0.0.0.0 ssltest.media.net
 0.0.0.0 static.media.net
-0.0.0.0 testle.media.net
 0.0.0.0 vogon.srv.media.net
 0.0.0.0 whitelabel.media.net
 0.0.0.0 www.media.net
 0.0.0.0 yahoo.media.net
-0.0.0.0 yoda.internal.media.net
 #[optimizely]
 0.0.0.0 api.app.optimizely.com
 0.0.0.0 api.optimizely.com
@@ -5204,6 +5196,7 @@
 0.0.0.0 white.soju.openx.net
 0.0.0.0 www.openx.net
 0.0.0.0 yellow.soju.openx.net
+0.0.0.0 yieldbird-d.openx.net
 #[openx.com]
 0.0.0.0 ac.openx.com
 0.0.0.0 go.openx.com
@@ -14570,3 +14563,51 @@
 0.0.0.0 public.pushspring.com
 0.0.0.0 pushspring.com
 0.0.0.0 www.pushspring.com
+#[nobid.com]
+0.0.0.0 ads.nobid.com
+0.0.0.0 nobid.com
+0.0.0.0 qa-ads.nobid.com
+0.0.0.0 www.nobid.com
+#[mainadv.com]
+0.0.0.0 ad.mainadv.com
+0.0.0.0 ads.mainadv.com
+0.0.0.0 mainadv.com
+0.0.0.0 o.mainadv.com
+0.0.0.0 partner.mainadv.com
+0.0.0.0 pk.mainadv.com
+0.0.0.0 www.mainadv.com
+#[cfjump.com]
+0.0.0.0 c.cfjump.com
+0.0.0.0 cfjump.com
+0.0.0.0 d.cfjump.com
+0.0.0.0 t.cfjump.com
+#[districtm.ca]
+0.0.0.0 adx.districtm.ca
+0.0.0.0 an.districtm.ca
+0.0.0.0 api.districtm.ca
+0.0.0.0 assets.districtm.ca
+0.0.0.0 b3.districtm.ca
+0.0.0.0 boost-qa2.districtm.ca
+0.0.0.0 cdn.districtm.ca
+0.0.0.0 cdnsandbox.districtm.ca
+0.0.0.0 ch.districtm.ca
+0.0.0.0 districtm.ca
+0.0.0.0 dmx.districtm.ca
+0.0.0.0 dmx-dev.districtm.ca
+0.0.0.0 dmx-staging.districtm.ca
+0.0.0.0 fr.districtm.ca
+0.0.0.0 hi.districtm.ca
+0.0.0.0 idsync.districtm.ca
+0.0.0.0 iu.districtm.ca
+0.0.0.0 npm.districtm.ca
+0.0.0.0 passbacks.districtm.ca
+0.0.0.0 platform.districtm.ca
+0.0.0.0 prebid.districtm.ca
+0.0.0.0 reveal.districtm.ca
+0.0.0.0 st.districtm.ca
+0.0.0.0 static.districtm.ca
+0.0.0.0 steve.districtm.ca
+0.0.0.0 www.districtm.ca
+#[adtng.com]
+0.0.0.0 adtng.com
+0.0.0.0 a.adtng.com

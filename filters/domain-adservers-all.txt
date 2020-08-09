@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 29 Jul 2020 22:00 UTC+7
-! Version: 2007292200
-! Blocked: 5,300 domains
+! Last modified: 09 Aug 2020 20:12 UTC+7
+! Version: 2008092012
+! Blocked: 5,318 domains
 ! The section containing the list contains all ad networks and tracking
 !
 123c.vn
@@ -176,6 +176,7 @@ ads.khoahocdoisong.vn
 ads.nghenhinvietnam.vn
 ads.phunusuckhoe.vn
 ads.phunuvagiadinh.vn
+ads.thegioitiepthi.vn
 ads.thesaigontimes.vn
 ads.tiki.vn
 ads.vietbao.vn
@@ -192,6 +193,7 @@ adv.anhsangvacuocsong.vn
 adv.baotintuc.vn
 advert-admin.vnay.vn
 advertisement-nhatanh.com
+advserver.cgv.vn
 adx.kul.vn
 adx.xemvtv.net
 affiliate.k4.tinhte.vn
@@ -325,6 +327,7 @@ s.baomoi.xdn.vn
 s.kenh14.vn
 s.soha.vn
 s.tuoitre.vn
+sharefb.cnnd.vn
 stat.headlines.pw
 staticad.thethao247.vn
 stats.bizweb.vn
@@ -642,6 +645,7 @@ adtelligent.com
 adthor.com
 adthrive.com
 adtimes.nytimes.com
+adtng.com
 adtrackers.net
 adtrue.com
 adup-tech.com
@@ -808,6 +812,7 @@ cbsileads.com
 cbsinteractive.com
 cdnwidget.com
 celtra.com
+cfjump.com
 chartbeat.com
 chartbeat.net
 chartboost.com
@@ -940,7 +945,6 @@ flashtalking.com
 fls-na.amazon.com
 flurry.com
 flux-adserver.com
-fouanalytics.com
 fout.jp
 fqtag.com
 freshmarketer.com
@@ -1076,6 +1080,7 @@ mads.cnet.com
 mahimeta.com
 mail-ads.google.com
 mailchimp.com
+mainadv.com
 maliva-mcs.byteoversea.com
 mantisadnetwork.com
 marfeelcache.com
@@ -1152,6 +1157,7 @@ nexage.com
 nextsmarty.com
 ngads.go.com
 nixozz.com
+nobid.com
 nr-data.net
 ns1p.net
 nsclick.baidu.com
@@ -1721,6 +1727,7 @@ adland.ru
 adlantic.nl
 adledge.com
 adlegend.com
+adlightning.com
 adlike.com
 adlike.net
 adlink.de
@@ -2198,6 +2205,7 @@ adsmogo.org
 adsniper.ru
 adsoftware.com
 adsoldier.com
+adsolut.in
 adsolutions.yp.com
 adsonar.com
 adsoptimal.com
@@ -2232,7 +2240,6 @@ adtheorent.com
 adthis.com
 adtiger.de
 adtilt.com
-adtng.com
 adtoll.com
 adtology.com
 adtoma.com
@@ -2564,6 +2571,7 @@ bannery.cz
 bannieres.acces-contenu.com
 bans.bride.ru
 barbarousnerve.com
+barfsmiaowpit.com
 barnesandnoble.bfast.com
 basebanner.com
 basepush.com
@@ -2731,6 +2739,7 @@ ccmcroads.com
 cdn-server.top
 cdn.bidadx.com
 cdn.concert.io
+cdn.consentmanager.mgr.consensu.org
 cdn.digitru.st
 cdn.freefarcy.com
 cdn.ravenjs.com
@@ -2866,6 +2875,7 @@ connexity.net
 connextra.com
 consciouschairs.com
 consent.cmp.oath.com
+consentmanager.mgr.consensu.org
 constintptr.com
 constrongyfe.site
 consumer.exacttargetapis.com
@@ -2962,6 +2972,7 @@ data.queryly.com
 datafront.co
 datashreddergold.com
 dataxu.com
+datedissyuk.icu
 dbbsrv.com
 dc-storm.com
 de17a.com
@@ -3012,7 +3023,6 @@ displaypagerank.com
 displayvertising.com
 disqusads.com
 dist.belnk.com
-districtm.ca
 dk4ywix.com
 dmtracker.com
 dmtracking.alibaba.com
@@ -3278,6 +3288,7 @@ gp.dejanews.com
 gplayer.kmpmedia.net
 gracefulsock.com
 grafstat.ro
+graizoah.com
 grandioseguide.com
 grapeshot.co.uk
 greetzebra.com
@@ -3753,7 +3764,6 @@ monsterpops.com
 moolahmedia.com
 motricity.com
 motrixi.com
-mouseflow.com
 mousestats.com
 moversa.com
 movie-pass.live
@@ -4002,6 +4012,7 @@ phizzle.com
 phluant.com
 phoenix-adrunner.mycomputer.com
 phonearena.com
+phoossax.net
 photo-ads.co.uk
 photographpan.com
 phpadsnew.new.natuurpark.nl
@@ -4784,6 +4795,7 @@ veinteractive.com
 velocecdn.com
 velocitycdn.com
 velti.com
+vendorlist.consensu.org
 ventivmedia.com
 verblife-3.co
 vericlick.com
@@ -4975,6 +4987,7 @@ zxc.world
 a.axmtrack.com
 a.idio.co
 a.klaviyo.com
+a.quora.com
 a3cloud.net
 adentify.com
 adj.st
@@ -5051,6 +5064,7 @@ cdn.promotionengine.com
 cdn.zarget.com
 cedexis.com
 clerrrep.com
+cleverpush.com
 client-analytics.braintreegateway.com
 cmp.dmgmediaprivacy.co.uk
 cognitivlabs.com
@@ -5118,6 +5132,7 @@ ie8eamus.com
 images.dmca.com
 img.leadzutw.com
 infoaz.nl
+inside-graph.com
 intent.cbsi.com
 js.hscollectedforms.net
 js.hsleadflows.net
@@ -5155,6 +5170,7 @@ metrics.cloudflarebolt.com
 metrics.sdkbox.com
 mjhkj8.u5a.wentserver.com
 montacarichi.it
+mouseflow.com
 movestone.net
 mybbc-analytics.files.bbci.co.uk
 nexus.ensighten.com
@@ -5183,6 +5199,7 @@ plrxserv.com
 presage.io
 promotionengine.com
 prooffactor.com
+propeller-tracking.com
 pv.sohu.com
 q2melbourne.com
 qqkabb.com
@@ -5248,6 +5265,7 @@ track.datetrck.com
 track.mobgc.com
 track.omg543.com
 track.sohu.com
+track.td3x.com
 track.tenjin.io
 track.videmob.com
 trackcmp.net

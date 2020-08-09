@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 29 Jul 2020 22:00 UTC+7
-! Version: 2007292200
-! Blocked: 488 rules
+! Last modified: 09 Aug 2020 20:12 UTC+7
+! Version: 2008092012
+! Blocked: 491 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -178,6 +178,7 @@
 ||ads.nghenhinvietnam.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
+||ads.thegioitiepthi.vn^
 ||ads.thesaigontimes.vn^
 ||ads.tiki.vn^
 ||ads.vietbao.vn^
@@ -194,6 +195,7 @@
 ||adv.baotintuc.vn^
 ||advert-admin.vnay.vn^
 ||advertisement-nhatanh.com^
+||advserver.cgv.vn^
 ||adx.kul.vn^
 ||adx.xemvtv.net^
 ||affiliate.k4.tinhte.vn^
@@ -327,6 +329,7 @@
 ||s.kenh14.vn^
 ||s.soha.vn^
 ||s.tuoitre.vn^
+||sharefb.cnnd.vn^
 ||stat.headlines.pw^
 ||staticad.thethao247.vn^
 ||stats.bizweb.vn^

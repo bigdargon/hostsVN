@@ -3266,12 +3266,7 @@ app.woopra.com
 cdn-origin.woopra.com
 www.woopra.com
 static.woopra.com
-192.168.ads.trafficjunky.net
-192.168.media.trafficjunky.net
 ads.trafficjunky.net
-ads5.trafficjunky.net
-cdn1.media.trafficjunky.net
-cdn10.trafficjunky.net
 c-staging.trafficjunky.net
 ctrack.trafficjunky.net
 delivery.preprod.trafficjunky.net
@@ -4177,13 +4172,12 @@ yj.moatads.com
 yt.moatads.com
 yts.moatads.com
 z.moatads.com
+a-srvjsr.media.net
 abd.media.net
-adservetx.media.net
 adservex.media.net
 affiliate.media.net
 aimg.media.net
 amprtc.media.net
-a-srvjsr.media.net
 cdn.aimg.media.net
 cdn.media.net
 cdn3nc.media.net
@@ -4194,6 +4188,7 @@ contextualadsorigin.media.net
 control.media.net
 cs.media.net
 forbes.media.net
+hbx.media.net
 imgads.media.net
 lg1.media.net
 lg3.media.net
@@ -4215,14 +4210,11 @@ srvcc.media.net
 srvjsr.media.net
 srvjsre.media.net
 srvjsrnc.media.net
-ssltest.media.net
 static.media.net
-testle.media.net
 vogon.srv.media.net
 whitelabel.media.net
 www.media.net
 yahoo.media.net
-yoda.internal.media.net
 api.app.optimizely.com
 api.optimizely.com
 app.optimizely.com
@@ -4966,6 +4958,7 @@ us-u.openx.net
 white.soju.openx.net
 www.openx.net
 yellow.soju.openx.net
+yieldbird-d.openx.net
 ac.openx.com
 go.openx.com
 i.cdn.openx.com
@@ -13554,10 +13547,6 @@ services.adlooxtracking.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-adsbydomain.fouanalytics.com
-api.fouanalytics.com
-fouanalytics.com
-www.fouanalytics.com
 ads.contentabc.com
 ads2.contentabc.com
 ads3.contentabc.com
@@ -13827,6 +13816,49 @@ pixel.pushspring.com
 public.pushspring.com
 pushspring.com
 www.pushspring.com
+ads.nobid.com
+nobid.com
+qa-ads.nobid.com
+www.nobid.com
+ad.mainadv.com
+ads.mainadv.com
+mainadv.com
+o.mainadv.com
+partner.mainadv.com
+pk.mainadv.com
+www.mainadv.com
+c.cfjump.com
+cfjump.com
+d.cfjump.com
+t.cfjump.com
+adx.districtm.ca
+an.districtm.ca
+api.districtm.ca
+assets.districtm.ca
+b3.districtm.ca
+boost-qa2.districtm.ca
+cdn.districtm.ca
+cdnsandbox.districtm.ca
+ch.districtm.ca
+districtm.ca
+dmx.districtm.ca
+dmx-dev.districtm.ca
+dmx-staging.districtm.ca
+fr.districtm.ca
+hi.districtm.ca
+idsync.districtm.ca
+iu.districtm.ca
+npm.districtm.ca
+passbacks.districtm.ca
+platform.districtm.ca
+prebid.districtm.ca
+reveal.districtm.ca
+st.districtm.ca
+static.districtm.ca
+steve.districtm.ca
+www.districtm.ca
+adtng.com
+a.adtng.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -15022,6 +15054,7 @@ ads.khoahocdoisong.vn
 ads.nghenhinvietnam.vn
 ads.phunusuckhoe.vn
 ads.phunuvagiadinh.vn
+ads.thegioitiepthi.vn
 ads.thesaigontimes.vn
 ads.tiki.vn
 ads.vietbao.vn
@@ -15038,6 +15071,7 @@ adv.anhsangvacuocsong.vn
 adv.baotintuc.vn
 advert-admin.vnay.vn
 advertisement-nhatanh.com
+advserver.cgv.vn
 adx.kul.vn
 adx.xemvtv.net
 affiliate.k4.tinhte.vn
@@ -15183,6 +15217,7 @@ s.baomoi.xdn.vn
 s.kenh14.vn
 s.soha.vn
 s.tuoitre.vn
+sharefb.cnnd.vn
 stat.headlines.pw
 staticad.thethao247.vn
 stats.bizweb.vn
@@ -15504,6 +15539,7 @@ adland.ru
 adlantic.nl
 adledge.com
 adlegend.com
+adlightning.com
 adlike.com
 adlike.net
 adlink.de
@@ -15981,6 +16017,7 @@ adsmogo.org
 adsniper.ru
 adsoftware.com
 adsoldier.com
+adsolut.in
 adsolutions.yp.com
 adsonar.com
 adsoptimal.com
@@ -16015,7 +16052,6 @@ adtheorent.com
 adthis.com
 adtiger.de
 adtilt.com
-adtng.com
 adtoll.com
 adtology.com
 adtoma.com
@@ -16347,6 +16383,7 @@ bannery.cz
 bannieres.acces-contenu.com
 bans.bride.ru
 barbarousnerve.com
+barfsmiaowpit.com
 barnesandnoble.bfast.com
 basebanner.com
 basepush.com
@@ -16514,6 +16551,7 @@ ccmcroads.com
 cdn-server.top
 cdn.bidadx.com
 cdn.concert.io
+cdn.consentmanager.mgr.consensu.org
 cdn.digitru.st
 cdn.freefarcy.com
 cdn.ravenjs.com
@@ -16649,6 +16687,7 @@ connexity.net
 connextra.com
 consciouschairs.com
 consent.cmp.oath.com
+consentmanager.mgr.consensu.org
 constintptr.com
 constrongyfe.site
 consumer.exacttargetapis.com
@@ -16745,6 +16784,7 @@ data.queryly.com
 datafront.co
 datashreddergold.com
 dataxu.com
+datedissyuk.icu
 dbbsrv.com
 dc-storm.com
 de17a.com
@@ -16795,7 +16835,6 @@ displaypagerank.com
 displayvertising.com
 disqusads.com
 dist.belnk.com
-districtm.ca
 dk4ywix.com
 dmtracker.com
 dmtracking.alibaba.com
@@ -17060,6 +17099,7 @@ gp.dejanews.com
 gplayer.kmpmedia.net
 gracefulsock.com
 grafstat.ro
+graizoah.com
 grandioseguide.com
 grapeshot.co.uk
 greetzebra.com
@@ -17533,7 +17573,6 @@ monsterpops.com
 moolahmedia.com
 motricity.com
 motrixi.com
-mouseflow.com
 mousestats.com
 moversa.com
 movie-pass.live
@@ -17782,6 +17821,7 @@ phizzle.com
 phluant.com
 phoenix-adrunner.mycomputer.com
 phonearena.com
+phoossax.net
 photographpan.com
 phpadsnew.new.natuurpark.nl
 phpmyvisites.net
@@ -18563,6 +18603,7 @@ veinteractive.com
 velocecdn.com
 velocitycdn.com
 velti.com
+vendorlist.consensu.org
 ventivmedia.com
 verblife-3.co
 vericlick.com
@@ -18739,6 +18780,7 @@ www.oriori.com
 www.pcmclk.com
 www.pcteast.com
 www.performanceadexchange.com
+www.phoossax.net
 www.photo-ads.co.uk
 www.powerad.ai
 www.pro-ads.club
@@ -18831,6 +18873,7 @@ zxc.world
 a.axmtrack.com
 a.idio.co
 a.klaviyo.com
+a.quora.com
 a3cloud.net
 adentify.com
 adj.st
@@ -18907,6 +18950,7 @@ cdn.promotionengine.com
 cdn.zarget.com
 cedexis.com
 clerrrep.com
+cleverpush.com
 client-analytics.braintreegateway.com
 cmp.dmgmediaprivacy.co.uk
 cognitivlabs.com
@@ -18974,6 +19018,7 @@ ie8eamus.com
 images.dmca.com
 img.leadzutw.com
 infoaz.nl
+inside-graph.com
 intent.cbsi.com
 js.hscollectedforms.net
 js.hsleadflows.net
@@ -19011,6 +19056,7 @@ metrics.cloudflarebolt.com
 metrics.sdkbox.com
 mjhkj8.u5a.wentserver.com
 montacarichi.it
+mouseflow.com
 movestone.net
 mybbc-analytics.files.bbci.co.uk
 nexus.ensighten.com
@@ -19039,6 +19085,7 @@ plrxserv.com
 presage.io
 promotionengine.com
 prooffactor.com
+propeller-tracking.com
 pv.sohu.com
 q2melbourne.com
 qqkabb.com
@@ -19104,6 +19151,7 @@ track.datetrck.com
 track.mobgc.com
 track.omg543.com
 track.sohu.com
+track.td3x.com
 track.tenjin.io
 track.videmob.com
 trackcmp.net
