@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 09 Aug 2020 20:12 UTC+7
-! Version: 2008092012
-! Blocked: 5,318 domains
+! Last modified: 09 Aug 2020 21:04 UTC+7
+! Version: 2008092104
+! Blocked: 5,323 domains
 ! The section containing the list contains all ad networks and tracking
 !
 123c.vn
@@ -168,6 +168,7 @@ admin.sothuchi.vn
 adpostback.headlines.pw
 ads-cdn.fptplay.net
 ads.baodatviet.vn
+ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.fptplay.net.vn
 ads.home.vn
@@ -591,7 +592,6 @@ adrecover.com
 adright.com
 adroll.com
 adrta.com
-ads*-adnow.com
 ads*.msn.com
 ads*.viber.com
 ads-bidder-api.twitter.com
@@ -611,6 +611,11 @@ ads.snapchat.com
 ads.twitter.com
 ads.yahoo.com
 ads.youtube.com
+ads1-adnow.com
+ads2-adnow.com
+ads3-adnow.com
+ads4-adnow.com
+ads5-adnow.com
 adsafeprotected.com
 adsafety.net
 adsapi*.snapchat.com
