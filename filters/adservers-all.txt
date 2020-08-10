@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Aug 2020 21:04 UTC+7
-! Version: 2008092104
-! Blocked: 5,323 rules
+! Last modified: 10 Aug 2020 09:06 UTC+7
+! Version: 2008100906
+! Blocked: 5,324 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1241,6 +1241,7 @@
 ||pubmine.com^
 ||pubnative.net^
 ||puds.ucweb.com^
+||purpleads.io^
 ||pushpush.io^
 ||pushspring.com^
 ||pushtimize.com^
@@ -3899,6 +3900,7 @@
 ||offerfusion.com^
 ||offerimage.com^
 ||offermatica.com^
+||ofhappinyer.com^
 ||olivebrandresponse.com^
 ||omniscientspark.com^
 ||omniture.com^
@@ -5060,7 +5062,6 @@
 ||bugsnag.com^
 ||burstly.com^
 ||bvpdf9.u9a.wentserver.com^
-||bytedance.com^
 ||c.snnd.co^
 ||c.webengage.com^
 ||c2i-cdn.startappnetwork.com^

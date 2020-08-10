@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Aug 2020 21:04 UTC+7
-# Version: 2008092104
-# Blocked: 19,251 domains
+# Last modified: 10 Aug 2020 09:06 UTC+7
+# Version: 2008100906
+# Blocked: 19,256 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13875,6 +13875,11 @@
 0 www.districtm.ca
 0 adtng.com
 0 a.adtng.com
+0 api.purpleads.io
+0 cdn.purpleads.io
+0 creatives.purpleads.io
+0 purpleads.io
+0 www.purpleads.io
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -17718,6 +17723,7 @@
 0 offerfusion.com
 0 offerimage.com
 0 offermatica.com
+0 ofhappinyer.com
 0 olivebrandresponse.com
 0 omniscientspark.com
 0 omniture.com
@@ -18956,7 +18962,6 @@
 0 bugsnag.com
 0 burstly.com
 0 bvpdf9.u9a.wentserver.com
-0 bytedance.com
 0 c.snnd.co
 0 c.webengage.com
 0 c2i-cdn.startappnetwork.com
