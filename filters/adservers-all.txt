@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 10 Aug 2020 09:25 UTC+7
-! Version: 2008100925
-! Blocked: 5,325 rules
+! Last modified: 13 Aug 2020 09:51 UTC+7
+! Version: 2008130951
+! Blocked: 5,328 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1492,6 +1492,7 @@
 ||ac.rnm.ca^
 ||acento.com^
 ||acidityfoamy.com^
+||aclickads.com^
 ||acridtwist.com^
 ||acsseo.com^
 ||actionsplash.com^
@@ -3449,6 +3450,7 @@
 ||infinite-ads.com^
 ||infinityads.com^
 ||information.com^
+||ingameads.gameloft.com^
 ||inkeblotsxchange.com^
 ||inmobi-jp.com^
 ||inner-active.com^
@@ -4780,6 +4782,7 @@
 ||urbanityadnetwork.com^
 ||urchrevening.info^
 ||urlcash.net^
+||uruswan.com^
 ||us.a1.yimg.com^
 ||usapromotravel.com^
 ||usemax.de^
