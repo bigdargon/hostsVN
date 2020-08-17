@@ -11538,11 +11538,6 @@
 0.0.0.0 brand.ad
 0.0.0.0 a.brand.ad
 0.0.0.0 www.brand.ad
-#[hubspot.com]
-0.0.0.0 hubspot.com
-0.0.0.0 js.hubspot.com
-0.0.0.0 track.hubspot.com
-0.0.0.0 tracking.hubspot.com
 #[hubapi.com]
 0.0.0.0 hubapi.com
 0.0.0.0 api.hubapi.com
