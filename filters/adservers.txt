@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Aug 2020 09:59 UTC+7
-! Version: 2008170959
+! Last modified: 17 Aug 2020 15:09 UTC+7
+! Version: 2008171509
 ! Blocked: 494 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -276,7 +276,6 @@
 ||vinaads.vn^
 ||vnd247.vn^
 ||widget.headlines.pw^
-||tracking.dantri.com.vn^
 ||admin.phunusuckhoe.vn^
 ||alexajstrack.com^
 ||analytics.bkav.com^
@@ -354,6 +353,7 @@
 ||tracker.phunuvagiadinh.vn^
 ||tracker.tintucvietnam.vn^
 ||tracking.appwifi.com^
+||tracking.dantri.com.vn^
 ||tracking.meete.co^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^

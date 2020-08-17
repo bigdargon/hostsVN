@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Aug 2020 09:59 UTC+7
-# Version: 2008170959
-# Blocked: 19,260 domains
+# Last modified: 17 Aug 2020 15:09 UTC+7
+# Version: 2008171509
+# Blocked: 19,262 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -16032,7 +16032,6 @@
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 # --- Block trackingVN ---
-0.0.0.0 tracking.dantri.com.vn
 0.0.0.0 admin.phunusuckhoe.vn
 0.0.0.0 alexajstrack.com
 0.0.0.0 analytics.bkav.com
@@ -16107,6 +16106,7 @@
 0.0.0.0 tracker.phunuvagiadinh.vn
 0.0.0.0 tracker.tintucvietnam.vn
 0.0.0.0 tracking.appwifi.com
+0.0.0.0 tracking.dantri.com.vn
 0.0.0.0 tracking.meete.co
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietbao.vn
@@ -19020,6 +19020,7 @@
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 servicelayer.king.com
 0.0.0.0 services.hearstmags.com
+0.0.0.0 servsave.com
 0.0.0.0 sessioncam.com
 0.0.0.0 sessionm.com
 0.0.0.0 sexadvertentiesite.nl
@@ -19663,6 +19664,7 @@
 0.0.0.0 www.propu.sh
 0.0.0.0 www.push-notifications.top
 0.0.0.0 www.routeserve.info
+0.0.0.0 www.servsave.com
 0.0.0.0 www.shndrktrk.com
 0.0.0.0 www.statsy.net
 0.0.0.0 www.theweblocker.net
@@ -19746,8 +19748,6 @@
 0.0.0.0 zumobi.com
 0.0.0.0 zxc.world
 # --- Block other trackingVN ---
-0.0.0.0 track.hubspot.com
-0.0.0.0 tracking.hubspot.com
 0.0.0.0 2o7.net
 0.0.0.0 a.axmtrack.com
 0.0.0.0 a.idio.co
@@ -20026,6 +20026,7 @@
 0.0.0.0 thoosje.com
 0.0.0.0 track.56txs4.com
 0.0.0.0 track.datetrck.com
+0.0.0.0 track.hubspot.com
 0.0.0.0 track.mobgc.com
 0.0.0.0 track.omg543.com
 0.0.0.0 track.sohu.com
@@ -20035,6 +20036,7 @@
 0.0.0.0 trackcmp.net
 0.0.0.0 tracker.vgame.us
 0.0.0.0 trackersimulator.org
+0.0.0.0 tracking.hubspot.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 traffic.spot.im
 0.0.0.0 trk.clinch.co

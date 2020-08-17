@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Aug 2020 09:59 UTC+7
-! Version: 2008170959
-! Blocked: 5,330 rules
+! Last modified: 17 Aug 2020 15:09 UTC+7
+! Version: 2008171509
+! Blocked: 5,331 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -276,7 +276,6 @@
 ||vinaads.vn^
 ||vnd247.vn^
 ||widget.headlines.pw^
-||tracking.dantri.com.vn^
 ||admin.phunusuckhoe.vn^
 ||alexajstrack.com^
 ||analytics.bkav.com^
@@ -354,6 +353,7 @@
 ||tracker.phunuvagiadinh.vn^
 ||tracker.tintucvietnam.vn^
 ||tracking.appwifi.com^
+||tracking.dantri.com.vn^
 ||tracking.meete.co^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
@@ -4349,6 +4349,7 @@
 ||service.cmp.oath.com^
 ||servicelayer.king.com^
 ||services.hearstmags.com^
+||servsave.com^
 ||sessioncam.com^
 ||sessionm.com^
 ||sexadvertentiesite.nl^
@@ -4996,8 +4997,6 @@
 ||zqtk.net^
 ||zumobi.com^
 ||zxc.world^
-||track.hubspot.com^
-||tracking.hubspot.com^
 ||2o7.net^
 ||a.axmtrack.com^
 ||a.idio.co^
@@ -5276,6 +5275,7 @@
 ||thoosje.com^
 ||track.56txs4.com^
 ||track.datetrck.com^
+||track.hubspot.com^
 ||track.mobgc.com^
 ||track.omg543.com^
 ||track.sohu.com^
@@ -5285,6 +5285,7 @@
 ||trackcmp.net^
 ||tracker.vgame.us^
 ||trackersimulator.org^
+||tracking.hubspot.com^
 ||tracking.lenzmx.com^
 ||traffic.spot.im^
 ||trk.clinch.co^

@@ -2888,6 +2888,7 @@
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 servicelayer.king.com
 0.0.0.0 services.hearstmags.com
+0.0.0.0 servsave.com
 0.0.0.0 sessioncam.com
 0.0.0.0 sessionm.com
 0.0.0.0 sexadvertentiesite.nl
@@ -3531,6 +3532,7 @@
 0.0.0.0 www.propu.sh
 0.0.0.0 www.push-notifications.top
 0.0.0.0 www.routeserve.info
+0.0.0.0 www.servsave.com
 0.0.0.0 www.shndrktrk.com
 0.0.0.0 www.statsy.net
 0.0.0.0 www.theweblocker.net
@@ -3614,8 +3616,6 @@
 0.0.0.0 zumobi.com
 0.0.0.0 zxc.world
 # --- Block other trackingVN ---
-0.0.0.0 track.hubspot.com
-0.0.0.0 tracking.hubspot.com
 0.0.0.0 2o7.net
 0.0.0.0 a.axmtrack.com
 0.0.0.0 a.idio.co
@@ -3894,6 +3894,7 @@
 0.0.0.0 thoosje.com
 0.0.0.0 track.56txs4.com
 0.0.0.0 track.datetrck.com
+0.0.0.0 track.hubspot.com
 0.0.0.0 track.mobgc.com
 0.0.0.0 track.omg543.com
 0.0.0.0 track.sohu.com
@@ -3903,6 +3904,7 @@
 0.0.0.0 trackcmp.net
 0.0.0.0 tracker.vgame.us
 0.0.0.0 trackersimulator.org
+0.0.0.0 tracking.hubspot.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 traffic.spot.im
 0.0.0.0 trk.clinch.co
