@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 13 Aug 2020 09:51 UTC+7
-# Version: 2008130951
+# Last modified: 17 Aug 2020 09:59 UTC+7
+# Version: 2008170959
 # Blocked: 19,260 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -11550,11 +11550,6 @@
 0.0.0.0 brand.ad
 0.0.0.0 a.brand.ad
 0.0.0.0 www.brand.ad
-#[hubspot.com]
-0.0.0.0 hubspot.com
-0.0.0.0 js.hubspot.com
-0.0.0.0 track.hubspot.com
-0.0.0.0 tracking.hubspot.com
 #[hubapi.com]
 0.0.0.0 hubapi.com
 0.0.0.0 api.hubapi.com
@@ -12189,6 +12184,7 @@
 0.0.0.0 en.88-f.net
 0.0.0.0 rtb-1.88-f.net
 #[a-mo.net]
+0.0.0.0 1x1.a-mo.net
 0.0.0.0 a-mo.net
 0.0.0.0 assets.a-mo.net
 0.0.0.0 collector.a-mo.net
@@ -16036,6 +16032,7 @@
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 # --- Block trackingVN ---
+0.0.0.0 tracking.dantri.com.vn
 0.0.0.0 admin.phunusuckhoe.vn
 0.0.0.0 alexajstrack.com
 0.0.0.0 analytics.bkav.com
@@ -19749,6 +19746,8 @@
 0.0.0.0 zumobi.com
 0.0.0.0 zxc.world
 # --- Block other trackingVN ---
+0.0.0.0 track.hubspot.com
+0.0.0.0 tracking.hubspot.com
 0.0.0.0 2o7.net
 0.0.0.0 a.axmtrack.com
 0.0.0.0 a.idio.co

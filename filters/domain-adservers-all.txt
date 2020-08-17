@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 13 Aug 2020 09:51 UTC+7
-! Version: 2008130951
-! Blocked: 5,328 domains
+! Last modified: 17 Aug 2020 09:59 UTC+7
+! Version: 2008170959
+! Blocked: 5,330 domains
 ! The section containing the list contains all ad networks and tracking
 !
 123c.vn
@@ -274,6 +274,7 @@ vietdorje.com
 vinaads.vn
 vnd247.vn
 widget.headlines.pw
+tracking.dantri.com.vn
 admin.phunusuckhoe.vn
 alexajstrack.com
 analytics.bkav.com
@@ -1000,7 +1001,6 @@ hs-banner.com
 hs-scripts.com
 hsadspixel.net
 hubapi.com
-hubspot.com
 i-mobile.co.jp
 iad-*.braze.com
 iad.apple.com
@@ -4994,6 +4994,8 @@ zmedia.com
 zqtk.net
 zumobi.com
 zxc.world
+track.hubspot.com
+tracking.hubspot.com
 2o7.net
 a.axmtrack.com
 a.idio.co
