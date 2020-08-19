@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 Aug 2020 13:38 UTC+7
-! Version: 2008191338
+! Last modified: 19 Aug 2020 16:32 UTC+7
+! Version: 2008191632
 ! Blocked: 494 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -36,7 +36,6 @@
 ||adtima*.zadn.vn^
 ||adtima.vn^
 ||adtimaserver.vn^
-||aiservice.vn^
 ||ambient-platform.com^
 ||ambientplatform.vn^
 ||amcdn.vn^
@@ -214,6 +213,7 @@
 ||banner.5giay.vn^
 ||banner.vietnamfinance.vn^
 ||bgadx.com^
+||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
 ||chiasephim.xyz^
 ||click-ads.saoteen.net^

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Aug 2020 13:38 UTC+7
-# Version: 2008191338
-# Blocked: 19,265 domains
+# Last modified: 19 Aug 2020 16:32 UTC+7
+# Version: 2008191632
+# Blocked: 19,258 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14729,14 +14729,6 @@
 0 publishers.adasiaholdings.com
 0 tags.adasiaholdings.com
 0 www.adasiaholdings.com
-0 aiservice.vn
-0 boxpr.aiservice.vn
-0 news.aiservice.vn
-0 newstesting.aiservice.vn
-0 nspapi.aiservice.vn
-0 ntimg.aiservice.vn
-0 recsys.aiservice.vn
-0 snews.aiservice.vn
 0 admin.adsplay.net
 0 adsplay.net
 0 d.adsplay.net
@@ -15108,6 +15100,7 @@
 0 banner.5giay.vn
 0 banner.vietnamfinance.vn
 0 bgadx.com
+0 boxpr.aiservice.vn
 0 cdn-ads.thesaigontimes.vn
 0 chiasephim.xyz
 0 click-ads.saoteen.net
