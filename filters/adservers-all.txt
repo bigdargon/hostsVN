@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Aug 2020 15:09 UTC+7
-! Version: 2008171509
-! Blocked: 5,331 rules
+! Last modified: 19 Aug 2020 13:38 UTC+7
+! Version: 2008191338
+! Blocked: 5,334 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3187,6 +3187,7 @@
 ||faidoud.com^
 ||famountsuref.site^
 ||famousquarter.com^
+||faracoon.com^
 ||farethief.com^
 ||farmergoldfish.com^
 ||fascinatedfeather.com^
@@ -3388,7 +3389,6 @@
 ||hystericalhelp.com^
 ||i-clicks.net^
 ||i-lookup.com^
-||i.rmbl.ws^
 ||i1img.com^
 ||i1media.no^
 ||ia.iinfo.cz^
@@ -4116,6 +4116,7 @@
 ||props.id^
 ||propu.sh^
 ||proranktracker.com^
+||prosumsit.com^
 ||protexting.com^
 ||proton-tm.com^
 ||protraffic.com^
@@ -4137,6 +4138,7 @@
 ||puffypull.com^
 ||puffypurpose.com^
 ||pulse360.com^
+||pusbaysgreedy.icu^
 ||push-notifications.top^
 ||pushazam.com^
 ||pushazer.com^
@@ -4782,6 +4784,7 @@
 ||upsnap.com^
 ||urbanityadnetwork.com^
 ||urchrevening.info^
+||urechar.com^
 ||urlcash.net^
 ||uruswan.com^
 ||us.a1.yimg.com^
