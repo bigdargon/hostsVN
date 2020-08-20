@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 19 Aug 2020 16:32 UTC+7
-! Version: 2008191632
-! Blocked: 5,334 rules
+! Last modified: 20 Aug 2020 09:46 UTC+7
+! Version: 2008200946
+! Blocked: 5,333 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -176,6 +176,7 @@
 ||ads.ictnews.vn^
 ||ads.khoahocdoisong.vn^
 ||ads.nghenhinvietnam.vn^
+||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
 ||ads.thegioitiepthi.vn^
@@ -4256,7 +4257,6 @@
 ||rhythmnewmedia.com^
 ||richaudience.com^
 ||richmails.com^
-||richmedia.yimg.com^
 ||richstring.com^
 ||richwebmaster.com^
 ||rigelink.com^
@@ -4787,7 +4787,6 @@
 ||urechar.com^
 ||urlcash.net^
 ||uruswan.com^
-||us.a1.yimg.com^
 ||usapromotravel.com^
 ||usemax.de^
 ||useriq.com^
