@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Aug 2020 09:46 UTC+7
-! Version: 2008200946
-! Blocked: 5,333 rules
+! Last modified: 23 Aug 2020 18:46 UTC+7
+! Version: 2008231846
+! Blocked: 5,334 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3339,6 +3339,7 @@
 ||hh-btr.com^
 ||hidden.gogoceleb.com^
 ||highfalutinroom.com^
+||highprofitnetwork.com^
 ||hightrafficads.com^
 ||hilariouszinc.com^
 ||hilltopads.net^
@@ -4565,6 +4566,7 @@
 ||t.ads.cc^
 ||t.insigit.com^
 ||t.myvisualiq.net^
+||t7z.cupid.iqiyi.com^
 ||tacoda.net^
 ||tagmngrs.com^
 ||tagular.com^
@@ -5153,7 +5155,6 @@
 ||js.hsleadflows.net^
 ||js.idio.co^
 ||js.maxmind.com^
-||jwpltx.com^
 ||k6r.net^
 ||kameleoon.eu^
 ||kidsghibli.com^
