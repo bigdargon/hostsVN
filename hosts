@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 23 Aug 2020 18:46 UTC+7
-# Version: 2008231846
-# Blocked: 19,258 domains
+# Last modified: 24 Aug 2020 11:32 UTC+7
+# Version: 2008241132
+# Blocked: 19,260 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13203,8 +13203,9 @@
 0.0.0.0 p.exrtbsrv.com
 0.0.0.0 syndication.exrtbsrv.com
 #[optad360.io]
-0.0.0.0 optad360.io
+0.0.0.0 cmp.optad360.io
 0.0.0.0 get.optad360.io
+0.0.0.0 optad360.io
 0.0.0.0 www.optad360.io
 #[optad360.com]
 0.0.0.0 adrevenueindex.optad360.com
@@ -17936,6 +17937,7 @@
 0.0.0.0 geovisite.com
 0.0.0.0 getalinkandshare.com
 0.0.0.0 getedicta.info
+0.0.0.0 getoptad360.com
 0.0.0.0 getwisdom.io
 0.0.0.0 ggimg.tapas.net
 0.0.0.0 giddycoat.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 23 Aug 2020 18:46 UTC+7
-! Version: 2008231846
-! Blocked: 5,334 rules
+! Last modified: 24 Aug 2020 11:32 UTC+7
+! Version: 2008241132
+! Blocked: 5,335 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3270,6 +3270,7 @@
 ||geovisite.com^
 ||getalinkandshare.com^
 ||getedicta.info^
+||getoptad360.com^
 ||getwisdom.io^
 ||ggimg.tapas.net^
 ||giddycoat.com^
