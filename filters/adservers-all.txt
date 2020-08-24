@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Aug 2020 11:32 UTC+7
-! Version: 2008241132
-! Blocked: 5,335 rules
+! Last modified: 24 Aug 2020 15:35 UTC+7
+! Version: 2008241535
+! Blocked: 5,336 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5104,6 +5104,7 @@
 ||distillery.wistia.com^
 ||dm.gg^
 ||dm599.com^
+||dmxleo.com^
 ||dnn506yrbagrg.cloudfront.net^
 ||do-not-tracker.org^
 ||do.count.ly^
