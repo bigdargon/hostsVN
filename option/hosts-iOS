@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Aug 2020 21:04 UTC+7
-# Version: 2008242104
-# Blocked: 19,258 domains
+# Last modified: 27 Aug 2020 13:47 UTC+7
+# Version: 2008271347
+# Blocked: 19,257 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3472,11 +3472,10 @@
 0 static.asia.rtbid.me
 0 www.rtbid.me
 0 genieessp.com
-0 js.genieessp.com
 0 ads.genieessp.com
 0 gi-js.genieessp.com
-0 6159.genieessp.com
-0 108557.genieessp.com
+0 js.genieessp.com
+0 static.genieessp.com
 0 2mdnsys.com
 0 ads.2mdnsys.com
 0 static.2mdnsys.com

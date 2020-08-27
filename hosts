@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Aug 2020 21:04 UTC+7
-# Version: 2008242104
-# Blocked: 19,258 domains
+# Last modified: 27 Aug 2020 13:47 UTC+7
+# Version: 2008271347
+# Blocked: 19,257 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3618,13 +3618,12 @@
 0.0.0.0 rtbid.me
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 www.rtbid.me
-#[genieessp]
+#[genieessp.com]
 0.0.0.0 genieessp.com
-0.0.0.0 js.genieessp.com
 0.0.0.0 ads.genieessp.com
 0.0.0.0 gi-js.genieessp.com
-0.0.0.0 6159.genieessp.com
-0.0.0.0 108557.genieessp.com
+0.0.0.0 js.genieessp.com
+0.0.0.0 static.genieessp.com
 #[2mdnsys]
 0.0.0.0 2mdnsys.com
 0.0.0.0 ads.2mdnsys.com
