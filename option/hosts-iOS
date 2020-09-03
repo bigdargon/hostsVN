@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Aug 2020 13:47 UTC+7
-# Version: 2008271347
-# Blocked: 19,257 domains
+# Last modified: 03 Sep 2020 15:26 UTC+7
+# Version: 2009031526
+# Blocked: 19,280 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13121,8 +13121,6 @@
 0 vastgt.richmediaads.com
 0 ww3.richmediaads.com
 0 www.richmediaads.com
-0 fstats.xyz
-0 v3.fstats.xyz
 0 aa.toponad.com
 0 app.toponad.com
 0 dd.toponad.com
@@ -13877,6 +13875,19 @@
 0 creatives.purpleads.io
 0 purpleads.io
 0 www.purpleads.io
+0 ad.adsloads.com
+0 adsloads.com
+0 us.adsloads.com
+0 vn.adsloads.com
+0 clickserv.sitescout.com
+0 pixel.sitescout.com
+0 pixel-a.sitescout.com
+0 pixel-c2s.sitescout.com
+0 pixel-sync.sitescout.com
+0 rtb.sitescout.com
+0 sitescout.com
+0 ss.sitescout.com
+0 www.sitescout.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14265,11 +14276,11 @@
 0 sp.zalo.me
 0 ads.zaloapp.com
 0 log.api.zaloapp.com
+0 log.o2o.service.zaloapp.com
 0 photo-ads.zaloapp.com
 0 px.za.zaloapp.com
 0 static-ads.zaloapp.com
 0 stats.zaloapp.com
-0 stc.za.zaloapp.com
 0 wg.zaloapp.com
 0 zminer.zaloapp.com
 0 ztevents.zaloapp.com
@@ -14277,6 +14288,7 @@
 0 adtima-media.zadn.vn
 0 adtima-static-td.zadn.vn
 0 adtima-static.zadn.vn
+0 adtima-common.zadn.vn
 0 log.sdk.zadn.vn
 0 zalo-ads-240-td.zadn.vn
 0 zalo-ads-240.zadn.vn
@@ -16019,6 +16031,7 @@
 0 adsk2.co
 0 adskape.ru
 0 adsklick.de
+0 adsloading.com
 0 adslop.com
 0 adsluna.com
 0 adsmarket.com
@@ -16599,6 +16612,7 @@
 0 chicoryapp.com
 0 chinsnakes.com
 0 chitika.net
+0 chocohjuanfhdhf.com
 0 cibleclick.com
 0 cityads.telus.net
 0 citygrid.com
@@ -16817,6 +16831,7 @@
 0 deepintent.com
 0 defectivesun.com
 0 delegatediscussion.com
+0 deliver.vkcdnservice.com
 0 deloo.de
 0 deloplen.com
 0 deloton.com
@@ -17184,6 +17199,7 @@
 0 hollandbusinessadvertising.nl
 0 hollowshake.com
 0 homepageking.de
+0 honeycshfferufrew.com
 0 honeygoldfish.com
 0 horizontalelite.com
 0 hostecart.com
@@ -17343,6 +17359,7 @@
 0 keynotedeviceanywhere.com
 0 kindads.com
 0 kissmetrics.com
+0 kka20si.xyz
 0 kliks.nl
 0 klsdee.com
 0 knifeoctopus.com
@@ -17466,6 +17483,7 @@
 0 matchcraft.com
 0 matheranalytics.com
 0 matomy.com
+0 mawlaybob.com
 0 max.i12.de
 0 maxgid.com
 0 maximumcash.com
@@ -17772,6 +17790,7 @@
 0 out-there-media.com
 0 outtimburrtor.com
 0 overture.com
+0 ovyiakt1wzqz.com
 0 owebmoney.ru
 0 owlsr.us
 0 owncutone.com
@@ -17849,6 +17868,7 @@
 0 picadmedia.com
 0 piet2eix3l.com
 0 pietexture.com
+0 pigwinspath.icu
 0 pillscash.com
 0 pimproll.com
 0 ping.ublock.org
@@ -17863,6 +17883,7 @@
 0 pixel.sojern.com
 0 pixel.watch
 0 piximedia.com
+0 pkhhyool.com
 0 placeplay.com
 0 planetactive.com
 0 play.leadzu.com
@@ -18648,6 +18669,7 @@
 0 villandoping.site
 0 villandopingcon.site
 0 vindicosuite.com
+0 vipicmou.net
 0 visiblemeasures.com
 0 visistat.com
 0 visitbox.de
@@ -19190,6 +19212,7 @@
 0 usabilla.com
 0 usergrid.com
 0 users.quantumgraph.com
+0 v3.fstats.xyz
 0 va.tawk.to
 0 vdtrack.com
 0 vectaury.io

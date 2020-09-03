@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 27 Aug 2020 13:47 UTC+7
-! Version: 2008271347
-! Blocked: 5,333 rules
+! Last modified: 03 Sep 2020 15:26 UTC+7
+! Version: 2009031526
+! Blocked: 5,345 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -78,6 +78,7 @@
 ||laydata.com^
 ||log*.zing.vn^
 ||log.api.zaloapp.com^
+||log.o2o.service.zaloapp.com^
 ||log.sdk.zadn.vn^
 ||log.zing*.vn^
 ||mangoads.vn^
@@ -124,7 +125,6 @@
 ||sporttv.today^
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
-||stc.za.zaloapp.com^
 ||surfcountor.com^
 ||tracking.playzing.g6.zing.vn^
 ||tuiiu.com^
@@ -636,6 +636,7 @@
 ||adsintl.starwave.com^
 ||adskeeper.co.uk^
 ||adskeeper.com^
+||adsloads.com^
 ||adsnative.com^
 ||adspeed.net^
 ||adspirit.de^
@@ -958,7 +959,6 @@
 ||fout.jp^
 ||fqtag.com^
 ||freshmarketer.com^
-||fstats.xyz^
 ||fullstory.com^
 ||fwmrm.net^
 ||fyber.com^
@@ -1316,6 +1316,7 @@
 ||simpleanalytics.io^
 ||simpleanalyticscdn.com^
 ||simpli.fi^
+||sitescout.com^
 ||siteswithcontent.com^
 ||smaato.com^
 ||smaato.net^
@@ -2202,6 +2203,7 @@
 ||adsk2.co^
 ||adskape.ru^
 ||adsklick.de^
+||adsloading.com^
 ||adslop.com^
 ||adsluna.com^
 ||adsmarket.com^
@@ -2782,6 +2784,7 @@
 ||chicoryapp.com^
 ||chinsnakes.com^
 ||chitika.net^
+||chocohjuanfhdhf.com^
 ||cibleclick.com^
 ||cityads.telus.net^
 ||citygrid.com^
@@ -3000,6 +3003,7 @@
 ||deepintent.com^
 ||defectivesun.com^
 ||delegatediscussion.com^
+||deliver.vkcdnservice.com^
 ||deloo.de^
 ||deloplen.com^
 ||deloton.com^
@@ -3368,6 +3372,7 @@
 ||hollandbusinessadvertising.nl^
 ||hollowshake.com^
 ||homepageking.de^
+||honeycshfferufrew.com^
 ||honeygoldfish.com^
 ||horizontalelite.com^
 ||hostecart.com^
@@ -3528,6 +3533,7 @@
 ||keynotedeviceanywhere.com^
 ||kindads.com^
 ||kissmetrics.com^
+||kka20si.xyz^
 ||kliks.nl^
 ||klsdee.com^
 ||knifeoctopus.com^
@@ -3651,6 +3657,7 @@
 ||matchcraft.com^
 ||matheranalytics.com^
 ||matomy.com^
+||mawlaybob.com^
 ||max.i12.de^
 ||maxgid.com^
 ||maximumcash.com^
@@ -3958,6 +3965,7 @@
 ||out-there-media.com^
 ||outtimburrtor.com^
 ||overture.com^
+||ovyiakt1wzqz.com^
 ||owebmoney.ru^
 ||owlsr.us^
 ||owncutone.com^
@@ -4036,6 +4044,7 @@
 ||picadmedia.com^
 ||piet2eix3l.com^
 ||pietexture.com^
+||pigwinspath.icu^
 ||pillscash.com^
 ||pimproll.com^
 ||ping.ublock.org^
@@ -4050,6 +4059,7 @@
 ||pixel.sojern.com^
 ||pixel.watch^
 ||piximedia.com^
+||pkhhyool.com^
 ||placeplay.com^
 ||planetactive.com^
 ||play.leadzu.com^
@@ -4835,6 +4845,7 @@
 ||villandoping.site^
 ||villandopingcon.site^
 ||vindicosuite.com^
+||vipicmou.net^
 ||visiblemeasures.com^
 ||visistat.com^
 ||visitbox.de^
@@ -5298,6 +5309,7 @@
 ||usabilla.com^
 ||usergrid.com^
 ||users.quantumgraph.com^
+||v3.fstats.xyz^
 ||va.tawk.to^
 ||vdtrack.com^
 ||vectaury.io^

@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Aug 2020 13:47 UTC+7
-! Version: 2008271347
+! Last modified: 03 Sep 2020 15:26 UTC+7
+! Version: 2009031526
 ! Blocked: 495 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -78,6 +78,7 @@
 ||laydata.com^
 ||log*.zing.vn^
 ||log.api.zaloapp.com^
+||log.o2o.service.zaloapp.com^
 ||log.sdk.zadn.vn^
 ||log.zing*.vn^
 ||mangoads.vn^
@@ -124,7 +125,6 @@
 ||sporttv.today^
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
-||stc.za.zaloapp.com^
 ||surfcountor.com^
 ||tracking.playzing.g6.zing.vn^
 ||tuiiu.com^
