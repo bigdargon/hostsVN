@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Sep 2020 15:26 UTC+7
-# Version: 2009031526
-# Blocked: 1,398 domains
+# Last modified: 04 Sep 2020 13:45 UTC+7
+# Version: 2009041345
+# Blocked: 1,399 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1290,6 +1290,7 @@
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads.baodatviet.vn
 0.0.0.0 ads.baotainguyenmoitruong.vn
+0.0.0.0 ads.bkitsoftware.com
 0.0.0.0 ads.careerbuilder.vn
 0.0.0.0 ads.fptplay.net.vn
 0.0.0.0 ads.home.vn
