@@ -1,5 +1,4 @@
 # --- Block adsVN ---
-0.0.0.0 adx.edutimes.com.vn
 0.0.0.0 703531862.vws.vegacdn.vn
 0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad.24h.com.vn
@@ -49,6 +48,7 @@
 0.0.0.0 advert-admin.vnay.vn
 0.0.0.0 advertisement-nhatanh.com
 0.0.0.0 advserver.cgv.vn
+0.0.0.0 adx.edutimes.com.vn
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.xemvtv.net
 0.0.0.0 affiliate.k4.tinhte.vn
@@ -143,7 +143,6 @@
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 # --- Block trackingVN ---
-0.0.0.0 log.dantocmiennui.vn
 0.0.0.0 admin.phunusuckhoe.vn
 0.0.0.0 alexajstrack.com
 0.0.0.0 analytics.bkav.com
@@ -170,6 +169,7 @@
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.baophapluat.vn
 0.0.0.0 log.batdongsan.com.vn
+0.0.0.0 log.dantocmiennui.vn
 0.0.0.0 log.giaoduc.net.vn
 0.0.0.0 log.infonet.vn
 0.0.0.0 log.kienthuc.net.vn

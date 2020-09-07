@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Sep 2020 15:08 UTC+7
-# Version: 2009041508
-# Blocked: 1,399 domains
+# Last modified: 07 Sep 2020 10:12 UTC+7
+# Version: 2009071012
+# Blocked: 1,400 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1318,6 +1318,7 @@
 0.0.0.0 advert-admin.vnay.vn
 0.0.0.0 advertisement-nhatanh.com
 0.0.0.0 advserver.cgv.vn
+0.0.0.0 adx.edutimes.com.vn
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.xemvtv.net
 0.0.0.0 affiliate.k4.tinhte.vn
@@ -1438,6 +1439,7 @@
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.baophapluat.vn
 0.0.0.0 log.batdongsan.com.vn
+0.0.0.0 log.dantocmiennui.vn
 0.0.0.0 log.giaoduc.net.vn
 0.0.0.0 log.infonet.vn
 0.0.0.0 log.kienthuc.net.vn
@@ -1459,7 +1461,6 @@
 0.0.0.0 logs.giaoducthoidai.vn
 0.0.0.0 logs.thethaovanhoa.vn
 0.0.0.0 logsbin.dantri.com.vn
-0.0.0.0 lp.baomoi.com
 0.0.0.0 nstat.headlines.pw
 0.0.0.0 report.vnay.vn
 0.0.0.0 s.baomoi.xdn.vn
