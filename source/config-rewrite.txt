@@ -4,13 +4,12 @@
 
 #facebook
 ^https?://graph.facebook.com/.+activities
-^https?://graph.facebook.com/.+advertiser_id=*
+^https?://graph.facebook.com/.+advertiser_id=
 ^https?://graph.facebook.com/.+events
-^https?://graph.facebook.com/network_ads_common/*
+^https?://graph.facebook.com/network_ads_common
 
-^https?://www.facebook.com/adnw_logging/*
-^https?://www.facebook.com/adnw_sync/*
-^https?://www.facebook.com/tr
+^https?://www.facebook.com/adnw_logging
+^https?://www.facebook.com/adnw_sync
 
 
 #nhaccuatui
@@ -69,6 +68,5 @@
 
 
 #zalo
-^https?://qos-zdn.zaloapp.com/.+trackqos
 ^https?://centralized.zaloapp.com/.+tracking
 ^https?://oa.zalo.me/.+campaign=zalo
