@@ -16,7 +16,7 @@ Bảng dưới đây so sánh một số tính năng cơ bản dùng để chặ
 |   |**Surge**|**Adguard Premium/Pro**|**Quantumult X**|**Adblock**|**Shadowrocket**|
 |:-|:-:|:-:|:-:|:-:|:-:|
 |iOS hỗ trợ|iOS 10|iOS 10|iOS 10|iOS 10|iOS 9|
-|Giá|**Miễn phí**|45.000 VND|109.000 VND|45.000 VND|69.000 VND|
+|Giá|**Miễn phí**|219.000 VND|179.000 VND|45.000 VND|69.000 VND|
 |Mua trong ứng dụng|Có|**Không**|**Không**|**Không**|**Không**|
 |Đặc điểm|Tool phân tích|Chặn quảng cáo|Tool phân tích|Chặn quảng cáo|Tool phân tích|
 |VPN bật khi khởi động|Không|**Có**|**Có**|**Có**|**Có**|
