@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Sep 2020 09:47 UTC+7
-# Version: 2009100947
-# Blocked: 19,278 domains
+# Last modified: 10 Sep 2020 15:11 UTC+7
+# Version: 2009101511
+# Blocked: 19,274 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14974,21 +14974,6 @@
 0 rec.donglogs.com
 0 scripts.donglogs.com
 0 www.donglogs.com
-0 123c.vn
-0 b.123c.vn
-0 b.staging.123c.vn
-0 d.123c.vn
-0 dev.d.123c.vn
-0 failover.123c.vn
-0 hit.123c.vn
-0 l.123c.vn
-0 qos-talk.123c.vn
-0 qos-zdn.123c.vn
-0 st.123c.vn
-0 stats.123c.vn
-0 t.123c.vn
-0 trk.123c.vn
-0 trk.staging.123c.vn
 0 ai.nanda.vn
 0 analytics.nanda.vn
 0 cdn.nanda.vn
@@ -15207,6 +15192,7 @@
 0 event.headlines.pw
 0 event.vntoday.news
 0 follow.vnay.vn
+0 hit.123c.vn
 0 invite.baomoi.com
 0 la.vietid.net
 0 lg.lotus.vn
@@ -15216,6 +15202,7 @@
 0 log.baomoi.com
 0 log.baophapluat.vn
 0 log.batdongsan.com.vn
+0 log.daidoanket.vn
 0 log.dantocmiennui.vn
 0 log.giaoduc.net.vn
 0 log.infonet.vn
@@ -15248,6 +15235,7 @@
 0 sharefb.cnnd.vn
 0 stat.headlines.pw
 0 staticad.thethao247.vn
+0 stats.123c.vn
 0 stats.bizweb.vn
 0 stats.dongphim.net
 0 stats.petrotimes.vn
@@ -15273,6 +15261,8 @@
 0 trackingapi.foody.vn
 0 trackity.tiki.vn
 0 trending.vn
+0 trk.123c.vn
+0 trk.staging.123c.vn
 0 userstats.shopee.vn
 0 vn.alexajstrack.com
 0 vtrack.vht.com.vn
@@ -15619,6 +15609,7 @@
 0 adorigin.com
 0 adotmob.com
 0 adpacks.com
+0 adpay.network
 0 adpdx.com
 0 adpenguin.biz
 0 adpepper.dk
@@ -16219,6 +16210,7 @@
 0 alcanceadnetwork.com
 0 alclick.com
 0 alenty.com
+0 alignclamstram.com
 0 alipromo.com
 0 all4spy.com
 0 alladvantage.com
@@ -16947,6 +16939,7 @@
 0 engagebdr.com
 0 engine.espace.netavenir.com
 0 enginenetwork.com
+0 enkayijamal.club
 0 enlarget.com
 0 enoratraffic.com
 0 enquisite.com
@@ -17271,6 +17264,7 @@
 0 impressionz.co.uk
 0 impulsehands.com
 0 imrworldwide.com
+0 in-page-push.com
 0 inabsolor.com
 0 inaccused.com
 0 inboxdollars.com
@@ -17785,6 +17779,7 @@
 0 ortshk.tapas.net
 0 ota.cartrawler.com
 0 otto-images.developershed.com
+0 oufauthy.net
 0 ousseventi.info
 0 out-there-media.com
 0 outtimburrtor.com
@@ -19224,6 +19219,7 @@
 0 weborama.net
 0 weigezhiyao.com
 0 wieistmeineip.de
+0 wt.soundestlink.com
 0 www.ethtrader.de
 0 www.everestjs.net
 0 www.hitcpm.com

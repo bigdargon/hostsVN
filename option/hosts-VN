@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Sep 2020 09:47 UTC+7
-# Version: 2009100947
-# Blocked: 1,402 domains
+# Last modified: 10 Sep 2020 15:11 UTC+7
+# Version: 2009101511
+# Blocked: 1,392 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1186,22 +1186,6 @@
 0.0.0.0 rec.donglogs.com
 0.0.0.0 scripts.donglogs.com
 0.0.0.0 www.donglogs.com
-#[123c.vn]
-0.0.0.0 123c.vn
-0.0.0.0 b.123c.vn
-0.0.0.0 b.staging.123c.vn
-0.0.0.0 d.123c.vn
-0.0.0.0 dev.d.123c.vn
-0.0.0.0 failover.123c.vn
-0.0.0.0 hit.123c.vn
-0.0.0.0 l.123c.vn
-0.0.0.0 qos-talk.123c.vn
-0.0.0.0 qos-zdn.123c.vn
-0.0.0.0 st.123c.vn
-0.0.0.0 stats.123c.vn
-0.0.0.0 t.123c.vn
-0.0.0.0 trk.123c.vn
-0.0.0.0 trk.staging.123c.vn
 #[nanda.vn]
 0.0.0.0 ai.nanda.vn
 0.0.0.0 analytics.nanda.vn
@@ -1431,6 +1415,7 @@
 0.0.0.0 event.headlines.pw
 0.0.0.0 event.vntoday.news
 0.0.0.0 follow.vnay.vn
+0.0.0.0 hit.123c.vn
 0.0.0.0 invite.baomoi.com
 0.0.0.0 la.vietid.net
 0.0.0.0 lg.lotus.vn
@@ -1440,6 +1425,7 @@
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.baophapluat.vn
 0.0.0.0 log.batdongsan.com.vn
+0.0.0.0 log.daidoanket.vn
 0.0.0.0 log.dantocmiennui.vn
 0.0.0.0 log.giaoduc.net.vn
 0.0.0.0 log.infonet.vn
@@ -1472,6 +1458,7 @@
 0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 stat.headlines.pw
 0.0.0.0 staticad.thethao247.vn
+0.0.0.0 stats.123c.vn
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 stats.dongphim.net
 0.0.0.0 stats.petrotimes.vn
@@ -1497,6 +1484,8 @@
 0.0.0.0 trackingapi.foody.vn
 0.0.0.0 trackity.tiki.vn
 0.0.0.0 trending.vn
+0.0.0.0 trk.123c.vn
+0.0.0.0 trk.staging.123c.vn
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 vn.alexajstrack.com
 0.0.0.0 vtrack.vht.com.vn
