@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Sep 2020 16:58 UTC+7
-# Version: 2009081658
-# Blocked: 19,289 domains
+# Last modified: 10 Sep 2020 09:47 UTC+7
+# Version: 2009100947
+# Blocked: 19,278 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4889,17 +4889,6 @@
 0 jpush.io
 0 sis.jpush.io
 0 www.jpush.io
-0 ionicframework.com
-0 beta.ionicframework.com
-0 dashboard.ionicframework.com
-0 code.ionicframework.com
-0 showcase.ionicframework.com
-0 staging.ionicframework.com
-0 capacitor.ionicframework.com
-0 jobs.ionicframework.com
-0 status.ionicframework.com
-0 market.ionicframework.com
-0 www.ionicframework.com
 0 piano.io
 0 demo.piano.io
 0 publisher.piano.io

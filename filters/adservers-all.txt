@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 08 Sep 2020 16:58 UTC+7
-! Version: 2009081658
-! Blocked: 5,348 rules
+! Last modified: 10 Sep 2020 09:47 UTC+7
+! Version: 2009100947
+! Blocked: 5,347 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1041,7 +1041,6 @@
 ||insurads.com^
 ||invitemedia.com^
 ||ioam.de^
-||ionicframework.com^
 ||ip.taobao.com^
 ||iperceptions.com^
 ||islandmob.com^
