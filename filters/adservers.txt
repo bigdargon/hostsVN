@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Sep 2020 15:11 UTC+7
-! Version: 2009101511
-! Blocked: 503 rules
+! Last modified: 11 Sep 2020 14:46 UTC+7
+! Version: 2009111446
+! Blocked: 505 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -47,6 +47,7 @@
 ||bidgear.com^
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
+||centralized.zaloapp.com^
 ||cheap-ads.net^
 ||cityads.com^
 ||cityadstrack.com^
@@ -250,6 +251,7 @@
 ||phimmedia03.com^
 ||polyad.galaxypub.vn^
 ||qc.designervn.net^
+||qcv5.blogtruyen.vn^
 ||quangcao.24h.com.vn^
 ||quangcao.baovannghe.com.vn^
 ||quangcao.thanhnien.vn^

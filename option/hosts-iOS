@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Sep 2020 15:11 UTC+7
-# Version: 2009101511
-# Blocked: 19,274 domains
+# Last modified: 11 Sep 2020 14:46 UTC+7
+# Version: 2009111446
+# Blocked: 19,285 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13886,6 +13886,13 @@
 0 sitescout.com
 0 ss.sitescout.com
 0 www.sitescout.com
+0 e.glotgrx.com
+0 glotgrx.com
+0 pre.glotgrx.com
+0 www.glotgrx.com
+0 eyeota.net
+0 ps.eyeota.net
+0 www.eyeota.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14273,6 +14280,7 @@
 0 px.za.zalo.me
 0 sp.zalo.me
 0 ads.zaloapp.com
+0 centralized.zaloapp.com
 0 log.api.zaloapp.com
 0 log.o2o.service.zaloapp.com
 0 photo-ads.zaloapp.com
@@ -15133,6 +15141,7 @@
 0 phimmedia03.com
 0 polyad.galaxypub.vn
 0 qc.designervn.net
+0 qcv5.blogtruyen.vn
 0 quangcao.24h.com.vn
 0 quangcao.baovannghe.com.vn
 0 quangcao.thanhnien.vn
@@ -16998,7 +17007,6 @@
 0 extreme-dm.com
 0 extremetracking.com
 0 eyeblaster.com
-0 eyeota.net
 0 eyereturn.com
 0 eyeviewads.com
 0 eyewonder.com
@@ -17980,6 +17988,7 @@
 0 pushno.com
 0 pushokey.com
 0 pushqwer.com
+0 puu.sh
 0 puzzlingfall.com
 0 pvclouds.com
 0 px.dynamicyield.com
@@ -18825,6 +18834,7 @@
 0 www.pro-ads.club
 0 www.propu.sh
 0 www.push-notifications.top
+0 www.puu.sh
 0 www.routeserve.info
 0 www.servsave.com
 0 www.shndrktrk.com
@@ -19113,6 +19123,7 @@
 0 pixel.nc0.co
 0 pixel.s3xified.com
 0 pixel.wp.com
+0 pixel.yabidos.com
 0 pjhku.com
 0 pl.ventunotech.com
 0 placehold.it

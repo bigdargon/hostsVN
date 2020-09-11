@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Sep 2020 15:11 UTC+7
-# Version: 2009101511
-# Blocked: 1,392 domains
+# Last modified: 11 Sep 2020 14:46 UTC+7
+# Version: 2009111446
+# Blocked: 1,394 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -419,6 +419,7 @@
 0.0.0.0 sp.zalo.me
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
+0.0.0.0 centralized.zaloapp.com
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 log.o2o.service.zaloapp.com
 0.0.0.0 photo-ads.zaloapp.com
@@ -1355,6 +1356,7 @@
 0.0.0.0 phimmedia03.com
 0.0.0.0 polyad.galaxypub.vn
 0.0.0.0 qc.designervn.net
+0.0.0.0 qcv5.blogtruyen.vn
 0.0.0.0 quangcao.24h.com.vn
 0.0.0.0 quangcao.baovannghe.com.vn
 0.0.0.0 quangcao.thanhnien.vn

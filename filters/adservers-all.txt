@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 10 Sep 2020 15:11 UTC+7
-! Version: 2009101511
-! Blocked: 5,357 rules
+! Last modified: 11 Sep 2020 14:46 UTC+7
+! Version: 2009111446
+! Blocked: 5,362 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -47,6 +47,7 @@
 ||bidgear.com^
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
+||centralized.zaloapp.com^
 ||cheap-ads.net^
 ||cityads.com^
 ||cityadstrack.com^
@@ -250,6 +251,7 @@
 ||phimmedia03.com^
 ||polyad.galaxypub.vn^
 ||qc.designervn.net^
+||qcv5.blogtruyen.vn^
 ||quangcao.24h.com.vn^
 ||quangcao.baovannghe.com.vn^
 ||quangcao.thanhnien.vn^
@@ -947,6 +949,7 @@
 ||exponential.com^
 ||exrtbsrv.com^
 ||external-promo-metrics.yandex.net^
+||eyeota.net^
 ||ezodn.com^
 ||ezoic.net^
 ||factual.com^
@@ -983,6 +986,7 @@
 ||gjapplog.ucweb.com^
 ||gjtrack.ucweb.com^
 ||glispa.com^
+||glotgrx.com^
 ||go-mpulse.net^
 ||go2affise.com^
 ||go2afse.com^
@@ -3189,7 +3193,6 @@
 ||extreme-dm.com^
 ||extremetracking.com^
 ||eyeblaster.com^
-||eyeota.net^
 ||eyereturn.com^
 ||eyeviewads.com^
 ||eyewonder.com^
@@ -4174,6 +4177,7 @@
 ||pushno.com^
 ||pushokey.com^
 ||pushqwer.com^
+||puu.sh^
 ||puzzlingfall.com^
 ||pvclouds.com^
 ||px.dynamicyield.com^
@@ -5228,6 +5232,7 @@
 ||pixel.nc0.co^
 ||pixel.s3xified.com^
 ||pixel.wp.com^
+||pixel.yabidos.com^
 ||pjhku.com^
 ||pl.ventunotech.com^
 ||placehold.it^
