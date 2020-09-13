@@ -3618,22 +3618,22 @@
 0.0.0.0 static.2mdnsys.com
 0.0.0.0 stats.2mdnsys.com
 0.0.0.0 cfa.2mdnsys.com
-#[ucweb]
+#[ucweb.com]
 0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 click.union.ucweb.com
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 insight.ucweb.com
-0.0.0.0 instory-log.ucnews.ucweb.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 puds.ucweb.com
+0.0.0.0 px-intl.ucweb.com
+0.0.0.0 px.ucweb.com
 0.0.0.0 sdkupgrade.insight.ucweb.com
 0.0.0.0 uc.ucweb.com
+#[uc.cn]
 0.0.0.0 applog.uc.cn
-0.0.0.0 gj.applog.uc.cn
-0.0.0.0 gj.track.uc.cn
-0.0.0.0 gjapplog.uc.cn
-0.0.0.0 woodpecker.uc.cn
+0.0.0.0 applogios.uc.cn
+0.0.0.0 track.uc.cn
 #[branch]
 0.0.0.0 ai.branch.io
 0.0.0.0 api.alpha.branch.io
@@ -4233,36 +4233,27 @@
 0.0.0.0 ma85-r-analytics.akamaized.net
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 static-ads.akamaized.net
-#[quantserve]
-0.0.0.0 2kpixel.quantserve.com
+#[quantserve.com]
 0.0.0.0 ads.quantserve.com
 0.0.0.0 c.quantserve.com
 0.0.0.0 cms.quantserve.com
 0.0.0.0 content.quantserve.com
 0.0.0.0 dco.quantserve.com
 0.0.0.0 edge.quantserve.com
-0.0.0.0 eu-pulsepoint-rtb.quantserve.com
-0.0.0.0 eu-rtb.ak.quantserve.com
 0.0.0.0 exch.quantserve.com
 0.0.0.0 flash.quantserve.com
 0.0.0.0 global.px.quantserve.com
-0.0.0.0 global.qc.rtb.quantserve.com
 0.0.0.0 m.quantserve.com
 0.0.0.0 maxcdn.quantserve.com
 0.0.0.0 media.quantserve.com
 0.0.0.0 pixel.quantserve.com
-0.0.0.0 preview.quantserve.com
 0.0.0.0 px.quantserve.com
 0.0.0.0 qcx.quantserve.com
 0.0.0.0 quantserve.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 segapi.quantserve.com
 0.0.0.0 ssl.quantserve.com
-0.0.0.0 struq.quantserve.com
-0.0.0.0 us-east-pulsepoint-rtb.quantserve.com
-0.0.0.0 us-west-pulsepoint-rtb.quantserve.com
 0.0.0.0 vast.quantserve.com
-0.0.0.0 www.edge.quantserve.com
 0.0.0.0 www.quantserve.com
 #[advertising.com]
 0.0.0.0 ads.adaptv.advertising.com
@@ -14634,3 +14625,17 @@
 0.0.0.0 eyeota.net
 0.0.0.0 ps.eyeota.net
 0.0.0.0 www.eyeota.net
+#[zetadeo.com]
+0.0.0.0 c.zetadeo.com
+0.0.0.0 p.zetadeo.com
+0.0.0.0 zetadeo.com
+#[vi-serve.com]
+0.0.0.0 c.vi-serve.com
+0.0.0.0 nv.vi-serve.com
+0.0.0.0 pb.vi-serve.com
+0.0.0.0 pb0.vi-serve.com
+0.0.0.0 s.vi-serve.com
+0.0.0.0 s404-1.vi-serve.com
+0.0.0.0 t.vi-serve.com
+0.0.0.0 vi-serve.com
+0.0.0.0 vis.vi-serve.com

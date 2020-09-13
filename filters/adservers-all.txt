@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 11 Sep 2020 14:46 UTC+7
-! Version: 2009111446
-! Blocked: 5,362 rules
+! Last modified: 13 Sep 2020 21:03 UTC+7
+! Version: 2009132103
+! Blocked: 5,373 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -743,6 +743,8 @@
 ||applifier.com^
 ||applifier.info^
 ||applog.snssdk.com^
+||applog.uc.cn^
+||applogios.uc.cn^
 ||applovin.com^
 ||applvn.com^
 ||appmetrica.yandex.com^
@@ -1262,6 +1264,8 @@
 ||pushtimize.com^
 ||pushwoosh.com^
 ||pvmax.net^
+||px-intl.ucweb.com^
+||px.ucweb.com^
 ||pxlad.io^
 ||qualtrics.com^
 ||quantserve.com^
@@ -1422,6 +1426,7 @@
 ||vdo.ai^
 ||vdopia.com^
 ||vev77.com^
+||vi-serve.com^
 ||viadata.store^
 ||vicksot.com^
 ||videohub.tv^
@@ -1469,6 +1474,7 @@
 ||your-notice.com^
 ||zcoup.com^
 ||zergnet.com^
+||zetadeo.com^
 ||zucks.net^
 ||1-1ads.com^
 ||1phads.com^
@@ -2781,6 +2787,7 @@
 ||centerpointmedia.com^
 ||cetrk.com^
 ||cgicounter.puretec.de^
+||chaglihysty.pro^
 ||chairscrack.com^
 ||chameleon.ad^
 ||chango.com^
@@ -4776,6 +4783,7 @@
 ||trustx.org^
 ||tubedspots.com^
 ||tubemogul.com^
+||tulecheja.pro^
 ||tunnl.com^
 ||turboadv.com^
 ||turn.com^
@@ -5047,6 +5055,7 @@
 ||analytics.ccgateway.net^
 ||analytics.cloudron.io^
 ||analytics.diyriver.io^
+||analytics.edgesuite.net^
 ||analytics.ff.avast.com^
 ||analytics.headerbiddr.net^
 ||analytics.hostyour.video^
@@ -5253,6 +5262,7 @@
 ||remyyadan.online.fr^
 ||reports.ubimo.com^
 ||richmetrics.com^
+||rlog.9gag.com^
 ||robinkornett.com^
 ||rochesterdata.com^
 ||rsrly.com^
@@ -5262,7 +5272,6 @@
 ||s.iaudienc.com^
 ||s.idio.co^
 ||s.infogram.com^
-||s.vi-serve.com^
 ||safegraph.com^
 ||safelyawake.com^
 ||salesloft.com^
@@ -5294,6 +5303,7 @@
 ||summerhamster.com^
 ||suriflowers.com^
 ||sync2ad.com^
+||t.9gag.com^
 ||t.dailymail.co.uk^
 ||tag.researchnow.com^
 ||tags.tiqcdn.com^
@@ -5329,12 +5339,12 @@
 ||va.tawk.to^
 ||vdtrack.com^
 ||vectaury.io^
-||vi-serve.com^
 ||vilagnomad.com^
 ||vizu.com^
 ||w3counter.com^
 ||wa.metro.co.uk^
 ||wc-tracking.lavasoft.com^
+||web-t.9gag.com^
 ||web.ventunotech.com^
 ||weborama.net^
 ||weigezhiyao.com^
@@ -5358,6 +5368,7 @@
 ||mysp.ac^
 ||screenshielded.com^
 ||special-offerz.org^
+||support.dheje.xyz^
 ||tc-clicks.com^
 ||traffic-c.com^
 ||trffcdmn.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Sep 2020 14:46 UTC+7
-# Version: 2009111446
-# Blocked: 19,285 domains
+# Last modified: 13 Sep 2020 21:03 UTC+7
+# Version: 2009132103
+# Blocked: 19,292 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3486,16 +3486,15 @@
 0 gjapplog.ucweb.com
 0 gjtrack.ucweb.com
 0 insight.ucweb.com
-0 instory-log.ucnews.ucweb.com
 0 logserver.insight.ucweb.com
 0 puds.ucweb.com
+0 px-intl.ucweb.com
+0 px.ucweb.com
 0 sdkupgrade.insight.ucweb.com
 0 uc.ucweb.com
 0 applog.uc.cn
-0 gj.applog.uc.cn
-0 gj.track.uc.cn
-0 gjapplog.uc.cn
-0 woodpecker.uc.cn
+0 applogios.uc.cn
+0 track.uc.cn
 0 ai.branch.io
 0 api.alpha.branch.io
 0 api.beta.branch.io
@@ -4061,35 +4060,26 @@
 0 ma85-r-analytics.akamaized.net
 0 speee-ad.akamaized.net
 0 static-ads.akamaized.net
-0 2kpixel.quantserve.com
 0 ads.quantserve.com
 0 c.quantserve.com
 0 cms.quantserve.com
 0 content.quantserve.com
 0 dco.quantserve.com
 0 edge.quantserve.com
-0 eu-pulsepoint-rtb.quantserve.com
-0 eu-rtb.ak.quantserve.com
 0 exch.quantserve.com
 0 flash.quantserve.com
 0 global.px.quantserve.com
-0 global.qc.rtb.quantserve.com
 0 m.quantserve.com
 0 maxcdn.quantserve.com
 0 media.quantserve.com
 0 pixel.quantserve.com
-0 preview.quantserve.com
 0 px.quantserve.com
 0 qcx.quantserve.com
 0 quantserve.com
 0 secure.quantserve.com
 0 segapi.quantserve.com
 0 ssl.quantserve.com
-0 struq.quantserve.com
-0 us-east-pulsepoint-rtb.quantserve.com
-0 us-west-pulsepoint-rtb.quantserve.com
 0 vast.quantserve.com
-0 www.edge.quantserve.com
 0 www.quantserve.com
 0 ads.adaptv.advertising.com
 0 adserver-as.adtech.advertising.com
@@ -13893,6 +13883,18 @@
 0 eyeota.net
 0 ps.eyeota.net
 0 www.eyeota.net
+0 c.zetadeo.com
+0 p.zetadeo.com
+0 zetadeo.com
+0 c.vi-serve.com
+0 nv.vi-serve.com
+0 pb.vi-serve.com
+0 pb0.vi-serve.com
+0 s.vi-serve.com
+0 s404-1.vi-serve.com
+0 t.vi-serve.com
+0 vi-serve.com
+0 vis.vi-serve.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -16596,6 +16598,7 @@
 0 centerpointmedia.com
 0 cetrk.com
 0 cgicounter.puretec.de
+0 chaglihysty.pro
 0 chairscrack.com
 0 chameleon.ad
 0 chango.com
@@ -18587,6 +18590,7 @@
 0 trustx.org
 0 tubedspots.com
 0 tubemogul.com
+0 tulecheja.pro
 0 tunnl.com
 0 turboadv.com
 0 turn.com
@@ -18938,6 +18942,7 @@
 0 analytics.ccgateway.net
 0 analytics.cloudron.io
 0 analytics.diyriver.io
+0 analytics.edgesuite.net
 0 analytics.ff.avast.com
 0 analytics.headerbiddr.net
 0 analytics.hostyour.video
@@ -19144,6 +19149,7 @@
 0 remyyadan.online.fr
 0 reports.ubimo.com
 0 richmetrics.com
+0 rlog.9gag.com
 0 robinkornett.com
 0 rochesterdata.com
 0 rsrly.com
@@ -19153,7 +19159,6 @@
 0 s.iaudienc.com
 0 s.idio.co
 0 s.infogram.com
-0 s.vi-serve.com
 0 safegraph.com
 0 safelyawake.com
 0 salesloft.com
@@ -19185,6 +19190,7 @@
 0 summerhamster.com
 0 suriflowers.com
 0 sync2ad.com
+0 t.9gag.com
 0 t.dailymail.co.uk
 0 tag.researchnow.com
 0 tags.tiqcdn.com
@@ -19220,12 +19226,12 @@
 0 va.tawk.to
 0 vdtrack.com
 0 vectaury.io
-0 vi-serve.com
 0 vilagnomad.com
 0 vizu.com
 0 w3counter.com
 0 wa.metro.co.uk
 0 wc-tracking.lavasoft.com
+0 web-t.9gag.com
 0 web.ventunotech.com
 0 weborama.net
 0 weigezhiyao.com
@@ -19261,6 +19267,7 @@
 0 mysp.ac
 0 screenshielded.com
 0 special-offerz.org
+0 support.dheje.xyz
 0 tc-clicks.com
 0 traffic-c.com
 0 trffcdmn.com

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Sep 2020 14:46 UTC+7
-# Version: 2009111446
-# Blocked: 19,285 domains
+# Last modified: 13 Sep 2020 21:03 UTC+7
+# Version: 2009132103
+# Blocked: 19,292 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3630,22 +3630,22 @@
 0.0.0.0 static.2mdnsys.com
 0.0.0.0 stats.2mdnsys.com
 0.0.0.0 cfa.2mdnsys.com
-#[ucweb]
+#[ucweb.com]
 0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 click.union.ucweb.com
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 insight.ucweb.com
-0.0.0.0 instory-log.ucnews.ucweb.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 puds.ucweb.com
+0.0.0.0 px-intl.ucweb.com
+0.0.0.0 px.ucweb.com
 0.0.0.0 sdkupgrade.insight.ucweb.com
 0.0.0.0 uc.ucweb.com
+#[uc.cn]
 0.0.0.0 applog.uc.cn
-0.0.0.0 gj.applog.uc.cn
-0.0.0.0 gj.track.uc.cn
-0.0.0.0 gjapplog.uc.cn
-0.0.0.0 woodpecker.uc.cn
+0.0.0.0 applogios.uc.cn
+0.0.0.0 track.uc.cn
 #[branch]
 0.0.0.0 ai.branch.io
 0.0.0.0 api.alpha.branch.io
@@ -4245,36 +4245,27 @@
 0.0.0.0 ma85-r-analytics.akamaized.net
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 static-ads.akamaized.net
-#[quantserve]
-0.0.0.0 2kpixel.quantserve.com
+#[quantserve.com]
 0.0.0.0 ads.quantserve.com
 0.0.0.0 c.quantserve.com
 0.0.0.0 cms.quantserve.com
 0.0.0.0 content.quantserve.com
 0.0.0.0 dco.quantserve.com
 0.0.0.0 edge.quantserve.com
-0.0.0.0 eu-pulsepoint-rtb.quantserve.com
-0.0.0.0 eu-rtb.ak.quantserve.com
 0.0.0.0 exch.quantserve.com
 0.0.0.0 flash.quantserve.com
 0.0.0.0 global.px.quantserve.com
-0.0.0.0 global.qc.rtb.quantserve.com
 0.0.0.0 m.quantserve.com
 0.0.0.0 maxcdn.quantserve.com
 0.0.0.0 media.quantserve.com
 0.0.0.0 pixel.quantserve.com
-0.0.0.0 preview.quantserve.com
 0.0.0.0 px.quantserve.com
 0.0.0.0 qcx.quantserve.com
 0.0.0.0 quantserve.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 segapi.quantserve.com
 0.0.0.0 ssl.quantserve.com
-0.0.0.0 struq.quantserve.com
-0.0.0.0 us-east-pulsepoint-rtb.quantserve.com
-0.0.0.0 us-west-pulsepoint-rtb.quantserve.com
 0.0.0.0 vast.quantserve.com
-0.0.0.0 www.edge.quantserve.com
 0.0.0.0 www.quantserve.com
 #[advertising.com]
 0.0.0.0 ads.adaptv.advertising.com
@@ -14646,6 +14637,20 @@
 0.0.0.0 eyeota.net
 0.0.0.0 ps.eyeota.net
 0.0.0.0 www.eyeota.net
+#[zetadeo.com]
+0.0.0.0 c.zetadeo.com
+0.0.0.0 p.zetadeo.com
+0.0.0.0 zetadeo.com
+#[vi-serve.com]
+0.0.0.0 c.vi-serve.com
+0.0.0.0 nv.vi-serve.com
+0.0.0.0 pb.vi-serve.com
+0.0.0.0 pb0.vi-serve.com
+0.0.0.0 s.vi-serve.com
+0.0.0.0 s404-1.vi-serve.com
+0.0.0.0 t.vi-serve.com
+0.0.0.0 vi-serve.com
+0.0.0.0 vis.vi-serve.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -17450,6 +17455,7 @@
 0.0.0.0 centerpointmedia.com
 0.0.0.0 cetrk.com
 0.0.0.0 cgicounter.puretec.de
+0.0.0.0 chaglihysty.pro
 0.0.0.0 chairscrack.com
 0.0.0.0 chameleon.ad
 0.0.0.0 chango.com
@@ -19441,6 +19447,7 @@
 0.0.0.0 trustx.org
 0.0.0.0 tubedspots.com
 0.0.0.0 tubemogul.com
+0.0.0.0 tulecheja.pro
 0.0.0.0 tunnl.com
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com
@@ -19793,6 +19800,7 @@
 0.0.0.0 analytics.ccgateway.net
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.diyriver.io
+0.0.0.0 analytics.edgesuite.net
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.headerbiddr.net
 0.0.0.0 analytics.hostyour.video
@@ -19999,6 +20007,7 @@
 0.0.0.0 remyyadan.online.fr
 0.0.0.0 reports.ubimo.com
 0.0.0.0 richmetrics.com
+0.0.0.0 rlog.9gag.com
 0.0.0.0 robinkornett.com
 0.0.0.0 rochesterdata.com
 0.0.0.0 rsrly.com
@@ -20008,7 +20017,6 @@
 0.0.0.0 s.iaudienc.com
 0.0.0.0 s.idio.co
 0.0.0.0 s.infogram.com
-0.0.0.0 s.vi-serve.com
 0.0.0.0 safegraph.com
 0.0.0.0 safelyawake.com
 0.0.0.0 salesloft.com
@@ -20040,6 +20048,7 @@
 0.0.0.0 summerhamster.com
 0.0.0.0 suriflowers.com
 0.0.0.0 sync2ad.com
+0.0.0.0 t.9gag.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 tag.researchnow.com
 0.0.0.0 tags.tiqcdn.com
@@ -20075,12 +20084,12 @@
 0.0.0.0 va.tawk.to
 0.0.0.0 vdtrack.com
 0.0.0.0 vectaury.io
-0.0.0.0 vi-serve.com
 0.0.0.0 vilagnomad.com
 0.0.0.0 vizu.com
 0.0.0.0 w3counter.com
 0.0.0.0 wa.metro.co.uk
 0.0.0.0 wc-tracking.lavasoft.com
+0.0.0.0 web-t.9gag.com
 0.0.0.0 web.ventunotech.com
 0.0.0.0 weborama.net
 0.0.0.0 weigezhiyao.com
@@ -20117,6 +20126,7 @@
 0.0.0.0 mysp.ac
 0.0.0.0 screenshielded.com
 0.0.0.0 special-offerz.org
+0.0.0.0 support.dheje.xyz
 0.0.0.0 tc-clicks.com
 0.0.0.0 traffic-c.com
 0.0.0.0 trffcdmn.com
