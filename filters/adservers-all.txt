@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Sep 2020 12:02 UTC+7
-! Version: 2009141202
-! Blocked: 5,375 rules
+! Last modified: 14 Sep 2020 13:40 UTC+7
+! Version: 2009141340
+! Blocked: 5,378 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3370,6 +3370,7 @@
 ||hightrafficads.com^
 ||hilariouszinc.com^
 ||hilltopads.net^
+||himizoli.pro^
 ||historicalrequest.com^
 ||hit-parade.com^
 ||hit.bg^
@@ -4057,6 +4058,7 @@
 ||pheedo.com^
 ||phizzle.com^
 ||phluant.com^
+||phobygipi.pro^
 ||phoenix-adrunner.mycomputer.com^
 ||phonearena.com^
 ||phoossax.net^
@@ -4941,6 +4943,7 @@
 ||whisperingcrib.com^
 ||whoisonline.net^
 ||wholesaletraffic.info^
+||whurulali.pro^
 ||widdit.com^
 ||widespace.com^
 ||widget.privy.com^
