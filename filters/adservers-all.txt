@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Sep 2020 21:03 UTC+7
-! Version: 2009132103
-! Blocked: 5,373 rules
+! Last modified: 14 Sep 2020 12:02 UTC+7
+! Version: 2009141202
+! Blocked: 5,375 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -726,6 +726,7 @@
 ||analytics.snssdk.com^
 ||analytics.spotify.com^
 ||analytics.yahoo.com^
+||andbeyond.media^
 ||aniview.com^
 ||answers.com^
 ||aper.pw^
@@ -3328,6 +3329,7 @@
 ||graizoah.com^
 ||grandioseguide.com^
 ||grapeshot.co.uk^
+||graxarosi.pro^
 ||greetzebra.com^
 ||greyinstrument.com^
 ||greystripe.com^
