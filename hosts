@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Sep 2020 13:40 UTC+7
-# Version: 2009141340
-# Blocked: 19,321 domains
+# Last modified: 15 Sep 2020 15:08 UTC+7
+# Version: 2009151508
+# Blocked: 19,337 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14677,6 +14677,23 @@
 0.0.0.0 vtent.andbeyond.media
 0.0.0.0 vtphp.andbeyond.media
 0.0.0.0 www.andbeyond.media
+#[miaozhen.com]
+0.0.0.0 admonitor-lite.miaozhen.com
+0.0.0.0 admonitor.miaozhen.com
+0.0.0.0 cm.cn.miaozhen.com
+0.0.0.0 e.cn.miaozhen.com
+0.0.0.0 e.jp.miaozhen.com
+0.0.0.0 g.cn.miaozhen.com
+0.0.0.0 g.jp.miaozhen.com
+0.0.0.0 hunantv-ipdx.cn.miaozhen.com
+0.0.0.0 i.miaozhen.com
+0.0.0.0 js.miaozhen.com
+0.0.0.0 miaozhen.com
+0.0.0.0 monitor-tools.cn.miaozhen.com
+0.0.0.0 stm-cdn.cn.miaozhen.com
+0.0.0.0 stm-collect.cn.miaozhen.com
+0.0.0.0 www.miaozhen.com
+0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn

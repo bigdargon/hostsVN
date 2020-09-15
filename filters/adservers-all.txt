@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Sep 2020 13:40 UTC+7
-! Version: 2009141340
-! Blocked: 5,378 rules
+! Last modified: 15 Sep 2020 15:08 UTC+7
+! Version: 2009151508
+! Blocked: 5,379 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1128,6 +1128,7 @@
 ||metrics.cnn.com^
 ||mgid.com^
 ||mi.gdt.qq.com^
+||miaozhen.com^
 ||microad.co.jp^
 ||microad.jp^
 ||microad.net^
