@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Sep 2020 11:34 UTC+7
-! Version: 2009161134
-! Blocked: 5,391 rules
+! Last modified: 16 Sep 2020 14:59 UTC+7
+! Version: 2009161459
+! Blocked: 5,357 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -524,7 +524,6 @@
 ||1ts06.top^
 ||24smi.net^
 ||2leep.com^
-||2mdn.net^
 ||2mdnsys.com^
 ||33across.com^
 ||360in.com^
@@ -543,23 +542,22 @@
 ||accesstrade.net^
 ||acloudimages.com^
 ||acuityplatform.com^
-||ad*.qq.com^
 ||ad-brix.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||ad-stir.com^
-||ad.*.starwave.com^
 ||ad.daum.net^
 ||ad.download.cnet.com^
 ||ad.go.com^
 ||ad.gt^
 ||ad.plus^
+||ad.qq.com^
 ||ad.style^
 ||ad.youtube.com^
 ||ad4game.com^
 ||ad4screen.com^
 ||adadvisor.net^
 ||adap.tv^
-||adash*.taobao.com^
+||adash*.*.taobao.com^
 ||adblade.com^
 ||adblox.net^
 ||adbrix.io^
@@ -644,14 +642,12 @@
 ||adsapi*.snapchat.com^
 ||adsaro.net^
 ||adsatt.*.go.com^
-||adsatt.*.starwave.com^
 ||adschoom.com^
 ||adserver.bing.com^
 ||adserver.yahoo.com^
 ||adservice.google.*^
 ||adservme.com^
 ||adsfactor.net^
-||adsintl.starwave.com^
 ||adskeeper.co.uk^
 ||adskeeper.com^
 ||adsloads.com^
@@ -709,7 +705,6 @@
 ||aj1*.online^
 ||ajgc1*.online^
 ||ajx*.online^
-||akaads*.starwave.com^
 ||alcmpn.com^
 ||alexametrics.com^
 ||alphonso.tv^
@@ -719,7 +714,6 @@
 ||ambimob.com^
 ||amplitude.com^
 ||amung.us^
-||an*adserv.online^
 ||an.facebook.com^
 ||an.yandex.ru^
 ||analy.qq.com^
@@ -731,7 +725,6 @@
 ||analytics.mobile.yandex.net^
 ||analytics.msn.com^
 ||analytics.query.yahoo.com^
-||analytics.snssdk.com^
 ||analytics.spotify.com^
 ||analytics.yahoo.com^
 ||andbeyond.media^
@@ -739,7 +732,6 @@
 ||answers.com^
 ||aper.pw^
 ||api.ads.*.go.com^
-||api.mobojoy.baidu.com^
 ||app-adforce.jp^
 ||app-analytics*.snapchat.com^
 ||appadhoc.com^
@@ -747,11 +739,9 @@
 ||appbaqend.com^
 ||appboy.com^
 ||appcloudbox.net^
-||appdynamics.com^
 ||appearch.info^
 ||applifier.com^
 ||applifier.info^
-||applog.snssdk.com^
 ||applog.uc.cn^
 ||applogios.uc.cn^
 ||applovin.com^
@@ -762,7 +752,6 @@
 ||appnexus.com^
 ||appodealx.com^
 ||appsee.com^
-||apptentive.com^
 ||apptimize.com^
 ||apptornado.com^
 ||apxadtracking.net^
@@ -832,10 +821,10 @@
 ||browser.pipe.aria.microsoft.com^
 ||browsiprod.com^
 ||bs.yandex.ru^
+||btrace.qq.com^
 ||btrace.video.qq.com^
 ||bttrack.com^
 ||bugly.qq.com^
-||bzclk.baidu.com^
 ||c.bing.com^
 ||c.microsoft.com^
 ||cacafly.net^
@@ -867,9 +856,7 @@
 ||clicksor.com^
 ||clicktale.net^
 ||client-event-reporter.twitch.tv^
-||client_monitor.isnssdk.com^
 ||clientmetrics-pa.googleapis.com^
-||clientmonitor.isnssdk.com^
 ||clksite.com^
 ||clog.go.com^
 ||cloud.unity3d.com^
@@ -880,7 +867,6 @@
 ||collection-*.herokuapp.com^
 ||collective-media.net^
 ||commerce.adobedtm.com^
-||conf.international.baidu.com^
 ||connatix.com^
 ||connect.adobedtm.com^
 ||connectad.io^
@@ -894,7 +880,6 @@
 ||countess.twitch.tv^
 ||cpaikon.net^
 ||cpmstar.com^
-||cpro.baidu.com^
 ||creative.ak.facebook.com^
 ||creative.ak.fbcdn.net^
 ||creativecdn.com^
@@ -940,9 +925,7 @@
 ||dspmulti.com^
 ||du8783wkf05yr.cloudfront.net^
 ||duapps.com^
-||dxp.baidu.com^
 ||e.qq.com^
-||eclick.baidu.com^
 ||effectivemeasure.net^
 ||ej1*.online^
 ||ematicsolutions.com^
@@ -982,13 +965,13 @@
 ||fqtag.com^
 ||freshmarketer.com^
 ||fullstory.com^
-||fwmrm.net^
 ||fyber.com^
 ||gads*s.com^
 ||gads*z.com^
 ||galaxiemedia.fr^
 ||gameanalytics.com^
 ||gaug.es^
+||gdt.qq.com^
 ||genieessp.com^
 ||geo.yahoo.com^
 ||getadmiral.com^
@@ -1010,7 +993,6 @@
 ||gop1.co^
 ||goraps.com^
 ||growingio.com^
-||gsp1.baidu.com^
 ||gssprt.jp^
 ||gumgum.com^
 ||hadarone.com^
@@ -1020,8 +1002,6 @@
 ||heyzap.com^
 ||hgbasics.com^
 ||histats.com^
-||hm.baidu.com^
-||hmma.baidu.com^
 ||hotjar.com^
 ||hs-analytics.net^
 ||hs-banner.com^
@@ -1029,7 +1009,6 @@
 ||hsadspixel.net^
 ||hubapi.com^
 ||i-mobile.co.jp^
-||iad-*.braze.com^
 ||iad.apple.com^
 ||iadsdk.apple.com^
 ||iap.unity3d.com^
@@ -1068,7 +1047,6 @@
 ||jetlore.com^
 ||jpush.cn^
 ||jpush.io^
-||js.mobojoy.baidu.com^
 ||jscount.com^
 ||jsecoin.com^
 ||juicer.cc^
@@ -1095,15 +1073,13 @@
 ||livefyre.com^
 ||lkqd.net^
 ||localytics.com^
-||log*.byteoversea.com^
-||log*.isnssdk.com^
-||log*.snssdk.com^
 ||log.go.com^
 ||log.spotify.com^
 ||loggly.com^
 ||logly.co.jp^
 ||logrocket.com^
 ||logrocket.io^
+||logsdk.qq.com^
 ||lotame.com^
 ||lsosad.com^
 ||mads*.amazon.com^
@@ -1113,7 +1089,6 @@
 ||mail-ads.google.com^
 ||mailchimp.com^
 ||mainadv.com^
-||maliva-mcs.byteoversea.com^
 ||mantisadnetwork.com^
 ||marfeelcache.com^
 ||marfeelcdn.com^
@@ -1135,13 +1110,11 @@
 ||meter-svc.nytimes.com^
 ||metrics.cnn.com^
 ||mgid.com^
-||mi.gdt.qq.com^
 ||miaozhen.com^
 ||microad.co.jp^
 ||microad.jp^
 ||microad.net^
 ||microadinc.com^
-||midasplayer.com^
 ||millennialmedia.com^
 ||mirs.com^
 ||mixpanel.com^
@@ -1149,7 +1122,6 @@
 ||mmccint.com^
 ||mmstat.com^
 ||moatads.com^
-||mobads.baidu.com^
 ||mobclix.com^
 ||mobfox.com^
 ||mobile.pipe.aria.microsoft.com^
@@ -1162,9 +1134,6 @@
 ||mocean.mobi^
 ||moengage.com^
 ||mojiva.com^
-||mon*.byteoversea.com^
-||mon*.isnssdk.com^
-||mon*.snssdk.com^
 ||monetiza.co^
 ||monetize.com^
 ||mookie1.com^
@@ -1194,13 +1163,11 @@
 ||npeakuy.com^
 ||nr-data.net^
 ||ns1p.net^
-||nsclick.baidu.com^
 ||nxtck.com^
 ||nytadvertising.nytimes.com^
 ||o-s.io^
 ||o333o.com^
 ||objc.top^
-||odc.starwave.com^
 ||omnitagjs.com^
 ||omtrdc.net^
 ||onespot-tracking.herokuapp.com^
@@ -1233,8 +1200,8 @@
 ||persona.ly^
 ||petametrics.com^
 ||piano.io^
+||ping*.qq.com^
 ||pingdom.net^
-||pingma.qq.com^
 ||pinpoint.*.amazonaws.com^
 ||pixel-static.spotify.com^
 ||pixel.facebook.com^
@@ -1244,7 +1211,6 @@
 ||platform.tumblr.com^
 ||playbuzz.com^
 ||playground.xyz^
-||plugin.mobopay.baidu.com^
 ||pmddby.com^
 ||po.st^
 ||popads.net^
@@ -1252,7 +1218,6 @@
 ||popclck.org^
 ||popin.cc^
 ||popnc.com^
-||pos.baidu.com^
 ||postrelease.com^
 ||powerlinks.com^
 ||prebid.org^
@@ -1293,6 +1258,7 @@
 ||remotead-internal.cnet.com^
 ||remotead.cnet.com^
 ||report.appmetrica.yandex.net^
+||report.qq.com^
 ||revcontent.com^
 ||revenuehits.com^
 ||revive-adserver.com^
@@ -1303,15 +1269,12 @@
 ||rmp.rakuten.com^
 ||rmtag.com^
 ||rosenberg.appmetrica.yandex.net^
-||rtapplog.snssdk.com^
 ||rtbid.me^
-||rtlog.isnssdk.com^
 ||rtmark.net^
 ||rubiconproject.com^
 ||run-syndicate.com^
 ||runative-syndicate.com^
 ||runative.com^
-||s*-2mdn-net.l.google.com^
 ||s-onetag.com^
 ||s4d.xyz^
 ||sads*z.com^
@@ -1334,7 +1297,6 @@
 ||services.disqus.com^
 ||serving-sys.com^
 ||serving1.net^
-||sgali-mcs.byteoversea.com^
 ||shareaholic.com^
 ||sharethis.com^
 ||sharethrough.com^
@@ -1382,8 +1344,6 @@
 ||superfastmediation.com^
 ||supersonicads.com^
 ||sworkitads.herokuapp.com^
-||swrve.com^
-||sync.mobojoy.baidu.com^
 ||syndication.twitter.com^
 ||taboola.com^
 ||tanx.com^
@@ -1431,7 +1391,6 @@
 ||urbanairship.com^
 ||urekamedia.com^
 ||useinsider.com^
-||usp1.baidu.com^
 ||uttclimber.com^
 ||vdo.ai^
 ||vdopia.com^
@@ -1467,8 +1426,6 @@
 ||wywy.com^
 ||wywyuserservice.com^
 ||xapads.com^
-||xlog*.byteoversea.com^
-||xlog.snssdk.com^
 ||xmlppcbuzz.com^
 ||xslt.alexa.com^
 ||yadro.ru^
@@ -2454,6 +2411,7 @@
 ||api.52youtu.com^
 ||api.adserver-e7.com^
 ||api.ampiri.com^
+||api.apptentive.com^
 ||api.catch.gift^
 ||api.forshrd.com^
 ||api.intensifier.de^
@@ -3290,6 +3248,7 @@
 ||futuristicfairies.com^
 ||fuzzyflavor.com^
 ||fuzzyweather.com^
+||fwmrm.net^
 ||fxclix.com^
 ||fxstyle.net^
 ||ga.clearbit.com^
@@ -4374,6 +4333,7 @@
 ||scrubsky.com^
 ||scrubswim.com^
 ||sdhfbvd.com^
+||sdk.apptentive.com^
 ||seaboblit.com^
 ||searchfeast.com^
 ||searchmarketing.com^
@@ -5124,6 +5084,7 @@
 ||bugsense.com^
 ||burstly.com^
 ||bvpdf9.u9a.wentserver.com^
+||bzclk.baidu.com^
 ||c.snnd.co^
 ||c.webengage.com^
 ||c2i-cdn.startappnetwork.com^
@@ -5163,6 +5124,7 @@
 ||dolohen.com^
 ||down.nishuoa.com^
 ||dynatrace.com^
+||eclick.baidu.com^
 ||edigitalsurvey.com^
 ||embed.tawk.to^
 ||ethtrader.de^
@@ -5202,6 +5164,7 @@
 ||ie8eamus.com^
 ||images.dmca.com^
 ||img.leadzutw.com^
+||imgstat.baidu.com^
 ||infoaz.nl^
 ||inside-graph.com^
 ||intent.cbsi.com^
@@ -5248,6 +5211,7 @@
 ||nppmwatch.com^
 ||npttech.com^
 ||ns.zdbb.net^
+||nsclick.baidu.com^
 ||om.cbsi.com^
 ||opensharecount.com^
 ||ophan.theguardian.com^
@@ -5276,6 +5240,7 @@
 ||r.3gl.net^
 ||r.bbci.co.uk^
 ||r1.snnd.co^
+||reachmax.cn^
 ||redinvestor.com^
 ||remyyadan.online.fr^
 ||reports.ubimo.com^
@@ -5296,6 +5261,7 @@
 ||sam4m.com^
 ||saspreview.com^
 ||sc-static.net^
+||sclick.baidu.com^
 ||showbiz.owndata.network^
 ||si.dailymail.co.uk^
 ||simplesharebuttons.com^
