@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 Sep 2020 15:08 UTC+7
-# Version: 2009151508
-# Blocked: 19,337 domains
+# Last modified: 16 Sep 2020 11:34 UTC+7
+# Version: 2009161134
+# Blocked: 19,340 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -177,7 +177,6 @@
 #[optimize.google.com]
 0.0.0.0 optimize.google.com
 0.0.0.0 www.optimize.google.com
-0.0.0.0 dr-mobiweb.googleoptimize.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 www.googleoptimize.com
 #[googleapis.com]
@@ -18343,6 +18342,7 @@
 0.0.0.0 longinglettuce.com
 0.0.0.0 loopme.biz
 0.0.0.0 lop.com
+0.0.0.0 lorybnfh.com
 0.0.0.0 loudloss.com
 0.0.0.0 loudlunch.com
 0.0.0.0 lowtyroguer.com
@@ -18823,6 +18823,7 @@
 0.0.0.0 potentionsdarket.site
 0.0.0.0 potenza.cz
 0.0.0.0 powerad.ai
+0.0.0.0 ppfrlfe.com
 0.0.0.0 pr-star.de
 0.0.0.0 pr-ten.de
 0.0.0.0 pr5dir.com
@@ -19213,6 +19214,7 @@
 0.0.0.0 squarebirdie.com
 0.0.0.0 squirrelhands.com
 0.0.0.0 srbijacafe.org
+0.0.0.0 srodicham.com
 0.0.0.0 srv.trafficgate.net
 0.0.0.0 srv2.trafficgate.net
 0.0.0.0 srwww1.com
@@ -19516,6 +19518,7 @@
 0.0.0.0 ultramercial.com
 0.0.0.0 ultraoranges.com
 0.0.0.0 ultsearch.com
+0.0.0.0 ulukaris.com
 0.0.0.0 unanimis.co.uk
 0.0.0.0 unarmedindustry.com
 0.0.0.0 undertone.com

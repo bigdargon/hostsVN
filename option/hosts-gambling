@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 15 Sep 2020 15:08 UTC+7
-# Version: 2009151508
-# Blocked: 2,590 domains
+# Last modified: 16 Sep 2020 11:34 UTC+7
+# Version: 2009161134
+# Blocked: 2,607 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -443,6 +443,23 @@
 0.0.0.0 qc.taimacau.club
 0.0.0.0 sv88.com
 0.0.0.0 www.sv88.com
+0.0.0.0 yo88vn.vip
+0.0.0.0 play.yo88vn.vip
+0.0.0.0 ad.yo88vn.vip
+0.0.0.0 zowinvn.vip
+0.0.0.0 lp.zowinvn.vip
+0.0.0.0 web.zowinvn.vip
+0.0.0.0 mibet88.win
+0.0.0.0 m.mibet88.win
+0.0.0.0 mig8vn.com
+0.0.0.0 m.mig8vn.com
+0.0.0.0 playv8.com
+0.0.0.0 vicwin.vip
+0.0.0.0 qc.vicwin.vip
+0.0.0.0 play.vicwin.vip
+0.0.0.0 x8vn.com
+0.0.0.0 qc.x8vn.com
+0.0.0.0 play.x8vn.com
 # --- Block other gameblingVN ---
 0.0.0.0 027copy.com
 0.0.0.0 www.027copy.com
