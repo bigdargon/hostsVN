@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Sep 2020 14:59 UTC+7
-! Version: 2009161459
-! Blocked: 5,357 rules
+! Last modified: 17 Sep 2020 10:06 UTC+7
+! Version: 2009171006
+! Blocked: 5,362 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -670,6 +670,7 @@
 ||adthor.com^
 ||adthrive.com^
 ||adtimes.nytimes.com^
+||adtlgc.com^
 ||adtng.com^
 ||adtrackers.net^
 ||adtrue.com^
@@ -825,6 +826,7 @@
 ||btrace.video.qq.com^
 ||bttrack.com^
 ||bugly.qq.com^
+||bumlam.com^
 ||c.bing.com^
 ||c.microsoft.com^
 ||cacafly.net^
@@ -1402,6 +1404,7 @@
 ||viglink.com^
 ||viruspro.pro^
 ||vivaclix.com^
+||vlitag.com^
 ||vntsm.com^
 ||voicefive.com^
 ||voodoo-ads.io^
@@ -3298,6 +3301,7 @@
 ||grandioseguide.com^
 ||grapeshot.co.uk^
 ||graxarosi.pro^
+||green.erne.co^
 ||greetzebra.com^
 ||greyinstrument.com^
 ||greystripe.com^
@@ -4091,6 +4095,7 @@
 ||pr-ten.de^
 ||pr5dir.com^
 ||praddpro.de^
+||praght.tech^
 ||prchecker.info^
 ||precisioncounter.com^
 ||predictad.com^

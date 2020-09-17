@@ -866,6 +866,7 @@
 0.0.0.0 tcy.smartadserver.com
 0.0.0.0 tmk.smartadserver.com
 0.0.0.0 www.smartadserver.com
+0.0.0.0 www3.smartadserver.com
 #[sascdn.com]
 0.0.0.0 ak-ns.sascdn.com
 0.0.0.0 ak.sascdn.com
@@ -14016,3 +14017,30 @@
 0.0.0.0 stm-collect.cn.miaozhen.com
 0.0.0.0 www.miaozhen.com
 0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
+#[vlitag.com]
+0.0.0.0 assets.vlitag.com
+0.0.0.0 js.vlitag.com
+0.0.0.0 logs.vlitag.com
+0.0.0.0 media.vlitag.com
+0.0.0.0 services.vlitag.com
+0.0.0.0 stats.vlitag.com
+0.0.0.0 tag.vlitag.com
+0.0.0.0 vlitag.com
+#[bumlam.com]
+0.0.0.0 bumlam.com
+0.0.0.0 c.bumlam.com
+0.0.0.0 dsp-us.bumlam.com
+0.0.0.0 f-rtg2.bumlam.com
+0.0.0.0 log.bumlam.com
+0.0.0.0 static.bumlam.com
+0.0.0.0 static-src.bumlam.com
+0.0.0.0 sync.bumlam.com
+0.0.0.0 u2.bumlam.com
+0.0.0.0 uid.bumlam.com
+0.0.0.0 us.log.bumlam.com
+#[adtlgc.com]
+0.0.0.0 adtlgc.com
+0.0.0.0 code.adtlgc.com
+0.0.0.0 code2.adtlgc.com
+0.0.0.0 code3.adtlgc.com
+0.0.0.0 www.adtlgc.com

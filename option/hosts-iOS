@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 Sep 2020 14:59 UTC+7
-# Version: 2009161459
-# Blocked: 18,692 domains
+# Last modified: 17 Sep 2020 10:06 UTC+7
+# Version: 2009171006
+# Blocked: 18,719 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -844,6 +844,7 @@
 0 tcy.smartadserver.com
 0 tmk.smartadserver.com
 0 www.smartadserver.com
+0 www3.smartadserver.com
 0 ak-ns.sascdn.com
 0 ak.sascdn.com
 0 ced-ns.sascdn.com
@@ -13278,6 +13279,30 @@
 0 stm-collect.cn.miaozhen.com
 0 www.miaozhen.com
 0 xiaomi-mipdx.cn.miaozhen.com
+0 assets.vlitag.com
+0 js.vlitag.com
+0 logs.vlitag.com
+0 media.vlitag.com
+0 services.vlitag.com
+0 stats.vlitag.com
+0 tag.vlitag.com
+0 vlitag.com
+0 bumlam.com
+0 c.bumlam.com
+0 dsp-us.bumlam.com
+0 f-rtg2.bumlam.com
+0 log.bumlam.com
+0 static.bumlam.com
+0 static-src.bumlam.com
+0 sync.bumlam.com
+0 u2.bumlam.com
+0 uid.bumlam.com
+0 us.log.bumlam.com
+0 adtlgc.com
+0 code.adtlgc.com
+0 code2.adtlgc.com
+0 code3.adtlgc.com
+0 www.adtlgc.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -16524,6 +16549,7 @@
 0 grandioseguide.com
 0 grapeshot.co.uk
 0 graxarosi.pro
+0 green.erne.co
 0 greetzebra.com
 0 greyinstrument.com
 0 greystripe.com
@@ -17314,6 +17340,7 @@
 0 pr-ten.de
 0 pr5dir.com
 0 praddpro.de
+0 praght.tech
 0 prchecker.info
 0 precisioncounter.com
 0 predictad.com
