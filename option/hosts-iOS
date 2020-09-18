@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 18 Sep 2020 11:48 UTC+7
-# Version: 2009181148
-# Blocked: 18,740 domains
+# Last modified: 18 Sep 2020 14:31 UTC+7
+# Version: 2009181431
+# Blocked: 18,741 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -18659,6 +18659,7 @@
 0 trackcmp.net
 0 tracker.vgame.us
 0 trackersimulator.org
+0 tracking.adsrv.io
 0 tracking.hubspot.com
 0 tracking.lenzmx.com
 0 traffic.spot.im
