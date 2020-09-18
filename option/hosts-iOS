@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Sep 2020 10:06 UTC+7
-# Version: 2009171006
-# Blocked: 18,719 domains
+# Last modified: 18 Sep 2020 11:48 UTC+7
+# Version: 2009181148
+# Blocked: 18,740 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13303,6 +13303,25 @@
 0 code2.adtlgc.com
 0 code3.adtlgc.com
 0 www.adtlgc.com
+0 ad-score.com
+0 api.ad-score.com
+0 cdn.ad-score.com
+0 cors-js-staging.ad-score.com
+0 data.ad-score.com
+0 data2.ad-score.com
+0 data-ae.ad-score.com
+0 data-sa.ad-score.com
+0 fw.ad-score.com
+0 js.ad-score.com
+0 js2.ad-score.com
+0 js-staging.ad-score.com
+0 rdr.ad-score.com
+0 rdrs.ad-score.com
+0 rt.ad-score.com
+0 ui.ad-score.com
+0 vast.ad-score.com
+0 vast-fw.ad-score.com
+0 www.ad-score.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14513,6 +14532,7 @@
 0 api.nas.nct.vn
 0 apia.headlines.pw
 0 apinas.nct.vn
+0 avoadsservices.com
 0 banhtv.org
 0 banner.5giay.vn
 0 banner.vietnamfinance.vn
@@ -14585,6 +14605,7 @@
 0 www.adt.com.vn
 0 www.advertisement-nhatanh.com
 0 www.alivar.vn
+0 www.avoadsservices.com
 0 www.banhtv.org
 0 www.chiasephim.xyz
 0 www.delecpuzz.com
