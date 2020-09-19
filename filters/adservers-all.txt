@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 18 Sep 2020 14:31 UTC+7
-! Version: 2009181431
-! Blocked: 5,365 rules
+! Last modified: 19 Sep 2020 19:37 UTC+7
+! Version: 2009191937
+! Blocked: 5,364 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4165,7 +4165,6 @@
 ||pushno.com^
 ||pushokey.com^
 ||pushqwer.com^
-||puu.sh^
 ||puzzlingfall.com^
 ||pvclouds.com^
 ||px.dynamicyield.com^
