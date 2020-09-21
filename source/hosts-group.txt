@@ -6485,28 +6485,6 @@
 0.0.0.0 trck.bebi.com
 0.0.0.0 v.bebi.com
 0.0.0.0 www.bebi.com
-#[marfeelcache.com]
-0.0.0.0 marfeelcache.com
-0.0.0.0 altb.marfeelcache.com
-0.0.0.0 altbc.marfeelcache.com
-0.0.0.0 b.marfeelcache.com
-0.0.0.0 bc.marfeelcache.com
-#[marfeelcdn.com]
-0.0.0.0 marfeelcdn.com
-0.0.0.0 alexandria.marfeelcdn.com
-0.0.0.0 b.marfeelcdn.com
-0.0.0.0 bc.marfeelcdn.com
-0.0.0.0 feo.marfeelcdn.com
-0.0.0.0 gutenbergtest.marfeelcdn.com
-0.0.0.0 ssl.marfeelcdn.com
-#[marfeelrev.com]
-0.0.0.0 marfeelrev.com
-0.0.0.0 ampproject.marfeelrev.com
-0.0.0.0 ampproject-b.marfeelrev.com
-0.0.0.0 mbid.marfeelrev.com
-0.0.0.0 pceu.marfeelrev.com
-0.0.0.0 pcus.marfeelrev.com
-0.0.0.0 pcusw.marfeelrev.com
 #[contextweb.com]
 0.0.0.0 ads.ams.contextweb.com
 0.0.0.0 ads.contextweb.com
@@ -14064,3 +14042,8 @@
 0.0.0.0 vast.ad-score.com
 0.0.0.0 vast-fw.ad-score.com
 0.0.0.0 www.ad-score.com
+#[marfeel.com]
+0.0.0.0 altb.marfeel.com
+0.0.0.0 bc.marfeel.com
+0.0.0.0 cosmos.marfeel.com
+0.0.0.0 marfeel.com

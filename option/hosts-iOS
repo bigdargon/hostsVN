@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 20 Sep 2020 13:06 UTC+7
-# Version: 2009201306
-# Blocked: 18,739 domains
+# Last modified: 21 Sep 2020 09:44 UTC+7
+# Version: 2009210944
+# Blocked: 18,721 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6194,25 +6194,6 @@
 0 trck.bebi.com
 0 v.bebi.com
 0 www.bebi.com
-0 marfeelcache.com
-0 altb.marfeelcache.com
-0 altbc.marfeelcache.com
-0 b.marfeelcache.com
-0 bc.marfeelcache.com
-0 marfeelcdn.com
-0 alexandria.marfeelcdn.com
-0 b.marfeelcdn.com
-0 bc.marfeelcdn.com
-0 feo.marfeelcdn.com
-0 gutenbergtest.marfeelcdn.com
-0 ssl.marfeelcdn.com
-0 marfeelrev.com
-0 ampproject.marfeelrev.com
-0 ampproject-b.marfeelrev.com
-0 mbid.marfeelrev.com
-0 pceu.marfeelrev.com
-0 pcus.marfeelrev.com
-0 pcusw.marfeelrev.com
 0 ads.ams.contextweb.com
 0 ads.contextweb.com
 0 ads.lga.contextweb.com
@@ -13322,6 +13303,10 @@
 0 vast.ad-score.com
 0 vast-fw.ad-score.com
 0 www.ad-score.com
+0 altb.marfeel.com
+0 bc.marfeel.com
+0 cosmos.marfeel.com
+0 marfeel.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -15658,7 +15643,6 @@
 0 allmyverygreatlife.com
 0 allosponsor.com
 0 allstarmediagroup.com
-0 altb.marfeel.com
 0 amazingcounters.com
 0 ambiguousquilt.com
 0 ambitiousagreement.com
@@ -15858,7 +15842,6 @@
 0 bbbadshostnet.com
 0 bbbpromos.org
 0 bbelements.com
-0 bc.marfeel.com
 0 bcfads.com
 0 bcmediagroup.com
 0 beabsolom.com
@@ -16168,7 +16151,6 @@
 0 copyrightaccesscontrols.com
 0 coremetrics.com
 0 coretalk.co
-0 cosmos.marfeel.com
 0 cougarads.com
 0 count.rin.ru
 0 count.west263.com
@@ -16905,7 +16887,6 @@
 0 mappealist.club
 0 marchex.com
 0 marchex.io
-0 marfeel.com
 0 markedcrayon.com
 0 markedpail.com
 0 market-buster.com
@@ -16927,6 +16908,7 @@
 0 maxgid.com
 0 maximumcash.com
 0 maxonclick.com
+0 mbid.marfeelrev.com
 0 mbn.com.ua
 0 mbs.megaroticlive.com
 0 mbuyu.nl

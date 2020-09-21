@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Sep 2020 13:06 UTC+7
-! Version: 2009201306
-! Blocked: 5,364 rules
+! Last modified: 21 Sep 2020 09:44 UTC+7
+! Version: 2009210944
+! Blocked: 5,359 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1094,9 +1094,7 @@
 ||mailchimp.com^
 ||mainadv.com^
 ||mantisadnetwork.com^
-||marfeelcache.com^
-||marfeelcdn.com^
-||marfeelrev.com^
+||marfeel.com^
 ||marinsm.com^
 ||marketo.com^
 ||marketolive.com^
@@ -2390,7 +2388,6 @@
 ||allmyverygreatlife.com^
 ||allosponsor.com^
 ||allstarmediagroup.com^
-||altb.marfeel.com^
 ||amazingcounters.com^
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
@@ -2590,7 +2587,6 @@
 ||bbbadshostnet.com^
 ||bbbpromos.org^
 ||bbelements.com^
-||bc.marfeel.com^
 ||bcfads.com^
 ||bcmediagroup.com^
 ||beabsolom.com^
@@ -2900,7 +2896,6 @@
 ||copyrightaccesscontrols.com^
 ||coremetrics.com^
 ||coretalk.co^
-||cosmos.marfeel.com^
 ||cougarads.com^
 ||count.rin.ru^
 ||count.west263.com^
@@ -3639,7 +3634,6 @@
 ||mappealist.club^
 ||marchex.com^
 ||marchex.io^
-||marfeel.com^
 ||markedcrayon.com^
 ||markedpail.com^
 ||market-buster.com^
@@ -3661,6 +3655,7 @@
 ||maxgid.com^
 ||maximumcash.com^
 ||maxonclick.com^
+||mbid.marfeelrev.com^
 ||mbn.com.ua^
 ||mbs.megaroticlive.com^
 ||mbuyu.nl^
