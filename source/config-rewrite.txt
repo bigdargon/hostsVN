@@ -34,7 +34,7 @@
 
 
 #google
-^https?:\/\/.+\.googlevideo\.com\/.+ctier
+#^https?:\/\/.+\.googlevideo\.com\/.+ctier
 ^https?:\/\/.+\.googlevideo\.com\/.+oad=
 ^https?:\/\/.+\.googlevideo\.com\/ptracking
 ^https?:\/\/.+\.googlevideo\.com\/videogoodput
