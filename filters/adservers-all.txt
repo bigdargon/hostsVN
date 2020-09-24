@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Sep 2020 13:58 UTC+7
-! Version: 2009241358
-! Blocked: 5,382 rules
+! Last modified: 24 Sep 2020 14:14 UTC+7
+! Version: 2009241414
+! Blocked: 5,390 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -859,6 +859,7 @@
 ||click.taobao.com^
 ||click.union.ucweb.com^
 ||clickagy.com^
+||clickaine.com^
 ||clickhubs.com^
 ||clicksor.com^
 ||clicktale.net^
@@ -1049,6 +1050,7 @@
 ||ioam.de^
 ||ip.taobao.com^
 ||iperceptions.com^
+||ippsrvng.xyz^
 ||islandmob.com^
 ||ivstracker.net^
 ||izooto.com^
@@ -3212,6 +3214,7 @@
 ||feed.engage.im^
 ||feedbackresearch.com^
 ||feedjit.com^
+||feverhappyjack.com^
 ||fiksu.com^
 ||fimc.net^
 ||fimserve.com^
@@ -3506,6 +3509,7 @@
 ||iqm.com^
 ||ireklama.cz^
 ||irncdn.com^
+||ismtampsshad.icu^
 ||itfarm.com^
 ||itnuzleafan.com^
 ||itop.cz^
@@ -4514,6 +4518,7 @@
 ||starffa.com^
 ||start.freeze.com^
 ||startapp.com^
+||startsmajesty.com^
 ||stat.cliche.se^
 ||stat.dealtime.com^
 ||stat.dyna.ultraweb.hu^
@@ -4565,6 +4570,7 @@
 ||stripedburst.com^
 ||strivesidewalk.com^
 ||structurerod.com^
+||stumbledabetsuburb.com^
 ||stupendoussleet.com^
 ||sub2tech.com^
 ||subscribe.hearstmags.com^
@@ -4810,6 +4816,7 @@
 ||unarmedindustry.com^
 ||undertone.com^
 ||unknowntray.com^
+||unmortalloose.com^
 ||unreshiramor.com^
 ||untd.com^
 ||unthem.com^
@@ -4931,6 +4938,7 @@
 ||wellmadefrog.com^
 ||werbung.meteoxpress.com^
 ||wetrack.it^
+||whaiweel.com^
 ||whaleads.com^
 ||whenu.com^
 ||whereapps.com^

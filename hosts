@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Sep 2020 13:58 UTC+7
-# Version: 2009241358
-# Blocked: 18,691 domains
+# Last modified: 24 Sep 2020 14:14 UTC+7
+# Version: 2009241414
+# Blocked: 18,708 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13993,6 +13993,18 @@
 0.0.0.0 applogy.com
 0.0.0.0 cn.applogy.com
 0.0.0.0 delivery.applogy.com
+#[ippsrvng.xyz]
+0.0.0.0 ippsrvng.xyz
+0.0.0.0 go.ippsrvng.xyz
+#[clickaine.com]
+0.0.0.0 api.clickaine.com
+0.0.0.0 api2.clickaine.com
+0.0.0.0 bcdn.clickaine.com
+0.0.0.0 cdn.clickaine.com
+0.0.0.0 clickaine.com
+0.0.0.0 promo.clickaine.com
+0.0.0.0 skim.clickaine.com
+0.0.0.0 vcdn.clickaine.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -17271,6 +17283,7 @@
 0.0.0.0 feed.engage.im
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
+0.0.0.0 feverhappyjack.com
 0.0.0.0 fiksu.com
 0.0.0.0 fimc.net
 0.0.0.0 fimserve.com
@@ -17565,6 +17578,7 @@
 0.0.0.0 iqm.com
 0.0.0.0 ireklama.cz
 0.0.0.0 irncdn.com
+0.0.0.0 ismtampsshad.icu
 0.0.0.0 itfarm.com
 0.0.0.0 itnuzleafan.com
 0.0.0.0 itop.cz
@@ -18570,6 +18584,7 @@
 0.0.0.0 starffa.com
 0.0.0.0 start.freeze.com
 0.0.0.0 startapp.com
+0.0.0.0 startsmajesty.com
 0.0.0.0 stat.cliche.se
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.dyna.ultraweb.hu
@@ -18621,6 +18636,7 @@
 0.0.0.0 stripedburst.com
 0.0.0.0 strivesidewalk.com
 0.0.0.0 structurerod.com
+0.0.0.0 stumbledabetsuburb.com
 0.0.0.0 stupendoussleet.com
 0.0.0.0 sub2tech.com
 0.0.0.0 subscribe.hearstmags.com
@@ -18866,6 +18882,7 @@
 0.0.0.0 unarmedindustry.com
 0.0.0.0 undertone.com
 0.0.0.0 unknowntray.com
+0.0.0.0 unmortalloose.com
 0.0.0.0 unreshiramor.com
 0.0.0.0 untd.com
 0.0.0.0 unthem.com
@@ -18987,6 +19004,7 @@
 0.0.0.0 wellmadefrog.com
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wetrack.it
+0.0.0.0 whaiweel.com
 0.0.0.0 whaleads.com
 0.0.0.0 whenu.com
 0.0.0.0 whereapps.com
@@ -19099,6 +19117,7 @@
 0.0.0.0 www.trafyield.com
 0.0.0.0 www.tribedone.org
 0.0.0.0 www.trustaffs.com
+0.0.0.0 www.unmortalloose.com
 0.0.0.0 www.velocitycdn.com
 0.0.0.0 www.vidcpm.com
 0.0.0.0 www.webtrendslive.com
