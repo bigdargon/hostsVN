@@ -13962,3 +13962,11 @@
 0.0.0.0 redir.jads.co
 0.0.0.0 www.jads.co
 0.0.0.0 xapi.jads.co
+#[auxml.com]
+0.0.0.0 auxml.com
+0.0.0.0 cdn.auxml.com
+0.0.0.0 xml.auxml.com
+#[nice-prod.pro]
+0.0.0.0 nice-prod.pro
+0.0.0.0 tracker.nice-prod.pro
+0.0.0.0 www.nice-prod.pro

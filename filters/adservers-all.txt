@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Sep 2020 10:27 UTC+7
-! Version: 2009241027
-! Blocked: 5,371 rules
+! Last modified: 24 Sep 2020 13:41 UTC+7
+! Version: 2009241341
+! Blocked: 5,374 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -520,6 +520,7 @@
 ||quangcaotructuyen247.com^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
+||smilitygorb.club^
 ||152media.com^
 ||1rx.io^
 ||1ts06.top^
@@ -769,6 +770,7 @@
 ||atdmt.com^
 ||atemda.com^
 ||automatad.com^
+||auxml.com^
 ||avazutracking.net^
 ||awaps.net^
 ||awaps.yandex.net^
@@ -1161,6 +1163,7 @@
 ||nexage.com^
 ||nextsmarty.com^
 ||ngads.go.com^
+||nice-prod.pro^
 ||nixozz.com^
 ||nobid.com^
 ||npeakuy.com^

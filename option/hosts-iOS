@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Sep 2020 10:27 UTC+7
-# Version: 2009241027
-# Blocked: 18,667 domains
+# Last modified: 24 Sep 2020 13:41 UTC+7
+# Version: 2009241341
+# Blocked: 18,674 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13221,6 +13221,12 @@
 0 redir.jads.co
 0 www.jads.co
 0 xapi.jads.co
+0 auxml.com
+0 cdn.auxml.com
+0 xml.auxml.com
+0 nice-prod.pro
+0 tracker.nice-prod.pro
+0 www.nice-prod.pro
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14636,6 +14642,7 @@
 0 quangcaotructuyen247.com
 0 rituationscardb.info
 0 sacchaeleduk.com
+0 smilitygorb.club
 0 www.fuckbookvietnam.com
 0 www.quangcaotructuyen247.com
 0 1-1ads.com
