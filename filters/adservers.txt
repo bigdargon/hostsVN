@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Sep 2020 15:38 UTC+7
-! Version: 2009231538
-! Blocked: 513 rules
+! Last modified: 24 Sep 2020 10:27 UTC+7
+! Version: 2009241027
+! Blocked: 514 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -468,6 +468,7 @@
 ||r88.vn^
 ||red88.com^
 ||ric.win^
+||rio66qc.club^
 ||sbc31.com^
 ||sieubomtan.com^
 ||sun.win^
