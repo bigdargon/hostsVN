@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Sep 2020 14:14 UTC+7
-! Version: 2009241414
-! Blocked: 5,390 rules
+! Last modified: 25 Sep 2020 09:08 UTC+7
+! Version: 2009250908
+! Blocked: 5,389 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -365,7 +365,6 @@
 ||tracker.tintucvietnam.vn^
 ||tracking.appwifi.com^
 ||tracking.dantri.com.vn^
-||tracking.meete.co^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||tracking.vtcnew.com.vn^

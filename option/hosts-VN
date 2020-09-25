@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Sep 2020 14:14 UTC+7
-# Version: 2009241414
-# Blocked: 1,418 domains
+# Last modified: 25 Sep 2020 09:08 UTC+7
+# Version: 2009250908
+# Blocked: 1,417 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1506,7 +1506,6 @@
 0.0.0.0 tracker.tintucvietnam.vn
 0.0.0.0 tracking.appwifi.com
 0.0.0.0 tracking.dantri.com.vn
-0.0.0.0 tracking.meete.co
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietbao.vn
 0.0.0.0 tracking.vtcnew.com.vn
