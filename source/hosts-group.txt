@@ -8375,17 +8375,10 @@
 0.0.0.0 sa.unionstatistics.com
 0.0.0.0 tag.unionstatistics.com
 0.0.0.0 unionstatistics.com
-#[adoptimize]
+#[adoptimize.info]
 0.0.0.0 adoptimize.info
+0.0.0.0 adfraud.adoptimize.info
 0.0.0.0 www.adoptimize.info
-0.0.0.0 autodiscover.adoptimize.com
-0.0.0.0 businessforsaleexchange.adoptimize.com
-0.0.0.0 cpanel.adoptimize.com
-0.0.0.0 rbiz.adoptimize.com
-0.0.0.0 restaurantforsale.adoptimize.com
-0.0.0.0 rmarketer.adoptimize.com
-0.0.0.0 spunjbox.adoptimize.com
-0.0.0.0 www.adoptimize.com
 #[qwapi.com]
 0.0.0.0 ad.qwapi.com
 0.0.0.0 adsdk.qwapi.com
