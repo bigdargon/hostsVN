@@ -12308,16 +12308,13 @@
 #[trackpush.com]
 0.0.0.0 api.trackpush.com
 0.0.0.0 client.trackpush.com
-0.0.0.0 feedicon.trackpush.com
 0.0.0.0 growpush.trackpush.com
+0.0.0.0 inpage-feed.trackpush.com
+0.0.0.0 native-feed.trackpush.com
 0.0.0.0 notification.trackpush.com
 0.0.0.0 prod305.trackpush.com
 0.0.0.0 trackpush.com
-#[pushtimize.com]
-0.0.0.0 adv.pushtimize.com
-0.0.0.0 cdn01.pushtimize.com
-0.0.0.0 feed.pushtimize.com
-0.0.0.0 pushtimize.com
+0.0.0.0 user.trackpush.com
 #[mobytrks.com]
 0.0.0.0 mobytrks.com
 0.0.0.0 go.mobytrks.com
