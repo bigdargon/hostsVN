@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 Sep 2020 09:08 UTC+7
-# Version: 2009250908
-# Blocked: 18,707 domains
+# Last modified: 02 Oct 2020 15:50 UTC+7
+# Version: 2010021550
+# Blocked: 18,718 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8387,17 +8387,10 @@
 0.0.0.0 sa.unionstatistics.com
 0.0.0.0 tag.unionstatistics.com
 0.0.0.0 unionstatistics.com
-#[adoptimize]
+#[adoptimize.info]
 0.0.0.0 adoptimize.info
+0.0.0.0 adfraud.adoptimize.info
 0.0.0.0 www.adoptimize.info
-0.0.0.0 autodiscover.adoptimize.com
-0.0.0.0 businessforsaleexchange.adoptimize.com
-0.0.0.0 cpanel.adoptimize.com
-0.0.0.0 rbiz.adoptimize.com
-0.0.0.0 restaurantforsale.adoptimize.com
-0.0.0.0 rmarketer.adoptimize.com
-0.0.0.0 spunjbox.adoptimize.com
-0.0.0.0 www.adoptimize.com
 #[qwapi.com]
 0.0.0.0 ad.qwapi.com
 0.0.0.0 adsdk.qwapi.com
@@ -12327,16 +12320,13 @@
 #[trackpush.com]
 0.0.0.0 api.trackpush.com
 0.0.0.0 client.trackpush.com
-0.0.0.0 feedicon.trackpush.com
 0.0.0.0 growpush.trackpush.com
+0.0.0.0 inpage-feed.trackpush.com
+0.0.0.0 native-feed.trackpush.com
 0.0.0.0 notification.trackpush.com
 0.0.0.0 prod305.trackpush.com
 0.0.0.0 trackpush.com
-#[pushtimize.com]
-0.0.0.0 adv.pushtimize.com
-0.0.0.0 cdn01.pushtimize.com
-0.0.0.0 feed.pushtimize.com
-0.0.0.0 pushtimize.com
+0.0.0.0 user.trackpush.com
 #[mobytrks.com]
 0.0.0.0 mobytrks.com
 0.0.0.0 go.mobytrks.com
@@ -14497,6 +14487,20 @@
 0.0.0.0 log.news.zing.vn
 0.0.0.0 logv2.mp3.zing.vn
 0.0.0.0 tracking.playzing.g6.zing.vn
+#[brand.zing.vn]
+0.0.0.0 adtima.brand.zing.vn
+0.0.0.0 adtimabox.brand.zing.vn
+0.0.0.0 app.brand.zing.vn
+0.0.0.0 banner.brand.zing.vn
+0.0.0.0 brand.zing.vn
+0.0.0.0 campaign.brand.zing.vn
+0.0.0.0 interactive.brand.zing.vn
+0.0.0.0 media.brand.zing.vn
+0.0.0.0 notify.brand.zing.vn
+0.0.0.0 staging-ads-dashboard.brand.zing.vn
+0.0.0.0 stc.interactive.brand.zing.vn
+0.0.0.0 streaming.interactive.brand.zing.vn
+0.0.0.0 zevent.brand.zing.vn
 #[zalo.me]
 0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.zalo.me
@@ -15271,6 +15275,11 @@
 0.0.0.0 widget-1.oncustomer.asia
 0.0.0.0 widget-2.oncustomer.asia
 0.0.0.0 widget-beta.oncustomer.asia
+#[pushtimize.com]
+0.0.0.0 adv.pushtimize.com
+0.0.0.0 cdn01.pushtimize.com
+0.0.0.0 feed.pushtimize.com
+0.0.0.0 pushtimize.com
 # --- Block adsVN ---
 0.0.0.0 703531862.vws.vegacdn.vn
 0.0.0.0 ad-admin.vnay.vn
@@ -15313,6 +15322,7 @@
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 adserver.lag.vn
 0.0.0.0 adserver.luzu.vn
+0.0.0.0 adsgo.nhipcaudautu.vn
 0.0.0.0 adsplus.vn
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adsweb.vn
@@ -15368,6 +15378,7 @@
 0.0.0.0 landingpagelagi.vn
 0.0.0.0 lottery.headlines.pw
 0.0.0.0 lottery.vntoday.news
+0.0.0.0 marketing.hub-js.com
 0.0.0.0 mega1.yeah1.com
 0.0.0.0 microad.vn
 0.0.0.0 mobileads.dieuviet.com
@@ -15427,6 +15438,7 @@
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.explus.vn
+0.0.0.0 analytics.hub-js.com
 0.0.0.0 analytics.sohatv.vn
 0.0.0.0 analytics.thethao247.org
 0.0.0.0 analytics.tiki.vn

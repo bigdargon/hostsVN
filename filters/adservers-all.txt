@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 25 Sep 2020 09:08 UTC+7
-! Version: 2009250908
-! Blocked: 5,389 rules
+! Last modified: 02 Oct 2020 15:50 UTC+7
+! Version: 2010021550
+! Blocked: 5,392 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -45,6 +45,7 @@
 ||banners-gallery.coccoc.com^
 ||bidgear-syndication.com^
 ||bidgear.com^
+||brand.zing.vn^
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
 ||centralized.zaloapp.com^
@@ -111,6 +112,7 @@
 ||pushdi.com^
 ||pushdy.com^
 ||pushdy.vn^
+||pushtimize.com^
 ||px.za.zalo.me^
 ||px.za.zaloapp.com^
 ||qc-static.coccoc.com^
@@ -192,6 +194,7 @@
 ||ads1.careerbuilder.vn^
 ||adserver.lag.vn^
 ||adserver.luzu.vn^
+||adsgo.nhipcaudautu.vn^
 ||adsplus.vn^
 ||adsv2.autodaily.vn^
 ||adsweb.vn^
@@ -247,6 +250,7 @@
 ||landingpagelagi.vn^
 ||lottery.headlines.pw^
 ||lottery.vntoday.news^
+||marketing.hub-js.com^
 ||mega1.yeah1.com^
 ||microad.vn^
 ||mobileads.dieuviet.com^
@@ -291,6 +295,7 @@
 ||analytics.bkav.com^
 ||analytics.easyvideo.vn^
 ||analytics.explus.vn^
+||analytics.hub-js.com^
 ||analytics.sohatv.vn^
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
@@ -602,7 +607,6 @@
 ||adnxs.com^
 ||adomik.com^
 ||adop.cc^
-||adoptimize.com^
 ||adoptimize.info^
 ||adplugg.com^
 ||adpone.com^
@@ -1245,7 +1249,6 @@
 ||purpleads.io^
 ||pushpush.io^
 ||pushspring.com^
-||pushtimize.com^
 ||pushwoosh.com^
 ||pvmax.net^
 ||px-intl.ucweb.com^
