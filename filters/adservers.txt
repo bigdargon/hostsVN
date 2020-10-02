@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Oct 2020 15:50 UTC+7
-! Version: 2010021550
+! Last modified: 02 Oct 2020 22:56 UTC+7
+! Version: 2010022256
 ! Blocked: 519 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -351,6 +351,7 @@
 ||sharefb.cnnd.vn^
 ||stat.headlines.pw^
 ||staticad.thethao247.vn^
+||statistics.vov.vn^
 ||stats.123c.vn^
 ||stats.bizweb.vn^
 ||stats.dongphim.net^
@@ -519,9 +520,8 @@
 ||zo.game^
 ||zowinvn.vip^
 ||celerantatters.com^
-||fuckbookvietnam.com^
 ||hashearog.com^
-||quangcaotructuyen247.com^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
 ||smilitygorb.club^
+||ucesreferre.club^

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Oct 2020 15:50 UTC+7
-! Version: 2010021550
-! Blocked: 5,392 rules
+! Last modified: 02 Oct 2020 22:56 UTC+7
+! Version: 2010022256
+! Blocked: 5,408 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -351,6 +351,7 @@
 ||sharefb.cnnd.vn^
 ||stat.headlines.pw^
 ||staticad.thethao247.vn^
+||statistics.vov.vn^
 ||stats.123c.vn^
 ||stats.bizweb.vn^
 ||stats.dongphim.net^
@@ -519,12 +520,11 @@
 ||zo.game^
 ||zowinvn.vip^
 ||celerantatters.com^
-||fuckbookvietnam.com^
 ||hashearog.com^
-||quangcaotructuyen247.com^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
 ||smilitygorb.club^
+||ucesreferre.club^
 ||152media.com^
 ||1rx.io^
 ||1ts06.top^
@@ -588,7 +588,6 @@
 ||adhigh.net^
 ||adimages.go.com^
 ||adinfuse.com^
-||aditms.me^
 ||adjust.com^
 ||adk2x.com^
 ||adkernel.com^
@@ -706,7 +705,6 @@
 ||adzerk.net^
 ||aerserv.com^
 ||affcpatrack.com^
-||affise.com^
 ||agentanalytics.com^
 ||agkn.com^
 ||aj1*.online^
@@ -993,8 +991,6 @@
 ||glispa.com^
 ||glotgrx.com^
 ||go-mpulse.net^
-||go2affise.com^
-||go2afse.com^
 ||google-analytics.com^
 ||googleadservices.com^
 ||googleoptimize.com^
@@ -3029,6 +3025,7 @@
 ||dimfarlow.com^
 ||direct-xxx-access.com^
 ||directaclick.com^
+||directadvert.ru^
 ||directionforest.com^
 ||directivepub.com^
 ||directleads.com^
@@ -3270,6 +3267,7 @@
 ||fwmrm.net^
 ||fxclix.com^
 ||fxstyle.net^
+||g2afse.com^
 ||ga.clearbit.com^
 ||ga87z2o.com^
 ||galaksion.com^
@@ -3300,6 +3298,7 @@
 ||go.mobisla.com^
 ||go.onclasrv.com^
 ||go.padstm.com^
+||go2affise.com^
 ||goadservices.com^
 ||goingplatinum.com^
 ||goldbach.com^
@@ -3423,6 +3422,7 @@
 ||icptrack.com^
 ||idcounter.com^
 ||iddiction.com^
+||idealmedia.io^
 ||ideliv.net^
 ||idelv.net^
 ||identads.com^
@@ -4005,6 +4005,7 @@
 ||pagerank4you.com^
 ||pageranktop.com^
 ||pagiwp.com^
+||paishuno.net^
 ||paleleaf.com^
 ||pansidlike.net^
 ||papayamobile.com^
@@ -4056,6 +4057,7 @@
 ||phluant.com^
 ||phobygipi.pro^
 ||phoenix-adrunner.mycomputer.com^
+||phoenix-widget.com^
 ||phonearena.com^
 ||phoossax.net^
 ||photo-ads.co.uk^
@@ -4132,6 +4134,7 @@
 ||prfwpclck.com^
 ||primaryads.com^
 ||primetime.net^
+||prismgadnarc.icu^
 ||privacyassistant.net^
 ||privatecash.com^
 ||privy.com^
@@ -4338,6 +4341,7 @@
 ||rundsp.com^
 ||rusenov.com^
 ||ruthlessrobin.com^
+||s.click.aliexpress.com^
 ||s2d6.com^
 ||sageanalyst.net^
 ||sailif.com^
@@ -4560,6 +4564,7 @@
 ||steadfastsound.com^
 ||steadfastsystem.com^
 ||steelhouse.com^
+||stg.truvidplayer.com^
 ||stickssheep.com^
 ||storesurprise.com^
 ||stormyachiever.com^
@@ -4788,6 +4793,7 @@
 ||trustaffs.com^
 ||trustednotice.news^
 ||trustx.org^
+||tubecup.net^
 ||tubedspots.com^
 ||tubemogul.com^
 ||tulecheja.pro^
@@ -4816,6 +4822,7 @@
 ||ulukaris.com^
 ||unanimis.co.uk^
 ||unarmedindustry.com^
+||underdog.media^
 ||undertone.com^
 ||unknowntray.com^
 ||unmortalloose.com^
@@ -5054,6 +5061,7 @@
 ||a.klaviyo.com^
 ||a.quora.com^
 ||a3cloud.net^
+||acint.net^
 ||adentify.com^
 ||adj.st^
 ||adtrack.king.com^
@@ -5090,6 +5098,7 @@
 ||analytics.samdd.me^
 ||analytics.siliconexpert.com^
 ||analytics.swiggy.com^
+||analytics.tiktok.com^
 ||analytics.ziftsolutions.com^
 ||analyticsapi.bsbportal.com^
 ||anhui-attorney.com^
@@ -5202,6 +5211,7 @@
 ||infoaz.nl^
 ||inside-graph.com^
 ||intent.cbsi.com^
+||invitejs.trustpilot.com^
 ||js.hscollectedforms.net^
 ||js.hsleadflows.net^
 ||js.idio.co^
@@ -5209,6 +5219,7 @@
 ||k6r.net^
 ||kameleoon.eu^
 ||kidsghibli.com^
+||kitbit.net^
 ||kkvmaj.com^
 ||leadzutw.com^
 ||lem-computers.net^
@@ -5258,6 +5269,7 @@
 ||pixel.s3xified.com^
 ||pixel.wp.com^
 ||pixel.yabidos.com^
+||pixels.truvidplayer.com^
 ||pjhku.com^
 ||pl.ventunotech.com^
 ||placehold.it^
@@ -5296,6 +5308,7 @@
 ||saspreview.com^
 ||sc-static.net^
 ||sclick.baidu.com^
+||semantiqo.com^
 ||showbiz.owndata.network^
 ||si.dailymail.co.uk^
 ||simplesharebuttons.com^
@@ -5351,6 +5364,8 @@
 ||ultimedia.com^
 ||um.videmob.com^
 ||unicaitaly.it^
+||upapi.net^
+||uptolike.com^
 ||usabilla.com^
 ||usergrid.com^
 ||users.quantumgraph.com^
@@ -5367,6 +5382,7 @@
 ||web.ventunotech.com^
 ||weborama.net^
 ||weigezhiyao.com^
+||widget.trustpilot.com^
 ||wieistmeineip.de^
 ||wt.soundestlink.com^
 ||ymtracking.com^

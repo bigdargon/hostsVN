@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Oct 2020 15:50 UTC+7
-# Version: 2010021550
-# Blocked: 1,437 domains
+# Last modified: 02 Oct 2020 22:56 UTC+7
+# Version: 2010022256
+# Blocked: 1,435 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1509,6 +1509,7 @@
 0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 stat.headlines.pw
 0.0.0.0 staticad.thethao247.vn
+0.0.0.0 statistics.vov.vn
 0.0.0.0 stats.123c.vn
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 stats.dongphim.net
@@ -1543,11 +1544,8 @@
 0.0.0.0 widget.subiz.xyz
 # --- Block scamVN ---
 0.0.0.0 celerantatters.com
-0.0.0.0 fuckbookvietnam.com
 0.0.0.0 hashearog.com
-0.0.0.0 quangcaotructuyen247.com
 0.0.0.0 rituationscardb.info
 0.0.0.0 sacchaeleduk.com
 0.0.0.0 smilitygorb.club
-0.0.0.0 www.fuckbookvietnam.com
-0.0.0.0 www.quangcaotructuyen247.com
+0.0.0.0 ucesreferre.club
