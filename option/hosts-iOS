@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Oct 2020 22:56 UTC+7
-# Version: 2010022256
-# Blocked: 18,728 domains
+# Last modified: 04 Oct 2020 21:49 UTC+7
+# Version: 2010042149
+# Blocked: 18,737 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13229,6 +13229,14 @@
 0 promo.clickaine.com
 0 skim.clickaine.com
 0 vcdn.clickaine.com
+0 sdk.iad-01.braze.com
+0 sdk.iad-02.braze.com
+0 sdk.iad-03.braze.com
+0 sdk.iad-06.braze.com
+0 sdk.iad-08.braze.com
+0 ua.zenadservices.net
+0 www.zenadservices.net
+0 zenadservices.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13715,6 +13723,7 @@
 0 sp.zalo.me
 0 ads.zaloapp.com
 0 centralized.zaloapp.com
+0 discovery.api.zaloapp.com
 0 log.api.zaloapp.com
 0 log.o2o.service.zaloapp.com
 0 photo-ads.zaloapp.com

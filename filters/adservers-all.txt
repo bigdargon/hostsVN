@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Oct 2020 22:56 UTC+7
-! Version: 2010022256
-! Blocked: 5,408 rules
+! Last modified: 04 Oct 2020 21:49 UTC+7
+! Version: 2010042149
+! Blocked: 5,411 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -59,6 +59,7 @@
 ||contineljs.com^
 ||d2ox6x0y9xhicd.cloudfront.net^
 ||dable.io^
+||discovery.api.zaloapp.com^
 ||donglogs.com^
 ||eclick.vn^
 ||eva*-ad.24hstatic.com^
@@ -1292,6 +1293,7 @@
 ||sascdn.com^
 ||scanscout.com^
 ||scorecardresearch.com^
+||sdk.iad-*.braze.com^
 ||sdkclickurl.com^
 ||segment.com^
 ||segment.io^
@@ -1449,6 +1451,7 @@
 ||youborafds01.com^
 ||your-notice.com^
 ||zcoup.com^
+||zenadservices.net^
 ||zergnet.com^
 ||zetadeo.com^
 ||zucks.net^

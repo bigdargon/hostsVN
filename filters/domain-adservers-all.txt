@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 02 Oct 2020 22:56 UTC+7
-! Version: 2010022256
-! Blocked: 5,408 domains
+! Last modified: 04 Oct 2020 21:49 UTC+7
+! Version: 2010042149
+! Blocked: 5,411 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h*-ad.24hstatic.com
@@ -57,6 +57,7 @@ cokhach.com
 contineljs.com
 d2ox6x0y9xhicd.cloudfront.net
 dable.io
+discovery.api.zaloapp.com
 donglogs.com
 eclick.vn
 eva*-ad.24hstatic.com
@@ -1290,6 +1291,7 @@ samba.tv
 sascdn.com
 scanscout.com
 scorecardresearch.com
+sdk.iad-*.braze.com
 sdkclickurl.com
 segment.com
 segment.io
@@ -1447,6 +1449,7 @@ youbora.com
 youborafds01.com
 your-notice.com
 zcoup.com
+zenadservices.net
 zergnet.com
 zetadeo.com
 zucks.net
