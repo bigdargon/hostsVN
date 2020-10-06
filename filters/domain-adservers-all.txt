@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 04 Oct 2020 21:49 UTC+7
-! Version: 2010042149
-! Blocked: 5,411 domains
+! Last modified: 06 Oct 2020 13:50 UTC+7
+! Version: 2010061350
+! Blocked: 5,412 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h*-ad.24hstatic.com
@@ -319,6 +319,7 @@ log.baophapluat.vn
 log.batdongsan.com.vn
 log.daidoanket.vn
 log.dantocmiennui.vn
+log.doanhnhan.vn
 log.giaoduc.net.vn
 log.infonet.vn
 log.kienthuc.net.vn
