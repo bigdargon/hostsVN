@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Oct 2020 15:33 UTC+7
-# Version: 2010061533
-# Blocked: 18,739 domains
+# Last modified: 06 Oct 2020 15:39 UTC+7
+# Version: 2010061539
+# Blocked: 18,740 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -15110,6 +15110,7 @@
 0.0.0.0 media3.adrealclick.com
 0.0.0.0 media5.adrealclick.com
 0.0.0.0 s.adrealclick.com
+0.0.0.0 stats.adrealclick.com
 0.0.0.0 www.adrealclick.com
 #[cdnstoremedia.com]
 0.0.0.0 cdnstoremedia.com
