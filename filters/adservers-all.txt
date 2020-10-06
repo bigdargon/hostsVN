@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Oct 2020 13:50 UTC+7
-! Version: 2010061350
-! Blocked: 5,412 rules
+! Last modified: 06 Oct 2020 15:33 UTC+7
+! Version: 2010061533
+! Blocked: 5,413 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -220,6 +220,7 @@
 ||api.nas.nct.vn^
 ||apia.headlines.pw^
 ||apinas.nct.vn^
+||as.gamevui.com^
 ||avoadsservices.com^
 ||banhtv.org^
 ||banner.5giay.vn^
