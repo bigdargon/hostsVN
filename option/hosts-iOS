@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Oct 2020 15:39 UTC+7
-# Version: 2010061539
-# Blocked: 18,740 domains
+# Last modified: 13 Oct 2020 16:13 UTC+7
+# Version: 2010131613
+# Blocked: 18,744 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14423,6 +14423,8 @@
 0 cdn01.pushtimize.com
 0 feed.pushtimize.com
 0 pushtimize.com
+0 anymind360.com
+0 stg.anymind360.com
 0 703531862.vws.vegacdn.vn
 0 ad-admin.vnay.vn
 0 ad.24h.com.vn
@@ -14615,6 +14617,7 @@
 0 log.tapchitaichinh.vn
 0 log.thanhnien.vn
 0 log.tienphong.vn
+0 log.tinnhanhchungkhoan.vn
 0 log.vietnamdaily.net.vn
 0 log.vietnamfinance.vn
 0 log.vietnamplus.vn
@@ -14628,6 +14631,7 @@
 0 logs.thethaovanhoa.vn
 0 logs1.reatimes.vn
 0 logsbin.dantri.com.vn
+0 logscafef.channelvn.net
 0 nstat.headlines.pw
 0 report.vnay.vn
 0 s.baomoi.xdn.vn

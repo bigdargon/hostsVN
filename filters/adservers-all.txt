@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Oct 2020 15:39 UTC+7
-! Version: 2010061539
-! Blocked: 5,413 rules
+! Last modified: 13 Oct 2020 16:13 UTC+7
+! Version: 2010131613
+! Blocked: 5,416 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -40,6 +40,7 @@
 ||amcdn.vn^
 ||anthill.vn^
 ||ants.vn^
+||anymind360.com^
 ||atdnetwork.com^
 ||autoads.asia^
 ||banners-gallery.coccoc.com^
@@ -332,6 +333,7 @@
 ||log.tapchitaichinh.vn^
 ||log.thanhnien.vn^
 ||log.tienphong.vn^
+||log.tinnhanhchungkhoan.vn^
 ||log.vietnamdaily.net.vn^
 ||log.vietnamfinance.vn^
 ||log.vietnamplus.vn^
@@ -345,6 +347,7 @@
 ||logs.thethaovanhoa.vn^
 ||logs1.reatimes.vn^
 ||logsbin.dantri.com.vn^
+||logscafef.channelvn.net^
 ||nstat.headlines.pw^
 ||report.vnay.vn^
 ||s.baomoi.xdn.vn^

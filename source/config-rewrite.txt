@@ -36,9 +36,9 @@
 #google
 #^https?:\/\/.+\.googlevideo\.com\/.+ctier
 ^https?:\/\/.+\.googlevideo\.com\/.+oad=
+^https?:\/\/.+\.googlevideo\.com\/.+owc=
 ^https?:\/\/.+\.googlevideo\.com\/ptracking
 ^https?:\/\/.+\.googlevideo\.com\/videogoodput
-^https?:\/\/r[0-9].+\.googlevideo\.com\/.+owc=
 
 ^https?:\/\/.+\.youtube\.com\/.+adformat
 ^https?:\/\/.+\.youtube\.com\/.+get_ads
@@ -54,6 +54,7 @@
 ^https?:\/\/.+\.youtube\.com\/ptracking
 
 ^https?:\/\/.+\.googleapis.com/.+ad_break
+^https?:\/\/.+\.googleapis.com/.+log_event
 ^https?:\/\/.+\.googleapis.com/adsmeasurement
 
 
