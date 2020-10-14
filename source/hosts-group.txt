@@ -1745,6 +1745,7 @@
 0.0.0.0 data.flurry.com
 0.0.0.0 gw.flurry.com
 0.0.0.0 proton.flurry.com
+0.0.0.0 www.flurry.com
 #[appnext]
 0.0.0.0 admin.appnext.com
 0.0.0.0 ads.appnext.com
@@ -13995,3 +13996,13 @@
 0.0.0.0 static-was1.dynamicyield.com
 0.0.0.0 static-was2.dynamicyield.com
 0.0.0.0 static.dynamicyield.com
+0.0.0.0 www.dynamicyield.com
+#[airpush.com]
+0.0.0.0 ads.airpush.com
+0.0.0.0 airpush.com
+0.0.0.0 api.airpush.com
+0.0.0.0 applog.airpush.com
+0.0.0.0 apportal.airpush.com
+0.0.0.0 cdnap.airpush.com
+0.0.0.0 gdpr.airpush.com
+0.0.0.0 tapcore.airpush.com
