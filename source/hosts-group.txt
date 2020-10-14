@@ -1966,31 +1966,19 @@
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 sg-mtrack.rayjump.com
 0.0.0.0 tknet.rayjump.com
-#[mopub]
-0.0.0.0 admin.adserver.mopub.com
-0.0.0.0 admin.mpx.mopub.com
+#[mopub.com]
+0.0.0.0 a.r10.mopub.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 analytics.mopub.com
-0.0.0.0 app.mopub.com
-0.0.0.0 cpp.imp.mpx.mopub.com
-0.0.0.0 developers.mopub.com
-0.0.0.0 media.mopub.com
-0.0.0.0 momonitor.mopub.com
-0.0.0.0 mopub.com
+0.0.0.0 b.r10.mopub.com
+0.0.0.0 c.r10.mopub.com
+0.0.0.0 cb.mopub.com
+0.0.0.0 d.r10.mopub.com
 0.0.0.0 mpx.mopub.com
-0.0.0.0 post.update.mopub.com
-0.0.0.0 public.billing.master.postgres.mopub.com
 0.0.0.0 s.mopub.com
-0.0.0.0 s.update.mopub.com
 0.0.0.0 s2.mopub.com
 0.0.0.0 static2.mopub.com
-0.0.0.0 v3.ads.mopub.com
-0.0.0.0 voxel.read.admin.mpx.mopub.com
-0.0.0.0 voxel.read.mongostats.mopub.com
-0.0.0.0 voxel.write.admin.mpx.mopub.com
-0.0.0.0 voxel.write.mongostats.mopub.com
 0.0.0.0 www.mopub.com
-0.0.0.0 www3.mopub.com
 #[admarketplace]
 0.0.0.0 ad.admarketplace.net
 0.0.0.0 admarketplace.net
