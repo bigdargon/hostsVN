@@ -14026,3 +14026,25 @@
 0.0.0.0 vektor-eu-west-1.axonix.com
 0.0.0.0 vektor-us-east-1.axonix.com
 0.0.0.0 www.axonix.com
+#[leadbolt.net]
+0.0.0.0 ad.leadbolt.net
+0.0.0.0 api.leadbolt.net
+0.0.0.0 leadbolt.net
+0.0.0.0 m.leadbolt.net
+0.0.0.0 sdk.leadbolt.net
+0.0.0.0 static.leadbolt.net
+0.0.0.0 www.leadbolt.net
+#[leadboltads.net]
+0.0.0.0 ad.leadboltads.net
+0.0.0.0 ads.leadboltads.net
+0.0.0.0 leadboltads.net
+0.0.0.0 ww1.leadboltads.net
+0.0.0.0 www.leadboltads.net
+#[leadboltapps.net]
+0.0.0.0 ad.leadboltapps.net
+0.0.0.0 leadboltapps.net
+0.0.0.0 www.leadboltapps.net
+#[leadboltmobile.net]
+0.0.0.0 ad.leadboltmobile.net
+0.0.0.0 leadboltmobile.net
+0.0.0.0 www.leadboltmobile.net
