@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Oct 2020 16:13 UTC+7
-! Version: 2010131613
-! Blocked: 5,416 rules
+! Last modified: 15 Oct 2020 10:05 UTC+7
+! Version: 2010151005
+! Blocked: 5,430 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -705,6 +705,7 @@
 ||adx1.com^
 ||adxadserv.com^
 ||adxcorp.kr^
+||adxoo.com^
 ||adxxx.com^
 ||adxxx.info^
 ||adz2you.net^
@@ -713,6 +714,7 @@
 ||affcpatrack.com^
 ||agentanalytics.com^
 ||agkn.com^
+||airpush.com^
 ||aj1*.online^
 ||ajgc1*.online^
 ||ajx*.online^
@@ -780,10 +782,12 @@
 ||automatad.com^
 ||auxml.com^
 ||avazutracking.net^
+||avocarrot.com^
 ||awaps.net^
 ||awaps.yandex.net^
 ||awaps.yandex.ru^
 ||awsync.yandex.ru^
+||axonix.com^
 ||ayads.co^
 ||b2c.com^
 ||backtrace.io^
@@ -940,6 +944,7 @@
 ||dspmulti.com^
 ||du8783wkf05yr.cloudfront.net^
 ||duapps.com^
+||dynamicyield.com^
 ||e.qq.com^
 ||effectivemeasure.net^
 ||ej1*.online^
@@ -1079,6 +1084,10 @@
 ||kumobiles.com^
 ||ladsp.com^
 ||lalaping.com^
+||leadbolt.net^
+||leadboltads.net^
+||leadboltapps.net^
+||leadboltmobile.net^
 ||leanplum.com^
 ||lifestreet.com^
 ||lifestreetmedia.com^
@@ -1368,7 +1377,6 @@
 ||taplytics.com^
 ||taxel.jp^
 ||teads.tv^
-||tealiumiq.com^
 ||telemetry.microsoft.com^
 ||tenmax.io^
 ||themoneytizer.com^
@@ -1571,7 +1579,6 @@
 ||ad.jamster.co.uk^
 ||ad.jetsoftware.com^
 ||ad.kissasian.es^
-||ad.leadbolt.net^
 ||ad.liveinternet.ru^
 ||ad.lupa.cz^
 ||ad.mail.ru^
@@ -2390,7 +2397,6 @@
 ||aim4media.com^
 ||aimaniape.club^
 ||aimaptair.club^
-||airpush.com^
 ||aistat.net^
 ||ajouter.net^
 ||ak0gsh40.com^
@@ -2631,6 +2637,7 @@
 ||best-top.ro^
 ||bestadbid.com^
 ||bestboundary.com^
+||bestcond1tions.com^
 ||bestsearch.net^
 ||beta.ads.cc^
 ||bewilderedblade.com^
@@ -3406,6 +3413,7 @@
 ||howdoesin.net^
 ||httpool.com^
 ||humandemand.com^
+||humidmentioned.com^
 ||hurricanedigitalmedia.com^
 ||hurtteeth.com^
 ||hybrid.ai^
@@ -3557,7 +3565,6 @@
 ||keynotedeviceanywhere.com^
 ||kindads.com^
 ||kiolim.com^
-||kissmetrics.com^
 ||kka20si.xyz^
 ||kliks.nl^
 ||klsdee.com^
@@ -3581,8 +3588,6 @@
 ||lbn.ru^
 ||lead-analytics.nl^
 ||leadaffiliates.com^
-||leadbolt.com^
-||leadboltads.net^
 ||leadclick.com^
 ||leadingedgecash.com^
 ||leadplace.fr^
@@ -3758,6 +3763,7 @@
 ||microticker.com^
 ||midnightclicking.com^
 ||militaryverse.com^
+||mimilcnf.pro^
 ||mindlytix.com^
 ||mindmemobile.com^
 ||minormeeting.com^
@@ -3785,6 +3791,7 @@
 ||mobile.mng-ads.com^
 ||mobileactive.com^
 ||mobileadvertisinghub.com^
+||mobilecore.com^
 ||mobilefuse.nu^
 ||mobileiconnect.com^
 ||mobilemessenger.com^
@@ -4200,7 +4207,6 @@
 ||pushqwer.com^
 ||puzzlingfall.com^
 ||pvclouds.com^
-||px.dynamicyield.com^
 ||q.azcentral.com^
 ||qctop.com^
 ||qnsr.com^
@@ -4517,6 +4523,7 @@
 ||spywarenuker.com^
 ||spywords.com^
 ||squarebirdie.com^
+||squeezedthoughtfully.com^
 ||squirrelhands.com^
 ||srbijacafe.org^
 ||srodicham.com^
@@ -4651,6 +4658,8 @@
 ||tcads.net^
 ||tdxio.com^
 ||tealeaf.com^
+||tealium.com^
+||tealiumiq.com^
 ||techclicks.net^
 ||tedioustooth.com^
 ||teenrevenue.com^
@@ -4841,6 +4850,7 @@
 ||unusualtitle.com^
 ||unwrittenspot.com^
 ||updated.com^
+||upgulpinon.com^
 ||upsnap.com^
 ||urbanityadnetwork.com^
 ||urchrevening.info^
@@ -4937,6 +4947,7 @@
 ||webmasterplan.de^
 ||weboohost.com^
 ||weborama.fr^
+||webpinp.com^
 ||webpower.com^
 ||webreseau.com^
 ||webseoanalytics.com^
@@ -5185,6 +5196,7 @@
 ||events.redditmedia.com^
 ||everestjs.net^
 ||eviltracker.net^
+||fastly-insights.com^
 ||fff.dailymail.co.uk^
 ||frog.wix.com^
 ||g.3gl.net^
@@ -5227,6 +5239,7 @@
 ||k6r.net^
 ||kameleoon.eu^
 ||kidsghibli.com^
+||kissmetrics.com^
 ||kitbit.net^
 ||kkvmaj.com^
 ||leadzutw.com^
@@ -5339,6 +5352,7 @@
 ||stats.xtraffic.xyz^
 ||stats.zotabox.com^
 ||statsforads.com^
+||subscribers.com^
 ||summerhamster.com^
 ||suriflowers.com^
 ||sync2ad.com^

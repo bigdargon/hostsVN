@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Oct 2020 16:13 UTC+7
-# Version: 2010131613
-# Blocked: 18,744 domains
+# Last modified: 15 Oct 2020 10:05 UTC+7
+# Version: 2010151005
+# Blocked: 18,785 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1747,42 +1747,17 @@
 0.0.0.0 status.mixpanel.com
 0.0.0.0 switchboard.mixpanel.com
 0.0.0.0 www.mixpanel.com
-#[flurry]
-0.0.0.0 data.flurry.com
-0.0.0.0 flurry.com
-0.0.0.0 dev.flurry.com
-0.0.0.0 ad.flurry.com
-0.0.0.0 admanagerplus.flurry.com
-0.0.0.0 auth-canary.flurry.com
-0.0.0.0 canary.flurry.com
-0.0.0.0 canary-x.flurry.com
-0.0.0.0 cdn.flurry.com
-0.0.0.0 corp.flurry.com
-0.0.0.0 dev-x.flurry.com
-0.0.0.0 ecto-stg.flurry.com
-0.0.0.0 explorer-staging.flurry.com
-0.0.0.0 gw.flurry.com
-0.0.0.0 login-canary.flurry.com
-0.0.0.0 ngdp-staging.flurry.com
-0.0.0.0 nonprod.flurry.com
-0.0.0.0 ogdp-staging.flurry.com
-0.0.0.0 om-dev.flurry.com
-0.0.0.0 proton.flurry.com
-0.0.0.0 proton-int.flurry.com
-0.0.0.0 pulse.flurry.com
-0.0.0.0 railsplitter-e2e.flurry.com
-0.0.0.0 railsplitter-stg.flurry.com
-0.0.0.0 staging-gq1-x.flurry.com
-0.0.0.0 staging-x.flurry.com
-0.0.0.0 tech.flurry.com
-0.0.0.0 www.flurry.com
-0.0.0.0 y.flurry.com
-0.0.0.0 yampapi-prod.flurry.com
-0.0.0.0 yampapi-staging.flurry.com
-0.0.0.0 yampui-staging.flurry.com
-0.0.0.0 ads.flurry.com
+#[flurry.com]
 0.0.0.0 adlog.flurry.com
+0.0.0.0 ads.flurry.com
 0.0.0.0 api.flurry.com
+0.0.0.0 cdn.flurry.com
+0.0.0.0 cfg.flurry.com
+0.0.0.0 data-ipv6.flurry.com
+0.0.0.0 data.flurry.com
+0.0.0.0 gw.flurry.com
+0.0.0.0 proton.flurry.com
+0.0.0.0 www.flurry.com
 #[appnext]
 0.0.0.0 admin.appnext.com
 0.0.0.0 ads.appnext.com
@@ -2003,31 +1978,19 @@
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 sg-mtrack.rayjump.com
 0.0.0.0 tknet.rayjump.com
-#[mopub]
-0.0.0.0 admin.adserver.mopub.com
-0.0.0.0 admin.mpx.mopub.com
+#[mopub.com]
+0.0.0.0 a.r10.mopub.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 analytics.mopub.com
-0.0.0.0 app.mopub.com
-0.0.0.0 cpp.imp.mpx.mopub.com
-0.0.0.0 developers.mopub.com
-0.0.0.0 media.mopub.com
-0.0.0.0 momonitor.mopub.com
-0.0.0.0 mopub.com
+0.0.0.0 b.r10.mopub.com
+0.0.0.0 c.r10.mopub.com
+0.0.0.0 cb.mopub.com
+0.0.0.0 d.r10.mopub.com
 0.0.0.0 mpx.mopub.com
-0.0.0.0 post.update.mopub.com
-0.0.0.0 public.billing.master.postgres.mopub.com
 0.0.0.0 s.mopub.com
-0.0.0.0 s.update.mopub.com
 0.0.0.0 s2.mopub.com
 0.0.0.0 static2.mopub.com
-0.0.0.0 v3.ads.mopub.com
-0.0.0.0 voxel.read.admin.mpx.mopub.com
-0.0.0.0 voxel.read.mongostats.mopub.com
-0.0.0.0 voxel.write.admin.mpx.mopub.com
-0.0.0.0 voxel.write.mongostats.mopub.com
 0.0.0.0 www.mopub.com
-0.0.0.0 www3.mopub.com
 #[admarketplace]
 0.0.0.0 ad.admarketplace.net
 0.0.0.0 admarketplace.net
@@ -13174,27 +13137,6 @@
 0.0.0.0 js.bizographics.com
 0.0.0.0 sjs.bizographics.com
 0.0.0.0 www.bizographics.com
-#[tealiumiq.com]
-0.0.0.0 api.tealiumiq.com
-0.0.0.0 collect.tealiumiq.com
-0.0.0.0 datacloud.tealiumiq.com
-0.0.0.0 maven.tealiumiq.com
-0.0.0.0 my.tealiumiq.com
-0.0.0.0 pc1-collect.tealiumiq.com
-0.0.0.0 pc1-visitor-service.tealiumiq.com
-0.0.0.0 pc2-collect.tealiumiq.com
-0.0.0.0 pc2-datacloud.tealiumiq.com
-0.0.0.0 pc-humana-collect.tealiumiq.com
-0.0.0.0 pc-humana-visitor-service.tealiumiq.com
-0.0.0.0 pc-providence-collect.tealiumiq.com
-0.0.0.0 sso.tealiumiq.com
-0.0.0.0 tealiumiq.com
-0.0.0.0 tmu-collect.tealiumiq.com
-0.0.0.0 tmu-datacloud.tealiumiq.com
-0.0.0.0 tmu-my.tealiumiq.com
-0.0.0.0 uconnect.tealiumiq.com
-0.0.0.0 visitor-service.tealiumiq.com
-0.0.0.0 www.tealiumiq.com
 #[adhelicopter.club]
 0.0.0.0 adhelicopter.club
 0.0.0.0 trk.adhelicopter.club
@@ -13996,6 +13938,107 @@
 0.0.0.0 ua.zenadservices.net
 0.0.0.0 www.zenadservices.net
 0.0.0.0 zenadservices.net
+#[adxoo.com]
+0.0.0.0 adxoo.com
+0.0.0.0 my-tracking.adxoo.com
+0.0.0.0 native-vpaid.adxoo.com
+0.0.0.0 prebid-vast.adxoo.com
+0.0.0.0 prebid.adxoo.com
+0.0.0.0 service.adxoo.com
+0.0.0.0 syndication.adxoo.com
+0.0.0.0 tracking.adxoo.com
+0.0.0.0 vast.adxoo.com
+0.0.0.0 www.adxoo.com
+0.0.0.0 ytvpaid.adxoo.com
+#[dynamicyield.com]
+0.0.0.0 adm.dynamicyield.com
+0.0.0.0 cdn-eu.dynamicyield.com
+0.0.0.0 cdn.dynamicyield.com
+0.0.0.0 dcem.dynamicyield.com
+0.0.0.0 dynamicyield.com
+0.0.0.0 em-use.dynamicyield.com
+0.0.0.0 em.dynamicyield.com
+0.0.0.0 px-eu.dynamicyield.com
+0.0.0.0 px.dynamicyield.com
+0.0.0.0 rcom-euw1.dynamicyield.com
+0.0.0.0 rcom-use.dynamicyield.com
+0.0.0.0 rcom.dynamicyield.com
+0.0.0.0 rest.dynamicyield.com
+0.0.0.0 st-eu.dynamicyield.com
+0.0.0.0 st-euw1.dynamicyield.com
+0.0.0.0 st-use.dynamicyield.com
+0.0.0.0 st-usw2.dynamicyield.com
+0.0.0.0 st.dynamicyield.com
+0.0.0.0 static-euw1.dynamicyield.com
+0.0.0.0 static-lon1.dynamicyield.com
+0.0.0.0 static-use1.dynamicyield.com
+0.0.0.0 static-was1.dynamicyield.com
+0.0.0.0 static-was2.dynamicyield.com
+0.0.0.0 static.dynamicyield.com
+0.0.0.0 www.dynamicyield.com
+#[airpush.com]
+0.0.0.0 ads.airpush.com
+0.0.0.0 airpush.com
+0.0.0.0 api.airpush.com
+0.0.0.0 applog.airpush.com
+0.0.0.0 apportal.airpush.com
+0.0.0.0 cdnap.airpush.com
+0.0.0.0 gdpr.airpush.com
+0.0.0.0 tapcore.airpush.com
+#[avocarrot.com]
+0.0.0.0 ads.avocarrot.com
+0.0.0.0 avocarrot.com
+0.0.0.0 cdn.avocarrot.com
+0.0.0.0 sdklogs.avocarrot.com
+0.0.0.0 www.avocarrot.com
+#[axonix.com]
+0.0.0.0 a.axonix.com
+0.0.0.0 a.stg.axonix.com
+0.0.0.0 adp.axonix.com
+0.0.0.0 ads-us-east-1.axonix.com
+0.0.0.0 ads.axonix.com
+0.0.0.0 ads.stg.axonix.com
+0.0.0.0 adscdn.axonix.com
+0.0.0.0 adscdn.stg.axonix.com
+0.0.0.0 axonix.com
+0.0.0.0 data-eu-west-1.axonix.com
+0.0.0.0 data-us-east-1.axonix.com
+0.0.0.0 data.axonix.com
+0.0.0.0 legacy-ads.axonix.com
+0.0.0.0 openrtb-eu-west-1.axonix.com
+0.0.0.0 openrtb-t-eu-west-1.axonix.com
+0.0.0.0 openrtb-t.axonix.com
+0.0.0.0 openrtb-us-east-1.axonix.com
+0.0.0.0 openrtb.axonix.com
+0.0.0.0 s-eu-west-1.axonix.com
+0.0.0.0 s-us-east-1.axonix.com
+0.0.0.0 s.axonix.com
+0.0.0.0 sdp.axonix.com
+0.0.0.0 vektor-eu-west-1.axonix.com
+0.0.0.0 vektor-us-east-1.axonix.com
+0.0.0.0 www.axonix.com
+#[leadbolt.net]
+0.0.0.0 ad.leadbolt.net
+0.0.0.0 api.leadbolt.net
+0.0.0.0 leadbolt.net
+0.0.0.0 m.leadbolt.net
+0.0.0.0 sdk.leadbolt.net
+0.0.0.0 static.leadbolt.net
+0.0.0.0 www.leadbolt.net
+#[leadboltads.net]
+0.0.0.0 ad.leadboltads.net
+0.0.0.0 ads.leadboltads.net
+0.0.0.0 leadboltads.net
+0.0.0.0 ww1.leadboltads.net
+0.0.0.0 www.leadboltads.net
+#[leadboltapps.net]
+0.0.0.0 ad.leadboltapps.net
+0.0.0.0 leadboltapps.net
+0.0.0.0 www.leadboltapps.net
+#[leadboltmobile.net]
+0.0.0.0 ad.leadboltmobile.net
+0.0.0.0 leadboltmobile.net
+0.0.0.0 www.leadboltmobile.net
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15655,7 +15698,6 @@
 0.0.0.0 ad.jamster.co.uk
 0.0.0.0 ad.jetsoftware.com
 0.0.0.0 ad.kissasian.es
-0.0.0.0 ad.leadbolt.net
 0.0.0.0 ad.liveinternet.ru
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.mail.ru
@@ -16473,7 +16515,6 @@
 0.0.0.0 aim4media.com
 0.0.0.0 aimaniape.club
 0.0.0.0 aimaptair.club
-0.0.0.0 airpush.com
 0.0.0.0 aistat.net
 0.0.0.0 ajouter.net
 0.0.0.0 ak0gsh40.com
@@ -16714,6 +16755,7 @@
 0.0.0.0 best-top.ro
 0.0.0.0 bestadbid.com
 0.0.0.0 bestboundary.com
+0.0.0.0 bestcond1tions.com
 0.0.0.0 bestsearch.net
 0.0.0.0 beta.ads.cc
 0.0.0.0 bewilderedblade.com
@@ -17488,6 +17530,7 @@
 0.0.0.0 howdoesin.net
 0.0.0.0 httpool.com
 0.0.0.0 humandemand.com
+0.0.0.0 humidmentioned.com
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hurtteeth.com
 0.0.0.0 hybrid.ai
@@ -17638,7 +17681,6 @@
 0.0.0.0 keynotedeviceanywhere.com
 0.0.0.0 kindads.com
 0.0.0.0 kiolim.com
-0.0.0.0 kissmetrics.com
 0.0.0.0 kka20si.xyz
 0.0.0.0 kliks.nl
 0.0.0.0 klsdee.com
@@ -17662,8 +17704,6 @@
 0.0.0.0 lbn.ru
 0.0.0.0 lead-analytics.nl
 0.0.0.0 leadaffiliates.com
-0.0.0.0 leadbolt.com
-0.0.0.0 leadboltads.net
 0.0.0.0 leadclick.com
 0.0.0.0 leadingedgecash.com
 0.0.0.0 leadplace.fr
@@ -17839,6 +17879,7 @@
 0.0.0.0 microticker.com
 0.0.0.0 midnightclicking.com
 0.0.0.0 militaryverse.com
+0.0.0.0 mimilcnf.pro
 0.0.0.0 mindlytix.com
 0.0.0.0 mindmemobile.com
 0.0.0.0 minormeeting.com
@@ -17866,6 +17907,7 @@
 0.0.0.0 mobile.mng-ads.com
 0.0.0.0 mobileactive.com
 0.0.0.0 mobileadvertisinghub.com
+0.0.0.0 mobilecore.com
 0.0.0.0 mobilefuse.nu
 0.0.0.0 mobileiconnect.com
 0.0.0.0 mobilemessenger.com
@@ -18279,7 +18321,6 @@
 0.0.0.0 pushqwer.com
 0.0.0.0 puzzlingfall.com
 0.0.0.0 pvclouds.com
-0.0.0.0 px.dynamicyield.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 qctop.com
 0.0.0.0 qnsr.com
@@ -18596,6 +18637,7 @@
 0.0.0.0 spywarenuker.com
 0.0.0.0 spywords.com
 0.0.0.0 squarebirdie.com
+0.0.0.0 squeezedthoughtfully.com
 0.0.0.0 squirrelhands.com
 0.0.0.0 srbijacafe.org
 0.0.0.0 srodicham.com
@@ -18730,6 +18772,8 @@
 0.0.0.0 tcads.net
 0.0.0.0 tdxio.com
 0.0.0.0 tealeaf.com
+0.0.0.0 tealium.com
+0.0.0.0 tealiumiq.com
 0.0.0.0 techclicks.net
 0.0.0.0 tedioustooth.com
 0.0.0.0 teenrevenue.com
@@ -18920,6 +18964,7 @@
 0.0.0.0 unusualtitle.com
 0.0.0.0 unwrittenspot.com
 0.0.0.0 updated.com
+0.0.0.0 upgulpinon.com
 0.0.0.0 upsnap.com
 0.0.0.0 urbanityadnetwork.com
 0.0.0.0 urchrevening.info
@@ -19016,6 +19061,7 @@
 0.0.0.0 webmasterplan.de
 0.0.0.0 weboohost.com
 0.0.0.0 weborama.fr
+0.0.0.0 webpinp.com
 0.0.0.0 webpower.com
 0.0.0.0 webreseau.com
 0.0.0.0 webseoanalytics.com
@@ -19347,6 +19393,7 @@
 0.0.0.0 events.redditmedia.com
 0.0.0.0 everestjs.net
 0.0.0.0 eviltracker.net
+0.0.0.0 fastly-insights.com
 0.0.0.0 fff.dailymail.co.uk
 0.0.0.0 frog.wix.com
 0.0.0.0 g.3gl.net
@@ -19389,6 +19436,7 @@
 0.0.0.0 k6r.net
 0.0.0.0 kameleoon.eu
 0.0.0.0 kidsghibli.com
+0.0.0.0 kissmetrics.com
 0.0.0.0 kitbit.net
 0.0.0.0 kkvmaj.com
 0.0.0.0 leadzutw.com
@@ -19501,6 +19549,7 @@
 0.0.0.0 stats.xtraffic.xyz
 0.0.0.0 stats.zotabox.com
 0.0.0.0 statsforads.com
+0.0.0.0 subscribers.com
 0.0.0.0 summerhamster.com
 0.0.0.0 suriflowers.com
 0.0.0.0 sync2ad.com
