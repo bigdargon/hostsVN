@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Oct 2020 10:05 UTC+7
-! Version: 2010151005
-! Blocked: 5,430 rules
+! Last modified: 16 Oct 2020 15:14 UTC+7
+! Version: 2010161514
+! Blocked: 5,436 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2077,6 +2077,7 @@
 ||ads.themovienation.com^
 ||ads.thestar.com^
 ||ads.thrillsaffiliates.com^
+||ads.tiktok.com^
 ||ads.tmcs.net^
 ||ads.toplayaffiliates.com^
 ||ads.totallyfreestuff.com^
@@ -2527,6 +2528,7 @@
 ||backbeatmedia.com^
 ||balancebreath.com^
 ||balloontexture.com^
+||banesnorttat.cam^
 ||banik.redigy.cz^
 ||banner-exchange-24.de^
 ||banner.ad.nu^
@@ -2744,6 +2746,7 @@
 ||capacitly.com^
 ||captainbicycle.com^
 ||captify.co.uk^
+||caradstag.casa^
 ||carambo.la^
 ||carbonads.com^
 ||carbonads.net^
@@ -3411,6 +3414,7 @@
 ||hotrank.com.tw^
 ||hoverowl.com^
 ||howdoesin.net^
+||howtubray.com^
 ||httpool.com^
 ||humandemand.com^
 ||humidmentioned.com^
@@ -3913,6 +3917,7 @@
 ||notifysrv.com^
 ||novem.pl^
 ||nrc.tapas.net^
+||ntsecd.com^
 ||ntv.io^
 ||ntvk1.ru^
 ||ntvsw.com^
@@ -5256,6 +5261,7 @@
 ||log.tutuapp.com^
 ||log.umsns.com^
 ||log.ventunotech.com^
+||logsss.com^
 ||loles.neostrada.pl^
 ||mads.dailymail.co.uk^
 ||maper.info^

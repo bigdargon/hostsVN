@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 Oct 2020 10:05 UTC+7
-# Version: 2010151005
-# Blocked: 18,785 domains
+# Last modified: 16 Oct 2020 15:14 UTC+7
+# Version: 2010161514
+# Blocked: 18,772 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4772,38 +4772,19 @@
 0.0.0.0 vn.innity.com
 0.0.0.0 widgets.innity.com
 0.0.0.0 www.innity.com
-#[mmstat]
+#[mmstat.com]
 0.0.0.0 ac.mmstat.com
 0.0.0.0 cnzz.mmstat.com
-0.0.0.0 dz.mmstat.com
-0.0.0.0 etui.mmstat.com
-0.0.0.0 ga.mmstat.com
-0.0.0.0 gj.gds.mmstat.com
 0.0.0.0 gj.mmstat.com
-0.0.0.0 gm.gds.mmstat.com
 0.0.0.0 gm.mmstat.com
 0.0.0.0 go.mmstat.com
 0.0.0.0 gxb.mmstat.com
-0.0.0.0 hd.mmstat.com
-0.0.0.0 hz.mmstat.com
 0.0.0.0 ju.mmstat.com
 0.0.0.0 log.gds.mmstat.com
 0.0.0.0 log.mmstat.com
-0.0.0.0 mmstat.com
-0.0.0.0 oneid.mmstat.com
-0.0.0.0 p3p.mmstat.com
-0.0.0.0 perf.gds.mmstat.com
-0.0.0.0 perf.mmstat.com
 0.0.0.0 res.mmstat.com
-0.0.0.0 sg.mmstat.com
-0.0.0.0 sycm.mmstat.com
-0.0.0.0 wgm.mmstat.com
 0.0.0.0 wgo.mmstat.com
-0.0.0.0 ws.mmstat.com
-0.0.0.0 www.mmstat.com
 0.0.0.0 yt.mmstat.com
-0.0.0.0 yt1.mmstat.com
-0.0.0.0 yt2.mmstat.com
 #[jpush]
 0.0.0.0 im.jpush.cn
 0.0.0.0 im64.jpush.cn
@@ -16195,6 +16176,7 @@
 0.0.0.0 ads.themovienation.com
 0.0.0.0 ads.thestar.com
 0.0.0.0 ads.thrillsaffiliates.com
+0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.tmcs.net
 0.0.0.0 ads.toplayaffiliates.com
 0.0.0.0 ads.totallyfreestuff.com
@@ -16645,6 +16627,7 @@
 0.0.0.0 backbeatmedia.com
 0.0.0.0 balancebreath.com
 0.0.0.0 balloontexture.com
+0.0.0.0 banesnorttat.cam
 0.0.0.0 banik.redigy.cz
 0.0.0.0 banner-exchange-24.de
 0.0.0.0 banner.ad.nu
@@ -16862,6 +16845,7 @@
 0.0.0.0 capacitly.com
 0.0.0.0 captainbicycle.com
 0.0.0.0 captify.co.uk
+0.0.0.0 caradstag.casa
 0.0.0.0 carambo.la
 0.0.0.0 carbonads.com
 0.0.0.0 carbonads.net
@@ -17528,6 +17512,7 @@
 0.0.0.0 hotrank.com.tw
 0.0.0.0 hoverowl.com
 0.0.0.0 howdoesin.net
+0.0.0.0 howtubray.com
 0.0.0.0 httpool.com
 0.0.0.0 humandemand.com
 0.0.0.0 humidmentioned.com
@@ -18028,6 +18013,7 @@
 0.0.0.0 notifysrv.com
 0.0.0.0 novem.pl
 0.0.0.0 nrc.tapas.net
+0.0.0.0 ntsecd.com
 0.0.0.0 ntv.io
 0.0.0.0 ntvk1.ru
 0.0.0.0 ntvsw.com
@@ -19453,6 +19439,7 @@
 0.0.0.0 log.tutuapp.com
 0.0.0.0 log.umsns.com
 0.0.0.0 log.ventunotech.com
+0.0.0.0 logsss.com
 0.0.0.0 loles.neostrada.pl
 0.0.0.0 mads.dailymail.co.uk
 0.0.0.0 maper.info
