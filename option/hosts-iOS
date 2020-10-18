@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 Oct 2020 15:14 UTC+7
-# Version: 2010161514
-# Blocked: 18,772 domains
+# Last modified: 18 Oct 2020 20:56 UTC+7
+# Version: 2010182056
+# Blocked: 18,776 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13253,6 +13253,10 @@
 0 ad.leadboltmobile.net
 0 leadboltmobile.net
 0 www.leadboltmobile.net
+0 cdn.scarabresearch.com
+0 recommender.scarabresearch.com
+0 scarabresearch.com
+0 static.scarabresearch.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
