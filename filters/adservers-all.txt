@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 18 Oct 2020 20:56 UTC+7
-! Version: 2010182056
-! Blocked: 5,437 rules
+! Last modified: 21 Oct 2020 09:55 UTC+7
+! Version: 2010210955
+! Blocked: 5,436 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1265,7 +1265,6 @@
 ||px-intl.ucweb.com^
 ||px.ucweb.com^
 ||pxlad.io^
-||qualtrics.com^
 ||quantserve.com^
 ||quantumdex.io^
 ||rakutenmarketing.com^
