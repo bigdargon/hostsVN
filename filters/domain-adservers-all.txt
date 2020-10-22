@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 21 Oct 2020 09:55 UTC+7
-! Version: 2010210955
+! Last modified: 22 Oct 2020 09:47 UTC+7
+! Version: 2010220947
 ! Blocked: 5,436 domains
 ! The section containing the list contains all ad networks and tracking
 !
@@ -317,6 +317,7 @@ log.anninhthudo.vn
 log.baodatviet.vn
 log.baodauthau.vn
 log.baomoi.com
+log.baonghean.vn
 log.baophapluat.vn
 log.batdongsan.com.vn
 log.daidoanket.vn
@@ -5322,7 +5323,6 @@ rochesterdata.com
 rsrly.com
 rta2.metro.co.uk
 rtb123.com
-rules.quantcount.com
 s.iaudienc.com
 s.idio.co
 s.infogram.com

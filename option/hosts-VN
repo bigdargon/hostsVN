@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 21 Oct 2020 09:55 UTC+7
-# Version: 2010210955
-# Blocked: 1,443 domains
+# Last modified: 22 Oct 2020 09:47 UTC+7
+# Version: 2010220947
+# Blocked: 1,444 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1480,6 +1480,7 @@
 0.0.0.0 log.baodatviet.vn
 0.0.0.0 log.baodauthau.vn
 0.0.0.0 log.baomoi.com
+0.0.0.0 log.baonghean.vn
 0.0.0.0 log.baophapluat.vn
 0.0.0.0 log.batdongsan.com.vn
 0.0.0.0 log.daidoanket.vn

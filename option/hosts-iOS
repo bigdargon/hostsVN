@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 21 Oct 2020 09:55 UTC+7
-# Version: 2010210955
+# Last modified: 22 Oct 2020 09:47 UTC+7
+# Version: 2010220947
 # Blocked: 18,581 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -14428,6 +14428,7 @@
 0 log.baodatviet.vn
 0 log.baodauthau.vn
 0 log.baomoi.com
+0 log.baonghean.vn
 0 log.baophapluat.vn
 0 log.batdongsan.com.vn
 0 log.daidoanket.vn
@@ -18437,7 +18438,6 @@
 0 rsrly.com
 0 rta2.metro.co.uk
 0 rtb123.com
-0 rules.quantcount.com
 0 s.iaudienc.com
 0 s.idio.co
 0 s.infogram.com
