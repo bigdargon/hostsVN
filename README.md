@@ -47,11 +47,6 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/domain-adserv
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN.conf
 ```
 
-- Với ứng dụng [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult.conf):
-```
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult.conf
-```
-
 - Với ứng dụng [Shadowrocket](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-shadowrocket.conf):
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-shadowrocket.conf

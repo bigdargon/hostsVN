@@ -27,6 +27,7 @@ shadowsocks=127.0.0.1:8080, method=none, password=password, fast-open=false, udp
 FINAL,DIRECT
 
 [rewrite_local]
+(^https?:\/\/.+\.googlevideo\.com\/.+)(&ctier=[A-Z])(&.+) url 302 $1$3
 
 [mitm]
 skip_validating_cert = true

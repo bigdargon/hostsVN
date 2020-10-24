@@ -10,6 +10,7 @@ DOMAIN_VN=$(printf "%'.3d\n" $(cat source/hosts-VN-group.txt source/hosts-VN.txt
 DOMAIN_GA=$(printf "%'.3d\n" $(cat source/hosts-gambling.txt | grep "0.0.0.0" | wc -l))
 RULE=$(printf "%'.3d\n" $(cat source/adservers.txt source/adservers-all.txt source/adservers-extra.txt source/exceptions.txt | grep -v '!' | wc -l))
 RULE_VN=$(printf "%'.3d\n" $(cat source/adservers.txt | grep -v '!' | wc -l))
+HOSTNAME=$(cat source/config-hostname.txt)
 
 # update titles
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts.txt > tmp/title-hosts.tmp
@@ -19,6 +20,9 @@ sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_/$RULE/g" tmp/title-adserver-all.txt > tmp/title-adserver-all.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_vn_/$RULE_VN/g" tmp/title-adserver.txt > tmp/title-adserver.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_/$RULE/g" tmp/title-domain.txt > tmp/title-domain.tmp
+sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-surge.txt > tmp/title-config-surge.tmp
+sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-surge.txt | grep -v '#!' > option/hostsVN-surge-pro.conf
+sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-loon.txt > option/hostsVN-loon.conf
 
 echo "Creating hosts file..."
 # create hosts files
@@ -67,12 +71,10 @@ cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk 
 cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "URL-REGEX,"$1}' > option/hostsVN-surge-rewrite.conf
 cat source/config-hostname.txt > option/hostsVN-quantumultX-rewrite.conf
 cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" url reject-img"}' >> option/hostsVN-quantumultX-rewrite.conf
+cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" - reject-img"}' >> option/hostsVN-loon-rewrite.conf
 
 echo "Creating config file..."
 # create config
-HOSTNAME=$(cat source/config-hostname.txt)
-sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-surge.txt > tmp/title-config-surge.tmp
-sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-surge.txt | grep -v '#' > option/hostsVN-surge-pro.conf
 sed -e "s/_time_stamp_/$TIME_STAMP/g" tmp/title-config-quantumultX.txt > option/hostsVN-quantumultX.conf
 sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rejection_quantumult_/r option/hostsVN-quantumult-rejection.conf' -e '/!_rejection_quantumult_/d' -e '/!_rule_quantumult_/r option/hostsVN-quantumult-rule.conf' -e '/!_rule_quantumult_/d' -e '/!_rule_exceptions_quantumult_/r option/hostsVN-quantumult-exceptions-rule.conf' -e '/!_rule_exceptions_quantumult_/d' tmp/title-config-quantumult.txt > option/hostsVN-quantumult.conf
 sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rewrite_shadowrocket_/r tmp/rewrite-shadowrocket.tmp' -e '/!_rewrite_shadowrocket_/d' -e '/!_rule_shadowrocket_/r tmp/shadowrocket-rule.tmp' -e '/!_rule_shadowrocket_/d' -e '/!_rule_exceptions_shadowrocket_/r tmp/shadowrocket-exceptions-rule.tmp' -e '/!_rule_exceptions_shadowrocket_/d' tmp/title-config-shadowrocket.txt > option/hostsVN-shadowrocket.conf
