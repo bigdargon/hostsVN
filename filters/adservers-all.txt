@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Oct 2020 21:21 UTC+7
-! Version: 2010242121
-! Blocked: 5,437 rules
+! Last modified: 24 Oct 2020 22:29 UTC+7
+! Version: 2010242229
+! Blocked: 5,477 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -160,6 +160,7 @@
 ||ad.24h.com.vn^
 ||ad.accesstrade.vn^
 ||ad.icheck.com.vn^
+||ad.lapa.pub^
 ||ad.mwork.vn^
 ||ad.qtcs.com.vn^
 ||ad.sunflower.vn^
@@ -373,6 +374,7 @@
 ||track-srv.vietnamnet.vn^
 ||track.accesstrade.vn^
 ||track.icheck.com.vn^
+||track.lapa.pub^
 ||track.pregmomvietnam.com^
 ||track.sendo.vn^
 ||tracker.phunuvagiadinh.vn^
@@ -642,6 +644,7 @@
 ||ads.linkedin.com^
 ||ads.nytimes.com^
 ||ads.snapchat.com^
+||ads.tiktok.com^
 ||ads.twitter.com^
 ||ads.yahoo.com^
 ||ads.youtube.com^
@@ -741,6 +744,7 @@
 ||analytics.msn.com^
 ||analytics.query.yahoo.com^
 ||analytics.spotify.com^
+||analytics.tiktok.com^
 ||analytics.yahoo.com^
 ||andbeyond.media^
 ||aniview.com^
@@ -1267,6 +1271,7 @@
 ||px-intl.ucweb.com^
 ||px.ucweb.com^
 ||pxlad.io^
+||quantcount.com^
 ||quantserve.com^
 ||quantumdex.io^
 ||rakutenmarketing.com^
@@ -1346,7 +1351,6 @@
 ||specificclick.net^
 ||specificmedia.com^
 ||speedcurve.com^
-||speee-ad.akamaized.net^
 ||sphereup.com^
 ||spotscenered.info^
 ||spotxchange.com^
@@ -1358,7 +1362,6 @@
 ||starbolt.io^
 ||startappservice.com^
 ||stat-rock.com^
-||static-ads.akamaized.net^
 ||static-doubleclick-net.l.google.com^
 ||staticstuff.net^
 ||stats.unity3d.com^
@@ -2079,7 +2082,6 @@
 ||ads.themovienation.com^
 ||ads.thestar.com^
 ||ads.thrillsaffiliates.com^
-||ads.tiktok.com^
 ||ads.tmcs.net^
 ||ads.toplayaffiliates.com^
 ||ads.totallyfreestuff.com^
@@ -2456,6 +2458,7 @@
 ||appia.com^
 ||appier.com^
 ||appier.net^
+||appnext-a.akamaihd.net^
 ||appolicious.com^
 ||apprebates.com^
 ||appredeem.com^
@@ -2801,6 +2804,7 @@
 ||chart.dk^
 ||checkm8.com^
 ||checkstat.nl^
+||checkyofeed.com^
 ||cheerfulrange.com^
 ||chestionar.ro^
 ||chewcoat.com^
@@ -3496,6 +3500,7 @@
 ||ingameads.gameloft.com^
 ||inkeblotsxchange.com^
 ||inmobi-jp.com^
+||inmobisdk-a.akamaihd.net^
 ||inner-active.com^
 ||innocentwax.com^
 ||innovid.com^
@@ -3549,6 +3554,7 @@
 ||jcount.com^
 ||jf71qh5v14.com^
 ||jinkads.de^
+||jioads.akamaized.net^
 ||jivox.com^
 ||jiwire.com^
 ||joetec.net^
@@ -3916,6 +3922,7 @@
 ||nondescriptcrowd.com^
 ||nondescriptsmile.com^
 ||nondescriptstocking.com^
+||nortaumi.net^
 ||notifysrv.com^
 ||novem.pl^
 ||nrc.tapas.net^
@@ -4190,6 +4197,7 @@
 ||ps.ns-cdn.com^
 ||ps7894.com^
 ||psstt.com^
+||ptairtug.net^
 ||pub.chez.com^
 ||pub.club-internet.fr^
 ||pub.hardware.fr^
@@ -4509,6 +4517,7 @@
 ||specificpop.com^
 ||speedomizer.com^
 ||speedshiftmedia.com^
+||speee-ad.akamaized.net^
 ||spezialreporte.de^
 ||spidersboats.com^
 ||spiffymachine.com^
@@ -4557,6 +4566,7 @@
 ||stat24.com^
 ||stat24.meta.ua^
 ||statcounter.com^
+||static-ads.akamaized.net^
 ||static.fmpub.net^
 ||static.itrack.it^
 ||static.scroll.com^
@@ -4617,6 +4627,7 @@
 ||sunmedia.tv^
 ||superclix.de^
 ||superfastcdn.com^
+||supersonicads-a.akamaihd.net^
 ||superstats.com^
 ||supertop.ru^
 ||supertop100.com^
@@ -4660,6 +4671,7 @@
 ||targetspot.com^
 ||tastefulsongs.com^
 ||tatango.com^
+||tathitch.net^
 ||tatsumi-sys.jp^
 ||tawdryson.com^
 ||tcads.net^
@@ -5124,7 +5136,6 @@
 ||analytics.samdd.me^
 ||analytics.siliconexpert.com^
 ||analytics.swiggy.com^
-||analytics.tiktok.com^
 ||analytics.ziftsolutions.com^
 ||analyticsapi.bsbportal.com^
 ||anhui-attorney.com^
@@ -5442,4 +5453,33 @@
 ||zhangtom1989.cn^
 ||connect.facebook.net^
 ||appsflyer.com^
+||applog.tiktokv.com^
+||log-va.tiktokv.com^
+||log.tiktokv.com^
+||mon-va.tiktokv.com^
+||mon.tiktokv.com^
+||rtlog.tiktokv.com^
+||xlog-va.tiktokv.com^
+||xlog.tiktokv.com^
+||log.byteoversea.com^
+||log15.byteoversea.com^
+||log16.byteoversea.com^
+||mon-va.byteoversea.com^
+||mon.byteoversea.com^
+||rtlog.byteoversea.com^
+||xlog-va.byteoversea.com^
+||xlog.byteoversea.com^
+||applog.musical.ly^
+||log.musical.ly^
+||log2.musical.ly^
+||mon.musical.ly^
+||rtlog.musical.ly^
+||client_monitor.isnssdk.com^
+||clientmonitor.isnssdk.com^
+||mon.isnssdk.com^
+||monitor.isnssdk.com^
+||rtlog.isnssdk.com^
+||log-lq.snssdk.com^
+||log.snssdk.com^
+||mon.snssdk.com^
 @@||app.appsflyer.com^|

@@ -770,7 +770,6 @@
 0.0.0.0 w.inmobi.com
 0.0.0.0 xray.corp.inmobi.com
 0.0.0.0 inmobicdn.com
-0.0.0.0 inmobisdk-a.akamaihd.net
 #[inmobi.cn]
 0.0.0.0 api.inmobi.cn
 0.0.0.0 api.w.inmobi.cn
@@ -1750,7 +1749,6 @@
 0.0.0.0 admin.appnext.com
 0.0.0.0 ads.appnext.com
 0.0.0.0 api.appnext.com
-0.0.0.0 appnext-a.akamaihd.net
 0.0.0.0 appnext.com
 0.0.0.0 cdn.appnext.com
 0.0.0.0 developers.appnext.com
@@ -3484,11 +3482,12 @@
 0.0.0.0 ua.supersonicads.com
 0.0.0.0 www.supersonicads.com
 #[pub.network]
-0.0.0.0 pub.network
 0.0.0.0 a.pub.network
-0.0.0.0 b.pub.network
+0.0.0.0 api.pub.network
 0.0.0.0 c.pub.network
 0.0.0.0 d.pub.network
+0.0.0.0 prebid.pub.network
+0.0.0.0 pub.network
 #[disqus]
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 juggler.services.disqus.com
@@ -3953,13 +3952,6 @@
 0.0.0.0 traffic.shareaholic.com
 0.0.0.0 v2.shareaholic.com
 0.0.0.0 www.shareaholic.com
-#[akamaized]
-0.0.0.0 cdn-guile.akamaized.net
-0.0.0.0 contentclick.akamaized.net
-0.0.0.0 dyn-beacon.akamaized.net
-0.0.0.0 ma85-r-analytics.akamaized.net
-0.0.0.0 speee-ad.akamaized.net
-0.0.0.0 static-ads.akamaized.net
 #[quantserve.com]
 0.0.0.0 ads.quantserve.com
 0.0.0.0 c.quantserve.com
@@ -3982,6 +3974,11 @@
 0.0.0.0 ssl.quantserve.com
 0.0.0.0 vast.quantserve.com
 0.0.0.0 www.quantserve.com
+#[quantcount.com]
+0.0.0.0 m.quantcount.com
+0.0.0.0 pixel.quantcount.com
+0.0.0.0 quantcount.com
+0.0.0.0 static.quantcount.com
 #[advertising.com]
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 adserver-as.adtech.advertising.com
@@ -6165,23 +6162,18 @@
 0.0.0.0 sp.getblueshift.com
 0.0.0.0 www.getblueshift.com
 #[useinsider.com]
-0.0.0.0 academy.useinsider.com
 0.0.0.0 api.useinsider.com
 0.0.0.0 hit.api.useinsider.com
 0.0.0.0 image.useinsider.com
-0.0.0.0 ing-mobile.useinsider.com
-0.0.0.0 kidsplazavn.api.useinsider.com
 0.0.0.0 landing.useinsider.com
 0.0.0.0 location.api.useinsider.com
 0.0.0.0 log.api.useinsider.com
 0.0.0.0 mobile.useinsider.com
 0.0.0.0 mobileanalytics.useinsider.com
-0.0.0.0 multimedia.inmail.inone.useinsider.com
 0.0.0.0 parter.api.useinsider.com
-0.0.0.0 recommendation.api.useinsider.com
 0.0.0.0 service.useinsider.com
-0.0.0.0 shopvne.api.useinsider.com
 0.0.0.0 static.api.useinsider.com
+0.0.0.0 unification.useinsider.com
 0.0.0.0 useinsider.com
 0.0.0.0 weather.api.useinsider.com
 0.0.0.0 www.useinsider.com
@@ -13817,3 +13809,6 @@
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 scarabresearch.com
 0.0.0.0 static.scarabresearch.com
+#[tiktok.com]
+0.0.0.0 ads.tiktok.com
+0.0.0.0 analytics.tiktok.com

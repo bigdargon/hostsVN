@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 24 Oct 2020 21:21 UTC+7
-! Version: 2010242121
-! Blocked: 527 rules
+! Last modified: 24 Oct 2020 22:29 UTC+7
+! Version: 2010242229
+! Blocked: 529 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -160,6 +160,7 @@
 ||ad.24h.com.vn^
 ||ad.accesstrade.vn^
 ||ad.icheck.com.vn^
+||ad.lapa.pub^
 ||ad.mwork.vn^
 ||ad.qtcs.com.vn^
 ||ad.sunflower.vn^
@@ -373,6 +374,7 @@
 ||track-srv.vietnamnet.vn^
 ||track.accesstrade.vn^
 ||track.icheck.com.vn^
+||track.lapa.pub^
 ||track.pregmomvietnam.com^
 ||track.sendo.vn^
 ||tracker.phunuvagiadinh.vn^
