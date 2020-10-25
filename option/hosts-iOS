@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Oct 2020 22:29 UTC+7
-# Version: 2010242229
-# Blocked: 18,615 domains
+# Last modified: 25 Oct 2020 19:54 UTC+7
+# Version: 2010251954
+# Blocked: 18,630 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13054,6 +13054,21 @@
 0 recommender.scarabresearch.com
 0 scarabresearch.com
 0 static.scarabresearch.com
+0 api.gameads.io
+0 banner.gameads.io
+0 cdn.gameads.io
+0 cross.gameads.io
+0 gameads.io
+0 n.gameads.io
+0 node.gameads.io
+0 panel.gameads.io
+0 shapez.gameads.io
+0 www.gameads.io
+0 app.ethicalads.io
+0 ethicalads.io
+0 media.ethicalads.io
+0 server.ethicalads.io
+0 www.ethicalads.io
 0 ads.tiktok.com
 0 analytics.tiktok.com
 0 adtimaserver.vn

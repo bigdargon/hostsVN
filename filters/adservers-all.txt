@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Oct 2020 22:29 UTC+7
-! Version: 2010242229
-! Blocked: 5,477 rules
+! Last modified: 25 Oct 2020 19:54 UTC+7
+! Version: 2010251954
+! Blocked: 5,479 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -959,6 +959,7 @@
 ||en25.com^
 ||engageya.com^
 ||epom.com^
+||ethicalads.io^
 ||everesttech.net^
 ||evidon.com^
 ||exdynsrv.com^
@@ -995,6 +996,7 @@
 ||gads*s.com^
 ||gads*z.com^
 ||galaxiemedia.fr^
+||gameads.io^
 ||gameanalytics.com^
 ||gaug.es^
 ||gdt.qq.com^
