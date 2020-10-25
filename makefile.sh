@@ -71,7 +71,7 @@ cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk 
 cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "URL-REGEX,"$1}' > option/hostsVN-surge-rewrite.conf
 cat source/config-hostname.txt > option/hostsVN-quantumultX-rewrite.conf
 cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" url reject-img"}' >> option/hostsVN-quantumultX-rewrite.conf
-cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" - reject-img"}' >> option/hostsVN-loon-rewrite.conf
+cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1" - reject-img"}' > option/hostsVN-loon-rewrite.conf
 
 echo "Creating config file..."
 # create config
