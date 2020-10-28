@@ -19,8 +19,8 @@
 
 
 #spotify
-^https?://spclient.wg.spotify.com/ad-logic/*
-^https?://spclient.wg.spotify.com/ads/*
+^https?://spclient.wg.spotify.com/ad-logic
+^https?://spclient.wg.spotify.com/ads
 ^https?://spclient.wg.spotify.com/.+ad_slot
 ^https?://spclient.wg.spotify.com/.+banners
 ^https?://spclient.wg.spotify.com/.+canvases
@@ -60,16 +60,18 @@
 
 
 #tiktok
-^https?:\/\/.+\.tiktokv\.com\/api\/ad\/
-^https?:\/\/.+\.tiktokv\.com\/.+stats\/
+^https?:\/\/.+\.tiktokv\.com\/.+stats
+^https?:\/\/.+\.tiktokv\.com\/api\/ad
 
-^https?:\/\/.+\.musical\.ly\/api\/ad\/
-^https?:\/\/.+\.musical\.ly\/.+stats\/
+^https?:\/\/.+\.musical\.ly\/.+stats
+^https?:\/\/.+\.musical\.ly\/api\/ad
 
-^https?:\/\/.+\.snssdk\.com\/api\/ad\/
-^https?:\/\/.+\.snssdk\.com\/monitor\/
-^https?:\/\/.+\.snssdk\.com\/.+app_log\/
-^https?:\/\/.+\.snssdk\.com\/.+promotion\/
-^https?:\/\/.+\.snssdk\.com\/.+stats\/
+^https?:\/\/.+\.snssdk\.com\/.+app_log
+^https?:\/\/.+\.snssdk\.com\/.+promotion
+^https?:\/\/.+\.snssdk\.com\/.+report
+^https?:\/\/.+\.snssdk\.com\/.+stats
+^https?:\/\/.+\.snssdk\.com\/api\/ad
+^https?:\/\/.+\.snssdk\.com\/monitor
 
-^https?:\/\/.+\.amemv\.com\/api\/ad\/
+^https?:\/\/.+\.amemv\.com\/.+stats
+^https?:\/\/.+\.amemv\.com\/api\/ad
