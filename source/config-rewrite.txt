@@ -46,6 +46,7 @@
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/atr
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/qoe
 ^https?:\/\/.+\.youtube\.com\/csi_204
+^https?:\/\/.+\.youtube\.com\/error_204
 ^https?:\/\/.+\.youtube\.com\/gen_204
 ^https?:\/\/.+\.youtube\.com\/generate_204
 ^https?:\/\/.+\.youtube\.com\/get_midroll
@@ -70,3 +71,5 @@
 ^https?:\/\/.+\.snssdk\.com\/.+app_log\/
 ^https?:\/\/.+\.snssdk\.com\/.+promotion\/
 ^https?:\/\/.+\.snssdk\.com\/.+stats\/
+
+^https?:\/\/.+\.amemv\.com\/api\/ad\/
