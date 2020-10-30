@@ -939,7 +939,6 @@
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cm.mgid.com
 0.0.0.0 counter.mgid.com
-0.0.0.0 dashboard.mgid.com
 0.0.0.0 dating.mgid.com
 0.0.0.0 dmp.mgid.com
 0.0.0.0 dsp.mgid.com
@@ -1281,7 +1280,6 @@
 0.0.0.0 cdn.propellerads.com
 0.0.0.0 cnative.propellerads.com
 0.0.0.0 crontasks.propellerads.com
-0.0.0.0 dashboard.propellerads.com
 0.0.0.0 data.ap.propellerads.com
 0.0.0.0 db02.propellerads.com
 0.0.0.0 dbpartner.propellerads.com
@@ -1307,7 +1305,6 @@
 0.0.0.0 itest2.propellerads.com
 0.0.0.0 jira.propellerads.com
 0.0.0.0 join.propellerads.com
-0.0.0.0 k8s-dashboard.propellerads.com
 0.0.0.0 kvs-maintenance.propellerads.com
 0.0.0.0 kvsapp.propellerads.com
 0.0.0.0 letitbit.propellerads.com
@@ -1325,7 +1322,6 @@
 0.0.0.0 my.propellerads.com
 0.0.0.0 native.propellerads.com
 0.0.0.0 offers.propellerads.com
-0.0.0.0 onclick.dashboard.propellerads.com
 0.0.0.0 partners.propellerads.com
 0.0.0.0 passback.propellerads.com
 0.0.0.0 promo.propellerads.com
@@ -1694,9 +1690,6 @@
 0.0.0.0 cxi-api-demo.wootric.com
 0.0.0.0 cxi-api-staging.wootric.com
 0.0.0.0 cxi-api.wootric.com
-0.0.0.0 dashboard-demo.wootric.com
-0.0.0.0 dashboard-staging.wootric.com
-0.0.0.0 dashboard.wootric.com
 0.0.0.0 demo.wootric.com
 0.0.0.0 eligibility.wootric.com
 0.0.0.0 engineering.wootric.com
@@ -1913,7 +1906,6 @@
 0.0.0.0 ct5.addthis.com
 0.0.0.0 ct6z.addthis.com
 0.0.0.0 cw.addthis.com
-0.0.0.0 dashboard.addthis.com
 0.0.0.0 e1.addthis.com
 0.0.0.0 m.addthis.com
 0.0.0.0 o.addthis.com
@@ -2028,7 +2020,6 @@
 0.0.0.0 admintool.revenuetool.aatkit.com
 0.0.0.0 android-sdk.aatkit.com
 0.0.0.0 backup.aatkit.com
-0.0.0.0 dashboard.aatkit.com
 0.0.0.0 dbmaster.aatkit.com
 0.0.0.0 master.statistics.aatkit.com
 0.0.0.0 master.ulv.statistics.aatkit.com
@@ -2231,8 +2222,6 @@
 0.0.0.0 s.ligatus.com
 0.0.0.0 self-booking.ligatus.com
 0.0.0.0 ssl.ligatus.com
-0.0.0.0 tableau.dashboard.ligatus.com
-0.0.0.0 tableau-staging.dashboard.ligatus.com
 0.0.0.0 tagmanager.ligatus.com
 0.0.0.0 tr.hugin.ligatus.com
 0.0.0.0 tracking.cp.ligatus.com
@@ -2299,10 +2288,6 @@
 0.0.0.0 apptesting.appsee.com
 0.0.0.0 courses.appsee.com
 0.0.0.0 cr.appsee.com
-0.0.0.0 dashboard.appsee.com
-0.0.0.0 dashboard.bom.test.appsee.com
-0.0.0.0 dashboard.qa.test.appsee.com
-0.0.0.0 dashboard.tweet.test.appsee.com
 0.0.0.0 get.appsee.com
 0.0.0.0 mmmag.appsee.com
 0.0.0.0 pm.appsee.com
@@ -2376,7 +2361,6 @@
 0.0.0.0 calendar.chartboost.com
 0.0.0.0 chartboost.com
 0.0.0.0 dashapi.chartboost.com
-0.0.0.0 dashboard.chartboost.com
 0.0.0.0 engineering.chartboost.com
 0.0.0.0 hello.chartboost.com
 0.0.0.0 icon.chartboost.com
@@ -3018,7 +3002,6 @@
 0.0.0.0 cdn3.fyber.com
 0.0.0.0 cdn4.fyber.com
 0.0.0.0 crowd.fyber.com
-0.0.0.0 dashboard.fyber.com
 0.0.0.0 dataroom.fyber.com
 0.0.0.0 developer.fyber.com
 0.0.0.0 developer-staging.fyber.com
@@ -3369,9 +3352,6 @@
 0.0.0.0 branch.io
 0.0.0.0 cdn.branch.io
 0.0.0.0 crypt.aws.branch.io
-0.0.0.0 dashboard.alpha.branch.io
-0.0.0.0 dashboard.beta.branch.io
-0.0.0.0 dashboard.branch.io
 0.0.0.0 dev.branch.io
 0.0.0.0 encrypt.branch.io
 0.0.0.0 events.branch.io
@@ -3805,7 +3785,6 @@
 0.0.0.0 billing.backtrace.io
 0.0.0.0 ca1.metrics.backtrace.io
 0.0.0.0 console.backtrace.io
-0.0.0.0 dashboard.in.backtrace.io
 0.0.0.0 documentation.backtrace.io
 0.0.0.0 get.backtrace.io
 0.0.0.0 hack.in.backtrace.io
@@ -3898,7 +3877,6 @@
 0.0.0.0 a.steepto.com
 0.0.0.0 cdn.steepto.com
 0.0.0.0 cm.steepto.com
-0.0.0.0 dashboard.steepto.com
 0.0.0.0 img.steepto.com
 0.0.0.0 img-cdn.steepto.com
 0.0.0.0 imgg.steepto.com
@@ -4574,7 +4552,6 @@
 0.0.0.0 api.localytics.com
 0.0.0.0 cdn.localytics.com
 0.0.0.0 cold.localytics.com
-0.0.0.0 dashboard.localytics.com
 0.0.0.0 data-viz-challenge.localytics.com
 0.0.0.0 downloads.localytics.com
 0.0.0.0 ebooks.localytics.com
@@ -4612,10 +4589,8 @@
 0.0.0.0 api.clevertap.com
 0.0.0.0 campaigns.clevertap.com
 0.0.0.0 clevertap.com
-0.0.0.0 dashboard.clevertap.com
 0.0.0.0 in.api.clevertap.com
 0.0.0.0 insights.clevertap.com
-0.0.0.0 staging.dashboard.clevertap.com
 0.0.0.0 static.clevertap.com
 0.0.0.0 www.clevertap.com
 #[freshmarketer]
@@ -4794,7 +4769,6 @@
 0.0.0.0 qa1.tinypass.com
 0.0.0.0 api-v3.tinypass.com
 0.0.0.0 id.tinypass.com
-0.0.0.0 dashboard.tinypass.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 code.tinypass.com
 0.0.0.0 api.tinypass.com
@@ -5455,7 +5429,6 @@
 0.0.0.0 backend.pubnative.net
 0.0.0.0 bulk.pubnative.net
 0.0.0.0 cdn.pubnative.net
-0.0.0.0 dashboard.pubnative.net
 0.0.0.0 developer.pubnative.net
 0.0.0.0 developers.pubnative.net
 0.0.0.0 direct.pubnative.net
@@ -5665,7 +5638,6 @@
 0.0.0.0 c.adskeeper.co.uk
 0.0.0.0 cdn.adskeeper.co.uk
 0.0.0.0 cm.adskeeper.co.uk
-0.0.0.0 dashboard.adskeeper.co.uk
 0.0.0.0 dmp.adskeeper.co.uk
 0.0.0.0 img.adskeeper.co.uk
 0.0.0.0 imgg.adskeeper.co.uk
@@ -5877,81 +5849,47 @@
 0.0.0.0 yasni.adclixx.net
 0.0.0.0 zoover.adclixx.net
 #[hotjar.com]
-0.0.0.0 hotjar.com
 0.0.0.0 adm.hotjar.com
 0.0.0.0 assets.hotjar.com
 0.0.0.0 careers.hotjar.com
-0.0.0.0 cript.hotjar.com
-0.0.0.0 discourse.hotjar.com
 0.0.0.0 get.hotjar.com
 0.0.0.0 graylog.hotjar.com
 0.0.0.0 graylog2.hotjar.com
+0.0.0.0 hotjar.com
+0.0.0.0 identify.hotjar.com
 0.0.0.0 in.hotjar.com
 0.0.0.0 incoming.hotjar.com
-0.0.0.0 ins1.hotjar.com
-0.0.0.0 ins10.hotjar.com
-0.0.0.0 ins11.hotjar.com
-0.0.0.0 ins12.hotjar.com
-0.0.0.0 ins13.hotjar.com
-0.0.0.0 ins14.hotjar.com
-0.0.0.0 ins15.hotjar.com
-0.0.0.0 ins16.hotjar.com
-0.0.0.0 ins17.hotjar.com
-0.0.0.0 ins18.hotjar.com
-0.0.0.0 ins2.hotjar.com
-0.0.0.0 ins3.hotjar.com
-0.0.0.0 ins4.hotjar.com
-0.0.0.0 ins5.hotjar.com
-0.0.0.0 ins6.hotjar.com
-0.0.0.0 ins7.hotjar.com
-0.0.0.0 ins8.hotjar.com
-0.0.0.0 ins9.hotjar.com
-0.0.0.0 inside.hotjar.com
 0.0.0.0 insights.hotjar.com
-0.0.0.0 insights-dc.hotjar.com
-0.0.0.0 insights-split.hotjar.com
-0.0.0.0 insights-staging.hotjar.com
-0.0.0.0 insights-staging-test.hotjar.com
-0.0.0.0 internal-docs.hotjar.com
-0.0.0.0 local.hotjar.com
-0.0.0.0 new.hotjar.com
-0.0.0.0 new-adm.hotjar.com
 0.0.0.0 offers.hotjar.com
 0.0.0.0 outside.hotjar.com
 0.0.0.0 prioritizer.hotjar.com
-0.0.0.0 script.hotjar.com
 0.0.0.0 script-edgecast.hotjar.com
+0.0.0.0 script-live-cf.hotjar.com
 0.0.0.0 script-sio.hotjar.com
 0.0.0.0 script-staging.hotjar.com
-0.0.0.0 script-staging-test.hotjar.com
+0.0.0.0 script.hotjar.com
 0.0.0.0 sentry.hotjar.com
 0.0.0.0 sentry.kops.hotjar.com
-0.0.0.0 static.hotjar.com
+0.0.0.0 static-cdn.hotjar.com
+0.0.0.0 static-live-cf.hotjar.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-staging.hotjar.com
+0.0.0.0 static.hotjar.com
 0.0.0.0 status.hotjar.com
 0.0.0.0 suggest.hotjar.com
-0.0.0.0 surveys.hotjar.com
 0.0.0.0 surveys-split.hotjar.com
 0.0.0.0 surveys-staging.hotjar.com
-0.0.0.0 test.hotjar.com
-0.0.0.0 try.hotjar.com
-0.0.0.0 vars.hotjar.com
+0.0.0.0 surveys.hotjar.com
 0.0.0.0 vars-edgecast.hotjar.com
+0.0.0.0 vars-live-cf.hotjar.com
 0.0.0.0 vars-sio.hotjar.com
 0.0.0.0 vars-staging.hotjar.com
-0.0.0.0 ws1.hotjar.com
-0.0.0.0 ws10.hotjar.com
-0.0.0.0 ws2.hotjar.com
-0.0.0.0 ws3.hotjar.com
-0.0.0.0 ws4.hotjar.com
-0.0.0.0 ws5.hotjar.com
-0.0.0.0 ws6.hotjar.com
-0.0.0.0 ws7.hotjar.com
-0.0.0.0 ws8.hotjar.com
-0.0.0.0 ws9.hotjar.com
-0.0.0.0 www.hotjar.com
-0.0.0.0 xawards.hotjar.com
+0.0.0.0 vars.hotjar.com
+#[hotjar.io]
+0.0.0.0 hotjar.io
+0.0.0.0 vc-live-cf.hotjar.io
+0.0.0.0 vc-staging.hotjar.io
+0.0.0.0 vc.hotjar.io
 #[kochava.com]
 0.0.0.0 alerts.api.kochava.com
 0.0.0.0 analytics.kochava.com
@@ -6124,8 +6062,6 @@
 0.0.0.0 www.gameanalytics.com
 #[upsight.com]
 0.0.0.0 analytics.upsight.com
-0.0.0.0 dashboard.upsight.com
-0.0.0.0 dashboard-api.upsight.com
 0.0.0.0 imgproxy.upsight.com
 0.0.0.0 marketing.upsight.com
 0.0.0.0 marketing-api.upsight.com
@@ -6729,7 +6665,6 @@
 0.0.0.0 aralego.com
 0.0.0.0 cdn.aralego.com
 0.0.0.0 compliance.aralego.com
-0.0.0.0 dashboard.aralego.com
 0.0.0.0 dev-ad-track.aralego.com
 0.0.0.0 dev-adx.aralego.com
 0.0.0.0 dev-dsp.aralego.com
@@ -6945,7 +6880,6 @@
 0.0.0.0 api.production.jetlore.com
 0.0.0.0 assets.jetlore.com
 0.0.0.0 content.jetlore.com
-0.0.0.0 dashboard.jetlore.com
 0.0.0.0 jetlore.com
 0.0.0.0 www.jetlore.com
 #[headlinerlabs.com]
@@ -7483,10 +7417,6 @@
 0.0.0.0 build.powerlinks.com
 0.0.0.0 cdn.powerlinks.com
 0.0.0.0 chproxy-test.powerlinks.com
-0.0.0.0 dashboard.powerlinks.com
-0.0.0.0 dashboard.v3.powerlinks.com
-0.0.0.0 dashboard.v3.qa.powerlinks.com
-0.0.0.0 dashboard-az-staging.powerlinks.com
 0.0.0.0 dmplb.powerlinks.com
 0.0.0.0 docker.powerlinks.com
 0.0.0.0 dsp-api.powerlinks.com
@@ -8497,7 +8427,6 @@
 0.0.0.0 www.rakutenmarketing.com
 #[linkshare.com]
 0.0.0.0 au.linkshare.com
-0.0.0.0 dashboard.linkshare.com
 0.0.0.0 directory.linkshare.com
 0.0.0.0 downloads.linkshare.com
 0.0.0.0 imap.linkshare.com
@@ -8756,7 +8685,6 @@
 0.0.0.0 ads.smaato.com
 0.0.0.0 creatives.smaato.com
 0.0.0.0 creatives-adserver.smaato.com
-0.0.0.0 dashboard.smaato.com
 0.0.0.0 demofiles.smaato.com
 0.0.0.0 dspportal.smaato.com
 0.0.0.0 go.smaato.com
@@ -8967,7 +8895,6 @@
 #[ad.plus]
 0.0.0.0 ad.plus
 0.0.0.0 cdn.ad.plus
-0.0.0.0 dashboard.ad.plus
 0.0.0.0 reports.ad.plus
 0.0.0.0 video.ad.plus
 0.0.0.0 www.ad.plus
@@ -9667,11 +9594,7 @@
 0.0.0.0 demos.gumgum.com
 0.0.0.0 dental.gumgum.com
 0.0.0.0 design-prototypes.gumgum.com
-0.0.0.0 dev.adbuilder.gumgum.com
-0.0.0.0 dev.dashboard.gumgum.com
-0.0.0.0 dev.demobuilder.gumgum.com
 0.0.0.0 dev.gumgum.com
-0.0.0.0 dev.webapi.gumgum.com
 0.0.0.0 ds-ui-mockups.dev.gumgum.com
 0.0.0.0 ds.gumgum.com
 0.0.0.0 events.gumgum.com
@@ -9867,9 +9790,6 @@
 0.0.0.0 content-library.demandbase.com
 0.0.0.0 conversion-channels.demandbase.com
 0.0.0.0 creative.demandbase.com
-0.0.0.0 dashboard-api.demandbase.com
-0.0.0.0 dashboard-api.production.virginia.demandbase.com
-0.0.0.0 dashboard-web-rancher.demandbase.com
 0.0.0.0 db-slack-service.demandbase.com
 0.0.0.0 demandbase.com
 0.0.0.0 demandbase.demandbase.com
@@ -10107,7 +10027,6 @@
 0.0.0.0 res-homepage.playbuzz.com
 0.0.0.0 restapi.playbuzz.com
 0.0.0.0 rest-api-v2.playbuzz.com
-0.0.0.0 revenue-dashboard.playbuzz.com
 0.0.0.0 site.playbuzz.com
 0.0.0.0 site-elb.playbuzz.com
 0.0.0.0 social-data-collection.playbuzz.com
@@ -10170,7 +10089,6 @@
 0.0.0.0 api.safedk.com
 0.0.0.0 brand.safedk.com
 0.0.0.0 config.safedk.com
-0.0.0.0 dashboard.safedk.com
 0.0.0.0 gdpr.safedk.com
 0.0.0.0 mobile-sdk-data-trends.safedk.com
 0.0.0.0 mp.safedk.com
@@ -10434,7 +10352,6 @@
 0.0.0.0 ca.lijit.pixel.invitemedia.com
 0.0.0.0 contextweb.pixel.invitemedia.com
 0.0.0.0 conversion-pixel.invitemedia.com
-0.0.0.0 dashboard.invitemedia.com
 0.0.0.0 eec.pixel.prod2.invitemedia.com
 0.0.0.0 eu.pixel.prod2.invitemedia.com
 0.0.0.0 g-pixel.invitemedia.com
@@ -11800,7 +11717,6 @@
 0.0.0.0 console.brealtime.com
 0.0.0.0 controlcenter.brealtime.com
 0.0.0.0 cookie.brealtime.com
-0.0.0.0 dashboard.brealtime.com
 0.0.0.0 edba.brealtime.com
 0.0.0.0 gif.brealtime.com
 0.0.0.0 js.brealtime.com
@@ -11830,7 +11746,6 @@
 0.0.0.0 assets.publift.com
 0.0.0.0 cdn.publift.com
 0.0.0.0 ci.publift.com
-0.0.0.0 dashboard.publift.com
 0.0.0.0 hb.publift.com
 0.0.0.0 npm.publift.com
 0.0.0.0 prebid.publift.com
@@ -12359,7 +12274,6 @@
 0.0.0.0 www.admantx.com
 #[monetiza.co]
 0.0.0.0 control.monetiza.co
-0.0.0.0 dashboard.monetiza.co
 0.0.0.0 monetiza.co
 0.0.0.0 ssp.monetiza.co
 #[monetize.com]
@@ -13565,7 +13479,6 @@
 0.0.0.0 bidder.andbeyond.media
 0.0.0.0 cdn.andbeyond.media
 0.0.0.0 cpm.andbeyond.media
-0.0.0.0 dashboard.andbeyond.media
 0.0.0.0 ecdn.andbeyond.media
 0.0.0.0 hello.andbeyond.media
 0.0.0.0 jsv2.andbeyond.media
@@ -13829,3 +13742,27 @@
 #[tiktok.com]
 0.0.0.0 ads.tiktok.com
 0.0.0.0 analytics.tiktok.com
+#[mouseflow.com]
+0.0.0.0 a.mouseflow.com
+0.0.0.0 app.mouseflow.com
+0.0.0.0 cdn.mouseflow.com
+0.0.0.0 go.mouseflow.com
+0.0.0.0 mouseflow.com
+0.0.0.0 www.mouseflow.com
+#[crazyegg.com]
+0.0.0.0 app.crazyegg.com
+0.0.0.0 crazyegg.com
+0.0.0.0 hud.crazyegg.com
+0.0.0.0 recording.crazyegg.com
+0.0.0.0 sample-api-v2.crazyegg.com
+0.0.0.0 script.crazyegg.com
+0.0.0.0 tracking.crazyegg.com
+0.0.0.0 www.crazyegg.com
+#[luckyorange.com]
+0.0.0.0 api.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 luckyorange.com
+0.0.0.0 ssl.luckyorange.com
+0.0.0.0 staging.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 www.luckyorange.com

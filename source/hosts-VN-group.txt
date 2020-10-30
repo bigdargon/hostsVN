@@ -500,7 +500,6 @@
 0.0.0.0 interactive.brand.zing.vn
 0.0.0.0 media.brand.zing.vn
 0.0.0.0 notify.brand.zing.vn
-0.0.0.0 staging-ads-dashboard.brand.zing.vn
 0.0.0.0 stc.interactive.brand.zing.vn
 0.0.0.0 streaming.interactive.brand.zing.vn
 0.0.0.0 zevent.brand.zing.vn
@@ -783,7 +782,6 @@
 0.0.0.0 adsota.com
 0.0.0.0 agency.adsota.com
 0.0.0.0 app.adsota.com
-0.0.0.0 dashboard.adsota.com
 0.0.0.0 highlandscoffee.adsota.com
 0.0.0.0 static.adsota.com
 0.0.0.0 track.adsota.com
@@ -1288,3 +1286,18 @@
 #[anymind360.com]
 0.0.0.0 anymind360.com
 0.0.0.0 stg.anymind360.com
+#[smartconvert.co]
+0.0.0.0 cworth.smartconvert.co
+0.0.0.0 growth.smartconvert.co
+0.0.0.0 plo.smartconvert.co
+0.0.0.0 promo.smartconvert.co
+0.0.0.0 promo-stage.smartconvert.co
+0.0.0.0 promo-staging.smartconvert.co
+0.0.0.0 promo-v2.smartconvert.co
+0.0.0.0 recsite.smartconvert.co
+0.0.0.0 site-dev.smartconvert.co
+0.0.0.0 smartconvert.co
+0.0.0.0 st.smartconvert.co
+0.0.0.0 worth.smartconvert.co
+0.0.0.0 wsite.smartconvert.co
+0.0.0.0 www.smartconvert.co
