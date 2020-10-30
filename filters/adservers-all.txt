@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 30 Oct 2020 12:15 UTC+7
-! Version: 2010301215
-! Blocked: 5,484 rules
+! Last modified: 30 Oct 2020 13:38 UTC+7
+! Version: 2010301338
+! Blocked: 5,486 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -241,6 +241,7 @@
 ||crocopop.com^
 ||delecpuzz.com^
 ||delivery.senvangvn.com^
+||delivery.vtc.vn^
 ||delivery.vtcnew.com.vn^
 ||deltago.com^
 ||demopage.me^
@@ -385,6 +386,7 @@
 ||tracking.dantri.com.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
+||tracking.vtc.vn^
 ||tracking.vtcnew.com.vn^
 ||trackingapi.foody.vn^
 ||trackity.tiki.vn^

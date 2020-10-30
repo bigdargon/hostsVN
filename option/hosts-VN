@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Oct 2020 12:15 UTC+7
-# Version: 2010301215
-# Blocked: 1,460 domains
+# Last modified: 30 Oct 2020 13:38 UTC+7
+# Version: 2010301338
+# Blocked: 1,462 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1399,6 +1399,7 @@
 0.0.0.0 crocopop.com
 0.0.0.0 delecpuzz.com
 0.0.0.0 delivery.senvangvn.com
+0.0.0.0 delivery.vtc.vn
 0.0.0.0 delivery.vtcnew.com.vn
 0.0.0.0 deltago.com
 0.0.0.0 demopage.me
@@ -1558,6 +1559,7 @@
 0.0.0.0 tracking.dantri.com.vn
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietbao.vn
+0.0.0.0 tracking.vtc.vn
 0.0.0.0 tracking.vtcnew.com.vn
 0.0.0.0 trackingapi.foody.vn
 0.0.0.0 trackity.tiki.vn
