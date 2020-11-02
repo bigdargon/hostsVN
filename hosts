@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Oct 2020 13:38 UTC+7
-# Version: 2010301338
-# Blocked: 18,579 domains
+# Last modified: 02 Nov 2020 09:13 UTC+7
+# Version: 2011020913
+# Blocked: 18,580 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -15284,6 +15284,7 @@
 0.0.0.0 log.vietnamdaily.net.vn
 0.0.0.0 log.vietnamfinance.vn
 0.0.0.0 log.vietnamplus.vn
+0.0.0.0 log.viettimes.vn
 0.0.0.0 log.vnay.vn
 0.0.0.0 log.vntoday.news
 0.0.0.0 log.vov.vn
