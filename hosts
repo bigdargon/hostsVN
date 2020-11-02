@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Nov 2020 09:13 UTC+7
-# Version: 2011020913
-# Blocked: 18,580 domains
+# Last modified: 02 Nov 2020 10:03 UTC+7
+# Version: 2011021003
+# Blocked: 18,582 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -15221,6 +15221,7 @@
 0.0.0.0 vietdorje.com
 0.0.0.0 vinaads.vn
 0.0.0.0 vnd247.vn
+0.0.0.0 vtvcab.xyz
 0.0.0.0 widget.headlines.pw
 0.0.0.0 www.adsweb.vn
 0.0.0.0 www.adt.com.vn
@@ -15236,6 +15237,7 @@
 0.0.0.0 www.sbbanner.com
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
+0.0.0.0 www.vtvcab.xyz
 # --- Block trackingVN ---
 0.0.0.0 addlog.thuvienphapluat.vn
 0.0.0.0 admin.phunusuckhoe.vn
