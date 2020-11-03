@@ -73,5 +73,7 @@
 ^https?:\/\/.+\.snssdk\.com\/api\/ad
 ^https?:\/\/.+\.snssdk\.com\/monitor
 
+^https?:\/\/.+\.amemv\.com\/.+app_log
+^https?:\/\/.+\.amemv\.com\/.+report
 ^https?:\/\/.+\.amemv\.com\/.+stats
 ^https?:\/\/.+\.amemv\.com\/api\/ad
