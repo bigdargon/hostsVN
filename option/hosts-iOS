@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Nov 2020 11:58 UTC+7
-# Version: 2011031158
-# Blocked: 18,593 domains
+# Last modified: 09 Nov 2020 10:05 UTC+7
+# Version: 2011091005
+# Blocked: 18,446 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -56,8 +56,6 @@
 0 adx.g.doubleclick.net
 0 apac.doubleclick.net
 0 au.doubleclick.net
-0 betaadvertisers.doubleclick.net
-0 betareportcentral.doubleclick.net
 0 bh1.doubleclick.net
 0 bid.g.doubleclick.net
 0 cm.g.doubleclick.net
@@ -383,8 +381,6 @@
 0 rcm-fe.amazon-adsystem.com
 0 rcm-na.amazon-adsystem.com
 0 s.amazon-adsystem.com
-0 s-beta.amazon-adsystem.com
-0 s-beta-opf.amazon-adsystem.com
 0 v.amazon-adsystem.com
 0 vaes.amazon-adsystem.com
 0 vaes.dub.amazon-adsystem.com
@@ -1228,7 +1224,6 @@
 0 api-publishers.propellerads.com
 0 api.propellerads.com
 0 apiad.propellerads.com
-0 apibeta.propellerads.com
 0 apistats-static.propellerads.com
 0 apistats.propellerads.com
 0 apps.propellerads.com
@@ -1697,7 +1692,6 @@
 0 vungle.com
 0 api.vungle.com
 0 bd.vungle.com
-0 beta.vungle.com
 0 billboard.vungle.com
 0 cdn.vungle.com
 0 cdn-lb.vungle.com
@@ -1910,7 +1904,6 @@
 0 tracking.admarketplace.net
 0 www.admarketplace.net
 0 api.mobileapptracking.com
-0 beta.mobileapptracking.com
 0 cdn.mobileapptracking.com
 0 debug.engine.mobileapptracking.com
 0 deeplink.mobileapptracking.com
@@ -2082,7 +2075,6 @@
 0 www.krxd.net
 0 alpha.leanplum.com
 0 api.leanplum.com
-0 beta.leanplum.com
 0 corp.leanplum.com
 0 customer-pages.leanplum.com
 0 dev.leanplum.com
@@ -2466,7 +2458,6 @@
 0 aktrack.pubmatic.com
 0 ams1ns1.pubmatic.com
 0 apps.pubmatic.com
-0 appsbeta.pubmatic.com
 0 aud.pubmatic.com
 0 bid.pubmatic.com
 0 cdn.pubmatic.com
@@ -2503,7 +2494,6 @@
 0 pugm-jpc.pubmatic.com
 0 pugm-sg.pubmatic.com
 0 pug-sg.pubmatic.com
-0 phoenixbeta.pubmatic.com
 0 phtrack.pubmatic.com
 0 showads.pubmatic.com
 0 showads1065.pubmatic.com
@@ -2833,7 +2823,6 @@
 0 mpsnare.iesnare.com
 0 mx.iesnare.com
 0 snare.iesnare.com
-0 wdpbeta.iesnare.com
 0 www.iesnare.com
 0 account.fyber.com
 0 acp.fyber.com
@@ -3201,8 +3190,6 @@
 0 applogios.uc.cn
 0 track.uc.cn
 0 ai.branch.io
-0 api.alpha.branch.io
-0 api.beta.branch.io
 0 api.branch.io
 0 api.qa.branch.io
 0 api2.branch.io
@@ -3215,8 +3202,6 @@
 0 gdpr.branch.io
 0 go.branch.io
 0 growth.branch.io
-0 link.alpha.branch.io
-0 link.beta.branch.io
 0 munki.aws.branch.io
 0 munkireport.aws.branch.io
 0 prod.branch.io
@@ -3361,54 +3346,16 @@
 0 video.adspruce.com
 0 vod.adspruce.com
 0 www.adspruce.com
-0 alerts.newrelic.com
-0 apt.newrelic.com
-0 azure-res-provider.newrelic.com
-0 beta.newrelic.com
-0 br.newrelic.com
-0 current-azure-ext.newrelic.com
-0 dev.newrelic.com
-0 df-azure-ext.newrelic.com
-0 discuss.newrelic.com
-0 download.newrelic.com
-0 dr.newrelic.com
-0 eu.newrelic.com
-0 get.newrelic.com
-0 i18n.newrelic.com
-0 ir.newrelic.com
+0 beacon-1.newrelic.com
+0 beacon-3.newrelic.com
+0 collector.newrelic.com
+0 insights-collector.newrelic.com
 0 js-agent.newrelic.com
-0 jserror.newrelic.com
-0 learn.newrelic.com
-0 learn-dev.newrelic.com
-0 learn-ra.newrelic.com
-0 learn-staging.newrelic.com
-0 login-origin.newrelic.com
+0 metric-api.newrelic.com
 0 mobile-collector.newrelic.com
-0 mobile-crash.newrelic.com
 0 mobile-crash-origin.newrelic.com
-0 mobile-symbol-upload.newrelic.com
-0 newrelic.com
-0 next-azure-ext.newrelic.com
-0 rpm.newrelic.com
-0 rpm-images.newrelic.com
-0 rpm-instart.newrelic.com
-0 service.dr.newrelic.com
-0 service.eu.newrelic.com
-0 service.newrelic.com
-0 staging.newrelic.com
-0 staging-alerts.newrelic.com
-0 staging-beacon-1.newrelic.com
-0 staging-discuss.newrelic.com
-0 staging-images.newrelic.com
-0 staging-mobile-collector.newrelic.com
-0 staging-service.newrelic.com
-0 stamp1-azure-ext.newrelic.com
-0 stamp2-azure-ext.newrelic.com
-0 status.newrelic.com
-0 support-legacy.newrelic.com
-0 synthetics.newrelic.com
-0 try.newrelic.com
-0 d1ros97qkrwjf5.cloudfront.net
+0 mobile-crash.newrelic.com
+0 staging-insights-collector.newrelic.com
 0 bam.eu01.nr-data.net
 0 bam.nr-data.net
 0 bam-1.nr-data.net
@@ -3925,8 +3872,6 @@
 0 assets.ui.optimizely.com
 0 autopilot.dz.optimizely.com
 0 authportal.optimizely.com
-0 beta.app.optimizely.com
-0 beta.optimizely.com
 0 build.client.optimizely.com
 0 cdn.optimizely.com
 0 cdn3.optimizely.com
@@ -4347,7 +4292,6 @@
 0 ebooks.localytics.com
 0 eng.localytics.com
 0 engage.localytics.com
-0 frontbeta.localytics.com
 0 go.localytics.com
 0 grader.localytics.com
 0 gw.localytics.com
@@ -5747,7 +5691,6 @@
 0 apidocs.gameanalytics.com
 0 api-eu.gameanalytics.com
 0 api-us.gameanalytics.com
-0 beta.gameanalytics.com
 0 cdn.gameanalytics.com
 0 cn.gameanalytics.com
 0 download.gameanalytics.com
@@ -5927,10 +5870,6 @@
 0 ads.tenmax.io
 0 ads-cdn.tenmax.io
 0 ads-media-cdn.tenmax.io
-0 beta-ads-media-cdn.tenmax.io
-0 beta-c.tenmax.io
-0 beta-rtb-public.tenmax.io
-0 beta-s.tenmax.io
 0 c.tenmax.io
 0 cdn.tenmax.io
 0 dmp.tenmax.io
@@ -6013,7 +5952,6 @@
 0 auth.adx1.com
 0 baike.adx1.com
 0 bbs.adx1.com
-0 beta.adx1.com
 0 btb.adx1.com
 0 bugzilla.adx1.com
 0 cart.adx1.com
@@ -6710,7 +6648,6 @@
 0 adhitzcom.adz2you.net
 0 android.adz2you.net
 0 www.adz2you.net
-0 beta-develop-kitchen.juicer.cc
 0 blank.juicer.cc
 0 dmp.juicer.cc
 0 faq.juicer.cc
@@ -6795,7 +6732,6 @@
 0 customerthink.advertserve.com
 0 cybertraff.advertserve.com
 0 dafabet.advertserve.com
-0 dafabetadmin.advertserve.com
 0 datavinci.advertserve.com
 0 dbcc.advertserve.com
 0 decks.advertserve.com
@@ -7277,7 +7213,6 @@
 0 www.bfmio.com
 0 adkernel.com
 0 analytics.adkernel.com
-0 beta.adkernel.com
 0 click-dsp.adkernel.com
 0 click-dsp-ams1.adkernel.com
 0 click-dsp-eu.adkernel.com
@@ -7470,7 +7405,6 @@
 0 tenmax-static.cacafly.net
 0 www.cacafly.net
 0 api.parsely.com
-0 beta.parsely.com
 0 c.parsely.com
 0 cdn.parsely.com
 0 clicks.parsely.com
@@ -7511,8 +7445,6 @@
 0 as-y-atwola-com.geo.adtechus.com
 0 atwola-sb-ec.adtechus.com
 0 atwola-sb-wc.adtechus.com
-0 bannertest.adtechus.com
-0 beta-adserver.adtechus.com
 0 cdn-cmp-advertising-com.geo.adtechus.com
 0 core.adtechus.com
 0 cstest.adtechus.com
@@ -9320,83 +9252,19 @@
 0 pv-tm.everesttech.net
 0 sync-tm.everesttech.net
 0 x.everesttech.net
-0 aalink.demandbase.com
-0 abm-certification.demandbase.com
-0 abmtech.demandbase.com
-0 account-selection-ui.demandbase.com
-0 adops.demandbase.com
 0 ai-personalization-prod-api.demandbase.com
 0 ai-personalization-prod-static.demandbase.com
 0 api.demandbase.com
-0 api.production.ireland.demandbase.com
-0 api.production.oregon.demandbase.com
-0 api.production.virginia.demandbase.com
-0 api-admin.demandbase.com
-0 api-dev.demandbase.com
-0 api-external-test.demandbase.com
-0 api-ssl.demandbase.com
-0 api-staging.demandbase.com
-0 app.demandbase.com
-0 app.response.demandbase.com
 0 autocomplete.demandbase.com
-0 autodiscover.demandbase.com
-0 auth.demandbase.com
-0 authentication.demandbase.com
-0 authentication-dev.demandbase.com
-0 authentication-staging.demandbase.com
-0 awsrodc.demandbase.com
-0 bi.demandbase.com
-0 content-library.demandbase.com
-0 conversion-channels.demandbase.com
-0 creative.demandbase.com
-0 db-slack-service.demandbase.com
 0 demandbase.com
-0 demandbase.demandbase.com
-0 demandblog.demandbase.com
-0 demos.demandbase.com
-0 dev.demandbase.com
-0 dsp.demandbase.com
-0 dsp-bidder-dev.demandbase.com
 0 dsp-creative.demandbase.com
-0 dsp-dev.demandbase.com
-0 dsp-prod.demandbase.com
-0 dsp-stg.demandbase.com
-0 fans.demandbase.com
-0 fingerprint.demandbase.com
-0 gdpr-dev.demandbase.com
-0 gdpr-prod.demandbase.com
-0 gdpr-stg.demandbase.com
-0 grafana.demandbase.com
-0 images.response.demandbase.com
-0 kuber.dsp-bidder-dev.demandbase.com
-0 lb.leads.demandbase.com
-0 leads.demandbase.com
-0 legacy.demandbase.com
-0 logo.demandbase.com
-0 logos.demandbase.com
-0 lookbookhq.demandbase.com
-0 marketing.demandbase.com
-0 performance.demandbase.com
+0 dsp.demandbase.com
 0 personalization.demandbase.com
-0 rancher-k8s.demandbase.com
-0 response.demandbase.com
-0 salesloft.demandbase.com
 0 scripts.demandbase.com
-0 secops.demandbase.com
-0 setup.demandbase.com
-0 spg.demandbase.com
-0 ssl.demandbase.com
-0 stage-www.demandbase.com
 0 staging.demandbase.com
-0 status.demandbase.com
 0 stg.demandbase.com
-0 support-beta.demandbase.com
 0 tag.demandbase.com
-0 tag-admin.demandbase.com
-0 training.demandbase.com
-0 vpnconnect-vap.demandbase.com
-0 watch.demandbase.com
-0 webassets.demandbase.com
+0 tracker.dsp.demandbase.com
 0 www.demandbase.com
 0 4q.iperceptions.com
 0 4qinvite.4q.iperceptions.com
@@ -9515,7 +9383,6 @@
 0 automation.playbuzz.com
 0 authorization.playbuzz.com
 0 aws.playbuzz.com
-0 beta.playbuzz.com
 0 branded-analytics-provider.playbuzz.com
 0 branded-elements-events.playbuzz.com
 0 business.playbuzz.com
@@ -9732,7 +9599,6 @@
 0 trk.indoleads.com
 0 trkdev.indoleads.com
 0 www.indoleads.com
-0 beta.bkrtx.com
 0 bkrtx.com
 0 origin.bkrtx.com
 0 tags.bkrtx.com
@@ -10174,7 +10040,6 @@
 0 gam-ad-unit-inspector.s-onetag.com
 0 get.s-onetag.com
 0 metrics-collector.s-onetag.com
-0 metrics-collector-beta.s-onetag.com
 0 metrics-collector-global-accelerator.s-onetag.com
 0 onetag-geo.s-onetag.com
 0 onetag-geo-grouping.s-onetag.com
@@ -13087,8 +12952,6 @@
 0 b.logging.admicro.vn
 0 banners.admicro.vn
 0 benk.logging.admicro.vn
-0 beta.admicro.vn
-0 beta.sspapi.admicro.vn
 0 bi.admicro.vn
 0 boxapp.admicro.vn
 0 boxpr.admicro.vn
@@ -13637,7 +13500,6 @@
 0 smartlink.adpia.vn
 0 uptime.adpia.vn
 0 www.adpia.vn
-0 beta.younetmedia.com
 0 digital.younetmedia.com
 0 facebookid.younetmedia.com
 0 gandalf.younetmedia.com
@@ -13756,8 +13618,6 @@
 0 www.adsota.com
 0 api.app.masoffer.net
 0 app.masoffer.net
-0 beta-go.masoffer.net
-0 beta.go.masoffer.net
 0 cdn.masoffer.net
 0 img.masoffer.net
 0 m.masoffer.net
@@ -14182,7 +14042,6 @@
 0 www.clickbuy.bz
 0 api-internal.oncustomer.asia
 0 app.oncustomer.asia
-0 beta.oncustomer.asia
 0 company.oncustomer.asia
 0 hook.oncustomer.asia
 0 livechat.oncustomer.asia
@@ -14194,7 +14053,6 @@
 0 widget.oncustomer.asia
 0 widget-1.oncustomer.asia
 0 widget-2.oncustomer.asia
-0 widget-beta.oncustomer.asia
 0 adv.pushtimize.com
 0 cdn01.pushtimize.com
 0 feed.pushtimize.com
@@ -14545,9 +14403,7 @@
 0 ad-srv.net
 0 ad-tech.com
 0 ad-up.com
-0 ad.100.tbn.ru
 0 ad.103092804.com
-0 ad.71i.de
 0 ad.980x.com
 0 ad.abcnews.com
 0 ad.abctv.com
@@ -14895,7 +14751,6 @@
 0 ads.casumoaffiliates.com
 0 ads.cbc.ca
 0 ads.cc
-0 ads.cc-dt.com
 0 ads.cdn.rovio.com
 0 ads.centraliprom.com
 0 ads.channel4.com
@@ -15167,13 +15022,11 @@
 0 adserve.ams.rhythmxchange.com
 0 adserver-e7.com
 0 adserver.43plc.com
-0 adserver.71i.de
 0 adserver.adultfriendfinder.com
 0 adserver.aidameter.com
 0 adserver.aol.fr
 0 adserver.barrapunto.com
 0 adserver.beggarspromo.com
-0 adserver.betandwin.de
 0 adserver.bizhat.com
 0 adserver.break-even.it
 0 adserver.cams.com
@@ -15652,7 +15505,6 @@
 0 bestboundary.com
 0 bestcond1tions.com
 0 bestsearch.net
-0 beta.ads.cc
 0 bewilderedblade.com
 0 bhclicks.com
 0 bhcumsc.com
@@ -17642,7 +17494,6 @@
 0 sync.vmweb.net
 0 syndicate.purch.com
 0 syyycc.com
-0 t.ads.cc
 0 t.insigit.com
 0 t.myvisualiq.net
 0 t7z.cupid.iqiyi.com
@@ -18303,6 +18154,7 @@
 0 geoip.maxmind.com
 0 geoip.nekudo.com
 0 geoip.tnt-ea.com
+0 geolocation.onetrust.com
 0 getexceptional.com
 0 glanceguide.com
 0 globalwebindex.net
@@ -18384,6 +18236,7 @@
 0 p.typekit.net
 0 pebed.dm.gg
 0 pegloang.com
+0 pi.pardot.com
 0 pipedream.wistia.com
 0 pix.spot.im
 0 pixel.nc0.co

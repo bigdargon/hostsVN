@@ -273,6 +273,8 @@ bat.bing.com
 batch.com
 batmobi.net
 bazaarvoice.com
+beacon-1.newrelic.com
+beacon-3.newrelic.com
 beacon.qq.com
 beacons*.gvt2.com
 beacons*.gvt3.com
@@ -358,6 +360,7 @@ cnt.my
 cnzz.com
 collection-*.herokuapp.com
 collective-media.net
+collector.newrelic.com
 commerce.adobedtm.com
 connatix.com
 connect.adobedtm.com
@@ -528,6 +531,7 @@ innity.com
 innity.net
 insight.ucweb.com
 insightexpressai.com
+insights-collector.newrelic.com
 inspectlet.com
 instant.page
 instapage.com
@@ -545,6 +549,7 @@ jads.co
 jetlore.com
 jpush.cn
 jpush.io
+js-agent.newrelic.com
 jscount.com
 jsecoin.com
 juicer.cc
@@ -609,6 +614,7 @@ medialytics.com
 mediarithmics.com
 mediawayss.com
 meter-svc.nytimes.com
+metric-api.newrelic.com
 metrics.cnn.com
 mgid.com
 miaozhen.com
@@ -625,6 +631,9 @@ mmstat.com
 moatads.com
 mobclix.com
 mobfox.com
+mobile-collector.newrelic.com
+mobile-crash-origin.newrelic.com
+mobile-crash.newrelic.com
 mobile.pipe.aria.microsoft.com
 mobileads.msn.com
 mobileanalytics.*.amazonaws.com
@@ -832,6 +841,7 @@ ss2.us
 ssl-google-analytics.l.google.com
 sslproxy-prod.adobedtm.com
 sstats.adobe.com
+staging-insights-collector.newrelic.com
 starbolt.io
 startappservice.com
 stat-rock.com
@@ -1014,9 +1024,7 @@ ad-specs.guoshipartners.com
 ad-srv.net
 ad-tech.com
 ad-up.com
-ad.100.tbn.ru
 ad.103092804.com
-ad.71i.de
 ad.980x.com
 ad.a8.net
 ad.abcnews.com
@@ -1366,7 +1374,6 @@ ads.casinocity.com
 ads.casumoaffiliates.com
 ads.cbc.ca
 ads.cc
-ads.cc-dt.com
 ads.cdn.rovio.com
 ads.centraliprom.com
 ads.channel4.com
@@ -1638,13 +1645,11 @@ adsensecustomsearchads.com
 adserve.ams.rhythmxchange.com
 adserver-e7.com
 adserver.43plc.com
-adserver.71i.de
 adserver.adultfriendfinder.com
 adserver.aidameter.com
 adserver.aol.fr
 adserver.barrapunto.com
 adserver.beggarspromo.com
-adserver.betandwin.de
 adserver.bizhat.com
 adserver.break-even.it
 adserver.cams.com
@@ -2123,7 +2128,6 @@ bestadbid.com
 bestboundary.com
 bestcond1tions.com
 bestsearch.net
-beta.ads.cc
 bewilderedblade.com
 bhclicks.com
 bhcumsc.com
@@ -4117,7 +4121,6 @@ sx.trhnt.com
 sync.vmweb.net
 syndicate.purch.com
 syyycc.com
-t.ads.cc
 t.insigit.com
 t.myvisualiq.net
 t7z.cupid.iqiyi.com
@@ -4699,6 +4702,7 @@ ga.kvideo.io
 geoip.maxmind.com
 geoip.nekudo.com
 geoip.tnt-ea.com
+geolocation.onetrust.com
 getexceptional.com
 glanceguide.com
 globalwebindex.net
@@ -4780,6 +4784,7 @@ ophan.theguardian.com
 p.typekit.net
 pebed.dm.gg
 pegloang.com
+pi.pardot.com
 pipedream.wistia.com
 pix.spot.im
 pixel.nc0.co

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 03 Nov 2020 11:58 UTC+7
-! Version: 2011031158
-! Blocked: 5,497 rules
+! Last modified: 09 Nov 2020 10:05 UTC+7
+! Version: 2011091005
+! Blocked: 5,502 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -812,6 +812,8 @@
 ||batch.com^
 ||batmobi.net^
 ||bazaarvoice.com^
+||beacon-1.newrelic.com^
+||beacon-3.newrelic.com^
 ||beacon.qq.com^
 ||beacons*.gvt2.com^
 ||beacons*.gvt3.com^
@@ -897,6 +899,7 @@
 ||cnzz.com^
 ||collection-*.herokuapp.com^
 ||collective-media.net^
+||collector.newrelic.com^
 ||commerce.adobedtm.com^
 ||connatix.com^
 ||connect.adobedtm.com^
@@ -1067,6 +1070,7 @@
 ||innity.net^
 ||insight.ucweb.com^
 ||insightexpressai.com^
+||insights-collector.newrelic.com^
 ||inspectlet.com^
 ||instant.page^
 ||instapage.com^
@@ -1084,6 +1088,7 @@
 ||jetlore.com^
 ||jpush.cn^
 ||jpush.io^
+||js-agent.newrelic.com^
 ||jscount.com^
 ||jsecoin.com^
 ||juicer.cc^
@@ -1148,6 +1153,7 @@
 ||mediarithmics.com^
 ||mediawayss.com^
 ||meter-svc.nytimes.com^
+||metric-api.newrelic.com^
 ||metrics.cnn.com^
 ||mgid.com^
 ||miaozhen.com^
@@ -1164,6 +1170,9 @@
 ||moatads.com^
 ||mobclix.com^
 ||mobfox.com^
+||mobile-collector.newrelic.com^
+||mobile-crash-origin.newrelic.com^
+||mobile-crash.newrelic.com^
 ||mobile.pipe.aria.microsoft.com^
 ||mobileads.msn.com^
 ||mobileanalytics.*.amazonaws.com^
@@ -1371,6 +1380,7 @@
 ||ssl-google-analytics.l.google.com^
 ||sslproxy-prod.adobedtm.com^
 ||sstats.adobe.com^
+||staging-insights-collector.newrelic.com^
 ||starbolt.io^
 ||startappservice.com^
 ||stat-rock.com^
@@ -1550,9 +1560,7 @@
 ||ad-srv.net^
 ||ad-tech.com^
 ||ad-up.com^
-||ad.100.tbn.ru^
 ||ad.103092804.com^
-||ad.71i.de^
 ||ad.980x.com^
 ||ad.a8.net^
 ||ad.abcnews.com^
@@ -1902,7 +1910,6 @@
 ||ads.casumoaffiliates.com^
 ||ads.cbc.ca^
 ||ads.cc^
-||ads.cc-dt.com^
 ||ads.cdn.rovio.com^
 ||ads.centraliprom.com^
 ||ads.channel4.com^
@@ -2174,13 +2181,11 @@
 ||adserve.ams.rhythmxchange.com^
 ||adserver-e7.com^
 ||adserver.43plc.com^
-||adserver.71i.de^
 ||adserver.adultfriendfinder.com^
 ||adserver.aidameter.com^
 ||adserver.aol.fr^
 ||adserver.barrapunto.com^
 ||adserver.beggarspromo.com^
-||adserver.betandwin.de^
 ||adserver.bizhat.com^
 ||adserver.break-even.it^
 ||adserver.cams.com^
@@ -2659,7 +2664,6 @@
 ||bestboundary.com^
 ||bestcond1tions.com^
 ||bestsearch.net^
-||beta.ads.cc^
 ||bewilderedblade.com^
 ||bhclicks.com^
 ||bhcumsc.com^
@@ -4653,7 +4657,6 @@
 ||sync.vmweb.net^
 ||syndicate.purch.com^
 ||syyycc.com^
-||t.ads.cc^
 ||t.insigit.com^
 ||t.myvisualiq.net^
 ||t7z.cupid.iqiyi.com^
@@ -5232,6 +5235,7 @@
 ||geoip.maxmind.com^
 ||geoip.nekudo.com^
 ||geoip.tnt-ea.com^
+||geolocation.onetrust.com^
 ||getexceptional.com^
 ||glanceguide.com^
 ||globalwebindex.net^
@@ -5313,6 +5317,7 @@
 ||p.typekit.net^
 ||pebed.dm.gg^
 ||pegloang.com^
+||pi.pardot.com^
 ||pipedream.wistia.com^
 ||pix.spot.im^
 ||pixel.nc0.co^
