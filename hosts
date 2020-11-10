@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Nov 2020 10:11 UTC+7
-# Version: 2011101011
-# Blocked: 18,444 domains
+# Last modified: 10 Nov 2020 14:07 UTC+7
+# Version: 2011101407
+# Blocked: 18,445 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -19026,6 +19026,7 @@
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cognitivlabs.com
+0.0.0.0 collect.igodigital.com
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 comscoreresearch.com
 0.0.0.0 cookieinfoscript.com
