@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Nov 2020 09:49 UTC+7
-# Version: 2011100949
-# Blocked: 18,442 domains
+# Last modified: 10 Nov 2020 10:11 UTC+7
+# Version: 2011101011
+# Blocked: 18,444 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4470,7 +4470,9 @@
 0 res.mmstat.com
 0 wgo.mmstat.com
 0 yt.mmstat.com
+0 ali-stats.jpush.cn
 0 api.jpush.cn
+0 gd-stats.jpush.cn
 0 im.jpush.cn
 0 im64.jpush.cn
 0 s.jpush.cn
