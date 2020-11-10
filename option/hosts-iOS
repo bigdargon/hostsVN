@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Nov 2020 10:05 UTC+7
-# Version: 2011091005
-# Blocked: 18,446 domains
+# Last modified: 10 Nov 2020 09:49 UTC+7
+# Version: 2011100949
+# Blocked: 18,442 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4470,10 +4470,12 @@
 0 res.mmstat.com
 0 wgo.mmstat.com
 0 yt.mmstat.com
+0 api.jpush.cn
 0 im.jpush.cn
 0 im64.jpush.cn
 0 s.jpush.cn
 0 stats.jpush.cn
+0 tsis.jpush.cn
 0 user.jpush.cn
 0 www.jpush.cn
 0 jpush.io
@@ -4486,27 +4488,6 @@
 0 dev.piano.io
 0 ew-demo.piano.io
 0 prod-docs.piano.io
-0 tinypass.com
-0 qa0.tinypass.com
-0 qa1.tinypass.com
-0 api-v3.tinypass.com
-0 id.tinypass.com
-0 experience.tinypass.com
-0 code.tinypass.com
-0 api.tinypass.com
-0 cdn.tinypass.com
-0 publisher.tinypass.com
-0 developer.tinypass.com
-0 fonts.tinypass.com
-0 market.tinypass.com
-0 www.tinypass.com
-0 sandbox.tinypass.com
-0 play.tinypass.com
-0 buy.tinypass.com
-0 sw.tinypass.com
-0 dev.tinypass.com
-0 ew-demo.tinypass.com
-0 github.tinypass.com
 0 d3.condenast.servedbyopenx.com
 0 d3.demo.servedbyopenx.com
 0 delivery-asia-northeast-1.servedbyopenx.com
@@ -12880,6 +12861,49 @@
 0 staging.luckyorange.com
 0 w1.luckyorange.com
 0 www.luckyorange.com
+0 api16-access-sg.pangle.io
+0 api16-access-va.pangle.io
+0 api16-endcard-pack-sg.pangle.io
+0 api16-log-sg.pangle.io
+0 pangle.io
+0 applog.tiktokv.com
+0 log-va.tiktokv.com
+0 log.tiktokv.com
+0 mon-va.tiktokv.com
+0 mon.tiktokv.com
+0 rtlog.tiktokv.com
+0 xlog-va.tiktokv.com
+0 xlog.tiktokv.com
+0 log.byteoversea.com
+0 log15.byteoversea.com
+0 log16.byteoversea.com
+0 mon-va.byteoversea.com
+0 mon.byteoversea.com
+0 rtlog.byteoversea.com
+0 v16-ad.byteoversea.com
+0 xlog-va.byteoversea.com
+0 xlog.byteoversea.com
+0 applog.musical.ly
+0 log.musical.ly
+0 log2.musical.ly
+0 mon.musical.ly
+0 rtlog.musical.ly
+0 client_monitor.isnssdk.com
+0 clientmonitor.isnssdk.com
+0 ichannel.isnssdk.com
+0 mon.isnssdk.com
+0 monitor.isnssdk.com
+0 rtlog.isnssdk.com
+0 ichannel.snssdk.com
+0 log-hl.snssdk.com
+0 log-lq.snssdk.com
+0 log.snssdk.com
+0 mon-hl.snssdk.com
+0 mon.snssdk.com
+0 rtlog.snssdk.com
+0 xlog.snssdk.com
+0 log3-misc-hl.amemv.com
+0 log3-misc-lq.amemv.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -18362,6 +18386,7 @@
 0 wt.soundestlink.com
 0 www.ethtrader.de
 0 www.everestjs.net
+0 www.fastly-insights.com
 0 www.hitcpm.com
 0 www.hypestat.com
 0 www.montacarichi.it
@@ -18431,32 +18456,3 @@
 0 track.appsflyer.com
 0 validate.appsflyer.com
 0 wa.appsflyer.com
-0 applog.tiktokv.com
-0 log-va.tiktokv.com
-0 log.tiktokv.com
-0 mon-va.tiktokv.com
-0 mon.tiktokv.com
-0 rtlog.tiktokv.com
-0 xlog-va.tiktokv.com
-0 xlog.tiktokv.com
-0 log.byteoversea.com
-0 log15.byteoversea.com
-0 log16.byteoversea.com
-0 mon-va.byteoversea.com
-0 mon.byteoversea.com
-0 rtlog.byteoversea.com
-0 xlog-va.byteoversea.com
-0 xlog.byteoversea.com
-0 applog.musical.ly
-0 log.musical.ly
-0 log2.musical.ly
-0 mon.musical.ly
-0 rtlog.musical.ly
-0 client_monitor.isnssdk.com
-0 clientmonitor.isnssdk.com
-0 mon.isnssdk.com
-0 monitor.isnssdk.com
-0 rtlog.isnssdk.com
-0 log-lq.snssdk.com
-0 log.snssdk.com
-0 mon.snssdk.com

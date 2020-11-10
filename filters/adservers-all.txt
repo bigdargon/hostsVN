@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Nov 2020 10:05 UTC+7
-! Version: 2011091005
-! Blocked: 5,502 rules
+! Last modified: 10 Nov 2020 09:49 UTC+7
+! Version: 2011100949
+! Blocked: 5,504 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -767,6 +767,8 @@
 ||appearch.info^
 ||applifier.com^
 ||applifier.info^
+||applog.musical.ly^
+||applog.tiktokv.com^
 ||applog.uc.cn^
 ||applogios.uc.cn^
 ||applogy.com^
@@ -889,7 +891,9 @@
 ||clicksor.com^
 ||clicktale.net^
 ||client-event-reporter.twitch.tv^
+||client_monitor.isnssdk.com^
 ||clientmetrics-pa.googleapis.com^
+||clientmonitor.isnssdk.com^
 ||clksite.com^
 ||clog.go.com^
 ||cloud.unity3d.com^
@@ -1050,6 +1054,8 @@
 ||iadsdk.apple.com^
 ||iap.unity3d.com^
 ||ibillboard.com^
+||ichannel.isnssdk.com^
+||ichannel.snssdk.com^
 ||id5-sync.com^
 ||iesnare.com^
 ||igexin.com^
@@ -1119,8 +1125,20 @@
 ||livefyre.com^
 ||lkqd.net^
 ||localytics.com^
+||log-hl.snssdk.com^
+||log-lq.snssdk.com^
+||log-va.tiktokv.com^
+||log.byteoversea.com^
 ||log.go.com^
+||log.musical.ly^
+||log.snssdk.com^
 ||log.spotify.com^
+||log.tiktokv.com^
+||log15.byteoversea.com^
+||log16.byteoversea.com^
+||log2.musical.ly^
+||log3-misc-hl.amemv.com^
+||log3-misc-lq.amemv.com^
 ||loggly.com^
 ||logly.co.jp^
 ||logrocket.com^
@@ -1183,8 +1201,17 @@
 ||mocean.mobi^
 ||moengage.com^
 ||mojiva.com^
+||mon-hl.snssdk.com^
+||mon-va.byteoversea.com^
+||mon-va.tiktokv.com^
+||mon.byteoversea.com^
+||mon.isnssdk.com^
+||mon.musical.ly^
+||mon.snssdk.com^
+||mon.tiktokv.com^
 ||monetiza.co^
 ||monetize.com^
+||monitor.isnssdk.com^
 ||mookie1.com^
 ||mopub.com^
 ||mouseflow.com^
@@ -1241,6 +1268,7 @@
 ||outbrain.com^
 ||outbrainimg.com^
 ||pagead*.l.google.com^
+||pangle.io^
 ||parrable.com^
 ||parsely.com^
 ||partnerad.l.google.com^
@@ -1320,6 +1348,11 @@
 ||rmtag.com^
 ||rosenberg.appmetrica.yandex.net^
 ||rtbid.me^
+||rtlog.byteoversea.com^
+||rtlog.isnssdk.com^
+||rtlog.musical.ly^
+||rtlog.snssdk.com^
+||rtlog.tiktokv.com^
 ||rtmark.net^
 ||rubiconproject.com^
 ||run-syndicate.com^
@@ -1407,7 +1440,6 @@
 ||telemetry.microsoft.com^
 ||tenmax.io^
 ||themoneytizer.com^
-||tinypass.com^
 ||toast.com^
 ||toponad.com^
 ||tr.snapchat.com^
@@ -1442,6 +1474,7 @@
 ||urekamedia.com^
 ||useinsider.com^
 ||uttclimber.com^
+||v16-ad.byteoversea.com^
 ||vdo.ai^
 ||vdopia.com^
 ||vev77.com^
@@ -1477,6 +1510,11 @@
 ||wywy.com^
 ||wywyuserservice.com^
 ||xapads.com^
+||xlog-va.byteoversea.com^
+||xlog-va.tiktokv.com^
+||xlog.byteoversea.com^
+||xlog.snssdk.com^
+||xlog.tiktokv.com^
 ||xmlppcbuzz.com^
 ||xslt.alexa.com^
 ||yadro.ru^
@@ -5469,42 +5507,6 @@
 ||zhangtom1989.cn^
 ||connect.facebook.net^
 ||appsflyer.com^
-||applog.tiktokv.com^
-||log-va.tiktokv.com^
-||log.tiktokv.com^
-||mon-va.tiktokv.com^
-||mon.tiktokv.com^
-||rtlog.tiktokv.com^
-||xlog-va.tiktokv.com^
-||xlog.tiktokv.com^
-||log.byteoversea.com^
-||log15.byteoversea.com^
-||log16.byteoversea.com^
-||mon-va.byteoversea.com^
-||mon.byteoversea.com^
-||rtlog.byteoversea.com^
-||xlog-va.byteoversea.com^
-||xlog.byteoversea.com^
-||applog.musical.ly^
-||log.musical.ly^
-||log2.musical.ly^
-||mon.musical.ly^
-||rtlog.musical.ly^
-||client_monitor.isnssdk.com^
-||clientmonitor.isnssdk.com^
-||ichannel.isnssdk.com^
-||mon.isnssdk.com^
-||monitor.isnssdk.com^
-||rtlog.isnssdk.com^
-||ichannel.snssdk.com^
-||log-hl.snssdk.com^
-||log-lq.snssdk.com^
-||log.snssdk.com^
-||mon.snssdk.com^
-||rtlog.snssdk.com^
-||xlog.snssdk.com^
-||log3-misc-hl.amemv.com^
-||log3-misc-lq.amemv.com^
 ||dig.bdurl.net^
 ||dig.zjurl.cn^
 @@||app.appsflyer.com^|

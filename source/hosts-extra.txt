@@ -28,37 +28,3 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 wa.appsflyer.com
-#[tiktokv.com]
-0.0.0.0 applog.tiktokv.com
-0.0.0.0 log-va.tiktokv.com
-0.0.0.0 log.tiktokv.com
-0.0.0.0 mon-va.tiktokv.com
-0.0.0.0 mon.tiktokv.com
-0.0.0.0 rtlog.tiktokv.com
-0.0.0.0 xlog-va.tiktokv.com
-0.0.0.0 xlog.tiktokv.com
-#[byteoversea.com]
-0.0.0.0 log.byteoversea.com
-0.0.0.0 log15.byteoversea.com
-0.0.0.0 log16.byteoversea.com
-0.0.0.0 mon-va.byteoversea.com
-0.0.0.0 mon.byteoversea.com
-0.0.0.0 rtlog.byteoversea.com
-0.0.0.0 xlog-va.byteoversea.com
-0.0.0.0 xlog.byteoversea.com
-#[musical.ly]
-0.0.0.0 applog.musical.ly
-0.0.0.0 log.musical.ly
-0.0.0.0 log2.musical.ly
-0.0.0.0 mon.musical.ly
-0.0.0.0 rtlog.musical.ly
-#[isnssdk.com]
-0.0.0.0 client_monitor.isnssdk.com
-0.0.0.0 clientmonitor.isnssdk.com
-0.0.0.0 mon.isnssdk.com
-0.0.0.0 monitor.isnssdk.com
-0.0.0.0 rtlog.isnssdk.com
-#[snssdk.com]
-0.0.0.0 log-lq.snssdk.com
-0.0.0.0 log.snssdk.com
-0.0.0.0 mon.snssdk.com

@@ -4689,13 +4689,16 @@
 0.0.0.0 res.mmstat.com
 0.0.0.0 wgo.mmstat.com
 0.0.0.0 yt.mmstat.com
-#[jpush]
+#[jpush.cn]
+0.0.0.0 api.jpush.cn
 0.0.0.0 im.jpush.cn
 0.0.0.0 im64.jpush.cn
 0.0.0.0 s.jpush.cn
 0.0.0.0 stats.jpush.cn
+0.0.0.0 tsis.jpush.cn
 0.0.0.0 user.jpush.cn
 0.0.0.0 www.jpush.cn
+#[jpush.io]
 0.0.0.0 jpush.io
 0.0.0.0 sis.jpush.io
 0.0.0.0 www.jpush.io
@@ -4707,28 +4710,6 @@
 0.0.0.0 dev.piano.io
 0.0.0.0 ew-demo.piano.io
 0.0.0.0 prod-docs.piano.io
-#[tinypass]
-0.0.0.0 tinypass.com
-0.0.0.0 qa0.tinypass.com
-0.0.0.0 qa1.tinypass.com
-0.0.0.0 api-v3.tinypass.com
-0.0.0.0 id.tinypass.com
-0.0.0.0 experience.tinypass.com
-0.0.0.0 code.tinypass.com
-0.0.0.0 api.tinypass.com
-0.0.0.0 cdn.tinypass.com
-0.0.0.0 publisher.tinypass.com
-0.0.0.0 developer.tinypass.com
-0.0.0.0 fonts.tinypass.com
-0.0.0.0 market.tinypass.com
-0.0.0.0 www.tinypass.com
-0.0.0.0 sandbox.tinypass.com
-0.0.0.0 play.tinypass.com
-0.0.0.0 buy.tinypass.com
-0.0.0.0 sw.tinypass.com
-0.0.0.0 dev.tinypass.com
-0.0.0.0 ew-demo.tinypass.com
-0.0.0.0 github.tinypass.com
 #[servedbyopenx]
 0.0.0.0 d3.condenast.servedbyopenx.com
 0.0.0.0 d3.demo.servedbyopenx.com
@@ -13642,3 +13623,53 @@
 0.0.0.0 staging.luckyorange.com
 0.0.0.0 w1.luckyorange.com
 0.0.0.0 www.luckyorange.com
+#[pangle.io]
+0.0.0.0 api16-access-sg.pangle.io
+0.0.0.0 api16-access-va.pangle.io
+0.0.0.0 api16-endcard-pack-sg.pangle.io
+0.0.0.0 api16-log-sg.pangle.io
+0.0.0.0 pangle.io
+#[tiktokv.com]
+0.0.0.0 applog.tiktokv.com
+0.0.0.0 log-va.tiktokv.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 mon-va.tiktokv.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 rtlog.tiktokv.com
+0.0.0.0 xlog-va.tiktokv.com
+0.0.0.0 xlog.tiktokv.com
+#[byteoversea.com]
+0.0.0.0 log.byteoversea.com
+0.0.0.0 log15.byteoversea.com
+0.0.0.0 log16.byteoversea.com
+0.0.0.0 mon-va.byteoversea.com
+0.0.0.0 mon.byteoversea.com
+0.0.0.0 rtlog.byteoversea.com
+0.0.0.0 v16-ad.byteoversea.com
+0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 xlog.byteoversea.com
+#[musical.ly]
+0.0.0.0 applog.musical.ly
+0.0.0.0 log.musical.ly
+0.0.0.0 log2.musical.ly
+0.0.0.0 mon.musical.ly
+0.0.0.0 rtlog.musical.ly
+#[isnssdk.com]
+0.0.0.0 client_monitor.isnssdk.com
+0.0.0.0 clientmonitor.isnssdk.com
+0.0.0.0 ichannel.isnssdk.com
+0.0.0.0 mon.isnssdk.com
+0.0.0.0 monitor.isnssdk.com
+0.0.0.0 rtlog.isnssdk.com
+#[snssdk.com]
+0.0.0.0 ichannel.snssdk.com
+0.0.0.0 log-hl.snssdk.com
+0.0.0.0 log-lq.snssdk.com
+0.0.0.0 log.snssdk.com
+0.0.0.0 mon-hl.snssdk.com
+0.0.0.0 mon.snssdk.com
+0.0.0.0 rtlog.snssdk.com
+0.0.0.0 xlog.snssdk.com
+#[amemv.com]
+0.0.0.0 log3-misc-hl.amemv.com
+0.0.0.0 log3-misc-lq.amemv.com
