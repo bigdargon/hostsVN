@@ -3176,7 +3176,6 @@
 0.0.0.0 www.chartbeat.com
 #[chartbeat.net]
 0.0.0.0 adping.chartbeat.net
-0.0.0.0 art.oakvillemotors.comping.chartbeat.net
 0.0.0.0 automation.chartbeat.net
 0.0.0.0 comping.chartbeat.net
 0.0.0.0 chartbeat.net
@@ -7847,11 +7846,6 @@
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s2-test.go-mpulse.net
 0.0.0.0 s2.go-mpulse.net
-#[ss2.us]
-0.0.0.0 o.ss2.us
-0.0.0.0 s.ss2.us
-0.0.0.0 ss2.us
-0.0.0.0 x.ss2.us
 #[remarketingpixel.com]
 0.0.0.0 cdn.remarketingpixel.com
 0.0.0.0 r.remarketingpixel.com
