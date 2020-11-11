@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Nov 2020 14:07 UTC+7
-# Version: 2011101407
-# Blocked: 18,445 domains
+# Last modified: 11 Nov 2020 21:26 UTC+7
+# Version: 2011112126
+# Blocked: 18,406 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -191,6 +191,9 @@
 0.0.0.0 pagead.l.google.com
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 static-doubleclick-net.l.google.com
+0.0.0.0 contributor.google.com
+0.0.0.0 fundingchoices.google.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 ad.youtube.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.gmodules.com
@@ -2771,51 +2774,6 @@
 0.0.0.0 wf.taboola.com
 0.0.0.0 workshops.taboola.com
 0.0.0.0 www.taboola.com
-#[casalemedia.com]
-0.0.0.0 amp.casalemedia.com
-0.0.0.0 api01.casalemedia.com
-0.0.0.0 as.casalemedia.com
-0.0.0.0 as-sec.casalemedia.com
-0.0.0.0 b.casalemedia.com
-0.0.0.0 c.casalemedia.com
-0.0.0.0 casalemedia.com
-0.0.0.0 dl11.casalemedia.com
-0.0.0.0 dn03.casalemedia.com
-0.0.0.0 dn14.casalemedia.com
-0.0.0.0 dsum.casalemedia.com
-0.0.0.0 dsum-sec.casalemedia.com
-0.0.0.0 ebda-us-east.casalemedia.com
-0.0.0.0 ebda-us-west.casalemedia.com
-0.0.0.0 fwcs01.casalemedia.com
-0.0.0.0 gui01.casalemedia.com
-0.0.0.0 hr.casalemedia.com
-0.0.0.0 ht.casalemedia.com
-0.0.0.0 htlb.casalemedia.com
-0.0.0.0 ht-lb.casalemedia.com
-0.0.0.0 ht-lb-sec.casalemedia.com
-0.0.0.0 i.casalemedia.com
-0.0.0.0 img.casalemedia.com
-0.0.0.0 instream.casalemedia.com
-0.0.0.0 ip.casalemedia.com
-0.0.0.0 ip2.casalemedia.com
-0.0.0.0 ip-sec.casalemedia.com
-0.0.0.0 is.casalemedia.com
-0.0.0.0 isg01.casalemedia.com
-0.0.0.0 js.casalemedia.com
-0.0.0.0 js-sec.casalemedia.com
-0.0.0.0 net-tr.casalemedia.com
-0.0.0.0 outstream.casalemedia.com
-0.0.0.0 pulse.casalemedia.com
-0.0.0.0 r.casalemedia.com
-0.0.0.0 r-sec.casalemedia.com
-0.0.0.0 r-ssl.casalemedia.com
-0.0.0.0 san.casalemedia.com
-0.0.0.0 sdk.casalemedia.com
-0.0.0.0 ssum.casalemedia.com
-0.0.0.0 ssum-sec.casalemedia.com
-0.0.0.0 system.casalemedia.com
-0.0.0.0 woobi-eu.casalemedia.com
-0.0.0.0 www.casalemedia.com
 #[crwdcntrl]
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ag.tags.crwdcntrl.net
@@ -3188,7 +3146,6 @@
 0.0.0.0 www.chartbeat.com
 #[chartbeat.net]
 0.0.0.0 adping.chartbeat.net
-0.0.0.0 art.oakvillemotors.comping.chartbeat.net
 0.0.0.0 automation.chartbeat.net
 0.0.0.0 comping.chartbeat.net
 0.0.0.0 chartbeat.net
@@ -3215,51 +3172,44 @@
 0.0.0.0 portal.clickagy.com
 0.0.0.0 www.clickagy.com
 #[sharethrough]
-0.0.0.0 apis.sharethrough.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-acceptance.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 asap.sharethrough.com
+0.0.0.0 assets-acceptance.sharethrough.com
+0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets.sharethrough.com
 0.0.0.0 assets.staging.sharethrough.com
-0.0.0.0 assets-acceptance.sharethrough.com
-0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 b.sharethrough.com
+0.0.0.0 btlr-ecs-ap-southeast-1.sharethrough.com
+0.0.0.0 btlr-ecs-us-west-1.sharethrough.com
 0.0.0.0 btlr.sharethrough.com
-0.0.0.0 content.sharethrough.com
 0.0.0.0 content-acceptance.sharethrough.com
 0.0.0.0 content-staging.sharethrough.com
+0.0.0.0 content.sharethrough.com
 0.0.0.0 creatives.acceptance.sharethrough.com
 0.0.0.0 creatives.sharethrough.com
 0.0.0.0 creatives.staging.sharethrough.com
-0.0.0.0 developers.sharethrough.com
-0.0.0.0 files.sharethrough.com
 0.0.0.0 iframe.sharethrough.com
 0.0.0.0 integration.sharethrough.com
-0.0.0.0 manage.sharethrough.com
-0.0.0.0 match.sharethrough.com
 0.0.0.0 match-us-east-1.sharethrough.com
+0.0.0.0 match.sharethrough.com
 0.0.0.0 media.sharethrough.com
 0.0.0.0 mstr.sharethrough.com
-0.0.0.0 native.sharethrough.com
 0.0.0.0 native-staging.sharethrough.com
+0.0.0.0 native.sharethrough.com
 0.0.0.0 pc.sharethrough.com
-0.0.0.0 preview.sharethrough.com
-0.0.0.0 publisher-demos.sharethrough.com
+0.0.0.0 platform-cdn.sharethrough.com
+0.0.0.0 sdk.sharethrough.com
 0.0.0.0 sharethrough.com
 0.0.0.0 snowforce.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
-0.0.0.0 static-acceptance.sharethrough.com
-0.0.0.0 static-staging.sharethrough.com
-0.0.0.0 templates.sharethrough.com
-0.0.0.0 videos.acceptance.sharethrough.com
-0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos.staging.sharethrough.com
-0.0.0.0 videos-acceptance.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 www.sharethrough.com
 #[bazaarvoice]
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
@@ -7859,11 +7809,6 @@
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s2-test.go-mpulse.net
 0.0.0.0 s2.go-mpulse.net
-#[ss2.us]
-0.0.0.0 o.ss2.us
-0.0.0.0 s.ss2.us
-0.0.0.0 ss2.us
-0.0.0.0 x.ss2.us
 #[remarketingpixel.com]
 0.0.0.0 cdn.remarketingpixel.com
 0.0.0.0 r.remarketingpixel.com
@@ -11677,18 +11622,13 @@
 0.0.0.0 agkn.com
 0.0.0.0 d.agkn.com
 0.0.0.0 data.agkn.com
-0.0.0.0 distro.agkn.com
-0.0.0.0 expn.agkn.com
 0.0.0.0 g.agkn.com
 0.0.0.0 js.agkn.com
 0.0.0.0 m.agkn.com
-0.0.0.0 main.js.agkn.com
-0.0.0.0 management-api.agkn.com
-0.0.0.0 m-tomorrow.agkn.com
-0.0.0.0 mver.agkn.com
 0.0.0.0 pbbl.agkn.com
 0.0.0.0 pixel.agkn.com
 0.0.0.0 static.agkn.com
+0.0.0.0 tmfpeast-elb.agkn.com
 0.0.0.0 www.agkn.com
 #[partnershipsprogram.com]
 0.0.0.0 partnershipsprogram.com
@@ -13687,6 +13627,27 @@
 #[amemv.com]
 0.0.0.0 log3-misc-hl.amemv.com
 0.0.0.0 log3-misc-lq.amemv.com
+#[snigelweb.com]
+0.0.0.0 adengine.snigelweb.com
+0.0.0.0 cdn.snigelweb.com
+0.0.0.0 geo-eu.snigelweb.com
+0.0.0.0 geo-us.snigelweb.com
+0.0.0.0 snigelweb.com
+0.0.0.0 staging-cdn.snigelweb.com
+0.0.0.0 staging.snigelweb.com
+0.0.0.0 www.snigelweb.com
+#[cpx.to]
+0.0.0.0 cpx.to
+0.0.0.0 p.cpx.to
+0.0.0.0 s.cpx.to
+#[imonomy.com]
+0.0.0.0 a.imonomy.com
+0.0.0.0 b.imonomy.com
+0.0.0.0 cdn.imonomy.com
+0.0.0.0 imonomy.com
+0.0.0.0 srv.imonomy.com
+0.0.0.0 tag.imonomy.com
+0.0.0.0 www.imonomy.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -16527,6 +16488,7 @@
 0.0.0.0 carambo.la
 0.0.0.0 carbonads.com
 0.0.0.0 carbonads.net
+0.0.0.0 casalemedia.com
 0.0.0.0 casalmedia.com
 0.0.0.0 casesweetcube.com
 0.0.0.0 cash4members.com
@@ -16733,7 +16695,6 @@
 0.0.0.0 cpm-ad.com
 0.0.0.0 cpmaffiliation.com
 0.0.0.0 cpux.gmud.top
-0.0.0.0 cpx.to
 0.0.0.0 cpxadroit.com
 0.0.0.0 cpxinteractive.com
 0.0.0.0 cqcounter.com
@@ -18723,6 +18684,7 @@
 0.0.0.0 webads.nl
 0.0.0.0 webangel.ru
 0.0.0.0 webcash.nl
+0.0.0.0 webcontentassessor.com
 0.0.0.0 webcounter.cz
 0.0.0.0 webcounter.goweb.de
 0.0.0.0 webgains.com

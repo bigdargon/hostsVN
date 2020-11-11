@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 10 Nov 2020 14:07 UTC+7
-! Version: 2011101407
-! Blocked: 5,505 rules
+! Last modified: 11 Nov 2020 21:26 UTC+7
+! Version: 2011112126
+! Blocked: 5,510 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -862,7 +862,6 @@
 ||c.bing.com^
 ||c.microsoft.com^
 ||cacafly.net^
-||casalemedia.com^
 ||cbsileads.com^
 ||cbsinteractive.com^
 ||cdnwidget.com^
@@ -913,11 +912,13 @@
 ||content.ad^
 ||contentabc.com^
 ||contextweb.com^
+||contributor.google.com^
 ||conversantmedia.com^
 ||count.taobao.com^
 ||countess.twitch.tv^
 ||cpaikon.net^
 ||cpmstar.com^
+||cpx.to^
 ||crazyegg.com^
 ||creative.ak.facebook.com^
 ||creative.ak.fbcdn.net^
@@ -1006,6 +1007,8 @@
 ||fqtag.com^
 ||freshmarketer.com^
 ||fullstory.com^
+||fundingchoices.google.com^
+||fundingchoicesmessages.google.com^
 ||fyber.com^
 ||gads*s.com^
 ||gads*z.com^
@@ -1061,6 +1064,7 @@
 ||igexin.com^
 ||ilyonanalytics.herokuapp.com^
 ||im-apps.net^
+||imonomy.com^
 ||imstks.com^
 ||indexexchange.com^
 ||indexww.com^
@@ -1397,6 +1401,7 @@
 ||smartadserver.com^
 ||smetrics.cnn.com^
 ||smrtb.com^
+||snigelweb.com^
 ||socdm.com^
 ||sociaplus.com^
 ||sonar-iad.xx.fbcdn.net^
@@ -1409,7 +1414,6 @@
 ||spotscenered.info^
 ||spotxchange.com^
 ||srvcs.tumblr.com^
-||ss2.us^
 ||ssl-google-analytics.l.google.com^
 ||sslproxy-prod.adobedtm.com^
 ||sstats.adobe.com^
@@ -2810,6 +2814,7 @@
 ||carambo.la^
 ||carbonads.com^
 ||carbonads.net^
+||casalemedia.com^
 ||casalmedia.com^
 ||casesweetcube.com^
 ||cash4members.com^
@@ -3016,7 +3021,6 @@
 ||cpm-ad.com^
 ||cpmaffiliation.com^
 ||cpux.gmud.top^
-||cpx.to^
 ||cpxadroit.com^
 ||cpxinteractive.com^
 ||cqcounter.com^
@@ -5010,6 +5014,7 @@
 ||webads.nl^
 ||webangel.ru^
 ||webcash.nl^
+||webcontentassessor.com^
 ||webcounter.cz^
 ||webcounter.goweb.de^
 ||webgains.com^
