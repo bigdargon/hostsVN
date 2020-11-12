@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 Nov 2020 10:19 UTC+7
-! Version: 2011121019
-! Blocked: 5,513 rules
+! Last modified: 12 Nov 2020 10:40 UTC+7
+! Version: 2011121040
+! Blocked: 5,514 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2685,6 +2685,7 @@
 ||bcmediagroup.com^
 ||beabsolom.com^
 ||beacon.gu-web.net^
+||beaconacceptable.com^
 ||bead-ad.com^
 ||beamincrease.com^
 ||beauty-tea.com^
