@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Nov 2020 21:26 UTC+7
-# Version: 2011112126
-# Blocked: 18,406 domains
+# Last modified: 12 Nov 2020 10:19 UTC+7
+# Version: 2011121019
+# Blocked: 18,395 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11270,21 +11270,6 @@
 0 ak2.sail-horizon.com
 0 cdn.sail-horizon.com
 0 sail-horizon.com
-0 alerts.speedcurve.com
-0 api.speedcurve.com
-0 assets.speedcurve.com
-0 cdn.speedcurve.com
-0 dev.speedcurve.com
-0 donut.speedcurve.com
-0 img.speedcurve.com
-0 lab.speedcurve.com
-0 lux.speedcurve.com
-0 speedcurve.com
-0 ssd.speedcurve.com
-0 status.speedcurve.com
-0 wpt.speedcurve.com
-0 wpt1.speedcurve.com
-0 www.speedcurve.com
 0 banners.uprimp.com
 0 click.uprimp.com
 0 redir.uprimp.com
@@ -18135,6 +18120,7 @@
 0 everestjs.net
 0 eviltracker.net
 0 fastly-insights.com
+0 fathomseo.com
 0 fff.dailymail.co.uk
 0 frog.wix.com
 0 g.3gl.net
@@ -18235,6 +18221,7 @@
 0 pjhku.com
 0 pl.ventunotech.com
 0 placehold.it
+0 plausible.io
 0 play.leadzutw.com
 0 playtomic.com
 0 plrxserv.com
@@ -18280,6 +18267,7 @@
 0 soflopxl.com
 0 soidc.com
 0 soperson.com
+0 speedcurve.com
 0 ssc.api.bbc.com
 0 stathat.com
 0 static.intentarget.com
@@ -18329,6 +18317,7 @@
 0 upapi.net
 0 uptolike.com
 0 usabilla.com
+0 usefathom.com
 0 usergrid.com
 0 users.quantumgraph.com
 0 usertrack.net
