@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Nov 2020 10:40 UTC+7
-# Version: 2011121040
-# Blocked: 18,396 domains
+# Last modified: 16 Nov 2020 10:36 UTC+7
+# Version: 2011161036
+# Blocked: 18,347 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1734,7 +1734,6 @@
 0.0.0.0 resources.mixpanel.com
 0.0.0.0 share.mixpanel.com
 0.0.0.0 sso.mixpanel.com
-0.0.0.0 status.mixpanel.com
 0.0.0.0 switchboard.mixpanel.com
 0.0.0.0 www.mixpanel.com
 #[flurry.com]
@@ -1929,7 +1928,6 @@
 0.0.0.0 s9.addthis.com
 0.0.0.0 search.addthis.com
 0.0.0.0 secure.addthis.com
-0.0.0.0 status.addthis.com
 0.0.0.0 su.addthis.com
 0.0.0.0 ut.addthis.com
 0.0.0.0 vp-www-uat.addthis.com
@@ -2018,7 +2016,6 @@
 0.0.0.0 accengage.com
 0.0.0.0 api.accengage.com
 0.0.0.0 dev.accengage.com
-0.0.0.0 docs-alpha.accengage.com
 0.0.0.0 mobilecrm.accengage.com
 0.0.0.0 preprod.accengage.com
 0.0.0.0 push1.dev.accengage.com
@@ -2150,7 +2147,6 @@
 0.0.0.0 www.batch.com
 0.0.0.0 api.batch.com
 0.0.0.0 ws.batch.com
-0.0.0.0 status.batch.com
 #[krxd]
 0.0.0.0 apiservices.krxd.net
 0.0.0.0 beacon.krxd.net
@@ -2201,7 +2197,6 @@
 0.0.0.0 reports-k8s.leanplum.com
 0.0.0.0 sales.leanplum.com
 0.0.0.0 sso.leanplum.com
-0.0.0.0 status.leanplum.com
 0.0.0.0 web.leanplum.com
 0.0.0.0 www.leanplum.com
 #[ligatus]
@@ -2283,7 +2278,6 @@
 0.0.0.0 ipa.pushwoosh.com
 0.0.0.0 api.pushwoosh.com
 0.0.0.0 askfm.pushwoosh.com
-0.0.0.0 status.pushwoosh.com
 0.0.0.0 stat.pushwoosh.com
 0.0.0.0 d5935-1dea9.api.pushwoosh.com
 #[appsee]
@@ -2298,7 +2292,6 @@
 0.0.0.0 get.appsee.com
 0.0.0.0 mmmag.appsee.com
 0.0.0.0 pm.appsee.com
-0.0.0.0 status.appsee.com
 0.0.0.0 ux.appsee.com
 0.0.0.0 www.appsee.com
 #[ad-brix]
@@ -2365,19 +2358,15 @@
 0.0.0.0 assets.chartboost.com
 0.0.0.0 assets-v3.chartboost.com
 0.0.0.0 b.chartboost.com
-0.0.0.0 calendar.chartboost.com
 0.0.0.0 chartboost.com
 0.0.0.0 dashapi.chartboost.com
 0.0.0.0 engineering.chartboost.com
-0.0.0.0 hello.chartboost.com
 0.0.0.0 icon.chartboost.com
-0.0.0.0 info.chartboost.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 pages.chartboost.com
 0.0.0.0 partners.chartboost.com
 0.0.0.0 sites.chartboost.com
 0.0.0.0 static.chartboost.com
-0.0.0.0 status.chartboost.com
 0.0.0.0 t.chartboost.com
 0.0.0.0 t3.chartboost.com
 0.0.0.0 tracking.chartboost.com
@@ -2410,7 +2399,6 @@
 0.0.0.0 capture.trackjs.com
 0.0.0.0 cdn.trackjs.com
 0.0.0.0 my.trackjs.com
-0.0.0.0 status.trackjs.com
 0.0.0.0 trackjs.com
 0.0.0.0 try.trackjs.com
 0.0.0.0 usage.trackjs.com
@@ -2443,7 +2431,6 @@
 0.0.0.0 sgreporting.getadmiral.com
 0.0.0.0 oauth.getadmiral.com
 0.0.0.0 www.getadmiral.com
-0.0.0.0 status.getadmiral.com
 0.0.0.0 sentry.getadmiral.com
 0.0.0.0 stripewh.getadmiral.com
 0.0.0.0 dev.getadmiral.com
@@ -2626,7 +2613,6 @@
 0.0.0.0 simage4.pubmatic.com
 0.0.0.0 spug-sgc.pubmatic.com
 0.0.0.0 sshowads.pubmatic.com
-0.0.0.0 status.pubmatic.com
 0.0.0.0 t.pubmatic.com
 0.0.0.0 testdemo.pubmatic.com
 0.0.0.0 tools.pubmatic.com
@@ -2981,7 +2967,6 @@
 0.0.0.0 kibana.prd.fyber.com
 0.0.0.0 kibana.tracker.fyber.com
 0.0.0.0 lbservices2.fyber.com
-0.0.0.0 legacydocs.fyber.com
 0.0.0.0 marathon.prd.fyber.com
 0.0.0.0 mbe-cdn.fyber.com
 0.0.0.0 mbe-cdn-rtb.fyber.com
@@ -3024,7 +3009,6 @@
 0.0.0.0 track.fyber.com
 0.0.0.0 tracker.fyber.com
 0.0.0.0 tracking.fyber.com
-0.0.0.0 ui.staging-api-docs.fyber.com
 0.0.0.0 unity.fyber.com
 0.0.0.0 video.fyber.com
 0.0.0.0 video-aws-staging.fyber.com
@@ -3317,7 +3301,6 @@
 0.0.0.0 ssltest2.branch.io
 0.0.0.0 stage.branch.io
 0.0.0.0 start.branch.io
-0.0.0.0 status.branch.io
 0.0.0.0 tron-api.prod.branch.io
 0.0.0.0 tron-branchmain.prod.branch.io
 0.0.0.0 tron-test.prod.branch.io
@@ -3382,7 +3365,6 @@
 0.0.0.0 delivery.supersonicads.com
 0.0.0.0 dev8.supersonicads.com
 0.0.0.0 developers.supersonicads.com
-0.0.0.0 documents.supersonicads.com
 0.0.0.0 gateway.supersonicads.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 is-gateway.supersonicads.com
@@ -3497,7 +3479,6 @@
 0.0.0.0 apple.taplytics.com
 0.0.0.0 cdn.taplytics.com
 0.0.0.0 cdn-config.taplytics.com
-0.0.0.0 changelog.taplytics.com
 0.0.0.0 dev.taplytics.com
 0.0.0.0 info.taplytics.com
 0.0.0.0 js.taplytics.com
@@ -3505,12 +3486,10 @@
 0.0.0.0 media.taplytics.com
 0.0.0.0 metabase.taplytics.com
 0.0.0.0 ping.taplytics.com
-0.0.0.0 rest-docs.taplytics.com
 0.0.0.0 socketio.taplytics.com
 0.0.0.0 socketio-dev.taplytics.com
 0.0.0.0 socketio-staging.taplytics.com
 0.0.0.0 staging.taplytics.com
-0.0.0.0 status.taplytics.com
 0.0.0.0 switch.taplytics.com
 0.0.0.0 taplytics.com
 0.0.0.0 wpengine.taplytics.com
@@ -3540,7 +3519,6 @@
 0.0.0.0 spinnaker.amplitude.com
 0.0.0.0 staging.amplitude.com
 0.0.0.0 static.amplitude.com
-0.0.0.0 status.amplitude.com
 0.0.0.0 www.amplitude.com
 #[measuread]
 0.0.0.0 b-stage.measuread.com
@@ -3694,7 +3672,6 @@
 0.0.0.0 billing.backtrace.io
 0.0.0.0 ca1.metrics.backtrace.io
 0.0.0.0 console.backtrace.io
-0.0.0.0 documentation.backtrace.io
 0.0.0.0 get.backtrace.io
 0.0.0.0 hack.in.backtrace.io
 0.0.0.0 intercomm01.backtrace.io
@@ -3739,7 +3716,6 @@
 0.0.0.0 r.fullstory.com
 0.0.0.0 r.staging.fullstory.com
 0.0.0.0 staging.fullstory.com
-0.0.0.0 status.fullstory.com
 #[bounceexchange]
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 api2.bounceexchange.com
@@ -4066,12 +4042,8 @@
 0.0.0.0 rum.optimizely.com
 0.0.0.0 sse-demo.dz.optimizely.com
 0.0.0.0 stable.app.optimizely.com
-0.0.0.0 status.optimizely.com
 0.0.0.0 success.optimizely.com
 0.0.0.0 teams.optimizely.com
-0.0.0.0 teams-admin.optimizely.com
-0.0.0.0 teams-staging.optimizely.com
-0.0.0.0 teams-staging-admin.optimizely.com
 0.0.0.0 track.optimizely.com
 0.0.0.0 ui.optimizely.com
 0.0.0.0 vis.optimizely.com
@@ -4102,10 +4074,8 @@
 0.0.0.0 sfmc-dev.urbanairship.com
 0.0.0.0 sfmc-stag.urbanairship.com
 0.0.0.0 sgc.urbanairship.com
-0.0.0.0 status.urbanairship.com
 0.0.0.0 tofurkey.urbanairship.com
 0.0.0.0 urbanairship.com
-0.0.0.0 userdocs.urbanairship.com
 0.0.0.0 vox.urbanairship.com
 0.0.0.0 voxhq.urbanairship.com
 0.0.0.0 wallet-api.urbanairship.com
@@ -4339,8 +4309,6 @@
 #[instartlogic]
 0.0.0.0 api.instartlogic.com
 0.0.0.0 api-dev.instartlogic.com
-0.0.0.0 apidocs.instartlogic.com
-0.0.0.0 apidocs-dev.instartlogic.com
 0.0.0.0 api-v2.instartlogic.com
 0.0.0.0 app.instartlogic.com
 0.0.0.0 app-dev.instartlogic.com
@@ -4481,7 +4449,6 @@
 0.0.0.0 rater.localytics.com
 0.0.0.0 scavenger.localytics.com
 0.0.0.0 sdk-assets.localytics.com
-0.0.0.0 status.localytics.com
 0.0.0.0 telenor-analytics.localytics.com
 0.0.0.0 telenor-profile.localytics.com
 0.0.0.0 testqueuer.localytics.com
@@ -4673,7 +4640,6 @@
 0.0.0.0 test.piano.io
 0.0.0.0 dev.piano.io
 0.0.0.0 ew-demo.piano.io
-0.0.0.0 prod-docs.piano.io
 #[servedbyopenx]
 0.0.0.0 d3.condenast.servedbyopenx.com
 0.0.0.0 d3.demo.servedbyopenx.com
@@ -4897,7 +4863,6 @@
 #[neustar]
 0.0.0.0 admin.wpm.neustar.biz
 0.0.0.0 alert.wpm.neustar.biz
-0.0.0.0 apidocs.wpm.neustar.biz
 0.0.0.0 cdn.wpm.neustar.biz
 0.0.0.0 fslt.wpm.neustar.biz
 0.0.0.0 home.wpm.neustar.biz
@@ -5388,7 +5353,6 @@
 0.0.0.0 scholars.tune.com
 0.0.0.0 services.ma.tune.com
 0.0.0.0 stage.tune.com
-0.0.0.0 status.tune.com
 0.0.0.0 tune.com
 0.0.0.0 tuneci.us-west-2.k8s.ci.ops.tune.com
 0.0.0.0 tuneci.us-west-2.k8s.ops.tune.com
@@ -5477,7 +5441,6 @@
 0.0.0.0 marketing.heapanalytics.com
 0.0.0.0 pantheon.heapanalytics.com
 0.0.0.0 socket.heapanalytics.com
-0.0.0.0 status.heapanalytics.com
 0.0.0.0 www.heapanalytics.com
 #[histats.com]
 0.0.0.0 cdn.histats.com
@@ -5628,7 +5591,6 @@
 0.0.0.0 con3.cnzz.com
 0.0.0.0 core.cnzz.com
 0.0.0.0 data.cnzz.com
-0.0.0.0 doc.cnzz.com
 0.0.0.0 dplus.cnzz.com
 0.0.0.0 ei.cnzz.com
 0.0.0.0 engine.data.cnzz.com
@@ -5764,7 +5726,6 @@
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-staging.hotjar.com
 0.0.0.0 static.hotjar.com
-0.0.0.0 status.hotjar.com
 0.0.0.0 suggest.hotjar.com
 0.0.0.0 surveys-split.hotjar.com
 0.0.0.0 surveys-staging.hotjar.com
@@ -5898,7 +5859,6 @@
 0.0.0.0 spec.segment.com
 0.0.0.0 sql.segment.com
 0.0.0.0 static.segment.com
-0.0.0.0 status.segment.com
 0.0.0.0 synapse.segment.com
 0.0.0.0 vpn.segment.com
 0.0.0.0 www.segment.com
@@ -5918,7 +5878,6 @@
 0.0.0.0 file.askingpoint.com
 #[gameanalytics.com]
 0.0.0.0 api.gameanalytics.com
-0.0.0.0 apidocs.gameanalytics.com
 0.0.0.0 api-eu.gameanalytics.com
 0.0.0.0 api-us.gameanalytics.com
 0.0.0.0 cdn.gameanalytics.com
@@ -5941,11 +5900,9 @@
 0.0.0.0 query-1.gameanalytics.com
 0.0.0.0 query-2.gameanalytics.com
 0.0.0.0 query-3.gameanalytics.com
-0.0.0.0 restapidocs.gameanalytics.com
 0.0.0.0 ru.gameanalytics.com
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 sandbox-api.gameanalytics.com
-0.0.0.0 summaryapidocs.gameanalytics.com
 0.0.0.0 track.gameanalytics.com
 0.0.0.0 www.gameanalytics.com
 #[upsight.com]
@@ -6591,11 +6548,8 @@
 0.0.0.0 partner.breaktime.com.tw
 0.0.0.0 pb.breaktime.com.tw
 0.0.0.0 stage-gene.breaktime.com.tw
-0.0.0.0 status.breaktime.com.tw
 0.0.0.0 stg-catalyst.breaktime.com.tw
 0.0.0.0 stg-partner.breaktime.com.tw
-0.0.0.0 testbroadcast.breaktime.com.tw
-0.0.0.0 wp-status.breaktime.com.tw
 0.0.0.0 www.breaktime.com.tw
 #[adhacker.online]
 0.0.0.0 adhacker.online
@@ -6657,7 +6611,6 @@
 0.0.0.0 r.logrocket.com
 0.0.0.0 staging.logrocket.com
 0.0.0.0 staging-i.logrocket.com
-0.0.0.0 status.logrocket.com
 0.0.0.0 www.logrocket.com
 #[smaato.net]
 0.0.0.0 ads.smaato.net
@@ -6793,7 +6746,6 @@
 0.0.0.0 siftscience.com
 0.0.0.0 sift-shopify.siftscience.com
 0.0.0.0 start.siftscience.com
-0.0.0.0 status.siftscience.com
 0.0.0.0 www.siftscience.com
 #[adpushup.com]
 0.0.0.0 adpushup.com
@@ -6863,7 +6815,6 @@
 0.0.0.0 playground.xyz
 0.0.0.0 playlist.playground.xyz
 0.0.0.0 static.playground.xyz
-0.0.0.0 status.playground.xyz
 0.0.0.0 www.playground.xyz
 #[adform.net]
 0.0.0.0 a1.adform.net
@@ -7742,7 +7693,6 @@
 0.0.0.0 aka-cdn.geo.adtechus.com
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 aol-heliosiq.adtechus.com
-0.0.0.0 api-doc.adtechus.com
 0.0.0.0 api-selene.prod.adtechus.com
 0.0.0.0 a-sb-ec.adtechus.com
 0.0.0.0 as-y-atwola-com.geo.adtechus.com
@@ -7996,7 +7946,6 @@
 0.0.0.0 connection.weborama.com
 0.0.0.0 devblog.weborama.com
 0.0.0.0 dns4.weborama.com
-0.0.0.0 doc.weborama.com
 0.0.0.0 dx.bigsea.weborama.com
 0.0.0.0 dx.frontend-preprod.weborama.com
 0.0.0.0 encuesta.weborama.com
@@ -9155,7 +9104,6 @@
 0.0.0.0 sbox1-bevo.adsnative.com
 0.0.0.0 stage-bevo.adsnative.com
 0.0.0.0 static.adsnative.com
-0.0.0.0 status.adsnative.com
 0.0.0.0 vast.adsnative.com
 0.0.0.0 viber.cdn.adsnative.com
 0.0.0.0 viber.console.adsnative.com
@@ -9592,7 +9540,6 @@
 0.0.0.0 siteanalytics.marketo.com
 0.0.0.0 smvpn.marketo.com
 0.0.0.0 solutions.marketo.com
-0.0.0.0 status.marketo.com
 0.0.0.0 sts.qadynamics.marketo.com
 0.0.0.0 sts2.qadynamics.marketo.com
 0.0.0.0 success.marketo.com
@@ -9987,7 +9934,6 @@
 0.0.0.0 new2.indoleads.com
 0.0.0.0 old.indoleads.com
 0.0.0.0 ruslan.indoleads.com
-0.0.0.0 status.indoleads.com
 0.0.0.0 track.indoleads.com
 0.0.0.0 trk.indoleads.com
 0.0.0.0 trkdev.indoleads.com
@@ -11309,7 +11255,6 @@
 0.0.0.0 compass.districtm.net
 0.0.0.0 confluence.districtm.net
 0.0.0.0 districtm.net
-0.0.0.0 dmx-docs.districtm.net
 0.0.0.0 drone.districtm.net
 0.0.0.0 go.districtm.net
 0.0.0.0 gocalls.districtm.net
@@ -11486,7 +11431,6 @@
 0.0.0.0 corpwiki.appnexus.com
 0.0.0.0 dev.appnexus.com
 0.0.0.0 developers.appnexus.com
-0.0.0.0 docs.appnexus.com
 0.0.0.0 go.appnexus.com
 0.0.0.0 kace.corp.appnexus.com
 0.0.0.0 lg.appnexus.com
@@ -11497,7 +11441,6 @@
 0.0.0.0 psa.appnexus.com
 0.0.0.0 secure-console.appnexus.com
 0.0.0.0 staging.appnexus.com
-0.0.0.0 status.appnexus.com
 0.0.0.0 summit.appnexus.com
 0.0.0.0 www.appnexus.com
 0.0.0.0 zimbra.corp.appnexus.com
@@ -13167,7 +13110,6 @@
 0.0.0.0 cdnp.pushspring.com
 0.0.0.0 console.pushspring.com
 0.0.0.0 developer.pushspring.com
-0.0.0.0 docs.pushspring.com
 0.0.0.0 internal.pushspring.com
 0.0.0.0 media.pushspring.com
 0.0.0.0 mkt.pushspring.com
@@ -13632,6 +13574,24 @@
 0.0.0.0 srv.imonomy.com
 0.0.0.0 tag.imonomy.com
 0.0.0.0 www.imonomy.com
+#[datatrics.com]
+0.0.0.0 api.datatrics.com
+0.0.0.0 api03.datatrics.com
+0.0.0.0 api04.datatrics.com
+0.0.0.0 app.datatrics.com
+0.0.0.0 assets.datatrics.com
+0.0.0.0 images.datatrics.com
+0.0.0.0 link.datatrics.com
+0.0.0.0 magento01.datatrics.com
+0.0.0.0 mautic.datatrics.com
+0.0.0.0 network.datatrics.com
+0.0.0.0 tr-op.datatrics.com
+0.0.0.0 tr-reshift.datatrics.com
+0.0.0.0 tr-v2.datatrics.com
+0.0.0.0 tr.datatrics.com
+0.0.0.0 tracker.datatrics.com
+0.0.0.0 usersync.datatrics.com
+0.0.0.0 woocommerce01.datatrics.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14402,7 +14362,6 @@
 0.0.0.0 sg.cityads.com
 0.0.0.0 tinkoff.cityads.com
 0.0.0.0 us-geo.cityads.com
-0.0.0.0 userdocs.cityads.com
 0.0.0.0 wp-cdn.cityads.com
 0.0.0.0 www.cityads.com
 0.0.0.0 cityadstrack.com
@@ -14791,8 +14750,6 @@
 0.0.0.0 schemas.adflex.vn
 0.0.0.0 sdk.adflex.vn
 0.0.0.0 static2.adflex.vn
-0.0.0.0 status.adflex.vn
-0.0.0.0 status-cpo.adflex.vn
 0.0.0.0 tmp.adflex.vn
 0.0.0.0 track.adflex.vn
 0.0.0.0 tracking.adflex.vn
@@ -15286,7 +15243,6 @@
 0.0.0.0 ad.clix.pt
 0.0.0.0 ad.cooks.com
 0.0.0.0 ad.digitallook.com
-0.0.0.0 ad.doctissimo.fr
 0.0.0.0 ad.domainfactory.de
 0.0.0.0 ad.ettoday.net
 0.0.0.0 ad.eurosport.com
@@ -15450,7 +15406,6 @@
 0.0.0.0 adimages.omroepzeeland.nl
 0.0.0.0 adimages.sanomawsoy.fi
 0.0.0.0 adimg.cbsi.com
-0.0.0.0 adimg.com.com
 0.0.0.0 adimg.net
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adimg1.chosun.com
@@ -15616,7 +15571,6 @@
 0.0.0.0 ads.clearchannel.com
 0.0.0.0 ads.co.com
 0.0.0.0 ads.colombiaonline.com
-0.0.0.0 ads.com.com
 0.0.0.0 ads.comeon.com
 0.0.0.0 ads.contactmusic.com
 0.0.0.0 ads.crakmedia.com
@@ -15975,7 +15929,6 @@
 0.0.0.0 adstage.io
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adsterra.com
-0.0.0.0 adstest.weather.com
 0.0.0.0 adstune.com
 0.0.0.0 adsupply.com
 0.0.0.0 adsupplyads.com
@@ -17212,6 +17165,7 @@
 0.0.0.0 inetlog.ru
 0.0.0.0 infinite-ads.com
 0.0.0.0 infinityads.com
+0.0.0.0 infopicked.com
 0.0.0.0 information.com
 0.0.0.0 ingameads.gameloft.com
 0.0.0.0 inkeblotsxchange.com
@@ -17791,7 +17745,6 @@
 0.0.0.0 personaly.click
 0.0.0.0 petchesa.net
 0.0.0.0 petiteumbrella.com
-0.0.0.0 pgl.example0101
 0.0.0.0 pgmediaserve.com
 0.0.0.0 pgpartner.com
 0.0.0.0 pheedo.com
@@ -18059,7 +18012,6 @@
 0.0.0.0 rockabox.co
 0.0.0.0 rocketfuel.com
 0.0.0.0 roia.biz
-0.0.0.0 rok.com.com
 0.0.0.0 rose.ixbt.com
 0.0.0.0 rotabanner.com
 0.0.0.0 rotumal.com

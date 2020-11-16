@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 Nov 2020 10:40 UTC+7
-! Version: 2011121040
-! Blocked: 5,514 rules
+! Last modified: 16 Nov 2020 10:36 UTC+7
+! Version: 2011161036
+! Blocked: 5,510 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -942,6 +942,7 @@
 ||d5nxst8fruw4z.cloudfront.net^
 ||darfilms.com^
 ||data.alexa.com^
+||datatrics.com^
 ||dc-1.net^
 ||demandbase.com^
 ||deployads.com^
@@ -1626,7 +1627,6 @@
 ||ad.clix.pt^
 ||ad.cooks.com^
 ||ad.digitallook.com^
-||ad.doctissimo.fr^
 ||ad.domainfactory.de^
 ||ad.ettoday.net^
 ||ad.eurosport.com^
@@ -1791,7 +1791,6 @@
 ||adimages.omroepzeeland.nl^
 ||adimages.sanomawsoy.fi^
 ||adimg.cbsi.com^
-||adimg.com.com^
 ||adimg.net^
 ||adimg.uimserv.net^
 ||adimg1.chosun.com^
@@ -1957,7 +1956,6 @@
 ||ads.clearchannel.com^
 ||ads.co.com^
 ||ads.colombiaonline.com^
-||ads.com.com^
 ||ads.comeon.com^
 ||ads.contactmusic.com^
 ||ads.crakmedia.com^
@@ -2316,7 +2314,6 @@
 ||adstage.io^
 ||adstat.4u.pl^
 ||adsterra.com^
-||adstest.weather.com^
 ||adstune.com^
 ||adsupply.com^
 ||adsupplyads.com^
@@ -3554,6 +3551,7 @@
 ||inetlog.ru^
 ||infinite-ads.com^
 ||infinityads.com^
+||infopicked.com^
 ||information.com^
 ||ingameads.gameloft.com^
 ||inkeblotsxchange.com^
@@ -4135,7 +4133,6 @@
 ||personaly.click^
 ||petchesa.net^
 ||petiteumbrella.com^
-||pgl.example0101^
 ||pgmediaserve.com^
 ||pgpartner.com^
 ||pheedo.com^
@@ -4404,7 +4401,6 @@
 ||rockabox.co^
 ||rocketfuel.com^
 ||roia.biz^
-||rok.com.com^
 ||rose.ixbt.com^
 ||rotabanner.com^
 ||rotumal.com^

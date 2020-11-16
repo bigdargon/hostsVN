@@ -1650,7 +1650,6 @@ mixpanel.com
 resources.mixpanel.com
 share.mixpanel.com
 sso.mixpanel.com
-status.mixpanel.com
 switchboard.mixpanel.com
 www.mixpanel.com
 adlog.flurry.com
@@ -1831,7 +1830,6 @@ s7.addthis.com
 s9.addthis.com
 search.addthis.com
 secure.addthis.com
-status.addthis.com
 su.addthis.com
 ut.addthis.com
 vp-www-uat.addthis.com
@@ -1912,7 +1910,6 @@ jrs.a4.tl
 accengage.com
 api.accengage.com
 dev.accengage.com
-docs-alpha.accengage.com
 mobilecrm.accengage.com
 preprod.accengage.com
 push1.dev.accengage.com
@@ -2039,7 +2036,6 @@ batch.com
 www.batch.com
 api.batch.com
 ws.batch.com
-status.batch.com
 apiservices.krxd.net
 beacon.krxd.net
 beacon-maxis.krxd.net
@@ -2088,7 +2084,6 @@ reports.leanplum.com
 reports-k8s.leanplum.com
 sales.leanplum.com
 sso.leanplum.com
-status.leanplum.com
 web.leanplum.com
 www.leanplum.com
 a.ligatus.com
@@ -2165,7 +2160,6 @@ cp.pushwoosh.com
 ipa.pushwoosh.com
 api.pushwoosh.com
 askfm.pushwoosh.com
-status.pushwoosh.com
 stat.pushwoosh.com
 d5935-1dea9.api.pushwoosh.com
 api.appsee.com
@@ -2179,7 +2173,6 @@ cr.appsee.com
 get.appsee.com
 mmmag.appsee.com
 pm.appsee.com
-status.appsee.com
 ux.appsee.com
 www.appsee.com
 link.ad-brix.com
@@ -2241,19 +2234,15 @@ api.chartboost.com
 assets.chartboost.com
 assets-v3.chartboost.com
 b.chartboost.com
-calendar.chartboost.com
 chartboost.com
 dashapi.chartboost.com
 engineering.chartboost.com
-hello.chartboost.com
 icon.chartboost.com
-info.chartboost.com
 live.chartboost.com
 pages.chartboost.com
 partners.chartboost.com
 sites.chartboost.com
 static.chartboost.com
-status.chartboost.com
 t.chartboost.com
 t3.chartboost.com
 tracking.chartboost.com
@@ -2282,7 +2271,6 @@ dev.persona.ly
 capture.trackjs.com
 cdn.trackjs.com
 my.trackjs.com
-status.trackjs.com
 trackjs.com
 try.trackjs.com
 usage.trackjs.com
@@ -2311,7 +2299,6 @@ pay.getadmiral.com
 sgreporting.getadmiral.com
 oauth.getadmiral.com
 www.getadmiral.com
-status.getadmiral.com
 sentry.getadmiral.com
 stripewh.getadmiral.com
 dev.getadmiral.com
@@ -2489,7 +2476,6 @@ simage2.pubmatic.com
 simage4.pubmatic.com
 spug-sgc.pubmatic.com
 sshowads.pubmatic.com
-status.pubmatic.com
 t.pubmatic.com
 testdemo.pubmatic.com
 tools.pubmatic.com
@@ -2833,7 +2819,6 @@ ios.fyber.com
 kibana.prd.fyber.com
 kibana.tracker.fyber.com
 lbservices2.fyber.com
-legacydocs.fyber.com
 marathon.prd.fyber.com
 mbe-cdn.fyber.com
 mbe-cdn-rtb.fyber.com
@@ -2876,7 +2861,6 @@ tickets.fyber.com
 track.fyber.com
 tracker.fyber.com
 tracking.fyber.com
-ui.staging-api-docs.fyber.com
 unity.fyber.com
 video.fyber.com
 video-aws-staging.fyber.com
@@ -3147,7 +3131,6 @@ ssltest.branch.io
 ssltest2.branch.io
 stage.branch.io
 start.branch.io
-status.branch.io
 tron-api.prod.branch.io
 tron-branchmain.prod.branch.io
 tron-test.prod.branch.io
@@ -3207,7 +3190,6 @@ custom2.supersonicads.com
 delivery.supersonicads.com
 dev8.supersonicads.com
 developers.supersonicads.com
-documents.supersonicads.com
 gateway.supersonicads.com
 init.supersonicads.com
 is-gateway.supersonicads.com
@@ -3315,7 +3297,6 @@ api.taplytics.com
 apple.taplytics.com
 cdn.taplytics.com
 cdn-config.taplytics.com
-changelog.taplytics.com
 dev.taplytics.com
 info.taplytics.com
 js.taplytics.com
@@ -3323,12 +3304,10 @@ labs.taplytics.com
 media.taplytics.com
 metabase.taplytics.com
 ping.taplytics.com
-rest-docs.taplytics.com
 socketio.taplytics.com
 socketio-dev.taplytics.com
 socketio-staging.taplytics.com
 staging.taplytics.com
-status.taplytics.com
 switch.taplytics.com
 taplytics.com
 wpengine.taplytics.com
@@ -3357,7 +3336,6 @@ ref.amplitude.com
 spinnaker.amplitude.com
 staging.amplitude.com
 static.amplitude.com
-status.amplitude.com
 www.amplitude.com
 b-stage.measuread.com
 b.measuread.com
@@ -3500,7 +3478,6 @@ bigfoot.sp.backtrace.io
 billing.backtrace.io
 ca1.metrics.backtrace.io
 console.backtrace.io
-documentation.backtrace.io
 get.backtrace.io
 hack.in.backtrace.io
 intercomm01.backtrace.io
@@ -3543,7 +3520,6 @@ prometheus.staging.fullstory.com
 r.fullstory.com
 r.staging.fullstory.com
 staging.fullstory.com
-status.fullstory.com
 api.bounceexchange.com
 api2.bounceexchange.com
 api-rackspace.bounceexchange.com
@@ -3858,12 +3834,8 @@ results.optimizely.com
 rum.optimizely.com
 sse-demo.dz.optimizely.com
 stable.app.optimizely.com
-status.optimizely.com
 success.optimizely.com
 teams.optimizely.com
-teams-admin.optimizely.com
-teams-staging.optimizely.com
-teams-staging-admin.optimizely.com
 track.optimizely.com
 ui.optimizely.com
 vis.optimizely.com
@@ -3893,10 +3865,8 @@ sfmc.urbanairship.com
 sfmc-dev.urbanairship.com
 sfmc-stag.urbanairship.com
 sgc.urbanairship.com
-status.urbanairship.com
 tofurkey.urbanairship.com
 urbanairship.com
-userdocs.urbanairship.com
 vox.urbanairship.com
 voxhq.urbanairship.com
 wallet-api.urbanairship.com
@@ -4115,8 +4085,6 @@ l.betrad.com
 www.betrad.com
 api.instartlogic.com
 api-dev.instartlogic.com
-apidocs.instartlogic.com
-apidocs-dev.instartlogic.com
 api-v2.instartlogic.com
 app.instartlogic.com
 app-dev.instartlogic.com
@@ -4244,7 +4212,6 @@ pushapi.localytics.com
 rater.localytics.com
 scavenger.localytics.com
 sdk-assets.localytics.com
-status.localytics.com
 telenor-analytics.localytics.com
 telenor-profile.localytics.com
 testqueuer.localytics.com
@@ -4424,7 +4391,6 @@ publisher.piano.io
 test.piano.io
 dev.piano.io
 ew-demo.piano.io
-prod-docs.piano.io
 d3.condenast.servedbyopenx.com
 d3.demo.servedbyopenx.com
 delivery-asia-northeast-1.servedbyopenx.com
@@ -4633,7 +4599,6 @@ ss.servedby-buysellads.com
 static.servedby-buysellads.com
 admin.wpm.neustar.biz
 alert.wpm.neustar.biz
-apidocs.wpm.neustar.biz
 cdn.wpm.neustar.biz
 fslt.wpm.neustar.biz
 home.wpm.neustar.biz
@@ -5099,7 +5064,6 @@ request.api.cp.tune.com
 scholars.tune.com
 services.ma.tune.com
 stage.tune.com
-status.tune.com
 tune.com
 tuneci.us-west-2.k8s.ci.ops.tune.com
 tuneci.us-west-2.k8s.ops.tune.com
@@ -5183,7 +5147,6 @@ learn.heapanalytics.com
 marketing.heapanalytics.com
 pantheon.heapanalytics.com
 socket.heapanalytics.com
-status.heapanalytics.com
 www.heapanalytics.com
 cdn.histats.com
 h1.histats.com
@@ -5328,7 +5291,6 @@ click.cnzz.com
 con3.cnzz.com
 core.cnzz.com
 data.cnzz.com
-doc.cnzz.com
 dplus.cnzz.com
 ei.cnzz.com
 engine.data.cnzz.com
@@ -5459,7 +5421,6 @@ static-live-cf.hotjar.com
 static-sio.hotjar.com
 static-staging.hotjar.com
 static.hotjar.com
-status.hotjar.com
 suggest.hotjar.com
 surveys-split.hotjar.com
 surveys-staging.hotjar.com
@@ -5589,7 +5550,6 @@ segment.com
 spec.segment.com
 sql.segment.com
 static.segment.com
-status.segment.com
 synapse.segment.com
 vpn.segment.com
 www.segment.com
@@ -5606,7 +5566,6 @@ ad.askingpoint.com
 www.askingpoint.com
 file.askingpoint.com
 api.gameanalytics.com
-apidocs.gameanalytics.com
 api-eu.gameanalytics.com
 api-us.gameanalytics.com
 cdn.gameanalytics.com
@@ -5629,11 +5588,9 @@ query-0.gameanalytics.com
 query-1.gameanalytics.com
 query-2.gameanalytics.com
 query-3.gameanalytics.com
-restapidocs.gameanalytics.com
 ru.gameanalytics.com
 rubick.gameanalytics.com
 sandbox-api.gameanalytics.com
-summaryapidocs.gameanalytics.com
 track.gameanalytics.com
 www.gameanalytics.com
 analytics.upsight.com
@@ -6255,11 +6212,8 @@ gene.breaktime.com.tw
 partner.breaktime.com.tw
 pb.breaktime.com.tw
 stage-gene.breaktime.com.tw
-status.breaktime.com.tw
 stg-catalyst.breaktime.com.tw
 stg-partner.breaktime.com.tw
-testbroadcast.breaktime.com.tw
-wp-status.breaktime.com.tw
 www.breaktime.com.tw
 adhacker.online
 ads.adhacker.online
@@ -6317,7 +6271,6 @@ phoneburner.logrocket.com
 r.logrocket.com
 staging.logrocket.com
 staging-i.logrocket.com
-status.logrocket.com
 www.logrocket.com
 ads.smaato.net
 adtag.ad.smaato.net
@@ -6447,7 +6400,6 @@ sales.siftscience.com
 siftscience.com
 sift-shopify.siftscience.com
 start.siftscience.com
-status.siftscience.com
 www.siftscience.com
 adpushup.com
 apex.adpushup.com
@@ -6511,7 +6463,6 @@ files.playground.xyz
 playground.xyz
 playlist.playground.xyz
 static.playground.xyz
-status.playground.xyz
 www.playground.xyz
 a1.adform.net
 a1.seadform.net
@@ -7357,7 +7308,6 @@ aka-cdn.adtechus.com
 aka-cdn.geo.adtechus.com
 aka-cdn-ns.adtechus.com
 aol-heliosiq.adtechus.com
-api-doc.adtechus.com
 api-selene.prod.adtechus.com
 a-sb-ec.adtechus.com
 as-y-atwola-com.geo.adtechus.com
@@ -7600,7 +7550,6 @@ conges.weborama.com
 connection.weborama.com
 devblog.weborama.com
 dns4.weborama.com
-doc.weborama.com
 dx.bigsea.weborama.com
 dx.frontend-preprod.weborama.com
 encuesta.weborama.com
@@ -8701,7 +8650,6 @@ rudy-eu-west-1.adsnative.com
 sbox1-bevo.adsnative.com
 stage-bevo.adsnative.com
 static.adsnative.com
-status.adsnative.com
 vast.adsnative.com
 viber.cdn.adsnative.com
 viber.console.adsnative.com
@@ -9128,7 +9076,6 @@ sales.marketo.com
 siteanalytics.marketo.com
 smvpn.marketo.com
 solutions.marketo.com
-status.marketo.com
 sts.qadynamics.marketo.com
 sts2.qadynamics.marketo.com
 success.marketo.com
@@ -9508,7 +9455,6 @@ lp.indoleads.com
 new2.indoleads.com
 old.indoleads.com
 ruslan.indoleads.com
-status.indoleads.com
 track.indoleads.com
 trk.indoleads.com
 trkdev.indoleads.com
@@ -10728,7 +10674,6 @@ campamento.staging.districtm.net
 compass.districtm.net
 confluence.districtm.net
 districtm.net
-dmx-docs.districtm.net
 drone.districtm.net
 go.districtm.net
 gocalls.districtm.net
@@ -10895,7 +10840,6 @@ console.appnexus.com
 corpwiki.appnexus.com
 dev.appnexus.com
 developers.appnexus.com
-docs.appnexus.com
 go.appnexus.com
 kace.corp.appnexus.com
 lg.appnexus.com
@@ -10906,7 +10850,6 @@ portal.appnexus.com
 psa.appnexus.com
 secure-console.appnexus.com
 staging.appnexus.com
-status.appnexus.com
 summit.appnexus.com
 www.appnexus.com
 zimbra.corp.appnexus.com
@@ -12424,7 +12367,6 @@ cdnc.pushspring.com
 cdnp.pushspring.com
 console.pushspring.com
 developer.pushspring.com
-docs.pushspring.com
 internal.pushspring.com
 media.pushspring.com
 mkt.pushspring.com
@@ -12835,6 +12777,23 @@ imonomy.com
 srv.imonomy.com
 tag.imonomy.com
 www.imonomy.com
+api.datatrics.com
+api03.datatrics.com
+api04.datatrics.com
+app.datatrics.com
+assets.datatrics.com
+images.datatrics.com
+link.datatrics.com
+magento01.datatrics.com
+mautic.datatrics.com
+network.datatrics.com
+tr-op.datatrics.com
+tr-reshift.datatrics.com
+tr-v2.datatrics.com
+tr.datatrics.com
+tracker.datatrics.com
+usersync.datatrics.com
+woocommerce01.datatrics.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -13557,7 +13516,6 @@ september.cityads.com
 sg.cityads.com
 tinkoff.cityads.com
 us-geo.cityads.com
-userdocs.cityads.com
 wp-cdn.cityads.com
 www.cityads.com
 cityadstrack.com
@@ -13908,8 +13866,6 @@ pub.adflex.vn
 schemas.adflex.vn
 sdk.adflex.vn
 static2.adflex.vn
-status.adflex.vn
-status-cpo.adflex.vn
 tmp.adflex.vn
 track.adflex.vn
 tracking.adflex.vn
@@ -14382,7 +14338,6 @@ ad.choiceradio.com
 ad.clix.pt
 ad.cooks.com
 ad.digitallook.com
-ad.doctissimo.fr
 ad.domainfactory.de
 ad.ettoday.net
 ad.eurosport.com
@@ -14546,7 +14501,6 @@ adimages.homestore.com
 adimages.omroepzeeland.nl
 adimages.sanomawsoy.fi
 adimg.cbsi.com
-adimg.com.com
 adimg.net
 adimg.uimserv.net
 adimg1.chosun.com
@@ -14712,7 +14666,6 @@ ads.channel4.com
 ads.clearchannel.com
 ads.co.com
 ads.colombiaonline.com
-ads.com.com
 ads.comeon.com
 ads.contactmusic.com
 ads.crakmedia.com
@@ -15071,7 +15024,6 @@ adsstat.com
 adstage.io
 adstat.4u.pl
 adsterra.com
-adstest.weather.com
 adstune.com
 adsupply.com
 adsupplyads.com
@@ -16308,6 +16260,7 @@ industrybrains.com
 inetlog.ru
 infinite-ads.com
 infinityads.com
+infopicked.com
 information.com
 ingameads.gameloft.com
 inkeblotsxchange.com
@@ -16887,7 +16840,6 @@ personagraph.com
 personaly.click
 petchesa.net
 petiteumbrella.com
-pgl.example0101
 pgmediaserve.com
 pgpartner.com
 pheedo.com
@@ -17155,7 +17107,6 @@ robotreplay.com
 rockabox.co
 rocketfuel.com
 roia.biz
-rok.com.com
 rose.ixbt.com
 rotabanner.com
 rotumal.com
