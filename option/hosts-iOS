@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 16 Nov 2020 10:44 UTC+7
-# Version: 2011161044
+# Last modified: 17 Nov 2020 13:25 UTC+7
+# Version: 2011171325
 # Blocked: 18,348 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -18110,6 +18110,7 @@
 0 inside-graph.com
 0 intent.cbsi.com
 0 invitejs.trustpilot.com
+0 invoca.net
 0 js.hscollectedforms.net
 0 js.hsleadflows.net
 0 js.idio.co
@@ -18240,7 +18241,6 @@
 0 t.9gag.com
 0 t.dailymail.co.uk
 0 tag.researchnow.com
-0 tags.tiqcdn.com
 0 ted.dailymail.co.uk
 0 ted.metro.co.uk
 0 tedgenet.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Nov 2020 10:44 UTC+7
-! Version: 2011161044
-! Blocked: 5,511 rules
+! Last modified: 17 Nov 2020 13:25 UTC+7
+! Version: 2011171325
+! Blocked: 5,510 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5306,6 +5306,7 @@
 ||inside-graph.com^
 ||intent.cbsi.com^
 ||invitejs.trustpilot.com^
+||invoca.net^
 ||js.hscollectedforms.net^
 ||js.hsleadflows.net^
 ||js.idio.co^
@@ -5436,7 +5437,6 @@
 ||t.9gag.com^
 ||t.dailymail.co.uk^
 ||tag.researchnow.com^
-||tags.tiqcdn.com^
 ||ted.dailymail.co.uk^
 ||ted.metro.co.uk^
 ||tedgenet.com^
@@ -5489,7 +5489,6 @@
 ||ymtracking.com^
 ||youthfire.com^
 ||zarget.com^
-||027copy.com^
 ||abutparker.com^
 ||agiegoeig.com^
 ||comptrffc.com^
