@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Nov 2020 16:01 UTC+7
-! Version: 2011171601
-! Blocked: 5,512 rules
+! Last modified: 18 Nov 2020 10:20 UTC+7
+! Version: 2011181020
+! Blocked: 5,524 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -83,7 +83,6 @@
 ||log*.zing.vn^
 ||log.api.zaloapp.com^
 ||log.o2o.service.zaloapp.com^
-||log.sdk.zadn.vn^
 ||log.zing*.vn^
 ||mangoads.vn^
 ||masoffer.net^
@@ -122,6 +121,7 @@
 ||qc.coccoc.vn^
 ||qccoccocmedia.vn^
 ||rungrinh.vn^
+||sdk.zadn.vn^
 ||serving-system.com^
 ||sharks.vn^
 ||shop-cdn.coccoc.com^
@@ -376,6 +376,7 @@
 ||thongke.24h.com.vn^
 ||thongke.baotintuc.vn^
 ||thongke99.baogiaothong.vn^
+||tka.tiki.vn^
 ||track-srv.vietnamnet.vn^
 ||track.accesstrade.vn^
 ||track.icheck.com.vn^
@@ -409,9 +410,11 @@
 ||388bet.top^
 ||388bet.us^
 ||388bet.vip^
+||50soc.com^
 ||520xiaojin.com^
 ||789.club^
 ||789.fun^
+||79lucky.com^
 ||888b.com^
 ||888b.in^
 ||88viet.com^
@@ -493,11 +496,14 @@
 ||rio66qc.club^
 ||sbc31.com^
 ||sieubomtan.com^
+||socvip.com^
+||socvip9.club^
 ||sun.win^
 ||sv88.com^
 ||tai789.net^
 ||taimacau.club^
 ||taiv8.com^
+||tangsoc.com^
 ||thethaofb88.com^
 ||top88.club^
 ||top88.fun^
@@ -514,6 +520,7 @@
 ||vn88.casino^
 ||vn88.club^
 ||vn88.com^
+||vua1004.club^
 ||vwinnow.com^
 ||w88.vin^
 ||w88bro.com^
@@ -900,7 +907,6 @@
 ||cloudmobi.net^
 ||cnnx.io^
 ||cnt.my^
-||cnzz.com^
 ||collection-*.herokuapp.com^
 ||collective-media.net^
 ||collector.newrelic.com^
@@ -1055,6 +1061,7 @@
 ||hsadspixel.net^
 ||hubapi.com^
 ||i-mobile.co.jp^
+||i.isnssdk.com^
 ||iad.apple.com^
 ||iadsdk.apple.com^
 ||iap.unity3d.com^
@@ -2736,6 +2743,7 @@
 ||bluecava.com^
 ||bluekai.com^
 ||bluelithium.com^
+||bluemaulpuffs.com^
 ||bluewhaleweb.com^
 ||blushingbeast.com^
 ||blushingboundary.com^
@@ -2892,6 +2900,7 @@
 ||click2freemoney.com^
 ||click2paid.com^
 ||clickability.com^
+||clickadu.com^
 ||clickadz.com^
 ||clickagents.com^
 ||clickbank.com^
@@ -3643,6 +3652,7 @@
 ||koindut.com^
 ||kompasads.com^
 ||kontera.com^
+||kotikinar2ko8tiki09.com^
 ||ktu.sv2.biz^
 ||kupona.de^
 ||kurlichan.com^
@@ -5232,6 +5242,7 @@
 ||cleverpush.com^
 ||client-analytics.braintreegateway.com^
 ||cmp.dmgmediaprivacy.co.uk^
+||cnzz.com^
 ||cognitivlabs.com^
 ||collect.igodigital.com^
 ||collector.leaddyno.com^
@@ -5395,6 +5406,7 @@
 ||rlog.9gag.com^
 ||robinkornett.com^
 ||rochesterdata.com^
+||roistat.com^
 ||rsrly.com^
 ||rta2.metro.co.uk^
 ||rtb123.com^

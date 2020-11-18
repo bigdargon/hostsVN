@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Nov 2020 16:01 UTC+7
-# Version: 2011171601
-# Blocked: 18,350 domains
+# Last modified: 18 Nov 2020 10:20 UTC+7
+# Version: 2011181020
+# Blocked: 18,271 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4616,6 +4616,7 @@
 0.0.0.0 log.gds.mmstat.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 res.mmstat.com
+0.0.0.0 sg.mmstat.com
 0.0.0.0 wgo.mmstat.com
 0.0.0.0 yt.mmstat.com
 #[jpush.cn]
@@ -5574,95 +5575,6 @@
 0.0.0.0 viber.urekamedia.com
 0.0.0.0 wifi.urekamedia.com
 0.0.0.0 www.urekamedia.com
-#[cnzz.com]
-0.0.0.0 a.cnzz.com
-0.0.0.0 adm.cnzz.com
-0.0.0.0 aid.cnzz.com
-0.0.0.0 api.mobile.cnzz.com
-0.0.0.0 apioplus.cnzz.com
-0.0.0.0 app.cnzz.com
-0.0.0.0 atk.gxb.cnzz.com
-0.0.0.0 bbs.cnzz.com
-0.0.0.0 brow.data.cnzz.com
-0.0.0.0 c.cnzz.com
-0.0.0.0 c.split.cnzz.com
-0.0.0.0 cache.cnzz.com
-0.0.0.0 click.cnzz.com
-0.0.0.0 con3.cnzz.com
-0.0.0.0 core.cnzz.com
-0.0.0.0 data.cnzz.com
-0.0.0.0 dplus.cnzz.com
-0.0.0.0 ei.cnzz.com
-0.0.0.0 engine.data.cnzz.com
-0.0.0.0 err.cnzz.com
-0.0.0.0 fenxi.cnzz.com
-0.0.0.0 file.message.cnzz.com
-0.0.0.0 gdsns1.cnzz.com
-0.0.0.0 gdsns2.cnzz.com
-0.0.0.0 gxb.cnzz.com
-0.0.0.0 gxbr.cnzz.com
-0.0.0.0 gzs20.cnzz.com
-0.0.0.0 hezuo.cnzz.com
-0.0.0.0 hz.wagbridge.cnzz.com
-0.0.0.0 hzvs1.cnzz.com
-0.0.0.0 hzvs2.cnzz.com
-0.0.0.0 i.cnzz.com
-0.0.0.0 icon.cnzz.com
-0.0.0.0 imf.cnzz.com
-0.0.0.0 img.m.cnzz.com
-0.0.0.0 imgtmp.adm.cnzz.com
-0.0.0.0 intf.cnzz.com
-0.0.0.0 isp.data.cnzz.com
-0.0.0.0 jiasu.c.cnzz.com
-0.0.0.0 js.gds.cnzz.com
-0.0.0.0 jserr.cnzz.com
-0.0.0.0 jssdk.cnzz.com
-0.0.0.0 liuyan.cnzz.com
-0.0.0.0 location.data.cnzz.com
-0.0.0.0 mt.cnzz.com
-0.0.0.0 mta.cnzz.com
-0.0.0.0 mx.cnzz.com
-0.0.0.0 netbar.cnzz.com
-0.0.0.0 new.cnzz.com
-0.0.0.0 ns2.cnzz.com
-0.0.0.0 online.cnzz.com
-0.0.0.0 open.cnzz.com
-0.0.0.0 open.plugin.tui.cnzz.com
-0.0.0.0 oplus.cnzz.com
-0.0.0.0 oq.cnzz.com
-0.0.0.0 oz.cnzz.com
-0.0.0.0 pass.cnzz.com
-0.0.0.0 pcookie.cnzz.com
-0.0.0.0 pcookie.split.cnzz.com
-0.0.0.0 pw.cnzz.com
-0.0.0.0 pwoem.cnzz.com
-0.0.0.0 q.cnzz.com
-0.0.0.0 q.gds.cnzz.com
-0.0.0.0 q.split.cnzz.com
-0.0.0.0 qhm1.cnzz.com
-0.0.0.0 qhm2.cnzz.com
-0.0.0.0 quanjing.cnzz.com
-0.0.0.0 rd.cnzz.com
-0.0.0.0 search.cnzz.com
-0.0.0.0 sec.cnzz.com
-0.0.0.0 si1.cnzz.com
-0.0.0.0 stats.cnzz.com
-0.0.0.0 sv1.cnzz.com
-0.0.0.0 t.cnzz.com
-0.0.0.0 tongji.cnzz.com
-0.0.0.0 tool.cnzz.com
-0.0.0.0 tui.cnzz.com
-0.0.0.0 track.gxb.cnzz.com
-0.0.0.0 vvip.cnzz.com
-0.0.0.0 w.cnzz.com
-0.0.0.0 widget.cnzz.com
-0.0.0.0 wss.cnzz.com
-0.0.0.0 www.cnzz.com
-0.0.0.0 www.s9.cnzz.com
-0.0.0.0 z.cnzz.com
-0.0.0.0 z.gds.cnzz.com
-0.0.0.0 zhan.cnzz.com
-0.0.0.0 zhanzhang.cnzz.com
 #[adtrackers.net]
 0.0.0.0 adtrackers.net
 0.0.0.0 crunchyroll.adtrackers.net
@@ -13537,6 +13449,7 @@
 #[isnssdk.com]
 0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 clientmonitor.isnssdk.com
+0.0.0.0 i.isnssdk.com
 0.0.0.0 ichannel.isnssdk.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 monitor.isnssdk.com
@@ -14114,11 +14027,12 @@
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 ztevents.zaloapp.com
 #[zadn.vn]
+0.0.0.0 adtima-common.zadn.vn
 0.0.0.0 adtima-media-td.zadn.vn
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-static-td.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
-0.0.0.0 adtima-common.zadn.vn
+0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 zalo-ads-240-td.zadn.vn
 0.0.0.0 zalo-ads-240.zadn.vn
@@ -15122,6 +15036,7 @@
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 thongke.baotintuc.vn
 0.0.0.0 thongke99.baogiaothong.vn
+0.0.0.0 tka.tiki.vn
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track.accesstrade.vn
 0.0.0.0 track.icheck.com.vn
@@ -16351,6 +16266,7 @@
 0.0.0.0 bluecava.com
 0.0.0.0 bluekai.com
 0.0.0.0 bluelithium.com
+0.0.0.0 bluemaulpuffs.com
 0.0.0.0 bluewhaleweb.com
 0.0.0.0 blushingbeast.com
 0.0.0.0 blushingboundary.com
@@ -16507,6 +16423,7 @@
 0.0.0.0 click2freemoney.com
 0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
+0.0.0.0 clickadu.com
 0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
 0.0.0.0 clickbank.com
@@ -17256,6 +17173,7 @@
 0.0.0.0 koindut.com
 0.0.0.0 kompasads.com
 0.0.0.0 kontera.com
+0.0.0.0 kotikinar2ko8tiki09.com
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kupona.de
 0.0.0.0 kurlichan.com
@@ -18926,6 +18844,7 @@
 0.0.0.0 cleverpush.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
+0.0.0.0 cnzz.com
 0.0.0.0 cognitivlabs.com
 0.0.0.0 collect.igodigital.com
 0.0.0.0 collector.leaddyno.com
@@ -19089,6 +19008,7 @@
 0.0.0.0 rlog.9gag.com
 0.0.0.0 robinkornett.com
 0.0.0.0 rochesterdata.com
+0.0.0.0 roistat.com
 0.0.0.0 rsrly.com
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtb123.com
