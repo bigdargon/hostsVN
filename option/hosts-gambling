@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 18 Nov 2020 10:20 UTC+7
-# Version: 2011181020
-# Blocked: 2,633 domains
+# Last modified: 20 Nov 2020 09:42 UTC+7
+# Version: 2011200942
+# Blocked: 2,635 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -488,6 +488,8 @@
 0.0.0.0 tx.socvip9.club
 0.0.0.0 www.socvip9.club
 0.0.0.0 vua1004.club
+0.0.0.0 aa88.in
+0.0.0.0 www.aa88.in
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com

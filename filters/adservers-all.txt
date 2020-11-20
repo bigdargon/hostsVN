@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 18 Nov 2020 10:20 UTC+7
-! Version: 2011181020
-! Blocked: 5,524 rules
+! Last modified: 20 Nov 2020 09:42 UTC+7
+! Version: 2011200942
+! Blocked: 5,532 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -356,6 +356,7 @@
 ||logs1.reatimes.vn^
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
+||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
 ||report.vnay.vn^
 ||s.baomoi.xdn.vn^
@@ -424,6 +425,7 @@
 ||8live.net^
 ||8live.vip^
 ||8livevn.com^
+||aa88.in^
 ||ae888.com^
 ||betvietnam.info^
 ||big88.one^
@@ -723,6 +725,7 @@
 ||adworkmedia.net^
 ||adx1.com^
 ||adxadserv.com^
+||adxcel.com^
 ||adxcorp.kr^
 ||adxoo.com^
 ||adxxx.com^
@@ -795,6 +798,7 @@
 ||aralego.net^
 ||arsdev.net^
 ||arsena*.xyz^
+||artsai.com^
 ||asianmedia.com^
 ||askingpoint.com^
 ||assets.adobedtm.com^
@@ -4357,6 +4361,7 @@
 ||record.bonniergaming.com^
 ||record.mrwin.com^
 ||redirect2719.ws^
+||redirectingat.com^
 ||redirectvoluum.com^
 ||redmas.com^
 ||reduxmedia.com^
@@ -4537,6 +4542,8 @@
 ||sixscissors.com^
 ||sixsigmatraffic.com^
 ||sizesidewalk.com^
+||skimlinks.com^
+||skimresources.com^
 ||skylink.vn^
 ||sleepcartoon.com^
 ||slickaffiliate.com^
@@ -5433,6 +5440,7 @@
 ||soperson.com^
 ||speedcurve.com^
 ||ssc.api.bbc.com^
+||stack-sonar.com^
 ||stathat.com^
 ||static.intentarget.com^
 ||static.leaddyno.com^

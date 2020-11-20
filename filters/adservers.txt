@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 18 Nov 2020 10:20 UTC+7
-! Version: 2011181020
-! Blocked: 543 rules
+! Last modified: 20 Nov 2020 09:42 UTC+7
+! Version: 2011200942
+! Blocked: 545 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -356,6 +356,7 @@
 ||logs1.reatimes.vn^
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
+||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
 ||report.vnay.vn^
 ||s.baomoi.xdn.vn^
@@ -424,6 +425,7 @@
 ||8live.net^
 ||8live.vip^
 ||8livevn.com^
+||aa88.in^
 ||ae888.com^
 ||betvietnam.info^
 ||big88.one^

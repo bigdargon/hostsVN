@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 18 Nov 2020 10:20 UTC+7
-# Version: 2011181020
-# Blocked: 18,271 domains
+# Last modified: 20 Nov 2020 09:42 UTC+7
+# Version: 2011200942
+# Blocked: 18,282 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10608,7 +10608,6 @@
 0.0.0.0 pl.adxxx.com
 0.0.0.0 pr.adxxx.com
 0.0.0.0 ru.adxxx.com
-0.0.0.0 samples.adxxx.com
 0.0.0.0 scan.adxxx.com
 0.0.0.0 self-service.adxxx.com
 0.0.0.0 self-service-adm.adxxx.com
@@ -13403,7 +13402,6 @@
 0.0.0.0 crazyegg.com
 0.0.0.0 hud.crazyegg.com
 0.0.0.0 recording.crazyegg.com
-0.0.0.0 sample-api-v2.crazyegg.com
 0.0.0.0 script.crazyegg.com
 0.0.0.0 tracking.crazyegg.com
 0.0.0.0 www.crazyegg.com
@@ -13505,6 +13503,16 @@
 0.0.0.0 tracker.datatrics.com
 0.0.0.0 usersync.datatrics.com
 0.0.0.0 woocommerce01.datatrics.com
+#[adxcel.com]
+0.0.0.0 adxcel.com
+0.0.0.0 cf.adxcel.com
+0.0.0.0 intapi.adxcel.com
+0.0.0.0 www.adxcel.com
+#[artsai.com]
+0.0.0.0 artsai.com
+0.0.0.0 cf.artsai.com
+0.0.0.0 s1.artsai.com
+0.0.0.0 www.artsai.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15016,6 +15024,7 @@
 0.0.0.0 logs1.reatimes.vn
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 logscafef.channelvn.net
+0.0.0.0 newlog.daidoanket.vn
 0.0.0.0 nstat.headlines.pw
 0.0.0.0 report.vnay.vn
 0.0.0.0 s.baomoi.xdn.vn
@@ -17876,6 +17885,7 @@
 0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.mrwin.com
 0.0.0.0 redirect2719.ws
+0.0.0.0 redirectingat.com
 0.0.0.0 redirectvoluum.com
 0.0.0.0 redmas.com
 0.0.0.0 reduxmedia.com
@@ -18056,6 +18066,8 @@
 0.0.0.0 sixscissors.com
 0.0.0.0 sixsigmatraffic.com
 0.0.0.0 sizesidewalk.com
+0.0.0.0 skimlinks.com
+0.0.0.0 skimresources.com
 0.0.0.0 skylink.vn
 0.0.0.0 sleepcartoon.com
 0.0.0.0 slickaffiliate.com
@@ -19035,6 +19047,7 @@
 0.0.0.0 soperson.com
 0.0.0.0 speedcurve.com
 0.0.0.0 ssc.api.bbc.com
+0.0.0.0 stack-sonar.com
 0.0.0.0 stathat.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.leaddyno.com
