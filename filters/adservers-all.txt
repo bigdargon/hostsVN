@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Dec 2020 09:38 UTC+7
-! Version: 2012020938
-! Blocked: 5,552 rules
+! Last modified: 02 Dec 2020 14:36 UTC+7
+! Version: 2012021436
+! Blocked: 5,553 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1134,6 +1134,7 @@
 ||kaffnet.com^
 ||kargo.com^
 ||kau.li^
+||keywee.co^
 ||kinesis.*.amazonaws.com^
 ||knowlead.io^
 ||kochava.com^
