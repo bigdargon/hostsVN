@@ -10106,6 +10106,7 @@
 0.0.0.0 premiumsrv.aniview.com
 0.0.0.0 s2s.aniview.com
 0.0.0.0 sync.aniview.com
+0.0.0.0 tg1.aniview.com
 0.0.0.0 track.aniview.com
 0.0.0.0 track1.aniview.com
 0.0.0.0 track6.aniview.com
@@ -11006,6 +11007,9 @@
 0.0.0.0 events.adjust.com
 0.0.0.0 s2s.adjust.com
 0.0.0.0 view.adjust.com
+#[adjust.io]
+0.0.0.0 adjust.io
+0.0.0.0 app.adjust.io
 #[aaxads.com]
 0.0.0.0 aas-nv-a.aaxads.com
 0.0.0.0 aaxads.com
