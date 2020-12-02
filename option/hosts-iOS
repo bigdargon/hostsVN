@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Nov 2020 11:27 UTC+7
-# Version: 2011271127
-# Blocked: 18,291 domains
+# Last modified: 02 Dec 2020 09:38 UTC+7
+# Version: 2012020938
+# Blocked: 18,308 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9633,6 +9633,7 @@
 0 premiumsrv.aniview.com
 0 s2s.aniview.com
 0 sync.aniview.com
+0 tg1.aniview.com
 0 track.aniview.com
 0 track1.aniview.com
 0 track6.aniview.com
@@ -10465,6 +10466,8 @@
 0 events.adjust.com
 0 s2s.adjust.com
 0 view.adjust.com
+0 adjust.io
+0 app.adjust.io
 0 aas-nv-a.aaxads.com
 0 aaxads.com
 0 abcdtest.aaxads.com
@@ -13210,7 +13213,6 @@
 0 ads.platform.zalo.me
 0 ads.zalo.me
 0 px.za.zalo.me
-0 sp.zalo.me
 0 ads.zaloapp.com
 0 centralized.zaloapp.com
 0 discovery.api.zaloapp.com
@@ -13737,6 +13739,18 @@
 0 vl6.adsparc.com
 0 vls.adsparc.com
 0 www.adsparc.com
+0 adsmt1.adsparc.net
+0 adsparc.net
+0 adsuite.adsparc.net
+0 adsvr.adsparc.net
+0 adsvr2.adsparc.net
+0 demo.adsparc.net
+0 hi-cdn.adsparc.net
+0 payouts.adsparc.net
+0 pb.adsparc.net
+0 pixel.adsparc.net
+0 pubs.adsparc.net
+0 www.adsparc.net
 0 amcdn.vn
 0 static.amcdn.vn
 0 cheap-ads.net
@@ -14091,6 +14105,7 @@
 0 analytics.vietnamfinance.vn
 0 analytics.vnreview.vn
 0 apl.headlines.pw
+0 counter.ntdvn.com
 0 deqik.com
 0 elogs.vnexpress.net
 0 event.headlines.pw
@@ -14101,6 +14116,7 @@
 0 invite.baomoi.com
 0 la.vietid.net
 0 lg.lotus.vn
+0 log-collector.shopee.vn
 0 log.anninhthudo.vn
 0 log.baodatviet.vn
 0 log.baodauthau.vn
@@ -14459,8 +14475,6 @@
 0 adjug.com
 0 adjuggler.com
 0 adjuggler.yourdictionary.com
-0 adjust.io
-0 adjustnetwork.com
 0 adk2.co
 0 adk2.com
 0 adkeeper.com
@@ -17940,6 +17954,8 @@
 0 api.usebutton.com
 0 apolloprogram.io
 0 app-measurement.com
+0 app.adjust.net.in
+0 app.adjust.world
 0 applog.camera360.com
 0 appres.camera360.com
 0 asdkd.tutuapp.com
@@ -17965,6 +17981,7 @@
 0 cankaowang.com
 0 cc.swiftype.com
 0 ccgateway.net
+0 cdn.onesignal.com
 0 cdn.promotionengine.com
 0 cdn.zarget.com
 0 cedexis.com
