@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Dec 2020 14:36 UTC+7
-! Version: 2012021436
-! Blocked: 558 rules
+! Last modified: 03 Dec 2020 14:51 UTC+7
+! Version: 2012031451
+! Blocked: 560 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -387,10 +387,12 @@
 ||track.pregmomvietnam.com^
 ||track.sendo.vn^
 ||tracker.bongngo.store^
+||tracker.fado.vn^
 ||tracker.phunuvagiadinh.vn^
 ||tracker.tintucvietnam.vn^
 ||tracking.appwifi.com^
 ||tracking.dantri.com.vn^
+||tracking.fado.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||tracking.vtc.vn^
