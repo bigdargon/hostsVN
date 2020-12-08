@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 08 Dec 2020 11:43 UTC+7
-! Version: 2012081143
-! Blocked: 5,558 rules
+! Last modified: 08 Dec 2020 16:07 UTC+7
+! Version: 2012081607
+! Blocked: 5,562 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3229,6 +3229,7 @@
 ||edge.mdcgate.com^
 ||edgeio.com^
 ||edublog.pw^
+||eelfadechi.com^
 ||effectivemeasure.com^
 ||efficaciouscactus.com^
 ||eggsosgum.site^
@@ -5171,6 +5172,7 @@
 ||ymetrica1.com^
 ||yoc-adserver.com^
 ||yoc-performance.com^
+||yogar2ti8nf09.com^
 ||yoggrt.com^
 ||yuilop.com^
 ||yume.com^
@@ -5313,6 +5315,7 @@
 ||do-not-tracker.org^
 ||dolohen.com^
 ||down.nishuoa.com^
+||dualstack-logs.amap.com^
 ||dynatrace.com^
 ||edigitalsurvey.com^
 ||embed.tawk.to^
@@ -5383,6 +5386,7 @@
 ||log.tutuapp.com^
 ||log.umsns.com^
 ||log.ventunotech.com^
+||logs.amap.com^
 ||logsss.com^
 ||loles.neostrada.pl^
 ||mads.dailymail.co.uk^
