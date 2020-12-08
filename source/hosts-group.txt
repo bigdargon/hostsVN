@@ -13515,3 +13515,30 @@
 0.0.0.0 t.keywee.co
 0.0.0.0 tracking.keywee.co
 0.0.0.0 www.keywee.co
+#[baidu.com]
+0.0.0.0 afd.baidu.com
+0.0.0.0 als.baidu.com
+0.0.0.0 bzclk.baidu.com
+0.0.0.0 caclick.baidu.com
+0.0.0.0 eclick.baidu.com
+0.0.0.0 gsp1.baidu.com
+0.0.0.0 imgstat.baidu.com
+0.0.0.0 mobads-logs.baidu.com
+0.0.0.0 nsclick.baidu.com
+0.0.0.0 plugin.mobopay.baidu.com
+0.0.0.0 sclick.baidu.com
+0.0.0.0 usp1.baidu.com
+0.0.0.0 wkclick.baidu.com
+0.0.0.0 wkctj.baidu.com
+#[mobojoy.baidu.com]
+0.0.0.0 api.mobojoy.baidu.com
+0.0.0.0 js.mobojoy.baidu.com
+0.0.0.0 mobojoy.baidu.com
+0.0.0.0 sync.mobojoy.baidu.com
+#[hm.baidu.com]
+0.0.0.0 click.hm.baidu.com
+0.0.0.0 hm.baidu.com
+0.0.0.0 log.hm.baidu.com
+#[mobads.baidu.com]
+0.0.0.0 mobads.baidu.com
+0.0.0.0 static.mobads.baidu.com

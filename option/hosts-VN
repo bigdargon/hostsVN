@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Dec 2020 14:51 UTC+7
-# Version: 2012031451
-# Blocked: 1,474 domains
+# Last modified: 08 Dec 2020 11:43 UTC+7
+# Version: 2012081143
+# Blocked: 1,476 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1375,6 +1375,7 @@
 0.0.0.0 adx.xemvtv.net
 0.0.0.0 affiliate.k4.tinhte.vn
 0.0.0.0 ailamtrieuphu.com
+0.0.0.0 ak9.6895588.com
 0.0.0.0 alivar.com.vn
 0.0.0.0 alivar.vn
 0.0.0.0 amobi.vn
@@ -1407,6 +1408,7 @@
 0.0.0.0 deltago.com
 0.0.0.0 demopage.me
 0.0.0.0 dt.vnecdn.com
+0.0.0.0 ff.imacdn.com
 0.0.0.0 financial-agent.headlines.pw
 0.0.0.0 fptad.com
 0.0.0.0 genmonet.com

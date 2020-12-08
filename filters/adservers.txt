@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Dec 2020 14:51 UTC+7
-! Version: 2012031451
-! Blocked: 560 rules
+! Last modified: 08 Dec 2020 11:43 UTC+7
+! Version: 2012081143
+! Blocked: 564 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -214,6 +214,7 @@
 ||adx.xemvtv.net^
 ||affiliate.k4.tinhte.vn^
 ||ailamtrieuphu.com^
+||ak9.6895588.com^
 ||alivar.com.vn^
 ||alivar.vn^
 ||amobi.vn^
@@ -246,6 +247,7 @@
 ||deltago.com^
 ||demopage.me^
 ||dt.vnecdn.com^
+||ff.imacdn.com^
 ||financial-agent.headlines.pw^
 ||fptad.com^
 ||genmonet.com^
@@ -500,6 +502,7 @@
 ||one88.vn^
 ||oneday88.com^
 ||playv8.com^
+||qq8788viet.com^
 ||r88.vn^
 ||red88.com^
 ||ric.win^
@@ -518,6 +521,7 @@
 ||taiv8.com^
 ||tangsoc.com^
 ||thethaofb88.com^
+||tin010.com^
 ||top88.club^
 ||top88.fun^
 ||top88.uk^

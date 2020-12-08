@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 03 Dec 2020 14:51 UTC+7
-! Version: 2012031451
-! Blocked: 5,555 domains
+! Last modified: 08 Dec 2020 11:43 UTC+7
+! Version: 2012081143
+! Blocked: 5,558 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h*-ad.24hstatic.com
@@ -212,6 +212,7 @@ adx.kul.vn
 adx.xemvtv.net
 affiliate.k4.tinhte.vn
 ailamtrieuphu.com
+ak9.6895588.com
 alivar.com.vn
 alivar.vn
 amobi.vn
@@ -244,6 +245,7 @@ delivery.vtcnew.com.vn
 deltago.com
 demopage.me
 dt.vnecdn.com
+ff.imacdn.com
 financial-agent.headlines.pw
 fptad.com
 genmonet.com
@@ -498,6 +500,7 @@ one88.us
 one88.vn
 oneday88.com
 playv8.com
+qq8788viet.com
 r88.vn
 red88.com
 ric.win
@@ -516,6 +519,7 @@ taimacau.club
 taiv8.com
 tangsoc.com
 thethaofb88.com
+tin010.com
 top88.club
 top88.fun
 top88.uk
@@ -747,6 +751,7 @@ adxxx.info
 adz2you.net
 adzerk.net
 aerserv.com
+afd.baidu.com
 affcpatrack.com
 agentanalytics.com
 agkn.com
@@ -757,6 +762,7 @@ ajx*.online
 alcmpn.com
 alexametrics.com
 alphonso.tv
+als.baidu.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazon-adsystems.com
@@ -885,9 +891,11 @@ btrace.video.qq.com
 bttrack.com
 bugly.qq.com
 bumlam.com
+bzclk.baidu.com
 c.bing.com
 c.microsoft.com
 cacafly.net
+caclick.baidu.com
 cbsileads.com
 cbsinteractive.com
 cdnwidget.com
@@ -993,6 +1001,7 @@ du8783wkf05yr.cloudfront.net
 duapps.com
 dynamicyield.com
 e.qq.com
+eclick.baidu.com
 effectivemeasure.net
 ej1*.online
 ematicsolutions.com
@@ -1062,6 +1071,7 @@ googletagservices.com
 gop1.co
 goraps.com
 growingio.com
+gsp1.baidu.com
 gssprt.jp
 gumgum.com
 hadarone.com
@@ -1071,6 +1081,7 @@ heapanalytics.com
 heyzap.com
 hgbasics.com
 histats.com
+hm.baidu.com
 hotjar.com
 hotjar.io
 hs-analytics.net
@@ -1091,6 +1102,7 @@ iesnare.com
 igexin.com
 ilyonanalytics.herokuapp.com
 im-apps.net
+imgstat.baidu.com
 imonomy.com
 imstks.com
 indexexchange.com
@@ -1218,6 +1230,8 @@ ml314.com
 mmccint.com
 mmstat.com
 moatads.com
+mobads-logs.baidu.com
+mobads.baidu.com
 mobclix.com
 mobfox.com
 mobile-collector.newrelic.com
@@ -1228,6 +1242,7 @@ mobileads.msn.com
 mobileanalytics.*.amazonaws.com
 mobileapptracking.com
 mobileoffers-*-download.com
+mobojoy.baidu.com
 mobpartner.mobi
 mobytrks.com
 mocean.mobi
@@ -1273,6 +1288,7 @@ nobid.com
 npeakuy.com
 nr-data.net
 ns1p.net
+nsclick.baidu.com
 nxtck.com
 nytadvertising.nytimes.com
 o-s.io
@@ -1322,6 +1338,7 @@ pjiptn.com
 platform.tumblr.com
 playbuzz.com
 playground.xyz
+plugin.mobopay.baidu.com
 pmddby.com
 po.st
 popads.net
@@ -1399,6 +1416,7 @@ samba.tv
 sascdn.com
 scanscout.com
 scarabresearch.com
+sclick.baidu.com
 scorecardresearch.com
 sdk.iad-*.braze.com
 sdkclickurl.com
@@ -1504,6 +1522,7 @@ upsight.com
 urbanairship.com
 urekamedia.com
 useinsider.com
+usp1.baidu.com
 uttclimber.com
 v16-ad.byteoversea.com
 vdo.ai
@@ -1532,6 +1551,8 @@ webtrends.com
 webvisor.com
 webvisor.org
 webvisor.ru
+wkclick.baidu.com
+wkctj.baidu.com
 woopra.com
 wootric.com
 wowreality.info
@@ -5183,7 +5204,6 @@ zumobi.com
 zxc.world
 2o7.net
 a.axmtrack.com
-a.idio.co
 a.klaviyo.com
 a.quora.com
 a3cloud.net
@@ -5253,8 +5273,6 @@ bjhmt.com
 blueconic.net
 bugsense.com
 burstly.com
-bvpdf9.u9a.wentserver.com
-bzclk.baidu.com
 c.snnd.co
 c.webengage.com
 c2i-cdn.startappnetwork.com
@@ -5284,8 +5302,6 @@ ct.pinterest.com
 d24n15hnbwhuhn.cloudfront.net
 d4n.platformd.com
 databerries.com
-demo25.extstore.com
-device.maxmind.com
 discountcode.dailymail.co.uk
 distillery.wistia.com
 dm.gg
@@ -5293,11 +5309,9 @@ dm599.com
 dmxleo.com
 dnn506yrbagrg.cloudfront.net
 do-not-tracker.org
-do.count.ly
 dolohen.com
 down.nishuoa.com
 dynatrace.com
-eclick.baidu.com
 edigitalsurvey.com
 embed.tawk.to
 ethtrader.de
@@ -5314,7 +5328,6 @@ flagcounter.com
 frog.wix.com
 g.3gl.net
 ga.kvideo.io
-geoip.maxmind.com
 geoip.nekudo.com
 geoip.tnt-ea.com
 geolocation.onetrust.com
@@ -5338,19 +5351,16 @@ hypestat.com
 i-mar.com
 i.shannon-fisher.xyz
 iaudienc.com
+idio.co
 ie8eamus.com
 images.dmca.com
 img.leadzutw.com
-imgstat.baidu.com
-infoaz.nl
 inside-graph.com
 intent.cbsi.com
 invitejs.trustpilot.com
 invoca.net
 js.hscollectedforms.net
 js.hsleadflows.net
-js.idio.co
-js.maxmind.com
 k6r.net
 kameleoon.eu
 kidsghibli.com
@@ -5383,7 +5393,6 @@ metricfast.com
 metrics.brightcove.com
 metrics.cloudflarebolt.com
 metrics.sdkbox.com
-mjhkj8.u5a.wentserver.com
 montacarichi.it
 mousestats.com
 movestone.net
@@ -5393,7 +5402,6 @@ nonglirili.net
 nppmwatch.com
 npttech.com
 ns.zdbb.net
-nsclick.baidu.com
 om.cbsi.com
 opensharecount.com
 ophan.theguardian.com
@@ -5438,7 +5446,6 @@ rsrly.com
 rta2.metro.co.uk
 rtb123.com
 s.iaudienc.com
-s.idio.co
 s.infogram.com
 safegraph.com
 safelyawake.com
@@ -5446,7 +5453,6 @@ salesloft.com
 sam4m.com
 saspreview.com
 sc-static.net
-sclick.baidu.com
 semantiqo.com
 showbiz.owndata.network
 si.dailymail.co.uk
@@ -5466,7 +5472,6 @@ static.intentarget.com
 static.leaddyno.com
 stats.apester.com
 stats.betradar.com
-stats.count.ly
 stats.unlimapps.com
 stats.wp.com
 stats.xtraffic.xyz
@@ -5556,5 +5561,3 @@ view-appleid.com
 zhangtom1989.cn
 connect.facebook.net
 appsflyer.com
-dig.bdurl.net
-dig.zjurl.cn

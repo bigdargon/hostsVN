@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Dec 2020 14:51 UTC+7
-# Version: 2012031451
-# Blocked: 18,319 domains
+# Last modified: 08 Dec 2020 11:43 UTC+7
+# Version: 2012081143
+# Blocked: 18,328 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12742,6 +12742,29 @@
 0 t.keywee.co
 0 tracking.keywee.co
 0 www.keywee.co
+0 afd.baidu.com
+0 als.baidu.com
+0 bzclk.baidu.com
+0 caclick.baidu.com
+0 eclick.baidu.com
+0 gsp1.baidu.com
+0 imgstat.baidu.com
+0 mobads-logs.baidu.com
+0 nsclick.baidu.com
+0 plugin.mobopay.baidu.com
+0 sclick.baidu.com
+0 usp1.baidu.com
+0 wkclick.baidu.com
+0 wkctj.baidu.com
+0 api.mobojoy.baidu.com
+0 js.mobojoy.baidu.com
+0 mobojoy.baidu.com
+0 sync.mobojoy.baidu.com
+0 click.hm.baidu.com
+0 hm.baidu.com
+0 log.hm.baidu.com
+0 mobads.baidu.com
+0 static.mobads.baidu.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14002,6 +14025,7 @@
 0 adx.xemvtv.net
 0 affiliate.k4.tinhte.vn
 0 ailamtrieuphu.com
+0 ak9.6895588.com
 0 alivar.com.vn
 0 alivar.vn
 0 amobi.vn
@@ -14034,6 +14058,7 @@
 0 deltago.com
 0 demopage.me
 0 dt.vnecdn.com
+0 ff.imacdn.com
 0 financial-agent.headlines.pw
 0 fptad.com
 0 genmonet.com
@@ -17914,7 +17939,6 @@
 0 zxc.world
 0 2o7.net
 0 a.axmtrack.com
-0 a.idio.co
 0 a.klaviyo.com
 0 a.quora.com
 0 a3cloud.net
@@ -17984,8 +18008,6 @@
 0 blueconic.net
 0 bugsense.com
 0 burstly.com
-0 bvpdf9.u9a.wentserver.com
-0 bzclk.baidu.com
 0 c.snnd.co
 0 c.webengage.com
 0 c2i-cdn.startappnetwork.com
@@ -18015,8 +18037,6 @@
 0 d24n15hnbwhuhn.cloudfront.net
 0 d4n.platformd.com
 0 databerries.com
-0 demo25.extstore.com
-0 device.maxmind.com
 0 discountcode.dailymail.co.uk
 0 distillery.wistia.com
 0 dm.gg
@@ -18024,11 +18044,9 @@
 0 dmxleo.com
 0 dnn506yrbagrg.cloudfront.net
 0 do-not-tracker.org
-0 do.count.ly
 0 dolohen.com
 0 down.nishuoa.com
 0 dynatrace.com
-0 eclick.baidu.com
 0 edigitalsurvey.com
 0 embed.tawk.to
 0 ethtrader.de
@@ -18045,7 +18063,6 @@
 0 frog.wix.com
 0 g.3gl.net
 0 ga.kvideo.io
-0 geoip.maxmind.com
 0 geoip.nekudo.com
 0 geoip.tnt-ea.com
 0 geolocation.onetrust.com
@@ -18069,19 +18086,16 @@
 0 i-mar.com
 0 i.shannon-fisher.xyz
 0 iaudienc.com
+0 idio.co
 0 ie8eamus.com
 0 images.dmca.com
 0 img.leadzutw.com
-0 imgstat.baidu.com
-0 infoaz.nl
 0 inside-graph.com
 0 intent.cbsi.com
 0 invitejs.trustpilot.com
 0 invoca.net
 0 js.hscollectedforms.net
 0 js.hsleadflows.net
-0 js.idio.co
-0 js.maxmind.com
 0 k6r.net
 0 kameleoon.eu
 0 kidsghibli.com
@@ -18114,7 +18128,6 @@
 0 metrics.brightcove.com
 0 metrics.cloudflarebolt.com
 0 metrics.sdkbox.com
-0 mjhkj8.u5a.wentserver.com
 0 montacarichi.it
 0 mousestats.com
 0 movestone.net
@@ -18124,7 +18137,6 @@
 0 nppmwatch.com
 0 npttech.com
 0 ns.zdbb.net
-0 nsclick.baidu.com
 0 om.cbsi.com
 0 opensharecount.com
 0 ophan.theguardian.com
@@ -18169,7 +18181,6 @@
 0 rta2.metro.co.uk
 0 rtb123.com
 0 s.iaudienc.com
-0 s.idio.co
 0 s.infogram.com
 0 safegraph.com
 0 safelyawake.com
@@ -18177,7 +18188,6 @@
 0 sam4m.com
 0 saspreview.com
 0 sc-static.net
-0 sclick.baidu.com
 0 semantiqo.com
 0 showbiz.owndata.network
 0 si.dailymail.co.uk
@@ -18197,7 +18207,6 @@
 0 static.leaddyno.com
 0 stats.apester.com
 0 stats.betradar.com
-0 stats.count.ly
 0 stats.unlimapps.com
 0 stats.wp.com
 0 stats.xtraffic.xyz

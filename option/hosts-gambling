@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 03 Dec 2020 14:51 UTC+7
-# Version: 2012031451
-# Blocked: 2,666 domains
+# Last modified: 08 Dec 2020 11:43 UTC+7
+# Version: 2012081143
+# Blocked: 2,670 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -521,6 +521,10 @@
 0.0.0.0 www.sodo14.com
 0.0.0.0 w388.com
 0.0.0.0 www.w388.com
+0.0.0.0 qq8788viet.com
+0.0.0.0 m.qq8788viet.com
+0.0.0.0 tin010.com
+0.0.0.0 www.tin010.com
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
