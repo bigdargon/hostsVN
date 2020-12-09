@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 08 Dec 2020 16:07 UTC+7
-! Version: 2012081607
-! Blocked: 5,562 rules
+! Last modified: 09 Dec 2020 10:42 UTC+7
+! Version: 2012091042
+! Blocked: 5,563 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5568,3 +5568,4 @@
 ||connect.facebook.net^
 ||appsflyer.com^
 @@||app.appsflyer.com^|
+@@||i.mangaqq.com^|

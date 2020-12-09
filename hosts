@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Dec 2020 16:07 UTC+7
-# Version: 2012081607
-# Blocked: 18,332 domains
+# Last modified: 09 Dec 2020 10:42 UTC+7
+# Version: 2012091042
+# Blocked: 18,333 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -19247,3 +19247,5 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 wa.appsflyer.com
+#[mangaqq.com]
+0.0.0.0 mangaqq.com
