@@ -13542,3 +13542,11 @@
 #[mobads.baidu.com]
 0.0.0.0 mobads.baidu.com
 0.0.0.0 static.mobads.baidu.com
+#[userreport.com]
+0.0.0.0 analytics.userreport.com
+0.0.0.0 cdn.userreport.com
+0.0.0.0 sak.userreport.com
+0.0.0.0 sdscdn.userreport.com
+0.0.0.0 sync.userreport.com
+0.0.0.0 tag.userreport.com
+0.0.0.0 userreport.com
