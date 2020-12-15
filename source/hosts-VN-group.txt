@@ -377,6 +377,15 @@
 0.0.0.0 retg.ambient-platform.com
 0.0.0.0 static.ambient-platform.com
 0.0.0.0 www.ambient-platform.com
+#[ambientdsp.com]
+0.0.0.0 ambientdsp.com
+0.0.0.0 clk.ambientdsp.com
+0.0.0.0 cm.ambientdsp.com
+0.0.0.0 imp.ambientdsp.com
+0.0.0.0 metrics.ambientdsp.com
+0.0.0.0 static.ambientdsp.com
+0.0.0.0 trk.ambientdsp.com
+0.0.0.0 www.ambientdsp.com
 #[ants.vn]
 0.0.0.0 a.ants.vn
 0.0.0.0 abs.ants.vn
