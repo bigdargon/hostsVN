@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 19 Dec 2020 17:14 UTC+7
-# Version: 2012191714
+# Last modified: 19 Dec 2020 17:22 UTC+7
+# Version: 2012191722
 # Blocked: 1,492 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -273,7 +273,7 @@
 0.0.0.0 qc.coccoc.com
 0.0.0.0 searcher.qc.coccoc.com
 0.0.0.0 ssp.qc.coccoc.com
-[qc.coccoc.vn]
+#[qc.coccoc.vn]
 0.0.0.0 qc.coccoc.vn
 0.0.0.0 qccoccocmedia.vn
 #[itim.vn]
