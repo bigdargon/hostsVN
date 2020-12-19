@@ -244,23 +244,27 @@
 #[coccoc]
 0.0.0.0 ads-target.coccoc.com
 0.0.0.0 banners-gallery.coccoc.com
-0.0.0.0 catalog.qc.coccoc.com
 0.0.0.0 cdn-qc.coccoc.com
 0.0.0.0 cdn.comedia.coccoc.com
+0.0.0.0 metrics.coccoc.com
+0.0.0.0 nt-cdn.coccoc.com
+0.0.0.0 qc-static.coccoc.com
+0.0.0.0 shop-cdn.coccoc.com
+0.0.0.0 shopping.coccoc.com
+#[qc.coccoc.com]
+0.0.0.0 catalog.qc.coccoc.com
 0.0.0.0 cdn.qc.coccoc.com
 0.0.0.0 context.qc.coccoc.com
 0.0.0.0 cp.qc.coccoc.com
 0.0.0.0 display.qc.coccoc.com
-0.0.0.0 metrics.coccoc.com
-0.0.0.0 nt-cdn.coccoc.com
 0.0.0.0 ntrb.qc.coccoc.com
-0.0.0.0 qc-static.coccoc.com
 0.0.0.0 qc.coccoc.com
 0.0.0.0 searcher.qc.coccoc.com
-0.0.0.0 shop-cdn.coccoc.com
-0.0.0.0 shopping.coccoc.com
-0.0.0.0 qccoccocmedia.vn
+0.0.0.0 ssp.qc.coccoc.com
+[qc.coccoc.vn]
 0.0.0.0 qc.coccoc.vn
+0.0.0.0 qccoccocmedia.vn
+#[itim.vn]
 0.0.0.0 itim.vn
 0.0.0.0 spell.itim.vn
 #[rungrinh.vn]
