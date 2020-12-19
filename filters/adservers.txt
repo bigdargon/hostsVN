@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Dec 2020 10:42 UTC+7
-! Version: 2012091042
-! Blocked: 564 rules
+! Last modified: 19 Dec 2020 17:14 UTC+7
+! Version: 2012191714
+! Blocked: 574 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37,6 +37,7 @@
 ||adtima.vn^
 ||adtimaserver.vn^
 ||ambient-platform.com^
+||ambientdsp.com^
 ||ambientplatform.vn^
 ||amcdn.vn^
 ||anthill.vn^
@@ -48,6 +49,7 @@
 ||bidgear-syndication.com^
 ||bidgear.com^
 ||brand.zing.vn^
+||cdn-qc.coccoc.com^
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
 ||centralized.zaloapp.com^
@@ -177,6 +179,7 @@
 ||admin.sothuchi.vn^
 ||adpostback.headlines.pw^
 ||ads-cdn.fptplay.net^
+||ads.1thegioi.vn^
 ||ads.baodatviet.vn^
 ||ads.baotainguyenmoitruong.vn^
 ||ads.bkitsoftware.com^
@@ -185,15 +188,20 @@
 ||ads.home.vn^
 ||ads.ictnews.vn^
 ||ads.khoahocdoisong.vn^
+||ads.kiemsat.vn^
+||ads.lamchame.vn^
+||ads.laodongnghean.vn^
 ||ads.nghenhinvietnam.vn^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
 ||ads.thegioitiepthi.vn^
 ||ads.thesaigontimes.vn^
+||ads.thitruongtaichinhtiente.vn^
 ||ads.tiki.vn^
 ||ads.vietbao.vn^
 ||ads.vkool.info^
+||ads.vovlive.vn^
 ||ads.xemphimso.com^
 ||ads1.careerbuilder.vn^
 ||adserver.lag.vn^
@@ -232,6 +240,7 @@
 ||bgadx.com^
 ||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
+||cdn2.cache.vn^
 ||cdnasset.dantri.com.vn^
 ||chiasephim.xyz^
 ||click-ads.saoteen.net^
@@ -555,6 +564,7 @@
 ||x8.club^
 ||x8.vin^
 ||x8vn.com^
+||xemdabanh.club^
 ||yo88.win^
 ||yo88vn.vip^
 ||yule12888.com^

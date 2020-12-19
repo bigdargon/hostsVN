@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Dec 2020 10:42 UTC+7
-! Version: 2012091042
-! Blocked: 5,563 rules
+! Last modified: 19 Dec 2020 17:14 UTC+7
+! Version: 2012191714
+! Blocked: 5,596 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37,6 +37,7 @@
 ||adtima.vn^
 ||adtimaserver.vn^
 ||ambient-platform.com^
+||ambientdsp.com^
 ||ambientplatform.vn^
 ||amcdn.vn^
 ||anthill.vn^
@@ -48,6 +49,7 @@
 ||bidgear-syndication.com^
 ||bidgear.com^
 ||brand.zing.vn^
+||cdn-qc.coccoc.com^
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
 ||centralized.zaloapp.com^
@@ -177,6 +179,7 @@
 ||admin.sothuchi.vn^
 ||adpostback.headlines.pw^
 ||ads-cdn.fptplay.net^
+||ads.1thegioi.vn^
 ||ads.baodatviet.vn^
 ||ads.baotainguyenmoitruong.vn^
 ||ads.bkitsoftware.com^
@@ -185,15 +188,20 @@
 ||ads.home.vn^
 ||ads.ictnews.vn^
 ||ads.khoahocdoisong.vn^
+||ads.kiemsat.vn^
+||ads.lamchame.vn^
+||ads.laodongnghean.vn^
 ||ads.nghenhinvietnam.vn^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
 ||ads.thegioitiepthi.vn^
 ||ads.thesaigontimes.vn^
+||ads.thitruongtaichinhtiente.vn^
 ||ads.tiki.vn^
 ||ads.vietbao.vn^
 ||ads.vkool.info^
+||ads.vovlive.vn^
 ||ads.xemphimso.com^
 ||ads1.careerbuilder.vn^
 ||adserver.lag.vn^
@@ -232,6 +240,7 @@
 ||bgadx.com^
 ||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
+||cdn2.cache.vn^
 ||cdnasset.dantri.com.vn^
 ||chiasephim.xyz^
 ||click-ads.saoteen.net^
@@ -555,6 +564,7 @@
 ||x8.club^
 ||x8.vin^
 ||x8vn.com^
+||xemdabanh.club^
 ||yo88.win^
 ||yo88vn.vip^
 ||yule12888.com^
@@ -679,6 +689,7 @@
 ||ads.heytapmobi.com^
 ||ads.linkedin.com^
 ||ads.nytimes.com^
+||ads.pinterest.com^
 ||ads.snapchat.com^
 ||ads.tiktok.com^
 ||ads.twitter.com^
@@ -781,6 +792,7 @@
 ||analytics.google.com^
 ||analytics.mobile.yandex.net^
 ||analytics.msn.com^
+||analytics.pinterest.com^
 ||analytics.query.yahoo.com^
 ||analytics.spotify.com^
 ||analytics.tiktok.com^
@@ -798,6 +810,7 @@
 ||appboy.com^
 ||appcloudbox.net^
 ||appearch.info^
+||appier.net^
 ||applifier.com^
 ||applifier.info^
 ||applog.musical.ly^
@@ -900,6 +913,7 @@
 ||caclick.baidu.com^
 ||cbsileads.com^
 ||cbsinteractive.com^
+||cdnads.com^
 ||cdnwidget.com^
 ||celtra.com^
 ||cfjump.com^
@@ -961,6 +975,7 @@
 ||criteo.com^
 ||criteo.net^
 ||crwdcntrl.net^
+||ct.pinterest.com^
 ||customad.cnn.com^
 ||cxense.com^
 ||d1ros97qkrwjf5.cloudfront.net^
@@ -1011,6 +1026,7 @@
 ||en25.com^
 ||engageya.com^
 ||epom.com^
+||eskimi.com^
 ||ethicalads.io^
 ||everesttech.net^
 ||evidon.com^
@@ -1177,6 +1193,7 @@
 ||log.byteoversea.com^
 ||log.go.com^
 ||log.musical.ly^
+||log.pinterest.com^
 ||log.snssdk.com^
 ||log.spotify.com^
 ||log.tiktokv.com^
@@ -1190,6 +1207,7 @@
 ||logrocket.com^
 ||logrocket.io^
 ||logsdk.qq.com^
+||loopme.me^
 ||lotame.com^
 ||lsosad.com^
 ||luckyorange.com^
@@ -1208,6 +1226,7 @@
 ||marphezis.com^
 ||mathtag.com^
 ||matomo.cloud^
+||mavq.net^
 ||mc.yandex.ru^
 ||mdotm.com^
 ||measuread.com^
@@ -1276,6 +1295,7 @@
 ||navdmp.com^
 ||ncaudienceexchange.com^
 ||nend.net^
+||neptuneadspush.com^
 ||netcoresmartech.com^
 ||neustar.biz^
 ||newrelic.com^
@@ -1475,7 +1495,9 @@
 ||steelhousemedia.com^
 ||steepto.com^
 ||stickyadstv.com^
+||storiespace.com^
 ||styria-digital.com^
+||supercounters.com^
 ||superfastmediation.com^
 ||supersonicads.com^
 ||sworkitads.herokuapp.com^
@@ -1505,6 +1527,8 @@
 ||treasuredata.com^
 ||tremorhub.com^
 ||triplelift.com^
+||trk.pinterest.com^
+||trk2.pinterest.com^
 ||tru.am^
 ||tsyndicate.com^
 ||tune.com^
@@ -1524,6 +1548,7 @@
 ||urbanairship.com^
 ||urekamedia.com^
 ||useinsider.com^
+||userreport.com^
 ||usp1.baidu.com^
 ||uttclimber.com^
 ||v16-ad.byteoversea.com^
@@ -1553,6 +1578,7 @@
 ||webvisor.com^
 ||webvisor.org^
 ||webvisor.ru^
+||widgets.pinterest.com^
 ||wkclick.baidu.com^
 ||wkctj.baidu.com^
 ||woopra.com^
@@ -2562,7 +2588,6 @@
 ||appflood.com^
 ||appia.com^
 ||appier.com^
-||appier.net^
 ||appnext-a.akamaihd.net^
 ||appolicious.com^
 ||apprebates.com^
@@ -2632,6 +2657,7 @@
 ||axdsz.pro^
 ||axiomaticalley.com^
 ||aylarl.com^
+||azoaltou.com^
 ||b-1st.com^
 ||b4psads.com^
 ||babs.tv2.dk^
@@ -3140,6 +3166,7 @@
 ||deloplen.com^
 ||deloton.com^
 ||demdex.net^
+||denetsuk.com^
 ||desertedbreath.com^
 ||desertedrat.com^
 ||detailedglue.com^
@@ -3207,6 +3234,7 @@
 ||e-ssl.apsalar.com^
 ||e.apsalar.com^
 ||e.kde.cz^
+||e2ertt.com^
 ||e2wysbacctt1.com^
 ||eadexchange.com^
 ||earnify.com^
@@ -3474,6 +3502,7 @@
 ||havamedia.net^
 ||healthyoffers.com^
 ||heap.com^
+||heeteefu.com^
 ||hegarberetrof.pro^
 ||heias.com^
 ||hellobar.com^
@@ -3659,6 +3688,7 @@
 ||j93557g.com^
 ||jadeitite.com^
 ||jaduda.com^
+||jaftouja.net^
 ||jaizouji.com^
 ||jatxt.com^
 ||jcount.com^
@@ -3669,6 +3699,7 @@
 ||jiwire.com^
 ||joetec.net^
 ||jokedollars.com^
+||jomtingi.net^
 ||js.hsforms.net^
 ||jugjetwok.com^
 ||julysystems.com^
@@ -4093,6 +4124,7 @@
 ||onlinecashmethod.com^
 ||onlinerewardcenter.com^
 ||onlyadshere.info^
+||onmarshtompor.com^
 ||onmobile.com^
 ||onstunkyr.com^
 ||onvictinitor.com^
@@ -4481,6 +4513,7 @@
 ||rundsp.com^
 ||rusenov.com^
 ||ruthlessrobin.com^
+||ruwertur.com^
 ||s.click.aliexpress.com^
 ||s2d6.com^
 ||sageanalyst.net^
@@ -5205,6 +5238,7 @@
 ||zmedia.com^
 ||zqtk.net^
 ||zumobi.com^
+||zuphaims.com^
 ||zxc.world^
 ||2o7.net^
 ||a.axmtrack.com^
@@ -5287,6 +5321,7 @@
 ||cdn.promotionengine.com^
 ||cdn.zarget.com^
 ||cedexis.com^
+||cedexis.net^
 ||clerrrep.com^
 ||cleverpush.com^
 ||client-analytics.braintreegateway.com^
@@ -5302,7 +5337,6 @@
 ||creative.dailymail.co.uk^
 ||crittercism.com^
 ||csdian.net^
-||ct.pinterest.com^
 ||d24n15hnbwhuhn.cloudfront.net^
 ||d4n.platformd.com^
 ||databerries.com^
@@ -5380,7 +5414,6 @@
 ||log.getdropbox.com^
 ||log.kmplayer.com^
 ||log.kuwo.cn^
-||log.pinterest.com^
 ||log.quora.com^
 ||log.snapdeal.com^
 ||log.tutuapp.com^
@@ -5512,7 +5545,6 @@
 ||tracking.lenzmx.com^
 ||traffic.spot.im^
 ||trk.clinch.co^
-||trk.pinterest.com^
 ||ultimedia.com^
 ||um.videmob.com^
 ||unicaitaly.it^
@@ -5567,5 +5599,6 @@
 ||zhangtom1989.cn^
 ||connect.facebook.net^
 ||appsflyer.com^
+||mangaqq.com^
 @@||app.appsflyer.com^|
 @@||i.mangaqq.com^|

@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 09 Dec 2020 10:42 UTC+7
-! Version: 2012091042
-! Blocked: 5,563 domains
+! Last modified: 19 Dec 2020 17:14 UTC+7
+! Version: 2012191714
+! Blocked: 5,596 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h*-ad.24hstatic.com
@@ -35,6 +35,7 @@ adtima*.zadn.vn
 adtima.vn
 adtimaserver.vn
 ambient-platform.com
+ambientdsp.com
 ambientplatform.vn
 amcdn.vn
 anthill.vn
@@ -46,6 +47,7 @@ banners-gallery.coccoc.com
 bidgear-syndication.com
 bidgear.com
 brand.zing.vn
+cdn-qc.coccoc.com
 cdn.comedia.coccoc.com
 cdnstoremedia.com
 centralized.zaloapp.com
@@ -175,6 +177,7 @@ admedia.com.vn
 admin.sothuchi.vn
 adpostback.headlines.pw
 ads-cdn.fptplay.net
+ads.1thegioi.vn
 ads.baodatviet.vn
 ads.baotainguyenmoitruong.vn
 ads.bkitsoftware.com
@@ -183,15 +186,20 @@ ads.fptplay.net.vn
 ads.home.vn
 ads.ictnews.vn
 ads.khoahocdoisong.vn
+ads.kiemsat.vn
+ads.lamchame.vn
+ads.laodongnghean.vn
 ads.nghenhinvietnam.vn
 ads.phunuonline.com.vn
 ads.phunusuckhoe.vn
 ads.phunuvagiadinh.vn
 ads.thegioitiepthi.vn
 ads.thesaigontimes.vn
+ads.thitruongtaichinhtiente.vn
 ads.tiki.vn
 ads.vietbao.vn
 ads.vkool.info
+ads.vovlive.vn
 ads.xemphimso.com
 ads1.careerbuilder.vn
 adserver.lag.vn
@@ -230,6 +238,7 @@ banner.vietnamfinance.vn
 bgadx.com
 boxpr.aiservice.vn
 cdn-ads.thesaigontimes.vn
+cdn2.cache.vn
 cdnasset.dantri.com.vn
 chiasephim.xyz
 click-ads.saoteen.net
@@ -553,6 +562,7 @@ ww88club.com
 x8.club
 x8.vin
 x8vn.com
+xemdabanh.club
 yo88.win
 yo88vn.vip
 yule12888.com
@@ -677,6 +687,7 @@ ads.google.com
 ads.heytapmobi.com
 ads.linkedin.com
 ads.nytimes.com
+ads.pinterest.com
 ads.snapchat.com
 ads.tiktok.com
 ads.twitter.com
@@ -779,6 +790,7 @@ analytics.go.com
 analytics.google.com
 analytics.mobile.yandex.net
 analytics.msn.com
+analytics.pinterest.com
 analytics.query.yahoo.com
 analytics.spotify.com
 analytics.tiktok.com
@@ -796,6 +808,7 @@ appbaqend.com
 appboy.com
 appcloudbox.net
 appearch.info
+appier.net
 applifier.com
 applifier.info
 applog.musical.ly
@@ -898,6 +911,7 @@ cacafly.net
 caclick.baidu.com
 cbsileads.com
 cbsinteractive.com
+cdnads.com
 cdnwidget.com
 celtra.com
 cfjump.com
@@ -959,6 +973,7 @@ creativecdn.com
 criteo.com
 criteo.net
 crwdcntrl.net
+ct.pinterest.com
 customad.cnn.com
 cxense.com
 d1ros97qkrwjf5.cloudfront.net
@@ -1009,6 +1024,7 @@ emxdgt.com
 en25.com
 engageya.com
 epom.com
+eskimi.com
 ethicalads.io
 everesttech.net
 evidon.com
@@ -1175,6 +1191,7 @@ log-va.tiktokv.com
 log.byteoversea.com
 log.go.com
 log.musical.ly
+log.pinterest.com
 log.snssdk.com
 log.spotify.com
 log.tiktokv.com
@@ -1188,6 +1205,7 @@ logly.co.jp
 logrocket.com
 logrocket.io
 logsdk.qq.com
+loopme.me
 lotame.com
 lsosad.com
 luckyorange.com
@@ -1206,6 +1224,7 @@ marketolive.com
 marphezis.com
 mathtag.com
 matomo.cloud
+mavq.net
 mc.yandex.ru
 mdotm.com
 measuread.com
@@ -1274,6 +1293,7 @@ n*adserv.xyz
 navdmp.com
 ncaudienceexchange.com
 nend.net
+neptuneadspush.com
 netcoresmartech.com
 neustar.biz
 newrelic.com
@@ -1473,7 +1493,9 @@ statt-collect.herokuapp.com
 steelhousemedia.com
 steepto.com
 stickyadstv.com
+storiespace.com
 styria-digital.com
+supercounters.com
 superfastmediation.com
 supersonicads.com
 sworkitads.herokuapp.com
@@ -1503,6 +1525,8 @@ trazk.com
 treasuredata.com
 tremorhub.com
 triplelift.com
+trk.pinterest.com
+trk2.pinterest.com
 tru.am
 tsyndicate.com
 tune.com
@@ -1522,6 +1546,7 @@ upsight.com
 urbanairship.com
 urekamedia.com
 useinsider.com
+userreport.com
 usp1.baidu.com
 uttclimber.com
 v16-ad.byteoversea.com
@@ -1551,6 +1576,7 @@ webtrends.com
 webvisor.com
 webvisor.org
 webvisor.ru
+widgets.pinterest.com
 wkclick.baidu.com
 wkctj.baidu.com
 woopra.com
@@ -2560,7 +2586,6 @@ appfireworks.com
 appflood.com
 appia.com
 appier.com
-appier.net
 appnext-a.akamaihd.net
 appolicious.com
 apprebates.com
@@ -2630,6 +2655,7 @@ awzbijw.com
 axdsz.pro
 axiomaticalley.com
 aylarl.com
+azoaltou.com
 b-1st.com
 b4psads.com
 babs.tv2.dk
@@ -3138,6 +3164,7 @@ deloo.de
 deloplen.com
 deloton.com
 demdex.net
+denetsuk.com
 desertedbreath.com
 desertedrat.com
 detailedglue.com
@@ -3205,6 +3232,7 @@ e-planning.net
 e-ssl.apsalar.com
 e.apsalar.com
 e.kde.cz
+e2ertt.com
 e2wysbacctt1.com
 eadexchange.com
 earnify.com
@@ -3472,6 +3500,7 @@ harrenmedianetwork.com
 havamedia.net
 healthyoffers.com
 heap.com
+heeteefu.com
 hegarberetrof.pro
 heias.com
 hellobar.com
@@ -3657,6 +3686,7 @@ ivypixel.com
 j93557g.com
 jadeitite.com
 jaduda.com
+jaftouja.net
 jaizouji.com
 jatxt.com
 jcount.com
@@ -3667,6 +3697,7 @@ jivox.com
 jiwire.com
 joetec.net
 jokedollars.com
+jomtingi.net
 js.hsforms.net
 jugjetwok.com
 julysystems.com
@@ -4091,6 +4122,7 @@ onlinecash.com
 onlinecashmethod.com
 onlinerewardcenter.com
 onlyadshere.info
+onmarshtompor.com
 onmobile.com
 onstunkyr.com
 onvictinitor.com
@@ -4479,6 +4511,7 @@ runads.com
 rundsp.com
 rusenov.com
 ruthlessrobin.com
+ruwertur.com
 s.click.aliexpress.com
 s2d6.com
 sageanalyst.net
@@ -5203,6 +5236,7 @@ zm232.com
 zmedia.com
 zqtk.net
 zumobi.com
+zuphaims.com
 zxc.world
 2o7.net
 a.axmtrack.com
@@ -5285,6 +5319,7 @@ cdn.onesignal.com
 cdn.promotionengine.com
 cdn.zarget.com
 cedexis.com
+cedexis.net
 clerrrep.com
 cleverpush.com
 client-analytics.braintreegateway.com
@@ -5300,7 +5335,6 @@ count.ly
 creative.dailymail.co.uk
 crittercism.com
 csdian.net
-ct.pinterest.com
 d24n15hnbwhuhn.cloudfront.net
 d4n.platformd.com
 databerries.com
@@ -5378,7 +5412,6 @@ log.apk.v-mate.mobi
 log.getdropbox.com
 log.kmplayer.com
 log.kuwo.cn
-log.pinterest.com
 log.quora.com
 log.snapdeal.com
 log.tutuapp.com
@@ -5510,7 +5543,6 @@ tracking.hubspot.com
 tracking.lenzmx.com
 traffic.spot.im
 trk.clinch.co
-trk.pinterest.com
 ultimedia.com
 um.videmob.com
 unicaitaly.it
@@ -5565,3 +5597,4 @@ view-appleid.com
 zhangtom1989.cn
 connect.facebook.net
 appsflyer.com
+mangaqq.com
