@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 19 Dec 2020 17:22 UTC+7
-! Version: 2012191722
-! Blocked: 5,596 rules
+! Last modified: 19 Dec 2020 19:49 UTC+7
+! Version: 2012191949
+! Blocked: 5,564 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1725,7 +1725,6 @@
 ||ad.lupa.cz^
 ||ad.mail.ru^
 ||ad.media-servers.net^
-||ad.mediastorm.hu^
 ||ad.mgd.de^
 ||ad.mox.tv^
 ||ad.musicmatch.com^
@@ -1756,7 +1755,6 @@
 ||ad.unimhk.com^
 ||ad.usatoday.com^
 ||ad.virtual-nights.com^
-||ad.wavu.hu^
 ||ad.way.cz^
 ||ad.weatherbug.com^
 ||ad.wsod.com^
@@ -1864,8 +1862,6 @@
 ||adimages.been.com^
 ||adimages.carsoup.com^
 ||adimages.homestore.com^
-||adimages.omroepzeeland.nl^
-||adimages.sanomawsoy.fi^
 ||adimg.cbsi.com^
 ||adimg.net^
 ||adimg.uimserv.net^
@@ -2026,7 +2022,6 @@
 ||ads.cc^
 ||ads.cdn.rovio.com^
 ||ads.centraliprom.com^
-||ads.channel4.com^
 ||ads.clearchannel.com^
 ||ads.co.com^
 ||ads.colombiaonline.com^
@@ -2037,7 +2032,6 @@
 ||ads.cybersales.cz^
 ||ads.dada.it^
 ||ads.datingyes.com^
-||ads.deltha.hu^
 ||ads.dennisnet.co.uk^
 ||ads.desmoinesregister.com^
 ||ads.detelefoongids.nl^
@@ -2318,13 +2312,10 @@
 ||adserver.nydailynews.com^
 ||adserver.o2.pl^
 ||adserver.oddschecker.com^
-||adserver.omroepzeeland.nl^
 ||adserver.pl^
 ||adserver.portugalmail.net^
 ||adserver.pressboard.ca^
 ||adserver.quizdingo.com^
-||adserver.realhomesex.net^
-||adserver.sanomawsoy.fi^
 ||adserver.sciflicks.com^
 ||adserver.sharewareonline.com^
 ||adserver.spankaway.com^
@@ -2332,7 +2323,6 @@
 ||adserver.twitpic.com^
 ||adserver.viagogo.com^
 ||adserver.virginmedia.com^
-||adserver01.de^
 ||adserver1-images.backbeatmedia.com^
 ||adserver1.backbeatmedia.com^
 ||adserver1.mindshare.de^
@@ -2381,7 +2371,6 @@
 ||adsrevenue.net^
 ||adsrocket.net^
 ||adsrv.deviantart.com^
-||adsrv.iol.co.za^
 ||adsrv.vidnt.com^
 ||adsrveys.com^
 ||adsstat.com^
@@ -2437,7 +2426,6 @@
 ||adventory.com^
 ||adverserve.net^
 ||advert.bayarea.com^
-||advert.dyna.ultraweb.hu^
 ||advert360.com^
 ||adverticum.com^
 ||adverticum.net^
@@ -2563,7 +2551,6 @@
 ||anglishreasts.site^
 ||annonser.dagbladet.no^
 ||anrdoezrs.net^
-||antiviruspro-vietnam.info^
 ||antvoice.com^
 ||anxiousapples.com^
 ||apathetictheory.com^
@@ -2639,8 +2626,6 @@
 ||audienceinsights.com^
 ||audiencemanager.de^
 ||audiens.com^
-||audit.median.hu^
-||audit.webinform.hu^
 ||audrte.com^
 ||augur.io^
 ||auto-bannertausch.de^
@@ -3121,7 +3106,6 @@
 ||crownrecluse.com^
 ||crsspxl.com^
 ||crtv.mate1.com^
-||ctnetwork.hu^
 ||cubics.com^
 ||cumbersomecloud.com^
 ||curtaincows.com^
@@ -3606,7 +3590,6 @@
 ||images.footballaddicts.se^
 ||imarketservices.com^
 ||imatmobile.com^
-||img.prohardver.hu^
 ||imgpromo.easyrencontre.com^
 ||imimobile.com^
 ||immensehoney.com^
@@ -3664,7 +3647,6 @@
 ||intergi.com^
 ||internetfuel.com^
 ||interreklame.de^
-||interstat.hu^
 ||intnotif.club^
 ||intowow.com^
 ||inuvi.com^
@@ -3714,7 +3696,6 @@
 ||karonty.com^
 ||keapeiros.xyz^
 ||ketchapp.org^
-||keymedia.hu^
 ||keynotedeviceanywhere.com^
 ||kindads.com^
 ||kiolim.com^
@@ -4448,7 +4429,6 @@
 ||reklam.rfsl.se^
 ||reklama.mironet.cz^
 ||reklama.reflektor.cz^
-||reklamcsere.hu^
 ||reklame.unwired-i.net^
 ||relevanz10.de^
 ||relmaxtop.com^
@@ -4585,7 +4565,6 @@
 ||shareasale.com^
 ||sharepointads.com^
 ||sharppatch.com^
-||sher.index.hu^
 ||shermore.info^
 ||shinystat.com^
 ||shinystat.it^
@@ -4703,7 +4682,6 @@
 ||startsmajesty.com^
 ||stat.cliche.se^
 ||stat.dealtime.com^
-||stat.dyna.ultraweb.hu^
 ||stat.pl^
 ||stat.su^
 ||stat.webmedia.pl^
@@ -4879,8 +4857,6 @@
 ||top.list.ru^
 ||top.mail.ru^
 ||top.proext.com^
-||top100-images.rambler.ru^
-||top100.mafia.ru^
 ||top123.ro^
 ||top20.com^
 ||top20free.com^
@@ -4892,7 +4868,6 @@
 ||topgamesites.net^
 ||toplist.cz^
 ||toplist.pornhost.com^
-||toplista.mw.hu^
 ||toplistcity.com^
 ||topmmorpgsites.com^
 ||topping.com.ua^
@@ -5098,11 +5073,9 @@
 ||web-stat.com^
 ||web.btncdn.com^
 ||web.informer.com^
-||web2.deja.com^
 ||webads.eu^
 ||webads.nl^
 ||webangel.ru^
-||webcash.nl^
 ||webcontentassessor.com^
 ||webcounter.cz^
 ||webcounter.goweb.de^
@@ -5116,7 +5089,6 @@
 ||webreseau.com^
 ||webseoanalytics.com^
 ||websponsors.com^
-||webstat.channel4.com^
 ||webstat.com^
 ||webstat.net^
 ||webstats4u.com^
@@ -5169,7 +5141,6 @@
 ||wtlive.com^
 ||www-banner.chat.ru^
 ||x-traceur.com^
-||x6.yakiuchi.com^
 ||xad.com^
 ||xchange.ro^
 ||xclicks.net^
@@ -5319,9 +5290,6 @@
 ||ccgateway.net^
 ||cdn.onesignal.com^
 ||cdn.promotionengine.com^
-||cdn.zarget.com^
-||cedexis.com^
-||cedexis.net^
 ||clerrrep.com^
 ||cleverpush.com^
 ||client-analytics.braintreegateway.com^
