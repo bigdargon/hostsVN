@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 19 Dec 2020 19:49 UTC+7
-! Version: 2012191949
-! Blocked: 5,564 domains
+! Last modified: 28 Dec 2020 22:44 UTC+7
+! Version: 2012282244
+! Blocked: 5,579 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h*-ad.24hstatic.com
@@ -67,12 +67,14 @@ eclick.vn
 eva*-ad.24hstatic.com
 ezimar.com
 fff.com.vn
+flygame.io
 fuseplatform.net
 gammaplatform.com
 gammassp.com
 hbplatform.com
 hotngay.vn
 itim.vn
+kabbmedia.com
 klick.vn
 ladi.me
 ladicdn.com
@@ -178,6 +180,7 @@ admin.sothuchi.vn
 adpostback.headlines.pw
 ads-cdn.fptplay.net
 ads.1thegioi.vn
+ads.baobinhduong.vn
 ads.baodatviet.vn
 ads.baotainguyenmoitruong.vn
 ads.bkitsoftware.com
@@ -271,6 +274,7 @@ microad.vn
 mobileads.dieuviet.com
 myad.vn
 ng-vn-notice.gameitop.com
+nspapi.aiservice.vn
 offerwall.headlines.pw
 phimmedia03.com
 polyad.galaxypub.vn
@@ -309,6 +313,7 @@ widget.headlines.pw
 addlog.thuvienphapluat.vn
 admin.phunusuckhoe.vn
 alexajstrack.com
+analytic.baodantoc.vn
 analytics.bkav.com
 analytics.easyvideo.vn
 analytics.explus.vn
@@ -320,6 +325,7 @@ analytics.videocloud.top
 analytics.vietnamfinance.vn
 analytics.vnreview.vn
 apl.headlines.pw
+clientinfo.phimmoizz.net
 counter.ntdvn.com
 deqik.com
 elogs.vnexpress.net
@@ -348,8 +354,10 @@ log.kienthuc.net.vn
 log.ngaynay.vn
 log.nhipcaudautu.vn
 log.sggp.org.vn
+log.tapchimattran.vn
 log.tapchitaichinh.vn
 log.thanhnien.vn
+log.theleader.vn
 log.tienphong.vn
 log.tinnhanhchungkhoan.vn
 log.vietnamdaily.net.vn
@@ -376,6 +384,7 @@ s.soha.vn
 s.tuoitre.vn
 sharefb.cnnd.vn
 stat.headlines.pw
+static.subiz.com
 staticad.thethao247.vn
 statistics.vov.vn
 stats.123c.vn
@@ -572,6 +581,7 @@ zbet.win
 zo.club
 zo.game
 zowinvn.vip
+bloodleian.club
 celerantatters.com
 hashearog.com
 rituationscardb.info
@@ -834,7 +844,6 @@ arsena*.xyz
 artsai.com
 asianmedia.com
 askingpoint.com
-assets.adobedtm.com
 assoc-amazon.com
 atdmt.com
 atemda.com
@@ -950,9 +959,7 @@ cnt.my
 collection-*.herokuapp.com
 collective-media.net
 collector.newrelic.com
-commerce.adobedtm.com
 connatix.com
-connect.adobedtm.com
 connectad.io
 consumable.com
 content-ad.net
@@ -1480,7 +1487,6 @@ spotscenered.info
 spotxchange.com
 srvcs.tumblr.com
 ssl-google-analytics.l.google.com
-sslproxy-prod.adobedtm.com
 sstats.adobe.com
 staging-insights-collector.newrelic.com
 starbolt.io
@@ -1557,7 +1563,6 @@ vi-serve.com
 viadata.store
 vicksot.com
 videohub.tv
-viglink.com
 viruspro.pro
 vivaclix.com
 vlitag.com
@@ -2536,6 +2541,7 @@ allstarmediagroup.com
 amazingcounters.com
 ambiguousquilt.com
 ambitiousagreement.com
+ambleads.com
 americash.com
 amgdgt.com
 amillionads.com
@@ -3143,7 +3149,6 @@ dedicatedmedia.com
 deepintent.com
 defectivesun.com
 delegatediscussion.com
-deliver.vkcdnservice.com
 deloo.de
 deloplen.com
 deloton.com
@@ -3190,6 +3195,7 @@ domaining.in
 domainsponsor.com
 domainsteam.de
 domdex.com
+domeleco.top
 doubleadserve.com
 doubleclick.com
 doubleclick.de
@@ -3411,7 +3417,6 @@ fwmrm.net
 fxclix.com
 fxstyle.net
 g2afse.com
-ga.clearbit.com
 ga87z2o.com
 galaksion.com
 galaxien.com
@@ -3441,6 +3446,7 @@ go-rillatrack.com
 go.mobisla.com
 go.onclasrv.com
 go.padstm.com
+go.trvdp.com
 go2affise.com
 goadservices.com
 goingplatinum.com
@@ -4321,6 +4327,7 @@ ps.ns-cdn.com
 ps7894.com
 psstt.com
 ptairtug.net
+ptywajofa.pro
 pub.chez.com
 pub.club-internet.fr
 pub.hardware.fr
@@ -5288,6 +5295,7 @@ cc.swiftype.com
 ccgateway.net
 cdn.onesignal.com
 cdn.promotionengine.com
+cedexis.com
 clerrrep.com
 cleverpush.com
 client-analytics.braintreegateway.com
@@ -5305,6 +5313,7 @@ crittercism.com
 csdian.net
 d24n15hnbwhuhn.cloudfront.net
 d4n.platformd.com
+dap.digitalgov.gov
 databerries.com
 discountcode.dailymail.co.uk
 distillery.wistia.com
@@ -5330,8 +5339,10 @@ fastly-insights.com
 fathomseo.com
 fff.dailymail.co.uk
 flagcounter.com
+freegeoip.net
 frog.wix.com
 g.3gl.net
+ga.clearbit.com
 ga.kvideo.io
 geoip.nekudo.com
 geoip.tnt-ea.com
@@ -5372,6 +5383,7 @@ kidsghibli.com
 kissmetrics.com
 kitbit.net
 kkvmaj.com
+largeer.com
 leadzutw.com
 lem-computers.net
 lfeeder.com
@@ -5442,7 +5454,9 @@ reachmax.cn
 redinvestor.com
 remyyadan.online.fr
 reports.ubimo.com
+reveal.clearbit.com
 richmetrics.com
+risk.clearbit.com
 rlog.9gag.com
 robinkornett.com
 rochesterdata.com
@@ -5462,6 +5476,7 @@ semantiqo.com
 showbiz.owndata.network
 si.dailymail.co.uk
 simplesharebuttons.com
+singular.net
 smart-dmp.com
 smetrics.bestbuy.com
 smetrics.boston.com

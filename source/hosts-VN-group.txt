@@ -85,14 +85,9 @@
 0.0.0.0 code.admicro.vn
 0.0.0.0 content-ml.admicro.vn
 0.0.0.0 contract.admicro.vn
-0.0.0.0 contracttest.admicro.vn
 0.0.0.0 cpd.admicro.vn
 0.0.0.0 chamcong.admicro.vn
-0.0.0.0 chamcongtest.admicro.vn
 0.0.0.0 defaultdsp.admicro.vn
-0.0.0.0 demo.admicro.vn
-0.0.0.0 demo-adopt.admicro.vn
-0.0.0.0 dev.email-analytics.admicro.vn
 0.0.0.0 display.admicro.vn
 0.0.0.0 dl.logging.admicro.vn
 0.0.0.0 drive.admicro.vn
@@ -101,7 +96,6 @@
 0.0.0.0 ea.logging.admicro.vn
 0.0.0.0 e-learning.admicro.vn
 0.0.0.0 enterpriseapi.admicro.vn
-0.0.0.0 erptest.admicro.vn
 0.0.0.0 f.admicro.vn
 0.0.0.0 file.admicro.vn
 0.0.0.0 fingerprint.admicro.vn
@@ -113,7 +107,6 @@
 0.0.0.0 img.admicro.vn
 0.0.0.0 in.admicro.vn
 0.0.0.0 ir.admicro.vn
-0.0.0.0 ketoan.admicro.vn
 0.0.0.0 kpi.admicro.vn
 0.0.0.0 lab.admicro.vn
 0.0.0.0 layout.admicro.vn
@@ -145,7 +138,6 @@
 0.0.0.0 publisher.admicro.vn
 0.0.0.0 redmine.admicro.vn
 0.0.0.0 remarketing.admicro.vn
-0.0.0.0 sale.test.admicro.vn
 0.0.0.0 saledev.admicro.vn
 0.0.0.0 snews.admicro.vn
 0.0.0.0 sso.admicro.vn
@@ -300,7 +292,6 @@
 0.0.0.0 pub.lavanetwork.net
 0.0.0.0 revive.lavanetwork.net
 0.0.0.0 slv1.lavanetwork.net
-0.0.0.0 test.lavanetwork.net
 0.0.0.0 video.lavanetwork.net
 0.0.0.0 www.lavanetwork.net
 0.0.0.0 xaxis.lavanetwork.net
@@ -695,7 +686,6 @@
 0.0.0.0 smtp6.younetmedia.com
 0.0.0.0 socialheat.younetmedia.com
 0.0.0.0 static.younetmedia.com
-0.0.0.0 testing.younetmedia.com
 0.0.0.0 www.younetmedia.com
 0.0.0.0 younetmedia.com
 #[mangoads.vn]
@@ -1317,3 +1307,20 @@
 0.0.0.0 worth.smartconvert.co
 0.0.0.0 wsite.smartconvert.co
 0.0.0.0 www.smartconvert.co
+#[flygame.io]
+0.0.0.0 api.flygame.io
+0.0.0.0 flygame.io
+0.0.0.0 game.flygame.io
+0.0.0.0 images.flygame.io
+0.0.0.0 inapi.flygame.io
+0.0.0.0 ingame.flygame.io
+0.0.0.0 lottery.flygame.io
+0.0.0.0 stat.flygame.io
+0.0.0.0 thapi.flygame.io
+0.0.0.0 thgame.flygame.io
+0.0.0.0 www.flygame.io
+#[kabbmedia.com]
+0.0.0.0 ads.kabbmedia.com
+0.0.0.0 delivery.kabbmedia.com
+0.0.0.0 images.kabbmedia.com
+0.0.0.0 kabbmedia.com

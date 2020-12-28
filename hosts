@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Dec 2020 19:49 UTC+7
-# Version: 2012191949
-# Blocked: 18,419 domains
+# Last modified: 28 Dec 2020 22:44 UTC+7
+# Version: 2012282244
+# Blocked: 18,420 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3404,24 +3404,6 @@
 0.0.0.0 realtime.services.disqus.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 tempest.services.disqus.com
-#[viglink]
-0.0.0.0 api.viglink.com
-0.0.0.0 apicdn.viglink.com
-0.0.0.0 catalog.viglink.com
-0.0.0.0 cdn.viglink.com
-0.0.0.0 hosted.viglink.com
-0.0.0.0 ideas.viglink.com
-0.0.0.0 images.viglink.com
-0.0.0.0 info.viglink.com
-0.0.0.0 mc.viglink.com
-0.0.0.0 merchants.viglink.com
-0.0.0.0 optimize.viglink.com
-0.0.0.0 publishers.viglink.com
-0.0.0.0 qa.viglink.com
-0.0.0.0 redirect.viglink.com
-0.0.0.0 rest.viglink.com
-0.0.0.0 viglink.com
-0.0.0.0 www.viglink.com
 #[adspruce.com]
 0.0.0.0 adspruce.com
 0.0.0.0 ani.adspruce.com
@@ -4188,13 +4170,6 @@
 0.0.0.0 mmccint.com
 0.0.0.0 sf.mmccint.com
 0.0.0.0 controller-gateway.mmccint.com
-#[adobe]
-0.0.0.0 assets.adobedtm.com
-0.0.0.0 commerce.adobedtm.com
-0.0.0.0 connect.adobedtm.com
-0.0.0.0 sslproxy-prod.adobedtm.com
-0.0.0.0 sstats.adobe.com
-0.0.0.0 du8783wkf05yr.cloudfront.net
 #[3lift.com]
 0.0.0.0 3lift.com
 0.0.0.0 amp.3lift.com
@@ -13748,14 +13723,9 @@
 0.0.0.0 code.admicro.vn
 0.0.0.0 content-ml.admicro.vn
 0.0.0.0 contract.admicro.vn
-0.0.0.0 contracttest.admicro.vn
 0.0.0.0 cpd.admicro.vn
 0.0.0.0 chamcong.admicro.vn
-0.0.0.0 chamcongtest.admicro.vn
 0.0.0.0 defaultdsp.admicro.vn
-0.0.0.0 demo.admicro.vn
-0.0.0.0 demo-adopt.admicro.vn
-0.0.0.0 dev.email-analytics.admicro.vn
 0.0.0.0 display.admicro.vn
 0.0.0.0 dl.logging.admicro.vn
 0.0.0.0 drive.admicro.vn
@@ -13764,7 +13734,6 @@
 0.0.0.0 ea.logging.admicro.vn
 0.0.0.0 e-learning.admicro.vn
 0.0.0.0 enterpriseapi.admicro.vn
-0.0.0.0 erptest.admicro.vn
 0.0.0.0 f.admicro.vn
 0.0.0.0 file.admicro.vn
 0.0.0.0 fingerprint.admicro.vn
@@ -13776,7 +13745,6 @@
 0.0.0.0 img.admicro.vn
 0.0.0.0 in.admicro.vn
 0.0.0.0 ir.admicro.vn
-0.0.0.0 ketoan.admicro.vn
 0.0.0.0 kpi.admicro.vn
 0.0.0.0 lab.admicro.vn
 0.0.0.0 layout.admicro.vn
@@ -13808,7 +13776,6 @@
 0.0.0.0 publisher.admicro.vn
 0.0.0.0 redmine.admicro.vn
 0.0.0.0 remarketing.admicro.vn
-0.0.0.0 sale.test.admicro.vn
 0.0.0.0 saledev.admicro.vn
 0.0.0.0 snews.admicro.vn
 0.0.0.0 sso.admicro.vn
@@ -13963,7 +13930,6 @@
 0.0.0.0 pub.lavanetwork.net
 0.0.0.0 revive.lavanetwork.net
 0.0.0.0 slv1.lavanetwork.net
-0.0.0.0 test.lavanetwork.net
 0.0.0.0 video.lavanetwork.net
 0.0.0.0 www.lavanetwork.net
 0.0.0.0 xaxis.lavanetwork.net
@@ -14358,7 +14324,6 @@
 0.0.0.0 smtp6.younetmedia.com
 0.0.0.0 socialheat.younetmedia.com
 0.0.0.0 static.younetmedia.com
-0.0.0.0 testing.younetmedia.com
 0.0.0.0 www.younetmedia.com
 0.0.0.0 younetmedia.com
 #[mangoads.vn]
@@ -14980,6 +14945,23 @@
 0.0.0.0 worth.smartconvert.co
 0.0.0.0 wsite.smartconvert.co
 0.0.0.0 www.smartconvert.co
+#[flygame.io]
+0.0.0.0 api.flygame.io
+0.0.0.0 flygame.io
+0.0.0.0 game.flygame.io
+0.0.0.0 images.flygame.io
+0.0.0.0 inapi.flygame.io
+0.0.0.0 ingame.flygame.io
+0.0.0.0 lottery.flygame.io
+0.0.0.0 stat.flygame.io
+0.0.0.0 thapi.flygame.io
+0.0.0.0 thgame.flygame.io
+0.0.0.0 www.flygame.io
+#[kabbmedia.com]
+0.0.0.0 ads.kabbmedia.com
+0.0.0.0 delivery.kabbmedia.com
+0.0.0.0 images.kabbmedia.com
+0.0.0.0 kabbmedia.com
 # --- Block adsVN ---
 0.0.0.0 703531862.vws.vegacdn.vn
 0.0.0.0 ad-admin.vnay.vn
@@ -15003,6 +14985,7 @@
 0.0.0.0 adpostback.headlines.pw
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads.1thegioi.vn
+0.0.0.0 ads.baobinhduong.vn
 0.0.0.0 ads.baodatviet.vn
 0.0.0.0 ads.baotainguyenmoitruong.vn
 0.0.0.0 ads.bkitsoftware.com
@@ -15096,6 +15079,7 @@
 0.0.0.0 mobileads.dieuviet.com
 0.0.0.0 myad.vn
 0.0.0.0 ng-vn-notice.gameitop.com
+0.0.0.0 nspapi.aiservice.vn
 0.0.0.0 offerwall.headlines.pw
 0.0.0.0 phimmedia03.com
 0.0.0.0 polyad.galaxypub.vn
@@ -15150,6 +15134,7 @@
 0.0.0.0 addlog.thuvienphapluat.vn
 0.0.0.0 admin.phunusuckhoe.vn
 0.0.0.0 alexajstrack.com
+0.0.0.0 analytic.baodantoc.vn
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.explus.vn
@@ -15161,6 +15146,7 @@
 0.0.0.0 analytics.vietnamfinance.vn
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 apl.headlines.pw
+0.0.0.0 clientinfo.phimmoizz.net
 0.0.0.0 counter.ntdvn.com
 0.0.0.0 deqik.com
 0.0.0.0 elogs.vnexpress.net
@@ -15189,8 +15175,10 @@
 0.0.0.0 log.ngaynay.vn
 0.0.0.0 log.nhipcaudautu.vn
 0.0.0.0 log.sggp.org.vn
+0.0.0.0 log.tapchimattran.vn
 0.0.0.0 log.tapchitaichinh.vn
 0.0.0.0 log.thanhnien.vn
+0.0.0.0 log.theleader.vn
 0.0.0.0 log.tienphong.vn
 0.0.0.0 log.tinnhanhchungkhoan.vn
 0.0.0.0 log.vietnamdaily.net.vn
@@ -15217,6 +15205,7 @@
 0.0.0.0 s.tuoitre.vn
 0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 stat.headlines.pw
+0.0.0.0 static.subiz.com
 0.0.0.0 staticad.thethao247.vn
 0.0.0.0 statistics.vov.vn
 0.0.0.0 stats.123c.vn
@@ -15258,6 +15247,7 @@
 0.0.0.0 widget.sbz.vn
 0.0.0.0 widget.subiz.xyz
 # --- Block scamVN ---
+0.0.0.0 bloodleian.club
 0.0.0.0 celerantatters.com
 0.0.0.0 hashearog.com
 0.0.0.0 rituationscardb.info
@@ -16188,6 +16178,7 @@
 0.0.0.0 amazingcounters.com
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
+0.0.0.0 ambleads.com
 0.0.0.0 americash.com
 0.0.0.0 amgdgt.com
 0.0.0.0 amillionads.com
@@ -16795,7 +16786,6 @@
 0.0.0.0 deepintent.com
 0.0.0.0 defectivesun.com
 0.0.0.0 delegatediscussion.com
-0.0.0.0 deliver.vkcdnservice.com
 0.0.0.0 deloo.de
 0.0.0.0 deloplen.com
 0.0.0.0 deloton.com
@@ -16841,6 +16831,7 @@
 0.0.0.0 domainsponsor.com
 0.0.0.0 domainsteam.de
 0.0.0.0 domdex.com
+0.0.0.0 domeleco.top
 0.0.0.0 doubleadserve.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
@@ -17062,7 +17053,6 @@
 0.0.0.0 fxclix.com
 0.0.0.0 fxstyle.net
 0.0.0.0 g2afse.com
-0.0.0.0 ga.clearbit.com
 0.0.0.0 ga87z2o.com
 0.0.0.0 galaksion.com
 0.0.0.0 galaxien.com
@@ -17092,6 +17082,7 @@
 0.0.0.0 go.mobisla.com
 0.0.0.0 go.onclasrv.com
 0.0.0.0 go.padstm.com
+0.0.0.0 go.trvdp.com
 0.0.0.0 go2affise.com
 0.0.0.0 goadservices.com
 0.0.0.0 goingplatinum.com
@@ -17969,6 +17960,7 @@
 0.0.0.0 ps7894.com
 0.0.0.0 psstt.com
 0.0.0.0 ptairtug.net
+0.0.0.0 ptywajofa.pro
 0.0.0.0 pub.chez.com
 0.0.0.0 pub.club-internet.fr
 0.0.0.0 pub.hardware.fr
@@ -18800,6 +18792,7 @@
 0.0.0.0 www.agroupadx.com
 0.0.0.0 www.allmygoodlife.com
 0.0.0.0 www.allmyverygreatlife.com
+0.0.0.0 www.ambleads.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.axdsz.pro
 0.0.0.0 www.beauty-tea.com
@@ -19021,6 +19014,7 @@
 0.0.0.0 ccgateway.net
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.promotionengine.com
+0.0.0.0 cedexis.com
 0.0.0.0 clerrrep.com
 0.0.0.0 cleverpush.com
 0.0.0.0 client-analytics.braintreegateway.com
@@ -19038,6 +19032,7 @@
 0.0.0.0 csdian.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d4n.platformd.com
+0.0.0.0 dap.digitalgov.gov
 0.0.0.0 databerries.com
 0.0.0.0 discountcode.dailymail.co.uk
 0.0.0.0 distillery.wistia.com
@@ -19063,8 +19058,10 @@
 0.0.0.0 fathomseo.com
 0.0.0.0 fff.dailymail.co.uk
 0.0.0.0 flagcounter.com
+0.0.0.0 freegeoip.net
 0.0.0.0 frog.wix.com
 0.0.0.0 g.3gl.net
+0.0.0.0 ga.clearbit.com
 0.0.0.0 ga.kvideo.io
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geoip.tnt-ea.com
@@ -19105,6 +19102,7 @@
 0.0.0.0 kissmetrics.com
 0.0.0.0 kitbit.net
 0.0.0.0 kkvmaj.com
+0.0.0.0 largeer.com
 0.0.0.0 leadzutw.com
 0.0.0.0 lem-computers.net
 0.0.0.0 lfeeder.com
@@ -19175,7 +19173,9 @@
 0.0.0.0 redinvestor.com
 0.0.0.0 remyyadan.online.fr
 0.0.0.0 reports.ubimo.com
+0.0.0.0 reveal.clearbit.com
 0.0.0.0 richmetrics.com
+0.0.0.0 risk.clearbit.com
 0.0.0.0 rlog.9gag.com
 0.0.0.0 robinkornett.com
 0.0.0.0 rochesterdata.com
@@ -19195,6 +19195,7 @@
 0.0.0.0 showbiz.owndata.network
 0.0.0.0 si.dailymail.co.uk
 0.0.0.0 simplesharebuttons.com
+0.0.0.0 singular.net
 0.0.0.0 smart-dmp.com
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 smetrics.boston.com

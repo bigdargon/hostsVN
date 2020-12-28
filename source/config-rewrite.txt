@@ -11,6 +11,9 @@
 ^https?://www.facebook.com/adnw_logging
 ^https?://www.facebook.com/adnw_sync
 
+^https?://web.facebook.com/adnw_logging
+^https?://web.facebook.com/adnw_sync
+
 
 #nhaccuatui
 ^https?://graph.nhaccuatui.com/.+advs
