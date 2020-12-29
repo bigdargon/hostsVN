@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 28 Dec 2020 22:44 UTC+7
-# Version: 2012282244
-# Blocked: 1,505 domains
+# Last modified: 29 Dec 2020 20:28 UTC+7
+# Version: 2012292028
+# Blocked: 1,506 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1510,6 +1510,7 @@
 0.0.0.0 alexajstrack.com
 0.0.0.0 analytic.baodantoc.vn
 0.0.0.0 analytics.bkav.com
+0.0.0.0 analytics.bkav.com.vn
 0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.explus.vn
 0.0.0.0 analytics.hub-js.com

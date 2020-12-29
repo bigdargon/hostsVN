@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Dec 2020 22:44 UTC+7
-! Version: 2012282244
-! Blocked: 584 rules
+! Last modified: 29 Dec 2020 20:28 UTC+7
+! Version: 2012292028
+! Blocked: 585 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -317,6 +317,7 @@
 ||alexajstrack.com^
 ||analytic.baodantoc.vn^
 ||analytics.bkav.com^
+||analytics.bkav.com.vn^
 ||analytics.easyvideo.vn^
 ||analytics.explus.vn^
 ||analytics.hub-js.com^

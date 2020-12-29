@@ -8,11 +8,8 @@
 ^https?://graph.facebook.com/.+events
 ^https?://graph.facebook.com/network_ads_common
 
-^https?://www.facebook.com/adnw_logging
-^https?://www.facebook.com/adnw_sync
-
-^https?://web.facebook.com/adnw_logging
-^https?://web.facebook.com/adnw_sync
+^https?:\/\/.+\.facebook\.com\/adnw_logging
+^https?:\/\/.+\.facebook\.com\/adnw_sync
 
 
 #nhaccuatui
