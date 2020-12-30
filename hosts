@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Dec 2020 20:08 UTC+7
-# Version: 2012302008
-# Blocked: 18,431 domains
+# Last modified: 30 Dec 2020 20:43 UTC+7
+# Version: 2012302043
+# Blocked: 18,427 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13636,11 +13636,6 @@
 0.0.0.0 cdn.mavq.net
 0.0.0.0 mavq.net
 0.0.0.0 www.mavq.net
-#[mpapis.xyz]
-0.0.0.0 api.mpapis.xyz
-0.0.0.0 dc.mpapis.xyz
-0.0.0.0 iapi.mpapis.xyz
-0.0.0.0 mpapis.xyz
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
