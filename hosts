@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Dec 2020 16:33 UTC+7
-# Version: 2012301633
-# Blocked: 18,430 domains
+# Last modified: 30 Dec 2020 20:06 UTC+7
+# Version: 2012302006
+# Blocked: 18,431 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -15108,6 +15108,7 @@
 0.0.0.0 sv-api-lottery.headlines.pw
 0.0.0.0 sv-static-lottery.headlines.pw
 0.0.0.0 sv-static1-lottery.headlines.pw
+0.0.0.0 syncwowsails.com
 0.0.0.0 toppage.vn
 0.0.0.0 trenddigital.vn
 0.0.0.0 truoctran.com
