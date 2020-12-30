@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 29 Dec 2020 20:28 UTC+7
-# Version: 2012292028
-# Blocked: 1,506 domains
+# Last modified: 30 Dec 2020 13:25 UTC+7
+# Version: 2012301325
+# Blocked: 1,508 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1480,6 +1480,7 @@
 0.0.0.0 toppage.vn
 0.0.0.0 trenddigital.vn
 0.0.0.0 truoctran.com
+0.0.0.0 tulipluv.xyz
 0.0.0.0 tvnotice.kg.garena.vn
 0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 user.headlines.pw
@@ -1501,6 +1502,7 @@
 0.0.0.0 www.microad.vn
 0.0.0.0 www.realclick.vn
 0.0.0.0 www.sbbanner.com
+0.0.0.0 www.tulipluv.xyz
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 0.0.0.0 www.vtvcab.xyz

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 29 Dec 2020 20:28 UTC+7
-! Version: 2012292028
-! Blocked: 5,581 rules
+! Last modified: 30 Dec 2020 13:25 UTC+7
+! Version: 2012301325
+! Blocked: 5,582 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -303,6 +303,7 @@
 ||toppage.vn^
 ||trenddigital.vn^
 ||truoctran.com^
+||tulipluv.xyz^
 ||tvnotice.kg.garena.vn^
 ||upfile16.mediaphim.com^
 ||user.headlines.pw^
