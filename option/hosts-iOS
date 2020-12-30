@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Dec 2020 13:25 UTC+7
-# Version: 2012301325
-# Blocked: 18,424 domains
+# Last modified: 30 Dec 2020 16:33 UTC+7
+# Version: 2012301633
+# Blocked: 18,430 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12839,6 +12839,10 @@
 0 cdn.mavq.net
 0 mavq.net
 0 www.mavq.net
+0 api.mpapis.xyz
+0 dc.mpapis.xyz
+0 iapi.mpapis.xyz
+0 mpapis.xyz
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -15284,6 +15288,7 @@
 0 anglishreasts.site
 0 annonser.dagbladet.no
 0 anrdoezrs.net
+0 antiadblocksystems.com
 0 antvoice.com
 0 anxiousapples.com
 0 apathetictheory.com
@@ -17887,6 +17892,7 @@
 0 www.allmyverygreatlife.com
 0 www.ambleads.com
 0 www.anrdoezrs.net
+0 www.antiadblocksystems.com
 0 www.axdsz.pro
 0 www.beauty-tea.com
 0 www.beharmalted.info
