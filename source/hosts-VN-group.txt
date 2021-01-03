@@ -587,29 +587,6 @@
 0.0.0.0 wakeup.klick.vn
 0.0.0.0 wakeup247.klick.vn
 0.0.0.0 www.klick.vn
-#[cokhach.com]
-0.0.0.0 admin.cokhach.com
-0.0.0.0 c.cokhach.com
-0.0.0.0 cokhach.com
-0.0.0.0 w.cokhach.com
-0.0.0.0 www.cokhach.com
-#[fff.com.vn]
-0.0.0.0 a.fff.com.vn
-0.0.0.0 admin.fff.com.vn
-0.0.0.0 client.fff.com.vn
-0.0.0.0 crm.fff.com.vn
-0.0.0.0 chanclickao.fff.com.vn
-0.0.0.0 chat.fff.com.vn
-0.0.0.0 f.fff.com.vn
-0.0.0.0 fb.fff.com.vn
-0.0.0.0 fff.com.vn
-0.0.0.0 files.fff.com.vn
-0.0.0.0 hmt.fff.com.vn
-0.0.0.0 khachhang.fff.com.vn
-0.0.0.0 report.fff.com.vn
-0.0.0.0 tracking.fff.com.vn
-0.0.0.0 ws.fff.com.vn
-0.0.0.0 www.fff.com.vn
 #[ladipage.vn]
 0.0.0.0 api.ladipage.vn
 0.0.0.0 builder.ladipage.vn
@@ -636,6 +613,9 @@
 0.0.0.0 v.ladicdn.com
 0.0.0.0 w.ladicdn.com
 0.0.0.0 www.ladicdn.com
+#[ladisales.com]
+0.0.0.0 api.ladisales.com
+0.0.0.0 ladisales.com
 #[ezimar.com]
 0.0.0.0 caohavan.ezimar.com
 0.0.0.0 ezdns.ezimar.com
@@ -812,17 +792,9 @@
 0.0.0.0 phanquang.vn
 0.0.0.0 quangcao.phanquang.vn
 0.0.0.0 www.phanquang.vn
-#[laydata.com]
-0.0.0.0 api.laydata.com
-0.0.0.0 cms.laydata.com
-0.0.0.0 databox.laydata.com
-0.0.0.0 facefone.laydata.com
-0.0.0.0 laydata.com
-0.0.0.0 www.laydata.com
 #[ohchat.net]
 0.0.0.0 ohchat.net
 0.0.0.0 app.ohchat.net
-0.0.0.0 hostmaster.ohchat.net
 0.0.0.0 www.ohchat.net
 #[mediaz.vn]
 0.0.0.0 adwords.mediaz.vn
