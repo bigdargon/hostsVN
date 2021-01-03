@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 30 Dec 2020 20:43 UTC+7
-! Version: 2012302043
-! Blocked: 5,584 domains
+! Last modified: 03 Jan 2021 19:22 UTC+7
+! Version: 2101031922
+! Blocked: 5,616 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h*-ad.24hstatic.com
@@ -57,7 +57,6 @@ cityadstrack.com
 cleverads.vn
 clevernet.vn
 clickbuy.bz
-cokhach.com
 contineljs.com
 d2ox6x0y9xhicd.cloudfront.net
 dable.io
@@ -66,7 +65,6 @@ donglogs.com
 eclick.vn
 eva*-ad.24hstatic.com
 ezimar.com
-fff.com.vn
 flygame.io
 fuseplatform.net
 gammaplatform.com
@@ -81,8 +79,8 @@ ladicdn.com
 ladipage.com
 ladipage.net
 ladipage.vn
+ladisales.com
 lavanetwork.net
-laydata.com
 log*.zing.vn
 log.api.zaloapp.com
 log.o2o.service.zaloapp.com
@@ -158,6 +156,7 @@ zminer.zaloapp.com
 zplayer-trk.zdn.vn
 zplayer.trk.zapps.vn
 ztevents.zaloapp.com
+5734a40f2d.vws.vegacdn.vn
 703531862.vws.vegacdn.vn
 ad-admin.vnay.vn
 ad.24h.com.vn
@@ -203,10 +202,12 @@ ads.tiki.vn
 ads.vietbao.vn
 ads.vkool.info
 ads.vovlive.vn
+ads.xedoisong.vn
 ads.xemphimso.com
 ads1.careerbuilder.vn
 adserver.lag.vn
 adserver.luzu.vn
+adserver.trangphim.net
 adsgo.nhipcaudautu.vn
 adsplus.vn
 adsv2.autodaily.vn
@@ -219,6 +220,7 @@ advertisement-nhatanh.com
 advserver.cgv.vn
 adx.baolongan.vn
 adx.edutimes.com.vn
+adx.hongtinnhanh.com
 adx.kul.vn
 adx.xemvtv.net
 affiliate.k4.tinhte.vn
@@ -239,6 +241,7 @@ banhtv.org
 banner.5giay.vn
 banner.vietnamfinance.vn
 bgadx.com
+bluemaulpuffs.com
 boxpr.aiservice.vn
 cdn-ads.thesaigontimes.vn
 cdn2.cache.vn
@@ -256,7 +259,9 @@ delivery.vtc.vn
 delivery.vtcnew.com.vn
 deltago.com
 demopage.me
+deqik.com
 dt.vnecdn.com
+duamilsyr.com
 ff.imacdn.com
 financial-agent.headlines.pw
 fptad.com
@@ -282,6 +287,7 @@ qc.designervn.net
 qcv5.blogtruyen.vn
 quangcao.24h.com.vn
 quangcao.baovannghe.com.vn
+quangcao.fff.com.vn
 quangcao.thanhnien.vn
 quangcao.tuoitre.vn
 quangcao247.com.vn
@@ -321,6 +327,7 @@ analytics.bkav.com.vn
 analytics.easyvideo.vn
 analytics.explus.vn
 analytics.hub-js.com
+analytics.nhattao.com
 analytics.sohatv.vn
 analytics.thethao247.org
 analytics.tiki.vn
@@ -330,7 +337,8 @@ analytics.vnreview.vn
 apl.headlines.pw
 clientinfo.phimmoizz.net
 counter.ntdvn.com
-deqik.com
+crm.bizfly.vn
+crmbizfly.todo.vn
 elogs.vnexpress.net
 event.headlines.pw
 event.vntoday.news
@@ -370,6 +378,7 @@ log.viettimes.vn
 log.vnay.vn
 log.vntoday.news
 log.vov.vn
+log.zamba.vn
 log4x.nixcdn.com
 logg4u.cnnd.vn
 logging.galaxypub.vn
@@ -387,6 +396,7 @@ s.soha.vn
 s.tuoitre.vn
 sharefb.cnnd.vn
 stat.headlines.pw
+static.accesstrade.vn
 static.subiz.com
 staticad.thethao247.vn
 statistics.vov.vn
@@ -414,6 +424,8 @@ tracker.tintucvietnam.vn
 tracking.appwifi.com
 tracking.dantri.com.vn
 tracking.fado.vn
+tracking.fff.com.vn
+tracking.hongtinnhanh.com
 tracking.vht.com.vn
 tracking.vietbao.vn
 tracking.vtc.vn
@@ -426,6 +438,8 @@ trk.staging.123c.vn
 userstats.shopee.vn
 vn.alexajstrack.com
 vtrack.vht.com.vn
+webpush.bizfly.vn
+webpush.todo.vn
 widget.sbz.vn
 widget.subiz.xyz
 11bet.com
@@ -779,6 +793,7 @@ afd.baidu.com
 affcpatrack.com
 agentanalytics.com
 agkn.com
+aimtell.com
 airpush.com
 aj1*.online
 ajgc1*.online
@@ -1285,6 +1300,7 @@ mon.isnssdk.com
 mon.musical.ly
 mon.snssdk.com
 mon.tiktokv.com
+mondiad.net
 monetiza.co
 monetize.com
 monitor.isnssdk.com
@@ -1579,6 +1595,7 @@ vungle.com
 w88.go.com
 wct.link
 weborama.com
+webpushr.com
 webpushs.com
 webtrends.com
 webvisor.com
@@ -1619,6 +1636,7 @@ zenadservices.net
 zergnet.com
 zetadeo.com
 zucks.net
+zx-adnet.com
 1-1ads.com
 1phads.com
 207.net
@@ -2639,6 +2657,7 @@ augur.io
 auto-bannertausch.de
 autohits.dk
 automaticflock.com
+auweelta.net
 avenuea.com
 avocet.io
 avpa.javalobby.org
@@ -2803,7 +2822,6 @@ blueadvertise.com
 bluecava.com
 bluekai.com
 bluelithium.com
-bluemaulpuffs.com
 bluewhaleweb.com
 blushingbeast.com
 blushingboundary.com
@@ -3356,6 +3374,7 @@ fast-adv.it
 fastbuy.biz
 fastclick.com
 fastclick.net
+fathuntsgall.com
 faultycanvas.com
 faultyfowl.com
 fbcdn2.com
@@ -3575,6 +3594,7 @@ iadnet.com
 iapclick.gowadogo.com
 iasds01.com
 ib-ibi.com
+iclickcdn.com
 iconadserver.com
 icptrack.com
 idcounter.com
@@ -3676,6 +3696,7 @@ itsptp.com
 ivwbox.de
 ivykiosk.com
 ivypixel.com
+iwhugaul.com
 j93557g.com
 jadeitite.com
 jaduda.com
@@ -3691,7 +3712,6 @@ jiwire.com
 joetec.net
 jokedollars.com
 jomtingi.net
-js.hsforms.net
 jugjetwok.com
 julysystems.com
 jumptap.com
@@ -4256,6 +4276,7 @@ playhaven.com
 playmobileads.com
 plethoramobile.com
 plista.com
+plufdsb.com
 plugrush.com
 pndelfast.com
 pocitadlo.cz
@@ -4277,6 +4298,7 @@ possessivebucket.com
 possibleboats.com
 potentionsdarket.site
 potenza.cz
+pouluwie.net
 powerad.ai
 ppfrlfe.com
 pr-star.de
@@ -4459,6 +4481,7 @@ revmob.com
 revsci.net
 revstats.com
 rhythmnewmedia.com
+ribunews.com
 richaudience.com
 richmails.com
 richstring.com
@@ -4662,6 +4685,7 @@ sponsorads.de
 sponsorpay.com
 sponsorpro.de
 sponsors.thoughtsmedia.com
+sporedfryhum.com
 spot.fitness.com
 spotx.tv
 springaftermath.com
@@ -4855,6 +4879,8 @@ tinybar.com
 tithewtog.com
 tizers.net
 tlvmedia.com
+tm-banners.gamingadult.com
+tm-offers.gamingadult.com
 tnkexchange.com
 tns-counter.ru
 tntclix.co.uk
@@ -5225,6 +5251,7 @@ zxc.world
 a.axmtrack.com
 a.klaviyo.com
 a.quora.com
+a.ria.ru
 a3cloud.net
 acint.net
 adentify.com
@@ -5382,6 +5409,7 @@ invitejs.trustpilot.com
 invoca.net
 js.hscollectedforms.net
 js.hsleadflows.net
+jsonip.com
 k6r.net
 kameleoon.eu
 kidsghibli.com
@@ -5419,6 +5447,7 @@ montacarichi.it
 mousestats.com
 movestone.net
 mybbc-analytics.files.bbci.co.uk
+netcore.co.in
 nexus.ensighten.com
 nonglirili.net
 nppmwatch.com
@@ -5445,6 +5474,7 @@ plausible.io
 play.leadzutw.com
 playtomic.com
 plrxserv.com
+popupmaker.com
 presage.io
 promotionengine.com
 prooffactor.com
@@ -5524,6 +5554,7 @@ track.td3x.com
 track.tenjin.io
 track.videmob.com
 trackcmp.net
+tracker.idocdn.com
 tracker.vgame.us
 trackersimulator.org
 tracking.adsrv.io
@@ -5562,6 +5593,7 @@ youthfire.com
 zarget.com
 abutparker.com
 agiegoeig.com
+cdn.cluodlfare.com
 comptrffc.com
 cpa-tc.com
 d1nmxiiewlx627.cloudfront.net
