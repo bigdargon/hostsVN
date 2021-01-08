@@ -178,8 +178,6 @@
 0.0.0.0 www.vietdorje.com
 0.0.0.0 www.vtvcab.xyz
 # --- Block trackingVN ---
-0.0.0.0 log.vnfinance.vn
-0.0.0.0 analytics.rever.vn
 0.0.0.0 addlog.thuvienphapluat.vn
 0.0.0.0 admin.phunusuckhoe.vn
 0.0.0.0 alexajstrack.com
@@ -190,6 +188,7 @@
 0.0.0.0 analytics.explus.vn
 0.0.0.0 analytics.hub-js.com
 0.0.0.0 analytics.nhattao.com
+0.0.0.0 analytics.rever.vn
 0.0.0.0 analytics.sohatv.vn
 0.0.0.0 analytics.thethao247.org
 0.0.0.0 analytics.tiki.vn
@@ -238,6 +237,7 @@
 0.0.0.0 log.vietnamplus.vn
 0.0.0.0 log.viettimes.vn
 0.0.0.0 log.vnay.vn
+0.0.0.0 log.vnfinance.vn
 0.0.0.0 log.vntoday.news
 0.0.0.0 log.vov.vn
 0.0.0.0 log.zamba.vn

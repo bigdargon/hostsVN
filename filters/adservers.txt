@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Jan 2021 19:22 UTC+7
-! Version: 2101031922
-! Blocked: 601 rules
+! Last modified: 08 Jan 2021 15:56 UTC+7
+! Version: 2101081556
+! Blocked: 607 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -330,6 +330,7 @@
 ||analytics.explus.vn^
 ||analytics.hub-js.com^
 ||analytics.nhattao.com^
+||analytics.rever.vn^
 ||analytics.sohatv.vn^
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
@@ -378,6 +379,7 @@
 ||log.vietnamplus.vn^
 ||log.viettimes.vn^
 ||log.vnay.vn^
+||log.vnfinance.vn^
 ||log.vntoday.news^
 ||log.vov.vn^
 ||log.zamba.vn^
@@ -499,6 +501,7 @@
 ||go88.club^
 ||go88.com^
 ||goal123.com^
+||goal68.top^
 ||ibet889.com^
 ||income88.com^
 ||jbovn.com^
@@ -541,6 +544,7 @@
 ||r88.vn^
 ||red88.com^
 ||ric.win^
+||rik.vip^
 ||rio66qc.club^
 ||sbc31.com^
 ||sieubomtan.com^
@@ -607,3 +611,5 @@
 ||sacchaeleduk.com^
 ||smilitygorb.club^
 ||ucesreferre.club^
+||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
+||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
