@@ -168,6 +168,8 @@
 #[googleapis.com]
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
+0.0.0.0 clientmetrics.googleapis.com
+0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 #[google]
@@ -13645,3 +13647,17 @@
 0.0.0.0 pop.adtilt.com
 0.0.0.0 rm2.adtilt.com
 0.0.0.0 www.adtilt.com
+#[tx-hit.com]
+0.0.0.0 pub.tx-hit.com
+0.0.0.0 tx-hit.com
+#[netund.com]
+0.0.0.0 c.netund.com
+0.0.0.0 netund.com
+0.0.0.0 p.netund.com
+#[adsco.re]
+0.0.0.0 4.adsco.re
+0.0.0.0 6.adsco.re
+0.0.0.0 adsco.re
+0.0.0.0 c.adsco.re
+0.0.0.0 d.adsco.re
+0.0.0.0 w.adsco.re
