@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Jan 2021 15:56 UTC+7
-# Version: 2101081556
-# Blocked: 18,466 domains
+# Last modified: 11 Jan 2021 14:14 UTC+7
+# Version: 2101111414
+# Blocked: 18,501 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -180,6 +180,8 @@
 #[googleapis.com]
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
+0.0.0.0 clientmetrics.googleapis.com
+0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 #[google]
@@ -2694,111 +2696,85 @@
 0.0.0.0 webportal.criteo.com
 0.0.0.0 widget.criteo.com
 0.0.0.0 www.criteo.com
-#[taboola]
-0.0.0.0 15.taboola.com
-0.0.0.0 accessrequest.taboola.com
+#[taboola.com]
 0.0.0.0 actions-am.taboola.com
+0.0.0.0 actions-ch.taboola.com
 0.0.0.0 actions-hk.taboola.com
 0.0.0.0 actions-latb.taboola.com
 0.0.0.0 actions-nj.taboola.com
-0.0.0.0 am-trc.taboola.com
+0.0.0.0 actions-sg.taboola.com
+0.0.0.0 am-match.taboola.com
+0.0.0.0 am-sync.taboola.com
+0.0.0.0 am-trc-events.taboola.com
+0.0.0.0 am-vid-events.taboola.com
+0.0.0.0 am-wf.taboola.com
 0.0.0.0 api.taboola.com
-0.0.0.0 api-s2s.taboola.com
+0.0.0.0 assets.taboola.com
 0.0.0.0 backstage.taboola.com
-0.0.0.0 billing.taboola.com
-0.0.0.0 branding.taboola.com
+0.0.0.0 beacon.taboola.com
 0.0.0.0 c2.taboola.com
-0.0.0.0 careers.taboola.com
+0.0.0.0 c3.taboola.com
 0.0.0.0 cdn.taboola.com
-0.0.0.0 cdn-cc.taboola.com
-0.0.0.0 clicknj.taboola.com
-0.0.0.0 consult.taboola.com
-0.0.0.0 content.taboola.com
-0.0.0.0 convammp.taboola.com
-0.0.0.0 convhkmp.taboola.com
-0.0.0.0 convlatbmp.taboola.com
+0.0.0.0 cds.taboola.com
+0.0.0.0 ch-match.taboola.com
+0.0.0.0 ch-sync.taboola.com
+0.0.0.0 ch-vid-events.taboola.com
+0.0.0.0 ch-wf.taboola.com
+0.0.0.0 convchmp.taboola.com
 0.0.0.0 convnjmp.taboola.com
-0.0.0.0 dev-www.taboola.com
-0.0.0.0 engineering.taboola.com
-0.0.0.0 gallery.taboola.com
-0.0.0.0 go.taboola.com
-0.0.0.0 il-vpn.taboola.com
+0.0.0.0 convsgmp.taboola.com
+0.0.0.0 hk-match.taboola.com
+0.0.0.0 hk-sync.taboola.com
+0.0.0.0 hk-vid-events.taboola.com
+0.0.0.0 hk-wf.taboola.com
+0.0.0.0 images-dl.taboola.com
 0.0.0.0 images.taboola.com
+0.0.0.0 images1.taboola.com
+0.0.0.0 images2.taboola.com
+0.0.0.0 images3.taboola.com
+0.0.0.0 images4.taboola.com
+0.0.0.0 images5.taboola.com
+0.0.0.0 impr.taboola.com
 0.0.0.0 imprammp.taboola.com
-0.0.0.0 imprhkmp.taboola.com
-0.0.0.0 imprlatbmp.taboola.com
+0.0.0.0 imprchmp.taboola.com
 0.0.0.0 imprnjmp.taboola.com
-0.0.0.0 jobs.taboola.com
+0.0.0.0 imprsgmp.taboola.com
+0.0.0.0 la-match.taboola.com
+0.0.0.0 la-sync.taboola.com
+0.0.0.0 la-trc-events.taboola.com
 0.0.0.0 la-trc.taboola.com
-0.0.0.0 ldaps.taboola.com
+0.0.0.0 la-vid-events.taboola.com
+0.0.0.0 la-wf.taboola.com
 0.0.0.0 match.taboola.com
 0.0.0.0 mb.taboola.com
-0.0.0.0 modes.taboola.com
 0.0.0.0 mpg.taboola.com
-0.0.0.0 netstorage.taboola.com
+0.0.0.0 nr-events.taboola.com
 0.0.0.0 nr.taboola.com
-0.0.0.0 opps.taboola.com
 0.0.0.0 pages.taboola.com
-0.0.0.0 perscdn.taboola.com
 0.0.0.0 popup.taboola.com
-0.0.0.0 publisher.taboola.com
 0.0.0.0 resources.taboola.com
-0.0.0.0 store.taboola.com
-0.0.0.0 swag.taboola.com
-0.0.0.0 taboola.com
-0.0.0.0 test-www.taboola.com
+0.0.0.0 sg-match.taboola.com
+0.0.0.0 sg-sync.taboola.com
+0.0.0.0 sg-trc-events.taboola.com
+0.0.0.0 sg-vid-events.taboola.com
+0.0.0.0 sg-wf.taboola.com
+0.0.0.0 sync.taboola.com
 0.0.0.0 timeinc.trc.taboola.com
 0.0.0.0 tracking.taboola.com
+0.0.0.0 trc-events.taboola.com
 0.0.0.0 trc.taboola.com
-0.0.0.0 trc-cc.taboola.com
-0.0.0.0 trends.taboola.com
+0.0.0.0 us-match.taboola.com
+0.0.0.0 us-sync.taboola.com
+0.0.0.0 us-vid-events.taboola.com
+0.0.0.0 us-wf.taboola.com
 0.0.0.0 vidanalytics.taboola.com
 0.0.0.0 vidstat.taboola.com
-0.0.0.0 vidstatb.taboola.com
-0.0.0.0 vidutils.taboola.com
-0.0.0.0 vision.taboola.com
-0.0.0.0 wf.taboola.com
-0.0.0.0 workshops.taboola.com
-0.0.0.0 www.taboola.com
-#[crwdcntrl]
+#[crwdcntrl.net]
 0.0.0.0 ad.crwdcntrl.net
-0.0.0.0 ag.tags.crwdcntrl.net
-0.0.0.0 bb.crwdcntrl.net
 0.0.0.0 bcp.crwdcntrl.net
-0.0.0.0 bebo.crwdcntrl.net
-0.0.0.0 blnk.crwdcntrl.net
-0.0.0.0 blogtalkradio.crwdcntrl.net
-0.0.0.0 buzznet.crwdcntrl.net
-0.0.0.0 cdn.crwdcntrl.net
-0.0.0.0 celebslam.tags.crwdcntrl.net
-0.0.0.0 cnnmoney.tags.crwdcntrl.net
-0.0.0.0 coop.crwdcntrl.net
 0.0.0.0 crwdcntrl.net
-0.0.0.0 deviantart.crwdcntrl.net
-0.0.0.0 fotolog.crwdcntrl.net
-0.0.0.0 glumbert.crwdcntrl.net
-0.0.0.0 huffingtonpost.crwdcntrl.net
-0.0.0.0 justjared.crwdcntrl.net
-0.0.0.0 livejournal.tags.crwdcntrl.net
-0.0.0.0 multiply.crwdcntrl.net
-0.0.0.0 nbcu.tags.crwdcntrl.net
-0.0.0.0 perfspot.crwdcntrl.net
-0.0.0.0 reunion.crwdcntrl.net
-0.0.0.0 sociallitelife.tags.crwdcntrl.net
-0.0.0.0 somethingawful.crwdcntrl.net
-0.0.0.0 sportsillustrated.tags.crwdcntrl.net
-0.0.0.0 superficial.crwdcntrl.net
 0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 tags.crwdcntrl.net
-0.0.0.0 td.crwdcntrl.net
-0.0.0.0 td2.crwdcntrl.net
-0.0.0.0 videogum.tags.crwdcntrl.net
-0.0.0.0 vidilife.crwdcntrl.net
-0.0.0.0 vsocial.crwdcntrl.net
-0.0.0.0 worth1000.crwdcntrl.net
-0.0.0.0 wwtdd.tags.crwdcntrl.net
-0.0.0.0 www.crwdcntrl.net
-0.0.0.0 yardbarker.tags.crwdcntrl.net
 #[teads]
 0.0.0.0 a.teads.tv
 0.0.0.0 cdn.teads.tv
@@ -3430,6 +3406,7 @@
 0.0.0.0 collector.newrelic.com
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 js-agent.newrelic.com
+0.0.0.0 log-api.newrelic.com
 0.0.0.0 metric-api.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-crash-origin.newrelic.com
@@ -4382,14 +4359,15 @@
 0.0.0.0 exchange.superfastmediation.com
 0.0.0.0 track.superfastmediation.com
 0.0.0.0 www.superfastmediation.com
-#[moengage]
+#[moengage.com]
 0.0.0.0 api.moengage.com
 0.0.0.0 apiv2.moengage.com
-0.0.0.0 apiv2mumbai.moengage.com
 0.0.0.0 apiv3.moengage.com
-0.0.0.0 apiv3india.moengage.com
 0.0.0.0 cdn.moengage.com
+0.0.0.0 cfimage.moengage.com
+0.0.0.0 ec.moengage.com
 0.0.0.0 image.moengage.com
+0.0.0.0 inapps.moengage.com
 0.0.0.0 websdk.moengage.com
 #[localytics]
 0.0.0.0 a.localytics.com
@@ -4836,6 +4814,16 @@
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 ss.servedby-buysellads.com
 0.0.0.0 static.servedby-buysellads.com
+#[buysellads.com]
+0.0.0.0 assets.buysellads.com
+0.0.0.0 buysellads.com
+0.0.0.0 cdn.buysellads.com
+0.0.0.0 s1.buysellads.com
+0.0.0.0 s2.buysellads.com
+0.0.0.0 s3.buysellads.com
+0.0.0.0 srv.buysellads.com
+0.0.0.0 stats.buysellads.com
+0.0.0.0 www.buysellads.com
 #[neustar]
 0.0.0.0 admin.wpm.neustar.biz
 0.0.0.0 alert.wpm.neustar.biz
@@ -5405,18 +5393,9 @@
 0.0.0.0 ums.ayads.co
 0.0.0.0 www.ayads.co
 #[heapanalytics.com]
-0.0.0.0 about.heapanalytics.com
 0.0.0.0 cdn.heapanalytics.com
-0.0.0.0 content.heapanalytics.com
-0.0.0.0 data.heapanalytics.com
 0.0.0.0 go.heapanalytics.com
 0.0.0.0 heapanalytics.com
-0.0.0.0 info.heapanalytics.com
-0.0.0.0 internal.heapanalytics.com
-0.0.0.0 learn.heapanalytics.com
-0.0.0.0 marketing.heapanalytics.com
-0.0.0.0 pantheon.heapanalytics.com
-0.0.0.0 socket.heapanalytics.com
 0.0.0.0 www.heapanalytics.com
 #[histats.com]
 0.0.0.0 cdn.histats.com
@@ -13665,6 +13644,35 @@
 0.0.0.0 quiz.zx-adnet.com
 0.0.0.0 www.zx-adnet.com
 0.0.0.0 zx-adnet.com
+#[pushcrew.com]
+0.0.0.0 cdn.pushcrew.com
+0.0.0.0 dacdn.pushcrew.com
+0.0.0.0 pushcrew.com
+0.0.0.0 tracking.pushcrew.com
+#[logoeps.com]
+0.0.0.0 cdn.logoeps.com
+0.0.0.0 logoeps.com
+0.0.0.0 www.logoeps.com
+#[adtilt.com]
+0.0.0.0 adc-ad-assets.adtilt.com
+0.0.0.0 adtilt.com
+0.0.0.0 pop.adtilt.com
+0.0.0.0 rm2.adtilt.com
+0.0.0.0 www.adtilt.com
+#[tx-hit.com]
+0.0.0.0 pub.tx-hit.com
+0.0.0.0 tx-hit.com
+#[netund.com]
+0.0.0.0 c.netund.com
+0.0.0.0 netund.com
+0.0.0.0 p.netund.com
+#[adsco.re]
+0.0.0.0 4.adsco.re
+0.0.0.0 6.adsco.re
+0.0.0.0 adsco.re
+0.0.0.0 c.adsco.re
+0.0.0.0 d.adsco.re
+0.0.0.0 w.adsco.re
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13920,6 +13928,10 @@
 0.0.0.0 qc.coccoc.com
 0.0.0.0 searcher.qc.coccoc.com
 0.0.0.0 ssp.qc.coccoc.com
+#[takataka.coccoc.com]
+0.0.0.0 cdn.takataka.coccoc.com
+0.0.0.0 searcher.takataka.coccoc.com
+0.0.0.0 takataka.coccoc.com
 #[qc.coccoc.vn]
 0.0.0.0 qc.coccoc.vn
 0.0.0.0 qccoccocmedia.vn
@@ -14186,6 +14198,7 @@
 0.0.0.0 px.za.zaloapp.com
 0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 stats.zaloapp.com
+0.0.0.0 trk-pcweb.api.zaloapp.com
 0.0.0.0 wg.zaloapp.com
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 ztevents.zaloapp.com
@@ -14834,7 +14847,6 @@
 0.0.0.0 pushdi.com
 0.0.0.0 api.pushdi.com
 0.0.0.0 sdk.pushdi.com
-0.0.0.0 d2ox6x0y9xhicd.cloudfront.net
 #[ad*.24hstatic.com]
 0.0.0.0 24h-ad.24hstatic.com
 0.0.0.0 24h-ipad-ad.24hstatic.com
@@ -14963,6 +14975,17 @@
 0.0.0.0 delivery.kabbmedia.com
 0.0.0.0 images.kabbmedia.com
 0.0.0.0 kabbmedia.com
+#[testcentre.vn]
+0.0.0.0 k8s2.testcentre.vn
+0.0.0.0 testcentre.vn
+#[subiz-cdn.com]
+0.0.0.0 public-gcs.subiz-cdn.com
+0.0.0.0 subiz-cdn.com
+0.0.0.0 www.subiz-cdn.com
+#[piads.vn]
+0.0.0.0 api.piads.vn
+0.0.0.0 piads.vn
+0.0.0.0 static.piads.vn
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -14976,9 +14999,11 @@
 0.0.0.0 ad.sunflower.vn
 0.0.0.0 ad.vkool.net
 0.0.0.0 adadmin.headlines.pw
+0.0.0.0 adapi.tuyensinh247.com
 0.0.0.0 adc.quantrimang.com
 0.0.0.0 adchoice.com
 0.0.0.0 adclient.vietnamnetjsc.vn
+0.0.0.0 addtop.trangvangvietnam.com
 0.0.0.0 adfox.vn
 0.0.0.0 adjusts.info
 0.0.0.0 adm.phunuvagiadinh.vn
@@ -14995,6 +15020,7 @@
 0.0.0.0 ads.fptplay.net.vn
 0.0.0.0 ads.home.vn
 0.0.0.0 ads.ictnews.vn
+0.0.0.0 ads.itsgroup.vn
 0.0.0.0 ads.khoahocdoisong.vn
 0.0.0.0 ads.kiemsat.vn
 0.0.0.0 ads.lamchame.vn
@@ -15047,6 +15073,7 @@
 0.0.0.0 avoadsservices.com
 0.0.0.0 banhtv.org
 0.0.0.0 banner.5giay.vn
+0.0.0.0 banner.trangvangvietnam.com
 0.0.0.0 banner.vietnamfinance.vn
 0.0.0.0 bgadx.com
 0.0.0.0 bluemaulpuffs.com
@@ -15092,6 +15119,7 @@
 0.0.0.0 phimmedia03.com
 0.0.0.0 polyad.galaxypub.vn
 0.0.0.0 qc.designervn.net
+0.0.0.0 qc.itsgroup.vn
 0.0.0.0 qcv5.blogtruyen.vn
 0.0.0.0 quangcao.24h.com.vn
 0.0.0.0 quangcao.baovannghe.com.vn
@@ -15143,6 +15171,7 @@
 0.0.0.0 www.vietdorje.com
 0.0.0.0 www.vtvcab.xyz
 # --- Block trackingVN ---
+0.0.0.0 a.vtvdigital.vn
 0.0.0.0 addlog.thuvienphapluat.vn
 0.0.0.0 admin.phunusuckhoe.vn
 0.0.0.0 alexajstrack.com
@@ -15157,9 +15186,11 @@
 0.0.0.0 analytics.sohatv.vn
 0.0.0.0 analytics.thethao247.org
 0.0.0.0 analytics.tiki.vn
+0.0.0.0 analytics.viblo.asia
 0.0.0.0 analytics.videocloud.top
 0.0.0.0 analytics.vietnamfinance.vn
 0.0.0.0 analytics.vnreview.vn
+0.0.0.0 api.sbz.vn
 0.0.0.0 apl.headlines.pw
 0.0.0.0 clientinfo.phimmoizz.net
 0.0.0.0 counter.ntdvn.com
@@ -15182,6 +15213,7 @@
 0.0.0.0 log.baonghean.vn
 0.0.0.0 log.baophapluat.vn
 0.0.0.0 log.batdongsan.com.vn
+0.0.0.0 log.beecost.vn
 0.0.0.0 log.daidoanket.vn
 0.0.0.0 log.dantocmiennui.vn
 0.0.0.0 log.doanhnhan.vn
@@ -15190,6 +15222,7 @@
 0.0.0.0 log.kienthuc.net.vn
 0.0.0.0 log.ngaynay.vn
 0.0.0.0 log.nhipcaudautu.vn
+0.0.0.0 log.oto.com.vn
 0.0.0.0 log.sggp.org.vn
 0.0.0.0 log.tapchimattran.vn
 0.0.0.0 log.tapchitaichinh.vn
@@ -15197,6 +15230,7 @@
 0.0.0.0 log.theleader.vn
 0.0.0.0 log.tienphong.vn
 0.0.0.0 log.tinnhanhchungkhoan.vn
+0.0.0.0 log.tinxe.vn
 0.0.0.0 log.vietnamdaily.net.vn
 0.0.0.0 log.vietnamfinance.vn
 0.0.0.0 log.vietnamplus.vn
@@ -15221,7 +15255,9 @@
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
 0.0.0.0 s.tuoitre.vn
+0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 sharefb.cnnd.vn
+0.0.0.0 st-a.vtvdigital.vn
 0.0.0.0 stat.headlines.pw
 0.0.0.0 static.accesstrade.vn
 0.0.0.0 static.subiz.com
@@ -15253,6 +15289,7 @@
 0.0.0.0 tracking.fado.vn
 0.0.0.0 tracking.fff.com.vn
 0.0.0.0 tracking.hongtinnhanh.com
+0.0.0.0 tracking.tinxe.vn
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietbao.vn
 0.0.0.0 tracking.vtc.vn
@@ -15268,6 +15305,7 @@
 0.0.0.0 webpush.bizfly.vn
 0.0.0.0 webpush.todo.vn
 0.0.0.0 widget.sbz.vn
+0.0.0.0 widget.subiz.net
 0.0.0.0 widget.subiz.xyz
 # --- Block scamVN ---
 0.0.0.0 bloodleian.club
@@ -15944,7 +15982,6 @@
 0.0.0.0 adscan.yelabapp.com
 0.0.0.0 adscholar.com
 0.0.0.0 adscience.nl
-0.0.0.0 adsco.re
 0.0.0.0 adscpm.com
 0.0.0.0 adscpm.site
 0.0.0.0 adsdaq.com
@@ -16057,7 +16094,6 @@
 0.0.0.0 adtheorent.com
 0.0.0.0 adthis.com
 0.0.0.0 adtiger.de
-0.0.0.0 adtilt.com
 0.0.0.0 adtoll.com
 0.0.0.0 adtology.com
 0.0.0.0 adtoma.com
@@ -16513,7 +16549,6 @@
 0.0.0.0 bustlinganimal.com
 0.0.0.0 butheptesitrew.pro
 0.0.0.0 buyhitscheap.com
-0.0.0.0 buysellads.com
 0.0.0.0 buzzonclick.com
 0.0.0.0 bvalphaserver.com
 0.0.0.0 bwp.download.com
@@ -16784,6 +16819,7 @@
 0.0.0.0 cybermonitor.com
 0.0.0.0 d.appsdt.com
 0.0.0.0 d2cmedia.ca
+0.0.0.0 d3mzokty951c5w.cloudfront.net
 0.0.0.0 dadslims.com
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 damdoor.com
@@ -16853,6 +16889,7 @@
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtracking.alibaba.com
 0.0.0.0 dmtracking2.alibaba.com
+0.0.0.0 dnemkhkbsdbl.com
 0.0.0.0 docksalmon.com
 0.0.0.0 domaining.in
 0.0.0.0 domainsponsor.com
@@ -16887,6 +16924,7 @@
 0.0.0.0 e.kde.cz
 0.0.0.0 e2ertt.com
 0.0.0.0 e2wysbacctt1.com
+0.0.0.0 eacdn.com
 0.0.0.0 eadexchange.com
 0.0.0.0 earnify.com
 0.0.0.0 earthquakescarf.com
@@ -17119,6 +17157,7 @@
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goldstats.com
 0.0.0.0 gondolagnome.com
+0.0.0.0 googleads.github.io
 0.0.0.0 gorgeousground.com
 0.0.0.0 gossipmiser.com
 0.0.0.0 gostats.com
@@ -18134,7 +18173,6 @@
 0.0.0.0 rkdms.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rle.ru
-0.0.0.0 rm2.adtilt.com
 0.0.0.0 rmedia.boston.com
 0.0.0.0 rmiesnorthur.pro
 0.0.0.0 roar.com
@@ -18546,6 +18584,7 @@
 0.0.0.0 topmmorpgsites.com
 0.0.0.0 topping.com.ua
 0.0.0.0 toprebates.com
+0.0.0.0 toprevenuecpmnetwork.com
 0.0.0.0 topsearcher.com
 0.0.0.0 topsir.com
 0.0.0.0 topsite.lv
@@ -18823,7 +18862,6 @@
 0.0.0.0 www.adsluna.com
 0.0.0.0 www.adspyglass.com
 0.0.0.0 www.adstune.com
-0.0.0.0 www.adtilt.com
 0.0.0.0 www.advinci.co
 0.0.0.0 www.agroupadx.com
 0.0.0.0 www.allmygoodlife.com
@@ -18900,6 +18938,7 @@
 0.0.0.0 www.zap.buzz
 0.0.0.0 www.zekiatagur.com
 0.0.0.0 www.zxc.world
+0.0.0.0 wyjimapsi.pro
 0.0.0.0 x-traceur.com
 0.0.0.0 xad.com
 0.0.0.0 xchange.ro
@@ -19017,6 +19056,7 @@
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analyticsapi.bsbportal.com
+0.0.0.0 android-stat.acestream.net
 0.0.0.0 anhui-attorney.com
 0.0.0.0 annedouglas.com
 0.0.0.0 api.prooffactor.com
@@ -19096,6 +19136,7 @@
 0.0.0.0 fastly-insights.com
 0.0.0.0 fathomseo.com
 0.0.0.0 fff.dailymail.co.uk
+0.0.0.0 firsthive.com
 0.0.0.0 flagcounter.com
 0.0.0.0 freegeoip.net
 0.0.0.0 frog.wix.com
@@ -19166,6 +19207,7 @@
 0.0.0.0 mebed.dm.gg
 0.0.0.0 media-match.com
 0.0.0.0 mediaforce.com
+0.0.0.0 metric.nimo.tv
 0.0.0.0 metricfast.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cloudflarebolt.com
@@ -19255,6 +19297,7 @@
 0.0.0.0 static.leaddyno.com
 0.0.0.0 stats.apester.com
 0.0.0.0 stats.betradar.com
+0.0.0.0 stats.hstatic.net
 0.0.0.0 stats.unlimapps.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.xtraffic.xyz
@@ -19267,6 +19310,7 @@
 0.0.0.0 t.9gag.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 tag.researchnow.com
+0.0.0.0 tdf.ringier.ch
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
 0.0.0.0 tedgenet.com
@@ -19311,6 +19355,7 @@
 0.0.0.0 wa.metro.co.uk
 0.0.0.0 wc-tracking.lavasoft.com
 0.0.0.0 web-t.9gag.com
+0.0.0.0 web.mxradon.com
 0.0.0.0 web.ventunotech.com
 0.0.0.0 weborama.net
 0.0.0.0 weigezhiyao.com
@@ -19335,6 +19380,7 @@
 0.0.0.0 www.vdtrack.com
 0.0.0.0 www.w3counter.com
 0.0.0.0 www.weigezhiyao.com
+0.0.0.0 ylog.nimo.tv
 0.0.0.0 ymtracking.com
 0.0.0.0 youthfire.com
 0.0.0.0 zarget.com

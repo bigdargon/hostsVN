@@ -1499,6 +1499,7 @@
 0.0.0.0 cybermonitor.com
 0.0.0.0 d.appsdt.com
 0.0.0.0 d2cmedia.ca
+0.0.0.0 d3mzokty951c5w.cloudfront.net
 0.0.0.0 dadslims.com
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 damdoor.com
@@ -1568,6 +1569,7 @@
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtracking.alibaba.com
 0.0.0.0 dmtracking2.alibaba.com
+0.0.0.0 dnemkhkbsdbl.com
 0.0.0.0 docksalmon.com
 0.0.0.0 domaining.in
 0.0.0.0 domainsponsor.com
@@ -1602,6 +1604,7 @@
 0.0.0.0 e.kde.cz
 0.0.0.0 e2ertt.com
 0.0.0.0 e2wysbacctt1.com
+0.0.0.0 eacdn.com
 0.0.0.0 eadexchange.com
 0.0.0.0 earnify.com
 0.0.0.0 earthquakescarf.com
@@ -1834,6 +1837,7 @@
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goldstats.com
 0.0.0.0 gondolagnome.com
+0.0.0.0 googleads.github.io
 0.0.0.0 gorgeousground.com
 0.0.0.0 gossipmiser.com
 0.0.0.0 gostats.com
@@ -3260,6 +3264,7 @@
 0.0.0.0 topmmorpgsites.com
 0.0.0.0 topping.com.ua
 0.0.0.0 toprebates.com
+0.0.0.0 toprevenuecpmnetwork.com
 0.0.0.0 topsearcher.com
 0.0.0.0 topsir.com
 0.0.0.0 topsite.lv
@@ -3613,6 +3618,7 @@
 0.0.0.0 www.zap.buzz
 0.0.0.0 www.zekiatagur.com
 0.0.0.0 www.zxc.world
+0.0.0.0 wyjimapsi.pro
 0.0.0.0 x-traceur.com
 0.0.0.0 xad.com
 0.0.0.0 xchange.ro
@@ -3684,20 +3690,7 @@
 0.0.0.0 zumobi.com
 0.0.0.0 zuphaims.com
 0.0.0.0 zxc.world
-0.0.0.0 eacdn.com
-0.0.0.0 toprevenuecpmnetwork.com
-0.0.0.0 googleads.github.io
-0.0.0.0 dnemkhkbsdbl.com
-0.0.0.0 wyjimapsi.pro
-0.0.0.0 d3mzokty951c5w.cloudfront.net
 # --- Block other trackingVN ---
-0.0.0.0 ylog.nimo.tv
-0.0.0.0 metric.nimo.tv
-0.0.0.0 android-stat.acestream.net
-0.0.0.0 firsthive.com
-0.0.0.0 web.mxradon.com
-0.0.0.0 tdf.ringier.ch
-0.0.0.0 stats.hstatic.net
 0.0.0.0 2o7.net
 0.0.0.0 a.axmtrack.com
 0.0.0.0 a.klaviyo.com
@@ -3743,6 +3736,7 @@
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analyticsapi.bsbportal.com
+0.0.0.0 android-stat.acestream.net
 0.0.0.0 anhui-attorney.com
 0.0.0.0 annedouglas.com
 0.0.0.0 api.prooffactor.com
@@ -3822,6 +3816,7 @@
 0.0.0.0 fastly-insights.com
 0.0.0.0 fathomseo.com
 0.0.0.0 fff.dailymail.co.uk
+0.0.0.0 firsthive.com
 0.0.0.0 flagcounter.com
 0.0.0.0 freegeoip.net
 0.0.0.0 frog.wix.com
@@ -3892,6 +3887,7 @@
 0.0.0.0 mebed.dm.gg
 0.0.0.0 media-match.com
 0.0.0.0 mediaforce.com
+0.0.0.0 metric.nimo.tv
 0.0.0.0 metricfast.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cloudflarebolt.com
@@ -3981,6 +3977,7 @@
 0.0.0.0 static.leaddyno.com
 0.0.0.0 stats.apester.com
 0.0.0.0 stats.betradar.com
+0.0.0.0 stats.hstatic.net
 0.0.0.0 stats.unlimapps.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.xtraffic.xyz
@@ -3993,6 +3990,7 @@
 0.0.0.0 t.9gag.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 tag.researchnow.com
+0.0.0.0 tdf.ringier.ch
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
 0.0.0.0 tedgenet.com
@@ -4037,6 +4035,7 @@
 0.0.0.0 wa.metro.co.uk
 0.0.0.0 wc-tracking.lavasoft.com
 0.0.0.0 web-t.9gag.com
+0.0.0.0 web.mxradon.com
 0.0.0.0 web.ventunotech.com
 0.0.0.0 weborama.net
 0.0.0.0 weigezhiyao.com
@@ -4061,6 +4060,7 @@
 0.0.0.0 www.vdtrack.com
 0.0.0.0 www.w3counter.com
 0.0.0.0 www.weigezhiyao.com
+0.0.0.0 ylog.nimo.tv
 0.0.0.0 ymtracking.com
 0.0.0.0 youthfire.com
 0.0.0.0 zarget.com
