@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Jan 2021 15:25 UTC+7
-# Version: 2101111525
-# Blocked: 1,529 domains
+# Last modified: 12 Jan 2021 15:01 UTC+7
+# Version: 2101121501
+# Blocked: 1,538 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1323,6 +1323,12 @@
 0.0.0.0 api.piads.vn
 0.0.0.0 piads.vn
 0.0.0.0 static.piads.vn
+#[adnet.vn]
+0.0.0.0 adnet.vn
+0.0.0.0 s0.adnet.vn
+0.0.0.0 services.adnet.vn
+0.0.0.0 widget.adnet.vn
+0.0.0.0 www.adnet.vn
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -1349,6 +1355,7 @@
 0.0.0.0 adpostback.headlines.pw
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads.1thegioi.vn
+0.0.0.0 ads.baoangiang.com.vn
 0.0.0.0 ads.baobinhduong.vn
 0.0.0.0 ads.baodatviet.vn
 0.0.0.0 ads.baotainguyenmoitruong.vn
@@ -1390,10 +1397,12 @@
 0.0.0.0 advertisement-nhatanh.com
 0.0.0.0 advserver.cgv.vn
 0.0.0.0 adx.baolongan.vn
+0.0.0.0 adx.chinmedia.vn
 0.0.0.0 adx.edutimes.com.vn
 0.0.0.0 adx.hongtinnhanh.com
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.xemvtv.net
+0.0.0.0 adx.xtv.vn
 0.0.0.0 affiliate.k4.tinhte.vn
 0.0.0.0 ailamtrieuphu.com
 0.0.0.0 ak9.6895588.com
@@ -1614,6 +1623,7 @@
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track.accesstrade.vn
 0.0.0.0 track.icheck.com.vn
+0.0.0.0 track.kyna.vn
 0.0.0.0 track.lapa.pub
 0.0.0.0 track.pregmomvietnam.com
 0.0.0.0 track.sendo.vn

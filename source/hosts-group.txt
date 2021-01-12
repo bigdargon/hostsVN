@@ -5808,6 +5808,7 @@
 0.0.0.0 parter.api.useinsider.com
 0.0.0.0 service.useinsider.com
 0.0.0.0 static.api.useinsider.com
+0.0.0.0 thegioididongvn.api.useinsider.com
 0.0.0.0 unification.useinsider.com
 0.0.0.0 useinsider.com
 0.0.0.0 weather.api.useinsider.com
@@ -13661,3 +13662,26 @@
 0.0.0.0 c.adsco.re
 0.0.0.0 d.adsco.re
 0.0.0.0 w.adsco.re
+#[ptengine.com]
+0.0.0.0 cjs.ptengine.com
+0.0.0.0 js.ptengine.com
+0.0.0.0 ptengine.com
+#[ptengine.jp]
+0.0.0.0 js.ptengine.jp
+0.0.0.0 ptengine.jp
+0.0.0.0 xjs.ptengine.jp
+#[ptengine.cn]
+0.0.0.0 js.ptengine.cn
+0.0.0.0 ptengine.cn
+#[fbshare.me]
+0.0.0.0 fbshare.me
+0.0.0.0 static.fbshare.me
+0.0.0.0 widgets.fbshare.me
+0.0.0.0 www.fbshare.me
+#[dfbanners.com]
+0.0.0.0 banners.dfbanners.com
+0.0.0.0 dfbanners.com
+0.0.0.0 www.dfbanners.com
+#[go2speed.org]
+0.0.0.0 go2speed.org
+0.0.0.0 media.go2speed.org

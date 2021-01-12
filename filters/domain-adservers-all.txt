@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 11 Jan 2021 15:25 UTC+7
-! Version: 2101111525
-! Blocked: 5,664 domains
+! Last modified: 12 Jan 2021 15:01 UTC+7
+! Version: 2101121501
+! Blocked: 5,679 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h*-ad.24hstatic.com
@@ -16,6 +16,7 @@ adfly.vn
 admicro*.vcmedia.com
 admicro*.vcmedia.vn
 admicro.vn
+adnet.vn
 adnetwork.vn
 adpia.vn
 adrealclick.com
@@ -185,6 +186,7 @@ admin.sothuchi.vn
 adpostback.headlines.pw
 ads-cdn.fptplay.net
 ads.1thegioi.vn
+ads.baoangiang.com.vn
 ads.baobinhduong.vn
 ads.baodatviet.vn
 ads.baotainguyenmoitruong.vn
@@ -226,10 +228,12 @@ advert-admin.vnay.vn
 advertisement-nhatanh.com
 advserver.cgv.vn
 adx.baolongan.vn
+adx.chinmedia.vn
 adx.edutimes.com.vn
 adx.hongtinnhanh.com
 adx.kul.vn
 adx.xemvtv.net
+adx.xtv.vn
 affiliate.k4.tinhte.vn
 ailamtrieuphu.com
 ak9.6895588.com
@@ -433,6 +437,7 @@ tka.tiki.vn
 track-srv.vietnamnet.vn
 track.accesstrade.vn
 track.icheck.com.vn
+track.kyna.vn
 track.lapa.pub
 track.pregmomvietnam.com
 track.sendo.vn
@@ -631,7 +636,6 @@ ucesreferre.club
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 152media.com
-adtilt.com
 1rx.io
 1ts06.top
 24smi.net
@@ -784,6 +788,7 @@ adtechus.com
 adtelligent.com
 adthor.com
 adthrive.com
+adtilt.com
 adtimes.nytimes.com
 adtlgc.com
 adtng.com
@@ -1050,6 +1055,7 @@ demandbase.com
 deployads.com
 device-metrics-*.amazon.com
 dezf3o8j9jdt6.cloudfront.net
+dfbanners.com
 dfnb-ads.com
 districtm.io
 districtm.net
@@ -1098,6 +1104,7 @@ fads*s.com
 fads*z.com
 faktor.io
 fatchilli.media
+fbshare.me
 fclick-adnow.com
 feedad.com
 fidelity-media.com
@@ -1132,6 +1139,7 @@ gjtrack.ucweb.com
 glispa.com
 glotgrx.com
 go-mpulse.net
+go2speed.org
 google-analytics.com
 googleadservices.com
 googleoptimize.com
@@ -1418,7 +1426,6 @@ playbuzz.com
 playground.xyz
 plugin.mobopay.baidu.com
 pmddby.com
-tx-hit.com
 po.st
 popads.net
 popcash.net
@@ -1433,6 +1440,9 @@ programattik.com
 propellerads.com
 propellerclick.com
 proper.io
+ptengine.cn
+ptengine.com
+ptengine.jp
 pub.network
 pubexchange.com
 publift.com
@@ -1590,6 +1600,7 @@ tru.am
 tsyndicate.com
 tune.com
 twik.io
+tx-hit.com
 tynt.com
 uc.ucweb.com
 ugdturner.com
@@ -5104,6 +5115,7 @@ vibrantmedia.com
 vidcpm.com
 videoadex.com
 videoegg.com
+videosprofitnetwork.com
 vidora.com
 view4cash.de
 viewpoint.com
@@ -5284,6 +5296,7 @@ zumobi.com
 zuphaims.com
 zxc.world
 2o7.net
+a.apkpure.com
 a.axmtrack.com
 a.klaviyo.com
 a.quora.com
@@ -5373,6 +5386,7 @@ cmp.dmgmediaprivacy.co.uk
 cnzz.com
 cognitivlabs.com
 collect.igodigital.com
+collector.apester.com
 collector.leaddyno.com
 comscoreresearch.com
 cookieinfoscript.com
@@ -5432,6 +5446,7 @@ h-sdk.online-metrix.net
 hairtease.com
 hitcpm.com
 hits.theguardian.com
+hostg.xyz
 hsbarbershop.co.uk
 hscta.net
 hsych.com

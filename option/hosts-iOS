@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Jan 2021 15:25 UTC+7
-# Version: 2101111525
-# Blocked: 18,502 domains
+# Last modified: 12 Jan 2021 15:01 UTC+7
+# Version: 2101121501
+# Blocked: 18,535 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5522,6 +5522,7 @@
 0 parter.api.useinsider.com
 0 service.useinsider.com
 0 static.api.useinsider.com
+0 thegioididongvn.api.useinsider.com
 0 unification.useinsider.com
 0 useinsider.com
 0 weather.api.useinsider.com
@@ -12865,6 +12866,23 @@
 0 c.adsco.re
 0 d.adsco.re
 0 w.adsco.re
+0 cjs.ptengine.com
+0 js.ptengine.com
+0 ptengine.com
+0 js.ptengine.jp
+0 ptengine.jp
+0 xjs.ptengine.jp
+0 js.ptengine.cn
+0 ptengine.cn
+0 fbshare.me
+0 static.fbshare.me
+0 widgets.fbshare.me
+0 www.fbshare.me
+0 banners.dfbanners.com
+0 dfbanners.com
+0 www.dfbanners.com
+0 go2speed.org
+0 media.go2speed.org
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14066,6 +14084,11 @@
 0 api.piads.vn
 0 piads.vn
 0 static.piads.vn
+0 adnet.vn
+0 s0.adnet.vn
+0 services.adnet.vn
+0 widget.adnet.vn
+0 www.adnet.vn
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
 0 ad-admin.vnay.vn
@@ -14091,6 +14114,7 @@
 0 adpostback.headlines.pw
 0 ads-cdn.fptplay.net
 0 ads.1thegioi.vn
+0 ads.baoangiang.com.vn
 0 ads.baobinhduong.vn
 0 ads.baodatviet.vn
 0 ads.baotainguyenmoitruong.vn
@@ -14132,10 +14156,12 @@
 0 advertisement-nhatanh.com
 0 advserver.cgv.vn
 0 adx.baolongan.vn
+0 adx.chinmedia.vn
 0 adx.edutimes.com.vn
 0 adx.hongtinnhanh.com
 0 adx.kul.vn
 0 adx.xemvtv.net
+0 adx.xtv.vn
 0 affiliate.k4.tinhte.vn
 0 ailamtrieuphu.com
 0 ak9.6895588.com
@@ -14355,6 +14381,7 @@
 0 track-srv.vietnamnet.vn
 0 track.accesstrade.vn
 0 track.icheck.com.vn
+0 track.kyna.vn
 0 track.lapa.pub
 0 track.pregmomvietnam.com
 0 track.sendo.vn
@@ -17821,6 +17848,7 @@
 0 vidcpm.com
 0 videoadex.com
 0 videoegg.com
+0 videosprofitnetwork.com
 0 vidora.com
 0 view4cash.de
 0 viewpoint.com
@@ -18009,6 +18037,7 @@
 0 www.unmortalloose.com
 0 www.velocitycdn.com
 0 www.vidcpm.com
+0 www.videosprofitnetwork.com
 0 www.webtrendslive.com
 0 www.zap.buzz
 0 www.zekiatagur.com
@@ -18086,6 +18115,7 @@
 0 zuphaims.com
 0 zxc.world
 0 2o7.net
+0 a.apkpure.com
 0 a.axmtrack.com
 0 a.klaviyo.com
 0 a.quora.com
@@ -18175,6 +18205,7 @@
 0 cnzz.com
 0 cognitivlabs.com
 0 collect.igodigital.com
+0 collector.apester.com
 0 collector.leaddyno.com
 0 comscoreresearch.com
 0 cookieinfoscript.com
@@ -18234,6 +18265,7 @@
 0 hairtease.com
 0 hitcpm.com
 0 hits.theguardian.com
+0 hostg.xyz
 0 hsbarbershop.co.uk
 0 hscta.net
 0 hsych.com
@@ -18441,6 +18473,7 @@
 0 www.everestjs.net
 0 www.fastly-insights.com
 0 www.hitcpm.com
+0 www.hostg.xyz
 0 www.hypestat.com
 0 www.jsonip.com
 0 www.montacarichi.it
