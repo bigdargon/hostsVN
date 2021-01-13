@@ -366,7 +366,8 @@ clicksor.com
 clicktale.net
 client-event-reporter.twitch.tv
 client_monitor.isnssdk.com
-clientmetrics*.googleapis.com
+clientmetrics-pa.googleapis.com
+crashlyticsreports-pa.googleapis.com
 clientmonitor.isnssdk.com
 clksite.com
 clog.go.com
@@ -476,7 +477,8 @@ fclick-adnow.com
 feedad.com
 fidelity-media.com
 filament-stats.herokuapp.com
-firebaselogging*.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
 firstimpression.io
 flashtalking.com
 fls-na.amazon.com
@@ -1852,6 +1854,7 @@ adv.cooperhosting.net
 adv.freeonline.it
 adv.hwupgrade.it
 adv.livedoor.com
+adv.mxmcdn.net
 adv.nexthardware.com
 adv.webmd.com
 adv.wp.pl

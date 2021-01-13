@@ -168,8 +168,8 @@
 #[googleapis.com]
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
-0.0.0.0 clientmetrics.googleapis.com
 0.0.0.0 clouderrorreporting.googleapis.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 #[google]
