@@ -219,18 +219,15 @@
 0.0.0.0 report.novaon.asia
 0.0.0.0 www.novaon.asia
 #[novaonx.com]
-0.0.0.0 novaonx.com
-0.0.0.0 accounts.novaonx.com
-0.0.0.0 crm.novaonx.com
-0.0.0.0 chatbot.novaonx.com
+0.0.0.0 api-ldp.novaonx.com
 0.0.0.0 chatbot-staging.novaonx.com
-0.0.0.0 chatbottudong.novaonx.com
+0.0.0.0 chatbot-tracking.novaonx.com
+0.0.0.0 chatbot.novaonx.com
 0.0.0.0 chatbotthoitrang.novaonx.com
-0.0.0.0 drone.novaonx.com
-0.0.0.0 git.novaonx.com
+0.0.0.0 chatbottudong.novaonx.com
 0.0.0.0 landingpage.novaonx.com
-0.0.0.0 novaonxsupport.novaonx.com
-0.0.0.0 registry.novaonx.com
+0.0.0.0 novaonx.com
+0.0.0.0 pub-dev.novaonx.com
 0.0.0.0 staging.novaonx.com
 0.0.0.0 www.novaonx.com
 #[coccoc]
@@ -781,8 +778,12 @@
 0.0.0.0 tr.masoffer.net
 0.0.0.0 www.masoffer.net
 #[autoads.asia]
+0.0.0.0 alpha2.autoads.asia
+0.0.0.0 alphaapi.autoads.asia
 0.0.0.0 api.autoads.asia
 0.0.0.0 autoads.asia
+0.0.0.0 betaapi.autoads.asia
+0.0.0.0 betacdn.autoads.asia
 0.0.0.0 cdn.autoads.asia
 0.0.0.0 fcd.autoads.asia
 0.0.0.0 file.autoads.asia
@@ -792,6 +793,32 @@
 0.0.0.0 tracking.autoads.asia
 0.0.0.0 www.autoads.asia
 0.0.0.0 xacthuc.autoads.asia
+#[onfluencer.net]
+0.0.0.0 alpha.onfluencer.net
+0.0.0.0 analytics.onfluencer.net
+0.0.0.0 beta.onfluencer.net
+0.0.0.0 hub.onfluencer.net
+0.0.0.0 iosalpha.onfluencer.net
+0.0.0.0 l.onfluencer.net
+0.0.0.0 onfluencer.net
+0.0.0.0 tracking.onfluencer.net
+0.0.0.0 www.onfluencer.net
+#[oncustomer.asia]
+0.0.0.0 api-internal-dev.oncustomer.asia
+0.0.0.0 api-internal.oncustomer.asia
+0.0.0.0 app.oncustomer.asia
+0.0.0.0 beta.oncustomer.asia
+0.0.0.0 hook.oncustomer.asia
+0.0.0.0 live-api.oncustomer.asia
+0.0.0.0 livechat.oncustomer.asia
+0.0.0.0 oncustomer.asia
+0.0.0.0 push.oncustomer.asia
+0.0.0.0 reports-api.oncustomer.asia
+0.0.0.0 webbot.oncustomer.asia
+0.0.0.0 widget-1.oncustomer.asia
+0.0.0.0 widget-2.oncustomer.asia
+0.0.0.0 widget.oncustomer.asia
+0.0.0.0 www.oncustomer.asia
 #[phanquang.vn]
 0.0.0.0 click.phanquang.vn
 0.0.0.0 phanquang.vn
@@ -1246,20 +1273,6 @@
 0.0.0.0 clickbuy.bz
 0.0.0.0 lp.clickbuy.bz
 0.0.0.0 www.clickbuy.bz
-#[oncustomer.asia]
-0.0.0.0 api-internal.oncustomer.asia
-0.0.0.0 app.oncustomer.asia
-0.0.0.0 company.oncustomer.asia
-0.0.0.0 hook.oncustomer.asia
-0.0.0.0 livechat.oncustomer.asia
-0.0.0.0 oncall.oncustomer.asia
-0.0.0.0 oncustomer.asia
-0.0.0.0 push.oncustomer.asia
-0.0.0.0 reports-api.oncustomer.asia
-0.0.0.0 style.oncustomer.asia
-0.0.0.0 widget.oncustomer.asia
-0.0.0.0 widget-1.oncustomer.asia
-0.0.0.0 widget-2.oncustomer.asia
 #[pushtimize.com]
 0.0.0.0 adv.pushtimize.com
 0.0.0.0 cdn01.pushtimize.com
