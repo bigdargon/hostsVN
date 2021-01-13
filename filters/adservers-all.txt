@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 Jan 2021 15:01 UTC+7
-! Version: 2101121501
-! Blocked: 5,679 rules
+! Last modified: 13 Jan 2021 20:49 UTC+7
+! Version: 2101132049
+! Blocked: 5,692 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -107,6 +107,7 @@
 ||nv-ad*.24hstatic.com^
 ||ohchat.net^
 ||oncustomer.asia^
+||onfluencer.net^
 ||phanquang.vn^
 ||philacct.com^
 ||photo-ads.zaloapp.com^
@@ -363,6 +364,7 @@
 ||event.vntoday.news^
 ||fa.fpt.shop^
 ||follow.vnay.vn^
+||google-shopping.sapoapps.vn^
 ||hit.123c.vn^
 ||invite.baomoi.com^
 ||la.vietid.net^
@@ -393,6 +395,8 @@
 ||log.tienphong.vn^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
+||log.trithuctructuyen.com.vn^
+||log.trithuctructuyen.vn^
 ||log.vietnamdaily.net.vn^
 ||log.vietnamfinance.vn^
 ||log.vietnamplus.vn^
@@ -502,6 +506,7 @@
 ||bong88net.com^
 ||bong99.com^
 ||bong99.fun^
+||bong99.vip^
 ||cacuoc247.com^
 ||cacuoc79.com^
 ||casino888vn.com^
@@ -658,7 +663,6 @@
 ||aaxads.com^
 ||accengage.com^
 ||accesstrade.net^
-||acloudimages.com^
 ||acuityplatform.com^
 ||ad-brix.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
@@ -705,6 +709,7 @@
 ||adk2x.com^
 ||adkernel.com^
 ||adlooxtracking.com^
+||admanmedia.com^
 ||admantx.com^
 ||admarket.network^
 ||admarketplace.net^
@@ -723,6 +728,7 @@
 ||adplugg.com^
 ||adpone.com^
 ||adpopcorn.com^
+||adprotected.com^
 ||adpushup.com^
 ||adrcdn.com^
 ||adrcntr.com^
@@ -731,6 +737,7 @@
 ||adright.com^
 ||adroll.com^
 ||adrta.com^
+||ads*-adnow.com^
 ||ads*.msn.com^
 ||ads*.viber.com^
 ||ads-bidder-api.twitter.com^
@@ -752,11 +759,6 @@
 ||ads.twitter.com^
 ||ads.yahoo.com^
 ||ads.youtube.com^
-||ads1-adnow.com^
-||ads2-adnow.com^
-||ads3-adnow.com^
-||ads4-adnow.com^
-||ads5-adnow.com^
 ||adsafeprotected.com^
 ||adsafety.net^
 ||adsapi*.snapchat.com^
@@ -941,12 +943,14 @@
 ||bilsyndication.com^
 ||bingads.microsoft.com^
 ||bitmedia.io^
+||bitmedianetwork.com^
 ||bitsngo.net^
 ||bizible.com^
 ||bizographics.com^
 ||bj1*.online^
 ||bkrtx.com^
 ||blueadss.com^
+||bluekai.com^
 ||blueseed.tv^
 ||blueserving.com^
 ||bnmla.com^
@@ -971,6 +975,7 @@
 ||c.microsoft.com^
 ||cacafly.net^
 ||caclick.baidu.com^
+||casalemedia.com^
 ||cbsileads.com^
 ||cbsinteractive.com^
 ||cdnads.com^
@@ -1001,12 +1006,13 @@
 ||clicktale.net^
 ||client-event-reporter.twitch.tv^
 ||client_monitor.isnssdk.com^
-||clientmetrics*.googleapis.com^
+||clientmetrics-pa.googleapis.com^
 ||clientmonitor.isnssdk.com^
 ||clksite.com^
 ||clog.go.com^
 ||cloud.unity3d.com^
 ||clouderrorreporting.googleapis.com^
+||cloudflareinsights.com^
 ||cloudmobi.net^
 ||cnnx.io^
 ||cnt.my^
@@ -1027,6 +1033,7 @@
 ||cpaikon.net^
 ||cpmstar.com^
 ||cpx.to^
+||crashlyticsreports-pa.googleapis.com^
 ||crazyegg.com^
 ||creative.ak.facebook.com^
 ||creative.ak.fbcdn.net^
@@ -1111,7 +1118,8 @@
 ||feedad.com^
 ||fidelity-media.com^
 ||filament-stats.herokuapp.com^
-||firebaselogging*.googleapis.com^
+||firebaselogging-pa.googleapis.com^
+||firebaselogging.googleapis.com^
 ||firstimpression.io^
 ||flashtalking.com^
 ||fls-na.amazon.com^
@@ -1319,6 +1327,7 @@
 ||mobads.baidu.com^
 ||mobclix.com^
 ||mobfox.com^
+||mobile-10.com^
 ||mobile-collector.newrelic.com^
 ||mobile-crash-origin.newrelic.com^
 ||mobile-crash.newrelic.com^
@@ -1725,6 +1734,7 @@
 ||achcdn.com^
 ||acidityfoamy.com^
 ||aclickads.com^
+||acloudimages.com^
 ||acridtwist.com^
 ||acscdn.com^
 ||acsseo.com^
@@ -1973,7 +1983,6 @@
 ||admanagement.ch^
 ||admanager.btopenworld.com^
 ||admanager.carsoup.com^
-||admanmedia.com^
 ||admedia.ro^
 ||admedia.wsod.com^
 ||admedo.com^
@@ -2484,6 +2493,7 @@
 ||adv.freeonline.it^
 ||adv.hwupgrade.it^
 ||adv.livedoor.com^
+||adv.mxmcdn.net^
 ||adv.nexthardware.com^
 ||adv.webmd.com^
 ||adv.wp.pl^
@@ -2852,7 +2862,6 @@
 ||bioniccuddle.com^
 ||birthmarkagency.com^
 ||bitads.net^
-||bitmedianetwork.com^
 ||bizrate.com^
 ||blacurlik.com^
 ||blast4traffic.com^
@@ -2865,7 +2874,6 @@
 ||blogtopsites.com^
 ||blueadvertise.com^
 ||bluecava.com^
-||bluekai.com^
 ||bluelithium.com^
 ||bluewhaleweb.com^
 ||blushingbeast.com^
@@ -2942,7 +2950,6 @@
 ||carambo.la^
 ||carbonads.com^
 ||carbonads.net^
-||casalemedia.com^
 ||casalmedia.com^
 ||casesweetcube.com^
 ||cash4members.com^
@@ -3163,6 +3170,7 @@
 ||crazypopups.com^
 ||creafi-online-media.com^
 ||creafi.com^
+||creamssicsite.com^
 ||creative-serving.com^
 ||creatives.livejasmin.com^
 ||credishe.com^
@@ -4214,6 +4222,7 @@
 ||oufauthy.net^
 ||ouftukoo.net^
 ||ousseventi.info^
+||oustoope.com^
 ||out-there-media.com^
 ||outtimburrtor.com^
 ||overture.com^
@@ -5155,6 +5164,7 @@
 ||wda.com^
 ||wdads.sx.atl.publicus.com^
 ||wearemiq.com^
+||weaveradrenaline.com^
 ||web-stat.com^
 ||web.btncdn.com^
 ||web.informer.com^
@@ -5464,6 +5474,7 @@
 ||intent.cbsi.com^
 ||invitejs.trustpilot.com^
 ||invoca.net^
+||ip-api.com^
 ||js.hscollectedforms.net^
 ||js.hsleadflows.net^
 ||jsonip.com^
@@ -5496,6 +5507,7 @@
 ||mebed.dm.gg^
 ||media-match.com^
 ||mediaforce.com^
+||metric.huya.com^
 ||metric.nimo.tv^
 ||metricfast.com^
 ||metrics.brightcove.com^
@@ -5652,6 +5664,7 @@
 ||widget.trustpilot.com^
 ||wieistmeineip.de^
 ||wt.soundestlink.com^
+||ylog.huya.com^
 ||ylog.nimo.tv^
 ||ymtracking.com^
 ||youthfire.com^

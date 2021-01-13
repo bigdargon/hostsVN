@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jan 2021 15:01 UTC+7
-! Version: 2101121501
-! Blocked: 631 rules
+! Last modified: 13 Jan 2021 20:49 UTC+7
+! Version: 2101132049
+! Blocked: 636 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -107,6 +107,7 @@
 ||nv-ad*.24hstatic.com^
 ||ohchat.net^
 ||oncustomer.asia^
+||onfluencer.net^
 ||phanquang.vn^
 ||philacct.com^
 ||photo-ads.zaloapp.com^
@@ -363,6 +364,7 @@
 ||event.vntoday.news^
 ||fa.fpt.shop^
 ||follow.vnay.vn^
+||google-shopping.sapoapps.vn^
 ||hit.123c.vn^
 ||invite.baomoi.com^
 ||la.vietid.net^
@@ -393,6 +395,8 @@
 ||log.tienphong.vn^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
+||log.trithuctructuyen.com.vn^
+||log.trithuctructuyen.vn^
 ||log.vietnamdaily.net.vn^
 ||log.vietnamfinance.vn^
 ||log.vietnamplus.vn^
@@ -502,6 +506,7 @@
 ||bong88net.com^
 ||bong99.com^
 ||bong99.fun^
+||bong99.vip^
 ||cacuoc247.com^
 ||cacuoc79.com^
 ||casino888vn.com^

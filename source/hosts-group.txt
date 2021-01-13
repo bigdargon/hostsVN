@@ -11782,19 +11782,6 @@
 0.0.0.0 secure.bidvertiser.com
 0.0.0.0 srv.bidvertiser.com
 0.0.0.0 www.bidvertiser.com
-#[bitmedia.io]
-0.0.0.0 ad.bitmedia.io
-0.0.0.0 bitmedia.io
-0.0.0.0 c1.bitmedia.io
-0.0.0.0 cdn.bitmedia.io
-0.0.0.0 cs.bitmedia.io
-0.0.0.0 media.bitmedia.io
-0.0.0.0 mymarketing.bitmedia.io
-0.0.0.0 promo.bitmedia.io
-0.0.0.0 static.bitmedia.io
-0.0.0.0 static-cdn.bitmedia.io
-0.0.0.0 ws.bitmedia.io
-0.0.0.0 www.bitmedia.io
 #[adworkmedia.net]
 0.0.0.0 a-ads.adworkmedia.net
 0.0.0.0 adworkmedia.net
@@ -12205,11 +12192,6 @@
 0.0.0.0 rvnm.s4d.xyz
 0.0.0.0 s3eds.s4d.xyz
 0.0.0.0 s4d.xyz
-#[acloudimages.com]
-0.0.0.0 acloudimages.com
-0.0.0.0 bn04.acloudimages.com
-0.0.0.0 cdn15.acloudimages.com
-0.0.0.0 cdn18.acloudimages.com
 #[vev77.com]
 0.0.0.0 capi.vev77.com
 0.0.0.0 cmsapi.vev77.com

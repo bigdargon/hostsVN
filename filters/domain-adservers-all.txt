@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 12 Jan 2021 15:01 UTC+7
-! Version: 2101121501
-! Blocked: 5,679 domains
+! Last modified: 13 Jan 2021 20:49 UTC+7
+! Version: 2101132049
+! Blocked: 5,692 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h*-ad.24hstatic.com
@@ -105,6 +105,7 @@ nt-cdn.coccoc.com
 nv-ad*.24hstatic.com
 ohchat.net
 oncustomer.asia
+onfluencer.net
 phanquang.vn
 philacct.com
 photo-ads.zaloapp.com
@@ -361,6 +362,7 @@ event.headlines.pw
 event.vntoday.news
 fa.fpt.shop
 follow.vnay.vn
+google-shopping.sapoapps.vn
 hit.123c.vn
 invite.baomoi.com
 la.vietid.net
@@ -391,6 +393,8 @@ log.theleader.vn
 log.tienphong.vn
 log.tinnhanhchungkhoan.vn
 log.tinxe.vn
+log.trithuctructuyen.com.vn
+log.trithuctructuyen.vn
 log.vietnamdaily.net.vn
 log.vietnamfinance.vn
 log.vietnamplus.vn
@@ -500,6 +504,7 @@ big88.one
 bong88net.com
 bong99.com
 bong99.fun
+bong99.vip
 cacuoc247.com
 cacuoc79.com
 casino888vn.com
@@ -656,7 +661,6 @@ aax-*-iad.amazon.com
 aaxads.com
 accengage.com
 accesstrade.net
-acloudimages.com
 acuityplatform.com
 ad-brix.com
 ad-creatives-public.commondatastorage.googleapis.com
@@ -703,6 +707,7 @@ adjust.io
 adk2x.com
 adkernel.com
 adlooxtracking.com
+admanmedia.com
 admantx.com
 admarket.network
 admarketplace.net
@@ -721,6 +726,7 @@ adoptimize.info
 adplugg.com
 adpone.com
 adpopcorn.com
+adprotected.com
 adpushup.com
 adrcdn.com
 adrcntr.com
@@ -729,6 +735,7 @@ adrecover.com
 adright.com
 adroll.com
 adrta.com
+ads*-adnow.com
 ads*.msn.com
 ads*.viber.com
 ads-bidder-api.twitter.com
@@ -750,11 +757,6 @@ ads.tiktok.com
 ads.twitter.com
 ads.yahoo.com
 ads.youtube.com
-ads1-adnow.com
-ads2-adnow.com
-ads3-adnow.com
-ads4-adnow.com
-ads5-adnow.com
 adsafeprotected.com
 adsafety.net
 adsapi*.snapchat.com
@@ -939,12 +941,14 @@ bigclicker.me
 bilsyndication.com
 bingads.microsoft.com
 bitmedia.io
+bitmedianetwork.com
 bitsngo.net
 bizible.com
 bizographics.com
 bj1*.online
 bkrtx.com
 blueadss.com
+bluekai.com
 blueseed.tv
 blueserving.com
 bnmla.com
@@ -969,6 +973,7 @@ c.bing.com
 c.microsoft.com
 cacafly.net
 caclick.baidu.com
+casalemedia.com
 cbsileads.com
 cbsinteractive.com
 cdnads.com
@@ -999,12 +1004,13 @@ clicksor.com
 clicktale.net
 client-event-reporter.twitch.tv
 client_monitor.isnssdk.com
-clientmetrics*.googleapis.com
+clientmetrics-pa.googleapis.com
 clientmonitor.isnssdk.com
 clksite.com
 clog.go.com
 cloud.unity3d.com
 clouderrorreporting.googleapis.com
+cloudflareinsights.com
 cloudmobi.net
 cnnx.io
 cnt.my
@@ -1025,6 +1031,7 @@ countess.twitch.tv
 cpaikon.net
 cpmstar.com
 cpx.to
+crashlyticsreports-pa.googleapis.com
 crazyegg.com
 creative.ak.facebook.com
 creative.ak.fbcdn.net
@@ -1109,7 +1116,8 @@ fclick-adnow.com
 feedad.com
 fidelity-media.com
 filament-stats.herokuapp.com
-firebaselogging*.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
 firstimpression.io
 flashtalking.com
 fls-na.amazon.com
@@ -1317,6 +1325,7 @@ mobads-logs.baidu.com
 mobads.baidu.com
 mobclix.com
 mobfox.com
+mobile-10.com
 mobile-collector.newrelic.com
 mobile-crash-origin.newrelic.com
 mobile-crash.newrelic.com
@@ -1723,6 +1732,7 @@ acento.com
 achcdn.com
 acidityfoamy.com
 aclickads.com
+acloudimages.com
 acridtwist.com
 acscdn.com
 acsseo.com
@@ -1971,7 +1981,6 @@ adman.gr
 admanagement.ch
 admanager.btopenworld.com
 admanager.carsoup.com
-admanmedia.com
 admedia.ro
 admedia.wsod.com
 admedo.com
@@ -2482,6 +2491,7 @@ adv.cooperhosting.net
 adv.freeonline.it
 adv.hwupgrade.it
 adv.livedoor.com
+adv.mxmcdn.net
 adv.nexthardware.com
 adv.webmd.com
 adv.wp.pl
@@ -2850,7 +2860,6 @@ binarymoney.site
 bioniccuddle.com
 birthmarkagency.com
 bitads.net
-bitmedianetwork.com
 bizrate.com
 blacurlik.com
 blast4traffic.com
@@ -2863,7 +2872,6 @@ blogtoplist.se
 blogtopsites.com
 blueadvertise.com
 bluecava.com
-bluekai.com
 bluelithium.com
 bluewhaleweb.com
 blushingbeast.com
@@ -2940,7 +2948,6 @@ caradstag.casa
 carambo.la
 carbonads.com
 carbonads.net
-casalemedia.com
 casalmedia.com
 casesweetcube.com
 cash4members.com
@@ -3161,6 +3168,7 @@ crawlclocks.com
 crazypopups.com
 creafi-online-media.com
 creafi.com
+creamssicsite.com
 creative-serving.com
 creatives.livejasmin.com
 credishe.com
@@ -4212,6 +4220,7 @@ otto-images.developershed.com
 oufauthy.net
 ouftukoo.net
 ousseventi.info
+oustoope.com
 out-there-media.com
 outtimburrtor.com
 overture.com
@@ -5153,6 +5162,7 @@ waxpigbaa.com
 wda.com
 wdads.sx.atl.publicus.com
 wearemiq.com
+weaveradrenaline.com
 web-stat.com
 web.btncdn.com
 web.informer.com
@@ -5462,6 +5472,7 @@ inside-graph.com
 intent.cbsi.com
 invitejs.trustpilot.com
 invoca.net
+ip-api.com
 js.hscollectedforms.net
 js.hsleadflows.net
 jsonip.com
@@ -5494,6 +5505,7 @@ masasaudi.com
 mebed.dm.gg
 media-match.com
 mediaforce.com
+metric.huya.com
 metric.nimo.tv
 metricfast.com
 metrics.brightcove.com
@@ -5650,6 +5662,7 @@ weigezhiyao.com
 widget.trustpilot.com
 wieistmeineip.de
 wt.soundestlink.com
+ylog.huya.com
 ylog.nimo.tv
 ymtracking.com
 youthfire.com

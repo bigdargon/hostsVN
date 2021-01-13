@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 12 Jan 2021 15:01 UTC+7
-# Version: 2101121501
-# Blocked: 2,763 domains
+# Last modified: 13 Jan 2021 20:49 UTC+7
+# Version: 2101132049
+# Blocked: 2,766 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -536,6 +536,9 @@
 0.0.0.0 goal68.top
 0.0.0.0 prod.goal68.top
 0.0.0.0 www.goal68.top
+0.0.0.0 bong99.vip
+0.0.0.0 en.bong99.vip
+0.0.0.0 m.bong99.vip
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
