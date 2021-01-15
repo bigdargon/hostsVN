@@ -1025,7 +1025,6 @@
 0.0.0.0 www.vads.net.vn
 #[mepuzz.com]
 0.0.0.0 mepuzz.com
-0.0.0.0 mysql.mepuzz.com
 0.0.0.0 static.mepuzz.com
 0.0.0.0 www.mepuzz.com
 #[mobilead.vn]
@@ -1331,3 +1330,14 @@
 0.0.0.0 services.adnet.vn
 0.0.0.0 widget.adnet.vn
 0.0.0.0 www.adnet.vn
+#[haravan.com]
+0.0.0.0 buyxgety-omni.haravan.com
+0.0.0.0 buyxgety.haravan.com
+0.0.0.0 combo-omni.haravan.com
+0.0.0.0 combo.haravan.com
+0.0.0.0 haravan.com
+0.0.0.0 onapp.haravan.com
+#[starseed.fr]
+0.0.0.0 cdn.starseed.fr
+0.0.0.0 log.starseed.fr
+0.0.0.0 starseed.fr

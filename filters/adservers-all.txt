@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Jan 2021 20:49 UTC+7
-! Version: 2101132049
-! Blocked: 5,692 rules
+! Last modified: 15 Jan 2021 13:41 UTC+7
+! Version: 2101151341
+! Blocked: 5,704 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -71,6 +71,7 @@
 ||fuseplatform.net^
 ||gammaplatform.com^
 ||gammassp.com^
+||haravan.com^
 ||hbplatform.com^
 ||hotngay.vn^
 ||itim.vn^
@@ -134,6 +135,7 @@
 ||smartconvert.co^
 ||sourcetobin.com^
 ||sporttv.today^
+||starseed.fr^
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
 ||subiz-cdn.com^
@@ -349,6 +351,7 @@
 ||analytics.sohatv.vn^
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
+||analytics.tintuc.vn^
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
@@ -416,6 +419,7 @@
 ||logscafef.channelvn.net^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
+||partner.accesstrade.vn^
 ||report.vnay.vn^
 ||s.baomoi.xdn.vn^
 ||s.kenh14.vn^
@@ -474,6 +478,7 @@
 ||widget.sbz.vn^
 ||widget.subiz.net^
 ||widget.subiz.xyz^
+||widgetv4.subiz.com^
 ||11bet.com^
 ||11bet.net^
 ||11bet.win^
@@ -642,6 +647,7 @@
 ||ucesreferre.club^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
+||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||152media.com^
 ||1rx.io^
 ||1ts06.top^
@@ -930,6 +936,7 @@
 ||beap*.yahoo.com^
 ||beaverads.com^
 ||bebi.com^
+||beeketing.com^
 ||bestads.me^
 ||betrad.com^
 ||beverly-downing.xyz^
@@ -1122,7 +1129,7 @@
 ||firebaselogging.googleapis.com^
 ||firstimpression.io^
 ||flashtalking.com^
-||fls-na.amazon.com^
+||fls-*.amazon.*^
 ||flurry.com^
 ||flux-adserver.com^
 ||fout.jp^
@@ -1214,6 +1221,7 @@
 ||instartlogic.com^
 ||insurads.com^
 ||invitemedia.com^
+||invl.co^
 ||ioam.de^
 ||ip.taobao.com^
 ||iperceptions.com^
@@ -1391,6 +1399,7 @@
 ||o-s.io^
 ||o333o.com^
 ||objc.top^
+||omguk.com^
 ||omnitagjs.com^
 ||omtrdc.net^
 ||onespot-tracking.herokuapp.com^
@@ -1650,6 +1659,7 @@
 ||vungle.com^
 ||w88.go.com^
 ||wct.link^
+||webengage.com^
 ||weborama.com^
 ||webpushr.com^
 ||webpushs.com^
@@ -4124,6 +4134,7 @@
 ||newtopsites.com^
 ||nexac.com^
 ||ng3.ads.warnerbros.com^
+||nicksstevmark.com^
 ||nitratory.com^
 ||nitroclicks.com^
 ||noiselessplough.com^
@@ -4579,6 +4590,7 @@
 ||ru-traffic.com^
 ||ru4.com^
 ||runads.com^
+||runbornto.com^
 ||rundsp.com^
 ||rusenov.com^
 ||ruthlessrobin.com^
@@ -5382,7 +5394,6 @@
 ||bugsense.com^
 ||burstly.com^
 ||c.snnd.co^
-||c.webengage.com^
 ||c2i-cdn.startappnetwork.com^
 ||cankaowang.com^
 ||cc.swiftype.com^
@@ -5408,6 +5419,7 @@
 ||crittercism.com^
 ||csdian.net^
 ||d24n15hnbwhuhn.cloudfront.net^
+||d38fey2d93vryi.cloudfront.net^
 ||d4n.platformd.com^
 ||dap.digitalgov.gov^
 ||databerries.com^

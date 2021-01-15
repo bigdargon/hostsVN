@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Jan 2021 20:49 UTC+7
-# Version: 2101132049
-# Blocked: 18,458 domains
+# Last modified: 15 Jan 2021 13:41 UTC+7
+# Version: 2101151341
+# Blocked: 18,499 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -294,6 +294,9 @@
 0 astore.amazon.com
 0 device-metrics-us-2.amazon.com
 0 device-metrics-us.amazon.com
+0 fls-cn.amazon.com
+0 fls-eu.amazon.com
+0 fls-fe.amazon.com
 0 fls-na.amazon.com
 0 mads-eu.amazon.com
 0 mads.amazon.com
@@ -5390,6 +5393,7 @@
 0 landing.useinsider.com
 0 location.api.useinsider.com
 0 log.api.useinsider.com
+0 mediamartvn.api.useinsider.com
 0 mobile.useinsider.com
 0 mobileanalytics.useinsider.com
 0 parter.api.useinsider.com
@@ -5398,6 +5402,7 @@
 0 thegioididongvn.api.useinsider.com
 0 unification.useinsider.com
 0 useinsider.com
+0 viettelstorevn.api.useinsider.com
 0 weather.api.useinsider.com
 0 www.useinsider.com
 0 ads.juicyads.com
@@ -12786,6 +12791,28 @@
 0 o.bluekai.com
 0 stags.bluekai.com
 0 tags.bluekai.com
+0 beeketing.com
+0 gapi.beeketing.com
+0 m.beeketing.com
+0 sdk.beeketing.com
+0 stag.beeketing.com
+0 track.beeketing.com
+0 afiles.webengage.com
+0 api.webengage.com
+0 c.webengage.com
+0 cdn.beeketing.com
+0 msdk-files.webengage.com
+0 notification.webengage.com
+0 p.webengage.com
+0 ssl.widgets.webengage.com
+0 webengage.com
+0 wsdk-files.webengage.com
+0 omguk.com
+0 static.track.omguk.com
+0 track.omguk.com
+0 www.omguk.com
+0 invl.co
+0 xhr.invl.co
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13739,7 +13766,6 @@
 0 vads.net.vn
 0 www.vads.net.vn
 0 mepuzz.com
-0 mysql.mepuzz.com
 0 static.mepuzz.com
 0 www.mepuzz.com
 0 dev.mobilead.vn
@@ -14005,6 +14031,15 @@
 0 services.adnet.vn
 0 widget.adnet.vn
 0 www.adnet.vn
+0 buyxgety-omni.haravan.com
+0 buyxgety.haravan.com
+0 combo-omni.haravan.com
+0 combo.haravan.com
+0 haravan.com
+0 onapp.haravan.com
+0 cdn.starseed.fr
+0 log.starseed.fr
+0 starseed.fr
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
 0 ad-admin.vnay.vn
@@ -14206,6 +14241,7 @@
 0 analytics.sohatv.vn
 0 analytics.thethao247.org
 0 analytics.tiki.vn
+0 analytics.tintuc.vn
 0 analytics.viblo.asia
 0 analytics.videocloud.top
 0 analytics.vietnamfinance.vn
@@ -14273,6 +14309,7 @@
 0 logscafef.channelvn.net
 0 newlog.daidoanket.vn
 0 nstat.headlines.pw
+0 partner.accesstrade.vn
 0 report.vnay.vn
 0 s.baomoi.xdn.vn
 0 s.kenh14.vn
@@ -14331,6 +14368,7 @@
 0 widget.sbz.vn
 0 widget.subiz.net
 0 widget.subiz.xyz
+0 widgetv4.subiz.com
 0 bloodleian.club
 0 celerantatters.com
 0 hashearog.com
@@ -14340,6 +14378,7 @@
 0 ucesreferre.club
 0 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 0 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
+0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0 1-1ads.com
 0 1phads.com
 0 207.net
@@ -16766,6 +16805,7 @@
 0 newtopsites.com
 0 nexac.com
 0 ng3.ads.warnerbros.com
+0 nicksstevmark.com
 0 nitratory.com
 0 nitroclicks.com
 0 noiselessplough.com
@@ -17220,6 +17260,7 @@
 0 ru-traffic.com
 0 ru4.com
 0 runads.com
+0 runbornto.com
 0 rundsp.com
 0 rusenov.com
 0 ruthlessrobin.com
@@ -18109,7 +18150,6 @@
 0 bugsense.com
 0 burstly.com
 0 c.snnd.co
-0 c.webengage.com
 0 c2i-cdn.startappnetwork.com
 0 cankaowang.com
 0 cc.swiftype.com
@@ -18135,6 +18175,7 @@
 0 crittercism.com
 0 csdian.net
 0 d24n15hnbwhuhn.cloudfront.net
+0 d38fey2d93vryi.cloudfront.net
 0 d4n.platformd.com
 0 dap.digitalgov.gov
 0 databerries.com
