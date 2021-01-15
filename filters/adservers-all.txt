@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Jan 2021 13:41 UTC+7
-! Version: 2101151341
-! Blocked: 5,704 rules
+! Last modified: 15 Jan 2021 22:04 UTC+7
+! Version: 2101152204
+! Blocked: 5,710 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -893,6 +893,7 @@
 ||appnext.com^
 ||appnexus.com^
 ||appodealx.com^
+||apps*.outfit7.com^
 ||appsee.com^
 ||apptimize.com^
 ||apptornado.com^
@@ -936,6 +937,7 @@
 ||beap*.yahoo.com^
 ||beaverads.com^
 ||bebi.com^
+||bee7.com^
 ||beeketing.com^
 ||bestads.me^
 ||betrad.com^
@@ -1088,6 +1090,7 @@
 ||dpmsrv.com^
 ||dql2sdu63f1cw.cloudfront.net^
 ||dspmulti.com^
+||dtscout.com^
 ||du8783wkf05yr.cloudfront.net^
 ||duapps.com^
 ||dynamicyield.com^
@@ -1102,6 +1105,7 @@
 ||epom.com^
 ||eskimi.com^
 ||ethicalads.io^
+||events-api*.outfit7.com^
 ||everesttech.net^
 ||evidon.com^
 ||exdynsrv.com^
@@ -1226,6 +1230,7 @@
 ||ip.taobao.com^
 ||iperceptions.com^
 ||ippsrvng.xyz^
+||iqzone.com^
 ||islandmob.com^
 ||ivstracker.net^
 ||izooto.com^
@@ -5623,6 +5628,7 @@
 ||sync2ad.com^
 ||t.9gag.com^
 ||t.dailymail.co.uk^
+||t.dtscdn.com^
 ||tag.researchnow.com^
 ||tdf.ringier.ch^
 ||ted.dailymail.co.uk^

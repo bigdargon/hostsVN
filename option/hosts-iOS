@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 Jan 2021 13:41 UTC+7
-# Version: 2101151341
-# Blocked: 18,499 domains
+# Last modified: 15 Jan 2021 22:04 UTC+7
+# Version: 2101152204
+# Blocked: 18,518 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12813,6 +12813,24 @@
 0 www.omguk.com
 0 invl.co
 0 xhr.invl.co
+0 c.dtscout.com
+0 dtscout.com
+0 e.dtscout.com
+0 t.dtscout.com
+0 www.dtscout.com
+0 api-proxy.bee7.com
+0 api.bee7.com
+0 bee7.com
+0 cdn.bee7.com
+0 cdn.iqzone.com
+0 iqzone.com
+0 pssvc.iqzone.com
+0 apps.outfit7.com
+0 apps2.outfit7.com
+0 events-api-cn.outfit7.com
+0 events-api-ea.outfit7.com
+0 events-api-ew1.outfit7.com
+0 events-api.outfit7.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -18379,6 +18397,7 @@
 0 sync2ad.com
 0 t.9gag.com
 0 t.dailymail.co.uk
+0 t.dtscdn.com
 0 tag.researchnow.com
 0 tdf.ringier.ch
 0 ted.dailymail.co.uk

@@ -13626,3 +13626,26 @@
 #[invl.co]
 0.0.0.0 invl.co
 0.0.0.0 xhr.invl.co
+#[dtscout.com]
+0.0.0.0 c.dtscout.com
+0.0.0.0 dtscout.com
+0.0.0.0 e.dtscout.com
+0.0.0.0 t.dtscout.com
+0.0.0.0 www.dtscout.com
+#[bee7.com]
+0.0.0.0 api-proxy.bee7.com
+0.0.0.0 api.bee7.com
+0.0.0.0 bee7.com
+0.0.0.0 cdn.bee7.com
+#[iqzone.com]
+0.0.0.0 cdn.iqzone.com
+0.0.0.0 iqzone.com
+0.0.0.0 pssvc.iqzone.com
+#[apps*.outfit7.com]
+0.0.0.0 apps.outfit7.com
+0.0.0.0 apps2.outfit7.com
+#[events-api*.outfit7.com]
+0.0.0.0 events-api-cn.outfit7.com
+0.0.0.0 events-api-ea.outfit7.com
+0.0.0.0 events-api-ew1.outfit7.com
+0.0.0.0 events-api.outfit7.com
