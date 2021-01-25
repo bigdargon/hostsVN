@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Jan 2021 22:04 UTC+7
-! Version: 2101152204
-! Blocked: 5,710 rules
+! Last modified: 25 Jan 2021 20:48 UTC+7
+! Version: 2101252048
+! Blocked: 5,758 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -71,6 +71,8 @@
 ||fuseplatform.net^
 ||gammaplatform.com^
 ||gammassp.com^
+||harafunnel.com^
+||haraloyalty.com^
 ||haravan.com^
 ||hbplatform.com^
 ||hotngay.vn^
@@ -185,6 +187,7 @@
 ||addtop.trangvangvietnam.com^
 ||adfox.vn^
 ||adjusts.info^
+||adm.phunusuckhoe.vn^
 ||adm.phunuvagiadinh.vn^
 ||admedia.com.vn^
 ||admin.sothuchi.vn^
@@ -197,8 +200,12 @@
 ||ads.baotainguyenmoitruong.vn^
 ||ads.bkitsoftware.com^
 ||ads.careerbuilder.vn^
+||ads.carmudi.vn^
+||ads.conlatatca.vn^
 ||ads.fptplay.net.vn^
+||ads.gosu.vn^
 ||ads.home.vn^
+||ads.homedy.com^
 ||ads.ictnews.vn^
 ||ads.itsgroup.vn^
 ||ads.khoahocdoisong.vn^
@@ -221,6 +228,7 @@
 ||ads1.careerbuilder.vn^
 ||adserver.lag.vn^
 ||adserver.luzu.vn^
+||adserver.muaban.net^
 ||adserver.trangphim.net^
 ||adsgo.nhipcaudautu.vn^
 ||adsplus.vn^
@@ -298,8 +306,10 @@
 ||ng-vn-notice.gameitop.com^
 ||nspapi.aiservice.vn^
 ||offerwall.headlines.pw^
+||ox1.vietstock.vn^
 ||phimmedia03.com^
 ||polyad.galaxypub.vn^
+||promotionpopup.sapoapps.vn^
 ||qc.designervn.net^
 ||qc.itsgroup.vn^
 ||qcv5.blogtruyen.vn^
@@ -339,6 +349,7 @@
 ||a.vtvdigital.vn^
 ||addlog.thuvienphapluat.vn^
 ||admin.phunusuckhoe.vn^
+||affiliate.chiaki.vn^
 ||alexajstrack.com^
 ||analytic.baodantoc.vn^
 ||analytics.bkav.com^
@@ -349,6 +360,8 @@
 ||analytics.nhattao.com^
 ||analytics.rever.vn^
 ||analytics.sohatv.vn^
+||analytics.tcbs.com.vn^
+||analytics.teko.vn^
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
 ||analytics.tintuc.vn^
@@ -356,8 +369,14 @@
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
 ||analytics.vnreview.vn^
+||api.ozui.vn^
 ||api.sbz.vn^
 ||apl.headlines.pw^
+||app.hstatic.net^
+||btrack.homedy.com^
+||cdn.doke.app^
+||cdn.tekoapis.com^
+||clicker.chiaki.vn^
 ||clientinfo.phimmoizz.net^
 ||counter.ntdvn.com^
 ||crm.bizfly.vn^
@@ -410,6 +429,7 @@
 ||log.vov.vn^
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
+||logapi.misa.com.vn^
 ||logg4u.cnnd.vn^
 ||logging.galaxypub.vn^
 ||logs.giaoducthoidai.vn^
@@ -417,6 +437,7 @@
 ||logs1.reatimes.vn^
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
+||monitor.teko.vn^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
 ||partner.accesstrade.vn^
@@ -436,6 +457,8 @@
 ||stats.123c.vn^
 ||stats.bizweb.vn^
 ||stats.dongphim.net^
+||stats.hstatic.net^
+||stats.isacombank.com.vn^
 ||stats.petrotimes.vn^
 ||stats.tamdiem247.com^
 ||stats.vietnammoi.vn^
@@ -455,16 +478,19 @@
 ||tracker.fado.vn^
 ||tracker.phunuvagiadinh.vn^
 ||tracker.tintucvietnam.vn^
+||tracker.vanlong.stream^
 ||tracking.appwifi.com^
 ||tracking.dantri.com.vn^
 ||tracking.fado.vn^
 ||tracking.fff.com.vn^
 ||tracking.hongtinnhanh.com^
+||tracking.tekoapis.com^
 ||tracking.tinxe.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||tracking.vtc.vn^
 ||tracking.vtcnew.com.vn^
+||tracking.yes24.vn^
 ||trackingapi.foody.vn^
 ||trackity.tiki.vn^
 ||trending.vn^
@@ -505,6 +531,7 @@
 ||8livevn.com^
 ||aa88.in^
 ||ae888.com^
+||b29qc.win^
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
@@ -1013,6 +1040,7 @@
 ||clickhubs.com^
 ||clicksor.com^
 ||clicktale.net^
+||clicktripz.com^
 ||client-event-reporter.twitch.tv^
 ||client_monitor.isnssdk.com^
 ||clientmetrics-pa.googleapis.com^
@@ -1022,6 +1050,7 @@
 ||cloud.unity3d.com^
 ||clouderrorreporting.googleapis.com^
 ||cloudflareinsights.com^
+||cloudfront-labs.amazonaws.com^
 ||cloudmobi.net^
 ||cnnx.io^
 ||cnt.my^
@@ -1177,6 +1206,7 @@
 ||hads*s.com^
 ||headlinerlabs.com^
 ||heapanalytics.com^
+||heatmap.it^
 ||heyzap.com^
 ||hgbasics.com^
 ||histats.com^
@@ -1224,6 +1254,7 @@
 ||instapage.com^
 ||instartlogic.com^
 ||insurads.com^
+||intentmedia.net^
 ||invitemedia.com^
 ||invl.co^
 ||ioam.de^
@@ -1291,6 +1322,7 @@
 ||logoeps.com^
 ||logrocket.com^
 ||logrocket.io^
+||logs.datadoghq.*^
 ||logsdk.qq.com^
 ||loopme.me^
 ||lotame.com^
@@ -1423,6 +1455,7 @@
 ||optimizesrv.com^
 ||optmnstr.com^
 ||optvx.com^
+||otm-r.com^
 ||otnolatrnup.com^
 ||outbrain.com^
 ||outbrainimg.com^
@@ -1433,6 +1466,7 @@
 ||partnerad.l.google.com^
 ||partnershipsprogram.com^
 ||pcookie.taobao.com^
+||pepperjam.com^
 ||perimeterx.net^
 ||permutive.com^
 ||persona.ly^
@@ -1476,6 +1510,7 @@
 ||pubnative.net^
 ||puds.ucweb.com^
 ||purpleads.io^
+||pushalert.co^
 ||pushcrew.com^
 ||pushpush.io^
 ||pushspring.com^
@@ -1487,6 +1522,7 @@
 ||quantcount.com^
 ||quantserve.com^
 ||quantumdex.io^
+||r-ad.ne.jp^
 ||rakutenmarketing.com^
 ||rayads.cn^
 ||rayjump.com^
@@ -1501,6 +1537,7 @@
 ||remotead.cnet.com^
 ||report.appmetrica.yandex.net^
 ||report.qq.com^
+||resonate.com^
 ||revcontent.com^
 ||revenuehits.com^
 ||revive-adserver.com^
@@ -1512,6 +1549,7 @@
 ||rmtag.com^
 ||rosenberg.appmetrica.yandex.net^
 ||rtbid.me^
+||rtbsuperhub.com^
 ||rtlog.byteoversea.com^
 ||rtlog.isnssdk.com^
 ||rtlog.musical.ly^
@@ -2065,6 +2103,7 @@
 ||adrotic.girlonthenet.com^
 ||adru.net^
 ||ads-bi.zenkube.com^
+||ads-cdn.grab.com^
 ||ads-click.com^
 ||ads-trk.vidible.tv^
 ||ads.4tube.com^
@@ -2724,6 +2763,7 @@
 ||audiens.com^
 ||audrte.com^
 ||augur.io^
+||aulteeby.net^
 ||auto-bannertausch.de^
 ||autohits.dk^
 ||automaticflock.com^
@@ -3742,8 +3782,6 @@
 ||intelliads.com^
 ||intellilinks.com^
 ||intellitxt.com^
-||intentmedia.com^
-||intentmedia.net^
 ||intergi.com^
 ||internetfuel.com^
 ||interreklame.de^
@@ -5224,6 +5262,7 @@
 ||whisperingcrib.com^
 ||whoisonline.net^
 ||wholesaletraffic.info^
+||whugesto.net^
 ||whurulali.pro^
 ||widdit.com^
 ||widespace.com^
@@ -5340,6 +5379,7 @@
 ||analytics-digit-in.cdn.ampproject.org^
 ||analytics-production.hapyak.com^
 ||analytics.agoda.com^
+||analytics.ahrefs.com^
 ||analytics.archive.org^
 ||analytics.bitrix.info^
 ||analytics.ccgateway.net^
@@ -5445,6 +5485,7 @@
 ||etl.tindersparks.com^
 ||events-collector.spot.im^
 ||events.apester.com^
+||events.mapbox.com^
 ||events.redditmedia.com^
 ||everestjs.net^
 ||eviltracker.net^
@@ -5455,6 +5496,7 @@
 ||flagcounter.com^
 ||freegeoip.net^
 ||frog.wix.com^
+||front.optimonk.com^
 ||g.3gl.net^
 ||ga.clearbit.com^
 ||ga.kvideo.io^
@@ -5508,6 +5550,7 @@
 ||liftoff.io^
 ||log.apk.v-mate.mobi^
 ||log.getdropbox.com^
+||log.klook.com^
 ||log.kmplayer.com^
 ||log.kuwo.cn^
 ||log.quora.com^
@@ -5516,6 +5559,7 @@
 ||log.umsns.com^
 ||log.ventunotech.com^
 ||logs.amap.com^
+||logs.papertrailapp.com^
 ||logsss.com^
 ||loles.neostrada.pl^
 ||mads.dailymail.co.uk^
@@ -5592,6 +5636,7 @@
 ||s.infogram.com^
 ||safegraph.com^
 ||safelyawake.com^
+||salesiq.zoho.com^
 ||salesloft.com^
 ||sam4m.com^
 ||saspreview.com^
@@ -5609,6 +5654,7 @@
 ||soidc.com^
 ||soperson.com^
 ||speedcurve.com^
+||srmdata.com^
 ||ssc.api.bbc.com^
 ||stack-sonar.com^
 ||stathat.com^
@@ -5616,7 +5662,6 @@
 ||static.leaddyno.com^
 ||stats.apester.com^
 ||stats.betradar.com^
-||stats.hstatic.net^
 ||stats.unlimapps.com^
 ||stats.wp.com^
 ||stats.xtraffic.xyz^
@@ -5625,17 +5670,20 @@
 ||subscribers.com^
 ||summerhamster.com^
 ||suriflowers.com^
+||surveywall-api.survata.com^
 ||sync2ad.com^
 ||t.9gag.com^
 ||t.dailymail.co.uk^
 ||t.dtscdn.com^
 ||tag.researchnow.com^
+||tamgrt.com^
 ||tdf.ringier.ch^
 ||ted.dailymail.co.uk^
 ||ted.metro.co.uk^
 ||tedgenet.com^
 ||theirsvendor.com^
 ||thoosje.com^
+||to.getnitropack.com^
 ||track.56txs4.com^
 ||track.datetrck.com^
 ||track.hubspot.com^

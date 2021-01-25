@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Jan 2021 22:04 UTC+7
-! Version: 2101152204
-! Blocked: 642 rules
+! Last modified: 25 Jan 2021 20:48 UTC+7
+! Version: 2101252048
+! Blocked: 669 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -71,6 +71,8 @@
 ||fuseplatform.net^
 ||gammaplatform.com^
 ||gammassp.com^
+||harafunnel.com^
+||haraloyalty.com^
 ||haravan.com^
 ||hbplatform.com^
 ||hotngay.vn^
@@ -185,6 +187,7 @@
 ||addtop.trangvangvietnam.com^
 ||adfox.vn^
 ||adjusts.info^
+||adm.phunusuckhoe.vn^
 ||adm.phunuvagiadinh.vn^
 ||admedia.com.vn^
 ||admin.sothuchi.vn^
@@ -197,8 +200,12 @@
 ||ads.baotainguyenmoitruong.vn^
 ||ads.bkitsoftware.com^
 ||ads.careerbuilder.vn^
+||ads.carmudi.vn^
+||ads.conlatatca.vn^
 ||ads.fptplay.net.vn^
+||ads.gosu.vn^
 ||ads.home.vn^
+||ads.homedy.com^
 ||ads.ictnews.vn^
 ||ads.itsgroup.vn^
 ||ads.khoahocdoisong.vn^
@@ -221,6 +228,7 @@
 ||ads1.careerbuilder.vn^
 ||adserver.lag.vn^
 ||adserver.luzu.vn^
+||adserver.muaban.net^
 ||adserver.trangphim.net^
 ||adsgo.nhipcaudautu.vn^
 ||adsplus.vn^
@@ -298,8 +306,10 @@
 ||ng-vn-notice.gameitop.com^
 ||nspapi.aiservice.vn^
 ||offerwall.headlines.pw^
+||ox1.vietstock.vn^
 ||phimmedia03.com^
 ||polyad.galaxypub.vn^
+||promotionpopup.sapoapps.vn^
 ||qc.designervn.net^
 ||qc.itsgroup.vn^
 ||qcv5.blogtruyen.vn^
@@ -339,6 +349,7 @@
 ||a.vtvdigital.vn^
 ||addlog.thuvienphapluat.vn^
 ||admin.phunusuckhoe.vn^
+||affiliate.chiaki.vn^
 ||alexajstrack.com^
 ||analytic.baodantoc.vn^
 ||analytics.bkav.com^
@@ -349,6 +360,8 @@
 ||analytics.nhattao.com^
 ||analytics.rever.vn^
 ||analytics.sohatv.vn^
+||analytics.tcbs.com.vn^
+||analytics.teko.vn^
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
 ||analytics.tintuc.vn^
@@ -356,8 +369,14 @@
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
 ||analytics.vnreview.vn^
+||api.ozui.vn^
 ||api.sbz.vn^
 ||apl.headlines.pw^
+||app.hstatic.net^
+||btrack.homedy.com^
+||cdn.doke.app^
+||cdn.tekoapis.com^
+||clicker.chiaki.vn^
 ||clientinfo.phimmoizz.net^
 ||counter.ntdvn.com^
 ||crm.bizfly.vn^
@@ -410,6 +429,7 @@
 ||log.vov.vn^
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
+||logapi.misa.com.vn^
 ||logg4u.cnnd.vn^
 ||logging.galaxypub.vn^
 ||logs.giaoducthoidai.vn^
@@ -417,6 +437,7 @@
 ||logs1.reatimes.vn^
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
+||monitor.teko.vn^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
 ||partner.accesstrade.vn^
@@ -436,6 +457,8 @@
 ||stats.123c.vn^
 ||stats.bizweb.vn^
 ||stats.dongphim.net^
+||stats.hstatic.net^
+||stats.isacombank.com.vn^
 ||stats.petrotimes.vn^
 ||stats.tamdiem247.com^
 ||stats.vietnammoi.vn^
@@ -455,16 +478,19 @@
 ||tracker.fado.vn^
 ||tracker.phunuvagiadinh.vn^
 ||tracker.tintucvietnam.vn^
+||tracker.vanlong.stream^
 ||tracking.appwifi.com^
 ||tracking.dantri.com.vn^
 ||tracking.fado.vn^
 ||tracking.fff.com.vn^
 ||tracking.hongtinnhanh.com^
+||tracking.tekoapis.com^
 ||tracking.tinxe.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||tracking.vtc.vn^
 ||tracking.vtcnew.com.vn^
+||tracking.yes24.vn^
 ||trackingapi.foody.vn^
 ||trackity.tiki.vn^
 ||trending.vn^
@@ -505,6 +531,7 @@
 ||8livevn.com^
 ||aa88.in^
 ||ae888.com^
+||b29qc.win^
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
