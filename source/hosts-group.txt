@@ -437,6 +437,7 @@
 0.0.0.0 ws.amazon-adsystems.com
 0.0.0.0 z-na.amazon-adsystems.com
 #[amazonaws]
+0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-2.amazonaws.com
@@ -13661,3 +13662,6 @@
 0.0.0.0 rtbsuperhub.com
 0.0.0.0 us-adsrv.rtbsuperhub.com
 0.0.0.0 us-east-adsrv.rtbsuperhub.com
+#[pushalert.co]
+0.0.0.0 cdn.pushalert.co
+0.0.0.0 pushalert.co
