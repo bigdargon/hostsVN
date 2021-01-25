@@ -354,6 +354,7 @@
 0.0.0.0 adrotic.girlonthenet.com
 0.0.0.0 adru.net
 0.0.0.0 ads-bi.zenkube.com
+0.0.0.0 ads-cdn.grab.com
 0.0.0.0 ads-click.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads.4tube.com
@@ -2031,8 +2032,6 @@
 0.0.0.0 intelliads.com
 0.0.0.0 intellilinks.com
 0.0.0.0 intellitxt.com
-0.0.0.0 intentmedia.com
-0.0.0.0 intentmedia.net
 0.0.0.0 intergi.com
 0.0.0.0 internetfuel.com
 0.0.0.0 interreklame.de
@@ -3714,6 +3713,7 @@
 0.0.0.0 analytics-digit-in.cdn.ampproject.org
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics.agoda.com
+0.0.0.0 analytics.ahrefs.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.ccgateway.net
@@ -3819,6 +3819,7 @@
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events.apester.com
+0.0.0.0 events.mapbox.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 everestjs.net
 0.0.0.0 eviltracker.net
@@ -3829,6 +3830,7 @@
 0.0.0.0 flagcounter.com
 0.0.0.0 freegeoip.net
 0.0.0.0 frog.wix.com
+0.0.0.0 front.optimonk.com
 0.0.0.0 g.3gl.net
 0.0.0.0 ga.clearbit.com
 0.0.0.0 ga.kvideo.io
@@ -3882,6 +3884,7 @@
 0.0.0.0 liftoff.io
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.getdropbox.com
+0.0.0.0 log.klook.com
 0.0.0.0 log.kmplayer.com
 0.0.0.0 log.kuwo.cn
 0.0.0.0 log.quora.com
@@ -3890,6 +3893,7 @@
 0.0.0.0 log.umsns.com
 0.0.0.0 log.ventunotech.com
 0.0.0.0 logs.amap.com
+0.0.0.0 logs.papertrailapp.com
 0.0.0.0 logsss.com
 0.0.0.0 loles.neostrada.pl
 0.0.0.0 mads.dailymail.co.uk
@@ -3966,6 +3970,7 @@
 0.0.0.0 s.infogram.com
 0.0.0.0 safegraph.com
 0.0.0.0 safelyawake.com
+0.0.0.0 salesiq.zoho.com
 0.0.0.0 salesloft.com
 0.0.0.0 sam4m.com
 0.0.0.0 saspreview.com
@@ -3983,6 +3988,7 @@
 0.0.0.0 soidc.com
 0.0.0.0 soperson.com
 0.0.0.0 speedcurve.com
+0.0.0.0 srmdata.com
 0.0.0.0 ssc.api.bbc.com
 0.0.0.0 stack-sonar.com
 0.0.0.0 stathat.com
@@ -3998,17 +4004,20 @@
 0.0.0.0 subscribers.com
 0.0.0.0 summerhamster.com
 0.0.0.0 suriflowers.com
+0.0.0.0 surveywall-api.survata.com
 0.0.0.0 sync2ad.com
 0.0.0.0 t.9gag.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.dtscdn.com
 0.0.0.0 tag.researchnow.com
+0.0.0.0 tamgrt.com
 0.0.0.0 tdf.ringier.ch
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
 0.0.0.0 tedgenet.com
 0.0.0.0 theirsvendor.com
 0.0.0.0 thoosje.com
+0.0.0.0 to.getnitropack.com
 0.0.0.0 track.56txs4.com
 0.0.0.0 track.datetrck.com
 0.0.0.0 track.hubspot.com
@@ -4067,8 +4076,10 @@
 0.0.0.0 www.npttech.com
 0.0.0.0 www.placehold.it
 0.0.0.0 www.rtb123.com
+0.0.0.0 www.srmdata.com
 0.0.0.0 www.statsforads.com
 0.0.0.0 www.summerhamster.com
+0.0.0.0 www.tamgrt.com
 0.0.0.0 www.uciservice.com
 0.0.0.0 www.usertrack.net
 0.0.0.0 www.vdtrack.com
