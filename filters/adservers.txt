@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Jan 2021 20:48 UTC+7
-! Version: 2101252048
-! Blocked: 669 rules
+! Last modified: 26 Jan 2021 16:34 UTC+7
+! Version: 2101261634
+! Blocked: 676 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -192,6 +192,7 @@
 ||admedia.com.vn^
 ||admin.sothuchi.vn^
 ||adpostback.headlines.pw^
+||ads-backend.nhadatmoi.net^
 ||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
 ||ads.baoangiang.com.vn^
@@ -213,6 +214,7 @@
 ||ads.lamchame.vn^
 ||ads.laodongnghean.vn^
 ||ads.nghenhinvietnam.vn^
+||ads.nhadatmoi.net^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
@@ -443,6 +445,7 @@
 ||partner.accesstrade.vn^
 ||report.vnay.vn^
 ||s.baomoi.xdn.vn^
+||s.homedy.com^
 ||s.kenh14.vn^
 ||s.soha.vn^
 ||s.tuoitre.vn^
@@ -554,17 +557,21 @@
 ||fb88go.com^
 ||fb88live.com^
 ||fb88sports.com^
+||fcb8.com^
+||fcb88d.com^
 ||five88.biz^
 ||five88.com^
 ||five88.net^
 ||gdwbetvn888.com^
 ||gdwviet.com^
+||gi888.cc^
 ||go88.club^
 ||go88.com^
 ||goal123.com^
 ||goal68.top^
 ||ibet889.com^
 ||income88.com^
+||interwinvn.com^
 ||jbovn.com^
 ||k8vn03.com^
 ||keotot.net^

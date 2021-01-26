@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 25 Jan 2021 20:48 UTC+7
-# Version: 2101252048
-# Blocked: 2,767 domains
+# Last modified: 26 Jan 2021 16:34 UTC+7
+# Version: 2101261634
+# Blocked: 2,775 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -540,6 +540,14 @@
 0.0.0.0 en.bong99.vip
 0.0.0.0 m.bong99.vip
 0.0.0.0 b29qc.win
+0.0.0.0 interwinvn.com
+0.0.0.0 www.interwinvn.com
+0.0.0.0 gi888.cc
+0.0.0.0 fcb88d.com
+0.0.0.0 fc1.fcb88d.com
+0.0.0.0 fc2.fcb88d.com
+0.0.0.0 fcb8.com
+0.0.0.0 www.fcb8.com
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com

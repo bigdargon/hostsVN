@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 Jan 2021 20:48 UTC+7
-# Version: 2101252048
-# Blocked: 18,563 domains
+# Last modified: 26 Jan 2021 16:34 UTC+7
+# Version: 2101261634
+# Blocked: 18,578 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12827,6 +12827,14 @@
 0 heatmap.it
 0 u.heatmap.it
 0 www.heatmap.it
+0 siteimprove.com
+0 ts.siteimprove.com
+0 us1.siteimprove.com
+0 us2.siteimprove.com
+0 app2.salesmanago.pl
+0 app3.salesmanago.pl
+0 salesmanago.pl
+0 www.salesmanago.pl
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14091,6 +14099,7 @@
 0 admedia.com.vn
 0 admin.sothuchi.vn
 0 adpostback.headlines.pw
+0 ads-backend.nhadatmoi.net
 0 ads-cdn.fptplay.net
 0 ads.1thegioi.vn
 0 ads.baoangiang.com.vn
@@ -14112,6 +14121,7 @@
 0 ads.lamchame.vn
 0 ads.laodongnghean.vn
 0 ads.nghenhinvietnam.vn
+0 ads.nhadatmoi.net
 0 ads.phunuonline.com.vn
 0 ads.phunusuckhoe.vn
 0 ads.phunuvagiadinh.vn
@@ -14358,6 +14368,7 @@
 0 partner.accesstrade.vn
 0 report.vnay.vn
 0 s.baomoi.xdn.vn
+0 s.homedy.com
 0 s.kenh14.vn
 0 s.soha.vn
 0 s.tuoitre.vn
@@ -17411,7 +17422,6 @@
 0 sinoa.com
 0 sistacked.com
 0 sitedataprocessing.com
-0 siteimproveanalytics.com
 0 sitemeter.com
 0 sitestat.com
 0 sixscissors.com
@@ -18329,6 +18339,7 @@
 0 mads.dailymail.co.uk
 0 maper.info
 0 masasaudi.com
+0 measure.admiralmarkets.com
 0 mebed.dm.gg
 0 media-match.com
 0 mediaforce.com
@@ -18377,6 +18388,7 @@
 0 prooffactor.com
 0 propeller-tracking.com
 0 pv.sohu.com
+0 q.quora.com
 0 q2melbourne.com
 0 qqkabb.com
 0 r.3gl.net
@@ -18410,6 +18422,8 @@
 0 si.dailymail.co.uk
 0 simplesharebuttons.com
 0 singular.net
+0 siteimproveanalytics.com
+0 siteimproveanalytics.io
 0 smart-dmp.com
 0 smetrics.bestbuy.com
 0 smetrics.boston.com
@@ -18506,6 +18520,7 @@
 0 www.npttech.com
 0 www.placehold.it
 0 www.rtb123.com
+0 www.siteimproveanalytics.com
 0 www.srmdata.com
 0 www.statsforads.com
 0 www.summerhamster.com
