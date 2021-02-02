@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 26 Jan 2021 16:34 UTC+7
-# Version: 2101261634
-# Blocked: 2,775 domains
+# Last modified: 02 Feb 2021 11:34 UTC+7
+# Version: 2102021134
+# Blocked: 2,802 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -548,6 +548,33 @@
 0.0.0.0 fc2.fcb88d.com
 0.0.0.0 fcb8.com
 0.0.0.0 www.fcb8.com
+0.0.0.0 k8vina17.com
+0.0.0.0 vx88e.com
+0.0.0.0 vx88.com
+0.0.0.0 api.vx88.com
+0.0.0.0 app.vx88.com
+0.0.0.0 new.vx88.com
+0.0.0.0 static-promotion.vx88.com
+0.0.0.0 static.vx88.com
+0.0.0.0 ws.vx88.com
+0.0.0.0 vwinthethao.com
+0.0.0.0 www.vwinthethao.com
+0.0.0.0 lixi888.online
+0.0.0.0 m.lixi888.online
+0.0.0.0 179bet.net
+0.0.0.0 m.179bet.net
+0.0.0.0 t8betvip.com
+0.0.0.0 api.t8betvip.com
+0.0.0.0 www.t8betvip.com
+0.0.0.0 fb88viet.com
+0.0.0.0 www.fb88viet.com
+0.0.0.0 1126bet.com
+0.0.0.0 api.1126bet.com
+0.0.0.0 www.1126bet.com
+0.0.0.0 v9jvn.com
+0.0.0.0 m.v9jvn.com
+0.0.0.0 widget.v9jvn.com
+0.0.0.0 www.v9jvn.com
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
