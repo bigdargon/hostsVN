@@ -11936,21 +11936,27 @@
 0.0.0.0 c.aper.pw
 0.0.0.0 xx.aper.pw
 #[taobao.com]
-0.0.0.0 adash.m.taobao.com
-0.0.0.0 adashbc.m.taobao.com
-0.0.0.0 adashbc.ut.taobao.com
-0.0.0.0 adashx.m.taobao.com
-0.0.0.0 adashx.ut.taobao.com
-0.0.0.0 adashx4ae.ut.taobao.com
-0.0.0.0 adashxgc.ut.taobao.com
-0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 count.taobao.com
-0.0.0.0 h-adashx.ut.taobao.com
-0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 ip.taobao.com
-0.0.0.0 m-adash.m.taobao.com
 0.0.0.0 pcookie.taobao.com
 0.0.0.0 s.click.taobao.com
+#[m.taobao.com]
+0.0.0.0 acs.m.taobao.com
+0.0.0.0 adash.m.taobao.com
+0.0.0.0 adashbc.m.taobao.com
+0.0.0.0 adashx.m.taobao.com
+0.0.0.0 apoll.m.taobao.com
+0.0.0.0 c-adash.m.taobao.com
+0.0.0.0 m-adash.m.taobao.com
+#[ut.taobao.com]
+0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 adashx.ut.taobao.com
+0.0.0.0 adashx4ae.ut.taobao.com
+0.0.0.0 adashx4sg.ut.taobao.com
+0.0.0.0 adashxgc.ut.taobao.com
+0.0.0.0 h-adashx.ut.taobao.com
+0.0.0.0 h-adashx4ae.ut.taobao.com
+0.0.0.0 h-adashx4sg.ut.taobao.com
 #[tanx.com]
 0.0.0.0 advertisement.tanx.com
 0.0.0.0 alibaba.tanx.com
