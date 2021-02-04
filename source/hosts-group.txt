@@ -2,6 +2,11 @@
 #[apple]
 0.0.0.0 advertising.apple.com
 0.0.0.0 banners.itunes.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.apple.com
 #[iadsdk.apple.com]
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 ca.iadsdk.apple.com
@@ -11,13 +16,18 @@
 0.0.0.0 su.iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 ut.iadsdk.apple.com
-0.0.0.0 www.iadsdk.apple.com
 #[iad.apple.com]
-0.0.0.0 iad.apple.com
+0.0.0.0 apps.iad.apple.com
 0.0.0.0 blueprints.iad.apple.com
-0.0.0.0 overlord.iad.apple.com
+0.0.0.0 ccportal.iad.apple.com
+0.0.0.0 cmws.iad.apple.com
+0.0.0.0 display-apps-ui-soak.iad.apple.com
+0.0.0.0 display-apps-ui.iad.apple.com
+0.0.0.0 iad.apple.com
+0.0.0.0 iadfeed.iad.apple.com
+0.0.0.0 iadworkbench-soak.iad.apple.com
+0.0.0.0 iris.iad.apple.com
 0.0.0.0 stg-cmws.iad.apple.com
-0.0.0.0 www.iad.apple.com
 #[doubleclick.net]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
