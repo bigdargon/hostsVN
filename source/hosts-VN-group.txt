@@ -542,12 +542,9 @@
 0.0.0.0 org.zaloapp.ads.zdn.vn
 0.0.0.0 zaloapp.ads.zdn.vn
 0.0.0.0 zplayer-trk.zdn.vn
+#[zapps.vn]
+0.0.0.0 tracking.api.media.zapps.vn
 0.0.0.0 zplayer.trk.zapps.vn
-#[log.zing*.vn]
-0.0.0.0 log.zingmp3.vn
-0.0.0.0 log.zingnews.vn
-0.0.0.0 log.zingtv.vn
-0.0.0.0 zlog.zingmp3.vn
 #[yomedia]
 0.0.0.0 ad-deliver.yomedia.vn
 0.0.0.0 analytics.yomedia.vn
@@ -1359,3 +1356,25 @@
 0.0.0.0 app.slimads.vn
 0.0.0.0 slimads.vn
 0.0.0.0 www.slimads.vn
+#[t.sieu-viet.com]
+0.0.0.0 a.t.sieu-viet.com
+0.0.0.0 d.t.sieu-viet.com
+0.0.0.0 j.t.sieu-viet.com
+0.0.0.0 t.sieu-viet.com
+#[subiz.com]
+0.0.0.0 apiv4.subiz.com
+0.0.0.0 static.subiz.com
+0.0.0.0 widget.subiz.com
+0.0.0.0 widgetv4.subiz.com
+#[sbz.vn]
+0.0.0.0 api.sbz.vn
+0.0.0.0 widget.sbz.vn
+#[subiz.net]
+0.0.0.0 api.subiz.net
+0.0.0.0 widget.subiz.net
+#[subiz.xyz]
+0.0.0.0 api.subiz.xyz
+0.0.0.0 widget.subiz.xyz
+#[subiz.com.vn]
+0.0.0.0 api.subiz.com.vn
+0.0.0.0 app.subiz.com.vn

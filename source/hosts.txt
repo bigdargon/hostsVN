@@ -1,5 +1,6 @@
 # --- Block other adsVN ---
 0.0.0.0 1-1ads.com
+0.0.0.0 152media.info
 0.0.0.0 1phads.com
 0.0.0.0 207.net
 0.0.0.0 247media.com
@@ -304,6 +305,7 @@
 0.0.0.0 admtpmp123.com
 0.0.0.0 admtpmp124.com
 0.0.0.0 admtpmp127.com
+0.0.0.0 adn.ebay.com
 0.0.0.0 adnami.io
 0.0.0.0 adnection.com
 0.0.0.0 adnet-media.net
@@ -429,6 +431,7 @@
 0.0.0.0 ads.domeus.com
 0.0.0.0 ads.eagletribune.com
 0.0.0.0 ads.easy-forex.com
+0.0.0.0 ads.ebay.com
 0.0.0.0 ads.economist.com
 0.0.0.0 ads.edbindex.dk
 0.0.0.0 ads.egrana.com.br
@@ -951,6 +954,7 @@
 0.0.0.0 api.catch.gift
 0.0.0.0 api.forshrd.com
 0.0.0.0 api.intensifier.de
+0.0.0.0 api.monedata.io
 0.0.0.0 api.parse.com
 0.0.0.0 api.unthem.com
 0.0.0.0 app-promo.com
@@ -3010,7 +3014,6 @@
 0.0.0.0 smilingwaves.com
 0.0.0.0 smowtion.com
 0.0.0.0 sms.otair.com
-0.0.0.0 snapads.com
 0.0.0.0 snapgiant.com
 0.0.0.0 sneakystamp.com
 0.0.0.0 snoobi.com
@@ -3138,7 +3141,6 @@
 0.0.0.0 sumatoad.com
 0.0.0.0 summerobject.com
 0.0.0.0 sumo.com
-0.0.0.0 sumome.com
 0.0.0.0 sunmedia.tv
 0.0.0.0 superclix.de
 0.0.0.0 superfastcdn.com
@@ -3702,6 +3704,7 @@
 0.0.0.0 a.apkpure.com
 0.0.0.0 a.axmtrack.com
 0.0.0.0 a.klaviyo.com
+0.0.0.0 a.mailmunch.co
 0.0.0.0 a.quora.com
 0.0.0.0 a.ria.ru
 0.0.0.0 a3cloud.net
@@ -3765,12 +3768,15 @@
 0.0.0.0 bango.net
 0.0.0.0 batchlogging4.truecaller.com
 0.0.0.0 bc.dailymail.co.uk
+0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beampulse.com
+0.0.0.0 beyondsecurity.com
 0.0.0.0 bjdxhs.com
 0.0.0.0 bjhmt.com
 0.0.0.0 blueconic.net
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 bugsense.com
 0.0.0.0 burstly.com
 0.0.0.0 c.snnd.co
@@ -3791,6 +3797,7 @@
 0.0.0.0 collect.igodigital.com
 0.0.0.0 collector.apester.com
 0.0.0.0 collector.leaddyno.com
+0.0.0.0 collector.unsplash.com
 0.0.0.0 comscoreresearch.com
 0.0.0.0 cookieinfoscript.com
 0.0.0.0 coralogix.com
@@ -3811,6 +3818,7 @@
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 do-not-tracker.org
 0.0.0.0 dolohen.com
+0.0.0.0 dotmetrics.net
 0.0.0.0 down.nishuoa.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 dynatrace.com
@@ -3820,6 +3828,7 @@
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events.apester.com
+0.0.0.0 events.jora.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 everestjs.net
@@ -3839,11 +3848,13 @@
 0.0.0.0 geoip.tnt-ea.com
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 getexceptional.com
+0.0.0.0 getsitecontrol.com
 0.0.0.0 glanceguide.com
 0.0.0.0 globalwebindex.net
 0.0.0.0 go.ad1data.com
 0.0.0.0 gotoip55.com
 0.0.0.0 grabify.link
+0.0.0.0 gravityrd-services.com
 0.0.0.0 greedseed.world
 0.0.0.0 gs.dailymail.co.uk
 0.0.0.0 guihua-china.com
@@ -3864,10 +3875,12 @@
 0.0.0.0 ie8eamus.com
 0.0.0.0 images.dmca.com
 0.0.0.0 img.leadzutw.com
+0.0.0.0 imp.pvnsolutions.com
 0.0.0.0 inside-graph.com
 0.0.0.0 intent.cbsi.com
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 invoca.net
+0.0.0.0 iovation.com
 0.0.0.0 ip-api.com
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 js.hsleadflows.net
@@ -3883,6 +3896,7 @@
 0.0.0.0 lem-computers.net
 0.0.0.0 lfeeder.com
 0.0.0.0 liftoff.io
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.getdropbox.com
 0.0.0.0 log.klook.com
@@ -3893,6 +3907,7 @@
 0.0.0.0 log.tutuapp.com
 0.0.0.0 log.umsns.com
 0.0.0.0 log.ventunotech.com
+0.0.0.0 logger.unsplash.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.papertrailapp.com
 0.0.0.0 logsss.com
@@ -3910,6 +3925,7 @@
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cloudflarebolt.com
 0.0.0.0 metrics.sdkbox.com
+0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 montacarichi.it
 0.0.0.0 mousestats.com
 0.0.0.0 movestone.net
@@ -3994,6 +4010,7 @@
 0.0.0.0 soperson.com
 0.0.0.0 srmdata.com
 0.0.0.0 ssc.api.bbc.com
+0.0.0.0 ssm.codes
 0.0.0.0 stack-sonar.com
 0.0.0.0 stathat.com
 0.0.0.0 static.intentarget.com
@@ -4013,6 +4030,7 @@
 0.0.0.0 t.9gag.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.dtscdn.com
+0.0.0.0 t.freelancer.com
 0.0.0.0 tag.researchnow.com
 0.0.0.0 tamgrt.com
 0.0.0.0 tdf.ringier.ch

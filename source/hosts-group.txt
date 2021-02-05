@@ -1628,6 +1628,7 @@
 0.0.0.0 ar.umeng.com
 0.0.0.0 at.umeng.com
 0.0.0.0 dev.umeng.com
+0.0.0.0 errlog.umeng.com
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
@@ -13616,3 +13617,30 @@
 0.0.0.0 insightexpressai.com
 0.0.0.0 secure.insightexpressai.com
 0.0.0.0 surveys.insightexpressai.com
+#[convertexperiments.com]
+0.0.0.0 cdn-3.convertexperiments.com
+0.0.0.0 convertexperiments.com
+0.0.0.0 logs.convertexperiments.com
+0.0.0.0 no-cdn.convertexperiments.com
+0.0.0.0 track.convertexperiments.com
+#[snapads.com]
+0.0.0.0 adserver.shadow.snapads.com
+0.0.0.0 adserver.snapads.com
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 snapads.com
+0.0.0.0 study.snapads.com
+0.0.0.0 usc.adserver.snapads.com
+#[omappapi.com]
+0.0.0.0 a.omappapi.com
+0.0.0.0 api.omappapi.com
+0.0.0.0 app.omappapi.com
+0.0.0.0 beta-api.omappapi.com
+0.0.0.0 ga.omappapi.com
+0.0.0.0 omappapi.com
+0.0.0.0 staging-api.omappapi.com
+0.0.0.0 www.omappapi.com
+0.0.0.0 z.omappapi.com
+#[sumome.com]
+0.0.0.0 sumome.com
+0.0.0.0 load.sumome.com
