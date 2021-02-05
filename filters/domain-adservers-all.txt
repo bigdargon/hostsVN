@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 02 Feb 2021 11:34 UTC+7
-! Version: 2102021134
-! Blocked: 5,785 domains
+! Last modified: 05 Feb 2021 14:47 UTC+7
+! Version: 2102051447
+! Blocked: 5,846 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h*-ad.24hstatic.com
@@ -86,7 +86,6 @@ lavanetwork.net
 log*.zing.vn
 log.api.zaloapp.com
 log.o2o.service.zaloapp.com
-log.zing*.vn
 mangoads.vn
 masoffer.net
 mclick.mobi
@@ -126,6 +125,7 @@ qc.coccoc.com
 qc.coccoc.vn
 qccoccocmedia.vn
 rungrinh.vn
+sbz.vn
 sdk.zadn.vn
 serving-system.com
 sharks.vn
@@ -139,9 +139,15 @@ starseed.fr
 static-ads.zaloapp.com
 stats.zaloapp.com
 subiz-cdn.com
+subiz.com
+subiz.com.vn
+subiz.net
+subiz.xyz
 surfcountor.com
+t.sieu-viet.com
 takataka.coccoc.com
 testcentre.vn
+tracking.api.media.zapps.vn
 tracking.playzing.g6.zing.vn
 trk-pcweb.api.zaloapp.com
 tuiiu.com
@@ -161,7 +167,6 @@ yomedia.vn
 younetmedia.com
 zalo-ads*.zadn.vn
 zaloapp.ads.zdn.vn
-zlog.zingmp3.vn
 zminer.zaloapp.com
 zplayer-trk.zdn.vn
 zplayer.trk.zapps.vn
@@ -235,11 +240,15 @@ adsplus.vn
 adsv2.autodaily.vn
 adsweb.vn
 adt.com.vn
+adtima.net.vn
+adtima.org
 adv.anhsangvacuocsong.vn
 adv.baotintuc.vn
+adver.24h.com.vn
 advert-admin.vnay.vn
 advertisement-nhatanh.com
 advserver.cgv.vn
+advzone.ioe.vn
 adx.baolongan.vn
 adx.chinmedia.vn
 adx.edutimes.com.vn
@@ -350,6 +359,7 @@ widget.headlines.pw
 a.vtvdigital.vn
 addlog.thuvienphapluat.vn
 admin.phunusuckhoe.vn
+admin.voh.com.vn
 affiliate.chiaki.vn
 alexajstrack.com
 analytic.baodantoc.vn
@@ -369,9 +379,9 @@ analytics.tintuc.vn
 analytics.viblo.asia
 analytics.videocloud.top
 analytics.vietnamfinance.vn
+analytics.vnpt.vn
 analytics.vnreview.vn
 api.ozui.vn
-api.sbz.vn
 apl.headlines.pw
 app.hstatic.net
 btrack.homedy.com
@@ -388,6 +398,8 @@ event.vntoday.news
 fa.fpt.shop
 follow.vnay.vn
 google-shopping.sapoapps.vn
+googleshopping.sapoapps.vn
+gtmjs.com
 hit.123c.vn
 invite.baomoi.com
 la.vietid.net
@@ -406,6 +418,7 @@ log.dantocmiennui.vn
 log.doanhnhan.vn
 log.giaoduc.net.vn
 log.infonet.vn
+log.kaka.me
 log.kienthuc.net.vn
 log.ngaynay.vn
 log.nhipcaudautu.vn
@@ -429,6 +442,9 @@ log.vnfinance.vn
 log.vntoday.news
 log.vov.vn
 log.zamba.vn
+log.zingmp3.vn
+log.zingnews.vn
+log.zingtv.vn
 log4x.nixcdn.com
 logapi.misa.com.vn
 logg4u.cnnd.vn
@@ -454,7 +470,6 @@ sharefb.cnnd.vn
 st-a.vtvdigital.vn
 stat.headlines.pw
 static.accesstrade.vn
-static.subiz.com
 staticad.thethao247.vn
 statistics.vov.vn
 stats.123c.vn
@@ -487,8 +502,10 @@ tracking.dantri.com.vn
 tracking.fado.vn
 tracking.fff.com.vn
 tracking.hongtinnhanh.com
+tracking.meta.vn
 tracking.tekoapis.com
 tracking.tinxe.vn
+tracking.tv.zing.vn
 tracking.vht.com.vn
 tracking.vietbao.vn
 tracking.vtc.vn
@@ -504,10 +521,11 @@ vn.alexajstrack.com
 vtrack.vht.com.vn
 webpush.bizfly.vn
 webpush.todo.vn
-widget.sbz.vn
+widget.kyna.vn
 widget.subiz.net
 widget.subiz.xyz
-widgetv4.subiz.com
+zlog.mp3.zing.vn
+zlog.zingmp3.vn
 1126bet.com
 11bet.com
 11bet.net
@@ -713,6 +731,7 @@ aax-*-iad.amazon.com
 aaxads.com
 accengage.com
 accesstrade.net
+acs.m.taobao.com
 acuityplatform.com
 ad-brix.com
 ad-creatives-public.commondatastorage.googleapis.com
@@ -730,7 +749,7 @@ ad4game.com
 ad4screen.com
 adadvisor.net
 adap.tv
-adash*.*.taobao.com
+adash*.m.taobao.com
 adblade.com
 adblox.net
 adbrix.io
@@ -794,6 +813,7 @@ ads-bidder-api.twitter.com
 ads-fa.spotify.com
 ads-twitter.com
 ads.*.unity3d.com
+ads.*.yahoo.com
 ads.ak.facebook.com
 ads.bing.com
 ads.cnet.com
@@ -914,6 +934,7 @@ aniview.com
 answers.com
 aper.pw
 api.ads.*.go.com
+apoll.m.taobao.com
 app-adforce.jp
 app-analytics*.snapchat.com
 appadhoc.com
@@ -972,13 +993,15 @@ bannertrack.net
 bat.bing.com
 batch.com
 batmobi.net
+bats.video.yahoo.com
 bazaarvoice.com
 beacon-1.newrelic.com
 beacon-3.newrelic.com
 beacon.qq.com
 beacons*.gvt2.com
 beacons*.gvt3.com
-beap*.yahoo.com
+beap-bc.yahoo.com
+beap.adx.yahoo.com
 beaverads.com
 bebi.com
 bee7.com
@@ -1007,6 +1030,7 @@ bluekai.com
 blueseed.tv
 blueserving.com
 bnmla.com
+books-analytics-events.apple.com
 bounceexchange.com
 branch.io
 brand-display.com
@@ -1075,6 +1099,7 @@ cnt.my
 collection-*.herokuapp.com
 collective-media.net
 collector.newrelic.com
+comet.yahoo.com
 connatix.com
 connectad.io
 consumable.com
@@ -1084,6 +1109,7 @@ contentabc.com
 contextweb.com
 contributor.google.com
 conversantmedia.com
+convertexperiments.com
 count.taobao.com
 countess.twitch.tv
 cpaikon.net
@@ -1172,6 +1198,7 @@ fads*z.com
 faktor.io
 fatchilli.media
 fbshare.me
+fc.yahoo.com
 fclick-adnow.com
 feedad.com
 fidelity-media.com
@@ -1197,6 +1224,7 @@ gameads.io
 gameanalytics.com
 gaug.es
 gdt.qq.com
+gemini.yahoo.com
 genieessp.com
 geo.yahoo.com
 getadmiral.com
@@ -1229,6 +1257,7 @@ heyzap.com
 hgbasics.com
 histats.com
 hm.baidu.com
+hmma.baidu.com
 hotjar.com
 hotjar.io
 hs-analytics.net
@@ -1356,6 +1385,7 @@ mainadv.com
 mantisadnetwork.com
 marfeel.com
 marinsm.com
+marketingsolutions.yahoo.com
 marketo.com
 marketolive.com
 marphezis.com
@@ -1445,6 +1475,8 @@ ngads.go.com
 nice-prod.pro
 nixozz.com
 nobid.com
+nol.yahoo.com
+notes-analytics-events.apple.com
 npeakuy.com
 nr-data.net
 ns1p.net
@@ -1454,6 +1486,7 @@ nytadvertising.nytimes.com
 o-s.io
 o333o.com
 objc.top
+omappapi.com
 omguk.com
 omnitagjs.com
 omtrdc.net
@@ -1482,7 +1515,9 @@ pangle.io
 parrable.com
 parsely.com
 partnerad.l.google.com
+partnerads.ysm.yahoo.com
 partnershipsprogram.com
+pclick.yahoo.com
 pcookie.taobao.com
 pepperjam.com
 perimeterx.net
@@ -1511,6 +1546,7 @@ popin.cc
 popnc.com
 postrelease.com
 powerlinks.com
+pr-bh.ybp.yahoo.com
 prebid.org
 proads.space
 programattik.com
@@ -1592,6 +1628,7 @@ sclick.baidu.com
 scorecardresearch.com
 sdk.iad-*.braze.com
 sdkclickurl.com
+securemetrics.apple.com
 segment.com
 segment.io
 sendpulse.com
@@ -1620,6 +1657,7 @@ smaato.net
 smartadserver.com
 smetrics.cnn.com
 smrtb.com
+snapads.com
 snigelweb.com
 socdm.com
 sociaplus.com
@@ -1628,6 +1666,7 @@ sonobi.com
 spade.twitch.tv
 specificclick.net
 specificmedia.com
+speedcurve.com
 sphereup.com
 spotscenered.info
 spotxchange.com
@@ -1645,8 +1684,10 @@ statt-collect.herokuapp.com
 steelhousemedia.com
 steepto.com
 stickyadstv.com
+stocks-analytics-events.apple.com
 storiespace.com
 styria-digital.com
+sumome.com
 supercounters.com
 superfastmediation.com
 supersonicads.com
@@ -1701,6 +1742,7 @@ urekamedia.com
 useinsider.com
 userreport.com
 usp1.baidu.com
+ut.taobao.com
 uttclimber.com
 v16-ad.byteoversea.com
 vdo.ai
@@ -1711,6 +1753,7 @@ viadata.store
 vicksot.com
 videohub.tv
 viruspro.pro
+visit.webhosting.yahoo.com
 vivaclix.com
 vlitag.com
 vntsm.com
@@ -1722,6 +1765,7 @@ vserv.mobi
 vungle.com
 w88.go.com
 wct.link
+weather-analytics-events.apple.com
 webengage.com
 weborama.com
 webpushr.com
@@ -1767,6 +1811,7 @@ zetadeo.com
 zucks.net
 zx-adnet.com
 1-1ads.com
+152media.info
 1phads.com
 207.net
 247media.com
@@ -2073,6 +2118,7 @@ admotion.com.ar
 admtpmp123.com
 admtpmp124.com
 admtpmp127.com
+adn.ebay.com
 adnami.io
 adnection.com
 adnet-media.net
@@ -2198,6 +2244,7 @@ ads.domain.com
 ads.domeus.com
 ads.eagletribune.com
 ads.easy-forex.com
+ads.ebay.com
 ads.economist.com
 ads.edbindex.dk
 ads.egrana.com.br
@@ -2720,6 +2767,7 @@ api.apptentive.com
 api.catch.gift
 api.forshrd.com
 api.intensifier.de
+api.monedata.io
 api.parse.com
 api.unthem.com
 app-promo.com
@@ -4783,7 +4831,6 @@ smilewanted.com
 smilingwaves.com
 smowtion.com
 sms.otair.com
-snapads.com
 snapgiant.com
 sneakystamp.com
 snoobi.com
@@ -4911,7 +4958,6 @@ sulkybutter.com
 sumatoad.com
 summerobject.com
 sumo.com
-sumome.com
 sunmedia.tv
 superclix.de
 superfastcdn.com
@@ -5388,6 +5434,7 @@ zxc.world
 a.apkpure.com
 a.axmtrack.com
 a.klaviyo.com
+a.mailmunch.co
 a.quora.com
 a.ria.ru
 a3cloud.net
@@ -5451,12 +5498,15 @@ bafuhotel.com
 bango.net
 batchlogging4.truecaller.com
 bc.dailymail.co.uk
+beacon-api.aliyuncs.com
 beacon.riskified.com
 beacon.shazam.com
 beampulse.com
+beyondsecurity.com
 bjdxhs.com
 bjhmt.com
 blueconic.net
+browser.sentry-cdn.com
 bugsense.com
 burstly.com
 c.snnd.co
@@ -5477,6 +5527,7 @@ cognitivlabs.com
 collect.igodigital.com
 collector.apester.com
 collector.leaddyno.com
+collector.unsplash.com
 comscoreresearch.com
 cookieinfoscript.com
 coralogix.com
@@ -5497,6 +5548,7 @@ dmxleo.com
 dnn506yrbagrg.cloudfront.net
 do-not-tracker.org
 dolohen.com
+dotmetrics.net
 down.nishuoa.com
 dualstack-logs.amap.com
 dynatrace.com
@@ -5506,6 +5558,7 @@ ethtrader.de
 etl.tindersparks.com
 events-collector.spot.im
 events.apester.com
+events.jora.com
 events.mapbox.com
 events.redditmedia.com
 everestjs.net
@@ -5525,11 +5578,13 @@ geoip.nekudo.com
 geoip.tnt-ea.com
 geolocation.onetrust.com
 getexceptional.com
+getsitecontrol.com
 glanceguide.com
 globalwebindex.net
 go.ad1data.com
 gotoip55.com
 grabify.link
+gravityrd-services.com
 greedseed.world
 gs.dailymail.co.uk
 guihua-china.com
@@ -5550,10 +5605,12 @@ idio.co
 ie8eamus.com
 images.dmca.com
 img.leadzutw.com
+imp.pvnsolutions.com
 inside-graph.com
 intent.cbsi.com
 invitejs.trustpilot.com
 invoca.net
+iovation.com
 ip-api.com
 js.hscollectedforms.net
 js.hsleadflows.net
@@ -5569,6 +5626,7 @@ leadzutw.com
 lem-computers.net
 lfeeder.com
 liftoff.io
+log.aliyuncs.com
 log.apk.v-mate.mobi
 log.getdropbox.com
 log.klook.com
@@ -5579,6 +5637,7 @@ log.snapdeal.com
 log.tutuapp.com
 log.umsns.com
 log.ventunotech.com
+logger.unsplash.com
 logs.amap.com
 logs.papertrailapp.com
 logsss.com
@@ -5596,6 +5655,7 @@ metricfast.com
 metrics.brightcove.com
 metrics.cloudflarebolt.com
 metrics.sdkbox.com
+mobiletelemetry.ebay.com
 montacarichi.it
 mousestats.com
 movestone.net
@@ -5678,9 +5738,9 @@ snnd.co
 soflopxl.com
 soidc.com
 soperson.com
-speedcurve.com
 srmdata.com
 ssc.api.bbc.com
+ssm.codes
 stack-sonar.com
 stathat.com
 static.intentarget.com
@@ -5700,6 +5760,7 @@ sync2ad.com
 t.9gag.com
 t.dailymail.co.uk
 t.dtscdn.com
+t.freelancer.com
 tag.researchnow.com
 tamgrt.com
 tdf.ringier.ch

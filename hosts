@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Feb 2021 11:34 UTC+7
-# Version: 2102021134
-# Blocked: 18,587 domains
+# Last modified: 05 Feb 2021 14:47 UTC+7
+# Version: 2102051447
+# Blocked: 18,562 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14,6 +14,11 @@
 #[apple]
 0.0.0.0 advertising.apple.com
 0.0.0.0 banners.itunes.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.apple.com
 #[iadsdk.apple.com]
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 ca.iadsdk.apple.com
@@ -23,13 +28,18 @@
 0.0.0.0 su.iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 ut.iadsdk.apple.com
-0.0.0.0 www.iadsdk.apple.com
 #[iad.apple.com]
-0.0.0.0 iad.apple.com
+0.0.0.0 apps.iad.apple.com
 0.0.0.0 blueprints.iad.apple.com
-0.0.0.0 overlord.iad.apple.com
+0.0.0.0 ccportal.iad.apple.com
+0.0.0.0 cmws.iad.apple.com
+0.0.0.0 display-apps-ui-soak.iad.apple.com
+0.0.0.0 display-apps-ui.iad.apple.com
+0.0.0.0 iad.apple.com
+0.0.0.0 iadfeed.iad.apple.com
+0.0.0.0 iadworkbench-soak.iad.apple.com
+0.0.0.0 iris.iad.apple.com
 0.0.0.0 stg-cmws.iad.apple.com
-0.0.0.0 www.iad.apple.com
 #[doubleclick.net]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
@@ -462,158 +472,80 @@
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 saber.srvcs.tumblr.com
 #[yahoo.com]
-0.0.0.0 a.analytics.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 bats.video.yahoo.com
+0.0.0.0 beap-bc.yahoo.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 marketingsolutions.yahoo.com
+0.0.0.0 nol.yahoo.com
+0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 visit.webhosting.yahoo.com
+#[ads.*.yahoo.com]
 0.0.0.0 ads.auctions.yahoo.com
 0.0.0.0 ads.finance.yahoo.com
-0.0.0.0 ads.yahoo.com
-0.0.0.0 ads.yap.yahoo.com
+#[adserver.yahoo.com]
 0.0.0.0 adserver.yahoo.com
-0.0.0.0 advertising.yahoo.com
-0.0.0.0 ae.adserver.yahoo.com
-0.0.0.0 all.fc.yahoo.com
-0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 analytics.yahoo.com
-0.0.0.0 apac.analytics.yahoo.com
-0.0.0.0 api.web.analytics.yahoo.com
-0.0.0.0 api-apac.web.analytics.yahoo.com
-0.0.0.0 api-bg.web.analytics.yahoo.com
-0.0.0.0 api-ono.web.analytics.yahoo.com
-0.0.0.0 apis.web.analytics.yahoo.com
-0.0.0.0 apis-ci.web.analytics.yahoo.com
-0.0.0.0 apix.web.analytics.yahoo.com
-0.0.0.0 ar.adserver.yahoo.com
-0.0.0.0 au.adserver.yahoo.com
-0.0.0.0 au-pn1.adserver.yahoo.com
-0.0.0.0 bats.video.yahoo.com
-0.0.0.0 be.adserver.yahoo.com
-0.0.0.0 beap.adx.yahoo.com
-0.0.0.0 beap.gemini.yahoo.com
-0.0.0.0 beap-bc.yahoo.com
-0.0.0.0 br.adserver.yahoo.com
-0.0.0.0 ca.adserver.yahoo.com
-0.0.0.0 cache.adserver.yahoo.com
-0.0.0.0 cc.adserver.yahoo.com
-0.0.0.0 cf.adserver.yahoo.com
-0.0.0.0 cl.adserver.yahoo.com
-0.0.0.0 cms.analytics.yahoo.com
-0.0.0.0 cn.adserver.yahoo.com
-0.0.0.0 cn2.adserver.yahoo.com
-0.0.0.0 co.adserver.yahoo.com
-0.0.0.0 csc.adserver.yahoo.com
-0.0.0.0 csc.beap.bc.yahoo.com
-0.0.0.0 d.analytics.yahoo.com
-0.0.0.0 de.adserver.yahoo.com
-0.0.0.0 de.fc.yahoo.com
-0.0.0.0 dev.ups.analytics.yahoo.com
-0.0.0.0 dk.adserver.yahoo.com
-0.0.0.0 e.analytics.yahoo.com
-0.0.0.0 e1.adserver.yahoo.com
-0.0.0.0 es.adserver.yahoo.com
-0.0.0.0 eu-pn1.adserver.yahoo.com
-0.0.0.0 eu-pn2.adserver.yahoo.com
-0.0.0.0 eu-pn3.adserver.yahoo.com
-0.0.0.0 eu-pn4.adserver.yahoo.com
-0.0.0.0 europe.adserver.yahoo.com
-0.0.0.0 fc.yahoo.com
-0.0.0.0 fi.adserver.yahoo.com
-0.0.0.0 fr.adserver.yahoo.com
-0.0.0.0 fr.fc.yahoo.com
-0.0.0.0 gemini.yahoo.com
-0.0.0.0 geo.yahoo.com
 0.0.0.0 global.adserver.yahoo.com
-0.0.0.0 gr.adserver.yahoo.com
 0.0.0.0 hk.adserver.yahoo.com
-0.0.0.0 id.adserver.yahoo.com
-0.0.0.0 idsync.analytics.yahoo.com
-0.0.0.0 ie.adserver.yahoo.com
-0.0.0.0 in.adserver.yahoo.com
-0.0.0.0 ir2.beap.gemini.yahoo.com
-0.0.0.0 it.adserver.yahoo.com
-0.0.0.0 it.fc.yahoo.com
-0.0.0.0 js.analytics.yahoo.com
-0.0.0.0 jssourcetest-bg.web.analytics.yahoo.com
-0.0.0.0 kr.adserver.yahoo.com
 0.0.0.0 launch.adserver.yahoo.com
-0.0.0.0 log.fc.yahoo.com
 0.0.0.0 m.adserver.yahoo.com
-0.0.0.0 m.yap.yahoo.com
-0.0.0.0 marketingsolutions.yahoo.com
-0.0.0.0 mobile.analytics.yahoo.com
-0.0.0.0 mx.adserver.yahoo.com
-0.0.0.0 my.adserver.yahoo.com
-0.0.0.0 na.ads.yahoo.com
-0.0.0.0 nl.adserver.yahoo.com
-0.0.0.0 no.adserver.yahoo.com
-0.0.0.0 nol.yahoo.com
-0.0.0.0 nz.adserver.yahoo.com
-0.0.0.0 o.analytics.yahoo.com
-0.0.0.0 opus.analytics.yahoo.com
+0.0.0.0 sg.adserver.yahoo.com
+0.0.0.0 splitroute.adserver.yahoo.com
+0.0.0.0 tw.adserver.yahoo.com
+0.0.0.0 uk.adserver.yahoo.com
+0.0.0.0 us.adserver.yahoo.com
+0.0.0.0 vn.adserver.yahoo.com
+#[analytics.yahoo.com]
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 opus-dev.analytics.yahoo.com
-0.0.0.0 partnerads.ysm.yahoo.com
-0.0.0.0 partners.web.analytics.yahoo.com
-0.0.0.0 pclick.yahoo.com
-0.0.0.0 pn1.adserver.yahoo.com
-0.0.0.0 pn2.adserver.yahoo.com
-0.0.0.0 pn3.adserver.yahoo.com
-0.0.0.0 pr.ydp.yahoo.com
-0.0.0.0 pr-bh.ybp.yahoo.com
-0.0.0.0 ph.adserver.yahoo.com
+0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 real.sp.analytics.yahoo.com
-0.0.0.0 repapi-apac.web.analytics.yahoo.com
-0.0.0.0 repapi-bg.web.analytics.yahoo.com
-0.0.0.0 repapi-eu.web.analytics.yahoo.com
-0.0.0.0 repapi-ono.web.analytics.yahoo.com
-0.0.0.0 repapi-us.web.analytics.yahoo.com
-0.0.0.0 reports.web.analytics.yahoo.com
-0.0.0.0 reports-apac.web.analytics.yahoo.com
-0.0.0.0 reports-as.web.analytics.yahoo.com
-0.0.0.0 reports-bg.web.analytics.yahoo.com
-0.0.0.0 reports-ci.web.analytics.yahoo.com
-0.0.0.0 reports-ono.web.analytics.yahoo.com
-0.0.0.0 reports-portal.web.analytics.yahoo.com
-0.0.0.0 reportx.web.analytics.yahoo.com
-0.0.0.0 ro.adserver.yahoo.com
-0.0.0.0 rtb.pclick.yahoo.com
-0.0.0.0 ru.adserver.yahoo.com
-0.0.0.0 s.analytics.yahoo.com
-0.0.0.0 se.adserver.yahoo.com
-0.0.0.0 sea.advertising.yahoo.com
 0.0.0.0 service-dev.idsync.analytics.yahoo.com
 0.0.0.0 service.idsync.analytics.yahoo.com
-0.0.0.0 sg.adserver.yahoo.com
-0.0.0.0 sp-api.analytics.yahoo.com
 0.0.0.0 sp-ycpi.analytics.yahoo.com
 0.0.0.0 sp.analytics.yahoo.com
-0.0.0.0 splitroute.adserver.yahoo.com
-0.0.0.0 stats.video.search.yahoo.com
-0.0.0.0 stg-reports.web.analytics.yahoo.com
-0.0.0.0 stg-y.analytics.yahoo.com
-0.0.0.0 stg.a.analytics.yahoo.com
-0.0.0.0 syndication.streamads.yahoo.com
-0.0.0.0 test-d.analytics.yahoo.com
-0.0.0.0 ts.richmedia.yahoo.com
-0.0.0.0 tw.adserver.yahoo.com
-0.0.0.0 tw2.adserver.yahoo.com
-0.0.0.0 th.adserver.yahoo.com
-0.0.0.0 tr.adserver.yahoo.com
-0.0.0.0 uc.csc.adserver.yahoo.com
-0.0.0.0 uk.adserver.yahoo.com
-0.0.0.0 uk.fc.yahoo.com
 0.0.0.0 ups.analytics.yahoo.com
-0.0.0.0 us.adserver.yahoo.com
-0.0.0.0 ut.analytics.yahoo.com
-0.0.0.0 ut-api.analytics.yahoo.com
-0.0.0.0 vip1.tw.adserver.yahoo.com
-0.0.0.0 visit.webhosting.yahoo.com
-0.0.0.0 vn.adserver.yahoo.com
-0.0.0.0 web.analytics.yahoo.com
 0.0.0.0 www.analytics.yahoo.com
-0.0.0.0 xe.adserver.yahoo.com
-0.0.0.0 xpcs.ads.yahoo.com
-0.0.0.0 y.analytics.yahoo.com
-0.0.0.0 y3.analytics.yahoo.com
-0.0.0.0 ym.analytics.yahoo.com
-0.0.0.0 z.analytics.yahoo.com
+#[ads.yahoo.com]
+0.0.0.0 ads.yahoo.com
+0.0.0.0 data.ads.yahoo.com
+0.0.0.0 na.ads.yahoo.com
+0.0.0.0 tearsheet-stg.ads.yahoo.com
+0.0.0.0 tearsheet.ads.yahoo.com
+0.0.0.0 tp.ads.yahoo.com
+#[advertising.yahoo.com]
+0.0.0.0 advertising.yahoo.com
+0.0.0.0 in.advertising.yahoo.com
+0.0.0.0 sea.advertising.yahoo.com
+0.0.0.0 uk.advertising.yahoo.com
+#[beap.adx.yahoo.com]
+0.0.0.0 beap.adx.yahoo.com
+0.0.0.0 clicks.beap.adx.yahoo.com
+#[fc.yahoo.com]
+0.0.0.0 all.fc.yahoo.com
+0.0.0.0 fc.yahoo.com
+0.0.0.0 jill.fc.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+#[gemini.yahoo.com]
+0.0.0.0 api.gemini.yahoo.com
+0.0.0.0 b.gemini.yahoo.com
+0.0.0.0 beap.gemini.yahoo.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 n.gemini.yahoo.com
+0.0.0.0 ssp.gemini.yahoo.com
+#[pclick.yahoo.com]
+0.0.0.0 pclick.yahoo.com
+0.0.0.0 rtb.pclick.yahoo.com
+0.0.0.0 real.pclick.yahoo.com
+#[comet.yahoo.com]
+0.0.0.0 comet.yahoo.com
+0.0.0.0 pr.comet.yahoo.com
+#[yap.yahoo.com]
+0.0.0.0 ads.yap.yahoo.com
+0.0.0.0 m.yap.yahoo.com
+0.0.0.0 us.ads.yap.yahoo.com
 #[facebook]
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 an.facebook.com
@@ -1708,6 +1640,7 @@
 0.0.0.0 ar.umeng.com
 0.0.0.0 at.umeng.com
 0.0.0.0 dev.umeng.com
+0.0.0.0 errlog.umeng.com
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
@@ -3574,29 +3507,6 @@
 0.0.0.0 tourneau.bounceexchange.com
 0.0.0.0 utils.bounceexchange.com
 0.0.0.0 www.bounceexchange.com
-#[insightexpressai]
-0.0.0.0 ad.insightexpressai.com
-0.0.0.0 ai003.insightexpressai.com
-0.0.0.0 ai078.insightexpressai.com
-0.0.0.0 ai113.insightexpressai.com
-0.0.0.0 ai125.insightexpressai.com
-0.0.0.0 aip-stg.insightexpressai.com
-0.0.0.0 core.insightexpressai.com
-0.0.0.0 global.insightexpressai.com
-0.0.0.0 hk.aip.insightexpressai.com
-0.0.0.0 icompass.insightexpressai.com
-0.0.0.0 images.insightexpressai.com
-0.0.0.0 infoscout.insightexpressai.com
-0.0.0.0 insightexpressai.com
-0.0.0.0 my.aip.insightexpressai.com
-0.0.0.0 rb.insightexpressai.com
-0.0.0.0 secure.insightexpressai.com
-0.0.0.0 sg.aip.insightexpressai.com
-0.0.0.0 surveys.insightexpressai.com
-0.0.0.0 topix.insightexpressai.com
-0.0.0.0 tw.aip.insightexpressai.com
-0.0.0.0 www.insightexpressai.com
-0.0.0.0 your-surveys.insightexpressai.com
 #[steepto.com]
 0.0.0.0 a.steepto.com
 0.0.0.0 cdn.steepto.com
@@ -11948,21 +11858,27 @@
 0.0.0.0 c.aper.pw
 0.0.0.0 xx.aper.pw
 #[taobao.com]
-0.0.0.0 adash.m.taobao.com
-0.0.0.0 adashbc.m.taobao.com
-0.0.0.0 adashbc.ut.taobao.com
-0.0.0.0 adashx.m.taobao.com
-0.0.0.0 adashx.ut.taobao.com
-0.0.0.0 adashx4ae.ut.taobao.com
-0.0.0.0 adashxgc.ut.taobao.com
-0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 count.taobao.com
-0.0.0.0 h-adashx.ut.taobao.com
-0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 ip.taobao.com
-0.0.0.0 m-adash.m.taobao.com
 0.0.0.0 pcookie.taobao.com
 0.0.0.0 s.click.taobao.com
+#[m.taobao.com]
+0.0.0.0 acs.m.taobao.com
+0.0.0.0 adash.m.taobao.com
+0.0.0.0 adashbc.m.taobao.com
+0.0.0.0 adashx.m.taobao.com
+0.0.0.0 apoll.m.taobao.com
+0.0.0.0 c-adash.m.taobao.com
+0.0.0.0 m-adash.m.taobao.com
+#[ut.taobao.com]
+0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 adashx.ut.taobao.com
+0.0.0.0 adashx4ae.ut.taobao.com
+0.0.0.0 adashx4sg.ut.taobao.com
+0.0.0.0 adashxgc.ut.taobao.com
+0.0.0.0 h-adashx.ut.taobao.com
+0.0.0.0 h-adashx4ae.ut.taobao.com
+0.0.0.0 h-adashx4sg.ut.taobao.com
 #[tanx.com]
 0.0.0.0 advertisement.tanx.com
 0.0.0.0 alibaba.tanx.com
@@ -13287,6 +13203,7 @@
 0.0.0.0 caclick.baidu.com
 0.0.0.0 eclick.baidu.com
 0.0.0.0 gsp1.baidu.com
+0.0.0.0 hmma.baidu.com
 0.0.0.0 imgstat.baidu.com
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 nsclick.baidu.com
@@ -13681,6 +13598,41 @@
 0.0.0.0 buysellads.net
 0.0.0.0 cdn-s2s.buysellads.net
 0.0.0.0 cdn4.buysellads.net
+#[speedcurve.com]
+0.0.0.0 cdn.speedcurve.com
+0.0.0.0 speedcurve.com
+#[insightexpressai.com]
+0.0.0.0 core.insightexpressai.com
+0.0.0.0 insightexpressai.com
+0.0.0.0 secure.insightexpressai.com
+0.0.0.0 surveys.insightexpressai.com
+#[convertexperiments.com]
+0.0.0.0 cdn-3.convertexperiments.com
+0.0.0.0 convertexperiments.com
+0.0.0.0 logs.convertexperiments.com
+0.0.0.0 no-cdn.convertexperiments.com
+0.0.0.0 track.convertexperiments.com
+#[snapads.com]
+0.0.0.0 adserver.shadow.snapads.com
+0.0.0.0 adserver.snapads.com
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 snapads.com
+0.0.0.0 study.snapads.com
+0.0.0.0 usc.adserver.snapads.com
+#[omappapi.com]
+0.0.0.0 a.omappapi.com
+0.0.0.0 api.omappapi.com
+0.0.0.0 app.omappapi.com
+0.0.0.0 beta-api.omappapi.com
+0.0.0.0 ga.omappapi.com
+0.0.0.0 omappapi.com
+0.0.0.0 staging-api.omappapi.com
+0.0.0.0 www.omappapi.com
+0.0.0.0 z.omappapi.com
+#[sumome.com]
+0.0.0.0 sumome.com
+0.0.0.0 load.sumome.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14225,12 +14177,9 @@
 0.0.0.0 org.zaloapp.ads.zdn.vn
 0.0.0.0 zaloapp.ads.zdn.vn
 0.0.0.0 zplayer-trk.zdn.vn
+#[zapps.vn]
+0.0.0.0 tracking.api.media.zapps.vn
 0.0.0.0 zplayer.trk.zapps.vn
-#[log.zing*.vn]
-0.0.0.0 log.zingmp3.vn
-0.0.0.0 log.zingnews.vn
-0.0.0.0 log.zingtv.vn
-0.0.0.0 zlog.zingmp3.vn
 #[yomedia]
 0.0.0.0 ad-deliver.yomedia.vn
 0.0.0.0 analytics.yomedia.vn
@@ -15042,6 +14991,28 @@
 0.0.0.0 app.slimads.vn
 0.0.0.0 slimads.vn
 0.0.0.0 www.slimads.vn
+#[t.sieu-viet.com]
+0.0.0.0 a.t.sieu-viet.com
+0.0.0.0 d.t.sieu-viet.com
+0.0.0.0 j.t.sieu-viet.com
+0.0.0.0 t.sieu-viet.com
+#[subiz.com]
+0.0.0.0 apiv4.subiz.com
+0.0.0.0 static.subiz.com
+0.0.0.0 widget.subiz.com
+0.0.0.0 widgetv4.subiz.com
+#[sbz.vn]
+0.0.0.0 api.sbz.vn
+0.0.0.0 widget.sbz.vn
+#[subiz.net]
+0.0.0.0 api.subiz.net
+0.0.0.0 widget.subiz.net
+#[subiz.xyz]
+0.0.0.0 api.subiz.xyz
+0.0.0.0 widget.subiz.xyz
+#[subiz.com.vn]
+0.0.0.0 api.subiz.com.vn
+0.0.0.0 app.subiz.com.vn
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -15112,11 +15083,15 @@
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adsweb.vn
 0.0.0.0 adt.com.vn
+0.0.0.0 adtima.net.vn
+0.0.0.0 adtima.org
 0.0.0.0 adv.anhsangvacuocsong.vn
 0.0.0.0 adv.baotintuc.vn
+0.0.0.0 adver.24h.com.vn
 0.0.0.0 advert-admin.vnay.vn
 0.0.0.0 advertisement-nhatanh.com
 0.0.0.0 advserver.cgv.vn
+0.0.0.0 advzone.ioe.vn
 0.0.0.0 adx.baolongan.vn
 0.0.0.0 adx.chinmedia.vn
 0.0.0.0 adx.edutimes.com.vn
@@ -15244,6 +15219,7 @@
 0.0.0.0 a.vtvdigital.vn
 0.0.0.0 addlog.thuvienphapluat.vn
 0.0.0.0 admin.phunusuckhoe.vn
+0.0.0.0 admin.voh.com.vn
 0.0.0.0 affiliate.chiaki.vn
 0.0.0.0 alexajstrack.com
 0.0.0.0 analytic.baodantoc.vn
@@ -15263,9 +15239,9 @@
 0.0.0.0 analytics.viblo.asia
 0.0.0.0 analytics.videocloud.top
 0.0.0.0 analytics.vietnamfinance.vn
+0.0.0.0 analytics.vnpt.vn
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 api.ozui.vn
-0.0.0.0 api.sbz.vn
 0.0.0.0 apl.headlines.pw
 0.0.0.0 app.hstatic.net
 0.0.0.0 btrack.homedy.com
@@ -15282,6 +15258,8 @@
 0.0.0.0 fa.fpt.shop
 0.0.0.0 follow.vnay.vn
 0.0.0.0 google-shopping.sapoapps.vn
+0.0.0.0 googleshopping.sapoapps.vn
+0.0.0.0 gtmjs.com
 0.0.0.0 hit.123c.vn
 0.0.0.0 invite.baomoi.com
 0.0.0.0 la.vietid.net
@@ -15300,6 +15278,7 @@
 0.0.0.0 log.doanhnhan.vn
 0.0.0.0 log.giaoduc.net.vn
 0.0.0.0 log.infonet.vn
+0.0.0.0 log.kaka.me
 0.0.0.0 log.kienthuc.net.vn
 0.0.0.0 log.ngaynay.vn
 0.0.0.0 log.nhipcaudautu.vn
@@ -15323,6 +15302,9 @@
 0.0.0.0 log.vntoday.news
 0.0.0.0 log.vov.vn
 0.0.0.0 log.zamba.vn
+0.0.0.0 log.zingmp3.vn
+0.0.0.0 log.zingnews.vn
+0.0.0.0 log.zingtv.vn
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 logapi.misa.com.vn
 0.0.0.0 logg4u.cnnd.vn
@@ -15348,7 +15330,6 @@
 0.0.0.0 st-a.vtvdigital.vn
 0.0.0.0 stat.headlines.pw
 0.0.0.0 static.accesstrade.vn
-0.0.0.0 static.subiz.com
 0.0.0.0 staticad.thethao247.vn
 0.0.0.0 statistics.vov.vn
 0.0.0.0 stats.123c.vn
@@ -15381,8 +15362,10 @@
 0.0.0.0 tracking.fado.vn
 0.0.0.0 tracking.fff.com.vn
 0.0.0.0 tracking.hongtinnhanh.com
+0.0.0.0 tracking.meta.vn
 0.0.0.0 tracking.tekoapis.com
 0.0.0.0 tracking.tinxe.vn
+0.0.0.0 tracking.tv.zing.vn
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietbao.vn
 0.0.0.0 tracking.vtc.vn
@@ -15398,10 +15381,9 @@
 0.0.0.0 vtrack.vht.com.vn
 0.0.0.0 webpush.bizfly.vn
 0.0.0.0 webpush.todo.vn
-0.0.0.0 widget.sbz.vn
-0.0.0.0 widget.subiz.net
-0.0.0.0 widget.subiz.xyz
-0.0.0.0 widgetv4.subiz.com
+0.0.0.0 widget.kyna.vn
+0.0.0.0 zlog.mp3.zing.vn
+0.0.0.0 zlog.zingmp3.vn
 # --- Block scamVN ---
 0.0.0.0 bloodleian.club
 0.0.0.0 celerantatters.com
@@ -15416,6 +15398,7 @@
 0.0.0.0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 # --- Block other adsVN ---
 0.0.0.0 1-1ads.com
+0.0.0.0 152media.info
 0.0.0.0 1phads.com
 0.0.0.0 207.net
 0.0.0.0 247media.com
@@ -15720,6 +15703,7 @@
 0.0.0.0 admtpmp123.com
 0.0.0.0 admtpmp124.com
 0.0.0.0 admtpmp127.com
+0.0.0.0 adn.ebay.com
 0.0.0.0 adnami.io
 0.0.0.0 adnection.com
 0.0.0.0 adnet-media.net
@@ -15845,6 +15829,7 @@
 0.0.0.0 ads.domeus.com
 0.0.0.0 ads.eagletribune.com
 0.0.0.0 ads.easy-forex.com
+0.0.0.0 ads.ebay.com
 0.0.0.0 ads.economist.com
 0.0.0.0 ads.edbindex.dk
 0.0.0.0 ads.egrana.com.br
@@ -16367,6 +16352,7 @@
 0.0.0.0 api.catch.gift
 0.0.0.0 api.forshrd.com
 0.0.0.0 api.intensifier.de
+0.0.0.0 api.monedata.io
 0.0.0.0 api.parse.com
 0.0.0.0 api.unthem.com
 0.0.0.0 app-promo.com
@@ -18426,7 +18412,6 @@
 0.0.0.0 smilingwaves.com
 0.0.0.0 smowtion.com
 0.0.0.0 sms.otair.com
-0.0.0.0 snapads.com
 0.0.0.0 snapgiant.com
 0.0.0.0 sneakystamp.com
 0.0.0.0 snoobi.com
@@ -18554,7 +18539,6 @@
 0.0.0.0 sumatoad.com
 0.0.0.0 summerobject.com
 0.0.0.0 sumo.com
-0.0.0.0 sumome.com
 0.0.0.0 sunmedia.tv
 0.0.0.0 superclix.de
 0.0.0.0 superfastcdn.com
@@ -19118,6 +19102,7 @@
 0.0.0.0 a.apkpure.com
 0.0.0.0 a.axmtrack.com
 0.0.0.0 a.klaviyo.com
+0.0.0.0 a.mailmunch.co
 0.0.0.0 a.quora.com
 0.0.0.0 a.ria.ru
 0.0.0.0 a3cloud.net
@@ -19181,12 +19166,15 @@
 0.0.0.0 bango.net
 0.0.0.0 batchlogging4.truecaller.com
 0.0.0.0 bc.dailymail.co.uk
+0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beampulse.com
+0.0.0.0 beyondsecurity.com
 0.0.0.0 bjdxhs.com
 0.0.0.0 bjhmt.com
 0.0.0.0 blueconic.net
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 bugsense.com
 0.0.0.0 burstly.com
 0.0.0.0 c.snnd.co
@@ -19207,6 +19195,7 @@
 0.0.0.0 collect.igodigital.com
 0.0.0.0 collector.apester.com
 0.0.0.0 collector.leaddyno.com
+0.0.0.0 collector.unsplash.com
 0.0.0.0 comscoreresearch.com
 0.0.0.0 cookieinfoscript.com
 0.0.0.0 coralogix.com
@@ -19227,6 +19216,7 @@
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 do-not-tracker.org
 0.0.0.0 dolohen.com
+0.0.0.0 dotmetrics.net
 0.0.0.0 down.nishuoa.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 dynatrace.com
@@ -19236,6 +19226,7 @@
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events.apester.com
+0.0.0.0 events.jora.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 everestjs.net
@@ -19255,11 +19246,13 @@
 0.0.0.0 geoip.tnt-ea.com
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 getexceptional.com
+0.0.0.0 getsitecontrol.com
 0.0.0.0 glanceguide.com
 0.0.0.0 globalwebindex.net
 0.0.0.0 go.ad1data.com
 0.0.0.0 gotoip55.com
 0.0.0.0 grabify.link
+0.0.0.0 gravityrd-services.com
 0.0.0.0 greedseed.world
 0.0.0.0 gs.dailymail.co.uk
 0.0.0.0 guihua-china.com
@@ -19280,10 +19273,12 @@
 0.0.0.0 ie8eamus.com
 0.0.0.0 images.dmca.com
 0.0.0.0 img.leadzutw.com
+0.0.0.0 imp.pvnsolutions.com
 0.0.0.0 inside-graph.com
 0.0.0.0 intent.cbsi.com
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 invoca.net
+0.0.0.0 iovation.com
 0.0.0.0 ip-api.com
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 js.hsleadflows.net
@@ -19299,6 +19294,7 @@
 0.0.0.0 lem-computers.net
 0.0.0.0 lfeeder.com
 0.0.0.0 liftoff.io
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.getdropbox.com
 0.0.0.0 log.klook.com
@@ -19309,6 +19305,7 @@
 0.0.0.0 log.tutuapp.com
 0.0.0.0 log.umsns.com
 0.0.0.0 log.ventunotech.com
+0.0.0.0 logger.unsplash.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.papertrailapp.com
 0.0.0.0 logsss.com
@@ -19326,6 +19323,7 @@
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cloudflarebolt.com
 0.0.0.0 metrics.sdkbox.com
+0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 montacarichi.it
 0.0.0.0 mousestats.com
 0.0.0.0 movestone.net
@@ -19408,9 +19406,9 @@
 0.0.0.0 soflopxl.com
 0.0.0.0 soidc.com
 0.0.0.0 soperson.com
-0.0.0.0 speedcurve.com
 0.0.0.0 srmdata.com
 0.0.0.0 ssc.api.bbc.com
+0.0.0.0 ssm.codes
 0.0.0.0 stack-sonar.com
 0.0.0.0 stathat.com
 0.0.0.0 static.intentarget.com
@@ -19430,6 +19428,7 @@
 0.0.0.0 t.9gag.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.dtscdn.com
+0.0.0.0 t.freelancer.com
 0.0.0.0 tag.researchnow.com
 0.0.0.0 tamgrt.com
 0.0.0.0 tdf.ringier.ch

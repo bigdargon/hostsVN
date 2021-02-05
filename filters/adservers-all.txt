@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Feb 2021 11:34 UTC+7
-! Version: 2102021134
-! Blocked: 5,785 rules
+! Last modified: 05 Feb 2021 14:47 UTC+7
+! Version: 2102051447
+! Blocked: 5,846 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -88,7 +88,6 @@
 ||log*.zing.vn^
 ||log.api.zaloapp.com^
 ||log.o2o.service.zaloapp.com^
-||log.zing*.vn^
 ||mangoads.vn^
 ||masoffer.net^
 ||mclick.mobi^
@@ -128,6 +127,7 @@
 ||qc.coccoc.vn^
 ||qccoccocmedia.vn^
 ||rungrinh.vn^
+||sbz.vn^
 ||sdk.zadn.vn^
 ||serving-system.com^
 ||sharks.vn^
@@ -141,9 +141,15 @@
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
 ||subiz-cdn.com^
+||subiz.com^
+||subiz.com.vn^
+||subiz.net^
+||subiz.xyz^
 ||surfcountor.com^
+||t.sieu-viet.com^
 ||takataka.coccoc.com^
 ||testcentre.vn^
+||tracking.api.media.zapps.vn^
 ||tracking.playzing.g6.zing.vn^
 ||trk-pcweb.api.zaloapp.com^
 ||tuiiu.com^
@@ -163,7 +169,6 @@
 ||younetmedia.com^
 ||zalo-ads*.zadn.vn^
 ||zaloapp.ads.zdn.vn^
-||zlog.zingmp3.vn^
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
@@ -237,11 +242,15 @@
 ||adsv2.autodaily.vn^
 ||adsweb.vn^
 ||adt.com.vn^
+||adtima.net.vn^
+||adtima.org^
 ||adv.anhsangvacuocsong.vn^
 ||adv.baotintuc.vn^
+||adver.24h.com.vn^
 ||advert-admin.vnay.vn^
 ||advertisement-nhatanh.com^
 ||advserver.cgv.vn^
+||advzone.ioe.vn^
 ||adx.baolongan.vn^
 ||adx.chinmedia.vn^
 ||adx.edutimes.com.vn^
@@ -352,6 +361,7 @@
 ||a.vtvdigital.vn^
 ||addlog.thuvienphapluat.vn^
 ||admin.phunusuckhoe.vn^
+||admin.voh.com.vn^
 ||affiliate.chiaki.vn^
 ||alexajstrack.com^
 ||analytic.baodantoc.vn^
@@ -371,9 +381,9 @@
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
+||analytics.vnpt.vn^
 ||analytics.vnreview.vn^
 ||api.ozui.vn^
-||api.sbz.vn^
 ||apl.headlines.pw^
 ||app.hstatic.net^
 ||btrack.homedy.com^
@@ -390,6 +400,8 @@
 ||fa.fpt.shop^
 ||follow.vnay.vn^
 ||google-shopping.sapoapps.vn^
+||googleshopping.sapoapps.vn^
+||gtmjs.com^
 ||hit.123c.vn^
 ||invite.baomoi.com^
 ||la.vietid.net^
@@ -408,6 +420,7 @@
 ||log.doanhnhan.vn^
 ||log.giaoduc.net.vn^
 ||log.infonet.vn^
+||log.kaka.me^
 ||log.kienthuc.net.vn^
 ||log.ngaynay.vn^
 ||log.nhipcaudautu.vn^
@@ -431,6 +444,9 @@
 ||log.vntoday.news^
 ||log.vov.vn^
 ||log.zamba.vn^
+||log.zingmp3.vn^
+||log.zingnews.vn^
+||log.zingtv.vn^
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
 ||logg4u.cnnd.vn^
@@ -456,7 +472,6 @@
 ||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
 ||static.accesstrade.vn^
-||static.subiz.com^
 ||staticad.thethao247.vn^
 ||statistics.vov.vn^
 ||stats.123c.vn^
@@ -489,8 +504,10 @@
 ||tracking.fado.vn^
 ||tracking.fff.com.vn^
 ||tracking.hongtinnhanh.com^
+||tracking.meta.vn^
 ||tracking.tekoapis.com^
 ||tracking.tinxe.vn^
+||tracking.tv.zing.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||tracking.vtc.vn^
@@ -506,10 +523,11 @@
 ||vtrack.vht.com.vn^
 ||webpush.bizfly.vn^
 ||webpush.todo.vn^
-||widget.sbz.vn^
+||widget.kyna.vn^
 ||widget.subiz.net^
 ||widget.subiz.xyz^
-||widgetv4.subiz.com^
+||zlog.mp3.zing.vn^
+||zlog.zingmp3.vn^
 ||1126bet.com^
 ||11bet.com^
 ||11bet.net^
@@ -715,6 +733,7 @@
 ||aaxads.com^
 ||accengage.com^
 ||accesstrade.net^
+||acs.m.taobao.com^
 ||acuityplatform.com^
 ||ad-brix.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
@@ -732,7 +751,7 @@
 ||ad4screen.com^
 ||adadvisor.net^
 ||adap.tv^
-||adash*.*.taobao.com^
+||adash*.m.taobao.com^
 ||adblade.com^
 ||adblox.net^
 ||adbrix.io^
@@ -796,6 +815,7 @@
 ||ads-fa.spotify.com^
 ||ads-twitter.com^
 ||ads.*.unity3d.com^
+||ads.*.yahoo.com^
 ||ads.ak.facebook.com^
 ||ads.bing.com^
 ||ads.cnet.com^
@@ -916,6 +936,7 @@
 ||answers.com^
 ||aper.pw^
 ||api.ads.*.go.com^
+||apoll.m.taobao.com^
 ||app-adforce.jp^
 ||app-analytics*.snapchat.com^
 ||appadhoc.com^
@@ -974,13 +995,15 @@
 ||bat.bing.com^
 ||batch.com^
 ||batmobi.net^
+||bats.video.yahoo.com^
 ||bazaarvoice.com^
 ||beacon-1.newrelic.com^
 ||beacon-3.newrelic.com^
 ||beacon.qq.com^
 ||beacons*.gvt2.com^
 ||beacons*.gvt3.com^
-||beap*.yahoo.com^
+||beap-bc.yahoo.com^
+||beap.adx.yahoo.com^
 ||beaverads.com^
 ||bebi.com^
 ||bee7.com^
@@ -1009,6 +1032,7 @@
 ||blueseed.tv^
 ||blueserving.com^
 ||bnmla.com^
+||books-analytics-events.apple.com^
 ||bounceexchange.com^
 ||branch.io^
 ||brand-display.com^
@@ -1077,6 +1101,7 @@
 ||collection-*.herokuapp.com^
 ||collective-media.net^
 ||collector.newrelic.com^
+||comet.yahoo.com^
 ||connatix.com^
 ||connectad.io^
 ||consumable.com^
@@ -1086,6 +1111,7 @@
 ||contextweb.com^
 ||contributor.google.com^
 ||conversantmedia.com^
+||convertexperiments.com^
 ||count.taobao.com^
 ||countess.twitch.tv^
 ||cpaikon.net^
@@ -1174,6 +1200,7 @@
 ||faktor.io^
 ||fatchilli.media^
 ||fbshare.me^
+||fc.yahoo.com^
 ||fclick-adnow.com^
 ||feedad.com^
 ||fidelity-media.com^
@@ -1199,6 +1226,7 @@
 ||gameanalytics.com^
 ||gaug.es^
 ||gdt.qq.com^
+||gemini.yahoo.com^
 ||genieessp.com^
 ||geo.yahoo.com^
 ||getadmiral.com^
@@ -1231,6 +1259,7 @@
 ||hgbasics.com^
 ||histats.com^
 ||hm.baidu.com^
+||hmma.baidu.com^
 ||hotjar.com^
 ||hotjar.io^
 ||hs-analytics.net^
@@ -1358,6 +1387,7 @@
 ||mantisadnetwork.com^
 ||marfeel.com^
 ||marinsm.com^
+||marketingsolutions.yahoo.com^
 ||marketo.com^
 ||marketolive.com^
 ||marphezis.com^
@@ -1447,6 +1477,8 @@
 ||nice-prod.pro^
 ||nixozz.com^
 ||nobid.com^
+||nol.yahoo.com^
+||notes-analytics-events.apple.com^
 ||npeakuy.com^
 ||nr-data.net^
 ||ns1p.net^
@@ -1456,6 +1488,7 @@
 ||o-s.io^
 ||o333o.com^
 ||objc.top^
+||omappapi.com^
 ||omguk.com^
 ||omnitagjs.com^
 ||omtrdc.net^
@@ -1484,7 +1517,9 @@
 ||parrable.com^
 ||parsely.com^
 ||partnerad.l.google.com^
+||partnerads.ysm.yahoo.com^
 ||partnershipsprogram.com^
+||pclick.yahoo.com^
 ||pcookie.taobao.com^
 ||pepperjam.com^
 ||perimeterx.net^
@@ -1513,6 +1548,7 @@
 ||popnc.com^
 ||postrelease.com^
 ||powerlinks.com^
+||pr-bh.ybp.yahoo.com^
 ||prebid.org^
 ||proads.space^
 ||programattik.com^
@@ -1594,6 +1630,7 @@
 ||scorecardresearch.com^
 ||sdk.iad-*.braze.com^
 ||sdkclickurl.com^
+||securemetrics.apple.com^
 ||segment.com^
 ||segment.io^
 ||sendpulse.com^
@@ -1622,6 +1659,7 @@
 ||smartadserver.com^
 ||smetrics.cnn.com^
 ||smrtb.com^
+||snapads.com^
 ||snigelweb.com^
 ||socdm.com^
 ||sociaplus.com^
@@ -1630,6 +1668,7 @@
 ||spade.twitch.tv^
 ||specificclick.net^
 ||specificmedia.com^
+||speedcurve.com^
 ||sphereup.com^
 ||spotscenered.info^
 ||spotxchange.com^
@@ -1647,8 +1686,10 @@
 ||steelhousemedia.com^
 ||steepto.com^
 ||stickyadstv.com^
+||stocks-analytics-events.apple.com^
 ||storiespace.com^
 ||styria-digital.com^
+||sumome.com^
 ||supercounters.com^
 ||superfastmediation.com^
 ||supersonicads.com^
@@ -1703,6 +1744,7 @@
 ||useinsider.com^
 ||userreport.com^
 ||usp1.baidu.com^
+||ut.taobao.com^
 ||uttclimber.com^
 ||v16-ad.byteoversea.com^
 ||vdo.ai^
@@ -1713,6 +1755,7 @@
 ||vicksot.com^
 ||videohub.tv^
 ||viruspro.pro^
+||visit.webhosting.yahoo.com^
 ||vivaclix.com^
 ||vlitag.com^
 ||vntsm.com^
@@ -1724,6 +1767,7 @@
 ||vungle.com^
 ||w88.go.com^
 ||wct.link^
+||weather-analytics-events.apple.com^
 ||webengage.com^
 ||weborama.com^
 ||webpushr.com^
@@ -1769,6 +1813,7 @@
 ||zucks.net^
 ||zx-adnet.com^
 ||1-1ads.com^
+||152media.info^
 ||1phads.com^
 ||207.net^
 ||247media.com^
@@ -2075,6 +2120,7 @@
 ||admtpmp123.com^
 ||admtpmp124.com^
 ||admtpmp127.com^
+||adn.ebay.com^
 ||adnami.io^
 ||adnection.com^
 ||adnet-media.net^
@@ -2200,6 +2246,7 @@
 ||ads.domeus.com^
 ||ads.eagletribune.com^
 ||ads.easy-forex.com^
+||ads.ebay.com^
 ||ads.economist.com^
 ||ads.edbindex.dk^
 ||ads.egrana.com.br^
@@ -2722,6 +2769,7 @@
 ||api.catch.gift^
 ||api.forshrd.com^
 ||api.intensifier.de^
+||api.monedata.io^
 ||api.parse.com^
 ||api.unthem.com^
 ||app-promo.com^
@@ -4785,7 +4833,6 @@
 ||smilingwaves.com^
 ||smowtion.com^
 ||sms.otair.com^
-||snapads.com^
 ||snapgiant.com^
 ||sneakystamp.com^
 ||snoobi.com^
@@ -4913,7 +4960,6 @@
 ||sumatoad.com^
 ||summerobject.com^
 ||sumo.com^
-||sumome.com^
 ||sunmedia.tv^
 ||superclix.de^
 ||superfastcdn.com^
@@ -5390,6 +5436,7 @@
 ||a.apkpure.com^
 ||a.axmtrack.com^
 ||a.klaviyo.com^
+||a.mailmunch.co^
 ||a.quora.com^
 ||a.ria.ru^
 ||a3cloud.net^
@@ -5453,12 +5500,15 @@
 ||bango.net^
 ||batchlogging4.truecaller.com^
 ||bc.dailymail.co.uk^
+||beacon-api.aliyuncs.com^
 ||beacon.riskified.com^
 ||beacon.shazam.com^
 ||beampulse.com^
+||beyondsecurity.com^
 ||bjdxhs.com^
 ||bjhmt.com^
 ||blueconic.net^
+||browser.sentry-cdn.com^
 ||bugsense.com^
 ||burstly.com^
 ||c.snnd.co^
@@ -5479,6 +5529,7 @@
 ||collect.igodigital.com^
 ||collector.apester.com^
 ||collector.leaddyno.com^
+||collector.unsplash.com^
 ||comscoreresearch.com^
 ||cookieinfoscript.com^
 ||coralogix.com^
@@ -5499,6 +5550,7 @@
 ||dnn506yrbagrg.cloudfront.net^
 ||do-not-tracker.org^
 ||dolohen.com^
+||dotmetrics.net^
 ||down.nishuoa.com^
 ||dualstack-logs.amap.com^
 ||dynatrace.com^
@@ -5508,6 +5560,7 @@
 ||etl.tindersparks.com^
 ||events-collector.spot.im^
 ||events.apester.com^
+||events.jora.com^
 ||events.mapbox.com^
 ||events.redditmedia.com^
 ||everestjs.net^
@@ -5527,11 +5580,13 @@
 ||geoip.tnt-ea.com^
 ||geolocation.onetrust.com^
 ||getexceptional.com^
+||getsitecontrol.com^
 ||glanceguide.com^
 ||globalwebindex.net^
 ||go.ad1data.com^
 ||gotoip55.com^
 ||grabify.link^
+||gravityrd-services.com^
 ||greedseed.world^
 ||gs.dailymail.co.uk^
 ||guihua-china.com^
@@ -5552,10 +5607,12 @@
 ||ie8eamus.com^
 ||images.dmca.com^
 ||img.leadzutw.com^
+||imp.pvnsolutions.com^
 ||inside-graph.com^
 ||intent.cbsi.com^
 ||invitejs.trustpilot.com^
 ||invoca.net^
+||iovation.com^
 ||ip-api.com^
 ||js.hscollectedforms.net^
 ||js.hsleadflows.net^
@@ -5571,6 +5628,7 @@
 ||lem-computers.net^
 ||lfeeder.com^
 ||liftoff.io^
+||log.aliyuncs.com^
 ||log.apk.v-mate.mobi^
 ||log.getdropbox.com^
 ||log.klook.com^
@@ -5581,6 +5639,7 @@
 ||log.tutuapp.com^
 ||log.umsns.com^
 ||log.ventunotech.com^
+||logger.unsplash.com^
 ||logs.amap.com^
 ||logs.papertrailapp.com^
 ||logsss.com^
@@ -5598,6 +5657,7 @@
 ||metrics.brightcove.com^
 ||metrics.cloudflarebolt.com^
 ||metrics.sdkbox.com^
+||mobiletelemetry.ebay.com^
 ||montacarichi.it^
 ||mousestats.com^
 ||movestone.net^
@@ -5680,9 +5740,9 @@
 ||soflopxl.com^
 ||soidc.com^
 ||soperson.com^
-||speedcurve.com^
 ||srmdata.com^
 ||ssc.api.bbc.com^
+||ssm.codes^
 ||stack-sonar.com^
 ||stathat.com^
 ||static.intentarget.com^
@@ -5702,6 +5762,7 @@
 ||t.9gag.com^
 ||t.dailymail.co.uk^
 ||t.dtscdn.com^
+||t.freelancer.com^
 ||tag.researchnow.com^
 ||tamgrt.com^
 ||tdf.ringier.ch^
