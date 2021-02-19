@@ -220,7 +220,15 @@
 0.0.0.0 sts.si.advertising.microsoft.com
 #[microsoft]
 0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 c.microsoft.com
+#[live.com]
+0.0.0.0 analytics.live.com
+0.0.0.0 c.live.com
+0.0.0.0 rad.live.com
+#[officeapps.live.com]
+0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 nexusrules.officeapps.live.com
 #[atdmt.com]
 0.0.0.0 ad.atdmt.com
 0.0.0.0 adecn-w.atdmt.com
@@ -548,17 +556,15 @@
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 t.update.fbsbx.com
 0.0.0.0 u.update.fbsbx.com
-#[twitter]
-0.0.0.0 ads.twitter.com
+#[twitter.com]
+0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 analytics.twitter.com
+#[ads-twitter.com]
 0.0.0.0 ads-twitter.com
-0.0.0.0 cdn.syndication.twitter.com
-0.0.0.0 cdn-eb.syndication.twitter.com
-0.0.0.0 p.twitter.com
 0.0.0.0 s.ads-twitter.com
-0.0.0.0 scribe.twitter.com
 0.0.0.0 static.ads-twitter.com
-0.0.0.0 syndication.twitter.com
 0.0.0.0 tap.ads-twitter.com
 0.0.0.0 www.ads-twitter.com
 #[spotify]
@@ -2823,8 +2829,6 @@
 0.0.0.0 ssl-cdn.media.innity.net
 0.0.0.0 vcdn.media.innity.net
 0.0.0.0 www.innity.net
-0.0.0.0 www.media.innity.net
-0.0.0.0 www.vcdn.media.innity.net
 #[woopra]
 0.0.0.0 woopra.com
 0.0.0.0 app.woopra.com
@@ -5396,49 +5400,12 @@
 0.0.0.0 www.evidon.com
 #[segment.com]
 0.0.0.0 app.segment.com
-0.0.0.0 app-canary.segment.com
-0.0.0.0 app-production.segment.com
-0.0.0.0 atlantis.segment.com
-0.0.0.0 calvin.segment.com
-0.0.0.0 canary.segment.com
-0.0.0.0 cdn.segment.com
 0.0.0.0 cdn-settings.segment.com
-0.0.0.0 ci.segment.com
-0.0.0.0 cid.segment.com
-0.0.0.0 composer.segment.com
-0.0.0.0 developer.segment.com
-0.0.0.0 events.segment.com
-0.0.0.0 evergreen.segment.com
-0.0.0.0 facade.segment.com
-0.0.0.0 foxpass.segment.com
-0.0.0.0 g.segment.com
-0.0.0.0 gateway-api.segment.com
-0.0.0.0 golink.segment.com
-0.0.0.0 gopages.segment.com
-0.0.0.0 grafana.segment.com
-0.0.0.0 graph.segment.com
-0.0.0.0 grow.segment.com
-0.0.0.0 leaderboard.segment.com
-0.0.0.0 learn.segment.com
-0.0.0.0 maglev.segment.com
+0.0.0.0 cdn.segment.com
+0.0.0.0 idsync.segment.com
 0.0.0.0 mobile-service.segment.com
-0.0.0.0 og-images.segment.com
-0.0.0.0 open.segment.com
-0.0.0.0 partners.segment.com
-0.0.0.0 platform-api.segment.com
-0.0.0.0 playbook.segment.com
-0.0.0.0 podcastfeeds.segment.com
-0.0.0.0 production.segment.com
 0.0.0.0 profiles.segment.com
-0.0.0.0 puzzles.segment.com
-0.0.0.0 records.segment.com
-0.0.0.0 sales.segment.com
 0.0.0.0 segment.com
-0.0.0.0 spec.segment.com
-0.0.0.0 sql.segment.com
-0.0.0.0 static.segment.com
-0.0.0.0 synapse.segment.com
-0.0.0.0 vpn.segment.com
 0.0.0.0 www.segment.com
 #[segment.io]
 0.0.0.0 api.segment.io
@@ -7091,66 +7058,11 @@
 0.0.0.0 tracking.servebom.com
 0.0.0.0 www.servebom.com
 #[bidswitch.net]
-0.0.0.0 apac-jp.bidswitch.net
-0.0.0.0 apac-jp-sync.bidswitch.net
-0.0.0.0 apac-jp-user.bidswitch.net
-0.0.0.0 apac-sg.bidswitch.net
-0.0.0.0 aws-ca.bidswitch.net
-0.0.0.0 aws-fr.bidswitch.net
-0.0.0.0 aws-fr-sync.bidswitch.net
 0.0.0.0 bidswitch.net
-0.0.0.0 dp.bidswitch.net
-0.0.0.0 dp-eu.bidswitch.net
-0.0.0.0 dp-us-west.bidswitch.net
-0.0.0.0 elb-imp-aws-fr-1.bidswitch.net
-0.0.0.0 eu.bidswitch.net
-0.0.0.0 eu-de.bidswitch.net
-0.0.0.0 eu-de-user.bidswitch.net
-0.0.0.0 eu-gce.bidswitch.net
-0.0.0.0 eu-gce-user.bidswitch.net
-0.0.0.0 eu-sync.bidswitch.net
-0.0.0.0 gce-be.bidswitch.net
-0.0.0.0 gce-jp.bidswitch.net
-0.0.0.0 gce-or.bidswitch.net
-0.0.0.0 gce-sc.bidswitch.net
 0.0.0.0 grid.bidswitch.net
-0.0.0.0 my.bidswitch.net
 0.0.0.0 pdc.bidswitch.net
-0.0.0.0 pool.grid-data.bidswitch.net
 0.0.0.0 r.bidswitch.net
-0.0.0.0 rnd-sandbox.bidswitch.net
-0.0.0.0 sandbox.bidswitch.net
 0.0.0.0 sb.bidswitch.net
-0.0.0.0 ssp-test-be.bidswitch.net
-0.0.0.0 ssp-test-or.bidswitch.net
-0.0.0.0 ssp-test-sc.bidswitch.net
-0.0.0.0 staging.bidswitch.net
-0.0.0.0 staging-as-jp.bidswitch.net
-0.0.0.0 staging-as-jp-sync.bidswitch.net
-0.0.0.0 staging-aws-fr.bidswitch.net
-0.0.0.0 staging-eu-gce.bidswitch.net
-0.0.0.0 staging-eu-gce-sync.bidswitch.net
-0.0.0.0 staging-gce-be.bidswitch.net
-0.0.0.0 staging-gce-jp.bidswitch.net
-0.0.0.0 staging-us-east.bidswitch.net
-0.0.0.0 staging-us-east-sync.bidswitch.net
-0.0.0.0 staging-us-west.bidswitch.net
-0.0.0.0 staging-us-west-sync.bidswitch.net
-0.0.0.0 sync-aws-ca.bidswitch.net
-0.0.0.0 sync-aws-fr.bidswitch.net
-0.0.0.0 sync-aws-jp.bidswitch.net
-0.0.0.0 sync-aws-va.bidswitch.net
-0.0.0.0 test.bidswitch.net
-0.0.0.0 test-eu.bidswitch.net
-0.0.0.0 us-east.bidswitch.net
-0.0.0.0 useast-aws1-user.bidswitch.net
-0.0.0.0 useast-aws2.bidswitch.net
-0.0.0.0 useast-aws2-user.bidswitch.net
-0.0.0.0 us-east-sync.bidswitch.net
-0.0.0.0 us-east-user.bidswitch.net
-0.0.0.0 us-west.bidswitch.net
-0.0.0.0 us-west-sync.bidswitch.net
-0.0.0.0 us-west-user.bidswitch.net
 0.0.0.0 www.bidswitch.net
 0.0.0.0 x.bidswitch.net
 #[bnmla.com]
@@ -7562,7 +7474,6 @@
 0.0.0.0 www.weborama.com
 #[simpli.fi]
 0.0.0.0 ads.simpli.fi
-0.0.0.0 adspreview.simpli.fi
 0.0.0.0 app.simpli.fi
 0.0.0.0 cdn.simpli.fi
 0.0.0.0 cdnpixel.simpli.fi
@@ -9432,75 +9343,11 @@
 0.0.0.0 safedk.com
 0.0.0.0 www.safedk.com
 #[izooto.com]
-0.0.0.0 acr.izooto.com
-0.0.0.0 adarsh.izooto.com
-0.0.0.0 adventure.izooto.com
 0.0.0.0 aevents.izooto.com
-0.0.0.0 aman3.izooto.com
-0.0.0.0 api.izooto.com
-0.0.0.0 apis.izooto.com
-0.0.0.0 assion.izooto.com
-0.0.0.0 bajaao.izooto.com
-0.0.0.0 beautyhooked.izooto.com
-0.0.0.0 bwcio.izooto.com
-0.0.0.0 campaign.izooto.com
 0.0.0.0 cdn.izooto.com
-0.0.0.0 cdnimg.izooto.com
-0.0.0.0 ckr.izooto.com
-0.0.0.0 clk.izooto.com
-0.0.0.0 clk5.izooto.com
-0.0.0.0 couponcenter.izooto.com
-0.0.0.0 cpnr.izooto.com
-0.0.0.0 cs.izooto.com
-0.0.0.0 chat.izooto.com
-0.0.0.0 dinamani.izooto.com
-0.0.0.0 dnaindia.izooto.com
-0.0.0.0 dnir.izooto.com
-0.0.0.0 dogreen.izooto.com
-0.0.0.0 enp.izooto.com
-0.0.0.0 enu.izooto.com
-0.0.0.0 erd.izooto.com
-0.0.0.0 err.izooto.com
-0.0.0.0 et.izooto.com
-0.0.0.0 ev.izooto.com
 0.0.0.0 events.izooto.com
 0.0.0.0 evt.izooto.com
-0.0.0.0 expr.izooto.com
-0.0.0.0 fetch.izooto.com
-0.0.0.0 fpr.izooto.com
-0.0.0.0 idp.izooto.com
-0.0.0.0 imp.izooto.com
-0.0.0.0 impr.izooto.com
 0.0.0.0 izooto.com
-0.0.0.0 jsr.izooto.com
-0.0.0.0 lvi.izooto.com
-0.0.0.0 mnr.izooto.com
-0.0.0.0 mobileconnect.izooto.com
-0.0.0.0 nwr.izooto.com
-0.0.0.0 obis.izooto.com
-0.0.0.0 oth.izooto.com
-0.0.0.0 panel.izooto.com
-0.0.0.0 pers.izooto.com
-0.0.0.0 pp.izooto.com
-0.0.0.0 pr-g.izooto.com
-0.0.0.0 prp.izooto.com
-0.0.0.0 prv.izooto.com
-0.0.0.0 rapi.izooto.com
-0.0.0.0 rltr.izooto.com
-0.0.0.0 route.izooto.com
-0.0.0.0 safari.izooto.com
-0.0.0.0 sbp.izooto.com
-0.0.0.0 sbpd.izooto.com
-0.0.0.0 shopelect.izooto.com
-0.0.0.0 ss.izooto.com
-0.0.0.0 sw.izooto.com
-0.0.0.0 tclr.izooto.com
-0.0.0.0 tracking.izooto.com
-0.0.0.0 trg.izooto.com
-0.0.0.0 uneidou.izooto.com
-0.0.0.0 usub.izooto.com
-0.0.0.0 vr.izooto.com
-0.0.0.0 www.izooto.com
 #[indoleads.com]
 0.0.0.0 app.indoleads.com
 0.0.0.0 confluence.indoleads.com
@@ -9525,58 +9372,16 @@
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 www.bkrtx.com
 #[adtelligent.com]
-0.0.0.0 a.adtelligent.com
-0.0.0.0 ads1.adtelligent.com
-0.0.0.0 ads2.adtelligent.com
-0.0.0.0 ads3.adtelligent.com
-0.0.0.0 ads4.adtelligent.com
-0.0.0.0 ads5.adtelligent.com
-0.0.0.0 ads6.adtelligent.com
-0.0.0.0 ads7.adtelligent.com
-0.0.0.0 ads8.adtelligent.com
-0.0.0.0 ads9.adtelligent.com
 0.0.0.0 adtelligent.com
-0.0.0.0 ald.adtelligent.com
-0.0.0.0 api1-stat.adtelligent.com
-0.0.0.0 api2-stat.adtelligent.com
-0.0.0.0 aux-log.adtelligent.com
-0.0.0.0 aux-log1-sh.adtelligent.com
-0.0.0.0 aux-log2-sh.adtelligent.com
-0.0.0.0 bootstrap.adtelligent.com
-0.0.0.0 d.adtelligent.com
-0.0.0.0 divan.adtelligent.com
-0.0.0.0 dsp1.adtelligent.com
-0.0.0.0 dsp2.adtelligent.com
 0.0.0.0 dsp3.adtelligent.com
-0.0.0.0 dsp4.adtelligent.com
-0.0.0.0 ecrtb.adtelligent.com
-0.0.0.0 eu.adtelligent.com
-0.0.0.0 euhb.adtelligent.com
-0.0.0.0 eurtb.adtelligent.com
-0.0.0.0 files.adtelligent.com
 0.0.0.0 ghb.adtelligent.com
-0.0.0.0 hb.adtelligent.com
-0.0.0.0 hb2.adtelligent.com
-0.0.0.0 hbmp.adtelligent.com
+0.0.0.0 ghb1.adtelligent.com
+0.0.0.0 ghb2.adtelligent.com
 0.0.0.0 pixel.adtelligent.com
 0.0.0.0 player.adtelligent.com
-0.0.0.0 player-aws.adtelligent.com
-0.0.0.0 push.adtelligent.com
-0.0.0.0 pusher.adtelligent.com
-0.0.0.0 research.adtelligent.com
-0.0.0.0 rtb.adtelligent.com
 0.0.0.0 s.adtelligent.com
-0.0.0.0 ssp.adtelligent.com
 0.0.0.0 static.adtelligent.com
-0.0.0.0 static-aws.adtelligent.com
-0.0.0.0 static-cdn.adtelligent.com
 0.0.0.0 sync.adtelligent.com
-0.0.0.0 sync-ua.adtelligent.com
-0.0.0.0 sync-us.adtelligent.com
-0.0.0.0 vast.adtelligent.com
-0.0.0.0 video.adtelligent.com
-0.0.0.0 video-ua.adtelligent.com
-0.0.0.0 www.adtelligent.com
 #[treasuredata.com]
 0.0.0.0 api.treasuredata.com
 0.0.0.0 cdn.treasuredata.com
@@ -9619,6 +9424,11 @@
 0.0.0.0 cdn.matomo.cloud
 0.0.0.0 cuoituoitrevn.matomo.cloud
 0.0.0.0 oxiivn.matomo.cloud
+#[matomo.*.vn]
+0.0.0.0 matomo.ecoe.vn
+0.0.0.0 matomo.energyfacility.vn
+0.0.0.0 matomo.shac.vn
+0.0.0.0 matomo.vepg.vn
 #[opecloud.com]
 0.0.0.0 opecloud.com
 0.0.0.0 papi.tagger.opecloud.com
@@ -10795,19 +10605,15 @@
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ap-southeast-1.dc.ads.linkedin.com
 0.0.0.0 ap-southeast-1.dc-dev.ads.linkedin.com
-0.0.0.0 ap-southeast-1.email.ads.linkedin.com
 0.0.0.0 ap-southeast-1.profile-api.ads.linkedin.com
 0.0.0.0 dc.ads.linkedin.com
-0.0.0.0 email.ads.linkedin.com
 0.0.0.0 eu-west-1.dc.ads.linkedin.com
-0.0.0.0 eu-west-1.email.ads.linkedin.com
 0.0.0.0 eu-west-1.profile-api.ads.linkedin.com
 0.0.0.0 imp2.ads.linkedin.com
 0.0.0.0 itag.ads.linkedin.com
 0.0.0.0 profile-api.ads.linkedin.com
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 us-east-1.dc.ads.linkedin.com
-0.0.0.0 us-east-1.email.ads.linkedin.com
 0.0.0.0 us-east-1.profile-api.ads.linkedin.com
 0.0.0.0 us-west-2.dc.ads.linkedin.com
 0.0.0.0 us-west-2.profile-api.ads.linkedin.com
@@ -12081,11 +11887,6 @@
 #[en25.com]
 0.0.0.0 en25.com
 0.0.0.0 img.en25.com
-0.0.0.0 img02.en25.com
-0.0.0.0 img03.en25.com
-0.0.0.0 img04.en25.com
-0.0.0.0 img06.en25.com
-0.0.0.0 img07.en25.com
 #[adctrl.com]
 0.0.0.0 adctrl.com
 0.0.0.0 adgo.adctrl.com
@@ -12750,10 +12551,10 @@
 0.0.0.0 vn.adsloads.com
 #[sitescout.com]
 0.0.0.0 clickserv.sitescout.com
-0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 pixel-c2s.sitescout.com
 0.0.0.0 pixel-sync.sitescout.com
+0.0.0.0 pixel.sitescout.com
 0.0.0.0 rtb.sitescout.com
 0.0.0.0 sitescout.com
 0.0.0.0 ss.sitescout.com
@@ -13621,3 +13422,73 @@
 #[sumome.com]
 0.0.0.0 sumome.com
 0.0.0.0 load.sumome.com
+#[vuukle.com]
+0.0.0.0 api.vuukle.com
+0.0.0.0 cdn.vuukle.com
+0.0.0.0 cdn2.vuukle.com
+0.0.0.0 image.vuukle.com
+0.0.0.0 publish.vuukle.com
+0.0.0.0 s1.vuukle.com
+0.0.0.0 serving.vuukle.com
+0.0.0.0 vuukle.com
+#[clmbtech.com]
+0.0.0.0 ade.clmbtech.com
+0.0.0.0 ase.clmbtech.com
+0.0.0.0 clmbtech.com
+#[aicactus.io]
+0.0.0.0 aicactus.io
+0.0.0.0 cdn.aicactus.io
+0.0.0.0 geo-service.aicactus.io
+0.0.0.0 staging-tag-cdn.aicactus.io
+0.0.0.0 tags.aicactus.io
+#[deepintent.com]
+0.0.0.0 apsoutheast-match.deepintent.com
+0.0.0.0 beacon.deepintent.com
+0.0.0.0 cdn.deepintent.com
+0.0.0.0 deepintent.com
+0.0.0.0 match.deepintent.com
+0.0.0.0 prebid.deepintent.com
+0.0.0.0 useast-beacon.deepintent.com
+#[extend.tv]
+0.0.0.0 exelatesync.extend.tv
+0.0.0.0 extend.tv
+0.0.0.0 sync.extend.tv
+0.0.0.0 www.extend.tv
+#[turn.com]
+0.0.0.0 ad.turn.com
+0.0.0.0 ad2.cdns.turn.com
+0.0.0.0 cdns.turn.com
+0.0.0.0 d.turn.com
+0.0.0.0 img.cdns.turn.com
+0.0.0.0 img.turn.com
+0.0.0.0 r.turn.com
+0.0.0.0 sd.turn.com
+0.0.0.0 sr.turn.com
+0.0.0.0 turn.com
+0.0.0.0 www.turn.com
+#[bidtheatre.com]
+0.0.0.0 adsby.bidtheatre.com
+0.0.0.0 bidtheatre.com
+0.0.0.0 cdn.bidtheatre.com
+0.0.0.0 match.adsby.bidtheatre.com
+0.0.0.0 www.bidtheatre.com
+#[winadx.com]
+0.0.0.0 native-vpaid.winadx.com
+0.0.0.0 rewarded.winadx.com
+0.0.0.0 service.winadx.com
+0.0.0.0 syndication.winadx.com
+0.0.0.0 tracking.winadx.com
+0.0.0.0 traffic-serv.winadx.com
+0.0.0.0 tvc-vpaid.winadx.com
+0.0.0.0 vpaid.winadx.com
+0.0.0.0 winadx.com
+0.0.0.0 www.winadx.com
+0.0.0.0 ytvpaid.winadx.com
+#[aarki.net]
+0.0.0.0 aarki.net
+0.0.0.0 adx-asia.aarki.net
+0.0.0.0 adx.aarki.net
+#[revrtb.net]
+0.0.0.0 revrtb.net
+0.0.0.0 www.revrtb.net
+0.0.0.0 xml.revrtb.net

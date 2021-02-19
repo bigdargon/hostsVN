@@ -489,10 +489,15 @@
 0.0.0.0 www.vietnamnetad.vn
 #[zing.vn]
 0.0.0.0 ad.zing.vn
+0.0.0.0 adsbanner.game.zing.vn
+0.0.0.0 adstracking.apps.zing.vn
 0.0.0.0 log.mp3.zing.vn
 0.0.0.0 log.news.zing.vn
+0.0.0.0 log.tv.zing.vn
 0.0.0.0 logv2.mp3.zing.vn
 0.0.0.0 tracking.playzing.g6.zing.vn
+0.0.0.0 tracking.tv.zing.vn
+0.0.0.0 zlog.mp3.zing.vn
 #[brand.zing.vn]
 0.0.0.0 adtima.brand.zing.vn
 0.0.0.0 adtimabox.brand.zing.vn
@@ -1312,10 +1317,6 @@
 #[testcentre.vn]
 0.0.0.0 k8s2.testcentre.vn
 0.0.0.0 testcentre.vn
-#[subiz-cdn.com]
-0.0.0.0 public-gcs.subiz-cdn.com
-0.0.0.0 subiz-cdn.com
-0.0.0.0 www.subiz-cdn.com
 #[piads.vn]
 0.0.0.0 api.piads.vn
 0.0.0.0 piads.vn
@@ -1348,6 +1349,10 @@
 0.0.0.0 assets.harafunnel.com
 0.0.0.0 harafunnel.com
 0.0.0.0 www.harafunnel.com
+#[haraads.com]
+0.0.0.0 apps.haraads.com
+0.0.0.0 haraads.com
+0.0.0.0 www.haraads.com
 #[starseed.fr]
 0.0.0.0 cdn.starseed.fr
 0.0.0.0 log.starseed.fr
@@ -1361,6 +1366,10 @@
 0.0.0.0 d.t.sieu-viet.com
 0.0.0.0 j.t.sieu-viet.com
 0.0.0.0 t.sieu-viet.com
+#[subiz-cdn.com]
+0.0.0.0 public-gcs.subiz-cdn.com
+0.0.0.0 subiz-cdn.com
+0.0.0.0 www.subiz-cdn.com
 #[subiz.com]
 0.0.0.0 apiv4.subiz.com
 0.0.0.0 static.subiz.com
@@ -1378,3 +1387,43 @@
 #[subiz.com.vn]
 0.0.0.0 api.subiz.com.vn
 0.0.0.0 app.subiz.com.vn
+#[gostats.vn]
+0.0.0.0 c1.gostats.vn
+0.0.0.0 c2.gostats.vn
+0.0.0.0 c3.gostats.vn
+0.0.0.0 c4.gostats.vn
+0.0.0.0 c5.gostats.vn
+0.0.0.0 gostats.vn
+0.0.0.0 www.gostats.vn
+#[codon.vn]
+0.0.0.0 codon.vn
+0.0.0.0 rp.codon.vn
+0.0.0.0 s2.codon.vn
+0.0.0.0 wpn.codon.vn
+0.0.0.0 www.codon.vn
+0.0.0.0 xads.codon.vn
+0.0.0.0 xmadsapi.codon.vn
+#[adx.vn]
+0.0.0.0 adx.vn
+0.0.0.0 d.adx.vn
+0.0.0.0 e.adx.vn
+0.0.0.0 mon.adx.vn
+0.0.0.0 st.a.adx.vn
+0.0.0.0 t.d.adx.vn
+#[gafin.vn]
+0.0.0.0 facebookads.gafin.vn
+0.0.0.0 gafin.vn
+0.0.0.0 images.gafin.vn
+0.0.0.0 m.gafin.vn
+0.0.0.0 reporting.gafin.vn
+0.0.0.0 tracking.gafin.vn
+0.0.0.0 widget.gafin.vn
+0.0.0.0 www.gafin.vn
+#[mautic.*.vn]
+0.0.0.0 mautic.ecom68.vn
+0.0.0.0 mautic.educe.vn
+0.0.0.0 mautic.haproinfo.vn
+0.0.0.0 mautic.hicity.vn
+0.0.0.0 mautic.paa.vn
+0.0.0.0 mautic.shio.vn
+0.0.0.0 mautic.sts.vn
