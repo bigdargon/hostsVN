@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Feb 2021 21:25 UTC+7
-# Version: 2102192125
-# Blocked: 1,731 domains
+# Last modified: 21 Feb 2021 15:36 UTC+7
+# Version: 2102211536
+# Blocked: 1,750 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -540,14 +540,16 @@
 0.0.0.0 wg.zaloapp.com
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 ztevents.zaloapp.com
-#[zadn.vn]
+#[adtima*.zadn.vn]
 0.0.0.0 adtima-common.zadn.vn
 0.0.0.0 adtima-media-td.zadn.vn
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-static-td.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
+#[sdk.zadn.vn]
 0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 log.sdk.zadn.vn
+#[zalo-ads*.zadn.vn]
 0.0.0.0 zalo-ads-240-td.zadn.vn
 0.0.0.0 zalo-ads-240.zadn.vn
 0.0.0.0 zalo-ads-480-td.zadn.vn
@@ -578,7 +580,6 @@
 #[pinetech]
 0.0.0.0 demo.pinetech.vn
 0.0.0.0 file.pinetech.vn
-0.0.0.0 newsletter.pinetech.vn
 0.0.0.0 pinetech.vn
 0.0.0.0 www.pinetech.vn
 #[cleverads.vn]
@@ -1432,13 +1433,33 @@
 0.0.0.0 widget.gafin.vn
 0.0.0.0 www.gafin.vn
 #[mautic.*.vn]
+0.0.0.0 mautic.akhoe.vn
+0.0.0.0 mautic.bizgift.vn
+0.0.0.0 mautic.casso.vn
+0.0.0.0 mautic.chetaomaysaigon.vn
+0.0.0.0 mautic.datium.vn
+0.0.0.0 mautic.dongdomedia.vn
+0.0.0.0 mautic.easygroup.vn
 0.0.0.0 mautic.ecom68.vn
+0.0.0.0 mautic.educa.vn
 0.0.0.0 mautic.educe.vn
+0.0.0.0 mautic.emso.vn
 0.0.0.0 mautic.haproinfo.vn
 0.0.0.0 mautic.hicity.vn
+0.0.0.0 mautic.icsc.vn
+0.0.0.0 mautic.itnavi.com.vn
+0.0.0.0 mautic.jagodo.vn
 0.0.0.0 mautic.paa.vn
+0.0.0.0 mautic.serverhub.vn
 0.0.0.0 mautic.shio.vn
 0.0.0.0 mautic.sts.vn
+0.0.0.0 mautic.thietkexaynhadep.vn
+0.0.0.0 mautic.yola.vn
+0.0.0.0 mautic.yte-suckhoe.vn
+#[piwik.*.vn]
+0.0.0.0 piwik.dsp.vn
+0.0.0.0 piwik.rta.vn
+0.0.0.0 piwik.tienhiep.com.vn
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -1683,6 +1704,7 @@
 0.0.0.0 analytics.admon.com.vn
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.bkav.com.vn
+0.0.0.0 analytics.diamondstarfinancial.com.vn
 0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.explus.vn
 0.0.0.0 analytics.hub-js.com

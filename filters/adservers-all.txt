@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 19 Feb 2021 21:25 UTC+7
-! Version: 2102192125
-! Blocked: 5,952 rules
+! Last modified: 21 Feb 2021 15:36 UTC+7
+! Version: 2102211536
+! Blocked: 5,958 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -126,6 +126,7 @@
 ||photo-ads.zaloapp.com^
 ||piads.vn^
 ||pinetech.vn^
+||piwik.*.vn^
 ||polyad.net^
 ||proadscdn.com^
 ||pushdi.com^
@@ -413,6 +414,7 @@
 ||analytics.admon.com.vn^
 ||analytics.bkav.com^
 ||analytics.bkav.com.vn^
+||analytics.diamondstarfinancial.com.vn^
 ||analytics.easyvideo.vn^
 ||analytics.explus.vn^
 ||analytics.hub-js.com^
@@ -796,9 +798,11 @@
 ||a4.tl^
 ||a8.net^
 ||aaddcount.com^
+||aan.amazon.com^
 ||aarki.net^
 ||aatkit.com^
-||aax-*-iad.amazon.com^
+||aax-eu-dub.amazon.com^
+||aax-us-iad.amazon.com^
 ||aaxads.com^
 ||accengage.com^
 ||accesstrade.net^
@@ -815,7 +819,6 @@
 ||ad.plus^
 ||ad.qq.com^
 ||ad.style^
-||ad.youtube.com^
 ||ad4game.com^
 ||ad4screen.com^
 ||adadvisor.net^
@@ -945,7 +948,6 @@
 ||advergine.com^
 ||advergine.ru^
 ||advertica.ae^
-||advertising*.amazon.com^
 ||advertising.apple.com^
 ||advertising.com^
 ||advertising.microsoft.com^
@@ -1287,6 +1289,7 @@
 ||firstimpression.io^
 ||flashtalking.com^
 ||fls-*.amazon.*^
+||fls-*.amazon.com^
 ||flurry.com^
 ||flux-adserver.com^
 ||fout.jp^
@@ -1294,7 +1297,6 @@
 ||freshmarketer.com^
 ||fullstory.com^
 ||fundingchoices.google.com^
-||fundingchoicesmessages.google.com^
 ||fyber.com^
 ||gads*s.com^
 ||gads*z.com^
@@ -1599,6 +1601,7 @@
 ||partnershipsprogram.com^
 ||pclick.yahoo.com^
 ||pcookie.taobao.com^
+||pendo.io^
 ||pepperjam.com^
 ||perimeterx.net^
 ||permutive.com^
@@ -1661,6 +1664,8 @@
 ||rakutenmarketing.com^
 ||rayads.cn^
 ||rayjump.com^
+||rcm-images.amazon.com^
+||rcm.amazon.com^
 ||realsrv.com^
 ||referrer.disqus.com^
 ||refpa.top^
@@ -1809,6 +1814,7 @@
 ||tx-hit.com^
 ||tynt.com^
 ||uc.ucweb.com^
+||uedata.amazon.com^
 ||ugdturner.com^
 ||umeng.co^
 ||umeng.com^
@@ -2858,7 +2864,6 @@
 ||api.parse.com^
 ||api.unthem.com^
 ||app-promo.com^
-||app.pendo.io^
 ||appclick.co^
 ||appclick.net^
 ||appdog.com^
@@ -5816,6 +5821,7 @@
 ||robinkornett.com^
 ||rochesterdata.com^
 ||roistat.com^
+||rs6.net^
 ||rsrly.com^
 ||rta2.metro.co.uk^
 ||rtb123.com^

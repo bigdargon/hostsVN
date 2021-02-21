@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 Feb 2021 21:25 UTC+7
-! Version: 2102192125
-! Blocked: 774 rules
+! Last modified: 21 Feb 2021 15:36 UTC+7
+! Version: 2102211536
+! Blocked: 776 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -126,6 +126,7 @@
 ||photo-ads.zaloapp.com^
 ||piads.vn^
 ||pinetech.vn^
+||piwik.*.vn^
 ||polyad.net^
 ||proadscdn.com^
 ||pushdi.com^
@@ -413,6 +414,7 @@
 ||analytics.admon.com.vn^
 ||analytics.bkav.com^
 ||analytics.bkav.com.vn^
+||analytics.diamondstarfinancial.com.vn^
 ||analytics.easyvideo.vn^
 ||analytics.explus.vn^
 ||analytics.hub-js.com^
