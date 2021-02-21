@@ -298,41 +298,38 @@
 0.0.0.0 adserver.bing.com
 0.0.0.0 bat.bing.com
 0.0.0.0 c.bing.com
-#[amazon]
+#[amazon.com]
 0.0.0.0 aan.amazon.com
-0.0.0.0 aax.amazon-adsystem.amazon.com
-0.0.0.0 aax-cpm.amazon-adsystem.amazon.com
-0.0.0.0 aax-us.amazon-adsystem.amazon.com
-0.0.0.0 aax-us-cpm.amazon-adsystem.amazon.com
+0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
-0.0.0.0 advertising.amazon.com
-0.0.0.0 advertising-eu.amazon.com
-0.0.0.0 affiliate-program.amazon.com
-0.0.0.0 amazon-adsystem.amazon.com
-0.0.0.0 ape-dyad-service-eu.amazon.com
-0.0.0.0 applab-sdk.amazon.com
-0.0.0.0 aps.amazon.com
-0.0.0.0 assoc-amazon.com
-0.0.0.0 astore.amazon.com
-0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 rcm-images.amazon.com
+0.0.0.0 rcm.amazon.com
+0.0.0.0 uedata.amazon.com
+#[fls-*.amazon.com]
 0.0.0.0 fls-cn.amazon.com
 0.0.0.0 fls-eu.amazon.com
 0.0.0.0 fls-fe.amazon.com
 0.0.0.0 fls-na.amazon.com
+#[mads*.amazon.com]
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 mads.amazon.com
-0.0.0.0 mas-sdk.amazon.com
-0.0.0.0 rcm-images.amazon.com
-0.0.0.0 rcm.amazon.com
-0.0.0.0 uedata.amazon.com
-0.0.0.0 widgets.amazon.com
-0.0.0.0 wms.assoc-amazon.com
-0.0.0.0 ws.amazon.com
+#[device-metrics-*.amazon.com]
+0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 device-metrics-us.amazon.com
+#[assoc-amazon.com]
 0.0.0.0 ws.assoc-amazon.com
 0.0.0.0 ws-fe.assoc-amazon.com
 0.0.0.0 ws-na.assoc-amazon.com
 0.0.0.0 www.assoc-amazon.com
+0.0.0.0 wms.assoc-amazon.com
+0.0.0.0 assoc-amazon.com
+#[amazon-adsystem.amazon.com]
+0.0.0.0 aax-cpm.amazon-adsystem.amazon.com
+0.0.0.0 aax-us-cpm.amazon-adsystem.amazon.com
+0.0.0.0 aax-us.amazon-adsystem.amazon.com
+0.0.0.0 aax.amazon-adsystem.amazon.com
+0.0.0.0 amazon-adsystem.amazon.com
+#[amazon-adsystem.com]
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aax.amazon.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
@@ -445,7 +442,9 @@
 0.0.0.0 z-fe.amazon-adsystem.com
 0.0.0.0 z-in.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
+#[amazon-adsystems.com]
 0.0.0.0 aax.amazon-adsystems.com
+0.0.0.0 amazon-adsystems.com
 0.0.0.0 c.amazon-adsystems.com
 0.0.0.0 fls-fe.amazon-adsystems.com
 0.0.0.0 ir-na.amazon-adsystems.com
@@ -13488,3 +13487,7 @@
 0.0.0.0 revrtb.net
 0.0.0.0 www.revrtb.net
 0.0.0.0 xml.revrtb.net
+#[pendo.io]
+0.0.0.0 app.pendo.io
+0.0.0.0 cdn.pendo.io
+0.0.0.0 pendo.io
