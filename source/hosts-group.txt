@@ -193,8 +193,6 @@
 0.0.0.0 static-doubleclick-net.l.google.com
 0.0.0.0 contributor.google.com
 0.0.0.0 fundingchoices.google.com
-0.0.0.0 fundingchoicesmessages.google.com
-0.0.0.0 ad.youtube.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.gmodules.com
 #[telemetry.microsoft.com]
@@ -7748,7 +7746,6 @@
 0.0.0.0 linkshare.com
 0.0.0.0 marcom.linkshare.com
 0.0.0.0 metrics.linkshare.com
-0.0.0.0 newsletter.linkshare.com
 0.0.0.0 offers.linkshare.com
 0.0.0.0 reporting.linkshare.com
 0.0.0.0 shopping.linkshare.com
@@ -10010,7 +10007,6 @@
 #[popnc.com]
 0.0.0.0 cdn.popnc.com
 0.0.0.0 dash.popnc.com
-0.0.0.0 newsletter.popnc.com
 0.0.0.0 open.popnc.com
 0.0.0.0 popnc.com
 0.0.0.0 staff.popnc.com
