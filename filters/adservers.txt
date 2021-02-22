@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Feb 2021 10:30 UTC+7
-! Version: 2102221030
-! Blocked: 776 rules
+! Last modified: 22 Feb 2021 15:17 UTC+7
+! Version: 2102221517
+! Blocked: 778 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -445,6 +445,7 @@
 ||cdn.tekoapis.com^
 ||clicker.chiaki.vn^
 ||clientinfo.phimmoizz.net^
+||collect.ovp.vn^
 ||counter.24h.com.vn^
 ||counter.ntdvn.com^
 ||crm.bizfly.vn^
@@ -453,6 +454,7 @@
 ||event.headlines.pw^
 ||event.vntoday.news^
 ||fa.fpt.shop^
+||fbuser.ovp.vn^
 ||file-subiz.com^
 ||follow.vnay.vn^
 ||google-shopping.sapoapps.vn^
