@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 21 Feb 2021 15:36 UTC+7
-! Version: 2102211536
+! Last modified: 22 Feb 2021 10:30 UTC+7
+! Version: 2102221030
 ! Blocked: 776 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -182,7 +182,7 @@
 ||yomedia.vn^
 ||younetmedia.com^
 ||zalo-ads*.zadn.vn^
-||zaloapp.ads.zdn.vn^
+||zaloads-480.zdn.vn^
 ||zlog.mp3.zing.vn^
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
