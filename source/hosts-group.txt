@@ -1595,10 +1595,12 @@
 #[qq.com]
 0.0.0.0 ad.qq.com
 0.0.0.0 analy.qq.com
-0.0.0.0 beacon.qq.com
 0.0.0.0 logsdk.qq.com
 0.0.0.0 report.qq.com
 0.0.0.0 trace.qq.com
+#[beacon.qq.com]
+0.0.0.0 beacon.qq.com
+0.0.0.0 otheve.beacon.qq.com
 #[btrace.qq.com]
 0.0.0.0 btrace.qq.com
 0.0.0.0 btrace.video.qq.com
@@ -1609,6 +1611,7 @@
 0.0.0.0 bugly.qq.com
 0.0.0.0 ios.bugly.qq.com
 #[e.qq.com]
+0.0.0.0 cm.e.qq.com
 0.0.0.0 e.qq.com
 0.0.0.0 sdk.e.qq.com
 #[gdt.qq.com]
