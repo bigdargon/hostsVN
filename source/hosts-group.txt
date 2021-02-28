@@ -3269,6 +3269,7 @@
 0.0.0.0 amplitude.com
 0.0.0.0 analytics.amplitude.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 api2.amplitude.com
 0.0.0.0 casestudies.amplitude.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cerulean.amplitude.com
@@ -13527,3 +13528,7 @@
 0.0.0.0 stack-sonar.com
 0.0.0.0 www-staging.stack-sonar.com
 0.0.0.0 www.stack-sonar.com
+#[bannersnack.com]
+0.0.0.0 bannersnack.com
+0.0.0.0 cdn.bannersnack.com
+0.0.0.0 www.bannersnack.com
