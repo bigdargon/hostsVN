@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Feb 2021 15:17 UTC+7
-! Version: 2102221517
-! Blocked: 778 rules
+! Last modified: 28 Feb 2021 21:45 UTC+7
+! Version: 2102282145
+! Blocked: 780 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -465,6 +465,7 @@
 ||kv-analytics.kiotviet.vn^
 ||la.vietid.net^
 ||lg.lotus.vn^
+||live.vnpgroup.net^
 ||log-collector.shopee.vn^
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
@@ -746,6 +747,7 @@
 ||vn88.com^
 ||vua1004.club^
 ||vua1005.club^
+||vw220.com^
 ||vwinnow.com^
 ||vwinthethao.com^
 ||vx88.com^

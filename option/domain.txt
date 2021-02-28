@@ -199,14 +199,19 @@ advertising.microsoft.com
 fp.advertising.microsoft.com
 sts.advertising.microsoft.com
 sts.si.advertising.microsoft.com
+c.microsoft.com
+statsfe2.ws.microsoft.com
 vortex.data.microsoft.com
 web.vortex.data.microsoft.com
-c.microsoft.com
 analytics.live.com
 c.live.com
 rad.live.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
+config.fp.measure.office.com
+fp.measure.office.com
+upload.fp.measure.office.com
+upload2.fp.measure.office.com
 ad.atdmt.com
 adecn-w.atdmt.com
 adn.atdmt.com
@@ -1497,10 +1502,11 @@ akamai.vungle-cdn.vungle.com
 www.vungle.com
 ad.qq.com
 analy.qq.com
-beacon.qq.com
 logsdk.qq.com
 report.qq.com
 trace.qq.com
+beacon.qq.com
+otheve.beacon.qq.com
 btrace.qq.com
 btrace.video.qq.com
 aexception.bugly.qq.com
@@ -1508,6 +1514,7 @@ android.bugly.qq.com
 astat.bugly.qq.com
 bugly.qq.com
 ios.bugly.qq.com
+cm.e.qq.com
 e.qq.com
 sdk.e.qq.com
 gdt.qq.com
@@ -3068,6 +3075,7 @@ amplify.amplitude.com
 amplitude.com
 analytics.amplitude.com
 api.amplitude.com
+api2.amplitude.com
 casestudies.amplitude.com
 cdn.amplitude.com
 cerulean.amplitude.com
@@ -9943,7 +9951,6 @@ www.aaxads.com
 otnolatrnup.com
 cdn.otnolatrnup.com
 rh.otnolatrnup.com
-beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons2.gvt2.com
 beacons3.gvt2.com
@@ -9952,6 +9959,8 @@ beacons5.gvt2.com
 beacons6.gvt2.com
 beacons-blackholed.gcp.gvt2.com
 beacons-handoff.gcp.gvt2.com
+beacons.gcp.gvt2.com
+e2clock.gcp.gvt2.com
 beacons5.gvt3.com
 beacons6.gvt3.com
 ad4game.com
@@ -12082,6 +12091,7 @@ pangle.io
 applog.tiktokv.com
 log-va.tiktokv.com
 log.tiktokv.com
+mon-sg.tiktokv.com
 mon-va.tiktokv.com
 mon.tiktokv.com
 rtlog.tiktokv.com
@@ -12604,6 +12614,29 @@ xml.revrtb.net
 app.pendo.io
 cdn.pendo.io
 pendo.io
+adexpert.pixanalytics.com
+falcon.pixanalytics.com
+pixanalytics.com
+pixnet-network-falcon.pixanalytics.com
+s.pixanalytics.com
+advividnetwork.com
+sun-cdn.advividnetwork.com
+sun.advividnetwork.com
+api.uniconsent.com
+app.uniconsent.com
+cmp.uniconsent.com
+edge.uniconsent.com
+log.uniconsent.com
+uniconsent.com
+www.uniconsent.com
+api-staging.stack-sonar.com
+api.stack-sonar.com
+stack-sonar.com
+www-staging.stack-sonar.com
+www.stack-sonar.com
+bannersnack.com
+cdn.bannersnack.com
+www.bannersnack.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -14215,6 +14248,7 @@ invite.baomoi.com
 kv-analytics.kiotviet.vn
 la.vietid.net
 lg.lotus.vn
+live.vnpgroup.net
 log-collector.shopee.vn
 log.anninhthudo.vn
 log.baodatviet.vn
@@ -14969,6 +15003,7 @@ ads.ultimate-guitar.com
 ads.uncrate.com
 ads.undertone.com
 ads.usatoday.com
+ads.valueimpression.com
 ads.verticalresponse.com
 ads.vgchartz.com
 ads.videosz.com
@@ -15611,6 +15646,7 @@ callfire.com
 callloop.com
 callousbrake.com
 calmfoot.com
+campaign.adobe.com
 campaign.bharatmatrimony.com
 caniamedia.com
 capablecows.com
@@ -15895,6 +15931,7 @@ dedicatedmedia.com
 defectivesun.com
 delegatediscussion.com
 deligrassdull.com
+deliver.vkcdnservice.com
 deloo.de
 deloplen.com
 deloton.com
@@ -16089,6 +16126,8 @@ facilitategrandfather.com
 factoryaudioherd.com
 fadedprofit.com
 faidoud.com
+falcon-asset.pixfs.net
+falcon.pixnet.net
 famountsuref.site
 famousquarter.com
 faracoon.com
@@ -16977,6 +17016,7 @@ phpadsnew.new.natuurpark.nl
 phpmyvisites.net
 phunware.com
 picadmedia.com
+pieceredirect.com
 piet2eix3l.com
 pietexture.com
 pignuwoa.com
@@ -18238,6 +18278,7 @@ h-sdk.online-metrix.net
 hairtease.com
 hitcpm.com
 hits.theguardian.com
+hitwebcounter.com
 hostg.xyz
 hsbarbershop.co.uk
 hscta.net
@@ -18249,7 +18290,6 @@ i.shannon-fisher.xyz
 iaudienc.com
 idio.co
 ie8eamus.com
-images.dmca.com
 img.leadzutw.com
 imp.pvnsolutions.com
 inside-graph.com
@@ -18286,7 +18326,6 @@ log.umsns.com
 log.ventunotech.com
 logger.unsplash.com
 logs.amap.com
-logs.papertrailapp.com
 logsss.com
 loles.neostrada.pl
 mads.dailymail.co.uk
@@ -18303,6 +18342,7 @@ metrics.brightcove.com
 metrics.cloudflarebolt.com
 metrics.sdkbox.com
 mobiletelemetry.ebay.com
+mon.toutiaocloud.com
 montacarichi.it
 mousestats.com
 movestone.net
@@ -18325,6 +18365,8 @@ pegloang.com
 pi.pardot.com
 pipedream.wistia.com
 pix.spot.im
+pixanalytics.pixnet.net
+pixanalytics2.pixnet.net
 pixel.nc0.co
 pixel.s3xified.com
 pixel.voltn.com
@@ -18393,7 +18435,7 @@ soperson.com
 srmdata.com
 ssc.api.bbc.com
 ssm.codes
-stack-sonar.com
+sstats.adobe.com
 stathat.com
 static.intentarget.com
 static.leaddyno.com
@@ -18459,6 +18501,7 @@ vdtrack.com
 vectaury.io
 vilagnomad.com
 vizu.com
+vkcache.com
 w3counter.com
 wa.metro.co.uk
 wc-tracking.lavasoft.com

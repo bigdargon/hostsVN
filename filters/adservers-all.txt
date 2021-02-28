@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 22 Feb 2021 15:17 UTC+7
-! Version: 2102221517
-! Blocked: 5,962 rules
+! Last modified: 28 Feb 2021 21:45 UTC+7
+! Version: 2102282145
+! Blocked: 5,981 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -465,6 +465,7 @@
 ||kv-analytics.kiotviet.vn^
 ||la.vietid.net^
 ||lg.lotus.vn^
+||live.vnpgroup.net^
 ||log-collector.shopee.vn^
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
@@ -746,6 +747,7 @@
 ||vn88.com^
 ||vua1004.club^
 ||vua1005.club^
+||vw220.com^
 ||vwinnow.com^
 ||vwinthethao.com^
 ||vx88.com^
@@ -960,6 +962,7 @@
 ||advgalaxy.com^
 ||adview.cn^
 ||advinci.net^
+||advividnetwork.com^
 ||adworkmedia.net^
 ||adx1.com^
 ||adxadserv.com^
@@ -1068,6 +1071,7 @@
 ||banners-slb.mobile.yandex.net^
 ||banners.itunes.apple.com^
 ||banners.mobile.yandex.net^
+||bannersnack.com^
 ||bannertrack.net^
 ||bat.bing.com^
 ||batch.com^
@@ -1306,6 +1310,7 @@
 ||gameads.io^
 ||gameanalytics.com^
 ||gaug.es^
+||gcp.gvt2.com^
 ||gdt.qq.com^
 ||gemini.yahoo.com^
 ||genieessp.com^
@@ -1477,6 +1482,7 @@
 ||mavq.net^
 ||mc.yandex.ru^
 ||mdotm.com^
+||measure.office.com^
 ||measuread.com^
 ||media.net^
 ||mediaforge.com^
@@ -1518,6 +1524,7 @@
 ||moengage.com^
 ||mojiva.com^
 ||mon-hl.snssdk.com^
+||mon-sg.tiktokv.com^
 ||mon-va.byteoversea.com^
 ||mon-va.tiktokv.com^
 ||mon.byteoversea.com^
@@ -1613,6 +1620,7 @@
 ||ping*.qq.com^
 ||pingdom.net^
 ||pinpoint.*.amazonaws.com^
+||pixanalytics.com^
 ||pixel-static.spotify.com^
 ||pixel.facebook.com^
 ||pixel.spotify.com^
@@ -1761,7 +1769,7 @@
 ||spotxchange.com^
 ||srvcs.tumblr.com^
 ||ssl-google-analytics.l.google.com^
-||sstats.adobe.com^
+||stack-sonar.com^
 ||staging-insights-collector.newrelic.com^
 ||starbolt.io^
 ||startappservice.com^
@@ -1769,6 +1777,7 @@
 ||static-doubleclick-net.l.google.com^
 ||staticstuff.net^
 ||stats.unity3d.com^
+||statsfe2.ws.microsoft.com^
 ||statt-collect.herokuapp.com^
 ||steelhousemedia.com^
 ||steepto.com^
@@ -1821,6 +1830,7 @@
 ||umeng.co^
 ||umeng.com^
 ||umengcloud.com^
+||uniconsent.com^
 ||unionstatistics.com^
 ||unityads.unity3d.com^
 ||unrulymedia.com^
@@ -2515,6 +2525,7 @@
 ||ads.uncrate.com^
 ||ads.undertone.com^
 ||ads.usatoday.com^
+||ads.valueimpression.com^
 ||ads.verticalresponse.com^
 ||ads.vgchartz.com^
 ||ads.videosz.com^
@@ -3157,6 +3168,7 @@
 ||callloop.com^
 ||callousbrake.com^
 ||calmfoot.com^
+||campaign.adobe.com^
 ||campaign.bharatmatrimony.com^
 ||caniamedia.com^
 ||capablecows.com^
@@ -3441,6 +3453,7 @@
 ||defectivesun.com^
 ||delegatediscussion.com^
 ||deligrassdull.com^
+||deliver.vkcdnservice.com^
 ||deloo.de^
 ||deloplen.com^
 ||deloton.com^
@@ -3636,6 +3649,8 @@
 ||factoryaudioherd.com^
 ||fadedprofit.com^
 ||faidoud.com^
+||falcon-asset.pixfs.net^
+||falcon.pixnet.net^
 ||famountsuref.site^
 ||famousquarter.com^
 ||faracoon.com^
@@ -4527,6 +4542,7 @@
 ||phpmyvisites.net^
 ||phunware.com^
 ||picadmedia.com^
+||pieceredirect.com^
 ||piet2eix3l.com^
 ||pietexture.com^
 ||pignuwoa.com^
@@ -5700,6 +5716,7 @@
 ||hairtease.com^
 ||hitcpm.com^
 ||hits.theguardian.com^
+||hitwebcounter.com^
 ||hostg.xyz^
 ||hsbarbershop.co.uk^
 ||hscta.net^
@@ -5711,7 +5728,6 @@
 ||iaudienc.com^
 ||idio.co^
 ||ie8eamus.com^
-||images.dmca.com^
 ||img.leadzutw.com^
 ||imp.pvnsolutions.com^
 ||inside-graph.com^
@@ -5748,7 +5764,6 @@
 ||log.ventunotech.com^
 ||logger.unsplash.com^
 ||logs.amap.com^
-||logs.papertrailapp.com^
 ||logsss.com^
 ||loles.neostrada.pl^
 ||mads.dailymail.co.uk^
@@ -5765,6 +5780,7 @@
 ||metrics.cloudflarebolt.com^
 ||metrics.sdkbox.com^
 ||mobiletelemetry.ebay.com^
+||mon.toutiaocloud.com^
 ||montacarichi.it^
 ||mousestats.com^
 ||movestone.net^
@@ -5787,6 +5803,8 @@
 ||pi.pardot.com^
 ||pipedream.wistia.com^
 ||pix.spot.im^
+||pixanalytics.pixnet.net^
+||pixanalytics2.pixnet.net^
 ||pixel.nc0.co^
 ||pixel.s3xified.com^
 ||pixel.voltn.com^
@@ -5855,7 +5873,7 @@
 ||srmdata.com^
 ||ssc.api.bbc.com^
 ||ssm.codes^
-||stack-sonar.com^
+||sstats.adobe.com^
 ||stathat.com^
 ||static.intentarget.com^
 ||static.leaddyno.com^
@@ -5921,6 +5939,7 @@
 ||vectaury.io^
 ||vilagnomad.com^
 ||vizu.com^
+||vkcache.com^
 ||w3counter.com^
 ||wa.metro.co.uk^
 ||wc-tracking.lavasoft.com^

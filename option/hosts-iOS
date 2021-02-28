@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 Feb 2021 15:17 UTC+7
-# Version: 2102221517
-# Blocked: 18,558 domains
+# Last modified: 28 Feb 2021 21:45 UTC+7
+# Version: 2102282145
+# Blocked: 18,601 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -215,14 +215,19 @@
 0 fp.advertising.microsoft.com
 0 sts.advertising.microsoft.com
 0 sts.si.advertising.microsoft.com
+0 c.microsoft.com
+0 statsfe2.ws.microsoft.com
 0 vortex.data.microsoft.com
 0 web.vortex.data.microsoft.com
-0 c.microsoft.com
 0 analytics.live.com
 0 c.live.com
 0 rad.live.com
 0 nexus.officeapps.live.com
 0 nexusrules.officeapps.live.com
+0 config.fp.measure.office.com
+0 fp.measure.office.com
+0 upload.fp.measure.office.com
+0 upload2.fp.measure.office.com
 0 ad.atdmt.com
 0 adecn-w.atdmt.com
 0 adn.atdmt.com
@@ -1513,10 +1518,11 @@
 0 www.vungle.com
 0 ad.qq.com
 0 analy.qq.com
-0 beacon.qq.com
 0 logsdk.qq.com
 0 report.qq.com
 0 trace.qq.com
+0 beacon.qq.com
+0 otheve.beacon.qq.com
 0 btrace.qq.com
 0 btrace.video.qq.com
 0 aexception.bugly.qq.com
@@ -1524,6 +1530,7 @@
 0 astat.bugly.qq.com
 0 bugly.qq.com
 0 ios.bugly.qq.com
+0 cm.e.qq.com
 0 e.qq.com
 0 sdk.e.qq.com
 0 gdt.qq.com
@@ -3084,6 +3091,7 @@
 0 amplitude.com
 0 analytics.amplitude.com
 0 api.amplitude.com
+0 api2.amplitude.com
 0 casestudies.amplitude.com
 0 cdn.amplitude.com
 0 cerulean.amplitude.com
@@ -9959,7 +9967,6 @@
 0 otnolatrnup.com
 0 cdn.otnolatrnup.com
 0 rh.otnolatrnup.com
-0 beacons.gcp.gvt2.com
 0 beacons.gvt2.com
 0 beacons2.gvt2.com
 0 beacons3.gvt2.com
@@ -9968,6 +9975,8 @@
 0 beacons6.gvt2.com
 0 beacons-blackholed.gcp.gvt2.com
 0 beacons-handoff.gcp.gvt2.com
+0 beacons.gcp.gvt2.com
+0 e2clock.gcp.gvt2.com
 0 beacons5.gvt3.com
 0 beacons6.gvt3.com
 0 ad4game.com
@@ -12098,6 +12107,7 @@
 0 applog.tiktokv.com
 0 log-va.tiktokv.com
 0 log.tiktokv.com
+0 mon-sg.tiktokv.com
 0 mon-va.tiktokv.com
 0 mon.tiktokv.com
 0 rtlog.tiktokv.com
@@ -12620,6 +12630,29 @@
 0 app.pendo.io
 0 cdn.pendo.io
 0 pendo.io
+0 adexpert.pixanalytics.com
+0 falcon.pixanalytics.com
+0 pixanalytics.com
+0 pixnet-network-falcon.pixanalytics.com
+0 s.pixanalytics.com
+0 advividnetwork.com
+0 sun-cdn.advividnetwork.com
+0 sun.advividnetwork.com
+0 api.uniconsent.com
+0 app.uniconsent.com
+0 cmp.uniconsent.com
+0 edge.uniconsent.com
+0 log.uniconsent.com
+0 uniconsent.com
+0 www.uniconsent.com
+0 api-staging.stack-sonar.com
+0 api.stack-sonar.com
+0 stack-sonar.com
+0 www-staging.stack-sonar.com
+0 www.stack-sonar.com
+0 bannersnack.com
+0 cdn.bannersnack.com
+0 www.bannersnack.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14231,6 +14264,7 @@
 0 kv-analytics.kiotviet.vn
 0 la.vietid.net
 0 lg.lotus.vn
+0 live.vnpgroup.net
 0 log-collector.shopee.vn
 0 log.anninhthudo.vn
 0 log.baodatviet.vn
@@ -14985,6 +15019,7 @@
 0 ads.uncrate.com
 0 ads.undertone.com
 0 ads.usatoday.com
+0 ads.valueimpression.com
 0 ads.verticalresponse.com
 0 ads.vgchartz.com
 0 ads.videosz.com
@@ -15627,6 +15662,7 @@
 0 callloop.com
 0 callousbrake.com
 0 calmfoot.com
+0 campaign.adobe.com
 0 campaign.bharatmatrimony.com
 0 caniamedia.com
 0 capablecows.com
@@ -15911,6 +15947,7 @@
 0 defectivesun.com
 0 delegatediscussion.com
 0 deligrassdull.com
+0 deliver.vkcdnservice.com
 0 deloo.de
 0 deloplen.com
 0 deloton.com
@@ -16105,6 +16142,8 @@
 0 factoryaudioherd.com
 0 fadedprofit.com
 0 faidoud.com
+0 falcon-asset.pixfs.net
+0 falcon.pixnet.net
 0 famountsuref.site
 0 famousquarter.com
 0 faracoon.com
@@ -16993,6 +17032,7 @@
 0 phpmyvisites.net
 0 phunware.com
 0 picadmedia.com
+0 pieceredirect.com
 0 piet2eix3l.com
 0 pietexture.com
 0 pignuwoa.com
@@ -18254,6 +18294,7 @@
 0 hairtease.com
 0 hitcpm.com
 0 hits.theguardian.com
+0 hitwebcounter.com
 0 hostg.xyz
 0 hsbarbershop.co.uk
 0 hscta.net
@@ -18265,7 +18306,6 @@
 0 iaudienc.com
 0 idio.co
 0 ie8eamus.com
-0 images.dmca.com
 0 img.leadzutw.com
 0 imp.pvnsolutions.com
 0 inside-graph.com
@@ -18302,7 +18342,6 @@
 0 log.ventunotech.com
 0 logger.unsplash.com
 0 logs.amap.com
-0 logs.papertrailapp.com
 0 logsss.com
 0 loles.neostrada.pl
 0 mads.dailymail.co.uk
@@ -18319,6 +18358,7 @@
 0 metrics.cloudflarebolt.com
 0 metrics.sdkbox.com
 0 mobiletelemetry.ebay.com
+0 mon.toutiaocloud.com
 0 montacarichi.it
 0 mousestats.com
 0 movestone.net
@@ -18341,6 +18381,8 @@
 0 pi.pardot.com
 0 pipedream.wistia.com
 0 pix.spot.im
+0 pixanalytics.pixnet.net
+0 pixanalytics2.pixnet.net
 0 pixel.nc0.co
 0 pixel.s3xified.com
 0 pixel.voltn.com
@@ -18409,7 +18451,7 @@
 0 srmdata.com
 0 ssc.api.bbc.com
 0 ssm.codes
-0 stack-sonar.com
+0 sstats.adobe.com
 0 stathat.com
 0 static.intentarget.com
 0 static.leaddyno.com
@@ -18475,6 +18517,7 @@
 0 vectaury.io
 0 vilagnomad.com
 0 vizu.com
+0 vkcache.com
 0 w3counter.com
 0 wa.metro.co.uk
 0 wc-tracking.lavasoft.com
