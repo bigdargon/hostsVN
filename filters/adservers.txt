@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Feb 2021 21:45 UTC+7
-! Version: 2102282145
-! Blocked: 780 rules
+! Last modified: 02 Mar 2021 15:08 UTC+7
+! Version: 2103021508
+! Blocked: 786 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -97,6 +97,7 @@
 ||log.news.zing.vn^
 ||log.o2o.service.zaloapp.com^
 ||log.tv.zing.vn^
+||logger.vsmarty.vn^
 ||logv2.mp3.zing.vn^
 ||mangoads.vn^
 ||masoffer.net^
@@ -636,6 +637,7 @@
 ||bong99.com^
 ||bong99.fun^
 ||bong99.vip^
+||boom66.com^
 ||cacuoc247.com^
 ||cacuoc79.com^
 ||casino888vn.com^
@@ -664,6 +666,7 @@
 ||go88.com^
 ||goal123.com^
 ||goal68.top^
+||goal86.top^
 ||ibet889.com^
 ||income88.com^
 ||interwinvn.com^
@@ -674,6 +677,7 @@
 ||letou8868.com^
 ||lixi88.info^
 ||lixi888.online^
+||loc88.fun^
 ||lode88.vip^
 ||lucky88.com^
 ||lucky88.live^
@@ -685,6 +689,7 @@
 ||m88my.com^
 ||m88vina.com^
 ||macau.club^
+||macauclub.fun^
 ||mansion66.com^
 ||mayclub.net^
 ||mibet.com^
@@ -745,6 +750,7 @@
 ||vn88.casino^
 ||vn88.club^
 ||vn88.com^
+||vnloto.com^
 ||vua1004.club^
 ||vua1005.club^
 ||vw220.com^

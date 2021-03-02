@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 28 Feb 2021 21:45 UTC+7
-# Version: 2102282145
-# Blocked: 18,601 domains
+# Last modified: 02 Mar 2021 15:08 UTC+7
+# Version: 2103021508
+# Blocked: 18,603 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4274,12 +4274,6 @@
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hb-config.vntsm.com
 0.0.0.0 vntsm.com
-#[mailchimp]
-0.0.0.0 cdn-images.mailchimp.com
-0.0.0.0 downloads.mailchimp.com
-0.0.0.0 mailchimp.com
-0.0.0.0 static.mailchimp.com
-0.0.0.0 www.mailchimp.com
 #[alexa]
 0.0.0.0 alexa.com
 0.0.0.0 data.alexa.com
@@ -14997,6 +14991,10 @@
 0.0.0.0 piwik.dsp.vn
 0.0.0.0 piwik.rta.vn
 0.0.0.0 piwik.tienhiep.com.vn
+#[logger.vsmarty.vn]
+0.0.0.0 logger.vsmarty.vn
+0.0.0.0 recommend-29.logger.vsmarty.vn
+0.0.0.0 tracker-29.logger.vsmarty.vn
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -15536,6 +15534,7 @@
 0.0.0.0 ad.eurosport.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.freecity.de
+0.0.0.0 ad.garenanow.com
 0.0.0.0 ad.gate24.ch
 0.0.0.0 ad.grafika.cz
 0.0.0.0 ad.hbv.de
@@ -18131,7 +18130,6 @@
 0.0.0.0 presetrabbits.com
 0.0.0.0 previousplayground.com
 0.0.0.0 previouspotato.com
-0.0.0.0 prf.hn
 0.0.0.0 prfwpclck.com
 0.0.0.0 primaryads.com
 0.0.0.0 primetime.net
@@ -18285,6 +18283,7 @@
 0.0.0.0 remox.com
 0.0.0.0 reporo.net
 0.0.0.0 republika.onet.pl
+0.0.0.0 resalag.com
 0.0.0.0 resolutekey.com
 0.0.0.0 reson8.com
 0.0.0.0 resonantbrush.com
@@ -19234,6 +19233,7 @@
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beampulse.com
+0.0.0.0 bento.agoda.com
 0.0.0.0 beyondsecurity.com
 0.0.0.0 bjdxhs.com
 0.0.0.0 bjhmt.com
@@ -19391,6 +19391,7 @@
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 mon.toutiaocloud.com
+0.0.0.0 mon.toutiaocloud.net
 0.0.0.0 montacarichi.it
 0.0.0.0 mousestats.com
 0.0.0.0 movestone.net
@@ -19513,6 +19514,7 @@
 0.0.0.0 thoosje.com
 0.0.0.0 to.getnitropack.com
 0.0.0.0 track.56txs4.com
+0.0.0.0 track.analytics-data.io
 0.0.0.0 track.datetrck.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.mobgc.com

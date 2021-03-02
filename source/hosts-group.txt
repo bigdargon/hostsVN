@@ -4262,12 +4262,6 @@
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hb-config.vntsm.com
 0.0.0.0 vntsm.com
-#[mailchimp]
-0.0.0.0 cdn-images.mailchimp.com
-0.0.0.0 downloads.mailchimp.com
-0.0.0.0 mailchimp.com
-0.0.0.0 static.mailchimp.com
-0.0.0.0 www.mailchimp.com
 #[alexa]
 0.0.0.0 alexa.com
 0.0.0.0 data.alexa.com

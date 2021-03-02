@@ -1451,3 +1451,7 @@
 0.0.0.0 piwik.dsp.vn
 0.0.0.0 piwik.rta.vn
 0.0.0.0 piwik.tienhiep.com.vn
+#[logger.vsmarty.vn]
+0.0.0.0 logger.vsmarty.vn
+0.0.0.0 recommend-29.logger.vsmarty.vn
+0.0.0.0 tracker-29.logger.vsmarty.vn

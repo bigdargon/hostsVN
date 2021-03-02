@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 28 Feb 2021 21:45 UTC+7
-# Version: 2102282145
-# Blocked: 1,755 domains
+# Last modified: 02 Mar 2021 15:08 UTC+7
+# Version: 2103021508
+# Blocked: 1,758 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1463,6 +1463,10 @@
 0.0.0.0 piwik.dsp.vn
 0.0.0.0 piwik.rta.vn
 0.0.0.0 piwik.tienhiep.com.vn
+#[logger.vsmarty.vn]
+0.0.0.0 logger.vsmarty.vn
+0.0.0.0 recommend-29.logger.vsmarty.vn
+0.0.0.0 tracker-29.logger.vsmarty.vn
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
