@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 02 Mar 2021 15:08 UTC+7
-# Version: 2103021508
-# Blocked: 2,823 domains
+# Last modified: 03 Mar 2021 15:44 UTC+7
+# Version: 2103031544
+# Blocked: 2,828 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -597,6 +597,11 @@
 0.0.0.0 web.macauclub.fun
 0.0.0.0 boom66.com
 0.0.0.0 www.boom66.com
+0.0.0.0 one88.me
+0.0.0.0 f1.one88.me
+0.0.0.0 m8winvip.com
+0.0.0.0 www.m8winvip.com
+0.0.0.0 uw88vnd.com
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com

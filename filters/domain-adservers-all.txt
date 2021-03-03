@@ -1,11 +1,12 @@
 ! Title: hostsVN
-! Last modified: 02 Mar 2021 15:08 UTC+7
-! Version: 2103021508
-! Blocked: 5,990 domains
+! Last modified: 03 Mar 2021 15:44 UTC+7
+! Version: 2103031544
+! Blocked: 6,005 domains
 ! The section containing the list contains all ad networks and tracking
 !
-24h*-ad.24hstatic.com
-ad*.24hstatic.com
+24h-ad.24hstatic.com
+24h-ipad-ad.24hstatic.com
+ad-us.24hstatic.com
 ad.org.vn
 ad.zing.vn
 ad360.vn
@@ -13,7 +14,6 @@ adasiaholdings.com
 adbro.me
 adflex.vn
 adfly.vn
-admicro*.vcmedia.com
 admicro*.vcmedia.vn
 admicro.vn
 adnet.vn
@@ -21,7 +21,6 @@ adnetwork.vn
 adpia.vn
 adrealclick.com
 ads-target.coccoc.com
-ads.hosting.vcmedia.vn
 ads.platform.zalo.me
 ads.zalo.me
 ads.zaloapp.com
@@ -34,7 +33,11 @@ adsparc.net
 adsplay.net
 adsplay.xyz
 adstracking.apps.zing.vn
-adtima*.zadn.vn
+adtima-common.zadn.vn
+adtima-media-td.zadn.vn
+adtima-media.zadn.vn
+adtima-static-td.zadn.vn
+adtima-static.zadn.vn
 adtima.vn
 adtimaserver.vn
 adx.vn
@@ -66,7 +69,7 @@ contineljs.com
 dable.io
 donglogs.com
 eclick.vn
-eva*-ad.24hstatic.com
+eva-ad.24hstatic.com
 ezimar.com
 flygame.io
 fuseplatform.net
@@ -116,7 +119,7 @@ novaon.vn
 novaonads.com
 novaonx.com
 nt-cdn.coccoc.com
-nv-ad*.24hstatic.com
+nv-ad.24hstatic.com
 ohchat.net
 oncustomer.asia
 onfluencer.net
@@ -180,7 +183,12 @@ yoads.net
 yoads.network
 yomedia.vn
 younetmedia.com
-zalo-ads*.zadn.vn
+zalo-ads-240-td.zadn.vn
+zalo-ads-240.zadn.vn
+zalo-ads-480-td.zadn.vn
+zalo-ads-480.zadn.vn
+zalo-ads-td.zadn.vn
+zalo-ads.zadn.vn
 zaloads-480.zdn.vn
 zlog.mp3.zing.vn
 zminer.zaloapp.com
@@ -686,6 +694,7 @@ m883d.com
 m88cvf.com
 m88my.com
 m88vina.com
+m8winvip.com
 macau.club
 macauclub.fun
 mansion66.com
@@ -704,6 +713,7 @@ nhat.game
 nhatvip.net
 one88.com
 one88.fun
+one88.me
 one88.us
 one88.vn
 oneday88.com
@@ -733,6 +743,7 @@ tin010.com
 top88.club
 top88.fun
 top88.uk
+uw88vnd.com
 v7ac.com
 v8.club
 v9bet.com
@@ -831,7 +842,9 @@ ad4game.com
 ad4screen.com
 adadvisor.net
 adap.tv
-adash*.m.taobao.com
+adash.m.taobao.com
+adashbc.m.taobao.com
+adashx.m.taobao.com
 adblade.com
 adblox.net
 adbrix.io
@@ -1136,6 +1149,7 @@ bumlam.com
 buysellads.com
 buysellads.net
 bzclk.baidu.com
+c-adash.m.taobao.com
 c.bing.com
 c.live.com
 c.microsoft.com
@@ -1467,6 +1481,7 @@ loopme.me
 lotame.com
 lsosad.com
 luckyorange.com
+m-adash.m.taobao.com
 mads*.amazon.com
 mads*z.com
 mads.cnet.com
