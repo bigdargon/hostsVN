@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Mar 2021 15:44 UTC+7
-! Version: 2103031544
-! Blocked: 797 rules
+! Last modified: 03 Mar 2021 16:29 UTC+7
+! Version: 2103031629
+! Blocked: 798 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -565,6 +565,7 @@
 ||sv-api-event.headlines.pw^
 ||thongke.24h.com.vn^
 ||thongke.baotintuc.vn^
+||thongke.opencps.vn^
 ||thongke99.baogiaothong.vn^
 ||tka.tiki.vn^
 ||track-srv.vietnamnet.vn^

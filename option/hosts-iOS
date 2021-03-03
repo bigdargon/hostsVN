@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Mar 2021 15:44 UTC+7
-# Version: 2103031544
-# Blocked: 18,588 domains
+# Last modified: 03 Mar 2021 16:29 UTC+7
+# Version: 2103031629
+# Blocked: 18,589 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14338,6 +14338,7 @@
 0 sv-api-event.headlines.pw
 0 thongke.24h.com.vn
 0 thongke.baotintuc.vn
+0 thongke.opencps.vn
 0 thongke99.baogiaothong.vn
 0 tka.tiki.vn
 0 track-srv.vietnamnet.vn
