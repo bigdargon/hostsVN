@@ -596,23 +596,9 @@
 0.0.0.0 theme.ladipage.vn
 0.0.0.0 themes.ladipage.vn
 0.0.0.0 www.ladipage.vn
-#[ladipage.com]
-0.0.0.0 api.forms.ladipage.com
-0.0.0.0 api.ladipage.com
-0.0.0.0 builder.ladipage.com
-0.0.0.0 la.ladipage.com
-0.0.0.0 ladipage.com
-0.0.0.0 ladi.me
 #[ladipage.net]
 0.0.0.0 ladipage.net
 0.0.0.0 static.ladipage.net
-#[ladicdn.com]
-0.0.0.0 cdn.ladicdn.com
-0.0.0.0 g.ladicdn.com
-0.0.0.0 ladicdn.com
-0.0.0.0 v.ladicdn.com
-0.0.0.0 w.ladicdn.com
-0.0.0.0 www.ladicdn.com
 #[ladisales.com]
 0.0.0.0 api.ladisales.com
 0.0.0.0 ladisales.com
@@ -1440,3 +1426,9 @@
 0.0.0.0 logger.vsmarty.vn
 0.0.0.0 recommend-29.logger.vsmarty.vn
 0.0.0.0 tracker-29.logger.vsmarty.vn
+#[accesstrade.vn]
+0.0.0.0 ad.accesstrade.vn
+0.0.0.0 partner.accesstrade.vn
+0.0.0.0 service-api.accesstrade.vn
+0.0.0.0 static.accesstrade.vn
+0.0.0.0 track.accesstrade.vn

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Mar 2021 16:33 UTC+7
-# Version: 2103031633
-# Blocked: 18,589 domains
+# Last modified: 04 Mar 2021 10:08 UTC+7
+# Version: 2103041008
+# Blocked: 18,578 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13202,20 +13202,8 @@
 0 theme.ladipage.vn
 0 themes.ladipage.vn
 0 www.ladipage.vn
-0 api.forms.ladipage.com
-0 api.ladipage.com
-0 builder.ladipage.com
-0 la.ladipage.com
-0 ladipage.com
-0 ladi.me
 0 ladipage.net
 0 static.ladipage.net
-0 cdn.ladicdn.com
-0 g.ladicdn.com
-0 ladicdn.com
-0 v.ladicdn.com
-0 w.ladicdn.com
-0 www.ladicdn.com
 0 api.ladisales.com
 0 ladisales.com
 0 caohavan.ezimar.com
@@ -13954,11 +13942,15 @@
 0 logger.vsmarty.vn
 0 recommend-29.logger.vsmarty.vn
 0 tracker-29.logger.vsmarty.vn
+0 ad.accesstrade.vn
+0 partner.accesstrade.vn
+0 service-api.accesstrade.vn
+0 static.accesstrade.vn
+0 track.accesstrade.vn
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
 0 ad-admin.vnay.vn
 0 ad.24h.com.vn
-0 ad.accesstrade.vn
 0 ad.chieuhoa.com
 0 ad.eva.vn
 0 ad.happynest.vn
@@ -14308,7 +14300,6 @@
 0 mysapo.net
 0 newlog.daidoanket.vn
 0 nstat.headlines.pw
-0 partner.accesstrade.vn
 0 report.vnay.vn
 0 s.baomoi.xdn.vn
 0 s.homedy.com
@@ -14320,7 +14311,6 @@
 0 smetrics.kone.vn
 0 st-a.vtvdigital.vn
 0 stat.headlines.pw
-0 static.accesstrade.vn
 0 staticad.thethao247.vn
 0 statistic.batdongsan.com.vn
 0 statistics.tapchimypham.com.vn
@@ -14342,7 +14332,6 @@
 0 thongke99.baogiaothong.vn
 0 tka.tiki.vn
 0 track-srv.vietnamnet.vn
-0 track.accesstrade.vn
 0 track.icheck.com.vn
 0 track.kyna.vn
 0 track.lapa.pub

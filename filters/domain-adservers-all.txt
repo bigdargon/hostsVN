@@ -1,12 +1,13 @@
 ! Title: hostsVN
-! Last modified: 03 Mar 2021 16:33 UTC+7
-! Version: 2103031633
-! Blocked: 6,006 domains
+! Last modified: 04 Mar 2021 10:08 UTC+7
+! Version: 2103041008
+! Blocked: 6,004 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
+ad.accesstrade.vn
 ad.org.vn
 ad.zing.vn
 ad360.vn
@@ -86,9 +87,6 @@ hotngay.vn
 itim.vn
 kabbmedia.com
 klick.vn
-ladi.me
-ladicdn.com
-ladipage.com
 ladipage.net
 ladipage.vn
 ladisales.com
@@ -123,6 +121,7 @@ nv-ad.24hstatic.com
 ohchat.net
 oncustomer.asia
 onfluencer.net
+partner.accesstrade.vn
 phanquang.vn
 philacct.com
 photo-ads.zaloapp.com
@@ -144,6 +143,7 @@ qccoccocmedia.vn
 rungrinh.vn
 sbz.vn
 sdk.zadn.vn
+service-api.accesstrade.vn
 serving-system.com
 sharks.vn
 shop-cdn.coccoc.com
@@ -154,6 +154,7 @@ sourcetobin.com
 sporttv.today
 starseed.fr
 static-ads.zaloapp.com
+static.accesstrade.vn
 stats.zaloapp.com
 subiz-cdn.com
 subiz.com
@@ -164,6 +165,7 @@ surfcountor.com
 t.sieu-viet.com
 takataka.coccoc.com
 testcentre.vn
+track.accesstrade.vn
 tracking.api.media.zapps.vn
 tracking.playzing.g6.zing.vn
 tracking.tv.zing.vn
@@ -199,7 +201,6 @@ ztevents.zaloapp.com
 703531862.vws.vegacdn.vn
 ad-admin.vnay.vn
 ad.24h.com.vn
-ad.accesstrade.vn
 ad.chieuhoa.com
 ad.eva.vn
 ad.happynest.vn
@@ -533,7 +534,6 @@ myharavan.com
 mysapo.net
 newlog.daidoanket.vn
 nstat.headlines.pw
-partner.accesstrade.vn
 report.vnay.vn
 s.baomoi.xdn.vn
 s.homedy.com
@@ -545,7 +545,6 @@ sharefb.cnnd.vn
 smetrics.kone.vn
 st-a.vtvdigital.vn
 stat.headlines.pw
-static.accesstrade.vn
 staticad.thethao247.vn
 statistic.batdongsan.com.vn
 statistics.tapchimypham.com.vn
@@ -567,7 +566,6 @@ thongke.opencps.vn
 thongke99.baogiaothong.vn
 tka.tiki.vn
 track-srv.vietnamnet.vn
-track.accesstrade.vn
 track.icheck.com.vn
 track.kyna.vn
 track.lapa.pub
