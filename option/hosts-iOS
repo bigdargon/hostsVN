@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Mar 2021 10:08 UTC+7
-# Version: 2103041008
-# Blocked: 18,578 domains
+# Last modified: 07 Mar 2021 21:47 UTC+7
+# Version: 2103072147
+# Blocked: 18,612 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10459,24 +10459,6 @@
 0 video-library-mirror-9.showheroes.com
 0 website.showheroes.com
 0 www.showheroes.com
-0 dev-d1-rum-collector-2.pingdom.net
-0 dev-d1-rum-static-2.pingdom.net
-0 dev-rbc-api-data.pingdom.net
-0 flip-flipflop.pingdom.net
-0 pingdom.net
-0 rbc-api-data.pingdom.net
-0 ruem-collector.pingdom.net
-0 rum-collector.pingdom.net
-0 rum-collector-2.pingdom.net
-0 rum-dev-collector.pingdom.net
-0 rum-static.pingdom.net
-0 rum-static-2.pingdom.net
-0 st-dpa.pingdom.net
-0 st-flip-flipflop.pingdom.net
-0 st-rbc-api-data.pingdom.net
-0 st-www-4.pingdom.net
-0 www.pingdom.net
-0 www-4.pingdom.net
 0 api.trackpush.com
 0 client.trackpush.com
 0 growpush.trackpush.com
@@ -12139,6 +12121,7 @@
 0 xlog.snssdk.com
 0 log3-misc-hl.amemv.com
 0 log3-misc-lq.amemv.com
+0 log5-misc-lq.amemv.com
 0 adengine.snigelweb.com
 0 cdn.snigelweb.com
 0 geo-eu.snigelweb.com
@@ -12648,6 +12631,33 @@
 0 bannersnack.com
 0 cdn.bannersnack.com
 0 www.bannersnack.com
+0 cl.smac-ad.com
+0 js.smac-ad.com
+0 smac-ad.com
+0 www.smac-ad.com
+0 ads-router-noneu.truecaller.com
+0 ads.truecaller.com
+0 ads5-eu.truecaller.com
+0 ads5-noneu.truecaller.com
+0 ads5.truecaller.com
+0 appboycdn.com
+0 assets.appboycdn.com
+0 js.appboycdn.com
+0 www.appboycdn.com
+0 leadforensics.com
+0 ldynamicspublicapi.leadforensics.com
+0 pingdom.net
+0 rum-collector-2.pingdom.net
+0 rum-collector.pingdom.net
+0 rum-static.pingdom.net
+0 adalyser.com
+0 c0.adalyser.com
+0 c1.adalyser.com
+0 c2.adalyser.com
+0 c3.adalyser.com
+0 c5.adalyser.com
+0 tracking.adalyser.com
+0 www.adalyser.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14296,6 +14306,7 @@
 0 logsbin.dantri.com.vn
 0 logscafef.channelvn.net
 0 monitor.teko.vn
+0 mto.cgv.vn
 0 myharavan.com
 0 mysapo.net
 0 newlog.daidoanket.vn
@@ -14379,7 +14390,9 @@
 0 smilitygorb.club
 0 ucesreferre.club
 0 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
+0 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 0 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
+0 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0 1-1ads.com
 0 152media.info
@@ -14771,6 +14784,8 @@
 0 ads.ask.com
 0 ads.aspalliance.com
 0 ads.avazu.net
+0 ads.avct.cloud
+0 ads.avocet.io
 0 ads.belointeractive.com
 0 ads.betfair.com
 0 ads.bigchurch.com
@@ -15345,6 +15360,7 @@
 0 api.parse.com
 0 api.unthem.com
 0 app-promo.com
+0 appboy-images.com
 0 appclick.co
 0 appclick.net
 0 appdog.com
@@ -15411,6 +15427,7 @@
 0 automaticflock.com
 0 auweelta.net
 0 avenuea.com
+0 avfgoatbyyerys.com
 0 avocet.io
 0 avpa.javalobby.org
 0 avres.net
@@ -15819,6 +15836,7 @@
 0 contehos.com
 0 content.acc-hd.de
 0 content.bitsontherun.com
+0 content.mql5.com
 0 conversionruler.com
 0 convrse.media
 0 cookies.cmpnet.com
@@ -15891,6 +15909,7 @@
 0 cybermonitor.com
 0 d.appsdt.com
 0 d2cmedia.ca
+0 d3cod80thn7qnd.cloudfront.net
 0 d3mzokty951c5w.cloudfront.net
 0 dadslims.com
 0 dakic-ia-300.com
@@ -15972,6 +15991,7 @@
 0 doubleadserve.com
 0 doubleclick.com
 0 doubleclick.de
+0 doubleclickbygoogle.com
 0 doublepimpads.com
 0 doubtfulrainstorm.com
 0 downloadr.xyz
@@ -16212,6 +16232,7 @@
 0 getwisdom.io
 0 ggimg.tapas.net
 0 giddycoat.com
+0 glassmilheart.com
 0 globalismedia.com
 0 globaltakeoff.net
 0 globaltrack.com
@@ -16348,6 +16369,7 @@
 0 iabtechlab.com
 0 iad.anm.co.uk
 0 iadnet.com
+0 iads.staticscdn.net
 0 iapclick.gowadogo.com
 0 iasds01.com
 0 ib-ibi.com
@@ -16466,6 +16488,7 @@
 0 jivox.com
 0 jiwire.com
 0 joetec.net
+0 joeyzzvkpjha.com
 0 jokedollars.com
 0 jomtingi.net
 0 jugjetwok.com
@@ -16753,6 +16776,7 @@
 0 mxptint.net
 0 mxvp-ad-config-prod-1.zenmxapps.com
 0 mxvp-feature-toggle-prod-1.zenmxapps.com
+0 myad.mitrade.com
 0 myadsystem.com
 0 myaffiliateprogram.com
 0 myaffiliates.com
@@ -17848,6 +17872,7 @@
 0 vkcdn.online
 0 vmmpxl.com
 0 vmweb.net
+0 vogueoatgap.com
 0 voicevegetable.com
 0 vpon.com
 0 vrs.cz
@@ -17957,6 +17982,7 @@
 0 www.ambleads.com
 0 www.anrdoezrs.net
 0 www.antiadblocksystems.com
+0 www.avfgoatbyyerys.com
 0 www.axdsz.pro
 0 www.beauty-tea.com
 0 www.beharmalted.info
@@ -17972,6 +17998,7 @@
 0 www.cpm-ad.com
 0 www.displayvertising.com
 0 www.dnps.com
+0 www.doubleclickbygoogle.com
 0 www.dynamicadx.com
 0 www.ecpms.net
 0 www.emjcd.com
@@ -17986,6 +18013,7 @@
 0 www.groupm.com
 0 www.hkoxlirf.com
 0 www.increaserev.com
+0 www.joeyzzvkpjha.com
 0 www.kaplanindex.com
 0 www.ketchapp.org
 0 www.kiolim.com
@@ -18147,6 +18175,7 @@
 0 analytics.publitas.com
 0 analytics.samdd.me
 0 analytics.siliconexpert.com
+0 analytics.similarweb.com
 0 analytics.swiggy.com
 0 analytics.ziftsolutions.com
 0 analyticsapi.bsbportal.com
@@ -18227,6 +18256,7 @@
 0 down.nishuoa.com
 0 dualstack-logs.amap.com
 0 dynatrace.com
+0 e.crashlytics.com
 0 edigitalsurvey.com
 0 embed.tawk.to
 0 ethtrader.de
@@ -18342,6 +18372,7 @@
 0 netcore.co.in
 0 nexus.ensighten.com
 0 nonglirili.net
+0 notify.bugsnag.com
 0 nppmwatch.com
 0 npttech.com
 0 ns.zdbb.net
@@ -18389,6 +18420,7 @@
 0 redinvestor.com
 0 redretarget.com
 0 remyyadan.online.fr
+0 reports.crashlytics.com
 0 reports.ubimo.com
 0 reveal.clearbit.com
 0 richmetrics.com
@@ -18411,6 +18443,7 @@
 0 saspreview.com
 0 sc-static.net
 0 semantiqo.com
+0 sessions.bugsnag.com
 0 showbiz.owndata.network
 0 si.dailymail.co.uk
 0 simplesharebuttons.com
@@ -18435,6 +18468,7 @@
 0 stats.betradar.com
 0 stats.unlimapps.com
 0 stats.wp.com
+0 stats.xtb.com
 0 stats.xtraffic.xyz
 0 stats.zotabox.com
 0 statsforads.com

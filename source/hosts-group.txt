@@ -11066,25 +11066,6 @@
 0.0.0.0 video-library-mirror-9.showheroes.com
 0.0.0.0 website.showheroes.com
 0.0.0.0 www.showheroes.com
-#[pingdom.net]
-0.0.0.0 dev-d1-rum-collector-2.pingdom.net
-0.0.0.0 dev-d1-rum-static-2.pingdom.net
-0.0.0.0 dev-rbc-api-data.pingdom.net
-0.0.0.0 flip-flipflop.pingdom.net
-0.0.0.0 pingdom.net
-0.0.0.0 rbc-api-data.pingdom.net
-0.0.0.0 ruem-collector.pingdom.net
-0.0.0.0 rum-collector.pingdom.net
-0.0.0.0 rum-collector-2.pingdom.net
-0.0.0.0 rum-dev-collector.pingdom.net
-0.0.0.0 rum-static.pingdom.net
-0.0.0.0 rum-static-2.pingdom.net
-0.0.0.0 st-dpa.pingdom.net
-0.0.0.0 st-flip-flipflop.pingdom.net
-0.0.0.0 st-rbc-api-data.pingdom.net
-0.0.0.0 st-www-4.pingdom.net
-0.0.0.0 www.pingdom.net
-0.0.0.0 www-4.pingdom.net
 #[trackpush.com]
 0.0.0.0 api.trackpush.com
 0.0.0.0 client.trackpush.com
@@ -12928,6 +12909,7 @@
 #[amemv.com]
 0.0.0.0 log3-misc-hl.amemv.com
 0.0.0.0 log3-misc-lq.amemv.com
+0.0.0.0 log5-misc-lq.amemv.com
 #[snigelweb.com]
 0.0.0.0 adengine.snigelweb.com
 0.0.0.0 cdn.snigelweb.com
@@ -13526,3 +13508,36 @@
 0.0.0.0 bannersnack.com
 0.0.0.0 cdn.bannersnack.com
 0.0.0.0 www.bannersnack.com
+#[smac-ad.com]
+0.0.0.0 cl.smac-ad.com
+0.0.0.0 js.smac-ad.com
+0.0.0.0 smac-ad.com
+0.0.0.0 www.smac-ad.com
+#[ads.truecaller.com]
+0.0.0.0 ads-router-noneu.truecaller.com
+0.0.0.0 ads.truecaller.com
+0.0.0.0 ads5-eu.truecaller.com
+0.0.0.0 ads5-noneu.truecaller.com
+0.0.0.0 ads5.truecaller.com
+#[appboycdn.com]
+0.0.0.0 appboycdn.com
+0.0.0.0 assets.appboycdn.com
+0.0.0.0 js.appboycdn.com
+0.0.0.0 www.appboycdn.com
+#[leadforensics.com]
+0.0.0.0 leadforensics.com
+0.0.0.0 ldynamicspublicapi.leadforensics.com
+#[pingdom.net]
+0.0.0.0 pingdom.net
+0.0.0.0 rum-collector-2.pingdom.net
+0.0.0.0 rum-collector.pingdom.net
+0.0.0.0 rum-static.pingdom.net
+#[adalyser.com]
+0.0.0.0 adalyser.com
+0.0.0.0 c0.adalyser.com
+0.0.0.0 c1.adalyser.com
+0.0.0.0 c2.adalyser.com
+0.0.0.0 c3.adalyser.com
+0.0.0.0 c5.adalyser.com
+0.0.0.0 tracking.adalyser.com
+0.0.0.0 www.adalyser.com
