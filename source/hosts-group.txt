@@ -799,8 +799,8 @@
 0.0.0.0 eqx.smartadserver.com
 0.0.0.0 gallery.smartadserver.com
 0.0.0.0 im2.smartadserver.com
-0.0.0.0 itx5.smartadserver.com
 0.0.0.0 itx5-publicidad.smartadserver.com
+0.0.0.0 itx5.smartadserver.com
 0.0.0.0 jobs.smartadserver.com
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 preview.smartadserver.com
@@ -808,6 +808,7 @@
 0.0.0.0 prg8.smartadserver.com
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 smartadserver.com
+0.0.0.0 sync.smartadserver.com
 0.0.0.0 tcy.smartadserver.com
 0.0.0.0 tmk.smartadserver.com
 0.0.0.0 www.smartadserver.com
@@ -1668,48 +1669,50 @@
 0.0.0.0 playads.applift.com
 0.0.0.0 www.applift.com
 0.0.0.0 tracking.applift.com
-#[xiaomi]
-0.0.0.0 api.ad.xiaomi.com
-0.0.0.0 api.admob.xiaomi.com
-0.0.0.0 api.d.xiaomi.com
+#[xiaomi.com]
 0.0.0.0 a.stat.xiaomi.com
-0.0.0.0 tracking.miui.com
+0.0.0.0 api.d.xiaomi.com
+0.0.0.0 sgp.o2o.api.xiaomi.com
+#[ad.xiaomi.com]
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 cdn.ad.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 e.ad.xiaomi.com
 0.0.0.0 globalapi.ad.xiaomi.com
-0.0.0.0 new.api.ad.xiaomi.com
+0.0.0.0 log.ad.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 ssp.ad.xiaomi.com
-0.0.0.0 test.ad.xiaomi.com
-0.0.0.0 test.e.ad.xiaomi.com
-0.0.0.0 test.new.api.ad.xiaomi.com
+0.0.0.0 track.ad.xiaomi.com
+0.0.0.0 zeus.ad.xiaomi.com
+#[intl.xiaomi.com]
 0.0.0.0 cc.sys.intl.xiaomi.com
-0.0.0.0 cc.sys.miui.com
-0.0.0.0 ccc.sys.miui.com
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 geofence.sys.miui.com
-0.0.0.0 abtest.mistat.xiaomi.com
-0.0.0.0 abtest.mistat.intl.xiaomi.com
-0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
-0.0.0.0 fcanr.tracking.miui.com
+#[ad.intl.xiaomi.com]
+0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 tracking.intl.miui.com
+#[mistat.xiaomi.com]
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 abtest.mistat.xiaomi.com
+#[tracking.miui.com]
+0.0.0.0 fcanr.tracking.miui.com
+0.0.0.0 tracking.miui.com
+#[intl.miui.com]
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.collect.data.intl.miui.com
-0.0.0.0 api.hybrid.intl.xiaomi.com
 0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 data.sec.intl.miui.com
-0.0.0.0 zeus.ad.xiaomi.com
-0.0.0.0 www.api.ad.intl.xiaomi.com
-0.0.0.0 sgp.o2o.api.xiaomi.com
 0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 sa.api.intl.miui.com
+0.0.0.0 tracking.intl.miui.com
+#[sys.miui.com]
+0.0.0.0 cc.sys.miui.com
+0.0.0.0 ccc.sys.miui.com
+0.0.0.0 geofence.sys.miui.com
 #[cloudmobi]
 0.0.0.0 cloudmobi.net
 0.0.0.0 api.cloudmobi.net
@@ -7062,6 +7065,7 @@
 0.0.0.0 bidswitch.net
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 pdc.bidswitch.net
+0.0.0.0 pool.grid-data.bidswitch.net
 0.0.0.0 r.bidswitch.net
 0.0.0.0 sb.bidswitch.net
 0.0.0.0 www.bidswitch.net
@@ -7926,6 +7930,7 @@
 0.0.0.0 rtb-srv-mrs.nxtck.com
 0.0.0.0 rtb-yahoo-gus.nxtck.com
 #[ml314.com]
+0.0.0.0 cdn.ml314.com
 0.0.0.0 in.ml314.com
 0.0.0.0 ml314.com
 0.0.0.0 rtg.ml314.com
@@ -13541,3 +13546,52 @@
 0.0.0.0 c5.adalyser.com
 0.0.0.0 tracking.adalyser.com
 0.0.0.0 www.adalyser.com
+#[traq.li]
+0.0.0.0 api.traq.li
+0.0.0.0 traq.li
+0.0.0.0 www.traq.li
+#[narrativ.com]
+0.0.0.0 api.narrativ.com
+0.0.0.0 narrativ.com
+0.0.0.0 static.narrativ.com
+0.0.0.0 www.narrativ.com
+#[dotmetrics.net]
+0.0.0.0 dotmetrics.net
+0.0.0.0 script.dotmetrics.net
+0.0.0.0 uk-script.dotmetrics.net
+#[rlcdn.com]
+0.0.0.0 api.rlcdn.com
+0.0.0.0 ats.rlcdn.com
+0.0.0.0 cdn.rlcdn.com
+0.0.0.0 ei.rlcdn.com
+0.0.0.0 geo.rlcdn.com
+0.0.0.0 idsync.rlcdn.com
+0.0.0.0 rc-ext-geo.rlcdn.com
+0.0.0.0 rlcdn.com
+0.0.0.0 so.rlcdn.com
+0.0.0.0 sr-weight.rlcdn.com
+0.0.0.0 tv.rlcdn.com
+#[videoadex.com]
+0.0.0.0 ads.videoadex.com
+0.0.0.0 videoadex.com
+#[btloader.com]
+0.0.0.0 api.btloader.com
+0.0.0.0 btloader.com
+#[truoptik.com]
+0.0.0.0 dmp.truoptik.com
+0.0.0.0 truoptik.com
+0.0.0.0 www.truoptik.com
+#[360yield.com]
+0.0.0.0 360yield.com
+0.0.0.0 ad.360yield.com
+0.0.0.0 ad2.360yield.com
+0.0.0.0 ads.360yield.com
+0.0.0.0 ice.360yield.com
+0.0.0.0 match.360yield.com
+0.0.0.0 na-ice.360yield.com
+#[undertone.com]
+0.0.0.0 ads.undertone.com
+0.0.0.0 cdn.undertone.com
+0.0.0.0 hb.undertone.com
+0.0.0.0 undertone.com
+0.0.0.0 www.undertone.com

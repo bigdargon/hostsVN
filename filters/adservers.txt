@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Mar 2021 21:47 UTC+7
-! Version: 2103072147
-! Blocked: 806 rules
+! Last modified: 11 Mar 2021 14:10 UTC+7
+! Version: 2103111410
+! Blocked: 809 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -136,7 +136,6 @@
 ||pushdy.com^
 ||pushdy.vn^
 ||pushtimize.com^
-||px.za.zalo.me^
 ||px.za.zaloapp.com^
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^
@@ -187,6 +186,7 @@
 ||yoads.network^
 ||yomedia.vn^
 ||younetmedia.com^
+||za.zalo.me^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
 ||zalo-ads-480-td.zadn.vn^
@@ -460,6 +460,7 @@
 ||counter.ntdvn.com^
 ||crm.bizfly.vn^
 ||crmbizfly.todo.vn^
+||elink.nhanlucnganhluat.vn^
 ||elogs.vnexpress.net^
 ||event.headlines.pw^
 ||event.vntoday.news^
@@ -563,11 +564,13 @@
 ||stats.vietnammoi.vn^
 ||stracking.zalopay.vn^
 ||sv-api-event.headlines.pw^
+||ta.toprework.vn^
 ||thongke.24h.com.vn^
 ||thongke.baotintuc.vn^
 ||thongke.opencps.vn^
 ||thongke99.baogiaothong.vn^
 ||tka.tiki.vn^
+||tr.topdevvn.com^
 ||track-srv.vietnamnet.vn^
 ||track.icheck.com.vn^
 ||track.kyna.vn^

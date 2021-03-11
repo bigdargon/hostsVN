@@ -6,7 +6,6 @@
 0.0.0.0 247media.com
 0.0.0.0 24log.com
 0.0.0.0 24log.de
-0.0.0.0 360yield.com
 0.0.0.0 4d5.net
 0.0.0.0 4info.com
 0.0.0.0 4mads.com
@@ -611,7 +610,6 @@
 0.0.0.0 ads.uknetguide.co.uk
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
-0.0.0.0 ads.undertone.com
 0.0.0.0 ads.usatoday.com
 0.0.0.0 ads.valueimpression.com
 0.0.0.0 ads.verticalresponse.com
@@ -1852,7 +1850,6 @@
 0.0.0.0 go.mobisla.com
 0.0.0.0 go.onclasrv.com
 0.0.0.0 go.padstm.com
-0.0.0.0 go.trvdp.com
 0.0.0.0 go2affise.com
 0.0.0.0 goadservices.com
 0.0.0.0 goingplatinum.com
@@ -2827,7 +2824,6 @@
 0.0.0.0 realteencash.com
 0.0.0.0 realtracker.com
 0.0.0.0 rebelsubway.com
-0.0.0.0 rebrand.ly
 0.0.0.0 receptiveink.com
 0.0.0.0 receptivereaction.com
 0.0.0.0 record.affiliates.karjalakasino.com
@@ -2883,7 +2879,6 @@
 0.0.0.0 ritzysponge.com
 0.0.0.0 riverhit.com
 0.0.0.0 rkdms.com
-0.0.0.0 rlcdn.com
 0.0.0.0 rle.ru
 0.0.0.0 rmedia.boston.com
 0.0.0.0 rmiesnorthur.pro
@@ -3142,7 +3137,6 @@
 0.0.0.0 steadfastsound.com
 0.0.0.0 steadfastsystem.com
 0.0.0.0 steelhouse.com
-0.0.0.0 stg.truvidplayer.com
 0.0.0.0 stickssheep.com
 0.0.0.0 storesurprise.com
 0.0.0.0 stormyachiever.com
@@ -3404,7 +3398,6 @@
 0.0.0.0 unanimis.co.uk
 0.0.0.0 unarmedindustry.com
 0.0.0.0 underdog.media
-0.0.0.0 undertone.com
 0.0.0.0 unknowntray.com
 0.0.0.0 unmortalloose.com
 0.0.0.0 unreshiramor.com
@@ -3457,7 +3450,6 @@
 0.0.0.0 viaslyeve.club
 0.0.0.0 vibrantmedia.com
 0.0.0.0 vidcpm.com
-0.0.0.0 videoadex.com
 0.0.0.0 videoegg.com
 0.0.0.0 videosprofitnetwork.com
 0.0.0.0 vidora.com
@@ -3748,13 +3740,17 @@
 0.0.0.0 adtrack.king.com
 0.0.0.0 akuaba.chez.com
 0.0.0.0 analysis.polarisoffice.com
+0.0.0.0 analytics-au.clickdimensions.com
+0.0.0.0 analytics-ca.clickdimensions.com
 0.0.0.0 analytics-digit-in.cdn.ampproject.org
+0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics.agoda.com
 0.0.0.0 analytics.ahrefs.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.ccgateway.net
+0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.diyriver.io
 0.0.0.0 analytics.edgesuite.net
@@ -3858,7 +3854,6 @@
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 do-not-tracker.org
 0.0.0.0 dolohen.com
-0.0.0.0 dotmetrics.net
 0.0.0.0 down.nishuoa.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 dynatrace.com
@@ -3951,6 +3946,8 @@
 0.0.0.0 log.tutuapp.com
 0.0.0.0 log.umsns.com
 0.0.0.0 log.ventunotech.com
+0.0.0.0 log.zoom.us
+0.0.0.0 logfiles.zoom.us
 0.0.0.0 logger.unsplash.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logsss.com
@@ -3988,6 +3985,7 @@
 0.0.0.0 opensharecount.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optnmstr.com
+0.0.0.0 p.trvdp.com
 0.0.0.0 p.typekit.net
 0.0.0.0 pebed.dm.gg
 0.0.0.0 pegloang.com
@@ -4050,6 +4048,7 @@
 0.0.0.0 sc-static.net
 0.0.0.0 semantiqo.com
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 sg.a.stat.mi.com
 0.0.0.0 showbiz.owndata.network
 0.0.0.0 si.dailymail.co.uk
 0.0.0.0 simplesharebuttons.com

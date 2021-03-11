@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 07 Mar 2021 21:47 UTC+7
-! Version: 2103072147
-! Blocked: 6,042 domains
+! Last modified: 11 Mar 2021 14:10 UTC+7
+! Version: 2103111410
+! Blocked: 6,077 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -134,7 +134,6 @@ pushdi.com
 pushdy.com
 pushdy.vn
 pushtimize.com
-px.za.zalo.me
 px.za.zaloapp.com
 qc-static.coccoc.com
 qc.coccoc.com
@@ -185,6 +184,7 @@ yoads.net
 yoads.network
 yomedia.vn
 younetmedia.com
+za.zalo.me
 zalo-ads-240-td.zadn.vn
 zalo-ads-240.zadn.vn
 zalo-ads-480-td.zadn.vn
@@ -458,6 +458,7 @@ counter.24h.com.vn
 counter.ntdvn.com
 crm.bizfly.vn
 crmbizfly.todo.vn
+elink.nhanlucnganhluat.vn
 elogs.vnexpress.net
 event.headlines.pw
 event.vntoday.news
@@ -561,11 +562,13 @@ stats.tamdiem247.com
 stats.vietnammoi.vn
 stracking.zalopay.vn
 sv-api-event.headlines.pw
+ta.toprework.vn
 thongke.24h.com.vn
 thongke.baotintuc.vn
 thongke.opencps.vn
 thongke99.baogiaothong.vn
 tka.tiki.vn
+tr.topdevvn.com
 track-srv.vietnamnet.vn
 track.icheck.com.vn
 track.kyna.vn
@@ -810,7 +813,6 @@ kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
-adalyser.com
 152media.com
 1rx.io
 1ts06.top
@@ -819,11 +821,13 @@ adalyser.com
 2mdnsys.com
 33across.com
 360in.com
+360yield.com
 3lift.com
 4dsply.com
 88-f.net
 a-ads.com
 a-mo.net
+a.stat.xiaomi.com
 a4.tl
 a8.net
 aaddcount.com
@@ -845,12 +849,15 @@ ad.daum.net
 ad.download.cnet.com
 ad.go.com
 ad.gt
+ad.intl.xiaomi.com
 ad.plus
 ad.qq.com
 ad.style
+ad.xiaomi.com
 ad4game.com
 ad4screen.com
 adadvisor.net
+adalyser.com
 adap.tv
 adash.m.taobao.com
 adashbc.m.taobao.com
@@ -980,6 +987,7 @@ adtng.com
 adtrackers.net
 adtrue.com
 adup-tech.com
+adv.sec.intl.miui.com
 advangelists.com
 advergine.com
 advergine.ru
@@ -1048,6 +1056,11 @@ aniview.com
 answers.com
 aper.pw
 api.ads.*.go.com
+api.brs.intl.miui.com
+api.collect.data.intl.miui.com
+api.d.xiaomi.com
+api.sec.intl.miui.com
+api.setting.intl.miui.com
 apoll.m.taobao.com
 app-adforce.jp
 app-analytics*.snapchat.com
@@ -1088,6 +1101,7 @@ askingpoint.com
 assoc-amazon.com
 atdmt.com
 atemda.com
+authbe.sec.intl.miui.com
 automatad.com
 auxml.com
 avazutracking.net
@@ -1157,6 +1171,7 @@ breaktime.com.tw
 brealtime.com
 browsiprod.com
 bs.yandex.ru
+btloader.com
 btrace.qq.com
 btrace.video.qq.com
 bttrack.com
@@ -1174,6 +1189,10 @@ caclick.baidu.com
 casalemedia.com
 cbsileads.com
 cbsinteractive.com
+cc.sys.intl.xiaomi.com
+cc.sys.miui.com
+ccc.sys.intl.xiaomi.com
+ccc.sys.miui.com
 cdnads.com
 cdnwidget.com
 celtra.com
@@ -1259,6 +1278,8 @@ d47xnnr8b1rki.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 darfilms.com
 data.alexa.com
+data.mistat.intl.xiaomi.com
+data.sec.intl.miui.com
 datatrics.com
 dc-1.net
 deepintent.com
@@ -1275,6 +1296,7 @@ djaxadserver.com
 dl1d2m8ri9v3j.cloudfront.net
 dm-event.net
 domnovrek.com
+dotmetrics.net
 dotomi.com
 doubleclick.net
 doublemax.net
@@ -1327,6 +1349,7 @@ filament-stats.herokuapp.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firstimpression.io
+flash.sec.intl.miui.com
 flashtalking.com
 fls-*.amazon.*
 fls-*.amazon.com
@@ -1349,6 +1372,7 @@ gdt.qq.com
 gemini.yahoo.com
 genieessp.com
 geo.yahoo.com
+geofence.sys.miui.com
 getadmiral.com
 getblueshift.com
 getclicky.com
@@ -1536,6 +1560,7 @@ microad.net
 microadinc.com
 millennialmedia.com
 mirs.com
+mistat.xiaomi.com
 mixpanel.com
 ml314.com
 mmccint.com
@@ -1584,6 +1609,7 @@ mydas.mobi
 myfastcdn.com
 n*adserv.com
 n*adserv.xyz
+narrativ.com
 navdmp.com
 ncaudienceexchange.com
 nend.net
@@ -1732,6 +1758,7 @@ revrtb.net
 rfihub.com
 rfrl.pw
 richmediaads.com
+rlcdn.com
 rmp.rakuten.com
 rmtag.com
 rosenberg.appmetrica.yandex.net
@@ -1749,6 +1776,7 @@ runative-syndicate.com
 runative.com
 s-onetag.com
 s4d.xyz
+sa.api.intl.miui.com
 sads*z.com
 safedk.com
 sail-horizon.com
@@ -1774,6 +1802,7 @@ serverbid.com
 services.disqus.com
 serving-sys.com
 serving1.net
+sgp.o2o.api.xiaomi.com
 shareaholic.com
 sharethis.com
 sharethrough.com
@@ -1820,6 +1849,7 @@ steelhousemedia.com
 steepto.com
 stickyadstv.com
 stocks-analytics-events.apple.com
+storeconfig.mistat.intl.xiaomi.com
 storiespace.com
 styria-digital.com
 sumome.com
@@ -1843,11 +1873,14 @@ toponad.com
 tr.snapchat.com
 trace.qq.com
 track.uc.cn
+tracking.intl.miui.com
+tracking.miui.com
 trackjs.com
 trackpush.com
 trafficfactory.biz
 trafficjunky.net
 trafficstars.com
+traq.li
 trazk.com
 treasuredata.com
 tremorhub.com
@@ -1855,6 +1888,7 @@ triplelift.com
 trk.pinterest.com
 trk2.pinterest.com
 tru.am
+truoptik.com
 tsyndicate.com
 tune.com
 turn.com
@@ -1867,6 +1901,7 @@ ugdturner.com
 umeng.co
 umeng.com
 umengcloud.com
+undertone.com
 uniconsent.com
 unionstatistics.com
 unityads.unity3d.com
@@ -1888,6 +1923,7 @@ vev77.com
 vi-serve.com
 viadata.store
 vicksot.com
+videoadex.com
 videohub.tv
 viruspro.pro
 visit.webhosting.yahoo.com
@@ -1956,7 +1992,6 @@ zx-adnet.com
 247media.com
 24log.com
 24log.de
-360yield.com
 4d5.net
 4info.com
 4mads.com
@@ -2563,7 +2598,6 @@ ads.tso.dennisnet.co.uk
 ads.uknetguide.co.uk
 ads.ultimate-guitar.com
 ads.uncrate.com
-ads.undertone.com
 ads.usatoday.com
 ads.valueimpression.com
 ads.verticalresponse.com
@@ -3805,7 +3839,6 @@ go-rillatrack.com
 go.mobisla.com
 go.onclasrv.com
 go.padstm.com
-go.trvdp.com
 go2affise.com
 goadservices.com
 goingplatinum.com
@@ -4783,7 +4816,6 @@ realtechnetwork.com
 realteencash.com
 realtracker.com
 rebelsubway.com
-rebrand.ly
 receptiveink.com
 receptivereaction.com
 record.affiliates.karjalakasino.com
@@ -4839,7 +4871,6 @@ ritzykey.com
 ritzysponge.com
 riverhit.com
 rkdms.com
-rlcdn.com
 rle.ru
 rmedia.boston.com
 rmiesnorthur.pro
@@ -5098,7 +5129,6 @@ stazumik.net
 steadfastsound.com
 steadfastsystem.com
 steelhouse.com
-stg.truvidplayer.com
 stickssheep.com
 storesurprise.com
 stormyachiever.com
@@ -5360,7 +5390,6 @@ ulukaris.com
 unanimis.co.uk
 unarmedindustry.com
 underdog.media
-undertone.com
 unknowntray.com
 unmortalloose.com
 unreshiramor.com
@@ -5413,7 +5442,6 @@ vi-tag.net
 viaslyeve.club
 vibrantmedia.com
 vidcpm.com
-videoadex.com
 videoegg.com
 videosprofitnetwork.com
 vidora.com
@@ -5612,13 +5640,17 @@ adj.st
 adtrack.king.com
 akuaba.chez.com
 analysis.polarisoffice.com
+analytics-au.clickdimensions.com
+analytics-ca.clickdimensions.com
 analytics-digit-in.cdn.ampproject.org
+analytics-eu.clickdimensions.com
 analytics-production.hapyak.com
 analytics.agoda.com
 analytics.ahrefs.com
 analytics.archive.org
 analytics.bitrix.info
 analytics.ccgateway.net
+analytics.clickdimensions.com
 analytics.cloudron.io
 analytics.diyriver.io
 analytics.edgesuite.net
@@ -5722,7 +5754,6 @@ dmxleo.com
 dnn506yrbagrg.cloudfront.net
 do-not-tracker.org
 dolohen.com
-dotmetrics.net
 down.nishuoa.com
 dualstack-logs.amap.com
 dynatrace.com
@@ -5815,6 +5846,8 @@ log.snapdeal.com
 log.tutuapp.com
 log.umsns.com
 log.ventunotech.com
+log.zoom.us
+logfiles.zoom.us
 logger.unsplash.com
 logs.amap.com
 logsss.com
@@ -5852,6 +5885,7 @@ online-prod.zenmxapps.com
 opensharecount.com
 ophan.theguardian.com
 optnmstr.com
+p.trvdp.com
 p.typekit.net
 pebed.dm.gg
 pegloang.com
@@ -5914,6 +5948,7 @@ saspreview.com
 sc-static.net
 semantiqo.com
 sessions.bugsnag.com
+sg.a.stat.mi.com
 showbiz.owndata.network
 si.dailymail.co.uk
 simplesharebuttons.com

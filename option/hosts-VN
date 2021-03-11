@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Mar 2021 21:47 UTC+7
-# Version: 2103072147
-# Blocked: 1,736 domains
+# Last modified: 11 Mar 2021 14:10 UTC+7
+# Version: 2103111410
+# Blocked: 1,740 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -519,7 +519,9 @@
 #[zalo.me]
 0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.zalo.me
+#[za.zalo.me]
 0.0.0.0 px.za.zalo.me
+0.0.0.0 za.zalo.me
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 centralized.zaloapp.com
@@ -1723,6 +1725,7 @@
 0.0.0.0 counter.ntdvn.com
 0.0.0.0 crm.bizfly.vn
 0.0.0.0 crmbizfly.todo.vn
+0.0.0.0 elink.nhanlucnganhluat.vn
 0.0.0.0 elogs.vnexpress.net
 0.0.0.0 event.headlines.pw
 0.0.0.0 event.vntoday.news
@@ -1826,11 +1829,13 @@
 0.0.0.0 stats.vietnammoi.vn
 0.0.0.0 stracking.zalopay.vn
 0.0.0.0 sv-api-event.headlines.pw
+0.0.0.0 ta.toprework.vn
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 thongke.baotintuc.vn
 0.0.0.0 thongke.opencps.vn
 0.0.0.0 thongke99.baogiaothong.vn
 0.0.0.0 tka.tiki.vn
+0.0.0.0 tr.topdevvn.com
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track.icheck.com.vn
 0.0.0.0 track.kyna.vn

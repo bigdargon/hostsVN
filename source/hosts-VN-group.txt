@@ -507,7 +507,9 @@
 #[zalo.me]
 0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.zalo.me
+#[za.zalo.me]
 0.0.0.0 px.za.zalo.me
+0.0.0.0 za.zalo.me
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 centralized.zaloapp.com
