@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Mar 2021 09:24 UTC+7
-# Version: 2103120924
-# Blocked: 1,740 domains
+# Last modified: 12 Mar 2021 14:02 UTC+7
+# Version: 2103121402
+# Blocked: 1,741 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1879,6 +1879,7 @@
 0.0.0.0 bloodleian.club
 0.0.0.0 celerantatters.com
 0.0.0.0 hashearog.com
+0.0.0.0 i-vietcombank.com
 0.0.0.0 larpollicwilli.club
 0.0.0.0 rituationscardb.info
 0.0.0.0 sacchaeleduk.com

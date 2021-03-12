@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Mar 2021 09:24 UTC+7
-! Version: 2103120924
-! Blocked: 809 rules
+! Last modified: 12 Mar 2021 14:02 UTC+7
+! Version: 2103121402
+! Blocked: 810 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -805,6 +805,7 @@
 ||bloodleian.club^
 ||celerantatters.com^
 ||hashearog.com^
+||i-vietcombank.com^
 ||larpollicwilli.club^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
