@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 11 Mar 2021 14:10 UTC+7
-! Version: 2103111410
-! Blocked: 6,077 rules
+! Last modified: 12 Mar 2021 09:24 UTC+7
+! Version: 2103120924
+! Blocked: 6,080 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1139,6 +1139,7 @@
 ||bee7.com^
 ||beeketing.com^
 ||bestads.me^
+||bestcontentfood.top^
 ||betrad.com^
 ||beverly-downing.xyz^
 ||bfmio.com^
@@ -5866,6 +5867,7 @@
 ||metricfast.com^
 ||metrics.brightcove.com^
 ||metrics.cloudflarebolt.com^
+||metrics.redgifs.com^
 ||metrics.sdkbox.com^
 ||mobiletelemetry.ebay.com^
 ||mon.toutiaocloud.com^
@@ -5916,6 +5918,7 @@
 ||prooffactor.com^
 ||propeller-tracking.com^
 ||pv.sohu.com^
+||px.redgifs.com^
 ||q.quora.com^
 ||q2melbourne.com^
 ||qqkabb.com^

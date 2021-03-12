@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Mar 2021 14:10 UTC+7
-# Version: 2103111410
-# Blocked: 18,653 domains
+# Last modified: 12 Mar 2021 09:24 UTC+7
+# Version: 2103120924
+# Blocked: 18,660 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13607,6 +13607,12 @@
 0.0.0.0 hb.undertone.com
 0.0.0.0 undertone.com
 0.0.0.0 www.undertone.com
+#[bestcontentfood.top]
+0.0.0.0 a.bestcontentfood.top
+0.0.0.0 b.bestcontentfood.top
+0.0.0.0 bestcontentfood.top
+0.0.0.0 cdn3.bestcontentfood.top
+0.0.0.0 i.bestcontentfood.top
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -19453,6 +19459,7 @@
 0.0.0.0 metricfast.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cloudflarebolt.com
+0.0.0.0 metrics.redgifs.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 mon.toutiaocloud.com
@@ -19503,6 +19510,7 @@
 0.0.0.0 prooffactor.com
 0.0.0.0 propeller-tracking.com
 0.0.0.0 pv.sohu.com
+0.0.0.0 px.redgifs.com
 0.0.0.0 q.quora.com
 0.0.0.0 q2melbourne.com
 0.0.0.0 qqkabb.com
