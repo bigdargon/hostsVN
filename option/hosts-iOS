@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Mar 2021 14:02 UTC+7
-# Version: 2103121402
-# Blocked: 18,662 domains
+# Last modified: 12 Mar 2021 20:30 UTC+7
+# Version: 2103122030
+# Blocked: 18,663 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13211,6 +13211,7 @@
 0 org.zaloapp.ads.zdn.vn
 0 zaloads-480.zdn.vn
 0 zplayer-trk.zdn.vn
+0 analytics.zapps.vn
 0 tracking.api.media.zapps.vn
 0 zplayer.trk.zapps.vn
 0 ad-deliver.yomedia.vn

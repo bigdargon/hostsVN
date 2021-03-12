@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Mar 2021 14:02 UTC+7
-# Version: 2103121402
-# Blocked: 1,741 domains
+# Last modified: 12 Mar 2021 20:30 UTC+7
+# Version: 2103122030
+# Blocked: 1,742 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -560,6 +560,7 @@
 0.0.0.0 zaloads-480.zdn.vn
 0.0.0.0 zplayer-trk.zdn.vn
 #[zapps.vn]
+0.0.0.0 analytics.zapps.vn
 0.0.0.0 tracking.api.media.zapps.vn
 0.0.0.0 zplayer.trk.zapps.vn
 #[yomedia]
