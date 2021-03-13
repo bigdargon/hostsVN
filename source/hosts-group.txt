@@ -112,6 +112,7 @@
 #[adservice.google.*]
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.vn
+0.0.0.0 adservice.google.de
 #[googlesyndication.com]
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
@@ -2235,12 +2236,19 @@
 0.0.0.0 worker2.advertnative.com
 0.0.0.0 worker3.advertnative.com
 0.0.0.0 worker4.advertnative.com
-#[toast]
+#[toast.com]
+0.0.0.0 ace-sync.toast.com
+0.0.0.0 adlc-exchange.toast.com
+0.0.0.0 adx-exchange.toast.com
 0.0.0.0 analytics.toast.com
-0.0.0.0 alpha-analytics.toast.com
-0.0.0.0 redirect-analytics.toast.com
+0.0.0.0 api-campaign-analytics.cloud.toast.com
 0.0.0.0 api-log-analytics.cloud.toast.com
 0.0.0.0 api-webrp-analytics.cloud.toast.com
+0.0.0.0 cm-exchange.toast.com
+0.0.0.0 redirect-analytics.toast.com
+#[tagmanager.toast.com]
+0.0.0.0 tagmanager.toast.com
+0.0.0.0 static.tagmanager.toast.com
 #[getadmiral]
 0.0.0.0 getadmiral.com
 0.0.0.0 partner.api.getadmiral.com
@@ -6661,38 +6669,6 @@
 0.0.0.0 ru.x.cnt.my
 0.0.0.0 www.cnt.my
 0.0.0.0 x.cnt.my
-#[ematicsolutions.com]
-0.0.0.0 analytics.ematicsolutions.com
-0.0.0.0 analytics-development.ematicsolutions.com
-0.0.0.0 api.ematicsolutions.com
-0.0.0.0 api2.ematicsolutions.com
-0.0.0.0 apk-api.ematicsolutions.com
-0.0.0.0 billing-development.ematicsolutions.com
-0.0.0.0 bye-images.ematicsolutions.com
-0.0.0.0 cse-api.ematicsolutions.com
-0.0.0.0 cse-dev2-api.ematicsolutions.com
-0.0.0.0 cse-dev-api.ematicsolutions.com
-0.0.0.0 cse-prod.ematicsolutions.com
-0.0.0.0 cse-prod2.ematicsolutions.com
-0.0.0.0 ematicsolutions.com
-0.0.0.0 fb-connect.ematicsolutions.com
-0.0.0.0 graylog.ematicsolutions.com
-0.0.0.0 haravan.ematicsolutions.com
-0.0.0.0 magento1.ematicsolutions.com
-0.0.0.0 platform.ematicsolutions.com
-0.0.0.0 pmm.ematicsolutions.com
-0.0.0.0 sg1-api.ematicsolutions.com
-0.0.0.0 sg2-api.ematicsolutions.com
-0.0.0.0 sg3-api.ematicsolutions.com
-0.0.0.0 sg4-api.ematicsolutions.com
-0.0.0.0 sg5-api.ematicsolutions.com
-0.0.0.0 sg6-api.ematicsolutions.com
-0.0.0.0 sg7-api.ematicsolutions.com
-0.0.0.0 shopify.ematicsolutions.com
-0.0.0.0 shopify-development.ematicsolutions.com
-0.0.0.0 squeezegr8.ematicsolutions.com
-0.0.0.0 www.ematicsolutions.com
-0.0.0.0 zabbix.ematicsolutions.com
 #[sociaplus.com]
 0.0.0.0 api.sociaplus.com
 0.0.0.0 hit.api.sociaplus.com
@@ -12980,6 +12956,8 @@
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 caclick.baidu.com
 0.0.0.0 eclick.baidu.com
+0.0.0.0 fclog.baidu.com
+0.0.0.0 fxgate.baidu.com
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 hmma.baidu.com
 0.0.0.0 imgstat.baidu.com
@@ -13601,3 +13579,48 @@
 0.0.0.0 bestcontentfood.top
 0.0.0.0 cdn3.bestcontentfood.top
 0.0.0.0 i.bestcontentfood.top
+#[mob.com]
+0.0.0.0 applink.mob.com
+0.0.0.0 api.applink.mob.com
+0.0.0.0 data.mob.com
+0.0.0.0 c.data.mob.com
+0.0.0.0 devs.data.mob.com
+0.0.0.0 m.data.mob.com
+0.0.0.0 exc.mob.com
+0.0.0.0 api.exc.mob.com
+0.0.0.0 gm.mob.com
+0.0.0.0 f.gm.mob.com
+0.0.0.0 l.gm.mob.com
+0.0.0.0 adnet.mob.com
+0.0.0.0 api.adnet.mob.com
+0.0.0.0 moblink.mob.com
+0.0.0.0 api.moblink.mob.com
+0.0.0.0 push.mob.com
+0.0.0.0 sdk.push.mob.com
+0.0.0.0 tcp.push.mob.com
+0.0.0.0 k.tcp.push.mob.com
+0.0.0.0 l.tcp.push.mob.com
+0.0.0.0 udp.push.mob.com
+0.0.0.0 share.mob.com
+0.0.0.0 api.share.mob.com
+#[naver.com]
+0.0.0.0 ad.naver.com
+0.0.0.0 adlog.shopping.naver.com
+0.0.0.0 er.search.naver.com
+0.0.0.0 l.m.naver.com
+0.0.0.0 lcs.naver.com
+0.0.0.0 nil.naver.com
+0.0.0.0 sp.naver.com
+0.0.0.0 tivan.naver.com
+0.0.0.0 veta.naver.com
+#[sociomantic.com]
+0.0.0.0 ap-sonar.sociomantic.com
+0.0.0.0 api.sociomantic.com
+0.0.0.0 eu-sonar.sociomantic.com
+0.0.0.0 sociomantic.com
+0.0.0.0 us-sonar.sociomantic.com
+0.0.0.0 www.sociomantic.com
+#[ematicsolutions.com]
+0.0.0.0 api.ematicsolutions.com
+0.0.0.0 ematicsolutions.com
+0.0.0.0 www.ematicsolutions.com

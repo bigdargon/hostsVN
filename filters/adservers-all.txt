@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 Mar 2021 20:30 UTC+7
-! Version: 2103122030
-! Blocked: 6,083 rules
+! Last modified: 13 Mar 2021 20:59 UTC+7
+! Version: 2103132059
+! Blocked: 6,120 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -169,6 +169,7 @@
 ||testcentre.vn^
 ||track.accesstrade.vn^
 ||tracking.api.media.zapps.vn^
+||tracking.banner.g6.zing.vn^
 ||tracking.playzing.g6.zing.vn^
 ||tracking.tv.zing.vn^
 ||trk-pcweb.api.zaloapp.com^
@@ -258,6 +259,7 @@
 ||ads.netlinkad.vn^
 ||ads.nghenhinvietnam.vn^
 ||ads.nhadatmoi.net^
+||ads.pcccdongduong.vn^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
@@ -322,6 +324,7 @@
 ||avoadsservices.com^
 ||banhtv.org^
 ||banner.5giay.vn^
+||banner.etargeting.mobifone.vn^
 ||banner.thadaco.vn^
 ||banner.trangvangvietnam.com^
 ||banner.vietnamfinance.vn^
@@ -578,6 +581,7 @@
 ||track.lapa.pub^
 ||track.pregmomvietnam.com^
 ||track.sendo.vn^
+||track.vio.edu.vn^
 ||tracker.anime47.com^
 ||tracker.bongngo.store^
 ||tracker.fado.vn^
@@ -686,6 +690,7 @@
 ||ibet889.com^
 ||income88.com^
 ||interwinvn.com^
+||jbo064.com^
 ||jbovn.com^
 ||k8vina17.com^
 ||k8vn03.com^
@@ -843,6 +848,7 @@
 ||aaxads.com^
 ||accengage.com^
 ||accesstrade.net^
+||ace-sync.toast.com^
 ||acs.m.taobao.com^
 ||acuityplatform.com^
 ||ad-brix.com^
@@ -854,6 +860,7 @@
 ||ad.go.com^
 ||ad.gt^
 ||ad.intl.xiaomi.com^
+||ad.naver.com^
 ||ad.plus^
 ||ad.qq.com^
 ||ad.style^
@@ -893,6 +900,8 @@
 ||adjust.io^
 ||adk2x.com^
 ||adkernel.com^
+||adlc-exchange.toast.com^
+||adlog.shopping.naver.com^
 ||adlooxtracking.com^
 ||admanmedia.com^
 ||admantx.com^
@@ -902,6 +911,7 @@
 ||admaym.com^
 ||admedia.com^
 ||admob.com^
+||adnet.mob.com^
 ||adnetasia.com^
 ||adnetworktech.com^
 ||adnow.cc^
@@ -1008,6 +1018,7 @@
 ||advinci.net^
 ||advividnetwork.com^
 ||adworkmedia.net^
+||adx-exchange.toast.com^
 ||adx1.com^
 ||adxadserv.com^
 ||adxcel.com^
@@ -1053,12 +1064,16 @@
 ||analytics.query.yahoo.com^
 ||analytics.spotify.com^
 ||analytics.tiktok.com^
+||analytics.toast.com^
 ||analytics.twitter.com^
 ||analytics.yahoo.com^
 ||andbeyond.media^
 ||aniview.com^
 ||answers.com^
 ||aper.pw^
+||api-campaign-analytics.cloud.toast.com^
+||api-log-analytics.cloud.toast.com^
+||api-webrp-analytics.cloud.toast.com^
 ||api.ads.*.go.com^
 ||api.brs.intl.miui.com^
 ||api.collect.data.intl.miui.com^
@@ -1078,6 +1093,7 @@
 ||appier.net^
 ||applifier.com^
 ||applifier.info^
+||applink.mob.com^
 ||applog.musical.ly^
 ||applog.tiktokv.com^
 ||applog.uc.cn^
@@ -1237,6 +1253,7 @@
 ||cloudflareinsights.com^
 ||cloudfront-labs.amazonaws.com^
 ||cloudmobi.net^
+||cm-exchange.toast.com^
 ||cnnx.io^
 ||cnt.my^
 ||collection-*.herokuapp.com^
@@ -1284,6 +1301,7 @@
 ||darfilms.com^
 ||data.alexa.com^
 ||data.mistat.intl.xiaomi.com^
+||data.mob.com^
 ||data.sec.intl.miui.com^
 ||datatrics.com^
 ||dc-1.net^
@@ -1323,11 +1341,13 @@
 ||en25.com^
 ||engageya.com^
 ||epom.com^
+||er.search.naver.com^
 ||eskimi.com^
 ||ethicalads.io^
 ||events-api*.outfit7.com^
 ||everesttech.net^
 ||evidon.com^
+||exc.mob.com^
 ||exdynsrv.com^
 ||exelator.com^
 ||exit-ad.com^
@@ -1348,6 +1368,7 @@
 ||fbshare.me^
 ||fc.yahoo.com^
 ||fclick-adnow.com^
+||fclog.baidu.com^
 ||feedad.com^
 ||fidelity-media.com^
 ||filament-stats.herokuapp.com^
@@ -1365,6 +1386,7 @@
 ||freshmarketer.com^
 ||fullstory.com^
 ||fundingchoices.google.com^
+||fxgate.baidu.com^
 ||fyber.com^
 ||gads*s.com^
 ||gads*z.com^
@@ -1385,6 +1407,7 @@
 ||gjtrack.ucweb.com^
 ||glispa.com^
 ||glotgrx.com^
+||gm.mob.com^
 ||go-mpulse.net^
 ||go2speed.org^
 ||google-analytics.com^
@@ -1483,8 +1506,10 @@
 ||komoona.com^
 ||krxd.net^
 ||kumobiles.com^
+||l.m.naver.com^
 ||ladsp.com^
 ||lalaping.com^
+||lcs.naver.com^
 ||leadbolt.net^
 ||leadboltads.net^
 ||leadboltapps.net^
@@ -1583,6 +1608,7 @@
 ||mobileanalytics.*.amazonaws.com^
 ||mobileapptracking.com^
 ||mobileoffers-*-download.com^
+||moblink.mob.com^
 ||mobojoy.baidu.com^
 ||mobpartner.mobi^
 ||mobytrks.com^
@@ -1631,6 +1657,7 @@
 ||nexusrules.officeapps.live.com^
 ||ngads.go.com^
 ||nice-prod.pro^
+||nil.naver.com^
 ||nixozz.com^
 ||nobid.com^
 ||nol.yahoo.com^
@@ -1724,6 +1751,7 @@
 ||pubnative.net^
 ||puds.ucweb.com^
 ||purpleads.io^
+||push.mob.com^
 ||pushalert.co^
 ||pushcrew.com^
 ||pushpush.io^
@@ -1744,6 +1772,7 @@
 ||rcm-images.amazon.com^
 ||rcm.amazon.com^
 ||realsrv.com^
+||redirect-analytics.toast.com^
 ||referrer.disqus.com^
 ||refpa.top^
 ||reklamstore.com^
@@ -1808,6 +1837,7 @@
 ||serving-sys.com^
 ||serving1.net^
 ||sgp.o2o.api.xiaomi.com^
+||share.mob.com^
 ||shareaholic.com^
 ||sharethis.com^
 ||sharethrough.com^
@@ -1829,8 +1859,10 @@
 ||snigelweb.com^
 ||socdm.com^
 ||sociaplus.com^
+||sociomantic.com^
 ||sonar-iad.xx.fbcdn.net^
 ||sonobi.com^
+||sp.naver.com^
 ||spade.twitch.tv^
 ||specificclick.net^
 ||specificmedia.com^
@@ -1863,6 +1895,7 @@
 ||supersonicads.com^
 ||sworkitads.herokuapp.com^
 ||taboola.com^
+||tagmanager.toast.com^
 ||tanx.com^
 ||tapad.com^
 ||tapjoy.com^
@@ -1873,7 +1906,7 @@
 ||telemetry.microsoft.com^
 ||tenmax.io^
 ||themoneytizer.com^
-||toast.com^
+||tivan.naver.com^
 ||toponad.com^
 ||tr.snapchat.com^
 ||trace.qq.com^
@@ -1924,6 +1957,7 @@
 ||v16-ad.byteoversea.com^
 ||vdo.ai^
 ||vdopia.com^
+||veta.naver.com^
 ||vev77.com^
 ||vi-serve.com^
 ||viadata.store^
@@ -3068,6 +3102,7 @@
 ||banner.penguin.cz^
 ||banner.rbc.ru^
 ||banner.relcom.ru^
+||banner.samsungmembers.com^
 ||banner.tanto.de^
 ||banner.titan-dsl.de^
 ||banner.vadian.net^
@@ -4936,6 +4971,7 @@
 ||sdhfbvd.com^
 ||sdk.apptentive.com^
 ||seaboblit.com^
+||searchad-phinf.pstatic.net^
 ||searchfeast.com^
 ||searchmarketing.com^
 ||searchramp.com^
@@ -5039,7 +5075,6 @@
 ||sneakystamp.com^
 ||snoobi.com^
 ||socialspark.com^
-||sociomantic.com^
 ||sofia.trustx.org^
 ||softclick.com.br^
 ||sojern.com^
@@ -5837,6 +5872,7 @@
 ||kitbit.net^
 ||kkvmaj.com^
 ||largeer.com^
+||lcs.loginfra.com^
 ||leadzutw.com^
 ||lem-computers.net^
 ||lfeeder.com^
@@ -5970,6 +6006,7 @@
 ||soflopxl.com^
 ||soidc.com^
 ||soperson.com^
+||sp.tinymce.com^
 ||srmdata.com^
 ||ssc.api.bbc.com^
 ||ssm.codes^

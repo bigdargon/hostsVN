@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Mar 2021 20:30 UTC+7
-# Version: 2103122030
-# Blocked: 1,742 domains
+# Last modified: 13 Mar 2021 20:59 UTC+7
+# Version: 2103132059
+# Blocked: 1,746 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -500,6 +500,7 @@
 0.0.0.0 log.news.zing.vn
 0.0.0.0 log.tv.zing.vn
 0.0.0.0 logv2.mp3.zing.vn
+0.0.0.0 tracking.banner.g6.zing.vn
 0.0.0.0 tracking.playzing.g6.zing.vn
 0.0.0.0 tracking.tv.zing.vn
 0.0.0.0 zlog.mp3.zing.vn
@@ -1506,6 +1507,7 @@
 0.0.0.0 ads.netlinkad.vn
 0.0.0.0 ads.nghenhinvietnam.vn
 0.0.0.0 ads.nhadatmoi.net
+0.0.0.0 ads.pcccdongduong.vn
 0.0.0.0 ads.phunuonline.com.vn
 0.0.0.0 ads.phunusuckhoe.vn
 0.0.0.0 ads.phunuvagiadinh.vn
@@ -1570,6 +1572,7 @@
 0.0.0.0 avoadsservices.com
 0.0.0.0 banhtv.org
 0.0.0.0 banner.5giay.vn
+0.0.0.0 banner.etargeting.mobifone.vn
 0.0.0.0 banner.thadaco.vn
 0.0.0.0 banner.trangvangvietnam.com
 0.0.0.0 banner.vietnamfinance.vn
@@ -1843,6 +1846,7 @@
 0.0.0.0 track.lapa.pub
 0.0.0.0 track.pregmomvietnam.com
 0.0.0.0 track.sendo.vn
+0.0.0.0 track.vio.edu.vn
 0.0.0.0 tracker.anime47.com
 0.0.0.0 tracker.bongngo.store
 0.0.0.0 tracker.fado.vn

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Mar 2021 20:30 UTC+7
-! Version: 2103122030
-! Blocked: 811 rules
+! Last modified: 13 Mar 2021 20:59 UTC+7
+! Version: 2103132059
+! Blocked: 816 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -169,6 +169,7 @@
 ||testcentre.vn^
 ||track.accesstrade.vn^
 ||tracking.api.media.zapps.vn^
+||tracking.banner.g6.zing.vn^
 ||tracking.playzing.g6.zing.vn^
 ||tracking.tv.zing.vn^
 ||trk-pcweb.api.zaloapp.com^
@@ -258,6 +259,7 @@
 ||ads.netlinkad.vn^
 ||ads.nghenhinvietnam.vn^
 ||ads.nhadatmoi.net^
+||ads.pcccdongduong.vn^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
@@ -322,6 +324,7 @@
 ||avoadsservices.com^
 ||banhtv.org^
 ||banner.5giay.vn^
+||banner.etargeting.mobifone.vn^
 ||banner.thadaco.vn^
 ||banner.trangvangvietnam.com^
 ||banner.vietnamfinance.vn^
@@ -578,6 +581,7 @@
 ||track.lapa.pub^
 ||track.pregmomvietnam.com^
 ||track.sendo.vn^
+||track.vio.edu.vn^
 ||tracker.anime47.com^
 ||tracker.bongngo.store^
 ||tracker.fado.vn^
@@ -686,6 +690,7 @@
 ||ibet889.com^
 ||income88.com^
 ||interwinvn.com^
+||jbo064.com^
 ||jbovn.com^
 ||k8vina17.com^
 ||k8vn03.com^

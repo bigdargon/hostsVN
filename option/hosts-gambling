@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 12 Mar 2021 20:30 UTC+7
-# Version: 2103122030
-# Blocked: 2,841 domains
+# Last modified: 13 Mar 2021 20:59 UTC+7
+# Version: 2103132059
+# Blocked: 2,843 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -615,6 +615,8 @@
 0.0.0.0 gamebai.club
 0.0.0.0 www.gamebai.club
 0.0.0.0 tipkeomoingay.club
+0.0.0.0 jbo064.com
+0.0.0.0 www.jbo064.com
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com

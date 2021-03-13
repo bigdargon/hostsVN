@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Mar 2021 20:30 UTC+7
-# Version: 2103122030
-# Blocked: 18,663 domains
+# Last modified: 13 Mar 2021 20:59 UTC+7
+# Version: 2103132059
+# Blocked: 18,689 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -122,6 +122,7 @@
 0 undefined.fls.doubleclick.net
 0 adservice.google.com
 0 adservice.google.com.vn
+0 adservice.google.de
 0 googlesyndication.com
 0 ade.googlesyndication.com
 0 afs.googlesyndication.com
@@ -2102,11 +2103,17 @@
 0 worker2.advertnative.com
 0 worker3.advertnative.com
 0 worker4.advertnative.com
+0 ace-sync.toast.com
+0 adlc-exchange.toast.com
+0 adx-exchange.toast.com
 0 analytics.toast.com
-0 alpha-analytics.toast.com
-0 redirect-analytics.toast.com
+0 api-campaign-analytics.cloud.toast.com
 0 api-log-analytics.cloud.toast.com
 0 api-webrp-analytics.cloud.toast.com
+0 cm-exchange.toast.com
+0 redirect-analytics.toast.com
+0 tagmanager.toast.com
+0 static.tagmanager.toast.com
 0 getadmiral.com
 0 partner.api.getadmiral.com
 0 delivery.api.getadmiral.com
@@ -6298,37 +6305,6 @@
 0 ru.x.cnt.my
 0 www.cnt.my
 0 x.cnt.my
-0 analytics.ematicsolutions.com
-0 analytics-development.ematicsolutions.com
-0 api.ematicsolutions.com
-0 api2.ematicsolutions.com
-0 apk-api.ematicsolutions.com
-0 billing-development.ematicsolutions.com
-0 bye-images.ematicsolutions.com
-0 cse-api.ematicsolutions.com
-0 cse-dev2-api.ematicsolutions.com
-0 cse-dev-api.ematicsolutions.com
-0 cse-prod.ematicsolutions.com
-0 cse-prod2.ematicsolutions.com
-0 ematicsolutions.com
-0 fb-connect.ematicsolutions.com
-0 graylog.ematicsolutions.com
-0 haravan.ematicsolutions.com
-0 magento1.ematicsolutions.com
-0 platform.ematicsolutions.com
-0 pmm.ematicsolutions.com
-0 sg1-api.ematicsolutions.com
-0 sg2-api.ematicsolutions.com
-0 sg3-api.ematicsolutions.com
-0 sg4-api.ematicsolutions.com
-0 sg5-api.ematicsolutions.com
-0 sg6-api.ematicsolutions.com
-0 sg7-api.ematicsolutions.com
-0 shopify.ematicsolutions.com
-0 shopify-development.ematicsolutions.com
-0 squeezegr8.ematicsolutions.com
-0 www.ematicsolutions.com
-0 zabbix.ematicsolutions.com
 0 api.sociaplus.com
 0 hit.api.sociaplus.com
 0 image.sociaplus.com
@@ -12177,6 +12153,8 @@
 0 bzclk.baidu.com
 0 caclick.baidu.com
 0 eclick.baidu.com
+0 fclog.baidu.com
+0 fxgate.baidu.com
 0 gsp1.baidu.com
 0 hmma.baidu.com
 0 imgstat.baidu.com
@@ -12701,6 +12679,47 @@
 0 bestcontentfood.top
 0 cdn3.bestcontentfood.top
 0 i.bestcontentfood.top
+0 applink.mob.com
+0 api.applink.mob.com
+0 data.mob.com
+0 c.data.mob.com
+0 devs.data.mob.com
+0 m.data.mob.com
+0 exc.mob.com
+0 api.exc.mob.com
+0 gm.mob.com
+0 f.gm.mob.com
+0 l.gm.mob.com
+0 adnet.mob.com
+0 api.adnet.mob.com
+0 moblink.mob.com
+0 api.moblink.mob.com
+0 push.mob.com
+0 sdk.push.mob.com
+0 tcp.push.mob.com
+0 k.tcp.push.mob.com
+0 l.tcp.push.mob.com
+0 udp.push.mob.com
+0 share.mob.com
+0 api.share.mob.com
+0 ad.naver.com
+0 adlog.shopping.naver.com
+0 er.search.naver.com
+0 l.m.naver.com
+0 lcs.naver.com
+0 nil.naver.com
+0 sp.naver.com
+0 tivan.naver.com
+0 veta.naver.com
+0 ap-sonar.sociomantic.com
+0 api.sociomantic.com
+0 eu-sonar.sociomantic.com
+0 sociomantic.com
+0 us-sonar.sociomantic.com
+0 www.sociomantic.com
+0 api.ematicsolutions.com
+0 ematicsolutions.com
+0 www.ematicsolutions.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13161,6 +13180,7 @@
 0 log.news.zing.vn
 0 log.tv.zing.vn
 0 logv2.mp3.zing.vn
+0 tracking.banner.g6.zing.vn
 0 tracking.playzing.g6.zing.vn
 0 tracking.tv.zing.vn
 0 zlog.mp3.zing.vn
@@ -14060,6 +14080,7 @@
 0 ads.netlinkad.vn
 0 ads.nghenhinvietnam.vn
 0 ads.nhadatmoi.net
+0 ads.pcccdongduong.vn
 0 ads.phunuonline.com.vn
 0 ads.phunusuckhoe.vn
 0 ads.phunuvagiadinh.vn
@@ -14124,6 +14145,7 @@
 0 avoadsservices.com
 0 banhtv.org
 0 banner.5giay.vn
+0 banner.etargeting.mobifone.vn
 0 banner.thadaco.vn
 0 banner.trangvangvietnam.com
 0 banner.vietnamfinance.vn
@@ -14396,6 +14418,7 @@
 0 track.lapa.pub
 0 track.pregmomvietnam.com
 0 track.sendo.vn
+0 track.vio.edu.vn
 0 tracker.anime47.com
 0 tracker.bongngo.store
 0 tracker.fado.vn
@@ -15519,6 +15542,7 @@
 0 banner.penguin.cz
 0 banner.rbc.ru
 0 banner.relcom.ru
+0 banner.samsungmembers.com
 0 banner.tanto.de
 0 banner.titan-dsl.de
 0 banner.vadian.net
@@ -17383,6 +17407,7 @@
 0 sdhfbvd.com
 0 sdk.apptentive.com
 0 seaboblit.com
+0 searchad-phinf.pstatic.net
 0 searchfeast.com
 0 searchmarketing.com
 0 searchramp.com
@@ -17486,7 +17511,6 @@
 0 sneakystamp.com
 0 snoobi.com
 0 socialspark.com
-0 sociomantic.com
 0 sofia.trustx.org
 0 softclick.com.br
 0 sojern.com
@@ -18375,6 +18399,7 @@
 0 kitbit.net
 0 kkvmaj.com
 0 largeer.com
+0 lcs.loginfra.com
 0 leadzutw.com
 0 lem-computers.net
 0 lfeeder.com
@@ -18508,6 +18533,7 @@
 0 soflopxl.com
 0 soidc.com
 0 soperson.com
+0 sp.tinymce.com
 0 srmdata.com
 0 ssc.api.bbc.com
 0 ssm.codes
