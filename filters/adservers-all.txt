@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Mar 2021 20:59 UTC+7
-! Version: 2103132059
-! Blocked: 6,120 rules
+! Last modified: 14 Mar 2021 20:01 UTC+7
+! Version: 2103142001
+! Blocked: 6,129 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1584,7 +1584,6 @@
 ||metrics.cnn.com^
 ||mgid.com^
 ||miaozhen.com^
-||microad.co.jp^
 ||microad.jp^
 ||microad.net^
 ||microadinc.com^
@@ -1710,7 +1709,6 @@
 ||permutive.com^
 ||persona.ly^
 ||petametrics.com^
-||piano.io^
 ||ping*.qq.com^
 ||pingdom.net^
 ||pinpoint.*.amazonaws.com^
@@ -1928,7 +1926,6 @@
 ||tru.am^
 ||truoptik.com^
 ||tsyndicate.com^
-||tune.com^
 ||turn.com^
 ||twik.io^
 ||tx-hit.com^
@@ -1980,7 +1977,6 @@
 ||wct.link^
 ||weather-analytics-events.apple.com^
 ||webengage.com^
-||weborama.com^
 ||webpushr.com^
 ||webpushs.com^
 ||webtrends.com^
@@ -2185,6 +2181,7 @@
 ||ad127m.com^
 ||ad131m.com^
 ||ad132m.com^
+||ad2.gammae.com^
 ||ad2.iinfo.cz^
 ||ad2.lupa.cz^
 ||ad2.trafficgate.net^
@@ -2926,6 +2923,7 @@
 ||affiliation-france.com^
 ||affinity.com^
 ||afftracking.justanswer.com^
+||africaewgrhdtb.com^
 ||agreeableprice.com^
 ||agreeablestew.com^
 ||agreemand.com^
@@ -3035,6 +3033,7 @@
 ||aspboxant.club^
 ||assets.purch.com^
 ||assets1.exgfnetwork.com^
+||assignedlikecrawford.com^
 ||assuremath.com^
 ||at-adserver.alltop.com^
 ||athena-ads.wikia.com^
@@ -3063,6 +3062,7 @@
 ||avres.net^
 ||avsads.com^
 ||awempire.com^
+||aweprt.com^
 ||awin1.com^
 ||awzbijw.com^
 ||axdsz.pro^
@@ -3149,7 +3149,6 @@
 ||bannersng.yell.com^
 ||bannerspace.com^
 ||bannerswap.com^
-||bannertesting.com^
 ||bannerwall.s3.appcnt.com^
 ||bannery.cz^
 ||bannieres.acces-contenu.com^
@@ -3540,6 +3539,7 @@
 ||cyberbounty.com^
 ||cybermonitor.com^
 ||d.appsdt.com^
+||d18t35yyry2k49.cloudfront.net^
 ||d2cmedia.ca^
 ||d3cod80thn7qnd.cloudfront.net^
 ||d3mzokty951c5w.cloudfront.net^
@@ -3558,6 +3558,7 @@
 ||datedissyuk.icu^
 ||dbbsrv.com^
 ||dc-storm.com^
+||ddmax20.xyz^
 ||de17a.com^
 ||deadpantruck.com^
 ||dealdotcom.com^
@@ -3656,6 +3657,7 @@
 ||earthquakescarf.com^
 ||earthycopy.com^
 ||eas.almamedia.fi^
+||easiesttangle.com^
 ||easy-ads.com^
 ||easydownloadnow.com^
 ||easyhits4u.com^
@@ -3865,6 +3867,7 @@
 ||getwisdom.io^
 ||ggimg.tapas.net^
 ||giddycoat.com^
+||gladiol9us10.com^
 ||glassmilheart.com^
 ||globalismedia.com^
 ||globaltakeoff.net^
@@ -3982,6 +3985,7 @@
 ||howdoesin.net^
 ||howtubray.com^
 ||httpool.com^
+||hubzozo.com^
 ||humandemand.com^
 ||humidmentioned.com^
 ||hurricanedigitalmedia.com^
@@ -4083,6 +4087,7 @@
 ||intellilinks.com^
 ||intellitxt.com^
 ||intergi.com^
+||internalads.gammae.com^
 ||internetfuel.com^
 ||interreklame.de^
 ||intnotif.club^
@@ -4157,6 +4162,7 @@
 ||lakequincy.com^
 ||laughablecopper.com^
 ||laughcloth.com^
+||lauk.icu^
 ||launchbit.com^
 ||layer-ad.de^
 ||layer-ads.de^
@@ -5395,6 +5401,7 @@
 ||trix.net^
 ||trk4ppl.com^
 ||trmit.com^
+||trtjigpsscmv9epe10.com^
 ||truckstomatoes.com^
 ||truehits.net^
 ||trumpia.com^
@@ -5537,6 +5544,7 @@
 ||webmasterplan.com^
 ||webmasterplan.de^
 ||weboohost.com^
+||weborama.com^
 ||weborama.fr^
 ||webpinp.com^
 ||webpower.com^
@@ -5908,6 +5916,7 @@
 ||metrics.cloudflarebolt.com^
 ||metrics.redgifs.com^
 ||metrics.sdkbox.com^
+||moatpixel.com^
 ||mobiletelemetry.ebay.com^
 ||mon.toutiaocloud.com^
 ||mon.toutiaocloud.net^

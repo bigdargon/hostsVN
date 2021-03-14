@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Mar 2021 20:59 UTC+7
-# Version: 2103132059
-# Blocked: 1,746 domains
+# Last modified: 14 Mar 2021 20:01 UTC+7
+# Version: 2103142001
+# Blocked: 1,750 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1410,6 +1410,11 @@
 0.0.0.0 tracking.gafin.vn
 0.0.0.0 widget.gafin.vn
 0.0.0.0 www.gafin.vn
+#[matomo.*.vn]
+0.0.0.0 matomo.ecoe.vn
+0.0.0.0 matomo.energyfacility.vn
+0.0.0.0 matomo.shac.vn
+0.0.0.0 matomo.vepg.vn
 #[mautic.*.vn]
 0.0.0.0 mautic.akhoe.vn
 0.0.0.0 mautic.bizgift.vn

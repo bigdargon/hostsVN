@@ -1398,6 +1398,11 @@
 0.0.0.0 tracking.gafin.vn
 0.0.0.0 widget.gafin.vn
 0.0.0.0 www.gafin.vn
+#[matomo.*.vn]
+0.0.0.0 matomo.ecoe.vn
+0.0.0.0 matomo.energyfacility.vn
+0.0.0.0 matomo.shac.vn
+0.0.0.0 matomo.vepg.vn
 #[mautic.*.vn]
 0.0.0.0 mautic.akhoe.vn
 0.0.0.0 mautic.bizgift.vn
