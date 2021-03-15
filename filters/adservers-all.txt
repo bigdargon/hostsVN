@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Mar 2021 20:01 UTC+7
-! Version: 2103142001
-! Blocked: 6,129 rules
+! Last modified: 15 Mar 2021 09:19 UTC+7
+! Version: 2103150919
+! Blocked: 6,128 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -573,7 +573,6 @@
 ||thongke.baotintuc.vn^
 ||thongke.opencps.vn^
 ||thongke99.baogiaothong.vn^
-||tka.tiki.vn^
 ||tr.topdevvn.com^
 ||track-srv.vietnamnet.vn^
 ||track.icheck.com.vn^

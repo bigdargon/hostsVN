@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Mar 2021 20:01 UTC+7
-# Version: 2103142001
-# Blocked: 1,750 domains
+# Last modified: 15 Mar 2021 09:19 UTC+7
+# Version: 2103150919
+# Blocked: 1,749 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1843,7 +1843,6 @@
 0.0.0.0 thongke.baotintuc.vn
 0.0.0.0 thongke.opencps.vn
 0.0.0.0 thongke99.baogiaothong.vn
-0.0.0.0 tka.tiki.vn
 0.0.0.0 tr.topdevvn.com
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track.icheck.com.vn
