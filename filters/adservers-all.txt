@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Mar 2021 09:19 UTC+7
-! Version: 2103150919
-! Blocked: 6,128 rules
+! Last modified: 16 Mar 2021 10:19 UTC+7
+! Version: 2103161019
+! Blocked: 6,133 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3265,6 +3265,7 @@
 ||business.opera.com^
 ||businessbells.com^
 ||bustlinganimal.com^
+||butalksuw9dj10.com^
 ||butheptesitrew.pro^
 ||buyhitscheap.com^
 ||buzzonclick.com^
@@ -4933,6 +4934,7 @@
 ||roujaufu.net^
 ||routeserve.info^
 ||roxr.net^
+||rozamimo9za10.com^
 ||rsalcau.com^
 ||rsalcch.com^
 ||rschairwaydi.site^
@@ -5786,6 +5788,7 @@
 ||cookieinfoscript.com^
 ||coralogix.com^
 ||count.ly^
+||counter.pixplug.in^
 ||creative.dailymail.co.uk^
 ||crittercism.com^
 ||csdian.net^
@@ -5975,6 +5978,7 @@
 ||reachmax.cn^
 ||redinvestor.com^
 ||redretarget.com^
+||referer.pixplug.in^
 ||remyyadan.online.fr^
 ||reports.crashlytics.com^
 ||reports.ubimo.com^
@@ -6085,6 +6089,7 @@
 ||vdtrack.com^
 ||vectaury.io^
 ||vilagnomad.com^
+||visitor.pixplug.in^
 ||vizu.com^
 ||vkcache.com^
 ||w3counter.com^
