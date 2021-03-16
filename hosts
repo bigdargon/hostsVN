@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 Mar 2021 10:19 UTC+7
-# Version: 2103161019
-# Blocked: 17,235 domains
+# Last modified: 16 Mar 2021 15:03 UTC+7
+# Version: 2103161503
+# Blocked: 17,249 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12156,6 +12156,28 @@
 0.0.0.0 api.ematicsolutions.com
 0.0.0.0 ematicsolutions.com
 0.0.0.0 www.ematicsolutions.com
+#[blogherads.com]
+0.0.0.0 ads.blogherads.com
+0.0.0.0 blogherads.com
+0.0.0.0 staging-ads.blogherads.com
+0.0.0.0 www.blogherads.com
+#[pgmcdn.com]
+0.0.0.0 lib.pgmcdn.com
+0.0.0.0 media.pgmcdn.com
+0.0.0.0 pgmcdn.com
+#[jwpltx.com]
+0.0.0.0 jwpltx.com
+0.0.0.0 ping-meta-prd.jwpltx.com
+0.0.0.0 prd.jwpltx.com
+#[spot.im]
+0.0.0.0 ak-events-collector.spot.im
+0.0.0.0 direct-events-collector.spot.im
+0.0.0.0 events-collector.spot.im
+0.0.0.0 metrics-logger.spot.im
+0.0.0.0 pix.spot.im
+0.0.0.0 publisher-assets.spot.im
+0.0.0.0 t.spot.im
+0.0.0.0 traffic.spot.im
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15237,7 +15259,6 @@
 0.0.0.0 blingbucks.com
 0.0.0.0 blogads.com
 0.0.0.0 blogcounter.de
-0.0.0.0 blogherads.com
 0.0.0.0 blogrush.com
 0.0.0.0 blogtoplist.se
 0.0.0.0 blogtopsites.com
@@ -17928,7 +17949,6 @@
 0.0.0.0 embed.tawk.to
 0.0.0.0 ethtrader.de
 0.0.0.0 etl.tindersparks.com
-0.0.0.0 events-collector.spot.im
 0.0.0.0 events.apester.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.mapbox.com
@@ -18060,7 +18080,6 @@
 0.0.0.0 pegloang.com
 0.0.0.0 pi.pardot.com
 0.0.0.0 pipedream.wistia.com
-0.0.0.0 pix.spot.im
 0.0.0.0 pixanalytics.pixnet.net
 0.0.0.0 pixanalytics2.pixnet.net
 0.0.0.0 pixel.nc0.co
@@ -18186,7 +18205,6 @@
 0.0.0.0 tracking.adsrv.io
 0.0.0.0 tracking.hubspot.com
 0.0.0.0 tracking.lenzmx.com
-0.0.0.0 traffic.spot.im
 0.0.0.0 trk.clinch.co
 0.0.0.0 uciservice.com
 0.0.0.0 ultimedia.com

@@ -12144,3 +12144,25 @@
 0.0.0.0 api.ematicsolutions.com
 0.0.0.0 ematicsolutions.com
 0.0.0.0 www.ematicsolutions.com
+#[blogherads.com]
+0.0.0.0 ads.blogherads.com
+0.0.0.0 blogherads.com
+0.0.0.0 staging-ads.blogherads.com
+0.0.0.0 www.blogherads.com
+#[pgmcdn.com]
+0.0.0.0 lib.pgmcdn.com
+0.0.0.0 media.pgmcdn.com
+0.0.0.0 pgmcdn.com
+#[jwpltx.com]
+0.0.0.0 jwpltx.com
+0.0.0.0 ping-meta-prd.jwpltx.com
+0.0.0.0 prd.jwpltx.com
+#[spot.im]
+0.0.0.0 ak-events-collector.spot.im
+0.0.0.0 direct-events-collector.spot.im
+0.0.0.0 events-collector.spot.im
+0.0.0.0 metrics-logger.spot.im
+0.0.0.0 pix.spot.im
+0.0.0.0 publisher-assets.spot.im
+0.0.0.0 t.spot.im
+0.0.0.0 traffic.spot.im

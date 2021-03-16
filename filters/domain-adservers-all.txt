@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 16 Mar 2021 10:19 UTC+7
-! Version: 2103161019
-! Blocked: 6,133 domains
+! Last modified: 16 Mar 2021 15:03 UTC+7
+! Version: 2103161503
+! Blocked: 6,140 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -1036,6 +1036,7 @@ airpush.com
 aj1*.online
 ajgc1*.online
 ajx*.online
+ak-events-collector.spot.im
 alcmpn.com
 alexametrics.com
 alphonso.tv
@@ -1174,6 +1175,7 @@ bizible.com
 bizographics.com
 bj1*.online
 bkrtx.com
+blogherads.com
 blueadss.com
 bluekai.com
 blueseed.tv
@@ -1309,6 +1311,7 @@ device-metrics-*.amazon.com
 dezf3o8j9jdt6.cloudfront.net
 dfbanners.com
 dfnb-ads.com
+direct-events-collector.spot.im
 districtm.io
 districtm.net
 dj1*.online
@@ -1342,6 +1345,7 @@ er.search.naver.com
 eskimi.com
 ethicalads.io
 events-api*.outfit7.com
+events-collector.spot.im
 everesttech.net
 evidon.com
 exc.mob.com
@@ -1493,6 +1497,7 @@ jsecoin.com
 juicer.cc
 juicyads.com
 justpremium.com
+jwpltx.com
 kaffnet.com
 kargo.com
 kau.li
@@ -1578,6 +1583,7 @@ mediarithmics.com
 mediawayss.com
 meter-svc.nytimes.com
 metric-api.newrelic.com
+metrics-logger.spot.im
 metrics.cnn.com
 mgid.com
 miaozhen.com
@@ -1706,9 +1712,11 @@ perimeterx.net
 permutive.com
 persona.ly
 petametrics.com
+pgmcdn.com
 ping*.qq.com
 pingdom.net
 pinpoint.*.amazonaws.com
+pix.spot.im
 pixanalytics.com
 pixel-static.spotify.com
 pixel.facebook.com
@@ -1741,6 +1749,7 @@ ptengine.jp
 pub.network
 pubexchange.com
 publift.com
+publisher-assets.spot.im
 pubmatic.com
 pubmine.com
 pubnative.net
@@ -1889,6 +1898,7 @@ supercounters.com
 superfastmediation.com
 supersonicads.com
 sworkitads.herokuapp.com
+t.spot.im
 taboola.com
 tagmanager.toast.com
 tanx.com
@@ -1910,6 +1920,7 @@ tracking.intl.miui.com
 tracking.miui.com
 trackjs.com
 trackpush.com
+traffic.spot.im
 trafficfactory.biz
 trafficjunky.net
 trafficstars.com
@@ -3209,7 +3220,6 @@ blast4traffic.com
 blingbucks.com
 blogads.com
 blogcounter.de
-blogherads.com
 blogrush.com
 blogtoplist.se
 blogtopsites.com
@@ -5811,7 +5821,6 @@ edigitalsurvey.com
 embed.tawk.to
 ethtrader.de
 etl.tindersparks.com
-events-collector.spot.im
 events.apester.com
 events.jora.com
 events.mapbox.com
@@ -5943,7 +5952,6 @@ pebed.dm.gg
 pegloang.com
 pi.pardot.com
 pipedream.wistia.com
-pix.spot.im
 pixanalytics.pixnet.net
 pixanalytics2.pixnet.net
 pixel.nc0.co
@@ -6069,7 +6077,6 @@ tracking-server-prod-1.zenmxapps.com
 tracking.adsrv.io
 tracking.hubspot.com
 tracking.lenzmx.com
-traffic.spot.im
 trk.clinch.co
 uciservice.com
 ultimedia.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Mar 2021 10:19 UTC+7
-! Version: 2103161019
-! Blocked: 6,133 rules
+! Last modified: 16 Mar 2021 15:03 UTC+7
+! Version: 2103161503
+! Blocked: 6,140 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1038,6 +1038,7 @@
 ||aj1*.online^
 ||ajgc1*.online^
 ||ajx*.online^
+||ak-events-collector.spot.im^
 ||alcmpn.com^
 ||alexametrics.com^
 ||alphonso.tv^
@@ -1176,6 +1177,7 @@
 ||bizographics.com^
 ||bj1*.online^
 ||bkrtx.com^
+||blogherads.com^
 ||blueadss.com^
 ||bluekai.com^
 ||blueseed.tv^
@@ -1311,6 +1313,7 @@
 ||dezf3o8j9jdt6.cloudfront.net^
 ||dfbanners.com^
 ||dfnb-ads.com^
+||direct-events-collector.spot.im^
 ||districtm.io^
 ||districtm.net^
 ||dj1*.online^
@@ -1344,6 +1347,7 @@
 ||eskimi.com^
 ||ethicalads.io^
 ||events-api*.outfit7.com^
+||events-collector.spot.im^
 ||everesttech.net^
 ||evidon.com^
 ||exc.mob.com^
@@ -1495,6 +1499,7 @@
 ||juicer.cc^
 ||juicyads.com^
 ||justpremium.com^
+||jwpltx.com^
 ||kaffnet.com^
 ||kargo.com^
 ||kau.li^
@@ -1580,6 +1585,7 @@
 ||mediawayss.com^
 ||meter-svc.nytimes.com^
 ||metric-api.newrelic.com^
+||metrics-logger.spot.im^
 ||metrics.cnn.com^
 ||mgid.com^
 ||miaozhen.com^
@@ -1708,9 +1714,11 @@
 ||permutive.com^
 ||persona.ly^
 ||petametrics.com^
+||pgmcdn.com^
 ||ping*.qq.com^
 ||pingdom.net^
 ||pinpoint.*.amazonaws.com^
+||pix.spot.im^
 ||pixanalytics.com^
 ||pixel-static.spotify.com^
 ||pixel.facebook.com^
@@ -1743,6 +1751,7 @@
 ||pub.network^
 ||pubexchange.com^
 ||publift.com^
+||publisher-assets.spot.im^
 ||pubmatic.com^
 ||pubmine.com^
 ||pubnative.net^
@@ -1891,6 +1900,7 @@
 ||superfastmediation.com^
 ||supersonicads.com^
 ||sworkitads.herokuapp.com^
+||t.spot.im^
 ||taboola.com^
 ||tagmanager.toast.com^
 ||tanx.com^
@@ -1912,6 +1922,7 @@
 ||tracking.miui.com^
 ||trackjs.com^
 ||trackpush.com^
+||traffic.spot.im^
 ||trafficfactory.biz^
 ||trafficjunky.net^
 ||trafficstars.com^
@@ -3211,7 +3222,6 @@
 ||blingbucks.com^
 ||blogads.com^
 ||blogcounter.de^
-||blogherads.com^
 ||blogrush.com^
 ||blogtoplist.se^
 ||blogtopsites.com^
@@ -5813,7 +5823,6 @@
 ||embed.tawk.to^
 ||ethtrader.de^
 ||etl.tindersparks.com^
-||events-collector.spot.im^
 ||events.apester.com^
 ||events.jora.com^
 ||events.mapbox.com^
@@ -5945,7 +5954,6 @@
 ||pegloang.com^
 ||pi.pardot.com^
 ||pipedream.wistia.com^
-||pix.spot.im^
 ||pixanalytics.pixnet.net^
 ||pixanalytics2.pixnet.net^
 ||pixel.nc0.co^
@@ -6071,7 +6079,6 @@
 ||tracking.adsrv.io^
 ||tracking.hubspot.com^
 ||tracking.lenzmx.com^
-||traffic.spot.im^
 ||trk.clinch.co^
 ||uciservice.com^
 ||ultimedia.com^
