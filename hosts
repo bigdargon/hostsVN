@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 Mar 2021 15:03 UTC+7
-# Version: 2103161503
-# Blocked: 17,249 domains
+# Last modified: 17 Mar 2021 14:22 UTC+7
+# Version: 2103171422
+# Blocked: 17,258 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -559,11 +559,8 @@
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 us.ads.yap.yahoo.com
 #[facebook]
-0.0.0.0 ads.ak.facebook.com
 0.0.0.0 an.facebook.com
-0.0.0.0 creative.ak.facebook.com
 0.0.0.0 pixel.facebook.com
-0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 sonar-iad.xx.fbcdn.net
 #[update.fbsbx.com]
 0.0.0.0 o.update.fbsbx.com
@@ -12178,6 +12175,12 @@
 0.0.0.0 publisher-assets.spot.im
 0.0.0.0 t.spot.im
 0.0.0.0 traffic.spot.im
+#[eoapxl.com]
+0.0.0.0 eoapxl.com
+0.0.0.0 eoapxl1.eoapxl.com
+0.0.0.0 eoapxl2.eoapxl.com
+0.0.0.0 eoapxl3.eoapxl.com
+0.0.0.0 eoapxl4.eoapxl.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13621,6 +13624,14 @@
 0.0.0.0 service-api.accesstrade.vn
 0.0.0.0 static.accesstrade.vn
 0.0.0.0 track.accesstrade.vn
+#[cdp.asia]
+0.0.0.0 a.cdp.asia
+0.0.0.0 app.cdp.asia
+0.0.0.0 cdp.asia
+0.0.0.0 delivery.cdp.asia
+0.0.0.0 st-a.cdp.asia
+0.0.0.0 st-e.cdp.asia
+0.0.0.0 www.cdp.asia
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn

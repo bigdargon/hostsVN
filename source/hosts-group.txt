@@ -547,11 +547,8 @@
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 us.ads.yap.yahoo.com
 #[facebook]
-0.0.0.0 ads.ak.facebook.com
 0.0.0.0 an.facebook.com
-0.0.0.0 creative.ak.facebook.com
 0.0.0.0 pixel.facebook.com
-0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 sonar-iad.xx.fbcdn.net
 #[update.fbsbx.com]
 0.0.0.0 o.update.fbsbx.com
@@ -12166,3 +12163,9 @@
 0.0.0.0 publisher-assets.spot.im
 0.0.0.0 t.spot.im
 0.0.0.0 traffic.spot.im
+#[eoapxl.com]
+0.0.0.0 eoapxl.com
+0.0.0.0 eoapxl1.eoapxl.com
+0.0.0.0 eoapxl2.eoapxl.com
+0.0.0.0 eoapxl3.eoapxl.com
+0.0.0.0 eoapxl4.eoapxl.com

@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 16 Mar 2021 15:03 UTC+7
-! Version: 2103161503
-! Blocked: 6,140 domains
+! Last modified: 17 Mar 2021 14:22 UTC+7
+! Version: 2103171422
+! Blocked: 6,139 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -59,6 +59,7 @@ brand.zing.vn
 cdn-qc.coccoc.com
 cdn.comedia.coccoc.com
 cdnstoremedia.com
+cdp.asia
 centralized.zaloapp.com
 cheap-ads.net
 cityads.com
@@ -939,7 +940,6 @@ ads-router-noneu.truecaller.com
 ads-twitter.com
 ads.*.unity3d.com
 ads.*.yahoo.com
-ads.ak.facebook.com
 ads.bing.com
 ads.cnet.com
 ads.cnn.com
@@ -1276,8 +1276,6 @@ cpmstar.com
 cpx.to
 crashlyticsreports-pa.googleapis.com
 crazyegg.com
-creative.ak.facebook.com
-creative.ak.fbcdn.net
 creativecdn.com
 criteo.com
 criteo.net
@@ -1340,6 +1338,7 @@ ematicsolutions.com
 emxdgt.com
 en25.com
 engageya.com
+eoapxl.com
 epom.com
 er.search.naver.com
 eskimi.com
