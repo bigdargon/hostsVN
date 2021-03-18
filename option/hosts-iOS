@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Mar 2021 14:22 UTC+7
-# Version: 2103171422
-# Blocked: 17,258 domains
+# Last modified: 18 Mar 2021 09:46 UTC+7
+# Version: 2103180946
+# Blocked: 17,265 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -217,6 +217,7 @@
 0 sts.advertising.microsoft.com
 0 sts.si.advertising.microsoft.com
 0 c.microsoft.com
+0 self.events.data.microsoft.com
 0 statsfe2.ws.microsoft.com
 0 vortex.data.microsoft.com
 0 web.vortex.data.microsoft.com
@@ -442,6 +443,7 @@
 0 rcm-na.amazon-adsystems.com
 0 ws.amazon-adsystems.com
 0 z-na.amazon-adsystems.com
+0 adserver-2084671375.us-east-1.elb.amazonaws.com
 0 cloudfront-labs.amazonaws.com
 0 kinesis.us-east-1.amazonaws.com
 0 mobileanalytics.us-east-1.amazonaws.com
@@ -11264,6 +11266,9 @@
 0 eoapxl2.eoapxl.com
 0 eoapxl3.eoapxl.com
 0 eoapxl4.eoapxl.com
+0 asdfix.com
+0 cdn.asdfix.com
+0 p.asdfix.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -16688,6 +16693,7 @@
 0 www.weborama.com
 0 www.webtrendslive.com
 0 www.zap.buzz
+0 www.zarpop.com
 0 www.zekiatagur.com
 0 www.zxc.world
 0 wyjimapsi.pro
@@ -16738,6 +16744,7 @@
 0 zanox.com
 0 zantracker.com
 0 zap.buzz
+0 zarpop.com
 0 zbwp6ghm.com
 0 zdbb.net
 0 zealousfield.com

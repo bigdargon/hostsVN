@@ -219,6 +219,7 @@
 0.0.0.0 sts.si.advertising.microsoft.com
 #[microsoft]
 0.0.0.0 c.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
@@ -458,7 +459,8 @@
 0.0.0.0 rcm-na.amazon-adsystems.com
 0.0.0.0 ws.amazon-adsystems.com
 0.0.0.0 z-na.amazon-adsystems.com
-#[amazonaws]
+#[amazonaws.com]
+0.0.0.0 adserver-2084671375.us-east-1.elb.amazonaws.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
@@ -12169,3 +12171,7 @@
 0.0.0.0 eoapxl2.eoapxl.com
 0.0.0.0 eoapxl3.eoapxl.com
 0.0.0.0 eoapxl4.eoapxl.com
+#[asdfix.com]
+0.0.0.0 asdfix.com
+0.0.0.0 cdn.asdfix.com
+0.0.0.0 p.asdfix.com

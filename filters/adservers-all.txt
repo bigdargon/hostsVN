@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Mar 2021 14:22 UTC+7
-! Version: 2103171422
-! Blocked: 6,139 rules
+! Last modified: 18 Mar 2021 09:46 UTC+7
+! Version: 2103180946
+! Blocked: 6,143 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -967,6 +967,7 @@
 ||adsatt.*.go.com^
 ||adschoom.com^
 ||adsco.re^
+||adserver-*.*.elb.amazonaws.com^
 ||adserver.bing.com^
 ||adserver.yahoo.com^
 ||adservice.google.*^
@@ -1116,6 +1117,7 @@
 ||arsdev.net^
 ||arsena*.xyz^
 ||artsai.com^
+||asdfix.com^
 ||asianmedia.com^
 ||askingpoint.com^
 ||assoc-amazon.com^
@@ -1831,6 +1833,7 @@
 ||securemetrics.apple.com^
 ||segment.com^
 ||segment.io^
+||self.events.data.microsoft.com^
 ||sendpulse.com^
 ||servebom.com^
 ||servedby-buysellads.com^
@@ -5661,6 +5664,7 @@
 ||zanox.com^
 ||zantracker.com^
 ||zap.buzz^
+||zarpop.com^
 ||zbwp6ghm.com^
 ||zdbb.net^
 ||zealousfield.com^
