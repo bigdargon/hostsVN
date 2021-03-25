@@ -12249,3 +12249,48 @@
 0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 cdn.cohesionapps.com
 0.0.0.0 cohesionapps.com
+#[adsage.cn]
+0.0.0.0 adsage.cn
+0.0.0.0 config.adsage.cn
+0.0.0.0 www.adsage.cn
+#[adsage.com]
+0.0.0.0 adsage.com
+0.0.0.0 config.adsage.com
+0.0.0.0 www.adsage.com
+#[mobisage.cn]
+0.0.0.0 bc.mobisage.cn
+0.0.0.0 config.mobisage.cn
+0.0.0.0 mobisage.cn
+0.0.0.0 www.mobisage.cn
+#[minesage.com]
+0.0.0.0 config.minesage.com
+0.0.0.0 minesage.com
+0.0.0.0 www.minesage.com
+#[soqugame.com]
+0.0.0.0 api.soqugame.com
+0.0.0.0 config.soqugame.com
+0.0.0.0 soqugame.com
+0.0.0.0 www.soqugame.com
+#[immob.cn]
+0.0.0.0 adserving.immob.cn
+0.0.0.0 api.immob.cn
+0.0.0.0 fw.immob.cn
+0.0.0.0 immob.cn
+0.0.0.0 mbapi.immob.cn
+0.0.0.0 www.immob.cn
+#[guomob.com]
+0.0.0.0 guomob.com
+0.0.0.0 c1.guomob.com
+0.0.0.0 www.guomob.com
+#[adwo.com]
+0.0.0.0 a-ad.adwo.com
+0.0.0.0 ad-count.adwo.com
+0.0.0.0 adwo.com
+0.0.0.0 apiconfig.adwo.com
+0.0.0.0 static.adwo.com
+0.0.0.0 track.adwo.com
+0.0.0.0 www.adwo.com
+#[adcome.cn]
+0.0.0.0 adcome.cn
+0.0.0.0 api.adcome.cn
+0.0.0.0 www.adcome.cn
