@@ -128,8 +128,10 @@ ads.cnn.com
 ads.gmodules.com
 ads.google.com
 ads.heytapmobi.com
+ads.heytapmobile.com
 ads.linkedin.com
 ads.nytimes.com
+ads.oppomobile.com
 ads.pinterest.com
 ads.snapchat.com
 ads.tiktok.com
@@ -153,6 +155,7 @@ adserver.yahoo.com
 adservice.google.*
 adservme.com
 adsfactor.net
+adsfs.oppomobile.com
 adskeeper.co.uk
 adskeeper.com
 adsloads.com
@@ -439,6 +442,7 @@ cloudmobi.net
 cm-exchange.toast.com
 cnnx.io
 cnt.my
+cohesionapps.com
 collection-*.herokuapp.com
 collective-media.net
 collector.newrelic.com
@@ -453,6 +457,7 @@ contextweb.com
 contributor.google.com
 conversantmedia.com
 convertexperiments.com
+convertful.com
 count.taobao.com
 countess.twitch.tv
 cpaikon.net
@@ -702,6 +707,7 @@ leadboltapps.net
 leadboltmobile.net
 leadforensics.com
 leanplum.com
+liadm.com
 lifestreet.com
 lifestreetmedia.com
 ligatus.com
@@ -980,6 +986,7 @@ revrtb.net
 rfihub.com
 rfrl.pw
 richmediaads.com
+rkdms.com
 rlcdn.com
 rmp.rakuten.com
 rmtag.com
@@ -1082,6 +1089,7 @@ sumome.com
 supercounters.com
 superfastmediation.com
 supersonicads.com
+surveygizmobeacon.s3.amazonaws.com
 sworkitads.herokuapp.com
 t.spot.im
 taboola.com
@@ -1104,6 +1112,7 @@ track.uc.cn
 tracking.intl.miui.com
 tracking.miui.com
 trackjs.com
+trackonomics.net
 trackpush.com
 traffic.spot.im
 trafficfactory.biz
@@ -1118,6 +1127,7 @@ trk.pinterest.com
 trk2.pinterest.com
 tru.am
 truoptik.com
+trustx.org
 tsyndicate.com
 turn.com
 twik.io
@@ -1690,6 +1700,7 @@ ads.gaming-universe.de
 ads.gawker.com
 ads.geekswithblogs.net
 ads.getlucky.com
+ads.goclean.tech
 ads.goyk.com
 ads.gplusmedia.com
 ads.gradfinder.com
@@ -1732,6 +1743,7 @@ ads.kaktuz.net
 ads.kelbymediagroup.com
 ads.kinobox.cz
 ads.kinxxx.com
+ads.kitidi.com
 ads.kompass.com
 ads.krawall.de
 ads.lapalingo.com
@@ -2232,6 +2244,7 @@ assets1.exgfnetwork.com
 assignedlikecrawford.com
 assuremath.com
 at-adserver.alltop.com
+at.cbsi.com
 athena-ads.wikia.com
 atlassolutions.com
 atp.io
@@ -2647,6 +2660,7 @@ comwgi.com
 concernedcondition.com
 concert.io
 concertads-configs.vox-cdn.com
+confiant-integrations.global.ssl.fastly.net
 confirmed-profits.com
 connect.scroll.com
 connection1safety.com
@@ -3324,6 +3338,7 @@ joetec.net
 joeyzzvkpjha.com
 jokedollars.com
 jomtingi.net
+js.pusher.com
 jugjetwok.com
 julysystems.com
 jumptap.com
@@ -3379,7 +3394,6 @@ lentainform.com
 lettucelimit.com
 levelrate.de
 lfstmedia.com
-liadm.com
 lib.vmweb.net
 liftdna.com
 ligatus.de
@@ -3993,6 +4007,7 @@ pushazer.com
 pushengage.com
 pushlaram.com
 pushlum.com
+pushmono.com
 pushno.com
 pushokey.com
 pushqwer.com
@@ -4113,7 +4128,6 @@ ringsrecord.com
 ritzykey.com
 ritzysponge.com
 riverhit.com
-rkdms.com
 rle.ru
 rmedia.boston.com
 rmiesnorthur.pro
@@ -4278,7 +4292,6 @@ snapgiant.com
 sneakystamp.com
 snoobi.com
 socialspark.com
-sofia.trustx.org
 softclick.com.br
 sojern.com
 sombersea.com
@@ -4604,7 +4617,6 @@ truehits.net
 trumpia.com
 trustaffs.com
 trustednotice.news
-trustx.org
 tubecup.net
 tubedspots.com
 tubemogul.com
@@ -4952,7 +4964,6 @@ az416426.vo.msecnd.net
 bafuhotel.com
 bango.net
 batchlogging4.truecaller.com
-bc.dailymail.co.uk
 beacon-api.aliyuncs.com
 beacon.riskified.com
 beacon.shazam.com
@@ -4972,6 +4983,7 @@ cc.swiftype.com
 ccgateway.net
 cdn.onesignal.com
 cdn.promotionengine.com
+cdn.viglink.com
 cedexis.com
 clarity.ms
 clerrrep.com
@@ -4989,7 +5001,6 @@ cookieinfoscript.com
 coralogix.com
 count.ly
 counter.pixplug.in
-creative.dailymail.co.uk
 crittercism.com
 csdian.net
 d24n15hnbwhuhn.cloudfront.net
@@ -4997,8 +5008,8 @@ d38fey2d93vryi.cloudfront.net
 d4n.platformd.com
 dap.digitalgov.gov
 databerries.com
-discountcode.dailymail.co.uk
 distillery.wistia.com
+dlog.hiido.com
 dm.gg
 dm599.com
 dmxleo.com
@@ -5021,7 +5032,6 @@ eviltracker.net
 evt.mxplay.com
 fastly-insights.com
 fathomseo.com
-fff.dailymail.co.uk
 firsthive.com
 flagcounter.com
 freegeoip.net
@@ -5029,7 +5039,10 @@ frog.wix.com
 front.optimonk.com
 g.3gl.net
 ga.clearbit.com
+ga.getresponse.com
 ga.kvideo.io
+geo.adobe.com
+geo2.adobe.com
 geoip.nekudo.com
 geoip.tnt-ea.com
 geolocation.onetrust.com
@@ -5042,7 +5055,6 @@ gotoip55.com
 grabify.link
 gravityrd-services.com
 greedseed.world
-gs.dailymail.co.uk
 guihua-china.com
 gurgle.zdbb.net
 h-sdk.online-metrix.net
@@ -5050,6 +5062,7 @@ hairtease.com
 hitcpm.com
 hits.theguardian.com
 hitwebcounter.com
+hlog.hiido.com
 hostg.xyz
 hsbarbershop.co.uk
 hscta.net
@@ -5072,6 +5085,7 @@ ip-api.com
 js.hscollectedforms.net
 js.hsleadflows.net
 jsonip.com
+jtracking.lulusoft.com
 justuno.com
 k6r.net
 kameleoon.eu
@@ -5079,6 +5093,7 @@ kidsghibli.com
 kissmetrics.com
 kitbit.net
 kkvmaj.com
+klog.hiido.com
 largeer.com
 lcs.loginfra.com
 leadzutw.com
@@ -5093,12 +5108,14 @@ log.kmplayer.com
 log.kuwo.cn
 log.quora.com
 log.snapdeal.com
+log.snow.me
 log.tutuapp.com
 log.umsns.com
 log.ventunotech.com
 log.zoom.us
 logfiles.zoom.us
 logger.unsplash.com
+logging.goclean.tech
 logs.amap.com
 logsss.com
 loles.neostrada.pl
@@ -5116,6 +5133,7 @@ metrics.brightcove.com
 metrics.cloudflarebolt.com
 metrics.redgifs.com
 metrics.sdkbox.com
+mlog.hiido.com
 moatpixel.com
 mobiletelemetry.ebay.com
 mon.toutiaocloud.com
@@ -5142,6 +5160,7 @@ p.typekit.net
 pebed.dm.gg
 pegloang.com
 pi.pardot.com
+ping.kitidi.com
 pipedream.wistia.com
 pixanalytics.pixnet.net
 pixanalytics2.pixnet.net
@@ -5199,11 +5218,11 @@ salesloft.com
 sam4m.com
 saspreview.com
 sc-static.net
+selfishsnake.com
 semantiqo.com
 sessions.bugsnag.com
 sg.a.stat.mi.com
 showbiz.owndata.network
-si.dailymail.co.uk
 simplesharebuttons.com
 singular.net
 siteimproveanalytics.com
@@ -5211,6 +5230,7 @@ siteimproveanalytics.io
 smart-dmp.com
 smetrics.bestbuy.com
 smetrics.boston.com
+smetrics.fedex.com
 snnd.co
 soflopxl.com
 soidc.com
@@ -5225,6 +5245,8 @@ static.intentarget.com
 static.leaddyno.com
 stats.apester.com
 stats.betradar.com
+stats.pusher.com
+stats.searchftps.net
 stats.unlimapps.com
 stats.wp.com
 stats.xtb.com
@@ -5235,6 +5257,7 @@ subscribers.com
 summerhamster.com
 suriflowers.com
 surveywall-api.survata.com
+swa.and.co.uk
 sync2ad.com
 t.9gag.com
 t.dailymail.co.uk
@@ -5248,7 +5271,10 @@ ted.metro.co.uk
 tedgenet.com
 theirsvendor.com
 thoosje.com
+tlog.hiido.com
 to.getnitropack.com
+tobapplog.ctobsnssdk.com
+toblog.ctobsnssdk.com
 track.56txs4.com
 track.analytics-data.io
 track.datetrck.com
@@ -5259,6 +5285,7 @@ track.sohu.com
 track.td3x.com
 track.tenjin.io
 track.videmob.com
+track.wattpad.com
 trackcmp.net
 tracker.affirm.com
 tracker.idocdn.com
@@ -5266,6 +5293,7 @@ tracker.vgame.us
 trackersimulator.org
 tracking-server-prod-1.zenmxapps.com
 tracking.adsrv.io
+tracking.bodis.com
 tracking.hubspot.com
 tracking.lenzmx.com
 trk.clinch.co
@@ -5300,6 +5328,8 @@ widget.trustpilot.com
 wieistmeineip.de
 wt.soundestlink.com
 wzrkt.com
+xlog.hiido.com
+ylog.hiido.com
 ylog.huya.com
 ylog.nimo.tv
 ymtracking.com

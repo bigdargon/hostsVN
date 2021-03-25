@@ -468,6 +468,7 @@
 0.0.0.0 mobileanalytics.us-west-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
 0.0.0.0 pinpoint.us-east-1.amazonaws.com
+0.0.0.0 surveygizmobeacon.s3.amazonaws.com
 #[tumblr]
 0.0.0.0 platform.tumblr.com
 0.0.0.0 ls.srvcs.tumblr.com
@@ -11730,6 +11731,7 @@
 0.0.0.0 casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 dsum.casalemedia.com
+0.0.0.0 htlb.casalemedia.com
 0.0.0.0 js-sec.casalemedia.com
 0.0.0.0 js.casalemedia.com
 0.0.0.0 r.casalemedia.com
@@ -12179,3 +12181,71 @@
 0.0.0.0 cdn.creativesumo.com
 0.0.0.0 creativesumo.com
 0.0.0.0 www.creativesumo.com
+#[convertful.com]
+0.0.0.0 app.convertful.com
+0.0.0.0 cdn.convertful.com
+0.0.0.0 convertful.com
+0.0.0.0 www.convertful.com
+#[oppomobile.com]
+0.0.0.0 adx-id.ads.oppomobile.com
+0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 bdapi.ads.oppomobile.com
+0.0.0.0 bjdata.ads.oppomobile.com
+0.0.0.0 data-id.ads.oppomobile.com
+0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 uapi.ads.oppomobile.com
+0.0.0.0 adsfs.oppomobile.com
+#[ads.heytapmobile.com]
+0.0.0.0 ads.heytapmobile.com
+0.0.0.0 adx-f.ads.heytapmobile.com
+0.0.0.0 adx-id.ads.heytapmobile.com
+0.0.0.0 adx-in.ads.heytapmobile.com
+0.0.0.0 adx-kh.ads.heytapmobile.com
+0.0.0.0 adx-mm.ads.heytapmobile.com
+0.0.0.0 adx-my.ads.heytapmobile.com
+0.0.0.0 adx-ph.ads.heytapmobile.com
+0.0.0.0 adx-sg.ads.heytapmobile.com
+0.0.0.0 adx-th.ads.heytapmobile.com
+0.0.0.0 adx-tw.ads.heytapmobile.com
+0.0.0.0 adx-vn.ads.heytapmobile.com
+0.0.0.0 bdapi-id.ads.heytapmobile.com
+0.0.0.0 bdapi-in.ads.heytapmobile.com
+0.0.0.0 cl-data-f.ads.heytapmobile.com
+0.0.0.0 cl-data-id.ads.heytapmobile.com
+0.0.0.0 cl-data-in.ads.heytapmobile.com
+0.0.0.0 cl-data-vn.ads.heytapmobile.com
+0.0.0.0 stg-data-f.ads.heytapmobile.com
+0.0.0.0 stg-data-id.ads.heytapmobile.com
+0.0.0.0 stg-data-in.ads.heytapmobile.com
+0.0.0.0 stg-data-kh.ads.heytapmobile.com
+0.0.0.0 stg-data-mm.ads.heytapmobile.com
+0.0.0.0 stg-data-my.ads.heytapmobile.com
+0.0.0.0 stg-data-ph.ads.heytapmobile.com
+0.0.0.0 stg-data-sg.ads.heytapmobile.com
+0.0.0.0 stg-data-th.ads.heytapmobile.com
+0.0.0.0 stg-data-tw.ads.heytapmobile.com
+0.0.0.0 stg-data-vn.ads.heytapmobile.com
+#[trackonomics.net]
+0.0.0.0 app.trackonomics.net
+0.0.0.0 cdn-magiclinks.trackonomics.net
+0.0.0.0 trackonomics.net
+0.0.0.0 www.trackonomics.net
+#[liadm.com]
+0.0.0.0 d.liadm.com
+0.0.0.0 i.liadm.com
+0.0.0.0 idx.liadm.com
+0.0.0.0 liadm.com
+0.0.0.0 p.liadm.com
+#[rkdms.com]
+0.0.0.0 mct.rkdms.com
+0.0.0.0 mid.rkdms.com
+0.0.0.0 rkdms.com
+0.0.0.0 www.rkdms.com
+#[trustx.org]
+0.0.0.0 sofia.trustx.org
+0.0.0.0 trustx.org
+0.0.0.0 www.trustx.org
+#[cohesionapps.com]
+0.0.0.0 analytics.cohesionapps.com
+0.0.0.0 cdn.cohesionapps.com
+0.0.0.0 cohesionapps.com

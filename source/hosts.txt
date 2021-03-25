@@ -471,6 +471,7 @@
 0.0.0.0 ads.gawker.com
 0.0.0.0 ads.geekswithblogs.net
 0.0.0.0 ads.getlucky.com
+0.0.0.0 ads.goclean.tech
 0.0.0.0 ads.goyk.com
 0.0.0.0 ads.gplusmedia.com
 0.0.0.0 ads.gradfinder.com
@@ -513,6 +514,7 @@
 0.0.0.0 ads.kelbymediagroup.com
 0.0.0.0 ads.kinobox.cz
 0.0.0.0 ads.kinxxx.com
+0.0.0.0 ads.kitidi.com
 0.0.0.0 ads.kompass.com
 0.0.0.0 ads.krawall.de
 0.0.0.0 ads.lapalingo.com
@@ -1013,6 +1015,7 @@
 0.0.0.0 assignedlikecrawford.com
 0.0.0.0 assuremath.com
 0.0.0.0 at-adserver.alltop.com
+0.0.0.0 at.cbsi.com
 0.0.0.0 athena-ads.wikia.com
 0.0.0.0 atlassolutions.com
 0.0.0.0 atp.io
@@ -1428,6 +1431,7 @@
 0.0.0.0 concernedcondition.com
 0.0.0.0 concert.io
 0.0.0.0 concertads-configs.vox-cdn.com
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 confirmed-profits.com
 0.0.0.0 connect.scroll.com
 0.0.0.0 connection1safety.com
@@ -2104,6 +2108,7 @@
 0.0.0.0 joeyzzvkpjha.com
 0.0.0.0 jokedollars.com
 0.0.0.0 jomtingi.net
+0.0.0.0 js.pusher.com
 0.0.0.0 jugjetwok.com
 0.0.0.0 julysystems.com
 0.0.0.0 jumptap.com
@@ -2158,7 +2163,6 @@
 0.0.0.0 lettucelimit.com
 0.0.0.0 levelrate.de
 0.0.0.0 lfstmedia.com
-0.0.0.0 liadm.com
 0.0.0.0 lib.vmweb.net
 0.0.0.0 liftdna.com
 0.0.0.0 ligatus.de
@@ -2770,6 +2774,7 @@
 0.0.0.0 pushengage.com
 0.0.0.0 pushlaram.com
 0.0.0.0 pushlum.com
+0.0.0.0 pushmono.com
 0.0.0.0 pushno.com
 0.0.0.0 pushokey.com
 0.0.0.0 pushqwer.com
@@ -2890,7 +2895,6 @@
 0.0.0.0 ritzykey.com
 0.0.0.0 ritzysponge.com
 0.0.0.0 riverhit.com
-0.0.0.0 rkdms.com
 0.0.0.0 rle.ru
 0.0.0.0 rmedia.boston.com
 0.0.0.0 rmiesnorthur.pro
@@ -3055,7 +3059,6 @@
 0.0.0.0 sneakystamp.com
 0.0.0.0 snoobi.com
 0.0.0.0 socialspark.com
-0.0.0.0 sofia.trustx.org
 0.0.0.0 softclick.com.br
 0.0.0.0 sojern.com
 0.0.0.0 sombersea.com
@@ -3381,7 +3384,6 @@
 0.0.0.0 trumpia.com
 0.0.0.0 trustaffs.com
 0.0.0.0 trustednotice.news
-0.0.0.0 trustx.org
 0.0.0.0 tubecup.net
 0.0.0.0 tubedspots.com
 0.0.0.0 tubemogul.com
@@ -3820,7 +3822,6 @@
 0.0.0.0 bafuhotel.com
 0.0.0.0 bango.net
 0.0.0.0 batchlogging4.truecaller.com
-0.0.0.0 bc.dailymail.co.uk
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.shazam.com
@@ -3840,6 +3841,7 @@
 0.0.0.0 ccgateway.net
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.promotionengine.com
+0.0.0.0 cdn.viglink.com
 0.0.0.0 cedexis.com
 0.0.0.0 clarity.ms
 0.0.0.0 clerrrep.com
@@ -3857,7 +3859,6 @@
 0.0.0.0 coralogix.com
 0.0.0.0 count.ly
 0.0.0.0 counter.pixplug.in
-0.0.0.0 creative.dailymail.co.uk
 0.0.0.0 crittercism.com
 0.0.0.0 csdian.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
@@ -3865,8 +3866,8 @@
 0.0.0.0 d4n.platformd.com
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 databerries.com
-0.0.0.0 discountcode.dailymail.co.uk
 0.0.0.0 distillery.wistia.com
+0.0.0.0 dlog.hiido.com
 0.0.0.0 dm.gg
 0.0.0.0 dm599.com
 0.0.0.0 dmxleo.com
@@ -3889,7 +3890,6 @@
 0.0.0.0 evt.mxplay.com
 0.0.0.0 fastly-insights.com
 0.0.0.0 fathomseo.com
-0.0.0.0 fff.dailymail.co.uk
 0.0.0.0 firsthive.com
 0.0.0.0 flagcounter.com
 0.0.0.0 freegeoip.net
@@ -3897,7 +3897,10 @@
 0.0.0.0 front.optimonk.com
 0.0.0.0 g.3gl.net
 0.0.0.0 ga.clearbit.com
+0.0.0.0 ga.getresponse.com
 0.0.0.0 ga.kvideo.io
+0.0.0.0 geo.adobe.com
+0.0.0.0 geo2.adobe.com
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geoip.tnt-ea.com
 0.0.0.0 geolocation.onetrust.com
@@ -3910,7 +3913,6 @@
 0.0.0.0 grabify.link
 0.0.0.0 gravityrd-services.com
 0.0.0.0 greedseed.world
-0.0.0.0 gs.dailymail.co.uk
 0.0.0.0 guihua-china.com
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 h-sdk.online-metrix.net
@@ -3918,6 +3920,7 @@
 0.0.0.0 hitcpm.com
 0.0.0.0 hits.theguardian.com
 0.0.0.0 hitwebcounter.com
+0.0.0.0 hlog.hiido.com
 0.0.0.0 hostg.xyz
 0.0.0.0 hsbarbershop.co.uk
 0.0.0.0 hscta.net
@@ -3940,6 +3943,7 @@
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 jsonip.com
+0.0.0.0 jtracking.lulusoft.com
 0.0.0.0 justuno.com
 0.0.0.0 k6r.net
 0.0.0.0 kameleoon.eu
@@ -3947,6 +3951,7 @@
 0.0.0.0 kissmetrics.com
 0.0.0.0 kitbit.net
 0.0.0.0 kkvmaj.com
+0.0.0.0 klog.hiido.com
 0.0.0.0 largeer.com
 0.0.0.0 lcs.loginfra.com
 0.0.0.0 leadzutw.com
@@ -3961,12 +3966,14 @@
 0.0.0.0 log.kuwo.cn
 0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
+0.0.0.0 log.snow.me
 0.0.0.0 log.tutuapp.com
 0.0.0.0 log.umsns.com
 0.0.0.0 log.ventunotech.com
 0.0.0.0 log.zoom.us
 0.0.0.0 logfiles.zoom.us
 0.0.0.0 logger.unsplash.com
+0.0.0.0 logging.goclean.tech
 0.0.0.0 logs.amap.com
 0.0.0.0 logsss.com
 0.0.0.0 loles.neostrada.pl
@@ -3984,6 +3991,7 @@
 0.0.0.0 metrics.cloudflarebolt.com
 0.0.0.0 metrics.redgifs.com
 0.0.0.0 metrics.sdkbox.com
+0.0.0.0 mlog.hiido.com
 0.0.0.0 moatpixel.com
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 mon.toutiaocloud.com
@@ -4010,6 +4018,7 @@
 0.0.0.0 pebed.dm.gg
 0.0.0.0 pegloang.com
 0.0.0.0 pi.pardot.com
+0.0.0.0 ping.kitidi.com
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pixanalytics.pixnet.net
 0.0.0.0 pixanalytics2.pixnet.net
@@ -4067,11 +4076,11 @@
 0.0.0.0 sam4m.com
 0.0.0.0 saspreview.com
 0.0.0.0 sc-static.net
+0.0.0.0 selfishsnake.com
 0.0.0.0 semantiqo.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 sg.a.stat.mi.com
 0.0.0.0 showbiz.owndata.network
-0.0.0.0 si.dailymail.co.uk
 0.0.0.0 simplesharebuttons.com
 0.0.0.0 singular.net
 0.0.0.0 siteimproveanalytics.com
@@ -4079,6 +4088,7 @@
 0.0.0.0 smart-dmp.com
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 smetrics.boston.com
+0.0.0.0 smetrics.fedex.com
 0.0.0.0 snnd.co
 0.0.0.0 soflopxl.com
 0.0.0.0 soidc.com
@@ -4093,6 +4103,8 @@
 0.0.0.0 static.leaddyno.com
 0.0.0.0 stats.apester.com
 0.0.0.0 stats.betradar.com
+0.0.0.0 stats.pusher.com
+0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.unlimapps.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.xtb.com
@@ -4103,6 +4115,7 @@
 0.0.0.0 summerhamster.com
 0.0.0.0 suriflowers.com
 0.0.0.0 surveywall-api.survata.com
+0.0.0.0 swa.and.co.uk
 0.0.0.0 sync2ad.com
 0.0.0.0 t.9gag.com
 0.0.0.0 t.dailymail.co.uk
@@ -4116,7 +4129,10 @@
 0.0.0.0 tedgenet.com
 0.0.0.0 theirsvendor.com
 0.0.0.0 thoosje.com
+0.0.0.0 tlog.hiido.com
 0.0.0.0 to.getnitropack.com
+0.0.0.0 tobapplog.ctobsnssdk.com
+0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 track.56txs4.com
 0.0.0.0 track.analytics-data.io
 0.0.0.0 track.datetrck.com
@@ -4127,6 +4143,7 @@
 0.0.0.0 track.td3x.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.videmob.com
+0.0.0.0 track.wattpad.com
 0.0.0.0 trackcmp.net
 0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.idocdn.com
@@ -4134,6 +4151,7 @@
 0.0.0.0 trackersimulator.org
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.adsrv.io
+0.0.0.0 tracking.bodis.com
 0.0.0.0 tracking.hubspot.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 trk.clinch.co
@@ -4190,6 +4208,8 @@
 0.0.0.0 www.w3counter.com
 0.0.0.0 www.weigezhiyao.com
 0.0.0.0 wzrkt.com
+0.0.0.0 xlog.hiido.com
+0.0.0.0 ylog.hiido.com
 0.0.0.0 ylog.huya.com
 0.0.0.0 ylog.nimo.tv
 0.0.0.0 ymtracking.com
