@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 Mar 2021 09:34 UTC+7
-! Version: 2103260934
-! Blocked: 6,190 rules
+! Last modified: 26 Mar 2021 09:42 UTC+7
+! Version: 2103260942
+! Blocked: 6,191 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6109,6 +6109,7 @@
 ||track.56txs4.com^
 ||track.analytics-data.io^
 ||track.datetrck.com^
+||track.easeus.com^
 ||track.hubspot.com^
 ||track.mobgc.com^
 ||track.omg543.com^
