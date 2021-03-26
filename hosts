@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 Mar 2021 11:41 UTC+7
-# Version: 2103251141
-# Blocked: 17,388 domains
+# Last modified: 26 Mar 2021 09:34 UTC+7
+# Version: 2103260934
+# Blocked: 17,403 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12306,6 +12306,13 @@
 0.0.0.0 adcome.cn
 0.0.0.0 api.adcome.cn
 0.0.0.0 www.adcome.cn
+#[king.com]
+0.0.0.0 adtrack.king.com
+0.0.0.0 servicelayer.king.com
+#[midasplayer.com]
+0.0.0.0 adtrack1.midasplayer.com
+0.0.0.0 bling2.midasplayer.com
+0.0.0.0 p.midasplayer.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13763,6 +13770,13 @@
 0.0.0.0 loind.mobio.vn
 0.0.0.0 mobio.vn
 0.0.0.0 www.mobio.vn
+#[stats.vng.com.vn]
+0.0.0.0 bm.stats.vng.com.vn
+0.0.0.0 kpi.stats.vng.com.vn
+0.0.0.0 notebook.stats.vng.com.vn
+0.0.0.0 oss.stats.vng.com.vn
+0.0.0.0 sso.stats.vng.com.vn
+0.0.0.0 stats.vng.com.vn
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -15258,6 +15272,7 @@
 0.0.0.0 awzbijw.com
 0.0.0.0 axdsz.pro
 0.0.0.0 axiomaticalley.com
+0.0.0.0 ay.delivery
 0.0.0.0 aylarl.com
 0.0.0.0 azoaltou.com
 0.0.0.0 b-1st.com
@@ -17192,7 +17207,6 @@
 0.0.0.0 server.iad.liveperson.net
 0.0.0.0 servethis.com
 0.0.0.0 service.cmp.oath.com
-0.0.0.0 servicelayer.king.com
 0.0.0.0 services.hearstmags.com
 0.0.0.0 servsave.com
 0.0.0.0 sessioncam.com
@@ -17968,7 +17982,6 @@
 0.0.0.0 acint.net
 0.0.0.0 adentify.com
 0.0.0.0 adj.st
-0.0.0.0 adtrack.king.com
 0.0.0.0 akuaba.chez.com
 0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 analytics-au.clickdimensions.com
@@ -18007,9 +18020,11 @@
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.publitas.com
 0.0.0.0 analytics.samdd.me
+0.0.0.0 analytics.shift.agency
 0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.similarweb.com
 0.0.0.0 analytics.swiggy.com
+0.0.0.0 analytics.youronlinechoices.com
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analyticsapi.bsbportal.com
 0.0.0.0 android-stat.acestream.net
@@ -18146,6 +18161,7 @@
 0.0.0.0 img.leadzutw.com
 0.0.0.0 imp.pvnsolutions.com
 0.0.0.0 inside-graph.com
+0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intent.cbsi.com
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 invoca.net
@@ -18207,6 +18223,7 @@
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 mon.toutiaocloud.com
 0.0.0.0 mon.toutiaocloud.net
+0.0.0.0 monitoring.youronlinechoices.com
 0.0.0.0 montacarichi.it
 0.0.0.0 mousestats.com
 0.0.0.0 movestone.net
@@ -18361,6 +18378,7 @@
 0.0.0.0 tracker.vgame.us
 0.0.0.0 trackersimulator.org
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
+0.0.0.0 tracking-user-behavior.meeyland.com
 0.0.0.0 tracking.adsrv.io
 0.0.0.0 tracking.bodis.com
 0.0.0.0 tracking.hubspot.com

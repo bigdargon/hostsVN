@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 25 Mar 2021 11:41 UTC+7
-! Version: 2103251141
-! Blocked: 6,180 domains
+! Last modified: 26 Mar 2021 09:34 UTC+7
+! Version: 2103260934
+! Blocked: 6,190 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -157,6 +157,7 @@ sporttv.today
 starseed.fr
 static-ads.zaloapp.com
 static.accesstrade.vn
+stats.vng.com.vn
 stats.zaloapp.com
 subiz-cdn.com
 subiz.com
@@ -1004,6 +1005,8 @@ adtilt.com
 adtimes.nytimes.com
 adtlgc.com
 adtng.com
+adtrack.king.com
+adtrack1.midasplayer.com
 adtrackers.net
 adtrue.com
 adup-tech.com
@@ -1186,6 +1189,7 @@ bizible.com
 bizographics.com
 bj1*.online
 bkrtx.com
+bling2.midasplayer.com
 blogherads.com
 blueadss.com
 bluekai.com
@@ -1715,6 +1719,7 @@ otm-r.com
 otnolatrnup.com
 outbrain.com
 outbrainimg.com
+p.midasplayer.com
 pagead*.l.google.com
 pangle.io
 parrable.com
@@ -1857,6 +1862,7 @@ servedbyopenx.com
 servenobid.com
 server-analytics.snapchat.com
 serverbid.com
+servicelayer.king.com
 services.disqus.com
 serving-sys.com
 serving1.net
@@ -3100,6 +3106,7 @@ awin1.com
 awzbijw.com
 axdsz.pro
 axiomaticalley.com
+ay.delivery
 aylarl.com
 azoaltou.com
 b-1st.com
@@ -5038,7 +5045,6 @@ servedbyadbutler.com
 server.iad.liveperson.net
 servethis.com
 service.cmp.oath.com
-servicelayer.king.com
 services.hearstmags.com
 servsave.com
 sessioncam.com
@@ -5719,7 +5725,6 @@ a3cloud.net
 acint.net
 adentify.com
 adj.st
-adtrack.king.com
 akuaba.chez.com
 analysis.polarisoffice.com
 analytics-au.clickdimensions.com
@@ -5758,9 +5763,11 @@ analytics.poolshool.com
 analytics.posttv.com
 analytics.publitas.com
 analytics.samdd.me
+analytics.shift.agency
 analytics.siliconexpert.com
 analytics.similarweb.com
 analytics.swiggy.com
+analytics.youronlinechoices.com
 analytics.ziftsolutions.com
 analyticsapi.bsbportal.com
 android-stat.acestream.net
@@ -5897,6 +5904,7 @@ ie8eamus.com
 img.leadzutw.com
 imp.pvnsolutions.com
 inside-graph.com
+intake-analytics.wikimedia.org
 intent.cbsi.com
 invitejs.trustpilot.com
 invoca.net
@@ -5958,6 +5966,7 @@ moatpixel.com
 mobiletelemetry.ebay.com
 mon.toutiaocloud.com
 mon.toutiaocloud.net
+monitoring.youronlinechoices.com
 montacarichi.it
 mousestats.com
 movestone.net
@@ -6112,6 +6121,7 @@ tracker.idocdn.com
 tracker.vgame.us
 trackersimulator.org
 tracking-server-prod-1.zenmxapps.com
+tracking-user-behavior.meeyland.com
 tracking.adsrv.io
 tracking.bodis.com
 tracking.hubspot.com

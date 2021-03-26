@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 Mar 2021 11:41 UTC+7
-# Version: 2103251141
-# Blocked: 1,762 domains
+# Last modified: 26 Mar 2021 09:34 UTC+7
+# Version: 2103260934
+# Blocked: 1,768 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1467,6 +1467,13 @@
 0.0.0.0 loind.mobio.vn
 0.0.0.0 mobio.vn
 0.0.0.0 www.mobio.vn
+#[stats.vng.com.vn]
+0.0.0.0 bm.stats.vng.com.vn
+0.0.0.0 kpi.stats.vng.com.vn
+0.0.0.0 notebook.stats.vng.com.vn
+0.0.0.0 oss.stats.vng.com.vn
+0.0.0.0 sso.stats.vng.com.vn
+0.0.0.0 stats.vng.com.vn
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn

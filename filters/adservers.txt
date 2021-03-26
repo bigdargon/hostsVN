@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Mar 2021 11:41 UTC+7
-! Version: 2103251141
-! Blocked: 818 rules
+! Last modified: 26 Mar 2021 09:34 UTC+7
+! Version: 2103260934
+! Blocked: 819 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -159,6 +159,7 @@
 ||starseed.fr^
 ||static-ads.zaloapp.com^
 ||static.accesstrade.vn^
+||stats.vng.com.vn^
 ||stats.zaloapp.com^
 ||subiz-cdn.com^
 ||subiz.com^
