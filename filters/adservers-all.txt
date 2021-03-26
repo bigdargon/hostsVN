@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 Mar 2021 09:42 UTC+7
-! Version: 2103260942
-! Blocked: 6,191 rules
+! Last modified: 26 Mar 2021 11:38 UTC+7
+! Version: 2103261138
+! Blocked: 6,189 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5871,10 +5871,8 @@
 ||ga.getresponse.com^
 ||ga.kvideo.io^
 ||geo.adobe.com^
-||geo2.adobe.com^
 ||geoip.nekudo.com^
 ||geoip.tnt-ea.com^
-||geolocation.onetrust.com^
 ||getexceptional.com^
 ||getsitecontrol.com^
 ||glanceguide.com^
