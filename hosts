@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 26 Mar 2021 11:38 UTC+7
-# Version: 2103261138
-# Blocked: 17,402 domains
+# Last modified: 26 Mar 2021 14:16 UTC+7
+# Version: 2103261416
+# Blocked: 17,401 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12312,7 +12312,6 @@
 #[midasplayer.com]
 0.0.0.0 adtrack1.midasplayer.com
 0.0.0.0 bling2.midasplayer.com
-0.0.0.0 p.midasplayer.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn

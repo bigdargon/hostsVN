@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 Mar 2021 11:38 UTC+7
-! Version: 2103261138
-! Blocked: 6,189 rules
+! Last modified: 26 Mar 2021 14:16 UTC+7
+! Version: 2103261416
+! Blocked: 6,188 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1721,7 +1721,6 @@
 ||otnolatrnup.com^
 ||outbrain.com^
 ||outbrainimg.com^
-||p.midasplayer.com^
 ||pagead*.l.google.com^
 ||pangle.io^
 ||parrable.com^
