@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 Mar 2021 14:16 UTC+7
-! Version: 2103261416
-! Blocked: 6,188 rules
+! Last modified: 27 Mar 2021 15:42 UTC+7
+! Version: 2103271542
+! Blocked: 6,194 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -459,6 +459,7 @@
 ||blogstatistics.sapoapps.vn^
 ||btrack.homedy.com^
 ||bwstatistics.bizwebapps.vn^
+||bwstatistics.sapoapps.vn^
 ||cdn.doke.app^
 ||cdn.tekoapis.com^
 ||clicker.chiaki.vn^
@@ -559,6 +560,7 @@
 ||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
 ||staticad.thethao247.vn^
+||statis.dsp.vn^
 ||statistic.batdongsan.com.vn^
 ||statistics.tapchimypham.com.vn^
 ||statistics.vov.vn^
@@ -2963,6 +2965,7 @@
 ||affinity.com^
 ||afftracking.justanswer.com^
 ||africaewgrhdtb.com^
+||agafurretor.com^
 ||agreeableprice.com^
 ||agreeablestew.com^
 ||agreemand.com^
@@ -3645,6 +3648,7 @@
 ||directtrack.com^
 ||discountclick.com^
 ||discreetfield.com^
+||dislanelibrar.top^
 ||dispatcher.mng-ads.com^
 ||dispensablestranger.com^
 ||displayadsmedia.com^
@@ -3933,6 +3937,7 @@
 ||goldstats.com^
 ||gondolagnome.com^
 ||googleads.github.io^
+||gopejk.com^
 ||gorgeousground.com^
 ||gossipmiser.com^
 ||gostats.com^
@@ -5668,6 +5673,7 @@
 ||yads.c.yimg.jp^
 ||ybrantdigital.com^
 ||ydworld.com^
+||yealnk.com^
 ||yesads.com^
 ||yesadvertising.com^
 ||yieldads.com^
