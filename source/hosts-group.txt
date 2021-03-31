@@ -288,6 +288,8 @@
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msn.com
 0.0.0.0 blu.mobileads.msn.com
+0.0.0.0 browser.events.data.msn.com
+0.0.0.0 c.msn.com
 0.0.0.0 col.mobileads.msn.com
 0.0.0.0 dub.mobileads.msn.com
 0.0.0.0 images.adsyndication.msn.com
@@ -12300,3 +12302,27 @@
 #[midasplayer.com]
 0.0.0.0 adtrack1.midasplayer.com
 0.0.0.0 bling2.midasplayer.com
+#[clarity.ms]
+0.0.0.0 c.clarity.ms
+0.0.0.0 clarity.ms
+0.0.0.0 log.clarity.ms
+0.0.0.0 www.clarity.ms
+#[adxpremium.services]
+0.0.0.0 adxpremium.services
+0.0.0.0 pix.adxpremium.services
+0.0.0.0 rtb.adxpremium.services
+0.0.0.0 www.adxpremium.services
+#[czilladx.com]
+0.0.0.0 cdn.czilladx.com
+0.0.0.0 czilladx.com
+0.0.0.0 request-global.czilladx.com
+0.0.0.0 request.czilladx.com
+#[analytics.autodesk.com]
+0.0.0.0 analytics.autodesk.com
+0.0.0.0 akn.analytics.autodesk.com
+#[adelement.com]
+0.0.0.0 adelement.com
+0.0.0.0 ads.adelement.com
+0.0.0.0 ctv.adelement.com
+0.0.0.0 sc.adelement.com
+0.0.0.0 st.adelement.com

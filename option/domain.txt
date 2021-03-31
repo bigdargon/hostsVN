@@ -265,6 +265,8 @@ analytics.r.msn.com
 b.ads1.msn.com
 b.ads2.msn.com
 blu.mobileads.msn.com
+browser.events.data.msn.com
+c.msn.com
 col.mobileads.msn.com
 dub.mobileads.msn.com
 images.adsyndication.msn.com
@@ -11358,6 +11360,25 @@ adtrack.king.com
 servicelayer.king.com
 adtrack1.midasplayer.com
 bling2.midasplayer.com
+c.clarity.ms
+clarity.ms
+log.clarity.ms
+www.clarity.ms
+adxpremium.services
+pix.adxpremium.services
+rtb.adxpremium.services
+www.adxpremium.services
+cdn.czilladx.com
+czilladx.com
+request-global.czilladx.com
+request.czilladx.com
+analytics.autodesk.com
+akn.analytics.autodesk.com
+adelement.com
+ads.adelement.com
+ctv.adelement.com
+sc.adelement.com
+st.adelement.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -11870,6 +11891,7 @@ org.zaloapp.ads.zdn.vn
 zaloads-480.zdn.vn
 zplayer-trk.zdn.vn
 analytics.zapps.vn
+jslog.zapps.vn
 tracking.api.media.zapps.vn
 zplayer.trk.zapps.vn
 ad-deliver.yomedia.vn
@@ -12813,6 +12835,7 @@ bgadx.com
 bluemaulpuffs.com
 boxpr.aiservice.vn
 cdn-ads.thesaigontimes.vn
+cdn-bongdadem-net.cdn.ampproject.org
 cdn.bongdadem.net
 cdn2.cache.vn
 cdnasset.dantri.com.vn
@@ -12947,6 +12970,7 @@ analytics.vietnamfinance.vn
 analytics.vnpt.vn
 analytics.vnreview.vn
 api.ozui.vn
+apiv2.tiin.vn
 apl.headlines.pw
 app.hstatic.net
 app.sbz.workers.dev
@@ -12988,6 +13012,7 @@ log.baomoi.com
 log.baonghean.vn
 log.baophapluat.vn
 log.batdongsan.com.vn
+log.beecost.com
 log.beecost.vn
 log.daidoanket.vn
 log.dantocmiennui.vn
@@ -13043,6 +13068,7 @@ mysapo.net
 newlog.daidoanket.vn
 nstat.headlines.pw
 report.vnay.vn
+rsyslog.24h.com.vn
 s.baomoi.xdn.vn
 s.homedy.com
 s.kenh14.vn
@@ -13087,6 +13113,7 @@ tracker.fado.vn
 tracker.phunuvagiadinh.vn
 tracker.tintucvietnam.vn
 tracker.vanlong.stream
+tracking-amp.vnexpress.net
 tracking.appwifi.com
 tracking.dantri.com.vn
 tracking.fado.vn
@@ -13331,6 +13358,7 @@ adcenter.mdf.se
 adcenter.net
 adcentriconline.com
 adcept.net
+adcheap.network
 adchina.com
 adcito.com
 adclick.com
@@ -13351,7 +13379,6 @@ addesktop.com
 addfreestats.com
 addme.com
 adecn.com
-adelement.com
 ademails.com
 adengage.com
 adexchangegate.com
@@ -13684,6 +13711,7 @@ ads.ole.com
 ads.olivebrandresponse.com
 ads.oneplace.com
 ads.ontarget.mobi
+ads.opus-static.net
 ads.outpersonals.com
 ads.p161.net
 ads.passion.com
@@ -14183,6 +14211,7 @@ b4psads.com
 babs.tv2.dk
 backbeatmedia.com
 balancebreath.com
+baleiambwee.com
 balloontexture.com
 banesnorttat.cam
 banik.redigy.cz
@@ -15892,6 +15921,7 @@ pub.hardware.fr
 pub.realmedia.fr
 pub.trads.io
 pubdirecte.com
+public.wedodemos.com
 publicidad.elmundo.es
 publicidees.com
 puffyloss.com
@@ -16712,6 +16742,7 @@ www.520click.com
 www.5advertise.com
 www.999.money
 www.ad287.com
+www.adcheap.network
 www.adexchangetracker.com
 www.adnetworkperformance.com
 www.ads24h.net
@@ -16904,6 +16935,7 @@ analytics.cloudron.io
 analytics.diyriver.io
 analytics.edgesuite.net
 analytics.ff.avast.com
+analytics.gavelz.com
 analytics.getshogun.com
 analytics.headerbiddr.net
 analytics.hostyour.video
@@ -16925,6 +16957,7 @@ analytics.poolshool.com
 analytics.posttv.com
 analytics.publitas.com
 analytics.samdd.me
+analytics.samsungknox.com
 analytics.shift.agency
 analytics.siliconexpert.com
 analytics.similarweb.com
@@ -16938,6 +16971,7 @@ annedouglas.com
 api.prooffactor.com
 api.quantumgraph.com
 api.safegraph.com
+api.taps.io
 api.usebutton.com
 api.wipmania.com
 apolloprogram.io
@@ -16974,7 +17008,6 @@ cdn.onesignal.com
 cdn.promotionengine.com
 cdn.viglink.com
 cedexis.com
-clarity.ms
 clerrrep.com
 cleverpush.com
 client-analytics.braintreegateway.com
@@ -17009,6 +17042,7 @@ down.nishuoa.com
 dualstack-logs.amap.com
 dynatrace.com
 e.crashlytics.com
+e2.platform88798.com
 edigitalsurvey.com
 ethtrader.de
 etl.tindersparks.com
@@ -17049,6 +17083,7 @@ hairtease.com
 hitcpm.com
 hits.theguardian.com
 hitwebcounter.com
+hlog.bclugu.com
 hlog.hiido.com
 hostg.xyz
 hsbarbershop.co.uk
@@ -17087,9 +17122,11 @@ lcs.loginfra.com
 leadzutw.com
 lem-computers.net
 lfeeder.com
+lgglobal.ihago.net
 liftoff.io
 log.aliyuncs.com
 log.apk.v-mate.mobi
+log.avlyun.com
 log.getdropbox.com
 log.klook.com
 log.kmplayer.com
@@ -17105,6 +17142,7 @@ logfiles.zoom.us
 logger.unsplash.com
 logging.goclean.tech
 logs.amap.com
+logs.spilgames.com
 logsss.com
 loles.neostrada.pl
 mads.dailymail.co.uk
@@ -17128,6 +17166,7 @@ mon.toutiaocloud.com
 mon.toutiaocloud.net
 monitoring.youronlinechoices.com
 montacarichi.it
+monu.delivery
 mousestats.com
 movestone.net
 mybbc-analytics.files.bbci.co.uk
@@ -17150,6 +17189,7 @@ pebed.dm.gg
 pegloang.com
 pi.pardot.com
 ping.kitidi.com
+pingback.issuu.com
 pipedream.wistia.com
 pixanalytics.pixnet.net
 pixanalytics2.pixnet.net
@@ -17172,6 +17212,9 @@ privatestats.whatsapp.net
 promotionengine.com
 prooffactor.com
 propeller-tracking.com
+protostats.bigo.sg
+push.zhanzhang.baidu.com
+pv.pjtsu.com
 pv.sohu.com
 px.redgifs.com
 q.quora.com
@@ -17229,6 +17272,7 @@ srmdata.com
 ssc.api.bbc.com
 ssm.codes
 sstats.adobe.com
+stat.hackedonlinegames.com
 stathat.com
 static.intentarget.com
 static.leaddyno.com
@@ -17278,6 +17322,7 @@ track.videmob.com
 track.wattpad.com
 trackcmp.net
 tracker.affirm.com
+tracker.arc.io
 tracker.idocdn.com
 tracker.vgame.us
 trackersimulator.org
@@ -17302,6 +17347,7 @@ usertrack.net
 v3.fstats.xyz
 vdtrack.com
 vectaury.io
+vercel-analytics.com
 vilagnomad.com
 visitor.pixplug.in
 vizu.com
