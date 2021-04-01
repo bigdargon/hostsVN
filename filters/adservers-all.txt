@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 01 Apr 2021 10:58 UTC+7
-! Version: 2104011058
-! Blocked: 6,240 rules
+! Last modified: 01 Apr 2021 16:09 UTC+7
+! Version: 2104011609
+! Blocked: 6,250 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -906,6 +906,7 @@
 ||addthisedge.com^
 ||addtoany.com^
 ||adelement.com^
+||adevents.msn.com^
 ||adeventtracker.spotify.com^
 ||adexchangemachine.com^
 ||adflex.asia^
@@ -955,7 +956,6 @@
 ||adroll.com^
 ||adrta.com^
 ||ads*-adnow.com^
-||ads*.msn.com^
 ||ads*.viber.com^
 ||ads-api.twitter.com^
 ||ads-bidder-api.twitter.com^
@@ -973,6 +973,7 @@
 ||ads.heytapmobile.com^
 ||ads.internal.unity3d.com^
 ||ads.linkedin.com^
+||ads.msn.com^
 ||ads.nytimes.com^
 ||ads.oppomobile.com^
 ||ads.pinterest.com^
@@ -983,6 +984,8 @@
 ||ads.twitter.com^
 ||ads.yahoo.com^
 ||ads.youtube.com^
+||ads1.msn.com^
+||ads2.msn.com^
 ||ads5-eu.truecaller.com^
 ||ads5-noneu.truecaller.com^
 ||ads5.truecaller.com^
@@ -1095,6 +1098,7 @@
 ||analytics.live.com^
 ||analytics.mobile.yandex.net^
 ||analytics.msn.com^
+||analytics.msnbc.msn.com^
 ||analytics.pinterest.com^
 ||analytics.query.yahoo.com^
 ||analytics.spotify.com^
@@ -1785,6 +1789,7 @@
 ||popclck.org^
 ||popin.cc^
 ||popnc.com^
+||popup.msn.com^
 ||postrelease.com^
 ||powerlinks.com^
 ||pr-bh.ybp.yahoo.com^
@@ -1820,7 +1825,9 @@
 ||quantserve.com^
 ||quantumdex.io^
 ||r-ad.ne.jp^
+||r.msn.com^
 ||rad.live.com^
+||rads.msn.com^
 ||rakutenmarketing.com^
 ||rayads.cn^
 ||rayjump.com^
@@ -1849,6 +1856,7 @@
 ||richmediaads.com^
 ||rkdms.com^
 ||rlcdn.com^
+||rmads.msn.com^
 ||rmp.rakuten.com^
 ||rmtag.com^
 ||rosenberg.appmetrica.yandex.net^
@@ -1871,6 +1879,7 @@
 ||safedk.com^
 ||sail-horizon.com^
 ||salesmanago.pl^
+||sam.msn.com^
 ||samba.tv^
 ||sascdn.com^
 ||scanscout.com^
@@ -1931,6 +1940,7 @@
 ||sphereup.com^
 ||spotscenered.info^
 ||spotxchange.com^
+||srtb.msn.com^
 ||srvcs.tumblr.com^
 ||ssl-google-analytics.l.google.com^
 ||stack-sonar.com^
@@ -2000,6 +2010,7 @@
 ||tx-hit.com^
 ||tynt.com^
 ||uc.ucweb.com^
+||udc.msn.com^
 ||uedata.amazon.com^
 ||ugdturner.com^
 ||umeng.co^
@@ -3084,7 +3095,6 @@
 ||apture.com^
 ||apusx.com^
 ||aquaticowl.com^
-||arc1.msn.com^
 ||arcadebanners.com^
 ||architectzerosum.com^
 ||archswimming.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Apr 2021 10:58 UTC+7
-# Version: 2104011058
-# Blocked: 17,476 domains
+# Last modified: 01 Apr 2021 16:09 UTC+7
+# Version: 2104011609
+# Blocked: 17,471 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -264,38 +264,34 @@
 0 vid.atdmt.com
 0 view.atdmt.com
 0 www.atdmt.com
-0 a.ads1.msn.com
-0 a.ads2.msn.com
-0 a.rad.msn.com
 0 adevents.msn.com
-0 ads.eu.msn.com
 0 ads.msn.com
-0 ads1.jp.msn.com
-0 ads1.msn.com
-0 ads2.msn.com
-0 adsyndication.msn.com
-0 advertising.jp.msn.com
 0 analytics.msn.com
 0 analytics.msnbc.msn.com
-0 analytics.r.msn.com
-0 b.ads1.msn.com
-0 b.ads2.msn.com
-0 blu.mobileads.msn.com
 0 browser.events.data.msn.com
 0 c.msn.com
+0 popup.msn.com
+0 rads.msn.com
+0 rmads.msn.com
+0 sam.msn.com
+0 srtb.msn.com
+0 udc.msn.com
+0 a.ads1.msn.com
+0 ads1.msn.com
+0 b.ads1.msn.com
+0 a.ads2.msn.com
+0 ads2.msn.com
+0 b.ads2.msn.com
+0 adsyndication.msn.com
+0 images-ppe.adsyndication.msn.com
+0 images.adsyndication.msn.com
+0 blu.mobileads.msn.com
 0 col.mobileads.msn.com
 0 dub.mobileads.msn.com
-0 images.adsyndication.msn.com
 0 mobileads.msn.com
-0 msnbcmedia.msn.com
-0 partner.video.syndication.msn.com
-0 popup.msn.com
-0 rad.msn.com
-0 rads.msn.com
-0 redirection.prod.cms.msn.com
-0 rmads.eu.msn.com
-0 rmads.msn.com
-0 tracking.msadcenter.msn.com
+0 analytics.r.msn.com
+0 bat.r.msn.com
+0 r.msn.com
 0 ads.bing.com
 0 adserver.bing.com
 0 bat.bing.com
@@ -14187,7 +14183,6 @@
 0 apture.com
 0 apusx.com
 0 aquaticowl.com
-0 arc1.msn.com
 0 arcadebanners.com
 0 architectzerosum.com
 0 archswimming.com
