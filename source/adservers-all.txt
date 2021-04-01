@@ -120,9 +120,9 @@ ads*.viber.com
 ads-api.twitter.com
 ads-bidder-api.twitter.com
 ads-fa.spotify.com
+ads-privacy-api.prd.mz.internal.unity3d.com
 ads-router-noneu.truecaller.com
 ads-twitter.com
-ads.*.unity3d.com
 ads.*.yahoo.com
 ads.bing.com
 ads.cnet.com
@@ -131,10 +131,12 @@ ads.gmodules.com
 ads.google.com
 ads.heytapmobi.com
 ads.heytapmobile.com
+ads.internal.unity3d.com
 ads.linkedin.com
 ads.nytimes.com
 ads.oppomobile.com
 ads.pinterest.com
+ads.prd.ie.internal.unity3d.com
 ads.snapchat.com
 ads.tiktok.com
 ads.truecaller.com
@@ -644,6 +646,7 @@ hs-banner.com
 hs-scripts.com
 hsadspixel.net
 hubapi.com
+hwstats.unity3d.com
 i-mobile.co.jp
 i.isnssdk.com
 iad.apple.com
@@ -1034,6 +1037,8 @@ scanscout.com
 scarabresearch.com
 sclick.baidu.com
 scorecardresearch.com
+sdk-diagnostics.prd.mz.internal.unity3d.com
+sdk-diagnostics.stg.mz.internal.unity3d.com
 sdk.iad-*.braze.com
 sdkclickurl.com
 securemetrics.apple.com
@@ -1131,6 +1136,7 @@ trace.qq.com
 track.uc.cn
 tracking.intl.miui.com
 tracking.miui.com
+tracking.prd.mz.internal.unity3d.com
 trackjs.com
 trackonomics.net
 trackpush.com

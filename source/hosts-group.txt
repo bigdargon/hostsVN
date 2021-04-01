@@ -1966,39 +1966,68 @@
 0.0.0.0 as.ad-brix.com
 0.0.0.0 campaign.ad-brix.com
 0.0.0.0 config.ad-brix.com
-#[unity3d]
-0.0.0.0 admediator.unityads.unity3d.com
-0.0.0.0 ads.internal.unity3d.com
-0.0.0.0 ads.prd.ie.internal.unity3d.com
-0.0.0.0 adserver.unityads.unity3d.com
-0.0.0.0 adsx.unityads.unity3d.com
+#[unity3d.com]
+0.0.0.0 stats.unity3d.com
+0.0.0.0 hwstats.unity3d.com
+#[cloud.unity3d.com]
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 api.uca.cloud.unity3d.com
-0.0.0.0 auction.unityads.unity3d.com
-0.0.0.0 auction-master.ads.prd.ie.internal.unity3d.com
-0.0.0.0 cdn.unityads.unity3d.com
-0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
-0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 data-optout-service.uca.cloud.unity3d.com
+0.0.0.0 perf-events.cloud.unity3d.com
+0.0.0.0 userreporting.cloud.unity3d.com
+#[unityads.unity3d.com]
+0.0.0.0 admediator.unityads.unity3d.com
+0.0.0.0 ads-brand-postback.unityads.unity3d.com
+0.0.0.0 ads-game-configuration.unityads.unity3d.com
+0.0.0.0 adserver.unityads.unity3d.com
+0.0.0.0 adsx.unityads.unity3d.com
+0.0.0.0 auction-load.unityads.unity3d.com
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 auiopt.unityads.unity3d.com
+0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
+0.0.0.0 cdn-highwinds.unityads.unity3d.com
+0.0.0.0 cdn-store-icons-highwinds-prd.unityads.unity3d.com
+0.0.0.0 cdn-webview-pge-geocdn-prd.unityads.unity3d.com
+0.0.0.0 cdn-webview-pge.unityads.unity3d.com
+0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 china-cdn.unityads.unity3d.com
-0.0.0.0 ecommerce.iap.unity3d.com
-0.0.0.0 events.iap.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 dsp-tracking.unityads.unity3d.com
+0.0.0.0 dsp-vast.unityads.unity3d.com
 0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 httpkafka.unityads.unity3d.com
-0.0.0.0 hwstats.uca.cloud.unity3d.com
-0.0.0.0 hwstats.unity3d.com
-0.0.0.0 ie.unityads.unity3d.com
-0.0.0.0 local.unityads.unity3d.com
-0.0.0.0 nginx-auction-prd.ads.internal.unity3d.com
-0.0.0.0 perf-events.cloud.unity3d.com
+0.0.0.0 ingress.unityads.unity3d.com
+0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
+0.0.0.0 pge.unityads.unity3d.com
 0.0.0.0 publisher-config.unityads.unity3d.com
+0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 staging.unityads.unity3d.com
-0.0.0.0 stats.unity3d.com
-0.0.0.0 stg.ads.internal.unity3d.com
+0.0.0.0 thind.unityads.unity3d.com
 0.0.0.0 tracking.adsx.unityads.unity3d.com
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
+#[iap.unity3d.com]
+0.0.0.0 ecommerce.iap.unity3d.com
+0.0.0.0 events.iap.unity3d.com
+0.0.0.0 iap.unity3d.com
+#[ads.internal.unity3d.com]
+0.0.0.0 ads.internal.unity3d.com
+0.0.0.0 nginx-auction-legacy.ads.internal.unity3d.com
+0.0.0.0 nginx-auction-prd.ads.internal.unity3d.com
+#[mz.internal.unity3d.com]
+0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
+0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
+0.0.0.0 sdk-diagnostics.stg.mz.internal.unity3d.com
+0.0.0.0 tracking.prd.mz.internal.unity3d.com
+#[ads.prd.ie.internal.unity3d.com]
+0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
+0.0.0.0 ads.prd.ie.internal.unity3d.com
+0.0.0.0 auction-master.ads.prd.ie.internal.unity3d.com
+0.0.0.0 httpkafka.ads.prd.ie.internal.unity3d.com
+0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
 #[applvn]
 0.0.0.0 a.applvn.com
 0.0.0.0 applvn.com
