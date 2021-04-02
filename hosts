@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Apr 2021 16:09 UTC+7
-# Version: 2104011609
-# Blocked: 17,471 domains
+# Last modified: 02 Apr 2021 11:27 UTC+7
+# Version: 2104021127
+# Blocked: 17,481 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11451,6 +11451,7 @@
 0.0.0.0 mon-hl.snssdk.com
 0.0.0.0 mon.snssdk.com
 0.0.0.0 rtlog.snssdk.com
+0.0.0.0 smr.snssdk.com
 0.0.0.0 xlog.snssdk.com
 #[amemv.com]
 0.0.0.0 log3-misc-hl.amemv.com
@@ -11520,6 +11521,7 @@
 0.0.0.0 als.baidu.com
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 caclick.baidu.com
+0.0.0.0 dxp.baidu.com
 0.0.0.0 eclick.baidu.com
 0.0.0.0 fclog.baidu.com
 0.0.0.0 fxgate.baidu.com
@@ -11529,6 +11531,7 @@
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 nsclick.baidu.com
 0.0.0.0 plugin.mobopay.baidu.com
+0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 sclick.baidu.com
 0.0.0.0 usp1.baidu.com
 0.0.0.0 wkclick.baidu.com
@@ -12369,6 +12372,11 @@
 0.0.0.0 ctv.adelement.com
 0.0.0.0 sc.adelement.com
 0.0.0.0 st.adelement.com
+#[ironsrc.com]
+0.0.0.0 api.ironsrc.com
+0.0.0.0 ironsrc.com
+0.0.0.0 platform.ironsrc.com
+0.0.0.0 www.ironsrc.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14306,6 +14314,7 @@
 0.0.0.0 999.money
 0.0.0.0 a.consumer.net
 0.0.0.0 a.mktw.net
+0.0.0.0 a.photowonder.net
 0.0.0.0 a.rigelink.com
 0.0.0.0 a.sakh.com
 0.0.0.0 a.xanga.com
@@ -17288,6 +17297,7 @@
 0.0.0.0 sextracker.com
 0.0.0.0 sexystat.com
 0.0.0.0 sezwho.com
+0.0.0.0 sf3-fe-tos.pglstatp-toutiao.com
 0.0.0.0 shakesea.com
 0.0.0.0 shakesuggestion.com
 0.0.0.0 shakytaste.com
@@ -18167,6 +18177,7 @@
 0.0.0.0 databerries.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 dlog.hiido.com
+0.0.0.0 dm.bytedance.com
 0.0.0.0 dm.gg
 0.0.0.0 dm599.com
 0.0.0.0 dmxleo.com
@@ -18348,7 +18359,6 @@
 0.0.0.0 prooffactor.com
 0.0.0.0 propeller-tracking.com
 0.0.0.0 protostats.bigo.sg
-0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 pv.pjtsu.com
 0.0.0.0 pv.sohu.com
 0.0.0.0 px.redgifs.com
@@ -18413,6 +18423,7 @@
 0.0.0.0 static.leaddyno.com
 0.0.0.0 stats.apester.com
 0.0.0.0 stats.betradar.com
+0.0.0.0 stats.popcap.com
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.unlimapps.com

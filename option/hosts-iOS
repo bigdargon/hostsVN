@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Apr 2021 16:09 UTC+7
-# Version: 2104011609
-# Blocked: 17,471 domains
+# Last modified: 02 Apr 2021 11:27 UTC+7
+# Version: 2104021127
+# Blocked: 17,481 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10637,6 +10637,7 @@
 0 mon-hl.snssdk.com
 0 mon.snssdk.com
 0 rtlog.snssdk.com
+0 smr.snssdk.com
 0 xlog.snssdk.com
 0 log3-misc-hl.amemv.com
 0 log3-misc-lq.amemv.com
@@ -10697,6 +10698,7 @@
 0 als.baidu.com
 0 bzclk.baidu.com
 0 caclick.baidu.com
+0 dxp.baidu.com
 0 eclick.baidu.com
 0 fclog.baidu.com
 0 fxgate.baidu.com
@@ -10706,6 +10708,7 @@
 0 mobads-logs.baidu.com
 0 nsclick.baidu.com
 0 plugin.mobopay.baidu.com
+0 push.zhanzhang.baidu.com
 0 sclick.baidu.com
 0 usp1.baidu.com
 0 wkclick.baidu.com
@@ -11414,6 +11417,10 @@
 0 ctv.adelement.com
 0 sc.adelement.com
 0 st.adelement.com
+0 api.ironsrc.com
+0 ironsrc.com
+0 platform.ironsrc.com
+0 www.ironsrc.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13206,6 +13213,7 @@
 0 999.money
 0 a.consumer.net
 0 a.mktw.net
+0 a.photowonder.net
 0 a.rigelink.com
 0 a.sakh.com
 0 a.xanga.com
@@ -16188,6 +16196,7 @@
 0 sextracker.com
 0 sexystat.com
 0 sezwho.com
+0 sf3-fe-tos.pglstatp-toutiao.com
 0 shakesea.com
 0 shakesuggestion.com
 0 shakytaste.com
@@ -17066,6 +17075,7 @@
 0 databerries.com
 0 distillery.wistia.com
 0 dlog.hiido.com
+0 dm.bytedance.com
 0 dm.gg
 0 dm599.com
 0 dmxleo.com
@@ -17247,7 +17257,6 @@
 0 prooffactor.com
 0 propeller-tracking.com
 0 protostats.bigo.sg
-0 push.zhanzhang.baidu.com
 0 pv.pjtsu.com
 0 pv.sohu.com
 0 px.redgifs.com
@@ -17312,6 +17321,7 @@
 0 static.leaddyno.com
 0 stats.apester.com
 0 stats.betradar.com
+0 stats.popcap.com
 0 stats.pusher.com
 0 stats.searchftps.net
 0 stats.unlimapps.com
