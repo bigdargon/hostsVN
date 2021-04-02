@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 02 Apr 2021 11:27 UTC+7
-! Version: 2104021127
-! Blocked: 6,256 domains
+! Last modified: 02 Apr 2021 13:38 UTC+7
+! Version: 2104021338
+! Blocked: 6,258 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -1497,6 +1497,7 @@ iadsdk.apple.com
 iap.unity3d.com
 ibillboard.com
 ichannel.isnssdk.com
+bds.snssdk.com
 ichannel.snssdk.com
 id5-sync.com
 iesnare.com
@@ -5107,6 +5108,7 @@ sextracker.com
 sexystat.com
 sezwho.com
 sf3-fe-tos.pglstatp-toutiao.com
+sf3-ttcdn-tos.pstatp.com
 shakesea.com
 shakesuggestion.com
 shakytaste.com

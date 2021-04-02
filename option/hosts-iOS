@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Apr 2021 11:27 UTC+7
-# Version: 2104021127
-# Blocked: 17,481 domains
+# Last modified: 02 Apr 2021 13:38 UTC+7
+# Version: 2104021338
+# Blocked: 17,483 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10630,6 +10630,7 @@
 0 mon.isnssdk.com
 0 monitor.isnssdk.com
 0 rtlog.isnssdk.com
+0 bds.snssdk.com
 0 ichannel.snssdk.com
 0 log-hl.snssdk.com
 0 log-lq.snssdk.com
@@ -16197,6 +16198,7 @@
 0 sexystat.com
 0 sezwho.com
 0 sf3-fe-tos.pglstatp-toutiao.com
+0 sf3-ttcdn-tos.pstatp.com
 0 shakesea.com
 0 shakesuggestion.com
 0 shakytaste.com

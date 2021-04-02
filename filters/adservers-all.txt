@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Apr 2021 11:27 UTC+7
-! Version: 2104021127
-! Blocked: 6,256 rules
+! Last modified: 02 Apr 2021 13:38 UTC+7
+! Version: 2104021338
+! Blocked: 6,258 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1499,6 +1499,7 @@
 ||iap.unity3d.com^
 ||ibillboard.com^
 ||ichannel.isnssdk.com^
+||bds.snssdk.com^
 ||ichannel.snssdk.com^
 ||id5-sync.com^
 ||iesnare.com^
@@ -5109,6 +5110,7 @@
 ||sexystat.com^
 ||sezwho.com^
 ||sf3-fe-tos.pglstatp-toutiao.com^
+||sf3-ttcdn-tos.pstatp.com^
 ||shakesea.com^
 ||shakesuggestion.com^
 ||shakytaste.com^

@@ -11432,6 +11432,7 @@
 0.0.0.0 monitor.isnssdk.com
 0.0.0.0 rtlog.isnssdk.com
 #[snssdk.com]
+0.0.0.0 bds.snssdk.com
 0.0.0.0 ichannel.snssdk.com
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-lq.snssdk.com
