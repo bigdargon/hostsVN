@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Apr 2021 13:38 UTC+7
-# Version: 2104021338
-# Blocked: 17,483 domains
+# Last modified: 06 Apr 2021 14:46 UTC+7
+# Version: 2104061446
+# Blocked: 17,533 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12378,6 +12378,55 @@
 0.0.0.0 ironsrc.com
 0.0.0.0 platform.ironsrc.com
 0.0.0.0 www.ironsrc.com
+#[fivecdm.com]
+0.0.0.0 ad.fivecdm.com
+0.0.0.0 ad2.fivecdm.com
+0.0.0.0 bc.fivecdm.com
+0.0.0.0 bc2.fivecdm.com
+0.0.0.0 cdn.fivecdm.com
+0.0.0.0 cdn2.fivecdm.com
+0.0.0.0 fivecdm.com
+0.0.0.0 log.fivecdm.com
+0.0.0.0 sync.fivecdm.com
+#[crsspxl.com]
+0.0.0.0 crsspxl.com
+0.0.0.0 script.crsspxl.com
+0.0.0.0 tag.crsspxl.com
+#[pro-market.net]
+0.0.0.0 ado.pro-market.net
+0.0.0.0 ads.pro-market.net
+0.0.0.0 ads2.pro-market.net
+0.0.0.0 fei.pro-market.net
+0.0.0.0 ha.pro-market.net
+0.0.0.0 pbid.pro-market.net
+0.0.0.0 pro-market.net
+0.0.0.0 report.pro-market.net
+#[soundcloud.com]
+0.0.0.0 eventgateway.soundcloud.com
+0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 promoted.soundcloud.com
+0.0.0.0 telemetry.soundcloud.com
+#[kajicam.com]
+0.0.0.0 adg-data.kajicam.com
+0.0.0.0 adg.kajicam.com
+0.0.0.0 api-ad-data.kajicam.com
+0.0.0.0 api-ad.kajicam.com
+0.0.0.0 log.kajicam.com
+0.0.0.0 res-ad-kr.kajicam.com
+0.0.0.0 res-ad.kajicam.com
+#[outlookmobile.com]
+0.0.0.0 collecticon.outlookmobile.com
+0.0.0.0 prod-collecticon.outlookmobile.com
+#[xtremepush.com]
+0.0.0.0 adro.xtremepush.com
+0.0.0.0 api-adro.xtremepush.com
+0.0.0.0 api.xtremepush.com
+0.0.0.0 prod.xtremepush.com
+0.0.0.0 s3.xtremepush.com
+0.0.0.0 xtremepush.com
+#[tq-tracking.com]
+0.0.0.0 click.tq-tracking.com
+0.0.0.0 tq-tracking.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15629,6 +15678,7 @@
 0.0.0.0 checkstat.nl
 0.0.0.0 checkyofeed.com
 0.0.0.0 cheerfulrange.com
+0.0.0.0 cheetieaha.com
 0.0.0.0 chestionar.ro
 0.0.0.0 chewcoat.com
 0.0.0.0 chickensstation.com
@@ -15811,7 +15861,6 @@
 0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 crowdgravity.com
 0.0.0.0 crownrecluse.com
-0.0.0.0 crsspxl.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 cubics.com
 0.0.0.0 cumbersomecloud.com
@@ -15920,6 +15969,7 @@
 0.0.0.0 drydrum.com
 0.0.0.0 dsp.io
 0.0.0.0 dtxngr.com
+0.0.0.0 dxgo95ahe73e8.cloudfront.net
 0.0.0.0 dyecowwhy.com
 0.0.0.0 dynamic.fmpub.net
 0.0.0.0 dynamicadx.com
@@ -16034,6 +16084,7 @@
 0.0.0.0 exit76.com
 0.0.0.0 exitexchange.com
 0.0.0.0 exitfuel.com
+0.0.0.0 exobafrgdf.com
 0.0.0.0 exogripper.com
 0.0.0.0 exomonyf.com
 0.0.0.0 experteerads.com
@@ -16096,6 +16147,7 @@
 0.0.0.0 floodprincipal.com
 0.0.0.0 flowgo.com
 0.0.0.0 fm6dz864.top
+0.0.0.0 foamidsputt.com
 0.0.0.0 fogcollision.com
 0.0.0.0 fonecta.fi
 0.0.0.0 foreignmelody.com
@@ -16278,6 +16330,7 @@
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 hydramedia.com
 0.0.0.0 hyperbanner.net
+0.0.0.0 hypermusk.com
 0.0.0.0 hypertracker.com
 0.0.0.0 hystericalhelp.com
 0.0.0.0 i-clicks.net
@@ -16395,6 +16448,7 @@
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 ivypixel.com
+0.0.0.0 iwanttodeliver.com
 0.0.0.0 iwhugaul.com
 0.0.0.0 j93557g.com
 0.0.0.0 jadeitite.com
@@ -16680,6 +16734,7 @@
 0.0.0.0 moneymakercdn.com
 0.0.0.0 monsterpops.com
 0.0.0.0 moolahmedia.com
+0.0.0.0 mostaboutm.biz
 0.0.0.0 motricity.com
 0.0.0.0 motrixi.com
 0.0.0.0 moversa.com
@@ -17011,6 +17066,7 @@
 0.0.0.0 pr5dir.com
 0.0.0.0 praddpro.de
 0.0.0.0 praght.tech
+0.0.0.0 praterswhally.com
 0.0.0.0 prchecker.info
 0.0.0.0 precisioncounter.com
 0.0.0.0 predictad.com
@@ -17030,7 +17086,6 @@
 0.0.0.0 prmtracking.com
 0.0.0.0 pro-ads.club
 0.0.0.0 pro-advertising.com
-0.0.0.0 pro-market.net
 0.0.0.0 proext.com
 0.0.0.0 profero.com
 0.0.0.0 profitrumour.com
@@ -18173,6 +18228,7 @@
 0.0.0.0 crittercism.com
 0.0.0.0 csdian.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
+0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d38fey2d93vryi.cloudfront.net
 0.0.0.0 d4n.platformd.com
 0.0.0.0 dap.digitalgov.gov
@@ -18181,6 +18237,7 @@
 0.0.0.0 dlog.hiido.com
 0.0.0.0 dm.bytedance.com
 0.0.0.0 dm.gg
+0.0.0.0 dm.toutiao.com
 0.0.0.0 dm599.com
 0.0.0.0 dmxleo.com
 0.0.0.0 dnn506yrbagrg.cloudfront.net
@@ -18246,6 +18303,7 @@
 0.0.0.0 ie8eamus.com
 0.0.0.0 img.leadzutw.com
 0.0.0.0 imp.pvnsolutions.com
+0.0.0.0 in.appcenter.ms
 0.0.0.0 inside-graph.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intent.cbsi.com

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Apr 2021 13:38 UTC+7
-# Version: 2104021338
-# Blocked: 17,483 domains
+# Last modified: 06 Apr 2021 14:46 UTC+7
+# Version: 2104061446
+# Blocked: 17,533 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11422,6 +11422,47 @@
 0 ironsrc.com
 0 platform.ironsrc.com
 0 www.ironsrc.com
+0 ad.fivecdm.com
+0 ad2.fivecdm.com
+0 bc.fivecdm.com
+0 bc2.fivecdm.com
+0 cdn.fivecdm.com
+0 cdn2.fivecdm.com
+0 fivecdm.com
+0 log.fivecdm.com
+0 sync.fivecdm.com
+0 crsspxl.com
+0 script.crsspxl.com
+0 tag.crsspxl.com
+0 ado.pro-market.net
+0 ads.pro-market.net
+0 ads2.pro-market.net
+0 fei.pro-market.net
+0 ha.pro-market.net
+0 pbid.pro-market.net
+0 pro-market.net
+0 report.pro-market.net
+0 eventgateway.soundcloud.com
+0 eventlogger.soundcloud.com
+0 promoted.soundcloud.com
+0 telemetry.soundcloud.com
+0 adg-data.kajicam.com
+0 adg.kajicam.com
+0 api-ad-data.kajicam.com
+0 api-ad.kajicam.com
+0 log.kajicam.com
+0 res-ad-kr.kajicam.com
+0 res-ad.kajicam.com
+0 collecticon.outlookmobile.com
+0 prod-collecticon.outlookmobile.com
+0 adro.xtremepush.com
+0 api-adro.xtremepush.com
+0 api.xtremepush.com
+0 prod.xtremepush.com
+0 s3.xtremepush.com
+0 xtremepush.com
+0 click.tq-tracking.com
+0 tq-tracking.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14528,6 +14569,7 @@
 0 checkstat.nl
 0 checkyofeed.com
 0 cheerfulrange.com
+0 cheetieaha.com
 0 chestionar.ro
 0 chewcoat.com
 0 chickensstation.com
@@ -14710,7 +14752,6 @@
 0 crosspromo.voodoo.io
 0 crowdgravity.com
 0 crownrecluse.com
-0 crsspxl.com
 0 crtv.mate1.com
 0 cubics.com
 0 cumbersomecloud.com
@@ -14819,6 +14860,7 @@
 0 drydrum.com
 0 dsp.io
 0 dtxngr.com
+0 dxgo95ahe73e8.cloudfront.net
 0 dyecowwhy.com
 0 dynamic.fmpub.net
 0 dynamicadx.com
@@ -14933,6 +14975,7 @@
 0 exit76.com
 0 exitexchange.com
 0 exitfuel.com
+0 exobafrgdf.com
 0 exogripper.com
 0 exomonyf.com
 0 experteerads.com
@@ -14995,6 +15038,7 @@
 0 floodprincipal.com
 0 flowgo.com
 0 fm6dz864.top
+0 foamidsputt.com
 0 fogcollision.com
 0 fonecta.fi
 0 foreignmelody.com
@@ -15177,6 +15221,7 @@
 0 hydra.alibaba.com
 0 hydramedia.com
 0 hyperbanner.net
+0 hypermusk.com
 0 hypertracker.com
 0 hystericalhelp.com
 0 i-clicks.net
@@ -15294,6 +15339,7 @@
 0 ivwbox.de
 0 ivykiosk.com
 0 ivypixel.com
+0 iwanttodeliver.com
 0 iwhugaul.com
 0 j93557g.com
 0 jadeitite.com
@@ -15579,6 +15625,7 @@
 0 moneymakercdn.com
 0 monsterpops.com
 0 moolahmedia.com
+0 mostaboutm.biz
 0 motricity.com
 0 motrixi.com
 0 moversa.com
@@ -15910,6 +15957,7 @@
 0 pr5dir.com
 0 praddpro.de
 0 praght.tech
+0 praterswhally.com
 0 prchecker.info
 0 precisioncounter.com
 0 predictad.com
@@ -15929,7 +15977,6 @@
 0 prmtracking.com
 0 pro-ads.club
 0 pro-advertising.com
-0 pro-market.net
 0 proext.com
 0 profero.com
 0 profitrumour.com
@@ -17071,6 +17118,7 @@
 0 crittercism.com
 0 csdian.net
 0 d24n15hnbwhuhn.cloudfront.net
+0 d2wy8f7a9ursnm.cloudfront.net
 0 d38fey2d93vryi.cloudfront.net
 0 d4n.platformd.com
 0 dap.digitalgov.gov
@@ -17079,6 +17127,7 @@
 0 dlog.hiido.com
 0 dm.bytedance.com
 0 dm.gg
+0 dm.toutiao.com
 0 dm599.com
 0 dmxleo.com
 0 dnn506yrbagrg.cloudfront.net
@@ -17144,6 +17193,7 @@
 0 ie8eamus.com
 0 img.leadzutw.com
 0 imp.pvnsolutions.com
+0 in.appcenter.ms
 0 inside-graph.com
 0 intake-analytics.wikimedia.org
 0 intent.cbsi.com
