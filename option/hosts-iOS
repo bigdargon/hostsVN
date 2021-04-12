@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Apr 2021 14:46 UTC+7
-# Version: 2104061446
-# Blocked: 17,533 domains
+# Last modified: 12 Apr 2021 16:24 UTC+7
+# Version: 2104121624
+# Blocked: 17,573 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1377,9 +1377,14 @@
 0 cm.e.qq.com
 0 e.qq.com
 0 sdk.e.qq.com
+0 c2.gdt.qq.com
 0 gdt.qq.com
 0 mi.gdt.qq.com
+0 nc.gdt.qq.com
 0 v.gdt.qq.com
+0 v2.gdt.qq.com
+0 oth.str.mdt.qq.com
+0 oth.eve.mdt.qq.com
 0 pingfore.qq.com
 0 pingjs.qq.com
 0 pingma.qq.com
@@ -2738,6 +2743,8 @@
 0 px.ucweb.com
 0 sdkupgrade.insight.ucweb.com
 0 uc.ucweb.com
+0 ucads.ucweb.com
+0 plugin.ucads.ucweb.com
 0 applog.uc.cn
 0 applogios.uc.cn
 0 track.uc.cn
@@ -5401,10 +5408,7 @@
 0 static.playground.xyz
 0 www.playground.xyz
 0 a1.adform.net
-0 a1.seadform.net
 0 a2.adform.net
-0 a2-38-65-20-18.adform.net
-0 a2-38-65-20-19.adform.net
 0 adback.adform.net
 0 adform.net
 0 adx.adform.net
@@ -5412,9 +5416,7 @@
 0 adx3.adform.net
 0 adx-tc.adform.net
 0 asia.adform.net
-0 big-files.adform.net
 0 c1.adform.net
-0 carrefour.adform.net
 0 cm.adform.net
 0 cm2.adform.net
 0 cm3.adform.net
@@ -5432,14 +5434,12 @@
 0 hb.adx2.adform.net
 0 idmatch.adform.net
 0 isobar.adform.net
-0 mail1.adform.net
 0 nivea.adform.net
 0 pipe.adform.net
 0 rtb.adform.net
 0 s1.adform.net
 0 s1-eu.adform.net
 0 s2.adform.net
-0 seadform.net
 0 server.adform.net
 0 targeted-www.adform.net
 0 track.adform.net
@@ -6836,22 +6836,6 @@
 0 origin-ads.exdynsrv.com
 0 static.exdynsrv.com
 0 syndication.exdynsrv.com
-0 affiliates.instapage.com
-0 anthill.instapage.com
-0 app.instapage.com
-0 audit-log.instapage.com
-0 badges.instapage.com
-0 bbs.instapage.com
-0 builder-service.instapage.com
-0 domain.instapage.com
-0 go.instapage.com
-0 map.instapage.com
-0 onboarding.instapage.com
-0 page-preview.instapage.com
-0 pages.instapage.com
-0 promo.instapage.com
-0 upstream.instapage.com
-0 www.instapage.com
 0 ads.adsymptotic.com
 0 adsapi.adsymptotic.com
 0 adsymptotic.com
@@ -10640,6 +10624,13 @@
 0 rtlog.snssdk.com
 0 smr.snssdk.com
 0 xlog.snssdk.com
+0 client_monitor.sgsnssdk.com
+0 i.sgsnssdk.com
+0 ichannel.sgsnssdk.com
+0 log-tb.sgsnssdk.com
+0 log.sgsnssdk.com
+0 mon.sgsnssdk.com
+0 rtlog.sgsnssdk.com
 0 log3-misc-hl.amemv.com
 0 log3-misc-lq.amemv.com
 0 log5-misc-lq.amemv.com
@@ -11463,15 +11454,54 @@
 0 xtremepush.com
 0 click.tq-tracking.com
 0 tq-tracking.com
+0 dessaly.com
+0 o.dessaly.com
+0 p.dessaly.com
+0 post.dessaly.com
+0 s.dessaly.com
+0 u.dessaly.com
+0 www.dessaly.com
+0 cdn-uat.instapagemetrics.com
+0 cdn.instapagemetrics.com
+0 ec-uat.instapagemetrics.com
+0 ec.instapagemetrics.com
+0 instapagemetrics.com
+0 admin.inorbitad.com
+0 app2.inorbitad.com
+0 inorbitad.com
+0 www.inorbitad.com
+0 claroads.com
+0 q.claroads.com
+0 www.claroads.com
+0 claroadsxml.com
+0 us.claroadsxml.com
+0 clk.wbidder.online
+0 crtv.wbidder.online
+0 wbidder.online
+0 www.wbidder.online
+0 yorclk.wbidder.online
+0 click-eu.pclk.name
+0 click.pclk.name
+0 pclk.name
+0 ad.lgsmartad.com
+0 info.lgsmartad.com
+0 lgsmartad.com
+0 mx.lgsmartad.com
+0 q2adm.lgsmartad.com
+0 vn.ad.lgsmartad.com
+0 vn.info.lgsmartad.com
+0 www.lgsmartad.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
 0 media.adtimaserver.vn
 0 media.org.adtimaserver.vn
+0 staging.api.adtimaserver.vn
 0 static.adtimaserver.vn
 0 static2.adtimaserver.vn
 0 stream.adtimaserver.vn
 0 stream.org.adtimaserver.vn
+0 web.api.adtimaserver.vn
 0 admin.iad.eclick.vn
 0 analytics.eclick.vn
 0 c.d.eclick.vn
@@ -12166,15 +12196,6 @@
 0 static.adsota.com
 0 track.adsota.com
 0 www.adsota.com
-0 api.app.masoffer.net
-0 app.masoffer.net
-0 cdn.masoffer.net
-0 img.masoffer.net
-0 m.masoffer.net
-0 masoffer.net
-0 static.masoffer.net
-0 tr.masoffer.net
-0 www.masoffer.net
 0 alpha2.autoads.asia
 0 alphaapi.autoads.asia
 0 api.autoads.asia
@@ -13163,6 +13184,7 @@
 0 smetrics.kone.vn
 0 st-a.vtvdigital.vn
 0 stat.headlines.pw
+0 static.masoffer.net
 0 staticad.thethao247.vn
 0 statis.dsp.vn
 0 statistic.batdongsan.com.vn
@@ -13227,12 +13249,16 @@
 0 widget.kyna.vn
 0 zlog.zingmp3.vn
 0 bloodleian.club
+0 byonlym.com
 0 celerantatters.com
+0 cettiarl.com
+0 drakeesh.com
 0 hashearog.com
 0 larpollicwilli.club
 0 rituationscardb.info
 0 sacchaeleduk.com
 0 smilitygorb.club
+0 tammenaa.com
 0 ucesreferre.club
 0 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 0 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -13911,6 +13937,8 @@
 0 adsbynimbus.com
 0 adscale.de
 0 adscan.yelabapp.com
+0 adscfg.togothermany.cn
+0 adscfg.uqualities.com
 0 adscholar.com
 0 adscience.nl
 0 adscpm.com
@@ -14012,6 +14040,7 @@
 0 adstat.4u.pl
 0 adsterra.com
 0 adstune.com
+0 adsup.togothermany.cn
 0 adsupply.com
 0 adsupplyads.com
 0 adswitcher.com
@@ -14586,6 +14615,8 @@
 0 cjt1.net
 0 claria.com
 0 clarium.global.ssl.fastly.net
+0 claroadsclick.com
+0 claroclicks.com
 0 clashmobile.com
 0 class-act-clicks.com
 0 clearadnetwork.com
@@ -15441,6 +15472,7 @@
 0 liverail.com
 0 lizardslaugh.com
 0 loading321.com
+0 loadsfalladz.casa
 0 localmantra.com
 0 localmediabuying.com
 0 log.btopenworld.com
@@ -16448,6 +16480,7 @@
 0 sx.trhnt.com
 0 sync.vmweb.net
 0 syndicate.purch.com
+0 syrsple2se8nyu09.com
 0 syyycc.com
 0 t.insigit.com
 0 t.myvisualiq.net
@@ -16857,6 +16890,8 @@
 0 www.cdn4ads.com
 0 www.cdnondemand.org
 0 www.chargingsensationmetropolitan.com
+0 www.claroadsclick.com
+0 www.claroclicks.com
 0 www.clearadnetwork.com
 0 www.clixco.in
 0 www.codedexchange.com
@@ -17191,6 +17226,7 @@
 0 iaudienc.com
 0 idio.co
 0 ie8eamus.com
+0 ilogs.bytefence.com
 0 img.leadzutw.com
 0 imp.pvnsolutions.com
 0 in.appcenter.ms
@@ -17200,7 +17236,6 @@
 0 invitejs.trustpilot.com
 0 invoca.net
 0 iovation.com
-0 ip-api.com
 0 js.hscollectedforms.net
 0 js.hsleadflows.net
 0 jsonip.com
@@ -17227,6 +17262,7 @@
 0 log.klook.com
 0 log.kmplayer.com
 0 log.kuwo.cn
+0 log.mediation.onebooster.me
 0 log.quora.com
 0 log.snapdeal.com
 0 log.snow.me
@@ -17238,6 +17274,7 @@
 0 logger.unsplash.com
 0 logging.goclean.tech
 0 logs.amap.com
+0 logs.bytefence.com
 0 logs.spilgames.com
 0 logsss.com
 0 loles.neostrada.pl
@@ -17402,8 +17439,6 @@
 0 thoosje.com
 0 tlog.hiido.com
 0 to.getnitropack.com
-0 tobapplog.ctobsnssdk.com
-0 toblog.ctobsnssdk.com
 0 track.56txs4.com
 0 track.analytics-data.io
 0 track.datetrck.com
@@ -17490,6 +17525,7 @@
 0 ymtracking.com
 0 youthfire.com
 0 zarget.com
+0 76236osm1.ru
 0 abutparker.com
 0 agiegoeig.com
 0 cdn.cluodlfare.com
@@ -17498,16 +17534,19 @@
 0 d1nmxiiewlx627.cloudfront.net
 0 d2k1gzykfsah3o.cloudfront.net
 0 d3dkhq0wwdwodv.cloudfront.net
+0 easywbdesign.com
 0 fmiphone-apple.com
 0 fortt-rade.com
 0 important-notices.com
 0 ladsblue.com
+0 miniast.com
 0 mobilereport.agency
 0 mysp.ac
 0 screenshielded.com
 0 special-offerz.org
 0 support.dheje.xyz
 0 tc-clicks.com
+0 thirdptop.com
 0 traffic-c.com
 0 trffcdmn.com
 0 urgent-notice.com
@@ -17540,6 +17579,7 @@
 0 s2s.appsflyer.com
 0 sdk-services.appsflyer.com
 0 sdk.appsflyer.com
+0 skadsdk.appsflyer.com
 0 stats.appsflyer.com
 0 statsgoogle.appsflyer.com
 0 t.appsflyer.com

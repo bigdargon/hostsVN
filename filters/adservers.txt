@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Apr 2021 14:46 UTC+7
-! Version: 2104061446
-! Blocked: 836 rules
+! Last modified: 12 Apr 2021 16:24 UTC+7
+! Version: 2104121624
+! Blocked: 849 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -104,7 +104,6 @@
 ||logger.vsmarty.vn^
 ||logv2.mp3.zing.vn^
 ||mangoads.vn^
-||masoffer.net^
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||mclick.mobi^
@@ -564,6 +563,7 @@
 ||smetrics.kone.vn^
 ||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
+||static.masoffer.net^
 ||staticad.thethao247.vn^
 ||statis.dsp.vn^
 ||statistic.batdongsan.com.vn^
@@ -642,8 +642,11 @@
 ||3kingclub.com^
 ||50soc.com^
 ||520xiaojin.com^
+||68rich.com^
+||68rich.org^
 ||789.club^
 ||789.fun^
+||789.moi^
 ||789club.org^
 ||79lucky.com^
 ||888b.com^
@@ -659,6 +662,7 @@
 ||ae888.com^
 ||aw8vn2.com^
 ||b29qc.win^
+||b52.win^
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
@@ -678,6 +682,7 @@
 ||fabet.vip^
 ||fabetvn.com^
 ||fb88.com^
+||fb88.link^
 ||fb88club.com^
 ||fb88en.com^
 ||fb88go.com^
@@ -759,6 +764,7 @@
 ||red88.com^
 ||ric.win^
 ||rik.vip^
+||rik.win^
 ||rio66qc.club^
 ||sbc31.com^
 ||sieubomtan.com^
@@ -774,6 +780,7 @@
 ||taimacau.club^
 ||taiv8.com^
 ||tangsoc.com^
+||thethaodabet.com^
 ||thethaofb88.com^
 ||thethaovip.vip^
 ||tin010.com^
@@ -781,6 +788,7 @@
 ||top88.club^
 ||top88.fun^
 ||top88.uk^
+||top88.us^
 ||uw88vnd.com^
 ||v7ac.com^
 ||v8.club^
@@ -801,6 +809,7 @@
 ||vnloto.com^
 ||vua1004.club^
 ||vua1005.club^
+||vuaclub1008.club^
 ||vw220.com^
 ||vwinnow.com^
 ||vwinthethao.com^
@@ -830,12 +839,16 @@
 ||zo.game^
 ||zowinvn.vip^
 ||bloodleian.club^
+||byonlym.com^
 ||celerantatters.com^
+||cettiarl.com^
+||drakeesh.com^
 ||hashearog.com^
 ||larpollicwilli.club^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
 ||smilitygorb.club^
+||tammenaa.com^
 ||ucesreferre.club^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^

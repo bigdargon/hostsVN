@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 06 Apr 2021 14:46 UTC+7
-! Version: 2104061446
-! Blocked: 6,285 domains
+! Last modified: 12 Apr 2021 16:24 UTC+7
+! Version: 2104121624
+! Blocked: 6,326 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -102,7 +102,6 @@ log.tv.zing.vn
 logger.vsmarty.vn
 logv2.mp3.zing.vn
 mangoads.vn
-masoffer.net
 matomo.*.vn
 mautic.*.vn
 mclick.mobi
@@ -562,6 +561,7 @@ sharefb.cnnd.vn
 smetrics.kone.vn
 st-a.vtvdigital.vn
 stat.headlines.pw
+static.masoffer.net
 staticad.thethao247.vn
 statis.dsp.vn
 statistic.batdongsan.com.vn
@@ -640,8 +640,11 @@ zlog.zingmp3.vn
 3kingclub.com
 50soc.com
 520xiaojin.com
+68rich.com
+68rich.org
 789.club
 789.fun
+789.moi
 789club.org
 79lucky.com
 888b.com
@@ -657,6 +660,7 @@ aa88.in
 ae888.com
 aw8vn2.com
 b29qc.win
+b52.win
 betvietnam.info
 betvisa.com
 big88.one
@@ -676,6 +680,7 @@ fabet.com
 fabet.vip
 fabetvn.com
 fb88.com
+fb88.link
 fb88club.com
 fb88en.com
 fb88go.com
@@ -757,6 +762,7 @@ r88.vn
 red88.com
 ric.win
 rik.vip
+rik.win
 rio66qc.club
 sbc31.com
 sieubomtan.com
@@ -772,6 +778,7 @@ taib52.club
 taimacau.club
 taiv8.com
 tangsoc.com
+thethaodabet.com
 thethaofb88.com
 thethaovip.vip
 tin010.com
@@ -779,6 +786,7 @@ tipkeomoingay.club
 top88.club
 top88.fun
 top88.uk
+top88.us
 uw88vnd.com
 v7ac.com
 v8.club
@@ -799,6 +807,7 @@ vn88.com
 vnloto.com
 vua1004.club
 vua1005.club
+vuaclub1008.club
 vw220.com
 vwinnow.com
 vwinthethao.com
@@ -828,12 +837,16 @@ zo.club
 zo.game
 zowinvn.vip
 bloodleian.club
+byonlym.com
 celerantatters.com
+cettiarl.com
+drakeesh.com
 hashearog.com
 larpollicwilli.club
 rituationscardb.info
 sacchaeleduk.com
 smilitygorb.club
+tammenaa.com
 ucesreferre.club
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -1277,6 +1290,8 @@ cintnetworks.com
 cj1*.online
 clarity.ms
 clarium.io
+claroads.com
+claroadsxml.com
 clck.yandex.com
 clcktrax.com
 clean.gg
@@ -1291,6 +1306,7 @@ clicktale.net
 clicktripz.com
 client-event-reporter.twitch.tv
 client_monitor.isnssdk.com
+client_monitor.sgsnssdk.com
 clientmetrics-pa.googleapis.com
 clientmonitor.isnssdk.com
 clksite.com
@@ -1360,6 +1376,7 @@ dc-1.net
 deepintent.com
 demandbase.com
 deployads.com
+dessaly.com
 device-metrics-*.amazon.com
 dezf3o8j9jdt6.cloudfront.net
 dfbanners.com
@@ -1502,11 +1519,13 @@ hubapi.com
 hwstats.unity3d.com
 i-mobile.co.jp
 i.isnssdk.com
+i.sgsnssdk.com
 iad.apple.com
 iadsdk.apple.com
 iap.unity3d.com
 ibillboard.com
 ichannel.isnssdk.com
+ichannel.sgsnssdk.com
 ichannel.snssdk.com
 id5-sync.com
 iesnare.com
@@ -1529,12 +1548,13 @@ inmobicdn.net
 inner-active.mobi
 innity.com
 innity.net
+inorbitad.com
 insight.ucweb.com
 insightexpressai.com
 insights-collector.newrelic.com
 inspectlet.com
 instant.page
-instapage.com
+instapagemetrics.com
 instartlogic.com
 insurads.com
 intentmedia.net
@@ -1580,6 +1600,7 @@ leadboltapps.net
 leadboltmobile.net
 leadforensics.com
 leanplum.com
+lgsmartad.com
 liadm.com
 lifestreet.com
 lifestreetmedia.com
@@ -1593,12 +1614,14 @@ localytics.com
 log-api.newrelic.com
 log-hl.snssdk.com
 log-lq.snssdk.com
+log-tb.sgsnssdk.com
 log-va.tiktokv.com
 log.byteoversea.com
 log.go.com
 log.kajicam.com
 log.musical.ly
 log.pinterest.com
+log.sgsnssdk.com
 log.snssdk.com
 log.spotify.com
 log.tiktokv.com
@@ -1690,6 +1713,7 @@ mon-va.tiktokv.com
 mon.byteoversea.com
 mon.isnssdk.com
 mon.musical.ly
+mon.sgsnssdk.com
 mon.snssdk.com
 mon.tiktokv.com
 mondiad.net
@@ -1759,6 +1783,8 @@ optimizely.com
 optimizesrv.com
 optmnstr.com
 optvx.com
+oth.eve.mdt.qq.com
+oth.str.mdt.qq.com
 otm-r.com
 otnolatrnup.com
 outbrain.com
@@ -1771,6 +1797,7 @@ partnerad.l.google.com
 partnerads.ysm.yahoo.com
 partnershipsprogram.com
 pclick.yahoo.com
+pclk.name
 pcookie.taobao.com
 pendo.io
 pepperjam.com
@@ -1882,6 +1909,7 @@ rtbsuperhub.com
 rtlog.byteoversea.com
 rtlog.isnssdk.com
 rtlog.musical.ly
+rtlog.sgsnssdk.com
 rtlog.snssdk.com
 rtlog.tiktokv.com
 rtmark.net
@@ -2030,6 +2058,7 @@ twik.io
 tx-hit.com
 tynt.com
 uc.ucweb.com
+ucads.ucweb.com
 udc.msn.com
 uedata.amazon.com
 ugdturner.com
@@ -2074,6 +2103,7 @@ vserv.mobi
 vungle.com
 vuukle.com
 w88.go.com
+wbidder.online
 wct.link
 weather-analytics-events.apple.com
 webengage.com
@@ -2794,6 +2824,8 @@ adsbridge.com
 adsbynimbus.com
 adscale.de
 adscan.yelabapp.com
+adscfg.togothermany.cn
+adscfg.uqualities.com
 adscholar.com
 adscience.nl
 adscpm.com
@@ -2895,6 +2927,7 @@ adstage.io
 adstat.4u.pl
 adsterra.com
 adstune.com
+adsup.togothermany.cn
 adsupply.com
 adsupplyads.com
 adswitcher.com
@@ -3469,6 +3502,8 @@ cjlog.com
 cjt1.net
 claria.com
 clarium.global.ssl.fastly.net
+claroadsclick.com
+claroclicks.com
 clashmobile.com
 class-act-clicks.com
 clearadnetwork.com
@@ -4326,6 +4361,7 @@ liveintent.com
 liverail.com
 lizardslaugh.com
 loading321.com
+loadsfalladz.casa
 localmantra.com
 localmediabuying.com
 log.btopenworld.com
@@ -5335,6 +5371,7 @@ swordgoose.com
 sx.trhnt.com
 sync.vmweb.net
 syndicate.purch.com
+syrsple2se8nyu09.com
 syyycc.com
 t.insigit.com
 t.myvisualiq.net
@@ -5983,6 +6020,7 @@ i.shannon-fisher.xyz
 iaudienc.com
 idio.co
 ie8eamus.com
+ilogs.bytefence.com
 img.leadzutw.com
 imp.pvnsolutions.com
 in.appcenter.ms
@@ -5992,7 +6030,6 @@ intent.cbsi.com
 invitejs.trustpilot.com
 invoca.net
 iovation.com
-ip-api.com
 js.hscollectedforms.net
 js.hsleadflows.net
 jsonip.com
@@ -6019,6 +6056,7 @@ log.getdropbox.com
 log.klook.com
 log.kmplayer.com
 log.kuwo.cn
+log.mediation.onebooster.me
 log.quora.com
 log.snapdeal.com
 log.snow.me
@@ -6030,6 +6068,7 @@ logfiles.zoom.us
 logger.unsplash.com
 logging.goclean.tech
 logs.amap.com
+logs.bytefence.com
 logs.spilgames.com
 logsss.com
 loles.neostrada.pl
@@ -6194,8 +6233,6 @@ theirsvendor.com
 thoosje.com
 tlog.hiido.com
 to.getnitropack.com
-tobapplog.ctobsnssdk.com
-toblog.ctobsnssdk.com
 track.56txs4.com
 track.analytics-data.io
 track.datetrck.com
@@ -6260,6 +6297,7 @@ ylog.nimo.tv
 ymtracking.com
 youthfire.com
 zarget.com
+76236osm1.ru
 abutparker.com
 agiegoeig.com
 cdn.cluodlfare.com
@@ -6268,16 +6306,19 @@ cpa-tc.com
 d1nmxiiewlx627.cloudfront.net
 d2k1gzykfsah3o.cloudfront.net
 d3dkhq0wwdwodv.cloudfront.net
+easywbdesign.com
 fmiphone-apple.com
 fortt-rade.com
 important-notices.com
 ladsblue.com
+miniast.com
 mobilereport.agency
 mysp.ac
 screenshielded.com
 special-offerz.org
 support.dheje.xyz
 tc-clicks.com
+thirdptop.com
 traffic-c.com
 trffcdmn.com
 urgent-notice.com
