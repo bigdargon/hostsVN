@@ -5,10 +5,12 @@
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 media.adtimaserver.vn
 0.0.0.0 media.org.adtimaserver.vn
+0.0.0.0 staging.api.adtimaserver.vn
 0.0.0.0 static.adtimaserver.vn
 0.0.0.0 static2.adtimaserver.vn
 0.0.0.0 stream.adtimaserver.vn
 0.0.0.0 stream.org.adtimaserver.vn
+0.0.0.0 web.api.adtimaserver.vn
 #[eclick]
 0.0.0.0 admin.iad.eclick.vn
 0.0.0.0 analytics.eclick.vn
@@ -756,16 +758,6 @@
 0.0.0.0 static.adsota.com
 0.0.0.0 track.adsota.com
 0.0.0.0 www.adsota.com
-#[masoffer.net]
-0.0.0.0 api.app.masoffer.net
-0.0.0.0 app.masoffer.net
-0.0.0.0 cdn.masoffer.net
-0.0.0.0 img.masoffer.net
-0.0.0.0 m.masoffer.net
-0.0.0.0 masoffer.net
-0.0.0.0 static.masoffer.net
-0.0.0.0 tr.masoffer.net
-0.0.0.0 www.masoffer.net
 #[autoads.asia]
 0.0.0.0 alpha2.autoads.asia
 0.0.0.0 alphaapi.autoads.asia

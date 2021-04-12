@@ -439,6 +439,8 @@ cintnetworks.com
 cj1*.online
 clarity.ms
 clarium.io
+claroads.com
+claroadsxml.com
 clck.yandex.com
 clcktrax.com
 clean.gg
@@ -453,6 +455,7 @@ clicktale.net
 clicktripz.com
 client-event-reporter.twitch.tv
 client_monitor.isnssdk.com
+client_monitor.sgsnssdk.com
 clientmetrics-pa.googleapis.com
 clientmonitor.isnssdk.com
 clksite.com
@@ -665,11 +668,13 @@ hubapi.com
 hwstats.unity3d.com
 i-mobile.co.jp
 i.isnssdk.com
+i.sgsnssdk.com
 iad.apple.com
 iadsdk.apple.com
 iap.unity3d.com
 ibillboard.com
 ichannel.isnssdk.com
+ichannel.sgsnssdk.com
 ichannel.snssdk.com
 id5-sync.com
 iesnare.com
@@ -692,6 +697,7 @@ inmobicdn.net
 inner-active.mobi
 innity.com
 innity.net
+inorbitad.com
 insight.ucweb.com
 insightexpressai.com
 insights-collector.newrelic.com
@@ -743,6 +749,7 @@ leadboltapps.net
 leadboltmobile.net
 leadforensics.com
 leanplum.com
+lgsmartad.com
 liadm.com
 lifestreet.com
 lifestreetmedia.com
@@ -756,12 +763,14 @@ localytics.com
 log-api.newrelic.com
 log-hl.snssdk.com
 log-lq.snssdk.com
+log-tb.sgsnssdk.com
 log-va.tiktokv.com
 log.byteoversea.com
 log.go.com
 log.kajicam.com
 log.musical.ly
 log.pinterest.com
+log.sgsnssdk.com
 log.snssdk.com
 log.spotify.com
 log.tiktokv.com
@@ -853,6 +862,7 @@ mon-va.tiktokv.com
 mon.byteoversea.com
 mon.isnssdk.com
 mon.musical.ly
+mon.sgsnssdk.com
 mon.snssdk.com
 mon.tiktokv.com
 mondiad.net
@@ -922,6 +932,8 @@ optimizely.com
 optimizesrv.com
 optmnstr.com
 optvx.com
+oth.eve.mdt.qq.com
+oth.str.mdt.qq.com
 otm-r.com
 otnolatrnup.com
 outbrain.com
@@ -934,6 +946,7 @@ partnerad.l.google.com
 partnerads.ysm.yahoo.com
 partnershipsprogram.com
 pclick.yahoo.com
+pclk.name
 pcookie.taobao.com
 pendo.io
 pepperjam.com
@@ -1045,6 +1058,7 @@ rtbsuperhub.com
 rtlog.byteoversea.com
 rtlog.isnssdk.com
 rtlog.musical.ly
+rtlog.sgsnssdk.com
 rtlog.snssdk.com
 rtlog.tiktokv.com
 rtmark.net
@@ -1193,6 +1207,7 @@ twik.io
 tx-hit.com
 tynt.com
 uc.ucweb.com
+ucads.ucweb.com
 udc.msn.com
 uedata.amazon.com
 ugdturner.com
@@ -1237,6 +1252,7 @@ vserv.mobi
 vungle.com
 vuukle.com
 w88.go.com
+wbidder.online
 wct.link
 weather-analytics-events.apple.com
 webengage.com
@@ -1960,6 +1976,8 @@ adsbridge.com
 adsbynimbus.com
 adscale.de
 adscan.yelabapp.com
+adscfg.togothermany.cn
+adscfg.uqualities.com
 adscholar.com
 adscience.nl
 adscpm.com
@@ -2061,6 +2079,7 @@ adstage.io
 adstat.4u.pl
 adsterra.com
 adstune.com
+adsup.togothermany.cn
 adsupply.com
 adsupplyads.com
 adswitcher.com
@@ -2635,6 +2654,8 @@ cjlog.com
 cjt1.net
 claria.com
 clarium.global.ssl.fastly.net
+claroadsclick.com
+claroclicks.com
 clashmobile.com
 class-act-clicks.com
 clearadnetwork.com
@@ -3492,6 +3513,7 @@ liveintent.com
 liverail.com
 lizardslaugh.com
 loading321.com
+loadsfalladz.casa
 localmantra.com
 localmediabuying.com
 log.btopenworld.com
@@ -5153,6 +5175,7 @@ i.shannon-fisher.xyz
 iaudienc.com
 idio.co
 ie8eamus.com
+ilogs.bytefence.com
 img.leadzutw.com
 imp.pvnsolutions.com
 in.appcenter.ms
@@ -5188,6 +5211,7 @@ log.getdropbox.com
 log.klook.com
 log.kmplayer.com
 log.kuwo.cn
+log.mediation.onebooster.me
 log.quora.com
 log.snapdeal.com
 log.snow.me
@@ -5199,6 +5223,7 @@ logfiles.zoom.us
 logger.unsplash.com
 logging.goclean.tech
 logs.amap.com
+logs.bytefence.com
 logs.spilgames.com
 logsss.com
 loles.neostrada.pl
@@ -5363,8 +5388,6 @@ theirsvendor.com
 thoosje.com
 tlog.hiido.com
 to.getnitropack.com
-tobapplog.ctobsnssdk.com
-toblog.ctobsnssdk.com
 track.56txs4.com
 track.analytics-data.io
 track.datetrck.com
@@ -5435,6 +5458,7 @@ zarget.com
 !
 ! --- Block other scamVN ---
 !
+76236osm1.ru
 abutparker.com
 agiegoeig.com
 cdn.cluodlfare.com
@@ -5443,16 +5467,19 @@ cpa-tc.com
 d1nmxiiewlx627.cloudfront.net
 d2k1gzykfsah3o.cloudfront.net
 d3dkhq0wwdwodv.cloudfront.net
+easywbdesign.com
 fmiphone-apple.com
 fortt-rade.com
 important-notices.com
 ladsblue.com
+miniast.com
 mobilereport.agency
 mysp.ac
 screenshielded.com
 special-offerz.org
 support.dheje.xyz
 tc-clicks.com
+thirdptop.com
 traffic-c.com
 trffcdmn.com
 urgent-notice.com

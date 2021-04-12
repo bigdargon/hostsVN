@@ -1471,9 +1471,15 @@
 0.0.0.0 e.qq.com
 0.0.0.0 sdk.e.qq.com
 #[gdt.qq.com]
+0.0.0.0 c2.gdt.qq.com
 0.0.0.0 gdt.qq.com
 0.0.0.0 mi.gdt.qq.com
+0.0.0.0 nc.gdt.qq.com
 0.0.0.0 v.gdt.qq.com
+0.0.0.0 v2.gdt.qq.com
+#[mdt.qq.com]
+0.0.0.0 oth.str.mdt.qq.com
+0.0.0.0 oth.eve.mdt.qq.com
 #[ping*.qq.com]
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingjs.qq.com
@@ -2922,6 +2928,9 @@
 0.0.0.0 px.ucweb.com
 0.0.0.0 sdkupgrade.insight.ucweb.com
 0.0.0.0 uc.ucweb.com
+#[ucads.ucweb.com]
+0.0.0.0 ucads.ucweb.com
+0.0.0.0 plugin.ucads.ucweb.com
 #[uc.cn]
 0.0.0.0 applog.uc.cn
 0.0.0.0 applogios.uc.cn
@@ -11418,6 +11427,14 @@
 0.0.0.0 rtlog.snssdk.com
 0.0.0.0 smr.snssdk.com
 0.0.0.0 xlog.snssdk.com
+#[sgsnssdk.com]
+0.0.0.0 client_monitor.sgsnssdk.com
+0.0.0.0 i.sgsnssdk.com
+0.0.0.0 ichannel.sgsnssdk.com
+0.0.0.0 log-tb.sgsnssdk.com
+0.0.0.0 log.sgsnssdk.com
+0.0.0.0 mon.sgsnssdk.com
+0.0.0.0 rtlog.sgsnssdk.com
 #[amemv.com]
 0.0.0.0 log3-misc-hl.amemv.com
 0.0.0.0 log3-misc-lq.amemv.com
@@ -12405,3 +12422,34 @@
 0.0.0.0 ec-uat.instapagemetrics.com
 0.0.0.0 ec.instapagemetrics.com
 0.0.0.0 instapagemetrics.com
+#[inorbitad.com]
+0.0.0.0 admin.inorbitad.com
+0.0.0.0 app2.inorbitad.com
+0.0.0.0 inorbitad.com
+0.0.0.0 www.inorbitad.com
+#[claroads.com]
+0.0.0.0 claroads.com
+0.0.0.0 q.claroads.com
+0.0.0.0 www.claroads.com
+#[claroadsxml.com]
+0.0.0.0 claroadsxml.com
+0.0.0.0 us.claroadsxml.com
+#[wbidder.online]
+0.0.0.0 clk.wbidder.online
+0.0.0.0 crtv.wbidder.online
+0.0.0.0 wbidder.online
+0.0.0.0 www.wbidder.online
+0.0.0.0 yorclk.wbidder.online
+#[pclk.name]
+0.0.0.0 click-eu.pclk.name
+0.0.0.0 click.pclk.name
+0.0.0.0 pclk.name
+#[lgsmartad.com]
+0.0.0.0 ad.lgsmartad.com
+0.0.0.0 info.lgsmartad.com
+0.0.0.0 lgsmartad.com
+0.0.0.0 mx.lgsmartad.com
+0.0.0.0 q2adm.lgsmartad.com
+0.0.0.0 vn.ad.lgsmartad.com
+0.0.0.0 vn.info.lgsmartad.com
+0.0.0.0 www.lgsmartad.com
