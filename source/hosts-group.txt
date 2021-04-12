@@ -5764,10 +5764,7 @@
 0.0.0.0 www.playground.xyz
 #[adform.net]
 0.0.0.0 a1.adform.net
-0.0.0.0 a1.seadform.net
 0.0.0.0 a2.adform.net
-0.0.0.0 a2-38-65-20-18.adform.net
-0.0.0.0 a2-38-65-20-19.adform.net
 0.0.0.0 adback.adform.net
 0.0.0.0 adform.net
 0.0.0.0 adx.adform.net
@@ -5775,9 +5772,7 @@
 0.0.0.0 adx3.adform.net
 0.0.0.0 adx-tc.adform.net
 0.0.0.0 asia.adform.net
-0.0.0.0 big-files.adform.net
 0.0.0.0 c1.adform.net
-0.0.0.0 carrefour.adform.net
 0.0.0.0 cm.adform.net
 0.0.0.0 cm2.adform.net
 0.0.0.0 cm3.adform.net
@@ -5795,14 +5790,12 @@
 0.0.0.0 hb.adx2.adform.net
 0.0.0.0 idmatch.adform.net
 0.0.0.0 isobar.adform.net
-0.0.0.0 mail1.adform.net
 0.0.0.0 nivea.adform.net
 0.0.0.0 pipe.adform.net
 0.0.0.0 rtb.adform.net
 0.0.0.0 s1.adform.net
 0.0.0.0 s1-eu.adform.net
 0.0.0.0 s2.adform.net
-0.0.0.0 seadform.net
 0.0.0.0 server.adform.net
 0.0.0.0 targeted-www.adform.net
 0.0.0.0 track.adform.net
@@ -7287,23 +7280,6 @@
 0.0.0.0 origin-ads.exdynsrv.com
 0.0.0.0 static.exdynsrv.com
 0.0.0.0 syndication.exdynsrv.com
-#[instapage.com]
-0.0.0.0 affiliates.instapage.com
-0.0.0.0 anthill.instapage.com
-0.0.0.0 app.instapage.com
-0.0.0.0 audit-log.instapage.com
-0.0.0.0 badges.instapage.com
-0.0.0.0 bbs.instapage.com
-0.0.0.0 builder-service.instapage.com
-0.0.0.0 domain.instapage.com
-0.0.0.0 go.instapage.com
-0.0.0.0 map.instapage.com
-0.0.0.0 onboarding.instapage.com
-0.0.0.0 page-preview.instapage.com
-0.0.0.0 pages.instapage.com
-0.0.0.0 promo.instapage.com
-0.0.0.0 upstream.instapage.com
-0.0.0.0 www.instapage.com
 #[adsymptotic.com]
 0.0.0.0 ads.adsymptotic.com
 0.0.0.0 adsapi.adsymptotic.com
@@ -12415,3 +12391,17 @@
 #[tq-tracking.com]
 0.0.0.0 click.tq-tracking.com
 0.0.0.0 tq-tracking.com
+#[dessaly.com]
+0.0.0.0 dessaly.com
+0.0.0.0 o.dessaly.com
+0.0.0.0 p.dessaly.com
+0.0.0.0 post.dessaly.com
+0.0.0.0 s.dessaly.com
+0.0.0.0 u.dessaly.com
+0.0.0.0 www.dessaly.com
+#[instapagemetrics.com]
+0.0.0.0 cdn-uat.instapagemetrics.com
+0.0.0.0 cdn.instapagemetrics.com
+0.0.0.0 ec-uat.instapagemetrics.com
+0.0.0.0 ec.instapagemetrics.com
+0.0.0.0 instapagemetrics.com
