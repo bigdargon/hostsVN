@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 Apr 2021 16:24 UTC+7
-! Version: 2104121624
-! Blocked: 6,326 rules
+! Last modified: 13 Apr 2021 11:46 UTC+7
+! Version: 2104131146
+! Blocked: 6,328 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -844,6 +844,7 @@
 ||cettiarl.com^
 ||drakeesh.com^
 ||hashearog.com^
+||irduwhojas.ga^
 ||larpollicwilli.club^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
@@ -1518,6 +1519,7 @@
 ||hs-scripts.com^
 ||hsadspixel.net^
 ||hubapi.com^
+||huerty.site^
 ||hwstats.unity3d.com^
 ||i-mobile.co.jp^
 ||i.isnssdk.com^

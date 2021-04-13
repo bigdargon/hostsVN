@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Apr 2021 16:24 UTC+7
-# Version: 2104121624
-# Blocked: 17,573 domains
+# Last modified: 13 Apr 2021 11:46 UTC+7
+# Version: 2104131146
+# Blocked: 17,582 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4917,6 +4917,11 @@
 0.0.0.0 www.adskeeper.co.uk
 #[adskeeper.com]
 0.0.0.0 adskeeper.com
+0.0.0.0 c.adskeeper.com
+0.0.0.0 cdn.adskeeper.com
+0.0.0.0 clck.adskeeper.com
+0.0.0.0 jsc.adskeeper.com
+0.0.0.0 servicer.adskeeper.com
 0.0.0.0 widgets.adskeeper.com
 0.0.0.0 www.adskeeper.com
 #[adomik.com]
@@ -12465,6 +12470,10 @@
 0.0.0.0 vn.ad.lgsmartad.com
 0.0.0.0 vn.info.lgsmartad.com
 0.0.0.0 www.lgsmartad.com
+#[huerty.site]
+0.0.0.0 c.huerty.site
+0.0.0.0 huerty.site
+0.0.0.0 m.huerty.site
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14370,6 +14379,7 @@
 0.0.0.0 cettiarl.com
 0.0.0.0 drakeesh.com
 0.0.0.0 hashearog.com
+0.0.0.0 irduwhojas.ga
 0.0.0.0 larpollicwilli.club
 0.0.0.0 rituationscardb.info
 0.0.0.0 sacchaeleduk.com
