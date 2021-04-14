@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Apr 2021 09:41 UTC+7
-! Version: 2104140941
-! Blocked: 6,327 rules
+! Last modified: 14 Apr 2021 16:00 UTC+7
+! Version: 2104141600
+! Blocked: 6,330 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -62,7 +62,6 @@
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
 ||cdp.asia^
-||centralized.zaloapp.com^
 ||cheap-ads.net^
 ||cityads.com^
 ||cityadstrack.com^
@@ -839,12 +838,14 @@
 ||zo.game^
 ||zowinvn.vip^
 ||bloodleian.club^
+||bluvenie.com^
 ||byonlym.com^
 ||celerantatters.com^
 ||cettiarl.com^
 ||drakeesh.com^
 ||hashearog.com^
 ||irduwhojas.ga^
+||kaurroot.com^
 ||larpollicwilli.club^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
@@ -899,6 +900,7 @@
 ||ad.qq.com^
 ||ad.style^
 ||ad.xiaomi.com^
+||ad1x.com^
 ||ad4game.com^
 ||ad4screen.com^
 ||adadvisor.net^
@@ -1012,6 +1014,7 @@
 ||adsapi*.snapchat.com^
 ||adsaro.net^
 ||adsatt.*.go.com^
+||adsbynimbus.com^
 ||adschoom.com^
 ||adsco.re^
 ||adserver-*.*.elb.amazonaws.com^
@@ -1852,6 +1855,7 @@
 ||publisher-assets.spot.im^
 ||pubmatic.com^
 ||pubmine.com^
+||pubnative.info^
 ||pubnative.net^
 ||puds.ucweb.com^
 ||purpleads.io^
@@ -2824,7 +2828,6 @@
 ||ads5.virtual-nights.com^
 ||ads8.com^
 ||adsbridge.com^
-||adsbynimbus.com^
 ||adscale.de^
 ||adscan.yelabapp.com^
 ||adscfg.togothermany.cn^

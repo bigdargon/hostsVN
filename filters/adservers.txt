@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Apr 2021 09:41 UTC+7
-! Version: 2104140941
-! Blocked: 850 rules
+! Last modified: 14 Apr 2021 16:00 UTC+7
+! Version: 2104141600
+! Blocked: 851 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -62,7 +62,6 @@
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
 ||cdp.asia^
-||centralized.zaloapp.com^
 ||cheap-ads.net^
 ||cityads.com^
 ||cityadstrack.com^
@@ -839,12 +838,14 @@
 ||zo.game^
 ||zowinvn.vip^
 ||bloodleian.club^
+||bluvenie.com^
 ||byonlym.com^
 ||celerantatters.com^
 ||cettiarl.com^
 ||drakeesh.com^
 ||hashearog.com^
 ||irduwhojas.ga^
+||kaurroot.com^
 ||larpollicwilli.club^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
