@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Apr 2021 11:46 UTC+7
-! Version: 2104131146
-! Blocked: 6,328 rules
+! Last modified: 14 Apr 2021 09:41 UTC+7
+! Version: 2104140941
+! Blocked: 6,327 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1480,7 +1480,6 @@
 ||geo.yahoo.com^
 ||geofence.sys.miui.com^
 ||getadmiral.com^
-||getblueshift.com^
 ||getclicky.com^
 ||gjapplog.ucweb.com^
 ||gjtrack.ucweb.com^
