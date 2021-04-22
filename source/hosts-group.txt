@@ -219,11 +219,7 @@
 0.0.0.0 sts.si.advertising.microsoft.com
 #[microsoft]
 0.0.0.0 c.microsoft.com
-0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 statsfe2.ws.microsoft.com
-#[vortex.data.microsoft.com]
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 web.vortex.data.microsoft.com
 #[live.com]
 0.0.0.0 analytics.live.com
 0.0.0.0 c.live.com
@@ -11205,7 +11201,12 @@
 0.0.0.0 promo.clickaine.com
 0.0.0.0 skim.clickaine.com
 0.0.0.0 vcdn.clickaine.com
-#[sdk.iad-*.braze.com]
+#[iad-*.braze.com]
+0.0.0.0 iad-01.braze.com
+0.0.0.0 iad-02.braze.com
+0.0.0.0 iad-03.braze.com
+0.0.0.0 iad-06.braze.com
+0.0.0.0 iad-08.braze.com
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk.iad-02.braze.com
 0.0.0.0 sdk.iad-03.braze.com
@@ -12466,3 +12467,23 @@
 0.0.0.0 imgur.adsbynimbus.com
 0.0.0.0 wattpad.adsbynimbus.com
 0.0.0.0 www.adsbynimbus.com
+#[freeskreen.com]
+0.0.0.0 ads.freeskreen.com
+0.0.0.0 api.freeskreen.com
+0.0.0.0 freeskreen.com
+0.0.0.0 sb.freeskreen.com
+0.0.0.0 static.freeskreen.com
+0.0.0.0 video.freeskreen.com
+0.0.0.0 www.freeskreen.com
+#[nbryb.com]
+0.0.0.0 nbryb.com
+0.0.0.0 play.nbryb.com
+0.0.0.0 www.nbryb.com
+#[datawrkz.com]
+0.0.0.0 adunit.datawrkz.com
+0.0.0.0 adunits.datawrkz.com
+0.0.0.0 cdn.datawrkz.com
+0.0.0.0 datawrkz.com
+0.0.0.0 dmp.datawrkz.com
+0.0.0.0 serving.datawrkz.com
+0.0.0.0 www.datawrkz.com
