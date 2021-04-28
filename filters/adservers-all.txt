@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 22 Apr 2021 15:44 UTC+7
-! Version: 2104221544
-! Blocked: 6,332 rules
+! Last modified: 28 Apr 2021 21:23 UTC+7
+! Version: 2104282123
+! Blocked: 6,344 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -169,6 +169,7 @@
 ||t.sieu-viet.com^
 ||takataka.coccoc.com^
 ||testcentre.vn^
+||tpmedia.online^
 ||track.accesstrade.vn^
 ||tracking.api.media.zapps.vn^
 ||tracking.banner.g6.zing.vn^
@@ -550,6 +551,7 @@
 ||mysapo.net^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
+||production-tracking.riviu.co^
 ||report.vnay.vn^
 ||rsyslog.24h.com.vn^
 ||s.baomoi.xdn.vn^
@@ -588,6 +590,7 @@
 ||track.icheck.com.vn^
 ||track.kyna.vn^
 ||track.lapa.pub^
+||track.pnj.com.vn^
 ||track.pregmomvietnam.com^
 ||track.sendo.vn^
 ||track.vio.edu.vn^
@@ -837,9 +840,11 @@
 ||zo.club^
 ||zo.game^
 ||zowinvn.vip^
+||atspace.tv^
 ||bloodleian.club^
 ||bluvenie.com^
 ||byonlym.com^
+||campxanh.info^
 ||celerantatters.com^
 ||cettiarl.com^
 ||drakeesh.com^
@@ -3440,6 +3445,7 @@
 ||carambo.la^
 ||carbonads.com^
 ||carbonads.net^
+||cardiwersg.com^
 ||casalmedia.com^
 ||casesweetcube.com^
 ||cash4members.com^
@@ -3906,6 +3912,7 @@
 ||exogripper.com^
 ||exomonyf.com^
 ||experteerads.com^
+||expertnifg.com^
 ||exponea.com^
 ||express-submit.de^
 ||ext.privacyassistant.net^
@@ -5532,6 +5539,7 @@
 ||trafficgate.net^
 ||trafficholder.com^
 ||traffichunt.com^
+||trafficjunky.com^
 ||trafficleader.com^
 ||trafficsecrets.com^
 ||trafficspaces.net^
@@ -5941,12 +5949,16 @@
 ||cleverpush.com^
 ||client-analytics.braintreegateway.com^
 ||cmp.dmgmediaprivacy.co.uk^
+||cnt.xhamster.com^
+||cnt.xhamster.one^
 ||cnzz.com^
 ||cognitivlabs.com^
 ||collect.igodigital.com^
 ||collector.apester.com^
 ||collector.leaddyno.com^
 ||collector.unsplash.com^
+||collector.xhamster.com^
+||collector.xhamster.one^
 ||comscoreresearch.com^
 ||cookieinfoscript.com^
 ||coralogix.com^

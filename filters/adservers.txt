@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Apr 2021 15:44 UTC+7
-! Version: 2104221544
-! Blocked: 851 rules
+! Last modified: 28 Apr 2021 21:23 UTC+7
+! Version: 2104282123
+! Blocked: 856 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -169,6 +169,7 @@
 ||t.sieu-viet.com^
 ||takataka.coccoc.com^
 ||testcentre.vn^
+||tpmedia.online^
 ||track.accesstrade.vn^
 ||tracking.api.media.zapps.vn^
 ||tracking.banner.g6.zing.vn^
@@ -550,6 +551,7 @@
 ||mysapo.net^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
+||production-tracking.riviu.co^
 ||report.vnay.vn^
 ||rsyslog.24h.com.vn^
 ||s.baomoi.xdn.vn^
@@ -588,6 +590,7 @@
 ||track.icheck.com.vn^
 ||track.kyna.vn^
 ||track.lapa.pub^
+||track.pnj.com.vn^
 ||track.pregmomvietnam.com^
 ||track.sendo.vn^
 ||track.vio.edu.vn^
@@ -837,9 +840,11 @@
 ||zo.club^
 ||zo.game^
 ||zowinvn.vip^
+||atspace.tv^
 ||bloodleian.club^
 ||bluvenie.com^
 ||byonlym.com^
+||campxanh.info^
 ||celerantatters.com^
 ||cettiarl.com^
 ||drakeesh.com^

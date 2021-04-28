@@ -363,6 +363,7 @@
 0.0.0.0 mysapo.net
 0.0.0.0 newlog.daidoanket.vn
 0.0.0.0 nstat.headlines.pw
+0.0.0.0 production-tracking.riviu.co
 0.0.0.0 report.vnay.vn
 0.0.0.0 rsyslog.24h.com.vn
 0.0.0.0 s.baomoi.xdn.vn
@@ -401,6 +402,7 @@
 0.0.0.0 track.icheck.com.vn
 0.0.0.0 track.kyna.vn
 0.0.0.0 track.lapa.pub
+0.0.0.0 track.pnj.com.vn
 0.0.0.0 track.pregmomvietnam.com
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.vio.edu.vn
@@ -440,9 +442,11 @@
 0.0.0.0 widget.kyna.vn
 0.0.0.0 zlog.zingmp3.vn
 # --- Block scamVN ---
+0.0.0.0 atspace.tv
 0.0.0.0 bloodleian.club
 0.0.0.0 bluvenie.com
 0.0.0.0 byonlym.com
+0.0.0.0 campxanh.info
 0.0.0.0 celerantatters.com
 0.0.0.0 cettiarl.com
 0.0.0.0 drakeesh.com

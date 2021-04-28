@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 Apr 2021 15:44 UTC+7
-# Version: 2104221544
-# Blocked: 17,604 domains
+# Last modified: 28 Apr 2021 21:23 UTC+7
+# Version: 2104282123
+# Blocked: 17,619 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12837,6 +12837,10 @@
 0 oss.stats.vng.com.vn
 0 sso.stats.vng.com.vn
 0 stats.vng.com.vn
+0 cdn.tpmedia.online
+0 mvideo.tpmedia.online
+0 tpmedia.online
+0 www.tpmedia.online
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
 0 ad-admin.vnay.vn
@@ -13200,6 +13204,7 @@
 0 mysapo.net
 0 newlog.daidoanket.vn
 0 nstat.headlines.pw
+0 production-tracking.riviu.co
 0 report.vnay.vn
 0 rsyslog.24h.com.vn
 0 s.baomoi.xdn.vn
@@ -13238,6 +13243,7 @@
 0 track.icheck.com.vn
 0 track.kyna.vn
 0 track.lapa.pub
+0 track.pnj.com.vn
 0 track.pregmomvietnam.com
 0 track.sendo.vn
 0 track.vio.edu.vn
@@ -13276,9 +13282,11 @@
 0 webstag.kplus.vn
 0 widget.kyna.vn
 0 zlog.zingmp3.vn
+0 atspace.tv
 0 bloodleian.club
 0 bluvenie.com
 0 byonlym.com
+0 campxanh.info
 0 celerantatters.com
 0 cettiarl.com
 0 drakeesh.com
@@ -14576,6 +14584,7 @@
 0 carambo.la
 0 carbonads.com
 0 carbonads.net
+0 cardiwersg.com
 0 casalmedia.com
 0 casesweetcube.com
 0 cash4members.com
@@ -15041,6 +15050,7 @@
 0 exogripper.com
 0 exomonyf.com
 0 experteerads.com
+0 expertnifg.com
 0 exponea.com
 0 express-submit.de
 0 ext.privacyassistant.net
@@ -16664,6 +16674,7 @@
 0 trafficgate.net
 0 trafficholder.com
 0 traffichunt.com
+0 trafficjunky.com
 0 trafficleader.com
 0 trafficsecrets.com
 0 trafficspaces.net
@@ -17170,12 +17181,16 @@
 0 cleverpush.com
 0 client-analytics.braintreegateway.com
 0 cmp.dmgmediaprivacy.co.uk
+0 cnt.xhamster.com
+0 cnt.xhamster.one
 0 cnzz.com
 0 cognitivlabs.com
 0 collect.igodigital.com
 0 collector.apester.com
 0 collector.leaddyno.com
 0 collector.unsplash.com
+0 collector.xhamster.com
+0 collector.xhamster.one
 0 comscoreresearch.com
 0 cookieinfoscript.com
 0 coralogix.com
