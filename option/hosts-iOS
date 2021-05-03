@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 28 Apr 2021 21:23 UTC+7
-# Version: 2104282123
-# Blocked: 17,619 domains
+# Last modified: 03 May 2021 21:42 UTC+7
+# Version: 2105032142
+# Blocked: 17,638 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1426,6 +1426,7 @@
 0 a.stat.xiaomi.com
 0 api.d.xiaomi.com
 0 sgp.o2o.api.xiaomi.com
+0 tracker.ai.xiaomi.com
 0 ad.xiaomi.com
 0 api.ad.xiaomi.com
 0 cdn.ad.xiaomi.com
@@ -1459,6 +1460,7 @@
 0 cc.sys.miui.com
 0 ccc.sys.miui.com
 0 geofence.sys.miui.com
+0 metok.sys.miui.com
 0 cloudmobi.net
 0 api.cloudmobi.net
 0 logger.cloudmobi.net
@@ -11520,6 +11522,10 @@
 0 dmp.datawrkz.com
 0 serving.datawrkz.com
 0 www.datawrkz.com
+0 pps-log.op-mobile.opera.com
+0 s-adx.op-mobile.opera.com
+0 s.adx.opera.com
+0 sdklog.tvstore.opera.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13290,6 +13296,7 @@
 0 celerantatters.com
 0 cettiarl.com
 0 drakeesh.com
+0 facebookz.co
 0 hashearog.com
 0 irduwhojas.ga
 0 kaurroot.com
@@ -13299,6 +13306,17 @@
 0 smilitygorb.club
 0 tammenaa.com
 0 ucesreferre.club
+0 vongquaymienphi.net
+0 www.facebookz.co
+0 www.vongquaymienphi.net
+0 fbcdn.tricker.vn
+0 free.tricker.vn
+0 gift.tricker.vn
+0 scontent.tricker.vn
+0 statics.tricker.vn
+0 tricker.vn
+0 vongquaymienphi.tricker.vn
+0 www.tricker.vn
 0 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 0 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 0 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
@@ -14551,7 +14569,6 @@
 0 bullseye.backbeatmedia.com
 0 bumpberam.pro
 0 burstmedia.com
-0 business.opera.com
 0 businessbells.com
 0 bustlinganimal.com
 0 butalksuw9dj10.com
@@ -16153,7 +16170,6 @@
 0 reactx.com
 0 readgoldfish.com
 0 readingguilt.com
-0 readingopera.com
 0 readserver.net
 0 readymoon.com
 0 realcastmedia.com
@@ -17093,6 +17109,8 @@
 0 analytics-digit-in.cdn.ampproject.org
 0 analytics-eu.clickdimensions.com
 0 analytics-production.hapyak.com
+0 analytics-statistics.machbird.com
+0 analytics-track.machbird.com
 0 analytics.agoda.com
 0 analytics.ahrefs.com
 0 analytics.archive.org
@@ -17131,6 +17149,7 @@
 0 analytics.similarweb.com
 0 analytics.swiggy.com
 0 analytics.youronlinechoices.com
+0 analytics.zen.ly
 0 analytics.ziftsolutions.com
 0 analyticsapi.bsbportal.com
 0 android-stat.acestream.net

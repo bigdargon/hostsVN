@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 28 Apr 2021 21:23 UTC+7
-! Version: 2104282123
-! Blocked: 6,344 rules
+! Last modified: 03 May 2021 21:42 UTC+7
+! Version: 2105032142
+! Blocked: 6,354 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -848,6 +848,7 @@
 ||celerantatters.com^
 ||cettiarl.com^
 ||drakeesh.com^
+||facebookz.co^
 ||hashearog.com^
 ||irduwhojas.ga^
 ||kaurroot.com^
@@ -856,7 +857,9 @@
 ||sacchaeleduk.com^
 ||smilitygorb.club^
 ||tammenaa.com^
+||tricker.vn^
 ||ucesreferre.club^
+||vongquaymienphi.net^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
@@ -1683,6 +1686,7 @@
 ||mediarithmics.com^
 ||mediawayss.com^
 ||meter-svc.nytimes.com^
+||metok.sys.miui.com^
 ||metric-api.newrelic.com^
 ||metrics-logger.spot.im^
 ||metrics.cnn.com^
@@ -1845,6 +1849,7 @@
 ||popup.msn.com^
 ||postrelease.com^
 ||powerlinks.com^
+||pps-log.op-mobile.opera.com^
 ||pr-bh.ybp.yahoo.com^
 ||prebid.org^
 ||pro-market.net^
@@ -1933,7 +1938,9 @@
 ||run-syndicate.com^
 ||runative-syndicate.com^
 ||runative.com^
+||s-adx.op-mobile.opera.com^
 ||s-onetag.com^
+||s.adx.opera.com^
 ||s4d.xyz^
 ||sa.api.intl.miui.com^
 ||sads*z.com^
@@ -1950,6 +1957,7 @@
 ||sdk-diagnostics.prd.mz.internal.unity3d.com^
 ||sdk-diagnostics.stg.mz.internal.unity3d.com^
 ||sdkclickurl.com^
+||sdklog.tvstore.opera.com^
 ||securemetrics.apple.com^
 ||segment.com^
 ||segment.io^
@@ -2046,6 +2054,7 @@
 ||tr.snapchat.com^
 ||trace.qq.com^
 ||track.uc.cn^
+||tracker.ai.xiaomi.com^
 ||tracking.intl.miui.com^
 ||tracking.miui.com^
 ||tracking.prd.mz.internal.unity3d.com^
@@ -3412,7 +3421,6 @@
 ||bullseye.backbeatmedia.com^
 ||bumpberam.pro^
 ||burstmedia.com^
-||business.opera.com^
 ||businessbells.com^
 ||bustlinganimal.com^
 ||butalksuw9dj10.com^
@@ -5018,7 +5026,6 @@
 ||reactx.com^
 ||readgoldfish.com^
 ||readingguilt.com^
-||readingopera.com^
 ||readserver.net^
 ||readymoon.com^
 ||realcastmedia.com^
@@ -5861,6 +5868,8 @@
 ||analytics-digit-in.cdn.ampproject.org^
 ||analytics-eu.clickdimensions.com^
 ||analytics-production.hapyak.com^
+||analytics-statistics.machbird.com^
+||analytics-track.machbird.com^
 ||analytics.agoda.com^
 ||analytics.ahrefs.com^
 ||analytics.archive.org^
@@ -5899,6 +5908,7 @@
 ||analytics.similarweb.com^
 ||analytics.swiggy.com^
 ||analytics.youronlinechoices.com^
+||analytics.zen.ly^
 ||analytics.ziftsolutions.com^
 ||analyticsapi.bsbportal.com^
 ||android-stat.acestream.net^

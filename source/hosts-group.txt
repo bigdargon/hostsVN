@@ -1524,6 +1524,7 @@
 0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 api.d.xiaomi.com
 0.0.0.0 sgp.o2o.api.xiaomi.com
+0.0.0.0 tracker.ai.xiaomi.com
 #[ad.xiaomi.com]
 0.0.0.0 ad.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
@@ -1564,6 +1565,7 @@
 0.0.0.0 cc.sys.miui.com
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 geofence.sys.miui.com
+0.0.0.0 metok.sys.miui.com
 #[cloudmobi]
 0.0.0.0 cloudmobi.net
 0.0.0.0 api.cloudmobi.net
@@ -12487,3 +12489,8 @@
 0.0.0.0 dmp.datawrkz.com
 0.0.0.0 serving.datawrkz.com
 0.0.0.0 www.datawrkz.com
+#[opera.com]
+0.0.0.0 pps-log.op-mobile.opera.com
+0.0.0.0 s-adx.op-mobile.opera.com
+0.0.0.0 s.adx.opera.com
+0.0.0.0 sdklog.tvstore.opera.com
