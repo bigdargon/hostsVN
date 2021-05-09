@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 May 2021 09:11 UTC+7
-# Version: 2105060911
-# Blocked: 17,637 domains
+# Last modified: 09 May 2021 13:37 UTC+7
+# Version: 2105091337
+# Blocked: 17,626 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -514,9 +514,26 @@
 0 ads.yap.yahoo.com
 0 m.yap.yahoo.com
 0 us.ads.yap.yahoo.com
+0 adserver.yahoo.co.jp
+0 ard.yahoo.co.jp
+0 dsb.yahoo.co.jp
+0 logoole.yahoo.co.jp
+0 logql.yahoo.co.jp
+0 ov.yahoo.co.jp
+0 promotionalads.yahoo.co.jp
+0 rd.yahoo.co.jp
+0 smartads.mobile.yahoo.co.jp
+0 yads.yahoo.co.jp
+0 yads.yjtag.yahoo.co.jp
+0 ybx.yahoo.co.jp
+0 yeas.yahoo.co.jp
+0 yjaxc.yahoo.co.jp
+0 affiliate.rakuten.co.jp
+0 static.affiliate.rakuten.co.jp
+0 xml.affiliate.rakuten.co.jp
+0 hbb.afl.rakuten.co.jp
 0 an.facebook.com
 0 pixel.facebook.com
-0 sonar-iad.xx.fbcdn.net
 0 o.update.fbsbx.com
 0 p.update.fbsbx.com
 0 post.update.fbsbx.com
@@ -1359,6 +1376,7 @@
 0 www.vungle.com
 0 ad.qq.com
 0 analy.qq.com
+0 log.tbs.qq.com
 0 logsdk.qq.com
 0 report.qq.com
 0 trace.qq.com
@@ -1461,6 +1479,12 @@
 0 ccc.sys.miui.com
 0 geofence.sys.miui.com
 0 metok.sys.miui.com
+0 adv.sec.miui.com
+0 api.sec.miui.com
+0 data.sec.miui.com
+0 logupdate.avlyun.sec.miui.com
+0 mazu.sec.miui.com
+0 xlmc.sec.miui.com
 0 cloudmobi.net
 0 api.cloudmobi.net
 0 logger.cloudmobi.net
@@ -2978,12 +3002,6 @@
 0 l.logly.co.jp
 0 sync.logly.co.jp
 0 www.logly.co.jp
-0 a.popin.cc
-0 api.popin.cc
-0 discoveryplus.popin.cc
-0 l.popin.cc
-0 r.popin.cc
-0 rlog.popin.cc
 0 ac.tynt.com
 0 api.tynt.com
 0 asa.tynt.com
@@ -6222,49 +6240,10 @@
 0 s3.cnnx.io
 0 s4.cnnx.io
 0 s5.cnnx.io
-0 api.rakutenmarketing.com
-0 cadence.rakutenmarketing.com
-0 cms.rakutenmarketing.com
-0 confluence.rakutenmarketing.com
-0 css.rakutenmarketing.com
-0 dealmaker.rakutenmarketing.com
-0 developers.rakutenmarketing.com
-0 dsp.rakutenmarketing.com
-0 go.rakutenmarketing.com
-0 hipchat.rakutenmarketing.com
-0 istream.rakutenmarketing.com
-0 jira.rakutenmarketing.com
-0 landing.rakutenmarketing.com
-0 marketplace.rakutenmarketing.com
-0 performance.rakutenmarketing.com
-0 rakutenmarketing.com
-0 ran-reporting.rakutenmarketing.com
-0 rapi.rakutenmarketing.com
-0 relay-cwg.rakutenmarketing.com
-0 shopifyapp.rakutenmarketing.com
-0 src.rakutenmarketing.com
-0 userservice-api.rakutenmarketing.com
-0 webhooks.rakutenmarketing.com
-0 www.rakutenmarketing.com
-0 au.linkshare.com
-0 directory.linkshare.com
-0 downloads.linkshare.com
-0 imap.linkshare.com
-0 info.linkshare.com
-0 jp.linkshare.com
 0 linkshare.com
-0 marcom.linkshare.com
 0 metrics.linkshare.com
-0 offers.linkshare.com
 0 reporting.linkshare.com
-0 shopping.linkshare.com
 0 smetrics.linkshare.com
-0 staging.linkshare.com
-0 staging-goldcrown.linkshare.com
-0 staging-hallmark.linkshare.com
-0 ty.linkshare.com
-0 us.linkshare.com
-0 userservice-api.linkshare.com
 0 www.linkshare.com
 0 a.ad.gt
 0 ad.gt
@@ -6381,48 +6360,15 @@
 0 t.steelhousemedia.com
 0 www.steelhousemedia.com
 0 cdn-as.nxtck.com
-0 cdn-master-as.nxtck.com
 0 cdnpi.nxtck.com
 0 cdn-ps.nxtck.com
 0 cdn-raw.nxtck.com
-0 consent.nxtck.com
-0 consent-dev.nxtck.com
 0 gif.nxtck.com
 0 m.nxtck.com
-0 mapping.nxtck.com
 0 nxtck.com
 0 p.nxtck.com
 0 ps.nxtck.com
-0 ps-live.nxtck.com
 0 redirect.nxtck.com
-0 rta-mia.nxtck.com
-0 rtb-adscale-geu.nxtck.com
-0 rtb-debug-gus.nxtck.com
-0 rtb-debug-mia.nxtck.com
-0 rtb-debug-mrs.nxtck.com
-0 rtb-facebook.mia.nxtck.com
-0 rtb-facebook.mrs.nxtck.com
-0 rtb-google.mia.nxtck.com
-0 rtb-google.mrs.nxtck.com
-0 rtb-google-gus.nxtck.com
-0 rtb-google-mia.nxtck.com
-0 rtb-google-mrs.nxtck.com
-0 rtb-index-geu.nxtck.com
-0 rtb-index-gus.nxtck.com
-0 rtb-other.gus.nxtck.com
-0 rtb-other.mia.nxtck.com
-0 rtb-other.mrs.nxtck.com
-0 rtb-other-gus.nxtck.com
-0 rtb-other-mia.nxtck.com
-0 rtb-other-mrs.nxtck.com
-0 rtb-quantum-geu.nxtck.com
-0 rtb-rubicon-gus.nxtck.com
-0 rtb-srv.gus.nxtck.com
-0 rtb-srv.mia.nxtck.com
-0 rtb-srv.mrs.nxtck.com
-0 rtb-srv.nxtck.com
-0 rtb-srv-mrs.nxtck.com
-0 rtb-yahoo-gus.nxtck.com
 0 cdn.ml314.com
 0 in.ml314.com
 0 ml314.com
@@ -10602,24 +10548,17 @@
 0 rtlog.musical.ly
 0 client_monitor.isnssdk.com
 0 clientmonitor.isnssdk.com
-0 i.isnssdk.com
-0 ichannel.isnssdk.com
 0 mon.isnssdk.com
 0 monitor.isnssdk.com
 0 rtlog.isnssdk.com
-0 bds.snssdk.com
-0 ichannel.snssdk.com
 0 log-hl.snssdk.com
 0 log-lq.snssdk.com
 0 log.snssdk.com
 0 mon-hl.snssdk.com
 0 mon.snssdk.com
 0 rtlog.snssdk.com
-0 smr.snssdk.com
 0 xlog.snssdk.com
 0 client_monitor.sgsnssdk.com
-0 i.sgsnssdk.com
-0 ichannel.sgsnssdk.com
 0 log-tb.sgsnssdk.com
 0 log.sgsnssdk.com
 0 mon.sgsnssdk.com
@@ -11526,6 +11465,24 @@
 0 s-adx.op-mobile.opera.com
 0 s.adx.opera.com
 0 sdklog.tvstore.opera.com
+0 ad.jp.ap.valuecommerce.com
+0 ads.jp.ap.valuecommerce.com
+0 aml.valuecommerce.com
+0 trj.valuecommerce.com
+0 valuecommerce.com
+0 a.popin.cc
+0 api.popin.cc
+0 popin.cc
+0 r.popin.cc
+0 rlog.popin.cc
+0 script.yomeno.xyz
+0 vast.yomeno.xyz
+0 www.yomeno.xyz
+0 yomeno.xyz
+0 sw.wpush.org
+0 wpush.org
+0 js.wpushsdk.com
+0 wpushsdk.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -12076,18 +12033,6 @@
 0 wakeup.klick.vn
 0 wakeup247.klick.vn
 0 www.klick.vn
-0 api.ladipage.vn
-0 builder.ladipage.vn
-0 doitac.ladipage.vn
-0 ladipage.vn
-0 ssl.ladipage.vn
-0 theme.ladipage.vn
-0 themes.ladipage.vn
-0 www.ladipage.vn
-0 ladipage.net
-0 static.ladipage.net
-0 api.ladisales.com
-0 ladisales.com
 0 caohavan.ezimar.com
 0 ezdns.ezimar.com
 0 ezimar.com
@@ -13004,6 +12949,7 @@
 0 genmonet.com
 0 ghimc.vn
 0 go.vnecdn.com
+0 hexapinow.xyz
 0 imgcdnbet.com
 0 interactive.tinnhanhchungkhoan.vn
 0 landingpagelagi.vn
@@ -13072,6 +13018,7 @@
 0 www.banhtv.org
 0 www.chiasephim.xyz
 0 www.delecpuzz.com
+0 www.hexapinow.xyz
 0 www.landingpagelagi.vn
 0 www.microad.vn
 0 www.realclick.vn
@@ -13179,6 +13126,7 @@
 0 log.tinnhac.com
 0 log.tinnhanhchungkhoan.vn
 0 log.tinxe.vn
+0 log.toss.vn
 0 log.trithuctructuyen.com.vn
 0 log.trithuctructuyen.vn
 0 log.vietnamdaily.net.vn
@@ -13248,6 +13196,7 @@
 0 track.icheck.com.vn
 0 track.kyna.vn
 0 track.lapa.pub
+0 track.lemonnovel.com
 0 track.pnj.com.vn
 0 track.pregmomvietnam.com
 0 track.sendo.vn
@@ -13263,6 +13212,7 @@
 0 tracking.dantri.com.vn
 0 tracking.fado.vn
 0 tracking.fff.com.vn
+0 tracking.gapone.vn
 0 tracking.hongtinnhanh.com
 0 tracking.meta.vn
 0 tracking.phunuadong.vn
@@ -13919,6 +13869,7 @@
 0 ads.stackoverflow.com
 0 ads.sun.com
 0 ads.suomiautomaatti.com
+0 ads.superawesome.tv
 0 ads.supplyframe.com
 0 ads.tahono.com
 0 ads.tapdaq.com
@@ -14073,6 +14024,7 @@
 0 adsmogo.mobi
 0 adsmogo.net
 0 adsmogo.org
+0 adsnetonline.work
 0 adsniper.ru
 0 adsoftware.com
 0 adsoldier.com
@@ -14227,6 +14179,7 @@
 0 affinity.com
 0 afftracking.justanswer.com
 0 africaewgrhdtb.com
+0 agacelebir.com
 0 agafurretor.com
 0 agreeableprice.com
 0 agreeablestew.com
@@ -14279,6 +14232,7 @@
 0 anxiousapples.com
 0 apathetictheory.com
 0 apex-ad.com
+0 aphidsclee.com
 0 aphycolourses.info
 0 api-gdpr.voodoo-tech.io
 0 api.52youtu.com
@@ -14376,6 +14330,7 @@
 0 azoaltou.com
 0 b-1st.com
 0 b4psads.com
+0 b91vip.com
 0 babs.tv2.dk
 0 backbeatmedia.com
 0 balancebreath.com
@@ -14467,6 +14422,7 @@
 0 baskettexture.com
 0 batbuilding.com
 0 bawdybeast.com
+0 bayirksrap.com
 0 baypops.com
 0 bbbadshostnet.com
 0 bbbpromos.org
@@ -14516,6 +14472,7 @@
 0 blacurlik.com
 0 blast4traffic.com
 0 blingbucks.com
+0 blockadsnot.com
 0 blogads.com
 0 blogcounter.de
 0 blogrush.com
@@ -14661,6 +14618,7 @@
 0 chinsnakes.com
 0 chitika.net
 0 chocohjuanfhdhf.com
+0 choconart.com
 0 cibleclick.com
 0 ciksolre.net
 0 cityads.telus.net
@@ -14853,6 +14811,7 @@
 0 d2cmedia.ca
 0 d3cod80thn7qnd.cloudfront.net
 0 d3mzokty951c5w.cloudfront.net
+0 dads.wedobest.com.cn
 0 dadslims.com
 0 dakic-ia-300.com
 0 damdoor.com
@@ -14943,6 +14902,7 @@
 0 drabsize.com
 0 dragzebra.com
 0 drawbrid.ge
+0 drawnperink.com
 0 drumcash.com
 0 drydrum.com
 0 dsp.io
@@ -15117,6 +15077,7 @@
 0 findepended.com
 0 fineclicks.com
 0 fingahvf.top
+0 finkyepbows.com
 0 firstlightera.com
 0 fixsirrod.site
 0 flakyfeast.com
@@ -15125,6 +15086,7 @@
 0 flimsycircle.com
 0 floodprincipal.com
 0 flowgo.com
+0 fluffycodepotc.com
 0 fm6dz864.top
 0 foamidsputt.com
 0 fogcollision.com
@@ -15164,6 +15126,7 @@
 0 fxstyle.net
 0 g2afse.com
 0 ga87z2o.com
+0 gaijiglo.net
 0 galaksion.com
 0 galaxien.com
 0 gavnogeeygaika.com
@@ -15255,6 +15218,7 @@
 0 hh-btr.com
 0 hidden.gogoceleb.com
 0 highfalutinroom.com
+0 highmaidfhr.com
 0 highprofitnetwork.com
 0 hightrafficads.com
 0 hilariouszinc.com
@@ -15416,6 +15380,7 @@
 0 ipromote.com
 0 iqm.com
 0 ireklama.cz
+0 irkfunkyformer.com
 0 irncdn.com
 0 ismtampsshad.icu
 0 itfarm.com
@@ -15436,6 +15401,7 @@
 0 jatxt.com
 0 jcount.com
 0 jf71qh5v14.com
+0 jighucme.com
 0 jinkads.de
 0 jioads.akamaized.net
 0 jivox.com
@@ -15470,6 +15436,7 @@
 0 kompasads.com
 0 kontera.com
 0 kotikinar2ko8tiki09.com
+0 kqzyfj.com
 0 ktu.sv2.biz
 0 kupona.de
 0 kurlichan.com
@@ -15531,6 +15498,7 @@
 0 loadsfalladz.casa
 0 localmantra.com
 0 localmediabuying.com
+0 loftsbaacad.com
 0 log.btopenworld.com
 0 logger.snackly.co
 0 logs.roku.com
@@ -15896,6 +15864,7 @@
 0 optimost.com
 0 optmd.com
 0 optmstr.com
+0 oranegfodnd.com
 0 orangeads.fr
 0 oriori.com
 0 ortshk.tapas.net
@@ -15943,6 +15912,7 @@
 0 passeura.com
 0 passion-4.net
 0 passtechusa.com
+0 pateablyace.com
 0 pay-ads.com
 0 paycounter.com
 0 paypopup.com
@@ -15967,6 +15937,7 @@
 0 performancerevenue.com
 0 performancerevenues.com
 0 performancing.com
+0 perigshfnon.com
 0 personagraph.com
 0 personaly.click
 0 petchesa.net
@@ -16445,6 +16416,7 @@
 0 srwww1.com
 0 st-n.pc2ads.com
 0 stackadapt.com
+0 stagepopkek.com
 0 stakingscrew.com
 0 stakingslope.com
 0 standingnest.com
@@ -16487,6 +16459,7 @@
 0 statsie.com
 0 statsy.net
 0 statxpress.com
+0 stawhoph.com
 0 stazumik.net
 0 steadfastsound.com
 0 steadfastsystem.com
@@ -16784,11 +16757,11 @@
 0 valuead.com
 0 valueclick.com
 0 valueclickmedia.com
-0 valuecommerce.com
 0 valuedopinions.co.uk
 0 valuesponsor.com
 0 vanfireworks.com
 0 variablefitness.com
+0 vattingbalak.com
 0 veille-referencement.com
 0 veinteractive.com
 0 velocecdn.com
@@ -16796,12 +16769,14 @@
 0 velti.com
 0 vendorlist.consensu.org
 0 ventivmedia.com
+0 venuegirtjive.com
 0 verblife-3.co
 0 vericlick.com
 0 vertadnet.com
 0 veruta.com
 0 vervemobile.com
 0 vervewireless.com
+0 vetdeberg.com
 0 vi-tag.net
 0 viaslyeve.club
 0 vibrantmedia.com
@@ -16812,6 +16787,7 @@
 0 view4cash.de
 0 viewpoint.com
 0 viewwonder.com
+0 vignerez.net
 0 villandoping.site
 0 villandopingcon.site
 0 vindicosuite.com
@@ -16890,6 +16866,7 @@
 0 whisperingcrib.com
 0 whoisonline.net
 0 wholesaletraffic.info
+0 whowhipi.net
 0 whugesto.net
 0 whurulali.pro
 0 widdit.com
@@ -16943,6 +16920,7 @@
 0 www.beharmalted.info
 0 www.binary1.website
 0 www.binarymoney.site
+0 www.blockadsnot.com
 0 www.cdn4ads.com
 0 www.cdnondemand.org
 0 www.chargingsensationmetropolitan.com
@@ -16974,6 +16952,7 @@
 0 www.kaplanindex.com
 0 www.ketchapp.org
 0 www.kiolim.com
+0 www.kqzyfj.com
 0 www.lecap-services.fr
 0 www.lightboxcdn.com
 0 www.maxgid.com
@@ -17143,6 +17122,7 @@
 0 analytics.publitas.com
 0 analytics.samdd.me
 0 analytics.samsungknox.com
+0 analytics.sejda.com
 0 analytics.shift.agency
 0 analytics.siliconexpert.com
 0 analytics.similarweb.com
@@ -17222,6 +17202,7 @@
 0 d4n.platformd.com
 0 dap.digitalgov.gov
 0 databerries.com
+0 datadoghq-browser-agent.com
 0 distillery.wistia.com
 0 dlog.hiido.com
 0 dm.bytedance.com
@@ -17319,6 +17300,7 @@
 0 lfeeder.com
 0 lgglobal.ihago.net
 0 liftoff.io
+0 log-eap-sg.coloros.com
 0 log.aliyuncs.com
 0 log.apk.v-mate.mobi
 0 log.avlyun.com
@@ -17333,10 +17315,12 @@
 0 log.tutuapp.com
 0 log.umsns.com
 0 log.ventunotech.com
+0 log.ys7.com
 0 log.zoom.us
 0 logfiles.zoom.us
 0 logger.unsplash.com
 0 logging.goclean.tech
+0 logreport-v2.easy4ipcloud.com
 0 logs.amap.com
 0 logs.bytefence.com
 0 logs.spilgames.com
@@ -17356,6 +17340,7 @@
 0 metrics.cloudflarebolt.com
 0 metrics.redgifs.com
 0 metrics.sdkbox.com
+0 mlog.appguard.co.kr
 0 mlog.hiido.com
 0 moatpixel.com
 0 mobiletelemetry.ebay.com
@@ -17368,6 +17353,7 @@
 0 movestone.net
 0 mybbc-analytics.files.bbci.co.uk
 0 netcore.co.in
+0 newlog.lilithgame.com
 0 nexus.ensighten.com
 0 nonglirili.net
 0 notify.bugsnag.com
@@ -17419,6 +17405,7 @@
 0 r.3gl.net
 0 r.bbci.co.uk
 0 r1.snnd.co
+0 rclog.rcplatformhk.com
 0 reachmax.cn
 0 redinvestor.com
 0 redretarget.com
@@ -17527,6 +17514,7 @@
 0 tracking.bodis.com
 0 tracking.hubspot.com
 0 tracking.lenzmx.com
+0 trackingflaregames.net
 0 trk.clinch.co
 0 uciservice.com
 0 ultimedia.com
@@ -17559,6 +17547,7 @@
 0 widget.trustpilot.com
 0 wieistmeineip.de
 0 wt.soundestlink.com
+0 www.datadoghq-browser-agent.com
 0 www.ethtrader.de
 0 www.everestjs.net
 0 www.fastly-insights.com

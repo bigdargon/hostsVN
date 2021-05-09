@@ -549,10 +549,29 @@
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 us.ads.yap.yahoo.com
+#[yahoo.co.jp]
+0.0.0.0 adserver.yahoo.co.jp
+0.0.0.0 ard.yahoo.co.jp
+0.0.0.0 dsb.yahoo.co.jp
+0.0.0.0 logoole.yahoo.co.jp
+0.0.0.0 logql.yahoo.co.jp
+0.0.0.0 ov.yahoo.co.jp
+0.0.0.0 promotionalads.yahoo.co.jp
+0.0.0.0 rd.yahoo.co.jp
+0.0.0.0 smartads.mobile.yahoo.co.jp
+0.0.0.0 yads.yahoo.co.jp
+0.0.0.0 yads.yjtag.yahoo.co.jp
+0.0.0.0 ybx.yahoo.co.jp
+0.0.0.0 yeas.yahoo.co.jp
+0.0.0.0 yjaxc.yahoo.co.jp
+#[rakuten.co.jp]
+0.0.0.0 affiliate.rakuten.co.jp
+0.0.0.0 static.affiliate.rakuten.co.jp
+0.0.0.0 xml.affiliate.rakuten.co.jp
+0.0.0.0 hbb.afl.rakuten.co.jp
 #[facebook]
 0.0.0.0 an.facebook.com
 0.0.0.0 pixel.facebook.com
-0.0.0.0 sonar-iad.xx.fbcdn.net
 #[update.fbsbx.com]
 0.0.0.0 o.update.fbsbx.com
 0.0.0.0 p.update.fbsbx.com
@@ -1447,6 +1466,7 @@
 #[qq.com]
 0.0.0.0 ad.qq.com
 0.0.0.0 analy.qq.com
+0.0.0.0 log.tbs.qq.com
 0.0.0.0 logsdk.qq.com
 0.0.0.0 report.qq.com
 0.0.0.0 trace.qq.com
@@ -1566,6 +1586,13 @@
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 geofence.sys.miui.com
 0.0.0.0 metok.sys.miui.com
+#[sec.miui.com]
+0.0.0.0 adv.sec.miui.com
+0.0.0.0 api.sec.miui.com
+0.0.0.0 data.sec.miui.com
+0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 mazu.sec.miui.com
+0.0.0.0 xlmc.sec.miui.com
 #[cloudmobi]
 0.0.0.0 cloudmobi.net
 0.0.0.0 api.cloudmobi.net
@@ -3181,13 +3208,6 @@
 0.0.0.0 l.logly.co.jp
 0.0.0.0 sync.logly.co.jp
 0.0.0.0 www.logly.co.jp
-#[popin]
-0.0.0.0 a.popin.cc
-0.0.0.0 api.popin.cc
-0.0.0.0 discoveryplus.popin.cc
-0.0.0.0 l.popin.cc
-0.0.0.0 r.popin.cc
-0.0.0.0 rlog.popin.cc
 #[tynt]
 0.0.0.0 ac.tynt.com
 0.0.0.0 api.tynt.com
@@ -6636,51 +6656,11 @@
 0.0.0.0 s3.cnnx.io
 0.0.0.0 s4.cnnx.io
 0.0.0.0 s5.cnnx.io
-#[rakutenmarketing.com]
-0.0.0.0 api.rakutenmarketing.com
-0.0.0.0 cadence.rakutenmarketing.com
-0.0.0.0 cms.rakutenmarketing.com
-0.0.0.0 confluence.rakutenmarketing.com
-0.0.0.0 css.rakutenmarketing.com
-0.0.0.0 dealmaker.rakutenmarketing.com
-0.0.0.0 developers.rakutenmarketing.com
-0.0.0.0 dsp.rakutenmarketing.com
-0.0.0.0 go.rakutenmarketing.com
-0.0.0.0 hipchat.rakutenmarketing.com
-0.0.0.0 istream.rakutenmarketing.com
-0.0.0.0 jira.rakutenmarketing.com
-0.0.0.0 landing.rakutenmarketing.com
-0.0.0.0 marketplace.rakutenmarketing.com
-0.0.0.0 performance.rakutenmarketing.com
-0.0.0.0 rakutenmarketing.com
-0.0.0.0 ran-reporting.rakutenmarketing.com
-0.0.0.0 rapi.rakutenmarketing.com
-0.0.0.0 relay-cwg.rakutenmarketing.com
-0.0.0.0 shopifyapp.rakutenmarketing.com
-0.0.0.0 src.rakutenmarketing.com
-0.0.0.0 userservice-api.rakutenmarketing.com
-0.0.0.0 webhooks.rakutenmarketing.com
-0.0.0.0 www.rakutenmarketing.com
 #[linkshare.com]
-0.0.0.0 au.linkshare.com
-0.0.0.0 directory.linkshare.com
-0.0.0.0 downloads.linkshare.com
-0.0.0.0 imap.linkshare.com
-0.0.0.0 info.linkshare.com
-0.0.0.0 jp.linkshare.com
 0.0.0.0 linkshare.com
-0.0.0.0 marcom.linkshare.com
 0.0.0.0 metrics.linkshare.com
-0.0.0.0 offers.linkshare.com
 0.0.0.0 reporting.linkshare.com
-0.0.0.0 shopping.linkshare.com
 0.0.0.0 smetrics.linkshare.com
-0.0.0.0 staging.linkshare.com
-0.0.0.0 staging-goldcrown.linkshare.com
-0.0.0.0 staging-hallmark.linkshare.com
-0.0.0.0 ty.linkshare.com
-0.0.0.0 us.linkshare.com
-0.0.0.0 userservice-api.linkshare.com
 0.0.0.0 www.linkshare.com
 #[ad.gt]
 0.0.0.0 a.ad.gt
@@ -6805,48 +6785,15 @@
 0.0.0.0 www.steelhousemedia.com
 #[nxtck.com]
 0.0.0.0 cdn-as.nxtck.com
-0.0.0.0 cdn-master-as.nxtck.com
 0.0.0.0 cdnpi.nxtck.com
 0.0.0.0 cdn-ps.nxtck.com
 0.0.0.0 cdn-raw.nxtck.com
-0.0.0.0 consent.nxtck.com
-0.0.0.0 consent-dev.nxtck.com
 0.0.0.0 gif.nxtck.com
 0.0.0.0 m.nxtck.com
-0.0.0.0 mapping.nxtck.com
 0.0.0.0 nxtck.com
 0.0.0.0 p.nxtck.com
 0.0.0.0 ps.nxtck.com
-0.0.0.0 ps-live.nxtck.com
 0.0.0.0 redirect.nxtck.com
-0.0.0.0 rta-mia.nxtck.com
-0.0.0.0 rtb-adscale-geu.nxtck.com
-0.0.0.0 rtb-debug-gus.nxtck.com
-0.0.0.0 rtb-debug-mia.nxtck.com
-0.0.0.0 rtb-debug-mrs.nxtck.com
-0.0.0.0 rtb-facebook.mia.nxtck.com
-0.0.0.0 rtb-facebook.mrs.nxtck.com
-0.0.0.0 rtb-google.mia.nxtck.com
-0.0.0.0 rtb-google.mrs.nxtck.com
-0.0.0.0 rtb-google-gus.nxtck.com
-0.0.0.0 rtb-google-mia.nxtck.com
-0.0.0.0 rtb-google-mrs.nxtck.com
-0.0.0.0 rtb-index-geu.nxtck.com
-0.0.0.0 rtb-index-gus.nxtck.com
-0.0.0.0 rtb-other.gus.nxtck.com
-0.0.0.0 rtb-other.mia.nxtck.com
-0.0.0.0 rtb-other.mrs.nxtck.com
-0.0.0.0 rtb-other-gus.nxtck.com
-0.0.0.0 rtb-other-mia.nxtck.com
-0.0.0.0 rtb-other-mrs.nxtck.com
-0.0.0.0 rtb-quantum-geu.nxtck.com
-0.0.0.0 rtb-rubicon-gus.nxtck.com
-0.0.0.0 rtb-srv.gus.nxtck.com
-0.0.0.0 rtb-srv.mia.nxtck.com
-0.0.0.0 rtb-srv.mrs.nxtck.com
-0.0.0.0 rtb-srv.nxtck.com
-0.0.0.0 rtb-srv-mrs.nxtck.com
-0.0.0.0 rtb-yahoo-gus.nxtck.com
 #[ml314.com]
 0.0.0.0 cdn.ml314.com
 0.0.0.0 in.ml314.com
@@ -11402,26 +11349,19 @@
 #[isnssdk.com]
 0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 clientmonitor.isnssdk.com
-0.0.0.0 i.isnssdk.com
-0.0.0.0 ichannel.isnssdk.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 monitor.isnssdk.com
 0.0.0.0 rtlog.isnssdk.com
 #[snssdk.com]
-0.0.0.0 bds.snssdk.com
-0.0.0.0 ichannel.snssdk.com
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-lq.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 mon-hl.snssdk.com
 0.0.0.0 mon.snssdk.com
 0.0.0.0 rtlog.snssdk.com
-0.0.0.0 smr.snssdk.com
 0.0.0.0 xlog.snssdk.com
 #[sgsnssdk.com]
 0.0.0.0 client_monitor.sgsnssdk.com
-0.0.0.0 i.sgsnssdk.com
-0.0.0.0 ichannel.sgsnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log.sgsnssdk.com
 0.0.0.0 mon.sgsnssdk.com
@@ -12494,3 +12434,26 @@
 0.0.0.0 s-adx.op-mobile.opera.com
 0.0.0.0 s.adx.opera.com
 0.0.0.0 sdklog.tvstore.opera.com
+#[valuecommerce.com]
+0.0.0.0 ad.jp.ap.valuecommerce.com
+0.0.0.0 ads.jp.ap.valuecommerce.com
+0.0.0.0 aml.valuecommerce.com
+0.0.0.0 trj.valuecommerce.com
+0.0.0.0 valuecommerce.com
+#[popin.cc]
+0.0.0.0 a.popin.cc
+0.0.0.0 api.popin.cc
+0.0.0.0 popin.cc
+0.0.0.0 r.popin.cc
+0.0.0.0 rlog.popin.cc
+#[yomeno.xyz]
+0.0.0.0 script.yomeno.xyz
+0.0.0.0 vast.yomeno.xyz
+0.0.0.0 www.yomeno.xyz
+0.0.0.0 yomeno.xyz
+#[wpush.org]
+0.0.0.0 sw.wpush.org
+0.0.0.0 wpush.org
+#[wpushsdk.com]
+0.0.0.0 js.wpushsdk.com
+0.0.0.0 wpushsdk.com

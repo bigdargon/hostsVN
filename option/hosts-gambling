@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 06 May 2021 09:11 UTC+7
-# Version: 2105060911
-# Blocked: 2,893 domains
+# Last modified: 09 May 2021 13:37 UTC+7
+# Version: 2105091337
+# Blocked: 2,900 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -671,6 +671,13 @@
 0.0.0.0 f5.789.moi
 0.0.0.0 game.789.moi
 0.0.0.0 qc.789.moi
+0.0.0.0 playgo88.asia
+0.0.0.0 vuabai9.com
+0.0.0.0 link.vuabai9.com
+0.0.0.0 live.vuabai9.com
+0.0.0.0 mayman.vuabai9.com
+0.0.0.0 www.vuabai9.com
+0.0.0.0 playgamefa88.live
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
