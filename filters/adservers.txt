@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 May 2021 13:37 UTC+7
-! Version: 2105091337
-! Blocked: 863 rules
+! Last modified: 10 May 2021 22:02 UTC+7
+! Version: 2105102202
+! Blocked: 864 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -666,6 +666,7 @@
 ||aw8vn2.com^
 ||b29qc.win^
 ||b52.win^
+||bet365.com^
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
