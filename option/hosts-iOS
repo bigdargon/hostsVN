@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 May 2021 22:02 UTC+7
-# Version: 2105102202
-# Blocked: 17,627 domains
+# Last modified: 12 May 2021 09:36 UTC+7
+# Version: 2105120936
+# Blocked: 17,633 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11483,6 +11483,9 @@
 0 wpush.org
 0 js.wpushsdk.com
 0 wpushsdk.com
+0 brothersail.com
+0 offers.brothersail.com
+0 www.brothersail.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -12791,6 +12794,14 @@
 0 mvideo.tpmedia.online
 0 tpmedia.online
 0 www.tpmedia.online
+0 fbcdn.tricker.vn
+0 free.tricker.vn
+0 gift.tricker.vn
+0 scontent.tricker.vn
+0 statics.tricker.vn
+0 tricker.vn
+0 vongquaymienphi.tricker.vn
+0 www.tricker.vn
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
 0 ad-admin.vnay.vn
@@ -13258,19 +13269,12 @@
 0 vongquaymienphi.net
 0 www.facebookz.co
 0 www.vongquaymienphi.net
-0 fbcdn.tricker.vn
-0 free.tricker.vn
-0 gift.tricker.vn
-0 scontent.tricker.vn
-0 statics.tricker.vn
-0 tricker.vn
-0 vongquaymienphi.tricker.vn
-0 www.tricker.vn
 0 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 0 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 0 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 0 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
+0 0n.click
 0 1-1ads.com
 0 152media.info
 0 1phads.com
@@ -14439,6 +14443,7 @@
 0 bedsbreath.com
 0 beeashale.club
 0 beemray.com
+0 befirstcdn.com
 0 begun.ru
 0 beharmalted.info
 0 behavioralengine.com
@@ -15400,6 +15405,7 @@
 0 jaizouji.com
 0 jatxt.com
 0 jcount.com
+0 jenicdntc.com
 0 jf71qh5v14.com
 0 jighucme.com
 0 jinkads.de
