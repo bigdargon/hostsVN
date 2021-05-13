@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 May 2021 16:19 UTC+7
-# Version: 2105121619
-# Blocked: 17,633 domains
+# Last modified: 13 May 2021 14:53 UTC+7
+# Version: 2105131453
+# Blocked: 17,640 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12473,6 +12473,14 @@
 0.0.0.0 brothersail.com
 0.0.0.0 offers.brothersail.com
 0.0.0.0 www.brothersail.com
+#[macaw.is]
+0.0.0.0 adv.macaw.is
+0.0.0.0 api.macaw.is
+0.0.0.0 code.macaw.is
+0.0.0.0 img.macaw.is
+0.0.0.0 macaw.is
+0.0.0.0 st.macaw.is
+0.0.0.0 www.macaw.is
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn

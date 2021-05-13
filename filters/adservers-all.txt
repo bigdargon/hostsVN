@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 May 2021 16:19 UTC+7
-! Version: 2105121619
-! Blocked: 6,417 rules
+! Last modified: 13 May 2021 14:53 UTC+7
+! Version: 2105131453
+! Blocked: 6,418 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1671,6 +1671,7 @@
 ||lsosad.com^
 ||luckyorange.com^
 ||m-adash.m.taobao.com^
+||macaw.is^
 ||mads*.amazon.com^
 ||mads*z.com^
 ||mads.cnet.com^
