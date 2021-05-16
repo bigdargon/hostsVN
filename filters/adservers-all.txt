@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 May 2021 14:53 UTC+7
-! Version: 2105131453
-! Blocked: 6,418 rules
+! Last modified: 16 May 2021 12:22 UTC+7
+! Version: 2105161222
+! Blocked: 6,412 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -774,6 +774,7 @@
 ||rio66qc.club^
 ||sbc31.com^
 ||sieubomtan.com^
+||sin88.com^
 ||sky88.com^
 ||socvip.com^
 ||socvip9.club^
@@ -1047,6 +1048,7 @@
 ||adspsp.com^
 ||adsrvr.org^
 ||adstage-analytics.herokuapp.com^
+||adsterra.org^
 ||adswick.com^
 ||adswizz.com^
 ||adsymptotic.com^
@@ -1636,23 +1638,11 @@
 ||lkqd.net^
 ||localytics.com^
 ||log-api.newrelic.com^
-||log-hl.snssdk.com^
-||log-lq.snssdk.com^
-||log-tb.sgsnssdk.com^
-||log-va.tiktokv.com^
-||log.byteoversea.com^
 ||log.go.com^
 ||log.kajicam.com^
-||log.musical.ly^
 ||log.pinterest.com^
-||log.sgsnssdk.com^
-||log.snssdk.com^
 ||log.spotify.com^
 ||log.tbs.qq.com^
-||log.tiktokv.com^
-||log15.byteoversea.com^
-||log16.byteoversea.com^
-||log2.musical.ly^
 ||log3-misc-hl.amemv.com^
 ||log3-misc-lq.amemv.com^
 ||log5-misc-lq.amemv.com^
@@ -1688,6 +1678,7 @@
 ||mathtag.com^
 ||matomo.cloud^
 ||mavq.net^
+||maxymiser.net^
 ||mazu.sec.miui.com^
 ||mc.yandex.ru^
 ||mdotm.com^
@@ -3467,6 +3458,7 @@
 ||c.rigelink.com^
 ||c1.nowlinux.com^
 ||c1exchange.com^
+||c43a3cd8f99413891.com^
 ||ca.clcknads.pro^
 ||calculatingcircle.com^
 ||calculatingtoothbrush.com^
@@ -4145,6 +4137,7 @@
 ||heywire.com^
 ||hfc195b.com^
 ||hgads.com^
+||hgzuqrtzt.com^
 ||hh-btr.com^
 ||hidden.gogoceleb.com^
 ||highfalutinroom.com^
@@ -4691,6 +4684,7 @@
 ||netpool.netbookia.net^
 ||netseer.com^
 ||netshelter.net^
+||networksdk.ssacdn.com^
 ||neudesicmediagroup.com^
 ||newads.bangbros.com^
 ||newbie.com^

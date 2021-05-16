@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 May 2021 14:53 UTC+7
-# Version: 2105131453
-# Blocked: 2,897 domains
+# Last modified: 16 May 2021 12:22 UTC+7
+# Version: 2105161222
+# Blocked: 2,907 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -785,6 +785,16 @@
 0.0.0.0 oaffbo.oneday88.com
 0.0.0.0 ocdn.oneday88.com
 0.0.0.0 ocrm.oneday88.com
+0.0.0.0 sin88.com
+0.0.0.0 banca.sin88.com
+0.0.0.0 casino.sin88.com
+0.0.0.0 games.sin88.com
+0.0.0.0 lode.sin88.com
+0.0.0.0 qc.sin88.com
+0.0.0.0 s1.sin88.com
+0.0.0.0 s2.sin88.com
+0.0.0.0 s3.sin88.com
+0.0.0.0 www.sin88.com
 #https://github.com/bigdargon/hostsVN/issues/152#issuecomment-574491241
 0.0.0.0 138.com
 0.0.0.0 138fc.co
