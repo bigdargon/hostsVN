@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 May 2021 12:22 UTC+7
-! Version: 2105161222
-! Blocked: 6,412 rules
+! Last modified: 19 May 2021 09:39 UTC+7
+! Version: 2105190939
+! Blocked: 6,411 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1825,7 +1825,6 @@
 ||pcookie.taobao.com^
 ||pendo.io^
 ||pepperjam.com^
-||perimeterx.net^
 ||permutive.com^
 ||persona.ly^
 ||petametrics.com^
@@ -4065,6 +4064,7 @@
 ||getwisdom.io^
 ||ggimg.tapas.net^
 ||giddycoat.com^
+||gjqhufkamcoc.com^
 ||gladiol9us10.com^
 ||glassmilheart.com^
 ||globalismedia.com^
@@ -4761,7 +4761,6 @@
 ||onestat.com^
 ||onestatfree.com^
 ||onewaylinkexchange.net^
-||online-metrix.net^
 ||online.miarroba.com^
 ||onlinecash.com^
 ||onlinecashmethod.com^
@@ -6082,7 +6081,6 @@
 ||greedseed.world^
 ||guihua-china.com^
 ||gurgle.zdbb.net^
-||h-sdk.online-metrix.net^
 ||hairtease.com^
 ||hitcpm.com^
 ||hits.theguardian.com^
@@ -6152,6 +6150,7 @@
 ||logreport-v2.easy4ipcloud.com^
 ||logs.amap.com^
 ||logs.bytefence.com^
+||logs.ironsrc.mobi^
 ||logs.spilgames.com^
 ||logsss.com^
 ||loles.neostrada.pl^

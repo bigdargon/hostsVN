@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 May 2021 12:22 UTC+7
-# Version: 2105161222
-# Blocked: 17,637 domains
+# Last modified: 19 May 2021 09:39 UTC+7
+# Version: 2105190939
+# Blocked: 17,596 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4821,31 +4821,10 @@
 0 www.askingpoint.com
 0 file.askingpoint.com
 0 api.gameanalytics.com
-0 api-eu.gameanalytics.com
-0 api-us.gameanalytics.com
 0 cdn.gameanalytics.com
-0 cn.gameanalytics.com
-0 download.gameanalytics.com
-0 easy.gameanalytics.com
 0 gameanalytics.com
 0 go.gameanalytics.com
-0 go-export.gameanalytics.com
-0 maven.gameanalytics.com
-0 nyblog.gameanalytics.com
-0 ops-query-0.gameanalytics.com
-0 ops-query-1.gameanalytics.com
-0 ops-query-2.gameanalytics.com
-0 ops-query-3.gameanalytics.com
-0 pages.gameanalytics.com
-0 public.gameanalytics.com
-0 public-production.gameanalytics.com
-0 query-0.gameanalytics.com
-0 query-1.gameanalytics.com
-0 query-2.gameanalytics.com
-0 query-3.gameanalytics.com
-0 ru.gameanalytics.com
 0 rubick.gameanalytics.com
-0 sandbox-api.gameanalytics.com
 0 track.gameanalytics.com
 0 www.gameanalytics.com
 0 analytics.upsight.com
@@ -7781,16 +7760,6 @@
 0 net.cdn.ezoic.net
 0 outbrain.ezoic.net
 0 www.ezoic.net
-0 b.perimeterx.net
-0 c.perimeterx.net
-0 cl-stg.perimeterx.net
-0 client.perimeterx.net
-0 conf.perimeterx.net
-0 perimeterx.net
-0 px-conf.perimeterx.net
-0 s.perimeterx.net
-0 sa-stg.perimeterx.net
-0 www.perimeterx.net
 0 adrta.com
 0 api.adrta.com
 0 cdn.adrta.com
@@ -9646,24 +9615,6 @@
 0 gfoto.vev77.com
 0 gfotom.vev77.com
 0 vev77.com
-0 addelivery-engine-api.voodoo-ads.io
-0 airflow.voodoo-ads.io
-0 campaign-assets.voodoo-ads.io
-0 data-collector.voodoo-ads.io
-0 engine.voodoo-ads.io
-0 front-logs.voodoo-ads.io
-0 kmonitoring.voodoo-ads.io
-0 krancher.voodoo-ads.io
-0 monitoring.voodoo-ads.io
-0 promfederation.voodoo-ads.io
-0 rancher.voodoo-ads.io
-0 splash-screen.voodoo-ads.io
-0 splash-screen-data.voodoo-ads.io
-0 subscription-project-api.voodoo-ads.io
-0 voodoo-ads.io
-0 trackers.voodoo-analytics.io
-0 voodoo-analytics.io
-0 www.voodoo-analytics.io
 0 en25.com
 0 img.en25.com
 0 adctrl.com
@@ -11486,6 +11437,13 @@
 0 adsterra.org
 0 delivery.adsterra.org
 0 www.adsterra.org
+0 addelivery-engine-api.voodoo-ads.io
+0 front-logs.voodoo-ads.io
+0 splash-screen.voodoo-ads.io
+0 voodoo-ads.io
+0 trackers.voodoo-analytics.io
+0 voodoo-analytics.io
+0 www.voodoo-analytics.io
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -15149,6 +15107,7 @@
 0 getwisdom.io
 0 ggimg.tapas.net
 0 giddycoat.com
+0 gjqhufkamcoc.com
 0 gladiol9us10.com
 0 glassmilheart.com
 0 globalismedia.com
@@ -15843,7 +15802,6 @@
 0 onestat.com
 0 onestatfree.com
 0 onewaylinkexchange.net
-0 online-metrix.net
 0 online.miarroba.com
 0 onlinecash.com
 0 onlinecashmethod.com
@@ -16953,6 +16911,7 @@
 0 www.fm6dz864.top
 0 www.galaksion.com
 0 www.geniusdexchange.com
+0 www.gjqhufkamcoc.com
 0 www.go-rillatrack.com
 0 www.groupm.com
 0 www.hgzuqrtzt.com
@@ -17263,7 +17222,6 @@
 0 greedseed.world
 0 guihua-china.com
 0 gurgle.zdbb.net
-0 h-sdk.online-metrix.net
 0 hairtease.com
 0 hitcpm.com
 0 hits.theguardian.com
@@ -17333,6 +17291,7 @@
 0 logreport-v2.easy4ipcloud.com
 0 logs.amap.com
 0 logs.bytefence.com
+0 logs.ironsrc.mobi
 0 logs.spilgames.com
 0 logsss.com
 0 loles.neostrada.pl
