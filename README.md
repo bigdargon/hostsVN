@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantu
 
 ## Android
 
-- Với các máy Android chưa root, sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) cho một số ứng dụng như [Blokada](https://blokada.org/#download), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66/), [Virtual Hosts](https://play.google.com/store/apps/details?id=com.github.xfalcon.vhosts):
+- Với các máy Android chưa root, sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) cho một số ứng dụng như [Blokada](https://github.com/blokadaorg/blokada), [DNS66](https://github.com/julian-klode/dns66/), [Nebulo](https://github.com/Ch4t4r/Nebulo), [RethinkDNS + Firewall](https://github.com/celzero/rethink-app), [Virtual Hosts](https://play.google.com/store/apps/details?id=com.github.xfalcon.vhosts):
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ```
