@@ -8296,17 +8296,6 @@
 0.0.0.0 net.cdn.ezoic.net
 0.0.0.0 outbrain.ezoic.net
 0.0.0.0 www.ezoic.net
-#[perimeterx.net]
-0.0.0.0 b.perimeterx.net
-0.0.0.0 c.perimeterx.net
-0.0.0.0 cl-stg.perimeterx.net
-0.0.0.0 client.perimeterx.net
-0.0.0.0 conf.perimeterx.net
-0.0.0.0 perimeterx.net
-0.0.0.0 px-conf.perimeterx.net
-0.0.0.0 s.perimeterx.net
-0.0.0.0 sa-stg.perimeterx.net
-0.0.0.0 www.perimeterx.net
 #[adrta.com]
 0.0.0.0 adrta.com
 0.0.0.0 api.adrta.com
