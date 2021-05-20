@@ -12421,3 +12421,11 @@
 0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 voodoo-analytics.io
 0.0.0.0 www.voodoo-analytics.io
+#[bidadx.com]
+0.0.0.0 bidadx.com
+0.0.0.0 cdn.bidadx.com
+#[fastly.net]
+0.0.0.0 advbanners.global.ssl.fastly.net
+0.0.0.0 clarium.global.ssl.fastly.net
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
+0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
