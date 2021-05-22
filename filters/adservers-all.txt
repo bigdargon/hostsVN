@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 19 May 2021 09:39 UTC+7
-! Version: 2105190939
-! Blocked: 6,411 rules
+! Last modified: 22 May 2021 16:03 UTC+7
+! Version: 2105221603
+! Blocked: 6,376 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1072,6 +1072,7 @@
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
 ||advangelists.com^
+||advbanners.global.ssl.fastly.net^
 ||advergine.com^
 ||advergine.ru^
 ||advertica.ae^
@@ -1172,8 +1173,6 @@
 ||applifier.com^
 ||applifier.info^
 ||applink.mob.com^
-||applog.musical.ly^
-||applog.tiktokv.com^
 ||applog.uc.cn^
 ||applogios.uc.cn^
 ||applogy.com^
@@ -1241,6 +1240,7 @@
 ||betrad.com^
 ||beverly-downing.xyz^
 ||bfmio.com^
+||bidadx.com^
 ||bidfilter.com^
 ||bidgear-dsp.network^
 ||bidr.io^
@@ -1314,6 +1314,7 @@
 ||cintnetworks.com^
 ||cj1*.online^
 ||clarity.ms^
+||clarium.global.ssl.fastly.net^
 ||clarium.io^
 ||claroads.com^
 ||claroadsxml.com^
@@ -1330,10 +1331,7 @@
 ||clicktale.net^
 ||clicktripz.com^
 ||client-event-reporter.twitch.tv^
-||client_monitor.isnssdk.com^
-||client_monitor.sgsnssdk.com^
 ||clientmetrics-pa.googleapis.com^
-||clientmonitor.isnssdk.com^
 ||clksite.com^
 ||clmbtech.com^
 ||clog.go.com^
@@ -1351,6 +1349,7 @@
 ||collective-media.net^
 ||collector.newrelic.com^
 ||comet.yahoo.com^
+||confiant-integrations.global.ssl.fastly.net^
 ||connatix.com^
 ||connectad.io^
 ||consumable.com^
@@ -1643,9 +1642,6 @@
 ||log.pinterest.com^
 ||log.spotify.com^
 ||log.tbs.qq.com^
-||log3-misc-hl.amemv.com^
-||log3-misc-lq.amemv.com^
-||log5-misc-lq.amemv.com^
 ||loggly.com^
 ||logly.co.jp^
 ||logoeps.com^
@@ -1728,20 +1724,9 @@
 ||mocean.mobi^
 ||moengage.com^
 ||mojiva.com^
-||mon-hl.snssdk.com^
-||mon-sg.tiktokv.com^
-||mon-va.byteoversea.com^
-||mon-va.tiktokv.com^
-||mon.byteoversea.com^
-||mon.isnssdk.com^
-||mon.musical.ly^
-||mon.sgsnssdk.com^
-||mon.snssdk.com^
-||mon.tiktokv.com^
 ||mondiad.net^
 ||monetiza.co^
 ||monetize.com^
-||monitor.isnssdk.com^
 ||mookie1.com^
 ||mopub.com^
 ||mouseflow.com^
@@ -1932,12 +1917,6 @@
 ||rosenberg.appmetrica.yandex.net^
 ||rtbid.me^
 ||rtbsuperhub.com^
-||rtlog.byteoversea.com^
-||rtlog.isnssdk.com^
-||rtlog.musical.ly^
-||rtlog.sgsnssdk.com^
-||rtlog.snssdk.com^
-||rtlog.tiktokv.com^
 ||rtmark.net^
 ||rubiconproject.com^
 ||run-syndicate.com^
@@ -2043,6 +2022,7 @@
 ||tagmanager.toast.com^
 ||tanx.com^
 ||tapad.com^
+||tapdaq-adverts.global.ssl.fastly.net^
 ||tapjoy.com^
 ||tapjoyads.com^
 ||taplytics.com^
@@ -2107,7 +2087,6 @@
 ||usp1.baidu.com^
 ||ut.taobao.com^
 ||uttclimber.com^
-||v16-ad.byteoversea.com^
 ||valuecommerce.com^
 ||vdo.ai^
 ||vdopia.com^
@@ -2156,11 +2135,6 @@
 ||wywyuserservice.com^
 ||xapads.com^
 ||xlmc.sec.miui.com^
-||xlog-va.byteoversea.com^
-||xlog-va.tiktokv.com^
-||xlog.byteoversea.com^
-||xlog.snssdk.com^
-||xlog.tiktokv.com^
 ||xmlppcbuzz.com^
 ||xslt.alexa.com^
 ||xtremepush.com^
@@ -3010,7 +2984,6 @@
 ||adv.yo.cz^
 ||advanpromo.com^
 ||advariant.com^
-||advbanners.global.ssl.fastly.net^
 ||adventori.com^
 ||adventory.com^
 ||adverdirect.com^
@@ -3374,7 +3347,6 @@
 ||bewilderedblade.com^
 ||bhclicks.com^
 ||bhcumsc.com^
-||bidadx.com^
 ||bidclix.com^
 ||bidclix.net^
 ||bidtrk.com^
@@ -3501,12 +3473,10 @@
 ||cccpmo.com^
 ||ccmcroads.com^
 ||cdn-server.top^
-||cdn.bidadx.com^
 ||cdn.concert.io^
 ||cdn.consentmanager.mgr.consensu.org^
 ||cdn.digitru.st^
 ||cdn.freefarcy.com^
-||cdn.ravenjs.com^
 ||cdn4ads.com^
 ||cdnondemand.org^
 ||cdnproviders.net^
@@ -3548,7 +3518,6 @@
 ||cjlog.com^
 ||cjt1.net^
 ||claria.com^
-||clarium.global.ssl.fastly.net^
 ||claroadsclick.com^
 ||claroclicks.com^
 ||clashmobile.com^
@@ -3639,7 +3608,6 @@
 ||concernedcondition.com^
 ||concert.io^
 ||concertads-configs.vox-cdn.com^
-||confiant-integrations.global.ssl.fastly.net^
 ||confirmed-profits.com^
 ||connect.scroll.com^
 ||connection1safety.com^
@@ -5450,7 +5418,6 @@
 ||tangerinenet.biz^
 ||tangibleteam.com^
 ||tapas.net^
-||tapdaq-adverts.global.ssl.fastly.net^
 ||tapfiliate.com^
 ||tapgen.com^
 ||tapinfluence.com^
@@ -6143,8 +6110,6 @@
 ||log.umsns.com^
 ||log.ventunotech.com^
 ||log.ys7.com^
-||log.zoom.us^
-||logfiles.zoom.us^
 ||logger.unsplash.com^
 ||logging.goclean.tech^
 ||logreport-v2.easy4ipcloud.com^

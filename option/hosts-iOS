@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 May 2021 09:39 UTC+7
-# Version: 2105190939
-# Blocked: 17,596 domains
+# Last modified: 22 May 2021 16:03 UTC+7
+# Version: 2105221603
+# Blocked: 17,562 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10474,37 +10474,6 @@
 0 api16-endcard-pack-sg.pangle.io
 0 api16-log-sg.pangle.io
 0 pangle.io
-0 applog.tiktokv.com
-0 mon-sg.tiktokv.com
-0 mon-va.tiktokv.com
-0 mon.tiktokv.com
-0 rtlog.tiktokv.com
-0 xlog-va.tiktokv.com
-0 xlog.tiktokv.com
-0 mon-va.byteoversea.com
-0 mon.byteoversea.com
-0 rtlog.byteoversea.com
-0 v16-ad.byteoversea.com
-0 xlog-va.byteoversea.com
-0 xlog.byteoversea.com
-0 applog.musical.ly
-0 mon.musical.ly
-0 rtlog.musical.ly
-0 client_monitor.isnssdk.com
-0 clientmonitor.isnssdk.com
-0 mon.isnssdk.com
-0 monitor.isnssdk.com
-0 rtlog.isnssdk.com
-0 mon-hl.snssdk.com
-0 mon.snssdk.com
-0 rtlog.snssdk.com
-0 xlog.snssdk.com
-0 client_monitor.sgsnssdk.com
-0 mon.sgsnssdk.com
-0 rtlog.sgsnssdk.com
-0 log3-misc-hl.amemv.com
-0 log3-misc-lq.amemv.com
-0 log5-misc-lq.amemv.com
 0 adengine.snigelweb.com
 0 cdn.snigelweb.com
 0 geo-eu.snigelweb.com
@@ -11444,6 +11413,12 @@
 0 trackers.voodoo-analytics.io
 0 voodoo-analytics.io
 0 www.voodoo-analytics.io
+0 bidadx.com
+0 cdn.bidadx.com
+0 advbanners.global.ssl.fastly.net
+0 clarium.global.ssl.fastly.net
+0 confiant-integrations.global.ssl.fastly.net
+0 tapdaq-adverts.global.ssl.fastly.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14054,7 +14029,6 @@
 0 adv.yo.cz
 0 advanpromo.com
 0 advariant.com
-0 advbanners.global.ssl.fastly.net
 0 adventori.com
 0 adventory.com
 0 adverdirect.com
@@ -14418,7 +14392,6 @@
 0 bewilderedblade.com
 0 bhclicks.com
 0 bhcumsc.com
-0 bidadx.com
 0 bidclix.com
 0 bidclix.net
 0 bidtrk.com
@@ -14545,12 +14518,10 @@
 0 cccpmo.com
 0 ccmcroads.com
 0 cdn-server.top
-0 cdn.bidadx.com
 0 cdn.concert.io
 0 cdn.consentmanager.mgr.consensu.org
 0 cdn.digitru.st
 0 cdn.freefarcy.com
-0 cdn.ravenjs.com
 0 cdn4ads.com
 0 cdnondemand.org
 0 cdnproviders.net
@@ -14592,7 +14563,6 @@
 0 cjlog.com
 0 cjt1.net
 0 claria.com
-0 clarium.global.ssl.fastly.net
 0 claroadsclick.com
 0 claroclicks.com
 0 clashmobile.com
@@ -14683,7 +14653,6 @@
 0 concernedcondition.com
 0 concert.io
 0 concertads-configs.vox-cdn.com
-0 confiant-integrations.global.ssl.fastly.net
 0 confirmed-profits.com
 0 connect.scroll.com
 0 connection1safety.com
@@ -16490,7 +16459,6 @@
 0 tangerinenet.biz
 0 tangibleteam.com
 0 tapas.net
-0 tapdaq-adverts.global.ssl.fastly.net
 0 tapfiliate.com
 0 tapgen.com
 0 tapinfluence.com
@@ -17284,8 +17252,6 @@
 0 log.umsns.com
 0 log.ventunotech.com
 0 log.ys7.com
-0 log.zoom.us
-0 logfiles.zoom.us
 0 logger.unsplash.com
 0 logging.goclean.tech
 0 logreport-v2.easy4ipcloud.com
