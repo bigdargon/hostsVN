@@ -11268,44 +11268,6 @@
 0.0.0.0 api16-endcard-pack-sg.pangle.io
 0.0.0.0 api16-log-sg.pangle.io
 0.0.0.0 pangle.io
-#[tiktokv.com]
-0.0.0.0 applog.tiktokv.com
-0.0.0.0 mon-sg.tiktokv.com
-0.0.0.0 mon-va.tiktokv.com
-0.0.0.0 mon.tiktokv.com
-0.0.0.0 rtlog.tiktokv.com
-0.0.0.0 xlog-va.tiktokv.com
-0.0.0.0 xlog.tiktokv.com
-#[byteoversea.com]
-0.0.0.0 mon-va.byteoversea.com
-0.0.0.0 mon.byteoversea.com
-0.0.0.0 rtlog.byteoversea.com
-0.0.0.0 v16-ad.byteoversea.com
-0.0.0.0 xlog-va.byteoversea.com
-0.0.0.0 xlog.byteoversea.com
-#[musical.ly]
-0.0.0.0 applog.musical.ly
-0.0.0.0 mon.musical.ly
-0.0.0.0 rtlog.musical.ly
-#[isnssdk.com]
-0.0.0.0 client_monitor.isnssdk.com
-0.0.0.0 clientmonitor.isnssdk.com
-0.0.0.0 mon.isnssdk.com
-0.0.0.0 monitor.isnssdk.com
-0.0.0.0 rtlog.isnssdk.com
-#[snssdk.com]
-0.0.0.0 mon-hl.snssdk.com
-0.0.0.0 mon.snssdk.com
-0.0.0.0 rtlog.snssdk.com
-0.0.0.0 xlog.snssdk.com
-#[sgsnssdk.com]
-0.0.0.0 client_monitor.sgsnssdk.com
-0.0.0.0 mon.sgsnssdk.com
-0.0.0.0 rtlog.sgsnssdk.com
-#[amemv.com]
-0.0.0.0 log3-misc-hl.amemv.com
-0.0.0.0 log3-misc-lq.amemv.com
-0.0.0.0 log5-misc-lq.amemv.com
 #[snigelweb.com]
 0.0.0.0 adengine.snigelweb.com
 0.0.0.0 cdn.snigelweb.com
