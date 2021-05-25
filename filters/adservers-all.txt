@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 25 May 2021 09:46 UTC+7
-! Version: 2105250946
-! Blocked: 6,378 rules
+! Last modified: 25 May 2021 10:32 UTC+7
+! Version: 2105251032
+! Blocked: 6,379 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5615,6 +5615,7 @@
 ||ueikno.com^
 ||uge521.com^
 ||ukbanners.com^
+||ukslphcgs.com^
 ||ultimateclixx.com^
 ||ultramercial.com^
 ||ultraoranges.com^
