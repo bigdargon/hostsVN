@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 25 May 2021 10:32 UTC+7
-! Version: 2105251032
-! Blocked: 6,379 rules
+! Last modified: 25 May 2021 10:41 UTC+7
+! Version: 2105251041
+! Blocked: 6,378 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2523,7 +2523,6 @@
 ||adrotic.girlonthenet.com^
 ||adru.net^
 ||ads-bi.zenkube.com^
-||ads-cdn.grab.com^
 ||ads-click.com^
 ||ads-trk.vidible.tv^
 ||ads.4tube.com^
