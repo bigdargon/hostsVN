@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 22 May 2021 16:03 UTC+7
-! Version: 2105221603
-! Blocked: 6,376 rules
+! Last modified: 25 May 2021 09:46 UTC+7
+! Version: 2105250946
+! Blocked: 6,378 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1200,6 +1200,7 @@
 ||assoc-amazon.com^
 ||atdmt.com^
 ||atemda.com^
+||atwola.com^
 ||authbe.sec.intl.miui.com^
 ||automatad.com^
 ||auxml.com^
@@ -3190,7 +3191,6 @@
 ||atp.io^
 ||attractiveafternoon.com^
 ||attributiontracker.com^
-||atwola.com^
 ||auctionads.com^
 ||auctionads.net^
 ||audience2media.com^
@@ -4141,6 +4141,7 @@
 ||homepageking.de^
 ||honeycshfferufrew.com^
 ||honeygoldfish.com^
+||hoowooze.net^
 ||horizontalelite.com^
 ||hostecart.com^
 ||hostedads.realitykings.com^
@@ -5429,6 +5430,7 @@
 ||targetnet.com^
 ||targetpoint.com^
 ||targetspot.com^
+||tarsuscaul.com^
 ||tastefulsongs.com^
 ||tatango.com^
 ||tathitch.net^

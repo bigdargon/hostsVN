@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 May 2021 16:03 UTC+7
-# Version: 2105221603
-# Blocked: 17,562 domains
+# Last modified: 25 May 2021 09:46 UTC+7
+# Version: 2105250946
+# Blocked: 17,581 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4139,13 +4139,14 @@
 #[jpush.cn]
 0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 api.jpush.cn
+0.0.0.0 config.jpush.cn
 0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 im.jpush.cn
 0.0.0.0 im64.jpush.cn
+0.0.0.0 jpush.cn
 0.0.0.0 s.jpush.cn
 0.0.0.0 stats.jpush.cn
 0.0.0.0 tsis.jpush.cn
-0.0.0.0 user.jpush.cn
 0.0.0.0 www.jpush.cn
 #[jpush.io]
 0.0.0.0 jpush.io
@@ -6987,6 +6988,7 @@
 0.0.0.0 aj1872.online
 0.0.0.0 aj1873.online
 0.0.0.0 aj1874.online
+0.0.0.0 aj1985.online
 0.0.0.0 bj1010.online
 0.0.0.0 bj1052.online
 0.0.0.0 bj1083.online
@@ -12403,6 +12405,23 @@
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
+#[atwola.com]
+0.0.0.0 ar.atwola.com
+0.0.0.0 as.y.atwola.com
+0.0.0.0 at.atwola.com
+0.0.0.0 atwola.com
+0.0.0.0 cdn.at.atwola.com
+0.0.0.0 cdn.atwola.com
+0.0.0.0 cdn.uc.atwola.com
+0.0.0.0 eu.y.atwola.com
+0.0.0.0 ir.us.y.atwola.com
+0.0.0.0 jp.at.atwola.com
+0.0.0.0 sg.as.y.atwola.com
+0.0.0.0 tacoda.at.atwola.com
+0.0.0.0 tw.as.y.atwola.com
+0.0.0.0 uc.atwola.com
+0.0.0.0 us.y.atwola.com
+0.0.0.0 y.atwola.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15361,7 +15380,6 @@
 0.0.0.0 atp.io
 0.0.0.0 attractiveafternoon.com
 0.0.0.0 attributiontracker.com
-0.0.0.0 atwola.com
 0.0.0.0 auctionads.com
 0.0.0.0 auctionads.net
 0.0.0.0 audience2media.com
@@ -16311,6 +16329,7 @@
 0.0.0.0 homepageking.de
 0.0.0.0 honeycshfferufrew.com
 0.0.0.0 honeygoldfish.com
+0.0.0.0 hoowooze.net
 0.0.0.0 horizontalelite.com
 0.0.0.0 hostecart.com
 0.0.0.0 hostedads.realitykings.com
@@ -17596,6 +17615,7 @@
 0.0.0.0 targetnet.com
 0.0.0.0 targetpoint.com
 0.0.0.0 targetspot.com
+0.0.0.0 tarsuscaul.com
 0.0.0.0 tastefulsongs.com
 0.0.0.0 tatango.com
 0.0.0.0 tathitch.net
