@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 31 May 2021 10:15 UTC+7
-# Version: 2105311015
-# Blocked: 17,593 domains
+# Last modified: 31 May 2021 14:05 UTC+7
+# Version: 2105311405
+# Blocked: 17,623 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11439,6 +11439,32 @@
 0 y.atwola.com
 0 analyticacdn.com
 0 wss.analyticacdn.com
+0 cdn.easyads28.info
+0 easyads28.info
+0 t.easyads28.info
+0 anymad.com
+0 cdn.anymad.com
+0 cdn1.anymad.com
+0 click.anymad.com
+0 stats.anymad.com
+0 www.anymad.com
+0 ad.mediafuse.com
+0 ads.mediafuse.com
+0 hb.mediafuse.com
+0 hbmp.mediafuse.com
+0 lift.mediafuse.com
+0 mediafuse.com
+0 player.mediafuse.com
+0 www.mediafuse.com
+0 advertisers.speakol.com
+0 cdn.speakol.com
+0 crawler.speakol.com
+0 pixel.speakol.com
+0 plugins.speakol.com
+0 rd.speakol.com
+0 recommendation.speakol.com
+0 speakol.com
+0 www.speakol.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -15266,6 +15292,7 @@
 0 images.footballaddicts.se
 0 imarketservices.com
 0 imatmobile.com
+0 img.media3s.xyz
 0 imgpromo.easyrencontre.com
 0 imimobile.com
 0 immensehoney.com
@@ -16875,6 +16902,7 @@
 0 www.apprefaculty.pro
 0 www.avfgoatbyyerys.com
 0 www.axdsz.pro
+0 www.b91vip.com
 0 www.beauty-tea.com
 0 www.beharmalted.info
 0 www.binary1.website
@@ -17472,6 +17500,7 @@
 0 tracker.affirm.com
 0 tracker.arc.io
 0 tracker.idocdn.com
+0 tracker.toolpg.com
 0 tracker.vgame.us
 0 trackersimulator.org
 0 tracking-server-prod-1.zenmxapps.com
@@ -17480,6 +17509,7 @@
 0 tracking.bodis.com
 0 tracking.hubspot.com
 0 tracking.lenzmx.com
+0 tracking.musixmatch.com
 0 trackingflaregames.net
 0 trk.clinch.co
 0 uciservice.com

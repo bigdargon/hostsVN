@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 31 May 2021 10:15 UTC+7
-! Version: 2105311015
-! Blocked: 6,383 rules
+! Last modified: 31 May 2021 14:05 UTC+7
+! Version: 2105311405
+! Blocked: 6,390 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1148,6 +1148,7 @@
 ||andbeyond.media^
 ||aniview.com^
 ||answers.com^
+||anymad.com^
 ||aper.pw^
 ||api-ad-data.kajicam.com^
 ||api-ad.kajicam.com^
@@ -1434,6 +1435,7 @@
 ||dxp.baidu.com^
 ||dynamicyield.com^
 ||e.qq.com^
+||easyads28.info^
 ||eclick.baidu.com^
 ||effectivemeasure.net^
 ||ej1*.online^
@@ -1685,6 +1687,7 @@
 ||measuread.com^
 ||media.net^
 ||mediaforge.com^
+||mediafuse.com^
 ||medialytics.com^
 ||mediarithmics.com^
 ||mediawayss.com^
@@ -1988,6 +1991,7 @@
 ||soqugame.com^
 ||sp.naver.com^
 ||spade.twitch.tv^
+||speakol.com^
 ||specificclick.net^
 ||specificmedia.com^
 ||speedcurve.com^
@@ -4205,6 +4209,7 @@
 ||images.footballaddicts.se^
 ||imarketservices.com^
 ||imatmobile.com^
+||img.media3s.xyz^
 ||imgpromo.easyrencontre.com^
 ||imimobile.com^
 ||immensehoney.com^
@@ -6306,6 +6311,7 @@
 ||tracker.affirm.com^
 ||tracker.arc.io^
 ||tracker.idocdn.com^
+||tracker.toolpg.com^
 ||tracker.vgame.us^
 ||trackersimulator.org^
 ||tracking-server-prod-1.zenmxapps.com^
@@ -6314,6 +6320,7 @@
 ||tracking.bodis.com^
 ||tracking.hubspot.com^
 ||tracking.lenzmx.com^
+||tracking.musixmatch.com^
 ||trackingflaregames.net^
 ||trk.clinch.co^
 ||uciservice.com^

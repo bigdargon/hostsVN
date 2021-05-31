@@ -12413,3 +12413,33 @@
 #[analyticacdn.com]
 0.0.0.0 analyticacdn.com
 0.0.0.0 wss.analyticacdn.com
+#[easyads28.info]
+0.0.0.0 cdn.easyads28.info
+0.0.0.0 easyads28.info
+0.0.0.0 t.easyads28.info
+#[anymad.com]
+0.0.0.0 anymad.com
+0.0.0.0 cdn.anymad.com
+0.0.0.0 cdn1.anymad.com
+0.0.0.0 click.anymad.com
+0.0.0.0 stats.anymad.com
+0.0.0.0 www.anymad.com
+#[mediafuse.com]
+0.0.0.0 ad.mediafuse.com
+0.0.0.0 ads.mediafuse.com
+0.0.0.0 hb.mediafuse.com
+0.0.0.0 hbmp.mediafuse.com
+0.0.0.0 lift.mediafuse.com
+0.0.0.0 mediafuse.com
+0.0.0.0 player.mediafuse.com
+0.0.0.0 www.mediafuse.com
+#[speakol.com]
+0.0.0.0 advertisers.speakol.com
+0.0.0.0 cdn.speakol.com
+0.0.0.0 crawler.speakol.com
+0.0.0.0 pixel.speakol.com
+0.0.0.0 plugins.speakol.com
+0.0.0.0 rd.speakol.com
+0.0.0.0 recommendation.speakol.com
+0.0.0.0 speakol.com
+0.0.0.0 www.speakol.com
