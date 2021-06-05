@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Jun 2021 14:20 UTC+7
-# Version: 2106031420
-# Blocked: 17,624 domains
+# Last modified: 05 Jun 2021 21:49 UTC+7
+# Version: 2106052149
+# Blocked: 17,616 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3820,14 +3820,6 @@
 0 hb.vntsm.com
 0 hb-config.vntsm.com
 0 vntsm.com
-0 alexa.com
-0 data.alexa.com
-0 download.alexa.com
-0 traffic.alexa.com
-0 widgets.alexa.com
-0 www.alexa.com
-0 xslt.alexa.com
-0 xsltcache.alexa.com
 0 as.innity.com
 0 ashk.innity.com
 0 asth.innity.com
