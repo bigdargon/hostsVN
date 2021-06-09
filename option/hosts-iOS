@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Jun 2021 15:05 UTC+7
-# Version: 2106071505
-# Blocked: 17,615 domains
+# Last modified: 09 Jun 2021 10:29 UTC+7
+# Version: 2106091029
+# Blocked: 17,592 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -18,7 +18,6 @@
 0 banners.itunes.apple.com
 0 books-analytics-events.apple.com
 0 notes-analytics-events.apple.com
-0 securemetrics.apple.com
 0 stocks-analytics-events.apple.com
 0 weather-analytics-events.apple.com
 0 iadsdk.apple.com
@@ -216,13 +215,8 @@
 0 fp.advertising.microsoft.com
 0 sts.advertising.microsoft.com
 0 sts.si.advertising.microsoft.com
-0 c.microsoft.com
-0 statsfe2.ws.microsoft.com
 0 analytics.live.com
-0 c.live.com
 0 rad.live.com
-0 nexus.officeapps.live.com
-0 nexusrules.officeapps.live.com
 0 config.fp.measure.office.com
 0 fp.measure.office.com
 0 upload.fp.measure.office.com
@@ -2802,14 +2796,6 @@
 0 script.ioam.de
 0 www.ioam.de
 0 xml.ioam.de
-0 client-event-reporter.twitch.tv
-0 countess.twitch.tv
-0 deviceidshare.twitch.tv
-0 fan.twitch.tv
-0 mp.twitch.tv
-0 pubster.twitch.tv
-0 spade.twitch.tv
-0 trowel.twitch.tv
 0 assets.deployads.com
 0 c.deployads.com
 0 deals.deployads.com
@@ -4913,13 +4899,8 @@
 0 tag.contextweb.com
 0 www.contextweb.com
 0 ads.cnn.com
-0 cl.cnn.com
-0 cnn.dyn.cnn.com
 0 customad.cnn.com
-0 data.cnn.com
-0 gdyn.cnn.com
 0 metrics.cnn.com
-0 mms.cnn.com
 0 smetrics.cnn.com
 0 a.postrelease.com
 0 adserve.postrelease.com
@@ -9423,7 +9404,6 @@
 0 count.taobao.com
 0 ip.taobao.com
 0 pcookie.taobao.com
-0 s.click.taobao.com
 0 acs.m.taobao.com
 0 adash.m.taobao.com
 0 adashbc.m.taobao.com
@@ -12933,6 +12913,7 @@
 0 hexapinow.xyz
 0 imgcdnbet.com
 0 interactive.tinnhanhchungkhoan.vn
+0 ketquaxosotoancau.org
 0 landingpagelagi.vn
 0 lottery.headlines.pw
 0 lottery.vntoday.news
@@ -13000,6 +12981,7 @@
 0 www.chiasephim.xyz
 0 www.delecpuzz.com
 0 www.hexapinow.xyz
+0 www.ketquaxosotoancau.org
 0 www.landingpagelagi.vn
 0 www.microad.vn
 0 www.realclick.vn
@@ -14556,7 +14538,6 @@
 0 ccmcroads.com
 0 cdn-server.top
 0 cdn.concert.io
-0 cdn.consentmanager.mgr.consensu.org
 0 cdn.digitru.st
 0 cdn.freefarcy.com
 0 cdn4ads.com
@@ -14697,7 +14678,6 @@
 0 connextra.com
 0 consciouschairs.com
 0 consent.cmp.oath.com
-0 consentmanager.mgr.consensu.org
 0 constintptr.com
 0 constrongyfe.site
 0 consumer.exacttargetapis.com
@@ -16212,7 +16192,6 @@
 0 rusenov.com
 0 ruthlessrobin.com
 0 ruwertur.com
-0 s.click.aliexpress.com
 0 s2d6.com
 0 sageanalyst.net
 0 sailif.com
@@ -16744,7 +16723,6 @@
 0 velocecdn.com
 0 velocitycdn.com
 0 velti.com
-0 vendorlist.consensu.org
 0 ventivmedia.com
 0 venuegirtjive.com
 0 verblife-3.co
@@ -17150,7 +17128,6 @@
 0 bjdxhs.com
 0 bjhmt.com
 0 blueconic.net
-0 browser.sentry-cdn.com
 0 bugsense.com
 0 burstly.com
 0 c.riskified.com

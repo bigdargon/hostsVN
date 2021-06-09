@@ -4,7 +4,6 @@
 0.0.0.0 banners.itunes.apple.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
-0.0.0.0 securemetrics.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 #[iadsdk.apple.com]
@@ -217,16 +216,9 @@
 0.0.0.0 fp.advertising.microsoft.com
 0.0.0.0 sts.advertising.microsoft.com
 0.0.0.0 sts.si.advertising.microsoft.com
-#[microsoft]
-0.0.0.0 c.microsoft.com
-0.0.0.0 statsfe2.ws.microsoft.com
 #[live.com]
 0.0.0.0 analytics.live.com
-0.0.0.0 c.live.com
 0.0.0.0 rad.live.com
-#[officeapps.live.com]
-0.0.0.0 nexus.officeapps.live.com
-0.0.0.0 nexusrules.officeapps.live.com
 #[measure.office.com]
 0.0.0.0 config.fp.measure.office.com
 0.0.0.0 fp.measure.office.com
@@ -2993,15 +2985,6 @@
 0.0.0.0 script.ioam.de
 0.0.0.0 www.ioam.de
 0.0.0.0 xml.ioam.de
-#[twitch]
-0.0.0.0 client-event-reporter.twitch.tv
-0.0.0.0 countess.twitch.tv
-0.0.0.0 deviceidshare.twitch.tv
-0.0.0.0 fan.twitch.tv
-0.0.0.0 mp.twitch.tv
-0.0.0.0 pubster.twitch.tv
-0.0.0.0 spade.twitch.tv
-0.0.0.0 trowel.twitch.tv
 #[deployads.com]
 0.0.0.0 assets.deployads.com
 0.0.0.0 c.deployads.com
@@ -5244,13 +5227,8 @@
 0.0.0.0 www.contextweb.com
 #[cnn.com]
 0.0.0.0 ads.cnn.com
-0.0.0.0 cl.cnn.com
-0.0.0.0 cnn.dyn.cnn.com
 0.0.0.0 customad.cnn.com
-0.0.0.0 data.cnn.com
-0.0.0.0 gdyn.cnn.com
 0.0.0.0 metrics.cnn.com
-0.0.0.0 mms.cnn.com
 0.0.0.0 smetrics.cnn.com
 #[postrelease.com]
 0.0.0.0 a.postrelease.com
@@ -10101,7 +10079,6 @@
 0.0.0.0 count.taobao.com
 0.0.0.0 ip.taobao.com
 0.0.0.0 pcookie.taobao.com
-0.0.0.0 s.click.taobao.com
 #[m.taobao.com]
 0.0.0.0 acs.m.taobao.com
 0.0.0.0 adash.m.taobao.com
