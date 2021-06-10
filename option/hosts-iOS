@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Jun 2021 10:29 UTC+7
-# Version: 2106091029
-# Blocked: 17,592 domains
+# Last modified: 10 Jun 2021 15:14 UTC+7
+# Version: 2106101514
+# Blocked: 17,566 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -453,6 +453,7 @@
 0 nol.yahoo.com
 0 partnerads.ysm.yahoo.com
 0 pr-bh.ybp.yahoo.com
+0 pr.comet.yahoo.com
 0 visit.webhosting.yahoo.com
 0 ads.auctions.yahoo.com
 0 ads.finance.yahoo.com
@@ -503,10 +504,7 @@
 0 pclick.yahoo.com
 0 rtb.pclick.yahoo.com
 0 real.pclick.yahoo.com
-0 comet.yahoo.com
-0 pr.comet.yahoo.com
 0 ads.yap.yahoo.com
-0 m.yap.yahoo.com
 0 us.ads.yap.yahoo.com
 0 adserver.yahoo.co.jp
 0 ard.yahoo.co.jp
@@ -1986,15 +1984,11 @@
 0 worker2.advertnative.com
 0 worker3.advertnative.com
 0 worker4.advertnative.com
-0 ace-sync.toast.com
+0 ad-exchange.toast.com
 0 adlc-exchange.toast.com
 0 adx-exchange.toast.com
-0 analytics.toast.com
-0 api-campaign-analytics.cloud.toast.com
 0 api-log-analytics.cloud.toast.com
-0 api-webrp-analytics.cloud.toast.com
 0 cm-exchange.toast.com
-0 redirect-analytics.toast.com
 0 tagmanager.toast.com
 0 static.tagmanager.toast.com
 0 getadmiral.com
@@ -3356,7 +3350,6 @@
 0 yahoo.media.net
 0 api.optimizely.com
 0 app.optimizely.com
-0 cdn-s-optional.optimizely.com
 0 cdn.optimizely.com
 0 cdn3.optimizely.com
 0 client.optimizely.com
@@ -3368,7 +3361,6 @@
 0 optimizely.com
 0 rum.optimizely.com
 0 tapi.optimizely.com
-0 teams.optimizely.com
 0 vis.optimizely.com
 0 www.optimizely.com
 0 analyze.urbanairship.com
@@ -4608,25 +4600,16 @@
 0 www.adomik.com
 0 academy.urekamedia.com
 0 adserving.urekamedia.com
-0 adsnews.urekamedia.com
 0 adsservices.urekamedia.com
 0 adv.urekamedia.com
 0 bd.urekamedia.com
 0 cdn.urekamedia.com
 0 clickmeter.urekamedia.com
-0 cookie.urekamedia.com
 0 crp.urekamedia.com
 0 chatbox.urekamedia.com
 0 dco.urekamedia.com
-0 demo.urekamedia.com
-0 demodsp.urekamedia.com
-0 devdmp.urekamedia.com
 0 dmp.urekamedia.com
-0 dmpdemo.urekamedia.com
-0 dmpsv46.urekamedia.com
-0 dmpvsa.urekamedia.com
 0 dsp.urekamedia.com
-0 emearaude.urekamedia.com
 0 file.urekamedia.com
 0 huy.urekamedia.com
 0 hwp.urekamedia.com
@@ -4636,10 +4619,7 @@
 0 log.urekamedia.com
 0 optimize.urekamedia.com
 0 optmize.urekamedia.com
-0 performance-workshop.urekamedia.com
-0 pnkid.urekamedia.com
 0 quangcao.urekamedia.com
-0 redmine.urekamedia.com
 0 ssp.urekamedia.com
 0 static.urekamedia.com
 0 static3.urekamedia.com
@@ -14598,8 +14578,6 @@
 0 clickadu.com
 0 clickadz.com
 0 clickagents.com
-0 clickbank.com
-0 clickbank.net
 0 clickbooth.com
 0 clickboothlnk.com
 0 clickbrokers.com
@@ -15176,8 +15154,6 @@
 0 himizoli.pro
 0 historicalrequest.com
 0 hit-parade.com
-0 hit.bg
-0 hit.ua
 0 hitbox.com
 0 hitcents.com
 0 hitcounters.miarroba.com
@@ -17115,7 +17091,6 @@
 0 asdkd.tutuapp.com
 0 ati-host.net
 0 axmtrack.com
-0 az416426.vo.msecnd.net
 0 bafuhotel.com
 0 bango.net
 0 batchlogging4.truecaller.com
@@ -17206,7 +17181,6 @@
 0 ga.kvideo.io
 0 geo.adobe.com
 0 geoip.nekudo.com
-0 geoip.tnt-ea.com
 0 getexceptional.com
 0 getsitecontrol.com
 0 glanceguide.com

@@ -475,6 +475,7 @@
 0.0.0.0 nol.yahoo.com
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 pr.comet.yahoo.com
 0.0.0.0 visit.webhosting.yahoo.com
 #[ads.*.yahoo.com]
 0.0.0.0 ads.auctions.yahoo.com
@@ -534,12 +535,8 @@
 0.0.0.0 pclick.yahoo.com
 0.0.0.0 rtb.pclick.yahoo.com
 0.0.0.0 real.pclick.yahoo.com
-#[comet.yahoo.com]
-0.0.0.0 comet.yahoo.com
-0.0.0.0 pr.comet.yahoo.com
-#[yap.yahoo.com]
+#[ads.yap.yahoo.com]
 0.0.0.0 ads.yap.yahoo.com
-0.0.0.0 m.yap.yahoo.com
 0.0.0.0 us.ads.yap.yahoo.com
 #[yahoo.co.jp]
 0.0.0.0 adserver.yahoo.co.jp
@@ -2133,15 +2130,11 @@
 0.0.0.0 worker3.advertnative.com
 0.0.0.0 worker4.advertnative.com
 #[toast.com]
-0.0.0.0 ace-sync.toast.com
+0.0.0.0 ad-exchange.toast.com
 0.0.0.0 adlc-exchange.toast.com
 0.0.0.0 adx-exchange.toast.com
-0.0.0.0 analytics.toast.com
-0.0.0.0 api-campaign-analytics.cloud.toast.com
 0.0.0.0 api-log-analytics.cloud.toast.com
-0.0.0.0 api-webrp-analytics.cloud.toast.com
 0.0.0.0 cm-exchange.toast.com
-0.0.0.0 redirect-analytics.toast.com
 #[tagmanager.toast.com]
 0.0.0.0 tagmanager.toast.com
 0.0.0.0 static.tagmanager.toast.com
@@ -3578,7 +3571,6 @@
 #[optimizely.com]
 0.0.0.0 api.optimizely.com
 0.0.0.0 app.optimizely.com
-0.0.0.0 cdn-s-optional.optimizely.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn3.optimizely.com
 0.0.0.0 client.optimizely.com
@@ -3590,7 +3582,6 @@
 0.0.0.0 optimizely.com
 0.0.0.0 rum.optimizely.com
 0.0.0.0 tapi.optimizely.com
-0.0.0.0 teams.optimizely.com
 0.0.0.0 vis.optimizely.com
 0.0.0.0 www.optimizely.com
 #[urbanairship]
@@ -4917,25 +4908,16 @@
 #[urekamedia.com]
 0.0.0.0 academy.urekamedia.com
 0.0.0.0 adserving.urekamedia.com
-0.0.0.0 adsnews.urekamedia.com
 0.0.0.0 adsservices.urekamedia.com
 0.0.0.0 adv.urekamedia.com
 0.0.0.0 bd.urekamedia.com
 0.0.0.0 cdn.urekamedia.com
 0.0.0.0 clickmeter.urekamedia.com
-0.0.0.0 cookie.urekamedia.com
 0.0.0.0 crp.urekamedia.com
 0.0.0.0 chatbox.urekamedia.com
 0.0.0.0 dco.urekamedia.com
-0.0.0.0 demo.urekamedia.com
-0.0.0.0 demodsp.urekamedia.com
-0.0.0.0 devdmp.urekamedia.com
 0.0.0.0 dmp.urekamedia.com
-0.0.0.0 dmpdemo.urekamedia.com
-0.0.0.0 dmpsv46.urekamedia.com
-0.0.0.0 dmpvsa.urekamedia.com
 0.0.0.0 dsp.urekamedia.com
-0.0.0.0 emearaude.urekamedia.com
 0.0.0.0 file.urekamedia.com
 0.0.0.0 huy.urekamedia.com
 0.0.0.0 hwp.urekamedia.com
@@ -4945,10 +4927,7 @@
 0.0.0.0 log.urekamedia.com
 0.0.0.0 optimize.urekamedia.com
 0.0.0.0 optmize.urekamedia.com
-0.0.0.0 performance-workshop.urekamedia.com
-0.0.0.0 pnkid.urekamedia.com
 0.0.0.0 quangcao.urekamedia.com
-0.0.0.0 redmine.urekamedia.com
 0.0.0.0 ssp.urekamedia.com
 0.0.0.0 static.urekamedia.com
 0.0.0.0 static3.urekamedia.com

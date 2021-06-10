@@ -28,11 +28,11 @@ aax-us-iad.amazon.com
 aaxads.com
 accengage.com
 accesstrade.net
-ace-sync.toast.com
 acs.m.taobao.com
 acuityplatform.com
 ad-brix.com
 ad-creatives-public.commondatastorage.googleapis.com
+ad-exchange.toast.com
 ad-score.com
 ad-stir.com
 ad.daum.net
@@ -146,6 +146,7 @@ ads.tiktok.com
 ads.truecaller.com
 ads.twitter.com
 ads.yahoo.com
+ads.yap.yahoo.com
 ads.youtube.com
 ads1.msn.com
 ads2.msn.com
@@ -273,7 +274,6 @@ analytics.pinterest.com
 analytics.query.yahoo.com
 analytics.spotify.com
 analytics.tiktok.com
-analytics.toast.com
 analytics.twitter.com
 analytics.yahoo.com
 andbeyond.media
@@ -283,9 +283,7 @@ anymad.com
 aper.pw
 api-ad-data.kajicam.com
 api-ad.kajicam.com
-api-campaign-analytics.cloud.toast.com
 api-log-analytics.cloud.toast.com
-api-webrp-analytics.cloud.toast.com
 api.ads.*.go.com
 api.brs.intl.miui.com
 api.collect.data.intl.miui.com
@@ -479,7 +477,6 @@ collecticon.outlookmobile.com
 collection-*.herokuapp.com
 collective-media.net
 collector.newrelic.com
-comet.yahoo.com
 confiant-integrations.global.ssl.fastly.net
 connatix.com
 connectad.io
@@ -969,6 +966,7 @@ postrelease.com
 powerlinks.com
 pps-log.op-mobile.opera.com
 pr-bh.ybp.yahoo.com
+pr.comet.yahoo.com
 prebid.org
 pro-market.net
 proads.space
@@ -1016,7 +1014,6 @@ rcm-images.amazon.com
 rcm.amazon.com
 rd.yahoo.co.jp
 realsrv.com
-redirect-analytics.toast.com
 referrer.disqus.com
 refpa.top
 reklamstore.com
@@ -1267,7 +1264,6 @@ xtremepush.com
 yadro.ru
 yads.yahoo.co.jp
 yads.yjtag.yahoo.co.jp
-yap.yahoo.com
 ybx.yahoo.co.jp
 yeas.yahoo.co.jp
 yieldlab.net
@@ -2662,8 +2658,6 @@ clickability.com
 clickadu.com
 clickadz.com
 clickagents.com
-clickbank.com
-clickbank.net
 clickbooth.com
 clickboothlnk.com
 clickbrokers.com
@@ -3241,8 +3235,6 @@ hilltopads.net
 himizoli.pro
 historicalrequest.com
 hit-parade.com
-hit.bg
-hit.ua
 hitbox.com
 hitcents.com
 hitcounters.miarroba.com
@@ -5077,7 +5069,6 @@ appres.camera360.com
 asdkd.tutuapp.com
 ati-host.net
 axmtrack.com
-az416426.vo.msecnd.net
 bafuhotel.com
 bango.net
 batchlogging4.truecaller.com
@@ -5168,7 +5159,6 @@ ga.getresponse.com
 ga.kvideo.io
 geo.adobe.com
 geoip.nekudo.com
-geoip.tnt-ea.com
 getexceptional.com
 getsitecontrol.com
 glanceguide.com
