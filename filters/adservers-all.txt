@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 10 Jun 2021 15:14 UTC+7
-! Version: 2106101514
-! Blocked: 6,364 rules
+! Last modified: 11 Jun 2021 11:02 UTC+7
+! Version: 2106111102
+! Blocked: 6,367 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4119,6 +4119,7 @@
 ||hitslink.com^
 ||hittail.com^
 ||hkoxlirf.com^
+||hoanoola.net^
 ||hollandbusinessadvertising.nl^
 ||hollowshake.com^
 ||homepageking.de^
@@ -5441,6 +5442,7 @@
 ||text-link-ads.com^
 ||textads.biz^
 ||textlinks.com^
+||tgzobwoutuwn.com^
 ||tharbadir.com^
 ||theadex.com^
 ||theadhost.com^
@@ -5737,6 +5739,7 @@
 ||wegcash.com^
 ||wellmadefrog.com^
 ||werbung.meteoxpress.com^
+||wethornsprecede.com^
 ||wetrack.it^
 ||whaiweel.com^
 ||whaleads.com^
