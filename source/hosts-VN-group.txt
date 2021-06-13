@@ -529,6 +529,10 @@
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-static-td.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
+#[adtima*.zascdn.me]
+0.0.0.0 adtima-media.zascdn.me
+0.0.0.0 adtima-static.zascdn.me
+0.0.0.0 adtima-video.zascdn.me
 #[sdk.zadn.vn]
 0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 log.sdk.zadn.vn

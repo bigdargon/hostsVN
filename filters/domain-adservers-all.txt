@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 11 Jun 2021 11:02 UTC+7
-! Version: 2106111102
-! Blocked: 6,367 domains
+! Last modified: 13 Jun 2021 21:04 UTC+7
+! Version: 2106132104
+! Blocked: 6,369 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -37,8 +37,11 @@ adstracking.apps.zing.vn
 adtima-common.zadn.vn
 adtima-media-td.zadn.vn
 adtima-media.zadn.vn
+adtima-media.zascdn.me
 adtima-static-td.zadn.vn
 adtima-static.zadn.vn
+adtima-static.zascdn.me
+adtima-video.zascdn.me
 adtima.vn
 adtimaserver.vn
 adx.vn
@@ -1456,7 +1459,6 @@ extend.tv
 external-promo-metrics.yandex.net
 eyeota.net
 ezodn.com
-ezoic.net
 factual.com
 fads*s.com
 fads*z.com

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Jun 2021 11:02 UTC+7
-# Version: 2106111102
-# Blocked: 17,570 domains
+# Last modified: 13 Jun 2021 21:04 UTC+7
+# Version: 2106132104
+# Blocked: 17,562 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7704,17 +7704,6 @@
 0 jgl.microad.net
 0 microad.net
 0 www.microad.net
-0 cdn.ezoic.net
-0 com.cdn.ezoic.net
-0 e.ezoic.net
-0 eg.ezoic.net
-0 ezoic.net
-0 g.ezoic.net
-0 go.ezoic.net
-0 gi.ezoic.net
-0 net.cdn.ezoic.net
-0 outbrain.ezoic.net
-0 www.ezoic.net
 0 adrta.com
 0 api.adrta.com
 0 cdn.adrta.com
@@ -11914,6 +11903,9 @@
 0 adtima-media.zadn.vn
 0 adtima-static-td.zadn.vn
 0 adtima-static.zadn.vn
+0 adtima-media.zascdn.me
+0 adtima-static.zascdn.me
+0 adtima-video.zascdn.me
 0 api.sdk.zadn.vn
 0 log.sdk.zadn.vn
 0 zalo-ads-240-td.zadn.vn

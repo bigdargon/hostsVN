@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Jun 2021 11:02 UTC+7
-! Version: 2106111102
-! Blocked: 866 rules
+! Last modified: 13 Jun 2021 21:04 UTC+7
+! Version: 2106132104
+! Blocked: 869 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -39,8 +39,11 @@
 ||adtima-common.zadn.vn^
 ||adtima-media-td.zadn.vn^
 ||adtima-media.zadn.vn^
+||adtima-media.zascdn.me^
 ||adtima-static-td.zadn.vn^
 ||adtima-static.zadn.vn^
+||adtima-static.zascdn.me^
+||adtima-video.zascdn.me^
 ||adtima.vn^
 ||adtimaserver.vn^
 ||adx.vn^
