@@ -11174,7 +11174,9 @@
 0.0.0.0 server.ethicalads.io
 0.0.0.0 www.ethicalads.io
 #[tiktok.com]
+0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics.tiktok.com
 #[mouseflow.com]
 0.0.0.0 a.mouseflow.com
@@ -12378,3 +12380,12 @@
 0.0.0.0 recommendation.speakol.com
 0.0.0.0 speakol.com
 0.0.0.0 www.speakol.com
+#[ateam-ad.jp]
+0.0.0.0 ad.api.ateam-ad.jp
+0.0.0.0 api.ateam-ad.jp
+0.0.0.0 ateam-ad.jp
+0.0.0.0 banner.ateam-ad.jp
+0.0.0.0 campaign.ateam-ad.jp
+0.0.0.0 res.ateam-ad.jp
+0.0.0.0 staging.campaign.ateam-ad.jp
+0.0.0.0 www.ateam-ad.jp

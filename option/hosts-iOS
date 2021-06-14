@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Jun 2021 21:04 UTC+7
-# Version: 2106132104
-# Blocked: 17,562 domains
+# Last modified: 14 Jun 2021 10:18 UTC+7
+# Version: 2106141018
+# Blocked: 17,572 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10390,7 +10390,9 @@
 0 media.ethicalads.io
 0 server.ethicalads.io
 0 www.ethicalads.io
+0 ads-sg.tiktok.com
 0 ads.tiktok.com
+0 analytics-sg.tiktok.com
 0 analytics.tiktok.com
 0 a.mouseflow.com
 0 app.mouseflow.com
@@ -11406,6 +11408,14 @@
 0 recommendation.speakol.com
 0 speakol.com
 0 www.speakol.com
+0 ad.api.ateam-ad.jp
+0 api.ateam-ad.jp
+0 ateam-ad.jp
+0 banner.ateam-ad.jp
+0 campaign.ateam-ad.jp
+0 res.ateam-ad.jp
+0 staging.campaign.ateam-ad.jp
+0 www.ateam-ad.jp
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn

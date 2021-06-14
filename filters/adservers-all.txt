@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Jun 2021 21:04 UTC+7
-! Version: 2106132104
-! Blocked: 6,369 rules
+! Last modified: 14 Jun 2021 10:18 UTC+7
+! Version: 2106141018
+! Blocked: 6,372 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -998,6 +998,7 @@
 ||ads-fa.spotify.com^
 ||ads-privacy-api.prd.mz.internal.unity3d.com^
 ||ads-router-noneu.truecaller.com^
+||ads-sg.tiktok.com^
 ||ads-twitter.com^
 ||ads.*.yahoo.com^
 ||ads.bing.com^
@@ -1135,6 +1136,7 @@
 ||analysis.fi^
 ||analytiall.com^
 ||analyticacdn.com^
+||analytics-sg.tiktok.com^
 ||analytics.autodesk.com^
 ||analytics.edgekey.net^
 ||analytics.go.com^
@@ -1204,6 +1206,7 @@
 ||askingpoint.com^
 ||assoc-amazon.com^
 ||atdmt.com^
+||ateam-ad.jp^
 ||atemda.com^
 ||atwola.com^
 ||authbe.sec.intl.miui.com^
