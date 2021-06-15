@@ -11640,12 +11640,6 @@
 0.0.0.0 m.cdn.intentmedia.net
 0.0.0.0 m.intentmedia.net
 0.0.0.0 performance.intentmedia.net
-#[logs.datadoghq.*]
-0.0.0.0 browser-http-intake.logs.datadoghq.com
-0.0.0.0 browser-http-intake.logs.datadoghq.eu
-0.0.0.0 logs.datadoghq.com
-0.0.0.0 rum-http-intake.logs.datadoghq.com
-0.0.0.0 rum-http-intake.logs.datadoghq.eu
 #[r-ad.ne.jp]
 0.0.0.0 bk.r-ad.ne.jp
 0.0.0.0 r-ad.ne.jp

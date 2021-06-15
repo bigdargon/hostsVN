@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Jun 2021 10:18 UTC+7
-# Version: 2106141018
-# Blocked: 17,572 domains
+# Last modified: 15 Jun 2021 10:16 UTC+7
+# Version: 2106151016
+# Blocked: 17,565 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11652,12 +11652,6 @@
 0.0.0.0 m.cdn.intentmedia.net
 0.0.0.0 m.intentmedia.net
 0.0.0.0 performance.intentmedia.net
-#[logs.datadoghq.*]
-0.0.0.0 browser-http-intake.logs.datadoghq.com
-0.0.0.0 browser-http-intake.logs.datadoghq.eu
-0.0.0.0 logs.datadoghq.com
-0.0.0.0 rum-http-intake.logs.datadoghq.com
-0.0.0.0 rum-http-intake.logs.datadoghq.eu
 #[r-ad.ne.jp]
 0.0.0.0 bk.r-ad.ne.jp
 0.0.0.0 r-ad.ne.jp
@@ -18277,7 +18271,6 @@
 0.0.0.0 d4n.platformd.com
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 databerries.com
-0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 dlog.hiido.com
 0.0.0.0 dm.bytedance.com
@@ -18621,7 +18614,6 @@
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 wieistmeineip.de
 0.0.0.0 wt.soundestlink.com
-0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.ethtrader.de
 0.0.0.0 www.everestjs.net
 0.0.0.0 www.fastly-insights.com

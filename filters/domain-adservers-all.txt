@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 14 Jun 2021 10:18 UTC+7
-! Version: 2106141018
-! Blocked: 6,372 domains
+! Last modified: 15 Jun 2021 10:16 UTC+7
+! Version: 2106151016
+! Blocked: 6,370 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -1649,7 +1649,6 @@ logoole.yahoo.co.jp
 logql.yahoo.co.jp
 logrocket.com
 logrocket.io
-logs.datadoghq.*
 logsdk.qq.com
 logupdate.avlyun.sec.miui.com
 loopme.me
@@ -5990,7 +5989,6 @@ d38fey2d93vryi.cloudfront.net
 d4n.platformd.com
 dap.digitalgov.gov
 databerries.com
-datadoghq-browser-agent.com
 distillery.wistia.com
 dlog.hiido.com
 dm.bytedance.com

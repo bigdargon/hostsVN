@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Jun 2021 10:18 UTC+7
-! Version: 2106141018
-! Blocked: 6,372 rules
+! Last modified: 15 Jun 2021 10:16 UTC+7
+! Version: 2106151016
+! Blocked: 6,370 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1651,7 +1651,6 @@
 ||logql.yahoo.co.jp^
 ||logrocket.com^
 ||logrocket.io^
-||logs.datadoghq.*^
 ||logsdk.qq.com^
 ||logupdate.avlyun.sec.miui.com^
 ||loopme.me^
@@ -5992,7 +5991,6 @@
 ||d4n.platformd.com^
 ||dap.digitalgov.gov^
 ||databerries.com^
-||datadoghq-browser-agent.com^
 ||distillery.wistia.com^
 ||dlog.hiido.com^
 ||dm.bytedance.com^
