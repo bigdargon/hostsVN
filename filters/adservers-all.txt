@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Jun 2021 10:23 UTC+7
-! Version: 2106161023
-! Blocked: 6,372 rules
+! Last modified: 16 Jun 2021 15:21 UTC+7
+! Version: 2106161521
+! Blocked: 6,371 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2081,7 +2081,6 @@
 ||upsight.com^
 ||urbanairship.com^
 ||urekamedia.com^
-||useinsider.com^
 ||userreport.com^
 ||usp1.baidu.com^
 ||ut.taobao.com^

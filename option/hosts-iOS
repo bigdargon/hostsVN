@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 Jun 2021 10:23 UTC+7
-# Version: 2106161023
-# Blocked: 17,568 domains
+# Last modified: 16 Jun 2021 15:21 UTC+7
+# Version: 2106161521
+# Blocked: 17,550 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4804,24 +4804,6 @@
 0 ftivideostreaming.knowlead.io
 0 videostr.knowlead.io
 0 www.knowlead.io
-0 api.useinsider.com
-0 hit.api.useinsider.com
-0 image.useinsider.com
-0 landing.useinsider.com
-0 location.api.useinsider.com
-0 log.api.useinsider.com
-0 mediamartvn.api.useinsider.com
-0 mobile.useinsider.com
-0 mobileanalytics.useinsider.com
-0 parter.api.useinsider.com
-0 service.useinsider.com
-0 static.api.useinsider.com
-0 thegioididongvn.api.useinsider.com
-0 unification.useinsider.com
-0 useinsider.com
-0 viettelstorevn.api.useinsider.com
-0 weather.api.useinsider.com
-0 www.useinsider.com
 0 ads.juicyads.com
 0 ads-a.juicyads.com
 0 adserver.juicyads.com
