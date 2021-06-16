@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 Jun 2021 10:16 UTC+7
-# Version: 2106151016
-# Blocked: 17,565 domains
+# Last modified: 16 Jun 2021 10:23 UTC+7
+# Version: 2106161023
+# Blocked: 17,568 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13852,6 +13852,13 @@
 0.0.0.0 tricker.vn
 0.0.0.0 vongquaymienphi.tricker.vn
 0.0.0.0 www.tricker.vn
+#[sapoapps.vn]
+0.0.0.0 blogstatistics.sapoapps.vn
+0.0.0.0 bwstatistics.sapoapps.vn
+0.0.0.0 google-shopping.sapoapps.vn
+0.0.0.0 googleshopping.sapoapps.vn
+0.0.0.0 popup.sapoapps.vn
+0.0.0.0 promotionpopup.sapoapps.vn
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -14028,7 +14035,6 @@
 0.0.0.0 offerwall.headlines.pw
 0.0.0.0 ox1.vietstock.vn
 0.0.0.0 phimmedia03.com
-0.0.0.0 promotionpopup.sapoapps.vn
 0.0.0.0 qc.5giay.vn
 0.0.0.0 qc.designervn.net
 0.0.0.0 qc.itsgroup.vn
@@ -14127,10 +14133,8 @@
 0.0.0.0 apl.headlines.pw
 0.0.0.0 app.hstatic.net
 0.0.0.0 app.sbz.workers.dev
-0.0.0.0 blogstatistics.sapoapps.vn
 0.0.0.0 btrack.homedy.com
 0.0.0.0 bwstatistics.bizwebapps.vn
-0.0.0.0 bwstatistics.sapoapps.vn
 0.0.0.0 cdn.doke.app
 0.0.0.0 cdn.tekoapis.com
 0.0.0.0 clicker.chiaki.vn
@@ -14148,8 +14152,6 @@
 0.0.0.0 fbuser.ovp.vn
 0.0.0.0 file-subiz.com
 0.0.0.0 follow.vnay.vn
-0.0.0.0 google-shopping.sapoapps.vn
-0.0.0.0 googleshopping.sapoapps.vn
 0.0.0.0 gtmjs.com
 0.0.0.0 hit.123c.vn
 0.0.0.0 invite.baomoi.com
@@ -15345,6 +15347,7 @@
 0.0.0.0 asccdn.com
 0.0.0.0 asdnn1331.xyz
 0.0.0.0 ashcdn.com
+0.0.0.0 asiacpx.com
 0.0.0.0 askaspalb.online
 0.0.0.0 asp.animelab.com
 0.0.0.0 aspboxant.club
@@ -17973,6 +17976,7 @@
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.antiadblocksystems.com
 0.0.0.0 www.apprefaculty.pro
+0.0.0.0 www.asiacpx.com
 0.0.0.0 www.avfgoatbyyerys.com
 0.0.0.0 www.axdsz.pro
 0.0.0.0 www.b91vip.com

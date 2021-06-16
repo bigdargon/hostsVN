@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Jun 2021 10:16 UTC+7
-! Version: 2106151016
-! Blocked: 6,370 rules
+! Last modified: 16 Jun 2021 10:23 UTC+7
+! Version: 2106161023
+! Blocked: 6,372 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -60,7 +60,9 @@
 ||banners-gallery.coccoc.com^
 ||bidgear-syndication.com^
 ||bidgear.com^
+||blogstatistics.sapoapps.vn^
 ||brand.zing.vn^
+||bwstatistics.sapoapps.vn^
 ||cdn-qc.coccoc.com^
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
@@ -83,6 +85,8 @@
 ||gafin.vn^
 ||gammaplatform.com^
 ||gammassp.com^
+||google-shopping.sapoapps.vn^
+||googleshopping.sapoapps.vn^
 ||gostats.vn^
 ||haraads.com^
 ||harafunnel.com^
@@ -133,7 +137,9 @@
 ||pinetech.vn^
 ||piwik.*.vn^
 ||polyad.net^
+||popup.sapoapps.vn^
 ||proadscdn.com^
+||promotionpopup.sapoapps.vn^
 ||pushdi.com^
 ||pushdy.com^
 ||pushdy.vn^
@@ -380,7 +386,6 @@
 ||offerwall.headlines.pw^
 ||ox1.vietstock.vn^
 ||phimmedia03.com^
-||promotionpopup.sapoapps.vn^
 ||qc.5giay.vn^
 ||qc.designervn.net^
 ||qc.itsgroup.vn^
@@ -460,10 +465,8 @@
 ||apl.headlines.pw^
 ||app.hstatic.net^
 ||app.sbz.workers.dev^
-||blogstatistics.sapoapps.vn^
 ||btrack.homedy.com^
 ||bwstatistics.bizwebapps.vn^
-||bwstatistics.sapoapps.vn^
 ||cdn.doke.app^
 ||cdn.tekoapis.com^
 ||clicker.chiaki.vn^
@@ -481,8 +484,6 @@
 ||fbuser.ovp.vn^
 ||file-subiz.com^
 ||follow.vnay.vn^
-||google-shopping.sapoapps.vn^
-||googleshopping.sapoapps.vn^
 ||gtmjs.com^
 ||hit.123c.vn^
 ||invite.baomoi.com^
@@ -3172,6 +3173,7 @@
 ||asccdn.com^
 ||asdnn1331.xyz^
 ||ashcdn.com^
+||asiacpx.com^
 ||askaspalb.online^
 ||asp.animelab.com^
 ||aspboxant.club^
