@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 Jun 2021 15:21 UTC+7
-# Version: 2106161521
-# Blocked: 17,550 domains
+# Last modified: 17 Jun 2021 11:00 UTC+7
+# Version: 2106171100
+# Blocked: 17,559 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10176,6 +10176,15 @@
 0 stats.vlitag.com
 0 tag.vlitag.com
 0 vlitag.com
+0 lg.vliplatform.com
+0 lgs.vliplatform.com
+0 pbc.vliplatform.com
+0 px.vliplatform.com
+0 s.vliplatform.com
+0 static.vliplatform.com
+0 stats.vliplatform.com
+0 vliplatform.com
+0 www.vliplatform.com
 0 bumlam.com
 0 c.bumlam.com
 0 dsp-us.bumlam.com
