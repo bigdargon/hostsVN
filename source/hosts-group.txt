@@ -131,7 +131,6 @@
 #[googletagmanager.com]
 0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagmanager.com
-0.0.0.0 www-googletagmanager.l.google.com
 #[googletagservices.com]
 0.0.0.0 googletagservices.com
 0.0.0.0 www.googletagservices.com
@@ -163,38 +162,46 @@
 #[analytics.google.com]
 0.0.0.0 analytics.google.com
 0.0.0.0 www.analytics.google.com
+#[google-analytics.com]
 0.0.0.0 click.google-analytics.com
 0.0.0.0 google-analytics.com
 0.0.0.0 sandbox.google-analytics.com
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 www.google-analytics.com
-0.0.0.0 www-google-analytics.l.google.com
+#[googleanalytics.com]
+0.0.0.0 alt2.googleanalytics.com
+0.0.0.0 alt4.googleanalytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 googleanalytics.com
+0.0.0.0 sandbox.googleanalytics.com
+0.0.0.0 ssl.googleanalytics.com
+0.0.0.0 www.googleanalytics.com
 #[optimize.google.com]
 0.0.0.0 optimize.google.com
 0.0.0.0 www.optimize.google.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 www.googleoptimize.com
 #[googleapis.com]
-0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
-#[google]
-0.0.0.0 ads.google.com
-0.0.0.0 mail-ads.google.com
-0.0.0.0 www.ads.google.com
+#[l.google.com]
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead-tpc.l.google.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 partnerad.l.google.com
+0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 static-doubleclick-net.l.google.com
-0.0.0.0 contributor.google.com
-0.0.0.0 fundingchoices.google.com
-0.0.0.0 ads.youtube.com
+0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 www-googletagmanager.l.google.com
+#[google.com]
 0.0.0.0 ads.gmodules.com
+0.0.0.0 ads.google.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 fundingchoices.google.com
+0.0.0.0 mail-ads.google.com
 #[telemetry.microsoft.com]
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
@@ -12374,3 +12381,7 @@
 0.0.0.0 res.ateam-ad.jp
 0.0.0.0 staging.campaign.ateam-ad.jp
 0.0.0.0 www.ateam-ad.jp
+#[admobclick.com]
+0.0.0.0 admobclick.com
+0.0.0.0 pixel.admobclick.com
+0.0.0.0 www.admobclick.com
