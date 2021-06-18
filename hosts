@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Jun 2021 11:00 UTC+7
-# Version: 2106171100
-# Blocked: 17,559 domains
+# Last modified: 18 Jun 2021 10:18 UTC+7
+# Version: 2106181018
+# Blocked: 17,450 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -143,7 +143,6 @@
 #[googletagmanager.com]
 0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagmanager.com
-0.0.0.0 www-googletagmanager.l.google.com
 #[googletagservices.com]
 0.0.0.0 googletagservices.com
 0.0.0.0 www.googletagservices.com
@@ -175,38 +174,46 @@
 #[analytics.google.com]
 0.0.0.0 analytics.google.com
 0.0.0.0 www.analytics.google.com
+#[google-analytics.com]
 0.0.0.0 click.google-analytics.com
 0.0.0.0 google-analytics.com
 0.0.0.0 sandbox.google-analytics.com
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 www.google-analytics.com
-0.0.0.0 www-google-analytics.l.google.com
+#[googleanalytics.com]
+0.0.0.0 alt2.googleanalytics.com
+0.0.0.0 alt4.googleanalytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 googleanalytics.com
+0.0.0.0 sandbox.googleanalytics.com
+0.0.0.0 ssl.googleanalytics.com
+0.0.0.0 www.googleanalytics.com
 #[optimize.google.com]
 0.0.0.0 optimize.google.com
 0.0.0.0 www.optimize.google.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 www.googleoptimize.com
 #[googleapis.com]
-0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
-#[google]
-0.0.0.0 ads.google.com
-0.0.0.0 mail-ads.google.com
-0.0.0.0 www.ads.google.com
+#[l.google.com]
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead-tpc.l.google.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 partnerad.l.google.com
+0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 static-doubleclick-net.l.google.com
-0.0.0.0 contributor.google.com
-0.0.0.0 fundingchoices.google.com
-0.0.0.0 ads.youtube.com
+0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 www-googletagmanager.l.google.com
+#[google.com]
 0.0.0.0 ads.gmodules.com
+0.0.0.0 ads.google.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 fundingchoices.google.com
+0.0.0.0 mail-ads.google.com
 #[telemetry.microsoft.com]
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
@@ -1739,44 +1746,24 @@
 0.0.0.0 www.aatkit.com
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 tracking.aatkit.com
-#[adswizz]
-0.0.0.0 adserver.adswizz.com
-0.0.0.0 adserver.devel.adswizz.com
-0.0.0.0 adserver.hotfix.adswizz.com
-0.0.0.0 adserver.staging.adswizz.com
-0.0.0.0 adsradios.adswizz.com
+#[adswizz.com]
 0.0.0.0 adswizz.com
-0.0.0.0 alpha.adswizz.com
-0.0.0.0 audiomax.adswizz.com
-0.0.0.0 audiomax.devel.adswizz.com
 0.0.0.0 cdn.adswizz.com
-0.0.0.0 clearchannel.adswizz.com
 0.0.0.0 delivery-cdn-cf.adswizz.com
-0.0.0.0 deliveryengine.adswizz.com
 0.0.0.0 delivery-s3.adswizz.com
+0.0.0.0 deliveryengine.adswizz.com
 0.0.0.0 devel.adswizz.com
-0.0.0.0 devops.adswizz.com
-0.0.0.0 docker-registry.adswizz.com
 0.0.0.0 exchange.adswizz.com
-0.0.0.0 hotfix.adswizz.com
-0.0.0.0 mailing.adswizz.com
-0.0.0.0 mailingsmtp.adswizz.com
 0.0.0.0 metrics.adswizz.com
 0.0.0.0 nexus.adswizz.com
-0.0.0.0 oldui.adswizz.com
+0.0.0.0 pixel.adswizz.com
 0.0.0.0 pixelg.adswizz.com
-0.0.0.0 randi.adswizz.com
 0.0.0.0 sandbox.adswizz.com
-0.0.0.0 secure0.adswizz.com
-0.0.0.0 slapd.devel.adswizz.com
-0.0.0.0 soundcloud.adswizz.com
+0.0.0.0 sonar.adswizz.com
 0.0.0.0 staging.adswizz.com
 0.0.0.0 streaming.adswizz.com
-0.0.0.0 streaming-dev.adswizz.com
 0.0.0.0 synchrobox.adswizz.com
 0.0.0.0 synchroscript.adswizz.com
-0.0.0.0 tunein.adswizz.com
-0.0.0.0 ui.adswizz.com
 0.0.0.0 zc.adswizz.com
 #[appboy.com]
 0.0.0.0 api.iad.appboy.com
@@ -2579,122 +2566,28 @@
 0.0.0.0 mx.iesnare.com
 0.0.0.0 snare.iesnare.com
 0.0.0.0 www.iesnare.com
-#[fyber]
-0.0.0.0 account.fyber.com
-0.0.0.0 acp.fyber.com
-0.0.0.0 adcount.fyber.com
-0.0.0.0 adproxy.fyber.com
-0.0.0.0 adproxy-eu-west.fyber.com
-0.0.0.0 adproxy-us-east.fyber.com
-0.0.0.0 adproxy-us-west.fyber.com
-0.0.0.0 adserver-reporting.fyber.com
-0.0.0.0 advertiser.fyber.com
-0.0.0.0 air.fyber.com
-0.0.0.0 ams.fyber.com
-0.0.0.0 ams-aws-stg.fyber.com
-0.0.0.0 android.fyber.com
-0.0.0.0 api.fyber.com
+#[fyber.com]
 0.0.0.0 api-rewarded-video.fyber.com
-0.0.0.0 appengage-fyber.fyber.com
-0.0.0.0 appengage-video.fyber.com
-0.0.0.0 appengage-video.staging.fyber.com
-0.0.0.0 appengage-video-staging.fyber.com
-0.0.0.0 asset1.fyber.com
-0.0.0.0 asset2.fyber.com
-0.0.0.0 asset3.fyber.com
-0.0.0.0 asset4.fyber.com
-0.0.0.0 atlassian.fyber.com
-0.0.0.0 atlassian2.fyber.com
-0.0.0.0 aws.banner-server.fyber.com
+0.0.0.0 api.fyber.com
 0.0.0.0 aws.interstitial-broker.fyber.com
-0.0.0.0 aws-production-banner-server-eu-west-1.banner-server.fyber.com
-0.0.0.0 aws-production-banner-server-us-west-2.banner-server.fyber.com
-0.0.0.0 aws-staging-banner-eu-west-1.staging-banner.fyber.com
 0.0.0.0 banner.fyber.com
-0.0.0.0 banner-server.fyber.com
-0.0.0.0 be.fyber.com
-0.0.0.0 bre.fyber.com
-0.0.0.0 broker.staging-video-v2.fyber.com
-0.0.0.0 broker.video-v2.fyber.com
-0.0.0.0 broker-builder.staging-video-v2.fyber.com
-0.0.0.0 bs-creatives.fyber.com
-0.0.0.0 bs-creatives-fix.fyber.com
-0.0.0.0 cdn.fyber.com
-0.0.0.0 cdn0.fyber.com
-0.0.0.0 cdn1.fyber.com
-0.0.0.0 cdn2.fyber.com
-0.0.0.0 cdn3.fyber.com
-0.0.0.0 cdn4.fyber.com
-0.0.0.0 crowd.fyber.com
-0.0.0.0 dataroom.fyber.com
-0.0.0.0 developer.fyber.com
-0.0.0.0 developer-staging.fyber.com
+0.0.0.0 dau.fyber.com
 0.0.0.0 engine.fyber.com
-0.0.0.0 engine-dsa.fyber.com
-0.0.0.0 exchange.staging-video-v2.fyber.com
-0.0.0.0 exchange.video-v2.fyber.com
+0.0.0.0 fev.fyber.com
 0.0.0.0 fyber.com
-0.0.0.0 fyber-marketplace.fyber.com
-0.0.0.0 grafana.prd.fyber.com
-0.0.0.0 iframe.fyber.com
-0.0.0.0 iframe-dsa.fyber.com
 0.0.0.0 interstitial.fyber.com
-0.0.0.0 interstitial-broker.fyber.com
-0.0.0.0 intra.fyber.com
-0.0.0.0 investors.fyber.com
-0.0.0.0 ios.fyber.com
-0.0.0.0 kibana.prd.fyber.com
-0.0.0.0 kibana.tracker.fyber.com
-0.0.0.0 lbservices2.fyber.com
-0.0.0.0 marathon.prd.fyber.com
 0.0.0.0 mbe-cdn.fyber.com
-0.0.0.0 mbe-cdn-rtb.fyber.com
-0.0.0.0 mbe-cdn-rtb-staging.fyber.com
-0.0.0.0 mbe-cdn-staging.fyber.com
-0.0.0.0 mbe-monitoring.fyber.com
 0.0.0.0 mediation.fyber.com
-0.0.0.0 observium.prd.fyber.com
 0.0.0.0 offer.fyber.com
 0.0.0.0 ofw-client-cdn.fyber.com
-0.0.0.0 otrs.fyber.com
-0.0.0.0 pixie.fyber.com
-0.0.0.0 pmm.prd-aws.fyber.com
-0.0.0.0 pmm.stg-aws.fyber.com
-0.0.0.0 production-bidding-agent.fyber.com
-0.0.0.0 publisher-reporting-api.fyber.com
-0.0.0.0 reference.fyber.com
+0.0.0.0 postimp-ofw.fyber.com
 0.0.0.0 rewarded-video.fyber.com
-0.0.0.0 rtbcc.fyber.com
-0.0.0.0 rundeck.bi.fyber.com
-0.0.0.0 san.fyber.com
+0.0.0.0 s.update.postimp-ofw.fyber.com
 0.0.0.0 sdk-config.fyber.com
 0.0.0.0 service.fyber.com
-0.0.0.0 service.stg-aws.fyber.com
-0.0.0.0 shadow.cloud.fyber.com
-0.0.0.0 staging-appengage-video.fyber.com
-0.0.0.0 staging-banner.fyber.com
-0.0.0.0 staging-banner-server.fyber.com
-0.0.0.0 staging-bidding-agent.fyber.com
-0.0.0.0 staging-bs-creatives.fyber.com
-0.0.0.0 staging-engine.fyber.com
-0.0.0.0 staging-interstitial-broker.fyber.com
-0.0.0.0 staging-mediation.fyber.com
-0.0.0.0 staging-ofw-client-cdn.fyber.com
-0.0.0.0 staging-tracker.fyber.com
-0.0.0.0 staging-video.fyber.com
-0.0.0.0 staging-video-broker.fyber.com
-0.0.0.0 stg.fyber.com
-0.0.0.0 tickets.fyber.com
-0.0.0.0 track.fyber.com
 0.0.0.0 tracker.fyber.com
-0.0.0.0 tracking.fyber.com
-0.0.0.0 unity.fyber.com
+0.0.0.0 update.postimp-ofw.fyber.com
 0.0.0.0 video.fyber.com
-0.0.0.0 video-aws-staging.fyber.com
-0.0.0.0 video-aws-stg.fyber.com
-0.0.0.0 video-dsa.fyber.com
-0.0.0.0 video-interstitial-assets-cdn.fyber.com
-0.0.0.0 www.fyber.com
 #[onthe.io]
 0.0.0.0 as.cdn5.onthe.io
 0.0.0.0 cdn.onthe.io
@@ -6734,7 +6627,6 @@
 0.0.0.0 www.cbsileads.com
 #[cbsinteractive.com]
 0.0.0.0 adops.cbsinteractive.com
-0.0.0.0 adportal.cbsinteractive.com
 0.0.0.0 ads.asia.cbsinteractive.com
 0.0.0.0 asia.cbsinteractive.com
 0.0.0.0 b2b-ma.cbsinteractive.com
@@ -12386,6 +12278,10 @@
 0.0.0.0 res.ateam-ad.jp
 0.0.0.0 staging.campaign.ateam-ad.jp
 0.0.0.0 www.ateam-ad.jp
+#[admobclick.com]
+0.0.0.0 admobclick.com
+0.0.0.0 pixel.admobclick.com
+0.0.0.0 www.admobclick.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14420,6 +14316,7 @@
 0.0.0.0 ad.domainfactory.de
 0.0.0.0 ad.ettoday.net
 0.0.0.0 ad.eurosport.com
+0.0.0.0 ad.foxitsoftware.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.freecity.de
 0.0.0.0 ad.garenanow.com
@@ -14716,14 +14613,12 @@
 0.0.0.0 ads.avazu.net
 0.0.0.0 ads.avct.cloud
 0.0.0.0 ads.avocet.io
-0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.bigchurch.com
 0.0.0.0 ads.bigfoot.com
 0.0.0.0 ads.bitesms.com
 0.0.0.0 ads.bittorrent.com
 0.0.0.0 ads.blog.com
-0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluemountain.com
 0.0.0.0 ads.bonniercorp.com
 0.0.0.0 ads.boylesports.com
@@ -14853,7 +14748,6 @@
 0.0.0.0 ads.massinfra.nl
 0.0.0.0 ads.mcafee.com
 0.0.0.0 ads.mediaodyssey.com
-0.0.0.0 ads.mgnetwork.com
 0.0.0.0 ads.miarroba.com
 0.0.0.0 ads.mmania.com
 0.0.0.0 ads.mobilautomaten.com
@@ -14907,7 +14801,6 @@
 0.0.0.0 ads.rpgdot.com
 0.0.0.0 ads.samsungads.com
 0.0.0.0 ads.satyamonline.com
-0.0.0.0 ads.saymedia.com
 0.0.0.0 ads.scifi.com
 0.0.0.0 ads.seniorfriendfinder.com
 0.0.0.0 ads.sexinyourcity.com
@@ -14945,7 +14838,6 @@
 0.0.0.0 ads.verticalresponse.com
 0.0.0.0 ads.vgchartz.com
 0.0.0.0 ads.videosz.com
-0.0.0.0 ads.viksaffiliates.com
 0.0.0.0 ads.virtual-nights.com
 0.0.0.0 ads.virtualcountries.com
 0.0.0.0 ads.vnumedia.com
@@ -18146,6 +18038,7 @@
 0.0.0.0 acint.net
 0.0.0.0 adentify.com
 0.0.0.0 adj.st
+0.0.0.0 advanced-web-analytics.com
 0.0.0.0 akuaba.chez.com
 0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 analytics-au.clickdimensions.com
@@ -18539,6 +18432,7 @@
 0.0.0.0 t.9gag.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.dtscdn.com
+0.0.0.0 t.eloqua.com
 0.0.0.0 t.freelancer.com
 0.0.0.0 tag.researchnow.com
 0.0.0.0 tamgrt.com
@@ -18557,6 +18451,7 @@
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.mobgc.com
 0.0.0.0 track.omg543.com
+0.0.0.0 track.saygames.io
 0.0.0.0 track.sohu.com
 0.0.0.0 track.td3x.com
 0.0.0.0 track.tenjin.io

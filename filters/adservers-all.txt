@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Jun 2021 11:00 UTC+7
-! Version: 2106171100
-! Blocked: 6,372 rules
+! Last modified: 18 Jun 2021 10:18 UTC+7
+! Version: 2106181018
+! Blocked: 6,373 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -905,7 +905,6 @@
 ||acs.m.taobao.com^
 ||acuityplatform.com^
 ||ad-brix.com^
-||ad-creatives-public.commondatastorage.googleapis.com^
 ||ad-exchange.toast.com^
 ||ad-score.com^
 ||ad-stir.com^
@@ -971,6 +970,7 @@
 ||admaym.com^
 ||admedia.com^
 ||admob.com^
+||admobclick.com^
 ||adnet.mob.com^
 ||adnetasia.com^
 ||adnetworktech.com^
@@ -1362,7 +1362,6 @@
 ||content.ad^
 ||contentabc.com^
 ||contextweb.com^
-||contributor.google.com^
 ||conversantmedia.com^
 ||convertexperiments.com^
 ||convertful.com^
@@ -1518,6 +1517,7 @@
 ||go2speed.org^
 ||google-analytics.com^
 ||googleadservices.com^
+||googleanalytics.com^
 ||googleoptimize.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
@@ -1799,7 +1799,9 @@
 ||outbrain.com^
 ||outbrainimg.com^
 ||ov.yahoo.co.jp^
-||pagead*.l.google.com^
+||pagead-googlehosted.l.google.com^
+||pagead-tpc.l.google.com^
+||pagead.l.google.com^
 ||pangle.io^
 ||parrable.com^
 ||parsely.com^
@@ -2254,6 +2256,7 @@
 ||ad.domainfactory.de^
 ||ad.ettoday.net^
 ||ad.eurosport.com^
+||ad.foxitsoftware.com^
 ||ad.foxnetworks.com^
 ||ad.freecity.de^
 ||ad.garenanow.com^
@@ -2551,14 +2554,12 @@
 ||ads.avazu.net^
 ||ads.avct.cloud^
 ||ads.avocet.io^
-||ads.belointeractive.com^
 ||ads.betfair.com^
 ||ads.bigchurch.com^
 ||ads.bigfoot.com^
 ||ads.bitesms.com^
 ||ads.bittorrent.com^
 ||ads.blog.com^
-||ads.bloomberg.com^
 ||ads.bluemountain.com^
 ||ads.bonniercorp.com^
 ||ads.boylesports.com^
@@ -2688,7 +2689,6 @@
 ||ads.massinfra.nl^
 ||ads.mcafee.com^
 ||ads.mediaodyssey.com^
-||ads.mgnetwork.com^
 ||ads.miarroba.com^
 ||ads.mmania.com^
 ||ads.mobilautomaten.com^
@@ -2742,7 +2742,6 @@
 ||ads.rpgdot.com^
 ||ads.samsungads.com^
 ||ads.satyamonline.com^
-||ads.saymedia.com^
 ||ads.scifi.com^
 ||ads.seniorfriendfinder.com^
 ||ads.sexinyourcity.com^
@@ -2780,7 +2779,6 @@
 ||ads.verticalresponse.com^
 ||ads.vgchartz.com^
 ||ads.videosz.com^
-||ads.viksaffiliates.com^
 ||ads.virtual-nights.com^
 ||ads.virtualcountries.com^
 ||ads.vnumedia.com^
@@ -5873,6 +5871,7 @@
 ||acint.net^
 ||adentify.com^
 ||adj.st^
+||advanced-web-analytics.com^
 ||akuaba.chez.com^
 ||analysis.polarisoffice.com^
 ||analytics-au.clickdimensions.com^
@@ -6266,6 +6265,7 @@
 ||t.9gag.com^
 ||t.dailymail.co.uk^
 ||t.dtscdn.com^
+||t.eloqua.com^
 ||t.freelancer.com^
 ||tag.researchnow.com^
 ||tamgrt.com^
@@ -6284,6 +6284,7 @@
 ||track.hubspot.com^
 ||track.mobgc.com^
 ||track.omg543.com^
+||track.saygames.io^
 ||track.sohu.com^
 ||track.td3x.com^
 ||track.tenjin.io^

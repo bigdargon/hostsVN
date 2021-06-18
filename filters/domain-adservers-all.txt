@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 17 Jun 2021 11:00 UTC+7
-! Version: 2106171100
-! Blocked: 6,372 domains
+! Last modified: 18 Jun 2021 10:18 UTC+7
+! Version: 2106181018
+! Blocked: 6,373 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -903,7 +903,6 @@ accesstrade.net
 acs.m.taobao.com
 acuityplatform.com
 ad-brix.com
-ad-creatives-public.commondatastorage.googleapis.com
 ad-exchange.toast.com
 ad-score.com
 ad-stir.com
@@ -969,6 +968,7 @@ admarvel.com
 admaym.com
 admedia.com
 admob.com
+admobclick.com
 adnet.mob.com
 adnetasia.com
 adnetworktech.com
@@ -1360,7 +1360,6 @@ content-ad.net
 content.ad
 contentabc.com
 contextweb.com
-contributor.google.com
 conversantmedia.com
 convertexperiments.com
 convertful.com
@@ -1516,6 +1515,7 @@ go-mpulse.net
 go2speed.org
 google-analytics.com
 googleadservices.com
+googleanalytics.com
 googleoptimize.com
 googlesyndication.com
 googletagmanager.com
@@ -1797,7 +1797,9 @@ otnolatrnup.com
 outbrain.com
 outbrainimg.com
 ov.yahoo.co.jp
-pagead*.l.google.com
+pagead-googlehosted.l.google.com
+pagead-tpc.l.google.com
+pagead.l.google.com
 pangle.io
 parrable.com
 parsely.com
@@ -2252,6 +2254,7 @@ ad.digitallook.com
 ad.domainfactory.de
 ad.ettoday.net
 ad.eurosport.com
+ad.foxitsoftware.com
 ad.foxnetworks.com
 ad.freecity.de
 ad.garenanow.com
@@ -2549,14 +2552,12 @@ ads.aspalliance.com
 ads.avazu.net
 ads.avct.cloud
 ads.avocet.io
-ads.belointeractive.com
 ads.betfair.com
 ads.bigchurch.com
 ads.bigfoot.com
 ads.bitesms.com
 ads.bittorrent.com
 ads.blog.com
-ads.bloomberg.com
 ads.bluemountain.com
 ads.bonniercorp.com
 ads.boylesports.com
@@ -2686,7 +2687,6 @@ ads.lordlucky.com
 ads.massinfra.nl
 ads.mcafee.com
 ads.mediaodyssey.com
-ads.mgnetwork.com
 ads.miarroba.com
 ads.mmania.com
 ads.mobilautomaten.com
@@ -2740,7 +2740,6 @@ ads.redlightcenter.com
 ads.rpgdot.com
 ads.samsungads.com
 ads.satyamonline.com
-ads.saymedia.com
 ads.scifi.com
 ads.seniorfriendfinder.com
 ads.sexinyourcity.com
@@ -2778,7 +2777,6 @@ ads.valueimpression.com
 ads.verticalresponse.com
 ads.vgchartz.com
 ads.videosz.com
-ads.viksaffiliates.com
 ads.virtual-nights.com
 ads.virtualcountries.com
 ads.vnumedia.com
@@ -5871,6 +5869,7 @@ a3cloud.net
 acint.net
 adentify.com
 adj.st
+advanced-web-analytics.com
 akuaba.chez.com
 analysis.polarisoffice.com
 analytics-au.clickdimensions.com
@@ -6264,6 +6263,7 @@ sync2ad.com
 t.9gag.com
 t.dailymail.co.uk
 t.dtscdn.com
+t.eloqua.com
 t.freelancer.com
 tag.researchnow.com
 tamgrt.com
@@ -6282,6 +6282,7 @@ track.easeus.com
 track.hubspot.com
 track.mobgc.com
 track.omg543.com
+track.saygames.io
 track.sohu.com
 track.td3x.com
 track.tenjin.io
