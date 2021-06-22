@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 18 Jun 2021 10:18 UTC+7
-! Version: 2106181018
-! Blocked: 6,373 rules
+! Last modified: 22 Jun 2021 20:20 UTC+7
+! Version: 2106222020
+! Blocked: 6,375 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2135,6 +2135,7 @@
 ||wywy.com^
 ||wywyuserservice.com^
 ||xapads.com^
+||xdrig.com^
 ||xlmc.sec.miui.com^
 ||xmlppcbuzz.com^
 ||xtremepush.com^
@@ -5542,6 +5543,7 @@
 ||tradeadexchange.com^
 ||tradedoubler.com^
 ||trademob.com^
+||tradplusad.com^
 ||traffic-exchange.com^
 ||traffic.focuusing.com^
 ||trafficadept.com^

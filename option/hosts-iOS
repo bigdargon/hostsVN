@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 18 Jun 2021 10:18 UTC+7
-# Version: 2106181018
-# Blocked: 17,450 domains
+# Last modified: 22 Jun 2021 20:20 UTC+7
+# Version: 2106222020
+# Blocked: 17,462 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11294,6 +11294,17 @@
 0 admobclick.com
 0 pixel.admobclick.com
 0 www.admobclick.com
+0 adt.xdrig.com
+0 app.xdrig.com
+0 av1.xdrig.com
+0 cloud.xdrig.com
+0 conf.xdrig.com
+0 ga.xdrig.com
+0 gv1.xdrig.com
+0 me.xdrig.com
+0 pg.xdrig.com
+0 push.xdrig.com
+0 xdrig.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -16465,6 +16476,7 @@
 0 tradeadexchange.com
 0 tradedoubler.com
 0 trademob.com
+0 tradplusad.com
 0 traffic-exchange.com
 0 traffic.focuusing.com
 0 trafficadept.com
