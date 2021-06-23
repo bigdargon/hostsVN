@@ -529,7 +529,9 @@
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-static-td.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
+0.0.0.0 adtima-video.zadn.vn
 #[adtima*.zascdn.me]
+0.0.0.0 adtima-common.zascdn.me
 0.0.0.0 adtima-media.zascdn.me
 0.0.0.0 adtima-static.zascdn.me
 0.0.0.0 adtima-video.zascdn.me
@@ -1443,6 +1445,8 @@
 0.0.0.0 stats.vng.com.vn
 #[tpmedia.online]
 0.0.0.0 cdn.tpmedia.online
+0.0.0.0 cdn1.tpmedia.online
+0.0.0.0 cdnv.tpmedia.online
 0.0.0.0 mvideo.tpmedia.online
 0.0.0.0 tpmedia.online
 0.0.0.0 www.tpmedia.online
@@ -1462,3 +1466,16 @@
 0.0.0.0 googleshopping.sapoapps.vn
 0.0.0.0 popup.sapoapps.vn
 0.0.0.0 promotionpopup.sapoapps.vn
+#[onmarketer.net]
+0.0.0.0 onmarketer.net
+0.0.0.0 beta.onmarketer.net
+0.0.0.0 www.onmarketer.net
+0.0.0.0 hub.onmarketer.net
+#[omarketer.viettelpost.vn]
+0.0.0.0 api.omarketer.viettelpost.vn
+0.0.0.0 app.omarketer.viettelpost.vn
+0.0.0.0 cdn.omarketer.viettelpost.vn
+0.0.0.0 hub.omarketer.viettelpost.vn
+0.0.0.0 omarketer.viettelpost.vn
+0.0.0.0 url.omarketer.viettelpost.vn
+0.0.0.0 wss.omarketer.viettelpost.vn

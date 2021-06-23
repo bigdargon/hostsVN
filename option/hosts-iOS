@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 Jun 2021 20:20 UTC+7
-# Version: 2106222020
-# Blocked: 17,462 domains
+# Last modified: 23 Jun 2021 14:23 UTC+7
+# Version: 2106231423
+# Blocked: 17,477 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11802,6 +11802,8 @@
 0 adtima-media.zadn.vn
 0 adtima-static-td.zadn.vn
 0 adtima-static.zadn.vn
+0 adtima-video.zadn.vn
+0 adtima-common.zascdn.me
 0 adtima-media.zascdn.me
 0 adtima-static.zascdn.me
 0 adtima-video.zascdn.me
@@ -12613,6 +12615,8 @@
 0 sso.stats.vng.com.vn
 0 stats.vng.com.vn
 0 cdn.tpmedia.online
+0 cdn1.tpmedia.online
+0 cdnv.tpmedia.online
 0 mvideo.tpmedia.online
 0 tpmedia.online
 0 www.tpmedia.online
@@ -12630,6 +12634,17 @@
 0 googleshopping.sapoapps.vn
 0 popup.sapoapps.vn
 0 promotionpopup.sapoapps.vn
+0 onmarketer.net
+0 beta.onmarketer.net
+0 www.onmarketer.net
+0 hub.onmarketer.net
+0 api.omarketer.viettelpost.vn
+0 app.omarketer.viettelpost.vn
+0 cdn.omarketer.viettelpost.vn
+0 hub.omarketer.viettelpost.vn
+0 omarketer.viettelpost.vn
+0 url.omarketer.viettelpost.vn
+0 wss.omarketer.viettelpost.vn
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
 0 ad-admin.vnay.vn
@@ -12950,6 +12965,7 @@
 0 log.ngaynay.vn
 0 log.nhipcaudautu.vn
 0 log.oto.com.vn
+0 log.plo.vn
 0 log.saleup88.vn
 0 log.sggp.org.vn
 0 log.tapchimattran.vn
@@ -14758,7 +14774,6 @@
 0 economicpizzas.com
 0 ecoupons.com
 0 ecpms.net
-0 edaa.eu
 0 edge.mdcgate.com
 0 edgeio.com
 0 edublog.pw

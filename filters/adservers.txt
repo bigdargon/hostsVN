@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Jun 2021 20:20 UTC+7
-! Version: 2106222020
-! Blocked: 870 rules
+! Last modified: 23 Jun 2021 14:23 UTC+7
+! Version: 2106231423
+! Blocked: 882 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37,12 +37,14 @@
 ||adsplay.xyz^
 ||adstracking.apps.zing.vn^
 ||adtima-common.zadn.vn^
+||adtima-common.zascdn.me^
 ||adtima-media-td.zadn.vn^
 ||adtima-media.zadn.vn^
 ||adtima-media.zascdn.me^
 ||adtima-static-td.zadn.vn^
 ||adtima-static.zadn.vn^
 ||adtima-static.zascdn.me^
+||adtima-video.zadn.vn^
 ||adtima-video.zascdn.me^
 ||adtima.vn^
 ||adtimaserver.vn^
@@ -127,8 +129,10 @@
 ||nt-cdn.coccoc.com^
 ||nv-ad.24hstatic.com^
 ||ohchat.net^
+||omarketer.viettelpost.vn^
 ||oncustomer.asia^
 ||onfluencer.net^
+||onmarketer.net^
 ||partner.accesstrade.vn^
 ||phanquang.vn^
 ||philacct.com^
@@ -513,6 +517,7 @@
 ||log.ngaynay.vn^
 ||log.nhipcaudautu.vn^
 ||log.oto.com.vn^
+||log.plo.vn^
 ||log.saleup88.vn^
 ||log.sggp.org.vn^
 ||log.tapchimattran.vn^
@@ -687,7 +692,9 @@
 ||debet.com^
 ||fa88.win^
 ||fabet.com^
+||fabet.me^
 ||fabet.vip^
+||fabet88.net^
 ||fabetvn.com^
 ||fb88.com^
 ||fb88.link^
@@ -698,11 +705,14 @@
 ||fb88sports.com^
 ||fb88viet.com^
 ||fcb8.com^
+||fcb8.fun^
+||fcb8.vip^
 ||fcb88.com^
 ||fcb88d.com^
 ||five88.biz^
 ||five88.com^
 ||five88.net^
+||fivevn.net^
 ||gamebai.club^
 ||gdwbetvn888.com^
 ||gdwviet.com^
@@ -765,11 +775,13 @@
 ||one88.fun^
 ||one88.me^
 ||one88.us^
+||one88.vip^
 ||one88.vn^
 ||oneday88.com^
 ||playgamefa88.live^
 ||playgo88.asia^
 ||playv8.com^
+||playv8.vip^
 ||qq8788viet.com^
 ||r88.vn^
 ||red88.com^
