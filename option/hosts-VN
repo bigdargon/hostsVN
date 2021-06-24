@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Jun 2021 16:01 UTC+7
-# Version: 2106241601
-# Blocked: 1,811 domains
+# Last modified: 24 Jun 2021 21:05 UTC+7
+# Version: 2106242105
+# Blocked: 1,813 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1491,6 +1491,9 @@
 0.0.0.0 omarketer.viettelpost.vn
 0.0.0.0 url.omarketer.viettelpost.vn
 0.0.0.0 wss.omarketer.viettelpost.vn
+#[adconnect.vn]
+0.0.0.0 adconnect.vn
+0.0.0.0 static.adconnect.vn
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 24 Jun 2021 16:01 UTC+7
-! Version: 2106241601
-! Blocked: 883 rules
+! Last modified: 24 Jun 2021 21:05 UTC+7
+! Version: 2106242105
+! Blocked: 884 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -15,6 +15,7 @@
 ||ad360.vn^
 ||adasiaholdings.com^
 ||adbro.me^
+||adconnect.vn^
 ||adflex.vn^
 ||adfly.vn^
 ||admicro*.vcmedia.vn^

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Jun 2021 16:01 UTC+7
-! Version: 2106241601
-! Blocked: 6,387 rules
+! Last modified: 24 Jun 2021 21:05 UTC+7
+! Version: 2106242105
+! Blocked: 6,389 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -15,6 +15,7 @@
 ||ad360.vn^
 ||adasiaholdings.com^
 ||adbro.me^
+||adconnect.vn^
 ||adflex.vn^
 ||adfly.vn^
 ||admicro*.vcmedia.vn^
@@ -2073,6 +2074,7 @@
 ||truoptik.com^
 ||trustx.org^
 ||tsyndicate.com^
+||tubeadvertising.eu^
 ||turn.com^
 ||twik.io^
 ||tx-hit.com^

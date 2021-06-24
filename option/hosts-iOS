@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Jun 2021 16:01 UTC+7
-# Version: 2106241601
-# Blocked: 17,476 domains
+# Last modified: 24 Jun 2021 21:05 UTC+7
+# Version: 2106242105
+# Blocked: 17,482 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11302,6 +11302,10 @@
 0 smartadnetwork.net
 0 tracking.smartadnetwork.net
 0 www.smartadnetwork.net
+0 banners.tubeadvertising.eu
+0 smart.tubeadvertising.eu
+0 tubeadvertising.eu
+0 www.tubeadvertising.eu
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -12642,6 +12646,8 @@
 0 omarketer.viettelpost.vn
 0 url.omarketer.viettelpost.vn
 0 wss.omarketer.viettelpost.vn
+0 adconnect.vn
+0 static.adconnect.vn
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
 0 ad-admin.vnay.vn
