@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 23 Jun 2021 14:23 UTC+7
-# Version: 2106231423
-# Blocked: 17,477 domains
+# Last modified: 24 Jun 2021 09:47 UTC+7
+# Version: 2106240947
+# Blocked: 17,483 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10737,7 +10737,9 @@
 0 cdn.aicactus.io
 0 geo-service.aicactus.io
 0 staging-tag-cdn.aicactus.io
+0 tag-cdn.aicactus.io
 0 tags.aicactus.io
+0 vt2-tags.aicactus.io
 0 apsoutheast-match.deepintent.com
 0 beacon.deepintent.com
 0 cdn.deepintent.com
@@ -11305,6 +11307,10 @@
 0 pg.xdrig.com
 0 push.xdrig.com
 0 xdrig.com
+0 delivery.smartadnetwork.net
+0 smartadnetwork.net
+0 tracking.smartadnetwork.net
+0 www.smartadnetwork.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn

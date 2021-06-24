@@ -2,7 +2,7 @@
 
 [![created](https://img.shields.io/badge/created-02%20jul%202018-brightgreen.svg?style=flat-square)](https://bigdargon.github.io/hostsVN/) [![GitHub last commit](https://img.shields.io/github/last-commit/bigdargon/hostsVN/master.svg?style=flat-square)](https://github.com/bigdargon/hostsVN/commits/master) [![GitHub file size in bytes](https://img.shields.io/github/size/bigdargon/hostsVN/hosts.svg?style=flat-square)](https://github.com/bigdargon/hostsVN/raw/master/hosts) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/bigdargon/hostsVN.svg?style=flat-square)](https://github.com/bigdargon/hostsVN/issues?q=is%3Aissue+is%3Aclosed) [![Image of insights](https://github.com/bigdargon/insights/blob/master/svg/139376543/badge.svg)](https://github.com/bigdargon/insights/blob/master/readme/139376543/week.md) [![license](https://img.shields.io/github/license/bigdargon/hostsVN.svg?style=flat-square)](https://github.com/bigdargon/hostsVN/blob/master/LICENSE)
 
-# hostsVN
+# hostsVN [<img alt="Image of insights" src="https://github.com/bigdargon/insights/blob/master/graph/139376543/small/week.png" height="20">](https://github.com/bigdargon/insights/blob/master/readme/139376543/week.md)
 
 Hosts block ads of Vietnamese - Hosts chặn quảng cáo của người Việt
 

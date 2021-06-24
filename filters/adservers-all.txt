@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 23 Jun 2021 14:23 UTC+7
-! Version: 2106231423
-! Blocked: 6,386 rules
+! Last modified: 24 Jun 2021 09:47 UTC+7
+! Version: 2106240947
+! Blocked: 6,387 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1986,6 +1986,7 @@
 ||smaato.com^
 ||smaato.net^
 ||smac-ad.com^
+||smartadnetwork.net^
 ||smartads.mobile.yahoo.co.jp^
 ||smartadserver.com^
 ||smetrics.cnn.com^
