@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Jun 2021 09:47 UTC+7
-# Version: 2106240947
-# Blocked: 1,810 domains
+# Last modified: 24 Jun 2021 16:01 UTC+7
+# Version: 2106241601
+# Blocked: 1,811 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1856,6 +1856,7 @@
 0.0.0.0 mysapo.net
 0.0.0.0 newlog.daidoanket.vn
 0.0.0.0 nstat.headlines.pw
+0.0.0.0 pixel.chotot.com
 0.0.0.0 production-tracking.riviu.co
 0.0.0.0 report.vnay.vn
 0.0.0.0 rsyslog.24h.com.vn

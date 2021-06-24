@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Jun 2021 09:47 UTC+7
-! Version: 2106240947
+! Last modified: 24 Jun 2021 16:01 UTC+7
+! Version: 2106241601
 ! Blocked: 6,387 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -560,6 +560,7 @@
 ||mysapo.net^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
+||pixel.chotot.com^
 ||production-tracking.riviu.co^
 ||report.vnay.vn^
 ||rsyslog.24h.com.vn^
@@ -1804,8 +1805,6 @@
 ||optimizesrv.com^
 ||optmnstr.com^
 ||optvx.com^
-||oth.eve.mdt.qq.com^
-||oth.str.mdt.qq.com^
 ||otm-r.com^
 ||otnolatrnup.com^
 ||outbrain.com^
@@ -6046,6 +6045,7 @@
 ||geoip.nekudo.com^
 ||getexceptional.com^
 ||getsitecontrol.com^
+||gf.umenglog.com^
 ||glanceguide.com^
 ||globalwebindex.net^
 ||go.ad1data.com^
@@ -6314,6 +6314,7 @@
 ||tracking-server-prod-1.zenmxapps.com^
 ||tracking-user-behavior.meeyland.com^
 ||tracking.adsrv.io^
+||tracking.applift.com^
 ||tracking.bodis.com^
 ||tracking.hubspot.com^
 ||tracking.lenzmx.com^
@@ -6392,4 +6393,3 @@
 ||appsflyer.com^
 ||mangaqq.com^
 @@||app.appsflyer.com^|
-@@||i.mangaqq.com^|

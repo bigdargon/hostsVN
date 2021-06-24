@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Jun 2021 09:47 UTC+7
-# Version: 2106240947
-# Blocked: 17,483 domains
+# Last modified: 24 Jun 2021 16:01 UTC+7
+# Version: 2106241601
+# Blocked: 17,476 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1501,53 +1501,45 @@
 0.0.0.0 nc.gdt.qq.com
 0.0.0.0 v.gdt.qq.com
 0.0.0.0 v2.gdt.qq.com
-#[mdt.qq.com]
-0.0.0.0 oth.str.mdt.qq.com
-0.0.0.0 oth.eve.mdt.qq.com
 #[ping*.qq.com]
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingjs.qq.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pingtcss.qq.com
-#[umeng]
+#[umeng.co]
 0.0.0.0 alog.umeng.co
+0.0.0.0 oc.umeng.co
+0.0.0.0 umeng.co
+#[umeng.com]
+0.0.0.0 alog-default.umeng.com
 0.0.0.0 alog.umeng.com
-0.0.0.0 alog.umengcloud.com
 0.0.0.0 alogs.umeng.com
-0.0.0.0 alogs.umengcloud.com
 0.0.0.0 api.umeng.com
-0.0.0.0 api.wsq.umeng.com
 0.0.0.0 ar.umeng.com
 0.0.0.0 at.umeng.com
-0.0.0.0 dev.umeng.com
 0.0.0.0 errlog.umeng.com
-0.0.0.0 msg.umengcloud.com
-0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
 0.0.0.0 ocx.umeng.com
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 sec.umeng.com
-0.0.0.0 udash.umengcloud.com
-0.0.0.0 ulogs.umengcloud.com
-0.0.0.0 umeng.co
+0.0.0.0 ulogs.umeng.com
 0.0.0.0 umeng.com
+0.0.0.0 www.umeng.com
+#[umengcloud.com]
+0.0.0.0 alog.umengcloud.com
+0.0.0.0 alogs.umengcloud.com
+0.0.0.0 ex.umengcloud.com
+0.0.0.0 msg.umengcloud.com
+0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 umengcloud.com
-0.0.0.0 uop.umeng.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
-0.0.0.0 wsq.umeng.com
-0.0.0.0 www.umeng.com
-#[applift]
+#[apptornado.com]
 0.0.0.0 applift-a.apptornado.com
 0.0.0.0 applift-b.apptornado.com
-0.0.0.0 applift.com
-0.0.0.0 cdn.applift.com
-0.0.0.0 content.applift.com
-0.0.0.0 monetize.applift.com
-0.0.0.0 partner.applift.com
-0.0.0.0 playads.applift.com
-0.0.0.0 www.applift.com
-0.0.0.0 tracking.applift.com
+0.0.0.0 apptornado.com
+0.0.0.0 eu-srv.apptornado.com
+0.0.0.0 sdk-b.apptornado.com
 #[xiaomi.com]
 0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 api.d.xiaomi.com
@@ -14147,6 +14139,7 @@
 0.0.0.0 mysapo.net
 0.0.0.0 newlog.daidoanket.vn
 0.0.0.0 nstat.headlines.pw
+0.0.0.0 pixel.chotot.com
 0.0.0.0 production-tracking.riviu.co
 0.0.0.0 report.vnay.vn
 0.0.0.0 rsyslog.24h.com.vn
@@ -18236,6 +18229,7 @@
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 getexceptional.com
 0.0.0.0 getsitecontrol.com
+0.0.0.0 gf.umenglog.com
 0.0.0.0 glanceguide.com
 0.0.0.0 globalwebindex.net
 0.0.0.0 go.ad1data.com
@@ -18504,6 +18498,7 @@
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking-user-behavior.meeyland.com
 0.0.0.0 tracking.adsrv.io
+0.0.0.0 tracking.applift.com
 0.0.0.0 tracking.bodis.com
 0.0.0.0 tracking.hubspot.com
 0.0.0.0 tracking.lenzmx.com
@@ -18636,5 +18631,3 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 wa.appsflyer.com
-#[mangaqq.com]
-0.0.0.0 mangaqq.com

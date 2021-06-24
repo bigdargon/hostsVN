@@ -1,6 +1,6 @@
 ! Title: hostsVN
-! Last modified: 24 Jun 2021 09:47 UTC+7
-! Version: 2106240947
+! Last modified: 24 Jun 2021 16:01 UTC+7
+! Version: 2106241601
 ! Blocked: 6,387 domains
 ! The section containing the list contains all ad networks and tracking
 !
@@ -558,6 +558,7 @@ myharavan.com
 mysapo.net
 newlog.daidoanket.vn
 nstat.headlines.pw
+pixel.chotot.com
 production-tracking.riviu.co
 report.vnay.vn
 rsyslog.24h.com.vn
@@ -1802,8 +1803,6 @@ optimizely.com
 optimizesrv.com
 optmnstr.com
 optvx.com
-oth.eve.mdt.qq.com
-oth.str.mdt.qq.com
 otm-r.com
 otnolatrnup.com
 outbrain.com
@@ -6044,6 +6043,7 @@ geo.adobe.com
 geoip.nekudo.com
 getexceptional.com
 getsitecontrol.com
+gf.umenglog.com
 glanceguide.com
 globalwebindex.net
 go.ad1data.com
@@ -6312,6 +6312,7 @@ trackersimulator.org
 tracking-server-prod-1.zenmxapps.com
 tracking-user-behavior.meeyland.com
 tracking.adsrv.io
+tracking.applift.com
 tracking.bodis.com
 tracking.hubspot.com
 tracking.lenzmx.com
