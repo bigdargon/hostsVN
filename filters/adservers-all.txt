@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 29 Jun 2021 16:02 UTC+7
-! Version: 2106291602
-! Blocked: 6,394 rules
+! Last modified: 29 Jun 2021 16:04 UTC+7
+! Version: 2106291604
+! Blocked: 6,395 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -820,6 +820,7 @@
 ||top88.fun^
 ||top88.uk^
 ||top88.us^
+||trungso.vip^
 ||uw88vnd.com^
 ||v7ac.com^
 ||v8.club^
