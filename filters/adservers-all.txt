@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 29 Jun 2021 15:51 UTC+7
-! Version: 2106291551
-! Blocked: 6,393 rules
+! Last modified: 29 Jun 2021 16:02 UTC+7
+! Version: 2106291602
+! Blocked: 6,394 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2062,6 +2062,7 @@
 ||trackjs.com^
 ||trackonomics.net^
 ||trackpush.com^
+||tradplusad.com^
 ||traffic.spot.im^
 ||trafficfactory.biz^
 ||trafficjunky.net^
@@ -5560,7 +5561,6 @@
 ||tradeadexchange.com^
 ||tradedoubler.com^
 ||trademob.com^
-||tradplusad.com^
 ||traffic-exchange.com^
 ||traffic.focuusing.com^
 ||trafficadept.com^
@@ -6043,6 +6043,7 @@
 ||freegeoip.net^
 ||frog.wix.com^
 ||front.optimonk.com^
+||fullstory.com^
 ||g.3gl.net^
 ||ga.clearbit.com^
 ||ga.getresponse.com^

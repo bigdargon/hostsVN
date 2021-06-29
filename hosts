@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 29 Jun 2021 15:51 UTC+7
-# Version: 2106291551
-# Blocked: 17,408 domains
+# Last modified: 29 Jun 2021 16:02 UTC+7
+# Version: 2106291602
+# Blocked: 17,414 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12220,6 +12220,13 @@
 0.0.0.0 smart.tubeadvertising.eu
 0.0.0.0 tubeadvertising.eu
 0.0.0.0 www.tubeadvertising.eu
+#[tradplusad.com]
+0.0.0.0 api.tradplusad.com
+0.0.0.0 bidder.tradplusad.com
+0.0.0.0 cdn.tradplusad.com
+0.0.0.0 event.tradplusad.com
+0.0.0.0 tradplusad.com
+0.0.0.0 www.tradplusad.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -17557,7 +17564,6 @@
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradedoubler.com
 0.0.0.0 trademob.com
-0.0.0.0 tradplusad.com
 0.0.0.0 traffic-exchange.com
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 trafficadept.com
@@ -18152,6 +18158,7 @@
 0.0.0.0 freegeoip.net
 0.0.0.0 frog.wix.com
 0.0.0.0 front.optimonk.com
+0.0.0.0 fullstory.com
 0.0.0.0 g.3gl.net
 0.0.0.0 ga.clearbit.com
 0.0.0.0 ga.getresponse.com
