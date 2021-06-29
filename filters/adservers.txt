@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 24 Jun 2021 21:05 UTC+7
-! Version: 2106242105
-! Blocked: 884 rules
+! Last modified: 29 Jun 2021 09:06 UTC+7
+! Version: 2106290906
+! Blocked: 890 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -648,6 +648,7 @@
 ||11bet.com^
 ||11bet.net^
 ||11bet.win^
+||123b.com^
 ||12b99.com^
 ||179bet.net^
 ||1xbetvn.com^
@@ -656,6 +657,7 @@
 ||388bet.vip^
 ||3kingclub.com^
 ||50soc.com^
+||5123b.com^
 ||520xiaojin.com^
 ||68rich.com^
 ||68rich.org^
@@ -756,6 +758,7 @@
 ||macau.club^
 ||macauclub.fun^
 ||mansion66.com^
+||may88.club^
 ||may88.com^
 ||mayclub.net^
 ||mc876.com^
@@ -769,6 +772,7 @@
 ||ms88asia.com^
 ||ms88ca.com^
 ||nbet.com^
+||nhacainbet.club^
 ||nhanthuong88.com^
 ||nhat.game^
 ||nhatvip.net^
@@ -790,6 +794,7 @@
 ||ric.win^
 ||rik.vip^
 ||rik.win^
+||rikvip.us^
 ||rio66qc.club^
 ||sbc31.com^
 ||sieubomtan.com^
@@ -851,6 +856,7 @@
 ||w88yes.com^
 ||wbet99.net^
 ||websvn.info^
+||win888b.com^
 ||ww88club.com^
 ||x8.club^
 ||x8.vin^
