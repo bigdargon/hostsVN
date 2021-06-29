@@ -3100,10 +3100,9 @@
 0.0.0.0 cdn4.mxpnl.com
 0.0.0.0 cdn2.mxpnl.com
 0.0.0.0 images.mxpnl.com
-#[hadarone]
+#[hadarone.com]
 0.0.0.0 hadarone.com
 0.0.0.0 api.hadarone.com
-0.0.0.0 admin.hadarone.com
 0.0.0.0 dsp.hadarone.com
 0.0.0.0 ssp.hadarone.com
 0.0.0.0 d1.hadarone.com
@@ -3117,49 +3116,30 @@
 0.0.0.0 c4.hadarone.com
 0.0.0.0 c5.hadarone.com
 0.0.0.0 static.hadarone.com
-#[mookie1]
-0.0.0.0 247access.mookie1.com
-0.0.0.0 au-gmtdmp.gd3.mookie1.com
-0.0.0.0 b3-eu.mookie1.com
-0.0.0.0 b3-uk.mookie1.com
+#[mookie1.com]
 0.0.0.0 b3.mookie1.com
 0.0.0.0 cdn-akamai.mookie1.com
 0.0.0.0 cdn.mookie1.com
 0.0.0.0 cz.gmads.mookie1.com
 0.0.0.0 de-gmtdmp.mookie1.com
 0.0.0.0 dk-gmtdmp.mookie1.com
-0.0.0.0 dna1.mookie1.com
-0.0.0.0 dna2.mookie1.com
-0.0.0.0 dna3.mookie1.com
-0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 0.0.0.0 gd1.mookie1.com
 0.0.0.0 gmads.mookie1.com
 0.0.0.0 gmtdmp.mookie1.com
 0.0.0.0 ib.mookie1.com
-0.0.0.0 ibeu2.mookie1.com
 0.0.0.0 in-gmtdmp.mookie1.com
 0.0.0.0 it.gmads.mookie1.com
-0.0.0.0 jp-gmtdmp.gd9.mookie1.com
-0.0.0.0 l2pdus.mookie1.com
 0.0.0.0 mookie1.com
 0.0.0.0 odr.mookie1.com
-0.0.0.0 premium.mookie1.com
 0.0.0.0 pt-gmtdmp.mookie1.com
 0.0.0.0 ru-gmtdmp.mookie1.com
 0.0.0.0 sg-gmtdmp.gd2.mookie1.com
-0.0.0.0 smibk.mookie1.com
 0.0.0.0 static-tagr.gd1.mookie1.com
 0.0.0.0 t.mookie1.com
-0.0.0.0 tlg.mookie1.com
 0.0.0.0 us-gmtdmp.mookie1.com
 0.0.0.0 us.gmads.mookie1.com
 0.0.0.0 vn-gmtdmp.mookie1.com
-0.0.0.0 xaxis-emea.mookie1.com
-0.0.0.0 xaxis-it.mookie1.com
-0.0.0.0 xs.mookie1.com
-0.0.0.0 z2.mookie1.com
-0.0.0.0 zap.mookie1.com
-0.0.0.0 zap2.mookie1.com
+0.0.0.0 x2.mookie1.com
 #[exosrv.com]
 0.0.0.0 a.exosrv.com
 0.0.0.0 ads.exosrv.com
@@ -3170,63 +3150,19 @@
 0.0.0.0 static.exosrv.com
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 vstatic.exosrv.com
-#[backtrace]
-0.0.0.0 api.backtrace.io
-0.0.0.0 backtrace.io
-0.0.0.0 bigfoot.sp.backtrace.io
-0.0.0.0 billing.backtrace.io
-0.0.0.0 ca1.metrics.backtrace.io
-0.0.0.0 get.backtrace.io
-0.0.0.0 intercomm01.backtrace.io
-0.0.0.0 loghost.in.backtrace.io
-0.0.0.0 metrics.backtrace.io
-0.0.0.0 origin-get.backtrace.io
-0.0.0.0 packages.backtrace.io
-0.0.0.0 pipelinedb.sp.backtrace.io
-0.0.0.0 releases.backtrace.io
-0.0.0.0 saml.backtrace.io
-0.0.0.0 sp.backtrace.io
-0.0.0.0 unreal.backtrace.io
-0.0.0.0 use.backtrace.io
-0.0.0.0 www.backtrace.io
-#[marinsm]
+#[marinsm.com]
 0.0.0.0 marinsm.com
 0.0.0.0 pro.marinsm.com
-0.0.0.0 qa-tracker.marinsm.com
-0.0.0.0 t3.marinsm.com
 0.0.0.0 tag.marinsm.com
 0.0.0.0 tracker.marinsm.com
-0.0.0.0 w2.marinsm.com
-#[fullstory]
-0.0.0.0 connect.fullstory.com
-0.0.0.0 fullstory.com
-0.0.0.0 go.fullstory.com
-0.0.0.0 internal.fullstory.com
-0.0.0.0 internal.staging.fullstory.com
-0.0.0.0 prom.fullstory.com
-0.0.0.0 prometheus.fullstory.com
-0.0.0.0 prometheus.staging.fullstory.com
-0.0.0.0 r.fullstory.com
-0.0.0.0 r.staging.fullstory.com
-0.0.0.0 staging.fullstory.com
-#[bounceexchange]
+#[bounceexchange.com]
 0.0.0.0 api.bounceexchange.com
-0.0.0.0 api2.bounceexchange.com
-0.0.0.0 api-rackspace.bounceexchange.com
-0.0.0.0 behavioralautomationcouncil.bounceexchange.com
+0.0.0.0 assets.bounceexchange.com
 0.0.0.0 bounceexchange.com
 0.0.0.0 cnn.bounceexchange.com
-0.0.0.0 convert.bounceexchange.com
-0.0.0.0 core.bounceexchange.com
 0.0.0.0 events.bounceexchange.com
-0.0.0.0 get.bounceexchange.com
-0.0.0.0 inboxretargeting.bounceexchange.com
-0.0.0.0 looker.bounceexchange.com
 0.0.0.0 pixel.bounceexchange.com
-0.0.0.0 preflight.bounceexchange.com
 0.0.0.0 tag.bounceexchange.com
-0.0.0.0 tourneau.bounceexchange.com
-0.0.0.0 utils.bounceexchange.com
 0.0.0.0 www.bounceexchange.com
 #[steepto.com]
 0.0.0.0 a.steepto.com
@@ -3244,13 +3180,6 @@
 0.0.0.0 video-native.steepto.com
 0.0.0.0 wsp.steepto.com
 0.0.0.0 www.steepto.com
-#[appearch]
-0.0.0.0 appearch.info
-0.0.0.0 p4.appearch.info
-0.0.0.0 p5.appearch.info
-0.0.0.0 p6.appearch.info
-0.0.0.0 p7.appearch.info
-0.0.0.0 p8.appearch.info
 #[admedia.com]
 0.0.0.0 admedia.com
 0.0.0.0 adservices.picadmedia.com
@@ -3269,31 +3198,24 @@
 0.0.0.0 v.admedia.com
 0.0.0.0 vslider.admedia.com
 0.0.0.0 w.admedia.com
-#[shareaholic]
+#[shareaholic.com]
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 apps.shareaholic.com
-0.0.0.0 clickcdn.shareaholic.com
 0.0.0.0 cm.shareaholic.com
 0.0.0.0 d.shareaholic.com
 0.0.0.0 go.shareaholic.com
 0.0.0.0 grace.shareaholic.com
-0.0.0.0 howler.shareaholic.com
 0.0.0.0 partner.shareaholic.com
-0.0.0.0 recommendations.shareaholic.com
 0.0.0.0 recs.shareaholic.com
 0.0.0.0 shareaholic.com
 0.0.0.0 traffic.shareaholic.com
-0.0.0.0 v2.shareaholic.com
 0.0.0.0 www.shareaholic.com
 #[quantserve.com]
 0.0.0.0 ads.quantserve.com
 0.0.0.0 c.quantserve.com
 0.0.0.0 cms.quantserve.com
-0.0.0.0 content.quantserve.com
-0.0.0.0 dco.quantserve.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 exch.quantserve.com
-0.0.0.0 flash.quantserve.com
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 m.quantserve.com
 0.0.0.0 maxcdn.quantserve.com
