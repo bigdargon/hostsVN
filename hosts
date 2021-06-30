@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 29 Jun 2021 16:04 UTC+7
-# Version: 2106291604
-# Blocked: 17,414 domains
+# Last modified: 30 Jun 2021 14:01 UTC+7
+# Version: 2106301401
+# Blocked: 17,416 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -18097,6 +18097,7 @@
 0.0.0.0 ccgateway.net
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.promotionengine.com
+0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cedexis.com
 0.0.0.0 clerrrep.com
@@ -18108,6 +18109,7 @@
 0.0.0.0 cnzz.com
 0.0.0.0 cognitivlabs.com
 0.0.0.0 collect.igodigital.com
+0.0.0.0 collect.usefathom.com
 0.0.0.0 collector.apester.com
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector.unsplash.com
@@ -18196,6 +18198,7 @@
 0.0.0.0 ie8eamus.com
 0.0.0.0 ilogs.bytefence.com
 0.0.0.0 img.leadzutw.com
+0.0.0.0 img3.usefathom.com
 0.0.0.0 imp.pvnsolutions.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 inside-graph.com
@@ -18450,7 +18453,6 @@
 0.0.0.0 upapi.net
 0.0.0.0 uptolike.com
 0.0.0.0 usabilla.com
-0.0.0.0 usefathom.com
 0.0.0.0 usergrid.com
 0.0.0.0 users.quantumgraph.com
 0.0.0.0 usertrack.net

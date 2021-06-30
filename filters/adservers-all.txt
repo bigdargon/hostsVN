@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 29 Jun 2021 16:04 UTC+7
-! Version: 2106291604
-! Blocked: 6,395 rules
+! Last modified: 30 Jun 2021 14:01 UTC+7
+! Version: 2106301401
+! Blocked: 6,397 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5983,6 +5983,7 @@
 ||ccgateway.net^
 ||cdn.onesignal.com^
 ||cdn.promotionengine.com^
+||cdn.usefathom.com^
 ||cdn.viglink.com^
 ||cedexis.com^
 ||clerrrep.com^
@@ -5994,6 +5995,7 @@
 ||cnzz.com^
 ||cognitivlabs.com^
 ||collect.igodigital.com^
+||collect.usefathom.com^
 ||collector.apester.com^
 ||collector.leaddyno.com^
 ||collector.unsplash.com^
@@ -6082,6 +6084,7 @@
 ||ie8eamus.com^
 ||ilogs.bytefence.com^
 ||img.leadzutw.com^
+||img3.usefathom.com^
 ||imp.pvnsolutions.com^
 ||in.appcenter.ms^
 ||inside-graph.com^
@@ -6336,7 +6339,6 @@
 ||upapi.net^
 ||uptolike.com^
 ||usabilla.com^
-||usefathom.com^
 ||usergrid.com^
 ||users.quantumgraph.com^
 ||usertrack.net^
