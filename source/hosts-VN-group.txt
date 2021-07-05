@@ -1031,10 +1031,6 @@
 #[philacct.com]
 0.0.0.0 philacct.com
 0.0.0.0 static.philacct.com
-#[contineljs.com]
-0.0.0.0 contineljs.com
-0.0.0.0 defaultdsp.contineljs.com
-0.0.0.0 static.contineljs.com
 #[surfcountor.com]
 0.0.0.0 cdn.surfcountor.com
 0.0.0.0 ck.surfcountor.com
