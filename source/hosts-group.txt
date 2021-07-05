@@ -1896,12 +1896,10 @@
 0.0.0.0 trk.helios.ligatus.com
 0.0.0.0 www.ligatus.com
 0.0.0.0 x.ligatus.com
-#[loggly]
+#[loggly.com]
 0.0.0.0 loggly.com
-0.0.0.0 logs.loggly.com
 0.0.0.0 logs-01.loggly.com
-0.0.0.0 cloudfront.loggly.com
-0.0.0.0 tail.loggly.com
+0.0.0.0 logs.loggly.com
 0.0.0.0 www.loggly.com
 #[mparticle]
 0.0.0.0 admin.corp.mparticle.com
@@ -8830,20 +8828,10 @@
 0.0.0.0 www.proper.io
 #[ads.linkedin.com]
 0.0.0.0 ads.linkedin.com
-0.0.0.0 ap-southeast-1.dc.ads.linkedin.com
-0.0.0.0 ap-southeast-1.dc-dev.ads.linkedin.com
-0.0.0.0 ap-southeast-1.profile-api.ads.linkedin.com
 0.0.0.0 dc.ads.linkedin.com
-0.0.0.0 eu-west-1.dc.ads.linkedin.com
-0.0.0.0 eu-west-1.profile-api.ads.linkedin.com
-0.0.0.0 imp2.ads.linkedin.com
 0.0.0.0 itag.ads.linkedin.com
-0.0.0.0 profile-api.ads.linkedin.com
 0.0.0.0 px.ads.linkedin.com
-0.0.0.0 us-east-1.dc.ads.linkedin.com
-0.0.0.0 us-east-1.profile-api.ads.linkedin.com
-0.0.0.0 us-west-2.dc.ads.linkedin.com
-0.0.0.0 us-west-2.profile-api.ads.linkedin.com
+0.0.0.0 px4.ads.linkedin.com
 #[cignal.io]
 0.0.0.0 cdn.cignal.io
 0.0.0.0 cignal.io

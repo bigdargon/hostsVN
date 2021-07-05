@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Jun 2021 14:01 UTC+7
-! Version: 2106301401
-! Blocked: 891 rules
+! Last modified: 05 Jul 2021 11:08 UTC+7
+! Version: 2107051108
+! Blocked: 893 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -77,7 +77,6 @@
 ||clevernet.vn^
 ||clickbuy.bz^
 ||codon.vn^
-||contineljs.com^
 ||dable.io^
 ||donglogs.com^
 ||eclick.vn^
@@ -715,6 +714,7 @@
 ||fcb88d.com^
 ||five88.biz^
 ||five88.com^
+||five88.me^
 ||five88.net^
 ||fivevn.net^
 ||gamebai.club^
@@ -810,6 +810,7 @@
 ||taib52.club^
 ||taimacau.club^
 ||taiv8.com^
+||taiv8.info^
 ||tangsoc.com^
 ||thethaodabet.com^
 ||thethaofb88.com^
@@ -885,6 +886,7 @@
 ||irduwhojas.ga^
 ||kaurroot.com^
 ||larpollicwilli.club^
+||news-good.net^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
 ||smilitygorb.club^

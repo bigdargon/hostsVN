@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Jun 2021 14:01 UTC+7
-# Version: 2106301401
-# Blocked: 1,813 domains
+# Last modified: 05 Jul 2021 11:08 UTC+7
+# Version: 2107051108
+# Blocked: 1,811 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1043,10 +1043,6 @@
 #[philacct.com]
 0.0.0.0 philacct.com
 0.0.0.0 static.philacct.com
-#[contineljs.com]
-0.0.0.0 contineljs.com
-0.0.0.0 defaultdsp.contineljs.com
-0.0.0.0 static.contineljs.com
 #[surfcountor.com]
 0.0.0.0 cdn.surfcountor.com
 0.0.0.0 ck.surfcountor.com
@@ -1954,6 +1950,7 @@
 0.0.0.0 irduwhojas.ga
 0.0.0.0 kaurroot.com
 0.0.0.0 larpollicwilli.club
+0.0.0.0 news-good.net
 0.0.0.0 rituationscardb.info
 0.0.0.0 sacchaeleduk.com
 0.0.0.0 smilitygorb.club

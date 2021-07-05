@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Jun 2021 14:01 UTC+7
-# Version: 2106301401
-# Blocked: 17,416 domains
+# Last modified: 05 Jul 2021 11:08 UTC+7
+# Version: 2107051108
+# Blocked: 17,406 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1770,10 +1770,8 @@
 0 www.ligatus.com
 0 x.ligatus.com
 0 loggly.com
-0 logs.loggly.com
 0 logs-01.loggly.com
-0 cloudfront.loggly.com
-0 tail.loggly.com
+0 logs.loggly.com
 0 www.loggly.com
 0 admin.corp.mparticle.com
 0 config2.mparticle.com
@@ -8248,20 +8246,10 @@
 0 snopes.s1.proper.io
 0 www.proper.io
 0 ads.linkedin.com
-0 ap-southeast-1.dc.ads.linkedin.com
-0 ap-southeast-1.dc-dev.ads.linkedin.com
-0 ap-southeast-1.profile-api.ads.linkedin.com
 0 dc.ads.linkedin.com
-0 eu-west-1.dc.ads.linkedin.com
-0 eu-west-1.profile-api.ads.linkedin.com
-0 imp2.ads.linkedin.com
 0 itag.ads.linkedin.com
-0 profile-api.ads.linkedin.com
 0 px.ads.linkedin.com
-0 us-east-1.dc.ads.linkedin.com
-0 us-east-1.profile-api.ads.linkedin.com
-0 us-west-2.dc.ads.linkedin.com
-0 us-west-2.profile-api.ads.linkedin.com
+0 px4.ads.linkedin.com
 0 cdn.cignal.io
 0 cignal.io
 0 criteo.cignal.io
@@ -12193,9 +12181,6 @@
 0 static.sourcetobin.com
 0 philacct.com
 0 static.philacct.com
-0 contineljs.com
-0 defaultdsp.contineljs.com
-0 static.contineljs.com
 0 cdn.surfcountor.com
 0 ck.surfcountor.com
 0 cms.surfcountor.com
@@ -13036,6 +13021,7 @@
 0 irduwhojas.ga
 0 kaurroot.com
 0 larpollicwilli.club
+0 news-good.net
 0 rituationscardb.info
 0 sacchaeleduk.com
 0 smilitygorb.club
@@ -14040,6 +14026,7 @@
 0 appsflyer.club
 0 appsliving.com
 0 appsnack.com
+0 appstreamsb.xyz
 0 apptera.com
 0 appular.com
 0 aps.hearstnp.com
@@ -15166,6 +15153,7 @@
 0 jaduda.com
 0 jaftouja.net
 0 jaizouji.com
+0 jarvispopsu.com
 0 jatxt.com
 0 jcount.com
 0 jenicdntc.com
@@ -15397,6 +15385,7 @@
 0 microstatic.pl
 0 microticker.com
 0 midnightclicking.com
+0 midpopedge.com
 0 militaryverse.com
 0 mimilcnf.pro
 0 mindlytix.com
@@ -15754,6 +15743,7 @@
 0 player.kmpmedia.net
 0 playhaven.com
 0 playmobileads.com
+0 playwrightglancing.com
 0 plethoramobile.com
 0 plista.com
 0 plufdsb.com
@@ -16551,6 +16541,7 @@
 0 vervewireless.com
 0 vetdeberg.com
 0 vi-tag.net
+0 viamariller.com
 0 viaslyeve.club
 0 vibrantmedia.com
 0 vidcpm.com
@@ -17062,7 +17053,6 @@
 0 img.leadzutw.com
 0 img3.usefathom.com
 0 imp.pvnsolutions.com
-0 in.appcenter.ms
 0 inside-graph.com
 0 intake-analytics.wikimedia.org
 0 intent.cbsi.com
