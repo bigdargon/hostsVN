@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Jul 2021 11:08 UTC+7
-# Version: 2107051108
-# Blocked: 1,811 domains
+# Last modified: 06 Jul 2021 14:23 UTC+7
+# Version: 2107061423
+# Blocked: 1,813 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1627,6 +1627,7 @@
 0.0.0.0 cdnasset.dantri.com.vn
 0.0.0.0 chiasephim.xyz
 0.0.0.0 click-ads.saoteen.net
+0.0.0.0 click.vieon.vn
 0.0.0.0 clipbongda.info
 0.0.0.0 clix.vn
 0.0.0.0 core.vnecdn.com
@@ -1929,6 +1930,7 @@
 0.0.0.0 trk.123c.vn
 0.0.0.0 trk.staging.123c.vn
 0.0.0.0 userstats.shopee.vn
+0.0.0.0 vieon-tracking.vieon.vn
 0.0.0.0 vn.alexajstrack.com
 0.0.0.0 vtrack.vht.com.vn
 0.0.0.0 webpush.bizfly.vn

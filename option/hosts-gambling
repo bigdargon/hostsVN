@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 05 Jul 2021 11:08 UTC+7
-# Version: 2107051108
-# Blocked: 2,957 domains
+# Last modified: 06 Jul 2021 14:23 UTC+7
+# Version: 2107061423
+# Blocked: 2,967 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -725,6 +725,16 @@
 0.0.0.0 taiv8.info
 0.0.0.0 five88.me
 0.0.0.0 m.five88.me
+0.0.0.0 fb88cup.com
+0.0.0.0 www.fb88cup.com
+0.0.0.0 k8sport.com
+0.0.0.0 m.k8sport.com
+0.0.0.0 mobile.k8sport.com
+0.0.0.0 www.k8sport.com
+0.0.0.0 fb88max.com
+0.0.0.0 www.fb88max.com
+0.0.0.0 vz681.com
+0.0.0.0 www.vz681.com
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com

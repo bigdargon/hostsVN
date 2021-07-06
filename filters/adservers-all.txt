@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Jul 2021 11:08 UTC+7
-! Version: 2107051108
-! Blocked: 6,403 rules
+! Last modified: 06 Jul 2021 14:23 UTC+7
+! Version: 2107061423
+! Blocked: 6,417 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -351,6 +351,7 @@
 ||cdnasset.dantri.com.vn^
 ||chiasephim.xyz^
 ||click-ads.saoteen.net^
+||click.vieon.vn^
 ||clipbongda.info^
 ||clix.vn^
 ||core.vnecdn.com^
@@ -634,6 +635,7 @@
 ||trk.123c.vn^
 ||trk.staging.123c.vn^
 ||userstats.shopee.vn^
+||vieon-tracking.vieon.vn^
 ||vn.alexajstrack.com^
 ||vtrack.vht.com.vn^
 ||webpush.bizfly.vn^
@@ -702,9 +704,11 @@
 ||fb88.com^
 ||fb88.link^
 ||fb88club.com^
+||fb88cup.com^
 ||fb88en.com^
 ||fb88go.com^
 ||fb88live.com^
+||fb88max.com^
 ||fb88sports.com^
 ||fb88viet.com^
 ||fcb8.com^
@@ -737,6 +741,7 @@
 ||jboviet.com^
 ||jbovn.com^
 ||k8dl08.cc^
+||k8sport.com^
 ||k8vina17.com^
 ||k8vn03.com^
 ||keotot.net^
@@ -849,6 +854,7 @@
 ||vwinthethao.com^
 ||vx88.com^
 ||vx88e.com^
+||vz681.com^
 ||w388.com^
 ||w88.vin^
 ||w88bro.com^
@@ -999,6 +1005,7 @@
 ||adnetworktech.com^
 ||adnow.cc^
 ||adnow.com^
+||adnxs-simple.com^
 ||adnxs.com^
 ||adomik.com^
 ||adop.cc^
@@ -3228,6 +3235,7 @@
 ||avpa.javalobby.org^
 ||avres.net^
 ||avsads.com^
+||awaitcola.com^
 ||awempire.com^
 ||aweprt.com^
 ||awin1.com^
@@ -3801,6 +3809,7 @@
 ||doublepimpads.com^
 ||doubtfulrainstorm.com^
 ||downloadr.xyz^
+||dozubatan.com^
 ||dq95d35.com^
 ||drabsize.com^
 ||dragzebra.com^
@@ -4258,6 +4267,7 @@
 ||inringtone.com^
 ||insightexpress.com^
 ||inskinmedia.com^
+||insolencemanipulative.com^
 ||insomn.pro^
 ||inspectorclick.com^
 ||install.365-stream.com^
@@ -4981,6 +4991,7 @@
 ||pub.hardware.fr^
 ||pub.realmedia.fr^
 ||pub.trads.io^
+||pubaka5.com^
 ||pubdirecte.com^
 ||public.wedodemos.com^
 ||publicidad.elmundo.es^
@@ -5098,6 +5109,7 @@
 ||retargeter.com^
 ||retargetly.com^
 ||rev2pub.com^
+||revengemeantjackpot.com^
 ||revenue.net^
 ||revenuedirect.com^
 ||revmob.com^
@@ -5125,6 +5137,7 @@
 ||rocketfuel.com^
 ||roia.biz^
 ||rose.ixbt.com^
+||rot.spotsniper.ru^
 ||rotabanner.com^
 ||rotumal.com^
 ||roughexampler.info^
@@ -5144,6 +5157,7 @@
 ||rtk.io^
 ||ru-traffic.com^
 ||ru4.com^
+||rufflycouncil.com^
 ||runads.com^
 ||runbornto.com^
 ||rundsp.com^

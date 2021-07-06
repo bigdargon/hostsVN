@@ -4,6 +4,7 @@ udp_whitelist=53, 1024-65535
 
 [dns]
 no-system
+doh-server=https://dns.nextdns.io/
 server=8.8.8.8
 server=1.1.1.1
 server=45.90.28.0

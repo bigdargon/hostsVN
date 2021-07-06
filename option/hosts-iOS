@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Jul 2021 11:08 UTC+7
-# Version: 2107051108
-# Blocked: 17,406 domains
+# Last modified: 06 Jul 2021 14:23 UTC+7
+# Version: 2107061423
+# Blocked: 17,410 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1640,50 +1640,45 @@
 0 sweeney-elb.appboy.com
 0 acdn.adnxs.com
 0 adnxs.com
-0 ads.adnxs.com
-0 adstxt.adnxs.com
-0 adx.adnxs.com
-0 akamai.cdneval.adnxs.com
 0 ams1-ib.adnxs.com
 0 anycast.adnxs.com
 0 b.adnxs.com
 0 cdn.adnxs.com
-0 cdneval.adnxs.com
-0 cfengine.nym1.adnxs.com
-0 cib.adnxs.com
-0 cloudflare.cdneval.adnxs.com
-0 crcdn.adnxs.com
+0 crcdn01.adnxs.com
+0 crcdn09.adnxs.com
 0 dcdn.adnxs.com
-0 fastly.cdneval.adnxs.com
-0 fb-nym.adnxs.com
-0 g.adnxs.com
-0 gam.adnxs.com
-0 highwinds.cdneval.adnxs.com
 0 ib.adnxs.com
 0 ib.anycast.adnxs.com
-0 jp.adnxs.com
-0 jump.adnxs.com
+0 lax1-ib.adnxs.com
+0 lax1.ib.adnxs.com
+0 lib.adnxs.com
 0 m.adnxs.com
 0 m.anycast.adnxs.com
 0 mediation.adnxs.com
-0 mob.adnxs.com
 0 mobile.anycast.adnxs.com
-0 mp.adnxs.com
-0 openadid.adnxs.com
 0 p.adnxs.com
 0 prebid.adnxs.com
-0 proxy.adnxs.com
-0 photobucket.adnxs.com
 0 rb.adnxs.com
-0 sand.api.adnxs.com
+0 s.update.ib.adnxs.com
 0 secure.adnxs.com
-0 secure-ams.adnxs.com
-0 server.ib.adnxs.com
+0 sharethrough.adnxs.com
+0 sin1-ib.adnxs.com
+0 sin3-ib.adnxs.com
+0 t.update.ib.adnxs.com
 0 thunder.adnxs.com
+0 update.ib.adnxs.com
 0 vcdn.adnxs.com
-0 www.adnxs.com
-0 ym.adnxs.com
-0 ym-default.adnxs.com
+0 yj-a.p.adnxs.com
+0 yj.p.adnxs.com
+0 acdn.adnxs-simple.com
+0 adnxs-simple.com
+0 b.adnxs-simple.com
+0 cdn.adnxs-simple.com
+0 dcdn.adnxs-simple.com
+0 ib.adnxs-simple.com
+0 prebid.adnxs-simple.com
+0 rb.adnxs-simple.com
+0 vcdn.adnxs-simple.com
 0 batch.com
 0 www.batch.com
 0 api.batch.com
@@ -12700,6 +12695,7 @@
 0 cdnasset.dantri.com.vn
 0 chiasephim.xyz
 0 click-ads.saoteen.net
+0 click.vieon.vn
 0 clipbongda.info
 0 clix.vn
 0 core.vnecdn.com
@@ -13001,6 +12997,7 @@
 0 trk.123c.vn
 0 trk.staging.123c.vn
 0 userstats.shopee.vn
+0 vieon-tracking.vieon.vn
 0 vn.alexajstrack.com
 0 vtrack.vht.com.vn
 0 webpush.bizfly.vn
@@ -14081,6 +14078,7 @@
 0 avpa.javalobby.org
 0 avres.net
 0 avsads.com
+0 awaitcola.com
 0 awempire.com
 0 aweprt.com
 0 awin1.com
@@ -14653,6 +14651,7 @@
 0 doublepimpads.com
 0 doubtfulrainstorm.com
 0 downloadr.xyz
+0 dozubatan.com
 0 dq95d35.com
 0 drabsize.com
 0 dragzebra.com
@@ -15110,6 +15109,7 @@
 0 inringtone.com
 0 insightexpress.com
 0 inskinmedia.com
+0 insolencemanipulative.com
 0 insomn.pro
 0 inspectorclick.com
 0 install.365-stream.com
@@ -15830,6 +15830,7 @@
 0 pub.hardware.fr
 0 pub.realmedia.fr
 0 pub.trads.io
+0 pubaka5.com
 0 pubdirecte.com
 0 public.wedodemos.com
 0 publicidad.elmundo.es
@@ -15947,6 +15948,7 @@
 0 retargeter.com
 0 retargetly.com
 0 rev2pub.com
+0 revengemeantjackpot.com
 0 revenue.net
 0 revenuedirect.com
 0 revmob.com
@@ -15974,6 +15976,7 @@
 0 rocketfuel.com
 0 roia.biz
 0 rose.ixbt.com
+0 rot.spotsniper.ru
 0 rotabanner.com
 0 rotumal.com
 0 roughexampler.info
@@ -15993,6 +15996,7 @@
 0 rtk.io
 0 ru-traffic.com
 0 ru4.com
+0 rufflycouncil.com
 0 runads.com
 0 runbornto.com
 0 rundsp.com
