@@ -3369,22 +3369,6 @@
 0.0.0.0 whitelabel.media.net
 0.0.0.0 www.media.net
 0.0.0.0 yahoo.media.net
-#[optimizely.com]
-0.0.0.0 api.optimizely.com
-0.0.0.0 app.optimizely.com
-0.0.0.0 cdn.optimizely.com
-0.0.0.0 cdn3.optimizely.com
-0.0.0.0 client.optimizely.com
-0.0.0.0 errors.client.optimizely.com
-0.0.0.0 events.mobile.optimizely.com
-0.0.0.0 log.optimizely.com
-0.0.0.0 log3.optimizely.com
-0.0.0.0 odds.optimizely.com
-0.0.0.0 optimizely.com
-0.0.0.0 rum.optimizely.com
-0.0.0.0 tapi.optimizely.com
-0.0.0.0 vis.optimizely.com
-0.0.0.0 www.optimizely.com
 #[urbanairship]
 0.0.0.0 analyze.urbanairship.com
 0.0.0.0 api.urbanairship.com

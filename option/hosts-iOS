@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Jul 2021 14:23 UTC+7
-# Version: 2107061423
-# Blocked: 17,410 domains
+# Last modified: 07 Jul 2021 10:15 UTC+7
+# Version: 2107071015
+# Blocked: 17,397 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3147,21 +3147,6 @@
 0 whitelabel.media.net
 0 www.media.net
 0 yahoo.media.net
-0 api.optimizely.com
-0 app.optimizely.com
-0 cdn.optimizely.com
-0 cdn3.optimizely.com
-0 client.optimizely.com
-0 errors.client.optimizely.com
-0 events.mobile.optimizely.com
-0 log.optimizely.com
-0 log3.optimizely.com
-0 odds.optimizely.com
-0 optimizely.com
-0 rum.optimizely.com
-0 tapi.optimizely.com
-0 vis.optimizely.com
-0 www.optimizely.com
 0 analyze.urbanairship.com
 0 api.urbanairship.com
 0 boca.urbanairship.com
@@ -17091,6 +17076,7 @@
 0 log.kmplayer.com
 0 log.kuwo.cn
 0 log.mediation.onebooster.me
+0 log.optimizely.com
 0 log.quora.com
 0 log.snapdeal.com
 0 log.snow.me
@@ -17106,6 +17092,7 @@
 0 logs.ironsrc.mobi
 0 logs.spilgames.com
 0 logsss.com
+0 logx.optimizely.com
 0 loles.neostrada.pl
 0 mads.dailymail.co.uk
 0 maper.info
