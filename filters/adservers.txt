@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Jul 2021 10:15 UTC+7
-! Version: 2107071015
-! Blocked: 899 rules
+! Last modified: 08 Jul 2021 10:36 UTC+7
+! Version: 2107081036
+! Blocked: 900 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -279,6 +279,7 @@
 ||ads.phunuvagiadinh.vn^
 ||ads.songmoi.vn^
 ||ads.suckhoegiadinh.com.vn^
+||ads.thanhnien.vn^
 ||ads.thegioitiepthi.vn^
 ||ads.thesaigontimes.vn^
 ||ads.thitruongtaichinhtiente.vn^

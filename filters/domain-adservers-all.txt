@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 07 Jul 2021 10:15 UTC+7
-! Version: 2107071015
-! Blocked: 6,418 domains
+! Last modified: 08 Jul 2021 10:36 UTC+7
+! Version: 2107081036
+! Blocked: 6,411 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -277,6 +277,7 @@ ads.phunusuckhoe.vn
 ads.phunuvagiadinh.vn
 ads.songmoi.vn
 ads.suckhoegiadinh.com.vn
+ads.thanhnien.vn
 ads.thegioitiepthi.vn
 ads.thesaigontimes.vn
 ads.thitruongtaichinhtiente.vn
@@ -936,7 +937,6 @@ ad-exchange.toast.com
 ad-score.com
 ad-stir.com
 ad.daum.net
-ad.download.cnet.com
 ad.go.com
 ad.gt
 ad.intl.xiaomi.com
@@ -1031,7 +1031,6 @@ ads-sg.tiktok.com
 ads-twitter.com
 ads.*.yahoo.com
 ads.bing.com
-ads.cnet.com
 ads.cnn.com
 ads.gmodules.com
 ads.google.com
@@ -1040,7 +1039,6 @@ ads.heytapmobile.com
 ads.internal.unity3d.com
 ads.linkedin.com
 ads.msn.com
-ads.nytimes.com
 ads.oppomobile.com
 ads.pinterest.com
 ads.prd.ie.internal.unity3d.com
@@ -1097,7 +1095,6 @@ adtelligent.com
 adthor.com
 adthrive.com
 adtilt.com
-adtimes.nytimes.com
 adtlgc.com
 adtng.com
 adtrack.king.com
@@ -1687,7 +1684,6 @@ m-adash.m.taobao.com
 macaw.is
 mads*.amazon.com
 mads*z.com
-mads.cnet.com
 mahimeta.com
 mail-ads.google.com
 mainadv.com
@@ -1713,7 +1709,6 @@ mediafuse.com
 medialytics.com
 mediarithmics.com
 mediawayss.com
-meter-svc.nytimes.com
 metok.sys.miui.com
 metric-api.newrelic.com
 metrics-logger.spot.im
@@ -1793,7 +1788,6 @@ nr-data.net
 ns1p.net
 nsclick.baidu.com
 nxtck.com
-nytadvertising.nytimes.com
 o-s.io
 o333o.com
 objc.top
@@ -1919,8 +1913,6 @@ reklamstore.com
 rekmob.com
 relap.io
 remarketingpixel.com
-remotead-internal.cnet.com
-remotead.cnet.com
 report.appmetrica.yandex.net
 report.qq.com
 res-ad-kr.kajicam.com
@@ -4292,6 +4284,7 @@ iqm.com
 ireklama.cz
 irkfunkyformer.com
 irncdn.com
+ironsource.mobi
 ismtampsshad.icu
 itfarm.com
 itineraryupper.com

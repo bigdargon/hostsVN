@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Jul 2021 10:15 UTC+7
-# Version: 2107071015
-# Blocked: 1,813 domains
+# Last modified: 08 Jul 2021 10:36 UTC+7
+# Version: 2107081036
+# Blocked: 1,814 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1555,6 +1555,7 @@
 0.0.0.0 ads.phunuvagiadinh.vn
 0.0.0.0 ads.songmoi.vn
 0.0.0.0 ads.suckhoegiadinh.com.vn
+0.0.0.0 ads.thanhnien.vn
 0.0.0.0 ads.thegioitiepthi.vn
 0.0.0.0 ads.thesaigontimes.vn
 0.0.0.0 ads.thitruongtaichinhtiente.vn

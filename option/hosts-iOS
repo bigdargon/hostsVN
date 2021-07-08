@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Jul 2021 10:15 UTC+7
-# Version: 2107071015
-# Blocked: 17,397 domains
+# Last modified: 08 Jul 2021 10:36 UTC+7
+# Version: 2107081036
+# Blocked: 17,372 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3225,46 +3225,16 @@
 0 post.update.indexww.com
 0 s.update.indexww.com
 0 update.indexww.com
-0 ad.download.cnet.com
-0 adimg.cnet.com
-0 ads.cnet.com
-0 ct.cnet-ssa.cnet.com
-0 dw.cnet.com
-0 electronics.cnet.com
-0 mads.cnet.com
-0 remotead.cnet.com
-0 remotead-internal.cnet.com
-0 surveys.cnet.com
-0 urs.cnet.com
-0 ads.nytimes.com
-0 adtimes.nytimes.com
-0 et.nytimes.com
-0 geoip.newsdev.nytimes.com
-0 graphics7.nytimes.com
-0 images.nytimes.com
-0 meter-svc.nytimes.com
-0 nytadvertising.nytimes.com
-0 oas-fr.video.on.nytimes.com
-0 tagx.nytimes.com
-0 up.nytimes.com
-0 wt.o.nytimes.com
 0 ad.linksynergy.com
 0 ads.rd.linksynergy.com
-0 aftp.linksynergy.com
 0 amp.rd.linksynergy.com
+0 automate.linksynergy.com
 0 banner.linksynergy.com
 0 cli.linksynergy.com
 0 click.linksynergy.com
-0 ftp.linksynergy.com
+0 consent.linksynergy.com
 0 linksynergy.com
-0 m.banner.linksynergy.com
-0 m.www.linksynergy.com
-0 merchant.linksynergy.com
-0 mftp.linksynergy.com
 0 mproxy.banner.linksynergy.com
-0 r2.linksynergy.com
-0 ss.linksynergy.com
-0 ssl.linksynergy.com
 0 track.linksynergy.com
 0 cdnwidget.com
 0 ids.cdnwidget.com
@@ -3273,9 +3243,11 @@
 0 cintnetworks.com
 0 c.cintnetworks.com
 0 cint.com
+0 collector.cint.com
+0 qps.cint.com
 0 mmccint.com
 0 sf.mmccint.com
-0 controller-gateway.mmccint.com
+0 sfmon.mmccint.com
 0 3lift.com
 0 amp.3lift.com
 0 an.3lift.com
@@ -12608,6 +12580,7 @@
 0 ads.phunuvagiadinh.vn
 0 ads.songmoi.vn
 0 ads.suckhoegiadinh.com.vn
+0 ads.thanhnien.vn
 0 ads.thegioitiepthi.vn
 0 ads.thesaigontimes.vn
 0 ads.thitruongtaichinhtiente.vn
@@ -15122,6 +15095,7 @@
 0 ireklama.cz
 0 irkfunkyformer.com
 0 irncdn.com
+0 ironsource.mobi
 0 ismtampsshad.icu
 0 itfarm.com
 0 itineraryupper.com
@@ -16708,6 +16682,7 @@
 0 www.hgzuqrtzt.com
 0 www.hkoxlirf.com
 0 www.increaserev.com
+0 www.ironsource.mobi
 0 www.joeyzzvkpjha.com
 0 www.kaplanindex.com
 0 www.ketchapp.org

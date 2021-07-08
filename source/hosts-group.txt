@@ -3451,62 +3451,34 @@
 0.0.0.0 post.update.indexww.com
 0.0.0.0 s.update.indexww.com
 0.0.0.0 update.indexww.com
-#[cnet]
-0.0.0.0 ad.download.cnet.com
-0.0.0.0 adimg.cnet.com
-0.0.0.0 ads.cnet.com
-0.0.0.0 ct.cnet-ssa.cnet.com
-0.0.0.0 dw.cnet.com
-0.0.0.0 electronics.cnet.com
-0.0.0.0 mads.cnet.com
-0.0.0.0 remotead.cnet.com
-0.0.0.0 remotead-internal.cnet.com
-0.0.0.0 surveys.cnet.com
-0.0.0.0 urs.cnet.com
-#[nytimes]
-0.0.0.0 ads.nytimes.com
-0.0.0.0 adtimes.nytimes.com
-0.0.0.0 et.nytimes.com
-0.0.0.0 geoip.newsdev.nytimes.com
-0.0.0.0 graphics7.nytimes.com
-0.0.0.0 images.nytimes.com
-0.0.0.0 meter-svc.nytimes.com
-0.0.0.0 nytadvertising.nytimes.com
-0.0.0.0 oas-fr.video.on.nytimes.com
-0.0.0.0 tagx.nytimes.com
-0.0.0.0 up.nytimes.com
-0.0.0.0 wt.o.nytimes.com
-#[linksynergy]
+#[linksynergy.com]
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ads.rd.linksynergy.com
-0.0.0.0 aftp.linksynergy.com
 0.0.0.0 amp.rd.linksynergy.com
+0.0.0.0 automate.linksynergy.com
 0.0.0.0 banner.linksynergy.com
 0.0.0.0 cli.linksynergy.com
 0.0.0.0 click.linksynergy.com
-0.0.0.0 ftp.linksynergy.com
+0.0.0.0 consent.linksynergy.com
 0.0.0.0 linksynergy.com
-0.0.0.0 m.banner.linksynergy.com
-0.0.0.0 m.www.linksynergy.com
-0.0.0.0 merchant.linksynergy.com
-0.0.0.0 mftp.linksynergy.com
 0.0.0.0 mproxy.banner.linksynergy.com
-0.0.0.0 r2.linksynergy.com
-0.0.0.0 ss.linksynergy.com
-0.0.0.0 ssl.linksynergy.com
 0.0.0.0 track.linksynergy.com
 #[cdnwidget]
 0.0.0.0 cdnwidget.com
 0.0.0.0 ids.cdnwidget.com
 0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 u.cdnwidget.com
-#[cintnetworks]
+#[cintnetworks.com]
 0.0.0.0 cintnetworks.com
 0.0.0.0 c.cintnetworks.com
+#[cint.com]
 0.0.0.0 cint.com
+0.0.0.0 collector.cint.com
+0.0.0.0 qps.cint.com
+#[mmccint.com]
 0.0.0.0 mmccint.com
 0.0.0.0 sf.mmccint.com
-0.0.0.0 controller-gateway.mmccint.com
+0.0.0.0 sfmon.mmccint.com
 #[3lift.com]
 0.0.0.0 3lift.com
 0.0.0.0 amp.3lift.com
