@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Jul 2021 10:36 UTC+7
-# Version: 2107081036
-# Blocked: 17,372 domains
+# Last modified: 09 Jul 2021 10:14 UTC+7
+# Version: 2107091014
+# Blocked: 17,378 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11177,6 +11177,12 @@
 0 event.tradplusad.com
 0 tradplusad.com
 0 www.tradplusad.com
+0 api.geniee.jp
+0 cpt.geniee.jp
+0 geniee.jp
+0 other.geniee.jp
+0 s.geniee.jp
+0 www.geniee.jp
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
