@@ -2152,42 +2152,22 @@
 0.0.0.0 pixel.alexametrics.com
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
-#[adcolony]
+#[adcolony.com]
 0.0.0.0 adc3-assets.adcolony.com
-0.0.0.0 adc3-assets-enc-cdn.adcolony.com
+0.0.0.0 adc3-launch-staging.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcolony.com
-0.0.0.0 ads20.adcolony.com
-0.0.0.0 ads30.adcolony.com
-0.0.0.0 advevents20.adcolony.com
 0.0.0.0 alpha-assets.adcolony.com
 0.0.0.0 androidads20.adcolony.com
 0.0.0.0 androidads21.adcolony.com
 0.0.0.0 androidads23.adcolony.com
-0.0.0.0 androidads30.adcolony.com
 0.0.0.0 c4d-cdn.adcolony.com
+0.0.0.0 c4dm.adcolony.com
 0.0.0.0 clients.adcolony.com
-0.0.0.0 clients-alpha.adcolony.com
-0.0.0.0 clients-api.adcolony.com
-0.0.0.0 clients-redux.adcolony.com
-0.0.0.0 clients-staging.adcolony.com
-0.0.0.0 composer.adcolony.com
 0.0.0.0 cpa.adcolony.com
-0.0.0.0 de.adcolony.com
-0.0.0.0 demo.adcolony.com
-0.0.0.0 dev.adcolony.com
-0.0.0.0 director.adcolony.com
-0.0.0.0 events3.adcolony.com
-0.0.0.0 events3alt.adcolony.com
-0.0.0.0 eventsalt30.adcolony.com
-0.0.0.0 iosads20.adcolony.com
 0.0.0.0 iosads22.adcolony.com
 0.0.0.0 iosads24.adcolony.com
-0.0.0.0 pie.adcolony.com
-0.0.0.0 rma.adcolony.com
 0.0.0.0 rtb.adcolony.com
-0.0.0.0 rtb-trk.adcolony.com
-0.0.0.0 securev4vcapi.adcolony.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 www.adcolony.com
 #[adsafeprotected.com]
@@ -2881,39 +2861,26 @@
 0.0.0.0 js.fout.jp
 0.0.0.0 js.rfp.fout.jp
 0.0.0.0 sync.fout.jp
-#[supersonicads]
-0.0.0.0 ads.supersonicads.com
-0.0.0.0 api.supersonicads.com
-0.0.0.0 banners.supersonicads.com
+#[supersonicads.com]
+0.0.0.0 banner-gateway.supersonicads.com
 0.0.0.0 click-haproxy.supersonicads.com
-0.0.0.0 custom.supersonicads.com
-0.0.0.0 custom2.supersonicads.com
-0.0.0.0 delivery.supersonicads.com
-0.0.0.0 dev8.supersonicads.com
-0.0.0.0 developers.supersonicads.com
-0.0.0.0 gateway.supersonicads.com
+0.0.0.0 guc-api.sonic-us.supersonicads.com
+0.0.0.0 iab-imp-gateway.supersonicads.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 is-gateway.supersonicads.com
-0.0.0.0 jsd.supersonicads.com
-0.0.0.0 kibana.sonic-us.supersonicads.com
-0.0.0.0 na-gateway.supersonicads.com
 0.0.0.0 nativeapi.supersonicads.com
+0.0.0.0 outcome-cdn.supersonicads.com
+0.0.0.0 outcome-crash-report.supersonicads.com
+0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 outcome.supersonicads.com
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 pixel-tracking.sonic-us.supersonicads.com
-0.0.0.0 pub-api.supersonicads.com
-0.0.0.0 ris-gateway.supersonicads.com
+0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 rv-gateway.supersonicads.com
-0.0.0.0 s.supersonicads.com
-0.0.0.0 s2s-tracking.sonic-us.supersonicads.com
-0.0.0.0 sonic-dev.supersonicads.com
 0.0.0.0 sonic-us.supersonicads.com
-0.0.0.0 ssl.supersonicads.com
-0.0.0.0 static.supersonicads.com
+0.0.0.0 staging-sspjs.supersonicads.com
 0.0.0.0 supersonicads.com
-0.0.0.0 td-click.sonic-us.supersonicads.com
-0.0.0.0 td-click-haproxy.supersonicads.com
-0.0.0.0 track.supersonicads.com
+0.0.0.0 tagmediation.supersonicads.com
 0.0.0.0 ua.supersonicads.com
 0.0.0.0 www.supersonicads.com
 #[pub.network]
@@ -12207,3 +12174,37 @@
 0.0.0.0 pre-adui.tg.meitu.com
 0.0.0.0 rabbit.tg.meitu.com
 0.0.0.0 tg.meitu.com
+#[mfadsrvr.com]
+0.0.0.0 mfadsrvr.com
+0.0.0.0 rtb-use.mfadsrvr.com
+0.0.0.0 rtb-usw.mfadsrvr.com
+0.0.0.0 rtb.mfadsrvr.com
+#[liftoff.io]
+0.0.0.0 adexp.liftoff.io
+0.0.0.0 build-cdn.liftoff.io
+0.0.0.0 cdn.liftoff.io
+0.0.0.0 click.liftoff.io
+0.0.0.0 events.liftoff.io
+0.0.0.0 impression-asia.liftoff.io
+0.0.0.0 impression-east.liftoff.io
+0.0.0.0 impression-europe.liftoff.io
+0.0.0.0 liftoff.io
+#[impactserving.com]
+0.0.0.0 impactserving.com
+0.0.0.0 cdn.impactserving.com
+0.0.0.0 m2.impactserving.com
+#[mellowads.com]
+0.0.0.0 banners.mellowads.com
+0.0.0.0 mellowads.com
+0.0.0.0 s1.mellowads.com
+0.0.0.0 s2.mellowads.com
+0.0.0.0 s3.mellowads.com
+0.0.0.0 tracking.mellowads.com
+0.0.0.0 www.mellowads.com
+#[adxplay.com]
+0.0.0.0 adxplay.com
+0.0.0.0 api-hw.adxplay.com
+0.0.0.0 asset.adxplay.com
+0.0.0.0 res.adxplay.com
+0.0.0.0 static-res.adxplay.com
+0.0.0.0 www.adxplay.com

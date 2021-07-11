@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Jul 2021 10:14 UTC+7
-! Version: 2107091014
-! Blocked: 900 rules
+! Last modified: 11 Jul 2021 19:13 UTC+7
+! Version: 2107111913
+! Blocked: 909 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -64,6 +64,7 @@
 ||bidgear-syndication.com^
 ||bidgear.com^
 ||blogstatistics.sapoapps.vn^
+||bongdadem.net^
 ||brand.zing.vn^
 ||bwstatistics.sapoapps.vn^
 ||cdn-qc.coccoc.com^
@@ -348,7 +349,6 @@
 ||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
 ||cdn-bongdadem-net.cdn.ampproject.org^
-||cdn.bongdadem.net^
 ||cdnasset.dantri.com.vn^
 ||chiasephim.xyz^
 ||click-ads.saoteen.net^
@@ -675,6 +675,7 @@
 ||8live.com^
 ||8live.fun^
 ||8live.net^
+||8live.top^
 ||8live.vip^
 ||8livevn.com^
 ||aa88.in^
@@ -696,6 +697,8 @@
 ||casino888vn.com^
 ||datcuoc247.com^
 ||debet.com^
+||dfchoingay.com^
+||eurofun88.com^
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
@@ -734,12 +737,14 @@
 ||goal68.top^
 ||goal86.top^
 ||h3bet.com^
+||happynb.com^
 ||hotlive8.vip^
 ||ibet889.com^
 ||income88.com^
 ||interwinvn.com^
 ||jbo064.com^
 ||jboviet.com^
+||jbovietnam.com^
 ||jbovn.com^
 ||k8dl08.cc^
 ||k8sport.com^
@@ -797,6 +802,7 @@
 ||qq8788viet.com^
 ||r88.vn^
 ||red88.com^
+||red88.uk^
 ||ric.win^
 ||rik.vip^
 ||rik.win^
@@ -818,6 +824,7 @@
 ||taiv8.com^
 ||taiv8.info^
 ||tangsoc.com^
+||tf88v.com^
 ||thethaodabet.com^
 ||thethaofb88.com^
 ||thethaovip.vip^
@@ -830,6 +837,7 @@
 ||trungso.vip^
 ||uw88vnd.com^
 ||v7ac.com^
+||v7king.com^
 ||v8.club^
 ||v9bet.com^
 ||v9jvn.com^
@@ -877,6 +885,7 @@
 ||zbet.com^
 ||zbet.vn^
 ||zbet.win^
+||zbetvn.com^
 ||zo.club^
 ||zo.game^
 ||zowinvn.vip^

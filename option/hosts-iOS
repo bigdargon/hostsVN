@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Jul 2021 10:14 UTC+7
-# Version: 2107091014
-# Blocked: 17,378 domains
+# Last modified: 11 Jul 2021 19:13 UTC+7
+# Version: 2107111913
+# Blocked: 17,456 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1998,40 +1998,20 @@
 0 d31qbv1cthcecs.cloudfront.net
 0 d5nxst8fruw4z.cloudfront.net
 0 adc3-assets.adcolony.com
-0 adc3-assets-enc-cdn.adcolony.com
+0 adc3-launch-staging.adcolony.com
 0 adc3-launch.adcolony.com
 0 adcolony.com
-0 ads20.adcolony.com
-0 ads30.adcolony.com
-0 advevents20.adcolony.com
 0 alpha-assets.adcolony.com
 0 androidads20.adcolony.com
 0 androidads21.adcolony.com
 0 androidads23.adcolony.com
-0 androidads30.adcolony.com
 0 c4d-cdn.adcolony.com
+0 c4dm.adcolony.com
 0 clients.adcolony.com
-0 clients-alpha.adcolony.com
-0 clients-api.adcolony.com
-0 clients-redux.adcolony.com
-0 clients-staging.adcolony.com
-0 composer.adcolony.com
 0 cpa.adcolony.com
-0 de.adcolony.com
-0 demo.adcolony.com
-0 dev.adcolony.com
-0 director.adcolony.com
-0 events3.adcolony.com
-0 events3alt.adcolony.com
-0 eventsalt30.adcolony.com
-0 iosads20.adcolony.com
 0 iosads22.adcolony.com
 0 iosads24.adcolony.com
-0 pie.adcolony.com
-0 rma.adcolony.com
 0 rtb.adcolony.com
-0 rtb-trk.adcolony.com
-0 securev4vcapi.adcolony.com
 0 wd.adcolony.com
 0 www.adcolony.com
 0 adsafeprotected.com
@@ -2686,38 +2666,25 @@
 0 js.fout.jp
 0 js.rfp.fout.jp
 0 sync.fout.jp
-0 ads.supersonicads.com
-0 api.supersonicads.com
-0 banners.supersonicads.com
+0 banner-gateway.supersonicads.com
 0 click-haproxy.supersonicads.com
-0 custom.supersonicads.com
-0 custom2.supersonicads.com
-0 delivery.supersonicads.com
-0 dev8.supersonicads.com
-0 developers.supersonicads.com
-0 gateway.supersonicads.com
+0 guc-api.sonic-us.supersonicads.com
+0 iab-imp-gateway.supersonicads.com
 0 init.supersonicads.com
 0 is-gateway.supersonicads.com
-0 jsd.supersonicads.com
-0 kibana.sonic-us.supersonicads.com
-0 na-gateway.supersonicads.com
 0 nativeapi.supersonicads.com
+0 outcome-cdn.supersonicads.com
+0 outcome-crash-report.supersonicads.com
+0 outcome-ssp.supersonicads.com
 0 outcome.supersonicads.com
 0 ow-gateway.supersonicads.com
 0 pixel-tracking.sonic-us.supersonicads.com
-0 pub-api.supersonicads.com
-0 ris-gateway.supersonicads.com
+0 pm-gateway.supersonicads.com
 0 rv-gateway.supersonicads.com
-0 s.supersonicads.com
-0 s2s-tracking.sonic-us.supersonicads.com
-0 sonic-dev.supersonicads.com
 0 sonic-us.supersonicads.com
-0 ssl.supersonicads.com
-0 static.supersonicads.com
+0 staging-sspjs.supersonicads.com
 0 supersonicads.com
-0 td-click.sonic-us.supersonicads.com
-0 td-click-haproxy.supersonicads.com
-0 track.supersonicads.com
+0 tagmediation.supersonicads.com
 0 ua.supersonicads.com
 0 www.supersonicads.com
 0 a.pub.network
@@ -11183,6 +11150,74 @@
 0 other.geniee.jp
 0 s.geniee.jp
 0 www.geniee.jp
+0 az.tomrigdabih.com
+0 tomrigdabih.com
+0 adm.admixer.com
+0 admixer.com
+0 cdn.adm.admixer.com
+0 ipds.adm.admixer.com
+0 ipv6.adm.admixer.com
+0 pix.adm.admixer.com
+0 www.admixer.com
+0 adview.com
+0 bid.adview.com
+0 ghkbid.adview.com
+0 gusabid.adview.com
+0 gzjkbid.adview.com
+0 hkbid.adview.com
+0 img.adview.com
+0 report.adview.com
+0 track.adview.com
+0 webfile.adview.com
+0 www.adview.com
+0 ads.atomex.net
+0 ar.atomex.net
+0 arg.atomex.net
+0 atomex.net
+0 cdn.atomex.net
+0 data.atomex.net
+0 pxs.atomex.net
+0 res.atomex.net
+0 sync.atomex.net
+0 trk.atomex.net
+0 click.meitustat.com
+0 dc.meitustat.com
+0 meitustat.com
+0 rabbit.meitustat.com
+0 www.meitustat.com
+0 adui.tg.meitu.com
+0 pre-adui.tg.meitu.com
+0 rabbit.tg.meitu.com
+0 tg.meitu.com
+0 mfadsrvr.com
+0 rtb-use.mfadsrvr.com
+0 rtb-usw.mfadsrvr.com
+0 rtb.mfadsrvr.com
+0 adexp.liftoff.io
+0 build-cdn.liftoff.io
+0 cdn.liftoff.io
+0 click.liftoff.io
+0 events.liftoff.io
+0 impression-asia.liftoff.io
+0 impression-east.liftoff.io
+0 impression-europe.liftoff.io
+0 liftoff.io
+0 impactserving.com
+0 cdn.impactserving.com
+0 m2.impactserving.com
+0 banners.mellowads.com
+0 mellowads.com
+0 s1.mellowads.com
+0 s2.mellowads.com
+0 s3.mellowads.com
+0 tracking.mellowads.com
+0 www.mellowads.com
+0 adxplay.com
+0 api-hw.adxplay.com
+0 asset.adxplay.com
+0 res.adxplay.com
+0 static-res.adxplay.com
+0 www.adxplay.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -12522,6 +12557,10 @@
 0 wss.omarketer.viettelpost.vn
 0 adconnect.vn
 0 static.adconnect.vn
+0 api.bongdadem.net
+0 bongdadem.net
+0 cdn.bongdadem.net
+0 www.bongdadem.net
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
 0 ad-admin.vnay.vn
@@ -12655,7 +12694,6 @@
 0 boxpr.aiservice.vn
 0 cdn-ads.thesaigontimes.vn
 0 cdn-bongdadem-net.cdn.ampproject.org
-0 cdn.bongdadem.net
 0 cdnasset.dantri.com.vn
 0 chiasephim.xyz
 0 click-ads.saoteen.net
@@ -14055,6 +14093,7 @@
 0 b-1st.com
 0 b4psads.com
 0 b91vip.com
+0 baaomenaltho.com
 0 babs.tv2.dk
 0 backbeatmedia.com
 0 balancebreath.com
@@ -14418,6 +14457,7 @@
 0 coinhive.com
 0 cointraffic.io
 0 colonize.com
+0 comasoiling.casa
 0 comboapp.com
 0 comclick.com
 0 comece-a-negociar.com
@@ -14524,9 +14564,12 @@
 0 cyberbounty.com
 0 cybermonitor.com
 0 d.appsdt.com
+0 d11enq2rymy0yl.cloudfront.net
 0 d18t35yyry2k49.cloudfront.net
 0 d2cmedia.ca
+0 d2j042cj1421wi.cloudfront.net
 0 d3cod80thn7qnd.cloudfront.net
+0 d3mr7y154d2qg5.cloudfront.net
 0 d3mzokty951c5w.cloudfront.net
 0 dads.wedobest.com.cn
 0 dadslims.com
@@ -14565,6 +14608,7 @@
 0 deloton.com
 0 demdex.net
 0 denetsuk.com
+0 depirsmandk5.com
 0 desertedbreath.com
 0 desertedrat.com
 0 detailedglue.com
@@ -14662,6 +14706,7 @@
 0 edge.mdcgate.com
 0 edgeio.com
 0 edublog.pw
+0 edxlewni.com
 0 eelfadechi.com
 0 effectivemeasure.com
 0 efficaciouscactus.com
@@ -14897,6 +14942,7 @@
 0 grapeshot.co.uk
 0 graxarosi.pro
 0 green.erne.co
+0 greenplasticdua.com
 0 greetzebra.com
 0 greyinstrument.com
 0 greystripe.com
@@ -14919,6 +14965,7 @@
 0 harrenmedia.com
 0 harrenmedianetwork.com
 0 havamedia.net
+0 hawkyeye5ssnd.com
 0 healthyoffers.com
 0 heap.com
 0 heeteefu.com
@@ -14979,6 +15026,7 @@
 0 hoverowl.com
 0 howdoesin.net
 0 howtubray.com
+0 hqvwniado.com
 0 httpool.com
 0 hubzozo.com
 0 humandemand.com
@@ -15083,6 +15131,7 @@
 0 instrumentsponge.com
 0 intelliads.com
 0 intellilinks.com
+0 intellipopup.com
 0 intellitxt.com
 0 intergi.com
 0 internalads.gammae.com
@@ -15094,6 +15143,7 @@
 0 inventionpassenger.com
 0 inviterabbits.com
 0 invitesugar.com
+0 ipmbnqqaon.com
 0 ipredictive.com
 0 ipro.com
 0 ipromote.com
@@ -15108,6 +15158,7 @@
 0 itnuzleafan.com
 0 itop.cz
 0 itsptp.com
+0 ivfihumeajjmbc.com
 0 ivwbox.de
 0 ivykiosk.com
 0 ivypixel.com
@@ -15224,6 +15275,7 @@
 0 logger.snackly.co
 0 logs.roku.com
 0 logua.com
+0 lokinatoer5.com
 0 lologhfd.com
 0 longinglettuce.com
 0 loopme.biz
@@ -15325,7 +15377,7 @@
 0 megawerbung.de
 0 meglanatha.pro
 0 mehebborc.com
-0 mellowads.com
+0 mellowads.b-cdn.net
 0 meltdsp.com
 0 memeglobal.com
 0 memorizeneck.com
@@ -15362,6 +15414,7 @@
 0 miva.com
 0 mixedreading.com
 0 mixtraffic.com
+0 mjlpqbklxgt.com
 0 mjxads.internet.com
 0 mlm.de
 0 mmaglobal.com
@@ -15747,6 +15800,7 @@
 0 precisioncounter.com
 0 predictad.com
 0 premium-offers.com
+0 premiumvertising.com
 0 presbanise.pw
 0 preservemountain.com
 0 presetrabbits.com
@@ -15968,6 +16022,7 @@
 0 rusenov.com
 0 ruthlessrobin.com
 0 ruwertur.com
+0 rvedfxeljxo.com
 0 s2d6.com
 0 sageanalyst.net
 0 sailif.com
@@ -16135,6 +16190,7 @@
 0 spywarelabs.com
 0 spywarenuker.com
 0 spywords.com
+0 sqhneencmysrk.com
 0 squarebirdie.com
 0 squeezedthoughtfully.com
 0 squirrelhands.com
@@ -16227,6 +16283,7 @@
 0 supertop.ru
 0 supertop100.com
 0 surfmusik-adserver.de
+0 sviter2s1olenyami1.com
 0 swan-swan-goose.com
 0 swimslope.com
 0 swissadsolutions.com
@@ -16290,6 +16347,7 @@
 0 text-link-ads.com
 0 textads.biz
 0 textlinks.com
+0 tgvbwjbnxz.com
 0 tgzobwoutuwn.com
 0 tharbadir.com
 0 theadex.com
@@ -16428,6 +16486,7 @@
 0 trumpia.com
 0 trustaffs.com
 0 trustednotice.news
+0 ttgmjfgldgv9ed10.com
 0 tubecup.net
 0 tubedspots.com
 0 tubemogul.com
@@ -16608,6 +16667,7 @@
 0 widget.privy.com
 0 widgetbucks.com
 0 widgets.coinmarketcap.com
+0 widow5blackfr.com
 0 wikia-ads.wikia.com
 0 window.nixnet.cz
 0 wirecomic.com
@@ -16673,6 +16733,7 @@
 0 www.doubleclickbygoogle.com
 0 www.dynamicadx.com
 0 www.ecpms.net
+0 www.edxlewni.com
 0 www.emjcd.com
 0 www.eo62cocntx.com
 0 www.epi0tzwi.com
@@ -16687,8 +16748,12 @@
 0 www.groupm.com
 0 www.hgzuqrtzt.com
 0 www.hkoxlirf.com
+0 www.hqvwniado.com
 0 www.increaserev.com
+0 www.intellipopup.com
+0 www.ipmbnqqaon.com
 0 www.ironsource.mobi
+0 www.ivfihumeajjmbc.com
 0 www.joeyzzvkpjha.com
 0 www.kaplanindex.com
 0 www.ketchapp.org
@@ -16700,6 +16765,7 @@
 0 www.maxonclick.com
 0 www.mczahprdql.com
 0 www.meglanatha.pro
+0 www.mjlpqbklxgt.com
 0 www.mobzeg.com
 0 www.money4exit.de
 0 www.moneymakercdn.com
@@ -16715,15 +16781,19 @@
 0 www.phoossax.net
 0 www.photo-ads.co.uk
 0 www.powerad.ai
+0 www.premiumvertising.com
 0 www.pro-ads.club
 0 www.propu.sh
 0 www.prownl.com
 0 www.push-notifications.top
 0 www.routeserve.info
+0 www.rvedfxeljxo.com
 0 www.servsave.com
 0 www.shndrktrk.com
+0 www.sqhneencmysrk.com
 0 www.statsy.net
 0 www.tagbom.com
+0 www.tgvbwjbnxz.com
 0 www.tgzobwoutuwn.com
 0 www.theweblocker.net
 0 www.trafyield.com
@@ -16738,6 +16808,9 @@
 0 www.videosprofitnetwork.com
 0 www.weborama.com
 0 www.webtrendslive.com
+0 www.xadsmart.com
+0 www.xpbbyiqbcawamy.com
+0 www.ylicxdkgkvfc.com
 0 www.zap.buzz
 0 www.zarpop.com
 0 www.zekiatagur.com
@@ -16745,6 +16818,7 @@
 0 wyjimapsi.pro
 0 x-traceur.com
 0 xad.com
+0 xadsmart.com
 0 xchange.ro
 0 xclicks.net
 0 xertive.com
@@ -16752,6 +16826,7 @@
 0 xiti.com
 0 xius.com
 0 xovq5nemr.com
+0 xpbbyiqbcawamy.com
 0 xplosion.de
 0 xplusone.com
 0 xponsor.com
@@ -16777,6 +16852,7 @@
 0 yieldmo.com
 0 yieldoptimizer.com
 0 yieldtraffic.com
+0 ylicxdkgkvfc.com
 0 ymetrica1.com
 0 yoc-adserver.com
 0 yoc-performance.com
@@ -16856,7 +16932,6 @@
 0 analytics.icons8.com
 0 analytics.ihbsoft.com
 0 analytics.jabong.com
-0 analytics.liftoff.io
 0 analytics.lk.api.ditto.com
 0 analytics.logsss.com
 0 analytics.mailmunch.co
@@ -16926,6 +17001,7 @@
 0 clerrrep.com
 0 cleverpush.com
 0 client-analytics.braintreegateway.com
+0 cloudcollect.meitudata.com
 0 cmp.dmgmediaprivacy.co.uk
 0 cnt.xhamster.com
 0 cnt.xhamster.one
@@ -17047,7 +17123,6 @@
 0 lem-computers.net
 0 lfeeder.com
 0 lgglobal.ihago.net
-0 liftoff.io
 0 log-eap-sg.coloros.com
 0 log.aliyuncs.com
 0 log.apk.v-mate.mobi
@@ -17205,6 +17280,7 @@
 0 ssm.codes
 0 sstats.adobe.com
 0 stat.hackedonlinegames.com
+0 stat.meitudata.com
 0 stathat.com
 0 static.intentarget.com
 0 static.leaddyno.com
@@ -17247,6 +17323,7 @@
 0 track.hubspot.com
 0 track.mobgc.com
 0 track.omg543.com
+0 track.pricespider.com
 0 track.saygames.io
 0 track.sohu.com
 0 track.td3x.com
@@ -17256,6 +17333,7 @@
 0 trackcmp.net
 0 tracker.affirm.com
 0 tracker.arc.io
+0 tracker.cpmdata.net
 0 tracker.idocdn.com
 0 tracker.toolpg.com
 0 tracker.vgame.us
