@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Jul 2021 19:13 UTC+7
-# Version: 2107111913
-# Blocked: 17,456 domains
+# Last modified: 11 Jul 2021 20:26 UTC+7
+# Version: 2107112026
+# Blocked: 17,442 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1311,11 +1311,12 @@
 0 wootric.com
 0 www-staging.wootric.com
 0 www.wootric.com
-0 api.mixpanel.com
 0 api-compatible.mixpanel.com
 0 api-secure.mixpanel.com
+0 api.mixpanel.com
 0 code.mixpanel.com
 0 data.mixpanel.com
+0 decide.mixpanel.com
 0 mixpanel.com
 0 resources.mixpanel.com
 0 share.mixpanel.com
@@ -1887,9 +1888,9 @@
 0 d.applvn.com
 0 ms.applvn.com
 0 rt.applvn.com
-0 appodealx.com
+0 api-us.appodealx.com
 0 api.appodealx.com
-0 tracker.appodealx.com
+0 appodealx.com
 0 www.appodealx.com
 0 a.chartboost.com
 0 a2.chartboost.com
@@ -2768,32 +2769,14 @@
 0 taplytics.com
 0 wpengine.taplytics.com
 0 www.taplytics.com
-0 amplify.amplitude.com
 0 amplitude.com
 0 analytics.amplitude.com
 0 api.amplitude.com
 0 api2.amplitude.com
-0 casestudies.amplitude.com
 0 cdn.amplitude.com
-0 cerulean.amplitude.com
-0 crash.amplitude.com
-0 demo.amplitude.com
-0 dev.amplitude.com
-0 developers.amplitude.com
-0 discourse.amplitude.com
-0 events.amplitude.com
-0 get.amplitude.com
-0 go.amplitude.com
 0 info.amplitude.com
-0 lms.amplitude.com
-0 meetings.amplitude.com
-0 productanalyticsplaybook.amplitude.com
-0 promo.amplitude.com
-0 ref.amplitude.com
-0 spinnaker.amplitude.com
-0 staging.amplitude.com
+0 regionconfig.amplitude.com
 0 static.amplitude.com
-0 www.amplitude.com
 0 b-stage.measuread.com
 0 b.measuread.com
 0 measuread.com
@@ -11182,6 +11165,9 @@
 0 trk.atomex.net
 0 click.meitustat.com
 0 dc.meitustat.com
+0 gondar.meitustat.com
+0 mdc.meitustat.com
+0 meepo.meitustat.com
 0 meitustat.com
 0 rabbit.meitustat.com
 0 www.meitustat.com
