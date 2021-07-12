@@ -3799,6 +3799,7 @@
 #[jpush.cn]
 0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 api.jpush.cn
+0.0.0.0 config-junion.jpush.cn
 0.0.0.0 config.jpush.cn
 0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 im.jpush.cn
@@ -7688,14 +7689,11 @@
 0.0.0.0 cdn.matomo.cloud
 0.0.0.0 cuoituoitrevn.matomo.cloud
 0.0.0.0 oxiivn.matomo.cloud
-#[opecloud.com]
-0.0.0.0 opecloud.com
+#[tagger.opecloud.com]
 0.0.0.0 papi.tagger.opecloud.com
 0.0.0.0 profiles.tagger.opecloud.com
 0.0.0.0 tagger.opecloud.com
-0.0.0.0 tagger-admeira.opecloud.com
-0.0.0.0 tagger-hoydigital.opecloud.com
-0.0.0.0 wwwr.opecloud.com
+0.0.0.0 www.tagger.opecloud.com
 #[petametrics.com]
 0.0.0.0 api.petametrics.com
 0.0.0.0 api-eu-central-1.petametrics.com
@@ -12154,6 +12152,7 @@
 0.0.0.0 meepo.meitustat.com
 0.0.0.0 meitustat.com
 0.0.0.0 rabbit.meitustat.com
+0.0.0.0 web-rabbit.meitustat.com
 0.0.0.0 www.meitustat.com
 #[tg.meitu.com]
 0.0.0.0 adui.tg.meitu.com
