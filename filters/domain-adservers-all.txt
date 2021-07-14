@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 11 Jul 2021 20:26 UTC+7
-! Version: 2107112026
-! Blocked: 6,458 domains
+! Last modified: 14 Jul 2021 14:22 UTC+7
+! Version: 2107141422
+! Blocked: 6,460 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -23,6 +23,7 @@ adnetwork.vn
 adpia.vn
 adrealclick.com
 ads-target.coccoc.com
+ads-thanhnien-vn.cdn.ampproject.org
 ads.platform.zalo.me
 ads.zalo.me
 ads.zaloapp.com
@@ -65,6 +66,7 @@ blogstatistics.sapoapps.vn
 bongdadem.net
 brand.zing.vn
 bwstatistics.sapoapps.vn
+cdn-bongdadem-net.cdn.ampproject.org
 cdn-qc.coccoc.com
 cdn.comedia.coccoc.com
 cdnstoremedia.com
@@ -76,6 +78,7 @@ cleverads.vn
 clevernet.vn
 clickbuy.bz
 codon.vn
+contineljs.com
 dable.io
 donglogs.com
 eclick.vn
@@ -346,7 +349,6 @@ bgadx.com
 bluemaulpuffs.com
 boxpr.aiservice.vn
 cdn-ads.thesaigontimes.vn
-cdn-bongdadem-net.cdn.ampproject.org
 cdnasset.dantri.com.vn
 chiasephim.xyz
 click-ads.saoteen.net
@@ -1818,7 +1820,6 @@ onespot-tracking.herokuapp.com
 onetag-sys.com
 onscroll.com
 onthe.io
-opecloud.com
 openx.com
 openx.net
 opmnstr.com
@@ -2054,6 +2055,7 @@ surveygizmobeacon.s3.amazonaws.com
 sworkitads.herokuapp.com
 t.spot.im
 taboola.com
+tagger.opecloud.com
 tagmanager.toast.com
 tanx.com
 tapad.com
@@ -5948,12 +5950,12 @@ a3cloud.net
 acint.net
 adentify.com
 adj.st
+adlog.foxitcloud.com
 advanced-web-analytics.com
 akuaba.chez.com
 analysis.polarisoffice.com
 analytics-au.clickdimensions.com
 analytics-ca.clickdimensions.com
-analytics-digit-in.cdn.ampproject.org
 analytics-eu.clickdimensions.com
 analytics-production.hapyak.com
 analytics-statistics.machbird.com
@@ -6087,6 +6089,7 @@ dynatrace.com
 e.crashlytics.com
 e2.platform88798.com
 edigitalsurvey.com
+emltrk.com
 ethtrader.de
 etl.tindersparks.com
 events.apester.com
@@ -6101,7 +6104,6 @@ fathomseo.com
 firsthive.com
 flagcounter.com
 freegeoip.net
-frog.wix.com
 front.optimonk.com
 fullstory.com
 g.3gl.net
@@ -6184,6 +6186,7 @@ log.tutuapp.com
 log.umsns.com
 log.ventunotech.com
 log.ys7.com
+logger.foxitcloud.com
 logger.unsplash.com
 logging.goclean.tech
 logreport-v2.easy4ipcloud.com
@@ -6238,7 +6241,6 @@ p.trvdp.com
 p.typekit.net
 pebed.dm.gg
 pegloang.com
-pi.pardot.com
 ping.kitidi.com
 pingback.issuu.com
 pipedream.wistia.com

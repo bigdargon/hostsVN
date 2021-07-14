@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Jul 2021 20:26 UTC+7
-# Version: 2107112026
-# Blocked: 17,442 domains
+# Last modified: 14 Jul 2021 14:22 UTC+7
+# Version: 2107141422
+# Blocked: 17,448 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3541,6 +3541,7 @@
 0 yt.mmstat.com
 0 ali-stats.jpush.cn
 0 api.jpush.cn
+0 config-junion.jpush.cn
 0 config.jpush.cn
 0 gd-stats.jpush.cn
 0 im.jpush.cn
@@ -7198,13 +7199,10 @@
 0 cdn.matomo.cloud
 0 cuoituoitrevn.matomo.cloud
 0 oxiivn.matomo.cloud
-0 opecloud.com
 0 papi.tagger.opecloud.com
 0 profiles.tagger.opecloud.com
 0 tagger.opecloud.com
-0 tagger-admeira.opecloud.com
-0 tagger-hoydigital.opecloud.com
-0 wwwr.opecloud.com
+0 www.tagger.opecloud.com
 0 api.petametrics.com
 0 api-eu-central-1.petametrics.com
 0 api-eu-west-1.petametrics.com
@@ -7912,11 +7910,12 @@
 0 tw.wpu.sh
 0 wpu.sh
 0 adbrix.io
-0 adtouch.adbrix.io
 0 adtouch-qa.adbrix.io
+0 adtouch.adbrix.io
 0 applinks.adbrix.io
-0 event.adbrix.io
 0 event-qa.adbrix.io
+0 event.adbrix.io
+0 gdpr-qa.adbrix.io
 0 gdpr.adbrix.io
 0 rm-lo-sdk.adbrix.io
 0 static.adbrix.io
@@ -11170,6 +11169,7 @@
 0 meepo.meitustat.com
 0 meitustat.com
 0 rabbit.meitustat.com
+0 web-rabbit.meitustat.com
 0 www.meitustat.com
 0 adui.tg.meitu.com
 0 pre-adui.tg.meitu.com
@@ -12158,8 +12158,13 @@
 0 vidmatic.fuseplatform.net
 0 sourcetobin.com
 0 static.sourcetobin.com
+0 fgp.philacct.com
 0 philacct.com
 0 static.philacct.com
+0 cdn.contineljs.com
+0 contineljs.com
+0 defaultdsp.contineljs.com
+0 static.contineljs.com
 0 cdn.surfcountor.com
 0 ck.surfcountor.com
 0 cms.surfcountor.com
@@ -12547,6 +12552,8 @@
 0 bongdadem.net
 0 cdn.bongdadem.net
 0 www.bongdadem.net
+0 ads-thanhnien-vn.cdn.ampproject.org
+0 cdn-bongdadem-net.cdn.ampproject.org
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
 0 ad-admin.vnay.vn
@@ -12679,7 +12686,6 @@
 0 bluemaulpuffs.com
 0 boxpr.aiservice.vn
 0 cdn-ads.thesaigontimes.vn
-0 cdn-bongdadem-net.cdn.ampproject.org
 0 cdnasset.dantri.com.vn
 0 chiasephim.xyz
 0 click-ads.saoteen.net
@@ -16890,12 +16896,12 @@
 0 acint.net
 0 adentify.com
 0 adj.st
+0 adlog.foxitcloud.com
 0 advanced-web-analytics.com
 0 akuaba.chez.com
 0 analysis.polarisoffice.com
 0 analytics-au.clickdimensions.com
 0 analytics-ca.clickdimensions.com
-0 analytics-digit-in.cdn.ampproject.org
 0 analytics-eu.clickdimensions.com
 0 analytics-production.hapyak.com
 0 analytics-statistics.machbird.com
@@ -17029,6 +17035,7 @@
 0 e.crashlytics.com
 0 e2.platform88798.com
 0 edigitalsurvey.com
+0 emltrk.com
 0 ethtrader.de
 0 etl.tindersparks.com
 0 events.apester.com
@@ -17043,7 +17050,6 @@
 0 firsthive.com
 0 flagcounter.com
 0 freegeoip.net
-0 frog.wix.com
 0 front.optimonk.com
 0 fullstory.com
 0 g.3gl.net
@@ -17126,6 +17132,7 @@
 0 log.umsns.com
 0 log.ventunotech.com
 0 log.ys7.com
+0 logger.foxitcloud.com
 0 logger.unsplash.com
 0 logging.goclean.tech
 0 logreport-v2.easy4ipcloud.com
@@ -17180,7 +17187,6 @@
 0 p.typekit.net
 0 pebed.dm.gg
 0 pegloang.com
-0 pi.pardot.com
 0 ping.kitidi.com
 0 pingback.issuu.com
 0 pipedream.wistia.com
