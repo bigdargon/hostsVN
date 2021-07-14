@@ -1029,8 +1029,14 @@
 0.0.0.0 sourcetobin.com
 0.0.0.0 static.sourcetobin.com
 #[philacct.com]
+0.0.0.0 fgp.philacct.com
 0.0.0.0 philacct.com
 0.0.0.0 static.philacct.com
+#[contineljs.com]
+0.0.0.0 cdn.contineljs.com
+0.0.0.0 contineljs.com
+0.0.0.0 defaultdsp.contineljs.com
+0.0.0.0 static.contineljs.com
 #[surfcountor.com]
 0.0.0.0 cdn.surfcountor.com
 0.0.0.0 ck.surfcountor.com
@@ -1483,3 +1489,6 @@
 0.0.0.0 bongdadem.net
 0.0.0.0 cdn.bongdadem.net
 0.0.0.0 www.bongdadem.net
+#[ampproject.org]
+0.0.0.0 ads-thanhnien-vn.cdn.ampproject.org
+0.0.0.0 cdn-bongdadem-net.cdn.ampproject.org

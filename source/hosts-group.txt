@@ -8469,11 +8469,12 @@
 0.0.0.0 wpu.sh
 #[adbrix.io]
 0.0.0.0 adbrix.io
-0.0.0.0 adtouch.adbrix.io
 0.0.0.0 adtouch-qa.adbrix.io
+0.0.0.0 adtouch.adbrix.io
 0.0.0.0 applinks.adbrix.io
-0.0.0.0 event.adbrix.io
 0.0.0.0 event-qa.adbrix.io
+0.0.0.0 event.adbrix.io
+0.0.0.0 gdpr-qa.adbrix.io
 0.0.0.0 gdpr.adbrix.io
 0.0.0.0 rm-lo-sdk.adbrix.io
 0.0.0.0 static.adbrix.io
