@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 14 Jul 2021 14:22 UTC+7
-# Version: 2107141422
-# Blocked: 2,966 domains
+# Last modified: 19 Jul 2021 15:01 UTC+7
+# Version: 2107191501
+# Blocked: 3,017 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -735,31 +735,57 @@
 0.0.0.0 www.fb88max.com
 0.0.0.0 vz681.com
 0.0.0.0 www.vz681.com
-jbovietnam.com
-gateway.jbovietnam.com
-th-lm.jbovietnam.com
-vn-lm.jbovietnam.com
-www.jbovietnam.com
-red88.uk
-img.red88.uk
-zbetvn.com
-z3.zbetvn.com
-dfchoingay.com
-www.dfchoingay.com
-v7king.com
-api.v7king.com
-www.v7king.com
-tf88v.com
-m.tf88v.com
-www.tf88v.com
-8live.top
-m.8live.top
-happynb.com
-affiliate.happynb.com
-media.happynb.com
-www.happynb.com
-eurofun88.com
-www.eurofun88.com
+0.0.0.0 jbovietnam.com
+0.0.0.0 gateway.jbovietnam.com
+0.0.0.0 th-lm.jbovietnam.com
+0.0.0.0 vn-lm.jbovietnam.com
+0.0.0.0 www.jbovietnam.com
+0.0.0.0 red88.uk
+0.0.0.0 img.red88.uk
+0.0.0.0 zbetvn.com
+0.0.0.0 z3.zbetvn.com
+0.0.0.0 dfchoingay.com
+0.0.0.0 www.dfchoingay.com
+0.0.0.0 v7king.com
+0.0.0.0 api.v7king.com
+0.0.0.0 www.v7king.com
+0.0.0.0 tf88v.com
+0.0.0.0 m.tf88v.com
+0.0.0.0 www.tf88v.com
+0.0.0.0 8live.top
+0.0.0.0 m.8live.top
+0.0.0.0 happynb.com
+0.0.0.0 affiliate.happynb.com
+0.0.0.0 media.happynb.com
+0.0.0.0 www.happynb.com
+0.0.0.0 eurofun88.com
+0.0.0.0 www.eurofun88.com
+0.0.0.0 oxbet.club
+0.0.0.0 www.oxbet.club
+0.0.0.0 388bet.vin
+0.0.0.0 m.388bet.vin
+0.0.0.0 s.388bet.vin
+0.0.0.0 oxbet.com
+0.0.0.0 www.oxbet.com
+0.0.0.0 fun1118.com
+0.0.0.0 sbone.fun1118.com
+0.0.0.0 www.fun1118.com
+0.0.0.0 vnloto.vip
+0.0.0.0 m.vnloto.vip
+0.0.0.0 kingbet86.info
+0.0.0.0 api.kingbet86.info
+0.0.0.0 cdn.kingbet86.info
+0.0.0.0 m.kingbet86.info
+0.0.0.0 w88bkk.com
+0.0.0.0 affiliate.w88bkk.com
+0.0.0.0 fundtransfer.w88bkk.com
+0.0.0.0 info.w88bkk.com
+0.0.0.0 m.w88bkk.com
+0.0.0.0 payment.w88bkk.com
+0.0.0.0 rewards.w88bkk.com
+0.0.0.0 www.w88bkk.com
+0.0.0.0 bong99.live
+0.0.0.0 m.bong99.live
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
