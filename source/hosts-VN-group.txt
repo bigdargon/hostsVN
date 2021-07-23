@@ -1489,9 +1489,10 @@
 0.0.0.0 bongdadem.net
 0.0.0.0 cdn.bongdadem.net
 0.0.0.0 www.bongdadem.net
-#[ampproject.org]
+#[cdn.ampproject.org]
 0.0.0.0 ads-thanhnien-vn.cdn.ampproject.org
 0.0.0.0 cdn-bongdadem-net.cdn.ampproject.org
+0.0.0.0 sbbanner-com.cdn.ampproject.org
 #[chin-adnetwork.com]
 0.0.0.0 chin-adnetwork.com
 0.0.0.0 js.chin-adnetwork.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 Jul 2021 15:01 UTC+7
-! Version: 2107191501
-! Blocked: 920 rules
+! Last modified: 23 Jul 2021 14:34 UTC+7
+! Version: 2107231434
+! Blocked: 923 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -160,6 +160,7 @@
 ||qc.coccoc.vn^
 ||qccoccocmedia.vn^
 ||rungrinh.vn^
+||sbbanner-com.cdn.ampproject.org^
 ||sbz.vn^
 ||sdk.zadn.vn^
 ||service-api.accesstrade.vn^
@@ -554,6 +555,7 @@
 ||logapi.misa.com.vn^
 ||logen.vietnamplus.vn^
 ||logg4u.cnnd.vn^
+||logperf.vnexpress.net^
 ||logs.giaoducthoidai.vn^
 ||logs.thethaovanhoa.vn^
 ||logs1.reatimes.vn^
@@ -670,6 +672,7 @@
 ||789.club^
 ||789.fun^
 ||789.moi^
+||789club.biz^
 ||789club.org^
 ||79lucky.com^
 ||888b.com^

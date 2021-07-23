@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 19 Jul 2021 15:01 UTC+7
-# Version: 2107191501
-# Blocked: 3,017 domains
+# Last modified: 23 Jul 2021 14:34 UTC+7
+# Version: 2107231434
+# Blocked: 3,020 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -786,6 +786,9 @@
 0.0.0.0 www.w88bkk.com
 0.0.0.0 bong99.live
 0.0.0.0 m.bong99.live
+0.0.0.0 789club.biz
+0.0.0.0 f3.789club.biz
+0.0.0.0 qc.789club.biz
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com

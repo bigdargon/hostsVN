@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 19 Jul 2021 15:01 UTC+7
-! Version: 2107191501
-! Blocked: 6,511 rules
+! Last modified: 23 Jul 2021 14:34 UTC+7
+! Version: 2107231434
+! Blocked: 6,555 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -160,6 +160,7 @@
 ||qc.coccoc.vn^
 ||qccoccocmedia.vn^
 ||rungrinh.vn^
+||sbbanner-com.cdn.ampproject.org^
 ||sbz.vn^
 ||sdk.zadn.vn^
 ||service-api.accesstrade.vn^
@@ -554,6 +555,7 @@
 ||logapi.misa.com.vn^
 ||logen.vietnamplus.vn^
 ||logg4u.cnnd.vn^
+||logperf.vnexpress.net^
 ||logs.giaoducthoidai.vn^
 ||logs.thethaovanhoa.vn^
 ||logs1.reatimes.vn^
@@ -670,6 +672,7 @@
 ||789.club^
 ||789.fun^
 ||789.moi^
+||789club.biz^
 ||789club.org^
 ||79lucky.com^
 ||888b.com^
@@ -1561,6 +1564,7 @@
 ||geofence.sys.miui.com^
 ||getadmiral.com^
 ||getclicky.com^
+||getpublica.com^
 ||gjapplog.ucweb.com^
 ||gjtrack.ucweb.com^
 ||glispa.com^
@@ -2217,6 +2221,7 @@
 ||zenadservices.net^
 ||zergnet.com^
 ||zetadeo.com^
+||zqtk.net^
 ||zucks.net^
 ||zx-adnet.com^
 ||0n.click^
@@ -3387,6 +3392,7 @@
 ||bead-ad.com^
 ||beamincrease.com^
 ||beauty-tea.com^
+||bebadu.com^
 ||bebreloomr.com^
 ||bedsbreath.com^
 ||beeashale.club^
@@ -3583,10 +3589,12 @@
 ||claroclicks.com^
 ||clashmobile.com^
 ||class-act-clicks.com^
+||clckysudks.com^
 ||cleantapioca.com^
 ||clearadnetwork.com^
 ||clearbid.uberads.com^
 ||clearcomb.com^
+||clicadu.com^
 ||clicck.net^
 ||click.fool.com^
 ||click.howdoesin.net^
@@ -3594,6 +3602,7 @@
 ||click2freemoney.com^
 ||click2paid.com^
 ||clickability.com^
+||clickadin.com^
 ||clickadu.com^
 ||clickadz.com^
 ||clickagents.com^
@@ -3633,6 +3642,7 @@
 ||clixgalore.com^
 ||clkads.com^
 ||clkrev.com^
+||clmcom.com^
 ||cloisteredhydrant.com^
 ||cloudcoins.biz^
 ||clrstm.com^
@@ -3749,6 +3759,7 @@
 ||cubics.com^
 ||culmedmaumee.com^
 ||cumbersomecloud.com^
+||cupmidnithe.com^
 ||curtaincows.com^
 ||cutecushion.com^
 ||cutescale.online^
@@ -3784,6 +3795,7 @@
 ||deadpantruck.com^
 ||dealdotcom.com^
 ||deanmediagroup.com^
+||debadu.com^
 ||debonairway.com^
 ||debtbusterloans.com^
 ||decisivedrawer.com^
@@ -3814,6 +3826,7 @@
 ||differentdesk.com^
 ||digitalmerkat.com^
 ||digitru.st^
+||diguver.com^
 ||dimfarlow.com^
 ||direct-xxx-access.com^
 ||directaclick.com^
@@ -3849,6 +3862,8 @@
 ||doubleclick.com^
 ||doubleclick.de^
 ||doubleclickbygoogle.com^
+||doubledeepclick.com^
+||doublelimpup.com^
 ||doublepimpads.com^
 ||doubtfulrainstorm.com^
 ||downloadr.xyz^
@@ -3879,12 +3894,14 @@
 ||e2wysbacctt1.com^
 ||eacdn.com^
 ||eadexchange.com^
+||earnbigo.com^
 ||earnify.com^
 ||earthquakescarf.com^
 ||earthycopy.com^
 ||eas.almamedia.fi^
 ||easiesttangle.com^
 ||easy-ads.com^
+||easy2cnjuh34jb.com^
 ||easydownloadnow.com^
 ||easyhits4u.com^
 ||ebayadvertising.com^
@@ -3947,6 +3964,7 @@
 ||eqads.com^
 ||eqworks.com^
 ||ero-advertising.com^
+||erosyndc.com^
 ||errortablet.com^
 ||esellerate.net^
 ||estat.com^
@@ -3978,6 +3996,7 @@
 ||exitexchange.com^
 ||exitfuel.com^
 ||exobafrgdf.com^
+||exofrwe.com^
 ||exogripper.com^
 ||exomonyf.com^
 ||experteerads.com^
@@ -4018,6 +4037,7 @@
 ||faultyfowl.com^
 ||fbcdn2.com^
 ||fdbtvavxtfvpbx.com^
+||febadu.com^
 ||feboni.info^
 ||federationpitch.com^
 ||feebleshock.com^
@@ -4088,6 +4108,7 @@
 ||galaxien.com^
 ||gavnogeeygaika.com^
 ||gayadnetwork.com^
+||gebadu.com^
 ||gemius.pl^
 ||geniusdexchange.com^
 ||geo.digitalpoint.com^
@@ -4123,8 +4144,10 @@
 ||goldspotmedia.com^
 ||goldstats.com^
 ||gondolagnome.com^
+||gooblesdd.com^
 ||googleads.github.io^
 ||gopejk.com^
+||goredi.com^
 ||gorgeousground.com^
 ||gossipmiser.com^
 ||gostats.com^
@@ -4157,12 +4180,14 @@
 ||hammerhearing.com^
 ||handyfield.com^
 ||hardtofindmilk.com^
+||harmlesstacticalhonorable.com^
 ||harrenmedia.com^
 ||harrenmedianetwork.com^
 ||havamedia.net^
 ||hawkyeye5ssnd.com^
 ||healthyoffers.com^
 ||heap.com^
+||hebadu.com^
 ||heeteefu.com^
 ||hegarberetrof.pro^
 ||heias.com^
@@ -4369,6 +4394,7 @@
 ||jarvispopsu.com^
 ||jatxt.com^
 ||jcount.com^
+||jebadu.com^
 ||jenicdntc.com^
 ||jf71qh5v14.com^
 ||jighucme.com^
@@ -4406,6 +4432,7 @@
 ||koindut.com^
 ||kompasads.com^
 ||kontera.com^
+||koradu.com^
 ||kotikinar2ko8tiki09.com^
 ||kqzyfj.com^
 ||ktu.sv2.biz^
@@ -4795,6 +4822,7 @@
 ||observantice.com^
 ||ocio.leadzu.com^
 ||oclasrv.com^
+||oebadu.com^
 ||oewa.at^
 ||oewabox.at^
 ||offerforge.com^
@@ -4906,6 +4934,7 @@
 ||pcmclk.com^
 ||pcteast.com^
 ||peacepowder.com^
+||pebadu.com^
 ||peep-auktion.de^
 ||peer39.com^
 ||pennyweb.com^
@@ -4950,7 +4979,6 @@
 ||ping.ublock.org^
 ||pippio.com^
 ||piquantpigs.com^
-||pixel.condenastdigital.com^
 ||pixel.digitru.st^
 ||pixel.leadzu.com^
 ||pixel.mediaiqdigital.com^
@@ -5025,6 +5053,7 @@
 ||pro-ads.club^
 ||pro-advertising.com^
 ||proext.com^
+||profbigo.com^
 ||profero.com^
 ||profitrumour.com^
 ||projectwonderful.com^
@@ -5036,6 +5065,7 @@
 ||promote.pair.com^
 ||pronetadvertising.com^
 ||propadsviews.com^
+||propbigo.com^
 ||props.id^
 ||propu.sh^
 ||proranktracker.com^
@@ -5098,13 +5128,16 @@
 ||quinst.com^
 ||quisma.com^
 ||quizzicalzephyr.com^
+||qumagee.com^
 ||qwerfdx.com^
 ||qwertize.com^
 ||r.leadzu.com^
+||r3adyt0download.com^
 ||radarurl.com^
 ||radiate.com^
 ||radiumone.com^
 ||railwayrainstorm.com^
+||rakamu.com^
 ||ramp.purch.com^
 ||rampanel.com^
 ||rampidads.com^
@@ -5149,6 +5182,7 @@
 ||redirect2719.ws^
 ||redirectingat.com^
 ||redirectvoluum.com^
+||redlele.com^
 ||redmas.com^
 ||reduxmedia.com^
 ||reduxmediagroup.com^
@@ -5549,6 +5583,7 @@
 ||tealeaf.com^
 ||tealium.com^
 ||tealiumiq.com^
+||tebadu.com^
 ||techclicks.net^
 ||tedioustooth.com^
 ||teenrevenue.com^
@@ -5722,6 +5757,7 @@
 ||uarating.com^
 ||uberads.com^
 ||ubermedia.com^
+||uebadu.com^
 ||ueikno.com^
 ||uge521.com^
 ||ukbanners.com^
@@ -5770,6 +5806,7 @@
 ||vanfireworks.com^
 ||variablefitness.com^
 ||vattingbalak.com^
+||vebadu.com^
 ||veille-referencement.com^
 ||veinteractive.com^
 ||velocecdn.com^
@@ -5811,6 +5848,7 @@
 ||vmweb.net^
 ||vogueoatgap.com^
 ||voicevegetable.com^
+||voradu.com^
 ||voredi.com^
 ||vpon.com^
 ||vrs.cz^
@@ -5915,6 +5953,7 @@
 ||xadsmart.com^
 ||xchange.ro^
 ||xclicks.net^
+||xebadu.com^
 ||xertive.com^
 ||xg4ken.com^
 ||xiti.com^
@@ -5929,6 +5968,7 @@
 ||xtendmedia.com^
 ||xtremeserve.xyz^
 ||xtremetop100.com^
+||xxladu.com^
 ||xxssyndic.com^
 ||xxxcounter.com^
 ||xxxmyself.com^
@@ -5986,7 +6026,6 @@
 ||zlp6s.pw^
 ||zm232.com^
 ||zmedia.com^
-||zqtk.net^
 ||zumobi.com^
 ||zuphaims.com^
 ||zxc.world^
@@ -6088,6 +6127,7 @@
 ||c.snnd.co^
 ||c2i-cdn.startappnetwork.com^
 ||cankaowang.com^
+||capture.condenastdigital.com^
 ||cc.swiftype.com^
 ||ccgateway.net^
 ||cdn.onesignal.com^
@@ -6143,6 +6183,7 @@
 ||emltrk.com^
 ||ethtrader.de^
 ||etl.tindersparks.com^
+||event.condenastdigital.com^
 ||events.apester.com^
 ||events.jora.com^
 ||events.mapbox.com^
@@ -6196,6 +6237,7 @@
 ||img.leadzutw.com^
 ||img3.usefathom.com^
 ||imp.pvnsolutions.com^
+||infinityid.condenastdigital.com^
 ||inside-graph.com^
 ||intake-analytics.wikimedia.org^
 ||intent.cbsi.com^
@@ -6297,6 +6339,7 @@
 ||pipedream.wistia.com^
 ||pixanalytics.pixnet.net^
 ||pixanalytics2.pixnet.net^
+||pixel.condenastdigital.com^
 ||pixel.nc0.co^
 ||pixel.s3xified.com^
 ||pixel.voltn.com^
@@ -6476,6 +6519,7 @@
 ||weigezhiyao.com^
 ||widget.trustpilot.com^
 ||wieistmeineip.de^
+||wren.condenastdigital.com^
 ||wt.soundestlink.com^
 ||wzrkt.com^
 ||xlog.hiido.com^

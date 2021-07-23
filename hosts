@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Jul 2021 15:01 UTC+7
-# Version: 2107191501
-# Blocked: 17,518 domains
+# Last modified: 23 Jul 2021 14:34 UTC+7
+# Version: 2107231434
+# Blocked: 17,576 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12245,6 +12245,25 @@
 0.0.0.0 jma.genieesspv.jp
 0.0.0.0 mediaz.genieesspv.jp
 0.0.0.0 sprout-ad.genieesspv.jp
+#[getpublica.com]
+0.0.0.0 admedia.getpublica.com
+0.0.0.0 getpublica.com
+0.0.0.0 pbc.getpublica.com
+0.0.0.0 pbs-eu.getpublica.com
+0.0.0.0 pbs.getpublica.com
+0.0.0.0 prebid-log.getpublica.com
+0.0.0.0 staging.getpublica.com
+0.0.0.0 sync.getpublica.com
+0.0.0.0 usersync.getpublica.com
+0.0.0.0 vastpixel.getpublica.com
+0.0.0.0 www.getpublica.com
+#[zqtk.net]
+0.0.0.0 api-us-east.zqtk.net
+0.0.0.0 segment-data-us-east.zqtk.net
+0.0.0.0 segment-data-us-west.zqtk.net
+0.0.0.0 segment-data.zqtk.net
+0.0.0.0 t.zqtk.net
+0.0.0.0 zqtk.net
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13736,9 +13755,10 @@
 0.0.0.0 bongdadem.net
 0.0.0.0 cdn.bongdadem.net
 0.0.0.0 www.bongdadem.net
-#[ampproject.org]
+#[cdn.ampproject.org]
 0.0.0.0 ads-thanhnien-vn.cdn.ampproject.org
 0.0.0.0 cdn-bongdadem-net.cdn.ampproject.org
+0.0.0.0 sbbanner-com.cdn.ampproject.org
 #[chin-adnetwork.com]
 0.0.0.0 chin-adnetwork.com
 0.0.0.0 js.chin-adnetwork.com
@@ -14096,6 +14116,7 @@
 0.0.0.0 logapi.misa.com.vn
 0.0.0.0 logen.vietnamplus.vn
 0.0.0.0 logg4u.cnnd.vn
+0.0.0.0 logperf.vnexpress.net
 0.0.0.0 logs.giaoducthoidai.vn
 0.0.0.0 logs.thethaovanhoa.vn
 0.0.0.0 logs1.reatimes.vn
@@ -15387,6 +15408,7 @@
 0.0.0.0 bead-ad.com
 0.0.0.0 beamincrease.com
 0.0.0.0 beauty-tea.com
+0.0.0.0 bebadu.com
 0.0.0.0 bebreloomr.com
 0.0.0.0 bedsbreath.com
 0.0.0.0 beeashale.club
@@ -15583,10 +15605,12 @@
 0.0.0.0 claroclicks.com
 0.0.0.0 clashmobile.com
 0.0.0.0 class-act-clicks.com
+0.0.0.0 clckysudks.com
 0.0.0.0 cleantapioca.com
 0.0.0.0 clearadnetwork.com
 0.0.0.0 clearbid.uberads.com
 0.0.0.0 clearcomb.com
+0.0.0.0 clicadu.com
 0.0.0.0 clicck.net
 0.0.0.0 click.fool.com
 0.0.0.0 click.howdoesin.net
@@ -15594,6 +15618,7 @@
 0.0.0.0 click2freemoney.com
 0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
+0.0.0.0 clickadin.com
 0.0.0.0 clickadu.com
 0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
@@ -15633,6 +15658,7 @@
 0.0.0.0 clixgalore.com
 0.0.0.0 clkads.com
 0.0.0.0 clkrev.com
+0.0.0.0 clmcom.com
 0.0.0.0 cloisteredhydrant.com
 0.0.0.0 cloudcoins.biz
 0.0.0.0 clrstm.com
@@ -15749,6 +15775,7 @@
 0.0.0.0 cubics.com
 0.0.0.0 culmedmaumee.com
 0.0.0.0 cumbersomecloud.com
+0.0.0.0 cupmidnithe.com
 0.0.0.0 curtaincows.com
 0.0.0.0 cutecushion.com
 0.0.0.0 cutescale.online
@@ -15784,6 +15811,7 @@
 0.0.0.0 deadpantruck.com
 0.0.0.0 dealdotcom.com
 0.0.0.0 deanmediagroup.com
+0.0.0.0 debadu.com
 0.0.0.0 debonairway.com
 0.0.0.0 debtbusterloans.com
 0.0.0.0 decisivedrawer.com
@@ -15814,6 +15842,7 @@
 0.0.0.0 differentdesk.com
 0.0.0.0 digitalmerkat.com
 0.0.0.0 digitru.st
+0.0.0.0 diguver.com
 0.0.0.0 dimfarlow.com
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 directaclick.com
@@ -15848,6 +15877,8 @@
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
 0.0.0.0 doubleclickbygoogle.com
+0.0.0.0 doubledeepclick.com
+0.0.0.0 doublelimpup.com
 0.0.0.0 doublepimpads.com
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 downloadr.xyz
@@ -15878,12 +15909,14 @@
 0.0.0.0 e2wysbacctt1.com
 0.0.0.0 eacdn.com
 0.0.0.0 eadexchange.com
+0.0.0.0 earnbigo.com
 0.0.0.0 earnify.com
 0.0.0.0 earthquakescarf.com
 0.0.0.0 earthycopy.com
 0.0.0.0 eas.almamedia.fi
 0.0.0.0 easiesttangle.com
 0.0.0.0 easy-ads.com
+0.0.0.0 easy2cnjuh34jb.com
 0.0.0.0 easydownloadnow.com
 0.0.0.0 easyhits4u.com
 0.0.0.0 ebayadvertising.com
@@ -15946,6 +15979,7 @@
 0.0.0.0 eqads.com
 0.0.0.0 eqworks.com
 0.0.0.0 ero-advertising.com
+0.0.0.0 erosyndc.com
 0.0.0.0 errortablet.com
 0.0.0.0 esellerate.net
 0.0.0.0 estat.com
@@ -15977,6 +16011,7 @@
 0.0.0.0 exitexchange.com
 0.0.0.0 exitfuel.com
 0.0.0.0 exobafrgdf.com
+0.0.0.0 exofrwe.com
 0.0.0.0 exogripper.com
 0.0.0.0 exomonyf.com
 0.0.0.0 experteerads.com
@@ -16017,6 +16052,7 @@
 0.0.0.0 faultyfowl.com
 0.0.0.0 fbcdn2.com
 0.0.0.0 fdbtvavxtfvpbx.com
+0.0.0.0 febadu.com
 0.0.0.0 feboni.info
 0.0.0.0 federationpitch.com
 0.0.0.0 feebleshock.com
@@ -16087,6 +16123,7 @@
 0.0.0.0 galaxien.com
 0.0.0.0 gavnogeeygaika.com
 0.0.0.0 gayadnetwork.com
+0.0.0.0 gebadu.com
 0.0.0.0 gemius.pl
 0.0.0.0 geniusdexchange.com
 0.0.0.0 geo.digitalpoint.com
@@ -16122,8 +16159,10 @@
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goldstats.com
 0.0.0.0 gondolagnome.com
+0.0.0.0 gooblesdd.com
 0.0.0.0 googleads.github.io
 0.0.0.0 gopejk.com
+0.0.0.0 goredi.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 gossipmiser.com
 0.0.0.0 gostats.com
@@ -16156,12 +16195,14 @@
 0.0.0.0 hammerhearing.com
 0.0.0.0 handyfield.com
 0.0.0.0 hardtofindmilk.com
+0.0.0.0 harmlesstacticalhonorable.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 havamedia.net
 0.0.0.0 hawkyeye5ssnd.com
 0.0.0.0 healthyoffers.com
 0.0.0.0 heap.com
+0.0.0.0 hebadu.com
 0.0.0.0 heeteefu.com
 0.0.0.0 hegarberetrof.pro
 0.0.0.0 heias.com
@@ -16368,6 +16409,7 @@
 0.0.0.0 jarvispopsu.com
 0.0.0.0 jatxt.com
 0.0.0.0 jcount.com
+0.0.0.0 jebadu.com
 0.0.0.0 jenicdntc.com
 0.0.0.0 jf71qh5v14.com
 0.0.0.0 jighucme.com
@@ -16404,6 +16446,7 @@
 0.0.0.0 koindut.com
 0.0.0.0 kompasads.com
 0.0.0.0 kontera.com
+0.0.0.0 koradu.com
 0.0.0.0 kotikinar2ko8tiki09.com
 0.0.0.0 kqzyfj.com
 0.0.0.0 ktu.sv2.biz
@@ -16792,6 +16835,7 @@
 0.0.0.0 observantice.com
 0.0.0.0 ocio.leadzu.com
 0.0.0.0 oclasrv.com
+0.0.0.0 oebadu.com
 0.0.0.0 oewa.at
 0.0.0.0 oewabox.at
 0.0.0.0 offerforge.com
@@ -16903,6 +16947,7 @@
 0.0.0.0 pcmclk.com
 0.0.0.0 pcteast.com
 0.0.0.0 peacepowder.com
+0.0.0.0 pebadu.com
 0.0.0.0 peep-auktion.de
 0.0.0.0 peer39.com
 0.0.0.0 pennyweb.com
@@ -16946,7 +16991,6 @@
 0.0.0.0 ping.ublock.org
 0.0.0.0 pippio.com
 0.0.0.0 piquantpigs.com
-0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.digitru.st
 0.0.0.0 pixel.leadzu.com
 0.0.0.0 pixel.mediaiqdigital.com
@@ -17021,6 +17065,7 @@
 0.0.0.0 pro-ads.club
 0.0.0.0 pro-advertising.com
 0.0.0.0 proext.com
+0.0.0.0 profbigo.com
 0.0.0.0 profero.com
 0.0.0.0 profitrumour.com
 0.0.0.0 projectwonderful.com
@@ -17032,6 +17077,7 @@
 0.0.0.0 promote.pair.com
 0.0.0.0 pronetadvertising.com
 0.0.0.0 propadsviews.com
+0.0.0.0 propbigo.com
 0.0.0.0 props.id
 0.0.0.0 propu.sh
 0.0.0.0 proranktracker.com
@@ -17094,13 +17140,16 @@
 0.0.0.0 quinst.com
 0.0.0.0 quisma.com
 0.0.0.0 quizzicalzephyr.com
+0.0.0.0 qumagee.com
 0.0.0.0 qwerfdx.com
 0.0.0.0 qwertize.com
 0.0.0.0 r.leadzu.com
+0.0.0.0 r3adyt0download.com
 0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
 0.0.0.0 radiumone.com
 0.0.0.0 railwayrainstorm.com
+0.0.0.0 rakamu.com
 0.0.0.0 ramp.purch.com
 0.0.0.0 rampanel.com
 0.0.0.0 rampidads.com
@@ -17145,6 +17194,7 @@
 0.0.0.0 redirect2719.ws
 0.0.0.0 redirectingat.com
 0.0.0.0 redirectvoluum.com
+0.0.0.0 redlele.com
 0.0.0.0 redmas.com
 0.0.0.0 reduxmedia.com
 0.0.0.0 reduxmediagroup.com
@@ -17545,6 +17595,7 @@
 0.0.0.0 tealeaf.com
 0.0.0.0 tealium.com
 0.0.0.0 tealiumiq.com
+0.0.0.0 tebadu.com
 0.0.0.0 techclicks.net
 0.0.0.0 tedioustooth.com
 0.0.0.0 teenrevenue.com
@@ -17718,6 +17769,7 @@
 0.0.0.0 uarating.com
 0.0.0.0 uberads.com
 0.0.0.0 ubermedia.com
+0.0.0.0 uebadu.com
 0.0.0.0 ueikno.com
 0.0.0.0 uge521.com
 0.0.0.0 ukbanners.com
@@ -17766,6 +17818,7 @@
 0.0.0.0 vanfireworks.com
 0.0.0.0 variablefitness.com
 0.0.0.0 vattingbalak.com
+0.0.0.0 vebadu.com
 0.0.0.0 veille-referencement.com
 0.0.0.0 veinteractive.com
 0.0.0.0 velocecdn.com
@@ -17807,6 +17860,7 @@
 0.0.0.0 vmweb.net
 0.0.0.0 vogueoatgap.com
 0.0.0.0 voicevegetable.com
+0.0.0.0 voradu.com
 0.0.0.0 voredi.com
 0.0.0.0 vpon.com
 0.0.0.0 vrs.cz
@@ -18037,6 +18091,7 @@
 0.0.0.0 xadsmart.com
 0.0.0.0 xchange.ro
 0.0.0.0 xclicks.net
+0.0.0.0 xebadu.com
 0.0.0.0 xertive.com
 0.0.0.0 xg4ken.com
 0.0.0.0 xiti.com
@@ -18051,6 +18106,7 @@
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtremeserve.xyz
 0.0.0.0 xtremetop100.com
+0.0.0.0 xxladu.com
 0.0.0.0 xxssyndic.com
 0.0.0.0 xxxcounter.com
 0.0.0.0 xxxmyself.com
@@ -18108,7 +18164,6 @@
 0.0.0.0 zlp6s.pw
 0.0.0.0 zm232.com
 0.0.0.0 zmedia.com
-0.0.0.0 zqtk.net
 0.0.0.0 zumobi.com
 0.0.0.0 zuphaims.com
 0.0.0.0 zxc.world
@@ -18211,6 +18266,7 @@
 0.0.0.0 c.snnd.co
 0.0.0.0 c2i-cdn.startappnetwork.com
 0.0.0.0 cankaowang.com
+0.0.0.0 capture.condenastdigital.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccgateway.net
 0.0.0.0 cdn.onesignal.com
@@ -18266,6 +18322,7 @@
 0.0.0.0 emltrk.com
 0.0.0.0 ethtrader.de
 0.0.0.0 etl.tindersparks.com
+0.0.0.0 event.condenastdigital.com
 0.0.0.0 events.apester.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.mapbox.com
@@ -18319,6 +18376,7 @@
 0.0.0.0 img.leadzutw.com
 0.0.0.0 img3.usefathom.com
 0.0.0.0 imp.pvnsolutions.com
+0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 inside-graph.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intent.cbsi.com
@@ -18420,6 +18478,7 @@
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pixanalytics.pixnet.net
 0.0.0.0 pixanalytics2.pixnet.net
+0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.nc0.co
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.voltn.com
@@ -18599,6 +18658,7 @@
 0.0.0.0 weigezhiyao.com
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 wieistmeineip.de
+0.0.0.0 wren.condenastdigital.com
 0.0.0.0 wt.soundestlink.com
 0.0.0.0 www.ethtrader.de
 0.0.0.0 www.everestjs.net
