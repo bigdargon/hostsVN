@@ -14,7 +14,7 @@
 
 
 #nhaccuatui
-^https?://graph.nhaccuatui.com/.+advs
+^https?://graph.nhaccuatui.com/.+ads
 ^https?://graph.nhaccuatui.com/.+logs
 ^https?://graph.nhaccuatui.com/.+deviceinfo
 

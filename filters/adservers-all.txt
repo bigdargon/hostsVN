@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Jul 2021 20:06 UTC+7
-! Version: 2107242006
-! Blocked: 6,585 rules
+! Last modified: 27 Jul 2021 17:29 UTC+7
+! Version: 2107271729
+! Blocked: 6,596 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -916,6 +916,7 @@
 ||irduwhojas.ga^
 ||kaurroot.com^
 ||larpollicwilli.club^
+||lib1.biz^
 ||news-good.net^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
@@ -1541,6 +1542,7 @@
 ||fls-*.amazon.com^
 ||flurry.com^
 ||flux-adserver.com^
+||fouanalytics.com^
 ||fout.jp^
 ||fqtag.com^
 ||freeskreen.com^
@@ -1934,6 +1936,7 @@
 ||px-intl.ucweb.com^
 ||px.ucweb.com^
 ||pxlad.io^
+||qrlsx.com^
 ||quantcount.com^
 ||quantserve.com^
 ||quantumdex.io^
@@ -2144,6 +2147,7 @@
 ||upsight.com^
 ||urbanairship.com^
 ||urekamedia.com^
+||urlhausa.com^
 ||userreport.com^
 ||usp1.baidu.com^
 ||ut.taobao.com^
@@ -3391,7 +3395,6 @@
 ||bcfads.com^
 ||bcmediagroup.com^
 ||beabsolom.com^
-||beacon.gu-web.net^
 ||beaconacceptable.com^
 ||bead-ad.com^
 ||beamincrease.com^
@@ -4305,6 +4308,7 @@
 ||illustriousoatmeal.com^
 ||iloopmobile.com^
 ||ilovecheating.com^
+||ilyf4amifh.com^
 ||imagecash.net^
 ||images-pw.secureserver.net^
 ||images.footballaddicts.se^
@@ -4904,6 +4908,7 @@
 ||out-there-media.com^
 ||outtimburrtor.com^
 ||overture.com^
+||ovlliiwtxgjlz.com^
 ||ovyiakt1wzqz.com^
 ||owebmoney.ru^
 ||owlsr.us^
@@ -5392,6 +5397,7 @@
 ||sitedataprocessing.com^
 ||sitemeter.com^
 ||sitestat.com^
+||sitetoway.com^
 ||sixscissors.com^
 ||sixsigmatraffic.com^
 ||sizesidewalk.com^
@@ -5422,6 +5428,7 @@
 ||snapgiant.com^
 ||sneakystamp.com^
 ||snoobi.com^
+||snowdayonline.xyz^
 ||socialspark.com^
 ||softclick.com.br^
 ||sojern.com^
@@ -5626,6 +5633,7 @@
 ||textlinks.com^
 ||tgvbwjbnxz.com^
 ||tgzobwoutuwn.com^
+||thanosofcos5.com^
 ||tharbadir.com^
 ||theadex.com^
 ||theadhost.com^
@@ -5822,6 +5830,7 @@
 ||utils.mediageneral.net^
 ||uttermosthobbies.com^
 ||uyunad.com^
+||uzxkuwalnjp.com^
 ||valegaj.com^
 ||validclick.com^
 ||valuead.com^
@@ -5838,6 +5847,7 @@
 ||velocecdn.com^
 ||velocitycdn.com^
 ||velti.com^
+||venetrigni.com^
 ||ventivmedia.com^
 ||venuegirtjive.com^
 ||verblife-3.co^
@@ -6143,6 +6153,7 @@
 ||bango.net^
 ||batchlogging4.truecaller.com^
 ||beacon-api.aliyuncs.com^
+||beacon.gu-web.net^
 ||beacon.riskified.com^
 ||beacon.shazam.com^
 ||beampulse.com^
@@ -6360,10 +6371,10 @@
 ||opensharecount.com^
 ||ophan.theguardian.com^
 ||optnmstr.com^
-||p.trvdp.com^
 ||p.typekit.net^
 ||pebed.dm.gg^
 ||pegloang.com^
+||phar.gu-web.net^
 ||ping.kitidi.com^
 ||pingback.issuu.com^
 ||pipedream.wistia.com^
