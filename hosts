@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 29 Jul 2021 15:05 UTC+7
-# Version: 2107291505
-# Blocked: 17,627 domains
+# Last modified: 29 Jul 2021 16:04 UTC+7
+# Version: 2107291604
+# Blocked: 17,631 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2256,6 +2256,8 @@
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 hb.pubmatic.com
 0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 hbopenbid-sg.pubmatic.com
+0.0.0.0 hbopenbid-sgc.pubmatic.com
 0.0.0.0 image.pubmatic.com
 0.0.0.0 image1.pubmatic.com
 0.0.0.0 image2.pubmatic.com
@@ -2266,33 +2268,33 @@
 0.0.0.0 image7.pubmatic.com
 0.0.0.0 image8.pubmatic.com
 0.0.0.0 image9.pubmatic.com
-0.0.0.0 lyr.pubmatic.com
 0.0.0.0 openbid.pubmatic.com
-0.0.0.0 ops.pubmatic.com
-0.0.0.0 origin-ui.pubmatic.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 pubmatic.com
-0.0.0.0 phtrack.pubmatic.com
+0.0.0.0 showads-sg.pubmatic.com
+0.0.0.0 showads-sgc.pubmatic.com
 0.0.0.0 showads.pubmatic.com
+0.0.0.0 simage2.pubmatic.com
+0.0.0.0 sshowads.pubmatic.com
 0.0.0.0 t.pubmatic.com
 0.0.0.0 track.pubmatic.com
 0.0.0.0 vid.pubmatic.com
-0.0.0.0 vpaid.pubmatic.com
 0.0.0.0 www.pubmatic.com
-#[doubleverify]
+#[doubleverify.com]
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 doubleverify.com
 0.0.0.0 loga2.doubleverify.com
+0.0.0.0 logall.doubleverify.com
+0.0.0.0 pub.doubleverify.com
+0.0.0.0 rtb0.doubleverify.com
+0.0.0.0 rtb2.doubleverify.com
 0.0.0.0 rtb3.doubleverify.com
 0.0.0.0 rtbcdn.doubleverify.com
-0.0.0.0 srs.doubleverify.com
 0.0.0.0 tps.doubleverify.com
-0.0.0.0 tps10216.doubleverify.com
-0.0.0.0 tps30.doubleverify.com
-0.0.0.0 tps31.doubleverify.com
-0.0.0.0 tracker.cdn-us-doubleverify.com
-0.0.0.0 yt.srs.doubleverify.com
+0.0.0.0 vast.doubleverify.com
+0.0.0.0 vpaid.doubleverify.com
+0.0.0.0 vtrk.doubleverify.com
 #[criteo.net]
 0.0.0.0 azcdn.criteo.net
 0.0.0.0 azcdn-preprod.criteo.net
@@ -5409,46 +5411,28 @@
 #[adform.net]
 0.0.0.0 a1.adform.net
 0.0.0.0 a2.adform.net
-0.0.0.0 adback.adform.net
 0.0.0.0 adform.net
+0.0.0.0 adx-tc.adform.net
 0.0.0.0 adx.adform.net
 0.0.0.0 adx2.adform.net
 0.0.0.0 adx3.adform.net
-0.0.0.0 adx-tc.adform.net
 0.0.0.0 asia.adform.net
 0.0.0.0 c1.adform.net
 0.0.0.0 cm.adform.net
 0.0.0.0 cm2.adform.net
 0.0.0.0 cm3.adform.net
 0.0.0.0 cp.adform.net
-0.0.0.0 czc.adform.net
 0.0.0.0 dmp.adform.net
-0.0.0.0 dmp-eu.adform.net
-0.0.0.0 dmpr.adform.net
-0.0.0.0 edc.adform.net
-0.0.0.0 files.adform.net
-0.0.0.0 files5.adform.net
-0.0.0.0 global.adform.net
-0.0.0.0 global-www.adform.net
 0.0.0.0 hb.adx.adform.net
 0.0.0.0 hb.adx2.adform.net
-0.0.0.0 idmatch.adform.net
-0.0.0.0 isobar.adform.net
-0.0.0.0 nivea.adform.net
-0.0.0.0 pipe.adform.net
+0.0.0.0 hm.adform.net
 0.0.0.0 rtb.adform.net
 0.0.0.0 s1.adform.net
-0.0.0.0 s1-eu.adform.net
 0.0.0.0 s2.adform.net
 0.0.0.0 server.adform.net
-0.0.0.0 targeted-www.adform.net
-0.0.0.0 track.adform.net
 0.0.0.0 track-eu.adform.net
-0.0.0.0 track-tc.adform.net
 0.0.0.0 track-us.adform.net
-0.0.0.0 us.adform.net
-0.0.0.0 villaxl.adform.net
-0.0.0.0 xd.adform.net
+0.0.0.0 track.adform.net
 #[adz2you.net]
 0.0.0.0 adz2you.net
 0.0.0.0 adhitzcom.adz2you.net
@@ -10298,7 +10282,6 @@
 0.0.0.0 instayp.yieldlab.net
 0.0.0.0 lb.yieldlab.net
 0.0.0.0 multissp.yieldlab.net
-0.0.0.0 multissp-dev.yieldlab.net
 0.0.0.0 ortb.yieldlab.net
 0.0.0.0 p.yieldlab.net
 0.0.0.0 probe.yieldlab.net
@@ -12279,6 +12262,33 @@
 0.0.0.0 qrlsx.com
 0.0.0.0 v3.qrlsx.com
 0.0.0.0 vo2.qrlsx.com
+#[ad4m.at]
+0.0.0.0 ad4m.at
+0.0.0.0 as.ad4m.at
+0.0.0.0 assets.ad4m.at
+0.0.0.0 cdn.ad4m.at
+0.0.0.0 kras.ad4m.at
+0.0.0.0 www.ad4m.at
+#[adscale.de]
+0.0.0.0 adscale.de
+0.0.0.0 cotads.adscale.de
+0.0.0.0 hb.adscale.de
+0.0.0.0 ih.adscale.de
+0.0.0.0 js.adscale.de
+0.0.0.0 trx.adscale.de
+0.0.0.0 vh.adscale.de
+0.0.0.0 www.adscale.de
+#[twiago.com]
+0.0.0.0 a.twiago.com
+0.0.0.0 b.twiago.com
+0.0.0.0 cdn.twiago.com
+0.0.0.0 twiago.com
+0.0.0.0 www.twiago.com
+#[onaudience.com]
+0.0.0.0 api.onaudience.com
+0.0.0.0 onaudience.com
+0.0.0.0 pixel.onaudience.com
+0.0.0.0 www.onaudience.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14925,7 +14935,6 @@
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads8.com
 0.0.0.0 adsbridge.com
-0.0.0.0 adscale.de
 0.0.0.0 adscan.yelabapp.com
 0.0.0.0 adscfg.togothermany.cn
 0.0.0.0 adscfg.uqualities.com
@@ -16883,7 +16892,6 @@
 0.0.0.0 omniscientspark.com
 0.0.0.0 omniture.com
 0.0.0.0 on-mobi.com
-0.0.0.0 onaudience.com
 0.0.0.0 onclasrv.com
 0.0.0.0 onclickads.net
 0.0.0.0 onclickmega.com
@@ -17806,7 +17814,6 @@
 0.0.0.0 tutelatechnologies.com
 0.0.0.0 tvmtracker.com
 0.0.0.0 twenticiseflo.site
-0.0.0.0 twiago.com
 0.0.0.0 twittad.com
 0.0.0.0 twokidjay.com
 0.0.0.0 twyn.com
@@ -18286,6 +18293,7 @@
 0.0.0.0 android-stat.acestream.net
 0.0.0.0 anhui-attorney.com
 0.0.0.0 annedouglas.com
+0.0.0.0 api.oneaudience.com
 0.0.0.0 api.prooffactor.com
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.safegraph.com

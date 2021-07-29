@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 29 Jul 2021 15:05 UTC+7
-! Version: 2107291505
-! Blocked: 6,597 domains
+! Last modified: 29 Jul 2021 16:04 UTC+7
+! Version: 2107291604
+! Blocked: 6,599 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -972,6 +972,7 @@ ad.style
 ad.xiaomi.com
 ad1x.com
 ad4game.com
+ad4m.at
 ad4screen.com
 adadvisor.net
 adalyser.com
@@ -1088,6 +1089,7 @@ adsapi*.snapchat.com
 adsaro.net
 adsatt.*.go.com
 adsbynimbus.com
+adscale.de
 adschoom.com
 adsco.re
 adserver-*.*.elb.amazonaws.com
@@ -1837,6 +1839,7 @@ omappapi.com
 omguk.com
 omnitagjs.com
 omtrdc.net
+onaudience.com
 onespot-tracking.herokuapp.com
 onetag-sys.com
 onscroll.com
@@ -2125,6 +2128,7 @@ trustx.org
 tsyndicate.com
 tubeadvertising.eu
 turn.com
+twiago.com
 twik.io
 tx-hit.com
 tynt.com
@@ -2895,7 +2899,6 @@ ads4homes.com
 ads5.virtual-nights.com
 ads8.com
 adsbridge.com
-adscale.de
 adscan.yelabapp.com
 adscfg.togothermany.cn
 adscfg.uqualities.com
@@ -4856,7 +4859,6 @@ olivebrandresponse.com
 omniscientspark.com
 omniture.com
 on-mobi.com
-onaudience.com
 onclasrv.com
 onclickads.net
 onclickmega.com
@@ -5780,7 +5782,6 @@ turboadv.com
 tutelatechnologies.com
 tvmtracker.com
 twenticiseflo.site
-twiago.com
 twittad.com
 twokidjay.com
 twyn.com
@@ -6133,6 +6134,7 @@ analyticsapi.bsbportal.com
 android-stat.acestream.net
 anhui-attorney.com
 annedouglas.com
+api.oneaudience.com
 api.prooffactor.com
 api.quantumgraph.com
 api.safegraph.com
