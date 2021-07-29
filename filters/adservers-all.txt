@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 29 Jul 2021 12:17 UTC+7
-! Version: 2107291217
-! Blocked: 6,598 rules
+! Last modified: 29 Jul 2021 15:05 UTC+7
+! Version: 2107291505
+! Blocked: 6,597 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -133,7 +133,6 @@
 ||novaon.vn^
 ||novaonads.com^
 ||novaonx.com^
-||nt-cdn.coccoc.com^
 ||nv-ad.24hstatic.com^
 ||ohchat.net^
 ||omarketer.viettelpost.vn^
