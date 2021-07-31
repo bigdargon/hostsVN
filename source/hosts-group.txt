@@ -3128,22 +3128,13 @@
 0.0.0.0 www.steepto.com
 #[admedia.com]
 0.0.0.0 admedia.com
-0.0.0.0 adservices.picadmedia.com
-0.0.0.0 adultadmedia.com
-0.0.0.0 advertisers.admedia.com
 0.0.0.0 b.admedia.com
-0.0.0.0 bestadmedia.com
-0.0.0.0 footerroll.admedia.com
+0.0.0.0 c.admedia.com
+0.0.0.0 click.admedia.com
 0.0.0.0 g.admedia.com
-0.0.0.0 globadmedia.com
-0.0.0.0 globaladmedia.com
+0.0.0.0 in.admedia.com
 0.0.0.0 inline.admedia.com
-0.0.0.0 m.admedia.com
-0.0.0.0 members.admedia.com
 0.0.0.0 pixel.admedia.com
-0.0.0.0 v.admedia.com
-0.0.0.0 vslider.admedia.com
-0.0.0.0 w.admedia.com
 #[shareaholic.com]
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 apps.shareaholic.com
@@ -8182,6 +8173,10 @@
 0.0.0.0 adsaro.net
 0.0.0.0 cdn.adsaro.net
 0.0.0.0 www.adsaro.net
+#[adsaro.com]
+0.0.0.0 adsaro.com
+0.0.0.0 offer.adsaro.com
+0.0.0.0 www.adsaro.com
 #[adxxx.com]
 0.0.0.0 aab.adxxx.com
 0.0.0.0 adxxx.com
@@ -12277,3 +12272,24 @@
 0.0.0.0 onaudience.com
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 www.onaudience.com
+#[showcasethat.com]
+0.0.0.0 api.showcasethat.com
+0.0.0.0 click.showcasethat.com
+0.0.0.0 feed.showcasethat.com
+0.0.0.0 images.showcasethat.com
+0.0.0.0 push.showcasethat.com
+0.0.0.0 showcasethat.com
+0.0.0.0 stats.showcasethat.com
+0.0.0.0 www.showcasethat.com
+0.0.0.0 xml.showcasethat.com
+#[wsod.com]
+0.0.0.0 ad.wsod.com
+0.0.0.0 admedia.wsod.com
+0.0.0.0 wsod.com
+#[mng-ads.com]
+0.0.0.0 creative.mng-ads.com
+0.0.0.0 dispatcher.mng-ads.com
+0.0.0.0 lb-adsdis.mng-ads.com
+0.0.0.0 lb-adsmob.mng-ads.com
+0.0.0.0 mng-ads.com
+0.0.0.0 mobile.mng-ads.com
