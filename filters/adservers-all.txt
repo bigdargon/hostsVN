@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 31 Jul 2021 21:20 UTC+7
-! Version: 2107312120
-! Blocked: 6,594 rules
+! Last modified: 03 Aug 2021 09:51 UTC+7
+! Version: 2108030951
+! Blocked: 6,602 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1095,6 +1095,7 @@
 ||adscale.de^
 ||adschoom.com^
 ||adsco.re^
+||adsconex.com^
 ||adserver-*.*.elb.amazonaws.com^
 ||adserver.bing.com^
 ||adserver.yahoo.co.jp^
@@ -1291,7 +1292,6 @@
 ||batch.com^
 ||batmobi.net^
 ||bats.video.yahoo.com^
-||bazaarvoice.com^
 ||beacon-1.newrelic.com^
 ||beacon-3.newrelic.com^
 ||beacon.qq.com^
@@ -1366,6 +1366,7 @@
 ||ccc.sys.intl.xiaomi.com^
 ||ccc.sys.miui.com^
 ||cdnads.com^
+||cdnativepush.com^
 ||cdnwidget.com^
 ||celtra.com^
 ||cfjump.com^
@@ -4400,6 +4401,7 @@
 ||ismtampsshad.icu^
 ||isupopc.com^
 ||itfarm.com^
+||itgiblean.com^
 ||itineraryupper.com^
 ||itnuzleafan.com^
 ||itop.cz^
@@ -4764,6 +4766,7 @@
 ||navigator.io^
 ||navrcholu.cz^
 ||nbjmp.com^
+||ndha4sding6gf.com^
 ||ndparking.com^
 ||nedstat.com^
 ||nedstatbasic.net^
@@ -4930,6 +4933,7 @@
 ||pagerank4you.com^
 ||pageranktop.com^
 ||pagiwp.com^
+||pagne4cham4hrobl.com^
 ||paishuno.net^
 ||paleleaf.com^
 ||pansidlike.net^
@@ -5962,6 +5966,7 @@
 ||widow5blackfr.com^
 ||wikia-ads.wikia.com^
 ||window.nixnet.cz^
+||winneradsmedia.com^
 ||wirecomic.com^
 ||wisepops.com^
 ||witch-counter.de^
@@ -5982,6 +5987,8 @@
 ||wt-eu02.net^
 ||wtlive.com^
 ||www-banner.chat.ru^
+||www.ovlliiwtxgjlz.com^
+||www.uzxkuwalnjp.com^
 ||wyjimapsi.pro^
 ||x-traceur.com^
 ||xad.com^
@@ -6085,6 +6092,7 @@
 ||analytics-ca.clickdimensions.com^
 ||analytics-eu.clickdimensions.com^
 ||analytics-production.hapyak.com^
+||analytics-static.ugc.bazaarvoice.com^
 ||analytics-statistics.machbird.com^
 ||analytics-track.machbird.com^
 ||analytics.agoda.com^

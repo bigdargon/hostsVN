@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 31 Jul 2021 21:20 UTC+7
-# Version: 2107312120
-# Blocked: 17,636 domains
+# Last modified: 03 Aug 2021 09:51 UTC+7
+# Version: 2108030951
+# Blocked: 17,639 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2734,18 +2734,6 @@
 0.0.0.0 static.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 www.sharethrough.com
-#[bazaarvoice]
-0.0.0.0 analytics-static.ugc.bazaarvoice.com
-0.0.0.0 api.bazaarvoice.com
-0.0.0.0 apps.nexus.bazaarvoice.com
-0.0.0.0 cabelas.ugc.bazaarvoice.com
-0.0.0.0 conforama.ugc.bazaarvoice.com
-0.0.0.0 magpie-static.ugc.bazaarvoice.com
-0.0.0.0 network.bazaarvoice.com
-0.0.0.0 network-a.bazaarvoice.com
-0.0.0.0 network-stg.bazaarvoice.com
-0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
-0.0.0.0 photos-us.bazaarvoice.com
 #[lkqd]
 0.0.0.0 ad.lkqd.net
 0.0.0.0 creative.lkqd.net
@@ -12305,6 +12293,15 @@
 0.0.0.0 lb-adsmob.mng-ads.com
 0.0.0.0 mng-ads.com
 0.0.0.0 mobile.mng-ads.com
+#[adsconex.com]
+0.0.0.0 adsconex.com
+0.0.0.0 traffic.adsconex.com
+0.0.0.0 traffic2.adsconex.com
+0.0.0.0 www.adsconex.com
+#[cdnativepush.com]
+0.0.0.0 cdnativepush.com
+0.0.0.0 static.cdnativepush.com
+0.0.0.0 www.cdnativepush.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -16445,6 +16442,7 @@
 0.0.0.0 ismtampsshad.icu
 0.0.0.0 isupopc.com
 0.0.0.0 itfarm.com
+0.0.0.0 itgiblean.com
 0.0.0.0 itineraryupper.com
 0.0.0.0 itnuzleafan.com
 0.0.0.0 itop.cz
@@ -16807,6 +16805,7 @@
 0.0.0.0 navigator.io
 0.0.0.0 navrcholu.cz
 0.0.0.0 nbjmp.com
+0.0.0.0 ndha4sding6gf.com
 0.0.0.0 ndparking.com
 0.0.0.0 nedstat.com
 0.0.0.0 nedstatbasic.net
@@ -16973,6 +16972,7 @@
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
 0.0.0.0 pagiwp.com
+0.0.0.0 pagne4cham4hrobl.com
 0.0.0.0 paishuno.net
 0.0.0.0 paleleaf.com
 0.0.0.0 pansidlike.net
@@ -18004,6 +18004,7 @@
 0.0.0.0 widow5blackfr.com
 0.0.0.0 wikia-ads.wikia.com
 0.0.0.0 window.nixnet.cz
+0.0.0.0 winneradsmedia.com
 0.0.0.0 wirecomic.com
 0.0.0.0 wisepops.com
 0.0.0.0 witch-counter.de
@@ -18112,6 +18113,7 @@
 0.0.0.0 www.onclickmega.com
 0.0.0.0 www.onclicksuper.com
 0.0.0.0 www.oriori.com
+0.0.0.0 www.ovlliiwtxgjlz.com
 0.0.0.0 www.pcmclk.com
 0.0.0.0 www.pcteast.com
 0.0.0.0 www.performanceadexchange.com
@@ -18140,6 +18142,7 @@
 0.0.0.0 www.umiyyusldc.com
 0.0.0.0 www.unmortalloose.com
 0.0.0.0 www.uyunad.com
+0.0.0.0 www.uzxkuwalnjp.com
 0.0.0.0 www.velocitycdn.com
 0.0.0.0 www.vidcpm.com
 0.0.0.0 www.videosprofitnetwork.com
@@ -18256,6 +18259,7 @@
 0.0.0.0 analytics-ca.clickdimensions.com
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-production.hapyak.com
+0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-statistics.machbird.com
 0.0.0.0 analytics-track.machbird.com
 0.0.0.0 analytics.agoda.com

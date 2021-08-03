@@ -2722,18 +2722,6 @@
 0.0.0.0 static.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 www.sharethrough.com
-#[bazaarvoice]
-0.0.0.0 analytics-static.ugc.bazaarvoice.com
-0.0.0.0 api.bazaarvoice.com
-0.0.0.0 apps.nexus.bazaarvoice.com
-0.0.0.0 cabelas.ugc.bazaarvoice.com
-0.0.0.0 conforama.ugc.bazaarvoice.com
-0.0.0.0 magpie-static.ugc.bazaarvoice.com
-0.0.0.0 network.bazaarvoice.com
-0.0.0.0 network-a.bazaarvoice.com
-0.0.0.0 network-stg.bazaarvoice.com
-0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
-0.0.0.0 photos-us.bazaarvoice.com
 #[lkqd]
 0.0.0.0 ad.lkqd.net
 0.0.0.0 creative.lkqd.net
@@ -12293,3 +12281,12 @@
 0.0.0.0 lb-adsmob.mng-ads.com
 0.0.0.0 mng-ads.com
 0.0.0.0 mobile.mng-ads.com
+#[adsconex.com]
+0.0.0.0 adsconex.com
+0.0.0.0 traffic.adsconex.com
+0.0.0.0 traffic2.adsconex.com
+0.0.0.0 www.adsconex.com
+#[cdnativepush.com]
+0.0.0.0 cdnativepush.com
+0.0.0.0 static.cdnativepush.com
+0.0.0.0 www.cdnativepush.com
