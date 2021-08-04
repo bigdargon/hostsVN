@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Aug 2021 09:51 UTC+7
-# Version: 2108030951
-# Blocked: 17,639 domains
+# Last modified: 04 Aug 2021 15:42 UTC+7
+# Version: 2108041542
+# Blocked: 17,647 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3987,10 +3987,8 @@
 0 img.reklamstore.com
 0 addtoany.com
 0 static.addtoany.com
-0 statica.addtoany.com
 0 stats.addtoany.com
 0 www.addtoany.com
-0 www.static.addtoany.com
 0 cdn.staticstuff.net
 0 hello.staticstuff.net
 0 spy.staticstuff.net
@@ -11279,6 +11277,16 @@
 0 cdnativepush.com
 0 static.cdnativepush.com
 0 www.cdnativepush.com
+0 events-writer.smartlook.com
+0 rec.smartlook.com
+0 rec1.smartlook.com
+0 sdk-writer.smartlook.com
+0 smartlook.com
+0 www.smartlook.com
+0 api.wg-aff.com
+0 track.wg-aff.com
+0 wg-aff.com
+0 www.wg-aff.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -12631,6 +12639,7 @@
 0 cdn-bongdadem-net.cdn.ampproject.org
 0 log-vietnamplus-vn.cdn.ampproject.org
 0 sbbanner-com.cdn.ampproject.org
+0 static-addtoany-com.cdn.ampproject.org
 0 chin-adnetwork.com
 0 js.chin-adnetwork.com
 0 5734a40f2d.vws.vegacdn.vn
@@ -16283,7 +16292,6 @@
 0 smartclick.net
 0 smartclip.net
 0 smartdevicemedia.com
-0 smartlook.com
 0 smartmad.com
 0 smartyads.com
 0 smashsurprise.com

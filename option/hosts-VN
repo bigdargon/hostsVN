@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Aug 2021 09:51 UTC+7
-# Version: 2108030951
-# Blocked: 1,829 domains
+# Last modified: 04 Aug 2021 15:42 UTC+7
+# Version: 2108041542
+# Blocked: 1,830 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1506,6 +1506,7 @@
 0.0.0.0 cdn-bongdadem-net.cdn.ampproject.org
 0.0.0.0 log-vietnamplus-vn.cdn.ampproject.org
 0.0.0.0 sbbanner-com.cdn.ampproject.org
+0.0.0.0 static-addtoany-com.cdn.ampproject.org
 #[chin-adnetwork.com]
 0.0.0.0 chin-adnetwork.com
 0.0.0.0 js.chin-adnetwork.com

@@ -4276,10 +4276,8 @@
 #[addtoany]
 0.0.0.0 addtoany.com
 0.0.0.0 static.addtoany.com
-0.0.0.0 statica.addtoany.com
 0.0.0.0 stats.addtoany.com
 0.0.0.0 www.addtoany.com
-0.0.0.0 www.static.addtoany.com
 #[staticstuff]
 0.0.0.0 cdn.staticstuff.net
 0.0.0.0 hello.staticstuff.net
@@ -12290,3 +12288,15 @@
 0.0.0.0 cdnativepush.com
 0.0.0.0 static.cdnativepush.com
 0.0.0.0 www.cdnativepush.com
+#[smartlook.com]
+0.0.0.0 events-writer.smartlook.com
+0.0.0.0 rec.smartlook.com
+0.0.0.0 rec1.smartlook.com
+0.0.0.0 sdk-writer.smartlook.com
+0.0.0.0 smartlook.com
+0.0.0.0 www.smartlook.com
+#[wg-aff.com]
+0.0.0.0 api.wg-aff.com
+0.0.0.0 track.wg-aff.com
+0.0.0.0 wg-aff.com
+0.0.0.0 www.wg-aff.com

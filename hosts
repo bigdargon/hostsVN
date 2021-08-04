@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Aug 2021 09:51 UTC+7
-# Version: 2108030951
-# Blocked: 17,639 domains
+# Last modified: 04 Aug 2021 15:42 UTC+7
+# Version: 2108041542
+# Blocked: 17,647 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4288,10 +4288,8 @@
 #[addtoany]
 0.0.0.0 addtoany.com
 0.0.0.0 static.addtoany.com
-0.0.0.0 statica.addtoany.com
 0.0.0.0 stats.addtoany.com
 0.0.0.0 www.addtoany.com
-0.0.0.0 www.static.addtoany.com
 #[staticstuff]
 0.0.0.0 cdn.staticstuff.net
 0.0.0.0 hello.staticstuff.net
@@ -12302,6 +12300,18 @@
 0.0.0.0 cdnativepush.com
 0.0.0.0 static.cdnativepush.com
 0.0.0.0 www.cdnativepush.com
+#[smartlook.com]
+0.0.0.0 events-writer.smartlook.com
+0.0.0.0 rec.smartlook.com
+0.0.0.0 rec1.smartlook.com
+0.0.0.0 sdk-writer.smartlook.com
+0.0.0.0 smartlook.com
+0.0.0.0 www.smartlook.com
+#[wg-aff.com]
+0.0.0.0 api.wg-aff.com
+0.0.0.0 track.wg-aff.com
+0.0.0.0 wg-aff.com
+0.0.0.0 www.wg-aff.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13798,6 +13808,7 @@
 0.0.0.0 cdn-bongdadem-net.cdn.ampproject.org
 0.0.0.0 log-vietnamplus-vn.cdn.ampproject.org
 0.0.0.0 sbbanner-com.cdn.ampproject.org
+0.0.0.0 static-addtoany-com.cdn.ampproject.org
 #[chin-adnetwork.com]
 0.0.0.0 chin-adnetwork.com
 0.0.0.0 js.chin-adnetwork.com
@@ -17456,7 +17467,6 @@
 0.0.0.0 smartclick.net
 0.0.0.0 smartclip.net
 0.0.0.0 smartdevicemedia.com
-0.0.0.0 smartlook.com
 0.0.0.0 smartmad.com
 0.0.0.0 smartyads.com
 0.0.0.0 smashsurprise.com
