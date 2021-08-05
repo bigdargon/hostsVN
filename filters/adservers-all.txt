@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Aug 2021 15:20 UTC+7
-! Version: 2108051520
+! Last modified: 05 Aug 2021 16:34 UTC+7
+! Version: 2108051634
 ! Blocked: 6,625 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -304,6 +304,7 @@
 ||adserver.muaban.net^
 ||adserver.trangphim.net^
 ||adsgo.nhipcaudautu.vn^
+||adsnetonline.work^
 ||adsplus.vn^
 ||adsv2.autodaily.vn^
 ||adsweb.vn^
@@ -2108,6 +2109,7 @@
 ||tg.meitu.com^
 ||themoneytizer.com^
 ||tivan.naver.com^
+||tns-counter.ru^
 ||tomrigdabih.com^
 ||toponad.com^
 ||tq-tracking.com^
@@ -2995,7 +2997,6 @@
 ||adsmogo.mobi^
 ||adsmogo.net^
 ||adsmogo.org^
-||adsnetonline.work^
 ||adsniper.ru^
 ||adsoftware.com^
 ||adsoldier.com^
@@ -5692,7 +5693,6 @@
 ||tm-banners.gamingadult.com^
 ||tm-offers.gamingadult.com^
 ||tnkexchange.com^
-||tns-counter.ru^
 ||tntclix.co.uk^
 ||todacell.com^
 ||toecircle.com^

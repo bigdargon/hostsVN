@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Aug 2021 15:20 UTC+7
-# Version: 2108051520
-# Blocked: 17,685 domains
+# Last modified: 05 Aug 2021 16:34 UTC+7
+# Version: 2108051634
+# Blocked: 17,690 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12325,6 +12325,12 @@
 0.0.0.0 pq-direct.revsci.net
 0.0.0.0 revsci.net
 0.0.0.0 www.revsci.net
+#[tns-counter.ru]
+0.0.0.0 ar.tns-counter.ru
+0.0.0.0 cm.tns-counter.ru
+0.0.0.0 kz.tns-counter.ru
+0.0.0.0 tns-counter.ru
+0.0.0.0 www.tns-counter.ru
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13907,6 +13913,7 @@
 0.0.0.0 adserver.muaban.net
 0.0.0.0 adserver.trangphim.net
 0.0.0.0 adsgo.nhipcaudautu.vn
+0.0.0.0 adsnetonline.work
 0.0.0.0 adsplus.vn
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adsweb.vn
@@ -14044,6 +14051,7 @@
 0.0.0.0 vnd247.vn
 0.0.0.0 vtvcab.xyz
 0.0.0.0 widget.headlines.pw
+0.0.0.0 www.adsnetonline.work
 0.0.0.0 www.adsweb.vn
 0.0.0.0 www.adt.com.vn
 0.0.0.0 www.advertisement-nhatanh.com
@@ -15055,7 +15063,6 @@
 0.0.0.0 adsmogo.mobi
 0.0.0.0 adsmogo.net
 0.0.0.0 adsmogo.org
-0.0.0.0 adsnetonline.work
 0.0.0.0 adsniper.ru
 0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
@@ -17748,7 +17755,6 @@
 0.0.0.0 tm-banners.gamingadult.com
 0.0.0.0 tm-offers.gamingadult.com
 0.0.0.0 tnkexchange.com
-0.0.0.0 tns-counter.ru
 0.0.0.0 tntclix.co.uk
 0.0.0.0 todacell.com
 0.0.0.0 toecircle.com

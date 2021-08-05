@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Aug 2021 15:20 UTC+7
-! Version: 2108051520
-! Blocked: 926 rules
+! Last modified: 05 Aug 2021 16:34 UTC+7
+! Version: 2108051634
+! Blocked: 927 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -304,6 +304,7 @@
 ||adserver.muaban.net^
 ||adserver.trangphim.net^
 ||adsgo.nhipcaudautu.vn^
+||adsnetonline.work^
 ||adsplus.vn^
 ||adsv2.autodaily.vn^
 ||adsweb.vn^
