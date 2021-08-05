@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Aug 2021 15:42 UTC+7
-! Version: 2108041542
-! Blocked: 6,604 rules
+! Last modified: 05 Aug 2021 15:20 UTC+7
+! Version: 2108051520
+! Blocked: 6,625 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1899,6 +1899,7 @@
 ||plugin.mobopay.baidu.com^
 ||pmddby.com^
 ||po.st^
+||poesonk.com^
 ||popads.net^
 ||popcash.net^
 ||popclck.org^
@@ -1948,6 +1949,7 @@
 ||quantcount.com^
 ||quantserve.com^
 ||quantumdex.io^
+||quickenquave.com^
 ||r-ad.ne.jp^
 ||r.msn.com^
 ||rad.live.com^
@@ -1974,6 +1976,7 @@
 ||revive-adserver.com^
 ||revrtb.com^
 ||revrtb.net^
+||revsci.net^
 ||rfihub.com^
 ||rfrl.pw^
 ||richmediaads.com^
@@ -2249,6 +2252,7 @@
 ||247media.com^
 ||24log.com^
 ||24log.de^
+||24newstech.com^
 ||4d5.net^
 ||4info.com^
 ||4mads.com^
@@ -2446,6 +2450,7 @@
 ||adcenter.net^
 ||adcentriconline.com^
 ||adcept.net^
+||adchdwfbs.com^
 ||adcheap.network^
 ||adchina.com^
 ||adcito.com^
@@ -3153,6 +3158,7 @@
 ||ah-ha.com^
 ||ahalogy.com^
 ||aheadday.com^
+||ahqpqpdjpj.com^
 ||ahreprh2kfk8rfjr09.com^
 ||ahscdn.com^
 ||aidu-ads.de^
@@ -3552,6 +3558,7 @@
 ||casinotraffic.com^
 ||casinotreasure.com^
 ||casterist.info^
+||catchandfatch.bid^
 ||cawsodpet.club^
 ||cbanners.virtuagirlhd.com^
 ||cben1.net^
@@ -3592,6 +3599,7 @@
 ||chickensstation.com^
 ||chicoryapp.com^
 ||chinsnakes.com^
+||chioneflake.com^
 ||chitika.net^
 ||chocohjuanfhdhf.com^
 ||choconart.com^
@@ -3825,6 +3833,7 @@
 ||decoycreation.com^
 ||dedicatedmedia.com^
 ||defectivesun.com^
+||defyraspypuke.com^
 ||delegatediscussion.com^
 ||deligrassdull.com^
 ||deliver.vkcdnservice.com^
@@ -3871,6 +3880,7 @@
 ||dmtracker.com^
 ||dmtracking.alibaba.com^
 ||dmtracking2.alibaba.com^
+||dmxleo.dailymotion.com^
 ||dnemkhkbsdbl.com^
 ||dnps.com^
 ||docksalmon.com^
@@ -4068,6 +4078,7 @@
 ||feedbackresearch.com^
 ||feedjit.com^
 ||feverhappyjack.com^
+||fieldofbachus.com^
 ||fiksu.com^
 ||fimc.net^
 ||fimserve.com^
@@ -4203,6 +4214,7 @@
 ||guppymedia.com^
 ||gwallet.com^
 ||h78xb.pw^
+||hairdosslitter.casa^
 ||hammerhearing.com^
 ||handyfield.com^
 ||hardtofindmilk.com^
@@ -4211,6 +4223,7 @@
 ||harrenmedianetwork.com^
 ||havamedia.net^
 ||hawkyeye5ssnd.com^
+||healthsmd.com^
 ||healthyoffers.com^
 ||heap.com^
 ||hebadu.com^
@@ -4220,6 +4233,7 @@
 ||hellobar.com^
 ||hentaicounter.com^
 ||herbalaffiliateprogram.com^
+||herdcowhas.icu^
 ||heyos.com^
 ||heywire.com^
 ||hfc195b.com^
@@ -4286,6 +4300,7 @@
 ||hypermusk.com^
 ||hypertracker.com^
 ||hystericalhelp.com^
+||hzkachqd.com^
 ||i-clicks.net^
 ||i-lookup.com^
 ||i1img.com^
@@ -4378,6 +4393,7 @@
 ||instinctiveads.com^
 ||instrumentsponge.com^
 ||intelliads.com^
+||intelligenceadx.com^
 ||intellilinks.com^
 ||intellipopup.com^
 ||intellitxt.com^
@@ -4401,6 +4417,7 @@
 ||irkfunkyformer.com^
 ||irncdn.com^
 ||ironsource.mobi^
+||isfxsiooyjad.com^
 ||ismtampsshad.icu^
 ||isupopc.com^
 ||itfarm.com^
@@ -4448,6 +4465,7 @@
 ||kaplanindex.com^
 ||karisimbi.net^
 ||karonty.com^
+||kbnihnmrghgy.com^
 ||keapeiros.xyz^
 ||ketchapp.org^
 ||kindads.com^
@@ -4862,6 +4880,7 @@
 ||offoonguser.com^
 ||ofhappinyer.com^
 ||olivebrandresponse.com^
+||olkrzytv.com^
 ||omniscientspark.com^
 ||omniture.com^
 ||on-mobi.com^
@@ -5247,7 +5266,6 @@
 ||revenue.net^
 ||revenuedirect.com^
 ||revmob.com^
-||revsci.net^
 ||revstats.com^
 ||rhythmnewmedia.com^
 ||ribunews.com^
@@ -5262,6 +5280,7 @@
 ||ritzykey.com^
 ||ritzysponge.com^
 ||riverhit.com^
+||rjw4obbw.com^
 ||rle.ru^
 ||rmedia.boston.com^
 ||rmiesnorthur.pro^
@@ -5668,6 +5687,7 @@
 ||tinybar.com^
 ||tithewtog.com^
 ||tizers.net^
+||tkickhhylnvm.com^
 ||tlvmedia.com^
 ||tm-banners.gamingadult.com^
 ||tm-offers.gamingadult.com^
@@ -6018,6 +6038,7 @@
 ||xxxmyself.com^
 ||xy7elite.com^
 ||y.ibsys.com^
+||y2tejq2s11on.com^
 ||yabuka.com^
 ||yads.c.yimg.jp^
 ||ybrantdigital.com^
