@@ -3614,7 +3614,12 @@
 0.0.0.0 ec.moengage.com
 0.0.0.0 image.moengage.com
 0.0.0.0 inapps.moengage.com
+0.0.0.0 moengage.com
+0.0.0.0 sdk-01.moengage.com
+0.0.0.0 sdk-02.moengage.com
+0.0.0.0 sdk-03.moengage.com
 0.0.0.0 websdk.moengage.com
+0.0.0.0 www.moengage.com
 #[localytics]
 0.0.0.0 a.localytics.com
 0.0.0.0 ads.localytics.com
@@ -12319,3 +12324,6 @@
 0.0.0.0 kz.tns-counter.ru
 0.0.0.0 tns-counter.ru
 0.0.0.0 www.tns-counter.ru
+#[nettierbrakier.com]
+0.0.0.0 nettierbrakier.com
+0.0.0.0 vv.nettierbrakier.com

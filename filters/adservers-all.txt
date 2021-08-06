@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Aug 2021 16:34 UTC+7
-! Version: 2108051634
-! Blocked: 6,625 rules
+! Last modified: 06 Aug 2021 15:23 UTC+7
+! Version: 2108061523
+! Blocked: 6,626 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1820,6 +1820,7 @@
 ||nend.net^
 ||neptuneadspush.com^
 ||netcoresmartech.com^
+||nettierbrakier.com^
 ||netund.com^
 ||neustar.biz^
 ||newrelic.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Aug 2021 16:34 UTC+7
-# Version: 2108051634
-# Blocked: 17,690 domains
+# Last modified: 06 Aug 2021 15:23 UTC+7
+# Version: 2108061523
+# Blocked: 17,697 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3366,7 +3366,12 @@
 0 ec.moengage.com
 0 image.moengage.com
 0 inapps.moengage.com
+0 moengage.com
+0 sdk-01.moengage.com
+0 sdk-02.moengage.com
+0 sdk-03.moengage.com
 0 websdk.moengage.com
+0 www.moengage.com
 0 a.localytics.com
 0 ads.localytics.com
 0 amp.localytics.com
@@ -11302,6 +11307,8 @@
 0 kz.tns-counter.ru
 0 tns-counter.ru
 0 www.tns-counter.ru
+0 nettierbrakier.com
+0 vv.nettierbrakier.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
