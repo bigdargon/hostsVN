@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Aug 2021 20:08 UTC+7
-# Version: 2108062008
-# Blocked: 17,696 domains
+# Last modified: 07 Aug 2021 15:13 UTC+7
+# Version: 2108071513
+# Blocked: 17,708 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -536,6 +536,8 @@
 0 s.update.fbsbx.com
 0 t.update.fbsbx.com
 0 u.update.fbsbx.com
+0 dit.whatsapp.net
+0 privatestats.whatsapp.net
 0 ads-api.twitter.com
 0 ads-bidder-api.twitter.com
 0 ads.twitter.com
@@ -2589,21 +2591,32 @@
 0 static.2mdnsys.com
 0 stats.2mdnsys.com
 0 cfa.2mdnsys.com
-0 adn.insight.ucweb.com
-0 click.union.ucweb.com
+0 adtrack.ucweb.com
 0 gjapplog.ucweb.com
 0 gjtrack.ucweb.com
-0 insight.ucweb.com
-0 logserver.insight.ucweb.com
+0 logssug.ucweb.com
 0 puds.ucweb.com
 0 px-intl.ucweb.com
 0 px.ucweb.com
-0 sdkupgrade.insight.ucweb.com
 0 uc.ucweb.com
+0 adn.insight.ucweb.com
+0 insight.ucweb.com
+0 logserver.insight.ucweb.com
+0 sdkupgrade.insight.ucweb.com
 0 ucads.ucweb.com
 0 plugin.ucads.ucweb.com
+0 attr.union.ucweb.com
+0 c.union.ucweb.com
+0 click.union.ucweb.com
+0 log.union.ucweb.com
+0 slot.union.ucweb.com
+0 union.ucweb.com
+0 ads.uc.cn
+0 adslot.uc.cn
 0 applog.uc.cn
 0 applogios.uc.cn
+0 gjapplog.uc.cn
+0 gjtrack.uc.cn
 0 track.uc.cn
 0 ai.branch.io
 0 api.branch.io
@@ -17452,7 +17465,6 @@
 0 plrxserv.com
 0 popupmaker.com
 0 presage.io
-0 privatestats.whatsapp.net
 0 promotionengine.com
 0 prooffactor.com
 0 propeller-tracking.com

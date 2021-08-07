@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 06 Aug 2021 20:08 UTC+7
-! Version: 2108062008
-! Blocked: 6,625 domains
+! Last modified: 07 Aug 2021 15:13 UTC+7
+! Version: 2108071513
+! Blocked: 6,632 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -1075,6 +1075,7 @@ ads.snapchat.com
 ads.tiktok.com
 ads.truecaller.com
 ads.twitter.com
+ads.uc.cn
 ads.yahoo.com
 ads.yap.yahoo.com
 ads.youtube.com
@@ -1107,6 +1108,7 @@ adsfs.oppomobile.com
 adskeeper.co.uk
 adskeeper.com
 adsloads.com
+adslot.uc.cn
 adsnative.com
 adspeed.net
 adspirit.de
@@ -1131,6 +1133,7 @@ adtilt.com
 adtlgc.com
 adtng.com
 adtrack.king.com
+adtrack.ucweb.com
 adtrack1.midasplayer.com
 adtrackers.net
 adtrue.com
@@ -1389,7 +1392,6 @@ clck.yandex.com
 clcktrax.com
 clean.gg
 clevertap.com
-click.union.ucweb.com
 clickadilla.com
 clickagy.com
 clickaine.com
@@ -1472,6 +1474,7 @@ dfnb-ads.com
 direct-events-collector.spot.im
 districtm.io
 districtm.net
+dit.whatsapp.net
 dj1*.online
 djaxadserver.com
 dl1d2m8ri9v3j.cloudfront.net
@@ -1572,7 +1575,9 @@ geofence.sys.miui.com
 getadmiral.com
 getclicky.com
 getpublica.com
+gjapplog.uc.cn
 gjapplog.ucweb.com
+gjtrack.uc.cn
 gjtrack.ucweb.com
 glispa.com
 glotgrx.com
@@ -1719,6 +1724,7 @@ logql.yahoo.co.jp
 logrocket.com
 logrocket.io
 logsdk.qq.com
+logssug.ucweb.com
 logupdate.avlyun.sec.miui.com
 loopme.me
 lotame.com
@@ -1912,6 +1918,7 @@ pps-log.op-mobile.opera.com
 pr-bh.ybp.yahoo.com
 pr.comet.yahoo.com
 prebid.org
+privatestats.whatsapp.net
 pro-market.net
 proads.space
 prod-collecticon.outlookmobile.com
@@ -2154,6 +2161,7 @@ umeng.com
 umengcloud.com
 undertone.com
 uniconsent.com
+union.ucweb.com
 unionstatistics.com
 unityads.unity3d.com
 unrulymedia.com
@@ -6423,7 +6431,6 @@ playtomic.com
 plrxserv.com
 popupmaker.com
 presage.io
-privatestats.whatsapp.net
 promotionengine.com
 prooffactor.com
 propeller-tracking.com

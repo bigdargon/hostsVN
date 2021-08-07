@@ -575,6 +575,9 @@
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 t.update.fbsbx.com
 0.0.0.0 u.update.fbsbx.com
+#[whatsapp.net]
+0.0.0.0 dit.whatsapp.net
+0.0.0.0 privatestats.whatsapp.net
 #[twitter.com]
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
@@ -2777,23 +2780,36 @@
 0.0.0.0 stats.2mdnsys.com
 0.0.0.0 cfa.2mdnsys.com
 #[ucweb.com]
-0.0.0.0 adn.insight.ucweb.com
-0.0.0.0 click.union.ucweb.com
+0.0.0.0 adtrack.ucweb.com
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 gjtrack.ucweb.com
-0.0.0.0 insight.ucweb.com
-0.0.0.0 logserver.insight.ucweb.com
+0.0.0.0 logssug.ucweb.com
 0.0.0.0 puds.ucweb.com
 0.0.0.0 px-intl.ucweb.com
 0.0.0.0 px.ucweb.com
-0.0.0.0 sdkupgrade.insight.ucweb.com
 0.0.0.0 uc.ucweb.com
+#[insight.ucweb.com]
+0.0.0.0 adn.insight.ucweb.com
+0.0.0.0 insight.ucweb.com
+0.0.0.0 logserver.insight.ucweb.com
+0.0.0.0 sdkupgrade.insight.ucweb.com
 #[ucads.ucweb.com]
 0.0.0.0 ucads.ucweb.com
 0.0.0.0 plugin.ucads.ucweb.com
+#[union.ucweb.com]
+0.0.0.0 attr.union.ucweb.com
+0.0.0.0 c.union.ucweb.com
+0.0.0.0 click.union.ucweb.com
+0.0.0.0 log.union.ucweb.com
+0.0.0.0 slot.union.ucweb.com
+0.0.0.0 union.ucweb.com
 #[uc.cn]
+0.0.0.0 ads.uc.cn
+0.0.0.0 adslot.uc.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 applogios.uc.cn
+0.0.0.0 gjapplog.uc.cn
+0.0.0.0 gjtrack.uc.cn
 0.0.0.0 track.uc.cn
 #[branch]
 0.0.0.0 ai.branch.io

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Aug 2021 20:08 UTC+7
-! Version: 2108062008
-! Blocked: 6,625 rules
+! Last modified: 07 Aug 2021 15:13 UTC+7
+! Version: 2108071513
+! Blocked: 6,632 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1077,6 +1077,7 @@
 ||ads.tiktok.com^
 ||ads.truecaller.com^
 ||ads.twitter.com^
+||ads.uc.cn^
 ||ads.yahoo.com^
 ||ads.yap.yahoo.com^
 ||ads.youtube.com^
@@ -1109,6 +1110,7 @@
 ||adskeeper.co.uk^
 ||adskeeper.com^
 ||adsloads.com^
+||adslot.uc.cn^
 ||adsnative.com^
 ||adspeed.net^
 ||adspirit.de^
@@ -1133,6 +1135,7 @@
 ||adtlgc.com^
 ||adtng.com^
 ||adtrack.king.com^
+||adtrack.ucweb.com^
 ||adtrack1.midasplayer.com^
 ||adtrackers.net^
 ||adtrue.com^
@@ -1391,7 +1394,6 @@
 ||clcktrax.com^
 ||clean.gg^
 ||clevertap.com^
-||click.union.ucweb.com^
 ||clickadilla.com^
 ||clickagy.com^
 ||clickaine.com^
@@ -1474,6 +1476,7 @@
 ||direct-events-collector.spot.im^
 ||districtm.io^
 ||districtm.net^
+||dit.whatsapp.net^
 ||dj1*.online^
 ||djaxadserver.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
@@ -1574,7 +1577,9 @@
 ||getadmiral.com^
 ||getclicky.com^
 ||getpublica.com^
+||gjapplog.uc.cn^
 ||gjapplog.ucweb.com^
+||gjtrack.uc.cn^
 ||gjtrack.ucweb.com^
 ||glispa.com^
 ||glotgrx.com^
@@ -1721,6 +1726,7 @@
 ||logrocket.com^
 ||logrocket.io^
 ||logsdk.qq.com^
+||logssug.ucweb.com^
 ||logupdate.avlyun.sec.miui.com^
 ||loopme.me^
 ||lotame.com^
@@ -1914,6 +1920,7 @@
 ||pr-bh.ybp.yahoo.com^
 ||pr.comet.yahoo.com^
 ||prebid.org^
+||privatestats.whatsapp.net^
 ||pro-market.net^
 ||proads.space^
 ||prod-collecticon.outlookmobile.com^
@@ -2156,6 +2163,7 @@
 ||umengcloud.com^
 ||undertone.com^
 ||uniconsent.com^
+||union.ucweb.com^
 ||unionstatistics.com^
 ||unityads.unity3d.com^
 ||unrulymedia.com^
@@ -6425,7 +6433,6 @@
 ||plrxserv.com^
 ||popupmaker.com^
 ||presage.io^
-||privatestats.whatsapp.net^
 ||promotionengine.com^
 ||prooffactor.com^
 ||propeller-tracking.com^
