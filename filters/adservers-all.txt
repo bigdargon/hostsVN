@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 Aug 2021 15:13 UTC+7
-! Version: 2108071513
-! Blocked: 6,632 rules
+! Last modified: 07 Aug 2021 16:39 UTC+7
+! Version: 2108071639
+! Blocked: 6,636 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -768,6 +768,8 @@
 ||lixi88.info^
 ||lixi888.online^
 ||loc88.fun^
+||loc89.fun^
+||loc89.vip^
 ||lode88.vip^
 ||lucky88.com^
 ||lucky88.live^
@@ -808,6 +810,7 @@
 ||one88.vip^
 ||one88.vn^
 ||oneday88.com^
+||oppa88888888.com^
 ||oxbet.club^
 ||oxbet.com^
 ||playgamefa88.live^
@@ -6082,6 +6085,7 @@
 ||zap.buzz^
 ||zarpop.com^
 ||zbwp6ghm.com^
+||zdaptrksg.com^
 ||zdbb.net^
 ||zealousfield.com^
 ||zedo.com^
