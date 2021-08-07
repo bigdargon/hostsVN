@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Aug 2021 16:39 UTC+7
-! Version: 2108071639
-! Blocked: 930 rules
+! Last modified: 07 Aug 2021 20:57 UTC+7
+! Version: 2108072057
+! Blocked: 932 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -693,6 +693,7 @@
 ||aw8vn2.com^
 ||b29qc.win^
 ||b52.win^
+||bestcacuoc8.com^
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
@@ -770,6 +771,7 @@
 ||loc88.fun^
 ||loc89.fun^
 ||loc89.vip^
+||lode555.com^
 ||lode88.vip^
 ||lucky88.com^
 ||lucky88.live^

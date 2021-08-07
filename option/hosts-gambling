@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 07 Aug 2021 16:39 UTC+7
-# Version: 2108071639
-# Blocked: 3,026 domains
+# Last modified: 07 Aug 2021 20:57 UTC+7
+# Version: 2108072057
+# Blocked: 3,030 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -795,6 +795,10 @@
 0.0.0.0 oppa88888888.com
 0.0.0.0 api.oppa88888888.com
 0.0.0.0 www.oppa88888888.com
+0.0.0.0 bestcacuoc8.com
+0.0.0.0 www.bestcacuoc8.com
+0.0.0.0 lode555.com
+0.0.0.0 www.lode555.com
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
