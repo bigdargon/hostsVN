@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Aug 2021 14:53 UTC+7
-# Version: 2108091453
-# Blocked: 17,758 domains
+# Last modified: 09 Aug 2021 17:14 UTC+7
+# Version: 2108091714
+# Blocked: 17,765 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3576,23 +3576,34 @@
 0.0.0.0 widgets.getclicky.com
 0.0.0.0 www.getclicky.com
 #[yandex.ru]
-0.0.0.0 adfox.yandex.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 bs.yandex.ru
 0.0.0.0 informer.yandex.ru
 0.0.0.0 mc.yandex.ru
-0.0.0.0 d31j93rd8oukbv.cloudfront.net
+0.0.0.0 adsdk.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 clck.yandex.ru
+0.0.0.0 share.yandex.ru
+#[adfox.yandex.ru]
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 matchid.adfox.yandex.ru
+#[appmetrica.yandex.ru]
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 redirect.appmetrica.yandex.ru
 #[yandex.net]
-0.0.0.0 analytics.mobile.yandex.net
-0.0.0.0 appmetrica.yandex.net
 0.0.0.0 awaps.yandex.net
-0.0.0.0 banners.mobile.yandex.net
-0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 external-promo-metrics.yandex.net
+#[appmetrica.yandex.net]
+0.0.0.0 appmetrica.yandex.net
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rosenberg.appmetrica.yandex.net
+#[mobile.yandex.net]
+0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 banners-slb.mobile.yandex.net
+0.0.0.0 banners.mobile.yandex.net
+0.0.0.0 startup.mobile.yandex.net
 #[yandex.com]
 0.0.0.0 clck.yandex.com
 0.0.0.0 appmetrica.yandex.com
