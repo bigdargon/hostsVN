@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Aug 2021 20:57 UTC+7
-# Version: 2108072057
-# Blocked: 17,706 domains
+# Last modified: 09 Aug 2021 14:53 UTC+7
+# Version: 2108091453
+# Blocked: 17,758 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12345,6 +12345,65 @@
 0.0.0.0 kz.tns-counter.ru
 0.0.0.0 tns-counter.ru
 0.0.0.0 www.tns-counter.ru
+#[adpicmedia.net]
+0.0.0.0 adpicmedia.net
+0.0.0.0 bid.adpicmedia.net
+0.0.0.0 eu.adpicmedia.net
+0.0.0.0 www.adpicmedia.net
+0.0.0.0 xml.adpicmedia.net
+#[rklmstr.com]
+0.0.0.0 bid.rklmstr.com
+0.0.0.0 cdn.rklmstr.com
+0.0.0.0 rklmstr.com
+0.0.0.0 rtb.rklmstr.com
+0.0.0.0 static.rklmstr.com
+0.0.0.0 www.rklmstr.com
+0.0.0.0 xml.rklmstr.com
+0.0.0.0 xml2.rklmstr.com
+#[boffoadsfeeds.com]
+0.0.0.0 boffoadsfeeds.com
+0.0.0.0 xml.boffoadsfeeds.com
+0.0.0.0 www.boffoadsfeeds.com
+#[asdpoi.com]
+0.0.0.0 asdpoi.com
+0.0.0.0 widgets.asdpoi.com
+0.0.0.0 www.asdpoi.com
+#[admozartxml.com]
+0.0.0.0 admozartxml.com
+0.0.0.0 static.admozartxml.com
+0.0.0.0 www.admozartxml.com
+0.0.0.0 xml.admozartxml.com
+#[admidainsight.com]
+0.0.0.0 admidainsight.com
+0.0.0.0 static.admidainsight.com
+0.0.0.0 www.admidainsight.com
+0.0.0.0 xml.admidainsight.com
+#[adservercheck.net]
+0.0.0.0 adservercheck.net
+0.0.0.0 bid.adservercheck.net
+0.0.0.0 www.adservercheck.net
+0.0.0.0 xml.adservercheck.net
+#[am15.net]
+0.0.0.0 am15.net
+0.0.0.0 b.am15.net
+0.0.0.0 c.am15.net
+0.0.0.0 rtb.am15.net
+#[kidoz.net]
+0.0.0.0 analytics.kidoz.net
+0.0.0.0 cdn.kidoz.net
+0.0.0.0 kidoz.net
+0.0.0.0 sdk-api.kidoz.net
+0.0.0.0 sdk.kidoz.net
+0.0.0.0 vast.kidoz.net
+0.0.0.0 www.kidoz.net
+#[yandexadexchange.net]
+0.0.0.0 an.yandexadexchange.net
+0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 postback.yandexadexchange.net
+0.0.0.0 st.yandexadexchange.net
+0.0.0.0 yandexadexchange.net
+0.0.0.0 advideo.dsp.yandexadexchange.net
+0.0.0.0 bigo.dsp.yandexadexchange.net
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15263,6 +15322,7 @@
 0.0.0.0 allmyverygreatlife.com
 0.0.0.0 allosponsor.com
 0.0.0.0 allstarmediagroup.com
+0.0.0.0 altronopubacc.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
@@ -17207,6 +17267,7 @@
 0.0.0.0 ps.ns-cdn.com
 0.0.0.0 ps7894.com
 0.0.0.0 psstt.com
+0.0.0.0 psvpromo.psvgamestudio.com
 0.0.0.0 ptairtug.net
 0.0.0.0 ptywajofa.pro
 0.0.0.0 pub.chez.com
@@ -17214,6 +17275,7 @@
 0.0.0.0 pub.hardware.fr
 0.0.0.0 pub.realmedia.fr
 0.0.0.0 pub.trads.io
+0.0.0.0 pubacca5mc.com
 0.0.0.0 pubaka5.com
 0.0.0.0 pubdirecte.com
 0.0.0.0 public.wedodemos.com
