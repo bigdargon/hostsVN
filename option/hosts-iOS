@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Aug 2021 17:20 UTC+7
-# Version: 2108091720
-# Blocked: 17,765 domains
+# Last modified: 10 Aug 2021 10:54 UTC+7
+# Version: 2108101054
+# Blocked: 17,762 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10180,6 +10180,7 @@
 0 sync.userreport.com
 0 tag.userreport.com
 0 userreport.com
+0 visitanalytics.userreport.com
 0 a.c.appier.net
 0 ad.appier.net
 0 ad2.apx.appier.net
@@ -11101,10 +11102,6 @@
 0 pg.xdrig.com
 0 push.xdrig.com
 0 xdrig.com
-0 delivery.smartadnetwork.net
-0 smartadnetwork.net
-0 tracking.smartadnetwork.net
-0 www.smartadnetwork.net
 0 banners.tubeadvertising.eu
 0 smart.tubeadvertising.eu
 0 tubeadvertising.eu
