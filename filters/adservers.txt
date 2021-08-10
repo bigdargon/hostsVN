@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Aug 2021 10:54 UTC+7
-! Version: 2108101054
-! Blocked: 932 rules
+! Last modified: 10 Aug 2021 15:26 UTC+7
+! Version: 2108101526
+! Blocked: 933 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -678,6 +678,7 @@
 ||789club.biz^
 ||789club.org^
 ||79lucky.com^
+||79sodo.com^
 ||888b.com^
 ||888b.in^
 ||88viet.com^

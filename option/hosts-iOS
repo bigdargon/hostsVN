@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Aug 2021 10:54 UTC+7
-# Version: 2108101054
-# Blocked: 17,762 domains
+# Last modified: 10 Aug 2021 15:26 UTC+7
+# Version: 2108101526
+# Blocked: 17,764 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11368,6 +11368,9 @@
 0 yandexadexchange.net
 0 advideo.dsp.yandexadexchange.net
 0 bigo.dsp.yandexadexchange.net
+0 cdn.jampp.com
+0 imgx.jampp.com
+0 jampp.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -15465,6 +15468,7 @@
 0 levelrate.de
 0 lfstmedia.com
 0 lib.vmweb.net
+0 libedgolart.com
 0 liftdna.com
 0 ligatus.de
 0 lightboxcdn.com
@@ -16337,8 +16341,6 @@
 0 sextracker.com
 0 sexystat.com
 0 sezwho.com
-0 sf3-fe-tos.pglstatp-toutiao.com
-0 sf3-ttcdn-tos.pstatp.com
 0 shakesea.com
 0 shakesuggestion.com
 0 shakytaste.com
