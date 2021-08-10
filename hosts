@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Aug 2021 15:26 UTC+7
-# Version: 2108101526
-# Blocked: 17,764 domains
+# Last modified: 10 Aug 2021 15:34 UTC+7
+# Version: 2108101534
+# Blocked: 17,765 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12415,6 +12415,7 @@
 0.0.0.0 cdn.jampp.com
 0.0.0.0 imgx.jampp.com
 0.0.0.0 jampp.com
+0.0.0.0 tracking.jampp.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
