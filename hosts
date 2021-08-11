@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Aug 2021 15:34 UTC+7
-# Version: 2108101534
-# Blocked: 17,765 domains
+# Last modified: 11 Aug 2021 10:18 UTC+7
+# Version: 2108111018
+# Blocked: 17,794 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12416,6 +12416,22 @@
 0.0.0.0 imgx.jampp.com
 0.0.0.0 jampp.com
 0.0.0.0 tracking.jampp.com
+#[truepush.com]
+0.0.0.0 api.truepush.com
+0.0.0.0 app.truepush.com
+0.0.0.0 bid.truepush.com
+0.0.0.0 cdn.truepush.com
+0.0.0.0 cdni.truepush.com
+0.0.0.0 img.truepush.com
+0.0.0.0 s.truepush.com
+0.0.0.0 sdk.truepush.com
+0.0.0.0 sdki.truepush.com
+0.0.0.0 stats.truepush.com
+0.0.0.0 truepush.com
+0.0.0.0 www.truepush.com
+#[cachefly.net]
+0.0.0.0 ambientdsp.cachefly.net
+0.0.0.0 flurry.cachefly.net
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13916,6 +13932,17 @@
 #[chin-adnetwork.com]
 0.0.0.0 chin-adnetwork.com
 0.0.0.0 js.chin-adnetwork.com
+#[myad.vn]
+0.0.0.0 academy.myad.vn
+0.0.0.0 adscare.myad.vn
+0.0.0.0 campaign.myad.vn
+0.0.0.0 cdn.myad.vn
+0.0.0.0 cucrevn.viralink.myad.vn
+0.0.0.0 dmp.myad.vn
+0.0.0.0 media.myad.vn
+0.0.0.0 realtime.myad.vn
+0.0.0.0 viralink.myad.vn
+0.0.0.0 www.myad.vn
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -13958,6 +13985,7 @@
 0.0.0.0 ads.businessstyle.vn
 0.0.0.0 ads.careerbuilder.vn
 0.0.0.0 ads.carmudi.vn
+0.0.0.0 ads.chanhtuoi.com
 0.0.0.0 ads.conlatatca.vn
 0.0.0.0 ads.fptplay.net.vn
 0.0.0.0 ads.gosu.vn
@@ -13996,6 +14024,7 @@
 0.0.0.0 adserver.lag.vn
 0.0.0.0 adserver.luzu.vn
 0.0.0.0 adserver.muaban.net
+0.0.0.0 adserver.sudo.vn
 0.0.0.0 adserver.trangphim.net
 0.0.0.0 adsgo.nhipcaudautu.vn
 0.0.0.0 adsnetonline.work
@@ -14087,7 +14116,6 @@
 0.0.0.0 mega1.yeah1.com
 0.0.0.0 microad.vn
 0.0.0.0 mobileads.dieuviet.com
-0.0.0.0 myad.vn
 0.0.0.0 ng-vn-notice.gameitop.com
 0.0.0.0 nspapi.aiservice.vn
 0.0.0.0 offerwall.headlines.pw
@@ -14199,6 +14227,7 @@
 0.0.0.0 clicker.chiaki.vn
 0.0.0.0 clientinfo.phimmoizz.net
 0.0.0.0 collect.ovp.vn
+0.0.0.0 core.vchat.vn
 0.0.0.0 counter.24h.com.vn
 0.0.0.0 counter.ntdvn.com
 0.0.0.0 crm.bizfly.vn
@@ -14286,6 +14315,7 @@
 0.0.0.0 nstat.headlines.pw
 0.0.0.0 pixel.chotot.com
 0.0.0.0 production-tracking.riviu.co
+0.0.0.0 proof.sudo.vn
 0.0.0.0 report.vnay.vn
 0.0.0.0 rsyslog.24h.com.vn
 0.0.0.0 s.baomoi.xdn.vn
@@ -17434,6 +17464,7 @@
 0.0.0.0 riverhit.com
 0.0.0.0 rjw4obbw.com
 0.0.0.0 rle.ru
+0.0.0.0 rmcxyfqbm.com
 0.0.0.0 rmedia.boston.com
 0.0.0.0 rmiesnorthur.pro
 0.0.0.0 roar.com
@@ -18269,6 +18300,7 @@
 0.0.0.0 www.propu.sh
 0.0.0.0 www.prownl.com
 0.0.0.0 www.push-notifications.top
+0.0.0.0 www.rmcxyfqbm.com
 0.0.0.0 www.routeserve.info
 0.0.0.0 www.rvedfxeljxo.com
 0.0.0.0 www.servsave.com

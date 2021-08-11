@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 10 Aug 2021 15:34 UTC+7
-! Version: 2108101534
-! Blocked: 6,656 domains
+! Last modified: 11 Aug 2021 10:18 UTC+7
+! Version: 2108111018
+! Blocked: 6,664 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -125,6 +125,7 @@ mepuzz.com
 metrics.coccoc.com
 mobilead.vn
 mobio.vn
+myad.vn
 nanda.vn
 novanet.vn
 novaon.asia
@@ -262,6 +263,7 @@ ads.bkitsoftware.com
 ads.businessstyle.vn
 ads.careerbuilder.vn
 ads.carmudi.vn
+ads.chanhtuoi.com
 ads.conlatatca.vn
 ads.fptplay.net.vn
 ads.gosu.vn
@@ -300,6 +302,7 @@ ads1.careerbuilder.vn
 adserver.lag.vn
 adserver.luzu.vn
 adserver.muaban.net
+adserver.sudo.vn
 adserver.trangphim.net
 adsgo.nhipcaudautu.vn
 adsnetonline.work
@@ -391,7 +394,6 @@ media.dabong247.com
 mega1.yeah1.com
 microad.vn
 mobileads.dieuviet.com
-myad.vn
 ng-vn-notice.gameitop.com
 nspapi.aiservice.vn
 offerwall.headlines.pw
@@ -483,6 +485,7 @@ cdn.tekoapis.com
 clicker.chiaki.vn
 clientinfo.phimmoizz.net
 collect.ovp.vn
+core.vchat.vn
 counter.24h.com.vn
 counter.ntdvn.com
 crm.bizfly.vn
@@ -570,6 +573,7 @@ newlog.daidoanket.vn
 nstat.headlines.pw
 pixel.chotot.com
 production-tracking.riviu.co
+proof.sudo.vn
 report.vnay.vn
 rsyslog.24h.com.vn
 s.baomoi.xdn.vn
@@ -1205,6 +1209,7 @@ am15.net
 amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazon-adsystems.com
+ambientdsp.cachefly.net
 ambimob.com
 amplitude.com
 amung.us
@@ -1565,6 +1570,7 @@ flash.sec.intl.miui.com
 flashtalking.com
 fls-*.amazon.*
 fls-*.amazon.com
+flurry.cachefly.net
 flurry.com
 flux-adserver.com
 fouanalytics.com
@@ -2159,6 +2165,7 @@ triplelift.com
 trk.pinterest.com
 trk2.pinterest.com
 tru.am
+truepush.com
 truoptik.com
 trustx.org
 tsyndicate.com
@@ -5312,6 +5319,7 @@ ritzysponge.com
 riverhit.com
 rjw4obbw.com
 rle.ru
+rmcxyfqbm.com
 rmedia.boston.com
 rmiesnorthur.pro
 roar.com

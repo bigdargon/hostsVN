@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Aug 2021 15:34 UTC+7
-! Version: 2108101534
-! Blocked: 935 rules
+! Last modified: 11 Aug 2021 10:18 UTC+7
+! Version: 2108111018
+! Blocked: 939 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -127,6 +127,7 @@
 ||metrics.coccoc.com^
 ||mobilead.vn^
 ||mobio.vn^
+||myad.vn^
 ||nanda.vn^
 ||novanet.vn^
 ||novaon.asia^
@@ -264,6 +265,7 @@
 ||ads.businessstyle.vn^
 ||ads.careerbuilder.vn^
 ||ads.carmudi.vn^
+||ads.chanhtuoi.com^
 ||ads.conlatatca.vn^
 ||ads.fptplay.net.vn^
 ||ads.gosu.vn^
@@ -302,6 +304,7 @@
 ||adserver.lag.vn^
 ||adserver.luzu.vn^
 ||adserver.muaban.net^
+||adserver.sudo.vn^
 ||adserver.trangphim.net^
 ||adsgo.nhipcaudautu.vn^
 ||adsnetonline.work^
@@ -393,7 +396,6 @@
 ||mega1.yeah1.com^
 ||microad.vn^
 ||mobileads.dieuviet.com^
-||myad.vn^
 ||ng-vn-notice.gameitop.com^
 ||nspapi.aiservice.vn^
 ||offerwall.headlines.pw^
@@ -485,6 +487,7 @@
 ||clicker.chiaki.vn^
 ||clientinfo.phimmoizz.net^
 ||collect.ovp.vn^
+||core.vchat.vn^
 ||counter.24h.com.vn^
 ||counter.ntdvn.com^
 ||crm.bizfly.vn^
@@ -572,6 +575,7 @@
 ||nstat.headlines.pw^
 ||pixel.chotot.com^
 ||production-tracking.riviu.co^
+||proof.sudo.vn^
 ||report.vnay.vn^
 ||rsyslog.24h.com.vn^
 ||s.baomoi.xdn.vn^
