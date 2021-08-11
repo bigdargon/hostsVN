@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 11 Aug 2021 10:18 UTC+7
-! Version: 2108111018
-! Blocked: 6,664 rules
+! Last modified: 11 Aug 2021 16:49 UTC+7
+! Version: 2108111649
+! Blocked: 6,667 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1519,6 +1519,7 @@
 ||duapps.com^
 ||dxp.baidu.com^
 ||dynamicyield.com^
+||e-volution.ai^
 ||e.qq.com^
 ||easyads28.info^
 ||eclick.baidu.com^
@@ -1650,6 +1651,7 @@
 ||iap.unity3d.com^
 ||ibillboard.com^
 ||id5-sync.com^
+||idealmedia.io^
 ||iesnare.com^
 ||igexin.com^
 ||ilyonanalytics.herokuapp.com^
@@ -1725,6 +1727,7 @@
 ||leadboltmobile.net^
 ||leadforensics.com^
 ||leanplum.com^
+||lentainform.com^
 ||lgsmartad.com^
 ||liadm.com^
 ||lifestreet.com^
@@ -4355,7 +4358,6 @@
 ||idcounter.com^
 ||iddiction.com^
 ||iddpop.com^
-||idealmedia.io^
 ||ideliv.net^
 ||idelv.net^
 ||identads.com^
@@ -4543,7 +4545,6 @@
 ||lecap-services.fr^
 ||legolas-media.com^
 ||leiki.com^
-||lentainform.com^
 ||lettucelimit.com^
 ||levelrate.de^
 ||lfstmedia.com^
@@ -4593,6 +4594,7 @@
 ||lorybnfh.com^
 ||loudloss.com^
 ||loudlunch.com^
+||lowseelan.com^
 ||lowtyroguer.com^
 ||lp3tdqle.com^
 ||lsdstgcv.com^
@@ -6017,6 +6019,7 @@
 ||whoisonline.net^
 ||wholesaletraffic.info^
 ||whowhipi.net^
+||whsepelmrnz.com^
 ||whugesto.net^
 ||whurulali.pro^
 ||widdit.com^
