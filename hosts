@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Aug 2021 16:49 UTC+7
-# Version: 2108111649
-# Blocked: 17,771 domains
+# Last modified: 14 Aug 2021 15:48 UTC+7
+# Version: 2108141548
+# Blocked: 17,781 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2945,7 +2945,6 @@
 0.0.0.0 log-api.newrelic.com
 0.0.0.0 metric-api.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
-0.0.0.0 mobile-crash-origin.newrelic.com
 0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 staging-insights-collector.newrelic.com
 #[nr-data.net]
@@ -9678,6 +9677,8 @@
 0.0.0.0 apoll.m.taobao.com
 0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 m-adash.m.taobao.com
+0.0.0.0 umengacs.m.taobao.com
+0.0.0.0 umengjmacs.m.taobao.com
 #[ut.taobao.com]
 0.0.0.0 adashbc.ut.taobao.com
 0.0.0.0 adashx.ut.taobao.com
@@ -13922,6 +13923,13 @@
 0.0.0.0 realtime.myad.vn
 0.0.0.0 viralink.myad.vn
 0.0.0.0 www.myad.vn
+#[fptad.com]
+0.0.0.0 fptad.com
+0.0.0.0 partner.fptad.com
+0.0.0.0 www.fptad.com
+0.0.0.0 customers.fptad.com
+0.0.0.0 img.customers.fptad.com
+0.0.0.0 static.customers.fptad.com
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -14078,7 +14086,6 @@
 0.0.0.0 duamilsyr.com
 0.0.0.0 ff.imacdn.com
 0.0.0.0 financial-agent.headlines.pw
-0.0.0.0 fptad.com
 0.0.0.0 genmonet.com
 0.0.0.0 ghimc.vn
 0.0.0.0 go.vnecdn.com
@@ -16755,6 +16762,7 @@
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketo.net
 0.0.0.0 marketron.com
+0.0.0.0 markofathenaluk.com
 0.0.0.0 maroonspider.com
 0.0.0.0 mas.sector.sk
 0.0.0.0 massicrathem.info
@@ -18005,6 +18013,7 @@
 0.0.0.0 urlcash.net
 0.0.0.0 uruswan.com
 0.0.0.0 usapromotravel.com
+0.0.0.0 uselnk.com
 0.0.0.0 usemax.de
 0.0.0.0 useriq.com
 0.0.0.0 userreplay.com
@@ -18071,6 +18080,7 @@
 0.0.0.0 voicevegetable.com
 0.0.0.0 voradu.com
 0.0.0.0 voredi.com
+0.0.0.0 vounaipu.net
 0.0.0.0 vpon.com
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
@@ -18128,6 +18138,7 @@
 0.0.0.0 wetrack.it
 0.0.0.0 whaiweel.com
 0.0.0.0 whaleads.com
+0.0.0.0 whazugho.com
 0.0.0.0 whenu.com
 0.0.0.0 whereapps.com
 0.0.0.0 whirlwealth.com

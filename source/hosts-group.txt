@@ -2933,7 +2933,6 @@
 0.0.0.0 log-api.newrelic.com
 0.0.0.0 metric-api.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
-0.0.0.0 mobile-crash-origin.newrelic.com
 0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 staging-insights-collector.newrelic.com
 #[nr-data.net]
@@ -9666,6 +9665,8 @@
 0.0.0.0 apoll.m.taobao.com
 0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 m-adash.m.taobao.com
+0.0.0.0 umengacs.m.taobao.com
+0.0.0.0 umengjmacs.m.taobao.com
 #[ut.taobao.com]
 0.0.0.0 adashbc.ut.taobao.com
 0.0.0.0 adashx.ut.taobao.com

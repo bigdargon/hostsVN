@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 11 Aug 2021 16:49 UTC+7
-! Version: 2108111649
-! Blocked: 6,667 rules
+! Last modified: 14 Aug 2021 15:48 UTC+7
+! Version: 2108141548
+! Blocked: 6,678 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -89,6 +89,7 @@
 ||eva-ad.24hstatic.com^
 ||ezimar.com^
 ||flygame.io^
+||fptad.com^
 ||fuseplatform.net^
 ||gafin.vn^
 ||gammaplatform.com^
@@ -379,7 +380,6 @@
 ||duamilsyr.com^
 ||ff.imacdn.com^
 ||financial-agent.headlines.pw^
-||fptad.com^
 ||genmonet.com^
 ||ghimc.vn^
 ||go.vnecdn.com^
@@ -995,7 +995,12 @@
 ||adap.tv^
 ||adash.m.taobao.com^
 ||adashbc.m.taobao.com^
+||adashbc.ut.taobao.com^
 ||adashx.m.taobao.com^
+||adashx.ut.taobao.com^
+||adashx4ae.ut.taobao.com^
+||adashx4sg.ut.taobao.com^
+||adashxgc.ut.taobao.com^
 ||adblade.com^
 ||adblox.net^
 ||adbrix.io^
@@ -1624,6 +1629,9 @@
 ||gssprt.jp^
 ||gumgum.com^
 ||guomob.com^
+||h-adashx.ut.taobao.com^
+||h-adashx4ae.ut.taobao.com^
+||h-adashx4sg.ut.taobao.com^
 ||hadarone.com^
 ||hads*s.com^
 ||hbb.afl.rakuten.co.jp^
@@ -1818,7 +1826,6 @@
 ||mobfox.com^
 ||mobile-10.com^
 ||mobile-collector.newrelic.com^
-||mobile-crash-origin.newrelic.com^
 ||mobile-crash.newrelic.com^
 ||mobileads.msn.com^
 ||mobileanalytics.*.amazonaws.com^
@@ -1857,7 +1864,6 @@
 ||netcoresmartech.com^
 ||netund.com^
 ||neustar.biz^
-||newrelic.com^
 ||newsinc.com^
 ||newsmaxfeednetwork.com^
 ||nexage.com^
@@ -2187,7 +2193,9 @@
 ||ugdturner.com^
 ||umeng.co^
 ||umeng.com^
+||umengacs.m.taobao.com^
 ||umengcloud.com^
+||umengjmacs.m.taobao.com^
 ||undertone.com^
 ||uniconsent.com^
 ||union.ucweb.com^
@@ -2202,7 +2210,6 @@
 ||urlhausa.com^
 ||userreport.com^
 ||usp1.baidu.com^
-||ut.taobao.com^
 ||uttclimber.com^
 ||valuecommerce.com^
 ||vasstycom.com^
@@ -4634,6 +4641,7 @@
 ||marketing.osijek031.com^
 ||marketo.net^
 ||marketron.com^
+||markofathenaluk.com^
 ||maroonspider.com^
 ||mas.sector.sk^
 ||massicrathem.info^
@@ -5886,6 +5894,7 @@
 ||urlcash.net^
 ||uruswan.com^
 ||usapromotravel.com^
+||uselnk.com^
 ||usemax.de^
 ||useriq.com^
 ||userreplay.com^
@@ -5952,6 +5961,7 @@
 ||voicevegetable.com^
 ||voradu.com^
 ||voredi.com^
+||vounaipu.net^
 ||vpon.com^
 ||vrs.cz^
 ||vs.tucows.com^
@@ -6009,6 +6019,7 @@
 ||wetrack.it^
 ||whaiweel.com^
 ||whaleads.com^
+||whazugho.com^
 ||whenu.com^
 ||whereapps.com^
 ||whirlwealth.com^
