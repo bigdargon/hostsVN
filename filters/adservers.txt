@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Aug 2021 15:48 UTC+7
-! Version: 2108141548
-! Blocked: 939 rules
+! Last modified: 16 Aug 2021 16:47 UTC+7
+! Version: 2108161647
+! Blocked: 938 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -145,6 +145,7 @@
 ||phanquang.vn^
 ||philacct.com^
 ||photo-ads.zaloapp.com^
+||phukienthoitranggiare.com^
 ||piads.vn^
 ||pinetech.vn^
 ||piwik.*.vn^
@@ -464,7 +465,6 @@
 ||analytics.nhattao.com^
 ||analytics.rever.vn^
 ||analytics.sohatv.vn^
-||analytics.tcbs.com.vn^
 ||analytics.teko.vn^
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
@@ -599,7 +599,6 @@
 ||stats.bizweb.vn^
 ||stats.dongphim.net^
 ||stats.hstatic.net^
-||stats.isacombank.com.vn^
 ||stats.petrotimes.vn^
 ||stats.tamdiem247.com^
 ||stats.vietnammoi.vn^

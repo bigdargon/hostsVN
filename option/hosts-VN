@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Aug 2021 15:48 UTC+7
-# Version: 2108141548
-# Blocked: 1,850 domains
+# Last modified: 16 Aug 2021 16:47 UTC+7
+# Version: 2108161647
+# Blocked: 1,851 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1528,6 +1528,10 @@
 0.0.0.0 customers.fptad.com
 0.0.0.0 img.customers.fptad.com
 0.0.0.0 static.customers.fptad.com
+#[phukienthoitranggiare.com]
+0.0.0.0 asg.phukienthoitranggiare.com
+0.0.0.0 phukienthoitranggiare.com
+0.0.0.0 www.phukienthoitranggiare.com
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -1788,7 +1792,6 @@
 0.0.0.0 analytics.nhattao.com
 0.0.0.0 analytics.rever.vn
 0.0.0.0 analytics.sohatv.vn
-0.0.0.0 analytics.tcbs.com.vn
 0.0.0.0 analytics.teko.vn
 0.0.0.0 analytics.thethao247.org
 0.0.0.0 analytics.tiki.vn
@@ -1923,7 +1926,6 @@
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 stats.dongphim.net
 0.0.0.0 stats.hstatic.net
-0.0.0.0 stats.isacombank.com.vn
 0.0.0.0 stats.petrotimes.vn
 0.0.0.0 stats.tamdiem247.com
 0.0.0.0 stats.vietnammoi.vn

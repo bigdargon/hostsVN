@@ -12043,9 +12043,6 @@
 0.0.0.0 other.geniee.jp
 0.0.0.0 s.geniee.jp
 0.0.0.0 www.geniee.jp
-#[tomrigdabih.com]
-0.0.0.0 az.tomrigdabih.com
-0.0.0.0 tomrigdabih.com
 #[admixer.com]
 0.0.0.0 adm.admixer.com
 0.0.0.0 admixer.com
@@ -12400,3 +12397,15 @@
 0.0.0.0 s-img.idealmedia.io
 0.0.0.0 servicer.idealmedia.io
 0.0.0.0 www.idealmedia.io
+#[ezmob.com]
+0.0.0.0 ezmob.com
+0.0.0.0 www.ezmob.com
+0.0.0.0 xml.ezmob.com
+#[cdnaz.win]
+0.0.0.0 ads.cdnaz.win
+0.0.0.0 cdnaz.win
+0.0.0.0 www.cdnaz.win
+#[adxserve.com]
+0.0.0.0 adxserve.com
+0.0.0.0 servedby.adxserve.com
+0.0.0.0 www.adxserve.com
