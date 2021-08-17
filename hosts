@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 Aug 2021 16:47 UTC+7
-# Version: 2108161647
-# Blocked: 17,829 domains
+# Last modified: 17 Aug 2021 09:07 UTC+7
+# Version: 2108170907
+# Blocked: 17,839 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -554,9 +554,12 @@
 0.0.0.0 pclick.yahoo.com
 0.0.0.0 rtb.pclick.yahoo.com
 0.0.0.0 real.pclick.yahoo.com
-#[ads.yap.yahoo.com]
+#[yap.yahoo.com]
+0.0.0.0 ads-verify.yap.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
+0.0.0.0 m.yap.yahoo.com
 0.0.0.0 us.ads.yap.yahoo.com
+0.0.0.0 yap.yahoo.com
 #[yahoo.co.jp]
 0.0.0.0 adserver.yahoo.co.jp
 0.0.0.0 ard.yahoo.co.jp
@@ -12421,6 +12424,14 @@
 0.0.0.0 adxserve.com
 0.0.0.0 servedby.adxserve.com
 0.0.0.0 www.adxserve.com
+#[swrve.com]
+0.0.0.0 api.swrve.com
+0.0.0.0 content-cdn.swrve.com
+0.0.0.0 content.swrve.com
+0.0.0.0 eu-api.swrve.com
+0.0.0.0 eu-content.swrve.com
+0.0.0.0 link.swrve.com
+0.0.0.0 swrve.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -18652,7 +18663,6 @@
 0.0.0.0 go.ad1data.com
 0.0.0.0 gotoip55.com
 0.0.0.0 grabify.link
-0.0.0.0 gravityrd-services.com
 0.0.0.0 greedseed.world
 0.0.0.0 guihua-china.com
 0.0.0.0 gurgle.zdbb.net
@@ -18862,6 +18872,7 @@
 0.0.0.0 static.leaddyno.com
 0.0.0.0 stats.apester.com
 0.0.0.0 stats.betradar.com
+0.0.0.0 stats.playrix.com
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.searchftps.net

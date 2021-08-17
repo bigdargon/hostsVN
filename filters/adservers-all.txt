@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Aug 2021 16:47 UTC+7
-! Version: 2108161647
-! Blocked: 6,719 rules
+! Last modified: 17 Aug 2021 09:07 UTC+7
+! Version: 2108170907
+! Blocked: 6,720 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1098,7 +1098,6 @@
 ||ads.twitter.com^
 ||ads.uc.cn^
 ||ads.yahoo.com^
-||ads.yap.yahoo.com^
 ||ads.youtube.com^
 ||ads1.msn.com^
 ||ads2.msn.com^
@@ -2133,6 +2132,7 @@
 ||supersonicads.com^
 ||surveygizmobeacon.s3.amazonaws.com^
 ||sworkitads.herokuapp.com^
+||swrve.com^
 ||t.spot.im^
 ||taboola.com^
 ||tagger.opecloud.com^
@@ -2271,6 +2271,7 @@
 ||yads.yahoo.co.jp^
 ||yads.yjtag.yahoo.co.jp^
 ||yandexadexchange.net^
+||yap.yahoo.com^
 ||ybx.yahoo.co.jp^
 ||yeas.yahoo.co.jp^
 ||yieldlab.net^
@@ -6380,7 +6381,6 @@
 ||go.ad1data.com^
 ||gotoip55.com^
 ||grabify.link^
-||gravityrd-services.com^
 ||greedseed.world^
 ||guihua-china.com^
 ||gurgle.zdbb.net^
@@ -6590,6 +6590,7 @@
 ||static.leaddyno.com^
 ||stats.apester.com^
 ||stats.betradar.com^
+||stats.playrix.com^
 ||stats.popcap.com^
 ||stats.pusher.com^
 ||stats.searchftps.net^

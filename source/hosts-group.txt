@@ -542,9 +542,12 @@
 0.0.0.0 pclick.yahoo.com
 0.0.0.0 rtb.pclick.yahoo.com
 0.0.0.0 real.pclick.yahoo.com
-#[ads.yap.yahoo.com]
+#[yap.yahoo.com]
+0.0.0.0 ads-verify.yap.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
+0.0.0.0 m.yap.yahoo.com
 0.0.0.0 us.ads.yap.yahoo.com
+0.0.0.0 yap.yahoo.com
 #[yahoo.co.jp]
 0.0.0.0 adserver.yahoo.co.jp
 0.0.0.0 ard.yahoo.co.jp
@@ -12409,3 +12412,11 @@
 0.0.0.0 adxserve.com
 0.0.0.0 servedby.adxserve.com
 0.0.0.0 www.adxserve.com
+#[swrve.com]
+0.0.0.0 api.swrve.com
+0.0.0.0 content-cdn.swrve.com
+0.0.0.0 content.swrve.com
+0.0.0.0 eu-api.swrve.com
+0.0.0.0 eu-content.swrve.com
+0.0.0.0 link.swrve.com
+0.0.0.0 swrve.com

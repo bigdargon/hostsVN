@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 16 Aug 2021 16:47 UTC+7
-! Version: 2108161647
-! Blocked: 6,719 domains
+! Last modified: 17 Aug 2021 09:07 UTC+7
+! Version: 2108170907
+! Blocked: 6,720 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -1096,7 +1096,6 @@ ads.truecaller.com
 ads.twitter.com
 ads.uc.cn
 ads.yahoo.com
-ads.yap.yahoo.com
 ads.youtube.com
 ads1.msn.com
 ads2.msn.com
@@ -2131,6 +2130,7 @@ superfastmediation.com
 supersonicads.com
 surveygizmobeacon.s3.amazonaws.com
 sworkitads.herokuapp.com
+swrve.com
 t.spot.im
 taboola.com
 tagger.opecloud.com
@@ -2269,6 +2269,7 @@ yadro.ru
 yads.yahoo.co.jp
 yads.yjtag.yahoo.co.jp
 yandexadexchange.net
+yap.yahoo.com
 ybx.yahoo.co.jp
 yeas.yahoo.co.jp
 yieldlab.net
@@ -6378,7 +6379,6 @@ globalwebindex.net
 go.ad1data.com
 gotoip55.com
 grabify.link
-gravityrd-services.com
 greedseed.world
 guihua-china.com
 gurgle.zdbb.net
@@ -6588,6 +6588,7 @@ static.intentarget.com
 static.leaddyno.com
 stats.apester.com
 stats.betradar.com
+stats.playrix.com
 stats.popcap.com
 stats.pusher.com
 stats.searchftps.net
