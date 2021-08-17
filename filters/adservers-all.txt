@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Aug 2021 09:07 UTC+7
-! Version: 2108170907
-! Blocked: 6,720 rules
+! Last modified: 17 Aug 2021 09:37 UTC+7
+! Version: 2108170937
+! Blocked: 6,723 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4302,6 +4302,7 @@
 ||heias.com^
 ||hellobar.com^
 ||hentaicounter.com^
+||heratheacle.com^
 ||herbalaffiliateprogram.com^
 ||herdcowhas.icu^
 ||heyos.com^
@@ -4758,6 +4759,7 @@
 ||mindlytix.com^
 ||mindmemobile.com^
 ||minormeeting.com^
+||minotaur107.com^
 ||mintrace.com^
 ||missionsection.com^
 ||misstrends.com^
@@ -5423,6 +5425,7 @@
 ||sbx.pagesjaunes.fr^
 ||scambiobanner.aruba.it^
 ||scarcesign.com^
+||scarletcashwi5.com^
 ||scatteredheat.com^
 ||scientiamobile.com^
 ||scintillatingscissors.com^
@@ -5519,6 +5522,7 @@
 ||skimlinks.com^
 ||skimresources.com^
 ||skylink.vn^
+||skynightmidm.com^
 ||sleepcartoon.com^
 ||slickaffiliate.com^
 ||slicktext.com^
@@ -6578,7 +6582,6 @@
 ||soflopxl.com^
 ||soidc.com^
 ||soperson.com^
-||sp.tinymce.com^
 ||srmdata.com^
 ||ssc.api.bbc.com^
 ||ssm.codes^
