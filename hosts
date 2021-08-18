@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Aug 2021 09:37 UTC+7
-# Version: 2108170937
-# Blocked: 17,842 domains
+# Last modified: 18 Aug 2021 21:11 UTC+7
+# Version: 2108182111
+# Blocked: 17,843 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -471,15 +471,11 @@
 0.0.0.0 ws.amazon-adsystems.com
 0.0.0.0 z-na.amazon-adsystems.com
 #[amazonaws.com]
-0.0.0.0 adserver-2084671375.us-east-1.elb.amazonaws.com
 0.0.0.0 cloudfront-labs.amazonaws.com
-0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-2.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
-0.0.0.0 pinpoint.us-east-1.amazonaws.com
-0.0.0.0 surveygizmobeacon.s3.amazonaws.com
 #[tumblr]
 0.0.0.0 platform.tumblr.com
 0.0.0.0 ls.srvcs.tumblr.com
@@ -9668,16 +9664,10 @@
 0.0.0.0 aper.pw
 0.0.0.0 c.aper.pw
 0.0.0.0 xx.aper.pw
-#[taobao.com]
-0.0.0.0 count.taobao.com
-0.0.0.0 ip.taobao.com
-0.0.0.0 pcookie.taobao.com
 #[m.taobao.com]
-0.0.0.0 acs.m.taobao.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adashbc.m.taobao.com
 0.0.0.0 adashx.m.taobao.com
-0.0.0.0 apoll.m.taobao.com
 0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 m-adash.m.taobao.com
 0.0.0.0 umengacs.m.taobao.com
@@ -9691,26 +9681,6 @@
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 h-adashx4sg.ut.taobao.com
-#[tanx.com]
-0.0.0.0 advertisement.tanx.com
-0.0.0.0 alibaba.tanx.com
-0.0.0.0 cdn.tanx.com
-0.0.0.0 click.tanx.com
-0.0.0.0 cms.tanx.com
-0.0.0.0 df.tanx.com
-0.0.0.0 dfhs.tanx.com
-0.0.0.0 ecpm.tanx.com
-0.0.0.0 ef-dongfeng.tanx.com
-0.0.0.0 et.tanx.com
-0.0.0.0 ifs.tanx.com
-0.0.0.0 ifsk2.tanx.com
-0.0.0.0 opehs.tanx.com
-0.0.0.0 p.tanx.com
-0.0.0.0 pcookie.tanx.com
-0.0.0.0 phs.tanx.com
-0.0.0.0 rdstat.tanx.com
-0.0.0.0 tanx.com
-0.0.0.0 toruk.tanx.com
 #[sdkclickurl.com]
 0.0.0.0 c.sdkclickurl.com
 0.0.0.0 c3.sdkclickurl.com
@@ -10908,18 +10878,12 @@
 0.0.0.0 als.baidu.com
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 caclick.baidu.com
-0.0.0.0 dxp.baidu.com
 0.0.0.0 eclick.baidu.com
 0.0.0.0 fclog.baidu.com
-0.0.0.0 fxgate.baidu.com
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 hmma.baidu.com
-0.0.0.0 imgstat.baidu.com
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 nsclick.baidu.com
-0.0.0.0 plugin.mobopay.baidu.com
-0.0.0.0 push.zhanzhang.baidu.com
-0.0.0.0 sclick.baidu.com
 0.0.0.0 usp1.baidu.com
 0.0.0.0 wkclick.baidu.com
 0.0.0.0 wkctj.baidu.com
@@ -13985,6 +13949,7 @@
 0.0.0.0 ads-backend.nhadatmoi.net
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads.1thegioi.vn
+0.0.0.0 ads.247phim.com
 0.0.0.0 ads.568play.vn
 0.0.0.0 ads.autonet.com.vn
 0.0.0.0 ads.baoangiang.com.vn
@@ -14436,6 +14401,7 @@
 0.0.0.0 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 0.0.0.0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 # --- Block other adsVN ---
+0.0.0.0 03ed9035a0801f.com
 0.0.0.0 0n.click
 0.0.0.0 1-1ads.com
 0.0.0.0 152media.info
@@ -14445,6 +14411,7 @@
 0.0.0.0 24log.com
 0.0.0.0 24log.de
 0.0.0.0 24newstech.com
+0.0.0.0 42d61f012e27b36d53.com
 0.0.0.0 4d5.net
 0.0.0.0 4info.com
 0.0.0.0 4mads.com
@@ -15373,6 +15340,7 @@
 0.0.0.0 allmyverygreatlife.com
 0.0.0.0 allosponsor.com
 0.0.0.0 allstarmediagroup.com
+0.0.0.0 alternativecpmgate.com
 0.0.0.0 altronopubacc.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 ambiguousquilt.com
@@ -15507,6 +15475,7 @@
 0.0.0.0 babs.tv2.dk
 0.0.0.0 backbeatmedia.com
 0.0.0.0 backla2z8han09.com
+0.0.0.0 bahmemohod.com
 0.0.0.0 balancebreath.com
 0.0.0.0 baleiambwee.com
 0.0.0.0 balloontexture.com
@@ -15632,6 +15601,7 @@
 0.0.0.0 bestcond1tions.com
 0.0.0.0 bestsearch.net
 0.0.0.0 betonpolite.com
+0.0.0.0 betotodilea.com
 0.0.0.0 bewilderedblade.com
 0.0.0.0 bhclicks.com
 0.0.0.0 bhcumsc.com
@@ -15651,6 +15621,7 @@
 0.0.0.0 bizrate.com
 0.0.0.0 blacurlik.com
 0.0.0.0 blast4traffic.com
+0.0.0.0 blastcahs.com
 0.0.0.0 blingbucks.com
 0.0.0.0 blockadsnot.com
 0.0.0.0 blogads.com
@@ -15667,6 +15638,7 @@
 0.0.0.0 blutrumpet.com
 0.0.0.0 bm.annonce.cz
 0.0.0.0 bn.bfast.com
+0.0.0.0 boasstylijoked.com
 0.0.0.0 bodyclick.net
 0.0.0.0 boersego-ads.de
 0.0.0.0 boilingbeetle.com
@@ -15702,6 +15674,7 @@
 0.0.0.0 bucketbean.com
 0.0.0.0 bucksense.com
 0.0.0.0 budsinc.com
+0.0.0.0 budvawshes.ru
 0.0.0.0 buleor.com
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 bumpberam.pro
@@ -16006,6 +15979,7 @@
 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net
 0.0.0.0 d3mr7y154d2qg5.cloudfront.net
 0.0.0.0 d3mzokty951c5w.cloudfront.net
+0.0.0.0 d3ou4areduq72f.cloudfront.net
 0.0.0.0 dads.wedobest.com.cn
 0.0.0.0 dadsimz.com
 0.0.0.0 dadslims.com
@@ -16183,6 +16157,7 @@
 0.0.0.0 engagebdr.com
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 enginenetwork.com
+0.0.0.0 enginsquawks.cam
 0.0.0.0 enkayijamal.club
 0.0.0.0 enlarget.com
 0.0.0.0 enoratraffic.com
@@ -16230,6 +16205,7 @@
 0.0.0.0 exchangead.com
 0.0.0.0 exchangeclicksonline.com
 0.0.0.0 exclusivebrass.com
+0.0.0.0 excuseparen.com
 0.0.0.0 exit76.com
 0.0.0.0 exitexchange.com
 0.0.0.0 exitfuel.com
@@ -16250,6 +16226,7 @@
 0.0.0.0 eyereturn.com
 0.0.0.0 eyeviewads.com
 0.0.0.0 eyewonder.com
+0.0.0.0 ezojs.com
 0.0.0.0 eztexting.com
 0.0.0.0 ezula.com
 0.0.0.0 f5biz.com
@@ -16284,6 +16261,7 @@
 0.0.0.0 feed-xml.com
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
+0.0.0.0 felinessynonym.com
 0.0.0.0 feverhappyjack.com
 0.0.0.0 fhsmtrnsfnt.com
 0.0.0.0 fieldofbachus.com
@@ -16351,6 +16329,7 @@
 0.0.0.0 galaksion.com
 0.0.0.0 galaxien.com
 0.0.0.0 gangsstowapps.com
+0.0.0.0 gatetodisplaycontent.com
 0.0.0.0 gavnogeeygaika.com
 0.0.0.0 gayadnetwork.com
 0.0.0.0 gebadu.com
@@ -16367,6 +16346,7 @@
 0.0.0.0 giddycoat.com
 0.0.0.0 gjqhufkamcoc.com
 0.0.0.0 gladiol9us10.com
+0.0.0.0 glassesoftruth.com
 0.0.0.0 glassmilheart.com
 0.0.0.0 glixaing.com
 0.0.0.0 globalismedia.com
@@ -16602,6 +16582,7 @@
 0.0.0.0 insomn.pro
 0.0.0.0 inspectorclick.com
 0.0.0.0 install.365-stream.com
+0.0.0.0 installervoracioushardly.com
 0.0.0.0 instantmadness.com
 0.0.0.0 instantresp.com
 0.0.0.0 instinctiveads.com
@@ -16686,6 +16667,7 @@
 0.0.0.0 ketchapp.org
 0.0.0.0 kibblerkilldee.com
 0.0.0.0 kindads.com
+0.0.0.0 kinkledunendly.com
 0.0.0.0 kiolim.com
 0.0.0.0 kka20si.xyz
 0.0.0.0 kliks.nl
@@ -16700,6 +16682,7 @@
 0.0.0.0 koradu.com
 0.0.0.0 kotikinar2ko8tiki09.com
 0.0.0.0 kqzyfj.com
+0.0.0.0 kronosspell.com
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kukury2hf8nd09.com
 0.0.0.0 kupona.de
@@ -16981,6 +16964,7 @@
 0.0.0.0 mymoneymakingapp.com
 0.0.0.0 mynsystems.com
 0.0.0.0 myntelligence.com
+0.0.0.0 myolnyr5bsk18.com
 0.0.0.0 mypagerank.net
 0.0.0.0 mypagerank.ru
 0.0.0.0 mypowermall.com
@@ -17149,6 +17133,7 @@
 0.0.0.0 optmstr.com
 0.0.0.0 oranegfodnd.com
 0.0.0.0 orangeads.fr
+0.0.0.0 orbsclawand.com
 0.0.0.0 oriori.com
 0.0.0.0 ortshk.tapas.net
 0.0.0.0 ota.cartrawler.com
@@ -17183,6 +17168,7 @@
 0.0.0.0 paishuno.net
 0.0.0.0 paleleaf.com
 0.0.0.0 pansidlike.net
+0.0.0.0 papaneecorche.com
 0.0.0.0 papayamobile.com
 0.0.0.0 paradoxfactor.com
 0.0.0.0 parchedangle.com
@@ -17226,6 +17212,7 @@
 0.0.0.0 perigshfnon.com
 0.0.0.0 personagraph.com
 0.0.0.0 personaly.click
+0.0.0.0 pertersacstyli.com
 0.0.0.0 petchesa.net
 0.0.0.0 petiteumbrella.com
 0.0.0.0 pgmediaserve.com
@@ -17246,6 +17233,7 @@
 0.0.0.0 pignuwoa.com
 0.0.0.0 pigtre.com
 0.0.0.0 pigwinspath.icu
+0.0.0.0 pikeletkiyi.com
 0.0.0.0 pillscash.com
 0.0.0.0 pimproll.com
 0.0.0.0 ping.ublock.org
@@ -17272,6 +17260,7 @@
 0.0.0.0 plista.com
 0.0.0.0 plufdsb.com
 0.0.0.0 plugrush.com
+0.0.0.0 plutothejewel.com
 0.0.0.0 pndelfast.com
 0.0.0.0 pocitadlo.cz
 0.0.0.0 pointroll.com
@@ -17401,6 +17390,7 @@
 0.0.0.0 quantummetric.com
 0.0.0.0 quarterbean.com
 0.0.0.0 quarterserver.de
+0.0.0.0 quenchskirmishcohere.com
 0.0.0.0 questaffiliates.net
 0.0.0.0 quicksandear.com
 0.0.0.0 quietknowledge.com
@@ -17668,6 +17658,7 @@
 0.0.0.0 slipperysack.com
 0.0.0.0 slopeaota.com
 0.0.0.0 smadex.com
+0.0.0.0 smalltiberbridge.com
 0.0.0.0 smart.brvaffs.com
 0.0.0.0 smart4ads.com
 0.0.0.0 smartclick.net
@@ -17884,6 +17875,7 @@
 0.0.0.0 temelio.com
 0.0.0.0 tendertest.com
 0.0.0.0 tentaculos.net
+0.0.0.0 termadodad.com
 0.0.0.0 terrapsps.com
 0.0.0.0 terriblethumb.com
 0.0.0.0 text-link-ads.com
@@ -17942,6 +17934,7 @@
 0.0.0.0 top20free.com
 0.0.0.0 top66.ro
 0.0.0.0 top90.ro
+0.0.0.0 topblockchainsolutions.nl
 0.0.0.0 topblogarea.se
 0.0.0.0 topbucks.com
 0.0.0.0 topforall.com
@@ -18162,9 +18155,11 @@
 0.0.0.0 warlog.ru
 0.0.0.0 warp.ly
 0.0.0.0 waryfog.com
+0.0.0.0 wasplighthouse.com
 0.0.0.0 watchingthat.com
 0.0.0.0 wateryvan.com
 0.0.0.0 waust.at
+0.0.0.0 wauthaik.net
 0.0.0.0 waxpigbaa.com
 0.0.0.0 wda.com
 0.0.0.0 wdads.sx.atl.publicus.com
@@ -18428,6 +18423,7 @@
 0.0.0.0 ydworld.com
 0.0.0.0 yealnk.com
 0.0.0.0 yebadu.com
+0.0.0.0 yepteaswont.com
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com
 0.0.0.0 yieldads.com
@@ -18445,6 +18441,7 @@
 0.0.0.0 yoggrt.com
 0.0.0.0 yoptaejrj2kkf8nj09.com
 0.0.0.0 yougotacheck.com
+0.0.0.0 youradexchange.com
 0.0.0.0 ytimm.com
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com
@@ -18716,6 +18713,7 @@
 0.0.0.0 lem-computers.net
 0.0.0.0 lfeeder.com
 0.0.0.0 lgglobal.ihago.net
+0.0.0.0 litix.io
 0.0.0.0 log-eap-sg.coloros.com
 0.0.0.0 log.aliyuncs.com
 0.0.0.0 log.apk.v-mate.mobi
@@ -18969,6 +18967,7 @@
 0.0.0.0 weigezhiyao.com
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 wieistmeineip.de
+0.0.0.0 worldgravity.com
 0.0.0.0 wren.condenastdigital.com
 0.0.0.0 wt.soundestlink.com
 0.0.0.0 www.ethtrader.de

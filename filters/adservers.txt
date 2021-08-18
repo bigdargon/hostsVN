@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Aug 2021 09:37 UTC+7
-! Version: 2108170937
-! Blocked: 938 rules
+! Last modified: 18 Aug 2021 21:11 UTC+7
+! Version: 2108182111
+! Blocked: 940 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -256,6 +256,7 @@
 ||ads-backend.nhadatmoi.net^
 ||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
+||ads.247phim.com^
 ||ads.568play.vn^
 ||ads.autonet.com.vn^
 ||ads.baoangiang.com.vn^
@@ -818,6 +819,7 @@
 ||one88.vip^
 ||one88.vn^
 ||oneday88.com^
+||oppa888.com^
 ||oppa88888888.com^
 ||oxbet.club^
 ||oxbet.com^

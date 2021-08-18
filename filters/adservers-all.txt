@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Aug 2021 09:37 UTC+7
-! Version: 2108170937
-! Blocked: 6,723 rules
+! Last modified: 18 Aug 2021 21:11 UTC+7
+! Version: 2108182111
+! Blocked: 6,743 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -256,6 +256,7 @@
 ||ads-backend.nhadatmoi.net^
 ||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
+||ads.247phim.com^
 ||ads.568play.vn^
 ||ads.autonet.com.vn^
 ||ads.baoangiang.com.vn^
@@ -818,6 +819,7 @@
 ||one88.vip^
 ||one88.vn^
 ||oneday88.com^
+||oppa888.com^
 ||oppa88888888.com^
 ||oxbet.club^
 ||oxbet.com^
@@ -970,7 +972,6 @@
 ||aaxads.com^
 ||accengage.com^
 ||accesstrade.net^
-||acs.m.taobao.com^
 ||acuityplatform.com^
 ||ad-brix.com^
 ||ad-exchange.toast.com^
@@ -1118,7 +1119,6 @@
 ||adsco.re^
 ||adsconex.com^
 ||adsdk.yandex.ru^
-||adserver-*.*.elb.amazonaws.com^
 ||adserver.bing.com^
 ||adserver.yahoo.co.jp^
 ||adserver.yahoo.com^
@@ -1255,7 +1255,6 @@
 ||api.sec.intl.miui.com^
 ||api.sec.miui.com^
 ||api.setting.intl.miui.com^
-||apoll.m.taobao.com^
 ||app-adforce.jp^
 ||app-analytics*.snapchat.com^
 ||appadhoc.com^
@@ -1457,7 +1456,6 @@
 ||conversantmedia.com^
 ||convertexperiments.com^
 ||convertful.com^
-||count.taobao.com^
 ||cpaikon.net^
 ||cpmstar.com^
 ||cpx.to^
@@ -1522,7 +1520,6 @@
 ||dtscout.com^
 ||du8783wkf05yr.cloudfront.net^
 ||duapps.com^
-||dxp.baidu.com^
 ||dynamicyield.com^
 ||e-volution.ai^
 ||e.qq.com^
@@ -1588,7 +1585,6 @@
 ||freeskreen.com^
 ||freshmarketer.com^
 ||fundingchoices.google.com^
-||fxgate.baidu.com^
 ||fyber.com^
 ||gads*s.com^
 ||gads*z.com^
@@ -1665,7 +1661,6 @@
 ||igexin.com^
 ||ilyonanalytics.herokuapp.com^
 ||im-apps.net^
-||imgstat.baidu.com^
 ||immob.cn^
 ||imonomy.com^
 ||impactserving.com^
@@ -1695,7 +1690,6 @@
 ||invitemedia.com^
 ||invl.co^
 ||ioam.de^
-||ip.taobao.com^
 ||iperceptions.com^
 ||ippsrvng.xyz^
 ||iqzone.com^
@@ -1720,7 +1714,6 @@
 ||kau.li^
 ||keywee.co^
 ||kidoz.net^
-||kinesis.*.amazonaws.com^
 ||knowlead.io^
 ||kochava.com^
 ||komoona.com^
@@ -1919,7 +1912,6 @@
 ||partnershipsprogram.com^
 ||pclick.yahoo.com^
 ||pclk.name^
-||pcookie.taobao.com^
 ||pendo.io^
 ||pepperjam.com^
 ||permutive.com^
@@ -1928,7 +1920,6 @@
 ||pgmcdn.com^
 ||ping*.qq.com^
 ||pingdom.net^
-||pinpoint.*.amazonaws.com^
 ||pix.spot.im^
 ||pixanalytics.com^
 ||pixel-static.spotify.com^
@@ -1939,7 +1930,6 @@
 ||platform.tumblr.com^
 ||playbuzz.com^
 ||playground.xyz^
-||plugin.mobopay.baidu.com^
 ||pmddby.com^
 ||po.st^
 ||popads.net^
@@ -1978,7 +1968,6 @@
 ||puds.ucweb.com^
 ||purpleads.io^
 ||push.mob.com^
-||push.zhanzhang.baidu.com^
 ||pushalert.co^
 ||pushcrew.com^
 ||pushpush.io^
@@ -2048,7 +2037,6 @@
 ||sascdn.com^
 ||scanscout.com^
 ||scarabresearch.com^
-||sclick.baidu.com^
 ||scorecardresearch.com^
 ||sdk-diagnostics.prd.mz.internal.unity3d.com^
 ||sdk-diagnostics.stg.mz.internal.unity3d.com^
@@ -2130,14 +2118,12 @@
 ||supercounters.com^
 ||superfastmediation.com^
 ||supersonicads.com^
-||surveygizmobeacon.s3.amazonaws.com^
 ||sworkitads.herokuapp.com^
 ||swrve.com^
 ||t.spot.im^
 ||taboola.com^
 ||tagger.opecloud.com^
 ||tagmanager.toast.com^
-||tanx.com^
 ||tapad.com^
 ||tapdaq-adverts.global.ssl.fastly.net^
 ||tapjoy.com^
@@ -2292,6 +2278,7 @@
 ||zqtk.net^
 ||zucks.net^
 ||zx-adnet.com^
+||03ed9035a0801f.com^
 ||0n.click^
 ||1-1ads.com^
 ||152media.info^
@@ -2301,6 +2288,7 @@
 ||24log.com^
 ||24log.de^
 ||24newstech.com^
+||42d61f012e27b36d53.com^
 ||4d5.net^
 ||4info.com^
 ||4mads.com^
@@ -3230,6 +3218,7 @@
 ||allmyverygreatlife.com^
 ||allosponsor.com^
 ||allstarmediagroup.com^
+||alternativecpmgate.com^
 ||altronopubacc.com^
 ||amazingcounters.com^
 ||ambiguousquilt.com^
@@ -3364,6 +3353,7 @@
 ||babs.tv2.dk^
 ||backbeatmedia.com^
 ||backla2z8han09.com^
+||bahmemohod.com^
 ||balancebreath.com^
 ||baleiambwee.com^
 ||balloontexture.com^
@@ -3489,6 +3479,7 @@
 ||bestcond1tions.com^
 ||bestsearch.net^
 ||betonpolite.com^
+||betotodilea.com^
 ||bewilderedblade.com^
 ||bhclicks.com^
 ||bhcumsc.com^
@@ -3508,6 +3499,7 @@
 ||bizrate.com^
 ||blacurlik.com^
 ||blast4traffic.com^
+||blastcahs.com^
 ||blingbucks.com^
 ||blockadsnot.com^
 ||blogads.com^
@@ -3524,6 +3516,7 @@
 ||blutrumpet.com^
 ||bm.annonce.cz^
 ||bn.bfast.com^
+||boasstylijoked.com^
 ||bodyclick.net^
 ||boersego-ads.de^
 ||boilingbeetle.com^
@@ -3559,6 +3552,7 @@
 ||bucketbean.com^
 ||bucksense.com^
 ||budsinc.com^
+||budvawshes.ru^
 ||buleor.com^
 ||bullseye.backbeatmedia.com^
 ||bumpberam.pro^
@@ -3863,6 +3857,7 @@
 ||d3g5ovfngjw9bw.cloudfront.net^
 ||d3mr7y154d2qg5.cloudfront.net^
 ||d3mzokty951c5w.cloudfront.net^
+||d3ou4areduq72f.cloudfront.net^
 ||dads.wedobest.com.cn^
 ||dadsimz.com^
 ||dadslims.com^
@@ -4041,6 +4036,7 @@
 ||engagebdr.com^
 ||engine.espace.netavenir.com^
 ||enginenetwork.com^
+||enginsquawks.cam^
 ||enkayijamal.club^
 ||enlarget.com^
 ||enoratraffic.com^
@@ -4088,6 +4084,7 @@
 ||exchangead.com^
 ||exchangeclicksonline.com^
 ||exclusivebrass.com^
+||excuseparen.com^
 ||exit76.com^
 ||exitexchange.com^
 ||exitfuel.com^
@@ -4108,6 +4105,7 @@
 ||eyereturn.com^
 ||eyeviewads.com^
 ||eyewonder.com^
+||ezojs.com^
 ||eztexting.com^
 ||ezula.com^
 ||f5biz.com^
@@ -4142,6 +4140,7 @@
 ||feed-xml.com^
 ||feedbackresearch.com^
 ||feedjit.com^
+||felinessynonym.com^
 ||feverhappyjack.com^
 ||fhsmtrnsfnt.com^
 ||fieldofbachus.com^
@@ -4209,6 +4208,7 @@
 ||galaksion.com^
 ||galaxien.com^
 ||gangsstowapps.com^
+||gatetodisplaycontent.com^
 ||gavnogeeygaika.com^
 ||gayadnetwork.com^
 ||gebadu.com^
@@ -4225,6 +4225,7 @@
 ||giddycoat.com^
 ||gjqhufkamcoc.com^
 ||gladiol9us10.com^
+||glassesoftruth.com^
 ||glassmilheart.com^
 ||glixaing.com^
 ||globalismedia.com^
@@ -4460,6 +4461,7 @@
 ||insomn.pro^
 ||inspectorclick.com^
 ||install.365-stream.com^
+||installervoracioushardly.com^
 ||instantmadness.com^
 ||instantresp.com^
 ||instinctiveads.com^
@@ -4545,6 +4547,7 @@
 ||ketchapp.org^
 ||kibblerkilldee.com^
 ||kindads.com^
+||kinkledunendly.com^
 ||kiolim.com^
 ||kka20si.xyz^
 ||kliks.nl^
@@ -4559,6 +4562,7 @@
 ||koradu.com^
 ||kotikinar2ko8tiki09.com^
 ||kqzyfj.com^
+||kronosspell.com^
 ||ktu.sv2.biz^
 ||kukury2hf8nd09.com^
 ||kupona.de^
@@ -4841,6 +4845,7 @@
 ||mymoneymakingapp.com^
 ||mynsystems.com^
 ||myntelligence.com^
+||myolnyr5bsk18.com^
 ||mypagerank.net^
 ||mypagerank.ru^
 ||mypowermall.com^
@@ -5009,6 +5014,7 @@
 ||optmstr.com^
 ||oranegfodnd.com^
 ||orangeads.fr^
+||orbsclawand.com^
 ||oriori.com^
 ||ortshk.tapas.net^
 ||ota.cartrawler.com^
@@ -5043,6 +5049,7 @@
 ||paishuno.net^
 ||paleleaf.com^
 ||pansidlike.net^
+||papaneecorche.com^
 ||papayamobile.com^
 ||paradoxfactor.com^
 ||parchedangle.com^
@@ -5086,6 +5093,7 @@
 ||perigshfnon.com^
 ||personagraph.com^
 ||personaly.click^
+||pertersacstyli.com^
 ||petchesa.net^
 ||petiteumbrella.com^
 ||pgmediaserve.com^
@@ -5107,6 +5115,7 @@
 ||pignuwoa.com^
 ||pigtre.com^
 ||pigwinspath.icu^
+||pikeletkiyi.com^
 ||pillscash.com^
 ||pimproll.com^
 ||ping.ublock.org^
@@ -5133,6 +5142,7 @@
 ||plista.com^
 ||plufdsb.com^
 ||plugrush.com^
+||plutothejewel.com^
 ||pndelfast.com^
 ||pocitadlo.cz^
 ||pointroll.com^
@@ -5262,6 +5272,7 @@
 ||quantummetric.com^
 ||quarterbean.com^
 ||quarterserver.de^
+||quenchskirmishcohere.com^
 ||questaffiliates.net^
 ||quicksandear.com^
 ||quietknowledge.com^
@@ -5529,6 +5540,7 @@
 ||slipperysack.com^
 ||slopeaota.com^
 ||smadex.com^
+||smalltiberbridge.com^
 ||smart.brvaffs.com^
 ||smart4ads.com^
 ||smartclick.net^
@@ -5745,6 +5757,7 @@
 ||temelio.com^
 ||tendertest.com^
 ||tentaculos.net^
+||termadodad.com^
 ||terrapsps.com^
 ||terriblethumb.com^
 ||text-link-ads.com^
@@ -5803,6 +5816,7 @@
 ||top20free.com^
 ||top66.ro^
 ||top90.ro^
+||topblockchainsolutions.nl^
 ||topblogarea.se^
 ||topbucks.com^
 ||topforall.com^
@@ -6023,9 +6037,11 @@
 ||warlog.ru^
 ||warp.ly^
 ||waryfog.com^
+||wasplighthouse.com^
 ||watchingthat.com^
 ||wateryvan.com^
 ||waust.at^
+||wauthaik.net^
 ||waxpigbaa.com^
 ||wda.com^
 ||wdads.sx.atl.publicus.com^
@@ -6147,6 +6163,7 @@
 ||ydworld.com^
 ||yealnk.com^
 ||yebadu.com^
+||yepteaswont.com^
 ||yesads.com^
 ||yesadvertising.com^
 ||yieldads.com^
@@ -6164,6 +6181,7 @@
 ||yoggrt.com^
 ||yoptaejrj2kkf8nj09.com^
 ||yougotacheck.com^
+||youradexchange.com^
 ||ytimm.com^
 ||yuilop.com^
 ||yume.com^
@@ -6434,6 +6452,7 @@
 ||lem-computers.net^
 ||lfeeder.com^
 ||lgglobal.ihago.net^
+||litix.io^
 ||log-eap-sg.coloros.com^
 ||log.aliyuncs.com^
 ||log.apk.v-mate.mobi^
@@ -6687,6 +6706,7 @@
 ||weigezhiyao.com^
 ||widget.trustpilot.com^
 ||wieistmeineip.de^
+||worldgravity.com^
 ||wren.condenastdigital.com^
 ||wt.soundestlink.com^
 ||wzrkt.com^
