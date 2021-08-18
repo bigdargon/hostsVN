@@ -459,15 +459,11 @@
 0.0.0.0 ws.amazon-adsystems.com
 0.0.0.0 z-na.amazon-adsystems.com
 #[amazonaws.com]
-0.0.0.0 adserver-2084671375.us-east-1.elb.amazonaws.com
 0.0.0.0 cloudfront-labs.amazonaws.com
-0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-2.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
-0.0.0.0 pinpoint.us-east-1.amazonaws.com
-0.0.0.0 surveygizmobeacon.s3.amazonaws.com
 #[tumblr]
 0.0.0.0 platform.tumblr.com
 0.0.0.0 ls.srvcs.tumblr.com
@@ -9656,16 +9652,10 @@
 0.0.0.0 aper.pw
 0.0.0.0 c.aper.pw
 0.0.0.0 xx.aper.pw
-#[taobao.com]
-0.0.0.0 count.taobao.com
-0.0.0.0 ip.taobao.com
-0.0.0.0 pcookie.taobao.com
 #[m.taobao.com]
-0.0.0.0 acs.m.taobao.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adashbc.m.taobao.com
 0.0.0.0 adashx.m.taobao.com
-0.0.0.0 apoll.m.taobao.com
 0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 m-adash.m.taobao.com
 0.0.0.0 umengacs.m.taobao.com
@@ -9679,26 +9669,6 @@
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 h-adashx4sg.ut.taobao.com
-#[tanx.com]
-0.0.0.0 advertisement.tanx.com
-0.0.0.0 alibaba.tanx.com
-0.0.0.0 cdn.tanx.com
-0.0.0.0 click.tanx.com
-0.0.0.0 cms.tanx.com
-0.0.0.0 df.tanx.com
-0.0.0.0 dfhs.tanx.com
-0.0.0.0 ecpm.tanx.com
-0.0.0.0 ef-dongfeng.tanx.com
-0.0.0.0 et.tanx.com
-0.0.0.0 ifs.tanx.com
-0.0.0.0 ifsk2.tanx.com
-0.0.0.0 opehs.tanx.com
-0.0.0.0 p.tanx.com
-0.0.0.0 pcookie.tanx.com
-0.0.0.0 phs.tanx.com
-0.0.0.0 rdstat.tanx.com
-0.0.0.0 tanx.com
-0.0.0.0 toruk.tanx.com
 #[sdkclickurl.com]
 0.0.0.0 c.sdkclickurl.com
 0.0.0.0 c3.sdkclickurl.com
@@ -10896,18 +10866,12 @@
 0.0.0.0 als.baidu.com
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 caclick.baidu.com
-0.0.0.0 dxp.baidu.com
 0.0.0.0 eclick.baidu.com
 0.0.0.0 fclog.baidu.com
-0.0.0.0 fxgate.baidu.com
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 hmma.baidu.com
-0.0.0.0 imgstat.baidu.com
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 nsclick.baidu.com
-0.0.0.0 plugin.mobopay.baidu.com
-0.0.0.0 push.zhanzhang.baidu.com
-0.0.0.0 sclick.baidu.com
 0.0.0.0 usp1.baidu.com
 0.0.0.0 wkclick.baidu.com
 0.0.0.0 wkctj.baidu.com
