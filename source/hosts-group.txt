@@ -2896,13 +2896,6 @@
 0.0.0.0 d.pub.network
 0.0.0.0 prebid.pub.network
 0.0.0.0 pub.network
-#[disqus]
-0.0.0.0 glitter.services.disqus.com
-0.0.0.0 juggler.services.disqus.com
-0.0.0.0 links.services.disqus.com
-0.0.0.0 realtime.services.disqus.com
-0.0.0.0 referrer.disqus.com
-0.0.0.0 tempest.services.disqus.com
 #[adspruce.com]
 0.0.0.0 adspruce.com
 0.0.0.0 ani.adspruce.com
