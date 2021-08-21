@@ -6669,22 +6669,6 @@
 0.0.0.0 vads-api.ad.daum.net
 0.0.0.0 wat.ad.daum.net
 0.0.0.0 webid.ad.daum.net
-#[nextsmarty.com]
-0.0.0.0 ci.nextsmarty.com
-0.0.0.0 demo.nextsmarty.com
-0.0.0.0 fin1.logging.nextsmarty.com
-0.0.0.0 fin2.logging.nextsmarty.com
-0.0.0.0 glamira.nextsmarty.com
-0.0.0.0 git.nextsmarty.com
-0.0.0.0 jira.nextsmarty.com
-0.0.0.0 logs.nextsmarty.com
-0.0.0.0 minty.nextsmarty.com
-0.0.0.0 monitor.nextsmarty.com
-0.0.0.0 monitor2.nextsmarty.com
-0.0.0.0 nct1.logging.nextsmarty.com
-0.0.0.0 nct2.logging.nextsmarty.com
-0.0.0.0 nextsmarty.com
-0.0.0.0 www.nextsmarty.com
 #[runative.com]
 0.0.0.0 admin.runative.com
 0.0.0.0 api.runative.com
