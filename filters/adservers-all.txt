@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 18 Aug 2021 21:11 UTC+7
-! Version: 2108182111
-! Blocked: 6,743 rules
+! Last modified: 21 Aug 2021 17:25 UTC+7
+! Version: 2108211725
+! Blocked: 6,754 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -572,6 +572,7 @@
 ||mto.cgv.vn^
 ||myharavan.com^
 ||mysapo.net^
+||nct1.logging.nextsmarty.com^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
 ||pixel.chotot.com^
@@ -1861,7 +1862,6 @@
 ||newsinc.com^
 ||newsmaxfeednetwork.com^
 ||nexage.com^
-||nextsmarty.com^
 ||ngads.go.com^
 ||nice-prod.pro^
 ||nil.naver.com^
@@ -1991,7 +1991,6 @@
 ||rcm.amazon.com^
 ||rd.yahoo.co.jp^
 ||realsrv.com^
-||referrer.disqus.com^
 ||refpa.top^
 ||reklamstore.com^
 ||rekmob.com^
@@ -2052,7 +2051,6 @@
 ||server-analytics.snapchat.com^
 ||serverbid.com^
 ||servicelayer.king.com^
-||services.disqus.com^
 ||serving-sys.com^
 ||serving1.net^
 ||sgp.o2o.api.xiaomi.com^
@@ -3522,6 +3520,7 @@
 ||boilingbeetle.com^
 ||boilingumbrella.com^
 ||boldchat.com^
+||bookmtpo.com^
 ||boom.ro^
 ||boomads.com^
 ||boost-my-pr.de^
@@ -4156,6 +4155,7 @@
 ||firstlightera.com^
 ||fistofzeus.com^
 ||fixsirrod.site^
+||fizrnews.com^
 ||flakyfeast.com^
 ||fleshlightcash.com^
 ||flexbanner.com^
@@ -4646,6 +4646,7 @@
 ||lucklayed.info^
 ||lumpyleaf.com^
 ||lunarads.com^
+||lvyabgbohlv.com^
 ||lytics.io^
 ||lzjl.com^
 ||m.trb.com^
@@ -4678,6 +4679,7 @@
 ||marketing.osijek031.com^
 ||marketo.net^
 ||marketron.com^
+||markmansonbooklst.com^
 ||markofathenaluk.com^
 ||maroonspider.com^
 ||mas.sector.sk^
@@ -4906,6 +4908,7 @@
 ||newonads.com^
 ||newopenx.detik.com^
 ||newsforyoy.com^
+||newsocko.com^
 ||newstarads.com^
 ||newt1.adultadworld.com^
 ||newt1.adultworld.com^
@@ -4976,6 +4979,7 @@
 ||oncerensky.cam^
 ||onclasrv.com^
 ||onclickads.net^
+||onclickalgo.com^
 ||onclickmega.com^
 ||onclicksuper.com^
 ||oneandonlynetwork.com^
@@ -5074,6 +5078,7 @@
 ||pcash.imlive.com^
 ||pcmclk.com^
 ||pcteast.com^
+||pdxgfnnoan.com^
 ||peacepowder.com^
 ||pebadu.com^
 ||peep-auktion.de^
@@ -5186,6 +5191,7 @@
 ||presbanise.pw^
 ||preservemountain.com^
 ||presetrabbits.com^
+||pressingmiscellaneoustry.com^
 ||previousplayground.com^
 ||previouspotato.com^
 ||prfwpclck.com^
@@ -5429,6 +5435,7 @@
 ||sageanalyst.net^
 ||saggrowledetc.com^
 ||sailif.com^
+||saltinourhairtv.com^
 ||samsungacr.com^
 ||samsungads.com^
 ||sandsitedrhec.club^
@@ -5974,6 +5981,7 @@
 ||valuesponsor.com^
 ||vanfireworks.com^
 ||variablefitness.com^
+||varietyofdisplayformats.com^
 ||vasgenerete.site^
 ||vattingbalak.com^
 ||vebadu.com^
@@ -6182,6 +6190,7 @@
 ||yoptaejrj2kkf8nj09.com^
 ||yougotacheck.com^
 ||youradexchange.com^
+||yourbestheal.com^
 ||ytimm.com^
 ||yuilop.com^
 ||yume.com^
@@ -6561,6 +6570,7 @@
 ||redinvestor.com^
 ||redretarget.com^
 ||referer.pixplug.in^
+||referrer.disqus.com^
 ||remyyadan.online.fr^
 ||reports.crashlytics.com^
 ||reports.ubimo.com^
@@ -6710,6 +6720,7 @@
 ||wren.condenastdigital.com^
 ||wt.soundestlink.com^
 ||wzrkt.com^
+||x.disq.us^
 ||xlog.hiido.com^
 ||ylog.hiido.com^
 ||ylog.huya.com^
