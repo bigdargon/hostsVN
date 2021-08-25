@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 21 Aug 2021 17:25 UTC+7
-! Version: 2108211725
-! Blocked: 6,754 rules
+! Last modified: 25 Aug 2021 10:49 UTC+7
+! Version: 2108251049
+! Blocked: 6,764 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -396,6 +396,7 @@
 ||marketing.hub-js.com^
 ||media.dabong247.com^
 ||mega1.yeah1.com^
+||menu.metu.vn^
 ||microad.vn^
 ||mobileads.dieuviet.com^
 ||ng-vn-notice.gameitop.com^
@@ -652,6 +653,7 @@
 ||vieon-tracking.vieon.vn^
 ||vn.alexajstrack.com^
 ||vtrack.vht.com.vn^
+||webchat.caresoft.vn^
 ||webpush.bizfly.vn^
 ||webpush.todo.vn^
 ||webstag.kplus.vn^
@@ -946,6 +948,7 @@
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes^
+||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||152media.com^
 ||1rx.io^
@@ -3850,6 +3853,7 @@
 ||d1f05vr3sjsuy7.cloudfront.net^
 ||d2cmedia.ca^
 ||d2j042cj1421wi.cloudfront.net^
+||d2sbzwmcg5amr3.cloudfront.net^
 ||d2ve5d3ejm85c1.cloudfront.net^
 ||d3beefy8kd1pr7.cloudfront.net^
 ||d3cod80thn7qnd.cloudfront.net^
@@ -3935,6 +3939,7 @@
 ||disqusads.com^
 ||dist.belnk.com^
 ||dk4ywix.com^
+||dkre4lyk6a9bt.cloudfront.net^
 ||dmtracker.com^
 ||dmtracking.alibaba.com^
 ||dmtracking2.alibaba.com^
@@ -4600,6 +4605,7 @@
 ||lightcushion.com^
 ||lightningcast.net^
 ||lightspeedcash.com^
+||limeclassycaption.com^
 ||link-booster.de^
 ||link4ads.com^
 ||linkadd.de^
@@ -5208,6 +5214,7 @@
 ||profbigo.com^
 ||profero.com^
 ||profi-para.com^
+||profitablegate.com^
 ||profitrumour.com^
 ||projectwonderful.com^
 ||promo.badoink.com^
@@ -5358,6 +5365,7 @@
 ||relevanz10.de^
 ||relmaxtop.com^
 ||remistrainew.club^
+||remotepwn.com^
 ||remox.com^
 ||reporo.net^
 ||republika.onet.pl^
@@ -6323,6 +6331,7 @@
 ||blueconic.net^
 ||bugsense.com^
 ||burstly.com^
+||c-api-bit.shopeemobile.com^
 ||c.riskified.com^
 ||c.snnd.co^
 ||c2i-cdn.startappnetwork.com^
@@ -6714,6 +6723,7 @@
 ||weborama.net^
 ||webtrekk.net^
 ||weigezhiyao.com^
+||widget.manychat.com^
 ||widget.trustpilot.com^
 ||wieistmeineip.de^
 ||worldgravity.com^
