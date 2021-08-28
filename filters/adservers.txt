@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Aug 2021 10:49 UTC+7
-! Version: 2108251049
-! Blocked: 944 rules
+! Last modified: 28 Aug 2021 10:48 UTC+7
+! Version: 2108281048
+! Blocked: 948 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -665,6 +665,7 @@
 ||11bet.com^
 ||11bet.net^
 ||11bet.win^
+||123b.bet^
 ||123b.com^
 ||12b99.com^
 ||179bet.net^
@@ -705,6 +706,7 @@
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
+||bigwinvietnam.com^
 ||bong88net.com^
 ||bong99.com^
 ||bong99.fun^
@@ -718,6 +720,7 @@
 ||comebetvn9.com^
 ||datcuoc247.com^
 ||debet.com^
+||debet.top^
 ||dfchoingay.com^
 ||eurofun88.com^
 ||fa88.win^
@@ -809,6 +812,7 @@
 ||ms3388.com^
 ||ms88asia.com^
 ||ms88ca.com^
+||mu9.com^
 ||nbet.com^
 ||nhacainbet.club^
 ||nhanthuong88.com^

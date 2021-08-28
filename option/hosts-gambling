@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 25 Aug 2021 10:49 UTC+7
-# Version: 2108251049
-# Blocked: 3,042 domains
+# Last modified: 28 Aug 2021 10:48 UTC+7
+# Version: 2108281048
+# Blocked: 3,053 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -811,6 +811,17 @@
 0.0.0.0 ms.oppa888.com
 0.0.0.0 vi.oppa888.com
 0.0.0.0 www.oppa888.com
+0.0.0.0 debet.top
+0.0.0.0 d1.debet.top
+0.0.0.0 123b.bet
+0.0.0.0 m.123b.bet
+0.0.0.0 www.123b.bet
+0.0.0.0 mu9.com
+0.0.0.0 api.mu9.com
+0.0.0.0 img.mu9.com
+0.0.0.0 sock.mu9.com
+0.0.0.0 www.mu9.com
+0.0.0.0 bigwinvietnam.com
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com

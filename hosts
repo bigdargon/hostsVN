@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 Aug 2021 10:49 UTC+7
-# Version: 2108251049
-# Blocked: 17,858 domains
+# Last modified: 28 Aug 2021 10:48 UTC+7
+# Version: 2108281048
+# Blocked: 17,898 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12374,6 +12374,10 @@
 0.0.0.0 eu-content.swrve.com
 0.0.0.0 link.swrve.com
 0.0.0.0 swrve.com
+#[rvadnet.com]
+0.0.0.0 ads.rvadnet.com
+0.0.0.0 partner.rvadnet.com
+0.0.0.0 rvadnet.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15345,6 +15349,7 @@
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 antvoice.com
 0.0.0.0 anxiousapples.com
+0.0.0.0 aparvibices.com
 0.0.0.0 apathetictheory.com
 0.0.0.0 apex-ad.com
 0.0.0.0 aphidsclee.com
@@ -15396,10 +15401,12 @@
 0.0.0.0 areasonsimon.club
 0.0.0.0 argyresthia.com
 0.0.0.0 aromamirror.com
+0.0.0.0 artpever.com
 0.0.0.0 as.webmd.com
 0.0.0.0 as5000.com
 0.0.0.0 asacdn.com
 0.0.0.0 asccdn.com
+0.0.0.0 ascentmatrimonypistol.com
 0.0.0.0 asdnn1331.xyz
 0.0.0.0 asgclick.com
 0.0.0.0 asgclickpop.com
@@ -15598,8 +15605,10 @@
 0.0.0.0 binary1.website
 0.0.0.0 binarymoney.site
 0.0.0.0 bioniccuddle.com
+0.0.0.0 birlerskababs.com
 0.0.0.0 birthmarkagency.com
 0.0.0.0 bitads.net
+0.0.0.0 bitcoinsports.org
 0.0.0.0 bizrate.com
 0.0.0.0 blacurlik.com
 0.0.0.0 blast4traffic.com
@@ -16054,6 +16063,7 @@
 0.0.0.0 domainsteam.de
 0.0.0.0 domdex.com
 0.0.0.0 domeleco.top
+0.0.0.0 dooloust.net
 0.0.0.0 doubleadserve.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
@@ -16119,6 +16129,7 @@
 0.0.0.0 effectivemeasure.com
 0.0.0.0 efficaciouscactus.com
 0.0.0.0 eggsosgum.site
+0.0.0.0 egreephu.com
 0.0.0.0 ehealthcaresolutions.com
 0.0.0.0 ejyymghi.com
 0.0.0.0 elasticchange.com
@@ -16130,6 +16141,7 @@
 0.0.0.0 ellads.com
 0.0.0.0 ellcurvth.com
 0.0.0.0 elthamely.com
+0.0.0.0 elxpywhuj.com
 0.0.0.0 emarketer.com
 0.0.0.0 emediate.dk
 0.0.0.0 emerse.com
@@ -16168,6 +16180,7 @@
 0.0.0.0 estat.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
+0.0.0.0 ethnictyrosky.com
 0.0.0.0 etracker.de
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eu1.madsone.com
@@ -16310,6 +16323,7 @@
 0.0.0.0 fxclix.com
 0.0.0.0 fxstyle.net
 0.0.0.0 g2afse.com
+0.0.0.0 ga-ads.com
 0.0.0.0 ga87z2o.com
 0.0.0.0 gaijiglo.net
 0.0.0.0 galaksion.com
@@ -16342,6 +16356,7 @@
 0.0.0.0 globus-inter.com
 0.0.0.0 glossysense.com
 0.0.0.0 glossyvolume.com
+0.0.0.0 glugreez.com
 0.0.0.0 gmads.net
 0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
@@ -16351,6 +16366,7 @@
 0.0.0.0 go.padstm.com
 0.0.0.0 go2affise.com
 0.0.0.0 goadservices.com
+0.0.0.0 godfulsiums.com
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldbach.com
 0.0.0.0 goldspotmedia.com
@@ -16401,6 +16417,7 @@
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 havamedia.net
 0.0.0.0 hawkyeye5ssnd.com
+0.0.0.0 hazelnutshighs.com
 0.0.0.0 healthsmd.com
 0.0.0.0 healthyoffers.com
 0.0.0.0 heap.com
@@ -16460,6 +16477,7 @@
 0.0.0.0 hostgrater.com
 0.0.0.0 hostingstrong.com
 0.0.0.0 hostnetadv.site
+0.0.0.0 hosupshunk.com
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
 0.0.0.0 hotrank.com.tw
@@ -16526,6 +16544,7 @@
 0.0.0.0 immensehoney.com
 0.0.0.0 imonitor.nethost.cz
 0.0.0.0 impact-ad.jp
+0.0.0.0 impactlaterhand.com
 0.0.0.0 impactmobile.com
 0.0.0.0 importedincrease.com
 0.0.0.0 impossibleexpansion.com
@@ -16620,6 +16639,7 @@
 0.0.0.0 jaizouji.com
 0.0.0.0 jarvispopsu.com
 0.0.0.0 jatxt.com
+0.0.0.0 jaumevie.com
 0.0.0.0 jcount.com
 0.0.0.0 jebadu.com
 0.0.0.0 jenicdntc.com
@@ -16641,6 +16661,7 @@
 0.0.0.0 jugjetwok.com
 0.0.0.0 julysystems.com
 0.0.0.0 jumptap.com
+0.0.0.0 junotherome.com
 0.0.0.0 justicejudo.com
 0.0.0.0 justrelevant.com
 0.0.0.0 justwebads.com
@@ -16865,6 +16886,7 @@
 0.0.0.0 miarroba.com
 0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
+0.0.0.0 midastouchrt.com
 0.0.0.0 midnightclicking.com
 0.0.0.0 midpopedge.com
 0.0.0.0 militaryverse.com
@@ -16921,6 +16943,7 @@
 0.0.0.0 moneymakercdn.com
 0.0.0.0 monsterpops.com
 0.0.0.0 moolahmedia.com
+0.0.0.0 moradu.com
 0.0.0.0 mostaboutm.biz
 0.0.0.0 motricity.com
 0.0.0.0 motrixi.com
@@ -17166,6 +17189,7 @@
 0.0.0.0 parketsy.pro
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 partage-facile.com
+0.0.0.0 parthanonstatue.com
 0.0.0.0 partner-ads.com
 0.0.0.0 partner.pelikan.cz
 0.0.0.0 partnercash.de
@@ -17200,6 +17224,7 @@
 0.0.0.0 performanceleading.com
 0.0.0.0 performancerevenue.com
 0.0.0.0 performancerevenues.com
+0.0.0.0 performancetrustednetwork.com
 0.0.0.0 performancing.com
 0.0.0.0 perigshfnon.com
 0.0.0.0 personagraph.com
@@ -17273,6 +17298,7 @@
 0.0.0.0 popuptraffic.com
 0.0.0.0 porngraph.com
 0.0.0.0 porntrack.com
+0.0.0.0 poseidthewave.com
 0.0.0.0 pososrhwu2jf8jf09.com
 0.0.0.0 possessivebucket.com
 0.0.0.0 possibleboats.com
@@ -17289,6 +17315,7 @@
 0.0.0.0 praght.tech
 0.0.0.0 praterswhally.com
 0.0.0.0 prchecker.info
+0.0.0.0 pre4sentre8dhf.com
 0.0.0.0 precisioncounter.com
 0.0.0.0 predictad.com
 0.0.0.0 premium-offers.com
@@ -17341,6 +17368,7 @@
 0.0.0.0 psstt.com
 0.0.0.0 psvpromo.psvgamestudio.com
 0.0.0.0 ptairtug.net
+0.0.0.0 ptauxofi.net
 0.0.0.0 ptywajofa.pro
 0.0.0.0 pub.chez.com
 0.0.0.0 pub.club-internet.fr
@@ -17455,6 +17483,7 @@
 0.0.0.0 referralware.com
 0.0.0.0 refersion.com
 0.0.0.0 reflectivereward.com
+0.0.0.0 refraintupaiid.com
 0.0.0.0 regnow.com
 0.0.0.0 reinvigorate.net
 0.0.0.0 reklam.rfsl.se
@@ -17542,6 +17571,7 @@
 0.0.0.0 sageanalyst.net
 0.0.0.0 saggrowledetc.com
 0.0.0.0 sailif.com
+0.0.0.0 salinasbhut.com
 0.0.0.0 saltinourhairtv.com
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungads.com
@@ -17739,7 +17769,6 @@
 0.0.0.0 stat.zenon.net
 0.0.0.0 stat24.com
 0.0.0.0 stat24.meta.ua
-0.0.0.0 statcounter.com
 0.0.0.0 static-ads.akamaized.net
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.itrack.it
@@ -18029,6 +18058,7 @@
 0.0.0.0 tutelatechnologies.com
 0.0.0.0 tvmtracker.com
 0.0.0.0 twenticiseflo.site
+0.0.0.0 twinsoflave.com
 0.0.0.0 twittad.com
 0.0.0.0 twokidjay.com
 0.0.0.0 twyn.com
@@ -18089,6 +18119,7 @@
 0.0.0.0 vanfireworks.com
 0.0.0.0 variablefitness.com
 0.0.0.0 varietyofdisplayformats.com
+0.0.0.0 variouscreativeformats.com
 0.0.0.0 vasgenerete.site
 0.0.0.0 vattingbalak.com
 0.0.0.0 vebadu.com
@@ -18119,6 +18150,7 @@
 0.0.0.0 viewpoint.com
 0.0.0.0 viewwonder.com
 0.0.0.0 vignerez.net
+0.0.0.0 vilercarpetfolk.com
 0.0.0.0 viliaff.com
 0.0.0.0 villandoping.site
 0.0.0.0 villandopingcon.site
@@ -18219,6 +18251,7 @@
 0.0.0.0 widgets.coinmarketcap.com
 0.0.0.0 widow5blackfr.com
 0.0.0.0 wikia-ads.wikia.com
+0.0.0.0 windofaeolus.com
 0.0.0.0 window.nixnet.cz
 0.0.0.0 winneradsmedia.com
 0.0.0.0 wirecomic.com
@@ -18291,6 +18324,7 @@
 0.0.0.0 www.dynamicadx.com
 0.0.0.0 www.ecpms.net
 0.0.0.0 www.edxlewni.com
+0.0.0.0 www.elxpywhuj.com
 0.0.0.0 www.emjcd.com
 0.0.0.0 www.eo62cocntx.com
 0.0.0.0 www.epi0tzwi.com
@@ -18299,6 +18333,7 @@
 0.0.0.0 www.find-my-great-life.com
 0.0.0.0 www.fizrnews.com
 0.0.0.0 www.fm6dz864.top
+0.0.0.0 www.ga-ads.com
 0.0.0.0 www.galaksion.com
 0.0.0.0 www.geniusdexchange.com
 0.0.0.0 www.gjqhufkamcoc.com
@@ -18420,6 +18455,7 @@
 0.0.0.0 xtremetop100.com
 0.0.0.0 xxladu.com
 0.0.0.0 xxssyndic.com
+0.0.0.0 xxxadu.com
 0.0.0.0 xxxcounter.com
 0.0.0.0 xxxmyself.com
 0.0.0.0 xy7elite.com
@@ -18434,6 +18470,7 @@
 0.0.0.0 yepteaswont.com
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com
+0.0.0.0 ygqukhllchpw.com
 0.0.0.0 yieldads.com
 0.0.0.0 yieldmanager.com
 0.0.0.0 yieldmanager.net
@@ -18475,6 +18512,7 @@
 0.0.0.0 zenkreka.com
 0.0.0.0 zenzuu.com
 0.0.0.0 zeotap.com
+0.0.0.0 zeroethgipsy.com
 0.0.0.0 zeusclicks.com
 0.0.0.0 ziffdavis.com
 0.0.0.0 zijaipse.com
@@ -18509,6 +18547,7 @@
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-statistics.machbird.com
 0.0.0.0 analytics-track.machbird.com
+0.0.0.0 analytics-usf.hotyon.com
 0.0.0.0 analytics.agoda.com
 0.0.0.0 analytics.ahrefs.com
 0.0.0.0 analytics.archive.org
@@ -18541,6 +18580,7 @@
 0.0.0.0 analytics.publitas.com
 0.0.0.0 analytics.samdd.me
 0.0.0.0 analytics.samsungknox.com
+0.0.0.0 analytics.seg.ritual.com
 0.0.0.0 analytics.sejda.com
 0.0.0.0 analytics.shift.agency
 0.0.0.0 analytics.siliconexpert.com
@@ -18879,6 +18919,7 @@
 0.0.0.0 sstats.adobe.com
 0.0.0.0 stat.hackedonlinegames.com
 0.0.0.0 stat.meitudata.com
+0.0.0.0 statcounter.com
 0.0.0.0 stathat.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.leaddyno.com
