@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 28 Aug 2021 10:48 UTC+7
-! Version: 2108281048
-! Blocked: 6,804 rules
+! Last modified: 30 Aug 2021 17:27 UTC+7
+! Version: 2108301727
+! Blocked: 6,793 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -15,7 +15,6 @@
 ||ad360.vn^
 ||adasiaholdings.com^
 ||adbro.me^
-||adconnect.vn^
 ||adflex.vn^
 ||adfly.vn^
 ||admicro*.vcmedia.vn^
@@ -425,6 +424,7 @@
 ||sda.tamdiem247.com^
 ||serving-ad.tv24.vn^
 ||shop.vnay.vn^
+||static.adconnect.vn^
 ||static.mvot.vn^
 ||stc-nas.nixcdn.com^
 ||stc.nas.nixcdn.com^
@@ -1694,7 +1694,6 @@
 ||instapagemetrics.com^
 ||instartlogic.com^
 ||insurads.com^
-||intentmedia.net^
 ||invitemedia.com^
 ||invl.co^
 ||ioam.de^
@@ -1955,7 +1954,6 @@
 ||pro-market.net^
 ||proads.space^
 ||prod-collecticon.outlookmobile.com^
-||programattik.com^
 ||promoted.soundcloud.com^
 ||promotionalads.yahoo.co.jp^
 ||propellerads.com^
@@ -2376,7 +2374,6 @@
 ||ad.caradisiac.com^
 ||ad.centrum.cz^
 ||ad.cgi.cz^
-||ad.choiceradio.com^
 ||ad.clix.pt^
 ||ad.cooks.com^
 ||ad.digitallook.com^
@@ -2729,7 +2726,6 @@
 ||ads.edbindex.dk^
 ||ads.egrana.com.br^
 ||ads.einmedia.com^
-||ads.elcarado.com^
 ||ads.electrocelt.com^
 ||ads.elitetrader.com^
 ||ads.emirates.net.ae^
@@ -2759,7 +2755,6 @@
 ||ads.gaming-universe.de^
 ||ads.gawker.com^
 ||ads.geekswithblogs.net^
-||ads.getlucky.com^
 ||ads.goclean.tech^
 ||ads.goyk.com^
 ||ads.gplusmedia.com^
@@ -2775,7 +2770,6 @@
 ||ads.hbv.de^
 ||ads.hearstmags.com^
 ||ads.heartlight.org^
-||ads.heias.com^
 ||ads.hollywood.com^
 ||ads.horsehero.com^
 ||ads.horyzon-media.com^
@@ -2821,8 +2815,6 @@
 ||ads.mmania.com^
 ||ads.mobilautomaten.com^
 ||ads.mobilebet.com^
-||ads.motor-forum.nl^
-||ads.motormedia.nl^
 ||ads.ncm.com^
 ||ads.ndtv1.com^
 ||ads.networksolutions.com^
@@ -2903,7 +2895,6 @@
 ||ads.ultimate-guitar.com^
 ||ads.uncrate.com^
 ||ads.usatoday.com^
-||ads.valueimpression.com^
 ||ads.verticalresponse.com^
 ||ads.vgchartz.com^
 ||ads.videosz.com^
@@ -2979,7 +2970,6 @@
 ||adserver.cams.com^
 ||adserver.com^
 ||adserver.digitoday.com^
-||adserver.finditquick.com^
 ||adserver.freecity.de^
 ||adserver.friendfinder.com^
 ||adserver.hardsextube.com^
@@ -3051,7 +3041,6 @@
 ||adsrevenue.net^
 ||adsrocket.net^
 ||adsrv.deviantart.com^
-||adsrv.vidnt.com^
 ||adsrveys.com^
 ||adsstat.com^
 ||adstage.io^
@@ -4323,7 +4312,6 @@
 ||hebadu.com^
 ||heeteefu.com^
 ||hegarberetrof.pro^
-||heias.com^
 ||hellobar.com^
 ||hentaicounter.com^
 ||heratheacle.com^
@@ -4496,6 +4484,7 @@
 ||intellilinks.com^
 ||intellipopup.com^
 ||intellitxt.com^
+||intentmedia.net^
 ||intergi.com^
 ||internalads.gammae.com^
 ||internetfuel.com^

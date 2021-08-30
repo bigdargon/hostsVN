@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 28 Aug 2021 10:48 UTC+7
-# Version: 2108281048
-# Blocked: 17,898 domains
+# Last modified: 30 Aug 2021 17:27 UTC+7
+# Version: 2108301727
+# Blocked: 17,867 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -357,7 +357,6 @@
 0.0.0.0 aax-eu-rtb.amazon-adsystem.com
 0.0.0.0 aax-eu-rtb-adx.amazon-adsystem.com
 0.0.0.0 aax-fe.amazon-adsystem.com
-0.0.0.0 aax-fe-pek.amazon-adsystem.com
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
 0.0.0.0 aax-fe-sin-rtb.amazon-adsystem.com
 0.0.0.0 aax-fe-sin-rtb-adx.amazon-adsystem.com
@@ -5747,7 +5746,6 @@
 0.0.0.0 1rx.io
 0.0.0.0 a-ams.1rx.io
 0.0.0.0 a-ap.1rx.io
-0.0.0.0 acp.1rx.io
 0.0.0.0 ad.1rx.io
 0.0.0.0 adserve-ams.1rx.io
 0.0.0.0 adserve-nj.1rx.io
@@ -6927,7 +6925,6 @@
 0.0.0.0 tracking.newsmaxfeednetwork.com
 0.0.0.0 www.newsmaxfeednetwork.com
 #[outbrain.com]
-0.0.0.0 accountreview.outbrain.com
 0.0.0.0 adngin.outbrain.com
 0.0.0.0 alldcs-distinct.outbrain.com
 0.0.0.0 alldcs.outbrain.com
@@ -8664,7 +8661,6 @@
 0.0.0.0 www.cignal.io
 #[districtm.net]
 0.0.0.0 admin-boost.districtm.net
-0.0.0.0 admin-boost-staging.districtm.net
 0.0.0.0 app.districtm.net
 0.0.0.0 artifactory.districtm.net
 0.0.0.0 auth.districtm.net
@@ -9489,11 +9485,6 @@
 0.0.0.0 o.wowreality.info
 0.0.0.0 r.wowreality.info
 0.0.0.0 wowreality.info
-#[programattik.com]
-0.0.0.0 ads.programattik.com
-0.0.0.0 programattik.com
-0.0.0.0 ssp.programattik.com
-0.0.0.0 www.programattik.com
 #[rmtag.com]
 0.0.0.0 cdn.rmtag.com
 0.0.0.0 intljs.rmtag.com
@@ -9502,7 +9493,6 @@
 #[mediaforge.com]
 0.0.0.0 admin.mediaforge.com
 0.0.0.0 ads.mediaforge.com
-0.0.0.0 ads-cluster.mediaforge.com
 0.0.0.0 amp.mediaforge.com
 0.0.0.0 ampadmin.mediaforge.com
 0.0.0.0 amp-cl1.mediaforge.com
@@ -11208,18 +11198,6 @@
 0.0.0.0 cdn.resonate.com
 0.0.0.0 resonate.com
 0.0.0.0 www.resonate.com
-#[intentmedia.net]
-0.0.0.0 a.cdn.intentmedia.net
-0.0.0.0 a.intentmedia.net
-0.0.0.0 a1.cdn.intentmedia.net
-0.0.0.0 a2.cdn.intentmedia.net
-0.0.0.0 adapters.cdn.intentmedia.net
-0.0.0.0 adcache.intentmedia.net
-0.0.0.0 ca.intentmedia.net
-0.0.0.0 intentmedia.net
-0.0.0.0 m.cdn.intentmedia.net
-0.0.0.0 m.intentmedia.net
-0.0.0.0 performance.intentmedia.net
 #[r-ad.ne.jp]
 0.0.0.0 bk.r-ad.ne.jp
 0.0.0.0 r-ad.ne.jp
@@ -11720,7 +11698,6 @@
 #[pro-market.net]
 0.0.0.0 ado.pro-market.net
 0.0.0.0 ads.pro-market.net
-0.0.0.0 ads2.pro-market.net
 0.0.0.0 fei.pro-market.net
 0.0.0.0 ha.pro-market.net
 0.0.0.0 pbid.pro-market.net
@@ -13860,9 +13837,6 @@
 0.0.0.0 omarketer.viettelpost.vn
 0.0.0.0 url.omarketer.viettelpost.vn
 0.0.0.0 wss.omarketer.viettelpost.vn
-#[adconnect.vn]
-0.0.0.0 adconnect.vn
-0.0.0.0 static.adconnect.vn
 #[bongdadem.net]
 0.0.0.0 api.bongdadem.net
 0.0.0.0 bongdadem.net
@@ -14100,6 +14074,7 @@
 0.0.0.0 sda.tamdiem247.com
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 shop.vnay.vn
+0.0.0.0 static.adconnect.vn
 0.0.0.0 static.mvot.vn
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.nas.nixcdn.com
@@ -14479,7 +14454,6 @@
 0.0.0.0 ad.caradisiac.com
 0.0.0.0 ad.centrum.cz
 0.0.0.0 ad.cgi.cz
-0.0.0.0 ad.choiceradio.com
 0.0.0.0 ad.clix.pt
 0.0.0.0 ad.cooks.com
 0.0.0.0 ad.digitallook.com
@@ -14831,7 +14805,6 @@
 0.0.0.0 ads.edbindex.dk
 0.0.0.0 ads.egrana.com.br
 0.0.0.0 ads.einmedia.com
-0.0.0.0 ads.elcarado.com
 0.0.0.0 ads.electrocelt.com
 0.0.0.0 ads.elitetrader.com
 0.0.0.0 ads.emirates.net.ae
@@ -14861,7 +14834,6 @@
 0.0.0.0 ads.gaming-universe.de
 0.0.0.0 ads.gawker.com
 0.0.0.0 ads.geekswithblogs.net
-0.0.0.0 ads.getlucky.com
 0.0.0.0 ads.goclean.tech
 0.0.0.0 ads.goyk.com
 0.0.0.0 ads.gplusmedia.com
@@ -14877,7 +14849,6 @@
 0.0.0.0 ads.hbv.de
 0.0.0.0 ads.hearstmags.com
 0.0.0.0 ads.heartlight.org
-0.0.0.0 ads.heias.com
 0.0.0.0 ads.hollywood.com
 0.0.0.0 ads.horsehero.com
 0.0.0.0 ads.horyzon-media.com
@@ -14923,8 +14894,6 @@
 0.0.0.0 ads.mmania.com
 0.0.0.0 ads.mobilautomaten.com
 0.0.0.0 ads.mobilebet.com
-0.0.0.0 ads.motor-forum.nl
-0.0.0.0 ads.motormedia.nl
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.networksolutions.com
@@ -15005,7 +14974,6 @@
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
 0.0.0.0 ads.usatoday.com
-0.0.0.0 ads.valueimpression.com
 0.0.0.0 ads.verticalresponse.com
 0.0.0.0 ads.vgchartz.com
 0.0.0.0 ads.videosz.com
@@ -15081,7 +15049,6 @@
 0.0.0.0 adserver.cams.com
 0.0.0.0 adserver.com
 0.0.0.0 adserver.digitoday.com
-0.0.0.0 adserver.finditquick.com
 0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.hardsextube.com
@@ -15153,7 +15120,6 @@
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrocket.net
 0.0.0.0 adsrv.deviantart.com
-0.0.0.0 adsrv.vidnt.com
 0.0.0.0 adsrveys.com
 0.0.0.0 adsstat.com
 0.0.0.0 adstage.io
@@ -16424,7 +16390,6 @@
 0.0.0.0 hebadu.com
 0.0.0.0 heeteefu.com
 0.0.0.0 hegarberetrof.pro
-0.0.0.0 heias.com
 0.0.0.0 hellobar.com
 0.0.0.0 hentaicounter.com
 0.0.0.0 heratheacle.com
@@ -16597,6 +16562,7 @@
 0.0.0.0 intellilinks.com
 0.0.0.0 intellipopup.com
 0.0.0.0 intellitxt.com
+0.0.0.0 intentmedia.net
 0.0.0.0 intergi.com
 0.0.0.0 internalads.gammae.com
 0.0.0.0 internetfuel.com
