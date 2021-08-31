@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Aug 2021 17:27 UTC+7
-! Version: 2108301727
-! Blocked: 948 rules
+! Last modified: 31 Aug 2021 09:54 UTC+7
+! Version: 2108310954
+! Blocked: 947 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -385,7 +385,6 @@
 ||ghimc.vn^
 ||go.vnecdn.com^
 ||hexapinow.xyz^
-||imad24.com^
 ||imgcdnbet.com^
 ||interactive.tinnhanhchungkhoan.vn^
 ||ketquaxosotoancau.org^
