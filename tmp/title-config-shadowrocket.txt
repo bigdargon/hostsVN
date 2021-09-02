@@ -12,6 +12,7 @@ FINAL,DIRECT
 
 [URL Rewrite]
 !_rewrite_shadowrocket_
+(^https?:\/\/.+\.googlevideo\.com\/.+)(&ctier=[A-Z])(&.+) $1$3 302
 
 [MITM]
 !_hostname_

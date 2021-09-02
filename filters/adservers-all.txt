@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 31 Aug 2021 09:54 UTC+7
-! Version: 2108310954
-! Blocked: 6,792 rules
+! Last modified: 02 Sep 2021 20:18 UTC+7
+! Version: 2109022018
+! Blocked: 6,809 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -387,6 +387,7 @@
 ||hexapinow.xyz^
 ||imgcdnbet.com^
 ||interactive.tinnhanhchungkhoan.vn^
+||k8trangphim.com^
 ||ketquaxosotoancau.org^
 ||landingpagelagi.vn^
 ||lottery.headlines.pw^
@@ -406,6 +407,7 @@
 ||qc.designervn.net^
 ||qc.itsgroup.vn^
 ||qc.japo.vn^
+||qc.kqbd88.com^
 ||qc.violet.vn^
 ||qctt24h.24h.com.vn^
 ||qcv5.blogtruyen.vn^
@@ -621,9 +623,12 @@
 ||track.sendo.vn^
 ||track.vio.edu.vn^
 ||tracker.anime47.com^
+||tracker.bongngo.bar^
 ||tracker.bongngo.store^
 ||tracker.fado.vn^
+||tracker.gigaphim.com^
 ||tracker.phunuvagiadinh.vn^
+||tracker.thichxemphim.net^
 ||tracker.tintucvietnam.vn^
 ||tracker.vanlong.stream^
 ||tracking-amp.vnexpress.net^
@@ -2283,6 +2288,7 @@
 ||zx-adnet.com^
 ||03ed9035a0801f.com^
 ||0n.click^
+||0x01n2ptpuz3.com^
 ||1-1ads.com^
 ||152media.info^
 ||1phads.com^
@@ -2293,6 +2299,7 @@
 ||24newstech.com^
 ||42d61f012e27b36d53.com^
 ||4d5.net^
+||4hfchest5kdnfnut.com^
 ||4info.com^
 ||4mads.com^
 ||4wnet.com^
@@ -3571,6 +3578,7 @@
 ||c1.nowlinux.com^
 ||c1exchange.com^
 ||c43a3cd8f99413891.com^
+||c44wergiu87heghoconutdx.com^
 ||ca.clcknads.pro^
 ||calculatingcircle.com^
 ||calculatingtoothbrush.com^
@@ -3656,6 +3664,7 @@
 ||ciksolre.net^
 ||cityads.telus.net^
 ||citygrid.com^
+||civadsoo.net^
 ||cj.com^
 ||cjbmanagement.com^
 ||cjlog.com^
@@ -3899,6 +3908,7 @@
 ||deloo.de^
 ||deloplen.com^
 ||deloton.com^
+||delusionrather.com^
 ||demdex.net^
 ||denetsuk.com^
 ||depirsmandk5.com^
@@ -4000,6 +4010,7 @@
 ||easyhits4u.com^
 ||ebayadvertising.com^
 ||ebetoni.com^
+||ebjvkekktns.com^
 ||ebocornac.com^
 ||ebuzzing.com^
 ||ecircle-ag.com^
@@ -4509,6 +4520,7 @@
 ||isupopc.com^
 ||itfarm.com^
 ||itgiblean.com^
+||itheatmoran.com^
 ||itineraryupper.com^
 ||itnuzleafan.com^
 ||itop.cz^
@@ -4570,6 +4582,7 @@
 ||knifeoctopus.com^
 ||knorex.com^
 ||koacojus.net^
+||kogutcho.net^
 ||koindut.com^
 ||kompasads.com^
 ||konradsheriff.com^
@@ -4947,6 +4960,7 @@
 ||notifysrv.com^
 ||novem.pl^
 ||nrc.tapas.net^
+||nsparket.top^
 ||ntsecd.com^
 ||ntv.io^
 ||ntvk1.ru^
@@ -5056,6 +5070,7 @@
 ||oxado.com^
 ||oxcash.com^
 ||oxen.hillcountrytexas.com^
+||ozongees.com^
 ||p.adpdx.com^
 ||p.imgur.com^
 ||padstm.com^
@@ -5463,6 +5478,7 @@
 ||sailif.com^
 ||salinasbhut.com^
 ||saltinourhairtv.com^
+||samplerpouch.com^
 ||samsungacr.com^
 ||samsungads.com^
 ||sandsitedrhec.club^
@@ -5835,6 +5851,7 @@
 ||tm5kpprikka.com^
 ||tnkexchange.com^
 ||tntclix.co.uk^
+||toateeli.net^
 ||todacell.com^
 ||toecircle.com^
 ||toothbrushnote.com^
@@ -5886,7 +5903,6 @@
 ||trackedweb.net^
 ||tracker-pm2.spilleren.com^
 ||tracker.icerocket.com^
-||tracker.trackerfix.com^
 ||tracking.crunchiemedia.com^
 ||tracking.gajmp.com^
 ||tracking.internetstores.de^
@@ -6219,6 +6235,7 @@
 ||yoc-performance.com^
 ||yogar2ti8nf09.com^
 ||yoggrt.com^
+||yonsandileer.com^
 ||yoptaejrj2kkf8nj09.com^
 ||yougotacheck.com^
 ||youradexchange.com^
