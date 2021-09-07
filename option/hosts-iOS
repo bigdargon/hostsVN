@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Sep 2021 20:18 UTC+7
-# Version: 2109022018
-# Blocked: 17,886 domains
+# Last modified: 07 Sep 2021 17:15 UTC+7
+# Version: 2109071715
+# Blocked: 17,928 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5022,6 +5022,9 @@
 0 gssprt.jp
 0 ra.gssprt.jp
 0 rj.gssprt.jp
+0 gsspat.jp
+0 img.gsspat.jp
+0 rt.gsspat.jp
 0 ad.go.com
 0 adimages.go.com
 0 adsatt.espn.go.com
@@ -11084,6 +11087,7 @@
 0 abh.genieesspv.jp
 0 ad-spire.genieesspv.jp
 0 aladdin.genieesspv.jp
+0 chin-adnetwork.genieesspv.jp
 0 genieesspv.jp
 0 ialaddin.genieesspv.jp
 0 isboost.genieesspv.jp
@@ -11310,6 +11314,33 @@
 0 ads.rvadnet.com
 0 partner.rvadnet.com
 0 rvadnet.com
+0 ad4mat.net
+0 dmp.ad4mat.net
+0 ext-arango.ad4mat.net
+0 nexus.ad4mat.net
+0 prod-rtb.ad4mat.net
+0 static-de.ad4mat.net
+0 static.ad4mat.net
+0 www.ad4mat.net
+0 ag.innovid.com
+0 dts.innovid.com
+0 innovid.com
+0 rtr.innovid.com
+0 s-a.innovid.com
+0 s-cdn.innovid.com
+0 s-files.innovid.com
+0 s-static.innovid.com
+0 s-video.innovid.com
+0 s.innovid.com
+0 service.innovid.com
+0 static.innovid.com
+0 video.innovid.com
+0 x.innovid.com
+0 51.la
+0 ia.51.la
+0 js.users.51.la
+0 users.51.la
+0 www.51.la
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -12847,6 +12878,7 @@
 0 k8trangphim.com
 0 ketquaxosotoancau.org
 0 landingpagelagi.vn
+0 link.cado.pro
 0 lottery.headlines.pw
 0 lottery.vntoday.news
 0 marketing.hub-js.com
@@ -12858,6 +12890,7 @@
 0 ng-vn-notice.gameitop.com
 0 nspapi.aiservice.vn
 0 offerwall.headlines.pw
+0 openx.motgame.vn
 0 ox1.vietstock.vn
 0 phimmedia03.com
 0 qc.5giay.vn
@@ -13347,7 +13380,6 @@
 0 ad3.xrea.com
 0 ad4mat.com
 0 ad4mat.de
-0 ad4mat.net
 0 ad4push.com
 0 ad6media.fr
 0 adacado.com
@@ -14251,6 +14283,7 @@
 0 banner.buempliz-online.ch
 0 banner.casino.net
 0 banner.casinodelrio.com
+0 banner.congstar.de
 0 banner.cotedazurpalace.com
 0 banner.coza.com
 0 banner.cz
@@ -14356,6 +14389,7 @@
 0 belstat.com
 0 belstat.nl
 0 belyyeusy.com
+0 bepiletussar.casa
 0 berp.com
 0 besguses.pro
 0 best-pr.info
@@ -15354,7 +15388,6 @@
 0 inmobisdk-a.akamaihd.net
 0 inner-active.com
 0 innocentwax.com
-0 innovid.com
 0 inorcelliana.info
 0 inpagepush.com
 0 inquisitiveinvention.com
@@ -15380,6 +15413,7 @@
 0 internalads.gammae.com
 0 internetfuel.com
 0 interreklame.de
+0 intimidatepropel.com
 0 intnotif.club
 0 intowow.com
 0 inuvi.com
@@ -16490,6 +16524,7 @@
 0 socialspark.com
 0 softclick.com.br
 0 sojern.com
+0 solanoswajang.com
 0 sombersea.com
 0 sombersquirrel.com
 0 sombersurprise.com
@@ -16794,6 +16829,7 @@
 0 traffic.focuusing.com
 0 trafficadept.com
 0 trafficads.net
+0 trafficdok.com
 0 trafficgate.net
 0 trafficholder.com
 0 traffichunt.com
@@ -17017,6 +17053,7 @@
 0 whazugho.com
 0 whenu.com
 0 whereapps.com
+0 whingewost.com
 0 whirlwealth.com
 0 whiskyqueue.com
 0 whispa.com
@@ -17208,6 +17245,7 @@
 0 www.webtrendslive.com
 0 www.whsepelmrnz.com
 0 www.xadsmart.com
+0 www.xbirmkzpgcnb.com
 0 www.xpbbyiqbcawamy.com
 0 www.ylicxdkgkvfc.com
 0 www.yourbestheal.com
@@ -17220,6 +17258,7 @@
 0 x-traceur.com
 0 xad.com
 0 xadsmart.com
+0 xbirmkzpgcnb.com
 0 xchange.ro
 0 xclicks.net
 0 xebadu.com
@@ -17315,8 +17354,10 @@
 0 a.axmtrack.com
 0 a.klaviyo.com
 0 a.mailmunch.co
+0 a.master98.com
 0 a.quora.com
 0 a.ria.ru
+0 a.ss828.xyz
 0 a3cloud.net
 0 acint.net
 0 adentify.com
@@ -17616,6 +17657,7 @@
 0 opensharecount.com
 0 ophan.theguardian.com
 0 optnmstr.com
+0 p.trvdp.com
 0 p.typekit.net
 0 pebed.dm.gg
 0 pegloang.com

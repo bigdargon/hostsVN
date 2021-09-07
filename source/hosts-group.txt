@@ -5390,6 +5390,10 @@
 0.0.0.0 gssprt.jp
 0.0.0.0 ra.gssprt.jp
 0.0.0.0 rj.gssprt.jp
+#[gsspat.jp]
+0.0.0.0 gsspat.jp
+0.0.0.0 img.gsspat.jp
+0.0.0.0 rt.gsspat.jp
 #[go.com]
 0.0.0.0 ad.go.com
 0.0.0.0 adimages.go.com
@@ -12080,6 +12084,7 @@
 0.0.0.0 abh.genieesspv.jp
 0.0.0.0 ad-spire.genieesspv.jp
 0.0.0.0 aladdin.genieesspv.jp
+0.0.0.0 chin-adnetwork.genieesspv.jp
 0.0.0.0 genieesspv.jp
 0.0.0.0 ialaddin.genieesspv.jp
 0.0.0.0 isboost.genieesspv.jp
@@ -12345,3 +12350,33 @@
 0.0.0.0 ads.rvadnet.com
 0.0.0.0 partner.rvadnet.com
 0.0.0.0 rvadnet.com
+#[ad4mat.net]
+0.0.0.0 ad4mat.net
+0.0.0.0 dmp.ad4mat.net
+0.0.0.0 ext-arango.ad4mat.net
+0.0.0.0 nexus.ad4mat.net
+0.0.0.0 prod-rtb.ad4mat.net
+0.0.0.0 static-de.ad4mat.net
+0.0.0.0 static.ad4mat.net
+0.0.0.0 www.ad4mat.net
+#[innovid.com]
+0.0.0.0 ag.innovid.com
+0.0.0.0 dts.innovid.com
+0.0.0.0 innovid.com
+0.0.0.0 rtr.innovid.com
+0.0.0.0 s-a.innovid.com
+0.0.0.0 s-cdn.innovid.com
+0.0.0.0 s-files.innovid.com
+0.0.0.0 s-static.innovid.com
+0.0.0.0 s-video.innovid.com
+0.0.0.0 s.innovid.com
+0.0.0.0 service.innovid.com
+0.0.0.0 static.innovid.com
+0.0.0.0 video.innovid.com
+0.0.0.0 x.innovid.com
+#[51.la]
+0.0.0.0 51.la
+0.0.0.0 ia.51.la
+0.0.0.0 js.users.51.la
+0.0.0.0 users.51.la
+0.0.0.0 www.51.la
