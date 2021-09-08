@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 Sep 2021 17:15 UTC+7
-! Version: 2109071715
-! Blocked: 6,854 rules
+! Last modified: 08 Sep 2021 14:11 UTC+7
+! Version: 2109081411
+! Blocked: 6,857 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1368,8 +1368,6 @@
 ||batch.com^
 ||batmobi.net^
 ||bats.video.yahoo.com^
-||beacon-1.newrelic.com^
-||beacon-3.newrelic.com^
 ||beacon.qq.com^
 ||beacons*.gvt2.com^
 ||beacons*.gvt3.com^
@@ -1491,7 +1489,6 @@
 ||collecticon.outlookmobile.com^
 ||collection-*.herokuapp.com^
 ||collective-media.net^
-||collector.newrelic.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||connatix.com^
 ||connectad.io^
@@ -1729,7 +1726,6 @@
 ||inorbitad.com^
 ||insight.ucweb.com^
 ||insightexpressai.com^
-||insights-collector.newrelic.com^
 ||inspectlet.com^
 ||instant.page^
 ||instapagemetrics.com^
@@ -1750,7 +1746,6 @@
 ||jetlore.com^
 ||jpush.cn^
 ||jpush.io^
-||js-agent.newrelic.com^
 ||jscount.com^
 ||jsecoin.com^
 ||juicer.cc^
@@ -1790,7 +1785,6 @@
 ||livefyre.com^
 ||lkqd.net^
 ||localytics.com^
-||log-api.newrelic.com^
 ||log.go.com^
 ||log.kajicam.com^
 ||log.pinterest.com^
@@ -1842,7 +1836,6 @@
 ||meitustat.com^
 ||mellowads.com^
 ||metok.sys.miui.com^
-||metric-api.newrelic.com^
 ||metrics-logger.spot.im^
 ||metrics.cnn.com^
 ||metrika.yandex.ru^
@@ -1867,8 +1860,6 @@
 ||mobclix.com^
 ||mobfox.com^
 ||mobile-10.com^
-||mobile-collector.newrelic.com^
-||mobile-crash.newrelic.com^
 ||mobileads.msn.com^
 ||mobileanalytics.*.amazonaws.com^
 ||mobileapptracking.com^
@@ -2143,7 +2134,6 @@
 ||srvcs.tumblr.com^
 ||ssl-google-analytics.l.google.com^
 ||stack-sonar.com^
-||staging-insights-collector.newrelic.com^
 ||starbolt.io^
 ||startappservice.com^
 ||startup.mobile.yandex.net^
@@ -3149,6 +3139,7 @@
 ||advertisementafterthought.com^
 ||advertiserurl.com^
 ||advertisespace.com^
+||advertising-cdn.com^
 ||advertising-cdn.dpgmedia.cloud^
 ||advertisingbanners.com^
 ||advertisingbox.com^
@@ -4341,6 +4332,7 @@
 ||gunggo.com^
 ||guppymedia.com^
 ||gwallet.com^
+||gyfumobo.com^
 ||h78xb.pw^
 ||hadesleta.com^
 ||hairdosslitter.casa^
@@ -4526,6 +4518,17 @@
 ||instantresp.com^
 ||instinctiveads.com^
 ||instrumentsponge.com^
+||int.akisinn.info^
+||int.akisinn.me^
+||int.akisinn.site^
+||int.dewrain.life^
+||int.dewrain.site^
+||int.dewrain.world^
+||int.vaicore.site^
+||int.vaicore.store^
+||int.vaicore.xyz^
+||int.vlancaa.fun^
+||int.vlancaa.site^
 ||intelliads.com^
 ||intelligenceadx.com^
 ||intellilinks.com^

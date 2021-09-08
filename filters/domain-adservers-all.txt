@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 07 Sep 2021 17:15 UTC+7
-! Version: 2109071715
-! Blocked: 6,854 domains
+! Last modified: 08 Sep 2021 14:11 UTC+7
+! Version: 2109081411
+! Blocked: 6,857 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -1366,8 +1366,6 @@ bat.bing.com
 batch.com
 batmobi.net
 bats.video.yahoo.com
-beacon-1.newrelic.com
-beacon-3.newrelic.com
 beacon.qq.com
 beacons*.gvt2.com
 beacons*.gvt3.com
@@ -1489,7 +1487,6 @@ cohesionapps.com
 collecticon.outlookmobile.com
 collection-*.herokuapp.com
 collective-media.net
-collector.newrelic.com
 confiant-integrations.global.ssl.fastly.net
 connatix.com
 connectad.io
@@ -1727,7 +1724,6 @@ innovid.com
 inorbitad.com
 insight.ucweb.com
 insightexpressai.com
-insights-collector.newrelic.com
 inspectlet.com
 instant.page
 instapagemetrics.com
@@ -1748,7 +1744,6 @@ jampp.com
 jetlore.com
 jpush.cn
 jpush.io
-js-agent.newrelic.com
 jscount.com
 jsecoin.com
 juicer.cc
@@ -1788,7 +1783,6 @@ linksynergy.com
 livefyre.com
 lkqd.net
 localytics.com
-log-api.newrelic.com
 log.go.com
 log.kajicam.com
 log.pinterest.com
@@ -1840,7 +1834,6 @@ mediawayss.com
 meitustat.com
 mellowads.com
 metok.sys.miui.com
-metric-api.newrelic.com
 metrics-logger.spot.im
 metrics.cnn.com
 metrika.yandex.ru
@@ -1865,8 +1858,6 @@ mobads.baidu.com
 mobclix.com
 mobfox.com
 mobile-10.com
-mobile-collector.newrelic.com
-mobile-crash.newrelic.com
 mobileads.msn.com
 mobileanalytics.*.amazonaws.com
 mobileapptracking.com
@@ -2141,7 +2132,6 @@ srtb.msn.com
 srvcs.tumblr.com
 ssl-google-analytics.l.google.com
 stack-sonar.com
-staging-insights-collector.newrelic.com
 starbolt.io
 startappservice.com
 startup.mobile.yandex.net
@@ -3147,6 +3137,7 @@ advertiseireland.com
 advertisementafterthought.com
 advertiserurl.com
 advertisespace.com
+advertising-cdn.com
 advertising-cdn.dpgmedia.cloud
 advertisingbanners.com
 advertisingbox.com
@@ -4339,6 +4330,7 @@ guardedschool.com
 gunggo.com
 guppymedia.com
 gwallet.com
+gyfumobo.com
 h78xb.pw
 hadesleta.com
 hairdosslitter.casa
@@ -4524,6 +4516,17 @@ instantmadness.com
 instantresp.com
 instinctiveads.com
 instrumentsponge.com
+int.akisinn.info
+int.akisinn.me
+int.akisinn.site
+int.dewrain.life
+int.dewrain.site
+int.dewrain.world
+int.vaicore.site
+int.vaicore.store
+int.vaicore.xyz
+int.vlancaa.fun
+int.vlancaa.site
 intelliads.com
 intelligenceadx.com
 intellilinks.com

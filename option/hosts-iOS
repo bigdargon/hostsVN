@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Sep 2021 17:15 UTC+7
-# Version: 2109071715
-# Blocked: 17,928 domains
+# Last modified: 08 Sep 2021 14:11 UTC+7
+# Version: 2109081411
+# Blocked: 17,902 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2717,16 +2717,6 @@
 0 video.adspruce.com
 0 vod.adspruce.com
 0 www.adspruce.com
-0 beacon-1.newrelic.com
-0 beacon-3.newrelic.com
-0 collector.newrelic.com
-0 insights-collector.newrelic.com
-0 js-agent.newrelic.com
-0 log-api.newrelic.com
-0 metric-api.newrelic.com
-0 mobile-collector.newrelic.com
-0 mobile-crash.newrelic.com
-0 staging-insights-collector.newrelic.com
 0 bam.eu01.nr-data.net
 0 bam.nr-data.net
 0 bam-1.nr-data.net
@@ -4348,49 +4338,19 @@
 0 vc-live-cf.hotjar.io
 0 vc-staging.hotjar.io
 0 vc.hotjar.io
-0 alerts.api.kochava.com
-0 analytics.kochava.com
-0 analytics20.kochava.com
 0 api.kochava.com
-0 apps.api.kochava.com
 0 assets.kochava.com
 0 bidder.kochava.com
-0 campaign.api.kochava.com
-0 clk.control.kochava.com
-0 collective.kochava.com
 0 control.kochava.com
-0 csi.kochava.com
-0 currencies.api.kochava.com
-0 chef.rob.ops.kochava.com
-0 dash.kochava.com
-0 dev.kochava.com
-0 external-appcluster-kp1g.kochava.com
-0 frontend-na.collective.kochava.com
-0 go.kochava.com
-0 git.dev.kochava.com
-0 hello.kochava.com
+0 entitlements.kochava.com
+0 icm.kochava.com
 0 imp.control.kochava.com
-0 inboard.kochava.com
-0 inboard-shop-02.kochava.com
-0 inboard-shop-05-ams.kochava.com
 0 kochava.com
 0 kvinit-prod.api.kochava.com
-0 marketing.kochava.com
-0 metrics.kochava.com
-0 mtracking-molocoads-com.control.kochava.com
-0 ops.kochava.com
-0 partners.api.kochava.com
-0 push-manage.api.kochava.com
-0 reporting.api.kochava.com
-0 stage.kochava.com
-0 stash.api.kochava.com
-0 static.kochava.com
-0 t-metaps-biz.control.kochava.com
+0 location.api.kochava.com
 0 token.api.kochava.com
 0 web-sdk.control.kochava.com
-0 whatif.api.kochava.com
 0 www.kochava.com
-0 xxxbidder.kochava.com
 0 ads.evidon.com
 0 c.evidon.com
 0 cdn.evidon.com
@@ -14027,6 +13987,7 @@
 0 advertisementafterthought.com
 0 advertiserurl.com
 0 advertisespace.com
+0 advertising-cdn.com
 0 advertising-cdn.dpgmedia.cloud
 0 advertisingbanners.com
 0 advertisingbox.com
@@ -15218,6 +15179,7 @@
 0 gunggo.com
 0 guppymedia.com
 0 gwallet.com
+0 gyfumobo.com
 0 h78xb.pw
 0 hadesleta.com
 0 hairdosslitter.casa
@@ -15403,6 +15365,17 @@
 0 instantresp.com
 0 instinctiveads.com
 0 instrumentsponge.com
+0 int.akisinn.info
+0 int.akisinn.me
+0 int.akisinn.site
+0 int.dewrain.life
+0 int.dewrain.site
+0 int.dewrain.world
+0 int.vaicore.site
+0 int.vaicore.store
+0 int.vaicore.xyz
+0 int.vlancaa.fun
+0 int.vlancaa.site
 0 intelliads.com
 0 intelligenceadx.com
 0 intellilinks.com
@@ -17162,6 +17135,7 @@
 0 www.go-rillatrack.com
 0 www.goodnotification.net
 0 www.groupm.com
+0 www.gyfumobo.com
 0 www.healthsmd.com
 0 www.hgzuqrtzt.com
 0 www.hkoxlirf.com
