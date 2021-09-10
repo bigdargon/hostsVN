@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 10 Sep 2021 20:01 UTC+7
-! Version: 2109102001
-! Blocked: 6,856 domains
+! Last modified: 10 Sep 2021 20:44 UTC+7
+! Version: 2109102044
+! Blocked: 6,860 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -499,6 +499,7 @@ elink.nhanlucnganhluat.vn
 elogs.vnexpress.net
 event.headlines.pw
 event.vntoday.news
+f-emc.ngsp.gov.vn
 fa.fpt.shop
 fbuser.ovp.vn
 file-subiz.com
@@ -603,6 +604,7 @@ stats.123c.vn
 stats.bizweb.vn
 stats.dongphim.net
 stats.hstatic.net
+stats.muasamcong.gov.vn
 stats.petrotimes.vn
 stats.tamdiem247.com
 stats.vietnammoi.vn
@@ -5696,6 +5698,7 @@ srodicham.com
 srv.trafficgate.net
 srv2.trafficgate.net
 srwww1.com
+sspapi-prd.samsungrs.com
 st-n.pc2ads.com
 stackadapt.com
 stagepopkek.com
@@ -6749,6 +6752,7 @@ tdf.ringier.ch
 ted.dailymail.co.uk
 ted.metro.co.uk
 tedgenet.com
+telemetry.dropbox.com
 theirsvendor.com
 thoosje.com
 tlog.hiido.com

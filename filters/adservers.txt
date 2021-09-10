@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Sep 2021 20:01 UTC+7
-! Version: 2109102001
-! Blocked: 985 rules
+! Last modified: 10 Sep 2021 20:44 UTC+7
+! Version: 2109102044
+! Blocked: 987 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -501,6 +501,7 @@
 ||elogs.vnexpress.net^
 ||event.headlines.pw^
 ||event.vntoday.news^
+||f-emc.ngsp.gov.vn^
 ||fa.fpt.shop^
 ||fbuser.ovp.vn^
 ||file-subiz.com^
@@ -605,6 +606,7 @@
 ||stats.bizweb.vn^
 ||stats.dongphim.net^
 ||stats.hstatic.net^
+||stats.muasamcong.gov.vn^
 ||stats.petrotimes.vn^
 ||stats.tamdiem247.com^
 ||stats.vietnammoi.vn^
