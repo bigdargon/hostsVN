@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Sep 2021 14:11 UTC+7
-# Version: 2109081411
-# Blocked: 17,902 domains
+# Last modified: 10 Sep 2021 20:01 UTC+7
+# Version: 2109102001
+# Blocked: 17,901 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -17338,6 +17338,7 @@
 0 adj.st
 0 adlog.foxitcloud.com
 0 advanced-web-analytics.com
+0 aem-collector.daumkakao.io
 0 akuaba.chez.com
 0 analysis.polarisoffice.com
 0 analytics-au.clickdimensions.com
@@ -17599,7 +17600,6 @@
 0 media-match.com
 0 mediaforce.com
 0 metric.huya.com
-0 metric.nimo.tv
 0 metricfast.com
 0 metrics.brightcove.com
 0 metrics.cloudflarebolt.com
@@ -17850,7 +17850,6 @@
 0 xlog.hiido.com
 0 ylog.hiido.com
 0 ylog.huya.com
-0 ylog.nimo.tv
 0 ymtracking.com
 0 youthfire.com
 0 zarget.com

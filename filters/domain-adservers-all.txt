@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 08 Sep 2021 14:11 UTC+7
-! Version: 2109081411
-! Blocked: 6,857 domains
+! Last modified: 10 Sep 2021 20:01 UTC+7
+! Version: 2109102001
+! Blocked: 6,856 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -6334,6 +6334,7 @@ adentify.com
 adj.st
 adlog.foxitcloud.com
 advanced-web-analytics.com
+aem-collector.daumkakao.io
 akuaba.chez.com
 analysis.polarisoffice.com
 analytics-au.clickdimensions.com
@@ -6595,7 +6596,6 @@ mebed.dm.gg
 media-match.com
 mediaforce.com
 metric.huya.com
-metric.nimo.tv
 metricfast.com
 metrics.brightcove.com
 metrics.cloudflarebolt.com
@@ -6825,7 +6825,6 @@ x.disq.us
 xlog.hiido.com
 ylog.hiido.com
 ylog.huya.com
-ylog.nimo.tv
 ymtracking.com
 youthfire.com
 zarget.com
