@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 10 Sep 2021 20:44 UTC+7
-! Version: 2109102044
-! Blocked: 6,860 rules
+! Last modified: 13 Sep 2021 15:00 UTC+7
+! Version: 2109131500
+! Blocked: 6,864 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1332,6 +1332,7 @@
 ||apptimize.com^
 ||apptornado.com^
 ||apxadtracking.net^
+||aqua-adserver.com^
 ||aralego.com^
 ||aralego.net^
 ||ard.yahoo.co.jp^
@@ -3371,6 +3372,7 @@
 ||awaitcola.com^
 ||awempire.com^
 ||aweprt.com^
+||awfulporetroys.casa^
 ||awin1.com^
 ||awzbijw.com^
 ||axdsz.pro^
@@ -4397,6 +4399,7 @@
 ||hollandbusinessadvertising.nl^
 ||hollowshake.com^
 ||homepageking.de^
+||homespotaudience.com^
 ||honeycshfferufrew.com^
 ||honeygoldfish.com^
 ||hoowooze.net^
@@ -5486,6 +5489,7 @@
 ||rose.ixbt.com^
 ||rot.spotsniper.ru^
 ||rotabanner.com^
+||rotabol.com^
 ||rotumal.com^
 ||roughexampler.info^
 ||roughroll.com^

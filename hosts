@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Sep 2021 20:44 UTC+7
-# Version: 2109102044
-# Blocked: 17,905 domains
+# Last modified: 13 Sep 2021 15:00 UTC+7
+# Version: 2109131500
+# Blocked: 17,913 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12351,6 +12351,12 @@
 0.0.0.0 js.users.51.la
 0.0.0.0 users.51.la
 0.0.0.0 www.51.la
+#[aqua-adserver.com]
+0.0.0.0 api.aqua-adserver.com
+0.0.0.0 aqua-adserver.com
+0.0.0.0 servedby.aqua-adserver.com
+0.0.0.0 static.aqua-adserver.com
+0.0.0.0 www.aqua-adserver.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15421,6 +15427,7 @@
 0.0.0.0 awaitcola.com
 0.0.0.0 awempire.com
 0.0.0.0 aweprt.com
+0.0.0.0 awfulporetroys.casa
 0.0.0.0 awin1.com
 0.0.0.0 awzbijw.com
 0.0.0.0 axdsz.pro
@@ -16446,6 +16453,7 @@
 0.0.0.0 hollandbusinessadvertising.nl
 0.0.0.0 hollowshake.com
 0.0.0.0 homepageking.de
+0.0.0.0 homespotaudience.com
 0.0.0.0 honeycshfferufrew.com
 0.0.0.0 honeygoldfish.com
 0.0.0.0 hoowooze.net
@@ -17532,6 +17540,7 @@
 0.0.0.0 rose.ixbt.com
 0.0.0.0 rot.spotsniper.ru
 0.0.0.0 rotabanner.com
+0.0.0.0 rotabol.com
 0.0.0.0 rotumal.com
 0.0.0.0 roughexampler.info
 0.0.0.0 roughroll.com

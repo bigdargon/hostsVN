@@ -12339,3 +12339,9 @@
 0.0.0.0 js.users.51.la
 0.0.0.0 users.51.la
 0.0.0.0 www.51.la
+#[aqua-adserver.com]
+0.0.0.0 api.aqua-adserver.com
+0.0.0.0 aqua-adserver.com
+0.0.0.0 servedby.aqua-adserver.com
+0.0.0.0 static.aqua-adserver.com
+0.0.0.0 www.aqua-adserver.com
