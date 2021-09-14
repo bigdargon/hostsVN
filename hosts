@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Sep 2021 15:00 UTC+7
-# Version: 2109131500
-# Blocked: 17,913 domains
+# Last modified: 14 Sep 2021 10:18 UTC+7
+# Version: 2109141018
+# Blocked: 17,915 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12357,6 +12357,10 @@
 0.0.0.0 servedby.aqua-adserver.com
 0.0.0.0 static.aqua-adserver.com
 0.0.0.0 www.aqua-adserver.com
+#[b91vip.com]
+0.0.0.0 b91vip.com
+0.0.0.0 image.b91vip.com
+0.0.0.0 www.b91vip.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14365,6 +14369,7 @@
 0.0.0.0 www.facebookz.co
 0.0.0.0 www.vongquaymienphi.net
 # --- Block popupVN ---
+0.0.0.0 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 0.0.0.0 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 0.0.0.0 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 0.0.0.0 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
@@ -15437,7 +15442,6 @@
 0.0.0.0 azoaltou.com
 0.0.0.0 b-1st.com
 0.0.0.0 b4psads.com
-0.0.0.0 b91vip.com
 0.0.0.0 baaomenaltho.com
 0.0.0.0 babanmat.com
 0.0.0.0 babs.tv2.dk
@@ -18307,7 +18311,6 @@
 0.0.0.0 www.asiacpx.com
 0.0.0.0 www.avfgoatbyyerys.com
 0.0.0.0 www.axdsz.pro
-0.0.0.0 www.b91vip.com
 0.0.0.0 www.beauty-tea.com
 0.0.0.0 www.beharmalted.info
 0.0.0.0 www.binary1.website
