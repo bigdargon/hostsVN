@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Sep 2021 10:18 UTC+7
-# Version: 2109141018
-# Blocked: 17,915 domains
+# Last modified: 16 Sep 2021 10:40 UTC+7
+# Version: 2109161040
+# Blocked: 17,932 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11309,6 +11309,13 @@
 0 b91vip.com
 0 image.b91vip.com
 0 www.b91vip.com
+0 xml.ak-is2.net
+0 explorads.xml.ak-is2.net
+0 xml-eu.ak-is2.net
+0 expmediadirect1.xml-eu.ak-is2.net
+0 buzzoola.com
+0 exchange.buzzoola.com
+0 tube.buzzoola.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13355,6 +13362,7 @@
 0 ad6media.fr
 0 adacado.com
 0 adaction.de
+0 adalgard-wol.com
 0 adapt.tv
 0 adasiatagmanager.appspot.com
 0 adbanner.ro
@@ -13526,6 +13534,8 @@
 0 adremedy.com
 0 adrenalpop.com
 0 adreporting.com
+0 adreq.togothermany.cn
+0 adreq.uqualities.com
 0 adres.internet.com
 0 adrevolver.com
 0 adrino.pl
@@ -13836,6 +13846,7 @@
 0 ads4homes.com
 0 ads5.virtual-nights.com
 0 ads8.com
+0 adsapi.togothermany.cn
 0 adsbridge.com
 0 adscan.yelabapp.com
 0 adscfg.togothermany.cn
@@ -13925,6 +13936,7 @@
 0 adsolutions.yp.com
 0 adsonar.com
 0 adsoptimal.com
+0 adsoss.uqualities.com
 0 adspace.ro
 0 adspleen.com
 0 adsponse.de
@@ -14570,6 +14582,8 @@
 0 clearcomb.com
 0 clicadu.com
 0 clicck.net
+0 click-eu.expmediadirect1.com
+0 click.expmediadirect1.com
 0 click.fool.com
 0 click.howdoesin.net
 0 click.kmindex.ru
@@ -15912,6 +15926,7 @@
 0 onclickalgo.com
 0 onclickmega.com
 0 onclicksuper.com
+0 onctus.com
 0 oneandonlynetwork.com
 0 onenetworkdirect.com
 0 onestat.com
@@ -16268,6 +16283,7 @@
 0 realteencash.com
 0 realtracker.com
 0 rebelsubway.com
+0 rebiraert.com
 0 receptiveink.com
 0 receptivereaction.com
 0 record.affiliates.karjalakasino.com
@@ -17253,7 +17269,6 @@
 0 xg4ken.com
 0 xiti.com
 0 xius.com
-0 xml.ak-is2.net
 0 xovq5nemr.com
 0 xpbbyiqbcawamy.com
 0 xplosion.de
@@ -17500,6 +17515,8 @@
 0 ethtrader.de
 0 etl.tindersparks.com
 0 event.condenastdigital.com
+0 event.stat.wedobest.com.cn
+0 event.wedobest.com.cn
 0 events.apester.com
 0 events.jora.com
 0 events.mapbox.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Sep 2021 10:18 UTC+7
-! Version: 2109141018
-! Blocked: 6,865 rules
+! Last modified: 16 Sep 2021 10:40 UTC+7
+! Version: 2109161040
+! Blocked: 6,878 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1432,6 +1432,7 @@
 ||bumlam.com^
 ||buysellads.com^
 ||buysellads.net^
+||buzzoola.com^
 ||bzclk.baidu.com^
 ||c-adash.m.taobao.com^
 ||c.bing.com^
@@ -2291,6 +2292,8 @@
 ||xapads.com^
 ||xdrig.com^
 ||xlmc.sec.miui.com^
+||xml-eu.ak-is2.net^
+||xml.ak-is2.net^
 ||xmlppcbuzz.com^
 ||xtremepush.com^
 ||yadro.ru^
@@ -2500,6 +2503,7 @@
 ||ad6media.fr^
 ||adacado.com^
 ||adaction.de^
+||adalgard-wol.com^
 ||adapt.tv^
 ||adasiatagmanager.appspot.com^
 ||adbanner.ro^
@@ -2672,6 +2676,8 @@
 ||adremedy.com^
 ||adrenalpop.com^
 ||adreporting.com^
+||adreq.togothermany.cn^
+||adreq.uqualities.com^
 ||adres.internet.com^
 ||adrevolver.com^
 ||adrino.pl^
@@ -2982,6 +2988,7 @@
 ||ads4homes.com^
 ||ads5.virtual-nights.com^
 ||ads8.com^
+||adsapi.togothermany.cn^
 ||adsbridge.com^
 ||adscan.yelabapp.com^
 ||adscfg.togothermany.cn^
@@ -3071,6 +3078,7 @@
 ||adsolutions.yp.com^
 ||adsonar.com^
 ||adsoptimal.com^
+||adsoss.uqualities.com^
 ||adspace.ro^
 ||adspleen.com^
 ||adsponse.de^
@@ -3716,6 +3724,8 @@
 ||clearcomb.com^
 ||clicadu.com^
 ||clicck.net^
+||click-eu.expmediadirect1.com^
+||click.expmediadirect1.com^
 ||click.fool.com^
 ||click.howdoesin.net^
 ||click.kmindex.ru^
@@ -5061,6 +5071,7 @@
 ||onclickalgo.com^
 ||onclickmega.com^
 ||onclicksuper.com^
+||onctus.com^
 ||oneandonlynetwork.com^
 ||onenetworkdirect.com^
 ||onestat.com^
@@ -5418,6 +5429,7 @@
 ||realteencash.com^
 ||realtracker.com^
 ||rebelsubway.com^
+||rebiraert.com^
 ||receptiveink.com^
 ||receptivereaction.com^
 ||record.affiliates.karjalakasino.com^
@@ -6246,7 +6258,6 @@
 ||xg4ken.com^
 ||xiti.com^
 ||xius.com^
-||xml.ak-is2.net^
 ||xovq5nemr.com^
 ||xpbbyiqbcawamy.com^
 ||xplosion.de^
@@ -6493,6 +6504,8 @@
 ||ethtrader.de^
 ||etl.tindersparks.com^
 ||event.condenastdigital.com^
+||event.stat.wedobest.com.cn^
+||event.wedobest.com.cn^
 ||events.apester.com^
 ||events.jora.com^
 ||events.mapbox.com^
