@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Sep 2021 10:40 UTC+7
-! Version: 2109161040
-! Blocked: 6,878 rules
+! Last modified: 18 Sep 2021 21:00 UTC+7
+! Version: 2109182100
+! Blocked: 6,891 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17,6 +17,7 @@
 ||adbro.me^
 ||adflex.vn^
 ||adfly.vn^
+||adi.vcmedia.vn^
 ||admicro*.vcmedia.vn^
 ||admicro.vn^
 ||adnet.vn^
@@ -823,6 +824,7 @@
 ||m9853.com^
 ||macau.club^
 ||macauclub.fun^
+||man.club^
 ||mansion66.com^
 ||may88.club^
 ||may88.com^
@@ -1142,6 +1144,7 @@
 ||ads.msn.com^
 ||ads.oppomobile.com^
 ||ads.pinterest.com^
+||ads.playground.xyz^
 ||ads.prd.ie.internal.unity3d.com^
 ||ads.snapchat.com^
 ||ads.tiktok.com^
@@ -1242,7 +1245,6 @@
 ||adxserve.com^
 ||adxxx.com^
 ||adxxx.info^
-||adz2you.net^
 ||adzerk.net^
 ||aerserv.com^
 ||afd.baidu.com^
@@ -1257,6 +1259,9 @@
 ||ajgc1*.online^
 ||ajx*.online^
 ||ak-events-collector.spot.im^
+||akisinn.info^
+||akisinn.me^
+||akisinn.site^
 ||alcmpn.com^
 ||alexametrics.com^
 ||alphonso.tv^
@@ -1545,6 +1550,9 @@
 ||deployads.com^
 ||dessaly.com^
 ||device-metrics-*.amazon.com^
+||dewrain.life^
+||dewrain.site^
+||dewrain.world^
 ||dezf3o8j9jdt6.cloudfront.net^
 ||dfbanners.com^
 ||dfnb-ads.com^
@@ -1634,6 +1642,7 @@
 ||fqtag.com^
 ||freeskreen.com^
 ||freshmarketer.com^
+||fs.ak-is2.net^
 ||fundingchoices.google.com^
 ||fyber.com^
 ||gads*s.com^
@@ -1682,7 +1691,6 @@
 ||h-adashx4sg.ut.taobao.com^
 ||hadarone.com^
 ||hads*s.com^
-||hbb.afl.rakuten.co.jp^
 ||headlinerlabs.com^
 ||heapanalytics.com^
 ||heatmap.it^
@@ -1973,7 +1981,6 @@
 ||pjiptn.com^
 ||platform.tumblr.com^
 ||playbuzz.com^
-||playground.xyz^
 ||pmddby.com^
 ||po.st^
 ||popads.net^
@@ -2239,6 +2246,9 @@
 ||userreport.com^
 ||usp1.baidu.com^
 ||uttclimber.com^
+||vaicore.site^
+||vaicore.store^
+||vaicore.xyz^
 ||valuecommerce.com^
 ||vasstycom.com^
 ||vdo.ai^
@@ -2253,6 +2263,8 @@
 ||viruspro.pro^
 ||visit.webhosting.yahoo.com^
 ||vivaclix.com^
+||vlancaa.fun^
+||vlancaa.site^
 ||vliplatform.com^
 ||vlitag.com^
 ||vntsm.com^
@@ -3191,6 +3203,7 @@
 ||adyieldoptimizer.com^
 ||adyoulike.com^
 ||adz2you.com^
+||adz2you.net^
 ||adzbazar.com^
 ||adzones.com^
 ||af-ad.co.uk^
@@ -3954,6 +3967,7 @@
 ||deloton.com^
 ||delusionrather.com^
 ||demdex.net^
+||denbeigemark.com^
 ||denetsuk.com^
 ||depirsmandk5.com^
 ||desertedbreath.com^
@@ -4475,6 +4489,7 @@
 ||illustriousoatmeal.com^
 ||iloopmobile.com^
 ||ilovecheating.com^
+||ilusors.com^
 ||ilyf4amifh.com^
 ||imagecash.net^
 ||images-pw.secureserver.net^
@@ -4534,17 +4549,6 @@
 ||instantresp.com^
 ||instinctiveads.com^
 ||instrumentsponge.com^
-||int.akisinn.info^
-||int.akisinn.me^
-||int.akisinn.site^
-||int.dewrain.life^
-||int.dewrain.site^
-||int.dewrain.world^
-||int.vaicore.site^
-||int.vaicore.store^
-||int.vaicore.xyz^
-||int.vlancaa.fun^
-||int.vlancaa.site^
 ||intelliads.com^
 ||intelligenceadx.com^
 ||intellilinks.com^
@@ -4621,6 +4625,7 @@
 ||justicejudo.com^
 ||justrelevant.com^
 ||justwebads.com^
+||jxdqawzenrpw.com^
 ||k.iinfo.cz^
 ||kanoodle.com^
 ||kaplanindex.com^
@@ -4629,6 +4634,7 @@
 ||kbnihnmrghgy.com^
 ||keapeiros.xyz^
 ||ketchapp.org^
+||kgdvs9ov3l2aasw4nuts.com^
 ||kibblerkilldee.com^
 ||kindads.com^
 ||kinkledunendly.com^
@@ -4963,6 +4969,7 @@
 ||navigator.io^
 ||navrcholu.cz^
 ||nbjmp.com^
+||nctylivpwhpby.com^
 ||ndha4sding6gf.com^
 ||ndparking.com^
 ||nedstat.com^
@@ -5003,6 +5010,7 @@
 ||newthuads.com^
 ||newtopsites.com^
 ||nexac.com^
+||nextgencounter.com^
 ||ng3.ads.warnerbros.com^
 ||nicksstevmark.com^
 ||ninkorant.online^
@@ -5062,6 +5070,7 @@
 ||olivebrandresponse.com^
 ||olkrzytv.com^
 ||olmsoneenh.info^
+||omkaaqtwzvc.com^
 ||omniscientspark.com^
 ||omniture.com^
 ||on-mobi.com^
@@ -6098,6 +6107,7 @@
 ||velocitycdn.com^
 ||velti.com^
 ||venetrigni.com^
+||venfioletadas.com^
 ||ventivmedia.com^
 ||venuegirtjive.com^
 ||verblife-3.co^
@@ -6304,6 +6314,7 @@
 ||yougotacheck.com^
 ||youradexchange.com^
 ||yourbestheal.com^
+||yourkadspunew.com^
 ||ytimm.com^
 ||yuilop.com^
 ||yume.com^
@@ -6619,6 +6630,8 @@
 ||media-match.com^
 ||mediaforce.com^
 ||metric.huya.com^
+||metric.picodi.com^
+||metric.picodi.net^
 ||metricfast.com^
 ||metrics.brightcove.com^
 ||metrics.cloudflarebolt.com^

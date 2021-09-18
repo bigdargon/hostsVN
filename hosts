@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 Sep 2021 10:40 UTC+7
-# Version: 2109161040
-# Blocked: 17,932 domains
+# Last modified: 18 Sep 2021 21:00 UTC+7
+# Version: 2109182100
+# Blocked: 17,897 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -570,11 +570,10 @@
 0.0.0.0 ybx.yahoo.co.jp
 0.0.0.0 yeas.yahoo.co.jp
 0.0.0.0 yjaxc.yahoo.co.jp
-#[rakuten.co.jp]
+#[affiliate.rakuten.co.jp]
 0.0.0.0 affiliate.rakuten.co.jp
 0.0.0.0 static.affiliate.rakuten.co.jp
 0.0.0.0 xml.affiliate.rakuten.co.jp
-0.0.0.0 hbb.afl.rakuten.co.jp
 #[facebook]
 0.0.0.0 an.facebook.com
 0.0.0.0 pixel.facebook.com
@@ -5299,15 +5298,6 @@
 0.0.0.0 static.zergnet.com
 0.0.0.0 www.zergnet.com
 0.0.0.0 zergnet.com
-#[playground.xyz]
-0.0.0.0 ads.playground.xyz
-0.0.0.0 assets.playground.xyz
-0.0.0.0 create.playground.xyz
-0.0.0.0 files.playground.xyz
-0.0.0.0 playground.xyz
-0.0.0.0 playlist.playground.xyz
-0.0.0.0 static.playground.xyz
-0.0.0.0 www.playground.xyz
 #[adform.net]
 0.0.0.0 a1.adform.net
 0.0.0.0 a2.adform.net
@@ -5333,11 +5323,6 @@
 0.0.0.0 track-eu.adform.net
 0.0.0.0 track-us.adform.net
 0.0.0.0 track.adform.net
-#[adz2you.net]
-0.0.0.0 adz2you.net
-0.0.0.0 adhitzcom.adz2you.net
-0.0.0.0 android.adz2you.net
-0.0.0.0 www.adz2you.net
 #[juicer.cc]
 0.0.0.0 blank.juicer.cc
 0.0.0.0 dmp.juicer.cc
@@ -12299,6 +12284,7 @@
 0.0.0.0 www.idealmedia.io
 #[ezmob.com]
 0.0.0.0 ezmob.com
+0.0.0.0 filter.ezmob.com
 0.0.0.0 www.ezmob.com
 0.0.0.0 xml.ezmob.com
 #[cdnaz.win]
@@ -12361,6 +12347,9 @@
 0.0.0.0 b91vip.com
 0.0.0.0 image.b91vip.com
 0.0.0.0 www.b91vip.com
+#[fs.ak-is2.net]
+0.0.0.0 fs.ak-is2.net
+0.0.0.0 ezmob.fs.ak-is2.net
 #[xml.ak-is2.net]
 0.0.0.0 xml.ak-is2.net
 0.0.0.0 explorads.xml.ak-is2.net
@@ -12371,6 +12360,58 @@
 0.0.0.0 buzzoola.com
 0.0.0.0 exchange.buzzoola.com
 0.0.0.0 tube.buzzoola.com
+#[ads.playground.xyz]
+0.0.0.0 ads.playground.xyz
+0.0.0.0 asia-southeast1.ads.playground.xyz
+0.0.0.0 australia-southeast1.ads.playground.xyz
+0.0.0.0 europe-west2.ads.playground.xyz
+0.0.0.0 europe-west4.ads.playground.xyz
+0.0.0.0 us-east4.ads.playground.xyz
+0.0.0.0 us-west1.ads.playground.xyz
+#[akisinn.info]
+0.0.0.0 co.akisinn.info
+0.0.0.0 int.akisinn.info
+0.0.0.0 tok.akisinn.info
+#[akisinn.me]
+0.0.0.0 co.akisinn.me
+0.0.0.0 int.akisinn.me
+0.0.0.0 tok.akisinn.me
+#[akisinn.site]
+0.0.0.0 co.akisinn.site
+0.0.0.0 int.akisinn.site
+0.0.0.0 tok.akisinn.site
+#[dewrain.life]
+0.0.0.0 co.dewrain.life
+0.0.0.0 int.dewrain.life
+0.0.0.0 tok.dewrain.life
+#[dewrain.site]
+0.0.0.0 int.dewrain.site
+0.0.0.0 co.dewrain.site
+0.0.0.0 tok.dewrain.site
+#[dewrain.world]
+0.0.0.0 co.dewrain.world
+0.0.0.0 int.dewrain.world
+0.0.0.0 tok.dewrain.world
+#[vaicore.site]
+0.0.0.0 co.vaicore.site
+0.0.0.0 int.vaicore.site
+0.0.0.0 tok.vaicore.site
+#[vaicore.store]
+0.0.0.0 int.vaicore.store
+0.0.0.0 tok.vaicore.store
+0.0.0.0 co.vaicore.store
+#[vaicore.xyz]
+0.0.0.0 co.vaicore.xyz
+0.0.0.0 int.vaicore.xyz
+0.0.0.0 tok.vaicore.xyz
+#[vlancaa.site]
+0.0.0.0 co.vlancaa.site
+0.0.0.0 int.vlancaa.site
+0.0.0.0 tok.vlancaa.site
+#[vlancaa.fun]
+0.0.0.0 co.vlancaa.fun
+0.0.0.0 int.vlancaa.fun
+0.0.0.0 tok.vlancaa.fun
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12430,108 +12471,38 @@
 0.0.0.0 tracking.eclick.vn
 0.0.0.0 www.eclick.vn
 #[admicro]
-0.0.0.0 abm.admicro.vn
 0.0.0.0 adi.admicro.vn
-0.0.0.0 admail.admicro.vn
-0.0.0.0 admarket.admicro.vn
-0.0.0.0 admatic.admicro.vn
 0.0.0.0 admicro.vn
-0.0.0.0 adnetwork.admicro.vn
-0.0.0.0 adopt.admicro.vn
-0.0.0.0 adsdemo.admicro.vn
-0.0.0.0 adtimes.admicro.vn
-0.0.0.0 adv.admicro.vn
 0.0.0.0 adx.admicro.vn
-0.0.0.0 afp.admicro.vn
-0.0.0.0 analytics.admicro.vn
-0.0.0.0 apigateway.admicro.vn
-0.0.0.0 appdigitalstory.admicro.vn
 0.0.0.0 b.logging.admicro.vn
-0.0.0.0 banners.admicro.vn
-0.0.0.0 benk.logging.admicro.vn
-0.0.0.0 bi.admicro.vn
-0.0.0.0 boxapp.admicro.vn
-0.0.0.0 boxpr.admicro.vn
+0.0.0.0 beta.admicro.vn
 0.0.0.0 brand.admicro.vn
-0.0.0.0 bs.admicro.vn
-0.0.0.0 c.logging.admicro.vn
-0.0.0.0 cmsads.admicro.vn
 0.0.0.0 cmsanalytics.admicro.vn
-0.0.0.0 code.admicro.vn
-0.0.0.0 content-ml.admicro.vn
-0.0.0.0 contract.admicro.vn
-0.0.0.0 cpd.admicro.vn
-0.0.0.0 chamcong.admicro.vn
 0.0.0.0 defaultdsp.admicro.vn
-0.0.0.0 display.admicro.vn
+0.0.0.0 dio.admicro.vn
 0.0.0.0 dl.logging.admicro.vn
-0.0.0.0 drive.admicro.vn
-0.0.0.0 dsprtb.logging.admicro.vn
-0.0.0.0 dynamic-ads.admicro.vn
-0.0.0.0 ea.logging.admicro.vn
-0.0.0.0 e-learning.admicro.vn
 0.0.0.0 enterpriseapi.admicro.vn
-0.0.0.0 f.admicro.vn
 0.0.0.0 file.admicro.vn
-0.0.0.0 fingerprint.admicro.vn
-0.0.0.0 ganglia.admicro.vn
-0.0.0.0 goodsp.admicro.vn
-0.0.0.0 giaiphapbds.admicro.vn
-0.0.0.0 hd.admicro.vn
-0.0.0.0 html5.admicro.vn
-0.0.0.0 img.admicro.vn
-0.0.0.0 in.admicro.vn
-0.0.0.0 ir.admicro.vn
-0.0.0.0 kpi.admicro.vn
-0.0.0.0 lab.admicro.vn
-0.0.0.0 layout.admicro.vn
-0.0.0.0 learning.admicro.vn
+0.0.0.0 hd.logging.admicro.vn
+0.0.0.0 k.logging.admicro.vn
 0.0.0.0 lg.logging.admicro.vn
 0.0.0.0 lg1.logging.admicro.vn
 0.0.0.0 logging.admicro.vn
-0.0.0.0 ma.admicro.vn
-0.0.0.0 mapping-platform.admicro.vn
+0.0.0.0 boxpr.admicro.vn
+0.0.0.0 fingerprint.admicro.vn
 0.0.0.0 marketingai.admicro.vn
-0.0.0.0 marketingauto.e-learning.admicro.vn
-0.0.0.0 media.admicro.vn
-0.0.0.0 media.e-learning.admicro.vn
+0.0.0.0 mb.logging.admicro.vn
 0.0.0.0 media1.admicro.vn
-0.0.0.0 media10.admicro.vn
-0.0.0.0 media2.admicro.vn
-0.0.0.0 media3.admicro.vn
-0.0.0.0 media4.admicro.vn
-0.0.0.0 media5.admicro.vn
-0.0.0.0 media6.admicro.vn
-0.0.0.0 media7.admicro.vn
-0.0.0.0 media9.admicro.vn
-0.0.0.0 min.admicro.vn
-0.0.0.0 monitor.admicro.vn
-0.0.0.0 news.admicro.vn
-0.0.0.0 nsapi.admicro.vn
-0.0.0.0 nspapi.admicro.vn
+0.0.0.0 notify-service.admicro.vn
+0.0.0.0 pio.admicro.vn
 0.0.0.0 pson.logging.admicro.vn
-0.0.0.0 publisher.admicro.vn
-0.0.0.0 redmine.admicro.vn
-0.0.0.0 remarketing.admicro.vn
-0.0.0.0 saledev.admicro.vn
-0.0.0.0 snews.admicro.vn
-0.0.0.0 sso.admicro.vn
+0.0.0.0 rec.admicro.vn
 0.0.0.0 sspapi.admicro.vn
-0.0.0.0 ssprtb.admicro.vn
-0.0.0.0 sspsrv.admicro.vn
 0.0.0.0 static-cmsads.admicro.vn
-0.0.0.0 systracking.admicro.vn
-0.0.0.0 tech.admicro.vn
-0.0.0.0 topkid.admicro.vn
-0.0.0.0 tuyendung.admicro.vn
-0.0.0.0 thucchay.admicro.vn
-0.0.0.0 thuctreo.admicro.vn
-0.0.0.0 vccrm.admicro.vn
-0.0.0.0 viewplus.admicro.vn
-0.0.0.0 vote.admicro.vn
 0.0.0.0 wcc.admicro.vn
 0.0.0.0 www.admicro.vn
 #[admicro*.vcmedia.vn]
+0.0.0.0 adi.vcmedia.vn
 0.0.0.0 admicro1.vcmedia.vn
 0.0.0.0 admicro4.vcmedia.vn
 0.0.0.0 admicro5.vcmedia.vn
@@ -15256,6 +15227,7 @@
 0.0.0.0 adyieldoptimizer.com
 0.0.0.0 adyoulike.com
 0.0.0.0 adz2you.com
+0.0.0.0 adz2you.net
 0.0.0.0 adzbazar.com
 0.0.0.0 adzones.com
 0.0.0.0 af-ad.co.uk
@@ -16019,6 +15991,7 @@
 0.0.0.0 deloton.com
 0.0.0.0 delusionrather.com
 0.0.0.0 demdex.net
+0.0.0.0 denbeigemark.com
 0.0.0.0 denetsuk.com
 0.0.0.0 depirsmandk5.com
 0.0.0.0 desertedbreath.com
@@ -16539,6 +16512,7 @@
 0.0.0.0 illustriousoatmeal.com
 0.0.0.0 iloopmobile.com
 0.0.0.0 ilovecheating.com
+0.0.0.0 ilusors.com
 0.0.0.0 ilyf4amifh.com
 0.0.0.0 imagecash.net
 0.0.0.0 images-pw.secureserver.net
@@ -16598,17 +16572,6 @@
 0.0.0.0 instantresp.com
 0.0.0.0 instinctiveads.com
 0.0.0.0 instrumentsponge.com
-0.0.0.0 int.akisinn.info
-0.0.0.0 int.akisinn.me
-0.0.0.0 int.akisinn.site
-0.0.0.0 int.dewrain.life
-0.0.0.0 int.dewrain.site
-0.0.0.0 int.dewrain.world
-0.0.0.0 int.vaicore.site
-0.0.0.0 int.vaicore.store
-0.0.0.0 int.vaicore.xyz
-0.0.0.0 int.vlancaa.fun
-0.0.0.0 int.vlancaa.site
 0.0.0.0 intelliads.com
 0.0.0.0 intelligenceadx.com
 0.0.0.0 intellilinks.com
@@ -16685,6 +16648,7 @@
 0.0.0.0 justicejudo.com
 0.0.0.0 justrelevant.com
 0.0.0.0 justwebads.com
+0.0.0.0 jxdqawzenrpw.com
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kanoodle.com
 0.0.0.0 karisimbi.net
@@ -16692,6 +16656,7 @@
 0.0.0.0 kbnihnmrghgy.com
 0.0.0.0 keapeiros.xyz
 0.0.0.0 ketchapp.org
+0.0.0.0 kgdvs9ov3l2aasw4nuts.com
 0.0.0.0 kibblerkilldee.com
 0.0.0.0 kindads.com
 0.0.0.0 kinkledunendly.com
@@ -17025,6 +16990,7 @@
 0.0.0.0 navigator.io
 0.0.0.0 navrcholu.cz
 0.0.0.0 nbjmp.com
+0.0.0.0 nctylivpwhpby.com
 0.0.0.0 ndha4sding6gf.com
 0.0.0.0 ndparking.com
 0.0.0.0 nedstat.com
@@ -17065,6 +17031,7 @@
 0.0.0.0 newthuads.com
 0.0.0.0 newtopsites.com
 0.0.0.0 nexac.com
+0.0.0.0 nextgencounter.com
 0.0.0.0 ng3.ads.warnerbros.com
 0.0.0.0 nicksstevmark.com
 0.0.0.0 ninkorant.online
@@ -17124,6 +17091,7 @@
 0.0.0.0 olivebrandresponse.com
 0.0.0.0 olkrzytv.com
 0.0.0.0 olmsoneenh.info
+0.0.0.0 omkaaqtwzvc.com
 0.0.0.0 omniscientspark.com
 0.0.0.0 omniture.com
 0.0.0.0 on-mobi.com
@@ -18159,6 +18127,7 @@
 0.0.0.0 velocitycdn.com
 0.0.0.0 velti.com
 0.0.0.0 venetrigni.com
+0.0.0.0 venfioletadas.com
 0.0.0.0 ventivmedia.com
 0.0.0.0 venuegirtjive.com
 0.0.0.0 verblife-3.co
@@ -18319,6 +18288,7 @@
 0.0.0.0 www.adstune.com
 0.0.0.0 www.adv-links.com
 0.0.0.0 www.advinci.co
+0.0.0.0 www.adz2you.net
 0.0.0.0 www.agroupadx.com
 0.0.0.0 www.ahqpqpdjpj.com
 0.0.0.0 www.allmygoodlife.com
@@ -18385,6 +18355,7 @@
 0.0.0.0 www.isfxsiooyjad.com
 0.0.0.0 www.ivfihumeajjmbc.com
 0.0.0.0 www.joeyzzvkpjha.com
+0.0.0.0 www.jxdqawzenrpw.com
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.kbnihnmrghgy.com
 0.0.0.0 www.ketchapp.org
@@ -18403,11 +18374,13 @@
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.moneymakercdn.com
 0.0.0.0 www.myadsystem.com
+0.0.0.0 www.nctylivpwhpby.com
 0.0.0.0 www.newsocko.com
 0.0.0.0 www.ninkorant.online
 0.0.0.0 www.noisysortcasualty.com
 0.0.0.0 www.ntvsw.com
 0.0.0.0 www.olkrzytv.com
+0.0.0.0 www.omkaaqtwzvc.com
 0.0.0.0 www.onclickalgo.com
 0.0.0.0 www.onclickmega.com
 0.0.0.0 www.onclicksuper.com
@@ -18522,6 +18495,7 @@
 0.0.0.0 yougotacheck.com
 0.0.0.0 youradexchange.com
 0.0.0.0 yourbestheal.com
+0.0.0.0 yourkadspunew.com
 0.0.0.0 ytimm.com
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com
@@ -18838,6 +18812,8 @@
 0.0.0.0 media-match.com
 0.0.0.0 mediaforce.com
 0.0.0.0 metric.huya.com
+0.0.0.0 metric.picodi.com
+0.0.0.0 metric.picodi.net
 0.0.0.0 metricfast.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cloudflarebolt.com

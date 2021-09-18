@@ -558,11 +558,10 @@
 0.0.0.0 ybx.yahoo.co.jp
 0.0.0.0 yeas.yahoo.co.jp
 0.0.0.0 yjaxc.yahoo.co.jp
-#[rakuten.co.jp]
+#[affiliate.rakuten.co.jp]
 0.0.0.0 affiliate.rakuten.co.jp
 0.0.0.0 static.affiliate.rakuten.co.jp
 0.0.0.0 xml.affiliate.rakuten.co.jp
-0.0.0.0 hbb.afl.rakuten.co.jp
 #[facebook]
 0.0.0.0 an.facebook.com
 0.0.0.0 pixel.facebook.com
@@ -5287,15 +5286,6 @@
 0.0.0.0 static.zergnet.com
 0.0.0.0 www.zergnet.com
 0.0.0.0 zergnet.com
-#[playground.xyz]
-0.0.0.0 ads.playground.xyz
-0.0.0.0 assets.playground.xyz
-0.0.0.0 create.playground.xyz
-0.0.0.0 files.playground.xyz
-0.0.0.0 playground.xyz
-0.0.0.0 playlist.playground.xyz
-0.0.0.0 static.playground.xyz
-0.0.0.0 www.playground.xyz
 #[adform.net]
 0.0.0.0 a1.adform.net
 0.0.0.0 a2.adform.net
@@ -5321,11 +5311,6 @@
 0.0.0.0 track-eu.adform.net
 0.0.0.0 track-us.adform.net
 0.0.0.0 track.adform.net
-#[adz2you.net]
-0.0.0.0 adz2you.net
-0.0.0.0 adhitzcom.adz2you.net
-0.0.0.0 android.adz2you.net
-0.0.0.0 www.adz2you.net
 #[juicer.cc]
 0.0.0.0 blank.juicer.cc
 0.0.0.0 dmp.juicer.cc
@@ -12287,6 +12272,7 @@
 0.0.0.0 www.idealmedia.io
 #[ezmob.com]
 0.0.0.0 ezmob.com
+0.0.0.0 filter.ezmob.com
 0.0.0.0 www.ezmob.com
 0.0.0.0 xml.ezmob.com
 #[cdnaz.win]
@@ -12349,6 +12335,9 @@
 0.0.0.0 b91vip.com
 0.0.0.0 image.b91vip.com
 0.0.0.0 www.b91vip.com
+#[fs.ak-is2.net]
+0.0.0.0 fs.ak-is2.net
+0.0.0.0 ezmob.fs.ak-is2.net
 #[xml.ak-is2.net]
 0.0.0.0 xml.ak-is2.net
 0.0.0.0 explorads.xml.ak-is2.net
@@ -12359,3 +12348,55 @@
 0.0.0.0 buzzoola.com
 0.0.0.0 exchange.buzzoola.com
 0.0.0.0 tube.buzzoola.com
+#[ads.playground.xyz]
+0.0.0.0 ads.playground.xyz
+0.0.0.0 asia-southeast1.ads.playground.xyz
+0.0.0.0 australia-southeast1.ads.playground.xyz
+0.0.0.0 europe-west2.ads.playground.xyz
+0.0.0.0 europe-west4.ads.playground.xyz
+0.0.0.0 us-east4.ads.playground.xyz
+0.0.0.0 us-west1.ads.playground.xyz
+#[akisinn.info]
+0.0.0.0 co.akisinn.info
+0.0.0.0 int.akisinn.info
+0.0.0.0 tok.akisinn.info
+#[akisinn.me]
+0.0.0.0 co.akisinn.me
+0.0.0.0 int.akisinn.me
+0.0.0.0 tok.akisinn.me
+#[akisinn.site]
+0.0.0.0 co.akisinn.site
+0.0.0.0 int.akisinn.site
+0.0.0.0 tok.akisinn.site
+#[dewrain.life]
+0.0.0.0 co.dewrain.life
+0.0.0.0 int.dewrain.life
+0.0.0.0 tok.dewrain.life
+#[dewrain.site]
+0.0.0.0 int.dewrain.site
+0.0.0.0 co.dewrain.site
+0.0.0.0 tok.dewrain.site
+#[dewrain.world]
+0.0.0.0 co.dewrain.world
+0.0.0.0 int.dewrain.world
+0.0.0.0 tok.dewrain.world
+#[vaicore.site]
+0.0.0.0 co.vaicore.site
+0.0.0.0 int.vaicore.site
+0.0.0.0 tok.vaicore.site
+#[vaicore.store]
+0.0.0.0 int.vaicore.store
+0.0.0.0 tok.vaicore.store
+0.0.0.0 co.vaicore.store
+#[vaicore.xyz]
+0.0.0.0 co.vaicore.xyz
+0.0.0.0 int.vaicore.xyz
+0.0.0.0 tok.vaicore.xyz
+#[vlancaa.site]
+0.0.0.0 co.vlancaa.site
+0.0.0.0 int.vlancaa.site
+0.0.0.0 tok.vlancaa.site
+#[vlancaa.fun]
+0.0.0.0 co.vlancaa.fun
+0.0.0.0 int.vlancaa.fun
+0.0.0.0 tok.vlancaa.fun

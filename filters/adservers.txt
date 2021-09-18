@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 16 Sep 2021 10:40 UTC+7
-! Version: 2109161040
-! Blocked: 988 rules
+! Last modified: 18 Sep 2021 21:00 UTC+7
+! Version: 2109182100
+! Blocked: 990 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17,6 +17,7 @@
 ||adbro.me^
 ||adflex.vn^
 ||adfly.vn^
+||adi.vcmedia.vn^
 ||admicro*.vcmedia.vn^
 ||admicro.vn^
 ||adnet.vn^
@@ -823,6 +824,7 @@
 ||m9853.com^
 ||macau.club^
 ||macauclub.fun^
+||man.club^
 ||mansion66.com^
 ||may88.club^
 ||may88.com^
