@@ -1587,43 +1587,41 @@
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 vast.cloudmobi.net
-#[addthis]
+#[addthis.com]
 0.0.0.0 addthis.com
-0.0.0.0 amp-service-iad.addthis.com
-0.0.0.0 api.addthis.com
+0.0.0.0 ai.addthis.com
 0.0.0.0 api-public.addthis.com
-0.0.0.0 appdev.addthis.com
+0.0.0.0 api.addthis.com
 0.0.0.0 cache.addthis.com
-0.0.0.0 cache-dev.addthis.com
 0.0.0.0 cf.addthis.com
 0.0.0.0 ct1.addthis.com
 0.0.0.0 ct3.addthis.com
 0.0.0.0 ct5.addthis.com
 0.0.0.0 ct6z.addthis.com
 0.0.0.0 cw.addthis.com
-0.0.0.0 e1.addthis.com
+0.0.0.0 e.dlx.addthis.com
+0.0.0.0 edge.addthis.com
 0.0.0.0 m.addthis.com
+0.0.0.0 m.dlx.addthis.com
 0.0.0.0 o.addthis.com
-0.0.0.0 origin-snapshot.addthis.com
 0.0.0.0 p.addthis.com
+0.0.0.0 p.dlx.addthis.com
 0.0.0.0 q.addthis.com
 0.0.0.0 r.dlx.addthis.com
 0.0.0.0 s3.addthis.com
 0.0.0.0 s4.addthis.com
 0.0.0.0 s5.addthis.com
 0.0.0.0 s7.addthis.com
+0.0.0.0 s8.addthis.com
 0.0.0.0 s9.addthis.com
+0.0.0.0 search-lax.addthis.com
 0.0.0.0 search.addthis.com
 0.0.0.0 secure.addthis.com
 0.0.0.0 su.addthis.com
 0.0.0.0 ut.addthis.com
-0.0.0.0 vp-www-uat.addthis.com
-0.0.0.0 vp-www.addthis.com
-0.0.0.0 vp2-www.addthis.com
-0.0.0.0 ws-uat.addthis.com
-0.0.0.0 ws.addthis.com
+0.0.0.0 v1.addthis.com
 0.0.0.0 www.addthis.com
-0.0.0.0 www3.addthis.com
+0.0.0.0 x.dlx.addthis.com
 #[addthisedge.com]
 0.0.0.0 addthisedge.com
 0.0.0.0 m.addthisedge.com
@@ -12400,3 +12398,32 @@
 0.0.0.0 co.vlancaa.fun
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vlancaa.fun
+#[redintelligence.net]
+0.0.0.0 hal9000.redintelligence.net
+0.0.0.0 hal90002.redintelligence.net
+0.0.0.0 hal90006.redintelligence.net
+0.0.0.0 redintelligence.net
+#[webgains.com]
+0.0.0.0 track.webgains.com
+0.0.0.0 webgains.com
+0.0.0.0 www.webgains.com
+#[awin1.com]
+0.0.0.0 a1.awin1.com
+0.0.0.0 awin1.com
+0.0.0.0 b1.awin1.com
+0.0.0.0 i.awin1.com
+0.0.0.0 pv.awin1.com
+0.0.0.0 www.awin1.com
+#[media01.eu]
+0.0.0.0 ad.media01.eu
+0.0.0.0 ad2.media01.eu
+0.0.0.0 lidl.media01.eu
+0.0.0.0 media01.eu
+0.0.0.0 pb.media01.eu
+0.0.0.0 t.media01.eu
+0.0.0.0 www.media01.eu
+#[rudderlabs.com]
+0.0.0.0 api.rudderlabs.com
+0.0.0.0 cdn.rudderlabs.com
+0.0.0.0 rudderlabs.com
+0.0.0.0 www.rudderlabs.com

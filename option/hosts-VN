@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 18 Sep 2021 21:00 UTC+7
-# Version: 2109182100
-# Blocked: 1,794 domains
+# Last modified: 19 Sep 2021 16:06 UTC+7
+# Version: 2109191606
+# Blocked: 1,799 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1434,6 +1434,7 @@
 0.0.0.0 log-vietnamplus-vn.cdn.ampproject.org
 0.0.0.0 sbbanner-com.cdn.ampproject.org
 0.0.0.0 static-addtoany-com.cdn.ampproject.org
+0.0.0.0 v9banners-com.cdn.ampproject.org
 #[chin-adnetwork.com]
 0.0.0.0 chin-adnetwork.com
 0.0.0.0 js.chin-adnetwork.com
@@ -1460,6 +1461,7 @@
 0.0.0.0 phukienthoitranggiare.com
 0.0.0.0 www.phukienthoitranggiare.com
 # --- Block adsVN ---
+0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
 0.0.0.0 ad-admin.vnay.vn
@@ -1679,12 +1681,14 @@
 0.0.0.0 tvnotice.kg.garena.vn
 0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 user.headlines.pw
+0.0.0.0 v9banners.com
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vinaads.vn
 0.0.0.0 vnd247.vn
 0.0.0.0 vtvcab.xyz
 0.0.0.0 widget.headlines.pw
+0.0.0.0 www.12signup.com
 0.0.0.0 www.adsnetonline.work
 0.0.0.0 www.adsweb.vn
 0.0.0.0 www.adt.com.vn
@@ -1701,6 +1705,7 @@
 0.0.0.0 www.realclick.vn
 0.0.0.0 www.sbbanner.com
 0.0.0.0 www.tulipluv.xyz
+0.0.0.0 www.v9banners.com
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 0.0.0.0 www.vtvcab.xyz

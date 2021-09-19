@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 18 Sep 2021 21:00 UTC+7
-! Version: 2109182100
-! Blocked: 990 rules
+! Last modified: 19 Sep 2021 16:06 UTC+7
+! Version: 2109191606
+! Blocked: 997 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -200,6 +200,7 @@
 ||tricker.vn^
 ||trk-pcweb.api.zaloapp.com^
 ||tuiiu.com^
+||v9banners-com.cdn.ampproject.org^
 ||vads.net.vn^
 ||vads.vn^
 ||vclick.vn^
@@ -226,6 +227,7 @@
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
 ||ztevents.zaloapp.com^
+||12signup.com^
 ||5734a40f2d.vws.vegacdn.vn^
 ||703531862.vws.vegacdn.vn^
 ||ad-admin.vnay.vn^
@@ -445,6 +447,7 @@
 ||tvnotice.kg.garena.vn^
 ||upfile16.mediaphim.com^
 ||user.headlines.pw^
+||v9banners.com^
 ||vietbuzzad.com^
 ||vietdorje.com^
 ||vinaads.vn^
@@ -713,6 +716,7 @@
 ||aw8vn2.com^
 ||b29qc.win^
 ||b52.win^
+||bcb80.com^
 ||bestcacuoc8.com^
 ||betvietnam.info^
 ||betvisa.com^
@@ -797,6 +801,7 @@
 ||keotot.net^
 ||kidslovemartialartsomahane.com^
 ||kingbet86.info^
+||ktoviet.com^
 ||kubet.biz^
 ||kubet.life^
 ||kubet77.win^
@@ -841,6 +846,7 @@
 ||ms88ca.com^
 ||mu9.com^
 ||nbet.com^
+||nbet.vip^
 ||nhacainbet.club^
 ||nhacaisodo.net^
 ||nhanthuong88.com^
@@ -951,6 +957,7 @@
 ||w88yes.com^
 ||wbet99.net^
 ||websvn.info^
+||wellviet.net^
 ||win888b.com^
 ||ww88club.com^
 ||x8.club^

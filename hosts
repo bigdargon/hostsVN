@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 18 Sep 2021 21:00 UTC+7
-# Version: 2109182100
-# Blocked: 17,897 domains
+# Last modified: 19 Sep 2021 16:06 UTC+7
+# Version: 2109191606
+# Blocked: 17,926 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1599,43 +1599,41 @@
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 vast.cloudmobi.net
-#[addthis]
+#[addthis.com]
 0.0.0.0 addthis.com
-0.0.0.0 amp-service-iad.addthis.com
-0.0.0.0 api.addthis.com
+0.0.0.0 ai.addthis.com
 0.0.0.0 api-public.addthis.com
-0.0.0.0 appdev.addthis.com
+0.0.0.0 api.addthis.com
 0.0.0.0 cache.addthis.com
-0.0.0.0 cache-dev.addthis.com
 0.0.0.0 cf.addthis.com
 0.0.0.0 ct1.addthis.com
 0.0.0.0 ct3.addthis.com
 0.0.0.0 ct5.addthis.com
 0.0.0.0 ct6z.addthis.com
 0.0.0.0 cw.addthis.com
-0.0.0.0 e1.addthis.com
+0.0.0.0 e.dlx.addthis.com
+0.0.0.0 edge.addthis.com
 0.0.0.0 m.addthis.com
+0.0.0.0 m.dlx.addthis.com
 0.0.0.0 o.addthis.com
-0.0.0.0 origin-snapshot.addthis.com
 0.0.0.0 p.addthis.com
+0.0.0.0 p.dlx.addthis.com
 0.0.0.0 q.addthis.com
 0.0.0.0 r.dlx.addthis.com
 0.0.0.0 s3.addthis.com
 0.0.0.0 s4.addthis.com
 0.0.0.0 s5.addthis.com
 0.0.0.0 s7.addthis.com
+0.0.0.0 s8.addthis.com
 0.0.0.0 s9.addthis.com
+0.0.0.0 search-lax.addthis.com
 0.0.0.0 search.addthis.com
 0.0.0.0 secure.addthis.com
 0.0.0.0 su.addthis.com
 0.0.0.0 ut.addthis.com
-0.0.0.0 vp-www-uat.addthis.com
-0.0.0.0 vp-www.addthis.com
-0.0.0.0 vp2-www.addthis.com
-0.0.0.0 ws-uat.addthis.com
-0.0.0.0 ws.addthis.com
+0.0.0.0 v1.addthis.com
 0.0.0.0 www.addthis.com
-0.0.0.0 www3.addthis.com
+0.0.0.0 x.dlx.addthis.com
 #[addthisedge.com]
 0.0.0.0 addthisedge.com
 0.0.0.0 m.addthisedge.com
@@ -12412,6 +12410,35 @@
 0.0.0.0 co.vlancaa.fun
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vlancaa.fun
+#[redintelligence.net]
+0.0.0.0 hal9000.redintelligence.net
+0.0.0.0 hal90002.redintelligence.net
+0.0.0.0 hal90006.redintelligence.net
+0.0.0.0 redintelligence.net
+#[webgains.com]
+0.0.0.0 track.webgains.com
+0.0.0.0 webgains.com
+0.0.0.0 www.webgains.com
+#[awin1.com]
+0.0.0.0 a1.awin1.com
+0.0.0.0 awin1.com
+0.0.0.0 b1.awin1.com
+0.0.0.0 i.awin1.com
+0.0.0.0 pv.awin1.com
+0.0.0.0 www.awin1.com
+#[media01.eu]
+0.0.0.0 ad.media01.eu
+0.0.0.0 ad2.media01.eu
+0.0.0.0 lidl.media01.eu
+0.0.0.0 media01.eu
+0.0.0.0 pb.media01.eu
+0.0.0.0 t.media01.eu
+0.0.0.0 www.media01.eu
+#[rudderlabs.com]
+0.0.0.0 api.rudderlabs.com
+0.0.0.0 cdn.rudderlabs.com
+0.0.0.0 rudderlabs.com
+0.0.0.0 www.rudderlabs.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13836,6 +13863,7 @@
 0.0.0.0 log-vietnamplus-vn.cdn.ampproject.org
 0.0.0.0 sbbanner-com.cdn.ampproject.org
 0.0.0.0 static-addtoany-com.cdn.ampproject.org
+0.0.0.0 v9banners-com.cdn.ampproject.org
 #[chin-adnetwork.com]
 0.0.0.0 chin-adnetwork.com
 0.0.0.0 js.chin-adnetwork.com
@@ -13862,6 +13890,7 @@
 0.0.0.0 phukienthoitranggiare.com
 0.0.0.0 www.phukienthoitranggiare.com
 # --- Block adsVN ---
+0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
 0.0.0.0 ad-admin.vnay.vn
@@ -14081,12 +14110,14 @@
 0.0.0.0 tvnotice.kg.garena.vn
 0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 user.headlines.pw
+0.0.0.0 v9banners.com
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vinaads.vn
 0.0.0.0 vnd247.vn
 0.0.0.0 vtvcab.xyz
 0.0.0.0 widget.headlines.pw
+0.0.0.0 www.12signup.com
 0.0.0.0 www.adsnetonline.work
 0.0.0.0 www.adsweb.vn
 0.0.0.0 www.adt.com.vn
@@ -14103,6 +14134,7 @@
 0.0.0.0 www.realclick.vn
 0.0.0.0 www.sbbanner.com
 0.0.0.0 www.tulipluv.xyz
+0.0.0.0 www.v9banners.com
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 0.0.0.0 www.vtvcab.xyz
@@ -14491,6 +14523,7 @@
 0.0.0.0 ad.playground.ru
 0.0.0.0 ad.pr.ameba.jp
 0.0.0.0 ad.preferances.com
+0.0.0.0 ad.prisma-ai.com
 0.0.0.0 ad.profiwin.de
 0.0.0.0 ad.prv.pl
 0.0.0.0 ad.queryly.com
@@ -15420,7 +15453,6 @@
 0.0.0.0 awempire.com
 0.0.0.0 aweprt.com
 0.0.0.0 awfulporetroys.casa
-0.0.0.0 awin1.com
 0.0.0.0 awzbijw.com
 0.0.0.0 axdsz.pro
 0.0.0.0 axiomaticalley.com
@@ -18202,7 +18234,6 @@
 0.0.0.0 webcontentassessor.com
 0.0.0.0 webcounter.cz
 0.0.0.0 webcounter.goweb.de
-0.0.0.0 webgains.com
 0.0.0.0 webmasterplan.com
 0.0.0.0 webmasterplan.de
 0.0.0.0 weboohost.com
@@ -18597,6 +18628,7 @@
 0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.similarweb.com
 0.0.0.0 analytics.swiggy.com
+0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.youronlinechoices.com
 0.0.0.0 analytics.zen.ly
 0.0.0.0 analytics.ziftsolutions.com
@@ -18645,6 +18677,7 @@
 0.0.0.0 ccgateway.net
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.promotionengine.com
+0.0.0.0 cdn.retailads.net
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cedexis.com
@@ -18873,6 +18906,7 @@
 0.0.0.0 prooffactor.com
 0.0.0.0 propeller-tracking.com
 0.0.0.0 protostats.bigo.sg
+0.0.0.0 pv.medialead.de
 0.0.0.0 pv.pjtsu.com
 0.0.0.0 pv.sohu.com
 0.0.0.0 px.redgifs.com

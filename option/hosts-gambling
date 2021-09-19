@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 18 Sep 2021 21:00 UTC+7
-# Version: 2109182100
-# Blocked: 3,100 domains
+# Last modified: 19 Sep 2021 16:06 UTC+7
+# Version: 2109191606
+# Blocked: 3,128 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -855,8 +855,20 @@
 0.0.0.0 kubet9.net
 0.0.0.0 kubet9.com
 0.0.0.0 sin88.biz
+0.0.0.0 euro.sin88.biz
+0.0.0.0 games.sin88.biz
+0.0.0.0 giutcohon.sin88.biz
+0.0.0.0 lode247.sin88.biz
+0.0.0.0 s1.sin88.biz
+0.0.0.0 s2.sin88.biz
+0.0.0.0 thethao.sin88.biz
+0.0.0.0 www.sin88.biz
 0.0.0.0 fb88anh.com
 0.0.0.0 v9bet88.net
+0.0.0.0 aff.v9bet88.net
+0.0.0.0 m.v9bet88.net
+0.0.0.0 widget.v9bet88.net
+0.0.0.0 www.v9bet88.net
 0.0.0.0 bk8c.com
 0.0.0.0 qq288jak.com
 0.0.0.0 vngame66.com
@@ -869,6 +881,22 @@
 0.0.0.0 man.club
 0.0.0.0 gamebai.man.club
 0.0.0.0 resources.man.club
+0.0.0.0 bcb80.com
+0.0.0.0 access.bcb80.com
+0.0.0.0 go.bcb80.com
+0.0.0.0 m.bcb80.com
+0.0.0.0 promotions.bcb80.com
+0.0.0.0 smart.bcb80.com
+0.0.0.0 staticpage.bcb80.com
+0.0.0.0 www.bcb80.com
+0.0.0.0 ktoviet.com
+0.0.0.0 www.ktoviet.com
+0.0.0.0 wellviet.net
+0.0.0.0 app.wellviet.net
+0.0.0.0 m.wellviet.net
+0.0.0.0 wap.wellviet.net
+0.0.0.0 www.wellviet.net
+0.0.0.0 nbet.vip
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
