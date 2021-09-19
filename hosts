@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Sep 2021 16:06 UTC+7
-# Version: 2109191606
-# Blocked: 17,926 domains
+# Last modified: 19 Sep 2021 16:13 UTC+7
+# Version: 2109191613
+# Blocked: 17,933 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13889,6 +13889,14 @@
 0.0.0.0 asg.phukienthoitranggiare.com
 0.0.0.0 phukienthoitranggiare.com
 0.0.0.0 www.phukienthoitranggiare.com
+#[native-ad.net]
+0.0.0.0 ad.native-ad.net
+0.0.0.0 beauty.native-ad.net
+0.0.0.0 code.native-ad.net
+0.0.0.0 gluco.native-ad.net
+0.0.0.0 native-ad.net
+0.0.0.0 tags.native-ad.net
+0.0.0.0 vena.native-ad.net
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
