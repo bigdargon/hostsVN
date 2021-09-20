@@ -184,17 +184,6 @@
 #[itim.vn]
 0.0.0.0 itim.vn
 0.0.0.0 spell.itim.vn
-#[rungrinh.vn]
-0.0.0.0 cdn.rungrinh.vn
-0.0.0.0 cdn1.rungrinh.vn
-0.0.0.0 dev-payment.rungrinh.vn
-0.0.0.0 dev.rungrinh.vn
-0.0.0.0 payment.rungrinh.vn
-0.0.0.0 rungrinh.vn
-0.0.0.0 staging.rungrinh.vn
-0.0.0.0 static.rungrinh.vn
-0.0.0.0 tds.rungrinh.vn
-0.0.0.0 www.rungrinh.vn
 #[lavanetwork]
 0.0.0.0 ad.lavanetwork.net
 0.0.0.0 ad1.lavanetwork.net
