@@ -1191,48 +1191,25 @@
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 statt-collect.herokuapp.com
 0.0.0.0 sworkitads.herokuapp.com
-#[startappservice]
-0.0.0.0 adv-id-data.startappservice.com
-0.0.0.0 api.startappservice.com
-0.0.0.0 bulk-click.startappservice.com
-0.0.0.0 bulk-images.startappservice.com
-0.0.0.0 ca.akamai.startappservice.com
-0.0.0.0 ca.origin.startappservice.com
-0.0.0.0 cld.edg.startappservice.com
+#[startappservice.com]
+0.0.0.0 adimpression.startappservice.com
+0.0.0.0 adsmetadata.startappservice.com
+0.0.0.0 adwin.startappservice.com
 0.0.0.0 click.startappservice.com
 0.0.0.0 dts.startappservice.com
-0.0.0.0 ec.startappservice.com
-0.0.0.0 events.startappservice.com
-0.0.0.0 geo.startappservice.com
-0.0.0.0 igin.startappservice.com
+0.0.0.0 funnel-assets.startappservice.com
 0.0.0.0 images.startappservice.com
 0.0.0.0 imp.startappservice.com
 0.0.0.0 info.startappservice.com
 0.0.0.0 info.static.startappservice.com
 0.0.0.0 infoevent.startappservice.com
 0.0.0.0 init.startappservice.com
-0.0.0.0 lick.startappservice.com
-0.0.0.0 ll.startappservice.com
-0.0.0.0 metadata.startappservice.com
-0.0.0.0 nj.akamai.startappservice.com
-0.0.0.0 nj.fo.startappservice.com
-0.0.0.0 nj.origin.startappservice.com
-0.0.0.0 nj.startappservice.com
+0.0.0.0 ms.startappservice.com
 0.0.0.0 req.startappservice.com
-0.0.0.0 rtb-va.origin.startappservice.com
-0.0.0.0 run.dts.startappservice.com
-0.0.0.0 sg.akamai.startappservice.com
-0.0.0.0 sg.origin.startappservice.com
-0.0.0.0 soda.startappservice.com
 0.0.0.0 startappservice.com
-0.0.0.0 va.akamai.startappservice.com
-0.0.0.0 va.ec.startappservice.com
-0.0.0.0 va.origin.startappservice.com
+0.0.0.0 static.startappservice.com
+0.0.0.0 trackdownload.startappservice.com
 0.0.0.0 video.startappservice.com
-0.0.0.0 www.startappservice.com
-0.0.0.0 startappexchange.com
-0.0.0.0 init.startappexchange.com
-0.0.0.0 www.startappexchange.com
 #[serving-sys.com]
 0.0.0.0 activity.serving-sys.com
 0.0.0.0 bs.serving-sys.com
@@ -4542,41 +4519,6 @@
 0.0.0.0 reporting-02.adomik.com
 0.0.0.0 reporting-03.adomik.com
 0.0.0.0 www.adomik.com
-#[urekamedia.com]
-0.0.0.0 academy.urekamedia.com
-0.0.0.0 adserving.urekamedia.com
-0.0.0.0 adsservices.urekamedia.com
-0.0.0.0 adv.urekamedia.com
-0.0.0.0 bd.urekamedia.com
-0.0.0.0 cdn.urekamedia.com
-0.0.0.0 clickmeter.urekamedia.com
-0.0.0.0 crp.urekamedia.com
-0.0.0.0 chatbox.urekamedia.com
-0.0.0.0 dco.urekamedia.com
-0.0.0.0 dmp.urekamedia.com
-0.0.0.0 dsp.urekamedia.com
-0.0.0.0 file.urekamedia.com
-0.0.0.0 huy.urekamedia.com
-0.0.0.0 hwp.urekamedia.com
-0.0.0.0 imps.urekamedia.com
-0.0.0.0 jsons.urekamedia.com
-0.0.0.0 landingpage.urekamedia.com
-0.0.0.0 log.urekamedia.com
-0.0.0.0 optimize.urekamedia.com
-0.0.0.0 optmize.urekamedia.com
-0.0.0.0 quangcao.urekamedia.com
-0.0.0.0 ssp.urekamedia.com
-0.0.0.0 static.urekamedia.com
-0.0.0.0 static3.urekamedia.com
-0.0.0.0 sv47.urekamedia.com
-0.0.0.0 tin8ads.urekamedia.com
-0.0.0.0 tracking.urekamedia.com
-0.0.0.0 transfer.urekamedia.com
-0.0.0.0 ulead.urekamedia.com
-0.0.0.0 vccb.urekamedia.com
-0.0.0.0 viber.urekamedia.com
-0.0.0.0 wifi.urekamedia.com
-0.0.0.0 www.urekamedia.com
 #[adtrackers.net]
 0.0.0.0 adtrackers.net
 0.0.0.0 crunchyroll.adtrackers.net
@@ -12356,6 +12298,7 @@
 0.0.0.0 xml.ak-is2.net
 0.0.0.0 ad-maven.xml.ak-is2.net
 0.0.0.0 adscompute.xml.ak-is2.net
+0.0.0.0 adventurefeeds.xml.ak-is2.net
 0.0.0.0 bappaads.xml.ak-is2.net
 0.0.0.0 danarimedia.xml.ak-is2.net
 0.0.0.0 explorads.xml.ak-is2.net
@@ -12383,6 +12326,8 @@
 0.0.0.0 pressize.xml-eu.ak-is2.net
 0.0.0.0 pushub.xml-eu.ak-is2.net
 0.0.0.0 reacheffect.xml-eu.ak-is2.net
+0.0.0.0 xml-v6.ak-is2.net
+0.0.0.0 adventurefeeds.xml-v6.ak-is2.net
 0.0.0.0 xs.ak-is2.net
 0.0.0.0 ad-maven.xs.ak-is2.net
 0.0.0.0 adfclick1.xs.ak-is2.net
@@ -12480,3 +12425,54 @@
 0.0.0.0 cdn.rudderlabs.com
 0.0.0.0 rudderlabs.com
 0.0.0.0 www.rudderlabs.com
+#[parkingcrew.net]
+0.0.0.0 c.parkingcrew.net
+0.0.0.0 js.parkingcrew.net
+0.0.0.0 parkingcrew.net
+0.0.0.0 track.parkingcrew.net
+0.0.0.0 www.parkingcrew.net
+#[rtpdn10.com]
+0.0.0.0 clk.rtpdn10.com
+0.0.0.0 comclk.rtpdn10.com
+0.0.0.0 rtpdn10.com
+0.0.0.0 www.rtpdn10.com
+#[rtpdn11.com]
+0.0.0.0 clk.rtpdn11.com
+0.0.0.0 rtpdn11.com
+0.0.0.0 www.rtpdn11.com
+#[rtpdn12.com]
+0.0.0.0 clk.rtpdn12.com
+0.0.0.0 rtpdn12.com
+#[rtpdn14.com]
+0.0.0.0 clk.rtpdn14.com
+0.0.0.0 clkv6.rtpdn14.com
+0.0.0.0 rtpdn14.com
+#[rtpdn15.com]
+0.0.0.0 clk.rtpdn15.com
+0.0.0.0 rtpdn15.com
+#[adition.com]
+0.0.0.0 ad.adition.com
+0.0.0.0 ad1.adfarm1.adition.com
+0.0.0.0 ad11.adfarm1.adition.com
+0.0.0.0 ad11p.adfarm1.adition.com
+0.0.0.0 ad13.adfarm1.adition.com
+0.0.0.0 ad2.adfarm1.adition.com
+0.0.0.0 ad3.adfarm1.adition.com
+0.0.0.0 ad4.adfarm1.adition.com
+0.0.0.0 ad5.adfarm1.adition.com
+0.0.0.0 ad71.adfarm1.adition.com
+0.0.0.0 ad8.adfarm1.adition.com
+0.0.0.0 ad9.adfarm1.adition.com
+0.0.0.0 adfarm1.adition.com
+0.0.0.0 adition.com
+0.0.0.0 adsdk.adfarm1.adition.com
+0.0.0.0 cd.adition.com
+0.0.0.0 dsp.adfarm1.adition.com
+0.0.0.0 dspcluster.adfarm1.adition.com
+0.0.0.0 imagesrv.adition.com
+0.0.0.0 match.adfarm1.adition.com
+0.0.0.0 mobile.adfarm1.adition.com
+0.0.0.0 static.adfarm1.adition.com
+0.0.0.0 track.adition.com
+0.0.0.0 vt.adition.com
+0.0.0.0 www.adition.com

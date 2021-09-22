@@ -239,8 +239,8 @@
 #[gammaplatform.com]
 0.0.0.0 app.gammaplatform.com
 0.0.0.0 clk.gammaplatform.com
-0.0.0.0 cm.gammaplatform.com
 0.0.0.0 cm-supply-web.gammaplatform.com
+0.0.0.0 cm.gammaplatform.com
 0.0.0.0 d.gammaplatform.com
 0.0.0.0 gammaplatform.com
 0.0.0.0 hb.gammaplatform.com
@@ -254,7 +254,16 @@
 0.0.0.0 tag.gammaplatform.com
 0.0.0.0 track.gammaplatform.com
 0.0.0.0 www.gammaplatform.com
+#[gammadsp.com]
+0.0.0.0 clk.gammadsp.com
+0.0.0.0 cm.gammadsp.com
+0.0.0.0 gammadsp.com
+0.0.0.0 imp.gammadsp.com
+0.0.0.0 metrics.gammadsp.com
+0.0.0.0 trk.gammadsp.com
+0.0.0.0 www.gammadsp.com
 #[gammassp.com]
+0.0.0.0 advertising.gammassp.com
 0.0.0.0 gammassp.com
 0.0.0.0 test-places.gammassp.com
 0.0.0.0 www.gammassp.com
@@ -1445,3 +1454,39 @@
 0.0.0.0 native-ad.net
 0.0.0.0 tags.native-ad.net
 0.0.0.0 vena.native-ad.net
+#[urekamedia.com]
+0.0.0.0 academy.urekamedia.com
+0.0.0.0 adserving.urekamedia.com
+0.0.0.0 adsservices.urekamedia.com
+0.0.0.0 adv.urekamedia.com
+0.0.0.0 api-player.urekamedia.com
+0.0.0.0 bd.urekamedia.com
+0.0.0.0 cdn-js.urekamedia.com
+0.0.0.0 cdn-player.urekamedia.com
+0.0.0.0 cdn.urekamedia.com
+0.0.0.0 chatbox.urekamedia.com
+0.0.0.0 clickmeter.urekamedia.com
+0.0.0.0 crp.urekamedia.com
+0.0.0.0 dco.urekamedia.com
+0.0.0.0 dmp.urekamedia.com
+0.0.0.0 dsp.urekamedia.com
+0.0.0.0 imps.urekamedia.com
+0.0.0.0 jsons.urekamedia.com
+0.0.0.0 karaoke.urekamedia.com
+0.0.0.0 landingpage.urekamedia.com
+0.0.0.0 log.urekamedia.com
+0.0.0.0 optimize.urekamedia.com
+0.0.0.0 player.urekamedia.com
+0.0.0.0 quangcao.urekamedia.com
+0.0.0.0 sellers.urekamedia.com
+0.0.0.0 solution.urekamedia.com
+0.0.0.0 sop.urekamedia.com
+0.0.0.0 ssp.urekamedia.com
+0.0.0.0 static.urekamedia.com
+0.0.0.0 static3.urekamedia.com
+0.0.0.0 tracking.urekamedia.com
+0.0.0.0 transfer.urekamedia.com
+0.0.0.0 u-connect.urekamedia.com
+0.0.0.0 u-dmp.urekamedia.com
+0.0.0.0 ulead.urekamedia.com
+0.0.0.0 www.urekamedia.com

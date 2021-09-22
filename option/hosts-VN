@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 20 Sep 2021 11:02 UTC+7
-# Version: 2109201102
-# Blocked: 1,797 domains
+# Last modified: 22 Sep 2021 20:18 UTC+7
+# Version: 2109222018
+# Blocked: 1,841 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -251,8 +251,8 @@
 #[gammaplatform.com]
 0.0.0.0 app.gammaplatform.com
 0.0.0.0 clk.gammaplatform.com
-0.0.0.0 cm.gammaplatform.com
 0.0.0.0 cm-supply-web.gammaplatform.com
+0.0.0.0 cm.gammaplatform.com
 0.0.0.0 d.gammaplatform.com
 0.0.0.0 gammaplatform.com
 0.0.0.0 hb.gammaplatform.com
@@ -266,7 +266,16 @@
 0.0.0.0 tag.gammaplatform.com
 0.0.0.0 track.gammaplatform.com
 0.0.0.0 www.gammaplatform.com
+#[gammadsp.com]
+0.0.0.0 clk.gammadsp.com
+0.0.0.0 cm.gammadsp.com
+0.0.0.0 gammadsp.com
+0.0.0.0 imp.gammadsp.com
+0.0.0.0 metrics.gammadsp.com
+0.0.0.0 trk.gammadsp.com
+0.0.0.0 www.gammadsp.com
 #[gammassp.com]
+0.0.0.0 advertising.gammassp.com
 0.0.0.0 gammassp.com
 0.0.0.0 test-places.gammassp.com
 0.0.0.0 www.gammassp.com
@@ -1457,6 +1466,42 @@
 0.0.0.0 native-ad.net
 0.0.0.0 tags.native-ad.net
 0.0.0.0 vena.native-ad.net
+#[urekamedia.com]
+0.0.0.0 academy.urekamedia.com
+0.0.0.0 adserving.urekamedia.com
+0.0.0.0 adsservices.urekamedia.com
+0.0.0.0 adv.urekamedia.com
+0.0.0.0 api-player.urekamedia.com
+0.0.0.0 bd.urekamedia.com
+0.0.0.0 cdn-js.urekamedia.com
+0.0.0.0 cdn-player.urekamedia.com
+0.0.0.0 cdn.urekamedia.com
+0.0.0.0 chatbox.urekamedia.com
+0.0.0.0 clickmeter.urekamedia.com
+0.0.0.0 crp.urekamedia.com
+0.0.0.0 dco.urekamedia.com
+0.0.0.0 dmp.urekamedia.com
+0.0.0.0 dsp.urekamedia.com
+0.0.0.0 imps.urekamedia.com
+0.0.0.0 jsons.urekamedia.com
+0.0.0.0 karaoke.urekamedia.com
+0.0.0.0 landingpage.urekamedia.com
+0.0.0.0 log.urekamedia.com
+0.0.0.0 optimize.urekamedia.com
+0.0.0.0 player.urekamedia.com
+0.0.0.0 quangcao.urekamedia.com
+0.0.0.0 sellers.urekamedia.com
+0.0.0.0 solution.urekamedia.com
+0.0.0.0 sop.urekamedia.com
+0.0.0.0 ssp.urekamedia.com
+0.0.0.0 static.urekamedia.com
+0.0.0.0 static3.urekamedia.com
+0.0.0.0 tracking.urekamedia.com
+0.0.0.0 transfer.urekamedia.com
+0.0.0.0 u-connect.urekamedia.com
+0.0.0.0 u-dmp.urekamedia.com
+0.0.0.0 ulead.urekamedia.com
+0.0.0.0 www.urekamedia.com
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
@@ -1958,3 +2003,4 @@
 0.0.0.0 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 0.0.0.0 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 0.0.0.0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
+0.0.0.0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
