@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Sep 2021 20:18 UTC+7
-! Version: 2109222018
+! Last modified: 24 Sep 2021 20:23 UTC+7
+! Version: 2109242023
 ! Blocked: 1,001 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -31,7 +31,6 @@
 ||ads.zaloapp.com^
 ||ads.zdn.vn^
 ||adsbanner.game.zing.vn^
-||adservice.google.com.vn^
 ||adsota.com^
 ||adsparc.com^
 ||adsparc.net^
@@ -533,6 +532,7 @@
 ||log.dantocmiennui.vn^
 ||log.doanhnhan.vn^
 ||log.giaoduc.net.vn^
+||log.hemera.com.vn^
 ||log.infonet.vn^
 ||log.kaka.me^
 ||log.kienthuc.net.vn^

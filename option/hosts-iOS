@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 Sep 2021 20:18 UTC+7
-# Version: 2109222018
-# Blocked: 18,030 domains
+# Last modified: 24 Sep 2021 20:23 UTC+7
+# Version: 2109242023
+# Blocked: 18,046 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -120,6 +120,7 @@
 0 fls.doubleclick.net
 0 undefined.fls.doubleclick.net
 0 adservice.google.com
+0 adservice.google.com.hk
 0 adservice.google.com.vn
 0 adservice.google.de
 0 googlesyndication.com
@@ -1739,10 +1740,6 @@
 0 trk.helios.ligatus.com
 0 www.ligatus.com
 0 x.ligatus.com
-0 loggly.com
-0 logs-01.loggly.com
-0 logs.loggly.com
-0 www.loggly.com
 0 admin.corp.mparticle.com
 0 config2.mparticle.com
 0 cookiesync.mparticle.com
@@ -11412,6 +11409,16 @@
 0 track.adition.com
 0 vt.adition.com
 0 www.adition.com
+0 collector-px4176swub.perimeterx.net
+0 collector-pxuarm9b04.perimeterx.net
+0 px-conf.perimeterx.net
+0 are.clevernt.com
+0 bus.clevernt.com
+0 clevernt.com
+0 sender.clevernt.com
+0 stats.clevernt.com
+0 ui.clevernt.com
+0 www.clevernt.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -11472,20 +11479,22 @@
 0 adx.admicro.vn
 0 b.logging.admicro.vn
 0 beta.admicro.vn
+0 boxpr.admicro.vn
 0 brand.admicro.vn
 0 cmsanalytics.admicro.vn
+0 corenlp.admicro.vn
 0 defaultdsp.admicro.vn
+0 demo.corenlp.admicro.vn
 0 dio.admicro.vn
 0 dl.logging.admicro.vn
 0 enterpriseapi.admicro.vn
 0 file.admicro.vn
+0 fingerprint.admicro.vn
 0 hd.logging.admicro.vn
 0 k.logging.admicro.vn
 0 lg.logging.admicro.vn
 0 lg1.logging.admicro.vn
 0 logging.admicro.vn
-0 boxpr.admicro.vn
-0 fingerprint.admicro.vn
 0 marketingai.admicro.vn
 0 mb.logging.admicro.vn
 0 media1.admicro.vn
@@ -13080,6 +13089,7 @@
 0 log.dantocmiennui.vn
 0 log.doanhnhan.vn
 0 log.giaoduc.net.vn
+0 log.hemera.com.vn
 0 log.infonet.vn
 0 log.kaka.me
 0 log.kienthuc.net.vn
@@ -13825,6 +13835,7 @@
 0 ads.printscr.com
 0 ads.prisacom.com
 0 ads.program3.com
+0 ads.projectagoraservices.com
 0 ads.psd2html.com
 0 ads.pushplay.com
 0 ads.quasaraffiliates.com
@@ -14163,6 +14174,7 @@
 0 africaewgrhdtb.com
 0 agacelebir.com
 0 agafurretor.com
+0 agorahtag.tech
 0 agreeableprice.com
 0 agreeablestew.com
 0 agreemand.com
@@ -14510,6 +14522,7 @@
 0 boom.ro
 0 boomads.com
 0 boost-my-pr.de
+0 boozingtawney.com
 0 bopvetgel.com
 0 boredcrown.com
 0 boringcoat.com
@@ -15263,6 +15276,7 @@
 0 gp.dejanews.com
 0 gplayer.kmpmedia.net
 0 gracefulsock.com
+0 graceofnoon.com
 0 grafstat.ro
 0 graizoah.com
 0 grandioseguide.com
@@ -16705,6 +16719,7 @@
 0 steadfastsound.com
 0 steadfastsystem.com
 0 steelhouse.com
+0 stelagharris.com
 0 stickssheep.com
 0 storesurprise.com
 0 stormyachiever.com
@@ -17339,6 +17354,7 @@
 0 www.xadsmart.com
 0 www.xbirmkzpgcnb.com
 0 www.xpbbyiqbcawamy.com
+0 www.xykdglmymu.com
 0 www.ylicxdkgkvfc.com
 0 www.yourbestheal.com
 0 www.zap.buzz
@@ -17374,6 +17390,7 @@
 0 xxxcounter.com
 0 xxxmyself.com
 0 xy7elite.com
+0 xykdglmymu.com
 0 y.ibsys.com
 0 y2tejq2s11on.com
 0 yabuka.com
@@ -17845,7 +17862,6 @@
 0 sstats.adobe.com
 0 stat.hackedonlinegames.com
 0 stat.meitudata.com
-0 statcounter.com
 0 stathat.com
 0 static.intentarget.com
 0 static.leaddyno.com

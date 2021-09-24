@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 Sep 2021 20:18 UTC+7
-# Version: 2109222018
-# Blocked: 1,841 domains
+# Last modified: 24 Sep 2021 20:23 UTC+7
+# Version: 2109242023
+# Blocked: 1,844 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -68,26 +68,28 @@
 0.0.0.0 t.eclick.vn
 0.0.0.0 tracking.eclick.vn
 0.0.0.0 www.eclick.vn
-#[admicro]
+#[admicro.vn]
 0.0.0.0 adi.admicro.vn
 0.0.0.0 admicro.vn
 0.0.0.0 adx.admicro.vn
 0.0.0.0 b.logging.admicro.vn
 0.0.0.0 beta.admicro.vn
+0.0.0.0 boxpr.admicro.vn
 0.0.0.0 brand.admicro.vn
 0.0.0.0 cmsanalytics.admicro.vn
+0.0.0.0 corenlp.admicro.vn
 0.0.0.0 defaultdsp.admicro.vn
+0.0.0.0 demo.corenlp.admicro.vn
 0.0.0.0 dio.admicro.vn
 0.0.0.0 dl.logging.admicro.vn
 0.0.0.0 enterpriseapi.admicro.vn
 0.0.0.0 file.admicro.vn
+0.0.0.0 fingerprint.admicro.vn
 0.0.0.0 hd.logging.admicro.vn
 0.0.0.0 k.logging.admicro.vn
 0.0.0.0 lg.logging.admicro.vn
 0.0.0.0 lg1.logging.admicro.vn
 0.0.0.0 logging.admicro.vn
-0.0.0.0 boxpr.admicro.vn
-0.0.0.0 fingerprint.admicro.vn
 0.0.0.0 marketingai.admicro.vn
 0.0.0.0 mb.logging.admicro.vn
 0.0.0.0 media1.admicro.vn
@@ -1829,6 +1831,7 @@
 0.0.0.0 log.dantocmiennui.vn
 0.0.0.0 log.doanhnhan.vn
 0.0.0.0 log.giaoduc.net.vn
+0.0.0.0 log.hemera.com.vn
 0.0.0.0 log.infonet.vn
 0.0.0.0 log.kaka.me
 0.0.0.0 log.kienthuc.net.vn

@@ -110,6 +110,7 @@
 0.0.0.0 undefined.fls.doubleclick.net
 #[adservice.google.*]
 0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.hk
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 adservice.google.de
 #[googlesyndication.com]
@@ -1868,11 +1869,6 @@
 0.0.0.0 trk.helios.ligatus.com
 0.0.0.0 www.ligatus.com
 0.0.0.0 x.ligatus.com
-#[loggly.com]
-0.0.0.0 loggly.com
-0.0.0.0 logs-01.loggly.com
-0.0.0.0 logs.loggly.com
-0.0.0.0 www.loggly.com
 #[mparticle]
 0.0.0.0 admin.corp.mparticle.com
 0.0.0.0 config2.mparticle.com
@@ -12476,3 +12472,15 @@
 0.0.0.0 track.adition.com
 0.0.0.0 vt.adition.com
 0.0.0.0 www.adition.com
+#[perimeterx.net]
+0.0.0.0 collector-px4176swub.perimeterx.net
+0.0.0.0 collector-pxuarm9b04.perimeterx.net
+0.0.0.0 px-conf.perimeterx.net
+#[clevernt.com]
+0.0.0.0 are.clevernt.com
+0.0.0.0 bus.clevernt.com
+0.0.0.0 clevernt.com
+0.0.0.0 sender.clevernt.com
+0.0.0.0 stats.clevernt.com
+0.0.0.0 ui.clevernt.com
+0.0.0.0 www.clevernt.com
