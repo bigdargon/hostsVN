@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Sep 2021 20:23 UTC+7
-! Version: 2109242023
-! Blocked: 6,938 rules
+! Last modified: 29 Sep 2021 22:21 UTC+7
+! Version: 2109292221
+! Blocked: 6.941 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1512,7 +1512,6 @@
 ||cm-exchange.toast.com^
 ||cnnx.io^
 ||cnt.my^
-||cohesionapps.com^
 ||collecticon.outlookmobile.com^
 ||collection-*.herokuapp.com^
 ||collective-media.net^
@@ -3395,6 +3394,7 @@
 ||assignedlikecrawford.com^
 ||assuremath.com^
 ||at-adserver.alltop.com^
+||at.adtech.redventures.io^
 ||at.cbsi.com^
 ||athena-ads.wikia.com^
 ||atlassolutions.com^
@@ -4113,6 +4113,7 @@
 ||edxlewni.com^
 ||eelfadechi.com^
 ||eensoans.com^
+||effectivecpmgate.com^
 ||effectivedisplayformat.com^
 ||effectivemeasure.com^
 ||efficaciouscactus.com^
@@ -5076,6 +5077,7 @@
 ||nuttyorganization.com^
 ||nyalacornily.cam^
 ||nzaza.com^
+||nzurlmq.com^
 ||o.mbon.fun^
 ||o0bc.com^
 ||o4uxrk33.com^
@@ -5720,6 +5722,7 @@
 ||snoobi.com^
 ||snowdayonline.xyz^
 ||socialspark.com^
+||sofinpushpile.com^
 ||softclick.com.br^
 ||sojern.com^
 ||solanoswajang.com^
