@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Oct 2021 10:28 UTC+7
-! Version: 2110041028
-! Blocked: 6,951 rules
+! Last modified: 04 Oct 2021 13:46 UTC+7
+! Version: 2110041346
+! Blocked: 6,950 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1449,7 +1449,6 @@
 ||btrace.qq.com^
 ||btrace.video.qq.com^
 ||bttrack.com^
-||bugly.qq.com^
 ||bumlam.com^
 ||buysellads.com^
 ||buysellads.net^

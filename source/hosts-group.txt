@@ -1449,12 +1449,6 @@
 #[btrace.qq.com]
 0.0.0.0 btrace.qq.com
 0.0.0.0 btrace.video.qq.com
-#[bugly.qq.com]
-0.0.0.0 aexception.bugly.qq.com
-0.0.0.0 android.bugly.qq.com
-0.0.0.0 astat.bugly.qq.com
-0.0.0.0 bugly.qq.com
-0.0.0.0 ios.bugly.qq.com
 #[e.qq.com]
 0.0.0.0 cm.e.qq.com
 0.0.0.0 e.qq.com

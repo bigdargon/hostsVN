@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Oct 2021 10:28 UTC+7
-# Version: 2110041028
-# Blocked: 18,057 domains
+# Last modified: 04 Oct 2021 13:46 UTC+7
+# Version: 2110041346
+# Blocked: 18,052 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1461,12 +1461,6 @@
 #[btrace.qq.com]
 0.0.0.0 btrace.qq.com
 0.0.0.0 btrace.video.qq.com
-#[bugly.qq.com]
-0.0.0.0 aexception.bugly.qq.com
-0.0.0.0 android.bugly.qq.com
-0.0.0.0 astat.bugly.qq.com
-0.0.0.0 bugly.qq.com
-0.0.0.0 ios.bugly.qq.com
 #[e.qq.com]
 0.0.0.0 cm.e.qq.com
 0.0.0.0 e.qq.com
