@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Oct 2021 10:04 UTC+7
-! Version: 2110041004
-! Blocked: 6,949 rules
+! Last modified: 04 Oct 2021 10:28 UTC+7
+! Version: 2110041028
+! Blocked: 6,951 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -832,6 +832,7 @@
 ||macau.club^
 ||macauclub.fun^
 ||man.club^
+||manclub.live^
 ||mansion66.com^
 ||may88.club^
 ||may88.com^
@@ -3321,6 +3322,7 @@
 ||anglishreasts.site^
 ||annonser.dagbladet.no^
 ||anrdoezrs.net^
+||antananarbdivu.com^
 ||antiadblocksystems.com^
 ||antvoice.com^
 ||anxiousapples.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 04 Oct 2021 10:04 UTC+7
-# Version: 2110041004
-# Blocked: 3,128 domains
+# Last modified: 04 Oct 2021 10:28 UTC+7
+# Version: 2110041028
+# Blocked: 3,129 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -897,6 +897,7 @@
 0.0.0.0 wap.wellviet.net
 0.0.0.0 www.wellviet.net
 0.0.0.0 nbet.vip
+0.0.0.0 manclub.live
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
