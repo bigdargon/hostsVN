@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 30 Sep 2021 09:57 UTC+7
-! Version: 2109300957
-! Blocked: 6.945 rules
+! Last modified: 04 Oct 2021 10:04 UTC+7
+! Version: 2110041004
+! Blocked: 6,949 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1709,6 +1709,7 @@
 ||headlinerlabs.com^
 ||heapanalytics.com^
 ||heatmap.it^
+||hetaruwg.com^
 ||heyzap.com^
 ||hgbasics.com^
 ||histats.com^
@@ -3640,6 +3641,7 @@
 ||broadboundary.com^
 ||broadcastbed.com^
 ||broaddoor.com^
+||browser-update.org^
 ||btez8.xyz^
 ||btrll.com^
 ||bucketbean.com^
@@ -4076,6 +4078,7 @@
 ||dynamic.fmpub.net^
 ||dynamicadx.com^
 ||dyntrk.com^
+||dzienkudrow.com^
 ||e-adimages.scrippsnetworks.com^
 ||e-bannerx.com^
 ||e-debtconsolidation.com^
@@ -6289,6 +6292,7 @@
 ||wlmarketing.com^
 ||wmirk.ru^
 ||womanear.com^
+||wonderhsjnsd.com^
 ||wonderlandads.com^
 ||wondoads.de^
 ||woredi.com^

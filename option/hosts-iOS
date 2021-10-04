@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Sep 2021 09:57 UTC+7
-# Version: 2109300957
-# Blocked: 18.052 domains
+# Last modified: 04 Oct 2021 10:04 UTC+7
+# Version: 2110041004
+# Blocked: 18,056 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1289,15 +1289,13 @@
 0 www-staging.wootric.com
 0 www.wootric.com
 0 api-compatible.mixpanel.com
+0 api-js.mixpanel.com
 0 api-secure.mixpanel.com
 0 api.mixpanel.com
 0 code.mixpanel.com
 0 data.mixpanel.com
 0 decide.mixpanel.com
 0 mixpanel.com
-0 resources.mixpanel.com
-0 share.mixpanel.com
-0 sso.mixpanel.com
 0 switchboard.mixpanel.com
 0 www.mixpanel.com
 0 adlog.flurry.com
@@ -11416,6 +11414,9 @@
 0 stats.clevernt.com
 0 ui.clevernt.com
 0 www.clevernt.com
+0 ak.hetaruwg.com
+0 hetaruwg.com
+0 www.hetaruwg.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14544,6 +14545,7 @@
 0 broadboundary.com
 0 broadcastbed.com
 0 broaddoor.com
+0 browser-update.org
 0 btez8.xyz
 0 btrll.com
 0 bucketbean.com
@@ -14979,6 +14981,7 @@
 0 dynamic.fmpub.net
 0 dynamicadx.com
 0 dyntrk.com
+0 dzienkudrow.com
 0 e-adimages.scrippsnetworks.com
 0 e-bannerx.com
 0 e-debtconsolidation.com
@@ -17189,6 +17192,7 @@
 0 wlmarketing.com
 0 wmirk.ru
 0 womanear.com
+0 wonderhsjnsd.com
 0 wonderlandads.com
 0 wondoads.de
 0 woredi.com
