@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Oct 2021 13:46 UTC+7
-# Version: 2110041346
-# Blocked: 18,052 domains
+# Last modified: 07 Oct 2021 16:42 UTC+7
+# Version: 2110071642
+# Blocked: 18,053 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12647,12 +12647,13 @@
 0.0.0.0 pub-dev.novaonx.com
 0.0.0.0 staging.novaonx.com
 0.0.0.0 www.novaonx.com
-#[coccoc]
+#[coccoc.com]
 0.0.0.0 ads-target.coccoc.com
 0.0.0.0 banners-gallery.coccoc.com
 0.0.0.0 cdn-qc.coccoc.com
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 metrics.coccoc.com
+0.0.0.0 pixel.coccoc.com
 0.0.0.0 qc-static.coccoc.com
 0.0.0.0 shop-cdn.coccoc.com
 0.0.0.0 shopping.coccoc.com
