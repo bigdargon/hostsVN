@@ -8440,21 +8440,6 @@
 0.0.0.0 otnolatrnup.com
 0.0.0.0 cdn.otnolatrnup.com
 0.0.0.0 rh.otnolatrnup.com
-#[beacons*.gvt2.com]
-0.0.0.0 beacons.gvt2.com
-0.0.0.0 beacons2.gvt2.com
-0.0.0.0 beacons3.gvt2.com
-0.0.0.0 beacons4.gvt2.com
-0.0.0.0 beacons5.gvt2.com
-0.0.0.0 beacons6.gvt2.com
-#[gcp.gvt2.com]
-0.0.0.0 beacons-blackholed.gcp.gvt2.com
-0.0.0.0 beacons-handoff.gcp.gvt2.com
-0.0.0.0 beacons.gcp.gvt2.com
-0.0.0.0 e2clock.gcp.gvt2.com
-#[beacons*.gvt3.com]
-0.0.0.0 beacons5.gvt3.com
-0.0.0.0 beacons6.gvt3.com
 #[ad4game.com]
 0.0.0.0 ad4game.com
 0.0.0.0 ads.ad4game.com
