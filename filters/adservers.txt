@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Oct 2021 16:42 UTC+7
-! Version: 2110071642
-! Blocked: 1,008 rules
+! Last modified: 08 Oct 2021 12:03 UTC+7
+! Version: 2110081203
+! Blocked: 1,013 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -755,6 +755,7 @@
 ||fabetvn.com^
 ||fb88.com^
 ||fb88.link^
+||fb88aff.com^
 ||fb88anh.com^
 ||fb88club.com^
 ||fb88cup.com^
@@ -922,6 +923,7 @@
 ||top88.uk^
 ||top88.us^
 ||trungso.vip^
+||twin188.co^
 ||uw88vnd.com^
 ||uw88vnd1.com^
 ||v7ac.com^
@@ -942,6 +944,7 @@
 ||vn88.casino^
 ||vn88.club^
 ||vn88.com^
+||vndbet88.com^
 ||vngame66.com^
 ||vnloto.com^
 ||vnloto.vip^
@@ -956,6 +959,7 @@
 ||vx88.com^
 ||vx88e.com^
 ||vz681.com^
+||vz79.com^
 ||w388.com^
 ||w88.vin^
 ||w88bkk.com^
@@ -963,6 +967,7 @@
 ||w88city.com^
 ||w88club.com^
 ||w88hn.com^
+||w88ok.com^
 ||w88yes.com^
 ||wbet99.net^
 ||websvn.info^

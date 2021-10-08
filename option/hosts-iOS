@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Oct 2021 16:42 UTC+7
-# Version: 2110071642
-# Blocked: 18,053 domains
+# Last modified: 08 Oct 2021 12:03 UTC+7
+# Version: 2110081203
+# Blocked: 18,059 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7866,18 +7866,6 @@
 0 otnolatrnup.com
 0 cdn.otnolatrnup.com
 0 rh.otnolatrnup.com
-0 beacons.gvt2.com
-0 beacons2.gvt2.com
-0 beacons3.gvt2.com
-0 beacons4.gvt2.com
-0 beacons5.gvt2.com
-0 beacons6.gvt2.com
-0 beacons-blackholed.gcp.gvt2.com
-0 beacons-handoff.gcp.gvt2.com
-0 beacons.gcp.gvt2.com
-0 e2clock.gcp.gvt2.com
-0 beacons5.gvt3.com
-0 beacons6.gvt3.com
 0 ad4game.com
 0 ads.ad4game.com
 0 cdn.ad4game.com
@@ -11412,6 +11400,11 @@
 0 ak.hetaruwg.com
 0 hetaruwg.com
 0 www.hetaruwg.com
+0 jsc.marketgid.com
+0 marketgid.com
+0 www.marketgid.com
+0 vercel-insights.com
+0 vitals.vercel-insights.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13394,6 +13387,7 @@
 0 ad.profiwin.de
 0 ad.prv.pl
 0 ad.queryly.com
+0 ad.responservflde.icu
 0 ad.reunion.com
 0 ad.scanmedios.com
 0 ad.setn.com
@@ -14463,6 +14457,7 @@
 0 bepiletussar.casa
 0 berp.com
 0 besguses.pro
+0 besmeargleor.com
 0 best-pr.info
 0 best-top.ro
 0 bestadbid.com
@@ -15208,6 +15203,7 @@
 0 furtherescottom.info
 0 fusionads.net
 0 fusionquest.com
+0 futurehybrid.tech
 0 futuristicapparatus.com
 0 futuristicfairies.com
 0 fuzzyflavor.com
@@ -15985,6 +15981,7 @@
 0 o.mbon.fun
 0 o0bc.com
 0 o4uxrk33.com
+0 oahaurti.com
 0 oalselry.com
 0 oas.benchmark.fr
 0 oas.repubblica.it
@@ -16142,6 +16139,8 @@
 0 performancetrustednetwork.com
 0 performancing.com
 0 perigshfnon.com
+0 permanentnearly.com
+0 permutive.app
 0 personagraph.com
 0 personaly.click
 0 pertersacstyli.com
@@ -16393,6 +16392,7 @@
 0 redirectvoluum.com
 0 redlele.com
 0 redmas.com
+0 redtram.com
 0 reduxmedia.com
 0 reduxmediagroup.com
 0 reedbusiness.com
@@ -16447,6 +16447,7 @@
 0 rmcxyfqbm.com
 0 rmedia.boston.com
 0 rmiesnorthur.pro
+0 rndskittytor.com
 0 roar.com
 0 robotreplay.com
 0 rockabox.co
@@ -16857,6 +16858,7 @@
 0 thrnt.com
 0 throattrees.com
 0 thruport.com
+0 thurag.com
 0 tia.timeinc.net
 0 ticklesign.com
 0 tidaltv.com
@@ -17031,6 +17033,7 @@
 0 userreplay.com
 0 userreplay.net
 0 utarget.co.uk
+0 utarget.ru
 0 utils.mediageneral.net
 0 uttermosthobbies.com
 0 uyunad.com
@@ -17341,6 +17344,7 @@
 0 www.tgvbwjbnxz.com
 0 www.tgzobwoutuwn.com
 0 www.theweblocker.net
+0 www.thurag.com
 0 www.tkickhhylnvm.com
 0 www.trafyield.com
 0 www.tribedone.org
@@ -17513,6 +17517,7 @@
 0 analytics.lk.api.ditto.com
 0 analytics.logsss.com
 0 analytics.mailmunch.co
+0 analytics.mobilegamestats.com
 0 analytics.myfinance.com
 0 analytics.mytvzion.pro
 0 analytics.ninjakiwi.com
@@ -17740,6 +17745,7 @@
 0 logsss.com
 0 logx.optimizely.com
 0 loles.neostrada.pl
+0 lptag.liveperson.net
 0 mads.dailymail.co.uk
 0 maper.info
 0 masasaudi.com

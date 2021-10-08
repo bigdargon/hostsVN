@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 07 Oct 2021 16:42 UTC+7
-# Version: 2110071642
-# Blocked: 3,150 domains
+# Last modified: 08 Oct 2021 12:03 UTC+7
+# Version: 2110081203
+# Blocked: 3,166 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -919,6 +919,22 @@
 0.0.0.0 m.188thethao.com
 0.0.0.0 widget.188thethao.com
 0.0.0.0 www.188thethao.com
+0.0.0.0 vz79.com
+0.0.0.0 m.vz79.com
+0.0.0.0 www.vz79.com
+0.0.0.0 w88ok.com
+0.0.0.0 affiliate.w88ok.com
+0.0.0.0 m.w88ok.com
+0.0.0.0 www.w88ok.com
+0.0.0.0 fb88aff.com
+0.0.0.0 affbo.fb88aff.com
+0.0.0.0 www.fb88aff.com
+0.0.0.0 twin188.co
+0.0.0.0 m.twin188.co
+0.0.0.0 www.twin188.co
+0.0.0.0 vndbet88.com
+0.0.0.0 m.vndbet88.com
+0.0.0.0 www.vndbet88.com
 # --- Block other gameblingVN ---
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
