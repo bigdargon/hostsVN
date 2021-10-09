@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Oct 2021 12:03 UTC+7
-# Version: 2110081203
-# Blocked: 18,059 domains
+# Last modified: 09 Oct 2021 17:14 UTC+7
+# Version: 2110091714
+# Blocked: 18,060 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -15,6 +15,7 @@
 ::1				localhost
 
 0 advertising.apple.com
+0 api-adservices.apple.com
 0 banners.itunes.apple.com
 0 books-analytics-events.apple.com
 0 notes-analytics-events.apple.com
