@@ -560,10 +560,11 @@
 0.0.0.0 ybx.yahoo.co.jp
 0.0.0.0 yeas.yahoo.co.jp
 0.0.0.0 yjaxc.yahoo.co.jp
-#[affiliate.rakuten.co.jp]
+#[rakuten.co.jp]
 0.0.0.0 affiliate.rakuten.co.jp
 0.0.0.0 static.affiliate.rakuten.co.jp
 0.0.0.0 xml.affiliate.rakuten.co.jp
+0.0.0.0 rat.rakuten.co.jp
 #[facebook]
 0.0.0.0 an.facebook.com
 0.0.0.0 pixel.facebook.com
@@ -3509,15 +3510,16 @@
 0.0.0.0 widgets.getclicky.com
 0.0.0.0 www.getclicky.com
 #[yandex.ru]
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 adsdk.yandex.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 bs.yandex.ru
+0.0.0.0 clck.yandex.ru
 0.0.0.0 informer.yandex.ru
 0.0.0.0 mc.yandex.ru
-0.0.0.0 adsdk.yandex.ru
 0.0.0.0 metrika.yandex.ru
-0.0.0.0 clck.yandex.ru
 0.0.0.0 share.yandex.ru
 #[adfox.yandex.ru]
 0.0.0.0 adfox.yandex.ru
@@ -5191,13 +5193,6 @@
 0.0.0.0 j.clean.gg
 0.0.0.0 k.clean.gg
 0.0.0.0 mirroring.clean.gg
-#[omtrdc.net]
-0.0.0.0 condenast.insight.omtrdc.net
-0.0.0.0 hb-api.omtrdc.net
-0.0.0.0 heartbeats.omtrdc.net
-0.0.0.0 omtrdc.net
-0.0.0.0 tt.omtrdc.net
-0.0.0.0 www.omtrdc.net
 #[ugdturner.com]
 0.0.0.0 ugdturner.com
 0.0.0.0 dev.ugdturner.com
@@ -6414,6 +6409,7 @@
 0.0.0.0 aj1873.online
 0.0.0.0 aj1874.online
 0.0.0.0 aj1985.online
+0.0.0.0 aj1987.online
 0.0.0.0 bj1010.online
 0.0.0.0 bj1052.online
 0.0.0.0 bj1083.online
@@ -12469,3 +12465,15 @@
 #[vercel-insights.com]
 0.0.0.0 vercel-insights.com
 0.0.0.0 vitals.vercel-insights.com
+#[appads.in]
+0.0.0.0 appads.in
+0.0.0.0 req.appads.in
+0.0.0.0 sg-tracker.appads.in
+0.0.0.0 www.appads.in
+#[api-*.bidmachine.io]
+0.0.0.0 api-apac.bidmachine.io
+0.0.0.0 api-eu.bidmachine.io
+0.0.0.0 api-us.bidmachine.io
+#[deltadna.net]
+0.0.0.0 balanced-collect.deltadna.net
+0.0.0.0 balanced-engage.deltadna.net

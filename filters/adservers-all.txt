@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Oct 2021 17:14 UTC+7
-! Version: 2110091714
-! Blocked: 6,973 rules
+! Last modified: 18 Oct 2021 15:25 UTC+7
+! Version: 2110181525
+! Blocked: 7,019 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1095,6 +1095,7 @@
 ||adflex.asia^
 ||adform.net^
 ||adfox.yandex.ru^
+||adfstat.yandex.ru^
 ||adg-data.kajicam.com^
 ||adg.kajicam.com^
 ||adgrx.com^
@@ -1326,6 +1327,7 @@
 ||answers.com^
 ||anymad.com^
 ||aper.pw^
+||api-*.bidmachine.io^
 ||api-ad-data.kajicam.com^
 ||api-ad.kajicam.com^
 ||api-adservices.apple.com^
@@ -1341,6 +1343,7 @@
 ||app-analytics*.snapchat.com^
 ||appadhoc.com^
 ||appads.com^
+||appads.in^
 ||appbaqend.com^
 ||appboy.com^
 ||appboycdn.com^
@@ -1396,6 +1399,8 @@
 ||ayads.co^
 ||b2c.com^
 ||b91vip.com^
+||balanced-collect.deltadna.net^
+||balanced-engage.deltadna.net^
 ||bam-x.com^
 ||banners-slb.mobile.yandex.net^
 ||banners.itunes.apple.com^
@@ -1958,7 +1963,6 @@
 ||omappapi.com^
 ||omguk.com^
 ||omnitagjs.com^
-||omtrdc.net^
 ||onaudience.com^
 ||onespot-tracking.herokuapp.com^
 ||onetag-sys.com^
@@ -2063,6 +2067,7 @@
 ||r.msn.com^
 ||rad.live.com^
 ||rads.msn.com^
+||rat.rakuten.co.jp^
 ||rayads.cn^
 ||rayjump.com^
 ||rcm-images.amazon.com^
@@ -2618,6 +2623,7 @@
 ||adgoto.com^
 ||adgridwork.com^
 ||adgroups.net^
+||adhbkatqyzqd.com^
 ||adhese.be^
 ||adhese.com^
 ||adhoc4.net^
@@ -2738,6 +2744,7 @@
 ||adru.net^
 ||ads-bi.zenkube.com^
 ||ads-click.com^
+||ads-ios-sdk.ogury.co^
 ||ads-trk.vidible.tv^
 ||ads.4tube.com^
 ||ads.5ci.lt^
@@ -3246,6 +3253,7 @@
 ||adz2you.net^
 ||adzbazar.com^
 ||adzones.com^
+||aentafmxkmhea.com^
 ||af-ad.co.uk^
 ||affbuzzads.com^
 ||affec.tv^
@@ -3305,6 +3313,7 @@
 ||alcanceadnetwork.com^
 ||alclick.com^
 ||alenty.com^
+||algorix.co^
 ||alignclamstram.com^
 ||alipromo.com^
 ||all4spy.com^
@@ -3406,7 +3415,9 @@
 ||assets.purch.com^
 ||assets1.exgfnetwork.com^
 ||assignedlikecrawford.com^
+||associalbde.xyz^
 ||assuremath.com^
+||astancerta.fun^
 ||at-adserver.alltop.com^
 ||at.adtech.redventures.io^
 ||at.cbsi.com^
@@ -3572,6 +3583,7 @@
 ||belstat.com^
 ||belstat.nl^
 ||belyyeusy.com^
+||bemachopor.com^
 ||bepiletussar.casa^
 ||berp.com^
 ||besguses.pro^
@@ -3607,6 +3619,7 @@
 ||blast4traffic.com^
 ||blastcahs.com^
 ||blingbucks.com^
+||blis.com^
 ||blockadsnot.com^
 ||blogads.com^
 ||blogcounter.de^
@@ -3813,6 +3826,7 @@
 ||clicks.equantum.com^
 ||clicks.mods.de^
 ||clickserve.cc-dt.com^
+||clickserve.dartsearch.net^
 ||clicktag.de^
 ||clickthruserver.com^
 ||clickthrutraffic.com^
@@ -4009,6 +4023,7 @@
 ||defyraspypuke.com^
 ||delegatediscussion.com^
 ||deligrassdull.com^
+||deliver.ptgncdn.com^
 ||deliver.vkcdnservice.com^
 ||deloo.de^
 ||deloplen.com^
@@ -4086,6 +4101,7 @@
 ||drydrum.com^
 ||dsfjhfhyry2hh8jo09.com^
 ||dsp.io^
+||dtv5loup63fac.cloudfront.net^
 ||dtxngr.com^
 ||dxgo95ahe73e8.cloudfront.net^
 ||dyecowwhy.com^
@@ -4185,6 +4201,7 @@
 ||errortablet.com^
 ||esellerate.net^
 ||estat.com^
+||esusivebe.top^
 ||etahub.com^
 ||etargetnet.com^
 ||ethnictyrosky.com^
@@ -4448,6 +4465,7 @@
 ||hgzuqrtzt.com^
 ||hh-btr.com^
 ||hidden.gogoceleb.com^
+||higherincomparablehandicraft.com^
 ||highfalutinroom.com^
 ||highmaidfhr.com^
 ||highprofitnetwork.com^
@@ -4548,6 +4566,7 @@
 ||imagecash.net^
 ||images-pw.secureserver.net^
 ||images.footballaddicts.se^
+||imagineposition.com^
 ||imarketservices.com^
 ||imatmobile.com^
 ||img.media3s.xyz^
@@ -4647,6 +4666,7 @@
 ||ivypixel.com^
 ||iwanttodeliver.com^
 ||iwhugaul.com^
+||iwofkvupfz.com^
 ||j93557g.com^
 ||jadeitite.com^
 ||jaduda.com^
@@ -4736,6 +4756,7 @@
 ||lecap-services.fr^
 ||legolas-media.com^
 ||leiki.com^
+||lemmatechnologies.com^
 ||lettucelimit.com^
 ||levelrate.de^
 ||lfstmedia.com^
@@ -4747,6 +4768,7 @@
 ||lightcushion.com^
 ||lightningcast.net^
 ||lightspeedcash.com^
+||lilureem.com^
 ||limeclassycaption.com^
 ||link-booster.de^
 ||link4ads.com^
@@ -4783,6 +4805,7 @@
 ||lologhfd.com^
 ||longinglettuce.com^
 ||loopme.biz^
+||loopme.com^
 ||lop.com^
 ||lorybnfh.com^
 ||loudloss.com^
@@ -4794,6 +4817,7 @@
 ||lucidmedia.com^
 ||lucklayed.info^
 ||lumpyleaf.com^
+||lumses.com^
 ||lunarads.com^
 ||lvyabgbohlv.com^
 ||lytics.io^
@@ -4811,6 +4835,7 @@
 ||madvertise.de^
 ||magnetic.com^
 ||magnificentmist.com^
+||magnite.com^
 ||malware-scan.com^
 ||manage.com^
 ||mancehostic.site^
@@ -4831,6 +4856,7 @@
 ||markmansonbooklst.com^
 ||markofathenaluk.com^
 ||maroonspider.com^
+||mars.media^
 ||mas.sector.sk^
 ||massicrathem.info^
 ||mastermind.com^
@@ -4916,6 +4942,7 @@
 ||mindmemobile.com^
 ||minormeeting.com^
 ||minotaur107.com^
+||mintegral.com^
 ||mintrace.com^
 ||missionsection.com^
 ||misstrends.com^
@@ -5071,12 +5098,14 @@
 ||nextgencounter.com^
 ||ng3.ads.warnerbros.com^
 ||nicksstevmark.com^
+||nikmldjhvxuov.xyz^
 ||ninkorant.online^
 ||nitratory.com^
 ||nitroclicks.com^
 ||noiselessplough.com^
 ||noisysortcasualty.com^
 ||nolrougn.com^
+||nomorepecans.com^
 ||nondescriptcrowd.com^
 ||nondescriptsmile.com^
 ||nondescriptstocking.com^
@@ -5188,6 +5217,7 @@
 ||oustoope.com^
 ||out-there-media.com^
 ||outabsola.com^
+||outsliggooa.com^
 ||outtimburrtor.com^
 ||overture.com^
 ||ovlliiwtxgjlz.com^
@@ -5273,6 +5303,7 @@
 ||pheedo.com^
 ||phizzle.com^
 ||phluant.com^
+||phoaraut.com^
 ||phobygipi.pro^
 ||phoenix-widget.com^
 ||phonearena.com^
@@ -5318,6 +5349,7 @@
 ||pndelfast.com^
 ||pocitadlo.cz^
 ||pointroll.com^
+||pokkt.com^
 ||pontiflex.com^
 ||pop-under.ru^
 ||pop.bid^
@@ -5436,6 +5468,7 @@
 ||puwpush.com^
 ||puzzlingfall.com^
 ||pvclouds.com^
+||pzhuzlwjiymfos.com^
 ||q.azcentral.com^
 ||qctop.com^
 ||qnsr.com^
@@ -5467,6 +5500,7 @@
 ||radiumone.com^
 ||railwayrainstorm.com^
 ||rakamu.com^
+||ralijqugghwqil.com^
 ||ramp.purch.com^
 ||rampanel.com^
 ||rampidads.com^
@@ -5523,6 +5557,7 @@
 ||refersion.com^
 ||reflectivereward.com^
 ||refnippod.com^
+||reforge.in^
 ||refraintupaiid.com^
 ||regnow.com^
 ||reinvigorate.net^
@@ -5551,6 +5586,7 @@
 ||revmob.com^
 ||revstats.com^
 ||rhythmnewmedia.com^
+||rhythmone.com^
 ||ribunews.com^
 ||richaudience.com^
 ||richmails.com^
@@ -5575,6 +5611,7 @@
 ||rockabox.co^
 ||rocketfuel.com^
 ||roia.biz^
+||romepoptahul.com^
 ||roolgage.com^
 ||rose.ixbt.com^
 ||rot.spotsniper.ru^
@@ -5944,6 +5981,7 @@
 ||teenrevenue.com^
 ||teenyvolcano.com^
 ||teethfan.com^
+||telaria.com^
 ||teliad.de^
 ||temelio.com^
 ||tendertest.com^
@@ -6118,6 +6156,7 @@
 ||uarating.com^
 ||uberads.com^
 ||ubermedia.com^
+||ucfunnel.com^
 ||uebadu.com^
 ||ueikno.com^
 ||uge521.com^
@@ -6176,6 +6215,7 @@
 ||vebadu.com^
 ||veille-referencement.com^
 ||veinteractive.com^
+||velismedia.com^
 ||velocecdn.com^
 ||velocitycdn.com^
 ||velti.com^
@@ -6187,6 +6227,7 @@
 ||vericlick.com^
 ||vertadnet.com^
 ||veruta.com^
+||verve.com^
 ||vervemobile.com^
 ||vervewireless.com^
 ||vetdeberg.com^
@@ -6232,6 +6273,7 @@
 ||w3i.com^
 ||w55c.net^
 ||wa.and.co.uk^
+||waisheph.com^
 ||warlog.info^
 ||warlog.ru^
 ||warp.ly^
@@ -6255,6 +6297,7 @@
 ||webcontentassessor.com^
 ||webcounter.cz^
 ||webcounter.goweb.de^
+||webeyemob.com^
 ||webmasterplan.com^
 ||webmasterplan.de^
 ||weboohost.com^
@@ -6557,6 +6600,7 @@
 ||collect.igodigital.com^
 ||collect.usefathom.com^
 ||collector.apester.com^
+||collector.githubapp.com^
 ||collector.leaddyno.com^
 ||collector.unsplash.com^
 ||collector.xhamster.com^
@@ -6809,6 +6853,7 @@
 ||sam4m.com^
 ||saspreview.com^
 ||sc-static.net^
+||sdk-monitoring.ogury.co^
 ||selfishsnake.com^
 ||semantiqo.com^
 ||sessions.bugsnag.com^
@@ -6921,6 +6966,7 @@
 ||vectaury.io^
 ||vercel-analytics.com^
 ||vilagnomad.com^
+||visitor-analytics.io^
 ||visitor.pixplug.in^
 ||vizu.com^
 ||vkcache.com^
