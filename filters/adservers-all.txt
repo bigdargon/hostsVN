@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Oct 2021 10:45 UTC+7
-! Version: 2110201045
-! Blocked: 7.022 rules
+! Last modified: 20 Oct 2021 21:35 UTC+7
+! Version: 2110202135
+! Blocked: 7.023 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5840,6 +5840,7 @@
 ||st-n.pc2ads.com^
 ||stackadapt.com^
 ||stagepopkek.com^
+||stagroam.net^
 ||stakingscrew.com^
 ||stakingslope.com^
 ||standingnest.com^
