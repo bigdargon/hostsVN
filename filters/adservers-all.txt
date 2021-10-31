@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 31 Oct 2021 12:21 UTC+7
-! Version: 2110311221
-! Blocked: 7.033 rules
+! Last modified: 31 Oct 2021 12:23 UTC+7
+! Version: 2110311223
+! Blocked: 7.035 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3464,6 +3464,7 @@
 ||azoaltou.com^
 ||b-1st.com^
 ||b4psads.com^
+||b5e75c56.com^
 ||baaomenaltho.com^
 ||babanmat.com^
 ||babs.tv2.dk^
@@ -4037,6 +4038,7 @@
 ||delusionrather.com^
 ||demdex.net^
 ||denbeigemark.com^
+||dendranthe4edm7um.com^
 ||denetsuk.com^
 ||depirsmandk5.com^
 ||desertedbreath.com^
