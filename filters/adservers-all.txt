@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 31 Oct 2021 12:23 UTC+7
-! Version: 2110311223
+! Last modified: 06 Nov 2021 16:36 UTC+7
+! Version: 2111061636
 ! Blocked: 7.035 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -3594,6 +3594,7 @@
 ||bepiletussar.casa^
 ||berp.com^
 ||besguses.pro^
+||beshucklean.com^
 ||besmeargleor.com^
 ||best-pr.info^
 ||best-top.ro^
@@ -3833,7 +3834,6 @@
 ||clicks.equantum.com^
 ||clicks.mods.de^
 ||clickserve.cc-dt.com^
-||clickserve.dartsearch.net^
 ||clicktag.de^
 ||clickthruserver.com^
 ||clickthrutraffic.com^
