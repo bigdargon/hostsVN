@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Nov 2021 16:36 UTC+7
-# Version: 2111061636
-# Blocked: 18.132 domains
+# Last modified: 08 Nov 2021 15:01 UTC+7
+# Version: 2111081501
+# Blocked: 18.144 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2603,6 +2603,7 @@
 0 start.branch.io
 0 tron-api.prod.branch.io
 0 video.branch.io
+0 vulcan.branch.io
 0 www.branch.io
 0 ioam.de
 0 ads.ioam.de
@@ -11424,6 +11425,18 @@
 0 relaido.jp
 0 sync.relaido.jp
 0 tracker.relaido.jp
+0 cdn.switchadhub.com
+0 delivery.g.switchadhub.com
+0 delivery.swid.switchadhub.com
+0 delivery.switchadhub.com
+0 switchadhub.com
+0 api.crashlytics.com
+0 crashlytics.com
+0 e.crashlytics.com
+0 firebase-settings.crashlytics.com
+0 reports.crashlytics.com
+0 settings.crashlytics.com
+0 update.crashlytics.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14976,6 +14989,7 @@
 0 dmxleo.dailymotion.com
 0 dnemkhkbsdbl.com
 0 docksalmon.com
+0 dogconcurrencesauce.com
 0 domaining.in
 0 domainsponsor.com
 0 domainsteam.de
@@ -15330,6 +15344,7 @@
 0 gtsads.com
 0 gtsmobi.com
 0 guardedschool.com
+0 gumbolersgthb.com
 0 gunggo.com
 0 guppymedia.com
 0 gwallet.com
@@ -16829,7 +16844,6 @@
 0 swesomepop.com
 0 swimslope.com
 0 swissadsolutions.com
-0 switchadhub.com
 0 switchads.com
 0 swordfishdc.com
 0 swordgoose.com
@@ -17700,7 +17714,6 @@
 0 down.nishuoa.com
 0 dualstack-logs.amap.com
 0 dynatrace.com
-0 e.crashlytics.com
 0 e2.platform88798.com
 0 edigitalsurvey.com
 0 emltrk.com
@@ -17899,7 +17912,6 @@
 0 referer.pixplug.in
 0 referrer.disqus.com
 0 remyyadan.online.fr
-0 reports.crashlytics.com
 0 reports.ubimo.com
 0 reveal.clearbit.com
 0 richmetrics.com

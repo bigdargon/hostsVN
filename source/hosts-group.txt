@@ -2775,7 +2775,7 @@
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjtrack.uc.cn
 0.0.0.0 track.uc.cn
-#[branch]
+#[branch.io]
 0.0.0.0 ai.branch.io
 0.0.0.0 api.branch.io
 0.0.0.0 api.qa.branch.io
@@ -2795,6 +2795,7 @@
 0.0.0.0 start.branch.io
 0.0.0.0 tron-api.prod.branch.io
 0.0.0.0 video.branch.io
+0.0.0.0 vulcan.branch.io
 0.0.0.0 www.branch.io
 #[ioam]
 0.0.0.0 ioam.de
@@ -12491,3 +12492,17 @@
 0.0.0.0 relaido.jp
 0.0.0.0 sync.relaido.jp
 0.0.0.0 tracker.relaido.jp
+#[switchadhub.com]
+0.0.0.0 cdn.switchadhub.com
+0.0.0.0 delivery.g.switchadhub.com
+0.0.0.0 delivery.swid.switchadhub.com
+0.0.0.0 delivery.switchadhub.com
+0.0.0.0 switchadhub.com
+#[crashlytics.com]
+0.0.0.0 api.crashlytics.com
+0.0.0.0 crashlytics.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 update.crashlytics.com

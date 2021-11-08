@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Nov 2021 16:36 UTC+7
-# Version: 2111061636
-# Blocked: 18.132 domains
+# Last modified: 08 Nov 2021 15:01 UTC+7
+# Version: 2111081501
+# Blocked: 18.144 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2787,7 +2787,7 @@
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjtrack.uc.cn
 0.0.0.0 track.uc.cn
-#[branch]
+#[branch.io]
 0.0.0.0 ai.branch.io
 0.0.0.0 api.branch.io
 0.0.0.0 api.qa.branch.io
@@ -2807,6 +2807,7 @@
 0.0.0.0 start.branch.io
 0.0.0.0 tron-api.prod.branch.io
 0.0.0.0 video.branch.io
+0.0.0.0 vulcan.branch.io
 0.0.0.0 www.branch.io
 #[ioam]
 0.0.0.0 ioam.de
@@ -12503,6 +12504,20 @@
 0.0.0.0 relaido.jp
 0.0.0.0 sync.relaido.jp
 0.0.0.0 tracker.relaido.jp
+#[switchadhub.com]
+0.0.0.0 cdn.switchadhub.com
+0.0.0.0 delivery.g.switchadhub.com
+0.0.0.0 delivery.swid.switchadhub.com
+0.0.0.0 delivery.switchadhub.com
+0.0.0.0 switchadhub.com
+#[crashlytics.com]
+0.0.0.0 api.crashlytics.com
+0.0.0.0 crashlytics.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 update.crashlytics.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -16209,6 +16224,7 @@
 0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 dnemkhkbsdbl.com
 0.0.0.0 docksalmon.com
+0.0.0.0 dogconcurrencesauce.com
 0.0.0.0 domaining.in
 0.0.0.0 domainsponsor.com
 0.0.0.0 domainsteam.de
@@ -16563,6 +16579,7 @@
 0.0.0.0 gtsads.com
 0.0.0.0 gtsmobi.com
 0.0.0.0 guardedschool.com
+0.0.0.0 gumbolersgthb.com
 0.0.0.0 gunggo.com
 0.0.0.0 guppymedia.com
 0.0.0.0 gwallet.com
@@ -18062,7 +18079,6 @@
 0.0.0.0 swesomepop.com
 0.0.0.0 swimslope.com
 0.0.0.0 swissadsolutions.com
-0.0.0.0 switchadhub.com
 0.0.0.0 switchads.com
 0.0.0.0 swordfishdc.com
 0.0.0.0 swordgoose.com
@@ -18934,7 +18950,6 @@
 0.0.0.0 down.nishuoa.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 dynatrace.com
-0.0.0.0 e.crashlytics.com
 0.0.0.0 e2.platform88798.com
 0.0.0.0 edigitalsurvey.com
 0.0.0.0 emltrk.com
@@ -19133,7 +19148,6 @@
 0.0.0.0 referer.pixplug.in
 0.0.0.0 referrer.disqus.com
 0.0.0.0 remyyadan.online.fr
-0.0.0.0 reports.crashlytics.com
 0.0.0.0 reports.ubimo.com
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 richmetrics.com

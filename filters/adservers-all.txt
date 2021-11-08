@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Nov 2021 16:36 UTC+7
-! Version: 2111061636
-! Blocked: 7.035 rules
+! Last modified: 08 Nov 2021 15:01 UTC+7
+! Version: 2111081501
+! Blocked: 7.036 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1548,6 +1548,7 @@
 ||cpaikon.net^
 ||cpmstar.com^
 ||cpx.to^
+||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||crazyegg.com^
 ||creativecdn.com^
@@ -2211,6 +2212,7 @@
 ||supercounters.com^
 ||superfastmediation.com^
 ||supersonicads.com^
+||switchadhub.com^
 ||sworkitads.herokuapp.com^
 ||swrve.com^
 ||t.spot.im^
@@ -4084,6 +4086,7 @@
 ||dnemkhkbsdbl.com^
 ||dnps.com^
 ||docksalmon.com^
+||dogconcurrencesauce.com^
 ||domaining.in^
 ||domainsponsor.com^
 ||domainsteam.de^
@@ -4438,6 +4441,7 @@
 ||gtsads.com^
 ||gtsmobi.com^
 ||guardedschool.com^
+||gumbolersgthb.com^
 ||gunggo.com^
 ||guppymedia.com^
 ||gwallet.com^
@@ -5940,7 +5944,6 @@
 ||swesomepop.com^
 ||swimslope.com^
 ||swissadsolutions.com^
-||switchadhub.com^
 ||switchads.com^
 ||swordfishdc.com^
 ||swordgoose.com^
@@ -6646,7 +6649,6 @@
 ||down.nishuoa.com^
 ||dualstack-logs.amap.com^
 ||dynatrace.com^
-||e.crashlytics.com^
 ||e2.platform88798.com^
 ||edigitalsurvey.com^
 ||emltrk.com^
@@ -6845,7 +6847,6 @@
 ||referer.pixplug.in^
 ||referrer.disqus.com^
 ||remyyadan.online.fr^
-||reports.crashlytics.com^
 ||reports.ubimo.com^
 ||reveal.clearbit.com^
 ||richmetrics.com^
