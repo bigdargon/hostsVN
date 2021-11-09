@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Nov 2021 15:01 UTC+7
-# Version: 2111081501
-# Blocked: 18.144 domains
+# Last modified: 09 Nov 2021 09:30 UTC+7
+# Version: 2111090930
+# Blocked: 18.138 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10168,12 +10168,6 @@
 0 cdn.iqzone.com
 0 iqzone.com
 0 pssvc.iqzone.com
-0 apps.outfit7.com
-0 apps2.outfit7.com
-0 events-api-cn.outfit7.com
-0 events-api-ea.outfit7.com
-0 events-api-ew1.outfit7.com
-0 events-api.outfit7.com
 0 eu-adsrv-cached.rtbsuperhub.com
 0 eu-adsrv-direct.rtbsuperhub.com
 0 eu-adsrv.rtbsuperhub.com

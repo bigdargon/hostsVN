@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 08 Nov 2021 15:01 UTC+7
-! Version: 2111081501
-! Blocked: 7.036 rules
+! Last modified: 09 Nov 2021 09:30 UTC+7
+! Version: 2111090930
+! Blocked: 7.034 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1366,7 +1366,6 @@
 ||appnext.com^
 ||appnexus.com^
 ||appodealx.com^
-||apps*.outfit7.com^
 ||appsee.com^
 ||apptimize.com^
 ||apptornado.com^
@@ -1631,7 +1630,6 @@
 ||ethicalads.io^
 ||eventgateway.soundcloud.com^
 ||eventlogger.soundcloud.com^
-||events-api*.outfit7.com^
 ||events-collector.spot.im^
 ||everesttech.net^
 ||evidon.com^
