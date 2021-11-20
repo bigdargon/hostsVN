@@ -1897,6 +1897,7 @@
 0.0.0.0 rtb3.doubleverify.com
 0.0.0.0 rtbcdn.doubleverify.com
 0.0.0.0 tps.doubleverify.com
+0.0.0.0 tps30.doubleverify.com
 0.0.0.0 vast.doubleverify.com
 0.0.0.0 vpaid.doubleverify.com
 0.0.0.0 vtrk.doubleverify.com
@@ -9568,3 +9569,32 @@
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 update.crashlytics.com
+#[unblockia.com]
+0.0.0.0 api.unblockia.com
+0.0.0.0 cdn.unblockia.com
+0.0.0.0 r.unblockia.com
+0.0.0.0 unblockia.com
+#[adclickmedia.com]
+0.0.0.0 adclickmedia.com
+0.0.0.0 en.adclickmedia.com
+0.0.0.0 network.adclickmedia.com
+0.0.0.0 ru.adclickmedia.com
+0.0.0.0 tracking.adclickmedia.com
+0.0.0.0 www.adclickmedia.com
+#[admixer.net]
+0.0.0.0 admixer.net
+0.0.0.0 cdn.admixer.net
+0.0.0.0 inv-dmp.admixer.net
+0.0.0.0 inv-nets-eu-s2.admixer.net
+0.0.0.0 inv-nets-eu.admixer.net
+0.0.0.0 inv-nets-nyc-s1.admixer.net
+0.0.0.0 inv-nets.admixer.net
+#[v*.denakop.com]
+0.0.0.0 v2.denakop.com
+0.0.0.0 v3.denakop.com
+#[premiumads.com.br]
+0.0.0.0 api.premiumads.com.br
+0.0.0.0 premiumads.com.br
+0.0.0.0 static.premiumads.com.br
+0.0.0.0 tags.premiumads.com.br
+0.0.0.0 www.premiumads.com.br
