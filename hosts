@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 20 Nov 2021 15:13 UTC+7
-# Version: 2111201513
-# Blocked: 15.017 domains
+# Last modified: 21 Nov 2021 19:33 UTC+7
+# Version: 2111211933
+# Blocked: 14.982 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -178,7 +178,6 @@
 0.0.0.0 ads.gmodules.com
 0.0.0.0 ads.google.com
 0.0.0.0 ads.youtube.com
-0.0.0.0 fundingchoices.google.com
 0.0.0.0 mail-ads.google.com
 #[telemetry.microsoft.com]
 0.0.0.0 oca.telemetry.microsoft.com
@@ -285,11 +284,6 @@
 0.0.0.0 rcm-images.amazon.com
 0.0.0.0 rcm.amazon.com
 0.0.0.0 uedata.amazon.com
-#[fls-*.amazon.com]
-0.0.0.0 fls-cn.amazon.com
-0.0.0.0 fls-eu.amazon.com
-0.0.0.0 fls-fe.amazon.com
-0.0.0.0 fls-na.amazon.com
 #[mads*.amazon.com]
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 mads.amazon.com
@@ -509,7 +503,6 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads.twitter.com
-0.0.0.0 analytics.twitter.com
 #[ads-twitter.com]
 0.0.0.0 ads-twitter.com
 0.0.0.0 static.ads-twitter.com
@@ -667,16 +660,6 @@
 0.0.0.0 tmk.smartadserver.com
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www3.smartadserver.com
-#[sascdn.com]
-0.0.0.0 ak-ns.sascdn.com
-0.0.0.0 ak.sascdn.com
-0.0.0.0 ced-ns.sascdn.com
-0.0.0.0 ced.sascdn.com
-0.0.0.0 ec-ns.sascdn.com
-0.0.0.0 ec.sascdn.com
-0.0.0.0 r.sascdn.com
-0.0.0.0 sascdn.com
-0.0.0.0 www.sascdn.com
 #[styria-digital.com]
 0.0.0.0 smart.styria-digital.com
 0.0.0.0 static.styria-digital.com
@@ -1118,25 +1101,6 @@
 0.0.0.0 widget.sharethis.com
 0.0.0.0 ws.sharethis.com
 0.0.0.0 www.sharethis.com
-#[apptimize.com]
-0.0.0.0 apptimize.com
-0.0.0.0 brahe.apptimize.com
-0.0.0.0 get.apptimize.com
-0.0.0.0 go.apptimize.com
-0.0.0.0 mapi.apptimize.com
-0.0.0.0 maven.apptimize.com
-0.0.0.0 md-a-d.apptimize.com
-0.0.0.0 md-a-s.apptimize.com
-0.0.0.0 md-i-c.apptimize.com
-0.0.0.0 md-i-d.apptimize.com
-0.0.0.0 md-i-s.apptimize.com
-0.0.0.0 plank.apptimize.com
-0.0.0.0 sdk.apptimize.com
-0.0.0.0 tycho.apptimize.com
-0.0.0.0 user-data.apptimize.com
-0.0.0.0 www.apptimize.com
-0.0.0.0 www2.apptimize.com
-0.0.0.0 www3.apptimize.com
 #[wootric.com]
 0.0.0.0 api-staging.wootric.com
 0.0.0.0 api.staging.wootric.com
@@ -12515,6 +12479,7 @@
 0.0.0.0 bannermall.com
 0.0.0.0 bannermarkt.nl
 0.0.0.0 bannerpower.com
+0.0.0.0 banners.adfox.ru
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
@@ -13313,7 +13278,6 @@
 0.0.0.0 futuristicfairies.com
 0.0.0.0 fuzzyflavor.com
 0.0.0.0 fuzzyweather.com
-0.0.0.0 fwmrm.net
 0.0.0.0 fxclix.com
 0.0.0.0 fxstyle.net
 0.0.0.0 g2afse.com
@@ -14582,7 +14546,6 @@
 0.0.0.0 salinasbhut.com
 0.0.0.0 saltinourhairtv.com
 0.0.0.0 samplerpouch.com
-0.0.0.0 samsungacr.com
 0.0.0.0 samsungads.com
 0.0.0.0 sandsitedrhec.club
 0.0.0.0 saysidewalk.com
@@ -15690,7 +15653,6 @@
 0.0.0.0 fathomseo.com
 0.0.0.0 firsthive.com
 0.0.0.0 flagcounter.com
-0.0.0.0 freegeoip.net
 0.0.0.0 front.optimonk.com
 0.0.0.0 fullstory.com
 0.0.0.0 g.3gl.net

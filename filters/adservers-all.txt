@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Nov 2021 15:13 UTC+7
-! Version: 2111201513
-! Blocked: 6.672 rules
+! Last modified: 21 Nov 2021 19:33 UTC+7
+! Version: 2111211933
+! Blocked: 6.664 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1255,7 +1255,6 @@
 ||analytics.query.yahoo.com^
 ||analytics.spotify.com^
 ||analytics.tiktok.com^
-||analytics.twitter.com^
 ||analytics.yahoo.com^
 ||andbeyond.media^
 ||aniview.com^
@@ -1292,7 +1291,6 @@
 ||appnext.com^
 ||appnexus.com^
 ||appodealx.com^
-||apptimize.com^
 ||apptornado.com^
 ||apxadtracking.net^
 ||aqua-adserver.com^
@@ -1549,8 +1547,6 @@
 ||fivecdm.com^
 ||flash.sec.intl.miui.com^
 ||flashtalking.com^
-||fls-*.amazon.*^
-||fls-*.amazon.com^
 ||flurry.cachefly.net^
 ||flurry.com^
 ||flux-adserver.com^
@@ -1559,7 +1555,6 @@
 ||fqtag.com^
 ||freeskreen.com^
 ||freshmarketer.com^
-||fundingchoices.google.com^
 ||fyber.com^
 ||gads*s.com^
 ||gads*z.com^
@@ -1946,7 +1941,6 @@
 ||sail-horizon.com^
 ||salesmanago.pl^
 ||sam.msn.com^
-||sascdn.com^
 ||scanscout.com^
 ||scarabresearch.com^
 ||scorecardresearch.com^
@@ -3262,6 +3256,7 @@
 ||bannermall.com^
 ||bannermarkt.nl^
 ||bannerpower.com^
+||banners.adfox.ru^
 ||banners.adultfriendfinder.com^
 ||banners.amigos.com^
 ||banners.asiafriendfinder.com^
@@ -4061,7 +4056,6 @@
 ||futuristicfairies.com^
 ||fuzzyflavor.com^
 ||fuzzyweather.com^
-||fwmrm.net^
 ||fxclix.com^
 ||fxstyle.net^
 ||g2afse.com^
@@ -5333,7 +5327,6 @@
 ||salinasbhut.com^
 ||saltinourhairtv.com^
 ||samplerpouch.com^
-||samsungacr.com^
 ||samsungads.com^
 ||sandsitedrhec.club^
 ||saysidewalk.com^
@@ -6314,7 +6307,6 @@
 ||fathomseo.com^
 ||firsthive.com^
 ||flagcounter.com^
-||freegeoip.net^
 ||front.optimonk.com^
 ||fullstory.com^
 ||g.3gl.net^
