@@ -1015,7 +1015,7 @@
 0.0.0.0 activity.serving-sys.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bsch.serving-sys.com
-.0.0.0 datacapture.serving-sys.com
+0.0.0.0 datacapture.serving-sys.com
 0.0.0.0 datahub.serving-sys.com
 0.0.0.0 detik.serving-sys.com
 0.0.0.0 dh.serving-sys.com
