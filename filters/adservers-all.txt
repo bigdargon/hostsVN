@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 Nov 2021 10:02 UTC+7
-! Version: 2111261002
-! Blocked: 6.664 rules
+! Last modified: 28 Nov 2021 20:02 UTC+7
+! Version: 2111282002
+! Blocked: 6.693 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -57,6 +57,7 @@
 ||ants.vn^
 ||anymind360-com.cdn.ampproject.org^
 ||anymind360.com^
+||api.widget.zalo.me^
 ||atdnetwork.com^
 ||autoads.asia^
 ||banners-gallery.coccoc.com^
@@ -79,6 +80,7 @@
 ||codon.vn^
 ||contineljs.com^
 ||dable.io^
+||daleriki.com^
 ||donglogs.com^
 ||eclick.vn^
 ||eva-ad.24hstatic.com^
@@ -122,6 +124,7 @@
 ||metrics.coccoc.com^
 ||mobilead.vn^
 ||mobio.vn^
+||modestsunf.com^
 ||myad.vn^
 ||nanda.vn^
 ||native-ad.net^
@@ -136,6 +139,7 @@
 ||oncustomer.asia^
 ||onfluencer.net^
 ||onmarketer.net^
+||page.widget.zalo.me^
 ||partner.accesstrade.vn^
 ||phanquang.vn^
 ||philacct.com^
@@ -201,6 +205,7 @@
 ||vietnamnetad.vn^
 ||vnnayngaytin.vn^
 ||wg.zaloapp.com^
+||widget.chat.zalo.me^
 ||yeah1media.vn^
 ||yeah1publishing.com^
 ||yoads.net^
@@ -418,6 +423,8 @@
 ||sv-static-lottery.headlines.pw^
 ||sv-static1-lottery.headlines.pw^
 ||syncwowsails.com^
+||tkpopup.asia^
+||tkpopup.vn^
 ||toppage.vn^
 ||trenddigital.vn^
 ||truoctran.com^
@@ -641,7 +648,6 @@
 ||widget.subiz.xyz^
 ||zigzag.vn^
 ||zlog.zingmp3.vn^
-||manclub.game^
 ||1126bet.com^
 ||11bet.com^
 ||11bet.net^
@@ -691,6 +697,7 @@
 ||b52.win^
 ||bcb80.com^
 ||bestcacuoc8.com^
+||bet66.com^
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
@@ -713,6 +720,7 @@
 ||debet.com^
 ||debet.top^
 ||dfchoingay.com^
+||ee66.com^
 ||eurofun88.com^
 ||fa88.win^
 ||fabet.com^
@@ -782,6 +790,11 @@
 ||kubet77.win^
 ||kubet9.com^
 ||kubet9.net^
+||kuclub9.com^
+||kufun.live^
+||kufun.me^
+||kufun.site^
+||kufun.win^
 ||letou8868.com^
 ||lixi88.info^
 ||lixi888.online^
@@ -805,6 +818,7 @@
 ||macau.club^
 ||macauclub.fun^
 ||man.club^
+||manclub.game^
 ||manclub.live^
 ||mansion66.com^
 ||may88.club^
@@ -873,6 +887,7 @@
 ||sun.win^
 ||sv88.com^
 ||t8betvip.com^
+||ta88.com^
 ||tai789.net^
 ||taib52.club^
 ||taimacau.club^
@@ -974,6 +989,7 @@
 ||tammenaa.com^
 ||thseaeing.fun^
 ||ucesreferre.club^
+||uqoxh.icu^
 ||vongquaymienphi.net^
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
@@ -1002,6 +1018,7 @@
 ||a8.net^
 ||aaddcount.com^
 ||aan.amazon.com^
+||aarth.net^
 ||aatkit.com^
 ||aax-eu-dub.amazon.com^
 ||aax-us-iad.amazon.com^
@@ -1488,6 +1505,7 @@
 ||djaxadserver.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dm-event.net^
+||dmzjmp.com^
 ||domnovrek.com^
 ||dotmetrics.net^
 ||dotomi.com^
@@ -1702,6 +1720,7 @@
 ||loopme.me^
 ||lsosad.com^
 ||luckyorange.com^
+||luckyorange.net^
 ||m-adash.m.taobao.com^
 ||mads*.amazon.com^
 ||mads*z.com^
@@ -3713,6 +3732,7 @@
 ||dadsimz.com^
 ||dadslims.com^
 ||daedaelousscri.com^
+||daijopimplo.com^
 ||dakic-ia-300.com^
 ||damdoor.com^
 ||danban.com^
@@ -4085,12 +4105,14 @@
 ||gladiol9us10.com^
 ||glassesoftruth.com^
 ||glassmilheart.com^
+||glersakr.com^
 ||glixaing.com^
 ||globalismedia.com^
 ||globaltakeoff.net^
 ||globaltrack.com^
 ||globe7.com^
 ||globus-inter.com^
+||glootang.net^
 ||glossysense.com^
 ||glugreez.com^
 ||gmads.net^
@@ -4173,6 +4195,7 @@
 ||hgzuqrtzt.com^
 ||hh-btr.com^
 ||hidden.gogoceleb.com^
+||hidelen.com^
 ||higherincomparablehandicraft.com^
 ||highfalutinroom.com^
 ||highmaidfhr.com^
@@ -4392,6 +4415,7 @@
 ||jokedollars.com^
 ||jomtingi.net^
 ||jpjmpqaupc.com^
+||jqtqqnen.top^
 ||js.pusher.com^
 ||js.wpadmngr.com^
 ||js.wpnsrv.com^
@@ -5034,6 +5058,7 @@
 ||pocitadlo.cz^
 ||pointroll.com^
 ||pokkt.com^
+||pokreess.com^
 ||pontiflex.com^
 ||pop-under.ru^
 ||pop.bid^
@@ -5069,6 +5094,7 @@
 ||pre4sentre8dhf.com^
 ||precisioncounter.com^
 ||predictad.com^
+||predictiondexchange.com^
 ||premium-offers.com^
 ||premiumvertising.com^
 ||presbanise.pw^
@@ -6297,6 +6323,7 @@
 ||event.stat.wedobest.com.cn^
 ||event.wedobest.com.cn^
 ||events.apester.com^
+||events.attentivemobile.com^
 ||events.jora.com^
 ||events.mapbox.com^
 ||events.redditmedia.com^
@@ -6412,6 +6439,7 @@
 ||metrics.redgifs.com^
 ||metrics.roblox.com^
 ||metrics.sdkbox.com^
+||mktoresp.com^
 ||mlog.appguard.co.kr^
 ||mlog.hiido.com^
 ||moatpixel.com^
@@ -6529,6 +6557,7 @@
 ||stathat.com^
 ||static.intentarget.com^
 ||static.leaddyno.com^
+||static.site24x7rum.com^
 ||stats.apester.com^
 ||stats.betradar.com^
 ||stats.playrix.com^

@@ -400,7 +400,10 @@
 #[zalo.me]
 0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.zalo.me
+0.0.0.0 api.widget.zalo.me
+0.0.0.0 page.widget.zalo.me
 0.0.0.0 px.za.zalo.me
+0.0.0.0 widget.chat.zalo.me
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 log.api.zaloapp.com
@@ -1324,3 +1327,9 @@
 0.0.0.0 u-dmp.urekamedia.com
 0.0.0.0 ulead.urekamedia.com
 0.0.0.0 www.urekamedia.com
+#[modestsunf.com]
+0.0.0.0 dest.modestsunf.com
+0.0.0.0 modestsunf.com
+#[daleriki.com]
+0.0.0.0 daleriki.com
+0.0.0.0 iki.daleriki.com

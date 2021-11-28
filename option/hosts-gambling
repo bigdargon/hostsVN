@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 26 Nov 2021 10:02 UTC+7
-# Version: 2111261002
-# Blocked: 3.169 domains
+# Last modified: 28 Nov 2021 20:02 UTC+7
+# Version: 2111282002
+# Blocked: 3.183 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -938,7 +938,21 @@
 0.0.0.0 789clubs.club
 0.0.0.0 ad.789clubs.club
 0.0.0.0 manclub.game
+0.0.0.0 ta88.com
+0.0.0.0 t1.ta88.com
+0.0.0.0 t2.ta88.com
+0.0.0.0 ee66.com
+0.0.0.0 www.ee66.com
+0.0.0.0 bet66.com
+0.0.0.0 www.bet66.com
+0.0.0.0 kuclub9.com
+0.0.0.0 kufun.win
+0.0.0.0 kufun.live
+0.0.0.0 kufun.site
+0.0.0.0 kufun.me
 # --- Block other gameblingVN ---
+0.0.0.0 978bet3.com
+0.0.0.0 www.978bet3.com
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
 0.0.0.0 1gom.com

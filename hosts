@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 26 Nov 2021 10:02 UTC+7
-# Version: 2111261002
-# Blocked: 14.983 domains
+# Last modified: 28 Nov 2021 20:02 UTC+7
+# Version: 2111282002
+# Blocked: 15.014 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9574,6 +9574,20 @@
 0.0.0.0 static.premiumads.com.br
 0.0.0.0 tags.premiumads.com.br
 0.0.0.0 www.premiumads.com.br
+#[luckyorange.net]
+0.0.0.0 cs.luckyorange.net
+0.0.0.0 luckyorange.net
+0.0.0.0 settings.luckyorange.net
+0.0.0.0 upload.luckyorange.net
+#[dmzjmp.com]
+0.0.0.0 creative.dmzjmp.com
+0.0.0.0 go.dmzjmp.com
+0.0.0.0 video.dmzjmp.com
+#[aarth.net]
+0.0.0.0 aarth.net
+0.0.0.0 madserve.aarth.net
+0.0.0.0 push.aarth.net
+0.0.0.0 rtb.aarth.net
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -9976,7 +9990,10 @@
 #[zalo.me]
 0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.zalo.me
+0.0.0.0 api.widget.zalo.me
+0.0.0.0 page.widget.zalo.me
 0.0.0.0 px.za.zalo.me
+0.0.0.0 widget.chat.zalo.me
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 log.api.zaloapp.com
@@ -10900,6 +10917,12 @@
 0.0.0.0 u-dmp.urekamedia.com
 0.0.0.0 ulead.urekamedia.com
 0.0.0.0 www.urekamedia.com
+#[modestsunf.com]
+0.0.0.0 dest.modestsunf.com
+0.0.0.0 modestsunf.com
+#[daleriki.com]
+0.0.0.0 daleriki.com
+0.0.0.0 iki.daleriki.com
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
@@ -11100,6 +11123,8 @@
 0.0.0.0 sv-static-lottery.headlines.pw
 0.0.0.0 sv-static1-lottery.headlines.pw
 0.0.0.0 syncwowsails.com
+0.0.0.0 tkpopup.asia
+0.0.0.0 tkpopup.vn
 0.0.0.0 toppage.vn
 0.0.0.0 trenddigital.vn
 0.0.0.0 truoctran.com
@@ -11366,6 +11391,7 @@
 0.0.0.0 ucesreferre.club
 0.0.0.0 vongquaymienphi.net
 0.0.0.0 www.facebookz.co
+0.0.0.0 www.uqoxh.icu
 0.0.0.0 www.vongquaymienphi.net
 # --- Block popupVN ---
 0.0.0.0 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -12936,6 +12962,7 @@
 0.0.0.0 dadsimz.com
 0.0.0.0 dadslims.com
 0.0.0.0 daedaelousscri.com
+0.0.0.0 daijopimplo.com
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 damdoor.com
 0.0.0.0 danban.com
@@ -13307,12 +13334,14 @@
 0.0.0.0 gladiol9us10.com
 0.0.0.0 glassesoftruth.com
 0.0.0.0 glassmilheart.com
+0.0.0.0 glersakr.com
 0.0.0.0 glixaing.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
 0.0.0.0 globaltrack.com
 0.0.0.0 globe7.com
 0.0.0.0 globus-inter.com
+0.0.0.0 glootang.net
 0.0.0.0 glossysense.com
 0.0.0.0 glugreez.com
 0.0.0.0 gmads.net
@@ -13395,6 +13424,7 @@
 0.0.0.0 hgzuqrtzt.com
 0.0.0.0 hh-btr.com
 0.0.0.0 hidden.gogoceleb.com
+0.0.0.0 hidelen.com
 0.0.0.0 higherincomparablehandicraft.com
 0.0.0.0 highfalutinroom.com
 0.0.0.0 highmaidfhr.com
@@ -13614,6 +13644,7 @@
 0.0.0.0 jokedollars.com
 0.0.0.0 jomtingi.net
 0.0.0.0 jpjmpqaupc.com
+0.0.0.0 jqtqqnen.top
 0.0.0.0 js.pusher.com
 0.0.0.0 js.wpadmngr.com
 0.0.0.0 js.wpnsrv.com
@@ -14253,6 +14284,7 @@
 0.0.0.0 pocitadlo.cz
 0.0.0.0 pointroll.com
 0.0.0.0 pokkt.com
+0.0.0.0 pokreess.com
 0.0.0.0 pontiflex.com
 0.0.0.0 pop-under.ru
 0.0.0.0 pop.bid
@@ -14288,6 +14320,7 @@
 0.0.0.0 pre4sentre8dhf.com
 0.0.0.0 precisioncounter.com
 0.0.0.0 predictad.com
+0.0.0.0 predictiondexchange.com
 0.0.0.0 premium-offers.com
 0.0.0.0 premiumvertising.com
 0.0.0.0 presbanise.pw
@@ -15643,6 +15676,7 @@
 0.0.0.0 event.stat.wedobest.com.cn
 0.0.0.0 event.wedobest.com.cn
 0.0.0.0 events.apester.com
+0.0.0.0 events.attentivemobile.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.redditmedia.com
@@ -15758,6 +15792,7 @@
 0.0.0.0 metrics.redgifs.com
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.sdkbox.com
+0.0.0.0 mktoresp.com
 0.0.0.0 mlog.appguard.co.kr
 0.0.0.0 mlog.hiido.com
 0.0.0.0 moatpixel.com
@@ -15875,6 +15910,7 @@
 0.0.0.0 stathat.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.leaddyno.com
+0.0.0.0 static.site24x7rum.com
 0.0.0.0 stats.apester.com
 0.0.0.0 stats.betradar.com
 0.0.0.0 stats.playrix.com
