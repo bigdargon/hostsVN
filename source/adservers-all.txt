@@ -133,6 +133,7 @@ ads-sg.tiktok.com
 ads-twitter.com
 ads.*.yahoo.com
 ads.bing.com
+ads.facebook.com
 ads.gmodules.com
 ads.google.com
 ads.heytapmobi.com
@@ -209,6 +210,8 @@ advbanners.global.ssl.fastly.net
 advergine.com
 advergine.ru
 advertica.ae
+advertising-api-eu.amazon.com
+advertising-api.amazon.com
 advertising.apple.com
 advertising.com
 advertising.microsoft.com
@@ -619,6 +622,7 @@ h-adashx4sg.ut.taobao.com
 hads*s.com
 heapanalytics.com
 heatmap.it
+hetaruvg.com
 hetaruwg.com
 heyzap.com
 hgbasics.com
@@ -724,8 +728,9 @@ lsosad.com
 luckyorange.com
 luckyorange.net
 m-adash.m.taobao.com
-mads*.amazon.com
 mads*z.com
+mads-eu.amazon.com
+mads.amazon.com
 mahimeta.com
 mail-ads.google.com
 mainadv.com
@@ -756,7 +761,10 @@ meitustat.com
 mellowads.com
 metok.sys.miui.com
 metrics-logger.spot.im
+metrics.client-eng.a2z.com
 metrics.cnn.com
+metrics.icloud.com
+metrics.mzstatic.com
 metrics.samba.tv
 metrika.yandex.ru
 mfadsrvr.com
@@ -881,6 +889,9 @@ premiumads.com.br
 privatestats.whatsapp.net
 pro-market.net
 prod-collecticon.outlookmobile.com
+prod.cm.publishers.advertising.a2z.com
+prod.pr.analytics.console.aws.a2z.com
+prod.pw.analytics.console.aws.a2z.com
 promoted.soundcloud.com
 promotionalads.yahoo.co.jp
 propellerads.com
@@ -968,6 +979,7 @@ scorecardresearch.com
 sdk-diagnostics.prd.mz.internal.unity3d.com
 sdk-diagnostics.stg.mz.internal.unity3d.com
 sdklog.tvstore.opera.com
+securemetrics.apple.com
 segment.com
 segment.io
 servebom.com
@@ -1032,6 +1044,7 @@ sumome.com
 supercounters.com
 superfastmediation.com
 supersonicads.com
+supportmetrics.apple.com
 switchadhub.com
 sworkitads.herokuapp.com
 swrve.com
@@ -1046,6 +1059,7 @@ tapjoyads.com
 taplytics.com
 taxel.jp
 teads.tv
+telemetry.insights.video.a2z.com
 telemetry.microsoft.com
 telemetry.soundcloud.com
 tenmax.io
@@ -5306,6 +5320,7 @@ counter.yandro.ru
 crittercism.com
 csdian.net
 d24n15hnbwhuhn.cloudfront.net
+d2klx87bgzngce.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d38fey2d93vryi.cloudfront.net
 d4n.platformd.com

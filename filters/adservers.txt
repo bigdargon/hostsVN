@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Nov 2021 20:02 UTC+7
-! Version: 2111282002
-! Blocked: 994 rules
+! Last modified: 05 Dec 2021 21:15 UTC+7
+! Version: 2112052115
+! Blocked: 1.002 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -65,6 +65,7 @@
 ||blogstatistics.sapoapps.vn^
 ||bongdadem.net^
 ||brand.zing.vn^
+||button-follow.zalo.me^
 ||bwstatistics.sapoapps.vn^
 ||cdn-bongdadem-net.cdn.ampproject.org^
 ||cdn-qc.coccoc.com^
@@ -77,6 +78,7 @@
 ||cityadstrack.com^
 ||cleverads.vn^
 ||clevernet.vn^
+||cococx.com^
 ||codon.vn^
 ||contineljs.com^
 ||dable.io^
@@ -649,6 +651,7 @@
 ||zigzag.vn^
 ||zlog.zingmp3.vn^
 ||1126bet.com^
+||11bet.club^
 ||11bet.com^
 ||11bet.net^
 ||11bet.us^
@@ -716,6 +719,7 @@
 ||casino888vn.com^
 ||comebetvn3.com^
 ||comebetvn9.com^
+||dabet.me^
 ||datcuoc247.com^
 ||debet.com^
 ||debet.top^
@@ -753,6 +757,7 @@
 ||five88.net^
 ||fivevn.net^
 ||fun1118.com^
+||funtructuyen88.com^
 ||gamebai.club^
 ||gaznbike.com^
 ||gdwbetvn888.com^
@@ -872,6 +877,7 @@
 ||sbc31.com^
 ||sieubomtan.com^
 ||sin88.biz^
+||sin88.club^
 ||sin88.com^
 ||sin88.mobi^
 ||sky88.com^
@@ -894,6 +900,7 @@
 ||taiv8.com^
 ||taiv8.info^
 ||tangsoc.com^
+||tf88luck.com^
 ||tf88v.com^
 ||thethaodabet.com^
 ||thethaofb88.com^
@@ -926,6 +933,7 @@
 ||vn88.casino^
 ||vn88.club^
 ||vn88.com^
+||vnd188.app^
 ||vndbet88.com^
 ||vngame66.com^
 ||vnloto.com^

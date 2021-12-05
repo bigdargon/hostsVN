@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 28 Nov 2021 20:02 UTC+7
-# Version: 2111282002
-# Blocked: 15.014 domains
+# Last modified: 05 Dec 2021 21:15 UTC+7
+# Version: 2112052115
+# Blocked: 15.039 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -17,8 +17,12 @@
 0 advertising.apple.com
 0 api-adservices.apple.com
 0 books-analytics-events.apple.com
+0 metrics.icloud.com
+0 metrics.mzstatic.com
 0 notes-analytics-events.apple.com
+0 securemetrics.apple.com
 0 stocks-analytics-events.apple.com
+0 supportmetrics.apple.com
 0 weather-analytics-events.apple.com
 0 iadsdk.apple.com
 0 ca.iadsdk.apple.com
@@ -254,11 +258,13 @@
 0 aan.amazon.com
 0 aax-eu-dub.amazon.com
 0 aax-us-iad.amazon.com
+0 advertising-api-eu.amazon.com
+0 advertising-api.amazon.com
+0 mads-eu.amazon.com
+0 mads.amazon.com
 0 rcm-images.amazon.com
 0 rcm.amazon.com
 0 uedata.amazon.com
-0 mads-eu.amazon.com
-0 mads.amazon.com
 0 device-metrics-us-2.amazon.com
 0 device-metrics-us.amazon.com
 0 ws.assoc-amazon.com
@@ -362,6 +368,15 @@
 0 z-na.amazon-adsystems.com
 0 cloudfront-labs.amazonaws.com
 0 mobileanalytics.us-east-1.amazonaws.com
+0 prod.cm.publishers.advertising.a2z.com
+0 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
+0 us-east-1.prod.pr.analytics.console.aws.a2z.com
+0 us-east-2.prod.pr.analytics.console.aws.a2z.com
+0 us-west-2.prod.pr.analytics.console.aws.a2z.com
+0 us-east-1.prod.pw.analytics.console.aws.a2z.com
+0 metrics.client-eng.a2z.com
+0 global.telemetry.insights.video.a2z.com
+0 us-east-1.telemetry.insights.video.a2z.com
 0 platform.tumblr.com
 0 ls.srvcs.tumblr.com
 0 px.srvcs.tumblr.com
@@ -439,6 +454,7 @@
 0 static.affiliate.rakuten.co.jp
 0 xml.affiliate.rakuten.co.jp
 0 rat.rakuten.co.jp
+0 ads.facebook.com
 0 an.facebook.com
 0 pixel.facebook.com
 0 o.update.fbsbx.com
@@ -8664,6 +8680,8 @@
 0 madserve.aarth.net
 0 push.aarth.net
 0 rtb.aarth.net
+0 ak.hetaruvg.com
+0 hetaruvg.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -9037,6 +9055,7 @@
 0 ads.platform.zalo.me
 0 ads.zalo.me
 0 api.widget.zalo.me
+0 button-follow.zalo.me
 0 page.widget.zalo.me
 0 px.za.zalo.me
 0 widget.chat.zalo.me
@@ -9856,8 +9875,13 @@
 0 www.urekamedia.com
 0 dest.modestsunf.com
 0 modestsunf.com
+0 cdnstatic.daleriki.com
 0 daleriki.com
 0 iki.daleriki.com
+0 ccx.cococx.com
+0 cd.cococx.com
+0 cdp.cococx.com
+0 gs.cococx.com
 0 12signup.com
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
@@ -14580,6 +14604,7 @@
 0 crittercism.com
 0 csdian.net
 0 d24n15hnbwhuhn.cloudfront.net
+0 d2klx87bgzngce.cloudfront.net
 0 d2wy8f7a9ursnm.cloudfront.net
 0 d38fey2d93vryi.cloudfront.net
 0 d4n.platformd.com

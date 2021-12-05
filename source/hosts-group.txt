@@ -3,8 +3,12 @@
 0.0.0.0 advertising.apple.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 securemetrics.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 supportmetrics.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 #[iadsdk.apple.com]
 0.0.0.0 iadsdk.apple.com
@@ -269,12 +273,13 @@
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 advertising-api.amazon.com
+0.0.0.0 mads-eu.amazon.com
+0.0.0.0 mads.amazon.com
 0.0.0.0 rcm-images.amazon.com
 0.0.0.0 rcm.amazon.com
 0.0.0.0 uedata.amazon.com
-#[mads*.amazon.com]
-0.0.0.0 mads-eu.amazon.com
-0.0.0.0 mads.amazon.com
 #[device-metrics-*.amazon.com]
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
@@ -384,6 +389,16 @@
 #[amazonaws.com]
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
+#[a2z.com]
+0.0.0.0 prod.cm.publishers.advertising.a2z.com
+0.0.0.0 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
+0.0.0.0 us-east-2.prod.pr.analytics.console.aws.a2z.com
+0.0.0.0 us-west-2.prod.pr.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.prod.pw.analytics.console.aws.a2z.com
+0.0.0.0 metrics.client-eng.a2z.com
+0.0.0.0 global.telemetry.insights.video.a2z.com
+0.0.0.0 us-east-1.telemetry.insights.video.a2z.com
 #[tumblr]
 0.0.0.0 platform.tumblr.com
 0.0.0.0 ls.srvcs.tumblr.com
@@ -475,6 +490,7 @@
 0.0.0.0 xml.affiliate.rakuten.co.jp
 0.0.0.0 rat.rakuten.co.jp
 #[facebook]
+0.0.0.0 ads.facebook.com
 0.0.0.0 an.facebook.com
 0.0.0.0 pixel.facebook.com
 #[update.fbsbx.com]
@@ -9576,3 +9592,6 @@
 0.0.0.0 madserve.aarth.net
 0.0.0.0 push.aarth.net
 0.0.0.0 rtb.aarth.net
+#[hetaruvg.com]
+0.0.0.0 ak.hetaruvg.com
+0.0.0.0 hetaruvg.com
