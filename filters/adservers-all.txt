@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Dec 2021 21:15 UTC+7
-! Version: 2112052115
-! Blocked: 6.716 rules
+! Last modified: 07 Dec 2021 19:03 UTC+7
+! Version: 2112071903
+! Blocked: 6.731 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -229,6 +229,7 @@
 ||12signup.com^
 ||5734a40f2d.vws.vegacdn.vn^
 ||703531862.vws.vegacdn.vn^
+||95395c25b4.vws.vegacdn.vn^
 ||ad-admin.vnay.vn^
 ||ad.24h.com.vn^
 ||ad.chieuhoa.com^
@@ -379,6 +380,7 @@
 ||interactive.tinnhanhchungkhoan.vn^
 ||k8trangphim.com^
 ||ketquaxosotoancau.org^
+||lamthong.net^
 ||landingpagelagi.vn^
 ||link.cado.pro^
 ||lottery.headlines.pw^
@@ -790,6 +792,7 @@
 ||kidslovemartialartsomahane.com^
 ||kingbet86.info^
 ||ktoviet.com^
+||ku6110.net^
 ||kubet.biz^
 ||kubet.life^
 ||kubet77.win^
@@ -812,6 +815,7 @@
 ||lucky88.com^
 ||lucky88.live^
 ||lucky88.net^
+||lucky88.tv^
 ||lucky88.win^
 ||lux39.club^
 ||m883d.com^
@@ -860,6 +864,7 @@
 ||oppa88888888.com^
 ||oxbet.club^
 ||oxbet.com^
+||oxbet.net^
 ||playgamefa88.live^
 ||playgo88.asia^
 ||playv8.com^
@@ -986,6 +991,7 @@
 ||cettiarl.com^
 ||drakeesh.com^
 ||facebookz.co^
+||garrena.vn^
 ||irduwhojas.ga^
 ||kaurroot.com^
 ||larpollicwilli.club^
@@ -1382,6 +1388,7 @@
 ||bizographics.com^
 ||bj1*.online^
 ||bkrtx.com^
+||blismedia.com^
 ||blogherads.com^
 ||blueadss.com^
 ||bluekai.com^
@@ -1482,6 +1489,7 @@
 ||criteo.net^
 ||crsspxl.com^
 ||crwdcntrl.net^
+||ctnsnet.com^
 ||customad.cnn.com^
 ||cxense.com^
 ||czilladx.com^
@@ -1734,6 +1742,7 @@
 ||luckyorange.com^
 ||luckyorange.net^
 ||m-adash.m.taobao.com^
+||m6r.eu^
 ||mads*z.com^
 ||mads-eu.amazon.com^
 ||mads.amazon.com^
@@ -2089,6 +2098,7 @@
 ||traq.li^
 ||trazk.com^
 ||tremorhub.com^
+||tribalfusion.com^
 ||triplelift.com^
 ||trk.pinterest.com^
 ||trk2.pinterest.com^
@@ -2146,6 +2156,7 @@
 ||voodoo-analytics.io^
 ||vserv.mobi^
 ||vungle.com^
+||w55c.net^
 ||w88.go.com^
 ||wbidder.online^
 ||wct.link^
@@ -3410,6 +3421,7 @@
 ||blogrush.com^
 ||blogtoplist.se^
 ||blogtopsites.com^
+||bluadz.com^
 ||blueadvertise.com^
 ||bluecava.com^
 ||bluelithium.com^
@@ -3474,6 +3486,7 @@
 ||c43a3cd8f99413891.com^
 ||c44wergiu87heghoconutdx.com^
 ||ca.clcknads.pro^
+||cads.scalemonk.com^
 ||calculatingcircle.com^
 ||calculatingtoothbrush.com^
 ||calculatorcamera.com^
@@ -4154,6 +4167,7 @@
 ||gondolagnome.com^
 ||gooblesdd.com^
 ||goodnotification.net^
+||googleads.github.io^
 ||gopejk.com^
 ||goredi.com^
 ||gorgeousground.com^
@@ -5834,7 +5848,6 @@
 ||trendcounter.com^
 ||trendmd.com^
 ||trhunt.com^
-||tribalfusion.com^
 ||tribedone.org^
 ||trickycelery.com^
 ||trillianu.info^
@@ -5983,7 +5996,6 @@
 ||vt.myvisualiq.net^
 ||vtracy.de^
 ||w3i.com^
-||w55c.net^
 ||wa.and.co.uk^
 ||waisheph.com^
 ||warlog.info^
@@ -6238,6 +6250,7 @@
 ||analytics.publitas.com^
 ||analytics.samdd.me^
 ||analytics.samsungknox.com^
+||analytics.scalemonk.com^
 ||analytics.seg.ritual.com^
 ||analytics.sejda.com^
 ||analytics.shift.agency^
@@ -6695,6 +6708,8 @@
 ||ymtracking.com^
 ||youthfire.com^
 ||zarget.com^
+||978bet3.com^
+||wangcmd368.com^
 ||76236osm1.ru^
 ||abutparker.com^
 ||cdn.cluodlfare.com^

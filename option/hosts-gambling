@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 05 Dec 2021 21:15 UTC+7
-# Version: 2112052115
-# Blocked: 3.198 domains
+# Last modified: 07 Dec 2021 19:03 UTC+7
+# Version: 2112071903
+# Blocked: 3.203 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -963,6 +963,11 @@
 0.0.0.0 d2.dabet.me
 0.0.0.0 d3.dabet.me
 0.0.0.0 vnd188.app
+0.0.0.0 oxbet.net
+0.0.0.0 lucky88.tv
+0.0.0.0 ku6110.net
+0.0.0.0 images.ku6110.net
+0.0.0.0 vn.ku6110.net
 # --- Block other gameblingVN ---
 0.0.0.0 978bet3.com
 0.0.0.0 www.978bet3.com

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Dec 2021 21:15 UTC+7
-# Version: 2112052115
-# Blocked: 15.039 domains
+# Last modified: 07 Dec 2021 19:03 UTC+7
+# Version: 2112071903
+# Blocked: 15.075 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7887,6 +7887,7 @@
 0 adtrack.king.com
 0 servicelayer.king.com
 0 c.clarity.ms
+0 f.clarity.ms
 0 clarity.ms
 0 log.clarity.ms
 0 www.clarity.ms
@@ -8682,6 +8683,34 @@
 0 rtb.aarth.net
 0 ak.hetaruvg.com
 0 hetaruvg.com
+0 cdn.m6r.eu
+0 origin-tracking.m6r.eu
+0 tracking.m6r.eu
+0 a.tribalfusion.com
+0 s.tribalfusion.com
+0 tribalfusion.com
+0 blismedia.com
+0 tr.blismedia.com
+0 ads.w55c.net
+0 cdn.w55c.net
+0 cti.w55c.net
+0 cts.w55c.net
+0 geotags.w55c.net
+0 i.w55c.net
+0 pm.w55c.net
+0 securetags.w55c.net
+0 tags.w55c.net
+0 www.w55c.net
+0 a.ctnsnet.com
+0 apac.ctnsnet.com
+0 cdn.ctnsnet.com
+0 cm.ctnsnet.com
+0 gcm.ctnsnet.com
+0 i.ctnsnet.com
+0 ipac.ctnsnet.com
+0 ius.ctnsnet.com
+0 mobile.ctnsnet.com
+0 uas.ctnsnet.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -9356,6 +9385,7 @@
 0 www.bidgear.com
 0 zabbix.bidgear.com
 0 ad-log.dable.io
+0 r-log.dable.io
 0 admin.dable.io
 0 adx.dable.io
 0 api.dable.io
@@ -9885,6 +9915,7 @@
 0 12signup.com
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
+0 95395c25b4.vws.vegacdn.vn
 0 ad-admin.vnay.vn
 0 ad.24h.com.vn
 0 ad.chieuhoa.com
@@ -10035,6 +10066,7 @@
 0 interactive.tinnhanhchungkhoan.vn
 0 k8trangphim.com
 0 ketquaxosotoancau.org
+0 lamthong.net
 0 landingpagelagi.vn
 0 link.cado.pro
 0 lottery.headlines.pw
@@ -10334,11 +10366,13 @@
 0 cettiarl.com
 0 drakeesh.com
 0 facebookz.co
+0 garrena.vn
 0 irduwhojas.ga
 0 kaurroot.com
 0 larpollicwilli.club
 0 lib1.biz
 0 news-good.net
+0 nhanqua.lienquan.garrena.vn
 0 rituationscardb.info
 0 sacchaeleduk.com
 0 smilitygorb.club
@@ -11572,6 +11606,7 @@
 0 blogrush.com
 0 blogtoplist.se
 0 blogtopsites.com
+0 bluadz.com
 0 blueadvertise.com
 0 bluecava.com
 0 bluelithium.com
@@ -11636,6 +11671,7 @@
 0 c43a3cd8f99413891.com
 0 c44wergiu87heghoconutdx.com
 0 ca.clcknads.pro
+0 cads.scalemonk.com
 0 calculatingcircle.com
 0 calculatingtoothbrush.com
 0 calculatorcamera.com
@@ -12315,6 +12351,7 @@
 0 gondolagnome.com
 0 gooblesdd.com
 0 goodnotification.net
+0 googleads.github.io
 0 gopejk.com
 0 goredi.com
 0 gorgeousground.com
@@ -13992,7 +14029,6 @@
 0 trendcounter.com
 0 trendmd.com
 0 trhunt.com
-0 tribalfusion.com
 0 tribedone.org
 0 trickycelery.com
 0 trillianu.info
@@ -14141,7 +14177,6 @@
 0 vt.myvisualiq.net
 0 vtracy.de
 0 w3i.com
-0 w55c.net
 0 wa.and.co.uk
 0 waisheph.com
 0 warlog.info
@@ -14522,6 +14557,7 @@
 0 analytics.publitas.com
 0 analytics.samdd.me
 0 analytics.samsungknox.com
+0 analytics.scalemonk.com
 0 analytics.seg.ritual.com
 0 analytics.sejda.com
 0 analytics.shift.agency

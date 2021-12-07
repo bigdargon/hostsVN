@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Dec 2021 21:15 UTC+7
-! Version: 2112052115
-! Blocked: 1.002 rules
+! Last modified: 07 Dec 2021 19:03 UTC+7
+! Version: 2112071903
+! Blocked: 1.008 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -229,6 +229,7 @@
 ||12signup.com^
 ||5734a40f2d.vws.vegacdn.vn^
 ||703531862.vws.vegacdn.vn^
+||95395c25b4.vws.vegacdn.vn^
 ||ad-admin.vnay.vn^
 ||ad.24h.com.vn^
 ||ad.chieuhoa.com^
@@ -379,6 +380,7 @@
 ||interactive.tinnhanhchungkhoan.vn^
 ||k8trangphim.com^
 ||ketquaxosotoancau.org^
+||lamthong.net^
 ||landingpagelagi.vn^
 ||link.cado.pro^
 ||lottery.headlines.pw^
@@ -790,6 +792,7 @@
 ||kidslovemartialartsomahane.com^
 ||kingbet86.info^
 ||ktoviet.com^
+||ku6110.net^
 ||kubet.biz^
 ||kubet.life^
 ||kubet77.win^
@@ -812,6 +815,7 @@
 ||lucky88.com^
 ||lucky88.live^
 ||lucky88.net^
+||lucky88.tv^
 ||lucky88.win^
 ||lux39.club^
 ||m883d.com^
@@ -860,6 +864,7 @@
 ||oppa88888888.com^
 ||oxbet.club^
 ||oxbet.com^
+||oxbet.net^
 ||playgamefa88.live^
 ||playgo88.asia^
 ||playv8.com^
@@ -986,6 +991,7 @@
 ||cettiarl.com^
 ||drakeesh.com^
 ||facebookz.co^
+||garrena.vn^
 ||irduwhojas.ga^
 ||kaurroot.com^
 ||larpollicwilli.club^
