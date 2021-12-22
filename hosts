@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 Dec 2021 13:41 UTC+7
-# Version: 2112151341
-# Blocked: 15.074 domains
+# Last modified: 22 Dec 2021 14:04 UTC+7
+# Version: 2112221404
+# Blocked: 15.124 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9641,6 +9641,31 @@
 0.0.0.0 ius.ctnsnet.com
 0.0.0.0 mobile.ctnsnet.com
 0.0.0.0 uas.ctnsnet.com
+#[logs.datadoghq.com]
+0.0.0.0 browser-http-intake.logs.datadoghq.com
+0.0.0.0 mobile-http-intake.logs.datadoghq.com
+0.0.0.0 rum-http-intake.logs.datadoghq.com
+#[log.aliyuncs.com]
+0.0.0.0 hotbit-io-app-logs.cn-hongkong.log.aliyuncs.com
+0.0.0.0 huobi-global-prd.cn-hangzhou.log.aliyuncs.com
+0.0.0.0 tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
+0.0.0.0 tap-snow-hk.cn-hongkong.log.aliyuncs.com
+#[userreport.com]
+0.0.0.0 analytics.userreport.com
+0.0.0.0 bapi.userreport.com
+0.0.0.0 cdn.userreport.com
+0.0.0.0 mock-bapi.userreport.com
+0.0.0.0 sak.userreport.com
+0.0.0.0 sdscdn.userreport.com
+0.0.0.0 sync.userreport.com
+0.0.0.0 tag.userreport.com
+0.0.0.0 userreport.com
+#[mob.com]
+0.0.0.0 api.share.mob.com
+0.0.0.0 m.data.mob.com
+0.0.0.0 c.data.mob.com
+0.0.0.0 api.exc.mob.com
+0.0.0.0 api.adnet.mob.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -11414,6 +11439,7 @@
 0.0.0.0 tracking.tinxe.vn
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietbao.vn
+0.0.0.0 tracking.vtc.vn
 0.0.0.0 tracking.vtcnew.com.vn
 0.0.0.0 tracking.yes24.vn
 0.0.0.0 trackingapi.foody.vn
@@ -11446,6 +11472,7 @@
 0.0.0.0 kaurroot.com
 0.0.0.0 larpollicwilli.club
 0.0.0.0 lib1.biz
+0.0.0.0 member-garena.vn
 0.0.0.0 news-good.net
 0.0.0.0 nhanqua.lienquan.garrena.vn
 0.0.0.0 rituationscardb.info
@@ -11480,6 +11507,7 @@
 0.0.0.0 24log.com
 0.0.0.0 24log.de
 0.0.0.0 24newstech.com
+0.0.0.0 2qj7mq3w4uxe.com
 0.0.0.0 42d61f012e27b36d53.com
 0.0.0.0 4d5.net
 0.0.0.0 4hfchest5kdnfnut.com
@@ -11488,6 +11516,7 @@
 0.0.0.0 4wnet.com
 0.0.0.0 520click.com
 0.0.0.0 5advertise.com
+0.0.0.0 7c0616849b.com
 0.0.0.0 999.money
 0.0.0.0 a.consumer.net
 0.0.0.0 a.mktw.net
@@ -11686,6 +11715,7 @@
 0.0.0.0 addesktop.com
 0.0.0.0 addfreestats.com
 0.0.0.0 addme.com
+0.0.0.0 addresseepaper.com
 0.0.0.0 adecn.com
 0.0.0.0 ademails.com
 0.0.0.0 adengage.com
@@ -12473,6 +12503,7 @@
 0.0.0.0 assignedlikecrawford.com
 0.0.0.0 associalbde.xyz
 0.0.0.0 assuremath.com
+0.0.0.0 ast2ya4ee8wtnax.com
 0.0.0.0 astancerta.fun
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 at.adtech.redventures.io
@@ -12607,6 +12638,7 @@
 0.0.0.0 bannery.cz
 0.0.0.0 bans.bride.ru
 0.0.0.0 bantercubicle.com
+0.0.0.0 baradoot.com
 0.0.0.0 barbarousnerve.com
 0.0.0.0 baresi.xyz
 0.0.0.0 barfsmiaowpit.com
@@ -12618,6 +12650,7 @@
 0.0.0.0 bawdybeast.com
 0.0.0.0 bayirksrap.com
 0.0.0.0 baypops.com
+0.0.0.0 baywednesday.com
 0.0.0.0 bbbadshostnet.com
 0.0.0.0 bbbpromos.org
 0.0.0.0 bbelements.com
@@ -12658,6 +12691,7 @@
 0.0.0.0 betotodilea.com
 0.0.0.0 bewilderedblade.com
 0.0.0.0 bhcumsc.com
+0.0.0.0 bid.glass
 0.0.0.0 bidclix.com
 0.0.0.0 bidclix.net
 0.0.0.0 bidtrk.com
@@ -13276,6 +13310,7 @@
 0.0.0.0 extractorandburner.com
 0.0.0.0 extreme-dm.com
 0.0.0.0 extremetracking.com
+0.0.0.0 extremiu.top
 0.0.0.0 eyeblaster.com
 0.0.0.0 eyereturn.com
 0.0.0.0 eyeviewads.com
@@ -13624,6 +13659,7 @@
 0.0.0.0 infopicked.com
 0.0.0.0 information.com
 0.0.0.0 ingameads.gameloft.com
+0.0.0.0 ingivergrimier.com
 0.0.0.0 injectlocum.com
 0.0.0.0 inmobi-jp.com
 0.0.0.0 inmobisdk-a.akamaihd.net
@@ -13671,6 +13707,7 @@
 0.0.0.0 irkfunkyformer.com
 0.0.0.0 irncdn.com
 0.0.0.0 ironsource.mobi
+0.0.0.0 irousbisayan.com
 0.0.0.0 isfxsiooyjad.com
 0.0.0.0 ismtampsshad.icu
 0.0.0.0 isupopc.com
@@ -13709,6 +13746,7 @@
 0.0.0.0 joetec.net
 0.0.0.0 joeyzzvkpjha.com
 0.0.0.0 jokedollars.com
+0.0.0.0 jollytestpartying.com
 0.0.0.0 jomtingi.net
 0.0.0.0 jpjmpqaupc.com
 0.0.0.0 jqtqqnen.top
@@ -13735,6 +13773,7 @@
 0.0.0.0 kindads.com
 0.0.0.0 kinkledunendly.com
 0.0.0.0 kiolim.com
+0.0.0.0 kiynew.com
 0.0.0.0 kliks.nl
 0.0.0.0 klsdee.com
 0.0.0.0 knorex.com
@@ -13755,6 +13794,7 @@
 0.0.0.0 kurlichan.com
 0.0.0.0 ladsreds.com
 0.0.0.0 lakequincy.com
+0.0.0.0 lapre28rmcat2.com
 0.0.0.0 laughablecopper.com
 0.0.0.0 laughcloth.com
 0.0.0.0 lauk.icu
@@ -13930,6 +13970,7 @@
 0.0.0.0 memeglobal.com
 0.0.0.0 memorizeneck.com
 0.0.0.0 memorycobweb.com
+0.0.0.0 meo257na3rch.com
 0.0.0.0 meowpushnot.com
 0.0.0.0 merzostueru2hu8jr09.com
 0.0.0.0 messagenovice.com
@@ -13952,6 +13993,7 @@
 0.0.0.0 midpopedge.com
 0.0.0.0 militaryverse.com
 0.0.0.0 millennialmedia.com
+0.0.0.0 millustry.top
 0.0.0.0 mimilcnf.pro
 0.0.0.0 mindlytix.com
 0.0.0.0 mindmemobile.com
@@ -14062,6 +14104,7 @@
 0.0.0.0 nativewpsh.com
 0.0.0.0 navigator.io
 0.0.0.0 navrcholu.cz
+0.0.0.0 nazarickol.com
 0.0.0.0 nbjmp.com
 0.0.0.0 nbnefwuifvp.com
 0.0.0.0 nctylivpwhpby.com
@@ -14349,6 +14392,7 @@
 0.0.0.0 plugrush.com
 0.0.0.0 plutothejewel.com
 0.0.0.0 pocitadlo.cz
+0.0.0.0 pocrd.cc
 0.0.0.0 pointroll.com
 0.0.0.0 pokkt.com
 0.0.0.0 pokreess.com
@@ -14557,6 +14601,7 @@
 0.0.0.0 reforge.in
 0.0.0.0 refraintupaiid.com
 0.0.0.0 regnow.com
+0.0.0.0 regulationprivilegescan.top
 0.0.0.0 reinvigorate.net
 0.0.0.0 relevanz10.de
 0.0.0.0 relmaxtop.com
@@ -14976,6 +15021,7 @@
 0.0.0.0 termadodad.com
 0.0.0.0 terrapsps.com
 0.0.0.0 terriblethumb.com
+0.0.0.0 tetrylscullion.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 textads.biz
 0.0.0.0 textlinks.com
@@ -15179,6 +15225,7 @@
 0.0.0.0 utarget.ru
 0.0.0.0 utils.mediageneral.net
 0.0.0.0 uttermosthobbies.com
+0.0.0.0 uwoaptee.com
 0.0.0.0 uyunad.com
 0.0.0.0 uzxkuwalnjp.com
 0.0.0.0 valegaj.com
@@ -15625,6 +15672,7 @@
 0.0.0.0 analytics.mobilegamestats.com
 0.0.0.0 analytics.monetiza.co
 0.0.0.0 analytics.myfinance.com
+0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.ninjakiwi.com
 0.0.0.0 analytics.phando.com
 0.0.0.0 analytics.picsart.com
@@ -15794,6 +15842,8 @@
 0.0.0.0 img.leadzutw.com
 0.0.0.0 img3.usefathom.com
 0.0.0.0 imp.pvnsolutions.com
+0.0.0.0 incoming-telemetry.thunderbird.net
+0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 inside-graph.com
 0.0.0.0 intake-analytics.wikimedia.org
@@ -15851,6 +15901,7 @@
 0.0.0.0 media-match.com
 0.0.0.0 mediaforce.com
 0.0.0.0 metric.huya.com
+0.0.0.0 metric.nimo.tv
 0.0.0.0 metric.picodi.com
 0.0.0.0 metric.picodi.net
 0.0.0.0 metricfast.com
@@ -15863,6 +15914,7 @@
 0.0.0.0 mlog.appguard.co.kr
 0.0.0.0 mlog.hiido.com
 0.0.0.0 moatpixel.com
+0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 monitoring.youronlinechoices.com
 0.0.0.0 montacarichi.it
@@ -15991,6 +16043,7 @@
 0.0.0.0 stats.xtraffic.xyz
 0.0.0.0 stats.zotabox.com
 0.0.0.0 statsforads.com
+0.0.0.0 statwup.nimo.tv
 0.0.0.0 subscribers.com
 0.0.0.0 summerhamster.com
 0.0.0.0 suriflowers.com
@@ -16108,6 +16161,7 @@
 0.0.0.0 xlog.hiido.com
 0.0.0.0 ylog.hiido.com
 0.0.0.0 ylog.huya.com
+0.0.0.0 ylog.nimo.tv
 0.0.0.0 ymtracking.com
 0.0.0.0 youthfire.com
 0.0.0.0 zarget.com

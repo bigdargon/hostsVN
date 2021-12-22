@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Dec 2021 13:41 UTC+7
-! Version: 2112151341
-! Blocked: 1.008 rules
+! Last modified: 22 Dec 2021 14:04 UTC+7
+! Version: 2112221404
+! Blocked: 1.016 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -632,6 +632,7 @@
 ||tracking.tinxe.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
+||tracking.vtc.vn^
 ||tracking.vtcnew.com.vn^
 ||tracking.yes24.vn^
 ||trackingapi.foody.vn^
@@ -679,6 +680,7 @@
 ||789.fun^
 ||789.moi^
 ||789club.biz^
+||789club.com^
 ||789club.org^
 ||789clubs.club^
 ||79lucky.com^
@@ -731,6 +733,7 @@
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
+||fabet.us^
 ||fabet.vip^
 ||fabet88.net^
 ||fabetvn.com^
@@ -844,6 +847,7 @@
 ||ms88asia.com^
 ||ms88ca.com^
 ||mu9.com^
+||mu9.win^
 ||nbet.com^
 ||nbet.vip^
 ||nhacainbet.club^
@@ -877,6 +881,7 @@
 ||ric.win^
 ||rik.vip^
 ||rik.win^
+||rikvip.uk^
 ||rikvip.us^
 ||rio66qc.club^
 ||sbc31.com^
@@ -901,9 +906,11 @@
 ||ta88.com^
 ||tai789.net^
 ||taib52.club^
+||taib52.vin^
 ||taimacau.club^
 ||taiv8.com^
 ||taiv8.info^
+||taiv8.top^
 ||tangsoc.com^
 ||tf88luck.com^
 ||tf88v.com^
@@ -996,6 +1003,7 @@
 ||kaurroot.com^
 ||larpollicwilli.club^
 ||lib1.biz^
+||member-garena.vn^
 ||news-good.net^
 ||rituationscardb.info^
 ||sacchaeleduk.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Dec 2021 13:41 UTC+7
-! Version: 2112151341
-! Blocked: 6.730 rules
+! Last modified: 22 Dec 2021 14:04 UTC+7
+! Version: 2112221404
+! Blocked: 6.773 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -632,6 +632,7 @@
 ||tracking.tinxe.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
+||tracking.vtc.vn^
 ||tracking.vtcnew.com.vn^
 ||tracking.yes24.vn^
 ||trackingapi.foody.vn^
@@ -679,6 +680,7 @@
 ||789.fun^
 ||789.moi^
 ||789club.biz^
+||789club.com^
 ||789club.org^
 ||789clubs.club^
 ||79lucky.com^
@@ -731,6 +733,7 @@
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
+||fabet.us^
 ||fabet.vip^
 ||fabet88.net^
 ||fabetvn.com^
@@ -844,6 +847,7 @@
 ||ms88asia.com^
 ||ms88ca.com^
 ||mu9.com^
+||mu9.win^
 ||nbet.com^
 ||nbet.vip^
 ||nhacainbet.club^
@@ -877,6 +881,7 @@
 ||ric.win^
 ||rik.vip^
 ||rik.win^
+||rikvip.uk^
 ||rikvip.us^
 ||rio66qc.club^
 ||sbc31.com^
@@ -901,9 +906,11 @@
 ||ta88.com^
 ||tai789.net^
 ||taib52.club^
+||taib52.vin^
 ||taimacau.club^
 ||taiv8.com^
 ||taiv8.info^
+||taiv8.top^
 ||tangsoc.com^
 ||tf88luck.com^
 ||tf88v.com^
@@ -996,6 +1003,7 @@
 ||kaurroot.com^
 ||larpollicwilli.club^
 ||lib1.biz^
+||member-garena.vn^
 ||news-good.net^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
@@ -1298,13 +1306,16 @@
 ||api-ad.kajicam.com^
 ||api-adservices.apple.com^
 ||api-log-analytics.cloud.toast.com^
+||api.adnet.mob.com^
 ||api.ads.*.go.com^
 ||api.brs.intl.miui.com^
 ||api.collect.data.intl.miui.com^
 ||api.d.xiaomi.com^
+||api.exc.mob.com^
 ||api.sec.intl.miui.com^
 ||api.sec.miui.com^
 ||api.setting.intl.miui.com^
+||api.share.mob.com^
 ||app-adforce.jp^
 ||appadhoc.com^
 ||appads.in^
@@ -1417,6 +1428,7 @@
 ||bzclk.baidu.com^
 ||c-adash.m.taobao.com^
 ||c.bing.com^
+||c.data.mob.com^
 ||c.msn.com^
 ||cacafly.net^
 ||caclick.baidu.com^
@@ -1725,6 +1737,7 @@
 ||linksynergy.com^
 ||lkqd.net^
 ||localytics.com^
+||log.aliyuncs.com^
 ||log.go.com^
 ||log.kajicam.com^
 ||log.pinterest.com^
@@ -1734,6 +1747,7 @@
 ||logql.yahoo.co.jp^
 ||logrocket.com^
 ||logrocket.io^
+||logs.datadoghq.com^
 ||logsdk.qq.com^
 ||logssug.ucweb.com^
 ||logupdate.avlyun.sec.miui.com^
@@ -1742,6 +1756,7 @@
 ||luckyorange.com^
 ||luckyorange.net^
 ||m-adash.m.taobao.com^
+||m.data.mob.com^
 ||m6r.eu^
 ||mads*z.com^
 ||mads-eu.amazon.com^
@@ -2130,6 +2145,7 @@
 ||uprimp.com^
 ||upsight.com^
 ||urlhausa.com^
+||userreport.com^
 ||usp1.baidu.com^
 ||uttclimber.com^
 ||v*.denakop.com^
@@ -2217,6 +2233,7 @@
 ||24log.com^
 ||24log.de^
 ||24newstech.com^
+||2qj7mq3w4uxe.com^
 ||42d61f012e27b36d53.com^
 ||4d5.net^
 ||4hfchest5kdnfnut.com^
@@ -2225,6 +2242,7 @@
 ||4wnet.com^
 ||520click.com^
 ||5advertise.com^
+||7c0616849b.com^
 ||999.money^
 ||a.consumer.net^
 ||a.mktw.net^
@@ -2423,6 +2441,7 @@
 ||addesktop.com^
 ||addfreestats.com^
 ||addme.com^
+||addresseepaper.com^
 ||adecn.com^
 ||ademails.com^
 ||adengage.com^
@@ -3211,6 +3230,7 @@
 ||assignedlikecrawford.com^
 ||associalbde.xyz^
 ||assuremath.com^
+||ast2ya4ee8wtnax.com^
 ||astancerta.fun^
 ||at-adserver.alltop.com^
 ||at.adtech.redventures.io^
@@ -3345,6 +3365,7 @@
 ||bannery.cz^
 ||bans.bride.ru^
 ||bantercubicle.com^
+||baradoot.com^
 ||barbarousnerve.com^
 ||baresi.xyz^
 ||barfsmiaowpit.com^
@@ -3356,6 +3377,7 @@
 ||bawdybeast.com^
 ||bayirksrap.com^
 ||baypops.com^
+||baywednesday.com^
 ||bbbadshostnet.com^
 ||bbbpromos.org^
 ||bbelements.com^
@@ -3396,6 +3418,7 @@
 ||betotodilea.com^
 ||bewilderedblade.com^
 ||bhcumsc.com^
+||bid.glass^
 ||bidclix.com^
 ||bidclix.net^
 ||bidtrk.com^
@@ -4015,6 +4038,7 @@
 ||extractorandburner.com^
 ||extreme-dm.com^
 ||extremetracking.com^
+||extremiu.top^
 ||eyeblaster.com^
 ||eyereturn.com^
 ||eyeviewads.com^
@@ -4363,6 +4387,7 @@
 ||infopicked.com^
 ||information.com^
 ||ingameads.gameloft.com^
+||ingivergrimier.com^
 ||injectlocum.com^
 ||inmobi-jp.com^
 ||inmobisdk-a.akamaihd.net^
@@ -4410,6 +4435,7 @@
 ||irkfunkyformer.com^
 ||irncdn.com^
 ||ironsource.mobi^
+||irousbisayan.com^
 ||isfxsiooyjad.com^
 ||ismtampsshad.icu^
 ||isupopc.com^
@@ -4448,6 +4474,7 @@
 ||joetec.net^
 ||joeyzzvkpjha.com^
 ||jokedollars.com^
+||jollytestpartying.com^
 ||jomtingi.net^
 ||jpjmpqaupc.com^
 ||jqtqqnen.top^
@@ -4475,6 +4502,7 @@
 ||kindads.com^
 ||kinkledunendly.com^
 ||kiolim.com^
+||kiynew.com^
 ||kliks.nl^
 ||klsdee.com^
 ||knorex.com^
@@ -4495,6 +4523,7 @@
 ||kurlichan.com^
 ||ladsreds.com^
 ||lakequincy.com^
+||lapre28rmcat2.com^
 ||laughablecopper.com^
 ||laughcloth.com^
 ||lauk.icu^
@@ -4670,6 +4699,7 @@
 ||memeglobal.com^
 ||memorizeneck.com^
 ||memorycobweb.com^
+||meo257na3rch.com^
 ||meowpushnot.com^
 ||merzostueru2hu8jr09.com^
 ||messagenovice.com^
@@ -4692,6 +4722,7 @@
 ||midpopedge.com^
 ||militaryverse.com^
 ||millennialmedia.com^
+||millustry.top^
 ||mimilcnf.pro^
 ||mindlytix.com^
 ||mindmemobile.com^
@@ -4803,6 +4834,7 @@
 ||nativewpsh.com^
 ||navigator.io^
 ||navrcholu.cz^
+||nazarickol.com^
 ||nbjmp.com^
 ||nbnefwuifvp.com^
 ||nctylivpwhpby.com^
@@ -5091,6 +5123,7 @@
 ||plugrush.com^
 ||plutothejewel.com^
 ||pocitadlo.cz^
+||pocrd.cc^
 ||pointroll.com^
 ||pokkt.com^
 ||pokreess.com^
@@ -5299,6 +5332,7 @@
 ||reforge.in^
 ||refraintupaiid.com^
 ||regnow.com^
+||regulationprivilegescan.top^
 ||reinvigorate.net^
 ||relevanz10.de^
 ||relmaxtop.com^
@@ -5718,6 +5752,7 @@
 ||termadodad.com^
 ||terrapsps.com^
 ||terriblethumb.com^
+||tetrylscullion.com^
 ||text-link-ads.com^
 ||textads.biz^
 ||textlinks.com^
@@ -5921,6 +5956,7 @@
 ||utarget.ru^
 ||utils.mediageneral.net^
 ||uttermosthobbies.com^
+||uwoaptee.com^
 ||uyunad.com^
 ||uzxkuwalnjp.com^
 ||valegaj.com^
@@ -6240,6 +6276,7 @@
 ||analytics.mobilegamestats.com^
 ||analytics.monetiza.co^
 ||analytics.myfinance.com^
+||analytics.nike.com^
 ||analytics.ninjakiwi.com^
 ||analytics.phando.com^
 ||analytics.picsart.com^
@@ -6409,6 +6446,8 @@
 ||img.leadzutw.com^
 ||img3.usefathom.com^
 ||imp.pvnsolutions.com^
+||incoming-telemetry.thunderbird.net^
+||incoming.telemetry.mozilla.org^
 ||infinityid.condenastdigital.com^
 ||inside-graph.com^
 ||intake-analytics.wikimedia.org^
@@ -6466,6 +6505,7 @@
 ||media-match.com^
 ||mediaforce.com^
 ||metric.huya.com^
+||metric.nimo.tv^
 ||metric.picodi.com^
 ||metric.picodi.net^
 ||metricfast.com^
@@ -6478,6 +6518,7 @@
 ||mlog.appguard.co.kr^
 ||mlog.hiido.com^
 ||moatpixel.com^
+||mobile-collector.newrelic.com^
 ||mobiletelemetry.ebay.com^
 ||monitoring.youronlinechoices.com^
 ||montacarichi.it^
@@ -6606,6 +6647,7 @@
 ||stats.xtraffic.xyz^
 ||stats.zotabox.com^
 ||statsforads.com^
+||statwup.nimo.tv^
 ||subscribers.com^
 ||summerhamster.com^
 ||suriflowers.com^
@@ -6704,6 +6746,7 @@
 ||xlog.hiido.com^
 ||ylog.hiido.com^
 ||ylog.huya.com^
+||ylog.nimo.tv^
 ||ymtracking.com^
 ||youthfire.com^
 ||zarget.com^

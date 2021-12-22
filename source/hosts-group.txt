@@ -9629,3 +9629,28 @@
 0.0.0.0 ius.ctnsnet.com
 0.0.0.0 mobile.ctnsnet.com
 0.0.0.0 uas.ctnsnet.com
+#[logs.datadoghq.com]
+0.0.0.0 browser-http-intake.logs.datadoghq.com
+0.0.0.0 mobile-http-intake.logs.datadoghq.com
+0.0.0.0 rum-http-intake.logs.datadoghq.com
+#[log.aliyuncs.com]
+0.0.0.0 hotbit-io-app-logs.cn-hongkong.log.aliyuncs.com
+0.0.0.0 huobi-global-prd.cn-hangzhou.log.aliyuncs.com
+0.0.0.0 tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
+0.0.0.0 tap-snow-hk.cn-hongkong.log.aliyuncs.com
+#[userreport.com]
+0.0.0.0 analytics.userreport.com
+0.0.0.0 bapi.userreport.com
+0.0.0.0 cdn.userreport.com
+0.0.0.0 mock-bapi.userreport.com
+0.0.0.0 sak.userreport.com
+0.0.0.0 sdscdn.userreport.com
+0.0.0.0 sync.userreport.com
+0.0.0.0 tag.userreport.com
+0.0.0.0 userreport.com
+#[mob.com]
+0.0.0.0 api.share.mob.com
+0.0.0.0 m.data.mob.com
+0.0.0.0 c.data.mob.com
+0.0.0.0 api.exc.mob.com
+0.0.0.0 api.adnet.mob.com
