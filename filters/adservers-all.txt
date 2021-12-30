@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 30 Dec 2021 11:47 UTC+7
-! Version: 2112301147
-! Blocked: 6.772 rules
+! Last modified: 30 Dec 2021 11:55 UTC+7
+! Version: 2112301155
+! Blocked: 6.776 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -392,8 +392,10 @@
 ||ng-vn-notice.gameitop.com^
 ||nspapi.aiservice.vn^
 ||offerwall.headlines.pw^
+||onapp.haravan.com^
 ||openx.motgame.vn^
 ||ox1.vietstock.vn^
+||promotion.haravan.com^
 ||qc.5giay.vn^
 ||qc.designervn.net^
 ||qc.japo.vn^
@@ -492,6 +494,7 @@
 ||event.headlines.pw^
 ||f-emc.ngsp.gov.vn^
 ||fa.fpt.shop^
+||facebookinbox-omni-onapp.haravan.com^
 ||fbuser.ovp.vn^
 ||file-subiz.com^
 ||follow.vnay.vn^
@@ -580,6 +583,7 @@
 ||sentry.mediacdn.vn^
 ||sharefb.cnnd.vn^
 ||smetrics.kone.vn^
+||socialloginplus-apps.haravan.com^
 ||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
 ||static.masoffer.net^
