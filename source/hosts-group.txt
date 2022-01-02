@@ -1193,6 +1193,10 @@
 #[btrace.qq.com]
 0.0.0.0 btrace.qq.com
 0.0.0.0 btrace.video.qq.com
+#[bugly.qq.com]
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 bugly.qq.com
+0.0.0.0 ios.bugly.qq.com
 #[e.qq.com]
 0.0.0.0 cm.e.qq.com
 0.0.0.0 e.qq.com
@@ -7967,6 +7971,7 @@
 0.0.0.0 ads.tiktok.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 business-api.tiktok.com
 #[mouseflow.com]
 0.0.0.0 a.mouseflow.com
 0.0.0.0 app.mouseflow.com
@@ -9634,7 +9639,10 @@
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 mobile-http-intake.logs.datadoghq.com
 0.0.0.0 rum-http-intake.logs.datadoghq.com
-#[log.aliyuncs.com]
+#[aliyuncs.com]
+0.0.0.0 beacon-api.aliyuncs.com
+0.0.0.0 event-tracking-project.ap-southeast-1.log.aliyuncs.com
+0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 hotbit-io-app-logs.cn-hongkong.log.aliyuncs.com
 0.0.0.0 huobi-global-prd.cn-hangzhou.log.aliyuncs.com
 0.0.0.0 tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
@@ -9655,3 +9663,23 @@
 0.0.0.0 c.data.mob.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.adnet.mob.com
+#[4dex.io]
+0.0.0.0 4dex.io
+0.0.0.0 c.4dex.io
+0.0.0.0 mp.4dex.io
+0.0.0.0 script.4dex.io
+#[ximad.com]
+0.0.0.0 opt.ximad.com
+0.0.0.0 pls.ximad.com
+0.0.0.0 puzzlestore.ximad.com
+0.0.0.0 ximad.com
+#[mm-cgnews.com]
+0.0.0.0 asgdfasad.mm-cgnews.com
+0.0.0.0 mm-cgnews.com
+0.0.0.0 www.mm-cgnews.com
+#[pubpowerplatform.io]
+0.0.0.0 assets.pubpowerplatform.io
+0.0.0.0 ms.pubpowerplatform.io
+0.0.0.0 nc.pubpowerplatform.io
+0.0.0.0 pix.pubpowerplatform.io
+0.0.0.0 pubpowerplatform.io
