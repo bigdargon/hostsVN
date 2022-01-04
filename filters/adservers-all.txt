@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Jan 2022 10:30 UTC+7
-! Version: 2201041030
-! Blocked: 6.800 rules
+! Last modified: 04 Jan 2022 11:53 UTC+7
+! Version: 2201041153
+! Blocked: 6.804 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -336,7 +336,9 @@
 ||ak9.6895588.com^
 ||an.dongphim.net^
 ||an.xemvtv.net^
+||api.boclinkads.com^
 ||api.nas.nct.vn^
+||api2.boclinkads.com^
 ||apia.headlines.pw^
 ||apinas.nct.vn^
 ||as.gamevui.com^
@@ -444,6 +446,7 @@
 ||vnd247.vn^
 ||vtvcab.xyz^
 ||widget.headlines.pw^
+||a.ladipage.com^
 ||a.vtvdigital.vn^
 ||addlog.thuvienphapluat.vn^
 ||admin.phunusuckhoe.vn^
@@ -999,6 +1002,7 @@
 ||campxanh.info^
 ||celerantatters.com^
 ||cettiarl.com^
+||code-lienquan-vn.com^
 ||drakeesh.com^
 ||facebookz.co^
 ||garrena.vn^
