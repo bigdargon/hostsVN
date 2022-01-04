@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Jan 2022 16:33 UTC+7
-# Version: 2201021633
-# Blocked: 15.147 domains
+# Last modified: 04 Jan 2022 10:03 UTC+7
+# Version: 2201041003
+# Blocked: 15.149 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7979,6 +7979,7 @@
 0.0.0.0 server.ethicalads.io
 0.0.0.0 www.ethicalads.io
 #[tiktok.com]
+0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 analytics-sg.tiktok.com
@@ -11485,6 +11486,7 @@
 0.0.0.0 kaurroot.com
 0.0.0.0 larpollicwilli.club
 0.0.0.0 lib1.biz
+0.0.0.0 lienquan-garena-giftcode.com
 0.0.0.0 member-garena.vn
 0.0.0.0 news-good.net
 0.0.0.0 nhanqua.lienquan.garrena.vn
