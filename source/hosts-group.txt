@@ -1764,10 +1764,12 @@
 0.0.0.0 adc3-launch-staging.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcolony.com
+0.0.0.0 ads30.adcolony.com
 0.0.0.0 alpha-assets.adcolony.com
 0.0.0.0 androidads20.adcolony.com
 0.0.0.0 androidads21.adcolony.com
 0.0.0.0 androidads23.adcolony.com
+0.0.0.0 androidads4-6.adcolony.com
 0.0.0.0 c4d-cdn.adcolony.com
 0.0.0.0 c4dm.adcolony.com
 0.0.0.0 clients.adcolony.com
@@ -1776,6 +1778,8 @@
 0.0.0.0 iosads22.adcolony.com
 0.0.0.0 iosads24.adcolony.com
 0.0.0.0 iosads4-4.adcolony.com
+0.0.0.0 iosads4-6.adcolony.com
+0.0.0.0 iosads4-7.adcolony.com
 0.0.0.0 rtb.adcolony.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 www.adcolony.com
@@ -7997,9 +8001,11 @@
 0.0.0.0 w1.luckyorange.com
 0.0.0.0 www.luckyorange.com
 #[pangle.io]
+0.0.0.0 api16-access-gcp.pangle.io
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api16-access-va.pangle.io
 0.0.0.0 api16-endcard-pack-sg.pangle.io
+0.0.0.0 api16-log-gcp.pangle.io
 0.0.0.0 api16-log-sg.pangle.io
 0.0.0.0 pangle.io
 #[snigelweb.com]

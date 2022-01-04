@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Jan 2022 10:03 UTC+7
-# Version: 2201041003
-# Blocked: 15.149 domains
+# Last modified: 04 Jan 2022 10:30 UTC+7
+# Version: 2201041030
+# Blocked: 15.157 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1619,10 +1619,12 @@
 0 adc3-launch-staging.adcolony.com
 0 adc3-launch.adcolony.com
 0 adcolony.com
+0 ads30.adcolony.com
 0 alpha-assets.adcolony.com
 0 androidads20.adcolony.com
 0 androidads21.adcolony.com
 0 androidads23.adcolony.com
+0 androidads4-6.adcolony.com
 0 c4d-cdn.adcolony.com
 0 c4dm.adcolony.com
 0 clients.adcolony.com
@@ -1631,6 +1633,8 @@
 0 iosads22.adcolony.com
 0 iosads24.adcolony.com
 0 iosads4-4.adcolony.com
+0 iosads4-6.adcolony.com
+0 iosads4-7.adcolony.com
 0 rtb.adcolony.com
 0 wd.adcolony.com
 0 www.adcolony.com
@@ -7336,9 +7340,11 @@
 0 staging.luckyorange.com
 0 w1.luckyorange.com
 0 www.luckyorange.com
+0 api16-access-gcp.pangle.io
 0 api16-access-sg.pangle.io
 0 api16-access-va.pangle.io
 0 api16-endcard-pack-sg.pangle.io
+0 api16-log-gcp.pangle.io
 0 api16-log-sg.pangle.io
 0 pangle.io
 0 adengine.snigelweb.com
@@ -10487,6 +10493,8 @@
 0 ad-balancer.at
 0 ad-balancer.net
 0 ad-center.com
+0 ad-channel.wikawika.xyz
+0 ad-display.wikawika.xyz
 0 ad-miner.com
 0 ad-pay.de
 0 ad-rotator.com
