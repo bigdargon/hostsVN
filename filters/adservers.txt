@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 Jan 2022 15:51 UTC+7
-! Version: 2201041551
-! Blocked: 1.026 rules
+! Last modified: 05 Jan 2022 11:37 UTC+7
+! Version: 2201051137
+! Blocked: 1.030 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -788,6 +788,7 @@
 ||ibet889.com^
 ||income88.com^
 ||interwinvn.com^
+||iwin.club^
 ||jbo010.com^
 ||jbo064.com^
 ||jboviet.com^
@@ -930,6 +931,8 @@
 ||top88.uk^
 ||top88.us^
 ||trungso.vip^
+||tt128.info^
+||tt128viet.com^
 ||twin188.co^
 ||uw88vnd.com^
 ||uw88vnd1.com^
@@ -1013,6 +1016,7 @@
 ||larpollicwilli.club^
 ||lib1.biz^
 ||lienquan-garena-giftcode.com^
+||lmht-membership.com^
 ||member-garena.vn^
 ||news-good.net^
 ||rituationscardb.info^
