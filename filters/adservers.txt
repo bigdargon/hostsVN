@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Jan 2022 11:37 UTC+7
-! Version: 2201051137
-! Blocked: 1.030 rules
+! Last modified: 11 Jan 2022 15:44 UTC+7
+! Version: 2201111544
+! Blocked: 1.038 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -140,6 +140,7 @@
 ||oncustomer.asia^
 ||onfluencer.net^
 ||onmarketer.net^
+||opencoccoc.com^
 ||page.widget.zalo.me^
 ||partner.accesstrade.vn^
 ||phanquang.vn^
@@ -733,6 +734,7 @@
 ||debet.com^
 ||debet.top^
 ||dfchoingay.com^
+||dk802.com^
 ||dola88.info^
 ||ee66.com^
 ||eurofun88.com^
@@ -1009,8 +1011,14 @@
 ||drakeesh.com^
 ||eventlqvn.com^
 ||facebookz.co^
+||ff-members-garena.vn^
+||ff-membership-garena.com^
 ||freefire-membershipvn-garena.com^
+||garena-members.com^
+||garena.fan^
+||garera.vn^
 ||garrena.vn^
+||giftcode-mobilelienquan.com^
 ||irduwhojas.ga^
 ||kaurroot.com^
 ||larpollicwilli.club^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 05 Jan 2022 11:37 UTC+7
-# Version: 2201051137
-# Blocked: 3.231 domains
+# Last modified: 11 Jan 2022 15:44 UTC+7
+# Version: 2201111544
+# Blocked: 3.235 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -996,11 +996,15 @@
 0.0.0.0 www.tt128.info
 0.0.0.0 tt128viet.com
 0.0.0.0 www.tt128viet.com
+0.0.0.0 dk802.com
+0.0.0.0 www.dk802.com
 # --- Block other gameblingVN ---
 0.0.0.0 978bet3.com
 0.0.0.0 www.978bet3.com
 0.0.0.0 wangcmd368.com
 0.0.0.0 www.wangcmd368.com
+0.0.0.0 mdbw0018.com
+0.0.0.0 www.mdbw0018.com
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
 0.0.0.0 1gom.com
