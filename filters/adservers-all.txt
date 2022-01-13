@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 Jan 2022 15:36 UTC+7
-! Version: 2201121536
-! Blocked: 6.886 rules
+! Last modified: 13 Jan 2022 11:38 UTC+7
+! Version: 2201131138
+! Blocked: 6.893 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -48,6 +48,7 @@
 ||adtima.vn^
 ||adtimaserver.vn^
 ||adx.vn^
+||aiactiv.io^
 ||ambient-platform.com^
 ||ambientdsp.com^
 ||ambientplatform.vn^
@@ -1020,6 +1021,7 @@
 ||garena.fan^
 ||garera.vn^
 ||garrena.vn^
+||giftcode-lienquanmobile-vn.com^
 ||giftcode-mobilelienquan.com^
 ||irduwhojas.ga^
 ||kaurroot.com^
@@ -3332,6 +3334,7 @@
 ||banesnorttat.cam^
 ||banik.redigy.cz^
 ||banner-exchange-24.de^
+||banner.abbyy.com^
 ||banner.ad.nu^
 ||banner.ambercoastcasino.com^
 ||banner.buempliz-online.ch^
@@ -6583,6 +6586,9 @@
 ||lgglobal.ihago.net^
 ||litix.io^
 ||log-eap-sg.coloros.com^
+||log-upload-eur.mihoyo.com^
+||log-upload-os.mihoyo.com^
+||log-upload.mihoyo.com^
 ||log.apk.v-mate.mobi^
 ||log.avlyun.com^
 ||log.getdropbox.com^
@@ -6745,6 +6751,7 @@
 ||static.site24x7rum.com^
 ||stats.apester.com^
 ||stats.betradar.com^
+||stats.norton.com^
 ||stats.playrix.com^
 ||stats.popcap.com^
 ||stats.pusher.com^

@@ -1326,3 +1326,7 @@
 0.0.0.0 occi.opencoccoc.com
 0.0.0.0 ccxj.opencoccoc.com
 0.0.0.0 sr.opencoccoc.com
+#[aiactiv.io]
+0.0.0.0 sdk-cdn.aiactiv.io
+0.0.0.0 tag-cdn.aiactiv.io
+0.0.0.0 tags.aiactiv.io

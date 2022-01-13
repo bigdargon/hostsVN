@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Jan 2022 15:36 UTC+7
-# Version: 2201121536
-# Blocked: 1.690 domains
+# Last modified: 13 Jan 2022 11:38 UTC+7
+# Version: 2201131138
+# Blocked: 1.694 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1338,6 +1338,10 @@
 0.0.0.0 occi.opencoccoc.com
 0.0.0.0 ccxj.opencoccoc.com
 0.0.0.0 sr.opencoccoc.com
+#[aiactiv.io]
+0.0.0.0 sdk-cdn.aiactiv.io
+0.0.0.0 tag-cdn.aiactiv.io
+0.0.0.0 tags.aiactiv.io
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
@@ -1814,6 +1818,7 @@
 0.0.0.0 garena.fan
 0.0.0.0 garera.vn
 0.0.0.0 garrena.vn
+0.0.0.0 giftcode-lienquanmobile-vn.com
 0.0.0.0 giftcode-mobilelienquan.com
 0.0.0.0 irduwhojas.ga
 0.0.0.0 kaurroot.com
