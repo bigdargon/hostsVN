@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Jan 2022 11:38 UTC+7
-! Version: 2201131138
-! Blocked: 6.893 rules
+! Last modified: 14 Jan 2022 09:47 UTC+7
+! Version: 2201140947
+! Blocked: 6.895 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3706,6 +3706,7 @@
 ||clkrev.com^
 ||clmcom.com^
 ||cloisteredhydrant.com^
+||closureevaporatefume.com^
 ||cloudcoins.biz^
 ||clrstm.com^
 ||cls.vrvm.com^
@@ -4171,6 +4172,7 @@
 ||flowgo.com^
 ||fluffycodepotc.com^
 ||foamidsputt.com^
+||fondlecokecombination.com^
 ||fonecta.fi^
 ||foresee.com^
 ||forex-affiliate.net^
@@ -6502,7 +6504,6 @@
 ||e2.platform88798.com^
 ||emltrk.com^
 ||ethtrader.de^
-||etl.tindersparks.com^
 ||event.condenastdigital.com^
 ||event.stat.wedobest.com.cn^
 ||event.wedobest.com.cn^
@@ -6689,6 +6690,7 @@
 ||r.3gl.net^
 ||r.bbci.co.uk^
 ||r1.snnd.co^
+||rabbitbreath.com^
 ||rclog.rcplatformhk.com^
 ||reachmax.cn^
 ||redinvestor.com^
