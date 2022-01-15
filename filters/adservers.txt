@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Jan 2022 09:47 UTC+7
-! Version: 2201140947
-! Blocked: 1.044 rules
+! Last modified: 15 Jan 2022 14:21 UTC+7
+! Version: 2201151421
+! Blocked: 1.045 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1017,6 +1017,7 @@
 ||ff-membership-garena.com^
 ||freefire-membershipvn-garena.com^
 ||garean.vn^
+||gareena.vn^
 ||garena-members.com^
 ||garena.fan^
 ||garera.vn^

@@ -4,7 +4,7 @@
 
 #facebook
 ^https?://graph.facebook.com/.+activities
-^https?://graph.facebook.com/.+advertiser_id=
+^https?://graph.facebook.com/.+advertiser
 ^https?://graph.facebook.com/.+events
 ^https?://graph.facebook.com/.+skadnetwork
 ^https?://graph.facebook.com/network_ads_common
