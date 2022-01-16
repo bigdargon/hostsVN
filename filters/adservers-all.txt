@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Jan 2022 14:21 UTC+7
-! Version: 2201151421
-! Blocked: 6.896 rules
+! Last modified: 16 Jan 2022 21:16 UTC+7
+! Version: 2201162116
+! Blocked: 6.895 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1013,8 +1013,11 @@
 ||drakeesh.com^
 ||eventlqvn.com^
 ||facebookz.co^
+||ff-member-ganena.com^
 ||ff-members-garena.vn^
 ||ff-membership-garena.com^
+||ff.garena.memmbershipp.com^
+||ff.member.garenae.vn^
 ||freefire-membershipvn-garena.com^
 ||garean.vn^
 ||gareena.vn^
@@ -1032,6 +1035,7 @@
 ||lmht-membership.com^
 ||member-garena.vn^
 ||news-good.net^
+||nhanquaffob31.com^
 ||qualienquan.vn^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
@@ -1072,8 +1076,6 @@
 ||aan.amazon.com^
 ||aarth.net^
 ||aatkit.com^
-||aax-eu-dub.amazon.com^
-||aax-us-iad.amazon.com^
 ||aaxads.com^
 ||accengage.com^
 ||accesstrade.net^
@@ -1261,8 +1263,6 @@
 ||advergine.com^
 ||advergine.ru^
 ||advertica.ae^
-||advertising-api-eu.amazon.com^
-||advertising-api.amazon.com^
 ||advertising.apple.com^
 ||advertising.com^
 ||advertising.microsoft.com^
@@ -1794,8 +1794,6 @@
 ||m.data.mob.com^
 ||m6r.eu^
 ||mads*z.com^
-||mads-eu.amazon.com^
-||mads.amazon.com^
 ||mahimeta.com^
 ||mail-ads.google.com^
 ||mainadv.com^
@@ -4533,6 +4531,7 @@
 ||iwhugaul.com^
 ||iwofkvupfz.com^
 ||j93557g.com^
+||ja2n2u30a6rgyd.com^
 ||jadeitite.com^
 ||jaduda.com^
 ||jaftouja.net^

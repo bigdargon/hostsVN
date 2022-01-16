@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 Jan 2022 14:21 UTC+7
-# Version: 2201151421
-# Blocked: 15.268 domains
+# Last modified: 16 Jan 2022 21:16 UTC+7
+# Version: 2201162116
+# Blocked: 15.267 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -283,12 +283,6 @@
 0.0.0.0 c.bing.com
 #[amazon.com]
 0.0.0.0 aan.amazon.com
-0.0.0.0 aax-eu-dub.amazon.com
-0.0.0.0 aax-us-iad.amazon.com
-0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 advertising-api.amazon.com
-0.0.0.0 mads-eu.amazon.com
-0.0.0.0 mads.amazon.com
 0.0.0.0 rcm-images.amazon.com
 0.0.0.0 rcm.amazon.com
 0.0.0.0 uedata.amazon.com
@@ -11518,8 +11512,11 @@
 0.0.0.0 drakeesh.com
 0.0.0.0 eventlqvn.com
 0.0.0.0 facebookz.co
+0.0.0.0 ff-member-ganena.com
 0.0.0.0 ff-members-garena.vn
 0.0.0.0 ff-membership-garena.com
+0.0.0.0 ff.garena.memmbershipp.com
+0.0.0.0 ff.member.garenae.vn
 0.0.0.0 freefire-membershipvn-garena.com
 0.0.0.0 garean.vn
 0.0.0.0 gareena.vn
@@ -11537,6 +11534,7 @@
 0.0.0.0 lmht-membership.com
 0.0.0.0 member-garena.vn
 0.0.0.0 news-good.net
+0.0.0.0 nhanquaffob31.com
 0.0.0.0 qualienquan.vn
 0.0.0.0 rituationscardb.info
 0.0.0.0 sacchaeleduk.com
@@ -13831,6 +13829,7 @@
 0.0.0.0 iwhugaul.com
 0.0.0.0 iwofkvupfz.com
 0.0.0.0 j93557g.com
+0.0.0.0 ja2n2u30a6rgyd.com
 0.0.0.0 jadeitite.com
 0.0.0.0 jaduda.com
 0.0.0.0 jaftouja.net
