@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Jan 2022 21:16 UTC+7
-! Version: 2201162116
-! Blocked: 6.895 rules
+! Last modified: 05 Feb 2022 11:11 UTC+7
+! Version: 2202051111
+! Blocked: 6.926 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -367,7 +367,6 @@
 ||delivery.senvangvn.com^
 ||delivery.vtc.vn^
 ||delivery.vtcnew.com.vn^
-||deltago.com^
 ||demopage.me^
 ||deqik.com^
 ||dt.vnecdn.com^
@@ -727,6 +726,7 @@
 ||bwingmkt8.com^
 ||cacuoc247.com^
 ||cacuoc79.com^
+||casino86.club^
 ||casino888vn.com^
 ||comebetvn3.com^
 ||comebetvn9.com^
@@ -773,6 +773,7 @@
 ||fun1118.com^
 ||funtructuyen88.com^
 ||gamebai.club^
+||gamequyong.site^
 ||gaznbike.com^
 ||gdwbetvn888.com^
 ||gdwviet.com^
@@ -842,6 +843,8 @@
 ||man.club^
 ||manclub.game^
 ||manclub.live^
+||manclubwin.club^
+||manclubwin.uk^
 ||mansion66.com^
 ||may88.club^
 ||may88.com^
@@ -881,6 +884,8 @@
 ||oxbet.net^
 ||playgamefa88.live^
 ||playgo88.asia^
+||playiwin.biz^
+||playiwin.site^
 ||playv8.com^
 ||playv8.vip^
 ||qq288jak.com^
@@ -896,6 +901,7 @@
 ||rio66qc.club^
 ||sbc31.com^
 ||sieubomtan.com^
+||sieukeo.live^
 ||sin88.biz^
 ||sin88.club^
 ||sin88.com^
@@ -933,6 +939,7 @@
 ||top88.fun^
 ||top88.uk^
 ||top88.us^
+||topcc88.me^
 ||trungso.vip^
 ||tt128.info^
 ||tt128viet.com^
@@ -1014,15 +1021,19 @@
 ||eventlqvn.com^
 ||facebookz.co^
 ||ff-member-ganena.com^
+||ff-member-gazeza.com^
 ||ff-members-garena.vn^
 ||ff-membership-garena.com^
 ||ff.garena.memmbershipp.com^
 ||ff.member.garenae.vn^
 ||freefire-membershipvn-garena.com^
+||gaerena.vn^
+||garaena.vn^
 ||garean.vn^
 ||gareena.vn^
 ||garena-members.com^
 ||garena.fan^
+||garenaj.vn^
 ||garera.vn^
 ||garrena.vn^
 ||giftcode-lienquanmobile-vn.com^
@@ -1032,8 +1043,11 @@
 ||larpollicwilli.club^
 ||lib1.biz^
 ||lienquan-garena-giftcode.com^
+||lienquanmobilequatang.com^
 ||lmht-membership.com^
+||member-gaarena.com^
 ||member-garena.vn^
+||memberr-garenaa.com^
 ||news-good.net^
 ||nhanquaffob31.com^
 ||qualienquan.vn^
@@ -1699,7 +1713,13 @@
 ||huerty.site^
 ||hwstats.unity3d.com^
 ||i-mobile.co.jp^
-||iad-*.braze.com^
+||iad-01.braze.com^
+||iad-02.braze.com^
+||iad-03.braze.com^
+||iad-04.braze.com^
+||iad-05.braze.com^
+||iad-06.braze.com^
+||iad-08.braze.com^
 ||iad.apple.com^
 ||iadsdk.apple.com^
 ||iap.unity3d.com^
@@ -3292,6 +3312,7 @@
 ||audiencemanager.de^
 ||audiens.com^
 ||audrte.com^
+||augu3yhd485st.com^
 ||augur.io^
 ||aulteeby.net^
 ||ausoafab.net^
@@ -3451,6 +3472,7 @@
 ||belstat.nl^
 ||belyyeusy.com^
 ||bemachopor.com^
+||bemobtrcks.com^
 ||bepiletussar.casa^
 ||berlipurplin.com^
 ||berp.com^
@@ -3549,6 +3571,7 @@
 ||bustlinganimal.com^
 ||butalksuw9dj10.com^
 ||buyhitscheap.com^
+||buyseoblog.com^
 ||buzzonclick.com^
 ||bvalphaserver.com^
 ||bwp.download.com^
@@ -3604,6 +3627,7 @@
 ||cdn.88-f.net^
 ||cdn.concert.io^
 ||cdn.digitru.st^
+||cdn.easyads28.mobi^
 ||cdn.freefarcy.com^
 ||cdn.heycdn91.xyz^
 ||cdn4ads.com^
@@ -4473,6 +4497,7 @@
 ||inquisitiveinvention.com^
 ||inrhyhorntor.com^
 ||inringtone.com^
+||insideoftech.com^
 ||insightexpress.com^
 ||inskinmedia.com^
 ||insolencemanipulative.com^
@@ -4543,6 +4568,7 @@
 ||jebadu.com^
 ||jenicdntc.com^
 ||jessieemys.com^
+||jewgn8une.com^
 ||jf71qh5v14.com^
 ||jighucme.com^
 ||jinkads.de^
@@ -5808,6 +5834,7 @@
 ||syrsple2se8nyu09.com^
 ||systemleadb.com^
 ||syyycc.com^
+||t.easyads28.mobi^
 ||t.insigit.com^
 ||t.myvisualiq.net^
 ||t7z.cupid.iqiyi.com^
@@ -6082,7 +6109,9 @@
 ||variouscreativeformats.com^
 ||vasgenerete.site^
 ||vattingbalak.com^
+||vbscgrnkoceya.com^
 ||vdopia.com^
+||ve01.mgod33cme.com^
 ||vebadu.com^
 ||veille-referencement.com^
 ||veinteractive.com^
@@ -6456,6 +6485,7 @@
 ||cdn.onesignal.com^
 ||cdn.promotionengine.com^
 ||cdn.retailads.net^
+||cdn.shoplytics.com^
 ||cdn.usefathom.com^
 ||cdn.viglink.com^
 ||cedexis.com^
@@ -6512,6 +6542,7 @@
 ||events.jora.com^
 ||events.mapbox.com^
 ||events.redditmedia.com^
+||events.shoplytics.com^
 ||everestjs.net^
 ||eviltracker.net^
 ||evt.mxplay.com^
