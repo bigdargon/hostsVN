@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Feb 2022 16:42 UTC+7
-# Version: 2202091642
-# Blocked: 1.706 domains
+# Last modified: 10 Feb 2022 10:22 UTC+7
+# Version: 2202101022
+# Blocked: 1.708 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1813,6 +1813,7 @@
 0.0.0.0 ff-member-gazeza.com
 0.0.0.0 ff-members-garena.vn
 0.0.0.0 ff-membership-garena.com
+0.0.0.0 ff-memnber-garena.com
 0.0.0.0 ff.garena.memmbershipp.com
 0.0.0.0 ff.member.garenae.vn
 0.0.0.0 freefire-membershipvn-garena.com
@@ -1846,6 +1847,7 @@
 0.0.0.0 tammenaa.com
 0.0.0.0 thseaeing.fun
 0.0.0.0 ucesreferre.club
+0.0.0.0 vongquay-pubgmobilevn-zing.com
 0.0.0.0 vongquaymienphi.net
 0.0.0.0 www.facebookz.co
 0.0.0.0 www.uqoxh.icu

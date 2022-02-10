@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Feb 2022 16:42 UTC+7
-# Version: 2202091642
-# Blocked: 15.291 domains
+# Last modified: 10 Feb 2022 10:22 UTC+7
+# Version: 2202101022
+# Blocked: 15.295 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8775,6 +8775,9 @@
 0 onelink.appsflyersdk.com
 0 register.appsflyersdk.com
 0 sdk.appsflyersdk.com
+0 t.appsflyersdk.com
+0 ackcdn.net
+0 s3t3d2y7.ackcdn.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10433,6 +10436,7 @@
 0 ff-member-gazeza.com
 0 ff-members-garena.vn
 0 ff-membership-garena.com
+0 ff-memnber-garena.com
 0 ff.garena.memmbershipp.com
 0 ff.member.garenae.vn
 0 freefire-membershipvn-garena.com
@@ -10466,6 +10470,7 @@
 0 tammenaa.com
 0 thseaeing.fun
 0 ucesreferre.club
+0 vongquay-pubgmobilevn-zing.com
 0 vongquaymienphi.net
 0 www.facebookz.co
 0 www.uqoxh.icu
