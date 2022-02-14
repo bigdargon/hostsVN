@@ -9512,9 +9512,6 @@
 0.0.0.0 stats.clevernt.com
 0.0.0.0 ui.clevernt.com
 0.0.0.0 www.clevernt.com
-#[hetaruwg.com]
-0.0.0.0 ak.hetaruwg.com
-0.0.0.0 hetaruwg.com
 #[marketgid.com]
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 marketgid.com
@@ -9604,9 +9601,6 @@
 0.0.0.0 madserve.aarth.net
 0.0.0.0 push.aarth.net
 0.0.0.0 rtb.aarth.net
-#[hetaruvg.com]
-0.0.0.0 ak.hetaruvg.com
-0.0.0.0 hetaruvg.com
 #[m6r.eu]
 0.0.0.0 cdn.m6r.eu
 0.0.0.0 origin-tracking.m6r.eu
@@ -9707,3 +9701,21 @@
 #[ackcdn.net]
 0.0.0.0 ackcdn.net
 0.0.0.0 s3t3d2y7.ackcdn.net
+#[hetaruvg.com]
+0.0.0.0 ak.hetaruvg.com
+0.0.0.0 hetaruvg.com
+#[hetaruwg.com]
+0.0.0.0 ak.hetaruwg.com
+0.0.0.0 hetaruwg.com
+#[hetartwg.com]
+0.0.0.0 hetartwg.com
+0.0.0.0 ak.hetartwg.com
+#[hetapus.com]
+0.0.0.0 hetapus.com
+0.0.0.0 ak.hetapus.com
+#[hetaint.com]
+0.0.0.0 hetaint.com
+0.0.0.0 ak.hetaint.com
+#[hetahien.com]
+0.0.0.0 hetahien.com
+0.0.0.0 ak.hetahien.com

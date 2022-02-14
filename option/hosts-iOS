@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Feb 2022 16:01 UTC+7
-# Version: 2202101601
-# Blocked: 15.295 domains
+# Last modified: 14 Feb 2022 10:21 UTC+7
+# Version: 2202141021
+# Blocked: 15.306 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8617,8 +8617,6 @@
 0 stats.clevernt.com
 0 ui.clevernt.com
 0 www.clevernt.com
-0 ak.hetaruwg.com
-0 hetaruwg.com
 0 jsc.marketgid.com
 0 marketgid.com
 0 www.marketgid.com
@@ -8691,8 +8689,6 @@
 0 madserve.aarth.net
 0 push.aarth.net
 0 rtb.aarth.net
-0 ak.hetaruvg.com
-0 hetaruvg.com
 0 cdn.m6r.eu
 0 origin-tracking.m6r.eu
 0 tracking.m6r.eu
@@ -8778,6 +8774,18 @@
 0 t.appsflyersdk.com
 0 ackcdn.net
 0 s3t3d2y7.ackcdn.net
+0 ak.hetaruvg.com
+0 hetaruvg.com
+0 ak.hetaruwg.com
+0 hetaruwg.com
+0 hetartwg.com
+0 ak.hetartwg.com
+0 hetapus.com
+0 ak.hetapus.com
+0 hetaint.com
+0 ak.hetaint.com
+0 hetahien.com
+0 ak.hetahien.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10438,6 +10446,7 @@
 0 ff-membership-garena.com
 0 ff-membersship-garrena.com
 0 ff-memnber-garena.com
+0 ff-menber-garena.vn
 0 ff.garena.memmbershipp.com
 0 ff.member.garenae.vn
 0 freefire-membershipvn-garena.com
@@ -12549,7 +12558,6 @@
 0 heratheacle.com
 0 herbalaffiliateprogram.com
 0 herdcowhas.icu
-0 hetapus.com
 0 heyos.com
 0 heywire.com
 0 hfc195b.com
@@ -14927,11 +14935,13 @@
 0 incoming.telemetry.mozilla.org
 0 infinityid.condenastdigital.com
 0 inside-graph.com
+0 insights-collector.newrelic.com
 0 intake-analytics.wikimedia.org
 0 intent.cbsi.com
 0 invitejs.trustpilot.com
 0 invoca.net
 0 iovation.com
+0 js-agent.newrelic.com
 0 js.hscollectedforms.net
 0 js.hsleadflows.net
 0 jsonip.com
@@ -15148,6 +15158,7 @@
 0 ted.dailymail.co.uk
 0 ted.metro.co.uk
 0 tedgenet.com
+0 telemetry.art19.com
 0 telemetry.dropbox.com
 0 theirsvendor.com
 0 thoosje.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Feb 2022 16:01 UTC+7
-! Version: 2202101601
-! Blocked: 1.077 rules
+! Last modified: 14 Feb 2022 10:21 UTC+7
+! Version: 2202141021
+! Blocked: 1.086 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -680,6 +680,7 @@
 ||50soc.com^
 ||5123b.com^
 ||520xiaojin.com^
+||668kbet.com^
 ||68rich.com^
 ||68rich.org^
 ||789.club^
@@ -775,6 +776,7 @@
 ||fun1118.com^
 ||funtructuyen88.com^
 ||gamebai.club^
+||gameiwin.vip^
 ||gamequyong.site^
 ||gamequyong.xyz^
 ||gaznbike.com^
@@ -890,7 +892,10 @@
 ||playgo88.asia^
 ||playiwin.biz^
 ||playiwin.site^
+||playiwin.uk^
 ||playmanclub.uk^
+||playmanclub.us^
+||playmanclub.vin^
 ||playv8.com^
 ||playv8.vip^
 ||qq288jak.com^
@@ -901,8 +906,10 @@
 ||ric.win^
 ||rik.vip^
 ||rik.win^
+||rikgame.live^
 ||rikvip.uk^
 ||rikvip.us^
+||rikvipp.net^
 ||rio66qc.club^
 ||sbc31.com^
 ||sieubomtan.com^
@@ -929,6 +936,7 @@
 ||taib52.club^
 ||taib52.com^
 ||taib52.vin^
+||taiiwinclub.cc^
 ||taimacau.club^
 ||taiv8.com^
 ||taiv8.info^
@@ -1035,6 +1043,7 @@
 ||ff-membership-garena.com^
 ||ff-membersship-garrena.com^
 ||ff-memnber-garena.com^
+||ff-menber-garena.vn^
 ||ff.garena.memmbershipp.com^
 ||ff.member.garenae.vn^
 ||freefire-membershipvn-garena.com^
