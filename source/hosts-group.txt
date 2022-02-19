@@ -8549,7 +8549,6 @@
 0.0.0.0 i.bestcontentfood.top
 #[naver.com]
 0.0.0.0 ad.naver.com
-0.0.0.0 adcr.naver.com
 0.0.0.0 adlog.shopping.naver.com
 #[ematicsolutions.com]
 0.0.0.0 api.ematicsolutions.com
@@ -9719,3 +9718,7 @@
 #[hetahien.com]
 0.0.0.0 hetahien.com
 0.0.0.0 ak.hetahien.com
+#[admix.in]
+0.0.0.0 admix.in
+0.0.0.0 geoip5m1y07.admix.in
+0.0.0.0 ssp.admix.in

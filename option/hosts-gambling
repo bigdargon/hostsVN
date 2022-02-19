@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 14 Feb 2022 10:21 UTC+7
-# Version: 2202141021
-# Blocked: 3.287 domains
+# Last modified: 19 Feb 2022 12:40 UTC+7
+# Version: 2202191240
+# Blocked: 3.294 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1050,6 +1050,13 @@
 0.0.0.0 www.668kbet.com
 0.0.0.0 taiiwinclub.cc
 0.0.0.0 ads.taiiwinclub.cc
+0.0.0.0 gamevipclub.fun
+0.0.0.0 qc.gamevipclub.fun
+0.0.0.0 playkeno68.me
+0.0.0.0 pro.playkeno68.me
+0.0.0.0 vaorikvip.net
+0.0.0.0 dk.vaorikvip.net
+0.0.0.0 taiiwin.club
 # --- Block other gameblingVN ---
 0.0.0.0 978bet3.com
 0.0.0.0 www.978bet3.com

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Feb 2022 10:21 UTC+7
-# Version: 2202141021
-# Blocked: 15.306 domains
+# Last modified: 19 Feb 2022 12:40 UTC+7
+# Version: 2202191240
+# Blocked: 15.315 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7803,7 +7803,6 @@
 0 cdn3.bestcontentfood.top
 0 i.bestcontentfood.top
 0 ad.naver.com
-0 adcr.naver.com
 0 adlog.shopping.naver.com
 0 api.ematicsolutions.com
 0 ematicsolutions.com
@@ -8786,6 +8785,9 @@
 0 ak.hetaint.com
 0 hetahien.com
 0 ak.hetahien.com
+0 admix.in
+0 geoip5m1y07.admix.in
+0 ssp.admix.in
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10127,6 +10129,7 @@
 0 ghimc.vn
 0 go.vnecdn.com
 0 hexapinow.xyz
+0 iads.staticscdn.net
 0 imgcdnbet.com
 0 interactive.tinnhanhchungkhoan.vn
 0 k8trangphim.com
@@ -10452,15 +10455,19 @@
 0 freefire-membershipvn-garena.com
 0 gaerena.vn
 0 garaena.vn
+0 garane.vn
 0 garean.vn
 0 gareena.vn
 0 garena-members.com
 0 garena.fan
+0 garena.mobi
+0 garenaa.vn
 0 garenaj.vn
 0 garera.vn
 0 garrena.vn
 0 giftcode-lienquanmobile-vn.com
 0 giftcode-mobilelienquan.com
+0 https-apple.com
 0 irduwhojas.ga
 0 kaurroot.com
 0 larpollicwilli.club
@@ -10472,6 +10479,7 @@
 0 member-garena.vn
 0 memberr-garenaa.com
 0 membershipsgarenavn-ff.com
+0 menberships-ff-garrena.com
 0 news-good.net
 0 nhanquaffob31.com
 0 qualienquan.vn
@@ -10479,6 +10487,7 @@
 0 sacchaeleduk.com
 0 smilitygorb.club
 0 tammenaa.com
+0 thegioididong.me
 0 thseaeing.fun
 0 ucesreferre.club
 0 vongquay-pubgmobilevn-zing.com
@@ -12637,7 +12646,6 @@
 0 iabtechlab.com
 0 iad.anm.co.uk
 0 iadnet.com
-0 iads.staticscdn.net
 0 iapclick.gowadogo.com
 0 iasds01.com
 0 ib-ibi.com
@@ -13370,6 +13378,7 @@
 0 passion-4.net
 0 passtechusa.com
 0 pateablyace.com
+0 pauewr4cw2xs5q.com
 0 pay-ads.com
 0 paycounter.com
 0 paypopup.com
