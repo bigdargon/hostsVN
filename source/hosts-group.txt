@@ -400,6 +400,7 @@
 0.0.0.0 saber.srvcs.tumblr.com
 #[yahoo.com]
 0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 geo.yahoo.com
@@ -9722,3 +9723,10 @@
 0.0.0.0 admix.in
 0.0.0.0 geoip5m1y07.admix.in
 0.0.0.0 ssp.admix.in
+#[playstream.media]
+0.0.0.0 app.playstream.media
+0.0.0.0 playstream.media
+0.0.0.0 servg.playstream.media
+0.0.0.0 servx.playstream.media
+0.0.0.0 streaming.playstream.media
+0.0.0.0 tg1.playstream.media

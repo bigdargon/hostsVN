@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Feb 2022 12:40 UTC+7
-# Version: 2202191240
-# Blocked: 1.718 domains
+# Last modified: 27 Feb 2022 22:49 UTC+7
+# Version: 2202272249
+# Blocked: 1.719 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -414,6 +414,7 @@
 0.0.0.0 ads.zalo.me
 0.0.0.0 api.widget.zalo.me
 0.0.0.0 button-follow.zalo.me
+0.0.0.0 button-share.zalo.me
 0.0.0.0 page.widget.zalo.me
 0.0.0.0 px.za.zalo.me
 0.0.0.0 widget.chat.zalo.me

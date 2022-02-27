@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 Feb 2022 12:40 UTC+7
-! Version: 2202191240
-! Blocked: 1.097 rules
+! Last modified: 27 Feb 2022 22:49 UTC+7
+! Version: 2202272249
+! Blocked: 1.098 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -67,6 +67,7 @@
 ||bongdadem.net^
 ||brand.zing.vn^
 ||button-follow.zalo.me^
+||button-share.zalo.me^
 ||bwstatistics.sapoapps.vn^
 ||cdn-bongdadem-net.cdn.ampproject.org^
 ||cdn-qc.coccoc.com^

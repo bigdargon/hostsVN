@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 19 Feb 2022 12:40 UTC+7
-! Version: 2202191240
-! Blocked: 6.966 rules
+! Last modified: 27 Feb 2022 22:49 UTC+7
+! Version: 2202272249
+! Blocked: 6.970 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -67,6 +67,7 @@
 ||bongdadem.net^
 ||brand.zing.vn^
 ||button-follow.zalo.me^
+||button-share.zalo.me^
 ||bwstatistics.sapoapps.vn^
 ||cdn-bongdadem-net.cdn.ampproject.org^
 ||cdn-qc.coccoc.com^
@@ -1397,6 +1398,7 @@
 ||api.setting.intl.miui.com^
 ||api.share.mob.com^
 ||app-adforce.jp^
+||app.ssp.yahoo.com^
 ||appadhoc.com^
 ||appads.in^
 ||appbaqend.com^
@@ -1996,6 +1998,7 @@
 ||pixel.facebook.com^
 ||pixel.spotify.com^
 ||platform.tumblr.com^
+||playstream.media^
 ||pmddby.com^
 ||popads.net^
 ||popcash.net^
@@ -3809,7 +3812,6 @@
 ||connexity.net^
 ||connextra.com^
 ||consciouschairs.com^
-||consent.cmp.oath.com^
 ||consequentlyinmate.com^
 ||constintptr.com^
 ||constrongyfe.site^
@@ -3879,6 +3881,7 @@
 ||crosspromo.voodoo.io^
 ||crowdgravity.com^
 ||crtv.mate1.com^
+||csm.cxpublic.com^
 ||cst.cstwpush.com^
 ||cubics.com^
 ||culmedmaumee.com^
@@ -4772,6 +4775,7 @@
 ||magnetic.com^
 ||magnificentmist.com^
 ||magnite.com^
+||makespram.com^
 ||malware-scan.com^
 ||manage.com^
 ||mancehostic.site^
@@ -5587,6 +5591,7 @@
 ||sailif.com^
 ||salinasbhut.com^
 ||saltinourhairtv.com^
+||salutationcheerlessdemote.com^
 ||samplerpouch.com^
 ||samsungads.com^
 ||sandsitedrhec.club^
@@ -5634,7 +5639,6 @@
 ||servedbyopenx.com^
 ||server.iad.liveperson.net^
 ||servethis.com^
-||service.cmp.oath.com^
 ||service.e-volution.ai^
 ||services.hearstmags.com^
 ||servsave.com^

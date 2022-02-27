@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Feb 2022 12:40 UTC+7
-# Version: 2202191240
-# Blocked: 15.315 domains
+# Last modified: 27 Feb 2022 22:49 UTC+7
+# Version: 2202272249
+# Blocked: 15.324 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -412,6 +412,7 @@
 0.0.0.0 saber.srvcs.tumblr.com
 #[yahoo.com]
 0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 geo.yahoo.com
@@ -9734,6 +9735,13 @@
 0.0.0.0 admix.in
 0.0.0.0 geoip5m1y07.admix.in
 0.0.0.0 ssp.admix.in
+#[playstream.media]
+0.0.0.0 app.playstream.media
+0.0.0.0 playstream.media
+0.0.0.0 servg.playstream.media
+0.0.0.0 servx.playstream.media
+0.0.0.0 streaming.playstream.media
+0.0.0.0 tg1.playstream.media
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -10138,6 +10146,7 @@
 0.0.0.0 ads.zalo.me
 0.0.0.0 api.widget.zalo.me
 0.0.0.0 button-follow.zalo.me
+0.0.0.0 button-share.zalo.me
 0.0.0.0 page.widget.zalo.me
 0.0.0.0 px.za.zalo.me
 0.0.0.0 widget.chat.zalo.me
@@ -13090,7 +13099,6 @@
 0.0.0.0 connexity.net
 0.0.0.0 connextra.com
 0.0.0.0 consciouschairs.com
-0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consequentlyinmate.com
 0.0.0.0 constintptr.com
 0.0.0.0 constrongyfe.site
@@ -13160,6 +13168,7 @@
 0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 crowdgravity.com
 0.0.0.0 crtv.mate1.com
+0.0.0.0 csm.cxpublic.com
 0.0.0.0 cst.cstwpush.com
 0.0.0.0 cubics.com
 0.0.0.0 culmedmaumee.com
@@ -14051,6 +14060,7 @@
 0.0.0.0 magnetic.com
 0.0.0.0 magnificentmist.com
 0.0.0.0 magnite.com
+0.0.0.0 makespram.com
 0.0.0.0 malware-scan.com
 0.0.0.0 manage.com
 0.0.0.0 mancehostic.site
@@ -14864,6 +14874,7 @@
 0.0.0.0 sailif.com
 0.0.0.0 salinasbhut.com
 0.0.0.0 saltinourhairtv.com
+0.0.0.0 salutationcheerlessdemote.com
 0.0.0.0 samplerpouch.com
 0.0.0.0 samsungads.com
 0.0.0.0 sandsitedrhec.club
@@ -14911,7 +14922,6 @@
 0.0.0.0 servedbyopenx.com
 0.0.0.0 server.iad.liveperson.net
 0.0.0.0 servethis.com
-0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.e-volution.ai
 0.0.0.0 services.hearstmags.com
 0.0.0.0 servsave.com
