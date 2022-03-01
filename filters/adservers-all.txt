@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 27 Feb 2022 22:49 UTC+7
-! Version: 2202272249
-! Blocked: 6.970 rules
+! Last modified: 01 Mar 2022 10:30 UTC+7
+! Version: 2203011030
+! Blocked: 6.971 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -215,6 +215,7 @@
 ||yoads.network^
 ||yomedia.vn^
 ||younetmedia.com^
+||za.zdn.vn^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
 ||zalo-ads-480-td.zadn.vn^
