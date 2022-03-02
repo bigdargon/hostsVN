@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Mar 2022 10:30 UTC+7
-# Version: 2203011030
-# Blocked: 15.325 domains
+# Last modified: 02 Mar 2022 15:26 UTC+7
+# Version: 2203021526
+# Blocked: 15.332 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8795,6 +8795,13 @@
 0 servx.playstream.media
 0 streaming.playstream.media
 0 tg1.playstream.media
+0 ads.betweendigital.com
+0 betweendigital.com
+0 adwmg.com
+0 hb.adwmg.com
+0 rtb.adwmg.com
+0 vastb.adwmg.com
+0 www.adwmg.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
