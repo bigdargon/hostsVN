@@ -277,8 +277,11 @@ analytics.pinterest.com
 analytics.query.yahoo.com
 analytics.spotify.com
 analytics.tiktok.com
+analytics.twitter.com
 analytics.yahoo.com
 andbeyond.media
+androidtvchannels-pa.googleapis.com
+androidtvwatsonfe-pa.googleapis.com
 aniview.com
 anymad.com
 api-*.bidmachine.io
@@ -347,7 +350,11 @@ awsync.yandex.ru
 axonix.com
 ayads.co
 b2c.com
+b90.yahoo.co.jp
 b91vip.com
+b92.yahoo.co.jp
+b94.yahoo.co.jp
+b97.yahoo.co.jp
 balanced-collect.deltadna.net
 balanced-engage.deltadna.net
 bam-x.com
@@ -478,6 +485,7 @@ convertexperiments.com
 convertful.com
 cpmstar.com
 cpx.to
+cquotient.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
 crazyegg.com
@@ -485,6 +493,8 @@ creativecdn.com
 creativesumo.com
 criteo.com
 criteo.net
+crs-event.line.me
+crs-hometab-event.line.me
 crsspxl.com
 crwdcntrl.net
 ctnsnet.com
@@ -493,6 +503,7 @@ cxense.com
 czilladx.com
 d1ros97qkrwjf5.cloudfront.net
 d1v373ntykegkp.cloudfront.net
+d2-apps.net
 d26tbbq8zqdi4v.cloudfront.net
 d2dq2ahtl5zl1z.cloudfront.net
 d2r173wcohmi6.cloudfront.net
@@ -504,6 +515,7 @@ d5nxst8fruw4z.cloudfront.net
 data.mistat.intl.xiaomi.com
 data.sec.intl.miui.com
 data.sec.miui.com
+datacollector-*.dt.hicloud.com
 datawrkz.com
 deepintent.com
 demandbase.com
@@ -551,6 +563,7 @@ eskimi.com
 ethicalads.io
 eventgateway.soundcloud.com
 eventlogger.soundcloud.com
+events-*.op.hicloud.com
 events-collector.spot.im
 everesttech.net
 evidon.com
@@ -717,6 +730,7 @@ keywee.co
 kochava.com
 krxd.net
 ladsp.com
+ladsp.jp
 lalaping.com
 leadboltads.net
 leadforensics.com
@@ -739,12 +753,15 @@ log.kajicam.com
 log.pinterest.com
 log.spotify.com
 log.tbs.qq.com
+logbak.hicloud.com
 logly.co.jp
 logql.yahoo.co.jp
 logrocket.com
 logrocket.io
 logs.datadoghq.com
 logsdk.qq.com
+logservice-*.platform.hicloud.com
+logservice.hicloud.com
 logssug.ucweb.com
 logupdate.avlyun.sec.miui.com
 loopme.me
@@ -784,6 +801,7 @@ mediawayss.com
 meitustat.com
 mellowads.com
 metok.sys.miui.com
+metrics-*.dt.hicloud.com
 metrics-logger.spot.im
 metrics.client-eng.a2z.com
 metrics.cnn.com
@@ -835,6 +853,7 @@ navdmp.com
 nawpush.com
 nbryb.com
 ncaudienceexchange.com
+nelo2-col.linecorp.com
 nend.net
 netcoresmartech.com
 netund.com
@@ -923,6 +942,7 @@ promotionalads.yahoo.co.jp
 propellerads.com
 propellerclick.com
 proper.io
+protagcdn.com
 ptengine.cn
 ptengine.com
 ptengine.jp
@@ -1034,6 +1054,7 @@ smaato.net
 smac-ad.com
 smartadserver.com
 smartlook.com
+smartnews-ads.com
 smetrics.cnn.com
 smrtb.com
 snapads.com
@@ -1093,6 +1114,8 @@ tenmax.io
 tg.meitu.com
 themoneytizer.com
 tns-counter.ru
+torimochi.line-apps.com
+tr.line.me
 trace.qq.com
 track.uc.cn
 tracker.ai.xiaomi.com
@@ -1144,6 +1167,7 @@ upsight.com
 urlhausa.com
 userreport.com
 usp1.baidu.com
+uts-front.line-apps.com
 uttclimber.com
 v*.denakop.com
 vaicore.site
@@ -1153,6 +1177,7 @@ valuecommerce.com
 vasstycom.com
 vdo.ai
 vercel-insights.com
+veta.naver.com
 vi-serve.com
 viadata.store
 videoadex.com
@@ -1183,6 +1208,7 @@ wg-aff.com
 winadx.com
 wkclick.baidu.com
 wkctj.baidu.com
+woodpeckerlog.com
 woopra.com
 wootric.com
 wowreality.info
@@ -1196,6 +1222,7 @@ wywyuserservice.com
 xapads.com
 xdrig.com
 ximad.com
+xlisting.jp
 xlmc.sec.miui.com
 xmlppcbuzz.com
 xtremepush.com
@@ -1214,6 +1241,7 @@ yomeno.xyz
 youbora.com
 youborafds01.com
 your-notice.com
+yourwebbars.com
 zcoup.com
 zenadservices.net
 zergnet.com
@@ -1243,6 +1271,7 @@ zucks.net
 4wnet.com
 520click.com
 5advertise.com
+5toft8or7on8tt.com
 7c0616849b.com
 999.money
 9gg23.com
@@ -2277,6 +2306,7 @@ awaps.net
 awempire.com
 aweprt.com
 awfulporetroys.casa
+awigglespouter.cam
 awzbijw.com
 axdsz.pro
 axiomaticalley.com
@@ -2811,6 +2841,7 @@ d3mzokty951c5w.cloudfront.net
 d3ou4areduq72f.cloudfront.net
 d3v3bqdndm4erx.cloudfront.net
 da-ads.com
+dacmaiss.com
 dads.wedobest.com.cn
 dadsimz.com
 dadslims.com
@@ -2833,6 +2864,7 @@ ddmax20.xyz
 de17a.com
 deadpantruck.com
 dealdotcom.com
+dealtsowbite.com
 deanmediagroup.com
 debadu.com
 debonairway.com
@@ -3084,6 +3116,7 @@ f5biz.com
 facilitategrandfather.com
 factoryaudioherd.com
 fadedprofit.com
+fadingamendable.com
 fadverdirect.com
 fagywalu.pro
 faidoud.com
@@ -3608,6 +3641,7 @@ lightboxcdn.com
 lightcushion.com
 lightningcast.net
 lightspeedcash.com
+likedstring.com
 lilureem.com
 limeclassycaption.com
 link-booster.de
@@ -4421,6 +4455,7 @@ retagro.com
 retargeter.com
 retargetly.com
 rev2pub.com
+revealoverheadearth.com
 revengemeantjackpot.com
 revenue.net
 revenuedirect.com
@@ -4568,6 +4603,7 @@ shinystat.com
 shinystat.it
 shlyapajhd2kle8pnc09.com
 shndrktrk.com
+shoagooy.net
 shofteph.com
 shoppingads.com
 shopzilla.com
@@ -4584,6 +4620,7 @@ simpletexting.com
 simplycast.com
 sincerebuffalo.com
 sinefight-skinesia.com
+sinewedretore.casa
 sinoa.com
 sistacked.com
 sitedataprocessing.com
@@ -4783,6 +4820,7 @@ t.insigit.com
 t.myvisualiq.net
 t7z.cupid.iqiyi.com
 tacoda.net
+tacticmarshannouncing.com
 tagbom.com
 tagmngrs.com
 tagular.com
@@ -5621,6 +5659,8 @@ montacarichi.it
 monu.delivery
 mousestats.com
 movestone.net
+msg-intl.qy.net
+msg.qy.net
 mybbc-analytics.files.bbci.co.uk
 netcore.co.in
 newlog.lilithgame.com
@@ -5655,6 +5695,7 @@ pjhku.com
 plausible.io
 play.leadzutw.com
 playtomic.com
+poole-collector-prod.n3twork.com
 popupmaker.com
 presage.io
 promotionengine.com

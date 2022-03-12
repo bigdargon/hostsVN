@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Mar 2022 15:26 UTC+7
-! Version: 2203021526
-! Blocked: 1.099 rules
+! Last modified: 12 Mar 2022 22:27 UTC+7
+! Version: 2203122227
+! Blocked: 1.105 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -337,6 +337,7 @@
 ||adx.xtv.vn^
 ||affiliate.k4.tinhte.vn^
 ||ailamtrieuphu.com^
+||aj2393.online^
 ||ak9.6895588.com^
 ||an.dongphim.net^
 ||an.xemvtv.net^
@@ -466,6 +467,7 @@
 ||analytics.explus.vn^
 ||analytics.hub-js.com^
 ||analytics.mfocus.vn^
+||analytics.molistar.com^
 ||analytics.moneycat.vn^
 ||analytics.nhattao.com^
 ||analytics.rever.vn^
@@ -612,6 +614,7 @@
 ||thongke.24h.com.vn^
 ||thongke.baotintuc.vn^
 ||thongke.opencps.vn^
+||thongke.vui.vn^
 ||thongke99.baogiaothong.vn^
 ||tr.topdevvn.com^
 ||track-srv.vietnamnet.vn^
@@ -903,6 +906,7 @@
 ||playmanclub.vin^
 ||playv8.com^
 ||playv8.vip^
+||qq288.com^
 ||qq288jak.com^
 ||qq8788viet.com^
 ||r88.vn^
@@ -992,6 +996,7 @@
 ||vngame66.com^
 ||vnloto.com^
 ||vnloto.vip^
+||vnq8.bet^
 ||vua1004.club^
 ||vua1005.club^
 ||vuabai9.com^
@@ -1092,6 +1097,7 @@
 ||thseaeing.fun^
 ||ucesreferre.club^
 ||uqoxh.icu^
+||vietnammoi.biz^
 ||vongquay-pubgmobilevn-zing.com^
 ||vongquaymienphi.net^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
