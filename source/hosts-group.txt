@@ -839,7 +839,6 @@
 0.0.0.0 lyncwebapp.exponential.com
 0.0.0.0 marketing.exponential.com
 0.0.0.0 meet.exponential.com
-0.0.0.0 ns1.exponential.com
 0.0.0.0 ocsext.exponential.com
 0.0.0.0 ocsext1.exponential.com
 0.0.0.0 owa.exponential.com
@@ -1004,9 +1003,11 @@
 0.0.0.0 www.duapps.com
 #[herokuapp.com]
 0.0.0.0 adstage-analytics.herokuapp.com
+0.0.0.0 anti-adblock.herokuapp.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 filament-stats.herokuapp.com
+0.0.0.0 fs-client-logger.herokuapp.com
 0.0.0.0 ilyonanalytics.herokuapp.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 statt-collect.herokuapp.com
@@ -3077,7 +3078,6 @@
 0.0.0.0 cast.innity.com
 0.0.0.0 innity.com
 0.0.0.0 network.innity.com
-0.0.0.0 ns2.innity.com
 0.0.0.0 optimize.innity.com
 0.0.0.0 programmatic.innity.com
 0.0.0.0 ps.innity.com
@@ -7215,11 +7215,17 @@
 0.0.0.0 vacs.movad.net
 0.0.0.0 vast.movad.net
 0.0.0.0 www.movad.net
+#[taobao.com]
+0.0.0.0 audid-api-sg.taobao.com
+0.0.0.0 audid-api.taobao.com
+0.0.0.0 fourier.taobao.com
+0.0.0.0 sjarvis.taobao.com
 #[m.taobao.com]
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adashbc.m.taobao.com
 0.0.0.0 adashx.m.taobao.com
 0.0.0.0 amdc.m.taobao.com
+0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 m-adash.m.taobao.com
 0.0.0.0 umengacs.m.taobao.com

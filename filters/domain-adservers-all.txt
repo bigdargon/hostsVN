@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 12 Mar 2022 22:27 UTC+7
-! Version: 2203122227
-! Blocked: 7.020 domains
+! Last modified: 14 Mar 2022 09:16 UTC+7
+! Version: 2203140916
+! Blocked: 7.028 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -1366,6 +1366,7 @@ amazon-adsystem.com
 amazon-adsystems.com
 ambientdsp.cachefly.net
 amdc.m.taobao.com
+amdcopen.m.taobao.com
 amplitude.com
 amung.us
 an.facebook.com
@@ -1390,6 +1391,7 @@ andbeyond.media
 androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
 aniview.com
+anti-adblock.herokuapp.com
 anymad.com
 api-*.bidmachine.io
 api-ad-data.kajicam.com
@@ -1446,6 +1448,8 @@ ateam-ad.jp
 atemda.com
 atomex.net
 atwola.com
+audid-api-sg.taobao.com
+audid-api.taobao.com
 authbe.sec.intl.miui.com
 automatad.com
 auxml.com
@@ -1577,7 +1581,8 @@ cm-exchange.toast.com
 cnnx.io
 cnt.my
 collecticon.outlookmobile.com
-collection-*.herokuapp.com
+collection-endpoint-prod.herokuapp.com
+collection-endpoint-staging.herokuapp.com
 collector-*.perimeterx.net
 confiant-integrations.global.ssl.fastly.net
 connatix.com
@@ -1706,10 +1711,12 @@ flurry.cachefly.net
 flurry.com
 flux-adserver.com
 fouanalytics.com
+fourier.taobao.com
 fout.jp
 fqtag.com
 freeskreen.com
 freshmarketer.com
+fs-client-logger.herokuapp.com
 fyber.com
 gads*s.com
 gads*z.com
@@ -2156,6 +2163,7 @@ simpli.fi
 siteimprove.com
 sitescout.com
 siteswithcontent.com
+sjarvis.taobao.com
 smaato.com
 smaato.net
 smac-ad.com

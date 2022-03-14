@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Mar 2022 22:27 UTC+7
-# Version: 2203122227
-# Blocked: 15.386 domains
+# Last modified: 14 Mar 2022 09:16 UTC+7
+# Version: 2203140916
+# Blocked: 15.391 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -774,7 +774,6 @@
 0 lyncwebapp.exponential.com
 0 marketing.exponential.com
 0 meet.exponential.com
-0 ns1.exponential.com
 0 ocsext.exponential.com
 0 ocsext1.exponential.com
 0 owa.exponential.com
@@ -933,9 +932,11 @@
 0 whosthat.ssl2.duapps.com
 0 www.duapps.com
 0 adstage-analytics.herokuapp.com
+0 anti-adblock.herokuapp.com
 0 collection-endpoint-prod.herokuapp.com
 0 collection-endpoint-staging.herokuapp.com
 0 filament-stats.herokuapp.com
+0 fs-client-logger.herokuapp.com
 0 ilyonanalytics.herokuapp.com
 0 onespot-tracking.herokuapp.com
 0 statt-collect.herokuapp.com
@@ -2837,7 +2838,6 @@
 0 cast.innity.com
 0 innity.com
 0 network.innity.com
-0 ns2.innity.com
 0 optimize.innity.com
 0 programmatic.innity.com
 0 ps.innity.com
@@ -6638,10 +6638,15 @@
 0 vacs.movad.net
 0 vast.movad.net
 0 www.movad.net
+0 audid-api-sg.taobao.com
+0 audid-api.taobao.com
+0 fourier.taobao.com
+0 sjarvis.taobao.com
 0 adash.m.taobao.com
 0 adashbc.m.taobao.com
 0 adashx.m.taobao.com
 0 amdc.m.taobao.com
+0 amdcopen.m.taobao.com
 0 c-adash.m.taobao.com
 0 m-adash.m.taobao.com
 0 umengacs.m.taobao.com

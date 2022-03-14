@@ -758,7 +758,6 @@ lyncshare.exponential.com
 lyncwebapp.exponential.com
 marketing.exponential.com
 meet.exponential.com
-ns1.exponential.com
 ocsext.exponential.com
 ocsext1.exponential.com
 owa.exponential.com
@@ -917,9 +916,11 @@ video.rec.duapps.com
 whosthat.ssl2.duapps.com
 www.duapps.com
 adstage-analytics.herokuapp.com
+anti-adblock.herokuapp.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
 filament-stats.herokuapp.com
+fs-client-logger.herokuapp.com
 ilyonanalytics.herokuapp.com
 onespot-tracking.herokuapp.com
 statt-collect.herokuapp.com
@@ -2821,7 +2822,6 @@ avp.innity.com
 cast.innity.com
 innity.com
 network.innity.com
-ns2.innity.com
 optimize.innity.com
 programmatic.innity.com
 ps.innity.com
@@ -6622,10 +6622,15 @@ track.movad.net
 vacs.movad.net
 vast.movad.net
 www.movad.net
+audid-api-sg.taobao.com
+audid-api.taobao.com
+fourier.taobao.com
+sjarvis.taobao.com
 adash.m.taobao.com
 adashbc.m.taobao.com
 adashx.m.taobao.com
 amdc.m.taobao.com
+amdcopen.m.taobao.com
 c-adash.m.taobao.com
 m-adash.m.taobao.com
 umengacs.m.taobao.com
