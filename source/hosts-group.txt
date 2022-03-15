@@ -2317,7 +2317,7 @@
 0.0.0.0 cdn.branch.io
 0.0.0.0 gdpr.branch.io
 0.0.0.0 go.branch.io
-0.0.0.0 growth.branch.
+0.0.0.0 growth.branch.io
 0.0.0.0 start.branch.io
 0.0.0.0 video.branch.io
 0.0.0.0 vulcan.branch.io
@@ -3506,10 +3506,12 @@
 0.0.0.0 developers.pubnative.net
 0.0.0.0 dsp.pubnative.net
 0.0.0.0 got.pubnative.net
+0.0.0.0 hbrc.pubnative.net
 0.0.0.0 market.pubnative.net
 0.0.0.0 ml.pubnative.net
 0.0.0.0 opensource.pubnative.net
 0.0.0.0 pb.pubnative.net
+0.0.0.0 pubnative.net
 0.0.0.0 tr.pubnative.net
 0.0.0.0 www.pubnative.net
 #[adroll.com]

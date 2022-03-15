@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Mar 2022 09:16 UTC+7
-! Version: 2203140916
-! Blocked: 7.028 rules
+! Last modified: 15 Mar 2022 10:37 UTC+7
+! Version: 2203151037
+! Blocked: 7.030 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2370,6 +2370,7 @@
 ||0x01n2ptpuz3.com^
 ||1-1ads.com^
 ||152media.info^
+||1frozenthrone1.com^
 ||1phads.com^
 ||207.net^
 ||247media.com^
@@ -4990,6 +4991,7 @@
 ||moversa.com^
 ||movie-pass.live^
 ||mowfruit.com^
+||mp3zik.net^
 ||mpstat.us^
 ||mr-rank.de^
 ||mrskincash.com^
@@ -5630,6 +5632,7 @@
 ||runads.com^
 ||runbornto.com^
 ||rundsp.com^
+||runreferences.com^
 ||rusenov.com^
 ||ruthlessrobin.com^
 ||rutpunishsnitch.com^
@@ -6788,7 +6791,6 @@
 ||ophan.theguardian.com^
 ||optnmstr.com^
 ||p.trvdp.com^
-||p.typekit.net^
 ||pegloang.com^
 ||ping.kitidi.com^
 ||pingback.issuu.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Mar 2022 09:16 UTC+7
-# Version: 2203140916
-# Blocked: 15.391 domains
+# Last modified: 15 Mar 2022 10:37 UTC+7
+# Version: 2203151037
+# Blocked: 15.395 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2329,7 +2329,7 @@
 0.0.0.0 cdn.branch.io
 0.0.0.0 gdpr.branch.io
 0.0.0.0 go.branch.io
-0.0.0.0 growth.branch.
+0.0.0.0 growth.branch.io
 0.0.0.0 start.branch.io
 0.0.0.0 video.branch.io
 0.0.0.0 vulcan.branch.io
@@ -3518,10 +3518,12 @@
 0.0.0.0 developers.pubnative.net
 0.0.0.0 dsp.pubnative.net
 0.0.0.0 got.pubnative.net
+0.0.0.0 hbrc.pubnative.net
 0.0.0.0 market.pubnative.net
 0.0.0.0 ml.pubnative.net
 0.0.0.0 opensource.pubnative.net
 0.0.0.0 pb.pubnative.net
+0.0.0.0 pubnative.net
 0.0.0.0 tr.pubnative.net
 0.0.0.0 www.pubnative.net
 #[adroll.com]
@@ -11681,6 +11683,7 @@
 0.0.0.0 0x01n2ptpuz3.com
 0.0.0.0 1-1ads.com
 0.0.0.0 152media.info
+0.0.0.0 1frozenthrone1.com
 0.0.0.0 1phads.com
 0.0.0.0 207.net
 0.0.0.0 247media.com
@@ -14297,6 +14300,7 @@
 0.0.0.0 moversa.com
 0.0.0.0 movie-pass.live
 0.0.0.0 mowfruit.com
+0.0.0.0 mp3zik.net
 0.0.0.0 mpstat.us
 0.0.0.0 mr-rank.de
 0.0.0.0 mrskincash.com
@@ -14936,6 +14940,7 @@
 0.0.0.0 runads.com
 0.0.0.0 runbornto.com
 0.0.0.0 rundsp.com
+0.0.0.0 runreferences.com
 0.0.0.0 rusenov.com
 0.0.0.0 ruthlessrobin.com
 0.0.0.0 rutpunishsnitch.com
@@ -16224,7 +16229,6 @@
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optnmstr.com
 0.0.0.0 p.trvdp.com
-0.0.0.0 p.typekit.net
 0.0.0.0 pegloang.com
 0.0.0.0 ping.kitidi.com
 0.0.0.0 pingback.issuu.com
