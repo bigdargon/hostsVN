@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 31 Mar 2022 11:54 UTC+7
-# Version: 2203311154
-# Blocked: 15.444 domains
+# Last modified: 31 Mar 2022 15:41 UTC+7
+# Version: 2203311541
+# Blocked: 15.459 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3101,16 +3101,21 @@
 #[mmstat.com]
 0.0.0.0 ac.mmstat.com
 0.0.0.0 cnzz.mmstat.com
+0.0.0.0 gcd.mmstat.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 gm.mmstat.com
 0.0.0.0 go.mmstat.com
 0.0.0.0 gxb.mmstat.com
+0.0.0.0 hd.mmstat.com
 0.0.0.0 ju.mmstat.com
 0.0.0.0 log.gds.mmstat.com
 0.0.0.0 log.mmstat.com
+0.0.0.0 mmstat.com
+0.0.0.0 oneid.mmstat.com
 0.0.0.0 res.mmstat.com
 0.0.0.0 sg.mmstat.com
 0.0.0.0 wgo.mmstat.com
+0.0.0.0 ws.mmstat.com
 0.0.0.0 yt.mmstat.com
 #[jpush.cn]
 0.0.0.0 ali-stats.jpush.cn
@@ -7920,10 +7925,6 @@
 0.0.0.0 vast.adxoo.com
 0.0.0.0 www.adxoo.com
 0.0.0.0 ytvpaid.adxoo.com
-#[dynamicyield.com]
-0.0.0.0 px.dynamicyield.com
-0.0.0.0 srv.dynamicyield.com
-0.0.0.0 st.dynamicyield.com
 #[airpush.com]
 0.0.0.0 airpush.com
 0.0.0.0 api.airpush.com
@@ -9847,6 +9848,20 @@
 #[telemetry.swe.quicinc.com]
 0.0.0.0 telemetry.swe.quicinc.com
 0.0.0.0 tls.telemetry.swe.quicinc.com
+#[dynamicyield.com]
+0.0.0.0 async-px-eu.dynamicyield.com
+0.0.0.0 async-px.dynamicyield.com
+0.0.0.0 cdn-eu.dynamicyield.com
+0.0.0.0 cdn.dynamicyield.com
+0.0.0.0 em.dynamicyield.com
+0.0.0.0 px-eu.dynamicyield.com
+0.0.0.0 px.dynamicyield.com
+0.0.0.0 rcom-eu.dynamicyield.com
+0.0.0.0 rcom.dynamicyield.com
+0.0.0.0 rest.dynamicyield.com
+0.0.0.0 st-eu.dynamicyield.com
+0.0.0.0 st.dynamicyield.com
+0.0.0.0 static.dynamicyield.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn

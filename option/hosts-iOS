@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 31 Mar 2022 11:54 UTC+7
-# Version: 2203311154
-# Blocked: 15.444 domains
+# Last modified: 31 Mar 2022 15:41 UTC+7
+# Version: 2203311541
+# Blocked: 15.459 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2848,16 +2848,21 @@
 0 www.innity.com
 0 ac.mmstat.com
 0 cnzz.mmstat.com
+0 gcd.mmstat.com
 0 gj.mmstat.com
 0 gm.mmstat.com
 0 go.mmstat.com
 0 gxb.mmstat.com
+0 hd.mmstat.com
 0 ju.mmstat.com
 0 log.gds.mmstat.com
 0 log.mmstat.com
+0 mmstat.com
+0 oneid.mmstat.com
 0 res.mmstat.com
 0 sg.mmstat.com
 0 wgo.mmstat.com
+0 ws.mmstat.com
 0 yt.mmstat.com
 0 ali-stats.jpush.cn
 0 api.jpush.cn
@@ -7259,9 +7264,6 @@
 0 vast.adxoo.com
 0 www.adxoo.com
 0 ytvpaid.adxoo.com
-0 px.dynamicyield.com
-0 srv.dynamicyield.com
-0 st.dynamicyield.com
 0 airpush.com
 0 api.airpush.com
 0 applog.airpush.com
@@ -8878,6 +8880,19 @@
 0 tring.clo.footprintdns.com
 0 telemetry.swe.quicinc.com
 0 tls.telemetry.swe.quicinc.com
+0 async-px-eu.dynamicyield.com
+0 async-px.dynamicyield.com
+0 cdn-eu.dynamicyield.com
+0 cdn.dynamicyield.com
+0 em.dynamicyield.com
+0 px-eu.dynamicyield.com
+0 px.dynamicyield.com
+0 rcom-eu.dynamicyield.com
+0 rcom.dynamicyield.com
+0 rest.dynamicyield.com
+0 st-eu.dynamicyield.com
+0 st.dynamicyield.com
+0 static.dynamicyield.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
