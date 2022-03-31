@@ -97,6 +97,8 @@ fls.doubleclick.net
 undefined.fls.doubleclick.net
 adservice.google.com
 adservice.google.com.hk
+adservice.google.com.sg
+adservice.google.com.tr
 adservice.google.com.vn
 adservice.google.de
 googlesyndication.com
@@ -365,6 +367,7 @@ analytics.query.yahoo.com
 app.ssp.yahoo.com
 bats.video.yahoo.com
 beap-bc.yahoo.com
+geo.query.yahoo.com
 geo.yahoo.com
 marketingsolutions.yahoo.com
 nol.yahoo.com
@@ -7801,6 +7804,7 @@ jwpltx.com
 ping-meta-prd.jwpltx.com
 prd.jwpltx.com
 ak-events-collector.spot.im
+api-2-0.spot.im
 direct-events-collector.spot.im
 events-collector.spot.im
 metrics-logger.spot.im
@@ -8702,7 +8706,12 @@ mobile.ctnsnet.com
 uas.ctnsnet.com
 browser-http-intake.logs.datadoghq.com
 mobile-http-intake.logs.datadoghq.com
+public-trace-http-intake.logs.datadoghq.com
 rum-http-intake.logs.datadoghq.com
+browser-http-intake.logs.datadoghq.eu
+mobile-http-intake.logs.datadoghq.eu
+public-trace-http-intake.logs.datadoghq.eu
+rum-http-intake.logs.datadoghq.eu
 beacon-api.aliyuncs.com
 event-tracking-project.ap-southeast-1.log.aliyuncs.com
 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
@@ -8830,6 +8839,29 @@ tag.ladsp.jp
 cd.ladsp.com
 cr-pall.ladsp.com
 ladsp.com
+ana.headerlift.com
+headerlift.com
+pub.headerlift.com
+hb.improvedigital.com
+improvedigital.com
+lciapi.ninthdecimal.com
+ninthdecimal.com
+rtb.ninthdecimal.com
+e-volution.ai
+prebidcdn.e-volution.ai
+rtb2-eu.e-volution.ai
+rtb2-useast.e-volution.ai
+sync.e-volution.ai
+ad-cdn.technoratimedia.com
+prebid.technoratimedia.com
+sync.technoratimedia.com
+technoratimedia.com
+track.technoratimedia.com
+uat-net.technoratimedia.com
+footprintdns.com
+tring.clo.footprintdns.com
+telemetry.swe.quicinc.com
+tls.telemetry.swe.quicinc.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -10532,6 +10564,7 @@ nhanquaffob31.com
 qualienquan.vn
 rituationscardb.info
 sacchaeleduk.com
+simpliftsbefore.info
 smilitygorb.club
 tammenaa.com
 thegioididong.me
@@ -10618,6 +10651,7 @@ ad-balancer.at
 ad-balancer.net
 ad-center.com
 ad-channel.wikawika.xyz
+ad-delivery.net
 ad-display.wikawika.xyz
 ad-miner.com
 ad-pay.de
@@ -10697,7 +10731,6 @@ ad.scanmedios.com
 ad.setn.com
 ad.simgames.net
 ad.site-landing.com
-ad.technoratimedia.com
 ad.trafficgate.net
 ad.tv2.no
 ad.unimhk.com
@@ -11592,6 +11625,7 @@ audrte.com
 augu3yhd485st.com
 augur.io
 aulteeby.net
+aureigabelle.com
 ausoafab.net
 auspiceguidance.com
 auto-bannertausch.de
@@ -11629,6 +11663,7 @@ bahmemohod.com
 balancebreath.com
 baleiambwee.com
 balloontexture.com
+bambluagamgona.com
 banesnorttat.cam
 banik.redigy.cz
 banner-exchange-24.de
@@ -12057,6 +12092,7 @@ contaxe.de
 contehos.com
 content.acc-hd.de
 content.bitsontherun.com
+content.lemonpi.io
 content.mql5.com
 conversionruler.com
 convincedsponsorshipenemy.com
@@ -12532,6 +12568,7 @@ getwisdom.io
 gfmoqjlhjhwhucc.xyz
 ggimg.tapas.net
 giddycoat.com
+gimiliminibi.com
 gjqhufkamcoc.com
 gladiol9us10.com
 glassesoftruth.com
@@ -13759,6 +13796,7 @@ revealoverheadearth.com
 revengemeantjackpot.com
 revenue.net
 revenuedirect.com
+reverysteno.com
 revmob.com
 revstats.com
 rhythmnewmedia.com
@@ -13802,6 +13840,7 @@ rozamimo9za10.com
 rsalcau.com
 rsalcch.com
 rta.dailymail.co.uk
+rtb.gamoshi.io
 rtb.trade
 rtbidder.net
 rtbpop.com
@@ -13843,6 +13882,7 @@ scatteredheat.com
 scientiamobile.com
 scintillatingscissors.com
 scintillatingspace.com
+scissorshew.com
 scoota.co
 scopelight.com
 scratch2cash.com
@@ -14119,6 +14159,7 @@ syyycc.com
 t.easyads28.mobi
 t.insigit.com
 t.myvisualiq.net
+t.wayfair.com
 t7z.cupid.iqiyi.com
 tacoda.net
 tacticmarshannouncing.com
@@ -14723,6 +14764,7 @@ yepteaswont.com
 yesads.com
 yesadvertising.com
 ygqukhllchpw.com
+yield-op-idsync.live.streamtheworld.com
 yieldads.com
 yieldmanager.com
 yieldmanager.net
@@ -14862,6 +14904,7 @@ api.safegraph.com
 api.taps.io
 api.usebutton.com
 api.wipmania.com
+api2.poperblocker.com
 apolloprogram.io
 app-analytics.snapchat.com
 app-measurement.com
@@ -14879,6 +14922,7 @@ beacon.errorception.com
 beacon.gu-web.net
 beacon.riskified.com
 beacon.shazam.com
+beacon.walmart.com
 beampulse.com
 bento.agoda.com
 beyondsecurity.com
@@ -15041,6 +15085,7 @@ log.getdropbox.com
 log.klook.com
 log.kmplayer.com
 log.kuwo.cn
+log.lemonpi.io
 log.mediation.onebooster.me
 log.quora.com
 log.snapdeal.com
@@ -15127,6 +15172,7 @@ presage.io
 promotionengine.com
 prooffactor.com
 propeller-tracking.com
+prx.wayfair.com
 pv.medialead.de
 pv.pjtsu.com
 pv.sohu.com
@@ -15231,10 +15277,13 @@ tdf.ringier.ch
 ted.dailymail.co.uk
 ted.metro.co.uk
 tedgenet.com
+telemetry.api.swiftkey.com
 telemetry.art19.com
 telemetry.dropbox.com
+telemetry.swiftkey.com
 theirsvendor.com
 thoosje.com
+thrtle.com
 tlog.hiido.com
 to.getnitropack.com
 top-fwz1.mail.ru

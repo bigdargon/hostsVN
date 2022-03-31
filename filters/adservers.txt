@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Mar 2022 10:37 UTC+7
-! Version: 2203151037
-! Blocked: 1.105 rules
+! Last modified: 31 Mar 2022 11:54 UTC+7
+! Version: 2203311154
+! Blocked: 1.114 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -709,6 +709,7 @@
 ||8live.top^
 ||8live.vip^
 ||8livevn.com^
+||92lottery.com^
 ||aa88.in^
 ||ae888.com^
 ||ae888i.com^
@@ -739,6 +740,7 @@
 ||choita88.club^
 ||comebetvn3.com^
 ||comebetvn9.com^
+||corona999.com^
 ||dabet.me^
 ||datcuoc247.com^
 ||debet.com^
@@ -748,6 +750,7 @@
 ||dola88.info^
 ||ee66.com^
 ||eurofun88.com^
+||f8bet0.com^
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
@@ -810,6 +813,7 @@
 ||jboviet.com^
 ||jbovietnam.com^
 ||jbovn.com^
+||jdb66.vip^
 ||k8dl08.cc^
 ||k8sport.com^
 ||k8vina17.com^
@@ -921,6 +925,7 @@
 ||rikvipp.net^
 ||rio66qc.club^
 ||sbc31.com^
+||shbet0.com^
 ||sieubomtan.com^
 ||sieukeo.live^
 ||sin88.biz^
@@ -961,8 +966,10 @@
 ||tipkeomoingay.club^
 ||top88.club^
 ||top88.fun^
+||top88.me^
 ||top88.uk^
 ||top88.us^
+||top88.vn^
 ||topcc88.me^
 ||trungso.vip^
 ||tt128.info^
@@ -997,6 +1004,7 @@
 ||vnloto.com^
 ||vnloto.vip^
 ||vnq8.bet^
+||vnq8.com^
 ||vua1004.club^
 ||vua1005.club^
 ||vuabai9.com^
@@ -1091,6 +1099,7 @@
 ||qualienquan.vn^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
+||simpliftsbefore.info^
 ||smilitygorb.club^
 ||tammenaa.com^
 ||thegioididong.me^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 15 Mar 2022 10:37 UTC+7
-# Version: 2203151037
-# Blocked: 3.300 domains
+# Last modified: 31 Mar 2022 11:54 UTC+7
+# Version: 2203311154
+# Blocked: 3.319 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1063,6 +1063,25 @@
 0.0.0.0 qq288.com
 0.0.0.0 m.qq288.com
 0.0.0.0 www.qq288.com
+0.0.0.0 vnq8.com
+0.0.0.0 api.vnq8.com
+0.0.0.0 www.vnq8.com
+0.0.0.0 api.shbet0.com
+0.0.0.0 shbet0.com
+0.0.0.0 www.shbet0.com
+0.0.0.0 92lottery.com
+0.0.0.0 corona999.com
+0.0.0.0 www.corona999.com
+0.0.0.0 jdb66.vip
+0.0.0.0 www.jdb66.vip
+0.0.0.0 top88.me
+0.0.0.0 qc.top88.me
+0.0.0.0 top88.vn
+0.0.0.0 play.top88.vn
+0.0.0.0 qc.top88.vn
+0.0.0.0 f8bet0.com
+0.0.0.0 api.f8bet0.com
+0.0.0.0 www.f8bet0.com
 # --- Block other gameblingVN ---
 0.0.0.0 978bet3.com
 0.0.0.0 www.978bet3.com

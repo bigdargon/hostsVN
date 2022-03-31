@@ -103,6 +103,8 @@
 #[adservice.google.*]
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.hk
+0.0.0.0 adservice.google.com.sg
+0.0.0.0 adservice.google.com.tr
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 adservice.google.de
 #[googlesyndication.com]
@@ -405,6 +407,7 @@
 0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 beap-bc.yahoo.com
+0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geo.yahoo.com
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 nol.yahoo.com
@@ -8569,6 +8572,7 @@
 0.0.0.0 prd.jwpltx.com
 #[spot.im]
 0.0.0.0 ak-events-collector.spot.im
+0.0.0.0 api-2-0.spot.im
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 events-collector.spot.im
 0.0.0.0 metrics-logger.spot.im
@@ -9637,7 +9641,13 @@
 #[logs.datadoghq.com]
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 mobile-http-intake.logs.datadoghq.com
+0.0.0.0 public-trace-http-intake.logs.datadoghq.com
 0.0.0.0 rum-http-intake.logs.datadoghq.com
+#[logs.datadoghq.eu]
+0.0.0.0 browser-http-intake.logs.datadoghq.eu
+0.0.0.0 mobile-http-intake.logs.datadoghq.eu
+0.0.0.0 public-trace-http-intake.logs.datadoghq.eu
+0.0.0.0 rum-http-intake.logs.datadoghq.eu
 #[aliyuncs.com]
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 event-tracking-project.ap-southeast-1.log.aliyuncs.com
@@ -9795,3 +9805,33 @@
 0.0.0.0 cd.ladsp.com
 0.0.0.0 cr-pall.ladsp.com
 0.0.0.0 ladsp.com
+#[headerlift.com]
+0.0.0.0 ana.headerlift.com
+0.0.0.0 headerlift.com
+0.0.0.0 pub.headerlift.com
+#[improvedigital.com]
+0.0.0.0 hb.improvedigital.com
+0.0.0.0 improvedigital.com
+#[ninthdecimal.com]
+0.0.0.0 lciapi.ninthdecimal.com
+0.0.0.0 ninthdecimal.com
+0.0.0.0 rtb.ninthdecimal.com
+#[e-volution.ai]
+0.0.0.0 e-volution.ai
+0.0.0.0 prebidcdn.e-volution.ai
+0.0.0.0 rtb2-eu.e-volution.ai
+0.0.0.0 rtb2-useast.e-volution.ai
+0.0.0.0 sync.e-volution.ai
+#[technoratimedia.com]
+0.0.0.0 ad-cdn.technoratimedia.com
+0.0.0.0 prebid.technoratimedia.com
+0.0.0.0 sync.technoratimedia.com
+0.0.0.0 technoratimedia.com
+0.0.0.0 track.technoratimedia.com
+0.0.0.0 uat-net.technoratimedia.com
+#[footprintdns.com]
+0.0.0.0 footprintdns.com
+0.0.0.0 tring.clo.footprintdns.com
+#[telemetry.swe.quicinc.com]
+0.0.0.0 telemetry.swe.quicinc.com
+0.0.0.0 tls.telemetry.swe.quicinc.com

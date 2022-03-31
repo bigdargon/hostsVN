@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Mar 2022 10:37 UTC+7
-! Version: 2203151037
-! Blocked: 7.030 rules
+! Last modified: 31 Mar 2022 11:54 UTC+7
+! Version: 2203311154
+! Blocked: 7.065 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -709,6 +709,7 @@
 ||8live.top^
 ||8live.vip^
 ||8livevn.com^
+||92lottery.com^
 ||aa88.in^
 ||ae888.com^
 ||ae888i.com^
@@ -739,6 +740,7 @@
 ||choita88.club^
 ||comebetvn3.com^
 ||comebetvn9.com^
+||corona999.com^
 ||dabet.me^
 ||datcuoc247.com^
 ||debet.com^
@@ -748,6 +750,7 @@
 ||dola88.info^
 ||ee66.com^
 ||eurofun88.com^
+||f8bet0.com^
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
@@ -810,6 +813,7 @@
 ||jboviet.com^
 ||jbovietnam.com^
 ||jbovn.com^
+||jdb66.vip^
 ||k8dl08.cc^
 ||k8sport.com^
 ||k8vina17.com^
@@ -921,6 +925,7 @@
 ||rikvipp.net^
 ||rio66qc.club^
 ||sbc31.com^
+||shbet0.com^
 ||sieubomtan.com^
 ||sieukeo.live^
 ||sin88.biz^
@@ -961,8 +966,10 @@
 ||tipkeomoingay.club^
 ||top88.club^
 ||top88.fun^
+||top88.me^
 ||top88.uk^
 ||top88.us^
+||top88.vn^
 ||topcc88.me^
 ||trungso.vip^
 ||tt128.info^
@@ -997,6 +1004,7 @@
 ||vnloto.com^
 ||vnloto.vip^
 ||vnq8.bet^
+||vnq8.com^
 ||vua1004.club^
 ||vua1005.club^
 ||vuabai9.com^
@@ -1091,6 +1099,7 @@
 ||qualienquan.vn^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
+||simpliftsbefore.info^
 ||smilitygorb.club^
 ||tammenaa.com^
 ||thegioididong.me^
@@ -1396,6 +1405,7 @@
 ||anti-adblock.herokuapp.com^
 ||anymad.com^
 ||api-*.bidmachine.io^
+||api-2-0.spot.im^
 ||api-ad-data.kajicam.com^
 ||api-ad.kajicam.com^
 ||api-adservices.apple.com^
@@ -1663,6 +1673,7 @@
 ||dtscout.com^
 ||du8783wkf05yr.cloudfront.net^
 ||duapps.com^
+||e-volution.ai^
 ||e.qq.com^
 ||easyads28.info^
 ||eclick.baidu.com^
@@ -1712,6 +1723,7 @@
 ||flurry.cachefly.net^
 ||flurry.com^
 ||flux-adserver.com^
+||footprintdns.com^
 ||fouanalytics.com^
 ||fourier.taobao.com^
 ||fout.jp^
@@ -1731,6 +1743,7 @@
 ||geniee.jp^
 ||genieessp.com^
 ||genieesspv.jp^
+||geo.query.yahoo.com^
 ||geo.yahoo.com^
 ||geofence.sys.miui.com^
 ||getadmiral.com^
@@ -1761,6 +1774,7 @@
 ||h-adashx4ae.ut.taobao.com^
 ||h-adashx4sg.ut.taobao.com^
 ||hads*s.com^
+||headerlift.com^
 ||heapanalytics.com^
 ||heatmap.it^
 ||hetahien.com^
@@ -1801,6 +1815,7 @@
 ||im-apps.net^
 ||imonomy.com^
 ||impactserving.com^
+||improvedigital.com^
 ||imstks.com^
 ||indexexchange.com^
 ||indexww.com^
@@ -1875,6 +1890,7 @@
 ||logrocket.com^
 ||logrocket.io^
 ||logs.datadoghq.com^
+||logs.datadoghq.eu^
 ||logsdk.qq.com^
 ||logservice-*.platform.hicloud.com^
 ||logservice.hicloud.com^
@@ -1977,6 +1993,7 @@
 ||newsmaxfeednetwork.com^
 ||nexage.com^
 ||ngads.go.com^
+||ninthdecimal.com^
 ||nixozz.com^
 ||nol.yahoo.com^
 ||notes-analytics-events.apple.com^
@@ -2224,9 +2241,11 @@
 ||taplytics.com^
 ||taxel.jp^
 ||teads.tv^
+||technoratimedia.com^
 ||telemetry.insights.video.a2z.com^
 ||telemetry.microsoft.com^
 ||telemetry.soundcloud.com^
+||telemetry.swe.quicinc.com^
 ||tenmax.io^
 ||tg.meitu.com^
 ||themoneytizer.com^
@@ -2429,6 +2448,7 @@
 ||ad-balancer.net^
 ||ad-center.com^
 ||ad-channel.wikawika.xyz^
+||ad-delivery.net^
 ||ad-display.wikawika.xyz^
 ||ad-miner.com^
 ||ad-pay.de^
@@ -2508,7 +2528,6 @@
 ||ad.setn.com^
 ||ad.simgames.net^
 ||ad.site-landing.com^
-||ad.technoratimedia.com^
 ||ad.trafficgate.net^
 ||ad.tv2.no^
 ||ad.unimhk.com^
@@ -3404,6 +3423,7 @@
 ||augu3yhd485st.com^
 ||augur.io^
 ||aulteeby.net^
+||aureigabelle.com^
 ||ausoafab.net^
 ||auspiceguidance.com^
 ||auto-bannertausch.de^
@@ -3441,6 +3461,7 @@
 ||balancebreath.com^
 ||baleiambwee.com^
 ||balloontexture.com^
+||bambluagamgona.com^
 ||banesnorttat.cam^
 ||banik.redigy.cz^
 ||banner-exchange-24.de^
@@ -3869,6 +3890,7 @@
 ||contehos.com^
 ||content.acc-hd.de^
 ||content.bitsontherun.com^
+||content.lemonpi.io^
 ||content.mql5.com^
 ||conversionruler.com^
 ||convincedsponsorshipenemy.com^
@@ -4345,6 +4367,7 @@
 ||gfmoqjlhjhwhucc.xyz^
 ||ggimg.tapas.net^
 ||giddycoat.com^
+||gimiliminibi.com^
 ||gjqhufkamcoc.com^
 ||gladiol9us10.com^
 ||glassesoftruth.com^
@@ -5575,6 +5598,7 @@
 ||revengemeantjackpot.com^
 ||revenue.net^
 ||revenuedirect.com^
+||reverysteno.com^
 ||revmob.com^
 ||revstats.com^
 ||rhythmnewmedia.com^
@@ -5618,6 +5642,7 @@
 ||rsalcau.com^
 ||rsalcch.com^
 ||rta.dailymail.co.uk^
+||rtb.gamoshi.io^
 ||rtb.trade^
 ||rtbidder.net^
 ||rtbpop.com^
@@ -5659,6 +5684,7 @@
 ||scientiamobile.com^
 ||scintillatingscissors.com^
 ||scintillatingspace.com^
+||scissorshew.com^
 ||scoota.co^
 ||scopelight.com^
 ||scratch2cash.com^
@@ -5935,6 +5961,7 @@
 ||t.easyads28.mobi^
 ||t.insigit.com^
 ||t.myvisualiq.net^
+||t.wayfair.com^
 ||t7z.cupid.iqiyi.com^
 ||tacoda.net^
 ||tacticmarshannouncing.com^
@@ -6410,6 +6437,7 @@
 ||yesads.com^
 ||yesadvertising.com^
 ||ygqukhllchpw.com^
+||yield-op-idsync.live.streamtheworld.com^
 ||yieldads.com^
 ||yieldmanager.com^
 ||yieldmanager.net^
@@ -6549,6 +6577,7 @@
 ||api.taps.io^
 ||api.usebutton.com^
 ||api.wipmania.com^
+||api2.poperblocker.com^
 ||apolloprogram.io^
 ||app-analytics.snapchat.com^
 ||app-measurement.com^
@@ -6566,6 +6595,7 @@
 ||beacon.gu-web.net^
 ||beacon.riskified.com^
 ||beacon.shazam.com^
+||beacon.walmart.com^
 ||beampulse.com^
 ||bento.agoda.com^
 ||beyondsecurity.com^
@@ -6728,6 +6758,7 @@
 ||log.klook.com^
 ||log.kmplayer.com^
 ||log.kuwo.cn^
+||log.lemonpi.io^
 ||log.mediation.onebooster.me^
 ||log.quora.com^
 ||log.snapdeal.com^
@@ -6814,6 +6845,7 @@
 ||promotionengine.com^
 ||prooffactor.com^
 ||propeller-tracking.com^
+||prx.wayfair.com^
 ||pv.medialead.de^
 ||pv.pjtsu.com^
 ||pv.sohu.com^
@@ -6918,10 +6950,13 @@
 ||ted.dailymail.co.uk^
 ||ted.metro.co.uk^
 ||tedgenet.com^
+||telemetry.api.swiftkey.com^
 ||telemetry.art19.com^
 ||telemetry.dropbox.com^
+||telemetry.swiftkey.com^
 ||theirsvendor.com^
 ||thoosje.com^
+||thrtle.com^
 ||tlog.hiido.com^
 ||to.getnitropack.com^
 ||top-fwz1.mail.ru^
