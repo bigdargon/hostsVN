@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Apr 2022 10:15 UTC+7
-# Version: 2204051015
-# Blocked: 15.377 domains
+# Last modified: 05 Apr 2022 14:31 UTC+7
+# Version: 2204051431
+# Blocked: 15.391 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8703,8 +8703,10 @@
 0 beacon-api.aliyuncs.com
 0 event-tracking-project.ap-southeast-1.log.aliyuncs.com
 0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
+0 hdp-raw-log.cn-shanghai.log.aliyuncs.com
 0 hotbit-io-app-logs.cn-hongkong.log.aliyuncs.com
 0 huobi-global-prd.cn-hangzhou.log.aliyuncs.com
+0 lazada-compliance-project.ap-southeast-1.log.aliyuncs.com
 0 tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
 0 tap-snow-hk.cn-hongkong.log.aliyuncs.com
 0 wizardlog.cn-hongkong.log.aliyuncs.com
@@ -8875,6 +8877,11 @@
 0 toponad.com
 0 tt.toponad.com
 0 www.toponad.com
+0 analytics-http.mintegral.net
+0 analytics-tcp.mintegral.net
+0 analytics.mintegral.net
+0 mintegral.net
+0 pok.mintegral.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10004,6 +10011,10 @@
 0 smartadnetwork.net
 0 tracking.smartadnetwork.net
 0 www.smartadnetwork.net
+0 ads.metaconex.io
+0 metaconex.io
+0 pub.metaconex.io
+0 www.metaconex.io
 0 12signup.com
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
@@ -10256,7 +10267,9 @@
 0 ai.thanhnien.vn
 0 alexajstrack.com
 0 analytic.baodantoc.vn
+0 analytic.vnanet.vn
 0 analytics.admon.com.vn
+0 analytics.aita.gov.vn
 0 analytics.bkav.com
 0 analytics.bkav.com.vn
 0 analytics.diamondstarfinancial.com.vn
@@ -14825,6 +14838,7 @@
 0 analytics.ninjakiwi.com
 0 analytics.phando.com
 0 analytics.picsart.com
+0 analytics.pixels.ai
 0 analytics.pokki.com
 0 analytics.poolshool.com
 0 analytics.posttv.com

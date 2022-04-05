@@ -9622,8 +9622,10 @@
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 event-tracking-project.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
+0.0.0.0 hdp-raw-log.cn-shanghai.log.aliyuncs.com
 0.0.0.0 hotbit-io-app-logs.cn-hongkong.log.aliyuncs.com
 0.0.0.0 huobi-global-prd.cn-hangzhou.log.aliyuncs.com
+0.0.0.0 lazada-compliance-project.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
 0.0.0.0 tap-snow-hk.cn-hongkong.log.aliyuncs.com
 0.0.0.0 wizardlog.cn-hongkong.log.aliyuncs.com
@@ -9832,3 +9834,9 @@
 0.0.0.0 toponad.com
 0.0.0.0 tt.toponad.com
 0.0.0.0 www.toponad.com
+#[mintegral.net]
+0.0.0.0 analytics-http.mintegral.net
+0.0.0.0 analytics-tcp.mintegral.net
+0.0.0.0 analytics.mintegral.net
+0.0.0.0 mintegral.net
+0.0.0.0 pok.mintegral.net

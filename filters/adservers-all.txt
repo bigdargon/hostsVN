@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Apr 2022 10:15 UTC+7
-! Version: 2204051015
-! Blocked: 7.071 rules
+! Last modified: 05 Apr 2022 14:31 UTC+7
+! Version: 2204051431
+! Blocked: 7.077 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -119,6 +119,7 @@
 ||mediaz.vn^
 ||mediazcorp.com^
 ||mepuzz.com^
+||metaconex.io^
 ||metrics.coccoc.com^
 ||mobilead.vn^
 ||mobio.vn^
@@ -454,7 +455,9 @@
 ||ai.thanhnien.vn^
 ||alexajstrack.com^
 ||analytic.baodantoc.vn^
+||analytic.vnanet.vn^
 ||analytics.admon.com.vn^
+||analytics.aita.gov.vn^
 ||analytics.bkav.com^
 ||analytics.bkav.com.vn^
 ||analytics.diamondstarfinancial.com.vn^
@@ -999,6 +1002,7 @@
 ||vnloto.vip^
 ||vnq8.bet^
 ||vnq8.com^
+||vnq8.net^
 ||vua1004.club^
 ||vua1005.club^
 ||vuabai9.com^
@@ -1945,6 +1949,7 @@
 ||microad.jp^
 ||microad.net^
 ||microadinc.com^
+||mintegral.net^
 ||mistat.xiaomi.com^
 ||mixpanel.com^
 ||ml314.com^
@@ -6555,6 +6560,7 @@
 ||analytics.ninjakiwi.com^
 ||analytics.phando.com^
 ||analytics.picsart.com^
+||analytics.pixels.ai^
 ||analytics.pokki.com^
 ||analytics.poolshool.com^
 ||analytics.posttv.com^

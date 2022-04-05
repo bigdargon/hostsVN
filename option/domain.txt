@@ -8687,8 +8687,10 @@ rum-http-intake.logs.datadoghq.eu
 beacon-api.aliyuncs.com
 event-tracking-project.ap-southeast-1.log.aliyuncs.com
 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
+hdp-raw-log.cn-shanghai.log.aliyuncs.com
 hotbit-io-app-logs.cn-hongkong.log.aliyuncs.com
 huobi-global-prd.cn-hangzhou.log.aliyuncs.com
+lazada-compliance-project.ap-southeast-1.log.aliyuncs.com
 tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
 tap-snow-hk.cn-hongkong.log.aliyuncs.com
 wizardlog.cn-hongkong.log.aliyuncs.com
@@ -8859,6 +8861,11 @@ img.toponad.com
 toponad.com
 tt.toponad.com
 www.toponad.com
+analytics-http.mintegral.net
+analytics-tcp.mintegral.net
+analytics.mintegral.net
+mintegral.net
+pok.mintegral.net
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -9988,6 +9995,10 @@ delivery.smartadnetwork.net
 smartadnetwork.net
 tracking.smartadnetwork.net
 www.smartadnetwork.net
+ads.metaconex.io
+metaconex.io
+pub.metaconex.io
+www.metaconex.io
 12signup.com
 5734a40f2d.vws.vegacdn.vn
 703531862.vws.vegacdn.vn
@@ -10240,7 +10251,9 @@ affiliate.chiaki.vn
 ai.thanhnien.vn
 alexajstrack.com
 analytic.baodantoc.vn
+analytic.vnanet.vn
 analytics.admon.com.vn
+analytics.aita.gov.vn
 analytics.bkav.com
 analytics.bkav.com.vn
 analytics.diamondstarfinancial.com.vn
@@ -14809,6 +14822,7 @@ analytics.nike.com
 analytics.ninjakiwi.com
 analytics.phando.com
 analytics.picsart.com
+analytics.pixels.ai
 analytics.pokki.com
 analytics.poolshool.com
 analytics.posttv.com
