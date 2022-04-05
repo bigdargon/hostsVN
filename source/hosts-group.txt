@@ -524,7 +524,6 @@
 #[viber]
 0.0.0.0 ads.viber.com
 0.0.0.0 ads-d.viber.com
-0.0.0.0 ads.aws.viber.com
 #[admob]
 0.0.0.0 admob.com
 0.0.0.0 c.admob.com
@@ -553,7 +552,6 @@
 0.0.0.0 et.w.inmobi.com
 0.0.0.0 eventserver-eastus.trafficmanager.idsp.inmobi.com
 0.0.0.0 gionee.analytics.glance.inmobi.com
-0.0.0.0 glance-internal.inmobi.com
 0.0.0.0 glance.inmobi.com
 0.0.0.0 i.w.inmobi.com
 0.0.0.0 id.analytics.glance.inmobi.com
@@ -577,7 +575,6 @@
 0.0.0.0 usa.da.inmobi.com
 0.0.0.0 vast.w.inmobi.com
 0.0.0.0 vastproxy.brand.inmobi.com
-0.0.0.0 w.eastus.trafficmanager.inmobi.com
 0.0.0.0 w.inmobi.com
 #[inmobi.cn]
 0.0.0.0 api.inmobi.cn
@@ -6386,13 +6383,8 @@
 0.0.0.0 mobileoffers-al-download.com
 0.0.0.0 mobileoffers-bm-download.com
 0.0.0.0 mobileoffers-bn-download.com
-0.0.0.0 js.mobileoffers-ab-download.com
 0.0.0.0 js.mobileoffers-ac-download.com
-0.0.0.0 js.mobileoffers-ad-download.com
-0.0.0.0 js.mobileoffers-a-download.com
 0.0.0.0 js.mobileoffers-al-download.com
-0.0.0.0 js.mobileoffers-bm-download.com
-0.0.0.0 js.mobileoffers-bn-download.com
 #[fads*s.com]
 0.0.0.0 fadsabs.com
 0.0.0.0 fadsans.com
@@ -6699,17 +6691,6 @@
 #[id5-sync.com]
 0.0.0.0 cdn.id5-sync.com
 0.0.0.0 id5-sync.com
-0.0.0.0 s01.id5-sync.com
-0.0.0.0 s02.id5-sync.com
-0.0.0.0 s03.id5-sync.com
-0.0.0.0 s04.id5-sync.com
-0.0.0.0 s05.id5-sync.com
-0.0.0.0 s06.id5-sync.com
-0.0.0.0 s07.id5-sync.com
-0.0.0.0 s08.id5-sync.com
-0.0.0.0 s09.id5-sync.com
-0.0.0.0 s10.id5-sync.com
-0.0.0.0 s11.id5-sync.com
 0.0.0.0 www.id5-sync.com
 #[vdo.ai]
 0.0.0.0 a.vdo.ai
@@ -9242,16 +9223,6 @@
 #[cachefly.net]
 0.0.0.0 ambientdsp.cachefly.net
 0.0.0.0 flurry.cachefly.net
-#[lentainform.com]
-0.0.0.0 c.lentainform.com
-0.0.0.0 cdn.lentainform.com
-0.0.0.0 clck.lentainform.com
-0.0.0.0 cm.lentainform.com
-0.0.0.0 jsc.lentainform.com
-0.0.0.0 lentainform.com
-0.0.0.0 s-img.lentainform.com
-0.0.0.0 servicer.lentainform.com
-0.0.0.0 www.lentainform.com
 #[idealmedia.io]
 0.0.0.0 c.idealmedia.io
 0.0.0.0 cdn.idealmedia.io
@@ -9570,9 +9541,7 @@
 0.0.0.0 unblockia.com
 #[adclickmedia.com]
 0.0.0.0 adclickmedia.com
-0.0.0.0 en.adclickmedia.com
 0.0.0.0 network.adclickmedia.com
-0.0.0.0 ru.adclickmedia.com
 0.0.0.0 tracking.adclickmedia.com
 0.0.0.0 www.adclickmedia.com
 #[admixer.net]
@@ -9709,9 +9678,6 @@
 0.0.0.0 register.appsflyersdk.com
 0.0.0.0 sdk.appsflyersdk.com
 0.0.0.0 t.appsflyersdk.com
-#[ackcdn.net]
-0.0.0.0 ackcdn.net
-0.0.0.0 s3t3d2y7.ackcdn.net
 #[hetaruvg.com]
 0.0.0.0 ak.hetaruvg.com
 0.0.0.0 hetaruvg.com
@@ -9850,3 +9816,19 @@
 0.0.0.0 st-eu.dynamicyield.com
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 static.dynamicyield.com
+#[anythinktech.com]
+0.0.0.0 adx-sg.anythinktech.com
+0.0.0.0 adx.anythinktech.com
+0.0.0.0 anythinktech.com
+0.0.0.0 api.anythinktech.com
+0.0.0.0 da.anythinktech.com
+0.0.0.0 img.anythinktech.com
+0.0.0.0 tk-sg.anythinktech.com
+0.0.0.0 tk.anythinktech.com
+#[toponad.com]
+0.0.0.0 aa.toponad.com
+0.0.0.0 dd.toponad.com
+0.0.0.0 img.toponad.com
+0.0.0.0 toponad.com
+0.0.0.0 tt.toponad.com
+0.0.0.0 www.toponad.com

@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 31 Mar 2022 15:41 UTC+7
-! Version: 2203311541
-! Blocked: 7.075 domains
+! Last modified: 05 Apr 2022 10:15 UTC+7
+! Version: 2204051015
+! Blocked: 7.071 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -20,7 +20,6 @@ admicro.vn
 adnetwork.vn
 adpia.vn
 adrealclick.com
-ads-target.coccoc.com
 ads-thanhnien-vn.cdn.ampproject.org
 ads.platform.zalo.me
 ads.zalo.me
@@ -62,7 +61,6 @@ autoads.asia
 banners-gallery.coccoc.com
 bidgear.com
 blogstatistics.sapoapps.vn
-bongdadem.net
 brand.zing.vn
 button-follow.zalo.me
 button-share.zalo.me
@@ -86,7 +84,6 @@ daleriki.com
 donglogs.com
 eclick.vn
 eva-ad.24hstatic.com
-ezimar.com
 flygame.io
 fptad.com
 fuseplatform.net
@@ -110,10 +107,8 @@ log-vietnamplus-vn.cdn.ampproject.org
 log.api.zaloapp.com
 log.mp3.zing.vn
 log.news.zing.vn
-log.o2o.service.zaloapp.com
 log.tv.zing.vn
 logv2.mp3.zing.vn
-mangoads.vn
 matomo.*.vn
 mautic.*.vn
 mclick.mobi
@@ -136,7 +131,6 @@ novaonads.com
 novaonx.com
 nv-ad.24hstatic.com
 ohchat.net
-omarketer.viettelpost.vn
 oncustomer.asia
 onfluencer.net
 onmarketer.net
@@ -173,6 +167,7 @@ service-api.accesstrade.vn
 serving-system.com
 shop-cdn.coccoc.com
 slimads.vn
+smartadnetwork.net
 smartconvert.co
 sourcetobin.com
 sporttv.today
@@ -201,7 +196,6 @@ urekamedia.com
 v9banners-com.cdn.ampproject.org
 vads.net.vn
 vads.vn
-vclick.vn
 viam.com.vn
 vidoomy.com
 vietnamnetad.vn
@@ -356,6 +350,8 @@ bidgear-syndication.com
 bluemaulpuffs.com
 boxpr.aiservice.vn
 cdn-ads.thesaigontimes.vn
+cdn.bongdadem.net
+cdn.rongzhouxing.com
 chiasephim.xyz
 click.vieon.vn
 clipbongda.info
@@ -437,7 +433,6 @@ tkpopup.vn
 toppage.vn
 trenddigital.vn
 truoctran.com
-tulipluv.xyz
 tvnotice.kg.garena.vn
 upfile16.mediaphim.com
 user.headlines.pw
@@ -447,7 +442,6 @@ vietdorje.com
 vinaads.vn
 vlxx.host
 vnd247.vn
-vtvcab.xyz
 widget.headlines.pw
 a.ladipage.com
 a.vtvdigital.vn
@@ -1103,7 +1097,6 @@ tammenaa.com
 thegioididong.me
 thseaeing.fun
 ucesreferre.club
-uqoxh.icu
 vietnammoi.biz
 vongquay-pubgmobilevn-zing.com
 vongquaymienphi.net
@@ -1142,7 +1135,6 @@ aatkit.com
 aaxads.com
 accengage.com
 accesstrade.net
-ackcdn.net
 acuityplatform.com
 ad-brix.com
 ad-exchange.toast.com
@@ -1240,10 +1232,10 @@ adrecover.com
 adroll.com
 adrta.com
 ads*-adnow.com
-ads*.viber.com
 ads-api.tiktok.com
 ads-api.twitter.com
 ads-bidder-api.twitter.com
+ads-d.viber.com
 ads-privacy-api.prd.mz.internal.unity3d.com
 ads-router-noneu.truecaller.com
 ads-sg.tiktok.com
@@ -1267,6 +1259,7 @@ ads.tiktok.com
 ads.truecaller.com
 ads.twitter.com
 ads.uc.cn
+ads.viber.com
 ads.yahoo.com
 ads.youtube.com
 ads1.msn.com
@@ -1402,6 +1395,7 @@ androidtvwatsonfe-pa.googleapis.com
 aniview.com
 anti-adblock.herokuapp.com
 anymad.com
+anythinktech.com
 api-*.bidmachine.io
 api-2-0.spot.im
 api-ad-data.kajicam.com
@@ -1869,7 +1863,6 @@ lalaping.com
 leadboltads.net
 leadforensics.com
 leanplum.com
-lentainform.com
 lgsmartad.com
 liadm.com
 lifestreet.com
@@ -2258,6 +2251,7 @@ tenmax.io
 tg.meitu.com
 themoneytizer.com
 tns-counter.ru
+toponad.com
 torimochi.line-apps.com
 tr.line.me
 trace.qq.com
@@ -2442,6 +2436,7 @@ ac.rnm.ca
 acdcdn.com
 acento.com
 achcdn.com
+ackcdn.net
 aclickads.com
 acloudimages.com
 acridtwist.com
@@ -6632,7 +6627,6 @@ client-analytics.braintreegateway.com
 cloudcollect.meitudata.com
 cmp.dmgmediaprivacy.co.uk
 cnt.xhamster.com
-cnt.xhamster.one
 cnzz.com
 cognitivlabs.com
 collect.usefathom.com
@@ -6640,7 +6634,6 @@ collector.githubapp.com
 collector.leaddyno.com
 collector.unsplash.com
 collector.xhamster.com
-collector.xhamster.one
 comscoreresearch.com
 cookieinfoscript.com
 coralogix.com
@@ -6656,6 +6649,7 @@ d38fey2d93vryi.cloudfront.net
 d4n.platformd.com
 dap.digitalgov.gov
 databerries.com
+datadoghq-browser-agent.com
 distillery.wistia.com
 dlog.hiido.com
 dm.gg
@@ -6982,8 +6976,10 @@ track.omg543.com
 track.pricespider.com
 track.saygames.io
 track.sohu.com
+track.starmakerstudios.com
 track.td3x.com
 track.tenjin.io
+track.venatusmedia.com
 track.wattpad.com
 trackcmp.net
 tracker.affirm.com

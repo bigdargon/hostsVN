@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 31 Mar 2022 15:41 UTC+7
-# Version: 2203311541
-# Blocked: 15.459 domains
+# Last modified: 05 Apr 2022 10:15 UTC+7
+# Version: 2204051015
+# Blocked: 15.377 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -482,7 +482,6 @@
 0 pixel-static.spotify.com
 0 ads.viber.com
 0 ads-d.viber.com
-0 ads.aws.viber.com
 0 admob.com
 0 c.admob.com
 0 media.admob.com
@@ -509,7 +508,6 @@
 0 et.w.inmobi.com
 0 eventserver-eastus.trafficmanager.idsp.inmobi.com
 0 gionee.analytics.glance.inmobi.com
-0 glance-internal.inmobi.com
 0 glance.inmobi.com
 0 i.w.inmobi.com
 0 id.analytics.glance.inmobi.com
@@ -533,7 +531,6 @@
 0 usa.da.inmobi.com
 0 vast.w.inmobi.com
 0 vastproxy.brand.inmobi.com
-0 w.eastus.trafficmanager.inmobi.com
 0 w.inmobi.com
 0 api.inmobi.cn
 0 api.w.inmobi.cn
@@ -5887,13 +5884,8 @@
 0 mobileoffers-al-download.com
 0 mobileoffers-bm-download.com
 0 mobileoffers-bn-download.com
-0 js.mobileoffers-ab-download.com
 0 js.mobileoffers-ac-download.com
-0 js.mobileoffers-ad-download.com
-0 js.mobileoffers-a-download.com
 0 js.mobileoffers-al-download.com
-0 js.mobileoffers-bm-download.com
-0 js.mobileoffers-bn-download.com
 0 fadsabs.com
 0 fadsans.com
 0 fadsats.com
@@ -6173,17 +6165,6 @@
 0 www.publift.com
 0 cdn.id5-sync.com
 0 id5-sync.com
-0 s01.id5-sync.com
-0 s02.id5-sync.com
-0 s03.id5-sync.com
-0 s04.id5-sync.com
-0 s05.id5-sync.com
-0 s06.id5-sync.com
-0 s07.id5-sync.com
-0 s08.id5-sync.com
-0 s09.id5-sync.com
-0 s10.id5-sync.com
-0 s11.id5-sync.com
 0 www.id5-sync.com
 0 a.vdo.ai
 0 dash.vdo.ai
@@ -8385,15 +8366,6 @@
 0 www.truepush.com
 0 ambientdsp.cachefly.net
 0 flurry.cachefly.net
-0 c.lentainform.com
-0 cdn.lentainform.com
-0 clck.lentainform.com
-0 cm.lentainform.com
-0 jsc.lentainform.com
-0 lentainform.com
-0 s-img.lentainform.com
-0 servicer.lentainform.com
-0 www.lentainform.com
 0 c.idealmedia.io
 0 cdn.idealmedia.io
 0 cm.idealmedia.io
@@ -8664,9 +8636,7 @@
 0 r.unblockia.com
 0 unblockia.com
 0 adclickmedia.com
-0 en.adclickmedia.com
 0 network.adclickmedia.com
-0 ru.adclickmedia.com
 0 tracking.adclickmedia.com
 0 www.adclickmedia.com
 0 admixer.net
@@ -8782,8 +8752,6 @@
 0 register.appsflyersdk.com
 0 sdk.appsflyersdk.com
 0 t.appsflyersdk.com
-0 ackcdn.net
-0 s3t3d2y7.ackcdn.net
 0 ak.hetaruvg.com
 0 hetaruvg.com
 0 ak.hetaruwg.com
@@ -8893,6 +8861,20 @@
 0 st-eu.dynamicyield.com
 0 st.dynamicyield.com
 0 static.dynamicyield.com
+0 adx-sg.anythinktech.com
+0 adx.anythinktech.com
+0 anythinktech.com
+0 api.anythinktech.com
+0 da.anythinktech.com
+0 img.anythinktech.com
+0 tk-sg.anythinktech.com
+0 tk.anythinktech.com
+0 aa.toponad.com
+0 dd.toponad.com
+0 img.toponad.com
+0 toponad.com
+0 tt.toponad.com
+0 www.toponad.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -9040,7 +9022,6 @@
 0 pub-dev.novaonx.com
 0 staging.novaonx.com
 0 www.novaonx.com
-0 ads-target.coccoc.com
 0 banners-gallery.coccoc.com
 0 cdn-qc.coccoc.com
 0 cdn.comedia.coccoc.com
@@ -9048,6 +9029,7 @@
 0 pixel.coccoc.com
 0 qc-static.coccoc.com
 0 shop-cdn.coccoc.com
+0 api.qc.coccoc.com
 0 catalog.qc.coccoc.com
 0 cdn.qc.coccoc.com
 0 context.qc.coccoc.com
@@ -9094,7 +9076,6 @@
 0 click.m.ambientplatform.vn
 0 delivery.m.ambientplatform.vn
 0 imp.m.ambientplatform.vn
-0 m.ambientplatform.vn
 0 media.ambientplatform.vn
 0 media.m.ambientplatform.vn
 0 metrics.m.ambientplatform.vn
@@ -9194,7 +9175,6 @@
 0 t.d.ants.vn
 0 tiki.ants.vn
 0 www.ants.vn
-0 a.anthill.vn
 0 analytics.anthill.vn
 0 anthill.vn
 0 atrack-a.anthill.vn
@@ -9243,7 +9223,6 @@
 0 tracking.vietnamnetad.vn
 0 vietnamnetad.vn
 0 widget.vietnamnetad.vn
-0 www.vietnamnetad.vn
 0 ad.zing.vn
 0 adsbanner.game.zing.vn
 0 adstracking.apps.zing.vn
@@ -9273,7 +9252,6 @@
 0 widget.chat.zalo.me
 0 ads.zaloapp.com
 0 log.api.zaloapp.com
-0 log.o2o.service.zaloapp.com
 0 photo-ads.zaloapp.com
 0 px.dmp.zaloapp.com
 0 px.za.zaloapp.com
@@ -9342,20 +9320,6 @@
 0 wakeup.klick.vn
 0 wakeup247.klick.vn
 0 www.klick.vn
-0 caohavan.ezimar.com
-0 ezdns.ezimar.com
-0 ezimar.com
-0 server.ezimar.com
-0 tanyen.ezimar.com
-0 vietravel.ezimar.com
-0 www.ezimar.com
-0 youyou.ezimar.com
-0 ads.vclick.vn
-0 clip.vclick.vn
-0 s.vclick.vn
-0 static.vclick.vn
-0 vclick.vn
-0 www.vclick.vn
 0 ac.adpia.vn
 0 adpia.vn
 0 click.adpia.vn
@@ -9389,35 +9353,6 @@
 0 static.younetmedia.com
 0 www.younetmedia.com
 0 younetmedia.com
-0 anc.mangoads.vn
-0 carpenter.mangoads.vn
-0 crm.mangoads.vn
-0 customer.mangoads.vn
-0 demos.mangoads.vn
-0 dev.mangoads.vn
-0 fbg.mangoads.vn
-0 focus.mangoads.vn
-0 geologix.mangoads.vn
-0 imagehub.mangoads.vn
-0 images.vasapi.mangoads.vn
-0 indochina.mangoads.vn
-0 mailvas.mangoads.vn
-0 mangoads.vn
-0 mangosteen.mangoads.vn
-0 photo.mangoads.vn
-0 phuclong2.mangoads.vn
-0 phuclongcms.mangoads.vn
-0 rvs.mangoads.vn
-0 seo.mangoads.vn
-0 slider.mangoads.vn
-0 soro.mangoads.vn
-0 tt.mangoads.vn
-0 thecliff.mangoads.vn
-0 vasapi.mangoads.vn
-0 vietnamhouse.mangoads.vn
-0 vsteel.mangoads.vn
-0 webcodau.mangoads.vn
-0 www.mangoads.vn
 0 ad.org.vn
 0 cdn.serving.ad.org.vn
 0 member.ad.org.vn
@@ -9521,7 +9456,6 @@
 0 click.phanquang.vn
 0 phanquang.vn
 0 quangcao.phanquang.vn
-0 www.phanquang.vn
 0 ohchat.net
 0 app.ohchat.net
 0 www.ohchat.net
@@ -9699,12 +9633,6 @@
 0 publisher.adsparc.com
 0 pushad.adsparc.com
 0 video.adsparc.com
-0 vl2.adsparc.com
-0 vl3.adsparc.com
-0 vl4.adsparc.com
-0 vl5.adsparc.com
-0 vl6.adsparc.com
-0 vls.adsparc.com
 0 www.adsparc.com
 0 adsmt1.adsparc.net
 0 adsparc.net
@@ -9940,7 +9868,6 @@
 0 mautic.easygroup.vn
 0 mautic.educa.vn
 0 mautic.educe.vn
-0 mautic.emso.vn
 0 mautic.haproinfo.vn
 0 mautic.hicity.vn
 0 mautic.icsc.vn
@@ -9950,7 +9877,6 @@
 0 mautic.serverhub.vn
 0 mautic.sts.vn
 0 mautic.thietkexaynhadep.vn
-0 mautic.yola.vn
 0 mautic.yte-suckhoe.vn
 0 piwik.rta.vn
 0 piwik.tienhiep.com.vn
@@ -9992,17 +9918,6 @@
 0 beta.onmarketer.net
 0 www.onmarketer.net
 0 hub.onmarketer.net
-0 api.omarketer.viettelpost.vn
-0 app.omarketer.viettelpost.vn
-0 cdn.omarketer.viettelpost.vn
-0 hub.omarketer.viettelpost.vn
-0 omarketer.viettelpost.vn
-0 url.omarketer.viettelpost.vn
-0 wss.omarketer.viettelpost.vn
-0 api.bongdadem.net
-0 bongdadem.net
-0 cdn.bongdadem.net
-0 www.bongdadem.net
 0 ads-thanhnien-vn.cdn.ampproject.org
 0 anymind360-com.cdn.ampproject.org
 0 cdn-bongdadem-net.cdn.ampproject.org
@@ -10085,6 +10000,10 @@
 0 sdk-cdn.aiactiv.io
 0 tag-cdn.aiactiv.io
 0 tags.aiactiv.io
+0 delivery.smartadnetwork.net
+0 smartadnetwork.net
+0 tracking.smartadnetwork.net
+0 www.smartadnetwork.net
 0 12signup.com
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
@@ -10215,6 +10134,8 @@
 0 bluemaulpuffs.com
 0 boxpr.aiservice.vn
 0 cdn-ads.thesaigontimes.vn
+0 cdn.bongdadem.net
+0 cdn.rongzhouxing.com
 0 chiasephim.xyz
 0 click.vieon.vn
 0 clipbongda.info
@@ -10296,7 +10217,6 @@
 0 toppage.vn
 0 trenddigital.vn
 0 truoctran.com
-0 tulipluv.xyz
 0 tvnotice.kg.garena.vn
 0 upfile16.mediaphim.com
 0 user.headlines.pw
@@ -10306,7 +10226,6 @@
 0 vinaads.vn
 0 vlxx.host
 0 vnd247.vn
-0 vtvcab.xyz
 0 widget.headlines.pw
 0 www.12signup.com
 0 www.adsnetonline.work
@@ -10325,11 +10244,9 @@
 0 www.microad.vn
 0 www.realclick.vn
 0 www.sbbanner.com
-0 www.tulipluv.xyz
 0 www.v9banners.com
 0 www.vietbuzzad.com
 0 www.vietdorje.com
-0 www.vtvcab.xyz
 0 a.ladipage.com
 0 a.vtvdigital.vn
 0 addlog.thuvienphapluat.vn
@@ -10605,7 +10522,6 @@
 0 vongquay-pubgmobilevn-zing.com
 0 vongquaymienphi.net
 0 www.facebookz.co
-0 www.uqoxh.icu
 0 www.vongquaymienphi.net
 0 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 0 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -10668,6 +10584,7 @@
 0 acdcdn.com
 0 acento.com
 0 achcdn.com
+0 ackcdn.net
 0 aclickads.com
 0 acloudimages.com
 0 acridtwist.com
@@ -14982,7 +14899,6 @@
 0 cloudcollect.meitudata.com
 0 cmp.dmgmediaprivacy.co.uk
 0 cnt.xhamster.com
-0 cnt.xhamster.one
 0 cnzz.com
 0 cognitivlabs.com
 0 collect.usefathom.com
@@ -14990,7 +14906,6 @@
 0 collector.leaddyno.com
 0 collector.unsplash.com
 0 collector.xhamster.com
-0 collector.xhamster.one
 0 comscoreresearch.com
 0 cookieinfoscript.com
 0 coralogix.com
@@ -15332,8 +15247,10 @@
 0 track.pricespider.com
 0 track.saygames.io
 0 track.sohu.com
+0 track.starmakerstudios.com
 0 track.td3x.com
 0 track.tenjin.io
+0 track.venatusmedia.com
 0 track.wattpad.com
 0 trackcmp.net
 0 tracker.affirm.com
@@ -15390,6 +15307,7 @@
 0 worldgravity.com
 0 wren.condenastdigital.com
 0 wt.soundestlink.com
+0 www.datadoghq-browser-agent.com
 0 www.ethtrader.de
 0 www.everestjs.net
 0 www.fastly-insights.com
