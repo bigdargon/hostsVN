@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 06 Apr 2022 16:36 UTC+7
-! Version: 2204061636
-! Blocked: 7.082 domains
+! Last modified: 06 Apr 2022 16:41 UTC+7
+! Version: 2204061641
+! Blocked: 7.084 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -189,6 +189,8 @@ t.sieu-viet.com
 testcentre.vn
 tpmedia.online
 track.accesstrade.vn
+tracker-mw-zlivestream.zapps.vn
+tracker-zlivestream.zapps.vn
 tracking.api.media.zapps.vn
 tracking.banner.g6.zing.vn
 tracking.playzing.g6.zing.vn
