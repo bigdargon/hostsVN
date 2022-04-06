@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Apr 2022 14:31 UTC+7
-! Version: 2204051431
-! Blocked: 1.111 rules
+! Last modified: 06 Apr 2022 16:36 UTC+7
+! Version: 2204061636
+! Blocked: 1.116 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -124,6 +124,7 @@
 ||mobilead.vn^
 ||mobio.vn^
 ||modestsunf.com^
+||mplaylist-ads.zadn.vn^
 ||myad.vn^
 ||nanda.vn^
 ||native-ad.net^
@@ -266,6 +267,7 @@
 ||ads.carmudi.vn^
 ||ads.chanhtuoi.com^
 ||ads.conlatatca.vn^
+||ads.cungcau.vn^
 ||ads.fptplay.net.vn^
 ||ads.gosu.vn^
 ||ads.home.vn^
@@ -626,6 +628,7 @@
 ||tracker.bongngo.bar^
 ||tracker.fado.vn^
 ||tracker.gigaphim.com^
+||tracker.nhandaovadoisong.vn^
 ||tracker.phunuvagiadinh.vn^
 ||tracker.thichxemphim.net^
 ||tracking-amp.vnexpress.net^
@@ -689,6 +692,7 @@
 ||789.club^
 ||789.fun^
 ||789.moi^
+||789a.club^
 ||789club.biz^
 ||789club.com^
 ||789club.org^
@@ -857,6 +861,7 @@
 ||man.club^
 ||manclub.game^
 ||manclub.live^
+||manclub.vin^
 ||manclubwin.club^
 ||manclubwin.uk^
 ||mansion66.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 05 Apr 2022 14:31 UTC+7
-# Version: 2204051431
-# Blocked: 3.322 domains
+# Last modified: 06 Apr 2022 16:36 UTC+7
+# Version: 2204061636
+# Blocked: 3.329 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1085,6 +1085,13 @@
 0.0.0.0 vnq8.net
 0.0.0.0 api.vnq8.net
 0.0.0.0 www.vnq8.net
+0.0.0.0 manclub.vin
+0.0.0.0 gamebai.manclub.vin
+0.0.0.0 play.manclub.vin
+0.0.0.0 www.manclub.vin
+0.0.0.0 789a.club
+0.0.0.0 game.789a.club
+0.0.0.0 qc.789a.club
 # --- Block other gameblingVN ---
 0.0.0.0 978bet3.com
 0.0.0.0 www.978bet3.com
