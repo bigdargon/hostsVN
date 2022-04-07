@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Apr 2022 16:41 UTC+7
-! Version: 2204061641
-! Blocked: 7.084 rules
+! Last modified: 07 Apr 2022 22:37 UTC+7
+! Version: 2204072237
+! Blocked: 7.119 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -48,6 +48,7 @@
 ||adtimaserver.vn^
 ||adx.vn^
 ||aiactiv.io^
+||aiservice.vn^
 ||ambient-platform.com^
 ||ambientdsp.com^
 ||ambientplatform.vn^
@@ -72,6 +73,7 @@
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
 ||cdp.asia^
+||centralized.zaloapp.com^
 ||cheap-ads.net^
 ||chin-adnetwork.com^
 ||cityads.com^
@@ -355,7 +357,6 @@
 ||bgadx.com^
 ||bidgear-syndication.com^
 ||bluemaulpuffs.com^
-||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
 ||cdn.bongdadem.net^
 ||cdn.rongzhouxing.com^
@@ -368,6 +369,7 @@
 ||crocopop.com^
 ||csmads.gameclick.vn^
 ||delecpuzz.com^
+||delivery.lavamedia.vn^
 ||delivery.senvangvn.com^
 ||delivery.vtc.vn^
 ||delivery.vtcnew.com.vn^
@@ -397,7 +399,6 @@
 ||microad.vn^
 ||mobileads.dieuviet.com^
 ||ng-vn-notice.gameitop.com^
-||nspapi.aiservice.vn^
 ||offerwall.headlines.pw^
 ||onapp.haravan.com^
 ||openx.motgame.vn^
@@ -426,6 +427,7 @@
 ||sharks.vn^
 ||shop.vnay.vn^
 ||static.adconnect.vn^
+||static.dtadnetwork.com^
 ||static.mvot.vn^
 ||stc-nas.nixcdn.com^
 ||stc.nas.nixcdn.com^
@@ -646,6 +648,7 @@
 ||tracking.tinxe.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
+||tracking.vnncdn.net^
 ||tracking.vtc.vn^
 ||tracking.vtcnew.com.vn^
 ||tracking.yes24.vn^
@@ -665,6 +668,7 @@
 ||widget.kyna.vn^
 ||widget.subiz.net^
 ||widget.subiz.xyz^
+||za.baomoi.com^
 ||zigzag.vn^
 ||zlog.zingmp3.vn^
 ||1126bet.com^
@@ -712,6 +716,7 @@
 ||8live.top^
 ||8live.vip^
 ||8livevn.com^
+||8xbet22.com^
 ||92lottery.com^
 ||aa88.in^
 ||ae888.com^
@@ -881,6 +886,7 @@
 ||ms88asia.com^
 ||ms88ca.com^
 ||mu9.com^
+||mu9.vip^
 ||mu9.win^
 ||nbet.com^
 ||nbet.vip^
@@ -897,6 +903,7 @@
 ||one88.us^
 ||one88.vip^
 ||one88.vn^
+||one88.win^
 ||oneday88.com^
 ||oppa888.com^
 ||oppa88888888.com^
@@ -982,6 +989,7 @@
 ||uw88vnd.com^
 ||uw88vnd1.com^
 ||v28.club^
+||v79top.com^
 ||v7ac.com^
 ||v7king.com^
 ||v8.club^
@@ -990,6 +998,7 @@
 ||v9jvn.com^
 ||vaorikvip.com^
 ||vaorikvip.net^
+||vh79.com^
 ||vic.fun^
 ||vic.win^
 ||vicwin.vip^
@@ -1010,6 +1019,7 @@
 ||vnq8.bet^
 ||vnq8.com^
 ||vnq8.net^
+||vnq8.win^
 ||vua1004.club^
 ||vua1005.club^
 ||vuabai9.com^
@@ -1228,6 +1238,7 @@
 ||adnetworktech.com^
 ||adnow.cc^
 ||adnow.com^
+||adnuntius.com^
 ||adnxs-simple.com^
 ||adnxs.com^
 ||adomik.com^
@@ -1371,6 +1382,7 @@
 ||akisinn.info^
 ||akisinn.me^
 ||akisinn.site^
+||akstat.io^
 ||alcmpn.com^
 ||alexametrics.com^
 ||alphonso.tv^
@@ -1388,6 +1400,7 @@
 ||an.yandex.ru^
 ||analy.qq.com^
 ||analysis.fi^
+||analytics-ad-*.kgslb.com^
 ||analytics-sg.tiktok.com^
 ||analytics.autodesk.com^
 ||analytics.go.com^
@@ -1485,7 +1498,6 @@
 ||b92.yahoo.co.jp^
 ||b94.yahoo.co.jp^
 ||b97.yahoo.co.jp^
-||deltadna.net^
 ||bam-x.com^
 ||banners-slb.mobile.yandex.net^
 ||banners.mobile.yandex.net^
@@ -1611,6 +1623,7 @@
 ||content-ad.net^
 ||content.ad^
 ||contentabc.com^
+||contentspread.net^
 ||contextweb.com^
 ||conversantmedia.com^
 ||convertexperiments.com^
@@ -1650,6 +1663,7 @@
 ||datacollector-*.dt.hicloud.com^
 ||datawrkz.com^
 ||deepintent.com^
+||deltadna.net^
 ||demandbase.com^
 ||deployads.com^
 ||device-metrics-*.amazon.com^
@@ -1660,6 +1674,7 @@
 ||dfbanners.com^
 ||dfnb-ads.com^
 ||direct-events-collector.spot.im^
+||display-ad-*.kgslb.com^
 ||districtm.io^
 ||dit.whatsapp.net^
 ||dj1*.online^
@@ -1693,6 +1708,7 @@
 ||engageya.com^
 ||eoapxl.com^
 ||epom.com^
+||erne.co^
 ||eskimi.com^
 ||ethicalads.io^
 ||eventgateway.soundcloud.com^
@@ -1722,6 +1738,7 @@
 ||fclick-adnow.com^
 ||fclog.baidu.com^
 ||fidelity-media.com^
+||fiftyt.com^
 ||filament-stats.herokuapp.com^
 ||firebaselogging-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
@@ -1850,6 +1867,7 @@
 ||invl.co^
 ||ioam.de^
 ||iperceptions.com^
+||iprom.net^
 ||iqzone.com^
 ||islandmob.com^
 ||ivstracker.net^
@@ -1886,6 +1904,7 @@
 ||linksynergy.com^
 ||lkqd.net^
 ||localytics.com^
+||log-global.aliyuncs.com^
 ||log.aliyuncs.com^
 ||log.go.com^
 ||log.kajicam.com^
@@ -1975,6 +1994,7 @@
 ||mobisage.cn^
 ||mobpartner.mobi^
 ||mobytrks.com^
+||modoro360.com^
 ||moengage.com^
 ||mondiad.net^
 ||mookie1.com^
@@ -2007,6 +2027,7 @@
 ||nol.yahoo.com^
 ||notes-analytics-events.apple.com^
 ||nr-data.net^
+||nrich.ai^
 ||ns1p.net^
 ||nsclick.baidu.com^
 ||nxtck.com^
@@ -2209,6 +2230,7 @@
 ||socdm.com^
 ||sociaplus.com^
 ||soft-com.biz^
+||somplo.com^
 ||sonobi.com^
 ||speakol.com^
 ||specificclick.net^
@@ -2254,6 +2276,7 @@
 ||tapjoyads.com^
 ||taplytics.com^
 ||taxel.jp^
+||tblog-*.kgslb.com^
 ||teads.tv^
 ||technoratimedia.com^
 ||telemetry.insights.video.a2z.com^
@@ -2290,6 +2313,7 @@
 ||trk2.pinterest.com^
 ||tru.am^
 ||truepush.com^
+||truffle.bid^
 ||truoptik.com^
 ||trustx.org^
 ||tsyndicate.com^
@@ -2352,6 +2376,7 @@
 ||weather-analytics-events.apple.com^
 ||webengage.com^
 ||webgains.com^
+||webpushr.com^
 ||webvisor.com^
 ||webvisor.org^
 ||webvisor.ru^
@@ -2469,6 +2494,7 @@
 ||ad-miner.com^
 ||ad-pay.de^
 ||ad-rotator.com^
+||ad-server.eu^
 ||ad-server.gulasidorna.se^
 ||ad-server.unlimapps.com^
 ||ad-serverparc.nl^
@@ -2996,6 +3022,7 @@
 ||ads.toplayaffiliates.com^
 ||ads.totallyfreestuff.com^
 ||ads.townhall.com^
+||ads.travelaudience.com^
 ||ads.trinitymirror.co.uk^
 ||ads.tripod.com^
 ||ads.tso.dennisnet.co.uk^
@@ -3448,6 +3475,8 @@
 ||auweelta.net^
 ||avenuea.com^
 ||avfgoatbyyerys.com^
+||avivid.likr.tw^
+||avividone.likr.tw^
 ||avocet.io^
 ||avpa.javalobby.org^
 ||avres.net^
@@ -4429,7 +4458,6 @@
 ||graizoah.com^
 ||grandioseguide.com^
 ||grapeshot.co.uk^
-||green.erne.co^
 ||greenplasticdua.com^
 ||greetzebra.com^
 ||greyinstrument.com^
@@ -4726,6 +4754,7 @@
 ||jxdqawzenrpw.com^
 ||k.iinfo.cz^
 ||kaffnet.com^
+||kangaroohiccups.com^
 ||kanoodle.com^
 ||kaplanindex.com^
 ||karonty.com^
@@ -4864,6 +4893,7 @@
 ||madriyelowd.com^
 ||madserve.org^
 ||madvertise.de^
+||mage98rquewz.com^
 ||magnetic.com^
 ||magnificentmist.com^
 ||magnite.com^
@@ -5529,6 +5559,8 @@
 ||qwerfdx.com^
 ||qwertize.com^
 ||r.leadzu.com^
+||r.mradx.net^
+||r0.mradx.net^
 ||r3adyt0download.com^
 ||radarurl.com^
 ||radiate.com^
@@ -6497,6 +6529,7 @@
 ||zeepmedia.com^
 ||zekiatagur.com^
 ||zemanta.com^
+||zenaps.com^
 ||zencudo.co.uk^
 ||zenkreka.com^
 ||zenzuu.com^
@@ -6617,6 +6650,7 @@
 ||beampulse.com^
 ||bento.agoda.com^
 ||beyondsecurity.com^
+||bi.yeshen.com^
 ||bjdxhs.com^
 ||bjhmt.com^
 ||blueconic.net^
@@ -6975,6 +7009,7 @@
 ||thoosje.com^
 ||thrtle.com^
 ||tlog.hiido.com^
+||tms.fmm.io^
 ||to.getnitropack.com^
 ||top-fwz1.mail.ru^
 ||tr.snapchat.com^

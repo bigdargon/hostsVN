@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Apr 2022 16:41 UTC+7
-# Version: 2204061641
-# Blocked: 15.398 domains
+# Last modified: 07 Apr 2022 22:37 UTC+7
+# Version: 2204072237
+# Blocked: 15.469 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9642,6 +9642,8 @@
 0.0.0.0 tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
 0.0.0.0 tap-snow-hk.cn-hongkong.log.aliyuncs.com
 0.0.0.0 wizardlog.cn-hongkong.log.aliyuncs.com
+0.0.0.0 log-global.aliyuncs.com
+0.0.0.0 hdp-raw-log.log-global.aliyuncs.com
 #[userreport.com]
 0.0.0.0 analytics.userreport.com
 0.0.0.0 bapi.userreport.com
@@ -9853,6 +9855,69 @@
 0.0.0.0 analytics.mintegral.net
 0.0.0.0 mintegral.net
 0.0.0.0 pok.mintegral.net
+#[adnuntius.com]
+0.0.0.0 adnuntius.com
+0.0.0.0 cdn.adnuntius.com
+0.0.0.0 delivery.adnuntius.com
+0.0.0.0 tags.adnuntius.com
+#[akstat.io]
+0.0.0.0 akstat.io
+0.0.0.0 17de4c16.akstat.io
+0.0.0.0 17de4c17.akstat.io
+0.0.0.0 684dd325.akstat.io
+0.0.0.0 684dd32c.akstat.io
+#[kgslb.com]
+0.0.0.0 analytics-ad-eyu9u2md.kgslb.com
+0.0.0.0 display-ad-rgt0me85.kgslb.com
+0.0.0.0 tblog-8sodn459.kgslb.com
+#[iprom.net]
+0.0.0.0 adsec.iprom.net
+0.0.0.0 adserver.iprom.net
+0.0.0.0 core.iprom.net
+0.0.0.0 iprom.net
+#[fiftyt.com]
+0.0.0.0 fiftyt.com
+0.0.0.0 p.fiftyt.com
+0.0.0.0 visitor-uk.fiftyt.com
+0.0.0.0 visitor.fiftyt.com
+#[erne.co]
+0.0.0.0 erne.co
+0.0.0.0 green.erne.co
+0.0.0.0 grey.erne.co
+0.0.0.0 red.erne.co
+#[truffle.bid]
+0.0.0.0 analytics.truffle.bid
+0.0.0.0 cdn.truffle.bid
+0.0.0.0 matching.truffle.bid
+0.0.0.0 truffle.bid
+#[nrich.ai]
+0.0.0.0 dsp.nrich.ai
+0.0.0.0 nrich.ai
+0.0.0.0 serve.nrich.ai
+0.0.0.0 tag.nrich.ai
+#[somplo.com]
+0.0.0.0 adserve.somplo.com
+0.0.0.0 cdn.somplo.com
+0.0.0.0 pixel.somplo.com
+0.0.0.0 previewcdn.somplo.com
+0.0.0.0 serve.somplo.com
+0.0.0.0 somplo.com
+#[modoro360.com]
+0.0.0.0 modoro360.com
+0.0.0.0 serv.modoro360.com
+0.0.0.0 servg.modoro360.com
+0.0.0.0 servs.modoro360.com
+0.0.0.0 servt.modoro360.com
+0.0.0.0 tg1.modoro360.com
+0.0.0.0 www.modoro360.com
+#[contentspread.net]
+0.0.0.0 cdn.contentspread.net
+0.0.0.0 contentspread.net
+#[webpushr.com]
+0.0.0.0 analytics.webpushr.com
+0.0.0.0 bot.webpushr.com
+0.0.0.0 cdn.webpushr.com
+0.0.0.0 webpushr.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -10260,6 +10325,7 @@
 0.0.0.0 widget.chat.zalo.me
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
+0.0.0.0 centralized.zaloapp.com
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 photo-ads.zaloapp.com
 0.0.0.0 px.dmp.zaloapp.com
@@ -11127,6 +11193,12 @@
 0.0.0.0 metaconex.io
 0.0.0.0 pub.metaconex.io
 0.0.0.0 www.metaconex.io
+#[aiservice.vn]
+0.0.0.0 aiservice.vn
+0.0.0.0 boxpr.aiservice.vn
+0.0.0.0 js.aiservice.vn
+0.0.0.0 nspapi.aiservice.vn
+0.0.0.0 rec.aiservice.vn
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
@@ -11257,7 +11329,6 @@
 0.0.0.0 bgadx.com
 0.0.0.0 bidgear-syndication.com
 0.0.0.0 bluemaulpuffs.com
-0.0.0.0 boxpr.aiservice.vn
 0.0.0.0 cdn-ads.thesaigontimes.vn
 0.0.0.0 cdn.bongdadem.net
 0.0.0.0 cdn.rongzhouxing.com
@@ -11270,6 +11341,7 @@
 0.0.0.0 crocopop.com
 0.0.0.0 csmads.gameclick.vn
 0.0.0.0 delecpuzz.com
+0.0.0.0 delivery.lavamedia.vn
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 delivery.vtc.vn
 0.0.0.0 delivery.vtcnew.com.vn
@@ -11299,7 +11371,6 @@
 0.0.0.0 microad.vn
 0.0.0.0 mobileads.dieuviet.com
 0.0.0.0 ng-vn-notice.gameitop.com
-0.0.0.0 nspapi.aiservice.vn
 0.0.0.0 offerwall.headlines.pw
 0.0.0.0 onapp.haravan.com
 0.0.0.0 openx.motgame.vn
@@ -11328,6 +11399,7 @@
 0.0.0.0 sharks.vn
 0.0.0.0 shop.vnay.vn
 0.0.0.0 static.adconnect.vn
+0.0.0.0 static.dtadnetwork.com
 0.0.0.0 static.mvot.vn
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.nas.nixcdn.com
@@ -11569,6 +11641,7 @@
 0.0.0.0 tracking.tinxe.vn
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietbao.vn
+0.0.0.0 tracking.vnncdn.net
 0.0.0.0 tracking.vtc.vn
 0.0.0.0 tracking.vtcnew.com.vn
 0.0.0.0 tracking.yes24.vn
@@ -11586,6 +11659,7 @@
 0.0.0.0 webpush.todo.vn
 0.0.0.0 webstag.kplus.vn
 0.0.0.0 widget.kyna.vn
+0.0.0.0 za.baomoi.com
 0.0.0.0 zigzag.vn
 0.0.0.0 zlog.zingmp3.vn
 # --- Block scamVN ---
@@ -11736,6 +11810,7 @@
 0.0.0.0 ad-miner.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
+0.0.0.0 ad-server.eu
 0.0.0.0 ad-server.gulasidorna.se
 0.0.0.0 ad-server.unlimapps.com
 0.0.0.0 ad-serverparc.nl
@@ -12262,6 +12337,7 @@
 0.0.0.0 ads.toplayaffiliates.com
 0.0.0.0 ads.totallyfreestuff.com
 0.0.0.0 ads.townhall.com
+0.0.0.0 ads.travelaudience.com
 0.0.0.0 ads.trinitymirror.co.uk
 0.0.0.0 ads.tripod.com
 0.0.0.0 ads.tso.dennisnet.co.uk
@@ -12714,6 +12790,8 @@
 0.0.0.0 auweelta.net
 0.0.0.0 avenuea.com
 0.0.0.0 avfgoatbyyerys.com
+0.0.0.0 avivid.likr.tw
+0.0.0.0 avividone.likr.tw
 0.0.0.0 avocet.io
 0.0.0.0 avpa.javalobby.org
 0.0.0.0 avres.net
@@ -13694,7 +13772,6 @@
 0.0.0.0 graizoah.com
 0.0.0.0 grandioseguide.com
 0.0.0.0 grapeshot.co.uk
-0.0.0.0 green.erne.co
 0.0.0.0 greenplasticdua.com
 0.0.0.0 greetzebra.com
 0.0.0.0 greyinstrument.com
@@ -13991,6 +14068,7 @@
 0.0.0.0 jxdqawzenrpw.com
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kaffnet.com
+0.0.0.0 kangaroohiccups.com
 0.0.0.0 kanoodle.com
 0.0.0.0 karonty.com
 0.0.0.0 kbnihnmrghgy.com
@@ -14128,6 +14206,7 @@
 0.0.0.0 madriyelowd.com
 0.0.0.0 madserve.org
 0.0.0.0 madvertise.de
+0.0.0.0 mage98rquewz.com
 0.0.0.0 magnetic.com
 0.0.0.0 magnificentmist.com
 0.0.0.0 magnite.com
@@ -14791,6 +14870,8 @@
 0.0.0.0 qwerfdx.com
 0.0.0.0 qwertize.com
 0.0.0.0 r.leadzu.com
+0.0.0.0 r.mradx.net
+0.0.0.0 r0.mradx.net
 0.0.0.0 r3adyt0download.com
 0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
@@ -15888,6 +15969,7 @@
 0.0.0.0 zeepmedia.com
 0.0.0.0 zekiatagur.com
 0.0.0.0 zemanta.com
+0.0.0.0 zenaps.com
 0.0.0.0 zencudo.co.uk
 0.0.0.0 zenkreka.com
 0.0.0.0 zenzuu.com
@@ -16009,6 +16091,7 @@
 0.0.0.0 beampulse.com
 0.0.0.0 bento.agoda.com
 0.0.0.0 beyondsecurity.com
+0.0.0.0 bi.yeshen.com
 0.0.0.0 bjdxhs.com
 0.0.0.0 bjhmt.com
 0.0.0.0 blueconic.net
@@ -16366,6 +16449,7 @@
 0.0.0.0 thoosje.com
 0.0.0.0 thrtle.com
 0.0.0.0 tlog.hiido.com
+0.0.0.0 tms.fmm.io
 0.0.0.0 to.getnitropack.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tr.snapchat.com

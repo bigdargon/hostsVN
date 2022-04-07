@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Apr 2022 16:41 UTC+7
-# Version: 2204061641
-# Blocked: 1.670 domains
+# Last modified: 07 Apr 2022 22:37 UTC+7
+# Version: 2204072237
+# Blocked: 1.678 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -417,6 +417,7 @@
 0.0.0.0 widget.chat.zalo.me
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
+0.0.0.0 centralized.zaloapp.com
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 photo-ads.zaloapp.com
 0.0.0.0 px.dmp.zaloapp.com
@@ -1284,6 +1285,12 @@
 0.0.0.0 metaconex.io
 0.0.0.0 pub.metaconex.io
 0.0.0.0 www.metaconex.io
+#[aiservice.vn]
+0.0.0.0 aiservice.vn
+0.0.0.0 boxpr.aiservice.vn
+0.0.0.0 js.aiservice.vn
+0.0.0.0 nspapi.aiservice.vn
+0.0.0.0 rec.aiservice.vn
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
@@ -1414,7 +1421,6 @@
 0.0.0.0 bgadx.com
 0.0.0.0 bidgear-syndication.com
 0.0.0.0 bluemaulpuffs.com
-0.0.0.0 boxpr.aiservice.vn
 0.0.0.0 cdn-ads.thesaigontimes.vn
 0.0.0.0 cdn.bongdadem.net
 0.0.0.0 cdn.rongzhouxing.com
@@ -1427,6 +1433,7 @@
 0.0.0.0 crocopop.com
 0.0.0.0 csmads.gameclick.vn
 0.0.0.0 delecpuzz.com
+0.0.0.0 delivery.lavamedia.vn
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 delivery.vtc.vn
 0.0.0.0 delivery.vtcnew.com.vn
@@ -1456,7 +1463,6 @@
 0.0.0.0 microad.vn
 0.0.0.0 mobileads.dieuviet.com
 0.0.0.0 ng-vn-notice.gameitop.com
-0.0.0.0 nspapi.aiservice.vn
 0.0.0.0 offerwall.headlines.pw
 0.0.0.0 onapp.haravan.com
 0.0.0.0 openx.motgame.vn
@@ -1485,6 +1491,7 @@
 0.0.0.0 sharks.vn
 0.0.0.0 shop.vnay.vn
 0.0.0.0 static.adconnect.vn
+0.0.0.0 static.dtadnetwork.com
 0.0.0.0 static.mvot.vn
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.nas.nixcdn.com
@@ -1726,6 +1733,7 @@
 0.0.0.0 tracking.tinxe.vn
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietbao.vn
+0.0.0.0 tracking.vnncdn.net
 0.0.0.0 tracking.vtc.vn
 0.0.0.0 tracking.vtcnew.com.vn
 0.0.0.0 tracking.yes24.vn
@@ -1743,6 +1751,7 @@
 0.0.0.0 webpush.todo.vn
 0.0.0.0 webstag.kplus.vn
 0.0.0.0 widget.kyna.vn
+0.0.0.0 za.baomoi.com
 0.0.0.0 zigzag.vn
 0.0.0.0 zlog.zingmp3.vn
 # --- Block scamVN ---

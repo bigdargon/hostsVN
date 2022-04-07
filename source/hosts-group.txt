@@ -9630,6 +9630,8 @@
 0.0.0.0 tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
 0.0.0.0 tap-snow-hk.cn-hongkong.log.aliyuncs.com
 0.0.0.0 wizardlog.cn-hongkong.log.aliyuncs.com
+0.0.0.0 log-global.aliyuncs.com
+0.0.0.0 hdp-raw-log.log-global.aliyuncs.com
 #[userreport.com]
 0.0.0.0 analytics.userreport.com
 0.0.0.0 bapi.userreport.com
@@ -9841,3 +9843,66 @@
 0.0.0.0 analytics.mintegral.net
 0.0.0.0 mintegral.net
 0.0.0.0 pok.mintegral.net
+#[adnuntius.com]
+0.0.0.0 adnuntius.com
+0.0.0.0 cdn.adnuntius.com
+0.0.0.0 delivery.adnuntius.com
+0.0.0.0 tags.adnuntius.com
+#[akstat.io]
+0.0.0.0 akstat.io
+0.0.0.0 17de4c16.akstat.io
+0.0.0.0 17de4c17.akstat.io
+0.0.0.0 684dd325.akstat.io
+0.0.0.0 684dd32c.akstat.io
+#[kgslb.com]
+0.0.0.0 analytics-ad-eyu9u2md.kgslb.com
+0.0.0.0 display-ad-rgt0me85.kgslb.com
+0.0.0.0 tblog-8sodn459.kgslb.com
+#[iprom.net]
+0.0.0.0 adsec.iprom.net
+0.0.0.0 adserver.iprom.net
+0.0.0.0 core.iprom.net
+0.0.0.0 iprom.net
+#[fiftyt.com]
+0.0.0.0 fiftyt.com
+0.0.0.0 p.fiftyt.com
+0.0.0.0 visitor-uk.fiftyt.com
+0.0.0.0 visitor.fiftyt.com
+#[erne.co]
+0.0.0.0 erne.co
+0.0.0.0 green.erne.co
+0.0.0.0 grey.erne.co
+0.0.0.0 red.erne.co
+#[truffle.bid]
+0.0.0.0 analytics.truffle.bid
+0.0.0.0 cdn.truffle.bid
+0.0.0.0 matching.truffle.bid
+0.0.0.0 truffle.bid
+#[nrich.ai]
+0.0.0.0 dsp.nrich.ai
+0.0.0.0 nrich.ai
+0.0.0.0 serve.nrich.ai
+0.0.0.0 tag.nrich.ai
+#[somplo.com]
+0.0.0.0 adserve.somplo.com
+0.0.0.0 cdn.somplo.com
+0.0.0.0 pixel.somplo.com
+0.0.0.0 previewcdn.somplo.com
+0.0.0.0 serve.somplo.com
+0.0.0.0 somplo.com
+#[modoro360.com]
+0.0.0.0 modoro360.com
+0.0.0.0 serv.modoro360.com
+0.0.0.0 servg.modoro360.com
+0.0.0.0 servs.modoro360.com
+0.0.0.0 servt.modoro360.com
+0.0.0.0 tg1.modoro360.com
+0.0.0.0 www.modoro360.com
+#[contentspread.net]
+0.0.0.0 cdn.contentspread.net
+0.0.0.0 contentspread.net
+#[webpushr.com]
+0.0.0.0 analytics.webpushr.com
+0.0.0.0 bot.webpushr.com
+0.0.0.0 cdn.webpushr.com
+0.0.0.0 webpushr.com

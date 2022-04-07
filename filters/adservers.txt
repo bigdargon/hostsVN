@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Apr 2022 16:41 UTC+7
-! Version: 2204061641
-! Blocked: 1.118 rules
+! Last modified: 07 Apr 2022 22:37 UTC+7
+! Version: 2204072237
+! Blocked: 1.128 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -48,6 +48,7 @@
 ||adtimaserver.vn^
 ||adx.vn^
 ||aiactiv.io^
+||aiservice.vn^
 ||ambient-platform.com^
 ||ambientdsp.com^
 ||ambientplatform.vn^
@@ -72,6 +73,7 @@
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
 ||cdp.asia^
+||centralized.zaloapp.com^
 ||cheap-ads.net^
 ||chin-adnetwork.com^
 ||cityads.com^
@@ -355,7 +357,6 @@
 ||bgadx.com^
 ||bidgear-syndication.com^
 ||bluemaulpuffs.com^
-||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
 ||cdn.bongdadem.net^
 ||cdn.rongzhouxing.com^
@@ -368,6 +369,7 @@
 ||crocopop.com^
 ||csmads.gameclick.vn^
 ||delecpuzz.com^
+||delivery.lavamedia.vn^
 ||delivery.senvangvn.com^
 ||delivery.vtc.vn^
 ||delivery.vtcnew.com.vn^
@@ -397,7 +399,6 @@
 ||microad.vn^
 ||mobileads.dieuviet.com^
 ||ng-vn-notice.gameitop.com^
-||nspapi.aiservice.vn^
 ||offerwall.headlines.pw^
 ||onapp.haravan.com^
 ||openx.motgame.vn^
@@ -426,6 +427,7 @@
 ||sharks.vn^
 ||shop.vnay.vn^
 ||static.adconnect.vn^
+||static.dtadnetwork.com^
 ||static.mvot.vn^
 ||stc-nas.nixcdn.com^
 ||stc.nas.nixcdn.com^
@@ -646,6 +648,7 @@
 ||tracking.tinxe.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
+||tracking.vnncdn.net^
 ||tracking.vtc.vn^
 ||tracking.vtcnew.com.vn^
 ||tracking.yes24.vn^
@@ -665,6 +668,7 @@
 ||widget.kyna.vn^
 ||widget.subiz.net^
 ||widget.subiz.xyz^
+||za.baomoi.com^
 ||zigzag.vn^
 ||zlog.zingmp3.vn^
 ||1126bet.com^
@@ -712,6 +716,7 @@
 ||8live.top^
 ||8live.vip^
 ||8livevn.com^
+||8xbet22.com^
 ||92lottery.com^
 ||aa88.in^
 ||ae888.com^
@@ -881,6 +886,7 @@
 ||ms88asia.com^
 ||ms88ca.com^
 ||mu9.com^
+||mu9.vip^
 ||mu9.win^
 ||nbet.com^
 ||nbet.vip^
@@ -897,6 +903,7 @@
 ||one88.us^
 ||one88.vip^
 ||one88.vn^
+||one88.win^
 ||oneday88.com^
 ||oppa888.com^
 ||oppa88888888.com^
@@ -982,6 +989,7 @@
 ||uw88vnd.com^
 ||uw88vnd1.com^
 ||v28.club^
+||v79top.com^
 ||v7ac.com^
 ||v7king.com^
 ||v8.club^
@@ -990,6 +998,7 @@
 ||v9jvn.com^
 ||vaorikvip.com^
 ||vaorikvip.net^
+||vh79.com^
 ||vic.fun^
 ||vic.win^
 ||vicwin.vip^
@@ -1010,6 +1019,7 @@
 ||vnq8.bet^
 ||vnq8.com^
 ||vnq8.net^
+||vnq8.win^
 ||vua1004.club^
 ||vua1005.club^
 ||vuabai9.com^
