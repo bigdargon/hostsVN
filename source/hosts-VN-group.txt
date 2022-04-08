@@ -1274,8 +1274,9 @@
 0.0.0.0 pub.metaconex.io
 0.0.0.0 www.metaconex.io
 #[aiservice.vn]
-0.0.0.0 aiservice.vn
 0.0.0.0 boxpr.aiservice.vn
 0.0.0.0 js.aiservice.vn
 0.0.0.0 nspapi.aiservice.vn
-0.0.0.0 rec.aiservice.vn
+#[analytics.saas-vn.network]
+0.0.0.0 analytics.saas-vn.network
+0.0.0.0 congnb.analytics.saas-vn.network

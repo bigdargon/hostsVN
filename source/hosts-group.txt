@@ -281,8 +281,6 @@
 #[services.visualstudio.com]
 0.0.0.0 dc-int.services.visualstudio.com
 0.0.0.0 dc.services.visualstudio.com
-0.0.0.0 rt.services.visualstudio.com
-0.0.0.0 services.visualstudio.com
 #[amazon.com]
 0.0.0.0 aan.amazon.com
 0.0.0.0 fls-na.amazon.com

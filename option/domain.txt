@@ -249,8 +249,6 @@ js.monitor.azure.com
 monitor.azure.com
 dc-int.services.visualstudio.com
 dc.services.visualstudio.com
-rt.services.visualstudio.com
-services.visualstudio.com
 aan.amazon.com
 fls-na.amazon.com
 rcm-images.amazon.com
@@ -10082,11 +10080,11 @@ ads.metaconex.io
 metaconex.io
 pub.metaconex.io
 www.metaconex.io
-aiservice.vn
 boxpr.aiservice.vn
 js.aiservice.vn
 nspapi.aiservice.vn
-rec.aiservice.vn
+analytics.saas-vn.network
+congnb.analytics.saas-vn.network
 12signup.com
 5734a40f2d.vws.vegacdn.vn
 703531862.vws.vegacdn.vn
@@ -10121,8 +10119,10 @@ ads.568play.vn
 ads.autonet.com.vn
 ads.baoangiang.com.vn
 ads.baobinhduong.vn
+ads.baobinhthuan.com.vn
 ads.baocantho.com.vn
 ads.baodatviet.vn
+ads.baohaiduong.vn
 ads.baotainguyenmoitruong.vn
 ads.bkitsoftware.com
 ads.businessstyle.vn
@@ -10141,6 +10141,7 @@ ads.kiemsat.vn
 ads.lamchame.vn
 ads.laodongbinhduong.org.vn
 ads.laodongnghean.vn
+ads.markettimes.vn
 ads.marry.vn
 ads.netlinkad.vn
 ads.nghenhinvietnam.vn

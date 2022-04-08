@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Apr 2022 12:03 UTC+7
-# Version: 2204081203
-# Blocked: 15.492 domains
+# Last modified: 08 Apr 2022 23:00 UTC+7
+# Version: 2204082300
+# Blocked: 15.493 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -265,8 +265,6 @@
 0 monitor.azure.com
 0 dc-int.services.visualstudio.com
 0 dc.services.visualstudio.com
-0 rt.services.visualstudio.com
-0 services.visualstudio.com
 0 aan.amazon.com
 0 fls-na.amazon.com
 0 rcm-images.amazon.com
@@ -10098,11 +10096,11 @@
 0 metaconex.io
 0 pub.metaconex.io
 0 www.metaconex.io
-0 aiservice.vn
 0 boxpr.aiservice.vn
 0 js.aiservice.vn
 0 nspapi.aiservice.vn
-0 rec.aiservice.vn
+0 analytics.saas-vn.network
+0 congnb.analytics.saas-vn.network
 0 12signup.com
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
@@ -10137,8 +10135,10 @@
 0 ads.autonet.com.vn
 0 ads.baoangiang.com.vn
 0 ads.baobinhduong.vn
+0 ads.baobinhthuan.com.vn
 0 ads.baocantho.com.vn
 0 ads.baodatviet.vn
+0 ads.baohaiduong.vn
 0 ads.baotainguyenmoitruong.vn
 0 ads.bkitsoftware.com
 0 ads.businessstyle.vn
@@ -10157,6 +10157,7 @@
 0 ads.lamchame.vn
 0 ads.laodongbinhduong.org.vn
 0 ads.laodongnghean.vn
+0 ads.markettimes.vn
 0 ads.marry.vn
 0 ads.netlinkad.vn
 0 ads.nghenhinvietnam.vn

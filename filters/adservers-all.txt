@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 08 Apr 2022 12:03 UTC+7
-! Version: 2204081203
-! Blocked: 7.127 rules
+! Last modified: 08 Apr 2022 23:00 UTC+7
+! Version: 2204082300
+! Blocked: 7.134 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -48,11 +48,11 @@
 ||adtimaserver.vn^
 ||adx.vn^
 ||aiactiv.io^
-||aiservice.vn^
 ||ambient-platform.com^
 ||ambientdsp.com^
 ||ambientplatform.vn^
 ||amcdn.vn^
+||analytics.saas-vn.network^
 ||analytics.zapps.vn^
 ||anthill.vn^
 ||ants.vn^
@@ -64,6 +64,7 @@
 ||banners-gallery.coccoc.com^
 ||bidgear.com^
 ||blogstatistics.sapoapps.vn^
+||boxpr.aiservice.vn^
 ||brand.zing.vn^
 ||button-follow.zalo.me^
 ||button-share.zalo.me^
@@ -103,6 +104,7 @@
 ||hbplatform.com^
 ||hotngay.vn^
 ||itim.vn^
+||js.aiservice.vn^
 ||jslog.zapps.vn^
 ||kabbmedia.com^
 ||klick.vn^
@@ -135,6 +137,7 @@
 ||novaon.vn^
 ||novaonads.com^
 ||novaonx.com^
+||nspapi.aiservice.vn^
 ||nv-ad.24hstatic.com^
 ||ohchat.net^
 ||oncustomer.asia^
@@ -262,8 +265,10 @@
 ||ads.autonet.com.vn^
 ||ads.baoangiang.com.vn^
 ||ads.baobinhduong.vn^
+||ads.baobinhthuan.com.vn^
 ||ads.baocantho.com.vn^
 ||ads.baodatviet.vn^
+||ads.baohaiduong.vn^
 ||ads.baotainguyenmoitruong.vn^
 ||ads.bkitsoftware.com^
 ||ads.businessstyle.vn^
@@ -282,6 +287,7 @@
 ||ads.lamchame.vn^
 ||ads.laodongbinhduong.org.vn^
 ||ads.laodongnghean.vn^
+||ads.markettimes.vn^
 ||ads.marry.vn^
 ||ads.netlinkad.vn^
 ||ads.nghenhinvietnam.vn^
@@ -1664,6 +1670,8 @@
 ||data.sec.miui.com^
 ||datacollector-*.dt.hicloud.com^
 ||datawrkz.com^
+||dc-int.services.visualstudio.com^
+||dc.services.visualstudio.com^
 ||deepintent.com^
 ||deltadna.net^
 ||demandbase.com^
@@ -2207,7 +2215,6 @@
 ||servenobid.com^
 ||serverbid.com^
 ||servicelayer.king.com^
-||services.visualstudio.com^
 ||serving-sys.com^
 ||sgp.o2o.api.xiaomi.com^
 ||share.yandex.ru^
