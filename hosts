@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Apr 2022 22:37 UTC+7
-# Version: 2204072237
-# Blocked: 15.469 domains
+# Last modified: 08 Apr 2022 12:03 UTC+7
+# Version: 2204081203
+# Blocked: 15.492 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -285,8 +285,19 @@
 0.0.0.0 adserver.bing.com
 0.0.0.0 bat.bing.com
 0.0.0.0 c.bing.com
+#[monitor.azure.com]
+0.0.0.0 global.in.ai.monitor.azure.com
+0.0.0.0 global.in.ai.privatelink.monitor.azure.com
+0.0.0.0 js.monitor.azure.com
+0.0.0.0 monitor.azure.com
+#[services.visualstudio.com]
+0.0.0.0 dc-int.services.visualstudio.com
+0.0.0.0 dc.services.visualstudio.com
+0.0.0.0 rt.services.visualstudio.com
+0.0.0.0 services.visualstudio.com
 #[amazon.com]
 0.0.0.0 aan.amazon.com
+0.0.0.0 fls-na.amazon.com
 0.0.0.0 rcm-images.amazon.com
 0.0.0.0 rcm.amazon.com
 0.0.0.0 uedata.amazon.com
@@ -9918,6 +9929,26 @@
 0.0.0.0 bot.webpushr.com
 0.0.0.0 cdn.webpushr.com
 0.0.0.0 webpushr.com
+#[vidverto.io]
+0.0.0.0 ad.vidverto.io
+0.0.0.0 cdn.vidverto.io
+0.0.0.0 ssp.vidverto.io
+0.0.0.0 vidverto.io
+#[collect.igodigital.com]
+0.0.0.0 100008436.collect.igodigital.com
+0.0.0.0 100022618.collect.igodigital.com
+0.0.0.0 10907971.collect.igodigital.com
+0.0.0.0 514007132.collect.igodigital.com
+0.0.0.0 514012690.collect.igodigital.com
+0.0.0.0 collect.igodigital.com
+#[akamaihd.net]
+0.0.0.0 appnext-a.akamaihd.net
+0.0.0.0 ds-aksb-a.akamaihd.net
+0.0.0.0 inmobisdk-a.akamaihd.net
+0.0.0.0 supersonicads-a.akamaihd.net
+#[techlab-cdn.com]
+0.0.0.0 techlab-cdn.com
+0.0.0.0 p11.techlab-cdn.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12595,6 +12626,7 @@
 0.0.0.0 adzones.com
 0.0.0.0 aentafmxkmhea.com
 0.0.0.0 af-ad.co.uk
+0.0.0.0 aff.bstatic.com
 0.0.0.0 affbuzzads.com
 0.0.0.0 affec.tv
 0.0.0.0 affili.net
@@ -12716,7 +12748,6 @@
 0.0.0.0 appflood.com
 0.0.0.0 appia.com
 0.0.0.0 appier.com
-0.0.0.0 appnext-a.akamaihd.net
 0.0.0.0 appolicious.com
 0.0.0.0 apprebates.com
 0.0.0.0 appredeem.com
@@ -13960,7 +13991,6 @@
 0.0.0.0 ingivergrimier.com
 0.0.0.0 injectlocum.com
 0.0.0.0 inmobi-jp.com
-0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 inner-active.com
 0.0.0.0 innocentwax.com
 0.0.0.0 inorcelliana.info
@@ -15295,7 +15325,6 @@
 0.0.0.0 sunmedia.tv
 0.0.0.0 superclix.de
 0.0.0.0 superfastcdn.com
-0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 superstats.com
 0.0.0.0 supertop.ru
 0.0.0.0 supertop100.com

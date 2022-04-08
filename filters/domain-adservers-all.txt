@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 07 Apr 2022 22:37 UTC+7
-! Version: 2204072237
-! Blocked: 7.119 domains
+! Last modified: 08 Apr 2022 12:03 UTC+7
+! Version: 2204081203
+! Blocked: 7.127 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -1454,6 +1454,7 @@ applvn.com
 appmetrica.yandex.com
 appmetrica.yandex.net
 appmetrica.yandex.ru
+appnext-a.akamaihd.net
 appnext.com
 appnexus.com
 appodealx.com
@@ -1610,6 +1611,7 @@ cloudmobi.net
 cm-exchange.toast.com
 cnnx.io
 cnt.my
+collect.igodigital.com
 collecticon.outlookmobile.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
@@ -1689,6 +1691,7 @@ doublepimp.com
 doubleverify.com
 dpmsrv.com
 dql2sdu63f1cw.cloudfront.net
+ds-aksb-a.akamaihd.net
 dsb.yahoo.co.jp
 dspmulti.com
 dtscout.com
@@ -1744,6 +1747,7 @@ firstimpression.io
 fivecdm.com
 flash.sec.intl.miui.com
 flashtalking.com
+fls-na.amazon.com
 flurry.cachefly.net
 flurry.com
 flux-adserver.com
@@ -1850,6 +1854,7 @@ inmobi.cn
 inmobi.com
 inmobi.net
 inmobicdn.net
+inmobisdk-a.akamaihd.net
 inner-active.mobi
 innity.com
 innity.net
@@ -1995,6 +2000,7 @@ mobytrks.com
 modoro360.com
 moengage.com
 mondiad.net
+monitor.azure.com
 mookie1.com
 mopub.com
 mouseflow.com
@@ -2199,6 +2205,7 @@ servedby-buysellads.com
 servenobid.com
 serverbid.com
 servicelayer.king.com
+services.visualstudio.com
 serving-sys.com
 sgp.o2o.api.xiaomi.com
 share.yandex.ru
@@ -2259,6 +2266,7 @@ styria-digital.com
 sumome.com
 supercounters.com
 superfastmediation.com
+supersonicads-a.akamaihd.net
 supersonicads.com
 supportmetrics.apple.com
 switchadhub.com
@@ -2276,6 +2284,7 @@ taplytics.com
 taxel.jp
 tblog-*.kgslb.com
 teads.tv
+techlab-cdn.com
 technoratimedia.com
 telemetry.insights.video.a2z.com
 telemetry.microsoft.com
@@ -2355,6 +2364,7 @@ vi-serve.com
 viadata.store
 videoadex.com
 videohub.tv
+vidverto.io
 visit.webhosting.yahoo.com
 vivaclix.com
 vlancaa.fun
@@ -3278,6 +3288,7 @@ adzbazar.com
 adzones.com
 aentafmxkmhea.com
 af-ad.co.uk
+aff.bstatic.com
 affbuzzads.com
 affec.tv
 affili.net
@@ -3399,7 +3410,6 @@ appfireworks.com
 appflood.com
 appia.com
 appier.com
-appnext-a.akamaihd.net
 appolicious.com
 apprebates.com
 appredeem.com
@@ -4644,7 +4654,6 @@ ingameads.gameloft.com
 ingivergrimier.com
 injectlocum.com
 inmobi-jp.com
-inmobisdk-a.akamaihd.net
 inner-active.com
 innocentwax.com
 inorcelliana.info
@@ -5982,7 +5991,6 @@ sumo.com
 sunmedia.tv
 superclix.de
 superfastcdn.com
-supersonicads-a.akamaihd.net
 superstats.com
 supertop.ru
 supertop100.com

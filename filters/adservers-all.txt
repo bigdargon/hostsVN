@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 Apr 2022 22:37 UTC+7
-! Version: 2204072237
-! Blocked: 7.119 rules
+! Last modified: 08 Apr 2022 12:03 UTC+7
+! Version: 2204081203
+! Blocked: 7.127 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1456,6 +1456,7 @@
 ||appmetrica.yandex.com^
 ||appmetrica.yandex.net^
 ||appmetrica.yandex.ru^
+||appnext-a.akamaihd.net^
 ||appnext.com^
 ||appnexus.com^
 ||appodealx.com^
@@ -1612,6 +1613,7 @@
 ||cm-exchange.toast.com^
 ||cnnx.io^
 ||cnt.my^
+||collect.igodigital.com^
 ||collecticon.outlookmobile.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
@@ -1691,6 +1693,7 @@
 ||doubleverify.com^
 ||dpmsrv.com^
 ||dql2sdu63f1cw.cloudfront.net^
+||ds-aksb-a.akamaihd.net^
 ||dsb.yahoo.co.jp^
 ||dspmulti.com^
 ||dtscout.com^
@@ -1746,6 +1749,7 @@
 ||fivecdm.com^
 ||flash.sec.intl.miui.com^
 ||flashtalking.com^
+||fls-na.amazon.com^
 ||flurry.cachefly.net^
 ||flurry.com^
 ||flux-adserver.com^
@@ -1852,6 +1856,7 @@
 ||inmobi.com^
 ||inmobi.net^
 ||inmobicdn.net^
+||inmobisdk-a.akamaihd.net^
 ||inner-active.mobi^
 ||innity.com^
 ||innity.net^
@@ -1997,6 +2002,7 @@
 ||modoro360.com^
 ||moengage.com^
 ||mondiad.net^
+||monitor.azure.com^
 ||mookie1.com^
 ||mopub.com^
 ||mouseflow.com^
@@ -2201,6 +2207,7 @@
 ||servenobid.com^
 ||serverbid.com^
 ||servicelayer.king.com^
+||services.visualstudio.com^
 ||serving-sys.com^
 ||sgp.o2o.api.xiaomi.com^
 ||share.yandex.ru^
@@ -2261,6 +2268,7 @@
 ||sumome.com^
 ||supercounters.com^
 ||superfastmediation.com^
+||supersonicads-a.akamaihd.net^
 ||supersonicads.com^
 ||supportmetrics.apple.com^
 ||switchadhub.com^
@@ -2278,6 +2286,7 @@
 ||taxel.jp^
 ||tblog-*.kgslb.com^
 ||teads.tv^
+||techlab-cdn.com^
 ||technoratimedia.com^
 ||telemetry.insights.video.a2z.com^
 ||telemetry.microsoft.com^
@@ -2357,6 +2366,7 @@
 ||viadata.store^
 ||videoadex.com^
 ||videohub.tv^
+||vidverto.io^
 ||visit.webhosting.yahoo.com^
 ||vivaclix.com^
 ||vlancaa.fun^
@@ -3280,6 +3290,7 @@
 ||adzones.com^
 ||aentafmxkmhea.com^
 ||af-ad.co.uk^
+||aff.bstatic.com^
 ||affbuzzads.com^
 ||affec.tv^
 ||affili.net^
@@ -3401,7 +3412,6 @@
 ||appflood.com^
 ||appia.com^
 ||appier.com^
-||appnext-a.akamaihd.net^
 ||appolicious.com^
 ||apprebates.com^
 ||appredeem.com^
@@ -4646,7 +4656,6 @@
 ||ingivergrimier.com^
 ||injectlocum.com^
 ||inmobi-jp.com^
-||inmobisdk-a.akamaihd.net^
 ||inner-active.com^
 ||innocentwax.com^
 ||inorcelliana.info^
@@ -5984,7 +5993,6 @@
 ||sunmedia.tv^
 ||superclix.de^
 ||superfastcdn.com^
-||supersonicads-a.akamaihd.net^
 ||superstats.com^
 ||supertop.ru^
 ||supertop100.com^
