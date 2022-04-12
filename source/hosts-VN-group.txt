@@ -1280,3 +1280,6 @@
 #[analytics.saas-vn.network]
 0.0.0.0 analytics.saas-vn.network
 0.0.0.0 congnb.analytics.saas-vn.network
+#[dtadnetwork.com]
+0.0.0.0 dtadnetwork.com
+0.0.0.0 static.dtadnetwork.com

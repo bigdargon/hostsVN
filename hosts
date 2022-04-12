@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Apr 2022 23:00 UTC+7
-# Version: 2204082300
-# Blocked: 15.493 domains
+# Last modified: 12 Apr 2022 13:57 UTC+7
+# Version: 2204121357
+# Blocked: 15.508 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9947,6 +9947,18 @@
 #[techlab-cdn.com]
 0.0.0.0 techlab-cdn.com
 0.0.0.0 p11.techlab-cdn.com
+#[mxcdn.net]
+0.0.0.0 mxcdn.net
+0.0.0.0 s385.mxcdn.net
+0.0.0.0 s400.mxcdn.net
+#[trbo.com]
+0.0.0.0 collect.trbo.com
+0.0.0.0 static-v2.trbo.com
+0.0.0.0 static.trbo.com
+0.0.0.0 track2.trbo.com
+0.0.0.0 trbo.com
+0.0.0.0 www.trbo.com
+0.0.0.0 xng.trbo.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -11229,6 +11241,9 @@
 #[analytics.saas-vn.network]
 0.0.0.0 analytics.saas-vn.network
 0.0.0.0 congnb.analytics.saas-vn.network
+#[dtadnetwork.com]
+0.0.0.0 dtadnetwork.com
+0.0.0.0 static.dtadnetwork.com
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
@@ -11432,7 +11447,6 @@
 0.0.0.0 sharks.vn
 0.0.0.0 shop.vnay.vn
 0.0.0.0 static.adconnect.vn
-0.0.0.0 static.dtadnetwork.com
 0.0.0.0 static.mvot.vn
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.nas.nixcdn.com
@@ -11617,6 +11631,7 @@
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
 0.0.0.0 s.tuoitre.vn
+0.0.0.0 sentry.dantri.com.vn
 0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 smetrics.kone.vn
@@ -13364,6 +13379,7 @@
 0.0.0.0 d2cmedia.ca
 0.0.0.0 d2j042cj1421wi.cloudfront.net
 0.0.0.0 d2sbzwmcg5amr3.cloudfront.net
+0.0.0.0 d2ty8gaf6rmowa.cloudfront.net
 0.0.0.0 d3beefy8kd1pr7.cloudfront.net
 0.0.0.0 d3cod80thn7qnd.cloudfront.net
 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net
@@ -16163,6 +16179,7 @@
 0.0.0.0 counter.yandro.ru
 0.0.0.0 crittercism.com
 0.0.0.0 csdian.net
+0.0.0.0 d19ptbnuzhibkh.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d2klx87bgzngce.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
@@ -16175,6 +16192,7 @@
 0.0.0.0 dm.gg
 0.0.0.0 dm.toutiao.com
 0.0.0.0 dm599.com
+0.0.0.0 dmc1acwvwny3.cloudfront.net
 0.0.0.0 dmxleo.com
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 do-not-tracker.org

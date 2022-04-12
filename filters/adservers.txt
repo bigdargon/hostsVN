@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Apr 2022 23:00 UTC+7
-! Version: 2204082300
-! Blocked: 1.134 rules
+! Last modified: 12 Apr 2022 13:57 UTC+7
+! Version: 2204121357
+! Blocked: 1.140 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -87,6 +87,7 @@
 ||dable.io^
 ||daleriki.com^
 ||donglogs.com^
+||dtadnetwork.com^
 ||eclick.vn^
 ||eva-ad.24hstatic.com^
 ||flygame.io^
@@ -433,7 +434,6 @@
 ||sharks.vn^
 ||shop.vnay.vn^
 ||static.adconnect.vn^
-||static.dtadnetwork.com^
 ||static.mvot.vn^
 ||stc-nas.nixcdn.com^
 ||stc.nas.nixcdn.com^
@@ -597,6 +597,7 @@
 ||s.kenh14.vn^
 ||s.soha.vn^
 ||s.tuoitre.vn^
+||sentry.dantri.com.vn^
 ||sentry.mediacdn.vn^
 ||sharefb.cnnd.vn^
 ||smetrics.kone.vn^
@@ -722,6 +723,7 @@
 ||8live.top^
 ||8live.vip^
 ||8livevn.com^
+||8xbet05.com^
 ||8xbet22.com^
 ||92lottery.com^
 ||aa88.in^
@@ -763,6 +765,7 @@
 ||dk802.com^
 ||dola88.info^
 ||ee66.com^
+||ek883.com^
 ||eurofun88.com^
 ||f8bet0.com^
 ||fa88.win^
@@ -818,11 +821,13 @@
 ||happy9luck.com^
 ||happynb.com^
 ||hotlive8.vip^
+||i99906.com^
 ||ibet889.com^
 ||income88.com^
 ||interwinvn.com^
 ||iwin.club^
 ||jbo010.com^
+||jbo039.com^
 ||jbo064.com^
 ||jboviet.com^
 ||jbovietnam.com^
@@ -941,6 +946,7 @@
 ||rikvip.us^
 ||rikvipp.net^
 ||rio66qc.club^
+||s9996.com^
 ||sbc31.com^
 ||shbet0.com^
 ||sieubomtan.com^
