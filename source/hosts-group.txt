@@ -775,11 +775,22 @@
 0.0.0.0 applovin.com
 0.0.0.0 assets.applovin.com
 0.0.0.0 d.applovin.com
+0.0.0.0 dash.applovin.com
 0.0.0.0 img.applovin.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 ms4.applovin.com
 0.0.0.0 pdn.applovin.com
 0.0.0.0 prod-a.applovin.com
+0.0.0.0 prod-bid.applovin.com
+0.0.0.0 prod-ms.applovin.com
 0.0.0.0 res1.applovin.com
 0.0.0.0 rt.applovin.com
+0.0.0.0 stage-a.applovin.com
+0.0.0.0 stage-assets.applovin.com
+0.0.0.0 stage-bid.applovin.com
+0.0.0.0 stage-img.applovin.com
+0.0.0.0 stage-ms.applovin.com
+0.0.0.0 stage-pdn.applovin.com
 0.0.0.0 vid.applovin.com
 #[mobpartner]
 0.0.0.0 mobpartner.mobi
@@ -1284,16 +1295,18 @@
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 tracking.miui.com
 #[intl.miui.com]
-0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.collect.data.intl.miui.com
-0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.setting.intl.miui.com
+0.0.0.0 sa.api.intl.miui.com
+0.0.0.0 tracking.intl.miui.com
+#[sec.intl.miui.com]
+0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 flash.sec.intl.miui.com
-0.0.0.0 sa.api.intl.miui.com
-0.0.0.0 tracking.intl.miui.com
+0.0.0.0 log.avlyun.sec.intl.miui.com
 #[sys.miui.com]
 0.0.0.0 cc.sys.miui.com
 0.0.0.0 ccc.sys.miui.com
@@ -1305,6 +1318,7 @@
 0.0.0.0 data.sec.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 mazu.sec.miui.com
+0.0.0.0 xlmc.sec.miui.com
 #[cloudmobi.net]
 0.0.0.0 cloudmobi.net
 0.0.0.0 api.cloudmobi.net
@@ -9947,3 +9961,42 @@
 0.0.0.0 trbo.com
 0.0.0.0 www.trbo.com
 0.0.0.0 xng.trbo.com
+#[logsss.com]
+0.0.0.0 analytics.logsss.com
+0.0.0.0 logsss.com
+0.0.0.0 perf.logsss.com
+0.0.0.0 rum.logsss.com
+0.0.0.0 s.logsss.com
+#[orgxts.com]
+0.0.0.0 cdn.orgxts.com
+0.0.0.0 orgxts.com
+#[ironbeast.io]
+0.0.0.0 appcloud.ironbeast.io
+0.0.0.0 ironbeast.io
+0.0.0.0 lb.ironbeast.io
+0.0.0.0 sdk.ironbeast.io
+0.0.0.0 secure.ironbeast.io
+0.0.0.0 supersonic.ironbeast.io
+#[hiido.com]
+0.0.0.0 config.hiido.com
+0.0.0.0 dlog.hiido.com
+0.0.0.0 hlog.hiido.com
+0.0.0.0 klog.hiido.com
+0.0.0.0 mlog.hiido.com
+0.0.0.0 tlog.hiido.com
+0.0.0.0 xlog.hiido.com
+0.0.0.0 ylog.hiido.com
+#[siteintercept.qualtrics.com]
+0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
+0.0.0.0 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
+#[adobe.com]
+0.0.0.0 campaign.adobe.com
+0.0.0.0 geo.adobe.com
+0.0.0.0 sstats.adobe.com
+0.0.0.0 stats.adobe.com
+#[statserv.net]
+0.0.0.0 cdn-eu-vid1.statserv.net
+0.0.0.0 cdn-img1.statserv.net
+0.0.0.0 cdn-us-vid1.statserv.net
+0.0.0.0 statserv.net

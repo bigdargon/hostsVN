@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 Apr 2022 13:57 UTC+7
-! Version: 2204121357
-! Blocked: 7.145 rules
+! Last modified: 14 Apr 2022 12:00 UTC+7
+! Version: 2204141200
+! Blocked: 7.176 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -219,6 +219,7 @@
 ||yoads.network^
 ||yomedia.vn^
 ||younetmedia.com^
+||za.zapps.vn^
 ||za.zdn.vn^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
@@ -415,6 +416,7 @@
 ||qc.designervn.net^
 ||qc.japo.vn^
 ||qc.kqbd88.com^
+||qc.mhsolution.vn^
 ||qc.violet.vn^
 ||qctt24h.24h.com.vn^
 ||qcv5.blogtruyen.vn^
@@ -433,6 +435,7 @@
 ||serving-ad.tv24.vn^
 ||sharks.vn^
 ||shop.vnay.vn^
+||slm.dantri.com.vn^
 ||static.adconnect.vn^
 ||static.mvot.vn^
 ||stc-nas.nixcdn.com^
@@ -456,6 +459,7 @@
 ||vietdorje.com^
 ||vinaads.vn^
 ||vlxx.host^
+||vnadssb.com^
 ||vnd247.vn^
 ||widget.headlines.pw^
 ||a.ladipage.com^
@@ -490,6 +494,7 @@
 ||analytics.vietnamfinance.vn^
 ||analytics.vnpt.vn^
 ||analytics.vnreview.vn^
+||analytics.zim.vn^
 ||api.ozui.vn^
 ||apiv2.tiin.vn^
 ||apl.headlines.pw^
@@ -608,6 +613,7 @@
 ||staticad.thethao247.vn^
 ||statis.dsp.vn^
 ||statistic.batdongsan.com.vn^
+||statistics-vov2.vov.vn^
 ||statistics.tapchimypham.com.vn^
 ||statistics.vov.vn^
 ||statistics.vov2.vn^
@@ -840,7 +846,9 @@
 ||keotot.net^
 ||kidslovemartialartsomahane.com^
 ||kingbet86.info^
+||ktokto.mobi^
 ||ktoviet.com^
+||ktovn.com^
 ||ku6110.net^
 ||kubet.biz^
 ||kubet.life^
@@ -1579,6 +1587,7 @@
 ||c.msn.com^
 ||cacafly.net^
 ||caclick.baidu.com^
+||campaign.adobe.com^
 ||casalemedia.com^
 ||cbsileads.com^
 ||cbsinteractive.com^
@@ -1631,6 +1640,7 @@
 ||collection-endpoint-staging.herokuapp.com^
 ||collector-*.perimeterx.net^
 ||confiant-integrations.global.ssl.fastly.net^
+||config.hiido.com^
 ||connatix.com^
 ||connectad.io^
 ||consumable.com^
@@ -1696,6 +1706,7 @@
 ||dj1*.online^
 ||djaxadserver.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
+||dlog.hiido.com^
 ||dm-event.net^
 ||dmzjmp.com^
 ||domnovrek.com^
@@ -1787,6 +1798,7 @@
 ||geniee.jp^
 ||genieessp.com^
 ||genieesspv.jp^
+||geo.adobe.com^
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
 ||geofence.sys.miui.com^
@@ -1830,6 +1842,7 @@
 ||heyzap.com^
 ||hgbasics.com^
 ||histats.com^
+||hlog.hiido.com^
 ||hm.baidu.com^
 ||hmma.baidu.com^
 ||hotjar.com^
@@ -1888,6 +1901,7 @@
 ||iperceptions.com^
 ||iprom.net^
 ||iqzone.com^
+||ironbeast.io^
 ||islandmob.com^
 ||ivstracker.net^
 ||izooto.com^
@@ -1904,6 +1918,7 @@
 ||kargo.com^
 ||kau.li^
 ||keywee.co^
+||klog.hiido.com^
 ||kochava.com^
 ||krxd.net^
 ||ladsp.com^
@@ -1925,6 +1940,7 @@
 ||localytics.com^
 ||log-global.aliyuncs.com^
 ||log.aliyuncs.com^
+||log.avlyun.sec.intl.miui.com^
 ||log.go.com^
 ||log.kajicam.com^
 ||log.pinterest.com^
@@ -1940,6 +1956,7 @@
 ||logsdk.qq.com^
 ||logservice-*.platform.hicloud.com^
 ||logservice.hicloud.com^
+||logsss.com^
 ||logssug.ucweb.com^
 ||logupdate.avlyun.sec.miui.com^
 ||loopme.me^
@@ -1997,6 +2014,7 @@
 ||mistat.xiaomi.com^
 ||mixpanel.com^
 ||ml314.com^
+||mlog.hiido.com^
 ||mm-cgnews.com^
 ||mmstat.com^
 ||mng-ads.com^
@@ -2072,6 +2090,7 @@
 ||optimizesrv.com^
 ||optmnstr.com^
 ||optvx.com^
+||orgxts.com^
 ||otm-r.com^
 ||otnolatrnup.com^
 ||outbrain.com^
@@ -2235,6 +2254,7 @@
 ||simpleanalyticscdn.com^
 ||simpli.fi^
 ||siteimprove.com^
+||siteintercept.qualtrics.com^
 ||sitescout.com^
 ||siteswithcontent.com^
 ||sjarvis.taobao.com^
@@ -2262,6 +2282,7 @@
 ||srtb.msn.com^
 ||srvcs.tumblr.com^
 ||ssl-google-analytics.l.google.com^
+||sstats.adobe.com^
 ||st-eu.dynamicyield.com^
 ||st.dynamicyield.com^
 ||stack-sonar.com^
@@ -2271,7 +2292,9 @@
 ||static-doubleclick-net.l.google.com^
 ||static.dynamicyield.com^
 ||staticstuff.net^
+||stats.adobe.com^
 ||stats.unity3d.com^
+||statserv.net^
 ||statt-collect.herokuapp.com^
 ||steelhousemedia.com^
 ||steepto.com^
@@ -2309,6 +2332,7 @@
 ||tenmax.io^
 ||tg.meitu.com^
 ||themoneytizer.com^
+||tlog.hiido.com^
 ||tns-counter.ru^
 ||toponad.com^
 ||torimochi.line-apps.com^
@@ -2425,6 +2449,7 @@
 ||ximad.com^
 ||xlisting.jp^
 ||xlmc.sec.miui.com^
+||xlog.hiido.com^
 ||xmlppcbuzz.com^
 ||xtremepush.com^
 ||yadro.ru^
@@ -2438,6 +2463,7 @@
 ||yieldlove-ad-serving.net^
 ||yieldlove.com^
 ||yllix.com^
+||ylog.hiido.com^
 ||yomeno.xyz^
 ||youbora.com^
 ||youborafds01.com^
@@ -2450,6 +2476,7 @@
 ||zqtk.net^
 ||zucks.net^
 ||03ed9035a0801f.com^
+||0i0i0i0.com^
 ||0n.click^
 ||0x01n2ptpuz3.com^
 ||1-1ads.com^
@@ -3757,6 +3784,7 @@
 ||buzzonclick.com^
 ||bvalphaserver.com^
 ||bwp.download.com^
+||bzrmxfxu.com^
 ||c.bigmir.net^
 ||c.cdn-server.top^
 ||c1exchange.com^
@@ -3771,7 +3799,6 @@
 ||callloop.com^
 ||callousbrake.com^
 ||calmfoot.com^
-||campaign.adobe.com^
 ||campaign.bharatmatrimony.com^
 ||caniamedia.com^
 ||capablecows.com^
@@ -3812,6 +3839,7 @@
 ||cdn.easyads28.mobi^
 ||cdn.freefarcy.com^
 ||cdn.heycdn91.xyz^
+||cdn.qgr.ph^
 ||cdn4ads.com^
 ||cdnondemand.org^
 ||cdnproviders.net^
@@ -4122,6 +4150,7 @@
 ||directorym.com^
 ||directpaper.name^
 ||directtrack.com^
+||diromalxx.com^
 ||discountclick.com^
 ||discreetfield.com^
 ||dislanelibrar.top^
@@ -4221,6 +4250,7 @@
 ||eelfadechi.com^
 ||eensoans.com^
 ||effectivecpmgate.com^
+||effectivedisplaycontent.com^
 ||effectivedisplayformat.com^
 ||effectivemeasure.com^
 ||effectiveperformancenetwork.com^
@@ -4267,6 +4297,7 @@
 ||epomapps.com^
 ||eqads.com^
 ||eqworks.com^
+||eremuribleak.com^
 ||ero-advertising.com^
 ||erosyndc.com^
 ||esellerate.net^
@@ -4809,12 +4840,14 @@
 ||kqzyfj.com^
 ||kronosspell.com^
 ||ktkjmp.com^
+||kts.visitstats.com^
 ||ktu.sv2.biz^
 ||kukury2hf8nd09.com^
 ||kupona.de^
 ||kurlichan.com^
 ||ladsreds.com^
 ||lakequincy.com^
+||lambingsyddir.com^
 ||lapre28rmcat2.com^
 ||laughablecopper.com^
 ||laughcloth.com^
@@ -5562,6 +5595,7 @@
 ||qa-ads.nobid.com^
 ||qctop.com^
 ||qnsr.com^
+||qohxtklfmy.com^
 ||qrclevrfjw.com^
 ||quackexclusfdfjd.com^
 ||quacksquirrel.com^
@@ -6094,6 +6128,7 @@
 ||tgzobwoutuwn.com^
 ||thanosofcos5.com^
 ||tharbadir.com^
+||thaudray.com^
 ||theadex.com^
 ||theadhost.com^
 ||thebrighttag.com^
@@ -6579,6 +6614,7 @@
 ||a.quora.com^
 ||a.ria.ru^
 ||a.ss828.xyz^
+||a.zillastream.com^
 ||a3cloud.net^
 ||acint.net^
 ||adentify.com^
@@ -6615,7 +6651,6 @@
 ||analytics.ihbsoft.com^
 ||analytics.kidoz.net^
 ||analytics.lk.api.ditto.com^
-||analytics.logsss.com^
 ||analytics.mailmunch.co^
 ||analytics.mobilegamestats.com^
 ||analytics.monetiza.co^
@@ -6646,6 +6681,7 @@
 ||android-stat.acestream.net^
 ||anhui-attorney.com^
 ||annedouglas.com^
+||api.ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||api.prooffactor.com^
 ||api.quantumgraph.com^
 ||api.safegraph.com^
@@ -6725,7 +6761,6 @@
 ||databerries.com^
 ||datadoghq-browser-agent.com^
 ||distillery.wistia.com^
-||dlog.hiido.com^
 ||dm.gg^
 ||dm.toutiao.com^
 ||dm599.com^
@@ -6762,7 +6797,6 @@
 ||ga.clearbit.com^
 ||ga.getresponse.com^
 ||ga.kvideo.io^
-||geo.adobe.com^
 ||geoip.nekudo.com^
 ||getexceptional.com^
 ||getsitecontrol.com^
@@ -6780,7 +6814,6 @@
 ||hits.theguardian.com^
 ||hitwebcounter.com^
 ||hlog.bclugu.com^
-||hlog.hiido.com^
 ||hostg.xyz^
 ||hsbarbershop.co.uk^
 ||hscta.net^
@@ -6790,6 +6823,7 @@
 ||i.mxplayer.j2inter.com^
 ||i.shannon-fisher.xyz^
 ||iaudienc.com^
+||ib.isappcloud.com^
 ||idio.co^
 ||ie8eamus.com^
 ||ilogs.bytefence.com^
@@ -6817,7 +6851,6 @@
 ||kidsghibli.com^
 ||kissmetrics.com^
 ||kitbit.net^
-||klog.hiido.com^
 ||largeer.com^
 ||lcs.loginfra.com^
 ||leadzutw.com^
@@ -6850,7 +6883,6 @@
 ||logs.bytefence.com^
 ||logs.ironsrc.mobi^
 ||logs.spilgames.com^
-||logsss.com^
 ||logx.optimizely.com^
 ||loles.neostrada.pl^
 ||lptag.liveperson.net^
@@ -6872,7 +6904,6 @@
 ||metrics.sdkbox.com^
 ||mktoresp.com^
 ||mlog.appguard.co.kr^
-||mlog.hiido.com^
 ||moatpixel.com^
 ||mobile-collector.newrelic.com^
 ||mobiletelemetry.ebay.com^
@@ -6986,7 +7017,6 @@
 ||srmdata.com^
 ||ssc.api.bbc.com^
 ||ssm.codes^
-||sstats.adobe.com^
 ||stat.analytiall.com^
 ||stat.hackedonlinegames.com^
 ||stat.meitudata.com^
@@ -6995,7 +7025,9 @@
 ||static.leaddyno.com^
 ||static.site24x7rum.com^
 ||stats.apester.com^
+||stats.avaaz.org^
 ||stats.betradar.com^
+||stats.ccleanerbrowser.com^
 ||stats.norton.com^
 ||stats.playrix.com^
 ||stats.popcap.com^
@@ -7034,7 +7066,6 @@
 ||theirsvendor.com^
 ||thoosje.com^
 ||thrtle.com^
-||tlog.hiido.com^
 ||tms.fmm.io^
 ||to.getnitropack.com^
 ||top-fwz1.mail.ru^
@@ -7111,11 +7142,11 @@
 ||wieistmeineip.de^
 ||worldgravity.com^
 ||wren.condenastdigital.com^
+||wsapi-global.master.live^
+||wsapi.master.live^
 ||wt.soundestlink.com^
 ||wzrkt.com^
 ||x.disq.us^
-||xlog.hiido.com^
-||ylog.hiido.com^
 ||ylog.huya.com^
 ||ylog.nimo.tv^
 ||ymtracking.com^

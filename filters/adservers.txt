@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Apr 2022 13:57 UTC+7
-! Version: 2204121357
-! Blocked: 1.140 rules
+! Last modified: 14 Apr 2022 12:00 UTC+7
+! Version: 2204141200
+! Blocked: 1.148 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -219,6 +219,7 @@
 ||yoads.network^
 ||yomedia.vn^
 ||younetmedia.com^
+||za.zapps.vn^
 ||za.zdn.vn^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
@@ -415,6 +416,7 @@
 ||qc.designervn.net^
 ||qc.japo.vn^
 ||qc.kqbd88.com^
+||qc.mhsolution.vn^
 ||qc.violet.vn^
 ||qctt24h.24h.com.vn^
 ||qcv5.blogtruyen.vn^
@@ -433,6 +435,7 @@
 ||serving-ad.tv24.vn^
 ||sharks.vn^
 ||shop.vnay.vn^
+||slm.dantri.com.vn^
 ||static.adconnect.vn^
 ||static.mvot.vn^
 ||stc-nas.nixcdn.com^
@@ -456,6 +459,7 @@
 ||vietdorje.com^
 ||vinaads.vn^
 ||vlxx.host^
+||vnadssb.com^
 ||vnd247.vn^
 ||widget.headlines.pw^
 ||a.ladipage.com^
@@ -490,6 +494,7 @@
 ||analytics.vietnamfinance.vn^
 ||analytics.vnpt.vn^
 ||analytics.vnreview.vn^
+||analytics.zim.vn^
 ||api.ozui.vn^
 ||apiv2.tiin.vn^
 ||apl.headlines.pw^
@@ -608,6 +613,7 @@
 ||staticad.thethao247.vn^
 ||statis.dsp.vn^
 ||statistic.batdongsan.com.vn^
+||statistics-vov2.vov.vn^
 ||statistics.tapchimypham.com.vn^
 ||statistics.vov.vn^
 ||statistics.vov2.vn^
@@ -840,7 +846,9 @@
 ||keotot.net^
 ||kidslovemartialartsomahane.com^
 ||kingbet86.info^
+||ktokto.mobi^
 ||ktoviet.com^
+||ktovn.com^
 ||ku6110.net^
 ||kubet.biz^
 ||kubet.life^

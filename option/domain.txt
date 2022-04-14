@@ -697,11 +697,22 @@ a.applovin.com
 applovin.com
 assets.applovin.com
 d.applovin.com
+dash.applovin.com
 img.applovin.com
+ms.applovin.com
+ms4.applovin.com
 pdn.applovin.com
 prod-a.applovin.com
+prod-bid.applovin.com
+prod-ms.applovin.com
 res1.applovin.com
 rt.applovin.com
+stage-a.applovin.com
+stage-assets.applovin.com
+stage-bid.applovin.com
+stage-img.applovin.com
+stage-ms.applovin.com
+stage-pdn.applovin.com
 vid.applovin.com
 mobpartner.mobi
 go.mobpartner.mobi
@@ -1168,16 +1179,17 @@ data.mistat.xiaomi.com
 abtest.mistat.xiaomi.com
 fcanr.tracking.miui.com
 tracking.miui.com
-adv.sec.intl.miui.com
 api.brs.intl.miui.com
 api.collect.data.intl.miui.com
-api.sec.intl.miui.com
 api.setting.intl.miui.com
+sa.api.intl.miui.com
+tracking.intl.miui.com
+adv.sec.intl.miui.com
+api.sec.intl.miui.com
 authbe.sec.intl.miui.com
 data.sec.intl.miui.com
 flash.sec.intl.miui.com
-sa.api.intl.miui.com
-tracking.intl.miui.com
+log.avlyun.sec.intl.miui.com
 cc.sys.miui.com
 ccc.sys.miui.com
 geofence.sys.miui.com
@@ -1187,6 +1199,7 @@ api.sec.miui.com
 data.sec.miui.com
 logupdate.avlyun.sec.miui.com
 mazu.sec.miui.com
+xlmc.sec.miui.com
 cloudmobi.net
 api.cloudmobi.net
 logger.cloudmobi.net
@@ -8953,6 +8966,38 @@ track2.trbo.com
 trbo.com
 www.trbo.com
 xng.trbo.com
+analytics.logsss.com
+logsss.com
+perf.logsss.com
+rum.logsss.com
+s.logsss.com
+cdn.orgxts.com
+orgxts.com
+appcloud.ironbeast.io
+ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
+config.hiido.com
+dlog.hiido.com
+hlog.hiido.com
+klog.hiido.com
+mlog.hiido.com
+tlog.hiido.com
+xlog.hiido.com
+ylog.hiido.com
+siteintercept.qualtrics.com
+zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
+zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
+campaign.adobe.com
+geo.adobe.com
+sstats.adobe.com
+stats.adobe.com
+cdn-eu-vid1.statserv.net
+cdn-img1.statserv.net
+cdn-us-vid1.statserv.net
+statserv.net
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -9370,6 +9415,7 @@ jslog.zapps.vn
 tracker-mw-zlivestream.zapps.vn
 tracker-zlivestream.zapps.vn
 tracking.api.media.zapps.vn
+za.zapps.vn
 zplayer.trk.zapps.vn
 analytics.yomedia.vn
 delivery.yomedia.vn
@@ -10280,6 +10326,7 @@ qc.5giay.vn
 qc.designervn.net
 qc.japo.vn
 qc.kqbd88.com
+qc.mhsolution.vn
 qc.violet.vn
 qctt24h.24h.com.vn
 qcv5.blogtruyen.vn
@@ -10298,6 +10345,7 @@ sda.tamdiem247.com
 serving-ad.tv24.vn
 sharks.vn
 shop.vnay.vn
+slm.dantri.com.vn
 static.adconnect.vn
 static.mvot.vn
 stc-nas.nixcdn.com
@@ -10321,6 +10369,7 @@ vietbuzzad.com
 vietdorje.com
 vinaads.vn
 vlxx.host
+vnadssb.com
 vnd247.vn
 widget.headlines.pw
 www.12signup.com
@@ -10375,6 +10424,7 @@ analytics.videocloud.top
 analytics.vietnamfinance.vn
 analytics.vnpt.vn
 analytics.vnreview.vn
+analytics.zim.vn
 api.ozui.vn
 apiv2.tiin.vn
 apl.headlines.pw
@@ -10493,6 +10543,7 @@ static.masoffer.net
 staticad.thethao247.vn
 statis.dsp.vn
 statistic.batdongsan.com.vn
+statistics-vov2.vov.vn
 statistics.tapchimypham.com.vn
 statistics.vov.vn
 statistics.vov2.vn
@@ -10637,6 +10688,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 03ed9035a0801f.com
+0i0i0i0.com
 0n.click
 0x01n2ptpuz3.com
 1-1ads.com
@@ -11943,6 +11995,7 @@ buyseoblog.com
 buzzonclick.com
 bvalphaserver.com
 bwp.download.com
+bzrmxfxu.com
 c.bigmir.net
 c.cdn-server.top
 c1exchange.com
@@ -11957,7 +12010,6 @@ callfire.com
 callloop.com
 callousbrake.com
 calmfoot.com
-campaign.adobe.com
 campaign.bharatmatrimony.com
 caniamedia.com
 capablecows.com
@@ -11998,6 +12050,7 @@ cdn.digitru.st
 cdn.easyads28.mobi
 cdn.freefarcy.com
 cdn.heycdn91.xyz
+cdn.qgr.ph
 cdn4ads.com
 cdnondemand.org
 cdnproviders.net
@@ -12308,6 +12361,7 @@ directleads.com
 directorym.com
 directpaper.name
 directtrack.com
+diromalxx.com
 discountclick.com
 discreetfield.com
 dislanelibrar.top
@@ -12406,6 +12460,7 @@ edxlewni.com
 eelfadechi.com
 eensoans.com
 effectivecpmgate.com
+effectivedisplaycontent.com
 effectivedisplayformat.com
 effectivemeasure.com
 effectiveperformancenetwork.com
@@ -12452,6 +12507,7 @@ epomads2.4shared.com
 epomapps.com
 eqads.com
 eqworks.com
+eremuribleak.com
 ero-advertising.com
 erosyndc.com
 esellerate.net
@@ -12993,12 +13049,14 @@ kotikinar2ko8tiki09.com
 kqzyfj.com
 kronosspell.com
 ktkjmp.com
+kts.visitstats.com
 ktu.sv2.biz
 kukury2hf8nd09.com
 kupona.de
 kurlichan.com
 ladsreds.com
 lakequincy.com
+lambingsyddir.com
 lapre28rmcat2.com
 laughablecopper.com
 laughcloth.com
@@ -13744,6 +13802,7 @@ q.azcentral.com
 qa-ads.nobid.com
 qctop.com
 qnsr.com
+qohxtklfmy.com
 qrclevrfjw.com
 quackexclusfdfjd.com
 quacksquirrel.com
@@ -14276,6 +14335,7 @@ tgvbwjbnxz.com
 tgzobwoutuwn.com
 thanosofcos5.com
 tharbadir.com
+thaudray.com
 theadex.com
 theadhost.com
 thebrighttag.com
@@ -14677,6 +14737,7 @@ www.binary1.website
 www.binarymoney.site
 www.blockadsnot.com
 www.bookmtpo.com
+www.bzrmxfxu.com
 www.catchandfatch.bid
 www.cd-ads.com
 www.cdn4ads.com
@@ -14890,6 +14951,7 @@ a.master98.com
 a.quora.com
 a.ria.ru
 a.ss828.xyz
+a.zillastream.com
 a3cloud.net
 acint.net
 adentify.com
@@ -14926,7 +14988,6 @@ analytics.icons8.com
 analytics.ihbsoft.com
 analytics.kidoz.net
 analytics.lk.api.ditto.com
-analytics.logsss.com
 analytics.mailmunch.co
 analytics.mobilegamestats.com
 analytics.monetiza.co
@@ -14957,6 +15018,7 @@ analyticsapi.bsbportal.com
 android-stat.acestream.net
 anhui-attorney.com
 annedouglas.com
+api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 api.prooffactor.com
 api.quantumgraph.com
 api.safegraph.com
@@ -15035,7 +15097,6 @@ d4n.platformd.com
 dap.digitalgov.gov
 databerries.com
 distillery.wistia.com
-dlog.hiido.com
 dm.gg
 dm.toutiao.com
 dm599.com
@@ -15072,7 +15133,6 @@ g.3gl.net
 ga.clearbit.com
 ga.getresponse.com
 ga.kvideo.io
-geo.adobe.com
 geoip.nekudo.com
 getexceptional.com
 getsitecontrol.com
@@ -15090,7 +15150,6 @@ hitcpm.com
 hits.theguardian.com
 hitwebcounter.com
 hlog.bclugu.com
-hlog.hiido.com
 hostg.xyz
 hsbarbershop.co.uk
 hscta.net
@@ -15100,6 +15159,7 @@ i-mar.com
 i.mxplayer.j2inter.com
 i.shannon-fisher.xyz
 iaudienc.com
+ib.isappcloud.com
 idio.co
 ie8eamus.com
 ilogs.bytefence.com
@@ -15127,7 +15187,6 @@ kameleoon.eu
 kidsghibli.com
 kissmetrics.com
 kitbit.net
-klog.hiido.com
 largeer.com
 lcs.loginfra.com
 leadzutw.com
@@ -15160,7 +15219,6 @@ logs.amap.com
 logs.bytefence.com
 logs.ironsrc.mobi
 logs.spilgames.com
-logsss.com
 logx.optimizely.com
 loles.neostrada.pl
 lptag.liveperson.net
@@ -15182,7 +15240,6 @@ metrics.roblox.com
 metrics.sdkbox.com
 mktoresp.com
 mlog.appguard.co.kr
-mlog.hiido.com
 moatpixel.com
 mobile-collector.newrelic.com
 mobiletelemetry.ebay.com
@@ -15296,7 +15353,6 @@ soperson.com
 srmdata.com
 ssc.api.bbc.com
 ssm.codes
-sstats.adobe.com
 stat.analytiall.com
 stat.hackedonlinegames.com
 stat.meitudata.com
@@ -15305,7 +15361,9 @@ static.intentarget.com
 static.leaddyno.com
 static.site24x7rum.com
 stats.apester.com
+stats.avaaz.org
 stats.betradar.com
+stats.ccleanerbrowser.com
 stats.norton.com
 stats.playrix.com
 stats.popcap.com
@@ -15344,7 +15402,6 @@ telemetry.swiftkey.com
 theirsvendor.com
 thoosje.com
 thrtle.com
-tlog.hiido.com
 tms.fmm.io
 to.getnitropack.com
 top-fwz1.mail.ru
@@ -15421,6 +15478,8 @@ widget.trustpilot.com
 wieistmeineip.de
 worldgravity.com
 wren.condenastdigital.com
+wsapi-global.master.live
+wsapi.master.live
 wt.soundestlink.com
 www.datadoghq-browser-agent.com
 www.ethtrader.de
@@ -15444,8 +15503,6 @@ www.w3counter.com
 www.weigezhiyao.com
 wzrkt.com
 x.disq.us
-xlog.hiido.com
-ylog.hiido.com
 ylog.huya.com
 ylog.nimo.tv
 ymtracking.com

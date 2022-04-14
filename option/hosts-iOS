@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Apr 2022 13:57 UTC+7
-# Version: 2204121357
-# Blocked: 15.508 domains
+# Last modified: 14 Apr 2022 12:00 UTC+7
+# Version: 2204141200
+# Blocked: 15.565 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -713,11 +713,22 @@
 0 applovin.com
 0 assets.applovin.com
 0 d.applovin.com
+0 dash.applovin.com
 0 img.applovin.com
+0 ms.applovin.com
+0 ms4.applovin.com
 0 pdn.applovin.com
 0 prod-a.applovin.com
+0 prod-bid.applovin.com
+0 prod-ms.applovin.com
 0 res1.applovin.com
 0 rt.applovin.com
+0 stage-a.applovin.com
+0 stage-assets.applovin.com
+0 stage-bid.applovin.com
+0 stage-img.applovin.com
+0 stage-ms.applovin.com
+0 stage-pdn.applovin.com
 0 vid.applovin.com
 0 mobpartner.mobi
 0 go.mobpartner.mobi
@@ -1184,16 +1195,17 @@
 0 abtest.mistat.xiaomi.com
 0 fcanr.tracking.miui.com
 0 tracking.miui.com
-0 adv.sec.intl.miui.com
 0 api.brs.intl.miui.com
 0 api.collect.data.intl.miui.com
-0 api.sec.intl.miui.com
 0 api.setting.intl.miui.com
+0 sa.api.intl.miui.com
+0 tracking.intl.miui.com
+0 adv.sec.intl.miui.com
+0 api.sec.intl.miui.com
 0 authbe.sec.intl.miui.com
 0 data.sec.intl.miui.com
 0 flash.sec.intl.miui.com
-0 sa.api.intl.miui.com
-0 tracking.intl.miui.com
+0 log.avlyun.sec.intl.miui.com
 0 cc.sys.miui.com
 0 ccc.sys.miui.com
 0 geofence.sys.miui.com
@@ -1203,6 +1215,7 @@
 0 data.sec.miui.com
 0 logupdate.avlyun.sec.miui.com
 0 mazu.sec.miui.com
+0 xlmc.sec.miui.com
 0 cloudmobi.net
 0 api.cloudmobi.net
 0 logger.cloudmobi.net
@@ -8969,6 +8982,38 @@
 0 trbo.com
 0 www.trbo.com
 0 xng.trbo.com
+0 analytics.logsss.com
+0 logsss.com
+0 perf.logsss.com
+0 rum.logsss.com
+0 s.logsss.com
+0 cdn.orgxts.com
+0 orgxts.com
+0 appcloud.ironbeast.io
+0 ironbeast.io
+0 lb.ironbeast.io
+0 sdk.ironbeast.io
+0 secure.ironbeast.io
+0 supersonic.ironbeast.io
+0 config.hiido.com
+0 dlog.hiido.com
+0 hlog.hiido.com
+0 klog.hiido.com
+0 mlog.hiido.com
+0 tlog.hiido.com
+0 xlog.hiido.com
+0 ylog.hiido.com
+0 siteintercept.qualtrics.com
+0 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
+0 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
+0 campaign.adobe.com
+0 geo.adobe.com
+0 sstats.adobe.com
+0 stats.adobe.com
+0 cdn-eu-vid1.statserv.net
+0 cdn-img1.statserv.net
+0 cdn-us-vid1.statserv.net
+0 statserv.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -9386,6 +9431,7 @@
 0 tracker-mw-zlivestream.zapps.vn
 0 tracker-zlivestream.zapps.vn
 0 tracking.api.media.zapps.vn
+0 za.zapps.vn
 0 zplayer.trk.zapps.vn
 0 analytics.yomedia.vn
 0 delivery.yomedia.vn
@@ -10296,6 +10342,7 @@
 0 qc.designervn.net
 0 qc.japo.vn
 0 qc.kqbd88.com
+0 qc.mhsolution.vn
 0 qc.violet.vn
 0 qctt24h.24h.com.vn
 0 qcv5.blogtruyen.vn
@@ -10314,6 +10361,7 @@
 0 serving-ad.tv24.vn
 0 sharks.vn
 0 shop.vnay.vn
+0 slm.dantri.com.vn
 0 static.adconnect.vn
 0 static.mvot.vn
 0 stc-nas.nixcdn.com
@@ -10337,6 +10385,7 @@
 0 vietdorje.com
 0 vinaads.vn
 0 vlxx.host
+0 vnadssb.com
 0 vnd247.vn
 0 widget.headlines.pw
 0 www.12signup.com
@@ -10391,6 +10440,7 @@
 0 analytics.vietnamfinance.vn
 0 analytics.vnpt.vn
 0 analytics.vnreview.vn
+0 analytics.zim.vn
 0 api.ozui.vn
 0 apiv2.tiin.vn
 0 apl.headlines.pw
@@ -10509,6 +10559,7 @@
 0 staticad.thethao247.vn
 0 statis.dsp.vn
 0 statistic.batdongsan.com.vn
+0 statistics-vov2.vov.vn
 0 statistics.tapchimypham.com.vn
 0 statistics.vov.vn
 0 statistics.vov2.vn
@@ -10653,6 +10704,7 @@
 0 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0 03ed9035a0801f.com
+0 0i0i0i0.com
 0 0n.click
 0 0x01n2ptpuz3.com
 0 1-1ads.com
@@ -11959,6 +12011,7 @@
 0 buzzonclick.com
 0 bvalphaserver.com
 0 bwp.download.com
+0 bzrmxfxu.com
 0 c.bigmir.net
 0 c.cdn-server.top
 0 c1exchange.com
@@ -11973,7 +12026,6 @@
 0 callloop.com
 0 callousbrake.com
 0 calmfoot.com
-0 campaign.adobe.com
 0 campaign.bharatmatrimony.com
 0 caniamedia.com
 0 capablecows.com
@@ -12014,6 +12066,7 @@
 0 cdn.easyads28.mobi
 0 cdn.freefarcy.com
 0 cdn.heycdn91.xyz
+0 cdn.qgr.ph
 0 cdn4ads.com
 0 cdnondemand.org
 0 cdnproviders.net
@@ -12324,6 +12377,7 @@
 0 directorym.com
 0 directpaper.name
 0 directtrack.com
+0 diromalxx.com
 0 discountclick.com
 0 discreetfield.com
 0 dislanelibrar.top
@@ -12422,6 +12476,7 @@
 0 eelfadechi.com
 0 eensoans.com
 0 effectivecpmgate.com
+0 effectivedisplaycontent.com
 0 effectivedisplayformat.com
 0 effectivemeasure.com
 0 effectiveperformancenetwork.com
@@ -12468,6 +12523,7 @@
 0 epomapps.com
 0 eqads.com
 0 eqworks.com
+0 eremuribleak.com
 0 ero-advertising.com
 0 erosyndc.com
 0 esellerate.net
@@ -13009,12 +13065,14 @@
 0 kqzyfj.com
 0 kronosspell.com
 0 ktkjmp.com
+0 kts.visitstats.com
 0 ktu.sv2.biz
 0 kukury2hf8nd09.com
 0 kupona.de
 0 kurlichan.com
 0 ladsreds.com
 0 lakequincy.com
+0 lambingsyddir.com
 0 lapre28rmcat2.com
 0 laughablecopper.com
 0 laughcloth.com
@@ -13760,6 +13818,7 @@
 0 qa-ads.nobid.com
 0 qctop.com
 0 qnsr.com
+0 qohxtklfmy.com
 0 qrclevrfjw.com
 0 quackexclusfdfjd.com
 0 quacksquirrel.com
@@ -14292,6 +14351,7 @@
 0 tgzobwoutuwn.com
 0 thanosofcos5.com
 0 tharbadir.com
+0 thaudray.com
 0 theadex.com
 0 theadhost.com
 0 thebrighttag.com
@@ -14693,6 +14753,7 @@
 0 www.binarymoney.site
 0 www.blockadsnot.com
 0 www.bookmtpo.com
+0 www.bzrmxfxu.com
 0 www.catchandfatch.bid
 0 www.cd-ads.com
 0 www.cdn4ads.com
@@ -14906,6 +14967,7 @@
 0 a.quora.com
 0 a.ria.ru
 0 a.ss828.xyz
+0 a.zillastream.com
 0 a3cloud.net
 0 acint.net
 0 adentify.com
@@ -14942,7 +15004,6 @@
 0 analytics.ihbsoft.com
 0 analytics.kidoz.net
 0 analytics.lk.api.ditto.com
-0 analytics.logsss.com
 0 analytics.mailmunch.co
 0 analytics.mobilegamestats.com
 0 analytics.monetiza.co
@@ -14973,6 +15034,7 @@
 0 android-stat.acestream.net
 0 anhui-attorney.com
 0 annedouglas.com
+0 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 0 api.prooffactor.com
 0 api.quantumgraph.com
 0 api.safegraph.com
@@ -15051,7 +15113,6 @@
 0 dap.digitalgov.gov
 0 databerries.com
 0 distillery.wistia.com
-0 dlog.hiido.com
 0 dm.gg
 0 dm.toutiao.com
 0 dm599.com
@@ -15088,7 +15149,6 @@
 0 ga.clearbit.com
 0 ga.getresponse.com
 0 ga.kvideo.io
-0 geo.adobe.com
 0 geoip.nekudo.com
 0 getexceptional.com
 0 getsitecontrol.com
@@ -15106,7 +15166,6 @@
 0 hits.theguardian.com
 0 hitwebcounter.com
 0 hlog.bclugu.com
-0 hlog.hiido.com
 0 hostg.xyz
 0 hsbarbershop.co.uk
 0 hscta.net
@@ -15116,6 +15175,7 @@
 0 i.mxplayer.j2inter.com
 0 i.shannon-fisher.xyz
 0 iaudienc.com
+0 ib.isappcloud.com
 0 idio.co
 0 ie8eamus.com
 0 ilogs.bytefence.com
@@ -15143,7 +15203,6 @@
 0 kidsghibli.com
 0 kissmetrics.com
 0 kitbit.net
-0 klog.hiido.com
 0 largeer.com
 0 lcs.loginfra.com
 0 leadzutw.com
@@ -15176,7 +15235,6 @@
 0 logs.bytefence.com
 0 logs.ironsrc.mobi
 0 logs.spilgames.com
-0 logsss.com
 0 logx.optimizely.com
 0 loles.neostrada.pl
 0 lptag.liveperson.net
@@ -15198,7 +15256,6 @@
 0 metrics.sdkbox.com
 0 mktoresp.com
 0 mlog.appguard.co.kr
-0 mlog.hiido.com
 0 moatpixel.com
 0 mobile-collector.newrelic.com
 0 mobiletelemetry.ebay.com
@@ -15312,7 +15369,6 @@
 0 srmdata.com
 0 ssc.api.bbc.com
 0 ssm.codes
-0 sstats.adobe.com
 0 stat.analytiall.com
 0 stat.hackedonlinegames.com
 0 stat.meitudata.com
@@ -15321,7 +15377,9 @@
 0 static.leaddyno.com
 0 static.site24x7rum.com
 0 stats.apester.com
+0 stats.avaaz.org
 0 stats.betradar.com
+0 stats.ccleanerbrowser.com
 0 stats.norton.com
 0 stats.playrix.com
 0 stats.popcap.com
@@ -15360,7 +15418,6 @@
 0 theirsvendor.com
 0 thoosje.com
 0 thrtle.com
-0 tlog.hiido.com
 0 tms.fmm.io
 0 to.getnitropack.com
 0 top-fwz1.mail.ru
@@ -15437,6 +15494,8 @@
 0 wieistmeineip.de
 0 worldgravity.com
 0 wren.condenastdigital.com
+0 wsapi-global.master.live
+0 wsapi.master.live
 0 wt.soundestlink.com
 0 www.datadoghq-browser-agent.com
 0 www.ethtrader.de
@@ -15460,8 +15519,6 @@
 0 www.weigezhiyao.com
 0 wzrkt.com
 0 x.disq.us
-0 xlog.hiido.com
-0 ylog.hiido.com
 0 ylog.huya.com
 0 ylog.nimo.tv
 0 ymtracking.com
