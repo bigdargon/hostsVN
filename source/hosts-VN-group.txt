@@ -394,6 +394,9 @@
 0.0.0.0 campaign.brand.zing.vn
 0.0.0.0 interactive.brand.zing.vn
 0.0.0.0 stc.interactive.brand.zing.vn
+#[zingnews.vn]
+0.0.0.0 log.zingnews.vn
+0.0.0.0 za.zingnews.vn
 #[zalo.me]
 0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.zalo.me
@@ -1121,6 +1124,7 @@
 0.0.0.0 mautic.serverhub.vn
 0.0.0.0 mautic.sts.vn
 0.0.0.0 mautic.thietkexaynhadep.vn
+0.0.0.0 mautic.vmax.vn
 0.0.0.0 mautic.yte-suckhoe.vn
 #[piwik.*.vn]
 0.0.0.0 piwik.rta.vn
@@ -1284,3 +1288,13 @@
 #[dtadnetwork.com]
 0.0.0.0 dtadnetwork.com
 0.0.0.0 static.dtadnetwork.com
+#[lavamedia.vn]
+0.0.0.0 delivery.lavamedia.vn
+0.0.0.0 delivery1.lavamedia.vn
+0.0.0.0 lavamedia.vn
+0.0.0.0 pub.lavamedia.vn
+#[unibots.in]
+0.0.0.0 api.unibots.in
+0.0.0.0 cdn.unibots.in
+0.0.0.0 unibots.in
+0.0.0.0 vdo.unibots.in

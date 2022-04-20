@@ -175,6 +175,8 @@
 0.0.0.0 ads.google.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 mail-ads.google.com
+#[microsoft.com]
+0.0.0.0 target.microsoft.com
 #[telemetry.microsoft.com]
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
@@ -497,6 +499,8 @@
 0.0.0.0 yads.yjtag.yahoo.co.jp
 0.0.0.0 ybx.yahoo.co.jp
 0.0.0.0 yeas.yahoo.co.jp
+#[aag.yahooapis.jp]
+0.0.0.0 aag.yahooapis.jp
 #[rakuten.co.jp]
 0.0.0.0 affiliate.rakuten.co.jp
 0.0.0.0 static.affiliate.rakuten.co.jp
@@ -6649,12 +6653,14 @@
 0.0.0.0 bidder-sand.appnexus.com
 0.0.0.0 bind-gateway.corp.appnexus.com
 0.0.0.0 bts.appnexus.com
+0.0.0.0 console.appnexus.com
 0.0.0.0 go.appnexus.com
 0.0.0.0 lg.appnexus.com
 0.0.0.0 ok.appnexus.com
 0.0.0.0 pbx-ams1.corp.appnexus.com
 0.0.0.0 pmfstream.appnexus.com
 0.0.0.0 psa.appnexus.com
+0.0.0.0 secure-console.appnexus.com
 0.0.0.0 staging.appnexus.com
 0.0.0.0 www.appnexus.com
 #[emxdgt.com]
@@ -8579,6 +8585,7 @@
 0.0.0.0 ak-events-collector.spot.im
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 direct-events-collector.spot.im
+0.0.0.0 event-stream.spot.im
 0.0.0.0 events-collector.spot.im
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 pix.spot.im
@@ -9878,6 +9885,7 @@
 0.0.0.0 684dd325.akstat.io
 0.0.0.0 684dd32c.akstat.io
 #[kgslb.com]
+0.0.0.0 aem-collector-22ylcwym.kgslb.com
 0.0.0.0 analytics-ad-eyu9u2md.kgslb.com
 0.0.0.0 display-ad-rgt0me85.kgslb.com
 0.0.0.0 tblog-8sodn459.kgslb.com
@@ -10000,3 +10008,60 @@
 0.0.0.0 cdn-img1.statserv.net
 0.0.0.0 cdn-us-vid1.statserv.net
 0.0.0.0 statserv.net
+#[impactradius-event.com]
+0.0.0.0 a.impactradius-event.com
+0.0.0.0 d.impactradius-event.com
+0.0.0.0 impactradius-event.com
+0.0.0.0 www.impactradius-event.com
+#[kakao.com]
+0.0.0.0 act.ds.kakao.com
+0.0.0.0 videostats.kakao.com
+#[ad.kakao.com]
+0.0.0.0 ad.kakao.com
+0.0.0.0 agency.ad.kakao.com
+0.0.0.0 kakaostory.ad.kakao.com
+#[ad.kakaocorp.com]
+0.0.0.0 ad.kakaocorp.com
+0.0.0.0 adnetwork.ad.kakaocorp.com
+0.0.0.0 display.ad.kakaocorp.com
+0.0.0.0 kakaostory.ad.kakaocorp.com
+0.0.0.0 kakaotalk.ad.kakaocorp.com
+0.0.0.0 shopping.ad.kakaocorp.com
+#[daumkakao.io]
+0.0.0.0 aem-collector.daumkakao.io
+0.0.0.0 apm-collector.daumkakao.io
+#[awmdelivery.com]
+0.0.0.0 awmdelivery.com
+0.0.0.0 cluster.awmdelivery.com
+0.0.0.0 serve.awmdelivery.com
+0.0.0.0 www.awmdelivery.com
+#[livetracker.*.pangea-cms.com]
+0.0.0.0 livetracker.rfe.pangea-cms.com
+0.0.0.0 livetracker.voa.pangea-cms.com
+#[online-metrix.net]
+0.0.0.0 aa.online-metrix.net
+0.0.0.0 h-sdk.online-metrix.net
+0.0.0.0 h.online-metrix.net
+0.0.0.0 online-metrix.net
+#[amxrtb.com]
+0.0.0.0 ads.amxrtb.com
+0.0.0.0 amxrtb.com
+0.0.0.0 assets.amxrtb.com
+0.0.0.0 bidder.amxrtb.com
+0.0.0.0 clk.amxrtb.com
+0.0.0.0 clkn.amxrtb.com
+0.0.0.0 geo-storage.amxrtb.com
+0.0.0.0 verify.amxrtb.com
+0.0.0.0 www.amxrtb.com
+#[adiiix.com]
+0.0.0.0 ad-track.adiiix.com
+0.0.0.0 adiiix.com
+0.0.0.0 ads.adiiix.com
+0.0.0.0 pmp.adiiix.com
+0.0.0.0 www.adiiix.com
+#[themediagrid.com]
+0.0.0.0 staging-access.themediagrid.com
+0.0.0.0 staging-curate.themediagrid.com
+0.0.0.0 staging-pub.themediagrid.com
+0.0.0.0 themediagrid.com
+0.0.0.0 www.themediagrid.com
