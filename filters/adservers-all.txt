@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Apr 2022 23:13 UTC+7
-! Version: 2204202313
-! Blocked: 7.257 rules
+! Last modified: 21 Apr 2022 15:31 UTC+7
+! Version: 2204211531
+! Blocked: 7.291 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -242,6 +242,7 @@
 ||703531862.vws.vegacdn.vn^
 ||95395c25b4.vws.vegacdn.vn^
 ||ad-admin.vnay.vn^
+||ad-ndtv.3s.com.vn^
 ||ad.24h.com.vn^
 ||ad.chieuhoa.com^
 ||ad.eva.vn^
@@ -703,6 +704,7 @@
 ||179bet.net^
 ||188thethao.com^
 ||1xbetvn.com^
+||33betc.com^
 ||388bet.top^
 ||388bet.us^
 ||388bet.vin^
@@ -740,6 +742,7 @@
 ||8xbet.games^
 ||8xbet.win^
 ||8xbet05.com^
+||8xbet06.com^
 ||8xbet22.com^
 ||8xbet5.com^
 ||8xbet71.com^
@@ -762,6 +765,7 @@
 ||bk8c.com^
 ||bk8vietnam.com^
 ||bong88net.com^
+||bong90.bet^
 ||bong99.com^
 ||bong99.fun^
 ||bong99.live^
@@ -920,6 +924,7 @@
 ||mansion66.com^
 ||may88.club^
 ||may88.com^
+||may88.win^
 ||mayclub.net^
 ||mc876.com^
 ||mibet.com^
@@ -936,6 +941,7 @@
 ||mu9.win^
 ||nbet.com^
 ||nbet.vip^
+||nbet.win^
 ||nhacainbet.club^
 ||nhacaisodo.net^
 ||nhanthuong88.com^
@@ -986,6 +992,7 @@
 ||rikvipp.net^
 ||rio66qc.club^
 ||s9996.com^
+||s9997.com^
 ||sbc31.com^
 ||shbet0.com^
 ||sieubomtan.com^
@@ -995,6 +1002,7 @@
 ||sin88.com^
 ||sin88.mobi^
 ||sky88.com^
+||sky88.uk^
 ||sky88.win^
 ||socvip.com^
 ||socvip9.club^
@@ -1006,6 +1014,7 @@
 ||sodovn.net^
 ||sun.win^
 ||sunvin.vin^
+||sv88.club^
 ||sv88.com^
 ||t8betvip.com^
 ||ta88.com^
@@ -1085,6 +1094,7 @@
 ||vwinnow.com^
 ||vwinsportsvn.com^
 ||vwinthethao.com^
+||vwsportasia.com^
 ||vx88.com^
 ||vx88e.com^
 ||vz681.com^
@@ -1196,6 +1206,7 @@
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||152media.com^
 ||1rx.io^
+||20239be1ae.com^
 ||24smi.net^
 ||2leep.com^
 ||2mdnsys.com^
@@ -2564,6 +2575,7 @@
 ||a.sakh.com^
 ||a.xanga.com^
 ||a135.wftv.com^
+||a2tw6yoodsag.com^
 ||a9.com^
 ||aaddzz.com^
 ||abacho.net^
@@ -3456,6 +3468,7 @@
 ||allmyverygreatlife.com^
 ||allosponsor.com^
 ||allstarmediagroup.com^
+||alstrome9riya10.com^
 ||alternativecpmgate.com^
 ||altronopubacc.com^
 ||amazingcounters.com^
@@ -3709,6 +3722,7 @@
 ||basepush.com^
 ||baskettexture.com^
 ||batbuilding.com^
+||batteusp2hilenor.com^
 ||bawdybeast.com^
 ||bayirksrap.com^
 ||baypops.com^
@@ -3740,6 +3754,7 @@
 ||bemachopor.com^
 ||bemobtrcks.com^
 ||bepiletussar.casa^
+||berchsoda.com^
 ||berlipurplin.com^
 ||berp.com^
 ||besguses.pro^
@@ -4125,6 +4140,7 @@
 ||d.appsdt.com^
 ||d11enq2rymy0yl.cloudfront.net^
 ||d18t35yyry2k49.cloudfront.net^
+||d1ezlc9vy4yc7g.cloudfront.net^
 ||d1f05vr3sjsuy7.cloudfront.net^
 ||d2cmedia.ca^
 ||d2j042cj1421wi.cloudfront.net^
@@ -4220,6 +4236,7 @@
 ||displaypagerank.com^
 ||displayvertising.com^
 ||disqusads.com^
+||disrespectpreceding.com^
 ||dist.belnk.com^
 ||divorceseed.com^
 ||dk4ywix.com^
@@ -4363,6 +4380,7 @@
 ||ero-advertising.com^
 ||erosyndc.com^
 ||esellerate.net^
+||espionagegardenerthicket.com^
 ||estat.com^
 ||esusivebe.top^
 ||etahub.com^
@@ -4408,6 +4426,7 @@
 ||extremetracking.com^
 ||extremiu.top^
 ||eyeblaster.com^
+||eyebrowscrambledlater.com^
 ||eyereturn.com^
 ||eyeviewads.com^
 ||eyewonder.com^
@@ -4521,6 +4540,7 @@
 ||gayadnetwork.com^
 ||gebadu.com^
 ||gemius.pl^
+||generashionvd.com^
 ||geniusdexchange.com^
 ||geo.digitalpoint.com^
 ||geobanner.adultfriendfinder.com^
@@ -4616,6 +4636,7 @@
 ||healthyoffers.com^
 ||heap.com^
 ||hebadu.com^
+||hedgehoghugsyou.com^
 ||heeteefu.com^
 ||hellobar.com^
 ||hentaicounter.com^
@@ -4680,6 +4701,7 @@
 ||hqvwniado.com^
 ||httpool.com^
 ||hubzozo.com^
+||hugfromoctopus.com^
 ||humandemand.com^
 ||humidmentioned.com^
 ||hurricanedigitalmedia.com^
@@ -4902,6 +4924,7 @@
 ||kontera.com^
 ||koochaud.net^
 ||koradu.com^
+||korgiejoinyou.com^
 ||kotikinar2ko8tiki09.com^
 ||kqzyfj.com^
 ||kronosspell.com^
@@ -4958,6 +4981,7 @@
 ||linkbuddies.com^
 ||linkexchange.com^
 ||linkexchange.ru^
+||linkonclick.com^
 ||linkprice.com^
 ||linkrain.com^
 ||linkreferral.com^
@@ -5017,6 +5041,7 @@
 ||madriyelowd.com^
 ||madserve.org^
 ||madvertise.de^
+||mafrarc3e9h.com^
 ||mage98rquewz.com^
 ||magnetic.com^
 ||magnificentmist.com^
@@ -5431,6 +5456,7 @@
 ||pagne4cham4hrobl.com^
 ||paishuno.net^
 ||paleleaf.com^
+||pamphletconspiracy.com^
 ||pansidlike.net^
 ||papaneecorche.com^
 ||papayamobile.com^
@@ -5468,6 +5494,7 @@
 ||pennyweb.com^
 ||pentaclaud.com^
 ||pepperjamnetwork.com^
+||peppy2lon1g1stalk.com^
 ||perceivequarter.com^
 ||percentmobile.com^
 ||perfectaudience.com^
@@ -5613,6 +5640,7 @@
 ||pronetadvertising.com^
 ||propadsviews.com^
 ||propbigo.com^
+||proposedpartly.com^
 ||props.id^
 ||propu.sh^
 ||proranktracker.com^
@@ -5877,6 +5905,7 @@
 ||sdhfbvd.com^
 ||sdk.apptentive.com^
 ||sdk.starbolt.io^
+||sdkfjxjertertry.com^
 ||seaboblit.com^
 ||searchad-phinf.pstatic.net^
 ||searchfeast.com^
@@ -6119,6 +6148,7 @@
 ||sunmedia.tv^
 ||superclix.de^
 ||superfastcdn.com^
+||superonclick.com^
 ||superstats.com^
 ||supertop.ru^
 ||supertop100.com^
@@ -6243,6 +6273,7 @@
 ||toateeli.net^
 ||todacell.com^
 ||toecircle.com^
+||tolyafbnjt9dedjj10.com^
 ||toothbrushnote.com^
 ||top-advertise.com^
 ||top-casting-termine.de^
@@ -6347,6 +6378,7 @@
 ||tulecheja.pro^
 ||tunnl.com^
 ||turboadv.com^
+||turmoilragcrutch.com^
 ||tutelatechnologies.com^
 ||tvmtracker.com^
 ||twinsoflave.com^
@@ -6591,6 +6623,7 @@
 ||xg4ken.com^
 ||xiti.com^
 ||xius.com^
+||xlviiirdr.com^
 ||xovq5nemr.com^
 ||xpbbyiqbcawamy.com^
 ||xplosion.de^
@@ -7234,6 +7267,7 @@
 ||youthfire.com^
 ||zarget.com^
 ||978bet3.com^
+||baksourat.com^
 ||mdbw0018.com^
 ||wangcmd368.com^
 ||76236osm1.ru^
