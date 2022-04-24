@@ -24,7 +24,6 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantu
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX-rewrite.conf, tag=🇻🇳hostsVN, enabled=true
 
 [server_local]
-shadowsocks=127.0.0.1:8080, method=none, password=password, fast-open=false, udp-replay=false, tag=🇻🇳hostsVN
 
 [filter_local]
 FINAL,DIRECT

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 21 Apr 2022 15:31 UTC+7
-# Version: 2204211531
-# Blocked: 3.438 domains
+# Last modified: 24 Apr 2022 14:10 UTC+7
+# Version: 2204241410
+# Blocked: 3,468 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1199,6 +1199,35 @@
 0.0.0.0 bong90.bet
 0.0.0.0 affiliate.bong90.bet
 0.0.0.0 resources.bong90.bet
+0.0.0.0 1tamtam.com
+0.0.0.0 m.1tamtam.com
+0.0.0.0 www.1tamtam.com
+0.0.0.0 kubet8.us
+0.0.0.0 www.kubet8.us
+0.0.0.0 11bet.life
+0.0.0.0 ae888.11bet.life
+0.0.0.0 123b333.com
+0.0.0.0 ee6611.com
+0.0.0.0 www.ee6611.com
+0.0.0.0 vb211.com
+0.0.0.0 www.vb211.com
+0.0.0.0 kingbet86.com
+0.0.0.0 m.kingbet86.com
+0.0.0.0 33beta.com
+0.0.0.0 api.33beta.com
+0.0.0.0 www.33beta.com
+0.0.0.0 cmd368t.com
+0.0.0.0 www.cmd368t.com
+0.0.0.0 mu90.com
+0.0.0.0 www.mu90.com
+0.0.0.0 xoso9988.com
+0.0.0.0 aw8vn.com
+0.0.0.0 www.aw8vn.com
+0.0.0.0 tai567live.vip
+0.0.0.0 lite-1x6603199.top
+0.0.0.0 vwinfast.com
+0.0.0.0 www.vwinfast.com
+0.0.0.0 1xbet88vn.net
 # --- Block other gameblingVN ---
 0.0.0.0 978bet3.com
 0.0.0.0 www.978bet3.com
@@ -1208,6 +1237,7 @@
 0.0.0.0 www.mdbw0018.com
 0.0.0.0 baksourat.com
 0.0.0.0 www.baksourat.com
+0.0.0.0 pameranbola.com
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
 0.0.0.0 1gom.com

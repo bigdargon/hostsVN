@@ -394,6 +394,10 @@
 0.0.0.0 campaign.brand.zing.vn
 0.0.0.0 interactive.brand.zing.vn
 0.0.0.0 stc.interactive.brand.zing.vn
+#[zingmp3.vn]
+0.0.0.0 log.zingmp3.vn
+0.0.0.0 za.zingmp3.vn
+0.0.0.0 zlog.zingmp3.vn
 #[zingnews.vn]
 0.0.0.0 log.zingnews.vn
 0.0.0.0 za.zingnews.vn
@@ -1298,3 +1302,8 @@
 0.0.0.0 cdn.unibots.in
 0.0.0.0 unibots.in
 0.0.0.0 vdo.unibots.in
+#[botbanhang.vn]
+0.0.0.0 ads.botbanhang.vn
+0.0.0.0 chatbox-static.botbanhang.vn
+0.0.0.0 chatbox-tracking.botbanhang.vn
+0.0.0.0 chatbox-widget.botbanhang.vn
