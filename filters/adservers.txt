@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 24 Apr 2022 14:10 UTC+7
-! Version: 2204241410
-! Blocked: 1,222 rules
+! Last modified: 02 May 2022 22:28 UTC+7
+! Version: 2205022228
+! Blocked: 1.247 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -269,6 +269,7 @@
 ||adm.phunusuckhoe.vn^
 ||adm.phunuvagiadinh.vn^
 ||admin.sothuchi.vn^
+||adms.phunusuckhoe.vn^
 ||adpostback.headlines.pw^
 ||ads-api.playfun.vn^
 ||ads-backend.nhadatmoi.net^
@@ -522,6 +523,7 @@
 ||core.vchat.vn^
 ||counter.24h.com.vn^
 ||counter.ntdvn.com^
+||counter.ntdvn.net^
 ||crm.bizfly.vn^
 ||crmbizfly.todo.vn^
 ||elink.nhanlucnganhluat.vn^
@@ -538,6 +540,9 @@
 ||invite.baomoi.com^
 ||kv-analytics.kiotviet.vn^
 ||la.vietid.net^
+||la.vnecdn.net^
+||la2.vnecdn.net^
+||la3.vnecdn.net^
 ||lg.lotus.vn^
 ||live.vnpgroup.net^
 ||log-collector.shopee.vn^
@@ -550,6 +555,7 @@
 ||log.batdongsan.com.vn^
 ||log.beecost.com^
 ||log.beecost.vn^
+||log.bizlive.vn^
 ||log.daidoanket.vn^
 ||log.dantocmiennui.vn^
 ||log.doanhnhan.vn^
@@ -582,6 +588,7 @@
 ||log.vietnamplus.vn^
 ||log.viettimes.vn^
 ||log.vnay.vn^
+||log.vneconomy.vn^
 ||log.vnfinance.vn^
 ||log.vov.vn^
 ||log.vovplus.vn^
@@ -591,6 +598,7 @@
 ||logen.vietnamplus.vn^
 ||logg4u.cnnd.vn^
 ||logperf.vnexpress.net^
+||logs.docnhanh.com.vn^
 ||logs.giaoducthoidai.vn^
 ||logs.thethaovanhoa.vn^
 ||logs1.reatimes.vn^
@@ -656,12 +664,15 @@
 ||track.vio.edu.vn^
 ||tracker.anime47.com^
 ||tracker.bongngo.bar^
+||tracker.edupia.vn^
 ||tracker.fado.vn^
 ||tracker.gigaphim.com^
 ||tracker.nhandaovadoisong.vn^
+||tracker.phunusuckhoe.vn^
 ||tracker.phunuvagiadinh.vn^
 ||tracker.thichxemphim.net^
 ||tracking-amp.vnexpress.net^
+||tracking-web.smobgame.com^
 ||tracking.appwifi.com^
 ||tracking.dantri.com.vn^
 ||tracking.fado.vn^
@@ -699,6 +710,7 @@
 ||za.baomoi.com^
 ||zigzag.vn^
 ||1126bet.com^
+||118kbet.com^
 ||11bet.club^
 ||11bet.com^
 ||11bet.life^
@@ -709,6 +721,7 @@
 ||123b.com^
 ||123b.org^
 ||123b333.com^
+||123b88.com^
 ||12b99.com^
 ||179bet.net^
 ||188thethao.com^
@@ -725,6 +738,7 @@
 ||50soc.com^
 ||5123b.com^
 ||520xiaojin.com^
+||5shbet.com^
 ||668kbet.com^
 ||68rich.com^
 ||68rich.org^
@@ -751,6 +765,7 @@
 ||8live.vip^
 ||8livevn.com^
 ||8xbet.com^
+||8xbet.fun^
 ||8xbet.games^
 ||8xbet.win^
 ||8xbet05.com^
@@ -760,6 +775,7 @@
 ||8xbet71.com^
 ||8xbet96.com^
 ||92lottery.com^
+||978bet34.com^
 ||aa88.in^
 ||ae888.com^
 ||ae888i.com^
@@ -792,6 +808,7 @@
 ||cacuoc79.com^
 ||casino86.club^
 ||casino888vn.com^
+||cfun68.biz^
 ||chat789bet.com^
 ||choingay88.com^
 ||choita88.club^
@@ -801,6 +818,7 @@
 ||comebetvn3.com^
 ||comebetvn9.com^
 ||corona999.com^
+||d1lzoljld5a2bc.cloudfront.net^
 ||dabet.me^
 ||datcuoc247.com^
 ||debet.com^
@@ -812,6 +830,8 @@
 ||dola88.info^
 ||ee66.com^
 ||ee6611.com^
+||ee88.club^
+||ee88.com^
 ||ek8802.com^
 ||ek883.com^
 ||eurofun88.com^
@@ -870,6 +890,7 @@
 ||happy9luck.com^
 ||happynb.com^
 ||hotlive8.vip^
+||i8bet.org^
 ||i99906.com^
 ||ibet889.com^
 ||income88.com^
@@ -888,6 +909,7 @@
 ||k8vn03.com^
 ||keotot.net^
 ||kidslovemartialartsomahane.com^
+||kimsa338.com^
 ||kingbet86.com^
 ||kingbet86.info^
 ||ktokto.mobi^
@@ -1031,6 +1053,9 @@
 ||sodo15.com^
 ||sodoviet.net^
 ||sodovn.net^
+||sol86.com^
+||solarbet.com^
+||solbet88.com^
 ||sun.win^
 ||sunvin.vin^
 ||sv88.club^

@@ -101,6 +101,7 @@
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 undefined.fls.doubleclick.net
 #[adservice.google.*]
+0.0.0.0 adservice.google.co.jp
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.hk
 0.0.0.0 adservice.google.com.sg
@@ -1287,11 +1288,16 @@
 #[intl.xiaomi.com]
 0.0.0.0 cc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.intl.xiaomi.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
-#[ad.intl.xiaomi.com]
+#[ad.*.xiaomi.com]
 0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.india.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.rus.xiaomi.com
+#[mistat.*.xiaomi.com]
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 #[mistat.xiaomi.com]
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 abtest.mistat.xiaomi.com
@@ -2636,12 +2642,13 @@
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adserver.adtech.advertising.com
 0.0.0.0 advertising.com
-0.0.0.0 cmp.advertising.com
 0.0.0.0 cmp-dev.advertising.com
+0.0.0.0 cmp.advertising.com
 0.0.0.0 hb-as.adtech.advertising.com
 0.0.0.0 hb-us.adtech.advertising.com
 0.0.0.0 mobileapi.advertising.com
 0.0.0.0 pixel.advertising.com
+0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 uac.advertising.com
 0.0.0.0 www.advertising.com
 #[moatads]
@@ -2925,7 +2932,6 @@
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
-0.0.0.0 startup.mobile.yandex.net
 #[yandex.com]
 0.0.0.0 clck.yandex.com
 0.0.0.0 appmetrica.yandex.com
@@ -8059,6 +8065,7 @@
 0.0.0.0 als.baidu.com
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 caclick.baidu.com
+0.0.0.0 dlswbr.baidu.com
 0.0.0.0 eclick.baidu.com
 0.0.0.0 fclog.baidu.com
 0.0.0.0 gsp1.baidu.com
@@ -8796,8 +8803,10 @@
 0.0.0.0 www.ad1x.com
 #[adsbynimbus.com]
 0.0.0.0 adsbynimbus.com
+0.0.0.0 flickr.adsbynimbus.com
 0.0.0.0 growlr.adsbynimbus.com
 0.0.0.0 imgur.adsbynimbus.com
+0.0.0.0 turbo.adsbynimbus.com
 0.0.0.0 wattpad.adsbynimbus.com
 0.0.0.0 www.adsbynimbus.com
 #[freeskreen.com]
@@ -9731,6 +9740,9 @@
 #[hetahien.com]
 0.0.0.0 hetahien.com
 0.0.0.0 ak.hetahien.com
+#[ongastlya.com]
+0.0.0.0 ak.ongastlya.com
+0.0.0.0 ongastlya.com
 #[admix.in]
 0.0.0.0 admix.in
 0.0.0.0 geoip5m1y07.admix.in
@@ -10107,3 +10119,42 @@
 #[7fb60feaa4.com]
 0.0.0.0 7fb60feaa4.com
 0.0.0.0 e7a875c424.7fb60feaa4.com
+#[mediams.mb.softbank.jp]
+0.0.0.0 ads.mediams.mb.softbank.jp
+0.0.0.0 js.mediams.mb.softbank.jp
+#[getdrip.com]
+0.0.0.0 api.getdrip.com
+0.0.0.0 tag.getdrip.com
+#[reproio.com]
+0.0.0.0 api.reproio.com
+0.0.0.0 cdn.reproio.com
+0.0.0.0 reproio.com
+#[593e7fec57.com]
+0.0.0.0 593e7fec57.com
+0.0.0.0 d9a902a337.593e7fec57.com
+#[1ts18.top]
+0.0.0.0 1ts18.top
+0.0.0.0 p.1ts18.top
+0.0.0.0 s.1ts18.top
+#[0i0i0i0.com]
+0.0.0.0 0i0i0i0.com
+0.0.0.0 u50.0i0i0i0.com
+0.0.0.0 www.0i0i0i0.com
+#[useinsider.com]
+0.0.0.0 log.api.useinsider.com
+0.0.0.0 mobileanalytics.useinsider.com
+0.0.0.0 useinsider.com
+#[b-cdn.net]
+0.0.0.0 mellowads.b-cdn.net
+0.0.0.0 popcashjs.b-cdn.net
+#[vidsrev.com]
+0.0.0.0 sys.vidsrev.com
+0.0.0.0 tracker.vidsrev.com
+0.0.0.0 vidsrev.com
+0.0.0.0 www.vidsrev.com
+#[xxxjmp.com]
+0.0.0.0 go.xxxjmp.com
+0.0.0.0 xxxjmp.com
+#[hostedprebid.com]
+0.0.0.0 1004.hostedprebid.com
+0.0.0.0 hostedprebid.com
