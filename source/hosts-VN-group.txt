@@ -442,6 +442,7 @@
 0.0.0.0 adtima-media.zascdn.me
 0.0.0.0 adtima-static.zascdn.me
 0.0.0.0 adtima-video.zascdn.me
+0.0.0.0 mplaylist-ads.zascdn.me
 #[sdk.zadn.vn]
 0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 log.sdk.zadn.vn
@@ -450,6 +451,7 @@
 0.0.0.0 480.zaloapp.ads.zdn.vn
 0.0.0.0 org.zaloapp.ads.zdn.vn
 #[zdn.vn]
+0.0.0.0 stc-support-app-brand.zdn.vn
 0.0.0.0 za.zdn.vn
 0.0.0.0 zaloads-480.zdn.vn
 0.0.0.0 zplayer-trk.zdn.vn
@@ -1108,12 +1110,14 @@
 #[matomo.*.vn]
 0.0.0.0 matomo.ecoe.vn
 0.0.0.0 matomo.energyfacility.vn
+0.0.0.0 matomo.magicmarketing.vn
 0.0.0.0 matomo.shac.vn
 0.0.0.0 matomo.vepg.vn
 #[mautic.*.vn]
 0.0.0.0 mautic.akhoe.vn
 0.0.0.0 mautic.casso.vn
 0.0.0.0 mautic.chetaomaysaigon.vn
+0.0.0.0 mautic.cloudify.vn
 0.0.0.0 mautic.datium.vn
 0.0.0.0 mautic.dongdomedia.vn
 0.0.0.0 mautic.easygroup.vn
@@ -1307,3 +1311,9 @@
 0.0.0.0 chatbox-static.botbanhang.vn
 0.0.0.0 chatbox-tracking.botbanhang.vn
 0.0.0.0 chatbox-widget.botbanhang.vn
+#[tebrand.vn]
+0.0.0.0 static.tebrand.vn
+0.0.0.0 tebrand.vn
+#[tebrand.asia]
+0.0.0.0 static.tebrand.asia
+0.0.0.0 tebrand.asia

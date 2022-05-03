@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 May 2022 22:28 UTC+7
-! Version: 2205022228
-! Blocked: 1.247 rules
+! Last modified: 03 May 2022 18:31 UTC+7
+! Version: 2205031831
+! Blocked: 1.271 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -137,6 +137,7 @@
 ||mobio.vn^
 ||modestsunf.com^
 ||mplaylist-ads.zadn.vn^
+||mplaylist-ads.zascdn.me^
 ||myad.vn^
 ||nanda.vn^
 ||native-ad.net^
@@ -194,6 +195,7 @@
 ||static.accesstrade.vn^
 ||stats.vng.com.vn^
 ||stats.zaloapp.com^
+||stc-support-app-brand.zdn.vn^
 ||subiz-cdn.com^
 ||subiz.com^
 ||subiz.com.vn^
@@ -201,6 +203,8 @@
 ||subiz.xyz^
 ||surfcountor.com^
 ||t.sieu-viet.com^
+||tebrand.asia^
+||tebrand.vn^
 ||testcentre.vn^
 ||tpmedia.online^
 ||track.accesstrade.vn^
@@ -352,6 +356,8 @@
 ||adx.chinmedia.vn^
 ||adx.edutimes.com.vn^
 ||adx.golfnews.vn^
+||adx.hoanggia.net^
+||adx.hoanggia.net.vn^
 ||adx.hongtinnhanh.com^
 ||adx.kul.vn^
 ||adx.phunuadong.vn^
@@ -492,6 +498,7 @@
 ||analytics.bkav.com.vn^
 ||analytics.diamondstarfinancial.com.vn^
 ||analytics.explus.vn^
+||analytics.fsoft.com.vn^
 ||analytics.hub-js.com^
 ||analytics.mfocus.vn^
 ||analytics.molistar.com^
@@ -655,6 +662,7 @@
 ||tr.topdevvn.com^
 ||tracer.concung.com^
 ||track-srv.vietnamnet.vn^
+||track.adshay.vn^
 ||track.icheck.com.vn^
 ||track.kyna.vn^
 ||track.lapa.pub^
@@ -678,6 +686,7 @@
 ||tracking.fado.vn^
 ||tracking.fff.com.vn^
 ||tracking.gapone.vn^
+||tracking.hapiwork.vn^
 ||tracking.hongtinnhanh.com^
 ||tracking.meta.vn^
 ||tracking.phunuadong.vn^
@@ -720,6 +729,7 @@
 ||123b.bet^
 ||123b.com^
 ||123b.org^
+||123b03.com^
 ||123b333.com^
 ||123b88.com^
 ||12b99.com^
@@ -757,7 +767,9 @@
 ||888b.in^
 ||88gobet.com^
 ||88viet.com^
+||88vnd.com^
 ||88vwin.com^
+||8daily8.com^
 ||8live.com^
 ||8live.fun^
 ||8live.net^
@@ -776,7 +788,9 @@
 ||8xbet96.com^
 ||92lottery.com^
 ||978bet34.com^
+||99vn.bet^
 ||aa88.in^
+||ae788.bet^
 ||ae888.com^
 ||ae888i.com^
 ||aw8vn.com^
@@ -787,6 +801,7 @@
 ||bestcacuoc8.com^
 ||bet20.bet^
 ||bet66.com^
+||betbanh88.com^
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
@@ -878,6 +893,7 @@
 ||gdwbetvn888.com^
 ||gdwviet.com^
 ||gi888.cc^
+||gi8vn.vip^
 ||go88.club^
 ||go88.com^
 ||go88vn.vip^
@@ -892,6 +908,7 @@
 ||hotlive8.vip^
 ||i8bet.org^
 ||i99906.com^
+||i99908.com^
 ||ibet889.com^
 ||income88.com^
 ||interwinvn.com^
@@ -906,6 +923,7 @@
 ||k8dl08.cc^
 ||k8sport.com^
 ||k8vina17.com^
+||k8vivip93.com^
 ||k8vn03.com^
 ||keotot.net^
 ||kidslovemartialartsomahane.com^
@@ -932,6 +950,7 @@
 ||kufun.win^
 ||langvuichoi.net^
 ||letou8868.com^
+||lite-1x0801165.top^
 ||lite-1x6603199.top^
 ||lixi88.info^
 ||lixi888.online^
@@ -1042,6 +1061,8 @@
 ||sin88.club^
 ||sin88.com^
 ||sin88.mobi^
+||sin88s.com^
+||sin88vao.com^
 ||sky88.com^
 ||sky88.uk^
 ||sky88.win^
@@ -1115,6 +1136,7 @@
 ||vietvwin.com^
 ||viva88.com^
 ||vlott88.com^
+||vn138viet.com^
 ||vn34.com^
 ||vn88.bet^
 ||vn88.biz^
@@ -1130,6 +1152,7 @@
 ||vnq8.com^
 ||vnq8.net^
 ||vnq8.win^
+||vntop88.com^
 ||vua1004.club^
 ||vua1005.club^
 ||vuabai9.com^
@@ -1149,6 +1172,7 @@
 ||w-sunwin.net^
 ||w388.com^
 ||w88.vin^
+||w88ac.com^
 ||w88bkk.com^
 ||w88bro.com^
 ||w88city.com^

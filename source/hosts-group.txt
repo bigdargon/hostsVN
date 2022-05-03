@@ -4226,15 +4226,14 @@
 #[go.com]
 0.0.0.0 ad.go.com
 0.0.0.0 adimages.go.com
-0.0.0.0 adsatt.espn.go.com
-0.0.0.0 api.ads.watchabc.go.com
-0.0.0.0 clog.go.com
-0.0.0.0 dcapps.disney.go.com
 0.0.0.0 log.go.com
-0.0.0.0 ngads.go.com
-0.0.0.0 oascentral.abclocal.go.com
-0.0.0.0 seavideo-ak.espn.go.com
-0.0.0.0 w88.go.com
+0.0.0.0 sw88.go.com
+0.0.0.0 tredir.go.com
+#[unid.go.com]
+0.0.0.0 android.unid.go.com
+0.0.0.0 cdn.unid.go.com
+0.0.0.0 ios.unid.go.com
+0.0.0.0 unid.go.com
 #[dm-event.net]
 0.0.0.0 dm-event.net
 0.0.0.0 mebed.dm-event.net
@@ -5112,6 +5111,7 @@
 0.0.0.0 aj1015.online
 0.0.0.0 aj1047.online
 0.0.0.0 aj1052.online
+0.0.0.0 aj1070.online
 0.0.0.0 aj1090.online
 0.0.0.0 aj1101.online
 0.0.0.0 aj1354.online
@@ -5128,6 +5128,7 @@
 0.0.0.0 aj1855.online
 0.0.0.0 aj1863.online
 0.0.0.0 aj1867.online
+0.0.0.0 aj1937.online
 0.0.0.0 aj1985.online
 0.0.0.0 aj1987.online
 #[ajx*.online]
@@ -10158,3 +10159,65 @@
 #[hostedprebid.com]
 0.0.0.0 1004.hostedprebid.com
 0.0.0.0 hostedprebid.com
+#[pushmaster-cdn.xyz]
+0.0.0.0 cdn.pushmaster-cdn.xyz
+0.0.0.0 pushmaster-cdn.xyz
+#[856f639e2a.com]
+0.0.0.0 856f639e2a.com
+0.0.0.0 c5b6f5b3b0.856f639e2a.com
+#[imhd.io]
+0.0.0.0 cdn.imhd.io
+0.0.0.0 imhd.io
+#[adrizer.com]
+0.0.0.0 adrizer.com
+0.0.0.0 run.adrizer.com
+#[collector-*.tvsquared.com]
+0.0.0.0 collector-12486.tvsquared.com
+0.0.0.0 collector-20079.tvsquared.com
+#[collector-*.us.tvsquared.com]
+0.0.0.0 collector-15234.us.tvsquared.com
+0.0.0.0 collector-16238.us.tvsquared.com
+#[imrworldwide.com]
+0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 imrworldwide.com
+0.0.0.0 secure-gl.imrworldwide.com
+0.0.0.0 secure-us.imrworldwide.com
+#[rezync.com]
+0.0.0.0 live.rezync.com
+0.0.0.0 rezync.com
+#[p-n.io]
+0.0.0.0 cdn.p-n.io
+0.0.0.0 p-n.io
+#[optimizely.com]
+0.0.0.0 cdn-pci.optimizely.com
+0.0.0.0 cdn.optimizely.com
+0.0.0.0 cdn3.optimizely.com
+0.0.0.0 logx.optimizely.com
+#[tm-awx.com]
+0.0.0.0 collect.data.tm-awx.com
+0.0.0.0 felix.data.tm-awx.com
+#[7d9bbf7e5b.com]
+0.0.0.0 7d9bbf7e5b.com
+0.0.0.0 322c318d55.7d9bbf7e5b.com
+#[tapdb.com]
+0.0.0.0 beta.tapdb.com
+0.0.0.0 l.tapdb.com
+0.0.0.0 sense.tapdb.com
+0.0.0.0 tapdb.com
+0.0.0.0 www.tapdb.com
+#[tapdb.net]
+0.0.0.0 e-eu.tapdb.net
+0.0.0.0 e-sg.tapdb.net
+0.0.0.0 e.tapdb.net
+0.0.0.0 gfw-eu.tapdb.net
+0.0.0.0 gfw-hk.tapdb.net
+0.0.0.0 gfw-sg.tapdb.net
+0.0.0.0 static-tapad.tapdb.net
+0.0.0.0 static.tapdb.net
+0.0.0.0 tapdb.net
+#[evolv.ai]
+0.0.0.0 media.evolv.ai
+0.0.0.0 participants.evolv.ai
+#[tiqcdn.com]
+0.0.0.0 tags-eu.tiqcdn.com
+0.0.0.0 tags.tiqcdn.com
