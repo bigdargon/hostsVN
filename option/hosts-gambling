@@ -1,6 +1,6 @@
 # Title: hostsVN Gambling
-# Last modified: 03 May 2022 18:31 UTC+7
-# Version: 2205031831
+# Last modified: 05 May 2022 11:10 UTC+7
+# Version: 2205051110
 # Blocked: 3.538 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -1298,6 +1298,7 @@
 0.0.0.0 k8vivip93.com
 0.0.0.0 8daily8.com
 0.0.0.0 aff.8daily8.com
+0.0.0.0 pameranbola.com
 # --- Block other gameblingVN ---
 0.0.0.0 978bet3.com
 0.0.0.0 www.978bet3.com
@@ -1307,7 +1308,6 @@
 0.0.0.0 www.mdbw0018.com
 0.0.0.0 baksourat.com
 0.0.0.0 www.baksourat.com
-0.0.0.0 pameranbola.com
 #https://github.com/bigdargon/hostsVN/issues/152#issue-548782630
 0.0.0.0 188betcn1.com
 0.0.0.0 1gom.com

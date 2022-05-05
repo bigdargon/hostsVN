@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 May 2022 18:31 UTC+7
-# Version: 2205031831
-# Blocked: 16.062 domains
+# Last modified: 05 May 2022 11:10 UTC+7
+# Version: 2205051110
+# Blocked: 16.075 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10233,6 +10233,12 @@
 #[tiqcdn.com]
 0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags.tiqcdn.com
+#[55a70c5ade.com]
+0.0.0.0 55a70c5ade.com
+0.0.0.0 72c73fef76.55a70c5ade.com
+#[d2e48d0dce.com]
+0.0.0.0 d2e48d0dce.com
+0.0.0.0 91dacd27c8.d2e48d0dce.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -11873,6 +11879,7 @@
 0.0.0.0 invite.baomoi.com
 0.0.0.0 kv-analytics.kiotviet.vn
 0.0.0.0 la.vietid.net
+0.0.0.0 la.vnbusiness.vn
 0.0.0.0 la.vnecdn.net
 0.0.0.0 la2.vnecdn.net
 0.0.0.0 la3.vnecdn.net
@@ -12357,6 +12364,7 @@
 0.0.0.0 addfreestats.com
 0.0.0.0 addme.com
 0.0.0.0 addresseepaper.com
+0.0.0.0 addresseetransportationsyndrome.com
 0.0.0.0 adecn.com
 0.0.0.0 ademails.com
 0.0.0.0 adengage.com
@@ -13454,6 +13462,7 @@
 0.0.0.0 btcadtop.com
 0.0.0.0 btez8.xyz
 0.0.0.0 btrll.com
+0.0.0.0 bu3le2lp4t45e6i.com
 0.0.0.0 bucketbean.com
 0.0.0.0 bucksense.com
 0.0.0.0 budapestluv.xyz
@@ -14160,6 +14169,7 @@
 0.0.0.0 fluffycodepotc.com
 0.0.0.0 fluffynyasquirell.com
 0.0.0.0 foamidsputt.com
+0.0.0.0 focusde.info
 0.0.0.0 fondlecokecombination.com
 0.0.0.0 fonecta.fi
 0.0.0.0 foresee.com
@@ -14367,6 +14377,7 @@
 0.0.0.0 hollowshake.com
 0.0.0.0 homepageking.de
 0.0.0.0 homespotaudience.com
+0.0.0.0 homomqmfbomoy.com
 0.0.0.0 honeycshfferufrew.com
 0.0.0.0 honeygoldfish.com
 0.0.0.0 hoowooze.net
@@ -14541,6 +14552,7 @@
 0.0.0.0 iwanttodeliver.com
 0.0.0.0 iwhugaul.com
 0.0.0.0 iwofkvupfz.com
+0.0.0.0 j6rudlybdy.com
 0.0.0.0 j93557g.com
 0.0.0.0 ja2n2u30a6rgyd.com
 0.0.0.0 jadeitite.com
@@ -15332,6 +15344,7 @@
 0.0.0.0 presbanise.pw
 0.0.0.0 presetrabbits.com
 0.0.0.0 pressingmiscellaneoustry.com
+0.0.0.0 presumptuouslavish.com
 0.0.0.0 previousplayground.com
 0.0.0.0 previouspotato.com
 0.0.0.0 prfwpclck.com
@@ -16582,6 +16595,7 @@
 0.0.0.0 yonsandileer.com
 0.0.0.0 yoptaejrj2kkf8nj09.com
 0.0.0.0 yougotacheck.com
+0.0.0.0 youngsterbusinessman.com
 0.0.0.0 youradexchange.com
 0.0.0.0 yourbestheal.com
 0.0.0.0 yourkadspunew.com
@@ -17076,6 +17090,7 @@
 0.0.0.0 stats.norton.com
 0.0.0.0 stats.playrix.com
 0.0.0.0 stats.popcap.com
+0.0.0.0 stats.pornpics.com
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.unlimapps.com
