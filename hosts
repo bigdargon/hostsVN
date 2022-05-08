@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 May 2022 11:10 UTC+7
-# Version: 2205051110
-# Blocked: 16.075 domains
+# Last modified: 08 May 2022 17:59 UTC+7
+# Version: 2205081759
+# Blocked: 16.129 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10239,6 +10239,29 @@
 #[d2e48d0dce.com]
 0.0.0.0 d2e48d0dce.com
 0.0.0.0 91dacd27c8.d2e48d0dce.com
+#[maio.jp]
+0.0.0.0 maio.jp
+0.0.0.0 media-api.maio.jp
+#[ispot.tv]
+0.0.0.0 ispot.tv
+0.0.0.0 pi.ispot.tv
+0.0.0.0 pt.ispot.tv
+#[ads-pixiv.net]
+0.0.0.0 ads-pixiv.net
+0.0.0.0 pixon.ads-pixiv.net
+#[60b8fe6ea3.com]
+0.0.0.0 60b8fe6ea3.com
+0.0.0.0 5265c011ae.60b8fe6ea3.com
+#[readpeak.com]
+0.0.0.0 app.readpeak.com
+0.0.0.0 readpeak.com
+#[gamesrevenue.com]
+0.0.0.0 gamesrevenue.com
+0.0.0.0 ln.gamesrevenue.com
+#[wensixuetang.com]
+0.0.0.0 jg.wensixuetang.com
+0.0.0.0 wensixuetang.com
+0.0.0.0 www.wensixuetang.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -11759,6 +11782,8 @@
 0.0.0.0 quangcao247.com.vn
 0.0.0.0 r.tinmoi24.vn
 0.0.0.0 realclick.vn
+0.0.0.0 s.cntqk.com
+0.0.0.0 s.cntqk.vn
 0.0.0.0 s.giaoducthoidai.vn
 0.0.0.0 sbbanner.com
 0.0.0.0 sda.tamdiem247.com
@@ -11924,6 +11949,7 @@
 0.0.0.0 log.toss.vn
 0.0.0.0 log.trithuctructuyen.com.vn
 0.0.0.0 log.trithuctructuyen.vn
+0.0.0.0 log.tv360.vn
 0.0.0.0 log.vietnamdaily.net.vn
 0.0.0.0 log.vietnamplus.vn
 0.0.0.0 log.viettimes.vn
@@ -12180,6 +12206,7 @@
 0.0.0.0 absurdwater.com
 0.0.0.0 abz.com
 0.0.0.0 ac.rnm.ca
+0.0.0.0 acacdn.com
 0.0.0.0 acdcdn.com
 0.0.0.0 acento.com
 0.0.0.0 achcdn.com
@@ -12255,6 +12282,7 @@
 0.0.0.0 ad.kissasian.es
 0.0.0.0 ad.leadboltapps.net
 0.0.0.0 ad.leadboltmobile.net
+0.0.0.0 ad.letmeads.com
 0.0.0.0 ad.liveinternet.ru
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.mail.ru
@@ -12263,8 +12291,10 @@
 0.0.0.0 ad.mox.tv
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.nachtagenten.de
+0.0.0.0 ad.netmedia.hu
 0.0.0.0 ad.nozonedata.com
 0.0.0.0 ad.nttnavi.co.jp
+0.0.0.0 ad.nvdvr.cn
 0.0.0.0 ad.nwt.cz
 0.0.0.0 ad.pandora.tv
 0.0.0.0 ad.period-calendar.com
@@ -12432,6 +12462,7 @@
 0.0.0.0 admagnet.net
 0.0.0.0 admailtiser.com
 0.0.0.0 adman.gr
+0.0.0.0 adman.otenet.gr
 0.0.0.0 admanagement.ch
 0.0.0.0 admanager.btopenworld.com
 0.0.0.0 admanager.carsoup.com
@@ -12968,6 +12999,7 @@
 0.0.0.0 adviva.com
 0.0.0.0 adviva.net
 0.0.0.0 advleniv.com
+0.0.0.0 advmanager.techfun.pl
 0.0.0.0 advnt.com
 0.0.0.0 advolution.de
 0.0.0.0 adwareremovergold.com
@@ -13025,8 +13057,11 @@
 0.0.0.0 affiliatetrading.net
 0.0.0.0 affiliatewindow.com
 0.0.0.0 affiliation-france.com
+0.0.0.0 affiliazioniads.snai.it
+0.0.0.0 affiliazionisnai.cdn.netrefer.com
 0.0.0.0 affinity.com
 0.0.0.0 afftracking.justanswer.com
+0.0.0.0 afftrk.altex.ro
 0.0.0.0 africaewgrhdtb.com
 0.0.0.0 agacelebir.com
 0.0.0.0 agafurretor.com
@@ -13092,6 +13127,7 @@
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 antvoice.com
 0.0.0.0 anxiousapples.com
+0.0.0.0 anymedia.lv
 0.0.0.0 anymoresentencevirgin.com
 0.0.0.0 aparvibices.com
 0.0.0.0 apathetictheory.com
@@ -13204,6 +13240,7 @@
 0.0.0.0 autohits.dk
 0.0.0.0 automaticflock.com
 0.0.0.0 auweelta.net
+0.0.0.0 avalancheofnews.com
 0.0.0.0 avenuea.com
 0.0.0.0 avfgoatbyyerys.com
 0.0.0.0 avivid.likr.tw
@@ -13221,6 +13258,7 @@
 0.0.0.0 awigglespouter.cam
 0.0.0.0 awzbijw.com
 0.0.0.0 axdsz.pro
+0.0.0.0 axiabanners.exodus.gr
 0.0.0.0 axiomaticalley.com
 0.0.0.0 ay.delivery
 0.0.0.0 aylarl.com
@@ -13441,6 +13479,7 @@
 0.0.0.0 boustahe.com
 0.0.0.0 bowerywill.com
 0.0.0.0 box.anchorfree.net
+0.0.0.0 boxofwhisper.com
 0.0.0.0 boyaidare.club
 0.0.0.0 bpath.com
 0.0.0.0 br3azil334nutsz.com
@@ -13491,6 +13530,7 @@
 0.0.0.0 c43a3cd8f99413891.com
 0.0.0.0 c44wergiu87heghoconutdx.com
 0.0.0.0 ca.clcknads.pro
+0.0.0.0 cabbagehomme.casa
 0.0.0.0 cads.scalemonk.com
 0.0.0.0 calculatingcircle.com
 0.0.0.0 calculatingtoothbrush.com
@@ -13605,6 +13645,7 @@
 0.0.0.0 click-eu.expmediadirect1.com
 0.0.0.0 click.expmediadirect1.com
 0.0.0.0 click.fool.com
+0.0.0.0 click.hooligapps.com
 0.0.0.0 click.howdoesin.net
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click.revsharecash.com
@@ -13818,6 +13859,7 @@
 0.0.0.0 danban.com
 0.0.0.0 dancemistake.com
 0.0.0.0 dapper.net
+0.0.0.0 daserver.ultraweb.hu
 0.0.0.0 dashingdirt.com
 0.0.0.0 dashingsweater.com
 0.0.0.0 data.queryly.com
@@ -13984,6 +14026,7 @@
 0.0.0.0 ecoupons.com
 0.0.0.0 ecpms.net
 0.0.0.0 edgar2al2larngpoer.com
+0.0.0.0 edge.ads.twitch.tv
 0.0.0.0 edge.mdcgate.com
 0.0.0.0 edgeio.com
 0.0.0.0 edublog.pw
@@ -14835,6 +14878,7 @@
 0.0.0.0 memeglobal.com
 0.0.0.0 memorizeneck.com
 0.0.0.0 memorycobweb.com
+0.0.0.0 mentaib.casa
 0.0.0.0 meo257na3rch.com
 0.0.0.0 meowpushnot.com
 0.0.0.0 merzostueru2hu8jr09.com
@@ -15176,6 +15220,7 @@
 0.0.0.0 ozongees.com
 0.0.0.0 p.imgur.com
 0.0.0.0 p.tanx.com
+0.0.0.0 p4r24.eu
 0.0.0.0 padstm.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
@@ -15209,6 +15254,7 @@
 0.0.0.0 pateablyace.com
 0.0.0.0 pauewr4cw2xs5q.com
 0.0.0.0 pay-ads.com
+0.0.0.0 pay4results24.eu
 0.0.0.0 paycounter.com
 0.0.0.0 paypopup.com
 0.0.0.0 payserve.com
@@ -15364,13 +15410,16 @@
 0.0.0.0 profi-para.com
 0.0.0.0 profitablegate.com
 0.0.0.0 profitrumour.com
+0.0.0.0 profitshare.ro
 0.0.0.0 projectwonderful.com
 0.0.0.0 promo.badoink.com
 0.0.0.0 promo.ulust.com
+0.0.0.0 promo.vador.com
 0.0.0.0 promobenef.com
 0.0.0.0 promos.bwin.it
 0.0.0.0 promos.fling.com
 0.0.0.0 promote.pair.com
+0.0.0.0 promotionad.nvcam.net
 0.0.0.0 pronetadvertising.com
 0.0.0.0 propadsviews.com
 0.0.0.0 propbigo.com
@@ -15430,6 +15479,7 @@
 0.0.0.0 puwpush.com
 0.0.0.0 pvclouds.com
 0.0.0.0 pvobumsfxacarh.com
+0.0.0.0 pwieu.com
 0.0.0.0 pwmctl.com
 0.0.0.0 pzhuzlwjiymfos.com
 0.0.0.0 q.azcentral.com
@@ -15587,6 +15637,7 @@
 0.0.0.0 romepoptahul.com
 0.0.0.0 roolgage.com
 0.0.0.0 rose.ixbt.com
+0.0.0.0 rosiedaulos.com
 0.0.0.0 rot.spotsniper.ru
 0.0.0.0 rotabanner.com
 0.0.0.0 rotabol.com
@@ -15625,6 +15676,7 @@
 0.0.0.0 ruwertur.com
 0.0.0.0 rvedfxeljxo.com
 0.0.0.0 rvrpushserv.com
+0.0.0.0 ryeeffortoccupy.com
 0.0.0.0 s2d6.com
 0.0.0.0 safebrowsdv.com
 0.0.0.0 safestgatetocontent.com
@@ -15746,6 +15798,7 @@
 0.0.0.0 skimlinks.com
 0.0.0.0 skimresources.com
 0.0.0.0 skinchmanfred.com
+0.0.0.0 skuasnudish.com
 0.0.0.0 skylink.vn
 0.0.0.0 skynightmidm.com
 0.0.0.0 sleepcartoon.com
@@ -15800,6 +15853,7 @@
 0.0.0.0 speedomizer.com
 0.0.0.0 speedshiftmedia.com
 0.0.0.0 speee-ad.akamaized.net
+0.0.0.0 spewyelks.com
 0.0.0.0 spezialreporte.de
 0.0.0.0 spidersboats.com
 0.0.0.0 spiffymachine.com
@@ -15981,6 +16035,7 @@
 0.0.0.0 tealiumiq.com
 0.0.0.0 tebadu.com
 0.0.0.0 techclicks.net
+0.0.0.0 technotology.com
 0.0.0.0 tedioustooth.com
 0.0.0.0 teenrevenue.com
 0.0.0.0 teenyvolcano.com
@@ -16215,6 +16270,7 @@
 0.0.0.0 utarget.co.uk
 0.0.0.0 utarget.ru
 0.0.0.0 utils.mediageneral.net
+0.0.0.0 utimg.ru
 0.0.0.0 uttermosthobbies.com
 0.0.0.0 uwoaptee.com
 0.0.0.0 uyunad.com
@@ -16418,6 +16474,7 @@
 0.0.0.0 www.ambleads.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.antiadblocksystems.com
+0.0.0.0 www.anymedia.lv
 0.0.0.0 www.apprefaculty.pro
 0.0.0.0 www.asiacpx.com
 0.0.0.0 www.axdsz.pro
@@ -16662,6 +16719,7 @@
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 akuaba.chez.com
 0.0.0.0 analysis.polarisoffice.com
+0.0.0.0 analytic.rollout.io
 0.0.0.0 analytics-au.clickdimensions.com
 0.0.0.0 analytics-ca.clickdimensions.com
 0.0.0.0 analytics-eu.clickdimensions.com
@@ -16826,6 +16884,7 @@
 0.0.0.0 e2.platform88798.com
 0.0.0.0 emltrk.com
 0.0.0.0 ethtrader.de
+0.0.0.0 event.2performant.com
 0.0.0.0 event.condenastdigital.com
 0.0.0.0 event.stat.wedobest.com.cn
 0.0.0.0 event.wedobest.com.cn
@@ -16864,6 +16923,7 @@
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 hairtease.com
 0.0.0.0 hdmtools.com
+0.0.0.0 hitcounter.ru
 0.0.0.0 hitcpm.com
 0.0.0.0 hits.theguardian.com
 0.0.0.0 hitwebcounter.com
@@ -16942,6 +17002,7 @@
 0.0.0.0 mads.dailymail.co.uk
 0.0.0.0 maper.info
 0.0.0.0 masasaudi.com
+0.0.0.0 mautic.bdev.co.th
 0.0.0.0 measure.admiralmarkets.com
 0.0.0.0 media-match.com
 0.0.0.0 mediaforce.com

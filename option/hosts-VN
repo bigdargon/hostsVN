@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 May 2022 11:10 UTC+7
-# Version: 2205051110
-# Blocked: 1.737 domains
+# Last modified: 08 May 2022 17:59 UTC+7
+# Version: 2205081759
+# Blocked: 1.740 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1530,6 +1530,8 @@
 0.0.0.0 quangcao247.com.vn
 0.0.0.0 r.tinmoi24.vn
 0.0.0.0 realclick.vn
+0.0.0.0 s.cntqk.com
+0.0.0.0 s.cntqk.vn
 0.0.0.0 s.giaoducthoidai.vn
 0.0.0.0 sbbanner.com
 0.0.0.0 sda.tamdiem247.com
@@ -1695,6 +1697,7 @@
 0.0.0.0 log.toss.vn
 0.0.0.0 log.trithuctructuyen.com.vn
 0.0.0.0 log.trithuctructuyen.vn
+0.0.0.0 log.tv360.vn
 0.0.0.0 log.vietnamdaily.net.vn
 0.0.0.0 log.vietnamplus.vn
 0.0.0.0 log.viettimes.vn
