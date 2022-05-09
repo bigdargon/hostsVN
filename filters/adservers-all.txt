@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 May 2022 14:24 UTC+7
-! Version: 2205091424
-! Blocked: 7.817 rules
+! Last modified: 09 May 2022 15:30 UTC+7
+! Version: 2205091530
+! Blocked: 7.819 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2237,6 +2237,7 @@
 ||luckyorange.net^
 ||m-adash.m.taobao.com^
 ||m.data.mob.com^
+||m2.ai^
 ||m6r.eu^
 ||mads*z.com^
 ||mahimeta.com^
@@ -4740,6 +4741,7 @@
 ||evergage.com^
 ||everlastingdolphins.com^
 ||evidencecleanergold.com^
+||ewbnlsqthoxdco.com^
 ||ewebcounter.com^
 ||exactag.com^
 ||exactbridge.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 May 2022 14:24 UTC+7
-# Version: 2205091424
-# Blocked: 16.154 domains
+# Last modified: 09 May 2022 15:30 UTC+7
+# Version: 2205091530
+# Blocked: 16.162 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10275,6 +10275,14 @@
 0.0.0.0 go.xlviirdr.com
 0.0.0.0 video.xlviirdr.com
 0.0.0.0 xlviirdr.com
+#[m2.ai]
+0.0.0.0 analytics.m2.ai
+0.0.0.0 analytics2.m2.ai
+0.0.0.0 f.m2.ai
+0.0.0.0 geo.m2.ai
+0.0.0.0 kvp.m2.ai
+0.0.0.0 m2.ai
+0.0.0.0 m2d.m2.ai
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14135,6 +14143,7 @@
 0.0.0.0 evergage.com
 0.0.0.0 everlastingdolphins.com
 0.0.0.0 evidencecleanergold.com
+0.0.0.0 ewbnlsqthoxdco.com
 0.0.0.0 ewebcounter.com
 0.0.0.0 exactag.com
 0.0.0.0 exactbridge.com
