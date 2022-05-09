@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 May 2022 18:27 UTC+7
-# Version: 2205081827
-# Blocked: 16.129 domains
+# Last modified: 09 May 2022 14:24 UTC+7
+# Version: 2205091424
+# Blocked: 16.154 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9201,6 +9201,16 @@
 0 jg.wensixuetang.com
 0 wensixuetang.com
 0 www.wensixuetang.com
+0 cdn.ggsfq.com
+0 ggsfq.com
+0 www.ggsfq.com
+0 adserve.work
+0 cdn.adserve.work
+0 www.adserve.work
+0 creative.xlviirdr.com
+0 go.xlviirdr.com
+0 video.xlviirdr.com
+0 xlviirdr.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10511,6 +10521,7 @@
 0 cdn-ads.thesaigontimes.vn
 0 cdn.bongdadem.net
 0 cdn.rongzhouxing.com
+0 cdn2.cache.vn
 0 chiasephim.xyz
 0 click.vieon.vn
 0 clipbongda.info
@@ -10628,6 +10639,7 @@
 0 www.v9banners.com
 0 www.vietbuzzad.com
 0 www.vietdorje.com
+0 360.anatic.net
 0 a.ladipage.com
 0 a.vtvdigital.vn
 0 addlog.thuvienphapluat.vn
@@ -10678,9 +10690,13 @@
 0 counter.ntdvn.com
 0 counter.ntdvn.net
 0 crm.bizfly.vn
+0 crm.englishtown.edu.vn
 0 crmbizfly.todo.vn
+0 cskh.onlinecrm.vn
+0 digi.vinut.com.vn
 0 elink.nhanlucnganhluat.vn
 0 elogs.vnexpress.net
+0 ema.hostvn.net
 0 event.headlines.pw
 0 f-emc.ngsp.gov.vn
 0 fa.fpt.shop
@@ -10691,6 +10707,7 @@
 0 gtmjs.com
 0 hit.123c.vn
 0 invite.baomoi.com
+0 kh.suno.vn
 0 kv-analytics.kiotviet.vn
 0 la.vietid.net
 0 la.vnbusiness.vn
@@ -10759,6 +10776,9 @@
 0 logs1.reatimes.vn
 0 logsbin.dantri.com.vn
 0 logscafef.channelvn.net
+0 marketing.itgeek.vn
+0 mautic.teky.edu.vn
+0 mkt.hoanghamobile.com
 0 monitor.teko.vn
 0 mto.cgv.vn
 0 myharavan.com
@@ -10840,6 +10860,7 @@
 0 tracking.phunuadong.vn
 0 tracking.tekoapis.com
 0 tracking.tinxe.vn
+0 tracking.tvet-vietnam.org
 0 tracking.vegaid.vn
 0 tracking.vht.com.vn
 0 tracking.vietbao.vn
@@ -13495,6 +13516,7 @@
 0 legolas-media.com
 0 leiki.com
 0 lemmatechnologies.com
+0 leonodikeu9sj10.com
 0 lettucelimit.com
 0 levelrate.de
 0 lfstmedia.com
@@ -14461,6 +14483,7 @@
 0 rutpunishsnitch.com
 0 ruwertur.com
 0 rvedfxeljxo.com
+0 rvkthygqhe.com
 0 rvrpushserv.com
 0 ryeeffortoccupy.com
 0 s2d6.com
@@ -14874,6 +14897,7 @@
 0 ticklesign.com
 0 tidaltv.com
 0 tinybar.com
+0 tipcatscarola.com
 0 tithewtog.com
 0 tizers.net
 0 tkickhhylnvm.com
@@ -14935,6 +14959,8 @@
 0 tracker.icerocket.com
 0 tracking.gajmp.com
 0 tracking.internetstores.de
+0 tracking.redirect.pub
+0 tracking.ucreate.live
 0 tracking101.com
 0 trackingsoft.com
 0 trackmysales.com
@@ -16123,14 +16149,12 @@
 0 events.appsflyer.com
 0 fvalid.appsflyer.com
 0 gcdsdk.appsflyer.com
-0 global.appsflyer.com
 0 hq.appsflyer.com
 0 hq1.appsflyer.com
 0 impression.appsflyer.com
 0 inapps.appsflyer.com
 0 launches.appsflyer.com
 0 monitorsdk.appsflyer.com
-0 newclicks.appsflyer.com
 0 onelink.appsflyer.com
 0 register.appsflyer.com
 0 s2s.appsflyer.com
@@ -16142,3 +16166,4 @@
 0 track.appsflyer.com
 0 validate.appsflyer.com
 0 wa.appsflyer.com
+0 websdk.appsflyer.com

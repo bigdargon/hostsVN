@@ -8,14 +8,12 @@
 0.0.0.0 events.appsflyer.com
 0.0.0.0 fvalid.appsflyer.com
 0.0.0.0 gcdsdk.appsflyer.com
-0.0.0.0 global.appsflyer.com
 0.0.0.0 hq.appsflyer.com
 0.0.0.0 hq1.appsflyer.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 monitorsdk.appsflyer.com
-0.0.0.0 newclicks.appsflyer.com
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 s2s.appsflyer.com
@@ -27,3 +25,4 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 wa.appsflyer.com
+0.0.0.0 websdk.appsflyer.com
