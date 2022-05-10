@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 May 2022 15:30 UTC+7
-# Version: 2205091530
-# Blocked: 16.162 domains
+# Last modified: 10 May 2022 12:09 UTC+7
+# Version: 2205101209
+# Blocked: 16.193 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -618,6 +618,7 @@
 0 jobs.smartadserver.com
 0 mobile.smartadserver.com
 0 preview.smartadserver.com
+0 prg-apac.smartadserver.com
 0 prg.smartadserver.com
 0 prg8.smartadserver.com
 0 rtb-csync.smartadserver.com
@@ -2858,6 +2859,8 @@
 0 hb.vntsm.com
 0 hb-config.vntsm.com
 0 vntsm.com
+0 hb.vntsm.io
+0 vntsm.io
 0 as.innity.com
 0 avd.innity.com
 0 avn.innity.com
@@ -2909,12 +2912,14 @@
 0 eu-u.openx.net
 0 indium.openx.net
 0 jp-u.openx.net
+0 nytimes-d.openx.net
 0 openx.net
 0 r.openx.net
 0 rtb-ca.openx.net
 0 rtb-lc.openx.net
 0 rtb-xa.openx.net
 0 rtb.openx.net
+0 rtbdemand-d.openx.net
 0 sea-u.openx.net
 0 u.openx.net
 0 uk-ads.openx.net
@@ -8734,6 +8739,11 @@
 0 mobile-http-intake.logs.datadoghq.eu
 0 public-trace-http-intake.logs.datadoghq.eu
 0 rum-http-intake.logs.datadoghq.eu
+0 browser-intake-datadoghq.com
+0 logs.browser-intake-datadoghq.com
+0 rum.browser-intake-datadoghq.com
+0 session-replay.browser-intake-datadoghq.com
+0 trace.browser-intake-datadoghq.com
 0 beacon-api.aliyuncs.com
 0 event-tracking-project.ap-southeast-1.log.aliyuncs.com
 0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
@@ -9218,6 +9228,19 @@
 0 kvp.m2.ai
 0 m2.ai
 0 m2d.m2.ai
+0 geoedge.be
+0 rumcdn.geoedge.be
+0 a-reporting.nytimes.com
+0 als-svc.nytimes.com
+0 meter-svc.nytimes.com
+0 a.et.nytimes.com
+0 et.nytimes.com
+0 k.et.nytimes.com
+0 pbs.venatusmedia.com
+0 track.venatusmedia.com
+0 venatusmedia.com
+0 balancer.devtodev.com
+0 statgw.devtodev.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10517,6 +10540,7 @@
 0 apinas.nct.vn
 0 as.gamevui.com
 0 avoadsservices.com
+0 ax.mpapis.xyz
 0 banhtv.org
 0 banner.5giay.vn
 0 banner.etargeting.mobifone.vn
@@ -10687,6 +10711,7 @@
 0 app.hstatic.net
 0 app.sbz.workers.dev
 0 btrack.homedy.com
+0 cdn.api-connect.io
 0 cdn.doke.app
 0 cdn.tekoapis.com
 0 clicker.chiaki.vn
@@ -12640,12 +12665,14 @@
 0 d13k7prax1yi04.cloudfront.net
 0 d15kdpgjg3unno.cloudfront.net
 0 d18t35yyry2k49.cloudfront.net
+0 d1clmik8la8v65.cloudfront.net
 0 d1ezlc9vy4yc7g.cloudfront.net
 0 d1f05vr3sjsuy7.cloudfront.net
 0 d2c8v52ll5s99u.cloudfront.net
 0 d2cmedia.ca
 0 d2j042cj1421wi.cloudfront.net
 0 d2lahoz916es9g.cloudfront.net
+0 d2qnx6y010m4rt.cloudfront.net
 0 d2sbzwmcg5amr3.cloudfront.net
 0 d2ty8gaf6rmowa.cloudfront.net
 0 d2uap9jskdzp2.cloudfront.net
@@ -13026,6 +13053,7 @@
 0 flowgo.com
 0 fluffycodepotc.com
 0 fluffynyasquirell.com
+0 fnyfiexpectth.xyz
 0 foamidsputt.com
 0 focusde.info
 0 fondlecokecombination.com
@@ -13051,6 +13079,7 @@
 0 freestats.tv
 0 freewebcounter.com
 0 frenchequal.pro
+0 freychang.fun
 0 friendlyduck.com
 0 frightenedpotato.com
 0 fryawlauk.com
@@ -14071,6 +14100,7 @@
 0 pauewr4cw2xs5q.com
 0 pay-ads.com
 0 pay4results24.eu
+0 paychat.fuse-cloud.com
 0 paycounter.com
 0 paypopup.com
 0 payserve.com
@@ -14998,6 +15028,7 @@
 0 trahes.site
 0 traktrafficflow.com
 0 tranquilside.com
+0 transmith.xyz
 0 travis.bosscasinos.com
 0 trblocked.com
 0 trekblue.com
@@ -15136,6 +15167,7 @@
 0 viamariller.com
 0 vibrantmedia.com
 0 vidcpm.com
+0 video-serve.com
 0 videoegg.com
 0 videosprofitnetwork.com
 0 vidora.com
@@ -15406,6 +15438,7 @@
 0 www.zekiatagur.com
 0 www.zxc.world
 0 wyjimapsi.pro
+0 wyvpjsfhywm.com
 0 wywy.com
 0 x-traceur.com
 0 x2sfa.javgg.eu
@@ -15726,7 +15759,6 @@
 0 ga.clearbit.com
 0 ga.getresponse.com
 0 ga.kvideo.io
-0 geoedge.be
 0 geoip.nekudo.com
 0 getexceptional.com
 0 getsitecontrol.com
@@ -16031,7 +16063,6 @@
 0 track.starmakerstudios.com
 0 track.td3x.com
 0 track.tenjin.io
-0 track.venatusmedia.com
 0 track.wattpad.com
 0 trackcmp.net
 0 tracker.affirm.com

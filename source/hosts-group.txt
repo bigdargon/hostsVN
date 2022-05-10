@@ -672,6 +672,7 @@
 0.0.0.0 jobs.smartadserver.com
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 preview.smartadserver.com
+0.0.0.0 prg-apac.smartadserver.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 prg8.smartadserver.com
 0.0.0.0 rtb-csync.smartadserver.com
@@ -3103,6 +3104,9 @@
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hb-config.vntsm.com
 0.0.0.0 vntsm.com
+#[vntsm.io]
+0.0.0.0 hb.vntsm.io
+0.0.0.0 vntsm.io
 #[innity.com]
 0.0.0.0 as.innity.com
 0.0.0.0 avd.innity.com
@@ -3159,12 +3163,14 @@
 0.0.0.0 eu-u.openx.net
 0.0.0.0 indium.openx.net
 0.0.0.0 jp-u.openx.net
+0.0.0.0 nytimes-d.openx.net
 0.0.0.0 openx.net
 0.0.0.0 r.openx.net
 0.0.0.0 rtb-ca.openx.net
 0.0.0.0 rtb-lc.openx.net
 0.0.0.0 rtb-xa.openx.net
 0.0.0.0 rtb.openx.net
+0.0.0.0 rtbdemand-d.openx.net
 0.0.0.0 sea-u.openx.net
 0.0.0.0 u.openx.net
 0.0.0.0 uk-ads.openx.net
@@ -9659,6 +9665,12 @@
 0.0.0.0 mobile-http-intake.logs.datadoghq.eu
 0.0.0.0 public-trace-http-intake.logs.datadoghq.eu
 0.0.0.0 rum-http-intake.logs.datadoghq.eu
+#[browser-intake-datadoghq.com]
+0.0.0.0 browser-intake-datadoghq.com
+0.0.0.0 logs.browser-intake-datadoghq.com
+0.0.0.0 rum.browser-intake-datadoghq.com
+0.0.0.0 session-replay.browser-intake-datadoghq.com
+0.0.0.0 trace.browser-intake-datadoghq.com
 #[aliyuncs.com]
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 event-tracking-project.ap-southeast-1.log.aliyuncs.com
@@ -10271,3 +10283,21 @@
 0.0.0.0 kvp.m2.ai
 0.0.0.0 m2.ai
 0.0.0.0 m2d.m2.ai
+#[geoedge.be]
+0.0.0.0 geoedge.be
+0.0.0.0 rumcdn.geoedge.be
+#[nytimes.com]
+0.0.0.0 a-reporting.nytimes.com
+0.0.0.0 als-svc.nytimes.com
+0.0.0.0 meter-svc.nytimes.com
+#[et.nytimes.com]
+0.0.0.0 a.et.nytimes.com
+0.0.0.0 et.nytimes.com
+0.0.0.0 k.et.nytimes.com
+#[venatusmedia.com]
+0.0.0.0 pbs.venatusmedia.com
+0.0.0.0 track.venatusmedia.com
+0.0.0.0 venatusmedia.com
+#[devtodev.com]
+0.0.0.0 balancer.devtodev.com
+0.0.0.0 statgw.devtodev.com

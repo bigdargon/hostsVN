@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 May 2022 15:30 UTC+7
-! Version: 2205091530
-! Blocked: 1.375 rules
+! Last modified: 10 May 2022 12:09 UTC+7
+! Version: 2205101209
+! Blocked: 1.377 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -376,6 +376,7 @@
 ||apinas.nct.vn^
 ||as.gamevui.com^
 ||avoadsservices.com^
+||ax.mpapis.xyz^
 ||banhtv.org^
 ||banner.5giay.vn^
 ||banner.etargeting.mobifone.vn^
@@ -526,6 +527,7 @@
 ||app.hstatic.net^
 ||app.sbz.workers.dev^
 ||btrack.homedy.com^
+||cdn.api-connect.io^
 ||cdn.doke.app^
 ||cdn.tekoapis.com^
 ||clicker.chiaki.vn^
