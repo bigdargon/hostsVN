@@ -62,6 +62,9 @@ cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "HOST-SUFFIX,"$1",REJE
 cat source/config-rule.txt | awk '{print "DOMAIN-KEYWORD,"$1}' > option/hostsVN-surge-rule.conf
 cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' >> option/hostsVN-surge-rule.conf
 
+echo 'payload:' > option/hostsVN-clash-rule.yaml
+cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{print "  - \047+."$1"\047"}' >> option/hostsVN-clash-rule.yaml
+
 # create exceptions rule
 cat tmp/exceptions.tmp | awk '{print "HOST,"$1",DIRECT"}' > option/hostsVN-quantumult-exceptions-rule.conf
 cat tmp/exceptions.tmp | awk '{print "DOMAIN,"$1}' > option/hostsVN-surge-exceptions-rule.conf
