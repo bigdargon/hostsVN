@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 May 2022 12:09 UTC+7
-# Version: 2205101209
-# Blocked: 16.193 domains
+# Last modified: 11 May 2022 14:33 UTC+7
+# Version: 2205111433
+# Blocked: 16.229 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9241,6 +9241,36 @@
 0 venatusmedia.com
 0 balancer.devtodev.com
 0 statgw.devtodev.com
+0 cdn.openinstall.io
+0 res.cdn.openinstall.io
+0 web.cdn.openinstall.io
+0 data.mediaintelligence.de
+0 mediaintelligence.de
+0 www.mediaintelligence.de
+0 cdn.avantisvideo.com
+0 events.avantisvideo.com
+0 ad.jiguang.cn
+0 bj-api.ad.jiguang.cn
+0 gd-api.ad.jiguang.cn
+0 report-stats.ad.jiguang.cn
+0 res-push.ad.jiguang.cn
+0 res.ad.jiguang.cn
+0 asia-stsdk.vivoglobal.com
+0 onrt-stsdk.vivoglobal.com
+0 stsdk.vivoglobal.com
+0 onrt.stsdk.vivoglobal.com
+0 prt.stsdk.vivoglobal.com
+0 asia-compnrt-stsdk.vivoglobal.com
+0 asia-comprt-stsdk.vivoglobal.com
+0 asia-monitor-stsdk.vivoglobal.com
+0 asia-onrt-stsdk.vivoglobal.com
+0 asia-ort-stsdk.vivoglobal.com
+0 asia-pnrt-stsdk.vivoglobal.com
+0 asia-prt-stsdk.vivoglobal.com
+0 adlightning.com
+0 tagan.adlightning.com
+0 beacon.tingyun.com
+0 wkrd.tingyun.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -11290,7 +11320,6 @@
 0 adlantic.nl
 0 adledge.com
 0 adlegend.com
-0 adlightning.com
 0 adlike.com
 0 adlike.net
 0 adlink.de
@@ -12332,6 +12361,7 @@
 0 brightinfo.com
 0 britepool.com
 0 british-banners.com
+0 brmvvjrc.com
 0 broadboundary.com
 0 broadcastbed.com
 0 broaddoor.com
@@ -12649,6 +12679,7 @@
 0 csm.cxpublic.com
 0 cst.cstwpush.com
 0 cubics.com
+0 cuddlethehyena.com
 0 culmedmaumee.com
 0 cumbersomecloud.com
 0 cupidonmedia.com
@@ -12668,6 +12699,7 @@
 0 d1clmik8la8v65.cloudfront.net
 0 d1ezlc9vy4yc7g.cloudfront.net
 0 d1f05vr3sjsuy7.cloudfront.net
+0 d1lzoljld5a2bc.cloudfront.net
 0 d2c8v52ll5s99u.cloudfront.net
 0 d2cmedia.ca
 0 d2j042cj1421wi.cloudfront.net
@@ -13410,6 +13442,7 @@
 0 inuvi.com
 0 inventionpassenger.com
 0 invitesugar.com
+0 inwraptsekane.com
 0 iodideeyebath.cam
 0 ionnmjdsf.com
 0 ipmbnqqaon.com
@@ -15035,6 +15068,7 @@
 0 trekdata.com
 0 tremendoustime.com
 0 tremorvideo.com
+0 trendads.reactivebetting.com
 0 trendcounter.com
 0 trendmd.com
 0 trhunt.com
@@ -15730,6 +15764,7 @@
 0 dnn506yrbagrg.cloudfront.net
 0 do-not-tracker.org
 0 dolohen.com
+0 doug1izaerwt3.cloudfront.net
 0 down.nishuoa.com
 0 dualstack-logs.amap.com
 0 dynatrace.com
@@ -15910,6 +15945,7 @@
 0 pixel.wp.com
 0 pixel.yabidos.com
 0 pixels.truvidplayer.com
+0 pixiedust.buzzfeed.com
 0 pjhku.com
 0 plausible.io
 0 play.leadzutw.com

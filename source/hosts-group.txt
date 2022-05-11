@@ -10301,3 +10301,40 @@
 #[devtodev.com]
 0.0.0.0 balancer.devtodev.com
 0.0.0.0 statgw.devtodev.com
+#[cdn.openinstall.io]
+0.0.0.0 cdn.openinstall.io
+0.0.0.0 res.cdn.openinstall.io
+0.0.0.0 web.cdn.openinstall.io
+#[mediaintelligence.de]
+0.0.0.0 data.mediaintelligence.de
+0.0.0.0 mediaintelligence.de
+0.0.0.0 www.mediaintelligence.de
+#[avantisvideo.com]
+0.0.0.0 cdn.avantisvideo.com
+0.0.0.0 events.avantisvideo.com
+#[ad.jiguang.cn]
+0.0.0.0 ad.jiguang.cn
+0.0.0.0 bj-api.ad.jiguang.cn
+0.0.0.0 gd-api.ad.jiguang.cn
+0.0.0.0 report-stats.ad.jiguang.cn
+0.0.0.0 res-push.ad.jiguang.cn
+0.0.0.0 res.ad.jiguang.cn
+#[stsdk.vivoglobal.com]
+0.0.0.0 asia-stsdk.vivoglobal.com
+0.0.0.0 onrt-stsdk.vivoglobal.com
+0.0.0.0 stsdk.vivoglobal.com
+0.0.0.0 onrt.stsdk.vivoglobal.com
+0.0.0.0 prt.stsdk.vivoglobal.com
+0.0.0.0 asia-compnrt-stsdk.vivoglobal.com
+0.0.0.0 asia-comprt-stsdk.vivoglobal.com
+0.0.0.0 asia-monitor-stsdk.vivoglobal.com
+0.0.0.0 asia-onrt-stsdk.vivoglobal.com
+0.0.0.0 asia-ort-stsdk.vivoglobal.com
+0.0.0.0 asia-pnrt-stsdk.vivoglobal.com
+0.0.0.0 asia-prt-stsdk.vivoglobal.com
+#[adlightning.com]
+0.0.0.0 adlightning.com
+0.0.0.0 tagan.adlightning.com
+#[tingyun.com]
+0.0.0.0 beacon.tingyun.com
+0.0.0.0 wkrd.tingyun.com
