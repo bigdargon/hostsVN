@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 May 2022 10:48 UTC+7
-! Version: 2205121048
-! Blocked: 7.894 rules
+! Last modified: 12 May 2022 11:11 UTC+7
+! Version: 2205121111
+! Blocked: 7.896 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1455,6 +1455,7 @@
 ||aan.amazon.com^
 ||aarth.net^
 ||aatkit.com^
+||aax-us-east-retail-direct.amazon.com^
 ||aaxads.com^
 ||accengage.com^
 ||accesstrade.net^
@@ -1998,7 +1999,8 @@
 ||deltadna.net^
 ||demandbase.com^
 ||deployads.com^
-||device-metrics-*.amazon.com^
+||device-metrics-us-2.amazon.com^
+||device-metrics-us.amazon.com^
 ||dewrain.life^
 ||dewrain.site^
 ||dewrain.world^
