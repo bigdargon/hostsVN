@@ -404,12 +404,14 @@
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 #[a2z.com]
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
+0.0.0.0 metrics.client-eng.a2z.com
+#[analytics.console.aws.a2z.com]
 0.0.0.0 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-2.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-west-2.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.prod.pw.analytics.console.aws.a2z.com
-0.0.0.0 metrics.client-eng.a2z.com
+#[telemetry.insights.video.a2z.com]
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-1.telemetry.insights.video.a2z.com
 #[tumblr]
@@ -8156,6 +8158,7 @@
 #[pinterest.com]
 0.0.0.0 ads.pinterest.com
 0.0.0.0 analytics.pinterest.com
+0.0.0.0 ct.pinterest.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk2.pinterest.com
@@ -8505,12 +8508,16 @@
 0.0.0.0 js.smac-ad.com
 0.0.0.0 smac-ad.com
 0.0.0.0 www.smac-ad.com
-#[ads.truecaller.com]
+#[truecaller.com]
 0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 ads.truecaller.com
 0.0.0.0 ads5-eu.truecaller.com
 0.0.0.0 ads5-noneu.truecaller.com
 0.0.0.0 ads5.truecaller.com
+0.0.0.0 batchlogging4-eu.truecaller.com
+0.0.0.0 batchlogging4-noneu.truecaller.com
+0.0.0.0 batchlogging4.truecaller.com
+0.0.0.0 pushid-noneu.truecaller.com
 #[appboycdn.com]
 0.0.0.0 appboycdn.com
 0.0.0.0 assets.appboycdn.com
