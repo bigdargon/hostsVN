@@ -457,6 +457,7 @@
 0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 sp-ycpi.analytics.yahoo.com
 0.0.0.0 sp.analytics.yahoo.com
+0.0.0.0 tag.idsync.analytics.yahoo.com
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 www.analytics.yahoo.com
 #[ads.yahoo.com]
@@ -481,6 +482,7 @@
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 n.gemini.yahoo.com
+0.0.0.0 sg3.beap.gemini.yahoo.com
 0.0.0.0 ssp.gemini.yahoo.com
 #[pclick.yahoo.com]
 0.0.0.0 pclick.yahoo.com
