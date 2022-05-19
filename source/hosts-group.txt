@@ -10351,3 +10351,66 @@
 #[tingyun.com]
 0.0.0.0 beacon.tingyun.com
 0.0.0.0 wkrd.tingyun.com
+#[pbbl.co]
+0.0.0.0 api.pbbl.co
+0.0.0.0 cdn.pbbl.co
+0.0.0.0 daa.pbbl.co
+0.0.0.0 pbbl.co
+0.0.0.0 px0.pbbl.co
+0.0.0.0 pxl.pbbl.co
+0.0.0.0 www.pbbl.co
+#[4cinsights.com]
+0.0.0.0 4cinsights.com
+0.0.0.0 go.4cinsights.com
+0.0.0.0 idea.4cinsights.com
+0.0.0.0 px2.4cinsights.com
+0.0.0.0 www.4cinsights.com
+#[marchex.io]
+0.0.0.0 marchex.io
+0.0.0.0 px.marchex.io
+#[havasedge.com]
+0.0.0.0 cookie.havasedge.com
+0.0.0.0 event.havasedge.com
+0.0.0.0 havasedge.com
+0.0.0.0 tag.havasedge.com
+#[fwmrm.net]
+0.0.0.0 adm.fwmrm.net
+0.0.0.0 adsservice-external.v.fwmrm.net
+0.0.0.0 cue.v.fwmrm.net
+0.0.0.0 dmp.v.fwmrm.net
+0.0.0.0 fwmrm.net
+0.0.0.0 g1.v.fwmrm.net
+0.0.0.0 g11v.prd.ads.aws.fwmrm.net
+0.0.0.0 gslb-aws-us-east-02.v.fwmrm.net
+0.0.0.0 hls.v.fwmrm.net
+#[entravision.com]
+0.0.0.0 entravision.com
+0.0.0.0 webservices3.entravision.com
+0.0.0.0 www.entravision.com
+#[js7k.com]
+0.0.0.0 cdn.js7k.com
+0.0.0.0 js7k.com
+0.0.0.0 www.js7k.com
+#[c59538e98c.com]
+0.0.0.0 c59538e98c.com
+0.0.0.0 9e0bb4f10a.c59538e98c.com
+#[rbl.ms]
+0.0.0.0 pages-stats.rbl.ms
+0.0.0.0 res.rbl.ms
+0.0.0.0 user-stats.rbl.ms
+#[hprofits.com]
+0.0.0.0 ertb.hprofits.com
+0.0.0.0 hprofits.com
+0.0.0.0 rtb.hprofits.com
+0.0.0.0 stats.hprofits.com
+0.0.0.0 www.hprofits.com
+#[newrelic.com]
+0.0.0.0 insights-collector.newrelic.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 log-api.newrelic.com
+0.0.0.0 metric-api.eu.newrelic.com
+0.0.0.0 metric-api.newrelic.com
+0.0.0.0 mobile-collector.newrelic.com
+#[metricswpsh.com]
+0.0.0.0 metricswpsh.com
+0.0.0.0 fp.metricswpsh.com
