@@ -9536,8 +9536,10 @@
 0.0.0.0 vt.adition.com
 0.0.0.0 www.adition.com
 #[perimeterx.net]
+0.0.0.0 client.perimeterx.net
 0.0.0.0 collector-px4176swub.perimeterx.net
 0.0.0.0 collector-pxuarm9b04.perimeterx.net
+0.0.0.0 perimeterx.net
 0.0.0.0 px-conf.perimeterx.net
 #[clevernt.com]
 0.0.0.0 are.clevernt.com
@@ -9812,6 +9814,7 @@
 0.0.0.0 logservice-dra.platform.hicloud.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 metrics-dra.dt.hicloud.com
+0.0.0.0 metrics.data.hicloud.com
 #[yourwebbars.com]
 0.0.0.0 cdn.yourwebbars.com
 0.0.0.0 yourwebbars.com
@@ -10103,9 +10106,6 @@
 0.0.0.0 staging-pub.themediagrid.com
 0.0.0.0 themediagrid.com
 0.0.0.0 www.themediagrid.com
-#[20239be1ae.com]
-0.0.0.0 20239be1ae.com
-0.0.0.0 2431bce671.20239be1ae.com
 #[wzrkt.com]
 0.0.0.0 eu1.wzrkt.com
 0.0.0.0 in1.wzrkt.com
@@ -10127,15 +10127,6 @@
 0.0.0.0 c.statcounter.com
 0.0.0.0 statcounter.com
 0.0.0.0 www.statcounter.com
-#[dc1c6c157e.com]
-0.0.0.0 dc1c6c157e.com
-0.0.0.0 33b9b88162.dc1c6c157e.com
-#[1d354c1645.com]
-0.0.0.0 1d354c1645.com
-0.0.0.0 f4733d7c73.1d354c1645.com
-#[e0d4e3650c.com]
-0.0.0.0 e0d4e3650c.com
-0.0.0.0 0696e8978a.e0d4e3650c.com
 #[disqus.com]
 0.0.0.0 referrer.disqus.com
 0.0.0.0 links.services.disqus.com
@@ -10155,9 +10146,6 @@
 0.0.0.0 api.reproio.com
 0.0.0.0 cdn.reproio.com
 0.0.0.0 reproio.com
-#[593e7fec57.com]
-0.0.0.0 593e7fec57.com
-0.0.0.0 d9a902a337.593e7fec57.com
 #[1ts18.top]
 0.0.0.0 1ts18.top
 0.0.0.0 p.1ts18.top
@@ -10187,9 +10175,6 @@
 #[pushmaster-cdn.xyz]
 0.0.0.0 cdn.pushmaster-cdn.xyz
 0.0.0.0 pushmaster-cdn.xyz
-#[856f639e2a.com]
-0.0.0.0 856f639e2a.com
-0.0.0.0 c5b6f5b3b0.856f639e2a.com
 #[imhd.io]
 0.0.0.0 cdn.imhd.io
 0.0.0.0 imhd.io
@@ -10221,9 +10206,6 @@
 #[tm-awx.com]
 0.0.0.0 collect.data.tm-awx.com
 0.0.0.0 felix.data.tm-awx.com
-#[7d9bbf7e5b.com]
-0.0.0.0 7d9bbf7e5b.com
-0.0.0.0 322c318d55.7d9bbf7e5b.com
 #[tapdb.com]
 0.0.0.0 beta.tapdb.com
 0.0.0.0 l.tapdb.com
@@ -10246,12 +10228,6 @@
 #[tiqcdn.com]
 0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags.tiqcdn.com
-#[55a70c5ade.com]
-0.0.0.0 55a70c5ade.com
-0.0.0.0 72c73fef76.55a70c5ade.com
-#[d2e48d0dce.com]
-0.0.0.0 d2e48d0dce.com
-0.0.0.0 91dacd27c8.d2e48d0dce.com
 #[maio.jp]
 0.0.0.0 maio.jp
 0.0.0.0 media-api.maio.jp
@@ -10262,9 +10238,6 @@
 #[ads-pixiv.net]
 0.0.0.0 ads-pixiv.net
 0.0.0.0 pixon.ads-pixiv.net
-#[60b8fe6ea3.com]
-0.0.0.0 60b8fe6ea3.com
-0.0.0.0 5265c011ae.60b8fe6ea3.com
 #[readpeak.com]
 0.0.0.0 app.readpeak.com
 0.0.0.0 readpeak.com
@@ -10391,9 +10364,6 @@
 0.0.0.0 cdn.js7k.com
 0.0.0.0 js7k.com
 0.0.0.0 www.js7k.com
-#[c59538e98c.com]
-0.0.0.0 c59538e98c.com
-0.0.0.0 9e0bb4f10a.c59538e98c.com
 #[rbl.ms]
 0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 res.rbl.ms
@@ -10414,3 +10384,31 @@
 #[metricswpsh.com]
 0.0.0.0 metricswpsh.com
 0.0.0.0 fp.metricswpsh.com
+#[samsungads.com]
+0.0.0.0 ads.samsungads.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 dsp.samsungads.com
+0.0.0.0 events.samsungads.com
+0.0.0.0 samsungads.com
+#[samsungacr.com]
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 log-ingestion-eu.samsungacr.com
+0.0.0.0 log-ingestion.samsungacr.com
+0.0.0.0 samsungacr.com
+#[samsungadhub.com]
+0.0.0.0 ad.samsungadhub.com
+0.0.0.0 samsungadhub.com
+#[samsungtvads.com]
+0.0.0.0 qa.samsungtvads.com
+0.0.0.0 samsungtvads.com
+0.0.0.0 v2.samsungtvads.com
+#[samsung.com]
+0.0.0.0 insights.samsung.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 target-us.samsung.com
+#[nc0.co]
+0.0.0.0 edge-geo.nc0.co
+0.0.0.0 nc0.co
+0.0.0.0 pixel.nc0.co
+0.0.0.0 t.nc0.co
