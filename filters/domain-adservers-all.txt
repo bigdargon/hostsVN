@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 12 May 2022 11:11 UTC+7
-! Version: 2205121111
-! Blocked: 7.896 domains
+! Last modified: 22 May 2022 22:35 UTC+7
+! Version: 2205222235
+! Blocked: 7.927 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -942,6 +942,7 @@ fivevn.net
 fun1118.com
 fun705.com
 fun7778.com
+fun881211.com
 funtructuyen88.com
 game88.pro
 gameb52.live
@@ -1422,10 +1423,8 @@ y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0i0i0i0.com
 152media.com
-1d354c1645.com
 1rx.io
 1ts18.top
-20239be1ae.com
 24smi.net
 2leep.com
 2mdnsys.com
@@ -1433,15 +1432,11 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 360in.com
 360yield.com
 3lift.com
+4cinsights.com
 4dex.io
 4dsply.com
 51.la
-55a70c5ade.com
-593e7fec57.com
-60b8fe6ea3.com
-7d9bbf7e5b.com
 7fb60feaa4.com
-856f639e2a.com
 a-ads.com
 a-mo.net
 a-reporting.nytimes.com
@@ -1819,6 +1814,9 @@ bannersnack.com
 bannertrack.net
 bat.bing.com
 batch.com
+batchlogging4-eu.truecaller.com
+batchlogging4-noneu.truecaller.com
+batchlogging4.truecaller.com
 batmobi.net
 bats.video.yahoo.com
 beacon-api.aliyuncs.com
@@ -1896,7 +1894,10 @@ cdn.avantisvideo.com
 cdn.dynamicyield.com
 cdn.openinstall.io
 cdn.optimizely.com
+cdn12359286.ahacdn.me
+cdn28786515.ahacdn.me
 cdn3.optimizely.com
+cdn44221613.ahacdn.me
 cdnads.com
 cdnativepush.com
 cdnaz.win
@@ -1939,7 +1940,6 @@ collect.igodigital.com
 collecticon.outlookmobile.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
-collector-*.perimeterx.net
 collector-*.tvsquared.com
 collector-*.us.tvsquared.com
 confiant-integrations.global.ssl.fastly.net
@@ -1969,6 +1969,7 @@ crs-event.line.me
 crs-hometab-event.line.me
 crsspxl.com
 crwdcntrl.net
+ct.pinterest.com
 ctnsnet.com
 customad.cnn.com
 cxense.com
@@ -1978,7 +1979,6 @@ d1v373ntykegkp.cloudfront.net
 d2-apps.net
 d26tbbq8zqdi4v.cloudfront.net
 d2dq2ahtl5zl1z.cloudfront.net
-d2e48d0dce.com
 d2r173wcohmi6.cloudfront.net
 d2wbr3tthrn9lu.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
@@ -1988,11 +1988,10 @@ d5nxst8fruw4z.cloudfront.net
 data.mistat.intl.xiaomi.com
 data.sec.intl.miui.com
 data.sec.miui.com
-datacollector-*.dt.hicloud.com
+datacollector-dra.dt.hicloud.com
 datawrkz.com
 dc-int.services.visualstudio.com
 dc.services.visualstudio.com
-dc1c6c157e.com
 deepintent.com
 deltadna.net
 demandbase.com
@@ -2033,7 +2032,6 @@ du8783wkf05yr.cloudfront.net
 duapps.com
 e-volution.ai
 e.qq.com
-e0d4e3650c.com
 easyads28.info
 eclick.baidu.com
 effectivemeasure.net
@@ -2042,6 +2040,7 @@ em.dynamicyield.com
 ematicsolutions.com
 emxdgt.com
 engageya.com
+entravision.com
 eoapxl.com
 epom.com
 erne.co
@@ -2051,8 +2050,8 @@ ethicalads.io
 event-stream.spot.im
 eventgateway.soundcloud.com
 eventlogger.soundcloud.com
-events-*.op.hicloud.com
 events-collector.spot.im
+events-dra.op.hicloud.com
 events.avantisvideo.com
 everesttech.net
 evidon.com
@@ -2098,6 +2097,7 @@ fqtag.com
 freeskreen.com
 freshmarketer.com
 fs-client-logger.herokuapp.com
+fwmrm.net
 fyber.com
 gads*s.com
 gads*z.com
@@ -2146,6 +2146,7 @@ h-adashx.ut.taobao.com
 h-adashx4ae.ut.taobao.com
 h-adashx4sg.ut.taobao.com
 hads*s.com
+havasedge.com
 headerlift.com
 heapanalytics.com
 heatmap.it
@@ -2164,6 +2165,7 @@ hmma.baidu.com
 hostedprebid.com
 hotjar.com
 hotjar.io
+hprofits.com
 hs-analytics.net
 hs-banner.com
 hs-scripts.com
@@ -2211,6 +2213,8 @@ innovid.com
 inorbitad.com
 insight.ucweb.com
 insightexpressai.com
+insights-collector.newrelic.com
+insights.samsung.com
 inspectlet.com
 instant.page
 instapagemetrics.com
@@ -2230,6 +2234,8 @@ jads.co
 jampp.com
 jpush.cn
 jpush.io
+js-agent.newrelic.com
+js7k.com
 jscount.com
 jsecoin.com
 juggler.services.disqus.com
@@ -2262,6 +2268,7 @@ linksynergy.com
 livetracker.*.pangea-cms.com
 lkqd.net
 localytics.com
+log-api.newrelic.com
 log-global.aliyuncs.com
 log.aliyuncs.com
 log.avlyun.sec.intl.miui.com
@@ -2278,7 +2285,7 @@ logrocket.io
 logs.datadoghq.com
 logs.datadoghq.eu
 logsdk.qq.com
-logservice-*.platform.hicloud.com
+logservice-dra.platform.hicloud.com
 logservice.hicloud.com
 logsss.com
 logssug.ucweb.com
@@ -2297,6 +2304,7 @@ mahimeta.com
 mail-ads.google.com
 mainadv.com
 maio.jp
+marchex.io
 marfeel.com
 marinsm.com
 marketgid.com
@@ -2328,13 +2336,17 @@ mellowads.b-cdn.net
 mellowads.com
 meter-svc.nytimes.com
 metok.sys.miui.com
-metrics-*.dt.hicloud.com
+metric-api.eu.newrelic.com
+metric-api.newrelic.com
+metrics-dra.dt.hicloud.com
 metrics-logger.spot.im
 metrics.client-eng.a2z.com
 metrics.cnn.com
+metrics.data.hicloud.com
 metrics.icloud.com
 metrics.mzstatic.com
 metrics.samba.tv
+metricswpsh.com
 metrika.yandex.ru
 mfadsrvr.com
 mgid.com
@@ -2357,6 +2369,7 @@ mobads.baidu.com
 mobclix.com
 mobfox.com
 mobile-10.com
+mobile-collector.newrelic.com
 mobileads.msn.com
 mobileanalytics.*.amazonaws.com
 mobileapptracking.com
@@ -2385,6 +2398,7 @@ n*adserv.xyz
 navdmp.com
 nawpush.com
 nbryb.com
+nc0.co
 ncaudienceexchange.com
 nelo2-col.linecorp.com
 nend.net
@@ -2395,12 +2409,14 @@ newsmaxfeednetwork.com
 nexage.com
 ninthdecimal.com
 nixozz.com
+nmetrics.samsung.com
 nol.yahoo.com
 notes-analytics-events.apple.com
 nr-data.net
 nrich.ai
 ns1p.net
 nsclick.baidu.com
+ntvpforever.com
 nxtck.com
 o-s.io
 o333o.com
@@ -2435,6 +2451,7 @@ p.trvdp.com
 pagead-googlehosted.l.google.com
 pagead-tpc.l.google.com
 pagead.l.google.com
+pages-stats.rbl.ms
 pangle.io
 parkingcrew.net
 parrable.com
@@ -2442,10 +2459,12 @@ parsely.com
 participants.evolv.ai
 partnerad.l.google.com
 partnerads.ysm.yahoo.com
+pbbl.co
 pclick.yahoo.com
 pclk.name
 pendo.io
 pepperjam.com
+perimeterx.net
 permutive.com
 persona.ly
 petametrics.com
@@ -2501,10 +2520,10 @@ puds.ucweb.com
 purpleads.io
 pushalert.co
 pushcrew.com
+pushid-noneu.truecaller.com
 pushmaster-cdn.xyz
 pushwoosh.com
 pvmax.net
-px-conf.perimeterx.net
 px-eu.dynamicyield.com
 px-intl.ucweb.com
 px.dynamicyield.com
@@ -2534,6 +2553,7 @@ report.qq.com
 reproio.com
 res-ad-kr.kajicam.com
 res-ad.kajicam.com
+res.rbl.ms
 resonate.com
 rest.dynamicyield.com
 revcontent.com
@@ -2571,6 +2591,10 @@ sads*z.com
 sail-horizon.com
 salesmanago.pl
 sam.msn.com
+samsungacr.com
+samsungadhub.com
+samsungads.com
+samsungtvads.com
 scanscout.com
 scarabresearch.com
 scorecardresearch.com
@@ -2610,6 +2634,7 @@ smartadserver.com
 smartlook.com
 smartnews-ads.com
 smetrics.cnn.com
+smetrics.samsung.com
 smrtb.com
 snapads.com
 snigelweb.com
@@ -2673,6 +2698,7 @@ tapdb.net
 tapjoy.com
 tapjoyads.com
 taplytics.com
+target-us.samsung.com
 target.microsoft.com
 taxel.jp
 tblog-*.kgslb.com
@@ -2748,6 +2774,7 @@ uprimp.com
 upsight.com
 urlhausa.com
 useinsider.com
+user-stats.rbl.ms
 userreport.com
 usp1.baidu.com
 uts-front.line-apps.com
@@ -3427,7 +3454,6 @@ ads.redlightcenter.com
 ads.rekmob.com
 ads.roblox.com
 ads.rpgdot.com
-ads.samsungads.com
 ads.scifi.com
 ads.seniorfriendfinder.com
 ads.sexinyourcity.com
@@ -5512,7 +5538,6 @@ mancehostic.site
 manfjgo2jgb8mg09.com
 manivalyrid.com
 marchex.com
-marchex.io
 markedcrayon.com
 markedpail.com
 market-buster.com
@@ -6394,7 +6419,6 @@ salinasbhut.com
 saltinourhairtv.com
 salutationcheerlessdemote.com
 samplerpouch.com
-samsungads.com
 sandsitedrhec.club
 satisfycork.com
 saysidewalk.com
@@ -7383,7 +7407,6 @@ ati-host.net
 axmtrack.com
 bafuhotel.com
 bango.net
-batchlogging4.truecaller.com
 beacon.errorception.com
 beacon.gu-web.net
 beacon.riskified.com
@@ -7531,13 +7554,11 @@ incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
 infinityid.condenastdigital.com
 inside-graph.com
-insights-collector.newrelic.com
 intake-analytics.wikimedia.org
 intent.cbsi.com
 invitejs.trustpilot.com
 invoca.net
 iovation.com
-js-agent.newrelic.com
 js.hscollectedforms.net
 js.hsleadflows.net
 jsonip.com
@@ -7602,7 +7623,6 @@ metrics.sdkbox.com
 mktoresp.com
 mlog.appguard.co.kr
 moatpixel.com
-mobile-collector.newrelic.com
 mobiletelemetry.ebay.com
 monitoring.youronlinechoices.com
 montacarichi.it
@@ -7636,7 +7656,6 @@ pix.nbcuni.com
 pixanalytics.pixnet.net
 pixanalytics2.pixnet.net
 pixel.condenastdigital.com
-pixel.nc0.co
 pixel.s3xified.com
 pixel.voltn.com
 pixel.wp.com
@@ -7853,8 +7872,6 @@ widget.trustpilot.com
 wieistmeineip.de
 worldgravity.com
 wren.condenastdigital.com
-wsapi-global.master.live
-wsapi.master.live
 wt.soundestlink.com
 wurfl.io
 x.disq.us
@@ -7899,3 +7916,17 @@ view-appleid.com
 zhangtom1989.cn
 connect.facebook.net
 appsflyer.com
+12e42de17f.com
+1d354c1645.com
+20239be1ae.com
+55a70c5ade.com
+593e7fec57.com
+60b8fe6ea3.com
+7d9bbf7e5b.com
+856f639e2a.com
+92333cc277.com
+c59538e98c.com
+d2e48d0dce.com
+d6740c1a30.com
+dc1c6c157e.com
+e0d4e3650c.com

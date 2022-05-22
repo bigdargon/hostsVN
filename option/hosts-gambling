@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 12 May 2022 11:11 UTC+7
-# Version: 2205121111
-# Blocked: 3.778 domains
+# Last modified: 22 May 2022 22:35 UTC+7
+# Version: 2205222235
+# Blocked: 3.779 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1531,6 +1531,8 @@
 0.0.0.0 88new.cc
 0.0.0.0 api.88new.cc
 0.0.0.0 www.88new.cc
+0.0.0.0 fun881211.com
+0.0.0.0 www.fun881211.com
 # --- Block other gameblingVN ---
 0.0.0.0 978bet3.com
 0.0.0.0 www.978bet3.com
@@ -2771,7 +2773,6 @@
 0.0.0.0 ceocus.com
 0.0.0.0 cmukpla.com
 0.0.0.0 cnnappasla.com
-0.0.0.0 co.uk
 0.0.0.0 colourcee.com
 0.0.0.0 colourher.com
 0.0.0.0 colourhim.com

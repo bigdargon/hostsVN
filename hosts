@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 May 2022 11:11 UTC+7
-# Version: 2205121111
-# Blocked: 16.238 domains
+# Last modified: 22 May 2022 22:35 UTC+7
+# Version: 2205222235
+# Blocked: 16.318 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -416,12 +416,14 @@
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 #[a2z.com]
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
+0.0.0.0 metrics.client-eng.a2z.com
+#[analytics.console.aws.a2z.com]
 0.0.0.0 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-2.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-west-2.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.prod.pw.analytics.console.aws.a2z.com
-0.0.0.0 metrics.client-eng.a2z.com
+#[telemetry.insights.video.a2z.com]
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-1.telemetry.insights.video.a2z.com
 #[tumblr]
@@ -467,6 +469,7 @@
 0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 sp-ycpi.analytics.yahoo.com
 0.0.0.0 sp.analytics.yahoo.com
+0.0.0.0 tag.idsync.analytics.yahoo.com
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 www.analytics.yahoo.com
 #[ads.yahoo.com]
@@ -491,6 +494,7 @@
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 n.gemini.yahoo.com
+0.0.0.0 sg3.beap.gemini.yahoo.com
 0.0.0.0 ssp.gemini.yahoo.com
 #[pclick.yahoo.com]
 0.0.0.0 pclick.yahoo.com
@@ -8168,6 +8172,7 @@
 #[pinterest.com]
 0.0.0.0 ads.pinterest.com
 0.0.0.0 analytics.pinterest.com
+0.0.0.0 ct.pinterest.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk2.pinterest.com
@@ -8517,12 +8522,16 @@
 0.0.0.0 js.smac-ad.com
 0.0.0.0 smac-ad.com
 0.0.0.0 www.smac-ad.com
-#[ads.truecaller.com]
+#[truecaller.com]
 0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 ads.truecaller.com
 0.0.0.0 ads5-eu.truecaller.com
 0.0.0.0 ads5-noneu.truecaller.com
 0.0.0.0 ads5.truecaller.com
+0.0.0.0 batchlogging4-eu.truecaller.com
+0.0.0.0 batchlogging4-noneu.truecaller.com
+0.0.0.0 batchlogging4.truecaller.com
+0.0.0.0 pushid-noneu.truecaller.com
 #[appboycdn.com]
 0.0.0.0 appboycdn.com
 0.0.0.0 assets.appboycdn.com
@@ -9539,8 +9548,10 @@
 0.0.0.0 vt.adition.com
 0.0.0.0 www.adition.com
 #[perimeterx.net]
+0.0.0.0 client.perimeterx.net
 0.0.0.0 collector-px4176swub.perimeterx.net
 0.0.0.0 collector-pxuarm9b04.perimeterx.net
+0.0.0.0 perimeterx.net
 0.0.0.0 px-conf.perimeterx.net
 #[clevernt.com]
 0.0.0.0 are.clevernt.com
@@ -9815,6 +9826,7 @@
 0.0.0.0 logservice-dra.platform.hicloud.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 metrics-dra.dt.hicloud.com
+0.0.0.0 metrics.data.hicloud.com
 #[yourwebbars.com]
 0.0.0.0 cdn.yourwebbars.com
 0.0.0.0 yourwebbars.com
@@ -10106,9 +10118,6 @@
 0.0.0.0 staging-pub.themediagrid.com
 0.0.0.0 themediagrid.com
 0.0.0.0 www.themediagrid.com
-#[20239be1ae.com]
-0.0.0.0 20239be1ae.com
-0.0.0.0 2431bce671.20239be1ae.com
 #[wzrkt.com]
 0.0.0.0 eu1.wzrkt.com
 0.0.0.0 in1.wzrkt.com
@@ -10130,15 +10139,6 @@
 0.0.0.0 c.statcounter.com
 0.0.0.0 statcounter.com
 0.0.0.0 www.statcounter.com
-#[dc1c6c157e.com]
-0.0.0.0 dc1c6c157e.com
-0.0.0.0 33b9b88162.dc1c6c157e.com
-#[1d354c1645.com]
-0.0.0.0 1d354c1645.com
-0.0.0.0 f4733d7c73.1d354c1645.com
-#[e0d4e3650c.com]
-0.0.0.0 e0d4e3650c.com
-0.0.0.0 0696e8978a.e0d4e3650c.com
 #[disqus.com]
 0.0.0.0 referrer.disqus.com
 0.0.0.0 links.services.disqus.com
@@ -10158,9 +10158,6 @@
 0.0.0.0 api.reproio.com
 0.0.0.0 cdn.reproio.com
 0.0.0.0 reproio.com
-#[593e7fec57.com]
-0.0.0.0 593e7fec57.com
-0.0.0.0 d9a902a337.593e7fec57.com
 #[1ts18.top]
 0.0.0.0 1ts18.top
 0.0.0.0 p.1ts18.top
@@ -10190,9 +10187,6 @@
 #[pushmaster-cdn.xyz]
 0.0.0.0 cdn.pushmaster-cdn.xyz
 0.0.0.0 pushmaster-cdn.xyz
-#[856f639e2a.com]
-0.0.0.0 856f639e2a.com
-0.0.0.0 c5b6f5b3b0.856f639e2a.com
 #[imhd.io]
 0.0.0.0 cdn.imhd.io
 0.0.0.0 imhd.io
@@ -10224,9 +10218,6 @@
 #[tm-awx.com]
 0.0.0.0 collect.data.tm-awx.com
 0.0.0.0 felix.data.tm-awx.com
-#[7d9bbf7e5b.com]
-0.0.0.0 7d9bbf7e5b.com
-0.0.0.0 322c318d55.7d9bbf7e5b.com
 #[tapdb.com]
 0.0.0.0 beta.tapdb.com
 0.0.0.0 l.tapdb.com
@@ -10249,12 +10240,6 @@
 #[tiqcdn.com]
 0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags.tiqcdn.com
-#[55a70c5ade.com]
-0.0.0.0 55a70c5ade.com
-0.0.0.0 72c73fef76.55a70c5ade.com
-#[d2e48d0dce.com]
-0.0.0.0 d2e48d0dce.com
-0.0.0.0 91dacd27c8.d2e48d0dce.com
 #[maio.jp]
 0.0.0.0 maio.jp
 0.0.0.0 media-api.maio.jp
@@ -10265,9 +10250,6 @@
 #[ads-pixiv.net]
 0.0.0.0 ads-pixiv.net
 0.0.0.0 pixon.ads-pixiv.net
-#[60b8fe6ea3.com]
-0.0.0.0 60b8fe6ea3.com
-0.0.0.0 5265c011ae.60b8fe6ea3.com
 #[readpeak.com]
 0.0.0.0 app.readpeak.com
 0.0.0.0 readpeak.com
@@ -10354,6 +10336,94 @@
 #[tingyun.com]
 0.0.0.0 beacon.tingyun.com
 0.0.0.0 wkrd.tingyun.com
+#[pbbl.co]
+0.0.0.0 api.pbbl.co
+0.0.0.0 cdn.pbbl.co
+0.0.0.0 daa.pbbl.co
+0.0.0.0 pbbl.co
+0.0.0.0 px0.pbbl.co
+0.0.0.0 pxl.pbbl.co
+0.0.0.0 www.pbbl.co
+#[4cinsights.com]
+0.0.0.0 4cinsights.com
+0.0.0.0 go.4cinsights.com
+0.0.0.0 idea.4cinsights.com
+0.0.0.0 px2.4cinsights.com
+0.0.0.0 www.4cinsights.com
+#[marchex.io]
+0.0.0.0 marchex.io
+0.0.0.0 px.marchex.io
+#[havasedge.com]
+0.0.0.0 cookie.havasedge.com
+0.0.0.0 event.havasedge.com
+0.0.0.0 havasedge.com
+0.0.0.0 tag.havasedge.com
+#[fwmrm.net]
+0.0.0.0 adm.fwmrm.net
+0.0.0.0 adsservice-external.v.fwmrm.net
+0.0.0.0 cue.v.fwmrm.net
+0.0.0.0 dmp.v.fwmrm.net
+0.0.0.0 fwmrm.net
+0.0.0.0 g1.v.fwmrm.net
+0.0.0.0 g11v.prd.ads.aws.fwmrm.net
+0.0.0.0 gslb-aws-us-east-02.v.fwmrm.net
+0.0.0.0 hls.v.fwmrm.net
+#[entravision.com]
+0.0.0.0 entravision.com
+0.0.0.0 webservices3.entravision.com
+0.0.0.0 www.entravision.com
+#[js7k.com]
+0.0.0.0 cdn.js7k.com
+0.0.0.0 js7k.com
+0.0.0.0 www.js7k.com
+#[rbl.ms]
+0.0.0.0 pages-stats.rbl.ms
+0.0.0.0 res.rbl.ms
+0.0.0.0 user-stats.rbl.ms
+#[hprofits.com]
+0.0.0.0 ertb.hprofits.com
+0.0.0.0 hprofits.com
+0.0.0.0 rtb.hprofits.com
+0.0.0.0 stats.hprofits.com
+0.0.0.0 www.hprofits.com
+#[newrelic.com]
+0.0.0.0 insights-collector.newrelic.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 log-api.newrelic.com
+0.0.0.0 metric-api.eu.newrelic.com
+0.0.0.0 metric-api.newrelic.com
+0.0.0.0 mobile-collector.newrelic.com
+#[metricswpsh.com]
+0.0.0.0 metricswpsh.com
+0.0.0.0 fp.metricswpsh.com
+#[samsungads.com]
+0.0.0.0 ads.samsungads.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 dsp.samsungads.com
+0.0.0.0 events.samsungads.com
+0.0.0.0 samsungads.com
+#[samsungacr.com]
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 log-ingestion-eu.samsungacr.com
+0.0.0.0 log-ingestion.samsungacr.com
+0.0.0.0 samsungacr.com
+#[samsungadhub.com]
+0.0.0.0 ad.samsungadhub.com
+0.0.0.0 samsungadhub.com
+#[samsungtvads.com]
+0.0.0.0 qa.samsungtvads.com
+0.0.0.0 samsungtvads.com
+0.0.0.0 v2.samsungtvads.com
+#[samsung.com]
+0.0.0.0 insights.samsung.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 target-us.samsung.com
+#[nc0.co]
+0.0.0.0 edge-geo.nc0.co
+0.0.0.0 nc0.co
+0.0.0.0 pixel.nc0.co
+0.0.0.0 t.nc0.co
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12843,7 +12913,6 @@
 0.0.0.0 ads.rekmob.com
 0.0.0.0 ads.roblox.com
 0.0.0.0 ads.rpgdot.com
-0.0.0.0 ads.samsungads.com
 0.0.0.0 ads.scifi.com
 0.0.0.0 ads.seniorfriendfinder.com
 0.0.0.0 ads.sexinyourcity.com
@@ -14926,7 +14995,6 @@
 0.0.0.0 manfjgo2jgb8mg09.com
 0.0.0.0 manivalyrid.com
 0.0.0.0 marchex.com
-0.0.0.0 marchex.io
 0.0.0.0 markedcrayon.com
 0.0.0.0 markedpail.com
 0.0.0.0 market-buster.com
@@ -15806,7 +15874,6 @@
 0.0.0.0 saltinourhairtv.com
 0.0.0.0 salutationcheerlessdemote.com
 0.0.0.0 samplerpouch.com
-0.0.0.0 samsungads.com
 0.0.0.0 sandsitedrhec.club
 0.0.0.0 satisfycork.com
 0.0.0.0 saysidewalk.com
@@ -16929,7 +16996,6 @@
 0.0.0.0 axmtrack.com
 0.0.0.0 bafuhotel.com
 0.0.0.0 bango.net
-0.0.0.0 batchlogging4.truecaller.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beacon.riskified.com
@@ -17076,13 +17142,11 @@
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 inside-graph.com
-0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intent.cbsi.com
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 invoca.net
 0.0.0.0 iovation.com
-0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 jsonip.com
@@ -17147,7 +17211,6 @@
 0.0.0.0 mktoresp.com
 0.0.0.0 mlog.appguard.co.kr
 0.0.0.0 moatpixel.com
-0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 monitoring.youronlinechoices.com
 0.0.0.0 montacarichi.it
@@ -17181,7 +17244,6 @@
 0.0.0.0 pixanalytics.pixnet.net
 0.0.0.0 pixanalytics2.pixnet.net
 0.0.0.0 pixel.condenastdigital.com
-0.0.0.0 pixel.nc0.co
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.voltn.com
 0.0.0.0 pixel.wp.com
@@ -17398,8 +17460,6 @@
 0.0.0.0 wieistmeineip.de
 0.0.0.0 worldgravity.com
 0.0.0.0 wren.condenastdigital.com
-0.0.0.0 wsapi-global.master.live
-0.0.0.0 wsapi.master.live
 0.0.0.0 wt.soundestlink.com
 0.0.0.0 wurfl.io
 0.0.0.0 www.datadoghq-browser-agent.com
@@ -17487,3 +17547,38 @@
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 websdk.appsflyer.com
+#
+#[Random popup]
+0.0.0.0 12e42de17f.com
+0.0.0.0 1d354c1645.com
+0.0.0.0 20239be1ae.com
+0.0.0.0 55a70c5ade.com
+0.0.0.0 593e7fec57.com
+0.0.0.0 60b8fe6ea3.com
+0.0.0.0 7d9bbf7e5b.com
+0.0.0.0 856f639e2a.com
+0.0.0.0 92333cc277.com
+0.0.0.0 c59538e98c.com
+0.0.0.0 d2e48d0dce.com
+0.0.0.0 d6740c1a30.com
+0.0.0.0 dc1c6c157e.com
+0.0.0.0 e0d4e3650c.com
+#[cdn12359286.ahacdn.me]
+0.0.0.0 0696e8978a.e0d4e3650c.com
+#[cdn28786515.ahacdn.me]
+0.0.0.0 2431bce671.20239be1ae.com
+0.0.0.0 322c318d55.7d9bbf7e5b.com
+0.0.0.0 33b9b88162.dc1c6c157e.com
+0.0.0.0 5265c011ae.60b8fe6ea3.com
+0.0.0.0 72c73fef76.55a70c5ade.com
+0.0.0.0 91dacd27c8.d2e48d0dce.com
+0.0.0.0 9e0bb4f10a.c59538e98c.com
+0.0.0.0 b79eac9131.12e42de17f.com
+0.0.0.0 c5b6f5b3b0.856f639e2a.com
+0.0.0.0 d9a902a337.593e7fec57.com
+0.0.0.0 ec73c518ce.d6740c1a30.com
+#[cdn44221613.ahacdn.me]
+0.0.0.0 55e0337459.92333cc277.com
+0.0.0.0 f4733d7c73.1d354c1645.com
+#[ntvpforever.com]
+0.0.0.0 61254102fd.92333cc277.com
