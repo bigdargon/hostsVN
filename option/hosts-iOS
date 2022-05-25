@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 May 2022 22:35 UTC+7
-# Version: 2205222235
-# Blocked: 16.318 domains
+# Last modified: 25 May 2022 16:22 UTC+7
+# Version: 2205251622
+# Blocked: 16.399 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9139,6 +9139,8 @@
 0 log.api.useinsider.com
 0 mobileanalytics.useinsider.com
 0 useinsider.com
+0 ad-serve.b-cdn.net
+0 adstatic.b-cdn.net
 0 mellowads.b-cdn.net
 0 popcashjs.b-cdn.net
 0 sys.vidsrev.com
@@ -9336,6 +9338,18 @@
 0 nc0.co
 0 pixel.nc0.co
 0 t.nc0.co
+0 reactful.com
+0 tracking.reactful.com
+0 visitor.reactful.com
+0 www.reactful.com
+0 adstatic.com
+0 media.adstatic.com
+0 vip.adstatic.com
+0 adspaces.ero-advertising.com
+0 ero-advertising.com
+0 go.ero-advertising.com
+0 popads.ero-advertising.com
+0 redirect.ero-advertising.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10765,6 +10779,8 @@
 0 www.v9banners.com
 0 www.vietbuzzad.com
 0 www.vietdorje.com
+0 report.mediahub.vn
+0 report2.mediahub.vn
 0 360.anatic.net
 0 a.ladipage.com
 0 a.vtvdigital.vn
@@ -11089,6 +11105,62 @@
 0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
+0 floodingonion.com
+0 padsims.com
+0 goodcache.ml
+0 wkyswppiobnuqje.com
+0 clk.omgt3.com
+0 swpsvc.com
+0 top.c-stat.eu
+0 d2g8ksx1za632p.cloudfront.net
+0 ergadx.com
+0 getadx.com
+0 hitopadxdz.xyz
+0 uitopadxdy.com
+0 maltunfaithfulpredominant.com
+0 variousformatscontent.com
+0 separationreverttap.com
+0 bcloudhost.com
+0 wvhba6470p.com
+0 creativeformatsnetwork.com
+0 brazenwholly.com
+0 abbeyintervalfetched.com
+0 grudgewallet.com
+0 displayformatcontent.com
+0 jnrtavp2x66u.com
+0 dollsdeclare.com
+0 pennilesscomingall.com
+0 topdisplaynetwork.com
+0 highrevenuecpm.com
+0 bestdisplayformats.com
+0 bnserving.com
+0 b58ncoa1c07f.com
+0 newsunads.com
+0 frameworkdeserve.com
+0 modulepush.com
+0 suppliedhopelesspredestination.com
+0 grannysteer.com
+0 surecheapermoisture.com
+0 shitcustody.com
+0 floralrichardapprentice.com
+0 advantagesclotblend.com
+0 scammereating.com
+0 stunthedge.com
+0 b42rracj.com
+0 intendedeasiestlost.com
+0 hewawkward.com
+0 roofprison.com
+0 sf9yvla26s5t.com
+0 tk6if76q.ab1n.net
+0 wpnjs.com
+0 defyblackmailrecommended.com
+0 cabnnr.com
+0 unseenreport.com
+0 poshhateful.com
+0 undooptimisticsuction.com
+0 i.cdnkimg.com
+0 travelingturtleharmonious.com
+0 www.swpsvc.com
 0 03ed9035a0801f.com
 0 0n.click
 0 0x01n2ptpuz3.com
@@ -13027,7 +13099,6 @@
 0 eqads.com
 0 eqworks.com
 0 eremuribleak.com
-0 ero-advertising.com
 0 erosyndc.com
 0 esellerate.net
 0 espionagegardenerthicket.com
@@ -15655,6 +15726,16 @@
 0 zuphaims.com
 0 zvetokr2hr8pcng09.com
 0 zxc.world
+0 stats.fifthstarlabs.io
+0 track.rentracksw.com
+0 dig.bdurl.net
+0 count.7m.com.cn
+0 report.uc.heytapmobi.com
+0 collector.sphgfgx.com
+0 beacon.mlytics.com
+0 beacon.fusioncdn.com
+0 svibeacon.onezapp.com
+0 perf.hsforms.com
 0 2o7.net
 0 a.apkpure.com
 0 a.klaviyo.com

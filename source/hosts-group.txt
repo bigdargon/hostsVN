@@ -10159,6 +10159,8 @@
 0.0.0.0 mobileanalytics.useinsider.com
 0.0.0.0 useinsider.com
 #[b-cdn.net]
+0.0.0.0 ad-serve.b-cdn.net
+0.0.0.0 adstatic.b-cdn.net
 0.0.0.0 mellowads.b-cdn.net
 0.0.0.0 popcashjs.b-cdn.net
 #[vidsrev.com]
@@ -10412,3 +10414,18 @@
 0.0.0.0 nc0.co
 0.0.0.0 pixel.nc0.co
 0.0.0.0 t.nc0.co
+#[reactful.com]
+0.0.0.0 reactful.com
+0.0.0.0 tracking.reactful.com
+0.0.0.0 visitor.reactful.com
+0.0.0.0 www.reactful.com
+#[adstatic.com]
+0.0.0.0 adstatic.com
+0.0.0.0 media.adstatic.com
+0.0.0.0 vip.adstatic.com
+#[ero-advertising.com]
+0.0.0.0 adspaces.ero-advertising.com
+0.0.0.0 ero-advertising.com
+0.0.0.0 go.ero-advertising.com
+0.0.0.0 popads.ero-advertising.com
+0.0.0.0 redirect.ero-advertising.com
