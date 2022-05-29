@@ -1,11 +1,12 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 May 2022 16:22 UTC+7
-! Version: 2205251622
-! Blocked: 1.419 rules
+! Last modified: 29 May 2022 23:08 UTC+7
+! Version: 2205292308
+! Blocked: 1.431 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
+||jeoway.com^
 ||24h-ad.24hstatic.com^
 ||24h-ipad-ad.24hstatic.com^
 ||ad-us.24hstatic.com^
@@ -486,6 +487,14 @@
 ||vnadssb.com^
 ||vnd247.vn^
 ||widget.headlines.pw^
+||tagging-qadkfoj6ha-as.a.run.app^
+||sentry.sendo.vn^
+||logging.kinhtedothi.vn^
+||liveonline.nhanhoa.com^
+||support.tenten.vn^
+||aff.atp.vn^
+||campaign.gitiho.com^
+||thongke.bookingcare.vn^
 ||report.mediahub.vn^
 ||report2.mediahub.vn^
 ||360.anatic.net^
@@ -737,6 +746,9 @@
 ||widget.subiz.xyz^
 ||za.baomoi.com^
 ||zigzag.vn^
+||999live.net^
+||kubet88.fun^
+||sbotop246.com^
 ||03gamek8.com^
 ||1126bet.com^
 ||118kbet.com^

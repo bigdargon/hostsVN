@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 May 2022 16:22 UTC+7
-# Version: 2205251622
-# Blocked: 16.399 domains
+# Last modified: 29 May 2022 23:08 UTC+7
+# Version: 2205292308
+# Blocked: 16.521 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5532,6 +5532,9 @@
 0 vast.aniview.com
 0 vast1.aniview.com
 0 vtrack.aniview.com
+0 wlplayer.aniview.com
+0 wltg1.aniview.com
+0 wlvast.aniview.com
 0 www.aniview.com
 0 adrecover.com
 0 app.adrecover.com
@@ -7693,6 +7696,7 @@
 0 ade.clmbtech.com
 0 ase.clmbtech.com
 0 clmbtech.com
+0 static.clmbtech.com
 0 aicactus.io
 0 cdn.aicactus.io
 0 geo-service.aicactus.io
@@ -8245,8 +8249,6 @@
 0 publishers.clickadilla.com
 0 script.clickadilla.com
 0 tracking.clickadilla.com
-0 na.nawpush.com
-0 nawpush.com
 0 push.soft-com.biz
 0 soft-com.biz
 0 kts.vasstycom.com
@@ -9350,6 +9352,56 @@
 0 go.ero-advertising.com
 0 popads.ero-advertising.com
 0 redirect.ero-advertising.com
+0 analyticsnew.overwolf.com
+0 newlog.overwolf.com
+0 raf.overwolf.com
+0 tracking.overwolf.com
+0 analytics.edgekey.net
+0 79423.analytics.edgekey.net
+0 mathtag.com.edgekey.net
+0 pixel.mathtag.com.edgekey.net
+0 aniview.com.edgekey.net
+0 data4.aniview.com.edgekey.net
+0 go.aniview.com.edgekey.net
+0 wildcard.aniview.com.edgekey.net
+0 wl.aniview.com.edgekey.net
+0 wlvast.aniview.com.edgekey.net
+0 creative.hpyrdr.com
+0 go.hpyrdr.com
+0 hpyrdr.com
+0 wl.hpyrdr.com
+0 ak-ns.sascdn.com
+0 ced.sascdn.com
+0 mobileconfig.sascdn.com
+0 analytics.polarbyte.com
+0 api.polarbyte.com
+0 cdn.polarbyte.com
+0 polarbyte.com
+0 www.polarbyte.com
+0 boot.pbstck.com
+0 cdn.pbstck.com
+0 intake.pbstck.com
+0 pbstck.com
+0 refresh.pbstck.com
+0 adv.ftd.agency
+0 cdn.ftd.agency
+0 ftd.agency
+0 www.ftd.agency
+0 media.globalsign.com
+0 seal.globalsign.com
+0 cdn.selectmedia.asia
+0 ghb.hb.selectmedia.asia
+0 play.selectmedia.asia
+0 player.hb.selectmedia.asia
+0 player.selectmedia.asia
+0 selectmedia.asia
+0 servg.selectmedia.asia
+0 sync.hb.selectmedia.asia
+0 ghb.unoadsrv.com
+0 hb.unoadsrv.com
+0 player.unocdn.com
+0 sync.unoadsrv.com
+0 unoadsrv.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10521,6 +10573,12 @@
 0 tebrand.vn
 0 static.tebrand.asia
 0 tebrand.asia
+0 analytics.jeoway.com
+0 app2.jeoway.net
+0 jana1.jeoway.net
+0 jeoway.com
+0 platform.jeoway.com
+0 www.jeoway.com
 0 12signup.com
 0 5734a40f2d.vws.vegacdn.vn
 0 703531862.vws.vegacdn.vn
@@ -10779,6 +10837,14 @@
 0 www.v9banners.com
 0 www.vietbuzzad.com
 0 www.vietdorje.com
+0 tagging-qadkfoj6ha-as.a.run.app
+0 sentry.sendo.vn
+0 logging.kinhtedothi.vn
+0 liveonline.nhanhoa.com
+0 support.tenten.vn
+0 aff.atp.vn
+0 campaign.gitiho.com
+0 thongke.bookingcare.vn
 0 report.mediahub.vn
 0 report2.mediahub.vn
 0 360.anatic.net
@@ -11105,6 +11171,39 @@
 0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
+0 forearmthrobjanuary.com
+0 setbackclassy.com
+0 chaerel.com
+0 mobcrummymow.com
+0 mgbid.net
+0 glizauvo.net
+0 mhvllvgrefplg.com
+0 agnescarved.website
+0 hemiolajobson.website
+0 visiblejoseph.com
+0 pillsofecho.com
+0 promo-bc.com
+0 bcprm.com
+0 qqjar.ru
+0 bantgoau.com
+0 zog.link
+0 mcpuwpush.com
+0 rtbrennab.com
+0 tb.baimgfroggd.site
+0 bypassprofessordemonstrate.com
+0 r.trwl1.com
+0 alas4kanmfa6a4mubte.com
+0 benevolencepair.com
+0 digiadzone.com
+0 audiblysunny.com
+0 unphionetor.com
+0 interstitial-08.com
+0 gristleupanaya.com
+0 deltoidviragin.com
+0 encodehelped.com
+0 diryleme.pro
+0 bkvhlsndw.com
+0 joygaskin.com
 0 floodingonion.com
 0 padsims.com
 0 goodcache.ml
@@ -11152,7 +11251,6 @@
 0 roofprison.com
 0 sf9yvla26s5t.com
 0 tk6if76q.ab1n.net
-0 wpnjs.com
 0 defyblackmailrecommended.com
 0 cabnnr.com
 0 unseenreport.com
@@ -13642,8 +13740,6 @@
 0 jpjmpqaupc.com
 0 jqtqqnen.top
 0 js.pusher.com
-0 js.wpadmngr.com
-0 js.wpnsrv.com
 0 jugjetwok.com
 0 julysystems.com
 0 jumptap.com
@@ -15726,6 +15822,14 @@
 0 zuphaims.com
 0 zvetokr2hr8pcng09.com
 0 zxc.world
+0 beacon.cdnma.com
+0 piwik.digineo.de
+0 tag.aticdn.net
+0 seal.digicert.com
+0 seal.godaddy.com
+0 seal.networksolutions.com
+0 seal.qualys.com
+0 seal.verisign.com
 0 stats.fifthstarlabs.io
 0 track.rentracksw.com
 0 dig.bdurl.net
@@ -15772,7 +15876,6 @@
 0 analytics.clickdimensions.com
 0 analytics.cloudron.io
 0 analytics.diyriver.io
-0 analytics.edgekey.net
 0 analytics.ff.avast.com
 0 analytics.gavelz.com
 0 analytics.getshogun.com
@@ -16386,17 +16489,26 @@
 0 12e42de17f.com
 0 1d354c1645.com
 0 20239be1ae.com
+0 342c15527e.com
 0 55a70c5ade.com
 0 593e7fec57.com
 0 60b8fe6ea3.com
+0 713661e535.com
 0 7d9bbf7e5b.com
 0 856f639e2a.com
 0 92333cc277.com
+0 b1e50c8028.com
 0 c59538e98c.com
+0 capndr.com
 0 d2e48d0dce.com
 0 d6740c1a30.com
 0 dc1c6c157e.com
 0 e0d4e3650c.com
+0 natsdk.com
+0 nawpush.com
+0 wpadmngr.com
+0 wpnjs.com
+0 wpnsrv.com
 0 0696e8978a.e0d4e3650c.com
 0 2431bce671.20239be1ae.com
 0 322c318d55.7d9bbf7e5b.com
@@ -16408,7 +16520,17 @@
 0 b79eac9131.12e42de17f.com
 0 c5b6f5b3b0.856f639e2a.com
 0 d9a902a337.593e7fec57.com
+0 e31130cb48.b1e50c8028.com
 0 ec73c518ce.d6740c1a30.com
+0 js.capndr.com
+0 js.natsdk.com
+0 js.wpadmngr.com
+0 4ba3b72b0c.713661e535.com
 0 55e0337459.92333cc277.com
+0 767528f77a.342c15527e.com
 0 f4733d7c73.1d354c1645.com
+0 na.nawpush.com
+0 5ab3edc5c1.342c15527e.com
 0 61254102fd.92333cc277.com
+0 js.wpnjs.com
+0 js.wpnsrv.com

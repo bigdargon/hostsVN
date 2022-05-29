@@ -6001,6 +6001,9 @@
 0.0.0.0 vast.aniview.com
 0.0.0.0 vast1.aniview.com
 0.0.0.0 vtrack.aniview.com
+0.0.0.0 wlplayer.aniview.com
+0.0.0.0 wltg1.aniview.com
+0.0.0.0 wlvast.aniview.com
 0.0.0.0 www.aniview.com
 #[adrecover.com]
 0.0.0.0 adrecover.com
@@ -8420,6 +8423,7 @@
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 clmbtech.com
+0.0.0.0 static.clmbtech.com
 #[aicactus.io]
 0.0.0.0 aicactus.io
 0.0.0.0 cdn.aicactus.io
@@ -9078,9 +9082,6 @@
 0.0.0.0 publishers.clickadilla.com
 0.0.0.0 script.clickadilla.com
 0.0.0.0 tracking.clickadilla.com
-#[nawpush.com]
-0.0.0.0 na.nawpush.com
-0.0.0.0 nawpush.com
 #[soft-com.biz]
 0.0.0.0 push.soft-com.biz
 0.0.0.0 soft-com.biz
@@ -10429,3 +10430,65 @@
 0.0.0.0 go.ero-advertising.com
 0.0.0.0 popads.ero-advertising.com
 0.0.0.0 redirect.ero-advertising.com
+#[overwolf.com]
+0.0.0.0 analyticsnew.overwolf.com
+0.0.0.0 newlog.overwolf.com
+0.0.0.0 raf.overwolf.com
+0.0.0.0 tracking.overwolf.com
+#[analytics.edgekey.net]
+0.0.0.0 analytics.edgekey.net
+0.0.0.0 79423.analytics.edgekey.net
+#[mathtag.com.edgekey.net]
+0.0.0.0 mathtag.com.edgekey.net
+0.0.0.0 pixel.mathtag.com.edgekey.net
+#[aniview.com.edgekey.net]
+0.0.0.0 aniview.com.edgekey.net
+0.0.0.0 data4.aniview.com.edgekey.net
+0.0.0.0 go.aniview.com.edgekey.net
+0.0.0.0 wildcard.aniview.com.edgekey.net
+0.0.0.0 wl.aniview.com.edgekey.net
+0.0.0.0 wlvast.aniview.com.edgekey.net
+#[hpyrdr.com]
+0.0.0.0 creative.hpyrdr.com
+0.0.0.0 go.hpyrdr.com
+0.0.0.0 hpyrdr.com
+0.0.0.0 wl.hpyrdr.com
+#[sascdn.com]
+0.0.0.0 ak-ns.sascdn.com
+0.0.0.0 ced.sascdn.com
+0.0.0.0 mobileconfig.sascdn.com
+#[polarbyte.com]
+0.0.0.0 analytics.polarbyte.com
+0.0.0.0 api.polarbyte.com
+0.0.0.0 cdn.polarbyte.com
+0.0.0.0 polarbyte.com
+0.0.0.0 www.polarbyte.com
+#[pbstck.com]
+0.0.0.0 boot.pbstck.com
+0.0.0.0 cdn.pbstck.com
+0.0.0.0 intake.pbstck.com
+0.0.0.0 pbstck.com
+0.0.0.0 refresh.pbstck.com
+#[ftd.agency]
+0.0.0.0 adv.ftd.agency
+0.0.0.0 cdn.ftd.agency
+0.0.0.0 ftd.agency
+0.0.0.0 www.ftd.agency
+#[globalsign.com]
+0.0.0.0 media.globalsign.com
+0.0.0.0 seal.globalsign.com
+#[selectmedia.asia]
+0.0.0.0 cdn.selectmedia.asia
+0.0.0.0 ghb.hb.selectmedia.asia
+0.0.0.0 play.selectmedia.asia
+0.0.0.0 player.hb.selectmedia.asia
+0.0.0.0 player.selectmedia.asia
+0.0.0.0 selectmedia.asia
+0.0.0.0 servg.selectmedia.asia
+0.0.0.0 sync.hb.selectmedia.asia
+#[unoadsrv.com]
+0.0.0.0 ghb.unoadsrv.com
+0.0.0.0 hb.unoadsrv.com
+0.0.0.0 player.unocdn.com
+0.0.0.0 sync.unoadsrv.com
+0.0.0.0 unoadsrv.com
