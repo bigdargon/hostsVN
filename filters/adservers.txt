@@ -1,11 +1,14 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 29 May 2022 23:08 UTC+7
-! Version: 2205292308
-! Blocked: 1.431 rules
+! Last modified: 30 May 2022 22:49 UTC+7
+! Version: 2205302249
+! Blocked: 1.436 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
+||dns.ladipage.com^
+||a.ladipage.com^
+||ezca.asia^
 ||jeoway.com^
 ||24h-ad.24hstatic.com^
 ||24h-ipad-ad.24hstatic.com^
@@ -249,6 +252,7 @@
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
 ||ztevents.zaloapp.com^
+||ads.admatrix.vn^
 ||12signup.com^
 ||5734a40f2d.vws.vegacdn.vn^
 ||703531862.vws.vegacdn.vn^
@@ -487,6 +491,7 @@
 ||vnadssb.com^
 ||vnd247.vn^
 ||widget.headlines.pw^
+||track.rentracks.com.vn^
 ||tagging-qadkfoj6ha-as.a.run.app^
 ||sentry.sendo.vn^
 ||logging.kinhtedothi.vn^
@@ -498,7 +503,6 @@
 ||report.mediahub.vn^
 ||report2.mediahub.vn^
 ||360.anatic.net^
-||a.ladipage.com^
 ||a.vtvdigital.vn^
 ||addlog.thuvienphapluat.vn^
 ||admin.phunusuckhoe.vn^
@@ -746,6 +750,7 @@
 ||widget.subiz.xyz^
 ||za.baomoi.com^
 ||zigzag.vn^
+||rikvipclub.us^
 ||999live.net^
 ||kubet88.fun^
 ||sbotop246.com^

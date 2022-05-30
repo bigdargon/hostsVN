@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 29 May 2022 23:08 UTC+7
-# Version: 2205292308
-# Blocked: 1.769 domains
+# Last modified: 30 May 2022 22:49 UTC+7
+# Version: 2205302249
+# Blocked: 1.777 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1336,7 +1336,17 @@
 0.0.0.0 jeoway.com
 0.0.0.0 platform.jeoway.com
 0.0.0.0 www.jeoway.com
+#[ezca.asia]
+0.0.0.0 api.ezca.asia
+0.0.0.0 cdn.ezca.asia
+0.0.0.0 ezca.asia
+0.0.0.0 recommender.ezca.asia
+0.0.0.0 wss.ezca.asia
+#[ladipage.com]
+0.0.0.0 a.ladipage.com
+0.0.0.0 dns.ladipage.com
 # --- Block adsVN ---
+0.0.0.0 ads.admatrix.vn
 0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -1596,6 +1606,7 @@
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 # --- Block trackingVN ---
+0.0.0.0 track.rentracks.com.vn
 0.0.0.0 tagging-qadkfoj6ha-as.a.run.app
 0.0.0.0 sentry.sendo.vn
 0.0.0.0 logging.kinhtedothi.vn
@@ -1607,7 +1618,6 @@
 0.0.0.0 report.mediahub.vn
 0.0.0.0 report2.mediahub.vn
 0.0.0.0 360.anatic.net
-0.0.0.0 a.ladipage.com
 0.0.0.0 a.vtvdigital.vn
 0.0.0.0 addlog.thuvienphapluat.vn
 0.0.0.0 admin.phunusuckhoe.vn

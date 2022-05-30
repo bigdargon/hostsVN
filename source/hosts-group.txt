@@ -10126,6 +10126,7 @@
 0.0.0.0 p.trvdp.com
 #[statcounter.com]
 0.0.0.0 c.statcounter.com
+0.0.0.0 secure.statcounter.com
 0.0.0.0 statcounter.com
 0.0.0.0 www.statcounter.com
 #[disqus.com]
@@ -10162,6 +10163,7 @@
 #[b-cdn.net]
 0.0.0.0 ad-serve.b-cdn.net
 0.0.0.0 adstatic.b-cdn.net
+0.0.0.0 heoads.b-cdn.net
 0.0.0.0 mellowads.b-cdn.net
 0.0.0.0 popcashjs.b-cdn.net
 #[vidsrev.com]
