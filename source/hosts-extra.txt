@@ -29,6 +29,7 @@
 0.0.0.0 websdk.appsflyer.com
 #
 #[Random popup]
+0.0.0.0 0439c255ac.com
 0.0.0.0 12e42de17f.com
 0.0.0.0 1d354c1645.com
 0.0.0.0 20239be1ae.com
@@ -47,11 +48,15 @@
 0.0.0.0 d6740c1a30.com
 0.0.0.0 dc1c6c157e.com
 0.0.0.0 e0d4e3650c.com
+0.0.0.0 f21c8cd9a7.com
 0.0.0.0 natsdk.com
 0.0.0.0 nawpush.com
 0.0.0.0 wpadmngr.com
 0.0.0.0 wpnjs.com
 0.0.0.0 wpnsrv.com
+0.0.0.0 wpshsdk.com
+0.0.0.0 c986493e7d.com
+0.0.0.0 jnkstff.com
 #[cdn12359286.ahacdn.me]
 0.0.0.0 0696e8978a.e0d4e3650c.com
 #[cdn28786515.ahacdn.me]
@@ -70,16 +75,24 @@
 0.0.0.0 js.capndr.com
 0.0.0.0 js.natsdk.com
 0.0.0.0 js.wpadmngr.com
+0.0.0.0 js.wpshsdk.com
 #[cdn44221613.ahacdn.me]
 0.0.0.0 4ba3b72b0c.713661e535.com
 0.0.0.0 55e0337459.92333cc277.com
 0.0.0.0 767528f77a.342c15527e.com
 0.0.0.0 f4733d7c73.1d354c1645.com
+0.0.0.0 21ffc7a7c6.f21c8cd9a7.com
+0.0.0.0 b553ce7e52.c986493e7d.com
+#[cdn65182383.ahacdn.me]
+0.0.0.0 js.jnkstff.com
 #[cdn81910013.ahacdn.me]
 0.0.0.0 na.nawpush.com
 #[ntvpforever.com]
 0.0.0.0 5ab3edc5c1.342c15527e.com
 0.0.0.0 61254102fd.92333cc277.com
+0.0.0.0 68787fa2a4.0439c255ac.com
+0.0.0.0 7fe465ee76.f21c8cd9a7.com
+0.0.0.0 0b6ecb7f80.c986493e7d.com
 #[cds.h5z9g8y6.hwcdn.net]
 0.0.0.0 js.wpnjs.com
 0.0.0.0 js.wpnsrv.com

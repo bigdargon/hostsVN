@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 May 2022 22:49 UTC+7
-# Version: 2205302249
-# Blocked: 16.548 domains
+# Last modified: 31 May 2022 10:31 UTC+7
+# Version: 2205311031
+# Blocked: 16.605 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10506,6 +10506,43 @@
 0.0.0.0 player.unocdn.com
 0.0.0.0 sync.unoadsrv.com
 0.0.0.0 unoadsrv.com
+#[klaviyo.com]
+0.0.0.0 a.klaviyo.com
+0.0.0.0 fast.a.klaviyo.com
+0.0.0.0 static-tracking.klaviyo.com
+0.0.0.0 static.klaviyo.com
+0.0.0.0 telemetrics.klaviyo.com
+#[revopush.com]
+0.0.0.0 revopush.com
+0.0.0.0 show.gdns.revopush.com
+0.0.0.0 show.revopush.com
+#[zog.link]
+0.0.0.0 btds.zog.link
+0.0.0.0 dsp.zog.link
+0.0.0.0 ssp.zog.link
+0.0.0.0 tcimp.zog.link
+0.0.0.0 zog.link
+#[boost-next.co.jp]
+0.0.0.0 boost-next.co.jp
+0.0.0.0 cs.boost-next.co.jp
+0.0.0.0 edayo.boost-next.co.jp
+0.0.0.0 js.boost-next.co.jp
+0.0.0.0 ssp.boost-next.co.jp
+0.0.0.0 stage.boost-next.co.jp
+#[focas.jp]
+0.0.0.0 adroute-native.focas.jp
+0.0.0.0 adroute.focas.jp
+0.0.0.0 api-iot.focas.jp
+0.0.0.0 focas.jp
+0.0.0.0 infeed-adroute.focas.jp
+0.0.0.0 pc-adroute.focas.jp
+0.0.0.0 px.adroute.focas.jp
+0.0.0.0 rtg-adroute.focas.jp
+0.0.0.0 static.sp-adroute.focas.jp
+0.0.0.0 targeting.focas.jp
+#[bookmsg.com]
+0.0.0.0 bookmsg.com
+0.0.0.0 static.bookmsg.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -11841,6 +11878,10 @@
 #[ladipage.com]
 0.0.0.0 a.ladipage.com
 0.0.0.0 dns.ladipage.com
+#[genmonet.com]
+0.0.0.0 gcjs.genmonet.com
+0.0.0.0 genmonet.com
+0.0.0.0 gl.genmonet.com
 # --- Block adsVN ---
 0.0.0.0 ads.admatrix.vn
 0.0.0.0 12signup.com
@@ -12003,7 +12044,6 @@
 0.0.0.0 duamilsyr.com
 0.0.0.0 ff.imacdn.com
 0.0.0.0 financial-agent.headlines.pw
-0.0.0.0 genmonet.com
 0.0.0.0 ghimc.vn
 0.0.0.0 go.vnecdn.com
 0.0.0.0 hexapinow.xyz
@@ -12439,6 +12479,17 @@
 0.0.0.0 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 0.0.0.0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 # --- Block other adsVN ---
+0.0.0.0 azkcqs.com
+0.0.0.0 offclaydolon.com
+0.0.0.0 viiadr.com
+0.0.0.0 rollserver.xyz
+0.0.0.0 pushmeup.art
+0.0.0.0 cdn.house
+0.0.0.0 ipp2s.xyz
+0.0.0.0 pisism.com
+0.0.0.0 waqool.com
+0.0.0.0 mt34iofvjay.com
+0.0.0.0 passfixx.com
 0.0.0.0 vigpsypoyta.com
 0.0.0.0 oxiqyxos.com
 0.0.0.0 separatecolonist.com
@@ -12469,7 +12520,6 @@
 0.0.0.0 bcprm.com
 0.0.0.0 qqjar.ru
 0.0.0.0 bantgoau.com
-0.0.0.0 zog.link
 0.0.0.0 mcpuwpush.com
 0.0.0.0 rtbrennab.com
 0.0.0.0 tb.baimgfroggd.site
@@ -17106,6 +17156,9 @@
 0.0.0.0 zvetokr2hr8pcng09.com
 0.0.0.0 zxc.world
 # --- Block other trackingVN ---
+0.0.0.0 acsbapp.com
+0.0.0.0 web-analytics.smile.io
+0.0.0.0 affiliatly.com
 0.0.0.0 track.rentracks.asia
 0.0.0.0 beacon.cdnma.com
 0.0.0.0 piwik.digineo.de
@@ -17127,7 +17180,6 @@
 0.0.0.0 perf.hsforms.com
 0.0.0.0 2o7.net
 0.0.0.0 a.apkpure.com
-0.0.0.0 a.klaviyo.com
 0.0.0.0 a.mailmunch.co
 0.0.0.0 a.master98.com
 0.0.0.0 a.quora.com
@@ -17777,6 +17829,7 @@
 0.0.0.0 websdk.appsflyer.com
 #
 #[Random popup]
+0.0.0.0 0439c255ac.com
 0.0.0.0 12e42de17f.com
 0.0.0.0 1d354c1645.com
 0.0.0.0 20239be1ae.com
@@ -17795,11 +17848,15 @@
 0.0.0.0 d6740c1a30.com
 0.0.0.0 dc1c6c157e.com
 0.0.0.0 e0d4e3650c.com
+0.0.0.0 f21c8cd9a7.com
 0.0.0.0 natsdk.com
 0.0.0.0 nawpush.com
 0.0.0.0 wpadmngr.com
 0.0.0.0 wpnjs.com
 0.0.0.0 wpnsrv.com
+0.0.0.0 wpshsdk.com
+0.0.0.0 c986493e7d.com
+0.0.0.0 jnkstff.com
 #[cdn12359286.ahacdn.me]
 0.0.0.0 0696e8978a.e0d4e3650c.com
 #[cdn28786515.ahacdn.me]
@@ -17818,16 +17875,24 @@
 0.0.0.0 js.capndr.com
 0.0.0.0 js.natsdk.com
 0.0.0.0 js.wpadmngr.com
+0.0.0.0 js.wpshsdk.com
 #[cdn44221613.ahacdn.me]
 0.0.0.0 4ba3b72b0c.713661e535.com
 0.0.0.0 55e0337459.92333cc277.com
 0.0.0.0 767528f77a.342c15527e.com
 0.0.0.0 f4733d7c73.1d354c1645.com
+0.0.0.0 21ffc7a7c6.f21c8cd9a7.com
+0.0.0.0 b553ce7e52.c986493e7d.com
+#[cdn65182383.ahacdn.me]
+0.0.0.0 js.jnkstff.com
 #[cdn81910013.ahacdn.me]
 0.0.0.0 na.nawpush.com
 #[ntvpforever.com]
 0.0.0.0 5ab3edc5c1.342c15527e.com
 0.0.0.0 61254102fd.92333cc277.com
+0.0.0.0 68787fa2a4.0439c255ac.com
+0.0.0.0 7fe465ee76.f21c8cd9a7.com
+0.0.0.0 0b6ecb7f80.c986493e7d.com
 #[cds.h5z9g8y6.hwcdn.net]
 0.0.0.0 js.wpnjs.com
 0.0.0.0 js.wpnsrv.com

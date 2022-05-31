@@ -1,11 +1,12 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 May 2022 22:49 UTC+7
-! Version: 2205302249
+! Last modified: 31 May 2022 10:31 UTC+7
+! Version: 2205311031
 ! Blocked: 1.436 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
+||genmonet.com^
 ||dns.ladipage.com^
 ||a.ladipage.com^
 ||ezca.asia^
@@ -413,7 +414,6 @@
 ||duamilsyr.com^
 ||ff.imacdn.com^
 ||financial-agent.headlines.pw^
-||genmonet.com^
 ||ghimc.vn^
 ||go.vnecdn.com^
 ||hexapinow.xyz^
