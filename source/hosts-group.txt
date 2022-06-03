@@ -1636,6 +1636,8 @@
 0.0.0.0 admediator.unityads.unity3d.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 ads-game-configuration.unityads.unity3d.com
+0.0.0.0 ads-sdk-configuration-gcp.unityads.unity3d.com
+0.0.0.0 ads-sdk-configuration.unityads.unity3d.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adsx.unityads.unity3d.com
 0.0.0.0 auction-load.unityads.unity3d.com
@@ -1650,6 +1652,8 @@
 0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 china-cdn.unityads.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 configv2-prd.unityads.unity3d.com
+0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 dsp-tracking.unityads.unity3d.com
 0.0.0.0 dsp-vast.unityads.unity3d.com
 0.0.0.0 geocdn.unityads.unity3d.com
@@ -6003,6 +6007,7 @@
 0.0.0.0 vtrack.aniview.com
 0.0.0.0 wlplayer.aniview.com
 0.0.0.0 wltg1.aniview.com
+0.0.0.0 wltrack.aniview.com
 0.0.0.0 wlvast.aniview.com
 0.0.0.0 www.aniview.com
 #[adrecover.com]
@@ -8868,12 +8873,6 @@
 0.0.0.0 vast.yomeno.xyz
 0.0.0.0 www.yomeno.xyz
 0.0.0.0 yomeno.xyz
-#[wpush.org]
-0.0.0.0 sw.wpush.org
-0.0.0.0 wpush.org
-#[wpushsdk.com]
-0.0.0.0 js.wpushsdk.com
-0.0.0.0 wpushsdk.com
 #[maxymiser.net]
 0.0.0.0 maxymiser.net
 0.0.0.0 service.maxymiser.net
@@ -10531,3 +10530,25 @@
 #[bookmsg.com]
 0.0.0.0 bookmsg.com
 0.0.0.0 static.bookmsg.com
+#[expmediadirect1.com]
+0.0.0.0 click-eu.expmediadirect1.com
+0.0.0.0 click.expmediadirect1.com
+0.0.0.0 expmediadirect1.com
+#[viewdeos.com]
+0.0.0.0 cdn.viewdeos.com
+0.0.0.0 go1.viewdeos.com
+0.0.0.0 sync.sync.viewdeos.com
+0.0.0.0 sync.viewdeos.com
+0.0.0.0 tags.viewdeos.com
+0.0.0.0 track.viewdeos.com
+0.0.0.0 track1.viewdeos.com
+0.0.0.0 viewdeos.com
+#[msgapp.com]
+0.0.0.0 hostssl.msgapp.com
+0.0.0.0 msgapp.com
+#[adleadevent.com]
+0.0.0.0 adleadevent.com
+0.0.0.0 adtrack.adleadevent.com
+#[ingage.tech]
+0.0.0.0 ex.ingage.tech
+0.0.0.0 ingage.tech
