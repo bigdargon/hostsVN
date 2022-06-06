@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Jun 2022 22:45 UTC+7
-! Version: 2206032245
-! Blocked: 1.443 rules
+! Last modified: 06 Jun 2022 11:27 UTC+7
+! Version: 2206061127
+! Blocked: 1.450 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -752,6 +752,13 @@
 ||widget.subiz.xyz^
 ||za.baomoi.com^
 ||zigzag.vn^
+||ebet.com^
+||tha.bet^
+||v9betasia.com^
+||v9bet55.com^
+||kubet88.win^
+||8xbet115.com^
+||keonhacai3.com^
 ||hi888.app^
 ||hi88vip8.com^
 ||8xbet.xyz^
