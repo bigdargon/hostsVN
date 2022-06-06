@@ -2,6 +2,9 @@
 !
 ! --- Optimized ---
 !
+trk.vidible.tv
+ads-trk.vidible.tv
+ads-adaptv.vidible.tv
 lampcfads.starbre.net
 lampservice.starbre.net
 msgapp.com
@@ -608,8 +611,6 @@ data.sec.intl.miui.com
 data.sec.miui.com
 datacollector-dra.dt.hicloud.com
 datawrkz.com
-dc-int.services.visualstudio.com
-dc.services.visualstudio.com
 deepintent.com
 deltadna.net
 demandbase.com
@@ -998,7 +999,6 @@ mobytrks.com
 modoro360.com
 moengage.com
 mondiad.net
-monitor.azure.com
 mookie1.com
 mopub.com
 mouseflow.com
@@ -1487,6 +1487,8 @@ zucks.net
 !
 ! --- Block other adsVN ---
 !
+mobile.confsettings.com
+jscdn.greeter.me
 rimpirbtmxg.com
 fakeerupriser.com
 fumarinpest.com
@@ -2007,7 +2009,6 @@ adru.net
 ads-bi.zenkube.com
 ads-click.com
 ads-ios-sdk.ogury.co
-ads-trk.vidible.tv
 ads.4tube.com
 ads.5ci.lt
 ads.abovetopsecret.com
@@ -6062,6 +6063,7 @@ zxc.world
 !
 ! --- Block other trackingVN ---
 !
+analytics-s4.com
 histats.link
 snap.licdn.com
 truehits.in.th

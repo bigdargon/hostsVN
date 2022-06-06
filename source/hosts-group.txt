@@ -276,14 +276,6 @@
 0.0.0.0 adserver.bing.com
 0.0.0.0 bat.bing.com
 0.0.0.0 c.bing.com
-#[monitor.azure.com]
-0.0.0.0 global.in.ai.monitor.azure.com
-0.0.0.0 global.in.ai.privatelink.monitor.azure.com
-0.0.0.0 js.monitor.azure.com
-0.0.0.0 monitor.azure.com
-#[services.visualstudio.com]
-0.0.0.0 dc-int.services.visualstudio.com
-0.0.0.0 dc.services.visualstudio.com
 #[amazon.com]
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax-us-east-retail-direct.amazon.com
@@ -2663,6 +2655,7 @@
 0.0.0.0 pixel.advertising.com
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 uac.advertising.com
+0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 www.advertising.com
 #[moatads]
 0.0.0.0 adgrx.moatads.com
@@ -10555,3 +10548,7 @@
 #[starbre.net]
 0.0.0.0 lampcfads.starbre.net
 0.0.0.0 lampservice.starbre.net
+#[vidible.tv]
+0.0.0.0 ads-adaptv.vidible.tv
+0.0.0.0 ads-trk.vidible.tv
+0.0.0.0 trk.vidible.tv

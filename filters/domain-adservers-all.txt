@@ -1,9 +1,10 @@
 ! Title: hostsVN
-! Last modified: 06 Jun 2022 11:27 UTC+7
-! Version: 2206061127
-! Blocked: 8.233 domains
+! Last modified: 06 Jun 2022 15:35 UTC+7
+! Version: 2206061535
+! Blocked: 8.248 domains
 ! The section containing the list contains all ad networks and tracking
 !
+bongdadem.net
 genmonet.com
 dns.ladipage.com
 a.ladipage.com
@@ -251,6 +252,8 @@ zminer.zaloapp.com
 zplayer-trk.zdn.vn
 zplayer.trk.zapps.vn
 ztevents.zaloapp.com
+xl.plvb.xyz
+vb.plvb.xyz
 ads.admatrix.vn
 12signup.com
 5734a40f2d.vws.vegacdn.vn
@@ -389,7 +392,6 @@ bgadx.com
 bidgear-syndication.com
 bluemaulpuffs.com
 cdn-ads.thesaigontimes.vn
-cdn.bongdadem.net
 cdn.rongzhouxing.com
 cdn2.cache.vn
 chiasephim.xyz
@@ -750,6 +752,16 @@ widget.subiz.net
 widget.subiz.xyz
 za.baomoi.com
 zigzag.vn
+789b.live
+789b.dev
+dafacai360.com
+nearom.com
+debet.info
+ek882.com
+33betf.com
+33betad.com
+aw8vn3.com
+vx88.live
 ebet.com
 tha.bet
 v9betasia.com
@@ -1454,6 +1466,9 @@ v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
+trk.vidible.tv
+ads-trk.vidible.tv
+ads-adaptv.vidible.tv
 lampcfads.starbre.net
 lampservice.starbre.net
 msgapp.com
@@ -2060,8 +2075,6 @@ data.sec.intl.miui.com
 data.sec.miui.com
 datacollector-dra.dt.hicloud.com
 datawrkz.com
-dc-int.services.visualstudio.com
-dc.services.visualstudio.com
 deepintent.com
 deltadna.net
 demandbase.com
@@ -2450,7 +2463,6 @@ mobytrks.com
 modoro360.com
 moengage.com
 mondiad.net
-monitor.azure.com
 mookie1.com
 mopub.com
 mouseflow.com
@@ -2936,6 +2948,8 @@ zergnet.com
 zetadeo.com
 zqtk.net
 zucks.net
+mobile.confsettings.com
+jscdn.greeter.me
 rimpirbtmxg.com
 fakeerupriser.com
 fumarinpest.com
@@ -3456,7 +3470,6 @@ adru.net
 ads-bi.zenkube.com
 ads-click.com
 ads-ios-sdk.ogury.co
-ads-trk.vidible.tv
 ads.4tube.com
 ads.5ci.lt
 ads.abovetopsecret.com
@@ -7508,6 +7521,7 @@ zumobi.com
 zuphaims.com
 zvetokr2hr8pcng09.com
 zxc.world
+analytics-s4.com
 histats.link
 snap.licdn.com
 truehits.in.th
@@ -8229,6 +8243,7 @@ wpshsdk.com
 wpush.org
 wpushsdk.com
 8d6fac2030.com
+a43fba7878.com
 cdn12359286.ahacdn.me
 cdn28786515.ahacdn.me
 cdn44221613.ahacdn.me

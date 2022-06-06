@@ -1,4 +1,6 @@
 # --- Block other adsVN ---
+0.0.0.0 mobile.confsettings.com
+0.0.0.0 jscdn.greeter.me
 0.0.0.0 rimpirbtmxg.com
 0.0.0.0 fakeerupriser.com
 0.0.0.0 fumarinpest.com
@@ -526,7 +528,6 @@
 0.0.0.0 ads-bi.zenkube.com
 0.0.0.0 ads-click.com
 0.0.0.0 ads-ios-sdk.ogury.co
-0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads.4tube.com
 0.0.0.0 ads.5ci.lt
 0.0.0.0 ads.abovetopsecret.com
@@ -4708,6 +4709,7 @@
 0.0.0.0 zvetokr2hr8pcng09.com
 0.0.0.0 zxc.world
 # --- Block other trackingVN ---
+0.0.0.0 analytics-s4.com
 0.0.0.0 histats.link
 0.0.0.0 snap.licdn.com
 0.0.0.0 truehits.in.th
