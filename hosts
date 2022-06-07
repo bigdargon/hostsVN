@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Jun 2022 15:35 UTC+7
-# Version: 2206061535
-# Blocked: 16.803 domains
+# Last modified: 07 Jun 2022 09:40 UTC+7
+# Version: 2206070940
+# Blocked: 16.812 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12166,6 +12166,9 @@
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 # --- Block trackingVN ---
+0.0.0.0 tracking.cystack.net
+0.0.0.0 analytics.vnncdn.net
+0.0.0.0 mautic.200lab.io
 0.0.0.0 sentry.thucuc.vn
 0.0.0.0 track.ivymoda.com
 0.0.0.0 thongke.khampha.vn
@@ -17985,6 +17988,9 @@
 0.0.0.0 wpushsdk.com
 0.0.0.0 8d6fac2030.com
 0.0.0.0 a43fba7878.com
+0.0.0.0 pupush.net
+0.0.0.0 wpush.net
+0.0.0.0 pushic.com
 #[cdn12359286.ahacdn.me]
 0.0.0.0 0696e8978a.e0d4e3650c.com
 #[cdn28786515.ahacdn.me]
@@ -18078,6 +18084,9 @@
 0.0.0.0 f4733d7c73.1d354c1645.com
 #[cdn65182383.ahacdn.me]
 0.0.0.0 js.jnkstff.com
+0.0.0.0 inp.pupush.net
+0.0.0.0 na.wpush.net
+0.0.0.0 dm.pushic.com
 #[cdn81910013.ahacdn.me]
 0.0.0.0 na.nawpush.com
 #[ntvpforever.com]
