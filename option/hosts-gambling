@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 07 Jun 2022 09:40 UTC+7
-# Version: 2206070940
-# Blocked: 3.835 domains
+# Last modified: 08 Jun 2022 15:09 UTC+7
+# Version: 2206081509
+# Blocked: 3.839 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1587,6 +1587,10 @@
 0.0.0.0 789b.dev
 0.0.0.0 dafacai360.com
 0.0.0.0 www.dafacai360.com
+0.0.0.0 linkvaobw.info
+0.0.0.0 www.linkvaobw.info
+0.0.0.0 sieubong88.info
+0.0.0.0 www.sieubong88.info
 # --- Block other gameblingVN ---
 0.0.0.0 978bet3.com
 0.0.0.0 www.978bet3.com

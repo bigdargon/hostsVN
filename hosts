@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Jun 2022 09:40 UTC+7
-# Version: 2206070940
-# Blocked: 16.812 domains
+# Last modified: 08 Jun 2022 15:09 UTC+7
+# Version: 2206081509
+# Blocked: 16.973 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10564,6 +10564,12 @@
 0.0.0.0 ads-adaptv.vidible.tv
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 trk.vidible.tv
+#[customer.io]
+0.0.0.0 assets.customer.io
+0.0.0.0 customer.io
+0.0.0.0 edge-west.customer.io
+0.0.0.0 track-sdk.customer.io
+0.0.0.0 track.customer.io
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -11906,7 +11912,11 @@
 #[bongdadem.net]
 0.0.0.0 bongdadem.net
 0.0.0.0 cdn.bongdadem.net
+#[fptplay.net]
+0.0.0.0 ads-cdn.fptplay.net
+0.0.0.0 sentry.fptplay.net
 # --- Block adsVN ---
+0.0.0.0 ads.fptplay.vn
 0.0.0.0 xl.plvb.xyz
 0.0.0.0 vb.plvb.xyz
 0.0.0.0 ads.admatrix.vn
@@ -11939,7 +11949,6 @@
 0.0.0.0 adpostback.headlines.pw
 0.0.0.0 ads-api.playfun.vn
 0.0.0.0 ads-backend.nhadatmoi.net
-0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads.1thegioi.vn
 0.0.0.0 ads.247phim.com
 0.0.0.0 ads.568play.vn
@@ -12166,6 +12175,7 @@
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 # --- Block trackingVN ---
+0.0.0.0 sentry-mini.zalo.me
 0.0.0.0 tracking.cystack.net
 0.0.0.0 analytics.vnncdn.net
 0.0.0.0 mautic.200lab.io
@@ -12511,6 +12521,152 @@
 0.0.0.0 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 0.0.0.0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 # --- Block other adsVN ---
+0.0.0.0 dismantlepenantiterrorist.com
+0.0.0.0 currierfrank.com
+0.0.0.0 fuzeelamby.com
+0.0.0.0 trusterejecta.com
+0.0.0.0 acronycgrimes.com
+0.0.0.0 airdropemboil.com
+0.0.0.0 applescringe.com
+0.0.0.0 astaticglib.com
+0.0.0.0 axillovely.com
+0.0.0.0 barbelskerugma.com
+0.0.0.0 bedsitetrypa.com
+0.0.0.0 behootpokeys.com
+0.0.0.0 bonnilytooths.com
+0.0.0.0 caruagedlr.com
+0.0.0.0 clayierglaiks.com
+0.0.0.0 cocoachviver.com
+0.0.0.0 cogwoodwelder.com
+0.0.0.0 cynicaugural.com
+0.0.0.0 deepermagnes.com
+0.0.0.0 dewiestsards.com
+0.0.0.0 diresozines.com
+0.0.0.0 dirgywhacks.com
+0.0.0.0 dolesminced.com
+0.0.0.0 eggnogsicerya.com
+0.0.0.0 egistonemes.com
+0.0.0.0 ellpaniers.com
+0.0.0.0 enamberchivies.com
+0.0.0.0 englandhogmane.com
+0.0.0.0 epigaeatoasty.com
+0.0.0.0 escudotagalog.com
+0.0.0.0 ferulaecharger.com
+0.0.0.0 figgynudest.com
+0.0.0.0 furiosocomique.com
+0.0.0.0 garagesewe.com
+0.0.0.0 geddshippy.com
+0.0.0.0 gleitmappy.com
+0.0.0.0 gliffyfreaked.com
+0.0.0.0 goergleeds.com
+0.0.0.0 groowzer.com
+0.0.0.0 hexinggurges.com
+0.0.0.0 hollekeamboina.com
+0.0.0.0 honershexosan.com
+0.0.0.0 incurvedisagio.com
+0.0.0.0 irchincsp.com
+0.0.0.0 jainaritzily.com
+0.0.0.0 jogglyisohel.com
+0.0.0.0 kaikmumms.com
+0.0.0.0 kareaumatzot.com
+0.0.0.0 katukaunamiss.com
+0.0.0.0 kronervisile.com
+0.0.0.0 lyssapebble.com
+0.0.0.0 menlithium.com
+0.0.0.0 olefinefraist.com
+0.0.0.0 oncomeannuals.com
+0.0.0.0 origaniberes.com
+0.0.0.0 papayaburbles.com
+0.0.0.0 plumbummoca.com
+0.0.0.0 pulpybizarre.com
+0.0.0.0 reflushneuma.com
+0.0.0.0 resawsmas.com
+0.0.0.0 revincenizam.com
+0.0.0.0 scornamentum.com
+0.0.0.0 straticjustice.com
+0.0.0.0 suinglygaggler.com
+0.0.0.0 tatevowel.com
+0.0.0.0 twazzyoidwlfe.com
+0.0.0.0 unblestrustic.com
+0.0.0.0 visagedbeard.com
+0.0.0.0 waymarkgentiin.com
+0.0.0.0 zamiasbrouze.com
+0.0.0.0 agenduret.com
+0.0.0.0 alcaidloggers.com
+0.0.0.0 algistorder.com
+0.0.0.0 amucksballone.com
+0.0.0.0 atropiathames.com
+0.0.0.0 awsharproofed.com
+0.0.0.0 bathingonlay.com
+0.0.0.0 beholdascared.com
+0.0.0.0 benzolescabrin.com
+0.0.0.0 bionicskamsins.com
+0.0.0.0 bishsonants.com
+0.0.0.0 bleokerrie.com
+0.0.0.0 bluejayfacette.com
+0.0.0.0 bustlemiszone.com
+0.0.0.0 candielzenaga.com
+0.0.0.0 carabidshooter.com
+0.0.0.0 casavasstamnoi.com
+0.0.0.0 cathodecreped.com
+0.0.0.0 curdlecobiron.com
+0.0.0.0 curupeymaceman.com
+0.0.0.0 dehairpodley.com
+0.0.0.0 diffidecrams.com
+0.0.0.0 effateuncrisp.com
+0.0.0.0 elicitsfoozle.com
+0.0.0.0 fatsosjogs.com
+0.0.0.0 felonlosel.com
+0.0.0.0 fitchedgiveth.com
+0.0.0.0 flagmantensity.com
+0.0.0.0 flaxenvapour.com
+0.0.0.0 geldantgrins.com
+0.0.0.0 gruschiwere.com
+0.0.0.0 hypogeeinial.com
+0.0.0.0 ibanwatch.com
+0.0.0.0 juicesphose.com
+0.0.0.0 leisengr.com
+0.0.0.0 meisjecleeks.com
+0.0.0.0 meshpetrols.com
+0.0.0.0 mingledventin.com
+0.0.0.0 mirishkeeps.com
+0.0.0.0 mondialwering.com
+0.0.0.0 nakirfettle.com
+0.0.0.0 nasrolaugers.com
+0.0.0.0 nonusesectatic.com
+0.0.0.0 ongaromusket.com
+0.0.0.0 orthitepetrous.com
+0.0.0.0 outgateniceish.com
+0.0.0.0 pansymerbaby.com
+0.0.0.0 peggedolga.com
+0.0.0.0 petriekalmias.com
+0.0.0.0 phasmfranca.com
+0.0.0.0 phuttrice.com
+0.0.0.0 pierrottease.com
+0.0.0.0 puggedproses.com
+0.0.0.0 returnsflyswat.com
+0.0.0.0 sacralcabaa.com
+0.0.0.0 seisinhinger.com
+0.0.0.0 shrewdoscular.com
+0.0.0.0 sleevedcaelum.com
+0.0.0.0 smoochsodso.com
+0.0.0.0 spanuletubings.com
+0.0.0.0 speersferny.com
+0.0.0.0 spitzerpfunde.com
+0.0.0.0 subveinlanista.com
+0.0.0.0 sweetskojiki.com
+0.0.0.0 tarvemowhay.com
+0.0.0.0 tempterbothroi.com
+0.0.0.0 tenthsfrumpy.com
+0.0.0.0 thongedoptions.com
+0.0.0.0 treateryowler.com
+0.0.0.0 untruerbelili.com
+0.0.0.0 viatorayme.com
+0.0.0.0 yawnspuker.com
+0.0.0.0 ad365.cc
+0.0.0.0 insanitynominate.com
+0.0.0.0 srv.tunefindforfans.com
+0.0.0.0 www.ad365.cc
 0.0.0.0 mobile.confsettings.com
 0.0.0.0 jscdn.greeter.me
 0.0.0.0 rimpirbtmxg.com
@@ -17221,6 +17377,7 @@
 0.0.0.0 zvetokr2hr8pcng09.com
 0.0.0.0 zxc.world
 # --- Block other trackingVN ---
+0.0.0.0 log.mofa.go.kr
 0.0.0.0 analytics-s4.com
 0.0.0.0 histats.link
 0.0.0.0 snap.licdn.com
@@ -17839,6 +17996,10 @@
 0.0.0.0 youthfire.com
 0.0.0.0 zarget.com
 # --- Block other scamVN ---
+0.0.0.0 share-apple.com
+0.0.0.0 www.share-apple.com
+0.0.0.0 live-icloud.com
+0.0.0.0 www.live-icloud.com
 0.0.0.0 76236osm1.ru
 0.0.0.0 abutparker.com
 0.0.0.0 cdn.cluodlfare.com
@@ -17991,6 +18152,7 @@
 0.0.0.0 pupush.net
 0.0.0.0 wpush.net
 0.0.0.0 pushic.com
+0.0.0.0 84d5acbe01.com
 #[cdn12359286.ahacdn.me]
 0.0.0.0 0696e8978a.e0d4e3650c.com
 #[cdn28786515.ahacdn.me]
@@ -18050,6 +18212,7 @@
 0.0.0.0 js.wpushsdk.com
 0.0.0.0 sw.wpush.org
 0.0.0.0 7b71d01bd6.a43fba7878.com
+0.0.0.0 284e5b9d4f.84d5acbe01.com
 #[cdn44221613.ahacdn.me]
 0.0.0.0 0490217d1b.39785fe3f1.com
 0.0.0.0 07992b9524.ad1d862ce0.com

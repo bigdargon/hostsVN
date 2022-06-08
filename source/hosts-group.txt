@@ -10552,3 +10552,9 @@
 0.0.0.0 ads-adaptv.vidible.tv
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 trk.vidible.tv
+#[customer.io]
+0.0.0.0 assets.customer.io
+0.0.0.0 customer.io
+0.0.0.0 edge-west.customer.io
+0.0.0.0 track-sdk.customer.io
+0.0.0.0 track.customer.io
