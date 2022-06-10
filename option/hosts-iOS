@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Jun 2022 15:09 UTC+7
-# Version: 2206081509
-# Blocked: 16.973 domains
+# Last modified: 10 Jun 2022 11:39 UTC+7
+# Version: 2206101139
+# Blocked: 17.033 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9458,6 +9458,57 @@
 0 edge-west.customer.io
 0 track-sdk.customer.io
 0 track.customer.io
+0 ads.snapchat.com
+0 adsapi.snapchat.com
+0 app-analytics-v2.snapchat.com
+0 app-analytics.snapchat.com
+0 tr.snapchat.com
+0 tr6.snapchat.com
+0 cdn.sb4you1.com
+0 sb4you1.com
+0 www.sb4you1.com
+0 c.contentsquare.net
+0 contentsquare.net
+0 l.contentsquare.net
+0 r.contentsquare.net
+0 t.contentsquare.net
+0 analytics.mobile.walmart.com
+0 beacon.affil.walmart.com
+0 beacon.walmart.com
+0 drfdisvc.walmart.com
+0 metrics.walmart.com
+0 smetrics.walmart.com
+0 2468.go2cloud.org
+0 bigbangads.go2cloud.org
+0 bvoffers-elb.go2cloud.org
+0 directoffers.go2cloud.org
+0 tabmo2018.go2cloud.org
+0 tapjoy.go2cloud.org
+0 col.site24x7rum.eu
+0 site24x7rum.eu
+0 static.site24x7rum.eu
+0 rpdn.relateddigital.com
+0 wps.relateddigital.com
+0 atrack.avplayer.com
+0 track1.avplayer.com
+0 apps.media-lab.ai
+0 js.media-lab.ai
+0 ads.imgur.com
+0 p.imgur.com
+0 t.imgur.com
+0 cdn.tt.omtrdc.net
+0 hb.omtrdc.net
+0 omtrdc.net
+0 sc.omtrdc.net
+0 tt.omtrdc.net
+0 demdex.net
+0 dpm.demdex.net
+0 cdn-0.d41.co
+0 d41.co
+0 ecf.d41.co
+0 vid1240.d41.co
+0 6sc.co
+0 j.6sc.co
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -11250,6 +11301,14 @@
 0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
+0 topdisplayformat.com
+0 profitablecpmgate.com
+0 driftstupidityopponent.com
+0 hatbenchmajestic.com
+0 creepingbrings.com
+0 visilabs.com
+0 visilabs.net
+0 lockerdomecdn.com
 0 dismantlepenantiterrorist.com
 0 currierfrank.com
 0 fuzeelamby.com
@@ -11412,7 +11471,6 @@
 0 petasusawber.com
 0 producerplot.com
 0 understandintimidate.com
-0 sb4you1.com
 0 cdn.netcatx.com
 0 boriskink.com
 0 pikedhelloed.com
@@ -12044,7 +12102,6 @@
 0 ads.icq.com
 0 ads.ign.com
 0 ads.img.co.za
-0 ads.imgur.com
 0 ads.infi.net
 0 ads.interfax.ru
 0 ads.internic.co.il
@@ -12137,7 +12194,6 @@
 0 ads.sift.co.uk
 0 ads.silverdisc.co.uk
 0 ads.smartclick.com
-0 ads.snapchat.com
 0 ads.socialtheater.com
 0 ads.soft32.com
 0 ads.space.com
@@ -12208,7 +12264,6 @@
 0 ads8.com
 0 adsage.cn
 0 adsage.com
-0 adsapi.snapchat.com
 0 adsapi.togothermany.cn
 0 adsbridge.com
 0 adscan.yelabapp.com
@@ -13287,7 +13342,6 @@
 0 deloplen.com
 0 deloton.com
 0 delusionrather.com
-0 demdex.net
 0 denbeigemark.com
 0 dendranthe4edm7um.com
 0 denetsuk.com
@@ -14614,7 +14668,6 @@
 0 oxydend2r5umarb8oreum.com
 0 oygohusvggaurod.xyz
 0 ozongees.com
-0 p.imgur.com
 0 p.tanx.com
 0 p4r24.eu
 0 padstm.com
@@ -16105,6 +16158,14 @@
 0 zuphaims.com
 0 zvetokr2hr8pcng09.com
 0 zxc.world
+0 analytics.gismart.xyz
+0 analytics.jumboprivacy.com
+0 analytics.newscred.com
+0 munchkin.marketo.net
+0 beacon.walmart.ca
+0 s.yjtag.jp
+0 ddla593ymz72o.cloudfront.net
+0 uh.nakanohito.jp
 0 log.mofa.go.kr
 0 analytics-s4.com
 0 histats.link
@@ -16218,7 +16279,6 @@
 0 api.wipmania.com
 0 api2.poperblocker.com
 0 apolloprogram.io
-0 app-analytics.snapchat.com
 0 app-measurement.com
 0 app.adjust.net.in
 0 app.adjust.world
@@ -16233,7 +16293,6 @@
 0 beacon.gu-web.net
 0 beacon.riskified.com
 0 beacon.shazam.com
-0 beacon.walmart.com
 0 beampulse.com
 0 bento.agoda.com
 0 beyondsecurity.com
@@ -16618,7 +16677,6 @@
 0 tobapplog.ctobsnssdk.com
 0 toblog.ctobsnssdk.com
 0 top-fwz1.mail.ru
-0 tr.snapchat.com
 0 track-aws.notsy.io
 0 track.56txs4.com
 0 track.analytics-data.io
@@ -16876,6 +16934,7 @@
 0 wpush.net
 0 pushic.com
 0 84d5acbe01.com
+0 5fcc5e7d92.com
 0 0696e8978a.e0d4e3650c.com
 0 8a129b6462.8d6fac2030.com
 0 0b05d0612b.0565f1f90c.com
@@ -16934,6 +16993,7 @@
 0 sw.wpush.org
 0 7b71d01bd6.a43fba7878.com
 0 284e5b9d4f.84d5acbe01.com
+0 e087cf10cc.5fcc5e7d92.com
 0 0490217d1b.39785fe3f1.com
 0 07992b9524.ad1d862ce0.com
 0 0f13eb71c8.74adf02407.com

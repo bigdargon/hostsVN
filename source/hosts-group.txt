@@ -10558,3 +10558,68 @@
 0.0.0.0 edge-west.customer.io
 0.0.0.0 track-sdk.customer.io
 0.0.0.0 track.customer.io
+#[snapchat.com]
+0.0.0.0 ads.snapchat.com
+0.0.0.0 adsapi.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 tr6.snapchat.com
+#[sb4you1.com]
+0.0.0.0 cdn.sb4you1.com
+0.0.0.0 sb4you1.com
+0.0.0.0 www.sb4you1.com
+#[contentsquare.net]
+0.0.0.0 c.contentsquare.net
+0.0.0.0 contentsquare.net
+0.0.0.0 l.contentsquare.net
+0.0.0.0 r.contentsquare.net
+0.0.0.0 t.contentsquare.net
+#[walmart.com]
+0.0.0.0 analytics.mobile.walmart.com
+0.0.0.0 beacon.affil.walmart.com
+0.0.0.0 beacon.walmart.com
+0.0.0.0 drfdisvc.walmart.com
+0.0.0.0 metrics.walmart.com
+0.0.0.0 smetrics.walmart.com
+#[go2cloud.org]
+0.0.0.0 2468.go2cloud.org
+0.0.0.0 bigbangads.go2cloud.org
+0.0.0.0 bvoffers-elb.go2cloud.org
+0.0.0.0 directoffers.go2cloud.org
+0.0.0.0 tabmo2018.go2cloud.org
+0.0.0.0 tapjoy.go2cloud.org
+#[site24x7rum.eu]
+0.0.0.0 col.site24x7rum.eu
+0.0.0.0 site24x7rum.eu
+0.0.0.0 static.site24x7rum.eu
+#[relateddigital.com]
+0.0.0.0 rpdn.relateddigital.com
+0.0.0.0 wps.relateddigital.com
+#[avplayer.com]
+0.0.0.0 atrack.avplayer.com
+0.0.0.0 track1.avplayer.com
+#[media-lab.ai]
+0.0.0.0 apps.media-lab.ai
+0.0.0.0 js.media-lab.ai
+#[imgur.com]
+0.0.0.0 ads.imgur.com
+0.0.0.0 p.imgur.com
+0.0.0.0 t.imgur.com
+#[omtrdc.net]
+0.0.0.0 cdn.tt.omtrdc.net
+0.0.0.0 hb.omtrdc.net
+0.0.0.0 omtrdc.net
+0.0.0.0 sc.omtrdc.net
+0.0.0.0 tt.omtrdc.net
+#[demdex.net]
+0.0.0.0 demdex.net
+0.0.0.0 dpm.demdex.net
+#[d41.co]
+0.0.0.0 cdn-0.d41.co
+0.0.0.0 d41.co
+0.0.0.0 ecf.d41.co
+0.0.0.0 vid1240.d41.co
+#[6sc.co]
+0.0.0.0 6sc.co
+0.0.0.0 j.6sc.co
