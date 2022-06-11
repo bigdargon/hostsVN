@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Jun 2022 12:30 UTC+7
-# Version: 2206111230
-# Blocked: 17.031 domains
+# Last modified: 11 Jun 2022 12:45 UTC+7
+# Version: 2206111245
+# Blocked: 17.028 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11837,10 +11837,7 @@
 0.0.0.0 cdn.myad.vn
 0.0.0.0 dmp.myad.vn
 0.0.0.0 www.myad.vn
-#[fptad.com]
-0.0.0.0 fptad.com
-0.0.0.0 partner.fptad.com
-0.0.0.0 www.fptad.com
+#[customers.fptad.com]
 0.0.0.0 customers.fptad.com
 0.0.0.0 img.customers.fptad.com
 0.0.0.0 static.customers.fptad.com

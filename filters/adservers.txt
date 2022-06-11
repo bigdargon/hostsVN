@@ -1,11 +1,12 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Jun 2022 12:30 UTC+7
-! Version: 2206111230
+! Last modified: 11 Jun 2022 12:45 UTC+7
+! Version: 2206111245
 ! Blocked: 1.468 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
+||customers.fptad.com^
 ||ads-cdn.fptplay.net^
 ||sentry.fptplay.net^
 ||bongdadem.net^
@@ -103,7 +104,6 @@
 ||eclick.vn^
 ||eva-ad.24hstatic.com^
 ||flygame.io^
-||fptad.com^
 ||fuseplatform.net^
 ||gammadsp.com^
 ||gammaplatform.com^

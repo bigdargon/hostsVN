@@ -1200,10 +1200,7 @@
 0.0.0.0 cdn.myad.vn
 0.0.0.0 dmp.myad.vn
 0.0.0.0 www.myad.vn
-#[fptad.com]
-0.0.0.0 fptad.com
-0.0.0.0 partner.fptad.com
-0.0.0.0 www.fptad.com
+#[customers.fptad.com]
 0.0.0.0 customers.fptad.com
 0.0.0.0 img.customers.fptad.com
 0.0.0.0 static.customers.fptad.com
