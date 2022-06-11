@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Jun 2022 11:39 UTC+7
-# Version: 2206101139
-# Blocked: 17.033 domains
+# Last modified: 11 Jun 2022 12:30 UTC+7
+# Version: 2206111230
+# Blocked: 17.031 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11982,8 +11982,6 @@
 0.0.0.0 sentry.fptplay.net
 # --- Block adsVN ---
 0.0.0.0 ads.fptplay.vn
-0.0.0.0 xl.plvb.xyz
-0.0.0.0 vb.plvb.xyz
 0.0.0.0 ads.admatrix.vn
 0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
