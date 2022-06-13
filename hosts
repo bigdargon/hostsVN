@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Jun 2022 12:45 UTC+7
-# Version: 2206111245
-# Blocked: 17.028 domains
+# Last modified: 13 Jun 2022 14:10 UTC+7
+# Version: 2206131410
+# Blocked: 17.036 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10635,6 +10635,13 @@
 #[6sc.co]
 0.0.0.0 6sc.co
 0.0.0.0 j.6sc.co
+#[adclerks.com]
+0.0.0.0 adclerks.com
+0.0.0.0 adn1.adclerks.com
+0.0.0.0 adn2.adclerks.com
+0.0.0.0 cdn.adclerks.com
+0.0.0.0 static.adclerks.com
+0.0.0.0 www.adclerks.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -11978,7 +11985,6 @@
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 sentry.fptplay.net
 # --- Block adsVN ---
-0.0.0.0 ads.fptplay.vn
 0.0.0.0 ads.admatrix.vn
 0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
@@ -12581,6 +12587,9 @@
 0.0.0.0 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 0.0.0.0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 # --- Block other adsVN ---
+0.0.0.0 adsninja.ca
+0.0.0.0 bordeaux.futurecdn.net
+0.0.0.0 vebo-vast.pages.dev
 0.0.0.0 topdisplayformat.com
 0.0.0.0 profitablecpmgate.com
 0.0.0.0 driftstupidityopponent.com

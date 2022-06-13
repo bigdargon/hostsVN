@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Jun 2022 12:45 UTC+7
-! Version: 2206111245
-! Blocked: 1.468 rules
+! Last modified: 13 Jun 2022 14:10 UTC+7
+! Version: 2206131410
+! Blocked: 1.470 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -256,7 +256,6 @@
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
 ||ztevents.zaloapp.com^
-||ads.fptplay.vn^
 ||ads.admatrix.vn^
 ||12signup.com^
 ||5734a40f2d.vws.vegacdn.vn^
@@ -758,6 +757,9 @@
 ||widget.subiz.xyz^
 ||za.baomoi.com^
 ||zigzag.vn^
+||vwthethao.com^
+||8x055.com^
+||comebetvn10.com^
 ||linkvaobw.info^
 ||sieubong88.info^
 ||789b.live^

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Jun 2022 12:45 UTC+7
-# Version: 2206111245
-# Blocked: 1.787 domains
+# Last modified: 13 Jun 2022 14:10 UTC+7
+# Version: 2206131410
+# Blocked: 1.786 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1353,7 +1353,6 @@
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 sentry.fptplay.net
 # --- Block adsVN ---
-0.0.0.0 ads.fptplay.vn
 0.0.0.0 ads.admatrix.vn
 0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
