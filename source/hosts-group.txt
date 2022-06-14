@@ -10630,3 +10630,9 @@
 0.0.0.0 cdn.adclerks.com
 0.0.0.0 static.adclerks.com
 0.0.0.0 www.adclerks.com
+#[prdredir.com]
+0.0.0.0 pixel.prdredir.com
+0.0.0.0 prdredir.com
+0.0.0.0 rtg.prdredir.com
+0.0.0.0 scripts.prdredir.com
+0.0.0.0 www.prdredir.com
