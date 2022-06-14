@@ -10599,9 +10599,6 @@
 #[avplayer.com]
 0.0.0.0 atrack.avplayer.com
 0.0.0.0 track1.avplayer.com
-#[media-lab.ai]
-0.0.0.0 apps.media-lab.ai
-0.0.0.0 js.media-lab.ai
 #[imgur.com]
 0.0.0.0 ads.imgur.com
 0.0.0.0 p.imgur.com
@@ -10636,3 +10633,10 @@
 0.0.0.0 rtg.prdredir.com
 0.0.0.0 scripts.prdredir.com
 0.0.0.0 www.prdredir.com
+#[popin.cc]
+0.0.0.0 a.popin.cc
+0.0.0.0 api.popin.cc
+0.0.0.0 discoveryplus.popin.cc
+0.0.0.0 popin.cc
+0.0.0.0 r.popin.cc
+0.0.0.0 rlog.popin.cc

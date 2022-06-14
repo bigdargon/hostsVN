@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Jun 2022 11:43 UTC+7
-# Version: 2206141143
-# Blocked: 17.105 domains
+# Last modified: 14 Jun 2022 13:33 UTC+7
+# Version: 2206141333
+# Blocked: 17.110 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10611,9 +10611,6 @@
 #[avplayer.com]
 0.0.0.0 atrack.avplayer.com
 0.0.0.0 track1.avplayer.com
-#[media-lab.ai]
-0.0.0.0 apps.media-lab.ai
-0.0.0.0 js.media-lab.ai
 #[imgur.com]
 0.0.0.0 ads.imgur.com
 0.0.0.0 p.imgur.com
@@ -10648,6 +10645,13 @@
 0.0.0.0 rtg.prdredir.com
 0.0.0.0 scripts.prdredir.com
 0.0.0.0 www.prdredir.com
+#[popin.cc]
+0.0.0.0 a.popin.cc
+0.0.0.0 api.popin.cc
+0.0.0.0 discoveryplus.popin.cc
+0.0.0.0 popin.cc
+0.0.0.0 r.popin.cc
+0.0.0.0 rlog.popin.cc
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12594,6 +12598,7 @@
 0.0.0.0 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 0.0.0.0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 # --- Block other adsVN ---
+0.0.0.0 apps.media-lab.ai
 0.0.0.0 mtttvrit.com
 0.0.0.0 wrapper.lemde.fr
 0.0.0.0 ietyofedinj89yewtburgh.com
