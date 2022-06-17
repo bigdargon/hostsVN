@@ -412,6 +412,8 @@
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 saber.srvcs.tumblr.com
 #[yahoo.com]
+0.0.0.0 3p-geo.yahoo.com
+0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 bats.video.yahoo.com
@@ -3177,6 +3179,7 @@
 0.0.0.0 rtb.openx.net
 0.0.0.0 rtbdemand-d.openx.net
 0.0.0.0 sea-u.openx.net
+0.0.0.0 twentyfourhonlineadvertising-d.openx.net
 0.0.0.0 u.openx.net
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 us-ads.openx.net
@@ -9692,6 +9695,7 @@
 0.0.0.0 wizardlog.cn-hongkong.log.aliyuncs.com
 0.0.0.0 log-global.aliyuncs.com
 0.0.0.0 hdp-raw-log.log-global.aliyuncs.com
+0.0.0.0 adash.man.aliyuncs.com
 #[userreport.com]
 0.0.0.0 analytics.userreport.com
 0.0.0.0 bapi.userreport.com
@@ -10640,3 +10644,23 @@
 0.0.0.0 popin.cc
 0.0.0.0 r.popin.cc
 0.0.0.0 rlog.popin.cc
+#[bidder.dev]
+0.0.0.0 bidder.dev
+0.0.0.0 cdn.bidder.dev
+#[dictionary.com]
+0.0.0.0 spanids.dictionary.com
+0.0.0.0 track.dictionary.com
+#[thesaurus.com]
+0.0.0.0 spanids.thesaurus.com
+0.0.0.0 track.thesaurus.com
+#[hs.eloqua.com]
+0.0.0.0 hs.eloqua.com
+0.0.0.0 s334284386.hs.eloqua.com
+0.0.0.0 p03h.hs.eloqua.com
+#[phonograph2.voxmedia.com]
+0.0.0.0 optimize-stats.voxmedia.com
+0.0.0.0 phonograph2.voxmedia.com
+#[smilewanted.com]
+0.0.0.0 csync.smilewanted.com
+0.0.0.0 prebid.smilewanted.com
+0.0.0.0 smilewanted.com

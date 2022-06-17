@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Jun 2022 13:33 UTC+7
-# Version: 2206141333
-# Blocked: 17.110 domains
+# Last modified: 17 Jun 2022 16:28 UTC+7
+# Version: 2206171628
+# Blocked: 17.170 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -424,6 +424,8 @@
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 saber.srvcs.tumblr.com
 #[yahoo.com]
+0.0.0.0 3p-geo.yahoo.com
+0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 bats.video.yahoo.com
@@ -3189,6 +3191,7 @@
 0.0.0.0 rtb.openx.net
 0.0.0.0 rtbdemand-d.openx.net
 0.0.0.0 sea-u.openx.net
+0.0.0.0 twentyfourhonlineadvertising-d.openx.net
 0.0.0.0 u.openx.net
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 us-ads.openx.net
@@ -9704,6 +9707,7 @@
 0.0.0.0 wizardlog.cn-hongkong.log.aliyuncs.com
 0.0.0.0 log-global.aliyuncs.com
 0.0.0.0 hdp-raw-log.log-global.aliyuncs.com
+0.0.0.0 adash.man.aliyuncs.com
 #[userreport.com]
 0.0.0.0 analytics.userreport.com
 0.0.0.0 bapi.userreport.com
@@ -10652,6 +10656,26 @@
 0.0.0.0 popin.cc
 0.0.0.0 r.popin.cc
 0.0.0.0 rlog.popin.cc
+#[bidder.dev]
+0.0.0.0 bidder.dev
+0.0.0.0 cdn.bidder.dev
+#[dictionary.com]
+0.0.0.0 spanids.dictionary.com
+0.0.0.0 track.dictionary.com
+#[thesaurus.com]
+0.0.0.0 spanids.thesaurus.com
+0.0.0.0 track.thesaurus.com
+#[hs.eloqua.com]
+0.0.0.0 hs.eloqua.com
+0.0.0.0 s334284386.hs.eloqua.com
+0.0.0.0 p03h.hs.eloqua.com
+#[phonograph2.voxmedia.com]
+0.0.0.0 optimize-stats.voxmedia.com
+0.0.0.0 phonograph2.voxmedia.com
+#[smilewanted.com]
+0.0.0.0 csync.smilewanted.com
+0.0.0.0 prebid.smilewanted.com
+0.0.0.0 smilewanted.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12598,6 +12622,39 @@
 0.0.0.0 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 0.0.0.0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 # --- Block other adsVN ---
+0.0.0.0 yfetyg.com
+0.0.0.0 displaycontentprofit.com
+0.0.0.0 peskyclarifysuitcases.com
+0.0.0.0 yonomastara.com
+0.0.0.0 yaarlnk.com
+0.0.0.0 wowhugoo.com
+0.0.0.0 wilslide.com
+0.0.0.0 whoostoo.net
+0.0.0.0 vugnubier.com
+0.0.0.0 vouhecem.net
+0.0.0.0 virleth.com
+0.0.0.0 viewlnk.com
+0.0.0.0 upgastlyr.com
+0.0.0.0 mumsimso.net
+0.0.0.0 casserolehunchcontract.com
+0.0.0.0 spotlighthemp.com
+0.0.0.0 system-notify.app
+0.0.0.0 evitingawabi.com
+0.0.0.0 ethicel.com
+0.0.0.0 effectivedisplayformats.com
+0.0.0.0 glimtors.net
+0.0.0.0 effectivecpmcontent.com
+0.0.0.0 facesnotebook.com
+0.0.0.0 phpadsnew.wn.com
+0.0.0.0 raphidewakener.com
+0.0.0.0 rdr.wargaming.net
+0.0.0.0 stakingsmile.com
+0.0.0.0 kampyle.com
+0.0.0.0 d3rjndf2qggsna.cloudfront.net
+0.0.0.0 oaphoace.net
+0.0.0.0 fleraprt.com
+0.0.0.0 tzegilo.com
+0.0.0.0 luracancamus.com
 0.0.0.0 apps.media-lab.ai
 0.0.0.0 mtttvrit.com
 0.0.0.0 wrapper.lemde.fr
@@ -15997,7 +16054,6 @@
 0.0.0.0 opinionstage.com
 0.0.0.0 opsivesh.net
 0.0.0.0 optimallimit.com
-0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 optimost.com
 0.0.0.0 optmd.com
 0.0.0.0 optmstr.com
@@ -16632,7 +16688,6 @@
 0.0.0.0 smetrics.ctv.ca
 0.0.0.0 smetrics.walgreens.com
 0.0.0.0 smileoffennec.com
-0.0.0.0 smilewanted.com
 0.0.0.0 smilingwaves.com
 0.0.0.0 smopy.com
 0.0.0.0 smowtion.com
@@ -17521,6 +17576,15 @@
 0.0.0.0 zvetokr2hr8pcng09.com
 0.0.0.0 zxc.world
 # --- Block other trackingVN ---
+0.0.0.0 d1yu67rmchodpo.cloudfront.net
+0.0.0.0 data.abebooks.com
+0.0.0.0 geoplugin.net
+0.0.0.0 track.lexico.com
+0.0.0.0 apac.kingston.com
+0.0.0.0 lift.acquia.com
+0.0.0.0 zz.bdstatic.com
+0.0.0.0 piwik.pro
+0.0.0.0 ibd-as-api.iq.com
 0.0.0.0 cl.canva.com
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 analytics.gismart.xyz
@@ -18305,6 +18369,7 @@
 0.0.0.0 pushic.com
 0.0.0.0 84d5acbe01.com
 0.0.0.0 5fcc5e7d92.com
+0.0.0.0 8429a46b31.com
 #[cdn12359286.ahacdn.me]
 0.0.0.0 0696e8978a.e0d4e3650c.com
 #[cdn28786515.ahacdn.me]
@@ -18366,6 +18431,7 @@
 0.0.0.0 7b71d01bd6.a43fba7878.com
 0.0.0.0 284e5b9d4f.84d5acbe01.com
 0.0.0.0 e087cf10cc.5fcc5e7d92.com
+0.0.0.0 6651b33041.8429a46b31.com
 #[cdn44221613.ahacdn.me]
 0.0.0.0 0490217d1b.39785fe3f1.com
 0.0.0.0 07992b9524.ad1d862ce0.com
