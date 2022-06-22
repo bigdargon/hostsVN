@@ -127,6 +127,7 @@ www.googleadservices.com
 analytics.google.com
 click.google-analytics.com
 google-analytics.com
+region1.google-analytics.com
 sandbox.google-analytics.com
 ssl.google-analytics.com
 www.google-analytics.com
@@ -7466,6 +7467,7 @@ m.eskimi.com
 stats.eskimi.com
 trk.eskimi.com
 www.eskimi.com
+ads-dev.pinterest.com
 ads.pinterest.com
 analytics.pinterest.com
 ct.pinterest.com
@@ -8753,6 +8755,7 @@ tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
 tap-snow-hk.cn-hongkong.log.aliyuncs.com
 wizardlog.cn-hongkong.log.aliyuncs.com
 log-global.aliyuncs.com
+bb-client.log-global.aliyuncs.com
 hdp-raw-log.log-global.aliyuncs.com
 adash.man.aliyuncs.com
 analytics.userreport.com
@@ -9526,6 +9529,19 @@ phonograph2.voxmedia.com
 csync.smilewanted.com
 prebid.smilewanted.com
 smilewanted.com
+bid.underdog.media
+underdog.media
+e-planning.net
+pbjs.e-planning.net
+platform.pubfuture.com
+pubfuture.com
+stats.paypal.com
+b.stats.paypal.com
+slc.stats.paypal.com
+clickcdn.co
+us.clickcdn.co
+verblife-5.co
+clk.verblife-5.co
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -11130,8 +11146,6 @@ mautic.teky.edu.vn
 mkt.hoanghamobile.com
 monitor.teko.vn
 mto.cgv.vn
-myharavan.com
-mysapo.net
 nct1.logging.nextsmarty.com
 newlog.daidoanket.vn
 nstat.headlines.pw
@@ -13550,7 +13564,6 @@ e-adimages.scrippsnetworks.com
 e-bannerx.com
 e-debtconsolidation.com
 e-m.fr
-e-planning.net
 e-ssl.apsalar.com
 e.apsalar.com
 e.kde.cz
@@ -15801,7 +15814,6 @@ ulukaris.com
 umiyyusldc.com
 unanimis.co.uk
 unarmedindustry.com
-underdog.media
 unknowntray.com
 unreshiramor.com
 untd.com
@@ -16542,7 +16554,6 @@ i-mar.com
 i.mxplayer.j2inter.com
 i.shannon-fisher.xyz
 iaudienc.com
-ib.isappcloud.com
 idio.co
 ie8eamus.com
 ilogs.bytefence.com
@@ -16632,7 +16643,6 @@ msg-intl.qy.net
 msg.qy.net
 mybbc-analytics.files.bbci.co.uk
 netcore.co.in
-newlog.lilithgame.com
 nexus.ensighten.com
 nonglirili.net
 notify.bugsnag.com

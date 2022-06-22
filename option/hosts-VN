@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Jun 2022 16:28 UTC+7
-# Version: 2206171628
-# Blocked: 1.787 domains
+# Last modified: 22 Jun 2022 15:42 UTC+7
+# Version: 2206221542
+# Blocked: 1.785 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1770,8 +1770,6 @@
 0.0.0.0 mkt.hoanghamobile.com
 0.0.0.0 monitor.teko.vn
 0.0.0.0 mto.cgv.vn
-0.0.0.0 myharavan.com
-0.0.0.0 mysapo.net
 0.0.0.0 nct1.logging.nextsmarty.com
 0.0.0.0 newlog.daidoanket.vn
 0.0.0.0 nstat.headlines.pw

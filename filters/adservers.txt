@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Jun 2022 16:28 UTC+7
-! Version: 2206171628
+! Last modified: 22 Jun 2022 15:42 UTC+7
+! Version: 2206221542
 ! Blocked: 1.471 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -652,8 +652,6 @@
 ||mkt.hoanghamobile.com^
 ||monitor.teko.vn^
 ||mto.cgv.vn^
-||myharavan.com^
-||mysapo.net^
 ||nct1.logging.nextsmarty.com^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
@@ -758,6 +756,8 @@
 ||widget.subiz.xyz^
 ||za.baomoi.com^
 ||zigzag.vn^
+||016665.com^
+||m8winvnn.com^
 ||vwthethao.com^
 ||8x055.com^
 ||comebetvn10.com^

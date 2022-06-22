@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Jun 2022 16:28 UTC+7
-# Version: 2206171628
-# Blocked: 17.170 domains
+# Last modified: 22 Jun 2022 15:42 UTC+7
+# Version: 2206221542
+# Blocked: 17.180 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -151,6 +151,7 @@
 #[google-analytics.com]
 0.0.0.0 click.google-analytics.com
 0.0.0.0 google-analytics.com
+0.0.0.0 region1.google-analytics.com
 0.0.0.0 sandbox.google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
@@ -8174,6 +8175,7 @@
 0.0.0.0 trk.eskimi.com
 0.0.0.0 www.eskimi.com
 #[pinterest.com]
+0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads.pinterest.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 ct.pinterest.com
@@ -9706,6 +9708,7 @@
 0.0.0.0 tap-snow-hk.cn-hongkong.log.aliyuncs.com
 0.0.0.0 wizardlog.cn-hongkong.log.aliyuncs.com
 0.0.0.0 log-global.aliyuncs.com
+0.0.0.0 bb-client.log-global.aliyuncs.com
 0.0.0.0 hdp-raw-log.log-global.aliyuncs.com
 0.0.0.0 adash.man.aliyuncs.com
 #[userreport.com]
@@ -10676,6 +10679,25 @@
 0.0.0.0 csync.smilewanted.com
 0.0.0.0 prebid.smilewanted.com
 0.0.0.0 smilewanted.com
+#[underdog.media]
+0.0.0.0 bid.underdog.media
+0.0.0.0 underdog.media
+#[e-planning.net]
+0.0.0.0 e-planning.net
+0.0.0.0 pbjs.e-planning.net
+#[pubfuture.com]
+0.0.0.0 platform.pubfuture.com
+0.0.0.0 pubfuture.com
+#[stats.paypal.com]
+0.0.0.0 stats.paypal.com
+0.0.0.0 b.stats.paypal.com
+0.0.0.0 slc.stats.paypal.com
+#[clickcdn.co]
+0.0.0.0 clickcdn.co
+0.0.0.0 us.clickcdn.co
+#[verblife-5.co]
+0.0.0.0 verblife-5.co
+0.0.0.0 clk.verblife-5.co
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12436,8 +12458,6 @@
 0.0.0.0 mkt.hoanghamobile.com
 0.0.0.0 monitor.teko.vn
 0.0.0.0 mto.cgv.vn
-0.0.0.0 myharavan.com
-0.0.0.0 mysapo.net
 0.0.0.0 nct1.logging.nextsmarty.com
 0.0.0.0 newlog.daidoanket.vn
 0.0.0.0 nstat.headlines.pw
@@ -14859,7 +14879,6 @@
 0.0.0.0 e-bannerx.com
 0.0.0.0 e-debtconsolidation.com
 0.0.0.0 e-m.fr
-0.0.0.0 e-planning.net
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 e.apsalar.com
 0.0.0.0 e.kde.cz
@@ -17110,7 +17129,6 @@
 0.0.0.0 umiyyusldc.com
 0.0.0.0 unanimis.co.uk
 0.0.0.0 unarmedindustry.com
-0.0.0.0 underdog.media
 0.0.0.0 unknowntray.com
 0.0.0.0 unreshiramor.com
 0.0.0.0 untd.com
@@ -17852,7 +17870,6 @@
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.shannon-fisher.xyz
 0.0.0.0 iaudienc.com
-0.0.0.0 ib.isappcloud.com
 0.0.0.0 idio.co
 0.0.0.0 ie8eamus.com
 0.0.0.0 ilogs.bytefence.com
@@ -17942,7 +17959,6 @@
 0.0.0.0 msg.qy.net
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 netcore.co.in
-0.0.0.0 newlog.lilithgame.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nonglirili.net
 0.0.0.0 notify.bugsnag.com

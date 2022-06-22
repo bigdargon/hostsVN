@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 17 Jun 2022 16:28 UTC+7
-# Version: 2206171628
-# Blocked: 3.847 domains
+# Last modified: 22 Jun 2022 15:42 UTC+7
+# Version: 2206221542
+# Blocked: 3.851 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1599,6 +1599,10 @@
 0.0.0.0 8x055.com
 0.0.0.0 www.8x055.com
 0.0.0.0 vwthethao.com
+0.0.0.0 016665.com
+0.0.0.0 api.016665.com
+0.0.0.0 www.016665.com
+0.0.0.0 m8winvnn.com
 # --- Block other gameblingVN ---
 0.0.0.0 978bet3.com
 0.0.0.0 www.978bet3.com
