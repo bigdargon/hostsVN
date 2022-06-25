@@ -1173,10 +1173,12 @@
 #[sapoapps.vn]
 0.0.0.0 blogstatistics.sapoapps.vn
 0.0.0.0 bwstatistics.sapoapps.vn
+0.0.0.0 google-shopping-v2.sapoapps.vn
 0.0.0.0 google-shopping.sapoapps.vn
 0.0.0.0 googleshopping.sapoapps.vn
 0.0.0.0 popup.sapoapps.vn
 0.0.0.0 promotionpopup.sapoapps.vn
+0.0.0.0 statistic-blog-v2.sapoapps.vn
 #[onmarketer.net]
 0.0.0.0 onmarketer.net
 0.0.0.0 beta.onmarketer.net
@@ -1287,6 +1289,7 @@
 0.0.0.0 boxpr.aiservice.vn
 0.0.0.0 js.aiservice.vn
 0.0.0.0 nspapi.aiservice.vn
+0.0.0.0 rec.aiservice.vn
 #[analytics.saas-vn.network]
 0.0.0.0 analytics.saas-vn.network
 0.0.0.0 congnb.analytics.saas-vn.network

@@ -680,9 +680,17 @@
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 smartadserver.com
 0.0.0.0 sync.smartadserver.com
+0.0.0.0 tagmanager.smartadserver.com
 0.0.0.0 tmk.smartadserver.com
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www3.smartadserver.com
+#[sascdn.com]
+0.0.0.0 ak-ns.sascdn.com
+0.0.0.0 ak.sascdn.com
+0.0.0.0 apps.sascdn.com
+0.0.0.0 ced-ns.sascdn.com
+0.0.0.0 ced.sascdn.com
+0.0.0.0 mobileconfig.sascdn.com
 #[styria-digital.com]
 0.0.0.0 smart.styria-digital.com
 0.0.0.0 static.styria-digital.com
@@ -8493,6 +8501,7 @@
 0.0.0.0 s.pixanalytics.com
 #[advividnetwork.com]
 0.0.0.0 advividnetwork.com
+0.0.0.0 rhea-cache.advividnetwork.com
 0.0.0.0 sun-cdn.advividnetwork.com
 0.0.0.0 sun.advividnetwork.com
 #[uniconsent.com]
@@ -9731,10 +9740,15 @@
 0.0.0.0 www.mm-cgnews.com
 #[pubpowerplatform.io]
 0.0.0.0 assets.pubpowerplatform.io
+0.0.0.0 currency.pubpowerplatform.io
+0.0.0.0 els.pubpowerplatform.io
 0.0.0.0 ms.pubpowerplatform.io
 0.0.0.0 nc.pubpowerplatform.io
 0.0.0.0 pix.pubpowerplatform.io
 0.0.0.0 pubpowerplatform.io
+0.0.0.0 tag.pubpowerplatform.io
+0.0.0.0 ul.pubpowerplatform.io
+0.0.0.0 www.pubpowerplatform.io
 #[appsflyersdk.com]
 0.0.0.0 api.appsflyersdk.com
 0.0.0.0 appsflyersdk.com
@@ -10454,10 +10468,6 @@
 0.0.0.0 go.hpyrdr.com
 0.0.0.0 hpyrdr.com
 0.0.0.0 wl.hpyrdr.com
-#[sascdn.com]
-0.0.0.0 ak-ns.sascdn.com
-0.0.0.0 ced.sascdn.com
-0.0.0.0 mobileconfig.sascdn.com
 #[polarbyte.com]
 0.0.0.0 analytics.polarbyte.com
 0.0.0.0 api.polarbyte.com
@@ -10686,3 +10696,35 @@
 #[verblife-5.co]
 0.0.0.0 verblife-5.co
 0.0.0.0 clk.verblife-5.co
+#[inforsea.com]
+0.0.0.0 call.inforsea.com
+0.0.0.0 pixel.inforsea.com
+#[sharedid.org]
+0.0.0.0 id.sharedid.org
+0.0.0.0 sharedid.org
+#[adcell.com]
+0.0.0.0 adcell.com
+0.0.0.0 t.adcell.com
+0.0.0.0 www.adcell.com
+#[sail-personalize.com]
+0.0.0.0 api.sail-personalize.com
+0.0.0.0 aws-api.sail-personalize.com
+#[sail-track.com]
+0.0.0.0 api.sail-track.com
+0.0.0.0 aws-api.sail-track.com
+#[tinypass.com]
+0.0.0.0 cdn.tinypass.com
+0.0.0.0 dashboard.tinypass.com
+0.0.0.0 experience.tinypass.com
+#[visualwebsiteoptimizer.com]
+0.0.0.0 dev.visualwebsiteoptimizer.com
+0.0.0.0 r1.visualwebsiteoptimizer.com
+0.0.0.0 r2.visualwebsiteoptimizer.com
+0.0.0.0 r3.visualwebsiteoptimizer.com
+#[researchnow.com]
+0.0.0.0 researchnow.com
+0.0.0.0 tag.researchnow.com
+#[tvpixel.com]
+0.0.0.0 tvpixel.com
+0.0.0.0 c.tvpixel.com
+0.0.0.0 p.tvpixel.com
