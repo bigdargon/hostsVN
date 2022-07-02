@@ -3022,6 +3022,12 @@
 0.0.0.0 insights.clevertap.com
 0.0.0.0 static.clevertap.com
 0.0.0.0 www.clevertap.com
+#[clevertap-prod.com]
+0.0.0.0 clevertap-prod.com
+0.0.0.0 eu1.clevertap-prod.com
+0.0.0.0 in1.clevertap-prod.com
+0.0.0.0 sg1.clevertap-prod.com
+0.0.0.0 us1.clevertap-prod.com
 #[freshmarketer]
 0.0.0.0 app.freshmarketer.com
 0.0.0.0 cdn.freshmarketer.com
@@ -3607,12 +3613,12 @@
 0.0.0.0 www.adtarget.me
 #[ayads.co]
 0.0.0.0 ads.ayads.co
-0.0.0.0 antenna.ayads.co
 0.0.0.0 antenna-apse.ayads.co
 0.0.0.0 antenna-us.ayads.co
+0.0.0.0 antenna.ayads.co
 0.0.0.0 ayadsaws.ayads.co
 0.0.0.0 cdn.ayads.co
-0.0.0.0 cdno.ayads.co
+0.0.0.0 event-collector.ayads.co
 0.0.0.0 geoworker.ayads.co
 0.0.0.0 optchk.ayads.co
 0.0.0.0 res.ayads.co
@@ -6109,12 +6115,13 @@
 0.0.0.0 yieldlove-ad-serving.net
 #[s-onetag.com]
 0.0.0.0 beacon.s-onetag.com
+0.0.0.0 connect-metrics-collector.s-onetag.com
 0.0.0.0 data-beacons.s-onetag.com
 0.0.0.0 dfp-gateway.s-onetag.com
 0.0.0.0 get.s-onetag.com
 0.0.0.0 metrics-collector.s-onetag.com
-0.0.0.0 onetag-geo.s-onetag.com
 0.0.0.0 onetag-geo-grouping.s-onetag.com
+0.0.0.0 onetag-geo.s-onetag.com
 0.0.0.0 prebid.s-onetag.com
 0.0.0.0 s-onetag.com
 0.0.0.0 www.s-onetag.com
@@ -10728,3 +10735,48 @@
 0.0.0.0 tvpixel.com
 0.0.0.0 c.tvpixel.com
 0.0.0.0 p.tvpixel.com
+#[starmakerstudios.com]
+0.0.0.0 analytics.starmakerstudios.com
+0.0.0.0 track.starmakerstudios.com
+#[ivitrack.com]
+0.0.0.0 ivitrack.com
+0.0.0.0 clk.ivitrack.com
+0.0.0.0 consent.ivitrack.com
+0.0.0.0 events.ivitrack.com
+0.0.0.0 ipe.ivitrack.com
+0.0.0.0 ipm.ivitrack.com
+0.0.0.0 itm.ivitrack.com
+0.0.0.0 matching.ivitrack.com
+0.0.0.0 opn.ivitrack.com
+0.0.0.0 profiles.ivitrack.com
+0.0.0.0 tag.ivitrack.com
+#[beop.io]
+0.0.0.0 ads-tracking.beop.io
+0.0.0.0 beop.io
+0.0.0.0 contents-tracking.beop.io
+0.0.0.0 s.beop.io
+0.0.0.0 t.beop.io
+0.0.0.0 widget.beop.io
+#[espn.com]
+0.0.0.0 dcf.espn.com
+0.0.0.0 sw88.espn.com
+#[adsmanager.ga]
+0.0.0.0 adsmanager.ga
+0.0.0.0 view.adsmanager.ga
+#[crowdtwist.com]
+0.0.0.0 cdn.crowdtwist.com
+0.0.0.0 resources.crowdtwist.com
+#[squeezely.tech]
+0.0.0.0 squeezely.tech
+0.0.0.0 t.squeezely.tech
+#[adinsight.co.kr]
+0.0.0.0 adinsight.co.kr
+0.0.0.0 adlog.adinsight.co.kr
+0.0.0.0 analysis.adinsight.co.kr
+#[amgdgt.com]
+0.0.0.0 ad.amgdgt.com
+0.0.0.0 amgdgt.com
+#[zeotap.com]
+0.0.0.0 mwzeom.zeotap.com
+0.0.0.0 spl.zeotap.com
+0.0.0.0 zeotap.com

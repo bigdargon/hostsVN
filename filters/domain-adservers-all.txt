@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 25 Jun 2022 21:19 UTC+7
-! Version: 2206252119
-! Blocked: 8.642 domains
+! Last modified: 02 Jul 2022 23:16 UTC+7
+! Version: 2207022316
+! Blocked: 8.685 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -48,6 +48,7 @@ adtima-video.zascdn.me
 adtima.vn
 adtimaserver.vn
 adx.vn
+affmates.com
 aiactiv.io
 ambient-platform.com
 ambientdsp.com
@@ -59,7 +60,9 @@ anthill.vn
 ants.vn
 anymind360-com.cdn.ampproject.org
 anymind360.com
+api.nas.nct.vn
 api.widget.zalo.me
+apinas.nct.vn
 atdnetwork.com
 autoads.asia
 banners-gallery.coccoc.com
@@ -123,13 +126,23 @@ lavamedia.vn
 lavanetwork.net
 log-vietnamplus-vn.cdn.ampproject.org
 log.api.zaloapp.com
+log.dantocmiennui.vn
 log.mp3.zing.vn
 log.news.zing.vn
 log.tv.zing.vn
+log.vietnamplus.vn
 log.zingmp3.vn
 log.zingnews.vn
+logen.vietnamplus.vn
+loges.vietnamplus.vn
+logfr.vietnamplus.vn
+logkm.dantocmiennui.vn
+logru.vietnamplus.vn
 logv2.mp3.zing.vn
+logzh.dantocmiennui.vn
+logzh.vietnamplus.vn
 matomo.*.vn
+mautic.*.com.vn
 mautic.*.vn
 mclick.mobi
 mediad.asia
@@ -147,6 +160,7 @@ mplaylist-ads.zascdn.me
 myad.vn
 nanda.vn
 native-ad.net
+nct2-logging.nct.vn
 novanet.vn
 novaon.asia
 novaon.vn
@@ -167,6 +181,7 @@ photo-ads.zaloapp.com
 phukienthoitranggiare.com
 piads.vn
 pinetech.vn
+piwik.*.com.vn
 piwik.*.vn
 pixel.coccoc.com
 polyad.net
@@ -188,7 +203,9 @@ rec.aiservice.vn
 sbbanner-com.cdn.ampproject.org
 sbz.vn
 sdk.zadn.vn
+sentry-mini.zalo.me
 sentry.fptplay.net
+sentry.ministore.h5.zalo.me
 service-api.accesstrade.vn
 serving-system.com
 shop-cdn.coccoc.com
@@ -273,6 +290,7 @@ ad.phunuxuavanay.vn
 ad.sunflower.vn
 ad.vietbao.vn
 ad.vkool.net
+ad.zinimedia.com
 adadmin.headlines.pw
 adapi.tuyensinh247.com
 adchoice.com
@@ -323,6 +341,7 @@ ads.nhadatmoi.net
 ads.phunuonline.com.vn
 ads.phunusuckhoe.vn
 ads.phunuvagiadinh.vn
+ads.sexyland.vn
 ads.songmoi.vn
 ads.suckhoegiadinh.com.vn
 ads.thanhnien.vn
@@ -379,10 +398,8 @@ ak9.6895588.com
 an.dongphim.net
 an.xemvtv.net
 api.boclinkads.com
-api.nas.nct.vn
 api2.boclinkads.com
 apia.headlines.pw
-apinas.nct.vn
 as.gamevui.com
 avoadsservices.com
 banhtv.org
@@ -390,6 +407,7 @@ banner.5giay.vn
 banner.etargeting.mobifone.vn
 banner.thadaco.vn
 banner.trangvangvietnam.com
+banner.uto.vn
 bgadx.com
 bidgear-syndication.com
 bluemaulpuffs.com
@@ -402,6 +420,7 @@ clipbongda.info
 clix.vn
 core.vnecdn.com
 cpx.vnecdn.com
+cre-ads.com
 crocopop.com
 csmads.gameclick.vn
 delecpuzz.com
@@ -445,6 +464,7 @@ qc.japo.vn
 qc.kqbd88.com
 qc.mhsolution.vn
 qc.violet.vn
+qcao.happyskin.vn
 qctt24h.24h.com.vn
 qcv5.blogtruyen.vn
 quangcao.24h.com.vn
@@ -505,12 +525,15 @@ analytic.baodantoc.vn
 analytic.vnanet.vn
 analytics.admon.com.vn
 analytics.aita.gov.vn
+analytics.bachtuongphat.com
 analytics.bkav.com
 analytics.bkav.com.vn
+analytics.bluemotionmedia.vn
 analytics.diamondstarfinancial.com.vn
 analytics.explus.vn
 analytics.fsoft.com.vn
 analytics.hub-js.com
+analytics.jamstackvietnam.com
 analytics.mfocus.vn
 analytics.molistar.com
 analytics.moneycat.vn
@@ -574,6 +597,7 @@ la3.vnecdn.net
 lg.lotus.vn
 live.vnpgroup.net
 liveonline.nhanhoa.com
+lmsreport.systems.vn
 log-collector.shopee.vn
 log.anninhthudo.vn
 log.baodatviet.vn
@@ -586,9 +610,9 @@ log.beecost.com
 log.beecost.vn
 log.bizlive.vn
 log.daidoanket.vn
-log.dantocmiennui.vn
 log.dav.edu.vn
 log.doanhnhan.vn
+log.dubaotiente.com
 log.giaoduc.net.vn
 log.hemera.com.vn
 log.infonet.vn
@@ -616,7 +640,6 @@ log.trithuctructuyen.com.vn
 log.trithuctructuyen.vn
 log.tv360.vn
 log.vietnamdaily.net.vn
-log.vietnamplus.vn
 log.viettimes.vn
 log.vnay.vn
 log.vneconomy.vn
@@ -626,7 +649,6 @@ log.vovplus.vn
 log.zamba.vn
 log4x.nixcdn.com
 logapi.misa.com.vn
-logen.vietnamplus.vn
 logg4u.cnnd.vn
 logging.kinhtedothi.vn
 logperf.vnexpress.net
@@ -637,6 +659,7 @@ logs1.reatimes.vn
 logsbin.dantri.com.vn
 logscafef.channelvn.net
 marketing.itgeek.vn
+matomo.quan.hoabinh.vn
 mautic.200lab.io
 mautic.teky.edu.vn
 mkt.hoanghamobile.com
@@ -657,7 +680,6 @@ s.homedy.com
 s.kenh14.vn
 s.soha.vn
 s.tuoitre.vn
-sentry-mini.zalo.me
 sentry.dantri.com.vn
 sentry.mediacdn.vn
 sentry.sendo.vn
@@ -828,6 +850,7 @@ zigzag.vn
 88gobet.com
 88new.cc
 88online.me
+88thaicasinoslots.com
 88viet.com
 88vnd.com
 88vwin.com
@@ -1077,9 +1100,11 @@ ktokto.mobi
 ktoviet.com
 ktovn.com
 ku6101.net
+ku6106.net
 ku6110.net
 ku6131.net
 ku777bet.com
+ku998.net
 kubet.ac
 kubet.biz
 kubet.gg
@@ -1264,6 +1289,7 @@ taigamesunwin.vin
 taigo88vn.com
 taiiwin.club
 taiiwinclub.cc
+taikufun.com
 taimacau.club
 taimanclub.com
 tainbet.net
@@ -1388,6 +1414,7 @@ x8.club
 x8.vin
 x8vn.com
 xemdabanh.club
+xengtructuyen.com
 xingtou888.com
 xoso12345.com
 xoso5678.com
@@ -1585,6 +1612,7 @@ adhaven.com
 adhigh.net
 adiiix.com
 adimages.go.com
+adinsight.co.kr
 adition.com
 adjust.com
 adjust.io
@@ -1693,6 +1721,7 @@ adskeeper.co.uk
 adskeeper.com
 adsloads.com
 adslot.uc.cn
+adsmanager.ga
 adspeed.net
 adspirit.de
 adspruce.com
@@ -1783,6 +1812,7 @@ amazon-adsystems.com
 ambientdsp.cachefly.net
 amdc.m.taobao.com
 amdcopen.m.taobao.com
+amgdgt.com
 amplitude.com
 amung.us
 amxrtb.com
@@ -1803,6 +1833,7 @@ analytics.msnbc.msn.com
 analytics.pinterest.com
 analytics.query.yahoo.com
 analytics.spotify.com
+analytics.starmakerstudios.com
 analytics.tiktok.com
 analytics.twitter.com
 analytics.yahoo.com
@@ -1924,6 +1955,7 @@ beap-bc.yahoo.com
 beaverads.com
 bebi.com
 beeketing.com
+beop.io
 bestcontentfood.top
 betrad.com
 betweendigital.com
@@ -2022,6 +2054,7 @@ clck.yandex.com
 clck.yandex.ru
 clean.gg
 clevernt.com
+clevertap-prod.com
 clevertap.com
 clickadilla.com
 clickagy.com
@@ -2099,6 +2132,7 @@ data.sec.intl.miui.com
 data.sec.miui.com
 datacollector-dra.dt.hicloud.com
 datawrkz.com
+dcf.espn.com
 deepintent.com
 deltadna.net
 demandbase.com
@@ -2349,6 +2383,7 @@ iqzone.com
 ironbeast.io
 islandmob.com
 ispot.tv
+ivitrack.com
 ivstracker.net
 izooto.com
 jads.co
@@ -2802,6 +2837,7 @@ specificmedia.com
 speedcurve.com
 spotscenered.info
 spotxchange.com
+squeezely.tech
 srtb.msn.com
 srvcs.tumblr.com
 ssl-google-analytics.l.google.com
@@ -2836,6 +2872,7 @@ superfastmediation.com
 supersonicads-a.akamaihd.net
 supersonicads.com
 supportmetrics.apple.com
+sw88.espn.com
 sw88.go.com
 switchadhub.com
 sworkitads.herokuapp.com
@@ -2883,6 +2920,7 @@ tr.snapchat.com
 tr6.snapchat.com
 trace.qq.com
 track.dictionary.com
+track.starmakerstudios.com
 track.thesaurus.com
 track.uc.cn
 track1.avplayer.com
@@ -3037,6 +3075,7 @@ your-notice.com
 yourwebbars.com
 zcoup.com
 zenadservices.net
+zeotap.com
 zergnet.com
 zetadeo.com
 zog.link
@@ -3148,7 +3187,6 @@ ad.abum.com
 ad.adpon.jp
 ad.allstar.cz
 ad.altervista.org
-ad.amgdgt.com
 ad.anuntis.com
 ad.api.3g.tudou.com
 ad.apl11.me
@@ -3178,6 +3216,7 @@ ad.jetsoftware.com
 ad.kissasian.es
 ad.leadboltapps.net
 ad.leadboltmobile.net
+ad.leap.app
 ad.letmeads.com
 ad.liveinternet.ru
 ad.lupa.cz
@@ -3639,6 +3678,7 @@ ads.seniorfriendfinder.com
 ads.sexinyourcity.com
 ads.shizmoo.com
 ads.shopstyle.com
+ads.sibernetworks.com
 ads.sift.co.uk
 ads.silverdisc.co.uk
 ads.smartclick.com
@@ -4017,7 +4057,6 @@ ambiguousquilt.com
 ambitiousagreement.com
 ambleads.com
 americash.com
-amgdgt.com
 amgs5.com
 amillionads.com
 amobee.com
@@ -5701,6 +5740,7 @@ jarvispopsu.com
 jatxt.com
 jaumevie.com
 jawconcealed.com
+jazzspeechlessarena.com
 jcount.com
 jebadu.com
 jenicdntc.com
@@ -5862,6 +5902,7 @@ littlecutedogs.com
 littlecutelions.com
 liveadexchanger.com
 liveintent.com
+livelihoodpracticaloperating.com
 liverail.com
 livezombymil.com
 lizardslaugh.com
@@ -7650,6 +7691,7 @@ vugnubier.com
 vymhnxjyj.com
 w3i.com
 wa.and.co.uk
+waeshana.com
 wagersinging.com
 waisheph.com
 waqool.com
@@ -7865,7 +7907,6 @@ zenaps.com
 zencudo.co.uk
 zenkreka.com
 zenzuu.com
-zeotap.com
 zeroethgipsy.com
 zeusclicks.com
 zeustechnology.com
@@ -8079,6 +8120,7 @@ doug1izaerwt3.cloudfront.net
 down.nishuoa.com
 dualstack-logs.amap.com
 dynatrace.com
+e.viously.com
 e2.platform88798.com
 emltrk.com
 ethtrader.de
@@ -8426,7 +8468,6 @@ track.rentracksw.com
 track.saygames.io
 track.securedvisit.com
 track.sohu.com
-track.starmakerstudios.com
 track.td3x.com
 track.tenjin.io
 track.wattpad.com
@@ -8538,6 +8579,7 @@ urgent-notice.com
 view-apple.com
 view-appleid.com
 zhangtom1989.cn
+connect.facebook.com
 connect.facebook.net
 appsflyer.com
 0439c255ac.com
@@ -8553,6 +8595,7 @@ appsflyer.com
 25391ebf69.com
 255925943c.com
 258c7c3d75.com
+2748cfaad3.com
 338f4d497f.com
 342c15527e.com
 3901da0f4a.com

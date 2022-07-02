@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 25 Jun 2022 21:19 UTC+7
-# Version: 2206252119
-# Blocked: 3.860 domains
+# Last modified: 02 Jul 2022 23:16 UTC+7
+# Version: 2207022316
+# Blocked: 3.874 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1612,6 +1612,20 @@
 0.0.0.0 xoso12345.com
 0.0.0.0 016881.com
 0.0.0.0 www.016881.com
+0.0.0.0 88thaicasinoslots.com
+0.0.0.0 piwik.88thaicasinoslots.com
+0.0.0.0 www.88thaicasinoslots.com
+0.0.0.0 xengtructuyen.com
+0.0.0.0 piwik.xengtructuyen.com
+0.0.0.0 www.xengtructuyen.com
+0.0.0.0 ku6106.net
+0.0.0.0 vn.ku6106.net
+0.0.0.0 images.ku6106.net
+0.0.0.0 ku998.net
+0.0.0.0 mapi.ku998.net
+0.0.0.0 www.ku998.net
+0.0.0.0 taikufun.com
+0.0.0.0 www.taikufun.com
 # --- Block other gameblingVN ---
 0.0.0.0 978bet3.com
 0.0.0.0 www.978bet3.com

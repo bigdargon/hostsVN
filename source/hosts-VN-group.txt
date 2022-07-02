@@ -85,6 +85,7 @@
 0.0.0.0 rec.admicro.vn
 0.0.0.0 sspapi.admicro.vn
 0.0.0.0 static-cmsads.admicro.vn
+0.0.0.0 systracking.admicro.vn
 0.0.0.0 wcc.admicro.vn
 0.0.0.0 www.admicro.vn
 #[admicro*.vcmedia.vn]
@@ -409,6 +410,8 @@
 0.0.0.0 button-share.zalo.me
 0.0.0.0 page.widget.zalo.me
 0.0.0.0 px.za.zalo.me
+0.0.0.0 sentry-mini.zalo.me
+0.0.0.0 sentry.ministore.h5.zalo.me
 0.0.0.0 widget.chat.zalo.me
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
@@ -1110,6 +1113,7 @@
 #[matomo.*.vn]
 0.0.0.0 matomo.ecoe.vn
 0.0.0.0 matomo.energyfacility.vn
+0.0.0.0 matomo.hicity.vn
 0.0.0.0 matomo.magicmarketing.vn
 0.0.0.0 matomo.shac.vn
 0.0.0.0 matomo.vepg.vn
@@ -1126,7 +1130,6 @@
 0.0.0.0 mautic.haproinfo.vn
 0.0.0.0 mautic.hicity.vn
 0.0.0.0 mautic.icsc.vn
-0.0.0.0 mautic.itnavi.com.vn
 0.0.0.0 mautic.jagodo.vn
 0.0.0.0 mautic.paa.vn
 0.0.0.0 mautic.serverhub.vn
@@ -1134,8 +1137,11 @@
 0.0.0.0 mautic.thietkexaynhadep.vn
 0.0.0.0 mautic.vmax.vn
 0.0.0.0 mautic.yte-suckhoe.vn
+#[mautic.*.com.vn]
+0.0.0.0 mautic.itnavi.com.vn
 #[piwik.*.vn]
 0.0.0.0 piwik.rta.vn
+#[piwik.*.com.vn]
 0.0.0.0 piwik.tienhiep.com.vn
 #[accesstrade.vn]
 0.0.0.0 ad.accesstrade.vn
@@ -1343,3 +1349,22 @@
 #[fptplay.net]
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 sentry.fptplay.net
+#[vietnamplus.vn]
+0.0.0.0 log.vietnamplus.vn
+0.0.0.0 logen.vietnamplus.vn
+0.0.0.0 loges.vietnamplus.vn
+0.0.0.0 logfr.vietnamplus.vn
+0.0.0.0 logru.vietnamplus.vn
+0.0.0.0 logzh.vietnamplus.vn
+#[dantocmiennui.vn]
+0.0.0.0 log.dantocmiennui.vn
+0.0.0.0 logkm.dantocmiennui.vn
+0.0.0.0 logzh.dantocmiennui.vn
+#[nct.vn]
+0.0.0.0 api.nas.nct.vn
+0.0.0.0 apinas.nct.vn
+0.0.0.0 nct2-logging.nct.vn
+#[affmates.com]
+0.0.0.0 affmates.com
+0.0.0.0 api.affmates.com
+0.0.0.0 storage.affmates.com
