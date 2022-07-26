@@ -208,6 +208,9 @@
 0.0.0.0 fp.measure.office.com
 0.0.0.0 upload.fp.measure.office.com
 0.0.0.0 upload2.fp.measure.office.com
+#[windows.net]
+0.0.0.0 insitez.blob.core.windows.net
+0.0.0.0 tenmaxsgads.blob.core.windows.net
 #[atdmt.com]
 0.0.0.0 ad.atdmt.com
 0.0.0.0 adecn-w.atdmt.com
@@ -1221,6 +1224,7 @@
 0.0.0.0 www.vungle.com
 #[qq.com]
 0.0.0.0 ad.qq.com
+0.0.0.0 aegis.qq.com
 0.0.0.0 analy.qq.com
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 logsdk.qq.com
@@ -1902,9 +1906,9 @@
 0.0.0.0 clicktrack.pubmatic.com
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 hb.pubmatic.com
-0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbopenbid-sg.pubmatic.com
 0.0.0.0 hbopenbid-sgc.pubmatic.com
+0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 image2.pubmatic.com
 0.0.0.0 image3.pubmatic.com
 0.0.0.0 image4.pubmatic.com
@@ -1912,6 +1916,7 @@
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 image7.pubmatic.com
 0.0.0.0 image8.pubmatic.com
+0.0.0.0 lyr.pubmatic.com
 0.0.0.0 openbid.pubmatic.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 pubmatic.com
@@ -3345,20 +3350,24 @@
 0.0.0.0 uswdirect.adsrvr.org
 0.0.0.0 v.adsrvr.org
 0.0.0.0 va6-bid.adsrvr.org
-#[cxense]
+#[cxense.com]
 0.0.0.0 adserver.cxad.cxense.com
-0.0.0.0 adserver.sandbox.cxad.cxense.com
+0.0.0.0 api.cxense.com
 0.0.0.0 cdn.cxense.com
 0.0.0.0 comcluster.cxense.com
+0.0.0.0 csyn-r.cxense.com
+0.0.0.0 csyn.cxense.com
 0.0.0.0 cxad.cxense.com
 0.0.0.0 cxense.com
 0.0.0.0 fairfax.cxsearch.cxense.com
+0.0.0.0 id.cxense.com
+0.0.0.0 p1cluster.cxense.com
 0.0.0.0 rscdn.cxense.com
 0.0.0.0 s-adserver.cxad.cxense.com
-0.0.0.0 s-adserver.sandbox.cxad.cxense.com
 0.0.0.0 scdn.cxense.com
 0.0.0.0 scomcluster.cxense.com
 0.0.0.0 sp1cluster.cxense.com
+0.0.0.0 tsrid.cxense.com
 #[onscroll]
 0.0.0.0 cdn.onscroll.com
 0.0.0.0 impl.onscroll.com
@@ -3626,7 +3635,6 @@
 0.0.0.0 secure.ayads.co
 0.0.0.0 seg.ayads.co
 0.0.0.0 seg2.ayads.co
-0.0.0.0 sentry.ayads.co
 0.0.0.0 www.ayads.co
 #[heapanalytics.com]
 0.0.0.0 cdn.heapanalytics.com
@@ -4359,6 +4367,7 @@
 0.0.0.0 api.netcoresmartech.com
 0.0.0.0 cdn1.netcoresmartech.com
 0.0.0.0 cdnt.netcoresmartech.com
+0.0.0.0 cpn.netcoresmartech.com
 0.0.0.0 global.netcoresmartech.com
 0.0.0.0 go.netcoresmartech.com
 0.0.0.0 imap.netcoresmartech.com
@@ -7367,7 +7376,6 @@
 0.0.0.0 logger.adthrive.com
 0.0.0.0 looker.adthrive.com
 0.0.0.0 portal.adthrive.com
-0.0.0.0 sentry.adthrive.com
 0.0.0.0 track.adthrive.com
 0.0.0.0 www.adthrive.com
 #[fatchilli.media]
@@ -8573,6 +8581,7 @@
 0.0.0.0 cdn.rlcdn.com
 0.0.0.0 ei.rlcdn.com
 0.0.0.0 geo.rlcdn.com
+0.0.0.0 id.rlcdn.com
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 rc-ext-geo.rlcdn.com
 0.0.0.0 rlcdn.com
@@ -10178,6 +10187,7 @@
 0.0.0.0 www.0i0i0i0.com
 #[useinsider.com]
 0.0.0.0 log.api.useinsider.com
+0.0.0.0 mobile.useinsider.com
 0.0.0.0 mobileanalytics.useinsider.com
 0.0.0.0 useinsider.com
 #[b-cdn.net]
@@ -10780,3 +10790,107 @@
 0.0.0.0 mwzeom.zeotap.com
 0.0.0.0 spl.zeotap.com
 0.0.0.0 zeotap.com
+#[web1s.com]
+0.0.0.0 web1s.com
+0.0.0.0 ssp.web1s.com
+0.0.0.0 www.web1s.com
+#[intentiq.com]
+0.0.0.0 ads.intentiq.com
+0.0.0.0 api.intentiq.com
+0.0.0.0 intentiq.com
+0.0.0.0 pe.intentiq.com
+0.0.0.0 pe1.intentiq.com
+0.0.0.0 sync.intentiq.com
+0.0.0.0 sync1.intentiq.com
+#[360.cn]
+0.0.0.0 ad.jia.360.cn
+0.0.0.0 g.s.360.cn
+0.0.0.0 p.s.360.cn
+0.0.0.0 sdk.s.360.cn
+#[byteoversea.com]
+0.0.0.0 log.byteoversea.com
+0.0.0.0 mon-va.byteoversea.com
+0.0.0.0 mon.byteoversea.com
+0.0.0.0 p16-ad.byteoversea.com
+0.0.0.0 v16-ad.byteoversea.com
+#[lift.acquia.com]
+0.0.0.0 builder.lift.acquia.com
+0.0.0.0 lift.acquia.com
+#[ahacdn.me]
+0.0.0.0 cdn12359286.ahacdn.me
+0.0.0.0 cdn28786515.ahacdn.me
+0.0.0.0 cdn44221613.ahacdn.me
+0.0.0.0 cdn65182383.ahacdn.me
+0.0.0.0 cdn81910013.ahacdn.me
+#[sensic.net]
+0.0.0.0 config.sensic.net
+0.0.0.0 sensic.net
+0.0.0.0 sg-config.sensic.net
+#[sphdigital.com]
+0.0.0.0 adimage.sphdigital.com
+0.0.0.0 adtag.sphdigital.com
+0.0.0.0 creative.sphdigital.com
+0.0.0.0 eventreg.sphdigital.com
+0.0.0.0 tagrec.sphdigital.com
+#[split.io]
+0.0.0.0 auth.split.io
+0.0.0.0 cdn.split.io
+0.0.0.0 events.split.io
+0.0.0.0 sdk.split.io
+#[rovio.com]
+0.0.0.0 ads-cloud.rovio.com
+0.0.0.0 ads.cdn.rovio.com
+0.0.0.0 videoads-cloud.rovio.com
+#[singular.net]
+0.0.0.0 i.singular.net
+0.0.0.0 s2s.singular.net
+0.0.0.0 sdk-api-v1.singular.net
+0.0.0.0 singular.net
+0.0.0.0 skadnetwork.singular.net
+0.0.0.0 t.singular.net
+0.0.0.0 view-prod.ad.singular.net
+#[nimo.tv]
+0.0.0.0 metric.nimo.tv
+0.0.0.0 statwup.nimo.tv
+0.0.0.0 udbdf-v2.nimo.tv
+0.0.0.0 ylog.nimo.tv
+#[indeed.com]
+0.0.0.0 ads.indeed.com
+0.0.0.0 t.indeed.com
+#[conviva.com]
+0.0.0.0 cws.conviva.com
+0.0.0.0 pings.conviva.com
+#[sophi.io]
+0.0.0.0 cdn.sophi.io
+0.0.0.0 sophi.io
+#[cbsi.com]
+0.0.0.0 adimg.cbsi.com
+0.0.0.0 adlog.cbsi.com
+0.0.0.0 at.cbsi.com
+0.0.0.0 intent.cbsi.com
+0.0.0.0 om.cbsi.com
+0.0.0.0 production-cmp.isgprivacy.cbsi.com
+#[cbsi.video]
+0.0.0.0 ads.play.cbsi.video
+0.0.0.0 doppler-reporting.cbsivideo.com
+#[hulu.com]
+0.0.0.0 ads.hulu.com
+0.0.0.0 metcon.hulu.com
+0.0.0.0 t2.hulu.com
+#[hellobar.com]
+0.0.0.0 hellobar.com
+0.0.0.0 my.hellobar.com
+#[att.com]
+0.0.0.0 dynatrace.att.com
+0.0.0.0 smetrics.att.com
+#[lr-in.com]
+0.0.0.0 lr-in.com
+0.0.0.0 cdn.lr-in.com
+0.0.0.0 r.lr-in.com
+#[etp-prod.com]
+0.0.0.0 etp-prod.com
+0.0.0.0 cr-eec.etp-prod.com
+#[stat.ovh]
+0.0.0.0 counter11.stat.ovh
+0.0.0.0 counter9.stat.ovh
+0.0.0.0 stat.ovh

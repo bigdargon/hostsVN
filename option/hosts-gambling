@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 02 Jul 2022 23:16 UTC+7
-# Version: 2207022316
-# Blocked: 3.874 domains
+# Last modified: 26 Jul 2022 16:07 UTC+7
+# Version: 2207261607
+# Blocked: 3.890 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1626,6 +1626,22 @@
 0.0.0.0 www.ku998.net
 0.0.0.0 taikufun.com
 0.0.0.0 www.taikufun.com
+0.0.0.0 ku558.net
+0.0.0.0 mapi.ku558.net
+0.0.0.0 www.ku558.net
+0.0.0.0 seb121.net
+0.0.0.0 mapi.seb121.net
+0.0.0.0 www.seb121.net
+0.0.0.0 taiiwinclub.vip
+0.0.0.0 8dayvn888.com
+0.0.0.0 best.8dayvn888.com
+0.0.0.0 8dayclub.com
+0.0.0.0 www.8dayclub.com
+0.0.0.0 vnn8d.com
+0.0.0.0 8day.com
+0.0.0.0 www.8day.com
+0.0.0.0 sunwinvn.club
+0.0.0.0 lp.sunwinvn.club
 # --- Block other gameblingVN ---
 0.0.0.0 978bet3.com
 0.0.0.0 www.978bet3.com

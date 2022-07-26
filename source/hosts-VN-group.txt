@@ -63,6 +63,7 @@
 0.0.0.0 boxpr.admicro.vn
 0.0.0.0 brand.admicro.vn
 0.0.0.0 cmsanalytics.admicro.vn
+0.0.0.0 content-ml.admicro.vn
 0.0.0.0 corenlp.admicro.vn
 0.0.0.0 defaultdsp.admicro.vn
 0.0.0.0 demo.corenlp.admicro.vn
@@ -410,8 +411,6 @@
 0.0.0.0 button-share.zalo.me
 0.0.0.0 page.widget.zalo.me
 0.0.0.0 px.za.zalo.me
-0.0.0.0 sentry-mini.zalo.me
-0.0.0.0 sentry.ministore.h5.zalo.me
 0.0.0.0 widget.chat.zalo.me
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
@@ -1346,9 +1345,6 @@
 #[bongdadem.net]
 0.0.0.0 bongdadem.net
 0.0.0.0 cdn.bongdadem.net
-#[fptplay.net]
-0.0.0.0 ads-cdn.fptplay.net
-0.0.0.0 sentry.fptplay.net
 #[vietnamplus.vn]
 0.0.0.0 log.vietnamplus.vn
 0.0.0.0 logen.vietnamplus.vn
@@ -1368,3 +1364,23 @@
 0.0.0.0 affmates.com
 0.0.0.0 api.affmates.com
 0.0.0.0 storage.affmates.com
+#[vnpt]
+0.0.0.0 ipcc.vnpt.com.vn
+0.0.0.0 ipcc.shop.vnpt.vn
+#[vnptmedia.vn]
+0.0.0.0 cjmgw.vnptmedia.vn
+0.0.0.0 cjm.vnptmedia.vn
+0.0.0.0 ipcc-vnp1.vnptmedia.vn
+#[mytvnet.vn]
+0.0.0.0 apilog.mytvnet.vn
+0.0.0.0 apilogduration.mytvnet.vn
+#[wiinvent.tv]
+0.0.0.0 api.wiinvent.tv
+0.0.0.0 embed.wiinvent.tv
+0.0.0.0 wiinvent.tv
+#[wiinvent.com.vn]
+0.0.0.0 wiinvent.com.vn
+0.0.0.0 embed.wiinvent.com.vn
+#[tekoapis.com]
+0.0.0.0 cdn.tekoapis.com
+0.0.0.0 tracking.tekoapis.com

@@ -29,6 +29,7 @@
 0.0.0.0 adpostback.headlines.pw
 0.0.0.0 ads-api.playfun.vn
 0.0.0.0 ads-backend.nhadatmoi.net
+0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads.1thegioi.vn
 0.0.0.0 ads.247phim.com
 0.0.0.0 ads.568play.vn
@@ -297,17 +298,18 @@
 0.0.0.0 analytics.vnncdn.net
 0.0.0.0 analytics.vnpt.vn
 0.0.0.0 analytics.vnreview.vn
+0.0.0.0 analytics.yts.vn
 0.0.0.0 analytics.zim.vn
 0.0.0.0 api.ozui.vn
 0.0.0.0 apiv2.tiin.vn
 0.0.0.0 apl.headlines.pw
 0.0.0.0 app.hstatic.net
 0.0.0.0 app.sbz.workers.dev
+0.0.0.0 bi.vhost.vn
 0.0.0.0 btrack.homedy.com
 0.0.0.0 campaign.gitiho.com
 0.0.0.0 cdn.api-connect.io
 0.0.0.0 cdn.doke.app
-0.0.0.0 cdn.tekoapis.com
 0.0.0.0 clicker.chiaki.vn
 0.0.0.0 clientinfo.phimmoizz.net
 0.0.0.0 collect.ovp.vn
@@ -315,9 +317,12 @@
 0.0.0.0 counter.24h.com.vn
 0.0.0.0 counter.ntdvn.com
 0.0.0.0 counter.ntdvn.net
+0.0.0.0 countervov.emitech.vn
+0.0.0.0 county.is.hubs.vn
 0.0.0.0 crm.bizfly.vn
 0.0.0.0 crm.englishtown.edu.vn
 0.0.0.0 crmbizfly.todo.vn
+0.0.0.0 crmx.eqvn.net
 0.0.0.0 cskh.onlinecrm.vn
 0.0.0.0 digi.vinut.com.vn
 0.0.0.0 elink.nhanlucnganhluat.vn
@@ -332,6 +337,7 @@
 0.0.0.0 follow.vnay.vn
 0.0.0.0 gtmjs.com
 0.0.0.0 hit.123c.vn
+0.0.0.0 intranet.dcorp.com.vn
 0.0.0.0 invite.baomoi.com
 0.0.0.0 kh.suno.vn
 0.0.0.0 kv-analytics.kiotviet.vn
@@ -341,6 +347,7 @@
 0.0.0.0 la2.vnecdn.net
 0.0.0.0 la3.vnecdn.net
 0.0.0.0 lg.lotus.vn
+0.0.0.0 live.careplusvn.com
 0.0.0.0 live.vnpgroup.net
 0.0.0.0 liveonline.nhanhoa.com
 0.0.0.0 lmsreport.systems.vn
@@ -372,6 +379,7 @@
 0.0.0.0 log.plo.vn
 0.0.0.0 log.saleup88.vn
 0.0.0.0 log.sggp.org.vn
+0.0.0.0 log.smoney.vn
 0.0.0.0 log.tapchimattran.vn
 0.0.0.0 log.tapchitaichinh.vn
 0.0.0.0 log.thanhnien.vn
@@ -426,10 +434,6 @@
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
 0.0.0.0 s.tuoitre.vn
-0.0.0.0 sentry.dantri.com.vn
-0.0.0.0 sentry.mediacdn.vn
-0.0.0.0 sentry.sendo.vn
-0.0.0.0 sentry.thucuc.vn
 0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 smetrics.kone.vn
 0.0.0.0 socialloginplus-apps.haravan.com
@@ -498,7 +502,6 @@
 0.0.0.0 tracking.hongtinnhanh.com
 0.0.0.0 tracking.meta.vn
 0.0.0.0 tracking.phunuadong.vn
-0.0.0.0 tracking.tekoapis.com
 0.0.0.0 tracking.tinxe.vn
 0.0.0.0 tracking.tvet-vietnam.org
 0.0.0.0 tracking.vegaid.vn
@@ -557,6 +560,7 @@
 0.0.0.0 garena.mobi
 0.0.0.0 garenaa.vn
 0.0.0.0 garenaj.vn
+0.0.0.0 garenalqm.com
 0.0.0.0 garera.vn
 0.0.0.0 garrena.vn
 0.0.0.0 giftcode-lienquanmobile-vn.com
@@ -581,6 +585,7 @@
 0.0.0.0 sacchaeleduk.com
 0.0.0.0 simpliftsbefore.info
 0.0.0.0 smilitygorb.club
+0.0.0.0 support-maps.live
 0.0.0.0 tammenaa.com
 0.0.0.0 thegioididong.me
 0.0.0.0 thseaeing.fun
