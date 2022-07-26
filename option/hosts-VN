@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 26 Jul 2022 16:07 UTC+7
-# Version: 2207261607
-# Blocked: 1.830 domains
+# Last modified: 26 Jul 2022 16:28 UTC+7
+# Version: 2207261628
+# Blocked: 1.831 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1393,9 +1393,10 @@
 #[wiinvent.com.vn]
 0.0.0.0 wiinvent.com.vn
 0.0.0.0 embed.wiinvent.com.vn
-#[tekoapis.com]
-0.0.0.0 cdn.tekoapis.com
-0.0.0.0 tracking.tekoapis.com
+#[hubs.vn]
+0.0.0.0 ads-admin.hubs.vn
+0.0.0.0 mautic.hubs.vn
+0.0.0.0 tracking.hubs.vn
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
@@ -1716,7 +1717,6 @@
 0.0.0.0 counter.ntdvn.com
 0.0.0.0 counter.ntdvn.net
 0.0.0.0 countervov.emitech.vn
-0.0.0.0 county.is.hubs.vn
 0.0.0.0 crm.bizfly.vn
 0.0.0.0 crm.englishtown.edu.vn
 0.0.0.0 crmbizfly.todo.vn
@@ -1900,6 +1900,7 @@
 0.0.0.0 tracking.hongtinnhanh.com
 0.0.0.0 tracking.meta.vn
 0.0.0.0 tracking.phunuadong.vn
+0.0.0.0 tracking.tekoapis.com
 0.0.0.0 tracking.tinxe.vn
 0.0.0.0 tracking.tvet-vietnam.org
 0.0.0.0 tracking.vegaid.vn

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 Jul 2022 16:07 UTC+7
-! Version: 2207261607
-! Blocked: 8.685 rules
+! Last modified: 26 Jul 2022 16:28 UTC+7
+! Version: 2207261628
+! Blocked: 8.686 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -23,6 +23,7 @@
 ||adnetwork.vn^
 ||adpia.vn^
 ||adrealclick.com^
+||ads-admin.hubs.vn^
 ||ads-thanhnien-vn.cdn.ampproject.org^
 ||ads.botbanhang.vn^
 ||ads.platform.zalo.me^
@@ -80,7 +81,6 @@
 ||cdn-bongdadem-net.cdn.ampproject.org^
 ||cdn-qc.coccoc.com^
 ||cdn.comedia.coccoc.com^
-||cdn.tekoapis.com^
 ||cdnstoremedia.com^
 ||cdp.asia^
 ||centralized.zaloapp.com^
@@ -153,6 +153,7 @@
 ||matomo.*.vn^
 ||mautic.*.com.vn^
 ||mautic.*.vn^
+||mautic.hubs.vn^
 ||mclick.mobi^
 ||mediad.asia^
 ||mediaz.asia^
@@ -244,8 +245,8 @@
 ||tracker-zlivestream.zapps.vn^
 ||tracking.api.media.zapps.vn^
 ||tracking.banner.g6.zing.vn^
+||tracking.hubs.vn^
 ||tracking.playzing.g6.zing.vn^
-||tracking.tekoapis.com^
 ||tracking.tv.zing.vn^
 ||trk-pcweb.api.zaloapp.com^
 ||unibots.in^
@@ -581,7 +582,6 @@
 ||counter.ntdvn.com^
 ||counter.ntdvn.net^
 ||countervov.emitech.vn^
-||county.is.hubs.vn^
 ||crm.bizfly.vn^
 ||crm.englishtown.edu.vn^
 ||crmbizfly.todo.vn^
@@ -765,6 +765,7 @@
 ||tracking.hongtinnhanh.com^
 ||tracking.meta.vn^
 ||tracking.phunuadong.vn^
+||tracking.tekoapis.com^
 ||tracking.tinxe.vn^
 ||tracking.tvet-vietnam.org^
 ||tracking.vegaid.vn^

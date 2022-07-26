@@ -1,7 +1,7 @@
 ! Title: hostsVN
-! Last modified: 26 Jul 2022 16:07 UTC+7
-! Version: 2207261607
-! Blocked: 8.685 domains
+! Last modified: 26 Jul 2022 16:28 UTC+7
+! Version: 2207261628
+! Blocked: 8.686 domains
 ! The section containing the list contains all ad networks and tracking
 !
 24h-ad.24hstatic.com
@@ -21,6 +21,7 @@ admicro.vn
 adnetwork.vn
 adpia.vn
 adrealclick.com
+ads-admin.hubs.vn
 ads-thanhnien-vn.cdn.ampproject.org
 ads.botbanhang.vn
 ads.platform.zalo.me
@@ -78,7 +79,6 @@ bwstatistics.sapoapps.vn
 cdn-bongdadem-net.cdn.ampproject.org
 cdn-qc.coccoc.com
 cdn.comedia.coccoc.com
-cdn.tekoapis.com
 cdnstoremedia.com
 cdp.asia
 centralized.zaloapp.com
@@ -151,6 +151,7 @@ logzh.vietnamplus.vn
 matomo.*.vn
 mautic.*.com.vn
 mautic.*.vn
+mautic.hubs.vn
 mclick.mobi
 mediad.asia
 mediaz.asia
@@ -242,8 +243,8 @@ tracker-mw-zlivestream.zapps.vn
 tracker-zlivestream.zapps.vn
 tracking.api.media.zapps.vn
 tracking.banner.g6.zing.vn
+tracking.hubs.vn
 tracking.playzing.g6.zing.vn
-tracking.tekoapis.com
 tracking.tv.zing.vn
 trk-pcweb.api.zaloapp.com
 unibots.in
@@ -579,7 +580,6 @@ counter.24h.com.vn
 counter.ntdvn.com
 counter.ntdvn.net
 countervov.emitech.vn
-county.is.hubs.vn
 crm.bizfly.vn
 crm.englishtown.edu.vn
 crmbizfly.todo.vn
@@ -763,6 +763,7 @@ tracking.hapiwork.vn
 tracking.hongtinnhanh.com
 tracking.meta.vn
 tracking.phunuadong.vn
+tracking.tekoapis.com
 tracking.tinxe.vn
 tracking.tvet-vietnam.org
 tracking.vegaid.vn
