@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 26 Jul 2022 16:28 UTC+7
-# Version: 2207261628
-# Blocked: 17.247 domains
+# Last modified: 27 Jul 2022 09:43 UTC+7
+# Version: 2207270943
+# Blocked: 17.255 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10906,6 +10906,15 @@
 0.0.0.0 counter11.stat.ovh
 0.0.0.0 counter9.stat.ovh
 0.0.0.0 stat.ovh
+#[adsmoloco.com]
+0.0.0.0 adcloud.adsmoloco.com
+0.0.0.0 adsmoloco.com
+0.0.0.0 cdn-f.adsmoloco.com
+0.0.0.0 postback.adsmoloco.com
+0.0.0.0 tr-asia.adsmoloco.com
+0.0.0.0 tr-eu.adsmoloco.com
+0.0.0.0 tr-us.adsmoloco.com
+0.0.0.0 tr.adsmoloco.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -18271,7 +18280,6 @@
 0.0.0.0 pegloang.com
 0.0.0.0 perf.hsforms.com
 0.0.0.0 perr.h-cdn.com
-0.0.0.0 pi.pardot.com
 0.0.0.0 ping.kitidi.com
 0.0.0.0 pingback.issuu.com
 0.0.0.0 pipedream.wistia.com
@@ -18337,6 +18345,7 @@
 0.0.0.0 rum-collector-2.pingdom.net
 0.0.0.0 rum-collector.pingdom.net
 0.0.0.0 rum-static.pingdom.net
+0.0.0.0 rum.uptime.com
 0.0.0.0 s.iaudienc.com
 0.0.0.0 s.infogram.com
 0.0.0.0 s.ntv.io
