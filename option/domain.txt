@@ -8753,10 +8753,12 @@ ipac.ctnsnet.com
 ius.ctnsnet.com
 mobile.ctnsnet.com
 uas.ctnsnet.com
+logs.datadoghq.com
 browser-http-intake.logs.datadoghq.com
 mobile-http-intake.logs.datadoghq.com
 public-trace-http-intake.logs.datadoghq.com
 rum-http-intake.logs.datadoghq.com
+logs.datadoghq.eu
 browser-http-intake.logs.datadoghq.eu
 mobile-http-intake.logs.datadoghq.eu
 public-trace-http-intake.logs.datadoghq.eu
@@ -8767,6 +8769,8 @@ rum.browser-intake-datadoghq.com
 session-replay.browser-intake-datadoghq.com
 trace.browser-intake-datadoghq.com
 beacon-api.aliyuncs.com
+adash.man.aliyuncs.com
+log.aliyuncs.com
 event-tracking-project.ap-southeast-1.log.aliyuncs.com
 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 hdp-raw-log.cn-shanghai.log.aliyuncs.com
@@ -8779,7 +8783,6 @@ wizardlog.cn-hongkong.log.aliyuncs.com
 log-global.aliyuncs.com
 bb-client.log-global.aliyuncs.com
 hdp-raw-log.log-global.aliyuncs.com
-adash.man.aliyuncs.com
 analytics.userreport.com
 bapi.userreport.com
 cdn.userreport.com
@@ -9714,6 +9717,13 @@ tr-asia.adsmoloco.com
 tr-eu.adsmoloco.com
 tr-us.adsmoloco.com
 tr.adsmoloco.com
+api.jeeng.com
+jeeng.com
+sdk.jeeng.com
+telemetries.jeeng.com
+users.api.jeeng.com
+context.iris.tv
+ovp.iris.tv
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -10921,11 +10931,13 @@ nct2-logging.nct.vn
 affmates.com
 api.affmates.com
 storage.affmates.com
-ipcc.vnpt.com.vn
 ipcc.shop.vnpt.vn
-cjmgw.vnptmedia.vn
+ipcc.vinaphone.com.vn
+ipcc.vnpt.com.vn
 cjm.vnptmedia.vn
+cjmgw.vnptmedia.vn
 ipcc-vnp1.vnptmedia.vn
+ipccegov.vnptmedia.vn
 apilog.mytvnet.vn
 apilogduration.mytvnet.vn
 api.wiinvent.tv
@@ -13459,6 +13471,7 @@ dmtracker.com
 dmtracking.alibaba.com
 dmtracking2.alibaba.com
 dmxleo.dailymotion.com
+dn0qt3r0xannq.cloudfront.net
 dnemkhkbsdbl.com
 dnhfi5nn2dt67.cloudfront.net
 docksalmon.com
@@ -15375,7 +15388,6 @@ rozumotterer.com
 rprinc6etodn9kunjiv.com
 rsalcau.com
 rsalcch.com
-rta.dailymail.co.uk
 rtb.gamoshi.io
 rtb.trade
 rtbidder.net
@@ -16012,6 +16024,7 @@ typicalteeth.com
 tyroo.com
 tzegilo.com
 uarating.com
+ubbfpm.com
 uberads.com
 ubermedia.com
 ucfunnel.com
@@ -16466,6 +16479,7 @@ yawnspuker.com
 ybrantdigital.com
 ydworld.com
 yealnk.com
+yearlylight.com
 yebadu.com
 yepteaswont.com
 yesads.com
@@ -16710,6 +16724,7 @@ count.ly
 counter.pixplug.in
 counter.yandro.ru
 crittercism.com
+crta.dailymail.co.uk
 csdian.net
 d.email.forbes.com
 d19ptbnuzhibkh.cloudfront.net
@@ -16968,6 +16983,7 @@ rochesterdata.com
 roistat.com
 rs6.net
 rsrly.com
+rta.dailymail.co.uk
 rta2.metro.co.uk
 rtb123.com
 rum-collector-2.pingdom.net
@@ -17155,7 +17171,6 @@ weborama.net
 webtrekk.net
 weigezhiyao.com
 widget.manychat.com
-widget.trustpilot.com
 wieistmeineip.de
 worldgravity.com
 wren.condenastdigital.com

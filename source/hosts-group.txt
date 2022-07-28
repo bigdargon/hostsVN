@@ -9694,11 +9694,13 @@
 0.0.0.0 mobile.ctnsnet.com
 0.0.0.0 uas.ctnsnet.com
 #[logs.datadoghq.com]
+0.0.0.0 logs.datadoghq.com
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 mobile-http-intake.logs.datadoghq.com
 0.0.0.0 public-trace-http-intake.logs.datadoghq.com
 0.0.0.0 rum-http-intake.logs.datadoghq.com
 #[logs.datadoghq.eu]
+0.0.0.0 logs.datadoghq.eu
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
 0.0.0.0 mobile-http-intake.logs.datadoghq.eu
 0.0.0.0 public-trace-http-intake.logs.datadoghq.eu
@@ -9711,6 +9713,9 @@
 0.0.0.0 trace.browser-intake-datadoghq.com
 #[aliyuncs.com]
 0.0.0.0 beacon-api.aliyuncs.com
+0.0.0.0 adash.man.aliyuncs.com
+#[log.aliyuncs.com]
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 event-tracking-project.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 hdp-raw-log.cn-shanghai.log.aliyuncs.com
@@ -9720,10 +9725,10 @@
 0.0.0.0 tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
 0.0.0.0 tap-snow-hk.cn-hongkong.log.aliyuncs.com
 0.0.0.0 wizardlog.cn-hongkong.log.aliyuncs.com
+#[log-global.aliyuncs.com]
 0.0.0.0 log-global.aliyuncs.com
 0.0.0.0 bb-client.log-global.aliyuncs.com
 0.0.0.0 hdp-raw-log.log-global.aliyuncs.com
-0.0.0.0 adash.man.aliyuncs.com
 #[userreport.com]
 0.0.0.0 analytics.userreport.com
 0.0.0.0 bapi.userreport.com
@@ -10903,3 +10908,12 @@
 0.0.0.0 tr-eu.adsmoloco.com
 0.0.0.0 tr-us.adsmoloco.com
 0.0.0.0 tr.adsmoloco.com
+#[jeeng.com]
+0.0.0.0 api.jeeng.com
+0.0.0.0 jeeng.com
+0.0.0.0 sdk.jeeng.com
+0.0.0.0 telemetries.jeeng.com
+0.0.0.0 users.api.jeeng.com
+#[iris.tv]
+0.0.0.0 context.iris.tv
+0.0.0.0 ovp.iris.tv

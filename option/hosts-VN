@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Jul 2022 09:43 UTC+7
-# Version: 2207270943
-# Blocked: 1.831 domains
+# Last modified: 28 Jul 2022 16:37 UTC+7
+# Version: 2207281637
+# Blocked: 1.833 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1377,12 +1377,14 @@
 0.0.0.0 api.affmates.com
 0.0.0.0 storage.affmates.com
 #[vnpt]
-0.0.0.0 ipcc.vnpt.com.vn
 0.0.0.0 ipcc.shop.vnpt.vn
+0.0.0.0 ipcc.vinaphone.com.vn
+0.0.0.0 ipcc.vnpt.com.vn
 #[vnptmedia.vn]
-0.0.0.0 cjmgw.vnptmedia.vn
 0.0.0.0 cjm.vnptmedia.vn
+0.0.0.0 cjmgw.vnptmedia.vn
 0.0.0.0 ipcc-vnp1.vnptmedia.vn
+0.0.0.0 ipccegov.vnptmedia.vn
 #[mytvnet.vn]
 0.0.0.0 apilog.mytvnet.vn
 0.0.0.0 apilogduration.mytvnet.vn

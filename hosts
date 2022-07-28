@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Jul 2022 09:43 UTC+7
-# Version: 2207270943
-# Blocked: 17.255 domains
+# Last modified: 28 Jul 2022 16:37 UTC+7
+# Version: 2207281637
+# Blocked: 17.270 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9706,11 +9706,13 @@
 0.0.0.0 mobile.ctnsnet.com
 0.0.0.0 uas.ctnsnet.com
 #[logs.datadoghq.com]
+0.0.0.0 logs.datadoghq.com
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 mobile-http-intake.logs.datadoghq.com
 0.0.0.0 public-trace-http-intake.logs.datadoghq.com
 0.0.0.0 rum-http-intake.logs.datadoghq.com
 #[logs.datadoghq.eu]
+0.0.0.0 logs.datadoghq.eu
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
 0.0.0.0 mobile-http-intake.logs.datadoghq.eu
 0.0.0.0 public-trace-http-intake.logs.datadoghq.eu
@@ -9723,6 +9725,9 @@
 0.0.0.0 trace.browser-intake-datadoghq.com
 #[aliyuncs.com]
 0.0.0.0 beacon-api.aliyuncs.com
+0.0.0.0 adash.man.aliyuncs.com
+#[log.aliyuncs.com]
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 event-tracking-project.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 hdp-raw-log.cn-shanghai.log.aliyuncs.com
@@ -9732,10 +9737,10 @@
 0.0.0.0 tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
 0.0.0.0 tap-snow-hk.cn-hongkong.log.aliyuncs.com
 0.0.0.0 wizardlog.cn-hongkong.log.aliyuncs.com
+#[log-global.aliyuncs.com]
 0.0.0.0 log-global.aliyuncs.com
 0.0.0.0 bb-client.log-global.aliyuncs.com
 0.0.0.0 hdp-raw-log.log-global.aliyuncs.com
-0.0.0.0 adash.man.aliyuncs.com
 #[userreport.com]
 0.0.0.0 analytics.userreport.com
 0.0.0.0 bapi.userreport.com
@@ -10915,6 +10920,15 @@
 0.0.0.0 tr-eu.adsmoloco.com
 0.0.0.0 tr-us.adsmoloco.com
 0.0.0.0 tr.adsmoloco.com
+#[jeeng.com]
+0.0.0.0 api.jeeng.com
+0.0.0.0 jeeng.com
+0.0.0.0 sdk.jeeng.com
+0.0.0.0 telemetries.jeeng.com
+0.0.0.0 users.api.jeeng.com
+#[iris.tv]
+0.0.0.0 context.iris.tv
+0.0.0.0 ovp.iris.tv
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12282,12 +12296,14 @@
 0.0.0.0 api.affmates.com
 0.0.0.0 storage.affmates.com
 #[vnpt]
-0.0.0.0 ipcc.vnpt.com.vn
 0.0.0.0 ipcc.shop.vnpt.vn
+0.0.0.0 ipcc.vinaphone.com.vn
+0.0.0.0 ipcc.vnpt.com.vn
 #[vnptmedia.vn]
-0.0.0.0 cjmgw.vnptmedia.vn
 0.0.0.0 cjm.vnptmedia.vn
+0.0.0.0 cjmgw.vnptmedia.vn
 0.0.0.0 ipcc-vnp1.vnptmedia.vn
+0.0.0.0 ipccegov.vnptmedia.vn
 #[mytvnet.vn]
 0.0.0.0 apilog.mytvnet.vn
 0.0.0.0 apilogduration.mytvnet.vn
@@ -14830,6 +14846,7 @@
 0.0.0.0 dmtracking.alibaba.com
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dmxleo.dailymotion.com
+0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dnemkhkbsdbl.com
 0.0.0.0 dnhfi5nn2dt67.cloudfront.net
 0.0.0.0 docksalmon.com
@@ -16746,7 +16763,6 @@
 0.0.0.0 rprinc6etodn9kunjiv.com
 0.0.0.0 rsalcau.com
 0.0.0.0 rsalcch.com
-0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtb.gamoshi.io
 0.0.0.0 rtb.trade
 0.0.0.0 rtbidder.net
@@ -17383,6 +17399,7 @@
 0.0.0.0 tyroo.com
 0.0.0.0 tzegilo.com
 0.0.0.0 uarating.com
+0.0.0.0 ubbfpm.com
 0.0.0.0 uberads.com
 0.0.0.0 ubermedia.com
 0.0.0.0 ucfunnel.com
@@ -17837,6 +17854,7 @@
 0.0.0.0 ybrantdigital.com
 0.0.0.0 ydworld.com
 0.0.0.0 yealnk.com
+0.0.0.0 yearlylight.com
 0.0.0.0 yebadu.com
 0.0.0.0 yepteaswont.com
 0.0.0.0 yesads.com
@@ -18082,6 +18100,7 @@
 0.0.0.0 counter.pixplug.in
 0.0.0.0 counter.yandro.ru
 0.0.0.0 crittercism.com
+0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 csdian.net
 0.0.0.0 d.email.forbes.com
 0.0.0.0 d19ptbnuzhibkh.cloudfront.net
@@ -18340,6 +18359,7 @@
 0.0.0.0 roistat.com
 0.0.0.0 rs6.net
 0.0.0.0 rsrly.com
+0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtb123.com
 0.0.0.0 rum-collector-2.pingdom.net
@@ -18527,7 +18547,6 @@
 0.0.0.0 webtrekk.net
 0.0.0.0 weigezhiyao.com
 0.0.0.0 widget.manychat.com
-0.0.0.0 widget.trustpilot.com
 0.0.0.0 wieistmeineip.de
 0.0.0.0 worldgravity.com
 0.0.0.0 wren.condenastdigital.com

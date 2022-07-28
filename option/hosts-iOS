@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Jul 2022 09:43 UTC+7
-# Version: 2207270943
-# Blocked: 17.255 domains
+# Last modified: 28 Jul 2022 16:37 UTC+7
+# Version: 2207281637
+# Blocked: 17.270 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8769,10 +8769,12 @@
 0 ius.ctnsnet.com
 0 mobile.ctnsnet.com
 0 uas.ctnsnet.com
+0 logs.datadoghq.com
 0 browser-http-intake.logs.datadoghq.com
 0 mobile-http-intake.logs.datadoghq.com
 0 public-trace-http-intake.logs.datadoghq.com
 0 rum-http-intake.logs.datadoghq.com
+0 logs.datadoghq.eu
 0 browser-http-intake.logs.datadoghq.eu
 0 mobile-http-intake.logs.datadoghq.eu
 0 public-trace-http-intake.logs.datadoghq.eu
@@ -8783,6 +8785,8 @@
 0 session-replay.browser-intake-datadoghq.com
 0 trace.browser-intake-datadoghq.com
 0 beacon-api.aliyuncs.com
+0 adash.man.aliyuncs.com
+0 log.aliyuncs.com
 0 event-tracking-project.ap-southeast-1.log.aliyuncs.com
 0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0 hdp-raw-log.cn-shanghai.log.aliyuncs.com
@@ -8795,7 +8799,6 @@
 0 log-global.aliyuncs.com
 0 bb-client.log-global.aliyuncs.com
 0 hdp-raw-log.log-global.aliyuncs.com
-0 adash.man.aliyuncs.com
 0 analytics.userreport.com
 0 bapi.userreport.com
 0 cdn.userreport.com
@@ -9730,6 +9733,13 @@
 0 tr-eu.adsmoloco.com
 0 tr-us.adsmoloco.com
 0 tr.adsmoloco.com
+0 api.jeeng.com
+0 jeeng.com
+0 sdk.jeeng.com
+0 telemetries.jeeng.com
+0 users.api.jeeng.com
+0 context.iris.tv
+0 ovp.iris.tv
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10937,11 +10947,13 @@
 0 affmates.com
 0 api.affmates.com
 0 storage.affmates.com
-0 ipcc.vnpt.com.vn
 0 ipcc.shop.vnpt.vn
-0 cjmgw.vnptmedia.vn
+0 ipcc.vinaphone.com.vn
+0 ipcc.vnpt.com.vn
 0 cjm.vnptmedia.vn
+0 cjmgw.vnptmedia.vn
 0 ipcc-vnp1.vnptmedia.vn
+0 ipccegov.vnptmedia.vn
 0 apilog.mytvnet.vn
 0 apilogduration.mytvnet.vn
 0 api.wiinvent.tv
@@ -13475,6 +13487,7 @@
 0 dmtracking.alibaba.com
 0 dmtracking2.alibaba.com
 0 dmxleo.dailymotion.com
+0 dn0qt3r0xannq.cloudfront.net
 0 dnemkhkbsdbl.com
 0 dnhfi5nn2dt67.cloudfront.net
 0 docksalmon.com
@@ -15391,7 +15404,6 @@
 0 rprinc6etodn9kunjiv.com
 0 rsalcau.com
 0 rsalcch.com
-0 rta.dailymail.co.uk
 0 rtb.gamoshi.io
 0 rtb.trade
 0 rtbidder.net
@@ -16028,6 +16040,7 @@
 0 tyroo.com
 0 tzegilo.com
 0 uarating.com
+0 ubbfpm.com
 0 uberads.com
 0 ubermedia.com
 0 ucfunnel.com
@@ -16482,6 +16495,7 @@
 0 ybrantdigital.com
 0 ydworld.com
 0 yealnk.com
+0 yearlylight.com
 0 yebadu.com
 0 yepteaswont.com
 0 yesads.com
@@ -16726,6 +16740,7 @@
 0 counter.pixplug.in
 0 counter.yandro.ru
 0 crittercism.com
+0 crta.dailymail.co.uk
 0 csdian.net
 0 d.email.forbes.com
 0 d19ptbnuzhibkh.cloudfront.net
@@ -16984,6 +16999,7 @@
 0 roistat.com
 0 rs6.net
 0 rsrly.com
+0 rta.dailymail.co.uk
 0 rta2.metro.co.uk
 0 rtb123.com
 0 rum-collector-2.pingdom.net
@@ -17171,7 +17187,6 @@
 0 webtrekk.net
 0 weigezhiyao.com
 0 widget.manychat.com
-0 widget.trustpilot.com
 0 wieistmeineip.de
 0 worldgravity.com
 0 wren.condenastdigital.com

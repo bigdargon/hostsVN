@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Jul 2022 09:43 UTC+7
-! Version: 2207270943
-! Blocked: 1.529 rules
+! Last modified: 28 Jul 2022 16:37 UTC+7
+! Version: 2207281637
+! Blocked: 1.531 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -124,7 +124,9 @@
 ||hotngay.vn^
 ||ipcc-vnp1.vnptmedia.vn^
 ||ipcc.shop.vnpt.vn^
+||ipcc.vinaphone.com.vn^
 ||ipcc.vnpt.com.vn^
+||ipccegov.vnptmedia.vn^
 ||itim.vn^
 ||jeoway.com^
 ||js.aiservice.vn^

@@ -1365,12 +1365,14 @@
 0.0.0.0 api.affmates.com
 0.0.0.0 storage.affmates.com
 #[vnpt]
-0.0.0.0 ipcc.vnpt.com.vn
 0.0.0.0 ipcc.shop.vnpt.vn
+0.0.0.0 ipcc.vinaphone.com.vn
+0.0.0.0 ipcc.vnpt.com.vn
 #[vnptmedia.vn]
-0.0.0.0 cjmgw.vnptmedia.vn
 0.0.0.0 cjm.vnptmedia.vn
+0.0.0.0 cjmgw.vnptmedia.vn
 0.0.0.0 ipcc-vnp1.vnptmedia.vn
+0.0.0.0 ipccegov.vnptmedia.vn
 #[mytvnet.vn]
 0.0.0.0 apilog.mytvnet.vn
 0.0.0.0 apilogduration.mytvnet.vn
