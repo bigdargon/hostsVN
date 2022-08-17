@@ -682,9 +682,12 @@
 0.0.0.0 prg8.smartadserver.com
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 smartadserver.com
+0.0.0.0 ssbsync-global.smartadserver.com
+0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 tagmanager.smartadserver.com
 0.0.0.0 tmk.smartadserver.com
+0.0.0.0 videoapi.smartadserver.com
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www3.smartadserver.com
 #[sascdn.com]
@@ -1228,11 +1231,15 @@
 0.0.0.0 analy.qq.com
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 logsdk.qq.com
+0.0.0.0 mtrace.qq.com
 0.0.0.0 report.qq.com
-0.0.0.0 trace.qq.com
 #[beacon.qq.com]
 0.0.0.0 beacon.qq.com
 0.0.0.0 otheve.beacon.qq.com
+0.0.0.0 othstr.beacon.qq.com
+#[trace.qq.com]
+0.0.0.0 trace.qq.com
+0.0.0.0 h.trace.qq.com
 #[btrace.qq.com]
 0.0.0.0 btrace.qq.com
 0.0.0.0 btrace.video.qq.com
@@ -1251,6 +1258,13 @@
 0.0.0.0 nc.gdt.qq.com
 0.0.0.0 v.gdt.qq.com
 0.0.0.0 v2.gdt.qq.com
+#[eve.mdt.qq.com]
+0.0.0.0 mtt.eve.mdt.qq.com
+0.0.0.0 oth.eve.mdt.qq.com
+#[str.mdt.qq.com]
+0.0.0.0 mig.str.mdt.qq.com
+0.0.0.0 mtt.str.mdt.qq.com
+0.0.0.0 oth.str.mdt.qq.com
 #[ping*.qq.com]
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingjs.qq.com
@@ -1489,6 +1503,7 @@
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 servicedesk.appboy.com
 0.0.0.0 sweeney-elb.appboy.com
+0.0.0.0 venetia.iad.appboy.com
 #[adnxs.com]
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 adnxs.com
@@ -8504,10 +8519,6 @@
 0.0.0.0 revrtb.net
 0.0.0.0 www.revrtb.net
 0.0.0.0 xml.revrtb.net
-#[pendo.io]
-0.0.0.0 app.pendo.io
-0.0.0.0 cdn.pendo.io
-0.0.0.0 pendo.io
 #[pixanalytics.com]
 0.0.0.0 adexpert.pixanalytics.com
 0.0.0.0 falcon.pixanalytics.com
@@ -10417,9 +10428,6 @@
 #[newrelic.com]
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 js-agent.newrelic.com
-0.0.0.0 log-api.newrelic.com
-0.0.0.0 metric-api.eu.newrelic.com
-0.0.0.0 metric-api.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
 #[metricswpsh.com]
 0.0.0.0 metricswpsh.com
@@ -10882,6 +10890,7 @@
 0.0.0.0 ads.hulu.com
 0.0.0.0 metcon.hulu.com
 0.0.0.0 t2.hulu.com
+0.0.0.0 vortex.hulu.com
 #[hellobar.com]
 0.0.0.0 hellobar.com
 0.0.0.0 my.hellobar.com
@@ -10917,3 +10926,52 @@
 #[iris.tv]
 0.0.0.0 context.iris.tv
 0.0.0.0 ovp.iris.tv
+#[special-offers.online]
+0.0.0.0 cdn.special-offers.online
+0.0.0.0 special-offers.online
+#[returnpath.net]
+0.0.0.0 returnpath.net
+0.0.0.0 pixel.app.returnpath.net
+0.0.0.0 pixel.monitor1.returnpath.net
+#[zybrdr.com]
+0.0.0.0 creative.zybrdr.com
+0.0.0.0 zybrdr.com
+#[cpatrk.net]
+0.0.0.0 adt.cpatrk.net
+0.0.0.0 ap.cpatrk.net
+0.0.0.0 me.cpatrk.net
+#[presage.io]
+0.0.0.0 p.presage.io
+0.0.0.0 pad-v3.presage.io
+0.0.0.0 presage.io
+#[iqiyi.com]
+0.0.0.0 msga.cupid.iqiyi.com
+0.0.0.0 puma-api.iqiyi.com
+0.0.0.0 puma.api.iqiyi.com
+0.0.0.0 t7z.cupid.iqiyi.com
+#[micpn.com]
+0.0.0.0 assets.micpn.com
+0.0.0.0 micpn.com
+#[collector-*.px-cloud.net]
+0.0.0.0 collector-px12xk43jk.px-cloud.net
+0.0.0.0 collector-px8fcgygk4.px-cloud.net
+0.0.0.0 collector-pxikkul2rm.px-cloud.net
+0.0.0.0 collector-pxu4k0s8nx.px-cloud.net
+#[timeinc.net]
+0.0.0.0 tia.timeinc.net
+0.0.0.0 tiads.timeinc.net
+#[guardianapps.co.uk]
+0.0.0.0 api.nextgen.guardianapps.co.uk
+0.0.0.0 guardianapps.co.uk
+#[kiosked.com]
+0.0.0.0 kiosked.com
+0.0.0.0 scripts.kiosked.com
+#[brandcdn.com]
+0.0.0.0 adservices.brandcdn.com
+0.0.0.0 tag.brandcdn.com
+#[adligature.com]
+0.0.0.0 adligature.com
+0.0.0.0 cdn.adligature.com
+#[taroads.com]
+0.0.0.0 delivery.taroads.com
+0.0.0.0 taroads.com

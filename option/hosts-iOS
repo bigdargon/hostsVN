@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 28 Jul 2022 16:37 UTC+7
-# Version: 2207281637
-# Blocked: 17.270 domains
+# Last modified: 17 Aug 2022 22:17 UTC+7
+# Version: 2208172217
+# Blocked: 17.349 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -627,9 +627,12 @@
 0 prg8.smartadserver.com
 0 rtb-csync.smartadserver.com
 0 smartadserver.com
+0 ssbsync-global.smartadserver.com
+0 ssbsync.smartadserver.com
 0 sync.smartadserver.com
 0 tagmanager.smartadserver.com
 0 tmk.smartadserver.com
+0 videoapi.smartadserver.com
 0 www.smartadserver.com
 0 www3.smartadserver.com
 0 ak-ns.sascdn.com
@@ -1140,10 +1143,13 @@
 0 analy.qq.com
 0 log.tbs.qq.com
 0 logsdk.qq.com
+0 mtrace.qq.com
 0 report.qq.com
-0 trace.qq.com
 0 beacon.qq.com
 0 otheve.beacon.qq.com
+0 othstr.beacon.qq.com
+0 trace.qq.com
+0 h.trace.qq.com
 0 btrace.qq.com
 0 btrace.video.qq.com
 0 android.bugly.qq.com
@@ -1158,6 +1164,11 @@
 0 nc.gdt.qq.com
 0 v.gdt.qq.com
 0 v2.gdt.qq.com
+0 mtt.eve.mdt.qq.com
+0 oth.eve.mdt.qq.com
+0 mig.str.mdt.qq.com
+0 mtt.str.mdt.qq.com
+0 oth.str.mdt.qq.com
 0 pingfore.qq.com
 0 pingjs.qq.com
 0 pingma.qq.com
@@ -1368,6 +1379,7 @@
 0 sdk-orion.appboy.com
 0 servicedesk.appboy.com
 0 sweeney-elb.appboy.com
+0 venetia.iad.appboy.com
 0 acdn.adnxs.com
 0 adnxs.com
 0 ams1-ib.adnxs.com
@@ -7769,9 +7781,6 @@
 0 revrtb.net
 0 www.revrtb.net
 0 xml.revrtb.net
-0 app.pendo.io
-0 cdn.pendo.io
-0 pendo.io
 0 adexpert.pixanalytics.com
 0 falcon.pixanalytics.com
 0 pixanalytics.com
@@ -9348,9 +9357,6 @@
 0 www.hprofits.com
 0 insights-collector.newrelic.com
 0 js-agent.newrelic.com
-0 log-api.newrelic.com
-0 metric-api.eu.newrelic.com
-0 metric-api.newrelic.com
 0 mobile-collector.newrelic.com
 0 metricswpsh.com
 0 fp.metricswpsh.com
@@ -9713,6 +9719,7 @@
 0 ads.hulu.com
 0 metcon.hulu.com
 0 t2.hulu.com
+0 vortex.hulu.com
 0 hellobar.com
 0 my.hellobar.com
 0 dynatrace.att.com
@@ -9740,6 +9747,41 @@
 0 users.api.jeeng.com
 0 context.iris.tv
 0 ovp.iris.tv
+0 cdn.special-offers.online
+0 special-offers.online
+0 returnpath.net
+0 pixel.app.returnpath.net
+0 pixel.monitor1.returnpath.net
+0 creative.zybrdr.com
+0 zybrdr.com
+0 adt.cpatrk.net
+0 ap.cpatrk.net
+0 me.cpatrk.net
+0 p.presage.io
+0 pad-v3.presage.io
+0 presage.io
+0 msga.cupid.iqiyi.com
+0 puma-api.iqiyi.com
+0 puma.api.iqiyi.com
+0 t7z.cupid.iqiyi.com
+0 assets.micpn.com
+0 micpn.com
+0 collector-px12xk43jk.px-cloud.net
+0 collector-px8fcgygk4.px-cloud.net
+0 collector-pxikkul2rm.px-cloud.net
+0 collector-pxu4k0s8nx.px-cloud.net
+0 tia.timeinc.net
+0 tiads.timeinc.net
+0 api.nextgen.guardianapps.co.uk
+0 guardianapps.co.uk
+0 kiosked.com
+0 scripts.kiosked.com
+0 adservices.brandcdn.com
+0 tag.brandcdn.com
+0 adligature.com
+0 cdn.adligature.com
+0 delivery.taroads.com
+0 taroads.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10947,12 +10989,16 @@
 0 affmates.com
 0 api.affmates.com
 0 storage.affmates.com
+0 cjm.mytv.vn
+0 ipcc.mytv.com.vn
 0 ipcc.shop.vnpt.vn
 0 ipcc.vinaphone.com.vn
+0 ipcc.vinaphoneplus.com.vn
 0 ipcc.vnpt.com.vn
 0 cjm.vnptmedia.vn
 0 cjmgw.vnptmedia.vn
 0 ipcc-vnp1.vnptmedia.vn
+0 ipcc.vnptmedia.vn
 0 ipccegov.vnptmedia.vn
 0 apilog.mytvnet.vn
 0 apilogduration.mytvnet.vn
@@ -10965,9 +11011,6 @@
 0 mautic.hubs.vn
 0 tracking.hubs.vn
 0 12signup.com
-0 5734a40f2d.vws.vegacdn.vn
-0 703531862.vws.vegacdn.vn
-0 95395c25b4.vws.vegacdn.vn
 0 ad-admin.vnay.vn
 0 ad-ndtv.3s.com.vn
 0 ad.24h.com.vn
@@ -10999,6 +11042,7 @@
 0 ads.247phim.com
 0 ads.568play.vn
 0 ads.admatrix.vn
+0 ads.alophim.org
 0 ads.autonet.com.vn
 0 ads.baoangiang.com.vn
 0 ads.baobinhduong.vn
@@ -11170,6 +11214,7 @@
 0 s.cntqk.com
 0 s.cntqk.vn
 0 s.giaoducthoidai.vn
+0 s1.zzz.vn
 0 sbbanner.com
 0 sda.tamdiem247.com
 0 serving-ad.tv24.vn
@@ -11637,6 +11682,7 @@
 0 acdcdn.com
 0 acento.com
 0 achcdn.com
+0 achieverknee.com
 0 acidpigs.com
 0 ackcdn.net
 0 aclickads.com
@@ -12006,6 +12052,7 @@
 0 ads.cbc.ca
 0 ads.cc
 0 ads.centraliprom.com
+0 ads.clickdigisol.net
 0 ads.co.com
 0 ads.colombiaonline.com
 0 ads.comeon.com
@@ -12628,6 +12675,7 @@
 0 areasonsimon.club
 0 arefqpiqfjsooi.com
 0 argyresthia.com
+0 arisedammiral.com
 0 aromamirror.com
 0 arsdev.net
 0 artpever.com
@@ -12641,6 +12689,7 @@
 0 asgclickkl.com
 0 asgclickpop.com
 0 ashcdn.com
+0 ashoupsu.com
 0 asiacpx.com
 0 askaspalb.online
 0 aso1.net
@@ -12649,6 +12698,7 @@
 0 assets.purch.com
 0 assets1.exgfnetwork.com
 0 assignedlikecrawford.com
+0 assistedadultrib.com
 0 associalbde.xyz
 0 assuremath.com
 0 ast2ya4ee8wtnax.com
@@ -12891,6 +12941,7 @@
 0 bidtrk.com
 0 bigbangmedia.com
 0 bigclicks.com
+0 bikrurda.net
 0 billboard.cz
 0 billionpops.com
 0 bimlocal.com
@@ -13026,6 +13077,7 @@
 0 campaign.bharatmatrimony.com
 0 candielzenaga.com
 0 caniamedia.com
+0 canoevaguely.com
 0 capablecows.com
 0 captainbicycle.com
 0 captify.co.uk
@@ -13117,6 +13169,7 @@
 0 choconart.com
 0 chokedsmelt.com
 0 chooppolygar.com
+0 choupsee.com
 0 chusairt.com
 0 chyjobopse.pro
 0 cibleclick.com
@@ -13134,12 +13187,14 @@
 0 claroadsclick.com
 0 clashmobile.com
 0 clayierglaiks.com
+0 clck.ru
 0 clcknipop.com
 0 clckysudks.com
 0 cleantapioca.com
 0 clearadnetwork.com
 0 clenchedyouthmatching.com
 0 clicadu.com
+0 click-cdn.com
 0 click-clicker.com
 0 click.fool.com
 0 click.hooligapps.com
@@ -13367,6 +13422,7 @@
 0 d3oy68whu51rnt.cloudfront.net
 0 d3rjndf2qggsna.cloudfront.net
 0 d3v3bqdndm4erx.cloudfront.net
+0 d6jfiirio372.com
 0 da-ads.com
 0 dacmaiss.com
 0 dads.wedobest.com.cn
@@ -13501,6 +13557,7 @@
 0 domdex.com
 0 domeleco.top
 0 dooloust.net
+0 doruffletr.com
 0 doubleadserve.com
 0 doubleclick.com
 0 doubleclick.de
@@ -13656,6 +13713,7 @@
 0 etargetnet.com
 0 ethicel.com
 0 ethnictyrosky.com
+0 etoet.icu
 0 etracker.de
 0 eu-adcenter.net
 0 eu1.madsone.com
@@ -13896,6 +13954,7 @@
 0 globus-inter.com
 0 glootang.net
 0 glossysense.com
+0 glugherg.net
 0 glugreez.com
 0 gmads.net
 0 go-clicks.de
@@ -14229,6 +14288,7 @@
 0 j6rudlybdy.com
 0 j93557g.com
 0 ja2n2u30a6rgyd.com
+0 jaavnacsdw.com
 0 jadeitite.com
 0 jaduda.com
 0 jaftouja.net
@@ -14325,6 +14385,7 @@
 0 ktkjmp.com
 0 kts.visitstats.com
 0 ktu.sv2.biz
+0 ku2d3a7pa8mdi.com
 0 kukury2hf8nd09.com
 0 kupona.de
 0 kurlichan.com
@@ -14336,6 +14397,7 @@
 0 lammasbananas.com
 0 lapblra5do4j7rfit7e.com
 0 lapre28rmcat2.com
+0 lassampy.com
 0 laughablecopper.com
 0 laughcloth.com
 0 lauk.icu
@@ -14500,6 +14562,7 @@
 0 mbid.marfeelrev.com
 0 mbn.com.ua
 0 mbs.megaroticlive.com
+0 mc7clurd09pla4nrtat7ion.com
 0 mcpuwpush.com
 0 mczahprdql.com
 0 mdotm.com
@@ -14532,6 +14595,7 @@
 0 medibaad.com
 0 medio.com
 0 medleyads.com
+0 medtargetsystem.com
 0 medyanetads.com
 0 megacash.de
 0 megago.com
@@ -14854,6 +14918,7 @@
 0 onenetworkdirect.com
 0 onestat.com
 0 onestatfree.com
+0 onetouch12.com
 0 onewaylinkexchange.net
 0 onfckepwq.com
 0 ongaromusket.com
@@ -14902,6 +14967,7 @@
 0 outabsola.com
 0 outgateniceish.com
 0 outkickanoxic.com
+0 outloginequity.com
 0 outlookabsorb.com
 0 outrotomr.com
 0 outsliggooa.com
@@ -15054,6 +15120,7 @@
 0 placeplay.com
 0 plaicecaught.com
 0 planetactive.com
+0 plantationthrillednoncommittal.com
 0 play.leadzu.com
 0 play4traffic.com
 0 player.kmpmedia.net
@@ -15718,6 +15785,7 @@
 0 stelagharris.com
 0 stickerchapelsailing.com
 0 stickssheep.com
+0 stootsou.net
 0 storesurprise.com
 0 stormyachiever.com
 0 stormyshock.com
@@ -15787,7 +15855,6 @@
 0 t.insigit.com
 0 t.myvisualiq.net
 0 t.wayfair.com
-0 t7z.cupid.iqiyi.com
 0 t85itha3nitde.com
 0 ta3nfsordd.com
 0 ta5ast2ffeyvhjitde.com
@@ -15886,7 +15953,6 @@
 0 thruport.com
 0 thterras.com
 0 thurag.com
-0 tia.timeinc.net
 0 tibacta.com
 0 ticklesign.com
 0 tidaltv.com
@@ -16163,6 +16229,7 @@
 0 villandoping.site
 0 villandopingcon.site
 0 vindicosuite.com
+0 vinegarfactorelevator.com
 0 vipicmou.net
 0 virleth.com
 0 visagedbeard.com
@@ -16305,6 +16372,7 @@
 0 wryfinger.com
 0 wt-eu02.net
 0 wtlive.com
+0 wuksaiho.net
 0 wvhba6470p.com
 0 www-banner.chat.ru
 0 www.520click.com
@@ -16390,6 +16458,7 @@
 0 www.markmansonbooklst.com
 0 www.maxgid.com
 0 www.maxonclick.com
+0 www.medtargetsystem.com
 0 www.mobzeg.com
 0 www.money4exit.de
 0 www.moneymakercdn.com
@@ -16592,6 +16661,7 @@
 0 advanced-web-analytics.com
 0 affiliatly.com
 0 akuaba.chez.com
+0 alpixtrack.com
 0 analysis.polarisoffice.com
 0 analytic.rollout.io
 0 analytics-au.clickdimensions.com
@@ -16617,6 +16687,7 @@
 0 analytics.gavelz.com
 0 analytics.getshogun.com
 0 analytics.gismart.xyz
+0 analytics.govinfo.gov
 0 analytics.headerbiddr.net
 0 analytics.hostyour.video
 0 analytics.htmedia.in
@@ -16690,6 +16761,7 @@
 0 beacon.riskified.com
 0 beacon.shazam.com
 0 beacon.walmart.ca
+0 beacon.wikia-services.com
 0 beampulse.com
 0 bento.agoda.com
 0 beyondsecurity.com
@@ -16733,12 +16805,14 @@
 0 collector.unsplash.com
 0 collector.xhamster.com
 0 comscoreresearch.com
+0 consent-manager-events.ogury.io
 0 cookieinfoscript.com
 0 coralogix.com
 0 count.7m.com.cn
 0 count.ly
 0 counter.pixplug.in
 0 counter.yandro.ru
+0 countercentral.com
 0 crittercism.com
 0 crta.dailymail.co.uk
 0 csdian.net
@@ -16886,6 +16960,7 @@
 0 log.snow.me
 0 log.tutuapp.com
 0 log.umsns.com
+0 log.x2convert.com
 0 log.ys7.com
 0 logger.foxitcloud.com
 0 logger.unsplash.com
@@ -16962,7 +17037,6 @@
 0 playtomic.com
 0 poole-collector-prod.n3twork.com
 0 popupmaker.com
-0 presage.io
 0 privacy-policy.truste.com
 0 promotionengine.com
 0 prooffactor.com
@@ -17018,6 +17092,7 @@
 0 sam4m.com
 0 saspreview.com
 0 sc-static.net
+0 sc.pages03.net
 0 sdk-monitoring.ogury.co
 0 seal.digicert.com
 0 seal.godaddy.com
@@ -17093,6 +17168,7 @@
 0 ted.dailymail.co.uk
 0 ted.metro.co.uk
 0 tedgenet.com
+0 telemetry.acronis.com
 0 telemetry.api.swiftkey.com
 0 telemetry.art19.com
 0 telemetry.dropbox.com
@@ -17147,6 +17223,7 @@
 0 tracking.gotprofits.com
 0 tracking.hubspot.com
 0 tracking.lenzmx.com
+0 tracking.monsido.com
 0 tracking.musixmatch.com
 0 tracking.scenepass.com
 0 trackingflaregames.net
@@ -17172,6 +17249,7 @@
 0 v3.fstats.xyz
 0 vectaury.io
 0 vercel-analytics.com
+0 videoplayerhub.com
 0 vilagnomad.com
 0 visitor-analytics.io
 0 visitor.pixplug.in
@@ -17193,6 +17271,7 @@
 0 wt.soundestlink.com
 0 wurfl.io
 0 www.asadcdn.com
+0 www.countercentral.com
 0 www.datadoghq-browser-agent.com
 0 www.ethtrader.de
 0 www.everestjs.net
