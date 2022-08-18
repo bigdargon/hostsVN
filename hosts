@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Aug 2022 22:17 UTC+7
-# Version: 2208172217
-# Blocked: 17.349 domains
+# Last modified: 18 Aug 2022 14:11 UTC+7
+# Version: 2208181411
+# Blocked: 17.373 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10987,6 +10987,24 @@
 #[taroads.com]
 0.0.0.0 delivery.taroads.com
 0.0.0.0 taroads.com
+#[thesun.co.uk]
+0.0.0.0 ads.thesun.co.uk
+0.0.0.0 pac.thesun.co.uk
+0.0.0.0 pixelappcollector.thesun.co.uk
+#[mavencoalition.io]
+0.0.0.0 hummingbird.mavencoalition.io
+0.0.0.0 uid.mavencoalition.io
+#[durationmedia.net]
+0.0.0.0 be.durationmedia.net
+0.0.0.0 durationmedia.net
+0.0.0.0 tag.durationmedia.net
+#[my.com]
+0.0.0.0 r.my.com
+0.0.0.0 tracker-api.my.com
+0.0.0.0 ip4.tracker-api.my.com
+#[conductrics.com]
+0.0.0.0 conductrics.com
+0.0.0.0 cdn-v3.conductrics.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13378,6 +13396,7 @@
 0.0.0.0 adrotate.de
 0.0.0.0 adrotic.girlonthenet.com
 0.0.0.0 adru.net
+0.0.0.0 ads-api.ft.com
 0.0.0.0 ads-bi.zenkube.com
 0.0.0.0 ads-click.com
 0.0.0.0 ads-ios-sdk.ogury.co
@@ -14365,6 +14384,7 @@
 0.0.0.0 bonertraffic13.info
 0.0.0.0 bonertraffic14.pro
 0.0.0.0 bonnilytooths.com
+0.0.0.0 boo-box.com
 0.0.0.0 bookmtpo.com
 0.0.0.0 boolevool.com
 0.0.0.0 boom.ro
@@ -14520,6 +14540,7 @@
 0.0.0.0 chaglihysty.pro
 0.0.0.0 chairscrack.com
 0.0.0.0 chameleon.ad
+0.0.0.0 champagne.futurecdn.net
 0.0.0.0 chango.com
 0.0.0.0 channel1vids.com
 0.0.0.0 channelintelligence.com
@@ -15993,6 +16014,7 @@
 0.0.0.0 messenger-notify.digital
 0.0.0.0 metaffiliation.com
 0.0.0.0 metahv.xyz
+0.0.0.0 metalbow.com
 0.0.0.0 metanetwork.com
 0.0.0.0 metanetwork.net
 0.0.0.0 metaresolver.com
@@ -18020,6 +18042,7 @@
 0.0.0.0 zxc.world
 # --- Block other trackingVN ---
 0.0.0.0 2o7.net
+0.0.0.0 3gl.net
 0.0.0.0 a.apkpure.com
 0.0.0.0 a.mailmunch.co
 0.0.0.0 a.master98.com
@@ -18201,6 +18224,7 @@
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d21y75miwcfqoq.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
+0.0.0.0 d24rtvkqjwgutp.cloudfront.net
 0.0.0.0 d2klx87bgzngce.cloudfront.net
 0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
@@ -18284,6 +18308,7 @@
 0.0.0.0 i-mar.com
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.shannon-fisher.xyz
+0.0.0.0 i.viafoura.co
 0.0.0.0 iaudienc.com
 0.0.0.0 ibd-as-api.iq.com
 0.0.0.0 idio.co
@@ -18357,6 +18382,7 @@
 0.0.0.0 metric.picodi.com
 0.0.0.0 metric.picodi.net
 0.0.0.0 metricfast.com
+0.0.0.0 metrics.beyondwords.io
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cloudflarebolt.com
 0.0.0.0 metrics.redgifs.com
@@ -18398,6 +18424,7 @@
 0.0.0.0 piwik.org
 0.0.0.0 piwik.pro
 0.0.0.0 pix.nbcuni.com
+0.0.0.0 pix.pub
 0.0.0.0 pixanalytics.pixnet.net
 0.0.0.0 pixanalytics2.pixnet.net
 0.0.0.0 pixel.condenastdigital.com
@@ -18517,6 +18544,7 @@
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.unlimapps.com
+0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.vngameden.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.xtb.com
@@ -18536,6 +18564,7 @@
 0.0.0.0 t.eloqua.com
 0.0.0.0 t.freelancer.com
 0.0.0.0 tag.aticdn.net
+0.0.0.0 tag.wknd.ai
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagmanager.alright.network
 0.0.0.0 tags.newscgp.com
