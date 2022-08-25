@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 18 Aug 2022 15:33 UTC+7
-# Version: 2208181533
-# Blocked: 17.374 domains
+# Last modified: 25 Aug 2022 11:58 UTC+7
+# Version: 2208251158
+# Blocked: 17.376 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -216,10 +216,12 @@
 0.0.0.0 analytics.live.com
 0.0.0.0 rad.live.com
 #[measure.office.com]
+0.0.0.0 measure.office.com
 0.0.0.0 config.fp.measure.office.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 upload.fp.measure.office.com
 0.0.0.0 upload2.fp.measure.office.com
+0.0.0.0 wan.measure.office.com
 #[windows.net]
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 tenmaxsgads.blob.core.windows.net
@@ -10374,8 +10376,6 @@
 0.0.0.0 stsdk.vivoglobal.com
 0.0.0.0 onrt.stsdk.vivoglobal.com
 0.0.0.0 prt.stsdk.vivoglobal.com
-0.0.0.0 asia-compnrt-stsdk.vivoglobal.com
-0.0.0.0 asia-comprt-stsdk.vivoglobal.com
 0.0.0.0 asia-monitor-stsdk.vivoglobal.com
 0.0.0.0 asia-onrt-stsdk.vivoglobal.com
 0.0.0.0 asia-ort-stsdk.vivoglobal.com
@@ -12657,6 +12657,8 @@
 0.0.0.0 www.v9banners.com
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
+0.0.0.0 xads.joboko.com
+0.0.0.0 xmadsapi.joboko.com
 # --- Block trackingVN ---
 0.0.0.0 360.anatic.net
 0.0.0.0 a.vtvdigital.vn
@@ -12833,6 +12835,7 @@
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
 0.0.0.0 s.tuoitre.vn
+0.0.0.0 sentry-track.vietnamworks.com
 0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 smetrics.kone.vn
 0.0.0.0 socialloginplus-apps.haravan.com
@@ -12929,6 +12932,7 @@
 0.0.0.0 za.baomoi.com
 0.0.0.0 zigzag.vn
 # --- Block scamVN ---
+0.0.0.0 247vi-bank.com
 0.0.0.0 atspace.tv
 0.0.0.0 bloodleian.club
 0.0.0.0 bluvenie.com
@@ -15854,7 +15858,6 @@
 0.0.0.0 linktarget.com
 0.0.0.0 liquidad.narrowcastmedia.com
 0.0.0.0 litheremility.site
-0.0.0.0 littlecdn.com
 0.0.0.0 littlecutecats.com
 0.0.0.0 littlecutedogs.com
 0.0.0.0 littlecutelions.com
@@ -18155,7 +18158,6 @@
 0.0.0.0 bango.net
 0.0.0.0 beacon.cdnma.com
 0.0.0.0 beacon.errorception.com
-0.0.0.0 beacon.fusioncdn.com
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beacon.mlytics.com
 0.0.0.0 beacon.riskified.com

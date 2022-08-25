@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 18 Aug 2022 15:33 UTC+7
-! Version: 2208181533
-! Blocked: 8.772 rules
+! Last modified: 25 Aug 2022 11:58 UTC+7
+! Version: 2208251158
+! Blocked: 8.774 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -528,6 +528,8 @@
 ||vnadssb.com^
 ||vnd247.vn^
 ||widget.headlines.pw^
+||xads.joboko.com^
+||xmadsapi.joboko.com^
 ||360.anatic.net^
 ||a.vtvdigital.vn^
 ||addlog.thuvienphapluat.vn^
@@ -703,6 +705,7 @@
 ||s.kenh14.vn^
 ||s.soha.vn^
 ||s.tuoitre.vn^
+||sentry-track.vietnamworks.com^
 ||sharefb.cnnd.vn^
 ||smetrics.kone.vn^
 ||socialloginplus-apps.haravan.com^
@@ -1462,6 +1465,7 @@
 ||zo.club^
 ||zo.game^
 ||zowinvn.vip^
+||247vi-bank.com^
 ||atspace.tv^
 ||bloodleian.club^
 ||bluvenie.com^
@@ -6049,7 +6053,6 @@
 ||linktarget.com^
 ||liquidad.narrowcastmedia.com^
 ||litheremility.site^
-||littlecdn.com^
 ||littlecutecats.com^
 ||littlecutedogs.com^
 ||littlecutelions.com^
@@ -8207,7 +8210,6 @@
 ||bango.net^
 ||beacon.cdnma.com^
 ||beacon.errorception.com^
-||beacon.fusioncdn.com^
 ||beacon.gu-web.net^
 ||beacon.mlytics.com^
 ||beacon.riskified.com^

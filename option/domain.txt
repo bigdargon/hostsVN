@@ -181,10 +181,12 @@ sts.advertising.microsoft.com
 sts.si.advertising.microsoft.com
 analytics.live.com
 rad.live.com
+measure.office.com
 config.fp.measure.office.com
 fp.measure.office.com
 upload.fp.measure.office.com
 upload2.fp.measure.office.com
+wan.measure.office.com
 insitez.blob.core.windows.net
 tenmaxsgads.blob.core.windows.net
 ad.atdmt.com
@@ -9287,8 +9289,6 @@ onrt-stsdk.vivoglobal.com
 stsdk.vivoglobal.com
 onrt.stsdk.vivoglobal.com
 prt.stsdk.vivoglobal.com
-asia-compnrt-stsdk.vivoglobal.com
-asia-comprt-stsdk.vivoglobal.com
 asia-monitor-stsdk.vivoglobal.com
 asia-onrt-stsdk.vivoglobal.com
 asia-ort-stsdk.vivoglobal.com
@@ -11265,6 +11265,8 @@ www.sbbanner.com
 www.v9banners.com
 www.vietbuzzad.com
 www.vietdorje.com
+xads.joboko.com
+xmadsapi.joboko.com
 360.anatic.net
 a.vtvdigital.vn
 addlog.thuvienphapluat.vn
@@ -11440,6 +11442,7 @@ s.homedy.com
 s.kenh14.vn
 s.soha.vn
 s.tuoitre.vn
+sentry-track.vietnamworks.com
 sharefb.cnnd.vn
 smetrics.kone.vn
 socialloginplus-apps.haravan.com
@@ -11535,6 +11538,7 @@ webstag.kplus.vn
 widget.kyna.vn
 za.baomoi.com
 zigzag.vn
+247vi-bank.com
 atspace.tv
 bloodleian.club
 bluvenie.com
@@ -14458,7 +14462,6 @@ linkswaper.com
 linktarget.com
 liquidad.narrowcastmedia.com
 litheremility.site
-littlecdn.com
 littlecutecats.com
 littlecutedogs.com
 littlecutelions.com
@@ -16758,7 +16761,6 @@ bafuhotel.com
 bango.net
 beacon.cdnma.com
 beacon.errorception.com
-beacon.fusioncdn.com
 beacon.gu-web.net
 beacon.mlytics.com
 beacon.riskified.com

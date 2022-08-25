@@ -204,10 +204,12 @@
 0.0.0.0 analytics.live.com
 0.0.0.0 rad.live.com
 #[measure.office.com]
+0.0.0.0 measure.office.com
 0.0.0.0 config.fp.measure.office.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 upload.fp.measure.office.com
 0.0.0.0 upload2.fp.measure.office.com
+0.0.0.0 wan.measure.office.com
 #[windows.net]
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 tenmaxsgads.blob.core.windows.net
@@ -10362,8 +10364,6 @@
 0.0.0.0 stsdk.vivoglobal.com
 0.0.0.0 onrt.stsdk.vivoglobal.com
 0.0.0.0 prt.stsdk.vivoglobal.com
-0.0.0.0 asia-compnrt-stsdk.vivoglobal.com
-0.0.0.0 asia-comprt-stsdk.vivoglobal.com
 0.0.0.0 asia-monitor-stsdk.vivoglobal.com
 0.0.0.0 asia-onrt-stsdk.vivoglobal.com
 0.0.0.0 asia-ort-stsdk.vivoglobal.com
