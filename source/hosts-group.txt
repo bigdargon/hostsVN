@@ -161,7 +161,6 @@
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
-0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 #[l.google.com]
 0.0.0.0 pagead-googlehosted.l.google.com
@@ -10993,3 +10992,21 @@
 #[conductrics.com]
 0.0.0.0 conductrics.com
 0.0.0.0 cdn-v3.conductrics.com
+#[nakanohito.jp]
+0.0.0.0 bs.nakanohito.jp
+0.0.0.0 cm-beacon.nakanohito.jp
+0.0.0.0 cm-widget.nakanohito.jp
+0.0.0.0 cs.nakanohito.jp
+0.0.0.0 nakanohito.jp
+0.0.0.0 support-widget.nakanohito.jp
+0.0.0.0 uh.nakanohito.jp
+#[adingo.jp]
+0.0.0.0 adingo.jp
+0.0.0.0 cdn-fluct.sh.adingo.jp
+0.0.0.0 cs.adingo.jp
+0.0.0.0 fam.adingo.jp
+0.0.0.0 pdn.adingo.jp
+0.0.0.0 sh.adingo.jp
+#[flat-ads.com]
+0.0.0.0 api.flat-ads.com
+0.0.0.0 flat-ads.com
