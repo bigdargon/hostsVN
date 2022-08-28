@@ -1,0 +1,16 @@
+# Title: hostsVN Threat
+# Last modified: 28 Aug 2022 17:14 UTC+7
+# Version: 2208281714
+# Blocked: 004 domains
+# Only include threat domains
+# Homepage: https://bigdargon.github.io/hostsVN/
+# GitHub: https://github.com/bigdargon/hostsVN
+# Report issues: https://github.com/bigdargon/hostsVN/issues
+# Download: https://github.com/bigdargon/hostsVN/raw/master/extensions/threat/hosts
+#
+# =====================================================
+
+0.0.0.0 247vi-bank.com
+0.0.0.0 apple.support-maps.live
+0.0.0.0 garenalqm.com
+0.0.0.0 support-maps.live
