@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 Aug 2022 11:58 UTC+7
-# Version: 2208251158
-# Blocked: 17.376 domains
+# Last modified: 28 Aug 2022 11:22 UTC+7
+# Version: 2208281122
+# Blocked: 17.393 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -173,7 +173,6 @@
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
-0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 #[l.google.com]
 0.0.0.0 pagead-googlehosted.l.google.com
@@ -11005,6 +11004,24 @@
 #[conductrics.com]
 0.0.0.0 conductrics.com
 0.0.0.0 cdn-v3.conductrics.com
+#[nakanohito.jp]
+0.0.0.0 bs.nakanohito.jp
+0.0.0.0 cm-beacon.nakanohito.jp
+0.0.0.0 cm-widget.nakanohito.jp
+0.0.0.0 cs.nakanohito.jp
+0.0.0.0 nakanohito.jp
+0.0.0.0 support-widget.nakanohito.jp
+0.0.0.0 uh.nakanohito.jp
+#[adingo.jp]
+0.0.0.0 adingo.jp
+0.0.0.0 cdn-fluct.sh.adingo.jp
+0.0.0.0 cs.adingo.jp
+0.0.0.0 fam.adingo.jp
+0.0.0.0 pdn.adingo.jp
+0.0.0.0 sh.adingo.jp
+#[flat-ads.com]
+0.0.0.0 api.flat-ads.com
+0.0.0.0 flat-ads.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14077,6 +14094,7 @@
 0.0.0.0 arisedammiral.com
 0.0.0.0 aromamirror.com
 0.0.0.0 arsdev.net
+0.0.0.0 arswabluchan.com
 0.0.0.0 artpever.com
 0.0.0.0 as.sexad.net
 0.0.0.0 as.webmd.com
@@ -14864,6 +14882,7 @@
 0.0.0.0 decoycreation.com
 0.0.0.0 dedicatedmedia.com
 0.0.0.0 deecqem892bg5er.com
+0.0.0.0 deehalig.net
 0.0.0.0 deepermagnes.com
 0.0.0.0 deewansturacin.com
 0.0.0.0 defectivesun.com
@@ -16278,6 +16297,7 @@
 0.0.0.0 oas.toronto.com
 0.0.0.0 oas.uniontrib.com
 0.0.0.0 oas.villagevoice.com
+0.0.0.0 oataltaul.com
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 observantice.com
 0.0.0.0 ocio.leadzu.com
@@ -17259,6 +17279,7 @@
 0.0.0.0 t85itha3nitde.com
 0.0.0.0 ta3nfsordd.com
 0.0.0.0 ta5ast2ffeyvhjitde.com
+0.0.0.0 taaqhr6axacd2um.com
 0.0.0.0 tabookbusines.info
 0.0.0.0 tacoda.net
 0.0.0.0 tacticmarshannouncing.com
@@ -18642,7 +18663,6 @@
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 uciservice.com
-0.0.0.0 uh.nakanohito.jp
 0.0.0.0 ultimedia.com
 0.0.0.0 umeng.co
 0.0.0.0 unicaitaly.it
