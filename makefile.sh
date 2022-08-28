@@ -7,7 +7,6 @@ VERSION=$(date +'%y%m%d%H%M')
 LC_NUMERIC="en_US.UTF-8"
 DOMAIN=$(printf "%'.3d\n" $(cat source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt | grep "0.0.0.0" | wc -l))
 DOMAIN_VN=$(printf "%'.3d\n" $(cat source/hosts-VN-group.txt source/hosts-VN.txt | grep "0.0.0.0" | wc -l))
-DOMAIN_GA=$(printf "%'.3d\n" $(cat source/hosts-gambling.txt | grep "0.0.0.0" | wc -l))
 RULE=$(printf "%'.3d\n" $(cat source/adservers.txt source/adservers-all.txt source/adservers-extra.txt source/exceptions.txt | grep -v '!' | wc -l))
 RULE_VN=$(printf "%'.3d\n" $(cat source/adservers.txt | grep -v '!' | wc -l))
 HOSTNAME=$(cat source/config-hostname.txt)
@@ -16,7 +15,6 @@ HOSTNAME=$(cat source/config-hostname.txt)
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts.txt > tmp/title-hosts.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts-iOS.txt > tmp/title-hosts-iOS.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_vn_/$DOMAIN_VN/g" tmp/title-hosts-VN.txt > tmp/title-hosts-VN.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_ga_/$DOMAIN_GA/g" tmp/title-hosts-gambling.txt > tmp/title-hosts-gambling.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_/$RULE/g" tmp/title-adserver-all.txt > tmp/title-adserver-all.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_vn_/$RULE_VN/g" tmp/title-adserver.txt > tmp/title-adserver.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_/$RULE/g" tmp/title-domain.txt > tmp/title-domain.tmp
@@ -29,7 +27,6 @@ echo "Creating hosts file..."
 # create hosts files
 cat tmp/title-hosts.tmp source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt > hosts
 cat tmp/title-hosts-VN.tmp source/hosts-VN-group.txt source/hosts-VN.txt > option/hosts-VN
-cat tmp/title-hosts-gambling.tmp source/hosts-gambling.txt > option/hosts-gambling
 
 # create hosts-iOS file
 cat hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "0 "$2}' >> tmp/hosts-iOS.tmp
@@ -80,13 +77,11 @@ cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk 
 echo "Creating config file..."
 # create config
 sed -e "s/_time_stamp_/$TIME_STAMP/g" tmp/title-config-quantumultX.txt > option/hostsVN-quantumultX.conf
-sed -e "s/!_hostname_/$HOSTNAME/g" -e '/!_rejection_quantumult_/r option/hostsVN-quantumult-rejection.conf' -e '/!_rejection_quantumult_/d' -e '/!_rule_quantumult_/r option/hostsVN-quantumult-rule.conf' -e '/!_rule_quantumult_/d' -e '/!_rule_exceptions_quantumult_/r option/hostsVN-quantumult-exceptions-rule.conf' -e '/!_rule_exceptions_quantumult_/d' tmp/title-config-quantumult.txt > option/hostsVN-quantumult.conf
 
 echo "Adding to file..."
 # add to files
 cat tmp/title-adserver.tmp tmp/adservers-rule.tmp > filters/adservers.txt
 cat tmp/title-adserver-all.tmp tmp/adservers-all-rule.tmp > filters/adservers-all.txt
-cat tmp/title-domain.tmp tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp > filters/domain-adservers-all.txt
 cat tmp/title-config-surge.tmp tmp/adservers-config.tmp > option/hostsVN.conf
 
 echo "Creating block OTA file..."
