@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Sep 2022 20:12 UTC+7
-! Version: 2209022012
-! Blocked: 8.778 rules
+! Last modified: 02 Sep 2022 23:25 UTC+7
+! Version: 2209022325
+! Blocked: 8.799 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -918,6 +918,7 @@
 ||aw8vn3.com^
 ||b29.bet^
 ||b29qc.win^
+||b52.vip^
 ||b52.win^
 ||b89.bet^
 ||banca-red88.top^
@@ -958,6 +959,7 @@
 ||choingay88.com^
 ||choisv88.live^
 ||choita88.club^
+||choiwin79.com^
 ||cmd368t.com^
 ||comebet.xyz^
 ||comebetvn1.com^
@@ -1072,6 +1074,7 @@
 ||hi88vip8.com^
 ||hotlive8.vip^
 ||i8bet.org^
+||i99903.com^
 ||i99906.com^
 ||i99908.com^
 ||i9bet5.com^
@@ -1302,6 +1305,7 @@
 ||sunwinvn.club^
 ||sv88.club^
 ||sv88.com^
+||sv88.vip^
 ||t8bet999.com^
 ||t8betvip.com^
 ||ta88.com^
@@ -1438,6 +1442,7 @@
 ||wbet99.net^
 ||websvn.info^
 ||wellviet.net^
+||win79play.me^
 ||win888b.com^
 ||ww88club.com^
 ||x8.club^
@@ -1451,6 +1456,7 @@
 ||xoso6.com^
 ||xoso9988.com^
 ||xosobet.com^
+||yo88.net^
 ||yo88.win^
 ||yo88vn.com^
 ||yo88vn.us^
@@ -1707,6 +1713,8 @@
 ||ads-dev.pinterest.com^
 ||ads-pixiv.net^
 ||ads-privacy-api.prd.mz.internal.unity3d.com^
+||ads-resources-legacy.waze.com^
+||ads-resources.waze.com^
 ||ads-router-noneu.truecaller.com^
 ||ads-sg.tiktok.com^
 ||ads-trk.vidible.tv^
@@ -1748,6 +1756,7 @@
 ||adsafeprotected.com^
 ||adsafety.net^
 ||adsapi.snapchat.com^
+||adsassets.waze.com^
 ||adsbynimbus.com^
 ||adscale.de^
 ||adschoom.com^
@@ -1815,6 +1824,7 @@
 ||advgalaxy.com^
 ||adview.cn^
 ||adview.com^
+||advil.waze.com^
 ||advinci.net^
 ||advividnetwork.com^
 ||adwmg.com^
@@ -2764,6 +2774,7 @@
 ||prod.pr.analytics.console.aws.a2z.com^
 ||prod.pw.analytics.console.aws.a2z.com^
 ||production-cmp.isgprivacy.cbsi.com^
+||promo-*.vercel.app^
 ||promoted.soundcloud.com^
 ||promotionalads.yahoo.co.jp^
 ||propellerads.com^
@@ -3158,6 +3169,7 @@
 ||wensixuetang.com^
 ||wg-aff.com^
 ||winadx.com^
+||wiztube.xyz^
 ||wkclick.baidu.com^
 ||wkctj.baidu.com^
 ||wkrd.tingyun.com^
@@ -4575,6 +4587,7 @@
 ||bngpt.com^
 ||bnserving.com^
 ||bo2ffe45ss4gie.com^
+||boakauso.com^
 ||boasstylijoked.com^
 ||bodyclick.net^
 ||bohonef.com^
@@ -4829,6 +4842,7 @@
 ||clicktrack.ziyu.net^
 ||clicktracks.com^
 ||clicktrade.com^
+||clicktut.site^
 ||clickxchange.com^
 ||clickz.com^
 ||clicmanager.fr^
@@ -5200,6 +5214,7 @@
 ||e335udnv6drg78b7.com^
 ||e4nglis56hcoo5nhou6nd.com^
 ||e5asyhilodice.com^
+||e67repidwnfu7gcha.com^
 ||eabids.com^
 ||eacdn.com^
 ||eadexchange.com^
@@ -5989,6 +6004,7 @@
 ||kupona.de^
 ||kurlichan.com^
 ||kw3y5otoeuniv7e9rsi.com^
+||kxnggkh2nj.com^
 ||ladsreds.com^
 ||lakequincy.com^
 ||lambingsyddir.com^
@@ -6315,6 +6331,7 @@
 ||mpstat.us^
 ||mr-rank.de^
 ||mrskincash.com^
+||mscoldness.com^
 ||msgose.com^
 ||mstrlytcs.com^
 ||mt34iofvjay.com^
@@ -7147,6 +7164,7 @@
 ||secretivecub.com^
 ||secretspiders.com^
 ||secure.webconnect.net^
+||secureaddisplay.com^
 ||sedoparking.com^
 ||sedotracker.com^
 ||seedtag.com^
@@ -7927,6 +7945,7 @@
 ||whaiweel.com^
 ||whaleads.com^
 ||whazugho.com^
+||wheeksir.net^
 ||whenu.com^
 ||whereapps.com^
 ||whingewost.com^
@@ -8040,6 +8059,7 @@
 ||yieldtraffic.com^
 ||yiopse.com^
 ||yjuydihly.com^
+||yjwumvme.com^
 ||yldbt.com^
 ||ylicxdkgkvfc.com^
 ||ymetrica1.com^
@@ -8747,6 +8767,7 @@
 ||49betoo.com^
 ||978bet3.com^
 ||baksourat.com^
+||besthealthblog.pro^
 ||casinopro.se^
 ||eclbetnow.com^
 ||marqode.com^

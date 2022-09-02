@@ -10995,3 +10995,18 @@
 #[flat-ads.com]
 0.0.0.0 api.flat-ads.com
 0.0.0.0 flat-ads.com
+#[waze.com]
+0.0.0.0 ads-resources-legacy.waze.com
+0.0.0.0 ads-resources.waze.com
+0.0.0.0 adsassets.waze.com
+0.0.0.0 advil.waze.com
+#[promo-*.vercel.app]
+0.0.0.0 promo-1.vercel.app
+0.0.0.0 promo-3.vercel.app
+0.0.0.0 promo-4.vercel.app
+#[wiztube.xyz]
+0.0.0.0 advert.wiztube.xyz
+0.0.0.0 cdn.wiztube.xyz
+0.0.0.0 netu.wiztube.xyz
+0.0.0.0 wiztube.xyz
+0.0.0.0 www.wiztube.xyz

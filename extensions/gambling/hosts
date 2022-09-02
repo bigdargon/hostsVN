@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 02 Sep 2022 22:36 UTC+7
-# Version: 2209022236
-# Blocked: 1.649 domains
+# Last modified: 02 Sep 2022 23:24 UTC+7
+# Version: 2209022324
+# Blocked: 1.666 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -126,11 +126,13 @@
 0.0.0.0 ad.8live.com
 0.0.0.0 ad.8live.net
 0.0.0.0 ad.choingay88.com
+0.0.0.0 ad.choiwin79.com
 0.0.0.0 ad.gamequyong.site
 0.0.0.0 ad.gamequyong.xyz
 0.0.0.0 ad.mibet.com
 0.0.0.0 ad.rikvip.uk
 0.0.0.0 ad.vn88.com
+0.0.0.0 ad.yo88.net
 0.0.0.0 ad.yo88.win
 0.0.0.0 ad.yo88vn.com
 0.0.0.0 ad.yo88vn.vip
@@ -209,6 +211,7 @@
 0.0.0.0 api.betlv.com
 0.0.0.0 api.f8bet0.com
 0.0.0.0 api.i8bet.org
+0.0.0.0 api.i99903.com
 0.0.0.0 api.i99908.com
 0.0.0.0 api.kingbet86.info
 0.0.0.0 api.mc876.com
@@ -245,6 +248,7 @@
 0.0.0.0 aw8vn3.com
 0.0.0.0 b29.bet
 0.0.0.0 b29qc.win
+0.0.0.0 b52.vip
 0.0.0.0 b52.win
 0.0.0.0 b89.bet
 0.0.0.0 baksourat.com
@@ -253,6 +257,7 @@
 0.0.0.0 bcb80.com
 0.0.0.0 best.8dayvn888.com
 0.0.0.0 bestcacuoc8.com
+0.0.0.0 besthealthblog.pro
 0.0.0.0 bet20.bet
 0.0.0.0 bet29.club
 0.0.0.0 bet52.vin
@@ -313,6 +318,7 @@
 0.0.0.0 choingay88.com
 0.0.0.0 choisv88.live
 0.0.0.0 choita88.club
+0.0.0.0 choiwin79.com
 0.0.0.0 click.mibet.com
 0.0.0.0 click.mibet.mobi
 0.0.0.0 click.mibet88.com
@@ -483,6 +489,7 @@
 0.0.0.0 game.789.moi
 0.0.0.0 game.789a.club
 0.0.0.0 game.789club.org
+0.0.0.0 game.b52.vip
 0.0.0.0 game.b52.win
 0.0.0.0 game.taib52.club
 0.0.0.0 game.taib52.com
@@ -548,6 +555,7 @@
 0.0.0.0 hplay.fabet.me
 0.0.0.0 hplay.fabet.us
 0.0.0.0 i8bet.org
+0.0.0.0 i99903.com
 0.0.0.0 i99906.com
 0.0.0.0 i99908.com
 0.0.0.0 i9bet5.com
@@ -893,6 +901,7 @@
 0.0.0.0 piwik.12b99.com
 0.0.0.0 piwik.88thaicasinoslots.com
 0.0.0.0 piwik.xengtructuyen.com
+0.0.0.0 play.b52.vip
 0.0.0.0 play.b52.win
 0.0.0.0 play.fa88.win
 0.0.0.0 play.go88.club
@@ -915,6 +924,7 @@
 0.0.0.0 play.vicwin.vip
 0.0.0.0 play.x8.club
 0.0.0.0 play.x8vn.com
+0.0.0.0 play.yo88.net
 0.0.0.0 play.yo88.win
 0.0.0.0 play.yo88vn.vip
 0.0.0.0 playdsb.com
@@ -1076,8 +1086,10 @@
 0.0.0.0 sun.win
 0.0.0.0 sunvin.vin
 0.0.0.0 sunwinvn.club
+0.0.0.0 sv1.sv88.vip
 0.0.0.0 sv88.club
 0.0.0.0 sv88.com
+0.0.0.0 sv88.vip
 0.0.0.0 t.mibet.com
 0.0.0.0 t1.ta88.com
 0.0.0.0 t2.ta88.com
@@ -1275,6 +1287,7 @@
 0.0.0.0 widget.v9bet88.net
 0.0.0.0 widget.v9jvn.com
 0.0.0.0 win.vaorikvip.com
+0.0.0.0 win79play.me
 0.0.0.0 win888b.com
 0.0.0.0 wp.mu9.win
 0.0.0.0 wp.red88.us
@@ -1430,6 +1443,7 @@
 0.0.0.0 www.hi888.app
 0.0.0.0 www.hi88vip8.com
 0.0.0.0 www.i8bet.org
+0.0.0.0 www.i99903.com
 0.0.0.0 www.i99906.com
 0.0.0.0 www.i99908.com
 0.0.0.0 www.i9bet5.com
@@ -1533,6 +1547,7 @@
 0.0.0.0 www.solbet88.com
 0.0.0.0 www.sun.win
 0.0.0.0 www.sv88.com
+0.0.0.0 www.sv88.vip
 0.0.0.0 www.t8bet999.com
 0.0.0.0 www.t8betvip.com
 0.0.0.0 www.tai789.net
@@ -1620,6 +1635,7 @@
 0.0.0.0 www.xingtou888.com
 0.0.0.0 www.xoso5678.com
 0.0.0.0 www.xoso6.com
+0.0.0.0 www.yo88.net
 0.0.0.0 www.you88.app
 0.0.0.0 www.you88.vin
 0.0.0.0 www.yule12888.com
@@ -1637,6 +1653,7 @@
 0.0.0.0 xoso6.com
 0.0.0.0 xoso9988.com
 0.0.0.0 xosobet.com
+0.0.0.0 yo88.net
 0.0.0.0 yo88.win
 0.0.0.0 yo88vn.com
 0.0.0.0 yo88vn.us
