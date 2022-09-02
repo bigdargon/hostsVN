@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 28 Aug 2022 11:22 UTC+7
-! Version: 2208281122
-! Blocked: 8.779 rules
+! Last modified: 02 Sep 2022 20:12 UTC+7
+! Version: 2209022012
+! Blocked: 8.778 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1941,7 +1941,6 @@
 ||appnexus.com^
 ||appodealx.com^
 ||apps.sascdn.com^
-||appsflyersdk.com^
 ||apptornado.com^
 ||apxadtracking.net^
 ||aqua-adserver.com^

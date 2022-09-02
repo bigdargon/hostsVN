@@ -18,10 +18,10 @@ sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_/$RULE/g" tmp/title-adserver-all.txt > tmp/title-adserver-all.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_vn_/$RULE_VN/g" tmp/title-adserver.txt > tmp/title-adserver.tmp
 sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_/$RULE/g" tmp/title-domain.txt > tmp/title-domain.tmp
-sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-surge.txt > tmp/title-config-surge.tmp
-sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-surge.txt | grep -v '#!' > option/hostsVN-surge-pro.conf
-sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-shadowrocket.txt > option/hostsVN-shadowrocket.conf
-sed -e "s/!_hostname_/$HOSTNAME/g" tmp/title-config-loon.txt > option/hostsVN-loon.conf
+sed -e "s/_hostname_/$HOSTNAME/g" tmp/title-config-surge.txt > tmp/title-config-surge.tmp
+sed -e "s/_hostname_/$HOSTNAME/g" tmp/title-config-surge.txt | grep -v '#!' > option/hostsVN-surge-pro.conf
+sed -e "s/_hostname_/$HOSTNAME/g" tmp/title-config-shadowrocket.txt > option/hostsVN-shadowrocket.conf
+sed -e "s/_hostname_/$HOSTNAME/g" tmp/title-config-loon.txt > option/hostsVN-loon.conf
 
 echo "Creating hosts file..."
 # create hosts files
