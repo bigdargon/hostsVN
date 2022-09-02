@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 02 Sep 2022 17:01 UTC+7
-# Version: 2209021701
-# Blocked: 004 domains
+# Last modified: 02 Sep 2022 22:36 UTC+7
+# Version: 2209022236
+# Blocked: 080 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10,7 +10,83 @@
 #
 # =====================================================
 
+0.0.0.0 24-7-vidientu.com
+0.0.0.0 24-7bank.com
+0.0.0.0 247-banking.com
+0.0.0.0 247-vidientu.com
+0.0.0.0 247bank-ing.com
+0.0.0.0 247napas.com
 0.0.0.0 247vi-bank.com
+0.0.0.0 acb.vn-banks.xyz
+0.0.0.0 acb.vn-c.xyz
+0.0.0.0 acb.vn-ol.top
+0.0.0.0 acbbank.xyz
+0.0.0.0 acbvnliin.com
+0.0.0.0 acbvnlin.com
+0.0.0.0 agrib-vn.com
 0.0.0.0 apple.support-maps.live
+0.0.0.0 banking24hsingapore.weebly.com
+0.0.0.0 banktopvn.online
+0.0.0.0 banvoucher-vn.weeblysite.com
+0.0.0.0 bcmoney.xyz
+0.0.0.0 bidv-transfermoney.weebly.com
+0.0.0.0 chuyendoitienquote-nhantien24h.weebly.com
+0.0.0.0 congdientu247.com
+0.0.0.0 congthongtinvidientu.com
+0.0.0.0 coonnfirrmm-bankingg247njf.weebly.com
+0.0.0.0 dichvu-chuyentien24h.000webhostapp.com
+0.0.0.0 dichvunhantienquocte2-4-7.weebly.com
 0.0.0.0 garenalqm.com
+0.0.0.0 giaodichtiente247ipay.weebly.com
+0.0.0.0 giaodichvidientu.com.vn
+0.0.0.0 hethonggiaodichvidientu247.com
+0.0.0.0 ibankingdigital.com
+0.0.0.0 ibmgroup.co.uk
+0.0.0.0 id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
+0.0.0.0 inet-ebank.com
+0.0.0.0 khuyenmaivimomo.weebly.com
+0.0.0.0 kiemtienmomo.weebly.com
+0.0.0.0 lienketkiemtien.weebly.com
+0.0.0.0 lienkettaikhoan.com
+0.0.0.0 lienketvidientu.com
+0.0.0.0 momovíđiệntửsố1.weebly.com
+0.0.0.0 moneygram24hh.weebly.com
+0.0.0.0 muc247-vidientu.com
+0.0.0.0 mucvidientu24-7.com
+0.0.0.0 mucvidientuvietnam247.com
+0.0.0.0 mucvinganhangso247.com
+0.0.0.0 new-vietcombank.com
+0.0.0.0 nganhangso24-7.com
+0.0.0.0 nganhangtructuyen24h.com
+0.0.0.0 nhan-tienvidientu247.com
+0.0.0.0 nhantien120s-ollbankingz.weebly.com
+0.0.0.0 nhantienonline1k87ưs1.weebly.com
+0.0.0.0 nhantienquocte249.weebly.com
+0.0.0.0 nhantienquocte275.weebly.com
+0.0.0.0 nhanvimomo2021.weebly.com
+0.0.0.0 nhậnquàmomoưuđãimomo.weebly.com
+0.0.0.0 quaythuonggarena.com
+0.0.0.0 quydoitienquocte24h7azx.weebly.com
+0.0.0.0 sacombank.vn-ne.top
+0.0.0.0 shopee.lienkettaikhoannhanquatang.online
+0.0.0.0 shopeexpress.online
 0.0.0.0 support-maps.live
+0.0.0.0 techcombank.vn-ol.top
+0.0.0.0 thutucnhantienquydoi24h.weebly.com
+0.0.0.0 tpbank.vn-vpb.top
+0.0.0.0 tpbankvnvn.com
+0.0.0.0 trangchunhantien-remitly-wu247.weebly.com
+0.0.0.0 trangdientu24-7.com
+0.0.0.0 trangnganhangdientu247.com
+0.0.0.0 trangnganhangso247.com
+0.0.0.0 transferamerica-to-vietnammoney.weebly.com
+0.0.0.0 vaytieudungtpbank.weebly.com
+0.0.0.0 vcbbankdigi.com
+0.0.0.0 vidientu-247.com
+0.0.0.0 vidientunganhangso247.com
+0.0.0.0 vidientutrangtructuyen247.com
+0.0.0.0 vidientuvietnam247.com
+0.0.0.0 vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com
+0.0.0.0 vietimbank.top
+0.0.0.0 westernunions6886z.weebly.com
+0.0.0.0 xn--nhantienonline1k87s1-6hf.weebly.com
