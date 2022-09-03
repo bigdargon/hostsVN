@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Sep 2022 23:25 UTC+7
-! Version: 2209022325
-! Blocked: 1.545 rules
+! Last modified: 03 Sep 2022 23:09 UTC+7
+! Version: 2209032309
+! Blocked: 1.546 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1018,6 +1018,7 @@
 ||fb88live.com^
 ||fb88max.com^
 ||fb88sports.com^
+||fb88up.com^
 ||fb88viet.com^
 ||fb88you.com^
 ||fcb8.com^
