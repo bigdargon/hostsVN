@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 03 Sep 2022 23:09 UTC+7
-# Version: 2209032309
-# Blocked: 1.668 domains
+# Last modified: 04 Sep 2022 11:16 UTC+7
+# Version: 2209041116
+# Blocked: 1.671 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1214,6 +1214,7 @@
 0.0.0.0 vn.ku6131.net
 0.0.0.0 vn.solarbet.com
 0.0.0.0 vn.solbet88.com
+0.0.0.0 vn.vndbetway.com
 0.0.0.0 vn138viet.com
 0.0.0.0 vn34.com
 0.0.0.0 vn67801.com
@@ -1227,6 +1228,7 @@
 0.0.0.0 vn88vui.live
 0.0.0.0 vnd188.app
 0.0.0.0 vndbet88.com
+0.0.0.0 vndbetway.com
 0.0.0.0 vngame66.com
 0.0.0.0 vnloto.com
 0.0.0.0 vnloto.vip
@@ -1600,6 +1602,7 @@
 0.0.0.0 www.vn88hn.live
 0.0.0.0 www.vn88vui.live
 0.0.0.0 www.vndbet88.com
+0.0.0.0 www.vndbetway.com
 0.0.0.0 www.vnloto.com
 0.0.0.0 www.vnq8.bet
 0.0.0.0 www.vnq8.com
