@@ -159,6 +159,8 @@ ads.gmodules.com
 ads.google.com
 ads.youtube.com
 mail-ads.google.com
+app-measurement.com
+region1.app-measurement.com
 target.microsoft.com
 oca.telemetry.microsoft.com
 reports.wes.df.telemetry.microsoft.com
@@ -9791,6 +9793,9 @@ cdn.wiztube.xyz
 netu.wiztube.xyz
 wiztube.xyz
 www.wiztube.xyz
+analytics.ff.avast.com
+ip-info.ff.avast.com
+ipm-provider.ff.avast.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -16729,7 +16734,6 @@ analytics.cdn.live
 analytics.clickdimensions.com
 analytics.cloudron.io
 analytics.diyriver.io
-analytics.ff.avast.com
 analytics.gavelz.com
 analytics.getshogun.com
 analytics.gismart.xyz
@@ -16787,7 +16791,6 @@ api.usebutton.com
 api.wipmania.com
 api2.poperblocker.com
 apolloprogram.io
-app-measurement.com
 app.adjust.net.in
 app.adjust.world
 applog.camera360.com

@@ -176,6 +176,9 @@
 0.0.0.0 ads.google.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 mail-ads.google.com
+#[app-measurement.com]
+0.0.0.0 app-measurement.com
+0.0.0.0 region1.app-measurement.com
 #[microsoft.com]
 0.0.0.0 target.microsoft.com
 #[telemetry.microsoft.com]
@@ -11010,3 +11013,7 @@
 0.0.0.0 netu.wiztube.xyz
 0.0.0.0 wiztube.xyz
 0.0.0.0 www.wiztube.xyz
+#[ff.avast.com]
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com

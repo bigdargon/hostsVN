@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Sep 2022 22:36 UTC+7
-! Version: 2209042236
-! Blocked: 8.817 rules
+! Last modified: 05 Sep 2022 16:11 UTC+7
+! Version: 2209051611
+! Blocked: 8.819 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1886,6 +1886,7 @@
 ||analytics-sg.tiktok.com^
 ||analytics.autodesk.com^
 ||analytics.edgekey.net^
+||analytics.ff.avast.com^
 ||analytics.google.com^
 ||analytics.live.com^
 ||analytics.mobile.walmart.com^
@@ -1931,6 +1932,7 @@
 ||app-adforce.jp^
 ||app-analytics-v2.snapchat.com^
 ||app-analytics.snapchat.com^
+||app-measurement.com^
 ||app.ssp.yahoo.com^
 ||appadhoc.com^
 ||appads.in^
@@ -2466,7 +2468,9 @@
 ||invitemedia.com^
 ||invl.co^
 ||ioam.de^
+||ip-info.ff.avast.com^
 ||iperceptions.com^
+||ipm-provider.ff.avast.com^
 ||iprom.net^
 ||iqzone.com^
 ||ironbeast.io^
@@ -8181,7 +8185,6 @@
 ||analytics.clickdimensions.com^
 ||analytics.cloudron.io^
 ||analytics.diyriver.io^
-||analytics.ff.avast.com^
 ||analytics.gavelz.com^
 ||analytics.getshogun.com^
 ||analytics.gismart.xyz^
@@ -8239,7 +8242,6 @@
 ||api.wipmania.com^
 ||api2.poperblocker.com^
 ||apolloprogram.io^
-||app-measurement.com^
 ||app.adjust.net.in^
 ||app.adjust.world^
 ||applog.camera360.com^

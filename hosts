@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Sep 2022 22:36 UTC+7
-# Version: 2209042236
-# Blocked: 17.415 domains
+# Last modified: 05 Sep 2022 16:11 UTC+7
+# Version: 2209051611
+# Blocked: 17.418 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -188,6 +188,9 @@
 0.0.0.0 ads.google.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 mail-ads.google.com
+#[app-measurement.com]
+0.0.0.0 app-measurement.com
+0.0.0.0 region1.app-measurement.com
 #[microsoft.com]
 0.0.0.0 target.microsoft.com
 #[telemetry.microsoft.com]
@@ -11022,6 +11025,10 @@
 0.0.0.0 netu.wiztube.xyz
 0.0.0.0 wiztube.xyz
 0.0.0.0 www.wiztube.xyz
+#[ff.avast.com]
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -18131,7 +18138,6 @@
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.diyriver.io
-0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.gavelz.com
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.gismart.xyz
@@ -18189,7 +18195,6 @@
 0.0.0.0 api.wipmania.com
 0.0.0.0 api2.poperblocker.com
 0.0.0.0 apolloprogram.io
-0.0.0.0 app-measurement.com
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 applog.camera360.com
