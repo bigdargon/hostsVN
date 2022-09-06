@@ -26,7 +26,7 @@ cat source/ip.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' > tmp/ip.tmp
 sort -o tmp/adult-hosts.tmp tmp/adult-hosts.tmp
 sort -o tmp/gambling-hosts.tmp tmp/gambling-hosts.tmp
 sort -o tmp/threat-hosts.tmp tmp/threat-hosts.tmp
-sort -o tmp/ip.tmp tmp/ip.tmp
+sort -n -o tmp/ip.tmp tmp/ip.tmp
 
 cat tmp/title-hosts-adult.tmp tmp/adult-hosts.tmp > adult/hosts
 cat tmp/title-hosts-gambling.tmp tmp/gambling-hosts.tmp > gambling/hosts
