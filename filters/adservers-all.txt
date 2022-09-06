@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Sep 2022 16:11 UTC+7
-! Version: 2209051611
-! Blocked: 8.819 rules
+! Last modified: 06 Sep 2022 14:55 UTC+7
+! Version: 2209061455
+! Blocked: 8.826 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2757,6 +2757,7 @@
 ||pmddby.com^
 ||pncloudfl.com^
 ||polarbyte.com^
+||popadex-*.us-east-1.elb.amazonaws.com^
 ||popads.net^
 ||popcash.net^
 ||popcashjs.b-cdn.net^
@@ -4757,6 +4758,7 @@
 ||cetrk.com^
 ||cf.adxcel.com^
 ||cgicounter.puretec.de^
+||chachophigy.pro^
 ||chaerel.com^
 ||chaglihysty.pro^
 ||chairscrack.com^
@@ -6789,6 +6791,7 @@
 ||popuptraffic.com^
 ||porngraph.com^
 ||porntrack.com^
+||pornve.sexyadsrun.com^
 ||poseidthewave.com^
 ||poshhateful.com^
 ||pososrhwu2jf8jf09.com^
@@ -6984,6 +6987,7 @@
 ||rapleaf.com^
 ||raresummer.com^
 ||rate.ru^
+||rdgtvgmtauro.com^
 ||rdr.wargaming.net^
 ||re-directme.com^
 ||reachjunction.com^
@@ -7753,6 +7757,7 @@
 ||ucxfdvhuqwpig.com^
 ||uebadu.com^
 ||ueikno.com^
+||uejwqbgtjxdw.com^
 ||uge521.com^
 ||uitopadxdy.com^
 ||ukbanners.com^
@@ -8140,6 +8145,8 @@
 ||zm232.com^
 ||zmedia.com^
 ||zoosnet.net^
+||zorprhbnwbezie.com^
+||zrljkhcwhxhh.com^
 ||zumobi.com^
 ||zuphaims.com^
 ||zvetokr2hr8pcng09.com^
