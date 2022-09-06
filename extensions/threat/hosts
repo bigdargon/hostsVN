@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 06 Sep 2022 16:10 UTC+7
-# Version: 2209061610
-# Blocked: 334 domains
+# Last modified: 06 Sep 2022 16:31 UTC+7
+# Version: 2209061631
+# Blocked: 335 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -334,6 +334,7 @@
 0.0.0.0 vn-dienmayxanh.com
 0.0.0.0 vnah567.com
 0.0.0.0 vnshop11.com
+0.0.0.0 vvvvw-icloud.com
 0.0.0.0 westernunions6886z.weebly.com
 0.0.0.0 xa38.xyz
 0.0.0.0 xd152.com

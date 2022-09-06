@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Sep 2022 14:55 UTC+7
-! Version: 2209061455
-! Blocked: 8.826 rules
+! Last modified: 06 Sep 2022 16:31 UTC+7
+! Version: 2209061631
+! Blocked: 8.827 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6012,6 +6012,7 @@
 ||kqzyfj.com^
 ||kronervisile.com^
 ||kronosspell.com^
+||ksznidltg.com^
 ||ktkjmp.com^
 ||kts.visitstats.com^
 ||ktu.sv2.biz^
