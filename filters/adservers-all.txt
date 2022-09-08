@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Sep 2022 16:31 UTC+7
-! Version: 2209061631
-! Blocked: 8.827 rules
+! Last modified: 08 Sep 2022 09:30 UTC+7
+! Version: 2209080930
+! Blocked: 8.826 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2639,7 +2639,6 @@
 ||mobpartner.mobi^
 ||mobytrks.com^
 ||modoro360.com^
-||moengage.com^
 ||mon-va.byteoversea.com^
 ||mon.byteoversea.com^
 ||mondiad.net^
