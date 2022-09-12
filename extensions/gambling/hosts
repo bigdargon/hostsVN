@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 12 Sep 2022 07:28 UTC+7
-# Version: 2209120728
-# Blocked: 4.487 domains
+# Last modified: 12 Sep 2022 13:35 UTC+7
+# Version: 2209121335
+# Blocked: 4.491 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -107,10 +107,13 @@
 0.0.0.0 1k98x.com
 0.0.0.0 1tamtam.com
 0.0.0.0 1tamtamvn.com
+0.0.0.0 1wbae.xyz
 0.0.0.0 1x001.com
 0.0.0.0 1x002.com
 0.0.0.0 1xbet-pari-bfa.com
+0.0.0.0 1xbet.in
 0.0.0.0 1xbet88vn.net
+0.0.0.0 1xbetonline.in
 0.0.0.0 1xbetvn.com
 0.0.0.0 2111599.com
 0.0.0.0 2277003.com
@@ -1078,6 +1081,7 @@
 0.0.0.0 iwin.club
 0.0.0.0 iwinclub.win
 0.0.0.0 izibet.com
+0.0.0.0 j1cleoil.site
 0.0.0.0 j3108.com
 0.0.0.0 j655.me
 0.0.0.0 j6666666688.com
