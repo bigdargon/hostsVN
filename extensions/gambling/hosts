@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 12 Sep 2022 13:35 UTC+7
-# Version: 2209121335
-# Blocked: 4.491 domains
+# Last modified: 13 Sep 2022 11:54 UTC+7
+# Version: 2209131154
+# Blocked: 4.511 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -695,6 +695,7 @@
 0.0.0.0 choisv88.live
 0.0.0.0 choita88.club
 0.0.0.0 choiwin79.com
+0.0.0.0 choiwin79.net
 0.0.0.0 chokdeesudsud.com
 0.0.0.0 cjofg.com
 0.0.0.0 click.mibet.com
@@ -771,6 +772,7 @@
 0.0.0.0 dfkaya.com
 0.0.0.0 diq9r.com
 0.0.0.0 dk-1432.com
+0.0.0.0 dk.choiwin79.net
 0.0.0.0 dk.gamequyong.xyz
 0.0.0.0 dk.rikkk.net
 0.0.0.0 dk.topcc88.me
@@ -3192,10 +3194,18 @@
 0.0.0.0 luck8881.com
 0.0.0.0 luckbox.com
 0.0.0.0 lucky2222.com
+0.0.0.0 lucky88.bet
+0.0.0.0 lucky88.casino
+0.0.0.0 lucky88.club
 0.0.0.0 lucky88.com
+0.0.0.0 lucky88.com.vn
+0.0.0.0 lucky88.game
 0.0.0.0 lucky88.live
 0.0.0.0 lucky88.net
+0.0.0.0 lucky88.org
 0.0.0.0 lucky88.tv
+0.0.0.0 lucky88.uk
+0.0.0.0 lucky88.vn
 0.0.0.0 lucky88.win
 0.0.0.0 lucky8etlink6.xyz
 0.0.0.0 luckyluke777.com
@@ -3404,6 +3414,7 @@
 0.0.0.0 nhacaik8bet.fun
 0.0.0.0 nhacaik8fun.com
 0.0.0.0 nhacaik8vn.net
+0.0.0.0 nhacailucky88.net
 0.0.0.0 nhacainbet.club
 0.0.0.0 nhacaisodo.net
 0.0.0.0 nhacaisomot.com
@@ -3470,6 +3481,7 @@
 0.0.0.0 pk88casino.com
 0.0.0.0 play.b52.vip
 0.0.0.0 play.b52.win
+0.0.0.0 play.choiwin79.net
 0.0.0.0 play.fa88.win
 0.0.0.0 play.go88.club
 0.0.0.0 play.go88vn.vip
@@ -3489,8 +3501,10 @@
 0.0.0.0 play.top88.vn
 0.0.0.0 play.vic.win
 0.0.0.0 play.vicwin.vip
+0.0.0.0 play.win79.vip
 0.0.0.0 play.x8.club
 0.0.0.0 play.x8vn.com
+0.0.0.0 play.x8vn.top
 0.0.0.0 play.yo88.net
 0.0.0.0 play.yo88.win
 0.0.0.0 play.yo88vn.vip
@@ -3572,6 +3586,7 @@
 0.0.0.0 qc.x8.club
 0.0.0.0 qc.x8.vin
 0.0.0.0 qc.x8vn.com
+0.0.0.0 qc.x8vn.top
 0.0.0.0 qc.zo88.org
 0.0.0.0 qh52.com
 0.0.0.0 qh91.com
@@ -3748,6 +3763,7 @@
 0.0.0.0 tai.rikvip.us
 0.0.0.0 tai.top88vn.net
 0.0.0.0 tai.v28.club
+0.0.0.0 tai.win79.vip
 0.0.0.0 tai.yo88vn.us
 0.0.0.0 tai.you88.app
 0.0.0.0 tai.you88.vin
@@ -3997,6 +4013,7 @@
 0.0.0.0 vx88.live
 0.0.0.0 vx88e.com
 0.0.0.0 vz681.com
+0.0.0.0 vz683.com
 0.0.0.0 vz79.com
 0.0.0.0 w-sunwin.net
 0.0.0.0 w365w.net
@@ -4054,6 +4071,7 @@
 0.0.0.0 win365good.com
 0.0.0.0 win365vip8.com
 0.0.0.0 win365vip9.com
+0.0.0.0 win79.vip
 0.0.0.0 win79play.me
 0.0.0.0 win888b.com
 0.0.0.0 wowbets.dev
@@ -4417,6 +4435,7 @@
 0.0.0.0 www.wb77.net
 0.0.0.0 www.websvn.info
 0.0.0.0 www.wellviet.net
+0.0.0.0 www.win79.vip
 0.0.0.0 www.ww88club.com
 0.0.0.0 www.xengtructuyen.com
 0.0.0.0 www.xingtou888.com
@@ -4437,6 +4456,7 @@
 0.0.0.0 x8.vin
 0.0.0.0 x88888887.com
 0.0.0.0 x8vn.com
+0.0.0.0 x8vn.top
 0.0.0.0 xemdabanh.club
 0.0.0.0 xemtv.info
 0.0.0.0 xemtv.live

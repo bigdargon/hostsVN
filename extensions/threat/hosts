@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 12 Sep 2022 13:35 UTC+7
-# Version: 2209121335
-# Blocked: 339 domains
+# Last modified: 13 Sep 2022 11:54 UTC+7
+# Version: 2209131154
+# Blocked: 377 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -24,10 +24,12 @@
 0.0.0.0 acb.vn-banks.xyz
 0.0.0.0 acb.vn-c.xyz
 0.0.0.0 acb.vn-ol.top
+0.0.0.0 acb.vn-vp.xyz
 0.0.0.0 acbbank.xyz
 0.0.0.0 acbvnliin.com
 0.0.0.0 acbvnlin.com
 0.0.0.0 activationskey.org
+0.0.0.0 adm789.com
 0.0.0.0 adsharedwi897th.cfd
 0.0.0.0 agrib-vn.com
 0.0.0.0 ahthegha.cfd
@@ -112,6 +114,7 @@
 0.0.0.0 domainxnewma.com
 0.0.0.0 drake4.xyz
 0.0.0.0 dvdienmayxanh.com
+0.0.0.0 ebanking.smbnv.com
 0.0.0.0 edbythe67ak.cfd
 0.0.0.0 eeorderso.cfd
 0.0.0.0 egiontheh.cfd
@@ -176,6 +179,7 @@
 0.0.0.0 lienketkiemtien.weebly.com
 0.0.0.0 lienkettaikhoan.com
 0.0.0.0 lienketvidientu.com
+0.0.0.0 lienvietbank.vn-vp.xyz
 0.0.0.0 linshopee.com
 0.0.0.0 llappa.top
 0.0.0.0 llzd2.com
@@ -238,7 +242,10 @@
 0.0.0.0 restlesz.su
 0.0.0.0 rhighest.cfd
 0.0.0.0 sacombank.vn-ne.top
+0.0.0.0 sacombank.vn-vp.xyz
 0.0.0.0 saifcrack.com
+0.0.0.0 scb.com.vn-scl.life
+0.0.0.0 scb.vn-vp.xyz
 0.0.0.0 sd0053.shop
 0.0.0.0 sd062.com
 0.0.0.0 sd092.com
@@ -286,6 +293,7 @@
 0.0.0.0 support-maps.live
 0.0.0.0 techcombank.ngan-hang.net
 0.0.0.0 techcombank.vn-ol.top
+0.0.0.0 techcombank.vn-vp.xyz
 0.0.0.0 theritishind.cfd
 0.0.0.0 theyt786ku.cfd
 0.0.0.0 thutucnhantienquydoi24h.weebly.com
@@ -318,6 +326,7 @@
 0.0.0.0 uslimsofbr.cfd
 0.0.0.0 v2s4ku8b.com
 0.0.0.0 vaynganhangvcb.online
+0.0.0.0 vaynhanh24h.tk
 0.0.0.0 vaythechap-bidv.com
 0.0.0.0 vaytieudungtpbank.weebly.com
 0.0.0.0 vcb-diglicabrnk.com
@@ -334,10 +343,39 @@
 0.0.0.0 vipmomo123.me
 0.0.0.0 viptikivn.club
 0.0.0.0 vn-dienmayxanh.com
+0.0.0.0 vn-findmy.com
+0.0.0.0 vn-scl.life
 0.0.0.0 vnah567.com
 0.0.0.0 vnshop11.com
+0.0.0.0 vongloai.vn
+0.0.0.0 vongloaisieumaunhi2021vn.weebly.com
+0.0.0.0 vongquay-2021lolgarena.ml
+0.0.0.0 vongquay-freefire.com
+0.0.0.0 vongquay-freefire2021.com
+0.0.0.0 vongquay-lienminh.com
+0.0.0.0 vongquay-lienquanmobile.site
+0.0.0.0 vongquay-pubg-vng.com
+0.0.0.0 vongquay-pubgmobilevn.com
+0.0.0.0 vongquay-pubgmobilevng.com
+0.0.0.0 vongquay-trian-pubgmobilevn.com
+0.0.0.0 vongquay.net
+0.0.0.0 vongquay79.com
+0.0.0.0 vongquay88.com
+0.0.0.0 vongquayfreefiremembership.com
+0.0.0.0 vongquaygarena2021.com
+0.0.0.0 vongquaygarena21.com
+0.0.0.0 vongquaykimcuong79.com
+0.0.0.0 vongquaykimcuongfreefire.com
+0.0.0.0 vongquaylienmoba2021.com
+0.0.0.0 vongquaylqm.com
+0.0.0.0 vongquaymienphi.com
+0.0.0.0 vongquaymienphi.net
+0.0.0.0 vongquaythuongfreefire.com
+0.0.0.0 vongquaytrungthu.com
 0.0.0.0 vvvvw-icloud.com
 0.0.0.0 westernunions6886z.weebly.com
+0.0.0.0 www.vn-findmy.com
+0.0.0.0 www.vn-scl.life
 0.0.0.0 xa38.xyz
 0.0.0.0 xd152.com
 0.0.0.0 xjpakmdcfuqe.biz
