@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 14 Sep 2022 16:07 UTC+7
-# Version: 2209141607
-# Blocked: 4.515 domains
+# Last modified: 14 Sep 2022 16:24 UTC+7
+# Version: 2209141624
+# Blocked: 4.516 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3619,6 +3619,7 @@
 0.0.0.0 rich11sportsbet.com
 0.0.0.0 rik.vip
 0.0.0.0 rik.win
+0.0.0.0 rikbet789.club
 0.0.0.0 rikgame.live
 0.0.0.0 rikk.us
 0.0.0.0 rikkk.net

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Sep 2022 16:08 UTC+7
-! Version: 2209141608
-! Blocked: 1.532 rules
+! Last modified: 14 Sep 2022 16:25 UTC+7
+! Version: 2209141625
+! Blocked: 1.533 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1245,6 +1245,7 @@
 ||ric.win^
 ||rik.vip^
 ||rik.win^
+||rikbet789.club^
 ||rikgame.live^
 ||rikkk.net^
 ||rikvip.uk^
