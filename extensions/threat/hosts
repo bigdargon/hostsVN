@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 14 Sep 2022 09:52 UTC+7
-# Version: 2209140952
-# Blocked: 378 domains
+# Last modified: 14 Sep 2022 16:07 UTC+7
+# Version: 2209141607
+# Blocked: 380 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -186,6 +186,7 @@
 0.0.0.0 lottefinance6.com
 0.0.0.0 low-lyingwh.cfd
 0.0.0.0 mayyadc.cfd
+0.0.0.0 meetamate.site
 0.0.0.0 menhichs.cfd
 0.0.0.0 mershadclo.cfd
 0.0.0.0 momoloto.com
@@ -291,6 +292,7 @@
 0.0.0.0 suachuadienmayxanh.com.vn
 0.0.0.0 sup7podthee.cfd
 0.0.0.0 support-maps.live
+0.0.0.0 taikhoanveri04.atwebpages.com
 0.0.0.0 techcombank.ngan-hang.net
 0.0.0.0 techcombank.vn-ol.top
 0.0.0.0 techcombank.vn-vp.xyz
