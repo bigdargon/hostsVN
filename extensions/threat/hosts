@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 14 Sep 2022 16:24 UTC+7
-# Version: 2209141624
-# Blocked: 380 domains
+# Last modified: 14 Sep 2022 22:52 UTC+7
+# Version: 2209142252
+# Blocked: 381 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -189,6 +189,7 @@
 0.0.0.0 meetamate.site
 0.0.0.0 menhichs.cfd
 0.0.0.0 mershadclo.cfd
+0.0.0.0 micronsofte-online.com
 0.0.0.0 momoloto.com
 0.0.0.0 momosieuhoihoantien.weebly.com
 0.0.0.0 moneygram24hh.weebly.com

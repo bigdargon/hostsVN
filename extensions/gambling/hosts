@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 14 Sep 2022 16:24 UTC+7
-# Version: 2209141624
-# Blocked: 4.516 domains
+# Last modified: 14 Sep 2022 22:52 UTC+7
+# Version: 2209142252
+# Blocked: 4.519 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -206,6 +206,7 @@
 0.0.0.0 789club.com
 0.0.0.0 789club.org
 0.0.0.0 789clubs.club
+0.0.0.0 789d.club
 0.0.0.0 78win01.com
 0.0.0.0 78win04.com
 0.0.0.0 78win07.com
@@ -949,6 +950,7 @@
 0.0.0.0 game.789.moi
 0.0.0.0 game.789a.club
 0.0.0.0 game.789club.org
+0.0.0.0 game.789d.club
 0.0.0.0 game.b52.vip
 0.0.0.0 game.b52.win
 0.0.0.0 game.taib52.club
@@ -3564,6 +3566,7 @@
 0.0.0.0 qc.789club.biz
 0.0.0.0 qc.789club.com
 0.0.0.0 qc.789club.org
+0.0.0.0 qc.789d.club
 0.0.0.0 qc.b52.win
 0.0.0.0 qc.gamevipclub.fun
 0.0.0.0 qc.macau.club
