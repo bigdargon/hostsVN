@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Sep 2022 22:52 UTC+7
-! Version: 2209142252
+! Last modified: 18 Sep 2022 16:09 UTC+7
+! Version: 2209181609
 ! Blocked: 8.713 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -1249,6 +1249,7 @@
 ||rikbet789.club^
 ||rikgame.live^
 ||rikkk.net^
+||rikvip.tv^
 ||rikvip.uk^
 ||rikvip.us^
 ||rikvipclub.us^
@@ -8559,7 +8560,6 @@
 ||t.dtscdn.com^
 ||t.eloqua.com^
 ||t.freelancer.com^
-||tag.aticdn.net^
 ||tag.wknd.ai^
 ||tagger.ope.scmp.com^
 ||tagmanager.alright.network^
