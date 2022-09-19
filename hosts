@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 18 Sep 2022 16:09 UTC+7
-# Version: 2209181609
-# Blocked: 17.241 domains
+# Last modified: 19 Sep 2022 10:46 UTC+7
+# Version: 2209191046
+# Blocked: 17.240 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -264,7 +264,6 @@
 0.0.0.0 analytics.msn.com
 0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 browser.events.data.msn.com
-0.0.0.0 c.msn.com
 0.0.0.0 popup.msn.com
 0.0.0.0 rads.msn.com
 0.0.0.0 rmads.msn.com
