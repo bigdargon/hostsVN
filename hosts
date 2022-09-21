@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 21 Sep 2022 09:55 UTC+7
-# Version: 2209210955
-# Blocked: 17.240 domains
+# Last modified: 21 Sep 2022 23:27 UTC+7
+# Version: 2209212327
+# Blocked: 17.227 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9700,21 +9700,6 @@
 #[aliyuncs.com]
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 adash.man.aliyuncs.com
-#[log.aliyuncs.com]
-0.0.0.0 log.aliyuncs.com
-0.0.0.0 event-tracking-project.ap-southeast-1.log.aliyuncs.com
-0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
-0.0.0.0 hdp-raw-log.cn-shanghai.log.aliyuncs.com
-0.0.0.0 hotbit-io-app-logs.cn-hongkong.log.aliyuncs.com
-0.0.0.0 huobi-global-prd.cn-hangzhou.log.aliyuncs.com
-0.0.0.0 lazada-compliance-project.ap-southeast-1.log.aliyuncs.com
-0.0.0.0 tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
-0.0.0.0 tap-snow-hk.cn-hongkong.log.aliyuncs.com
-0.0.0.0 wizardlog.cn-hongkong.log.aliyuncs.com
-#[log-global.aliyuncs.com]
-0.0.0.0 log-global.aliyuncs.com
-0.0.0.0 bb-client.log-global.aliyuncs.com
-0.0.0.0 hdp-raw-log.log-global.aliyuncs.com
 #[userreport.com]
 0.0.0.0 analytics.userreport.com
 0.0.0.0 bapi.userreport.com
