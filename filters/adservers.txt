@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 21 Sep 2022 23:27 UTC+7
-! Version: 2209212327
-! Blocked: 1.528 rules
+! Last modified: 24 Sep 2022 21:30 UTC+7
+! Version: 2209242130
+! Blocked: 1.533 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -457,6 +457,7 @@
 ||comebetvn3.com^
 ||comebetvn9.com^
 ||corona999.com^
+||cuoc8live.com^
 ||dabet.me^
 ||dafacai360.com^
 ||dailybet365vn.com^
@@ -568,6 +569,7 @@
 ||i99903.com^
 ||i99906.com^
 ||i99908.com^
+||i9bet444.com^
 ||i9bet5.com^
 ||ibet889.com^
 ||income88.com^
@@ -702,6 +704,7 @@
 ||mu9.win^
 ||mu90.com^
 ||nbet.com^
+||nbet.top^
 ||nbet.vip^
 ||nbet.win^
 ||nearom.com^
@@ -827,6 +830,8 @@
 ||tf88luck.com^
 ||tf88v.com^
 ||tha.bet^
+||thabet.co^
+||thabet.one^
 ||thabet88.co^
 ||thabet88.info^
 ||thabet88.vip^

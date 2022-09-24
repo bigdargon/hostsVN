@@ -8101,6 +8101,7 @@
 0.0.0.0 hmma.baidu.com
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 nsclick.baidu.com
+0.0.0.0 sofire.baidu.com
 0.0.0.0 usp1.baidu.com
 0.0.0.0 wkclick.baidu.com
 0.0.0.0 wkctj.baidu.com
@@ -10186,6 +10187,7 @@
 0.0.0.0 cdn-pci.optimizely.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn3.optimizely.com
+0.0.0.0 log.optimizely.com
 0.0.0.0 logx.optimizely.com
 #[tm-awx.com]
 0.0.0.0 collect.data.tm-awx.com
@@ -10961,3 +10963,18 @@
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
+#[explorads.com]
+0.0.0.0 explorads.com
+0.0.0.0 filter.explorads.com
+0.0.0.0 xml.explorads.com
+#[yovoads.com]
+0.0.0.0 cr6.yovoads.com
+0.0.0.0 ev6.yovoads.com
+0.0.0.0 q6.yovoads.com
+0.0.0.0 q6static.yovoads.com
+0.0.0.0 rd.yovoads.com
+0.0.0.0 s6.yovoads.com
+0.0.0.0 yovoads.com
+#[idocdn.com]
+0.0.0.0 connect.idocdn.com
+0.0.0.0 tracker.idocdn.com

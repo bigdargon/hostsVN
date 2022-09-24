@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 21 Sep 2022 23:27 UTC+7
-# Version: 2209212327
-# Blocked: 17.227 domains
+# Last modified: 24 Sep 2022 21:30 UTC+7
+# Version: 2209242130
+# Blocked: 17.257 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8113,6 +8113,7 @@
 0.0.0.0 hmma.baidu.com
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 nsclick.baidu.com
+0.0.0.0 sofire.baidu.com
 0.0.0.0 usp1.baidu.com
 0.0.0.0 wkclick.baidu.com
 0.0.0.0 wkctj.baidu.com
@@ -10198,6 +10199,7 @@
 0.0.0.0 cdn-pci.optimizely.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn3.optimizely.com
+0.0.0.0 log.optimizely.com
 0.0.0.0 logx.optimizely.com
 #[tm-awx.com]
 0.0.0.0 collect.data.tm-awx.com
@@ -10973,6 +10975,21 @@
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
+#[explorads.com]
+0.0.0.0 explorads.com
+0.0.0.0 filter.explorads.com
+0.0.0.0 xml.explorads.com
+#[yovoads.com]
+0.0.0.0 cr6.yovoads.com
+0.0.0.0 ev6.yovoads.com
+0.0.0.0 q6.yovoads.com
+0.0.0.0 q6static.yovoads.com
+0.0.0.0 rd.yovoads.com
+0.0.0.0 s6.yovoads.com
+0.0.0.0 yovoads.com
+#[idocdn.com]
+0.0.0.0 connect.idocdn.com
+0.0.0.0 tracker.idocdn.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13175,6 +13192,7 @@
 0.0.0.0 adcentriconline.com
 0.0.0.0 adcept.net
 0.0.0.0 adchdwfbs.com
+0.0.0.0 adcheap.network
 0.0.0.0 adchina.com
 0.0.0.0 adcito.com
 0.0.0.0 adclick.com
@@ -14610,6 +14628,7 @@
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 coremetrics.com
 0.0.0.0 coretalk.co
+0.0.0.0 cotihgcqkh.com
 0.0.0.0 cougarads.com
 0.0.0.0 count.rin.ru
 0.0.0.0 count.west263.com
@@ -14724,6 +14743,7 @@
 0.0.0.0 daedaelousscri.com
 0.0.0.0 dagd0kz7sipfl.cloudfront.net
 0.0.0.0 daijopimplo.com
+0.0.0.0 daincautela.com
 0.0.0.0 daisycontroversy.com
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 damdoor.com
@@ -14784,6 +14804,7 @@
 0.0.0.0 detectdiscovery.com
 0.0.0.0 devotedvarnish.com
 0.0.0.0 dewiestsards.com
+0.0.0.0 dgxmvglp.com
 0.0.0.0 dianomi.com
 0.0.0.0 didtheyreadit.com
 0.0.0.0 differentdesk.com
@@ -15254,6 +15275,7 @@
 0.0.0.0 goadservices.com
 0.0.0.0 gobiidinshore.com
 0.0.0.0 godfulsiums.com
+0.0.0.0 godpvqnszo.com
 0.0.0.0 goergleeds.com
 0.0.0.0 gogglemessenger.com
 0.0.0.0 goingplatinum.com
@@ -15561,6 +15583,7 @@
 0.0.0.0 itnuzleafan.com
 0.0.0.0 itop.cz
 0.0.0.0 itsptp.com
+0.0.0.0 itstuffnews.com
 0.0.0.0 itweepinbelltor.com
 0.0.0.0 ivfihumeajjmbc.com
 0.0.0.0 ivwbox.de
@@ -15640,6 +15663,7 @@
 0.0.0.0 kibblerkilldee.com
 0.0.0.0 kindads.com
 0.0.0.0 king3rsc7ol9e3ge.com
+0.0.0.0 kinhincauking.website
 0.0.0.0 kinkledunendly.com
 0.0.0.0 kiolim.com
 0.0.0.0 kityamurlika.com
@@ -15837,6 +15861,7 @@
 0.0.0.0 matchcraft.com
 0.0.0.0 matheranalytics.com
 0.0.0.0 matomy.com
+0.0.0.0 matqqagvkaaftr.com
 0.0.0.0 maw5r7y9s9helley.com
 0.0.0.0 mawlaybob.com
 0.0.0.0 max.i12.de
@@ -16288,6 +16313,7 @@
 0.0.0.0 paishuno.net
 0.0.0.0 paleleaf.com
 0.0.0.0 pamphletconspiracy.com
+0.0.0.0 panagiatelia.website
 0.0.0.0 pandasloveforlife.com
 0.0.0.0 pansidlike.net
 0.0.0.0 pansymerbaby.com
@@ -16785,6 +16811,7 @@
 0.0.0.0 saggrowledetc.com
 0.0.0.0 sailif.com
 0.0.0.0 salinasbhut.com
+0.0.0.0 saltateblit.com
 0.0.0.0 saltinourhairtv.com
 0.0.0.0 saltycarboninsulting.com
 0.0.0.0 salutationcheerlessdemote.com
@@ -17173,6 +17200,7 @@
 0.0.0.0 teasimilarman.com
 0.0.0.0 tebadu.com
 0.0.0.0 techclicks.net
+0.0.0.0 technoshadows.com
 0.0.0.0 technotology.com
 0.0.0.0 tedioustooth.com
 0.0.0.0 teenrevenue.com
@@ -17380,6 +17408,7 @@
 0.0.0.0 ubermedia.com
 0.0.0.0 ucfunnel.com
 0.0.0.0 ucxfdvhuqwpig.com
+0.0.0.0 udinugoo.com
 0.0.0.0 uebadu.com
 0.0.0.0 ueikno.com
 0.0.0.0 uejwqbgtjxdw.com
@@ -17397,6 +17426,7 @@
 0.0.0.0 unanimis.co.uk
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unblestrustic.com
+0.0.0.0 unclesnewspaper.com
 0.0.0.0 uncoreswizzle.com
 0.0.0.0 undeenardoo.com
 0.0.0.0 understandintimidate.com
@@ -17478,6 +17508,7 @@
 0.0.0.0 vervemobile.com
 0.0.0.0 vervewireless.com
 0.0.0.0 vetdeberg.com
+0.0.0.0 vhrtgvzcmrfoo.com
 0.0.0.0 vi-tag.net
 0.0.0.0 viamariller.com
 0.0.0.0 viatorayme.com
@@ -17789,6 +17820,7 @@
 0.0.0.0 xclicks.net
 0.0.0.0 xebadu.com
 0.0.0.0 xertive.com
+0.0.0.0 xforever3xfile.com
 0.0.0.0 xg4ken.com
 0.0.0.0 xiti.com
 0.0.0.0 xius.com
@@ -18122,6 +18154,7 @@
 0.0.0.0 events.apester.com
 0.0.0.0 events.attentivemobile.com
 0.0.0.0 events.jora.com
+0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.shoplytics.com
@@ -18388,6 +18421,7 @@
 0.0.0.0 stat.hackedonlinegames.com
 0.0.0.0 stat.i3.dmm.com
 0.0.0.0 stat.meitudata.com
+0.0.0.0 stat2.openinstall.io
 0.0.0.0 stathat.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.leaddyno.com
@@ -18472,7 +18506,6 @@
 0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.arc.io
 0.0.0.0 tracker.cpmdata.net
-0.0.0.0 tracker.idocdn.com
 0.0.0.0 tracker.stats.in.th
 0.0.0.0 tracker.toolpg.com
 0.0.0.0 tracker.vgame.us

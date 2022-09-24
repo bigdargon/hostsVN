@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 21 Sep 2022 09:49 UTC+7
-! Version: 2209210949
-! Blocked: 4.158 rules
+! Last modified: 24 Sep 2022 21:30 UTC+7
+! Version: 2209242130
+! Blocked: 4.160 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3398,6 +3398,7 @@
 ||mzmz5.com^
 ||naapptbwf.com^
 ||nbet.com^
+||nbet.top^
 ||nbet.vip^
 ||nbet.win^
 ||nearom.com^
@@ -3807,6 +3808,7 @@
 ||tha.bet^
 ||thabet.co^
 ||thabet.gg^
+||thabet.one^
 ||thabet88.co^
 ||thabet88.info^
 ||thabet88.vip^

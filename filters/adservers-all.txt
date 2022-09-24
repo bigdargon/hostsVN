@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 21 Sep 2022 23:27 UTC+7
-! Version: 2209212327
-! Blocked: 8.704 rules
+! Last modified: 24 Sep 2022 21:30 UTC+7
+! Version: 2209242130
+! Blocked: 8.731 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -457,6 +457,7 @@
 ||comebetvn3.com^
 ||comebetvn9.com^
 ||corona999.com^
+||cuoc8live.com^
 ||dabet.me^
 ||dafacai360.com^
 ||dailybet365vn.com^
@@ -568,6 +569,7 @@
 ||i99903.com^
 ||i99906.com^
 ||i99908.com^
+||i9bet444.com^
 ||i9bet5.com^
 ||ibet889.com^
 ||income88.com^
@@ -702,6 +704,7 @@
 ||mu9.win^
 ||mu90.com^
 ||nbet.com^
+||nbet.top^
 ||nbet.vip^
 ||nbet.win^
 ||nearom.com^
@@ -827,6 +830,8 @@
 ||tf88luck.com^
 ||tf88v.com^
 ||tha.bet^
+||thabet.co^
+||thabet.one^
 ||thabet88.co^
 ||thabet88.info^
 ||thabet88.vip^
@@ -2136,6 +2141,7 @@
 ||confiant-integrations.global.ssl.fastly.net^
 ||config.hiido.com^
 ||connatix.com^
+||connect.idocdn.com^
 ||connectad.io^
 ||consumable.com^
 ||content-ad.net^
@@ -2272,6 +2278,7 @@
 ||exosrv.com^
 ||exoticads.com^
 ||experience.tinypass.com^
+||explorads.com^
 ||expmediadirect1.com^
 ||exponential.com^
 ||exrtbsrv.com^
@@ -2505,6 +2512,7 @@
 ||log.byteoversea.com^
 ||log.go.com^
 ||log.kajicam.com^
+||log.optimizely.com^
 ||log.pinterest.com^
 ||log.spotify.com^
 ||log.tbs.qq.com^
@@ -2925,6 +2933,7 @@
 ||snigelweb.com^
 ||socdm.com^
 ||sociaplus.com^
+||sofire.baidu.com^
 ||soft-com.biz^
 ||somplo.com^
 ||sonobi.com^
@@ -3039,6 +3048,7 @@
 ||track1.avplayer.com^
 ||tracker-api.my.com^
 ||tracker.ai.xiaomi.com^
+||tracker.idocdn.com^
 ||tracking.intl.miui.com^
 ||tracking.miui.com^
 ||tracking.overwolf.com^
@@ -3195,6 +3205,7 @@
 ||youborafds01.com^
 ||your-notice.com^
 ||yourwebbars.com^
+||yovoads.com^
 ||zcoup.com^
 ||zenadservices.net^
 ||zeotap.com^
@@ -3449,6 +3460,7 @@
 ||adcentriconline.com^
 ||adcept.net^
 ||adchdwfbs.com^
+||adcheap.network^
 ||adchina.com^
 ||adcito.com^
 ||adclick.com^
@@ -5037,6 +5049,7 @@
 ||coralogix.com^
 ||coremetrics.com^
 ||coretalk.co^
+||cotihgcqkh.com^
 ||cougarads.com^
 ||count.7m.com.cn^
 ||count.ly^
@@ -5176,6 +5189,7 @@
 ||daedaelousscri.com^
 ||dagd0kz7sipfl.cloudfront.net^
 ||daijopimplo.com^
+||daincautela.com^
 ||daisycontroversy.com^
 ||dakic-ia-300.com^
 ||damdoor.com^
@@ -5243,6 +5257,7 @@
 ||detectdiscovery.com^
 ||devotedvarnish.com^
 ||dewiestsards.com^
+||dgxmvglp.com^
 ||dianomi.com^
 ||didtheyreadit.com^
 ||differentdesk.com^
@@ -5502,6 +5517,7 @@
 ||events.apester.com^
 ||events.attentivemobile.com^
 ||events.jora.com^
+||events.launchdarkly.com^
 ||events.mapbox.com^
 ||events.redditmedia.com^
 ||events.shoplytics.com^
@@ -5769,6 +5785,7 @@
 ||goadservices.com^
 ||gobiidinshore.com^
 ||godfulsiums.com^
+||godpvqnszo.com^
 ||goergleeds.com^
 ||gogglemessenger.com^
 ||goingplatinum.com^
@@ -6115,6 +6132,7 @@
 ||itnuzleafan.com^
 ||itop.cz^
 ||itsptp.com^
+||itstuffnews.com^
 ||itweepinbelltor.com^
 ||ivfihumeajjmbc.com^
 ||ivwbox.de^
@@ -6203,6 +6221,7 @@
 ||kidsghibli.com^
 ||kindads.com^
 ||king3rsc7ol9e3ge.com^
+||kinhincauking.website^
 ||kinkledunendly.com^
 ||kiolim.com^
 ||kissmetrics.com^
@@ -6443,6 +6462,7 @@
 ||matchcraft.com^
 ||matheranalytics.com^
 ||matomy.com^
+||matqqagvkaaftr.com^
 ||mautic.bdev.co.th^
 ||maw5r7y9s9helley.com^
 ||mawlaybob.com^
@@ -6938,6 +6958,7 @@
 ||paishuno.net^
 ||paleleaf.com^
 ||pamphletconspiracy.com^
+||panagiatelia.website^
 ||pandasloveforlife.com^
 ||pansidlike.net^
 ||pansymerbaby.com^
@@ -7515,6 +7536,7 @@
 ||salesiq.zoho.com^
 ||salesloft.com^
 ||salinasbhut.com^
+||saltateblit.com^
 ||saltinourhairtv.com^
 ||saltycarboninsulting.com^
 ||salutationcheerlessdemote.com^
@@ -7790,6 +7812,7 @@
 ||stat.su^
 ||stat.webmedia.pl^
 ||stat.zenon.net^
+||stat2.openinstall.io^
 ||stat24.com^
 ||stat24.meta.ua^
 ||stathat.com^
@@ -7983,6 +8006,7 @@
 ||teasimilarman.com^
 ||tebadu.com^
 ||techclicks.net^
+||technoshadows.com^
 ||technotology.com^
 ||ted.dailymail.co.uk^
 ||ted.metro.co.uk^
@@ -8145,7 +8169,6 @@
 ||tracker.arc.io^
 ||tracker.cpmdata.net^
 ||tracker.icerocket.com^
-||tracker.idocdn.com^
 ||tracker.stats.in.th^
 ||tracker.toolpg.com^
 ||tracker.vgame.us^
@@ -8262,6 +8285,7 @@
 ||ucfunnel.com^
 ||uciservice.com^
 ||ucxfdvhuqwpig.com^
+||udinugoo.com^
 ||uebadu.com^
 ||ueikno.com^
 ||uejwqbgtjxdw.com^
@@ -8281,6 +8305,7 @@
 ||unanimis.co.uk^
 ||unarmedindustry.com^
 ||unblestrustic.com^
+||unclesnewspaper.com^
 ||uncoreswizzle.com^
 ||undeenardoo.com^
 ||understandintimidate.com^
@@ -8375,6 +8400,7 @@
 ||vervemobile.com^
 ||vervewireless.com^
 ||vetdeberg.com^
+||vhrtgvzcmrfoo.com^
 ||vi-tag.net^
 ||viamariller.com^
 ||viatorayme.com^
@@ -8583,6 +8609,7 @@
 ||xclicks.net^
 ||xebadu.com^
 ||xertive.com^
+||xforever3xfile.com^
 ||xg4ken.com^
 ||xiti.com^
 ||xius.com^
