@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 24 Sep 2022 21:30 UTC+7
-! Version: 2209242130
-! Blocked: 382 rules
+! Last modified: 25 Sep 2022 22:34 UTC+7
+! Version: 2209252234
+! Blocked: 395 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -36,6 +36,7 @@
 ||amnsreiuojy.ru^
 ||anceovarec.cfd^
 ||andelect.cfd^
+||android-system-virus-detect.web.app^
 ||andslideasco.cfd^
 ||ani453las.cfd^
 ||anwasthere.cfd^
@@ -111,6 +112,7 @@
 ||drake4.xyz^
 ||dvdienmayxanh.com^
 ||ebanking.smbnv.com^
+||ebanking.wiopm.com^
 ||edbythe67ak.cfd^
 ||eeorderso.cfd^
 ||egiontheh.cfd^
@@ -245,6 +247,8 @@
 ||sacombank.vn-ne.top^
 ||sacombank.vn-vp.xyz^
 ||saifcrack.com^
+||scb.com.vn-cn.xyz^
+||scb.com.vn-cr.life^
 ||scb.com.vn-scl.life^
 ||scb.vn-vp.xyz^
 ||sd0053.shop^
@@ -334,19 +338,25 @@
 ||vcb-diglicabrnk.com^
 ||vcb-vaysodo.com^
 ||vcbbankdigi.com^
+||vcbdigeibonk.com^
 ||vcbdigliebrnk.com^
+||vcbigdank.com^
 ||vidientu-247.com^
 ||vidientunganhangso247.com^
 ||vidientutrangtructuyen247.com^
 ||vidientuvietnam247.com^
+||vietcombank.vn-cn.xyz^
 ||vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com^
 ||vietimbank.top^
 ||vietnamairslines.vn^
 ||vipmomo123.me^
 ||viptikivn.club^
+||vn-cn.xyz^
+||vn-cr.life^
 ||vn-dienmayxanh.com^
 ||vn-findmy.com^
 ||vn-scl.life^
+||vn-vp.xyz^
 ||vnah567.com^
 ||vnshop11.com^
 ||vongloai.vn^
@@ -374,10 +384,13 @@
 ||vongquaymienphi.net^
 ||vongquaythuongfreefire.com^
 ||vongquaytrungthu.com^
+||vpbank.vn-cr.life^
 ||vvvvw-icloud.com^
 ||westernunions6886z.weebly.com^
+||www-icloudid.com^
 ||xa38.xyz^
 ||xd152.com^
+||xiaosdg.top^
 ||xjpakmdcfuqe.biz^
 ||xjpakmdcfuqe.com^
 ||xjpakmdcfuqe.in^

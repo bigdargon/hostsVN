@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 24 Sep 2022 21:30 UTC+7
-# Version: 2209242130
-# Blocked: 385 domains
+# Last modified: 25 Sep 2022 22:34 UTC+7
+# Version: 2209252234
+# Blocked: 400 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -40,6 +40,7 @@
 0.0.0.0 amnsreiuojy.ru
 0.0.0.0 anceovarec.cfd
 0.0.0.0 andelect.cfd
+0.0.0.0 android-system-virus-detect.web.app
 0.0.0.0 andslideasco.cfd
 0.0.0.0 ani453las.cfd
 0.0.0.0 anwasthere.cfd
@@ -115,6 +116,7 @@
 0.0.0.0 drake4.xyz
 0.0.0.0 dvdienmayxanh.com
 0.0.0.0 ebanking.smbnv.com
+0.0.0.0 ebanking.wiopm.com
 0.0.0.0 edbythe67ak.cfd
 0.0.0.0 eeorderso.cfd
 0.0.0.0 egiontheh.cfd
@@ -249,6 +251,8 @@
 0.0.0.0 sacombank.vn-ne.top
 0.0.0.0 sacombank.vn-vp.xyz
 0.0.0.0 saifcrack.com
+0.0.0.0 scb.com.vn-cn.xyz
+0.0.0.0 scb.com.vn-cr.life
 0.0.0.0 scb.com.vn-scl.life
 0.0.0.0 scb.vn-vp.xyz
 0.0.0.0 sd0053.shop
@@ -338,19 +342,25 @@
 0.0.0.0 vcb-diglicabrnk.com
 0.0.0.0 vcb-vaysodo.com
 0.0.0.0 vcbbankdigi.com
+0.0.0.0 vcbdigeibonk.com
 0.0.0.0 vcbdigliebrnk.com
+0.0.0.0 vcbigdank.com
 0.0.0.0 vidientu-247.com
 0.0.0.0 vidientunganhangso247.com
 0.0.0.0 vidientutrangtructuyen247.com
 0.0.0.0 vidientuvietnam247.com
+0.0.0.0 vietcombank.vn-cn.xyz
 0.0.0.0 vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com
 0.0.0.0 vietimbank.top
 0.0.0.0 vietnamairslines.vn
 0.0.0.0 vipmomo123.me
 0.0.0.0 viptikivn.club
+0.0.0.0 vn-cn.xyz
+0.0.0.0 vn-cr.life
 0.0.0.0 vn-dienmayxanh.com
 0.0.0.0 vn-findmy.com
 0.0.0.0 vn-scl.life
+0.0.0.0 vn-vp.xyz
 0.0.0.0 vnah567.com
 0.0.0.0 vnshop11.com
 0.0.0.0 vongloai.vn
@@ -378,13 +388,18 @@
 0.0.0.0 vongquaymienphi.net
 0.0.0.0 vongquaythuongfreefire.com
 0.0.0.0 vongquaytrungthu.com
+0.0.0.0 vpbank.vn-cr.life
 0.0.0.0 vvvvw-icloud.com
 0.0.0.0 westernunions6886z.weebly.com
+0.0.0.0 www-icloudid.com
 0.0.0.0 www.naptheffx2.com
+0.0.0.0 www.vcbdigeibonk.com
+0.0.0.0 www.vcbigdank.com
 0.0.0.0 www.vn-findmy.com
 0.0.0.0 www.vn-scl.life
 0.0.0.0 xa38.xyz
 0.0.0.0 xd152.com
+0.0.0.0 xiaosdg.top
 0.0.0.0 xjpakmdcfuqe.biz
 0.0.0.0 xjpakmdcfuqe.com
 0.0.0.0 xjpakmdcfuqe.in
