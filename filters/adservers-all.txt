@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Sep 2022 21:30 UTC+7
-! Version: 2209242130
-! Blocked: 8.731 rules
+! Last modified: 27 Sep 2022 13:58 UTC+7
+! Version: 2209271358
+! Blocked: 8.733 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1190,6 +1190,7 @@
 ||cskh.onlinecrm.vn^
 ||csmads.gameclick.vn^
 ||delecpuzz.com^
+||delivery.akadigital.vn^
 ||delivery.senvangvn.com^
 ||delivery.vtc.vn^
 ||delivery.vtcnew.com.vn^
@@ -8532,6 +8533,7 @@
 ||wetrack.it^
 ||wfuipqowa.com^
 ||wgcsxqkyry.com^
+||whairtoa.com^
 ||whaiweel.com^
 ||whaleads.com^
 ||whazugho.com^
