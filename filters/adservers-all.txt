@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Oct 2022 14:52 UTC+7
-! Version: 2210041452
-! Blocked: 8.737 rules
+! Last modified: 05 Oct 2022 11:12 UTC+7
+! Version: 2210051112
+! Blocked: 8.738 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -151,6 +151,7 @@
 ||logen.vietnamplus.vn^
 ||loges.vietnamplus.vn^
 ||logfr.vietnamplus.vn^
+||logg4u.cnnd.vn^
 ||logkm.dantocmiennui.vn^
 ||logru.vietnamplus.vn^
 ||logv2.mp3.zing.vn^
@@ -221,6 +222,7 @@
 ||sdk.zadn.vn^
 ||service-api.accesstrade.vn^
 ||serving-system.com^
+||sharefb.cnnd.vn^
 ||shop-cdn.coccoc.com^
 ||slimads.vn^
 ||smartadnetwork.net^
@@ -257,6 +259,7 @@
 ||trk-pcweb.api.zaloapp.com^
 ||unibots.in^
 ||urekamedia.com^
+||v20.cnnd.vn^
 ||v9banners-com.cdn.ampproject.org^
 ||vads.net.vn^
 ||vads.vn^
@@ -1325,7 +1328,6 @@
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
-||logg4u.cnnd.vn^
 ||logging.kinhtedothi.vn^
 ||logperf.vnexpress.net^
 ||logs.docnhanh.com.vn^
@@ -1402,7 +1404,6 @@
 ||sda.tamdiem247.com^
 ||sentry-track.vietnamworks.com^
 ||serving-ad.tv24.vn^
-||sharefb.cnnd.vn^
 ||sharks.vn^
 ||shop.vnay.vn^
 ||simpliftsbefore.info^

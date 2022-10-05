@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 04 Oct 2022 14:52 UTC+7
-! Version: 2210041452
-! Blocked: 402 rules
+! Last modified: 05 Oct 2022 11:12 UTC+7
+! Version: 2210051112
+! Blocked: 418 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -74,6 +74,9 @@
 ||cloud27.xyz^
 ||cltx888.me^
 ||clubfiletyc.com^
+||com.vn-hc.info^
+||com.vn-sp.top^
+||com.vn-ub.info^
 ||condandthi.cfd^
 ||congdientu247.com^
 ||congtacvienonline.vn^
@@ -114,7 +117,10 @@
 ||drake4.xyz^
 ||dvdienmayxanh.com^
 ||ebank.hlug1k.com^
+||ebank.wmxba.com^
+||ebanking.dnryg31.com^
 ||ebanking.smbnv.com^
+||ebanking.ttoh4.com^
 ||ebanking.wiopm.com^
 ||edbythe67ak.cfd^
 ||eeorderso.cfd^
@@ -200,6 +206,7 @@
 ||momosieuhoihoantien.weebly.com^
 ||moneygram24hh.weebly.com^
 ||mprisesth.cfd^
+||msb.com.vn-sp.top^
 ||muahangnhanh.net^
 ||muc247-vidientu.com^
 ||mucvidientu24-7.com^
@@ -251,12 +258,15 @@
 ||restlesz.su^
 ||rhighest.cfd^
 ||sacombank.vn-ne.top^
+||sacombank.vn-sp.top^
 ||sacombank.vn-vp.xyz^
 ||saifcrack.com^
 ||sc0mvn.com^
 ||scb.com.vn-cn.xyz^
 ||scb.com.vn-cr.life^
 ||scb.com.vn-scl.life^
+||scb.com.vn-ub.info^
+||scb.vn-kn.vip^
 ||scb.vn-vp.xyz^
 ||sd0053.shop^
 ||sd062.com^
@@ -306,6 +316,7 @@
 ||taikhoanveri04.atwebpages.com^
 ||techcombank.ngan-hang.net^
 ||techcombank.vn-ol.top^
+||techcombank.vn-sp.top^
 ||techcombank.vn-vp.xyz^
 ||theritishind.cfd^
 ||theyt786ku.cfd^
@@ -362,7 +373,11 @@
 ||vn-cr.life^
 ||vn-dienmayxanh.com^
 ||vn-findmy.com^
+||vn-hc.info^
+||vn-kn.vip^
 ||vn-scl.life^
+||vn-sp.top^
+||vn-ub.info^
 ||vn-vp.xyz^
 ||vnah567.com^
 ||vnshop11.com^
@@ -391,6 +406,7 @@
 ||vongquaymienphi.net^
 ||vongquaythuongfreefire.com^
 ||vongquaytrungthu.com^
+||vpbank.com.vn-hc.info^
 ||vpbank.vn-cr.life^
 ||vvvvw-icloud.com^
 ||westernunions6886z.weebly.com^

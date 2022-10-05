@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Oct 2022 14:52 UTC+7
-# Version: 2210041452
-# Blocked: 17.263 domains
+# Last modified: 05 Oct 2022 11:12 UTC+7
+# Version: 2210051112
+# Blocked: 17.264 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11001,6 +11001,9 @@
 0 ads-admin.hubs.vn
 0 mautic.hubs.vn
 0 tracking.hubs.vn
+0 logg4u.cnnd.vn
+0 sharefb.cnnd.vn
+0 v20.cnnd.vn
 0 12signup.com
 0 ad-admin.vnay.vn
 0 ad-ndtv.3s.com.vn
@@ -11393,7 +11396,6 @@
 0 log.zamba.vn
 0 log4x.nixcdn.com
 0 logapi.misa.com.vn
-0 logg4u.cnnd.vn
 0 logging.kinhtedothi.vn
 0 logperf.vnexpress.net
 0 logs.docnhanh.com.vn
@@ -11422,7 +11424,6 @@
 0 s.soha.vn
 0 s.tuoitre.vn
 0 sentry-track.vietnamworks.com
-0 sharefb.cnnd.vn
 0 smetrics.kone.vn
 0 socialloginplus-apps.haravan.com
 0 st-a.vtvdigital.vn

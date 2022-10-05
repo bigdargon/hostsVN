@@ -1391,3 +1391,7 @@
 0.0.0.0 ads-admin.hubs.vn
 0.0.0.0 mautic.hubs.vn
 0.0.0.0 tracking.hubs.vn
+#[cnnd.vn]
+0.0.0.0 logg4u.cnnd.vn
+0.0.0.0 sharefb.cnnd.vn
+0.0.0.0 v20.cnnd.vn

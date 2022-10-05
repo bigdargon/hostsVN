@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 04 Oct 2022 14:52 UTC+7
-# Version: 2210041452
-# Blocked: 409 domains
+# Last modified: 05 Oct 2022 11:12 UTC+7
+# Version: 2210051112
+# Blocked: 426 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -78,6 +78,9 @@
 0.0.0.0 cloud27.xyz
 0.0.0.0 cltx888.me
 0.0.0.0 clubfiletyc.com
+0.0.0.0 com.vn-hc.info
+0.0.0.0 com.vn-sp.top
+0.0.0.0 com.vn-ub.info
 0.0.0.0 condandthi.cfd
 0.0.0.0 congdientu247.com
 0.0.0.0 congtacvienonline.vn
@@ -118,7 +121,10 @@
 0.0.0.0 drake4.xyz
 0.0.0.0 dvdienmayxanh.com
 0.0.0.0 ebank.hlug1k.com
+0.0.0.0 ebank.wmxba.com
+0.0.0.0 ebanking.dnryg31.com
 0.0.0.0 ebanking.smbnv.com
+0.0.0.0 ebanking.ttoh4.com
 0.0.0.0 ebanking.wiopm.com
 0.0.0.0 edbythe67ak.cfd
 0.0.0.0 eeorderso.cfd
@@ -204,6 +210,7 @@
 0.0.0.0 momosieuhoihoantien.weebly.com
 0.0.0.0 moneygram24hh.weebly.com
 0.0.0.0 mprisesth.cfd
+0.0.0.0 msb.com.vn-sp.top
 0.0.0.0 muahangnhanh.net
 0.0.0.0 muc247-vidientu.com
 0.0.0.0 mucvidientu24-7.com
@@ -255,12 +262,15 @@
 0.0.0.0 restlesz.su
 0.0.0.0 rhighest.cfd
 0.0.0.0 sacombank.vn-ne.top
+0.0.0.0 sacombank.vn-sp.top
 0.0.0.0 sacombank.vn-vp.xyz
 0.0.0.0 saifcrack.com
 0.0.0.0 sc0mvn.com
 0.0.0.0 scb.com.vn-cn.xyz
 0.0.0.0 scb.com.vn-cr.life
 0.0.0.0 scb.com.vn-scl.life
+0.0.0.0 scb.com.vn-ub.info
+0.0.0.0 scb.vn-kn.vip
 0.0.0.0 scb.vn-vp.xyz
 0.0.0.0 sd0053.shop
 0.0.0.0 sd062.com
@@ -310,6 +320,7 @@
 0.0.0.0 taikhoanveri04.atwebpages.com
 0.0.0.0 techcombank.ngan-hang.net
 0.0.0.0 techcombank.vn-ol.top
+0.0.0.0 techcombank.vn-sp.top
 0.0.0.0 techcombank.vn-vp.xyz
 0.0.0.0 theritishind.cfd
 0.0.0.0 theyt786ku.cfd
@@ -366,7 +377,11 @@
 0.0.0.0 vn-cr.life
 0.0.0.0 vn-dienmayxanh.com
 0.0.0.0 vn-findmy.com
+0.0.0.0 vn-hc.info
+0.0.0.0 vn-kn.vip
 0.0.0.0 vn-scl.life
+0.0.0.0 vn-sp.top
+0.0.0.0 vn-ub.info
 0.0.0.0 vn-vp.xyz
 0.0.0.0 vnah567.com
 0.0.0.0 vnshop11.com
@@ -395,6 +410,7 @@
 0.0.0.0 vongquaymienphi.net
 0.0.0.0 vongquaythuongfreefire.com
 0.0.0.0 vongquaytrungthu.com
+0.0.0.0 vpbank.com.vn-hc.info
 0.0.0.0 vpbank.vn-cr.life
 0.0.0.0 vvvvw-icloud.com
 0.0.0.0 westernunions6886z.weebly.com
@@ -406,6 +422,7 @@
 0.0.0.0 www.vcbigdank.com
 0.0.0.0 www.vn-findmy.com
 0.0.0.0 www.vn-scl.life
+0.0.0.0 www.vn-ub.info
 0.0.0.0 xa38.xyz
 0.0.0.0 xd152.com
 0.0.0.0 xiaosdg.top
