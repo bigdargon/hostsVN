@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Oct 2022 11:12 UTC+7
-# Version: 2210051112
-# Blocked: 17.264 domains
+# Last modified: 06 Oct 2022 12:20 UTC+7
+# Version: 2210061220
+# Blocked: 17.279 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -394,7 +394,6 @@
 0 3p-geo.yahoo.com
 0 3p-udc.yahoo.com
 0 analytics.query.yahoo.com
-0 app.ssp.yahoo.com
 0 bats.video.yahoo.com
 0 beap-bc.yahoo.com
 0 geo.query.yahoo.com
@@ -453,6 +452,8 @@
 0 pclick.yahoo.com
 0 rtb.pclick.yahoo.com
 0 real.pclick.yahoo.com
+0 app.ssp.yahoo.com
+0 c2shb.ssp.yahoo.com
 0 ads-verify.yap.yahoo.com
 0 ads.yap.yahoo.com
 0 m.yap.yahoo.com
@@ -9773,6 +9774,16 @@
 0 yovoads.com
 0 connect.idocdn.com
 0 tracker.idocdn.com
+0 img.scupio.com
+0 pixel-api.scupio.com
+0 prebid.scupio.com
+0 rec.scupio.com
+0 scupio.com
+0 www.scupio.com
+0 api.applovefrom.com
+0 logger.applovefrom.com
+0 2performant.com
+0 event.2performant.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -11274,6 +11285,7 @@
 0 analytics.bkav.com.vn
 0 analytics.bluemotionmedia.vn
 0 analytics.diamondstarfinancial.com.vn
+0 analytics.evgcdn.net
 0 analytics.fsoft.com.vn
 0 analytics.hub-js.com
 0 analytics.jamstackvietnam.com
@@ -12166,6 +12178,7 @@
 0 ads.space.com
 0 ads.stackoverflow.com
 0 ads.sun.com
+0 ads.sunmaker.com
 0 ads.suomiautomaatti.com
 0 ads.superawesome.tv
 0 ads.supplyframe.com
@@ -13111,6 +13124,7 @@
 0 cjbmanagement.com
 0 cjlog.com
 0 cjt1.net
+0 cjt3w2kxrv.com
 0 claria.com
 0 claroads.com
 0 claroadsclick.com
@@ -13476,6 +13490,7 @@
 0 dnemkhkbsdbl.com
 0 dnhfi5nn2dt67.cloudfront.net
 0 docksalmon.com
+0 doerscharre.com
 0 dogconcurrencesauce.com
 0 dolesminced.com
 0 dollsdeclare.com
@@ -15754,6 +15769,7 @@
 0 swordfishdc.com
 0 swordgoose.com
 0 swpsvc.com
+0 sya9yncn3q.com
 0 sync.quantumdex.io
 0 sync.vmweb.net
 0 syndapop.com
@@ -16764,7 +16780,6 @@
 0 e2.platform88798.com
 0 emltrk.com
 0 ethtrader.de
-0 event.2performant.com
 0 event.condenastdigital.com
 0 event.stat.wedobest.com.cn
 0 event.wedobest.com.cn

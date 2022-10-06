@@ -424,7 +424,6 @@
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 geo.query.yahoo.com
@@ -491,6 +490,9 @@
 0.0.0.0 pclick.yahoo.com
 0.0.0.0 rtb.pclick.yahoo.com
 0.0.0.0 real.pclick.yahoo.com
+#[ssp.yahoo.com]
+0.0.0.0 app.ssp.yahoo.com
+0.0.0.0 c2shb.ssp.yahoo.com
 #[yap.yahoo.com]
 0.0.0.0 ads-verify.yap.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
@@ -10978,3 +10980,16 @@
 #[idocdn.com]
 0.0.0.0 connect.idocdn.com
 0.0.0.0 tracker.idocdn.com
+#[scupio.com]
+0.0.0.0 img.scupio.com
+0.0.0.0 pixel-api.scupio.com
+0.0.0.0 prebid.scupio.com
+0.0.0.0 rec.scupio.com
+0.0.0.0 scupio.com
+0.0.0.0 www.scupio.com
+#[applovefrom.com]
+0.0.0.0 api.applovefrom.com
+0.0.0.0 logger.applovefrom.com
+#[2performant.com]
+0.0.0.0 2performant.com
+0.0.0.0 event.2performant.com

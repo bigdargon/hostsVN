@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Oct 2022 11:12 UTC+7
-# Version: 2210051112
-# Blocked: 1.814 domains
+# Last modified: 06 Oct 2022 12:20 UTC+7
+# Version: 2210061220
+# Blocked: 1.815 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1679,6 +1679,7 @@
 0.0.0.0 analytics.bkav.com.vn
 0.0.0.0 analytics.bluemotionmedia.vn
 0.0.0.0 analytics.diamondstarfinancial.com.vn
+0.0.0.0 analytics.evgcdn.net
 0.0.0.0 analytics.fsoft.com.vn
 0.0.0.0 analytics.hub-js.com
 0.0.0.0 analytics.jamstackvietnam.com

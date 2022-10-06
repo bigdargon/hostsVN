@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Oct 2022 11:12 UTC+7
-! Version: 2210051112
-! Blocked: 8.738 rules
+! Last modified: 06 Oct 2022 12:20 UTC+7
+! Version: 2210061220
+! Blocked: 8.747 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1114,6 +1114,7 @@
 ||analytics.bkav.com.vn^
 ||analytics.bluemotionmedia.vn^
 ||analytics.diamondstarfinancial.com.vn^
+||analytics.evgcdn.net^
 ||analytics.fsoft.com.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
@@ -1549,6 +1550,7 @@
 ||24smi.net^
 ||2leep.com^
 ||2mdnsys.com^
+||2performant.com^
 ||33across.com^
 ||360in.com^
 ||360yield.com^
@@ -1905,6 +1907,7 @@
 ||api-adservices.apple.com^
 ||api-log-analytics.cloud.toast.com^
 ||api.adnet.mob.com^
+||api.applovefrom.com^
 ||api.brs.intl.miui.com^
 ||api.collect.data.intl.miui.com^
 ||api.d.xiaomi.com^
@@ -2065,6 +2068,7 @@
 ||c-adash.m.taobao.com^
 ||c.bing.com^
 ||c.data.mob.com^
+||c2shb.ssp.yahoo.com^
 ||cacafly.net^
 ||caclick.baidu.com^
 ||call.inforsea.com^
@@ -2519,6 +2523,7 @@
 ||log.spotify.com^
 ||log.tbs.qq.com^
 ||logbak.hicloud.com^
+||logger.applovefrom.com^
 ||logly.co.jp^
 ||logql.yahoo.co.jp^
 ||logrocket.com^
@@ -2882,6 +2887,7 @@
 ||scanscout.com^
 ||scarabresearch.com^
 ||scorecardresearch.com^
+||scupio.com^
 ||sdk-diagnostics.prd.mz.internal.unity3d.com^
 ||sdk-diagnostics.stg.mz.internal.unity3d.com^
 ||sdk.hansel.io^
@@ -3825,6 +3831,7 @@
 ||ads.space.com^
 ||ads.stackoverflow.com^
 ||ads.sun.com^
+||ads.sunmaker.com^
 ||ads.suomiautomaatti.com^
 ||ads.superawesome.tv^
 ||ads.supplyframe.com^
@@ -4898,6 +4905,7 @@
 ||cjbmanagement.com^
 ||cjlog.com^
 ||cjt1.net^
+||cjt3w2kxrv.com^
 ||cl.canva.com^
 ||claria.com^
 ||claroads.com^
@@ -5328,6 +5336,7 @@
 ||dnps.com^
 ||do-not-tracker.org^
 ||docksalmon.com^
+||doerscharre.com^
 ||dogconcurrencesauce.com^
 ||dolesminced.com^
 ||dollsdeclare.com^
@@ -5514,7 +5523,6 @@
 ||euroranking.de^
 ||euros4click.de^
 ||eusta.de^
-||event.2performant.com^
 ||event.condenastdigital.com^
 ||event.stat.wedobest.com.cn^
 ||event.wedobest.com.cn^
@@ -7936,6 +7944,7 @@
 ||swordfishdc.com^
 ||swordgoose.com^
 ||swpsvc.com^
+||sya9yncn3q.com^
 ||sync.quantumdex.io^
 ||sync.vmweb.net^
 ||sync2ad.com^
