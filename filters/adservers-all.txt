@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Oct 2022 22:15 UTC+7
-! Version: 2210062215
-! Blocked: 8.749 rules
+! Last modified: 06 Oct 2022 22:24 UTC+7
+! Version: 2210062224
+! Blocked: 8.748 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6197,7 +6197,6 @@
 ||jqtqqnen.top^
 ||js.hscollectedforms.net^
 ||js.hsleadflows.net^
-||js.pusher.com^
 ||jscdn.greeter.me^
 ||jsonip.com^
 ||jtracking.lulusoft.com^
