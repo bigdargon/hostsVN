@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Oct 2022 12:20 UTC+7
-! Version: 2210061220
-! Blocked: 8.747 rules
+! Last modified: 06 Oct 2022 22:15 UTC+7
+! Version: 2210062215
+! Blocked: 8.749 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5138,6 +5138,7 @@
 ||cutecushion.com^
 ||cutescale.online^
 ||cuteturkey.com^
+||cwqljsecvr.com^
 ||cyberbounty.com^
 ||cybermonitor.com^
 ||cynicaugural.com^
@@ -8627,6 +8628,7 @@
 ||xertive.com^
 ||xforever3xfile.com^
 ||xg4ken.com^
+||xgzyfpmfkxa.com^
 ||xiti.com^
 ||xius.com^
 ||xlviiirdr.com^
