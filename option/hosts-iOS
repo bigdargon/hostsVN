@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 23 Oct 2022 17:18 UTC+7
-# Version: 2210231718
-# Blocked: 17.319 domains
+# Last modified: 23 Oct 2022 17:48 UTC+7
+# Version: 2210231748
+# Blocked: 17.322 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10156,6 +10156,11 @@
 0 tracking.vietnamnetad.vn
 0 vietnamnetad.vn
 0 widget.vietnamnetad.vn
+0 analytics.vnncdn.net
+0 tracking.vnncdn.net
+0 tracking2.vnncdn.net
+0 tracking3.vnncdn.net
+0 vnn-tracking.vnncdn.net
 0 ad.zing.vn
 0 adsbanner.game.zing.vn
 0 adstracking.apps.zing.vn
@@ -11325,7 +11330,6 @@
 0 analytics.viblo.asia
 0 analytics.videocloud.top
 0 analytics.vietnamfinance.vn
-0 analytics.vnncdn.net
 0 analytics.vnpt.vn
 0 analytics.vnreview.vn
 0 analytics.yts.vn
@@ -11530,7 +11534,6 @@
 0 tracking.vegaid.vn
 0 tracking.vht.com.vn
 0 tracking.vietbao.vn
-0 tracking.vnncdn.net
 0 tracking.vtcnew.com.vn
 0 trackingapi.foody.vn
 0 trackingvn.zingplay.com

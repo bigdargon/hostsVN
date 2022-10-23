@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 23 Oct 2022 17:18 UTC+7
-! Version: 2210231718
-! Blocked: 8.774 rules
+! Last modified: 23 Oct 2022 17:48 UTC+7
+! Version: 2210231748
+! Blocked: 8.777 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -57,6 +57,7 @@
 ||ambientplatform.vn^
 ||amcdn.vn^
 ||analytics.saas-vn.network^
+||analytics.vnncdn.net^
 ||analytics.zapps.vn^
 ||anthill.vn^
 ||ants.vn^
@@ -256,6 +257,9 @@
 ||tracking.hubs.vn^
 ||tracking.playzing.g6.zing.vn^
 ||tracking.tv.zing.vn^
+||tracking.vnncdn.net^
+||tracking2.vnncdn.net^
+||tracking3.vnncdn.net^
 ||trk-pcweb.api.zaloapp.com^
 ||unibots.in^
 ||urekamedia.com^
@@ -266,6 +270,7 @@
 ||viam.com.vn^
 ||vidoomy.com^
 ||vietnamnetad.vn^
+||vnn-tracking.vnncdn.net^
 ||vnnayngaytin.vn^
 ||wg.zaloapp.com^
 ||widget.chat.zalo.me^
@@ -1136,7 +1141,6 @@
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
-||analytics.vnncdn.net^
 ||analytics.vnpt.vn^
 ||analytics.vnreview.vn^
 ||analytics.yts.vn^
@@ -1505,7 +1509,6 @@
 ||tracking.vegaid.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
-||tracking.vnncdn.net^
 ||tracking.vtcnew.com.vn^
 ||trackingapi.foody.vn^
 ||trackingvn.zingplay.com^
