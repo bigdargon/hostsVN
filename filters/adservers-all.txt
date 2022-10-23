@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Oct 2022 22:24 UTC+7
-! Version: 2210062224
-! Blocked: 8.748 rules
+! Last modified: 23 Oct 2022 17:15 UTC+7
+! Version: 2210231715
+! Blocked: 8.774 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -302,6 +302,7 @@
 ||11bet.com^
 ||11bet.life^
 ||11bet.net^
+||11bet.online^
 ||11bet.us^
 ||11bet.win^
 ||11zalo.com^
@@ -447,6 +448,7 @@
 ||casino888vn.com^
 ||cfun68.biz^
 ||chat789bet.com^
+||choang.fun^
 ||choingay88.com^
 ||choisv88.live^
 ||choita88.club^
@@ -496,6 +498,7 @@
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
+||fabet.tv^
 ||fabet.us^
 ||fabet.vip^
 ||fabet77.net^
@@ -719,6 +722,7 @@
 ||nowbetvn.com^
 ||o65qmb.tw^
 ||ole777vietnam.com^
+||one88.club^
 ||one88.com^
 ||one88.fun^
 ||one88.me^
@@ -732,6 +736,7 @@
 ||oxbet.club^
 ||oxbet.com^
 ||oxbet.net^
+||oxbet.win^
 ||oxbetd.com^
 ||pameranbola.com^
 ||playgamefa88.live^
@@ -1668,6 +1673,7 @@
 ||admedia.com^
 ||admidainsight.com^
 ||admix.in^
+||admixer.co.kr^
 ||admixer.com^
 ||admixer.net^
 ||admob.com^
@@ -1967,6 +1973,7 @@
 ||atemda.com^
 ||atomex.net^
 ||atrack.avplayer.com^
+||attributionapp.com^
 ||atwola.com^
 ||audid-api-sg.taobao.com^
 ||audid-api.taobao.com^
@@ -2073,6 +2080,7 @@
 ||caclick.baidu.com^
 ||call.inforsea.com^
 ||campaign.adobe.com^
+||carbonads.com^
 ||casalemedia.com^
 ||cbsileads.com^
 ||cbsinteractive.com^
@@ -2275,6 +2283,7 @@
 ||events-dra.op.hicloud.com^
 ||events.avantisvideo.com^
 ||events.split.io^
+||everestop.io^
 ||everesttech.net^
 ||evidon.com^
 ||exdynsrv.com^
@@ -2530,6 +2539,7 @@
 ||logrocket.io^
 ||logs.datadoghq.com^
 ||logs.datadoghq.eu^
+||logs.insight.rapid7.com^
 ||logsdk.qq.com^
 ||logservice-dra.platform.hicloud.com^
 ||logservice.hicloud.com^
@@ -2731,6 +2741,7 @@
 ||perimeterx.net^
 ||permutive.com^
 ||persona.ly^
+||personaclick.com^
 ||petametrics.com^
 ||pgmcdn.com^
 ||phonograph2.voxmedia.com^
@@ -4392,6 +4403,7 @@
 ||astancerta.fun^
 ||astat.nikkei.com^
 ||astaticglib.com^
+||astivysauran.com^
 ||aswpsdkeu.com^
 ||aswpsdkus.com^
 ||at-adserver.alltop.com^
@@ -4777,6 +4789,7 @@
 ||c44wergiu87heghoconutdx.com^
 ||ca.clcknads.pro^
 ||cabbagehomme.casa^
+||cadetrigourlegitimate.com^
 ||cads.scalemonk.com^
 ||calculatingcircle.com^
 ||calculatingtoothbrush.com^
@@ -4796,7 +4809,6 @@
 ||capture.condenastdigital.com^
 ||carabidshooter.com^
 ||carambo.la^
-||carbonads.com^
 ||carbonads.net^
 ||cardiwersg.com^
 ||caruagedlr.com^
@@ -5286,6 +5298,7 @@
 ||direct-xxx-access.com^
 ||directaclick.com^
 ||directadvert.ru^
+||directcpmrev.com^
 ||directionforest.com^
 ||directivepub.com^
 ||directleads.com^
@@ -6051,6 +6064,7 @@
 ||impressionz.co.uk^
 ||impulsehands.com^
 ||in-page-push.com^
+||in.treasuredata.com^
 ||inabsolor.com^
 ||inaccused.com^
 ||inboxdollars.com^
@@ -6195,6 +6209,7 @@
 ||joygaskin.com^
 ||jpjmpqaupc.com^
 ||jqtqqnen.top^
+||js.go2sdk.com^
 ||js.hscollectedforms.net^
 ||js.hsleadflows.net^
 ||jscdn.greeter.me^
@@ -6594,6 +6609,7 @@
 ||mixtraffic.com^
 ||mjlpqbklxgt.com^
 ||mktoresp.com^
+||mkzqqhaakt.com^
 ||mlm.de^
 ||mlog.appguard.co.kr^
 ||mmaglobal.com^
@@ -6643,6 +6659,7 @@
 ||moneyexpert.com^
 ||moneymakercdn.com^
 ||monitoring.youronlinechoices.com^
+||monorail-edge.shopifysvc.com^
 ||monsterpops.com^
 ||montacarichi.it^
 ||monu.delivery^
@@ -6723,6 +6740,7 @@
 ||nativepu.sh^
 ||nativeroll.tv^
 ||nativewpsh.com^
+||naturalistsbumpmystic.com^
 ||navigator.io^
 ||navrcholu.cz^
 ||nazarickol.com^
@@ -6766,6 +6784,7 @@
 ||newonads.com^
 ||newopenx.detik.com^
 ||newsforyoy.com^
+||newsfrompluto.com^
 ||newsocko.com^
 ||newstarads.com^
 ||newsunads.com^
@@ -6778,6 +6797,7 @@
 ||nexus.ensighten.com^
 ||ng3.ads.warnerbros.com^
 ||nicksstevmark.com^
+||nighedmend.live^
 ||nightfallroad.com^
 ||nikmldjhvxuov.xyz^
 ||nimhuemark.com^
@@ -7535,6 +7555,7 @@
 ||s.ntv.io^
 ||s.yjtag.jp^
 ||s2d6.com^
+||s3-analytics-events.easybrain.com^
 ||sabergood.com^
 ||sacralcabaa.com^
 ||safebrowsdv.com^
@@ -7555,6 +7576,7 @@
 ||sam4m.com^
 ||samplerpouch.com^
 ||sandsitedrhec.club^
+||sarinfalun.com^
 ||saspreview.com^
 ||satisfycork.com^
 ||saturim.com^
@@ -7705,6 +7727,7 @@
 ||slicktext.com^
 ||slipperysack.com^
 ||slopeaota.com^
+||sltvhyjthx.com^
 ||smadex.com^
 ||smallfunnybears.com^
 ||smalltiberbridge.com^
@@ -7927,6 +7950,7 @@
 ||supertop100.com^
 ||superxxxfree.com^
 ||suppliedhopelesspredestination.com^
+||suptur.online^
 ||surecheapermoisture.com^
 ||surfmusik-adserver.de^
 ||suriflowers.com^
@@ -8009,6 +8033,7 @@
 ||tatsumi-sys.jp^
 ||tawdryson.com^
 ||tawelhawel.com^
+||taxedborley.com^
 ||tb.baimgfroggd.site^
 ||tc-clicks.com^
 ||tcads.net^
@@ -8692,6 +8717,7 @@
 ||yonxatuor.com^
 ||yoptaejrj2kkf8nj09.com^
 ||yougotacheck.com^
+||youmi.net^
 ||youngsterbusinessman.com^
 ||youradexchange.com^
 ||yourbestheal.com^
