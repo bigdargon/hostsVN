@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 06 Oct 2022 12:20 UTC+7
-# Version: 2210061220
-# Blocked: 426 domains
+# Last modified: 23 Oct 2022 17:20 UTC+7
+# Version: 2210231720
+# Blocked: 427 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -283,6 +283,7 @@
 0.0.0.0 sd8015.xyz
 0.0.0.0 sdo2435.com
 0.0.0.0 sdo8357.com
+0.0.0.0 sdqwf.ga
 0.0.0.0 seostar2.xyz
 0.0.0.0 serialfull.info
 0.0.0.0 shatheg.cfd
