@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Oct 2022 10:04 UTC+7
-! Version: 2210241004
-! Blocked: 8.783 rules
+! Last modified: 24 Oct 2022 22:18 UTC+7
+! Version: 2210242218
+! Blocked: 8.784 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1968,6 +1968,7 @@
 ||asdpoi.com^
 ||asianmedia.com^
 ||askingpoint.com^
+||assemblyexchange.com^
 ||assoc-amazon.com^
 ||async-px-eu.dynamicyield.com^
 ||async-px.dynamicyield.com^
