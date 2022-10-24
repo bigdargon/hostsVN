@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Oct 2022 17:48 UTC+7
-! Version: 2210231748
-! Blocked: 1.544 rules
+! Last modified: 24 Oct 2022 10:04 UTC+7
+! Version: 2210241004
+! Blocked: 1.545 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -500,6 +500,7 @@
 ||eurowin.top^
 ||f8bet0.com^
 ||f8bet5.com^
+||f8betaa.com^
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^

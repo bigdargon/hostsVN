@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 23 Oct 2022 17:20 UTC+7
-# Version: 2210231720
-# Blocked: 4.527 domains
+# Last modified: 24 Oct 2022 10:04 UTC+7
+# Version: 2210241004
+# Blocked: 4.529 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -874,6 +874,7 @@
 0.0.0.0 f6.playv8.vip
 0.0.0.0 f8bet0.com
 0.0.0.0 f8bet5.com
+0.0.0.0 f8betaa.com
 0.0.0.0 fa88.win
 0.0.0.0 fa88vn.live
 0.0.0.0 fabet.com
@@ -4219,6 +4220,7 @@
 0.0.0.0 www.eurofun88.com
 0.0.0.0 www.f8bet0.com
 0.0.0.0 www.f8bet5.com
+0.0.0.0 www.f8betaa.com
 0.0.0.0 www.fabet.us
 0.0.0.0 www.fabet77.net
 0.0.0.0 www.fabet88.net
