@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 25 Oct 2022 09:36 UTC+7
-! Version: 2210250936
-! Blocked: 8.788 rules
+! Last modified: 26 Oct 2022 11:15 UTC+7
+! Version: 2210261115
+! Blocked: 8.790 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6198,6 +6198,7 @@
 ||jetgatem.com^
 ||jewgn8une.com^
 ||jf71qh5v14.com^
+||jgejqdddslxry.com^
 ||jighucme.com^
 ||jinkads.de^
 ||jioads.akamaized.net^
@@ -7761,6 +7762,7 @@
 ||smoochsodso.com^
 ||smopy.com^
 ||smowtion.com^
+||smsecure-ad.com^
 ||snap.licdn.com^
 ||snapgiant.com^
 ||sneakystamp.com^
