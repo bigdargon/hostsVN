@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 26 Oct 2022 15:17 UTC+7
-! Version: 2210261517
-! Blocked: 4.162 rules
+! Last modified: 27 Oct 2022 13:53 UTC+7
+! Version: 2210271353
+! Blocked: 4.169 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -976,6 +976,7 @@
 ||gamevipclub.fun^
 ||gamevipclub.us^
 ||gamevui86.com^
+||gamewin79vip.net^
 ||gamex8vn.club^
 ||gamhay8live.net^
 ||gamingclubcasino.com^
@@ -3404,6 +3405,7 @@
 ||nbet.vip^
 ||nbet.win^
 ||nearom.com^
+||nemo.vin^
 ||new.vx88.com^
 ||new881.com^
 ||new8812.com^
@@ -3427,7 +3429,10 @@
 ||nhanthuong88.com^
 ||nhat.bet^
 ||nhat.game^
+||nhatvip.mobi^
 ||nhatvip.net^
+||nhatvip.org^
+||nhatvip.us^
 ||nnwud.com^
 ||nohuk8.fun^
 ||nohuk8.info^
@@ -3491,6 +3496,7 @@
 ||play.go88.club^
 ||play.go88vn.vip^
 ||play.manclub.vin^
+||play.nemo.vin^
 ||play.playiwin.biz^
 ||play.ric.win^
 ||play.rik.vip^
@@ -4065,6 +4071,7 @@
 ||web.macau.club^
 ||web.macauclub.fun^
 ||web.mayclub.net^
+||web.nemo.vin^
 ||web.nhatvip.net^
 ||web.taiv8.com^
 ||web.taiv8.top^
