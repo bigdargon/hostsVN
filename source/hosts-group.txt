@@ -1651,8 +1651,9 @@
 0.0.0.0 campaign.ad-brix.com
 0.0.0.0 config.ad-brix.com
 #[unity3d.com]
-0.0.0.0 stats.unity3d.com
+0.0.0.0 events.iap.unity3d.com
 0.0.0.0 hwstats.unity3d.com
+0.0.0.0 stats.unity3d.com
 #[cloud.unity3d.com]
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 api.uca.cloud.unity3d.com
@@ -1696,19 +1697,18 @@
 0.0.0.0 thind.unityads.unity3d.com
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
-#[iap.unity3d.com]
-0.0.0.0 ecommerce.iap.unity3d.com
-0.0.0.0 events.iap.unity3d.com
-0.0.0.0 iap.unity3d.com
-#[ads.internal.unity3d.com]
-0.0.0.0 ads.internal.unity3d.com
+#[cdp.internal.unity3d.com]
+0.0.0.0 prd-lender.cdp.internal.unity3d.com
+0.0.0.0 stg-lender.cdp.internal.unity3d.com
 #[mz.internal.unity3d.com]
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
+0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
 0.0.0.0 sdk-diagnostics.stg.mz.internal.unity3d.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 #[ads.prd.ie.internal.unity3d.com]
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
+0.0.0.0 httpkafka-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 httpkafka.ads.prd.ie.internal.unity3d.com
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
 #[applvn]

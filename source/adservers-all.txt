@@ -183,7 +183,6 @@ ads.heytapmobile.com
 ads.hulu.com
 ads.imgur.com
 ads.indeed.com
-ads.internal.unity3d.com
 ads.linkedin.com
 ads.msn.com
 ads.oppomobile.com
@@ -336,6 +335,7 @@ analysis.fi
 analytics-ad-*.kgslb.com
 analytics-sg.tiktok.com
 analytics.autodesk.com
+analytics.cloud.unity3d.com
 analytics.edgekey.net
 analytics.ff.avast.com
 analytics.google.com
@@ -380,6 +380,7 @@ api.sec.intl.miui.com
 api.sec.miui.com
 api.setting.intl.miui.com
 api.share.mob.com
+api.uca.cloud.unity3d.com
 apm-collector.daumkakao.io
 app-adforce.jp
 app-analytics-v2.snapchat.com
@@ -562,6 +563,7 @@ cdnads.com
 cdnativepush.com
 cdnaz.win
 cdnwidget.com
+cdp.cloud.unity3d.com
 ced-ns.sascdn.com
 ced.sascdn.com
 celtra.com
@@ -590,7 +592,6 @@ clicktripz.com
 clientmetrics-pa.googleapis.com
 clksite.com
 clmbtech.com
-cloud.unity3d.com
 clouderrorreporting.googleapis.com
 cloudflareinsights.com
 cloudfront-labs.amazonaws.com
@@ -610,6 +611,7 @@ collector-*.us.tvsquared.com
 conductrics.com
 confiant-integrations.global.ssl.fastly.net
 config.hiido.com
+config.uca.cloud.unity3d.com
 connatix.com
 connect.idocdn.com
 connectad.io
@@ -659,6 +661,7 @@ d3luypns9uh4a4.cloudfront.net
 d41.co
 d5nxst8fruw4z.cloudfront.net
 dashboard.tinypass.com
+data-optout-service.uca.cloud.unity3d.com
 data.mistat.intl.xiaomi.com
 data.sec.intl.miui.com
 data.sec.miui.com
@@ -738,6 +741,7 @@ eventreg.sphdigital.com
 events-collector.spot.im
 events-dra.op.hicloud.com
 events.avantisvideo.com
+events.iap.unity3d.com
 events.split.io
 everestop.io
 everesttech.net
@@ -881,7 +885,6 @@ iad-06.braze.com
 iad-08.braze.com
 iad.apple.com
 iadsdk.apple.com
-iap.unity3d.com
 ibillboard.com
 id5-sync.com
 idealmedia.io
@@ -1046,6 +1049,7 @@ mediaintelligence.de
 medialytics.com
 mediams.mb.softbank.jp
 mediarithmics.com
+mediation-tracking.prd.mz.internal.unity3d.com
 mediawayss.com
 meitustat.com
 mellowads.b-cdn.net
@@ -1194,6 +1198,7 @@ pbstck.com
 pclick.yahoo.com
 pclk.name
 pepperjam.com
+perf-events.cloud.unity3d.com
 perimeterx.net
 permutive.com
 persona.ly
@@ -1228,6 +1233,7 @@ powerlinks.com
 pps-log.op-mobile.opera.com
 pr-bh.ybp.yahoo.com
 pr.comet.yahoo.com
+prd-lender.cdp.internal.unity3d.com
 prdredir.com
 prebid.org
 premiumads.com.br
@@ -1448,6 +1454,7 @@ statt-collect.herokuapp.com
 statwup.nimo.tv
 steelhousemedia.com
 steepto.com
+stg-lender.cdp.internal.unity3d.com
 stickyadstv.com
 stocks-analytics-events.apple.com
 storeconfig.mistat.intl.xiaomi.com
@@ -1585,6 +1592,7 @@ urlhausa.com
 useinsider.com
 user-stats.rbl.ms
 userreport.com
+userreporting.cloud.unity3d.com
 usp1.baidu.com
 uts-front.line-apps.com
 uttclimber.com
