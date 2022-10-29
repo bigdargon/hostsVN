@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 29 Oct 2022 15:59 UTC+7
-# Version: 2210291559
-# Blocked: 17.361 domains
+# Last modified: 29 Oct 2022 21:17 UTC+7
+# Version: 2210292117
+# Blocked: 17.370 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1665,8 +1665,14 @@
 #[unity3d.com]
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 hwstats.unity3d.com
+0.0.0.0 operate-sdk-telemetry.unity3d.com
 0.0.0.0 stats.unity3d.com
+#[analytics.unity3d.com]
+0.0.0.0 analytics.unity3d.com
+0.0.0.0 collect.analytics.unity3d.com
+0.0.0.0 www.analytics.unity3d.com
 #[cloud.unity3d.com]
+0.0.0.0 analytics.uca.cloud.unity3d.com
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
@@ -9581,6 +9587,7 @@
 0.0.0.0 deltadna.net
 0.0.0.0 balanced-collect.deltadna.net
 0.0.0.0 balanced-engage.deltadna.net
+0.0.0.0 geo-balanced-collect.deltadna.net
 #[gmossp-sp.jp]
 0.0.0.0 adn-d.sp.gmossp-sp.jp
 0.0.0.0 adn-i.sp.gmossp-sp.jp
@@ -11037,6 +11044,9 @@
 0.0.0.0 ads.assemblyexchange.com
 0.0.0.0 assemblyexchange.com
 0.0.0.0 rtb2-useast.assemblyexchange.com
+#[impactify.io]
+0.0.0.0 ad.impactify.io
+0.0.0.0 impactify.io
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12798,6 +12808,7 @@
 0.0.0.0 log.dav.edu.vn
 0.0.0.0 log.doanhnhan.vn
 0.0.0.0 log.dubaotiente.com
+0.0.0.0 log.giacngo.vn
 0.0.0.0 log.giaoduc.net.vn
 0.0.0.0 log.hemera.com.vn
 0.0.0.0 log.infonet.vn

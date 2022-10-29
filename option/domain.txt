@@ -1499,7 +1499,12 @@ campaign.ad-brix.com
 config.ad-brix.com
 events.iap.unity3d.com
 hwstats.unity3d.com
+operate-sdk-telemetry.unity3d.com
 stats.unity3d.com
+analytics.unity3d.com
+collect.analytics.unity3d.com
+www.analytics.unity3d.com
+analytics.uca.cloud.unity3d.com
 analytics.cloud.unity3d.com
 api.uca.cloud.unity3d.com
 cdp.cloud.unity3d.com
@@ -8644,6 +8649,7 @@ api-us.bidmachine.io
 deltadna.net
 balanced-collect.deltadna.net
 balanced-engage.deltadna.net
+geo-balanced-collect.deltadna.net
 adn-d.sp.gmossp-sp.jp
 adn-i.sp.gmossp-sp.jp
 adn-j.sp.gmossp-sp.jp
@@ -9794,6 +9800,8 @@ idsync.admixer.co.kr
 ads.assemblyexchange.com
 assemblyexchange.com
 rtb2-useast.assemblyexchange.com
+ad.impactify.io
+impactify.io
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -11386,6 +11394,7 @@ log.daidoanket.vn
 log.dav.edu.vn
 log.doanhnhan.vn
 log.dubaotiente.com
+log.giacngo.vn
 log.giaoduc.net.vn
 log.hemera.com.vn
 log.infonet.vn

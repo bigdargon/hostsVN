@@ -1653,8 +1653,14 @@
 #[unity3d.com]
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 hwstats.unity3d.com
+0.0.0.0 operate-sdk-telemetry.unity3d.com
 0.0.0.0 stats.unity3d.com
+#[analytics.unity3d.com]
+0.0.0.0 analytics.unity3d.com
+0.0.0.0 collect.analytics.unity3d.com
+0.0.0.0 www.analytics.unity3d.com
 #[cloud.unity3d.com]
+0.0.0.0 analytics.uca.cloud.unity3d.com
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
@@ -9569,6 +9575,7 @@
 0.0.0.0 deltadna.net
 0.0.0.0 balanced-collect.deltadna.net
 0.0.0.0 balanced-engage.deltadna.net
+0.0.0.0 geo-balanced-collect.deltadna.net
 #[gmossp-sp.jp]
 0.0.0.0 adn-d.sp.gmossp-sp.jp
 0.0.0.0 adn-i.sp.gmossp-sp.jp
@@ -11025,3 +11032,6 @@
 0.0.0.0 ads.assemblyexchange.com
 0.0.0.0 assemblyexchange.com
 0.0.0.0 rtb2-useast.assemblyexchange.com
+#[impactify.io]
+0.0.0.0 ad.impactify.io
+0.0.0.0 impactify.io
