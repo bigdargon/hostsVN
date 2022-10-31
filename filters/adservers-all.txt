@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 29 Oct 2022 21:17 UTC+7
-! Version: 2210292117
-! Blocked: 8.826 rules
+! Last modified: 31 Oct 2022 09:17 UTC+7
+! Version: 2210310917
+! Blocked: 8.834 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2184,6 +2184,7 @@
 ||conversantmedia.com^
 ||convertexperiments.com^
 ||convertful.com^
+||couponinu.net^
 ||cpmstar.com^
 ||cpx.to^
 ||cquotient.com^
@@ -2709,6 +2710,7 @@
 ||omappapi.com^
 ||omguk.com^
 ||omnitagjs.com^
+||omnitrend.biz^
 ||omtrdc.net^
 ||onaudience.com^
 ||onespot-tracking.herokuapp.com^
@@ -4762,6 +4764,7 @@
 ||brandreachsys.com^
 ||branovate.com^
 ||brazenwholly.com^
+||breedwaste.com^
 ||brickandmobile.com^
 ||bridgetrack.com^
 ||brightinfo.com^
@@ -5833,6 +5836,7 @@
 ||glugreez.com^
 ||gmads.net^
 ||gnar.grammarly.com^
+||gnqpystsiece.com^
 ||go-clicks.de^
 ||go-rank.de^
 ||go-rillatrack.com^
@@ -5980,6 +5984,7 @@
 ||hitslink.com^
 ||hittail.com^
 ||hitwebcounter.com^
+||hjfmaukf.com^
 ||hkoxlirf.com^
 ||hlog.bclugu.com^
 ||hoanoola.net^
@@ -6360,6 +6365,7 @@
 ||leaurned-fundonals.com^
 ||lecap-services.fr^
 ||leeethical.com^
+||leethalo.net^
 ||legolas-media.com^
 ||leiki.com^
 ||leisengr.com^
@@ -8213,6 +8219,7 @@
 ||topsite.lv^
 ||topsites.com.br^
 ||topstats.com^
+||tornbed.pro^
 ||totemcash.com^
 ||touchads.com^
 ||touchclarity.com^
@@ -8368,6 +8375,7 @@
 ||ubbfpm.com^
 ||uberads.com^
 ||ubermedia.com^
+||ubewpjbfo.com^
 ||ubuyanalytics.ubuy.com^
 ||ucfunnel.com^
 ||uciservice.com^

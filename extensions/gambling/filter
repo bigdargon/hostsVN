@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 29 Oct 2022 21:16 UTC+7
-! Version: 2210292116
-! Blocked: 20.561 rules
+! Last modified: 31 Oct 2022 09:16 UTC+7
+! Version: 2210310916
+! Blocked: 20.562 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -15461,6 +15461,7 @@
 ||mc876.com^
 ||mcj100.com^
 ||mcj432.com^
+||mcwexchange.com^
 ||mdbw0018.com^
 ||mdh54.asia^
 ||mdh54.club^

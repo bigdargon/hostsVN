@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 29 Oct 2022 21:17 UTC+7
-# Version: 2210292117
-# Blocked: 17.370 domains
+# Last modified: 31 Oct 2022 09:17 UTC+7
+# Version: 2210310917
+# Blocked: 17.385 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11047,6 +11047,15 @@
 #[impactify.io]
 0.0.0.0 ad.impactify.io
 0.0.0.0 impactify.io
+#[couponinu.net]
+0.0.0.0 couponinu.net
+0.0.0.0 track.couponinu.net
+#[omnitrend.biz]
+0.0.0.0 collector-cps-live.omnitrend.biz
+0.0.0.0 collector-cps2-live.omnitrend.biz
+0.0.0.0 collector-cps3-ttt.omnitrend.biz
+0.0.0.0 omnitrend.biz
+0.0.0.0 www.omnitrend.biz
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14406,6 +14415,7 @@
 0.0.0.0 brandreachsys.com
 0.0.0.0 branovate.com
 0.0.0.0 brazenwholly.com
+0.0.0.0 breedwaste.com
 0.0.0.0 brickandmobile.com
 0.0.0.0 bridgetrack.com
 0.0.0.0 brightinfo.com
@@ -15348,6 +15358,7 @@
 0.0.0.0 glugherg.net
 0.0.0.0 glugreez.com
 0.0.0.0 gmads.net
+0.0.0.0 gnqpystsiece.com
 0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
 0.0.0.0 go-rillatrack.com
@@ -15482,6 +15493,7 @@
 0.0.0.0 hits4pay.com
 0.0.0.0 hitslink.com
 0.0.0.0 hittail.com
+0.0.0.0 hjfmaukf.com
 0.0.0.0 hkoxlirf.com
 0.0.0.0 hoanoola.net
 0.0.0.0 hockeyhavoc.com
@@ -15818,6 +15830,7 @@
 0.0.0.0 leaurned-fundonals.com
 0.0.0.0 lecap-services.fr
 0.0.0.0 leeethical.com
+0.0.0.0 leethalo.net
 0.0.0.0 legolas-media.com
 0.0.0.0 leiki.com
 0.0.0.0 leisengr.com
@@ -17408,6 +17421,7 @@
 0.0.0.0 topsite.lv
 0.0.0.0 topsites.com.br
 0.0.0.0 topstats.com
+0.0.0.0 tornbed.pro
 0.0.0.0 totemcash.com
 0.0.0.0 touchads.com
 0.0.0.0 touchclarity.com
@@ -17512,6 +17526,7 @@
 0.0.0.0 ubbfpm.com
 0.0.0.0 uberads.com
 0.0.0.0 ubermedia.com
+0.0.0.0 ubewpjbfo.com
 0.0.0.0 ucfunnel.com
 0.0.0.0 ucxfdvhuqwpig.com
 0.0.0.0 udinugoo.com
@@ -17837,6 +17852,7 @@
 0.0.0.0 www.ga-ads.com
 0.0.0.0 www.galaksion.com
 0.0.0.0 www.geniusdexchange.com
+0.0.0.0 www.gnqpystsiece.com
 0.0.0.0 www.go-rillatrack.com
 0.0.0.0 www.goodnotification.net
 0.0.0.0 www.groupm.com
@@ -17901,6 +17917,7 @@
 0.0.0.0 www.trafyield.com
 0.0.0.0 www.tribedone.org
 0.0.0.0 www.trustaffs.com
+0.0.0.0 www.ubewpjbfo.com
 0.0.0.0 www.ucxfdvhuqwpig.com
 0.0.0.0 www.uyunad.com
 0.0.0.0 www.varietyofdisplayformats.com
