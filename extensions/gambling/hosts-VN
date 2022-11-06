@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 04 Nov 2022 11:25 UTC+7
-# Version: 2211041125
-# Blocked: 3.948 domains
+# Last modified: 06 Nov 2022 23:01 UTC+7
+# Version: 2211062302
+# Blocked: 3.955 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -850,6 +850,8 @@
 0.0.0.0 ismart.zbet.vn
 0.0.0.0 iwiin.club
 0.0.0.0 iwin.club
+0.0.0.0 iwinapk.link
+0.0.0.0 iwinapplink.club
 0.0.0.0 iwinclub.win
 0.0.0.0 j3108.com
 0.0.0.0 j9-btc.com
@@ -2717,6 +2719,7 @@
 0.0.0.0 kufun.me
 0.0.0.0 kufun.site
 0.0.0.0 kufun.win
+0.0.0.0 kuwin.bet
 0.0.0.0 langvuichoi.net
 0.0.0.0 lbultra.vietbet.eu
 0.0.0.0 letou8868.com
@@ -3546,6 +3549,7 @@
 0.0.0.0 win365good.com
 0.0.0.0 win365vip8.com
 0.0.0.0 win365vip9.com
+0.0.0.0 win79.app
 0.0.0.0 win79.vip
 0.0.0.0 win79play.me
 0.0.0.0 win888b.com
@@ -3887,11 +3891,13 @@
 0.0.0.0 www.w88banh.com
 0.0.0.0 www.w88bkk.com
 0.0.0.0 www.w88bro.com
+0.0.0.0 www.w88c1.com
 0.0.0.0 www.w88city.com
 0.0.0.0 www.w88club.com
 0.0.0.0 www.w88hn.com
 0.0.0.0 www.w88ok.com
 0.0.0.0 www.w88so.com
+0.0.0.0 www.w88u2.com
 0.0.0.0 www.w88yes.com
 0.0.0.0 www.wb77.net
 0.0.0.0 www.websvn.info
@@ -3921,6 +3927,7 @@
 0.0.0.0 xengtructuyen.com
 0.0.0.0 xingtou888.com
 0.0.0.0 xljs2.com
+0.0.0.0 xo88.com
 0.0.0.0 xoso12345.com
 0.0.0.0 xoso5678.com
 0.0.0.0 xoso6.com

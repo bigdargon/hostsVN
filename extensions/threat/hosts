@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 04 Nov 2022 11:25 UTC+7
-# Version: 2211041125
-# Blocked: 513 domains
+# Last modified: 06 Nov 2022 23:01 UTC+7
+# Version: 2211062302
+# Blocked: 512 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -370,7 +370,6 @@
 0.0.0.0 ticlewesimulate.cfd
 0.0.0.0 tiki136.com
 0.0.0.0 tikictv9.com
-0.0.0.0 tikivip.clib
 0.0.0.0 tikivip.club
 0.0.0.0 tikivip0001.com
 0.0.0.0 titki55.cc
