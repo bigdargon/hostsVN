@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 07 Nov 2022 12:00 UTC+7
-# Version: 2211071200
-# Blocked: 362 domains
+# Last modified: 07 Nov 2022 21:26 UTC+7
+# Version: 2211072126
+# Blocked: 370 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -29,6 +29,7 @@
 0.0.0.0 88lotte.com
 0.0.0.0 999lotte.com
 0.0.0.0 99lotte.com
+0.0.0.0 abc-vay.com
 0.0.0.0 acb.vn-banks.xyz
 0.0.0.0 acb.vn-c.xyz
 0.0.0.0 acb.vn-ol.top
@@ -39,6 +40,7 @@
 0.0.0.0 acs84.com
 0.0.0.0 agrib-vn.com
 0.0.0.0 app.mybigc.net
+0.0.0.0 app.zingmp3.pro
 0.0.0.0 apple.support-maps.live
 0.0.0.0 banking24hsingapore.weebly.com
 0.0.0.0 banktopvn.online
@@ -55,6 +57,7 @@
 0.0.0.0 checkaccff.com
 0.0.0.0 chuyendoitienquote-nhantien24h.weebly.com
 0.0.0.0 clmm.nl
+0.0.0.0 clmm.team
 0.0.0.0 clmm.tv
 0.0.0.0 clmm.win
 0.0.0.0 clmm113.me
@@ -175,6 +178,7 @@
 0.0.0.0 pvpti222.com
 0.0.0.0 quaythuonggarena.com
 0.0.0.0 quydoitienquocte24h7azx.weebly.com
+0.0.0.0 rich678.com
 0.0.0.0 sacombank.vn-ne.top
 0.0.0.0 sacombank.vn-sp.top
 0.0.0.0 sacombank.vn-vp.xyz
@@ -265,6 +269,7 @@
 0.0.0.0 vcbdigeibonk.com
 0.0.0.0 vcbdigliebrnk.com
 0.0.0.0 vcbigdank.com
+0.0.0.0 vg99.co
 0.0.0.0 vhcmc2.xyz
 0.0.0.0 vib84.com
 0.0.0.0 vibvay.com
@@ -277,6 +282,7 @@
 0.0.0.0 vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com
 0.0.0.0 vietimbank.top
 0.0.0.0 vietnamairslines.vn
+0.0.0.0 vimomo.monster
 0.0.0.0 vip.jaccsvn.com
 0.0.0.0 vip.tpbank84.com
 0.0.0.0 vipmomo123.me
@@ -333,6 +339,7 @@
 0.0.0.0 www.88lotte.com
 0.0.0.0 www.999lotte.com
 0.0.0.0 www.99lotte.com
+0.0.0.0 www.abc-vay.com
 0.0.0.0 www.acs84.com
 0.0.0.0 www.checkaccff.com
 0.0.0.0 www.fccomvn.com
@@ -372,3 +379,4 @@
 0.0.0.0 xn--momovints1-o8a64b3904adea8q.weebly.com
 0.0.0.0 xn--nhantienonline1k87s1-6hf.weebly.com
 0.0.0.0 xn--nhnqumomouimomo-bjb0d67cq5glw6t.weebly.com
+0.0.0.0 zingmp3.pro

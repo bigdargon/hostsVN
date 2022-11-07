@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 07 Nov 2022 12:00 UTC+7
-! Version: 2211071200
-! Blocked: 319 rules
+! Last modified: 07 Nov 2022 21:26 UTC+7
+! Version: 2211072126
+! Blocked: 326 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -28,6 +28,7 @@
 ||999lotte.com^
 ||99lotte.com^
 ||Free-4paid.com^
+||abc-vay.com^
 ||acb.vn-banks.xyz^
 ||acb.vn-c.xyz^
 ||acb.vn-ol.top^
@@ -53,6 +54,7 @@
 ||ani453las.cfd^
 ||anwasthere.cfd^
 ||app.mybigc.net^
+||app.zingmp3.pro^
 ||apple.support-maps.live^
 ||apps-for-pc.com^
 ||aptersandt.cfd^
@@ -78,6 +80,7 @@
 ||checkaccff.com^
 ||chuyendoitienquote-nhantien24h.weebly.com^
 ||clmm.nl^
+||clmm.team^
 ||clmm.tv^
 ||clmm.win^
 ||clmm113.me^
@@ -294,6 +297,7 @@
 ||resonherse.cfd^
 ||restlesz.su^
 ||rhighest.cfd^
+||rich678.com^
 ||sacombank.vn-ne.top^
 ||sacombank.vn-sp.top^
 ||sacombank.vn-vp.xyz^
@@ -404,6 +408,7 @@
 ||vcbdigeibonk.com^
 ||vcbdigliebrnk.com^
 ||vcbigdank.com^
+||vg99.co^
 ||vhcmc2.xyz^
 ||vib84.com^
 ||vibvay.com^
@@ -416,6 +421,7 @@
 ||vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com^
 ||vietimbank.top^
 ||vietnamairslines.vn^
+||vimomo.monster^
 ||vip.jaccsvn.com^
 ||vip.tpbank84.com^
 ||vipmomo123.me^
@@ -474,4 +480,5 @@
 ||xn--nhnqumomouimomo-bjb0d67cq5glw6t.weebly.com^
 ||xproductkey.com^
 ||yunduofei.xyz^
+||zingmp3.pro^
 ||znavidsde.cfd^
