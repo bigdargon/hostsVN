@@ -85,9 +85,9 @@ cat source/threat-VN.tmp | grep -v -e '^[[:space:]]*$' | awk '{print "||"$1"^"}'
 cat tmp/title-filter-adult.tmp tmp/adult-filter.tmp > adult/filter.txt
 cat tmp/title-filter-gambling.tmp tmp/gambling-filter.tmp > gambling/filter.txt
 cat tmp/title-filter-threat.tmp tmp/threat-filter.tmp > threat/filter.txt
-cat tmp/title-filter-adult-VN.tmp tmp/adult-filter.tmp > adult/filter-VN.txt
-cat tmp/title-filter-gambling-VN.tmp tmp/gambling-filter.tmp > gambling/filter-VN.txt
-cat tmp/title-filter-threat-VN.tmp tmp/threat-filter.tmp > threat/filter-VN.txt
+cat tmp/title-filter-adult-VN.tmp tmp/adult-filter-VN.tmp > adult/filter-VN.txt
+cat tmp/title-filter-gambling-VN.tmp tmp/gambling-filter-VN.tmp > gambling/filter-VN.txt
+cat tmp/title-filter-threat-VN.tmp tmp/threat-filter-VN.tmp > threat/filter-VN.txt
 
 # check duplicate
 echo "Checking duplicate..."
