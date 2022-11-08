@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 07 Nov 2022 21:26 UTC+7
-! Version: 2211072126
-! Blocked: 20.573 rules
+! Last modified: 08 Nov 2022 10:38 UTC+7
+! Version: 2211081038
+! Blocked: 20.574 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6982,6 +6982,7 @@
 ||api.i8bet.org^
 ||api.i99903.com^
 ||api.i99908.com^
+||api.i9bet102.com^
 ||api.kingbet86.info^
 ||api.mc876.com^
 ||api.mu9.com^
