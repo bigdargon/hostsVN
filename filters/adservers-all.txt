@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 08 Nov 2022 10:39 UTC+7
-! Version: 2211081039
+! Last modified: 08 Nov 2022 23:28 UTC+7
+! Version: 2211082328
 ! Blocked: 8.851 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -2544,7 +2544,6 @@
 ||lkqd.net^
 ||localytics.com^
 ||log.avlyun.sec.intl.miui.com^
-||log.byteoversea.com^
 ||log.go.com^
 ||log.kajicam.com^
 ||log.optimizely.com^
@@ -8575,6 +8574,7 @@
 ||vtracy.de^
 ||vugnubier.com^
 ||vuwmxjusucnh.com^
+||vyfrxuytzn.com^
 ||vymhnxjyj.com^
 ||w3counter.com^
 ||w3i.com^

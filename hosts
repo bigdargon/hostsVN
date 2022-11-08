@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 08 Nov 2022 10:39 UTC+7
-# Version: 2211081039
+# Last modified: 08 Nov 2022 23:28 UTC+7
+# Version: 2211082328
 # Blocked: 17.407 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -10776,7 +10776,6 @@
 0.0.0.0 p.s.360.cn
 0.0.0.0 sdk.s.360.cn
 #[byteoversea.com]
-0.0.0.0 log.byteoversea.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 p16-ad.byteoversea.com
@@ -17700,6 +17699,7 @@
 0.0.0.0 vtracy.de
 0.0.0.0 vugnubier.com
 0.0.0.0 vuwmxjusucnh.com
+0.0.0.0 vyfrxuytzn.com
 0.0.0.0 vymhnxjyj.com
 0.0.0.0 w3i.com
 0.0.0.0 wa.and.co.uk
