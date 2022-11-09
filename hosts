@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Nov 2022 23:28 UTC+7
-# Version: 2211082328
-# Blocked: 17.407 domains
+# Last modified: 09 Nov 2022 11:01 UTC+7
+# Version: 2211091101
+# Blocked: 17.411 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11056,6 +11056,13 @@
 0.0.0.0 collector-cps3-ttt.omnitrend.biz
 0.0.0.0 omnitrend.biz
 0.0.0.0 www.omnitrend.biz
+#[ensighten.com]
+0.0.0.0 activate.ensighten.com
+0.0.0.0 analytics.ensighten.com
+0.0.0.0 ensighten.com
+0.0.0.0 measure.ensighten.com
+0.0.0.0 nexus.ensighten.com
+0.0.0.0 scarf.ensighten.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15095,7 +15102,6 @@
 0.0.0.0 enlarget.com
 0.0.0.0 enoratraffic.com
 0.0.0.0 enquisite.com
-0.0.0.0 ensighten.com
 0.0.0.0 entercasino.com
 0.0.0.0 enthusiasticdad.com
 0.0.0.0 enviousthread.com
@@ -18454,7 +18460,6 @@
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 netcore.co.in
-0.0.0.0 nexus.ensighten.com
 0.0.0.0 nonglirili.net
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 nppmwatch.com
