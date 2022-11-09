@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 09 Nov 2022 14:10 UTC+7
-! Version: 2211091410
-! Blocked: 3.607 rules
+! Last modified: 09 Nov 2022 16:32 UTC+7
+! Version: 2211091632
+! Blocked: 3.626 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -402,6 +402,7 @@
 ||app.betlv.com^
 ||app.vx88.com^
 ||app.wellviet.net^
+||appbk8.com^
 ||asiak8thai.com^
 ||asiak8thai.net^
 ||asiavwin.com^
@@ -443,9 +444,17 @@
 ||bigk8th888.com^
 ||bigwinvietnam.com^
 ||bk8.live^
+||bk8bongda.com^
 ||bk8c.com^
+||bk8h.com^
+||bk8i.com^
 ||bk8p.com^
+||bk8ping.com^
+||bk8viet.com^
 ||bk8vietnam.com^
+||bk8vn.com^
+||bk8vn.live^
+||bk8vn.vip^
 ||bk8vnd.com^
 ||bo.b52.win^
 ||bogcuoc.com^
@@ -2728,6 +2737,8 @@
 ||lines.vietbet.eu^
 ||link.vuabai9.com^
 ||link123b.com^
+||link1vaobk.com^
+||linkbk8.com^
 ||linkbong88moinhat.com^
 ||linkvaobw.info^
 ||linkw88dn.com^
@@ -3129,6 +3140,7 @@
 ||qc.x8vn.com^
 ||qc.x8vn.top^
 ||qc.zo88.org^
+||qh205.com^
 ||qh52.com^
 ||qh91.com^
 ||qq101.com^
@@ -3184,6 +3196,7 @@
 ||sd.nhacaisodo.net^
 ||seb121.net^
 ||sex.rik.vip^
+||shb11.com^
 ||shbet0.com^
 ||shbet3.com^
 ||sieubomtan.com^
@@ -3382,6 +3395,12 @@
 ||vebo.bet^
 ||vf003.xyz^
 ||vfun88.com^
+||vg66.app^
+||vg66.com^
+||vg770.com^
+||vg966.com^
+||vg977.com^
+||vg99.com^
 ||vh79.com^
 ||vi.oppa888.com^
 ||vi.sol86.com^

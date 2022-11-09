@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 09 Nov 2022 14:10 UTC+7
-# Version: 2211091410
-# Blocked: 3.963 domains
+# Last modified: 09 Nov 2022 16:32 UTC+7
+# Version: 2211091632
+# Blocked: 3.997 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -406,6 +406,7 @@
 0.0.0.0 app.betlv.com
 0.0.0.0 app.vx88.com
 0.0.0.0 app.wellviet.net
+0.0.0.0 appbk8.com
 0.0.0.0 asiak8thai.com
 0.0.0.0 asiak8thai.net
 0.0.0.0 asiavwin.com
@@ -447,9 +448,17 @@
 0.0.0.0 bigk8th888.com
 0.0.0.0 bigwinvietnam.com
 0.0.0.0 bk8.live
+0.0.0.0 bk8bongda.com
 0.0.0.0 bk8c.com
+0.0.0.0 bk8h.com
+0.0.0.0 bk8i.com
 0.0.0.0 bk8p.com
+0.0.0.0 bk8ping.com
+0.0.0.0 bk8viet.com
 0.0.0.0 bk8vietnam.com
+0.0.0.0 bk8vn.com
+0.0.0.0 bk8vn.live
+0.0.0.0 bk8vn.vip
 0.0.0.0 bk8vnd.com
 0.0.0.0 bo.b52.win
 0.0.0.0 bogcuoc.com
@@ -2732,6 +2741,8 @@
 0.0.0.0 lines.vietbet.eu
 0.0.0.0 link.vuabai9.com
 0.0.0.0 link123b.com
+0.0.0.0 link1vaobk.com
+0.0.0.0 linkbk8.com
 0.0.0.0 linkbong88moinhat.com
 0.0.0.0 linkvaobw.info
 0.0.0.0 linkw88dn.com
@@ -3133,6 +3144,7 @@
 0.0.0.0 qc.x8vn.com
 0.0.0.0 qc.x8vn.top
 0.0.0.0 qc.zo88.org
+0.0.0.0 qh205.com
 0.0.0.0 qh52.com
 0.0.0.0 qh91.com
 0.0.0.0 qq101.com
@@ -3188,6 +3200,7 @@
 0.0.0.0 sd.nhacaisodo.net
 0.0.0.0 seb121.net
 0.0.0.0 sex.rik.vip
+0.0.0.0 shb11.com
 0.0.0.0 shbet0.com
 0.0.0.0 shbet3.com
 0.0.0.0 sieubomtan.com
@@ -3386,6 +3399,12 @@
 0.0.0.0 vebo.bet
 0.0.0.0 vf003.xyz
 0.0.0.0 vfun88.com
+0.0.0.0 vg66.app
+0.0.0.0 vg66.com
+0.0.0.0 vg770.com
+0.0.0.0 vg966.com
+0.0.0.0 vg977.com
+0.0.0.0 vg99.com
 0.0.0.0 vh79.com
 0.0.0.0 vi.oppa888.com
 0.0.0.0 vi.sol86.com
@@ -3630,6 +3649,7 @@
 0.0.0.0 www.ae888.com
 0.0.0.0 www.ae988bet.com
 0.0.0.0 www.agbet.co
+0.0.0.0 www.appbk8.com
 0.0.0.0 www.aw8vn.com
 0.0.0.0 www.aw8vn2.com
 0.0.0.0 www.aw8vn3.com
@@ -3644,8 +3664,16 @@
 0.0.0.0 www.betvietnam.info
 0.0.0.0 www.betvisa.com
 0.0.0.0 www.big88.one
+0.0.0.0 www.bk8bongda.com
+0.0.0.0 www.bk8h.com
+0.0.0.0 www.bk8i.com
 0.0.0.0 www.bk8p.com
+0.0.0.0 www.bk8ping.com
+0.0.0.0 www.bk8viet.com
 0.0.0.0 www.bk8vietnam.com
+0.0.0.0 www.bk8vn.com
+0.0.0.0 www.bk8vn.live
+0.0.0.0 www.bk8vn.vip
 0.0.0.0 www.bk8vnd.com
 0.0.0.0 www.bong88net.com
 0.0.0.0 www.bong99.fun
@@ -3760,6 +3788,7 @@
 0.0.0.0 www.kubet88.fun
 0.0.0.0 www.kubet88.win
 0.0.0.0 www.letou8868.com
+0.0.0.0 www.link1vaobk.com
 0.0.0.0 www.linkvaobw.info
 0.0.0.0 www.lixi88.info
 0.0.0.0 www.lode555.com
@@ -3859,6 +3888,11 @@
 0.0.0.0 www.v9betasia.com
 0.0.0.0 www.v9jvn.com
 0.0.0.0 www.vb211.com
+0.0.0.0 www.vg66.com
+0.0.0.0 www.vg770.com
+0.0.0.0 www.vg966.com
+0.0.0.0 www.vg977.com
+0.0.0.0 www.vg99.com
 0.0.0.0 www.vh79.com
 0.0.0.0 www.vietbet.eu
 0.0.0.0 www.vietvwin.com
