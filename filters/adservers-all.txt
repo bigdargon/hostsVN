@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Nov 2022 11:01 UTC+7
-! Version: 2211091101
-! Blocked: 8.852 rules
+! Last modified: 09 Nov 2022 11:50 UTC+7
+! Version: 2211091150
+! Blocked: 8.849 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -35,7 +35,6 @@
 ||adsparc.com^
 ||adsparc.net^
 ||adsplay.net^
-||adsplay.xyz^
 ||adstracking.apps.zing.vn^
 ||adtima-common.zadn.vn^
 ||adtima-common.zascdn.me^
@@ -159,7 +158,6 @@
 ||logzh.dantocmiennui.vn^
 ||logzh.vietnamplus.vn^
 ||matomo.*.vn^
-||mautic.*.com.vn^
 ||mautic.*.vn^
 ||mautic.hubs.vn^
 ||mclick.mobi^
@@ -1710,7 +1708,6 @@
 ||adpushup.com^
 ||adrcdn.com^
 ||adrcntr.com^
-||adreach.me^
 ||adrecover.com^
 ||adrizer.com^
 ||adroll.com^
@@ -1855,7 +1852,6 @@
 ||aerserv.com^
 ||afd.baidu.com^
 ||affiliate.rakuten.co.jp^
-||agentanalytics.com^
 ||agkn.com^
 ||aicactus.io^
 ||aimtell.com^
@@ -4185,6 +4181,7 @@
 ||agacelebir.com^
 ||agafurretor.com^
 ||agenduret.com^
+||agentanalytics.com^
 ||aggestose.com^
 ||agle21xe2anfddirite.com^
 ||agnescarved.website^

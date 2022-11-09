@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Nov 2022 11:01 UTC+7
-! Version: 2211091101
-! Blocked: 1.555 rules
+! Last modified: 09 Nov 2022 11:50 UTC+7
+! Version: 2211091150
+! Blocked: 1.553 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -35,7 +35,6 @@
 ||adsparc.com^
 ||adsparc.net^
 ||adsplay.net^
-||adsplay.xyz^
 ||adstracking.apps.zing.vn^
 ||adtima-common.zadn.vn^
 ||adtima-common.zascdn.me^
@@ -159,7 +158,6 @@
 ||logzh.dantocmiennui.vn^
 ||logzh.vietnamplus.vn^
 ||matomo.*.vn^
-||mautic.*.com.vn^
 ||mautic.*.vn^
 ||mautic.hubs.vn^
 ||mclick.mobi^

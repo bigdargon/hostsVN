@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 09 Nov 2022 11:01 UTC+7
-# Version: 2211091101
-# Blocked: 370 domains
+# Last modified: 09 Nov 2022 11:48 UTC+7
+# Version: 2211091148
+# Blocked: 371 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -109,6 +109,7 @@
 0.0.0.0 hdsaisonvn.com
 0.0.0.0 hethonggiaodichvidientu247.com
 0.0.0.0 hotline-dienmayxanh.com
+0.0.0.0 https-icloud.com
 0.0.0.0 ibankingdigital.com
 0.0.0.0 ibmgroup.co.uk
 0.0.0.0 id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com

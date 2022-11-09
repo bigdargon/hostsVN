@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Nov 2022 11:01 UTC+7
-# Version: 2211091101
-# Blocked: 17.411 domains
+# Last modified: 09 Nov 2022 11:50 UTC+7
+# Version: 2211091150
+# Blocked: 17.316 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -41,7 +41,6 @@
 0 iad.apple.com
 0 iadfeed.iad.apple.com
 0 iadworkbench-soak.iad.apple.com
-0 iris.iad.apple.com
 0 stg-cmws.iad.apple.com
 0 doubleclick.net
 0 accounts.doubleclick.net
@@ -1022,13 +1021,6 @@
 0 cdn.creative.medialytics.com
 0 p.medialytics.com
 0 px.cdn.creative.medialytics.com
-0 agentanalytics.com
-0 o.agentanalytics.com
-0 p.agentanalytics.com
-0 post.agentanalytics.com
-0 s.agentanalytics.com
-0 t.agentanalytics.com
-0 u.agentanalytics.com
 0 adops.sharethis.com
 0 b.sharethis.com
 0 buttons-config.sharethis.com
@@ -1037,10 +1029,8 @@
 0 edaa.sharethis.com
 0 edge.sharethis.com
 0 edge.staging.sharethis.com
-0 forums.sharethis.com
 0 go.sharethis.com
 0 img.sharethis.com
-0 info.sharethis.com
 0 l.sharethis.com
 0 l2.sharethis.com
 0 loader.sharethis.com
@@ -2837,56 +2827,13 @@
 0 p69523.clksite.com
 0 p94825.clksite.com
 0 www.clksite.com
-0 adt.effectivemeasure.net
-0 au.effectivemeasure.net
-0 au-cdn.effectivemeasure.net
-0 au-ssl.effectivemeasure.net
-0 c.effectivemeasure.net
-0 ca-cdn.effectivemeasure.net
-0 c-cdn.effectivemeasure.net
-0 cdn.effectivemeasure.net
-0 cf.effectivemeasure.net
 0 collector.effectivemeasure.net
+0 detect-survey.effectivemeasure.net
 0 effectivemeasure.net
-0 fr-cdn.effectivemeasure.net
-0 hk.effectivemeasure.net
-0 hk-cdn.effectivemeasure.net
-0 id-cdn.effectivemeasure.net
-0 in-cdn.effectivemeasure.net
-0 in-ssl.effectivemeasure.net
-0 me.effectivemeasure.net
-0 me-cdn.effectivemeasure.net
-0 me-ssl.effectivemeasure.net
-0 msn-cdn.effectivemeasure.net
-0 my.effectivemeasure.net
-0 my-cdn.effectivemeasure.net
 0 my-ssl.effectivemeasure.net
-0 nz-cdn.effectivemeasure.net
-0 nz-ssl.effectivemeasure.net
-0 pk-cdn.effectivemeasure.net
-0 ph-cdn.effectivemeasure.net
 0 s.effectivemeasure.net
-0 sea.effectivemeasure.net
-0 sg-cdn.effectivemeasure.net
 0 sg-ssl.effectivemeasure.net
 0 t.effectivemeasure.net
-0 th-cdn.effectivemeasure.net
-0 us-cdn.effectivemeasure.net
-0 v.effectivemeasure.net
-0 www.effectivemeasure.net
-0 www1.effectivemeasure.net
-0 www2.effectivemeasure.net
-0 www3.effectivemeasure.net
-0 www4.effectivemeasure.net
-0 www5.effectivemeasure.net
-0 www6.effectivemeasure.net
-0 www7.effectivemeasure.net
-0 www8.effectivemeasure.net
-0 www8-ssl.effectivemeasure.net
-0 www9.effectivemeasure.net
-0 yahoo.effectivemeasure.net
-0 za-cdn.effectivemeasure.net
-0 za-ssl.effectivemeasure.net
 0 ads.vntsm.com
 0 cdn1.vntsm.com
 0 hb.vntsm.com
@@ -3970,7 +3917,6 @@
 0 spf2.advergine.ru
 0 spf3.advergine.ru
 0 track.advergine.ru
-0 adfox-c2s-ams.creativecdn.com
 0 ams.creativecdn.com
 0 ash.creativecdn.com
 0 asia.creativecdn.com
@@ -3985,9 +3931,6 @@
 0 pubs2-asia.creativecdn.com
 0 pubs2-eu.creativecdn.com
 0 pubs2-us.creativecdn.com
-0 rtbsnip-c2s-ams.creativecdn.com
-0 rtbsnip-c2s-ash.creativecdn.com
-0 rtbsnip-c2s-sin.creativecdn.com
 0 sin.creativecdn.com
 0 snippets-codes.creativecdn.com
 0 snippets-fallback.creativecdn.com
@@ -6274,9 +6217,6 @@
 0 main.optvx.com
 0 optvx.com
 0 s.optvx.com
-0 adreach.me
-0 www.adreach.me
-0 xml.adreach.me
 0 ads.adservme.com
 0 adservme.com
 0 dsp.adservme.com
@@ -10533,36 +10473,6 @@
 0 push2.yoads.net
 0 www.yoads.net
 0 yoads.network
-0 a.adsplay.xyz
-0 a1.adsplay.xyz
-0 a3.adsplay.xyz
-0 a4.adsplay.xyz
-0 admin.adsplay.xyz
-0 adsplay.xyz
-0 api.adsplay.xyz
-0 api4report.adsplay.xyz
-0 cdn.adsplay.xyz
-0 cp.adsplay.xyz
-0 cp1.adsplay.xyz
-0 cpd.adsplay.xyz
-0 d.adsplay.xyz
-0 d7.adsplay.xyz
-0 gw01.adsplay.xyz
-0 id.adsplay.xyz
-0 ingress.adsplay.xyz
-0 log.adsplay.xyz
-0 log7.adsplay.xyz
-0 omo.adsplay.xyz
-0 report.adsplay.xyz
-0 sdk.adsplay.xyz
-0 sony.adsplay.xyz
-0 sony1.adsplay.xyz
-0 wifi.adsplay.xyz
-0 wifi-api.adsplay.xyz
-0 wifi-api1.adsplay.xyz
-0 wifi-api2.adsplay.xyz
-0 wifi-api3.adsplay.xyz
-0 wifi-api4.adsplay.xyz
 0 hc.viam.com.vn
 0 viam.com.vn
 0 www.viam.com.vn
@@ -10832,17 +10742,13 @@
 0 adx.vn
 0 mon.adx.vn
 0 matomo.ecoe.vn
-0 matomo.energyfacility.vn
 0 matomo.hicity.vn
-0 matomo.magicmarketing.vn
 0 matomo.shac.vn
 0 matomo.vepg.vn
 0 mautic.akhoe.vn
 0 mautic.casso.vn
 0 mautic.chetaomaysaigon.vn
 0 mautic.cloudify.vn
-0 mautic.datium.vn
-0 mautic.dongdomedia.vn
 0 mautic.easygroup.vn
 0 mautic.educa.vn
 0 mautic.educe.vn
@@ -10855,8 +10761,6 @@
 0 mautic.sts.vn
 0 mautic.thietkexaynhadep.vn
 0 mautic.vmax.vn
-0 mautic.yte-suckhoe.vn
-0 mautic.itnavi.com.vn
 0 piwik.rta.vn
 0 piwik.tienhiep.com.vn
 0 ad.accesstrade.vn
@@ -16712,6 +16616,7 @@
 0 adlog.foxitcloud.com
 0 advanced-web-analytics.com
 0 affiliatly.com
+0 agentanalytics.com
 0 akuaba.chez.com
 0 alpixtrack.com
 0 analysis.polarisoffice.com
