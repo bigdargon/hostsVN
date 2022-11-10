@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 09 Nov 2022 16:32 UTC+7
-! Version: 2211091632
-! Blocked: 477 rules
+! Last modified: 10 Nov 2022 09:39 UTC+7
+! Version: 2211100939
+! Blocked: 480 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -368,6 +368,7 @@
 ||techcombank.vn-ol.top^
 ||techcombank.vn-sp.top^
 ||techcombank.vn-vp.xyz^
+||teleway.top^
 ||theritishind.cfd^
 ||theyt786ku.cfd^
 ||thutucnhantienquydoi24h.weebly.com^
@@ -427,6 +428,7 @@
 ||vip.tpbank84.com^
 ||vipmomo123.me^
 ||viptikivn.club^
+||viyo.life^
 ||vn-cn.xyz^
 ||vn-cr.life^
 ||vn-dienmayxanh.com^
@@ -438,6 +440,7 @@
 ||vn-ub.info^
 ||vn-vp.xyz^
 ||vnah567.com^
+||vnbitcoin.cc^
 ||vnshop11.com^
 ||vongloai.vn^
 ||vongloaisieumaunhi2021vn.weebly.com^

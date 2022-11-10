@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 09 Nov 2022 16:32 UTC+7
-# Version: 2211091632
-# Blocked: 371 domains
+# Last modified: 10 Nov 2022 09:39 UTC+7
+# Version: 2211100939
+# Blocked: 375 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -239,6 +239,7 @@
 0.0.0.0 techcombank.vn-ol.top
 0.0.0.0 techcombank.vn-sp.top
 0.0.0.0 techcombank.vn-vp.xyz
+0.0.0.0 teleway.top
 0.0.0.0 thutucnhantienquydoi24h.weebly.com
 0.0.0.0 tiki136.com
 0.0.0.0 tikictv9.com
@@ -288,6 +289,7 @@
 0.0.0.0 vip.tpbank84.com
 0.0.0.0 vipmomo123.me
 0.0.0.0 viptikivn.club
+0.0.0.0 viyo.life
 0.0.0.0 vn-cn.xyz
 0.0.0.0 vn-cr.life
 0.0.0.0 vn-dienmayxanh.com
@@ -299,6 +301,7 @@
 0.0.0.0 vn-ub.info
 0.0.0.0 vn-vp.xyz
 0.0.0.0 vnah567.com
+0.0.0.0 vnbitcoin.cc
 0.0.0.0 vnshop11.com
 0.0.0.0 vongloai.vn
 0.0.0.0 vongloaisieumaunhi2021vn.weebly.com
@@ -373,6 +376,7 @@
 0.0.0.0 www.vib84.com
 0.0.0.0 www.vibvay.com
 0.0.0.0 www.vibvayvn.com
+0.0.0.0 www.viyo.life
 0.0.0.0 www.vn-findmy.com
 0.0.0.0 www.vn-scl.life
 0.0.0.0 www.vn-ub.info

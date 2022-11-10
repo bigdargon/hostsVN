@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 09 Nov 2022 16:32 UTC+7
-# Version: 2211091632
-# Blocked: 20.994 domains
+# Last modified: 10 Nov 2022 09:39 UTC+7
+# Version: 2211100939
+# Blocked: 20.995 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7380,6 +7380,7 @@
 0.0.0.0 bet88bw.com
 0.0.0.0 bet89999.com
 0.0.0.0 bet99000.com
+0.0.0.0 bet999.io
 0.0.0.0 bet99way.com
 0.0.0.0 betadda.com
 0.0.0.0 betadonis.com
