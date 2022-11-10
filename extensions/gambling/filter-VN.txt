@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 10 Nov 2022 09:39 UTC+7
-! Version: 2211100939
-! Blocked: 3.627 rules
+! Last modified: 10 Nov 2022 22:17 UTC+7
+! Version: 2211102217
+! Blocked: 3.635 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -372,9 +372,11 @@
 ||api.f8bet0.com^
 ||api.f8bet5.com^
 ||api.i8bet.org^
+||api.i99902.com^
 ||api.i99903.com^
 ||api.i99908.com^
 ||api.i9bet102.com^
+||api.i9bet109.com^
 ||api.kingbet86.info^
 ||api.mc876.com^
 ||api.mu9.com^
@@ -400,6 +402,7 @@
 ||app.228kbet.com^
 ||app.8kbet.vn^
 ||app.betlv.com^
+||app.i99902.com^
 ||app.vx88.com^
 ||app.wellviet.net^
 ||appbk8.com^
@@ -543,6 +546,7 @@
 ||cuocbong.thethaofb88.com^
 ||cuock8.com^
 ||cuocvuik8.com^
+||cwin999.com^
 ||d1.debet.info^
 ||d1.debet.top^
 ||d2.dabet.me^
@@ -687,6 +691,7 @@
 ||fb88live.com^
 ||fb88map.com^
 ||fb88max.com^
+||fb88sg.com^
 ||fb88sports.com^
 ||fb88up.com^
 ||fb88viet.com^
@@ -817,10 +822,12 @@
 ||hx9119.com^
 ||i1lnr.com^
 ||i8bet.org^
+||i99902.com^
 ||i99903.com^
 ||i99906.com^
 ||i99908.com^
 ||i9bet102.com^
+||i9bet109.com^
 ||i9bet444.com^
 ||i9bet5.com^
 ||i9bet6.com^
@@ -2818,6 +2825,7 @@
 ||m.bwingmkt1.com^
 ||m.bwingmkt8.com^
 ||m.casino888vn.com^
+||m.cwin999.com^
 ||m.five88.com^
 ||m.five88.me^
 ||m.fivevn.net^

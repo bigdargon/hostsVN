@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 10 Nov 2022 09:39 UTC+7
-# Version: 2211100939
-# Blocked: 20.995 domains
+# Last modified: 10 Nov 2022 22:17 UTC+7
+# Version: 2211102217
+# Blocked: 21.006 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6984,9 +6984,11 @@
 0.0.0.0 api.f8bet5.com
 0.0.0.0 api.hubtop88.net
 0.0.0.0 api.i8bet.org
+0.0.0.0 api.i99902.com
 0.0.0.0 api.i99903.com
 0.0.0.0 api.i99908.com
 0.0.0.0 api.i9bet102.com
+0.0.0.0 api.i9bet109.com
 0.0.0.0 api.kingbet86.info
 0.0.0.0 api.mc876.com
 0.0.0.0 api.mu9.com
@@ -7016,6 +7018,7 @@
 0.0.0.0 app.228kbet.com
 0.0.0.0 app.8kbet.vn
 0.0.0.0 app.betlv.com
+0.0.0.0 app.i99902.com
 0.0.0.0 app.vx88.com
 0.0.0.0 app.wellviet.net
 0.0.0.0 app1123.com
@@ -9186,6 +9189,7 @@
 0.0.0.0 cv88.com
 0.0.0.0 cv88.vip
 0.0.0.0 cwebsports.com
+0.0.0.0 cwin999.com
 0.0.0.0 cxyzhgly.com
 0.0.0.0 cyber.bet
 0.0.0.0 czmaplqmoax.com
@@ -9731,6 +9735,7 @@
 0.0.0.0 fb88live.com
 0.0.0.0 fb88map.com
 0.0.0.0 fb88max.com
+0.0.0.0 fb88sg.com
 0.0.0.0 fb88sports.com
 0.0.0.0 fb88to.com
 0.0.0.0 fb88up.com
@@ -11389,6 +11394,7 @@
 0.0.0.0 i9bet1.com
 0.0.0.0 i9bet102.com
 0.0.0.0 i9bet106.com
+0.0.0.0 i9bet109.com
 0.0.0.0 i9bet18.com
 0.0.0.0 i9bet2.com
 0.0.0.0 i9bet22.com
@@ -15304,6 +15310,7 @@
 0.0.0.0 m.bwingmkt1.com
 0.0.0.0 m.bwingmkt8.com
 0.0.0.0 m.casino888vn.com
+0.0.0.0 m.cwin999.com
 0.0.0.0 m.falvhome.com
 0.0.0.0 m.five88.com
 0.0.0.0 m.five88.me
@@ -19493,6 +19500,7 @@
 0.0.0.0 www.cmd368t.com
 0.0.0.0 www.comebet.xyz
 0.0.0.0 www.corona999.com
+0.0.0.0 www.cwin999.com
 0.0.0.0 www.dafacai360.com
 0.0.0.0 www.daily88uu.com
 0.0.0.0 www.dailybet365vn.com
@@ -19527,6 +19535,7 @@
 0.0.0.0 www.fb88club.com
 0.0.0.0 www.fb88cup.com
 0.0.0.0 www.fb88max.com
+0.0.0.0 www.fb88sg.com
 0.0.0.0 www.fb88sports.com
 0.0.0.0 www.fb88up.com
 0.0.0.0 www.fb88viet.com
@@ -19552,10 +19561,12 @@
 0.0.0.0 www.hi888.app
 0.0.0.0 www.hi88vip8.com
 0.0.0.0 www.i8bet.org
+0.0.0.0 www.i99902.com
 0.0.0.0 www.i99903.com
 0.0.0.0 www.i99906.com
 0.0.0.0 www.i99908.com
 0.0.0.0 www.i9bet102.com
+0.0.0.0 www.i9bet109.com
 0.0.0.0 www.i9bet444.com
 0.0.0.0 www.i9bet5.com
 0.0.0.0 www.i9bet6.com
