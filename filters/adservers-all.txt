@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 10 Nov 2022 22:18 UTC+7
-! Version: 2211102218
-! Blocked: 8.856 rules
+! Last modified: 11 Nov 2022 09:23 UTC+7
+! Version: 2211110923
+! Blocked: 8.858 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1638,6 +1638,7 @@
 ||adashx4sg.ut.taobao.com^
 ||adashxgc.ut.taobao.com^
 ||adblade.com^
+||adbottw.net^
 ||adbrix.io^
 ||adcaffe.com^
 ||adcell.com^
@@ -3188,6 +3189,7 @@
 ||vlancaa.site^
 ||vliplatform.com^
 ||vlitag.com^
+||vm5apis.com^
 ||vntsm.com^
 ||vntsm.io^
 ||voicefive.com^

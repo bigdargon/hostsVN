@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 10 Nov 2022 22:17 UTC+7
-# Version: 2211102217
-# Blocked: 4.010 domains
+# Last modified: 11 Nov 2022 09:23 UTC+7
+# Version: 2211110923
+# Blocked: 4.011 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2922,6 +2922,7 @@
 0.0.0.0 may88.win
 0.0.0.0 mayclub.net
 0.0.0.0 mayman.vuabai9.com
+0.0.0.0 mb88.com
 0.0.0.0 mbx88.com
 0.0.0.0 mc.bong99.com
 0.0.0.0 mc876.com

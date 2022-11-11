@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Nov 2022 22:18 UTC+7
-# Version: 2211102218
-# Blocked: 17.319 domains
+# Last modified: 11 Nov 2022 09:23 UTC+7
+# Version: 2211110923
+# Blocked: 17.327 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9771,6 +9771,14 @@
 0 measure.ensighten.com
 0 nexus.ensighten.com
 0 scarf.ensighten.com
+0 adbot.adbottw.net
+0 adbottw.net
+0 ads.adbottw.net
+0 cell.adbottw.net
+0 cell1.adbottw.net
+0 search.adbottw.net
+0 vawpro.vm5apis.com
+0 vm5apis.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn

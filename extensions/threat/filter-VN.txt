@@ -1,12 +1,13 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 10 Nov 2022 22:17 UTC+7
-! Version: 2211102217
-! Blocked: 330 rules
+! Last modified: 11 Nov 2022 09:23 UTC+7
+! Version: 2211110923
+! Blocked: 331 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
 ||11tiki.com^
+||123hmdhjg2.dyndns.org^
 ||24-7-vidientu.com^
 ||24-7bank.com^
 ||247-banking.com^
