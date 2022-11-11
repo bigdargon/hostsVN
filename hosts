@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 11 Nov 2022 11:54 UTC+7
-# Version: 2211111154
+# Last modified: 11 Nov 2022 22:17 UTC+7
+# Version: 2211112217
 # Blocked: 17.194 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -12232,9 +12232,6 @@
 0.0.0.0 ezca.asia
 0.0.0.0 recommender.ezca.asia
 0.0.0.0 wss.ezca.asia
-#[ladipage.com]
-0.0.0.0 a.ladipage.com
-0.0.0.0 dns.ladipage.com
 #[genmonet.com]
 0.0.0.0 gcjs.genmonet.com
 0.0.0.0 genmonet.com
@@ -12548,6 +12545,7 @@
 0.0.0.0 xmadsapi.joboko.com
 # --- Block trackingVN ---
 0.0.0.0 360.anatic.net
+0.0.0.0 a.ladipage.com
 0.0.0.0 a.vtvdigital.vn
 0.0.0.0 addlog.thuvienphapluat.vn
 0.0.0.0 admin.phunusuckhoe.vn
@@ -14781,6 +14779,7 @@
 0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dnemkhkbsdbl.com
 0.0.0.0 dnhfi5nn2dt67.cloudfront.net
+0.0.0.0 dns.ladipage.com
 0.0.0.0 docksalmon.com
 0.0.0.0 doerscharre.com
 0.0.0.0 dogconcurrencesauce.com

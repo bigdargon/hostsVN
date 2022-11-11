@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 11 Nov 2022 11:54 UTC+7
-# Version: 2211111154
+# Last modified: 11 Nov 2022 22:17 UTC+7
+# Version: 2211112217
 # Blocked: 17.194 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -10851,8 +10851,6 @@
 0 ezca.asia
 0 recommender.ezca.asia
 0 wss.ezca.asia
-0 a.ladipage.com
-0 dns.ladipage.com
 0 gcjs.genmonet.com
 0 genmonet.com
 0 gl.genmonet.com
@@ -11150,6 +11148,7 @@
 0 xads.joboko.com
 0 xmadsapi.joboko.com
 0 360.anatic.net
+0 a.ladipage.com
 0 a.vtvdigital.vn
 0 addlog.thuvienphapluat.vn
 0 admin.phunusuckhoe.vn
@@ -13380,6 +13379,7 @@
 0 dn0qt3r0xannq.cloudfront.net
 0 dnemkhkbsdbl.com
 0 dnhfi5nn2dt67.cloudfront.net
+0 dns.ladipage.com
 0 docksalmon.com
 0 doerscharre.com
 0 dogconcurrencesauce.com
