@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Nov 2022 22:17 UTC+7
-# Version: 2211112217
-# Blocked: 1.766 domains
+# Last modified: 13 Nov 2022 15:40 UTC+7
+# Version: 2211131540
+# Blocked: 1.765 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -471,7 +471,6 @@
 0.0.0.0 480.zaloapp.ads.zdn.vn
 #[zdn.vn]
 0.0.0.0 stc-support-app-brand.zdn.vn
-0.0.0.0 za.zdn.vn
 0.0.0.0 zaloads-480.zdn.vn
 0.0.0.0 zplayer-trk.zdn.vn
 #[zapps.vn]
