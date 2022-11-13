@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Nov 2022 15:40 UTC+7
-# Version: 2211131540
-# Blocked: 17.193 domains
+# Last modified: 13 Nov 2022 17:45 UTC+7
+# Version: 2211131745
+# Blocked: 17.198 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8792,6 +8792,7 @@
 0 anythinktech.com
 0 api.anythinktech.com
 0 da.anythinktech.com
+0 datk.anythinktech.com
 0 img.anythinktech.com
 0 tk-sg.anythinktech.com
 0 tk.anythinktech.com
@@ -9503,7 +9504,6 @@
 0 auth.split.io
 0 cdn.split.io
 0 events.split.io
-0 sdk.split.io
 0 ads-cloud.rovio.com
 0 ads.cdn.rovio.com
 0 videoads-cloud.rovio.com
@@ -9711,6 +9711,13 @@
 0 search.adbottw.net
 0 vawpro.vm5apis.com
 0 vm5apis.com
+0 api.unibots.in
+0 cdn.unibots.in
+0 unibots.in
+0 vdo.unibots.in
+0 unibotscdn.com
+0 cdn.unibotscdn.com
+0 stream.unibotscdn.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10827,10 +10834,6 @@
 0 delivery1.lavamedia.vn
 0 lavamedia.vn
 0 pub.lavamedia.vn
-0 api.unibots.in
-0 cdn.unibots.in
-0 unibots.in
-0 vdo.unibots.in
 0 ads.botbanhang.vn
 0 chatbox-static.botbanhang.vn
 0 chatbox-tracking.botbanhang.vn
@@ -11098,6 +11101,7 @@
 0 s1.zzz.vn
 0 sbbanner.com
 0 sda.tamdiem247.com
+0 server.zmedia.vn
 0 serving-ad.tv24.vn
 0 sharks.vn
 0 shop.vnay.vn
@@ -16876,6 +16880,7 @@
 0 pixanalytics.pixnet.net
 0 pixanalytics2.pixnet.net
 0 pixel.condenastdigital.com
+0 pixel.gliacloud.com
 0 pixel.s3xified.com
 0 pixel.wp.com
 0 pixel.yabidos.com

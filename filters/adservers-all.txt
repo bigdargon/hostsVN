@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Nov 2022 15:40 UTC+7
-! Version: 2211131540
-! Blocked: 8.826 rules
+! Last modified: 13 Nov 2022 17:45 UTC+7
+! Version: 2211131745
+! Blocked: 8.828 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -257,7 +257,6 @@
 ||tracking2.vnncdn.net^
 ||tracking3.vnncdn.net^
 ||trk-pcweb.api.zaloapp.com^
-||unibots.in^
 ||urekamedia.com^
 ||v20.cnnd.vn^
 ||v9banners-com.cdn.ampproject.org^
@@ -1421,6 +1420,7 @@
 ||sbbanner.com^
 ||sda.tamdiem247.com^
 ||sentry-track.vietnamworks.com^
+||server.zmedia.vn^
 ||serving-ad.tv24.vn^
 ||sharks.vn^
 ||shop.vnay.vn^
@@ -2924,7 +2924,6 @@
 ||sdk-diagnostics.stg.mz.internal.unity3d.com^
 ||sdk.hansel.io^
 ||sdk.s.360.cn^
-||sdk.split.io^
 ||sdklog.tvstore.opera.com^
 ||seal.globalsign.com^
 ||securemetrics.apple.com^
@@ -3138,6 +3137,8 @@
 ||unblockia.com^
 ||underdog.media^
 ||undertone.com^
+||unibots.in^
+||unibotscdn.com^
 ||uniconsent.com^
 ||unid.go.com^
 ||union.ucweb.com^
@@ -7152,6 +7153,7 @@
 ||pixanalytics.pixnet.net^
 ||pixanalytics2.pixnet.net^
 ||pixel.condenastdigital.com^
+||pixel.gliacloud.com^
 ||pixel.leadzu.com^
 ||pixel.mediaiqdigital.com^
 ||pixel.personagraph.com^

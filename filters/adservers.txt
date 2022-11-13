@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Nov 2022 15:40 UTC+7
-! Version: 2211131540
+! Last modified: 13 Nov 2022 17:45 UTC+7
+! Version: 2211131745
 ! Blocked: 1.551 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -257,7 +257,6 @@
 ||tracking2.vnncdn.net^
 ||tracking3.vnncdn.net^
 ||trk-pcweb.api.zaloapp.com^
-||unibots.in^
 ||urekamedia.com^
 ||v20.cnnd.vn^
 ||v9banners-com.cdn.ampproject.org^
@@ -1421,6 +1420,7 @@
 ||sbbanner.com^
 ||sda.tamdiem247.com^
 ||sentry-track.vietnamworks.com^
+||server.zmedia.vn^
 ||serving-ad.tv24.vn^
 ||sharks.vn^
 ||shop.vnay.vn^

@@ -9758,6 +9758,7 @@
 0.0.0.0 anythinktech.com
 0.0.0.0 api.anythinktech.com
 0.0.0.0 da.anythinktech.com
+0.0.0.0 datk.anythinktech.com
 0.0.0.0 img.anythinktech.com
 0.0.0.0 tk-sg.anythinktech.com
 0.0.0.0 tk.anythinktech.com
@@ -10661,7 +10662,6 @@
 0.0.0.0 auth.split.io
 0.0.0.0 cdn.split.io
 0.0.0.0 events.split.io
-0.0.0.0 sdk.split.io
 #[rovio.com]
 0.0.0.0 ads-cloud.rovio.com
 0.0.0.0 ads.cdn.rovio.com
@@ -10931,3 +10931,12 @@
 #[vm5apis.com]
 0.0.0.0 vawpro.vm5apis.com
 0.0.0.0 vm5apis.com
+#[unibots.in]
+0.0.0.0 api.unibots.in
+0.0.0.0 cdn.unibots.in
+0.0.0.0 unibots.in
+0.0.0.0 vdo.unibots.in
+#[unibotscdn.com]
+0.0.0.0 unibotscdn.com
+0.0.0.0 cdn.unibotscdn.com
+0.0.0.0 stream.unibotscdn.com
