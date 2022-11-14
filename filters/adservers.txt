@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Nov 2022 17:45 UTC+7
-! Version: 2211131745
-! Blocked: 1.551 rules
+! Last modified: 14 Nov 2022 16:31 UTC+7
+! Version: 2211141631
+! Blocked: 1.552 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -585,6 +585,7 @@
 ||i99908.com^
 ||i9bet102.com^
 ||i9bet109.com^
+||i9bet111.com^
 ||i9bet444.com^
 ||i9bet5.com^
 ||ibet889.com^

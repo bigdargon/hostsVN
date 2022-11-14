@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Nov 2022 17:45 UTC+7
-# Version: 2211131745
-# Blocked: 17.198 domains
+# Last modified: 14 Nov 2022 16:31 UTC+7
+# Version: 2211141631
+# Blocked: 17.235 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10027,7 +10027,6 @@
 #[0i0i0i0.com]
 0.0.0.0 0i0i0i0.com
 0.0.0.0 u50.0i0i0i0.com
-0.0.0.0 www.0i0i0i0.com
 #[useinsider.com]
 0.0.0.0 log.api.useinsider.com
 0.0.0.0 mobile.useinsider.com
@@ -10952,6 +10951,46 @@
 0.0.0.0 unibotscdn.com
 0.0.0.0 cdn.unibotscdn.com
 0.0.0.0 stream.unibotscdn.com
+#[abtasty.com]
+0.0.0.0 abtasty.com
+0.0.0.0 try.abtasty.com
+#[hubvisor.io]
+0.0.0.0 hubvisor.io
+0.0.0.0 cdn.hubvisor.io
+#[data.adobedc.net]
+0.0.0.0 data.adobedc.net
+0.0.0.0 adobecorp.data.adobedc.net
+0.0.0.0 esdk.data.adobedc.net
+0.0.0.0 edge.adobedc.net
+#[marca.com]
+0.0.0.0 anapixel.marca.com
+0.0.0.0 pixelcounter.marca.com
+#[psg.nexstardigital.net]
+0.0.0.0 ccpa.psg.nexstardigital.net
+0.0.0.0 segment.psg.nexstardigital.net
+#[growthrx.in]
+0.0.0.0 growthrx.in
+0.0.0.0 static.growthrx.in
+#[indiatimes.com]
+0.0.0.0 ibeat.indiatimes.com
+0.0.0.0 mobileads.indiatimes.com
+0.0.0.0 slike.indiatimes.com
+#[survicate.com]
+0.0.0.0 api.survicate.com
+0.0.0.0 survey.survicate.com
+0.0.0.0 survicate.com
+#[azureedge.net]
+0.0.0.0 fp-cdn.azureedge.net
+0.0.0.0 g2insights-cdn.azureedge.net
+0.0.0.0 loader-cdn.azureedge.net
+#[condenastdigital.com]
+0.0.0.0 capture.condenastdigital.com
+0.0.0.0 event.condenastdigital.com
+0.0.0.0 infinityid.condenastdigital.com
+0.0.0.0 martech.condenastdigital.com
+0.0.0.0 pixel.condenastdigital.com
+0.0.0.0 rum.condenastdigital.com
+0.0.0.0 wren.condenastdigital.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13795,6 +13834,7 @@
 0.0.0.0 aistat.net
 0.0.0.0 ajfnee.com
 0.0.0.0 ajouter.net
+0.0.0.0 ak-ads-ns.prisasd.com
 0.0.0.0 ak0gsh40.com
 0.0.0.0 akmxts.com
 0.0.0.0 aktgw4u9z27l.com
@@ -15074,6 +15114,7 @@
 0.0.0.0 floodingonion.com
 0.0.0.0 floodprincipal.com
 0.0.0.0 floralrichardapprentice.com
+0.0.0.0 flowerstreatment.com
 0.0.0.0 flowgo.com
 0.0.0.0 fluffycodepotc.com
 0.0.0.0 fluffynyasquirell.com
@@ -18022,6 +18063,7 @@
 0.0.0.0 bi.yeshen.com
 0.0.0.0 bjdxhs.com
 0.0.0.0 bjhmt.com
+0.0.0.0 blue.thehill.com
 0.0.0.0 blueconic.net
 0.0.0.0 bugsense.com
 0.0.0.0 burstly.com
@@ -18029,7 +18071,6 @@
 0.0.0.0 c.riskified.com
 0.0.0.0 c2i-cdn.startappnetwork.com
 0.0.0.0 cankaowang.com
-0.0.0.0 capture.condenastdigital.com
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccgateway.net
@@ -18055,6 +18096,7 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector.megaxh.com
+0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 collector.sphgfgx.com
 0.0.0.0 collector.unsplash.com
 0.0.0.0 collector.xhamster.com
@@ -18070,6 +18112,7 @@
 0.0.0.0 crittercism.com
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 csdian.net
+0.0.0.0 czx5eyk0exbhwp43ya.biz
 0.0.0.0 d.email.forbes.com
 0.0.0.0 d19ptbnuzhibkh.cloudfront.net
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
@@ -18106,11 +18149,11 @@
 0.0.0.0 down.nishuoa.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 dynatrace.com
+0.0.0.0 dyv1bugovvq1g.cloudfront.net
 0.0.0.0 e.viously.com
 0.0.0.0 e2.platform88798.com
 0.0.0.0 emltrk.com
 0.0.0.0 ethtrader.de
-0.0.0.0 event.condenastdigital.com
 0.0.0.0 event.stat.wedobest.com.cn
 0.0.0.0 event.wedobest.com.cn
 0.0.0.0 events.apester.com
@@ -18174,7 +18217,6 @@
 0.0.0.0 in.treasuredata.com
 0.0.0.0 incoming-telemetry.thunderbird.net
 0.0.0.0 incoming.telemetry.mozilla.org
-0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 inside-graph.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 invitejs.trustpilot.com
@@ -18198,6 +18240,7 @@
 0.0.0.0 lfeeder.com
 0.0.0.0 lgglobal.ihago.net
 0.0.0.0 litix.io
+0.0.0.0 lngtd.com
 0.0.0.0 log-eap-sg.coloros.com
 0.0.0.0 log-upload-eur.mihoyo.com
 0.0.0.0 log-upload-os.mihoyo.com
@@ -18281,7 +18324,6 @@
 0.0.0.0 pix.pub
 0.0.0.0 pixanalytics.pixnet.net
 0.0.0.0 pixanalytics2.pixnet.net
-0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.gliacloud.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.wp.com
@@ -18289,6 +18331,7 @@
 0.0.0.0 pixels.truvidplayer.com
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 pjhku.com
+0.0.0.0 platform.iteratehq.com
 0.0.0.0 plausible.io
 0.0.0.0 play.leadzutw.com
 0.0.0.0 playtomic.com
@@ -18302,6 +18345,7 @@
 0.0.0.0 pv.medialead.de
 0.0.0.0 pv.pjtsu.com
 0.0.0.0 pv.sohu.com
+0.0.0.0 pxlctl.elpais.com
 0.0.0.0 pymx5.com
 0.0.0.0 q.quora.com
 0.0.0.0 q2melbourne.com
@@ -18338,6 +18382,7 @@
 0.0.0.0 rum.uptime.com
 0.0.0.0 s.iaudienc.com
 0.0.0.0 s.infogram.com
+0.0.0.0 s.media-imdb.com
 0.0.0.0 s.ntv.io
 0.0.0.0 s.yjtag.jp
 0.0.0.0 s3-analytics-events.easybrain.com
@@ -18419,6 +18464,7 @@
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagmanager.alright.network
 0.0.0.0 tamgrt.com
+0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 tdf.ringier.ch
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
@@ -18431,6 +18477,7 @@
 0.0.0.0 theirsvendor.com
 0.0.0.0 thoosje.com
 0.0.0.0 thrtle.com
+0.0.0.0 tilanalytics.timesinternet.in
 0.0.0.0 tms.fmm.io
 0.0.0.0 to.getnitropack.com
 0.0.0.0 tobapplog.ctobsnssdk.com
@@ -18488,6 +18535,7 @@
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 uciservice.com
+0.0.0.0 uie.data.cbc.ca
 0.0.0.0 ultimedia.com
 0.0.0.0 umeng.co
 0.0.0.0 unicaitaly.it
@@ -18520,7 +18568,6 @@
 0.0.0.0 widget.manychat.com
 0.0.0.0 wieistmeineip.de
 0.0.0.0 worldgravity.com
-0.0.0.0 wren.condenastdigital.com
 0.0.0.0 wt.soundestlink.com
 0.0.0.0 wurfl.io
 0.0.0.0 www.asadcdn.com

@@ -10015,7 +10015,6 @@
 #[0i0i0i0.com]
 0.0.0.0 0i0i0i0.com
 0.0.0.0 u50.0i0i0i0.com
-0.0.0.0 www.0i0i0i0.com
 #[useinsider.com]
 0.0.0.0 log.api.useinsider.com
 0.0.0.0 mobile.useinsider.com
@@ -10940,3 +10939,43 @@
 0.0.0.0 unibotscdn.com
 0.0.0.0 cdn.unibotscdn.com
 0.0.0.0 stream.unibotscdn.com
+#[abtasty.com]
+0.0.0.0 abtasty.com
+0.0.0.0 try.abtasty.com
+#[hubvisor.io]
+0.0.0.0 hubvisor.io
+0.0.0.0 cdn.hubvisor.io
+#[data.adobedc.net]
+0.0.0.0 data.adobedc.net
+0.0.0.0 adobecorp.data.adobedc.net
+0.0.0.0 esdk.data.adobedc.net
+0.0.0.0 edge.adobedc.net
+#[marca.com]
+0.0.0.0 anapixel.marca.com
+0.0.0.0 pixelcounter.marca.com
+#[psg.nexstardigital.net]
+0.0.0.0 ccpa.psg.nexstardigital.net
+0.0.0.0 segment.psg.nexstardigital.net
+#[growthrx.in]
+0.0.0.0 growthrx.in
+0.0.0.0 static.growthrx.in
+#[indiatimes.com]
+0.0.0.0 ibeat.indiatimes.com
+0.0.0.0 mobileads.indiatimes.com
+0.0.0.0 slike.indiatimes.com
+#[survicate.com]
+0.0.0.0 api.survicate.com
+0.0.0.0 survey.survicate.com
+0.0.0.0 survicate.com
+#[azureedge.net]
+0.0.0.0 fp-cdn.azureedge.net
+0.0.0.0 g2insights-cdn.azureedge.net
+0.0.0.0 loader-cdn.azureedge.net
+#[condenastdigital.com]
+0.0.0.0 capture.condenastdigital.com
+0.0.0.0 event.condenastdigital.com
+0.0.0.0 infinityid.condenastdigital.com
+0.0.0.0 martech.condenastdigital.com
+0.0.0.0 pixel.condenastdigital.com
+0.0.0.0 rum.condenastdigital.com
+0.0.0.0 wren.condenastdigital.com

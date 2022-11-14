@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Nov 2022 17:45 UTC+7
-! Version: 2211131745
-! Blocked: 8.828 rules
+! Last modified: 14 Nov 2022 16:31 UTC+7
+! Version: 2211141631
+! Blocked: 8.860 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -585,6 +585,7 @@
 ||i99908.com^
 ||i9bet102.com^
 ||i9bet109.com^
+||i9bet111.com^
 ||i9bet444.com^
 ||i9bet5.com^
 ||ibet889.com^
@@ -1592,6 +1593,7 @@
 ||aatkit.com^
 ||aax-us-east-retail-direct.amazon.com^
 ||aaxads.com^
+||abtasty.com^
 ||accengage.com^
 ||accesstrade.net^
 ||act.ds.kakao.com^
@@ -1907,6 +1909,7 @@
 ||analytics.unity3d.com^
 ||analytics.yahoo.com^
 ||analyticsnew.overwolf.com^
+||anapixel.marca.com^
 ||andbeyond.media^
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
@@ -2091,6 +2094,7 @@
 ||caclick.baidu.com^
 ||call.inforsea.com^
 ||campaign.adobe.com^
+||capture.condenastdigital.com^
 ||carbonads.com^
 ||casalemedia.com^
 ||cbsileads.com^
@@ -2099,6 +2103,7 @@
 ||cc.sys.miui.com^
 ||ccc.sys.intl.xiaomi.com^
 ||ccc.sys.miui.com^
+||ccpa.psg.nexstardigital.net^
 ||cdn-eu.dynamicyield.com^
 ||cdn-pci.optimizely.com^
 ||cdn.avantisvideo.com^
@@ -2217,6 +2222,7 @@
 ||d5nxst8fruw4z.cloudfront.net^
 ||dashboard.tinypass.com^
 ||data-optout-service.uca.cloud.unity3d.com^
+||data.adobedc.net^
 ||data.mistat.intl.xiaomi.com^
 ||data.sec.intl.miui.com^
 ||data.sec.miui.com^
@@ -2273,6 +2279,7 @@
 ||e.qq.com^
 ||easyads28.info^
 ||eclick.baidu.com^
+||edge.adobedc.net^
 ||effectivemeasure.net^
 ||ej1*.online^
 ||em.dynamicyield.com^
@@ -2292,6 +2299,7 @@
 ||eu-1-id5-sync.com^
 ||eve.mdt.qq.com^
 ||event-stream.spot.im^
+||event.condenastdigital.com^
 ||eventgateway.soundcloud.com^
 ||eventlogger.soundcloud.com^
 ||eventreg.sphdigital.com^
@@ -2345,6 +2353,7 @@
 ||fouanalytics.com^
 ||fourier.taobao.com^
 ||fout.jp^
+||fp-cdn.azureedge.net^
 ||fqtag.com^
 ||freeskreen.com^
 ||freshmarketer.com^
@@ -2353,6 +2362,7 @@
 ||fwmrm.net^
 ||fyber.com^
 ||g.s.360.cn^
+||g2insights-cdn.azureedge.net^
 ||gads*s.com^
 ||gads*z.com^
 ||galaxiemedia.fr^
@@ -2392,6 +2402,7 @@
 ||gop1.co^
 ||goraps.com^
 ||growingio.com^
+||growthrx.in^
 ||gsp1.baidu.com^
 ||gsspat.jp^
 ||gssprt.jp^
@@ -2429,6 +2440,7 @@
 ||hs-scripts.com^
 ||hs.eloqua.com^
 ||hsadspixel.net^
+||hubvisor.io^
 ||huerty.site^
 ||hummingbird.mavencoalition.io^
 ||hwstats.unity3d.com^
@@ -2442,6 +2454,7 @@
 ||iad-08.braze.com^
 ||iad.apple.com^
 ||iadsdk.apple.com^
+||ibeat.indiatimes.com^
 ||ibillboard.com^
 ||id5-sync.com^
 ||idealmedia.io^
@@ -2459,6 +2472,7 @@
 ||indexexchange.com^
 ||indexww.com^
 ||indoleads.com^
+||infinityid.condenastdigital.com^
 ||infolinks.com^
 ||informer.yandex.ru^
 ||ingage.tech^
@@ -2539,6 +2553,7 @@
 ||linksynergy.com^
 ||livetracker.*.pangea-cms.com^
 ||lkqd.net^
+||loader-cdn.azureedge.net^
 ||localytics.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.go.com^
@@ -2585,6 +2600,7 @@
 ||marketo.com^
 ||marketolive.com^
 ||marphezis.com^
+||martech.condenastdigital.com^
 ||mathtag.com^
 ||mathtag.com.edgekey.net^
 ||matomo.cloud^
@@ -2649,6 +2665,7 @@
 ||mobfox.com^
 ||mobile-10.com^
 ||mobile-collector.newrelic.com^
+||mobileads.indiatimes.com^
 ||mobileads.msn.com^
 ||mobileanalytics.*.amazonaws.com^
 ||mobileapptracking.com^
@@ -2770,10 +2787,12 @@
 ||pix.spot.im^
 ||pixanalytics.com^
 ||pixel-static.spotify.com^
+||pixel.condenastdigital.com^
 ||pixel.facebook.com^
 ||pixel.inforsea.com^
 ||pixel.spotify.com^
 ||pixelappcollector.thesun.co.uk^
+||pixelcounter.marca.com^
 ||platform.tumblr.com^
 ||playstream.media^
 ||pmddby.com^
@@ -2899,6 +2918,7 @@
 ||rtpdn15.com^
 ||rubiconproject.com^
 ||rudderlabs.com^
+||rum.condenastdigital.com^
 ||run-syndicate.com^
 ||runative-syndicate.com^
 ||runative.com^
@@ -2929,6 +2949,7 @@
 ||securemetrics.apple.com^
 ||segment.com^
 ||segment.io^
+||segment.psg.nexstardigital.net^
 ||selectmedia.asia^
 ||sensic.net^
 ||servebom.com^
@@ -2956,6 +2977,7 @@
 ||sitescout.com^
 ||siteswithcontent.com^
 ||sjarvis.taobao.com^
+||slike.indiatimes.com^
 ||smaato.com^
 ||smaato.net^
 ||smac-ad.com^
@@ -3025,6 +3047,7 @@
 ||supersonicads-a.akamaihd.net^
 ||supersonicads.com^
 ||supportmetrics.apple.com^
+||survicate.com^
 ||sw88.espn.com^
 ||sw88.go.com^
 ||switchadhub.com^
@@ -3216,6 +3239,7 @@
 ||wowreality.info^
 ||wps.relateddigital.com^
 ||wpu.sh^
+||wren.condenastdigital.com^
 ||wsod.com^
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
@@ -4203,6 +4227,7 @@
 ||aistat.net^
 ||ajfnee.com^
 ||ajouter.net^
+||ak-ads-ns.prisasd.com^
 ||ak0gsh40.com^
 ||akmxts.com^
 ||aktgw4u9z27l.com^
@@ -4704,6 +4729,7 @@
 ||blogtoplist.se^
 ||blogtopsites.com^
 ||bluadz.com^
+||blue.thehill.com^
 ||blueadvertise.com^
 ||bluecava.com^
 ||blueconic.net^
@@ -4830,7 +4856,6 @@
 ||capablecows.com^
 ||captainbicycle.com^
 ||captify.co.uk^
-||capture.condenastdigital.com^
 ||carabidshooter.com^
 ||carambo.la^
 ||carbonads.net^
@@ -5040,6 +5065,7 @@
 ||collector.githubapp.com^
 ||collector.leaddyno.com^
 ||collector.megaxh.com^
+||collector.pi.spectrum.net^
 ||collector.sphgfgx.com^
 ||collector.unsplash.com^
 ||collector.xhamster.com^
@@ -5180,6 +5206,7 @@
 ||cyberbounty.com^
 ||cybermonitor.com^
 ||cynicaugural.com^
+||czx5eyk0exbhwp43ya.biz^
 ||d.appsdt.com^
 ||d.email.forbes.com^
 ||d11enq2rymy0yl.cloudfront.net^
@@ -5426,6 +5453,7 @@
 ||dynamicadx.com^
 ||dynatrace.com^
 ||dyntrk.com^
+||dyv1bugovvq1g.cloudfront.net^
 ||dzienkudrow.com^
 ||e-bannerx.com^
 ||e-m.fr^
@@ -5564,7 +5592,6 @@
 ||euroranking.de^
 ||euros4click.de^
 ||eusta.de^
-||event.condenastdigital.com^
 ||event.stat.wedobest.com.cn^
 ||event.wedobest.com.cn^
 ||events.apester.com^
@@ -5694,6 +5721,7 @@
 ||floodingonion.com^
 ||floodprincipal.com^
 ||floralrichardapprentice.com^
+||flowerstreatment.com^
 ||flowgo.com^
 ||fluffycodepotc.com^
 ||fluffynyasquirell.com^
@@ -6117,7 +6145,6 @@
 ||inetlog.ru^
 ||infinite-ads.com^
 ||infinityads.com^
-||infinityid.condenastdigital.com^
 ||infopicked.com^
 ||information.com^
 ||ingameads.gameloft.com^
@@ -6415,6 +6442,7 @@
 ||livezombymil.com^
 ||lizardslaugh.com^
 ||llink.site^
+||lngtd.com^
 ||lo8ve6ygour3pea4cee.com^
 ||loading321.com^
 ||loadsfalladz.casa^
@@ -7152,7 +7180,6 @@
 ||pix.pub^
 ||pixanalytics.pixnet.net^
 ||pixanalytics2.pixnet.net^
-||pixel.condenastdigital.com^
 ||pixel.gliacloud.com^
 ||pixel.leadzu.com^
 ||pixel.mediaiqdigital.com^
@@ -7172,6 +7199,7 @@
 ||plaicecaught.com^
 ||planetactive.com^
 ||plantationthrillednoncommittal.com^
+||platform.iteratehq.com^
 ||plausible.io^
 ||play.leadzu.com^
 ||play.leadzutw.com^
@@ -7344,6 +7372,7 @@
 ||pvobumsfxacarh.com^
 ||pwieu.com^
 ||pwmctl.com^
+||pxlctl.elpais.com^
 ||pymx5.com^
 ||pzhuzlwjiymfos.com^
 ||q.azcentral.com^
@@ -7595,6 +7624,7 @@
 ||ryeqnyvbncdvg.com^
 ||s.iaudienc.com^
 ||s.infogram.com^
+||s.media-imdb.com^
 ||s.ntv.io^
 ||s.yjtag.jp^
 ||s2d6.com^
@@ -8060,6 +8090,7 @@
 ||tappx.com^
 ||tapsense.com^
 ||targad.de^
+||targeting.washpost.nile.works^
 ||targetingnow.com^
 ||targetnet.com^
 ||targetpoint.com^
@@ -8155,6 +8186,7 @@
 ||tibacta.com^
 ||ticklesign.com^
 ||tidaltv.com^
+||tilanalytics.timesinternet.in^
 ||tinybar.com^
 ||tipcatscarola.com^
 ||tithewtog.com^
@@ -8376,6 +8408,7 @@
 ||uejwqbgtjxdw.com^
 ||ueypzubwo.com^
 ||uge521.com^
+||uie.data.cbc.ca^
 ||uitopadxdy.com^
 ||ukbanners.com^
 ||ukslphcgs.com^
@@ -8673,7 +8706,6 @@
 ||wowshortvideos.com^
 ||wpnrtnmrewunrtok.xyz^
 ||wrapper.lemde.fr^
-||wren.condenastdigital.com^
 ||wryfinger.com^
 ||wt-eu02.net^
 ||wt.soundestlink.com^

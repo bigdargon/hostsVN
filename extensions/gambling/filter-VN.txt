@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 11 Nov 2022 11:53 UTC+7
-! Version: 2211111153
-! Blocked: 3.636 rules
+! Last modified: 14 Nov 2022 16:31 UTC+7
+! Version: 2211141631
+! Blocked: 3.637 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -828,6 +828,7 @@
 ||i99908.com^
 ||i9bet102.com^
 ||i9bet109.com^
+||i9bet111.com^
 ||i9bet444.com^
 ||i9bet5.com^
 ||i9bet6.com^
