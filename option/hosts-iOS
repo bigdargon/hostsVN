@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 Nov 2022 09:20 UTC+7
-# Version: 2211160920
-# Blocked: 17.243 domains
+# Last modified: 16 Nov 2022 15:23 UTC+7
+# Version: 2211161523
+# Blocked: 17.248 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9451,8 +9451,6 @@
 0 s.beop.io
 0 t.beop.io
 0 widget.beop.io
-0 dcf.espn.com
-0 sw88.espn.com
 0 adsmanager.ga
 0 view.adsmanager.ga
 0 cdn.crowdtwist.com
@@ -9487,10 +9485,16 @@
 0 v16-ad.byteoversea.com
 0 builder.lift.acquia.com
 0 lift.acquia.com
+0 cdn11763314.ahacdn.me
 0 cdn12359286.ahacdn.me
+0 cdn18685953.ahacdn.me
 0 cdn28786515.ahacdn.me
+0 cdn38871181.ahacdn.me
 0 cdn44221613.ahacdn.me
+0 cdn61962044.ahacdn.me
+0 cdn62004373.ahacdn.me
 0 cdn65182383.ahacdn.me
+0 cdn70555962.ahacdn.me
 0 cdn81910013.ahacdn.me
 0 config.sensic.net
 0 sensic.net
@@ -9528,7 +9532,6 @@
 0 at.cbsi.com
 0 intent.cbsi.com
 0 om.cbsi.com
-0 production-cmp.isgprivacy.cbsi.com
 0 ads.play.cbsi.video
 0 doppler-reporting.cbsivideo.com
 0 ads.hulu.com
@@ -9747,6 +9750,8 @@
 0 pixel.condenastdigital.com
 0 rum.condenastdigital.com
 0 wren.condenastdigital.com
+0 ab1n.net
+0 tk6if76q.ab1n.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -11912,6 +11917,7 @@
 0 ads.avct.cloud
 0 ads.avocet.io
 0 ads.betfair.com
+0 ads.bid
 0 ads.bigchurch.com
 0 ads.bigfoot.com
 0 ads.bitesms.com
@@ -15857,7 +15863,6 @@
 0 tithewtog.com
 0 tiwhaiph.net
 0 tizers.net
-0 tk6if76q.ab1n.net
 0 tkickhhylnvm.com
 0 tlvmedia.com
 0 tm-banners.gamingadult.com

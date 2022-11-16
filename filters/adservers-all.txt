@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Nov 2022 09:20 UTC+7
-! Version: 2211160920
-! Blocked: 8.869 rules
+! Last modified: 16 Nov 2022 15:23 UTC+7
+! Version: 2211161523
+! Blocked: 8.873 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1594,6 +1594,7 @@
 ||aatkit.com^
 ||aax-us-east-retail-direct.amazon.com^
 ||aaxads.com^
+||ab1n.net^
 ||abtasty.com^
 ||accengage.com^
 ||accesstrade.net^
@@ -2113,11 +2114,17 @@
 ||cdn.optimizely.com^
 ||cdn.split.io^
 ||cdn.tinypass.com^
+||cdn11763314.ahacdn.me^
 ||cdn12359286.ahacdn.me^
+||cdn18685953.ahacdn.me^
 ||cdn28786515.ahacdn.me^
 ||cdn3.optimizely.com^
+||cdn38871181.ahacdn.me^
 ||cdn44221613.ahacdn.me^
+||cdn61962044.ahacdn.me^
+||cdn62004373.ahacdn.me^
 ||cdn65182383.ahacdn.me^
+||cdn70555962.ahacdn.me^
 ||cdn81910013.ahacdn.me^
 ||cdnads.com^
 ||cdnativepush.com^
@@ -2229,7 +2236,6 @@
 ||data.sec.miui.com^
 ||datacollector-dra.dt.hicloud.com^
 ||datawrkz.com^
-||dcf.espn.com^
 ||deepintent.com^
 ||deltadna.net^
 ||demandbase.com^
@@ -2823,7 +2829,6 @@
 ||prod.cm.publishers.advertising.a2z.com^
 ||prod.pr.analytics.console.aws.a2z.com^
 ||prod.pw.analytics.console.aws.a2z.com^
-||production-cmp.isgprivacy.cbsi.com^
 ||promo-*.vercel.app^
 ||promoted.soundcloud.com^
 ||promotionalads.yahoo.co.jp^
@@ -3049,7 +3054,6 @@
 ||supersonicads.com^
 ||supportmetrics.apple.com^
 ||survicate.com^
-||sw88.espn.com^
 ||sw88.go.com^
 ||switchadhub.com^
 ||sworkitads.herokuapp.com^
@@ -3714,6 +3718,7 @@
 ||ads.avct.cloud^
 ||ads.avocet.io^
 ||ads.betfair.com^
+||ads.bid^
 ||ads.bigchurch.com^
 ||ads.bigfoot.com^
 ||ads.bitesms.com^
@@ -8200,7 +8205,6 @@
 ||tithewtog.com^
 ||tiwhaiph.net^
 ||tizers.net^
-||tk6if76q.ab1n.net^
 ||tkickhhylnvm.com^
 ||tlvmedia.com^
 ||tm-banners.gamingadult.com^
