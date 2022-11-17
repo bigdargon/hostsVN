@@ -54,7 +54,7 @@ cat source/exceptions.txt | grep -v '!' | awk '{print $1}' >> tmp/exceptions.tmp
 cat tmp/adservers.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-rule.tmp
 cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-all-rule.tmp
 cat tmp/exceptions.tmp | awk '{print "@@||"$1"^|"}' >> tmp/adservers-all-rule.tmp
-cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adservers-config.tmp
+cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adservers-surge.tmp
 
 echo "Creating wildcard file..."
 # create wildcard file
@@ -86,12 +86,12 @@ cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk 
 echo "Creating config file..."
 # create config
 sed -e "s/_time_stamp_/$TIME_STAMP/g" tmp/title-config-quantumultX.txt > option/hostsVN-quantumultX.conf
+cat tmp/title-config-surge.tmp tmp/adservers-surge.tmp > option/hostsVN-surge.conf
 
 echo "Adding to file..."
 # add to files
 cat tmp/title-adserver.tmp tmp/adservers-rule.tmp > filters/adservers.txt
 cat tmp/title-adserver-all.tmp tmp/adservers-all-rule.tmp > filters/adservers-all.txt
-cat tmp/title-config-surge.tmp tmp/adservers-config.tmp > option/hostsVN.conf
 
 echo "Creating block OTA file..."
 cat source/OTA.txt | grep -v '!' | awk '{print "HOST-SUFFIX,"$1",REJECT"}' > option/hostsVN-quantumult-OTA.conf

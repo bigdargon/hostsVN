@@ -7,8 +7,7 @@ no-system
 doh-server=https://dns.nextdns.io
 server=8.8.8.8
 server=1.1.1.1
-server=45.90.28.0
-server=45.90.30.0
+server=9.9.9.11
 
 [policy]
 
