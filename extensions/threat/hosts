@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 16 Nov 2022 15:22 UTC+7
-# Version: 2211161522
-# Blocked: 526 domains
+# Last modified: 17 Nov 2022 10:57 UTC+7
+# Version: 2211171057
+# Blocked: 609 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -22,18 +22,21 @@
 0.0.0.0 247vi-bank.com
 0.0.0.0 333lotte.com
 0.0.0.0 33lotte.com
+0.0.0.0 456vdghgj30.dyndns.org
 0.0.0.0 50gb034.xyz
 0.0.0.0 555lotte.com
 0.0.0.0 55lotte.com
 0.0.0.0 588589.com
 0.0.0.0 666lotte.com
 0.0.0.0 66lotte.com
+0.0.0.0 76236osm1.ru
 0.0.0.0 888lotte.com
 0.0.0.0 88lotte.com
 0.0.0.0 999lotte.com
 0.0.0.0 99lotte.com
 0.0.0.0 Free-4paid.com
 0.0.0.0 abc-vay.com
+0.0.0.0 abutparker.com
 0.0.0.0 acb.vn-banks.xyz
 0.0.0.0 acb.vn-c.xyz
 0.0.0.0 acb.vn-ol.top
@@ -67,6 +70,7 @@
 0.0.0.0 aryancrack.com
 0.0.0.0 ateofakist.cfd
 0.0.0.0 atomictrivia.ru
+0.0.0.0 atspace.tv
 0.0.0.0 bagas3-1.com
 0.0.0.0 banking24hsingapore.weebly.com
 0.0.0.0 banktopvn.online
@@ -77,11 +81,16 @@
 0.0.0.0 bgtib222.com
 0.0.0.0 bidv-transfermoney.weebly.com
 0.0.0.0 bidvsmartbanking2.ihappy.info
+0.0.0.0 bloodleian.club
+0.0.0.0 bluvenie.com
 0.0.0.0 bm1717.com
 0.0.0.0 bm3536.com
 0.0.0.0 butvelocities.cfd
 0.0.0.0 byasdebrisfie.cfd
+0.0.0.0 campxanh.info
 0.0.0.0 casneon.com
+0.0.0.0 celerantatters.com
+0.0.0.0 cettiarl.com
 0.0.0.0 checkaccff.com
 0.0.0.0 chuyendoitienquote-nhantien24h.weebly.com
 0.0.0.0 clmm.nl
@@ -94,14 +103,18 @@
 0.0.0.0 cloud27.xyz
 0.0.0.0 cltx888.me
 0.0.0.0 clubfiletyc.com
+0.0.0.0 code-garena-vn.com
+0.0.0.0 code-lienquan-vn.com
 0.0.0.0 com.vn-hc.info
 0.0.0.0 com.vn-sp.top
 0.0.0.0 com.vn-ub.info
+0.0.0.0 comptrffc.com
 0.0.0.0 condandthi.cfd
 0.0.0.0 congdientu247.com
 0.0.0.0 congtacvienonline.vn
 0.0.0.0 congthongtinvidientu.com
 0.0.0.0 coonnfirrmm-bankingg247njf.weebly.com
+0.0.0.0 cpa-tc.com
 0.0.0.0 crackedlink.com
 0.0.0.0 crackedpcs.com
 0.0.0.0 crackedsofts.info
@@ -118,6 +131,7 @@
 0.0.0.0 dcommerc.cfd
 0.0.0.0 deepprostore.com
 0.0.0.0 demo.sc0mvn.com
+0.0.0.0 dendrito.name
 0.0.0.0 dg2255.com
 0.0.0.0 dichvu-chuyentien24h.000webhostapp.com
 0.0.0.0 dichvunhantienquocte2-4-7.weebly.com
@@ -135,7 +149,9 @@
 0.0.0.0 do005.com
 0.0.0.0 domainxnewma.com
 0.0.0.0 drake4.xyz
+0.0.0.0 drakeesh.com
 0.0.0.0 dvdienmayxanh.com
+0.0.0.0 easywbdesign.com
 0.0.0.0 easywebmanager.nl
 0.0.0.0 ebank.hlug1k.com
 0.0.0.0 ebank.wmxba.com
@@ -149,16 +165,40 @@
 0.0.0.0 emodernst.cfd
 0.0.0.0 entbymo.cfd
 0.0.0.0 ergyfrommo.cfd
+0.0.0.0 essbritanidim.club
+0.0.0.0 eventlqvn.com
 0.0.0.0 fccomvn.com
+0.0.0.0 ff-member-ganena.com
+0.0.0.0 ff-member-gazeza.com
+0.0.0.0 ff-members-garena.vn
+0.0.0.0 ff-membership-garena.com
+0.0.0.0 ff-membersship-garrena.com
+0.0.0.0 ff-memnber-garena.com
+0.0.0.0 ff-menber-garena.vn
+0.0.0.0 ff.member.garenae.vn
 0.0.0.0 fhdd8431.com
 0.0.0.0 file-store2.xyz
 0.0.0.0 file-store4.xyz
 0.0.0.0 findprizesplace.life
 0.0.0.0 fmagnitude.cfd
+0.0.0.0 fmiphone-apple.com
+0.0.0.0 fortt-rade.com
 0.0.0.0 free.sc0mvn.com
+0.0.0.0 freefire-membershipvn-garena.com
 0.0.0.0 freepccrack.com
+0.0.0.0 frionene.xyz
 0.0.0.0 fullcrack4u.com
 0.0.0.0 fullcrackedz.com
+0.0.0.0 gaerena.vn
+0.0.0.0 garaena.vn
+0.0.0.0 garane.vn
+0.0.0.0 garean.vn
+0.0.0.0 gareena.vn
+0.0.0.0 garena-members.com
+0.0.0.0 garena.fan
+0.0.0.0 garena.mobi
+0.0.0.0 garenaa.vn
+0.0.0.0 garenaj.vn
 0.0.0.0 garenalqm.com
 0.0.0.0 garenamembership.com
 0.0.0.0 getclipabcxyz.com
@@ -167,6 +207,8 @@
 0.0.0.0 getwindowsactivator.info
 0.0.0.0 giaodichtiente247ipay.weebly.com
 0.0.0.0 giaodichvidientu.com.vn
+0.0.0.0 giftcode-lienquanmobile-vn.com
+0.0.0.0 giftcode-mobilelienquan.com
 0.0.0.0 go888.me
 0.0.0.0 goshopback.vip
 0.0.0.0 goshopbackvip.vip
@@ -178,6 +220,7 @@
 0.0.0.0 hotbuckers.com
 0.0.0.0 hotline-dienmayxanh.com
 0.0.0.0 hthecrown.cfd
+0.0.0.0 https-apple.com
 0.0.0.0 https-icloud.com
 0.0.0.0 hzmksreiuojy.ru
 0.0.0.0 ibankingdigital.com
@@ -186,10 +229,12 @@
 0.0.0.0 idmfullcrack.info
 0.0.0.0 iesandb.cfd
 0.0.0.0 ihgatms.cfd
+0.0.0.0 important-notices.com
 0.0.0.0 indush.cfd
 0.0.0.0 inet-ebank.com
 0.0.0.0 ionthatco.cfd
 0.0.0.0 ionvictoriesin.cfd
+0.0.0.0 irduwhojas.ga
 0.0.0.0 iruiotish.cfd
 0.0.0.0 isacambank.com
 0.0.0.0 isacembank.com
@@ -200,6 +245,7 @@
 0.0.0.0 jaccsn.com
 0.0.0.0 jaccsvn.com
 0.0.0.0 jaccsz.com
+0.0.0.0 kaurroot.com
 0.0.0.0 keygenwin.com
 0.0.0.0 khuyenmaivangonline.club
 0.0.0.0 khuyenmaivimomo.weebly.com
@@ -209,7 +255,9 @@
 0.0.0.0 kirov1.xyz
 0.0.0.0 kuyhaa-me.pw
 0.0.0.0 la533.com
+0.0.0.0 ladsblue.com
 0.0.0.0 largerinscale.cfd
+0.0.0.0 larpollicwilli.club
 0.0.0.0 lazada12.net
 0.0.0.0 lazada13.net
 0.0.0.0 lazada14.net
@@ -220,14 +268,19 @@
 0.0.0.0 lditsdebriisar.cfd
 0.0.0.0 ldp.page
 0.0.0.0 lg777.club
+0.0.0.0 lib1.biz
 0.0.0.0 lienketkiemtien.weebly.com
 0.0.0.0 lienkettaikhoan.com
 0.0.0.0 lienketvidientu.com
+0.0.0.0 lienquan-garena-giftcode.com
+0.0.0.0 lienquanmobilequatang.com
 0.0.0.0 lienvietbank.vn-vp.xyz
 0.0.0.0 link8x.xyz
 0.0.0.0 linshopee.com
+0.0.0.0 live-icloud.com
 0.0.0.0 llappa.top
 0.0.0.0 llzd2.com
+0.0.0.0 lmht-membership.com
 0.0.0.0 lotte333.com
 0.0.0.0 lotte3333.com
 0.0.0.0 lotte66.com
@@ -240,9 +293,14 @@
 0.0.0.0 low-lyingwh.cfd
 0.0.0.0 mayyadc.cfd
 0.0.0.0 meetamate.site
+0.0.0.0 member-gaarena.com
+0.0.0.0 memberr-garenaa.com
+0.0.0.0 membershipsgarenavn-ff.com
+0.0.0.0 menberships-ff-garrena.com
 0.0.0.0 menhichs.cfd
 0.0.0.0 mershadclo.cfd
 0.0.0.0 micronsofte-online.com
+0.0.0.0 miniast.com
 0.0.0.0 modifiedseem.com
 0.0.0.0 momoloto.com
 0.0.0.0 momosieuhoihoantien.weebly.com
@@ -256,6 +314,7 @@
 0.0.0.0 mucvinganhangso247.com
 0.0.0.0 mycrackfree.com
 0.0.0.0 mylotte.me
+0.0.0.0 mysp.ac
 0.0.0.0 nalhajarm.cfd
 0.0.0.0 naptheffx2.com
 0.0.0.0 new-vietcombank.com
@@ -264,6 +323,7 @@
 0.0.0.0 nganhangtructuyen24h.com
 0.0.0.0 nguyenkim.co
 0.0.0.0 nhan-tienvidientu247.com
+0.0.0.0 nhanquaffob31.com
 0.0.0.0 nhantien120s-ollbankingz.weebly.com
 0.0.0.0 nhantienquocte249.weebly.com
 0.0.0.0 nhantienquocte275.weebly.com
@@ -278,6 +338,7 @@
 0.0.0.0 online.acbvnx.com
 0.0.0.0 onzeage.cfd
 0.0.0.0 ordsexecutiv.cfd
+0.0.0.0 org-secured.com
 0.0.0.0 oughtme.cfd
 0.0.0.0 oundandk.cfd
 0.0.0.0 oylg7.com
@@ -292,6 +353,7 @@
 0.0.0.0 prolicensekeys.com
 0.0.0.0 psestwotothr.cfd
 0.0.0.0 pvpti222.com
+0.0.0.0 qualienquan.vn
 0.0.0.0 quaythuonggarena.com
 0.0.0.0 quezachieve.cfd
 0.0.0.0 quydoitienquocte24h7azx.weebly.com
@@ -301,6 +363,8 @@
 0.0.0.0 restlesz.su
 0.0.0.0 rhighest.cfd
 0.0.0.0 rich678.com
+0.0.0.0 rituationscardb.info
+0.0.0.0 sacchaeleduk.com
 0.0.0.0 sacombank.vn-ne.top
 0.0.0.0 sacombank.vn-sp.top
 0.0.0.0 sacombank.vn-vp.xyz
@@ -328,6 +392,7 @@
 0.0.0.0 seostar2.xyz
 0.0.0.0 serialfull.info
 0.0.0.0 sgxcoin.net
+0.0.0.0 share-apple.com
 0.0.0.0 shatheg.cfd
 0.0.0.0 shbfina.com
 0.0.0.0 shbfinan.com
@@ -357,6 +422,8 @@
 0.0.0.0 shopruu.com
 0.0.0.0 showcrack.com
 0.0.0.0 sieumomo.com
+0.0.0.0 simpliftsbefore.info
+0.0.0.0 smilitygorb.club
 0.0.0.0 softwaresdaily.com
 0.0.0.0 sonarsurveyof.cfd
 0.0.0.0 sputrey567rik.cfd
@@ -365,14 +432,19 @@
 0.0.0.0 sup7podthee.cfd
 0.0.0.0 support-maps.live
 0.0.0.0 taikhoanveri04.atwebpages.com
+0.0.0.0 tammenaa.com
 0.0.0.0 taokhienfacebook.com
+0.0.0.0 tc-clicks.com
 0.0.0.0 techcombank.ngan-hang.net
 0.0.0.0 techcombank.vn-ol.top
 0.0.0.0 techcombank.vn-sp.top
 0.0.0.0 techcombank.vn-vp.xyz
 0.0.0.0 teleway.top
+0.0.0.0 thegioididong.me
 0.0.0.0 theritishind.cfd
 0.0.0.0 theyt786ku.cfd
+0.0.0.0 thirdptop.com
+0.0.0.0 thseaeing.fun
 0.0.0.0 thutucnhantienquydoi24h.weebly.com
 0.0.0.0 ticlewesimulate.cfd
 0.0.0.0 tiki136.com
@@ -383,11 +455,13 @@
 0.0.0.0 tpbank.vn-vpb.top
 0.0.0.0 tpbank84.com
 0.0.0.0 tpbankvnvn.com
+0.0.0.0 traffic-c.com
 0.0.0.0 trangchunhantien-remitly-wu247.weebly.com
 0.0.0.0 trangdientu24-7.com
 0.0.0.0 trangnganhangdientu247.com
 0.0.0.0 trangnganhangso247.com
 0.0.0.0 transferamerica-to-vietnammoney.weebly.com
+0.0.0.0 trffcdmn.com
 0.0.0.0 trumbemmomo.club
 0.0.0.0 trungtamdienmayxanh.net
 0.0.0.0 trungtammayxanh.com
@@ -395,6 +469,7 @@
 0.0.0.0 tuyendungctvlazada.com
 0.0.0.0 tuyendunglazada.net
 0.0.0.0 tuyendungstmlazada.com
+0.0.0.0 ucesreferre.club
 0.0.0.0 undertheguid.cfd
 0.0.0.0 undimangen.cfd
 0.0.0.0 unixfilesystem2.xyz
@@ -425,6 +500,8 @@
 0.0.0.0 vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com
 0.0.0.0 vietimbank.top
 0.0.0.0 vietnamairslines.vn
+0.0.0.0 vietnammoi.biz
+0.0.0.0 view-apple.com
 0.0.0.0 vimomo.monster
 0.0.0.0 vip.jaccsvn.com
 0.0.0.0 vip.tpbank84.com
@@ -452,6 +529,7 @@
 0.0.0.0 vongquay-lienminh.com
 0.0.0.0 vongquay-lienquanmobile.site
 0.0.0.0 vongquay-pubg-vng.com
+0.0.0.0 vongquay-pubgmobilevn-zing.com
 0.0.0.0 vongquay-pubgmobilevn.com
 0.0.0.0 vongquay-pubgmobilevng.com
 0.0.0.0 vongquay-trian-pubgmobilevn.com
@@ -489,12 +567,14 @@
 0.0.0.0 www.acs84.com
 0.0.0.0 www.checkaccff.com
 0.0.0.0 www.fccomvn.com
+0.0.0.0 www.fmiphone-apple.com
 0.0.0.0 www.hdsaisonvn.com
 0.0.0.0 www.jaccsc.com
 0.0.0.0 www.jaccsn.com
 0.0.0.0 www.jaccsvn.com
 0.0.0.0 www.jaccsz.com
 0.0.0.0 www.kingking79.com
+0.0.0.0 www.live-icloud.com
 0.0.0.0 www.lotte333.com
 0.0.0.0 www.lotte3333.com
 0.0.0.0 www.lotte66.com
@@ -518,10 +598,12 @@
 0.0.0.0 www.vib84.com
 0.0.0.0 www.vibvay.com
 0.0.0.0 www.vibvayvn.com
+0.0.0.0 www.view-apple.com
 0.0.0.0 www.viyo.life
 0.0.0.0 www.vn-findmy.com
 0.0.0.0 www.vn-scl.life
 0.0.0.0 www.vn-ub.info
+0.0.0.0 www.vongquaymienphi.net
 0.0.0.0 xa38.xyz
 0.0.0.0 xd152.com
 0.0.0.0 xiaosdg.top
@@ -534,5 +616,6 @@
 0.0.0.0 xn--nhnqumomouimomo-bjb0d67cq5glw6t.weebly.com
 0.0.0.0 xproductkey.com
 0.0.0.0 yunduofei.xyz
+0.0.0.0 zhangtom1989.cn
 0.0.0.0 zingmp3.pro
 0.0.0.0 znavidsde.cfd

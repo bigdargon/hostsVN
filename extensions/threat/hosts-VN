@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 16 Nov 2022 15:22 UTC+7
-# Version: 2211161522
-# Blocked: 376 domains
+# Last modified: 17 Nov 2022 10:57 UTC+7
+# Version: 2211171057
+# Blocked: 433 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -21,6 +21,7 @@
 0.0.0.0 247vi-bank.com
 0.0.0.0 333lotte.com
 0.0.0.0 33lotte.com
+0.0.0.0 456vdghgj30.dyndns.org
 0.0.0.0 555lotte.com
 0.0.0.0 55lotte.com
 0.0.0.0 588589.com
@@ -43,6 +44,7 @@
 0.0.0.0 app.mybigc.net
 0.0.0.0 app.zingmp3.pro
 0.0.0.0 apple.support-maps.live
+0.0.0.0 atspace.tv
 0.0.0.0 banking24hsingapore.weebly.com
 0.0.0.0 banktopvn.online
 0.0.0.0 banvoucher-vn.weeblysite.com
@@ -52,9 +54,14 @@
 0.0.0.0 bgtib222.com
 0.0.0.0 bidv-transfermoney.weebly.com
 0.0.0.0 bidvsmartbanking2.ihappy.info
+0.0.0.0 bloodleian.club
+0.0.0.0 bluvenie.com
 0.0.0.0 bm1717.com
 0.0.0.0 bm3536.com
+0.0.0.0 campxanh.info
 0.0.0.0 casneon.com
+0.0.0.0 celerantatters.com
+0.0.0.0 cettiarl.com
 0.0.0.0 checkaccff.com
 0.0.0.0 chuyendoitienquote-nhantien24h.weebly.com
 0.0.0.0 clmm.nl
@@ -64,6 +71,8 @@
 0.0.0.0 clmm113.me
 0.0.0.0 clmm29.fun
 0.0.0.0 cltx888.me
+0.0.0.0 code-garena-vn.com
+0.0.0.0 code-lienquan-vn.com
 0.0.0.0 com.vn-hc.info
 0.0.0.0 com.vn-sp.top
 0.0.0.0 com.vn-ub.info
@@ -89,6 +98,7 @@
 0.0.0.0 dienmayxanhtantam.com
 0.0.0.0 do002.com
 0.0.0.0 do005.com
+0.0.0.0 drakeesh.com
 0.0.0.0 dvdienmayxanh.com
 0.0.0.0 ebank.hlug1k.com
 0.0.0.0 ebank.wmxba.com
@@ -96,37 +106,63 @@
 0.0.0.0 ebanking.smbnv.com
 0.0.0.0 ebanking.ttoh4.com
 0.0.0.0 ebanking.wiopm.com
+0.0.0.0 eventlqvn.com
 0.0.0.0 fccomvn.com
+0.0.0.0 ff-member-ganena.com
+0.0.0.0 ff-member-gazeza.com
+0.0.0.0 ff-members-garena.vn
+0.0.0.0 ff-membership-garena.com
+0.0.0.0 ff-membersship-garrena.com
+0.0.0.0 ff-memnber-garena.com
+0.0.0.0 ff-menber-garena.vn
+0.0.0.0 ff.member.garenae.vn
 0.0.0.0 fhdd8431.com
 0.0.0.0 free.sc0mvn.com
+0.0.0.0 freefire-membershipvn-garena.com
+0.0.0.0 gaerena.vn
+0.0.0.0 garaena.vn
+0.0.0.0 garane.vn
+0.0.0.0 garean.vn
+0.0.0.0 gareena.vn
+0.0.0.0 garena-members.com
+0.0.0.0 garena.fan
+0.0.0.0 garena.mobi
+0.0.0.0 garenaa.vn
+0.0.0.0 garenaj.vn
 0.0.0.0 garenalqm.com
 0.0.0.0 garenamembership.com
 0.0.0.0 getclipabcxyz.com
 0.0.0.0 giaodichtiente247ipay.weebly.com
 0.0.0.0 giaodichvidientu.com.vn
+0.0.0.0 giftcode-lienquanmobile-vn.com
+0.0.0.0 giftcode-mobilelienquan.com
 0.0.0.0 go888.me
 0.0.0.0 goshopback.vip
 0.0.0.0 goshopbackvip.vip
 0.0.0.0 hdsaisonvn.com
 0.0.0.0 hethonggiaodichvidientu247.com
 0.0.0.0 hotline-dienmayxanh.com
+0.0.0.0 https-apple.com
 0.0.0.0 https-icloud.com
 0.0.0.0 ibankingdigital.com
 0.0.0.0 ibmgroup.co.uk
 0.0.0.0 id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
 0.0.0.0 inet-ebank.com
+0.0.0.0 irduwhojas.ga
 0.0.0.0 isacambank.com
 0.0.0.0 isacembank.com
 0.0.0.0 jaccsc.com
 0.0.0.0 jaccsn.com
 0.0.0.0 jaccsvn.com
 0.0.0.0 jaccsz.com
+0.0.0.0 kaurroot.com
 0.0.0.0 khuyenmaivangonline.club
 0.0.0.0 khuyenmaivimomo.weebly.com
 0.0.0.0 kiemtien4u.com
 0.0.0.0 kiemtienmomo.weebly.com
 0.0.0.0 kingking79.com
 0.0.0.0 la533.com
+0.0.0.0 larpollicwilli.club
 0.0.0.0 lazada12.net
 0.0.0.0 lazada13.net
 0.0.0.0 lazada14.net
@@ -135,14 +171,18 @@
 0.0.0.0 lazadamallc.com
 0.0.0.0 lazadatuyennhanvien.com
 0.0.0.0 ldp.page
+0.0.0.0 lib1.biz
 0.0.0.0 lienketkiemtien.weebly.com
 0.0.0.0 lienkettaikhoan.com
 0.0.0.0 lienketvidientu.com
+0.0.0.0 lienquan-garena-giftcode.com
+0.0.0.0 lienquanmobilequatang.com
 0.0.0.0 lienvietbank.vn-vp.xyz
 0.0.0.0 link8x.xyz
 0.0.0.0 linshopee.com
 0.0.0.0 llappa.top
 0.0.0.0 llzd2.com
+0.0.0.0 lmht-membership.com
 0.0.0.0 lotte333.com
 0.0.0.0 lotte3333.com
 0.0.0.0 lotte66.com
@@ -152,6 +192,10 @@
 0.0.0.0 lottevn666.com
 0.0.0.0 lottevn896.com
 0.0.0.0 lottevn999.com
+0.0.0.0 member-gaarena.com
+0.0.0.0 memberr-garenaa.com
+0.0.0.0 membershipsgarenavn-ff.com
+0.0.0.0 menberships-ff-garrena.com
 0.0.0.0 momoloto.com
 0.0.0.0 momosieuhoihoantien.weebly.com
 0.0.0.0 moneygram24hh.weebly.com
@@ -169,6 +213,7 @@
 0.0.0.0 nganhangtructuyen24h.com
 0.0.0.0 nguyenkim.co
 0.0.0.0 nhan-tienvidientu247.com
+0.0.0.0 nhanquaffob31.com
 0.0.0.0 nhantien120s-ollbankingz.weebly.com
 0.0.0.0 nhantienquocte249.weebly.com
 0.0.0.0 nhantienquocte275.weebly.com
@@ -178,9 +223,12 @@
 0.0.0.0 online.acbvnx.com
 0.0.0.0 pkkti888.com
 0.0.0.0 pvpti222.com
+0.0.0.0 qualienquan.vn
 0.0.0.0 quaythuonggarena.com
 0.0.0.0 quydoitienquocte24h7azx.weebly.com
 0.0.0.0 rich678.com
+0.0.0.0 rituationscardb.info
+0.0.0.0 sacchaeleduk.com
 0.0.0.0 sacombank.vn-ne.top
 0.0.0.0 sacombank.vn-sp.top
 0.0.0.0 sacombank.vn-vp.xyz
@@ -232,15 +280,20 @@
 0.0.0.0 shopne688.com
 0.0.0.0 shopruu.com
 0.0.0.0 sieumomo.com
+0.0.0.0 simpliftsbefore.info
+0.0.0.0 smilitygorb.club
 0.0.0.0 suachuadienmayxanh.com.vn
 0.0.0.0 support-maps.live
 0.0.0.0 taikhoanveri04.atwebpages.com
+0.0.0.0 tammenaa.com
 0.0.0.0 taokhienfacebook.com
 0.0.0.0 techcombank.ngan-hang.net
 0.0.0.0 techcombank.vn-ol.top
 0.0.0.0 techcombank.vn-sp.top
 0.0.0.0 techcombank.vn-vp.xyz
 0.0.0.0 teleway.top
+0.0.0.0 thegioididong.me
+0.0.0.0 thseaeing.fun
 0.0.0.0 thutucnhantienquydoi24h.weebly.com
 0.0.0.0 tiki136.com
 0.0.0.0 tikictv9.com
@@ -261,6 +314,7 @@
 0.0.0.0 tuyendungctvlazada.com
 0.0.0.0 tuyendunglazada.net
 0.0.0.0 tuyendungstmlazada.com
+0.0.0.0 ucesreferre.club
 0.0.0.0 v2s4ku8b.com
 0.0.0.0 vaynganhangvcb.online
 0.0.0.0 vaynhanh24h.tk
@@ -285,6 +339,7 @@
 0.0.0.0 vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com
 0.0.0.0 vietimbank.top
 0.0.0.0 vietnamairslines.vn
+0.0.0.0 vietnammoi.biz
 0.0.0.0 vimomo.monster
 0.0.0.0 vip.jaccsvn.com
 0.0.0.0 vip.tpbank84.com
@@ -312,6 +367,7 @@
 0.0.0.0 vongquay-lienminh.com
 0.0.0.0 vongquay-lienquanmobile.site
 0.0.0.0 vongquay-pubg-vng.com
+0.0.0.0 vongquay-pubgmobilevn-zing.com
 0.0.0.0 vongquay-pubgmobilevn.com
 0.0.0.0 vongquay-pubgmobilevng.com
 0.0.0.0 vongquay-trian-pubgmobilevn.com
@@ -381,6 +437,7 @@
 0.0.0.0 www.vn-findmy.com
 0.0.0.0 www.vn-scl.life
 0.0.0.0 www.vn-ub.info
+0.0.0.0 www.vongquaymienphi.net
 0.0.0.0 xd152.com
 0.0.0.0 xn--momovints1-o8a64b3904adea8q.weebly.com
 0.0.0.0 xn--nhantienonline1k87s1-6hf.weebly.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 16 Nov 2022 15:22 UTC+7
-! Version: 2211161522
-! Blocked: 20.441 rules
+! Last modified: 17 Nov 2022 10:57 UTC+7
+! Version: 2211171057
+! Blocked: 20.439 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -16186,7 +16186,6 @@
 ||nat197000777.com^
 ||nat197000888.com^
 ||nat197000999.com^
-||nb10.vip^
 ||nb6fu.com^
 ||nba09.com^
 ||nba1877.com^
@@ -16845,7 +16844,6 @@
 ||qc.nhat.game^
 ||qc.nhat88.me^
 ||qc.playmanclub.uk^
-||qc.sieukeo.live^
 ||qc.taimacau.club^
 ||qc.top88.club^
 ||qc.top88.fun^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 16 Nov 2022 15:22 UTC+7
-# Version: 2211161522
-# Blocked: 3.849 domains
+# Last modified: 17 Nov 2022 10:57 UTC+7
+# Version: 2211171057
+# Blocked: 3.850 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2983,7 +2983,6 @@
 0.0.0.0 qc.nhat.bet
 0.0.0.0 qc.nhat.game
 0.0.0.0 qc.playmanclub.uk
-0.0.0.0 qc.sieukeo.live
 0.0.0.0 qc.taimacau.club
 0.0.0.0 qc.top88.club
 0.0.0.0 qc.top88.fun
@@ -3160,6 +3159,7 @@
 0.0.0.0 taiv8.top
 0.0.0.0 tangsoc.com
 0.0.0.0 tap88.club
+0.0.0.0 tf88265.com
 0.0.0.0 tf88luck.com
 0.0.0.0 tf88v.com
 0.0.0.0 th-lm.jbovietnam.com
@@ -3711,6 +3711,7 @@
 0.0.0.0 www.tai789.win
 0.0.0.0 www.taib52.vin
 0.0.0.0 www.taikufun.com
+0.0.0.0 www.tf88265.com
 0.0.0.0 www.tf88luck.com
 0.0.0.0 www.tf88v.com
 0.0.0.0 www.tha.bet

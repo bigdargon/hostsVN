@@ -5875,6 +5875,7 @@
 0.0.0.0 js.hs-analytics.net
 #[hs-scripts.com]
 0.0.0.0 hs-scripts.com
+0.0.0.0 js-eu1.hs-scripts.com
 0.0.0.0 js.hs-scripts.com
 #[hsadspixel.net]
 0.0.0.0 hsadspixel.net
@@ -10639,16 +10640,25 @@
 0.0.0.0 builder.lift.acquia.com
 0.0.0.0 lift.acquia.com
 #[ahacdn.me]
+0.0.0.0 cdn10236888.ahacdn.me
 0.0.0.0 cdn11763314.ahacdn.me
 0.0.0.0 cdn12359286.ahacdn.me
 0.0.0.0 cdn18685953.ahacdn.me
+0.0.0.0 cdn19641441.ahacdn.me
+0.0.0.0 cdn24790679.ahacdn.me
 0.0.0.0 cdn28786515.ahacdn.me
 0.0.0.0 cdn38871181.ahacdn.me
+0.0.0.0 cdn40657009.ahacdn.me
 0.0.0.0 cdn44221613.ahacdn.me
+0.0.0.0 cdn45602216.ahacdn.me
+0.0.0.0 cdn45892007.ahacdn.me
+0.0.0.0 cdn46501877.ahacdn.me
 0.0.0.0 cdn61962044.ahacdn.me
 0.0.0.0 cdn62004373.ahacdn.me
 0.0.0.0 cdn65182383.ahacdn.me
 0.0.0.0 cdn70555962.ahacdn.me
+0.0.0.0 cdn72891311.ahacdn.me
+0.0.0.0 cdn78085165.ahacdn.me
 0.0.0.0 cdn81910013.ahacdn.me
 #[sensic.net]
 0.0.0.0 config.sensic.net
@@ -10984,3 +10994,6 @@
 #[ab1n.net]
 0.0.0.0 ab1n.net
 0.0.0.0 tk6if76q.ab1n.net
+#[zemanta.com]
+0.0.0.0 p1.zemanta.com
+0.0.0.0 zemanta.com

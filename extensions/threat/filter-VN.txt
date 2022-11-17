@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 16 Nov 2022 15:22 UTC+7
-! Version: 2211161522
-! Blocked: 331 rules
+! Last modified: 17 Nov 2022 10:57 UTC+7
+! Version: 2211171057
+! Blocked: 387 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17,6 +17,7 @@
 ||247vi-bank.com^
 ||333lotte.com^
 ||33lotte.com^
+||456vdghgj30.dyndns.org^
 ||555lotte.com^
 ||55lotte.com^
 ||588589.com^
@@ -39,6 +40,7 @@
 ||app.mybigc.net^
 ||app.zingmp3.pro^
 ||apple.support-maps.live^
+||atspace.tv^
 ||banking24hsingapore.weebly.com^
 ||banktopvn.online^
 ||banvoucher-vn.weeblysite.com^
@@ -48,9 +50,14 @@
 ||bgtib222.com^
 ||bidv-transfermoney.weebly.com^
 ||bidvsmartbanking2.ihappy.info^
+||bloodleian.club^
+||bluvenie.com^
 ||bm1717.com^
 ||bm3536.com^
+||campxanh.info^
 ||casneon.com^
+||celerantatters.com^
+||cettiarl.com^
 ||checkaccff.com^
 ||chuyendoitienquote-nhantien24h.weebly.com^
 ||clmm.nl^
@@ -60,6 +67,8 @@
 ||clmm113.me^
 ||clmm29.fun^
 ||cltx888.me^
+||code-garena-vn.com^
+||code-lienquan-vn.com^
 ||com.vn-hc.info^
 ||com.vn-sp.top^
 ||com.vn-ub.info^
@@ -85,6 +94,7 @@
 ||dienmayxanhtantam.com^
 ||do002.com^
 ||do005.com^
+||drakeesh.com^
 ||dvdienmayxanh.com^
 ||ebank.hlug1k.com^
 ||ebank.wmxba.com^
@@ -92,37 +102,63 @@
 ||ebanking.smbnv.com^
 ||ebanking.ttoh4.com^
 ||ebanking.wiopm.com^
+||eventlqvn.com^
 ||fccomvn.com^
+||ff-member-ganena.com^
+||ff-member-gazeza.com^
+||ff-members-garena.vn^
+||ff-membership-garena.com^
+||ff-membersship-garrena.com^
+||ff-memnber-garena.com^
+||ff-menber-garena.vn^
+||ff.member.garenae.vn^
 ||fhdd8431.com^
 ||free.sc0mvn.com^
+||freefire-membershipvn-garena.com^
+||gaerena.vn^
+||garaena.vn^
+||garane.vn^
+||garean.vn^
+||gareena.vn^
+||garena-members.com^
+||garena.fan^
+||garena.mobi^
+||garenaa.vn^
+||garenaj.vn^
 ||garenalqm.com^
 ||garenamembership.com^
 ||getclipabcxyz.com^
 ||giaodichtiente247ipay.weebly.com^
 ||giaodichvidientu.com.vn^
+||giftcode-lienquanmobile-vn.com^
+||giftcode-mobilelienquan.com^
 ||go888.me^
 ||goshopback.vip^
 ||goshopbackvip.vip^
 ||hdsaisonvn.com^
 ||hethonggiaodichvidientu247.com^
 ||hotline-dienmayxanh.com^
+||https-apple.com^
 ||https-icloud.com^
 ||ibankingdigital.com^
 ||ibmgroup.co.uk^
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
 ||inet-ebank.com^
+||irduwhojas.ga^
 ||isacambank.com^
 ||isacembank.com^
 ||jaccsc.com^
 ||jaccsn.com^
 ||jaccsvn.com^
 ||jaccsz.com^
+||kaurroot.com^
 ||khuyenmaivangonline.club^
 ||khuyenmaivimomo.weebly.com^
 ||kiemtien4u.com^
 ||kiemtienmomo.weebly.com^
 ||kingking79.com^
 ||la533.com^
+||larpollicwilli.club^
 ||lazada12.net^
 ||lazada13.net^
 ||lazada14.net^
@@ -131,14 +167,18 @@
 ||lazadamallc.com^
 ||lazadatuyennhanvien.com^
 ||ldp.page^
+||lib1.biz^
 ||lienketkiemtien.weebly.com^
 ||lienkettaikhoan.com^
 ||lienketvidientu.com^
+||lienquan-garena-giftcode.com^
+||lienquanmobilequatang.com^
 ||lienvietbank.vn-vp.xyz^
 ||link8x.xyz^
 ||linshopee.com^
 ||llappa.top^
 ||llzd2.com^
+||lmht-membership.com^
 ||lotte333.com^
 ||lotte3333.com^
 ||lotte66.com^
@@ -151,6 +191,10 @@
 ||lottevn896.com^
 ||lottevn999.com^
 ||lottevn9999.com^
+||member-gaarena.com^
+||memberr-garenaa.com^
+||membershipsgarenavn-ff.com^
+||menberships-ff-garrena.com^
 ||momoloto.com^
 ||momosieuhoihoantien.weebly.com^
 ||moneygram24hh.weebly.com^
@@ -168,6 +212,7 @@
 ||nganhangtructuyen24h.com^
 ||nguyenkim.co^
 ||nhan-tienvidientu247.com^
+||nhanquaffob31.com^
 ||nhantien120s-ollbankingz.weebly.com^
 ||nhantienquocte249.weebly.com^
 ||nhantienquocte275.weebly.com^
@@ -177,9 +222,12 @@
 ||online.acbvnx.com^
 ||pkkti888.com^
 ||pvpti222.com^
+||qualienquan.vn^
 ||quaythuonggarena.com^
 ||quydoitienquocte24h7azx.weebly.com^
 ||rich678.com^
+||rituationscardb.info^
+||sacchaeleduk.com^
 ||sacombank.vn-ne.top^
 ||sacombank.vn-sp.top^
 ||sacombank.vn-vp.xyz^
@@ -231,15 +279,20 @@
 ||shopne688.com^
 ||shopruu.com^
 ||sieumomo.com^
+||simpliftsbefore.info^
+||smilitygorb.club^
 ||suachuadienmayxanh.com.vn^
 ||support-maps.live^
 ||taikhoanveri04.atwebpages.com^
+||tammenaa.com^
 ||taokhienfacebook.com^
 ||techcombank.ngan-hang.net^
 ||techcombank.vn-ol.top^
 ||techcombank.vn-sp.top^
 ||techcombank.vn-vp.xyz^
 ||teleway.top^
+||thegioididong.me^
+||thseaeing.fun^
 ||thutucnhantienquydoi24h.weebly.com^
 ||tiki136.com^
 ||tikictv9.com^
@@ -260,6 +313,7 @@
 ||tuyendungctvlazada.com^
 ||tuyendunglazada.net^
 ||tuyendungstmlazada.com^
+||ucesreferre.club^
 ||v2s4ku8b.com^
 ||vaynganhangvcb.online^
 ||vaynhanh24h.tk^
@@ -284,6 +338,7 @@
 ||vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com^
 ||vietimbank.top^
 ||vietnamairslines.vn^
+||vietnammoi.biz^
 ||vimomo.monster^
 ||vip.jaccsvn.com^
 ||vip.tpbank84.com^
@@ -311,6 +366,7 @@
 ||vongquay-lienminh.com^
 ||vongquay-lienquanmobile.site^
 ||vongquay-pubg-vng.com^
+||vongquay-pubgmobilevn-zing.com^
 ||vongquay-pubgmobilevn.com^
 ||vongquay-pubgmobilevng.com^
 ||vongquay-trian-pubgmobilevn.com^
