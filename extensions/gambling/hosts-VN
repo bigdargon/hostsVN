@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 17 Nov 2022 15:19 UTC+7
-# Version: 2211171519
-# Blocked: 3.850 domains
+# Last modified: 18 Nov 2022 11:12 UTC+7
+# Version: 2211181112
+# Blocked: 3.838 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3061,12 +3061,10 @@
 0.0.0.0 sky88.top
 0.0.0.0 sky88.uk
 0.0.0.0 sky88.win
-0.0.0.0 slots.w88club.com
 0.0.0.0 sm611.com
 0.0.0.0 smart.8live.com
 0.0.0.0 smart.8live.net
 0.0.0.0 smart.bcb80.com
-0.0.0.0 smart.yule12888.com
 0.0.0.0 smartpay.lode88.vip
 0.0.0.0 sock.mu9.com
 0.0.0.0 sock.red88.com
@@ -3083,23 +3081,17 @@
 0.0.0.0 solarbet.com
 0.0.0.0 solbet88.com
 0.0.0.0 sport.five88.biz
-0.0.0.0 static-promotion.vx88.com
-0.0.0.0 static-v2.fabet88.net
 0.0.0.0 static.8live.com
 0.0.0.0 static.fabet.com
 0.0.0.0 static.fabet.us
 0.0.0.0 static.fabet.vip
-0.0.0.0 static.fabet88.net
 0.0.0.0 static.fabetvn.com
-0.0.0.0 static.five88.biz
 0.0.0.0 static.lucky88.com
 0.0.0.0 static.vx88.com
 0.0.0.0 static2.8live.com
 0.0.0.0 static2.lucky88.com
 0.0.0.0 static3.lucky88.com
-0.0.0.0 staticpage.bcb80.com
 0.0.0.0 sukien.fcb88.com
-0.0.0.0 sun.88gobet.com
 0.0.0.0 sun.to
 0.0.0.0 sun.win
 0.0.0.0 sun88.online
@@ -3125,15 +3117,12 @@
 0.0.0.0 tai.go88.com
 0.0.0.0 tai.go88vn.vip
 0.0.0.0 tai.nhatvip.live
-0.0.0.0 tai.rik.vip
-0.0.0.0 tai.rik.win
 0.0.0.0 tai.rikvip.tv
 0.0.0.0 tai.rikvip.us
 0.0.0.0 tai.top88vn.net
 0.0.0.0 tai.v28.club
 0.0.0.0 tai.win79.vip
 0.0.0.0 tai.yo88vn.us
-0.0.0.0 tai.you88.app
 0.0.0.0 tai.you88.vin
 0.0.0.0 tai567live.vip
 0.0.0.0 tai789.net
@@ -3157,7 +3146,6 @@
 0.0.0.0 taiv8.com
 0.0.0.0 taiv8.info
 0.0.0.0 taiv8.top
-0.0.0.0 tangsoc.com
 0.0.0.0 tap88.club
 0.0.0.0 tf88265.com
 0.0.0.0 tf88luck.com

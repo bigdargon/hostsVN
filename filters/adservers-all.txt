@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Nov 2022 15:20 UTC+7
-! Version: 2211171520
-! Blocked: 8.809 rules
+! Last modified: 18 Nov 2022 11:13 UTC+7
+! Version: 2211181113
+! Blocked: 8.806 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5487,7 +5487,6 @@
 ||elitetoplist.com^
 ||ellcurvth.com^
 ||ellpaniers.com^
-||elthamely.com^
 ||elxpywhuj.com^
 ||emarketer.com^
 ||embed.sendtonews.com^
@@ -5557,7 +5556,6 @@
 ||events.shoplytics.com^
 ||everestjs.net^
 ||evergage.com^
-||evidencecleanergold.com^
 ||eviltracker.net^
 ||evitingawabi.com^
 ||evt.mxplay.com^
@@ -7270,7 +7268,6 @@
 ||prownl.com^
 ||prsitecheck.com^
 ||prx.wayfair.com^
-||ps.ns-cdn.com^
 ||ps7894.com^
 ||pseekree.com^
 ||psoaptou.net^
