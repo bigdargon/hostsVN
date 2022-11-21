@@ -135,6 +135,7 @@
 0.0.0.0 www.googleadservices.com
 #[analytics.google.com]
 0.0.0.0 analytics.google.com
+0.0.0.0 region1.analytics.google.com
 #[google-analytics.com]
 0.0.0.0 click.google-analytics.com
 0.0.0.0 google-analytics.com

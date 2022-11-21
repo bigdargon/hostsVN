@@ -6,6 +6,7 @@
 ^https?://graph.facebook.com/.+activities
 ^https?://graph.facebook.com/.+advertiser
 ^https?://graph.facebook.com/.+events
+^https?://graph.facebook.com/.+metrics
 ^https?://graph.facebook.com/.+mobile_sdk_gk
 ^https?://graph.facebook.com/.+model_asset
 ^https?://graph.facebook.com/.+skadnetwork
@@ -79,3 +80,6 @@
 ^https?:\/\/.+\.amemv\.com\/.+report
 ^https?:\/\/.+\.amemv\.com\/.+stats
 ^https?:\/\/.+\.amemv\.com\/api\/ad
+
+#mmo
+^https?:\/\/.+\.\w{2,3}\/mmo

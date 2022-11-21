@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 18 Nov 2022 11:13 UTC+7
-# Version: 2211181113
-# Blocked: 17.174 domains
+# Last modified: 21 Nov 2022 10:40 UTC+7
+# Version: 2211211040
+# Blocked: 17.178 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -147,6 +147,7 @@
 0.0.0.0 www.googleadservices.com
 #[analytics.google.com]
 0.0.0.0 analytics.google.com
+0.0.0.0 region1.analytics.google.com
 #[google-analytics.com]
 0.0.0.0 click.google-analytics.com
 0.0.0.0 google-analytics.com
@@ -12970,6 +12971,7 @@
 0.0.0.0 ad-spb.ru
 0.0.0.0 ad-specs.guoshipartners.com
 0.0.0.0 ad-srv.net
+0.0.0.0 ad-static.qanda.ai
 0.0.0.0 ad-tech.com
 0.0.0.0 ad-up.com
 0.0.0.0 ad.103092804.com
@@ -13638,6 +13640,7 @@
 0.0.0.0 adtoll.com
 0.0.0.0 adtology.com
 0.0.0.0 adtoma.com
+0.0.0.0 adtoqbuejunef.com
 0.0.0.0 adtrace.org
 0.0.0.0 adtrack1.midasplayer.com
 0.0.0.0 adtrackingflow.pro
@@ -15194,6 +15197,7 @@
 0.0.0.0 glugherg.net
 0.0.0.0 glugreez.com
 0.0.0.0 gmads.net
+0.0.0.0 gnenuelnn.com
 0.0.0.0 gnqpystsiece.com
 0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
