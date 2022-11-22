@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 21 Nov 2022 10:40 UTC+7
-! Version: 2211211040
-! Blocked: 8.809 rules
+! Last modified: 22 Nov 2022 10:09 UTC+7
+! Version: 2211221009
+! Blocked: 8.811 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3318,6 +3318,7 @@
 ||ac.rnm.ca^
 ||acacdn.com^
 ||acdcdn.com^
+||acduyqwnz.com^
 ||acento.com^
 ||achcdn.com^
 ||achieverknee.com^
@@ -6906,6 +6907,7 @@
 ||omazeiros.com^
 ||omciecoa37tw4.com^
 ||omclyzyapf.com^
+||omjitjlhx.com^
 ||omkaaqtwzvc.com^
 ||omnatuor.com^
 ||omniscientspark.com^
