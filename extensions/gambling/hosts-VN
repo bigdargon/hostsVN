@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 23 Nov 2022 10:16 UTC+7
-# Version: 2211231016
-# Blocked: 3.837 domains
+# Last modified: 23 Nov 2022 16:36 UTC+7
+# Version: 2211231636
+# Blocked: 3.857 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -439,6 +439,7 @@
 0.0.0.0 bk8vn.live
 0.0.0.0 bk8vn.vip
 0.0.0.0 bk8vnd.com
+0.0.0.0 blogf8bet.com
 0.0.0.0 bo.b52.win
 0.0.0.0 bogcuoc.com
 0.0.0.0 bong88net.com
@@ -604,7 +605,14 @@
 0.0.0.0 f5.playv8.vip
 0.0.0.0 f6.macauclub.fun
 0.0.0.0 f6.playv8.vip
+0.0.0.0 f8bet.com
+0.0.0.0 f8bet.site
+0.0.0.0 f8bet.win
 0.0.0.0 f8bet0.com
+0.0.0.0 f8bet1.com
+0.0.0.0 f8bet2.com
+0.0.0.0 f8bet3.com
+0.0.0.0 f8bet4.com
 0.0.0.0 f8bet5.com
 0.0.0.0 f8betaa.com
 0.0.0.0 fa88.win
@@ -748,6 +756,7 @@
 0.0.0.0 i9bet105.com
 0.0.0.0 i9bet109.com
 0.0.0.0 i9bet111.com
+0.0.0.0 i9bet26.com
 0.0.0.0 i9bet444.com
 0.0.0.0 i9bet5.com
 0.0.0.0 i9bet6.com
@@ -3198,6 +3207,7 @@
 0.0.0.0 tracking.zbet.vn
 0.0.0.0 trungso.vip
 0.0.0.0 trunk.websvn.info
+0.0.0.0 truyenthongthongtin.com
 0.0.0.0 tt128.info
 0.0.0.0 tt128.net
 0.0.0.0 tt128viet.com
@@ -3508,6 +3518,7 @@
 0.0.0.0 www.bk8vn.live
 0.0.0.0 www.bk8vn.vip
 0.0.0.0 www.bk8vnd.com
+0.0.0.0 www.blogf8bet.com
 0.0.0.0 www.bong88net.com
 0.0.0.0 www.bong99.fun
 0.0.0.0 www.boom66.com
@@ -3543,7 +3554,14 @@
 0.0.0.0 www.ek882.com
 0.0.0.0 www.ent678.com
 0.0.0.0 www.eurofun88.com
+0.0.0.0 www.f8bet.com
+0.0.0.0 www.f8bet.site
+0.0.0.0 www.f8bet.win
 0.0.0.0 www.f8bet0.com
+0.0.0.0 www.f8bet1.com
+0.0.0.0 www.f8bet2.com
+0.0.0.0 www.f8bet3.com
+0.0.0.0 www.f8bet4.com
 0.0.0.0 www.f8bet5.com
 0.0.0.0 www.f8betaa.com
 0.0.0.0 www.fabet.us
@@ -3588,6 +3606,7 @@
 0.0.0.0 www.i9bet105.com
 0.0.0.0 www.i9bet109.com
 0.0.0.0 www.i9bet111.com
+0.0.0.0 www.i9bet26.com
 0.0.0.0 www.i9bet444.com
 0.0.0.0 www.i9bet5.com
 0.0.0.0 www.i9bet6.com
@@ -3715,6 +3734,7 @@
 0.0.0.0 www.top88.club
 0.0.0.0 www.top88.fun
 0.0.0.0 www.topdoithuong.net
+0.0.0.0 www.truyenthongthongtin.com
 0.0.0.0 www.tt128.info
 0.0.0.0 www.tt128.net
 0.0.0.0 www.tt128viet.com

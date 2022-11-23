@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 23 Nov 2022 10:16 UTC+7
-! Version: 2211231016
-! Blocked: 3.465 rules
+! Last modified: 23 Nov 2022 16:36 UTC+7
+! Version: 2211231636
+! Blocked: 3.475 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -439,6 +439,7 @@
 ||bk8vn.live^
 ||bk8vn.vip^
 ||bk8vnd.com^
+||blogf8bet.com^
 ||bo.b52.win^
 ||bogcuoc.com^
 ||bong88net.com^
@@ -604,7 +605,14 @@
 ||f5.playv8.vip^
 ||f6.macauclub.fun^
 ||f6.playv8.vip^
+||f8bet.com^
+||f8bet.site^
+||f8bet.win^
 ||f8bet0.com^
+||f8bet1.com^
+||f8bet2.com^
+||f8bet3.com^
+||f8bet4.com^
 ||f8bet5.com^
 ||f8betaa.com^
 ||fa88.win^
@@ -749,6 +757,7 @@
 ||i9bet105.com^
 ||i9bet109.com^
 ||i9bet111.com^
+||i9bet26.com^
 ||i9bet444.com^
 ||i9bet5.com^
 ||i9bet6.com^
@@ -3200,6 +3209,7 @@
 ||tracking.zbet.vn^
 ||trungso.vip^
 ||trunk.websvn.info^
+||truyenthongthongtin.com^
 ||tt128.info^
 ||tt128.net^
 ||tt128viet.com^

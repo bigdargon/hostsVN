@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 23 Nov 2022 10:17 UTC+7
-# Version: 2211231017
-# Blocked: 17.183 domains
+# Last modified: 23 Nov 2022 16:36 UTC+7
+# Version: 2211231636
+# Blocked: 17.184 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12353,6 +12353,11 @@
 #[akadigital.vn]
 0.0.0.0 delivery.akadigital.vn
 0.0.0.0 pub.akadigital.vn
+#[vnecdn.net]
+0.0.0.0 adp.vnecdn.net
+0.0.0.0 la.vnecdn.net
+0.0.0.0 la2.vnecdn.net
+0.0.0.0 la3.vnecdn.net
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -12688,9 +12693,6 @@
 0.0.0.0 kv-analytics.kiotviet.vn
 0.0.0.0 la.vietid.net
 0.0.0.0 la.vnbusiness.vn
-0.0.0.0 la.vnecdn.net
-0.0.0.0 la2.vnecdn.net
-0.0.0.0 la3.vnecdn.net
 0.0.0.0 lg.lotus.vn
 0.0.0.0 live.careplusvn.com
 0.0.0.0 live.vnpgroup.net
