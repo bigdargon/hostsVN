@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 22 Nov 2022 10:09 UTC+7
-# Version: 2211221009
-# Blocked: 3.835 domains
+# Last modified: 23 Nov 2022 10:16 UTC+7
+# Version: 2211231016
+# Blocked: 3.837 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2764,6 +2764,7 @@
 0.0.0.0 m.vnloto.com
 0.0.0.0 m.vnloto.vip
 0.0.0.0 m.vntop88.com
+0.0.0.0 m.vuabet88.org
 0.0.0.0 m.vz79.com
 0.0.0.0 m.w88ac.com
 0.0.0.0 m.w88banh.com
@@ -3310,6 +3311,7 @@
 0.0.0.0 vua1005.club
 0.0.0.0 vua88.club
 0.0.0.0 vuabai9.com
+0.0.0.0 vuabet88.org
 0.0.0.0 vuaclub1008.club
 0.0.0.0 vuicungk8.com
 0.0.0.0 vw115.com
