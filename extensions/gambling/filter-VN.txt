@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 23 Nov 2022 16:36 UTC+7
-! Version: 2211231636
-! Blocked: 3.475 rules
+! Last modified: 24 Nov 2022 10:47 UTC+7
+! Version: 2211241047
+! Blocked: 3.511 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -55,6 +55,7 @@
 ||11bet.net^
 ||11bet.online^
 ||11bet.us^
+||11bet.vin^
 ||11bet.win^
 ||11zalo.com^
 ||123b.bet^
@@ -236,6 +237,7 @@
 ||8xbet.com^
 ||8xbet.fun^
 ||8xbet.games^
+||8xbet.tv^
 ||8xbet.win^
 ||8xbet.xyz^
 ||8xbet05.com^
@@ -361,15 +363,19 @@
 ||api.i99908.com^
 ||api.i9bet102.com^
 ||api.i9bet105.com^
+||api.i9bet108.com^
 ||api.i9bet109.com^
 ||api.kingbet86.info^
 ||api.mc876.com^
+||api.mu9.club^
 ||api.mu9.com^
 ||api.oppa888.com^
 ||api.oppa88888888.com^
 ||api.red88.us^
+||api.red88.vin^
 ||api.shbet0.com^
 ||api.shbet3.com^
+||api.sky88.fun^
 ||api.t8bet999.com^
 ||api.t8betvip.com^
 ||api.v79top.com^
@@ -521,6 +527,7 @@
 ||d9bet88.com^
 ||dabanh.thethaofb88.com^
 ||dabet.me^
+||dabet.top^
 ||dabet.win^
 ||dabong.thethaofb88.com^
 ||dafacai360.com^
@@ -617,6 +624,7 @@
 ||f8betaa.com^
 ||fa88.win^
 ||fa88vn.live^
+||fabet.biz^
 ||fabet.com^
 ||fabet.me^
 ||fabet.tv^
@@ -650,6 +658,7 @@
 ||fcb8.com^
 ||fcb8.fun^
 ||fcb8.vip^
+||fcb8.win^
 ||fcb88.com^
 ||fcb88d.com^
 ||fi88.club^
@@ -755,6 +764,7 @@
 ||i99908.com^
 ||i9bet102.com^
 ||i9bet105.com^
+||i9bet108.com^
 ||i9bet109.com^
 ||i9bet111.com^
 ||i9bet26.com^
@@ -777,7 +787,10 @@
 ||img.lucky88.net^
 ||img.may88.club^
 ||img.may88.com^
+||img.may88.top^
+||img.mu9.club^
 ||img.mu9.com^
+||img.red88.vin^
 ||imgservice.mibet.com^
 ||imsports.v9bet55.com^
 ||imsports.v9betasia.com^
@@ -2704,6 +2717,7 @@
 ||lucky88.org^
 ||lucky88.tv^
 ||lucky88.uk^
+||lucky88.vin^
 ||lucky88.win^
 ||lux39.club^
 ||lux888.club^
@@ -2754,10 +2768,12 @@
 ||m.ms88asia.com^
 ||m.ms88ca.com^
 ||m.ole777vietnam.com^
+||m.oleviet777.com^
 ||m.oppa888.com^
 ||m.qq288.com^
 ||m.qq8788viet.com^
 ||m.red88.com^
+||m.tf88265.com^
 ||m.tf88v.com^
 ||m.tobet88.net^
 ||m.twin188.co^
@@ -2786,6 +2802,7 @@
 ||m.w88ok.com^
 ||m.w88yes.com^
 ||m.wellviet.net^
+||m1.may88d.com^
 ||m883d.com^
 ||m88cvf.com^
 ||m88my.com^
@@ -2811,6 +2828,7 @@
 ||mapi.seb121.net^
 ||may88.club^
 ||may88.com^
+||may88.top^
 ||may88.vip^
 ||may88.win^
 ||mayclub.net^
@@ -2835,6 +2853,7 @@
 ||mkt.lucky88.net^
 ||mlnnssapi.com^
 ||mmwin.nearom.com^
+||mobi.oleviet777.com^
 ||mobile.k8sport.com^
 ||moto88.win^
 ||moto880.com^
@@ -2846,6 +2865,7 @@
 ||ms88asia.com^
 ||ms88ca.com^
 ||msmeb.com^
+||mu9.club^
 ||mu9.com^
 ||mu9.fun^
 ||mu9.vip^
@@ -2856,6 +2876,7 @@
 ||my188bet.com^
 ||myk8.live^
 ||naapptbwf.com^
+||nbet.club^
 ||nbet.com^
 ||nbet.top^
 ||nbet.vip^
@@ -2895,11 +2916,13 @@
 ||ojr6n.com^
 ||ole12.com^
 ||ole777vietnam.com^
+||oleviet777.com^
 ||olympic24.com^
 ||one88.club^
 ||one88.com^
 ||one88.fun^
 ||one88.me^
+||one88.top^
 ||one88.us^
 ||one88.vip^
 ||one88.win^
@@ -2915,6 +2938,7 @@
 ||oxbet.club^
 ||oxbet.com^
 ||oxbet.net^
+||oxbet.top^
 ||oxbet.win^
 ||oxbetd.com^
 ||oz37j.com^
@@ -2951,6 +2975,7 @@
 ||play.yo88.win^
 ||play.yo88vn.vip^
 ||player.ole777vietnam.com^
+||player.oleviet777.com^
 ||playgamefa88.live^
 ||playgo88.asia^
 ||playgo88.top^
@@ -3021,6 +3046,7 @@
 ||red88.com^
 ||red88.uk^
 ||red88.us^
+||red88.vin^
 ||reg.playiwin.site^
 ||resources.bong90.bet^
 ||rewards.w88bkk.com^
@@ -3060,6 +3086,7 @@
 ||sieubomtan.com^
 ||sieubong88.info^
 ||sieukeo.live^
+||sin88.bet^
 ||sin88.biz^
 ||sin88.club^
 ||sin88.mobi^
@@ -3068,6 +3095,7 @@
 ||sin88s.com^
 ||sin88vao.com^
 ||sky88.com^
+||sky88.fun^
 ||sky88.top^
 ||sky88.uk^
 ||sky88.win^
@@ -3076,9 +3104,12 @@
 ||smart.8live.net^
 ||smart.bcb80.com^
 ||smartpay.lode88.vip^
+||sock.mu9.club^
 ||sock.mu9.com^
 ||sock.red88.com^
 ||sock.red88.us^
+||sock.red88.vin^
+||sock.sky88.fun^
 ||socvip.com^
 ||socvip9.club^
 ||sodo12.com^
@@ -3110,8 +3141,10 @@
 ||sunwinvn.club^
 ||superslot777.bet^
 ||sv1.sv88.vip^
+||sv1.sv88d.com^
 ||sv88.club^
 ||sv88.com^
+||sv88.vin^
 ||sv88.vip^
 ||t.mibet.com^
 ||t0gvf.com^
@@ -3425,8 +3458,10 @@
 ||win888b.com^
 ||wp.mu9.win^
 ||wp.red88.us^
+||wp.red88.vin^
 ||wp.rikvip.tv^
 ||wp.rikvipp.net^
+||wp.sky88.fun^
 ||ws.vx88.com^
 ||ws2vs.com^
 ||ww88club.com^
@@ -3444,6 +3479,7 @@
 ||xingtou888.com^
 ||xljs2.com^
 ||xo88.com^
+||xo88.fun^
 ||xoso12345.com^
 ||xoso5678.com^
 ||xoso6.com^
