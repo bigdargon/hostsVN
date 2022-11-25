@@ -1325,7 +1325,10 @@
 0.0.0.0 apilogduration.mytvnet.vn
 #[wiinvent.tv]
 0.0.0.0 api.wiinvent.tv
+0.0.0.0 cdn-embed.wiinvent.tv
 0.0.0.0 embed.wiinvent.tv
+0.0.0.0 games.wiinvent.tv
+0.0.0.0 static1.wiinvent.tv
 0.0.0.0 wiinvent.tv
 #[wiinvent.com.vn]
 0.0.0.0 wiinvent.com.vn

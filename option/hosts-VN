@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Nov 2022 10:47 UTC+7
-# Version: 2211241047
-# Blocked: 1.703 domains
+# Last modified: 25 Nov 2022 09:35 UTC+7
+# Version: 2211250935
+# Blocked: 1.706 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1337,7 +1337,10 @@
 0.0.0.0 apilogduration.mytvnet.vn
 #[wiinvent.tv]
 0.0.0.0 api.wiinvent.tv
+0.0.0.0 cdn-embed.wiinvent.tv
 0.0.0.0 embed.wiinvent.tv
+0.0.0.0 games.wiinvent.tv
+0.0.0.0 static1.wiinvent.tv
 0.0.0.0 wiinvent.tv
 #[wiinvent.com.vn]
 0.0.0.0 wiinvent.com.vn
