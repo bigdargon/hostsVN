@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 25 Nov 2022 09:34 UTC+7
-# Version: 2211250934
-# Blocked: 607 domains
+# Last modified: 26 Nov 2022 09:56 UTC+7
+# Version: 2211260956
+# Blocked: 608 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -167,6 +167,7 @@
 0.0.0.0 ergyfrommo.cfd
 0.0.0.0 essbritanidim.club
 0.0.0.0 eventlqvn.com
+0.0.0.0 face-book.co
 0.0.0.0 fccomvn.com
 0.0.0.0 ff-member-ganena.com
 0.0.0.0 ff-member-gazeza.com

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 Nov 2022 09:35 UTC+7
-# Version: 2211250935
-# Blocked: 1.706 domains
+# Last modified: 26 Nov 2022 09:58 UTC+7
+# Version: 2211260958
+# Blocked: 1.703 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1338,6 +1338,7 @@
 #[wiinvent.tv]
 0.0.0.0 api.wiinvent.tv
 0.0.0.0 cdn-embed.wiinvent.tv
+0.0.0.0 dev.embed.wiinvent.tv
 0.0.0.0 embed.wiinvent.tv
 0.0.0.0 games.wiinvent.tv
 0.0.0.0 static1.wiinvent.tv
@@ -1413,7 +1414,6 @@
 0.0.0.0 ads.home.vn
 0.0.0.0 ads.homedy.net
 0.0.0.0 ads.ictnews.vn
-0.0.0.0 ads.khoahocdoisong.vn
 0.0.0.0 ads.kiemsat.vn
 0.0.0.0 ads.lamchame.vn
 0.0.0.0 ads.laodongbinhduong.org.vn
@@ -1445,7 +1445,6 @@
 0.0.0.0 adserver.muaban.net
 0.0.0.0 adserver.trangphim.net
 0.0.0.0 adsgo.nhipcaudautu.vn
-0.0.0.0 adsnetonline.work
 0.0.0.0 adsplus.vn
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adsweb.vn
@@ -1484,7 +1483,6 @@
 0.0.0.0 api2.boclinkads.com
 0.0.0.0 apia.headlines.pw
 0.0.0.0 avoadsservices.com
-0.0.0.0 banhtv.org
 0.0.0.0 banner.5giay.vn
 0.0.0.0 banner.etargeting.mobifone.vn
 0.0.0.0 banner.thadaco.vn
@@ -1492,7 +1490,6 @@
 0.0.0.0 banner.uto.vn
 0.0.0.0 bgadx.com
 0.0.0.0 bidgear-syndication.com
-0.0.0.0 bluemaulpuffs.com
 0.0.0.0 cdn-ads.thesaigontimes.vn
 0.0.0.0 cdn.rongzhouxing.com
 0.0.0.0 cdn2.cache.vn

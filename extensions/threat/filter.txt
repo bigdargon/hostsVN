@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 25 Nov 2022 09:34 UTC+7
-! Version: 2211250934
-! Blocked: 558 rules
+! Last modified: 26 Nov 2022 09:56 UTC+7
+! Version: 2211260956
+! Blocked: 559 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -163,6 +163,7 @@
 ||ergyfrommo.cfd^
 ||essbritanidim.club^
 ||eventlqvn.com^
+||face-book.co^
 ||fccomvn.com^
 ||ff-member-ganena.com^
 ||ff-member-gazeza.com^

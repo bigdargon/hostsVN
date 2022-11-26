@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 25 Nov 2022 09:34 UTC+7
-! Version: 2211250934
-! Blocked: 3.511 rules
+! Last modified: 26 Nov 2022 09:56 UTC+7
+! Version: 2211260956
+! Blocked: 3.519 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2629,8 +2629,10 @@
 ||ktovn.com^
 ||ku11.link^
 ||ku11.me^
+||ku11.net^
 ||ku11.org^
 ||ku11.pro^
+||ku19.net^
 ||ku558.net^
 ||ku6101.net^
 ||ku6106.net^
@@ -2663,6 +2665,7 @@
 ||kubet9.net^
 ||kubetae.com^
 ||kucasino68.net^
+||kucasinovn.asia^
 ||kuclub9.com^
 ||kufun.live^
 ||kufun.me^
@@ -3190,6 +3193,7 @@
 ||taiv8.info^
 ||taiv8.top^
 ||tap88.club^
+||tbab395.com^
 ||tf88265.com^
 ||tf88luck.com^
 ||tf88v.com^
@@ -3302,13 +3306,17 @@
 ||vn-lm.jbovietnam.com^
 ||vn.ku6101.net^
 ||vn.ku6106.net^
+||vn.ku6108.net^
 ||vn.ku6110.net^
 ||vn.ku6123.net^
+||vn.ku6126.net^
 ||vn.ku6131.net^
+||vn.ku6133.net^
 ||vn.pg.bet^
 ||vn.sol999.com^
 ||vn.solarbet.com^
 ||vn.solbet88.com^
+||vn.tbab556.com^
 ||vn.vndbetway.com^
 ||vn138viet.com^
 ||vn34.com^

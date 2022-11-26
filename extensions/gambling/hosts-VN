@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 25 Nov 2022 09:34 UTC+7
-# Version: 2211250934
-# Blocked: 3.897 domains
+# Last modified: 26 Nov 2022 09:56 UTC+7
+# Version: 2211260956
+# Blocked: 3.906 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2628,8 +2628,10 @@
 0.0.0.0 ktovn.com
 0.0.0.0 ku11.link
 0.0.0.0 ku11.me
+0.0.0.0 ku11.net
 0.0.0.0 ku11.org
 0.0.0.0 ku11.pro
+0.0.0.0 ku19.net
 0.0.0.0 ku558.net
 0.0.0.0 ku6101.net
 0.0.0.0 ku6106.net
@@ -2662,6 +2664,7 @@
 0.0.0.0 kubet9.net
 0.0.0.0 kubetae.com
 0.0.0.0 kucasino68.net
+0.0.0.0 kucasinovn.asia
 0.0.0.0 kuclub9.com
 0.0.0.0 kufun.live
 0.0.0.0 kufun.me
@@ -3188,6 +3191,7 @@
 0.0.0.0 taiv8.info
 0.0.0.0 taiv8.top
 0.0.0.0 tap88.club
+0.0.0.0 tbab395.com
 0.0.0.0 tf88265.com
 0.0.0.0 tf88luck.com
 0.0.0.0 tf88v.com
@@ -3300,13 +3304,17 @@
 0.0.0.0 vn-lm.jbovietnam.com
 0.0.0.0 vn.ku6101.net
 0.0.0.0 vn.ku6106.net
+0.0.0.0 vn.ku6108.net
 0.0.0.0 vn.ku6110.net
 0.0.0.0 vn.ku6123.net
+0.0.0.0 vn.ku6126.net
 0.0.0.0 vn.ku6131.net
+0.0.0.0 vn.ku6133.net
 0.0.0.0 vn.pg.bet
 0.0.0.0 vn.sol999.com
 0.0.0.0 vn.solarbet.com
 0.0.0.0 vn.solbet88.com
+0.0.0.0 vn.tbab556.com
 0.0.0.0 vn.vndbetway.com
 0.0.0.0 vn138viet.com
 0.0.0.0 vn34.com
@@ -3756,6 +3764,7 @@
 0.0.0.0 www.tai789.win
 0.0.0.0 www.taib52.vin
 0.0.0.0 www.taikufun.com
+0.0.0.0 www.tbab395.com
 0.0.0.0 www.tf88265.com
 0.0.0.0 www.tf88luck.com
 0.0.0.0 www.tf88v.com

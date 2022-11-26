@@ -601,12 +601,8 @@
 0.0.0.0 api.inmobi.cn
 0.0.0.0 api.w.inmobi.cn
 0.0.0.0 au.w.inmobi.cn
-0.0.0.0 c.w.inmobi.cn
-0.0.0.0 c.w.vip.pek1.inmobi.cn
 0.0.0.0 c2s.w.inmobi.cn
 0.0.0.0 config.inmobi.cn
-0.0.0.0 et.w.inmobi.cn
-0.0.0.0 et.w.vip.pek1.inmobi.cn
 0.0.0.0 et2.w.inmobi.cn
 0.0.0.0 helix.inmobi.cn
 0.0.0.0 i.w.inmobi.cn
@@ -617,7 +613,6 @@
 0.0.0.0 telemetry.sdk.inmobi.cn
 0.0.0.0 w.inmobi.cn
 0.0.0.0 w.vip.dfw2.inmobi.cn
-0.0.0.0 w.vip.pek1.inmobi.cn
 0.0.0.0 www.inmobi.cn
 #[inmobi.net]
 0.0.0.0 cdn.oem.inmobi.net
@@ -750,7 +745,6 @@
 0.0.0.0 prebid.mgid.com
 0.0.0.0 s-img.mgid.com
 0.0.0.0 servicer.mgid.com
-0.0.0.0 static.mgid.com
 0.0.0.0 video-native.mgid.com
 0.0.0.0 widgets.mgid.com
 #[adnow.com]
@@ -893,7 +887,6 @@
 0.0.0.0 www.exponential.com
 #[propellerads]
 0.0.0.0 ad.propellerads.com
-0.0.0.0 native.propellerads.com
 0.0.0.0 offers.propellerads.com
 0.0.0.0 partners.propellerads.com
 0.0.0.0 promo.propellerads.com
@@ -1336,6 +1329,7 @@
 #[sec.miui.com]
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 api.sec.miui.com
+0.0.0.0 api.tw06.xlmc.sec.miui.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 mazu.sec.miui.com
@@ -11001,3 +10995,15 @@
 #[bquildna43.site]
 0.0.0.0 bquildna43.site
 0.0.0.0 pn.bquildna43.site
+#[statsig.com]
+0.0.0.0 api.statsig.com
+0.0.0.0 statsig.com
+#[agentanalytics.com]
+0.0.0.0 agentanalytics.com
+0.0.0.0 o.agentanalytics.com
+0.0.0.0 p.agentanalytics.com
+0.0.0.0 post.agentanalytics.com
+0.0.0.0 s.agentanalytics.com
+0.0.0.0 t.agentanalytics.com
+0.0.0.0 u.agentanalytics.com
+0.0.0.0 www.agentanalytics.com

@@ -82,4 +82,5 @@
 ^https?:\/\/.+\.amemv\.com\/api\/ad
 
 #mmo
+^https:\/\/api\.vebo\.xyz\/api\/a\/(vebotv|xoilac|mitom)\/(home|live|bh)
 ^https?:\/\/.+\.\w{2,3}\/mmo
