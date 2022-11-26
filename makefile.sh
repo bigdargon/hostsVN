@@ -43,6 +43,7 @@ cat tmp/title-hosts-iOS.tmp tmp/hosts-iOS.tmp > option/hosts-iOS
 
 # create domain file
 cat hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' > option/domain.txt
+cat option/hosts-VN | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' > option/domain-VN.txt
 
 echo "Creating adserver file..."
 # create temp adserver files

@@ -30,21 +30,26 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 ```
 
+- Đường dẫn tập tin chỉ chứa [tên miền](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain-VN.txt) ở Việt Nam:
+```
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain-VN.txt
+```
+
 ## iOS
 
-- Với ứng dụng [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers-all.txt):
+- Với ứng dụng [Adguard Premium/Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers-all.txt):
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers-all.txt
 ```
 
-- Với ứng dụng [Adblock](https://github.com/bigdargon/hostsVN/wiki/Adblock) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/domain-adservers-all.txt):
+- Với ứng dụng [Adblock](https://github.com/bigdargon/hostsVN/wiki/Adblock) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/wildcard.txt):
 ```
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/domain-adservers-all.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/wildcard.txt
 ```
 
-- Với ứng dụng [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN.conf):
+- Với ứng dụng [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge.conf):
 ```
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN.conf
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge.conf
 ```
 
 - Với ứng dụng [Shadowrocket](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-shadowrocket.conf):
@@ -57,7 +62,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-shadow
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX.conf
 ```
 
-**Ngoài ra**, bạn nên sử dụng thêm [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard) để chặn quảng cáo **trên Safari**.
+**Ngoài ra**, bạn cần sử dụng [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard) để chặn quảng cáo **trên Safari**.
 
 ## Android
 
