@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 26 Nov 2022 09:58 UTC+7
-# Version: 2211260958
-# Blocked: 17.066 domains
+# Last modified: 26 Nov 2022 23:21 UTC+7
+# Version: 2211262321
+# Blocked: 17.040 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1552,19 +1552,16 @@
 0 api.chartboost.com
 0 assets.chartboost.com
 0 assets-v3.chartboost.com
-0 b.chartboost.com
 0 chartboost.com
 0 dashapi.chartboost.com
 0 engineering.chartboost.com
 0 icon.chartboost.com
 0 live.chartboost.com
-0 pages.chartboost.com
 0 partners.chartboost.com
 0 sites.chartboost.com
 0 static.chartboost.com
 0 t.chartboost.com
 0 t3.chartboost.com
-0 tracking.chartboost.com
 0 v2.chartboost.com
 0 v4.chartboost.com
 0 v5.chartboost.com
@@ -1594,10 +1591,6 @@
 0 www.trackjs.com
 0 d2zah9y47r7bi2.cloudfront.net
 0 dl1d2m8ri9v3j.cloudfront.net
-0 ad4screen.com
-0 www.ad4screen.com
-0 portal.ad4screen.com
-0 my.ad4screen.com
 0 advertnative.com
 0 click.advertnative.com
 0 worker1.advertnative.com
@@ -1646,7 +1639,6 @@
 0 js.alexametrics.com
 0 pixel.alexametrics.com
 0 d31qbv1cthcecs.cloudfront.net
-0 d5nxst8fruw4z.cloudfront.net
 0 adc3-assets.adcolony.com
 0 adc3-launch-staging.adcolony.com
 0 adc3-launch.adcolony.com
@@ -1690,7 +1682,6 @@
 0 ci.adsafeprotected.com
 0 dt.adsafeprotected.com
 0 dt.fw.adsafeprotected.com
-0 dtias.adsafeprotected.com
 0 extapi-cmp.adsafeprotected.com
 0 fw.adsafeprotected.com
 0 fw.bapi.adsafeprotected.com
@@ -2088,12 +2079,9 @@
 0 btlr-ecs-ap-southeast-1.sharethrough.com
 0 btlr-ecs-us-west-1.sharethrough.com
 0 btlr.sharethrough.com
-0 creatives.sharethrough.com
-0 integration.sharethrough.com
 0 match.sharethrough.com
 0 mstr.sharethrough.com
 0 native.sharethrough.com
-0 platform-cdn.sharethrough.com
 0 sdk.sharethrough.com
 0 sharethrough.com
 0 snowforce.sharethrough.com
@@ -2107,7 +2095,6 @@
 0 rfp.lkqd.net
 0 rs-lb-a.lkqd.net
 0 rs-lb-b.lkqd.net
-0 rs-lb-dev.lkqd.net
 0 rtb.lkqd.net
 0 s.lkqd.net
 0 ssp.lkqd.net
@@ -4645,7 +4632,6 @@
 0 aj1052.online
 0 aj1070.online
 0 aj1090.online
-0 aj1101.online
 0 aj1354.online
 0 aj1408.online
 0 aj1431.online
@@ -4665,8 +4651,6 @@
 0 aj1987.online
 0 ajx272.online
 0 ajxx91.online
-0 arsenal54.xyz
-0 arsenal56.xyz
 0 ad.plus
 0 cdn.ad.plus
 0 reports.ad.plus
@@ -4690,7 +4674,6 @@
 0 sa.scorecardresearch.com
 0 sb.scorecardresearch.com
 0 scorecardresearch.com
-0 seb.scorecardresearch.com
 0 udm.scorecardresearch.com
 0 www.scorecardresearch.com
 0 ad.daum.net
@@ -5091,7 +5074,6 @@
 0 stg-cf.im-apps.net
 0 stg-dmp.im-apps.net
 0 stg-sync.im-apps.net
-0 stg-sync-jp.im-apps.net
 0 sync.im-apps.net
 0 sync-jp.im-apps.net
 0 track.im-apps.net
@@ -5125,8 +5107,6 @@
 0 mercury-int.marketo.com
 0 mfm.marketo.com
 0 micro.marketo.com
-0 mm.marketo.com
-0 mon1.marketo.com
 0 mugs.marketo.com
 0 na-st.marketo.com
 0 na-stage.marketo.com
@@ -5201,7 +5181,6 @@
 0 collect.iperceptions.com
 0 group11.iperceptions.com
 0 iperceptions.com
-0 ipinvite.iperceptions.com
 0 ips-collect.iperceptions.com
 0 ips-img.iperceptions.com
 0 ips-post.iperceptions.com
@@ -5855,8 +5834,6 @@
 0 mobileoffers-bn-download.com
 0 js.mobileoffers-ac-download.com
 0 js.mobileoffers-al-download.com
-0 fadsans.com
-0 fadsats.com
 0 fadsims.com
 0 fadskis.com
 0 fadsoks.com
@@ -5883,9 +5860,6 @@
 0 sadsabz.com
 0 sadsatz.com
 0 sadsecz.com
-0 sadsipz.com
-0 sadslimz.com
-0 hadsabz.com
 0 hadsanz.com
 0 hadsatz.com
 0 hadsecz.com
@@ -5893,7 +5867,6 @@
 0 hadsipz.com
 0 hadskiz.com
 0 hadsokz.com
-0 hadspmz.com
 0 adjust.com
 0 app.adjust.com
 0 atom.adjust.com
@@ -5941,7 +5914,6 @@
 0 report.ad4game.com
 0 traffic.ad4game.com
 0 www.ad4game.com
-0 a2.server.cpmstar.com
 0 bcdn.cpmstar.com
 0 cdn.cpmstar.com
 0 cpmstar.com
@@ -6011,9 +5983,7 @@
 0 formats.triplelift.com
 0 marketing.triplelift.com
 0 native.triplelift.com
-0 native-creative.triplelift.com
 0 nativeplaybook.triplelift.com
-0 partners.triplelift.com
 0 people.triplelift.com
 0 screenshot.triplelift.com
 0 signature.triplelift.com
@@ -6051,13 +6021,11 @@
 0 api.appnexus.com
 0 app.appnexus.com
 0 autodiscover.ad.corp.appnexus.com
-0 autodiscover.appnexus.com
 0 bidder-sand.appnexus.com
 0 bind-gateway.corp.appnexus.com
 0 bts.appnexus.com
 0 console.appnexus.com
 0 go.appnexus.com
-0 lg.appnexus.com
 0 ok.appnexus.com
 0 pbx-ams1.corp.appnexus.com
 0 pmfstream.appnexus.com
@@ -6704,8 +6672,6 @@
 0 s3.cheqzone.com
 0 serve2.cheqzone.com
 0 serve-static.cheqzone.com
-0 stagingserve3.cheqzone.com
-0 systran.cheqzone.com
 0 amp.permutive.com
 0 api.permutive.com
 0 buzzfeed.amp.permutive.com
@@ -7554,8 +7520,6 @@
 0 no-cdn.convertexperiments.com
 0 adserver.shadow.snapads.com
 0 adserver.snapads.com
-0 ase.adserver.snapads.com
-0 euw.adserver.snapads.com
 0 snapads.com
 0 study.snapads.com
 0 usc.adserver.snapads.com
@@ -9771,6 +9735,9 @@
 0 t.agentanalytics.com
 0 u.agentanalytics.com
 0 www.agentanalytics.com
+0 adssettings.365scores.com
+0 analytics.365scores.com
+0 dhn-ads-api.365scores.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10153,10 +10120,14 @@
 0 ads.platform.zalo.me
 0 ads.zalo.me
 0 api.widget.zalo.me
+0 button-call.zalo.me
 0 button-follow.zalo.me
 0 button-share.zalo.me
+0 groupstats.event.zalo.me
 0 page.widget.zalo.me
 0 px.za.zalo.me
+0 sentry-mini.zalo.me
+0 stats.hc.score.dmp.zalo.me
 0 widget.chat.zalo.me
 0 ads.zaloapp.com
 0 centralized.zaloapp.com
@@ -10165,6 +10136,7 @@
 0 px.dmp.zaloapp.com
 0 px.za.zaloapp.com
 0 static-ads.zaloapp.com
+0 stats.dev.zaloapp.com
 0 stats.zaloapp.com
 0 trk-pcweb.api.zaloapp.com
 0 wg.zaloapp.com
@@ -11664,6 +11636,7 @@
 0 ad4mat.com
 0 ad4mat.de
 0 ad4push.com
+0 ad4screen.com
 0 ad6media.fr
 0 adacado.com
 0 adaction.de
@@ -12496,6 +12469,7 @@
 0 arisedammiral.com
 0 aromamirror.com
 0 arsdev.net
+0 arsenal54.xyz
 0 arswabluchan.com
 0 artpever.com
 0 as.sexad.net
@@ -13355,7 +13329,6 @@
 0 dn0qt3r0xannq.cloudfront.net
 0 dnemkhkbsdbl.com
 0 dnhfi5nn2dt67.cloudfront.net
-0 dns.ladipage.com
 0 docksalmon.com
 0 doerscharre.com
 0 dogconcurrencesauce.com
@@ -16157,6 +16130,7 @@
 0 www.5advertise.com
 0 www.999.money
 0 www.ad287.com
+0 www.ad4screen.com
 0 www.adexchangetracker.com
 0 www.admarket.network
 0 www.admedia.network

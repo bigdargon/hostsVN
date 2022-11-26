@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 26 Nov 2022 09:58 UTC+7
-! Version: 2211260958
-! Blocked: 1.492 rules
+! Last modified: 26 Nov 2022 23:21 UTC+7
+! Version: 2211262321
+! Blocked: 1.497 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -75,6 +75,7 @@
 ||bongdadem.net^
 ||boxpr.aiservice.vn^
 ||brand.zing.vn^
+||button-call.zalo.me^
 ||button-follow.zalo.me^
 ||button-share.zalo.me^
 ||bwstatistics.sapoapps.vn^
@@ -117,6 +118,7 @@
 ||google-shopping.sapoapps.vn^
 ||googleshopping.sapoapps.vn^
 ||gostats.vn^
+||groupstats.event.zalo.me^
 ||haraads.com^
 ||harafunnel.com^
 ||haraloyalty.com^
@@ -222,6 +224,7 @@
 ||sbbanner-com.cdn.ampproject.org^
 ||sbz.vn^
 ||sdk.zadn.vn^
+||sentry-mini.zalo.me^
 ||service-api.accesstrade.vn^
 ||serving-system.com^
 ||sharefb.cnnd.vn^
@@ -236,6 +239,8 @@
 ||static-ads.zaloapp.com^
 ||static.accesstrade.vn^
 ||statistic-blog-v2.sapoapps.vn^
+||stats.dev.zaloapp.com^
+||stats.hc.score.dmp.zalo.me^
 ||stats.zaloapp.com^
 ||stc-support-app-brand.zdn.vn^
 ||subiz-cdn.com^

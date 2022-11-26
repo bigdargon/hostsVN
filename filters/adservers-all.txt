@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 Nov 2022 09:58 UTC+7
-! Version: 2211260958
-! Blocked: 8.693 rules
+! Last modified: 26 Nov 2022 23:21 UTC+7
+! Version: 2211262321
+! Blocked: 8.699 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -75,6 +75,7 @@
 ||bongdadem.net^
 ||boxpr.aiservice.vn^
 ||brand.zing.vn^
+||button-call.zalo.me^
 ||button-follow.zalo.me^
 ||button-share.zalo.me^
 ||bwstatistics.sapoapps.vn^
@@ -117,6 +118,7 @@
 ||google-shopping.sapoapps.vn^
 ||googleshopping.sapoapps.vn^
 ||gostats.vn^
+||groupstats.event.zalo.me^
 ||haraads.com^
 ||harafunnel.com^
 ||haraloyalty.com^
@@ -222,6 +224,7 @@
 ||sbbanner-com.cdn.ampproject.org^
 ||sbz.vn^
 ||sdk.zadn.vn^
+||sentry-mini.zalo.me^
 ||service-api.accesstrade.vn^
 ||serving-system.com^
 ||sharefb.cnnd.vn^
@@ -236,6 +239,8 @@
 ||static-ads.zaloapp.com^
 ||static.accesstrade.vn^
 ||statistic-blog-v2.sapoapps.vn^
+||stats.dev.zaloapp.com^
+||stats.hc.score.dmp.zalo.me^
 ||stats.zaloapp.com^
 ||stc-support-app-brand.zdn.vn^
 ||subiz-cdn.com^
@@ -1561,7 +1566,6 @@
 ||ad4game.com^
 ||ad4m.at^
 ||ad4mat.net^
-||ad4screen.com^
 ||adadvisor.net^
 ||adalyser.com^
 ||adap.tv^
@@ -1733,6 +1737,7 @@
 ||adspsp.com^
 ||adspyglass.com^
 ||adsrvr.org^
+||adssettings.365scores.com^
 ||adstage-analytics.herokuapp.com^
 ||adstatic.b-cdn.net^
 ||adstatic.com^
@@ -1831,6 +1836,7 @@
 ||analysis.fi^
 ||analytics-ad-*.kgslb.com^
 ||analytics-sg.tiktok.com^
+||analytics.365scores.com^
 ||analytics.autodesk.com^
 ||analytics.cloud.unity3d.com^
 ||analytics.edgekey.net^
@@ -1913,7 +1919,6 @@
 ||aralego.com^
 ||aralego.net^
 ||ard.yahoo.co.jp^
-||arsena*.xyz^
 ||artsai.com^
 ||asdfix.com^
 ||asdpoi.com^
@@ -2177,7 +2182,6 @@
 ||d31qbv1cthcecs.cloudfront.net^
 ||d3luypns9uh4a4.cloudfront.net^
 ||d41.co^
-||d5nxst8fruw4z.cloudfront.net^
 ||dashboard.tinypass.com^
 ||data-optout-service.uca.cloud.unity3d.com^
 ||data.adobedc.net^
@@ -2200,6 +2204,7 @@
 ||dezf3o8j9jdt6.cloudfront.net^
 ||dfbanners.com^
 ||dfnb-ads.com^
+||dhn-ads-api.365scores.com^
 ||direct-events-collector.spot.im^
 ||directoffers.go2cloud.org^
 ||display-ad-*.kgslb.com^
@@ -3451,6 +3456,7 @@
 ||ad4mat.com^
 ||ad4mat.de^
 ||ad4push.com^
+||ad4screen.com^
 ||ad6media.fr^
 ||adacado.com^
 ||adaction.de^
@@ -4368,6 +4374,7 @@
 ||arisedammiral.com^
 ||aromamirror.com^
 ||arsdev.net^
+||arsenal54.xyz^
 ||arswabluchan.com^
 ||artpever.com^
 ||as.sexad.net^
@@ -5330,7 +5337,6 @@
 ||dnhfi5nn2dt67.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnps.com^
-||dns.ladipage.com^
 ||do-not-tracker.org^
 ||docksalmon.com^
 ||doerscharre.com^

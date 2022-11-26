@@ -413,10 +413,14 @@
 0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.zalo.me
 0.0.0.0 api.widget.zalo.me
+0.0.0.0 button-call.zalo.me
 0.0.0.0 button-follow.zalo.me
 0.0.0.0 button-share.zalo.me
+0.0.0.0 groupstats.event.zalo.me
 0.0.0.0 page.widget.zalo.me
 0.0.0.0 px.za.zalo.me
+0.0.0.0 sentry-mini.zalo.me
+0.0.0.0 stats.hc.score.dmp.zalo.me
 0.0.0.0 widget.chat.zalo.me
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
@@ -426,6 +430,7 @@
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 px.za.zaloapp.com
 0.0.0.0 static-ads.zaloapp.com
+0.0.0.0 stats.dev.zaloapp.com
 0.0.0.0 stats.zaloapp.com
 0.0.0.0 trk-pcweb.api.zaloapp.com
 0.0.0.0 wg.zaloapp.com

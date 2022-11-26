@@ -1536,19 +1536,16 @@ answers.chartboost.com
 api.chartboost.com
 assets.chartboost.com
 assets-v3.chartboost.com
-b.chartboost.com
 chartboost.com
 dashapi.chartboost.com
 engineering.chartboost.com
 icon.chartboost.com
 live.chartboost.com
-pages.chartboost.com
 partners.chartboost.com
 sites.chartboost.com
 static.chartboost.com
 t.chartboost.com
 t3.chartboost.com
-tracking.chartboost.com
 v2.chartboost.com
 v4.chartboost.com
 v5.chartboost.com
@@ -1578,10 +1575,6 @@ usage.trackjs.com
 www.trackjs.com
 d2zah9y47r7bi2.cloudfront.net
 dl1d2m8ri9v3j.cloudfront.net
-ad4screen.com
-www.ad4screen.com
-portal.ad4screen.com
-my.ad4screen.com
 advertnative.com
 click.advertnative.com
 worker1.advertnative.com
@@ -1630,7 +1623,6 @@ certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
 d31qbv1cthcecs.cloudfront.net
-d5nxst8fruw4z.cloudfront.net
 adc3-assets.adcolony.com
 adc3-launch-staging.adcolony.com
 adc3-launch.adcolony.com
@@ -1674,7 +1666,6 @@ cdn01.adsafeprotected.com
 ci.adsafeprotected.com
 dt.adsafeprotected.com
 dt.fw.adsafeprotected.com
-dtias.adsafeprotected.com
 extapi-cmp.adsafeprotected.com
 fw.adsafeprotected.com
 fw.bapi.adsafeprotected.com
@@ -2072,12 +2063,9 @@ b.sharethrough.com
 btlr-ecs-ap-southeast-1.sharethrough.com
 btlr-ecs-us-west-1.sharethrough.com
 btlr.sharethrough.com
-creatives.sharethrough.com
-integration.sharethrough.com
 match.sharethrough.com
 mstr.sharethrough.com
 native.sharethrough.com
-platform-cdn.sharethrough.com
 sdk.sharethrough.com
 sharethrough.com
 snowforce.sharethrough.com
@@ -2091,7 +2079,6 @@ m.lkqd.net
 rfp.lkqd.net
 rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
-rs-lb-dev.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
@@ -4629,7 +4616,6 @@ aj1047.online
 aj1052.online
 aj1070.online
 aj1090.online
-aj1101.online
 aj1354.online
 aj1408.online
 aj1431.online
@@ -4649,8 +4635,6 @@ aj1985.online
 aj1987.online
 ajx272.online
 ajxx91.online
-arsenal54.xyz
-arsenal56.xyz
 ad.plus
 cdn.ad.plus
 reports.ad.plus
@@ -4674,7 +4658,6 @@ d.scorecardresearch.com
 sa.scorecardresearch.com
 sb.scorecardresearch.com
 scorecardresearch.com
-seb.scorecardresearch.com
 udm.scorecardresearch.com
 www.scorecardresearch.com
 ad.daum.net
@@ -5075,7 +5058,6 @@ shirahama.im-apps.net
 stg-cf.im-apps.net
 stg-dmp.im-apps.net
 stg-sync.im-apps.net
-stg-sync-jp.im-apps.net
 sync.im-apps.net
 sync-jp.im-apps.net
 track.im-apps.net
@@ -5109,8 +5091,6 @@ mdt-www.marketo.com
 mercury-int.marketo.com
 mfm.marketo.com
 micro.marketo.com
-mm.marketo.com
-mon1.marketo.com
 mugs.marketo.com
 na-st.marketo.com
 na-stage.marketo.com
@@ -5185,7 +5165,6 @@ api.iperceptions.com
 collect.iperceptions.com
 group11.iperceptions.com
 iperceptions.com
-ipinvite.iperceptions.com
 ips-collect.iperceptions.com
 ips-img.iperceptions.com
 ips-post.iperceptions.com
@@ -5839,8 +5818,6 @@ mobileoffers-bm-download.com
 mobileoffers-bn-download.com
 js.mobileoffers-ac-download.com
 js.mobileoffers-al-download.com
-fadsans.com
-fadsats.com
 fadsims.com
 fadskis.com
 fadsoks.com
@@ -5867,9 +5844,6 @@ madspmz.com
 sadsabz.com
 sadsatz.com
 sadsecz.com
-sadsipz.com
-sadslimz.com
-hadsabz.com
 hadsanz.com
 hadsatz.com
 hadsecz.com
@@ -5877,7 +5851,6 @@ hadsimz.com
 hadsipz.com
 hadskiz.com
 hadsokz.com
-hadspmz.com
 adjust.com
 app.adjust.com
 atom.adjust.com
@@ -5925,7 +5898,6 @@ mpe.ad4game.com
 report.ad4game.com
 traffic.ad4game.com
 www.ad4game.com
-a2.server.cpmstar.com
 bcdn.cpmstar.com
 cdn.cpmstar.com
 cpmstar.com
@@ -5995,9 +5967,7 @@ corp-assets.triplelift.com
 formats.triplelift.com
 marketing.triplelift.com
 native.triplelift.com
-native-creative.triplelift.com
 nativeplaybook.triplelift.com
-partners.triplelift.com
 people.triplelift.com
 screenshot.triplelift.com
 signature.triplelift.com
@@ -6035,13 +6005,11 @@ anex.appnexus.com
 api.appnexus.com
 app.appnexus.com
 autodiscover.ad.corp.appnexus.com
-autodiscover.appnexus.com
 bidder-sand.appnexus.com
 bind-gateway.corp.appnexus.com
 bts.appnexus.com
 console.appnexus.com
 go.appnexus.com
-lg.appnexus.com
 ok.appnexus.com
 pbx-ams1.corp.appnexus.com
 pmfstream.appnexus.com
@@ -6688,8 +6656,6 @@ s2.cheqzone.com
 s3.cheqzone.com
 serve2.cheqzone.com
 serve-static.cheqzone.com
-stagingserve3.cheqzone.com
-systran.cheqzone.com
 amp.permutive.com
 api.permutive.com
 buzzfeed.amp.permutive.com
@@ -7538,8 +7504,6 @@ logs.convertexperiments.com
 no-cdn.convertexperiments.com
 adserver.shadow.snapads.com
 adserver.snapads.com
-ase.adserver.snapads.com
-euw.adserver.snapads.com
 snapads.com
 study.snapads.com
 usc.adserver.snapads.com
@@ -9755,6 +9719,9 @@ s.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 www.agentanalytics.com
+adssettings.365scores.com
+analytics.365scores.com
+dhn-ads-api.365scores.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -10137,10 +10104,14 @@ za.zingnews.vn
 ads.platform.zalo.me
 ads.zalo.me
 api.widget.zalo.me
+button-call.zalo.me
 button-follow.zalo.me
 button-share.zalo.me
+groupstats.event.zalo.me
 page.widget.zalo.me
 px.za.zalo.me
+sentry-mini.zalo.me
+stats.hc.score.dmp.zalo.me
 widget.chat.zalo.me
 ads.zaloapp.com
 centralized.zaloapp.com
@@ -10149,6 +10120,7 @@ photo-ads.zaloapp.com
 px.dmp.zaloapp.com
 px.za.zaloapp.com
 static-ads.zaloapp.com
+stats.dev.zaloapp.com
 stats.zaloapp.com
 trk-pcweb.api.zaloapp.com
 wg.zaloapp.com
@@ -11648,6 +11620,7 @@ ad365.cc
 ad4mat.com
 ad4mat.de
 ad4push.com
+ad4screen.com
 ad6media.fr
 adacado.com
 adaction.de
@@ -12480,6 +12453,7 @@ argyresthia.com
 arisedammiral.com
 aromamirror.com
 arsdev.net
+arsenal54.xyz
 arswabluchan.com
 artpever.com
 as.sexad.net
@@ -13339,7 +13313,6 @@ dmxleo.dailymotion.com
 dn0qt3r0xannq.cloudfront.net
 dnemkhkbsdbl.com
 dnhfi5nn2dt67.cloudfront.net
-dns.ladipage.com
 docksalmon.com
 doerscharre.com
 dogconcurrencesauce.com
@@ -16141,6 +16114,7 @@ www.520click.com
 www.5advertise.com
 www.999.money
 www.ad287.com
+www.ad4screen.com
 www.adexchangetracker.com
 www.admarket.network
 www.admedia.network
