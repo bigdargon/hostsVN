@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 26 Nov 2022 23:21 UTC+7
-# Version: 2211262321
-# Blocked: 3.908 domains
+# Last modified: 27 Nov 2022 10:20 UTC+7
+# Version: 2211271020
+# Blocked: 3.913 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -134,6 +134,7 @@
 0.0.0.0 6677444.com
 0.0.0.0 668dg.net
 0.0.0.0 668kbet.com
+0.0.0.0 66ko9.com
 0.0.0.0 68b3.club
 0.0.0.0 68rich.com
 0.0.0.0 766one.com
@@ -743,10 +744,12 @@
 0.0.0.0 goal86.top
 0.0.0.0 gomy188.com
 0.0.0.0 goplayk8.com
+0.0.0.0 gowin39.com
 0.0.0.0 gw.zbet.com
 0.0.0.0 h3bet.com
 0.0.0.0 happy9luck.com
 0.0.0.0 happynb.com
+0.0.0.0 hb88p.com
 0.0.0.0 hi.oppa888.com
 0.0.0.0 hi888.app
 0.0.0.0 hi88vip8.com
@@ -3039,6 +3042,7 @@
 0.0.0.0 qq188.com
 0.0.0.0 qq288.com
 0.0.0.0 qq288jak.com
+0.0.0.0 qq628.live
 0.0.0.0 qq8788.net
 0.0.0.0 qq8788viet.com
 0.0.0.0 quayhuk8.info
@@ -3211,6 +3215,7 @@
 0.0.0.0 thailanthwin.com
 0.0.0.0 thailanthwin.net
 0.0.0.0 thantai68.com
+0.0.0.0 thehotlive.com
 0.0.0.0 thethao.sin88.biz
 0.0.0.0 thethao188bet.com
 0.0.0.0 thethaodabet.com

@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 26 Nov 2022 23:21 UTC+7
-# Version: 2211262321
-# Blocked: 12.868 domains
+# Last modified: 27 Nov 2022 10:20 UTC+7
+# Version: 2211271020
+# Blocked: 12.869 domains
 # Only include adult domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10330,6 +10330,7 @@
 0.0.0.0 truyensac.net
 0.0.0.0 truyensec.net
 0.0.0.0 truyensex.cc
+0.0.0.0 truyensex.one
 0.0.0.0 truyensex.vip
 0.0.0.0 truyensex18.com
 0.0.0.0 truyensex88.info
