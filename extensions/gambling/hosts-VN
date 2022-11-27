@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 27 Nov 2022 10:20 UTC+7
-# Version: 2211271020
-# Blocked: 3.913 domains
+# Last modified: 27 Nov 2022 16:45 UTC+7
+# Version: 2211271645
+# Blocked: 3.925 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -359,6 +359,7 @@
 0.0.0.0 api.betlv.com
 0.0.0.0 api.f8bet0.com
 0.0.0.0 api.f8bet5.com
+0.0.0.0 api.hb88p.com
 0.0.0.0 api.i8bet.org
 0.0.0.0 api.i99902.com
 0.0.0.0 api.i99903.com
@@ -2685,6 +2686,7 @@
 0.0.0.0 linkbk8.com
 0.0.0.0 linkbong88moinhat.com
 0.0.0.0 linkvaobw.info
+0.0.0.0 linkvaom88.xyz
 0.0.0.0 linkw88dn.com
 0.0.0.0 lite-1x0801165.top
 0.0.0.0 lite-1x6603199.top
@@ -2736,6 +2738,7 @@
 0.0.0.0 m.388bet.vin
 0.0.0.0 m.388bet.vip
 0.0.0.0 m.520xiaojin.com
+0.0.0.0 m.66ko9.com
 0.0.0.0 m.88viet.com
 0.0.0.0 m.88vnd.com
 0.0.0.0 m.8live.com
@@ -2806,6 +2809,7 @@
 0.0.0.0 m.w88city.com
 0.0.0.0 m.w88club.com
 0.0.0.0 m.w88hn.com
+0.0.0.0 m.w88io.com
 0.0.0.0 m.w88ok.com
 0.0.0.0 m.w88yes.com
 0.0.0.0 m.wellviet.net
@@ -2846,6 +2850,7 @@
 0.0.0.0 mc876.com
 0.0.0.0 me88vietnam.com
 0.0.0.0 media.happynb.com
+0.0.0.0 mi3368.com
 0.0.0.0 mibet.cc
 0.0.0.0 mibet.com
 0.0.0.0 mibet.mobi
@@ -2925,6 +2930,7 @@
 0.0.0.0 ole777vietnam.com
 0.0.0.0 oleviet777.com
 0.0.0.0 olympic24.com
+0.0.0.0 onbet111.com
 0.0.0.0 one88.club
 0.0.0.0 one88.com
 0.0.0.0 one88.fun
@@ -2946,6 +2952,7 @@
 0.0.0.0 oxbet.com
 0.0.0.0 oxbet.net
 0.0.0.0 oxbet.top
+0.0.0.0 oxbet.vip
 0.0.0.0 oxbet.win
 0.0.0.0 oxbetd.com
 0.0.0.0 oz37j.com
@@ -3198,6 +3205,7 @@
 0.0.0.0 taiv8.top
 0.0.0.0 tap88.club
 0.0.0.0 tbab395.com
+0.0.0.0 tf2022v.com
 0.0.0.0 tf88265.com
 0.0.0.0 tf88luck.com
 0.0.0.0 tf88v.com
@@ -3301,6 +3309,7 @@
 0.0.0.0 vietbet.eu
 0.0.0.0 vietvwin.com
 0.0.0.0 vig.vietbet.eu
+0.0.0.0 vin68.com
 0.0.0.0 vinalottery.com
 0.0.0.0 vip.8kbet.vn
 0.0.0.0 vip.v99win.app
@@ -3431,6 +3440,7 @@
 0.0.0.0 w88club.com
 0.0.0.0 w88easy.com
 0.0.0.0 w88hn.com
+0.0.0.0 w88io.com
 0.0.0.0 w88kub.com
 0.0.0.0 w88mp.com
 0.0.0.0 w88ok.com
@@ -3647,6 +3657,7 @@
 0.0.0.0 www.goal86.top
 0.0.0.0 www.h3bet.com
 0.0.0.0 www.happynb.com
+0.0.0.0 www.hb88p.com
 0.0.0.0 www.hi888.app
 0.0.0.0 www.hi88vip8.com
 0.0.0.0 www.i8bet.org
@@ -3852,6 +3863,7 @@
 0.0.0.0 www.w88city.com
 0.0.0.0 www.w88club.com
 0.0.0.0 www.w88hn.com
+0.0.0.0 www.w88io.com
 0.0.0.0 www.w88ok.com
 0.0.0.0 www.w88so.com
 0.0.0.0 www.w88u2.com

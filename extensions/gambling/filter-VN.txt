@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 27 Nov 2022 10:20 UTC+7
-! Version: 2211271020
-! Blocked: 3.526 rules
+! Last modified: 27 Nov 2022 16:45 UTC+7
+! Version: 2211271645
+! Blocked: 3.536 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -358,6 +358,7 @@
 ||api.betlv.com^
 ||api.f8bet0.com^
 ||api.f8bet5.com^
+||api.hb88p.com^
 ||api.i8bet.org^
 ||api.i99902.com^
 ||api.i99903.com^
@@ -2686,6 +2687,7 @@
 ||linkbk8.com^
 ||linkbong88moinhat.com^
 ||linkvaobw.info^
+||linkvaom88.xyz^
 ||linkw88dn.com^
 ||lite-1x0801165.top^
 ||lite-1x6603199.top^
@@ -2737,6 +2739,7 @@
 ||m.388bet.vin^
 ||m.388bet.vip^
 ||m.520xiaojin.com^
+||m.66ko9.com^
 ||m.88viet.com^
 ||m.88vnd.com^
 ||m.8live.com^
@@ -2807,6 +2810,7 @@
 ||m.w88city.com^
 ||m.w88club.com^
 ||m.w88hn.com^
+||m.w88io.com^
 ||m.w88ok.com^
 ||m.w88yes.com^
 ||m.wellviet.net^
@@ -2847,6 +2851,7 @@
 ||mc876.com^
 ||me88vietnam.com^
 ||media.happynb.com^
+||mi3368.com^
 ||mibet.cc^
 ||mibet.com^
 ||mibet.mobi^
@@ -2926,6 +2931,7 @@
 ||ole777vietnam.com^
 ||oleviet777.com^
 ||olympic24.com^
+||onbet111.com^
 ||one88.club^
 ||one88.com^
 ||one88.fun^
@@ -2947,6 +2953,7 @@
 ||oxbet.com^
 ||oxbet.net^
 ||oxbet.top^
+||oxbet.vip^
 ||oxbet.win^
 ||oxbetd.com^
 ||oz37j.com^
@@ -3200,6 +3207,7 @@
 ||taiv8.top^
 ||tap88.club^
 ||tbab395.com^
+||tf2022v.com^
 ||tf88265.com^
 ||tf88luck.com^
 ||tf88v.com^
@@ -3303,6 +3311,7 @@
 ||vietbet.eu^
 ||vietvwin.com^
 ||vig.vietbet.eu^
+||vin68.com^
 ||vinalottery.com^
 ||vip.8kbet.vn^
 ||vip.v99win.app^
@@ -3433,6 +3442,7 @@
 ||w88club.com^
 ||w88easy.com^
 ||w88hn.com^
+||w88io.com^
 ||w88kub.com^
 ||w88mp.com^
 ||w88ok.com^

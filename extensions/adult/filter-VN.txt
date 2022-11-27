@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 27 Nov 2022 10:20 UTC+7
-! Version: 2211271020
-! Blocked: 2.448 rules
+! Last modified: 27 Nov 2022 16:45 UTC+7
+! Version: 2211271645
+! Blocked: 2.449 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -705,6 +705,7 @@
 ||m.xvietsub.tv^
 ||manggaigoi.info^
 ||manhwa24h.com^
+||manhwa24hs.com^
 ||manquynh.com^
 ||massagebinhduong.vipvn.net^
 ||massagegayhcm.110.vn^

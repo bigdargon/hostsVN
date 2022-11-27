@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 27 Nov 2022 10:21 UTC+7
-! Version: 2211271021
-! Blocked: 8.709 rules
+! Last modified: 27 Nov 2022 16:47 UTC+7
+! Version: 2211271647
+! Blocked: 8.710 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5218,6 +5218,7 @@
 ||dakic-ia-300.com^
 ||damdoor.com^
 ||danban.com^
+||danbo.org^
 ||dancemistake.com^
 ||dap.digitalgov.gov^
 ||dapper.net^
