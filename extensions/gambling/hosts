@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 27 Nov 2022 16:45 UTC+7
-# Version: 2211271645
-# Blocked: 20.968 domains
+# Last modified: 27 Nov 2022 21:45 UTC+7
+# Version: 2211272145
+# Blocked: 20.989 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6782,6 +6782,7 @@
 0.0.0.0 ae88840.com
 0.0.0.0 ae88856.com
 0.0.0.0 ae888i.com
+0.0.0.0 ae888vn.com
 0.0.0.0 ae8vip.com
 0.0.0.0 ae9888.com
 0.0.0.0 ae988bet.com
@@ -6975,6 +6976,7 @@
 0.0.0.0 api.i99908.com
 0.0.0.0 api.i9bet102.com
 0.0.0.0 api.i9bet105.com
+0.0.0.0 api.i9bet106.com
 0.0.0.0 api.i9bet108.com
 0.0.0.0 api.i9bet109.com
 0.0.0.0 api.kingbet86.info
@@ -8135,6 +8137,7 @@
 0.0.0.0 bong99.com
 0.0.0.0 bong99.fun
 0.0.0.0 bong99.live
+0.0.0.0 bong99.me
 0.0.0.0 bong99.top
 0.0.0.0 bong99.vin
 0.0.0.0 bong99.vip
@@ -9197,6 +9200,7 @@
 0.0.0.0 dabet.com
 0.0.0.0 dabet.me
 0.0.0.0 dabet.top
+0.0.0.0 dabet.us
 0.0.0.0 dabet.win
 0.0.0.0 dabong.thethaofb88.com
 0.0.0.0 dafabetsports.com
@@ -9727,6 +9731,7 @@
 0.0.0.0 fcb8.club
 0.0.0.0 fcb8.com
 0.0.0.0 fcb8.fun
+0.0.0.0 fcb8.top
 0.0.0.0 fcb8.vip
 0.0.0.0 fcb8.win
 0.0.0.0 fcb88.com
@@ -15152,6 +15157,7 @@
 0.0.0.0 lucky799.com
 0.0.0.0 lucky88.bet
 0.0.0.0 lucky88.casino
+0.0.0.0 lucky88.cc
 0.0.0.0 lucky88.club
 0.0.0.0 lucky88.com
 0.0.0.0 lucky88.live
@@ -15255,6 +15261,7 @@
 0.0.0.0 m.bong99.com
 0.0.0.0 m.bong99.fun
 0.0.0.0 m.bong99.live
+0.0.0.0 m.bong99.me
 0.0.0.0 m.bwingmkt1.com
 0.0.0.0 m.bwingmkt8.com
 0.0.0.0 m.casino888vn.com
@@ -17238,6 +17245,7 @@
 0.0.0.0 s79tlyn.click
 0.0.0.0 s81866.com
 0.0.0.0 s83455.com
+0.0.0.0 s99902e.com
 0.0.0.0 s99904.com
 0.0.0.0 s99905.com
 0.0.0.0 s99906.com
@@ -17389,13 +17397,16 @@
 0.0.0.0 sh0621.com
 0.0.0.0 shanhe.57577.live
 0.0.0.0 shb11.com
+0.0.0.0 shbet.com
 0.0.0.0 shbet.website
+0.0.0.0 shbet.win
 0.0.0.0 shbet0.com
 0.0.0.0 shbet2.com
 0.0.0.0 shbet3.com
 0.0.0.0 shbet4.com
 0.0.0.0 shbet5.com
 0.0.0.0 shbet6.com
+0.0.0.0 shbetcc.com
 0.0.0.0 shelikesamelie.com
 0.0.0.0 shenbo062.com
 0.0.0.0 shenbo063.com
@@ -17450,6 +17461,8 @@
 0.0.0.0 shqc03.com
 0.0.0.0 shqiperia.bet
 0.0.0.0 shukangyijian.com
+0.0.0.0 shviet.com
+0.0.0.0 shviet0.com
 0.0.0.0 siam855.com
 0.0.0.0 siam855.net
 0.0.0.0 sieubomtan.com
@@ -17461,6 +17474,7 @@
 0.0.0.0 sin88.biz
 0.0.0.0 sin88.club
 0.0.0.0 sin88.mobi
+0.0.0.0 sin88.vip
 0.0.0.0 sin88.win
 0.0.0.0 sin88bet.me
 0.0.0.0 sin88s.com
@@ -17470,6 +17484,7 @@
 0.0.0.0 sitioscomo1xbet.com
 0.0.0.0 situsnova88.com
 0.0.0.0 sjapp818.com
+0.0.0.0 sky88.bet
 0.0.0.0 sky88.com
 0.0.0.0 sky88.fun
 0.0.0.0 sky88.top
@@ -17735,8 +17750,10 @@
 0.0.0.0 superwin88.vip
 0.0.0.0 supremepicks.com
 0.0.0.0 sutbong123.com
+0.0.0.0 sv1.sv88.uk
 0.0.0.0 sv1.sv88.vip
 0.0.0.0 sv1.sv88d.com
+0.0.0.0 sv1.sv88vn.com
 0.0.0.0 sv128.co
 0.0.0.0 sv368.com
 0.0.0.0 sv368.net
@@ -17745,8 +17762,11 @@
 0.0.0.0 sv7-sv7.com
 0.0.0.0 sv88.club
 0.0.0.0 sv88.com
+0.0.0.0 sv88.uk
 0.0.0.0 sv88.vin
 0.0.0.0 sv88.vip
+0.0.0.0 sv88.win
+0.0.0.0 sv88vn.com
 0.0.0.0 sw99.net
 0.0.0.0 sweeptheleg.org
 0.0.0.0 swk99.com
@@ -19503,6 +19523,7 @@
 0.0.0.0 www.i99908.com
 0.0.0.0 www.i9bet102.com
 0.0.0.0 www.i9bet105.com
+0.0.0.0 www.i9bet106.com
 0.0.0.0 www.i9bet108.com
 0.0.0.0 www.i9bet109.com
 0.0.0.0 www.i9bet111.com

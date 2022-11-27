@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 27 Nov 2022 16:47 UTC+7
-! Version: 2211271647
-! Blocked: 8.710 rules
+! Last modified: 27 Nov 2022 21:46 UTC+7
+! Version: 2211272146
+! Blocked: 8.711 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -990,6 +990,7 @@
 ||xemdabanh.club^
 ||xengtructuyen.com^
 ||xingtou888.com^
+||xo88.fun^
 ||xoso12345.com^
 ||xoso5678.com^
 ||xoso6.com^

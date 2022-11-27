@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 27 Nov 2022 16:45 UTC+7
-! Version: 2211271645
-! Blocked: 3.536 rules
+! Last modified: 27 Nov 2022 21:45 UTC+7
+! Version: 2211272145
+! Blocked: 3.557 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -300,6 +300,7 @@
 ||ae888.11bet.life^
 ||ae888.com^
 ||ae888i.com^
+||ae888vn.com^
 ||ae988bet.com^
 ||aff.188f1play.com^
 ||aff.188thethao.com^
@@ -365,6 +366,7 @@
 ||api.i99908.com^
 ||api.i9bet102.com^
 ||api.i9bet105.com^
+||api.i9bet106.com^
 ||api.i9bet108.com^
 ||api.i9bet109.com^
 ||api.kingbet86.info^
@@ -456,6 +458,7 @@
 ||bong99.com^
 ||bong99.fun^
 ||bong99.live^
+||bong99.me^
 ||bong99.top^
 ||bong99.vin^
 ||bong99.vip^
@@ -531,6 +534,7 @@
 ||dabanh.thethaofb88.com^
 ||dabet.me^
 ||dabet.top^
+||dabet.us^
 ||dabet.win^
 ||dabong.thethaofb88.com^
 ||dafacai360.com^
@@ -661,6 +665,7 @@
 ||fcb8.club^
 ||fcb8.com^
 ||fcb8.fun^
+||fcb8.top^
 ||fcb8.vip^
 ||fcb8.win^
 ||fcb88.com^
@@ -770,6 +775,7 @@
 ||i99908.com^
 ||i9bet102.com^
 ||i9bet105.com^
+||i9bet106.com^
 ||i9bet108.com^
 ||i9bet109.com^
 ||i9bet111.com^
@@ -2720,6 +2726,7 @@
 ||luck8881.com^
 ||lucky88.bet^
 ||lucky88.casino^
+||lucky88.cc^
 ||lucky88.club^
 ||lucky88.com^
 ||lucky88.live^
@@ -2752,6 +2759,7 @@
 ||m.bong99.com^
 ||m.bong99.fun^
 ||m.bong99.live^
+||m.bong99.me^
 ||m.bwingmkt1.com^
 ||m.bwingmkt8.com^
 ||m.casino888vn.com^
@@ -3089,6 +3097,7 @@
 ||s1.sin88.club^
 ||s2.sin88.biz^
 ||s2.sin88.club^
+||s99902e.com^
 ||s99906.com^
 ||s9996.com^
 ||s9997.com^
@@ -3097,8 +3106,13 @@
 ||sbotop246.com^
 ||seb121.net^
 ||shb11.com^
+||shbet.com^
+||shbet.win^
 ||shbet0.com^
 ||shbet3.com^
+||shbetcc.com^
+||shviet.com^
+||shviet0.com^
 ||sieubomtan.com^
 ||sieubong88.info^
 ||sieukeo.live^
@@ -3106,10 +3120,12 @@
 ||sin88.biz^
 ||sin88.club^
 ||sin88.mobi^
+||sin88.vip^
 ||sin88.win^
 ||sin88bet.me^
 ||sin88s.com^
 ||sin88vao.com^
+||sky88.bet^
 ||sky88.com^
 ||sky88.fun^
 ||sky88.top^
@@ -3156,12 +3172,17 @@
 ||sunwinclub.fun^
 ||sunwinvn.club^
 ||superslot777.bet^
+||sv1.sv88.uk^
 ||sv1.sv88.vip^
 ||sv1.sv88d.com^
+||sv1.sv88vn.com^
 ||sv88.club^
 ||sv88.com^
+||sv88.uk^
 ||sv88.vin^
 ||sv88.vip^
+||sv88.win^
+||sv88vn.com^
 ||t.mibet.com^
 ||t0gvf.com^
 ||t1.ta88.com^

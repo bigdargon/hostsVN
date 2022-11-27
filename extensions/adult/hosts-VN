@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 27 Nov 2022 16:45 UTC+7
-# Version: 2211271645
-# Blocked: 2.459 domains
+# Last modified: 27 Nov 2022 21:45 UTC+7
+# Version: 2211272145
+# Blocked: 2.460 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1330,6 +1330,7 @@
 0.0.0.0 phimxx.xyz
 0.0.0.0 phimxxhd.me
 0.0.0.0 phimxxnx.net
+0.0.0.0 phimxxx.io
 0.0.0.0 phimxxx.link
 0.0.0.0 phimxxx.live
 0.0.0.0 phimxxx.lol
