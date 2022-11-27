@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 27 Nov 2022 21:46 UTC+7
-! Version: 2211272146
-! Blocked: 8.711 rules
+! Last modified: 27 Nov 2022 22:39 UTC+7
+! Version: 2211272239
+! Blocked: 8.712 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -108,6 +108,7 @@
 ||eclick.vn^
 ||eva-ad.24hstatic.com^
 ||ezca.asia^
+||ff.imacdn.com^
 ||flygame.io^
 ||fuseplatform.net^
 ||gammadsp.com^
@@ -233,6 +234,7 @@
 ||smartadnetwork.net^
 ||smartconvert.co^
 ||sourcetobin.com^
+||sponsor.imacdn.com^
 ||sporttv.today^
 ||starseed.fr^
 ||static-addtoany-com.cdn.ampproject.org^
@@ -1236,7 +1238,6 @@
 ||fa.fpt.shop^
 ||facebookinbox-omni-onapp.haravan.com^
 ||fbuser.ovp.vn^
-||ff.imacdn.com^
 ||file-subiz.com^
 ||financial-agent.headlines.pw^
 ||follow.vnay.vn^
