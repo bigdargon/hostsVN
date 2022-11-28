@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 27 Nov 2022 21:45 UTC+7
-# Version: 2211272145
-# Blocked: 20.989 domains
+# Last modified: 28 Nov 2022 08:37 UTC+7
+# Version: 2211280837
+# Blocked: 21.018 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6781,6 +6781,7 @@
 0.0.0.0 ae88839.com
 0.0.0.0 ae88840.com
 0.0.0.0 ae88856.com
+0.0.0.0 ae88859.com
 0.0.0.0 ae888i.com
 0.0.0.0 ae888vn.com
 0.0.0.0 ae8vip.com
@@ -6905,6 +6906,7 @@
 0.0.0.0 allstarwager.com
 0.0.0.0 allwagers247.com
 0.0.0.0 alo88.bet
+0.0.0.0 alo888.com
 0.0.0.0 alohawinners.com
 0.0.0.0 alpha88th123.com
 0.0.0.0 am63zn.com
@@ -6965,6 +6967,7 @@
 0.0.0.0 api.88new.cc
 0.0.0.0 api.99vn.bet
 0.0.0.0 api.ae888.com
+0.0.0.0 api.ae88859.com
 0.0.0.0 api.betlv.com
 0.0.0.0 api.f8bet0.com
 0.0.0.0 api.f8bet5.com
@@ -6990,6 +6993,8 @@
 0.0.0.0 api.shbet0.com
 0.0.0.0 api.shbet3.com
 0.0.0.0 api.sky88.fun
+0.0.0.0 api.st666.win
+0.0.0.0 api.st66606.com
 0.0.0.0 api.t8bet999.com
 0.0.0.0 api.t8betvip.com
 0.0.0.0 api.v79top.com
@@ -16967,6 +16972,9 @@
 0.0.0.0 qh203.com
 0.0.0.0 qh205.com
 0.0.0.0 qh206.com
+0.0.0.0 qh217.com
+0.0.0.0 qh218.com
+0.0.0.0 qh235.com
 0.0.0.0 qh52.com
 0.0.0.0 qh53.com
 0.0.0.0 qh91.com
@@ -17619,10 +17627,15 @@
 0.0.0.0 ssss602.com
 0.0.0.0 ssss612.com
 0.0.0.0 sssss.com
+0.0.0.0 ssv288.com
 0.0.0.0 st-666vip.com
+0.0.0.0 st00001.com
 0.0.0.0 st666.net
 0.0.0.0 st666.red
+0.0.0.0 st666.win
 0.0.0.0 st66601.com
+0.0.0.0 st66602.com
+0.0.0.0 st66606.com
 0.0.0.0 st855.com
 0.0.0.0 stack88.net
 0.0.0.0 stage-api-demo-games.top
@@ -17755,9 +17768,12 @@
 0.0.0.0 sv1.sv88d.com
 0.0.0.0 sv1.sv88vn.com
 0.0.0.0 sv128.co
+0.0.0.0 sv288.net
 0.0.0.0 sv368.com
 0.0.0.0 sv368.net
 0.0.0.0 sv388.biz
+0.0.0.0 sv388.com
+0.0.0.0 sv388.net
 0.0.0.0 sv587.com
 0.0.0.0 sv7-sv7.com
 0.0.0.0 sv88.club
@@ -17767,6 +17783,10 @@
 0.0.0.0 sv88.vip
 0.0.0.0 sv88.win
 0.0.0.0 sv88vn.com
+0.0.0.0 svv288.com
+0.0.0.0 svv388.com
+0.0.0.0 svvv288.com
+0.0.0.0 svvv388.com
 0.0.0.0 sw99.net
 0.0.0.0 sweeptheleg.org
 0.0.0.0 swk99.com
@@ -19403,6 +19423,7 @@
 0.0.0.0 www.ae788.bet
 0.0.0.0 www.ae888.com
 0.0.0.0 www.ae88856.com
+0.0.0.0 www.ae88859.com
 0.0.0.0 www.ae988bet.com
 0.0.0.0 www.agbet.co
 0.0.0.0 www.appbk8.com
@@ -19614,6 +19635,10 @@
 0.0.0.0 www.oxbet.club
 0.0.0.0 www.oxbet.com
 0.0.0.0 www.playdsb.com
+0.0.0.0 www.qh205.com
+0.0.0.0 www.qh217.com
+0.0.0.0 www.qh218.com
+0.0.0.0 www.qh235.com
 0.0.0.0 www.qq288.com
 0.0.0.0 www.qq8788.net
 0.0.0.0 www.r88.vn
@@ -19644,6 +19669,10 @@
 0.0.0.0 www.sol86.com
 0.0.0.0 www.solarbet.com
 0.0.0.0 www.solbet88.com
+0.0.0.0 www.st00001.com
+0.0.0.0 www.st666.win
+0.0.0.0 www.st66602.com
+0.0.0.0 www.st66606.com
 0.0.0.0 www.sun.win
 0.0.0.0 www.sv88.com
 0.0.0.0 www.sv88.vip

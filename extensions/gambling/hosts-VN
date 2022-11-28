@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 27 Nov 2022 21:45 UTC+7
-# Version: 2211272145
-# Blocked: 3.947 domains
+# Last modified: 28 Nov 2022 08:37 UTC+7
+# Version: 2211280837
+# Blocked: 3.983 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -300,6 +300,7 @@
 0.0.0.0 ae788.bet
 0.0.0.0 ae888.11bet.life
 0.0.0.0 ae888.com
+0.0.0.0 ae88859.com
 0.0.0.0 ae888i.com
 0.0.0.0 ae888vn.com
 0.0.0.0 ae988bet.com
@@ -336,12 +337,14 @@
 0.0.0.0 affk8vip.com
 0.0.0.0 affk8vn.com
 0.0.0.0 agbet.co
+0.0.0.0 agbong88.com
 0.0.0.0 agviet168.com
 0.0.0.0 agviet88.com
 0.0.0.0 agviet99.com
 0.0.0.0 akkuq.com
 0.0.0.0 alb.12b99.com
 0.0.0.0 allk8.com
+0.0.0.0 alo888.com
 0.0.0.0 api.016665.com
 0.0.0.0 api.118kbet.com
 0.0.0.0 api.11zalo.com
@@ -357,6 +360,7 @@
 0.0.0.0 api.88new.cc
 0.0.0.0 api.99vn.bet
 0.0.0.0 api.ae888.com
+0.0.0.0 api.ae88859.com
 0.0.0.0 api.betlv.com
 0.0.0.0 api.f8bet0.com
 0.0.0.0 api.f8bet5.com
@@ -381,6 +385,8 @@
 0.0.0.0 api.shbet0.com
 0.0.0.0 api.shbet3.com
 0.0.0.0 api.sky88.fun
+0.0.0.0 api.st666.win
+0.0.0.0 api.st66606.com
 0.0.0.0 api.t8bet999.com
 0.0.0.0 api.t8betvip.com
 0.0.0.0 api.v79top.com
@@ -411,6 +417,7 @@
 0.0.0.0 b29qc.win
 0.0.0.0 b52.vip
 0.0.0.0 b52.win
+0.0.0.0 b88ag.com
 0.0.0.0 b89.bet
 0.0.0.0 banca-red88.top
 0.0.0.0 banca.red88.us
@@ -453,6 +460,7 @@
 0.0.0.0 blogf8bet.com
 0.0.0.0 bo.b52.win
 0.0.0.0 bogcuoc.com
+0.0.0.0 bong8899.com
 0.0.0.0 bong88net.com
 0.0.0.0 bong90.bet
 0.0.0.0 bong99.com
@@ -670,6 +678,7 @@
 0.0.0.0 fcb8.win
 0.0.0.0 fcb88.com
 0.0.0.0 fcb88d.com
+0.0.0.0 feli88.com
 0.0.0.0 fi88.club
 0.0.0.0 fi88.vip
 0.0.0.0 fi881.com
@@ -2906,6 +2915,7 @@
 0.0.0.0 new.vx88.com
 0.0.0.0 newk8.live
 0.0.0.0 ngwv0.com
+0.0.0.0 nhacai88.net
 0.0.0.0 nhacaik8.club
 0.0.0.0 nhacaik8.fun
 0.0.0.0 nhacaik8.info
@@ -3051,6 +3061,9 @@
 0.0.0.0 qc.x8vn.top
 0.0.0.0 qc.zo88.org
 0.0.0.0 qh205.com
+0.0.0.0 qh217.com
+0.0.0.0 qh218.com
+0.0.0.0 qh235.com
 0.0.0.0 qh52.com
 0.0.0.0 qh91.com
 0.0.0.0 qq101.com
@@ -3152,6 +3165,11 @@
 0.0.0.0 solarbet.com
 0.0.0.0 solbet88.com
 0.0.0.0 sport.five88.biz
+0.0.0.0 ssv288.com
+0.0.0.0 st00001.com
+0.0.0.0 st666.win
+0.0.0.0 st66602.com
+0.0.0.0 st66606.com
 0.0.0.0 static.8live.com
 0.0.0.0 static.fabet.com
 0.0.0.0 static.fabet.us
@@ -3174,6 +3192,9 @@
 0.0.0.0 sv1.sv88.vip
 0.0.0.0 sv1.sv88d.com
 0.0.0.0 sv1.sv88vn.com
+0.0.0.0 sv288.net
+0.0.0.0 sv388.com
+0.0.0.0 sv388.net
 0.0.0.0 sv88.club
 0.0.0.0 sv88.com
 0.0.0.0 sv88.uk
@@ -3181,6 +3202,10 @@
 0.0.0.0 sv88.vip
 0.0.0.0 sv88.win
 0.0.0.0 sv88vn.com
+0.0.0.0 svv288.com
+0.0.0.0 svv388.com
+0.0.0.0 svvv288.com
+0.0.0.0 svvv388.com
 0.0.0.0 t.mibet.com
 0.0.0.0 t0gvf.com
 0.0.0.0 t1.ta88.com
@@ -3302,6 +3327,7 @@
 0.0.0.0 v7ac.com
 0.0.0.0 v7king.com
 0.0.0.0 v8.club
+0.0.0.0 v88ag.com
 0.0.0.0 v99win.app
 0.0.0.0 v9bet.com
 0.0.0.0 v9bet55.com
@@ -3336,6 +3362,7 @@
 0.0.0.0 vip.v99win.app
 0.0.0.0 vipbet998.com
 0.0.0.0 viva88.com
+0.0.0.0 viva88.net
 0.0.0.0 vjprok8.com
 0.0.0.0 vlott88.com
 0.0.0.0 vn-lm.jbovietnam.com
@@ -3572,6 +3599,7 @@
 0.0.0.0 www.abuvn.cc
 0.0.0.0 www.ae788.bet
 0.0.0.0 www.ae888.com
+0.0.0.0 www.ae88859.com
 0.0.0.0 www.ae988bet.com
 0.0.0.0 www.agbet.co
 0.0.0.0 www.appbk8.com
@@ -3771,6 +3799,10 @@
 0.0.0.0 www.oppa88888888.com
 0.0.0.0 www.oxbet.club
 0.0.0.0 www.oxbet.com
+0.0.0.0 www.qh205.com
+0.0.0.0 www.qh217.com
+0.0.0.0 www.qh218.com
+0.0.0.0 www.qh235.com
 0.0.0.0 www.qq288.com
 0.0.0.0 www.qq8788.net
 0.0.0.0 www.r88.vn
@@ -3794,6 +3826,10 @@
 0.0.0.0 www.sol86.com
 0.0.0.0 www.solarbet.com
 0.0.0.0 www.solbet88.com
+0.0.0.0 www.st00001.com
+0.0.0.0 www.st666.win
+0.0.0.0 www.st66602.com
+0.0.0.0 www.st66606.com
 0.0.0.0 www.sun.win
 0.0.0.0 www.sv88.com
 0.0.0.0 www.sv88.vip

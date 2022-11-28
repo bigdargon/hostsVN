@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 27 Nov 2022 21:45 UTC+7
-! Version: 2211272145
-! Blocked: 20.569 rules
+! Last modified: 28 Nov 2022 08:37 UTC+7
+! Version: 2211280837
+! Blocked: 20.589 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6781,6 +6781,7 @@
 ||ae88839.com^
 ||ae88840.com^
 ||ae88856.com^
+||ae88859.com^
 ||ae888i.com^
 ||ae888vn.com^
 ||ae8vip.com^
@@ -6905,6 +6906,7 @@
 ||allstarwager.com^
 ||allwagers247.com^
 ||alo88.bet^
+||alo888.com^
 ||alohawinners.com^
 ||alpha88th123.com^
 ||am63zn.com^
@@ -6965,6 +6967,7 @@
 ||api.88new.cc^
 ||api.99vn.bet^
 ||api.ae888.com^
+||api.ae88859.com^
 ||api.betlv.com^
 ||api.f8bet0.com^
 ||api.f8bet5.com^
@@ -6990,6 +6993,8 @@
 ||api.shbet0.com^
 ||api.shbet3.com^
 ||api.sky88.fun^
+||api.st666.win^
+||api.st66606.com^
 ||api.t8bet999.com^
 ||api.t8betvip.com^
 ||api.v79top.com^
@@ -16971,6 +16976,9 @@
 ||qh203.com^
 ||qh205.com^
 ||qh206.com^
+||qh217.com^
+||qh218.com^
+||qh235.com^
 ||qh52.com^
 ||qh53.com^
 ||qh91.com^
@@ -17624,10 +17632,15 @@
 ||ssss602.com^
 ||ssss612.com^
 ||sssss.com^
+||ssv288.com^
 ||st-666vip.com^
+||st00001.com^
 ||st666.net^
 ||st666.red^
+||st666.win^
 ||st66601.com^
+||st66602.com^
+||st66606.com^
 ||st855.com^
 ||stack88.net^
 ||stage-api-demo-games.top^
@@ -17760,9 +17773,12 @@
 ||sv1.sv88d.com^
 ||sv1.sv88vn.com^
 ||sv128.co^
+||sv288.net^
 ||sv368.com^
 ||sv368.net^
 ||sv388.biz^
+||sv388.com^
+||sv388.net^
 ||sv587.com^
 ||sv7-sv7.com^
 ||sv88.club^
@@ -17772,6 +17788,10 @@
 ||sv88.vip^
 ||sv88.win^
 ||sv88vn.com^
+||svv288.com^
+||svv388.com^
+||svvv288.com^
+||svvv388.com^
 ||sw99.net^
 ||sweeptheleg.org^
 ||swk99.com^
