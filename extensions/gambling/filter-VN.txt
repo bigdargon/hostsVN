@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 29 Nov 2022 16:46 UTC+7
-! Version: 2211291646
-! Blocked: 3.660 rules
+! Last modified: 29 Nov 2022 22:10 UTC+7
+! Version: 2211292210
+! Blocked: 3.664 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -796,8 +796,10 @@
 ||i8bet.org^
 ||i99902.com^
 ||i99903.com^
+||i99904.com^
 ||i99906.com^
 ||i99908.com^
+||i999bb.com^
 ||i9bet.app^
 ||i9bet.bet^
 ||i9bet.com^
@@ -2959,6 +2961,7 @@
 ||ms88asia.com^
 ||ms88ca.com^
 ||msmeb.com^
+||mu88daily.com^
 ||mu9.club^
 ||mu9.com^
 ||mu9.fun^
@@ -3128,6 +3131,7 @@
 ||qc.x8vn.top^
 ||qc.zo88.org^
 ||qh205.com^
+||qh215.com^
 ||qh217.com^
 ||qh218.com^
 ||qh235.com^

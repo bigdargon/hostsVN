@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 29 Nov 2022 16:46 UTC+7
-# Version: 2211291646
-# Blocked: 4.072 domains
+# Last modified: 29 Nov 2022 22:10 UTC+7
+# Version: 2211292210
+# Blocked: 4.079 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -795,8 +795,10 @@
 0.0.0.0 i8bet.org
 0.0.0.0 i99902.com
 0.0.0.0 i99903.com
+0.0.0.0 i99904.com
 0.0.0.0 i99906.com
 0.0.0.0 i99908.com
+0.0.0.0 i999bb.com
 0.0.0.0 i9bet.app
 0.0.0.0 i9bet.bet
 0.0.0.0 i9bet.com
@@ -2958,6 +2960,7 @@
 0.0.0.0 ms88asia.com
 0.0.0.0 ms88ca.com
 0.0.0.0 msmeb.com
+0.0.0.0 mu88daily.com
 0.0.0.0 mu9.club
 0.0.0.0 mu9.com
 0.0.0.0 mu9.fun
@@ -3127,6 +3130,7 @@
 0.0.0.0 qc.x8vn.top
 0.0.0.0 qc.zo88.org
 0.0.0.0 qh205.com
+0.0.0.0 qh215.com
 0.0.0.0 qh217.com
 0.0.0.0 qh218.com
 0.0.0.0 qh235.com
@@ -3795,6 +3799,7 @@
 0.0.0.0 www.i8bet.org
 0.0.0.0 www.i99902.com
 0.0.0.0 www.i99903.com
+0.0.0.0 www.i99904.com
 0.0.0.0 www.i99906.com
 0.0.0.0 www.i99908.com
 0.0.0.0 www.i9bet102.com
@@ -3810,6 +3815,7 @@
 0.0.0.0 www.i9bet444.com
 0.0.0.0 www.i9bet5.com
 0.0.0.0 www.i9bet6.com
+0.0.0.0 www.i9bet888.com
 0.0.0.0 www.income88.com
 0.0.0.0 www.interwinvn.com
 0.0.0.0 www.ja77.net
@@ -3888,6 +3894,7 @@
 0.0.0.0 www.oxbet.club
 0.0.0.0 www.oxbet.com
 0.0.0.0 www.qh205.com
+0.0.0.0 www.qh215.com
 0.0.0.0 www.qh217.com
 0.0.0.0 www.qh218.com
 0.0.0.0 www.qh235.com

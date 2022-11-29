@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 29 Nov 2022 16:46 UTC+7
-! Version: 2211291646
-! Blocked: 20.646 rules
+! Last modified: 29 Nov 2022 22:10 UTC+7
+! Version: 2211292210
+! Blocked: 20.647 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17021,6 +17021,7 @@
 ||qh203.com^
 ||qh205.com^
 ||qh206.com^
+||qh215.com^
 ||qh217.com^
 ||qh218.com^
 ||qh235.com^
