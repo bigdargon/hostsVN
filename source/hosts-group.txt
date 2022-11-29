@@ -7802,6 +7802,11 @@
 0.0.0.0 gaspra.iad-03.braze.com
 0.0.0.0 rest.iad-03.braze.com
 0.0.0.0 serpens.iad-01.braze.com
+#[fra-*.braze.eu]
+0.0.0.0 fra-01.braze.eu
+0.0.0.0 sdk.fra-01.braze.eu
+0.0.0.0 fra-02.braze.eu
+0.0.0.0 sdk.fra-02.braze.eu
 #[zenadservices.net]
 0.0.0.0 ua.zenadservices.net
 0.0.0.0 www.zenadservices.net

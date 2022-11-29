@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Nov 2022 22:39 UTC+7
-# Version: 2211272239
-# Blocked: 17.047 domains
+# Last modified: 29 Nov 2022 16:54 UTC+7
+# Version: 2211291654
+# Blocked: 17.051 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7814,6 +7814,11 @@
 0.0.0.0 gaspra.iad-03.braze.com
 0.0.0.0 rest.iad-03.braze.com
 0.0.0.0 serpens.iad-01.braze.com
+#[fra-*.braze.eu]
+0.0.0.0 fra-01.braze.eu
+0.0.0.0 sdk.fra-01.braze.eu
+0.0.0.0 fra-02.braze.eu
+0.0.0.0 sdk.fra-02.braze.eu
 #[zenadservices.net]
 0.0.0.0 ua.zenadservices.net
 0.0.0.0 www.zenadservices.net
