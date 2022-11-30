@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 29 Nov 2022 22:10 UTC+7
-! Version: 2211292210
-! Blocked: 3.664 rules
+! Last modified: 30 Nov 2022 10:25 UTC+7
+! Version: 2211301025
+! Blocked: 3.660 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -373,10 +373,8 @@
 ||api.f8bet5.com^
 ||api.hb88p.com^
 ||api.i8bet.org^
-||api.i99902.com^
 ||api.i99903.com^
 ||api.i99908.com^
-||api.i9bet102.com^
 ||api.i9bet105.com^
 ||api.i9bet106.com^
 ||api.i9bet108.com^
@@ -410,12 +408,9 @@
 ||app.228kbet.com^
 ||app.8kbet.vn^
 ||app.betlv.com^
-||app.i99902.com^
 ||app.vx88.com^
 ||app.wellviet.net^
 ||appbk8.com^
-||asiak8thai.com^
-||asiak8thai.net^
 ||asiavwin.com^
 ||aw8vn.com^
 ||aw8vn2.com^
@@ -1517,8 +1512,6 @@
 ||k8live97.com^
 ||k8live98.com^
 ||k8live99.com^
-||k8liveth.com^
-||k8liveth.net^
 ||k8lode.com^
 ||k8lol.vip^
 ||k8love.com^
@@ -2715,7 +2708,6 @@
 ||ku11.link^
 ||ku11.me^
 ||ku11.net^
-||ku11.org^
 ||ku11.pro^
 ||ku19.net^
 ||ku558.net^
@@ -2747,7 +2739,6 @@
 ||kubet88.fun^
 ||kubet88.win^
 ||kubet9.com^
-||kubet9.net^
 ||kubetae.com^
 ||kucasino68.net^
 ||kucasinovn.asia^
@@ -2826,7 +2817,6 @@
 ||m.8live.com^
 ||m.8live.fun^
 ||m.8live.net^
-||m.8live.top^
 ||m.bet20.bet^
 ||m.betbanh88.com^
 ||m.betvisa.com^
@@ -3134,7 +3124,13 @@
 ||qh215.com^
 ||qh217.com^
 ||qh218.com^
+||qh221.com^
+||qh231.com^
+||qh232.com^
 ||qh235.com^
+||qh236.com^
+||qh238.com^
+||qh250.com^
 ||qh52.com^
 ||qh91.com^
 ||qq101.com^

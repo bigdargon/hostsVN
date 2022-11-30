@@ -1,6 +1,6 @@
 # Title: hostsVN Gambling
-# Last modified: 29 Nov 2022 22:10 UTC+7
-# Version: 2211292210
+# Last modified: 30 Nov 2022 10:25 UTC+7
+# Version: 2211301025
 # Blocked: 4.079 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -374,10 +374,8 @@
 0.0.0.0 api.f8bet5.com
 0.0.0.0 api.hb88p.com
 0.0.0.0 api.i8bet.org
-0.0.0.0 api.i99902.com
 0.0.0.0 api.i99903.com
 0.0.0.0 api.i99908.com
-0.0.0.0 api.i9bet102.com
 0.0.0.0 api.i9bet105.com
 0.0.0.0 api.i9bet106.com
 0.0.0.0 api.i9bet108.com
@@ -411,12 +409,9 @@
 0.0.0.0 app.228kbet.com
 0.0.0.0 app.8kbet.vn
 0.0.0.0 app.betlv.com
-0.0.0.0 app.i99902.com
 0.0.0.0 app.vx88.com
 0.0.0.0 app.wellviet.net
 0.0.0.0 appbk8.com
-0.0.0.0 asiak8thai.com
-0.0.0.0 asiak8thai.net
 0.0.0.0 asiavwin.com
 0.0.0.0 aw8vn.com
 0.0.0.0 aw8vn2.com
@@ -1516,8 +1511,6 @@
 0.0.0.0 k8live97.com
 0.0.0.0 k8live98.com
 0.0.0.0 k8live99.com
-0.0.0.0 k8liveth.com
-0.0.0.0 k8liveth.net
 0.0.0.0 k8lode.com
 0.0.0.0 k8lol.vip
 0.0.0.0 k8love.com
@@ -2714,7 +2707,6 @@
 0.0.0.0 ku11.link
 0.0.0.0 ku11.me
 0.0.0.0 ku11.net
-0.0.0.0 ku11.org
 0.0.0.0 ku11.pro
 0.0.0.0 ku19.net
 0.0.0.0 ku558.net
@@ -2746,7 +2738,6 @@
 0.0.0.0 kubet88.fun
 0.0.0.0 kubet88.win
 0.0.0.0 kubet9.com
-0.0.0.0 kubet9.net
 0.0.0.0 kubetae.com
 0.0.0.0 kucasino68.net
 0.0.0.0 kucasinovn.asia
@@ -2825,7 +2816,6 @@
 0.0.0.0 m.8live.com
 0.0.0.0 m.8live.fun
 0.0.0.0 m.8live.net
-0.0.0.0 m.8live.top
 0.0.0.0 m.bet20.bet
 0.0.0.0 m.betbanh88.com
 0.0.0.0 m.betvisa.com
@@ -3000,7 +2990,6 @@
 0.0.0.0 nhat.bet
 0.0.0.0 nhat.game
 0.0.0.0 nhatvip.mobi
-0.0.0.0 nhatvip.net
 0.0.0.0 nhatvip.org
 0.0.0.0 nhatvip.us
 0.0.0.0 nnwud.com
@@ -3133,7 +3122,13 @@
 0.0.0.0 qh215.com
 0.0.0.0 qh217.com
 0.0.0.0 qh218.com
+0.0.0.0 qh221.com
+0.0.0.0 qh231.com
+0.0.0.0 qh232.com
 0.0.0.0 qh235.com
+0.0.0.0 qh236.com
+0.0.0.0 qh238.com
+0.0.0.0 qh250.com
 0.0.0.0 qh52.com
 0.0.0.0 qh91.com
 0.0.0.0 qq101.com
@@ -3141,7 +3136,6 @@
 0.0.0.0 qq288.com
 0.0.0.0 qq288jak.com
 0.0.0.0 qq628.live
-0.0.0.0 qq8788.net
 0.0.0.0 qq8788viet.com
 0.0.0.0 quayhuk8.info
 0.0.0.0 quayso88.com
@@ -3897,7 +3891,13 @@
 0.0.0.0 www.qh215.com
 0.0.0.0 www.qh217.com
 0.0.0.0 www.qh218.com
+0.0.0.0 www.qh221.com
+0.0.0.0 www.qh231.com
+0.0.0.0 www.qh232.com
 0.0.0.0 www.qh235.com
+0.0.0.0 www.qh236.com
+0.0.0.0 www.qh238.com
+0.0.0.0 www.qh250.com
 0.0.0.0 www.qq288.com
 0.0.0.0 www.qq8788.net
 0.0.0.0 www.r88.vn
