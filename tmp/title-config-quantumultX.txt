@@ -18,6 +18,10 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantu
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-rule.conf, tag=🇻🇳hostsVN, force-policy=reject, enabled=true
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-OTA.conf, tag=🇻🇳hostsVN-OTA, force-policy=reject, enabled=false
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-FB.conf, tag=🇻🇳hostsVN-FB, force-policy=reject, enabled=false
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/quantumult-rule.conf, tag=🇻🇳hostsVN-Adult, force-policy=reject, enabled=false
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/quantumult-rule.conf, tag=🇻🇳hostsVN-Gambling, force-policy=reject, enabled=false
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/quantumult-rule.conf, tag=🇻🇳hostsVN-Threat, force-policy=reject, enabled=true
+
 
 [rewrite_remote]
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX-rewrite.conf, tag=🇻🇳hostsVN, enabled=true

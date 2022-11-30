@@ -89,6 +89,15 @@ cat tmp/title-filter-adult-VN.tmp tmp/adult-filter-VN.tmp > adult/filter-VN.txt
 cat tmp/title-filter-gambling-VN.tmp tmp/gambling-filter-VN.tmp > gambling/filter-VN.txt
 cat tmp/title-filter-threat-VN.tmp tmp/threat-filter-VN.tmp > threat/filter-VN.txt
 
+echo "Creating rule file..."
+# create rule
+cat source/adult.tmp source/adult-VN.tmp | awk '{print "HOST-SUFFIX,"$1",REJECT"}' > adult/quantumult-rule.conf
+cat source/gambling.tmp source/gambling-VN.tmp | awk '{print "HOST-SUFFIX,"$1",REJECT"}' > gambling/quantumult-rule.conf
+cat source/threat.tmp source/threat-VN.tmp | awk '{print "HOST-SUFFIX,"$1",REJECT"}' > threat/quantumult-rule.conf
+cat source/adult.tmp source/adult-VN.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' > adult/surge-rule.conf
+cat source/gambling.tmp source/gambling-VN.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' > gambling/surge-rule.conf
+cat source/threat.tmp source/threat-VN.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' > threat/surge-rule.conf
+
 # check duplicate
 echo "Checking duplicate..."
 cat tmp/adult-hosts.tmp | uniq -d

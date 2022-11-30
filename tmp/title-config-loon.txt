@@ -16,8 +16,13 @@ Proxy = select, 🇻🇳hostsVN
 FINAL,DIRECT
 
 [Remote Rule]
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-exceptions-rule.conf, policy=DIRECT, tag=hostsVN, enabled=true
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-rule.conf, policy=REJECT, tag=hostsVN, enabled=true
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-exceptions-rule.conf, policy=DIRECT, tag=🇻🇳hostsVN, enabled=true
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-rule.conf, policy=REJECT, tag=🇻🇳hostsVN, enabled=true
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-OTA.conf, policy=REJECT, tag=🇻🇳hostsVN-OTA, enabled=false
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-FB.conf, policy=REJECT, tag=🇻🇳hostsVN-FB, enabled=false
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/surge-rule.conf, policy=REJECT, tag=🇻🇳hostsVN-Adult, enabled=false
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/surge-rule.conf, policy=REJECT, tag=🇻🇳hostsVN-Gambling, enabled=false
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/surge-rule.conf, policy=REJECT, tag=🇻🇳hostsVN-Threat, enabled=true
 
 [Host]
 
