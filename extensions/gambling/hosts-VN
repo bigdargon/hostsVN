@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 30 Nov 2022 10:25 UTC+7
-# Version: 2211301025
-# Blocked: 4.079 domains
+# Last modified: 01 Dec 2022 11:18 UTC+7
+# Version: 2212011118
+# Blocked: 4.090 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -758,8 +758,12 @@
 0.0.0.0 go.bcb80.com
 0.0.0.0 go.beb77.com
 0.0.0.0 go.casino86.club
+0.0.0.0 go88-vn.com
 0.0.0.0 go88.club
 0.0.0.0 go88.com
+0.0.0.0 go88.im
+0.0.0.0 go88.live
+0.0.0.0 go88b.com
 0.0.0.0 go88bet.net
 0.0.0.0 go88vn.live
 0.0.0.0 go88vn.vip
@@ -3044,6 +3048,7 @@
 0.0.0.0 play.choiwin79.net
 0.0.0.0 play.fa88.win
 0.0.0.0 play.go88.club
+0.0.0.0 play.go88.im
 0.0.0.0 play.manclub.vin
 0.0.0.0 play.nemo.vin
 0.0.0.0 play.playiwin.biz
@@ -3287,6 +3292,8 @@
 0.0.0.0 tai.fa88vn.live
 0.0.0.0 tai.go88.club
 0.0.0.0 tai.go88.com
+0.0.0.0 tai.go88.live
+0.0.0.0 tai.go88b.com
 0.0.0.0 tai.go88vn.vip
 0.0.0.0 tai.nhatvip.live
 0.0.0.0 tai.rikvip.tv
@@ -3540,6 +3547,7 @@
 0.0.0.0 vwthethao.net
 0.0.0.0 vwviet.com
 0.0.0.0 vwweb.xyz
+0.0.0.0 vx88.bet
 0.0.0.0 vx88.com
 0.0.0.0 vx88.live
 0.0.0.0 vx88e.com
@@ -3779,6 +3787,7 @@
 0.0.0.0 www.gamedoithuong.org
 0.0.0.0 www.gaznbike.com
 0.0.0.0 www.gi8vn.vip
+0.0.0.0 www.go88-vn.com
 0.0.0.0 www.go88.com
 0.0.0.0 www.go88bet.net
 0.0.0.0 www.goal123.com
@@ -4071,6 +4080,7 @@
 0.0.0.0 yo99.win
 0.0.0.0 you88.app
 0.0.0.0 you88.vin
+0.0.0.0 youtaigamebai.app
 0.0.0.0 yule12888.com
 0.0.0.0 z1.zbet.com
 0.0.0.0 z1.zbet.vn
@@ -4080,6 +4090,7 @@
 0.0.0.0 z3.zbet.vn
 0.0.0.0 z3.zbetvn.com
 0.0.0.0 zbet.com
+0.0.0.0 zbet.me
 0.0.0.0 zbet.vn
 0.0.0.0 zbet.win
 0.0.0.0 zbetvn.com

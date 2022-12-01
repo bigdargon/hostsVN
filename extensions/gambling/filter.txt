@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 30 Nov 2022 10:25 UTC+7
-! Version: 2211301025
-! Blocked: 20.567 rules
+! Last modified: 01 Dec 2022 11:18 UTC+7
+! Version: 2212011118
+! Blocked: 20.598 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -921,6 +921,7 @@
 ||146390.com^
 ||147390.com^
 ||148390.com^
+||148796.com^
 ||148vn.com^
 ||149390.com^
 ||1495mv.com^
@@ -5356,6 +5357,7 @@
 ||8181981.com^
 ||8181mgm.com^
 ||8181vn.com^
+||818520128.com^
 ||81866001.com^
 ||81866002.com^
 ||81866003.com^
@@ -6955,6 +6957,7 @@
 ||api.betlv.com^
 ||api.f8bet0.com^
 ||api.f8bet5.com^
+||api.fb88.company^
 ||api.hb88p.com^
 ||api.hubtop88.net^
 ||api.i8bet.org^
@@ -9307,6 +9310,7 @@
 ||dhwz1.com^
 ||dhwz2.com^
 ||diamondbets9.com^
+||dillards2.com^
 ||dimeaction.com^
 ||diq9r.com^
 ||diqhdiuqh48521dqjhduqihdq481qdqhdoq.com^
@@ -9456,6 +9460,7 @@
 ||egb99.com^
 ||eh5app.cc^
 ||eighteeneightbet.com^
+||ejazm88.com^
 ||ek801.com^
 ||ek8802.com^
 ||ek882.com^
@@ -9684,6 +9689,7 @@
 ||fat880.com^
 ||favour294.com^
 ||fb88.com^
+||fb88.company^
 ||fb88.link^
 ||fb88999.com^
 ||fb88aff.com^
@@ -9693,6 +9699,7 @@
 ||fb88club.com^
 ||fb88cup.com^
 ||fb88en.com^
+||fb88gateway.com^
 ||fb88go.com^
 ||fb88hot.com^
 ||fb88live.com^
@@ -10959,10 +10966,14 @@
 ||go2fun88.com^
 ||go7878.com^
 ||go79.bet^
+||go88-vn.com^
 ||go88.club^
 ||go88.co^
 ||go88.com^
+||go88.im^
+||go88.live^
 ||go88.uk^
+||go88b.com^
 ||go88bet.net^
 ||go88play.net^
 ||go88vn.live^
@@ -11438,6 +11449,7 @@
 ||ibway99.com^
 ||ic.aff-handler.com^
 ||iceberg294.com^
+||icetraff.com^
 ||id.8xbet.fun^
 ||id.oppa888.com^
 ||id.sv388.mobi^
@@ -12480,6 +12492,7 @@
 ||joybway.com^
 ||joycasino-e.com^
 ||jp88vn.com^
+||jpnm88.com^
 ||jqbt6.com^
 ||jqka668.net^
 ||jquvu.com^
@@ -14668,6 +14681,7 @@
 ||kl863.com^
 ||kl8632.com^
 ||kl8932123.com^
+||kl8a.net^
 ||klc82272.com^
 ||klc825867.com^
 ||klc82757272.com^
@@ -14693,6 +14707,7 @@
 ||kor1xbet.com^
 ||korea-1xbet.com^
 ||korea1x-bet.com^
+||korm88.com^
 ||korss60.com^
 ||kosmonautcasino.com^
 ||kr221.com^
@@ -15338,6 +15353,7 @@
 ||m88my.com^
 ||m88neon.com^
 ||m88rd.com^
+||m88strk.com^
 ||m88tip.com^
 ||m88tld.com^
 ||m88vina.com^
@@ -15388,6 +15404,7 @@
 ||mansion66.com^
 ||manvip.icu^
 ||mapgxnhurg.com^
+||mapi.fb88gateway.com^
 ||mapi.ku558.net^
 ||mapi.ku998.net^
 ||mapi.seb121.net^
@@ -16049,6 +16066,7 @@
 ||mkt.lucky88.net^
 ||mkt.zpisportbk.com^
 ||mlbaffiliates.com^
+||mlive.fb88gateway.com^
 ||mlnnssapi.com^
 ||mm19789.com^
 ||mm4766.com^
@@ -16082,6 +16100,7 @@
 ||monetacasinosanpedrobelize.com^
 ||money-x.art^
 ||moneyball23.com^
+||monsterinsights.com^
 ||moonlive.pro^
 ||morebway.com^
 ||mos799.com^
@@ -16109,16 +16128,20 @@
 ||ms33.net^
 ||ms3388.com^
 ||ms783in.com^
+||ms882.org^
 ||ms88asia.com^
 ||ms88b.com^
 ||ms88ca.com^
 ||ms8kk.com^
 ||ms8opb.com^
+||ms8wvci.com^
 ||ms8zrsi.com^
 ||msbntt.com^
 ||mscaffiliate.com^
 ||mshdov.com^
+||msklre.com^
 ||msmeb.com^
+||mspdgz.com^
 ||mstatiks.com^
 ||msurgh.com^
 ||msvipsports.com^
@@ -16715,6 +16738,7 @@
 ||play.fa88vn.vin^
 ||play.gameric.win^
 ||play.go88.club^
+||play.go88.im^
 ||play.manclub.vin^
 ||play.nemo.vin^
 ||play.playiwin.biz^
@@ -17829,6 +17853,8 @@
 ||tai.fa88vn.live^
 ||tai.go88.club^
 ||tai.go88.com^
+||tai.go88.live^
+||tai.go88b.com^
 ||tai.go88vn.vip^
 ||tai.nhatvip.live^
 ||tai.rikvip.id^
@@ -19009,6 +19035,7 @@
 ||vwthethao.net^
 ||vwviet.com^
 ||vwweb.xyz^
+||vx88.bet^
 ||vx88.com^
 ||vx88.live^
 ||vx88e.com^
@@ -19931,6 +19958,8 @@
 ||xs638.com^
 ||xslotframe2.com^
 ||xsltviet.com^
+||xsxt.info^
+||xsxt.org^
 ||xuvang777.com^
 ||xvgf8.com^
 ||xx19789.com^
@@ -20414,6 +20443,7 @@
 ||your9188.com^
 ||yourbonus.online^
 ||yourspread.com^
+||youtaigamebai.app^
 ||yq2023.org^
 ||ysb8q.com^
 ||ysport99.com^
@@ -20504,6 +20534,7 @@
 ||zaloqq88.club^
 ||zbbc88.com^
 ||zbet.com^
+||zbet.me^
 ||zbet.vn^
 ||zbet.win^
 ||zbetvn.com^

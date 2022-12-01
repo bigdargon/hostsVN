@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 30 Nov 2022 10:25 UTC+7
-# Version: 2211301025
-# Blocked: 21.020 domains
+# Last modified: 01 Dec 2022 11:18 UTC+7
+# Version: 2212011118
+# Blocked: 21.053 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -923,6 +923,7 @@
 0.0.0.0 146390.com
 0.0.0.0 147390.com
 0.0.0.0 148390.com
+0.0.0.0 148796.com
 0.0.0.0 148vn.com
 0.0.0.0 149390.com
 0.0.0.0 1495mv.com
@@ -5356,6 +5357,7 @@
 0.0.0.0 8181981.com
 0.0.0.0 8181mgm.com
 0.0.0.0 8181vn.com
+0.0.0.0 818520128.com
 0.0.0.0 81866001.com
 0.0.0.0 81866002.com
 0.0.0.0 81866003.com
@@ -6955,6 +6957,7 @@
 0.0.0.0 api.betlv.com
 0.0.0.0 api.f8bet0.com
 0.0.0.0 api.f8bet5.com
+0.0.0.0 api.fb88.company
 0.0.0.0 api.hb88p.com
 0.0.0.0 api.hubtop88.net
 0.0.0.0 api.i8bet.org
@@ -9306,6 +9309,7 @@
 0.0.0.0 dhwz1.com
 0.0.0.0 dhwz2.com
 0.0.0.0 diamondbets9.com
+0.0.0.0 dillards2.com
 0.0.0.0 dimeaction.com
 0.0.0.0 diq9r.com
 0.0.0.0 diqhdiuqh48521dqjhduqihdq481qdqhdoq.com
@@ -9455,6 +9459,7 @@
 0.0.0.0 egb99.com
 0.0.0.0 eh5app.cc
 0.0.0.0 eighteeneightbet.com
+0.0.0.0 ejazm88.com
 0.0.0.0 ek801.com
 0.0.0.0 ek8802.com
 0.0.0.0 ek882.com
@@ -9683,6 +9688,7 @@
 0.0.0.0 fat880.com
 0.0.0.0 favour294.com
 0.0.0.0 fb88.com
+0.0.0.0 fb88.company
 0.0.0.0 fb88.link
 0.0.0.0 fb88999.com
 0.0.0.0 fb88aff.com
@@ -9692,6 +9698,7 @@
 0.0.0.0 fb88club.com
 0.0.0.0 fb88cup.com
 0.0.0.0 fb88en.com
+0.0.0.0 fb88gateway.com
 0.0.0.0 fb88go.com
 0.0.0.0 fb88hot.com
 0.0.0.0 fb88live.com
@@ -10957,10 +10964,14 @@
 0.0.0.0 go2fun88.com
 0.0.0.0 go7878.com
 0.0.0.0 go79.bet
+0.0.0.0 go88-vn.com
 0.0.0.0 go88.club
 0.0.0.0 go88.co
 0.0.0.0 go88.com
+0.0.0.0 go88.im
+0.0.0.0 go88.live
 0.0.0.0 go88.uk
+0.0.0.0 go88b.com
 0.0.0.0 go88bet.net
 0.0.0.0 go88play.net
 0.0.0.0 go88vn.live
@@ -11436,6 +11447,7 @@
 0.0.0.0 ibway99.com
 0.0.0.0 ic.aff-handler.com
 0.0.0.0 iceberg294.com
+0.0.0.0 icetraff.com
 0.0.0.0 id.8xbet.fun
 0.0.0.0 id.oppa888.com
 0.0.0.0 id.sv388.mobi
@@ -12478,6 +12490,7 @@
 0.0.0.0 joybway.com
 0.0.0.0 joycasino-e.com
 0.0.0.0 jp88vn.com
+0.0.0.0 jpnm88.com
 0.0.0.0 jqbt6.com
 0.0.0.0 jqka668.net
 0.0.0.0 jquvu.com
@@ -14666,6 +14679,7 @@
 0.0.0.0 kl863.com
 0.0.0.0 kl8632.com
 0.0.0.0 kl8932123.com
+0.0.0.0 kl8a.net
 0.0.0.0 klc82272.com
 0.0.0.0 klc825867.com
 0.0.0.0 klc82757272.com
@@ -14691,6 +14705,7 @@
 0.0.0.0 kor1xbet.com
 0.0.0.0 korea-1xbet.com
 0.0.0.0 korea1x-bet.com
+0.0.0.0 korm88.com
 0.0.0.0 korss60.com
 0.0.0.0 kosmonautcasino.com
 0.0.0.0 kr221.com
@@ -15336,6 +15351,7 @@
 0.0.0.0 m88my.com
 0.0.0.0 m88neon.com
 0.0.0.0 m88rd.com
+0.0.0.0 m88strk.com
 0.0.0.0 m88tip.com
 0.0.0.0 m88tld.com
 0.0.0.0 m88vina.com
@@ -15386,6 +15402,7 @@
 0.0.0.0 mansion66.com
 0.0.0.0 manvip.icu
 0.0.0.0 mapgxnhurg.com
+0.0.0.0 mapi.fb88gateway.com
 0.0.0.0 mapi.ku558.net
 0.0.0.0 mapi.ku998.net
 0.0.0.0 mapi.seb121.net
@@ -16046,6 +16063,7 @@
 0.0.0.0 mkt.lucky88.net
 0.0.0.0 mkt.zpisportbk.com
 0.0.0.0 mlbaffiliates.com
+0.0.0.0 mlive.fb88gateway.com
 0.0.0.0 mlnnssapi.com
 0.0.0.0 mm19789.com
 0.0.0.0 mm4766.com
@@ -16079,6 +16097,7 @@
 0.0.0.0 monetacasinosanpedrobelize.com
 0.0.0.0 money-x.art
 0.0.0.0 moneyball23.com
+0.0.0.0 monsterinsights.com
 0.0.0.0 moonlive.pro
 0.0.0.0 morebway.com
 0.0.0.0 mos799.com
@@ -16106,16 +16125,20 @@
 0.0.0.0 ms33.net
 0.0.0.0 ms3388.com
 0.0.0.0 ms783in.com
+0.0.0.0 ms882.org
 0.0.0.0 ms88asia.com
 0.0.0.0 ms88b.com
 0.0.0.0 ms88ca.com
 0.0.0.0 ms8kk.com
 0.0.0.0 ms8opb.com
+0.0.0.0 ms8wvci.com
 0.0.0.0 ms8zrsi.com
 0.0.0.0 msbntt.com
 0.0.0.0 mscaffiliate.com
 0.0.0.0 mshdov.com
+0.0.0.0 msklre.com
 0.0.0.0 msmeb.com
+0.0.0.0 mspdgz.com
 0.0.0.0 mstatiks.com
 0.0.0.0 msurgh.com
 0.0.0.0 msvipsports.com
@@ -16710,6 +16733,7 @@
 0.0.0.0 play.fa88vn.vin
 0.0.0.0 play.gameric.win
 0.0.0.0 play.go88.club
+0.0.0.0 play.go88.im
 0.0.0.0 play.manclub.vin
 0.0.0.0 play.nemo.vin
 0.0.0.0 play.playiwin.biz
@@ -17822,6 +17846,8 @@
 0.0.0.0 tai.fa88vn.live
 0.0.0.0 tai.go88.club
 0.0.0.0 tai.go88.com
+0.0.0.0 tai.go88.live
+0.0.0.0 tai.go88b.com
 0.0.0.0 tai.go88vn.vip
 0.0.0.0 tai.nhatvip.live
 0.0.0.0 tai.rikvip.id
@@ -19002,6 +19028,7 @@
 0.0.0.0 vwthethao.net
 0.0.0.0 vwviet.com
 0.0.0.0 vwweb.xyz
+0.0.0.0 vx88.bet
 0.0.0.0 vx88.com
 0.0.0.0 vx88.live
 0.0.0.0 vx88e.com
@@ -19491,6 +19518,7 @@
 0.0.0.0 www.fb88affok.com
 0.0.0.0 www.fb88club.com
 0.0.0.0 www.fb88cup.com
+0.0.0.0 www.fb88gateway.com
 0.0.0.0 www.fb88max.com
 0.0.0.0 www.fb88sg.com
 0.0.0.0 www.fb88sports.com
@@ -19509,6 +19537,7 @@
 0.0.0.0 www.gamedoithuong.org
 0.0.0.0 www.gaznbike.com
 0.0.0.0 www.gi8vn.vip
+0.0.0.0 www.go88-vn.com
 0.0.0.0 www.go88.com
 0.0.0.0 www.go88bet.net
 0.0.0.0 www.goal123.com
@@ -20388,6 +20417,8 @@
 0.0.0.0 xs638.com
 0.0.0.0 xslotframe2.com
 0.0.0.0 xsltviet.com
+0.0.0.0 xsxt.info
+0.0.0.0 xsxt.org
 0.0.0.0 xuvang777.com
 0.0.0.0 xvgf8.com
 0.0.0.0 xx19789.com
@@ -20871,6 +20902,7 @@
 0.0.0.0 your9188.com
 0.0.0.0 yourbonus.online
 0.0.0.0 yourspread.com
+0.0.0.0 youtaigamebai.app
 0.0.0.0 yq2023.org
 0.0.0.0 ysb8q.com
 0.0.0.0 ysport99.com
@@ -20961,6 +20993,7 @@
 0.0.0.0 zaloqq88.club
 0.0.0.0 zbbc88.com
 0.0.0.0 zbet.com
+0.0.0.0 zbet.me
 0.0.0.0 zbet.vn
 0.0.0.0 zbet.win
 0.0.0.0 zbetvn.com

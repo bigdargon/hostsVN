@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 30 Nov 2022 10:25 UTC+7
-! Version: 2211301025
-! Blocked: 3.660 rules
+! Last modified: 01 Dec 2022 11:18 UTC+7
+! Version: 2212011118
+! Blocked: 3.670 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -759,8 +759,12 @@
 ||go.bcb80.com^
 ||go.beb77.com^
 ||go.casino86.club^
+||go88-vn.com^
 ||go88.club^
 ||go88.com^
+||go88.im^
+||go88.live^
+||go88b.com^
 ||go88bet.net^
 ||go88vn.live^
 ||go88vn.vip^
@@ -3046,6 +3050,7 @@
 ||play.choiwin79.net^
 ||play.fa88.win^
 ||play.go88.club^
+||play.go88.im^
 ||play.manclub.vin^
 ||play.nemo.vin^
 ||play.playiwin.biz^
@@ -3291,6 +3296,8 @@
 ||tai.fa88vn.live^
 ||tai.go88.club^
 ||tai.go88.com^
+||tai.go88.live^
+||tai.go88b.com^
 ||tai.go88vn.vip^
 ||tai.nhatvip.live^
 ||tai.rikvip.tv^
@@ -3544,6 +3551,7 @@
 ||vwthethao.net^
 ||vwviet.com^
 ||vwweb.xyz^
+||vx88.bet^
 ||vx88.com^
 ||vx88.live^
 ||vx88e.com^
@@ -3648,6 +3656,7 @@
 ||yo99.win^
 ||you88.app^
 ||you88.vin^
+||youtaigamebai.app^
 ||yule12888.com^
 ||z1.zbet.com^
 ||z1.zbet.vn^
@@ -3657,6 +3666,7 @@
 ||z3.zbet.vn^
 ||z3.zbetvn.com^
 ||zbet.com^
+||zbet.me^
 ||zbet.vn^
 ||zbet.win^
 ||zbetvn.com^
