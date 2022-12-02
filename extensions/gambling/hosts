@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 01 Dec 2022 11:18 UTC+7
-# Version: 2212011118
-# Blocked: 21.053 domains
+# Last modified: 02 Dec 2022 11:58 UTC+7
+# Version: 2212021158
+# Blocked: 21.085 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5948,6 +5948,7 @@
 0.0.0.0 889kbet.com
 0.0.0.0 88ae888.com
 0.0.0.0 88bet.vin
+0.0.0.0 88bet58.com
 0.0.0.0 88betin.com
 0.0.0.0 88betthai.com
 0.0.0.0 88bong.com
@@ -6761,6 +6762,7 @@
 0.0.0.0 ae88830.com
 0.0.0.0 ae88831.com
 0.0.0.0 ae88833.com
+0.0.0.0 ae88836.com
 0.0.0.0 ae88838.com
 0.0.0.0 ae88839.com
 0.0.0.0 ae88840.com
@@ -6958,6 +6960,7 @@
 0.0.0.0 api.f8bet0.com
 0.0.0.0 api.f8bet5.com
 0.0.0.0 api.fb88.company
+0.0.0.0 api.hb88h.com
 0.0.0.0 api.hb88p.com
 0.0.0.0 api.hubtop88.net
 0.0.0.0 api.i8bet.org
@@ -9331,13 +9334,19 @@
 0.0.0.0 dk.vaorikvip.net
 0.0.0.0 dk8.games
 0.0.0.0 dk8.link
+0.0.0.0 dk801.com
 0.0.0.0 dk802.com
+0.0.0.0 dk803.com
 0.0.0.0 dk8809.com
 0.0.0.0 dk8812.com
 0.0.0.0 dk8815.com
+0.0.0.0 dk8819.com
 0.0.0.0 dk901.com
+0.0.0.0 dk902.com
+0.0.0.0 dk903.com
 0.0.0.0 dkbet8casino.com
 0.0.0.0 dkbet999.com
+0.0.0.0 dkxsvn.com
 0.0.0.0 dl.fa88.win
 0.0.0.0 dl.v8.club
 0.0.0.0 dl2566.com
@@ -15224,6 +15233,7 @@
 0.0.0.0 lxxyzq.com
 0.0.0.0 m-static.ktokto.mobi
 0.0.0.0 m.123b.bet
+0.0.0.0 m.188sbsoccer.com
 0.0.0.0 m.188thethao.com
 0.0.0.0 m.1popop.com
 0.0.0.0 m.1tamtam.com
@@ -15255,6 +15265,9 @@
 0.0.0.0 m.happy9luck.com
 0.0.0.0 m.k8sport.com
 0.0.0.0 m.kimsa338.com
+0.0.0.0 m.kimsa88.com
+0.0.0.0 m.kimsa888.com
+0.0.0.0 m.kimsa9888.com
 0.0.0.0 m.kingbet86.com
 0.0.0.0 m.kingbet86.info
 0.0.0.0 m.lixi88.info
@@ -15282,6 +15295,7 @@
 0.0.0.0 m.qq8788viet.com
 0.0.0.0 m.red88.com
 0.0.0.0 m.tf88265.com
+0.0.0.0 m.tf88860.co
 0.0.0.0 m.tf88v.com
 0.0.0.0 m.tobet88.net
 0.0.0.0 m.twin188.co
@@ -17937,6 +17951,7 @@
 0.0.0.0 tf2022vip.com
 0.0.0.0 tf88265.com
 0.0.0.0 tf88639.com
+0.0.0.0 tf88792.com
 0.0.0.0 tf88929.com
 0.0.0.0 tf88luck.com
 0.0.0.0 tf88lucky.com
@@ -18220,6 +18235,8 @@
 0.0.0.0 tote.co.uk
 0.0.0.0 totq59gd.cfd
 0.0.0.0 toyor567.com
+0.0.0.0 tpviet66.com
+0.0.0.0 tpviet88.com
 0.0.0.0 tq247.vip
 0.0.0.0 tr1xbet.com
 0.0.0.0 tracking.asiabet.org
@@ -19381,6 +19398,7 @@
 0.0.0.0 www.33beta.com
 0.0.0.0 www.33betad.com
 0.0.0.0 www.33betf.com
+0.0.0.0 www.3650011.com
 0.0.0.0 www.3650022.com
 0.0.0.0 www.3676b.com
 0.0.0.0 www.388bet.top
@@ -19428,9 +19446,12 @@
 0.0.0.0 www.abuvn.cc
 0.0.0.0 www.ae788.bet
 0.0.0.0 www.ae888.com
+0.0.0.0 www.ae88840.com
 0.0.0.0 www.ae88856.com
 0.0.0.0 www.ae88859.com
+0.0.0.0 www.ae9888.com
 0.0.0.0 www.ae988bet.com
+0.0.0.0 www.aewin88.com
 0.0.0.0 www.agbet.co
 0.0.0.0 www.appbk8.com
 0.0.0.0 www.asiabet.org
@@ -19546,8 +19567,11 @@
 0.0.0.0 www.goal86.top
 0.0.0.0 www.h3bet.com
 0.0.0.0 www.happynb.com
+0.0.0.0 www.hb88g.com
+0.0.0.0 www.hb88h.com
 0.0.0.0 www.hb88p.com
 0.0.0.0 www.hi888.app
+0.0.0.0 www.hi88vip0.com
 0.0.0.0 www.hi88vip8.com
 0.0.0.0 www.i8bet.org
 0.0.0.0 www.i99902.com
@@ -19609,6 +19633,7 @@
 0.0.0.0 www.lchvn.com
 0.0.0.0 www.letou8868.com
 0.0.0.0 www.link1vaobk.com
+0.0.0.0 www.linkmoi188.com
 0.0.0.0 www.linkvaobw.info
 0.0.0.0 www.lixi88.info
 0.0.0.0 www.lode555.com
@@ -19683,6 +19708,7 @@
 0.0.0.0 www.sbetviet.com
 0.0.0.0 www.seb121.net
 0.0.0.0 www.shbet0.com
+0.0.0.0 www.shbet2.com
 0.0.0.0 www.shbet3.com
 0.0.0.0 www.shenbo405.com
 0.0.0.0 www.shenbo408.com
@@ -19736,6 +19762,7 @@
 0.0.0.0 www.tt128.net
 0.0.0.0 www.tt128viet.com
 0.0.0.0 www.twin188.co
+0.0.0.0 www.udw884.com
 0.0.0.0 www.udw886.com
 0.0.0.0 www.v7ac.com
 0.0.0.0 www.v7king.com
@@ -19756,8 +19783,10 @@
 0.0.0.0 www.vietvwin.com
 0.0.0.0 www.viva88.com
 0.0.0.0 www.vlott88.com
+0.0.0.0 www.vn138138.com
 0.0.0.0 www.vn138viet.com
 0.0.0.0 www.vn34.com
+0.0.0.0 www.vn500.com
 0.0.0.0 www.vn67801.com
 0.0.0.0 www.vn88.bet
 0.0.0.0 www.vn88.casino
@@ -19765,6 +19794,7 @@
 0.0.0.0 www.vn88.com
 0.0.0.0 www.vn88hn.live
 0.0.0.0 www.vn88vui.live
+0.0.0.0 www.vnd88hn.com
 0.0.0.0 www.vndbet88.com
 0.0.0.0 www.vndbetway.com
 0.0.0.0 www.vnloto.com
@@ -19786,6 +19816,7 @@
 0.0.0.0 www.vz681.com
 0.0.0.0 www.vz79.com
 0.0.0.0 www.w388.com
+0.0.0.0 www.w69top.com
 0.0.0.0 www.w88a3.com
 0.0.0.0 www.w88ac.com
 0.0.0.0 www.w88banh.com
@@ -20996,6 +21027,7 @@
 0.0.0.0 zbet.me
 0.0.0.0 zbet.vn
 0.0.0.0 zbet.win
+0.0.0.0 zbetvn.club
 0.0.0.0 zbetvn.com
 0.0.0.0 zbti9.com
 0.0.0.0 zbxz88.com

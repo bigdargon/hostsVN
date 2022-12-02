@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 01 Dec 2022 11:18 UTC+7
-! Version: 2212011118
-! Blocked: 3.670 rules
+! Last modified: 02 Dec 2022 11:58 UTC+7
+! Version: 2212021158
+! Blocked: 3.707 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -108,6 +108,7 @@
 ||33betc.com^
 ||33betf.com^
 ||33win7.com^
+||3650011.com^
 ||3650022.com^
 ||3676b.com^
 ||388bet.me^
@@ -190,6 +191,7 @@
 ||888betk8.net^
 ||888k8vn.com^
 ||88bet.vin^
+||88bet58.com^
 ||88gobet.com^
 ||88k8vn.com^
 ||88new.cc^
@@ -303,13 +305,20 @@
 ||ae788.bet^
 ||ae888.11bet.life^
 ||ae888.com^
+||ae88830.com^
+||ae88836.com^
+||ae88838.com^
+||ae88839.com^
+||ae88840.com^
 ||ae88843.com^
 ||ae88850.com^
 ||ae88856.com^
 ||ae88859.com^
 ||ae888i.com^
 ||ae888vn.com^
+||ae9888.com^
 ||ae988bet.com^
+||aewin88.com^
 ||aff.188f1play.com^
 ||aff.188thethao.com^
 ||aff.8daily8.com^
@@ -371,6 +380,7 @@
 ||api.betlv.com^
 ||api.f8bet0.com^
 ||api.f8bet5.com^
+||api.hb88h.com^
 ||api.hb88p.com^
 ||api.i8bet.org^
 ||api.i99903.com^
@@ -578,11 +588,17 @@
 ||dk.vaorikvip.net^
 ||dk8.games^
 ||dk8.link^
+||dk801.com^
 ||dk802.com^
+||dk803.com^
 ||dk8815.com^
+||dk8819.com^
 ||dk901.com^
+||dk902.com^
+||dk903.com^
 ||dkbet8casino.com^
 ||dkbet999.com^
+||dkxsvn.com^
 ||dl.fa88.win^
 ||dl.v8.club^
 ||dola88.info^
@@ -780,9 +796,12 @@
 ||h3bet.com^
 ||happy9luck.com^
 ||happynb.com^
+||hb88g.com^
+||hb88h.com^
 ||hb88p.com^
 ||hi.oppa888.com^
 ||hi888.app^
+||hi88vip0.com^
 ||hi88vip8.com^
 ||hm.fabet.vip^
 ||hotlive8.vip^
@@ -2760,6 +2779,7 @@
 ||link1vaobk.com^
 ||linkbk8.com^
 ||linkbong88moinhat.com^
+||linkmoi188.com^
 ||linkvaobw.info^
 ||linkvaom88.xyz^
 ||linkw88dn.com^
@@ -2809,6 +2829,7 @@
 ||lux888.club^
 ||m-static.ktokto.mobi^
 ||m.123b.bet^
+||m.188sbsoccer.com^
 ||m.188thethao.com^
 ||m.1tamtam.com^
 ||m.388bet.top^
@@ -2838,6 +2859,9 @@
 ||m.happy9luck.com^
 ||m.k8sport.com^
 ||m.kimsa338.com^
+||m.kimsa88.com^
+||m.kimsa888.com^
+||m.kimsa9888.com^
 ||m.kingbet86.com^
 ||m.kingbet86.info^
 ||m.lixi88.info^
@@ -2861,6 +2885,7 @@
 ||m.qq8788viet.com^
 ||m.red88.com^
 ||m.tf88265.com^
+||m.tf88860.co^
 ||m.tf88v.com^
 ||m.tobet88.net^
 ||m.twin188.co^
@@ -3194,6 +3219,7 @@
 ||shbet.com^
 ||shbet.win^
 ||shbet0.com^
+||shbet2.com^
 ||shbet3.com^
 ||shbetcc.com^
 ||shviet.com^
@@ -3335,6 +3361,7 @@
 ||tf2022v.com^
 ||tf88265.com^
 ||tf88639.com^
+||tf88792.com^
 ||tf88luck.com^
 ||tf88v.com^
 ||th-lm.jbovietnam.com^
@@ -3383,6 +3410,8 @@
 ||topcc88.me^
 ||topdoithuong.net^
 ||topnohu.com^
+||tpviet66.com^
+||tpviet88.com^
 ||tracking.fabet.vip^
 ||tracking.zbet.vn^
 ||trungso.vip^
@@ -3397,6 +3426,7 @@
 ||tx.socvip9.club^
 ||tz.bet20.bet^
 ||tzzxt.com^
+||udw884.com^
 ||udw886.com^
 ||umfgg.com^
 ||upanh.vn88.com^
@@ -3463,8 +3493,11 @@
 ||vn.solbet88.com^
 ||vn.tbab556.com^
 ||vn.vndbetway.com^
+||vn138.net^
+||vn138138.com^
 ||vn138viet.com^
 ||vn34.com^
+||vn500.com^
 ||vn67801.com^
 ||vn789.net^
 ||vn88.bet^
@@ -3484,9 +3517,11 @@
 ||vnclub88.live^
 ||vnd188.app^
 ||vnd1888.com^
+||vnd88hn.com^
 ||vndbet88.com^
 ||vndbetway.com^
 ||vnf88.com^
+||vnfa88.com^
 ||vngame66.com^
 ||vnloto.com^
 ||vnloto.vip^
@@ -3561,6 +3596,7 @@
 ||w-sunwin.net^
 ||w365w.net^
 ||w388.com^
+||w69top.com^
 ||w753j.com^
 ||w88.vin^
 ||w88a3.com^
@@ -3669,6 +3705,7 @@
 ||zbet.me^
 ||zbet.vn^
 ||zbet.win^
+||zbetvn.club^
 ||zbetvn.com^
 ||zo.club^
 ||zo.game^

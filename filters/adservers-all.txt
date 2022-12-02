@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 01 Dec 2022 11:19 UTC+7
-! Version: 2212011119
-! Blocked: 7.971 rules
+! Last modified: 02 Dec 2022 11:59 UTC+7
+! Version: 2212021159
+! Blocked: 7.977 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3627,6 +3627,7 @@
 ||app.adjust.net.in^
 ||app.adjust.world^
 ||appads.com^
+||appbetnewapp.top^
 ||appboy-images.com^
 ||appclick.co^
 ||appclick.net^
@@ -4127,6 +4128,7 @@
 ||ccmcroads.com^
 ||cd-ads.com^
 ||cdn-server.top^
+||cdn.bncloudfl.com^
 ||cdn.c-i.as^
 ||cdn.concert.io^
 ||cdn.digitru.st^
@@ -5252,6 +5254,7 @@
 ||huskypartydance.com^
 ||hvxqkunspvtln.com^
 ||hw.zuimeitianqi.com^
+||hwpnocpctu.com^
 ||hybrid.ai^
 ||hydra.alibaba.com^
 ||hydramedia.com^
@@ -7178,6 +7181,7 @@
 ||susifhfh2d8ldn09.com^
 ||svibeacon.onezapp.com^
 ||sviter2s1olenyami1.com^
+||svkmxwssih.com^
 ||swa.and.co.uk^
 ||swan-swan-goose.com^
 ||sweetskojiki.com^
@@ -7758,6 +7762,7 @@
 ||weborama.net^
 ||webpinp.com^
 ||webpower.com^
+||webpushdirect.biz^
 ||webreseau.com^
 ||webseoanalytics.com^
 ||websponsors.com^
@@ -7837,6 +7842,7 @@
 ||wtlive.com^
 ||wuksaiho.net^
 ||wurfl.io^
+||wuzbhjpvsf.com^
 ||wvhba6470p.com^
 ||www-banner.chat.ru^
 ||wyvpjsfhywm.com^
