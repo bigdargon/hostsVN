@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 03 Dec 2022 21:53 UTC+7
-! Version: 2212032153
-! Blocked: 7.984 rules
+! Last modified: 03 Dec 2022 22:06 UTC+7
+! Version: 2212032206
+! Blocked: 7.985 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -7335,6 +7335,7 @@
 ||threechurch.com^
 ||thrnt.com^
 ||throattrees.com^
+||throngsarseno.com^
 ||thrtle.com^
 ||thruport.com^
 ||thterras.com^
