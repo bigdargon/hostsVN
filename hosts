@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Dec 2022 11:59 UTC+7
-# Version: 2212021159
-# Blocked: 17.034 domains
+# Last modified: 03 Dec 2022 21:53 UTC+7
+# Version: 2212032153
+# Blocked: 17.045 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3608,6 +3608,7 @@
 0.0.0.0 cdn.adskeeper.com
 0.0.0.0 clck.adskeeper.com
 0.0.0.0 jsc.adskeeper.com
+0.0.0.0 s-img.adskeeper.com
 0.0.0.0 servicer.adskeeper.com
 0.0.0.0 widgets.adskeeper.com
 0.0.0.0 www.adskeeper.com
@@ -10990,6 +10991,11 @@
 0.0.0.0 adssettings.365scores.com
 0.0.0.0 analytics.365scores.com
 0.0.0.0 dhn-ads-api.365scores.com
+#[jadspro.live]
+0.0.0.0 click-v4.jadspro.live
+0.0.0.0 jadspro.live
+0.0.0.0 static.jadspro.live
+0.0.0.0 www.jadspro.live
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13834,6 +13840,7 @@
 0.0.0.0 anymoresentencevirgin.com
 0.0.0.0 aparvibices.com
 0.0.0.0 apathetictheory.com
+0.0.0.0 apathylahuli.website
 0.0.0.0 apex-ad.com
 0.0.0.0 aphidsclee.com
 0.0.0.0 aphycolourses.info
@@ -15043,6 +15050,7 @@
 0.0.0.0 focusde.info
 0.0.0.0 fondlecokecombination.com
 0.0.0.0 fonecta.fi
+0.0.0.0 for-j.com
 0.0.0.0 forearmthrobjanuary.com
 0.0.0.0 foresee.com
 0.0.0.0 forex-affiliate.net
@@ -15074,6 +15082,7 @@
 0.0.0.0 frightenedpotato.com
 0.0.0.0 fryawlauk.com
 0.0.0.0 ftte.xyz
+0.0.0.0 fuffscreigh.website
 0.0.0.0 fumarinpest.com
 0.0.0.0 functionalclam.com
 0.0.0.0 functionalcrown.com
@@ -15560,6 +15569,7 @@
 0.0.0.0 koacojus.net
 0.0.0.0 kogutcho.net
 0.0.0.0 koindut.com
+0.0.0.0 kokanmokum.tech
 0.0.0.0 kolkwi4tzicraamabilis.com
 0.0.0.0 kolobif.com
 0.0.0.0 komoona.com
@@ -15955,6 +15965,7 @@
 0.0.0.0 nan46ysangt28eec.com
 0.0.0.0 nasrolaugers.com
 0.0.0.0 nastydollars.com
+0.0.0.0 native-track.com
 0.0.0.0 nativepu.sh
 0.0.0.0 nativeroll.tv
 0.0.0.0 nativewpsh.com
@@ -17002,6 +17013,7 @@
 0.0.0.0 swordgoose.com
 0.0.0.0 swpsvc.com
 0.0.0.0 sya9yncn3q.com
+0.0.0.0 syenitetatler.tech
 0.0.0.0 sync.quantumdex.io
 0.0.0.0 sync.vmweb.net
 0.0.0.0 syndapop.com

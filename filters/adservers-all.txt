@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Dec 2022 11:59 UTC+7
-! Version: 2212021159
-! Blocked: 7.977 rules
+! Last modified: 03 Dec 2022 21:53 UTC+7
+! Version: 2212032153
+! Blocked: 7.984 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1775,6 +1775,7 @@
 ||ivstracker.net^
 ||izooto.com^
 ||jads.co^
+||jadspro.live^
 ||jampp.com^
 ||jeeng.com^
 ||jpush.cn^
@@ -3595,6 +3596,7 @@
 ||apac.kingston.com^
 ||aparvibices.com^
 ||apathetictheory.com^
+||apathylahuli.website^
 ||apex-ad.com^
 ||aphidsclee.com^
 ||aphycolourses.info^
@@ -4946,6 +4948,7 @@
 ||focusde.info^
 ||fondlecokecombination.com^
 ||fonecta.fi^
+||for-j.com^
 ||forearmthrobjanuary.com^
 ||foresee.com^
 ||forex-affiliate.net^
@@ -4978,6 +4981,7 @@
 ||front.optimonk.com^
 ||fryawlauk.com^
 ||ftte.xyz^
+||fuffscreigh.website^
 ||fullstory.com^
 ||fumarinpest.com^
 ||functionalclam.com^
@@ -5527,6 +5531,7 @@
 ||koacojus.net^
 ||kogutcho.net^
 ||koindut.com^
+||kokanmokum.tech^
 ||kolkwi4tzicraamabilis.com^
 ||kolobif.com^
 ||komoona.com^
@@ -5989,6 +5994,7 @@
 ||nan46ysangt28eec.com^
 ||nasrolaugers.com^
 ||nastydollars.com^
+||native-track.com^
 ||nativepu.sh^
 ||nativeroll.tv^
 ||nativewpsh.com^
@@ -7193,6 +7199,7 @@
 ||swordgoose.com^
 ||swpsvc.com^
 ||sya9yncn3q.com^
+||syenitetatler.tech^
 ||sync.quantumdex.io^
 ||sync.vmweb.net^
 ||sync2ad.com^

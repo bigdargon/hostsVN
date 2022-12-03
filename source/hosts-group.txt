@@ -3596,6 +3596,7 @@
 0.0.0.0 cdn.adskeeper.com
 0.0.0.0 clck.adskeeper.com
 0.0.0.0 jsc.adskeeper.com
+0.0.0.0 s-img.adskeeper.com
 0.0.0.0 servicer.adskeeper.com
 0.0.0.0 widgets.adskeeper.com
 0.0.0.0 www.adskeeper.com
@@ -10978,3 +10979,8 @@
 0.0.0.0 adssettings.365scores.com
 0.0.0.0 analytics.365scores.com
 0.0.0.0 dhn-ads-api.365scores.com
+#[jadspro.live]
+0.0.0.0 click-v4.jadspro.live
+0.0.0.0 jadspro.live
+0.0.0.0 static.jadspro.live
+0.0.0.0 www.jadspro.live
