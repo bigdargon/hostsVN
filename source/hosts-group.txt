@@ -1245,6 +1245,9 @@
 0.0.0.0 pingjs.qq.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pingtcss.qq.com
+#[map.qq.com]
+0.0.0.0 analytics.map.qq.com
+0.0.0.0 cc.map.qq.com
 #[umeng.com]
 0.0.0.0 alog-default.umeng.com
 0.0.0.0 alog.umeng.com
@@ -10984,3 +10987,9 @@
 0.0.0.0 jadspro.live
 0.0.0.0 static.jadspro.live
 0.0.0.0 www.jadspro.live
+#[hotstar.com]
+0.0.0.0 bifrost-api.hotstar.com
+0.0.0.0 events-analytics.hotstar.com
+0.0.0.0 logs.hotstar.com
+0.0.0.0 settings-analytics.hotstar.com
+0.0.0.0 videoads.hotstar.com

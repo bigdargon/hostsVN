@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 03 Dec 2022 22:05 UTC+7
-! Version: 2212032205
-! Blocked: 3.707 rules
+! Last modified: 06 Dec 2022 10:49 UTC+7
+! Version: 2212061049
+! Blocked: 3.729 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -154,6 +154,7 @@
 ||789b.asia^
 ||789b.dev^
 ||789b.live^
+||789b.win^
 ||789bet.run^
 ||789club.biz^
 ||789club.com^
@@ -185,11 +186,13 @@
 ||7kw35.com^
 ||80k8vn.com^
 ||81ipb.com^
+||885ae888.com^
 ||888b.com^
 ||888b.in^
 ||888b.trade^
 ||888betk8.net^
 ||888k8vn.com^
+||889ae888.com^
 ||88bet.vin^
 ||88bet58.com^
 ||88gobet.com^
@@ -203,6 +206,7 @@
 ||88vin.zone^
 ||88vnd.com^
 ||88vwin.com^
+||890ae888.com^
 ||8daily8.com^
 ||8day.bet^
 ||8day.com^
@@ -244,9 +248,11 @@
 ||8xbet.com^
 ||8xbet.fun^
 ||8xbet.games^
+||8xbet.org^
 ||8xbet.tv^
 ||8xbet.win^
 ||8xbet.xyz^
+||8xbet0.com^
 ||8xbet05.com^
 ||8xbet06.com^
 ||8xbet11.com^
@@ -257,6 +263,7 @@
 ||8xbet96.com^
 ||910833.com^
 ||92lottery.com^
+||92lottery.mobi^
 ||968.club^
 ||978bet34.com^
 ||9966789.com^
@@ -301,20 +308,27 @@
 ||ads14.win888b.com^
 ||ads16.win888b.com^
 ||ads23.win888b.com^
+||ae2888.com^
 ||ae3888.top^
+||ae58888.com^
 ||ae788.bet^
 ||ae888.11bet.life^
 ||ae888.com^
+||ae888.mobi^
+||ae888.net^
 ||ae88830.com^
 ||ae88836.com^
 ||ae88838.com^
 ||ae88839.com^
 ||ae88840.com^
 ||ae88843.com^
+||ae88848.com^
 ||ae88850.com^
 ||ae88856.com^
+||ae88858.com^
 ||ae88859.com^
 ||ae888i.com^
+||ae888sports01.com^
 ||ae888vn.com^
 ||ae9888.com^
 ||ae988bet.com^
@@ -509,8 +523,10 @@
 ||cashier2.188thethao.com^
 ||casino86.club^
 ||casino888vn.com^
+||casinoae888.com^
 ||cdn.kingbet86.info^
 ||cdn.vwin010.com^
+||cf68.shop^
 ||cfun68.biz^
 ||chat789bet.com^
 ||choang.fun^
@@ -2747,6 +2763,7 @@
 ||kubet.kim^
 ||kubet.life^
 ||kubet.mobi^
+||kubet.tel^
 ||kubet11.com^
 ||kubet11.to^
 ||kubet11.tv^
@@ -3222,6 +3239,7 @@
 ||shbet2.com^
 ||shbet3.com^
 ||shbetcc.com^
+||shbetgg.com^
 ||shviet.com^
 ||shviet0.com^
 ||sieubomtan.com^
@@ -3444,8 +3462,12 @@
 ||v99win.app^
 ||v9bet.com^
 ||v9bet55.com^
+||v9bet666.com^
 ||v9bet88.net^
+||v9beta.net^
 ||v9betasia.com^
+||v9betvi.com^
+||v9betwin.net^
 ||v9jvn.com^
 ||vaorikvip.com^
 ||vaorikvip.net^

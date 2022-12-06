@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 03 Dec 2022 22:06 UTC+7
-! Version: 2212032206
-! Blocked: 7.985 rules
+! Last modified: 06 Dec 2022 10:49 UTC+7
+! Version: 2212061049
+! Blocked: 7.992 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1143,6 +1143,7 @@
 ||analytics.ff.avast.com^
 ||analytics.google.com^
 ||analytics.live.com^
+||analytics.map.qq.com^
 ||analytics.mobile.walmart.com^
 ||analytics.mobile.yandex.net^
 ||analytics.msn.com^
@@ -1291,6 +1292,7 @@
 ||bidswitch.net^
 ||bidtheatre.com^
 ||bidvertiser.com^
+||bifrost-api.hotstar.com^
 ||bigbangads.go2cloud.org^
 ||bilsyndication.com^
 ||bingads.microsoft.com^
@@ -1347,6 +1349,7 @@
 ||casalemedia.com^
 ||cbsileads.com^
 ||cbsinteractive.com^
+||cc.map.qq.com^
 ||cc.sys.intl.xiaomi.com^
 ||cc.sys.miui.com^
 ||ccc.sys.intl.xiaomi.com^
@@ -1565,6 +1568,7 @@
 ||eventgateway.soundcloud.com^
 ||eventlogger.soundcloud.com^
 ||eventreg.sphdigital.com^
+||events-analytics.hotstar.com^
 ||events-collector.spot.im^
 ||events-dra.op.hicloud.com^
 ||events.avantisvideo.com^
@@ -1834,6 +1838,7 @@
 ||logrocket.io^
 ||logs.datadoghq.com^
 ||logs.datadoghq.eu^
+||logs.hotstar.com^
 ||logs.insight.rapid7.com^
 ||logsdk.qq.com^
 ||logservice-dra.platform.hicloud.com^
@@ -2221,6 +2226,7 @@
 ||serverbid.com^
 ||servicelayer.king.com^
 ||serving-sys.com^
+||settings-analytics.hotstar.com^
 ||sgp.o2o.api.xiaomi.com^
 ||share.yandex.ru^
 ||shareaholic.com^
@@ -2458,6 +2464,7 @@
 ||viadata.store^
 ||videoadex.com^
 ||videoads-cloud.rovio.com^
+||videoads.hotstar.com^
 ||videohub.tv^
 ||videostats.kakao.com^
 ||vidsrev.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 03 Dec 2022 22:05 UTC+7
-# Version: 2212032205
-# Blocked: 21.085 domains
+# Last modified: 06 Dec 2022 10:49 UTC+7
+# Version: 2212061049
+# Blocked: 21.114 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4834,6 +4834,7 @@
 0.0.0.0 7582004.com
 0.0.0.0 7592004.com
 0.0.0.0 75999.xyz
+0.0.0.0 75r.com
 0.0.0.0 760041.com
 0.0.0.0 760043.com
 0.0.0.0 760046.com
@@ -5829,6 +5830,7 @@
 0.0.0.0 8855kbet.com
 0.0.0.0 8855vn77.com
 0.0.0.0 8857375.com
+0.0.0.0 885ae888.com
 0.0.0.0 885fun.com
 0.0.0.0 886018.com
 0.0.0.0 886048.com
@@ -5945,6 +5947,7 @@
 0.0.0.0 8895359.com
 0.0.0.0 8897375.com
 0.0.0.0 88978n.com
+0.0.0.0 889ae888.com
 0.0.0.0 889kbet.com
 0.0.0.0 88ae888.com
 0.0.0.0 88bet.vin
@@ -6003,6 +6006,7 @@
 0.0.0.0 88vnd.com
 0.0.0.0 88vwin.com
 0.0.0.0 88yo88.com
+0.0.0.0 890ae888.com
 0.0.0.0 8912839.com
 0.0.0.0 891390.com
 0.0.0.0 891999kbet.net
@@ -6349,6 +6353,7 @@
 0.0.0.0 92999.xyz
 0.0.0.0 92bet.com
 0.0.0.0 92lottery.com
+0.0.0.0 92lottery.mobi
 0.0.0.0 930588.com
 0.0.0.0 930855.com
 0.0.0.0 930885.com
@@ -6767,10 +6772,13 @@
 0.0.0.0 ae88839.com
 0.0.0.0 ae88840.com
 0.0.0.0 ae88843.com
+0.0.0.0 ae88848.com
 0.0.0.0 ae88850.com
 0.0.0.0 ae88856.com
+0.0.0.0 ae88858.com
 0.0.0.0 ae88859.com
 0.0.0.0 ae888i.com
+0.0.0.0 ae888sports01.com
 0.0.0.0 ae888vn.com
 0.0.0.0 ae8vip.com
 0.0.0.0 ae9888.com
@@ -6783,6 +6791,7 @@
 0.0.0.0 aerial294.com
 0.0.0.0 aesexyfun.com
 0.0.0.0 aeufa.com
+0.0.0.0 aev888.net
 0.0.0.0 aewin88.com
 0.0.0.0 af0621.com
 0.0.0.0 af5658.com
@@ -8939,6 +8948,7 @@
 0.0.0.0 center88.com
 0.0.0.0 cf68.in
 0.0.0.0 cf68.pro
+0.0.0.0 cf68.shop
 0.0.0.0 cfun68.biz
 0.0.0.0 cfun68.one
 0.0.0.0 cfun68.top
@@ -11084,6 +11094,7 @@
 0.0.0.0 h100.club
 0.0.0.0 h188xj.com
 0.0.0.0 h19789.com
+0.0.0.0 h25.com
 0.0.0.0 h33fu.com
 0.0.0.0 h362tyc.com
 0.0.0.0 h375tyc.com
@@ -14755,6 +14766,7 @@
 0.0.0.0 kubet.life
 0.0.0.0 kubet.mobi
 0.0.0.0 kubet.sbs
+0.0.0.0 kubet.tel
 0.0.0.0 kubet11.com
 0.0.0.0 kubet11.to
 0.0.0.0 kubet11.tv
@@ -16254,7 +16266,10 @@
 0.0.0.0 n757f.com
 0.0.0.0 n7n88.com
 0.0.0.0 n81866.com
+0.0.0.0 n83.com
 0.0.0.0 n83455.com
+0.0.0.0 n83777.com
+0.0.0.0 n83888.com
 0.0.0.0 n88acai.com
 0.0.0.0 n88mulberry.com
 0.0.0.0 n88play.com
@@ -16614,6 +16629,7 @@
 0.0.0.0 p4655.com
 0.0.0.0 p4700.com
 0.0.0.0 p5359.com
+0.0.0.0 p6.com
 0.0.0.0 p63xck.com
 0.0.0.0 p6439.com
 0.0.0.0 p81866.com
@@ -19081,6 +19097,7 @@
 0.0.0.0 w6897.com
 0.0.0.0 w68b8.com
 0.0.0.0 w69bet.com
+0.0.0.0 w69qq.com
 0.0.0.0 w69th.com
 0.0.0.0 w69vn.com
 0.0.0.0 w6x99j5.click
@@ -19417,7 +19434,9 @@
 0.0.0.0 www.78win01.com
 0.0.0.0 www.78win07.com
 0.0.0.0 www.79lucky.com
+0.0.0.0 www.885ae888.com
 0.0.0.0 www.888b.com
+0.0.0.0 www.889ae888.com
 0.0.0.0 www.88gobet.com
 0.0.0.0 www.88new.cc
 0.0.0.0 www.88online.me
@@ -19425,6 +19444,7 @@
 0.0.0.0 www.88viet.com
 0.0.0.0 www.88vnd.com
 0.0.0.0 www.88vwin.com
+0.0.0.0 www.890ae888.com
 0.0.0.0 www.8day.com
 0.0.0.0 www.8dayclub.com
 0.0.0.0 www.8kbet.vn
@@ -19444,11 +19464,17 @@
 0.0.0.0 www.99vn.bet
 0.0.0.0 www.aa88.in
 0.0.0.0 www.abuvn.cc
+0.0.0.0 www.ae2888.com
+0.0.0.0 www.ae58888.com
 0.0.0.0 www.ae788.bet
 0.0.0.0 www.ae888.com
+0.0.0.0 www.ae888.mobi
 0.0.0.0 www.ae88840.com
+0.0.0.0 www.ae88848.com
 0.0.0.0 www.ae88856.com
+0.0.0.0 www.ae88858.com
 0.0.0.0 www.ae88859.com
+0.0.0.0 www.ae888sports01.com
 0.0.0.0 www.ae9888.com
 0.0.0.0 www.ae988bet.com
 0.0.0.0 www.aewin88.com
@@ -19710,6 +19736,7 @@
 0.0.0.0 www.shbet0.com
 0.0.0.0 www.shbet2.com
 0.0.0.0 www.shbet3.com
+0.0.0.0 www.shbetgg.com
 0.0.0.0 www.shenbo405.com
 0.0.0.0 www.shenbo408.com
 0.0.0.0 www.shenbo752.com
@@ -19769,6 +19796,7 @@
 0.0.0.0 www.v99win.app
 0.0.0.0 www.v9bet.com
 0.0.0.0 www.v9bet55.com
+0.0.0.0 www.v9bet666.com
 0.0.0.0 www.v9bet88.net
 0.0.0.0 www.v9betasia.com
 0.0.0.0 www.v9jvn.com
@@ -19816,6 +19844,7 @@
 0.0.0.0 www.vz681.com
 0.0.0.0 www.vz79.com
 0.0.0.0 www.w388.com
+0.0.0.0 www.w69qq.com
 0.0.0.0 www.w69top.com
 0.0.0.0 www.w88a3.com
 0.0.0.0 www.w88ac.com

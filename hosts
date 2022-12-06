@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Dec 2022 22:06 UTC+7
-# Version: 2212032206
-# Blocked: 17.046 domains
+# Last modified: 06 Dec 2022 10:49 UTC+7
+# Version: 2212061049
+# Blocked: 17.053 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1257,6 +1257,9 @@
 0.0.0.0 pingjs.qq.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pingtcss.qq.com
+#[map.qq.com]
+0.0.0.0 analytics.map.qq.com
+0.0.0.0 cc.map.qq.com
 #[umeng.com]
 0.0.0.0 alog-default.umeng.com
 0.0.0.0 alog.umeng.com
@@ -10996,6 +10999,12 @@
 0.0.0.0 jadspro.live
 0.0.0.0 static.jadspro.live
 0.0.0.0 www.jadspro.live
+#[hotstar.com]
+0.0.0.0 bifrost-api.hotstar.com
+0.0.0.0 events-analytics.hotstar.com
+0.0.0.0 logs.hotstar.com
+0.0.0.0 settings-analytics.hotstar.com
+0.0.0.0 videoads.hotstar.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
