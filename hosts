@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Dec 2022 10:49 UTC+7
-# Version: 2212061049
-# Blocked: 17.053 domains
+# Last modified: 06 Dec 2022 16:30 UTC+7
+# Version: 2212061630
+# Blocked: 17.024 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4276,36 +4276,6 @@
 0.0.0.0 tikivn.api.sociaplus.com
 0.0.0.0 zaloramy.api.sociaplus.com
 0.0.0.0 zalorasg.api.sociaplus.com
-#[netcoresmartech.com]
-0.0.0.0 api.netcoresmartech.com
-0.0.0.0 cdn1.netcoresmartech.com
-0.0.0.0 cdnt.netcoresmartech.com
-0.0.0.0 cpn.netcoresmartech.com
-0.0.0.0 global.netcoresmartech.com
-0.0.0.0 go.netcoresmartech.com
-0.0.0.0 imap.netcoresmartech.com
-0.0.0.0 netcoresmartech.com
-0.0.0.0 offers.netcoresmartech.com
-0.0.0.0 pa.netcoresmartech.com
-0.0.0.0 pn.netcoresmartech.com
-0.0.0.0 pnrules.netcoresmartech.com
-0.0.0.0 pr1.netcoresmartech.com
-0.0.0.0 pr2.netcoresmartech.com
-0.0.0.0 pr3.netcoresmartech.com
-0.0.0.0 pr4.netcoresmartech.com
-0.0.0.0 pr5.netcoresmartech.com
-0.0.0.0 pr6.netcoresmartech.com
-0.0.0.0 pr7.netcoresmartech.com
-0.0.0.0 pr8.netcoresmartech.com
-0.0.0.0 pr9.netcoresmartech.com
-0.0.0.0 raman.netcoresmartech.com
-0.0.0.0 tprappin1.netcoresmartech.com
-0.0.0.0 twa.netcoresmartech.com
-0.0.0.0 twa3.netcoresmartech.com
-0.0.0.0 urlin.netcoresmartech.com
-0.0.0.0 waapi.netcoresmartech.com
-0.0.0.0 wt.netcoresmartech.com
-0.0.0.0 www.netcoresmartech.com
 #[jscount.com]
 0.0.0.0 jscount.com
 0.0.0.0 stat.jscount.com
