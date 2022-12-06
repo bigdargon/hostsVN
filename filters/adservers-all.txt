@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Dec 2022 22:47 UTC+7
-! Version: 2212062247
-! Blocked: 7.991 rules
+! Last modified: 06 Dec 2022 22:58 UTC+7
+! Version: 2212062258
+! Blocked: 7.990 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1292,7 +1292,6 @@
 ||bidswitch.net^
 ||bidtheatre.com^
 ||bidvertiser.com^
-||bifrost-api.hotstar.com^
 ||bigbangads.go2cloud.org^
 ||bilsyndication.com^
 ||bingads.microsoft.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 06 Dec 2022 22:46 UTC+7
-# Version: 2212062246
-# Blocked: 4.175 domains
+# Last modified: 06 Dec 2022 22:58 UTC+7
+# Version: 2212062258
+# Blocked: 4.171 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -50,7 +50,6 @@
 0.0.0.0 09gamek8.com
 0.0.0.0 09prok8.com
 0.0.0.0 10gamek8.com
-0.0.0.0 10prok8.com
 0.0.0.0 118kbet.com
 0.0.0.0 11bet.club
 0.0.0.0 11bet.com
@@ -542,7 +541,6 @@
 0.0.0.0 choiwin79.net
 0.0.0.0 cjofg.com
 0.0.0.0 click.mibet.com
-0.0.0.0 click.mibet.mobi
 0.0.0.0 click.mibet88.com
 0.0.0.0 clubk8.fun
 0.0.0.0 clubk8fun.com
@@ -3100,7 +3098,6 @@
 0.0.0.0 play.rikvip.tv
 0.0.0.0 play.sbotop246.com
 0.0.0.0 play.taib52.com
-0.0.0.0 play.top88.club
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
 0.0.0.0 play.top88.vn
@@ -3157,8 +3154,6 @@
 0.0.0.0 qc.nhat.game
 0.0.0.0 qc.playmanclub.uk
 0.0.0.0 qc.taimacau.club
-0.0.0.0 qc.top88.club
-0.0.0.0 qc.top88.fun
 0.0.0.0 qc.top88.me
 0.0.0.0 qc.top88.uk
 0.0.0.0 qc.top88.us
@@ -3269,6 +3264,7 @@
 0.0.0.0 sock.red88.us
 0.0.0.0 sock.red88.vin
 0.0.0.0 sock.sky88.fun
+0.0.0.0 sock.sky88.in
 0.0.0.0 socvip.com
 0.0.0.0 socvip9.club
 0.0.0.0 sodo12.com

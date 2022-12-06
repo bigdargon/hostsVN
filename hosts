@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Dec 2022 22:47 UTC+7
-# Version: 2212062247
-# Blocked: 17.024 domains
+# Last modified: 06 Dec 2022 22:58 UTC+7
+# Version: 2212062258
+# Blocked: 17.023 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10970,7 +10970,6 @@
 0.0.0.0 static.jadspro.live
 0.0.0.0 www.jadspro.live
 #[hotstar.com]
-0.0.0.0 bifrost-api.hotstar.com
 0.0.0.0 events-analytics.hotstar.com
 0.0.0.0 logs.hotstar.com
 0.0.0.0 settings-analytics.hotstar.com

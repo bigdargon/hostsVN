@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 06 Dec 2022 22:46 UTC+7
-! Version: 2212062246
-! Blocked: 3.741 rules
+! Last modified: 06 Dec 2022 22:58 UTC+7
+! Version: 2212062258
+! Blocked: 3.737 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -46,7 +46,6 @@
 ||09gamek8.com^
 ||09prok8.com^
 ||10gamek8.com^
-||10prok8.com^
 ||1126bet.com^
 ||118kbet.com^
 ||11bet.club^
@@ -546,7 +545,6 @@
 ||choiwin79.net^
 ||cjofg.com^
 ||click.mibet.com^
-||click.mibet.mobi^
 ||click.mibet88.com^
 ||clubk8.fun^
 ||clubk8fun.com^
@@ -3110,7 +3108,6 @@
 ||play.rikvip.tv^
 ||play.sbotop246.com^
 ||play.taib52.com^
-||play.top88.club^
 ||play.top88.uk^
 ||play.top88.us^
 ||play.top88.vn^
@@ -3167,8 +3164,6 @@
 ||qc.nhat.game^
 ||qc.playmanclub.uk^
 ||qc.taimacau.club^
-||qc.top88.club^
-||qc.top88.fun^
 ||qc.top88.me^
 ||qc.top88.uk^
 ||qc.top88.us^
@@ -3283,6 +3278,7 @@
 ||sock.red88.us^
 ||sock.red88.vin^
 ||sock.sky88.fun^
+||sock.sky88.in^
 ||socvip.com^
 ||socvip9.club^
 ||sodo12.com^
