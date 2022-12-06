@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 06 Dec 2022 10:49 UTC+7
-! Version: 2212061049
-! Blocked: 12.650 rules
+! Last modified: 06 Dec 2022 22:46 UTC+7
+! Version: 2212062246
+! Blocked: 12.655 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -482,9 +482,12 @@
 ||565sao.com^
 ||567.live^
 ||567live.net^
+||567live.online^
 ||567live.org^
+||567liveapp.net^
 ||567livee.com^
 ||567lives.com^
+||567lives.top^
 ||56935555.com^
 ||56meibai.com^
 ||56tianshi.com^
@@ -1760,6 +1763,7 @@
 ||chich.live^
 ||chich.mobi^
 ||chich.pro^
+||chich.vnzb8.com^
 ||chich.xyz^
 ||chich010.live^
 ||chich0100.live^
@@ -10765,6 +10769,7 @@
 ||vnxxx.org^
 ||vnxxx.pro^
 ||vnxxx.sex^
+||vnzb8.com^
 ||vobtr.com^
 ||vogliopagare.com^
 ||voila-vintage-porn.com^

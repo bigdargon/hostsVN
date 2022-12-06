@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 06 Dec 2022 10:49 UTC+7
-! Version: 2212061049
-! Blocked: 3.729 rules
+! Last modified: 06 Dec 2022 22:46 UTC+7
+! Version: 2212062246
+! Blocked: 3.741 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -195,6 +195,7 @@
 ||889ae888.com^
 ||88bet.vin^
 ||88bet58.com^
+||88bet88bet.com^
 ||88gobet.com^
 ||88k8vn.com^
 ||88new.cc^
@@ -322,6 +323,7 @@
 ||ae88839.com^
 ||ae88840.com^
 ||ae88843.com^
+||ae88847.com^
 ||ae88848.com^
 ||ae88850.com^
 ||ae88856.com^
@@ -387,9 +389,11 @@
 ||api.7897890.vip^
 ||api.78win01.com^
 ||api.78win07.com^
+||api.88bet88bet.com^
 ||api.88new.cc^
 ||api.99vn.bet^
 ||api.ae888.com^
+||api.ae88847.com^
 ||api.ae88859.com^
 ||api.betlv.com^
 ||api.f8bet0.com^
@@ -403,6 +407,8 @@
 ||api.i9bet106.com^
 ||api.i9bet108.com^
 ||api.i9bet109.com^
+||api.i9bet31.com^
+||api.jun889.vip^
 ||api.kingbet86.info^
 ||api.mc876.com^
 ||api.mu9.club^
@@ -439,6 +445,7 @@
 ||aw8vn.com^
 ||aw8vn2.com^
 ||aw8vn3.com^
+||awsdfs.88bet88bet.com^
 ||b29.bet^
 ||b29qc.win^
 ||b52.vip^
@@ -635,6 +642,7 @@
 ||ek8802.com^
 ||ek882.com^
 ||ek883.com^
+||empire.casino^
 ||en.bong99.vip^
 ||en.oppa888.com^
 ||en.sol86.com^
@@ -872,6 +880,7 @@
 ||i9bet28.com^
 ||i9bet29.com^
 ||i9bet3.com^
+||i9bet31.com^
 ||i9bet333.com^
 ||i9bet4.com^
 ||i9bet444.com^
@@ -1056,6 +1065,7 @@
 ||jinbo989898.com^
 ||jingbets.com^
 ||jss77.net^
+||jun889.vip^
 ||jun88k.com^
 ||justk8.com^
 ||k10022.com^
@@ -3224,6 +3234,7 @@
 ||s1.sin88.club^
 ||s2.sin88.biz^
 ||s2.sin88.club^
+||s555.com^
 ||s99902e.com^
 ||s99906.com^
 ||s9996.com^
@@ -3257,6 +3268,7 @@
 ||sky88.bet^
 ||sky88.com^
 ||sky88.fun^
+||sky88.in^
 ||sky88.top^
 ||sky88.uk^
 ||sky88.win^

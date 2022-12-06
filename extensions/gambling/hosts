@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 06 Dec 2022 10:49 UTC+7
-# Version: 2212061049
-# Blocked: 21.114 domains
+# Last modified: 06 Dec 2022 22:46 UTC+7
+# Version: 2212062246
+# Blocked: 21.130 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5952,6 +5952,7 @@
 0.0.0.0 88ae888.com
 0.0.0.0 88bet.vin
 0.0.0.0 88bet58.com
+0.0.0.0 88bet88bet.com
 0.0.0.0 88betin.com
 0.0.0.0 88betthai.com
 0.0.0.0 88bong.com
@@ -6772,6 +6773,7 @@
 0.0.0.0 ae88839.com
 0.0.0.0 ae88840.com
 0.0.0.0 ae88843.com
+0.0.0.0 ae88847.com
 0.0.0.0 ae88848.com
 0.0.0.0 ae88850.com
 0.0.0.0 ae88856.com
@@ -6961,9 +6963,11 @@
 0.0.0.0 api.7897890.vip
 0.0.0.0 api.78win01.com
 0.0.0.0 api.78win07.com
+0.0.0.0 api.88bet88bet.com
 0.0.0.0 api.88new.cc
 0.0.0.0 api.99vn.bet
 0.0.0.0 api.ae888.com
+0.0.0.0 api.ae88847.com
 0.0.0.0 api.ae88859.com
 0.0.0.0 api.betlv.com
 0.0.0.0 api.f8bet0.com
@@ -6979,6 +6983,8 @@
 0.0.0.0 api.i9bet106.com
 0.0.0.0 api.i9bet108.com
 0.0.0.0 api.i9bet109.com
+0.0.0.0 api.i9bet31.com
+0.0.0.0 api.jun889.vip
 0.0.0.0 api.kingbet86.info
 0.0.0.0 api.mc876.com
 0.0.0.0 api.mu9.club
@@ -7067,6 +7073,7 @@
 0.0.0.0 aw8vn2.com
 0.0.0.0 aw8vn3.com
 0.0.0.0 aweda88.com
+0.0.0.0 awsdfs.88bet88bet.com
 0.0.0.0 aywun.com
 0.0.0.0 ayxtyu.xyz
 0.0.0.0 az.kucdn.net
@@ -9496,6 +9503,7 @@
 0.0.0.0 elslotstop.com
 0.0.0.0 em199.com
 0.0.0.0 em88.net
+0.0.0.0 empire.casino
 0.0.0.0 en.bong99.vip
 0.0.0.0 en.oppa888.com
 0.0.0.0 en.sol86.com
@@ -11400,6 +11408,7 @@
 0.0.0.0 i9bet28.com
 0.0.0.0 i9bet29.com
 0.0.0.0 i9bet3.com
+0.0.0.0 i9bet31.com
 0.0.0.0 i9bet333.com
 0.0.0.0 i9bet4.com
 0.0.0.0 i9bet444.com
@@ -12686,6 +12695,7 @@
 0.0.0.0 jun8822.com
 0.0.0.0 jun8833.com
 0.0.0.0 jun8866.com
+0.0.0.0 jun889.vip
 0.0.0.0 jun8899.com
 0.0.0.0 jun88b.com
 0.0.0.0 jun88h.com
@@ -17264,6 +17274,7 @@
 0.0.0.0 s25859.com
 0.0.0.0 s4166.com
 0.0.0.0 s5359.com
+0.0.0.0 s555.com
 0.0.0.0 s5lvhkt3.cfd
 0.0.0.0 s6439.com
 0.0.0.0 s689.com
@@ -17516,6 +17527,7 @@
 0.0.0.0 sky88.bet
 0.0.0.0 sky88.com
 0.0.0.0 sky88.fun
+0.0.0.0 sky88.in
 0.0.0.0 sky88.top
 0.0.0.0 sky88.uk
 0.0.0.0 sky88.win
@@ -19470,6 +19482,7 @@
 0.0.0.0 www.ae888.com
 0.0.0.0 www.ae888.mobi
 0.0.0.0 www.ae88840.com
+0.0.0.0 www.ae88847.com
 0.0.0.0 www.ae88848.com
 0.0.0.0 www.ae88856.com
 0.0.0.0 www.ae88858.com
@@ -19545,6 +19558,7 @@
 0.0.0.0 www.ee88.club
 0.0.0.0 www.ee88.com
 0.0.0.0 www.ek882.com
+0.0.0.0 www.empire.casino
 0.0.0.0 www.ent678.com
 0.0.0.0 www.eurofun88.com
 0.0.0.0 www.f8bet.com
@@ -19615,6 +19629,7 @@
 0.0.0.0 www.i9bet24.com
 0.0.0.0 www.i9bet25.com
 0.0.0.0 www.i9bet26.com
+0.0.0.0 www.i9bet31.com
 0.0.0.0 www.i9bet444.com
 0.0.0.0 www.i9bet5.com
 0.0.0.0 www.i9bet6.com
@@ -19633,6 +19648,7 @@
 0.0.0.0 www.jdb66.vip
 0.0.0.0 www.jingbets.com
 0.0.0.0 www.jss77.net
+0.0.0.0 www.jun889.vip
 0.0.0.0 www.jun88h.com
 0.0.0.0 www.k188casino.vip
 0.0.0.0 www.k8sport.com

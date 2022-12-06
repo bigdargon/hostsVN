@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 06 Dec 2022 10:49 UTC+7
-! Version: 2212061049
-! Blocked: 2.451 rules
+! Last modified: 06 Dec 2022 22:46 UTC+7
+! Version: 2212062246
+! Blocked: 2.456 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -29,7 +29,10 @@
 ||3xtop.pro^
 ||3xvn.pro^
 ||444live.link^
+||567live.online^
+||567liveapp.net^
 ||567lives.com^
+||567lives.top^
 ||5sex.maulon.pro^
 ||6666.net^
 ||6789live.com^
@@ -117,6 +120,7 @@
 ||chich.live^
 ||chich.mobi^
 ||chich.pro^
+||chich.vnzb8.com^
 ||chich.xyz^
 ||chich3x.net^
 ||chichgaixinh.com^
@@ -2143,6 +2147,7 @@
 ||vnxxx.org^
 ||vnxxx.pro^
 ||vnxxx.sex^
+||vnzb8.com^
 ||vphimsex.net^
 ||vpspt.ru^
 ||vuagaigoi.org^
