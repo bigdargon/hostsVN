@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 06 Dec 2022 22:58 UTC+7
-# Version: 2212062258
-# Blocked: 21.118 domains
+# Last modified: 07 Dec 2022 22:09 UTC+7
+# Version: 2212072209
+# Blocked: 21.178 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5796,15 +5796,18 @@
 0.0.0.0 8815359.com
 0.0.0.0 881646.com
 0.0.0.0 8817375.com
+0.0.0.0 881ae888.com
 0.0.0.0 882039.com
 0.0.0.0 8825359.com
 0.0.0.0 8827375.com
 0.0.0.0 8829n.com
+0.0.0.0 882ae888.com
 0.0.0.0 8830888.com
 0.0.0.0 8830989.com
 0.0.0.0 88338163.com
 0.0.0.0 8835359.com
 0.0.0.0 8837375.com
+0.0.0.0 883ae888.com
 0.0.0.0 883f8bet.com
 0.0.0.0 884311.com
 0.0.0.0 88448163.com
@@ -5818,6 +5821,7 @@
 0.0.0.0 884846.com
 0.0.0.0 884853.com
 0.0.0.0 884896.com
+0.0.0.0 884ae888.com
 0.0.0.0 885348.com
 0.0.0.0 88558163.com
 0.0.0.0 885596.com
@@ -5837,6 +5841,7 @@
 0.0.0.0 8867375.com
 0.0.0.0 8868c5.com
 0.0.0.0 8868dk.com
+0.0.0.0 886ae888.com
 0.0.0.0 887148.com
 0.0.0.0 887149.com
 0.0.0.0 887155.xyz
@@ -5865,6 +5870,7 @@
 0.0.0.0 88778163.com
 0.0.0.0 88789vip.com
 0.0.0.0 8879888798.com
+0.0.0.0 887ae888.com
 0.0.0.0 887fun.com
 0.0.0.0 8881608.com
 0.0.0.0 8881999b.com
@@ -5904,6 +5910,7 @@
 0.0.0.0 8888vn77.com
 0.0.0.0 8888yo.com
 0.0.0.0 88890998keras.com
+0.0.0.0 888ae888.com
 0.0.0.0 888allsports.com
 0.0.0.0 888b.com
 0.0.0.0 888b.in
@@ -6759,10 +6766,12 @@
 0.0.0.0 ae88805.net
 0.0.0.0 ae88812.com
 0.0.0.0 ae88821.com
+0.0.0.0 ae88827.com
 0.0.0.0 ae88830.com
 0.0.0.0 ae88831.com
 0.0.0.0 ae88833.com
 0.0.0.0 ae88836.com
+0.0.0.0 ae88837.com
 0.0.0.0 ae88838.com
 0.0.0.0 ae88839.com
 0.0.0.0 ae88840.com
@@ -6770,7 +6779,13 @@
 0.0.0.0 ae88847.com
 0.0.0.0 ae88848.com
 0.0.0.0 ae88850.com
+0.0.0.0 ae88851.com
+0.0.0.0 ae88852.com
+0.0.0.0 ae88853.com
+0.0.0.0 ae88854.com
+0.0.0.0 ae88855.com
 0.0.0.0 ae88856.com
+0.0.0.0 ae88857.com
 0.0.0.0 ae88858.com
 0.0.0.0 ae88859.com
 0.0.0.0 ae888i.com
@@ -6957,11 +6972,26 @@
 0.0.0.0 api.7897890.vip
 0.0.0.0 api.78win01.com
 0.0.0.0 api.78win07.com
+0.0.0.0 api.881ae888.com
+0.0.0.0 api.882ae888.com
+0.0.0.0 api.883ae888.com
+0.0.0.0 api.884ae888.com
+0.0.0.0 api.886ae888.com
+0.0.0.0 api.887ae888.com
+0.0.0.0 api.888ae888.com
 0.0.0.0 api.88bet88bet.com
 0.0.0.0 api.88new.cc
 0.0.0.0 api.99vn.bet
 0.0.0.0 api.ae888.com
+0.0.0.0 api.ae88827.com
+0.0.0.0 api.ae88837.com
 0.0.0.0 api.ae88847.com
+0.0.0.0 api.ae88851.com
+0.0.0.0 api.ae88852.com
+0.0.0.0 api.ae88853.com
+0.0.0.0 api.ae88854.com
+0.0.0.0 api.ae88855.com
+0.0.0.0 api.ae88857.com
 0.0.0.0 api.ae88859.com
 0.0.0.0 api.betlv.com
 0.0.0.0 api.f8bet0.com
@@ -6987,6 +7017,7 @@
 0.0.0.0 api.oppa88888888.com
 0.0.0.0 api.red88.us
 0.0.0.0 api.red88.vin
+0.0.0.0 api.red88.vip
 0.0.0.0 api.shbet0.com
 0.0.0.0 api.shbet3.com
 0.0.0.0 api.sky88.fun
@@ -9181,11 +9212,13 @@
 0.0.0.0 d03641.com
 0.0.0.0 d1.debet.info
 0.0.0.0 d1.debet.top
+0.0.0.0 d1.debet.win
 0.0.0.0 d188xj.com
 0.0.0.0 d2.dabet.me
 0.0.0.0 d2421.com
 0.0.0.0 d3.dabet.me
 0.0.0.0 d3.debet.info
+0.0.0.0 d3.debet.win
 0.0.0.0 d41660.com
 0.0.0.0 d4j95.com
 0.0.0.0 d555000.com
@@ -9264,6 +9297,7 @@
 0.0.0.0 debet.com
 0.0.0.0 debet.info
 0.0.0.0 debet.top
+0.0.0.0 debet.win
 0.0.0.0 debet88.win
 0.0.0.0 delinian.xyz
 0.0.0.0 dellabet171.com
@@ -9718,6 +9752,7 @@
 0.0.0.0 fb88club.com
 0.0.0.0 fb88cup.com
 0.0.0.0 fb88en.com
+0.0.0.0 fb88fifa.com
 0.0.0.0 fb88gateway.com
 0.0.0.0 fb88go.com
 0.0.0.0 fb88hot.com
@@ -9728,6 +9763,7 @@
 0.0.0.0 fb88sports.com
 0.0.0.0 fb88to.com
 0.0.0.0 fb88up.com
+0.0.0.0 fb88v.com
 0.0.0.0 fb88viet.com
 0.0.0.0 fb88vip.com
 0.0.0.0 fb88vn.com
@@ -11516,6 +11552,7 @@
 0.0.0.0 img.mu9.club
 0.0.0.0 img.mu9.com
 0.0.0.0 img.red88.vin
+0.0.0.0 img.red88.vip
 0.0.0.0 imgservice.mibet.com
 0.0.0.0 imperifram.com
 0.0.0.0 imsports.v9bet55.com
@@ -12722,6 +12759,7 @@
 0.0.0.0 jza96.com
 0.0.0.0 jzd8888.com
 0.0.0.0 k03641.com
+0.0.0.0 k1.uk88.top
 0.0.0.0 k10022.com
 0.0.0.0 k10033.com
 0.0.0.0 k10055.com
@@ -12772,6 +12810,7 @@
 0.0.0.0 k179a.com
 0.0.0.0 k188casino.vip
 0.0.0.0 k188xj.com
+0.0.0.0 k2.uk88.top
 0.0.0.0 k27.app
 0.0.0.0 k29.app
 0.0.0.0 k29.club
@@ -17107,6 +17146,7 @@
 0.0.0.0 red88.uk
 0.0.0.0 red88.us
 0.0.0.0 red88.vin
+0.0.0.0 red88.vip
 0.0.0.0 redhorse678.com
 0.0.0.0 redirhelabet.com
 0.0.0.0 redlanegaming.com
@@ -17254,11 +17294,13 @@
 0.0.0.0 s03641.com
 0.0.0.0 s0kn5.com
 0.0.0.0 s1.sin88.biz
+0.0.0.0 s1.sin88.cc
 0.0.0.0 s1.sin88.club
 0.0.0.0 s11nb.vip
 0.0.0.0 s11niubi.vip
 0.0.0.0 s188xj.com
 0.0.0.0 s2.sin88.biz
+0.0.0.0 s2.sin88.cc
 0.0.0.0 s2.sin88.club
 0.0.0.0 s25859.com
 0.0.0.0 s4166.com
@@ -17500,6 +17542,7 @@
 0.0.0.0 simple2bet.com
 0.0.0.0 sin88.bet
 0.0.0.0 sin88.biz
+0.0.0.0 sin88.cc
 0.0.0.0 sin88.club
 0.0.0.0 sin88.mobi
 0.0.0.0 sin88.vip
@@ -17567,8 +17610,10 @@
 0.0.0.0 sock.red88.com
 0.0.0.0 sock.red88.us
 0.0.0.0 sock.red88.vin
+0.0.0.0 sock.red88.vip
 0.0.0.0 sock.sky88.fun
 0.0.0.0 sock.sky88.in
+0.0.0.0 socket.debet.win
 0.0.0.0 socvip.com
 0.0.0.0 socvip9.club
 0.0.0.0 sodo12.com
@@ -17788,6 +17833,7 @@
 0.0.0.0 sv1.sv88.vip
 0.0.0.0 sv1.sv88d.com
 0.0.0.0 sv1.sv88vn.com
+0.0.0.0 sv1.sv88vn.net
 0.0.0.0 sv128.co
 0.0.0.0 sv288.net
 0.0.0.0 sv368.com
@@ -17806,6 +17852,7 @@
 0.0.0.0 sv88.vip
 0.0.0.0 sv88.win
 0.0.0.0 sv88vn.com
+0.0.0.0 sv88vn.net
 0.0.0.0 svsv388.com
 0.0.0.0 svv288.com
 0.0.0.0 svv388.com
@@ -18394,6 +18441,7 @@
 0.0.0.0 uh23.com
 0.0.0.0 uhua-48789com-adi.com
 0.0.0.0 uk25g.com
+0.0.0.0 uk88.top
 0.0.0.0 ukjbn.com
 0.0.0.0 ultraexch.bet
 0.0.0.0 umfgg.com
@@ -19359,6 +19407,7 @@
 0.0.0.0 wp.mu9.win
 0.0.0.0 wp.red88.us
 0.0.0.0 wp.red88.vin
+0.0.0.0 wp.red88.vip
 0.0.0.0 wp.rikvip.tv
 0.0.0.0 wp.rikvipp.net
 0.0.0.0 wp.sky88.fun
@@ -19435,6 +19484,7 @@
 0.0.0.0 www.78win07.com
 0.0.0.0 www.79lucky.com
 0.0.0.0 www.885ae888.com
+0.0.0.0 www.887ae888.com
 0.0.0.0 www.888b.com
 0.0.0.0 www.889ae888.com
 0.0.0.0 www.88gobet.com
@@ -19469,10 +19519,18 @@
 0.0.0.0 www.ae788.bet
 0.0.0.0 www.ae888.com
 0.0.0.0 www.ae888.mobi
+0.0.0.0 www.ae88827.com
+0.0.0.0 www.ae88837.com
 0.0.0.0 www.ae88840.com
 0.0.0.0 www.ae88847.com
 0.0.0.0 www.ae88848.com
+0.0.0.0 www.ae88851.com
+0.0.0.0 www.ae88852.com
+0.0.0.0 www.ae88853.com
+0.0.0.0 www.ae88854.com
+0.0.0.0 www.ae88855.com
 0.0.0.0 www.ae88856.com
+0.0.0.0 www.ae88857.com
 0.0.0.0 www.ae88858.com
 0.0.0.0 www.ae88859.com
 0.0.0.0 www.ae888sports01.com
@@ -19567,11 +19625,13 @@
 0.0.0.0 www.fb88affok.com
 0.0.0.0 www.fb88club.com
 0.0.0.0 www.fb88cup.com
+0.0.0.0 www.fb88fifa.com
 0.0.0.0 www.fb88gateway.com
 0.0.0.0 www.fb88max.com
 0.0.0.0 www.fb88sg.com
 0.0.0.0 www.fb88sports.com
 0.0.0.0 www.fb88up.com
+0.0.0.0 www.fb88v.com
 0.0.0.0 www.fb88viet.com
 0.0.0.0 www.fb88you.com
 0.0.0.0 www.fb88zo.com

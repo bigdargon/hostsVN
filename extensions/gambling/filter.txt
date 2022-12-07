@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 06 Dec 2022 22:58 UTC+7
-! Version: 2212062258
-! Blocked: 20.648 rules
+! Last modified: 07 Dec 2022 22:09 UTC+7
+! Version: 2212072209
+! Blocked: 20.697 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5797,15 +5797,18 @@
 ||8815359.com^
 ||881646.com^
 ||8817375.com^
+||881ae888.com^
 ||882039.com^
 ||8825359.com^
 ||8827375.com^
 ||8829n.com^
+||882ae888.com^
 ||8830888.com^
 ||8830989.com^
 ||88338163.com^
 ||8835359.com^
 ||8837375.com^
+||883ae888.com^
 ||883f8bet.com^
 ||884311.com^
 ||88448163.com^
@@ -5819,6 +5822,7 @@
 ||884846.com^
 ||884853.com^
 ||884896.com^
+||884ae888.com^
 ||885348.com^
 ||88558163.com^
 ||885596.com^
@@ -5838,6 +5842,7 @@
 ||8867375.com^
 ||8868c5.com^
 ||8868dk.com^
+||886ae888.com^
 ||887148.com^
 ||887149.com^
 ||887155.xyz^
@@ -5866,6 +5871,7 @@
 ||88778163.com^
 ||88789vip.com^
 ||8879888798.com^
+||887ae888.com^
 ||887fun.com^
 ||8881608.com^
 ||8881999b.com^
@@ -5905,6 +5911,7 @@
 ||8888vn77.com^
 ||8888yo.com^
 ||88890998keras.com^
+||888ae888.com^
 ||888allsports.com^
 ||888b.com^
 ||888b.in^
@@ -6760,10 +6767,12 @@
 ||ae88805.net^
 ||ae88812.com^
 ||ae88821.com^
+||ae88827.com^
 ||ae88830.com^
 ||ae88831.com^
 ||ae88833.com^
 ||ae88836.com^
+||ae88837.com^
 ||ae88838.com^
 ||ae88839.com^
 ||ae88840.com^
@@ -6772,7 +6781,13 @@
 ||ae88847.com^
 ||ae88848.com^
 ||ae88850.com^
+||ae88851.com^
+||ae88852.com^
+||ae88853.com^
+||ae88854.com^
+||ae88855.com^
 ||ae88856.com^
+||ae88857.com^
 ||ae88858.com^
 ||ae88859.com^
 ||ae888i.com^
@@ -6961,11 +6976,26 @@
 ||api.7897890.vip^
 ||api.78win01.com^
 ||api.78win07.com^
+||api.881ae888.com^
+||api.882ae888.com^
+||api.883ae888.com^
+||api.884ae888.com^
+||api.886ae888.com^
+||api.887ae888.com^
+||api.888ae888.com^
 ||api.88bet88bet.com^
 ||api.88new.cc^
 ||api.99vn.bet^
 ||api.ae888.com^
+||api.ae88827.com^
+||api.ae88837.com^
 ||api.ae88847.com^
+||api.ae88851.com^
+||api.ae88852.com^
+||api.ae88853.com^
+||api.ae88854.com^
+||api.ae88855.com^
+||api.ae88857.com^
 ||api.ae88859.com^
 ||api.betlv.com^
 ||api.f8bet0.com^
@@ -6991,6 +7021,7 @@
 ||api.oppa88888888.com^
 ||api.red88.us^
 ||api.red88.vin^
+||api.red88.vip^
 ||api.shbet0.com^
 ||api.shbet3.com^
 ||api.sky88.fun^
@@ -9186,11 +9217,13 @@
 ||d03641.com^
 ||d1.debet.info^
 ||d1.debet.top^
+||d1.debet.win^
 ||d188xj.com^
 ||d2.dabet.me^
 ||d2421.com^
 ||d3.dabet.me^
 ||d3.debet.info^
+||d3.debet.win^
 ||d41660.com^
 ||d4j95.com^
 ||d555000.com^
@@ -9269,6 +9302,7 @@
 ||debet.com^
 ||debet.info^
 ||debet.top^
+||debet.win^
 ||debet88.win^
 ||delinian.xyz^
 ||dellabet171.com^
@@ -9723,6 +9757,7 @@
 ||fb88club.com^
 ||fb88cup.com^
 ||fb88en.com^
+||fb88fifa.com^
 ||fb88gateway.com^
 ||fb88go.com^
 ||fb88hot.com^
@@ -9733,6 +9768,7 @@
 ||fb88sports.com^
 ||fb88to.com^
 ||fb88up.com^
+||fb88v.com^
 ||fb88viet.com^
 ||fb88vip.com^
 ||fb88vn.com^
@@ -11525,6 +11561,7 @@
 ||img.mu9.club^
 ||img.mu9.com^
 ||img.red88.vin^
+||img.red88.vip^
 ||imgservice.mibet.com^
 ||imperifram.com^
 ||imsports.v9bet55.com^
@@ -12731,6 +12768,7 @@
 ||jza96.com^
 ||jzd8888.com^
 ||k03641.com^
+||k1.uk88.top^
 ||k10022.com^
 ||k10033.com^
 ||k10055.com^
@@ -12781,6 +12819,7 @@
 ||k179a.com^
 ||k188casino.vip^
 ||k188xj.com^
+||k2.uk88.top^
 ||k27.app^
 ||k29.app^
 ||k29.club^
@@ -17122,6 +17161,7 @@
 ||red88.uk^
 ||red88.us^
 ||red88.vin^
+||red88.vip^
 ||redhorse678.com^
 ||redirhelabet.com^
 ||redlanegaming.com^
@@ -17269,11 +17309,13 @@
 ||s03641.com^
 ||s0kn5.com^
 ||s1.sin88.biz^
+||s1.sin88.cc^
 ||s1.sin88.club^
 ||s11nb.vip^
 ||s11niubi.vip^
 ||s188xj.com^
 ||s2.sin88.biz^
+||s2.sin88.cc^
 ||s2.sin88.club^
 ||s25859.com^
 ||s4166.com^
@@ -17517,6 +17559,7 @@
 ||simple2bet.com^
 ||sin88.bet^
 ||sin88.biz^
+||sin88.cc^
 ||sin88.club^
 ||sin88.mobi^
 ||sin88.vip^
@@ -17584,8 +17627,10 @@
 ||sock.red88.com^
 ||sock.red88.us^
 ||sock.red88.vin^
+||sock.red88.vip^
 ||sock.sky88.fun^
 ||sock.sky88.in^
+||socket.debet.win^
 ||socvip.com^
 ||socvip9.club^
 ||sodo12.com^
@@ -17805,6 +17850,7 @@
 ||sv1.sv88.vip^
 ||sv1.sv88d.com^
 ||sv1.sv88vn.com^
+||sv1.sv88vn.net^
 ||sv128.co^
 ||sv288.net^
 ||sv368.com^
@@ -17823,6 +17869,7 @@
 ||sv88.vip^
 ||sv88.win^
 ||sv88vn.com^
+||sv88vn.net^
 ||svsv388.com^
 ||svv288.com^
 ||svv388.com^
@@ -18412,6 +18459,7 @@
 ||uh23.com^
 ||uhua-48789com-adi.com^
 ||uk25g.com^
+||uk88.top^
 ||ukjbn.com^
 ||ultraexch.bet^
 ||umfgg.com^
@@ -19381,6 +19429,7 @@
 ||wp.mu9.win^
 ||wp.red88.us^
 ||wp.red88.vin^
+||wp.red88.vip^
 ||wp.rikvip.tv^
 ||wp.rikvipp.net^
 ||wp.sky88.fun^
