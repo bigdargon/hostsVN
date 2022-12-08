@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 07 Dec 2022 22:09 UTC+7
-! Version: 2212072209
-! Blocked: 20.697 rules
+! Last modified: 08 Dec 2022 11:38 UTC+7
+! Version: 2212081138
+! Blocked: 20.700 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6800,6 +6800,8 @@
 ||aeapp02.live^
 ||aebet11.com^
 ||aecric.com^
+||aecricex.com^
+||aecricex.xyz^
 ||aef8bet.com^
 ||aemiennam.com^
 ||aerial294.com^
@@ -6997,6 +6999,7 @@
 ||api.ae88855.com^
 ||api.ae88857.com^
 ||api.ae88859.com^
+||api.aecricex.xyz^
 ||api.betlv.com^
 ||api.f8bet0.com^
 ||api.f8bet5.com^

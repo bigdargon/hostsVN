@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 07 Dec 2022 22:09 UTC+7
-# Version: 2212072209
-# Blocked: 21.178 domains
+# Last modified: 08 Dec 2022 11:38 UTC+7
+# Version: 2212081138
+# Blocked: 21.181 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6797,6 +6797,8 @@
 0.0.0.0 aeapp02.live
 0.0.0.0 aebet11.com
 0.0.0.0 aecric.com
+0.0.0.0 aecricex.com
+0.0.0.0 aecricex.xyz
 0.0.0.0 aef8bet.com
 0.0.0.0 aemiennam.com
 0.0.0.0 aerial294.com
@@ -6993,6 +6995,7 @@
 0.0.0.0 api.ae88855.com
 0.0.0.0 api.ae88857.com
 0.0.0.0 api.ae88859.com
+0.0.0.0 api.aecricex.xyz
 0.0.0.0 api.betlv.com
 0.0.0.0 api.f8bet0.com
 0.0.0.0 api.f8bet5.com
