@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Dec 2022 22:58 UTC+7
-! Version: 2212062258
-! Blocked: 797 rules
+! Last modified: 12 Dec 2022 22:42 UTC+7
+! Version: 2212122242
+! Blocked: 799 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -339,6 +339,7 @@
 ||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
 ||ads.568play.vn^
+||ads.6svn.com^
 ||ads.admatrix.vn^
 ||ads.alophim.org^
 ||ads.autonet.com.vn^
@@ -387,6 +388,7 @@
 ||ads.vovlive.vn^
 ||ads.xedoisong.vn^
 ||ads.xemphimso.com^
+||ads.xemtivisohd.net^
 ||ads1.careerbuilder.vn^
 ||ads8.fpt.vn^
 ||adserver.lag.vn^

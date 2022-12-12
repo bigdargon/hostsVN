@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Dec 2022 22:58 UTC+7
-# Version: 2212062258
-# Blocked: 17.023 domains
+# Last modified: 12 Dec 2022 22:42 UTC+7
+# Version: 2212122242
+# Blocked: 17.038 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10604,7 +10604,6 @@
 0.0.0.0 cdn61962044.ahacdn.me
 0.0.0.0 cdn62004373.ahacdn.me
 0.0.0.0 cdn65182383.ahacdn.me
-0.0.0.0 cdn70555962.ahacdn.me
 0.0.0.0 cdn72891311.ahacdn.me
 0.0.0.0 cdn78085165.ahacdn.me
 0.0.0.0 cdn81910013.ahacdn.me
@@ -10974,6 +10973,10 @@
 0.0.0.0 logs.hotstar.com
 0.0.0.0 settings-analytics.hotstar.com
 0.0.0.0 videoads.hotstar.com
+#[oddsserve.com]
+0.0.0.0 creative-cdn.oddsserve.com
+0.0.0.0 oddsserve.com
+0.0.0.0 v1.oddsserve.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12365,6 +12368,7 @@
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads.1thegioi.vn
 0.0.0.0 ads.568play.vn
+0.0.0.0 ads.6svn.com
 0.0.0.0 ads.admatrix.vn
 0.0.0.0 ads.alophim.org
 0.0.0.0 ads.autonet.com.vn
@@ -12413,6 +12417,7 @@
 0.0.0.0 ads.vovlive.vn
 0.0.0.0 ads.xedoisong.vn
 0.0.0.0 ads.xemphimso.com
+0.0.0.0 ads.xemtivisohd.net
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 ads8.fpt.vn
 0.0.0.0 adserver.lag.vn
@@ -13106,6 +13111,7 @@
 0.0.0.0 adfactor.nl
 0.0.0.0 adflight.com
 0.0.0.0 adfonic.net
+0.0.0.0 adforcast.com
 0.0.0.0 adforce.com
 0.0.0.0 adform.com
 0.0.0.0 adformdsp.net
@@ -13891,6 +13897,7 @@
 0.0.0.0 asgclick.com
 0.0.0.0 asgclickkl.com
 0.0.0.0 asgclickpop.com
+0.0.0.0 ashadofe.com
 0.0.0.0 ashcdn.com
 0.0.0.0 ashoupsu.com
 0.0.0.0 asiacpx.com
@@ -14641,6 +14648,7 @@
 0.0.0.0 daz3rw5a5k4h.com
 0.0.0.0 dbbsrv.com
 0.0.0.0 dc-storm.com
+0.0.0.0 dckifhpovvbpb.com
 0.0.0.0 de17a.com
 0.0.0.0 deadpantruck.com
 0.0.0.0 dealdotcom.com
@@ -15138,6 +15146,7 @@
 0.0.0.0 glugreez.com
 0.0.0.0 gmads.net
 0.0.0.0 gnenuelnn.com
+0.0.0.0 gnfoxcsgk.com
 0.0.0.0 gnqpystsiece.com
 0.0.0.0 gnurpfjolmompl.com
 0.0.0.0 go-clicks.de
@@ -17290,6 +17299,7 @@
 0.0.0.0 untidyquestion.com
 0.0.0.0 untimburra.com
 0.0.0.0 untruerbelili.com
+0.0.0.0 unugilpcyxoep.com
 0.0.0.0 unusualtitle.com
 0.0.0.0 unwrittenspot.com
 0.0.0.0 updated.com
@@ -17316,6 +17326,7 @@
 0.0.0.0 utils.mediageneral.net
 0.0.0.0 utimg.ru
 0.0.0.0 uttermosthobbies.com
+0.0.0.0 utubepwhml.com
 0.0.0.0 uwoaptee.com
 0.0.0.0 uyunad.com
 0.0.0.0 uyyksmmlipvcvj.com
@@ -17405,6 +17416,7 @@
 0.0.0.0 vouhecem.net
 0.0.0.0 vounaipu.net
 0.0.0.0 vpon.com
+0.0.0.0 vqhlhfjmvcvxw.com
 0.0.0.0 vrqsvrnjrhdmek.com
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
@@ -17837,6 +17849,8 @@
 0.0.0.0 analytics.scalemonk.com
 0.0.0.0 analytics.seg.ritual.com
 0.0.0.0 analytics.sejda.com
+0.0.0.0 analytics.shein.co.uk
+0.0.0.0 analytics.shein.com
 0.0.0.0 analytics.shift.agency
 0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.similarweb.com
@@ -18028,6 +18042,7 @@
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.shannon-fisher.xyz
 0.0.0.0 i.viafoura.co
+0.0.0.0 iabusprivacy.pmc.com
 0.0.0.0 iaudienc.com
 0.0.0.0 ibd-as-api.iq.com
 0.0.0.0 idio.co
@@ -18187,6 +18202,7 @@
 0.0.0.0 report.uc.heytapmobi.com
 0.0.0.0 reports.ubimo.com
 0.0.0.0 reveal.clearbit.com
+0.0.0.0 rfpx1.com
 0.0.0.0 richmetrics.com
 0.0.0.0 risk.clearbit.com
 0.0.0.0 rlog.9gag.com

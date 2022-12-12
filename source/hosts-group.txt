@@ -10592,7 +10592,6 @@
 0.0.0.0 cdn61962044.ahacdn.me
 0.0.0.0 cdn62004373.ahacdn.me
 0.0.0.0 cdn65182383.ahacdn.me
-0.0.0.0 cdn70555962.ahacdn.me
 0.0.0.0 cdn72891311.ahacdn.me
 0.0.0.0 cdn78085165.ahacdn.me
 0.0.0.0 cdn81910013.ahacdn.me
@@ -10962,3 +10961,7 @@
 0.0.0.0 logs.hotstar.com
 0.0.0.0 settings-analytics.hotstar.com
 0.0.0.0 videoads.hotstar.com
+#[oddsserve.com]
+0.0.0.0 creative-cdn.oddsserve.com
+0.0.0.0 oddsserve.com
+0.0.0.0 v1.oddsserve.com

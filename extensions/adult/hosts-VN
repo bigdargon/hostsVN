@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 08 Dec 2022 11:38 UTC+7
-# Version: 2212081138
-# Blocked: 2.466 domains
+# Last modified: 12 Dec 2022 22:41 UTC+7
+# Version: 2212122241
+# Blocked: 2.490 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -41,6 +41,7 @@
 0.0.0.0 6666.net
 0.0.0.0 6789live.com
 0.0.0.0 7776666.net
+0.0.0.0 820mm.live
 0.0.0.0 825mm.live
 0.0.0.0 8886666.net
 0.0.0.0 9996666.net
@@ -106,7 +107,9 @@
 0.0.0.0 catewalk.com
 0.0.0.0 caysex.net
 0.0.0.0 cd-taxi.com
+0.0.0.0 cdn.hentaicb.xyz
 0.0.0.0 cdn.khosex.me
+0.0.0.0 cdn2.seaporn.net
 0.0.0.0 changtrai.net
 0.0.0.0 chanheo.com
 0.0.0.0 chanrau.cc
@@ -448,6 +451,8 @@
 0.0.0.0 hentai789.cc
 0.0.0.0 hentai88.vip
 0.0.0.0 hentaiaz.net
+0.0.0.0 hentaicb.top
+0.0.0.0 hentaicb.xyz
 0.0.0.0 hentaimanhwa.net
 0.0.0.0 hentaipro.tv
 0.0.0.0 hentaivip.biz
@@ -456,9 +461,13 @@
 0.0.0.0 hentaivlz.com
 0.0.0.0 hentaivn.cc
 0.0.0.0 hentaivn.com
+0.0.0.0 hentaivn.fun
+0.0.0.0 hentaivn.info
 0.0.0.0 hentaivn.la
+0.0.0.0 hentaivn.life
 0.0.0.0 hentaivn.moe
 0.0.0.0 hentaivn.online
+0.0.0.0 hentaivn.tv
 0.0.0.0 hentaivnvip.com
 0.0.0.0 hentaivvz.com
 0.0.0.0 hentaiz.cc
@@ -511,6 +520,8 @@
 0.0.0.0 hlxx.pro
 0.0.0.0 hoidam.vip
 0.0.0.0 hongbiencang.com
+0.0.0.0 htvncdn.net
+0.0.0.0 i3.hentaivn.tv
 0.0.0.0 icehdv.com
 0.0.0.0 img.heozz.net
 0.0.0.0 img.phimkk.vip
@@ -586,6 +597,7 @@
 0.0.0.0 javnhatban.pro
 0.0.0.0 javnoi.xyz
 0.0.0.0 javnong.cc
+0.0.0.0 javnong.xyz
 0.0.0.0 javphe.cc
 0.0.0.0 javphim.cam
 0.0.0.0 javphim.co
@@ -1396,8 +1408,10 @@
 0.0.0.0 reviewxx.net
 0.0.0.0 ribaysteak.ru
 0.0.0.0 rphang.online
+0.0.0.0 rphangcdn.com
 0.0.0.0 rphangs.net
 0.0.0.0 rphangx.com
+0.0.0.0 rphangx.net
 0.0.0.0 s.vnchich.net
 0.0.0.0 s3xua.com
 0.0.0.0 s3xvn.com
@@ -1405,6 +1419,7 @@
 0.0.0.0 sacduc.one
 0.0.0.0 sayhentai.vip
 0.0.0.0 scorchin.com
+0.0.0.0 seaporn.net
 0.0.0.0 sec-nhat.com
 0.0.0.0 sechay.net
 0.0.0.0 secphim.com
@@ -1819,12 +1834,14 @@
 0.0.0.0 sphimsex.xyz
 0.0.0.0 ssieukhung.com
 0.0.0.0 st-sy.com
+0.0.0.0 static.htvncdn.net
 0.0.0.0 subjav.live
 0.0.0.0 subjav.one
 0.0.0.0 subjav.org
 0.0.0.0 subjavhd.net
 0.0.0.0 subjavz.com
 0.0.0.0 swebcam.cam
+0.0.0.0 t.htvncdn.net
 0.0.0.0 taianhsex.com
 0.0.0.0 taiapplive.com
 0.0.0.0 taiappliveshow.blogspot.com
@@ -1947,6 +1964,7 @@
 0.0.0.0 truyensex18.com
 0.0.0.0 truyensex88.info
 0.0.0.0 truyensexhay.info
+0.0.0.0 truyensextv.com
 0.0.0.0 truyensexvip.com
 0.0.0.0 truyentranhgay.com
 0.0.0.0 truyentructuyen.com
@@ -1972,6 +1990,7 @@
 0.0.0.0 tuoi69.one
 0.0.0.0 tuoi69.online
 0.0.0.0 tuoi69.site
+0.0.0.0 tuoi69.today
 0.0.0.0 tuoi69.vc
 0.0.0.0 tuoi69.video
 0.0.0.0 tuoi69.website
@@ -1979,6 +1998,7 @@
 0.0.0.0 tuoi69zz.com
 0.0.0.0 tuoilon.pro
 0.0.0.0 tuoilontv.cc
+0.0.0.0 tuoinung.co
 0.0.0.0 tuoinung.com
 0.0.0.0 tuoinung69.com
 0.0.0.0 tuoiti.one
@@ -1986,6 +2006,7 @@
 0.0.0.0 tut4k.net
 0.0.0.0 txxx.pics
 0.0.0.0 tzqctz.com
+0.0.0.0 up2.hentaivn.tv
 0.0.0.0 vavporn.com
 0.0.0.0 vetmang.org
 0.0.0.0 vetmang.xyz
@@ -1999,6 +2020,7 @@
 0.0.0.0 viet69.cc
 0.0.0.0 viet69.co
 0.0.0.0 viet69.com
+0.0.0.0 viet69.day
 0.0.0.0 viet69.de
 0.0.0.0 viet69.dev
 0.0.0.0 viet69.fun
@@ -2077,6 +2099,8 @@
 0.0.0.0 vlxx.fun
 0.0.0.0 vlxx.gay
 0.0.0.0 vlxx.icu
+0.0.0.0 vlxx.info
+0.0.0.0 vlxx.io
 0.0.0.0 vlxx.live
 0.0.0.0 vlxx.me
 0.0.0.0 vlxx.media

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Dec 2022 22:58 UTC+7
-! Version: 2212062258
-! Blocked: 7.990 rules
+! Last modified: 12 Dec 2022 22:42 UTC+7
+! Version: 2212122242
+! Blocked: 8.003 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -339,6 +339,7 @@
 ||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
 ||ads.568play.vn^
+||ads.6svn.com^
 ||ads.admatrix.vn^
 ||ads.alophim.org^
 ||ads.autonet.com.vn^
@@ -387,6 +388,7 @@
 ||ads.vovlive.vn^
 ||ads.xedoisong.vn^
 ||ads.xemphimso.com^
+||ads.xemtivisohd.net^
 ||ads1.careerbuilder.vn^
 ||ads8.fpt.vn^
 ||adserver.lag.vn^
@@ -1379,7 +1381,6 @@
 ||cdn61962044.ahacdn.me^
 ||cdn62004373.ahacdn.me^
 ||cdn65182383.ahacdn.me^
-||cdn70555962.ahacdn.me^
 ||cdn72891311.ahacdn.me^
 ||cdn78085165.ahacdn.me^
 ||cdn81910013.ahacdn.me^
@@ -1987,6 +1988,7 @@
 ||nxtck.com^
 ||o-s.io^
 ||o333o.com^
+||oddsserve.com^
 ||om.cbsi.com^
 ||omappapi.com^
 ||omguk.com^
@@ -2818,6 +2820,7 @@
 ||adfactor.nl^
 ||adflight.com^
 ||adfonic.net^
+||adforcast.com^
 ||adforce.com^
 ||adform.com^
 ||adformdsp.net^
@@ -3574,6 +3577,8 @@
 ||analytics.scalemonk.com^
 ||analytics.seg.ritual.com^
 ||analytics.sejda.com^
+||analytics.shein.co.uk^
+||analytics.shein.com^
 ||analytics.shift.agency^
 ||analytics.siliconexpert.com^
 ||analytics.similarweb.com^
@@ -3688,6 +3693,7 @@
 ||asgclick.com^
 ||asgclickkl.com^
 ||asgclickpop.com^
+||ashadofe.com^
 ||ashcdn.com^
 ||ashoupsu.com^
 ||asiacpx.com^
@@ -4528,6 +4534,7 @@
 ||dbbsrv.com^
 ||dc-storm.com^
 ||dc8xl0ndzn2cb.cloudfront.net^
+||dckifhpovvbpb.com^
 ||ddla593ymz72o.cloudfront.net^
 ||de17a.com^
 ||deadpantruck.com^
@@ -5076,6 +5083,7 @@
 ||gmads.net^
 ||gnar.grammarly.com^
 ||gnenuelnn.com^
+||gnfoxcsgk.com^
 ||gnqpystsiece.com^
 ||gnurpfjolmompl.com^
 ||go-clicks.de^
@@ -5287,6 +5295,7 @@
 ||ia.iinfo.cz^
 ||iab.net^
 ||iabtechlab.com^
+||iabusprivacy.pmc.com^
 ||iad.anm.co.uk^
 ||iadnet.com^
 ||iam9p3eri3as5lc6hllege.com^
@@ -6705,6 +6714,7 @@
 ||revmob.com^
 ||revoketypes.com^
 ||revstats.com^
+||rfpx1.com^
 ||rhkyufodw8ochdr3ogsite.com^
 ||rhythmnewmedia.com^
 ||rhythmone.com^
@@ -7589,6 +7599,7 @@
 ||untidyquestion.com^
 ||untimburra.com^
 ||untruerbelili.com^
+||unugilpcyxoep.com^
 ||unusualtitle.com^
 ||unwrittenspot.com^
 ||upapi.net^
@@ -7622,6 +7633,7 @@
 ||utils.mediageneral.net^
 ||utimg.ru^
 ||uttermosthobbies.com^
+||utubepwhml.com^
 ||uwoaptee.com^
 ||uyunad.com^
 ||uyyksmmlipvcvj.com^
@@ -7720,6 +7732,7 @@
 ||vouhecem.net^
 ||vounaipu.net^
 ||vpon.com^
+||vqhlhfjmvcvxw.com^
 ||vrqsvrnjrhdmek.com^
 ||vrs.cz^
 ||vs.tucows.com^
