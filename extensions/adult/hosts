@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 12 Dec 2022 22:41 UTC+7
-# Version: 2212122241
-# Blocked: 12.812 domains
+# Last modified: 13 Dec 2022 09:11 UTC+7
+# Version: 2212130911
+# Blocked: 12.815 domains
 # Only include adult domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1665,6 +1665,7 @@
 0.0.0.0 cdn.hentaicb.xyz
 0.0.0.0 cdn.javbabe.net
 0.0.0.0 cdn.khosex.me
+0.0.0.0 cdn.manhwa24hs.com
 0.0.0.0 cdn.roshy.tv
 0.0.0.0 cdn.seexxx.top
 0.0.0.0 cdn.stplhqheovl004.xyz
@@ -9495,6 +9496,8 @@
 0.0.0.0 starter008.com
 0.0.0.0 static-l3.xvideos-cdn.com
 0.0.0.0 static.htvncdn.net
+0.0.0.0 static.manhwa24h.com
+0.0.0.0 static.manhwa24hs.com
 0.0.0.0 static.nhentai.net
 0.0.0.0 staywithme.mom
 0.0.0.0 stdhjc.net

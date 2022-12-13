@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 12 Dec 2022 22:41 UTC+7
-! Version: 2212122241
-! Blocked: 2.480 rules
+! Last modified: 13 Dec 2022 09:11 UTC+7
+! Version: 2212130911
+! Blocked: 2.483 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -105,6 +105,7 @@
 ||cd-taxi.com^
 ||cdn.hentaicb.xyz^
 ||cdn.khosex.me^
+||cdn.manhwa24hs.com^
 ||cdn2.seaporn.net^
 ||changtrai.net^
 ||chanheo.com^
@@ -1831,6 +1832,8 @@
 ||ssieukhung.com^
 ||st-sy.com^
 ||static.htvncdn.net^
+||static.manhwa24h.com^
+||static.manhwa24hs.com^
 ||subjav.live^
 ||subjav.one^
 ||subjav.org^
