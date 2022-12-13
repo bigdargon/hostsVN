@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 13 Dec 2022 11:59 UTC+7
-! Version: 2212131159
-! Blocked: 21.007 rules
+! Last modified: 13 Dec 2022 14:33 UTC+7
+! Version: 2212131433
+! Blocked: 21.009 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -7125,6 +7125,7 @@
 ||app19789-20220413into.com^
 ||app2234.com^
 ||app5596.com^
+||app611.net^
 ||app6h.net^
 ||appbk8.com^
 ||appcmd368.com^
@@ -18569,6 +18570,7 @@
 ||twbet88.com^
 ||twin188.co^
 ||twingaminggear.com^
+||tx.app611.net^
 ||tx.king96.net^
 ||tx.socvip.com^
 ||tx.socvip9.club^

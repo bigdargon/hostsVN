@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 13 Dec 2022 11:59 UTC+7
-! Version: 2212131159
-! Blocked: 3.847 rules
+! Last modified: 13 Dec 2022 14:33 UTC+7
+! Version: 2212131433
+! Blocked: 3.849 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -479,6 +479,7 @@
 ||app.betlv.com^
 ||app.vx88.com^
 ||app.wellviet.net^
+||app611.net^
 ||appbk8.com^
 ||asiatop88.com^
 ||asiavwin.com^
@@ -3546,6 +3547,7 @@
 ||tt128.net^
 ||tt128viet.com^
 ||twin188.co^
+||tx.app611.net^
 ||tx.king96.net^
 ||tx.socvip.com^
 ||tx.socvip9.club^

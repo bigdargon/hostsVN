@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 Dec 2022 11:59 UTC+7
-# Version: 2212131159
-# Blocked: 4.298 domains
+# Last modified: 13 Dec 2022 14:33 UTC+7
+# Version: 2212131433
+# Blocked: 4.300 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -476,6 +476,7 @@
 0.0.0.0 app.betlv.com
 0.0.0.0 app.vx88.com
 0.0.0.0 app.wellviet.net
+0.0.0.0 app611.net
 0.0.0.0 appbk8.com
 0.0.0.0 asiatop88.com
 0.0.0.0 asiavwin.com
@@ -3531,6 +3532,7 @@
 0.0.0.0 tt128.net
 0.0.0.0 tt128viet.com
 0.0.0.0 twin188.co
+0.0.0.0 tx.app611.net
 0.0.0.0 tx.king96.net
 0.0.0.0 tx.socvip.com
 0.0.0.0 tx.socvip9.club
