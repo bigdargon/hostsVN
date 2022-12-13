@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 Dec 2022 09:11 UTC+7
-# Version: 2212130911
-# Blocked: 4.276 domains
+# Last modified: 13 Dec 2022 11:59 UTC+7
+# Version: 2212131159
+# Blocked: 4.298 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -65,6 +65,7 @@
 0.0.0.0 123b.com
 0.0.0.0 123b.org
 0.0.0.0 123b03.com
+0.0.0.0 123b06.com
 0.0.0.0 123b333.com
 0.0.0.0 123b88.com
 0.0.0.0 128coffee.com
@@ -110,6 +111,7 @@
 0.0.0.0 33betad.com
 0.0.0.0 33betc.com
 0.0.0.0 33betf.com
+0.0.0.0 33betx.com
 0.0.0.0 33win7.com
 0.0.0.0 3650022.com
 0.0.0.0 3676b.com
@@ -257,6 +259,7 @@
 0.0.0.0 8live.vip
 0.0.0.0 8livevn.com
 0.0.0.0 8x055.com
+0.0.0.0 8xbet.cc
 0.0.0.0 8xbet.com
 0.0.0.0 8xbet.fun
 0.0.0.0 8xbet.games
@@ -474,6 +477,7 @@
 0.0.0.0 app.vx88.com
 0.0.0.0 app.wellviet.net
 0.0.0.0 appbk8.com
+0.0.0.0 asiatop88.com
 0.0.0.0 asiavwin.com
 0.0.0.0 aw8vn.com
 0.0.0.0 aw8vn2.com
@@ -487,6 +491,7 @@
 0.0.0.0 b89.bet
 0.0.0.0 banca-red88.top
 0.0.0.0 banca.red88.us
+0.0.0.0 bancalucky88.com
 0.0.0.0 bayvip.tv
 0.0.0.0 bcb80.com
 0.0.0.0 beb77.com
@@ -565,6 +570,7 @@
 0.0.0.0 casino86.club
 0.0.0.0 casino888vn.com
 0.0.0.0 casinoae888.com
+0.0.0.0 casinomcw.com
 0.0.0.0 cdn.kingbet86.info
 0.0.0.0 cdn.vwin010.com
 0.0.0.0 cf68.shop
@@ -679,6 +685,7 @@
 0.0.0.0 ee88-viet.227290wss.com
 0.0.0.0 ee88.club
 0.0.0.0 ee88.com
+0.0.0.0 ee8803.com
 0.0.0.0 efg5e.com
 0.0.0.0 ek8802.com
 0.0.0.0 ek882.com
@@ -922,6 +929,7 @@
 0.0.0.0 i9bet28.com
 0.0.0.0 i9bet29.com
 0.0.0.0 i9bet3.com
+0.0.0.0 i9bet30.com
 0.0.0.0 i9bet31.com
 0.0.0.0 i9bet333.com
 0.0.0.0 i9bet4.com
@@ -2886,6 +2894,7 @@
 0.0.0.0 lt992.com
 0.0.0.0 lt997.com
 0.0.0.0 luck8881.com
+0.0.0.0 luck8882.com
 0.0.0.0 lucky696.com
 0.0.0.0 lucky88.bet
 0.0.0.0 lucky88.casino
@@ -3028,6 +3037,7 @@
 0.0.0.0 mbx88.com
 0.0.0.0 mc.bong99.com
 0.0.0.0 mc876.com
+0.0.0.0 mcw77.com
 0.0.0.0 me88vietnam.com
 0.0.0.0 me88vn1.com
 0.0.0.0 media.happynb.com
@@ -3059,6 +3069,7 @@
 0.0.0.0 ms88ca.com
 0.0.0.0 msmeb.com
 0.0.0.0 mu88a.com
+0.0.0.0 mu88ads.com
 0.0.0.0 mu88daily.com
 0.0.0.0 mu9.club
 0.0.0.0 mu9.com
@@ -3068,6 +3079,8 @@
 0.0.0.0 mu90.com
 0.0.0.0 mu92.com
 0.0.0.0 mu922.com
+0.0.0.0 mu929.com
+0.0.0.0 mvb88.com
 0.0.0.0 my188bet.com
 0.0.0.0 myk8.live
 0.0.0.0 naapptbwf.com
@@ -3109,11 +3122,13 @@
 0.0.0.0 nt7cd.com
 0.0.0.0 oi8jg.com
 0.0.0.0 ojr6n.com
+0.0.0.0 okcado.com
 0.0.0.0 ole12.com
 0.0.0.0 ole777vietnam.com
 0.0.0.0 oleviet777.com
 0.0.0.0 olympic24.com
 0.0.0.0 onbet111.com
+0.0.0.0 onbet2.com
 0.0.0.0 onbet7.com
 0.0.0.0 one88.club
 0.0.0.0 one88.com
@@ -3405,6 +3420,7 @@
 0.0.0.0 t0gvf.com
 0.0.0.0 t1.ta88.com
 0.0.0.0 t2.ta88.com
+0.0.0.0 t68bet.org
 0.0.0.0 t8bet999.com
 0.0.0.0 t8betvip.com
 0.0.0.0 ta88.com
@@ -3549,6 +3565,7 @@
 0.0.0.0 vaorikvip.net
 0.0.0.0 vb211.com
 0.0.0.0 vebo.bet
+0.0.0.0 vegas79.casino
 0.0.0.0 vf003.xyz
 0.0.0.0 vfun88.com
 0.0.0.0 vg66.app
@@ -3644,6 +3661,7 @@
 0.0.0.0 vuaclub1008.club
 0.0.0.0 vui.fun
 0.0.0.0 vuicungk8.com
+0.0.0.0 vw109.com
 0.0.0.0 vw115.com
 0.0.0.0 vw2.co
 0.0.0.0 vw210.com
@@ -3776,6 +3794,7 @@
 0.0.0.0 www.33beta.com
 0.0.0.0 www.33betad.com
 0.0.0.0 www.33betf.com
+0.0.0.0 www.33betx.com
 0.0.0.0 www.3650011.com
 0.0.0.0 www.3650022.com
 0.0.0.0 www.3676b.com
@@ -3851,6 +3870,7 @@
 0.0.0.0 www.aewin88.com
 0.0.0.0 www.agbet.co
 0.0.0.0 www.appbk8.com
+0.0.0.0 www.asiatop88.com
 0.0.0.0 www.aw8vn.com
 0.0.0.0 www.aw8vn2.com
 0.0.0.0 www.aw8vn3.com
@@ -4052,8 +4072,10 @@
 0.0.0.0 www.ms3388.com
 0.0.0.0 www.ms88asia.com
 0.0.0.0 www.ms88ca.com
+0.0.0.0 www.mu88ads.com
 0.0.0.0 www.mu9.com
 0.0.0.0 www.mu90.com
+0.0.0.0 www.mvb88.com
 0.0.0.0 www.nbet.com
 0.0.0.0 www.nemo.vin
 0.0.0.0 www.nhanthuong88.com

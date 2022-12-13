@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 13 Dec 2022 09:11 UTC+7
-! Version: 2212130911
-! Blocked: 3.829 rules
+! Last modified: 13 Dec 2022 11:59 UTC+7
+! Version: 2212131159
+! Blocked: 3.847 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -62,6 +62,7 @@
 ||123b.com^
 ||123b.org^
 ||123b03.com^
+||123b06.com^
 ||123b333.com^
 ||123b88.com^
 ||128coffee.com^
@@ -107,6 +108,7 @@
 ||33betad.com^
 ||33betc.com^
 ||33betf.com^
+||33betx.com^
 ||33win7.com^
 ||3650011.com^
 ||3650022.com^
@@ -257,6 +259,7 @@
 ||8live.vip^
 ||8livevn.com^
 ||8x055.com^
+||8xbet.cc^
 ||8xbet.com^
 ||8xbet.fun^
 ||8xbet.games^
@@ -477,6 +480,7 @@
 ||app.vx88.com^
 ||app.wellviet.net^
 ||appbk8.com^
+||asiatop88.com^
 ||asiavwin.com^
 ||aw8vn.com^
 ||aw8vn2.com^
@@ -490,6 +494,7 @@
 ||b89.bet^
 ||banca-red88.top^
 ||banca.red88.us^
+||bancalucky88.com^
 ||bayvip.tv^
 ||bcb80.com^
 ||beb77.com^
@@ -569,6 +574,7 @@
 ||casino86.club^
 ||casino888vn.com^
 ||casinoae888.com^
+||casinomcw.com^
 ||cdn.kingbet86.info^
 ||cdn.vwin010.com^
 ||cf68.shop^
@@ -683,6 +689,7 @@
 ||ee88-viet.227290wss.com^
 ||ee88.club^
 ||ee88.com^
+||ee8803.com^
 ||efg5e.com^
 ||ek8802.com^
 ||ek882.com^
@@ -931,6 +938,7 @@
 ||i9bet28.com^
 ||i9bet29.com^
 ||i9bet3.com^
+||i9bet30.com^
 ||i9bet31.com^
 ||i9bet333.com^
 ||i9bet4.com^
@@ -2896,6 +2904,7 @@
 ||lt992.com^
 ||lt997.com^
 ||luck8881.com^
+||luck8882.com^
 ||lucky696.com^
 ||lucky88.bet^
 ||lucky88.casino^
@@ -3038,6 +3047,7 @@
 ||mbx88.com^
 ||mc.bong99.com^
 ||mc876.com^
+||mcw77.com^
 ||me88vietnam.com^
 ||me88vn1.com^
 ||media.happynb.com^
@@ -3069,6 +3079,7 @@
 ||ms88ca.com^
 ||msmeb.com^
 ||mu88a.com^
+||mu88ads.com^
 ||mu88daily.com^
 ||mu9.club^
 ||mu9.com^
@@ -3078,6 +3089,8 @@
 ||mu90.com^
 ||mu92.com^
 ||mu922.com^
+||mu929.com^
+||mvb88.com^
 ||my188bet.com^
 ||myk8.live^
 ||naapptbwf.com^
@@ -3120,11 +3133,13 @@
 ||nt7cd.com^
 ||oi8jg.com^
 ||ojr6n.com^
+||okcado.com^
 ||ole12.com^
 ||ole777vietnam.com^
 ||oleviet777.com^
 ||olympic24.com^
 ||onbet111.com^
+||onbet2.com^
 ||onbet7.com^
 ||one88.club^
 ||one88.com^
@@ -3420,6 +3435,7 @@
 ||t0gvf.com^
 ||t1.ta88.com^
 ||t2.ta88.com^
+||t68bet.org^
 ||t8bet999.com^
 ||t8betvip.com^
 ||ta88.com^
@@ -3565,6 +3581,7 @@
 ||vaorikvip.net^
 ||vb211.com^
 ||vebo.bet^
+||vegas79.casino^
 ||vf003.xyz^
 ||vfun88.com^
 ||vg66.app^
@@ -3663,6 +3680,7 @@
 ||vuaclub1008.club^
 ||vui.fun^
 ||vuicungk8.com^
+||vw109.com^
 ||vw115.com^
 ||vw2.co^
 ||vw210.com^

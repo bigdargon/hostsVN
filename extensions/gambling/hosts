@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 Dec 2022 09:11 UTC+7
-# Version: 2212130911
-# Blocked: 21.509 domains
+# Last modified: 13 Dec 2022 11:59 UTC+7
+# Version: 2212131159
+# Blocked: 21.533 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -733,6 +733,7 @@
 0.0.0.0 123b.org
 0.0.0.0 123b02.com
 0.0.0.0 123b03.com
+0.0.0.0 123b06.com
 0.0.0.0 123b111.com
 0.0.0.0 123b333.com
 0.0.0.0 123b88.com
@@ -2251,6 +2252,7 @@
 0.0.0.0 33betad.com
 0.0.0.0 33betc.com
 0.0.0.0 33betf.com
+0.0.0.0 33betx.com
 0.0.0.0 33casino.biz
 0.0.0.0 33casino.center
 0.0.0.0 33casino.club
@@ -6225,6 +6227,7 @@
 0.0.0.0 8x073.com
 0.0.0.0 8x074.com
 0.0.0.0 8xbet.app
+0.0.0.0 8xbet.cc
 0.0.0.0 8xbet.com
 0.0.0.0 8xbet.fun
 0.0.0.0 8xbet.games
@@ -7142,6 +7145,7 @@
 0.0.0.0 asiabw.com
 0.0.0.0 asiano1gamingsite.com
 0.0.0.0 asiashop888.com
+0.0.0.0 asiatop88.com
 0.0.0.0 asiavwin.com
 0.0.0.0 asportsag.bet
 0.0.0.0 astekbet-607951.top
@@ -7324,6 +7328,7 @@
 0.0.0.0 ban88e.com
 0.0.0.0 banca-red88.top
 0.0.0.0 banca.red88.us
+0.0.0.0 bancalucky88.com
 0.0.0.0 bandittrackernortheast.com
 0.0.0.0 banh2020.club
 0.0.0.0 banh8899.com
@@ -9008,6 +9013,7 @@
 0.0.0.0 casinogamerelease.com
 0.0.0.0 casinoitalia.com
 0.0.0.0 casinomax.com
+0.0.0.0 casinomcw.com
 0.0.0.0 casinomiravallepalace.com
 0.0.0.0 casinonic.com
 0.0.0.0 casinoone.info
@@ -9168,6 +9174,7 @@
 0.0.0.0 cmd368no1.com
 0.0.0.0 cmd368t.com
 0.0.0.0 cmd368thclub.com
+0.0.0.0 cmd368worldcup.com
 0.0.0.0 cmd368y.com
 0.0.0.0 cmdwang368.com
 0.0.0.0 cmnx8ux.click
@@ -9586,6 +9593,7 @@
 0.0.0.0 ee88-viet.227290wss.com
 0.0.0.0 ee88.club
 0.0.0.0 ee88.com
+0.0.0.0 ee8803.com
 0.0.0.0 ee9416.com
 0.0.0.0 eee9416.com
 0.0.0.0 efg5e.com
@@ -11556,6 +11564,7 @@
 0.0.0.0 i9bet28.com
 0.0.0.0 i9bet29.com
 0.0.0.0 i9bet3.com
+0.0.0.0 i9bet30.com
 0.0.0.0 i9bet31.com
 0.0.0.0 i9bet333.com
 0.0.0.0 i9bet4.com
@@ -15306,6 +15315,7 @@
 0.0.0.0 ltthailand.xyz
 0.0.0.0 lttyuming.com
 0.0.0.0 luck8881.com
+0.0.0.0 luck8882.com
 0.0.0.0 luckbox.com
 0.0.0.0 lucky105.com
 0.0.0.0 lucky2222.com
@@ -15638,6 +15648,7 @@
 0.0.0.0 mc876.com
 0.0.0.0 mcj100.com
 0.0.0.0 mcj432.com
+0.0.0.0 mcw77.com
 0.0.0.0 mcwexchange.com
 0.0.0.0 mdbw0018.com
 0.0.0.0 mdh54.asia
@@ -16351,6 +16362,7 @@
 0.0.0.0 mu88.ph
 0.0.0.0 mu88.ws
 0.0.0.0 mu88a.com
+0.0.0.0 mu88ads.com
 0.0.0.0 mu88daily.com
 0.0.0.0 mu9.club
 0.0.0.0 mu9.com
@@ -16360,6 +16372,7 @@
 0.0.0.0 mu90.com
 0.0.0.0 mu92.com
 0.0.0.0 mu922.com
+0.0.0.0 mu929.com
 0.0.0.0 mudah54.agency
 0.0.0.0 mudah54.app
 0.0.0.0 mudah54.art
@@ -16386,6 +16399,7 @@
 0.0.0.0 mudahgamelog.xyz
 0.0.0.0 mummysgold.com
 0.0.0.0 munmun88.com
+0.0.0.0 mvb88.com
 0.0.0.0 mvm88.com
 0.0.0.0 mvphangout.com
 0.0.0.0 mwbgaming.com
@@ -16699,6 +16713,7 @@
 0.0.0.0 ok288801.com
 0.0.0.0 ok2899.com
 0.0.0.0 okada1.com
+0.0.0.0 okcado.com
 0.0.0.0 oke-bets.com
 0.0.0.0 oker1898.com
 0.0.0.0 oldsix01.com
@@ -18069,6 +18084,7 @@
 0.0.0.0 t655.me
 0.0.0.0 t66666666688.com
 0.0.0.0 t68bet.com
+0.0.0.0 t68bet.org
 0.0.0.0 t6vfu.com
 0.0.0.0 t81866.com
 0.0.0.0 t83455.com
@@ -18762,6 +18778,7 @@
 0.0.0.0 vega79.com
 0.0.0.0 vegas11.biz
 0.0.0.0 vegas11.live
+0.0.0.0 vegas79.casino
 0.0.0.0 vegas7games.com
 0.0.0.0 vegasplaypen.com
 0.0.0.0 vegassb.net
@@ -19248,6 +19265,7 @@
 0.0.0.0 vw015.com
 0.0.0.0 vw017.com
 0.0.0.0 vw019.com
+0.0.0.0 vw109.com
 0.0.0.0 vw115.com
 0.0.0.0 vw1228.com
 0.0.0.0 vw2.co
@@ -19726,6 +19744,7 @@
 0.0.0.0 www.33beta.com
 0.0.0.0 www.33betad.com
 0.0.0.0 www.33betf.com
+0.0.0.0 www.33betx.com
 0.0.0.0 www.3650011.com
 0.0.0.0 www.3650022.com
 0.0.0.0 www.3676b.com
@@ -19804,6 +19823,7 @@
 0.0.0.0 www.agbet.co
 0.0.0.0 www.appbk8.com
 0.0.0.0 www.asiabet.org
+0.0.0.0 www.asiatop88.com
 0.0.0.0 www.aw8vn.com
 0.0.0.0 www.aw8vn2.com
 0.0.0.0 www.aw8vn3.com
@@ -19845,6 +19865,7 @@
 0.0.0.0 www.chat789bet.com
 0.0.0.0 www.cmd368fifa.com
 0.0.0.0 www.cmd368t.com
+0.0.0.0 www.cmd368worldcup.com
 0.0.0.0 www.comebet.xyz
 0.0.0.0 www.corona999.com
 0.0.0.0 www.cwin999.com
@@ -20039,8 +20060,10 @@
 0.0.0.0 www.ms3388.com
 0.0.0.0 www.ms88asia.com
 0.0.0.0 www.ms88ca.com
+0.0.0.0 www.mu88ads.com
 0.0.0.0 www.mu9.com
 0.0.0.0 www.mu90.com
+0.0.0.0 www.mvb88.com
 0.0.0.0 www.myb8b.com
 0.0.0.0 www.nbet.com
 0.0.0.0 www.nemo.vin
@@ -20069,6 +20092,7 @@
 0.0.0.0 www.new88p.com
 0.0.0.0 www.new88s.com
 0.0.0.0 www.new88v.com
+0.0.0.0 www.new88ww.com
 0.0.0.0 www.nhanthuong88.com
 0.0.0.0 www.nhatvip.net
 0.0.0.0 www.nowbetvn.com
