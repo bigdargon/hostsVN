@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 15 Dec 2022 11:23 UTC+7
-! Version: 2212151123
-! Blocked: 3,863 rules
+! Last modified: 15 Dec 2022 14:53 UTC+7
+! Version: 2212151453
+! Blocked: 3,869 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -112,9 +112,12 @@
 ||33betf.com^
 ||33betx.com^
 ||33win7.com^
+||3547711.com^
+||3549900.com^
 ||3650011.com^
 ||3650022.com^
 ||3676b.com^
+||380099.com^
 ||388bet.me^
 ||388bet.top^
 ||388bet.us^
@@ -892,6 +895,9 @@
 ||hi888.app^
 ||hi88vip0.com^
 ||hi88vip1.com^
+||hi88vip3.com^
+||hi88vip4.com^
+||hi88vip7.com^
 ||hi88vip8.com^
 ||hm.fabet.vip^
 ||hotlive8.vip^

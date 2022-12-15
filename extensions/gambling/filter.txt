@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 15 Dec 2022 11:23 UTC+7
-! Version: 2212151123
-! Blocked: 21,027 rules
+! Last modified: 15 Dec 2022 14:53 UTC+7
+! Version: 2212151453
+! Blocked: 21,033 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2342,6 +2342,8 @@
 ||35369.site^
 ||35400.com^
 ||354390.com^
+||3547711.com^
+||3549900.com^
 ||355390.com^
 ||355jhp.com^
 ||3561188.cc^
@@ -2431,6 +2433,7 @@
 ||379kbet.net^
 ||37maoap.com^
 ||38.net^
+||380099.com^
 ||381390.com^
 ||382007.com^
 ||382390.com^
@@ -11382,7 +11385,10 @@
 ||hi88vip0.com^
 ||hi88vip1.com^
 ||hi88vip2.com^
+||hi88vip3.com^
+||hi88vip4.com^
 ||hi88vip6.com^
+||hi88vip7.com^
 ||hi88vip8.com^
 ||hi88vip9.com^
 ||hibet.im^

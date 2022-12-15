@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 15 Dec 2022 11:23 UTC+7
-# Version: 2212151123
-# Blocked: 4,318 domains
+# Last modified: 15 Dec 2022 14:53 UTC+7
+# Version: 2212151453
+# Blocked: 4,326 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -115,8 +115,11 @@
 0.0.0.0 33betf.com
 0.0.0.0 33betx.com
 0.0.0.0 33win7.com
+0.0.0.0 3547711.com
+0.0.0.0 3549900.com
 0.0.0.0 3650022.com
 0.0.0.0 3676b.com
+0.0.0.0 380099.com
 0.0.0.0 388bet.me
 0.0.0.0 388bet.top
 0.0.0.0 388bet.us
@@ -883,6 +886,9 @@
 0.0.0.0 hi.oppa888.com
 0.0.0.0 hi888.app
 0.0.0.0 hi88vip1.com
+0.0.0.0 hi88vip3.com
+0.0.0.0 hi88vip4.com
+0.0.0.0 hi88vip7.com
 0.0.0.0 hi88vip8.com
 0.0.0.0 hm.fabet.vip
 0.0.0.0 hotlive8.vip
@@ -3811,6 +3817,8 @@
 0.0.0.0 www.33betad.com
 0.0.0.0 www.33betf.com
 0.0.0.0 www.33betx.com
+0.0.0.0 www.3547711.com
+0.0.0.0 www.3549900.com
 0.0.0.0 www.3650011.com
 0.0.0.0 www.3650022.com
 0.0.0.0 www.3676b.com
