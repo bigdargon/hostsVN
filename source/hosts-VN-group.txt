@@ -1235,7 +1235,12 @@
 0.0.0.0 ccxj.opencoccoc.com
 0.0.0.0 sr.opencoccoc.com
 #[aiactiv.io]
+0.0.0.0 adnetwork-adserver.aiactiv.io
+0.0.0.0 adnetwork-core-lb7.aiactiv.io
+0.0.0.0 adnetwork-core.aiactiv.io
+0.0.0.0 identify.aiactiv.io
 0.0.0.0 sdk-cdn.aiactiv.io
+0.0.0.0 static.aiactiv.io
 0.0.0.0 tag-cdn.aiactiv.io
 0.0.0.0 tags.aiactiv.io
 #[smartadnetwork.net]

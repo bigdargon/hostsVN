@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 13 Dec 2022 14:50 UTC+7
-! Version: 2212131450
-! Blocked: 513 rules
+! Last modified: 15 Dec 2022 11:23 UTC+7
+! Version: 2212151123
+! Blocked: 519 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -136,6 +136,7 @@
 ||eventlqvn.com^
 ||face-book.co^
 ||fccomvn.com^
+||fe.lwcvn.com^
 ||ff-member-ganena.com^
 ||ff-member-gazeza.com^
 ||ff-members-garena.vn^
@@ -170,6 +171,7 @@
 ||goshopback.vip^
 ||goshopbackvip.vip^
 ||h5.diamondwallet.online^
+||h5.tocdovn.com^
 ||h51.carpcredits.com^
 ||hdsaisonvn.com^
 ||hethonggiaodichvidientu247.com^
@@ -198,6 +200,7 @@
 ||kiemtienmomo.weebly.com^
 ||kingking79.com^
 ||la533.com^
+||la9435.com^
 ||larpollicwilli.club^
 ||lazada12.net^
 ||lazada13.net^
@@ -237,6 +240,8 @@
 ||m.hi1222.com^
 ||m.lxysp94.com^
 ||m.maxdong101.com^
+||m.mmocorporation2017.com^
+||m.vi-mayman.com^
 ||m.yocvn.com^
 ||mayanpuzzle.com^
 ||member-gaarena.com^
@@ -424,6 +429,7 @@
 ||vebo8386.me^
 ||vg99.co^
 ||vhcmc2.xyz^
+||vi-mayman.com^
 ||vib-vay.com^
 ||vib84.com^
 ||vibvay.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 13 Dec 2022 14:50 UTC+7
-! Version: 2212131450
-! Blocked: 3.849 rules
+! Last modified: 15 Dec 2022 11:23 UTC+7
+! Version: 2212151123
+! Blocked: 3,863 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -62,9 +62,11 @@
 ||123b.com^
 ||123b.org^
 ||123b03.com^
+||123b04.com^
 ||123b06.com^
 ||123b333.com^
 ||123b88.com^
+||123bdy.com^
 ||128coffee.com^
 ||12b99.com^
 ||13lg8.com^
@@ -397,6 +399,7 @@
 ||akkuq.com^
 ||alb.12b99.com^
 ||allk8.com^
+||alo789.com^
 ||alo88.bet^
 ||alo888.com^
 ||api.016665.com^
@@ -690,6 +693,8 @@
 ||ee88-viet.227290wss.com^
 ||ee88.club^
 ||ee88.com^
+||ee8801.com^
+||ee8802.com^
 ||ee8803.com^
 ||efg5e.com^
 ||ek8802.com^
@@ -760,6 +765,7 @@
 ||fb88anh.com^
 ||fb88club.com^
 ||fb88cup.com^
+||fb88day.com^
 ||fb88en.com^
 ||fb88fifa.com^
 ||fb88go.com^
@@ -885,6 +891,7 @@
 ||hi.oppa888.com^
 ||hi888.app^
 ||hi88vip0.com^
+||hi88vip1.com^
 ||hi88vip8.com^
 ||hm.fabet.vip^
 ||hotlive8.vip^
@@ -3097,6 +3104,9 @@
 ||naapptbwf.com^
 ||nbet.club^
 ||nbet.com^
+||nbet.fun^
+||nbet.me^
+||nbet.site^
 ||nbet.top^
 ||nbet.vip^
 ||nbet.win^
@@ -3323,6 +3333,7 @@
 ||s99906.com^
 ||s9996.com^
 ||s9997.com^
+||s999d.com^
 ||sbc31.com^
 ||sbetviet.com^
 ||sbotop246.com^
@@ -3540,6 +3551,7 @@
 ||tpviet88.com^
 ||tracking.fabet.vip^
 ||tracking.zbet.vn^
+||trangchu.app^
 ||trungso.vip^
 ||trunk.websvn.info^
 ||truyenthongthongtin.com^
@@ -3746,11 +3758,13 @@
 ||w88easy.com^
 ||w88hn.com^
 ||w88io.com^
+||w88kh.com^
 ||w88kub.com^
 ||w88mp.com^
 ||w88ok.com^
 ||w88so.com^
 ||w88u2.com^
+||w88ud2.com^
 ||w88vui.com^
 ||w88yes.com^
 ||w92oa.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 13 Dec 2022 14:50 UTC+7
-# Version: 2212131450
-# Blocked: 787 domains
+# Last modified: 15 Dec 2022 11:23 UTC+7
+# Version: 2212151123
+# Blocked: 793 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -232,6 +232,7 @@
 0.0.0.0 fairu-schnellvpn.com
 0.0.0.0 fairu-schnellvpn.xyz
 0.0.0.0 fccomvn.com
+0.0.0.0 fe.lwcvn.com
 0.0.0.0 ff-member-ganena.com
 0.0.0.0 ff-member-gazeza.com
 0.0.0.0 ff-members-garena.vn
@@ -279,6 +280,7 @@
 0.0.0.0 goshopback.vip
 0.0.0.0 goshopbackvip.vip
 0.0.0.0 h5.diamondwallet.online
+0.0.0.0 h5.tocdovn.com
 0.0.0.0 h51.carpcredits.com
 0.0.0.0 hdsaisonvn.com
 0.0.0.0 heirreplacem.cfd
@@ -327,6 +329,7 @@
 0.0.0.0 kirov1.xyz
 0.0.0.0 kuyhaa-me.pw
 0.0.0.0 la533.com
+0.0.0.0 la9435.com
 0.0.0.0 ladsblue.com
 0.0.0.0 largerinscale.cfd
 0.0.0.0 larpollicwilli.club
@@ -369,6 +372,8 @@
 0.0.0.0 m.hi1222.com
 0.0.0.0 m.lxysp94.com
 0.0.0.0 m.maxdong101.com
+0.0.0.0 m.mmocorporation2017.com
+0.0.0.0 m.vi-mayman.com
 0.0.0.0 m.yocvn.com
 0.0.0.0 mayanpuzzle.com
 0.0.0.0 mayyadc.cfd
@@ -628,6 +633,7 @@
 0.0.0.0 vebo8386.me
 0.0.0.0 vg99.co
 0.0.0.0 vhcmc2.xyz
+0.0.0.0 vi-mayman.com
 0.0.0.0 vib-vay.com
 0.0.0.0 vib84.com
 0.0.0.0 vibvay.com

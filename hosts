@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Dec 2022 14:33 UTC+7
-# Version: 2212131433
-# Blocked: 17.045 domains
+# Last modified: 15 Dec 2022 11:23 UTC+7
+# Version: 2212151123
+# Blocked: 17,066 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12214,7 +12214,12 @@
 0.0.0.0 ccxj.opencoccoc.com
 0.0.0.0 sr.opencoccoc.com
 #[aiactiv.io]
+0.0.0.0 adnetwork-adserver.aiactiv.io
+0.0.0.0 adnetwork-core-lb7.aiactiv.io
+0.0.0.0 adnetwork-core.aiactiv.io
+0.0.0.0 identify.aiactiv.io
 0.0.0.0 sdk-cdn.aiactiv.io
+0.0.0.0 static.aiactiv.io
 0.0.0.0 tag-cdn.aiactiv.io
 0.0.0.0 tags.aiactiv.io
 #[smartadnetwork.net]
@@ -12610,6 +12615,7 @@
 0.0.0.0 analytics.diamondstarfinancial.com.vn
 0.0.0.0 analytics.evgcdn.net
 0.0.0.0 analytics.fsoft.com.vn
+0.0.0.0 analytics.hebela.vn
 0.0.0.0 analytics.hub-js.com
 0.0.0.0 analytics.jamstackvietnam.com
 0.0.0.0 analytics.mfocus.vn
@@ -14135,6 +14141,7 @@
 0.0.0.0 betonpolite.com
 0.0.0.0 betotodilea.com
 0.0.0.0 bewilderedblade.com
+0.0.0.0 bg4nxu2u5t.com
 0.0.0.0 bhcumsc.com
 0.0.0.0 bid.glass
 0.0.0.0 bidclix.com
@@ -14662,6 +14669,7 @@
 0.0.0.0 decisiveducks.com
 0.0.0.0 decknetwork.net
 0.0.0.0 decoycreation.com
+0.0.0.0 decptynhipdrkrg.com
 0.0.0.0 dedicatedmedia.com
 0.0.0.0 deecqem892bg5er.com
 0.0.0.0 deehalig.net
@@ -14897,6 +14905,7 @@
 0.0.0.0 epomads2.4shared.com
 0.0.0.0 epomapps.com
 0.0.0.0 eqads.com
+0.0.0.0 eqplmatlm.com
 0.0.0.0 eqworks.com
 0.0.0.0 eremuribleak.com
 0.0.0.0 ergadx.com
@@ -15038,6 +15047,7 @@
 0.0.0.0 focusde.info
 0.0.0.0 fondlecokecombination.com
 0.0.0.0 fonecta.fi
+0.0.0.0 fopsoado.com
 0.0.0.0 for-j.com
 0.0.0.0 forearmthrobjanuary.com
 0.0.0.0 foresee.com
@@ -15096,6 +15106,7 @@
 0.0.0.0 galopelikeantelope.com
 0.0.0.0 ganemur.com
 0.0.0.0 gangsstowapps.com
+0.0.0.0 ganjbqrzhkle.com
 0.0.0.0 garagesewe.com
 0.0.0.0 gatetodisplaycontent.com
 0.0.0.0 gavnogeeygaika.com
@@ -15260,6 +15271,7 @@
 0.0.0.0 highfalutinroom.com
 0.0.0.0 highmaidfhr.com
 0.0.0.0 highperformancecpm.com
+0.0.0.0 highperformancecpmgate.com
 0.0.0.0 highperformancecpmnetwork.com
 0.0.0.0 highperformancedformats.com
 0.0.0.0 highprofitnetwork.com
@@ -15360,6 +15372,7 @@
 0.0.0.0 ientrymail.com
 0.0.0.0 ietyofedinj89yewtburgh.com
 0.0.0.0 ifa.tube8live.com
+0.0.0.0 iifvcfwiqi.com
 0.0.0.0 ilbanner.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 illfatedsnail.com
@@ -15447,6 +15460,7 @@
 0.0.0.0 inuvi.com
 0.0.0.0 inventionpassenger.com
 0.0.0.0 invitesugar.com
+0.0.0.0 invol.co
 0.0.0.0 inwraptsekane.com
 0.0.0.0 iodideeyebath.cam
 0.0.0.0 ionnmjdsf.com
@@ -15458,6 +15472,7 @@
 0.0.0.0 irchincsp.com
 0.0.0.0 ireklama.cz
 0.0.0.0 irncdn.com
+0.0.0.0 irnwislborwvh.com
 0.0.0.0 ironsource.mobi
 0.0.0.0 irousbisayan.com
 0.0.0.0 isfxsiooyjad.com
@@ -15505,6 +15520,7 @@
 0.0.0.0 jighucme.com
 0.0.0.0 jinkads.de
 0.0.0.0 jioads.akamaized.net
+0.0.0.0 jitteryhire.pro
 0.0.0.0 jivox.com
 0.0.0.0 jiwire.com
 0.0.0.0 jmrnews.pro
@@ -15723,6 +15739,7 @@
 0.0.0.0 managementbeganrapt.com
 0.0.0.0 manfjgo2jgb8mg09.com
 0.0.0.0 manivalyrid.com
+0.0.0.0 marazma.com
 0.0.0.0 marchex.com
 0.0.0.0 markedcrayon.com
 0.0.0.0 markedpail.com
@@ -16149,6 +16166,7 @@
 0.0.0.0 orthitepetrous.com
 0.0.0.0 ortshk.tapas.net
 0.0.0.0 ota.cartrawler.com
+0.0.0.0 otqxvqzdgl.com
 0.0.0.0 oufauthy.net
 0.0.0.0 ouftukoo.net
 0.0.0.0 oustoope.com
@@ -16491,9 +16509,7 @@
 0.0.0.0 qxadsk.com
 0.0.0.0 qzs.gdtimg.com
 0.0.0.0 r.leadzu.com
-0.0.0.0 r.mradx.net
 0.0.0.0 r.trwl1.com
-0.0.0.0 r0.mradx.net
 0.0.0.0 r3adyt0download.com
 0.0.0.0 r3oodleaw5au4ssir.com
 0.0.0.0 radarurl.com
@@ -16531,6 +16547,7 @@
 0.0.0.0 readingguilt.com
 0.0.0.0 readserver.net
 0.0.0.0 readymoon.com
+0.0.0.0 real-difficulty.pro
 0.0.0.0 realcastmedia.com
 0.0.0.0 realclever.com
 0.0.0.0 realclix.com
@@ -17509,6 +17526,7 @@
 0.0.0.0 whoostoo.net
 0.0.0.0 whowhipi.net
 0.0.0.0 whugesto.net
+0.0.0.0 wibtntmvox.com
 0.0.0.0 widdit.com
 0.0.0.0 widespace.com
 0.0.0.0 widget.privy.com
@@ -17540,6 +17558,7 @@
 0.0.0.0 wowhugoo.com
 0.0.0.0 wowshortvideos.com
 0.0.0.0 wpnrtnmrewunrtok.xyz
+0.0.0.0 wqzyxxrrep.com
 0.0.0.0 wrapper.lemde.fr
 0.0.0.0 wryfinger.com
 0.0.0.0 wt-eu02.net
@@ -17835,6 +17854,7 @@
 0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.ihbsoft.com
 0.0.0.0 analytics.jumboprivacy.com
+0.0.0.0 analytics.keepstreams.com
 0.0.0.0 analytics.kidoz.net
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.mobilegamestats.com
@@ -17863,6 +17883,7 @@
 0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.similarweb.com
 0.0.0.0 analytics.slashdotmedia.com
+0.0.0.0 analytics.streamgaga.com
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.wondershare.cc

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 Dec 2022 14:50 UTC+7
-# Version: 2212131450
-# Blocked: 21.535 domains
+# Last modified: 15 Dec 2022 11:23 UTC+7
+# Version: 2212151123
+# Blocked: 21,558 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -733,10 +733,12 @@
 0.0.0.0 123b.org
 0.0.0.0 123b02.com
 0.0.0.0 123b03.com
+0.0.0.0 123b04.com
 0.0.0.0 123b06.com
 0.0.0.0 123b111.com
 0.0.0.0 123b333.com
 0.0.0.0 123b88.com
+0.0.0.0 123bdy.com
 0.0.0.0 123win456.com
 0.0.0.0 1242004.com
 0.0.0.0 1252004.com
@@ -5617,6 +5619,7 @@
 0.0.0.0 83335359.com
 0.0.0.0 834390.com
 0.0.0.0 8352v.com
+0.0.0.0 8354t.com
 0.0.0.0 837084.com
 0.0.0.0 837263.com
 0.0.0.0 837390.com
@@ -6392,6 +6395,7 @@
 0.0.0.0 940390.com
 0.0.0.0 940688.com
 0.0.0.0 940799.com
+0.0.0.0 9415t.com
 0.0.0.0 941609.com
 0.0.0.0 941611.com
 0.0.0.0 9416aaaa.com
@@ -6937,6 +6941,7 @@
 0.0.0.0 allslotscasino.com
 0.0.0.0 allstarwager.com
 0.0.0.0 allwagers247.com
+0.0.0.0 alo789.com
 0.0.0.0 alo88.bet
 0.0.0.0 alo888.com
 0.0.0.0 alohawinners.com
@@ -9594,6 +9599,8 @@
 0.0.0.0 ee88-viet.227290wss.com
 0.0.0.0 ee88.club
 0.0.0.0 ee88.com
+0.0.0.0 ee8801.com
+0.0.0.0 ee8802.com
 0.0.0.0 ee8803.com
 0.0.0.0 ee9416.com
 0.0.0.0 eee9416.com
@@ -9850,6 +9857,7 @@
 0.0.0.0 fb88ball.com
 0.0.0.0 fb88club.com
 0.0.0.0 fb88cup.com
+0.0.0.0 fb88day.com
 0.0.0.0 fb88en.com
 0.0.0.0 fb88fifa.com
 0.0.0.0 fb88gateway.com
@@ -11361,6 +11369,7 @@
 0.0.0.0 hi.oppa888.com
 0.0.0.0 hi888.app
 0.0.0.0 hi88vip0.com
+0.0.0.0 hi88vip1.com
 0.0.0.0 hi88vip2.com
 0.0.0.0 hi88vip6.com
 0.0.0.0 hi88vip8.com
@@ -15650,6 +15659,7 @@
 0.0.0.0 mcj100.com
 0.0.0.0 mcj432.com
 0.0.0.0 mcw77.com
+0.0.0.0 mcwaffiliates.com
 0.0.0.0 mcwexchange.com
 0.0.0.0 mdbw0018.com
 0.0.0.0 mdh54.asia
@@ -16500,7 +16510,11 @@
 0.0.0.0 nbajingbo.com
 0.0.0.0 nbajingcai.cn
 0.0.0.0 nbet.club
+0.0.0.0 nbet.co.in
 0.0.0.0 nbet.com
+0.0.0.0 nbet.fun
+0.0.0.0 nbet.me
+0.0.0.0 nbet.site
 0.0.0.0 nbet.top
 0.0.0.0 nbet.vip
 0.0.0.0 nbet.win
@@ -17498,6 +17512,7 @@
 0.0.0.0 s99906.com
 0.0.0.0 s9996.com
 0.0.0.0 s9997.com
+0.0.0.0 s999d.com
 0.0.0.0 sa-baccarat168.com
 0.0.0.0 sa.game
 0.0.0.0 sa1688.club
@@ -18490,6 +18505,7 @@
 0.0.0.0 tracking.fabet.vip
 0.0.0.0 tracking.zbet.vn
 0.0.0.0 trainghiem188.com
+0.0.0.0 trangchu.app
 0.0.0.0 trc20.vip
 0.0.0.0 tri7bet.club
 0.0.0.0 tribe77.com
@@ -19446,6 +19462,7 @@
 0.0.0.0 w88jackpot.com
 0.0.0.0 w88kece.com
 0.0.0.0 w88keocuoc.com
+0.0.0.0 w88kh.com
 0.0.0.0 w88kor.com
 0.0.0.0 w88ku.com
 0.0.0.0 w88kub.com
@@ -19471,6 +19488,7 @@
 0.0.0.0 w88u55.com
 0.0.0.0 w88u85.com
 0.0.0.0 w88u86.com
+0.0.0.0 w88ud2.com
 0.0.0.0 w88ud9.com
 0.0.0.0 w88ux.net
 0.0.0.0 w88vin.vin
@@ -19823,6 +19841,7 @@
 0.0.0.0 www.ae988bet.com
 0.0.0.0 www.aewin88.com
 0.0.0.0 www.agbet.co
+0.0.0.0 www.alo789.com
 0.0.0.0 www.appbk8.com
 0.0.0.0 www.asiabet.org
 0.0.0.0 www.asiatop88.com
@@ -19913,6 +19932,7 @@
 0.0.0.0 www.fb88affok.com
 0.0.0.0 www.fb88club.com
 0.0.0.0 www.fb88cup.com
+0.0.0.0 www.fb88day.com
 0.0.0.0 www.fb88fifa.com
 0.0.0.0 www.fb88gateway.com
 0.0.0.0 www.fb88id.com
@@ -20054,6 +20074,7 @@
 0.0.0.0 www.may88.club
 0.0.0.0 www.mbx88.com
 0.0.0.0 www.mc876.com
+0.0.0.0 www.mcwaffiliates.com
 0.0.0.0 www.mdbw0018.com
 0.0.0.0 www.me88vn1.com
 0.0.0.0 www.mibet.com
@@ -20260,9 +20281,11 @@
 0.0.0.0 www.w88club.com
 0.0.0.0 www.w88hn.com
 0.0.0.0 www.w88io.com
+0.0.0.0 www.w88kh.com
 0.0.0.0 www.w88ok.com
 0.0.0.0 www.w88so.com
 0.0.0.0 www.w88u2.com
+0.0.0.0 www.w88ud2.com
 0.0.0.0 www.w88yes.com
 0.0.0.0 www.wangcmd368.com
 0.0.0.0 www.wb77.net

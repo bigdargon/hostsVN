@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Dec 2022 14:33 UTC+7
-! Version: 2212131433
-! Blocked: 799 rules
+! Last modified: 15 Dec 2022 11:23 UTC+7
+! Version: 2212151123
+! Blocked: 800 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -444,6 +444,7 @@
 ||analytics.diamondstarfinancial.com.vn^
 ||analytics.evgcdn.net^
 ||analytics.fsoft.com.vn^
+||analytics.hebela.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
 ||analytics.mfocus.vn^

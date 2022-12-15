@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 13 Dec 2022 14:50 UTC+7
-! Version: 2212131450
-! Blocked: 2.541 rules
+! Last modified: 15 Dec 2022 11:23 UTC+7
+! Version: 2212151123
+! Blocked: 2,541 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1103,6 +1103,7 @@
 ||phimsexhanquoc.me^
 ||phimsexhanquoc.mobi^
 ||phimsexhanquoc.org^
+||phimsexhanquoc.site^
 ||phimsexhanquoc.xyz^
 ||phimsexhay.biz^
 ||phimsexhay.club^
@@ -1402,7 +1403,6 @@
 ||phymjavhd.com^
 ||phymsex.pro^
 ||pimsex.pro^
-||play.kichduc.cc^
 ||play.kichduc.to^
 ||play.kphim.cc^
 ||play3x.xyz^
