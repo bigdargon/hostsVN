@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 15 Dec 2022 14:53 UTC+7
-! Version: 2212151453
-! Blocked: 743 rules
+! Last modified: 17 Dec 2022 20:32 UTC+7
+! Version: 2212172032
+! Blocked: 744 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -720,6 +720,7 @@
 ||vpbsvn.com^
 ||vps8449vn.com^
 ||vvvvw-icloud.com^
+||watch-online.49n7wqynho5u.top^
 ||webh5.newfastloan.cc^
 ||western-unions24h.weebly.com^
 ||westernunions6886z.weebly.com^

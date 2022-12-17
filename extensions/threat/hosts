@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 15 Dec 2022 14:53 UTC+7
-# Version: 2212151453
-# Blocked: 793 domains
+# Last modified: 17 Dec 2022 20:32 UTC+7
+# Version: 2212172032
+# Blocked: 794 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -721,6 +721,7 @@
 0.0.0.0 vpbsvn.com
 0.0.0.0 vps8449vn.com
 0.0.0.0 vvvvw-icloud.com
+0.0.0.0 watch-online.49n7wqynho5u.top
 0.0.0.0 webh5.newfastloan.cc
 0.0.0.0 western-unions24h.weebly.com
 0.0.0.0 westernunions6886z.weebly.com

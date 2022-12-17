@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 15 Dec 2022 14:53 UTC+7
-! Version: 2212151453
-! Blocked: 3,869 rules
+! Last modified: 17 Dec 2022 20:32 UTC+7
+! Version: 2212172032
+! Blocked: 3,883 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -133,10 +133,12 @@
 ||5123b.com^
 ||520xiaojin.com^
 ||52gp1.com^
+||5533789.com^
 ||558kbet.com^
 ||570manx.com^
 ||59y2x.com^
 ||5shbet.com^
+||608822.com^
 ||63wan.com^
 ||666k8vn.com^
 ||6677444.com^
@@ -534,6 +536,7 @@
 ||bk8i.com^
 ||bk8p.com^
 ||bk8ping.com^
+||bk8vie.com^
 ||bk8viet.com^
 ||bk8vietnam.com^
 ||bk8vn.com^
@@ -861,6 +864,7 @@
 ||gdwviet.com^
 ||gi888.cc^
 ||gi8vn.vip^
+||giaimanhacai.com^
 ||giaitri.fun^
 ||giaitri.tv^
 ||giutcohon.sin88.biz^
@@ -2903,6 +2907,7 @@
 ||lode555.com^
 ||lode88.online^
 ||lode88.vip^
+||lodevip.us^
 ||lodevn789.net^
 ||long092.com^
 ||lp.macauclub.fun^
@@ -3008,9 +3013,11 @@
 ||m.vn88.com^
 ||m.vn88hn.live^
 ||m.vn88vui.live^
+||m.vnbong88.live^
 ||m.vndbet88.com^
 ||m.vnloto.com^
 ||m.vnloto.vip^
+||m.vnpro88.com^
 ||m.vntop88.com^
 ||m.vuabet88.org^
 ||m.vz79.com^
@@ -3134,6 +3141,7 @@
 ||nhacailucky88.net^
 ||nhacaisodo.net^
 ||nhacaisomot.com^
+||nhacaiuytin.life^
 ||nhaicaik8.net^
 ||nhanthuong88.com^
 ||nhat.bet^
@@ -3219,6 +3227,7 @@
 ||play.yo88vn.vip^
 ||player.ole777vietnam.com^
 ||player.oleviet777.com^
+||player.win102.com^
 ||playgamefa88.live^
 ||playgo88.asia^
 ||playgo88.top^
@@ -3665,6 +3674,7 @@
 ||vn88win.live^
 ||vn969.com^
 ||vnbiz88.com^
+||vnbong88.live^
 ||vnclub88.live^
 ||vnd188.app^
 ||vnd1888.com^
@@ -3677,6 +3687,7 @@
 ||vnloto.com^
 ||vnloto.vip^
 ||vnn8d.com^
+||vnpro88.com^
 ||vnq8.bet^
 ||vnq8.com^
 ||vnq8.net^
@@ -3797,10 +3808,12 @@
 ||widget.v9bet88.net^
 ||widget.v9jvn.com^
 ||win.vaorikvip.com^
+||win102.com^
 ||win365good.com^
 ||win365vip8.com^
 ||win365vip9.com^
 ||win79.app^
+||win79.download^
 ||win79.vip^
 ||win79play.me^
 ||win88.me^
@@ -3831,6 +3844,7 @@
 ||xengtructuyen.com^
 ||xingtou888.com^
 ||xljs2.com^
+||xn--hi-ji6caa.com^
 ||xo88.com^
 ||xo88.fun^
 ||xo88.info^

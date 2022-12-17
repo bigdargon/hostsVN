@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 15 Dec 2022 14:53 UTC+7
-! Version: 2212151453
-! Blocked: 2,541 rules
+! Last modified: 17 Dec 2022 20:32 UTC+7
+! Version: 2212172032
+! Blocked: 2,549 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -53,6 +53,7 @@
 ||amurz.com^
 ||anhgaihotnhat.blogspot.com^
 ||anhgaisexy.com^
+||anhgaixinh.us^
 ||anhjavdep.blogspot.com^
 ||anhlondep.xyz^
 ||anhmodel.com^
@@ -74,6 +75,7 @@
 ||apphotlive.biz^
 ||applive.vn^
 ||appliveshow.com^
+||appmmlive.com^
 ||argylesecurity.com^
 ||avhd.mobi^
 ||b2branked.com^
@@ -359,6 +361,7 @@
 ||gaigoikiemdinh.live^
 ||gaigoinhatrang.com^
 ||gaigoionline.link^
+||gaigoisinhvien.xyz^
 ||gaigoituoi18.xyz^
 ||gaigoivip.info^
 ||gaigoivip.live^
@@ -467,6 +470,7 @@
 ||hentaivlz.com^
 ||hentaivn.cc^
 ||hentaivn.com^
+||hentaivn.de^
 ||hentaivn.fun^
 ||hentaivn.info^
 ||hentaivn.la^
@@ -760,9 +764,12 @@
 ||migraine-aura.com^
 ||milive.fun^
 ||mlem.live^
+||mm1cloud.com^
 ||mmlive.live^
 ||mmlive.one^
+||mmlive1.com^
 ||mmliveapp.club^
+||mmliveapp.top^
 ||mobiblog.cc^
 ||mobiblog.net^
 ||mobiblog.us^
@@ -1420,6 +1427,7 @@
 ||pphimsex.com^
 ||pphimsex.me^
 ||qq892.live^
+||qqlive.cc^
 ||quaylen.me^
 ||quaylen.org^
 ||quaytay.net^
