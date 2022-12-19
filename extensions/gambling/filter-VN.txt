@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 17 Dec 2022 20:32 UTC+7
-! Version: 2212172032
-! Blocked: 3,883 rules
+! Last modified: 19 Dec 2022 14:12 UTC+7
+! Version: 2212191412
+! Blocked: 3,885 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -632,6 +632,7 @@
 ||d3.debet.info^
 ||d3.debet.win^
 ||d4j95.com^
+||d9bet38.com^
 ||d9bet88.com^
 ||dabanh.thethaofb88.com^
 ||dabet.club^
@@ -2893,7 +2894,6 @@
 ||linkvaobw.info^
 ||linkvaom88.xyz^
 ||linkw88dn.com^
-||lite-1x0801165.top^
 ||lite-1x6603199.top^
 ||live.vuabai9.com^
 ||livek8.com^
@@ -3507,6 +3507,7 @@
 ||taiv8.com^
 ||taiv8.info^
 ||taiv8.top^
+||taiwin79.win^
 ||tap88.club^
 ||tbab395.com^
 ||tf2022v.com^
@@ -3549,6 +3550,7 @@
 ||tjb15.net^
 ||tjb22.net^
 ||tk326.com^
+||tk88g.com^
 ||tobet88.net^
 ||tool.mibet.com^
 ||top.bet20.bet^

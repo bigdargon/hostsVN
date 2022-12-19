@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 17 Dec 2022 20:32 UTC+7
-# Version: 2212172032
-# Blocked: 22,189 domains
+# Last modified: 19 Dec 2022 14:12 UTC+7
+# Version: 2212191412
+# Blocked: 22,205 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1439,7 +1439,9 @@
 0.0.0.0 1wb3t.com
 0.0.0.0 1wbae.xyz
 0.0.0.0 1wgokj.top
+0.0.0.0 1win-service.com
 0.0.0.0 1win.com.ci
+0.0.0.0 1wkhwv.top
 0.0.0.0 1x-00.com
 0.0.0.0 1x-01.com
 0.0.0.0 1x-02.com
@@ -1499,8 +1501,10 @@
 0.0.0.0 1xbet-gq.com
 0.0.0.0 1xbet-it.com
 0.0.0.0 1xbet-krd.com
+0.0.0.0 1xbet-lmm.xyz
 0.0.0.0 1xbet-new.com
 0.0.0.0 1xbet-pari-bfa.com
+0.0.0.0 1xbet-rhg.xyz
 0.0.0.0 1xbet-ro.com
 0.0.0.0 1xbet-ru.com
 0.0.0.0 1xbet-s.com
@@ -1561,6 +1565,7 @@
 0.0.0.0 1xbet15.com
 0.0.0.0 1xbet2.com
 0.0.0.0 1xbet2022.com
+0.0.0.0 1xbet212639.top
 0.0.0.0 1xbet26.com
 0.0.0.0 1xbet27.com
 0.0.0.0 1xbet3.com
@@ -1610,6 +1615,7 @@
 0.0.0.0 1xbet95.com
 0.0.0.0 1xbet9ja.com
 0.0.0.0 1xbetaccess.com
+0.0.0.0 1xbetaffiliates.net
 0.0.0.0 1xbetasia.com
 0.0.0.0 1xbetasia1.mobi
 0.0.0.0 1xbetasia2018.com
@@ -9383,6 +9389,7 @@
 0.0.0.0 cdd88.com
 0.0.0.0 cdgfds156521.xyz
 0.0.0.0 cdkmer.cn
+0.0.0.0 cdn-1win.xyz
 0.0.0.0 cdn.gin.bet
 0.0.0.0 cdn.googlekeycdn.com
 0.0.0.0 cdn.kingbet86.info
@@ -9649,6 +9656,7 @@
 0.0.0.0 d81866.com
 0.0.0.0 d83455.com
 0.0.0.0 d8f6nrt6mgf5316hg3n1srt3f5jdty6h51rs3d2fnr23n1s.com
+0.0.0.0 d9bet38.com
 0.0.0.0 d9bet88.com
 0.0.0.0 dabanh.thethaofb88.com
 0.0.0.0 dabet.club
@@ -15503,8 +15511,11 @@
 0.0.0.0 lite-1x27114193.top
 0.0.0.0 lite-1x283524.top
 0.0.0.0 lite-1x36781678.top
+0.0.0.0 lite-1x4635600.top
 0.0.0.0 lite-1x470660.top
+0.0.0.0 lite-1x4720786.top
 0.0.0.0 lite-1x520416.top
+0.0.0.0 lite-1x562968.top
 0.0.0.0 lite-1x596882.top
 0.0.0.0 lite-1x602477.top
 0.0.0.0 lite-1x6603199.top
@@ -17803,6 +17814,7 @@
 0.0.0.0 refpa41636.top
 0.0.0.0 refpa459079.top
 0.0.0.0 refpa47030.top
+0.0.0.0 refpa5120468.top
 0.0.0.0 refpa53115.top
 0.0.0.0 refpa56620.top
 0.0.0.0 refpa57118.top
@@ -17879,6 +17891,7 @@
 0.0.0.0 refpajqhsd.top
 0.0.0.0 refpajqjjgbq.top
 0.0.0.0 refpakclnzuh.top
+0.0.0.0 refpakcxtwd.space
 0.0.0.0 refpakirsxec.top
 0.0.0.0 refpakolde.com
 0.0.0.0 refpakptaske.top
@@ -18752,6 +18765,7 @@
 0.0.0.0 taiv8.com
 0.0.0.0 taiv8.info
 0.0.0.0 taiv8.top
+0.0.0.0 taiwin79.win
 0.0.0.0 taixiuk8.net
 0.0.0.0 take866.com
 0.0.0.0 taketheeasy.com
@@ -18943,6 +18957,7 @@
 0.0.0.0 tk326.com
 0.0.0.0 tk88.win
 0.0.0.0 tk8888.vip
+0.0.0.0 tk88g.com
 0.0.0.0 tl333111.com
 0.0.0.0 tl702.com
 0.0.0.0 tlolt.com
@@ -20813,6 +20828,7 @@
 0.0.0.0 www.tjb15.net
 0.0.0.0 www.tjb22.net
 0.0.0.0 www.tk326.com
+0.0.0.0 www.tk88g.com
 0.0.0.0 www.tobet88.net
 0.0.0.0 www.top88.club
 0.0.0.0 www.top88.fun
