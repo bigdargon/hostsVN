@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 19 Dec 2022 14:12 UTC+7
-! Version: 2212191412
-! Blocked: 2,558 rules
+! Last modified: 20 Dec 2022 15:39 UTC+7
+! Version: 2212201539
+! Blocked: 2,566 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -595,6 +595,8 @@
 ||javhdhay.me^
 ||javhdpro.org^
 ||javhdvd.net^
+||javhiv.com^
+||javhiv.one^
 ||javhiv.xyz^
 ||javhotvietsub.com^
 ||javkhongche.net^
@@ -637,6 +639,7 @@
 ||javsub.mobi^
 ||javsub.one^
 ||javsub.online^
+||javsub.wiki^
 ||javsub.xyz^
 ||javsubmoi.net^
 ||javtop1.biz^
@@ -813,6 +816,7 @@
 ||okne.net^
 ||olaphim.org^
 ||ongtrumtraigoi.com^
+||opjav.com^
 ||phang.pro^
 ||phang3x.com^
 ||phatrinh.org^
@@ -1766,8 +1770,10 @@
 ||sextop1x.com^
 ||sextop3x.com^
 ||sextop68.com^
+||sextopi.com^
 ||sextopvl.net^
 ||sextoy.com^
+||sextq.xyz^
 ||sextraxanh.com^
 ||sextructuyen.com^
 ||sextrung.me^
@@ -1805,6 +1811,7 @@
 ||sexviet.watch^
 ||sexviet.ws^
 ||sexviet.xyz^
+||sexviet1.cc^
 ||sexviet1.xyz^
 ||sexviet3x.pro^
 ||sexviet69.biz^
@@ -2541,6 +2548,7 @@
 ||yeu3x.com^
 ||yeusex.me^
 ||yeusex.net^
+||yeusex.one^
 ||yeusex.org^
 ||yeusex.pro^
 ||yeutinhduc.com^

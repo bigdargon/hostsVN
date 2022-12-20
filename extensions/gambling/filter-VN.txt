@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 19 Dec 2022 14:12 UTC+7
-! Version: 2212191412
-! Blocked: 3,885 rules
+! Last modified: 20 Dec 2022 15:39 UTC+7
+! Version: 2212201539
+! Blocked: 3,904 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -474,6 +474,7 @@
 ||api.v79top.com^
 ||api.v7king.com^
 ||api.vh79.com^
+||api.vn1610.com^
 ||api.vnloto.com^
 ||api.vnq8.bet^
 ||api.vnq8.com^
@@ -546,6 +547,8 @@
 ||blogf8bet.com^
 ||bo.b52.win^
 ||bogcuoc.com^
+||bong88.cam^
+||bong88.pro^
 ||bong8899.com^
 ||bong88net.com^
 ||bong90.bet^
@@ -588,9 +591,11 @@
 ||cdn.kingbet86.info^
 ||cdn.vwin010.com^
 ||cf68.shop^
+||cfc.leto58.xyz^
 ||cfun68.biz^
 ||chaolua.club^
 ||chat789bet.com^
+||chatserverv.ooooooo2.com^
 ||choang.fun^
 ||choi.playiwin.uk^
 ||choingay88.com^
@@ -632,7 +637,10 @@
 ||d3.debet.info^
 ||d3.debet.win^
 ||d4j95.com^
+||d9bet.cam^
+||d9bet.store^
 ||d9bet38.com^
+||d9bet68.com^
 ||d9bet88.com^
 ||dabanh.thethaofb88.com^
 ||dabet.club^
@@ -831,6 +839,7 @@
 ||funtructuyen88.com^
 ||fxbg7.com^
 ||g9vip.com^
+||gam88.org^
 ||game.789.club^
 ||game.789a.club^
 ||game.789d.club^
@@ -889,6 +898,8 @@
 ||gomy188.com^
 ||goplayk8.com^
 ||gowin39.com^
+||gql.leto58.xyz^
+||gql.lt119.online^
 ||gw.zbet.com^
 ||h3bet.com^
 ||happy9luck.com^
@@ -2883,6 +2894,7 @@
 ||kufun.win^
 ||kuwin.bet^
 ||langvuichoi.net^
+||leto58.xyz^
 ||letou8868.com^
 ||lgl9p.com^
 ||link.vuabai9.com^
@@ -2919,6 +2931,7 @@
 ||lp.zo.club^
 ||lp2.gameiwin.vip^
 ||lp8z6.com^
+||lt119.online^
 ||lt991.com^
 ||lt992.com^
 ||lt997.com^
@@ -3002,6 +3015,7 @@
 ||m.tf88265.com^
 ||m.tf88860.co^
 ||m.tf88v.com^
+||m.to188xj.com^
 ||m.tobet88.net^
 ||m.twin188.co^
 ||m.v99win.app^
@@ -3099,6 +3113,7 @@
 ||ms88asia.com^
 ||ms88ca.com^
 ||msmeb.com^
+||msp2.leto58.xyz^
 ||mu88a.com^
 ||mu88ads.com^
 ||mu88daily.com^
@@ -3176,6 +3191,7 @@
 ||one88.vip^
 ||one88.win^
 ||onevegas.com^
+||ooooooo2.com^
 ||oppa888.com^
 ||oppa88888888.com^
 ||ov-game.com^
@@ -3551,6 +3567,7 @@
 ||tjb22.net^
 ||tk326.com^
 ||tk88g.com^
+||to188xj.com^
 ||tobet88.net^
 ||tool.mibet.com^
 ||top.bet20.bet^
@@ -3658,6 +3675,7 @@
 ||vn138.net^
 ||vn138138.com^
 ||vn138viet.com^
+||vn1610.com^
 ||vn34.com^
 ||vn500.com^
 ||vn67801.com^
@@ -3711,6 +3729,7 @@
 ||vuabai9.com^
 ||vuabet88.org^
 ||vuaclub1008.club^
+||vue.ooooooo2.com^
 ||vui.fun^
 ||vuicungk8.com^
 ||vw109.com^
