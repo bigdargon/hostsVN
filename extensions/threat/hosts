@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 20 Dec 2022 15:39 UTC+7
-# Version: 2212201539
-# Blocked: 794 domains
+# Last modified: 22 Dec 2022 09:16 UTC+7
+# Version: 2212220916
+# Blocked: 795 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -419,6 +419,7 @@
 0.0.0.0 nguyenkim.co
 0.0.0.0 nhan-tienvidientu247.com
 0.0.0.0 nhanquaffob31.com
+0.0.0.0 nhanquamienphi.org
 0.0.0.0 nhantien120s-ollbankingz.weebly.com
 0.0.0.0 nhantienquocte249.weebly.com
 0.0.0.0 nhantienquocte275.weebly.com
