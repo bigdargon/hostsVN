@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 22 Dec 2022 09:16 UTC+7
-! Version: 2212220916
-! Blocked: 8,062 rules
+! Last modified: 23 Dec 2022 10:05 UTC+7
+! Version: 2212231005
+! Blocked: 8,063 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2335,8 +2335,6 @@
 ||tagger.opecloud.com^
 ||tagmanager.toast.com^
 ||tagrec.sphdigital.com^
-||tags-eu.tiqcdn.com^
-||tags.tiqcdn.com^
 ||tapad.com^
 ||tapdaq-adverts.global.ssl.fastly.net^
 ||tapdb.com^
@@ -5147,6 +5145,7 @@
 ||grannysteer.com^
 ||grapeshot.co.uk^
 ||greatdexchange.com^
+||greatlove.pro^
 ||greedseed.world^
 ||greenplasticdua.com^
 ||greetzebra.com^
@@ -5643,6 +5642,7 @@
 ||lfeeder.com^
 ||lfstmedia.com^
 ||lgglobal.ihago.net^
+||liaisondegreedaughters.com^
 ||lib.vmweb.net^
 ||libedgolart.com^
 ||liftdna.com^
@@ -6608,6 +6608,7 @@
 ||qbxaebqkg.com^
 ||qctop.com^
 ||qdfxeqhnjuknyy.com^
+||qgicqtyh.com^
 ||qlcdnvkgi.com^
 ||qnsr.com^
 ||qohxtklfmy.com^

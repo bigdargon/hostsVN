@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 22 Dec 2022 09:16 UTC+7
-# Version: 2212220916
-# Blocked: 22,235 domains
+# Last modified: 23 Dec 2022 10:05 UTC+7
+# Version: 2212231005
+# Blocked: 22,236 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10215,6 +10215,7 @@
 0.0.0.0 fb88gateway.com
 0.0.0.0 fb88go.com
 0.0.0.0 fb88hot.com
+0.0.0.0 fb88id.com
 0.0.0.0 fb88ipl.com
 0.0.0.0 fb88live.com
 0.0.0.0 fb88map.com

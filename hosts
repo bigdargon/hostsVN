@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 Dec 2022 09:16 UTC+7
-# Version: 2212220916
-# Blocked: 17,102 domains
+# Last modified: 23 Dec 2022 10:05 UTC+7
+# Version: 2212231005
+# Blocked: 17,103 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10040,9 +10040,6 @@
 #[evolv.ai]
 0.0.0.0 media.evolv.ai
 0.0.0.0 participants.evolv.ai
-#[tiqcdn.com]
-0.0.0.0 tags-eu.tiqcdn.com
-0.0.0.0 tags.tiqcdn.com
 #[maio.jp]
 0.0.0.0 maio.jp
 0.0.0.0 media-api.maio.jp
@@ -15210,6 +15207,7 @@
 0.0.0.0 grannysteer.com
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 greatdexchange.com
+0.0.0.0 greatlove.pro
 0.0.0.0 greenplasticdua.com
 0.0.0.0 greetzebra.com
 0.0.0.0 grewquartersupporting.com
@@ -15651,6 +15649,7 @@
 0.0.0.0 leonodikeu9sj10.com
 0.0.0.0 lettucelimit.com
 0.0.0.0 lfstmedia.com
+0.0.0.0 liaisondegreedaughters.com
 0.0.0.0 lib.vmweb.net
 0.0.0.0 libedgolart.com
 0.0.0.0 liftdna.com
@@ -16503,6 +16502,7 @@
 0.0.0.0 qbxaebqkg.com
 0.0.0.0 qctop.com
 0.0.0.0 qdfxeqhnjuknyy.com
+0.0.0.0 qgicqtyh.com
 0.0.0.0 qlcdnvkgi.com
 0.0.0.0 qnsr.com
 0.0.0.0 qohxtklfmy.com
