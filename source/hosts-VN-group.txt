@@ -1363,3 +1363,18 @@
 #[imacdn.com]
 0.0.0.0 ff.imacdn.com
 0.0.0.0 sponsor.imacdn.com
+#[epicdn.me]
+0.0.0.0 log-giaoducthoidai.epicdn.me
+0.0.0.0 quangcao-thanhnien.epicdn.me
+#[thanhnien.vn]
+0.0.0.0 ads.thanhnien.vn
+0.0.0.0 ai.thanhnien.vn
+0.0.0.0 log.thanhnien.vn
+0.0.0.0 quangcao.thanhnien.vn
+#[tuoitre.vn]
+0.0.0.0 quangcao.tuoitre.vn
+0.0.0.0 s.tuoitre.vn
+#[vnexpress.net]
+0.0.0.0 elogs.vnexpress.net
+0.0.0.0 logperf.vnexpress.net
+0.0.0.0 tracking-amp.vnexpress.net
