@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 23 Dec 2022 10:05 UTC+7
-# Version: 2212231005
-# Blocked: 795 domains
+# Last modified: 25 Dec 2022 22:36 UTC+7
+# Version: 2212252236
+# Blocked: 798 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -138,6 +138,7 @@
 0.0.0.0 cloud27.xyz
 0.0.0.0 cltx.in
 0.0.0.0 cltx19.me
+0.0.0.0 cltx88.com
 0.0.0.0 cltx888.me
 0.0.0.0 clubfiletyc.com
 0.0.0.0 code-garena-vn.com
@@ -578,10 +579,12 @@
 0.0.0.0 thutucnhantienquydoi24h.weebly.com
 0.0.0.0 ticlewesimulate.cfd
 0.0.0.0 tiki136.com
+0.0.0.0 tiki2022.vn
 0.0.0.0 tikictv9.com
 0.0.0.0 tikivip.club
 0.0.0.0 tikivip0001.com
 0.0.0.0 titki55.cc
+0.0.0.0 tk668.com
 0.0.0.0 tpbank.vn-cl.xyz
 0.0.0.0 tpbank.vn-vpb.top
 0.0.0.0 tpbank84.com

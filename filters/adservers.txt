@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Dec 2022 10:33 UTC+7
-! Version: 2212231033
-! Blocked: 803 rules
+! Last modified: 25 Dec 2022 22:36 UTC+7
+! Version: 2212252236
+! Blocked: 804 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -112,6 +112,7 @@
 ||eva-ad.24hstatic.com^
 ||ezca.asia^
 ||ff.imacdn.com^
+||fly-ads.net^
 ||flygame.io^
 ||fuseplatform.net^
 ||gammadsp.com^

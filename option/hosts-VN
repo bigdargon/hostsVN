@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 23 Dec 2022 10:33 UTC+7
-# Version: 2212231033
-# Blocked: 1,723 domains
+# Last modified: 25 Dec 2022 22:36 UTC+7
+# Version: 2212252236
+# Blocked: 1,725 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1390,6 +1390,9 @@
 0.0.0.0 elogs.vnexpress.net
 0.0.0.0 logperf.vnexpress.net
 0.0.0.0 tracking-amp.vnexpress.net
+#[fly-ads.net]
+0.0.0.0 fly-ads.net
+0.0.0.0 tags.fly-ads.net
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
