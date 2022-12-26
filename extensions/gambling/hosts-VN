@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 25 Dec 2022 22:36 UTC+7
-# Version: 2212252236
-# Blocked: 4,383 domains
+# Last modified: 26 Dec 2022 12:08 UTC+7
+# Version: 2212261208
+# Blocked: 4,381 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -405,7 +405,6 @@
 0.0.0.0 alo789.com
 0.0.0.0 alo88.bet
 0.0.0.0 alo888.com
-0.0.0.0 api.016665.com
 0.0.0.0 api.118kbet.com
 0.0.0.0 api.11zalo.com
 0.0.0.0 api.22zalo.com
@@ -3006,7 +3005,6 @@
 0.0.0.0 m.qq8788viet.com
 0.0.0.0 m.red88.com
 0.0.0.0 m.tf88265.com
-0.0.0.0 m.tf88860.co
 0.0.0.0 m.tf88v.com
 0.0.0.0 m.to188xj.com
 0.0.0.0 m.tobet88.net
