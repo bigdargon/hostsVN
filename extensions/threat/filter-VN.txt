@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 01 Jan 2023 22:04 UTC+7
-! Version: 2301012204
-! Blocked: 523 rules
+! Last modified: 04 Jan 2023 23:41 UTC+7
+! Version: 2301042341
+! Blocked: 527 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -162,6 +162,7 @@
 ||garenalqm.com^
 ||garenamembership.com^
 ||getclipabcxyz.com^
+||giaitrimomo.net^
 ||giaodichpostructuyenvn.com^
 ||giaodichtiente247ipay.weebly.com^
 ||giaodichvidientu.com.vn^
@@ -228,6 +229,7 @@
 ||lotte3333.com^
 ||lotte66.com^
 ||lottefinance6.com^
+||lottehanoi.com.vn^
 ||lottevn333.com^
 ||lottevn518.com^
 ||lottevn666.com^
@@ -250,6 +252,7 @@
 ||membershipsgarenavn-ff.com^
 ||menberships-ff-garrena.com^
 ||minhngocc789.com^
+||miu78.me^
 ||mmocorporation2017.com^
 ||momoloto.com^
 ||momosieuhoihoantien.weebly.com^
@@ -339,6 +342,7 @@
 ||shop3535.com^
 ||shop3737.com^
 ||shop5599.com^
+||shopee.ccooppcc.online^
 ||shopee.cnddakm.com^
 ||shopee.lienkettaikhoan.online^
 ||shopee.lienkettaikhoannhanquatang.online^

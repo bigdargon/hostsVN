@@ -10962,3 +10962,13 @@
 0.0.0.0 creative-cdn.oddsserve.com
 0.0.0.0 oddsserve.com
 0.0.0.0 v1.oddsserve.com
+#[xoom-ads.com]
+0.0.0.0 xoom-ads.com
+0.0.0.0 imps.xoom-ads.com
+0.0.0.0 tracking.xoom-ads.com
+0.0.0.0 www.xoom-ads.com
+#[cryptox-ads.io]
+0.0.0.0 cryptox-ads.io
+0.0.0.0 mat.cryptox-ads.io
+0.0.0.0 pub.cryptox-ads.io
+0.0.0.0 sdk-api.cryptox-ads.io

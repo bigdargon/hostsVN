@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Jan 2023 22:04 UTC+7
-# Version: 2301012204
-# Blocked: 1,725 domains
+# Last modified: 04 Jan 2023 23:42 UTC+7
+# Version: 2301042342
+# Blocked: 1,727 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -421,6 +421,9 @@
 #[zingnews.vn]
 0.0.0.0 log.zingnews.vn
 0.0.0.0 za.zingnews.vn
+#[zingnews.com.vn]
+0.0.0.0 log.zingnews.com.vn
+0.0.0.0 za.zingnews.com.vn
 #[zalo.me]
 0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.zalo.me

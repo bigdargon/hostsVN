@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Jan 2023 22:04 UTC+7
-# Version: 2301012204
-# Blocked: 17,126 domains
+# Last modified: 04 Jan 2023 23:42 UTC+7
+# Version: 2301042342
+# Blocked: 17,150 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9724,6 +9724,14 @@
 0 creative-cdn.oddsserve.com
 0 oddsserve.com
 0 v1.oddsserve.com
+0 xoom-ads.com
+0 imps.xoom-ads.com
+0 tracking.xoom-ads.com
+0 www.xoom-ads.com
+0 cryptox-ads.io
+0 mat.cryptox-ads.io
+0 pub.cryptox-ads.io
+0 sdk-api.cryptox-ads.io
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10103,6 +10111,8 @@
 0 zlog.zingmp3.vn
 0 log.zingnews.vn
 0 za.zingnews.vn
+0 log.zingnews.com.vn
+0 za.zingnews.com.vn
 0 ads.platform.zalo.me
 0 ads.zalo.me
 0 api.widget.zalo.me
@@ -12266,6 +12276,7 @@
 0 advideo.uimserv.net
 0 advinapps.com
 0 advinci.co
+0 adviralmedia.com
 0 advisormedia.cz
 0 adviva.com
 0 adviva.net
@@ -13146,6 +13157,7 @@
 0 craveandlamb.com
 0 crawlability.com
 0 crawlclocks.com
+0 crazyabuse.pro
 0 crazypopups.com
 0 creafi-online-media.com
 0 creafi.com
@@ -13440,6 +13452,7 @@
 0 effateuncrisp.com
 0 effectivecpmcontent.com
 0 effectivecpmgate.com
+0 effectivecreativeformat.com
 0 effectivedisplaycontent.com
 0 effectivedisplayformat.com
 0 effectivedisplayformats.com
@@ -14364,6 +14377,7 @@
 0 mas.sector.sk
 0 massive-dark.pro
 0 mastermind.com
+0 mat.luckyspin666.com
 0 matchcraft.com
 0 mathcountryside.com
 0 matheranalytics.com
@@ -14709,6 +14723,7 @@
 0 offclaydolon.com
 0 offerforge.com
 0 offerfusion.com
+0 offergate-apps-publicity.com
 0 offerimage.com
 0 offermatica.com
 0 offoonguser.com
@@ -14977,6 +14992,7 @@
 0 potenza.cz
 0 powerad.ai
 0 ppfrlfe.com
+0 pqplkjwwezfrn.com
 0 pr-star.de
 0 pr-ten.de
 0 praddpro.de
@@ -15310,6 +15326,7 @@
 0 ruwertur.com
 0 rvkthygqhe.com
 0 rvrpushserv.com
+0 rwturquxinm.com
 0 rxpsaofevrikmi.com
 0 ryeeffortoccupy.com
 0 ryeqnyvbncdvg.com
@@ -15969,6 +15986,7 @@
 0 upspinarakor.com
 0 uptrendsdata.com
 0 urechar.com
+0 urimnugocfr.com
 0 urlcash.net
 0 uruswan.com
 0 us.claroadsxml.com
@@ -16245,6 +16263,7 @@
 0 www.doubleclickbygoogle.com
 0 www.dynamicadx.com
 0 www.ecpms.net
+0 www.effectivecreativeformat.com
 0 www.emjcd.com
 0 www.eo62cocntx.com
 0 www.epi0tzwi.com
@@ -16320,6 +16339,7 @@
 0 www.zxc.world
 0 wyvpjsfhywm.com
 0 wywy.com
+0 wzuisptxzqbb.com
 0 x-traceur.com
 0 x2sfa.javgg.eu
 0 xad.com
@@ -16338,6 +16358,7 @@
 0 xius.com
 0 xkesalwueyz.com
 0 xlviiirdr.com
+0 xmkmuadkefzav.com
 0 xovq5nemr.com
 0 xpbbyiqbcawamy.com
 0 xplosion.de
@@ -16441,6 +16462,7 @@
 0 zmedia.com
 0 zoosnet.net
 0 zorprhbnwbezie.com
+0 zpbhjatpnaovj.com
 0 zrljkhcwhxhh.com
 0 zumobi.com
 0 zuphaims.com
@@ -16477,6 +16499,7 @@
 0 analytics.agoda.com
 0 analytics.ahrefs.com
 0 analytics.alright.network
+0 analytics.amazing-media.com
 0 analytics.archive.org
 0 analytics.bitrix.info
 0 analytics.ccgateway.net
@@ -16510,6 +16533,7 @@
 0 analytics.poolshool.com
 0 analytics.posttv.com
 0 analytics.publitas.com
+0 analytics.ravelz.com
 0 analytics.s.id
 0 analytics.samdd.me
 0 analytics.samsungknox.com
