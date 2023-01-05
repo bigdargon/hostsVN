@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 05 Jan 2023 14:23 UTC+7
-# Version: 2301051423
-# Blocked: 4,540 domains
+# Last modified: 05 Jan 2023 16:18 UTC+7
+# Version: 2301051618
+# Blocked: 4,559 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -238,6 +238,7 @@
 0.0.0.0 88vnd.com
 0.0.0.0 88vwin.com
 0.0.0.0 890ae888.com
+0.0.0.0 898bet1.com
 0.0.0.0 8daily8.com
 0.0.0.0 8day.bet
 0.0.0.0 8day.com
@@ -439,6 +440,7 @@
 0.0.0.0 api.888ae888.com
 0.0.0.0 api.88bet88bet.com
 0.0.0.0 api.88new.cc
+0.0.0.0 api.898bet1.com
 0.0.0.0 api.99vn.bet
 0.0.0.0 api.ae888.com
 0.0.0.0 api.ae88827.com
@@ -455,6 +457,7 @@
 0.0.0.0 api.dabet.club
 0.0.0.0 api.f8bet0.com
 0.0.0.0 api.f8bet5.com
+0.0.0.0 api.hb8887.com
 0.0.0.0 api.hb88h.com
 0.0.0.0 api.hb88p.com
 0.0.0.0 api.i8bet.org
@@ -521,6 +524,7 @@
 0.0.0.0 b29qc.win
 0.0.0.0 b52.vip
 0.0.0.0 b52.win
+0.0.0.0 b52d.club
 0.0.0.0 b88ag.com
 0.0.0.0 b89.bet
 0.0.0.0 banca-red88.top
@@ -561,6 +565,7 @@
 0.0.0.0 bigbet0015.com
 0.0.0.0 bigk8th888.com
 0.0.0.0 bk8.live
+0.0.0.0 bk88safe.com
 0.0.0.0 bk8bongda.com
 0.0.0.0 bk8c.com
 0.0.0.0 bk8go.com
@@ -569,9 +574,11 @@
 0.0.0.0 bk8i.com
 0.0.0.0 bk8p.com
 0.0.0.0 bk8ping.com
+0.0.0.0 bk8so1.com
 0.0.0.0 bk8vie.com
 0.0.0.0 bk8viet.com
 0.0.0.0 bk8vietnam.com
+0.0.0.0 bk8vip1.com
 0.0.0.0 bk8vn.com
 0.0.0.0 bk8vn.live
 0.0.0.0 bk8vn.vip
@@ -915,6 +922,7 @@
 0.0.0.0 game.789a.club
 0.0.0.0 game.789d.club
 0.0.0.0 game.b52.win
+0.0.0.0 game.b52d.club
 0.0.0.0 game.taib52.com
 0.0.0.0 game.v99win.app
 0.0.0.0 game69.top
@@ -923,6 +931,7 @@
 0.0.0.0 gameb52.live
 0.0.0.0 gameb52.pro
 0.0.0.0 gamebai.club
+0.0.0.0 gamebai.manclub.us
 0.0.0.0 gamebai.manclub.vin
 0.0.0.0 gamedoithuong.org
 0.0.0.0 gameiwin.vip
@@ -981,6 +990,7 @@
 0.0.0.0 happy9luck.com
 0.0.0.0 happynb.com
 0.0.0.0 hb8875.com
+0.0.0.0 hb8887.com
 0.0.0.0 hb88p.com
 0.0.0.0 hi.oppa888.com
 0.0.0.0 hi888.app
@@ -3158,6 +3168,7 @@
 0.0.0.0 maint.v79top.com
 0.0.0.0 man.club
 0.0.0.0 manclub.live
+0.0.0.0 manclub.us
 0.0.0.0 manclub.vin
 0.0.0.0 manclubwin.club
 0.0.0.0 manclubwin.uk
@@ -3191,6 +3202,7 @@
 0.0.0.0 mibet.win
 0.0.0.0 mibet88.com
 0.0.0.0 mibet88.win
+0.0.0.0 mig8fans.com
 0.0.0.0 mig8vn.com
 0.0.0.0 minigame.vnloto.com
 0.0.0.0 mix79.vip
@@ -3827,6 +3839,7 @@
 0.0.0.0 vnclub88.live
 0.0.0.0 vnd188.app
 0.0.0.0 vnd1888.com
+0.0.0.0 vnd88vip.com
 0.0.0.0 vndaga88.com
 0.0.0.0 vndbet88.com
 0.0.0.0 vndbetway.com
@@ -4039,6 +4052,7 @@
 0.0.0.0 www.88vnd.com
 0.0.0.0 www.88vwin.com
 0.0.0.0 www.890ae888.com
+0.0.0.0 www.898bet1.com
 0.0.0.0 www.8day.com
 0.0.0.0 www.8dayclub.com
 0.0.0.0 www.8kbet.vn
@@ -4099,15 +4113,18 @@
 0.0.0.0 www.betvietnam.info
 0.0.0.0 www.betvisa.com
 0.0.0.0 www.big88.one
+0.0.0.0 www.bk88safe.com
 0.0.0.0 www.bk8bongda.com
 0.0.0.0 www.bk8h.com
 0.0.0.0 www.bk8hot.com
 0.0.0.0 www.bk8i.com
 0.0.0.0 www.bk8p.com
 0.0.0.0 www.bk8ping.com
+0.0.0.0 www.bk8so1.com
 0.0.0.0 www.bk8vie.com
 0.0.0.0 www.bk8viet.com
 0.0.0.0 www.bk8vietnam.com
+0.0.0.0 www.bk8vip1.com
 0.0.0.0 www.bk8vn.com
 0.0.0.0 www.bk8vn.live
 0.0.0.0 www.bk8vn.vip
@@ -4200,6 +4217,7 @@
 0.0.0.0 www.goal86.top
 0.0.0.0 www.h3bet.com
 0.0.0.0 www.happynb.com
+0.0.0.0 www.hb8887.com
 0.0.0.0 www.hb88g.com
 0.0.0.0 www.hb88h.com
 0.0.0.0 www.hb88p.com
@@ -4430,6 +4448,7 @@
 0.0.0.0 www.vn88vui.live
 0.0.0.0 www.vnbong88.live
 0.0.0.0 www.vnd88hn.com
+0.0.0.0 www.vnd88vip.com
 0.0.0.0 www.vndbet88.com
 0.0.0.0 www.vndbetway.com
 0.0.0.0 www.vnloto.com

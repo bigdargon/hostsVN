@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 05 Jan 2023 14:23 UTC+7
-! Version: 2301051423
-! Blocked: 4,058 rules
+! Last modified: 05 Jan 2023 16:18 UTC+7
+! Version: 2301051618
+! Blocked: 4,071 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -238,6 +238,7 @@
 ||88vnd.com^
 ||88vwin.com^
 ||890ae888.com^
+||898bet1.com^
 ||8daily8.com^
 ||8day.bet^
 ||8day.com^
@@ -442,6 +443,7 @@
 ||api.888ae888.com^
 ||api.88bet88bet.com^
 ||api.88new.cc^
+||api.898bet1.com^
 ||api.99vn.bet^
 ||api.ae888.com^
 ||api.ae88827.com^
@@ -458,6 +460,7 @@
 ||api.dabet.club^
 ||api.f8bet0.com^
 ||api.f8bet5.com^
+||api.hb8887.com^
 ||api.hb88h.com^
 ||api.hb88p.com^
 ||api.i8bet.org^
@@ -524,6 +527,7 @@
 ||b29qc.win^
 ||b52.vip^
 ||b52.win^
+||b52d.club^
 ||b88ag.com^
 ||b89.bet^
 ||banca-red88.top^
@@ -565,6 +569,7 @@
 ||bigbet0015.com^
 ||bigk8th888.com^
 ||bk8.live^
+||bk88safe.com^
 ||bk8bongda.com^
 ||bk8c.com^
 ||bk8go.com^
@@ -573,9 +578,11 @@
 ||bk8i.com^
 ||bk8p.com^
 ||bk8ping.com^
+||bk8so1.com^
 ||bk8vie.com^
 ||bk8viet.com^
 ||bk8vietnam.com^
+||bk8vip1.com^
 ||bk8vn.com^
 ||bk8vn.live^
 ||bk8vn.vip^
@@ -919,6 +926,7 @@
 ||game.789a.club^
 ||game.789d.club^
 ||game.b52.win^
+||game.b52d.club^
 ||game.taib52.com^
 ||game.v99win.app^
 ||game69.top^
@@ -927,6 +935,7 @@
 ||gameb52.live^
 ||gameb52.pro^
 ||gamebai.club^
+||gamebai.manclub.us^
 ||gamebai.manclub.vin^
 ||gamedoithuong.org^
 ||gameiwin.vip^
@@ -986,6 +995,7 @@
 ||happy9luck.com^
 ||happynb.com^
 ||hb8875.com^
+||hb8887.com^
 ||hb88g.com^
 ||hb88h.com^
 ||hb88p.com^
@@ -3167,6 +3177,7 @@
 ||maint.v79top.com^
 ||man.club^
 ||manclub.live^
+||manclub.us^
 ||manclub.vin^
 ||manclubwin.club^
 ||manclubwin.uk^
@@ -3200,6 +3211,7 @@
 ||mibet.win^
 ||mibet88.com^
 ||mibet88.win^
+||mig8fans.com^
 ||mig8vn.com^
 ||minigame.vnloto.com^
 ||mix79.vip^
@@ -3845,6 +3857,7 @@
 ||vnd188.app^
 ||vnd1888.com^
 ||vnd88hn.com^
+||vnd88vip.com^
 ||vndaga88.com^
 ||vndbet88.com^
 ||vndbetway.com^
