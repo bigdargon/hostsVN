@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Jan 2023 09:41 UTC+7
-! Version: 2301050941
-! Blocked: 8,109 rules
+! Last modified: 05 Jan 2023 14:04 UTC+7
+! Version: 2301051404
+! Blocked: 8,108 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -129,7 +129,6 @@
 ||haraloyalty.com^
 ||hbplatform.com^
 ||hotngay.vn^
-||ipcc-vnp1.vnptmedia.vn^
 ||ipcc.mytv.com.vn^
 ||ipcc.shop.vnpt.vn^
 ||ipcc.vinaphone.com.vn^

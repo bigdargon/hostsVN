@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Jan 2023 09:41 UTC+7
-# Version: 2301050941
-# Blocked: 1,727 domains
+# Last modified: 05 Jan 2023 14:04 UTC+7
+# Version: 2301051404
+# Blocked: 1,726 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1342,7 +1342,6 @@
 #[vnptmedia.vn]
 0.0.0.0 cjm.vnptmedia.vn
 0.0.0.0 cjmgw.vnptmedia.vn
-0.0.0.0 ipcc-vnp1.vnptmedia.vn
 0.0.0.0 ipcc.vnptmedia.vn
 0.0.0.0 ipccegov.vnptmedia.vn
 #[mytvnet.vn]
