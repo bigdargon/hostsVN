@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Jan 2023 23:42 UTC+7
-# Version: 2301042342
-# Blocked: 17,150 domains
+# Last modified: 05 Jan 2023 09:41 UTC+7
+# Version: 2301050941
+# Blocked: 17,166 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10984,6 +10984,23 @@
 0.0.0.0 mat.cryptox-ads.io
 0.0.0.0 pub.cryptox-ads.io
 0.0.0.0 sdk-api.cryptox-ads.io
+#[brznetwork.com]
+0.0.0.0 advm.brznetwork.com
+0.0.0.0 advs.brznetwork.com
+0.0.0.0 brznetwork.com
+#[fpjs.io]
+0.0.0.0 api.fpjs.io
+0.0.0.0 fpjs.io
+#[fptls.com]
+0.0.0.0 fptls.com
+0.0.0.0 aps1.fptls.com
+0.0.0.0 eun1.fptls.com
+0.0.0.0 use1.fptls.com
+#[fptls2.com]
+0.0.0.0 fptls2.com
+0.0.0.0 aps1.fptls2.com
+0.0.0.0 eun1.fptls2.com
+0.0.0.0 use1.fptls2.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14670,6 +14687,7 @@
 0.0.0.0 daincautela.com
 0.0.0.0 daisycontroversy.com
 0.0.0.0 dakic-ia-300.com
+0.0.0.0 damaged-shop.pro
 0.0.0.0 damdoor.com
 0.0.0.0 danban.com
 0.0.0.0 danbo.org
@@ -17098,6 +17116,7 @@
 0.0.0.0 swordfishdc.com
 0.0.0.0 swordgoose.com
 0.0.0.0 swpsvc.com
+0.0.0.0 swrggntsvmsgv.com
 0.0.0.0 sya9yncn3q.com
 0.0.0.0 syenitetatler.tech
 0.0.0.0 sync.quantumdex.io
@@ -18125,6 +18144,7 @@
 0.0.0.0 fathomseo.com
 0.0.0.0 firsthive.com
 0.0.0.0 flagcounter.com
+0.0.0.0 fpnpmcdn.net
 0.0.0.0 front.optimonk.com
 0.0.0.0 fullstory.com
 0.0.0.0 g.3gl.net
