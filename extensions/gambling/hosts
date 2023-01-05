@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 05 Jan 2023 09:41 UTC+7
-# Version: 2301050941
-# Blocked: 24,120 domains
+# Last modified: 05 Jan 2023 14:23 UTC+7
+# Version: 2301051423
+# Blocked: 24,131 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -755,6 +755,7 @@
 0.0.0.0 123b02.com
 0.0.0.0 123b03.com
 0.0.0.0 123b04.com
+0.0.0.0 123b05.com
 0.0.0.0 123b06.com
 0.0.0.0 123b111.com
 0.0.0.0 123b333.com
@@ -1598,6 +1599,7 @@
 0.0.0.0 1xbet.cm
 0.0.0.0 1xbet.co.ke
 0.0.0.0 1xbet.com
+0.0.0.0 1xbet.com.gh
 0.0.0.0 1xbet.dj
 0.0.0.0 1xbet.games
 0.0.0.0 1xbet.gf
@@ -4875,6 +4877,8 @@
 0.0.0.0 6999608.com
 0.0.0.0 6999kbet.com
 0.0.0.0 69bygj.com
+0.0.0.0 69vip2.com
+0.0.0.0 69vn111.com
 0.0.0.0 6ana1vo43.com
 0.0.0.0 6bet88.net
 0.0.0.0 6betvn.com
@@ -7018,6 +7022,7 @@
 0.0.0.0 978bet06.com
 0.0.0.0 978bet07.com
 0.0.0.0 978bet12.com
+0.0.0.0 978bet22.com
 0.0.0.0 978bet29.com
 0.0.0.0 978bet3.com
 0.0.0.0 978bet30.com
@@ -12279,6 +12284,7 @@
 0.0.0.0 guru69.com
 0.0.0.0 gv5x.com
 0.0.0.0 gw.zbet.com
+0.0.0.0 gwin.pro
 0.0.0.0 gwin18.com
 0.0.0.0 gyt.global
 0.0.0.0 gyzgdl.cn
@@ -18197,6 +18203,7 @@
 0.0.0.0 onbet111.com
 0.0.0.0 onbet2.com
 0.0.0.0 onbet5.com
+0.0.0.0 onbet55.com
 0.0.0.0 onbet7.com
 0.0.0.0 onbetna.com
 0.0.0.0 onbetsam.com
@@ -18595,6 +18602,7 @@
 0.0.0.0 pp9416.com
 0.0.0.0 pph777.com
 0.0.0.0 ppp9416.com
+0.0.0.0 pragmaticplay.com
 0.0.0.0 predictfifa.com
 0.0.0.0 premierbet.me
 0.0.0.0 premierewagers444.com
@@ -20218,6 +20226,7 @@
 0.0.0.0 tbneimeng.com
 0.0.0.0 tbningxia.com
 0.0.0.0 tbqinghai.com
+0.0.0.0 tbr11.com
 0.0.0.0 tbsbet.com
 0.0.0.0 tbsbet2.com
 0.0.0.0 tbshandong.com
@@ -21235,6 +21244,7 @@
 0.0.0.0 vipybh6.com
 0.0.0.0 virtualman.xyz
 0.0.0.0 vistmy188.com
+0.0.0.0 viu88.com
 0.0.0.0 viva178.net
 0.0.0.0 viva24x7.com
 0.0.0.0 viva588.com
@@ -22563,6 +22573,7 @@
 0.0.0.0 www.oxbet.club
 0.0.0.0 www.oxbet.com
 0.0.0.0 www.playdsb.com
+0.0.0.0 www.pragmaticplay.com
 0.0.0.0 www.qh205.com
 0.0.0.0 www.qh215.com
 0.0.0.0 www.qh217.com

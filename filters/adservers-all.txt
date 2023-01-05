@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Jan 2023 14:04 UTC+7
-! Version: 2301051404
-! Blocked: 8,108 rules
+! Last modified: 05 Jan 2023 14:41 UTC+7
+! Version: 2301051441
+! Blocked: 8,098 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -93,9 +93,6 @@
 ||cheap-ads.net^
 ||cityads.com^
 ||cityadstrack.com^
-||cjm.mytv.vn^
-||cjm.vnptmedia.vn^
-||cjmgw.vnptmedia.vn^
 ||cleverads.vn^
 ||clevernet.vn^
 ||cococx.com^
@@ -129,13 +126,6 @@
 ||haraloyalty.com^
 ||hbplatform.com^
 ||hotngay.vn^
-||ipcc.mytv.com.vn^
-||ipcc.shop.vnpt.vn^
-||ipcc.vinaphone.com.vn^
-||ipcc.vinaphoneplus.com.vn^
-||ipcc.vnpt.com.vn^
-||ipcc.vnptmedia.vn^
-||ipccegov.vnptmedia.vn^
 ||itim.vn^
 ||jeoway.com^
 ||js.aiservice.vn^
