@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 09 Jan 2023 11:51 UTC+7
-! Version: 2301091151
-! Blocked: 4,071 rules
+! Last modified: 09 Jan 2023 15:48 UTC+7
+! Version: 2301091548
+! Blocked: 4,095 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -107,6 +107,7 @@
 ||22zalo.com^
 ||2826.bet^
 ||29999y.com^
+||331725.com^
 ||338kbet.com^
 ||33beta.com^
 ||33betad.com^
@@ -154,7 +155,14 @@
 ||68b3.club^
 ||68rich.com^
 ||68rich.org^
-||69vip2.com^
+||69dinhtruong.com^
+||69ducthien.com^
+||69hoanglam.com^
+||69huyhoang.com^
+||69minhduc.com^
+||69nguyenhuuphuoc.com^
+||69nguyenvanduc.com^
+||69truonghuunguyen.com^
 ||766one.com^
 ||7744789.com^
 ||776loc.com^
@@ -218,6 +226,7 @@
 ||888b.trade^
 ||888betk8.net^
 ||888k8vn.com^
+||888thao.com^
 ||889ae888.com^
 ||88bet.vin^
 ||88bet58.com^
@@ -231,7 +240,11 @@
 ||88new.cc^
 ||88online.live^
 ||88online.me^
+||88quay.com^
+||88quayclub.com^
+||88sports88.com^
 ||88thaicasinoslots.com^
+||88thao88.com^
 ||88uu.app^
 ||88viet.com^
 ||88vin.zone^
@@ -270,6 +283,7 @@
 ||8icuu.com^
 ||8kbet.app^
 ||8kbet.vn^
+||8live.club^
 ||8live.com^
 ||8live.fun^
 ||8live.net^
@@ -277,6 +291,7 @@
 ||8live.us^
 ||8live.vip^
 ||8livevn.com^
+||8thao8.com^
 ||8x055.com^
 ||8xbet.cc^
 ||8xbet.com^
@@ -290,12 +305,6 @@
 ||8xbet05.com^
 ||8xbet06.com^
 ||8xbet11.com^
-||8xbet115.com^
-||8xbet22.com^
-||8xbet5.com^
-||8xbet71.com^
-||8xbet888.com^
-||8xbet96.com^
 ||910833.com^
 ||92lottery.com^
 ||92lottery.mobi^
@@ -1007,6 +1016,18 @@
 ||hi88vip4.com^
 ||hi88vip7.com^
 ||hi88vip8.com^
+||hl8.daily123hl8.com^
+||hl8atm.com^
+||hl8bai.com^
+||hl8bongda.com^
+||hl8casino.com^
+||hl8club.com^
+||hl8hn.com^
+||hl8lucky.com^
+||hl8media.com^
+||hl8thai8.com^
+||hl8vi.com^
+||hl8vn.fun^
 ||hm.fabet.vip^
 ||hotlive8.vip^
 ||hplay.fabet.me^
@@ -2944,6 +2965,7 @@
 ||kingfun247.net^
 ||kkfffddd.com^
 ||km.playmanclub.vin^
+||km1888866b.com^
 ||km238b.com^
 ||kmisa68.com^
 ||ktokto.mobi^
@@ -3668,7 +3690,7 @@
 ||tangl0c.8day66.com^
 ||tap88.club^
 ||tbab395.com^
-||tbr11.com^
+||tbr.games^
 ||tf2022v.com^
 ||tf88265.com^
 ||tf88632.com^
@@ -3693,6 +3715,8 @@
 ||thailanthwin.net^
 ||thangtien188bet.com^
 ||thantai68.com^
+||thao88.com^
+||thao888.com^
 ||thehotlive.com^
 ||thethao.sin88.biz^
 ||thethao188bet.com^

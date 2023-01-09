@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 09 Jan 2023 11:51 UTC+7
-! Version: 2301091151
-! Blocked: 2,617 rules
+! Last modified: 09 Jan 2023 15:48 UTC+7
+! Version: 2301091548
+! Blocked: 2,624 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -163,6 +163,7 @@
 ||clip-sex.biz^
 ||clip3xxx.com^
 ||clipchich.com^
+||cliphot-vn.com^
 ||cliphot.biz^
 ||cliphot.cc^
 ||cliphot.live^
@@ -175,6 +176,7 @@
 ||cliphotne.com^
 ||cliphotqua.com^
 ||cliphotvn.com^
+||cliphotvn.org^
 ||cliphubs.com^
 ||clipnong.blog^
 ||clipnong.club^
@@ -200,6 +202,7 @@
 ||clipsexhot.org^
 ||clipsexmoi.com^
 ||clipsextop.com^
+||clipsexviet.live^
 ||clipsexviet.xyz^
 ||clipsexvn.me^
 ||clipsexvn.net^
@@ -622,6 +625,7 @@
 ||javnhatban.pro^
 ||javnoi.xyz^
 ||javnong.cc^
+||javnong.top^
 ||javnong.xyz^
 ||javphe.cc^
 ||javphim.cam^
@@ -681,6 +685,7 @@
 ||khieudam.club^
 ||khoailac.net^
 ||khoanhnguoinoitieng.blogspot.com^
+||khohieu.com^
 ||khongche.net^
 ||khongche.us^
 ||khophim1080.com^
@@ -762,6 +767,7 @@
 ||manggaigoi.info^
 ||manhwa24h.com^
 ||manhwa24hs.com^
+||manhwa24hz.com^
 ||manquynh.com^
 ||massagebinhduong.vipvn.net^
 ||massagegayhcm.110.vn^
@@ -1760,6 +1766,7 @@
 ||sexquaylen.me^
 ||sexquaylen.org^
 ||sexquaylen123.com^
+||sexsb.xyz^
 ||sexshort.app^
 ||sexshort.com^
 ||sexso1.info^
