@@ -7874,6 +7874,11 @@
 0.0.0.0 api16-log-gcp.pangle.io
 0.0.0.0 api16-log-sg.pangle.io
 0.0.0.0 pangle.io
+#[pangle-b.io]
+0.0.0.0 api16-access-gcp.pangle-b.io
+0.0.0.0 api16-access-sg.pangle-b.io
+0.0.0.0 api16-log-sg.pangle-b.io
+0.0.0.0 pangle-b.io
 #[snigelweb.com]
 0.0.0.0 adengine.snigelweb.com
 0.0.0.0 cdn.snigelweb.com

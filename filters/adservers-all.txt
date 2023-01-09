@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Jan 2023 15:48 UTC+7
-! Version: 2301091548
-! Blocked: 8,108 rules
+! Last modified: 09 Jan 2023 22:10 UTC+7
+! Version: 2301092210
+! Blocked: 8,111 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2029,6 +2029,7 @@
 ||pagead-tpc.l.google.com^
 ||pagead.l.google.com^
 ||pages-stats.rbl.ms^
+||pangle-b.io^
 ||pangle.io^
 ||parkingcrew.net^
 ||parrable.com^
@@ -6280,6 +6281,7 @@
 ||outkickanoxic.com^
 ||outloginequity.com^
 ||outlookabsorb.com^
+||outrageousmeet.pro^
 ||outrotomr.com^
 ||outsliggooa.com^
 ||outtimburrtor.com^
@@ -7990,6 +7992,7 @@
 ||xkesalwueyz.com^
 ||xlviiirdr.com^
 ||xmkmuadkefzav.com^
+||xmvftaoz.com^
 ||xovq5nemr.com^
 ||xpbbyiqbcawamy.com^
 ||xplosion.de^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 09 Jan 2023 15:48 UTC+7
-! Version: 2301091548
-! Blocked: 4,095 rules
+! Last modified: 09 Jan 2023 22:09 UTC+7
+! Version: 2301092209
+! Blocked: 4,097 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3082,6 +3082,7 @@
 ||lucky88.win^
 ||lux39.club^
 ||lux888.club^
+||lxviet66.com^
 ||m-static.ktokto.mobi^
 ||m.123b.bet^
 ||m.188sbsoccer.com^
@@ -3128,6 +3129,7 @@
 ||m.lode88.vip^
 ||m.lucky88.com^
 ||m.lucky88.net^
+||m.lxviet66.com^
 ||m.m88my.com^
 ||m.m88vina.com^
 ||m.mansion66.com^
