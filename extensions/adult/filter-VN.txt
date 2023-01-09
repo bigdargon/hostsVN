@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 05 Jan 2023 21:57 UTC+7
-! Version: 2301052157
-! Blocked: 2,615 rules
+! Last modified: 09 Jan 2023 11:51 UTC+7
+! Version: 2301091151
+! Blocked: 2,617 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -549,6 +549,7 @@
 ||img.phimloz.tv^
 ||img.phimtxx.net^
 ||info.xnxx.gold^
+||ishg.xyz^
 ||japanhdv.biz^
 ||jav-phim.com^
 ||jav.ffmgu.ru^
@@ -1986,6 +1987,7 @@
 ||tinwin.club^
 ||titdam.tv^
 ||tk66.app^
+||tk66.tv^
 ||tk66vn.com^
 ||tkaz.net^
 ||top10jav.com^

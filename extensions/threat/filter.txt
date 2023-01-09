@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Jan 2023 21:57 UTC+7
-! Version: 2301052157
-! Blocked: 752 rules
+! Last modified: 09 Jan 2023 11:51 UTC+7
+! Version: 2301091151
+! Blocked: 755 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -327,6 +327,7 @@
 ||kirov1.xyz^
 ||kuyhaa-me.pw^
 ||la533.com^
+||la7168.com^
 ||la9435.com^
 ||ladsblue.com^
 ||largerinscale.cfd^
@@ -637,6 +638,7 @@
 ||vcbdlgrcbonk.com^
 ||vcbigdank.com^
 ||vebo123.vip^
+||vebo1s.co^
 ||vebo8386.me^
 ||vg99.co^
 ||vhcmc2.xyz^
@@ -717,6 +719,7 @@
 ||vongquaymienphi.net^
 ||vongquaythuongfreefire.com^
 ||vongquaytrungthu.com^
+||vp111.vip^
 ||vpbank.com.vn-hc.info^
 ||vpbank.com.vn-rb.icu^
 ||vpbank.com.vn-rn.biz^
