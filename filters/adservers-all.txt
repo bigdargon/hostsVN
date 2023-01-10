@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Jan 2023 22:10 UTC+7
-! Version: 2301092210
-! Blocked: 8,111 rules
+! Last modified: 10 Jan 2023 11:48 UTC+7
+! Version: 2301101148
+! Blocked: 8,114 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2730,6 +2730,7 @@
 ||ad.virtual-nights.com^
 ||ad.weatherbug.com^
 ||ad.wz.cz^
+||ad.xmmnsl.com^
 ||ad.xrea.com^
 ||ad.zanox.com^
 ||ad.zuimeitianqi.com^
@@ -4775,6 +4776,7 @@
 ||eggnogsicerya.com^
 ||eggsosgum.site^
 ||eghnybyvn.com^
+||egikoilnbwk.com^
 ||egistonemes.com^
 ||egreephu.com^
 ||ehealthcaresolutions.com^
@@ -5539,6 +5541,7 @@
 ||js.go2sdk.com^
 ||js.hscollectedforms.net^
 ||js.hsleadflows.net^
+||js.xzjhome.cc^
 ||jscdn.greeter.me^
 ||jsonip.com^
 ||jtkctpvlsilycn.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 09 Jan 2023 22:09 UTC+7
-! Version: 2301092209
-! Blocked: 530 rules
+! Last modified: 10 Jan 2023 11:47 UTC+7
+! Version: 2301101147
+! Blocked: 531 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -136,6 +136,7 @@
 ||ebanking.wiopm.com^
 ||eventlqvn.com^
 ||face-book.co^
+||facebookk.life^
 ||fccomvn.com^
 ||fe.lwcvn.com^
 ||ff-member-ganena.com^

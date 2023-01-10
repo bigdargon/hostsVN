@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 09 Jan 2023 22:09 UTC+7
-# Version: 2301092209
-# Blocked: 805 domains
+# Last modified: 10 Jan 2023 11:47 UTC+7
+# Version: 2301101147
+# Blocked: 806 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -222,6 +222,7 @@
 0.0.0.0 essbritanidim.club
 0.0.0.0 eventlqvn.com
 0.0.0.0 face-book.co
+0.0.0.0 facebookk.life
 0.0.0.0 fairu-blog.com
 0.0.0.0 fairu-blog.xyz
 0.0.0.0 fairu-cdn.com
