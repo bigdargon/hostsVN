@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Jan 2023 11:48 UTC+7
-# Version: 2301101148
-# Blocked: 17,167 domains
+# Last modified: 12 Jan 2023 11:52 UTC+7
+# Version: 2301121152
+# Blocked: 17,166 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8942,9 +8942,7 @@
 0 0i0i0i0.com
 0 u50.0i0i0i0.com
 0 log.api.useinsider.com
-0 mobile.useinsider.com
 0 mobileanalytics.useinsider.com
-0 useinsider.com
 0 ad-serve.b-cdn.net
 0 adstatic.b-cdn.net
 0 heoads.b-cdn.net
@@ -14485,6 +14483,7 @@
 0 mintrace.com
 0 mirishkeeps.com
 0 misstrends.com
+0 mitozzwi.com
 0 miva.com
 0 mixandfun.com
 0 mixedreading.com
