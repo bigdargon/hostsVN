@@ -5,6 +5,7 @@
 #facebook
 ^https?://graph.facebook.com/.+activities
 ^https?://graph.facebook.com/.+advertiser
+^https?://graph.facebook.com/.+conversion
 ^https?://graph.facebook.com/.+events
 ^https?://graph.facebook.com/.+metrics
 ^https?://graph.facebook.com/.+mobile_sdk_gk

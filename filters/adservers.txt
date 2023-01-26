@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Jan 2023 12:16 UTC+7
-! Version: 2301131216
-! Blocked: 795 rules
+! Last modified: 26 Jan 2023 17:53 UTC+7
+! Version: 2301261753
+! Blocked: 800 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -163,6 +163,7 @@
 ||mautic.*.vn^
 ||mautic.hubs.vn^
 ||mclick.mobi^
+||mda.zadn.vn^
 ||mediad.asia^
 ||mediaz.asia^
 ||mediaz.vn^
@@ -256,6 +257,7 @@
 ||tebrand.asia^
 ||tebrand.vn^
 ||testcentre.vn^
+||tjme.io^
 ||tpmedia.online^
 ||track.accesstrade.vn^
 ||tracker-mw-zlivestream.zapps.vn^
@@ -630,6 +632,7 @@
 ||menu.metu.vn^
 ||microad.vn^
 ||mkt.hoanghamobile.com^
+||mme.zedcdn.me^
 ||mobileads.dieuviet.com^
 ||monitor.teko.vn^
 ||mto.cgv.vn^
@@ -672,6 +675,7 @@
 ||s.homedy.com^
 ||s.kenh14.vn^
 ||s.soha.vn^
+||s.zzcdn.me^
 ||s1.zzz.vn^
 ||sbbanner.com^
 ||sda.tamdiem247.com^
@@ -801,3 +805,4 @@
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||za.baomoi.com^
 ||zigzag.vn^
+||ztrck.me^

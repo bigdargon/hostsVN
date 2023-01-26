@@ -5025,7 +5025,10 @@
 0.0.0.0 aj1549.online
 0.0.0.0 aj1559.online
 0.0.0.0 aj1591.online
+0.0.0.0 aj1602.online
+0.0.0.0 aj1616.online
 0.0.0.0 aj1621.online
+0.0.0.0 aj1622.online
 0.0.0.0 aj1686.online
 0.0.0.0 aj1754.online
 0.0.0.0 aj1775.online
@@ -5035,8 +5038,58 @@
 0.0.0.0 aj1937.online
 0.0.0.0 aj1985.online
 0.0.0.0 aj1987.online
+#[aj2*.online]
+0.0.0.0 aj2125.online
+0.0.0.0 aj2131.online
+0.0.0.0 aj2141.online
+0.0.0.0 aj2142.online
+0.0.0.0 aj2210.online
+0.0.0.0 aj2214.online
+0.0.0.0 aj2218.online
+0.0.0.0 aj2234.online
+0.0.0.0 aj2274.online
+0.0.0.0 aj2281.online
+0.0.0.0 aj2284.online
+0.0.0.0 aj2294.online
+0.0.0.0 aj2307.online
+0.0.0.0 aj2313.online
+0.0.0.0 aj2345.online
+0.0.0.0 aj2347.online
+0.0.0.0 aj2377.online
+0.0.0.0 aj2388.online
+0.0.0.0 aj2389.online
+0.0.0.0 aj2395.online
+0.0.0.0 aj2396.online
+0.0.0.0 aj2399.online
+0.0.0.0 aj2402.online
+0.0.0.0 aj2403.online
+0.0.0.0 aj2410.online
+0.0.0.0 aj2424.online
+0.0.0.0 aj2426.online
+0.0.0.0 aj2431.online
+0.0.0.0 aj2432.online
+0.0.0.0 aj2493.online
+0.0.0.0 aj2494.online
+0.0.0.0 aj2496.online
+0.0.0.0 aj2497.online
+0.0.0.0 aj2498.online
+0.0.0.0 aj2499.online
+0.0.0.0 aj2500.online
+0.0.0.0 aj2501.online
+0.0.0.0 aj2502.online
+0.0.0.0 aj2503.online
+0.0.0.0 aj2504.online
+0.0.0.0 aj2505.online
+0.0.0.0 aj2506.online
+0.0.0.0 aj2507.online
+0.0.0.0 aj2508.online
+0.0.0.0 aj2509.online
+0.0.0.0 aj2510.online
+0.0.0.0 aj2511.online
+0.0.0.0 aj2512.online
 #[ajx*.online]
 0.0.0.0 ajx272.online
+0.0.0.0 ajx291.online
 0.0.0.0 ajxx91.online
 #[ad.plus]
 0.0.0.0 ad.plus
@@ -10605,10 +10658,6 @@
 0.0.0.0 creative.sphdigital.com
 0.0.0.0 eventreg.sphdigital.com
 0.0.0.0 tagrec.sphdigital.com
-#[split.io]
-0.0.0.0 auth.split.io
-0.0.0.0 cdn.split.io
-0.0.0.0 events.split.io
 #[rovio.com]
 0.0.0.0 ads-cloud.rovio.com
 0.0.0.0 ads.cdn.rovio.com

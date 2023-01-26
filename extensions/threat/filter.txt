@@ -1,14 +1,16 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Jan 2023 11:47 UTC+7
-! Version: 2301101147
-! Blocked: 756 rules
+! Last modified: 26 Jan 2023 17:53 UTC+7
+! Version: 2301261753
+! Blocked: 844 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
 ||010172.com^
 ||11tiki.com^
 ||123hmdhjg2.dyndns.org^
+||1582020.com^
+||1583030.com^
 ||24-7-vidientu.com^
 ||24-7bank.com^
 ||247-banking.com^
@@ -81,9 +83,11 @@
 ||aptersandt.cfd^
 ||apxsoftwares.com^
 ||aryancrack.com^
+||asd.my-downloader.com^
 ||ateofakist.cfd^
 ||atomictrivia.ru^
 ||atspace.tv^
+||atyphy.cyou^
 ||bagas3-1.com^
 ||banking24hsingapore.weebly.com^
 ||banktopvn.online^
@@ -116,6 +120,7 @@
 ||celerantatters.com^
 ||cesareurope.com^
 ||cettiarl.com^
+||cf222.art^
 ||chanle79.me^
 ||checkaccff.com^
 ||chuyendoitienquote-nhantien24h.weebly.com^
@@ -242,6 +247,7 @@
 ||fhdd8431.com^
 ||file-store2.xyz^
 ||file-store4.xyz^
+||findiphone.mobi^
 ||findprizesplace.life^
 ||fmagnitude.cfd^
 ||fmiphone-apple.com^
@@ -288,6 +294,11 @@
 ||hethonggiaodichvidientu247.com^
 ||hhwd68.com^
 ||hoangkim1.org^
+||homevi1.tintuc-vi-vn.xyz^
+||homevi2.tintuc-vi-vn.xyz^
+||homevi3.tintuc-vi-vn.xyz^
+||homevi4.tintuc-vi-vn.xyz^
+||homevi5.tintuc-vi-vn.xyz^
 ||hotbuckers.com^
 ||hotline-dienmayxanh.com^
 ||hotroviet999.com^
@@ -298,7 +309,9 @@
 ||hzmksreiuojy.ru^
 ||ibankingdigital.com^
 ||ibmgroup.co.uk^
+||id-icloud.com^
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
+||idapple.com^
 ||idmfullcrack.info^
 ||iesandb.cfd^
 ||ihgatms.cfd^
@@ -351,11 +364,13 @@
 ||lienquanmobilequatang.com^
 ||lienvietbank.vn-vp.xyz^
 ||link8x.xyz^
+||linkkrutgon.com^
 ||linshopee.com^
 ||live-icloud.com^
 ||llappa.top^
 ||llzd2.com^
 ||lmht-membership.com^
+||login-applecare.com^
 ||long-thanh.com^
 ||lotte333.com^
 ||lotte3333.com^
@@ -394,6 +409,7 @@
 ||miu78.me^
 ||mmocorporation2017.com^
 ||modifiedseem.com^
+||momohanoi.me^
 ||momoloto.com^
 ||momosieuhoihoantien.weebly.com^
 ||moneydong123.com^
@@ -534,6 +550,7 @@
 ||shopee.lienkettaikhoannhanquatang.online^
 ||shopee.maquatang.vn^
 ||shopee.nhanqua.online^
+||shopee.vn-lk.shop^
 ||shopee18.vip^
 ||shopee2288.com^
 ||shopee24.vip^
@@ -548,12 +565,14 @@
 ||shopruu.com^
 ||showcrack.com^
 ||shrimpskins.org^
+||sieuatoc.com^
 ||sieumomo.com^
 ||sieunhitainangmua3-2022.weebly.com^
 ||simpliftsbefore.info^
 ||smilitygorb.club^
 ||softwaresdaily.com^
 ||sonarsurveyof.cfd^
+||sos-icloud.com^
 ||sputrey567rik.cfd^
 ||steamunlocked.one^
 ||storehaiyen.com^
@@ -562,6 +581,7 @@
 ||sup7podthee.cfd^
 ||support-maps.live^
 ||supporttoancau.com^
+||taichinhhoangkim.com^
 ||taikhoanveri04.atwebpages.com^
 ||tammenaa.com^
 ||taokhienfacebook.com^
@@ -583,6 +603,12 @@
 ||thseaeing.fun^
 ||thutucnhantienquydoi24h.weebly.com^
 ||ticlewesimulate.cfd^
+||tienanhanh.com^
+||tienbnhanh.com^
+||tiencnhanh.com^
+||tiendnhanh.com^
+||tienfnhanh.com^
+||tiennahanh.com^
 ||tiki136.com^
 ||tiki2022.vn^
 ||tikictv9.com^
@@ -590,6 +616,7 @@
 ||tikivip0001.com^
 ||titki55.cc^
 ||tk668.com^
+||totycb.cyou^
 ||tpbank.vn-cl.xyz^
 ||tpbank.vn-vpb.top^
 ||tpbank84.com^
@@ -622,14 +649,19 @@
 ||uslimsofbr.cfd^
 ||v2s4ku8b.com^
 ||vatgia306.com^
+||vayasieutoc.com^
 ||vaydaiphat.com^
 ||vaykimtruongphat.org^
 ||vaynganhangvcb.online^
 ||vaynhanh24h.tk^
 ||vaynhanhnamthanh.org^
+||vaysieuttoc.com^
+||vaysieuutoc.com^
+||vayssieutoc.com^
 ||vaythechap-bidv.com^
 ||vaytieudungtpbank.weebly.com^
 ||vayvonnhanhnganhangtpbank.com^
+||vayysieutoc.com^
 ||vcb-diglicabrnk.com^
 ||vcb-vaysodo.com^
 ||vcbbankdigi.com^
@@ -644,6 +676,7 @@
 ||vg99.co^
 ||vhcmc2.xyz^
 ||vi-mayman.com^
+||vi.liveen.vn^
 ||vib-vay.com^
 ||vib84.com^
 ||vibvay.com^
@@ -668,6 +701,7 @@
 ||vipmomo123.me^
 ||viptikivn.club^
 ||viyo.life^
+||vn-apple.com^
 ||vn-cl.xyz^
 ||vn-cn.life^
 ||vn-cn.xyz^
@@ -675,6 +709,8 @@
 ||vn-dienmayxanh.com^
 ||vn-findmy.com^
 ||vn-hc.info^
+||vn-i.cloud^
+||vn-icloud.com^
 ||vn-iy.info^
 ||vn-iy.life^
 ||vn-iz.info^
@@ -720,6 +756,31 @@
 ||vongquaymienphi.net^
 ||vongquaythuongfreefire.com^
 ||vongquaytrungthu.com^
+||vonsieuatoc.com^
+||vonsieubtoc.com^
+||vonsieuctoc.com^
+||vonsieudtoc.com^
+||vonsieuetoc.com^
+||vonsieuftoc.com^
+||vonsieugtoc.com^
+||vonsieuhtoc.com^
+||vonsieuitoc.com^
+||vonsieujtoc.com^
+||vonsieuktoc.com^
+||vonsieultoc.com^
+||vonsieumtoc.com^
+||vonsieuntoc.com^
+||vonsieuotoc.com^
+||vonsieuptoc.com^
+||vonsieuqtoc.com^
+||vonsieurtoc.com^
+||vonsieustoc.com^
+||vonsieuttoc.com^
+||vonsieuutoc.com^
+||vonsieuvtoc.com^
+||vonsieuxtoc.com^
+||vonsieuytoc.com^
+||vonsieuztoc.com^
 ||vp111.vip^
 ||vpbank.com.vn-hc.info^
 ||vpbank.com.vn-rb.icu^
@@ -731,7 +792,34 @@
 ||vpbank.vn-sp.xyz^
 ||vpbsvn.com^
 ||vps8449vn.com^
+||vstvst10toc.com^
+||vstvst11toc.com^
+||vstvst12toc.com^
+||vstvst13toc.com^
+||vstvst14toc.com^
+||vstvst15toc.com^
+||vstvst16toc.com^
+||vstvst1toc.com^
+||vstvst20toc.com^
+||vstvst21toc.com^
+||vstvst22toc.com^
+||vstvst24toc.com^
+||vstvst25toc.com^
+||vstvst26toc.com^
+||vstvst27toc.com^
+||vstvst28toc.com^
+||vstvst29toc.com^
+||vstvst2toc.com^
+||vstvst30toc.com^
+||vstvst3toc.com^
+||vstvst4toc.com^
+||vstvst5toc.com^
+||vstvst6toc.com^
+||vstvst7toc.com^
+||vstvst8toc.com^
+||vstvst9toc.com^
 ||vvvvw-icloud.com^
+||vvww-icloud.com^
 ||watch-online.49n7wqynho5u.top^
 ||webh5.newfastloan.cc^
 ||western-unions24h.weebly.com^

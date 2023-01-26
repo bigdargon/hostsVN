@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 10 Jan 2023 11:47 UTC+7
-# Version: 2301101147
-# Blocked: 578 domains
+# Last modified: 26 Jan 2023 17:53 UTC+7
+# Version: 2301261753
+# Blocked: 665 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -51,6 +51,7 @@
 0.0.0.0 app.zingmp3.pro
 0.0.0.0 apple.support-maps.live
 0.0.0.0 atspace.tv
+0.0.0.0 atyphy.cyou
 0.0.0.0 banking24hsingapore.weebly.com
 0.0.0.0 banktopvn.online
 0.0.0.0 banvoucher-vn.weeblysite.com
@@ -69,6 +70,7 @@
 0.0.0.0 casneon.com
 0.0.0.0 celerantatters.com
 0.0.0.0 cettiarl.com
+0.0.0.0 cf222.art
 0.0.0.0 chanle79.me
 0.0.0.0 checkaccff.com
 0.0.0.0 chuyendoitienquote-nhantien24h.weebly.com
@@ -152,6 +154,7 @@
 0.0.0.0 ff-menber-garena.vn
 0.0.0.0 ff.member.garenae.vn
 0.0.0.0 fhdd8431.com
+0.0.0.0 findiphone.mobi
 0.0.0.0 free.sc0mvn.com
 0.0.0.0 freefire-membershipvn-garena.com
 0.0.0.0 gaerena.vn
@@ -184,6 +187,11 @@
 0.0.0.0 hethonggiaodichvidientu247.com
 0.0.0.0 hhwd68.com
 0.0.0.0 hoangkim1.org
+0.0.0.0 homevi1.tintuc-vi-vn.xyz
+0.0.0.0 homevi2.tintuc-vi-vn.xyz
+0.0.0.0 homevi3.tintuc-vi-vn.xyz
+0.0.0.0 homevi4.tintuc-vi-vn.xyz
+0.0.0.0 homevi5.tintuc-vi-vn.xyz
 0.0.0.0 hotline-dienmayxanh.com
 0.0.0.0 hotroviet999.com
 0.0.0.0 hpggroup.net
@@ -191,7 +199,9 @@
 0.0.0.0 https-icloud.com
 0.0.0.0 ibankingdigital.com
 0.0.0.0 ibmgroup.co.uk
+0.0.0.0 id-icloud.com
 0.0.0.0 id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
+0.0.0.0 idapple.com
 0.0.0.0 inet-ebank.com
 0.0.0.0 irduwhojas.ga
 0.0.0.0 isacambank.com
@@ -226,10 +236,12 @@
 0.0.0.0 lienquanmobilequatang.com
 0.0.0.0 lienvietbank.vn-vp.xyz
 0.0.0.0 link8x.xyz
+0.0.0.0 linkkrutgon.com
 0.0.0.0 linshopee.com
 0.0.0.0 llappa.top
 0.0.0.0 llzd2.com
 0.0.0.0 lmht-membership.com
+0.0.0.0 login-applecare.com
 0.0.0.0 long-thanh.com
 0.0.0.0 lotte333.com
 0.0.0.0 lotte3333.com
@@ -257,6 +269,7 @@
 0.0.0.0 minhngocc789.com
 0.0.0.0 miu78.me
 0.0.0.0 mmocorporation2017.com
+0.0.0.0 momohanoi.me
 0.0.0.0 momoloto.com
 0.0.0.0 momosieuhoihoantien.weebly.com
 0.0.0.0 moneydong123.com
@@ -351,6 +364,7 @@
 0.0.0.0 shopee.lienkettaikhoannhanquatang.online
 0.0.0.0 shopee.maquatang.vn
 0.0.0.0 shopee.nhanqua.online
+0.0.0.0 shopee.vn-lk.shop
 0.0.0.0 shopee18.vip
 0.0.0.0 shopee2288.com
 0.0.0.0 shopee24.vip
@@ -364,15 +378,18 @@
 0.0.0.0 shopne688.com
 0.0.0.0 shopruu.com
 0.0.0.0 shrimpskins.org
+0.0.0.0 sieuatoc.com
 0.0.0.0 sieumomo.com
 0.0.0.0 sieunhitainangmua3-2022.weebly.com
 0.0.0.0 simpliftsbefore.info
 0.0.0.0 smilitygorb.club
+0.0.0.0 sos-icloud.com
 0.0.0.0 storehaiyen.com
 0.0.0.0 suachuadienmayxanh.com.vn
 0.0.0.0 sunmomo.me
 0.0.0.0 support-maps.live
 0.0.0.0 supporttoancau.com
+0.0.0.0 taichinhhoangkim.com
 0.0.0.0 taikhoanveri04.atwebpages.com
 0.0.0.0 tammenaa.com
 0.0.0.0 taokhienfacebook.com
@@ -390,6 +407,12 @@
 0.0.0.0 thsdbj.com
 0.0.0.0 thseaeing.fun
 0.0.0.0 thutucnhantienquydoi24h.weebly.com
+0.0.0.0 tienanhanh.com
+0.0.0.0 tienbnhanh.com
+0.0.0.0 tiencnhanh.com
+0.0.0.0 tiendnhanh.com
+0.0.0.0 tienfnhanh.com
+0.0.0.0 tiennahanh.com
 0.0.0.0 tiki136.com
 0.0.0.0 tiki2022.vn
 0.0.0.0 tikictv9.com
@@ -397,6 +420,7 @@
 0.0.0.0 tikivip0001.com
 0.0.0.0 titki55.cc
 0.0.0.0 tk668.com
+0.0.0.0 totycb.cyou
 0.0.0.0 tpbank.vn-cl.xyz
 0.0.0.0 tpbank.vn-vpb.top
 0.0.0.0 tpbank84.com
@@ -420,14 +444,19 @@
 0.0.0.0 ucesreferre.club
 0.0.0.0 v2s4ku8b.com
 0.0.0.0 vatgia306.com
+0.0.0.0 vayasieutoc.com
 0.0.0.0 vaydaiphat.com
 0.0.0.0 vaykimtruongphat.org
 0.0.0.0 vaynganhangvcb.online
 0.0.0.0 vaynhanh24h.tk
 0.0.0.0 vaynhanhnamthanh.org
+0.0.0.0 vaysieuttoc.com
+0.0.0.0 vaysieuutoc.com
+0.0.0.0 vayssieutoc.com
 0.0.0.0 vaythechap-bidv.com
 0.0.0.0 vaytieudungtpbank.weebly.com
 0.0.0.0 vayvonnhanhnganhangtpbank.com
+0.0.0.0 vayysieutoc.com
 0.0.0.0 vcb-diglicabrnk.com
 0.0.0.0 vcb-vaysodo.com
 0.0.0.0 vcbbankdigi.com
@@ -442,6 +471,7 @@
 0.0.0.0 vg99.co
 0.0.0.0 vhcmc2.xyz
 0.0.0.0 vi-mayman.com
+0.0.0.0 vi.liveen.vn
 0.0.0.0 vib-vay.com
 0.0.0.0 vib84.com
 0.0.0.0 vibvay.com
@@ -465,6 +495,7 @@
 0.0.0.0 vipmomo123.me
 0.0.0.0 viptikivn.club
 0.0.0.0 viyo.life
+0.0.0.0 vn-apple.com
 0.0.0.0 vn-cl.xyz
 0.0.0.0 vn-cn.life
 0.0.0.0 vn-cn.xyz
@@ -472,6 +503,8 @@
 0.0.0.0 vn-dienmayxanh.com
 0.0.0.0 vn-findmy.com
 0.0.0.0 vn-hc.info
+0.0.0.0 vn-i.cloud
+0.0.0.0 vn-icloud.com
 0.0.0.0 vn-iy.info
 0.0.0.0 vn-iy.life
 0.0.0.0 vn-iz.info
@@ -517,6 +550,31 @@
 0.0.0.0 vongquaymienphi.net
 0.0.0.0 vongquaythuongfreefire.com
 0.0.0.0 vongquaytrungthu.com
+0.0.0.0 vonsieuatoc.com
+0.0.0.0 vonsieubtoc.com
+0.0.0.0 vonsieuctoc.com
+0.0.0.0 vonsieudtoc.com
+0.0.0.0 vonsieuetoc.com
+0.0.0.0 vonsieuftoc.com
+0.0.0.0 vonsieugtoc.com
+0.0.0.0 vonsieuhtoc.com
+0.0.0.0 vonsieuitoc.com
+0.0.0.0 vonsieujtoc.com
+0.0.0.0 vonsieuktoc.com
+0.0.0.0 vonsieultoc.com
+0.0.0.0 vonsieumtoc.com
+0.0.0.0 vonsieuntoc.com
+0.0.0.0 vonsieuotoc.com
+0.0.0.0 vonsieuptoc.com
+0.0.0.0 vonsieuqtoc.com
+0.0.0.0 vonsieurtoc.com
+0.0.0.0 vonsieustoc.com
+0.0.0.0 vonsieuttoc.com
+0.0.0.0 vonsieuutoc.com
+0.0.0.0 vonsieuvtoc.com
+0.0.0.0 vonsieuxtoc.com
+0.0.0.0 vonsieuytoc.com
+0.0.0.0 vonsieuztoc.com
 0.0.0.0 vp111.vip
 0.0.0.0 vpbank.com.vn-hc.info
 0.0.0.0 vpbank.com.vn-rb.icu
@@ -528,6 +586,33 @@
 0.0.0.0 vpbank.vn-sp.xyz
 0.0.0.0 vpbsvn.com
 0.0.0.0 vps8449vn.com
+0.0.0.0 vstvst10toc.com
+0.0.0.0 vstvst11toc.com
+0.0.0.0 vstvst12toc.com
+0.0.0.0 vstvst13toc.com
+0.0.0.0 vstvst14toc.com
+0.0.0.0 vstvst15toc.com
+0.0.0.0 vstvst16toc.com
+0.0.0.0 vstvst1toc.com
+0.0.0.0 vstvst20toc.com
+0.0.0.0 vstvst21toc.com
+0.0.0.0 vstvst22toc.com
+0.0.0.0 vstvst24toc.com
+0.0.0.0 vstvst25toc.com
+0.0.0.0 vstvst26toc.com
+0.0.0.0 vstvst27toc.com
+0.0.0.0 vstvst28toc.com
+0.0.0.0 vstvst29toc.com
+0.0.0.0 vstvst2toc.com
+0.0.0.0 vstvst30toc.com
+0.0.0.0 vstvst3toc.com
+0.0.0.0 vstvst4toc.com
+0.0.0.0 vstvst5toc.com
+0.0.0.0 vstvst6toc.com
+0.0.0.0 vstvst7toc.com
+0.0.0.0 vstvst8toc.com
+0.0.0.0 vstvst9toc.com
+0.0.0.0 vvww-icloud.com
 0.0.0.0 webh5.newfastloan.cc
 0.0.0.0 western-unions24h.weebly.com
 0.0.0.0 westernunions6886z.weebly.com
@@ -548,7 +633,9 @@
 0.0.0.0 www.checkaccff.com
 0.0.0.0 www.dichvuchuyentien-ind.weebly.com
 0.0.0.0 www.fccomvn.com
+0.0.0.0 www.findiphone.mobi
 0.0.0.0 www.hdsaisonvn.com
+0.0.0.0 www.idapple.com
 0.0.0.0 www.jaccsc.com
 0.0.0.0 www.jaccsn.com
 0.0.0.0 www.jaccsvn.com

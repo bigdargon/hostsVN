@@ -446,6 +446,7 @@
 0.0.0.0 adtima-static-td.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 adtima-video.zadn.vn
+0.0.0.0 mda.zadn.vn
 0.0.0.0 mplaylist-ads.zadn.vn
 0.0.0.0 zalo-ads-240-td.zadn.vn
 0.0.0.0 zalo-ads-240.zadn.vn
@@ -1330,6 +1331,7 @@
 0.0.0.0 embed.wiinvent.tv
 0.0.0.0 games.wiinvent.tv
 0.0.0.0 static1.wiinvent.tv
+0.0.0.0 tv360-gametet.wiinvent.tv
 0.0.0.0 wiinvent.tv
 #[wiinvent.com.vn]
 0.0.0.0 wiinvent.com.vn
@@ -1371,3 +1373,14 @@
 #[fly-ads.net]
 0.0.0.0 fly-ads.net
 0.0.0.0 tags.fly-ads.net
+#[tjme.io]
+0.0.0.0 api.tjme.io
+0.0.0.0 tjme.io
+0.0.0.0 txx.tjme.io
+0.0.0.0 web-api.tjme.io
+#[impactify.media]
+0.0.0.0 impactify.media
+0.0.0.0 vpaid.impactify.media
+#[popinfo.jp]
+0.0.0.0 event-action.popinfo.jp
+0.0.0.0 events.popinfo.jp
