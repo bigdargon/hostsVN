@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 Jan 2023 17:53 UTC+7
-! Version: 2301261753
-! Blocked: 8,185 rules
+! Last modified: 26 Jan 2023 22:35 UTC+7
+! Version: 2301262235
+! Blocked: 8,187 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6538,6 +6538,7 @@
 ||popsoffer.com^
 ||popub.com^
 ||popunder.ru^
+||popupblockergold.com^
 ||popupmaker.com^
 ||popupmoney.com^
 ||popupnation.com^
@@ -7345,6 +7346,7 @@
 ||supertop100.com^
 ||superxxxfree.com^
 ||suppliedhopelesspredestination.com^
+||supremeadblocker.info^
 ||suptur.online^
 ||surecheapermoisture.com^
 ||surfmusik-adserver.de^

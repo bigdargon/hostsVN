@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 26 Jan 2023 22:07 UTC+7
-! Version: 2301262207
-! Blocked: 29,320 rules
+! Last modified: 26 Jan 2023 22:35 UTC+7
+! Version: 2301262235
+! Blocked: 29,326 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12732,6 +12732,7 @@
 ||betla.net^
 ||betla213.com^
 ||betlixi88.com^
+||betlixi88.net^
 ||betlv.bet^
 ||betlv.com^
 ||betmasteritalia.info^
@@ -15011,6 +15012,8 @@
 ||dooballlok.com^
 ||dorarodo6666.com^
 ||dovipfun.com^
+||down.lixi88.net^
+||down2.lixi88.net^
 ||download.bayvip.tv^
 ||download.bayvip247.live^
 ||download.bayvip247.page^
@@ -21301,6 +21304,7 @@
 ||lixi88.club^
 ||lixi88.com^
 ||lixi88.info^
+||lixi88.net^
 ||lixi888.online^
 ||lixi888.store^
 ||lixi88first.com^
@@ -21312,6 +21316,7 @@
 ||lixi88pro.tech^
 ||lixi88top.me^
 ||lixi88top.online^
+||lixi88vip.com^
 ||lixi88vip.me^
 ||lixi88vip.net^
 ||lixi88vipzb.xyz^
@@ -21642,6 +21647,7 @@
 ||m.kingbet86.info^
 ||m.lixi88.info^
 ||m.lixi888.online^
+||m.lixi88vip.com^
 ||m.lode88.vip^
 ||m.lucky88.com^
 ||m.lucky88.net^

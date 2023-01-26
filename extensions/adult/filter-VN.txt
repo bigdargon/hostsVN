@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 26 Jan 2023 22:07 UTC+7
-! Version: 2301262207
-! Blocked: 2,624 rules
+! Last modified: 26 Jan 2023 22:35 UTC+7
+! Version: 2301262235
+! Blocked: 2,625 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -524,6 +524,7 @@
 ||heotv.net^
 ||heoviet.com^
 ||heovl.com^
+||heovl.fun^
 ||heovl.live^
 ||heovl.me^
 ||heovl.net^

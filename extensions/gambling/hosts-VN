@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 26 Jan 2023 22:07 UTC+7
-# Version: 2301262207
-# Blocked: 4,582 domains
+# Last modified: 26 Jan 2023 22:35 UTC+7
+# Version: 2301262235
+# Blocked: 4,588 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -567,6 +567,7 @@
 0.0.0.0 betk8.fun
 0.0.0.0 betk8vn.live
 0.0.0.0 betk8vn.net
+0.0.0.0 betlixi88.net
 0.0.0.0 betlv.com
 0.0.0.0 betvisa.com
 0.0.0.0 betwinner.ng
@@ -770,6 +771,8 @@
 0.0.0.0 dl.v8.club
 0.0.0.0 dola88.info
 0.0.0.0 domixi1gom.com
+0.0.0.0 down.lixi88.net
+0.0.0.0 down2.lixi88.net
 0.0.0.0 download.bayvip.tv
 0.0.0.0 download.bayvip247.live
 0.0.0.0 download.bayvip247.page
@@ -3024,8 +3027,10 @@
 0.0.0.0 live.vuabai9.com
 0.0.0.0 livek8.com
 0.0.0.0 lixi88.info
+0.0.0.0 lixi88.net
 0.0.0.0 lixi888.online
 0.0.0.0 lixi88first.com
+0.0.0.0 lixi88vip.com
 0.0.0.0 lixi88vipzb.xyz
 0.0.0.0 lixi88zb123.net
 0.0.0.0 lixi99.com
@@ -3117,6 +3122,7 @@
 0.0.0.0 m.kingbet86.info
 0.0.0.0 m.lixi88.info
 0.0.0.0 m.lixi888.online
+0.0.0.0 m.lixi88vip.com
 0.0.0.0 m.lode88.vip
 0.0.0.0 m.lucky88.com
 0.0.0.0 m.lucky88.net

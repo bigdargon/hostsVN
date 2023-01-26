@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 26 Jan 2023 22:07 UTC+7
-! Version: 2301262207
-! Blocked: 844 rules
+! Last modified: 26 Jan 2023 22:35 UTC+7
+! Version: 2301262235
+! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -450,6 +450,7 @@
 ||nkstherefor.cfd^
 ||notbeexcluded.cfd^
 ||nova-ebill.xyz^
+||offer.great1waytowsuccess.com^
 ||officials-kmspico.com^
 ||ofth546ebr.cfd^
 ||online.acbonliine.com^
