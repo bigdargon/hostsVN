@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 Jan 2023 22:35 UTC+7
-! Version: 2301262235
-! Blocked: 8,187 rules
+! Last modified: 27 Jan 2023 16:06 UTC+7
+! Version: 2301271606
+! Blocked: 8,196 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -611,6 +611,7 @@
 ||log.vnfinance.vn^
 ||log.vov.vn^
 ||log.vovplus.vn^
+||log.xoso.com.vn^
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
@@ -2619,6 +2620,7 @@
 ||abbeyintervalfetched.com^
 ||abc-ads.com^
 ||aboardlevel.com^
+||above.com^
 ||abroad-ad.kingsoft-office-service.com^
 ||abruptroad.com^
 ||absentstream.com^
@@ -4615,6 +4617,7 @@
 ||detectdiscovery.com^
 ||devotedvarnish.com^
 ||dewiestsards.com^
+||dgqlwqedzowhqb.com^
 ||dgxmvglp.com^
 ||dianomi.com^
 ||didtheyreadit.com^
@@ -5392,6 +5395,7 @@
 ||ifa.tube8live.com^
 ||ignorant-union.pro^
 ||igwlfwsogwetw.com^
+||ihhqwaurke.com^
 ||iifvcfwiqi.com^
 ||ilbanner.com^
 ||ilead.itrack.it^
@@ -6439,6 +6443,7 @@
 ||petchesa.net^
 ||petiteumbrella.com^
 ||petriekalmias.com^
+||pfewuzbtkr.com^
 ||pgmediaserve.com^
 ||pgpartner.com^
 ||phasmfranca.com^
@@ -6694,6 +6699,7 @@
 ||qctop.com^
 ||qdfxeqhnjuknyy.com^
 ||qgicqtyh.com^
+||qgxbluhsgad.com^
 ||qlcdnvkgi.com^
 ||qnsr.com^
 ||qohxtklfmy.com^
@@ -7662,6 +7668,7 @@
 ||treateryowler.com^
 ||trekblue.com^
 ||trekdata.com^
+||trellian.com^
 ||tremendoustime.com^
 ||tremorvideo.com^
 ||trendads.reactivebetting.com^
@@ -7882,6 +7889,7 @@
 ||visitpath.com^
 ||visual-pagerank.fr^
 ||visualrevenue.com^
+||vixmwnivtbqk.com^
 ||vizu.com^
 ||vkcache.com^
 ||vkcdn.online^
@@ -8119,6 +8127,7 @@
 ||yllaris.com^
 ||ylog.huya.com^
 ||ymetrica1.com^
+||ymkomlhgzbpitp.com^
 ||ymtracking.com^
 ||yoc-adserver.com^
 ||yoc-performance.com^

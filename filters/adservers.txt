@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 26 Jan 2023 22:35 UTC+7
-! Version: 2301262235
-! Blocked: 800 rules
+! Last modified: 27 Jan 2023 16:06 UTC+7
+! Version: 2301271606
+! Blocked: 801 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -611,6 +611,7 @@
 ||log.vnfinance.vn^
 ||log.vov.vn^
 ||log.vovplus.vn^
+||log.xoso.com.vn^
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
