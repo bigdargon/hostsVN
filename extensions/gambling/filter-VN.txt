@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 27 Jan 2023 16:05 UTC+7
-! Version: 2301271605
-! Blocked: 4,189 rules
+! Last modified: 29 Jan 2023 23:16 UTC+7
+! Version: 2301292316
+! Blocked: 4,200 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -109,6 +109,7 @@
 ||2826.bet^
 ||29999y.com^
 ||331725.com^
+||331729.com^
 ||338kbet.com^
 ||33beta.com^
 ||33betad.com^
@@ -389,6 +390,7 @@
 ||ae888vn.com^
 ||ae9888.com^
 ||ae988bet.com^
+||aebet.bet^
 ||aewin88.com^
 ||aff.188f1play.com^
 ||aff.188thethao.com^
@@ -551,7 +553,9 @@
 ||bayvip.tv^
 ||bayvip247.fun^
 ||bayvip247.live^
+||bayvip247.me^
 ||bayvip247.page^
+||bayvip247.win^
 ||bcb80.com^
 ||beb77.com^
 ||best.8dayvn888.com^
@@ -796,7 +800,9 @@
 ||down2.lixi88.net^
 ||download.bayvip.tv^
 ||download.bayvip247.live^
+||download.bayvip247.me^
 ||download.bayvip247.page^
+||download.bayvip247.win^
 ||e678y.com^
 ||easyk8.com^
 ||ebet.com^
@@ -1031,6 +1037,7 @@
 ||h3bet.com^
 ||happy9luck.com^
 ||happynb.com^
+||hb8864.com^
 ||hb8875.com^
 ||hb8887.com^
 ||hb88g.com^
@@ -3185,6 +3192,7 @@
 ||m.qq288.com^
 ||m.qq8788viet.com^
 ||m.red88.com^
+||m.shbet.love^
 ||m.tf88265.com^
 ||m.tf88v.com^
 ||m.tf88vn.com^
@@ -3574,15 +3582,17 @@
 ||sbetviet.com^
 ||sbotop246.com^
 ||seb121.net^
-||shb11.com^
 ||shbet.com^
+||shbet.love^
+||shbet.me^
+||shbet.news^
+||shbet.rip^
 ||shbet.site^
 ||shbet.vin^
 ||shbet.win^
 ||shbet0.com^
 ||shbet2.com^
 ||shbet3.com^
-||shbetcc.com^
 ||shbetgg.com^
 ||shbetvv.com^
 ||shviet.com^
@@ -3781,6 +3791,7 @@
 ||thk8.net^
 ||thuonghieunhacai.com^
 ||thuonghieunhacai.net^
+||thuongkingfun.biz^
 ||thvwbet.com^
 ||tienlen.8day66.com^
 ||tienve.thethaofb88.com^

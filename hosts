@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Jan 2023 16:06 UTC+7
-# Version: 2301271606
-# Blocked: 17,303 domains
+# Last modified: 29 Jan 2023 23:17 UTC+7
+# Version: 2301292317
+# Blocked: 17,307 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11040,6 +11040,12 @@
 0.0.0.0 advm.brznetwork.com
 0.0.0.0 advs.brznetwork.com
 0.0.0.0 brznetwork.com
+#[impactify.media]
+0.0.0.0 impactify.media
+0.0.0.0 vpaid.impactify.media
+#[popinfo.jp]
+0.0.0.0 event-action.popinfo.jp
+0.0.0.0 events.popinfo.jp
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12420,12 +12426,6 @@
 0.0.0.0 tjme.io
 0.0.0.0 txx.tjme.io
 0.0.0.0 web-api.tjme.io
-#[impactify.media]
-0.0.0.0 impactify.media
-0.0.0.0 vpaid.impactify.media
-#[popinfo.jp]
-0.0.0.0 event-action.popinfo.jp
-0.0.0.0 events.popinfo.jp
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -14181,6 +14181,7 @@
 0.0.0.0 bbbpromos.org
 0.0.0.0 bbelements.com
 0.0.0.0 bcfads.com
+0.0.0.0 bcgbbzxackpk.com
 0.0.0.0 bcloudhost.com
 0.0.0.0 bcmediagroup.com
 0.0.0.0 bcprm.com
@@ -15734,6 +15735,7 @@
 0.0.0.0 kronervisile.com
 0.0.0.0 kronosspell.com
 0.0.0.0 ksznidltg.com
+0.0.0.0 ktaehxdlf.com
 0.0.0.0 ktkjmp.com
 0.0.0.0 kts.visitstats.com
 0.0.0.0 ktu.sv2.biz
@@ -16266,6 +16268,7 @@
 0.0.0.0 ofhappinyer.com
 0.0.0.0 ofnumeltor.com
 0.0.0.0 ofsyuxaveckulgf.com
+0.0.0.0 ohtctjiuow.com
 0.0.0.0 ojqbnqdwycws.com
 0.0.0.0 oktogar.com
 0.0.0.0 okueroskynt.com
@@ -17994,6 +17997,7 @@
 0.0.0.0 youngsterbusinessman.com
 0.0.0.0 youradexchange.com
 0.0.0.0 yourkadspunew.com
+0.0.0.0 yovqnwnmpzz.com
 0.0.0.0 yqmxfz.com
 0.0.0.0 ytimm.com
 0.0.0.0 yuilop.com

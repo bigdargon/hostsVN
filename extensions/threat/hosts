@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 27 Jan 2023 16:05 UTC+7
-# Version: 2301271605
-# Blocked: 3,654 domains
+# Last modified: 29 Jan 2023 23:16 UTC+7
+# Version: 2301292316
+# Blocked: 3,655 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -704,6 +704,7 @@
 0.0.0.0 hamoney.xyz
 0.0.0.0 hangairsoft.com
 0.0.0.0 hanghaiqt.com
+0.0.0.0 hbpnnz.cyou
 0.0.0.0 hdbankcareer.com
 0.0.0.0 hdbankfinancc.digital
 0.0.0.0 hdbankfinancc.icu

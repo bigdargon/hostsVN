@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 27 Jan 2023 16:05 UTC+7
-# Version: 2301271605
-# Blocked: 4,678 domains
+# Last modified: 29 Jan 2023 23:16 UTC+7
+# Version: 2301292316
+# Blocked: 4,687 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -112,6 +112,7 @@
 0.0.0.0 2826.bet
 0.0.0.0 29999y.com
 0.0.0.0 331725.com
+0.0.0.0 331729.com
 0.0.0.0 338kbet.com
 0.0.0.0 33beta.com
 0.0.0.0 33betad.com
@@ -146,7 +147,6 @@
 0.0.0.0 558kbet.com
 0.0.0.0 570manx.com
 0.0.0.0 59y2x.com
-0.0.0.0 5shbet.com
 0.0.0.0 608822.com
 0.0.0.0 63wan.com
 0.0.0.0 666k8vn.com
@@ -387,6 +387,7 @@
 0.0.0.0 ae888sports01.com
 0.0.0.0 ae888vn.com
 0.0.0.0 ae988bet.com
+0.0.0.0 aebet.bet
 0.0.0.0 aff.188f1play.com
 0.0.0.0 aff.188thethao.com
 0.0.0.0 aff.8daily8.com
@@ -548,7 +549,9 @@
 0.0.0.0 bayvip.tv
 0.0.0.0 bayvip247.fun
 0.0.0.0 bayvip247.live
+0.0.0.0 bayvip247.me
 0.0.0.0 bayvip247.page
+0.0.0.0 bayvip247.win
 0.0.0.0 bcb80.com
 0.0.0.0 beb77.com
 0.0.0.0 best.8dayvn888.com
@@ -792,7 +795,9 @@
 0.0.0.0 down2.lixi88.net
 0.0.0.0 download.bayvip.tv
 0.0.0.0 download.bayvip247.live
+0.0.0.0 download.bayvip247.me
 0.0.0.0 download.bayvip247.page
+0.0.0.0 download.bayvip247.win
 0.0.0.0 e678y.com
 0.0.0.0 easyk8.com
 0.0.0.0 ebet.com
@@ -1026,6 +1031,7 @@
 0.0.0.0 h3bet.com
 0.0.0.0 happy9luck.com
 0.0.0.0 happynb.com
+0.0.0.0 hb8864.com
 0.0.0.0 hb8875.com
 0.0.0.0 hb8887.com
 0.0.0.0 hb88p.com
@@ -3176,6 +3182,7 @@
 0.0.0.0 m.qq288.com
 0.0.0.0 m.qq8788viet.com
 0.0.0.0 m.red88.com
+0.0.0.0 m.shbet.love
 0.0.0.0 m.tf88265.com
 0.0.0.0 m.tf88v.com
 0.0.0.0 m.tf88vn.com
@@ -3562,15 +3569,14 @@
 0.0.0.0 sbetviet.com
 0.0.0.0 sbotop246.com
 0.0.0.0 seb121.net
-0.0.0.0 shb11.com
 0.0.0.0 shbet.com
+0.0.0.0 shbet.love
+0.0.0.0 shbet.me
+0.0.0.0 shbet.news
+0.0.0.0 shbet.rip
 0.0.0.0 shbet.site
 0.0.0.0 shbet.vin
 0.0.0.0 shbet.win
-0.0.0.0 shbet0.com
-0.0.0.0 shbet3.com
-0.0.0.0 shbetcc.com
-0.0.0.0 shbetvv.com
 0.0.0.0 shviet.com
 0.0.0.0 shviet0.com
 0.0.0.0 sieubomtan.com
@@ -3767,6 +3773,7 @@
 0.0.0.0 thk8.net
 0.0.0.0 thuonghieunhacai.com
 0.0.0.0 thuonghieunhacai.net
+0.0.0.0 thuongkingfun.biz
 0.0.0.0 thvwbet.com
 0.0.0.0 tienlen.8day66.com
 0.0.0.0 tienve.thethaofb88.com
@@ -4129,6 +4136,7 @@
 0.0.0.0 www.22zalo.com
 0.0.0.0 www.2826.bet
 0.0.0.0 www.331725.com
+0.0.0.0 www.331729.com
 0.0.0.0 www.338kbet.com
 0.0.0.0 www.33beta.com
 0.0.0.0 www.33betad.com
@@ -4331,6 +4339,7 @@
 0.0.0.0 www.goal86.top
 0.0.0.0 www.h3bet.com
 0.0.0.0 www.happynb.com
+0.0.0.0 www.hb8864.com
 0.0.0.0 www.hb8887.com
 0.0.0.0 www.hb88g.com
 0.0.0.0 www.hb88h.com
