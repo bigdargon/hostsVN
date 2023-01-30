@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 29 Jan 2023 23:16 UTC+7
-# Version: 2301292316
-# Blocked: 3,423 domains
+# Last modified: 30 Jan 2023 17:42 UTC+7
+# Version: 2301301742
+# Blocked: 3,425 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -34,6 +34,7 @@
 0.0.0.0 2quality.de
 0.0.0.0 333lotte.com
 0.0.0.0 33lotte.com
+0.0.0.0 3615407.xyz
 0.0.0.0 365bet.shop
 0.0.0.0 456vdghgj30.dyndns.org
 0.0.0.0 555lotte.com
@@ -2877,6 +2878,7 @@
 0.0.0.0 vieitcombank.com
 0.0.0.0 vieittcombank.com
 0.0.0.0 viet-credit.com
+0.0.0.0 viet-lotte.org
 0.0.0.0 viet-thanh.online
 0.0.0.0 viet69.uk
 0.0.0.0 viet69xlxx004.ga

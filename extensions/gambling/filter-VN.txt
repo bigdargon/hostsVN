@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 29 Jan 2023 23:16 UTC+7
-! Version: 2301292316
-! Blocked: 4,200 rules
+! Last modified: 30 Jan 2023 17:42 UTC+7
+! Version: 2301301742
+! Blocked: 4,209 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -803,6 +803,7 @@
 ||download.bayvip247.me^
 ||download.bayvip247.page^
 ||download.bayvip247.win^
+||dubaivn.vip^
 ||e678y.com^
 ||easyk8.com^
 ||ebet.com^
@@ -1176,6 +1177,9 @@
 ||ios.v99win.app^
 ||iwiin.club^
 ||iwin.club^
+||iwin.info^
+||iwin6699.com^
+||iwin68m.com^
 ||iwinapk.link^
 ||iwinapplink.club^
 ||iwinclub.win^
@@ -3456,8 +3460,10 @@
 ||playgo88.asia^
 ||playgo88.top^
 ||playiwin.biz^
+||playiwin.club^
 ||playiwin.in^
 ||playiwin.site^
+||playiwin.top^
 ||playiwin.uk^
 ||playmanclub.uk^
 ||playmanclub.vin^
@@ -3544,6 +3550,7 @@
 ||rgcsn.com^
 ||rik.bet^
 ||rik.club^
+||rik.top^
 ||rik.vip^
 ||rik.win^
 ||rikbet789.club^
@@ -3717,6 +3724,7 @@
 ||tai.nhatvip.live^
 ||tai.rik.bet^
 ||tai.rik.club^
+||tai.rik.top^
 ||tai.rikvip.tv^
 ||tai.rikvip.us^
 ||tai.top88vn.net^
@@ -4124,6 +4132,7 @@
 ||win365good.com^
 ||win365vip8.com^
 ||win365vip9.com^
+||win456.cc^
 ||win79.app^
 ||win79.download^
 ||win79.vip^

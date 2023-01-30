@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 29 Jan 2023 23:16 UTC+7
-# Version: 2301292316
-# Blocked: 4,687 domains
+# Last modified: 30 Jan 2023 17:42 UTC+7
+# Version: 2301301742
+# Blocked: 4,696 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -798,6 +798,7 @@
 0.0.0.0 download.bayvip247.me
 0.0.0.0 download.bayvip247.page
 0.0.0.0 download.bayvip247.win
+0.0.0.0 dubaivn.vip
 0.0.0.0 e678y.com
 0.0.0.0 easyk8.com
 0.0.0.0 ebet.com
@@ -1167,6 +1168,9 @@
 0.0.0.0 ios.v99win.app
 0.0.0.0 iwiin.club
 0.0.0.0 iwin.club
+0.0.0.0 iwin.info
+0.0.0.0 iwin6699.com
+0.0.0.0 iwin68m.com
 0.0.0.0 iwinapk.link
 0.0.0.0 iwinapplink.club
 0.0.0.0 iwinclub.win
@@ -3445,8 +3449,10 @@
 0.0.0.0 playgo88.asia
 0.0.0.0 playgo88.top
 0.0.0.0 playiwin.biz
+0.0.0.0 playiwin.club
 0.0.0.0 playiwin.in
 0.0.0.0 playiwin.site
+0.0.0.0 playiwin.top
 0.0.0.0 playiwin.uk
 0.0.0.0 playmanclub.uk
 0.0.0.0 playmanclub.vin
@@ -3531,6 +3537,7 @@
 0.0.0.0 rgcsn.com
 0.0.0.0 rik.bet
 0.0.0.0 rik.club
+0.0.0.0 rik.top
 0.0.0.0 rik.vip
 0.0.0.0 rik.win
 0.0.0.0 rikbet789.club
@@ -3699,6 +3706,7 @@
 0.0.0.0 tai.nhatvip.live
 0.0.0.0 tai.rik.bet
 0.0.0.0 tai.rik.club
+0.0.0.0 tai.rik.top
 0.0.0.0 tai.rikvip.tv
 0.0.0.0 tai.rikvip.us
 0.0.0.0 tai.top88vn.net
@@ -4101,6 +4109,7 @@
 0.0.0.0 win365good.com
 0.0.0.0 win365vip8.com
 0.0.0.0 win365vip9.com
+0.0.0.0 win456.cc
 0.0.0.0 win79.app
 0.0.0.0 win79.download
 0.0.0.0 win79.vip

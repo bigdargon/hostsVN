@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 29 Jan 2023 23:17 UTC+7
-! Version: 2301292317
-! Blocked: 8,200 rules
+! Last modified: 30 Jan 2023 17:43 UTC+7
+! Version: 2301301743
+! Blocked: 8,202 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5560,6 +5560,7 @@
 ||jighucme.com^
 ||jinkads.de^
 ||jioads.akamaized.net^
+||jiordgxkpglzm.com^
 ||jitteryhire.pro^
 ||jivox.com^
 ||jiwire.com^
@@ -8040,6 +8041,7 @@
 ||wowhugoo.com^
 ||wowshortvideos.com^
 ||wpnrtnmrewunrtok.xyz^
+||wqjbldnnceroue.com^
 ||wqzyxxrrep.com^
 ||wrapper.lemde.fr^
 ||wryfinger.com^
