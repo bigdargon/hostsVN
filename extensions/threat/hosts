@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 30 Jan 2023 17:42 UTC+7
-# Version: 2301301742
-# Blocked: 3,657 domains
+# Last modified: 31 Jan 2023 11:10 UTC+7
+# Version: 2301311110
+# Blocked: 3,658 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -38,6 +38,7 @@
 0.0.0.0 333lotte.com
 0.0.0.0 33lotte.com
 0.0.0.0 3615407.xyz
+0.0.0.0 3615738.xyz
 0.0.0.0 365bet.shop
 0.0.0.0 456vdghgj30.dyndns.org
 0.0.0.0 50gb034.xyz

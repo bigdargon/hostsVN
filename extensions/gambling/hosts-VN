@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 30 Jan 2023 17:42 UTC+7
-# Version: 2301301742
-# Blocked: 4,696 domains
+# Last modified: 31 Jan 2023 11:10 UTC+7
+# Version: 2301311110
+# Blocked: 4,704 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -356,6 +356,7 @@
 0.0.0.0 ads14.win888b.com
 0.0.0.0 ads16.win888b.com
 0.0.0.0 ads23.win888b.com
+0.0.0.0 ads5.dangkybum.club
 0.0.0.0 ae2888.com
 0.0.0.0 ae3888.top
 0.0.0.0 ae58888.com
@@ -601,6 +602,7 @@
 0.0.0.0 bk8vn.live
 0.0.0.0 bk8vn.vip
 0.0.0.0 bk8vnd.com
+0.0.0.0 bk8win.top
 0.0.0.0 blogcmd368.com
 0.0.0.0 blogf8bet.com
 0.0.0.0 bntv.bongvip.com
@@ -748,6 +750,7 @@
 0.0.0.0 dangky.go88.com
 0.0.0.0 dangky.thethaofb88.com
 0.0.0.0 dangkybayvip.com
+0.0.0.0 dangkybum.club
 0.0.0.0 dangkykubet.vip
 0.0.0.0 dangkythabet.com
 0.0.0.0 datcuoc.thethaofb88.com
@@ -1120,6 +1123,7 @@
 0.0.0.0 i9bet39.com
 0.0.0.0 i9bet4.com
 0.0.0.0 i9bet444.com
+0.0.0.0 i9bet49.com
 0.0.0.0 i9bet5.com
 0.0.0.0 i9bet6.com
 0.0.0.0 i9bet666.com
@@ -3711,6 +3715,7 @@
 0.0.0.0 tai.rikvip.us
 0.0.0.0 tai.top88vn.net
 0.0.0.0 tai.v28.club
+0.0.0.0 tai.win79.pro
 0.0.0.0 tai.win79.vip
 0.0.0.0 tai.yo88vn.us
 0.0.0.0 tai.you88.vin
@@ -4112,6 +4117,7 @@
 0.0.0.0 win456.cc
 0.0.0.0 win79.app
 0.0.0.0 win79.download
+0.0.0.0 win79.pro
 0.0.0.0 win79.vip
 0.0.0.0 win79play.me
 0.0.0.0 win88.me
@@ -4260,6 +4266,7 @@
 0.0.0.0 www.bk8vn.live
 0.0.0.0 www.bk8vn.vip
 0.0.0.0 www.bk8vnd.com
+0.0.0.0 www.bk8win.top
 0.0.0.0 www.blogf8bet.com
 0.0.0.0 www.bong88net.com
 0.0.0.0 www.bong99.fun
@@ -4377,6 +4384,7 @@
 0.0.0.0 www.i9bet35.com
 0.0.0.0 www.i9bet36.com
 0.0.0.0 www.i9bet444.com
+0.0.0.0 www.i9bet49.com
 0.0.0.0 www.i9bet5.com
 0.0.0.0 www.i9bet6.com
 0.0.0.0 www.i9bet888.com

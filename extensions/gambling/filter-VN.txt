@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 30 Jan 2023 17:42 UTC+7
-! Version: 2301301742
-! Blocked: 4,209 rules
+! Last modified: 31 Jan 2023 11:10 UTC+7
+! Version: 2301311110
+! Blocked: 4,215 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -357,6 +357,7 @@
 ||ads14.win888b.com^
 ||ads16.win888b.com^
 ||ads23.win888b.com^
+||ads5.dangkybum.club^
 ||ae2888.com^
 ||ae3888.top^
 ||ae58888.com^
@@ -606,6 +607,7 @@
 ||bk8vn.live^
 ||bk8vn.vip^
 ||bk8vnd.com^
+||bk8win.top^
 ||blogcmd368.com^
 ||blogf8bet.com^
 ||bntv.bongvip.com^
@@ -753,6 +755,7 @@
 ||dangky.go88.com^
 ||dangky.thethaofb88.com^
 ||dangkybayvip.com^
+||dangkybum.club^
 ||dangkykubet.vip^
 ||dangkythabet.com^
 ||datcuoc.thethaofb88.com^
@@ -1129,6 +1132,7 @@
 ||i9bet39.com^
 ||i9bet4.com^
 ||i9bet444.com^
+||i9bet49.com^
 ||i9bet5.com^
 ||i9bet6.com^
 ||i9bet666.com^
@@ -3729,6 +3733,7 @@
 ||tai.rikvip.us^
 ||tai.top88vn.net^
 ||tai.v28.club^
+||tai.win79.pro^
 ||tai.win79.vip^
 ||tai.yo88vn.us^
 ||tai.you88.vin^
@@ -4135,6 +4140,7 @@
 ||win456.cc^
 ||win79.app^
 ||win79.download^
+||win79.pro^
 ||win79.vip^
 ||win79play.me^
 ||win88.me^

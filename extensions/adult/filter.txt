@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 30 Jan 2023 17:42 UTC+7
-! Version: 2301301742
-! Blocked: 19,360 rules
+! Last modified: 31 Jan 2023 11:10 UTC+7
+! Version: 2301311110
+! Blocked: 19,361 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17337,6 +17337,7 @@
 ||x-videos.pro^
 ||x-videos.su^
 ||x-xx.pro^
+||x.phimsexsub.co^
 ||x.phimsexsub.pw^
 ||x.sextop1.life^
 ||x3x.club^

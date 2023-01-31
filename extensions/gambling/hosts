@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 30 Jan 2023 17:42 UTC+7
-# Version: 2301301742
-# Blocked: 55,667 domains
+# Last modified: 31 Jan 2023 11:10 UTC+7
+# Version: 2301311110
+# Blocked: 55,737 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5358,6 +5358,7 @@
 0.0.0.0 1xbet.sl
 0.0.0.0 1xbet.sn
 0.0.0.0 1xbet.td
+0.0.0.0 1xbet009692.top
 0.0.0.0 1xbet059727.top
 0.0.0.0 1xbet1.com
 0.0.0.0 1xbet101.com
@@ -5391,6 +5392,7 @@
 0.0.0.0 1xbet37.com
 0.0.0.0 1xbet38.com
 0.0.0.0 1xbet39.com
+0.0.0.0 1xbet395659.top
 0.0.0.0 1xbet4.com
 0.0.0.0 1xbet40.com
 0.0.0.0 1xbet41.com
@@ -5402,6 +5404,7 @@
 0.0.0.0 1xbet48.com
 0.0.0.0 1xbet49.com
 0.0.0.0 1xbet50.com
+0.0.0.0 1xbet505309.top
 0.0.0.0 1xbet51.com
 0.0.0.0 1xbet52.com
 0.0.0.0 1xbet522947.top
@@ -5416,6 +5419,7 @@
 0.0.0.0 1xbet8.com
 0.0.0.0 1xbet82.com
 0.0.0.0 1xbet821957.top
+0.0.0.0 1xbet822954.top
 0.0.0.0 1xbet834852.top
 0.0.0.0 1xbet84.com
 0.0.0.0 1xbet86.com
@@ -5434,6 +5438,7 @@
 0.0.0.0 1xbet94.com
 0.0.0.0 1xbet95.com
 0.0.0.0 1xbet969633.top
+0.0.0.0 1xbet972273.top
 0.0.0.0 1xbet9ja.com
 0.0.0.0 1xbetaccess.com
 0.0.0.0 1xbetaffiliates.net
@@ -5590,9 +5595,12 @@
 0.0.0.0 1xkorea.com
 0.0.0.0 1xkye.xyz
 0.0.0.0 1xlfc.com
+0.0.0.0 1xlite-071412.top
 0.0.0.0 1xlite-076026.top
 0.0.0.0 1xlite-442875.top
+0.0.0.0 1xlite-615175.top
 0.0.0.0 1xlite-630047.top
+0.0.0.0 1xlite-751710.top
 0.0.0.0 1xlite-873146.top
 0.0.0.0 1xmalaysia.com
 0.0.0.0 1xmantap.com
@@ -5620,6 +5628,9 @@
 0.0.0.0 1xsatu.com
 0.0.0.0 1xslot-113053.top
 0.0.0.0 1xslot-168404.top
+0.0.0.0 1xslot-315098.top
+0.0.0.0 1xslot-434950.top
+0.0.0.0 1xslot-473562.top
 0.0.0.0 1xslot-576555.top
 0.0.0.0 1xslot-849294.top
 0.0.0.0 1xslot-974608.top
@@ -24111,6 +24122,7 @@
 0.0.0.0 ads14.win888b.com
 0.0.0.0 ads16.win888b.com
 0.0.0.0 ads23.win888b.com
+0.0.0.0 ads5.dangkybum.club
 0.0.0.0 adsia5.com
 0.0.0.0 adsmg457.com
 0.0.0.0 adub91q.com
@@ -25309,6 +25321,7 @@
 0.0.0.0 babysplan.net
 0.0.0.0 bacc1688.com
 0.0.0.0 bacuw.com
+0.0.0.0 bahis-link.com
 0.0.0.0 bahisbet.co
 0.0.0.0 bahydhvyvck.com
 0.0.0.0 baicaidoufu.com
@@ -25617,6 +25630,7 @@
 0.0.0.0 bcr65.com
 0.0.0.0 bcr67.com
 0.0.0.0 bcrtv.com
+0.0.0.0 bcryx.com
 0.0.0.0 bcsd881.com
 0.0.0.0 bcsd882.com
 0.0.0.0 bcsd883.com
@@ -26179,20 +26193,43 @@
 0.0.0.0 betweapon.org
 0.0.0.0 betwent.com
 0.0.0.0 betwin2888net.com
+0.0.0.0 betwinner-0498773.top
 0.0.0.0 betwinner-076974.top
+0.0.0.0 betwinner-1147060.top
+0.0.0.0 betwinner-1576917.top
+0.0.0.0 betwinner-1620947.top
 0.0.0.0 betwinner-1781552.top
 0.0.0.0 betwinner-1801911.top
+0.0.0.0 betwinner-197189.top
 0.0.0.0 betwinner-2399824.top
+0.0.0.0 betwinner-2899545.top
 0.0.0.0 betwinner-324989.top
+0.0.0.0 betwinner-3445583.top
 0.0.0.0 betwinner-368237.top
+0.0.0.0 betwinner-3989637.top
 0.0.0.0 betwinner-415459.top
+0.0.0.0 betwinner-4603449.top
 0.0.0.0 betwinner-475046.top
 0.0.0.0 betwinner-4886544.top
+0.0.0.0 betwinner-5233775.top
+0.0.0.0 betwinner-5592948.top
+0.0.0.0 betwinner-5981158.top
 0.0.0.0 betwinner-6275836.top
+0.0.0.0 betwinner-6279327.top
 0.0.0.0 betwinner-6384678.top
+0.0.0.0 betwinner-6582129.top
+0.0.0.0 betwinner-6775593.top
 0.0.0.0 betwinner-678497.top
 0.0.0.0 betwinner-686105.top
+0.0.0.0 betwinner-6924408.top
+0.0.0.0 betwinner-6997161.top
+0.0.0.0 betwinner-7205072.top
+0.0.0.0 betwinner-7395636.top
+0.0.0.0 betwinner-7867068.top
 0.0.0.0 betwinner-8058650.top
+0.0.0.0 betwinner-9057642.top
+0.0.0.0 betwinner-9691121.top
+0.0.0.0 betwinner-9725400.top
 0.0.0.0 betwinner-981719.top
 0.0.0.0 betwinner.cd
 0.0.0.0 betwinner.com
@@ -26661,6 +26698,7 @@
 0.0.0.0 bk8vn.vip
 0.0.0.0 bk8vnd.com
 0.0.0.0 bk8vnn.win
+0.0.0.0 bk8win.top
 0.0.0.0 bk8x.com
 0.0.0.0 bk8y.com
 0.0.0.0 bk91hg.com
@@ -26669,6 +26707,7 @@
 0.0.0.0 bkk77.com
 0.0.0.0 bkk77.net
 0.0.0.0 bkkpjodvyg.com
+0.0.0.0 bkpub.ru
 0.0.0.0 bkre21.com
 0.0.0.0 bkw8v.com
 0.0.0.0 bkxkgdijof.com
@@ -28055,6 +28094,8 @@
 0.0.0.0 bvny18.com
 0.0.0.0 bvponfi9.cfd
 0.0.0.0 bvr28.com
+0.0.0.0 bvz84ad.com
+0.0.0.0 bvzaff156.com
 0.0.0.0 bw-bet.com
 0.0.0.0 bw-oauth.com
 0.0.0.0 bw01tiyu.com
@@ -29034,6 +29075,7 @@
 0.0.0.0 caisinpt.com
 0.0.0.0 cake000.com
 0.0.0.0 cake333.com
+0.0.0.0 cala66.com
 0.0.0.0 call2002.com
 0.0.0.0 calllala.xyz
 0.0.0.0 calonjuara.com
@@ -29998,6 +30040,7 @@
 0.0.0.0 dangky.thethaofb88.com
 0.0.0.0 dangky188.com
 0.0.0.0 dangkybayvip.com
+0.0.0.0 dangkybum.club
 0.0.0.0 dangkykubet.net
 0.0.0.0 dangkykubet.vip
 0.0.0.0 dangkynhanh88.com
@@ -31494,6 +31537,7 @@
 0.0.0.0 erere3499.com
 0.0.0.0 erjvz.asia
 0.0.0.0 erlingerer.com
+0.0.0.0 ertny.xyz
 0.0.0.0 erwave.xyz
 0.0.0.0 erxbowbiprwfqjup6732.com
 0.0.0.0 erxxdit.com
@@ -33422,6 +33466,7 @@
 0.0.0.0 fvn8.com
 0.0.0.0 fvn9.com
 0.0.0.0 fvowhmzupv.com
+0.0.0.0 fvtgy5w.cfd
 0.0.0.0 fvv22.com
 0.0.0.0 fvvipn18.com
 0.0.0.0 fvwymoyzqr.com
@@ -36031,6 +36076,7 @@
 0.0.0.0 i3473.com
 0.0.0.0 i3475.com
 0.0.0.0 i3479.com
+0.0.0.0 i365w.com
 0.0.0.0 i3679.com
 0.0.0.0 i38q2e4x.vip
 0.0.0.0 i3jp2ham9g.com
@@ -36148,6 +36194,7 @@
 0.0.0.0 i9bet39.com
 0.0.0.0 i9bet4.com
 0.0.0.0 i9bet444.com
+0.0.0.0 i9bet49.com
 0.0.0.0 i9bet5.com
 0.0.0.0 i9bet6.com
 0.0.0.0 i9bet666.com
@@ -38390,6 +38437,7 @@
 0.0.0.0 jvn2.com
 0.0.0.0 jvn9.com
 0.0.0.0 jvspin.com
+0.0.0.0 jvspinpartners.com
 0.0.0.0 jvspinpartners.net
 0.0.0.0 jw724.com
 0.0.0.0 jwifhfv.xyz
@@ -41455,8 +41503,10 @@
 0.0.0.0 linebet.com
 0.0.0.0 linebet.partners
 0.0.0.0 linebet0193.com
+0.0.0.0 linebet029874s.com
 0.0.0.0 linebet42798t.com
 0.0.0.0 linebet58641u.com
+0.0.0.0 linebet96850a.com
 0.0.0.0 linebold.xyz
 0.0.0.0 linedongsan.com
 0.0.0.0 linefun123.com
@@ -42699,6 +42749,7 @@
 0.0.0.0 maibpenrai.com
 0.0.0.0 maidsda1232.com
 0.0.0.0 mailingcent.site
+0.0.0.0 mailingcent.xyz
 0.0.0.0 maimai888a.xyz
 0.0.0.0 maimai888b.xyz
 0.0.0.0 maimaiappa.xyz
@@ -43269,10 +43320,12 @@
 0.0.0.0 melbanusd.top
 0.0.0.0 melbet-00491.top
 0.0.0.0 melbet-10012.top
+0.0.0.0 melbet-42748.top
 0.0.0.0 melbet-50957.top
 0.0.0.0 melbet-58767.top
 0.0.0.0 melbet-6907140.top
 0.0.0.0 melbet-78029.top
+0.0.0.0 melbet-88979.top
 0.0.0.0 melbet-91795.top
 0.0.0.0 melbet-94739.top
 0.0.0.0 melbet-99462.top
@@ -44475,6 +44528,7 @@
 0.0.0.0 nbqiu666.vip
 0.0.0.0 nbqiu888.vip
 0.0.0.0 nbqiu999.vip
+0.0.0.0 nbr-bvo6h09e.top
 0.0.0.0 nbtoto.com
 0.0.0.0 nbvxz.asia
 0.0.0.0 nbyijia666.com
@@ -44625,6 +44679,7 @@
 0.0.0.0 niftyro.xyz
 0.0.0.0 nihao5211.com
 0.0.0.0 niivy.xyz
+0.0.0.0 nimblecd.com
 0.0.0.0 nimei0.com
 0.0.0.0 ninecasino.com
 0.0.0.0 ning917.vip
@@ -44893,6 +44948,7 @@
 0.0.0.0 obe0k.com
 0.0.0.0 obk5b.mom
 0.0.0.0 obrien-design.com
+0.0.0.0 obsxoybs9zzq.top
 0.0.0.0 obty168.com
 0.0.0.0 obty1688.com
 0.0.0.0 ocbet.net
@@ -45860,6 +45916,7 @@
 0.0.0.0 presport.bet
 0.0.0.0 presssee.xyz
 0.0.0.0 prestigesb.com
+0.0.0.0 preview-1xcms.com
 0.0.0.0 primeline365.com
 0.0.0.0 primetimelines.com
 0.0.0.0 privacypolicyku.club
@@ -46340,6 +46397,7 @@
 0.0.0.0 rasibet88.com
 0.0.0.0 ratecer.xyz
 0.0.0.0 ratecups.xyz
+0.0.0.0 ratingbuk-af.com
 0.0.0.0 ravenup.xyz
 0.0.0.0 ray001.com
 0.0.0.0 ray002.com
@@ -46535,6 +46593,7 @@
 0.0.0.0 recoveryatlanta.com
 0.0.0.0 red-direct-m.com
 0.0.0.0 red-direct-n.com
+0.0.0.0 red-direct.com
 0.0.0.0 red88.com
 0.0.0.0 red88.uk
 0.0.0.0 red88.us
@@ -46681,6 +46740,7 @@
 0.0.0.0 refpahvozzgr.top
 0.0.0.0 refpaibzxpta.top
 0.0.0.0 refpaicctvtm.top
+0.0.0.0 refpaiglbwkv.top
 0.0.0.0 refpaikgai.top
 0.0.0.0 refpaimqyjwo.top
 0.0.0.0 refpainjaurc.top
@@ -46704,6 +46764,7 @@
 0.0.0.0 refpakvxtxoq.top
 0.0.0.0 refpakwpsrbm.top
 0.0.0.0 refpakycdamt.top
+0.0.0.0 refpalavqajw.top
 0.0.0.0 refpaldj.top
 0.0.0.0 refpalgftpkv.top
 0.0.0.0 refpalia.top
@@ -46720,6 +46781,7 @@
 0.0.0.0 refpanlodf.top
 0.0.0.0 refpanlvddpx.top
 0.0.0.0 refpanmgngep.top
+0.0.0.0 refpanpmjvhl.top
 0.0.0.0 refpanzxzhpj.top
 0.0.0.0 refpaocwmk.top
 0.0.0.0 refpaoemcaty.top
@@ -46816,6 +46878,7 @@
 0.0.0.0 retivabetpatners.com
 0.0.0.0 retroan.xyz
 0.0.0.0 retroci.xyz
+0.0.0.0 retvbt.com
 0.0.0.0 reurl.cc
 0.0.0.0 rewards.w88bkk.com
 0.0.0.0 rexonly.xyz
@@ -47940,6 +48003,7 @@
 0.0.0.0 sobotop.com
 0.0.0.0 soccer29.com
 0.0.0.0 soccerkr.com
+0.0.0.0 soccermemes.net
 0.0.0.0 socialdataplatform.com
 0.0.0.0 sock.dabet.club
 0.0.0.0 sock.mu9.club
@@ -48521,6 +48585,7 @@
 0.0.0.0 tai.rikvip.us
 0.0.0.0 tai.top88vn.net
 0.0.0.0 tai.v28.club
+0.0.0.0 tai.win79.pro
 0.0.0.0 tai.win79.vip
 0.0.0.0 tai.yo88vn.us
 0.0.0.0 tai.you88.vin
@@ -48704,6 +48769,7 @@
 0.0.0.0 terbaikdiasia.com
 0.0.0.0 tesasdasd.com
 0.0.0.0 test365denisecoatesfoundation.com
+0.0.0.0 testaffref.com
 0.0.0.0 tetjjt.xyz
 0.0.0.0 texansallin.com
 0.0.0.0 tf2022v.com
@@ -51945,6 +52011,7 @@
 0.0.0.0 win789.club
 0.0.0.0 win79.app
 0.0.0.0 win79.download
+0.0.0.0 win79.pro
 0.0.0.0 win79.vip
 0.0.0.0 win79play.me
 0.0.0.0 win8118.com
@@ -52411,6 +52478,7 @@
 0.0.0.0 www.bk8vn.live
 0.0.0.0 www.bk8vn.vip
 0.0.0.0 www.bk8vnd.com
+0.0.0.0 www.bk8win.top
 0.0.0.0 www.blackbearcasinoresort.com
 0.0.0.0 www.blogf8bet.com
 0.0.0.0 www.bong88net.com
@@ -52636,6 +52704,7 @@
 0.0.0.0 www.i9bet35.com
 0.0.0.0 www.i9bet36.com
 0.0.0.0 www.i9bet444.com
+0.0.0.0 www.i9bet49.com
 0.0.0.0 www.i9bet5.com
 0.0.0.0 www.i9bet6.com
 0.0.0.0 www.i9bet888.com
@@ -55127,6 +55196,7 @@
 0.0.0.0 yourbonus.online
 0.0.0.0 yourspread.com
 0.0.0.0 youtaigamebai.app
+0.0.0.0 youtube1x.com
 0.0.0.0 yoyoey.xyz
 0.0.0.0 yoyoop.xyz
 0.0.0.0 ypay68.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 30 Jan 2023 17:42 UTC+7
-! Version: 2301301742
-! Blocked: 3,375 rules
+! Last modified: 31 Jan 2023 11:10 UTC+7
+! Version: 2301311110
+! Blocked: 3,376 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -31,6 +31,7 @@
 ||333lotte.com^
 ||33lotte.com^
 ||3615407.xyz^
+||3615738.xyz^
 ||365bet.shop^
 ||456vdghgj30.dyndns.org^
 ||555lotte.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Jan 2023 17:43 UTC+7
-# Version: 2301301743
-# Blocked: 17,309 domains
+# Last modified: 31 Jan 2023 11:10 UTC+7
+# Version: 2301311110
+# Blocked: 17,326 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8995,11 +8995,16 @@
 0 u50.0i0i0i0.com
 0 log.api.useinsider.com
 0 mobileanalytics.useinsider.com
+0 0a0d-d3l1vr.b-cdn.net
 0 ad-serve.b-cdn.net
+0 admost-banner.b-cdn.net
+0 ads-delivery.b-cdn.net
 0 adstatic.b-cdn.net
+0 bbangads.b-cdn.net
 0 heoads.b-cdn.net
 0 mellowads.b-cdn.net
 0 popcashjs.b-cdn.net
+0 predataclient.b-cdn.net
 0 sys.vidsrev.com
 0 tracker.vidsrev.com
 0 vidsrev.com
@@ -9786,10 +9791,14 @@
 0 advm.brznetwork.com
 0 advs.brznetwork.com
 0 brznetwork.com
+0 ad.impactify.media
+0 dvr.impactify.media
 0 impactify.media
 0 vpaid.impactify.media
 0 event-action.popinfo.jp
 0 events.popinfo.jp
+0 bestfreecounterstat.com
+0 counter9.bestfreecounterstat.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -11001,6 +11010,12 @@
 0 tjme.io
 0 txx.tjme.io
 0 web-api.tjme.io
+0 d.watanet.work
+0 watanet.work
+0 cdn.wataads.com
+0 wataads.com
+0 cdn.viraads.com
+0 viraads.com
 0 12signup.com
 0 ad-admin.vnay.vn
 0 ad-ndtv.3s.com.vn
@@ -13656,6 +13671,7 @@
 0 fadedprofit.com
 0 fadingamendable.com
 0 fadverdirect.com
+0 fagawdasv.com
 0 fagywalu.pro
 0 faidoud.com
 0 fakeerupriser.com
@@ -14879,6 +14895,7 @@
 0 onmobile.com
 0 onstunkyr.com
 0 onvictinitor.com
+0 onzlzyf.com
 0 oodsotso.com
 0 ootchoft.com
 0 opcharizardon.com

@@ -10014,11 +10014,16 @@
 0.0.0.0 log.api.useinsider.com
 0.0.0.0 mobileanalytics.useinsider.com
 #[b-cdn.net]
+0.0.0.0 0a0d-d3l1vr.b-cdn.net
 0.0.0.0 ad-serve.b-cdn.net
+0.0.0.0 admost-banner.b-cdn.net
+0.0.0.0 ads-delivery.b-cdn.net
 0.0.0.0 adstatic.b-cdn.net
+0.0.0.0 bbangads.b-cdn.net
 0.0.0.0 heoads.b-cdn.net
 0.0.0.0 mellowads.b-cdn.net
 0.0.0.0 popcashjs.b-cdn.net
+0.0.0.0 predataclient.b-cdn.net
 #[vidsrev.com]
 0.0.0.0 sys.vidsrev.com
 0.0.0.0 tracker.vidsrev.com
@@ -11029,8 +11034,13 @@
 0.0.0.0 advs.brznetwork.com
 0.0.0.0 brznetwork.com
 #[impactify.media]
+0.0.0.0 ad.impactify.media
+0.0.0.0 dvr.impactify.media
 0.0.0.0 impactify.media
 0.0.0.0 vpaid.impactify.media
 #[popinfo.jp]
 0.0.0.0 event-action.popinfo.jp
 0.0.0.0 events.popinfo.jp
+#[bestfreecounterstat.com]
+0.0.0.0 bestfreecounterstat.com
+0.0.0.0 counter9.bestfreecounterstat.com

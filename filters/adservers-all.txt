@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 30 Jan 2023 17:43 UTC+7
-! Version: 2301301743
-! Blocked: 8,202 rules
+! Last modified: 31 Jan 2023 11:10 UTC+7
+! Version: 2301311110
+! Blocked: 8,213 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -280,8 +280,11 @@
 ||viam.com.vn^
 ||vidoomy.com^
 ||vietnamnetad.vn^
+||viraads.com^
 ||vnn-tracking.vnncdn.net^
 ||vnnayngaytin.vn^
+||wataads.com^
+||watanet.work^
 ||wg.zaloapp.com^
 ||widget.chat.zalo.me^
 ||wiinvent.com.vn^
@@ -807,6 +810,7 @@
 ||za.baomoi.com^
 ||zigzag.vn^
 ||ztrck.me^
+||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
 ||152media.com^
 ||1rx.io^
@@ -939,6 +943,7 @@
 ||admixer.net^
 ||admob.com^
 ||admobclick.com^
+||admost-banner.b-cdn.net^
 ||admozartxml.com^
 ||adnetasia.com^
 ||adnetworktech.com^
@@ -968,6 +973,7 @@
 ||ads-bidder-api.twitter.com^
 ||ads-cloud.rovio.com^
 ||ads-d.viber.com^
+||ads-delivery.b-cdn.net^
 ||ads-dev.pinterest.com^
 ||ads-pixiv.net^
 ||ads-privacy-api.prd.mz.internal.unity3d.com^
@@ -1276,6 +1282,7 @@
 ||batchlogging4.truecaller.com^
 ||batmobi.net^
 ||bats.video.yahoo.com^
+||bbangads.b-cdn.net^
 ||beacon-api.aliyuncs.com^
 ||beacon.affil.walmart.com^
 ||beacon.qq.com^
@@ -1286,6 +1293,7 @@
 ||bebi.com^
 ||beop.io^
 ||bestcontentfood.top^
+||bestfreecounterstat.com^
 ||betrad.com^
 ||betweendigital.com^
 ||bfmio.com^
@@ -2091,6 +2099,7 @@
 ||prd-lender.cdp.internal.unity3d.com^
 ||prdredir.com^
 ||prebid.org^
+||predataclient.b-cdn.net^
 ||premiumads.com.br^
 ||presage.io^
 ||privatestats.whatsapp.net^
@@ -4930,6 +4939,7 @@
 ||fadedprofit.com^
 ||fadingamendable.com^
 ||fadverdirect.com^
+||fagawdasv.com^
 ||fagywalu.pro^
 ||faidoud.com^
 ||fakeerupriser.com^
@@ -6298,6 +6308,7 @@
 ||onmobile.com^
 ||onstunkyr.com^
 ||onvictinitor.com^
+||onzlzyf.com^
 ||oodsotso.com^
 ||ootchoft.com^
 ||opcharizardon.com^
