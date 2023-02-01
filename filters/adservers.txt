@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Feb 2023 11:44 UTC+7
-! Version: 2302011144
-! Blocked: 805 rules
+! Last modified: 01 Feb 2023 11:56 UTC+7
+! Version: 2302011156
+! Blocked: 808 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -28,6 +28,7 @@
 ||ads.botbanhang.vn^
 ||ads.platform.zalo.me^
 ||ads.thanhnien.vn^
+||ads.vtc.vn^
 ||ads.zalo.me^
 ||ads.zaloapp.com^
 ||ads.zdn.vn^
@@ -102,6 +103,9 @@
 ||dable.io^
 ||daleriki.com^
 ||delivery.akadigital.vn^
+||delivery.vtc.vn^
+||delivery.vtcnew.com.vn^
+||delivery.vtcnews.vn^
 ||donglogs.com^
 ||dtadnetwork.com^
 ||eclick.vn^
@@ -269,6 +273,8 @@
 ||tracking.playzing.g6.zing.vn^
 ||tracking.tv.zing.vn^
 ||tracking.vnncdn.net^
+||tracking.vtc.vn^
+||tracking.vtcnew.com.vn^
 ||tracking2.vnncdn.net^
 ||tracking3.vnncdn.net^
 ||trk-pcweb.api.zaloapp.com^
@@ -520,8 +526,6 @@
 ||csmads.gameclick.vn^
 ||delecpuzz.com^
 ||delivery.senvangvn.com^
-||delivery.vtc.vn^
-||delivery.vtcnew.com.vn^
 ||deltago.com^
 ||demopage.me^
 ||deqik.com^
@@ -773,7 +777,6 @@
 ||tracking.vegaid.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
-||tracking.vtcnew.com.vn^
 ||trackingapi.foody.vn^
 ||trackingvn.zingplay.com^
 ||trackity.tiki.vn^

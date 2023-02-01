@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Feb 2023 11:44 UTC+7
-# Version: 2302011144
-# Blocked: 1,733 domains
+# Last modified: 01 Feb 2023 11:56 UTC+7
+# Version: 2302011156
+# Blocked: 1,736 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1399,6 +1399,15 @@
 #[viraads.com]
 0.0.0.0 cdn.viraads.com
 0.0.0.0 viraads.com
+#[vtc.vn]
+0.0.0.0 ads.vtc.vn
+0.0.0.0 delivery.vtc.vn
+0.0.0.0 tracking.vtc.vn
+#[vtcnews.vn]
+0.0.0.0 delivery.vtcnews.vn
+#[vtcnew.com.vn]
+0.0.0.0 delivery.vtcnew.com.vn
+0.0.0.0 tracking.vtcnew.com.vn
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -1545,8 +1554,6 @@
 0.0.0.0 csmads.gameclick.vn
 0.0.0.0 delecpuzz.com
 0.0.0.0 delivery.senvangvn.com
-0.0.0.0 delivery.vtc.vn
-0.0.0.0 delivery.vtcnew.com.vn
 0.0.0.0 deltago.com
 0.0.0.0 demopage.me
 0.0.0.0 deqik.com
@@ -1885,7 +1892,6 @@
 0.0.0.0 tracking.vegaid.vn
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietbao.vn
-0.0.0.0 tracking.vtcnew.com.vn
 0.0.0.0 trackingapi.foody.vn
 0.0.0.0 trackingvn.zingplay.com
 0.0.0.0 trackity.tiki.vn

@@ -1387,3 +1387,12 @@
 #[viraads.com]
 0.0.0.0 cdn.viraads.com
 0.0.0.0 viraads.com
+#[vtc.vn]
+0.0.0.0 ads.vtc.vn
+0.0.0.0 delivery.vtc.vn
+0.0.0.0 tracking.vtc.vn
+#[vtcnews.vn]
+0.0.0.0 delivery.vtcnews.vn
+#[vtcnew.com.vn]
+0.0.0.0 delivery.vtcnew.com.vn
+0.0.0.0 tracking.vtcnew.com.vn
