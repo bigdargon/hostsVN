@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 31 Jan 2023 11:10 UTC+7
-! Version: 2301311110
-! Blocked: 8,213 rules
+! Last modified: 01 Feb 2023 11:03 UTC+7
+! Version: 2302011103
+! Blocked: 8,215 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6534,6 +6534,7 @@
 ||player.kmpmedia.net^
 ||playhaven.com^
 ||playmobileads.com^
+||playsdonkey^
 ||playtomic.com^
 ||playwrightglancing.com^
 ||plethoramobile.com^
@@ -6672,6 +6673,7 @@
 ||public.wedodemos.com^
 ||publicidad.elmundo.es^
 ||publicidees.com^
+||publicunloadbags.com^
 ||pubmaner5.com^
 ||pubmedya.net^
 ||puffyloss.com^
