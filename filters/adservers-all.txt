@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Feb 2023 09:42 UTC+7
-! Version: 2302020942
+! Last modified: 02 Feb 2023 10:01 UTC+7
+! Version: 2302021001
 ! Blocked: 8,224 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -6541,7 +6541,7 @@
 ||player.kmpmedia.net^
 ||playhaven.com^
 ||playmobileads.com^
-||playsdonkey^
+||playsdonkey.com^
 ||playtomic.com^
 ||playwrightglancing.com^
 ||plethoramobile.com^
