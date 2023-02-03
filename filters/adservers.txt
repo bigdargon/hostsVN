@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Feb 2023 10:01 UTC+7
-! Version: 2302021001
-! Blocked: 809 rules
+! Last modified: 03 Feb 2023 10:10 UTC+7
+! Version: 2302031010
+! Blocked: 811 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12,7 +12,6 @@
 ||ad.accesstrade.vn^
 ||ad.org.vn^
 ||ad.zing.vn^
-||zt1.me.zing.vn^
 ||adasiaholdings.com^
 ||adbro.me^
 ||adflex.vn^
@@ -305,6 +304,7 @@
 ||za.zingmp3.vn^
 ||za.zingnews.com.vn^
 ||za.zingnews.vn^
+||zads.me.zing.vn^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
 ||zalo-ads-480-td.zadn.vn^
@@ -317,6 +317,8 @@
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||zt.me.zing.vn^
+||zt1.me.zing.vn^
 ||ztevents.zaloapp.com^
 ||12signup.com^
 ||360.anatic.net^

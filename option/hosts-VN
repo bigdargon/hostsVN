@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Feb 2023 10:01 UTC+7
-# Version: 2302021001
-# Blocked: 1,737 domains
+# Last modified: 03 Feb 2023 10:10 UTC+7
+# Version: 2302031010
+# Blocked: 1,739 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -405,6 +405,9 @@
 0.0.0.0 tracking.playzing.g6.zing.vn
 0.0.0.0 tracking.tv.zing.vn
 0.0.0.0 zlog.mp3.zing.vn
+#[me.zing.vn]
+0.0.0.0 zads.me.zing.vn
+0.0.0.0 zt.me.zing.vn
 0.0.0.0 zt1.me.zing.vn
 #[brand.zing.vn]
 0.0.0.0 adtima.brand.zing.vn
