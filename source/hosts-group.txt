@@ -5016,6 +5016,7 @@
 0.0.0.0 aj1015.online
 0.0.0.0 aj1047.online
 0.0.0.0 aj1052.online
+0.0.0.0 aj1058.online
 0.0.0.0 aj1070.online
 0.0.0.0 aj1090.online
 0.0.0.0 aj1354.online
@@ -9207,10 +9208,10 @@
 0.0.0.0 video.innovid.com
 0.0.0.0 x.innovid.com
 #[51.la]
-0.0.0.0 51.la
+0.0.0.0 collect-v6.51.la
 0.0.0.0 ia.51.la
 0.0.0.0 js.users.51.la
-0.0.0.0 www.51.la
+0.0.0.0 sdk.51.la
 #[aqua-adserver.com]
 0.0.0.0 api.aqua-adserver.com
 0.0.0.0 aqua-adserver.com
@@ -11044,3 +11045,9 @@
 #[bestfreecounterstat.com]
 0.0.0.0 bestfreecounterstat.com
 0.0.0.0 counter9.bestfreecounterstat.com
+#[pssy.xyz]
+0.0.0.0 d.pssy.xyz
+0.0.0.0 pssy.xyz
+0.0.0.0 r.pssy.xyz
+0.0.0.0 s.pssy.xyz
+0.0.0.0 www.pssy.xyz

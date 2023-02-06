@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 03 Feb 2023 10:10 UTC+7
-! Version: 2302031010
-! Blocked: 8,228 rules
+! Last modified: 06 Feb 2023 11:56 UTC+7
+! Version: 2302061156
+! Blocked: 8,240 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -836,7 +836,6 @@
 ||4cinsights.com^
 ||4dex.io^
 ||4dsply.com^
-||51.la^
 ||6sc.co^
 ||7fb60feaa4.com^
 ||a-ads.com^
@@ -1442,6 +1441,7 @@
 ||cnnx.io^
 ||cnt.my^
 ||cnt.trvdp.com^
+||collect-v6.51.la^
 ||collect.data.tm-awx.com^
 ||collect.igodigital.com^
 ||collecticon.outlookmobile.com^
@@ -1731,6 +1731,7 @@
 ||hummingbird.mavencoalition.io^
 ||hwstats.unity3d.com^
 ||i-mobile.co.jp^
+||ia.51.la^
 ||iad-01.braze.com^
 ||iad-02.braze.com^
 ||iad-03.braze.com^
@@ -1805,6 +1806,7 @@
 ||jpush.cn^
 ||jpush.io^
 ||js-agent.newrelic.com^
+||js.users.51.la^
 ||js7k.com^
 ||jscount.com^
 ||jsecoin.com^
@@ -2122,6 +2124,7 @@
 ||propellerclick.com^
 ||proper.io^
 ||protagcdn.com^
+||pssy.xyz^
 ||ptengine.cn^
 ||ptengine.com^
 ||ptengine.jp^
@@ -2234,6 +2237,7 @@
 ||scupio.com^
 ||sdk-diagnostics.prd.mz.internal.unity3d.com^
 ||sdk-diagnostics.stg.mz.internal.unity3d.com^
+||sdk.51.la^
 ||sdk.hansel.io^
 ||sdk.s.360.cn^
 ||sdklog.tvstore.opera.com^
@@ -2914,6 +2918,7 @@
 ||adminshop.com^
 ||admitad.com^
 ||admized.com^
+||admob-gmats.uc.r.appspot.com^
 ||admobile.com^
 ||admonitor.com^
 ||admotion.com.ar^
@@ -3297,6 +3302,7 @@
 ||adshark.site^
 ||adshost1.com^
 ||adshost2.com^
+||adshostnet.com^
 ||adside.com^
 ||adsk2.co^
 ||adskape.ru^
@@ -4045,6 +4051,7 @@
 ||boilingbeetle.com^
 ||boilingumbrella.com^
 ||boldchat.com^
+||bonepa.com^
 ||bonertraffic13.info^
 ||bonertraffic14.pro^
 ||bonnilytooths.com^
@@ -5170,6 +5177,7 @@
 ||go.mobisla.com^
 ||go.onclasrv.com^
 ||go.padstm.com^
+||go0gl3.pages.dev^
 ||go2affise.com^
 ||go6shde9nj2itle.com^
 ||goadservices.com^
@@ -5516,6 +5524,7 @@
 ||invol.co^
 ||inwraptsekane.com^
 ||iodideeyebath.cam^
+||iogjhbnoypg.com^
 ||ionnmjdsf.com^
 ||iovation.com^
 ||ipp2s.xyz^
@@ -6278,6 +6287,7 @@
 ||ofsyuxaveckulgf.com^
 ||ohtctjiuow.com^
 ||oixohmve.com^
+||ojjzpitr.com^
 ||ojqbnqdwycws.com^
 ||oktogar.com^
 ||okueroskynt.com^
@@ -6924,6 +6934,7 @@
 ||roomegar.com^
 ||rose.ixbt.com^
 ||rosiedaulos.com^
+||rosymap.pro^
 ||rot.spotsniper.ru^
 ||rotabanner.com^
 ||rotabol.com^
@@ -7599,6 +7610,7 @@
 ||topsites.com.br^
 ||topstats.com^
 ||tornbed.pro^
+||toroadvertisingmedia.com^
 ||totemcash.com^
 ||touchads.com^
 ||touchclarity.com^

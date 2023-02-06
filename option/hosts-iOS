@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Feb 2023 10:10 UTC+7
-# Version: 2302031010
-# Blocked: 17,341 domains
+# Last modified: 06 Feb 2023 11:56 UTC+7
+# Version: 2302061156
+# Blocked: 17,355 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4604,6 +4604,7 @@
 0 aj1015.online
 0 aj1047.online
 0 aj1052.online
+0 aj1058.online
 0 aj1070.online
 0 aj1090.online
 0 aj1354.online
@@ -8332,10 +8333,10 @@
 0 static.innovid.com
 0 video.innovid.com
 0 x.innovid.com
-0 51.la
+0 collect-v6.51.la
 0 ia.51.la
 0 js.users.51.la
-0 www.51.la
+0 sdk.51.la
 0 api.aqua-adserver.com
 0 aqua-adserver.com
 0 servedby.aqua-adserver.com
@@ -9799,6 +9800,11 @@
 0 events.popinfo.jp
 0 bestfreecounterstat.com
 0 counter9.bestfreecounterstat.com
+0 d.pssy.xyz
+0 pssy.xyz
+0 r.pssy.xyz
+0 s.pssy.xyz
+0 www.pssy.xyz
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10185,16 +10191,16 @@
 0 za.zingnews.com.vn
 0 ads.platform.zalo.me
 0 ads.zalo.me
-0 api.widget.zalo.me
 0 button-call.zalo.me
 0 button-follow.zalo.me
 0 button-share.zalo.me
 0 groupstats.event.zalo.me
-0 page.widget.zalo.me
 0 px.za.zalo.me
 0 sentry-mini.zalo.me
 0 stats.hc.score.dmp.zalo.me
 0 widget.chat.zalo.me
+0 api.widget.zalo.me
+0 page.widget.zalo.me
 0 ads.zaloapp.com
 0 centralized.zaloapp.com
 0 log.api.zaloapp.com
@@ -11860,6 +11866,7 @@
 0 adminshop.com
 0 admitad.com
 0 admized.com
+0 admob-gmats.uc.r.appspot.com
 0 admobile.com
 0 admonitor.com
 0 admotion.com.ar
@@ -12243,6 +12250,7 @@
 0 adshark.site
 0 adshost1.com
 0 adshost2.com
+0 adshostnet.com
 0 adside.com
 0 adsk2.co
 0 adskape.ru
@@ -12881,6 +12889,7 @@
 0 boilingbeetle.com
 0 boilingumbrella.com
 0 boldchat.com
+0 bonepa.com
 0 bonertraffic13.info
 0 bonertraffic14.pro
 0 bonnilytooths.com
@@ -13883,6 +13892,7 @@
 0 go.mobisla.com
 0 go.onclasrv.com
 0 go.padstm.com
+0 go0gl3.pages.dev
 0 go2affise.com
 0 go6shde9nj2itle.com
 0 goadservices.com
@@ -14191,6 +14201,7 @@
 0 invol.co
 0 inwraptsekane.com
 0 iodideeyebath.cam
+0 iogjhbnoypg.com
 0 ionnmjdsf.com
 0 ipp2s.xyz
 0 ipredictive.com
@@ -14867,6 +14878,7 @@
 0 ofsyuxaveckulgf.com
 0 ohtctjiuow.com
 0 oixohmve.com
+0 ojjzpitr.com
 0 ojqbnqdwycws.com
 0 oktogar.com
 0 okueroskynt.com
@@ -15444,6 +15456,7 @@
 0 roomegar.com
 0 rose.ixbt.com
 0 rosiedaulos.com
+0 rosymap.pro
 0 rot.spotsniper.ru
 0 rotabanner.com
 0 rotabol.com
@@ -16003,6 +16016,7 @@
 0 topsites.com.br
 0 topstats.com
 0 tornbed.pro
+0 toroadvertisingmedia.com
 0 totemcash.com
 0 touchads.com
 0 touchclarity.com
