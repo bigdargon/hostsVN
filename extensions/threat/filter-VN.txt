@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 06 Feb 2023 11:56 UTC+7
-! Version: 2302061156
-! Blocked: 3,376 rules
+! Last modified: 06 Feb 2023 22:36 UTC+7
+! Version: 2302062236
+! Blocked: 3,386 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -40,11 +40,14 @@
 ||588589.com^
 ||5namlienquan-giftcode.com^
 ||666lotte.com^
+||6699uu.com^
 ||66lotte.com^
 ||66mh.shop^
 ||66vang.com^
 ||671djn.cyou^
 ||6788vn.com^
+||76996.co^
+||79wing.com^
 ||84mua.com^
 ||888lotte.com^
 ||88lotte.com^
@@ -56,6 +59,7 @@
 ||999lotte.com^
 ||99lotte.com^
 ||9g5lm9.cyou^
+||a666.vn^
 ||abbabbbank.com^
 ||abbankpro.com^
 ||abbankvn.com^
@@ -193,6 +197,7 @@
 ||cf222.art^
 ||chamsockhachang.com^
 ||chanle79.me^
+||chanlemmo.com^
 ||chanlemomo.zyrosite.com^
 ||checkaccff.com^
 ||checkerviet.win^
@@ -351,6 +356,7 @@
 ||dragoncapitalmoney.com^
 ||dragoncapitalvay.com^
 ||drakeesh.com^
+||dtcltx.com^
 ||dtdvmuadong-lienquan.com^
 ||duthithanhlich2021.weebly.com^
 ||duyendangaodaivietnam2021.weebly.com^
@@ -606,6 +612,7 @@
 ||hdbankfinance.cyou^
 ||hdbankfinance.icu^
 ||hdbankfinance.org^
+||hdbankfinance.shop^
 ||hdbankfinance.top^
 ||hdbankfinance.win^
 ||hdbankfinance.xyz^
@@ -1137,6 +1144,7 @@
 ||motaikhoannganhang.online^
 ||moviet.icu^
 ||mp0s247-quetthetindung.com^
+||mp220303.com^
 ||mpos-phieudangkyruttien.com^
 ||mpos-ruttientindungnhanh.com^
 ||mpos-ruttindunguytinvn.com^
@@ -2332,6 +2340,7 @@
 ||thanhphomomo.com^
 ||thanhtoanlienquan.com^
 ||thanquay247.vip^
+||thao88.com^
 ||thebank247.ga^
 ||thechapnganhang-24h.com^
 ||thegioididong.me^
@@ -3380,5 +3389,6 @@
 ||zingshop.net^
 ||zmomo.cc^
 ||zvay.online^
+||zvc.cc^
 ||zvietcombank.com^
 ||zvietnakello.weebly.com^

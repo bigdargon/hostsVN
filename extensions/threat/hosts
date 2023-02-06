@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 06 Feb 2023 11:56 UTC+7
-# Version: 2302061156
-# Blocked: 3,658 domains
+# Last modified: 06 Feb 2023 22:36 UTC+7
+# Version: 2302062236
+# Blocked: 3,668 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -48,12 +48,15 @@
 0.0.0.0 588589.com
 0.0.0.0 5namlienquan-giftcode.com
 0.0.0.0 666lotte.com
+0.0.0.0 6699uu.com
 0.0.0.0 66lotte.com
 0.0.0.0 66mh.shop
 0.0.0.0 66vang.com
 0.0.0.0 671djn.cyou
 0.0.0.0 6788vn.com
 0.0.0.0 76236osm1.ru
+0.0.0.0 76996.co
+0.0.0.0 79wing.com
 0.0.0.0 84mua.com
 0.0.0.0 888lotte.com
 0.0.0.0 88lotte.com
@@ -66,6 +69,7 @@
 0.0.0.0 99lotte.com
 0.0.0.0 9g5lm9.cyou
 0.0.0.0 Free-4paid.com
+0.0.0.0 a666.vn
 0.0.0.0 abbabbbank.com
 0.0.0.0 abbankpro.com
 0.0.0.0 abbankvn.com
@@ -251,6 +255,7 @@
 0.0.0.0 cf222.art
 0.0.0.0 chamsockhachang.com
 0.0.0.0 chanle79.me
+0.0.0.0 chanlemmo.com
 0.0.0.0 chanlemomo.zyrosite.com
 0.0.0.0 checkaccff.com
 0.0.0.0 checkerviet.win
@@ -431,6 +436,7 @@
 0.0.0.0 dragoncapitalvay.com
 0.0.0.0 drake4.xyz
 0.0.0.0 drakeesh.com
+0.0.0.0 dtcltx.com
 0.0.0.0 dtdvmuadong-lienquan.com
 0.0.0.0 duthithanhlich2021.weebly.com
 0.0.0.0 duyendangaodaivietnam2021.weebly.com
@@ -718,6 +724,7 @@
 0.0.0.0 hdbankfinance.cyou
 0.0.0.0 hdbankfinance.icu
 0.0.0.0 hdbankfinance.org
+0.0.0.0 hdbankfinance.shop
 0.0.0.0 hdbankfinance.top
 0.0.0.0 hdbankfinance.win
 0.0.0.0 hdbankfinance.xyz
@@ -1279,6 +1286,7 @@
 0.0.0.0 motaikhoannganhang.online
 0.0.0.0 moviet.icu
 0.0.0.0 mp0s247-quetthetindung.com
+0.0.0.0 mp220303.com
 0.0.0.0 mpos-phieudangkyruttien.com
 0.0.0.0 mpos-ruttientindungnhanh.com
 0.0.0.0 mpos-ruttindunguytinvn.com
@@ -2527,6 +2535,7 @@
 0.0.0.0 thanhphomomo.com
 0.0.0.0 thanhtoanlienquan.com
 0.0.0.0 thanquay247.vip
+0.0.0.0 thao88.com
 0.0.0.0 thebank247.ga
 0.0.0.0 thechapnganhang-24h.com
 0.0.0.0 thegioididong.me
@@ -3666,5 +3675,6 @@
 0.0.0.0 zmomo.cc
 0.0.0.0 znavidsde.cfd
 0.0.0.0 zvay.online
+0.0.0.0 zvc.cc
 0.0.0.0 zvietcombank.com
 0.0.0.0 zvietnakello.weebly.com

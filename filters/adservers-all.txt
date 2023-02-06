@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Feb 2023 11:56 UTC+7
-! Version: 2302061156
-! Blocked: 8,240 rules
+! Last modified: 06 Feb 2023 22:37 UTC+7
+! Version: 2302062237
+! Blocked: 8,247 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1303,6 +1303,7 @@
 ||betrad.com^
 ||betweendigital.com^
 ||bfmio.com^
+||bid.atmtd.com^
 ||bidadx.com^
 ||bidder.dev^
 ||bidfilter.com^
@@ -1563,6 +1564,7 @@
 ||easyads28.info^
 ||eclick.baidu.com^
 ||edge.adobedc.net^
+||edge.atmtd.com^
 ||effectivemeasure.net^
 ||ej1*.online^
 ||em.dynamicyield.com^
@@ -1689,6 +1691,7 @@
 ||goraps.com^
 ||growingio.com^
 ||growthrx.in^
+||grvmedia.com^
 ||gsp1.baidu.com^
 ||gsspat.jp^
 ||gssprt.jp^
@@ -2387,6 +2390,7 @@
 ||tenmax.io^
 ||tenmaxsgads.blob.core.windows.net^
 ||tg.meitu.com^
+||the-ozone-project.com^
 ||themediagrid.com^
 ||themoneytizer.com^
 ||tia.timeinc.net^
@@ -4579,6 +4583,7 @@
 ||dancemistake.com^
 ||dap.digitalgov.gov^
 ||dapper.net^
+||dartonim.com^
 ||daserver.ultraweb.hu^
 ||dashingdirt.com^
 ||dashingsweater.com^
@@ -5273,6 +5278,7 @@
 ||heelseparateddistinguished.com^
 ||heeteefu.com^
 ||heleric.com^
+||helpedhandwritingintestine.com^
 ||hemiolajobson.website^
 ||hentaicounter.com^
 ||heratheacle.com^
@@ -6517,6 +6523,7 @@
 ||pippio.com^
 ||piquantpigs.com^
 ||pisism.com^
+||pistolsizehoe.com^
 ||pitpastraja.com^
 ||piwik.digineo.de^
 ||piwik.nobleprog.com^

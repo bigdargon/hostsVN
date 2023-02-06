@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Feb 2023 11:56 UTC+7
-# Version: 2302061156
-# Blocked: 17,355 domains
+# Last modified: 06 Feb 2023 22:37 UTC+7
+# Version: 2302062237
+# Blocked: 17,374 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2059,6 +2059,7 @@
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 crwdcntrl.net
+0.0.0.0 id.crwdcntrl.net
 0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 tags.crwdcntrl.net
 #[teads]
@@ -4603,6 +4604,7 @@
 0.0.0.0 criteo-partners.tremorhub.com
 0.0.0.0 events.tremorhub.com
 0.0.0.0 eyeview-partners.tremorhub.com
+0.0.0.0 mb9eo.publishers.tremorhub.com
 0.0.0.0 partners.tremorhub.com
 0.0.0.0 qds0l.publishers.tremorhub.com
 0.0.0.0 quantcast.partners.tremorhub.com
@@ -6267,12 +6269,13 @@
 0.0.0.0 config.a-mo.net
 0.0.0.0 cpxy.a-mo.net
 0.0.0.0 downloads.a-mo.net
-0.0.0.0 fav.a-mo.net
 0.0.0.0 fav-cdn.a-mo.net
+0.0.0.0 fav.a-mo.net
 0.0.0.0 metrics.a-mo.net
 0.0.0.0 o.update.a-mo.net
 0.0.0.0 p.update.a-mo.net
 0.0.0.0 post.update.a-mo.net
+0.0.0.0 prebid.a-mo.net
 0.0.0.0 rj.a-mo.net
 0.0.0.0 s.update.a-mo.net
 0.0.0.0 sdk.a-mo.net
@@ -10766,6 +10769,8 @@
 0.0.0.0 ap.cpatrk.net
 0.0.0.0 me.cpatrk.net
 #[presage.io]
+0.0.0.0 ms-cookie-sync.presage.io
+0.0.0.0 mweb-hb.presage.io
 0.0.0.0 p.presage.io
 0.0.0.0 pad-v3.presage.io
 0.0.0.0 presage.io
@@ -11063,6 +11068,20 @@
 0.0.0.0 r.pssy.xyz
 0.0.0.0 s.pssy.xyz
 0.0.0.0 www.pssy.xyz
+#[atmtd.com]
+0.0.0.0 bid.atmtd.com
+0.0.0.0 edge.atmtd.com
+#[grvmedia.com]
+0.0.0.0 a.grvmedia.com
+0.0.0.0 grvmedia.com
+0.0.0.0 r.grvmedia.com
+0.0.0.0 s.grvmedia.com
+0.0.0.0 s2.grvmedia.com
+0.0.0.0 www.grvmedia.com
+#[the-ozone-project.com]
+0.0.0.0 elb.the-ozone-project.com
+0.0.0.0 prebid.the-ozone-project.com
+0.0.0.0 the-ozone-project.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14791,6 +14810,7 @@
 0.0.0.0 danbo.org
 0.0.0.0 dancemistake.com
 0.0.0.0 dapper.net
+0.0.0.0 dartonim.com
 0.0.0.0 daserver.ultraweb.hu
 0.0.0.0 dashingdirt.com
 0.0.0.0 dashingsweater.com
@@ -15420,6 +15440,7 @@
 0.0.0.0 heelseparateddistinguished.com
 0.0.0.0 heeteefu.com
 0.0.0.0 heleric.com
+0.0.0.0 helpedhandwritingintestine.com
 0.0.0.0 hemiolajobson.website
 0.0.0.0 hentaicounter.com
 0.0.0.0 heratheacle.com
@@ -16535,6 +16556,7 @@
 0.0.0.0 pippio.com
 0.0.0.0 piquantpigs.com
 0.0.0.0 pisism.com
+0.0.0.0 pistolsizehoe.com
 0.0.0.0 pitpastraja.com
 0.0.0.0 pixel.leadzu.com
 0.0.0.0 pixel.mediaiqdigital.com
