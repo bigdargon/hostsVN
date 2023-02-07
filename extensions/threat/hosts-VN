@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 06 Feb 2023 22:36 UTC+7
-# Version: 2302062236
-# Blocked: 3,436 domains
+# Last modified: 07 Feb 2023 09:33 UTC+7
+# Version: 2302070933
+# Blocked: 3,443 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -613,12 +613,17 @@
 0.0.0.0 hdbankfinancc.website
 0.0.0.0 hdbankfinancc.xyz
 0.0.0.0 hdbankfinance.agency
+0.0.0.0 hdbankfinance.club
 0.0.0.0 hdbankfinance.cyou
 0.0.0.0 hdbankfinance.icu
+0.0.0.0 hdbankfinance.live
 0.0.0.0 hdbankfinance.org
 0.0.0.0 hdbankfinance.shop
+0.0.0.0 hdbankfinance.space
 0.0.0.0 hdbankfinance.top
+0.0.0.0 hdbankfinance.website
 0.0.0.0 hdbankfinance.win
+0.0.0.0 hdbankfinance.world
 0.0.0.0 hdbankfinance.xyz
 0.0.0.0 hdbanks.com
 0.0.0.0 hdsaisonvn.com
@@ -2709,6 +2714,7 @@
 0.0.0.0 vaylientay79.com
 0.0.0.0 vaynewtech.online
 0.0.0.0 vaynganhang-techcombank.xyz
+0.0.0.0 vaynganhang.net
 0.0.0.0 vaynganhang.pro
 0.0.0.0 vaynganhang.top
 0.0.0.0 vaynganhang.world
@@ -2888,6 +2894,7 @@
 0.0.0.0 vieitcombank.com
 0.0.0.0 vieittcombank.com
 0.0.0.0 viet-credit.com
+0.0.0.0 viet-lotte.com
 0.0.0.0 viet-lotte.org
 0.0.0.0 viet-thanh.online
 0.0.0.0 viet69.uk

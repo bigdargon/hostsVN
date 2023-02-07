@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Feb 2023 22:37 UTC+7
-! Version: 2302062237
-! Blocked: 8,247 rules
+! Last modified: 07 Feb 2023 09:34 UTC+7
+! Version: 2302070934
+! Blocked: 8,250 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6270,6 +6270,7 @@
 ||oas.villagevoice.com^
 ||oataltaul.com^
 ||obituaryfuneral.com^
+||obiyoluxjjzgy.com^
 ||obscenesidewalk.com^
 ||observantice.com^
 ||observedlily.com^
@@ -7057,6 +7058,7 @@
 ||seal.godaddy.com^
 ||seal.networksolutions.com^
 ||seal.qualys.com^
+||seapolo.com^
 ||searchad-phinf.pstatic.net^
 ||searchfeast.com^
 ||searchmarketing.com^
@@ -8100,6 +8102,7 @@
 ||www-banner.chat.ru^
 ||wyvpjsfhywm.com^
 ||wywy.com^
+||wzelkaekmoman.com^
 ||wzuisptxzqbb.com^
 ||x-traceur.com^
 ||x.disq.us^
