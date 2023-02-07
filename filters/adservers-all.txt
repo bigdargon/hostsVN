@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 Feb 2023 09:34 UTC+7
-! Version: 2302070934
-! Blocked: 8,250 rules
+! Last modified: 07 Feb 2023 13:50 UTC+7
+! Version: 2302071350
+! Blocked: 8,248 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -841,7 +841,6 @@
 ||a-ads.com^
 ||a-mo.net^
 ||a-reporting.nytimes.com^
-||a.klaviyo.com^
 ||a.stat.xiaomi.com^
 ||a4.tl^
 ||a8.net^
@@ -2324,7 +2323,6 @@
 ||static-doubleclick-net.l.google.com^
 ||static-tracking.klaviyo.com^
 ||static.dynamicyield.com^
-||static.klaviyo.com^
 ||staticstuff.net^
 ||stats.adobe.com^
 ||stats.paypal.com^

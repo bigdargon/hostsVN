@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Feb 2023 09:34 UTC+7
-# Version: 2302070934
-# Blocked: 17,377 domains
+# Last modified: 07 Feb 2023 13:50 UTC+7
+# Version: 2302071350
+# Blocked: 17,374 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9257,10 +9257,7 @@
 0 player.unocdn.com
 0 sync.unoadsrv.com
 0 unoadsrv.com
-0 a.klaviyo.com
-0 fast.a.klaviyo.com
 0 static-tracking.klaviyo.com
-0 static.klaviyo.com
 0 telemetrics.klaviyo.com
 0 revopush.com
 0 show.gdns.revopush.com
