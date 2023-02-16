@@ -419,31 +419,46 @@
 0.0.0.0 za.zingnews.com.vn
 #[zalo.me]
 0.0.0.0 ads.platform.zalo.me
-0.0.0.0 ads.zalo.me
 0.0.0.0 button-call.zalo.me
 0.0.0.0 button-follow.zalo.me
 0.0.0.0 button-share.zalo.me
 0.0.0.0 groupstats.event.zalo.me
 0.0.0.0 px.za.zalo.me
 0.0.0.0 stats.hc.score.dmp.zalo.me
+#[ads.zalo.me]
+0.0.0.0 ads.zalo.me
+0.0.0.0 beta.ads.zalo.me
+0.0.0.0 jr.ads.zalo.me
+0.0.0.0 jr.stg.ads.zalo.me
+0.0.0.0 m.ads.zalo.me
+0.0.0.0 preview.ads.zalo.me
+#[chat.zalo.me]
+0.0.0.0 groupstats.chat.zalo.me
 0.0.0.0 widget.chat.zalo.me
 #[widget.zalo.me]
 0.0.0.0 api.widget.zalo.me
 0.0.0.0 page.widget.zalo.me
+#[zalo.ai]
+0.0.0.0 stats.lab.zalo.ai
 #[zaloapp.com]
-0.0.0.0 ads.zaloapp.com
 0.0.0.0 centralized.zaloapp.com
-0.0.0.0 log.api.zaloapp.com
-0.0.0.0 photo-ads.zaloapp.com
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 px.za.zaloapp.com
-0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 stats.dev.zaloapp.com
 0.0.0.0 stats.zaloapp.com
-0.0.0.0 trk-pcweb.api.zaloapp.com
 0.0.0.0 wg.zaloapp.com
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 ztevents.zaloapp.com
+0.0.0.0 stats.stg.zaloapp.com
+#[ads.zaloapp.com]
+0.0.0.0 ads.zaloapp.com
+0.0.0.0 jr.ads.zaloapp.com
+0.0.0.0 media-ads.zaloapp.com
+0.0.0.0 photo-ads.zaloapp.com
+0.0.0.0 static-ads.zaloapp.com
+#[api.zaloapp.com]
+0.0.0.0 log.api.zaloapp.com
+0.0.0.0 trk-pcweb.api.zaloapp.com
 #[zadn.vn]
 0.0.0.0 adtima-common.zadn.vn
 0.0.0.0 adtima-media-td.zadn.vn
@@ -459,6 +474,24 @@
 0.0.0.0 zalo-ads-480.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 zalo-ads.zadn.vn
+#[log-*.zadn.vn]
+0.0.0.0 log-anninhthudo.zadn.vn
+0.0.0.0 log-baobackan.zadn.vn
+0.0.0.0 log-baonghean.zadn.vn
+0.0.0.0 log-baophapluat.zadn.vn
+0.0.0.0 log-bizlive.zadn.vn
+0.0.0.0 log-giacngo.zadn.vn
+0.0.0.0 log-giaoduc.zadn.vn
+0.0.0.0 log-giaoducthoidai.zadn.vn
+0.0.0.0 log-kienthucnet.zadn.vn
+0.0.0.0 log-nhandan.zadn.vn
+0.0.0.0 log-plo.zadn.vn
+0.0.0.0 log-sggp.zadn.vn
+0.0.0.0 log-thanhnien.zadn.vn
+0.0.0.0 log-tienphong.zadn.vn
+0.0.0.0 log-tinnhanhchungkhoan.zadn.vn
+0.0.0.0 log-vietnamdaily.zadn.vn
+0.0.0.0 log-vovworld.zadn.vn
 #[zascdn.me]
 0.0.0.0 adtima-common.zascdn.me
 0.0.0.0 adtima-media.zascdn.me
@@ -1154,6 +1187,7 @@
 0.0.0.0 google-shopping.sapoapps.vn
 0.0.0.0 googleshopping.sapoapps.vn
 0.0.0.0 popup.sapoapps.vn
+0.0.0.0 promotionbar.sapoapps.vn
 0.0.0.0 promotionpopup.sapoapps.vn
 0.0.0.0 statistic-blog-v2.sapoapps.vn
 #[onmarketer.net]
@@ -1361,9 +1395,16 @@
 0.0.0.0 ff.imacdn.com
 0.0.0.0 sponsor.imacdn.com
 #[epicdn.me]
-0.0.0.0 log-baogialai.epicdn.me
-0.0.0.0 log-giaoducthoidai.epicdn.me
 0.0.0.0 quangcao-thanhnien.epicdn.me
+#[log-*.epicdn.me]
+0.0.0.0 log-baodauthau.epicdn.me
+0.0.0.0 log-baogialai.epicdn.me
+0.0.0.0 log-giaoduc.epicdn.me
+0.0.0.0 log-giaoducthoidai.epicdn.me
+0.0.0.0 log-kienthucnet.epicdn.me
+0.0.0.0 log-nhandan.epicdn.me
+0.0.0.0 log-thanhnien.epicdn.me
+0.0.0.0 log-tinnhanhchungkhoan.epicdn.me
 #[thanhnien.vn]
 0.0.0.0 ads.thanhnien.vn
 0.0.0.0 ai.thanhnien.vn

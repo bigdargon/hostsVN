@@ -7995,6 +7995,9 @@
 #[mobads.baidu.com]
 0.0.0.0 mobads.baidu.com
 0.0.0.0 static.mobads.baidu.com
+#[baidustatic.com]
+0.0.0.0 cpro.baidustatic.com
+0.0.0.0 dup.baidustatic.com
 #[appier.net]
 0.0.0.0 a.c.appier.net
 0.0.0.0 ad.appier.net
@@ -11087,3 +11090,12 @@
 #[adapf.com]
 0.0.0.0 adapf.com
 0.0.0.0 crs.adapf.com
+#[sojern.com]
+0.0.0.0 beacon.sojern.com
+0.0.0.0 pixel.sojern.com
+#[phywi.org]
+0.0.0.0 phywi.org
+0.0.0.0 r.phywi.org
+#[analytics-data.io]
+0.0.0.0 js-sdk.analytics-data.io
+0.0.0.0 track.analytics-data.io

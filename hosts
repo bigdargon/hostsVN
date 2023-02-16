@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 Feb 2023 12:07 UTC+7
-# Version: 2302161207
-# Blocked: 17,420 domains
+# Last modified: 16 Feb 2023 16:34 UTC+7
+# Version: 2302161634
+# Blocked: 17,470 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8007,6 +8007,9 @@
 #[mobads.baidu.com]
 0.0.0.0 mobads.baidu.com
 0.0.0.0 static.mobads.baidu.com
+#[baidustatic.com]
+0.0.0.0 cpro.baidustatic.com
+0.0.0.0 dup.baidustatic.com
 #[appier.net]
 0.0.0.0 a.c.appier.net
 0.0.0.0 ad.appier.net
@@ -11099,6 +11102,15 @@
 #[adapf.com]
 0.0.0.0 adapf.com
 0.0.0.0 crs.adapf.com
+#[sojern.com]
+0.0.0.0 beacon.sojern.com
+0.0.0.0 pixel.sojern.com
+#[phywi.org]
+0.0.0.0 phywi.org
+0.0.0.0 r.phywi.org
+#[analytics-data.io]
+0.0.0.0 js-sdk.analytics-data.io
+0.0.0.0 track.analytics-data.io
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -11520,31 +11532,46 @@
 0.0.0.0 za.zingnews.com.vn
 #[zalo.me]
 0.0.0.0 ads.platform.zalo.me
-0.0.0.0 ads.zalo.me
 0.0.0.0 button-call.zalo.me
 0.0.0.0 button-follow.zalo.me
 0.0.0.0 button-share.zalo.me
 0.0.0.0 groupstats.event.zalo.me
 0.0.0.0 px.za.zalo.me
 0.0.0.0 stats.hc.score.dmp.zalo.me
+#[ads.zalo.me]
+0.0.0.0 ads.zalo.me
+0.0.0.0 beta.ads.zalo.me
+0.0.0.0 jr.ads.zalo.me
+0.0.0.0 jr.stg.ads.zalo.me
+0.0.0.0 m.ads.zalo.me
+0.0.0.0 preview.ads.zalo.me
+#[chat.zalo.me]
+0.0.0.0 groupstats.chat.zalo.me
 0.0.0.0 widget.chat.zalo.me
 #[widget.zalo.me]
 0.0.0.0 api.widget.zalo.me
 0.0.0.0 page.widget.zalo.me
+#[zalo.ai]
+0.0.0.0 stats.lab.zalo.ai
 #[zaloapp.com]
-0.0.0.0 ads.zaloapp.com
 0.0.0.0 centralized.zaloapp.com
-0.0.0.0 log.api.zaloapp.com
-0.0.0.0 photo-ads.zaloapp.com
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 px.za.zaloapp.com
-0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 stats.dev.zaloapp.com
 0.0.0.0 stats.zaloapp.com
-0.0.0.0 trk-pcweb.api.zaloapp.com
 0.0.0.0 wg.zaloapp.com
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 ztevents.zaloapp.com
+0.0.0.0 stats.stg.zaloapp.com
+#[ads.zaloapp.com]
+0.0.0.0 ads.zaloapp.com
+0.0.0.0 jr.ads.zaloapp.com
+0.0.0.0 media-ads.zaloapp.com
+0.0.0.0 photo-ads.zaloapp.com
+0.0.0.0 static-ads.zaloapp.com
+#[api.zaloapp.com]
+0.0.0.0 log.api.zaloapp.com
+0.0.0.0 trk-pcweb.api.zaloapp.com
 #[zadn.vn]
 0.0.0.0 adtima-common.zadn.vn
 0.0.0.0 adtima-media-td.zadn.vn
@@ -11560,6 +11587,24 @@
 0.0.0.0 zalo-ads-480.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 zalo-ads.zadn.vn
+#[log-*.zadn.vn]
+0.0.0.0 log-anninhthudo.zadn.vn
+0.0.0.0 log-baobackan.zadn.vn
+0.0.0.0 log-baonghean.zadn.vn
+0.0.0.0 log-baophapluat.zadn.vn
+0.0.0.0 log-bizlive.zadn.vn
+0.0.0.0 log-giacngo.zadn.vn
+0.0.0.0 log-giaoduc.zadn.vn
+0.0.0.0 log-giaoducthoidai.zadn.vn
+0.0.0.0 log-kienthucnet.zadn.vn
+0.0.0.0 log-nhandan.zadn.vn
+0.0.0.0 log-plo.zadn.vn
+0.0.0.0 log-sggp.zadn.vn
+0.0.0.0 log-thanhnien.zadn.vn
+0.0.0.0 log-tienphong.zadn.vn
+0.0.0.0 log-tinnhanhchungkhoan.zadn.vn
+0.0.0.0 log-vietnamdaily.zadn.vn
+0.0.0.0 log-vovworld.zadn.vn
 #[zascdn.me]
 0.0.0.0 adtima-common.zascdn.me
 0.0.0.0 adtima-media.zascdn.me
@@ -12255,6 +12300,7 @@
 0.0.0.0 google-shopping.sapoapps.vn
 0.0.0.0 googleshopping.sapoapps.vn
 0.0.0.0 popup.sapoapps.vn
+0.0.0.0 promotionbar.sapoapps.vn
 0.0.0.0 promotionpopup.sapoapps.vn
 0.0.0.0 statistic-blog-v2.sapoapps.vn
 #[onmarketer.net]
@@ -12462,9 +12508,16 @@
 0.0.0.0 ff.imacdn.com
 0.0.0.0 sponsor.imacdn.com
 #[epicdn.me]
-0.0.0.0 log-baogialai.epicdn.me
-0.0.0.0 log-giaoducthoidai.epicdn.me
 0.0.0.0 quangcao-thanhnien.epicdn.me
+#[log-*.epicdn.me]
+0.0.0.0 log-baodauthau.epicdn.me
+0.0.0.0 log-baogialai.epicdn.me
+0.0.0.0 log-giaoduc.epicdn.me
+0.0.0.0 log-giaoducthoidai.epicdn.me
+0.0.0.0 log-kienthucnet.epicdn.me
+0.0.0.0 log-nhandan.epicdn.me
+0.0.0.0 log-thanhnien.epicdn.me
+0.0.0.0 log-tinnhanhchungkhoan.epicdn.me
 #[thanhnien.vn]
 0.0.0.0 ads.thanhnien.vn
 0.0.0.0 ai.thanhnien.vn
@@ -12798,6 +12851,7 @@
 0.0.0.0 apl.headlines.pw
 0.0.0.0 app.hstatic.net
 0.0.0.0 app.sbz.workers.dev
+0.0.0.0 beta-log.anninhthudo.vn
 0.0.0.0 bi.vhost.vn
 0.0.0.0 btrack.homedy.com
 0.0.0.0 campaign.gitiho.com
@@ -12841,6 +12895,7 @@
 0.0.0.0 lmsreport.systems.vn
 0.0.0.0 log-collector.shopee.vn
 0.0.0.0 log.anninhthudo.vn
+0.0.0.0 log.baocaobang.vn
 0.0.0.0 log.baodatviet.vn
 0.0.0.0 log.baodauthau.vn
 0.0.0.0 log.baogialai.com.vn
@@ -13945,6 +14000,7 @@
 0.0.0.0 aim4media.com
 0.0.0.0 aimaniape.club
 0.0.0.0 aimaptair.club
+0.0.0.0 aiqidwcfrm.com
 0.0.0.0 airdropemboil.com
 0.0.0.0 airlinerappetizingcoast.com
 0.0.0.0 aistat.net
@@ -14320,6 +14376,7 @@
 0.0.0.0 betotodilea.com
 0.0.0.0 bewilderedblade.com
 0.0.0.0 bg4nxu2u5t.com
+0.0.0.0 bhbtmipjiqn.com
 0.0.0.0 bhcumsc.com
 0.0.0.0 bid.glass
 0.0.0.0 bidclix.com
@@ -15031,9 +15088,11 @@
 0.0.0.0 easyhits4u.com
 0.0.0.0 eatwinner.com
 0.0.0.0 ebayadvertising.com
+0.0.0.0 ebbetsgourded.com
 0.0.0.0 ebetoni.com
 0.0.0.0 ebocornac.com
 0.0.0.0 ebuzzing.com
+0.0.0.0 ebvkmavxibi.com
 0.0.0.0 ecircle-ag.com
 0.0.0.0 eclickz.com
 0.0.0.0 economicpizzas.com
@@ -15260,6 +15319,7 @@
 0.0.0.0 fopsoado.com
 0.0.0.0 for-j.com
 0.0.0.0 forearmthrobjanuary.com
+0.0.0.0 foresawmartins.com
 0.0.0.0 foresee.com
 0.0.0.0 forex-affiliate.net
 0.0.0.0 forgerylimit.com
@@ -16230,6 +16290,7 @@
 0.0.0.0 mzbcdn.net
 0.0.0.0 n.pc2ads.com
 0.0.0.0 n69.com
+0.0.0.0 nahccnovft.com
 0.0.0.0 naiadsystems.com
 0.0.0.0 naj.sk
 0.0.0.0 nakedfulfilhairy.com
@@ -16333,6 +16394,7 @@
 0.0.0.0 nuffnang.com.my
 0.0.0.0 nuggad.net
 0.0.0.0 nui.media
+0.0.0.0 nunciosmegasse.website
 0.0.0.0 nuseek.com
 0.0.0.0 nuttyorganization.com
 0.0.0.0 nvmjdpbjgrh.com
@@ -16604,7 +16666,6 @@
 0.0.0.0 pixel.mediaiqdigital.com
 0.0.0.0 pixel.personagraph.com
 0.0.0.0 pixel.reddit.com
-0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.watch
 0.0.0.0 piximedia.com
 0.0.0.0 pkhhyool.com
@@ -17185,7 +17246,6 @@
 0.0.0.0 sociomantic.com
 0.0.0.0 sofinpushpile.com
 0.0.0.0 softclick.com.br
-0.0.0.0 sojern.com
 0.0.0.0 solemik.com
 0.0.0.0 soliads.net
 0.0.0.0 solitudepeeves.com
@@ -18181,8 +18241,6 @@
 0.0.0.0 zvetokr2hr8pcng09.com
 0.0.0.0 zxc.world
 # --- Block other trackingVN ---
-0.0.0.0 qualaroo.com
-0.0.0.0 pixel.ipinfo.io
 0.0.0.0 2o7.net
 0.0.0.0 3gl.net
 0.0.0.0 a.apkpure.com
@@ -18258,6 +18316,7 @@
 0.0.0.0 analytics.shein.co.uk
 0.0.0.0 analytics.shein.com
 0.0.0.0 analytics.shift.agency
+0.0.0.0 analytics.shutterstock.com
 0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.similarweb.com
 0.0.0.0 analytics.slashdotmedia.com
@@ -18571,6 +18630,7 @@
 0.0.0.0 pixanalytics2.pixnet.net
 0.0.0.0 pixel.gliacloud.com
 0.0.0.0 pixel.homeapp.team
+0.0.0.0 pixel.ipinfo.io
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.yabidos.com
@@ -18596,6 +18656,7 @@
 0.0.0.0 q.quora.com
 0.0.0.0 q2melbourne.com
 0.0.0.0 qqkabb.com
+0.0.0.0 qualaroo.com
 0.0.0.0 r.3gl.net
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 r1.snnd.co
@@ -18709,6 +18770,7 @@
 0.0.0.0 t.dtscdn.com
 0.0.0.0 t.eloqua.com
 0.0.0.0 t.freelancer.com
+0.0.0.0 tag.imagino.com
 0.0.0.0 tag.wknd.ai
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagmanager.alright.network
@@ -18735,7 +18797,6 @@
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 track-aws.notsy.io
 0.0.0.0 track.56txs4.com
-0.0.0.0 track.analytics-data.io
 0.0.0.0 track.cbdatatracker.com
 0.0.0.0 track.cordial.io
 0.0.0.0 track.datetrck.com
