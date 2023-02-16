@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 07 Feb 2023 13:50 UTC+7
-! Version: 2302071350
-! Blocked: 2,626 rules
+! Last modified: 16 Feb 2023 12:06 UTC+7
+! Version: 2302161206
+! Blocked: 2,628 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -603,6 +603,7 @@
 ||javhd.services^
 ||javhd.tech^
 ||javhd.video^
+||javhd.ws^
 ||javhdhay.me^
 ||javhdpro.org^
 ||javhdvd.net^
@@ -715,6 +716,7 @@
 ||laugai.net^
 ||lauxanh.one^
 ||lauxanhthiendia.com^
+||lenlut.info^
 ||lenlut.net^
 ||linh2k.live^
 ||linkclipsex.com^

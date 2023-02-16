@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 07 Feb 2023 13:50 UTC+7
-# Version: 2302071350
-# Blocked: 75,778 domains
+# Last modified: 16 Feb 2023 12:06 UTC+7
+# Version: 2302161206
+# Blocked: 75,801 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1218,6 +1218,7 @@
 0.0.0.0 047pkt.com
 0.0.0.0 047uiq.com
 0.0.0.0 048.app
+0.0.0.0 048.com
 0.0.0.0 048390.com
 0.0.0.0 0484t.com
 0.0.0.0 0485f.com
@@ -43901,6 +43902,16 @@
 0.0.0.0 cvn9.com
 0.0.0.0 cwapjiggasb.com
 0.0.0.0 cwebsports.com
+0.0.0.0 cwin.com
+0.0.0.0 cwin01.com
+0.0.0.0 cwin02.com
+0.0.0.0 cwin03.com
+0.0.0.0 cwin04.com
+0.0.0.0 cwin05.com
+0.0.0.0 cwin111.com
+0.0.0.0 cwin222.com
+0.0.0.0 cwin333.com
+0.0.0.0 cwin444.com
 0.0.0.0 cwin999.com
 0.0.0.0 cwpqgundmc.com
 0.0.0.0 cwxbixgvls.com
@@ -51095,6 +51106,8 @@
 0.0.0.0 hwlkmfytkv.com
 0.0.0.0 hwpziwetipuqrnz.com
 0.0.0.0 hwszkpnymz.com
+0.0.0.0 hwx.mb.cdn-dysxb.com
+0.0.0.0 hwx.pt.cdn-dysxb.com
 0.0.0.0 hwxzdua.xyz
 0.0.0.0 hwywhl.xyz
 0.0.0.0 hwyycmt.xyz
@@ -57690,6 +57703,7 @@
 0.0.0.0 laiyishuo.com
 0.0.0.0 lalawager.com
 0.0.0.0 lancarwd.com
+0.0.0.0 landing-page.cdn-dysxb.com
 0.0.0.0 langsungmenang.com
 0.0.0.0 langvuichoi.net
 0.0.0.0 laofu8fun.com
@@ -58974,6 +58988,8 @@
 0.0.0.0 m.bwingmkt8.com
 0.0.0.0 m.casino888vn.com
 0.0.0.0 m.cuocba.com
+0.0.0.0 m.cwin.com
+0.0.0.0 m.cwin444.com
 0.0.0.0 m.cwin999.com
 0.0.0.0 m.dktp88.com
 0.0.0.0 m.elo88.com
@@ -64001,6 +64017,7 @@
 0.0.0.0 rs2.sa9999.net
 0.0.0.0 rs66.fun
 0.0.0.0 rs99.fun
+0.0.0.0 rstat.rockmostbet.com
 0.0.0.0 rsurq.com
 0.0.0.0 rt0018.com
 0.0.0.0 rtwtywe.asia
@@ -69681,6 +69698,7 @@
 0.0.0.0 winsbotop.com
 0.0.0.0 winspark.com
 0.0.0.0 winstake.com
+0.0.0.0 wintbr.com
 0.0.0.0 wintercome135.com
 0.0.0.0 wintfun.xyz
 0.0.0.0 wintoto.org
@@ -70181,6 +70199,11 @@
 0.0.0.0 www.cmdvn368.com
 0.0.0.0 www.comebet.xyz
 0.0.0.0 www.corona999.com
+0.0.0.0 www.cwin01.com
+0.0.0.0 www.cwin02.com
+0.0.0.0 www.cwin03.com
+0.0.0.0 www.cwin05.com
+0.0.0.0 www.cwin222.com
 0.0.0.0 www.cwin999.com
 0.0.0.0 www.d9bet.cam
 0.0.0.0 www.d9bet68.com

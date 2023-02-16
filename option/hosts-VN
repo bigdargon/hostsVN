@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Feb 2023 13:50 UTC+7
-# Version: 2302071350
-# Blocked: 1,739 domains
+# Last modified: 16 Feb 2023 12:07 UTC+7
+# Version: 2302161207
+# Blocked: 1,741 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -401,6 +401,7 @@
 0.0.0.0 log.news.zing.vn
 0.0.0.0 log.tv.zing.vn
 0.0.0.0 logv2.mp3.zing.vn
+0.0.0.0 stat.play.zing.vn
 0.0.0.0 tracking.banner.g6.zing.vn
 0.0.0.0 tracking.playzing.g6.zing.vn
 0.0.0.0 tracking.tv.zing.vn
@@ -436,7 +437,6 @@
 0.0.0.0 button-share.zalo.me
 0.0.0.0 groupstats.event.zalo.me
 0.0.0.0 px.za.zalo.me
-0.0.0.0 sentry-mini.zalo.me
 0.0.0.0 stats.hc.score.dmp.zalo.me
 0.0.0.0 widget.chat.zalo.me
 #[widget.zalo.me]
@@ -1373,6 +1373,7 @@
 0.0.0.0 ff.imacdn.com
 0.0.0.0 sponsor.imacdn.com
 #[epicdn.me]
+0.0.0.0 log-baogialai.epicdn.me
 0.0.0.0 log-giaoducthoidai.epicdn.me
 0.0.0.0 quangcao-thanhnien.epicdn.me
 #[thanhnien.vn]
@@ -1753,6 +1754,7 @@
 0.0.0.0 log.anninhthudo.vn
 0.0.0.0 log.baodatviet.vn
 0.0.0.0 log.baodauthau.vn
+0.0.0.0 log.baogialai.com.vn
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.baonghean.vn
 0.0.0.0 log.baophapluat.vn
@@ -1803,6 +1805,7 @@
 0.0.0.0 logapi.misa.com.vn
 0.0.0.0 logging.kinhtedothi.vn
 0.0.0.0 logs-ott.fbox.fpt.vn
+0.0.0.0 logs.1cdn.vn
 0.0.0.0 logs.docnhanh.com.vn
 0.0.0.0 logs.thethaovanhoa.vn
 0.0.0.0 logsbin.dantri.com.vn
@@ -1827,7 +1830,6 @@
 0.0.0.0 s.homedy.com
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
-0.0.0.0 sentry-track.vietnamworks.com
 0.0.0.0 smetrics.kone.vn
 0.0.0.0 socialloginplus-apps.haravan.com
 0.0.0.0 st-a.vtvdigital.vn

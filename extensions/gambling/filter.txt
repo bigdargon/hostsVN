@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 07 Feb 2023 13:50 UTC+7
-! Version: 2302071350
-! Blocked: 74,898 rules
+! Last modified: 16 Feb 2023 12:06 UTC+7
+! Version: 2302161206
+! Blocked: 74,915 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1215,6 +1215,7 @@
 ||047pkt.com^
 ||047uiq.com^
 ||048.app^
+||048.com^
 ||048390.com^
 ||0484t.com^
 ||0485f.com^
@@ -43918,6 +43919,16 @@
 ||cvn9.com^
 ||cwapjiggasb.com^
 ||cwebsports.com^
+||cwin.com^
+||cwin01.com^
+||cwin02.com^
+||cwin03.com^
+||cwin04.com^
+||cwin05.com^
+||cwin111.com^
+||cwin222.com^
+||cwin333.com^
+||cwin444.com^
 ||cwin999.com^
 ||cwpqgundmc.com^
 ||cwxbixgvls.com^
@@ -51123,6 +51134,8 @@
 ||hwlkmfytkv.com^
 ||hwpziwetipuqrnz.com^
 ||hwszkpnymz.com^
+||hwx.mb.cdn-dysxb.com^
+||hwx.pt.cdn-dysxb.com^
 ||hwxzdua.xyz^
 ||hwywhl.xyz^
 ||hwyycmt.xyz^
@@ -57718,6 +57731,7 @@
 ||laiyishuo.com^
 ||lalawager.com^
 ||lancarwd.com^
+||landing-page.cdn-dysxb.com^
 ||langsungmenang.com^
 ||langvuichoi.net^
 ||laofu8fun.com^
@@ -59008,6 +59022,8 @@
 ||m.bwingmkt8.com^
 ||m.casino888vn.com^
 ||m.cuocba.com^
+||m.cwin.com^
+||m.cwin444.com^
 ||m.cwin999.com^
 ||m.dktp88.com^
 ||m.elo88.com^
@@ -69744,6 +69760,7 @@
 ||winsbotop.com^
 ||winspark.com^
 ||winstake.com^
+||wintbr.com^
 ||wintercome135.com^
 ||wintfun.xyz^
 ||wintoto.org^

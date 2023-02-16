@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Feb 2023 13:50 UTC+7
-! Version: 2302071350
-! Blocked: 811 rules
+! Last modified: 16 Feb 2023 12:07 UTC+7
+! Version: 2302161207
+! Blocked: 813 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -224,6 +224,8 @@
 ||qc.coccoc.vn^
 ||qccoccocmedia.vn^
 ||quangcao-thanhnien.epicdn.me^
+||log-baogialai.epicdn.me^
+||stat.play.zing.vn^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
 ||rec.aiservice.vn^
@@ -231,7 +233,6 @@
 ||sbbanner-com.cdn.ampproject.org^
 ||sbz.vn^
 ||sdk.zadn.vn^
-||sentry-mini.zalo.me^
 ||service-api.accesstrade.vn^
 ||serving-system.com^
 ||sharefb.cnnd.vn^
@@ -577,6 +578,7 @@
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
+||log.baogialai.com.vn^
 ||log.baomoi.com^
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
@@ -627,6 +629,7 @@
 ||logapi.misa.com.vn^
 ||logging.kinhtedothi.vn^
 ||logs-ott.fbox.fpt.vn^
+||logs.1cdn.vn^
 ||logs.docnhanh.com.vn^
 ||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
@@ -690,7 +693,6 @@
 ||s1.zzz.vn^
 ||sbbanner.com^
 ||sda.tamdiem247.com^
-||sentry-track.vietnamworks.com^
 ||server.zmedia.vn^
 ||serving-ad.tv24.vn^
 ||sharks.vn^

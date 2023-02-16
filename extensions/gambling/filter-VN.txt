@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 07 Feb 2023 13:50 UTC+7
-! Version: 2302071350
-! Blocked: 4,214 rules
+! Last modified: 16 Feb 2023 12:06 UTC+7
+! Version: 2302161206
+! Blocked: 4,228 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -27,6 +27,7 @@
 ||03bestk8.com^
 ||03gamek8.com^
 ||03prok8.com^
+||048.com^
 ||04bestk8.com^
 ||04gamek8.com^
 ||04prok8.com^
@@ -722,6 +723,16 @@
 ||cuocbong.thethaofb88.com^
 ||cuock8.com^
 ||cuocvuik8.com^
+||cwin.com^
+||cwin01.com^
+||cwin02.com^
+||cwin03.com^
+||cwin04.com^
+||cwin05.com^
+||cwin111.com^
+||cwin222.com^
+||cwin333.com^
+||cwin444.com^
 ||cwin999.com^
 ||d1.dabet.club^
 ||d1.debet.info^
@@ -3163,6 +3174,8 @@
 ||m.bwingmkt8.com^
 ||m.casino888vn.com^
 ||m.cuocba.com^
+||m.cwin.com^
+||m.cwin444.com^
 ||m.cwin999.com^
 ||m.dktp88.com^
 ||m.elo88.com^
@@ -4144,6 +4157,7 @@
 ||win79play.me^
 ||win88.me^
 ||win888b.com^
+||wintbr.com^
 ||wp.mu9.win^
 ||wp.red88.us^
 ||wp.red88.vin^

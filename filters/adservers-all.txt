@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 Feb 2023 13:50 UTC+7
-! Version: 2302071350
-! Blocked: 8,248 rules
+! Last modified: 16 Feb 2023 12:07 UTC+7
+! Version: 2302161207
+! Blocked: 8,286 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -224,6 +224,8 @@
 ||qc.coccoc.vn^
 ||qccoccocmedia.vn^
 ||quangcao-thanhnien.epicdn.me^
+||log-baogialai.epicdn.me^
+||stat.play.zing.vn^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
 ||rec.aiservice.vn^
@@ -231,7 +233,6 @@
 ||sbbanner-com.cdn.ampproject.org^
 ||sbz.vn^
 ||sdk.zadn.vn^
-||sentry-mini.zalo.me^
 ||service-api.accesstrade.vn^
 ||serving-system.com^
 ||sharefb.cnnd.vn^
@@ -577,6 +578,7 @@
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
+||log.baogialai.com.vn^
 ||log.baomoi.com^
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
@@ -627,6 +629,7 @@
 ||logapi.misa.com.vn^
 ||logging.kinhtedothi.vn^
 ||logs-ott.fbox.fpt.vn^
+||logs.1cdn.vn^
 ||logs.docnhanh.com.vn^
 ||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
@@ -690,7 +693,6 @@
 ||s1.zzz.vn^
 ||sbbanner.com^
 ||sda.tamdiem247.com^
-||sentry-track.vietnamworks.com^
 ||server.zmedia.vn^
 ||serving-ad.tv24.vn^
 ||sharks.vn^
@@ -882,6 +884,7 @@
 ||adadvisor.net^
 ||adalyser.com^
 ||adap.tv^
+||adapf.com^
 ||adash.m.taobao.com^
 ||adash.man.aliyuncs.com^
 ||adashbc.m.taobao.com^
@@ -1428,6 +1431,7 @@
 ||clickadilla.com^
 ||clickagy.com^
 ||clickcdn.co^
+||clickcease.com^
 ||clicktale.net^
 ||clicktripz.com^
 ||clientmetrics-pa.googleapis.com^
@@ -1650,6 +1654,7 @@
 ||fyber.com^
 ||g.s.360.cn^
 ||g2insights-cdn.azureedge.net^
+||ga.clearbit.com^
 ||gads*s.com^
 ||gads*z.com^
 ||galaxiemedia.fr^
@@ -2191,6 +2196,7 @@
 ||rest.dynamicyield.com^
 ||returnpath.net^
 ||revcontent.com^
+||reveal.clearbit.com^
 ||revenuehits.com^
 ||revive-adserver.com^
 ||revopush.com^
@@ -2329,6 +2335,7 @@
 ||stats.unity3d.com^
 ||statserv.net^
 ||statsig.com^
+||statsperformdev.com^
 ||statt-collect.herokuapp.com^
 ||statwup.nimo.tv^
 ||steelhousemedia.com^
@@ -2413,6 +2420,7 @@
 ||tracking.miui.com^
 ||tracking.overwolf.com^
 ||tracking.prd.mz.internal.unity3d.com^
+||trackingtraffo.com^
 ||trackjs.com^
 ||trackonomics.net^
 ||trackpush.com^
@@ -2542,6 +2550,7 @@
 ||www-googletagmanager.l.google.com^
 ||wywyuserservice.com^
 ||wzrkt.com^
+||x.clearbit.com^
 ||xapads.com^
 ||xdrig.com^
 ||ximad.com^
@@ -2585,6 +2594,7 @@
 ||03ed9035a0801f.com^
 ||0n.click^
 ||0redird.com^
+||0redire.com^
 ||0x01n2ptpuz3.com^
 ||1-1ads.com^
 ||152media.info^
@@ -2668,6 +2678,7 @@
 ||acsbapp.com^
 ||acscdn.com^
 ||acsseo.com^
+||acsshufxnu.com^
 ||actionsplash.com^
 ||actualdeals.com^
 ||actuallysheep.com^
@@ -3117,6 +3128,8 @@
 ||ads.lesbianpersonals.com^
 ||ads.livenation.com^
 ||ads.livetv314.me^
+||ads.livetv623.me^
+||ads.livetv625.me^
 ||ads.lordlucky.com^
 ||ads.massinfra.nl^
 ||ads.mcafee.com^
@@ -3180,6 +3193,7 @@
 ||ads.socialtheater.com^
 ||ads.soft32.com^
 ||ads.space.com^
+||ads.sportradar.com^
 ||ads.stackoverflow.com^
 ||ads.sun.com^
 ||ads.sunmaker.com^
@@ -3337,6 +3351,7 @@
 ||adspleen.com^
 ||adsponse.de^
 ||adspot.co^
+||adsprime.click^
 ||adsrevenue.net^
 ||adsrv.deviantart.com^
 ||adsrv.wtf^
@@ -3427,6 +3442,7 @@
 ||advmanager.techfun.pl^
 ||advnt.com^
 ||advolution.de^
+||advrspromo.click^
 ||adwareremovergold.com^
 ||adwhirl.com^
 ||adwitserver.com^
@@ -3490,6 +3506,7 @@
 ||affiliazionisnai.cdn.netrefer.com^
 ||affinity.com^
 ||affpa.top^
+||affshopp.click^
 ||afftracking.justanswer.com^
 ||afftrk.altex.ro^
 ||africaewgrhdtb.com^
@@ -3897,6 +3914,7 @@
 ||banners.videosz.com^
 ||banners.virtuagirlhd.com^
 ||banners.wunderground.com^
+||banners5html2.com^
 ||bannerserver.com^
 ||bannersgomlm.com^
 ||bannershotlink.perfectgonzo.com^
@@ -4005,6 +4023,7 @@
 ||billboard.cz^
 ||billionpops.com^
 ||bimlocal.com^
+||binapptrack.click^
 ||binarymoney.site^
 ||bionicskamsins.com^
 ||birlerskababs.com^
@@ -4017,6 +4036,7 @@
 ||bjhmt.com^
 ||bkvhlsndw.com^
 ||blacknesskeepplan.com^
+||blackviewpartners.shop^
 ||blacurlik.com^
 ||blast4traffic.com^
 ||blastcahs.com^
@@ -4175,6 +4195,7 @@
 ||cashfiesta.com^
 ||cashlayer.com^
 ||cashpartner.com^
+||cashpopmedia.space^
 ||casinogames.com^
 ||casinopays.com^
 ||casinorewards.com^
@@ -4319,6 +4340,7 @@
 ||clicklink.jp^
 ||clickonometrics.pl^
 ||clickopop1000.com^
+||clickreport.online^
 ||clicks.equantum.com^
 ||clicks.mods.de^
 ||clickserve.cc-dt.com^
@@ -4591,6 +4613,7 @@
 ||datadoghq-browser-agent.com^
 ||datafront.co^
 ||dataxu.com^
+||datingsmartlink.site^
 ||daudejuw.com^
 ||davaifoa.com^
 ||daz3rw5a5k4h.com^
@@ -4700,6 +4723,7 @@
 ||dm.toutiao.com^
 ||dm599.com^
 ||dmc1acwvwny3.cloudfront.net^
+||dmhzqokylmkc.com^
 ||dmp.starbolt.io^
 ||dmtgo.upc.biz^
 ||dmtracker.com^
@@ -5093,10 +5117,10 @@
 ||fxstyle.net^
 ||fygocqpmcsnix.com^
 ||g.3gl.net^
+||g0push.com^
 ||g2afse.com^
 ||g8ads.com^
 ||ga-ads.com^
-||ga.clearbit.com^
 ||ga.getresponse.com^
 ||gaelsdaniele.website^
 ||gaijiglo.net^
@@ -5543,6 +5567,7 @@
 ||irnwislborwvh.com^
 ||ironsource.mobi^
 ||irousbisayan.com^
+||irritateinformantmeddle.com^
 ||isfxsiooyjad.com^
 ||isupopc.com^
 ||itfarm.com^
@@ -5595,11 +5620,13 @@
 ||jivox.com^
 ||jiwire.com^
 ||jjpjpyvdasbvt.com^
+||jjvnlfpywgbxgt.com^
 ||jkfdnofnz.com^
 ||jmrnews.pro^
 ||jnrtavp2x66u.com^
 ||joetec.net^
 ||jogglyisohel.com^
+||joinmysite.online^
 ||jokedollars.com^
 ||jollytestpartying.com^
 ||jomtingi.net^
@@ -5756,6 +5783,7 @@
 ||linkbuddies.com^
 ||linkexchange.com^
 ||linkexchange.ru^
+||linkgenerate.click^
 ||linkonclick.com^
 ||linkprice.com^
 ||linkrain.com^
@@ -6285,6 +6313,7 @@
 ||offerfusion.com^
 ||offergate-apps-publicity.com^
 ||offerimage.com^
+||offerlink.monster^
 ||offermatica.com^
 ||offoonguser.com^
 ||ofhappinyer.com^
@@ -6328,6 +6357,7 @@
 ||onlinecash.com^
 ||onlinecashmethod.com^
 ||onlinerewardcenter.com^
+||onlineshoppin.click^
 ||onlyadshere.info^
 ||onmarshtompor.com^
 ||onmobile.com^
@@ -6534,6 +6564,7 @@
 ||pixanalytics2.pixnet.net^
 ||pixel.gliacloud.com^
 ||pixel.homeapp.team^
+||pixel.ipinfo.io^
 ||pixel.leadzu.com^
 ||pixel.mediaiqdigital.com^
 ||pixel.personagraph.com^
@@ -6750,11 +6781,13 @@
 ||qqkabb.com^
 ||qstukqmsddqgs.com^
 ||qthiqwum.com^
+||qtspkqzn.com^
 ||quackexclusfdfjd.com^
 ||quacksquirrel.com^
 ||quadrupleclick.com^
 ||quaintcan.com^
 ||quakemarketing.com^
+||qualaroo.com^
 ||quallyrimers.com^
 ||quantcast.com^
 ||quantummetric.com^
@@ -6833,6 +6866,7 @@
 ||rebelsubway.com^
 ||rebiraert.com^
 ||recastcompellease.com^
+||recedechatprotestant.com^
 ||receptiveink.com^
 ||receptivereaction.com^
 ||reconditerake.com^
@@ -6887,7 +6921,6 @@
 ||returnsflyswat.com^
 ||rev2pub.com^
 ||revampcdn.com^
-||reveal.clearbit.com^
 ||revealoverheadearth.com^
 ||revengemeantjackpot.com^
 ||revenue.net^
@@ -6998,6 +7031,7 @@
 ||s.media-imdb.com^
 ||s.ntv.io^
 ||s.yjtag.jp^
+||s.zkcdn.net^
 ||s2d6.com^
 ||s3-analytics-events.easybrain.com^
 ||sabergood.com^
@@ -7179,6 +7213,7 @@
 ||smartdevicemedia.com^
 ||smartmad.com^
 ||smartyads.com^
+||smartyadslink.click^
 ||smashsurprise.com^
 ||smetrics.bestbuy.com^
 ||smetrics.boston.com^
@@ -7408,6 +7443,7 @@
 ||svibeacon.onezapp.com^
 ||sviter2s1olenyami1.com^
 ||svkmxwssih.com^
+||svoffer.pro^
 ||swa.and.co.uk^
 ||swan-swan-goose.com^
 ||sweetskojiki.com^
@@ -7746,6 +7782,7 @@
 ||tubecup.net^
 ||tubemogul.com^
 ||tuleceti.com^
+||tumblebit.com^
 ||tunnl.com^
 ||turboadv.com^
 ||turmoilragcrutch.com^
@@ -8009,6 +8046,7 @@
 ||weborama.net^
 ||webpinp.com^
 ||webpower.com^
+||webproducts.click^
 ||webpushdirect.biz^
 ||webreseau.com^
 ||webseoanalytics.com^

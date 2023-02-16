@@ -11067,3 +11067,23 @@
 0.0.0.0 elb.the-ozone-project.com
 0.0.0.0 prebid.the-ozone-project.com
 0.0.0.0 the-ozone-project.com
+#[statsperformdev.com]
+0.0.0.0 statsperformdev.com
+0.0.0.0 dynamicads.statsperformdev.com
+0.0.0.0 smart-ads.statsperformdev.com
+#[clearbit.com]
+0.0.0.0 ga.clearbit.com
+0.0.0.0 reveal.clearbit.com
+0.0.0.0 x.clearbit.com
+#[clickcease.com]
+0.0.0.0 clickcease.com
+0.0.0.0 monitor.clickcease.com
+0.0.0.0 www..clickcease.com
+#[trackingtraffo.com]
+0.0.0.0 ads.trackingtraffo.com
+0.0.0.0 rtb.trackingtraffo.com
+0.0.0.0 track.trackingtraffo.com
+0.0.0.0 trackingtraffo.com
+#[adapf.com]
+0.0.0.0 adapf.com
+0.0.0.0 crs.adapf.com
