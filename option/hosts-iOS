@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Feb 2023 08:50 UTC+7
-# Version: 2302170850
-# Blocked: 17,470 domains
+# Last modified: 17 Feb 2023 15:56 UTC+7
+# Version: 2302171556
+# Blocked: 17,477 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9011,6 +9011,7 @@
 0 mellowads.b-cdn.net
 0 popcashjs.b-cdn.net
 0 predataclient.b-cdn.net
+0 unibotscdn.b-cdn.net
 0 sys.vidsrev.com
 0 tracker.vidsrev.com
 0 vidsrev.com
@@ -11102,6 +11103,9 @@
 0 delivery.vtcnews.vn
 0 delivery.vtcnew.com.vn
 0 tracking.vtcnew.com.vn
+0 m.zedcdn.me
+0 me.zedcdn.me
+0 mme.zedcdn.me
 0 12signup.com
 0 ad-admin.vnay.vn
 0 ad-ndtv.3s.com.vn
@@ -11271,7 +11275,6 @@
 0 mega1.yeah1.com
 0 menu.metu.vn
 0 microad.vn
-0 mme.zedcdn.me
 0 mobileads.dieuviet.com
 0 ng-vn-notice.gameitop.com
 0 offerwall.headlines.pw
@@ -11439,6 +11442,7 @@
 0 lmsreport.systems.vn
 0 log-collector.shopee.vn
 0 log.anninhthudo.vn
+0 log.baobackan.com.vn
 0 log.baocaobang.vn
 0 log.baodatviet.vn
 0 log.baodauthau.vn
@@ -11463,6 +11467,7 @@
 0 log.kinhdoanhhoinhap.vn
 0 log.kinhtedouong.vn
 0 log.ngaynay.vn
+0 log.nhandan.vn
 0 log.nhipcaudautu.vn
 0 log.oto.com.vn
 0 log.plo.vn
@@ -11487,6 +11492,7 @@
 0 log.vnfinance.vn
 0 log.vov.vn
 0 log.vovplus.vn
+0 log.vovworld.vn
 0 log.xoso.com.vn
 0 log.zamba.vn
 0 log4x.nixcdn.com
@@ -13395,6 +13401,7 @@
 0 d13k7prax1yi04.cloudfront.net
 0 d15kdpgjg3unno.cloudfront.net
 0 d18t35yyry2k49.cloudfront.net
+0 d1byvlfiet2h9q.cloudfront.net
 0 d1clmik8la8v65.cloudfront.net
 0 d1ezlc9vy4yc7g.cloudfront.net
 0 d1f05vr3sjsuy7.cloudfront.net
