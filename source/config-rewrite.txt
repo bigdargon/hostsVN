@@ -18,10 +18,10 @@
 
 
 #nhaccuatui
-^https?://graph.nhaccuatui.com/.+ads
-^https?://graph.nhaccuatui.com/.+deviceinfo
-^https?://graph.nhaccuatui.com/.+log
-^https?://graph.nhaccuatui.com/.+trackings
+^https?://graph.nhaccuatui.com/.+ads$
+^https?://graph.nhaccuatui.com/.+deviceinfo$
+^https?://graph.nhaccuatui.com/.+log$
+^https?://graph.nhaccuatui.com/.+trackings$
 
 
 #spotify
