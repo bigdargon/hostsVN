@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 20 Feb 2023 17:57 UTC+7
-# Version: 2302201757
-# Blocked: 1,782 domains
+# Last modified: 22 Feb 2023 11:59 UTC+7
+# Version: 2302221159
+# Blocked: 1,783 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1826,6 +1826,7 @@
 0.0.0.0 log.nhipcaudautu.vn
 0.0.0.0 log.oto.com.vn
 0.0.0.0 log.plo.vn
+0.0.0.0 log.saigondautu.com.vn
 0.0.0.0 log.sggp.org.vn
 0.0.0.0 log.smoney.vn
 0.0.0.0 log.tapchimattran.vn

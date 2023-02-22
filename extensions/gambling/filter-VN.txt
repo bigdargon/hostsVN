@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 16 Feb 2023 12:06 UTC+7
-! Version: 2302161206
-! Blocked: 4,228 rules
+! Last modified: 22 Feb 2023 11:59 UTC+7
+! Version: 2302221159
+! Blocked: 4,308 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -111,6 +111,7 @@
 ||22zalo.com^
 ||2826.bet^
 ||29999y.com^
+||2x3x.com^
 ||331725.com^
 ||331729.com^
 ||338kbet.com^
@@ -120,6 +121,7 @@
 ||33betf.com^
 ||33betx.com^
 ||33win7.com^
+||33winz.com^
 ||3547711.com^
 ||3549900.com^
 ||3650011.com^
@@ -151,6 +153,7 @@
 ||5shbet.com^
 ||608822.com^
 ||63wan.com^
+||6623.support^
 ||666k8vn.com^
 ||6677444.com^
 ||668dg.net^
@@ -158,6 +161,7 @@
 ||66ko1.com^
 ||66ko9.com^
 ||68b3.club^
+||68game2.com^
 ||68rich.com^
 ||68rich.org^
 ||69dinhtruong.com^
@@ -217,6 +221,7 @@
 ||7kw35.com^
 ||80k8vn.com^
 ||81ipb.com^
+||8559553.com^
 ||8559555.com^
 ||881ae888.com^
 ||882ae888.com^
@@ -303,6 +308,7 @@
 ||8xbet.fun^
 ||8xbet.games^
 ||8xbet.org^
+||8xbet.pw^
 ||8xbet.tv^
 ||8xbet.win^
 ||8xbet.xyz^
@@ -586,15 +592,23 @@
 ||betvietnam.info^
 ||betvisa.com^
 ||betwinner.ng^
+||biendo.club^
+||biendo.one^
+||biendo.store^
+||biendo1.com^
+||biendo3.com^
+||biendo9.com^
 ||big88.one^
 ||bigbet0015.com^
 ||bigk8th888.com^
 ||bk8.live^
 ||bk88safe.com^
+||bk8ae.com^
 ||bk8bongda.com^
 ||bk8c.com^
 ||bk8go.com^
 ||bk8h.com^
+||bk8hanoi.com^
 ||bk8hot.com^
 ||bk8i.com^
 ||bk8p.com^
@@ -642,6 +656,7 @@
 ||boom66.com^
 ||box2020.oxbetd.com^
 ||bt9gl.com^
+||bvthethao.com^
 ||bwchaoxuan.com^
 ||bwingmkt1.com^
 ||bwingmkt10.com^
@@ -677,8 +692,27 @@
 ||casinomcw.com^
 ||cdn.kingbet86.info^
 ||cdn.vwin010.com^
+||cf68.app^
+||cf68.click^
+||cf68.club^
+||cf68.fun^
 ||cf68.shop^
+||cf68.vin^
+||cf681.club^
+||cf683.com^
+||cf6838.com^
+||cf6868.app^
+||cf6868.club^
+||cf6868.com^
+||cf6868.net^
+||cf688.club^
+||cf689.club^
+||cf6899.com^
+||cf68club.com^
+||cf68club.net^
+||cf68vn.com^
 ||cfc.leto58.xyz^
+||cfun68.app^
 ||cfun68.biz^
 ||chaolua.club^
 ||chat789bet.com^
@@ -686,6 +720,8 @@
 ||cheer68.com^
 ||choang.fun^
 ||choi.playiwin.uk^
+||choi77.com^
+||choi99.com^
 ||choingay88.com^
 ||choingayone88.win^
 ||choisv88.live^
@@ -724,11 +760,16 @@
 ||cuock8.com^
 ||cuocvuik8.com^
 ||cwin.com^
+||cwin000.com^
 ||cwin01.com^
 ||cwin02.com^
 ||cwin03.com^
 ||cwin04.com^
 ||cwin05.com^
+||cwin06.com^
+||cwin07.com^
+||cwin08.com^
+||cwin09.com^
 ||cwin111.com^
 ||cwin222.com^
 ||cwin333.com^
@@ -767,6 +808,7 @@
 ||dangky.thethaofb88.com^
 ||dangkybayvip.com^
 ||dangkybum.club^
+||dangkyee88.online^
 ||dangkykubet.vip^
 ||dangkythabet.com^
 ||datcuoc.thethaofb88.com^
@@ -785,6 +827,7 @@
 ||dffgames.com^
 ||dfkaya.com^
 ||dfthethao.com^
+||diendansohoc.net^
 ||diq9r.com^
 ||dk.choiwin79.net^
 ||dk.gamequyong.xyz^
@@ -808,6 +851,7 @@
 ||dkxsvn.com^
 ||dl.fa88.win^
 ||dl.v8.club^
+||dltbr.com^
 ||dola88.info^
 ||domixi1gom.com^
 ||down.lixi88.net^
@@ -1142,8 +1186,10 @@
 ||i9bet39.com^
 ||i9bet4.com^
 ||i9bet444.com^
+||i9bet47.com^
 ||i9bet49.com^
 ||i9bet5.com^
+||i9bet59.com^
 ||i9bet6.com^
 ||i9bet666.com^
 ||i9bet6688.com^
@@ -1330,10 +1376,13 @@
 ||jbovietnam.com^
 ||jbovn.com^
 ||jdb66.vip^
+||jiejiekan.net^
 ||jinbo989898.com^
 ||jingbets.com^
 ||jss77.net^
 ||jun889.vip^
+||jun88bet.biz^
+||jun88bet.xyz^
 ||jun88k.com^
 ||justk8.com^
 ||k1.uk88.top^
@@ -3092,6 +3141,7 @@
 ||lixi88.info^
 ||lixi88.net^
 ||lixi888.online^
+||lixi88ae.com^
 ||lixi88first.com^
 ||lixi88vip.com^
 ||lixi88vipzb.xyz^
@@ -3109,6 +3159,9 @@
 ||lodevn789.net^
 ||logs.almeriaxxx.com^
 ||long092.com^
+||loto188ae.com^
+||loto188az.com^
+||loto188vi.com^
 ||lp.macauclub.fun^
 ||lp.mayclub.net^
 ||lp.rikvip.tv^
@@ -3294,6 +3347,7 @@
 ||mcw77.com^
 ||me88vietnam.com^
 ||me88vn1.com^
+||me88vn2.com^
 ||media.happynb.com^
 ||media.lixi99.com^
 ||mi3368.com^
@@ -3409,6 +3463,7 @@
 ||olympic24.com^
 ||onbet111.com^
 ||onbet2.com^
+||onbet3.com^
 ||onbet7.com^
 ||one88.club^
 ||one88.com^
@@ -3423,6 +3478,7 @@
 ||ooooooo2.com^
 ||oppa888.com^
 ||oppa88888888.com^
+||oppo96.com^
 ||ov-game.com^
 ||ovtogame.com^
 ||ovtogame666.com^
@@ -3439,6 +3495,7 @@
 ||oxbetd.com^
 ||oz37j.com^
 ||p.bong99.com^
+||p38000.com^
 ||payment.w88bkk.com^
 ||payment.w88club.com^
 ||payment.w88hn.com^
@@ -3594,6 +3651,7 @@
 ||s2.sin88.cc^
 ||s2.sin88.club^
 ||s555.com^
+||s666bet.win^
 ||s99902e.com^
 ||s99906.com^
 ||s9996.com^
@@ -3645,6 +3703,7 @@
 ||smart.8live.net^
 ||smart.bcb80.com^
 ||smartpay.lode88.vip^
+||soc99.com^
 ||sock.dabet.club^
 ||sock.mu9.club^
 ||sock.mu9.com^
@@ -3699,6 +3758,7 @@
 ||sv1.sv88vn.com^
 ||sv1.sv88vn.net^
 ||sv288.net^
+||sv368.vip^
 ||sv388.biz^
 ||sv388.cam^
 ||sv388.cloud^
@@ -3777,6 +3837,10 @@
 ||tap88.club^
 ||tbab395.com^
 ||tbr.games^
+||tdtc.cc^
+||tdtc.fun^
+||tdtcyy.com^
+||tdtczz.com^
 ||tf2022v.com^
 ||tf88265.com^
 ||tf88632.com^
@@ -3791,6 +3855,7 @@
 ||thabet.co^
 ||thabet.gg^
 ||thabet.one^
+||thabet11.com^
 ||thabet88.co^
 ||thabet88.info^
 ||thabet88.vip^
@@ -3814,6 +3879,7 @@
 ||thethaovip.vip^
 ||thevw155.com^
 ||thk8.net^
+||tho77.com^
 ||thuonghieunhacai.com^
 ||thuonghieunhacai.net^
 ||thuongkingfun.biz^
@@ -3849,6 +3915,11 @@
 ||tracking.fabet.vip^
 ||tracking.zbet.vn^
 ||trangchu.app^
+||trangchu.vip^
+||trangchu2a.com^
+||trangchu2b.com^
+||trangchu2c.com^
+||trangchu2d.com^
 ||trungso.vip^
 ||trunk.websvn.info^
 ||truyenthongthongtin.com^
@@ -3934,6 +4005,7 @@
 ||viu88.com^
 ||viva88.com^
 ||viva88.net^
+||viva88bet.win^
 ||vjprok8.com^
 ||vlott88.com^
 ||vn-lm.jbovietnam.com^
@@ -3954,6 +4026,7 @@
 ||vn.vndbetway.com^
 ||vn138.net^
 ||vn138138.com^
+||vn138d.com^
 ||vn138viet.com^
 ||vn1610.com^
 ||vn2.ku6122.net^
@@ -4155,9 +4228,13 @@
 ||win79.pro^
 ||win79.vip^
 ||win79play.me^
+||win86.info^
 ||win88.me^
 ||win888b.com^
+||winbet58.live^
+||winbet58.win^
 ||wintbr.com^
+||wm88vn.com^
 ||wp.mu9.win^
 ||wp.red88.us^
 ||wp.red88.vin^
@@ -4191,6 +4268,8 @@
 ||xo88.com^
 ||xo88.fun^
 ||xo88.info^
+||xoi77.com^
+||xoi99.com^
 ||xoso12345.com^
 ||xoso5678.com^
 ||xoso6.com^
@@ -4221,6 +4300,7 @@
 ||z3.zbet.com^
 ||z3.zbet.vn^
 ||z3.zbetvn.com^
+||z333666.com^
 ||zbet.com^
 ||zbet.me^
 ||zbet.vn^

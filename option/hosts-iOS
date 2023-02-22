@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 20 Feb 2023 17:57 UTC+7
-# Version: 2302201757
-# Blocked: 17,477 domains
+# Last modified: 22 Feb 2023 11:59 UTC+7
+# Version: 2302221159
+# Blocked: 17,491 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8354,27 +8354,49 @@
 0 rtb-xs.ak-is.net
 0 www.ak-is.net
 0 xml.ak-is.net
-0 ak-is2.net
-0 adoptim.fs.ak-is2.net
-0 adwooo.fs.ak-is2.net
-0 ctrtraffic.fs.ak-is2.net
-0 ezmob.fs.ak-is2.net
-0 kinesis-doo.fs.ak-is2.net
-0 leoyard.fs.ak-is2.net
-0 nativeadsfeed.fs.ak-is2.net
-0 onwardclick.fs.ak-is2.net
-0 rtbnext.fs.ak-is2.net
-0 sedodna.fs.ak-is2.net
-0 skinkexchange.fs.ak-is2.net
-0 xmlppc.fs.ak-is2.net
+0 ad-maven.xml-eu.ak-is2.net
 0 ad-maven.xml.ak-is2.net
+0 ad-maven.xs.ak-is2.net
+0 adfclick1.xs.ak-is2.net
+0 adop.xml-eu.ak-is2.net
+0 adop.xs.ak-is2.net
+0 adoptim.fs.ak-is2.net
+0 adright.xml-eu.ak-is2.net
 0 adscompute.xml.ak-is2.net
+0 adventurefeeds.xml-eu.ak-is2.net
+0 adventurefeeds.xml-v6.ak-is2.net
 0 adventurefeeds.xml.ak-is2.net
+0 adwooo.fs.ak-is2.net
+0 ak-is2.net
+0 app-shake.xml-eu.ak-is2.net
+0 app-shake.xs.ak-is2.net
 0 bappaads.xml.ak-is2.net
+0 ctrtraffic.fs.ak-is2.net
 0 danarimedia.xml.ak-is2.net
 0 explorads.xml.ak-is2.net
+0 expmediadirect1.xml-eu.ak-is2.net
+0 ezmob.fs.ak-is2.net
+0 kinesis-doo.fs.ak-is2.net
+0 kinesis-doo.xs.ak-is2.net
+0 leoyard.fs.ak-is2.net
+0 metaadserving.xs.ak-is2.net
+0 mobviks.xml-eu.ak-is2.net
+0 monadplug.xs.ak-is2.net
+0 nativeadsfeed.fs.ak-is2.net
+0 nativeadsfeed.xs.ak-is2.net
+0 onwardclick.fs.ak-is2.net
+0 onwardclick.xs.ak-is2.net
+0 popmonetizer.xml.ak-is2.net
+0 pressize.xml-eu.ak-is2.net
+0 pulsefintech.xs.ak-is2.net
+0 pushub.xml-eu.ak-is2.net
 0 pushub.xml.ak-is2.net
+0 pushub.xs.ak-is2.net
+0 reacheffect.xml-eu.ak-is2.net
+0 rtbnext.fs.ak-is2.net
+0 sedodna.fs.ak-is2.net
 0 sedodna.xml.ak-is2.net
+0 skinkexchange.fs.ak-is2.net
 0 topdealad.xml.ak-is2.net
 0 trafficmoose.xml.ak-is2.net
 0 upperseeker.xml.ak-is2.net
@@ -8383,31 +8405,10 @@
 0 vokut.xml.ak-is2.net
 0 vtads.xml.ak-is2.net
 0 xmlking.xml.ak-is2.net
+0 xmlppc.fs.ak-is2.net
 0 xmlppc.xml.ak-is2.net
 0 yeesshh.xml.ak-is2.net
 0 zeusadx.xml.ak-is2.net
-0 ad-maven.xml-eu.ak-is2.net
-0 adop.xml-eu.ak-is2.net
-0 adright.xml-eu.ak-is2.net
-0 adventurefeeds.xml-eu.ak-is2.net
-0 app-shake.xml-eu.ak-is2.net
-0 expmediadirect1.xml-eu.ak-is2.net
-0 mobviks.xml-eu.ak-is2.net
-0 pressize.xml-eu.ak-is2.net
-0 pushub.xml-eu.ak-is2.net
-0 reacheffect.xml-eu.ak-is2.net
-0 adventurefeeds.xml-v6.ak-is2.net
-0 ad-maven.xs.ak-is2.net
-0 adfclick1.xs.ak-is2.net
-0 adop.xs.ak-is2.net
-0 app-shake.xs.ak-is2.net
-0 kinesis-doo.xs.ak-is2.net
-0 metaadserving.xs.ak-is2.net
-0 monadplug.xs.ak-is2.net
-0 nativeadsfeed.xs.ak-is2.net
-0 onwardclick.xs.ak-is2.net
-0 pulsefintech.xs.ak-is2.net
-0 pushub.xs.ak-is2.net
 0 buzzoola.com
 0 exchange.buzzoola.com
 0 tube.buzzoola.com
@@ -11471,6 +11472,7 @@
 0 log.nhipcaudautu.vn
 0 log.oto.com.vn
 0 log.plo.vn
+0 log.saigondautu.com.vn
 0 log.sggp.org.vn
 0 log.smoney.vn
 0 log.tapchimattran.vn
@@ -12147,6 +12149,7 @@
 0 ads.livetv314.me
 0 ads.livetv623.me
 0 ads.livetv625.me
+0 ads.livetv626.me
 0 ads.lordlucky.com
 0 ads.massinfra.nl
 0 ads.mcafee.com
@@ -14857,6 +14860,7 @@
 0 navigator.io
 0 navrcholu.cz
 0 nazarickol.com
+0 nbbplbiyjhg.com
 0 nbjmp.com
 0 ndha4sding6gf.com
 0 ndparking.com
@@ -14985,12 +14989,14 @@
 0 offerlink.monster
 0 offermatica.com
 0 offoonguser.com
+0 offvmuf.com
 0 ofhappinyer.com
 0 ofnumeltor.com
 0 ofsyuxaveckulgf.com
 0 ohtctjiuow.com
 0 oixohmve.com
 0 ojjzpitr.com
+0 ojooo.com
 0 ojqbnqdwycws.com
 0 oktogar.com
 0 okueroskynt.com
@@ -15348,6 +15354,9 @@
 0 ptoushoa.com
 0 ptuglupyli.com
 0 ptywajofa.pro
+0 pu1.biz
+0 pu3.biz
+0 pu4.biz
 0 pub.chez.com
 0 pub.club-internet.fr
 0 pub.hardware.fr
@@ -15370,9 +15379,12 @@
 0 pulse360.com
 0 pumpaiss.net
 0 push-notifications.top
+0 pushadve.biz
+0 pushadvert.bid
 0 pushanishe.com
 0 pushazam.com
 0 pushazer.com
+0 pushdirect.bid
 0 pushengage.com
 0 pushlaram.com
 0 pushlum.com
@@ -16506,6 +16518,7 @@
 0 wkyswppiobnuqje.com
 0 wlmarketing.com
 0 wmirk.ru
+0 wnkibwzr.com
 0 wodycaha.com
 0 womanear.com
 0 wonderhsjnsd.com
@@ -16754,6 +16767,7 @@
 0 zantracker.com
 0 zap.buzz
 0 zarpop.com
+0 zayac2volk11.com
 0 zbwp6ghm.com
 0 zdbb.net
 0 zdupdotxqwj.com

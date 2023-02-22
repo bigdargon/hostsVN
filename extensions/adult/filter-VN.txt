@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 16 Feb 2023 12:06 UTC+7
-! Version: 2302161206
-! Blocked: 2,628 rules
+! Last modified: 22 Feb 2023 11:59 UTC+7
+! Version: 2302221159
+! Blocked: 2,693 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -81,6 +81,8 @@
 ||b2branked.com^
 ||badtopsex.com^
 ||bb11.live^
+||bblive.fun^
+||bblive.org^
 ||bblive17.vip^
 ||bblive6.vip^
 ||bemup.biz^
@@ -200,6 +202,7 @@
 ||clipsexhay.org^
 ||clipsexhot.org^
 ||clipsexmoi.com^
+||clipsexnhatban.top^
 ||clipsextop.com^
 ||clipsexviet.live^
 ||clipsexviet.xyz^
@@ -265,6 +268,7 @@
 ||ditngon.com^
 ||ditnhau.cc^
 ||ditnhau.club^
+||ditnhau.cyou^
 ||ditnhau.icu^
 ||ditnhau.info^
 ||ditnhau.online^
@@ -405,6 +409,7 @@
 ||gaixinh.app^
 ||gaixinh.art^
 ||gaixinh.biz^
+||gaixinh.cyou^
 ||gaixinh.me^
 ||gaixinh.photo^
 ||gaixinh.sex^
@@ -579,6 +584,7 @@
 ||javgiga.com^
 ||javhay.club^
 ||javhay.co^
+||javhay.cyou^
 ||javhay.media^
 ||javhay.one^
 ||javhay.online^
@@ -728,9 +734,12 @@
 ||live2k.lol^
 ||livechich.com^
 ||loandam.net^
+||loanluan.top^
 ||loanluanx.com^
 ||loclipnong.com^
 ||lon2k.com^
+||lon88.com^
+||lon88.sex^
 ||lon88.vip^
 ||londam.pro^
 ||londep.org^
@@ -814,6 +823,7 @@
 ||mupxx.net^
 ||mvhay.xyz^
 ||myhotlive.tv^
+||nangdau.top^
 ||nenvl.net^
 ||newsexwap.com^
 ||ngamgai.live^
@@ -892,6 +902,7 @@
 ||phima1.com^
 ||phimbx.co^
 ||phimcave.com^
+||phimche.top^
 ||phimconheo.cc^
 ||phimconheo.cyou^
 ||phimconheo.info^
@@ -905,10 +916,12 @@
 ||phimditnhau.icu^
 ||phimditnhau.info^
 ||phimditnhau.one^
+||phimditnhau.top^
 ||phimditnhau.xyz^
 ||phimditvl.com^
 ||phimex.me^
 ||phimfull.pro^
+||phimgaixinh.top^
 ||phimhanquoc18.com^
 ||phimhay.pro^
 ||phimhay3x.pro^
@@ -922,6 +935,7 @@
 ||phimhentai.xyz^
 ||phimheo.biz^
 ||phimheo.club^
+||phimheo.cyou^
 ||phimheo.fun^
 ||phimheo.life^
 ||phimheo.me^
@@ -951,6 +965,7 @@
 ||phimheoz.tv^
 ||phimhiepdam.me^
 ||phimhiepdam.top^
+||phimhinh.top^
 ||phimii.net^
 ||phimixxx.com^
 ||phimjav.club^
@@ -960,8 +975,11 @@
 ||phimjav.xyz^
 ||phimjavhd.net^
 ||phimjavhd.pro^
+||phimjavnhat.top^
 ||phimjavsex.me^
 ||phimkhongche.com^
+||phimkk.com^
+||phimkk.me^
 ||phimkk.net^
 ||phimkk.vip^
 ||phimll.net^
@@ -1005,11 +1023,15 @@
 ||phimsec.to^
 ||phimsec.vip^
 ||phimsec69.me^
+||phimsec7.top^
+||phimsech.top^
 ||phimsecmoi.net^
 ||phimsecmy.net^
+||phimsecnhat.cyou^
 ||phimsecvietnam.net^
 ||phimsecvl.com^
 ||phimsehay.com^
+||phimsenhat.top^
 ||phimset.cc^
 ||phimset.cyou^
 ||phimset.live^
@@ -1024,6 +1046,7 @@
 ||phimset.tube^
 ||phimset69.net^
 ||phimsetmoi.net^
+||phimsetnhat.top^
 ||phimsettre.net^
 ||phimsex-com.pro^
 ||phimsex-ditnhau.pro^
@@ -1058,6 +1081,7 @@
 ||phimsex14.net^
 ||phimsex15.com^
 ||phimsex17.com^
+||phimsex18.top^
 ||phimsex19.com^
 ||phimsex2022.org^
 ||phimsex2k.biz^
@@ -1086,6 +1110,7 @@
 ||phimsex99.co^
 ||phimsex99.net^
 ||phimsex99.org^
+||phimsexanime.top^
 ||phimsexasian.net^
 ||phimsexav.org^
 ||phimsexbcs.org^
@@ -1101,11 +1126,13 @@
 ||phimsexchina.com^
 ||phimsexchina.net^
 ||phimsexchina.pro^
+||phimsexchina.top^
 ||phimsexchina.tv^
 ||phimsexchina.xyz^
 ||phimsexcom.com^
 ||phimsexcom.net^
 ||phimsexcom.pro^
+||phimsexcotrang.top^
 ||phimsexdam.cc^
 ||phimsexdam.net^
 ||phimsexdam.top^
@@ -1135,12 +1162,14 @@
 ||phimsexgay.me^
 ||phimsexgay.net^
 ||phimsexgay.org^
+||phimsexgaynhatban.top^
 ||phimsexhan.cc^
 ||phimsexhan.com^
 ||phimsexhan.me^
 ||phimsexhan.net^
 ||phimsexhan.org^
 ||phimsexhan.pro^
+||phimsexhan.top^
 ||phimsexhan.xxx^
 ||phimsexhanquoc.club^
 ||phimsexhanquoc.co^
@@ -1175,9 +1204,12 @@
 ||phimsexhay669.net^
 ||phimsexhay69.net^
 ||phimsexhaymoi.com^
+||phimsexhaynhatban.cyou^
+||phimsexhaynhatban.top^
 ||phimsexhayvl.com^
 ||phimsexhayy.com^
 ||phimsexhd.club^
+||phimsexhd.cyou^
 ||phimsexhd.live^
 ||phimsexhd.nl^
 ||phimsexhd.one^
@@ -1197,6 +1229,7 @@
 ||phimsexhiepdam.xyz^
 ||phimsexhocsinh.net^
 ||phimsexhocsinh.top^
+||phimsexhocsinhnhatban.top^
 ||phimsexjapan.me^
 ||phimsexjav.club^
 ||phimsexjav.info^
@@ -1269,17 +1302,24 @@
 ||phimsexnhanh.plus^
 ||phimsexnhanh.xyz^
 ||phimsexnhanhvl.pro^
+||phimsexnhat.club^
 ||phimsexnhat.tv^
 ||phimsexnhat.vip^
 ||phimsexnhatban.cc^
 ||phimsexnhatban.club^
 ||phimsexnhatban.info^
 ||phimsexnhatban.live^
+||phimsexnhatban.monster^
 ||phimsexnhatban.net^
 ||phimsexnhatban.one^
 ||phimsexnhatban.xyz^
 ||phimsexnhatban99.com^
+||phimsexnhatbangaixinh.top^
+||phimsexnhatbanmoi.top^
+||phimsexnhatbanmoinhat.top^
 ||phimsexnhathay.pro^
+||phimsexnhathaynhat.top^
+||phimsexnhatmoinhat.top^
 ||phimsexok.vip^
 ||phimsexol.pro^
 ||phimsexonl.net^
@@ -1387,6 +1427,7 @@
 ||phimtxx.com^
 ||phimtxx.net^
 ||phimvideosxxx.monster^
+||phimvideoxxx.top^
 ||phimvip.biz^
 ||phimvlxx.link^
 ||phimvlxx.net^
@@ -1398,15 +1439,18 @@
 ||phimxec.me^
 ||phimxec.net^
 ||phimxec.pro^
+||phimxec.top^
 ||phimxech.top^
 ||phimxem.top^
 ||phimxes.cc^
+||phimxes.top^
 ||phimxes.video^
 ||phimxesvn.com^
 ||phimxesvn.pro^
 ||phimxet.me^
 ||phimxet.pro^
 ||phimxet.to^
+||phimxet.top^
 ||phimxet.tv^
 ||phimxex.pro^
 ||phimxhay.pro^
@@ -1418,6 +1462,7 @@
 ||phimxviet.pro^
 ||phimxx.cc^
 ||phimxx.monster^
+||phimxx.top^
 ||phimxx.tube^
 ||phimxx.xyz^
 ||phimxxhd.me^
@@ -1583,6 +1628,7 @@
 ||sexcogiao.com^
 ||sexcotrang.com^
 ||sexcotrang.net^
+||sexcotrang.top^
 ||sexcuto.net^
 ||sexdam.pro^
 ||sexdam.tube^
@@ -1631,6 +1677,7 @@
 ||sexgaixinh.site^
 ||sexgay.tv^
 ||sexhai.com^
+||sexhan.top^
 ||sexhanquoc.net^
 ||sexhapdan.com^
 ||sexhay.biz^
@@ -1643,6 +1690,7 @@
 ||sexhay69.us^
 ||sexhay99.com^
 ||sexhaynhat.pro^
+||sexhaynhatban.top^
 ||sexhaynhi.pro^
 ||sexhaypro.com^
 ||sexhayvc.biz^
@@ -1682,12 +1730,16 @@
 ||sexhihi69.pro^
 ||sexhihihi.net^
 ||sexhihii.net^
+||sexhocsinh.top^
 ||sexhome.pro^
 ||sexhot.vip^
 ||sexiezpix.com^
 ||sexjav.cc^
 ||sexjavhd.org^
+||sexkhongche.cyou^
 ||sexkhongche.mobi^
+||sexkhongche5.cyou^
+||sexkhongchenhatban.top^
 ||sexkoche.org^
 ||sexkoche.pro^
 ||sexktv.net^
@@ -1707,6 +1759,7 @@
 ||sexmoi.buzz^
 ||sexmoi.click^
 ||sexmoi.co^
+||sexmoi.cyou^
 ||sexmoi.info^
 ||sexmoi.live^
 ||sexmoi.online^
@@ -1742,8 +1795,14 @@
 ||sexnhanh.co^
 ||sexnhanhz.net^
 ||sexnhat69.pro^
+||sexnhatban.monster^
+||sexnhatbanhaynhat.top^
+||sexnhatbanvietsub.top^
+||sexnhatgaixinh.top^
 ||sexnhathd.com^
 ||sexnhathd.pro^
+||sexnhatkoche.top^
+||sexnhatmoinhat.top^
 ||sexnhe.club^
 ||sexnhe.xyz^
 ||sexnonghd.pro^
@@ -1786,6 +1845,7 @@
 ||sexsung.com^
 ||sexsuong.net^
 ||sext.pro^
+||sexthu.top^
 ||sexthudam.pro^
 ||sexthudam.top^
 ||sextinh.me^
@@ -1916,6 +1976,7 @@
 ||sexvn.store^
 ||sexvn.to^
 ||sexvn.xyz^
+||sexvn17.top^
 ||sexvn3x.com^
 ||sexvn69.com^
 ||sexvn789.com^
@@ -1962,6 +2023,7 @@
 ||taichichlive.xyz^
 ||taihotlive.xyz^
 ||taiphimsex.co^
+||taiphimsex.top^
 ||taiphimsexnhatban.top^
 ||taiqqlive.xyz^
 ||tamilsex.desi^
@@ -2133,6 +2195,7 @@
 ||vetmang.xyz^
 ||vi.megaxh.com^
 ||vi.xhvid.com^
+||videosexnhat.top^
 ||videosexx.net^
 ||viet.sex^
 ||viet69.app^
@@ -2441,6 +2504,7 @@
 ||xemxxx.org^
 ||xemxxx.xyz^
 ||xephimsex.com^
+||xexnhat.top^
 ||xgaigoi.com^
 ||xgaixinh.net^
 ||xhdx.me^
@@ -2587,6 +2651,7 @@
 ||xxxmoinhat.net^
 ||xxxner.com^
 ||xxxnhat.net^
+||xxxnhatban.cyou^
 ||xxxphap.vip^
 ||xxxphe.pro^
 ||xxxphim.biz^
