@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 Feb 2023 14:57 UTC+7
-# Version: 2302221457
-# Blocked: 17,495 domains
+# Last modified: 22 Feb 2023 16:42 UTC+7
+# Version: 2302221642
+# Blocked: 17,496 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11515,6 +11515,7 @@
 0.0.0.0 zt1.me.zing.vn
 #[brand.zing.vn]
 0.0.0.0 adtima.brand.zing.vn
+0.0.0.0 adtimabot.brand.zing.vn
 0.0.0.0 adtimabox.brand.zing.vn
 0.0.0.0 app.brand.zing.vn
 0.0.0.0 banner.brand.zing.vn
