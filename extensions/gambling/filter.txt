@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 22 Feb 2023 11:59 UTC+7
-! Version: 2302221159
-! Blocked: 79,535 rules
+! Last modified: 22 Feb 2023 14:56 UTC+7
+! Version: 2302221456
+! Blocked: 79,537 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -68244,6 +68244,7 @@
 ||riding168.net^
 ||rik.bet^
 ||rik.club^
+||rik.fun^
 ||rik.top^
 ||rik.vip^
 ||rik.win^
@@ -70258,6 +70259,7 @@
 ||tai.nhatvip.live^
 ||tai.rik.bet^
 ||tai.rik.club^
+||tai.rik.fun^
 ||tai.rik.top^
 ||tai.rikvip.id^
 ||tai.rikvip.tv^

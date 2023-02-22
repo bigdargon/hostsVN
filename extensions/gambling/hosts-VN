@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 22 Feb 2023 11:59 UTC+7
-# Version: 2302221159
-# Blocked: 4,806 domains
+# Last modified: 22 Feb 2023 14:56 UTC+7
+# Version: 2302221456
+# Blocked: 4,808 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3610,6 +3610,7 @@
 0.0.0.0 rgcsn.com
 0.0.0.0 rik.bet
 0.0.0.0 rik.club
+0.0.0.0 rik.fun
 0.0.0.0 rik.top
 0.0.0.0 rik.vip
 0.0.0.0 rik.win
@@ -3782,6 +3783,7 @@
 0.0.0.0 tai.nhatvip.live
 0.0.0.0 tai.rik.bet
 0.0.0.0 tai.rik.club
+0.0.0.0 tai.rik.fun
 0.0.0.0 tai.rik.top
 0.0.0.0 tai.rikvip.tv
 0.0.0.0 tai.rikvip.us
