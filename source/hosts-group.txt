@@ -10071,9 +10071,6 @@
 0.0.0.0 cdn.p-n.io
 0.0.0.0 p-n.io
 #[optimizely.com]
-0.0.0.0 cdn-pci.optimizely.com
-0.0.0.0 cdn.optimizely.com
-0.0.0.0 cdn3.optimizely.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 logx.optimizely.com
 #[tm-awx.com]
@@ -11101,3 +11098,8 @@
 #[analytics-data.io]
 0.0.0.0 js-sdk.analytics-data.io
 0.0.0.0 track.analytics-data.io
+#[ads.livetv*.me]
+0.0.0.0 ads.livetv314.me
+0.0.0.0 ads.livetv623.me
+0.0.0.0 ads.livetv625.me
+0.0.0.0 ads.livetv626.me
