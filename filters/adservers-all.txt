@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 22 Feb 2023 16:42 UTC+7
-! Version: 2302221642
-! Blocked: 8,330 rules
+! Last modified: 26 Feb 2023 16:55 UTC+7
+! Version: 2302261656
+! Blocked: 8,340 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -675,6 +675,8 @@
 ||production-tracking.riviu.co^
 ||promotion.haravan.com^
 ||proof.sudo.vn^
+||px-cdn.saostar.vn^
+||px.saostar.vn^
 ||q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me^
 ||qc.5giay.vn^
 ||qc.designervn.net^
@@ -1016,6 +1018,7 @@
 ||ads.imgur.com^
 ||ads.indeed.com^
 ||ads.linkedin.com^
+||ads.livetv*.me^
 ||ads.msn.com^
 ||ads.oppomobile.com^
 ||ads.pinterest.com^
@@ -1391,7 +1394,6 @@
 ||ccc.sys.miui.com^
 ||ccpa.psg.nexstardigital.net^
 ||cdn-eu.dynamicyield.com^
-||cdn-pci.optimizely.com^
 ||cdn.avantisvideo.com^
 ||cdn.dynamicyield.com^
 ||cdn.openinstall.io^
@@ -1402,9 +1404,7 @@
 ||cdn12359286.ahacdn.me^
 ||cdn18685953.ahacdn.me^
 ||cdn19641441.ahacdn.me^
-||cdn24790679.ahacdn.me^
 ||cdn28786515.ahacdn.me^
-||cdn3.optimizely.com^
 ||cdn38871181.ahacdn.me^
 ||cdn40657009.ahacdn.me^
 ||cdn44221613.ahacdn.me^
@@ -1415,7 +1415,6 @@
 ||cdn62004373.ahacdn.me^
 ||cdn65182383.ahacdn.me^
 ||cdn72891311.ahacdn.me^
-||cdn78085165.ahacdn.me^
 ||cdn81910013.ahacdn.me^
 ||cdnads.com^
 ||cdnativepush.com^
@@ -1468,6 +1467,7 @@
 ||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
 ||collector-*.us.tvsquared.com^
+||company-target.com^
 ||conductrics.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||config.hiido.com^
@@ -1699,6 +1699,7 @@
 ||glitter.services.disqus.com^
 ||gmossp-sp.jp^
 ||go-mpulse.net^
+||go.trvdp.com^
 ||go2speed.org^
 ||google-analytics.com^
 ||googleadservices.com^
@@ -2248,6 +2249,7 @@
 ||s-adx.op-mobile.opera.com^
 ||s-onetag.com^
 ||s.adx.opera.com^
+||s.trvdp.com^
 ||sa.api.intl.miui.com^
 ||sads*z.com^
 ||sail-horizon.com^
@@ -2643,6 +2645,7 @@
 ||520click.com^
 ||5advertise.com^
 ||5toft8or7on8tt.com^
+||79xmz3lmss.com^
 ||7c0616849b.com^
 ||7ca78m3csgbrid7ge.com^
 ||864feb57ruary.com^
@@ -3148,10 +3151,6 @@
 ||ads.leovegas.com^
 ||ads.lesbianpersonals.com^
 ||ads.livenation.com^
-||ads.livetv314.me^
-||ads.livetv623.me^
-||ads.livetv625.me^
-||ads.livetv626.me^
 ||ads.lordlucky.com^
 ||ads.massinfra.nl^
 ||ads.mcafee.com^
@@ -3723,6 +3722,7 @@
 ||appads.com^
 ||appbetnewapp.top^
 ||appboy-images.com^
+||appcdn01.xyz^
 ||appclick.co^
 ||appclick.net^
 ||appdog.com^
@@ -4107,6 +4107,7 @@
 ||boom.ro^
 ||boomads.com^
 ||bopvetgel.com^
+||boqcfrsfdykjhb.com^
 ||bordeaux.futurecdn.net^
 ||boredcrown.com^
 ||boringcoat.com^
@@ -4436,7 +4437,6 @@
 ||commissionmonster.com^
 ||commonswing.com^
 ||compactbanner.com^
-||company-target.com^
 ||completecabbage.com^
 ||complextoad.com^
 ||comprabanner.it^
@@ -5323,6 +5323,7 @@
 ||haxbyq.com^
 ||hazelnutshighs.com^
 ||hdatssfpxrwbxs.com^
+||hdboqykfajjpmc.com^
 ||hdmtools.com^
 ||healthsmd.com^
 ||healthyoffers.com^
@@ -5411,6 +5412,7 @@
 ||howdoesin.net^
 ||howtubray.com^
 ||hpijkah.com^
+||hppvkbfcuq.com^
 ||hrgyhgxcbvwxs.com^
 ||hsbarbershop.co.uk^
 ||hscta.net^
@@ -5484,6 +5486,7 @@
 ||iifvcfwiqi.com^
 ||ilbanner.com^
 ||ilead.itrack.it^
+||illegal-respond.pro^
 ||illfatedsnail.com^
 ||illustriousoatmeal.com^
 ||ilogs.bytefence.com^
@@ -5764,6 +5767,7 @@
 ||laughcloth.com^
 ||laughedaffront.com^
 ||launchbit.com^
+||laversleopold.guru^
 ||layer-ad.de^
 ||layer-ads.de^
 ||lazypeacefullyutterly.com^
@@ -6458,6 +6462,7 @@
 ||oxen.hillcountrytexas.com^
 ||oxiqyxos.com^
 ||oxmkhuotcz.com^
+||oxthrilled.com^
 ||oxydend2r5umarb8oreum.com^
 ||oygohusvggaurod.xyz^
 ||ozongees.com^
@@ -7436,6 +7441,7 @@
 ||stovoori.net^
 ||straightnest.com^
 ||straticjustice.com^
+||stretchsquirrel.com^
 ||strikead.com^
 ||strikeiron.com^
 ||stripedburst.com^
@@ -8029,6 +8035,7 @@
 ||vogueoatgap.com^
 ||voicevegetable.com^
 ||voredi.com^
+||votclkeczz.com^
 ||vouhecem.net^
 ||vounaipu.net^
 ||vpon.com^
@@ -8179,6 +8186,7 @@
 ||wvhba6470p.com^
 ||wvnuubmothth.com^
 ||www-banner.chat.ru^
+||wyhifdpatl.com^
 ||wyvpjsfhywm.com^
 ||wywy.com^
 ||wzelkaekmoman.com^
@@ -8283,6 +8291,8 @@
 ||yume.com^
 ||yumkelis.com^
 ||yxpmtdzlsv.com^
+||yyselrqpyu.com^
+||yzqjaltdhlv.com^
 ||z3dmbpl6309s.com^
 ||z5x.net^
 ||zabpbhko.com^

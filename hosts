@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 Feb 2023 16:42 UTC+7
-# Version: 2302221642
-# Blocked: 17,496 domains
+# Last modified: 26 Feb 2023 16:55 UTC+7
+# Version: 2302261656
+# Blocked: 17,528 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -796,7 +796,7 @@
 0.0.0.0 cache-ssl.celtra.com
 0.0.0.0 cache.celtra.com
 0.0.0.0 track.celtra.com
-#[applovin]
+#[applovin.com]
 0.0.0.0 a.applovin.com
 0.0.0.0 applovin.com
 0.0.0.0 assets.applovin.com
@@ -809,6 +809,7 @@
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod-bid.applovin.com
 0.0.0.0 prod-ms.applovin.com
+0.0.0.0 prod-ms4.applovin.com
 0.0.0.0 res1.applovin.com
 0.0.0.0 rt.applovin.com
 0.0.0.0 stage-a.applovin.com
@@ -2091,8 +2092,8 @@
 #[rubiconproject.com]
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 assets.rubiconproject.com
-0.0.0.0 beacon.rubiconproject.com
 0.0.0.0 beacon-nf.rubiconproject.com
+0.0.0.0 beacon.rubiconproject.com
 0.0.0.0 cca-fra2.rubiconproject.com
 0.0.0.0 cca-hkg1.rubiconproject.com
 0.0.0.0 cca-iad2.rubiconproject.com
@@ -2103,15 +2104,16 @@
 0.0.0.0 exapi-eu.rubiconproject.com
 0.0.0.0 exapi-us-east.rubiconproject.com
 0.0.0.0 exapi-us-west.rubiconproject.com
-0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastlane-adv.rubiconproject.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 micro.rubiconproject.com
 0.0.0.0 mrp.rubiconproject.com
 0.0.0.0 optimized-by.rubiconproject.com
-0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel-apac.rubiconproject.com
 0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 pixel-us-east.rubiconproject.com
 0.0.0.0 pixel-us-west.rubiconproject.com
+0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 prebid-a.rubiconproject.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 rubiconproject.com
@@ -2121,8 +2123,8 @@
 0.0.0.0 t.update.rubiconproject.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 update.rubiconproject.com
-0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 video-ads-apex.rubiconproject.com
+0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 www.rubiconproject.com
 #[iesnare.com]
 0.0.0.0 iesnare.com
@@ -2791,11 +2793,12 @@
 0.0.0.0 sync.go.sonobi.com
 0.0.0.0 www.sonobi.com
 0.0.0.0 xcp.go.sonobi.com
-#[indexww]
+#[indexww.com]
+0.0.0.0 cdn.indexww.com
 0.0.0.0 ht.indexww.com
 0.0.0.0 indexww.com
-0.0.0.0 js.indexww.com
 0.0.0.0 js-sec.indexww.com
+0.0.0.0 js.indexww.com
 0.0.0.0 post.update.indexww.com
 0.0.0.0 s.update.indexww.com
 0.0.0.0 update.indexww.com
@@ -3120,9 +3123,11 @@
 0.0.0.0 ads.openx.net
 0.0.0.0 bid.openx.net
 0.0.0.0 eu-u.openx.net
+0.0.0.0 google-bidout-d.openx.net
 0.0.0.0 indium.openx.net
 0.0.0.0 jp-u.openx.net
 0.0.0.0 nytimes-d.openx.net
+0.0.0.0 oajs.openx.net
 0.0.0.0 openx.net
 0.0.0.0 r.openx.net
 0.0.0.0 rtb-ca.openx.net
@@ -5652,9 +5657,12 @@
 0.0.0.0 demandbase.com
 0.0.0.0 dsp-creative.demandbase.com
 0.0.0.0 dsp.demandbase.com
+0.0.0.0 media.dsp-prod.demandbase.com
 0.0.0.0 personalization.demandbase.com
+0.0.0.0 s.dsp-prod.demandbase.com
 0.0.0.0 scripts.demandbase.com
 0.0.0.0 stg.demandbase.com
+0.0.0.0 t.dsp-prod.demandbase.com
 0.0.0.0 tag.demandbase.com
 0.0.0.0 tracker.dsp.demandbase.com
 0.0.0.0 www.demandbase.com
@@ -8178,6 +8186,10 @@
 0.0.0.0 ssp.admanmedia.com
 0.0.0.0 stats.admanmedia.com
 #[casalemedia.com]
+0.0.0.0 a4500.casalemedia.com
+0.0.0.0 a5083.casalemedia.com
+0.0.0.0 a5224.casalemedia.com
+0.0.0.0 a648.casalemedia.com
 0.0.0.0 amp.casalemedia.com
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 as.casalemedia.com
@@ -9998,7 +10010,9 @@
 0.0.0.0 ujm.hansel.io
 #[trvdp.com]
 0.0.0.0 cnt.trvdp.com
+0.0.0.0 go.trvdp.com
 0.0.0.0 p.trvdp.com
+0.0.0.0 s.trvdp.com
 #[statcounter.com]
 0.0.0.0 c.statcounter.com
 0.0.0.0 secure.statcounter.com
@@ -10083,9 +10097,7 @@
 0.0.0.0 cdn.p-n.io
 0.0.0.0 p-n.io
 #[optimizely.com]
-0.0.0.0 cdn-pci.optimizely.com
 0.0.0.0 cdn.optimizely.com
-0.0.0.0 cdn3.optimizely.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 logx.optimizely.com
 #[tm-awx.com]
@@ -10657,7 +10669,6 @@
 0.0.0.0 cdn12359286.ahacdn.me
 0.0.0.0 cdn18685953.ahacdn.me
 0.0.0.0 cdn19641441.ahacdn.me
-0.0.0.0 cdn24790679.ahacdn.me
 0.0.0.0 cdn28786515.ahacdn.me
 0.0.0.0 cdn38871181.ahacdn.me
 0.0.0.0 cdn40657009.ahacdn.me
@@ -10669,7 +10680,6 @@
 0.0.0.0 cdn62004373.ahacdn.me
 0.0.0.0 cdn65182383.ahacdn.me
 0.0.0.0 cdn72891311.ahacdn.me
-0.0.0.0 cdn78085165.ahacdn.me
 0.0.0.0 cdn81910013.ahacdn.me
 #[sensic.net]
 0.0.0.0 config.sensic.net
@@ -11113,6 +11123,20 @@
 #[analytics-data.io]
 0.0.0.0 js-sdk.analytics-data.io
 0.0.0.0 track.analytics-data.io
+#[ads.livetv*.me]
+0.0.0.0 ads.livetv314.me
+0.0.0.0 ads.livetv623.me
+0.0.0.0 ads.livetv625.me
+0.0.0.0 ads.livetv626.me
+#[company-target.com]
+0.0.0.0 company-target.com
+0.0.0.0 api-staging.company-target.com
+0.0.0.0 c.company-target.com
+0.0.0.0 media.company-target.com
+0.0.0.0 s.company-target.com
+0.0.0.0 segments-dev.company-target.com
+0.0.0.0 segments-stage.company-target.com
+0.0.0.0 t.company-target.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12977,6 +13001,8 @@
 0.0.0.0 pixel.chotot.com
 0.0.0.0 production-tracking.riviu.co
 0.0.0.0 proof.sudo.vn
+0.0.0.0 px-cdn.saostar.vn
+0.0.0.0 px.saostar.vn
 0.0.0.0 report.mediahub.vn
 0.0.0.0 report.vnay.vn
 0.0.0.0 report2.mediahub.vn
@@ -13115,6 +13141,7 @@
 0.0.0.0 520click.com
 0.0.0.0 5advertise.com
 0.0.0.0 5toft8or7on8tt.com
+0.0.0.0 79xmz3lmss.com
 0.0.0.0 7c0616849b.com
 0.0.0.0 7ca78m3csgbrid7ge.com
 0.0.0.0 864feb57ruary.com
@@ -13606,10 +13633,6 @@
 0.0.0.0 ads.leovegas.com
 0.0.0.0 ads.lesbianpersonals.com
 0.0.0.0 ads.livenation.com
-0.0.0.0 ads.livetv314.me
-0.0.0.0 ads.livetv623.me
-0.0.0.0 ads.livetv625.me
-0.0.0.0 ads.livetv626.me
 0.0.0.0 ads.lordlucky.com
 0.0.0.0 ads.massinfra.nl
 0.0.0.0 ads.mcafee.com
@@ -14095,6 +14118,7 @@
 0.0.0.0 appads.com
 0.0.0.0 appbetnewapp.top
 0.0.0.0 appboy-images.com
+0.0.0.0 appcdn01.xyz
 0.0.0.0 appclick.co
 0.0.0.0 appclick.net
 0.0.0.0 appdog.com
@@ -14454,6 +14478,7 @@
 0.0.0.0 boom.ro
 0.0.0.0 boomads.com
 0.0.0.0 bopvetgel.com
+0.0.0.0 boqcfrsfdykjhb.com
 0.0.0.0 bordeaux.futurecdn.net
 0.0.0.0 boredcrown.com
 0.0.0.0 boringcoat.com
@@ -14748,7 +14773,6 @@
 0.0.0.0 commissionmonster.com
 0.0.0.0 commonswing.com
 0.0.0.0 compactbanner.com
-0.0.0.0 company-target.com
 0.0.0.0 completecabbage.com
 0.0.0.0 complextoad.com
 0.0.0.0 comprabanner.it
@@ -15542,6 +15566,7 @@
 0.0.0.0 haxbyq.com
 0.0.0.0 hazelnutshighs.com
 0.0.0.0 hdatssfpxrwbxs.com
+0.0.0.0 hdboqykfajjpmc.com
 0.0.0.0 healthsmd.com
 0.0.0.0 healthyoffers.com
 0.0.0.0 heap.com
@@ -15622,6 +15647,7 @@
 0.0.0.0 howdoesin.net
 0.0.0.0 howtubray.com
 0.0.0.0 hpijkah.com
+0.0.0.0 hppvkbfcuq.com
 0.0.0.0 hrgyhgxcbvwxs.com
 0.0.0.0 httpool.com
 0.0.0.0 hubzozo.com
@@ -15682,6 +15708,7 @@
 0.0.0.0 iifvcfwiqi.com
 0.0.0.0 ilbanner.com
 0.0.0.0 ilead.itrack.it
+0.0.0.0 illegal-respond.pro
 0.0.0.0 illfatedsnail.com
 0.0.0.0 illustriousoatmeal.com
 0.0.0.0 iloopmobile.com
@@ -15937,6 +15964,7 @@
 0.0.0.0 laughcloth.com
 0.0.0.0 laughedaffront.com
 0.0.0.0 launchbit.com
+0.0.0.0 laversleopold.guru
 0.0.0.0 layer-ad.de
 0.0.0.0 layer-ads.de
 0.0.0.0 lazypeacefullyutterly.com
@@ -16554,6 +16582,7 @@
 0.0.0.0 oxen.hillcountrytexas.com
 0.0.0.0 oxiqyxos.com
 0.0.0.0 oxmkhuotcz.com
+0.0.0.0 oxthrilled.com
 0.0.0.0 oxydend2r5umarb8oreum.com
 0.0.0.0 oygohusvggaurod.xyz
 0.0.0.0 ozongees.com
@@ -17387,6 +17416,7 @@
 0.0.0.0 stovoori.net
 0.0.0.0 straightnest.com
 0.0.0.0 straticjustice.com
+0.0.0.0 stretchsquirrel.com
 0.0.0.0 strikead.com
 0.0.0.0 strikeiron.com
 0.0.0.0 stripedburst.com
@@ -17872,6 +17902,7 @@
 0.0.0.0 vogueoatgap.com
 0.0.0.0 voicevegetable.com
 0.0.0.0 voredi.com
+0.0.0.0 votclkeczz.com
 0.0.0.0 vouhecem.net
 0.0.0.0 vounaipu.net
 0.0.0.0 vpon.com
@@ -18124,6 +18155,7 @@
 0.0.0.0 www.zarpop.com
 0.0.0.0 www.zekiatagur.com
 0.0.0.0 www.zxc.world
+0.0.0.0 wyhifdpatl.com
 0.0.0.0 wyvpjsfhywm.com
 0.0.0.0 wywy.com
 0.0.0.0 wzelkaekmoman.com
@@ -18221,6 +18253,8 @@
 0.0.0.0 yume.com
 0.0.0.0 yumkelis.com
 0.0.0.0 yxpmtdzlsv.com
+0.0.0.0 yyselrqpyu.com
+0.0.0.0 yzqjaltdhlv.com
 0.0.0.0 z3dmbpl6309s.com
 0.0.0.0 z5x.net
 0.0.0.0 zabpbhko.com

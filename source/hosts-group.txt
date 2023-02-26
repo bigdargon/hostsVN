@@ -784,7 +784,7 @@
 0.0.0.0 cache-ssl.celtra.com
 0.0.0.0 cache.celtra.com
 0.0.0.0 track.celtra.com
-#[applovin]
+#[applovin.com]
 0.0.0.0 a.applovin.com
 0.0.0.0 applovin.com
 0.0.0.0 assets.applovin.com
@@ -797,6 +797,7 @@
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod-bid.applovin.com
 0.0.0.0 prod-ms.applovin.com
+0.0.0.0 prod-ms4.applovin.com
 0.0.0.0 res1.applovin.com
 0.0.0.0 rt.applovin.com
 0.0.0.0 stage-a.applovin.com
@@ -2079,8 +2080,8 @@
 #[rubiconproject.com]
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 assets.rubiconproject.com
-0.0.0.0 beacon.rubiconproject.com
 0.0.0.0 beacon-nf.rubiconproject.com
+0.0.0.0 beacon.rubiconproject.com
 0.0.0.0 cca-fra2.rubiconproject.com
 0.0.0.0 cca-hkg1.rubiconproject.com
 0.0.0.0 cca-iad2.rubiconproject.com
@@ -2091,15 +2092,16 @@
 0.0.0.0 exapi-eu.rubiconproject.com
 0.0.0.0 exapi-us-east.rubiconproject.com
 0.0.0.0 exapi-us-west.rubiconproject.com
-0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastlane-adv.rubiconproject.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 micro.rubiconproject.com
 0.0.0.0 mrp.rubiconproject.com
 0.0.0.0 optimized-by.rubiconproject.com
-0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel-apac.rubiconproject.com
 0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 pixel-us-east.rubiconproject.com
 0.0.0.0 pixel-us-west.rubiconproject.com
+0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 prebid-a.rubiconproject.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 rubiconproject.com
@@ -2109,8 +2111,8 @@
 0.0.0.0 t.update.rubiconproject.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 update.rubiconproject.com
-0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 video-ads-apex.rubiconproject.com
+0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 www.rubiconproject.com
 #[iesnare.com]
 0.0.0.0 iesnare.com
@@ -2779,11 +2781,12 @@
 0.0.0.0 sync.go.sonobi.com
 0.0.0.0 www.sonobi.com
 0.0.0.0 xcp.go.sonobi.com
-#[indexww]
+#[indexww.com]
+0.0.0.0 cdn.indexww.com
 0.0.0.0 ht.indexww.com
 0.0.0.0 indexww.com
-0.0.0.0 js.indexww.com
 0.0.0.0 js-sec.indexww.com
+0.0.0.0 js.indexww.com
 0.0.0.0 post.update.indexww.com
 0.0.0.0 s.update.indexww.com
 0.0.0.0 update.indexww.com
@@ -3108,9 +3111,11 @@
 0.0.0.0 ads.openx.net
 0.0.0.0 bid.openx.net
 0.0.0.0 eu-u.openx.net
+0.0.0.0 google-bidout-d.openx.net
 0.0.0.0 indium.openx.net
 0.0.0.0 jp-u.openx.net
 0.0.0.0 nytimes-d.openx.net
+0.0.0.0 oajs.openx.net
 0.0.0.0 openx.net
 0.0.0.0 r.openx.net
 0.0.0.0 rtb-ca.openx.net
@@ -5640,9 +5645,12 @@
 0.0.0.0 demandbase.com
 0.0.0.0 dsp-creative.demandbase.com
 0.0.0.0 dsp.demandbase.com
+0.0.0.0 media.dsp-prod.demandbase.com
 0.0.0.0 personalization.demandbase.com
+0.0.0.0 s.dsp-prod.demandbase.com
 0.0.0.0 scripts.demandbase.com
 0.0.0.0 stg.demandbase.com
+0.0.0.0 t.dsp-prod.demandbase.com
 0.0.0.0 tag.demandbase.com
 0.0.0.0 tracker.dsp.demandbase.com
 0.0.0.0 www.demandbase.com
@@ -8166,6 +8174,10 @@
 0.0.0.0 ssp.admanmedia.com
 0.0.0.0 stats.admanmedia.com
 #[casalemedia.com]
+0.0.0.0 a4500.casalemedia.com
+0.0.0.0 a5083.casalemedia.com
+0.0.0.0 a5224.casalemedia.com
+0.0.0.0 a648.casalemedia.com
 0.0.0.0 amp.casalemedia.com
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 as.casalemedia.com
@@ -9986,7 +9998,9 @@
 0.0.0.0 ujm.hansel.io
 #[trvdp.com]
 0.0.0.0 cnt.trvdp.com
+0.0.0.0 go.trvdp.com
 0.0.0.0 p.trvdp.com
+0.0.0.0 s.trvdp.com
 #[statcounter.com]
 0.0.0.0 c.statcounter.com
 0.0.0.0 secure.statcounter.com
@@ -10071,6 +10085,7 @@
 0.0.0.0 cdn.p-n.io
 0.0.0.0 p-n.io
 #[optimizely.com]
+0.0.0.0 cdn.optimizely.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 logx.optimizely.com
 #[tm-awx.com]
@@ -10642,7 +10657,6 @@
 0.0.0.0 cdn12359286.ahacdn.me
 0.0.0.0 cdn18685953.ahacdn.me
 0.0.0.0 cdn19641441.ahacdn.me
-0.0.0.0 cdn24790679.ahacdn.me
 0.0.0.0 cdn28786515.ahacdn.me
 0.0.0.0 cdn38871181.ahacdn.me
 0.0.0.0 cdn40657009.ahacdn.me
@@ -10654,7 +10668,6 @@
 0.0.0.0 cdn62004373.ahacdn.me
 0.0.0.0 cdn65182383.ahacdn.me
 0.0.0.0 cdn72891311.ahacdn.me
-0.0.0.0 cdn78085165.ahacdn.me
 0.0.0.0 cdn81910013.ahacdn.me
 #[sensic.net]
 0.0.0.0 config.sensic.net
@@ -11103,3 +11116,12 @@
 0.0.0.0 ads.livetv623.me
 0.0.0.0 ads.livetv625.me
 0.0.0.0 ads.livetv626.me
+#[company-target.com]
+0.0.0.0 company-target.com
+0.0.0.0 api-staging.company-target.com
+0.0.0.0 c.company-target.com
+0.0.0.0 media.company-target.com
+0.0.0.0 s.company-target.com
+0.0.0.0 segments-dev.company-target.com
+0.0.0.0 segments-stage.company-target.com
+0.0.0.0 t.company-target.com

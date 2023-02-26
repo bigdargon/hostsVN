@@ -712,6 +712,7 @@ pdn.applovin.com
 prod-a.applovin.com
 prod-bid.applovin.com
 prod-ms.applovin.com
+prod-ms4.applovin.com
 res1.applovin.com
 rt.applovin.com
 stage-a.applovin.com
@@ -1895,8 +1896,8 @@ stat.flashtalking.com
 www.flashtalking.com
 ads.rubiconproject.com
 assets.rubiconproject.com
-beacon.rubiconproject.com
 beacon-nf.rubiconproject.com
+beacon.rubiconproject.com
 cca-fra2.rubiconproject.com
 cca-hkg1.rubiconproject.com
 cca-iad2.rubiconproject.com
@@ -1907,15 +1908,16 @@ exapi-apac.rubiconproject.com
 exapi-eu.rubiconproject.com
 exapi-us-east.rubiconproject.com
 exapi-us-west.rubiconproject.com
-fastlane.rubiconproject.com
 fastlane-adv.rubiconproject.com
+fastlane.rubiconproject.com
+micro.rubiconproject.com
 mrp.rubiconproject.com
 optimized-by.rubiconproject.com
-pixel.rubiconproject.com
 pixel-apac.rubiconproject.com
 pixel-eu.rubiconproject.com
 pixel-us-east.rubiconproject.com
 pixel-us-west.rubiconproject.com
+pixel.rubiconproject.com
 prebid-a.rubiconproject.com
 prebid-server.rubiconproject.com
 rubiconproject.com
@@ -1925,8 +1927,8 @@ stats.aws.rubiconproject.com
 t.update.rubiconproject.com
 token.rubiconproject.com
 update.rubiconproject.com
-video-ads.rubiconproject.com
 video-ads-apex.rubiconproject.com
+video-ads.rubiconproject.com
 www.rubiconproject.com
 iesnare.com
 mpsnare.iesnare.com
@@ -2542,10 +2544,11 @@ sonobi.com
 sync.go.sonobi.com
 www.sonobi.com
 xcp.go.sonobi.com
+cdn.indexww.com
 ht.indexww.com
 indexww.com
-js.indexww.com
 js-sec.indexww.com
+js.indexww.com
 post.update.indexww.com
 s.update.indexww.com
 update.indexww.com
@@ -2834,9 +2837,11 @@ adasia-d.openx.net
 ads.openx.net
 bid.openx.net
 eu-u.openx.net
+google-bidout-d.openx.net
 indium.openx.net
 jp-u.openx.net
 nytimes-d.openx.net
+oajs.openx.net
 openx.net
 r.openx.net
 rtb-ca.openx.net
@@ -5180,9 +5185,12 @@ autocomplete.demandbase.com
 demandbase.com
 dsp-creative.demandbase.com
 dsp.demandbase.com
+media.dsp-prod.demandbase.com
 personalization.demandbase.com
+s.dsp-prod.demandbase.com
 scripts.demandbase.com
 stg.demandbase.com
+t.dsp-prod.demandbase.com
 tag.demandbase.com
 tracker.dsp.demandbase.com
 www.demandbase.com
@@ -7442,6 +7450,10 @@ csdsp.admanmedia.com
 pub.admanmedia.com
 ssp.admanmedia.com
 stats.admanmedia.com
+a4500.casalemedia.com
+a5083.casalemedia.com
+a5224.casalemedia.com
+a648.casalemedia.com
 amp.casalemedia.com
 as-sec.casalemedia.com
 as.casalemedia.com
@@ -8960,7 +8972,9 @@ pncloudfl.com
 sdk.hansel.io
 ujm.hansel.io
 cnt.trvdp.com
+go.trvdp.com
 p.trvdp.com
+s.trvdp.com
 c.statcounter.com
 secure.statcounter.com
 statcounter.com
@@ -9023,9 +9037,7 @@ live.rezync.com
 rezync.com
 cdn.p-n.io
 p-n.io
-cdn-pci.optimizely.com
 cdn.optimizely.com
-cdn3.optimizely.com
 log.optimizely.com
 logx.optimizely.com
 collect.data.tm-awx.com
@@ -9474,7 +9486,6 @@ cdn11763314.ahacdn.me
 cdn12359286.ahacdn.me
 cdn18685953.ahacdn.me
 cdn19641441.ahacdn.me
-cdn24790679.ahacdn.me
 cdn28786515.ahacdn.me
 cdn38871181.ahacdn.me
 cdn40657009.ahacdn.me
@@ -9486,7 +9497,6 @@ cdn61962044.ahacdn.me
 cdn62004373.ahacdn.me
 cdn65182383.ahacdn.me
 cdn72891311.ahacdn.me
-cdn78085165.ahacdn.me
 cdn81910013.ahacdn.me
 config.sensic.net
 sensic.net
@@ -9827,6 +9837,18 @@ phywi.org
 r.phywi.org
 js-sdk.analytics-data.io
 track.analytics-data.io
+ads.livetv314.me
+ads.livetv623.me
+ads.livetv625.me
+ads.livetv626.me
+company-target.com
+api-staging.company-target.com
+c.company-target.com
+media.company-target.com
+s.company-target.com
+segments-dev.company-target.com
+segments-stage.company-target.com
+t.company-target.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -11504,6 +11526,8 @@ nstat.headlines.pw
 pixel.chotot.com
 production-tracking.riviu.co
 proof.sudo.vn
+px-cdn.saostar.vn
+px.saostar.vn
 report.mediahub.vn
 report.vnay.vn
 report2.mediahub.vn
@@ -11640,6 +11664,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 520click.com
 5advertise.com
 5toft8or7on8tt.com
+79xmz3lmss.com
 7c0616849b.com
 7ca78m3csgbrid7ge.com
 864feb57ruary.com
@@ -12131,10 +12156,6 @@ ads.larryaffiliates.com
 ads.leovegas.com
 ads.lesbianpersonals.com
 ads.livenation.com
-ads.livetv314.me
-ads.livetv623.me
-ads.livetv625.me
-ads.livetv626.me
 ads.lordlucky.com
 ads.massinfra.nl
 ads.mcafee.com
@@ -12620,6 +12641,7 @@ app-promo.com
 appads.com
 appbetnewapp.top
 appboy-images.com
+appcdn01.xyz
 appclick.co
 appclick.net
 appdog.com
@@ -12979,6 +13001,7 @@ boolevool.com
 boom.ro
 boomads.com
 bopvetgel.com
+boqcfrsfdykjhb.com
 bordeaux.futurecdn.net
 boredcrown.com
 boringcoat.com
@@ -13273,7 +13296,6 @@ commindo-media-ressourcen.de
 commissionmonster.com
 commonswing.com
 compactbanner.com
-company-target.com
 completecabbage.com
 complextoad.com
 comprabanner.it
@@ -14067,6 +14089,7 @@ hawkyeye5ssnd.com
 haxbyq.com
 hazelnutshighs.com
 hdatssfpxrwbxs.com
+hdboqykfajjpmc.com
 healthsmd.com
 healthyoffers.com
 heap.com
@@ -14147,6 +14170,7 @@ hoverowl.com
 howdoesin.net
 howtubray.com
 hpijkah.com
+hppvkbfcuq.com
 hrgyhgxcbvwxs.com
 httpool.com
 hubzozo.com
@@ -14207,6 +14231,7 @@ ihhqwaurke.com
 iifvcfwiqi.com
 ilbanner.com
 ilead.itrack.it
+illegal-respond.pro
 illfatedsnail.com
 illustriousoatmeal.com
 iloopmobile.com
@@ -14462,6 +14487,7 @@ laughablecopper.com
 laughcloth.com
 laughedaffront.com
 launchbit.com
+laversleopold.guru
 layer-ad.de
 layer-ads.de
 lazypeacefullyutterly.com
@@ -15079,6 +15105,7 @@ oxcash.com
 oxen.hillcountrytexas.com
 oxiqyxos.com
 oxmkhuotcz.com
+oxthrilled.com
 oxydend2r5umarb8oreum.com
 oygohusvggaurod.xyz
 ozongees.com
@@ -15912,6 +15939,7 @@ stoveseashore.com
 stovoori.net
 straightnest.com
 straticjustice.com
+stretchsquirrel.com
 strikead.com
 strikeiron.com
 stripedburst.com
@@ -16397,6 +16425,7 @@ vmweb.net
 vogueoatgap.com
 voicevegetable.com
 voredi.com
+votclkeczz.com
 vouhecem.net
 vounaipu.net
 vpon.com
@@ -16649,6 +16678,7 @@ www.zap.buzz
 www.zarpop.com
 www.zekiatagur.com
 www.zxc.world
+wyhifdpatl.com
 wyvpjsfhywm.com
 wywy.com
 wzelkaekmoman.com
@@ -16746,6 +16776,8 @@ yulunanews.name
 yume.com
 yumkelis.com
 yxpmtdzlsv.com
+yyselrqpyu.com
+yzqjaltdhlv.com
 z3dmbpl6309s.com
 z5x.net
 zabpbhko.com
