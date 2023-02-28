@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 26 Feb 2023 16:55 UTC+7
-# Version: 2302261656
-# Blocked: 17,528 domains
+# Last modified: 28 Feb 2023 13:57 UTC+7
+# Version: 2302281357
+# Blocked: 17,546 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9206,7 +9206,6 @@
 0 qa.samsungtvads.com
 0 samsungtvads.com
 0 v2.samsungtvads.com
-0 insights.samsung.com
 0 nmetrics.samsung.com
 0 smetrics.samsung.com
 0 target-us.samsung.com
@@ -9865,6 +9864,12 @@
 0 segments-dev.company-target.com
 0 segments-stage.company-target.com
 0 t.company-target.com
+0 antillephone.com
+0 5cc9c408-c3fa-41dd-88bb-c303115bb2db.snippet.antillephone.com
+0 376b93f1-2d0a-47c6-9f80-0715596a9666.snippet.antillephone.com
+0 631c453c-68ac-46ab-857f-801e975e733a.snippet.antillephone.com
+0 intake-analytics.wikimedia.org
+0 intake-logging.wikimedia.org
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10316,6 +10321,7 @@
 0 log-tinnhanhchungkhoan.zadn.vn
 0 log-vietnamdaily.zadn.vn
 0 log-vovworld.zadn.vn
+0 ads.zascdn.me
 0 adtima-common.zascdn.me
 0 adtima-media.zascdn.me
 0 adtima-static.zascdn.me
@@ -10325,6 +10331,7 @@
 0 log.sdk.zadn.vn
 0 240.zaloapp.ads.zdn.vn
 0 480.zaloapp.ads.zdn.vn
+0 adtima-static.aka.zdn.vn
 0 stc-support-app-brand.zdn.vn
 0 zaloads-480.zdn.vn
 0 zplayer-trk.zdn.vn
@@ -11662,6 +11669,7 @@
 0 1frozenthrone1.com
 0 1phads.com
 0 207.net
+0 228tuchuang.com
 0 247media.com
 0 24log.com
 0 24log.de
@@ -11678,6 +11686,7 @@
 0 4mads.com
 0 4wnet.com
 0 520click.com
+0 587tuchuang.com
 0 5advertise.com
 0 5toft8or7on8tt.com
 0 79xmz3lmss.com
@@ -13076,6 +13085,7 @@
 0 buzzonclick.com
 0 bvalphaserver.com
 0 bvmcdn.net
+0 bvzkkjqeuijpy.com
 0 bwgavnars.com
 0 bwp.download.com
 0 bypassprofessordemonstrate.com
@@ -13140,6 +13150,7 @@
 0 cbmall.com
 0 cbx.net
 0 cccpmo.com
+0 ccjzuavqrh.com
 0 ccmcroads.com
 0 cd-ads.com
 0 cdilwuhbgy.com
@@ -13726,6 +13737,7 @@
 0 emxdigital.com
 0 enamberchivies.com
 0 encodehelped.com
+0 encounterboastful.com
 0 encouragingwilderness.com
 0 endurableshop.com
 0 engagebdr.com
@@ -14245,6 +14257,7 @@
 0 igwlfwsogwetw.com
 0 ihhqwaurke.com
 0 iifvcfwiqi.com
+0 ikahnruntx.com
 0 ilbanner.com
 0 ilead.itrack.it
 0 illegal-respond.pro
@@ -14489,6 +14502,8 @@
 0 kukury2hf8nd09.com
 0 kupona.de
 0 kurlichan.com
+0 kvkaa.com
+0 kvtaaa.top
 0 kw3y5otoeuniv7e9rsi.com
 0 kxnggkh2nj.com
 0 kybsbwuej.com
@@ -14529,6 +14544,7 @@
 0 leonodikeu9sj10.com
 0 lettucelimit.com
 0 lfstmedia.com
+0 lgkdnlienpynmn.com
 0 liaisondegreedaughters.com
 0 lib.vmweb.net
 0 libedgolart.com
@@ -15272,6 +15288,7 @@
 0 plugrush.com
 0 plumbummoca.com
 0 plutothejewel.com
+0 pnuhondppw.com
 0 pocitadlo.cz
 0 pocrd.cc
 0 podsklzegshmnd.com
@@ -15441,6 +15458,7 @@
 0 qlcdnvkgi.com
 0 qnsr.com
 0 qohxtklfmy.com
+0 qp.ezfxpuo.cn
 0 qstukqmsddqgs.com
 0 qthiqwum.com
 0 qtspkqzn.com
@@ -17121,7 +17139,6 @@
 0 incoming-telemetry.thunderbird.net
 0 incoming.telemetry.mozilla.org
 0 inside-graph.com
-0 intake-analytics.wikimedia.org
 0 invitejs.trustpilot.com
 0 invoca.net
 0 iovation.com
@@ -17146,6 +17163,7 @@
 0 lngtd.com
 0 log-eap-sg.coloros.com
 0 log-upload-eur.mihoyo.com
+0 log-upload-os.hoyoverse.com
 0 log-upload-os.mihoyo.com
 0 log-upload.mihoyo.com
 0 log.ajunews.com

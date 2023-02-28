@@ -11124,3 +11124,11 @@
 0.0.0.0 segments-dev.company-target.com
 0.0.0.0 segments-stage.company-target.com
 0.0.0.0 t.company-target.com
+#[antillephone.com]
+0.0.0.0 antillephone.com
+0.0.0.0 5cc9c408-c3fa-41dd-88bb-c303115bb2db.snippet.antillephone.com
+0.0.0.0 376b93f1-2d0a-47c6-9f80-0715596a9666.snippet.antillephone.com
+0.0.0.0 631c453c-68ac-46ab-857f-801e975e733a.snippet.antillephone.com
+#[wikimedia.org]
+0.0.0.0 intake-analytics.wikimedia.org
+0.0.0.0 intake-logging.wikimedia.org

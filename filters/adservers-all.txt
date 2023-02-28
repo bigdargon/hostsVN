@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 Feb 2023 16:55 UTC+7
-! Version: 2302261656
-! Blocked: 8,340 rules
+! Last modified: 28 Feb 2023 13:57 UTC+7
+! Version: 2302281357
+! Blocked: 8,355 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -31,6 +31,7 @@
 ||ads.vtc.vn^
 ||ads.zalo.me^
 ||ads.zaloapp.com^
+||ads.zascdn.me^
 ||ads.zdn.vn^
 ||adsbanner.game.zing.vn^
 ||adsota.com^
@@ -44,6 +45,7 @@
 ||adtima-media.zadn.vn^
 ||adtima-media.zascdn.me^
 ||adtima-static-td.zadn.vn^
+||adtima-static.aka.zdn.vn^
 ||adtima-static.zadn.vn^
 ||adtima-static.zascdn.me^
 ||adtima-video.zadn.vn^
@@ -1200,6 +1202,7 @@
 ||aniview.com^
 ||aniview.com.edgekey.net^
 ||anti-adblock.herokuapp.com^
+||antillephone.com^
 ||anymad.com^
 ||anythinktech.com^
 ||ap.cpatrk.net^
@@ -1801,12 +1804,13 @@
 ||insight.ucweb.com^
 ||insightexpressai.com^
 ||insights-collector.newrelic.com^
-||insights.samsung.com^
 ||insitez.blob.core.windows.net^
 ||inspectlet.com^
 ||instant.page^
 ||instapagemetrics.com^
 ||insurads.com^
+||intake-analytics.wikimedia.org^
+||intake-logging.wikimedia.org^
 ||intent.cbsi.com^
 ||intentiq.com^
 ||invitemedia.com^
@@ -2625,6 +2629,7 @@
 ||1frozenthrone1.com^
 ||1phads.com^
 ||207.net^
+||228tuchuang.com^
 ||247media.com^
 ||24log.com^
 ||24log.de^
@@ -2643,6 +2648,7 @@
 ||4mads.com^
 ||4wnet.com^
 ||520click.com^
+||587tuchuang.com^
 ||5advertise.com^
 ||5toft8or7on8tt.com^
 ||79xmz3lmss.com^
@@ -4168,6 +4174,7 @@
 ||buzzonclick.com^
 ||bvalphaserver.com^
 ||bvmcdn.net^
+||bvzkkjqeuijpy.com^
 ||bwgavnars.com^
 ||bwp.download.com^
 ||bypassprofessordemonstrate.com^
@@ -4239,6 +4246,7 @@
 ||cc.swiftype.com^
 ||cccpmo.com^
 ||ccgateway.net^
+||ccjzuavqrh.com^
 ||ccmcroads.com^
 ||cd-ads.com^
 ||cdilwuhbgy.com^
@@ -4906,6 +4914,7 @@
 ||emxdigital.com^
 ||enamberchivies.com^
 ||encodehelped.com^
+||encounterboastful.com^
 ||encouragingwilderness.com^
 ||endurableshop.com^
 ||engagebdr.com^
@@ -5484,6 +5493,7 @@
 ||igwlfwsogwetw.com^
 ||ihhqwaurke.com^
 ||iifvcfwiqi.com^
+||ikahnruntx.com^
 ||ilbanner.com^
 ||ilead.itrack.it^
 ||illegal-respond.pro^
@@ -5562,7 +5572,6 @@
 ||instantresp.com^
 ||instinctiveads.com^
 ||instrumentsponge.com^
-||intake-analytics.wikimedia.org^
 ||intellectualcontradictstuck.com^
 ||intelliads.com^
 ||intelligenceadx.com^
@@ -5752,6 +5761,8 @@
 ||kukury2hf8nd09.com^
 ||kupona.de^
 ||kurlichan.com^
+||kvkaa.com^
+||kvtaaa.top^
 ||kw3y5otoeuniv7e9rsi.com^
 ||kxnggkh2nj.com^
 ||kybsbwuej.com^
@@ -5798,6 +5809,7 @@
 ||lfeeder.com^
 ||lfstmedia.com^
 ||lgglobal.ihago.net^
+||lgkdnlienpynmn.com^
 ||liaisondegreedaughters.com^
 ||lib.vmweb.net^
 ||libedgolart.com^
@@ -5854,6 +5866,7 @@
 ||loftsbaacad.com^
 ||log-eap-sg.coloros.com^
 ||log-upload-eur.mihoyo.com^
+||log-upload-os.hoyoverse.com^
 ||log-upload-os.mihoyo.com^
 ||log-upload.mihoyo.com^
 ||log.ajunews.com^
@@ -6641,6 +6654,7 @@
 ||plugrush.com^
 ||plumbummoca.com^
 ||plutothejewel.com^
+||pnuhondppw.com^
 ||pocitadlo.cz^
 ||pocrd.cc^
 ||podsklzegshmnd.com^
@@ -6824,6 +6838,7 @@
 ||qlcdnvkgi.com^
 ||qnsr.com^
 ||qohxtklfmy.com^
+||qp.ezfxpuo.cn^
 ||qqkabb.com^
 ||qstukqmsddqgs.com^
 ||qthiqwum.com^

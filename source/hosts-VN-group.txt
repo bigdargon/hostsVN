@@ -494,6 +494,7 @@
 0.0.0.0 log-vietnamdaily.zadn.vn
 0.0.0.0 log-vovworld.zadn.vn
 #[zascdn.me]
+0.0.0.0 ads.zascdn.me
 0.0.0.0 adtima-common.zascdn.me
 0.0.0.0 adtima-media.zascdn.me
 0.0.0.0 adtima-static.zascdn.me
@@ -505,6 +506,8 @@
 #[ads.zdn.vn]
 0.0.0.0 240.zaloapp.ads.zdn.vn
 0.0.0.0 480.zaloapp.ads.zdn.vn
+#[aka.zdn.vn]
+0.0.0.0 adtima-static.aka.zdn.vn
 #[zdn.vn]
 0.0.0.0 stc-support-app-brand.zdn.vn
 0.0.0.0 zaloads-480.zdn.vn
