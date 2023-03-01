@@ -11132,3 +11132,13 @@
 #[wikimedia.org]
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
+#[adkwai.com]
+0.0.0.0 adkwai.com
+0.0.0.0 p1.adkwai.com
+0.0.0.0 p2.adkwai.com
+0.0.0.0 p3.adkwai.com
+#[ad.a.yximgs.com]
+0.0.0.0 ad.a.yximgs.com
+0.0.0.0 ali-ad.a.yximgs.com
+0.0.0.0 js-ad.a.yximgs.com
+0.0.0.0 tx-ad.a.yximgs.com

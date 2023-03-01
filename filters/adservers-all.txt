@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 28 Feb 2023 13:57 UTC+7
-! Version: 2302281357
-! Blocked: 8,355 rules
+! Last modified: 01 Mar 2023 09:55 UTC+7
+! Version: 2303010955
+! Blocked: 8,358 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -882,6 +882,7 @@
 ||ad-serve.b-cdn.net^
 ||ad-stir.com^
 ||ad.*.xiaomi.com^
+||ad.a.yximgs.com^
 ||ad.daum.net^
 ||ad.go.com^
 ||ad.gt^
@@ -949,6 +950,7 @@
 ||adjust.io^
 ||adk2x.com^
 ||adkernel.com^
+||adkwai.com^
 ||adlc-exchange.toast.com^
 ||adleadevent.com^
 ||adligature.com^
@@ -7966,6 +7968,7 @@
 ||valuesponsor.com^
 ||vanfireworks.com^
 ||vanjyvsr.com^
+||vantagemarketads.com^
 ||variablefitness.com^
 ||varietyofdisplayformats.com^
 ||variouscreativeformats.com^

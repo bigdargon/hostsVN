@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 26 Feb 2023 16:54 UTC+7
-# Version: 2302261654
-# Blocked: 3,728 domains
+# Last modified: 01 Mar 2023 09:55 UTC+7
+# Version: 2303010955
+# Blocked: 3,732 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1147,6 +1147,7 @@
 0.0.0.0 m.lxysp94.com
 0.0.0.0 m.maxdong101.com
 0.0.0.0 m.mmocorporation2017.com
+0.0.0.0 m.nbm65.com
 0.0.0.0 m.one018.com
 0.0.0.0 m.vi-mayman.com
 0.0.0.0 m.yocvn.com
@@ -2786,6 +2787,7 @@
 0.0.0.0 tpbank84.com
 0.0.0.0 tpbankc.com
 0.0.0.0 tpbankdonxuan.click
+0.0.0.0 tpbankn.com
 0.0.0.0 tpbankvn.com
 0.0.0.0 tpbankvnvn.com
 0.0.0.0 tpbansk.com
@@ -2814,6 +2816,7 @@
 0.0.0.0 trangnganhangdientu247.com
 0.0.0.0 trangnganhangso247.com
 0.0.0.0 trangqua696.com
+0.0.0.0 trangsucluxurydiamond.com
 0.0.0.0 trangthaithe247.com
 0.0.0.0 trangthuongmai.com
 0.0.0.0 trangthuongvn365.com
@@ -3122,6 +3125,7 @@
 0.0.0.0 viaviet03.mobie.in
 0.0.0.0 vib-bank.com
 0.0.0.0 vib-vay.com
+0.0.0.0 vib.mobi
 0.0.0.0 vib8-vay.com
 0.0.0.0 vib84.com
 0.0.0.0 vibvay.com

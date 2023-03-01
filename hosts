@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 28 Feb 2023 13:57 UTC+7
-# Version: 2302281357
-# Blocked: 17,546 domains
+# Last modified: 01 Mar 2023 09:55 UTC+7
+# Version: 2303010955
+# Blocked: 17,556 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11144,6 +11144,16 @@
 #[wikimedia.org]
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
+#[adkwai.com]
+0.0.0.0 adkwai.com
+0.0.0.0 p1.adkwai.com
+0.0.0.0 p2.adkwai.com
+0.0.0.0 p3.adkwai.com
+#[ad.a.yximgs.com]
+0.0.0.0 ad.a.yximgs.com
+0.0.0.0 ali-ad.a.yximgs.com
+0.0.0.0 js-ad.a.yximgs.com
+0.0.0.0 tx-ad.a.yximgs.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -17847,6 +17857,7 @@
 0.0.0.0 valuesponsor.com
 0.0.0.0 vanfireworks.com
 0.0.0.0 vanjyvsr.com
+0.0.0.0 vantagemarketads.com
 0.0.0.0 variablefitness.com
 0.0.0.0 varietyofdisplayformats.com
 0.0.0.0 variouscreativeformats.com
@@ -18165,6 +18176,7 @@
 0.0.0.0 www.tribedone.org
 0.0.0.0 www.trustaffs.com
 0.0.0.0 www.uyunad.com
+0.0.0.0 www.vantagemarketads.com
 0.0.0.0 www.varietyofdisplayformats.com
 0.0.0.0 www.velocitycdn.com
 0.0.0.0 www.vidcpm.com

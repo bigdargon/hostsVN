@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 26 Feb 2023 16:54 UTC+7
-! Version: 2302261654
-! Blocked: 3,414 rules
+! Last modified: 01 Mar 2023 09:55 UTC+7
+! Version: 2303010955
+! Blocked: 3,418 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -990,6 +990,7 @@
 ||m.lxysp94.com^
 ||m.maxdong101.com^
 ||m.mmocorporation2017.com^
+||m.nbm65.com^
 ||m.one018.com^
 ||m.vi-mayman.com^
 ||m.yocvn.com^
@@ -2557,6 +2558,7 @@
 ||tpbank84.com^
 ||tpbankc.com^
 ||tpbankdonxuan.click^
+||tpbankn.com^
 ||tpbankvn.com^
 ||tpbankvnvn.com^
 ||tpbansk.com^
@@ -2584,6 +2586,7 @@
 ||trangnganhangdientu247.com^
 ||trangnganhangso247.com^
 ||trangqua696.com^
+||trangsucluxurydiamond.com^
 ||trangthaithe247.com^
 ||trangthuongmai.com^
 ||trangthuongvn365.com^
@@ -2883,6 +2886,7 @@
 ||viaviet03.mobie.in^
 ||vib-bank.com^
 ||vib-vay.com^
+||vib.mobi^
 ||vib8-vay.com^
 ||vib84.com^
 ||vibvay.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 28 Feb 2023 20:20 UTC+7
-! Version: 2302282020
-! Blocked: 88,077 rules
+! Last modified: 01 Mar 2023 09:55 UTC+7
+! Version: 2303010955
+! Blocked: 88,081 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -50400,6 +50400,7 @@
 ||bolehwin.com^
 ||boluna.net^
 ||bom28.com^
+||bom52.club^
 ||bomsamo.com^
 ||bomtanhoitu.live^
 ||bomvip.club^
@@ -58497,6 +58498,7 @@
 ||game.789d.club^
 ||game.b52.win^
 ||game.b52d.club^
+||game.bom52.club^
 ||game.taib52.com^
 ||game.ufa35plus.com^
 ||game.v99win.app^
@@ -62998,6 +63000,7 @@
 ||iwiin.club^
 ||iwin.club^
 ||iwin.info^
+||iwin.us^
 ||iwin0004.com^
 ||iwin0007.com^
 ||iwin0008.com^
@@ -74447,6 +74450,7 @@
 ||platformvbd.com^
 ||play-wetten.com^
 ||play.b52.win^
+||play.bom52.club^
 ||play.choiwin79.net^
 ||play.fa88.win^
 ||play.fa88vn.vin^
