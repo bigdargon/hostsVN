@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Mar 2023 09:55 UTC+7
-# Version: 2303010955
-# Blocked: 17,556 domains
+# Last modified: 02 Mar 2023 10:29 UTC+7
+# Version: 2303021029
+# Blocked: 17,561 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3091,7 +3091,9 @@
 0.0.0.0 go.mmstat.com
 0.0.0.0 gxb.mmstat.com
 0.0.0.0 hd.mmstat.com
+0.0.0.0 hz.mmstat.com
 0.0.0.0 ju.mmstat.com
+0.0.0.0 lego.mmstat.com
 0.0.0.0 log.gds.mmstat.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 mmstat.com
@@ -11127,6 +11129,7 @@
 0.0.0.0 ads.livetv623.me
 0.0.0.0 ads.livetv625.me
 0.0.0.0 ads.livetv626.me
+0.0.0.0 ads.livetv630.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -14536,6 +14539,7 @@
 0.0.0.0 bszmpfaj.com
 0.0.0.0 btcadtop.com
 0.0.0.0 btez8.xyz
+0.0.0.0 btpnative.com
 0.0.0.0 btrll.com
 0.0.0.0 bu3le2lp4t45e6i.com
 0.0.0.0 bucketbean.com
@@ -15371,6 +15375,7 @@
 0.0.0.0 fluffycodepotc.com
 0.0.0.0 fluffynyasquirell.com
 0.0.0.0 flyingsquirellsmooch.com
+0.0.0.0 fnbauniukvi.com
 0.0.0.0 fnyfiexpectth.xyz
 0.0.0.0 foamidsputt.com
 0.0.0.0 focusde.info

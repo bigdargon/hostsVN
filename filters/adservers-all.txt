@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 01 Mar 2023 09:55 UTC+7
-! Version: 2303010955
-! Blocked: 8,358 rules
+! Last modified: 02 Mar 2023 10:29 UTC+7
+! Version: 2303021029
+! Blocked: 8,360 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4151,6 +4151,7 @@
 ||bszmpfaj.com^
 ||btcadtop.com^
 ||btez8.xyz^
+||btpnative.com^
 ||btrll.com^
 ||bu3le2lp4t45e6i.com^
 ||bucketbean.com^
@@ -5094,6 +5095,7 @@
 ||fluffycodepotc.com^
 ||fluffynyasquirell.com^
 ||flyingsquirellsmooch.com^
+||fnbauniukvi.com^
 ||fnyfiexpectth.xyz^
 ||foamidsputt.com^
 ||focusde.info^
