@@ -11118,6 +11118,7 @@
 0.0.0.0 ads.livetv625.me
 0.0.0.0 ads.livetv626.me
 0.0.0.0 ads.livetv630.me
+0.0.0.0 ads.livetv632.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11145,3 +11146,7 @@
 0.0.0.0 ali-ad.a.yximgs.com
 0.0.0.0 js-ad.a.yximgs.com
 0.0.0.0 tx-ad.a.yximgs.com
+#[eacdn.com]
+0.0.0.0 eacdn.com
+0.0.0.0 wlpinnacle.adsrv.eacdn.com
+0.0.0.0 wlsbotop.adsrv.eacdn.com
