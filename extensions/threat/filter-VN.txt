@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 02 Mar 2023 10:29 UTC+7
-! Version: 2303021029
-! Blocked: 3,418 rules
+! Last modified: 08 Mar 2023 10:01 UTC+7
+! Version: 2303081001
+! Blocked: 3,424 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -186,6 +186,7 @@
 ||bschuyenkhoamat.biz^
 ||buontien247.fun^
 ||bvietcombank.com^
+||bxrtxfr.xyz^
 ||campxanh.info^
 ||canvayvon.net^
 ||caonhanh.xyz^
@@ -630,6 +631,7 @@
 ||hdbankfinance.world^
 ||hdbankfinance.xyz^
 ||hdbanks.com^
+||hdcreditvnn.com^
 ||hdsaisonvn.com^
 ||hethongbank.com^
 ||hethongbank24h.com^
@@ -758,6 +760,7 @@
 ||ivvietcombank.com^
 ||iyogo.shop^
 ||jaccsc.com^
+||jaccscom.com^
 ||jaccsn.com^
 ||jaccsvn.com^
 ||jaccsz.com^
@@ -2171,6 +2174,7 @@
 ||sieuthibaby24h.com^
 ||sieuthidark.com^
 ||sieuthidienmayxanh.com^
+||sieuthidienmayxanh247.com^
 ||sieuthidienmayxanh24h.com^
 ||sieuthidienthoaiso.com^
 ||sieuthimion.com^
@@ -2762,10 +2766,12 @@
 ||vaynhanhpro.vn^
 ||vaynhanhshinhanbank.vn^
 ||vaynhanhtienmat.com^
+||vaynhanhvn.net^
 ||vaynong123.online^
 ||vayonline365.biz^
 ||vayonlinesacombank.com^
 ||vayqualuong.com^
+||vayqualuongshinhan.com^
 ||vayshinhan.top^
 ||vayshinhanbanks.com^
 ||vaysieutoc.info^

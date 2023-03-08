@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 02 Mar 2023 10:29 UTC+7
-# Version: 2303021029
-# Blocked: 3,732 domains
+# Last modified: 08 Mar 2023 10:01 UTC+7
+# Version: 2303081001
+# Blocked: 3,738 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -243,6 +243,7 @@
 0.0.0.0 butvelocities.cfd
 0.0.0.0 buyboxershort3contactshop.click
 0.0.0.0 bvietcombank.com
+0.0.0.0 bxrtxfr.xyz
 0.0.0.0 byasdebrisfie.cfd
 0.0.0.0 campxanh.info
 0.0.0.0 canvayvon.net
@@ -764,6 +765,7 @@
 0.0.0.0 hdbankfinance.world
 0.0.0.0 hdbankfinance.xyz
 0.0.0.0 hdbanks.com
+0.0.0.0 hdcreditvnn.com
 0.0.0.0 hdsaisonvn.com
 0.0.0.0 heirreplacem.cfd
 0.0.0.0 helandsca.cfd
@@ -909,6 +911,7 @@
 0.0.0.0 ivvietcombank.com
 0.0.0.0 iyogo.shop
 0.0.0.0 jaccsc.com
+0.0.0.0 jaccscom.com
 0.0.0.0 jaccsn.com
 0.0.0.0 jaccsvn.com
 0.0.0.0 jaccsz.com
@@ -2390,6 +2393,7 @@
 0.0.0.0 sieuthibaby24h.com
 0.0.0.0 sieuthidark.com
 0.0.0.0 sieuthidienmayxanh.com
+0.0.0.0 sieuthidienmayxanh247.com
 0.0.0.0 sieuthidienmayxanh24h.com
 0.0.0.0 sieuthidienthoaiso.com
 0.0.0.0 sieuthimion.com
@@ -3000,10 +3004,12 @@
 0.0.0.0 vaynhanhpro.vn
 0.0.0.0 vaynhanhshinhanbank.vn
 0.0.0.0 vaynhanhtienmat.com
+0.0.0.0 vaynhanhvn.net
 0.0.0.0 vaynong123.online
 0.0.0.0 vayonline365.biz
 0.0.0.0 vayonlinesacombank.com
 0.0.0.0 vayqualuong.com
+0.0.0.0 vayqualuongshinhan.com
 0.0.0.0 vayshinhan.top
 0.0.0.0 vayshinhanbanks.com
 0.0.0.0 vaysieutoc.info
