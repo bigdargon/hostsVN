@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 08 Mar 2023 13:44 UTC+7
-! Version: 2303081344
-! Blocked: 8,373 rules
+! Last modified: 08 Mar 2023 15:32 UTC+7
+! Version: 2303081532
+! Blocked: 8,369 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1307,9 +1307,6 @@
 ||bannertrack.net^
 ||bat.bing.com^
 ||batch.com^
-||batchlogging4-eu.truecaller.com^
-||batchlogging4-noneu.truecaller.com^
-||batchlogging4.truecaller.com^
 ||batmobi.net^
 ||bats.video.yahoo.com^
 ||bbangads.b-cdn.net^
@@ -1477,7 +1474,6 @@
 ||conductrics.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||config.hiido.com^
-||config.uca.cloud.unity3d.com^
 ||connatix.com^
 ||connect.idocdn.com^
 ||connectad.io^

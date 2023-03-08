@@ -1634,7 +1634,6 @@
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
-0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 userreporting.cloud.unity3d.com
@@ -8417,9 +8416,6 @@
 0.0.0.0 ads5-eu.truecaller.com
 0.0.0.0 ads5-noneu.truecaller.com
 0.0.0.0 ads5.truecaller.com
-0.0.0.0 batchlogging4-eu.truecaller.com
-0.0.0.0 batchlogging4-noneu.truecaller.com
-0.0.0.0 batchlogging4.truecaller.com
 0.0.0.0 pushid-noneu.truecaller.com
 #[appboycdn.com]
 0.0.0.0 appboycdn.com

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Mar 2023 13:44 UTC+7
-# Version: 2303081344
-# Blocked: 17,578 domains
+# Last modified: 08 Mar 2023 15:32 UTC+7
+# Version: 2303081532
+# Blocked: 17,574 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1494,7 +1494,6 @@
 0 analytics.cloud.unity3d.com
 0 api.uca.cloud.unity3d.com
 0 cdp.cloud.unity3d.com
-0 config.uca.cloud.unity3d.com
 0 data-optout-service.uca.cloud.unity3d.com
 0 perf-events.cloud.unity3d.com
 0 userreporting.cloud.unity3d.com
@@ -7671,9 +7670,6 @@
 0 ads5-eu.truecaller.com
 0 ads5-noneu.truecaller.com
 0 ads5.truecaller.com
-0 batchlogging4-eu.truecaller.com
-0 batchlogging4-noneu.truecaller.com
-0 batchlogging4.truecaller.com
 0 pushid-noneu.truecaller.com
 0 appboycdn.com
 0 assets.appboycdn.com
