@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Mar 2023 15:32 UTC+7
-# Version: 2303081532
-# Blocked: 17,574 domains
+# Last modified: 10 Mar 2023 09:21 UTC+7
+# Version: 2303100921
+# Blocked: 17,585 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1490,13 +1490,12 @@
 0 analytics.unity3d.com
 0 collect.analytics.unity3d.com
 0 www.analytics.unity3d.com
-0 analytics.uca.cloud.unity3d.com
 0 analytics.cloud.unity3d.com
-0 api.uca.cloud.unity3d.com
 0 cdp.cloud.unity3d.com
-0 data-optout-service.uca.cloud.unity3d.com
 0 perf-events.cloud.unity3d.com
 0 userreporting.cloud.unity3d.com
+0 analytics.uca.cloud.unity3d.com
+0 data-optout-service.uca.cloud.unity3d.com
 0 admediator.unityads.unity3d.com
 0 ads-brand-postback.unityads.unity3d.com
 0 ads-game-configuration.unityads.unity3d.com
@@ -1527,8 +1526,6 @@
 0 thind.unityads.unity3d.com
 0 unityads.unity3d.com
 0 webview.unityads.unity3d.com
-0 prd-lender.cdp.internal.unity3d.com
-0 stg-lender.cdp.internal.unity3d.com
 0 ads-privacy-api.prd.mz.internal.unity3d.com
 0 mediation-tracking.prd.mz.internal.unity3d.com
 0 sdk-diagnostics.prd.mz.internal.unity3d.com
@@ -8364,6 +8361,7 @@
 0 rtb-xs.ak-is.net
 0 www.ak-is.net
 0 xml.ak-is.net
+0 acertb.xml.ak-is2.net
 0 ad-maven.xml-eu.ak-is2.net
 0 ad-maven.xml.ak-is2.net
 0 ad-maven.xs.ak-is2.net
@@ -9882,6 +9880,12 @@
 0 eacdn.com
 0 wlpinnacle.adsrv.eacdn.com
 0 wlsbotop.adsrv.eacdn.com
+0 a.adforcast.com
+0 adforcast.com
+0 q.xmlrtb.com
+0 xmlrtb.com
+0 api.appodeal.com
+0 appodeal.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -11741,6 +11745,7 @@
 0 acdcdn.com
 0 acduyqwnz.com
 0 acento.com
+0 acertb.com
 0 achcdn.com
 0 achieverknee.com
 0 acidpigs.com
@@ -11932,7 +11937,6 @@
 0 adfactor.nl
 0 adflight.com
 0 adfonic.net
-0 adforcast.com
 0 adforce.com
 0 adform.com
 0 adformdsp.net
@@ -12721,6 +12725,7 @@
 0 aromamirror.com
 0 arsdev.net
 0 arsenal54.xyz
+0 arsnivyr.com
 0 arswabluchan.com
 0 artpever.com
 0 as.sexad.net
@@ -13625,6 +13630,7 @@
 0 docksalmon.com
 0 doerscharre.com
 0 dogconcurrencesauce.com
+0 doigtepyramid.com
 0 dolesminced.com
 0 dollsdeclare.com
 0 domaining.in
@@ -14123,6 +14129,7 @@
 0 hadesleta.com
 0 hairdosslitter.casa
 0 hammerhearing.com
+0 handkerchiefpersonnel.com
 0 handlingfaster.com
 0 handyfield.com
 0 hardtofindmilk.com
@@ -15322,6 +15329,7 @@
 0 pop-under.ru
 0 pop.bid
 0 pop5sjhspear.com
+0 popmonetizer.net
 0 popmyads.com
 0 popruexo.com
 0 popsoffer.com
@@ -15479,6 +15487,7 @@
 0 qgicqtyh.com
 0 qgxbluhsgad.com
 0 qlcdnvkgi.com
+0 qmxgkgykaex.com
 0 qnsr.com
 0 qohxtklfmy.com
 0 qp.ezfxpuo.cn
@@ -16870,6 +16879,7 @@
 0 ziffdavis.com
 0 zijaipse.com
 0 zikroarg.com
+0 zimpolo.com
 0 zintext.com
 0 zlbdvgjlxm.com
 0 zlp6s.pw
@@ -17353,6 +17363,7 @@
 0 seal.godaddy.com
 0 seal.networksolutions.com
 0 seal.qualys.com
+0 segment-cdn.producthunt.com
 0 selfishsnake.com
 0 semantiqo.com
 0 sessions.bugsnag.com

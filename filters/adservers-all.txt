@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 08 Mar 2023 15:32 UTC+7
-! Version: 2303081532
-! Blocked: 8,369 rules
+! Last modified: 10 Mar 2023 09:21 UTC+7
+! Version: 2303100921
+! Blocked: 8,376 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -931,6 +931,7 @@
 ||adeventtracker.spotify.com^
 ||adexchangemachine.com^
 ||adflex.asia^
+||adforcast.com^
 ||adform.net^
 ||adfox.yandex.ru^
 ||adfstat.yandex.ru^
@@ -1228,7 +1229,6 @@
 ||api.sec.miui.com^
 ||api.setting.intl.miui.com^
 ||api.share.mob.com^
-||api.uca.cloud.unity3d.com^
 ||apm-collector.daumkakao.io^
 ||app-adforce.jp^
 ||app-analytics-v2.snapchat.com^
@@ -1253,6 +1253,7 @@
 ||appnext-a.akamaihd.net^
 ||appnext.com^
 ||appnexus.com^
+||appodeal.com^
 ||appodealx.com^
 ||apps.sascdn.com^
 ||apptornado.com^
@@ -2136,7 +2137,6 @@
 ||pps-log.op-mobile.opera.com^
 ||pr-bh.ybp.yahoo.com^
 ||pr.comet.yahoo.com^
-||prd-lender.cdp.internal.unity3d.com^
 ||prdredir.com^
 ||prebid.org^
 ||predataclient.b-cdn.net^
@@ -2365,7 +2365,6 @@
 ||statwup.nimo.tv^
 ||steelhousemedia.com^
 ||steepto.com^
-||stg-lender.cdp.internal.unity3d.com^
 ||stickyadstv.com^
 ||stocks-analytics-events.apple.com^
 ||storeconfig.mistat.intl.xiaomi.com^
@@ -2586,6 +2585,7 @@
 ||xlog.hiido.com^
 ||xlviirdr.com^
 ||xmlppcbuzz.com^
+||xmlrtb.com^
 ||xoom-ads.com^
 ||xtremepush.com^
 ||xxxjmp.com^
@@ -2698,6 +2698,7 @@
 ||acdcdn.com^
 ||acduyqwnz.com^
 ||acento.com^
+||acertb.com^
 ||achcdn.com^
 ||achieverknee.com^
 ||acidpigs.com^
@@ -2893,7 +2894,6 @@
 ||adfactor.nl^
 ||adflight.com^
 ||adfonic.net^
-||adforcast.com^
 ||adforce.com^
 ||adform.com^
 ||adformdsp.net^
@@ -3773,6 +3773,7 @@
 ||aromamirror.com^
 ||arsdev.net^
 ||arsenal54.xyz^
+||arsnivyr.com^
 ||arswabluchan.com^
 ||artpever.com^
 ||as.sexad.net^
@@ -4781,6 +4782,7 @@
 ||docksalmon.com^
 ||doerscharre.com^
 ||dogconcurrencesauce.com^
+||doigtepyramid.com^
 ||dolesminced.com^
 ||dollsdeclare.com^
 ||dolohen.com^
@@ -5326,6 +5328,7 @@
 ||hairdosslitter.casa^
 ||hairtease.com^
 ||hammerhearing.com^
+||handkerchiefpersonnel.com^
 ||handlingfaster.com^
 ||handyfield.com^
 ||hardtofindmilk.com^
@@ -6677,6 +6680,7 @@
 ||pop-under.ru^
 ||pop.bid^
 ||pop5sjhspear.com^
+||popmonetizer.net^
 ||popmyads.com^
 ||popruexo.com^
 ||popsoffer.com^
@@ -6847,6 +6851,7 @@
 ||qgicqtyh.com^
 ||qgxbluhsgad.com^
 ||qlcdnvkgi.com^
+||qmxgkgykaex.com^
 ||qnsr.com^
 ||qohxtklfmy.com^
 ||qp.ezfxpuo.cn^
@@ -7176,6 +7181,7 @@
 ||seedtag.com^
 ||seekoflol.com^
 ||seethisinaction.com^
+||segment-cdn.producthunt.com^
 ||seisinhinger.com^
 ||selectivesummer.com^
 ||selfcampaign.com^
@@ -8354,6 +8360,7 @@
 ||ziffdavis.com^
 ||zijaipse.com^
 ||zikroarg.com^
+||zimpolo.com^
 ||zintext.com^
 ||zlbdvgjlxm.com^
 ||zlp6s.pw^

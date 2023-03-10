@@ -1474,13 +1474,12 @@ stats.unity3d.com
 analytics.unity3d.com
 collect.analytics.unity3d.com
 www.analytics.unity3d.com
-analytics.uca.cloud.unity3d.com
 analytics.cloud.unity3d.com
-api.uca.cloud.unity3d.com
 cdp.cloud.unity3d.com
-data-optout-service.uca.cloud.unity3d.com
 perf-events.cloud.unity3d.com
 userreporting.cloud.unity3d.com
+analytics.uca.cloud.unity3d.com
+data-optout-service.uca.cloud.unity3d.com
 admediator.unityads.unity3d.com
 ads-brand-postback.unityads.unity3d.com
 ads-game-configuration.unityads.unity3d.com
@@ -1511,8 +1510,6 @@ staging.unityads.unity3d.com
 thind.unityads.unity3d.com
 unityads.unity3d.com
 webview.unityads.unity3d.com
-prd-lender.cdp.internal.unity3d.com
-stg-lender.cdp.internal.unity3d.com
 ads-privacy-api.prd.mz.internal.unity3d.com
 mediation-tracking.prd.mz.internal.unity3d.com
 sdk-diagnostics.prd.mz.internal.unity3d.com
@@ -8348,6 +8345,7 @@ ak-is.net
 rtb-xs.ak-is.net
 www.ak-is.net
 xml.ak-is.net
+acertb.xml.ak-is2.net
 ad-maven.xml-eu.ak-is2.net
 ad-maven.xml.ak-is2.net
 ad-maven.xs.ak-is2.net
@@ -9866,6 +9864,12 @@ tx-ad.a.yximgs.com
 eacdn.com
 wlpinnacle.adsrv.eacdn.com
 wlsbotop.adsrv.eacdn.com
+a.adforcast.com
+adforcast.com
+q.xmlrtb.com
+xmlrtb.com
+api.appodeal.com
+appodeal.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -11725,6 +11729,7 @@ acacdn.com
 acdcdn.com
 acduyqwnz.com
 acento.com
+acertb.com
 achcdn.com
 achieverknee.com
 acidpigs.com
@@ -11916,7 +11921,6 @@ adext.inkclub.com
 adfactor.nl
 adflight.com
 adfonic.net
-adforcast.com
 adforce.com
 adform.com
 adformdsp.net
@@ -12705,6 +12709,7 @@ arisedammiral.com
 aromamirror.com
 arsdev.net
 arsenal54.xyz
+arsnivyr.com
 arswabluchan.com
 artpever.com
 as.sexad.net
@@ -13609,6 +13614,7 @@ dnhfi5nn2dt67.cloudfront.net
 docksalmon.com
 doerscharre.com
 dogconcurrencesauce.com
+doigtepyramid.com
 dolesminced.com
 dollsdeclare.com
 domaining.in
@@ -14107,6 +14113,7 @@ hadarone.com
 hadesleta.com
 hairdosslitter.casa
 hammerhearing.com
+handkerchiefpersonnel.com
 handlingfaster.com
 handyfield.com
 hardtofindmilk.com
@@ -15306,6 +15313,7 @@ pontiflex.com
 pop-under.ru
 pop.bid
 pop5sjhspear.com
+popmonetizer.net
 popmyads.com
 popruexo.com
 popsoffer.com
@@ -15463,6 +15471,7 @@ qdfxeqhnjuknyy.com
 qgicqtyh.com
 qgxbluhsgad.com
 qlcdnvkgi.com
+qmxgkgykaex.com
 qnsr.com
 qohxtklfmy.com
 qp.ezfxpuo.cn
@@ -16854,6 +16863,7 @@ zhej78i1an8w6ceu.com
 ziffdavis.com
 zijaipse.com
 zikroarg.com
+zimpolo.com
 zintext.com
 zlbdvgjlxm.com
 zlp6s.pw
@@ -17337,6 +17347,7 @@ seal.digicert.com
 seal.godaddy.com
 seal.networksolutions.com
 seal.qualys.com
+segment-cdn.producthunt.com
 selfishsnake.com
 semantiqo.com
 sessions.bugsnag.com

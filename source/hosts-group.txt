@@ -1630,13 +1630,13 @@
 0.0.0.0 collect.analytics.unity3d.com
 0.0.0.0 www.analytics.unity3d.com
 #[cloud.unity3d.com]
-0.0.0.0 analytics.uca.cloud.unity3d.com
 0.0.0.0 analytics.cloud.unity3d.com
-0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
-0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 userreporting.cloud.unity3d.com
+#[uca.cloud.unity3d.com]
+0.0.0.0 analytics.uca.cloud.unity3d.com
+0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 #[unityads.unity3d.com]
 0.0.0.0 admediator.unityads.unity3d.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
@@ -1668,9 +1668,6 @@
 0.0.0.0 thind.unityads.unity3d.com
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
-#[cdp.internal.unity3d.com]
-0.0.0.0 prd-lender.cdp.internal.unity3d.com
-0.0.0.0 stg-lender.cdp.internal.unity3d.com
 #[mz.internal.unity3d.com]
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
@@ -9244,6 +9241,7 @@
 0.0.0.0 www.ak-is.net
 0.0.0.0 xml.ak-is.net
 #[ak-is2.net]
+0.0.0.0 acertb.xml.ak-is2.net
 0.0.0.0 ad-maven.xml-eu.ak-is2.net
 0.0.0.0 ad-maven.xml.ak-is2.net
 0.0.0.0 ad-maven.xs.ak-is2.net
@@ -11147,3 +11145,12 @@
 0.0.0.0 eacdn.com
 0.0.0.0 wlpinnacle.adsrv.eacdn.com
 0.0.0.0 wlsbotop.adsrv.eacdn.com
+#[adforcast.com]
+0.0.0.0 a.adforcast.com
+0.0.0.0 adforcast.com
+#[xmlrtb.com]
+0.0.0.0 q.xmlrtb.com
+0.0.0.0 xmlrtb.com
+#[appodeal.com]
+0.0.0.0 api.appodeal.com
+0.0.0.0 appodeal.com
