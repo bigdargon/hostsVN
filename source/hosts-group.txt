@@ -8045,6 +8045,8 @@
 0.0.0.0 vad.appier.net
 0.0.0.0 vst.c.appier.net
 0.0.0.0 xx.c.appier.net
+#[appier.xyz]
+0.0.0.0 aixq-ps-sdk.appier.xyz
 #[loopme.me]
 0.0.0.0 adtag.loopme.me
 0.0.0.0 csync.loopme.me
@@ -11154,3 +11156,13 @@
 #[appodeal.com]
 0.0.0.0 api.appodeal.com
 0.0.0.0 appodeal.com
+#[tagcommander.com]
+0.0.0.0 cdn.tagcommander.com
+0.0.0.0 tagcommander.com
+#[sportradarserving.com]
+0.0.0.0 a.sportradarserving.com
+0.0.0.0 sportradarserving.com
+#[lr-in-prod.com]
+0.0.0.0 lr-in-prod.com
+0.0.0.0 cdn.lr-in-prod.com
+0.0.0.0 r.lr-in-prod.com
