@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Mar 2023 10:38 UTC+7
-# Version: 2303131038
-# Blocked: 17,680 domains
+# Last modified: 14 Mar 2023 14:59 UTC+7
+# Version: 2303141459
+# Blocked: 17,690 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7360,7 +7360,12 @@
 0 vad.appier.net
 0 vst.c.appier.net
 0 xx.c.appier.net
+0 appier.xyz
 0 aixq-ps-sdk.appier.xyz
+0 aixq-streamlit.appier.xyz
+0 api.appier.xyz
+0 cdn.appier.xyz
+0 edg.appier.xyz
 0 adtag.loopme.me
 0 csync.loopme.me
 0 i.loopme.me
@@ -9856,6 +9861,7 @@
 0 ads.livetv630.me
 0 ads.livetv632.me
 0 ads.livetv633.me
+0 ads.livetv636.me
 0 company-target.com
 0 api-staging.company-target.com
 0 c.company-target.com
@@ -9888,6 +9894,7 @@
 0 api.appodeal.com
 0 appodeal.com
 0 cdn.tagcommander.com
+0 cdn2.tagcommander.com
 0 tagcommander.com
 0 a.sportradarserving.com
 0 sportradarserving.com
@@ -11738,6 +11745,7 @@
 0 abandonedaction.com
 0 abbeyintervalfetched.com
 0 abc-ads.com
+0 abkoxlikbzs.com
 0 aboardlevel.com
 0 above.com
 0 aboveredirect.top
@@ -13912,6 +13920,7 @@
 0 faultycanvas.com
 0 faultyfowl.com
 0 fbcdn2.com
+0 fcaijpwzvj.com
 0 fd5orie8e.com
 0 fdrgtt9edmej010.com
 0 featassuage.com
@@ -15681,6 +15690,7 @@
 0 regnow.com
 0 regulationprivilegescan.top
 0 reinvigorate.net
+0 relievedgeoff.com
 0 relmaxtop.com
 0 relogotd.com
 0 remarketingpixel.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Mar 2023 10:38 UTC+7
-! Version: 2303131038
-! Blocked: 8,467 rules
+! Last modified: 14 Mar 2023 14:59 UTC+7
+! Version: 2303141459
+! Blocked: 8,470 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1145,7 +1145,6 @@
 ||aicactus.io^
 ||aimtell.com^
 ||airpush.com^
-||aixq-ps-sdk.appier.xyz^
 ||aj1*.online^
 ||aj2*.online^
 ||ajx*.online^
@@ -1245,6 +1244,7 @@
 ||appboycdn.com^
 ||appcloudbox.net^
 ||appier.net^
+||appier.xyz^
 ||applifier.com^
 ||applog.uc.cn^
 ||applogios.uc.cn^
@@ -2687,6 +2687,7 @@
 ||abandonedaction.com^
 ||abbeyintervalfetched.com^
 ||abc-ads.com^
+||abkoxlikbzs.com^
 ||aboardlevel.com^
 ||above.com^
 ||aboveredirect.top^
@@ -5085,6 +5086,7 @@
 ||faultycanvas.com^
 ||faultyfowl.com^
 ||fbcdn2.com^
+||fcaijpwzvj.com^
 ||fd5orie8e.com^
 ||fdrgtt9edmej010.com^
 ||featassuage.com^
@@ -7054,6 +7056,7 @@
 ||regulationprivilegescan.top^
 ||reinvigorate.net^
 ||relay.fiverr.com^
+||relievedgeoff.com^
 ||relmaxtop.com^
 ||relogotd.com^
 ||remarketingpixel.com^

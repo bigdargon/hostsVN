@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 13 Mar 2023 10:38 UTC+7
-! Version: 2303131038
-! Blocked: 23,871 rules
+! Last modified: 14 Mar 2023 14:59 UTC+7
+! Version: 2303141459
+! Blocked: 23,872 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -19308,6 +19308,7 @@
 ||t-cartoons.net^
 ||t-glazing.com^
 ||t-op6.com^
+||t.acam-2.com^
 ||t.htvncdn.net^
 ||t.nhentai.net^
 ||t0.cdn3x.com^

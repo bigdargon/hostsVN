@@ -8046,7 +8046,12 @@
 0.0.0.0 vst.c.appier.net
 0.0.0.0 xx.c.appier.net
 #[appier.xyz]
+0.0.0.0 appier.xyz
 0.0.0.0 aixq-ps-sdk.appier.xyz
+0.0.0.0 aixq-streamlit.appier.xyz
+0.0.0.0 api.appier.xyz
+0.0.0.0 cdn.appier.xyz
+0.0.0.0 edg.appier.xyz
 #[loopme.me]
 0.0.0.0 adtag.loopme.me
 0.0.0.0 csync.loopme.me
@@ -11116,6 +11121,7 @@
 0.0.0.0 ads.livetv630.me
 0.0.0.0 ads.livetv632.me
 0.0.0.0 ads.livetv633.me
+0.0.0.0 ads.livetv636.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11158,6 +11164,7 @@
 0.0.0.0 appodeal.com
 #[tagcommander.com]
 0.0.0.0 cdn.tagcommander.com
+0.0.0.0 cdn2.tagcommander.com
 0.0.0.0 tagcommander.com
 #[sportradarserving.com]
 0.0.0.0 a.sportradarserving.com

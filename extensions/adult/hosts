@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 13 Mar 2023 10:38 UTC+7
-# Version: 2303131038
-# Blocked: 24,021 domains
+# Last modified: 14 Mar 2023 14:59 UTC+7
+# Version: 2303141459
+# Blocked: 24,022 domains
 # Only include adult domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -19306,6 +19306,7 @@
 0.0.0.0 t-cartoons.net
 0.0.0.0 t-glazing.com
 0.0.0.0 t-op6.com
+0.0.0.0 t.acam-2.com
 0.0.0.0 t.htvncdn.net
 0.0.0.0 t.nhentai.net
 0.0.0.0 t0.cdn3x.com
