@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 14 Mar 2023 14:59 UTC+7
-# Version: 2303141459
-# Blocked: 89,002 domains
+# Last modified: 16 Mar 2023 10:29 UTC+7
+# Version: 2303161029
+# Blocked: 89,003 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -59105,6 +59105,7 @@
 0.0.0.0 go-oversea.com
 0.0.0.0 go.bcb80.com
 0.0.0.0 go.beb77.com
+0.0.0.0 go.metabet.io
 0.0.0.0 go.omnislots.com
 0.0.0.0 go011.com
 0.0.0.0 go015.com

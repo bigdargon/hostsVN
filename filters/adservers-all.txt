@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Mar 2023 08:50 UTC+7
-! Version: 2303150850
-! Blocked: 8,473 rules
+! Last modified: 16 Mar 2023 10:29 UTC+7
+! Version: 2303161029
+! Blocked: 8,474 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -8382,6 +8382,7 @@
 ||yespetor.com^
 ||yezsfzruvxbqa.com^
 ||yfetyg.com^
+||yhbngqpiag.com^
 ||yield-op-idsync.live.streamtheworld.com^
 ||yieldads.com^
 ||yieldmanager.com^
