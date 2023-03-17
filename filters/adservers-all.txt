@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Mar 2023 10:29 UTC+7
-! Version: 2303161029
-! Blocked: 8,474 rules
+! Last modified: 17 Mar 2023 11:00 UTC+7
+! Version: 2303171100
+! Blocked: 8,490 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1231,6 +1231,7 @@
 ||api.sec.miui.com^
 ||api.setting.intl.miui.com^
 ||api.share.mob.com^
+||apiv2.popupsmart.com^
 ||apm-collector.daumkakao.io^
 ||app-adforce.jp^
 ||app-analytics-v2.snapchat.com^
@@ -1405,6 +1406,7 @@
 ||cdn.dynamicyield.com^
 ||cdn.openinstall.io^
 ||cdn.optimizely.com^
+||cdn.popupsmart.com^
 ||cdn.tinypass.com^
 ||cdn10236888.ahacdn.me^
 ||cdn11763314.ahacdn.me^
@@ -1717,6 +1719,7 @@
 ||googletagservices.com^
 ||gop1.co^
 ||goraps.com^
+||gotrackier.com^
 ||growingio.com^
 ||growthrx.in^
 ||grvmedia.com^
@@ -2136,6 +2139,7 @@
 ||popin.cc^
 ||popnc.com^
 ||popup.msn.com^
+||popup.popupsmart.com^
 ||postrelease.com^
 ||powerlinks.com^
 ||pps-log.op-mobile.opera.com^
@@ -2187,6 +2191,7 @@
 ||px-intl.ucweb.com^
 ||px.dynamicyield.com^
 ||px.ucweb.com^
+||pzd.rakuten.co.jp^
 ||qrlsx.com^
 ||quantcount.com^
 ||quantserve.com^
@@ -2254,7 +2259,9 @@
 ||runative-syndicate.com^
 ||runative.com^
 ||rvadnet.com^
+||s-ad.rmp.rakuten.co.jp^
 ||s-adx.op-mobile.opera.com^
+||s-evt.rmp.rakuten.co.jp^
 ||s-onetag.com^
 ||s.adx.opera.com^
 ||s.trvdp.com^
@@ -3725,6 +3732,7 @@
 ||api.ampiri.com^
 ||api.appnxt.net^
 ||api.apptentive.com^
+||api.autopilothq.com^
 ||api.catch.gift^
 ||api.clickaine.com^
 ||api.feedad.com^
@@ -4861,6 +4869,7 @@
 ||duckswillsmoochyou.com^
 ||duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz^
 ||dummieseardrum.com^
+||dvmludkami.com^
 ||dxgo95ahe73e8.cloudfront.net^
 ||dynamicadx.com^
 ||dynatrace.com^
@@ -5371,6 +5380,7 @@
 ||h2aek6rv0ard.com^
 ||h78xb.pw^
 ||hacbfyvvsw.com^
+||hadabqhbewcrt.com^
 ||hadarone.com^
 ||hadesleta.com^
 ||hairdosslitter.casa^
@@ -6276,6 +6286,7 @@
 ||myaffiliates.com^
 ||mybbc-analytics.files.bbci.co.uk^
 ||mybestmv.com^
+||mybettermb.com^
 ||mybloglog.com^
 ||mybuys.com^
 ||mycounter.ua^
@@ -6932,6 +6943,8 @@
 ||qdfxeqhnjuknyy.com^
 ||qgicqtyh.com^
 ||qgxbluhsgad.com^
+||qjwglnuwqvr.com^
+||qksrv.net^
 ||qlcdnvkgi.com^
 ||qmxgkgykaex.com^
 ||qnsr.com^
@@ -7087,8 +7100,10 @@
 ||revengemeantjackpot.com^
 ||revenue.net^
 ||revenuedirect.com^
+||revenuenetwork.com^
 ||reverysteno.com^
 ||revincenizam.com^
+||revmasters.com^
 ||revmob.com^
 ||revoketypes.com^
 ||revstats.com^
@@ -8220,6 +8235,7 @@
 ||weborama.com^
 ||weborama.fr^
 ||weborama.net^
+||webpartners.co^
 ||webpinp.com^
 ||webpower.com^
 ||webproducts.click^

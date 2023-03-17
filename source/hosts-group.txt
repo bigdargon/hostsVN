@@ -510,10 +510,16 @@
 #[aag.yahooapis.jp]
 0.0.0.0 aag.yahooapis.jp
 #[rakuten.co.jp]
+0.0.0.0 pzd.rakuten.co.jp
+0.0.0.0 s-ad.rmp.rakuten.co.jp
+0.0.0.0 s-evt.rmp.rakuten.co.jp
+#[affiliate.rakuten.co.jp]
 0.0.0.0 affiliate.rakuten.co.jp
 0.0.0.0 static.affiliate.rakuten.co.jp
 0.0.0.0 xml.affiliate.rakuten.co.jp
+#[rat.rakuten.co.jp]
 0.0.0.0 rat.rakuten.co.jp
+0.0.0.0 secure.rat.rakuten.co.jp
 #[facebook]
 0.0.0.0 ads.facebook.com
 0.0.0.0 an.facebook.com
@@ -9257,6 +9263,7 @@
 0.0.0.0 adop.xs.ak-is2.net
 0.0.0.0 adoptim.fs.ak-is2.net
 0.0.0.0 adright.xml-eu.ak-is2.net
+0.0.0.0 adright.xml-v6.ak-is2.net
 0.0.0.0 adscompute.xml.ak-is2.net
 0.0.0.0 adventurefeeds.xml-eu.ak-is2.net
 0.0.0.0 adventurefeeds.xml-v6.ak-is2.net
@@ -11123,6 +11130,7 @@
 0.0.0.0 ads.livetv633.me
 0.0.0.0 ads.livetv636.me
 0.0.0.0 ads.livetv637.me
+0.0.0.0 ads.livetv638.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11174,3 +11182,12 @@
 0.0.0.0 lr-in-prod.com
 0.0.0.0 cdn.lr-in-prod.com
 0.0.0.0 r.lr-in-prod.com
+#[popupsmart.com]
+0.0.0.0 apiv2.popupsmart.com
+0.0.0.0 cdn.popupsmart.com
+0.0.0.0 popup.popupsmart.com
+#[gotrackier.com]
+0.0.0.0 gotrackier.com
+0.0.0.0 appmontize.gotrackier.com
+0.0.0.0 masteraffiliates.gotrackier.com
+0.0.0.0 optimidea.gotrackier.com

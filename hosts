@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 Mar 2023 10:29 UTC+7
-# Version: 2303161029
-# Blocked: 17,695 domains
+# Last modified: 17 Mar 2023 11:00 UTC+7
+# Version: 2303171100
+# Blocked: 17,717 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -522,10 +522,16 @@
 #[aag.yahooapis.jp]
 0.0.0.0 aag.yahooapis.jp
 #[rakuten.co.jp]
+0.0.0.0 pzd.rakuten.co.jp
+0.0.0.0 s-ad.rmp.rakuten.co.jp
+0.0.0.0 s-evt.rmp.rakuten.co.jp
+#[affiliate.rakuten.co.jp]
 0.0.0.0 affiliate.rakuten.co.jp
 0.0.0.0 static.affiliate.rakuten.co.jp
 0.0.0.0 xml.affiliate.rakuten.co.jp
+#[rat.rakuten.co.jp]
 0.0.0.0 rat.rakuten.co.jp
+0.0.0.0 secure.rat.rakuten.co.jp
 #[facebook]
 0.0.0.0 ads.facebook.com
 0.0.0.0 an.facebook.com
@@ -9269,6 +9275,7 @@
 0.0.0.0 adop.xs.ak-is2.net
 0.0.0.0 adoptim.fs.ak-is2.net
 0.0.0.0 adright.xml-eu.ak-is2.net
+0.0.0.0 adright.xml-v6.ak-is2.net
 0.0.0.0 adscompute.xml.ak-is2.net
 0.0.0.0 adventurefeeds.xml-eu.ak-is2.net
 0.0.0.0 adventurefeeds.xml-v6.ak-is2.net
@@ -11135,6 +11142,7 @@
 0.0.0.0 ads.livetv633.me
 0.0.0.0 ads.livetv636.me
 0.0.0.0 ads.livetv637.me
+0.0.0.0 ads.livetv638.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11186,6 +11194,15 @@
 0.0.0.0 lr-in-prod.com
 0.0.0.0 cdn.lr-in-prod.com
 0.0.0.0 r.lr-in-prod.com
+#[popupsmart.com]
+0.0.0.0 apiv2.popupsmart.com
+0.0.0.0 cdn.popupsmart.com
+0.0.0.0 popup.popupsmart.com
+#[gotrackier.com]
+0.0.0.0 gotrackier.com
+0.0.0.0 appmontize.gotrackier.com
+0.0.0.0 masteraffiliates.gotrackier.com
+0.0.0.0 optimidea.gotrackier.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15191,6 +15208,7 @@
 0.0.0.0 duckswillsmoochyou.com
 0.0.0.0 duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz
 0.0.0.0 dummieseardrum.com
+0.0.0.0 dvmludkami.com
 0.0.0.0 dxgo95ahe73e8.cloudfront.net
 0.0.0.0 dynamicadx.com
 0.0.0.0 dyntrk.com
@@ -15659,6 +15677,7 @@
 0.0.0.0 h2aek6rv0ard.com
 0.0.0.0 h78xb.pw
 0.0.0.0 hacbfyvvsw.com
+0.0.0.0 hadabqhbewcrt.com
 0.0.0.0 hadarone.com
 0.0.0.0 hadesleta.com
 0.0.0.0 hairdosslitter.casa
@@ -16451,6 +16470,7 @@
 0.0.0.0 myaffiliateprogram.com
 0.0.0.0 myaffiliates.com
 0.0.0.0 mybestmv.com
+0.0.0.0 mybettermb.com
 0.0.0.0 mybloglog.com
 0.0.0.0 mybuys.com
 0.0.0.0 mycounter.ua
@@ -17054,6 +17074,7 @@
 0.0.0.0 qdfxeqhnjuknyy.com
 0.0.0.0 qgicqtyh.com
 0.0.0.0 qgxbluhsgad.com
+0.0.0.0 qjwglnuwqvr.com
 0.0.0.0 qlcdnvkgi.com
 0.0.0.0 qmxgkgykaex.com
 0.0.0.0 qnsr.com
@@ -17193,8 +17214,10 @@
 0.0.0.0 revengemeantjackpot.com
 0.0.0.0 revenue.net
 0.0.0.0 revenuedirect.com
+0.0.0.0 revenuenetwork.com
 0.0.0.0 reverysteno.com
 0.0.0.0 revincenizam.com
+0.0.0.0 revmasters.com
 0.0.0.0 revmob.com
 0.0.0.0 revoketypes.com
 0.0.0.0 revstats.com
@@ -18123,6 +18146,7 @@
 0.0.0.0 weboohost.com
 0.0.0.0 weborama.com
 0.0.0.0 weborama.fr
+0.0.0.0 webpartners.co
 0.0.0.0 webpinp.com
 0.0.0.0 webpower.com
 0.0.0.0 webproducts.click
@@ -18302,6 +18326,7 @@
 0.0.0.0 www.pro-ads.club
 0.0.0.0 www.propu.sh
 0.0.0.0 www.push-notifications.top
+0.0.0.0 www.qksrv.net
 0.0.0.0 www.routeserve.info
 0.0.0.0 www.servsave.com
 0.0.0.0 www.shndrktrk.com
@@ -18572,6 +18597,7 @@
 0.0.0.0 anhui-attorney.com
 0.0.0.0 annedouglas.com
 0.0.0.0 apac.kingston.com
+0.0.0.0 api.autopilothq.com
 0.0.0.0 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 0.0.0.0 api.prooffactor.com
 0.0.0.0 api.quantumgraph.com
