@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Mar 2023 11:00 UTC+7
-! Version: 2303171100
-! Blocked: 8,490 rules
+! Last modified: 20 Mar 2023 14:40 UTC+7
+! Version: 2303201440
+! Blocked: 8,489 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -543,7 +543,6 @@
 ||csmads.gameclick.vn^
 ||delecpuzz.com^
 ||delivery.senvangvn.com^
-||deltago.com^
 ||demopage.me^
 ||deqik.com^
 ||digi.vinut.com.vn^
