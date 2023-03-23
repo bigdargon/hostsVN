@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 17 Mar 2023 10:59 UTC+7
-# Version: 2303171059
-# Blocked: 3,738 domains
+# Last modified: 23 Mar 2023 09:31 UTC+7
+# Version: 2303230931
+# Blocked: 3,741 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1152,6 +1152,7 @@
 0.0.0.0 m.mmocorporation2017.com
 0.0.0.0 m.nbm65.com
 0.0.0.0 m.one018.com
+0.0.0.0 m.tot166.com
 0.0.0.0 m.vi-mayman.com
 0.0.0.0 m.yocvn.com
 0.0.0.0 magazineshopeeonline.com
@@ -2784,6 +2785,7 @@
 0.0.0.0 topmomo3s.com
 0.0.0.0 topmomo88.me
 0.0.0.0 totycb.cyou
+0.0.0.0 tpbank-com.com
 0.0.0.0 tpbank-hanoi.com
 0.0.0.0 tpbank-vaynhanh.com
 0.0.0.0 tpbank.vn-cl.xyz
@@ -2939,6 +2941,7 @@
 0.0.0.0 vanthangcltxmomo.xyz
 0.0.0.0 vatgia306.com
 0.0.0.0 vavietcombank.cc
+0.0.0.0 vay-666.com
 0.0.0.0 vay-abc8.com
 0.0.0.0 vay-shb.com
 0.0.0.0 vay-shb8.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Mar 2023 14:40 UTC+7
-! Version: 2303201440
-! Blocked: 8,489 rules
+! Last modified: 23 Mar 2023 09:31 UTC+7
+! Version: 2303230931
+! Blocked: 8,499 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4083,6 +4083,7 @@
 ||bhcumsc.com^
 ||bi.yeshen.com^
 ||bid.glass^
+||bidclickmedia.com^
 ||bidclix.com^
 ||bidclix.net^
 ||bidtrk.com^
@@ -4656,6 +4657,7 @@
 ||d2zur9cc2gf1tx.cloudfront.net^
 ||d301cxwfymy227.cloudfront.net^
 ||d38fey2d93vryi.cloudfront.net^
+||d38psrni17bvxu.cloudfront.net^
 ||d3beefy8kd1pr7.cloudfront.net^
 ||d3cod80thn7qnd.cloudfront.net^
 ||d3cpib6kv2rja7.cloudfront.net^
@@ -4919,6 +4921,7 @@
 ||eehuzaih.com^
 ||eeksoabo.com^
 ||eelfadechi.com^
+||eemmlhcuydso.com^
 ||eensoans.com^
 ||efetotjnrjbntto.com^
 ||effateuncrisp.com^
@@ -5333,6 +5336,7 @@
 ||gp.dejanews.com^
 ||gpbifgfjhgezk.com^
 ||gplayer.kmpmedia.net^
+||gpttuucg.com^
 ||gqsufwoasgfmex.com^
 ||grabify.link^
 ||gracefulsock.com^
@@ -6003,6 +6007,7 @@
 ||luxope.com^
 ||luzulabeguile.com^
 ||lwgadm.com^
+||lwonclbench.com^
 ||lykos-bzm.com^
 ||lysim-lre.com^
 ||lysimachus-aur.com^
@@ -6527,6 +6532,7 @@
 ||ophan.theguardian.com^
 ||opienetwork.com^
 ||opinionstage.com^
+||oppvcuovgda.com^
 ||opsivesh.net^
 ||optimallimit.com^
 ||optimost.com^
@@ -7077,6 +7083,7 @@
 ||remotepwn.com^
 ||remox.com^
 ||remyyadan.online.fr^
+||replacementreluctance.com^
 ||reporo.net^
 ||report.uc.heytapmobi.com^
 ||reports.ubimo.com^
@@ -7977,6 +7984,7 @@
 ||tvmtracker.com^
 ||twazzyoidwlfe.com^
 ||twinrdsrv.com^
+||twinrdsyn.com^
 ||twinsoflave.com^
 ||twittad.com^
 ||twokidjay.com^
@@ -8251,6 +8259,7 @@
 ||webtrekk.net^
 ||webtrends.telegraph.co.uk^
 ||webtrendslive.com^
+||wedxuaksargvlf.com^
 ||wegcash.com^
 ||weigezhiyao.com^
 ||welcomeneat.pro^
@@ -8432,6 +8441,7 @@
 ||youthfire.com^
 ||yovqnwnmpzz.com^
 ||yqmxfz.com^
+||yrumdfslwabv.com^
 ||ytimm.com^
 ||yuilop.com^
 ||yulunanews.name^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 17 Mar 2023 10:59 UTC+7
-! Version: 2303171059
-! Blocked: 3,424 rules
+! Last modified: 23 Mar 2023 09:31 UTC+7
+! Version: 2303230931
+! Blocked: 3,427 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -995,6 +995,7 @@
 ||m.mmocorporation2017.com^
 ||m.nbm65.com^
 ||m.one018.com^
+||m.tot166.com^
 ||m.vi-mayman.com^
 ||m.yocvn.com^
 ||magazineshopeeonline.com^
@@ -2555,6 +2556,7 @@
 ||topmomo3s.com^
 ||topmomo88.me^
 ||totycb.cyou^
+||tpbank-com.com^
 ||tpbank-hanoi.com^
 ||tpbank-vaynhanh.com^
 ||tpbank.vn-cl.xyz^
@@ -2701,6 +2703,7 @@
 ||vanthangcltxmomo.xyz^
 ||vatgia306.com^
 ||vavietcombank.cc^
+||vay-666.com^
 ||vay-abc8.com^
 ||vay-shb.com^
 ||vay-shb8.com^

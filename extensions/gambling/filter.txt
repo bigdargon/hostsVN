@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 17 Mar 2023 10:59 UTC+7
-! Version: 2303171059
-! Blocked: 88,087 rules
+! Last modified: 23 Mar 2023 09:31 UTC+7
+! Version: 2303230931
+! Blocked: 88,088 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -80045,6 +80045,7 @@
 ||v895377.com^
 ||v8987.com^
 ||v8casino.com^
+||v8club.club^
 ||v9016.com^
 ||v9019.com^
 ||v9053.com^
