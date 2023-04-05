@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 23 Mar 2023 09:31 UTC+7
-! Version: 2303230931
-! Blocked: 3,427 rules
+! Last modified: 05 Apr 2023 15:28 UTC+7
+! Version: 2304051528
+! Blocked: 3,448 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -38,6 +38,7 @@
 ||555shopify.com^
 ||55lotte.com^
 ||588589.com^
+||5giay.cc^
 ||5namlienquan-giftcode.com^
 ||666lotte.com^
 ||6699uu.com^
@@ -93,6 +94,7 @@
 ||agribanks.space^
 ||agribanks3.asia^
 ||alibabavip.xyz^
+||alibabavn.shop^
 ||alibabavnn.com^
 ||alicshop.com^
 ||aliexshop.life^
@@ -100,6 +102,7 @@
 ||aliexshop.vip^
 ||allegro-task.shop^
 ||alovay24h.com^
+||amazonxk.com^
 ||anbinh-finance.club^
 ||aodaisieuvietnhi2022.weebly.com^
 ||app.mybigc.net^
@@ -272,6 +275,7 @@
 ||congnghevietmy.com.vn^
 ||congtacvienonline.vn^
 ||congthongtinvidientu.com^
+||congtykiman.org^
 ||congtytaichinhlotte.com^
 ||coonnfirrmm-bankingg247njf.weebly.com^
 ||coronappzz.com^
@@ -403,6 +407,7 @@
 ||facebookk.life^
 ||fb88viet.com^
 ||fbviet88.com^
+||fcccredit.com^
 ||fccomvn.com^
 ||fd2.hmexchangecentre.com^
 ||fe-shop.cc^
@@ -602,6 +607,7 @@
 ||h5.tocdovn.com^
 ||h5.tocdovnm.com^
 ||h51.carpcredits.com^
+||hackgamemienphi.com^
 ||hacktaikhoan.com^
 ||hacktaikhoanfacebook.com^
 ||haitacshopgame.com^
@@ -960,6 +966,7 @@
 ||llzd2.com^
 ||lmht-membership.com^
 ||lmoney01.com^
+||lo.dama582.com^
 ||loanmoney-th.com^
 ||locabank.vn^
 ||locmomo.com^
@@ -1015,6 +1022,7 @@
 ||mbbankl.com^
 ||mbbankn.com^
 ||mbtk-bank.com^
+||mcredit.vaynhanh-bankcredits.com^
 ||member-gaarena.com^
 ||member-garena-lienquan.com^
 ||member-lienquan-garena.com^
@@ -1053,6 +1061,7 @@
 ||metvay.com^
 ||mhshopee.com^
 ||miner-linkperfectmoney.com^
+||minhchinhmega.com^
 ||minhngocc789.com^
 ||minigamemomo.net^
 ||minimomo.club^
@@ -1174,6 +1183,7 @@
 ||mrquayhu.com^
 ||msb.com.vn-sp.top^
 ||msb.msbbsm.com^
+||msb.vn-cvs.xyz^
 ||msb.vn-iy.life^
 ||msb.vn-jss.vip^
 ||msbfhd.com^
@@ -1533,6 +1543,7 @@
 ||phanqua7979.com^
 ||phanquavn152.com^
 ||phatqualienminh2015.weebly.com^
+||phattai6666.com^
 ||phattaimomo.com^
 ||phemex.shop^
 ||phieudangky-quetthetindungvn.com^
@@ -1663,6 +1674,7 @@
 ||rich678.com^
 ||rickmomo.fun^
 ||rihcos.com^
+||rik11.fun^
 ||rikmomo.co^
 ||rikmomo.me^
 ||riobank.asia^
@@ -1917,6 +1929,7 @@
 ||shopeekingden.com^
 ||shopeekx.com^
 ||shopeekx.top^
+||shopeemallvn.com^
 ||shopeemission.com^
 ||shopeemy.net^
 ||shopeenhimvcahng.net^
@@ -2740,6 +2753,7 @@
 ||vaylien88.com^
 ||vaylientay79.com^
 ||vaymb.org^
+||vaymbbank.com^
 ||vaynewtech.online^
 ||vaynganhang-techcombank.xyz^
 ||vaynganhang.net^
@@ -2908,6 +2922,7 @@
 ||vidientusp.vn^
 ||vidientutrangtructuyen247.com^
 ||vidientuvietnam247.com^
+||vie-tcapital.com^
 ||vieatbank.com^
 ||vieclam12.com^
 ||vieclam66.com^
@@ -2944,8 +2959,10 @@
 ||vietcombank.fund^
 ||vietcombank.money^
 ||vietcombank.vn-cn.xyz^
+||vietcombank.vn-dll.vip^
 ||vietcombank.vn-jss.vip^
 ||vietcombank.vn-llc.top^
+||vietcombank.vn-ms.top^
 ||vietcombank.vn-nng.top^
 ||vietcombank.vn-sp.xyz^
 ||vietcombank2022.com^
@@ -3070,6 +3087,7 @@
 ||vimomo.monster^
 ||vimomo.vip^
 ||vinacombank.com^
+||vincomonevip.net^
 ||vingroup.shop^
 ||vingroupventures.shop^
 ||vip-dien-mayxanh.com^
@@ -3104,8 +3122,10 @@
 ||vn-cn.life^
 ||vn-cn.xyz^
 ||vn-cr.life^
+||vn-cvs.xyz^
 ||vn-dangky.shop^
 ||vn-dienmayxanh.com^
+||vn-dll.vip^
 ||vn-ebank.xyz^
 ||vn-ebanking.info^
 ||vn-ebanks.xyz^
@@ -3128,6 +3148,7 @@
 ||vn-llc.top^
 ||vn-mail.shop^
 ||vn-mall.shop^
+||vn-ms.top^
 ||vn-mybank.top^
 ||vn-nhanqua.click^
 ||vn-nhanqua.online^

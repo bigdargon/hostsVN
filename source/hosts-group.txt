@@ -6257,6 +6257,11 @@
 0.0.0.0 www.justpremium.com
 #[adzerk.net]
 0.0.0.0 adzerk.net
+0.0.0.0 e-10220.adzerk.net
+0.0.0.0 e-10457.adzerk.net
+0.0.0.0 e-10875.adzerk.net
+0.0.0.0 e-9563.adzerk.net
+0.0.0.0 e-9660.adzerk.net
 0.0.0.0 engine.adzerk.net
 0.0.0.0 engine2.adzerk.net
 0.0.0.0 static.adzerk.net
@@ -8734,6 +8739,7 @@
 0.0.0.0 flickr.adsbynimbus.com
 0.0.0.0 growlr.adsbynimbus.com
 0.0.0.0 imgur.adsbynimbus.com
+0.0.0.0 local.adsbynimbus.com
 0.0.0.0 turbo.adsbynimbus.com
 0.0.0.0 wattpad.adsbynimbus.com
 0.0.0.0 www.adsbynimbus.com
@@ -8942,6 +8948,9 @@
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 impression-europe.liftoff.io
 0.0.0.0 liftoff.io
+#[liftoff-creatives.io]
+0.0.0.0 liftoff-creatives.io
+0.0.0.0 cdn.liftoff-creatives.io
 #[impactserving.com]
 0.0.0.0 impactserving.com
 0.0.0.0 cdn.impactserving.com
@@ -10867,8 +10876,12 @@
 0.0.0.0 www.wiztube.xyz
 #[ff.avast.com]
 0.0.0.0 analytics.ff.avast.com
+0.0.0.0 analytics-prod-gcp.ff.avast.com
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
+#[stats.avast.com]
+0.0.0.0 stats.avast.com
+0.0.0.0 v7event.stats.avast.com
 #[explorads.com]
 0.0.0.0 explorads.com
 0.0.0.0 filter.explorads.com
@@ -11133,6 +11146,8 @@
 0.0.0.0 ads.livetv638.me
 0.0.0.0 ads.livetv639.me
 0.0.0.0 ads.livetv640.me
+0.0.0.0 ads.livetv643.me
+0.0.0.0 ads.livetv644.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11193,3 +11208,9 @@
 0.0.0.0 appmontize.gotrackier.com
 0.0.0.0 masteraffiliates.gotrackier.com
 0.0.0.0 optimidea.gotrackier.com
+#[dmpxs.com]
+0.0.0.0 dmpxs.com
+0.0.0.0 bob.dmpxs.com
+#[confiant-integrations.net]
+0.0.0.0 confiant-integrations.net
+0.0.0.0 cdn.confiant-integrations.net

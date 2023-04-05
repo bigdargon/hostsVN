@@ -1,13 +1,14 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Mar 2023 09:31 UTC+7
-! Version: 2303230931
-! Blocked: 832 rules
+! Last modified: 05 Apr 2023 15:28 UTC+7
+! Version: 2304051528
+! Blocked: 837 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
 ||24h-ad.24hstatic.com^
 ||24h-ipad-ad.24hstatic.com^
+||aanetwork.vn^
 ||ad-us.24hstatic.com^
 ||ad.accesstrade.vn^
 ||ad.org.vn^
@@ -329,7 +330,10 @@
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||zpsocial-f50-org.zadn.vn^
+||zpsocial-f51-org.zadn.vn^
 ||zpsocial-f52-org.zadn.vn^
+||zpsocial-f53-org.zadn.vn^
 ||zt.me.zing.vn^
 ||zt1.me.zing.vn^
 ||ztevents.zaloapp.com^
@@ -804,6 +808,7 @@
 ||trackingapi.foody.vn^
 ||trackingvn.zingplay.com^
 ||trackity.tiki.vn^
+||traffic.vietnhan.co^
 ||trenddigital.vn^
 ||trk.123c.vn^
 ||trk.staging.123c.vn^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 23 Mar 2023 09:31 UTC+7
-# Version: 2303230931
-# Blocked: 89,006 domains
+# Last modified: 05 Apr 2023 15:28 UTC+7
+# Version: 2304051528
+# Blocked: 89,017 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12,6 +12,7 @@
 
 0.0.0.0 000000tyc.com
 0.0.0.0 00001111hlcp1111.com
+0.0.0.0 0000130.com
 0.0.0.0 00001bet.com
 0.0.0.0 00002222hlcp2222.com
 0.0.0.0 0000222hlcp222.com
@@ -383,6 +384,7 @@
 0.0.0.0 006489.com
 0.0.0.0 0064n.com
 0.0.0.0 0065x.com
+0.0.0.0 0066130.com
 0.0.0.0 0066608.com
 0.0.0.0 00666hlcp66.com
 0.0.0.0 00666hlcp666.com
@@ -433,6 +435,7 @@
 0.0.0.0 0074t.com
 0.0.0.0 0074v.com
 0.0.0.0 007713.com
+0.0.0.0 0077130.com
 0.0.0.0 0077678.com
 0.0.0.0 0077696.com
 0.0.0.0 0077gf.com
@@ -4301,6 +4304,7 @@
 0.0.0.0 1165ky.com
 0.0.0.0 1165qqq.com
 0.0.0.0 1165tyc.com
+0.0.0.0 1166130.com
 0.0.0.0 11661998.com
 0.0.0.0 11661o.com
 0.0.0.0 11661r.com
@@ -5685,6 +5689,7 @@
 0.0.0.0 1308ky.com
 0.0.0.0 130900.com
 0.0.0.0 1309ky.com
+0.0.0.0 130casino.com
 0.0.0.0 130dfr.vip
 0.0.0.0 130kb.com
 0.0.0.0 130ks.com
@@ -80236,6 +80241,7 @@
 0.0.0.0 vip1252.com
 0.0.0.0 vip1259.com
 0.0.0.0 vip1263.com
+0.0.0.0 vip130130.com
 0.0.0.0 vip142.com
 0.0.0.0 vip143.com
 0.0.0.0 vip14902.com
@@ -81943,6 +81949,8 @@
 0.0.0.0 weare1x.com
 0.0.0.0 weareao.xyz
 0.0.0.0 wearefun88.com
+0.0.0.0 web.0000130.com
+0.0.0.0 web.130casino.com
 0.0.0.0 web.68rich.com
 0.0.0.0 web.macau.club
 0.0.0.0 web.macauclub.fun
@@ -82618,6 +82626,8 @@
 0.0.0.0 www-c54.com
 0.0.0.0 www-ek88.com
 0.0.0.0 www-h100.club
+0.0.0.0 www.0066130.com
+0.0.0.0 www.0077130.com
 0.0.0.0 www.016665.com
 0.0.0.0 www.016881.com
 0.0.0.0 www.02m.com
@@ -82625,6 +82635,7 @@
 0.0.0.0 www.0mcmc.com
 0.0.0.0 www.0zpdw.com
 0.0.0.0 www.1126bet.com
+0.0.0.0 www.1166130.com
 0.0.0.0 www.118kbet.com
 0.0.0.0 www.11zalo.com
 0.0.0.0 www.123b.bet
