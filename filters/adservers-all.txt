@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Apr 2023 15:28 UTC+7
-! Version: 2304051528
-! Blocked: 8,510 rules
+! Last modified: 10 Apr 2023 14:57 UTC+7
+! Version: 2304101457
+! Blocked: 8,509 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -330,10 +330,6 @@
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
-||zpsocial-f50-org.zadn.vn^
-||zpsocial-f51-org.zadn.vn^
-||zpsocial-f52-org.zadn.vn^
-||zpsocial-f53-org.zadn.vn^
 ||zt.me.zing.vn^
 ||zt1.me.zing.vn^
 ||ztevents.zaloapp.com^
@@ -3768,7 +3764,6 @@
 ||appads.com^
 ||appbetnewapp.top^
 ||appboy-images.com^
-||appcdn01.xyz^
 ||appclick.co^
 ||appclick.net^
 ||appdog.com^
@@ -7147,6 +7142,7 @@
 ||ritzykey.com^
 ||riverhit.com^
 ||rjw4obbw.com^
+||rkjnazpgfihz.com^
 ||rle.ru^
 ||rlfvuficzdmsx.com^
 ||rlog.9gag.com^
@@ -7221,6 +7217,7 @@
 ||rxpsaofevrikmi.com^
 ||ryeeffortoccupy.com^
 ||ryeqnyvbncdvg.com^
+||rympsxilkdqywd.com^
 ||s.iaudienc.com^
 ||s.infogram.com^
 ||s.media-imdb.com^
@@ -8021,9 +8018,11 @@
 ||uejwqbgtjxdw.com^
 ||ueypzubwo.com^
 ||uge521.com^
+||uhxmyqyevkcvit.com^
 ||uie.data.cbc.ca^
 ||uiowarvxpeni.com^
 ||uitopadxdy.com^
+||ujlrvzfws.com^
 ||ukbanners.com^
 ||ulrzovfukgkljw.com^
 ||ultimateclixx.com^
