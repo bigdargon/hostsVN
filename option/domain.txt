@@ -156,9 +156,10 @@ static-doubleclick-net.l.google.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 ads.gmodules.com
-ads.google.com
 ads.youtube.com
+ads.google.com
 mail-ads.google.com
+analytics-alv.google.com
 app-measurement.com
 region1.app-measurement.com
 target.microsoft.com
@@ -7761,14 +7762,17 @@ creativesumo.com
 app.convertful.com
 convertful.com
 www.convertful.com
+adsfs.oppomobile.com
+ads.oppomobile.com
 adx-id.ads.oppomobile.com
 adx.ads.oppomobile.com
 bdapi.ads.oppomobile.com
 bjdata.ads.oppomobile.com
+ck.ads.oppomobile.com
 data-id.ads.oppomobile.com
 data.ads.oppomobile.com
 uapi.ads.oppomobile.com
-adsfs.oppomobile.com
+ads.heytapmobile.com
 adx-f.ads.heytapmobile.com
 adx-id.ads.heytapmobile.com
 adx-in.ads.heytapmobile.com
@@ -7797,6 +7801,9 @@ stg-data-sg.ads.heytapmobile.com
 stg-data-th.ads.heytapmobile.com
 stg-data-tw.ads.heytapmobile.com
 stg-data-vn.ads.heytapmobile.com
+ads.realmemobile.com
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
 app.trackonomics.net
 cdn-magiclinks.trackonomics.net
 trackonomics.net
@@ -8735,6 +8742,7 @@ events-dra.op.hicloud.com
 logbak.hicloud.com
 logservice-dra.platform.hicloud.com
 logservice.hicloud.com
+logservice1.hicloud.com
 metrics-dra.dt.hicloud.com
 metrics.data.hicloud.com
 cdn.yourwebbars.com
@@ -10323,7 +10331,6 @@ api.widget.zalo.me
 page.widget.zalo.me
 stats.lab.zalo.ai
 centralized.zaloapp.com
-jp.zaloapp.com
 px.dmp.zaloapp.com
 px.za.zaloapp.com
 stats.dev.zaloapp.com
@@ -14041,6 +14048,7 @@ friendlyduck.com
 friendshipmale.com
 frightenedpotato.com
 fryawlauk.com
+fscfbfrof.com
 ftte.xyz
 fuffscreigh.website
 fumarinpest.com
@@ -15308,6 +15316,7 @@ oxthrilled.com
 oxydend2r5umarb8oreum.com
 oygohusvggaurod.xyz
 ozongees.com
+ozsoekwgy.com
 p.tanx.com
 p4r24.eu
 padp5arja8dgsd9cha.com
@@ -15866,6 +15875,7 @@ s.zkcdn.net
 s2d6.com
 sabergood.com
 sacralcabaa.com
+sadflannel.com
 safebrowsdv.com
 safestgatetocontent.com
 sageanalyst.net
@@ -17101,6 +17111,7 @@ akuaba.chez.com
 alpixtrack.com
 analysis.polarisoffice.com
 analytic.rollout.io
+analytics-api.samsunghealthcn.com
 analytics-au.clickdimensions.com
 analytics-ca.clickdimensions.com
 analytics-eu.clickdimensions.com

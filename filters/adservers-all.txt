@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 21 Apr 2023 13:53 UTC+7
-! Version: 2304211353
-! Blocked: 8,543 rules
+! Last modified: 27 Apr 2023 23:16 UTC+7
+! Version: 2304272316
+! Blocked: 8,549 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -136,7 +136,6 @@
 ||hotngay.vn^
 ||itim.vn^
 ||jeoway.com^
-||jp.zaloapp.com^
 ||js.aiservice.vn^
 ||jslog.zapps.vn^
 ||kabbmedia.com^
@@ -1033,6 +1032,7 @@
 ||ads.play.cbsi.video^
 ||ads.playground.xyz^
 ||ads.prd.ie.internal.unity3d.com^
+||ads.realmemobile.com^
 ||ads.samba.tv^
 ||ads.snapchat.com^
 ||ads.thesun.co.uk^
@@ -1178,6 +1178,7 @@
 ||analy.qq.com^
 ||analysis.fi^
 ||analytics-ad-*.kgslb.com^
+||analytics-alv.google.com^
 ||analytics-prod-gcp.ff.avast.com^
 ||analytics-sg.tiktok.com^
 ||analytics.365scores.com^
@@ -1906,6 +1907,7 @@
 ||logsdk.qq.com^
 ||logservice-dra.platform.hicloud.com^
 ||logservice.hicloud.com^
+||logservice1.hicloud.com^
 ||logsss.com^
 ||logssug.ucweb.com^
 ||logupdate.avlyun.sec.miui.com^
@@ -3643,6 +3645,7 @@
 ||anahtars.com^
 ||analysis.polarisoffice.com^
 ||analytic.rollout.io^
+||analytics-api.samsunghealthcn.com^
 ||analytics-au.clickdimensions.com^
 ||analytics-ca.clickdimensions.com^
 ||analytics-eu.clickdimensions.com^
@@ -5205,6 +5208,7 @@
 ||frightenedpotato.com^
 ||front.optimonk.com^
 ||fryawlauk.com^
+||fscfbfrof.com^
 ||ftte.xyz^
 ||fuffscreigh.website^
 ||fullstory.com^
@@ -6613,6 +6617,7 @@
 ||oxydend2r5umarb8oreum.com^
 ||oygohusvggaurod.xyz^
 ||ozongees.com^
+||ozsoekwgy.com^
 ||p.tanx.com^
 ||p4r24.eu^
 ||padp5arja8dgsd9cha.com^
@@ -7252,6 +7257,7 @@
 ||s3-analytics-events.easybrain.com^
 ||sabergood.com^
 ||sacralcabaa.com^
+||sadflannel.com^
 ||safebrowsdv.com^
 ||safegraph.com^
 ||safelyawake.com^

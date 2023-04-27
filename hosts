@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 21 Apr 2023 13:53 UTC+7
-# Version: 2304211353
-# Blocked: 17,786 domains
+# Last modified: 27 Apr 2023 23:16 UTC+7
+# Version: 2304272316
+# Blocked: 17,797 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -183,11 +183,14 @@
 0.0.0.0 static-doubleclick-net.l.google.com
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www-googletagmanager.l.google.com
-#[google.com]
+#[ads.gmodules.com]
 0.0.0.0 ads.gmodules.com
-0.0.0.0 ads.google.com
+#[ads.youtube.com]
 0.0.0.0 ads.youtube.com
+#[google.com]
+0.0.0.0 ads.google.com
 0.0.0.0 mail-ads.google.com
+0.0.0.0 analytics-alv.google.com
 #[app-measurement.com]
 0.0.0.0 app-measurement.com
 0.0.0.0 region1.app-measurement.com
@@ -8562,15 +8565,19 @@
 0.0.0.0 convertful.com
 0.0.0.0 www.convertful.com
 #[oppomobile.com]
+0.0.0.0 adsfs.oppomobile.com
+#[ads.oppomobile.com]
+0.0.0.0 ads.oppomobile.com
 0.0.0.0 adx-id.ads.oppomobile.com
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bjdata.ads.oppomobile.com
+0.0.0.0 ck.ads.oppomobile.com
 0.0.0.0 data-id.ads.oppomobile.com
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 uapi.ads.oppomobile.com
-0.0.0.0 adsfs.oppomobile.com
 #[ads.heytapmobile.com]
+0.0.0.0 ads.heytapmobile.com
 0.0.0.0 adx-f.ads.heytapmobile.com
 0.0.0.0 adx-id.ads.heytapmobile.com
 0.0.0.0 adx-in.ads.heytapmobile.com
@@ -8599,6 +8606,10 @@
 0.0.0.0 stg-data-th.ads.heytapmobile.com
 0.0.0.0 stg-data-tw.ads.heytapmobile.com
 0.0.0.0 stg-data-vn.ads.heytapmobile.com
+#[ads.realmemobile.com]
+0.0.0.0 ads.realmemobile.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
 #[trackonomics.net]
 0.0.0.0 app.trackonomics.net
 0.0.0.0 cdn-magiclinks.trackonomics.net
@@ -9719,6 +9730,7 @@
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logservice-dra.platform.hicloud.com
 0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics.data.hicloud.com
 #[yourwebbars.com]
@@ -11671,7 +11683,6 @@
 0.0.0.0 stats.lab.zalo.ai
 #[zaloapp.com]
 0.0.0.0 centralized.zaloapp.com
-0.0.0.0 jp.zaloapp.com
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 px.za.zaloapp.com
 0.0.0.0 stats.dev.zaloapp.com
@@ -15539,6 +15550,7 @@
 0.0.0.0 friendshipmale.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 fryawlauk.com
+0.0.0.0 fscfbfrof.com
 0.0.0.0 ftte.xyz
 0.0.0.0 fuffscreigh.website
 0.0.0.0 fumarinpest.com
@@ -16806,6 +16818,7 @@
 0.0.0.0 oxydend2r5umarb8oreum.com
 0.0.0.0 oygohusvggaurod.xyz
 0.0.0.0 ozongees.com
+0.0.0.0 ozsoekwgy.com
 0.0.0.0 p.tanx.com
 0.0.0.0 p4r24.eu
 0.0.0.0 padp5arja8dgsd9cha.com
@@ -17364,6 +17377,7 @@
 0.0.0.0 s2d6.com
 0.0.0.0 sabergood.com
 0.0.0.0 sacralcabaa.com
+0.0.0.0 sadflannel.com
 0.0.0.0 safebrowsdv.com
 0.0.0.0 safestgatetocontent.com
 0.0.0.0 sageanalyst.net
@@ -18600,6 +18614,7 @@
 0.0.0.0 alpixtrack.com
 0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 analytic.rollout.io
+0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-au.clickdimensions.com
 0.0.0.0 analytics-ca.clickdimensions.com
 0.0.0.0 analytics-eu.clickdimensions.com
