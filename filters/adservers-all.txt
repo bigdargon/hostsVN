@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 27 Apr 2023 23:16 UTC+7
-! Version: 2304272316
-! Blocked: 8,549 rules
+! Last modified: 07 May 2023 23:21 UTC+7
+! Version: 2305072321
+! Blocked: 8,551 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -874,7 +874,6 @@
 ||aaxads.com^
 ||ab1n.net^
 ||abtasty.com^
-||accengage.com^
 ||accesstrade.net^
 ||act.ds.kakao.com^
 ||acuityplatform.com^
@@ -5078,6 +5077,7 @@
 ||eyereturn.com^
 ||eyeviewads.com^
 ||eyewonder.com^
+||ezcgojaamg.com^
 ||ezojs.com^
 ||eztexting.com^
 ||ezula.com^
@@ -5165,6 +5165,7 @@
 ||fluffycodepotc.com^
 ||fluffynyasquirell.com^
 ||flyingsquirellsmooch.com^
+||fmgcdgnousrww.com^
 ||fnbauniukvi.com^
 ||fnyfiexpectth.xyz^
 ||foamidsputt.com^
@@ -6325,6 +6326,7 @@
 ||myolnyr5bsk18.com^
 ||mypagerank.net^
 ||mypagerank.ru^
+||mypopups.com^
 ||mypowermall.com^
 ||myscreen.com^
 ||mystat-in.net^

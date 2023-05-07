@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 21 Apr 2023 13:53 UTC+7
-# Version: 2304211353
-# Blocked: 4,901 domains
+# Last modified: 07 May 2023 23:20 UTC+7
+# Version: 2305072320
+# Blocked: 4,917 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -50,6 +50,7 @@
 0.0.0.0 08bestk8.com
 0.0.0.0 08gamek8.com
 0.0.0.0 08prok8.com
+0.0.0.0 0909777.com
 0.0.0.0 09bestk8.com
 0.0.0.0 09gamek8.com
 0.0.0.0 09prok8.com
@@ -96,6 +97,7 @@
 0.0.0.0 188f1play.com
 0.0.0.0 188goal.com
 0.0.0.0 188line.com
+0.0.0.0 188moingay.com
 0.0.0.0 188pscn2.com
 0.0.0.0 188soikeo.com
 0.0.0.0 188thai.asia
@@ -168,6 +170,8 @@
 0.0.0.0 66ko9.com
 0.0.0.0 68b3.club
 0.0.0.0 68game2.com
+0.0.0.0 68gamebaix.com
+0.0.0.0 68gb3.com
 0.0.0.0 68rich.com
 0.0.0.0 69dinhtruong.com
 0.0.0.0 69ducthien.com
@@ -622,6 +626,7 @@
 0.0.0.0 bk8vietnam.com
 0.0.0.0 bk8vin.com
 0.0.0.0 bk8vip1.com
+0.0.0.0 bk8vivn.com
 0.0.0.0 bk8vn.com
 0.0.0.0 bk8vn.live
 0.0.0.0 bk8vn.vip
@@ -728,6 +733,7 @@
 0.0.0.0 choi99.com
 0.0.0.0 choibaionlinevn.com
 0.0.0.0 choibancadoithuong.com
+0.0.0.0 choiiwin79.fun
 0.0.0.0 choingay88.com
 0.0.0.0 choingayone88.win
 0.0.0.0 choisv88.live
@@ -1058,6 +1064,7 @@
 0.0.0.0 gamebai.club
 0.0.0.0 gamebai.manclub.us
 0.0.0.0 gamebai.manclub.vin
+0.0.0.0 gamebaisumvip.net
 0.0.0.0 gamebancaonline.com
 0.0.0.0 gamedoithuong.org
 0.0.0.0 gamedoithuong69.com
@@ -1218,6 +1225,8 @@
 0.0.0.0 i9bet6688.com
 0.0.0.0 i9bet68.com
 0.0.0.0 i9bet7.com
+0.0.0.0 i9bet71.com
+0.0.0.0 i9bet75.com
 0.0.0.0 i9bet8.com
 0.0.0.0 i9bet888.com
 0.0.0.0 i9bet9.com
@@ -3263,6 +3272,7 @@
 0.0.0.0 m.five88.me
 0.0.0.0 m.fivevn.net
 0.0.0.0 m.happy9luck.com
+0.0.0.0 m.i9bet75.com
 0.0.0.0 m.k8sport.com
 0.0.0.0 m.kimsa338.com
 0.0.0.0 m.kimsa88.com
@@ -3577,6 +3587,7 @@
 0.0.0.0 playiwin.uk
 0.0.0.0 playmanclub.uk
 0.0.0.0 playmanclub.vin
+0.0.0.0 playuk88.win
 0.0.0.0 playv8.com
 0.0.0.0 playv8.vip
 0.0.0.0 pm.go88.com
@@ -4049,6 +4060,7 @@
 0.0.0.0 vip.v99win.app
 0.0.0.0 vip130130.com
 0.0.0.0 vipbet998.com
+0.0.0.0 vipclub.so
 0.0.0.0 viu88.com
 0.0.0.0 viva88.com
 0.0.0.0 viva88.net
@@ -4429,6 +4441,7 @@
 0.0.0.0 www.big88.one
 0.0.0.0 www.bk88safe.com
 0.0.0.0 www.bk8bongda.com
+0.0.0.0 www.bk8c.com
 0.0.0.0 www.bk8h.com
 0.0.0.0 www.bk8hot.com
 0.0.0.0 www.bk8i.com
@@ -4439,6 +4452,7 @@
 0.0.0.0 www.bk8viet.com
 0.0.0.0 www.bk8vietnam.com
 0.0.0.0 www.bk8vip1.com
+0.0.0.0 www.bk8vivn.com
 0.0.0.0 www.bk8vn.com
 0.0.0.0 www.bk8vn.live
 0.0.0.0 www.bk8vn.vip
@@ -4571,6 +4585,8 @@
 0.0.0.0 www.i9bet5.com
 0.0.0.0 www.i9bet59.com
 0.0.0.0 www.i9bet6.com
+0.0.0.0 www.i9bet71.com
+0.0.0.0 www.i9bet75.com
 0.0.0.0 www.i9bet888.com
 0.0.0.0 www.income88.com
 0.0.0.0 www.interwinvn.com
