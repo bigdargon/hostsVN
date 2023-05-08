@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 07 May 2023 23:20 UTC+7
-! Version: 2305072320
-! Blocked: 3,109 rules
+! Last modified: 08 May 2023 13:47 UTC+7
+! Version: 2305081347
+! Blocked: 3,135 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -179,6 +179,7 @@
 ||choidangcap.org^
 ||choidangcap.pro^
 ||choidangcap.us^
+||choiemdi.com^
 ||choigai.xyz^
 ||choigaigoi.com^
 ||choigaingon.xyz^
@@ -657,6 +658,7 @@
 ||hentaicb.xyz^
 ||hentaihub.pro^
 ||hentaimanhwa.net^
+||hentaimoi.com^
 ||hentaipro.tv^
 ||hentaivip.biz^
 ||hentaivip.pro^
@@ -847,6 +849,7 @@
 ||javphim.space^
 ||javphim.xyz^
 ||javphimsex.pro^
+||javphimx.net^
 ||javpho.net^
 ||javphot.net^
 ||javphoz.com^
@@ -956,6 +959,7 @@
 ||lon88.com^
 ||lon88.sex^
 ||lon88.vip^
+||lon88.ws^
 ||londam.net^
 ||londam.pro^
 ||londep.city^
@@ -1132,9 +1136,11 @@
 ||phim-xxx.me^
 ||phim-xxx.xyz^
 ||phim.damvodoi.com^
+||phim.javhay.asia^
 ||phim.sex68.link^
 ||phim.sexmyhd.com^
 ||phim.vl9x.net^
+||phim.vuasex.co^
 ||phim18.co^
 ||phim18.online^
 ||phim18hd.co^
@@ -1466,6 +1472,7 @@
 ||phimsexhay.one^
 ||phimsexhay.online^
 ||phimsexhay.plus^
+||phimsexhay.pro^
 ||phimsexhay.store^
 ||phimsexhay.studio^
 ||phimsexhay.top^
@@ -1666,6 +1673,7 @@
 ||phimsexvip.pro^
 ||phimsexvip.top^
 ||phimsexvip.vip^
+||phimsexvkl.cc^
 ||phimsexvkl.me^
 ||phimsexvkl.net^
 ||phimsexvl.biz^
@@ -1754,6 +1762,7 @@
 ||phimxxx.monster^
 ||phimxxx.one^
 ||phimxxx.red^
+||phimxxx.sex^
 ||phimxxx.site^
 ||phimxxx.to^
 ||phimxxx.top^
@@ -1798,6 +1807,7 @@
 ||porn.phimonline.click^
 ||porn.work^
 ||porn123.xyz^
+||porn789.net^
 ||pornaz.net^
 ||pornhat.pro^
 ||pornhubf.com^
@@ -1943,6 +1953,7 @@
 ||sexdamvl.com^
 ||sexdate.nl^
 ||sexdcm.com^
+||sexdem.cc^
 ||sexdem.pro^
 ||sexdem.us^
 ||sexdep.biz^
@@ -2035,6 +2046,7 @@
 ||sexheodem.com^
 ||sexhi88.com^
 ||sexhiep.net^
+||sexhihi.day^
 ||sexhihi.info^
 ||sexhihi.me^
 ||sexhihi.plus^
@@ -2072,6 +2084,7 @@
 ||sexlon.pro^
 ||sexlon.xyz^
 ||sexlondep.pro^
+||sexmbbg.org^
 ||sexmienphi.net^
 ||sexmoi.buzz^
 ||sexmoi.click^
@@ -2340,6 +2353,7 @@
 ||showgaidep.xyz^
 ||showhangnhanh.xyz^
 ||showvip.one^
+||sieudamtv.com^
 ||sieukhung.us^
 ||sieukhungg.net^
 ||sieukhungz.net^
@@ -2395,6 +2409,7 @@
 ||thichcu.com^
 ||thichdit.com^
 ||thichsex.pro^
+||thiendia.club^
 ||thiendia.com^
 ||thiendia.uk^
 ||thiendia88.org^
@@ -2639,6 +2654,7 @@
 ||vl88.pro^
 ||vl9x.com^
 ||vl9x.net^
+||vldit.me^
 ||vldit.pro^
 ||vlphimsex.co^
 ||vlphimsex.net^
@@ -2646,6 +2662,7 @@
 ||vlsex.pro^
 ||vlsex1s.net^
 ||vlsexhay.net^
+||vlsexhay.tv^
 ||vlxhay.com^
 ||vlxphim.com^
 ||vlxtop.net^
@@ -2725,10 +2742,12 @@
 ||vlxxxyz.com^
 ||vlxyz.co^
 ||vlxyz.net^
+||vlxyz.org^
 ||vn.avhd.mobi^
 ||vn.dam69.tv^
 ||vn.javbabe.net^
 ||vn.phym18.com^
+||vn.sexnhanh.co^
 ||vn.viet69.chat^
 ||vn.vlxxtube.cc^
 ||vn3x.me^
@@ -2791,6 +2810,7 @@
 ||ww1.chinababe.net^
 ||ww1.heyzohd.com^
 ||ww1.japanhdv.biz^
+||ww1.vlxyz.org^
 ||wwwxxx.pro^
 ||x-video-s.com^
 ||x.phimsec1.pro^
@@ -2817,6 +2837,7 @@
 ||xem-sex.xyz^
 ||xem-xxx.pro^
 ||xem3x.me^
+||xem3x.vip^
 ||xemanhnong.asia^
 ||xemanhnong.net^
 ||xemav.com^
@@ -2856,6 +2877,7 @@
 ||xemsec.net^
 ||xemsec.pro^
 ||xemsecmy.com^
+||xemset.me^
 ||xemset.net^
 ||xemset.pro^
 ||xemsex.live^
@@ -2882,6 +2904,7 @@
 ||xemsexnhanh.com^
 ||xemsexphim.net^
 ||xemsexpro.biz^
+||xemsexvip.me^
 ||xemsexvip.net^
 ||xemsexvip.pro^
 ||xemsexvl.net^
@@ -2935,6 +2958,7 @@
 ||xnxx-vlxx.com^
 ||xnxx-vn.cc^
 ||xnxx-vn.org^
+||xnxx-xvideos.vip^
 ||xnxx-z.net^
 ||xnxx.gold^
 ||xnxx.link^
@@ -2950,6 +2974,7 @@
 ||xnxx98.tv^
 ||xnxx99.xxx^
 ||xnxxbb.com^
+||xnxxcc.com^
 ||xnxxhay.top^
 ||xnxxnew.sbs^
 ||xnxxphe.com^
@@ -3013,6 +3038,7 @@
 ||xxbase.org^
 ||xxdam.net^
 ||xxdem.pro^
+||xxdem.ws^
 ||xxdem.xyz^
 ||xxgai.org^
 ||xxhd1.pro^

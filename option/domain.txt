@@ -1469,7 +1469,6 @@ campaign.ad-brix.com
 config.ad-brix.com
 events.iap.unity3d.com
 hwstats.unity3d.com
-operate-sdk-telemetry.unity3d.com
 stats.unity3d.com
 analytics.unity3d.com
 collect.analytics.unity3d.com
@@ -1512,8 +1511,6 @@ unityads.unity3d.com
 webview.unityads.unity3d.com
 ads-privacy-api.prd.mz.internal.unity3d.com
 mediation-tracking.prd.mz.internal.unity3d.com
-sdk-diagnostics.prd.mz.internal.unity3d.com
-sdk-diagnostics.stg.mz.internal.unity3d.com
 tracking.prd.mz.internal.unity3d.com
 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 httpkafka-master.ads.prd.ie.internal.unity3d.com

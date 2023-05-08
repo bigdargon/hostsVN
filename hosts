@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 May 2023 23:21 UTC+7
-# Version: 2305072321
-# Blocked: 17,795 domains
+# Last modified: 08 May 2023 13:47 UTC+7
+# Version: 2305081347
+# Blocked: 17,792 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1638,7 +1638,6 @@
 #[unity3d.com]
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 hwstats.unity3d.com
-0.0.0.0 operate-sdk-telemetry.unity3d.com
 0.0.0.0 stats.unity3d.com
 #[analytics.unity3d.com]
 0.0.0.0 analytics.unity3d.com
@@ -1686,8 +1685,6 @@
 #[mz.internal.unity3d.com]
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
-0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
-0.0.0.0 sdk-diagnostics.stg.mz.internal.unity3d.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 #[ads.prd.ie.internal.unity3d.com]
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com

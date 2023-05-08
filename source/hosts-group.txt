@@ -1626,7 +1626,6 @@
 #[unity3d.com]
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 hwstats.unity3d.com
-0.0.0.0 operate-sdk-telemetry.unity3d.com
 0.0.0.0 stats.unity3d.com
 #[analytics.unity3d.com]
 0.0.0.0 analytics.unity3d.com
@@ -1674,8 +1673,6 @@
 #[mz.internal.unity3d.com]
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
-0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
-0.0.0.0 sdk-diagnostics.stg.mz.internal.unity3d.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 #[ads.prd.ie.internal.unity3d.com]
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com

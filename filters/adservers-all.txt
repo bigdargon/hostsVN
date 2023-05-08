@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 May 2023 23:21 UTC+7
-! Version: 2305072321
-! Blocked: 8,551 rules
+! Last modified: 08 May 2023 13:47 UTC+7
+! Version: 2305081347
+! Blocked: 8,548 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2070,7 +2070,6 @@
 ||onthe.io^
 ||openx.com^
 ||openx.net^
-||operate-sdk-telemetry.unity3d.com^
 ||opmnstr.com^
 ||opoxv.com^
 ||optad360.com^
@@ -2284,8 +2283,6 @@
 ||scarabresearch.com^
 ||scorecardresearch.com^
 ||scupio.com^
-||sdk-diagnostics.prd.mz.internal.unity3d.com^
-||sdk-diagnostics.stg.mz.internal.unity3d.com^
 ||sdk.51.la^
 ||sdk.hansel.io^
 ||sdk.s.360.cn^
