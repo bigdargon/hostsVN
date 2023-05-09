@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 08 May 2023 13:47 UTC+7
-! Version: 2305081347
-! Blocked: 4,415 rules
+! Last modified: 09 May 2023 16:26 UTC+7
+! Version: 2305091626
+! Blocked: 4,417 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -361,6 +361,7 @@
 ||ad.gamequyong.xyz^
 ||ad.mibet.com^
 ||ad.rikvip.uk^
+||ad.taihit.win^
 ||ad.yo88.net^
 ||ad.yo88.win^
 ||ad.yo88vn.com^
@@ -3897,6 +3898,7 @@
 ||taigamesunwin.vip^
 ||taigo88vn.com^
 ||taigo88vn.pro^
+||taihit.win^
 ||taiiwin.club^
 ||taiiwinclub.cc^
 ||taiiwinclub.vip^
