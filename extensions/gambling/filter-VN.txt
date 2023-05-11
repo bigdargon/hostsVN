@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 10 May 2023 13:20 UTC+7
-! Version: 2305101320
-! Blocked: 4,417 rules
+! Last modified: 11 May 2023 22:40 UTC+7
+! Version: 2305112240
+! Blocked: 4,425 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -236,6 +236,8 @@
 ||81ipb.com^
 ||8559553.com^
 ||8559555.com^
+||868vip.mobi^
+||868vip1.live^
 ||881ae888.com^
 ||882ae888.com^
 ||883ae888.com^
@@ -920,6 +922,7 @@
 ||en.sol86.com^
 ||en.solarbet.com^
 ||ent678.com^
+||eu88.bet^
 ||eu9vn.com^
 ||euro.sin88.biz^
 ||eurofun88.com^
@@ -1240,6 +1243,7 @@
 ||i9bet68.com^
 ||i9bet7.com^
 ||i9bet71.com^
+||i9bet74.com^
 ||i9bet75.com^
 ||i9bet8.com^
 ||i9bet888.com^
@@ -3390,6 +3394,7 @@
 ||mapi.seb121.net^
 ||may88.club^
 ||may88.com^
+||may88.fun^
 ||may88.top^
 ||may88.us^
 ||may88.vip^
@@ -3756,6 +3761,7 @@
 ||sin88.cc^
 ||sin88.club^
 ||sin88.mobi^
+||sin88.us^
 ||sin88.vip^
 ||sin88.win^
 ||sin88bet.me^
@@ -3765,6 +3771,7 @@
 ||sky88.com^
 ||sky88.fun^
 ||sky88.in^
+||sky88.info^
 ||sky88.top^
 ||sky88.uk^
 ||sky88.win^
@@ -4056,6 +4063,7 @@
 ||v9jbo.com^
 ||v9jvn.com^
 ||v9win.com^
+||vao789club.win^
 ||vaorikvip.com^
 ||vaorikvip.net^
 ||vb211.com^
