@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 11 May 2023 22:40 UTC+7
-# Version: 2305112240
-# Blocked: 3,262 domains
+# Last modified: 14 May 2023 23:14 UTC+7
+# Version: 2305142314
+# Blocked: 3,263 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -37,6 +37,7 @@
 0.0.0.0 3xtop.pro
 0.0.0.0 3xvn.pro
 0.0.0.0 444live.link
+0.0.0.0 51sexygirl.xyz
 0.0.0.0 567live.online
 0.0.0.0 567live.win
 0.0.0.0 567liveapp.net
