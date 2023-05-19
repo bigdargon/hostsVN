@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 14 May 2023 23:14 UTC+7
-! Version: 2305142314
-! Blocked: 3,247 rules
+! Last modified: 19 May 2023 08:39 UTC+7
+! Version: 2305190839
+! Blocked: 3,253 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -817,6 +817,7 @@
 ||javhd-porn.net^
 ||javhd-stream.com^
 ||javhd-vn.com^
+||javhd-vn.xyz^
 ||javhd.ai^
 ||javhd.best^
 ||javhd.bio^
@@ -854,6 +855,7 @@
 ||javnhatban.me^
 ||javnhatban.net^
 ||javnhatban.pro^
+||javnhe.org^
 ||javnoi.xyz^
 ||javnong.cc^
 ||javnong.top^
@@ -904,6 +906,7 @@
 ||javvietsub.city^
 ||javvietsub.me^
 ||javvn.me^
+||javvn.org^
 ||javx.me^
 ||javxem.com^
 ||javxxx.org^
@@ -1784,6 +1787,8 @@
 ||phimxech.top^
 ||phimxem.top^
 ||phimxes.cc^
+||phimxes.click^
+||phimxes.org^
 ||phimxes.top^
 ||phimxes.video^
 ||phimxesvn.com^
@@ -1894,6 +1899,7 @@
 ||rphangcdn.com^
 ||rphangs.net^
 ||rphangx.com^
+||rphangx.me^
 ||rphangx.net^
 ||rphangx.tv^
 ||s.phimsexvip.cc^
