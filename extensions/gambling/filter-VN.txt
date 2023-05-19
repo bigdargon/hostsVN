@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 19 May 2023 08:39 UTC+7
-! Version: 2305190839
-! Blocked: 4,425 rules
+! Last modified: 19 May 2023 14:38 UTC+7
+! Version: 2305191438
+! Blocked: 4,430 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1008,6 +1008,7 @@
 ||fb88you.com^
 ||fb88zo.com^
 ||fb9.com^
+||fb9fun.com^
 ||fbw.11bet.us^
 ||fc1.fcb88d.com^
 ||fc2.fcb88d.com^
@@ -1115,6 +1116,7 @@
 ||go88.com^
 ||go88.im^
 ||go88.live^
+||go88.luxury^
 ||go88.vip^
 ||go888.asia^
 ||go88b.com^
@@ -1243,6 +1245,7 @@
 ||i9bet68.com^
 ||i9bet7.com^
 ||i9bet71.com^
+||i9bet72.com^
 ||i9bet74.com^
 ||i9bet75.com^
 ||i9bet8.com^
@@ -3824,6 +3827,7 @@
 ||sukien.fcb88.com^
 ||sun.to^
 ||sun.win^
+||sun52.click^
 ||sun52.tv^
 ||sun6.win^
 ||sun88.online^
@@ -4070,6 +4074,7 @@
 ||vebo.bet^
 ||vegas79.casino^
 ||vf003.xyz^
+||vf234.com^
 ||vfun88.com^
 ||vg66.app^
 ||vg66.com^
