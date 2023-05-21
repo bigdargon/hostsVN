@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 19 May 2023 14:38 UTC+7
-! Version: 2305191438
-! Blocked: 4,430 rules
+! Last modified: 21 May 2023 23:00 UTC+7
+! Version: 2305212300
+! Blocked: 4,433 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -306,6 +306,7 @@
 ||8game19.com^
 ||8game20.com^
 ||8icuu.com^
+||8k00000.com^
 ||8kbet.app^
 ||8kbet.vn^
 ||8live.club^
@@ -3778,6 +3779,7 @@
 ||sky88.top^
 ||sky88.uk^
 ||sky88.win^
+||sky88vao.club^
 ||sm611.com^
 ||smart.8live.com^
 ||smart.8live.net^
@@ -3827,6 +3829,7 @@
 ||sukien.fcb88.com^
 ||sun.to^
 ||sun.win^
+||sun52.bid^
 ||sun52.click^
 ||sun52.tv^
 ||sun6.win^

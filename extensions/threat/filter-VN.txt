@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 19 May 2023 14:38 UTC+7
-! Version: 2305191438
-! Blocked: 3,448 rules
+! Last modified: 21 May 2023 23:00 UTC+7
+! Version: 2305212300
+! Blocked: 3,463 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -50,6 +50,7 @@
 ||76996.co^
 ||79wing.com^
 ||84mua.com^
+||888b.biz^
 ||888lotte.com^
 ||88lotte.com^
 ||88vin.shop^
@@ -61,6 +62,7 @@
 ||999lotte.com^
 ||99lotte.com^
 ||9g5lm9.cyou^
+||9smomo.com^
 ||a666.vn^
 ||abbabbbank.com^
 ||abbankpro.com^
@@ -316,6 +318,7 @@
 ||dangkyvay-bank247.net^
 ||dangkyvaybidv.com^
 ||daohannganhang.click^
+||datgrabsaigon.com^
 ||dathangdon.com^
 ||dautruongdanhvong.com^
 ||dautukiemtien.net^
@@ -382,6 +385,7 @@
 ||ebanking.ttoh4.com^
 ||ebanking.wiopm.com^
 ||ebankingshopee.vn^
+||ebayshopnet.com^
 ||ebmarketingshops.com^
 ||ebuyy.shop^
 ||edunetworkonlinevietnam.com^
@@ -638,6 +642,7 @@
 ||hdbankfinance.xyz^
 ||hdbanks.com^
 ||hdcreditvnn.com^
+||hdsaison-vn.com^
 ||hdsaisonvn.com^
 ||hethongbank.com^
 ||hethongbank24h.com^
@@ -761,6 +766,7 @@
 ||isaombank.com^
 ||ishoph.com^
 ||ishopk.com^
+||itikiab.com^
 ||itviet-hcm.com^
 ||iviietcombank.com^
 ||ivvietcombank.com^
@@ -978,6 +984,7 @@
 ||lotte333.com^
 ||lotte3333.com^
 ||lotte66.com^
+||lottefinance.vay10s.com^
 ||lottefinance6.com^
 ||lottehanoi.com.vn^
 ||lottevn333.com^
@@ -1022,6 +1029,7 @@
 ||mbbankl.com^
 ||mbbankn.com^
 ||mbtk-bank.com^
+||mcfa11.com^
 ||mcredit.vaynhanh-bankcredits.com^
 ||member-gaarena.com^
 ||member-garena-lienquan.com^
@@ -1747,6 +1755,7 @@
 ||sdo8357.com^
 ||sdqwf.ga^
 ||seabank-nganhanghanoi.com^
+||senopaee.com^
 ||servevietnam.com^
 ||service.tpbxnk.com^
 ||servsvietnam.com^
@@ -1760,6 +1769,7 @@
 ||shbfinanoe.com^
 ||shbfinans.com^
 ||shbkhuyenmai.com^
+||shek66.com^
 ||shinhan0.com^
 ||shinhanapp.org^
 ||shinhanbank-khcn.com^
@@ -2216,6 +2226,7 @@
 ||sodo668.net^
 ||softwarefpt.com^
 ||soicauviet.com^
+||somnio-evolve.com^
 ||sos-icloud.com^
 ||spark123.shop^
 ||spsinhlychinhhang.com^
@@ -2404,6 +2415,7 @@
 ||thuoctangcuongsinhlynam.com^
 ||thuonghieutoancau69.com^
 ||thuonghieutop1.online^
+||thuongmaidientuquocte.com^
 ||thuongmaivietnhat.com^
 ||thuongviet01.com^
 ||thutucnhangiai2022.com^
@@ -3078,6 +3090,7 @@
 ||vietvcbdigibank.com^
 ||vietviv.com^
 ||vietvn.net^
+||vifacebook.com^
 ||viieetcombank.com^
 ||viietccombank.com^
 ||viietcombank.com^
@@ -3184,6 +3197,7 @@
 ||vn-vongquaylol.cf^
 ||vn-vp.xyz^
 ||vn.btaynguyenfood.com^
+||vn268.com^
 ||vn765.com^
 ||vn88khuyenmai.life^
 ||vn88khuyenmai.site^
@@ -3307,6 +3321,7 @@
 ||vp-nanghanmuc.com^
 ||vp-nanghanmuc.online^
 ||vp111.vip^
+||vp7811.com^
 ||vpb-hanmuc.com^
 ||vpb-hanmuc.online^
 ||vpb-nanghanmuc.com^

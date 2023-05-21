@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 19 May 2023 14:38 UTC+7
-! Version: 2305191438
-! Blocked: 8,566 rules
+! Last modified: 21 May 2023 23:01 UTC+7
+! Version: 2305212301
+! Blocked: 8,578 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -424,6 +424,7 @@
 ||adserver.muaban.net^
 ||adserver.trangphim.net^
 ||adsgo.nhipcaudautu.vn^
+||adsphim.lol^
 ||adsplus.vn^
 ||adsv2.autodaily.vn^
 ||adsweb.vn^
@@ -4312,6 +4313,7 @@
 ||cdn.concert.io^
 ||cdn.digitru.st^
 ||cdn.easyads28.mobi^
+||cdn.exmarketplace.com^
 ||cdn.freefarcy.com^
 ||cdn.house^
 ||cdn.itskiddoan.club^
@@ -4579,6 +4581,7 @@
 ||crajeon.com^
 ||crakmedia.com^
 ||craktraffic.com^
+||crantscopart.com^
 ||craveandlamb.com^
 ||crawlability.com^
 ||crawlclocks.com^
@@ -5128,6 +5131,7 @@
 ||felonlosel.com^
 ||fer2oxheou4nd.com^
 ||ferulaecharger.com^
+||fezacoox.net^
 ||fhsmtrnsfnt.com^
 ||fieldofbachus.com^
 ||fiercedental.com^
@@ -5214,6 +5218,7 @@
 ||fryawlauk.com^
 ||fscfbfrof.com^
 ||ftte.xyz^
+||ftuaxqokbxow.com^
 ||fuffscreigh.website^
 ||fullstory.com^
 ||fumarinpest.com^
@@ -6305,6 +6310,7 @@
 ||mtree.com^
 ||mtttvrit.com^
 ||muchotrust.com^
+||mufsresuwoxg.com^
 ||mugpothop.com^
 ||mulleysnutmeg.com^
 ||multilinkhost.com^
@@ -6366,6 +6372,7 @@
 ||nazarickol.com^
 ||nbbplbiyjhg.com^
 ||nbjmp.com^
+||nbuztmmcv.com^
 ||ndha4sding6gf.com^
 ||ndparking.com^
 ||ndroip.com^
@@ -6375,6 +6382,7 @@
 ||nefdcnmvbt.com^
 ||negyuk.com^
 ||neighborlywatch.com^
+||nekaujoa.net^
 ||neocounter.neoworx-blog-tools.net^
 ||neodatagroup.com^
 ||neoffic.com^
@@ -7293,6 +7301,7 @@
 ||saspreview.com^
 ||satisfycork.com^
 ||saturim.com^
+||sauvffpijlyqf.com^
 ||saysidewalk.com^
 ||sbx.pagesjaunes.fr^
 ||sc-static.net^
@@ -7386,6 +7395,7 @@
 ||sharpsharkteeth.com^
 ||shauptab.net^
 ||shermore.info^
+||shhxgqpaxvdjn.com^
 ||shinystat.com^
 ||shinystat.it^
 ||shitcustody.com^
@@ -7765,6 +7775,7 @@
 ||taxedborley.com^
 ||tb.baimgfroggd.site^
 ||tcads.net^
+||tcplpasdiiepsl.com^
 ||tdf.ringier.ch^
 ||tdwvknudt.com^
 ||tealeaf.com^
@@ -8329,6 +8340,7 @@
 ||wetrack.it^
 ||wfuipqowa.com^
 ||wgcsxqkyry.com^
+||whagrogiva.com^
 ||whairtoa.com^
 ||whaiweel.com^
 ||whaleads.com^
