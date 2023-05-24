@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 21 May 2023 23:00 UTC+7
-! Version: 2305212300
-! Blocked: 4,433 rules
+! Last modified: 24 May 2023 10:04 UTC+7
+! Version: 2305241004
+! Blocked: 4,443 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -748,6 +748,7 @@
 ||choiiwin79.fun^
 ||choingay88.com^
 ||choingayone88.win^
+||choisport.com^
 ||choisv88.live^
 ||choita88.club^
 ||choiwin79.com^
@@ -971,6 +972,7 @@
 ||fabet.biz^
 ||fabet.cc^
 ||fabet.com^
+||fabet.live^
 ||fabet.me^
 ||fabet.tv^
 ||fabet.us^
@@ -1082,6 +1084,7 @@
 ||gamebancaonline.com^
 ||gamedoithuong.org^
 ||gamedoithuong69.com^
+||gameiwin.asia^
 ||gameiwin.vip^
 ||gamek8club.com^
 ||gamequyong.site^
@@ -1241,6 +1244,7 @@
 ||i9bet59.com^
 ||i9bet6.com^
 ||i9bet62.com^
+||i9bet64.com^
 ||i9bet666.com^
 ||i9bet6688.com^
 ||i9bet68.com^
@@ -3122,6 +3126,7 @@
 ||kingbet86.com^
 ||kingbet86.info^
 ||kingdoithuong.net^
+||kingfun2.com^
 ||kingfun247.net^
 ||kkfffddd.com^
 ||km.playmanclub.vin^
@@ -3132,6 +3137,7 @@
 ||ktokto.mobi^
 ||ktoviet.com^
 ||ktovn.com^
+||ku11.io^
 ||ku11.link^
 ||ku11.me^
 ||ku11.net^
@@ -3179,6 +3185,7 @@
 ||kufun.win^
 ||kuwin.bet^
 ||langvuichoi.net^
+||ld99.club^
 ||leto58.xyz^
 ||letou8868.com^
 ||lgl9p.com^
@@ -3577,6 +3584,7 @@
 ||piwik.88thaicasinoslots.com^
 ||play.b52.win^
 ||play.bom52.club^
+||play.choisport.com^
 ||play.choiwin79.net^
 ||play.fa88.win^
 ||play.go88.club^
@@ -4078,6 +4086,7 @@
 ||vegas79.casino^
 ||vf003.xyz^
 ||vf234.com^
+||vf456.com^
 ||vfun88.com^
 ||vg66.app^
 ||vg66.com^
@@ -4281,6 +4290,7 @@
 ||w88city.com^
 ||w88club.com^
 ||w88easy.com^
+||w88gp.com^
 ||w88hn.com^
 ||w88io.com^
 ||w88kh.com^

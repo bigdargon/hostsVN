@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 21 May 2023 23:01 UTC+7
-! Version: 2305212301
-! Blocked: 8,578 rules
+! Last modified: 24 May 2023 10:05 UTC+7
+! Version: 2305241005
+! Blocked: 8,579 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6567,6 +6567,7 @@
 ||onmarshtompor.com^
 ||onmobile.com^
 ||onstunkyr.com^
+||ontosocietyweary.com^
 ||onvictinitor.com^
 ||onzlzyf.com^
 ||oodsotso.com^
