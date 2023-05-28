@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 24 May 2023 10:05 UTC+7
-! Version: 2305241005
-! Blocked: 833 rules
+! Last modified: 28 May 2023 22:22 UTC+7
+! Version: 2305282222
+! Blocked: 834 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -562,6 +562,7 @@
 ||gamma.cachefly.net^
 ||ghimc.vn^
 ||go.vnecdn.com^
+||gtm.saostar.vn^
 ||gtmjs.com^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||hexapinow.xyz^

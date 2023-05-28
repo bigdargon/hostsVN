@@ -682,6 +682,7 @@
 0.0.0.0 preview.smartadserver.com
 0.0.0.0 prg-apac.smartadserver.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 prg3431.smartadserver.com
 0.0.0.0 prg8.smartadserver.com
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 smartadserver.com
@@ -690,6 +691,7 @@
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 tagmanager.smartadserver.com
 0.0.0.0 tmk.smartadserver.com
+0.0.0.0 usw1.smartadserver.com
 0.0.0.0 videoapi.smartadserver.com
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www3.smartadserver.com
@@ -10066,6 +10068,7 @@
 0.0.0.0 ads-delivery.b-cdn.net
 0.0.0.0 adstatic.b-cdn.net
 0.0.0.0 bbangads.b-cdn.net
+0.0.0.0 bdtt.b-cdn.net
 0.0.0.0 heoads.b-cdn.net
 0.0.0.0 mellowads.b-cdn.net
 0.0.0.0 popcashjs.b-cdn.net
@@ -10667,8 +10670,6 @@
 0.0.0.0 p.s.360.cn
 0.0.0.0 sdk.s.360.cn
 #[byteoversea.com]
-0.0.0.0 mon-va.byteoversea.com
-0.0.0.0 mon.byteoversea.com
 0.0.0.0 p16-ad.byteoversea.com
 0.0.0.0 v16-ad.byteoversea.com
 #[lift.acquia.com]
@@ -11155,6 +11156,7 @@
 0.0.0.0 ads.livetv644.me
 0.0.0.0 ads.livetv655.me
 0.0.0.0 ads.livetv658.me
+0.0.0.0 ads.livetv662.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
