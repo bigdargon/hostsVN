@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 28 May 2023 22:19 UTC+7
-! Version: 2305282219
-! Blocked: 3,463 rules
+! Last modified: 03 Jun 2023 21:24 UTC+7
+! Version: 2306032124
+! Blocked: 3,468 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -50,6 +50,7 @@
 ||76996.co^
 ||79wing.com^
 ||84mua.com^
+||887vn.com^
 ||888b.biz^
 ||888lotte.com^
 ||88lotte.com^
@@ -104,6 +105,7 @@
 ||aliexshop.vip^
 ||allegro-task.shop^
 ||alovay24h.com^
+||amazonbig.asia^
 ||amazonxk.com^
 ||anbinh-finance.club^
 ||aodaisieuvietnhi2022.weebly.com^
@@ -1502,6 +1504,7 @@
 ||nhapcode-lienquan-garena.net^
 ||nhapvang.pro^
 ||nhatnamgroups.com^
+||nhungmiu.me^
 ||nicevipshop.info^
 ||nicklienquan247.com^
 ||niftygatevay.com^
@@ -1579,6 +1582,7 @@
 ||pos-quettheonline.com^
 ||postindungnhanh-vn.com^
 ||postvay.com^
+||pqrm9.com^
 ||premierebankstandard.com^
 ||promomobilsuzukijakarta.com^
 ||pubgvongquay-2021vng.com^
@@ -2686,6 +2690,7 @@
 ||tututiki.com^
 ||tuvanruttien.com^
 ||tuyendung-shopee.com^
+||tuyendung203.com^
 ||tuyendungctvlazada.com^
 ||tuyendunglazada.net^
 ||tuyendungnhanhonline.xyz^

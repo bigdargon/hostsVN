@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 30 May 2023 15:46 UTC+7
-! Version: 2305301546
-! Blocked: 8,894 rules
+! Last modified: 03 Jun 2023 21:24 UTC+7
+! Version: 2306032124
+! Blocked: 8,902 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -652,6 +652,7 @@
 ||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
+||logv3.metric.vn^
 ||lottery.headlines.pw^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||marketing.hub-js.com^
@@ -4767,6 +4768,10 @@
 ||daincautela.com^
 ||daisycontroversy.com^
 ||dakic-ia-300.com^
+||dalyai.com^
+||dalyio.com^
+||dalysb.com^
+||dalysh.com^
 ||damaged-shop.pro^
 ||damdoor.com^
 ||danban.com^
@@ -4942,6 +4947,7 @@
 ||down.nishuoa.com^
 ||downloadr.xyz^
 ||dozubatan.com^
+||dpmawsiaaep.com^
 ||dpyabvkadg.com^
 ||dq3yxnlzwhcys.cloudfront.net^
 ||dq95d35.com^
@@ -6877,6 +6883,7 @@
 ||paradoxfactor.com^
 ||parchedangle.com^
 ||pardnergam.com^
+||parentlargevia.com^
 ||parisjeroleinpg.com^
 ||parsimoniouspolice.com^
 ||partage-facile.com^
@@ -8570,6 +8577,7 @@
 ||wasplighthouse.com^
 ||watchingthat.com^
 ||wateryvan.com^
+||waufooke.com^
 ||waust.at^
 ||wauthaik.net^
 ||waxpigbaa.com^

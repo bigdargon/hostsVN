@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 28 May 2023 22:19 UTC+7
-! Version: 2305282219
-! Blocked: 4,475 rules
+! Last modified: 03 Jun 2023 21:24 UTC+7
+! Version: 2306032124
+! Blocked: 4,481 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -217,6 +217,7 @@
 ||78win09.com^
 ||79lucky.com^
 ||79sodo.com^
+||79sun.bet^
 ||79sun.net^
 ||7ballbet.com^
 ||7ballcity.com^
@@ -504,6 +505,7 @@
 ||api.dabet.club^
 ||api.f8bet0.com^
 ||api.f8bet5.com^
+||api.go88r.pro^
 ||api.hb8887.com^
 ||api.hb88h.com^
 ||api.hb88p.com^
@@ -619,6 +621,7 @@
 ||biendo.one^
 ||biendo.store^
 ||biendo1.com^
+||biendo2.com^
 ||biendo3.com^
 ||biendo9.com^
 ||big88.one^
@@ -1141,6 +1144,7 @@
 ||go88b.com^
 ||go88bet.net^
 ||go88f.com^
+||go88r.pro^
 ||go88vn.live^
 ||go88vn.vip^
 ||goal123.com^
@@ -3368,6 +3372,7 @@
 ||m.v9jbo.com^
 ||m.v9jvn.com^
 ||m.v9win.com^
+||m.vipbet001.org^
 ||m.viva88.com^
 ||m.vn88.com^
 ||m.vn88hn.live^
@@ -4138,6 +4143,7 @@
 ||vip.8kbet.vn^
 ||vip.v99win.app^
 ||vip130130.com^
+||vipbet001.org^
 ||vipbet998.com^
 ||vipclub.so^
 ||viu88.com^
