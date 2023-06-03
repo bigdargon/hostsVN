@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 03 Jun 2023 21:24 UTC+7
-! Version: 2306032124
-! Blocked: 8,902 rules
+! Last modified: 03 Jun 2023 21:29 UTC+7
+! Version: 2306032129
+! Blocked: 8,901 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1786,7 +1786,6 @@
 ||ibillboard.com^
 ||id5-sync.com^
 ||idealmedia.io^
-||iesnare.com^
 ||ilyonanalytics.herokuapp.com^
 ||im-apps.net^
 ||imhd.io^

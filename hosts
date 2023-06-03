@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Jun 2023 21:24 UTC+7
-# Version: 2306032124
-# Blocked: 18,154 domains
+# Last modified: 03 Jun 2023 21:29 UTC+7
+# Version: 2306032129
+# Blocked: 18,151 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2125,10 +2125,6 @@
 0.0.0.0 video-ads-apex.rubiconproject.com
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 www.rubiconproject.com
-#[iesnare.com]
-0.0.0.0 iesnare.com
-0.0.0.0 mpsnare.iesnare.com
-0.0.0.0 www.iesnare.com
 #[fyber.com]
 0.0.0.0 api-rewarded-video.fyber.com
 0.0.0.0 api.fyber.com
