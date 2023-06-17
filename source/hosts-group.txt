@@ -11220,3 +11220,11 @@
 #[confiant-integrations.net]
 0.0.0.0 confiant-integrations.net
 0.0.0.0 cdn.confiant-integrations.net
+#[amntx1.net]
+0.0.0.0 amntx1.net
+0.0.0.0 media.amntx1.net
+0.0.0.0 srv.amntx1.net
+0.0.0.0 track.amntx1.net
+#[trafficbass.com]
+0.0.0.0 trafficbass.com
+0.0.0.0 cdn.trafficbass.com

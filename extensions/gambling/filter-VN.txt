@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 03 Jun 2023 21:24 UTC+7
-! Version: 2306032124
-! Blocked: 4,481 rules
+! Last modified: 17 Jun 2023 21:24 UTC+7
+! Version: 2306172124
+! Blocked: 4,492 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -608,6 +608,7 @@
 ||bet88012.com^
 ||bet88013.com^
 ||bet88014.com^
+||bet885678.com^
 ||betbanh88.com^
 ||betk8.fun^
 ||betk8vn.live^
@@ -753,6 +754,7 @@
 ||choi99.com^
 ||choibaionlinevn.com^
 ||choibancadoithuong.com^
+||choigiaitri.net^
 ||choiiwin79.fun^
 ||choingay88.com^
 ||choingayone88.win^
@@ -839,6 +841,7 @@
 ||dailybet365vn.com^
 ||dailybong88.com^
 ||dailyk8.com^
+||daman2.com^
 ||dangky.go88.com^
 ||dangky.thethaofb88.com^
 ||dangkybayvip.com^
@@ -2355,6 +2358,7 @@
 ||k8viet888.com^
 ||k8viet99.com^
 ||k8viet999.com^
+||k8vietpro.com^
 ||k8vii01.com^
 ||k8vii02.com^
 ||k8vii03.com^
@@ -3666,6 +3670,7 @@
 ||profile.w88.vin^
 ||prok8.com^
 ||promotions.bcb80.com^
+||pt66.vip^
 ||q0f2a.com^
 ||qc.789.mobi^
 ||qc.789a.club^
@@ -3763,6 +3768,7 @@
 ||s2.sin88.biz^
 ||s2.sin88.cc^
 ||s2.sin88.club^
+||s26bet.bet^
 ||s555.com^
 ||s666bet.win^
 ||s99902e.com^
@@ -4399,6 +4405,7 @@
 ||wintbr.com^
 ||wm88viet.com^
 ||wm88vn.com^
+||wp.choigiaitri.net^
 ||wp.mu9.win^
 ||wp.red88.us^
 ||wp.red88.vin^
@@ -4413,9 +4420,11 @@
 ||www-ee88.com^
 ||wy88vn.com^
 ||x1.xo88.info^
+||x1.xo88.win^
 ||x1798.com^
 ||x2.xo88.info^
 ||x3.xo88.info^
+||x3.xo88.win^
 ||x8.club^
 ||x8.vin^
 ||x8vn.com^
@@ -4434,6 +4443,7 @@
 ||xo88.com^
 ||xo88.fun^
 ||xo88.info^
+||xo88.win^
 ||xoi77.com^
 ||xoi99.com^
 ||xoso12345.com^
@@ -4465,6 +4475,7 @@
 ||you88.vin^
 ||youtaigamebai.app^
 ||yule12888.com^
+||yylive.top^
 ||z1.zbet.com^
 ||z1.zbet.vn^
 ||z2.zbet.com^

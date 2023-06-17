@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 03 Jun 2023 21:24 UTC+7
-! Version: 2306032124
-! Blocked: 3,468 rules
+! Last modified: 17 Jun 2023 21:24 UTC+7
+! Version: 2306172124
+! Blocked: 3,483 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -87,6 +87,9 @@
 ||acclienquan365.com^
 ||acclienquangiare.shop^
 ||acs84.com^
+||adef22.com^
+||adef66.com^
+||adef77.com^
 ||adkiemtien123.click^
 ||admin-vayvonvietthanh.com^
 ||ae888vip.com^
@@ -107,6 +110,7 @@
 ||alovay24h.com^
 ||amazonbig.asia^
 ||amazonxk.com^
+||amg133180.com^
 ||anbinh-finance.club^
 ||aodaisieuvietnhi2022.weebly.com^
 ||app.mybigc.net^
@@ -301,6 +305,7 @@
 ||cuocthitainangnhithang12.weebly.com^
 ||currencyconverterbanking.weebly.com^
 ||cvietcombank.com^
+||daef33.com^
 ||daikinvietnam.vn^
 ||daisyshopp.com^
 ||dangky.electricz.xyz^
@@ -392,6 +397,7 @@
 ||ebuyy.shop^
 ||edunetworkonlinevietnam.com^
 ||edunetworkvietnam.com.vn^
+||eeeesss.xyz^
 ||emoney2017.com^
 ||emoneyspace.com^
 ||eserbank.com^
@@ -600,6 +606,7 @@
 ||goshopee.vip^
 ||gpay-mpos-ruttientindung.com^
 ||gpay247-mp0s-quetthetindung.com^
+||gplxgovn.vn^
 ||greatvay.xyz^
 ||greenvay8.com^
 ||grn-membershipff.com^
@@ -1420,6 +1427,7 @@
 ||ncbbank.online^
 ||ncbbank.site^
 ||nestlegroup.pro^
+||net.lsipes.com^
 ||new-vietcombank.com^
 ||new-vietcombank.info^
 ||new-vietcombank.net^
@@ -1726,6 +1734,7 @@
 ||sacombank.vn-ne.top^
 ||sacombank.vn-sp.top^
 ||sacombank.vn-vp.xyz^
+||sadm26.com^
 ||salu.gq^
 ||sandealshopee.com^
 ||sanduon.com^
@@ -1765,6 +1774,7 @@
 ||servsvietnam.com^
 ||sgshopee.top^
 ||sgxcoin.net^
+||share.ttchanging.com^
 ||shb.com.vn-iy.info^
 ||shb.com.vn-sp.xyz^
 ||shb8-vay.com^
@@ -1826,6 +1836,7 @@
 ||shopaccvip.vn^
 ||shopacgame24h.com^
 ||shopadcoriff2023.tk^
+||shopaeon.com^
 ||shopas.net^
 ||shopas.vn^
 ||shopasmobile.mobi^
@@ -2327,6 +2338,8 @@
 ||support-nganhang.site^
 ||supporttoancau.com^
 ||sv7momo.com^
+||tadmak.com^
+||tadmv.com^
 ||taiappbank.info^
 ||taichinhacs.biz^
 ||taichinhagribank.com^
@@ -2452,6 +2465,7 @@
 ||tiki.bet^
 ||tiki.rest^
 ||tiki11.com^
+||tiki11.top^
 ||tiki111.com^
 ||tiki136.com^
 ||tiki1566.com^
@@ -2572,6 +2586,7 @@
 ||titki55.cc^
 ||tk668.com^
 ||tochucthetindung.com^
+||tomo5933.vip^
 ||tongdaicaptruyenhinh.online^
 ||tongdaifacebook.online^
 ||tongdaitruyenhinhcap.info^

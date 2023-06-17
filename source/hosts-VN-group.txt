@@ -1282,6 +1282,7 @@
 0.0.0.0 adnetwork-adserver.aiactiv.io
 0.0.0.0 adnetwork-core-lb7.aiactiv.io
 0.0.0.0 adnetwork-core.aiactiv.io
+0.0.0.0 aiactiv.io
 0.0.0.0 identify.aiactiv.io
 0.0.0.0 sdk-cdn.aiactiv.io
 0.0.0.0 static.aiactiv.io
@@ -1454,3 +1455,9 @@
 0.0.0.0 cdn.aanetwork.vn
 0.0.0.0 imgs2.aanetwork.vn
 0.0.0.0 pub.aanetwork.vn
+#[haravan.com]
+0.0.0.0 combo-omni.haravan.com
+0.0.0.0 socialloginplus-apps.haravan.com
+0.0.0.0 facebookinbox-omni-onapp.haravan.com
+0.0.0.0 promotion.haravan.com
+0.0.0.0 onapp.haravan.com
