@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Jun 2023 13:43 UTC+7
-! Version: 2306201343
-! Blocked: 9,324 rules
+! Last modified: 20 Jun 2023 16:05 UTC+7
+! Version: 2306201605
+! Blocked: 9,325 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -7447,6 +7447,7 @@
 ||provexia.com^
 ||providentsopport.site^
 ||providingcrechepartnership.com^
+||proximic.com^
 ||prsitecheck.com^
 ||prx.wayfair.com^
 ||ps7894.com^

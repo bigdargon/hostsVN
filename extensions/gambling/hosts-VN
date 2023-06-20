@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 20 Jun 2023 13:46 UTC+7
-# Version: 2306201346
-# Blocked: 5,014 domains
+# Last modified: 20 Jun 2023 16:05 UTC+7
+# Version: 2306201605
+# Blocked: 5,023 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -556,6 +556,7 @@
 0.0.0.0 app.228kbet.com
 0.0.0.0 app.8kbet.vn
 0.0.0.0 app.betlv.com
+0.0.0.0 app.k8cc.com
 0.0.0.0 app.vx88.com
 0.0.0.0 app.wellviet.net
 0.0.0.0 app611.net
@@ -1467,6 +1468,7 @@
 0.0.0.0 k188casino.vip
 0.0.0.0 k2.uk88.top
 0.0.0.0 k8-vn.com
+0.0.0.0 k8.cc
 0.0.0.0 k8.digital
 0.0.0.0 k8.games
 0.0.0.0 k8.reviews
@@ -1714,6 +1716,13 @@
 0.0.0.0 k8cash.com
 0.0.0.0 k8casino.net
 0.0.0.0 k8casino.win
+0.0.0.0 k8cc.com
+0.0.0.0 k8cc11.com
+0.0.0.0 k8cc22.com
+0.0.0.0 k8cc33.com
+0.0.0.0 k8cc44.com
+0.0.0.0 k8cc55.com
+0.0.0.0 k8cc66.com
 0.0.0.0 k8cf001.com
 0.0.0.0 k8cf002.com
 0.0.0.0 k8cf003.com

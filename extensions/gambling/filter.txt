@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 20 Jun 2023 13:46 UTC+7
-! Version: 2306201346
-! Blocked: 139,947 rules
+! Last modified: 20 Jun 2023 16:05 UTC+7
+! Version: 2306201605
+! Blocked: 139,957 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -79918,6 +79918,7 @@
 ||app.228kbet.com^
 ||app.8kbet.vn^
 ||app.betlv.com^
+||app.k8cc.com^
 ||app.vx88.com^
 ||app.wellviet.net^
 ||app08980898.com^
@@ -106950,6 +106951,7 @@
 ||k8-30.com^
 ||k8-im-ap02.com^
 ||k8-vn.com^
+||k8.cc^
 ||k8.digital^
 ||k8.games^
 ||k8.reviews^
@@ -107595,6 +107597,13 @@
 ||k8casino1.com^
 ||k8casino2.com^
 ||k8casinogaming.com^
+||k8cc.com^
+||k8cc11.com^
+||k8cc22.com^
+||k8cc33.com^
+||k8cc44.com^
+||k8cc55.com^
+||k8cc66.com^
 ||k8cf001.com^
 ||k8cf002.com^
 ||k8cf003.com^
@@ -116182,6 +116191,7 @@
 ||nhacaib52.com^
 ||nhacaij9vn.com^
 ||nhacaij9vn.net^
+||nhacaik8.cc^
 ||nhacaik8.club^
 ||nhacaik8.fun^
 ||nhacaik8.info^
