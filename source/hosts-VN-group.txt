@@ -1396,7 +1396,7 @@
 #[imacdn.com]
 0.0.0.0 ff.imacdn.com
 0.0.0.0 sponsor.imacdn.com
-#[epicdn.me]
+#[quangcao-*.epicdn.me]
 0.0.0.0 quangcao-thanhnien.epicdn.me
 #[log-*.epicdn.me]
 0.0.0.0 log-baodauthau.epicdn.me
@@ -1404,6 +1404,7 @@
 0.0.0.0 log-giaoduc.epicdn.me
 0.0.0.0 log-giaoducthoidai.epicdn.me
 0.0.0.0 log-kienthucnet.epicdn.me
+0.0.0.0 log-mekongasean.epicdn.me
 0.0.0.0 log-nhandan.epicdn.me
 0.0.0.0 log-thanhnien.epicdn.me
 0.0.0.0 log-tinnhanhchungkhoan.epicdn.me
