@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 20 Jun 2023 16:05 UTC+7
-# Version: 2306201605
-# Blocked: 1,801 domains
+# Last modified: 21 Jun 2023 13:42 UTC+7
+# Version: 2306211342
+# Blocked: 1,803 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1474,6 +1474,9 @@
 0.0.0.0 facebookinbox-omni-onapp.haravan.com
 0.0.0.0 promotion.haravan.com
 0.0.0.0 onapp.haravan.com
+#[ultraviewer.net]
+0.0.0.0 ads.ultraviewer.net
+0.0.0.0 qc.ultraviewer.net
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn

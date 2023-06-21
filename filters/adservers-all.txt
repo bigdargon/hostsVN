@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Jun 2023 16:05 UTC+7
-! Version: 2306201605
-! Blocked: 9,325 rules
+! Last modified: 21 Jun 2023 13:42 UTC+7
+! Version: 2306211342
+! Blocked: 9,331 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -29,6 +29,7 @@
 ||ads.botbanhang.vn^
 ||ads.platform.zalo.me^
 ||ads.thanhnien.vn^
+||ads.ultraviewer.net^
 ||ads.vtc.vn^
 ||ads.zalo.me^
 ||ads.zaloapp.com^
@@ -236,6 +237,7 @@
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^
 ||qc.coccoc.vn^
+||qc.ultraviewer.net^
 ||qccoccocmedia.vn^
 ||quangcao-*.epicdn.me^
 ||quangcao.thanhnien.vn^
@@ -3602,6 +3604,7 @@
 ||ah-ha.com^
 ||ahalogy.com^
 ||aheadday.com^
+||ahjanhabmo.com^
 ||ahlcujguphr.com^
 ||ahqpqpdjpj.com^
 ||ahreprh2kfk8rfjr09.com^
@@ -3647,6 +3650,7 @@
 ||all4spy.com^
 ||alladvantage.com^
 ||alleleoctagon.life^
+||allgrjyqkemos.com^
 ||allmyverygreatlife.com^
 ||allosponsor.com^
 ||allstarmediagroup.com^
@@ -6334,6 +6338,7 @@
 ||livquxokndfe.com^
 ||lizardslaugh.com^
 ||llink.site^
+||lmujzuosdojm.com^
 ||lngtd.com^
 ||lo8ve6ygour3pea4cee.com^
 ||loading321.com^
@@ -7054,6 +7059,7 @@
 ||optnmstr.com^
 ||oqfoczdfyag.com^
 ||oqfpuzaltac.com^
+||oqnfsivlp.com^
 ||oqnghaofps.com^
 ||oranegfodnd.com^
 ||orangeads.fr^
