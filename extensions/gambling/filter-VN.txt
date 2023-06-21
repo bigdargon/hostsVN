@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 20 Jun 2023 16:05 UTC+7
-! Version: 2306201605
-! Blocked: 4,501 rules
+! Last modified: 21 Jun 2023 15:54 UTC+7
+! Version: 2306211554
+! Blocked: 4,537 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -167,6 +167,7 @@
 ||6623.support^
 ||666k8vn.com^
 ||6677444.com^
+||6686vn76.com^
 ||668dg.net^
 ||668kbet.com^
 ||66ko1.com^
@@ -466,6 +467,7 @@
 ||allk8.com^
 ||almeriaxxx.com^
 ||alo789.com^
+||alo789.vip^
 ||alo88.bet^
 ||alo888.com^
 ||api.118kbet.com^
@@ -837,7 +839,22 @@
 ||dafacai360.com^
 ||dafakaya.com^
 ||dafawin.com^
+||daga.live^
+||daga.win^
+||daga360vn.com^
+||daga88.bet^
+||daga88.com^
+||daga999.live^
+||dagablv.com^
+||dagacampuchia.com^
+||dagacampuchia.io^
+||dagacuadao.org^
+||dagahomqua.com^
+||dagatructiep.casino^
+||dagatructiep.io^
 ||dagatructiep24h.net^
+||dagatructiepthomo.live^
+||dagatructuyen.com^
 ||daily88uu.com^
 ||dailybet365vn.com^
 ||dailybong88.com^
@@ -1084,6 +1101,9 @@
 ||funtructuyen88.com^
 ||fxbg7.com^
 ||g9vip.com^
+||ga179.com^
+||gachoic1.com^
+||gachoiviet.com^
 ||gam88.org^
 ||game.789.club^
 ||game.789a.club^
@@ -1122,6 +1142,8 @@
 ||gateway.jbovietnam.com^
 ||gateway.jbovn.com^
 ||gatewayvn.jbovn.com^
+||gatructiep.net^
+||gawin88.com^
 ||gaznbike.com^
 ||gdwbetvn888.com^
 ||gdwviet.com^
@@ -3525,6 +3547,7 @@
 ||nemo.vin^
 ||new.vx88.com^
 ||new88.love^
+||new88.tips^
 ||new8808.vip^
 ||new88111.com^
 ||new8884.com^
@@ -3566,6 +3589,7 @@
 ||nowbetvn.com^
 ||nslokups.com^
 ||nt7cd.com^
+||nuoigada.com^
 ||nxb8.com^
 ||oi8jg.com^
 ||ojr6n.com^
@@ -3580,6 +3604,7 @@
 ||onbet2.com^
 ||onbet3.com^
 ||onbet7.com^
+||onbet993.com^
 ||one88.club^
 ||one88.com^
 ||one88.fun^
@@ -3901,8 +3926,10 @@
 ||sv388.cam^
 ||sv388.cloud^
 ||sv388.com^
+||sv388.kim^
 ||sv388.mobi^
 ||sv388.net^
+||sv388live.com^
 ||sv388tructiep.com^
 ||sv66c.com^
 ||sv66s.com^
@@ -3920,6 +3947,7 @@
 ||svvs388.com^
 ||svvv288.com^
 ||svvv388.com^
+||svw38.com^
 ||t.mibet.com^
 ||t0gvf.com^
 ||t1.ta88.com^
@@ -4025,6 +4053,9 @@
 ||thevw155.com^
 ||thk8.net^
 ||tho77.com^
+||thomo360.com^
+||thomo888.net^
+||thomohomnay.com^
 ||thuonghieunhacai.com^
 ||thuonghieunhacai.net^
 ||thuongkingfun.biz^
@@ -4044,6 +4075,7 @@
 ||tk88g.com^
 ||to188xj.com^
 ||tobet88.net^
+||tongga88.com^
 ||tool.mibet.com^
 ||top.bet20.bet^
 ||top88.club^
@@ -4060,6 +4092,7 @@
 ||tpviet88.com^
 ||tracking.fabet.vip^
 ||tracking.zbet.vn^
+||traiga.vn^
 ||traigacam.com^
 ||trangchu.app^
 ||trangchu.vip^
@@ -4067,6 +4100,7 @@
 ||trangchu2b.com^
 ||trangchu2c.com^
 ||trangchu2d.com^
+||tructiepdaga.info^
 ||trungso.vip^
 ||trunk.websvn.info^
 ||truyenthongthongtin.com^
@@ -4439,7 +4473,9 @@
 ||x8vn.com^
 ||x8vn.top^
 ||xemdabanh.club^
+||xemdaga.tv^
 ||xemdaga24h.com^
+||xemdagacampuchia.com^
 ||xemkeo188.com^
 ||xemtv.info^
 ||xemtv.live^

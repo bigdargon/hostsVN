@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 20 Jun 2023 16:05 UTC+7
-# Version: 2306201605
-# Blocked: 5,023 domains
+# Last modified: 21 Jun 2023 15:54 UTC+7
+# Version: 2306211554
+# Blocked: 5,059 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -168,6 +168,7 @@
 0.0.0.0 6623.support
 0.0.0.0 666k8vn.com
 0.0.0.0 6677444.com
+0.0.0.0 6686vn76.com
 0.0.0.0 668dg.net
 0.0.0.0 668kbet.com
 0.0.0.0 66ko1.com
@@ -462,6 +463,7 @@
 0.0.0.0 allk8.com
 0.0.0.0 almeriaxxx.com
 0.0.0.0 alo789.com
+0.0.0.0 alo789.vip
 0.0.0.0 alo88.bet
 0.0.0.0 alo888.com
 0.0.0.0 api.118kbet.com
@@ -832,7 +834,22 @@
 0.0.0.0 dafacai360.com
 0.0.0.0 dafakaya.com
 0.0.0.0 dafawin.com
+0.0.0.0 daga.live
+0.0.0.0 daga.win
+0.0.0.0 daga360vn.com
+0.0.0.0 daga88.bet
+0.0.0.0 daga88.com
+0.0.0.0 daga999.live
+0.0.0.0 dagablv.com
+0.0.0.0 dagacampuchia.com
+0.0.0.0 dagacampuchia.io
+0.0.0.0 dagacuadao.org
+0.0.0.0 dagahomqua.com
+0.0.0.0 dagatructiep.casino
+0.0.0.0 dagatructiep.io
 0.0.0.0 dagatructiep24h.net
+0.0.0.0 dagatructiepthomo.live
+0.0.0.0 dagatructuyen.com
 0.0.0.0 daily88uu.com
 0.0.0.0 dailybet365vn.com
 0.0.0.0 dailybong88.com
@@ -1079,6 +1096,9 @@
 0.0.0.0 funtructuyen88.com
 0.0.0.0 fxbg7.com
 0.0.0.0 g9vip.com
+0.0.0.0 ga179.com
+0.0.0.0 gachoic1.com
+0.0.0.0 gachoiviet.com
 0.0.0.0 gam88.org
 0.0.0.0 game.789.club
 0.0.0.0 game.789a.club
@@ -1117,6 +1137,8 @@
 0.0.0.0 gateway.jbovietnam.com
 0.0.0.0 gateway.jbovn.com
 0.0.0.0 gatewayvn.jbovn.com
+0.0.0.0 gatructiep.net
+0.0.0.0 gawin88.com
 0.0.0.0 gdwbetvn888.com
 0.0.0.0 gdwviet.com
 0.0.0.0 gembanca.com
@@ -3515,6 +3537,7 @@
 0.0.0.0 nemo.vin
 0.0.0.0 new.vx88.com
 0.0.0.0 new88.love
+0.0.0.0 new88.tips
 0.0.0.0 new8808.vip
 0.0.0.0 new88111.com
 0.0.0.0 new8884.com
@@ -3555,6 +3578,7 @@
 0.0.0.0 nowbetvn.com
 0.0.0.0 nslokups.com
 0.0.0.0 nt7cd.com
+0.0.0.0 nuoigada.com
 0.0.0.0 nxb8.com
 0.0.0.0 oi8jg.com
 0.0.0.0 ojr6n.com
@@ -3569,6 +3593,7 @@
 0.0.0.0 onbet2.com
 0.0.0.0 onbet3.com
 0.0.0.0 onbet7.com
+0.0.0.0 onbet993.com
 0.0.0.0 one88.club
 0.0.0.0 one88.com
 0.0.0.0 one88.fun
@@ -3883,8 +3908,10 @@
 0.0.0.0 sv388.cam
 0.0.0.0 sv388.cloud
 0.0.0.0 sv388.com
+0.0.0.0 sv388.kim
 0.0.0.0 sv388.mobi
 0.0.0.0 sv388.net
+0.0.0.0 sv388live.com
 0.0.0.0 sv388tructiep.com
 0.0.0.0 sv66c.com
 0.0.0.0 sv66s.com
@@ -3902,6 +3929,7 @@
 0.0.0.0 svvs388.com
 0.0.0.0 svvv288.com
 0.0.0.0 svvv388.com
+0.0.0.0 svw38.com
 0.0.0.0 t.mibet.com
 0.0.0.0 t0gvf.com
 0.0.0.0 t1.ta88.com
@@ -4007,6 +4035,9 @@
 0.0.0.0 thevw155.com
 0.0.0.0 thk8.net
 0.0.0.0 tho77.com
+0.0.0.0 thomo360.com
+0.0.0.0 thomo888.net
+0.0.0.0 thomohomnay.com
 0.0.0.0 thuonghieunhacai.com
 0.0.0.0 thuonghieunhacai.net
 0.0.0.0 thuongkingfun.biz
@@ -4026,6 +4057,7 @@
 0.0.0.0 tk88g.com
 0.0.0.0 to188xj.com
 0.0.0.0 tobet88.net
+0.0.0.0 tongga88.com
 0.0.0.0 tool.mibet.com
 0.0.0.0 top.bet20.bet
 0.0.0.0 top88.club
@@ -4042,6 +4074,7 @@
 0.0.0.0 tpviet88.com
 0.0.0.0 tracking.fabet.vip
 0.0.0.0 tracking.zbet.vn
+0.0.0.0 traiga.vn
 0.0.0.0 traigacam.com
 0.0.0.0 trangchu.app
 0.0.0.0 trangchu.vip
@@ -4049,6 +4082,7 @@
 0.0.0.0 trangchu2b.com
 0.0.0.0 trangchu2c.com
 0.0.0.0 trangchu2d.com
+0.0.0.0 tructiepdaga.info
 0.0.0.0 trungso.vip
 0.0.0.0 trunk.websvn.info
 0.0.0.0 truyenthongthongtin.com
@@ -4965,7 +4999,9 @@
 0.0.0.0 x8vn.com
 0.0.0.0 x8vn.top
 0.0.0.0 xemdabanh.club
+0.0.0.0 xemdaga.tv
 0.0.0.0 xemdaga24h.com
+0.0.0.0 xemdagacampuchia.com
 0.0.0.0 xemkeo188.com
 0.0.0.0 xemtv.info
 0.0.0.0 xemtv.live
