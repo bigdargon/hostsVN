@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 21 Jun 2023 15:54 UTC+7
-! Version: 2306211554
-! Blocked: 3,386 rules
+! Last modified: 22 Jun 2023 14:45 UTC+7
+! Version: 2306221445
+! Blocked: 3,395 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -150,8 +150,11 @@
 ||checkerviet.one^
 ||checkgai.org^
 ||checkgaigoi.blogspot.com^
+||checkgaigoi.cc^
 ||checkgaigoi.co^
 ||checkgaigoi.info^
+||checkgaigoi.one^
+||checkgaigoi.tv^
 ||checkgaigoi.us^
 ||checkgaigoi.xyz^
 ||checkgaiviet.com^
@@ -698,6 +701,7 @@
 ||hentaivl.vip^
 ||hentaivlv.com^
 ||hentaivlz.com^
+||hentaivn.autos^
 ||hentaivn.cc^
 ||hentaivn.com^
 ||hentaivn.de^
@@ -848,6 +852,7 @@
 ||javhd.contact^
 ||javhd.im^
 ||javhd.lol^
+||javhd.moe^
 ||javhd.news^
 ||javhd.ninja^
 ||javhd.page^
@@ -1097,6 +1102,7 @@
 ||mekiep.pro^
 ||mephimsex.com^
 ||mesex.pro^
+||mhuu6.wiki^
 ||migraine-aura.com^
 ||milive.fun^
 ||minosa68.com^
@@ -2580,6 +2586,7 @@
 ||thiendia.club^
 ||thiendia.com^
 ||thiendia.uk^
+||thiendia1.com^
 ||thiendia88.org^
 ||thiendia99.co^
 ||thiendia99.net^
@@ -2892,6 +2899,7 @@
 ||vlxx.media^
 ||vlxx.men^
 ||vlxx.mobi^
+||vlxx.moe^
 ||vlxx.network^
 ||vlxx.pw^
 ||vlxx.rocks^
@@ -2997,6 +3005,7 @@
 ||vuianime.tv^
 ||vuighe.net^
 ||vuisex.net^
+||vznalvek.com^
 ||w1.sextop1.life^
 ||wap3xdep.sextgem.com^
 ||wapsex.wordpress.com^

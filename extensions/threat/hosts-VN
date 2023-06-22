@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 21 Jun 2023 15:54 UTC+7
-# Version: 2306211554
-# Blocked: 3,533 domains
+# Last modified: 22 Jun 2023 14:45 UTC+7
+# Version: 2306221445
+# Blocked: 3,534 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -356,6 +356,7 @@
 0.0.0.0 dien-may-xanh.net
 0.0.0.0 dienlanhnguyenkim.ctyvn.net
 0.0.0.0 dienmayxanh-vn.top
+0.0.0.0 dienmayxanh.fun
 0.0.0.0 dienmayxanh247.com
 0.0.0.0 dienmayxanh24h.com
 0.0.0.0 dienmayxanhantam.com
