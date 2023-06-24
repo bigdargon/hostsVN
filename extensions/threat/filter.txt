@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 22 Jun 2023 14:45 UTC+7
-! Version: 2306221445
-! Blocked: 3,767 rules
+! Last modified: 24 Jun 2023 17:24 UTC+7
+! Version: 2306241724
+! Blocked: 3,770 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -140,6 +140,7 @@
 ||amazonbig.asia^
 ||amazonxk.com^
 ||amg133180.com^
+||amg187208.com^
 ||amnsreiuojy.ru^
 ||anbinh-finance.club^
 ||anceovarec.cfd^
@@ -280,6 +281,7 @@
 ||chamsockhachang.com^
 ||chanle79.me^
 ||chanlemmo.com^
+||chanlemomo.vin^
 ||chanlemomo.zyrosite.com^
 ||checkaccff.com^
 ||checkerviet.win^
@@ -445,6 +447,7 @@
 ||dienmayxanh.fun^
 ||dienmayxanh247.com^
 ||dienmayxanh24h.com^
+||dienmayxanh24h.net^
 ||dienmayxanhantam.com^
 ||dienmayxanhbeauty.com^
 ||dienmayxanhbeautyplus.com^

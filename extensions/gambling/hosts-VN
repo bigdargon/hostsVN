@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 22 Jun 2023 14:45 UTC+7
-# Version: 2306221445
-# Blocked: 5,073 domains
+# Last modified: 24 Jun 2023 17:24 UTC+7
+# Version: 2306241724
+# Blocked: 5,075 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3274,6 +3274,7 @@
 0.0.0.0 loto188ae.com
 0.0.0.0 loto188az.com
 0.0.0.0 loto188vi.com
+0.0.0.0 loto66.com
 0.0.0.0 lp.macauclub.fun
 0.0.0.0 lp.mayclub.net
 0.0.0.0 lp.rikvip.tv
@@ -4434,6 +4435,7 @@
 0.0.0.0 win888b.com
 0.0.0.0 winbet58.live
 0.0.0.0 winbet58.win
+0.0.0.0 winbet99.co
 0.0.0.0 wintbr.com
 0.0.0.0 wm88viet.com
 0.0.0.0 wm88vn.com

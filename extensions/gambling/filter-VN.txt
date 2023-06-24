@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 22 Jun 2023 14:45 UTC+7
-! Version: 2306221445
-! Blocked: 4,549 rules
+! Last modified: 24 Jun 2023 17:24 UTC+7
+! Version: 2306241724
+! Blocked: 4,551 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3284,6 +3284,7 @@
 ||loto188ae.com^
 ||loto188az.com^
 ||loto188vi.com^
+||loto66.com^
 ||lp.macauclub.fun^
 ||lp.mayclub.net^
 ||lp.rikvip.tv^
@@ -4457,6 +4458,7 @@
 ||win888b.com^
 ||winbet58.live^
 ||winbet58.win^
+||winbet99.co^
 ||wintbr.com^
 ||wm88viet.com^
 ||wm88vn.com^

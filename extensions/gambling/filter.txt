@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 22 Jun 2023 14:45 UTC+7
-! Version: 2306221445
-! Blocked: 140,004 rules
+! Last modified: 24 Jun 2023 17:24 UTC+7
+! Version: 2306241724
+! Blocked: 140,006 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -112204,6 +112204,7 @@
 ||loto188vi.com^
 ||loto288.com^
 ||loto388.com^
+||loto66.com^
 ||loto688.com^
 ||lottery90s.com^
 ||lotto432s.com^
@@ -130922,6 +130923,7 @@
 ||winbet77.bet^
 ||winbet91.com^
 ||winbet99.bet^
+||winbet99.co^
 ||winbph.com^
 ||winbtt.com^
 ||wincat88.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 21 Jun 2023 16:26 UTC+7
-# Version: 2306211626
-# Blocked: 1,804 domains
+# Last modified: 24 Jun 2023 17:25 UTC+7
+# Version: 2306241725
+# Blocked: 1,810 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1413,6 +1413,9 @@
 #[log-*.epicdn.me]
 0.0.0.0 log-baodauthau.epicdn.me
 0.0.0.0 log-baogialai.epicdn.me
+0.0.0.0 log-dttc-sggp.epicdn.me
+0.0.0.0 log-en-nhandan.epicdn.me
+0.0.0.0 log-en-sggp.epicdn.me
 0.0.0.0 log-giaoduc.epicdn.me
 0.0.0.0 log-giaoducthoidai.epicdn.me
 0.0.0.0 log-kienthucnet.epicdn.me
@@ -1813,6 +1816,9 @@
 0.0.0.0 liveonline.nhanhoa.com
 0.0.0.0 lmsreport.systems.vn
 0.0.0.0 log-collector.shopee.vn
+0.0.0.0 log-dttc.sggp.org.vn
+0.0.0.0 log-en.nhandan.vn
+0.0.0.0 log-en.sggp.org.vn
 0.0.0.0 log.anninhthudo.vn
 0.0.0.0 log.baobackan.com.vn
 0.0.0.0 log.baocaobang.vn

@@ -2335,6 +2335,7 @@
 #[uc.cn]
 0.0.0.0 ads.uc.cn
 0.0.0.0 adslot.uc.cn
+0.0.0.0 applog-perf.uc.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 applogios.uc.cn
 0.0.0.0 gjapplog.uc.cn
@@ -11156,6 +11157,7 @@
 0.0.0.0 ads.livetv662.me
 0.0.0.0 ads.livetv664.me
 0.0.0.0 ads.livetv670.me
+0.0.0.0 ads.livetv671.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11230,3 +11232,6 @@
 #[trafficbass.com]
 0.0.0.0 trafficbass.com
 0.0.0.0 cdn.trafficbass.com
+#[pixfuture.com]
+0.0.0.0 pixfuture.com
+0.0.0.0 served-by.pixfuture.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 22 Jun 2023 14:45 UTC+7
-! Version: 2306221445
-! Blocked: 3,484 rules
+! Last modified: 24 Jun 2023 17:24 UTC+7
+! Version: 2306241724
+! Blocked: 3,485 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -111,6 +111,7 @@
 ||amazonbig.asia^
 ||amazonxk.com^
 ||amg133180.com^
+||amg187208.com^
 ||anbinh-finance.club^
 ||aodaisieuvietnhi2022.weebly.com^
 ||app.mybigc.net^
@@ -214,6 +215,7 @@
 ||chamsockhachang.com^
 ||chanle79.me^
 ||chanlemmo.com^
+||chanlemomo.vin^
 ||chanlemomo.zyrosite.com^
 ||checkaccff.com^
 ||checkerviet.win^
@@ -355,6 +357,7 @@
 ||dienmayxanh.fun^
 ||dienmayxanh247.com^
 ||dienmayxanh24h.com^
+||dienmayxanh24h.net^
 ||dienmayxanhantam.com^
 ||dienmayxanhbeauty.com^
 ||dienmayxanhbeautyplus.com^
@@ -398,7 +401,6 @@
 ||ebuyy.shop^
 ||edunetworkonlinevietnam.com^
 ||edunetworkvietnam.com.vn^
-||eeeesss.xyz^
 ||emoney2017.com^
 ||emoneyspace.com^
 ||eserbank.com^
@@ -1428,7 +1430,6 @@
 ||ncbbank.online^
 ||ncbbank.site^
 ||nestlegroup.pro^
-||net.lsipes.com^
 ||new-vietcombank.com^
 ||new-vietcombank.info^
 ||new-vietcombank.net^

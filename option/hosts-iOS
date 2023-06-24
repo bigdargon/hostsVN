@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 21 Jun 2023 16:26 UTC+7
-# Version: 2306211626
-# Blocked: 18,589 domains
+# Last modified: 24 Jun 2023 17:25 UTC+7
+# Version: 2306241725
+# Blocked: 18,607 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2141,6 +2141,7 @@
 0 union.ucweb.com
 0 ads.uc.cn
 0 adslot.uc.cn
+0 applog-perf.uc.cn
 0 applog.uc.cn
 0 applogios.uc.cn
 0 gjapplog.uc.cn
@@ -9890,6 +9891,7 @@
 0 ads.livetv662.me
 0 ads.livetv664.me
 0 ads.livetv670.me
+0 ads.livetv671.me
 0 company-target.com
 0 api-staging.company-target.com
 0 c.company-target.com
@@ -9946,6 +9948,8 @@
 0 track.amntx1.net
 0 trafficbass.com
 0 cdn.trafficbass.com
+0 pixfuture.com
+0 served-by.pixfuture.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -11176,6 +11180,9 @@
 0 quangcao-thanhnien.epicdn.me
 0 log-baodauthau.epicdn.me
 0 log-baogialai.epicdn.me
+0 log-dttc-sggp.epicdn.me
+0 log-en-nhandan.epicdn.me
+0 log-en-sggp.epicdn.me
 0 log-giaoduc.epicdn.me
 0 log-giaoducthoidai.epicdn.me
 0 log-kienthucnet.epicdn.me
@@ -11559,6 +11566,9 @@
 0 liveonline.nhanhoa.com
 0 lmsreport.systems.vn
 0 log-collector.shopee.vn
+0 log-dttc.sggp.org.vn
+0 log-en.nhandan.vn
+0 log-en.sggp.org.vn
 0 log.anninhthudo.vn
 0 log.baobackan.com.vn
 0 log.baocaobang.vn
@@ -14660,6 +14670,7 @@
 0 hqtfjugceattb.com
 0 hrgyhgxcbvwxs.com
 0 hrogpodulnhu.com
+0 htlbid.com
 0 httpool.com
 0 htyqiwzunj.com
 0 htyzpilijhki.com
@@ -15246,6 +15257,7 @@
 0 mat.luckyspin666.com
 0 matchcraft.com
 0 matecatenae.com
+0 materialplayground.com
 0 mathcountryside.com
 0 matheranalytics.com
 0 matomy.com
@@ -15315,6 +15327,7 @@
 0 meo257na3rch.com
 0 meowpushnot.com
 0 merzostueru2hu8jr09.com
+0 mesallysavor.tech
 0 mesangefanwise.tech
 0 meshpetrols.com
 0 messagenovice.com
@@ -15791,6 +15804,7 @@
 0 orbsclawand.com
 0 orest-vlv.com
 0 organizationwoundedvast.com
+0 origanfumier.digital
 0 orige-duo.com
 0 orion-gen.com
 0 oriori.com
@@ -18087,6 +18101,7 @@
 0 d24rtvkqjwgutp.cloudfront.net
 0 d2klx87bgzngce.cloudfront.net
 0 d2r1yp2w7bby2u.cloudfront.net
+0 d2uhnetoehh304.cloudfront.net
 0 d2wy8f7a9ursnm.cloudfront.net
 0 d2yyd1h5u9mauk.cloudfront.net
 0 d38fey2d93vryi.cloudfront.net
@@ -18247,6 +18262,7 @@
 0 metrics.beyondwords.io
 0 metrics.brightcove.com
 0 metrics.cloudflarebolt.com
+0 metrics.kmsmep.com
 0 metrics.roblox.com
 0 metrics.sdkbox.com
 0 mktoresp.com
@@ -18329,6 +18345,7 @@
 0 relay.fiverr.com
 0 remyyadan.online.fr
 0 report.uc.heytapmobi.com
+0 reporting-api.gannettinnovation.com
 0 reports.ubimo.com
 0 rfpx1.com
 0 richmetrics.com
@@ -18497,6 +18514,7 @@
 0 tracking.musixmatch.com
 0 tracking.scenepass.com
 0 trackingflaregames.net
+0 traxex.gannettdigital.com
 0 triggers.wfxtriggers.com
 0 trk.clinch.co
 0 truehits.in.th
