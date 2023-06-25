@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 24 Jun 2023 17:24 UTC+7
-! Version: 2306241724
-! Blocked: 3,485 rules
+! Last modified: 25 Jun 2023 22:34 UTC+7
+! Version: 2306252234
+! Blocked: 3,488 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -115,6 +115,7 @@
 ||anbinh-finance.club^
 ||aodaisieuvietnhi2022.weebly.com^
 ||app.mybigc.net^
+||app.senaobz.cc^
 ||app.zingmp3.pro^
 ||apphdbank.fun^
 ||apple-vn.shop^
@@ -367,6 +368,7 @@
 ||dienmayxanhtantam.com^
 ||dienmayxanhtrungtam.com^
 ||dienthoaiviet.net^
+||dmxvip.com^
 ||do002.com^
 ||do005.com^
 ||doctromtinnhan.com^
@@ -2880,6 +2882,7 @@
 ||vaytieudung-vietinbank.com^
 ||vaytieudungtinchaptpbank.com^
 ||vaytieudungtpbank.weebly.com^
+||vaytieudungvpcredit.com^
 ||vaytinchap-nganhangvcb247.com^
 ||vaytinchap-shinhan.com^
 ||vaytinchap-shinhanbank247.online^
