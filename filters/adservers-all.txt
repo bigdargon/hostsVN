@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 25 Jun 2023 22:35 UTC+7
-! Version: 2306252235
-! Blocked: 9,345 rules
+! Last modified: 26 Jun 2023 10:29 UTC+7
+! Version: 2306261029
+! Blocked: 9,348 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2591,6 +2591,7 @@
 ||wensixuetang.com^
 ||wg-aff.com^
 ||winadx.com^
+||wisepops.com^
 ||wiztube.xyz^
 ||wkclick.baidu.com^
 ||wkctj.baidu.com^
@@ -6295,6 +6296,7 @@
 ||lfstmedia.com^
 ||lgglobal.ihago.net^
 ||lgkdnlienpynmn.com^
+||lhgwyrecj.com^
 ||liaisondegreedaughters.com^
 ||lib.vmweb.net^
 ||libedgolart.com^
@@ -8528,6 +8530,7 @@
 ||tibacta.com^
 ||ticklesign.com^
 ||tidaltv.com^
+||tiijdxto.com^
 ||tilanalytics.timesinternet.in^
 ||tinybar.com^
 ||tipcatscarola.com^
@@ -9009,6 +9012,7 @@
 ||waymarkgentiin.com^
 ||wbilvnmool.com^
 ||wc-tracking.lavasoft.com^
+||wcadlxvbjus.com^
 ||wcofweagvafx.com^
 ||wcuamsmakq.com^
 ||wda.com^
@@ -9105,7 +9109,6 @@
 ||winneradsmedia.com^
 ||wirecomic.com^
 ||wiseguypedicab.digital^
-||wisepops.com^
 ||witch-counter.de^
 ||withersserdabs.guru^
 ||withinknuko.club^
