@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 25 Jun 2023 22:34 UTC+7
-# Version: 2306252234
-# Blocked: 5,080 domains
+# Last modified: 27 Jun 2023 14:52 UTC+7
+# Version: 2306271452
+# Blocked: 5,081 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1287,6 +1287,7 @@
 0.0.0.0 i9bet59.com
 0.0.0.0 i9bet6.com
 0.0.0.0 i9bet62.com
+0.0.0.0 i9bet63.com
 0.0.0.0 i9bet64.com
 0.0.0.0 i9bet666.com
 0.0.0.0 i9bet6688.com
