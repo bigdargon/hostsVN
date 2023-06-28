@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 27 Jun 2023 14:52 UTC+7
-# Version: 2306271452
-# Blocked: 140,955 domains
+# Last modified: 28 Jun 2023 09:33 UTC+7
+# Version: 2306280933
+# Blocked: 140,962 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -79793,6 +79793,8 @@
 0.0.0.0 api.f8bet0.com
 0.0.0.0 api.f8bet5.com
 0.0.0.0 api.fb88.company
+0.0.0.0 api.fbdata.xyz
+0.0.0.0 api.fbhub.xyz
 0.0.0.0 api.go88r.pro
 0.0.0.0 api.hb8887.com
 0.0.0.0 api.hb88a.com
@@ -79886,6 +79888,8 @@
 0.0.0.0 api.vnq8.net
 0.0.0.0 api.vx88.com
 0.0.0.0 api2-gateway.go88.com
+0.0.0.0 api4.b5ipcoleser.net
+0.0.0.0 api6.b5ipcoleser.net
 0.0.0.0 api88888.com
 0.0.0.0 apiabo.com
 0.0.0.0 apicmsdl.loc89.fun
@@ -88877,6 +88881,7 @@
 0.0.0.0 chobet.com
 0.0.0.0 chobet1.com
 0.0.0.0 chobetcs.com
+0.0.0.0 choi.gameb52a.me
 0.0.0.0 choi.playiwin.uk
 0.0.0.0 choi77.com
 0.0.0.0 choi99.com
@@ -96382,6 +96387,7 @@
 0.0.0.0 gameapi.w88.vin
 0.0.0.0 gameb52.live
 0.0.0.0 gameb52.pro
+0.0.0.0 gameb52a.me
 0.0.0.0 gamebai.club
 0.0.0.0 gamebai.manclub.us
 0.0.0.0 gamebai.manclub.vin
@@ -102499,6 +102505,7 @@
 0.0.0.0 i9bet77.com
 0.0.0.0 i9bet777.com
 0.0.0.0 i9bet8.com
+0.0.0.0 i9bet86.com
 0.0.0.0 i9bet88.com
 0.0.0.0 i9bet888.com
 0.0.0.0 i9bet9.com

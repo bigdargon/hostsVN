@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 27 Jun 2023 14:52 UTC+7
-! Version: 2306271452
-! Blocked: 140,012 rules
+! Last modified: 28 Jun 2023 09:33 UTC+7
+! Version: 2306280933
+! Blocked: 140,019 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -79804,6 +79804,8 @@
 ||api.f8bet0.com^
 ||api.f8bet5.com^
 ||api.fb88.company^
+||api.fbdata.xyz^
+||api.fbhub.xyz^
 ||api.go88r.pro^
 ||api.hb8887.com^
 ||api.hb88a.com^
@@ -79897,6 +79899,8 @@
 ||api.vnq8.net^
 ||api.vx88.com^
 ||api2-gateway.go88.com^
+||api4.b5ipcoleser.net^
+||api6.b5ipcoleser.net^
 ||api88888.com^
 ||apiabo.com^
 ||apicmsdl.loc89.fun^
@@ -88889,6 +88893,7 @@
 ||chobet.com^
 ||chobet1.com^
 ||chobetcs.com^
+||choi.gameb52a.me^
 ||choi.playiwin.uk^
 ||choi77.com^
 ||choi99.com^
@@ -96405,6 +96410,7 @@
 ||gameapi.w88.vin^
 ||gameb52.live^
 ||gameb52.pro^
+||gameb52a.me^
 ||gamebai.club^
 ||gamebai.manclub.us^
 ||gamebai.manclub.vin^
@@ -102527,6 +102533,7 @@
 ||i9bet77.com^
 ||i9bet777.com^
 ||i9bet8.com^
+||i9bet86.com^
 ||i9bet88.com^
 ||i9bet888.com^
 ||i9bet9.com^
