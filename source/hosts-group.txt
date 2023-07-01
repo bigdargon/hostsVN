@@ -5036,6 +5036,7 @@
 0.0.0.0 aj1621.online
 0.0.0.0 aj1622.online
 0.0.0.0 aj1686.online
+0.0.0.0 aj1716.online
 0.0.0.0 aj1754.online
 0.0.0.0 aj1775.online
 0.0.0.0 aj1855.online
@@ -5097,6 +5098,7 @@
 0.0.0.0 ajx272.online
 0.0.0.0 ajx291.online
 0.0.0.0 ajxx91.online
+0.0.0.0 ajxx98.online
 #[ad.plus]
 0.0.0.0 ad.plus
 0.0.0.0 cdn.ad.plus
@@ -9259,12 +9261,8 @@
 0.0.0.0 b91vip.com
 0.0.0.0 image.b91vip.com
 0.0.0.0 www.b91vip.com
-#[ak-is.net]
-0.0.0.0 ak-is.net
-0.0.0.0 rtb-xs.ak-is.net
-0.0.0.0 www.ak-is.net
-0.0.0.0 xml.ak-is.net
 #[ak-is2.net]
+0.0.0.0 1.cpm.ak-is2.net
 0.0.0.0 acertb.xml.ak-is2.net
 0.0.0.0 ad-maven.xml-eu.ak-is2.net
 0.0.0.0 ad-maven.xml.ak-is2.net
@@ -9313,6 +9311,7 @@
 0.0.0.0 skinkexchange.fs.ak-is2.net
 0.0.0.0 topdealad.xml.ak-is2.net
 0.0.0.0 trafficmoose.xml.ak-is2.net
+0.0.0.0 unibots.cpm.ak-is2.net
 0.0.0.0 upperseeker.xml.ak-is2.net
 0.0.0.0 userwave.xml.ak-is2.net
 0.0.0.0 vertoz.xml.ak-is2.net
@@ -10978,6 +10977,7 @@
 #[unibots.in]
 0.0.0.0 api.unibots.in
 0.0.0.0 cdn.unibots.in
+0.0.0.0 cpm.unibots.in
 0.0.0.0 unibots.in
 0.0.0.0 vdo.unibots.in
 #[unibotscdn.com]
@@ -11159,6 +11159,7 @@
 0.0.0.0 ads.livetv670.me
 0.0.0.0 ads.livetv671.me
 0.0.0.0 ads.livetv673.me
+0.0.0.0 ads.livetv676.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11239,3 +11240,16 @@
 #[wisepops.com]
 0.0.0.0 loader.wisepops.com
 0.0.0.0 wisepops.com
+#[mediago.io]
+0.0.0.0 ads.mediago.io
+0.0.0.0 adx.mediago.io
+0.0.0.0 clk.mediago.io
+0.0.0.0 images.mediago.io
+0.0.0.0 mediago.io
+0.0.0.0 trace.mediago.io
+#[i18n-pglstatp.com]
+0.0.0.0 i18n-pglstatp.com
+0.0.0.0 sf16-static.i18n-pglstatp.com
+#[ubembed.com]
+0.0.0.0 ubembed.com
+0.0.0.0 assets.ubembed.com

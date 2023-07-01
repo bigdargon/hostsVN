@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 29 Jun 2023 10:44 UTC+7
-# Version: 2306291044
-# Blocked: 4,558 domains
+# Last modified: 01 Jul 2023 22:41 UTC+7
+# Version: 2307012241
+# Blocked: 4,564 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -882,6 +882,7 @@
 0.0.0.0 dk.choiwin79.net
 0.0.0.0 dk.gamequyong.xyz
 0.0.0.0 dk.rikkk.net
+0.0.0.0 dk.thangiwin.org
 0.0.0.0 dk.topcc88.me
 0.0.0.0 dk.vaorikvip.net
 0.0.0.0 dk8.games
@@ -3406,6 +3407,7 @@
 0.0.0.0 sv388live.com
 0.0.0.0 sv388tructiep.com
 0.0.0.0 sv66c.com
+0.0.0.0 sv66qc9.com
 0.0.0.0 sv66s.com
 0.0.0.0 sv88.club
 0.0.0.0 sv88.com
@@ -3461,9 +3463,12 @@
 0.0.0.0 taib52.com
 0.0.0.0 taib52.vin
 0.0.0.0 taichoang.fun
+0.0.0.0 taido99.win
 0.0.0.0 taigame789.club
 0.0.0.0 taigamesunwin.vin
 0.0.0.0 taigamesunwin.vip
+0.0.0.0 taigenvip.club
+0.0.0.0 taigenvip88.club
 0.0.0.0 taigo88vn.com
 0.0.0.0 taigo88vn.pro
 0.0.0.0 taihit.win
@@ -3511,6 +3516,7 @@
 0.0.0.0 thailandk8.net
 0.0.0.0 thailanthwin.com
 0.0.0.0 thailanthwin.net
+0.0.0.0 thangiwin.org
 0.0.0.0 thangtien188bet.com
 0.0.0.0 thantai68.com
 0.0.0.0 thao88.com

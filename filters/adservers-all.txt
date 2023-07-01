@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 29 Jun 2023 10:45 UTC+7
-! Version: 2306291045
-! Blocked: 9,456 rules
+! Last modified: 01 Jul 2023 22:41 UTC+7
+! Version: 2307012241
+! Blocked: 9,484 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1162,7 +1162,6 @@
 ||aj2*.online^
 ||ajx*.online^
 ||ak-events-collector.spot.im^
-||ak-is.net^
 ||ak-is2.net^
 ||ak-ns.sascdn.com^
 ||ak.sascdn.com^
@@ -1785,6 +1784,7 @@
 ||hummingbird.mavencoalition.io^
 ||hwstats.unity3d.com^
 ||i-mobile.co.jp^
+||i18n-pglstatp.com^
 ||ia.51.la^
 ||iad-01.braze.com^
 ||iad-02.braze.com^
@@ -1968,6 +1968,7 @@
 ||media01.eu^
 ||mediaforge.com^
 ||mediafuse.com^
+||mediago.io^
 ||mediaintelligence.de^
 ||medialytics.com^
 ||mediams.mb.softbank.jp^
@@ -2507,6 +2508,7 @@
 ||tvpixel.com^
 ||twiago.com^
 ||tynt.com^
+||ubembed.com^
 ||uc.ucweb.com^
 ||ucads.ucweb.com^
 ||udbdf-v2.nimo.tv^
@@ -3622,6 +3624,7 @@
 ||ahscdn.com^
 ||ahtomjpzymf.com^
 ||ahura-maz.com^
+||aibsgc.com^
 ||aihoasso.net^
 ||ailalbapt.club^
 ||ailpielei.com^
@@ -3633,6 +3636,7 @@
 ||airdropemboil.com^
 ||airlinerappetizingcoast.com^
 ||aistat.net^
+||ajar-substance.com^
 ||ajfnee.com^
 ||ajkoplopnza.com^
 ||ajouter.net^
@@ -3735,6 +3739,7 @@
 ||analytics.jumboprivacy.com^
 ||analytics.keepstreams.com^
 ||analytics.kidoz.net^
+||analytics.livestream.com^
 ||analytics.mailmunch.co^
 ||analytics.mobilegamestats.com^
 ||analytics.myfinance.com^
@@ -4198,6 +4203,7 @@
 ||bestadbid.com^
 ||bestboundary.com^
 ||bestcond1tions.com^
+||bestcpmnetwork.com^
 ||bestdisplayformats.com^
 ||besthealthblog.pro^
 ||bestsearch.net^
@@ -4515,6 +4521,7 @@
 ||chart.dk^
 ||chaumsee.net^
 ||cheap-result.pro^
+||checkbookdisgusting.com^
 ||checkm8.com^
 ||checkstat.nl^
 ||checkyofeed.com^
@@ -4642,6 +4649,7 @@
 ||closureevaporatefume.com^
 ||cloudcoins.biz^
 ||cloudcollect.meitudata.com^
+||cloudembed.net^
 ||clrstm.com^
 ||cls.vrvm.com^
 ||cluster.adultworld.com^
@@ -4659,6 +4667,7 @@
 ||cogwoodwelder.com^
 ||coherentgleaminglone.com^
 ||coin-hive.com^
+||coinblocktyrusmiram.com^
 ||coinhive.com^
 ||cointraffic.io^
 ||coinzillatag.com^
@@ -4861,7 +4870,9 @@
 ||d1fc8wv8zag5ca.cloudfront.net^
 ||d1lzoljld5a2bc.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
+||d1nssfq3xl2t6b.cloudfront.net^
 ||d1pn3cn3ri604k.cloudfront.net^
+||d1vl8wytztdz.cloudfront.net^
 ||d1wix2gc2cgqis.cloudfront.net^
 ||d1yu67rmchodpo.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
@@ -4869,6 +4880,7 @@
 ||d21y75miwcfqoq.cloudfront.net^
 ||d24n15hnbwhuhn.cloudfront.net^
 ||d24rtvkqjwgutp.cloudfront.net^
+||d2bxxk33t58v29.cloudfront.net^
 ||d2c8v52ll5s99u.cloudfront.net^
 ||d2cmedia.ca^
 ||d2ers4gi7coxau.cloudfront.net^
@@ -4891,6 +4903,7 @@
 ||d3beefy8kd1pr7.cloudfront.net^
 ||d3cod80thn7qnd.cloudfront.net^
 ||d3cpib6kv2rja7.cloudfront.net^
+||d3f4nuq5dskrej.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
 ||d3mr7y154d2qg5.cloudfront.net^
 ||d3mzokty951c5w.cloudfront.net^
@@ -4917,8 +4930,10 @@
 ||dakic-ia-300.com^
 ||dalyai.com^
 ||dalyio.com^
+||dalymix.com^
 ||dalysb.com^
 ||dalysh.com^
+||dalysv.com^
 ||damaged-shop.pro^
 ||damdoor.com^
 ||danban.com^
@@ -5268,6 +5283,7 @@
 ||enlarget.com^
 ||enoratraffic.com^
 ||enquisite.com^
+||enrichyummy.com^
 ||ensetepoggies.com^
 ||entercasino.com^
 ||enthusiasticdad.com^
@@ -5639,6 +5655,7 @@
 ||glizauvo.net^
 ||gloalrie.com^
 ||gloaphoo.net^
+||global.ketchcdn.com^
 ||globalismedia.com^
 ||globaltakeoff.net^
 ||globaltrack.com^
@@ -7554,6 +7571,7 @@
 ||protexting.com^
 ||proton-tm.com^
 ||protraffic.com^
+||proverbnoncommittalvault.com^
 ||provexia.com^
 ||providentsopport.site^
 ||providingcrechepartnership.com^
@@ -7772,6 +7790,7 @@
 ||receptivereaction.com^
 ||recessgrimp.space^
 ||recharsemiarc.com^
+||reclinesudden.com^
 ||reconditerake.com^
 ||record.bonniergaming.com^
 ||record.mrwin.com^
@@ -8048,6 +8067,7 @@
 ||seapolo.com^
 ||searchad-phinf.pstatic.net^
 ||searchfeast.com^
+||searchmagnified.com^
 ||searchmarketing.com^
 ||searchramp.com^
 ||secretivecub.com^
@@ -8173,6 +8193,7 @@
 ||skynightmidm.com^
 ||slaresolidi.com^
 ||slatnea.com^
+||sleeknote.com^
 ||sleepcartoon.com^
 ||sleevedcaelum.com^
 ||slickaffiliate.com^
@@ -8230,6 +8251,7 @@
 ||softclick.com.br^
 ||soidc.com^
 ||solemik.com^
+||solestudious.com^
 ||soliads.net^
 ||solitudepeeves.com^
 ||sombersea.com^
@@ -8396,6 +8418,7 @@
 ||stroyerveneres.com^
 ||structurerod.com^
 ||stuiop.com^
+||stumbleaugmentlistless.com^
 ||stunninglover.com^
 ||stunthedge.com^
 ||stupendoussleet.com^
@@ -8674,6 +8697,7 @@
 ||topblockchainsolutions.nl^
 ||topblogarea.se^
 ||topbucks.com^
+||topdisplaycontent.com^
 ||topdisplayformat.com^
 ||topdisplaynetwork.com^
 ||topforall.com^
@@ -8819,6 +8843,7 @@
 ||trustedgatetocontent.com^
 ||trustednotice.news^
 ||trusterejecta.com^
+||trustlearningclearly.com^
 ||truthful-quote.pro^
 ||tsiwqtng8huauw30n.com^
 ||tsyndolls.com^
@@ -8867,6 +8892,7 @@
 ||uciservice.com^
 ||ucxfdvhuqwpig.com^
 ||udinugoo.com^
+||udmserve.net^
 ||ueikno.com^
 ||uejwqbgtjxdw.com^
 ||ueypzubwo.com^
@@ -8956,6 +8982,7 @@
 ||uthyr-que.com^
 ||utils.mediageneral.net^
 ||utimg.ru^
+||utt.impactcdn.com^
 ||uttermosthobbies.com^
 ||utubepwhml.com^
 ||uwoaptee.com^
@@ -9121,6 +9148,7 @@
 ||wc-tracking.lavasoft.com^
 ||wcadlxvbjus.com^
 ||wcofweagvafx.com^
+||wct-2.com^
 ||wcuamsmakq.com^
 ||wda.com^
 ||wdads.sx.atl.publicus.com^
