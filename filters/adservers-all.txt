@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 01 Jul 2023 22:41 UTC+7
-! Version: 2307012241
-! Blocked: 9,484 rules
+! Last modified: 02 Jul 2023 22:26 UTC+7
+! Version: 2307022226
+! Blocked: 9,486 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -834,6 +834,7 @@
 ||vietbuzzad.com^
 ||vietdorje.com^
 ||vinaads.vn^
+||vipads.live^
 ||vlxx.host^
 ||vn.alexajstrack.com^
 ||vnadssb.com^
@@ -3301,6 +3302,7 @@
 ||ads.videosz.com^
 ||ads.virtual-nights.com^
 ||ads.virtualcountries.com^
+||ads.vnd89.com^
 ||ads.vnumedia.com^
 ||ads.wapx.cn^
 ||ads.watson.ch^
