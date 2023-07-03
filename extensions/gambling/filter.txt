@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 03 Jul 2023 10:38 UTC+7
-! Version: 2307031038
-! Blocked: 148,718 rules
+! Last modified: 03 Jul 2023 21:36 UTC+7
+! Version: 2307032136
+! Blocked: 148,829 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5263,6 +5263,7 @@
 ||1019wns.com^
 ||1019x.com^
 ||101aa.net^
+||101ae888.com^
 ||101hgv.com^
 ||101kgr.com^
 ||101p456.com^
@@ -32331,6 +32332,7 @@
 ||3336618.com^
 ||3336653.com^
 ||3336657.com^
+||333666.buzz^
 ||333666a.com^
 ||333666b.com^
 ||333666d.com^
@@ -68082,12 +68084,14 @@
 ||78976.vip^
 ||78977.app^
 ||789789.bet^
+||7897890.bet^
 ||7897890.vip^
 ||78978900.vip^
 ||7897891.vip^
 ||78978911.vip^
 ||78978912.com^
 ||78978912.net^
+||7897892.bet^
 ||7897892.vip^
 ||78978922.vip^
 ||7897893.bet^
@@ -87516,6 +87520,7 @@
 ||app-9778.com^
 ||app-mipayapp.com^
 ||app.228kbet.com^
+||app.333666.buzz^
 ||app.8kbet.vn^
 ||app.betlv.com^
 ||app.k8cc.com^
@@ -91509,6 +91514,7 @@
 ||bet88012.com^
 ||bet88013.com^
 ||bet88014.com^
+||bet88099.com^
 ||bet88188.com^
 ||bet88365.com^
 ||bet884444.com^
@@ -92689,6 +92695,7 @@
 ||bk-stavkabet.com^
 ||bk1x.mobi^
 ||bk1xbet.mobi^
+||bk368.com^
 ||bk5388.com^
 ||bk6188.com^
 ||bk639.com^
@@ -96157,6 +96164,7 @@
 ||casino.netbet.it^
 ||casino.synottip.cz^
 ||casino1lobby.com^
+||casino5168.com^
 ||casino599.com^
 ||casino6163.com^
 ||casino777vip.com^
@@ -96177,6 +96185,7 @@
 ||casinogamerelease.com^
 ||casinogamesk8.imgix.net^
 ||casinoitalia.com^
+||casinoku.net^
 ||casinomax.com^
 ||casinomcw.com^
 ||casinomiravallepalace.com^
@@ -96376,6 +96385,7 @@
 ||cdzxs.asia^
 ||ce02ly.live^
 ||ce3542.com^
+||ce358.ku16.net^
 ||ce5qdz.vip^
 ||ce5tc.com^
 ||ce9889.com^
@@ -99955,6 +99965,7 @@
 ||dy1ae.vip^
 ||dy200.app^
 ||dy3014.com^
+||dy31111.ku11.net^
 ||dy37.com^
 ||dy37.cool^
 ||dy37b.com^
@@ -101176,6 +101187,8 @@
 ||ewxfm5.vip^
 ||ewxix.win^
 ||ex.8xbet66.com.cn^
+||ex5888.com^
+||ex589.com^
 ||exbnm.com^
 ||exgwaqhmsm.com^
 ||exhhcxd.xyz^
@@ -117867,6 +117880,7 @@
 ||king08.xyz^
 ||king09.xyz^
 ||king11.xyz^
+||king29.net^
 ||king460.com^
 ||king66.vin^
 ||king668.vip^
@@ -117874,6 +117888,9 @@
 ||king686.xyz^
 ||king687.xyz^
 ||king688.xyz^
+||king91.net^
+||king92.bet^
+||king93.net^
 ||king96.net^
 ||kingbet86.app^
 ||kingbet86.com^
@@ -118545,6 +118562,7 @@
 ||koikoibudakne.com^
 ||kok0996.com^
 ||kok1.icu^
+||kok5588.net^
 ||kondoball.com^
 ||konduangdee.com^
 ||koqipai.com^
@@ -118927,17 +118945,36 @@
 ||ku1169.net^
 ||ku1186.net^
 ||ku1189.net^
+||ku128.com^
 ||ku1289.com^
 ||ku1468.com^
+||ku1533.net^
+||ku1556.net^
+||ku156.net^
+||ku158.com^
+||ku16.net^
+||ku162.net^
+||ku1628.net^
+||ku165.net^
+||ku1652.net^
 ||ku166.net^
 ||ku16868.com^
+||ku172.net^
+||ku173.net^
+||ku175.net^
+||ku176.net^
+||ku181.net^
 ||ku19.net^
+||ku193.net^
 ||ku2.link^
 ||ku20688.com^
 ||ku2289.com^
+||ku238.com^
 ||ku2468.com^
+||ku255.com^
 ||ku26868.com^
 ||ku28288.com^
+||ku298.com^
 ||ku3.link^
 ||ku30688.com^
 ||ku3289.com^
@@ -118945,40 +118982,86 @@
 ||ku3468.com^
 ||ku36868.com^
 ||ku38288.com^
+||ku390.com^
+||ku3968.com^
 ||ku40688.com^
 ||ku4289.com^
 ||ku4468.com^
+||ku458.com^
 ||ku46868.com^
 ||ku48288.com^
 ||ku4club.mobi^
 ||ku50688.com^
+||ku5133.com^
+||ku5133.net^
+||ku51333.net^
+||ku5156.com^
+||ku5156.net^
+||ku51566.net^
 ||ku5289.com^
 ||ku5468.com^
+||ku5511.net^
+||ku55111.net^
 ||ku558.net^
+||ku568.com^
 ||ku56868.com^
 ||ku5722.net^
 ||ku58288.com^
 ||ku60688.com^
 ||ku6101.club^
+||ku6101.com^
 ||ku6101.net^
+||ku6102.net^
 ||ku6106.net^
+||ku6107.net^
 ||ku6108.icu^
 ||ku6110.net^
+||ku6112.net^
+||ku6113.net^
+||ku6120.net^
+||ku61211.net^
+||ku61222.net^
 ||ku6123.icu^
+||ku6124.net^
+||ku61266.net^
+||ku6127.net^
+||ku6128.com^
+||ku6128.net^
+||ku61288.net^
+||ku6129.net^
 ||ku6131.net^
+||ku6136.net^
+||ku6150.net^
+||ku6151.net^
+||ku6152.com^
+||ku6152.net^
+||ku61522.net^
+||ku6153.net^
+||ku6160.net^
+||ku6162.net^
+||ku6170.net^
+||ku6180.net^
+||ku6182.net^
 ||ku6289.com^
 ||ku6468.com^
+||ku666666.net^
+||ku6675.net^
+||ku6678.net^
 ||ku66868.com^
 ||ku68288.com^
+||ku6968.com^
 ||ku70688.com^
 ||ku711.asia^
+||ku721.com^
 ||ku7289.com^
 ||ku7468.com^
 ||ku76868.com^
 ||ku77.icu^
 ||ku777bet.com^
+||ku78.com^
 ||ku78288.com^
 ||ku789nerverdie.fun^
+||ku7968.com^
 ||ku80688.com^
 ||ku8289.com^
 ||ku8468.com^
@@ -118994,6 +119077,7 @@
 ||ku96868.com^
 ||ku9889.com^
 ||ku9918.com^
+||ku998.com^
 ||ku998.net^
 ||kuaicai.me^
 ||kuaileus.com^
@@ -119002,6 +119086,7 @@
 ||kuangcs.vip^
 ||kuangzt.vip^
 ||kubaoshi.com^
+||kubct.net^
 ||kubet.ac^
 ||kubet.ai^
 ||kubet.biz^
@@ -119050,6 +119135,8 @@
 ||kucasino68.net^
 ||kucasino88.com^
 ||kucasinovn.asia^
+||kucdn.net^
+||kucdn2.com^
 ||kucingkawangua.com^
 ||kuclub9.com^
 ||kucudia.xyz^
@@ -124949,6 +125036,7 @@
 ||nutanix686.com^
 ||nutanixpro2.info^
 ||nuu613.com^
+||nv.ku6107.net^
 ||nv88.net^
 ||nv88.org^
 ||nv88.site^
@@ -127218,6 +127306,7 @@
 ||play.rikgame.live^
 ||play.rikvip.tv^
 ||play.sbotop246.com^
+||play.sum4.club^
 ||play.taib52.com^
 ||play.top88.uk^
 ||play.top88.us^
@@ -130205,8 +130294,10 @@
 ||sa272.com^
 ||sa4yh.com^
 ||sa5555.net^
+||sa8888.net^
 ||sa8899.net^
 ||sa89dd.com^
+||sa9999.net^
 ||saa2023.com^
 ||saa688.com^
 ||saaasj.xyz^
@@ -131353,6 +131444,7 @@
 ||sm6t.com^
 ||sm811.com^
 ||sm822.com^
+||sm8853.net^
 ||sm9955.com^
 ||smallbigband.com^
 ||smart.8live.com^
@@ -131787,6 +131879,7 @@
 ||sukien.fcb88.com^
 ||sukses12.com^
 ||sultanbet.com^
+||sum4.club^
 ||summer556.com^
 ||sumvine.xyz^
 ||sumvip88.club^
@@ -132805,6 +132898,7 @@
 ||tais7.top^
 ||tais7.vip^
 ||taishangjunjun.com^
+||taisum.co^
 ||taiuwin.com^
 ||taiuwin.xyz^
 ||taiv8.com^
@@ -132856,7 +132950,9 @@
 ||tb8227.com^
 ||tb8848.com^
 ||tbab395.com^
+||tbab535.com^
 ||tbab679.com^
+||tbab953.com^
 ||tbbbet.com^
 ||tbeyd.com^
 ||tbfujian.com^
@@ -132978,6 +133074,8 @@
 ||tdtcyy.com^
 ||tdtczz.com^
 ||te57.com^
+||te7.com.tw^
+||te77.net^
 ||teamclo.xyz^
 ||teamsbo.com^
 ||teh1xbet.com^
@@ -133062,7 +133160,12 @@
 ||th-1xbet.com^
 ||th-lm.jbovietnam.com^
 ||th-managment.com^
+||th.ku5133.net^
+||th.ku5156.net^
 ||th.ku5722.net^
+||th.ku6128.net^
+||th.ku6152.net^
+||th.ku6678.net^
 ||th12bet.com^
 ||th18eight.com^
 ||th1eight8.com^
@@ -133205,6 +133308,7 @@
 ||thitdong.com^
 ||thjbo.com^
 ||thk8.net^
+||thkucdn.net^
 ||tho688.com^
 ||tho77.com^
 ||thomo360.com^
@@ -136424,6 +136528,7 @@
 ||vao789club.win^
 ||vaobolucky88.club^
 ||vaobongnhanh88.com^
+||vaoku.net^
 ||vaorikvip.com^
 ||vaorikvip.net^
 ||varba.win^
@@ -137209,6 +137314,7 @@
 ||vn.solarbet.com^
 ||vn.solbet88.com^
 ||vn.tbab556.com^
+||vn.tbab953.com^
 ||vn.vndbetway.com^
 ||vn0025.com^
 ||vn0026.com^
@@ -137291,6 +137397,7 @@
 ||vn138z.top^
 ||vn1610.com^
 ||vn188bong.com^
+||vn2.ku6102.net^
 ||vn2.ku6122.net^
 ||vn2126.com^
 ||vn2230.com^
@@ -137482,6 +137589,7 @@
 ||vngame66.com^
 ||vngoal88.com^
 ||vngys.com^
+||vnkucdn.net^
 ||vnkv99.com^
 ||vnloto.com^
 ||vnloto.vip^
@@ -138662,6 +138770,7 @@
 ||w88silver.com^
 ||w88so.com^
 ||w88soikeo.com^
+||w88st.com^
 ||w88tel.com^
 ||w88thpro.com^
 ||w88thweb.com^
@@ -148465,6 +148574,7 @@
 ||zo.club^
 ||zo.game^
 ||zo1.win^
+||zo5858.net^
 ||zo88.org^
 ||zobet88.com^
 ||zodgm.wang^
@@ -148482,6 +148592,7 @@
 ||zot123d.app^
 ||zot123g.app^
 ||zottl.site^
+||zoty89.com^
 ||zou18190.com^
 ||zovn789.com^
 ||zowinvn.vip^

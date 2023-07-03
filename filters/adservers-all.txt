@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Jul 2023 22:26 UTC+7
-! Version: 2307022226
-! Blocked: 9,486 rules
+! Last modified: 03 Jul 2023 21:36 UTC+7
+! Version: 2307032136
+! Blocked: 9,498 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -861,6 +861,7 @@
 ||2468.go2cloud.org^
 ||24smi.net^
 ||2leep.com^
+||2mdn-cn.net^
 ||2mdnsys.com^
 ||2performant.com^
 ||33across.com^
@@ -985,6 +986,7 @@
 ||admixer.co.kr^
 ||admixer.com^
 ||admixer.net^
+||admob-cn.com^
 ||admob.com^
 ||admobclick.com^
 ||admost-banner.b-cdn.net^
@@ -1589,6 +1591,7 @@
 ||doppler-reporting.cbsivideo.com^
 ||dotmetrics.net^
 ||dotomi.com^
+||doubleclick-cn.net^
 ||doubleclick.net^
 ||doublemax.net^
 ||doublepimp.com^
@@ -1730,13 +1733,21 @@
 ||go-mpulse.net^
 ||go.trvdp.com^
 ||go2speed.org^
+||google-analytics-cn.com^
 ||google-analytics.com^
+||googleads-cn.com^
+||googleadservices-cn.com^
 ||googleadservices.com^
+||googleadsserving.cn^
 ||googleanalytics.com^
+||googleoptimize-cn.com^
 ||googleoptimize.com^
 ||googlesyndication.com^
+||googletagmanager-cn.com^
 ||googletagmanager.com^
+||googletagservices-cn.com^
 ||googletagservices.com^
+||googlevads-cn.com^
 ||gop1.co^
 ||goraps.com^
 ||gotrackier.com^
@@ -9051,6 +9062,7 @@
 ||videoegg.com^
 ||videoplayerhub.com^
 ||videosprofitnetwork.com^
+||videosvc.ezoic.com^
 ||vidora.com^
 ||view4cash.de^
 ||viewlnk.com^

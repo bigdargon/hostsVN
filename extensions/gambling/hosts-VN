@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 03 Jul 2023 10:38 UTC+7
-# Version: 2307031038
-# Blocked: 4,578 domains
+# Last modified: 03 Jul 2023 21:36 UTC+7
+# Version: 2307032136
+# Blocked: 4,598 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -54,6 +54,7 @@
 0.0.0.0 09bestk8.com
 0.0.0.0 09gamek8.com
 0.0.0.0 09prok8.com
+0.0.0.0 101ae888.com
 0.0.0.0 10gamek8.com
 0.0.0.0 111c54.com
 0.0.0.0 1166130.com
@@ -127,6 +128,7 @@
 0.0.0.0 2x3x.com
 0.0.0.0 331725.com
 0.0.0.0 331729.com
+0.0.0.0 333666.buzz
 0.0.0.0 338kbet.com
 0.0.0.0 33beta.com
 0.0.0.0 33betad.com
@@ -200,7 +202,9 @@
 0.0.0.0 789.mobi
 0.0.0.0 789.moi
 0.0.0.0 78966.app
+0.0.0.0 7897890.bet
 0.0.0.0 7897890.vip
+0.0.0.0 7897892.bet
 0.0.0.0 7897895.bet
 0.0.0.0 789a.club
 0.0.0.0 789b.asia
@@ -562,6 +566,7 @@
 0.0.0.0 apicmsdl.loc89.fun
 0.0.0.0 apiproxy.12b99.com
 0.0.0.0 app.228kbet.com
+0.0.0.0 app.333666.buzz
 0.0.0.0 app.8kbet.vn
 0.0.0.0 app.betlv.com
 0.0.0.0 app.k8cc.com
@@ -613,6 +618,7 @@
 0.0.0.0 bet88012.com
 0.0.0.0 bet88013.com
 0.0.0.0 bet88014.com
+0.0.0.0 bet88099.com
 0.0.0.0 bet885678.com
 0.0.0.0 betbanh88.com
 0.0.0.0 betk8.fun
@@ -633,6 +639,7 @@
 0.0.0.0 bigbet0015.com
 0.0.0.0 bigbet2258.com
 0.0.0.0 bigk8th888.com
+0.0.0.0 bk368.com
 0.0.0.0 bk8.live
 0.0.0.0 bk88safe.com
 0.0.0.0 bk8ae.com
@@ -877,7 +884,6 @@
 0.0.0.0 datcuoc247.com
 0.0.0.0 dbet68.com
 0.0.0.0 dd7bet.me
-0.0.0.0 de31.ku11.net
 0.0.0.0 debet.club
 0.0.0.0 debet.com
 0.0.0.0 debet.info
@@ -2690,7 +2696,9 @@
 0.0.0.0 ku19.net
 0.0.0.0 ku558.net
 0.0.0.0 ku6101.net
+0.0.0.0 ku6102.net
 0.0.0.0 ku6106.net
+0.0.0.0 ku6107.net
 0.0.0.0 ku6110.net
 0.0.0.0 ku6131.net
 0.0.0.0 ku777bet.com
@@ -3080,6 +3088,7 @@
 0.0.0.0 nslokups.com
 0.0.0.0 nt7cd.com
 0.0.0.0 nuoigada.com
+0.0.0.0 nv.ku6107.net
 0.0.0.0 nxb8.com
 0.0.0.0 oi8jg.com
 0.0.0.0 ojr6n.com
@@ -3151,6 +3160,7 @@
 0.0.0.0 play.rikgame.live
 0.0.0.0 play.rikvip.tv
 0.0.0.0 play.sbotop246.com
+0.0.0.0 play.sum4.club
 0.0.0.0 play.taib52.com
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
@@ -3392,6 +3402,7 @@
 0.0.0.0 static2.lucky88.com
 0.0.0.0 static3.lucky88.com
 0.0.0.0 sukien.fcb88.com
+0.0.0.0 sum4.club
 0.0.0.0 sun.to
 0.0.0.0 sun.win
 0.0.0.0 sun52.bid
@@ -3494,6 +3505,7 @@
 0.0.0.0 taimanclub.com
 0.0.0.0 tainbet.net
 0.0.0.0 taiok88.app
+0.0.0.0 taisum.co
 0.0.0.0 taiv8.com
 0.0.0.0 taiv8.info
 0.0.0.0 taiv8.top
@@ -3501,6 +3513,8 @@
 0.0.0.0 tangl0c.8day66.com
 0.0.0.0 tap88.club
 0.0.0.0 tbab395.com
+0.0.0.0 tbab535.com
+0.0.0.0 tbab953.com
 0.0.0.0 tbr.games
 0.0.0.0 tdtc.cc
 0.0.0.0 tdtc.fun
@@ -3657,6 +3671,7 @@
 0.0.0.0 v9jvn.com
 0.0.0.0 v9win.com
 0.0.0.0 vao789club.win
+0.0.0.0 vaoku.net
 0.0.0.0 vaorikvip.com
 0.0.0.0 vaorikvip.net
 0.0.0.0 vb211.com
@@ -3712,6 +3727,7 @@
 0.0.0.0 vn.solarbet.com
 0.0.0.0 vn.solbet88.com
 0.0.0.0 vn.tbab556.com
+0.0.0.0 vn.tbab953.com
 0.0.0.0 vn.vndbetway.com
 0.0.0.0 vn138.net
 0.0.0.0 vn138casino.com
@@ -3719,6 +3735,7 @@
 0.0.0.0 vn138viet.com
 0.0.0.0 vn138z.top
 0.0.0.0 vn1610.com
+0.0.0.0 vn2.ku6102.net
 0.0.0.0 vn2.ku6122.net
 0.0.0.0 vn22vw.com
 0.0.0.0 vn233.com
@@ -3877,6 +3894,7 @@
 0.0.0.0 w88mp.com
 0.0.0.0 w88ok.com
 0.0.0.0 w88so.com
+0.0.0.0 w88st.com
 0.0.0.0 w88u2.com
 0.0.0.0 w88ud2.com
 0.0.0.0 w88vui.com
@@ -4378,6 +4396,7 @@
 0.0.0.0 www.taib52.vin
 0.0.0.0 www.taikufun.com
 0.0.0.0 www.tbab395.com
+0.0.0.0 www.tbab535.com
 0.0.0.0 www.tf88265.com
 0.0.0.0 www.tf88luck.com
 0.0.0.0 www.tf88v.com
@@ -4485,6 +4504,7 @@
 0.0.0.0 www.w88kh.com
 0.0.0.0 www.w88ok.com
 0.0.0.0 www.w88so.com
+0.0.0.0 www.w88st.com
 0.0.0.0 www.w88u2.com
 0.0.0.0 www.w88ud2.com
 0.0.0.0 www.w88yes.com

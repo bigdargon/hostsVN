@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 03 Jul 2023 10:38 UTC+7
-! Version: 2307031038
-! Blocked: 4,054 rules
+! Last modified: 03 Jul 2023 21:36 UTC+7
+! Version: 2307032136
+! Blocked: 4,072 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -50,6 +50,7 @@
 ||09bestk8.com^
 ||09gamek8.com^
 ||09prok8.com^
+||101ae888.com^
 ||10gamek8.com^
 ||111c54.com^
 ||1126bet.com^
@@ -124,6 +125,7 @@
 ||2x3x.com^
 ||331725.com^
 ||331729.com^
+||333666.buzz^
 ||338kbet.com^
 ||33beta.com^
 ||33betad.com^
@@ -200,7 +202,9 @@
 ||789.mobi^
 ||789.moi^
 ||78966.app^
+||7897890.bet^
 ||7897890.vip^
+||7897892.bet^
 ||7897895.bet^
 ||789a.club^
 ||789b.asia^
@@ -566,6 +570,7 @@
 ||apicmsdl.loc89.fun^
 ||apiproxy.12b99.com^
 ||app.228kbet.com^
+||app.333666.buzz^
 ||app.8kbet.vn^
 ||app.betlv.com^
 ||app.k8cc.com^
@@ -617,6 +622,7 @@
 ||bet88012.com^
 ||bet88013.com^
 ||bet88014.com^
+||bet88099.com^
 ||bet885678.com^
 ||betbanh88.com^
 ||betk8.fun^
@@ -638,6 +644,7 @@
 ||bigbet0015.com^
 ||bigbet2258.com^
 ||bigk8th888.com^
+||bk368.com^
 ||bk8.live^
 ||bk88safe.com^
 ||bk8ae.com^
@@ -882,7 +889,6 @@
 ||datcuoc247.com^
 ||dbet68.com^
 ||dd7bet.me^
-||de31.ku11.net^
 ||debet.club^
 ||debet.com^
 ||debet.info^
@@ -2699,7 +2705,9 @@
 ||ku19.net^
 ||ku558.net^
 ||ku6101.net^
+||ku6102.net^
 ||ku6106.net^
+||ku6107.net^
 ||ku6110.net^
 ||ku6131.net^
 ||ku777bet.com^
@@ -3091,6 +3099,7 @@
 ||nslokups.com^
 ||nt7cd.com^
 ||nuoigada.com^
+||nv.ku6107.net^
 ||nxb8.com^
 ||oi8jg.com^
 ||ojr6n.com^
@@ -3162,6 +3171,7 @@
 ||play.rikgame.live^
 ||play.rikvip.tv^
 ||play.sbotop246.com^
+||play.sum4.club^
 ||play.taib52.com^
 ||play.top88.uk^
 ||play.top88.us^
@@ -3410,6 +3420,7 @@
 ||static2.lucky88.com^
 ||static3.lucky88.com^
 ||sukien.fcb88.com^
+||sum4.club^
 ||sun.to^
 ||sun.win^
 ||sun52.bid^
@@ -3512,6 +3523,7 @@
 ||taimanclub.com^
 ||tainbet.net^
 ||taiok88.app^
+||taisum.co^
 ||taiv8.com^
 ||taiv8.info^
 ||taiv8.top^
@@ -3519,6 +3531,8 @@
 ||tangl0c.8day66.com^
 ||tap88.club^
 ||tbab395.com^
+||tbab535.com^
+||tbab953.com^
 ||tbr.games^
 ||tdtc.cc^
 ||tdtc.fun^
@@ -3676,6 +3690,7 @@
 ||v9jvn.com^
 ||v9win.com^
 ||vao789club.win^
+||vaoku.net^
 ||vaorikvip.com^
 ||vaorikvip.net^
 ||vb211.com^
@@ -3731,6 +3746,7 @@
 ||vn.solarbet.com^
 ||vn.solbet88.com^
 ||vn.tbab556.com^
+||vn.tbab953.com^
 ||vn.vndbetway.com^
 ||vn138.net^
 ||vn138138.com^
@@ -3739,6 +3755,7 @@
 ||vn138viet.com^
 ||vn138z.top^
 ||vn1610.com^
+||vn2.ku6102.net^
 ||vn2.ku6122.net^
 ||vn22vw.com^
 ||vn233.com^
@@ -3900,6 +3917,7 @@
 ||w88mp.com^
 ||w88ok.com^
 ||w88so.com^
+||w88st.com^
 ||w88u2.com^
 ||w88ud2.com^
 ||w88vui.com^
