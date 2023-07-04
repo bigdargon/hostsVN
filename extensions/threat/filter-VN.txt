@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 03 Jul 2023 21:36 UTC+7
-! Version: 2307032136
-! Blocked: 3,488 rules
+! Last modified: 04 Jul 2023 14:03 UTC+7
+! Version: 2307041403
+! Blocked: 3,490 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3026,6 +3026,8 @@
 ||vietel.online^
 ||vietelshop.online^
 ||vietflix.vn^
+||vietgov.cc^
+||vietgov22.cc^
 ||vieticombank.com^
 ||vietiebink.com^
 ||vietimbank.top^

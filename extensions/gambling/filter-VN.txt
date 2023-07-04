@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 03 Jul 2023 21:36 UTC+7
-! Version: 2307032136
-! Blocked: 4,072 rules
+! Last modified: 04 Jul 2023 14:03 UTC+7
+! Version: 2307041403
+! Blocked: 4,086 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -197,6 +197,7 @@
 ||777balls.com^
 ||7788one.com^
 ||779one.com^
+||77ae888.com^
 ||789.club^
 ||789.fun^
 ||789.mobi^
@@ -256,6 +257,7 @@
 ||81ipb.com^
 ||8559553.com^
 ||8559555.com^
+||8559558.com^
 ||868vip.mobi^
 ||868vip1.live^
 ||881ae888.com^
@@ -1190,6 +1192,7 @@
 ||go88bet.net^
 ||go88f.com^
 ||go88r.pro^
+||go88s.tv^
 ||go88vn.live^
 ||go88vn.vip^
 ||goal123.com^
@@ -1322,6 +1325,7 @@
 ||i9bet74.com^
 ||i9bet75.com^
 ||i9bet8.com^
+||i9bet85.com^
 ||i9bet86.com^
 ||i9bet888.com^
 ||i9bet9.com^
@@ -2734,6 +2738,7 @@
 ||kubet8.us^
 ||kubet86.com^
 ||kubet88.fun^
+||kubet88.org^
 ||kubet88.win^
 ||kubet888.info^
 ||kubet9.com^
@@ -2939,6 +2944,7 @@
 ||m.w88yes.com^
 ||m.wellviet.net^
 ||m1.may88d.com^
+||m2305.com^
 ||m88.run^
 ||m883d.com^
 ||m88cvf.com^
@@ -3055,6 +3061,7 @@
 ||nearom.com^
 ||nemo.vin^
 ||new.vx88.com^
+||new88.ai^
 ||new88.love^
 ||new88.tips^
 ||new8808.vip^
@@ -3165,6 +3172,7 @@
 ||play.go88.club^
 ||play.go88.im^
 ||play.go88.vip^
+||play.go88s.tv^
 ||play.manclub.vin^
 ||play.nemo.vin^
 ||play.playiwin.biz^
@@ -3326,6 +3334,8 @@
 ||s9997.com^
 ||s999b.com^
 ||s999d.com^
+||sam86vip.tv^
+||samvip.bet^
 ||sasa889.com^
 ||sbc31.com^
 ||sbetviet.com^
@@ -3378,6 +3388,7 @@
 ||smart.8live.net^
 ||smart.bcb80.com^
 ||smartpay.lode88.vip^
+||soc88.uk^
 ||soc99.com^
 ||sock.dabet.club^
 ||sock.mu9.club^
@@ -3402,6 +3413,7 @@
 ||solarbet.com^
 ||solbet88.com^
 ||sport.five88.biz^
+||sport.soc88.uk^
 ||ssv288.com^
 ||st00001.com^
 ||st666.bid^
@@ -3491,6 +3503,7 @@
 ||tai.rik.top^
 ||tai.rikvip.tv^
 ||tai.rikvip.us^
+||tai.samvip.bet^
 ||tai.top88vn.net^
 ||tai.v28.club^
 ||tai.win79.pro^
@@ -3512,6 +3525,7 @@
 ||taigamesunwin.vip^
 ||taigenvip.club^
 ||taigenvip88.club^
+||taigenvip88.com^
 ||taigo88vn.com^
 ||taigo88vn.pro^
 ||taihit.win^

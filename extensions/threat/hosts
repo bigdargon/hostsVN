@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 03 Jul 2023 21:36 UTC+7
-# Version: 2307032136
-# Blocked: 3,826 domains
+# Last modified: 04 Jul 2023 14:03 UTC+7
+# Version: 2307041403
+# Blocked: 3,828 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3287,6 +3287,8 @@
 0.0.0.0 vietel.online
 0.0.0.0 vietelshop.online
 0.0.0.0 vietflix.vn
+0.0.0.0 vietgov.cc
+0.0.0.0 vietgov22.cc
 0.0.0.0 vieticombank.com
 0.0.0.0 vietiebink.com
 0.0.0.0 vietimbank.top

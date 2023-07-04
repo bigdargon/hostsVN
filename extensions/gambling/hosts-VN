@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 03 Jul 2023 21:36 UTC+7
-# Version: 2307032136
-# Blocked: 4,598 domains
+# Last modified: 04 Jul 2023 14:03 UTC+7
+# Version: 2307041403
+# Blocked: 4,615 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -197,6 +197,7 @@
 0.0.0.0 777balls.com
 0.0.0.0 7788one.com
 0.0.0.0 779one.com
+0.0.0.0 77ae888.com
 0.0.0.0 789.club
 0.0.0.0 789.fun
 0.0.0.0 789.mobi
@@ -255,6 +256,7 @@
 0.0.0.0 81ipb.com
 0.0.0.0 8559553.com
 0.0.0.0 8559555.com
+0.0.0.0 8559558.com
 0.0.0.0 868vip.mobi
 0.0.0.0 868vip1.live
 0.0.0.0 881ae888.com
@@ -1184,6 +1186,7 @@
 0.0.0.0 go88bet.net
 0.0.0.0 go88f.com
 0.0.0.0 go88r.pro
+0.0.0.0 go88s.tv
 0.0.0.0 go88vn.live
 0.0.0.0 go88vn.vip
 0.0.0.0 goal123.com
@@ -1313,6 +1316,7 @@
 0.0.0.0 i9bet74.com
 0.0.0.0 i9bet75.com
 0.0.0.0 i9bet8.com
+0.0.0.0 i9bet85.com
 0.0.0.0 i9bet86.com
 0.0.0.0 i9bet888.com
 0.0.0.0 i9bet9.com
@@ -2725,6 +2729,7 @@
 0.0.0.0 kubet8.us
 0.0.0.0 kubet86.com
 0.0.0.0 kubet88.fun
+0.0.0.0 kubet88.org
 0.0.0.0 kubet88.win
 0.0.0.0 kubet888.info
 0.0.0.0 kubet9.com
@@ -2929,6 +2934,7 @@
 0.0.0.0 m.w88yes.com
 0.0.0.0 m.wellviet.net
 0.0.0.0 m1.may88d.com
+0.0.0.0 m2305.com
 0.0.0.0 m88.run
 0.0.0.0 m883d.com
 0.0.0.0 m88cvf.com
@@ -3045,6 +3051,7 @@
 0.0.0.0 nearom.com
 0.0.0.0 nemo.vin
 0.0.0.0 new.vx88.com
+0.0.0.0 new88.ai
 0.0.0.0 new88.love
 0.0.0.0 new88.tips
 0.0.0.0 new8808.vip
@@ -3154,6 +3161,7 @@
 0.0.0.0 play.go88.club
 0.0.0.0 play.go88.im
 0.0.0.0 play.go88.vip
+0.0.0.0 play.go88s.tv
 0.0.0.0 play.manclub.vin
 0.0.0.0 play.nemo.vin
 0.0.0.0 play.playiwin.biz
@@ -3313,6 +3321,8 @@
 0.0.0.0 s9997.com
 0.0.0.0 s999b.com
 0.0.0.0 s999d.com
+0.0.0.0 sam86vip.tv
+0.0.0.0 samvip.bet
 0.0.0.0 sasa889.com
 0.0.0.0 sbc31.com
 0.0.0.0 sbetviet.com
@@ -3360,6 +3370,7 @@
 0.0.0.0 smart.8live.net
 0.0.0.0 smart.bcb80.com
 0.0.0.0 smartpay.lode88.vip
+0.0.0.0 soc88.uk
 0.0.0.0 soc99.com
 0.0.0.0 sock.dabet.club
 0.0.0.0 sock.mu9.club
@@ -3384,6 +3395,7 @@
 0.0.0.0 solarbet.com
 0.0.0.0 solbet88.com
 0.0.0.0 sport.five88.biz
+0.0.0.0 sport.soc88.uk
 0.0.0.0 ssv288.com
 0.0.0.0 st00001.com
 0.0.0.0 st666.bid
@@ -3473,6 +3485,7 @@
 0.0.0.0 tai.rik.top
 0.0.0.0 tai.rikvip.tv
 0.0.0.0 tai.rikvip.us
+0.0.0.0 tai.samvip.bet
 0.0.0.0 tai.top88vn.net
 0.0.0.0 tai.v28.club
 0.0.0.0 tai.win79.pro
@@ -3494,6 +3507,7 @@
 0.0.0.0 taigamesunwin.vip
 0.0.0.0 taigenvip.club
 0.0.0.0 taigenvip88.club
+0.0.0.0 taigenvip88.com
 0.0.0.0 taigo88vn.com
 0.0.0.0 taigo88vn.pro
 0.0.0.0 taihit.win
@@ -4028,6 +4042,7 @@
 0.0.0.0 www.79lucky.com
 0.0.0.0 www.8559553.com
 0.0.0.0 www.8559555.com
+0.0.0.0 www.8559558.com
 0.0.0.0 www.885ae888.com
 0.0.0.0 www.887ae888.com
 0.0.0.0 www.888b.com
@@ -4198,6 +4213,7 @@
 0.0.0.0 www.fun1118.com
 0.0.0.0 www.fun7778.com
 0.0.0.0 www.fun881211.com
+0.0.0.0 www.fundangky.com
 0.0.0.0 www.funtructuyen88.com
 0.0.0.0 www.gamebai.club
 0.0.0.0 www.gamedoithuong.org
@@ -4252,6 +4268,7 @@
 0.0.0.0 www.i9bet72.com
 0.0.0.0 www.i9bet74.com
 0.0.0.0 www.i9bet75.com
+0.0.0.0 www.i9bet85.com
 0.0.0.0 www.i9bet888.com
 0.0.0.0 www.income88.com
 0.0.0.0 www.interwinvn.com
