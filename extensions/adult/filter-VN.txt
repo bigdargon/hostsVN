@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 04 Jul 2023 14:03 UTC+7
-! Version: 2307041403
-! Blocked: 3,396 rules
+! Last modified: 05 Jul 2023 14:08 UTC+7
+! Version: 2307051408
+! Blocked: 3,397 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3376,6 +3376,7 @@
 ||yeusex.org^
 ||yeusex.pro^
 ||yeutinhduc.com^
+||yeuu.net^
 ||ynknc.com^
 ||yo69.me^
 ||yo69.one^

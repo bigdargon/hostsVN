@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 04 Jul 2023 14:03 UTC+7
-! Version: 2307041403
-! Blocked: 4,086 rules
+! Last modified: 05 Jul 2023 14:08 UTC+7
+! Version: 2307051408
+! Blocked: 4,093 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -704,6 +704,7 @@
 ||boom66.com^
 ||box2020.oxbetd.com^
 ||bt9gl.com^
+||bum3.club^
 ||bvthethao.com^
 ||bwchaoxuan.com^
 ||bwing88.com^
@@ -3166,6 +3167,7 @@
 ||piwik.88thaicasinoslots.com^
 ||play.b52.win^
 ||play.bom52.club^
+||play.bum3.club^
 ||play.choisport.com^
 ||play.choiwin79.net^
 ||play.fa88.win^
@@ -3335,6 +3337,7 @@
 ||s999b.com^
 ||s999d.com^
 ||sam86vip.tv^
+||sam86vip.vin^
 ||samvip.bet^
 ||sasa889.com^
 ||sbc31.com^
@@ -3518,6 +3521,7 @@
 ||taib52.club^
 ||taib52.com^
 ||taib52.vin^
+||taibum.tv^
 ||taichoang.fun^
 ||taido99.win^
 ||taigame789.club^
@@ -3801,6 +3805,7 @@
 ||vnbiz88.com^
 ||vnbong88.live^
 ||vnclub88.live^
+||vncustomer1.vncslive.com^
 ||vnd188.app^
 ||vnd1888.com^
 ||vnd88hn.com^
@@ -3913,6 +3918,7 @@
 ||w388.com^
 ||w69top.com^
 ||w753j.com^
+||w88.day^
 ||w88.vin^
 ||w88a3.com^
 ||w88ac.com^
@@ -3991,6 +3997,7 @@
 ||win86.info^
 ||win88.me^
 ||win888b.com^
+||win88az.top^
 ||winbet58.live^
 ||winbet58.win^
 ||winbet99.co^

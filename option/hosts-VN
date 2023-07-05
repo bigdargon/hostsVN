@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Jul 2023 14:03 UTC+7
-# Version: 2307041403
-# Blocked: 1,813 domains
+# Last modified: 05 Jul 2023 14:08 UTC+7
+# Version: 2307051408
+# Blocked: 1,814 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1700,6 +1700,7 @@
 0.0.0.0 trenddigital.vn
 0.0.0.0 truoctran.com
 0.0.0.0 ttus.tructiepbongda.me
+0.0.0.0 tvc.biphim.club
 0.0.0.0 tvnotice.kg.garena.vn
 0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 user.headlines.pw
