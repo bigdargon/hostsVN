@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 05 Jul 2023 14:08 UTC+7
-# Version: 2307051408
-# Blocked: 3,828 domains
+# Last modified: 07 Jul 2023 22:49 UTC+7
+# Version: 2307072249
+# Blocked: 3,838 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11,6 +11,7 @@
 # =====================================================
 
 0.0.0.0 0088shop.com
+0.0.0.0 009855.com
 0.0.0.0 010172.com
 0.0.0.0 11promax.xakhohangtrungbay.site
 0.0.0.0 11tiki.com
@@ -109,6 +110,9 @@
 0.0.0.0 ads-tm-glb.click
 0.0.0.0 adsharedwi897th.cfd
 0.0.0.0 ae888vip.com
+0.0.0.0 aets22.com
+0.0.0.0 aets88.com
+0.0.0.0 aets99.com
 0.0.0.0 agrib-vn.com
 0.0.0.0 agribank.info
 0.0.0.0 agribanking.com.vn
@@ -398,6 +402,7 @@
 0.0.0.0 cuocthitainangnhithang12.weebly.com
 0.0.0.0 currencyconverterbanking.weebly.com
 0.0.0.0 cvietcombank.com
+0.0.0.0 d.gdtgov.cfd
 0.0.0.0 daef33.com
 0.0.0.0 daikinvietnam.vn
 0.0.0.0 daisyshopp.com
@@ -700,6 +705,7 @@
 0.0.0.0 gbuy.shop
 0.0.0.0 gcaothushop.net
 0.0.0.0 gdriveshop.com
+0.0.0.0 gdtgov.cfd
 0.0.0.0 gdviettelpay.weebly.com
 0.0.0.0 getclipabcxyz.com
 0.0.0.0 getintopc.digital
@@ -2583,6 +2589,8 @@
 0.0.0.0 support-nganhang.site
 0.0.0.0 supporttoancau.com
 0.0.0.0 sv7momo.com
+0.0.0.0 tadcb.com
+0.0.0.0 tadcqv.com
 0.0.0.0 tadmak.com
 0.0.0.0 tadmv.com
 0.0.0.0 tagclick-cdn.com
@@ -2735,6 +2743,7 @@
 0.0.0.0 tiki518.com
 0.0.0.0 tiki55.com
 0.0.0.0 tiki555.com
+0.0.0.0 tiki588.com
 0.0.0.0 tiki66.com
 0.0.0.0 tiki666.com
 0.0.0.0 tiki7.vip
@@ -3508,6 +3517,7 @@
 0.0.0.0 vnshop.today
 0.0.0.0 vnshop00.com
 0.0.0.0 vnshop11.com
+0.0.0.0 vnshop111.com
 0.0.0.0 vnshop139.com
 0.0.0.0 vnshop158.com
 0.0.0.0 vnshop2.net

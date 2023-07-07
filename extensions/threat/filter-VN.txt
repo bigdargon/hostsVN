@@ -1,12 +1,13 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 05 Jul 2023 14:08 UTC+7
-! Version: 2307051408
-! Blocked: 3,490 rules
+! Last modified: 07 Jul 2023 22:49 UTC+7
+! Version: 2307072249
+! Blocked: 3,500 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
 ||0088shop.com^
+||009855.com^
 ||11promax.xakhohangtrungbay.site^
 ||11tiki.com^
 ||123-vay.com^
@@ -93,6 +94,9 @@
 ||adkiemtien123.click^
 ||admin-vayvonvietthanh.com^
 ||ae888vip.com^
+||aets22.com^
+||aets88.com^
+||aets99.com^
 ||agrib-vn.com^
 ||agribank.info^
 ||agribanking.com.vn^
@@ -308,6 +312,7 @@
 ||cuocthitainangnhithang12.weebly.com^
 ||currencyconverterbanking.weebly.com^
 ||cvietcombank.com^
+||d.gdtgov.cfd^
 ||daef33.com^
 ||daikinvietnam.vn^
 ||daisyshopp.com^
@@ -558,6 +563,7 @@
 ||gbuy.shop^
 ||gcaothushop.net^
 ||gdriveshop.com^
+||gdtgov.cfd^
 ||gdviettelpay.weebly.com^
 ||getclipabcxyz.com^
 ||ggzzmm.shop^
@@ -2342,6 +2348,8 @@
 ||support-nganhang.site^
 ||supporttoancau.com^
 ||sv7momo.com^
+||tadcb.com^
+||tadcqv.com^
 ||tadmak.com^
 ||tadmv.com^
 ||taiappbank.info^
@@ -2487,6 +2495,7 @@
 ||tiki518.com^
 ||tiki55.com^
 ||tiki555.com^
+||tiki588.com^
 ||tiki66.com^
 ||tiki666.com^
 ||tiki7.vip^
@@ -3245,6 +3254,7 @@
 ||vnshop.today^
 ||vnshop00.com^
 ||vnshop11.com^
+||vnshop111.com^
 ||vnshop139.com^
 ||vnshop158.com^
 ||vnshop2.net^

@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 05 Jul 2023 14:08 UTC+7
-# Version: 2307051408
-# Blocked: 49,018 domains
+# Last modified: 07 Jul 2023 22:49 UTC+7
+# Version: 2307072249
+# Blocked: 49,026 domains
 # Only include adult domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4468,6 +4468,11 @@
 0.0.0.0 652769.com
 0.0.0.0 652vb.xyz
 0.0.0.0 6531.bid
+0.0.0.0 6533552.com
+0.0.0.0 6533555.com
+0.0.0.0 6533556.com
+0.0.0.0 6533557.com
+0.0.0.0 6533559.com
 0.0.0.0 653378.com
 0.0.0.0 654021.com
 0.0.0.0 654209.com
@@ -9220,8 +9225,10 @@
 0.0.0.0 bbq49.com
 0.0.0.0 bbq53.com
 0.0.0.0 bbq54.com
+0.0.0.0 bbq550.xyz
 0.0.0.0 bbq57.com
 0.0.0.0 bbq59.com
+0.0.0.0 bbq611.xyz
 0.0.0.0 bbq69.com
 0.0.0.0 bbq70.com
 0.0.0.0 bbq71.com
@@ -47236,6 +47243,7 @@
 0.0.0.0 yylfc5lx.com
 0.0.0.0 yylh12.com
 0.0.0.0 yylir32i.com
+0.0.0.0 yylive.vip
 0.0.0.0 yylj110s.com
 0.0.0.0 yyln6rk3.com
 0.0.0.0 yylnkwtz.com

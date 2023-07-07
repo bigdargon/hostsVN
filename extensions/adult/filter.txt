@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 05 Jul 2023 14:08 UTC+7
-! Version: 2307051408
-! Blocked: 48,835 rules
+! Last modified: 07 Jul 2023 22:49 UTC+7
+! Version: 2307072249
+! Blocked: 48,843 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4465,6 +4465,11 @@
 ||652769.com^
 ||652vb.xyz^
 ||6531.bid^
+||6533552.com^
+||6533555.com^
+||6533556.com^
+||6533557.com^
+||6533559.com^
 ||653378.com^
 ||654021.com^
 ||654209.com^
@@ -9218,8 +9223,10 @@
 ||bbq49.com^
 ||bbq53.com^
 ||bbq54.com^
+||bbq550.xyz^
 ||bbq57.com^
 ||bbq59.com^
+||bbq611.xyz^
 ||bbq69.com^
 ||bbq70.com^
 ||bbq71.com^
@@ -47049,6 +47056,7 @@
 ||yylfc5lx.com^
 ||yylh12.com^
 ||yylir32i.com^
+||yylive.vip^
 ||yylj110s.com^
 ||yyln6rk3.com^
 ||yylnkwtz.com^
