@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 07 Jul 2023 22:49 UTC+7
-! Version: 2307072249
-! Blocked: 3,500 rules
+! Last modified: 09 Jul 2023 23:15 UTC+7
+! Version: 2307092315
+! Blocked: 3,501 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -427,6 +427,7 @@
 ||expressmoney.cc^
 ||face-book.co^
 ||facebookk.life^
+||facebookvni.com^
 ||fb88viet.com^
 ||fbviet88.com^
 ||fcccredit.com^

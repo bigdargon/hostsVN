@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 07 Jul 2023 22:49 UTC+7
-# Version: 2307072249
-# Blocked: 3,838 domains
+# Last modified: 09 Jul 2023 23:15 UTC+7
+# Version: 2307092315
+# Blocked: 3,839 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -537,6 +537,7 @@
 0.0.0.0 expressmoney.cc
 0.0.0.0 face-book.co
 0.0.0.0 facebookk.life
+0.0.0.0 facebookvni.com
 0.0.0.0 fairu-blog.com
 0.0.0.0 fairu-blog.xyz
 0.0.0.0 fairu-cdn.com
