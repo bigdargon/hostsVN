@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 09 Jul 2023 23:15 UTC+7
-! Version: 2307092315
-! Blocked: 4,166 rules
+! Last modified: 10 Jul 2023 10:45 UTC+7
+! Version: 2307101045
+! Blocked: 4,174 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -442,6 +442,7 @@
 ||ae988bet.com^
 ||aebet.bet^
 ||aevn52888.com^
+||aevn999.com^
 ||aewin88.com^
 ||aff.188f1play.com^
 ||aff.188thethao.com^
@@ -481,6 +482,7 @@
 ||almeriaxxx.com^
 ||alo789.com^
 ||alo789.vip^
+||alo789viet.com^
 ||alo88.bet^
 ||alo888.com^
 ||api.118kbet.com^
@@ -3399,6 +3401,7 @@
 ||sasa889.com^
 ||sbc31.com^
 ||sbetviet.com^
+||sbobetfun.org^
 ||sbotop246.com^
 ||seb121.net^
 ||shbet.com^
@@ -3591,6 +3594,7 @@
 ||taigame789.club^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
+||taigem79.win^
 ||taigenvip.club^
 ||taigenvip88.club^
 ||taigenvip88.com^
@@ -3683,6 +3687,10 @@
 ||tjb15.net^
 ||tjb22.net^
 ||tk326.com^
+||tk88.in^
+||tk88.la^
+||tk88.rocks^
+||tk88.tv^
 ||tk88g.com^
 ||to188xj.com^
 ||tobet88.net^

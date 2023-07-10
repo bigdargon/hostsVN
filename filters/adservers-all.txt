@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Jul 2023 23:07 UTC+7
-! Version: 2307092307
-! Blocked: 9,958 rules
+! Last modified: 10 Jul 2023 10:45 UTC+7
+! Version: 2307101045
+! Blocked: 9,961 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6296,6 +6296,9 @@
 ||intellipopup.com^
 ||intellitxt.com^
 ||intendedeasiestlost.com^
+||intensedebate.com^
+||intensedebate.net^
+||intensedebate.org^
 ||intentmedia.net^
 ||intergi.com^
 ||internalads.gammae.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 09 Jul 2023 23:15 UTC+7
-# Version: 2307092315
-# Blocked: 4,700 domains
+# Last modified: 10 Jul 2023 10:45 UTC+7
+# Version: 2307101045
+# Blocked: 4,713 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -439,6 +439,7 @@
 0.0.0.0 ae988bet.com
 0.0.0.0 aebet.bet
 0.0.0.0 aevn52888.com
+0.0.0.0 aevn999.com
 0.0.0.0 aff.188f1play.com
 0.0.0.0 aff.188thethao.com
 0.0.0.0 aff.8daily8.com
@@ -477,6 +478,7 @@
 0.0.0.0 almeriaxxx.com
 0.0.0.0 alo789.com
 0.0.0.0 alo789.vip
+0.0.0.0 alo789viet.com
 0.0.0.0 alo88.bet
 0.0.0.0 alo888.com
 0.0.0.0 api.118kbet.com
@@ -3386,6 +3388,7 @@
 0.0.0.0 sasa889.com
 0.0.0.0 sbc31.com
 0.0.0.0 sbetviet.com
+0.0.0.0 sbobetfun.org
 0.0.0.0 sbotop246.com
 0.0.0.0 seb121.net
 0.0.0.0 shbet.com
@@ -3573,6 +3576,7 @@
 0.0.0.0 taigame789.club
 0.0.0.0 taigamesunwin.vin
 0.0.0.0 taigamesunwin.vip
+0.0.0.0 taigem79.win
 0.0.0.0 taigenvip.club
 0.0.0.0 taigenvip88.club
 0.0.0.0 taigenvip88.com
@@ -3665,6 +3669,10 @@
 0.0.0.0 tjb15.net
 0.0.0.0 tjb22.net
 0.0.0.0 tk326.com
+0.0.0.0 tk88.in
+0.0.0.0 tk88.la
+0.0.0.0 tk88.rocks
+0.0.0.0 tk88.tv
 0.0.0.0 tk88g.com
 0.0.0.0 to188xj.com
 0.0.0.0 tobet88.net
@@ -4175,6 +4183,7 @@
 0.0.0.0 www.ae9888.com
 0.0.0.0 www.ae988bet.com
 0.0.0.0 www.aevn52888.com
+0.0.0.0 www.aevn999.com
 0.0.0.0 www.aewin88.com
 0.0.0.0 www.agbet.co
 0.0.0.0 www.almeriaxxx.com
@@ -4512,6 +4521,10 @@
 0.0.0.0 www.tjb15.net
 0.0.0.0 www.tjb22.net
 0.0.0.0 www.tk326.com
+0.0.0.0 www.tk88.in
+0.0.0.0 www.tk88.la
+0.0.0.0 www.tk88.rocks
+0.0.0.0 www.tk88.tv
 0.0.0.0 www.tk88g.com
 0.0.0.0 www.to188xj.com
 0.0.0.0 www.tobet88.net
