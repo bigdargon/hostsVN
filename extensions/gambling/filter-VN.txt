@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 10 Jul 2023 10:45 UTC+7
-! Version: 2307101045
-! Blocked: 4,174 rules
+! Last modified: 10 Jul 2023 14:14 UTC+7
+! Version: 2307101414
+! Blocked: 4,177 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -886,8 +886,10 @@
 ||dagatructuyen.com^
 ||daily88uu.com^
 ||dailybet365vn.com^
+||dailybong88.bet^
 ||dailybong88.com^
 ||dailyk8.com^
+||dailysbobetz.me^
 ||daman2.com^
 ||dangky.go88.com^
 ||dangky.thethaofb88.com^
@@ -3690,6 +3692,7 @@
 ||tk88.in^
 ||tk88.la^
 ||tk88.rocks^
+||tk88.store^
 ||tk88.tv^
 ||tk88g.com^
 ||to188xj.com^

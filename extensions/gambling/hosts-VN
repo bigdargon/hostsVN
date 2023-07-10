@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 10 Jul 2023 10:45 UTC+7
-# Version: 2307101045
-# Blocked: 4,713 domains
+# Last modified: 10 Jul 2023 14:14 UTC+7
+# Version: 2307101414
+# Blocked: 4,717 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -881,8 +881,10 @@
 0.0.0.0 dagatructuyen.com
 0.0.0.0 daily88uu.com
 0.0.0.0 dailybet365vn.com
+0.0.0.0 dailybong88.bet
 0.0.0.0 dailybong88.com
 0.0.0.0 dailyk8.com
+0.0.0.0 dailysbobetz.me
 0.0.0.0 daman2.com
 0.0.0.0 dangky.go88.com
 0.0.0.0 dangky.thethaofb88.com
@@ -3672,6 +3674,7 @@
 0.0.0.0 tk88.in
 0.0.0.0 tk88.la
 0.0.0.0 tk88.rocks
+0.0.0.0 tk88.store
 0.0.0.0 tk88.tv
 0.0.0.0 tk88g.com
 0.0.0.0 to188xj.com
@@ -4524,6 +4527,7 @@
 0.0.0.0 www.tk88.in
 0.0.0.0 www.tk88.la
 0.0.0.0 www.tk88.rocks
+0.0.0.0 www.tk88.store
 0.0.0.0 www.tk88.tv
 0.0.0.0 www.tk88g.com
 0.0.0.0 www.to188xj.com
