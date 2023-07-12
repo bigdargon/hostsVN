@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Jul 2023 10:45 UTC+7
-# Version: 2307101045
-# Blocked: 19,239 domains
+# Last modified: 12 Jul 2023 16:41 UTC+7
+# Version: 2307121641
+# Blocked: 19,243 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7889,6 +7889,7 @@
 0 report.pro-market.net
 0 eventgateway.soundcloud.com
 0 eventlogger.soundcloud.com
+0 events-api.soundcloud.com
 0 promoted.soundcloud.com
 0 telemetry.soundcloud.com
 0 adg-data.kajicam.com
@@ -9980,6 +9981,12 @@
 0 g2afse.com
 0 aditmedia.g2afse.com
 0 adstartmedia.g2afse.com
+0 1l-hit.mail.ru
+0 1l-view.mail.ru
+0 ad.mail.ru
+0 alt-ad.mail.ru
+0 top-fwz1.mail.ru
+0 top.mail.ru
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -11957,7 +11964,6 @@
 0 ad.letmeads.com
 0 ad.liveinternet.ru
 0 ad.lupa.cz
-0 ad.mail.ru
 0 ad.media-servers.net
 0 ad.mgd.de
 0 ad.mox.tv
@@ -17663,7 +17669,6 @@
 0 top-site-list.com
 0 top.c-stat.eu
 0 top.list.ru
-0 top.mail.ru
 0 top.proext.com
 0 top123.ro
 0 top20.com
@@ -19101,7 +19106,6 @@
 0 to.getnitropack.com
 0 tobapplog.ctobsnssdk.com
 0 toblog.ctobsnssdk.com
-0 top-fwz1.mail.ru
 0 track-aws.notsy.io
 0 track.56txs4.com
 0 track.cbdatatracker.com

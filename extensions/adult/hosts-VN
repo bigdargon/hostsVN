@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 10 Jul 2023 14:14 UTC+7
-# Version: 2307101414
-# Blocked: 3,388 domains
+# Last modified: 12 Jul 2023 16:40 UTC+7
+# Version: 2307121640
+# Blocked: 3,389 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -312,6 +312,7 @@
 0.0.0.0 damvlerz.com
 0.0.0.0 damvodoi.com
 0.0.0.0 danchoihot.com
+0.0.0.0 daoxinh.bio
 0.0.0.0 demnay.com
 0.0.0.0 dep3x.pro
 0.0.0.0 diendanjav.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 10 Jul 2023 14:14 UTC+7
-! Version: 2307101414
-! Blocked: 4,177 rules
+! Last modified: 12 Jul 2023 16:40 UTC+7
+! Version: 2307121640
+! Blocked: 4,218 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -127,6 +127,7 @@
 ||333666.buzz^
 ||333666j.com^
 ||338kbet.com^
+||33ae888.com^
 ||33beta.com^
 ||33betad.com^
 ||33betc.com^
@@ -156,6 +157,8 @@
 ||4gy80.com^
 ||5123b.com^
 ||520xiaojin.com^
+||523bet.app^
+||523betapp.site^
 ||52gp1.com^
 ||5516688.com^
 ||5533789.com^
@@ -259,7 +262,10 @@
 ||8559553.com^
 ||8559555.com^
 ||8559558.com^
+||868vip.asia^
+||868vip.live^
 ||868vip.mobi^
+||868vip.top^
 ||868vip1.live^
 ||881ae888.com^
 ||882ae888.com^
@@ -586,6 +592,7 @@
 ||app611.net^
 ||appbk8.com^
 ||appi9bet.com^
+||apptk.app^
 ||asiatop88.com^
 ||asiavwin.com^
 ||aw8vn.com^
@@ -593,6 +600,7 @@
 ||aw8vn3.com^
 ||awin686.com^
 ||awsdfs.88bet88bet.com^
+||az888.bet^
 ||azf8bet.com^
 ||b29.bet^
 ||b29qc.win^
@@ -750,11 +758,13 @@
 ||casino888vn.com^
 ||casinoae888.com^
 ||casinomcw.com^
+||cdn.868vip.live^
 ||cdn.kingbet86.info^
 ||cdn.vwin010.com^
 ||cf68.app^
 ||cf68.click^
 ||cf68.club^
+||cf68.dev^
 ||cf68.fun^
 ||cf68.shop^
 ||cf68.vin^
@@ -859,6 +869,7 @@
 ||d9bet88.com^
 ||dabanh.thethaofb88.com^
 ||dabet.club^
+||dabet.fun^
 ||dabet.me^
 ||dabet.top^
 ||dabet.us^
@@ -897,6 +908,7 @@
 ||dangkybum.club^
 ||dangkyee88.online^
 ||dangkykubet.vip^
+||dangkyrikvip.tv^
 ||dangkythabet.com^
 ||danhbaidoithuongizi.com^
 ||danhloo.com^
@@ -1105,6 +1117,7 @@
 ||fi8822.com^
 ||fi883.com^
 ||fi8852.com^
+||fi8858.com^
 ||fi8883.com^
 ||fi8899.com^
 ||fi88aff.com^
@@ -1195,6 +1208,7 @@
 ||giaitri.fun^
 ||giaitri.tv^
 ||giutcohon.sin88.biz^
+||gnbet.vip^
 ||go.12fifa2018.com^
 ||go.bcb80.com^
 ||go.beb77.com^
@@ -3118,6 +3132,7 @@
 ||new88.ai^
 ||new88.love^
 ||new88.tips^
+||new8805.com^
 ||new8808.vip^
 ||new88111.com^
 ||new8884.com^
@@ -3469,6 +3484,7 @@
 ||soco88.com^
 ||socvip.com^
 ||socvip9.club^
+||sodo103.com^
 ||sodo109.com^
 ||sodo12.com^
 ||sodo13.com^
@@ -3633,6 +3649,7 @@
 ||tf88639.com^
 ||tf88716.com^
 ||tf88792.com^
+||tf88agent.com^
 ||tf88luck.com^
 ||tf88v.com^
 ||tf88vn.com^
@@ -3689,12 +3706,29 @@
 ||tjb15.net^
 ||tjb22.net^
 ||tk326.com^
+||tk777.vip^
 ||tk88.in^
 ||tk88.la^
 ||tk88.rocks^
 ||tk88.store^
 ||tk88.tv^
+||tk88a.com^
+||tk88b.com^
+||tk88c.com^
+||tk88d.com^
+||tk88e.com^
+||tk88f.com^
 ||tk88g.com^
+||tk88h.com^
+||tk88i.com^
+||tk88j.com^
+||tk88k.com^
+||tk88l.com^
+||tk88m.com^
+||tk88n.com^
+||tk88p.com^
+||tk88q.com^
+||tk88s.com^
 ||to188xj.com^
 ||tobet88.net^
 ||tongga88.com^
@@ -3805,6 +3839,7 @@
 ||vh79.com^
 ||vi.oppa888.com^
 ||vi.sol86.com^
+||vi68.org^
 ||vic.fun^
 ||vic.win^
 ||victorwin555.com^
@@ -3816,6 +3851,7 @@
 ||vin68.com^
 ||vinalottery.com^
 ||vip.8kbet.vn^
+||vip.dangkyrikvip.tv^
 ||vip.v99win.app^
 ||vip130130.com^
 ||vipbet001.org^
@@ -3872,6 +3908,7 @@
 ||vn88.casino^
 ||vn88.club^
 ||vn88.com^
+||vn88.io^
 ||vn88.mobi^
 ||vn887.com^
 ||vn88808.com^
@@ -3899,6 +3936,7 @@
 ||vnloto.com^
 ||vnloto.vip^
 ||vnmx66.com^
+||vnn138.com^
 ||vnn8d.com^
 ||vnpro88.com^
 ||vnq8.bet^
@@ -4019,6 +4057,7 @@
 ||w88st.com^
 ||w88u2.com^
 ||w88ud2.com^
+||w88ud4.net^
 ||w88vui.com^
 ||w88yes.com^
 ||w92oa.com^
@@ -4136,6 +4175,7 @@
 ||xoso55.com^
 ||xoso5678.com^
 ||xoso6.com^
+||xoso66.io^
 ||xoso6600.com^
 ||xoso678.com^
 ||xoso788.com^
@@ -4173,6 +4213,7 @@
 ||zbet.me^
 ||zbet.vn^
 ||zbet.win^
+||zbet6898.com^
 ||zbetvn.club^
 ||zbetvn.com^
 ||zinwin.vip^
