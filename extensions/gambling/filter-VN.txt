@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 13 Jul 2023 09:22 UTC+7
-! Version: 2307130922
-! Blocked: 4,218 rules
+! Last modified: 13 Jul 2023 13:42 UTC+7
+! Version: 2307131342
+! Blocked: 4,239 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -277,8 +277,11 @@
 ||888ae888.com^
 ||888b.com^
 ||888b.in^
+||888b.moe^
 ||888b.trade^
+||888b.xkiosx.xyz^
 ||888betk8.net^
+||888bvn.vip^
 ||888k8vn.com^
 ||888thao.com^
 ||889ae888.com^
@@ -561,6 +564,7 @@
 ||api.red88.us^
 ||api.red88.vin^
 ||api.red88.vip^
+||api.s999h.com^
 ||api.shbet0.com^
 ||api.shbet3.com^
 ||api.shbetvv.com^
@@ -1980,6 +1984,7 @@
 ||k8jsback2app.com^
 ||k8jsback3app.com^
 ||k8jsback4app.com^
+||k8k26.com^
 ||k8kol.com^
 ||k8life.com^
 ||k8link.com^
@@ -2377,6 +2382,7 @@
 ||k8vinavn037.com^
 ||k8vinavn038.com^
 ||k8vinavn039.com^
+||k8vip.me^
 ||k8vip01.com^
 ||k8vip02.com^
 ||k8vip03.com^
@@ -2898,6 +2904,7 @@
 ||lucky88.uk^
 ||lucky88.vin^
 ||lucky88.win^
+||luckyxoso.com^
 ||lux39.club^
 ||lux888.club^
 ||lxviet66.com^
@@ -2939,7 +2946,9 @@
 ||m.fivevn.net^
 ||m.happy9luck.com^
 ||m.i9bet75.com^
+||m.k8k26.com^
 ||m.k8sport.com^
+||m.k8vip.me^
 ||m.kimsa338.com^
 ||m.kimsa88.com^
 ||m.kimsa888.com^
@@ -2959,6 +2968,7 @@
 ||m.mibet.win^
 ||m.mibet88.com^
 ||m.mig8vn.com^
+||m.mot88i.com^
 ||m.ms3388.com^
 ||m.ms88asia.com^
 ||m.ms88ca.com^
@@ -2990,6 +3000,7 @@
 ||m.vn88.com^
 ||m.vn88hn.live^
 ||m.vn88vui.live^
+||m.vnboc.com^
 ||m.vnbong88.live^
 ||m.vndbet88.com^
 ||m.vnloto.com^
@@ -3080,6 +3091,7 @@
 ||mmwin.nearom.com^
 ||mobi.oleviet777.com^
 ||mobile.k8sport.com^
+||mot88i.com^
 ||moto88.win^
 ||moto880.com^
 ||mrewards.w88club.com^
@@ -3411,7 +3423,11 @@
 ||s9996.com^
 ||s9997.com^
 ||s999b.com^
+||s999c.com^
 ||s999d.com^
+||s999e.com^
+||s999g.com^
+||s999h.com^
 ||sam86vip.tv^
 ||sam86vip.vin^
 ||samvip.bet^
@@ -3490,6 +3506,9 @@
 ||sodo13.com^
 ||sodo14.com^
 ||sodo15.com^
+||sodo66.app^
+||sodo678.com^
+||sodo6868.com^
 ||sodoviet.net^
 ||sodovn.net^
 ||soidongbw.com^
@@ -3919,6 +3938,7 @@
 ||vn969.com^
 ||vnaz888.com^
 ||vnbiz88.com^
+||vnboc.com^
 ||vnbong88.live^
 ||vnclub88.live^
 ||vncustomer1.vncslive.com^
@@ -4162,6 +4182,7 @@
 ||xengtructuyen.com^
 ||xidach.8day66.com^
 ||xingtou888.com^
+||xkiosx.xyz^
 ||xljs2.com^
 ||xn--hi-ji6caa.com^
 ||xo88.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 Jul 2023 09:22 UTC+7
-# Version: 2307130922
-# Blocked: 4,759 domains
+# Last modified: 13 Jul 2023 13:42 UTC+7
+# Version: 2307131342
+# Blocked: 4,785 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -276,8 +276,11 @@
 0.0.0.0 888ae888.com
 0.0.0.0 888b.com
 0.0.0.0 888b.in
+0.0.0.0 888b.moe
 0.0.0.0 888b.trade
+0.0.0.0 888b.xkiosx.xyz
 0.0.0.0 888betk8.net
+0.0.0.0 888bvn.vip
 0.0.0.0 888k8vn.com
 0.0.0.0 888thao.com
 0.0.0.0 889ae888.com
@@ -557,6 +560,7 @@
 0.0.0.0 api.red88.us
 0.0.0.0 api.red88.vin
 0.0.0.0 api.red88.vip
+0.0.0.0 api.s999h.com
 0.0.0.0 api.shbet0.com
 0.0.0.0 api.shbet3.com
 0.0.0.0 api.shbetvv.com
@@ -1971,6 +1975,7 @@
 0.0.0.0 k8jsback2app.com
 0.0.0.0 k8jsback3app.com
 0.0.0.0 k8jsback4app.com
+0.0.0.0 k8k26.com
 0.0.0.0 k8kol.com
 0.0.0.0 k8life.com
 0.0.0.0 k8link.com
@@ -2368,6 +2373,7 @@
 0.0.0.0 k8vinavn037.com
 0.0.0.0 k8vinavn038.com
 0.0.0.0 k8vinavn039.com
+0.0.0.0 k8vip.me
 0.0.0.0 k8vip01.com
 0.0.0.0 k8vip02.com
 0.0.0.0 k8vip03.com
@@ -2888,6 +2894,7 @@
 0.0.0.0 lucky88.uk
 0.0.0.0 lucky88.vin
 0.0.0.0 lucky88.win
+0.0.0.0 luckyxoso.com
 0.0.0.0 lux39.club
 0.0.0.0 lux888.club
 0.0.0.0 lxviet66.com
@@ -2929,7 +2936,9 @@
 0.0.0.0 m.fivevn.net
 0.0.0.0 m.happy9luck.com
 0.0.0.0 m.i9bet75.com
+0.0.0.0 m.k8k26.com
 0.0.0.0 m.k8sport.com
+0.0.0.0 m.k8vip.me
 0.0.0.0 m.kimsa338.com
 0.0.0.0 m.kimsa88.com
 0.0.0.0 m.kimsa888.com
@@ -2949,6 +2958,7 @@
 0.0.0.0 m.mibet.win
 0.0.0.0 m.mibet88.com
 0.0.0.0 m.mig8vn.com
+0.0.0.0 m.mot88i.com
 0.0.0.0 m.ms3388.com
 0.0.0.0 m.ms88asia.com
 0.0.0.0 m.ms88ca.com
@@ -2980,6 +2990,7 @@
 0.0.0.0 m.vn88.com
 0.0.0.0 m.vn88hn.live
 0.0.0.0 m.vn88vui.live
+0.0.0.0 m.vnboc.com
 0.0.0.0 m.vnbong88.live
 0.0.0.0 m.vndbet88.com
 0.0.0.0 m.vnloto.com
@@ -3070,6 +3081,7 @@
 0.0.0.0 mmwin.nearom.com
 0.0.0.0 mobi.oleviet777.com
 0.0.0.0 mobile.k8sport.com
+0.0.0.0 mot88i.com
 0.0.0.0 moto88.win
 0.0.0.0 moto880.com
 0.0.0.0 mrewards.w88club.com
@@ -3398,7 +3410,11 @@
 0.0.0.0 s9996.com
 0.0.0.0 s9997.com
 0.0.0.0 s999b.com
+0.0.0.0 s999c.com
 0.0.0.0 s999d.com
+0.0.0.0 s999e.com
+0.0.0.0 s999g.com
+0.0.0.0 s999h.com
 0.0.0.0 sam86vip.tv
 0.0.0.0 sam86vip.vin
 0.0.0.0 samvip.bet
@@ -3472,6 +3488,9 @@
 0.0.0.0 sodo13.com
 0.0.0.0 sodo14.com
 0.0.0.0 sodo15.com
+0.0.0.0 sodo66.app
+0.0.0.0 sodo678.com
+0.0.0.0 sodo6868.com
 0.0.0.0 sodoviet.net
 0.0.0.0 sodovn.net
 0.0.0.0 soidongbw.com
@@ -3898,6 +3917,7 @@
 0.0.0.0 vn969.com
 0.0.0.0 vnaz888.com
 0.0.0.0 vnbiz88.com
+0.0.0.0 vnboc.com
 0.0.0.0 vnbong88.live
 0.0.0.0 vnclub88.live
 0.0.0.0 vncustomer1.vncslive.com
@@ -4420,7 +4440,9 @@
 0.0.0.0 www.jss77.net
 0.0.0.0 www.jun889.vip
 0.0.0.0 www.k188casino.vip
+0.0.0.0 www.k8k26.com
 0.0.0.0 www.k8sport.com
+0.0.0.0 www.k8vip.me
 0.0.0.0 www.kc6bet.net
 0.0.0.0 www.keonhacai3.com
 0.0.0.0 www.kidslovemartialartsomahane.com
@@ -4513,6 +4535,7 @@
 0.0.0.0 www.s9996.com
 0.0.0.0 www.s9997.com
 0.0.0.0 www.s999b.com
+0.0.0.0 www.s999h.com
 0.0.0.0 www.sbc31.com
 0.0.0.0 www.sbetviet.com
 0.0.0.0 www.seb121.net
@@ -4529,6 +4552,8 @@
 0.0.0.0 www.socvip9.club
 0.0.0.0 www.sodo109.com
 0.0.0.0 www.sodo14.com
+0.0.0.0 www.sodo66.app
+0.0.0.0 www.sodo678.com
 0.0.0.0 www.sol86.com
 0.0.0.0 www.solarbet.com
 0.0.0.0 www.solbet88.com
@@ -4707,6 +4732,7 @@
 0.0.0.0 xengtructuyen.com
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xingtou888.com
+0.0.0.0 xkiosx.xyz
 0.0.0.0 xljs2.com
 0.0.0.0 xn--hi-ji6caa.com
 0.0.0.0 xo88.com
