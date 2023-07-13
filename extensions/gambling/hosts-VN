@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 Jul 2023 13:42 UTC+7
-# Version: 2307131342
-# Blocked: 4,785 domains
+# Last modified: 13 Jul 2023 15:59 UTC+7
+# Version: 2307131559
+# Blocked: 4,787 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -86,6 +86,7 @@
 0.0.0.0 12fifa2018.com
 0.0.0.0 130casino.com
 0.0.0.0 14betvnd.com
+0.0.0.0 157win.com
 0.0.0.0 168kbet.com
 0.0.0.0 1789bet.com
 0.0.0.0 179bet.net
@@ -4151,6 +4152,7 @@
 0.0.0.0 www.123b.org
 0.0.0.0 www.123win.pro
 0.0.0.0 www.12b99.com
+0.0.0.0 www.157win.com
 0.0.0.0 www.168kbet.com
 0.0.0.0 www.188thethao.com
 0.0.0.0 www.1tamtam.com

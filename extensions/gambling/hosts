@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 Jul 2023 13:42 UTC+7
-# Version: 2307131342
-# Blocked: 159,434 domains
+# Last modified: 13 Jul 2023 15:59 UTC+7
+# Version: 2307131559
+# Blocked: 159,435 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -149614,6 +149614,7 @@
 0.0.0.0 www.123b.org
 0.0.0.0 www.123win.pro
 0.0.0.0 www.12b99.com
+0.0.0.0 www.157win.com
 0.0.0.0 www.168kbet.com
 0.0.0.0 www.188Betcn2.com
 0.0.0.0 www.188betcn2.com

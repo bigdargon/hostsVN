@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 13 Jul 2023 13:42 UTC+7
-! Version: 2307131342
-! Blocked: 4,239 rules
+! Last modified: 13 Jul 2023 15:59 UTC+7
+! Version: 2307131559
+! Blocked: 4,240 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -83,6 +83,7 @@
 ||12fifa2018.com^
 ||130casino.com^
 ||14betvnd.com^
+||157win.com^
 ||168kbet.com^
 ||1789bet.com^
 ||179bet.net^
