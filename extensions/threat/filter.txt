@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 13 Jul 2023 15:59 UTC+7
-! Version: 2307131559
-! Blocked: 3,786 rules
+! Last modified: 14 Jul 2023 10:17 UTC+7
+! Version: 2307141017
+! Blocked: 3,788 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -145,6 +145,7 @@
 ||amazonxk.com^
 ||amg133180.com^
 ||amg187208.com^
+||amhen.com^
 ||amnsreiuojy.ru^
 ||anbinh-finance.club^
 ||anceovarec.cfd^
@@ -2239,6 +2240,7 @@
 ||shopeexpress.online^
 ||shopeexs.top^
 ||shopeo.cc^
+||shopepvip.com^
 ||shopeskolo.com^
 ||shopfamilyyx.com^
 ||shopfe1425.com^

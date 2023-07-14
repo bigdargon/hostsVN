@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 13 Jul 2023 15:59 UTC+7
-# Version: 2307131559
-# Blocked: 3,551 domains
+# Last modified: 14 Jul 2023 10:17 UTC+7
+# Version: 2307141017
+# Blocked: 3,553 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -120,6 +120,7 @@
 0.0.0.0 amazonxk.com
 0.0.0.0 amg133180.com
 0.0.0.0 amg187208.com
+0.0.0.0 amhen.com
 0.0.0.0 anbinh-finance.club
 0.0.0.0 aodaisieuvietnhi2022.weebly.com
 0.0.0.0 app.mybigc.net
@@ -2006,6 +2007,7 @@
 0.0.0.0 shopeexpress.online
 0.0.0.0 shopeexs.top
 0.0.0.0 shopeo.cc
+0.0.0.0 shopepvip.com
 0.0.0.0 shopeskolo.com
 0.0.0.0 shopfamilyyx.com
 0.0.0.0 shopfe1425.com
