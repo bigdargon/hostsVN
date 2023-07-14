@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 14 Jul 2023 10:17 UTC+7
-# Version: 2307141017
-# Blocked: 4,788 domains
+# Last modified: 14 Jul 2023 10:27 UTC+7
+# Version: 2307141027
+# Blocked: 4,787 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -108,7 +108,6 @@
 0.0.0.0 188thethao.com
 0.0.0.0 188vaobong.com
 0.0.0.0 188viet.com
-0.0.0.0 1898bet.com
 0.0.0.0 189sport.com
 0.0.0.0 18luck.pro
 0.0.0.0 1eight8.com

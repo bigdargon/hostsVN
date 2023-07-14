@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Jul 2023 10:18 UTC+7
-! Version: 2307141018
-! Blocked: 848 rules
+! Last modified: 14 Jul 2023 10:27 UTC+7
+! Version: 2307141027
+! Blocked: 834 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -372,13 +372,11 @@
 ||adms.phunusuckhoe.vn^
 ||adpostback.headlines.pw^
 ||ads-api.playfun.vn^
-||ads-backend.nhadatmoi.net^
 ||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
 ||ads.568play.vn^
 ||ads.6svn.com^
 ||ads.admatrix.vn^
-||ads.alophim.org^
 ||ads.autonet.com.vn^
 ||ads.baoangiang.com.vn^
 ||ads.baobinhduong.vn^
@@ -419,7 +417,6 @@
 ||ads.tiki.vn^
 ||ads.vietbao.vn^
 ||ads.vishare.vn^
-||ads.vkool.info^
 ||ads.vlr.vn^
 ||ads.vovlive.vn^
 ||ads.xedoisong.vn^
@@ -446,14 +443,11 @@
 ||adv.vnnshop.vn^
 ||adver.24h.com.vn^
 ||advert-admin.vnay.vn^
-||advertisement-nhatanh.com^
 ||advserver.cgv.vn^
 ||advzone.ioe.vn^
 ||adx.baolongan.vn^
 ||adx.chinmedia.vn^
 ||adx.edutimes.com.vn^
-||adx.golfnews.vn^
-||adx.hoanggia.net^
 ||adx.hoanggia.net.vn^
 ||adx.hongtinnhanh.com^
 ||adx.kul.vn^
@@ -524,7 +518,6 @@
 ||campaign.gitiho.com^
 ||cdn-ads.thesaigontimes.vn^
 ||cdn.api-connect.io^
-||cdn.rongzhouxing.com^
 ||cdn2.cache.vn^
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||chiasephim.xyz^
@@ -567,7 +560,6 @@
 ||financial-agent.headlines.pw^
 ||follow.vnay.vn^
 ||gamma.cachefly.net^
-||ghimc.vn^
 ||go.vnecdn.com^
 ||gtm.saostar.vn^
 ||gtmjs.com^
@@ -621,7 +613,6 @@
 ||log.infonet.vn^
 ||log.kaka.me^
 ||log.kienthuc.net.vn^
-||log.kinhdoanhhoinhap.vn^
 ||log.kinhtedouong.vn^
 ||log.mekongasean.vn^
 ||log.ngaynay.vn^
@@ -640,7 +631,6 @@
 ||log.tinnhac.com^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
-||log.toss.vn^
 ||log.trithuctructuyen.com.vn^
 ||log.trithuctructuyen.vn^
 ||log.tv360.vn^
@@ -687,10 +677,8 @@
 ||offerwall.headlines.pw^
 ||openx.motgame.vn^
 ||ox1.vietstock.vn^
-||pixel.chotot.com^
 ||production-tracking.riviu.co^
 ||proof.sudo.vn^
-||px-cdn.saostar.vn^
 ||px.saostar.vn^
 ||q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me^
 ||qc.5giay.vn^
@@ -747,7 +735,6 @@
 ||stats.bizweb.vn^
 ||stats.dongphim.net^
 ||stats.hstatic.net^
-||stats.muasamcong.gov.vn^
 ||stats.petrotimes.vn^
 ||stats.tamdiem247.com^
 ||stats.vietnammoi.vn^
@@ -793,7 +780,6 @@
 ||tracker.edupia.vn^
 ||tracker.fado.vn^
 ||tracker.gigaphim.com^
-||tracker.nhandaovadoisong.vn^
 ||tracker.phunusuckhoe.vn^
 ||tracker.phunuvagiadinh.vn^
 ||tracker.thichxemphim.net^
