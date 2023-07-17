@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 14 Jul 2023 10:27 UTC+7
-! Version: 2307141027
-! Blocked: 4,240 rules
+! Last modified: 17 Jul 2023 22:41 UTC+7
+! Version: 2307172241
+! Blocked: 4,244 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -667,6 +667,8 @@
 ||big88.one^
 ||bigbet0015.com^
 ||bigbet2258.com^
+||bigboss23.com^
+||bigboss93.com^
 ||bigk8th888.com^
 ||bk368.com^
 ||bk8.live^
@@ -1269,6 +1271,7 @@
 ||hi88vip8.com^
 ||hiephoilangnghevietnam.com^
 ||hit1.club^
+||hit68.net^
 ||hl8.daily123hl8.com^
 ||hl8atm.com^
 ||hl8bai.com^
@@ -3259,6 +3262,7 @@
 ||play.go88.im^
 ||play.go88.vip^
 ||play.go88s.tv^
+||play.hit68.net^
 ||play.manclub.vin^
 ||play.nemo.vin^
 ||play.playiwin.biz^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 14 Jul 2023 10:27 UTC+7
-# Version: 2307141027
-# Blocked: 4,787 domains
+# Last modified: 17 Jul 2023 22:41 UTC+7
+# Version: 2307172241
+# Blocked: 4,791 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -662,6 +662,8 @@
 0.0.0.0 big88.one
 0.0.0.0 bigbet0015.com
 0.0.0.0 bigbet2258.com
+0.0.0.0 bigboss23.com
+0.0.0.0 bigboss93.com
 0.0.0.0 bigk8th888.com
 0.0.0.0 bk368.com
 0.0.0.0 bk8.live
@@ -1260,6 +1262,7 @@
 0.0.0.0 hi88vip8.com
 0.0.0.0 hiephoilangnghevietnam.com
 0.0.0.0 hit1.club
+0.0.0.0 hit68.net
 0.0.0.0 hl8.daily123hl8.com
 0.0.0.0 hl8atm.com
 0.0.0.0 hl8bai.com
@@ -3248,6 +3251,7 @@
 0.0.0.0 play.go88.im
 0.0.0.0 play.go88.vip
 0.0.0.0 play.go88s.tv
+0.0.0.0 play.hit68.net
 0.0.0.0 play.manclub.vin
 0.0.0.0 play.nemo.vin
 0.0.0.0 play.playiwin.biz
