@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 17 Jul 2023 22:41 UTC+7
-! Version: 2307172241
-! Blocked: 3,357 rules
+! Last modified: 19 Jul 2023 10:22 UTC+7
+! Version: 2307191022
+! Blocked: 3,358 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2315,6 +2315,7 @@
 ||sextop.tv^
 ||sextop1.app^
 ||sextop1.best^
+||sextop1.bio^
 ||sextop1.club^
 ||sextop1.dev^
 ||sextop1.fun^

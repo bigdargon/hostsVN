@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 17 Jul 2023 22:41 UTC+7
-# Version: 2307172241
-# Blocked: 159,206 domains
+# Last modified: 19 Jul 2023 10:22 UTC+7
+# Version: 2307191022
+# Blocked: 159,210 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -17074,14 +17074,17 @@
 0.0.0.0 1wb3t.com
 0.0.0.0 1wbae.xyz
 0.0.0.0 1wgokj.top
+0.0.0.0 1win-cdn.com
 0.0.0.0 1win-register.site
 0.0.0.0 1win-service.com
 0.0.0.0 1win.com.ci
+0.0.0.0 1win.direct
 0.0.0.0 1win007.com
 0.0.0.0 1win8.bet
 0.0.0.0 1wineightyeight.com
 0.0.0.0 1wkhwv.top
 0.0.0.0 1wxdor.com
+0.0.0.0 1wyaas.top
 0.0.0.0 1x-00.com
 0.0.0.0 1x-01.com
 0.0.0.0 1x-02.com
@@ -117468,6 +117471,7 @@
 0.0.0.0 img2.imvet.net
 0.0.0.0 imgcdnbet.live
 0.0.0.0 imgcdnclouf.com
+0.0.0.0 imgproxy.1win-cdn.com
 0.0.0.0 imgservice.mibet.com
 0.0.0.0 imgsg88.com
 0.0.0.0 imlottery.cn

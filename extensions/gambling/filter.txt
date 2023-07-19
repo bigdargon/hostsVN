@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 17 Jul 2023 22:41 UTC+7
-! Version: 2307172241
-! Blocked: 158,211 rules
+! Last modified: 19 Jul 2023 10:22 UTC+7
+! Version: 2307191022
+! Blocked: 158,215 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17075,14 +17075,17 @@
 ||1wb3t.com^
 ||1wbae.xyz^
 ||1wgokj.top^
+||1win-cdn.com^
 ||1win-register.site^
 ||1win-service.com^
 ||1win.com.ci^
+||1win.direct^
 ||1win007.com^
 ||1win8.bet^
 ||1wineightyeight.com^
 ||1wkhwv.top^
 ||1wxdor.com^
+||1wyaas.top^
 ||1x-00.com^
 ||1x-01.com^
 ||1x-02.com^
@@ -117496,6 +117499,7 @@
 ||img2.imvet.net^
 ||imgcdnbet.live^
 ||imgcdnclouf.com^
+||imgproxy.1win-cdn.com^
 ||imgservice.mibet.com^
 ||imgsg88.com^
 ||imlottery.cn^
