@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 19 Jul 2023 10:23 UTC+7
-! Version: 2307191023
-! Blocked: 10,129 rules
+! Last modified: 21 Jul 2023 23:23 UTC+7
+! Version: 2307212323
+! Blocked: 10,144 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -972,6 +972,7 @@
 ||admarketplace.net^
 ||admarvel.com^
 ||admedia.com^
+||admedo.com^
 ||admidainsight.com^
 ||admix.in^
 ||admixer.co.kr^
@@ -1091,6 +1092,7 @@
 ||adstatic.b-cdn.net^
 ||adstatic.com^
 ||adsterra.org^
+||adswin.net^
 ||adswizz.com^
 ||adsymptotic.com^
 ||adsyndication.msn.com^
@@ -1299,6 +1301,7 @@
 ||atwola.com^
 ||audid-api-sg.taobao.com^
 ||audid-api.taobao.com^
+||audrte.com^
 ||authbe.sec.intl.miui.com^
 ||automatad.com^
 ||auxml.com^
@@ -1554,6 +1557,7 @@
 ||data.sec.miui.com^
 ||datacollector-dra.dt.hicloud.com^
 ||datawrkz.com^
+||de17a.com^
 ||deepintent.com^
 ||deltadna.net^
 ||demandbase.com^
@@ -2319,6 +2323,7 @@
 ||segment.io^
 ||segment.psg.nexstardigital.net^
 ||selectmedia.asia^
+||semasio.net^
 ||sensic.net^
 ||servebom.com^
 ||servedby-buysellads.com^
@@ -2386,6 +2391,7 @@
 ||st-eu.dynamicyield.com^
 ||st.dynamicyield.com^
 ||stack-sonar.com^
+||stackadapt.com^
 ||startappservice.com^
 ||stat-rock.com^
 ||stat.ovh^
@@ -2599,6 +2605,7 @@
 ||web1s.com^
 ||webengage.com^
 ||webgains.com^
+||weborama.fr^
 ||webpushr.com^
 ||webvisor.com^
 ||webvisor.org^
@@ -3022,7 +3029,6 @@
 ||admarket.network^
 ||admedia.network^
 ||admedia.ro^
-||admedo.com^
 ||admeld.com^
 ||admeta.com^
 ||admex.com^
@@ -3990,7 +3996,6 @@
 ||audienceinsights.com^
 ||audiencemanager.de^
 ||audiens.com^
-||audrte.com^
 ||augu3yhd485st.com^
 ||augur.io^
 ||aulseewhie.com^
@@ -4377,6 +4382,7 @@
 ||boygcranage.com^
 ||bpaqzithab.com^
 ||bpath.com^
+||bphfmm.com^
 ||bpipihwhumif.com^
 ||bqstreamer.com^
 ||br3azil334nutsz.com^
@@ -5082,7 +5088,6 @@
 ||dckifhpovvbpb.com^
 ||dcyaglnhuvf.com^
 ||ddla593ymz72o.cloudfront.net^
-||de17a.com^
 ||deadpantruck.com^
 ||dealdotcom.com^
 ||deanmediagroup.com^
@@ -5969,6 +5974,7 @@
 ||gwallet.com^
 ||gwawl-oqs.com^
 ||gweluwaggoc.com^
+||gycqna.com^
 ||gyfumobo.com^
 ||h2aek6rv0ard.com^
 ||h78xb.pw^
@@ -6302,6 +6308,7 @@
 ||ingig-nes.com^
 ||ingivervidetur.uno^
 ||ingulfsgliss.life^
+||ingzhe.com^
 ||inheritedfinnishdysfunctional.com^
 ||injectlocum.com^
 ||inkfeedmausoleum.com^
@@ -6392,6 +6399,7 @@
 ||irresolutesolemn.com^
 ||irritateinformantmeddle.com^
 ||irritationmotion.com^
+||irtvro.com^
 ||isfxsiooyjad.com^
 ||isopachfumes.live^
 ||itfarm.com^
@@ -6444,6 +6452,7 @@
 ||jfiwzimupbt.com^
 ||jfoaxwbatlic.com^
 ||jgejqdddslxry.com^
+||jggjh.com^
 ||jhukfaosdjfa.com^
 ||jighucme.com^
 ||jikzudkkispi.com^
@@ -7297,6 +7306,7 @@
 ||niyandadengues.digital^
 ||nkeokgokfkuz.com^
 ||nkexuhswyom.com^
+||nlxini.com^
 ||nmolizbkuowp.com^
 ||nnlczheczlq.com^
 ||no2veeamggaseber.com^
@@ -7347,6 +7357,7 @@
 ||nuseek.com^
 ||nutletcorvees.com^
 ||nuttyorganization.com^
+||nvcrcf.com^
 ||nvmjdpbjgrh.com^
 ||nwmqhgeixqan.com^
 ||nyalacornily.cam^
@@ -8081,6 +8092,7 @@
 ||qlfqkjluvz.com^
 ||qmaacxajsovk.com^
 ||qmaodnossb.com^
+||qmsvnh.com^
 ||qmxgkgykaex.com^
 ||qnsr.com^
 ||qp.ezfxpuo.cn^
@@ -8330,6 +8342,7 @@
 ||riotousgrit.com^
 ||ripapgrilof.com^
 ||risk.clearbit.com^
+||ritedn.com^
 ||ritzykey.com^
 ||riverhit.com^
 ||rjw4obbw.com^
@@ -8540,7 +8553,6 @@
 ||selfishsnake.com^
 ||sellingtandays.com^
 ||semantiqo.com^
-||semasio.net^
 ||senddroid.com^
 ||sendmepixel.com^
 ||sensenetworks.com^
@@ -8801,7 +8813,6 @@
 ||sspapi-prd.samsungrs.com^
 ||ssqyuvavse.com^
 ||st-n.pc2ads.com^
-||stackadapt.com^
 ||stagepopkek.com^
 ||stagroam.net^
 ||stakingscrew.com^
@@ -9421,6 +9432,7 @@
 ||ucxfdvhuqwpig.com^
 ||udinugoo.com^
 ||udmserve.net^
+||udwuyw.com^
 ||ueikno.com^
 ||uejwqbgtjxdw.com^
 ||ueypzubwo.com^
@@ -9587,6 +9599,8 @@
 ||vetdeberg.com^
 ||vexenbill.com^
 ||vfagizavsdul.com^
+||vgrcxa.com^
+||vgsksc.com^
 ||vheoggjiqaz.com^
 ||vhrtgvzcmrfoo.com^
 ||vi-tag.net^
@@ -9738,7 +9752,6 @@
 ||webmasterplan.de^
 ||weboohost.com^
 ||weborama.com^
-||weborama.fr^
 ||weborama.net^
 ||webpartners.co^
 ||webpinp.com^
@@ -9773,6 +9786,7 @@
 ||whaleads.com^
 ||whaodvfkydib.com^
 ||whazugho.com^
+||whcfmp.com^
 ||wheedlehooplas.com^
 ||wheeksir.net^
 ||whenu.com^
@@ -10059,6 +10073,7 @@
 ||zarget.com^
 ||zarpop.com^
 ||zayac2volk11.com^
+||zayatr.com^
 ||zazmunokpvzi.com^
 ||zbwp6ghm.com^
 ||zcifapnpyaxx.com^

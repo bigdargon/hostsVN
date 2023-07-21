@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Jul 2023 10:23 UTC+7
-# Version: 2307191023
-# Blocked: 19,493 domains
+# Last modified: 21 Jul 2023 23:23 UTC+7
+# Version: 2307212323
+# Blocked: 19,519 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6404,7 +6404,9 @@
 0 global.load.exelator.com
 0 haproxy.ewr1.exelator.com
 0 imrww.exelator.com
+0 load-use1.exelator.com
 0 load.exelator.com
+0 loada.exelator.com
 0 loadan.exelator.com
 0 loadeu.exelator.com
 0 loadm.exelator.com
@@ -6412,8 +6414,8 @@
 0 loadr.exelator.com
 0 loadus.exelator.com
 0 loadus.tm.ssl.exelator.com
-0 mojo.exelator.com
 0 mojo-dev.exelator.com
+0 mojo.exelator.com
 0 mydmp.exelator.com
 0 pixel.exelator.com
 0 pwm.exelator.com
@@ -10085,6 +10087,22 @@
 0 aj3019.bid
 0 aj101.xyz
 0 aj1907.xyz
+0 weborama.fr
+0 cr.frontend.weborama.fr
+0 idsync.frontend.weborama.fr
+0 admedo.com
+0 pool.admedo.com
+0 a.audrte.com
+0 audrte.com
+0 d5p.de17a.com
+0 de17a.com
+0 stackadapt.com
+0 sync.srv.stackadapt.com
+0 semasio.net
+0 uipglob.semasio.net
+0 uipus.semasio.net
+0 adswin.net
+0 aff.adswin.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -12223,7 +12241,6 @@
 0 admarket.network
 0 admedia.network
 0 admedia.ro
-0 admedo.com
 0 admeld.com
 0 admeta.com
 0 admex.com
@@ -13095,7 +13112,6 @@
 0 audienceinsights.com
 0 audiencemanager.de
 0 audiens.com
-0 audrte.com
 0 augu3yhd485st.com
 0 augur.io
 0 aulseewhie.com
@@ -13463,6 +13479,7 @@
 0 boygcranage.com
 0 bpaqzithab.com
 0 bpath.com
+0 bphfmm.com
 0 bpipihwhumif.com
 0 bqstreamer.com
 0 br3azil334nutsz.com
@@ -14094,7 +14111,6 @@
 0 dc-storm.com
 0 dckifhpovvbpb.com
 0 dcyaglnhuvf.com
-0 de17a.com
 0 deadpantruck.com
 0 dealdotcom.com
 0 deanmediagroup.com
@@ -14922,6 +14938,7 @@
 0 gwallet.com
 0 gwawl-oqs.com
 0 gweluwaggoc.com
+0 gycqna.com
 0 gyfumobo.com
 0 h2aek6rv0ard.com
 0 h78xb.pw
@@ -15226,6 +15243,7 @@
 0 ingig-nes.com
 0 ingivervidetur.uno
 0 ingulfsgliss.life
+0 ingzhe.com
 0 inheritedfinnishdysfunctional.com
 0 injectlocum.com
 0 inkfeedmausoleum.com
@@ -15312,6 +15330,7 @@
 0 irresolutesolemn.com
 0 irritateinformantmeddle.com
 0 irritationmotion.com
+0 irtvro.com
 0 isopachfumes.live
 0 itfarm.com
 0 itgiblean.com
@@ -15363,6 +15382,7 @@
 0 jfiwzimupbt.com
 0 jfoaxwbatlic.com
 0 jgejqdddslxry.com
+0 jggjh.com
 0 jhukfaosdjfa.com
 0 jighucme.com
 0 jikzudkkispi.com
@@ -16134,6 +16154,7 @@
 0 niyandadengues.digital
 0 nkeokgokfkuz.com
 0 nkexuhswyom.com
+0 nlxini.com
 0 nmolizbkuowp.com
 0 nnlczheczlq.com
 0 no2veeamggaseber.com
@@ -16179,6 +16200,7 @@
 0 nuseek.com
 0 nutletcorvees.com
 0 nuttyorganization.com
+0 nvcrcf.com
 0 nvmjdpbjgrh.com
 0 nwmqhgeixqan.com
 0 nyalacornily.cam
@@ -16865,6 +16887,7 @@
 0 qlfqkjluvz.com
 0 qmaacxajsovk.com
 0 qmaodnossb.com
+0 qmsvnh.com
 0 qmxgkgykaex.com
 0 qnsr.com
 0 qp.ezfxpuo.cn
@@ -17094,6 +17117,7 @@
 0 ringsrecord.com
 0 riotousgrit.com
 0 ripapgrilof.com
+0 ritedn.com
 0 ritzykey.com
 0 riverhit.com
 0 rjw4obbw.com
@@ -17267,7 +17291,6 @@
 0 selectivesummer.com
 0 selfcampaign.com
 0 sellingtandays.com
-0 semasio.net
 0 senddroid.com
 0 sendmepixel.com
 0 sensenetworks.com
@@ -17508,7 +17531,6 @@
 0 sspapi-prd.samsungrs.com
 0 ssqyuvavse.com
 0 st-n.pc2ads.com
-0 stackadapt.com
 0 stagepopkek.com
 0 stagroam.net
 0 stakingscrew.com
@@ -18014,6 +18036,7 @@
 0 ucxfdvhuqwpig.com
 0 udinugoo.com
 0 udmserve.net
+0 udwuyw.com
 0 ueikno.com
 0 uejwqbgtjxdw.com
 0 ueypzubwo.com
@@ -18163,6 +18186,8 @@
 0 vetdeberg.com
 0 vexenbill.com
 0 vfagizavsdul.com
+0 vgrcxa.com
+0 vgsksc.com
 0 vheoggjiqaz.com
 0 vhrtgvzcmrfoo.com
 0 vi-tag.net
@@ -18301,7 +18326,6 @@
 0 webmasterplan.de
 0 weboohost.com
 0 weborama.com
-0 weborama.fr
 0 webpartners.co
 0 webpinp.com
 0 webpower.com
@@ -18333,6 +18357,7 @@
 0 whaleads.com
 0 whaodvfkydib.com
 0 whazugho.com
+0 whcfmp.com
 0 wheedlehooplas.com
 0 wheeksir.net
 0 whenu.com
@@ -18724,6 +18749,7 @@
 0 zap.buzz
 0 zarpop.com
 0 zayac2volk11.com
+0 zayatr.com
 0 zazmunokpvzi.com
 0 zbwp6ghm.com
 0 zcifapnpyaxx.com

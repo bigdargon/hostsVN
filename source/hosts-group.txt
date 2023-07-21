@@ -6975,7 +6975,9 @@
 0.0.0.0 global.load.exelator.com
 0.0.0.0 haproxy.ewr1.exelator.com
 0.0.0.0 imrww.exelator.com
+0.0.0.0 load-use1.exelator.com
 0.0.0.0 load.exelator.com
+0.0.0.0 loada.exelator.com
 0.0.0.0 loadan.exelator.com
 0.0.0.0 loadeu.exelator.com
 0.0.0.0 loadm.exelator.com
@@ -6983,8 +6985,8 @@
 0.0.0.0 loadr.exelator.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loadus.tm.ssl.exelator.com
-0.0.0.0 mojo.exelator.com
 0.0.0.0 mojo-dev.exelator.com
+0.0.0.0 mojo.exelator.com
 0.0.0.0 mydmp.exelator.com
 0.0.0.0 pixel.exelator.com
 0.0.0.0 pwm.exelator.com
@@ -11380,3 +11382,26 @@
 #[aj1*.xyz]
 0.0.0.0 aj101.xyz
 0.0.0.0 aj1907.xyz
+#[weborama.fr]
+0.0.0.0 weborama.fr
+0.0.0.0 cr.frontend.weborama.fr
+0.0.0.0 idsync.frontend.weborama.fr
+#[admedo.com]
+0.0.0.0 admedo.com
+0.0.0.0 pool.admedo.com
+#[audrte.com]
+0.0.0.0 a.audrte.com
+0.0.0.0 audrte.com
+#[de17a.com]
+0.0.0.0 d5p.de17a.com
+0.0.0.0 de17a.com
+#[stackadapt.com]
+0.0.0.0 stackadapt.com
+0.0.0.0 sync.srv.stackadapt.com
+#[semasio.net]
+0.0.0.0 semasio.net
+0.0.0.0 uipglob.semasio.net
+0.0.0.0 uipus.semasio.net
+#[adswin.net]
+0.0.0.0 adswin.net
+0.0.0.0 aff.adswin.net

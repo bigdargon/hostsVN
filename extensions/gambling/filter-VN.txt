@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 19 Jul 2023 10:22 UTC+7
-! Version: 2307191022
-! Blocked: 4,244 rules
+! Last modified: 21 Jul 2023 23:22 UTC+7
+! Version: 2307212322
+! Blocked: 4,263 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -232,6 +232,7 @@
 ||789clubs.club^
 ||789d.club^
 ||789k.club^
+||789v.club^
 ||78win01.com^
 ||78win04.com^
 ||78win07.com^
@@ -276,6 +277,7 @@
 ||887ae888.com^
 ||888ae888.com^
 ||888b.com^
+||888b.dev^
 ||888b.in^
 ||888b.moe^
 ||888b.trade^
@@ -364,6 +366,7 @@
 ||8xbet05.com^
 ||8xbet06.com^
 ||8xbet11.com^
+||8xbet184.com^
 ||8xbet253.com^
 ||910833.com^
 ||92lottery.com^
@@ -611,6 +614,7 @@
 ||b52.vip^
 ||b52.win^
 ||b52d.club^
+||b52k.club^
 ||b88ag.com^
 ||b89.bet^
 ||banca-red88.top^
@@ -1045,6 +1049,7 @@
 ||f6.macauclub.fun^
 ||f6.playv8.vip^
 ||f8bet.com^
+||f8bet.games^
 ||f8bet.homes^
 ||f8bet.site^
 ||f8bet.win^
@@ -1254,6 +1259,7 @@
 ||happynb.com^
 ||hb88017.com^
 ||hb88031.com^
+||hb88032.com^
 ||hb8864.com^
 ||hb8875.com^
 ||hb8887.com^
@@ -1271,6 +1277,7 @@
 ||hi88vip8.com^
 ||hiephoilangnghevietnam.com^
 ||hit1.club^
+||hit32.club^
 ||hit68.net^
 ||hl8.daily123hl8.com^
 ||hl8atm.com^
@@ -1305,6 +1312,7 @@
 ||i9bet.net^
 ||i9bet.poker^
 ||i9bet.vip^
+||i9bet07.com^
 ||i9bet1.com^
 ||i9bet10.com^
 ||i9bet100.com^
@@ -1440,6 +1448,7 @@
 ||iwin.club^
 ||iwin.info^
 ||iwin.us^
+||iwin10.club^
 ||iwin58.vip^
 ||iwin6699.com^
 ||iwin68m.com^
@@ -3040,6 +3049,7 @@
 ||maffiliate.w88club.com^
 ||maint.v79top.com^
 ||man.club^
+||manclub.fun^
 ||manclub.live^
 ||manclub.us^
 ||manclub.vin^
@@ -3065,6 +3075,7 @@
 ||may88vn.top^
 ||mayclub.net^
 ||mayman.vuabai9.com^
+||mb88.bet^
 ||mb88.com^
 ||mbx88.com^
 ||mc.bong99.com^
@@ -3179,6 +3190,7 @@
 ||nhat.bet^
 ||nhat.game^
 ||nhat.it^
+||nhat1.club^
 ||nhatvip.mobi^
 ||nhatvip.net^
 ||nhatvip.org^
@@ -3392,6 +3404,7 @@
 ||rik.top^
 ||rik.vip^
 ||rik.win^
+||rik6.com^
 ||rikbet789.club^
 ||rikgame.live^
 ||rikk.us^
@@ -3545,6 +3558,7 @@
 ||sum4.club^
 ||sun.to^
 ||sun.win^
+||sun13.win^
 ||sun52.bid^
 ||sun52.click^
 ||sun52.tv^
@@ -3687,6 +3701,7 @@
 ||thabet88.co^
 ||thabet88.info^
 ||thabet88.vip^
+||thaifastpay.top^
 ||thaik8.net^
 ||thailandk8.com^
 ||thailandk8.net^
@@ -3768,6 +3783,7 @@
 ||top9nhacai.top^
 ||topcc88.me^
 ||topdoithuong.net^
+||topnhacaihot.com^
 ||topnohu.com^
 ||tpviet66.com^
 ||tpviet88.com^
@@ -3873,6 +3889,7 @@
 ||vig.vietbet.eu^
 ||vin168.com^
 ||vin68.com^
+||vin777.work^
 ||vinalottery.com^
 ||vip.8kbet.vn^
 ||vip.dangkyrikvip.tv^
@@ -4137,6 +4154,7 @@
 ||win79.download^
 ||win79.pro^
 ||win79.vip^
+||win79a.com^
 ||win79play.me^
 ||win86.info^
 ||win88.me^
@@ -4246,6 +4264,7 @@
 ||zo.club^
 ||zo.game^
 ||zo1.win^
+||zo2.win^
 ||zo88.org^
 ||zowinvn.vip^
 ||ztij6.com^
