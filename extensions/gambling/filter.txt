@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 21 Jul 2023 23:22 UTC+7
-! Version: 2307212322
-! Blocked: 158,234 rules
+! Last modified: 24 Jul 2023 15:50 UTC+7
+! Version: 2307241550
+! Blocked: 158,352 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -92770,6 +92770,7 @@
 ||api.ae888sports02.com^
 ||api.aecricex.xyz^
 ||api.betlv.com^
+||api.btyseo.com^
 ||api.c5l1t57.site^
 ||api.dabet.club^
 ||api.f8bet0.com^
@@ -95479,6 +95480,7 @@
 ||babysplan.net^
 ||bacc1688.com^
 ||baccaratonline.win^
+||backoffice.bsport.io^
 ||bacuw.com^
 ||baeh5h.com^
 ||bafanshoes.com^
@@ -98874,7 +98876,9 @@
 ||bsmoh.com^
 ||bso-yekwhw.com^
 ||bsp-mjchqu.com^
+||bsport.io^
 ||bsport.live^
+||bsports8.net^
 ||bss-btb2ofds.com^
 ||bssmbb.com^
 ||bsssbb.com^
@@ -99063,6 +99067,7 @@
 ||bty02e.com^
 ||bty04t.com^
 ||bty04z.com^
+||bty0520.com^
 ||bty06s.com^
 ||bty06w.com^
 ||bty07g.com^
@@ -99088,6 +99093,7 @@
 ||bty0s9.com^
 ||bty0se.com^
 ||bty0to.com^
+||bty0v2.com^
 ||bty0zb.com^
 ||bty1050.com^
 ||bty117.com^
@@ -99097,7 +99103,9 @@
 ||bty13j.com^
 ||bty13n.com^
 ||bty13y.com^
+||bty16q.com^
 ||bty16t.com^
+||bty17p.com^
 ||bty17s.com^
 ||bty19r.com^
 ||bty1ad.com^
@@ -99157,11 +99165,13 @@
 ||bty3av.com^
 ||bty3bl.com^
 ||bty3ee.com^
+||bty3fp.com^
 ||bty3gw.com^
 ||bty3h0.com^
 ||bty3he.com^
 ||bty3hg.com^
 ||bty3hj.com^
+||bty3k8.com^
 ||bty3ky.com^
 ||bty3le.com^
 ||bty3lw.com^
@@ -99172,7 +99182,9 @@
 ||bty3s2.com^
 ||bty3s8.com^
 ||bty3sm.com^
+||bty3tg.com^
 ||bty3v9.com^
+||bty41m.com^
 ||bty42a.com^
 ||bty42t.com^
 ||bty45g.com^
@@ -99183,16 +99195,21 @@
 ||bty48w.com^
 ||bty4dl.com^
 ||bty4el.com^
+||bty4f3.com^
+||bty4g0.com^
+||bty4iz.com^
 ||bty4j0.com^
 ||bty4kv.com^
 ||bty4ln.com^
 ||bty4nh.com^
 ||bty4nu.com^
 ||bty4ox.com^
+||bty4p3.com^
 ||bty4p6.com^
 ||bty4q4.com^
 ||bty4qy.com^
 ||bty4rn.com^
+||bty4ry.com^
 ||bty4sg.com^
 ||bty4tg.com^
 ||bty4u5.com^
@@ -99209,6 +99226,7 @@
 ||bty577.com^
 ||bty5gz.com^
 ||bty5jc.com^
+||bty5jn.com^
 ||bty5mn.com^
 ||bty5r5.com^
 ||bty5s7.com^
@@ -99218,10 +99236,25 @@
 ||bty5wr.com^
 ||bty5xp.com^
 ||bty5yo.com^
+||bty6001.com^
+||bty6002.com^
+||bty6003.com^
+||bty6004.com^
+||bty6005.com^
+||bty6006.com^
+||bty6007.com^
+||bty6008.com^
+||bty6009.com^
+||bty6010.com^
+||bty6011.com^
+||bty6012.com^
 ||bty60k.com^
 ||bty60p.com^
 ||bty60s.com^
+||bty6136.com^
 ||bty6137.com^
+||bty6138.com^
+||bty6151.com^
 ||bty61v.com^
 ||bty64c.com^
 ||bty64r.com^
@@ -99239,6 +99272,7 @@
 ||bty6hh.com^
 ||bty6lu.com^
 ||bty6m9.com^
+||bty6mn.com^
 ||bty6ph.com^
 ||bty6pp.com^
 ||bty6rb.com^
@@ -99247,6 +99281,7 @@
 ||bty6vc.com^
 ||bty6vm.com^
 ||bty6vp.com^
+||bty6w0.com^
 ||bty6w3.com^
 ||bty6z2.com^
 ||bty70r.com^
@@ -99273,16 +99308,20 @@
 ||bty7v0.com^
 ||bty80f.com^
 ||bty835.com^
+||bty83h.com^
 ||bty83w.com^
 ||bty83x.com^
 ||bty84l.com^
+||bty8556.com^
 ||bty85k.com^
 ||bty85u.com^
 ||bty86s.com^
 ||bty88q.com^
 ||bty88r.com^
+||bty8ba.com^
 ||bty8bf.com^
 ||bty8de.com^
+||bty8dy.com^
 ||bty8ez.com^
 ||bty8fi.com^
 ||bty8gf.com^
@@ -99292,9 +99331,11 @@
 ||bty8ll.com^
 ||bty8m3.com^
 ||bty8o1.com^
+||bty8p9.com^
 ||bty8qq.com^
 ||bty8st.com^
 ||bty8tn.com^
+||bty8xa.com^
 ||bty8yt.com^
 ||bty8zb.com^
 ||bty90i.com^
@@ -99330,6 +99371,7 @@
 ||btyazt.com^
 ||btyazz.com^
 ||btyb0g.com^
+||btyb1n.com^
 ||btyb2t.com^
 ||btyb6g.com^
 ||btyb84.com^
@@ -99345,6 +99387,7 @@
 ||btybm7.com^
 ||btybmf.com^
 ||btybnw.com^
+||btybow.com^
 ||btybpp.com^
 ||btybpu.com^
 ||btybs1.com^
@@ -99362,9 +99405,13 @@
 ||btyc82.com^
 ||btyc84.com^
 ||btyc8l.com^
+||btycc8.com^
 ||btyceh.com^
 ||btycet.com^
 ||btycez.com^
+||btycfl.com^
+||btycgd.com^
+||btyci1.com^
 ||btyci8.com^
 ||btyck3.com^
 ||btycm1.com^
@@ -99383,12 +99430,14 @@
 ||btycxn.com^
 ||btycy4.com^
 ||btyd08.com^
+||btyd0v.com^
 ||btyd14.com^
 ||btyd6k.com^
 ||btydb4.com^
 ||btydb6.com^
 ||btydbr.com^
 ||btyddn.com^
+||btydel.com^
 ||btydff.com^
 ||btydgv.com^
 ||btydi1.com^
@@ -99419,11 +99468,13 @@
 ||btye70.com^
 ||btye7q.com^
 ||btye8f.com^
+||btye95.com^
 ||btye9k.com^
 ||btyea6.com^
 ||btyecu.com^
 ||btyed5.com^
 ||btyee2.com^
+||btyehs.com^
 ||btyehy.com^
 ||btyejo.com^
 ||btyel5.com^
@@ -99443,6 +99494,7 @@
 ||btyf08.com^
 ||btyf0z.com^
 ||btyf1n.com^
+||btyf33.com^
 ||btyf4l.com^
 ||btyf4u.com^
 ||btyf5s.com^
@@ -99461,6 +99513,7 @@
 ||btyftq.com^
 ||btyftr.com^
 ||btyfts.com^
+||btyfvf.com^
 ||btyfvk.com^
 ||btyfwk.com^
 ||btyfz6.com^
@@ -99472,6 +99525,7 @@
 ||btyg7b.com^
 ||btyg9m.com^
 ||btygc1.com^
+||btygci.com^
 ||btyge4.com^
 ||btygeh.com^
 ||btygek.com^
@@ -99503,6 +99557,7 @@
 ||btyh2j.com^
 ||btyh34.com^
 ||btyh43.com^
+||btyh4t.com^
 ||btyh4v.com^
 ||btyh5d.com^
 ||btyh6m.com^
@@ -99537,10 +99592,13 @@
 ||btyhy4.com^
 ||btyi0u.com^
 ||btyi1r.com^
+||btyi3g.com^
 ||btyi5r.com^
+||btyi7n.com^
 ||btyi8f.com^
 ||btyiam.com^
 ||btyicf.com^
+||btyidu.com^
 ||btyihr.com^
 ||btyihz.com^
 ||btyiif.com^
@@ -99553,7 +99611,9 @@
 ||btyisa.com^
 ||btyiu2.com^
 ||btyiv1.com^
+||btyivt.com^
 ||btyiy0.com^
+||btyiyb.com^
 ||btyj1g.com^
 ||btyj1t.com^
 ||btyj1x.com^
@@ -99578,6 +99638,7 @@
 ||btyjif.com^
 ||btyjiy.com^
 ||btyjju.com^
+||btyjky.com^
 ||btyjl9.com^
 ||btyjly.com^
 ||btyjn1.com^
@@ -99590,12 +99651,14 @@
 ||btyjth.com^
 ||btyjyw.com^
 ||btyk07.com^
+||btyk1f.com^
 ||btyk1p.com^
 ||btyk21.com^
 ||btyk2j.com^
 ||btyk3o.com^
 ||btyk40.com^
 ||btyk5q.com^
+||btyk6v.com^
 ||btyk90.com^
 ||btykck.com^
 ||btykd7.com^
@@ -99604,6 +99667,7 @@
 ||btykl2.com^
 ||btyklc.com^
 ||btykle.com^
+||btykmo.com^
 ||btykn3.com^
 ||btyknv.com^
 ||btykoh.com^
@@ -99624,18 +99688,23 @@
 ||btyl3f.com^
 ||btyl3i.com^
 ||btyl4y.com^
+||btyl5w.com^
 ||btyl7q.com^
+||btyl8v.com^
 ||btyl9g.com^
 ||btyl9i.com^
+||btylam.com^
 ||btylbu.com^
 ||btylbw.com^
 ||btyldi.com^
+||btylij.com^
 ||btylln.com^
 ||btylma.com^
 ||btylmo.com^
 ||btylmv.com^
 ||btyln0.com^
 ||btyln1.com^
+||btylok.com^
 ||btylqb.com^
 ||btyls1.com^
 ||btylve.com^
@@ -99645,6 +99714,7 @@
 ||btylxk.com^
 ||btyly5.com^
 ||btylzw.com^
+||btym08.com^
 ||btym20.com^
 ||btym2k.com^
 ||btym2x.com^
@@ -99661,6 +99731,7 @@
 ||btymkk.com^
 ||btymkn.com^
 ||btymlb.com^
+||btymlo.com^
 ||btymm3.com^
 ||btymmi.com^
 ||btymmy.com^
@@ -99689,6 +99760,7 @@
 ||btyn7c.com^
 ||btyn7g.com^
 ||btyn7t.com^
+||btyn7u.com^
 ||btyn8s.com^
 ||btyn9i.com^
 ||btyn9x.com^
@@ -99697,6 +99769,7 @@
 ||btynck.com^
 ||btyndd.com^
 ||btyndy.com^
+||btyngy.com^
 ||btynh9.com^
 ||btynhf.com^
 ||btynif.com^
@@ -99729,6 +99802,7 @@
 ||btyocc.com^
 ||btyoec.com^
 ||btyofc.com^
+||btyog6.com^
 ||btyokw.com^
 ||btyol0.com^
 ||btyol4.com^
@@ -99738,7 +99812,9 @@
 ||btyotm.com^
 ||btyouk.com^
 ||btyowc.com^
+||btyox3.com^
 ||btyp0g.com^
+||btyp2l.com^
 ||btyp3m.com^
 ||btyp3t.com^
 ||btyp5p.com^
@@ -99747,6 +99823,7 @@
 ||btyp86.com^
 ||btyp8f.com^
 ||btyp9v.com^
+||btypc2.com^
 ||btypdu.com^
 ||btypff.com^
 ||btypfp.com^
@@ -99760,11 +99837,13 @@
 ||btypnj.com^
 ||btypqb.com^
 ||btyptn.com^
+||btypu6.com^
 ||btypvb.com^
 ||btypvw.com^
 ||btypz6.com^
 ||btyq0h.com^
 ||btyq10.com^
+||btyq1j.com^
 ||btyq27.com^
 ||btyq6h.com^
 ||btyq7a.com^
@@ -99773,9 +99852,12 @@
 ||btyq8c.com^
 ||btyq8i.com^
 ||btyqbn.com^
+||btyqcl.com^
 ||btyqej.com^
+||btyqgr.com^
 ||btyqhk.com^
 ||btyqii.com^
+||btyqil.com^
 ||btyqip.com^
 ||btyqj2.com^
 ||btyqkv.com^
@@ -99785,6 +99867,7 @@
 ||btyqoo.com^
 ||btyqou.com^
 ||btyqpo.com^
+||btyqq6.com^
 ||btyqqg.com^
 ||btyqqo.com^
 ||btyqqz.com^
@@ -99804,6 +99887,7 @@
 ||btyr7a.com^
 ||btyrb5.com^
 ||btyrcn.com^
+||btyrcr.com^
 ||btyrdh.com^
 ||btyrdy.com^
 ||btyrfa.com^
@@ -99812,6 +99896,7 @@
 ||btyrix.com^
 ||btyrjd.com^
 ||btyrk3.com^
+||btyrki.com^
 ||btyrkm.com^
 ||btyrl2.com^
 ||btyrlk.com^
@@ -99819,13 +99904,16 @@
 ||btyrmm.com^
 ||btyrsc.com^
 ||btyry4.com^
+||btys15.com^
 ||btys3m.com^
 ||btys3x.com^
 ||btys4e.com^
 ||btys5w.com^
 ||btys7h.com^
+||btys7m.com^
 ||btys9r.com^
 ||btysam.com^
+||btyscj.com^
 ||btysdq.com^
 ||btysds.com^
 ||btysdv.com^
@@ -99859,6 +99947,7 @@
 ||btytdv.com^
 ||btytfh.com^
 ||btytfy.com^
+||btytg3.com^
 ||btythn.com^
 ||btytio.com^
 ||btytix.com^
@@ -99866,6 +99955,7 @@
 ||btytnj.com^
 ||btytoo.com^
 ||btytqf.com^
+||btytqj.com^
 ||btytrd.com^
 ||btytrs.com^
 ||btytst.com^
@@ -99877,9 +99967,12 @@
 ||btyu0c.com^
 ||btyu18.com^
 ||btyu1q.com^
+||btyu26.com^
+||btyu35.com^
 ||btyu3a.com^
 ||btyu3k.com^
 ||btyu5k.com^
+||btyu5s.com^
 ||btyu5z.com^
 ||btyu7p.com^
 ||btyu8e.com^
@@ -99889,12 +99982,16 @@
 ||btyufptrla.com^
 ||btyug1.com^
 ||btyugr.com^
+||btyuhg.com^
 ||btyuj0.com^
+||btyujv.com^
 ||btyukv.com^
+||btyunk.com^
 ||btyupp.com^
 ||btyuq5.com^
 ||btyus3.com^
 ||btyuuu.com^
+||btyuvu.com^
 ||btyv16.com^
 ||btyv1n.com^
 ||btyv2z.com^
@@ -99910,9 +100007,11 @@
 ||btyve6.com^
 ||btyvef.com^
 ||btyvfx.com^
+||btyvi7.com^
 ||btyvlh.com^
 ||btyvli.com^
 ||btyvlm.com^
+||btyvln.com^
 ||btyvnh.com^
 ||btyvnk.com^
 ||btyvpf.com^
@@ -99923,11 +100022,13 @@
 ||btyvyn.com^
 ||btyvzv.com^
 ||btyvzw.com^
+||btyw14.com^
 ||btyw35.com^
 ||btyw4n.com^
 ||btyw94.com^
 ||btyw9b.com^
 ||btyw9l.com^
+||btywas.com^
 ||btywb1.com^
 ||btywbw.com^
 ||btywbx.com^
@@ -99946,6 +100047,7 @@
 ||btywte.com^
 ||btywur.com^
 ||btywwe.com^
+||btywxl.com^
 ||btywyz.com^
 ||btyx06.com^
 ||btyx1f.com^
@@ -99954,6 +100056,8 @@
 ||btyx3f.com^
 ||btyx6d.com^
 ||btyx7c.com^
+||btyx8k.com^
+||btyxab.com^
 ||btyxbd.com^
 ||btyxbz.com^
 ||btyxce.com^
@@ -99962,11 +100066,14 @@
 ||btyxew.com^
 ||btyxgw.com^
 ||btyxic.com^
+||btyxkx.com^
 ||btyxss.com^
 ||btyxst.com^
 ||btyxxl.com^
 ||btyxy0.com^
+||btyy1j.com^
 ||btyy1t.com^
+||btyy28.com^
 ||btyy3c.com^
 ||btyy3p.com^
 ||btyy5q.com^
@@ -99993,9 +100100,11 @@
 ||btyyzv.com^
 ||btyz0m.com^
 ||btyz1q.com^
+||btyz37.com^
 ||btyz3f.com^
 ||btyz4j.com^
 ||btyz5b.com^
+||btyz67.com^
 ||btyz6c.com^
 ||btyz75.com^
 ||btyz9p.com^
@@ -100011,7 +100120,9 @@
 ||btyzi5.com^
 ||btyzip.com^
 ||btyzjt.com^
+||btyzkp.com^
 ||btyzln.com^
+||btyzmz.com^
 ||btyzoh.com^
 ||btyzou.com^
 ||btyzpp.com^
@@ -100025,6 +100136,7 @@
 ||btyzxb.com^
 ||btyzxk.com^
 ||btyzxn.com^
+||btyzyd.com^
 ||btyzye.com^
 ||btyzzc.com^
 ||bu352.com^
@@ -102664,6 +102776,7 @@
 ||chongaew.com^
 ||chongfenga.com^
 ||chongqingc7.com^
+||chongqingkongjie.com^
 ||chongshangxitianbb.com^
 ||chotdon88.com^
 ||chotdon888.com^
@@ -120047,6 +120160,7 @@
 ||jingbozhenren.com^
 ||jingbozuihaowan.com^
 ||jingjixia.bet^
+||jingpindaren.com^
 ||jingque.app^
 ||jingrongzs.com^
 ||jingzaijingbo.com^
@@ -136185,6 +136299,7 @@
 ||qh99.co^
 ||qh99na.com^
 ||qhg0088s.com^
+||qhgoufang.com^
 ||qhnmykjnew.com^
 ||qhpe9.vip^
 ||qht8e.com^
@@ -139279,6 +139394,7 @@
 ||sh8889.com^
 ||shaba999.com^
 ||shadeair.xyz^
+||shafeibao.com^
 ||shah8.vip^
 ||shandongc7.com^
 ||shanghaic7.com^
@@ -139570,6 +139686,7 @@
 ||sin88s.biz^
 ||sin88s.com^
 ||sin88vao.com^
+||sinbet.vip^
 ||sinbet3.net^
 ||singlemin.xyz^
 ||sinidominoqq.art^
@@ -157888,6 +158005,7 @@
 ||zinwin.vip^
 ||zipangcasino.asia^
 ||zippybets.com^
+||zisunhigh.com^
 ||zit4zi.live^
 ||ziuzg.win^
 ||zixun23777.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 21 Jul 2023 23:22 UTC+7
-! Version: 2307212322
-! Blocked: 4,263 rules
+! Last modified: 24 Jul 2023 15:50 UTC+7
+! Version: 2307241550
+! Blocked: 4,264 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3487,6 +3487,7 @@
 ||sin88bet.vip^
 ||sin88s.com^
 ||sin88vao.com^
+||sinbet.vip^
 ||sky88.bet^
 ||sky88.com^
 ||sky88.fun^
