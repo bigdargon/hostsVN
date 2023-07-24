@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 24 Jul 2023 15:50 UTC+7
-! Version: 2307241550
-! Blocked: 4,264 rules
+! Last modified: 24 Jul 2023 22:51 UTC+7
+! Version: 2307242251
+! Blocked: 4,266 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -615,6 +615,7 @@
 ||b52.win^
 ||b52d.club^
 ||b52k.club^
+||b52vn.org^
 ||b88ag.com^
 ||b89.bet^
 ||banca-red88.top^
@@ -3265,6 +3266,7 @@
 ||piwik.88thaicasinoslots.com^
 ||pkwin1.com^
 ||play.b52.win^
+||play.b52vn.org^
 ||play.bom52.club^
 ||play.bum3.club^
 ||play.choisport.com^
