@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 24 Jul 2023 22:51 UTC+7
-! Version: 2307242251
-! Blocked: 4,266 rules
+! Last modified: 28 Jul 2023 15:32 UTC+7
+! Version: 2307281532
+! Blocked: 4,273 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -124,6 +124,7 @@
 ||2x3x.com^
 ||331725.com^
 ||331729.com^
+||333.vip^
 ||333666.buzz^
 ||333666j.com^
 ||338kbet.com^
@@ -3288,6 +3289,7 @@
 ||play.top88.uk^
 ||play.top88.us^
 ||play.top88.vn^
+||play.vaob52.click^
 ||play.vic.win^
 ||play.vuigiaitri.online^
 ||play.win79.vip^
@@ -3522,6 +3524,7 @@
 ||socvip.com^
 ||socvip9.club^
 ||sodo103.com^
+||sodo107.com^
 ||sodo109.com^
 ||sodo12.com^
 ||sodo13.com^
@@ -3862,6 +3865,7 @@
 ||v9jvn.com^
 ||v9win.com^
 ||vao789club.win^
+||vaob52.click^
 ||vaoku.net^
 ||vaorikvip.com^
 ||vaorikvip.net^
@@ -4070,9 +4074,12 @@
 ||vx88.one^
 ||vx88e.com^
 ||vx88vnd.com^
+||vz293.com^
 ||vz681.com^
 ||vz683.com^
 ||vz79.com^
+||vz99.app^
+||vz99vietnam.com^
 ||w-sunwin.net^
 ||w008.com^
 ||w365w.net^

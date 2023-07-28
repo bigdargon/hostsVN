@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 24 Jul 2023 22:51 UTC+7
-# Version: 2307242251
-# Blocked: 4,817 domains
+# Last modified: 28 Jul 2023 15:32 UTC+7
+# Version: 2307281532
+# Blocked: 4,826 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -127,6 +127,7 @@
 0.0.0.0 2x3x.com
 0.0.0.0 331725.com
 0.0.0.0 331729.com
+0.0.0.0 333.vip
 0.0.0.0 333666.buzz
 0.0.0.0 333666j.com
 0.0.0.0 338kbet.com
@@ -3277,6 +3278,7 @@
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
 0.0.0.0 play.top88.vn
+0.0.0.0 play.vaob52.click
 0.0.0.0 play.vic.win
 0.0.0.0 play.vuigiaitri.online
 0.0.0.0 play.win79.vip
@@ -3504,6 +3506,7 @@
 0.0.0.0 socvip.com
 0.0.0.0 socvip9.club
 0.0.0.0 sodo103.com
+0.0.0.0 sodo107.com
 0.0.0.0 sodo109.com
 0.0.0.0 sodo12.com
 0.0.0.0 sodo13.com
@@ -3843,6 +3846,7 @@
 0.0.0.0 v9jvn.com
 0.0.0.0 v9win.com
 0.0.0.0 vao789club.win
+0.0.0.0 vaob52.click
 0.0.0.0 vaoku.net
 0.0.0.0 vaorikvip.com
 0.0.0.0 vaorikvip.net
@@ -4048,9 +4052,12 @@
 0.0.0.0 vx88.one
 0.0.0.0 vx88e.com
 0.0.0.0 vx88vnd.com
+0.0.0.0 vz293.com
 0.0.0.0 vz681.com
 0.0.0.0 vz683.com
 0.0.0.0 vz79.com
+0.0.0.0 vz99.app
+0.0.0.0 vz99vietnam.com
 0.0.0.0 w-sunwin.net
 0.0.0.0 w008.com
 0.0.0.0 w365w.net
@@ -4580,6 +4587,7 @@
 0.0.0.0 www.sinbet.vip
 0.0.0.0 www.sky88.win
 0.0.0.0 www.socvip9.club
+0.0.0.0 www.sodo107.com
 0.0.0.0 www.sodo109.com
 0.0.0.0 www.sodo14.com
 0.0.0.0 www.sodo66.app
@@ -4700,6 +4708,7 @@
 0.0.0.0 www.vwinsportsvn.com
 0.0.0.0 www.vwinthethao.com
 0.0.0.0 www.vx88.live
+0.0.0.0 www.vz293.com
 0.0.0.0 www.vz681.com
 0.0.0.0 www.vz79.com
 0.0.0.0 www.w388.com
