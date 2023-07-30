@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 28 Jul 2023 15:33 UTC+7
-! Version: 2307281533
-! Blocked: 10,169 rules
+! Last modified: 30 Jul 2023 21:48 UTC+7
+! Version: 2307302148
+! Blocked: 10,171 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5538,6 +5538,7 @@
 ||exogripper.com^
 ||exomonyf.com^
 ||exonymayuyu.com^
+||expensepurpose.com^
 ||experteerads.com^
 ||expertnifg.com^
 ||exponea.com^
@@ -9934,6 +9935,7 @@
 ||wzuisptxzqbb.com^
 ||x-traceur.com^
 ||x.disq.us^
+||x.thecatmachine.com^
 ||x2sfa.javgg.eu^
 ||xad.com^
 ||xadluvxuhpw.com^
