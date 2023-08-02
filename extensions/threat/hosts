@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 02 Aug 2023 23:14 UTC+7
-# Version: 2308022314
-# Blocked: 3,842 domains
+# Last modified: 02 Aug 2023 23:23 UTC+7
+# Version: 2308022323
+# Blocked: 3,843 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3424,6 +3424,7 @@
 0.0.0.0 virtuallaughing.com
 0.0.0.0 vitienonline88.com
 0.0.0.0 vitindungpgbank.com
+0.0.0.0 vitri-icloud.com
 0.0.0.0 viva.exchange
 0.0.0.0 viva2.exchange
 0.0.0.0 vivaylien.com
