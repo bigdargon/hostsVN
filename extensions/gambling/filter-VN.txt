@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 30 Jul 2023 21:48 UTC+7
-! Version: 2307302148
-! Blocked: 4,276 rules
+! Last modified: 02 Aug 2023 23:14 UTC+7
+! Version: 2308022314
+! Blocked: 4,282 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -185,6 +185,7 @@
 ||68game2.com^
 ||68gamebaix.com^
 ||68gb3.com^
+||68iwin.club^
 ||68rich.com^
 ||68rich.org^
 ||69dinhtruong.com^
@@ -1258,6 +1259,7 @@
 ||gw.zbet.com^
 ||gwin.pro^
 ||h3bet.com^
+||h51.live^
 ||happy9luck.com^
 ||happynb.com^
 ||hb88017.com^
@@ -1295,6 +1297,8 @@
 ||hl8vi.com^
 ||hl8vn.fun^
 ||hm.fabet.vip^
+||hot51.com^
+||hotlive.in^
 ||hotlive8.vip^
 ||hplay.fabet.me^
 ||hplay.fabet.us^
@@ -3426,6 +3430,7 @@
 ||ritq4.com^
 ||royal77vn.com^
 ||rubik88.com^
+||rw8800.com^
 ||s.388bet.top^
 ||s.388bet.vin^
 ||s.388bet.vip^
@@ -3570,6 +3575,7 @@
 ||sun13.win^
 ||sun52.bid^
 ||sun52.click^
+||sun52.fun^
 ||sun52.tv^
 ||sun6.win^
 ||sun88.online^

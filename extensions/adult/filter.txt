@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 30 Jul 2023 21:48 UTC+7
-! Version: 2307302148
-! Blocked: 48,061 rules
+! Last modified: 02 Aug 2023 23:14 UTC+7
+! Version: 2308022314
+! Blocked: 48,064 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -12199,6 +12199,8 @@
 ||create-hall.com^
 ||createlan.com^
 ||creatfame.com^
+||creative.thefaplive.com^
+||creative.xxxivjmp.com^
 ||creep-er.com^
 ||cremeofthecreme.com^
 ||crest-labs.com^
@@ -15408,6 +15410,7 @@
 ||fr-sa.com^
 ||fr.xhamsterlive.com^
 ||francais.top^
+||frap.frap.site^
 ||frauen-sexkontakt.com^
 ||frauen.top^
 ||frdmp.com^
