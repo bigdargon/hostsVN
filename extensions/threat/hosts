@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 03 Aug 2023 14:46 UTC+7
-# Version: 2308031446
-# Blocked: 3,843 domains
+# Last modified: 03 Aug 2023 21:53 UTC+7
+# Version: 2308032153
+# Blocked: 3,844 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -707,6 +707,7 @@
 0.0.0.0 gbcloudbank.com
 0.0.0.0 gbuy.shop
 0.0.0.0 gcaothushop.net
+0.0.0.0 gdla.rgov.net
 0.0.0.0 gdriveshop.com
 0.0.0.0 gdtgov.cfd
 0.0.0.0 gdviettelpay.weebly.com
