@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 03 Aug 2023 21:53 UTC+7
-! Version: 2308032153
-! Blocked: 3,358 rules
+! Last modified: 04 Aug 2023 22:17 UTC+7
+! Version: 2308042217
+! Blocked: 3,355 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -597,12 +597,9 @@
 ||gockhuat.net^
 ||gocquaytay.com^
 ||goctoi.xyz^
-||goigai18.xyz^
-||goigai24.xyz^
 ||goigai2k.xyz^
 ||goigai3m.xyz^
 ||goigaicaocap.xyz^
-||goigaire.xyz^
 ||goikieu.org^
 ||gvnvh18.com^
 ||gwweb.xyz^
