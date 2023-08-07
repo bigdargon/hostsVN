@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 04 Aug 2023 22:17 UTC+7
-! Version: 2308042217
-! Blocked: 3,506 rules
+! Last modified: 07 Aug 2023 22:40 UTC+7
+! Version: 2308072240
+! Blocked: 3,531 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -117,7 +117,9 @@
 ||amg133180.com^
 ||amg187208.com^
 ||amhen.com^
+||amqa11.com^
 ||anbinh-finance.club^
+||anzvn.net^
 ||aodaisieuvietnhi2022.weebly.com^
 ||app.mybigc.net^
 ||app.senaobz.cc^
@@ -320,6 +322,7 @@
 ||dangky.electricz.xyz^
 ||dangkyappbank.online^
 ||dangkycongtacvien.vn^
+||dangkyhosotructuyen2023.com^
 ||dangkykubet.vip^
 ||dangkynick.online^
 ||dangkyonline-payment.com^
@@ -361,17 +364,20 @@
 ||didongviet.store^
 ||dien-may-xanh.net^
 ||dienlanhnguyenkim.ctyvn.net^
+||dienmayxanh-hcm.com^
 ||dienmayxanh-vn.top^
 ||dienmayxanh.fun^
 ||dienmayxanh247.com^
 ||dienmayxanh24h.com^
 ||dienmayxanh24h.net^
+||dienmayxanh268.com^
 ||dienmayxanhantam.com^
 ||dienmayxanhbeauty.com^
 ||dienmayxanhbeautyplus.com^
 ||dienmayxanhh.com^
 ||dienmayxanhhcm.com^
 ||dienmayxanhhcm24h.com^
+||dienmayxanhsuachua.life^
 ||dienmayxanhtantam.com^
 ||dienmayxanhtrungtam.com^
 ||dienthoaiviet.net^
@@ -412,6 +418,8 @@
 ||edunetworkvietnam.com.vn^
 ||emoney2017.com^
 ||emoneyspace.com^
+||eqav33.com^
+||eqav77.com^
 ||eserbank.com^
 ||evay.info^
 ||eventlienquanmobile.com^
@@ -427,6 +435,7 @@
 ||eximbank.xyz^
 ||exovietnam.xyz^
 ||expressmoney.cc^
+||facabook.id.vn^
 ||face-book.co^
 ||facebookk.life^
 ||facebookvni.com^
@@ -641,6 +650,7 @@
 ||haitacshopgame.com^
 ||halovay.com^
 ||hamoney.xyz^
+||handico.vaytienmat-nhanh24h.com^
 ||hangairsoft.com^
 ||hanghaiqt.com^
 ||hbpnnz.cyou^
@@ -690,6 +700,7 @@
 ||hocsinhthanhlich2021.online^
 ||hocsinhthanhlich2022.weebly.com^
 ||hocsinhthanhlich21.xyz^
+||hoinhiepanhbg.blogspot.com^
 ||hoiquanlq.vn^
 ||homevi1.tintuc-vi-vn.xyz^
 ||homevi2.tintuc-vi-vn.xyz^
@@ -756,6 +767,7 @@
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
 ||idapple.com^
 ||idnhanquatang.vn^
+||idvideo678.blogspot.com^
 ||igoda.shop^
 ||iisacombank.com^
 ||ilsacombank.com^
@@ -1782,6 +1794,7 @@
 ||sdo8357.com^
 ||sdqwf.ga^
 ||seabank-nganhanghanoi.com^
+||sendovip.com^
 ||senopaee.com^
 ||servevietnam.com^
 ||service.tpbxnk.com^
@@ -1816,6 +1829,7 @@
 ||shinhanvayvon.online^
 ||shipshop99.com^
 ||shogunbovietnam.com^
+||shoopaean.com^
 ||shop146.com^
 ||shop2727.com^
 ||shop3001.com^
@@ -1908,6 +1922,7 @@
 ||shopee.org.in^
 ||shopee.pics^
 ||shopee.quatang-sinhnhat.vn^
+||shopee.sootoou.com^
 ||shopee.vn-lk.shop^
 ||shopee004.vip^
 ||shopee1.org^
@@ -2007,6 +2022,7 @@
 ||shopeex.top^
 ||shopeexpress.online^
 ||shopeexs.top^
+||shopelnie.com^
 ||shopeo.cc^
 ||shopepvip.com^
 ||shopeskolo.com^
@@ -2511,6 +2527,7 @@
 ||tiki888.com^
 ||tiki94.com^
 ||tiki9833.com^
+||tikia.vip^
 ||tikictv.com^
 ||tikictv1.com^
 ||tikictv12.com^
@@ -2556,6 +2573,7 @@
 ||tikiy.cc^
 ||tiktokcy1.com^
 ||timivay.com^
+||timx2918.com^
 ||tinbaothuongvn.com^
 ||tinchap-nganhang.online^
 ||tinchap-techcombank.store^
@@ -2603,6 +2621,7 @@
 ||tinvietttt.com^
 ||titki55.cc^
 ||tk668.com^
+||tk9998.com^
 ||tochucthetindung.com^
 ||tomo5933.vip^
 ||tongdaicaptruyenhinh.online^
@@ -2965,6 +2984,7 @@
 ||vib84.com^
 ||vibvay.com^
 ||vibvayvn.com^
+||videoid10006367.blogspot.com^
 ||vidientu-247.com^
 ||vidientu.beauty^
 ||vidientu247s.com^
@@ -3042,6 +3062,7 @@
 ||vietflix.vn^
 ||vietgov.cc^
 ||vietgov22.cc^
+||vietgov5.cc^
 ||vieticombank.com^
 ||vietiebink.com^
 ||vietimbank.top^
@@ -3239,7 +3260,10 @@
 ||vn-vongquaylol.cf^
 ||vn-vp.xyz^
 ||vn.btaynguyenfood.com^
+||vn119shop.com^
 ||vn268.com^
+||vn277shop.com^
+||vn335shop.com^
 ||vn765.com^
 ||vn88khuyenmai.life^
 ||vn88khuyenmai.site^
@@ -3284,6 +3308,7 @@
 ||vnsshoppe.com^
 ||vntiki.shop^
 ||vntikiship.com^
+||vntkm.com^
 ||vnvay.top^
 ||vnvietcombank.cc^
 ||vnvietcombanks.cc^

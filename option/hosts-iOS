@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Aug 2023 21:54 UTC+7
-# Version: 2308032154
-# Blocked: 19,728 domains
+# Last modified: 07 Aug 2023 22:40 UTC+7
+# Version: 2308072240
+# Blocked: 19,733 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9060,6 +9060,7 @@
 0 ad-serve.b-cdn.net
 0 admost-banner.b-cdn.net
 0 ads-delivery.b-cdn.net
+0 adsninja.b-cdn.net
 0 adstatic.b-cdn.net
 0 bbangads.b-cdn.net
 0 bdtt.b-cdn.net
@@ -9924,6 +9925,7 @@
 0 ads.livetv686.me
 0 ads.livetv687.me
 0 ads.livetv689.me
+0 ads.livetv691.me
 0 company-target.com
 0 api-staging.company-target.com
 0 c.company-target.com
@@ -10105,6 +10107,10 @@
 0 uipus.semasio.net
 0 adswin.net
 0 aff.adswin.net
+0 adsninja.ca
+0 cdn.adsninja.ca
+0 pbs.adsninja.ca
+0 video.adsninja.ca
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -12648,7 +12654,6 @@
 0 adsmogo.net
 0 adsmogo.org
 0 adsnative.com
-0 adsninja.ca
 0 adsniper.ru
 0 adsoftware.com
 0 adsoldier.com

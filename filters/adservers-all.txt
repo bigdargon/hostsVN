@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 03 Aug 2023 21:54 UTC+7
-! Version: 2308032154
+! Last modified: 07 Aug 2023 22:40 UTC+7
+! Version: 2308072240
 ! Blocked: 10,350 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -1081,6 +1081,7 @@
 ||adslot.uc.cn^
 ||adsmanager.ga^
 ||adsmoloco.com^
+||adsninja.ca^
 ||adspeed.net^
 ||adspirit.de^
 ||adspruce.com^
@@ -3433,7 +3434,6 @@
 ||adsmogo.net^
 ||adsmogo.org^
 ||adsnative.com^
-||adsninja.ca^
 ||adsniper.ru^
 ||adsoftware.com^
 ||adsoldier.com^
