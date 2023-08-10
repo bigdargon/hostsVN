@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Aug 2023 10:44 UTC+7
-! Version: 2308101044
-! Blocked: 836 rules
+! Last modified: 10 Aug 2023 16:17 UTC+7
+! Version: 2308101617
+! Blocked: 837 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -541,6 +541,7 @@
 ||crmbizfly.todo.vn^
 ||crmx.eqvn.net^
 ||crocopop.com^
+||cskh-hcm.fpt.edu.vn^
 ||cskh.onlinecrm.vn^
 ||csmads.gameclick.vn^
 ||delecpuzz.com^

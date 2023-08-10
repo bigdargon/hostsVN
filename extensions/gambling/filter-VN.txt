@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 10 Aug 2023 10:44 UTC+7
-! Version: 2308101044
-! Blocked: 4,284 rules
+! Last modified: 10 Aug 2023 16:18 UTC+7
+! Version: 2308101618
+! Blocked: 4,293 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -139,6 +139,11 @@
 ||33winz.com^
 ||3547711.com^
 ||3549900.com^
+||360bet1.com^
+||360bet2.com^
+||360bet3.com^
+||360bet4.com^
+||360bet5.com^
 ||3650011.com^
 ||3650022.com^
 ||3676b.com^
@@ -728,6 +733,8 @@
 ||bong99.top^
 ||bong99.vin^
 ||bong99.vip^
+||bongbet1.com^
+||bongbet2.com^
 ||bongda.thethaofb88.com^
 ||bongda2022.info^
 ||bongda80.com^
@@ -3682,6 +3689,7 @@
 ||tainbet.net^
 ||taiok88.app^
 ||taisum.co^
+||taiuk88.net^
 ||taiv8.com^
 ||taiv8.info^
 ||taiv8.top^
@@ -4129,6 +4137,7 @@
 ||wb77.net^
 ||wbet58.com^
 ||wbet99.net^
+||wc.taiuk88.net^
 ||we1win.com^
 ||we1win1.com^
 ||we1win10.com^

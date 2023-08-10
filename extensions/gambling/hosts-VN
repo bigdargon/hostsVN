@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 10 Aug 2023 10:44 UTC+7
-# Version: 2308101044
-# Blocked: 4,837 domains
+# Last modified: 10 Aug 2023 16:18 UTC+7
+# Version: 2308101618
+# Blocked: 4,847 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -142,6 +142,11 @@
 0.0.0.0 33winz.com
 0.0.0.0 3547711.com
 0.0.0.0 3549900.com
+0.0.0.0 360bet1.com
+0.0.0.0 360bet2.com
+0.0.0.0 360bet3.com
+0.0.0.0 360bet4.com
+0.0.0.0 360bet5.com
 0.0.0.0 3650022.com
 0.0.0.0 3676b.com
 0.0.0.0 380099.com
@@ -723,6 +728,8 @@
 0.0.0.0 bong99.top
 0.0.0.0 bong99.vin
 0.0.0.0 bong99.vip
+0.0.0.0 bongbet1.com
+0.0.0.0 bongbet2.com
 0.0.0.0 bongda.thethaofb88.com
 0.0.0.0 bongda2022.info
 0.0.0.0 bongda80.com
@@ -3664,6 +3671,7 @@
 0.0.0.0 tainbet.net
 0.0.0.0 taiok88.app
 0.0.0.0 taisum.co
+0.0.0.0 taiuk88.net
 0.0.0.0 taiv8.com
 0.0.0.0 taiv8.info
 0.0.0.0 taiv8.top
@@ -4106,6 +4114,7 @@
 0.0.0.0 wb77.net
 0.0.0.0 wbet58.com
 0.0.0.0 wbet99.net
+0.0.0.0 wc.taiuk88.net
 0.0.0.0 we1win.com
 0.0.0.0 we1win1.com
 0.0.0.0 we1win10.com
@@ -4213,6 +4222,7 @@
 0.0.0.0 www.33win9.com
 0.0.0.0 www.3547711.com
 0.0.0.0 www.3549900.com
+0.0.0.0 www.360bet1.com
 0.0.0.0 www.3650011.com
 0.0.0.0 www.3650022.com
 0.0.0.0 www.3676b.com

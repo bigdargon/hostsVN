@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 10 Aug 2023 10:44 UTC+7
-! Version: 2308101044
-! Blocked: 10,351 rules
+! Last modified: 10 Aug 2023 16:17 UTC+7
+! Version: 2308101617
+! Blocked: 10,356 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -541,6 +541,7 @@
 ||crmbizfly.todo.vn^
 ||crmx.eqvn.net^
 ||crocopop.com^
+||cskh-hcm.fpt.edu.vn^
 ||cskh.onlinecrm.vn^
 ||csmads.gameclick.vn^
 ||delecpuzz.com^
@@ -7582,6 +7583,7 @@
 ||ombwzonwupu.com^
 ||omciecoa37tw4.com^
 ||omclyzyapf.com^
+||omeda.com^
 ||omjitjlhx.com^
 ||omkxadadsh.com^
 ||ommaqnopxh.com^
@@ -8275,6 +8277,7 @@
 ||r.3gl.net^
 ||r.bbci.co.uk^
 ||r.leadzu.com^
+||r.trackwilltrk.com^
 ||r.trwl1.com^
 ||r1.snnd.co^
 ||r3adyt0download.com^
@@ -8353,6 +8356,7 @@
 ||rebiraert.com^
 ||recedechatprotestant.com^
 ||receiptcent.com^
+||receive.wmcdp.io^
 ||receptiveink.com^
 ||receptivereaction.com^
 ||recessgrimp.space^
@@ -10067,6 +10071,7 @@
 ||woyisopag.life^
 ||wpnrtnmrewunrtok.xyz^
 ||wpoarjokzgi.com^
+||wpowiqkgykf.com^
 ||wpunativesh.com^
 ||wpush.org^
 ||wputhonwihpa.com^
