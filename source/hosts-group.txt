@@ -1694,11 +1694,12 @@
 0.0.0.0 httpkafka-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 httpkafka.ads.prd.ie.internal.unity3d.com
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
-#[applvn]
+#[applvn.com]
 0.0.0.0 a.applvn.com
 0.0.0.0 applvn.com
 0.0.0.0 d.applvn.com
 0.0.0.0 ms.applvn.com
+0.0.0.0 ms4.applvn.com
 0.0.0.0 rt.applvn.com
 #[appodealx.com]
 0.0.0.0 api-us.appodealx.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 07 Aug 2023 22:40 UTC+7
-! Version: 2308072240
-! Blocked: 4,282 rules
+! Last modified: 10 Aug 2023 10:44 UTC+7
+! Version: 2308101044
+! Blocked: 4,284 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2784,6 +2784,7 @@
 ||kingfun247.net^
 ||kkfffddd.com^
 ||km.playmanclub.vin^
+||km.thethaob52.org^
 ||km1888866b.com^
 ||km238b.com^
 ||km938b.com^
@@ -3731,6 +3732,7 @@
 ||thethao.sin88.biz^
 ||thethao188bet.com^
 ||thethao80k.com^
+||thethaob52.org^
 ||thethaobw.com^
 ||thethaodabet.com^
 ||thethaofb88.com^
