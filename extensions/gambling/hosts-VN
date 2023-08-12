@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 11 Aug 2023 10:26 UTC+7
-# Version: 2308111026
-# Blocked: 4,848 domains
+# Last modified: 12 Aug 2023 16:14 UTC+7
+# Version: 2308121614
+# Blocked: 4,852 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -813,6 +813,7 @@
 0.0.0.0 choibancadoithuong.com
 0.0.0.0 choigiaitri.net
 0.0.0.0 choiiwin79.fun
+0.0.0.0 choilawin.net
 0.0.0.0 choingay88.com
 0.0.0.0 choingayone88.win
 0.0.0.0 choisport.com
@@ -842,6 +843,7 @@
 0.0.0.0 comebetvn3.com
 0.0.0.0 comebetvn9.com
 0.0.0.0 corona999.com
+0.0.0.0 cuoc.choilawin.net
 0.0.0.0 cuoc88.com
 0.0.0.0 cuoc88.net
 0.0.0.0 cuoc8899.com
@@ -3566,6 +3568,7 @@
 0.0.0.0 sun52.bid
 0.0.0.0 sun52.click
 0.0.0.0 sun52.fun
+0.0.0.0 sun52.live
 0.0.0.0 sun52.tv
 0.0.0.0 sun6.win
 0.0.0.0 sun88.online
@@ -3671,6 +3674,7 @@
 0.0.0.0 tainbet.net
 0.0.0.0 taiok88.app
 0.0.0.0 taisum.co
+0.0.0.0 taisun52.live
 0.0.0.0 taiuk88.net
 0.0.0.0 taiv8.com
 0.0.0.0 taiv8.info

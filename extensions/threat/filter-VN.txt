@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 11 Aug 2023 10:26 UTC+7
-! Version: 2308111026
-! Blocked: 3,531 rules
+! Last modified: 12 Aug 2023 16:14 UTC+7
+! Version: 2308121614
+! Blocked: 3,539 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -220,6 +220,7 @@
 ||centralonline.shop^
 ||cettiarl.com^
 ||cf222.art^
+||cgovn.cc^
 ||chamsockhachang.com^
 ||chanle79.me^
 ||chanlemmo.com^
@@ -3015,6 +3016,7 @@
 ||viet-lotte.com^
 ||viet-lotte.org^
 ||viet-thanh.online^
+||viet.cgovn.cc^
 ||viet69.uk^
 ||viet69xlxx004.ga^
 ||vietacomputer.com^
@@ -3060,9 +3062,14 @@
 ||vietel.online^
 ||vietelshop.online^
 ||vietflix.vn^
+||vietgav.cc^
 ||vietgov.cc^
+||vietgov0.cc^
 ||vietgov22.cc^
+||vietgov3.cc^
+||vietgov4.cc^
 ||vietgov5.cc^
+||vietgov6.cc^
 ||vieticombank.com^
 ||vietiebink.com^
 ||vietimbank.top^
@@ -3142,6 +3149,7 @@
 ||vietteldidong.com^
 ||viettelonline.org^
 ||viettelshare.com^
+||viettgov.cc^
 ||vietthanh.club^
 ||vietthanh.xyz^
 ||vietthanh24.xyz^

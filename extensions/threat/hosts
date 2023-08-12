@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 11 Aug 2023 10:26 UTC+7
-# Version: 2308111026
-# Blocked: 3,869 domains
+# Last modified: 12 Aug 2023 16:14 UTC+7
+# Version: 2308121614
+# Blocked: 3,888 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -290,6 +290,7 @@
 0.0.0.0 cesareurope.com
 0.0.0.0 cettiarl.com
 0.0.0.0 cf222.art
+0.0.0.0 cgovn.cc
 0.0.0.0 chamsockhachang.com
 0.0.0.0 chanle79.me
 0.0.0.0 chanlemmo.com
@@ -985,6 +986,7 @@
 0.0.0.0 jeyrkyshop.com
 0.0.0.0 jo9p72.cyou
 0.0.0.0 jomashopsa.com
+0.0.0.0 jump.unixpop.xyz
 0.0.0.0 junoshop.online
 0.0.0.0 kaurroot.com
 0.0.0.0 kavay.vn
@@ -1457,6 +1459,10 @@
 0.0.0.0 my-acb-bank.com
 0.0.0.0 my-easy.shop
 0.0.0.0 mycrackfree.com
+0.0.0.0 myeca.ieasyclick.net
+0.0.0.0 myeca.ieasytest.net
+0.0.0.0 myecat1.ieasyclick.net
+0.0.0.0 myecat1.ieasytest.net
 0.0.0.0 mylotte.me
 0.0.0.0 mylotte.shop
 0.0.0.0 myshopee13.com
@@ -1744,6 +1750,7 @@
 0.0.0.0 ofth546ebr.cfd
 0.0.0.0 oivay.app
 0.0.0.0 oivay.vip
+0.0.0.0 oldcname.ieasyclick.net
 0.0.0.0 onhamuadich.com
 0.0.0.0 onirybank.com
 0.0.0.0 online-ibank.com
@@ -1982,6 +1989,7 @@
 0.0.0.0 ruttindungpos.com
 0.0.0.0 rutwdj.id
 0.0.0.0 s22khuyenmai.xyz
+0.0.0.0 sa.unixpop.xyz
 0.0.0.0 sacchaeleduk.com
 0.0.0.0 sacombank.net.vn
 0.0.0.0 sacombank.vn-cl.xyz
@@ -2031,6 +2039,8 @@
 0.0.0.0 servevietnam.com
 0.0.0.0 service.tpbxnk.com
 0.0.0.0 servsvietnam.com
+0.0.0.0 sg.unixpop.xyz
+0.0.0.0 sg1.unixpop.xyz
 0.0.0.0 sgshopee.top
 0.0.0.0 sgxcoin.net
 0.0.0.0 share-apple.com
@@ -3013,11 +3023,13 @@
 0.0.0.0 undertheguid.cfd
 0.0.0.0 undimangen.cfd
 0.0.0.0 unixfilesystem2.xyz
+0.0.0.0 unixpop.xyz
 0.0.0.0 unlimitedteacup.com
 0.0.0.0 unlockdienthoai.zyrosite.com
 0.0.0.0 upceshop.cn
 0.0.0.0 upta16theu.cfd
 0.0.0.0 uptomscan.cfd
+0.0.0.0 us.unixpop.xyz
 0.0.0.0 uslimsofbr.cfd
 0.0.0.0 uudailienquan.com
 0.0.0.0 uudainapthe.vn
@@ -3276,6 +3288,7 @@
 0.0.0.0 viet-lotte.com
 0.0.0.0 viet-lotte.org
 0.0.0.0 viet-thanh.online
+0.0.0.0 viet.cgovn.cc
 0.0.0.0 viet69.uk
 0.0.0.0 viet69xlxx004.ga
 0.0.0.0 vietacomputer.com
@@ -3321,9 +3334,14 @@
 0.0.0.0 vietel.online
 0.0.0.0 vietelshop.online
 0.0.0.0 vietflix.vn
+0.0.0.0 vietgav.cc
 0.0.0.0 vietgov.cc
+0.0.0.0 vietgov0.cc
 0.0.0.0 vietgov22.cc
+0.0.0.0 vietgov3.cc
+0.0.0.0 vietgov4.cc
 0.0.0.0 vietgov5.cc
+0.0.0.0 vietgov6.cc
 0.0.0.0 vieticombank.com
 0.0.0.0 vietiebink.com
 0.0.0.0 vietimbank.top
@@ -3403,6 +3421,7 @@
 0.0.0.0 vietteldidong.com
 0.0.0.0 viettelonline.org
 0.0.0.0 viettelshare.com
+0.0.0.0 viettgov.cc
 0.0.0.0 vietthanh.club
 0.0.0.0 vietthanh.xyz
 0.0.0.0 vietthanh24.xyz

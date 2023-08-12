@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 11 Aug 2023 10:26 UTC+7
-! Version: 2308111026
-! Blocked: 3,816 rules
+! Last modified: 12 Aug 2023 16:14 UTC+7
+! Version: 2308121614
+! Blocked: 3,835 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -286,6 +286,7 @@
 ||cesareurope.com^
 ||cettiarl.com^
 ||cf222.art^
+||cgovn.cc^
 ||chamsockhachang.com^
 ||chanle79.me^
 ||chanlemmo.com^
@@ -981,6 +982,7 @@
 ||jeyrkyshop.com^
 ||jo9p72.cyou^
 ||jomashopsa.com^
+||jump.unixpop.xyz^
 ||junoshop.online^
 ||kaurroot.com^
 ||kavay.vn^
@@ -1456,6 +1458,10 @@
 ||my-acb-bank.com^
 ||my-easy.shop^
 ||mycrackfree.com^
+||myeca.ieasyclick.net^
+||myeca.ieasytest.net^
+||myecat1.ieasyclick.net^
+||myecat1.ieasytest.net^
 ||mylotte.me^
 ||mylotte.shop^
 ||myshopee13.com^
@@ -1743,6 +1749,7 @@
 ||ofth546ebr.cfd^
 ||oivay.app^
 ||oivay.vip^
+||oldcname.ieasyclick.net^
 ||onhamuadich.com^
 ||onirybank.com^
 ||online-ibank.com^
@@ -1981,6 +1988,7 @@
 ||ruttindungpos.com^
 ||rutwdj.id^
 ||s22khuyenmai.xyz^
+||sa.unixpop.xyz^
 ||sacchaeleduk.com^
 ||sacombank.net.vn^
 ||sacombank.vn-cl.xyz^
@@ -2030,6 +2038,8 @@
 ||servevietnam.com^
 ||service.tpbxnk.com^
 ||servsvietnam.com^
+||sg.unixpop.xyz^
+||sg1.unixpop.xyz^
 ||sgshopee.top^
 ||sgxcoin.net^
 ||share-apple.com^
@@ -3013,11 +3023,13 @@
 ||undertheguid.cfd^
 ||undimangen.cfd^
 ||unixfilesystem2.xyz^
+||unixpop.xyz^
 ||unlimitedteacup.com^
 ||unlockdienthoai.zyrosite.com^
 ||upceshop.cn^
 ||upta16theu.cfd^
 ||uptomscan.cfd^
+||us.unixpop.xyz^
 ||uslimsofbr.cfd^
 ||uudailienquan.com^
 ||uudainapthe.vn^
@@ -3276,6 +3288,7 @@
 ||viet-lotte.com^
 ||viet-lotte.org^
 ||viet-thanh.online^
+||viet.cgovn.cc^
 ||viet69.uk^
 ||viet69xlxx004.ga^
 ||vietacomputer.com^
@@ -3321,9 +3334,14 @@
 ||vietel.online^
 ||vietelshop.online^
 ||vietflix.vn^
+||vietgav.cc^
 ||vietgov.cc^
+||vietgov0.cc^
 ||vietgov22.cc^
+||vietgov3.cc^
+||vietgov4.cc^
 ||vietgov5.cc^
+||vietgov6.cc^
 ||vieticombank.com^
 ||vietiebink.com^
 ||vietimbank.top^
@@ -3403,6 +3421,7 @@
 ||vietteldidong.com^
 ||viettelonline.org^
 ||viettelshare.com^
+||viettgov.cc^
 ||vietthanh.club^
 ||vietthanh.xyz^
 ||vietthanh24.xyz^
