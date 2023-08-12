@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 12 Aug 2023 16:14 UTC+7
-! Version: 2308121614
-! Blocked: 3,835 rules
+! Last modified: 12 Aug 2023 17:19 UTC+7
+! Version: 2308121719
+! Blocked: 3,836 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1208,6 +1208,7 @@
 ||lstmoney.xyz^
 ||luuvanquang.com^
 ||lvietcombank.com^
+||m-facebookk.com.vn^
 ||m.12luxury.com^
 ||m.1svi101.com^
 ||m.hi1222.com^
