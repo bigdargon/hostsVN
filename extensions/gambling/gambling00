@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 Aug 2023 13:59 UTC+7
-# Version: 2308131359
-# Blocked: 161,541 domains
+# Last modified: 16 Aug 2023 10:45 UTC+7
+# Version: 2308161045
+# Blocked: 161,551 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -19254,6 +19254,7 @@
 0.0.0.0 20bet999.bet
 0.0.0.0 20bet999.fun
 0.0.0.0 20betitalia.info
+0.0.0.0 20betvnd.com
 0.0.0.0 20bwin.com
 0.0.0.0 20df.bet
 0.0.0.0 20hphatcode.com
@@ -44997,4 +44998,3 @@
 0.0.0.0 46772.com
 0.0.0.0 46772a.com
 0.0.0.0 46772b.com
-0.0.0.0 46772c.com
