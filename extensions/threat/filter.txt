@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 16 Aug 2023 10:45 UTC+7
-! Version: 2308161045
-! Blocked: 3,836 rules
+! Last modified: 18 Aug 2023 09:31 UTC+7
+! Version: 2308180931
+! Blocked: 3,842 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -144,6 +144,7 @@
 ||amazonbig.asia^
 ||amazonxk.com^
 ||amg133180.com^
+||amg187098.com^
 ||amg187208.com^
 ||amhen.com^
 ||amnsreiuojy.ru^
@@ -1221,6 +1222,7 @@
 ||m.one018.com^
 ||m.tot166.com^
 ||m.vi-mayman.com^
+||m.vnsc-finhay.com^
 ||m.yocvn.com^
 ||magazineshopeeonline.com^
 ||magicslimnhatban.com^
@@ -2267,6 +2269,7 @@
 ||shopeex.top^
 ||shopeexpress.online^
 ||shopeexs.top^
+||shopehltd.com^
 ||shopelnie.com^
 ||shopeo.cc^
 ||shopepvip.com^
@@ -2621,7 +2624,9 @@
 ||support-nganhang.site^
 ||supporttoancau.com^
 ||sv7momo.com^
+||tadcaz.com^
 ||tadcb.com^
+||tadccc.com^
 ||tadcqv.com^
 ||tadmak.com^
 ||tadmv.com^
@@ -2884,6 +2889,7 @@
 ||toaaikhoongnhho-352614.click^
 ||tochucthetindung.com^
 ||tomo5933.vip^
+||tomo5963.vip^
 ||tongdaicaptruyenhinh.online^
 ||tongdaifacebook.online^
 ||tongdaitruyenhinhcap.info^

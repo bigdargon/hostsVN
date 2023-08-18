@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 16 Aug 2023 10:45 UTC+7
-# Version: 2308161045
-# Blocked: 3,889 domains
+# Last modified: 18 Aug 2023 09:31 UTC+7
+# Version: 2308180931
+# Blocked: 3,895 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -148,6 +148,7 @@
 0.0.0.0 amazonbig.asia
 0.0.0.0 amazonxk.com
 0.0.0.0 amg133180.com
+0.0.0.0 amg187098.com
 0.0.0.0 amg187208.com
 0.0.0.0 amhen.com
 0.0.0.0 amnsreiuojy.ru
@@ -1222,6 +1223,7 @@
 0.0.0.0 m.one018.com
 0.0.0.0 m.tot166.com
 0.0.0.0 m.vi-mayman.com
+0.0.0.0 m.vnsc-finhay.com
 0.0.0.0 m.yocvn.com
 0.0.0.0 magazineshopeeonline.com
 0.0.0.0 magicslimnhatban.com
@@ -2268,6 +2270,7 @@
 0.0.0.0 shopeex.top
 0.0.0.0 shopeexpress.online
 0.0.0.0 shopeexs.top
+0.0.0.0 shopehltd.com
 0.0.0.0 shopelnie.com
 0.0.0.0 shopeo.cc
 0.0.0.0 shopepvip.com
@@ -2621,7 +2624,9 @@
 0.0.0.0 support-nganhang.site
 0.0.0.0 supporttoancau.com
 0.0.0.0 sv7momo.com
+0.0.0.0 tadcaz.com
 0.0.0.0 tadcb.com
+0.0.0.0 tadccc.com
 0.0.0.0 tadcqv.com
 0.0.0.0 tadmak.com
 0.0.0.0 tadmv.com
@@ -2884,6 +2889,7 @@
 0.0.0.0 toaaikhoongnhho-352614.click
 0.0.0.0 tochucthetindung.com
 0.0.0.0 tomo5933.vip
+0.0.0.0 tomo5963.vip
 0.0.0.0 tongdaicaptruyenhinh.online
 0.0.0.0 tongdaifacebook.online
 0.0.0.0 tongdaitruyenhinhcap.info

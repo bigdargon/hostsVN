@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Aug 2023 10:45 UTC+7
-! Version: 2308161045
-! Blocked: 10,362 rules
+! Last modified: 18 Aug 2023 09:30 UTC+7
+! Version: 2308180930
+! Blocked: 10,364 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -7807,6 +7807,7 @@
 ||partner.pelikan.cz^
 ||partnercash.de^
 ||partners.priceline.com^
+||pasbstbovc.com^
 ||passeura.com^
 ||passfixx.com^
 ||passion-4.net^
@@ -10121,6 +10122,7 @@
 ||x.disq.us^
 ||x.thecatmachine.com^
 ||x2sfa.javgg.eu^
+||x7r3mk6ldr.com^
 ||xad.com^
 ||xadluvxuhpw.com^
 ||xads.one^
