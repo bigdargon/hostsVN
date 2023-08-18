@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 18 Aug 2023 14:42 UTC+7
-# Version: 2308181442
-# Blocked: 4,872 domains
+# Last modified: 18 Aug 2023 21:55 UTC+7
+# Version: 2308182155
+# Blocked: 4,880 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -593,6 +593,10 @@
 0.0.0.0 api.vnq8.net
 0.0.0.0 api.vx88.com
 0.0.0.0 api2-gateway.go88.com
+0.0.0.0 api4.hit1.co
+0.0.0.0 api4.taitx1.club
+0.0.0.0 api6.hit1.co
+0.0.0.0 api6.taitx1.club
 0.0.0.0 apicmsdl.loc89.fun
 0.0.0.0 apiproxy.12b99.com
 0.0.0.0 app.228kbet.com
@@ -1289,6 +1293,7 @@
 0.0.0.0 hi88vip8.com
 0.0.0.0 hiephoilangnghevietnam.com
 0.0.0.0 hit1.club
+0.0.0.0 hit1.co
 0.0.0.0 hit32.club
 0.0.0.0 hit68.net
 0.0.0.0 hl8.daily123hl8.com
@@ -3292,6 +3297,7 @@
 0.0.0.0 play.go88.im
 0.0.0.0 play.go88.vip
 0.0.0.0 play.go88s.tv
+0.0.0.0 play.hit1.co
 0.0.0.0 play.hit68.net
 0.0.0.0 play.manclub.vin
 0.0.0.0 play.nemo.vin
@@ -3690,6 +3696,7 @@
 0.0.0.0 taiskyclub.online
 0.0.0.0 taisum.co
 0.0.0.0 taisun52.live
+0.0.0.0 taitx1.club
 0.0.0.0 taiuk88.net
 0.0.0.0 taiv8.com
 0.0.0.0 taiv8.info
@@ -3841,6 +3848,7 @@
 0.0.0.0 tx.king96.net
 0.0.0.0 tx.socvip.com
 0.0.0.0 tx.socvip9.club
+0.0.0.0 tx1.vip
 0.0.0.0 tz.bet20.bet
 0.0.0.0 tzzxt.com
 0.0.0.0 ud1a.com

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 18 Aug 2023 14:42 UTC+7
-# Version: 2308181442
-# Blocked: 161,561 domains
+# Last modified: 18 Aug 2023 21:55 UTC+7
+# Version: 2308182155
+# Blocked: 161,569 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -93044,8 +93044,12 @@
 0.0.0.0 api.vx88.com
 0.0.0.0 api2-gateway.go88.com
 0.0.0.0 api4.b5ipcoleser.net
+0.0.0.0 api4.hit1.co
+0.0.0.0 api4.taitx1.club
 0.0.0.0 api4.trakipsg.net
 0.0.0.0 api6.b5ipcoleser.net
+0.0.0.0 api6.hit1.co
+0.0.0.0 api6.taitx1.club
 0.0.0.0 api6.trakipsg.net
 0.0.0.0 api88888.com
 0.0.0.0 apiabo.com
@@ -115803,6 +115807,7 @@
 0.0.0.0 hiqbipgy.com
 0.0.0.0 hira88.com
 0.0.0.0 hit1.club
+0.0.0.0 hit1.co
 0.0.0.0 hit32.club
 0.0.0.0 hit68.net
 0.0.0.0 hitballclub.com
@@ -136938,6 +136943,7 @@
 0.0.0.0 play.go88.im
 0.0.0.0 play.go88.vip
 0.0.0.0 play.go88s.tv
+0.0.0.0 play.hit1.co
 0.0.0.0 play.hit68.net
 0.0.0.0 play.manclub.vin
 0.0.0.0 play.nemo.vin
@@ -143186,6 +143192,7 @@
 0.0.0.0 taiskyclub.online
 0.0.0.0 taisum.co
 0.0.0.0 taisun52.live
+0.0.0.0 taitx1.club
 0.0.0.0 taiuk88.net
 0.0.0.0 taiuwin.com
 0.0.0.0 taiuwin.xyz
@@ -144755,6 +144762,7 @@
 0.0.0.0 tx.king96.net
 0.0.0.0 tx.socvip.com
 0.0.0.0 tx.socvip9.club
+0.0.0.0 tx1.vip
 0.0.0.0 tx5557.com
 0.0.0.0 tx5558.com
 0.0.0.0 tx6669.com

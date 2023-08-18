@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 18 Aug 2023 14:42 UTC+7
-! Version: 2308181442
-! Blocked: 4,315 rules
+! Last modified: 18 Aug 2023 21:55 UTC+7
+! Version: 2308182155
+! Blocked: 4,323 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -597,6 +597,10 @@
 ||api.vnq8.net^
 ||api.vx88.com^
 ||api2-gateway.go88.com^
+||api4.hit1.co^
+||api4.taitx1.club^
+||api6.hit1.co^
+||api6.taitx1.club^
 ||apicmsdl.loc89.fun^
 ||apiproxy.12b99.com^
 ||app.228kbet.com^
@@ -1298,6 +1302,7 @@
 ||hi88vip8.com^
 ||hiephoilangnghevietnam.com^
 ||hit1.club^
+||hit1.co^
 ||hit32.club^
 ||hit68.net^
 ||hl8.daily123hl8.com^
@@ -3303,6 +3308,7 @@
 ||play.go88.im^
 ||play.go88.vip^
 ||play.go88s.tv^
+||play.hit1.co^
 ||play.hit68.net^
 ||play.manclub.vin^
 ||play.nemo.vin^
@@ -3708,6 +3714,7 @@
 ||taiskyclub.online^
 ||taisum.co^
 ||taisun52.live^
+||taitx1.club^
 ||taiuk88.net^
 ||taiv8.com^
 ||taiv8.info^
@@ -3859,6 +3866,7 @@
 ||tx.king96.net^
 ||tx.socvip.com^
 ||tx.socvip9.club^
+||tx1.vip^
 ||tz.bet20.bet^
 ||tzzxt.com^
 ||ud1a.com^
