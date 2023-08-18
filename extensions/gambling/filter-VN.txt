@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 18 Aug 2023 09:31 UTC+7
-! Version: 2308180931
-! Blocked: 4,306 rules
+! Last modified: 18 Aug 2023 14:42 UTC+7
+! Version: 2308181442
+! Blocked: 4,315 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -626,6 +626,7 @@
 ||b52.win^
 ||b52d.club^
 ||b52k.club^
+||b52m.club^
 ||b52vn.org^
 ||b88ag.com^
 ||b89.bet^
@@ -856,6 +857,7 @@
 ||cuoc88.net^
 ||cuoc8899.com^
 ||cuoc8live.com^
+||cuocb52.me^
 ||cuocba.com^
 ||cuocbanh88.com^
 ||cuocbanh88.net^
@@ -1256,6 +1258,7 @@
 ||go88s.tv^
 ||go88vn.live^
 ||go88vn.vip^
+||go88x.club^
 ||goal123.com^
 ||goal68.com^
 ||goal68.net^
@@ -1310,6 +1313,7 @@
 ||hl8vi.com^
 ||hl8vn.fun^
 ||hm.fabet.vip^
+||hoahao.vip^
 ||hot51.com^
 ||hotlive.in^
 ||hotlive8.vip^
@@ -1464,6 +1468,7 @@
 ||inhotvw.com^
 ||interwinvn.com^
 ||ios.v99win.app^
+||ip.cuocb52.me^
 ||iwiin.club^
 ||iwin.club^
 ||iwin.info^
@@ -3287,6 +3292,7 @@
 ||piwik.88thaicasinoslots.com^
 ||pkwin1.com^
 ||play.b52.win^
+||play.b52m.club^
 ||play.b52vn.org^
 ||play.bom52.club^
 ||play.bum3.club^
@@ -3475,6 +3481,7 @@
 ||sam86vip.tv^
 ||sam86vip.vin^
 ||samvip.bet^
+||sanos.fun^
 ||sasa889.com^
 ||sbc2888.live^
 ||sbc31.com^
@@ -3525,6 +3532,7 @@
 ||sky88.uk^
 ||sky88.win^
 ||sky88vao.club^
+||skyclub.city^
 ||sm611.com^
 ||sm66.news^
 ||smart.8live.com^
@@ -3697,6 +3705,7 @@
 ||taimanclub.com^
 ||tainbet.net^
 ||taiok88.app^
+||taiskyclub.online^
 ||taisum.co^
 ||taisun52.live^
 ||taiuk88.net^
