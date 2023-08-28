@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 28 Aug 2023 13:44 UTC+7
-# Version: 2308281344
-# Blocked: 48,236 domains
+# Last modified: 28 Aug 2023 22:27 UTC+7
+# Version: 2308282227
+# Blocked: 48,237 domains
 # Only include adult domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -16229,6 +16229,7 @@
 0.0.0.0 gallery-dump.com
 0.0.0.0 galoretube.net
 0.0.0.0 galove.net
+0.0.0.0 gals.kindgirls.com
 0.0.0.0 game9266.com
 0.0.0.0 gamerssky.com
 0.0.0.0 games2k.net
