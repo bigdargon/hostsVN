@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 18 Aug 2023 21:54 UTC+7
-! Version: 2308182154
-! Blocked: 10,370 rules
+! Last modified: 28 Aug 2023 13:44 UTC+7
+! Version: 2308281344
+! Blocked: 10,382 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -25,6 +25,7 @@
 ||adpia.vn^
 ||adrealclick.com^
 ||ads-admin.hubs.vn^
+||ads-platform.zalo.me^
 ||ads-thanhnien-vn.cdn.ampproject.org^
 ||ads.botbanhang.vn^
 ||ads.platform.zalo.me^
@@ -939,6 +940,7 @@
 ||adelement.com^
 ||adevents.msn.com^
 ||adeventtracker.spotify.com^
+||adeventtrackermonitoring.spotify.com^
 ||adexchangemachine.com^
 ||adflex.asia^
 ||adforcast.com^
@@ -1927,6 +1929,7 @@
 ||log.pinterest.com^
 ||log.spotify.com^
 ||log.tbs.qq.com^
+||log2.spotify.com^
 ||logbak.hicloud.com^
 ||logger.applovefrom.com^
 ||logly.co.jp^
@@ -3697,6 +3700,7 @@
 ||alleleoctagon.life^
 ||allgrjyqkemos.com^
 ||allmyverygreatlife.com^
+||allodiafeveret.life^
 ||allodsubussu.com^
 ||allosponsor.com^
 ||allstarmediagroup.com^
@@ -3865,6 +3869,7 @@
 ||api.intensifier.de^
 ||api.mbrx.app^
 ||api.monedata.io^
+||api.myadsget.com^
 ||api.parse.com^
 ||api.prooffactor.com^
 ||api.pushspring.com^
@@ -5649,6 +5654,7 @@
 ||fatsosjogs.com^
 ||fatxmyaglo.com^
 ||fatzuclmihih.com^
+||faulterdeplume.com^
 ||faultycanvas.com^
 ||faultyfowl.com^
 ||fbcdn2.com^
@@ -5689,6 +5695,7 @@
 ||find-my-great-life.com^
 ||findcommerce.com^
 ||findingviolent.com^
+||findjanupcreep.tech^
 ||findnewline.com^
 ||fineclicks.com^
 ||fingahvf.top^
@@ -6546,6 +6553,7 @@
 ||jighucme.com^
 ||jikzudkkispi.com^
 ||jinkads.de^
+||jinsvestry.website^
 ||jioads.akamaized.net^
 ||jiordgxkpglzm.com^
 ||jitteryhire.pro^
@@ -7306,6 +7314,7 @@
 ||mzuspejtuodc.com^
 ||n.pc2ads.com^
 ||n69.com^
+||na.o18.click^
 ||nabfkhgvbi.xyz^
 ||nableriptide.com^
 ||nagaaspirin.com^
@@ -7980,6 +7989,7 @@
 ||playhaven.com^
 ||playsdonkey.com^
 ||playtomic.com^
+||playvideoclub.com^
 ||plethoramobile.com^
 ||plexureturp.com^
 ||plista.com^
@@ -8538,6 +8548,7 @@
 ||rotondahogs.com^
 ||rotumal.com^
 ||roughroll.com^
+||rounuatedanximum.com^
 ||routeserve.info^
 ||rowthsti.com^
 ||roxr.net^
@@ -9672,6 +9683,7 @@
 ||uninterestedquarter.com^
 ||uninvitedenvious.com^
 ||unknowntray.com^
+||unmarcharthra.com^
 ||unnaturalcaption.com^
 ||unphionetor.com^
 ||unplacebonism.life^

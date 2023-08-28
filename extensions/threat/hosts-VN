@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 18 Aug 2023 21:55 UTC+7
-# Version: 2308182155
-# Blocked: 3,596 domains
+# Last modified: 28 Aug 2023 13:44 UTC+7
+# Version: 2308281344
+# Blocked: 3,604 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -169,6 +169,7 @@
 0.0.0.0 baosaoviet24h.net
 0.0.0.0 baotienphong.net
 0.0.0.0 baotrixanhvn.com
+0.0.0.0 bb9998.com
 0.0.0.0 bbankpower.com
 0.0.0.0 bcmoney.xyz
 0.0.0.0 bemcll.me
@@ -427,6 +428,8 @@
 0.0.0.0 eqav33.com
 0.0.0.0 eqav77.com
 0.0.0.0 eserbank.com
+0.0.0.0 eulo11.com
+0.0.0.0 eulo99.com
 0.0.0.0 evay.info
 0.0.0.0 eventlienquanmobile.com
 0.0.0.0 eventlienquanvn.com
@@ -486,6 +489,7 @@
 0.0.0.0 ffmenberzship-garena.com
 0.0.0.0 ffz-garena-membership.com
 0.0.0.0 fhdd8431.com
+0.0.0.0 fhef11.com
 0.0.0.0 ficonexchange.com
 0.0.0.0 filavietnamve.com
 0.0.0.0 finashope.com
@@ -646,6 +650,7 @@
 0.0.0.0 gta5moneygen.online
 0.0.0.0 gzdpae.cyou
 0.0.0.0 h49vnk.cyou
+0.0.0.0 h5.50db8hsdoq.shop
 0.0.0.0 h5.diamondwallet.online
 0.0.0.0 h5.tocdovn.com
 0.0.0.0 h5.tocdovnm.com
@@ -1549,6 +1554,7 @@
 0.0.0.0 niftygatevay.com
 0.0.0.0 niftygotevay.com
 0.0.0.0 nikdaoquan.vn
+0.0.0.0 nouespaipenedes.com
 0.0.0.0 nsomomo.com
 0.0.0.0 nvietcombank.com
 0.0.0.0 oivay.app
@@ -2029,6 +2035,7 @@
 0.0.0.0 shopeexs.top
 0.0.0.0 shopehltd.com
 0.0.0.0 shopelnie.com
+0.0.0.0 shopelpie.com
 0.0.0.0 shopeo.cc
 0.0.0.0 shopepvip.com
 0.0.0.0 shopeskolo.com
@@ -3597,6 +3604,7 @@
 0.0.0.0 xuanlienquan.com
 0.0.0.0 yeumomo.me
 0.0.0.0 yl0sj9.cyou
+0.0.0.0 ymx33.com
 0.0.0.0 zalorashop.com
 0.0.0.0 zeroshop.cc
 0.0.0.0 zingmp3.pro

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 18 Aug 2023 21:55 UTC+7
-! Version: 2308182155
-! Blocked: 4,323 rules
+! Last modified: 28 Aug 2023 13:44 UTC+7
+! Version: 2308281344
+! Blocked: 4,334 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -790,6 +790,7 @@
 ||cdn.868vip.live^
 ||cdn.kingbet86.info^
 ||cdn.vwin010.com^
+||cdn.winclub.net^
 ||cf68.app^
 ||cf68.click^
 ||cf68.club^
@@ -3317,6 +3318,7 @@
 ||play.rikvip.tv^
 ||play.sbotop246.com^
 ||play.sum4.club^
+||play.sum5.club^
 ||play.taib52.com^
 ||play.top88.uk^
 ||play.top88.us^
@@ -3355,6 +3357,7 @@
 ||pog79aff.com^
 ||pogo.com^
 ||pop.h3bet.com^
+||pro.vuigiaitri.org^
 ||prod.bwingmkt1.com^
 ||prod.bwingmkt10.com^
 ||prod.bwingmkt8.com^
@@ -3494,6 +3497,7 @@
 ||sbetviet.com^
 ||sbobetfun.org^
 ||sbotop246.com^
+||sdjlbg.xyz^
 ||seb121.net^
 ||shbet.com^
 ||shbet.love^
@@ -3600,6 +3604,7 @@
 ||static3.lucky88.com^
 ||sukien.fcb88.com^
 ||sum4.club^
+||sum5.club^
 ||sun.to^
 ||sun.win^
 ||sun13.win^
@@ -3712,7 +3717,9 @@
 ||tainbet.net^
 ||taiok88.app^
 ||taiskyclub.online^
+||taisum.ac^
 ||taisum.co^
+||taisum.io^
 ||taisun52.live^
 ||taitx1.club^
 ||taiuk88.net^
@@ -3977,6 +3984,7 @@
 ||vn.tbab556.com^
 ||vn.tbab953.com^
 ||vn.vndbetway.com^
+||vn123.me^
 ||vn138.net^
 ||vn138138.com^
 ||vn138casino.com^
@@ -4064,6 +4072,7 @@
 ||vui.fun^
 ||vuicungk8.com^
 ||vuigiaitri.online^
+||vuigiaitri.org^
 ||vw109.com^
 ||vw115.com^
 ||vw2.co^
@@ -4168,6 +4177,7 @@
 ||wbet58.com^
 ||wbet99.net^
 ||wc.taiuk88.net^
+||wcdn.sdjlbg.xyz^
 ||we1win.com^
 ||we1win1.com^
 ||we1win10.com^
@@ -4227,6 +4237,7 @@
 ||winbet58.win^
 ||winbet99.co^
 ||winbet999.info^
+||winclub.net^
 ||wintbr.com^
 ||wm88viet.com^
 ||wm88vn.com^

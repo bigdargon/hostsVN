@@ -560,10 +560,12 @@
 0.0.0.0 static.ads-twitter.com
 #[spotify]
 0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 adeventtrackermonitoring.spotify.com
 0.0.0.0 analytics.spotify.com
 0.0.0.0 log.spotify.com
-0.0.0.0 pixel.spotify.com
+0.0.0.0 log2.spotify.com
 0.0.0.0 pixel-static.spotify.com
+0.0.0.0 pixel.spotify.com
 #[viber]
 0.0.0.0 ads.viber.com
 0.0.0.0 ads-d.viber.com

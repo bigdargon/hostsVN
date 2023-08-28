@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 18 Aug 2023 21:54 UTC+7
-! Version: 2308182154
-! Blocked: 838 rules
+! Last modified: 28 Aug 2023 13:44 UTC+7
+! Version: 2308281344
+! Blocked: 839 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -25,6 +25,7 @@
 ||adpia.vn^
 ||adrealclick.com^
 ||ads-admin.hubs.vn^
+||ads-platform.zalo.me^
 ||ads-thanhnien-vn.cdn.ampproject.org^
 ||ads.botbanhang.vn^
 ||ads.platform.zalo.me^
