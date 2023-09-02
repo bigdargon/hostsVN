@@ -178,8 +178,9 @@
 0.0.0.0 ads.youtube.com
 #[google.com]
 0.0.0.0 ads.google.com
-0.0.0.0 mail-ads.google.com
 0.0.0.0 analytics-alv.google.com
+0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 mail-ads.google.com
 #[google-cn]
 0.0.0.0 2mdn-cn.net
 0.0.0.0 admob-cn.com

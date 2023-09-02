@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 31 Aug 2023 14:53 UTC+7
-# Version: 2308311453
-# Blocked: 4,909 domains
+# Last modified: 02 Sep 2023 22:17 UTC+7
+# Version: 2309022217
+# Blocked: 4,923 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -383,6 +383,12 @@
 0.0.0.0 92lottery.mobi
 0.0.0.0 968.club
 0.0.0.0 978bet34.com
+0.0.0.0 989bet.com
+0.0.0.0 989bet5.com
+0.0.0.0 989bet6.com
+0.0.0.0 989bet7.com
+0.0.0.0 989bet8.com
+0.0.0.0 989bet9.com
 0.0.0.0 9911789.com
 0.0.0.0 9966789.com
 0.0.0.0 99994y.com
@@ -1235,6 +1241,7 @@
 0.0.0.0 gdwbetvn888.com
 0.0.0.0 gdwviet.com
 0.0.0.0 gembanca.com
+0.0.0.0 genvipios.com
 0.0.0.0 gi8.us
 0.0.0.0 gi888.cc
 0.0.0.0 gi8vn.vip
@@ -2923,6 +2930,7 @@
 0.0.0.0 lt992.com
 0.0.0.0 lt995.com
 0.0.0.0 lt997.com
+0.0.0.0 luciu.shop
 0.0.0.0 luck6.com
 0.0.0.0 luck8.com
 0.0.0.0 luck8881.com
@@ -3288,6 +3296,7 @@
 0.0.0.0 payment.w88club.com
 0.0.0.0 payment.w88hn.com
 0.0.0.0 pc.choita88.club
+0.0.0.0 pc.vinbet1005.com
 0.0.0.0 pekqt.com
 0.0.0.0 phatloc88.club
 0.0.0.0 piwik.12b99.com
@@ -3946,6 +3955,9 @@
 0.0.0.0 vin68.com
 0.0.0.0 vin777.work
 0.0.0.0 vinalottery.com
+0.0.0.0 vinb00.com
+0.0.0.0 vinbet1001.com
+0.0.0.0 vinbet1005.com
 0.0.0.0 vip.8kbet.vn
 0.0.0.0 vip.dangkyrikvip.tv
 0.0.0.0 vip.v99win.app
@@ -4014,6 +4026,7 @@
 0.0.0.0 vn88vui.live
 0.0.0.0 vn88win.live
 0.0.0.0 vn969.com
+0.0.0.0 vn96check.vinbet1001.com
 0.0.0.0 vnaz888.com
 0.0.0.0 vnbiz88.com
 0.0.0.0 vnboc.com
@@ -4242,6 +4255,7 @@
 0.0.0.0 ws.vx88.com
 0.0.0.0 ws2vs.com
 0.0.0.0 ww88club.com
+0.0.0.0 www-989bet.com
 0.0.0.0 www-c54.com
 0.0.0.0 www-ee88.com
 0.0.0.0 www.0066130.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 31 Aug 2023 14:53 UTC+7
-! Version: 2308311453
-! Blocked: 4,347 rules
+! Last modified: 02 Sep 2023 22:17 UTC+7
+! Version: 2309022217
+! Blocked: 4,361 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -384,6 +384,12 @@
 ||92lottery.mobi^
 ||968.club^
 ||978bet34.com^
+||989bet.com^
+||989bet5.com^
+||989bet6.com^
+||989bet7.com^
+||989bet8.com^
+||989bet9.com^
 ||9911789.com^
 ||9966789.com^
 ||99994y.com^
@@ -1241,6 +1247,7 @@
 ||gdwbetvn888.com^
 ||gdwviet.com^
 ||gembanca.com^
+||genvipios.com^
 ||gi8.us^
 ||gi888.cc^
 ||gi8vn.vip^
@@ -2933,6 +2940,7 @@
 ||lt992.com^
 ||lt995.com^
 ||lt997.com^
+||luciu.shop^
 ||luck6.com^
 ||luck8.com^
 ||luck8881.com^
@@ -3299,6 +3307,7 @@
 ||payment.w88club.com^
 ||payment.w88hn.com^
 ||pc.choita88.club^
+||pc.vinbet1005.com^
 ||pekqt.com^
 ||phatloc88.club^
 ||piwik.12b99.com^
@@ -3965,6 +3974,9 @@
 ||vin68.com^
 ||vin777.work^
 ||vinalottery.com^
+||vinb00.com^
+||vinbet1001.com^
+||vinbet1005.com^
 ||vip.8kbet.vn^
 ||vip.dangkyrikvip.tv^
 ||vip.v99win.app^
@@ -4035,6 +4047,7 @@
 ||vn88vui.live^
 ||vn88win.live^
 ||vn969.com^
+||vn96check.vinbet1001.com^
 ||vnaz888.com^
 ||vnbiz88.com^
 ||vnboc.com^
@@ -4265,6 +4278,7 @@
 ||ws.vx88.com^
 ||ws2vs.com^
 ||ww88club.com^
+||www-989bet.com^
 ||www-c54.com^
 ||www-ee88.com^
 ||wy88vn.com^
