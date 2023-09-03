@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 02 Sep 2023 22:17 UTC+7
-! Version: 2309022217
-! Blocked: 160,222 rules
+! Last modified: 03 Sep 2023 21:14 UTC+7
+! Version: 2309032114
+! Blocked: 160,228 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -93015,6 +93015,8 @@
 ||api.jun889.vip^
 ||api.kingbet86.info^
 ||api.mc876.com^
+||api.minicasino.io^
+||api.minivn.com^
 ||api.mu9.club^
 ||api.mu9.com^
 ||api.mxvietnam.com^
@@ -103524,6 +103526,7 @@
 ||chobet1.com^
 ||chobetcs.com^
 ||choi.gameb52a.me^
+||choi.gamingsoc88.org^
 ||choi.playiwin.uk^
 ||choi77.com^
 ||choi99.com^
@@ -111690,6 +111693,7 @@
 ||gamingclub.com^
 ||gamingclubcasino.com^
 ||gamingdf.com^
+||gamingsoc88.org^
 ||gamingstream.xyz^
 ||gamsahabnigua.com^
 ||gamvip.com^
@@ -132370,7 +132374,9 @@
 ||mimi165s.com^
 ||mingdgdfge345.com^
 ||minggu111.com^
+||minicasino.io^
 ||minigame.vnloto.com^
+||minivn.com^
 ||mintfans.xyz^
 ||mipay00.com^
 ||mipay00.xyz^

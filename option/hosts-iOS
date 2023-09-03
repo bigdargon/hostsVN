@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Sep 2023 22:16 UTC+7
-# Version: 2309022216
-# Blocked: 19,790 domains
+# Last modified: 03 Sep 2023 21:13 UTC+7
+# Version: 2309032113
+# Blocked: 19,792 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10129,6 +10129,8 @@
 0 r.apkpure.net
 0 report.apkpure.net
 0 t.apkpure.net
+0 events.statsigapi.net
+0 statsigapi.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn

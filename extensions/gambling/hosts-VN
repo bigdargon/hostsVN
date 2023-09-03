@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 02 Sep 2023 22:17 UTC+7
-# Version: 2309022217
-# Blocked: 4,923 domains
+# Last modified: 03 Sep 2023 21:14 UTC+7
+# Version: 2309032114
+# Blocked: 4,931 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -571,6 +571,8 @@
 0.0.0.0 api.jun889.vip
 0.0.0.0 api.kingbet86.info
 0.0.0.0 api.mc876.com
+0.0.0.0 api.minicasino.io
+0.0.0.0 api.minivn.com
 0.0.0.0 api.mu9.club
 0.0.0.0 api.mu9.com
 0.0.0.0 api.mxvietnam.com
@@ -825,6 +827,7 @@
 0.0.0.0 cheer68.com
 0.0.0.0 choang.fun
 0.0.0.0 choi.gameb52a.me
+0.0.0.0 choi.gamingsoc88.org
 0.0.0.0 choi.playiwin.uk
 0.0.0.0 choi77.com
 0.0.0.0 choi99.com
@@ -1233,6 +1236,7 @@
 0.0.0.0 gamevui86.com
 0.0.0.0 gamewin79vip.net
 0.0.0.0 gamex8vn.club
+0.0.0.0 gamingsoc88.org
 0.0.0.0 gateway.jbovietnam.com
 0.0.0.0 gateway.jbovn.com
 0.0.0.0 gatewayvn.jbovn.com
@@ -3134,7 +3138,9 @@
 0.0.0.0 mibet88.win
 0.0.0.0 mig8fans.com
 0.0.0.0 mig8vn.com
+0.0.0.0 minicasino.io
 0.0.0.0 minigame.vnloto.com
+0.0.0.0 minivn.com
 0.0.0.0 mix79.vip
 0.0.0.0 mkt.11bet.us
 0.0.0.0 mkt.debet.com
@@ -4618,6 +4624,8 @@
 0.0.0.0 www.mibet.com
 0.0.0.0 www.mibet.mobi
 0.0.0.0 www.mibet88.com
+0.0.0.0 www.minicasino.io
+0.0.0.0 www.minivn.com
 0.0.0.0 www.ms3388.com
 0.0.0.0 www.ms88asia.com
 0.0.0.0 www.ms88ca.com

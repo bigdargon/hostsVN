@@ -11437,3 +11437,6 @@
 0.0.0.0 r.apkpure.net
 0.0.0.0 report.apkpure.net
 0.0.0.0 t.apkpure.net
+#[statsigapi.net]
+0.0.0.0 events.statsigapi.net
+0.0.0.0 statsigapi.net

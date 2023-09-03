@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 02 Sep 2023 22:17 UTC+7
-! Version: 2309022217
-! Blocked: 4,361 rules
+! Last modified: 03 Sep 2023 21:14 UTC+7
+! Version: 2309032114
+! Blocked: 4,367 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -575,6 +575,8 @@
 ||api.jun889.vip^
 ||api.kingbet86.info^
 ||api.mc876.com^
+||api.minicasino.io^
+||api.minivn.com^
 ||api.mu9.club^
 ||api.mu9.com^
 ||api.mxvietnam.com^
@@ -830,6 +832,7 @@
 ||cheer68.com^
 ||choang.fun^
 ||choi.gameb52a.me^
+||choi.gamingsoc88.org^
 ||choi.playiwin.uk^
 ||choi77.com^
 ||choi99.com^
@@ -1238,6 +1241,7 @@
 ||gamevui86.com^
 ||gamewin79vip.net^
 ||gamex8vn.club^
+||gamingsoc88.org^
 ||gateway.jbovietnam.com^
 ||gateway.jbovn.com^
 ||gatewayvn.jbovn.com^
@@ -3144,7 +3148,9 @@
 ||mibet88.win^
 ||mig8fans.com^
 ||mig8vn.com^
+||minicasino.io^
 ||minigame.vnloto.com^
+||minivn.com^
 ||mix79.vip^
 ||mkt.11bet.us^
 ||mkt.debet.com^
