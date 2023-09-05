@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 03 Sep 2023 21:14 UTC+7
-! Version: 2309032114
-! Blocked: 160,228 rules
+! Last modified: 05 Sep 2023 10:14 UTC+7
+! Version: 2309051014
+! Blocked: 160,232 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -108319,10 +108319,13 @@
 ||etzhht.com^
 ||eu5c3.com^
 ||eu88.bet^
+||eu99kh.com^
 ||eu99v3tv9a.com^
 ||eu9h1v.live^
 ||eu9idn.com^
+||eu9vietnam.com^
 ||eu9vn.com^
+||eu9vn1.com^
 ||eubetvn.com^
 ||eujkvxvutrj.com^
 ||eupkb.com^
@@ -121299,6 +121302,7 @@
 ||jjde6.com^
 ||jjdear.xyz^
 ||jjfo1a.vip^
+||jjfungame.com^
 ||jjj5454.com^
 ||jjj5604.com^
 ||jjj608.com^

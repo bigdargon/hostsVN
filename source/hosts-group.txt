@@ -11197,6 +11197,7 @@
 0.0.0.0 ads.livetv689.me
 0.0.0.0 ads.livetv691.me
 0.0.0.0 ads.livetv697.me
+0.0.0.0 ads.livetv701.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11440,3 +11441,13 @@
 #[statsigapi.net]
 0.0.0.0 events.statsigapi.net
 0.0.0.0 statsigapi.net
+#[adcs-*.myappsget.com]
+0.0.0.0 adcs-ap.myappsget.com
+0.0.0.0 adcs-ue.myappsget.com
+#[rqmob.com]
+0.0.0.0 rqmob.com
+0.0.0.0 adcs.rqmob.com
+0.0.0.0 api.rqmob.com
+0.0.0.0 appclick.rqmob.com
+0.0.0.0 distribution.rqmob.com
+0.0.0.0 static.rqmob.com

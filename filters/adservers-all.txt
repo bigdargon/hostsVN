@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 03 Sep 2023 21:13 UTC+7
-! Version: 2309032113
-! Blocked: 10,401 rules
+! Last modified: 05 Sep 2023 10:13 UTC+7
+! Version: 2309051013
+! Blocked: 10,406 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -933,6 +933,7 @@
 ||adclickmedia.com^
 ||adclixx.net^
 ||adcolony.com^
+||adcs-*.myappsget.com^
 ||addthis.com^
 ||addthiscdn.com^
 ||addthisedge.com^
@@ -2292,6 +2293,7 @@
 ||rmp.rakuten.com^
 ||rmtag.com^
 ||rpdn.relateddigital.com^
+||rqmob.com^
 ||rtbid.me^
 ||rtbsuperhub.com^
 ||rtmark.net^
@@ -4966,6 +4968,7 @@
 ||creafi.com^
 ||creakdovbvfi.com^
 ||creamssicsite.com^
+||creasureeffe.club^
 ||creative-serving.com^
 ||creative.leojmp.com^
 ||creativeformatsnetwork.com^
@@ -5551,6 +5554,7 @@
 ||eryondistain.com^
 ||esellerate.net^
 ||espionagegardenerthicket.com^
+||essbritanidim.club^
 ||estat.com^
 ||etahub.com^
 ||etargetnet.com^
@@ -8199,6 +8203,7 @@
 ||pugmillmuspike.life^
 ||pulpybizarre.com^
 ||pulse360.com^
+||pulseadnetwork.com^
 ||pulvinioreodon.com^
 ||pulzuzbhiaxs.com^
 ||pumpaiss.net^

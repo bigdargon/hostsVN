@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Sep 2023 21:13 UTC+7
-# Version: 2309032113
-# Blocked: 19,792 domains
+# Last modified: 05 Sep 2023 10:13 UTC+7
+# Version: 2309051013
+# Blocked: 19,804 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11209,6 +11209,7 @@
 0.0.0.0 ads.livetv689.me
 0.0.0.0 ads.livetv691.me
 0.0.0.0 ads.livetv697.me
+0.0.0.0 ads.livetv701.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11452,6 +11453,16 @@
 #[statsigapi.net]
 0.0.0.0 events.statsigapi.net
 0.0.0.0 statsigapi.net
+#[adcs-*.myappsget.com]
+0.0.0.0 adcs-ap.myappsget.com
+0.0.0.0 adcs-ue.myappsget.com
+#[rqmob.com]
+0.0.0.0 rqmob.com
+0.0.0.0 adcs.rqmob.com
+0.0.0.0 api.rqmob.com
+0.0.0.0 appclick.rqmob.com
+0.0.0.0 distribution.rqmob.com
+0.0.0.0 static.rqmob.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15547,6 +15558,7 @@
 0.0.0.0 creafi.com
 0.0.0.0 creakdovbvfi.com
 0.0.0.0 creamssicsite.com
+0.0.0.0 creasureeffe.club
 0.0.0.0 creative-serving.com
 0.0.0.0 creative.leojmp.com
 0.0.0.0 creativeformatsnetwork.com
@@ -16083,6 +16095,7 @@
 0.0.0.0 eryondistain.com
 0.0.0.0 esellerate.net
 0.0.0.0 espionagegardenerthicket.com
+0.0.0.0 essbritanidim.club
 0.0.0.0 estat.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
@@ -18530,6 +18543,7 @@
 0.0.0.0 pugmillmuspike.life
 0.0.0.0 pulpybizarre.com
 0.0.0.0 pulse360.com
+0.0.0.0 pulseadnetwork.com
 0.0.0.0 pulvinioreodon.com
 0.0.0.0 pulzuzbhiaxs.com
 0.0.0.0 pumpaiss.net

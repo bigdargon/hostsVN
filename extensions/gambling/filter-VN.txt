@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 03 Sep 2023 21:14 UTC+7
-! Version: 2309032114
-! Blocked: 4,367 rules
+! Last modified: 05 Sep 2023 10:14 UTC+7
+! Version: 2309051014
+! Blocked: 4,371 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1055,7 +1055,10 @@
 ||en.solarbet.com^
 ||ent678.com^
 ||eu88.bet^
+||eu99kh.com^
+||eu9vietnam.com^
 ||eu9vn.com^
+||eu9vn1.com^
 ||euro.sin88.biz^
 ||eurofun88.com^
 ||eurok8.com^
@@ -1640,6 +1643,7 @@
 ||jiejiekan.net^
 ||jinbo989898.com^
 ||jingbets.com^
+||jjfungame.com^
 ||jss77.net^
 ||jun88.tv^
 ||jun889.vip^
