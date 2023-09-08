@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 05 Sep 2023 10:14 UTC+7
-! Version: 2309051014
-! Blocked: 48,057 rules
+! Last modified: 08 Sep 2023 14:08 UTC+7
+! Version: 2309081408
+! Blocked: 48,058 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -23547,6 +23547,7 @@
 ||kt128.com^
 ||ktb396.com^
 ||ktgzwx.com^
+||ktv.bio^
 ||ktv100.com^
 ||ku12306.com^
 ||ku8g.com^

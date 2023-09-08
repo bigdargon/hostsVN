@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 05 Sep 2023 10:14 UTC+7
-# Version: 2309051014
-# Blocked: 3,903 domains
+# Last modified: 08 Sep 2023 14:08 UTC+7
+# Version: 2309081408
+# Blocked: 3,907 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -322,6 +322,7 @@
 0.0.0.0 claudfront.net
 0.0.0.0 clmm.me
 0.0.0.0 clmm.nl
+0.0.0.0 clmm.pe
 0.0.0.0 clmm.pro
 0.0.0.0 clmm.team
 0.0.0.0 clmm.tv
@@ -831,6 +832,7 @@
 0.0.0.0 hdbankfinance.xyz
 0.0.0.0 hdbanks.com
 0.0.0.0 hdcreditvnn.com
+0.0.0.0 hdfn.online
 0.0.0.0 hdsaison-vn.com
 0.0.0.0 hdsaisonvn.com
 0.0.0.0 heirreplacem.cfd
@@ -1230,6 +1232,7 @@
 0.0.0.0 m.vi-mayman.com
 0.0.0.0 m.vnsc-finhay.com
 0.0.0.0 m.yocvn.com
+0.0.0.0 macysbyi.com
 0.0.0.0 magazineshopeeonline.com
 0.0.0.0 magicslimnhatban.com
 0.0.0.0 maivang.vip
@@ -1247,6 +1250,7 @@
 0.0.0.0 mbbank247.xyz
 0.0.0.0 mbbankl.com
 0.0.0.0 mbbankn.com
+0.0.0.0 mbbffn.online
 0.0.0.0 mbtk-bank.com
 0.0.0.0 mcfa11.com
 0.0.0.0 mcredit.vaynhanh-bankcredits.com
