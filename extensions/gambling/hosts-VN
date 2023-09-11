@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 08 Sep 2023 14:08 UTC+7
-# Version: 2309081408
-# Blocked: 4,944 domains
+# Last modified: 11 Sep 2023 10:01 UTC+7
+# Version: 2309111001
+# Blocked: 4,948 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -70,6 +70,8 @@
 0.0.0.0 11bet.win
 0.0.0.0 11zalo.com
 0.0.0.0 12388.club
+0.0.0.0 12388.store
+0.0.0.0 12388bet.co
 0.0.0.0 123b.bet
 0.0.0.0 123b.com
 0.0.0.0 123b.org
@@ -4285,6 +4287,8 @@
 0.0.0.0 www.1166130.com
 0.0.0.0 www.118kbet.com
 0.0.0.0 www.11zalo.com
+0.0.0.0 www.12388.store
+0.0.0.0 www.12388bet.co
 0.0.0.0 www.123b.bet
 0.0.0.0 www.123b.com
 0.0.0.0 www.123b.org

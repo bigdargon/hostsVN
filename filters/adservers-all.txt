@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 08 Sep 2023 14:08 UTC+7
-! Version: 2309081408
-! Blocked: 10,406 rules
+! Last modified: 11 Sep 2023 10:01 UTC+7
+! Version: 2309111001
+! Blocked: 10,407 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3515,6 +3515,7 @@
 ||adv.livedoor.com^
 ||adv.mxmcdn.net^
 ||adv.nexthardware.com^
+||adv.vz.ru^
 ||adv.webmd.com^
 ||adv.wp.pl^
 ||adv.yo.cz^

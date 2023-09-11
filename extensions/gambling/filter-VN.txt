@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 08 Sep 2023 14:08 UTC+7
-! Version: 2309081408
-! Blocked: 4,379 rules
+! Last modified: 11 Sep 2023 10:01 UTC+7
+! Version: 2309111001
+! Blocked: 4,381 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -67,6 +67,8 @@
 ||11bet.win^
 ||11zalo.com^
 ||12388.club^
+||12388.store^
+||12388bet.co^
 ||123b.bet^
 ||123b.com^
 ||123b.org^

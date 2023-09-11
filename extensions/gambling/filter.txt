@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 08 Sep 2023 14:08 UTC+7
-! Version: 2309081408
-! Blocked: 160,241 rules
+! Last modified: 11 Sep 2023 10:01 UTC+7
+! Version: 2309111001
+! Blocked: 160,243 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -8355,7 +8355,9 @@
 ||123873t.com^
 ||123873z.com^
 ||12388.club^
+||12388.store^
 ||123888999.com^
+||12388bet.co^
 ||12388bet.com^
 ||12389.bid^
 ||123893.vip^
