@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 11 Sep 2023 10:01 UTC+7
-# Version: 2309111001
-# Blocked: 3,907 domains
+# Last modified: 12 Sep 2023 09:21 UTC+7
+# Version: 2309120921
+# Blocked: 3,911 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -481,6 +481,7 @@
 0.0.0.0 dienthoaiviet.net
 0.0.0.0 differentia.ru
 0.0.0.0 disorderstatus.ru
+0.0.0.0 dmxprovip.com
 0.0.0.0 dmxvip.com
 0.0.0.0 do002.com
 0.0.0.0 do005.com
@@ -2088,6 +2089,7 @@
 0.0.0.0 shipshop99.com
 0.0.0.0 shogunbovietnam.com
 0.0.0.0 shoopaean.com
+0.0.0.0 shoopency.com
 0.0.0.0 shop146.com
 0.0.0.0 shop2727.com
 0.0.0.0 shop3001.com
@@ -3564,6 +3566,7 @@
 0.0.0.0 vn268.com
 0.0.0.0 vn277shop.com
 0.0.0.0 vn335shop.com
+0.0.0.0 vn6315shp.com
 0.0.0.0 vn765.com
 0.0.0.0 vn88khuyenmai.life
 0.0.0.0 vn88khuyenmai.site
@@ -3695,6 +3698,7 @@
 0.0.0.0 vpb-nanghanmuc.com
 0.0.0.0 vpb-nanghanmuc.online
 0.0.0.0 vpbank-vaytien.com
+0.0.0.0 vpbank.appvest.vn
 0.0.0.0 vpbank.com.vn-hc.info
 0.0.0.0 vpbank.com.vn-rb.icu
 0.0.0.0 vpbank.com.vn-rn.biz

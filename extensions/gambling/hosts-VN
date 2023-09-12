@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 11 Sep 2023 10:01 UTC+7
-# Version: 2309111001
-# Blocked: 4,948 domains
+# Last modified: 12 Sep 2023 09:21 UTC+7
+# Version: 2309120921
+# Blocked: 4,951 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -425,6 +425,7 @@
 0.0.0.0 ad.yo88vn.com
 0.0.0.0 ad.yo88vn.vip
 0.0.0.0 ads.8live.com
+0.0.0.0 ads.choingayiwin.top
 0.0.0.0 ads.playiwin.in
 0.0.0.0 ads.playmay88.top
 0.0.0.0 ads.taiiwinclub.cc
@@ -841,6 +842,7 @@
 0.0.0.0 choilawin.net
 0.0.0.0 choingay11b.mobi
 0.0.0.0 choingay88.com
+0.0.0.0 choingayiwin.top
 0.0.0.0 choingayone88.win
 0.0.0.0 choisport.com
 0.0.0.0 choisv88.live
@@ -1216,6 +1218,7 @@
 0.0.0.0 game.taib52.com
 0.0.0.0 game.v99win.app
 0.0.0.0 game69.top
+0.0.0.0 game69club.win
 0.0.0.0 game789club.net
 0.0.0.0 game88.pro
 0.0.0.0 gameapi.w88.vin

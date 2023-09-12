@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 11 Sep 2023 10:01 UTC+7
-! Version: 2309111001
-! Blocked: 4,381 rules
+! Last modified: 12 Sep 2023 09:21 UTC+7
+! Version: 2309120921
+! Blocked: 4,384 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -426,6 +426,7 @@
 ||ad.yo88vn.com^
 ||ad.yo88vn.vip^
 ||ads.8live.com^
+||ads.choingayiwin.top^
 ||ads.playiwin.in^
 ||ads.playmay88.top^
 ||ads.taiiwinclub.cc^
@@ -846,6 +847,7 @@
 ||choilawin.net^
 ||choingay11b.mobi^
 ||choingay88.com^
+||choingayiwin.top^
 ||choingayone88.win^
 ||choisport.com^
 ||choisv88.live^
@@ -1221,6 +1223,7 @@
 ||game.taib52.com^
 ||game.v99win.app^
 ||game69.top^
+||game69club.win^
 ||game789club.net^
 ||game88.pro^
 ||gameapi.w88.vin^
