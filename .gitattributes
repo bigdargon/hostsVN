@@ -1,0 +1,9 @@
+hosts linguist-detectable linguist-language=hosts
+hosts-* linguist-detectable linguist-language=hosts
+gambling0* linguist-detectable linguist-language=hosts
+
+/filters/* linguist-detectable linguist-language=AdBlock
+filter.txt linguist-detectable linguist-language=AdBlock
+filter-VN.txt linguist-detectable linguist-language=AdBlock
+wildcard.txt linguist-detectable linguist-language=AdBlock
+wildcard-VN.txt linguist-detectable linguist-language=AdBlock
