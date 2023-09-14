@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 12 Sep 2023 09:21 UTC+7
-# Version: 2309120921
-# Blocked: 3,911 domains
+# Last modified: 14 Sep 2023 10:39 UTC+7
+# Version: 2309141039
+# Blocked: 3,912 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2885,6 +2885,7 @@
 0.0.0.0 tinlequa365.com
 0.0.0.0 tinlocvang123.com
 0.0.0.0 tinnhanh24gio.com
+0.0.0.0 tinnong.xyz
 0.0.0.0 tinsukien2021vn.com
 0.0.0.0 tinthuongtrian.com
 0.0.0.0 tinthuongvang2021.com
