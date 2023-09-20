@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 14 Sep 2023 10:39 UTC+7
-! Version: 2309141039
-! Blocked: 3,859 rules
+! Last modified: 20 Sep 2023 15:23 UTC+7
+! Version: 2309201523
+! Blocked: 3,870 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -165,6 +165,7 @@
 ||app.zingmp3.pro^
 ||apphdbank.fun^
 ||apple-vn.shop^
+||apple.icloud.mar-kt.com.mx^
 ||apple.support-maps.live^
 ||apps-for-pc.com^
 ||appvaytien.vn^
@@ -1000,6 +1001,8 @@
 ||kerrysexchange.com^
 ||ketban.online^
 ||keygenwin.com^
+||kfdg22.com^
+||kfdg55.com^
 ||khangdz215.tk^
 ||khoanhkhacgiadinhdoantucuoinam.weebly.com^
 ||khoataikhoan-grn-vinhvien.xyz^
@@ -1661,6 +1664,7 @@
 ||ncbbank.site^
 ||nestlegroup.pro^
 ||net.lsipes.com^
+||netwo616.com^
 ||new-vietcombank.com^
 ||new-vietcombank.info^
 ||new-vietcombank.net^
@@ -2089,6 +2093,7 @@
 ||shogunbovietnam.com^
 ||shoopaean.com^
 ||shoopency.com^
+||shoopvv.com^
 ||shop146.com^
 ||shop2727.com^
 ||shop3001.com^
@@ -2282,6 +2287,7 @@
 ||shopeexpress.online^
 ||shopeexs.top^
 ||shopehltd.com^
+||shopelaie.com^
 ||shopelnie.com^
 ||shopelpie.com^
 ||shopeo.cc^
@@ -2640,9 +2646,11 @@
 ||tadcaz.com^
 ||tadcb.com^
 ||tadccc.com^
+||tadcqc.com^
 ||tadcqv.com^
 ||tadmak.com^
 ||tadmv.com^
+||tafccc.com^
 ||tagclick-cdn.com^
 ||taiappbank.info^
 ||taichinhacs.biz^
@@ -2707,6 +2715,7 @@
 ||tetlienquan.com^
 ||tetlienquan2023.website^
 ||tetquatang.vn^
+||tfi1233.com^
 ||thang365g.com^
 ||thanhphomomo.com^
 ||thanhtoanlienquan.com^
@@ -3568,6 +3577,7 @@
 ||vn277shop.com^
 ||vn335shop.com^
 ||vn6315shp.com^
+||vn6932shp.com^
 ||vn765.com^
 ||vn88khuyenmai.life^
 ||vn88khuyenmai.site^
@@ -3802,6 +3812,7 @@
 ||wmail-schnellvpn.xyz^
 ||wmail-service.com^
 ||wooribank.info^
+||woorivn.online^
 ||wutienitme247.info^
 ||wvietcombank.com^
 ||wviietcombank.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 14 Sep 2023 10:39 UTC+7
-# Version: 2309141039
-# Blocked: 3,912 domains
+# Last modified: 20 Sep 2023 15:23 UTC+7
+# Version: 2309201523
+# Blocked: 3,923 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -169,6 +169,7 @@
 0.0.0.0 app.zingmp3.pro
 0.0.0.0 apphdbank.fun
 0.0.0.0 apple-vn.shop
+0.0.0.0 apple.icloud.mar-kt.com.mx
 0.0.0.0 apple.support-maps.live
 0.0.0.0 apps-for-pc.com
 0.0.0.0 appvaytien.vn
@@ -1004,6 +1005,8 @@
 0.0.0.0 kerrysexchange.com
 0.0.0.0 ketban.online
 0.0.0.0 keygenwin.com
+0.0.0.0 kfdg22.com
+0.0.0.0 kfdg55.com
 0.0.0.0 khangdz215.tk
 0.0.0.0 khoanhkhacgiadinhdoantucuoinam.weebly.com
 0.0.0.0 khoataikhoan-grn-vinhvien.xyz
@@ -1662,6 +1665,7 @@
 0.0.0.0 ncbbank.site
 0.0.0.0 nestlegroup.pro
 0.0.0.0 net.lsipes.com
+0.0.0.0 netwo616.com
 0.0.0.0 new-vietcombank.com
 0.0.0.0 new-vietcombank.info
 0.0.0.0 new-vietcombank.net
@@ -2090,6 +2094,7 @@
 0.0.0.0 shogunbovietnam.com
 0.0.0.0 shoopaean.com
 0.0.0.0 shoopency.com
+0.0.0.0 shoopvv.com
 0.0.0.0 shop146.com
 0.0.0.0 shop2727.com
 0.0.0.0 shop3001.com
@@ -2283,6 +2288,7 @@
 0.0.0.0 shopeexpress.online
 0.0.0.0 shopeexs.top
 0.0.0.0 shopehltd.com
+0.0.0.0 shopelaie.com
 0.0.0.0 shopelnie.com
 0.0.0.0 shopelpie.com
 0.0.0.0 shopeo.cc
@@ -2640,9 +2646,11 @@
 0.0.0.0 tadcaz.com
 0.0.0.0 tadcb.com
 0.0.0.0 tadccc.com
+0.0.0.0 tadcqc.com
 0.0.0.0 tadcqv.com
 0.0.0.0 tadmak.com
 0.0.0.0 tadmv.com
+0.0.0.0 tafccc.com
 0.0.0.0 tagclick-cdn.com
 0.0.0.0 taiappbank.info
 0.0.0.0 taichinhacs.biz
@@ -2707,6 +2715,7 @@
 0.0.0.0 tetlienquan.com
 0.0.0.0 tetlienquan2023.website
 0.0.0.0 tetquatang.vn
+0.0.0.0 tfi1233.com
 0.0.0.0 thang365g.com
 0.0.0.0 thanhphomomo.com
 0.0.0.0 thanhtoanlienquan.com
@@ -3568,6 +3577,7 @@
 0.0.0.0 vn277shop.com
 0.0.0.0 vn335shop.com
 0.0.0.0 vn6315shp.com
+0.0.0.0 vn6932shp.com
 0.0.0.0 vn765.com
 0.0.0.0 vn88khuyenmai.life
 0.0.0.0 vn88khuyenmai.site
@@ -3802,6 +3812,7 @@
 0.0.0.0 wmail-schnellvpn.xyz
 0.0.0.0 wmail-service.com
 0.0.0.0 wooribank.info
+0.0.0.0 woorivn.online
 0.0.0.0 wutienitme247.info
 0.0.0.0 wvietcombank.com
 0.0.0.0 wviietcombank.com

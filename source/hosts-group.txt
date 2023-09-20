@@ -1544,11 +1544,12 @@
 0.0.0.0 prebid.adnxs-simple.com
 0.0.0.0 rb.adnxs-simple.com
 0.0.0.0 vcdn.adnxs-simple.com
-#[batch]
-0.0.0.0 batch.com
-0.0.0.0 www.batch.com
+#[batch.com]
 0.0.0.0 api.batch.com
+0.0.0.0 batch.com
+0.0.0.0 via.batch.com
 0.0.0.0 ws.batch.com
+0.0.0.0 www.batch.com
 #[krxd.net]
 0.0.0.0 apiservices.krxd.net
 0.0.0.0 beacon.krxd.net
@@ -11198,6 +11199,8 @@
 0.0.0.0 ads.livetv691.me
 0.0.0.0 ads.livetv697.me
 0.0.0.0 ads.livetv701.me
+0.0.0.0 ads.livetv703.me
+0.0.0.0 ads.livetv705.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11451,3 +11454,18 @@
 0.0.0.0 appclick.rqmob.com
 0.0.0.0 distribution.rqmob.com
 0.0.0.0 static.rqmob.com
+#[sumo.com]
+0.0.0.0 load.sumo.com
+0.0.0.0 sumo.com
+#[orbsrv.com]
+0.0.0.0 orbsrv.com
+0.0.0.0 a.orbsrv.com
+0.0.0.0 s.orbsrv.com
+#[mobon.net]
+0.0.0.0 mobon.net
+0.0.0.0 img.mobon.net
+0.0.0.0 img2.mobon.net
+#[t13.io]
+0.0.0.0 s2s.t13.io
+0.0.0.0 static.s2s.t13.io
+0.0.0.0 t13.io

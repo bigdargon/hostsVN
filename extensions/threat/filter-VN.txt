@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 14 Sep 2023 10:39 UTC+7
-! Version: 2309141039
-! Blocked: 3,563 rules
+! Last modified: 20 Sep 2023 15:23 UTC+7
+! Version: 2309201523
+! Blocked: 3,573 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -836,6 +836,8 @@
 ||kavietnam.xyz^
 ||kerrysexchange.com^
 ||ketban.online^
+||kfdg22.com^
+||kfdg55.com^
 ||khangdz215.tk^
 ||khoanhkhacgiadinhdoantucuoinam.weebly.com^
 ||khoataikhoan-grn-vinhvien.xyz^
@@ -1468,6 +1470,7 @@
 ||ncbbank.online^
 ||ncbbank.site^
 ||nestlegroup.pro^
+||netwo616.com^
 ||new-vietcombank.com^
 ||new-vietcombank.info^
 ||new-vietcombank.net^
@@ -1846,6 +1849,7 @@
 ||shogunbovietnam.com^
 ||shoopaean.com^
 ||shoopency.com^
+||shoopvv.com^
 ||shop146.com^
 ||shop2727.com^
 ||shop3001.com^
@@ -2039,6 +2043,7 @@
 ||shopeexpress.online^
 ||shopeexs.top^
 ||shopehltd.com^
+||shopelaie.com^
 ||shopelnie.com^
 ||shopelpie.com^
 ||shopeo.cc^
@@ -2390,9 +2395,11 @@
 ||tadcaz.com^
 ||tadcb.com^
 ||tadccc.com^
+||tadcqc.com^
 ||tadcqv.com^
 ||tadmak.com^
 ||tadmv.com^
+||tafccc.com^
 ||taiappbank.info^
 ||taichinhacs.biz^
 ||taichinhagribank.com^
@@ -2455,6 +2462,7 @@
 ||tetlienquan.com^
 ||tetlienquan2023.website^
 ||tetquatang.vn^
+||tfi1233.com^
 ||thang365g.com^
 ||thanhphomomo.com^
 ||thanhtoanlienquan.com^
@@ -3294,6 +3302,7 @@
 ||vn277shop.com^
 ||vn335shop.com^
 ||vn6315shp.com^
+||vn6932shp.com^
 ||vn765.com^
 ||vn88khuyenmai.life^
 ||vn88khuyenmai.site^
@@ -3515,6 +3524,7 @@
 ||winmomo.com^
 ||winsbank.io^
 ||wooribank.info^
+||woorivn.online^
 ||wutienitme247.info^
 ||wvietcombank.com^
 ||wviietcombank.com^
