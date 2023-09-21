@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 20 Sep 2023 15:23 UTC+7
-! Version: 2309201523
-! Blocked: 4,398 rules
+! Last modified: 21 Sep 2023 14:21 UTC+7
+! Version: 2309211421
+! Blocked: 4,399 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2956,6 +2956,7 @@
 ||lp.zo1.win^
 ||lp2.gameiwin.vip^
 ||lp8z6.com^
+||lpe7c.com^
 ||lt119.online^
 ||lt991.com^
 ||lt992.com^

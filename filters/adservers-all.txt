@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Sep 2023 15:22 UTC+7
-! Version: 2309201522
-! Blocked: 10,437 rules
+! Last modified: 21 Sep 2023 14:21 UTC+7
+! Version: 2309211421
+! Blocked: 10,433 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1427,9 +1427,7 @@
 ||ccc.sys.intl.xiaomi.com^
 ||ccc.sys.miui.com^
 ||ccpa.psg.nexstardigital.net^
-||cdn-eu.dynamicyield.com^
 ||cdn.avantisvideo.com^
-||cdn.dynamicyield.com^
 ||cdn.openinstall.io^
 ||cdn.optimizely.com^
 ||cdn.popupsmart.com^
@@ -1624,7 +1622,6 @@
 ||edge.atmtd.com^
 ||effectivemeasure.net^
 ||ej1*.online^
-||em.dynamicyield.com^
 ||ematicsolutions.com^
 ||emxdgt.com^
 ||engageya.com^
@@ -1805,6 +1802,7 @@
 ||huerty.site^
 ||hummingbird.mavencoalition.io^
 ||hwstats.unity3d.com^
+||hyperpromote.com^
 ||i-mobile.co.jp^
 ||i18n-pglstatp.com^
 ||ia.51.la^
@@ -2255,8 +2253,6 @@
 ||rayjump.com^
 ||rcm-images.amazon.com^
 ||rcm.amazon.com^
-||rcom-eu.dynamicyield.com^
-||rcom.dynamicyield.com^
 ||reactful.com^
 ||readpeak.com^
 ||realsrv.com^
@@ -2274,7 +2270,6 @@
 ||res.rbl.ms^
 ||researchnow.com^
 ||resonate.com^
-||rest.dynamicyield.com^
 ||returnpath.net^
 ||revboostprocdnadsprod.azureedge.net^
 ||revcontent.com^
@@ -2416,7 +2411,6 @@
 ||statgw.devtodev.com^
 ||static-doubleclick-net.l.google.com^
 ||static-tracking.klaviyo.com^
-||static.dynamicyield.com^
 ||staticstuff.net^
 ||stats.adobe.com^
 ||stats.avast.com^
@@ -3006,6 +3000,7 @@
 ||adgroups.net^
 ||adhese.be^
 ||adhese.com^
+||adhitzads.com^
 ||adhoc4.net^
 ||adigi.icu^
 ||adikteev.com^
@@ -5072,6 +5067,7 @@
 ||d2bxxk33t58v29.cloudfront.net^
 ||d2c8v52ll5s99u.cloudfront.net^
 ||d2cmedia.ca^
+||d2er1uyk6qcknh.cloudfront.net^
 ||d2ers4gi7coxau.cloudfront.net^
 ||d2fsfacjuqds81.cloudfront.net^
 ||d2g8ksx1za632p.cloudfront.net^

@@ -9806,17 +9806,10 @@
 #[dynamicyield.com]
 0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 async-px.dynamicyield.com
-0.0.0.0 cdn-eu.dynamicyield.com
-0.0.0.0 cdn.dynamicyield.com
-0.0.0.0 em.dynamicyield.com
 0.0.0.0 px-eu.dynamicyield.com
 0.0.0.0 px.dynamicyield.com
-0.0.0.0 rcom-eu.dynamicyield.com
-0.0.0.0 rcom.dynamicyield.com
-0.0.0.0 rest.dynamicyield.com
 0.0.0.0 st-eu.dynamicyield.com
 0.0.0.0 st.dynamicyield.com
-0.0.0.0 static.dynamicyield.com
 #[anythinktech.com]
 0.0.0.0 adx-sg.anythinktech.com
 0.0.0.0 adx.anythinktech.com
@@ -11469,3 +11462,6 @@
 0.0.0.0 s2s.t13.io
 0.0.0.0 static.s2s.t13.io
 0.0.0.0 t13.io
+#[hyperpromote.com]
+0.0.0.0 cdn.hyperpromote.com
+0.0.0.0 hyperpromote.com
