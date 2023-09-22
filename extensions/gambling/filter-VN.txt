@@ -1,14 +1,16 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 21 Sep 2023 21:40 UTC+7
-! Version: 2309212140
-! Blocked: 4,406 rules
+! Last modified: 22 Sep 2023 10:36 UTC+7
+! Version: 2309221036
+! Blocked: 4,429 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
 ||0000130.com^
 ||0066130.com^
 ||0077130.com^
+||009.casino^
+||009songbai.com^
 ||010bestk8.com^
 ||011bestk8.com^
 ||012bestk8.com^
@@ -245,6 +247,7 @@
 ||789d.club^
 ||789k.club^
 ||789v.club^
+||789x.club^
 ||78win01.com^
 ||78win04.com^
 ||78win07.com^
@@ -640,6 +643,7 @@
 ||azf8bet.com^
 ||b29.bet^
 ||b29qc.win^
+||b52.me^
 ||b52.vip^
 ||b52.win^
 ||b52d.club^
@@ -1221,6 +1225,7 @@
 ||game.789.club^
 ||game.789a.club^
 ||game.789d.club^
+||game.b52.me^
 ||game.b52.win^
 ||game.b52d.club^
 ||game.bom52.club^
@@ -1254,6 +1259,7 @@
 ||gamevui86.com^
 ||gamewin79vip.net^
 ||gamex8vn.club^
+||gamingsoc88.one^
 ||gamingsoc88.org^
 ||gateway.jbovietnam.com^
 ||gateway.jbovn.com^
@@ -1263,6 +1269,7 @@
 ||gaznbike.com^
 ||gdwbetvn888.com^
 ||gdwviet.com^
+||gem1.win^
 ||gembanca.com^
 ||genvip88.com^
 ||genvipios.com^
@@ -1281,6 +1288,7 @@
 ||go789.nl^
 ||go789.to^
 ||go88-vn.com^
+||go88.cam^
 ||go88.club^
 ||go88.com^
 ||go88.im^
@@ -1291,6 +1299,7 @@
 ||go88b.com^
 ||go88bet.net^
 ||go88f.com^
+||go88p.com^
 ||go88r.pro^
 ||go88s.tv^
 ||go88vn.live^
@@ -1338,6 +1347,7 @@
 ||hiephoilangnghevietnam.com^
 ||hit1.club^
 ||hit1.co^
+||hit21.club^
 ||hit32.club^
 ||hit38.club^
 ||hit68.net^
@@ -1516,6 +1526,7 @@
 ||iwin.info^
 ||iwin.us^
 ||iwin10.club^
+||iwin12.club^
 ||iwin58.vip^
 ||iwin6699.com^
 ||iwin68m.com^
@@ -2844,6 +2855,7 @@
 ||kingfun2.com^
 ||kingfun247.net^
 ||kkfffddd.com^
+||km.gamingsoc88.one^
 ||km.playmanclub.vin^
 ||km.thethaob52.org^
 ||km1888866b.com^
@@ -3125,6 +3137,7 @@
 ||maffiliate.w88club.com^
 ||maint.v79top.com^
 ||man.club^
+||man1.club^
 ||manclub.fun^
 ||manclub.live^
 ||manclub.us^
@@ -3297,6 +3310,7 @@
 ||onbet2.com^
 ||onbet3.com^
 ||onbet7.com^
+||onbet863.com^
 ||onbet993.com^
 ||one88.club^
 ||one88.com^
@@ -3376,6 +3390,7 @@
 ||play.vuigiaitri.online^
 ||play.win79.vip^
 ||play.win79d.com^
+||play.wo88.ac^
 ||play.x8.club^
 ||play.x8vn.top^
 ||play.yo88.net^
@@ -3500,6 +3515,7 @@
 ||rikgame.live^
 ||rikk.us^
 ||rikkk.net^
+||rikvip.fun^
 ||rikvip.tv^
 ||rikvip.uk^
 ||rikvip.us^
@@ -3662,6 +3678,8 @@
 ||sun.to^
 ||sun.win^
 ||sun13.win^
+||sun14win.win^
+||sun15.win^
 ||sun52.bid^
 ||sun52.click^
 ||sun52.fun^
@@ -3783,6 +3801,7 @@
 ||taisum.co^
 ||taisum.io^
 ||taisun52.live^
+||taisunwin.live^
 ||taitx1.club^
 ||taiuk88.net^
 ||taiv8.com^
@@ -4212,6 +4231,7 @@
 ||w365w.net^
 ||w365win.win^
 ||w388.com^
+||w698.bet^
 ||w69top.com^
 ||w753j.com^
 ||w88.day^
@@ -4291,7 +4311,9 @@
 ||win456.cc^
 ||win79.app^
 ||win79.download^
+||win79.live^
 ||win79.pro^
+||win79.site^
 ||win79.vip^
 ||win79a.com^
 ||win79d.com^
@@ -4311,6 +4333,7 @@
 ||wintbr.com^
 ||wm88viet.com^
 ||wm88vn.com^
+||wo88.ac^
 ||wp.choigiaitri.net^
 ||wp.mu9.win^
 ||wp.red88.us^

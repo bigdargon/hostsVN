@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 21 Sep 2023 14:21 UTC+7
-! Version: 2309211421
-! Blocked: 10,433 rules
+! Last modified: 22 Sep 2023 10:35 UTC+7
+! Version: 2309221035
+! Blocked: 10,434 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2174,6 +2174,7 @@
 ||playstream.media^
 ||pmddby.com^
 ||pncloudfl.com^
+||pocpoc.io^
 ||polarbyte.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||popads.net^
