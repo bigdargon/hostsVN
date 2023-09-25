@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 22 Sep 2023 10:36 UTC+7
-! Version: 2309221036
-! Blocked: 4,429 rules
+! Last modified: 25 Sep 2023 11:04 UTC+7
+! Version: 2309251104
+! Blocked: 4,446 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -84,6 +84,7 @@
 ||123b88.com^
 ||123bdly.com^
 ||123bdy.com^
+||123bhh.com^
 ||123win.pro^
 ||12b99.com^
 ||12fifa2018.com^
@@ -525,6 +526,7 @@
 ||alo888.com^
 ||api.118kbet.com^
 ||api.11zalo.com^
+||api.123bhh.com^
 ||api.22zalo.com^
 ||api.338kbet.com^
 ||api.33beta.com^
@@ -994,6 +996,7 @@
 ||dk.gamequyong.xyz^
 ||dk.rikkk.net^
 ||dk.thangiwin.org^
+||dk.thethaouk88.org^
 ||dk.topcc88.me^
 ||dk.vaorikvip.net^
 ||dk8.games^
@@ -1325,10 +1328,22 @@
 ||happy9luck.com^
 ||happynb.com^
 ||hay8822.com^
+||hb88.com^
+||hb88013.com^
+||hb88016.com^
 ||hb88017.com^
+||hb88021.com^
+||hb88024.com^
+||hb88025.com^
+||hb88028.com^
+||hb88029.com^
 ||hb88031.com^
 ||hb88032.com^
+||hb88033.com^
+||hb88036.com^
+||hb88037.com^
 ||hb88038.com^
+||hb88039.com^
 ||hb8864.com^
 ||hb8875.com^
 ||hb8887.com^
@@ -3249,6 +3264,7 @@
 ||new88.ai^
 ||new88.love^
 ||new88.tips^
+||new8803.com^
 ||new8805.com^
 ||new8808.vip^
 ||new88111.com^
@@ -3861,6 +3877,7 @@
 ||thethaodabet.com^
 ||thethaofb88.com^
 ||thethaofi88.com^
+||thethaouk88.org^
 ||thethaovip.vip^
 ||thevw155.com^
 ||thk8.net^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 22 Sep 2023 10:36 UTC+7
-# Version: 2309221036
-# Blocked: 161,755 domains
+# Last modified: 25 Sep 2023 11:04 UTC+7
+# Version: 2309251104
+# Blocked: 161,775 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8414,6 +8414,7 @@
 0.0.0.0 123bet168.live
 0.0.0.0 123bet168th.live
 0.0.0.0 123bff.com
+0.0.0.0 123bhh.com
 0.0.0.0 123cao.cn
 0.0.0.0 123hgv.com
 0.0.0.0 123kto.com
@@ -92946,6 +92947,7 @@
 0.0.0.0 api-ugaming.com
 0.0.0.0 api.118kbet.com
 0.0.0.0 api.11zalo.com
+0.0.0.0 api.123bhh.com
 0.0.0.0 api.22zalo.com
 0.0.0.0 api.338kbet.com
 0.0.0.0 api.33beta.com
@@ -106454,6 +106456,7 @@
 0.0.0.0 dk.ngoaihanganh-sin88.com
 0.0.0.0 dk.rikkk.net
 0.0.0.0 dk.thangiwin.org
+0.0.0.0 dk.thethaouk88.org
 0.0.0.0 dk.topcc88.me
 0.0.0.0 dk.vaorikvip.net
 0.0.0.0 dk1717.com
@@ -114466,12 +114469,24 @@
 0.0.0.0 hb785.com
 0.0.0.0 hb8510.app
 0.0.0.0 hb8529.com
+0.0.0.0 hb88.com
 0.0.0.0 hb88.dev
 0.0.0.0 hb88.link
+0.0.0.0 hb88013.com
+0.0.0.0 hb88016.com
 0.0.0.0 hb88017.com
+0.0.0.0 hb88021.com
+0.0.0.0 hb88024.com
+0.0.0.0 hb88025.com
+0.0.0.0 hb88028.com
+0.0.0.0 hb88029.com
 0.0.0.0 hb88031.com
 0.0.0.0 hb88032.com
+0.0.0.0 hb88033.com
+0.0.0.0 hb88036.com
+0.0.0.0 hb88037.com
 0.0.0.0 hb88038.com
+0.0.0.0 hb88039.com
 0.0.0.0 hb881.com
 0.0.0.0 hb8816.com
 0.0.0.0 hb8840.com
@@ -133901,6 +133916,7 @@
 0.0.0.0 new88000.com
 0.0.0.0 new8801.vip
 0.0.0.0 new8802.vip
+0.0.0.0 new8803.com
 0.0.0.0 new8803.vip
 0.0.0.0 new8804.vip
 0.0.0.0 new8805.com
@@ -143734,6 +143750,7 @@
 0.0.0.0 thethaofi88.com
 0.0.0.0 thethaofun88.com
 0.0.0.0 thethaojbo.com
+0.0.0.0 thethaouk88.org
 0.0.0.0 thethaoviet88.com
 0.0.0.0 thethaovip.vip
 0.0.0.0 thethaovn.bond
@@ -151487,6 +151504,7 @@
 0.0.0.0 www.123b.com
 0.0.0.0 www.123b.org
 0.0.0.0 www.123bdly.com
+0.0.0.0 www.123bhh.com
 0.0.0.0 www.123win.pro
 0.0.0.0 www.12b99.com
 0.0.0.0 www.157win.com
@@ -152250,6 +152268,7 @@
 0.0.0.0 www.hb88031.com
 0.0.0.0 www.hb88032.com
 0.0.0.0 www.hb88038.com
+0.0.0.0 www.hb88039.com
 0.0.0.0 www.hb8864.com
 0.0.0.0 www.hb8887.com
 0.0.0.0 www.hb88a.com
@@ -152428,6 +152447,7 @@
 0.0.0.0 www.maxitip.cz
 0.0.0.0 www.may88.club
 0.0.0.0 www.mb88.bet
+0.0.0.0 www.mb88.com
 0.0.0.0 www.mbx88.com
 0.0.0.0 www.mc876.com
 0.0.0.0 www.mcwaffiliates.com
