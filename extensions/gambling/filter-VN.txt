@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 25 Sep 2023 11:04 UTC+7
-! Version: 2309251104
-! Blocked: 4,446 rules
+! Last modified: 27 Sep 2023 22:54 UTC+7
+! Version: 2309272254
+! Blocked: 4,489 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -174,6 +174,7 @@
 ||523bet.app^
 ||523betapp.site^
 ||52gp1.com^
+||550004.com^
 ||5516688.com^
 ||5533789.com^
 ||5566688.com^
@@ -245,6 +246,7 @@
 ||789club.com^
 ||789club.org^
 ||789clubs.club^
+||789clubs.vin^
 ||789d.club^
 ||789k.club^
 ||789v.club^
@@ -254,6 +256,7 @@
 ||78win07.com^
 ||78win09.com^
 ||79lucky.com^
+||79luckyclub.fun^
 ||79sodo.com^
 ||79sun.bet^
 ||79sun.net^
@@ -402,6 +405,7 @@
 ||99994y.com^
 ||999live.net^
 ||999lucky88.com^
+||99vina.club^
 ||99vn.bet^
 ||9ahf0.com^
 ||9b992.com^
@@ -636,6 +640,7 @@
 ||apptk.app^
 ||asiatop88.com^
 ||asiavwin.com^
+||asset2bay.com^
 ||aw8vn.com^
 ||aw8vn2.com^
 ||aw8vn3.com^
@@ -652,6 +657,7 @@
 ||b52k.club^
 ||b52m.club^
 ||b52vn.org^
+||b69.city^
 ||b88ag.com^
 ||b89.bet^
 ||banca-red88.top^
@@ -709,6 +715,7 @@
 ||big88.one^
 ||bigbet0015.com^
 ||bigbet2258.com^
+||bigbet2322.com^
 ||bigboss23.com^
 ||bigboss93.com^
 ||bigk8th888.com^
@@ -842,6 +849,7 @@
 ||chatserverv.ooooooo2.com^
 ||cheer68.com^
 ||choang.fun^
+||choang.tv^
 ||choi.gameb52a.me^
 ||choi.gamingsoc88.org^
 ||choi.playiwin.uk^
@@ -850,6 +858,7 @@
 ||choibaionlinevn.com^
 ||choibancadoithuong.com^
 ||choigiaitri.net^
+||choihay.vip^
 ||choihitclub.run^
 ||choiiwin79.fun^
 ||choilawin.net^
@@ -929,6 +938,7 @@
 ||d9bet68.com^
 ||d9bet88.com^
 ||dabanh.thethaofb88.com^
+||dabet.cc^
 ||dabet.club^
 ||dabet.fun^
 ||dabet.me^
@@ -976,6 +986,7 @@
 ||datcuoc.thethaofb88.com^
 ||datcuoc247.com^
 ||dbet68.com^
+||dbthethao.run^
 ||dd7bet.me^
 ||debet.club^
 ||debet.com^
@@ -1032,6 +1043,7 @@
 ||download.bayvip247.me^
 ||download.bayvip247.page^
 ||download.bayvip247.win^
+||download.kingvip99.com^
 ||dp133.com^
 ||dp313.com^
 ||dp533.com^
@@ -1096,6 +1108,7 @@
 ||f3.macau.club^
 ||f3.macauclub.fun^
 ||f3.playv8.vip^
+||f35.club^
 ||f4.macauclub.fun^
 ||f4.playv8.vip^
 ||f4.taiv8.com^
@@ -1121,11 +1134,13 @@
 ||f8bets.pro^
 ||fa88.win^
 ||fa88vn.live^
+||fabet.ac^
 ||fabet.biz^
 ||fabet.cc^
 ||fabet.com^
 ||fabet.live^
 ||fabet.me^
+||fabet.net^
 ||fabet.tv^
 ||fabet.us^
 ||fabet.vip^
@@ -1175,6 +1190,7 @@
 ||fcb8.vin^
 ||fcb8.vip^
 ||fcb8.win^
+||fcb88.cc^
 ||fcb88.com^
 ||fcb88.vip^
 ||fcb88d.com^
@@ -1379,6 +1395,7 @@
 ||hl8vi.com^
 ||hl8vn.fun^
 ||hm.fabet.vip^
+||ho.vin^
 ||hoahao.vip^
 ||hot51.com^
 ||hotlive.in^
@@ -2476,6 +2493,7 @@
 ||k8vietpro.com^
 ||k8vii36.com^
 ||k8vii85.com^
+||k8vin.fun^
 ||k8vinavn028.com^
 ||k8vinavn029.com^
 ||k8vinavn030.com^
@@ -2840,6 +2858,7 @@
 ||k8zs1.com^
 ||k9vn1.com^
 ||k9vn2.com^
+||kaivip.club^
 ||kc6bet.net^
 ||kc99.vin^
 ||kenhbong.com^
@@ -2863,12 +2882,16 @@
 ||kimsa98.com^
 ||king66.vin^
 ||king96.net^
+||king999.pro^
 ||kingbet86.com^
 ||kingbet86.info^
 ||kingdoithuong.net^
 ||kingfun1.club^
 ||kingfun2.com^
 ||kingfun247.net^
+||kingfunsomot.com^
+||kingman.fun^
+||kingvip99.com^
 ||kkfffddd.com^
 ||km.gamingsoc88.one^
 ||km.playmanclub.vin^
@@ -2960,6 +2983,7 @@
 ||lixi88zb123.net^
 ||lixi99.com^
 ||lm.jbo010.com^
+||loc789.club^
 ||loc88.fun^
 ||loc89.fun^
 ||loc89.vip^
@@ -3143,6 +3167,7 @@
 ||m88my.com^
 ||m88vina.com^
 ||m8winvip.com^
+||m8winvnd.com^
 ||m8winvnn.com^
 ||m9853.com^
 ||m9u6s.com^
@@ -3256,8 +3281,10 @@
 ||nbet.me^
 ||nbet.site^
 ||nbet.top^
+||nbet.tv^
 ||nbet.vip^
 ||nbet.win^
+||nbet88.org^
 ||nearom.com^
 ||nemo.vin^
 ||new.vx88.com^
@@ -3333,6 +3360,7 @@
 ||one88.fun^
 ||one88.me^
 ||one88.top^
+||one88.tv^
 ||one88.uk^
 ||one88.us^
 ||one88.vin^
@@ -3343,6 +3371,7 @@
 ||oppa888.com^
 ||oppa88888888.com^
 ||oppo96.com^
+||origin.net88.asia^
 ||outang.net^
 ||ov-game.com^
 ||ovtogame.com^
@@ -3389,6 +3418,7 @@
 ||play.hit1.co^
 ||play.hit38.club^
 ||play.hit68.net^
+||play.loc789.club^
 ||play.manclub.vin^
 ||play.nemo.vin^
 ||play.playiwin.biz^
@@ -3407,6 +3437,7 @@
 ||play.win79.vip^
 ||play.win79d.com^
 ||play.wo88.ac^
+||play.wyn88.ski^
 ||play.x8.club^
 ||play.x8vn.top^
 ||play.yo88.net^
@@ -3437,6 +3468,7 @@
 ||pog79aff.com^
 ||pogo.com^
 ||pop.h3bet.com^
+||portal.vip11.us^
 ||pro.vuigiaitri.org^
 ||prod.bwingmkt1.com^
 ||prod.bwingmkt10.com^
@@ -3688,6 +3720,7 @@
 ||static2.8live.com^
 ||static2.lucky88.com^
 ||static3.lucky88.com^
+||su789.win^
 ||sukien.fcb88.com^
 ||sum4.club^
 ||sum5.club^
@@ -3937,6 +3970,7 @@
 ||top88.uk^
 ||top88.us^
 ||top88.vn^
+||top88vn.club^
 ||top88vn.net^
 ||top9nhacai.top^
 ||topcc88.me^
@@ -3987,6 +4021,7 @@
 ||uudai88.com^
 ||uw88vnd.com^
 ||uw88vnd1.com^
+||uw88vnn1.com^
 ||uytin.8day66.com^
 ||v111w.com^
 ||v112w.com^
@@ -4052,6 +4087,7 @@
 ||vin168.com^
 ||vin68.com^
 ||vin777.work^
+||vin999.fun^
 ||vinalottery.com^
 ||vinb00.com^
 ||vinbet1001.com^
@@ -4059,6 +4095,8 @@
 ||vip.8kbet.vn^
 ||vip.dangkyrikvip.tv^
 ||vip.v99win.app^
+||vip11.club^
+||vip11.us^
 ||vip130130.com^
 ||vipbet001.org^
 ||vipbet998.com^
@@ -4320,6 +4358,7 @@
 ||widget.v9bet88.net^
 ||widget.v9jvn.com^
 ||win.8day66.com^
+||win.dbthethao.run^
 ||win.vaorikvip.com^
 ||win102.com^
 ||win365good.com^
@@ -4344,6 +4383,7 @@
 ||winbet288.com^
 ||winbet58.live^
 ||winbet58.win^
+||winbet5858.com^
 ||winbet99.co^
 ||winbet999.info^
 ||winclub.net^
@@ -4366,6 +4406,8 @@
 ||www-c54.com^
 ||www-ee88.com^
 ||wy88vn.com^
+||wyn.club^
+||wyn88.ski^
 ||x1.xo88.info^
 ||x1.xo88.win^
 ||x1798.com^
@@ -4384,6 +4426,7 @@
 ||xemtv.info^
 ||xemtv.live^
 ||xemtylecacuoc.bong99.com^
+||xeng52.com^
 ||xengtructuyen.com^
 ||xidach.8day66.com^
 ||xingtou888.com^
