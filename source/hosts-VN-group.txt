@@ -442,6 +442,8 @@
 0.0.0.0 page.widget.zalo.me
 #[zalo.ai]
 0.0.0.0 stats.lab.zalo.ai
+#[log.zalo.video]
+0.0.0.0 log.zalo.video
 #[zaloapp.com]
 0.0.0.0 centralized.zaloapp.com
 0.0.0.0 px.dmp.zaloapp.com

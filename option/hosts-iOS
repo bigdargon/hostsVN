@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Sep 2023 22:51 UTC+7
-# Version: 2309272251
-# Blocked: 19,892 domains
+# Last modified: 11 Oct 2023 22:35 UTC+7
+# Version: 2310112235
+# Blocked: 19,918 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -473,6 +473,7 @@
 0 ads.yap.yahoo.com
 0 m.yap.yahoo.com
 0 us.ads.yap.yahoo.com
+0 adtech.yahooinc.com
 0 ard.yahoo.co.jp
 0 b90.yahoo.co.jp
 0 b92.yahoo.co.jp
@@ -8796,6 +8797,7 @@
 0 logservice1.hicloud.com
 0 metrics-dra.dt.hicloud.com
 0 metrics.data.hicloud.com
+0 metrics2.data.hicloud.com
 0 cdn.yourwebbars.com
 0 yourwebbars.com
 0 cdn.cquotient.com
@@ -8851,6 +8853,7 @@
 0 px.dynamicyield.com
 0 st-eu.dynamicyield.com
 0 st.dynamicyield.com
+0 adx-os.anythinktech.com
 0 adx-sg.anythinktech.com
 0 adx.anythinktech.com
 0 anythinktech.com
@@ -10181,6 +10184,8 @@
 0 ssp.afp.ai
 0 infox.sg
 0 rb.infox.sg
+0 ad-log-upload-os.hoyoverse.com
+0 log-upload-os.hoyoverse.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -10586,6 +10591,7 @@
 0 api.widget.zalo.me
 0 page.widget.zalo.me
 0 stats.lab.zalo.ai
+0 log.zalo.video
 0 centralized.zaloapp.com
 0 px.dmp.zaloapp.com
 0 px.za.zaloapp.com
@@ -11647,6 +11653,7 @@
 0 quangcao.baovannghe.com.vn
 0 quangcao.fff.com.vn
 0 quangcao247.com.vn
+0 quangcaococcoc.vn
 0 quangcaodantri.vn
 0 r.tinmoi24.vn
 0 realclick.vn
@@ -11689,6 +11696,7 @@
 0 vipads.live
 0 vlxx.host
 0 vnadssb.com
+0 webpush.vn
 0 widget.headlines.pw
 0 www.12signup.com
 0 www.adt.com.vn
@@ -11704,7 +11712,6 @@
 0 www.vipads.live
 0 xads.joboko.com
 0 xmadsapi.joboko.com
-0 quangcaococcoc.vn
 0 360.anatic.net
 0 a.ladipage.com
 0 a.vtvdigital.vn
@@ -11863,6 +11870,8 @@
 0 logv3.metric.vn
 0 marketing.itgeek.vn
 0 matomo.quan.hoabinh.vn
+0 matomo.vietlottsms.vn
+0 mautic-learn.teky.edu.vn
 0 mautic.200lab.io
 0 mautic.teky.edu.vn
 0 mkt.hoanghamobile.com
@@ -11951,6 +11960,7 @@
 0 tracking.vht.com.vn
 0 tracking.vietbao.vn
 0 trackingapi.foody.vn
+0 trackingsea.zingplay.com
 0 trackingvn.zingplay.com
 0 trackity.tiki.vn
 0 traffic.vietnhan.co
@@ -12678,6 +12688,7 @@
 0 adserve.ams.rhythmxchange.com
 0 adserver-e7.com
 0 adserver.adultfriendfinder.com
+0 adserver.adverty.com
 0 adserver.barrapunto.com
 0 adserver.beggarspromo.com
 0 adserver.bizhat.com
@@ -12812,10 +12823,12 @@
 0 adverserve.net
 0 advert.bayarea.com
 0 advert360.com
+0 advertica-cdn2.com
 0 adverticum.com
 0 adverticum.net
 0 adverticus.de
 0 advertise.com
+0 advertise.ldplayer.net
 0 advertiseireland.com
 0 advertisementafterthought.com
 0 advertiseru.net
@@ -13691,6 +13704,7 @@
 0 bzalmaodlp.com
 0 bzwdksdngjhay.com
 0 bzwo2lmwioxa.com
+0 c.bannerflow.net
 0 c.bigmir.net
 0 c.bigmuzzytrckr.com
 0 c.cdn-server.top
@@ -13918,8 +13932,10 @@
 0 clickopop1000.com
 0 clickreport.online
 0 clicks.equantum.com
+0 clicks.eventbrite.com
 0 clicks.mods.de
 0 clickserve.cc-dt.com
+0 clicksmint.site
 0 clicksor.com
 0 clicktag.de
 0 clickthruserver.com
@@ -14037,6 +14053,7 @@
 0 copterezba.com
 0 copycarpenter.com
 0 copyrightaccesscontrols.com
+0 core.royalads.net
 0 coreidkanaka.digital
 0 coremetrics.com
 0 coretalk.co
@@ -14110,6 +14127,8 @@
 0 crispwireless.com
 0 critictruck.com
 0 crittercorupay.com
+0 crmpt.livejasmin.com
+0 crmt.livejasmin.com
 0 croakdisconnectedclaw.com
 0 croniesobli.com
 0 crosspromo.voodoo.io
@@ -14675,6 +14694,7 @@
 0 exogripper.com
 0 exomonyf.com
 0 exonymayuyu.com
+0 expdirclk.com
 0 expensepurpose.com
 0 experteerads.com
 0 expertnifg.com
@@ -14952,6 +14972,7 @@
 0 geo.digitalpoint.com
 0 geobanner.adultfriendfinder.com
 0 geovisite.com
+0 get-here-click.xyz
 0 get2m5sgstohne.com
 0 getadx.com
 0 getalinkandshare.com
@@ -15625,6 +15646,7 @@
 0 jumptap.com
 0 jungianoxamide.space
 0 junkieswudge.com
+0 junmediadirect1.com
 0 junotherome.com
 0 juratoroutsees.uno
 0 juringupstage.com
@@ -16135,6 +16157,7 @@
 0 mkkvprwskq.com
 0 mkzqqhaakt.com
 0 mlm.de
+0 mlsend.com
 0 mlvgxzenoiz.com
 0 mmaglobal.com
 0 mmccint.com
@@ -16941,6 +16964,7 @@
 0 popruexo.com
 0 popsoffer.com
 0 popub.com
+0 popunder.bid
 0 popunder.ru
 0 popupblockergold.com
 0 popupmoney.com
@@ -18200,6 +18224,7 @@
 0 toplist.pornhost.com
 0 toplistcity.com
 0 topmmorpgsites.com
+0 toponadss.com
 0 toprebates.com
 0 toprevenuecpmnetwork.com
 0 topsearcher.com
@@ -19495,7 +19520,6 @@
 0 lngtd.com
 0 log-eap-sg.coloros.com
 0 log-upload-eur.mihoyo.com
-0 log-upload-os.hoyoverse.com
 0 log-upload-os.mihoyo.com
 0 log-upload.mihoyo.com
 0 log.ajunews.com
@@ -19525,6 +19549,7 @@
 0 mads.dailymail.co.uk
 0 maper.info
 0 masasaudi.com
+0 matomo.openstreetmap.org
 0 mautic.bdev.co.th
 0 measure.admiralmarkets.com
 0 media-match.com
@@ -19801,6 +19826,7 @@
 0 truehits.in.th
 0 u-on.eu
 0 ua.indianexpress.com
+0 ubt-sin.tripcdn.com
 0 ubuyanalytics.ubuy.com
 0 uciservice.com
 0 uie.data.cbc.ca

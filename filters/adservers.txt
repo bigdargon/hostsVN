@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Sep 2023 22:51 UTC+7
-! Version: 2309272251
-! Blocked: 839 rules
+! Last modified: 11 Oct 2023 22:35 UTC+7
+! Version: 2310112235
+! Blocked: 844 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -159,6 +159,7 @@
 ||log.thanhnien.vn^
 ||log.tv.zing.vn^
 ||log.vietnamplus.vn^
+||log.zalo.video^
 ||log.zingmp3.vn^
 ||log.zingnews.com.vn^
 ||log.zingnews.vn^
@@ -662,6 +663,8 @@
 ||marketing.hub-js.com^
 ||marketing.itgeek.vn^
 ||matomo.quan.hoabinh.vn^
+||matomo.vietlottsms.vn^
+||mautic-learn.teky.edu.vn^
 ||mautic.200lab.io^
 ||mautic.teky.edu.vn^
 ||media.dabong247.com^
@@ -806,6 +809,7 @@
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||trackingapi.foody.vn^
+||trackingsea.zingplay.com^
 ||trackingvn.zingplay.com^
 ||trackity.tiki.vn^
 ||traffic.vietnhan.co^
@@ -834,6 +838,7 @@
 ||webchat.caresoft.vn^
 ||webpush.bizfly.vn^
 ||webpush.todo.vn^
+||webpush.vn^
 ||webstag.kplus.vn^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||widget.headlines.pw^

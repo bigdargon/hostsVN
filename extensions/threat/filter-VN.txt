@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 27 Sep 2023 22:54 UTC+7
-! Version: 2309272254
-! Blocked: 3,573 rules
+! Last modified: 11 Oct 2023 22:33 UTC+7
+! Version: 2310112233
+! Blocked: 3,592 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -122,6 +122,7 @@
 ||anbinh-finance.club^
 ||anzvn.net^
 ||aodaisieuvietnhi2022.weebly.com^
+||app.amazon-line.com^
 ||app.mybigc.net^
 ||app.senaobz.cc^
 ||app.zingmp3.pro^
@@ -370,11 +371,13 @@
 ||dienlanhnguyenkim.ctyvn.net^
 ||dienmayxanh-hcm.com^
 ||dienmayxanh-vn.top^
+||dienmayxanh.cloud^
 ||dienmayxanh.fun^
 ||dienmayxanh247.com^
 ||dienmayxanh24h.com^
 ||dienmayxanh24h.net^
 ||dienmayxanh268.com^
+||dienmayxanh269.com^
 ||dienmayxanhantam.com^
 ||dienmayxanhbeauty.com^
 ||dienmayxanhbeautyplus.com^
@@ -738,6 +741,7 @@
 ||hotrochatluongchuyennghieptoanquoc.click^
 ||hotrodienmayxanh.com^
 ||hotrokhachhang-garena-account.com^
+||hotromayxanh.com^
 ||hotronganhang.site^
 ||hotroonline.net^
 ||hotroruttindung.com^
@@ -882,6 +886,7 @@
 ||kingking79.com^
 ||km-digibank.com^
 ||kmnapthe.ga^
+||ksdp997.com^
 ||kstorybank.top^
 ||ktien.vn^
 ||la533.com^
@@ -1027,6 +1032,7 @@
 ||login-applecare.com^
 ||loginame.shop^
 ||long-thanh.com^
+||lookctv-vn.com^
 ||lotomomo.com^
 ||lotte.cm66llks.top^
 ||lotte333.com^
@@ -1078,6 +1084,7 @@
 ||mbbank247.top^
 ||mbbank247.xyz^
 ||mbbankl.com^
+||mbbankmn.com^
 ||mbbankn.com^
 ||mbbffn.online^
 ||mbtk-bank.com^
@@ -1634,6 +1641,7 @@
 ||pos-quettheonline.com^
 ||postindungnhanh-vn.com^
 ||postvay.com^
+||pouy99uo.com^
 ||pqrm9.com^
 ||premierebankstandard.com^
 ||promomobilsuzukijakarta.com^
@@ -1823,6 +1831,7 @@
 ||shb.com.vn-iy.info^
 ||shb.com.vn-sp.xyz^
 ||shb8-vay.com^
+||shbcredit.net^
 ||shbfina.com^
 ||shbfinan.com^
 ||shbfinanoe.com^
@@ -1850,6 +1859,7 @@
 ||shoopaean.com^
 ||shoopency.com^
 ||shoopvv.com^
+||shoosse.com^
 ||shop146.com^
 ||shop2727.com^
 ||shop3001.com^
@@ -2298,6 +2308,7 @@
 ||somnio-evolve.com^
 ||sos-icloud.com^
 ||spark123.shop^
+||spohopenm.com^
 ||spsinhlychinhhang.com^
 ||squashtalk.com^
 ||sso-hotro-taikhoan.com^
@@ -2399,6 +2410,7 @@
 ||tadcqv.com^
 ||tadmak.com^
 ||tadmv.com^
+||tafcaz.com^
 ||tafccc.com^
 ||taiappbank.info^
 ||taichinhacs.biz^
@@ -2470,6 +2482,7 @@
 ||thao88.com^
 ||thebank247.ga^
 ||thechapnganhang-24h.com^
+||thegiodidong.com.vn^
 ||thegioididong.me^
 ||thegioididong.store^
 ||thegioidienmayxanh.com^
@@ -2504,6 +2517,7 @@
 ||thuynganhang.com^
 ||thuynganhang.xyz^
 ||thuytrieukiemtien.online^
+||ticketb0x.com^
 ||tien8833.com^
 ||tienanhanh.com^
 ||tienbip.net^
@@ -2714,6 +2728,8 @@
 ||traoquatangshopee.com^
 ||traothuongxe37.com^
 ||traothuongxe7.com^
+||travelokeaaa.top^
+||travelokeaaa.vip^
 ||trian-pubgmbvng.com^
 ||trianbux.com^
 ||trianff-sukien.com^
@@ -2786,9 +2802,11 @@
 ||txclmomo.club^
 ||ucesreferre.club^
 ||ugvietnam.net^
+||uhy89mb.com^
 ||ullis-airbrush-shop.de^
 ||unlockdienthoai.zyrosite.com^
 ||upceshop.cn^
+||upmiles-vpbank.com^
 ||uudailienquan.com^
 ||uudainapthe.vn^
 ||uudainganhang.com^
@@ -3294,6 +3312,7 @@
 ||vn-tpbank.com^
 ||vn-ub.info^
 ||vn-uz.info^
+||vn-vietnam.com^
 ||vn-vongquaylol.cf^
 ||vn-vp.xyz^
 ||vn.btaynguyenfood.com^

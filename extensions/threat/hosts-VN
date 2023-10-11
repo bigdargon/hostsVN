@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 27 Sep 2023 22:54 UTC+7
-# Version: 2309272254
-# Blocked: 3,623 domains
+# Last modified: 11 Oct 2023 22:33 UTC+7
+# Version: 2310112233
+# Blocked: 3,642 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -126,6 +126,7 @@
 0.0.0.0 anbinh-finance.club
 0.0.0.0 anzvn.net
 0.0.0.0 aodaisieuvietnhi2022.weebly.com
+0.0.0.0 app.amazon-line.com
 0.0.0.0 app.mybigc.net
 0.0.0.0 app.senaobz.cc
 0.0.0.0 app.zingmp3.pro
@@ -374,11 +375,13 @@
 0.0.0.0 dienlanhnguyenkim.ctyvn.net
 0.0.0.0 dienmayxanh-hcm.com
 0.0.0.0 dienmayxanh-vn.top
+0.0.0.0 dienmayxanh.cloud
 0.0.0.0 dienmayxanh.fun
 0.0.0.0 dienmayxanh247.com
 0.0.0.0 dienmayxanh24h.com
 0.0.0.0 dienmayxanh24h.net
 0.0.0.0 dienmayxanh268.com
+0.0.0.0 dienmayxanh269.com
 0.0.0.0 dienmayxanhantam.com
 0.0.0.0 dienmayxanhbeauty.com
 0.0.0.0 dienmayxanhbeautyplus.com
@@ -742,6 +745,7 @@
 0.0.0.0 hotrochatluongchuyennghieptoanquoc.click
 0.0.0.0 hotrodienmayxanh.com
 0.0.0.0 hotrokhachhang-garena-account.com
+0.0.0.0 hotromayxanh.com
 0.0.0.0 hotronganhang.site
 0.0.0.0 hotroonline.net
 0.0.0.0 hotroruttindung.com
@@ -886,6 +890,7 @@
 0.0.0.0 kingking79.com
 0.0.0.0 km-digibank.com
 0.0.0.0 kmnapthe.ga
+0.0.0.0 ksdp997.com
 0.0.0.0 kstorybank.top
 0.0.0.0 ktien.vn
 0.0.0.0 la533.com
@@ -1031,6 +1036,7 @@
 0.0.0.0 login-applecare.com
 0.0.0.0 loginame.shop
 0.0.0.0 long-thanh.com
+0.0.0.0 lookctv-vn.com
 0.0.0.0 lotomomo.com
 0.0.0.0 lotte.cm66llks.top
 0.0.0.0 lotte333.com
@@ -1079,6 +1085,7 @@
 0.0.0.0 mbbank247.top
 0.0.0.0 mbbank247.xyz
 0.0.0.0 mbbankl.com
+0.0.0.0 mbbankmn.com
 0.0.0.0 mbbankn.com
 0.0.0.0 mbbffn.online
 0.0.0.0 mbtk-bank.com
@@ -1635,6 +1642,7 @@
 0.0.0.0 pos-quettheonline.com
 0.0.0.0 postindungnhanh-vn.com
 0.0.0.0 postvay.com
+0.0.0.0 pouy99uo.com
 0.0.0.0 pqrm9.com
 0.0.0.0 premierebankstandard.com
 0.0.0.0 promomobilsuzukijakarta.com
@@ -1824,6 +1832,7 @@
 0.0.0.0 shb.com.vn-iy.info
 0.0.0.0 shb.com.vn-sp.xyz
 0.0.0.0 shb8-vay.com
+0.0.0.0 shbcredit.net
 0.0.0.0 shbfina.com
 0.0.0.0 shbfinan.com
 0.0.0.0 shbfinanoe.com
@@ -1851,6 +1860,7 @@
 0.0.0.0 shoopaean.com
 0.0.0.0 shoopency.com
 0.0.0.0 shoopvv.com
+0.0.0.0 shoosse.com
 0.0.0.0 shop146.com
 0.0.0.0 shop2727.com
 0.0.0.0 shop3001.com
@@ -2299,6 +2309,7 @@
 0.0.0.0 somnio-evolve.com
 0.0.0.0 sos-icloud.com
 0.0.0.0 spark123.shop
+0.0.0.0 spohopenm.com
 0.0.0.0 spsinhlychinhhang.com
 0.0.0.0 squashtalk.com
 0.0.0.0 sso-hotro-taikhoan.com
@@ -2399,6 +2410,7 @@
 0.0.0.0 tadcqv.com
 0.0.0.0 tadmak.com
 0.0.0.0 tadmv.com
+0.0.0.0 tafcaz.com
 0.0.0.0 tafccc.com
 0.0.0.0 taiappbank.info
 0.0.0.0 taichinhacs.biz
@@ -2470,6 +2482,7 @@
 0.0.0.0 thao88.com
 0.0.0.0 thebank247.ga
 0.0.0.0 thechapnganhang-24h.com
+0.0.0.0 thegiodidong.com.vn
 0.0.0.0 thegioididong.me
 0.0.0.0 thegioididong.store
 0.0.0.0 thegioidienmayxanh.com
@@ -2504,6 +2517,7 @@
 0.0.0.0 thuynganhang.com
 0.0.0.0 thuynganhang.xyz
 0.0.0.0 thuytrieukiemtien.online
+0.0.0.0 ticketb0x.com
 0.0.0.0 tien8833.com
 0.0.0.0 tienanhanh.com
 0.0.0.0 tienbip.net
@@ -2714,6 +2728,8 @@
 0.0.0.0 traoquatangshopee.com
 0.0.0.0 traothuongxe37.com
 0.0.0.0 traothuongxe7.com
+0.0.0.0 travelokeaaa.top
+0.0.0.0 travelokeaaa.vip
 0.0.0.0 trian-pubgmbvng.com
 0.0.0.0 trianbux.com
 0.0.0.0 trianff-sukien.com
@@ -2786,9 +2802,11 @@
 0.0.0.0 txclmomo.club
 0.0.0.0 ucesreferre.club
 0.0.0.0 ugvietnam.net
+0.0.0.0 uhy89mb.com
 0.0.0.0 ullis-airbrush-shop.de
 0.0.0.0 unlockdienthoai.zyrosite.com
 0.0.0.0 upceshop.cn
+0.0.0.0 upmiles-vpbank.com
 0.0.0.0 uudailienquan.com
 0.0.0.0 uudainapthe.vn
 0.0.0.0 uudainganhang.com
@@ -3294,6 +3312,7 @@
 0.0.0.0 vn-tpbank.com
 0.0.0.0 vn-ub.info
 0.0.0.0 vn-uz.info
+0.0.0.0 vn-vietnam.com
 0.0.0.0 vn-vongquaylol.cf
 0.0.0.0 vn-vp.xyz
 0.0.0.0 vn.btaynguyenfood.com
