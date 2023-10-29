@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 16 Oct 2023 22:23 UTC+7
-! Version: 2310162223
-! Blocked: 3,592 rules
+! Last modified: 29 Oct 2023 22:41 UTC+7
+! Version: 2310292241
+! Blocked: 3,609 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -113,6 +113,7 @@
 ||allegro-task.shop^
 ||alovay24h.com^
 ||amazonbig.asia^
+||amazonsg.shop^
 ||amazonxk.com^
 ||amg133180.com^
 ||amg187098.com^
@@ -420,6 +421,7 @@
 ||ebanking.wiopm.com^
 ||ebankingshopee.vn^
 ||ebayshopnet.com^
+||ebeuboay.cc^
 ||ebmarketingshops.com^
 ||ebuyy.shop^
 ||edunetworkonlinevietnam.com^
@@ -884,6 +886,7 @@
 ||kimtruongphat.org^
 ||kimungvay.com^
 ||kingking79.com^
+||kkh818.com^
 ||km-digibank.com^
 ||kmnapthe.ga^
 ||ksdp997.com^
@@ -1778,6 +1781,7 @@
 ||ruttientindung-payonline.com^
 ||ruttindungpos.com^
 ||rutwdj.id^
+||rwrb55.com^
 ||s22khuyenmai.xyz^
 ||sacchaeleduk.com^
 ||sacombank.net.vn^
@@ -1857,6 +1861,7 @@
 ||shipshop99.com^
 ||shogunbovietnam.com^
 ||shoopaean.com^
+||shoopaem.com^
 ||shoopency.com^
 ||shoopvv.com^
 ||shoosse.com^
@@ -1943,6 +1948,7 @@
 ||shopee.bio^
 ||shopee.ccooppcc.online^
 ||shopee.cnddakm.com^
+||shopee.coepes.com^
 ||shopee.consulting^
 ||shopee.lienkettaikhoan.online^
 ||shopee.lienkettaikhoannhanquatang.online^
@@ -2295,6 +2301,7 @@
 ||smtbvn.com^
 ||snapdeal26.com^
 ||snapdeal33.com^
+||sodj88.com^
 ||sodo02.com^
 ||sodo100.com^
 ||sodo12.com^
@@ -2306,6 +2313,7 @@
 ||softwarefpt.com^
 ||soicauviet.com^
 ||somnio-evolve.com^
+||sopper68.com^
 ||sos-icloud.com^
 ||spark123.shop^
 ||spohopenm.com^
@@ -2475,6 +2483,7 @@
 ||tetlienquan2023.website^
 ||tetquatang.vn^
 ||tfi1233.com^
+||tfi6678.com^
 ||thang365g.com^
 ||thanhphomomo.com^
 ||thanhtoanlienquan.com^
@@ -2730,6 +2739,7 @@
 ||traothuongxe7.com^
 ||travelokeaaa.top^
 ||travelokeaaa.vip^
+||travelokeaaa.xyz^
 ||trian-pubgmbvng.com^
 ||trianbux.com^
 ||trianff-sukien.com^
@@ -3067,6 +3077,13 @@
 ||viet69.uk^
 ||viet69xlxx004.ga^
 ||vietacomputer.com^
+||vietcapital-vay.com^
+||vietcapital-vn.top^
+||vietcapital-vn.vip^
+||vietcapital.cyou^
+||vietcapital.vip^
+||vietcapitalc.top^
+||vietcapitalv.cc^
 ||vietciombank.com^
 ||vietcoimbank.com^
 ||vietcom-credit.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 16 Oct 2023 22:23 UTC+7
-! Version: 2310162223
-! Blocked: 160,436 rules
+! Last modified: 29 Oct 2023 22:41 UTC+7
+! Version: 2310292241
+! Blocked: 160,441 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -141250,6 +141250,7 @@
 ||shb11.com^
 ||shb2288.com^
 ||shb2288.net^
+||shb3939.vn^
 ||shb44.com^
 ||shbet.app^
 ||shbet.com^
@@ -146539,7 +146540,11 @@
 ||uw88vnd.com^
 ||uw88vnd1.com^
 ||uw88vnd4.com^
+||uw88vnn.com^
 ||uw88vnn1.com^
+||uw88vnn2.com^
+||uw88vnn3.com^
+||uw88vnn4.com^
 ||uwbpq.win^
 ||uwe27.org^
 ||uwhwimn.xyz^

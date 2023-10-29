@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 16 Oct 2023 22:23 UTC+7
-# Version: 2310162223
-# Blocked: 3,642 domains
+# Last modified: 29 Oct 2023 22:41 UTC+7
+# Version: 2310292241
+# Blocked: 3,659 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -117,6 +117,7 @@
 0.0.0.0 allegro-task.shop
 0.0.0.0 alovay24h.com
 0.0.0.0 amazonbig.asia
+0.0.0.0 amazonsg.shop
 0.0.0.0 amazonxk.com
 0.0.0.0 amg133180.com
 0.0.0.0 amg187098.com
@@ -424,6 +425,7 @@
 0.0.0.0 ebanking.wiopm.com
 0.0.0.0 ebankingshopee.vn
 0.0.0.0 ebayshopnet.com
+0.0.0.0 ebeuboay.cc
 0.0.0.0 ebmarketingshops.com
 0.0.0.0 ebuyy.shop
 0.0.0.0 edunetworkonlinevietnam.com
@@ -888,6 +890,7 @@
 0.0.0.0 kimtruongphat.org
 0.0.0.0 kimungvay.com
 0.0.0.0 kingking79.com
+0.0.0.0 kkh818.com
 0.0.0.0 km-digibank.com
 0.0.0.0 kmnapthe.ga
 0.0.0.0 ksdp997.com
@@ -1779,6 +1782,7 @@
 0.0.0.0 ruttientindung-payonline.com
 0.0.0.0 ruttindungpos.com
 0.0.0.0 rutwdj.id
+0.0.0.0 rwrb55.com
 0.0.0.0 s22khuyenmai.xyz
 0.0.0.0 sacchaeleduk.com
 0.0.0.0 sacombank.net.vn
@@ -1858,6 +1862,7 @@
 0.0.0.0 shipshop99.com
 0.0.0.0 shogunbovietnam.com
 0.0.0.0 shoopaean.com
+0.0.0.0 shoopaem.com
 0.0.0.0 shoopency.com
 0.0.0.0 shoopvv.com
 0.0.0.0 shoosse.com
@@ -1944,6 +1949,7 @@
 0.0.0.0 shopee.bio
 0.0.0.0 shopee.ccooppcc.online
 0.0.0.0 shopee.cnddakm.com
+0.0.0.0 shopee.coepes.com
 0.0.0.0 shopee.consulting
 0.0.0.0 shopee.lienkettaikhoan.online
 0.0.0.0 shopee.lienkettaikhoannhanquatang.online
@@ -2296,6 +2302,7 @@
 0.0.0.0 smtbvn.com
 0.0.0.0 snapdeal26.com
 0.0.0.0 snapdeal33.com
+0.0.0.0 sodj88.com
 0.0.0.0 sodo02.com
 0.0.0.0 sodo100.com
 0.0.0.0 sodo12.com
@@ -2307,6 +2314,7 @@
 0.0.0.0 softwarefpt.com
 0.0.0.0 soicauviet.com
 0.0.0.0 somnio-evolve.com
+0.0.0.0 sopper68.com
 0.0.0.0 sos-icloud.com
 0.0.0.0 spark123.shop
 0.0.0.0 spohopenm.com
@@ -2475,6 +2483,7 @@
 0.0.0.0 tetlienquan2023.website
 0.0.0.0 tetquatang.vn
 0.0.0.0 tfi1233.com
+0.0.0.0 tfi6678.com
 0.0.0.0 thang365g.com
 0.0.0.0 thanhphomomo.com
 0.0.0.0 thanhtoanlienquan.com
@@ -2730,6 +2739,7 @@
 0.0.0.0 traothuongxe7.com
 0.0.0.0 travelokeaaa.top
 0.0.0.0 travelokeaaa.vip
+0.0.0.0 travelokeaaa.xyz
 0.0.0.0 trian-pubgmbvng.com
 0.0.0.0 trianbux.com
 0.0.0.0 trianff-sukien.com
@@ -3067,6 +3077,13 @@
 0.0.0.0 viet69.uk
 0.0.0.0 viet69xlxx004.ga
 0.0.0.0 vietacomputer.com
+0.0.0.0 vietcapital-vay.com
+0.0.0.0 vietcapital-vn.top
+0.0.0.0 vietcapital-vn.vip
+0.0.0.0 vietcapital.cyou
+0.0.0.0 vietcapital.vip
+0.0.0.0 vietcapitalc.top
+0.0.0.0 vietcapitalv.cc
 0.0.0.0 vietciombank.com
 0.0.0.0 vietcoimbank.com
 0.0.0.0 vietcom-credit.com

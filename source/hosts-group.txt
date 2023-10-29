@@ -11515,3 +11515,17 @@
 #[hoyoverse.com]
 0.0.0.0 ad-log-upload-os.hoyoverse.com
 0.0.0.0 log-upload-os.hoyoverse.com
+#[ad-nex.com]
+0.0.0.0 ad-nex.com
+0.0.0.0 img.ad-nex.com
+#[pemsrv.com]
+0.0.0.0 pemsrv.com
+0.0.0.0 a.pemsrv.com
+0.0.0.0 s.pemsrv.com
+#[aaacompany.net]
+0.0.0.0 aaacompany.net
+0.0.0.0 srv1.aaacompany.net
+#[assistads.net]
+0.0.0.0 assistads.net
+0.0.0.0 adserver.assistads.net
+0.0.0.0 media.assistads.net
