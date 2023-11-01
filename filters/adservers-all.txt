@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 29 Oct 2023 22:40 UTC+7
-! Version: 2310292240
-! Blocked: 10,508 rules
+! Last modified: 01 Nov 2023 16:06 UTC+7
+! Version: 2311011606
+! Blocked: 10,509 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -553,6 +553,7 @@
 ||digi.vinut.com.vn^
 ||dt.vnecdn.com^
 ||duamilsyr.com^
+||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||elink.nhanlucnganhluat.vn^
 ||ema.hostvn.net^
 ||event.filum.ai^
