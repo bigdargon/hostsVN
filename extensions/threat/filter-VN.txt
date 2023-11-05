@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 29 Oct 2023 22:41 UTC+7
-! Version: 2310292241
-! Blocked: 3,609 rules
+! Last modified: 05 Nov 2023 22:45 UTC+7
+! Version: 2311052245
+! Blocked: 3,616 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -308,6 +308,7 @@
 ||crestfidubank.com^
 ||cryptominexchange.com^
 ||cryptooexchange.xyz^
+||cskh-dienmay-xanh.com^
 ||cskh-dienmayxanhvn.com^
 ||cskhdienmayxanh.com^
 ||cskhdienmayxanhvn.com^
@@ -358,6 +359,7 @@
 ||dhlexpress-vietnam.com.vn^
 ||dhlvietnam-express.vn^
 ||dichvu-chuyentien24h.000webhostapp.com^
+||dichvu-dien-mayxanh.com^
 ||dichvuchuyentien-ind.weebly.com^
 ||dichvucongbaohiemxahoi.com^
 ||dichvudaohantindung.com^
@@ -369,6 +371,7 @@
 ||dichvuvietnam.pw^
 ||didongviet.store^
 ||dien-may-xanh.net^
+||dienlanhdienmayxanh.com^
 ||dienlanhnguyenkim.ctyvn.net^
 ||dienmayxanh-hcm.com^
 ||dienmayxanh-vn.top^
@@ -1080,6 +1083,7 @@
 ||mastercard-quetthetindung247.com^
 ||mavietnam.xyz^
 ||mayanpuzzle.com^
+||mayxanhsg.com^
 ||mbankingvn.com^
 ||mbbank-vn.com^
 ||mbbank.net.cn^
@@ -1782,6 +1786,7 @@
 ||ruttindungpos.com^
 ||rutwdj.id^
 ||rwrb55.com^
+||rwrb66.com^
 ||s22khuyenmai.xyz^
 ||sacchaeleduk.com^
 ||sacombank.net.vn^
@@ -2065,6 +2070,7 @@
 ||shopeo.cc^
 ||shopepvip.com^
 ||shopeskolo.com^
+||shopetankhv.com^
 ||shopfamilyyx.com^
 ||shopfe1425.com^
 ||shopfo4.com^
@@ -3081,6 +3087,7 @@
 ||vietcapital-vn.top^
 ||vietcapital-vn.vip^
 ||vietcapital.cyou^
+||vietcapital.online^
 ||vietcapital.vip^
 ||vietcapitalc.top^
 ||vietcapitalv.cc^

@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 29 Oct 2023 22:41 UTC+7
-# Version: 2310292241
-# Blocked: 3,959 domains
+# Last modified: 05 Nov 2023 22:45 UTC+7
+# Version: 2311052245
+# Blocked: 3,966 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -395,6 +395,7 @@
 0.0.0.0 crestfidubank.com
 0.0.0.0 cryptominexchange.com
 0.0.0.0 cryptooexchange.xyz
+0.0.0.0 cskh-dienmay-xanh.com
 0.0.0.0 cskh-dienmayxanhvn.com
 0.0.0.0 cskhdienmayxanh.com
 0.0.0.0 cskhdienmayxanhvn.com
@@ -453,6 +454,7 @@
 0.0.0.0 dhlexpress-vietnam.com.vn
 0.0.0.0 dhlvietnam-express.vn
 0.0.0.0 dichvu-chuyentien24h.000webhostapp.com
+0.0.0.0 dichvu-dien-mayxanh.com
 0.0.0.0 dichvuchuyentien-ind.weebly.com
 0.0.0.0 dichvucongbaohiemxahoi.com
 0.0.0.0 dichvudaohantindung.com
@@ -464,6 +466,7 @@
 0.0.0.0 dichvuvietnam.pw
 0.0.0.0 didongviet.store
 0.0.0.0 dien-may-xanh.net
+0.0.0.0 dienlanhdienmayxanh.com
 0.0.0.0 dienlanhnguyenkim.ctyvn.net
 0.0.0.0 dienmayxanh-hcm.com
 0.0.0.0 dienmayxanh-vn.top
@@ -1254,6 +1257,7 @@
 0.0.0.0 mastercard-quetthetindung247.com
 0.0.0.0 mavietnam.xyz
 0.0.0.0 mayanpuzzle.com
+0.0.0.0 mayxanhsg.com
 0.0.0.0 mayyadc.cfd
 0.0.0.0 mbankingvn.com
 0.0.0.0 mbbank-vn.com
@@ -2018,6 +2022,7 @@
 0.0.0.0 ruttindungpos.com
 0.0.0.0 rutwdj.id
 0.0.0.0 rwrb55.com
+0.0.0.0 rwrb66.com
 0.0.0.0 s22khuyenmai.xyz
 0.0.0.0 sa.unixpop.xyz
 0.0.0.0 sacchaeleduk.com
@@ -2310,6 +2315,7 @@
 0.0.0.0 shopeo.cc
 0.0.0.0 shopepvip.com
 0.0.0.0 shopeskolo.com
+0.0.0.0 shopetankhv.com
 0.0.0.0 shopfamilyyx.com
 0.0.0.0 shopfe1425.com
 0.0.0.0 shopfo4.com
@@ -3354,6 +3360,7 @@
 0.0.0.0 vietcapital-vn.top
 0.0.0.0 vietcapital-vn.vip
 0.0.0.0 vietcapital.cyou
+0.0.0.0 vietcapital.online
 0.0.0.0 vietcapital.vip
 0.0.0.0 vietcapitalc.top
 0.0.0.0 vietcapitalv.cc
