@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 05 Nov 2023 22:45 UTC+7
-# Version: 2311052245
-# Blocked: 3,666 domains
+# Last modified: 08 Nov 2023 14:38 UTC+7
+# Version: 2311081438
+# Blocked: 3,674 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -183,6 +183,7 @@
 0.0.0.0 bidvsmartbanking2.ihappy.info
 0.0.0.0 biettainhimua2.wixsite.com
 0.0.0.0 biettaitihonvietnam2021.weebly.com
+0.0.0.0 bigc.net.vn
 0.0.0.0 bilinkexchang.com
 0.0.0.0 binh-chonthang7.weebly.com
 0.0.0.0 binhchon-gionghatvietnhi-2022.weebly.com
@@ -458,6 +459,7 @@
 0.0.0.0 face-book.co
 0.0.0.0 facebookk.life
 0.0.0.0 facebookvni.com
+0.0.0.0 faecbooks.com
 0.0.0.0 fb88viet.com
 0.0.0.0 fbviet88.com
 0.0.0.0 fcccredit.com
@@ -762,9 +764,11 @@
 0.0.0.0 hotrovaytaichinhsg.com
 0.0.0.0 hotrovaytinchapshinhan.xyz
 0.0.0.0 hotrovaytinchapvpbank.com
+0.0.0.0 hotrovayvoneximbak.com
 0.0.0.0 hotroviet999.com
 0.0.0.0 hpggroup.net
 0.0.0.0 hpjr.shop
+0.0.0.0 hpy88yu.com
 0.0.0.0 hrbgw.shop
 0.0.0.0 hs38ma.cyou
 0.0.0.0 https-apple.com
@@ -1306,6 +1310,7 @@
 0.0.0.0 mylotte.shop
 0.0.0.0 myshopee13.com
 0.0.0.0 myshopee7.vip
+0.0.0.0 nang-han-muc-vip-vpbank.com
 0.0.0.0 nanghanmuc-thetindung.com
 0.0.0.0 nanghanmuc-tindungvn.com
 0.0.0.0 nanghanmuc-vp.online
@@ -1489,6 +1494,7 @@
 0.0.0.0 new-vietcombank.com
 0.0.0.0 new-vietcombank.info
 0.0.0.0 new-vietcombank.net
+0.0.0.0 new24h.pro
 0.0.0.0 newlazada.com
 0.0.0.0 newshopee.com
 0.0.0.0 nexpay-ruttientindung.com
@@ -1871,6 +1877,7 @@
 0.0.0.0 shoopency.com
 0.0.0.0 shoopvv.com
 0.0.0.0 shoosse.com
+0.0.0.0 shop-ama-zon.net
 0.0.0.0 shop146.com
 0.0.0.0 shop2727.com
 0.0.0.0 shop3001.com
@@ -2507,6 +2514,7 @@
 0.0.0.0 thetindung-online.com
 0.0.0.0 thevanghanhphuc.xyz
 0.0.0.0 thevayhub.com
+0.0.0.0 thevip-khcn-vpb.com
 0.0.0.0 thichanhmoney.store
 0.0.0.0 thietbidiennang.online
 0.0.0.0 thirdcitybank.com

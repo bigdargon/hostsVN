@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Nov 2023 22:45 UTC+7
-! Version: 2311052245
-! Blocked: 3,913 rules
+! Last modified: 08 Nov 2023 14:38 UTC+7
+! Version: 2311081438
+! Blocked: 3,921 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -238,6 +238,7 @@
 ||bidvsmartbanking2.ihappy.info^
 ||biettainhimua2.wixsite.com^
 ||biettaitihonvietnam2021.weebly.com^
+||bigc.net.vn^
 ||bilinkexchang.com^
 ||binh-chonthang7.weebly.com^
 ||binhchon-gionghatvietnhi-2022.weebly.com^
@@ -561,6 +562,7 @@
 ||face-book.co^
 ||facebookk.life^
 ||facebookvni.com^
+||faecbooks.com^
 ||fairu-blog.com^
 ||fairu-blog.xyz^
 ||fairu-cdn.com^
@@ -907,9 +909,11 @@
 ||hotrovaytaichinhsg.com^
 ||hotrovaytinchapshinhan.xyz^
 ||hotrovaytinchapvpbank.com^
+||hotrovayvoneximbak.com^
 ||hotroviet999.com^
 ||hpggroup.net^
 ||hpjr.shop^
+||hpy88yu.com^
 ||hrbgw.shop^
 ||hs38ma.cyou^
 ||hsdps.cc^
@@ -1498,6 +1502,7 @@
 ||myshopee7.vip^
 ||mysp.ac^
 ||nalhajarm.cfd^
+||nang-han-muc-vip-vpbank.com^
 ||nanghanmuc-thetindung.com^
 ||nanghanmuc-tindungvn.com^
 ||nanghanmuc-vp.online^
@@ -1682,6 +1687,7 @@
 ||new-vietcombank.com^
 ||new-vietcombank.info^
 ||new-vietcombank.net^
+||new24h.pro^
 ||newlazada.com^
 ||newshopee.com^
 ||nexpay-ruttientindung.com^
@@ -2114,6 +2120,7 @@
 ||shoopency.com^
 ||shoopvv.com^
 ||shoosse.com^
+||shop-ama-zon.net^
 ||shop146.com^
 ||shop2727.com^
 ||shop3001.com^
@@ -2762,6 +2769,7 @@
 ||thetindung-online.com^
 ||thevanghanhphuc.xyz^
 ||thevayhub.com^
+||thevip-khcn-vpb.com^
 ||theyt786ku.cfd^
 ||thichanhmoney.store^
 ||thietbidiennang.online^
