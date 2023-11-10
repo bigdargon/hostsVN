@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 08 Nov 2023 14:38 UTC+7
-! Version: 2311081438
-! Blocked: 4,511 rules
+! Last modified: 10 Nov 2023 10:57 UTC+7
+! Version: 2311101057
+! Blocked: 4,516 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -130,6 +130,7 @@
 ||2826.bet^
 ||29999y.com^
 ||2x3x.com^
+||30winvn.com^
 ||331725.com^
 ||331729.com^
 ||333.vip^
@@ -1381,6 +1382,7 @@
 ||hi88vip7.com^
 ||hi88vip8.com^
 ||hiephoilangnghevietnam.com^
+||hipoker123.com^
 ||hit1.club^
 ||hit1.co^
 ||hit21.club^
@@ -2959,6 +2961,8 @@
 ||kufun.site^
 ||kufun.win^
 ||kuwin.bet^
+||landpage.hipoker123.com^
+||landpage.tienlen2022.com^
 ||langvuichoi.net^
 ||ld99.club^
 ||leto58.xyz^
@@ -3939,6 +3943,7 @@
 ||thuongkingfun.biz^
 ||thvwbet.com^
 ||tienlen.8day66.com^
+||tienlen2022.com^
 ||tienve.thethaofb88.com^
 ||tin.11bet.net^
 ||tin010.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 08 Nov 2023 14:37 UTC+7
-! Version: 2311081437
-! Blocked: 10,513 rules
+! Last modified: 10 Nov 2023 10:57 UTC+7
+! Version: 2311101057
+! Blocked: 10,512 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -245,6 +245,7 @@
 ||quangcao-*.epicdn.me^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
+||realclick.vn^
 ||rec.aiservice.vn^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
@@ -706,7 +707,6 @@
 ||quangcaococcoc.vn^
 ||quangcaodantri.vn^
 ||r.tinmoi24.vn^
-||realclick.vn^
 ||rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes^
 ||report.mediahub.vn^
 ||report.vnay.vn^
@@ -821,7 +821,6 @@
 ||truoctran.com^
 ||ttus.tructiepbongda.me^
 ||tvc.biphim.club^
-||tvnotice.kg.garena.vn^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||upfile16.mediaphim.com^
 ||user.headlines.pw^
