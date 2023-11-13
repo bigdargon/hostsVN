@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 10 Nov 2023 10:57 UTC+7
-! Version: 2311101057
-! Blocked: 4,516 rules
+! Last modified: 13 Nov 2023 10:46 UTC+7
+! Version: 2311131046
+! Blocked: 4,518 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -283,6 +283,7 @@
 ||8559553.com^
 ||8559555.com^
 ||8559558.com^
+||85vnd.com^
 ||868vip.asia^
 ||868vip.live^
 ||868vip.mobi^
@@ -4414,6 +4415,7 @@
 ||winclub.net^
 ||wintbr.com^
 ||winvn.vip^
+||winvn13.com^
 ||winvn18.com^
 ||wm88viet.com^
 ||wm88vn.com^
