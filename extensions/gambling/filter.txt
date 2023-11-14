@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 13 Nov 2023 10:46 UTC+7
-! Version: 2311131046
-! Blocked: 160,464 rules
+! Last modified: 14 Nov 2023 10:25 UTC+7
+! Version: 2311141025
+! Blocked: 160,472 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -128485,7 +128485,11 @@
 ||lancarwd.com^
 ||landing-page.cdn-dysxb.com^
 ||landpage.hipoker123.com^
+||landpage.royalclub11.com^
+||landpage.talaphom.com^
+||landpage.talaphom123.com^
 ||landpage.tienlen2022.com^
+||landpage.xidachplay.com^
 ||lang-bo.com^
 ||langsungmenang.com^
 ||langvuichoi.net^
@@ -139796,6 +139800,7 @@
 ||royal88.live^
 ||royal888casino.net^
 ||royalace777.com^
+||royalclub11.com^
 ||royalflushsports.com^
 ||royvin.net^
 ||rp3sk.com^
@@ -143519,6 +143524,8 @@
 ||take866.com^
 ||taketheeasy.com^
 ||takvip3.com^
+||talaphom.com^
+||talaphom123.com^
 ||tangball555.com^
 ||tangkapbola.com^
 ||tangl0c.8day66.com^
@@ -153839,6 +153846,7 @@
 ||xicaizi01.com^
 ||xidach.8day66.com^
 ||xidach.club^
+||xidachplay.com^
 ||xifali.com^
 ||xihanmulian.com^
 ||xiivriainezureiluv.live^

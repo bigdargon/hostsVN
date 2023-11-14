@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 13 Nov 2023 10:46 UTC+7
-! Version: 2311131046
-! Blocked: 3,624 rules
+! Last modified: 14 Nov 2023 10:25 UTC+7
+! Version: 2311141025
+! Blocked: 3,636 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -847,6 +847,7 @@
 ||kavay.vn^
 ||kavaycash.com^
 ||kavietnam.xyz^
+||kdsf11.com^
 ||kerrysexchange.com^
 ||ketban.online^
 ||kfdg22.com^
@@ -1050,6 +1051,7 @@
 ||lotte66.com^
 ||lottefinance.vay10s.com^
 ||lottefinance6.com^
+||lottefinancev.cc^
 ||lottehanoi.com.vn^
 ||lottevn333.com^
 ||lottevn518.com^
@@ -1971,7 +1973,9 @@
 ||shopee.pics^
 ||shopee.quatang-sinhnhat.vn^
 ||shopee.sootoou.com^
+||shopee.vn-cskh.online^
 ||shopee.vn-lk.shop^
+||shopee.vntheme.com^
 ||shopee004.vip^
 ||shopee1.org^
 ||shopee103.vip^
@@ -2330,6 +2334,7 @@
 ||sos-icloud.com^
 ||spark123.shop^
 ||spohopenm.com^
+||spohopenm.org^
 ||spsinhlychinhhang.com^
 ||squashtalk.com^
 ||sso-hotro-taikhoan.com^
@@ -2420,6 +2425,7 @@
 ||suncitykhuyenmai.click^
 ||sunmomo.me^
 ||sunmomo88.com^
+||suppliersbhx.com^
 ||support-maps.live^
 ||support-nganhang.site^
 ||supporttoancau.com^
@@ -2433,6 +2439,7 @@
 ||tadmv.com^
 ||tafcaz.com^
 ||tafccc.com^
+||tah2a.com^
 ||taiappbank.info^
 ||taichinhacs.biz^
 ||taichinhagribank.com^
@@ -2581,6 +2588,7 @@
 ||tiki518.com^
 ||tiki55.com^
 ||tiki555.com^
+||tiki5688.shop^
 ||tiki588.com^
 ||tiki66.com^
 ||tiki666.com^
@@ -2751,6 +2759,7 @@
 ||traoquatangshopee.com^
 ||traothuongxe37.com^
 ||traothuongxe7.com^
+||travelokaaaa.com^
 ||travelokeaaa.top^
 ||travelokeaaa.vip^
 ||travelokeaaa.xyz^
@@ -3050,6 +3059,7 @@
 ||viashopee.com^
 ||viaviet03.mobie.in^
 ||vib-bank.com^
+||vib-tindung.click^
 ||vib-vay.com^
 ||vib.mobi^
 ||vib8-vay.com^
@@ -3352,7 +3362,9 @@
 ||vn268.com^
 ||vn277shop.com^
 ||vn335shop.com^
+||vn55866shp.com^
 ||vn6315shp.com^
+||vn66733shop.com^
 ||vn6932shp.com^
 ||vn765.com^
 ||vn88khuyenmai.life^

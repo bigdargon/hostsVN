@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 Nov 2023 10:46 UTC+7
-# Version: 2311131046
-# Blocked: 161,902 domains
+# Last modified: 14 Nov 2023 10:25 UTC+7
+# Version: 2311141025
+# Blocked: 161,910 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -128458,7 +128458,11 @@
 0.0.0.0 lancarwd.com
 0.0.0.0 landing-page.cdn-dysxb.com
 0.0.0.0 landpage.hipoker123.com
+0.0.0.0 landpage.royalclub11.com
+0.0.0.0 landpage.talaphom.com
+0.0.0.0 landpage.talaphom123.com
 0.0.0.0 landpage.tienlen2022.com
+0.0.0.0 landpage.xidachplay.com
 0.0.0.0 lang-bo.com
 0.0.0.0 langsungmenang.com
 0.0.0.0 langvuichoi.net
@@ -139756,6 +139760,7 @@
 0.0.0.0 royal88.live
 0.0.0.0 royal888casino.net
 0.0.0.0 royalace777.com
+0.0.0.0 royalclub11.com
 0.0.0.0 royalflushsports.com
 0.0.0.0 royvin.net
 0.0.0.0 rp3sk.com
@@ -143474,6 +143479,8 @@
 0.0.0.0 take866.com
 0.0.0.0 taketheeasy.com
 0.0.0.0 takvip3.com
+0.0.0.0 talaphom.com
+0.0.0.0 talaphom123.com
 0.0.0.0 tangball555.com
 0.0.0.0 tangkapbola.com
 0.0.0.0 tangl0c.8day66.com
@@ -155281,6 +155288,7 @@
 0.0.0.0 xicaizi01.com
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xidach.club
+0.0.0.0 xidachplay.com
 0.0.0.0 xifali.com
 0.0.0.0 xihanmulian.com
 0.0.0.0 xiivriainezureiluv.live
