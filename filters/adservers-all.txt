@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 10 Nov 2023 10:57 UTC+7
-! Version: 2311101057
-! Blocked: 10,512 rules
+! Last modified: 15 Nov 2023 16:27 UTC+7
+! Version: 2311151627
+! Blocked: 10,514 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1367,6 +1367,7 @@
 ||beacon.sojern.com^
 ||beacon.tingyun.com^
 ||beacon.walmart.com^
+||beacons*.gvt3.com^
 ||beap-bc.yahoo.com^
 ||beaverads.com^
 ||bebi.com^
@@ -1787,6 +1788,7 @@
 ||gssprt.jp^
 ||guardianapps.co.uk^
 ||gumgum.com^
+||gvt2.com^
 ||h-adashx.ut.taobao.com^
 ||h-adashx4ae.ut.taobao.com^
 ||h-adashx4sg.ut.taobao.com^

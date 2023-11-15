@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 14 Nov 2023 10:25 UTC+7
-! Version: 2311141025
-! Blocked: 160,472 rules
+! Last modified: 15 Nov 2023 16:27 UTC+7
+! Version: 2311151627
+! Blocked: 160,477 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -93102,6 +93102,8 @@
 ||api.v7king.com^
 ||api.vh79.com^
 ||api.vn1610.com^
+||api.vn357.bet^
+||api.vn666.bet^
 ||api.vnloto.com^
 ||api.vnq8.bet^
 ||api.vnq8.com^
@@ -148461,6 +148463,7 @@
 ||vn3388.com^
 ||vn34.com^
 ||vn3458.com^
+||vn357.bet^
 ||vn364.com^
 ||vn424.com^
 ||vn44.cm^
@@ -148525,6 +148528,7 @@
 ||vn647.com^
 ||vn649.com^
 ||vn654.com^
+||vn666.bet^
 ||vn674.com^
 ||vn67801.com^
 ||vn684.com^
@@ -151004,6 +151008,7 @@
 ||winvn.vip^
 ||winvn1.com^
 ||winvn13.com^
+||winvn15.com^
 ||winvn18.com^
 ||winvn2.com^
 ||winvn3.com^

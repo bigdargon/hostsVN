@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 14 Nov 2023 10:25 UTC+7
-! Version: 2311141025
-! Blocked: 4,526 rules
+! Last modified: 15 Nov 2023 16:27 UTC+7
+! Version: 2311151627
+! Blocked: 4,531 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -618,6 +618,8 @@
 ||api.v7king.com^
 ||api.vh79.com^
 ||api.vn1610.com^
+||api.vn357.bet^
+||api.vn666.bet^
 ||api.vnloto.com^
 ||api.vnq8.bet^
 ||api.vnq8.com^
@@ -4178,8 +4180,10 @@
 ||vn3338.com^
 ||vn3339.com^
 ||vn34.com^
+||vn357.bet^
 ||vn500.com^
 ||vn5858.com^
+||vn666.bet^
 ||vn67801.com^
 ||vn789.net^
 ||vn88.bet^
@@ -4423,6 +4427,7 @@
 ||wintbr.com^
 ||winvn.vip^
 ||winvn13.com^
+||winvn15.com^
 ||winvn18.com^
 ||wm88viet.com^
 ||wm88vn.com^

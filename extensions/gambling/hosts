@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 14 Nov 2023 10:25 UTC+7
-# Version: 2311141025
-# Blocked: 161,910 domains
+# Last modified: 15 Nov 2023 16:27 UTC+7
+# Version: 2311151627
+# Blocked: 161,918 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -93091,6 +93091,8 @@
 0.0.0.0 api.v7king.com
 0.0.0.0 api.vh79.com
 0.0.0.0 api.vn1610.com
+0.0.0.0 api.vn357.bet
+0.0.0.0 api.vn666.bet
 0.0.0.0 api.vnloto.com
 0.0.0.0 api.vnq8.bet
 0.0.0.0 api.vnq8.com
@@ -148414,6 +148416,7 @@
 0.0.0.0 vn3388.com
 0.0.0.0 vn34.com
 0.0.0.0 vn3458.com
+0.0.0.0 vn357.bet
 0.0.0.0 vn364.com
 0.0.0.0 vn424.com
 0.0.0.0 vn44.cm
@@ -148477,6 +148480,7 @@
 0.0.0.0 vn647.com
 0.0.0.0 vn649.com
 0.0.0.0 vn654.com
+0.0.0.0 vn666.bet
 0.0.0.0 vn674.com
 0.0.0.0 vn67801.com
 0.0.0.0 vn684.com
@@ -150954,6 +150958,7 @@
 0.0.0.0 winvn.vip
 0.0.0.0 winvn1.com
 0.0.0.0 winvn13.com
+0.0.0.0 winvn15.com
 0.0.0.0 winvn18.com
 0.0.0.0 winvn2.com
 0.0.0.0 winvn3.com
@@ -152983,7 +152988,9 @@
 0.0.0.0 www.vn138viet.com
 0.0.0.0 www.vn1610.com
 0.0.0.0 www.vn34.com
+0.0.0.0 www.vn357.bet
 0.0.0.0 www.vn500.com
+0.0.0.0 www.vn666.bet
 0.0.0.0 www.vn67801.com
 0.0.0.0 www.vn88.bet
 0.0.0.0 www.vn88.casino
@@ -153063,6 +153070,7 @@
 0.0.0.0 www.win999.vip
 0.0.0.0 www.winclub.net
 0.0.0.0 www.winvn13.com
+0.0.0.0 www.winvn15.com
 0.0.0.0 www.winvn18.com
 0.0.0.0 www.ww88club.com
 0.0.0.0 www.www39bet.bet
