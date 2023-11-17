@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 17 Nov 2023 15:39 UTC+7
-# Version: 2311171539
-# Blocked: 3,986 domains
+# Last modified: 17 Nov 2023 22:21 UTC+7
+# Version: 2311172221
+# Blocked: 3,987 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -942,6 +942,7 @@
 0.0.0.0 ibankingshopee.vn
 0.0.0.0 ibkbank.net
 0.0.0.0 ibmgroup.co.uk
+0.0.0.0 icloudvi.com
 0.0.0.0 id-icloud.com
 0.0.0.0 id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
 0.0.0.0 idapple.com

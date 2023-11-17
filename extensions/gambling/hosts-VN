@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 17 Nov 2023 15:39 UTC+7
-# Version: 2311171539
-# Blocked: 5,134 domains
+# Last modified: 17 Nov 2023 22:21 UTC+7
+# Version: 2311172221
+# Blocked: 5,140 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -130,6 +130,7 @@
 0.0.0.0 228kbet.com
 0.0.0.0 22ee88.com
 0.0.0.0 22zalo.com
+0.0.0.0 23winvn.com
 0.0.0.0 2826.bet
 0.0.0.0 29999y.com
 0.0.0.0 2x3x.com
@@ -880,6 +881,7 @@
 0.0.0.0 cjofg.com
 0.0.0.0 click.mibet.com
 0.0.0.0 click.mibet88.com
+0.0.0.0 club2win.com
 0.0.0.0 clubdanhbai.com
 0.0.0.0 clubk8.fun
 0.0.0.0 clubk8fun.com
@@ -2961,9 +2963,11 @@
 0.0.0.0 kufun.win
 0.0.0.0 kuwin.bet
 0.0.0.0 landpage.caygame2023.com
+0.0.0.0 landpage.club2win.com
 0.0.0.0 landpage.hipoker123.com
 0.0.0.0 landpage.megawin99x.com
 0.0.0.0 landpage.royalclub11.com
+0.0.0.0 landpage.taixiugame777.com
 0.0.0.0 landpage.talaphom.com
 0.0.0.0 landpage.talaphom123.com
 0.0.0.0 landpage.tienlen2022.com
@@ -3877,6 +3881,7 @@
 0.0.0.0 taiv8.top
 0.0.0.0 taiwin79.win
 0.0.0.0 taix1.club
+0.0.0.0 taixiugame777.com
 0.0.0.0 taixiusunwin.games
 0.0.0.0 talaphom.com
 0.0.0.0 talaphom123.com
@@ -4462,6 +4467,7 @@
 0.0.0.0 www.2277789.com
 0.0.0.0 www.228kbet.com
 0.0.0.0 www.22zalo.com
+0.0.0.0 www.23winvn.com
 0.0.0.0 www.2826.bet
 0.0.0.0 www.30winvn.com
 0.0.0.0 www.331725.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 17 Nov 2023 15:39 UTC+7
-! Version: 2311171539
-! Blocked: 4,542 rules
+! Last modified: 17 Nov 2023 22:21 UTC+7
+! Version: 2311172221
+! Blocked: 4,547 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -127,6 +127,7 @@
 ||228kbet.com^
 ||22ee88.com^
 ||22zalo.com^
+||23winvn.com^
 ||2826.bet^
 ||29999y.com^
 ||2x3x.com^
@@ -885,6 +886,7 @@
 ||cjofg.com^
 ||click.mibet.com^
 ||click.mibet88.com^
+||club2win.com^
 ||clubdanhbai.com^
 ||clubk8.fun^
 ||clubk8fun.com^
@@ -2970,9 +2972,11 @@
 ||kufun.win^
 ||kuwin.bet^
 ||landpage.caygame2023.com^
+||landpage.club2win.com^
 ||landpage.hipoker123.com^
 ||landpage.megawin99x.com^
 ||landpage.royalclub11.com^
+||landpage.taixiugame777.com^
 ||landpage.talaphom.com^
 ||landpage.talaphom123.com^
 ||landpage.tienlen2022.com^
@@ -3895,6 +3899,7 @@
 ||taiv8.top^
 ||taiwin79.win^
 ||taix1.club^
+||taixiugame777.com^
 ||taixiusunwin.games^
 ||talaphom.com^
 ||talaphom123.com^
