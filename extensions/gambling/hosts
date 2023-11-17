@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 15 Nov 2023 16:27 UTC+7
-# Version: 2311151627
-# Blocked: 161,918 domains
+# Last modified: 17 Nov 2023 15:39 UTC+7
+# Version: 2311171539
+# Blocked: 161,946 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12741,6 +12741,7 @@
 0.0.0.0 16673.org
 0.0.0.0 166730.com
 0.0.0.0 166740.com
+0.0.0.0 166756.com
 0.0.0.0 166772.com
 0.0.0.0 16678.wang
 0.0.0.0 1667934.com
@@ -32158,6 +32159,7 @@
 0.0.0.0 331352.com
 0.0.0.0 33136.org
 0.0.0.0 331362.com
+0.0.0.0 331369.com
 0.0.0.0 33137.org
 0.0.0.0 331373.com
 0.0.0.0 331379.com
@@ -32233,6 +32235,7 @@
 0.0.0.0 331729.com
 0.0.0.0 33172s.com
 0.0.0.0 33173.org
+0.0.0.0 331731.com
 0.0.0.0 331738.com
 0.0.0.0 331739.com
 0.0.0.0 33175.org
@@ -43352,6 +43355,7 @@
 0.0.0.0 443722.com
 0.0.0.0 443733.com
 0.0.0.0 4437413.com
+0.0.0.0 443747.com
 0.0.0.0 443750.com
 0.0.0.0 44378.org
 0.0.0.0 4437app.com
@@ -49918,6 +49922,7 @@
 0.0.0.0 550608.com
 0.0.0.0 550619.com
 0.0.0.0 5506606.com
+0.0.0.0 550716.com
 0.0.0.0 550748.com
 0.0.0.0 550885.com
 0.0.0.0 5508m.com
@@ -63899,6 +63904,7 @@
 0.0.0.0 69truonghuunguyen.com
 0.0.0.0 69tycag.com
 0.0.0.0 69v9ng.com
+0.0.0.0 69vip.pro
 0.0.0.0 69vip1.com
 0.0.0.0 69vip11.com
 0.0.0.0 69vip2.com
@@ -68705,6 +68711,7 @@
 0.0.0.0 7652n.com
 0.0.0.0 7652x.com
 0.0.0.0 76531.org
+0.0.0.0 765318.com
 0.0.0.0 765321vsdfdd.vet
 0.0.0.0 7653388.com
 0.0.0.0 76534.vip
@@ -82471,6 +82478,7 @@
 0.0.0.0 8vj74.vip
 0.0.0.0 8vna.com
 0.0.0.0 8vnd.club
+0.0.0.0 8vnd7.com
 0.0.0.0 8vnr.com
 0.0.0.0 8vns8.com
 0.0.0.0 8vv8ze.com
@@ -86974,7 +86982,14 @@
 0.0.0.0 96051.wang
 0.0.0.0 9605599.com
 0.0.0.0 960590.com
+0.0.0.0 9606.com
 0.0.0.0 96060.wang
+0.0.0.0 9606222.com
+0.0.0.0 9606333.com
+0.0.0.0 9606555.com
+0.0.0.0 9606888.com
+0.0.0.0 960696.com
+0.0.0.0 9606vn.com
 0.0.0.0 9607063.com
 0.0.0.0 9607204.com
 0.0.0.0 96083.vip
@@ -89337,6 +89352,7 @@
 0.0.0.0 99005359.com
 0.0.0.0 99007833.com
 0.0.0.0 9900dabao.com
+0.0.0.0 990103.com
 0.0.0.0 99011999.com
 0.0.0.0 9901314.com
 0.0.0.0 99016.biz
@@ -103045,6 +103061,7 @@
 0.0.0.0 cavgkkmqjl.com
 0.0.0.0 caxsq.win
 0.0.0.0 caybu.site
+0.0.0.0 caygame2023.com
 0.0.0.0 caywywsv1x.vip
 0.0.0.0 cazino.cash
 0.0.0.0 cb1668.com
@@ -114533,6 +114550,7 @@
 0.0.0.0 hb88013.com
 0.0.0.0 hb88016.com
 0.0.0.0 hb88017.com
+0.0.0.0 hb88020.com
 0.0.0.0 hb88021.com
 0.0.0.0 hb88024.com
 0.0.0.0 hb88025.com
@@ -118668,6 +118686,8 @@
 0.0.0.0 images.3138722.com
 0.0.0.0 images.388bet.vip
 0.0.0.0 images.6929183.com
+0.0.0.0 images.847830.com
+0.0.0.0 images.b141847.com
 0.0.0.0 images.b51613.com
 0.0.0.0 images.b728484.com
 0.0.0.0 images.ku6110.net
@@ -128459,7 +128479,9 @@
 0.0.0.0 lananhtk88.top
 0.0.0.0 lancarwd.com
 0.0.0.0 landing-page.cdn-dysxb.com
+0.0.0.0 landpage.caygame2023.com
 0.0.0.0 landpage.hipoker123.com
+0.0.0.0 landpage.megawin99x.com
 0.0.0.0 landpage.royalclub11.com
 0.0.0.0 landpage.talaphom.com
 0.0.0.0 landpage.talaphom123.com
@@ -131718,6 +131740,7 @@
 0.0.0.0 megaparipartners.com
 0.0.0.0 megaparipartners.net
 0.0.0.0 megaparipartners.xyz
+0.0.0.0 megawin99x.com
 0.0.0.0 megeve168.com
 0.0.0.0 megy6.com
 0.0.0.0 mei1127.com
@@ -138583,6 +138606,7 @@
 0.0.0.0 qu6298.site
 0.0.0.0 quacauvong.com
 0.0.0.0 qualityplatforms.com
+0.0.0.0 quangcaosanvip.win
 0.0.0.0 quangfgg353.com
 0.0.0.0 quanguocai.com
 0.0.0.0 quanqiu8.vip
@@ -143393,6 +143417,7 @@
 0.0.0.0 tai789.net
 0.0.0.0 tai789.vip
 0.0.0.0 tai789.win
+0.0.0.0 tai9606.com
 0.0.0.0 tai99vin.net
 0.0.0.0 taiappaog777.com
 0.0.0.0 taiappj9.com
@@ -150959,6 +150984,7 @@
 0.0.0.0 winvn1.com
 0.0.0.0 winvn13.com
 0.0.0.0 winvn15.com
+0.0.0.0 winvn17.com
 0.0.0.0 winvn18.com
 0.0.0.0 winvn2.com
 0.0.0.0 winvn3.com
@@ -151716,6 +151742,7 @@
 0.0.0.0 www.8kbet.vn
 0.0.0.0 www.8live.fun
 0.0.0.0 www.8vnd.club
+0.0.0.0 www.8vnd7.com
 0.0.0.0 www.8x055.com
 0.0.0.0 www.8xbet.fun
 0.0.0.0 www.8xbet.tv
@@ -153071,6 +153098,7 @@
 0.0.0.0 www.winclub.net
 0.0.0.0 www.winvn13.com
 0.0.0.0 www.winvn15.com
+0.0.0.0 www.winvn17.com
 0.0.0.0 www.winvn18.com
 0.0.0.0 www.ww88club.com
 0.0.0.0 www.www39bet.bet
