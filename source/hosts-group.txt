@@ -100,6 +100,7 @@
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 undefined.fls.doubleclick.net
 #[adservice.google.*]
+0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.co.jp
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.hk

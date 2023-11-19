@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 17 Nov 2023 22:21 UTC+7
-! Version: 2311172221
-! Blocked: 3,637 rules
+! Last modified: 19 Nov 2023 22:40 UTC+7
+! Version: 2311192240
+! Blocked: 3,646 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -210,6 +210,7 @@
 ||bsanvietnam.online^
 ||bschuyenkhoamat.biz^
 ||buontien247.fun^
+||businesseventskp.top^
 ||bvietcombank.com^
 ||bxrtxfr.xyz^
 ||campxanh.info^
@@ -359,6 +360,7 @@
 ||dhl-vietnam.vn^
 ||dhlexpress-vietnam.com.vn^
 ||dhlvietnam-express.vn^
+||dich-vu-the-vvip-vpb.com^
 ||dichvu-chuyentien24h.000webhostapp.com^
 ||dichvu-dien-mayxanh.com^
 ||dichvuchuyentien-ind.weebly.com^
@@ -417,6 +419,7 @@
 ||e-bankingshopee.vn^
 ||e-sacombank.com^
 ||easyloan-money-th.com^
+||ebaayshopping.site^
 ||ebank.hlug1k.com^
 ||ebank.wmxba.com^
 ||ebanking.dnryg31.com^
@@ -633,6 +636,7 @@
 ||gionghatvietnhivietnam2022.weebly.com^
 ||gionghatvietnhll2021.weebly.com^
 ||giovangvn999.com^
+||globalsellingads.com^
 ||globalshopping.website^
 ||go888.me^
 ||go88vn.shop^
@@ -1663,6 +1667,8 @@
 ||promomobilsuzukijakarta.com^
 ||pubgvongquay-2021vng.com^
 ||pvpti222.com^
+||pwsk11.com^
+||pwsk88.com^
 ||qjc2vo.cyou^
 ||qq8788viet.com^
 ||qua-tang.vn^
@@ -3061,6 +3067,7 @@
 ||viaviet03.mobie.in^
 ||vib-bank.com^
 ||vib-tindung.click^
+||vib-tindung.online^
 ||vib-vay.com^
 ||vib.mobi^
 ||vib8-vay.com^
@@ -3084,6 +3091,7 @@
 ||vieclamfptt.one^
 ||vieclamfptt.xyz^
 ||vieclamhay1.com^
+||vieclamlazada.vn^
 ||vieclammobile2019.com^
 ||vieclamonha.online^
 ||vieclamonline247.com^
@@ -3384,6 +3392,7 @@
 ||vnpay247-ruttientindung.com^
 ||vnpaycredit-ruttientindung247.com^
 ||vnpaycreditruttientindung-247.com^
+||vnpt99.com^
 ||vnshop.today^
 ||vnshop00.com^
 ||vnshop11.com^

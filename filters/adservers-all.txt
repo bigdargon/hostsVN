@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Nov 2023 22:21 UTC+7
-! Version: 2311172221
-! Blocked: 10,514 rules
+! Last modified: 19 Nov 2023 22:40 UTC+7
+! Version: 2311192240
+! Blocked: 10,515 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -9261,6 +9261,7 @@
 ||supertop.ru^
 ||supertop100.com^
 ||superxxxfree.com^
+||suphelper.com^
 ||suppliedhopelesspredestination.com^
 ||supportivelosing.com^
 ||supremeadblocker.info^
