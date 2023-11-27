@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 19 Nov 2023 22:40 UTC+7
-# Version: 2311192240
-# Blocked: 161,956 domains
+# Last modified: 27 Nov 2023 15:24 UTC+7
+# Version: 2311271524
+# Blocked: 161,982 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8952,6 +8952,7 @@
 0.0.0.0 12betviet88.com
 0.0.0.0 12betvn.net
 0.0.0.0 12betvn88.com
+0.0.0.0 12betvnd.com
 0.0.0.0 12betweb.com
 0.0.0.0 12bida.com
 0.0.0.0 12biwin.com
@@ -10003,10 +10004,16 @@
 0.0.0.0 13873.vip
 0.0.0.0 13877.org
 0.0.0.0 1387ky.com
+0.0.0.0 1388.com
 0.0.0.0 13880.biz
 0.0.0.0 13882s.com
 0.0.0.0 13888s.com
+0.0.0.0 1388a8.com
+0.0.0.0 1388aws.com
 0.0.0.0 1388m.com
+0.0.0.0 1388web.com
+0.0.0.0 1388ymjs.com
+0.0.0.0 1388yn.com
 0.0.0.0 13892.bid
 0.0.0.0 13893.vip
 0.0.0.0 13894.org
@@ -44991,10 +44998,3 @@
 0.0.0.0 466vn.com
 0.0.0.0 467.global
 0.0.0.0 46701.vip
-0.0.0.0 46705.biz
-0.0.0.0 46705.org
-0.0.0.0 46709.cn
-0.0.0.0 4671155.com
-0.0.0.0 4671t.com
-0.0.0.0 46723.site
-0.0.0.0 4672367.com

@@ -11537,3 +11537,11 @@
 0.0.0.0 assistads.net
 0.0.0.0 adserver.assistads.net
 0.0.0.0 media.assistads.net
+#[llxads.com]
+0.0.0.0 console.llxads.com
+0.0.0.0 llxads.com
+#[scopely.io]
+0.0.0.0 adsgard.aprod.scopely.io
+0.0.0.0 collector.scopely.io
+0.0.0.0 data-sharing-consent.aprod.scopely.io
+0.0.0.0 preview-collector.scopely.io

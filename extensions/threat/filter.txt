@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 19 Nov 2023 22:40 UTC+7
-! Version: 2311192240
-! Blocked: 3,943 rules
+! Last modified: 27 Nov 2023 15:24 UTC+7
+! Version: 2311271524
+! Blocked: 3,951 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -106,6 +106,7 @@
 ||ads-tm-glb.click^
 ||adsharedwi897th.cfd^
 ||ae888vip.com^
+||aeeonmart.com^
 ||aets22.com^
 ||aets88.com^
 ||aets99.com^
@@ -140,6 +141,7 @@
 ||allpcsoftwares.info^
 ||almofmultiple.cfd^
 ||alovay24h.com^
+||ama-zmart.top^
 ||amazon.amazonptj.com^
 ||amazonbig.asia^
 ||amazonsg.shop^
@@ -451,6 +453,8 @@
 ||dhl-vietnam.vn^
 ||dhlexpress-vietnam.com.vn^
 ||dhlvietnam-express.vn^
+||dich-vu-the-ai-vpbank.com^
+||dich-vu-the-ez-vpbank.com^
 ||dich-vu-the-vvip-vpb.com^
 ||dichvu-chuyentien24h.000webhostapp.com^
 ||dichvu-dien-mayxanh.com^
@@ -2111,6 +2115,7 @@
 ||shinhanbank-khcn.com^
 ||shinhanbank-tindunghanoi.online^
 ||shinhanbank.info.vn^
+||shinhanbank.tanghanmucthang11.com.vn^
 ||shinhanbank79.com^
 ||shinhanbanker.com^
 ||shinhanbankvay24h.com.vn^
@@ -3028,6 +3033,7 @@
 ||traothuongxe37.com^
 ||traothuongxe7.com^
 ||travelokaaaa.com^
+||travelokas1.com^
 ||travelokeaaa.top^
 ||travelokeaaa.vip^
 ||travelokeaaa.xyz^
@@ -3048,6 +3054,7 @@
 ||trianthang12.com^
 ||trianvangthang12.com^
 ||trickervietnam.com^
+||trk.smartdtlink.com^
 ||tronapp.in^
 ||trumbemmomo.club^
 ||trumcltx.vip^
@@ -3642,6 +3649,7 @@
 ||vn-vongquaylol.cf^
 ||vn-vp.xyz^
 ||vn.btaynguyenfood.com^
+||vn11268shp.com^
 ||vn119shop.com^
 ||vn268.com^
 ||vn277shop.com^

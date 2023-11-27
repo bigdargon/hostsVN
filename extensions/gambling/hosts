@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 19 Nov 2023 22:40 UTC+7
-# Version: 2311192240
-# Blocked: 161,956 domains
+# Last modified: 27 Nov 2023 15:24 UTC+7
+# Version: 2311271524
+# Blocked: 161,982 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8952,6 +8952,7 @@
 0.0.0.0 12betviet88.com
 0.0.0.0 12betvn.net
 0.0.0.0 12betvn88.com
+0.0.0.0 12betvnd.com
 0.0.0.0 12betweb.com
 0.0.0.0 12bida.com
 0.0.0.0 12biwin.com
@@ -10003,10 +10004,16 @@
 0.0.0.0 13873.vip
 0.0.0.0 13877.org
 0.0.0.0 1387ky.com
+0.0.0.0 1388.com
 0.0.0.0 13880.biz
 0.0.0.0 13882s.com
 0.0.0.0 13888s.com
+0.0.0.0 1388a8.com
+0.0.0.0 1388aws.com
 0.0.0.0 1388m.com
+0.0.0.0 1388web.com
+0.0.0.0 1388ymjs.com
+0.0.0.0 1388yn.com
 0.0.0.0 13892.bid
 0.0.0.0 13893.vip
 0.0.0.0 13894.org
@@ -72838,6 +72845,7 @@
 0.0.0.0 799949.com
 0.0.0.0 79995n.com
 0.0.0.0 79998v.com
+0.0.0.0 799999.cc
 0.0.0.0 79999n.com
 0.0.0.0 79999p.com
 0.0.0.0 799rk.wang
@@ -94128,6 +94136,7 @@
 0.0.0.0 b1386.com
 0.0.0.0 b1387.com
 0.0.0.0 b13877.com
+0.0.0.0 b1388.com
 0.0.0.0 b1390142.com
 0.0.0.0 b1395.com
 0.0.0.0 b1400.com
@@ -95192,6 +95201,7 @@
 0.0.0.0 b76777.com
 0.0.0.0 b76888.com
 0.0.0.0 b76999.com
+0.0.0.0 b77.life
 0.0.0.0 b7702.com
 0.0.0.0 b7703.com
 0.0.0.0 b7704.com
@@ -102310,6 +102320,7 @@
 0.0.0.0 c1256c.com
 0.0.0.0 c1366.com
 0.0.0.0 c13877.com
+0.0.0.0 c1388.com
 0.0.0.0 c1496688.com
 0.0.0.0 c14ab.mom
 0.0.0.0 c156a.com
@@ -104954,6 +104965,7 @@
 0.0.0.0 d11588.com
 0.0.0.0 d1379.com
 0.0.0.0 d13877.com
+0.0.0.0 d1388.com
 0.0.0.0 d166.net
 0.0.0.0 d16888.vip
 0.0.0.0 d16kf.net
@@ -111341,6 +111353,7 @@
 0.0.0.0 g123vi.com
 0.0.0.0 g133426.net
 0.0.0.0 g13877.com
+0.0.0.0 g1388.com
 0.0.0.0 g1496688.com
 0.0.0.0 g1558.com
 0.0.0.0 g1666.com
@@ -128493,6 +128506,8 @@
 0.0.0.0 landpage.talaphom123.com
 0.0.0.0 landpage.tienlen2022.com
 0.0.0.0 landpage.xidachplay.com
+0.0.0.0 landpage.xocdia778.com
+0.0.0.0 landpage.xocdiawin.com
 0.0.0.0 lang-bo.com
 0.0.0.0 langsungmenang.com
 0.0.0.0 langvuichoi.net
@@ -137168,6 +137183,8 @@
 0.0.0.0 platformapivvv.com
 0.0.0.0 platformapiygh.com
 0.0.0.0 platformvbd.com
+0.0.0.0 play-googgle-com.9fiftytwo.top
+0.0.0.0 play-gooogle-com.cosmicalienslot.top
 0.0.0.0 play-wetten.com
 0.0.0.0 play.168bet.vin
 0.0.0.0 play.b52.win
@@ -151668,6 +151685,8 @@
 0.0.0.0 www.123bhh.com
 0.0.0.0 www.123win.pro
 0.0.0.0 www.12b99.com
+0.0.0.0 www.12betvnd.com
+0.0.0.0 www.1388.com
 0.0.0.0 www.157win.com
 0.0.0.0 www.168kbet.com
 0.0.0.0 www.188Betcn2.com
@@ -151725,6 +151744,7 @@
 0.0.0.0 www.789b.live
 0.0.0.0 www.78win01.com
 0.0.0.0 www.78win07.com
+0.0.0.0 www.799999.cc
 0.0.0.0 www.79lucky.com
 0.0.0.0 www.8559553.com
 0.0.0.0 www.8559555.com
@@ -151813,6 +151833,7 @@
 0.0.0.0 www.aw8vn2.com
 0.0.0.0 www.aw8vn3.com
 0.0.0.0 www.b52.win
+0.0.0.0 www.b77.life
 0.0.0.0 www.baksourat.com
 0.0.0.0 www.bcb80.com
 0.0.0.0 www.beb77.com
@@ -156271,6 +156292,8 @@
 0.0.0.0 xo88moi.com
 0.0.0.0 xobezbmm7.com
 0.0.0.0 xoc88.bet
+0.0.0.0 xocdia778.com
+0.0.0.0 xocdiawin.com
 0.0.0.0 xoi77.com
 0.0.0.0 xoi99.com
 0.0.0.0 xokss.xyz
@@ -160327,6 +160350,9 @@
 0.0.0.0 ynhjx.win
 0.0.0.0 ynk3lh.vip
 0.0.0.0 ynofm.wang
+0.0.0.0 ynpaaa.com
+0.0.0.0 ynpbbb.com
+0.0.0.0 ynpccc.com
 0.0.0.0 ynsnm.win
 0.0.0.0 ynteb.com
 0.0.0.0 ynuugn.xyz

@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 19 Nov 2023 22:40 UTC+7
-# Version: 2311192240
-# Blocked: 3,696 domains
+# Last modified: 27 Nov 2023 15:24 UTC+7
+# Version: 2311271524
+# Blocked: 3,703 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -98,6 +98,7 @@
 0.0.0.0 adkiemtien123.click
 0.0.0.0 admin-vayvonvietthanh.com
 0.0.0.0 ae888vip.com
+0.0.0.0 aeeonmart.com
 0.0.0.0 aets22.com
 0.0.0.0 aets88.com
 0.0.0.0 aets99.com
@@ -116,6 +117,7 @@
 0.0.0.0 aliexshop.vip
 0.0.0.0 allegro-task.shop
 0.0.0.0 alovay24h.com
+0.0.0.0 ama-zmart.top
 0.0.0.0 amazonbig.asia
 0.0.0.0 amazonsg.shop
 0.0.0.0 amazonxk.com
@@ -364,6 +366,8 @@
 0.0.0.0 dhl-vietnam.vn
 0.0.0.0 dhlexpress-vietnam.com.vn
 0.0.0.0 dhlvietnam-express.vn
+0.0.0.0 dich-vu-the-ai-vpbank.com
+0.0.0.0 dich-vu-the-ez-vpbank.com
 0.0.0.0 dich-vu-the-vvip-vpb.com
 0.0.0.0 dichvu-chuyentien24h.000webhostapp.com
 0.0.0.0 dichvu-dien-mayxanh.com
@@ -1868,6 +1872,7 @@
 0.0.0.0 shinhanbank-khcn.com
 0.0.0.0 shinhanbank-tindunghanoi.online
 0.0.0.0 shinhanbank.info.vn
+0.0.0.0 shinhanbank.tanghanmucthang11.com.vn
 0.0.0.0 shinhanbank79.com
 0.0.0.0 shinhanbanker.com
 0.0.0.0 shinhanbankvay24h.com.vn
@@ -2767,6 +2772,7 @@
 0.0.0.0 traothuongxe37.com
 0.0.0.0 traothuongxe7.com
 0.0.0.0 travelokaaaa.com
+0.0.0.0 travelokas1.com
 0.0.0.0 travelokeaaa.top
 0.0.0.0 travelokeaaa.vip
 0.0.0.0 travelokeaaa.xyz
@@ -3367,6 +3373,7 @@
 0.0.0.0 vn-vongquaylol.cf
 0.0.0.0 vn-vp.xyz
 0.0.0.0 vn.btaynguyenfood.com
+0.0.0.0 vn11268shp.com
 0.0.0.0 vn119shop.com
 0.0.0.0 vn268.com
 0.0.0.0 vn277shop.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 19 Nov 2023 22:40 UTC+7
-! Version: 2311192240
-! Blocked: 4,549 rules
+! Last modified: 27 Nov 2023 15:24 UTC+7
+! Version: 2311271524
+! Blocked: 4,569 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -87,8 +87,15 @@
 ||123bhh.com^
 ||123win.pro^
 ||12b99.com^
+||12betvnd.com^
 ||12fifa2018.com^
 ||130casino.com^
+||1388.com^
+||1388a8.com^
+||1388aws.com^
+||1388web.com^
+||1388ymjs.com^
+||1388yn.com^
 ||14betvnd.com^
 ||157win.com^
 ||168kbet.com^
@@ -260,6 +267,7 @@
 ||78win04.com^
 ||78win07.com^
 ||78win09.com^
+||799999.cc^
 ||79lucky.com^
 ||79luckyclub.fun^
 ||79sodo.com^
@@ -659,6 +667,7 @@
 ||awsdfs.88bet88bet.com^
 ||az888.bet^
 ||azf8bet.com^
+||b1388.com^
 ||b29.bet^
 ||b29qc.win^
 ||b52.me^
@@ -669,6 +678,7 @@
 ||b52m.club^
 ||b52vn.org^
 ||b69.city^
+||b77.life^
 ||b88ag.com^
 ||b89.bet^
 ||banca-red88.top^
@@ -801,6 +811,7 @@
 ||bwingno1.com^
 ||bwingthethao.com^
 ||c.bong99.com^
+||c1388.com^
 ||c31test.com^
 ||c54373.com^
 ||c54455.com^
@@ -939,6 +950,7 @@
 ||d1.debet.info^
 ||d1.debet.top^
 ||d1.debet.win^
+||d1388.com^
 ||d2.dabet.me^
 ||d3.dabet.me^
 ||d3.debet.info^
@@ -1251,6 +1263,7 @@
 ||funtructuyen88.com^
 ||fv88.win^
 ||fxbg7.com^
+||g1388.com^
 ||g9vip.com^
 ||ga179.com^
 ||gachoic1.com^
@@ -2983,6 +2996,8 @@
 ||landpage.talaphom123.com^
 ||landpage.tienlen2022.com^
 ||landpage.xidachplay.com^
+||landpage.xocdia778.com^
+||landpage.xocdiawin.com^
 ||langvuichoi.net^
 ||ld99.club^
 ||leto58.xyz^
@@ -4498,6 +4513,8 @@
 ||xo88.info^
 ||xo88.win^
 ||xo88moi.com^
+||xocdia778.com^
+||xocdiawin.com^
 ||xoi77.com^
 ||xoi99.com^
 ||xoso12345.com^
@@ -4518,6 +4535,9 @@
 ||y6top.com^
 ||ybbbet.com^
 ||yd88c.com^
+||ynpaaa.com^
+||ynpbbb.com^
+||ynpccc.com^
 ||yo789.fun^
 ||yo88.net^
 ||yo88.win^
