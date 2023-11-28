@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 27 Nov 2023 15:24 UTC+7
-! Version: 2311271524
-! Blocked: 160,533 rules
+! Last modified: 28 Nov 2023 10:57 UTC+7
+! Version: 2311281057
+! Blocked: 160,539 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -120287,6 +120287,7 @@
 ||ja998.com^
 ||jaajc.com^
 ||jack998.com^
+||jackpot12x.com^
 ||jackpotcitycasino.com^
 ||jackpotjunction.com^
 ||jackpotonlinegames.com^
@@ -128526,8 +128527,10 @@
 ||landpage.caygame2023.com^
 ||landpage.club2win.com^
 ||landpage.hipoker123.com^
+||landpage.jackpot12x.com^
 ||landpage.megawin99x.com^
 ||landpage.royalclub11.com^
+||landpage.slotsclub123.com^
 ||landpage.taixiugame777.com^
 ||landpage.talaphom.com^
 ||landpage.talaphom123.com^
@@ -141781,6 +141784,7 @@
 ||slots35.com^
 ||slots38.com^
 ||slots53.com^
+||slotsclub123.com^
 ||slotslights.com^
 ||slotsricos1x.com^
 ||slotum39.com^
@@ -148374,6 +148378,7 @@
 ||vmzblfq.top^
 ||vmzcz.com^
 ||vn-dangkymu88.com^
+||vn-image.vnn878.com^
 ||vn-lm.jbovietnam.com^
 ||vn.betway88vietnam.com^
 ||vn.betway88vnd.com^
@@ -151059,6 +151064,7 @@
 ||winvn1.com^
 ||winvn13.com^
 ||winvn15.com^
+||winvn16.com^
 ||winvn17.com^
 ||winvn18.com^
 ||winvn2.com^

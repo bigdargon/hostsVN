@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 27 Nov 2023 15:24 UTC+7
-! Version: 2311271524
-! Blocked: 4,569 rules
+! Last modified: 28 Nov 2023 10:57 UTC+7
+! Version: 2311281057
+! Blocked: 4,574 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1719,6 +1719,7 @@
 ||j9vn09.com^
 ||j9vn10.com^
 ||ja77.net^
+||jackpot12x.com^
 ||jb777.net^
 ||jbbbet.com^
 ||jbbodds.com^
@@ -2989,8 +2990,10 @@
 ||landpage.caygame2023.com^
 ||landpage.club2win.com^
 ||landpage.hipoker123.com^
+||landpage.jackpot12x.com^
 ||landpage.megawin99x.com^
 ||landpage.royalclub11.com^
+||landpage.slotsclub123.com^
 ||landpage.taixiugame777.com^
 ||landpage.talaphom.com^
 ||landpage.talaphom123.com^
@@ -3714,6 +3717,7 @@
 ||sky88.win^
 ||sky88vao.club^
 ||skyclub.city^
+||slotsclub123.com^
 ||sm611.com^
 ||sm66.news^
 ||smart.8live.com^
@@ -4460,6 +4464,7 @@
 ||winvn.vip^
 ||winvn13.com^
 ||winvn15.com^
+||winvn16.com^
 ||winvn17.com^
 ||winvn18.com^
 ||wm88viet.com^

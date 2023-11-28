@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 27 Nov 2023 15:24 UTC+7
-# Version: 2311271524
-# Blocked: 5,167 domains
+# Last modified: 28 Nov 2023 10:57 UTC+7
+# Version: 2311281057
+# Blocked: 5,173 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1710,6 +1710,7 @@
 0.0.0.0 j9vn09.com
 0.0.0.0 j9vn10.com
 0.0.0.0 ja77.net
+0.0.0.0 jackpot12x.com
 0.0.0.0 jb777.net
 0.0.0.0 jbbbet.com
 0.0.0.0 jbbodds.com
@@ -2980,8 +2981,10 @@
 0.0.0.0 landpage.caygame2023.com
 0.0.0.0 landpage.club2win.com
 0.0.0.0 landpage.hipoker123.com
+0.0.0.0 landpage.jackpot12x.com
 0.0.0.0 landpage.megawin99x.com
 0.0.0.0 landpage.royalclub11.com
+0.0.0.0 landpage.slotsclub123.com
 0.0.0.0 landpage.taixiugame777.com
 0.0.0.0 landpage.talaphom.com
 0.0.0.0 landpage.talaphom123.com
@@ -3696,6 +3699,7 @@
 0.0.0.0 sky88.win
 0.0.0.0 sky88vao.club
 0.0.0.0 skyclub.city
+0.0.0.0 slotsclub123.com
 0.0.0.0 sm611.com
 0.0.0.0 sm66.news
 0.0.0.0 smart.8live.com
@@ -4437,6 +4441,7 @@
 0.0.0.0 winvn.vip
 0.0.0.0 winvn13.com
 0.0.0.0 winvn15.com
+0.0.0.0 winvn16.com
 0.0.0.0 winvn17.com
 0.0.0.0 winvn18.com
 0.0.0.0 wm88viet.com
@@ -5066,6 +5071,7 @@
 0.0.0.0 www.winclub.net
 0.0.0.0 www.winvn13.com
 0.0.0.0 www.winvn15.com
+0.0.0.0 www.winvn16.com
 0.0.0.0 www.winvn17.com
 0.0.0.0 www.winvn18.com
 0.0.0.0 www.ww88club.com
