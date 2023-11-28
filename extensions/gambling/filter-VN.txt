@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 28 Nov 2023 10:57 UTC+7
-! Version: 2311281057
-! Blocked: 4,574 rules
+! Last modified: 28 Nov 2023 15:46 UTC+7
+! Version: 2311281546
+! Blocked: 4,585 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -678,6 +678,7 @@
 ||b52m.club^
 ||b52vn.org^
 ||b69.city^
+||b77.fun^
 ||b77.life^
 ||b88ag.com^
 ||b89.bet^
@@ -1733,6 +1734,7 @@
 ||jbovn.com^
 ||jdb66.vip^
 ||jiejiekan.net^
+||jili919.com^
 ||jinbo989898.com^
 ||jingbets.com^
 ||jjfungame.com^
@@ -2998,9 +3000,13 @@
 ||landpage.talaphom.com^
 ||landpage.talaphom123.com^
 ||landpage.tienlen2022.com^
+||landpage.tienlenmega.com^
+||landpage.tienlenzo.com^
+||landpage.velogame789.com^
 ||landpage.xidachplay.com^
 ||landpage.xocdia778.com^
 ||landpage.xocdiawin.com^
+||landpage.yallogame.com^
 ||langvuichoi.net^
 ||ld99.club^
 ||leto58.xyz^
@@ -3990,6 +3996,8 @@
 ||thvwbet.com^
 ||tienlen.8day66.com^
 ||tienlen2022.com^
+||tienlenmega.com^
+||tienlenzo.com^
 ||tienve.thethaofb88.com^
 ||tin.11bet.net^
 ||tin010.com^
@@ -4132,6 +4140,7 @@
 ||vb777.co^
 ||vebo.bet^
 ||vegas79.casino^
+||velogame789.com^
 ||vf003.xyz^
 ||vf234.com^
 ||vf456.com^
@@ -4217,6 +4226,7 @@
 ||vn3339.com^
 ||vn34.com^
 ||vn357.bet^
+||vn369lyds.com^
 ||vn500.com^
 ||vn5858.com^
 ||vn666.bet^
@@ -4538,6 +4548,7 @@
 ||xstp88.com^
 ||y6.casino^
 ||y6top.com^
+||yallogame.com^
 ||ybbbet.com^
 ||yd88c.com^
 ||ynpaaa.com^

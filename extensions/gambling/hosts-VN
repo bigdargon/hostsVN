@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 28 Nov 2023 10:57 UTC+7
-# Version: 2311281057
-# Blocked: 5,173 domains
+# Last modified: 28 Nov 2023 15:46 UTC+7
+# Version: 2311281546
+# Blocked: 5,187 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -674,6 +674,7 @@
 0.0.0.0 b52m.club
 0.0.0.0 b52vn.org
 0.0.0.0 b69.city
+0.0.0.0 b77.fun
 0.0.0.0 b77.life
 0.0.0.0 b88ag.com
 0.0.0.0 b89.bet
@@ -1724,6 +1725,7 @@
 0.0.0.0 jbovn.com
 0.0.0.0 jdb66.vip
 0.0.0.0 jiejiekan.net
+0.0.0.0 jili919.com
 0.0.0.0 jinbo989898.com
 0.0.0.0 jingbets.com
 0.0.0.0 jjfungame.com
@@ -2989,9 +2991,13 @@
 0.0.0.0 landpage.talaphom.com
 0.0.0.0 landpage.talaphom123.com
 0.0.0.0 landpage.tienlen2022.com
+0.0.0.0 landpage.tienlenmega.com
+0.0.0.0 landpage.tienlenzo.com
+0.0.0.0 landpage.velogame789.com
 0.0.0.0 landpage.xidachplay.com
 0.0.0.0 landpage.xocdia778.com
 0.0.0.0 landpage.xocdiawin.com
+0.0.0.0 landpage.yallogame.com
 0.0.0.0 langvuichoi.net
 0.0.0.0 ld99.club
 0.0.0.0 leto58.xyz
@@ -3972,6 +3978,8 @@
 0.0.0.0 thvwbet.com
 0.0.0.0 tienlen.8day66.com
 0.0.0.0 tienlen2022.com
+0.0.0.0 tienlenmega.com
+0.0.0.0 tienlenzo.com
 0.0.0.0 tienve.thethaofb88.com
 0.0.0.0 tin.11bet.net
 0.0.0.0 tin010.com
@@ -4113,6 +4121,7 @@
 0.0.0.0 vb777.co
 0.0.0.0 vebo.bet
 0.0.0.0 vegas79.casino
+0.0.0.0 velogame789.com
 0.0.0.0 vf003.xyz
 0.0.0.0 vf234.com
 0.0.0.0 vf456.com
@@ -4197,6 +4206,7 @@
 0.0.0.0 vn3339.com
 0.0.0.0 vn34.com
 0.0.0.0 vn357.bet
+0.0.0.0 vn369lyds.com
 0.0.0.0 vn5858.com
 0.0.0.0 vn666.bet
 0.0.0.0 vn67801.com
@@ -4599,6 +4609,7 @@
 0.0.0.0 www.aw8vn2.com
 0.0.0.0 www.aw8vn3.com
 0.0.0.0 www.b52.win
+0.0.0.0 www.b77.fun
 0.0.0.0 www.b77.life
 0.0.0.0 www.bcb80.com
 0.0.0.0 www.beb77.com
@@ -4793,6 +4804,7 @@
 0.0.0.0 www.jbovietnam.com
 0.0.0.0 www.jbovn.com
 0.0.0.0 www.jdb66.vip
+0.0.0.0 www.jili919.com
 0.0.0.0 www.jingbets.com
 0.0.0.0 www.jss77.net
 0.0.0.0 www.jun889.vip
@@ -5006,6 +5018,7 @@
 0.0.0.0 www.vn1610.com
 0.0.0.0 www.vn34.com
 0.0.0.0 www.vn357.bet
+0.0.0.0 www.vn369lyds.com
 0.0.0.0 www.vn500.com
 0.0.0.0 www.vn666.bet
 0.0.0.0 www.vn67801.com
@@ -5141,6 +5154,7 @@
 0.0.0.0 xstp88.com
 0.0.0.0 y6.casino
 0.0.0.0 y6top.com
+0.0.0.0 yallogame.com
 0.0.0.0 ybbbet.com
 0.0.0.0 yd88c.com
 0.0.0.0 ynpaaa.com
