@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 28 Nov 2023 15:46 UTC+7
-# Version: 2311281546
-# Blocked: 5,187 domains
+# Last modified: 29 Nov 2023 09:56 UTC+7
+# Version: 2311290956
+# Blocked: 5,206 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -766,6 +766,7 @@
 0.0.0.0 blogf8bet.com
 0.0.0.0 bntv.bongvip.com
 0.0.0.0 bo.b52.win
+0.0.0.0 boc8.fun
 0.0.0.0 bogcuoc.com
 0.0.0.0 bom52.club
 0.0.0.0 bong88.cam
@@ -878,11 +879,13 @@
 0.0.0.0 choibancadoithuong.com
 0.0.0.0 choigiaitri.net
 0.0.0.0 choihay.vip
+0.0.0.0 choihitclub.fun
 0.0.0.0 choihitclub.run
 0.0.0.0 choiiwin79.fun
 0.0.0.0 choilawin.net
 0.0.0.0 choingay11b.mobi
 0.0.0.0 choingay88.com
+0.0.0.0 choingayiwin.cc
 0.0.0.0 choingayiwin.top
 0.0.0.0 choingayone88.win
 0.0.0.0 choisport.com
@@ -1113,6 +1116,7 @@
 0.0.0.0 eurofun88.com
 0.0.0.0 eurok8.com
 0.0.0.0 eurowin.top
+0.0.0.0 event.xinloiduocchua.co
 0.0.0.0 ezb68.xyz
 0.0.0.0 f1.five88.com
 0.0.0.0 f1.macau.club
@@ -1231,6 +1235,7 @@
 0.0.0.0 fifak8.com
 0.0.0.0 findk8.com
 0.0.0.0 fine.bet
+0.0.0.0 fishapi.xinloiduocchua.co
 0.0.0.0 five88.biz
 0.0.0.0 five88.com
 0.0.0.0 five88.me
@@ -1342,12 +1347,14 @@
 0.0.0.0 go88b.com
 0.0.0.0 go88bet.net
 0.0.0.0 go88f.com
+0.0.0.0 go88l.top
 0.0.0.0 go88p.com
 0.0.0.0 go88r.pro
 0.0.0.0 go88s.tv
 0.0.0.0 go88vn.live
 0.0.0.0 go88vn.vip
 0.0.0.0 go88x.club
+0.0.0.0 go8vui.info
 0.0.0.0 goal123.com
 0.0.0.0 goal68.com
 0.0.0.0 goal68.net
@@ -1404,6 +1411,7 @@
 0.0.0.0 hit21.club
 0.0.0.0 hit32.club
 0.0.0.0 hit38.club
+0.0.0.0 hit38.co
 0.0.0.0 hit68.net
 0.0.0.0 hl8.daily123hl8.com
 0.0.0.0 hl8atm.com
@@ -2980,6 +2988,7 @@
 0.0.0.0 kufun.site
 0.0.0.0 kufun.win
 0.0.0.0 kuwin.bet
+0.0.0.0 lambada-tx1app.fun
 0.0.0.0 landpage.caygame2023.com
 0.0.0.0 landpage.club2win.com
 0.0.0.0 landpage.hipoker123.com
@@ -3042,6 +3051,7 @@
 0.0.0.0 loto188az.com
 0.0.0.0 loto188vi.com
 0.0.0.0 loto66.com
+0.0.0.0 lp.go8vui.info
 0.0.0.0 lp.macauclub.fun
 0.0.0.0 lp.mayclub.net
 0.0.0.0 lp.rikvip.tv
@@ -3239,6 +3249,8 @@
 0.0.0.0 mapi.ku558.net
 0.0.0.0 mapi.ku998.net
 0.0.0.0 mapi.seb121.net
+0.0.0.0 max10.pro
+0.0.0.0 max10.vin
 0.0.0.0 may88.club
 0.0.0.0 may88.com
 0.0.0.0 may88.fun
@@ -3460,9 +3472,11 @@
 0.0.0.0 play.go88.club
 0.0.0.0 play.go88.im
 0.0.0.0 play.go88.vip
+0.0.0.0 play.go88l.top
 0.0.0.0 play.go88s.tv
 0.0.0.0 play.hit1.co
 0.0.0.0 play.hit38.club
+0.0.0.0 play.hit38.co
 0.0.0.0 play.hit68.net
 0.0.0.0 play.loc789.club
 0.0.0.0 play.manclub.vin
@@ -3516,6 +3530,7 @@
 0.0.0.0 pogo.com
 0.0.0.0 pop.h3bet.com
 0.0.0.0 portal.vip11.us
+0.0.0.0 portal.xinloiduocchua.co
 0.0.0.0 pro.vuigiaitri.org
 0.0.0.0 prod.bwingmkt1.com
 0.0.0.0 prod.bwingmkt10.com
@@ -3834,6 +3849,7 @@
 0.0.0.0 t8betvip.com
 0.0.0.0 ta88.com
 0.0.0.0 tai.b52vn.fun
+0.0.0.0 tai.boc8.fun
 0.0.0.0 tai.do99.site
 0.0.0.0 tai.fa88.win
 0.0.0.0 tai.fa88vn.live
@@ -3868,6 +3884,7 @@
 0.0.0.0 taib52.club
 0.0.0.0 taib52.com
 0.0.0.0 taib52.vin
+0.0.0.0 taiboc.fun
 0.0.0.0 taibum.tv
 0.0.0.0 taichoang.fun
 0.0.0.0 taido99.net
@@ -3908,6 +3925,7 @@
 0.0.0.0 taiv8.top
 0.0.0.0 taiwin79.win
 0.0.0.0 taix1.club
+0.0.0.0 taixiu.xinloiduocchua.co
 0.0.0.0 taixiugame777.com
 0.0.0.0 taixiusunwin.games
 0.0.0.0 talaphom.com
@@ -5126,6 +5144,7 @@
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xidachplay.com
 0.0.0.0 xingtou888.com
+0.0.0.0 xinloiduocchua.co
 0.0.0.0 xkiosx.xyz
 0.0.0.0 xljs2.com
 0.0.0.0 xn--hi-ji6caa.com
