@@ -4,9 +4,10 @@ udp_whitelist=53, 1024-65535
 
 [dns]
 no-system
-doh-server=https://dns.nextdns.io
+prefer-doh3
+doh-server=https://doh3.dns1.nextdns.io, https://doh3.dns2.nextdns.io
+quic-server=quic://dns1.nextdns.io, quic://dns2.nextdns.io
 server=8.8.8.8
-server=1.1.1.1
 server=9.9.9.11
 
 [policy]

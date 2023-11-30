@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 29 Nov 2023 09:56 UTC+7
-# Version: 2311290956
-# Blocked: 162,030 domains
+# Last modified: 30 Nov 2023 14:20 UTC+7
+# Version: 2311301420
+# Blocked: 162,042 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7811,6 +7811,7 @@
 0.0.0.0 11bet999.bet
 0.0.0.0 11bet999.fun
 0.0.0.0 11bettor.com
+0.0.0.0 11betvnd.com
 0.0.0.0 11by.com
 0.0.0.0 11by.vip
 0.0.0.0 11byyl.vip
@@ -44997,4 +44998,3 @@
 0.0.0.0 466ky.com
 0.0.0.0 466vn.com
 0.0.0.0 467.global
-0.0.0.0 46701.vip

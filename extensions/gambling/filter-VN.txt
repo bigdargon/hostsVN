@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 29 Nov 2023 09:56 UTC+7
-! Version: 2311290956
-! Blocked: 4,604 rules
+! Last modified: 30 Nov 2023 14:20 UTC+7
+! Version: 2311301420
+! Blocked: 4,615 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -67,6 +67,7 @@
 ||11bet.us^
 ||11bet.vin^
 ||11bet.win^
+||11betvnd.com^
 ||11zalo.com^
 ||12388.club^
 ||12388.store^
@@ -870,6 +871,7 @@
 ||cfun68.app^
 ||cfun68.biz^
 ||chaolua.club^
+||chat.taisum2.com^
 ||chat789bet.com^
 ||chatserverv.ooooooo2.com^
 ||cheer68.com^
@@ -1121,6 +1123,7 @@
 ||eurofun88.com^
 ||eurok8.com^
 ||eurowin.top^
+||event.taisum2.com^
 ||event.xinloiduocchua.co^
 ||ezb68.xyz^
 ||f1.five88.com^
@@ -1240,6 +1243,7 @@
 ||fifak8.com^
 ||findk8.com^
 ||fine.bet^
+||fishapi.taisum2.com^
 ||fishapi.xinloiduocchua.co^
 ||five88.biz^
 ||five88.com^
@@ -3540,6 +3544,7 @@
 ||pog79aff.com^
 ||pogo.com^
 ||pop.h3bet.com^
+||portal.taisum2.com^
 ||portal.vip11.us^
 ||portal.xinloiduocchua.co^
 ||pro.vuigiaitri.org^
@@ -3887,6 +3892,7 @@
 ||tai.rikvip.tv^
 ||tai.rikvip.us^
 ||tai.samvip.bet^
+||tai.taisum2.com^
 ||tai.top88vn.net^
 ||tai.v28.club^
 ||tai.win79.pro^
@@ -3934,6 +3940,8 @@
 ||taisum.ac^
 ||taisum.co^
 ||taisum.io^
+||taisum1.club^
+||taisum2.com^
 ||taisun52.live^
 ||taisunwin.live^
 ||taitx1.club^
@@ -3943,8 +3951,11 @@
 ||taiv8.top^
 ||taiwin79.win^
 ||taix1.club^
+||taixiu.taisum2.com^
 ||taixiu.xinloiduocchua.co^
 ||taixiugame777.com^
+||taixiumd5.taisum2.com^
+||taixiumd5dg.taisum2.com^
 ||taixiusunwin.games^
 ||talaphom.com^
 ||talaphom123.com^

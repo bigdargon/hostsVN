@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 29 Nov 2023 09:56 UTC+7
-# Version: 2311290956
-# Blocked: 5,206 domains
+# Last modified: 30 Nov 2023 14:20 UTC+7
+# Version: 2311301420
+# Blocked: 5,218 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -70,6 +70,7 @@
 0.0.0.0 11bet.us
 0.0.0.0 11bet.vin
 0.0.0.0 11bet.win
+0.0.0.0 11betvnd.com
 0.0.0.0 11zalo.com
 0.0.0.0 12388.club
 0.0.0.0 12388.store
@@ -865,6 +866,7 @@
 0.0.0.0 cfun68.app
 0.0.0.0 cfun68.biz
 0.0.0.0 chaolua.club
+0.0.0.0 chat.taisum2.com
 0.0.0.0 chat789bet.com
 0.0.0.0 chatserverv.ooooooo2.com
 0.0.0.0 cheer68.com
@@ -1116,6 +1118,7 @@
 0.0.0.0 eurofun88.com
 0.0.0.0 eurok8.com
 0.0.0.0 eurowin.top
+0.0.0.0 event.taisum2.com
 0.0.0.0 event.xinloiduocchua.co
 0.0.0.0 ezb68.xyz
 0.0.0.0 f1.five88.com
@@ -1235,6 +1238,7 @@
 0.0.0.0 fifak8.com
 0.0.0.0 findk8.com
 0.0.0.0 fine.bet
+0.0.0.0 fishapi.taisum2.com
 0.0.0.0 fishapi.xinloiduocchua.co
 0.0.0.0 five88.biz
 0.0.0.0 five88.com
@@ -3529,6 +3533,7 @@
 0.0.0.0 pog79aff.com
 0.0.0.0 pogo.com
 0.0.0.0 pop.h3bet.com
+0.0.0.0 portal.taisum2.com
 0.0.0.0 portal.vip11.us
 0.0.0.0 portal.xinloiduocchua.co
 0.0.0.0 pro.vuigiaitri.org
@@ -3869,6 +3874,7 @@
 0.0.0.0 tai.rikvip.tv
 0.0.0.0 tai.rikvip.us
 0.0.0.0 tai.samvip.bet
+0.0.0.0 tai.taisum2.com
 0.0.0.0 tai.top88vn.net
 0.0.0.0 tai.v28.club
 0.0.0.0 tai.win79.pro
@@ -3916,6 +3922,8 @@
 0.0.0.0 taisum.ac
 0.0.0.0 taisum.co
 0.0.0.0 taisum.io
+0.0.0.0 taisum1.club
+0.0.0.0 taisum2.com
 0.0.0.0 taisun52.live
 0.0.0.0 taisunwin.live
 0.0.0.0 taitx1.club
@@ -3925,8 +3933,11 @@
 0.0.0.0 taiv8.top
 0.0.0.0 taiwin79.win
 0.0.0.0 taix1.club
+0.0.0.0 taixiu.taisum2.com
 0.0.0.0 taixiu.xinloiduocchua.co
 0.0.0.0 taixiugame777.com
+0.0.0.0 taixiumd5.taisum2.com
+0.0.0.0 taixiumd5dg.taisum2.com
 0.0.0.0 taixiusunwin.games
 0.0.0.0 talaphom.com
 0.0.0.0 talaphom123.com
@@ -4499,6 +4510,7 @@
 0.0.0.0 www.1126bet.com
 0.0.0.0 www.1166130.com
 0.0.0.0 www.118kbet.com
+0.0.0.0 www.11betvnd.com
 0.0.0.0 www.11zalo.com
 0.0.0.0 www.12388.store
 0.0.0.0 www.12388bet.co

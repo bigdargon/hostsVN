@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 28 Nov 2023 10:57 UTC+7
-! Version: 2311281057
-! Blocked: 10,520 rules
+! Last modified: 30 Nov 2023 14:20 UTC+7
+! Version: 2311301420
+! Blocked: 10,521 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -7755,6 +7755,7 @@
 ||openads.friendfinder.com^
 ||openads.org^
 ||openclick.com^
+||openfpcdn.io^
 ||openmarket.com^
 ||opensdeiseal.com^
 ||opensharecount.com^

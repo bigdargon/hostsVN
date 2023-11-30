@@ -1,9 +1,9 @@
 #!MANAGED-CONFIG https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge.conf interval=21600 strict=true
 [General]
 loglevel = notify
-skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
+skip-proxy = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,localhost,*.local,cative.apple.com
 doh-skip-cert-verification = true
-dns-server = 8.8.8.8, 1.1.1.1, 9.9.9.11
+dns-server = 8.8.8.8, 9.9.9.11
 allow-wifi-access = false
 
 [Replica]
