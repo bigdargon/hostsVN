@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 03 Dec 2023 20:48 UTC+7
-! Version: 2312032048
-! Blocked: 4,617 rules
+! Last modified: 04 Dec 2023 10:51 UTC+7
+! Version: 2312041051
+! Blocked: 4,619 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1326,6 +1326,8 @@
 ||gatructiep.net^
 ||gawin88.com^
 ||gaznbike.com^
+||gd55id.com^
+||gd55m.org^
 ||gdwbetvn888.com^
 ||gdwviet.com^
 ||gem1.win^

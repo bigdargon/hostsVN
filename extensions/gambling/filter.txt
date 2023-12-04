@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 03 Dec 2023 20:48 UTC+7
-! Version: 2312032048
-! Blocked: 160,590 rules
+! Last modified: 04 Dec 2023 10:51 UTC+7
+! Version: 2312041051
+! Blocked: 160,592 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -112110,6 +112110,8 @@
 ||gd5518.com^
 ||gd5544.com^
 ||gd5592.com^
+||gd55id.com^
+||gd55m.org^
 ||gd5886.com^
 ||gd6543.com^
 ||gd6658.com^

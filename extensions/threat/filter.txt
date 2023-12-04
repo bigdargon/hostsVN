@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 03 Dec 2023 20:48 UTC+7
-! Version: 2312032048
-! Blocked: 3,951 rules
+! Last modified: 04 Dec 2023 10:51 UTC+7
+! Version: 2312041051
+! Blocked: 3,953 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -127,6 +127,7 @@
 ||ahoravideo-schnellvpn.com^
 ||ahoravideo-schnellvpn.xyz^
 ||ahthegha.cfd^
+||aivaylaco.com^
 ||alibabavip.xyz^
 ||alibabavn.shop^
 ||alibabavnn.com^
@@ -811,6 +812,7 @@
 ||gzdpae.cyou^
 ||h092021u.click^
 ||h49vnk.cyou^
+||h5-go.aivaylaco.com^
 ||h5.50db8hsdoq.shop^
 ||h5.diamondwallet.online^
 ||h5.tocdovn.com^

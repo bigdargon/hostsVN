@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 03 Dec 2023 20:48 UTC+7
-# Version: 2312032048
-# Blocked: 3,703 domains
+# Last modified: 04 Dec 2023 10:51 UTC+7
+# Version: 2312041051
+# Blocked: 3,705 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -108,6 +108,7 @@
 0.0.0.0 agribanks.link
 0.0.0.0 agribanks.space
 0.0.0.0 agribanks3.asia
+0.0.0.0 aivaylaco.com
 0.0.0.0 alibabavip.xyz
 0.0.0.0 alibabavn.shop
 0.0.0.0 alibabavnn.com
@@ -670,6 +671,7 @@
 0.0.0.0 gta5moneygen.online
 0.0.0.0 gzdpae.cyou
 0.0.0.0 h49vnk.cyou
+0.0.0.0 h5-go.aivaylaco.com
 0.0.0.0 h5.50db8hsdoq.shop
 0.0.0.0 h5.diamondwallet.online
 0.0.0.0 h5.tocdovn.com
