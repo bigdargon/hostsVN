@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Dec 2023 20:48 UTC+7
-# Version: 2312032048
-# Blocked: 19,962 domains
+# Last modified: 05 Dec 2023 22:51 UTC+7
+# Version: 2312052251
+# Blocked: 19,964 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11167,16 +11167,20 @@
 0 api.piads.vn
 0 piads.vn
 0 static.piads.vn
-0 app.haraloyalty.com
-0 haraloyalty.com
-0 www.haraloyalty.com
 0 app.harafunnel.com
-0 assets.harafunnel.com
-0 harafunnel.com
-0 www.harafunnel.com
+0 app.haraloyalty.com
+0 app.harasocial.com
 0 apps.haraads.com
-0 haraads.com
-0 www.haraads.com
+0 assets.harafunnel.com
+0 combo-omni.haravan.com
+0 socialloginplus-apps.haravan.com
+0 facebookinbox-omni-onapp.haravan.com
+0 promotion.haravan.com
+0 onapp.haravan.com
+0 facebook-ads.hara.vn
+0 google-ads.hara.vn
+0 stats.hara.vn
+0 tiktok-ads.hara.vn
 0 cdn.starseed.fr
 0 log.starseed.fr
 0 starseed.fr
@@ -11487,11 +11491,6 @@
 0 cdn.aanetwork.vn
 0 imgs2.aanetwork.vn
 0 pub.aanetwork.vn
-0 combo-omni.haravan.com
-0 socialloginplus-apps.haravan.com
-0 facebookinbox-omni-onapp.haravan.com
-0 promotion.haravan.com
-0 onapp.haravan.com
 0 ads.ultraviewer.net
 0 qc.ultraviewer.net
 0 vipads.cc
@@ -19553,6 +19552,7 @@
 0 kidsghibli.com
 0 kissmetrics.com
 0 kitbit.net
+0 knotch-cdn.com
 0 largeer.com
 0 lcs.loginfra.com
 0 leadzutw.com
@@ -19744,6 +19744,7 @@
 0 smetrics.bestbuy.com
 0 smetrics.boston.com
 0 smetrics.fedex.com
+0 smetrics.foxnews.com
 0 snap.licdn.com
 0 snnd.co
 0 snowplow-pixel.tradingview.com
@@ -19923,6 +19924,7 @@
 0 www.hostg.xyz
 0 www.hypestat.com
 0 www.jsonip.com
+0 www.knotch-cdn.com
 0 www.montacarichi.it
 0 www.mousestats.com
 0 www.npttech.com
