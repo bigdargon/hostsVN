@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 05 Dec 2023 22:51 UTC+7
-# Version: 2312052251
-# Blocked: 3,705 domains
+# Last modified: 06 Dec 2023 10:27 UTC+7
+# Version: 2312061027
+# Blocked: 3,711 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -373,6 +373,7 @@
 0.0.0.0 dichvu-chuyentien24h.000webhostapp.com
 0.0.0.0 dichvu-dien-mayxanh.com
 0.0.0.0 dichvuchuyentien-ind.weebly.com
+0.0.0.0 dichvucong.tgovn.cc
 0.0.0.0 dichvucongbaohiemxahoi.com
 0.0.0.0 dichvudaohantindung.com
 0.0.0.0 dichvunhantien-eu.org
@@ -501,6 +502,7 @@
 0.0.0.0 ff-menber-garena.vn
 0.0.0.0 ff-menbershipgarena.com
 0.0.0.0 ff.member.garenae.vn
+0.0.0.0 ff.memberships-garena.id.vn
 0.0.0.0 ffgarena-membeship.com
 0.0.0.0 ffgarenavongquay.xyz
 0.0.0.0 ffmemberrship-garena.com
@@ -714,6 +716,7 @@
 0.0.0.0 hdsaisonvn.com
 0.0.0.0 hethongbank.com
 0.0.0.0 hethongbank24h.com
+0.0.0.0 hethongbhx.com
 0.0.0.0 hethonggiaodichvidientu247.com
 0.0.0.0 hethongquatang.vn
 0.0.0.0 hethongviet99.com
@@ -1059,6 +1062,7 @@
 0.0.0.0 loginame.shop
 0.0.0.0 long-thanh.com
 0.0.0.0 lookctv-vn.com
+0.0.0.0 looklazada.com
 0.0.0.0 lotomomo.com
 0.0.0.0 lotte.cm66llks.top
 0.0.0.0 lotte333.com
@@ -1653,6 +1657,7 @@
 0.0.0.0 phimhaykiemtien24h.com
 0.0.0.0 phlazada.vip
 0.0.0.0 phomuabannhadat.com
+0.0.0.0 phone.didongvietstore.com
 0.0.0.0 phpmyvpbbank.com
 0.0.0.0 phukienmaxpro.store
 0.0.0.0 pi81.shop
@@ -2636,6 +2641,7 @@
 0.0.0.0 tikishop.shop
 0.0.0.0 tikishop.top
 0.0.0.0 tikishop.vip
+0.0.0.0 tikishop.ws
 0.0.0.0 tikishop6.com
 0.0.0.0 tikishopping.shop
 0.0.0.0 tikita-kasi55.xyz

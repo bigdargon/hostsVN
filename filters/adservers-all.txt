@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Dec 2023 22:51 UTC+7
-! Version: 2312052251
-! Blocked: 10,529 rules
+! Last modified: 06 Dec 2023 10:27 UTC+7
+! Version: 2312061027
+! Blocked: 10,528 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -166,8 +166,8 @@
 ||log.vietnamplus.vn^
 ||log.zalo.video^
 ||log.zingmp3.vn^
-||log.zingnews.com.vn^
 ||log.zingnews.vn^
+||log.znews.vn^
 ||logen.vietnamplus.vn^
 ||loges.vietnamplus.vn^
 ||logfr.vietnamplus.vn^
@@ -332,8 +332,6 @@
 ||younetmedia.com^
 ||za.zapps.vn^
 ||za.zingmp3.vn^
-||za.zingnews.com.vn^
-||za.zingnews.vn^
 ||zads.me.zing.vn^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
@@ -1087,6 +1085,7 @@
 ||adsco.re^
 ||adsconex.com^
 ||adsdk.yandex.ru^
+||adserve.tv^
 ||adserve.work^
 ||adserver.bing.com^
 ||adserver.yahoo.com^

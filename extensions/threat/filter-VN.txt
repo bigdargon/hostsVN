@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 05 Dec 2023 22:51 UTC+7
-! Version: 2312052251
-! Blocked: 3,655 rules
+! Last modified: 06 Dec 2023 10:27 UTC+7
+! Version: 2312061027
+! Blocked: 3,661 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -369,6 +369,7 @@
 ||dichvu-chuyentien24h.000webhostapp.com^
 ||dichvu-dien-mayxanh.com^
 ||dichvuchuyentien-ind.weebly.com^
+||dichvucong.tgovn.cc^
 ||dichvucongbaohiemxahoi.com^
 ||dichvudaohantindung.com^
 ||dichvunhantien-eu.org^
@@ -497,6 +498,7 @@
 ||ff-menber-garena.vn^
 ||ff-menbershipgarena.com^
 ||ff.member.garenae.vn^
+||ff.memberships-garena.id.vn^
 ||ffgarena-membeship.com^
 ||ffgarenavongquay.xyz^
 ||ffmemberrship-garena.com^
@@ -710,6 +712,7 @@
 ||hdsaisonvn.com^
 ||hethongbank.com^
 ||hethongbank24h.com^
+||hethongbhx.com^
 ||hethonggiaodichvidientu247.com^
 ||hethongquatang.vn^
 ||hethongviet99.com^
@@ -1055,6 +1058,7 @@
 ||loginame.shop^
 ||long-thanh.com^
 ||lookctv-vn.com^
+||looklazada.com^
 ||lotomomo.com^
 ||lotte.cm66llks.top^
 ||lotte333.com^
@@ -1652,6 +1656,7 @@
 ||phimhaykiemtien24h.com^
 ||phlazada.vip^
 ||phomuabannhadat.com^
+||phone.didongvietstore.com^
 ||phpmyvpbbank.com^
 ||phukienmaxpro.store^
 ||pi81.shop^
@@ -2636,6 +2641,7 @@
 ||tikishop.shop^
 ||tikishop.top^
 ||tikishop.vip^
+||tikishop.ws^
 ||tikishop6.com^
 ||tikishopping.shop^
 ||tikita-kasi55.xyz^

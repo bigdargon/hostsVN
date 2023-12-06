@@ -11545,3 +11545,6 @@
 0.0.0.0 collector.scopely.io
 0.0.0.0 data-sharing-consent.aprod.scopely.io
 0.0.0.0 preview-collector.scopely.io
+#[adserve.tv]
+0.0.0.0 adserve.tv
+0.0.0.0 v.adserve.tv
