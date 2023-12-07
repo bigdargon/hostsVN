@@ -1,14 +1,15 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 06 Dec 2023 10:27 UTC+7
-! Version: 2312061027
-! Blocked: 3,959 rules
+! Last modified: 07 Dec 2023 23:27 UTC+7
+! Version: 2312072327
+! Blocked: 3,962 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
+||0fb.co^
 ||11promax.xakhohangtrungbay.site^
 ||11tiki.com^
 ||123-vay.com^
@@ -589,6 +590,7 @@
 ||fd2.hmexchangecentre.com^
 ||fe-shop.cc^
 ||fe.lwcvn.com^
+||feacbookk.com^
 ||ff-garena-membership-2021.com^
 ||ff-garena-membershipff.com^
 ||ff-garena-sukien.com^
@@ -1254,6 +1256,7 @@
 ||luuvanquang.com^
 ||lvietcombank.com^
 ||m-facebookk.com.vn^
+||m-fecabook.com^
 ||m.12luxury.com^
 ||m.1svi101.com^
 ||m.hi1222.com^

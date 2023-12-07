@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 06 Dec 2023 10:27 UTC+7
-# Version: 2312061027
-# Blocked: 3,711 domains
+# Last modified: 07 Dec 2023 23:27 UTC+7
+# Version: 2312072327
+# Blocked: 3,714 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12,6 +12,7 @@
 
 0.0.0.0 0088shop.com
 0.0.0.0 009855.com
+0.0.0.0 0fb.co
 0.0.0.0 11promax.xakhohangtrungbay.site
 0.0.0.0 11tiki.com
 0.0.0.0 123-vay.com
@@ -476,6 +477,7 @@
 0.0.0.0 fd2.hmexchangecentre.com
 0.0.0.0 fe-shop.cc
 0.0.0.0 fe.lwcvn.com
+0.0.0.0 feacbookk.com
 0.0.0.0 ff-garena-membership-2021.com
 0.0.0.0 ff-garena-membershipff.com
 0.0.0.0 ff-garena-sukien.com
@@ -1082,6 +1084,7 @@
 0.0.0.0 luuvanquang.com
 0.0.0.0 lvietcombank.com
 0.0.0.0 m-facebookk.com.vn
+0.0.0.0 m-fecabook.com
 0.0.0.0 m.12luxury.com
 0.0.0.0 m.1svi101.com
 0.0.0.0 m.hi1222.com
