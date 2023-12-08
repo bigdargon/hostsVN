@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 08 Dec 2023 16:03 UTC+7
-# Version: 2312081603
-# Blocked: 5,214 domains
+# Last modified: 08 Dec 2023 23:41 UTC+7
+# Version: 2312082341
+# Blocked: 5,215 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -377,6 +377,7 @@
 0.0.0.0 8game19.com
 0.0.0.0 8game20.com
 0.0.0.0 8icuu.com
+0.0.0.0 8jbet.vin
 0.0.0.0 8k00000.com
 0.0.0.0 8kbet.app
 0.0.0.0 8kbet.vn

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 08 Dec 2023 16:03 UTC+7
-! Version: 2312081603
-! Blocked: 4,605 rules
+! Last modified: 08 Dec 2023 23:41 UTC+7
+! Version: 2312082341
+! Blocked: 4,606 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -378,6 +378,7 @@
 ||8game19.com^
 ||8game20.com^
 ||8icuu.com^
+||8jbet.vin^
 ||8k00000.com^
 ||8kbet.app^
 ||8kbet.vn^

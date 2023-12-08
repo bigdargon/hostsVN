@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 08 Dec 2023 16:03 UTC+7
-! Version: 2312081603
-! Blocked: 3,665 rules
+! Last modified: 08 Dec 2023 23:41 UTC+7
+! Version: 2312082341
+! Blocked: 3,685 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -232,6 +232,7 @@
 ||cf222.art^
 ||cgovn.cc^
 ||chamsockhachang.com^
+||chamsockhachhangnanghanmuctindungmsb.com^
 ||chanle79.me^
 ||chanlemmo.com^
 ||chanlemomo.vin^
@@ -370,7 +371,9 @@
 ||dichvu-chuyentien24h.000webhostapp.com^
 ||dichvu-dien-mayxanh.com^
 ||dichvuchuyentien-ind.weebly.com^
+||dichvucong.hgov.cc^
 ||dichvucong.tgovn.cc^
+||dichvucong.vgovn.net^
 ||dichvucongbaohiemxahoi.com^
 ||dichvudaohantindung.com^
 ||dichvunhantien-eu.org^
@@ -737,6 +740,7 @@
 ||hocsinhthanhlich21.xyz^
 ||hoinhiepanhbg.blogspot.com^
 ||hoiquanlq.vn^
+||homecredit1.com^
 ||homevi1.tintuc-vi-vn.xyz^
 ||homevi2.tintuc-vi-vn.xyz^
 ||homevi3.tintuc-vi-vn.xyz^
@@ -763,6 +767,7 @@
 ||hotrochatluongchuyennghieptoanquoc.click^
 ||hotrodienmayxanh.com^
 ||hotrokhachhang-garena-account.com^
+||hotrokhachhangtindungvietinbank.com^
 ||hotromayxanh.com^
 ||hotronganhang.site^
 ||hotroonline.net^
@@ -869,6 +874,7 @@
 ||kfdg22.com^
 ||kfdg55.com^
 ||khangdz215.tk^
+||khcn-tindung-vp.com^
 ||khoanhkhacgiadinhdoantucuoinam.weebly.com^
 ||khoataikhoan-grn-vinhvien.xyz^
 ||khoataikhoangarena.xyz^
@@ -991,6 +997,7 @@
 ||lazadax17.com^
 ||lazadaz.xyz^
 ||lazadaz17.com^
+||lazmail.com.vn^
 ||ldp.page^
 ||leanhtien.net^
 ||lelong.shop^
@@ -1880,6 +1887,7 @@
 ||shinhanapp.org^
 ||shinhanbank-khcn.com^
 ||shinhanbank-tindunghanoi.online^
+||shinhanbank.chamsockhachang-the.com^
 ||shinhanbank.info.vn^
 ||shinhanbank.tanghanmucthang11.com.vn^
 ||shinhanbank79.com^
@@ -2355,6 +2363,7 @@
 ||sopper68.com^
 ||sos-icloud.com^
 ||spark123.shop^
+||spohopena.com^
 ||spohopenm.com^
 ||spohopenm.org^
 ||spsinhlychinhhang.com^
@@ -2670,6 +2679,8 @@
 ||tiktokcy1.com^
 ||timivay.com^
 ||timx2918.com^
+||tin-dung-khcn-vib.com^
+||tin-dung-uu-tien-vib.com^
 ||tinbaothuongvn.com^
 ||tinchap-nganhang.online^
 ||tinchap-techcombank.store^
@@ -3084,10 +3095,15 @@
 ||viashopee.com^
 ||viaviet03.mobie.in^
 ||vib-bank.com^
+||vib-tindung-khcn.com^
 ||vib-tindung.click^
 ||vib-tindung.online^
 ||vib-vay.com^
+||vib.chamsockhachang-tructuyen-the.online^
+||vib.chamsockhachang-tructuyen.online^
+||vib.chamsockhachhang-tructuyen-the-visa.com^
 ||vib.mobi^
+||vib.tuvan-chamsockhachhang.com^
 ||vib8-vay.com^
 ||vib84.com^
 ||vibvay.com^
@@ -3262,9 +3278,11 @@
 ||viettcombank.com^
 ||viettcredit.online^
 ||viettel-store.com^
+||viettel6.com^
 ||vietteldidong.com^
 ||viettelonline.org^
 ||viettelshare.com^
+||viettelvngroup.com^
 ||viettgov.cc^
 ||vietthanh.club^
 ||vietthanh.xyz^
@@ -3305,6 +3323,7 @@
 ||vipshopee.cc^
 ||vipshopee.com^
 ||viptikivn.club^
+||visa-vpbank-uu-tien.com^
 ||vitienonline88.com^
 ||vitindungpgbank.com^
 ||vitri-icloud.com^
@@ -3393,6 +3412,7 @@
 ||vn55866shp.com^
 ||vn6315shp.com^
 ||vn66733shop.com^
+||vn66954shp.com^
 ||vn6932shp.com^
 ||vn765.com^
 ||vn88khuyenmai.life^

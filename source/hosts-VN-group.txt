@@ -415,6 +415,11 @@
 #[zingnews]
 0.0.0.0 log.zingnews.vn
 0.0.0.0 log.znews.vn
+#[zingplay.com]
+0.0.0.0 trackingbr.zingplay.com
+0.0.0.0 trackingin.zingplay.com
+0.0.0.0 trackingsea.zingplay.com
+0.0.0.0 trackingvn.zingplay.com
 #[zalo.me]
 0.0.0.0 ads-platform.zalo.me
 0.0.0.0 ads.platform.zalo.me
@@ -1479,3 +1484,6 @@
 0.0.0.0 realclick.vn
 0.0.0.0 stats.realclick.vn
 0.0.0.0 www.realclick.vn
+#[admon.com.vn]
+0.0.0.0 admon.com.vn
+0.0.0.0 slb.admon.com.vn

@@ -10363,6 +10363,10 @@
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 smetrics.samsung.com
 0.0.0.0 target-us.samsung.com
+0.0.0.0 analytics.bigdata.samsung.com
+#[samsungrs.com]
+0.0.0.0 adconsent.samsungrs.com
+0.0.0.0 sspapi-prd.samsungrs.com
 #[nc0.co]
 0.0.0.0 edge-geo.nc0.co
 0.0.0.0 nc0.co
@@ -11226,6 +11230,7 @@
 0.0.0.0 ads.livetv703.me
 0.0.0.0 ads.livetv705.me
 0.0.0.0 ads.livetv708.me
+0.0.0.0 ads.livetv723.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11548,3 +11553,6 @@
 #[adserve.tv]
 0.0.0.0 adserve.tv
 0.0.0.0 v.adserve.tv
+#[wtg-ads.com]
+0.0.0.0 wtg-ads.com
+0.0.0.0 lib.wtg-ads.com
