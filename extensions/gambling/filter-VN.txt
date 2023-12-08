@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 08 Dec 2023 10:23 UTC+7
-! Version: 2312081023
-! Blocked: 4,604 rules
+! Last modified: 08 Dec 2023 16:03 UTC+7
+! Version: 2312081603
+! Blocked: 4,605 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -303,6 +303,7 @@
 ||868vip.mobi^
 ||868vip.top^
 ||868vip1.live^
+||87vnd.com^
 ||881ae888.com^
 ||882ae888.com^
 ||883ae888.com^

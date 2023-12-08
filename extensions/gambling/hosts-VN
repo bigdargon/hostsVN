@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 08 Dec 2023 10:23 UTC+7
-# Version: 2312081023
-# Blocked: 5,212 domains
+# Last modified: 08 Dec 2023 16:03 UTC+7
+# Version: 2312081603
+# Blocked: 5,214 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -302,6 +302,7 @@
 0.0.0.0 868vip.mobi
 0.0.0.0 868vip.top
 0.0.0.0 868vip1.live
+0.0.0.0 87vnd.com
 0.0.0.0 881ae888.com
 0.0.0.0 882ae888.com
 0.0.0.0 883ae888.com
@@ -4566,6 +4567,7 @@
 0.0.0.0 www.8559555.com
 0.0.0.0 www.8559558.com
 0.0.0.0 www.85vnd.com
+0.0.0.0 www.87vnd.com
 0.0.0.0 www.885ae888.com
 0.0.0.0 www.887ae888.com
 0.0.0.0 www.888b.com
