@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Dec 2023 23:41 UTC+7
-! Version: 2312082341
-! Blocked: 860 rules
+! Last modified: 09 Dec 2023 07:40 UTC+7
+! Version: 2312090740
+! Blocked: 859 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -20,7 +20,6 @@
 ||adi.vcmedia.vn^
 ||admicro*.vcmedia.vn^
 ||admicro.vn^
-||admon.com.vn^
 ||adnetwork.vn^
 ||adp.vnecdn.net^
 ||adpia.vn^
