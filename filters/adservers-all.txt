@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Dec 2023 07:40 UTC+7
-! Version: 2312090740
-! Blocked: 10,564 rules
+! Last modified: 10 Dec 2023 22:06 UTC+7
+! Version: 2312102206
+! Blocked: 10,571 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1000,6 +1000,7 @@
 ||adlooxtracking.com^
 ||admanmedia.com^
 ||admantx.com^
+||admarketing.yahoo.net^
 ||admarketplace.net^
 ||admarvel.com^
 ||admedia.com^
@@ -1814,6 +1815,7 @@
 ||h-adashx4sg.ut.taobao.com^
 ||hads*s.com^
 ||havasedge.com^
+||hb.yahoo.net^
 ||headerlift.com^
 ||heapanalytics.com^
 ||heatmap.it^
@@ -1917,6 +1919,7 @@
 ||ivitrack.com^
 ||ivstracker.net^
 ||izooto.com^
+||jac.yahoosandbox.com^
 ||jads.co^
 ||jadspro.live^
 ||jampp.com^
@@ -2473,6 +2476,7 @@
 ||stats.adobe.com^
 ||stats.avast.com^
 ||stats.paypal.com^
+||stats.shopify.com^
 ||stats.unity3d.com^
 ||statserv.net^
 ||statsigapi.net^
@@ -2636,6 +2640,7 @@
 ||usp1.baidu.com^
 ||uttclimber.com^
 ||v*.denakop.com^
+||v.shopify.com^
 ||v16-ad.byteoversea.com^
 ||vaicore.site^
 ||vaicore.store^
@@ -5670,6 +5675,7 @@
 ||events.jora.com^
 ||events.launchdarkly.com^
 ||events.mapbox.com^
+||events.newsroom.bi^
 ||events.redditmedia.com^
 ||events.shoplytics.com^
 ||events.split.io^
@@ -8733,6 +8739,7 @@
 ||rum.uptime.com^
 ||rumadel.com^
 ||rumblerteg.space^
+||rumt-sg.com^
 ||runads.com^
 ||runbornto.com^
 ||rundsp.com^

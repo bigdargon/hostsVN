@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 09 Dec 2023 22:31 UTC+7
-# Version: 2312092231
-# Blocked: 5,217 domains
+# Last modified: 10 Dec 2023 22:07 UTC+7
+# Version: 2312102207
+# Blocked: 5,221 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4133,6 +4133,7 @@
 0.0.0.0 v9jbo.com
 0.0.0.0 v9jvn.com
 0.0.0.0 v9win.com
+0.0.0.0 vao.vin777.blog
 0.0.0.0 vao789club.win
 0.0.0.0 vao78win.xyz
 0.0.0.0 vaob52.click
@@ -4169,6 +4170,8 @@
 0.0.0.0 vig.vietbet.eu
 0.0.0.0 vin168.com
 0.0.0.0 vin68.com
+0.0.0.0 vin777.blog
+0.0.0.0 vin777.co
 0.0.0.0 vin777.work
 0.0.0.0 vin999.fun
 0.0.0.0 vinalottery.com
@@ -5040,6 +5043,7 @@
 0.0.0.0 www.vh79.com
 0.0.0.0 www.vietbet.eu
 0.0.0.0 www.vietvwin.com
+0.0.0.0 www.vin777.co
 0.0.0.0 www.vipbet001.org
 0.0.0.0 www.viva88.com
 0.0.0.0 www.vlott88.com

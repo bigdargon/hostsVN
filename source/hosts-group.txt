@@ -531,6 +531,12 @@
 0.0.0.0 us.ads.yap.yahoo.com
 #[adtech.yahooinc.com]
 0.0.0.0 adtech.yahooinc.com
+#[jac.yahoosandbox.com]
+0.0.0.0 jac.yahoosandbox.com
+0.0.0.0 openweb.jac.yahoosandbox.com
+#[yahoo.net]
+0.0.0.0 admarketing.yahoo.net
+0.0.0.0 hb.yahoo.net
 #[yahoo.co.jp]
 0.0.0.0 ard.yahoo.co.jp
 0.0.0.0 b90.yahoo.co.jp
@@ -11556,3 +11562,6 @@
 #[wtg-ads.com]
 0.0.0.0 wtg-ads.com
 0.0.0.0 lib.wtg-ads.com
+#[shopify.com]
+0.0.0.0 stats.shopify.com
+0.0.0.0 v.shopify.com
