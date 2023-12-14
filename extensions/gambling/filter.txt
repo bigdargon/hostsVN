@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 11 Dec 2023 22:03 UTC+7
-! Version: 2312112203
-! Blocked: 160,670 rules
+! Last modified: 14 Dec 2023 09:26 UTC+7
+! Version: 2312140926
+! Blocked: 160,672 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -113229,6 +113229,7 @@
 ||gvfgs.com^
 ||gvfs2.vip^
 ||gvfytm.com^
+||gviralnews.com^
 ||gvn3.com^
 ||gvntj.com^
 ||gvprv.com^
@@ -148592,6 +148593,7 @@
 ||vn111aa.net^
 ||vn123.me^
 ||vn123456.com^
+||vn123ab.com^
 ||vn1289.com^
 ||vn1290.com^
 ||vn12b.com^
