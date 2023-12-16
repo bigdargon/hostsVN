@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Dec 2023 22:02 UTC+7
-# Version: 2312112202
-# Blocked: 20,001 domains
+# Last modified: 16 Dec 2023 22:59 UTC+7
+# Version: 2312162259
+# Blocked: 20,004 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10224,6 +10224,9 @@
 0 lib.wtg-ads.com
 0 stats.shopify.com
 0 v.shopify.com
+0 litvp.com
+0 ss15.litvp.com
+0 ss29.litvp.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 14 Dec 2023 09:26 UTC+7
-! Version: 2312140926
-! Blocked: 4,618 rules
+! Last modified: 16 Dec 2023 22:59 UTC+7
+! Version: 2312162259
+! Blocked: 4,624 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1294,6 +1294,7 @@
 ||game.b52.win^
 ||game.b52d.club^
 ||game.bom52.club^
+||game.man79.org^
 ||game.taib52.com^
 ||game.v99win.app^
 ||game69.top^
@@ -1343,6 +1344,7 @@
 ||gembanca.com^
 ||genvip88.com^
 ||genvipios.com^
+||genvipios2023.com^
 ||genvipweb2023.com^
 ||gi8.us^
 ||gi888.cc^
@@ -1350,6 +1352,7 @@
 ||giaimanhacai.com^
 ||giaitri.fun^
 ||giaitri.tv^
+||giaitrinet88.live^
 ||giutcohon.sin88.biz^
 ||gnbet.vip^
 ||go.12fifa2018.com^
@@ -3243,6 +3246,7 @@
 ||maint.v79top.com^
 ||man.club^
 ||man1.club^
+||man79.org^
 ||manclub.fun^
 ||manclub.live^
 ||manclub.us^
@@ -3480,6 +3484,7 @@
 ||play.choisport.com^
 ||play.choiwin79.net^
 ||play.fa88.win^
+||play.giaitrinet88.live^
 ||play.go88.club^
 ||play.go88.im^
 ||play.go88.vip^
@@ -3918,6 +3923,7 @@
 ||taido99.net^
 ||taido99.win^
 ||taigame789.club^
+||taigamehay.site^
 ||taigamehot.pro^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
