@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 16 Dec 2023 22:59 UTC+7
-! Version: 2312162259
-! Blocked: 4,624 rules
+! Last modified: 21 Dec 2023 15:52 UTC+7
+! Version: 2312211552
+! Blocked: 4,628 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -396,6 +396,7 @@
 ||8vnd6.com^
 ||8vnd7.com^
 ||8x055.com^
+||8xbe52.com^
 ||8xbet.cc^
 ||8xbet.com^
 ||8xbet.fun^
@@ -853,6 +854,7 @@
 ||cdn.888loc.io^
 ||cdn.kingbet86.info^
 ||cdn.vbet88.fun^
+||cdn.vicplay.io^
 ||cdn.vwin010.com^
 ||cdn.winclub.net^
 ||cf68.app^
@@ -4194,6 +4196,7 @@
 ||vi68.org^
 ||vic.fun^
 ||vic.win^
+||vicplay.io^
 ||victorwin555.com^
 ||vicwin.vip^
 ||vietbet.eu^
@@ -4470,6 +4473,7 @@
 ||web.nhatvip.net^
 ||web.taiv8.com^
 ||web.taiv8.top^
+||web.vicplay.io^
 ||web.zo.game^
 ||web.zowinvn.vip^
 ||webdev.vietbet.eu^

@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 16 Dec 2023 22:59 UTC+7
-# Version: 2312162259
-# Blocked: 4,036 domains
+# Last modified: 21 Dec 2023 15:52 UTC+7
+# Version: 2312211552
+# Blocked: 4,045 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -224,6 +224,7 @@
 0.0.0.0 baosaoviet24h.net
 0.0.0.0 baotienphong.net
 0.0.0.0 baotrixanhvn.com
+0.0.0.0 barbecueappledos.pw
 0.0.0.0 bb9998.com
 0.0.0.0 bbankpower.com
 0.0.0.0 bcmoney.xyz
@@ -462,6 +463,7 @@
 0.0.0.0 dhlvietnam-express.vn
 0.0.0.0 dich-vu-the-ai-vpbank.com
 0.0.0.0 dich-vu-the-ez-vpbank.com
+0.0.0.0 dich-vu-the-vdiamond-vpbank.com
 0.0.0.0 dich-vu-the-vvip-vpb.com
 0.0.0.0 dichvu-chuyentien24h.000webhostapp.com
 0.0.0.0 dichvu-dien-mayxanh.com
@@ -557,6 +559,7 @@
 0.0.0.0 eqav33.com
 0.0.0.0 eqav77.com
 0.0.0.0 ergyfrommo.cfd
+0.0.0.0 escortlarbul.com
 0.0.0.0 eserbank.com
 0.0.0.0 essbritanidim.club
 0.0.0.0 eulo11.com
@@ -1061,6 +1064,7 @@
 0.0.0.0 khuyenmaitanthu.com
 0.0.0.0 khuyenmaivangonline.club
 0.0.0.0 khuyenmaivimomo.weebly.com
+0.0.0.0 kiemduyetvien.cc
 0.0.0.0 kiemtien.asia
 0.0.0.0 kiemtien2002.com
 0.0.0.0 kiemtien2017.com
@@ -1082,6 +1086,7 @@
 0.0.0.0 kiemtiensieutoc.me
 0.0.0.0 kiemtientaigia2018.com
 0.0.0.0 kiemtratindung.com
+0.0.0.0 killredls.pw
 0.0.0.0 kimtruongphat.org
 0.0.0.0 kimungvay.com
 0.0.0.0 kingking79.com
@@ -2750,6 +2755,7 @@
 0.0.0.0 taixiumomo.com
 0.0.0.0 taixiumomo.me
 0.0.0.0 taixiumomo.net
+0.0.0.0 takk6.com
 0.0.0.0 tammenaa.com
 0.0.0.0 tangcuongbanlinh.com
 0.0.0.0 tangcuongsinhluc.site
@@ -3682,6 +3688,7 @@
 0.0.0.0 vn.btaynguyenfood.com
 0.0.0.0 vn11268shp.com
 0.0.0.0 vn119shop.com
+0.0.0.0 vn22647shp.com
 0.0.0.0 vn268.com
 0.0.0.0 vn277shop.com
 0.0.0.0 vn335shop.com
@@ -3879,6 +3886,8 @@
 0.0.0.0 vvvvw-icloud.com
 0.0.0.0 vvww-icloud.com
 0.0.0.0 vwietcombank.com
+0.0.0.0 vxvw11.com
+0.0.0.0 vxvw22.com
 0.0.0.0 w88banh.com
 0.0.0.0 walmartshoping.com
 0.0.0.0 warrenmoneytrader.com
