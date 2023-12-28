@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 21 Dec 2023 15:52 UTC+7
-! Version: 2312211552
-! Blocked: 4,628 rules
+! Last modified: 28 Dec 2023 22:08 UTC+7
+! Version: 2312282208
+! Blocked: 4,632 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -887,6 +887,7 @@
 ||cheer68.com^
 ||choang.fun^
 ||choang.tv^
+||choi.conggamehot.fun^
 ||choi.gameb52a.me^
 ||choi.gamingsoc88.org^
 ||choi.playiwin.uk^
@@ -932,6 +933,7 @@
 ||comebetvn2.com^
 ||comebetvn3.com^
 ||comebetvn9.com^
+||conggamehot.fun^
 ||corona999.com^
 ||cuoc.choilawin.net^
 ||cuoc88.com^
@@ -1076,6 +1078,7 @@
 ||dl.fa88.win^
 ||dl.v8.club^
 ||dltbr.com^
+||do99.pro^
 ||do99.site^
 ||dola88.info^
 ||dola99.vip^
@@ -3923,6 +3926,7 @@
 ||taibum.tv^
 ||taichoang.fun^
 ||taido99.net^
+||taido99.online^
 ||taido99.win^
 ||taigame789.club^
 ||taigamehay.site^

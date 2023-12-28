@@ -5,8 +5,8 @@ udp_whitelist=53, 1024-65535
 [dns]
 no-system
 prefer-doh3
-doh-server=https://doh3.dns1.nextdns.io, https://doh3.dns2.nextdns.io
-doq-server=quic://dns1.nextdns.io, quic://dns2.nextdns.io
+doh-server=https://dns1.nextdns.io/, https://dns2.nextdns.io/
+#doq-server=quic://dns1.nextdns.io/, quic://dns2.nextdns.io/
 server=8.8.8.8
 server=9.9.9.11
 
@@ -30,6 +30,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantu
 [server_local]
 
 [filter_local]
+IP-CIDR,0.0.0.0/32,REJECT,no-resolve
 FINAL,DIRECT
 
 [rewrite_local]
