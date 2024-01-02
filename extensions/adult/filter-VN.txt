@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 28 Dec 2023 22:08 UTC+7
-! Version: 2312282208
-! Blocked: 3,362 rules
+! Last modified: 02 Jan 2024 16:29 UTC+7
+! Version: 2401021629
+! Blocked: 3,383 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -23,6 +23,7 @@
 ||247live.mobi^
 ||24hchudu.com^
 ||24hphimsex.com^
+||28363.one^
 ||2jav.net^
 ||2ola.pro^
 ||303cc.xyz^
@@ -120,6 +121,7 @@
 ||buom.tv^
 ||buomdep.pro^
 ||buomsex.com^
+||buomtv.tv^
 ||buomxinh.org^
 ||bupbetinhduc.co^
 ||bupnhau.com^
@@ -772,6 +774,7 @@
 ||jav789.tv^
 ||jav99.biz^
 ||javabc.com^
+||javagv.biz^
 ||javbiz.net^
 ||javdemz.com^
 ||javdep.com^
@@ -789,6 +792,7 @@
 ||javhay.co^
 ||javhay.cyou^
 ||javhay.media^
+||javhay.movie^
 ||javhay.one^
 ||javhay.online^
 ||javhay.org^
@@ -820,6 +824,7 @@
 ||javhdhay.me^
 ||javhdhayz.com^
 ||javhdhayz.net^
+||javhdhayz.pro^
 ||javhdkhongche.com^
 ||javhdpro.org^
 ||javhdvd.net^
@@ -1922,6 +1927,7 @@
 ||rauvn.net^
 ||reviewxx.net^
 ||ribaysteak.ru^
+||rphang.cc^
 ||rphang.online^
 ||rphangcdn.com^
 ||rphangs.net^
@@ -2303,6 +2309,7 @@
 ||sexsung.com^
 ||sexsuong.net^
 ||sext.pro^
+||sexthailan.com^
 ||sexthu.top^
 ||sexthudam.pro^
 ||sexthudam.top^
@@ -2330,6 +2337,7 @@
 ||sextop123.com^
 ||sextop18.org^
 ||sextop18.plus^
+||sextop1jav.info^
 ||sextop1jav.net^
 ||sextop1s.net^
 ||sextop1x.com^
@@ -2841,23 +2849,28 @@
 ||vlxx.ai^
 ||vlxx.bet^
 ||vlxx.bio^
+||vlxx.blue^
 ||vlxx.buzz^
 ||vlxx.cc^
 ||vlxx.chat^
 ||vlxx.city^
 ||vlxx.club^
 ||vlxx.cm^
+||vlxx.com.co^
 ||vlxx.contact^
 ||vlxx.cyou^
 ||vlxx.day^
 ||vlxx.fan^
 ||vlxx.fun^
 ||vlxx.gay^
+||vlxx.group^
 ||vlxx.homes^
 ||vlxx.icu^
 ||vlxx.info^
 ||vlxx.io^
 ||vlxx.kim^
+||vlxx.la^
+||vlxx.lat^
 ||vlxx.live^
 ||vlxx.me^
 ||vlxx.media^
@@ -2870,6 +2883,7 @@
 ||vlxx.run^
 ||vlxx.sbs^
 ||vlxx.sex^
+||vlxx.social^
 ||vlxx.space^
 ||vlxx.store^
 ||vlxx.studio^
@@ -2877,6 +2891,8 @@
 ||vlxx.today^
 ||vlxx.tube^
 ||vlxx.tv^
+||vlxx.tw^
+||vlxx.uk^
 ||vlxx.uno^
 ||vlxx.vip^
 ||vlxx.wiki^
@@ -2902,6 +2918,7 @@
 ||vlxxphim.pro^
 ||vlxxs.net^
 ||vlxxsex.com^
+||vlxxsex.vip^
 ||vlxxsub.net^
 ||vlxxtop.com^
 ||vlxxtube.cc^
@@ -2935,6 +2952,7 @@
 ||vn.sexviet88.top^
 ||vn.viet69.chat^
 ||vn.vlxxtube.cc^
+||vn.websex.tube^
 ||vn3x.me^
 ||vnanchoi.ca^
 ||vnchich.com^
@@ -3127,6 +3145,7 @@
 ||xemshow.live^
 ||xemsv.com^
 ||xemtrai.top^
+||xemvl.com^
 ||xemvlxx.me^
 ||xemxx.info^
 ||xemxx.org^
@@ -3227,6 +3246,7 @@
 ||xvideo-phimsex.pro^
 ||xvideo1.site^
 ||xvideo98.com^
+||xvideos-vlxx.com^
 ||xvideos102.com^
 ||xvideos21.xde.mx^
 ||xvideos3x.net^
@@ -3267,6 +3287,7 @@
 ||xxphap.net^
 ||xxphe.cc^
 ||xxphe.me^
+||xxphim.cam^
 ||xxphim.club^
 ||xxphim.co^
 ||xxphim.live^

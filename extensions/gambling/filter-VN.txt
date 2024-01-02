@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 28 Dec 2023 22:08 UTC+7
-! Version: 2312282208
-! Blocked: 4,632 rules
+! Last modified: 02 Jan 2024 16:29 UTC+7
+! Version: 2401021629
+! Blocked: 4,649 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -74,6 +74,7 @@
 ||12388bet.co^
 ||123b.bet^
 ||123b.com^
+||123b.net^
 ||123b.org^
 ||123b.vn^
 ||123b03.com^
@@ -210,7 +211,11 @@
 ||67win9.com^
 ||68b3.club^
 ||68game2.com^
+||68gamebai.tel^
+||68gamebai4.com^
 ||68gamebaix.com^
+||68gb.vip^
+||68gb2025.com^
 ||68gb3.com^
 ||68iwin.club^
 ||68rich.com^
@@ -696,6 +701,7 @@
 ||bancadoithuongvn.com^
 ||bancalucky88.com^
 ||baowin.net^
+||bay789.io^
 ||bay789.vin^
 ||bayvip.biz^
 ||bayvip.tv^
@@ -1261,6 +1267,7 @@
 ||five88.biz^
 ||five88.com^
 ||five88.me^
+||five88.net^
 ||five88.win^
 ||fivevn.net^
 ||fmapt.com^
@@ -3053,6 +3060,8 @@
 ||lixi88zb123.net^
 ||lixi99.com^
 ||lm.jbo010.com^
+||lo88.live^
+||lo88.vin^
 ||loc789.club^
 ||loc88.fun^
 ||loc89.fun^
@@ -3289,6 +3298,7 @@
 ||me88vietnam.com^
 ||me88vn1.com^
 ||me88vn2.com^
+||mec68.com^
 ||media.1789bet.com^
 ||media.happynb.com^
 ||media.lixi99.com^
@@ -3325,6 +3335,8 @@
 ||ms88ca.com^
 ||msmeb.com^
 ||msp2.leto58.xyz^
+||mu88.game^
+||mu88.id^
 ||mu88.uk^
 ||mu88a.com^
 ||mu88ads.com^
@@ -3484,6 +3496,7 @@
 ||play.b52.win^
 ||play.b52m.club^
 ||play.b52vn.org^
+||play.bay789.io^
 ||play.bom52.club^
 ||play.bum3.club^
 ||play.choisport.com^
@@ -3501,6 +3514,8 @@
 ||play.hit38.co^
 ||play.hit68.net^
 ||play.im99.com^
+||play.lo88.live^
+||play.lo88.vin^
 ||play.loc789.club^
 ||play.manclub.vin^
 ||play.nemo.vin^
@@ -3629,6 +3644,7 @@
 ||record.income88.com^
 ||record.pog79aff.com^
 ||red88.com^
+||red88.top^
 ||red88.uk^
 ||red88.us^
 ||red88.vin^
@@ -4120,6 +4136,7 @@
 ||tx.socvip.com^
 ||tx.socvip9.club^
 ||tx1.vip^
+||tydo88.com^
 ||tz.bet20.bet^
 ||tzzxt.com^
 ||ud1a.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 28 Dec 2023 22:08 UTC+7
-! Version: 2312282208
-! Blocked: 10,396 rules
+! Last modified: 02 Jan 2024 16:26 UTC+7
+! Version: 2401021626
+! Blocked: 10,400 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1934,6 +1934,7 @@
 ||klog.hiido.com^
 ||kochava.com^
 ||krxd.net^
+||labadena.com^
 ||ladsp.com^
 ||ladsp.jp^
 ||lalaping.com^
@@ -3644,6 +3645,7 @@
 ||afearprevoid.com^
 ||aff.bstatic.com^
 ||affbuzzads.com^
+||affcpatrk.com^
 ||affec.tv^
 ||affforce.com^
 ||affili.net^
@@ -6749,6 +6751,7 @@
 ||ktu.sv2.biz^
 ||ktwnjefd.com^
 ||ku2d3a7pa8mdi.com^
+||ku42hjr2e.com^
 ||kuhvkajactas.com^
 ||kukury2hf8nd09.com^
 ||kuno-gae.com^
@@ -9060,6 +9063,7 @@
 ||static.itrack.it^
 ||static.leaddyno.com^
 ||static.narrativ.com^
+||static.scptpx.com^
 ||static.scroll.com^
 ||static.site24x7rum.com^
 ||staticads.btopenworld.com^
