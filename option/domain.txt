@@ -1145,6 +1145,8 @@ log.tbs.qq.com
 logsdk.qq.com
 mtrace.qq.com
 report.qq.com
+up-hl.3g.qq.com
+yun-hl.3g.qq.com
 beacon.qq.com
 aeventlog.beacon.qq.com
 otheve.beacon.qq.com
@@ -9421,11 +9423,6 @@ track1.avplayer.com
 ads.imgur.com
 p.imgur.com
 t.imgur.com
-cdn.tt.omtrdc.net
-hb.omtrdc.net
-omtrdc.net
-sc.omtrdc.net
-tt.omtrdc.net
 demdex.net
 dpm.demdex.net
 cdn-0.d41.co
@@ -9802,8 +9799,14 @@ hubvisor.io
 cdn.hubvisor.io
 data.adobedc.net
 adobecorp.data.adobedc.net
+adobemobiledev.data.adobedc.net
 esdk.data.adobedc.net
-edge.adobedc.net
+cdn.tt.omtrdc.net
+hb.omtrdc.net
+omtrdc.net
+sc.omtrdc.net
+tt.omtrdc.net
+2o7.net
 anapixel.marca.com
 pixelcounter.marca.com
 ccpa.psg.nexstardigital.net
@@ -19097,7 +19100,6 @@ zxc.world
 zygenidempaper.digital
 zygomasbeaches.guru
 zzelicawwofl.com
-2o7.net
 3gl.net
 a.apkpure.com
 a.mailmunch.co
@@ -19314,6 +19316,7 @@ emltrk.com
 ethtrader.de
 event.stat.wedobest.com.cn
 event.wedobest.com.cn
+eventgw.twilio.com
 events.apester.com
 events.attentivemobile.com
 events.jora.com
@@ -19331,6 +19334,7 @@ fastly-insights.com
 fathomseo.com
 firsthive.com
 flagcounter.com
+fo.iemiq.com
 fpnpmcdn.net
 front.optimonk.com
 fullstory.com

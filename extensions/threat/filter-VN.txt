@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 02 Jan 2024 16:29 UTC+7
-! Version: 2401021629
-! Blocked: 3,697 rules
+! Last modified: 03 Jan 2024 16:36 UTC+7
+! Version: 2401031636
+! Blocked: 3,707 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -67,6 +67,7 @@
 ||9g5lm9.cyou^
 ||9smomo.com^
 ||a666.vn^
+||aaeeonmart.com^
 ||abbabbbank.com^
 ||abbankpro.com^
 ||abbankvn.com^
@@ -96,6 +97,7 @@
 ||admin-vayvonvietthanh.com^
 ||ae888vip.com^
 ||aeeonmart.com^
+||aeoonmail.com^
 ||aets22.com^
 ||aets88.com^
 ||aets99.com^
@@ -365,6 +367,7 @@
 ||dhl-vietnam.vn^
 ||dhlexpress-vietnam.com.vn^
 ||dhlvietnam-express.vn^
+||dich-vu-online-vpbank.com^
 ||dich-vu-the-ai-vpbank.com^
 ||dich-vu-the-ez-vpbank.com^
 ||dich-vu-the-vdiamond-vpbank.com^
@@ -996,6 +999,7 @@
 ||lazadau15.com^
 ||lazadav17.com^
 ||lazadavn.info^
+||lazadavn.vn^
 ||lazadax17.com^
 ||lazadaz.xyz^
 ||lazadaz17.com^
@@ -1112,6 +1116,7 @@
 ||magicslimnhatban.com^
 ||maivang.vip^
 ||maivang.xyz^
+||mallshopvn.vip^
 ||mallslazada.com^
 ||mastercard-quetthetindung247.com^
 ||mavietnam.xyz^
@@ -1338,6 +1343,7 @@
 ||mylotte.shop^
 ||myshopee13.com^
 ||myshopee7.vip^
+||nang-cap-online-vpbank.com^
 ||nang-han-muc-vip-vpbank.com^
 ||nanghanmuc-thetindung.com^
 ||nanghanmuc-tindungvn.com^
@@ -1613,6 +1619,7 @@
 ||nouespaipenedes.com^
 ||nsomomo.com^
 ||nvietcombank.com^
+||nykkky.com^
 ||oivay.app^
 ||oivay.vip^
 ||onhamuadich.com^
@@ -2735,6 +2742,9 @@
 ||titki55.cc^
 ||tk668.com^
 ||tk9998.com^
+||tmko1.com^
+||tmko2.com^
+||tmko3.com^
 ||tochucthetindung.com^
 ||tomo5933.vip^
 ||tomo5963.vip^

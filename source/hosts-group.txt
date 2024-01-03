@@ -1262,6 +1262,9 @@
 0.0.0.0 logsdk.qq.com
 0.0.0.0 mtrace.qq.com
 0.0.0.0 report.qq.com
+#[3g.qq.com]
+0.0.0.0 up-hl.3g.qq.com
+0.0.0.0 yun-hl.3g.qq.com
 #[beacon.qq.com]
 0.0.0.0 beacon.qq.com
 0.0.0.0 aeventlog.beacon.qq.com
@@ -10565,12 +10568,6 @@
 0.0.0.0 ads.imgur.com
 0.0.0.0 p.imgur.com
 0.0.0.0 t.imgur.com
-#[omtrdc.net]
-0.0.0.0 cdn.tt.omtrdc.net
-0.0.0.0 hb.omtrdc.net
-0.0.0.0 omtrdc.net
-0.0.0.0 sc.omtrdc.net
-0.0.0.0 tt.omtrdc.net
 #[demdex.net]
 0.0.0.0 demdex.net
 0.0.0.0 dpm.demdex.net
@@ -11059,8 +11056,16 @@
 #[data.adobedc.net]
 0.0.0.0 data.adobedc.net
 0.0.0.0 adobecorp.data.adobedc.net
+0.0.0.0 adobemobiledev.data.adobedc.net
 0.0.0.0 esdk.data.adobedc.net
-0.0.0.0 edge.adobedc.net
+#[omtrdc.net]
+0.0.0.0 cdn.tt.omtrdc.net
+0.0.0.0 hb.omtrdc.net
+0.0.0.0 omtrdc.net
+0.0.0.0 sc.omtrdc.net
+0.0.0.0 tt.omtrdc.net
+#[2o7.net]
+0.0.0.0 2o7.net
 #[marca.com]
 0.0.0.0 anapixel.marca.com
 0.0.0.0 pixelcounter.marca.com

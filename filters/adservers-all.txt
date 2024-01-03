@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Jan 2024 16:26 UTC+7
-! Version: 2401021626
-! Blocked: 10,400 rules
+! Last modified: 03 Jan 2024 16:35 UTC+7
+! Version: 2401031635
+! Blocked: 10,403 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -867,6 +867,7 @@
 ||2leep.com^
 ||2mdn-cn.net^
 ||2mdnsys.com^
+||2o7.net^
 ||2performant.com^
 ||33across.com^
 ||360in.com^
@@ -1650,7 +1651,6 @@
 ||e.qq.com^
 ||easyads28.info^
 ||eclick.baidu.com^
-||edge.adobedc.net^
 ||edge.atmtd.com^
 ||effectivemeasure.net^
 ||ej1*.online^
@@ -2622,6 +2622,7 @@
 ||unityads.unity3d.com^
 ||unoadsrv.com^
 ||unrulymedia.com^
+||up-hl.3g.qq.com^
 ||update.fbsbx.com^
 ||uprimp.com^
 ||upsight.com^
@@ -2735,6 +2736,7 @@
 ||your-notice.com^
 ||yourwebbars.com^
 ||yovoads.com^
+||yun-hl.3g.qq.com^
 ||zcoup.com^
 ||zemanta.com^
 ||zenadservices.net^
@@ -2770,7 +2772,6 @@
 ||2cnjuh34jb.com^
 ||2explore.com^
 ||2llmonds4ehcr93nb.com^
-||2o7.net^
 ||2qj7mq3w4uxe.com^
 ||360playvid.com^
 ||360playvid.info^
@@ -5605,6 +5606,7 @@
 ||eusta.de^
 ||event.stat.wedobest.com.cn^
 ||event.wedobest.com.cn^
+||eventgw.twilio.com^
 ||events.apester.com^
 ||events.attentivemobile.com^
 ||events.jora.com^
@@ -5781,6 +5783,7 @@
 ||fmgcdgnousrww.com^
 ||fmonawobzorb.com^
 ||fnbauniukvi.com^
+||fo.iemiq.com^
 ||foamidsputt.com^
 ||focoidsquos.website^
 ||focusde.info^

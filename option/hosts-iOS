@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Jan 2024 16:26 UTC+7
-# Version: 2401021626
-# Blocked: 19,806 domains
+# Last modified: 03 Jan 2024 16:35 UTC+7
+# Version: 2401031635
+# Blocked: 19,810 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1161,6 +1161,8 @@
 0 logsdk.qq.com
 0 mtrace.qq.com
 0 report.qq.com
+0 up-hl.3g.qq.com
+0 yun-hl.3g.qq.com
 0 beacon.qq.com
 0 aeventlog.beacon.qq.com
 0 otheve.beacon.qq.com
@@ -9437,11 +9439,6 @@
 0 ads.imgur.com
 0 p.imgur.com
 0 t.imgur.com
-0 cdn.tt.omtrdc.net
-0 hb.omtrdc.net
-0 omtrdc.net
-0 sc.omtrdc.net
-0 tt.omtrdc.net
 0 demdex.net
 0 dpm.demdex.net
 0 cdn-0.d41.co
@@ -9818,8 +9815,14 @@
 0 cdn.hubvisor.io
 0 data.adobedc.net
 0 adobecorp.data.adobedc.net
+0 adobemobiledev.data.adobedc.net
 0 esdk.data.adobedc.net
-0 edge.adobedc.net
+0 cdn.tt.omtrdc.net
+0 hb.omtrdc.net
+0 omtrdc.net
+0 sc.omtrdc.net
+0 tt.omtrdc.net
+0 2o7.net
 0 anapixel.marca.com
 0 pixelcounter.marca.com
 0 ccpa.psg.nexstardigital.net
@@ -19113,7 +19116,6 @@
 0 zygenidempaper.digital
 0 zygomasbeaches.guru
 0 zzelicawwofl.com
-0 2o7.net
 0 3gl.net
 0 a.apkpure.com
 0 a.mailmunch.co
@@ -19330,6 +19332,7 @@
 0 ethtrader.de
 0 event.stat.wedobest.com.cn
 0 event.wedobest.com.cn
+0 eventgw.twilio.com
 0 events.apester.com
 0 events.attentivemobile.com
 0 events.jora.com
@@ -19347,6 +19350,7 @@
 0 fathomseo.com
 0 firsthive.com
 0 flagcounter.com
+0 fo.iemiq.com
 0 fpnpmcdn.net
 0 front.optimonk.com
 0 fullstory.com
