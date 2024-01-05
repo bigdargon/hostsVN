@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 03 Jan 2024 16:36 UTC+7
-! Version: 2401031636
-! Blocked: 3,383 rules
+! Last modified: 05 Jan 2024 15:52 UTC+7
+! Version: 2401051552
+! Blocked: 3,386 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -139,7 +139,10 @@
 ||chanheo.com^
 ||chanrau.cc^
 ||checkerfc.xyz^
+||checkerviet.bet^
 ||checkerviet.bid^
+||checkerviet.bz^
+||checkerviet.fan^
 ||checkerviet.fun^
 ||checkerviet.one^
 ||checkgaigoi.cc^
