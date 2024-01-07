@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Jan 2024 15:51 UTC+7
-# Version: 2401051551
-# Blocked: 1,812 domains
+# Last modified: 07 Jan 2024 14:17 UTC+7
+# Version: 2401071417
+# Blocked: 1,822 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1320,6 +1320,7 @@
 #[aiservice.vn]
 0.0.0.0 boxpr.aiservice.vn
 0.0.0.0 js.aiservice.vn
+0.0.0.0 lio.aiservice.vn
 0.0.0.0 nspapi.aiservice.vn
 0.0.0.0 rec.aiservice.vn
 #[analytics.saas-vn.network]
@@ -1489,6 +1490,8 @@
 0.0.0.0 pv.vipads.cc
 0.0.0.0 www.vipads.cc
 #[kernh41.com]
+0.0.0.0 ght.kernh41.com
+0.0.0.0 gk.kernh41.com
 0.0.0.0 kernh41.com
 0.0.0.0 static1.kernh41.com
 #[realclick.vn]
@@ -1497,6 +1500,13 @@
 0.0.0.0 realclick.vn
 0.0.0.0 stats.realclick.vn
 0.0.0.0 www.realclick.vn
+#[distinctrobin.com]
+0.0.0.0 agt.distinctrobin.com
+0.0.0.0 dfw.distinctrobin.com
+0.0.0.0 distinctrobin.com
+0.0.0.0 gko.distinctrobin.com
+0.0.0.0 imeg.distinctrobin.com
+0.0.0.0 obin.distinctrobin.com
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -1576,6 +1586,7 @@
 0.0.0.0 ads.xedoisong.vn
 0.0.0.0 ads.xemphimso.com
 0.0.0.0 ads.xemtivisohd.net
+0.0.0.0 ads.zunia.vn
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 ads8.fpt.vn
 0.0.0.0 adserver.lag.vn
@@ -1645,10 +1656,10 @@
 0.0.0.0 dt.vnecdn.com
 0.0.0.0 duamilsyr.com
 0.0.0.0 financial-agent.headlines.pw
-0.0.0.0 gamma.cachefly.net
 0.0.0.0 go.vnecdn.com
 0.0.0.0 hexapinow.xyz
 0.0.0.0 iads.staticscdn.net
+0.0.0.0 iads.vision
 0.0.0.0 imgcdnbet.com
 0.0.0.0 interactive.tinnhanhchungkhoan.vn
 0.0.0.0 k8trangphim.com

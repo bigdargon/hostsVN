@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 05 Jan 2024 15:52 UTC+7
-# Version: 2401051552
-# Blocked: 5,294 domains
+# Last modified: 07 Jan 2024 14:17 UTC+7
+# Version: 2401071417
+# Blocked: 5,296 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -900,6 +900,7 @@
 0.0.0.0 choi99.com
 0.0.0.0 choibaionlinevn.com
 0.0.0.0 choibancadoithuong.com
+0.0.0.0 choigamevua.club
 0.0.0.0 choigiaitri.net
 0.0.0.0 choihay.vip
 0.0.0.0 choihitclub.fun
@@ -4360,6 +4361,7 @@
 0.0.0.0 vstar79.com
 0.0.0.0 vua1004.club
 0.0.0.0 vua1005.club
+0.0.0.0 vua2.club
 0.0.0.0 vua88.club
 0.0.0.0 vuabai9.com
 0.0.0.0 vuabet88.org

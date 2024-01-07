@@ -6938,6 +6938,9 @@
 0.0.0.0 publisher.optad360.com
 0.0.0.0 stats.optad360.com
 0.0.0.0 www.optad360.com
+#[optad360.net]
+0.0.0.0 optad360.net
+0.0.0.0 cdn.optad360.net
 #[themoneytizer.com]
 0.0.0.0 ads.themoneytizer.com
 0.0.0.0 alternativa.themoneytizer.com
@@ -7432,6 +7435,9 @@
 0.0.0.0 origin-ads.realsrv.com
 0.0.0.0 realsrv.com
 0.0.0.0 syndication.realsrv.com
+#[realsrvcdn.com]
+0.0.0.0 realsrvcdn.com
+0.0.0.0 a.realsrvcdn.com
 #[vivaclix.com]
 0.0.0.0 media.vivaclix.com
 0.0.0.0 srv.vivaclix.com
@@ -9265,6 +9271,7 @@
 #[cachefly.net]
 0.0.0.0 ambientdsp.cachefly.net
 0.0.0.0 flurry.cachefly.net
+0.0.0.0 gamma.cachefly.net
 #[idealmedia.io]
 0.0.0.0 c.idealmedia.io
 0.0.0.0 cdn.idealmedia.io
@@ -10712,10 +10719,6 @@
 0.0.0.0 mwzeom.zeotap.com
 0.0.0.0 spl.zeotap.com
 0.0.0.0 zeotap.com
-#[web1s.com]
-0.0.0.0 web1s.com
-0.0.0.0 ssp.web1s.com
-0.0.0.0 www.web1s.com
 #[intentiq.com]
 0.0.0.0 ads.intentiq.com
 0.0.0.0 api.intentiq.com
@@ -11577,3 +11580,9 @@
 #[labadena.com]
 0.0.0.0 labadena.com
 0.0.0.0 a.labadena.com
+#[aff-online.com]
+0.0.0.0 aff-online.com
+0.0.0.0 api.aff-online.com
+#[aff-track.net]
+0.0.0.0 aff-track.net
+0.0.0.0 red.aff-track.net

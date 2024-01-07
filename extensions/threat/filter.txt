@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Jan 2024 15:52 UTC+7
-! Version: 2401051552
-! Blocked: 4,027 rules
+! Last modified: 07 Jan 2024 14:17 UTC+7
+! Version: 2401071417
+! Blocked: 4,028 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -526,6 +526,7 @@
 ||drakeesh.com^
 ||dtcltx.com^
 ||dtdvmuadong-lienquan.com^
+||duchessefit.com^
 ||duthithanhlich2021.weebly.com^
 ||duyendangaodaivietnam2021.weebly.com^
 ||dvdienmayxanh.com^

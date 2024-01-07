@@ -1308,6 +1308,7 @@
 #[aiservice.vn]
 0.0.0.0 boxpr.aiservice.vn
 0.0.0.0 js.aiservice.vn
+0.0.0.0 lio.aiservice.vn
 0.0.0.0 nspapi.aiservice.vn
 0.0.0.0 rec.aiservice.vn
 #[analytics.saas-vn.network]
@@ -1477,6 +1478,8 @@
 0.0.0.0 pv.vipads.cc
 0.0.0.0 www.vipads.cc
 #[kernh41.com]
+0.0.0.0 ght.kernh41.com
+0.0.0.0 gk.kernh41.com
 0.0.0.0 kernh41.com
 0.0.0.0 static1.kernh41.com
 #[realclick.vn]
@@ -1485,3 +1488,10 @@
 0.0.0.0 realclick.vn
 0.0.0.0 stats.realclick.vn
 0.0.0.0 www.realclick.vn
+#[distinctrobin.com]
+0.0.0.0 agt.distinctrobin.com
+0.0.0.0 dfw.distinctrobin.com
+0.0.0.0 distinctrobin.com
+0.0.0.0 gko.distinctrobin.com
+0.0.0.0 imeg.distinctrobin.com
+0.0.0.0 obin.distinctrobin.com

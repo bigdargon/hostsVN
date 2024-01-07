@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Jan 2024 15:51 UTC+7
-# Version: 2401051551
-# Blocked: 19,815 domains
+# Last modified: 07 Jan 2024 14:17 UTC+7
+# Version: 2401071417
+# Blocked: 19,833 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6366,6 +6366,8 @@
 0 publisher.optad360.com
 0 stats.optad360.com
 0 www.optad360.com
+0 optad360.net
+0 cdn.optad360.net
 0 ads.themoneytizer.com
 0 alternativa.themoneytizer.com
 0 alternativas.themoneytizer.com
@@ -6807,6 +6809,8 @@
 0 origin-ads.realsrv.com
 0 realsrv.com
 0 syndication.realsrv.com
+0 realsrvcdn.com
+0 a.realsrvcdn.com
 0 media.vivaclix.com
 0 srv.vivaclix.com
 0 track.vivaclix.com
@@ -8380,6 +8384,7 @@
 0 www.truepush.com
 0 ambientdsp.cachefly.net
 0 flurry.cachefly.net
+0 gamma.cachefly.net
 0 c.idealmedia.io
 0 cdn.idealmedia.io
 0 cm.idealmedia.io
@@ -9547,9 +9552,6 @@
 0 mwzeom.zeotap.com
 0 spl.zeotap.com
 0 zeotap.com
-0 web1s.com
-0 ssp.web1s.com
-0 www.web1s.com
 0 ads.intentiq.com
 0 api.intentiq.com
 0 intentiq.com
@@ -10232,6 +10234,10 @@
 0 ss29.litvp.com
 0 labadena.com
 0 a.labadena.com
+0 aff-online.com
+0 api.aff-online.com
+0 aff-track.net
+0 red.aff-track.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -11392,6 +11398,7 @@
 0 www.metaconex.io
 0 boxpr.aiservice.vn
 0 js.aiservice.vn
+0 lio.aiservice.vn
 0 nspapi.aiservice.vn
 0 rec.aiservice.vn
 0 analytics.saas-vn.network
@@ -11521,6 +11528,8 @@
 0 vipads.cc
 0 pv.vipads.cc
 0 www.vipads.cc
+0 ght.kernh41.com
+0 gk.kernh41.com
 0 kernh41.com
 0 static1.kernh41.com
 0 as.realclick.vn
@@ -11528,6 +11537,12 @@
 0 realclick.vn
 0 stats.realclick.vn
 0 www.realclick.vn
+0 agt.distinctrobin.com
+0 dfw.distinctrobin.com
+0 distinctrobin.com
+0 gko.distinctrobin.com
+0 imeg.distinctrobin.com
+0 obin.distinctrobin.com
 0 12signup.com
 0 ad-admin.vnay.vn
 0 ad-ndtv.3s.com.vn
@@ -11606,6 +11621,7 @@
 0 ads.xedoisong.vn
 0 ads.xemphimso.com
 0 ads.xemtivisohd.net
+0 ads.zunia.vn
 0 ads1.careerbuilder.vn
 0 ads8.fpt.vn
 0 adserver.lag.vn
@@ -11675,10 +11691,10 @@
 0 dt.vnecdn.com
 0 duamilsyr.com
 0 financial-agent.headlines.pw
-0 gamma.cachefly.net
 0 go.vnecdn.com
 0 hexapinow.xyz
 0 iads.staticscdn.net
+0 iads.vision
 0 imgcdnbet.com
 0 interactive.tinnhanhchungkhoan.vn
 0 k8trangphim.com
@@ -13267,6 +13283,7 @@
 0 aulteeby.net
 0 ausoafab.net
 0 autchoog.net
+0 autjaetpxhj.com
 0 auto-bannertausch.de
 0 autohits.dk
 0 automaticflock.com
@@ -14197,6 +14214,7 @@
 0 cyberbounty.com
 0 cybermonitor.com
 0 cycledaction.com
+0 cyjprljyvgqeg.com
 0 cynes-gwf.com
 0 czyazwvifoxc.com
 0 d.appsdt.com
