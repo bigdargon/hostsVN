@@ -11586,3 +11586,7 @@
 #[aff-track.net]
 0.0.0.0 aff-track.net
 0.0.0.0 red.aff-track.net
+#[event.dfinery.io]
+0.0.0.0 ap1.event.dfinery.io
+0.0.0.0 ap2.event.dfinery.io
+0.0.0.0 event.dfinery.io

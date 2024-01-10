@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 07 Jan 2024 14:17 UTC+7
-# Version: 2401071417
-# Blocked: 4,081 domains
+# Last modified: 10 Jan 2024 10:21 UTC+7
+# Version: 2401101021
+# Blocked: 4,085 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -34,6 +34,7 @@
 0.0.0.0 247bank-ing.com
 0.0.0.0 247napas.com
 0.0.0.0 247vi-bank.com
+0.0.0.0 24h.c0m.ltd
 0.0.0.0 24hmoneygram.weebly.com
 0.0.0.0 24plexus.com
 0.0.0.0 2phutkiemtien.com
@@ -588,6 +589,7 @@
 0.0.0.0 expressmoney.cc
 0.0.0.0 facabook.id.vn
 0.0.0.0 face-book.co
+0.0.0.0 facebook.c0m.ltd
 0.0.0.0 facebookk.life
 0.0.0.0 facebookvni.com
 0.0.0.0 faecbooks.com
@@ -609,6 +611,7 @@
 0.0.0.0 fe-shop.cc
 0.0.0.0 fe.lwcvn.com
 0.0.0.0 feacbookk.com
+0.0.0.0 fecabookk.com
 0.0.0.0 ff-garena-membership-2021.com
 0.0.0.0 ff-garena-membershipff.com
 0.0.0.0 ff-garena-sukien.com
@@ -4080,6 +4083,7 @@
 0.0.0.0 yeumomo.me
 0.0.0.0 yl0sj9.cyou
 0.0.0.0 ymx33.com
+0.0.0.0 youtuber-cash.buzz
 0.0.0.0 yunduofei.xyz
 0.0.0.0 zalorashop.com
 0.0.0.0 zeroshop.cc
