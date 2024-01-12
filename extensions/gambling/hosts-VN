@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 10 Jan 2024 10:21 UTC+7
-# Version: 2401101021
-# Blocked: 5,296 domains
+# Last modified: 12 Jan 2024 09:39 UTC+7
+# Version: 2401120939
+# Blocked: 5,301 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -651,6 +651,7 @@
 0.0.0.0 api.vnq8.bet
 0.0.0.0 api.vnq8.com
 0.0.0.0 api.vnq8.net
+0.0.0.0 api.vnxoso66.net
 0.0.0.0 api.vx88.com
 0.0.0.0 api2-gateway.go88.com
 0.0.0.0 api4.hit1.co
@@ -1645,6 +1646,7 @@
 0.0.0.0 iwinapplink.club
 0.0.0.0 iwinclub.onl
 0.0.0.0 iwinclub.win
+0.0.0.0 izv5n.cc
 0.0.0.0 j3108.com
 0.0.0.0 j7bet.com
 0.0.0.0 j9-btc.com
@@ -4349,6 +4351,7 @@
 0.0.0.0 vntop88.com
 0.0.0.0 vnvwbet.com
 0.0.0.0 vnvwin.com
+0.0.0.0 vnxoso66.net
 0.0.0.0 vqtq-bet365vn.com
 0.0.0.0 vscore.bet
 0.0.0.0 vscore.online
@@ -4898,6 +4901,7 @@
 0.0.0.0 www.income88.com
 0.0.0.0 www.interwinvn.com
 0.0.0.0 www.iwin.us
+0.0.0.0 www.izv5n.cc
 0.0.0.0 www.ja77.net
 0.0.0.0 www.jb777.net
 0.0.0.0 www.jbo010.com
@@ -5153,6 +5157,7 @@
 0.0.0.0 www.vnq8.net
 0.0.0.0 www.vnq8.win
 0.0.0.0 www.vntop88.com
+0.0.0.0 www.vnxoso66.net
 0.0.0.0 www.vqtq-bet365vn.com
 0.0.0.0 www.vuabai9.com
 0.0.0.0 www.vw220.com
