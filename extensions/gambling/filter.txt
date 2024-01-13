@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 12 Jan 2024 09:39 UTC+7
-! Version: 2401120939
-! Blocked: 148,187 rules
+! Last modified: 13 Jan 2024 12:34 UTC+7
+! Version: 2401131234
+! Blocked: 148,291 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -752,6 +752,7 @@
 ||008yabo.com^
 ||008yd.com^
 ||009.casino^
+||009.com^
 ||00900.biz^
 ||00900.mba^
 ||009000.org^
@@ -49845,6 +49846,7 @@
 ||58betvip.com^
 ||58btt.com^
 ||58btt.net^
+||58cc.live^
 ||58cro.com^
 ||58h2n.com^
 ||58hg1.com^
@@ -58190,7 +58192,9 @@
 ||68gamebai.tel^
 ||68gamebai4.com^
 ||68gamebaix.com^
+||68gb.cam^
 ||68gb.vip^
+||68gb1.vip^
 ||68gb2025.com^
 ||68gb3.com^
 ||68h.club^
@@ -58225,6 +58229,12 @@
 ||68ky99.com^
 ||68kykf.com^
 ||68llky.com^
+||68lottery.com^
+||68lottery1.com^
+||68lottery2.com^
+||68lottery3.com^
+||68lottery4.com^
+||68lottery5.com^
 ||68ltt.com^
 ||68mmclub.com^
 ||68nova.net^
@@ -84223,6 +84233,7 @@
 ||aa9762.com^
 ||aa981.vip^
 ||aa9900.net^
+||aaa.m1cdn.com^
 ||aaa2022.com^
 ||aaa268.com^
 ||aaa51.bet^
@@ -85655,8 +85666,10 @@
 ||api.shbet3.com^
 ||api.shbetvv.com^
 ||api.sky88.fun^
+||api.sodo.host^
 ||api.st666.win^
 ||api.st66606.com^
+||api.t3cdn.com^
 ||api.t8bet999.com^
 ||api.t8betvip.com^
 ||api.uzzisk.site^
@@ -89781,6 +89794,7 @@
 ||betthenuts.com^
 ||betti.com^
 ||betting88th.com^
+||bettingroup.net^
 ||bettorodds.net^
 ||beturbet.com^
 ||beturway.com^
@@ -95195,6 +95209,7 @@
 ||cdn.vicplay.io^
 ||cdn.vwin010.com^
 ||cdn.winclub.net^
+||cdn.y2cdn.com^
 ||cdn2-node-h.tc-cdn.com^
 ||cdnnetworks.net^
 ||cdntoos.55888slot.com^
@@ -103074,6 +103089,7 @@
 ||game.b52.me^
 ||game.b52.win^
 ||game.b52d.club^
+||game.baccdn.com^
 ||game.bom52.club^
 ||game.man79.org^
 ||game.taib52.com^
@@ -105593,6 +105609,7 @@
 ||haoli509.com^
 ||haoli590.com^
 ||haoli647.com^
+||haon-jpnext.cdn-bebo.com^
 ||haovip0.com^
 ||haovip1.com^
 ||haovip2.com^
@@ -109066,6 +109083,7 @@
 ||i8bet.org^
 ||i8pal.com^
 ||i8vn.co^
+||i9-bet.com^
 ||i90901.com^
 ||i91hg.com^
 ||i9696.net^
@@ -109173,6 +109191,7 @@
 ||i9bet.group^
 ||i9bet.icu^
 ||i9bet.ink^
+||i9bet.llc^
 ||i9bet.love^
 ||i9bet.ltd^
 ||i9bet.men^
@@ -109203,6 +109222,7 @@
 ||i9bet1.win^
 ||i9bet10.com^
 ||i9bet100.com^
+||i9bet1000.com^
 ||i9bet101.com^
 ||i9bet102.com^
 ||i9bet103.com^
@@ -109225,15 +109245,70 @@
 ||i9bet119.com^
 ||i9bet12.com^
 ||i9bet120.com^
+||i9bet121.com^
 ||i9bet122.com^
+||i9bet123.com^
 ||i9bet124.com^
+||i9bet125.com^
+||i9bet126.com^
+||i9bet127.com^
+||i9bet128.com^
 ||i9bet129.com^
 ||i9bet13.com^
+||i9bet130.com^
+||i9bet131.com^
+||i9bet132.com^
+||i9bet133.com^
+||i9bet134.com^
+||i9bet135.com^
+||i9bet136.com^
+||i9bet137.com^
+||i9bet138.com^
+||i9bet139.com^
 ||i9bet14.com^
+||i9bet140.com^
+||i9bet141.com^
+||i9bet142.com^
+||i9bet143.com^
+||i9bet144.com^
 ||i9bet145.com^
+||i9bet146.com^
+||i9bet147.com^
+||i9bet148.com^
+||i9bet149.com^
 ||i9bet15.com^
+||i9bet150.com^
+||i9bet151.com^
+||i9bet152.com^
+||i9bet153.com^
+||i9bet154.com^
+||i9bet155.com^
+||i9bet156.com^
+||i9bet157.com^
+||i9bet158.com^
+||i9bet159.com^
 ||i9bet16.com^
+||i9bet160.com^
+||i9bet161.com^
+||i9bet162.com^
+||i9bet163.com^
+||i9bet164.com^
+||i9bet165.com^
+||i9bet166.com^
+||i9bet167.com^
+||i9bet168.com^
+||i9bet169.com^
 ||i9bet17.com^
+||i9bet170.com^
+||i9bet171.com^
+||i9bet172.com^
+||i9bet173.com^
+||i9bet174.com^
+||i9bet175.com^
+||i9bet176.com^
+||i9bet177.com^
+||i9bet178.com^
+||i9bet179.com^
 ||i9bet18.com^
 ||i9bet19.com^
 ||i9bet2.com^
@@ -109329,6 +109404,8 @@
 ||i9bet92.com^
 ||i9bet93.com^
 ||i9bet94.com^
+||i9bet95.com^
+||i9bet96.com^
 ||i9bet97.com^
 ||i9bet98.com^
 ||i9bet99.com^
@@ -118462,6 +118539,7 @@
 ||kuviet.com^
 ||kuvip789.biz^
 ||kuw532hc.life^
+||kuwaitfunddev.com^
 ||kuwdy.com^
 ||kuwin.bet^
 ||kuzuanwang.com^
@@ -119318,6 +119396,7 @@
 ||linkmoi188.com^
 ||linkmoi188.com^
 ||linkslot7000.top^
+||linkvao009.com^
 ||linkvaobong88w88.com^
 ||linkvaobw.info^
 ||linkvaoku.mobi^
@@ -122455,6 +122534,7 @@
 ||mhrnmhnrhrhwdx.com^
 ||mht2y.com^
 ||mhy4y.com^
+||mi1.xm-anticc.com^
 ||mi112.net^
 ||mi24p.com^
 ||mi330.net^
@@ -122568,6 +122648,12 @@
 ||mirrorlink.bet^
 ||mishos588654.vet^
 ||misobowl.com^
+||missbet.com^
+||missbet1.com^
+||missbet2.com^
+||missbet3.com^
+||missbet4.com^
+||missbet5.com^
 ||missnode.xyz^
 ||miu3.com^
 ||mix79.vip^
@@ -126844,6 +126930,7 @@
 ||play.go88l.top^
 ||play.go88s.tv^
 ||play.googlellplay.com^
+||play.gooogleplaymn.com^
 ||play.hit.club^
 ||play.hit1.co^
 ||play.hit38.club^
@@ -127672,6 +127759,7 @@
 ||qh250.com^
 ||qh263.com^
 ||qh298.com^
+||qh322.com^
 ||qh355.com^
 ||qh377.com^
 ||qh52.com^
@@ -129095,6 +129183,7 @@
 ||rerame.xyz^
 ||rerqn.com^
 ||res.12live.vip^
+||res.mmmgcdn.com^
 ||resources.bong90.bet^
 ||resucl.com^
 ||retailin.xyz^
@@ -129122,6 +129211,7 @@
 ||rg.choihitclub.run^
 ||rg.choiwin79.pro^
 ||rg5d3.com^
+||rgames.org^
 ||rgcsn.com^
 ||rglat.com^
 ||rgv35.com^
@@ -130252,6 +130342,7 @@
 ||sdhuq.com^
 ||sdje3.top^
 ||sdjlbg.xyz^
+||sdk.baccdn.com^
 ||sdkhn.com^
 ||sdlymedia.com^
 ||sdmhr.win^
@@ -131042,8 +131133,10 @@
 ||socvip9.club^
 ||socvipclub.info^
 ||sodo.buzz^
+||sodo.host^
 ||sodo01.com^
 ||sodo02.com^
+||sodo100.com^
 ||sodo103.com^
 ||sodo107.com^
 ||sodo109.com^
@@ -131052,8 +131145,10 @@
 ||sodo14.com^
 ||sodo15.com^
 ||sodo19.com^
+||sodo3839.com^
 ||sodo66.app^
 ||sodo66.com^
+||sodo668.net^
 ||sodo66app.com^
 ||sodo678.com^
 ||sodo6868.com^
@@ -131644,10 +131739,14 @@
 ||sv2888.com^
 ||sv2888.net^
 ||sv322.net^
+||sv368.casino^
 ||sv368.com^
 ||sv368.fun^
 ||sv368.net^
+||sv368.one^
+||sv368.vin^
 ||sv368.vip^
+||sv368ga.com^
 ||sv388.biz^
 ||sv388.cam^
 ||sv388.cloud^
@@ -131982,6 +132081,7 @@
 ||t0941.com^
 ||t0964.com^
 ||t0gvf.com^
+||t1.m1cdn.com^
 ||t1.ta88.com^
 ||t1085.com^
 ||t10888.com^
@@ -137522,6 +137622,7 @@
 ||vnq8.com^
 ||vnq8.net^
 ||vnq8.win^
+||vnrg5269.com^
 ||vns-15399.com^
 ||vns-51366.com^
 ||vns-881366.com^
@@ -139668,6 +139769,7 @@
 ||winforever.bio^
 ||winfph.com^
 ||wing1688.autos^
+||wingo88.vin^
 ||wingolds.com^
 ||wingorengan.com^
 ||wingph.com^
@@ -140390,6 +140492,7 @@
 ||www-pc95.com^
 ||www-pc9595.com^
 ||www-pg777.com^
+||www-sodo.com^
 ||www-z6666.com^
 ||www-z66666.com^
 ||www00000880.com^
@@ -148190,6 +148293,7 @@
 ||zzrzzs.xyz^
 ||zzw111.com^
 ||zzw118.com^
+||zzz.m1cdn.com^
 ||zzz5454.com^
 ||zzz7337.com^
 ||zzzz5454.com^

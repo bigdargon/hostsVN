@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 12 Jan 2024 09:39 UTC+7
-! Version: 2401120939
-! Blocked: 4,683 rules
+! Last modified: 13 Jan 2024 12:34 UTC+7
+! Version: 2401131234
+! Blocked: 4,710 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -10,6 +10,7 @@
 ||0066130.com^
 ||0077130.com^
 ||009.casino^
+||009.com^
 ||009songbai.com^
 ||010bestk8.com^
 ||011bestk8.com^
@@ -197,6 +198,7 @@
 ||558kbet.com^
 ||55qh88.com^
 ||570manx.com^
+||58cc.live^
 ||59y2x.com^
 ||5shbet.com^
 ||608822.com^
@@ -215,10 +217,13 @@
 ||68gamebai.tel^
 ||68gamebai4.com^
 ||68gamebaix.com^
+||68gb.cam^
 ||68gb.vip^
+||68gb1.vip^
 ||68gb2025.com^
 ||68gb3.com^
 ||68iwin.club^
+||68lottery.com^
 ||68rich.com^
 ||68rich.org^
 ||69dinhtruong.com^
@@ -641,6 +646,7 @@
 ||api.shbet3.com^
 ||api.shbetvv.com^
 ||api.sky88.fun^
+||api.sodo.host^
 ||api.st666.win^
 ||api.st66606.com^
 ||api.t8bet999.com^
@@ -741,6 +747,7 @@
 ||betk8vn.net^
 ||betlixi88.net^
 ||betlv.com^
+||bettingroup.net^
 ||betvietnam.info^
 ||betvisa.com^
 ||betvnd.cc^
@@ -1493,6 +1500,7 @@
 ||hx9119.com^
 ||i1lnr.com^
 ||i8bet.org^
+||i9-bet.com^
 ||i99902.com^
 ||i99903.com^
 ||i99904.com^
@@ -1502,6 +1510,7 @@
 ||i9bet.app^
 ||i9bet.bet^
 ||i9bet.com^
+||i9bet.llc^
 ||i9bet.net^
 ||i9bet.poker^
 ||i9bet.vip^
@@ -3048,6 +3057,7 @@
 ||kufun.me^
 ||kufun.site^
 ||kufun.win^
+||kuwaitfunddev.com^
 ||kuwin.bet^
 ||lambada-tx1app.fun^
 ||langvuichoi.net^
@@ -3061,6 +3071,7 @@
 ||linkbk8.com^
 ||linkbong88moinhat.com^
 ||linkmoi188.com^
+||linkvao009.com^
 ||linkvaobong88w88.com^
 ||linkvaobw.info^
 ||linkvaom88.xyz^
@@ -3335,6 +3346,7 @@
 ||minicasino.io^
 ||minigame.vnloto.com^
 ||minivn.com^
+||missbet.com^
 ||mix79.vip^
 ||mkt.11bet.us^
 ||mkt.debet.com^
@@ -3648,6 +3660,7 @@
 ||qh236.com^
 ||qh238.com^
 ||qh250.com^
+||qh322.com^
 ||qh52.com^
 ||qh91.com^
 ||qq101.com^
@@ -3679,6 +3692,7 @@
 ||rewards.w88bkk.com^
 ||rg.choihitclub.run^
 ||rg.choiwin79.pro^
+||rgames.org^
 ||rgcsn.com^
 ||rik.bet^
 ||rik.club^
@@ -3813,6 +3827,9 @@
 ||soco88.com^
 ||socvip.com^
 ||socvip9.club^
+||sodo.host^
+||sodo02.com^
+||sodo100.com^
 ||sodo103.com^
 ||sodo107.com^
 ||sodo109.com^
@@ -3820,7 +3837,10 @@
 ||sodo13.com^
 ||sodo14.com^
 ||sodo15.com^
+||sodo3839.com^
 ||sodo66.app^
+||sodo66.com^
+||sodo668.net^
 ||sodo678.com^
 ||sodo6868.com^
 ||sodoviet.net^
@@ -3882,7 +3902,11 @@
 ||sv1.sv88vn.com^
 ||sv1.sv88vn.net^
 ||sv288.net^
+||sv368.casino^
+||sv368.one^
+||sv368.vin^
 ||sv368.vip^
+||sv368ga.com^
 ||sv388.biz^
 ||sv388.cam^
 ||sv388.cloud^
@@ -4370,6 +4394,7 @@
 ||vnq8.com^
 ||vnq8.net^
 ||vnq8.win^
+||vnrg5269.com^
 ||vntop88.com^
 ||vnvwbet.com^
 ||vnvwin.com^
@@ -4570,6 +4595,7 @@
 ||winbet99.co^
 ||winbet999.info^
 ||winclub.net^
+||wingo88.vin^
 ||wintbr.com^
 ||winvn.vip^
 ||winvn13.com^
@@ -4594,6 +4620,7 @@
 ||www-989bet.com^
 ||www-c54.com^
 ||www-ee88.com^
+||www-sodo.com^
 ||wy88vn.com^
 ||wyn.club^
 ||wyn88.ski^

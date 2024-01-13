@@ -1,14 +1,15 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 12 Jan 2024 09:39 UTC+7
-! Version: 2401120939
-! Blocked: 3,729 rules
+! Last modified: 13 Jan 2024 12:34 UTC+7
+! Version: 2401131234
+! Blocked: 3,744 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
 ||0088shop.com^
 ||009855.com^
 ||0fb.co^
+||113-bca.online^
 ||11promax.xakhohangtrungbay.site^
 ||11tiki.com^
 ||123-vay.com^
@@ -130,6 +131,7 @@
 ||amqa11.com^
 ||anbinh-finance.club^
 ||anzvn.net^
+||aodainusinh-cuoinam20233.weebly.com^
 ||aodaisieuvietnhi2022.weebly.com^
 ||app.amazon-line.com^
 ||app.mybigc.net^
@@ -263,6 +265,7 @@
 ||citi-vietnam.com^
 ||citivay.org^
 ||cl247.me^
+||clb.vin^
 ||clmm.me^
 ||clmm.nl^
 ||clmm.pe^
@@ -324,6 +327,7 @@
 ||cryptooexchange.xyz^
 ||cskh-dienmay-xanh.com^
 ||cskh-dienmayxanhvn.com^
+||cskh-the-vpbank.com^
 ||cskhdienmayxanh.com^
 ||cskhdienmayxanhvn.com^
 ||cskhmayxanh.com^
@@ -337,6 +341,8 @@
 ||currencyconverterbanking.weebly.com^
 ||cvietcombank.com^
 ||d.gdtgov.cfd^
+||dadw11.com^
+||dadw55.com^
 ||daef33.com^
 ||daikinvietnam.vn^
 ||daisyshopp.com^
@@ -357,6 +363,7 @@
 ||dangkytruyenhinhcap.com^
 ||dangkyvay-bank247.net^
 ||dangkyvaybidv.com^
+||dantri.live^
 ||daohannganhang.click^
 ||datgrabsaigon.com^
 ||dathangdon.com^
@@ -372,6 +379,7 @@
 ||dhl-vietnam.vn^
 ||dhlexpress-vietnam.com.vn^
 ||dhlvietnam-express.vn^
+||dich-vu-kvip-vpbank.com^
 ||dich-vu-online-vpbank.com^
 ||dich-vu-the-ai-vpbank.com^
 ||dich-vu-the-ez-vpbank.com^
@@ -380,7 +388,13 @@
 ||dichvu-chuyentien24h.000webhostapp.com^
 ||dichvu-dien-mayxanh.com^
 ||dichvuchuyentien-ind.weebly.com^
+||dichvucong-gov.com^
+||dichvucong.agov.net^
+||dichvucong.dancuquocgia.net^
 ||dichvucong.hgov.cc^
+||dichvucong.hgov.net^
+||dichvucong.kgov.net^
+||dichvucong.lgov.net^
 ||dichvucong.tgovn.cc^
 ||dichvucong.vgovn.net^
 ||dichvucongbaohiemxahoi.com^
@@ -477,6 +491,7 @@
 ||facabook.id.vn^
 ||face-book.co^
 ||facebook.c0m.ltd^
+||facebook92288.blogspot.com^
 ||facebookk.life^
 ||facebookvni.com^
 ||faecbooks.com^
@@ -799,6 +814,7 @@
 ||hpy88yu.com^
 ||hrbgw.shop^
 ||hs38ma.cyou^
+||hsusd.com^
 ||https-apple.com^
 ||https-icloud.com^
 ||huaxinapp1.com^
@@ -823,6 +839,7 @@
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
 ||idapple.com^
 ||idnhanquatang.vn^
+||idvideo238544.blogspot.com^
 ||idvideo678.blogspot.com^
 ||igoda.shop^
 ||iisacombank.com^
@@ -1108,6 +1125,8 @@
 ||m-fecabook.com^
 ||m.12luxury.com^
 ||m.1svi101.com^
+||m.5u1io.com^
+||m.duftpe.com^
 ||m.hi1222.com^
 ||m.kone365.com^
 ||m.luxurysvip888.com^
@@ -1127,6 +1146,7 @@
 ||maivang.xyz^
 ||mallshopvn.vip^
 ||mallslazada.com^
+||master-visa-nang-hang-ca-nhan-vib.com^
 ||mastercard-quetthetindung247.com^
 ||mavietnam.xyz^
 ||mayanpuzzle.com^
@@ -1353,7 +1373,9 @@
 ||myshopee13.com^
 ||myshopee7.vip^
 ||nang-cap-online-vpbank.com^
+||nang-han-muc-ido-vpbank.com^
 ||nang-han-muc-vip-vpbank.com^
+||nang-hang-tin-dung-ca-nhan.com^
 ||nanghanmuc-thetindung.com^
 ||nanghanmuc-tindungvn.com^
 ||nanghanmuc-vp.online^
@@ -2371,16 +2393,7 @@
 ||snapdeal26.com^
 ||snapdeal33.com^
 ||sodj88.com^
-||sodo02.com^
-||sodo100.com^
-||sodo12.com^
-||sodo13.com^
-||sodo15.com^
-||sodo3839.com^
-||sodo66.com^
-||sodo668.net^
 ||softwarefpt.com^
-||soicauviet.com^
 ||somnio-evolve.com^
 ||sopper68.com^
 ||sos-icloud.com^
@@ -3342,6 +3355,7 @@
 ||vimomo.monster^
 ||vimomo.vip^
 ||vinacombank.com^
+||vinaconex.org^
 ||vincomonevip.net^
 ||vingroup.shop^
 ||vingroupinvestment.com^
@@ -3445,6 +3459,7 @@
 ||vn.btaynguyenfood.com^
 ||vn11268shp.com^
 ||vn119shop.com^
+||vn168d.com^
 ||vn22647shp.com^
 ||vn268.com^
 ||vn277shop.com^

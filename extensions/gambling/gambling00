@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 12 Jan 2024 09:39 UTC+7
-# Version: 2401120939
-# Blocked: 149,527 domains
+# Last modified: 13 Jan 2024 12:34 UTC+7
+# Version: 2401131234
+# Blocked: 149,634 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -756,6 +756,7 @@
 0.0.0.0 008yabo.com
 0.0.0.0 008yd.com
 0.0.0.0 009.casino
+0.0.0.0 009.com
 0.0.0.0 00900.biz
 0.0.0.0 00900.mba
 0.0.0.0 009000.org
@@ -44997,4 +44998,3 @@
 0.0.0.0 52v76.com
 0.0.0.0 52v77.com
 0.0.0.0 52v79.com
-0.0.0.0 52v81.com

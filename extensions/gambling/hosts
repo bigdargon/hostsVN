@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 12 Jan 2024 09:39 UTC+7
-# Version: 2401120939
-# Blocked: 149,527 domains
+# Last modified: 13 Jan 2024 12:34 UTC+7
+# Version: 2401131234
+# Blocked: 149,634 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -756,6 +756,7 @@
 0.0.0.0 008yabo.com
 0.0.0.0 008yd.com
 0.0.0.0 009.casino
+0.0.0.0 009.com
 0.0.0.0 00900.biz
 0.0.0.0 00900.mba
 0.0.0.0 009000.org
@@ -49843,6 +49844,7 @@
 0.0.0.0 58betvip.com
 0.0.0.0 58btt.com
 0.0.0.0 58btt.net
+0.0.0.0 58cc.live
 0.0.0.0 58cro.com
 0.0.0.0 58h2n.com
 0.0.0.0 58hg1.com
@@ -58187,7 +58189,9 @@
 0.0.0.0 68gamebai.tel
 0.0.0.0 68gamebai4.com
 0.0.0.0 68gamebaix.com
+0.0.0.0 68gb.cam
 0.0.0.0 68gb.vip
+0.0.0.0 68gb1.vip
 0.0.0.0 68gb2025.com
 0.0.0.0 68gb3.com
 0.0.0.0 68h.club
@@ -58222,6 +58226,12 @@
 0.0.0.0 68ky99.com
 0.0.0.0 68kykf.com
 0.0.0.0 68llky.com
+0.0.0.0 68lottery.com
+0.0.0.0 68lottery1.com
+0.0.0.0 68lottery2.com
+0.0.0.0 68lottery3.com
+0.0.0.0 68lottery4.com
+0.0.0.0 68lottery5.com
 0.0.0.0 68ltt.com
 0.0.0.0 68mmclub.com
 0.0.0.0 68nova.net
@@ -84211,6 +84221,7 @@
 0.0.0.0 aa9762.com
 0.0.0.0 aa981.vip
 0.0.0.0 aa9900.net
+0.0.0.0 aaa.m1cdn.com
 0.0.0.0 aaa2022.com
 0.0.0.0 aaa268.com
 0.0.0.0 aaa51.bet
@@ -85640,8 +85651,10 @@
 0.0.0.0 api.shbet3.com
 0.0.0.0 api.shbetvv.com
 0.0.0.0 api.sky88.fun
+0.0.0.0 api.sodo.host
 0.0.0.0 api.st666.win
 0.0.0.0 api.st66606.com
+0.0.0.0 api.t3cdn.com
 0.0.0.0 api.t8bet999.com
 0.0.0.0 api.t8betvip.com
 0.0.0.0 api.uzzisk.site
@@ -89766,6 +89779,7 @@
 0.0.0.0 betthenuts.com
 0.0.0.0 betti.com
 0.0.0.0 betting88th.com
+0.0.0.0 bettingroup.net
 0.0.0.0 bettorodds.net
 0.0.0.0 beturbet.com
 0.0.0.0 beturway.com
@@ -95179,6 +95193,7 @@
 0.0.0.0 cdn.vicplay.io
 0.0.0.0 cdn.vwin010.com
 0.0.0.0 cdn.winclub.net
+0.0.0.0 cdn.y2cdn.com
 0.0.0.0 cdn2-node-h.tc-cdn.com
 0.0.0.0 cdnnetworks.net
 0.0.0.0 cdntoos.55888slot.com
@@ -103051,6 +103066,7 @@
 0.0.0.0 game.b52.me
 0.0.0.0 game.b52.win
 0.0.0.0 game.b52d.club
+0.0.0.0 game.baccdn.com
 0.0.0.0 game.bom52.club
 0.0.0.0 game.man79.org
 0.0.0.0 game.taib52.com
@@ -105569,6 +105585,7 @@
 0.0.0.0 haoli509.com
 0.0.0.0 haoli590.com
 0.0.0.0 haoli647.com
+0.0.0.0 haon-jpnext.cdn-bebo.com
 0.0.0.0 haovip0.com
 0.0.0.0 haovip1.com
 0.0.0.0 haovip2.com
@@ -109038,6 +109055,7 @@
 0.0.0.0 i8bet.org
 0.0.0.0 i8pal.com
 0.0.0.0 i8vn.co
+0.0.0.0 i9-bet.com
 0.0.0.0 i90901.com
 0.0.0.0 i91hg.com
 0.0.0.0 i9696.net
@@ -109145,6 +109163,7 @@
 0.0.0.0 i9bet.group
 0.0.0.0 i9bet.icu
 0.0.0.0 i9bet.ink
+0.0.0.0 i9bet.llc
 0.0.0.0 i9bet.love
 0.0.0.0 i9bet.ltd
 0.0.0.0 i9bet.men
@@ -109175,6 +109194,7 @@
 0.0.0.0 i9bet1.win
 0.0.0.0 i9bet10.com
 0.0.0.0 i9bet100.com
+0.0.0.0 i9bet1000.com
 0.0.0.0 i9bet101.com
 0.0.0.0 i9bet102.com
 0.0.0.0 i9bet103.com
@@ -109197,15 +109217,70 @@
 0.0.0.0 i9bet119.com
 0.0.0.0 i9bet12.com
 0.0.0.0 i9bet120.com
+0.0.0.0 i9bet121.com
 0.0.0.0 i9bet122.com
+0.0.0.0 i9bet123.com
 0.0.0.0 i9bet124.com
+0.0.0.0 i9bet125.com
+0.0.0.0 i9bet126.com
+0.0.0.0 i9bet127.com
+0.0.0.0 i9bet128.com
 0.0.0.0 i9bet129.com
 0.0.0.0 i9bet13.com
+0.0.0.0 i9bet130.com
+0.0.0.0 i9bet131.com
+0.0.0.0 i9bet132.com
+0.0.0.0 i9bet133.com
+0.0.0.0 i9bet134.com
+0.0.0.0 i9bet135.com
+0.0.0.0 i9bet136.com
+0.0.0.0 i9bet137.com
+0.0.0.0 i9bet138.com
+0.0.0.0 i9bet139.com
 0.0.0.0 i9bet14.com
+0.0.0.0 i9bet140.com
+0.0.0.0 i9bet141.com
+0.0.0.0 i9bet142.com
+0.0.0.0 i9bet143.com
+0.0.0.0 i9bet144.com
 0.0.0.0 i9bet145.com
+0.0.0.0 i9bet146.com
+0.0.0.0 i9bet147.com
+0.0.0.0 i9bet148.com
+0.0.0.0 i9bet149.com
 0.0.0.0 i9bet15.com
+0.0.0.0 i9bet150.com
+0.0.0.0 i9bet151.com
+0.0.0.0 i9bet152.com
+0.0.0.0 i9bet153.com
+0.0.0.0 i9bet154.com
+0.0.0.0 i9bet155.com
+0.0.0.0 i9bet156.com
+0.0.0.0 i9bet157.com
+0.0.0.0 i9bet158.com
+0.0.0.0 i9bet159.com
 0.0.0.0 i9bet16.com
+0.0.0.0 i9bet160.com
+0.0.0.0 i9bet161.com
+0.0.0.0 i9bet162.com
+0.0.0.0 i9bet163.com
+0.0.0.0 i9bet164.com
+0.0.0.0 i9bet165.com
+0.0.0.0 i9bet166.com
+0.0.0.0 i9bet167.com
+0.0.0.0 i9bet168.com
+0.0.0.0 i9bet169.com
 0.0.0.0 i9bet17.com
+0.0.0.0 i9bet170.com
+0.0.0.0 i9bet171.com
+0.0.0.0 i9bet172.com
+0.0.0.0 i9bet173.com
+0.0.0.0 i9bet174.com
+0.0.0.0 i9bet175.com
+0.0.0.0 i9bet176.com
+0.0.0.0 i9bet177.com
+0.0.0.0 i9bet178.com
+0.0.0.0 i9bet179.com
 0.0.0.0 i9bet18.com
 0.0.0.0 i9bet19.com
 0.0.0.0 i9bet2.com
@@ -109301,6 +109376,8 @@
 0.0.0.0 i9bet92.com
 0.0.0.0 i9bet93.com
 0.0.0.0 i9bet94.com
+0.0.0.0 i9bet95.com
+0.0.0.0 i9bet96.com
 0.0.0.0 i9bet97.com
 0.0.0.0 i9bet98.com
 0.0.0.0 i9bet99.com
@@ -118434,6 +118511,7 @@
 0.0.0.0 kuviet.com
 0.0.0.0 kuvip789.biz
 0.0.0.0 kuw532hc.life
+0.0.0.0 kuwaitfunddev.com
 0.0.0.0 kuwdy.com
 0.0.0.0 kuwin.bet
 0.0.0.0 kuzuanwang.com
@@ -119284,6 +119362,7 @@
 0.0.0.0 linkmb.net
 0.0.0.0 linkmoi188.com
 0.0.0.0 linkslot7000.top
+0.0.0.0 linkvao009.com
 0.0.0.0 linkvaobong88w88.com
 0.0.0.0 linkvaobw.info
 0.0.0.0 linkvaoku.mobi
@@ -122420,6 +122499,7 @@
 0.0.0.0 mhrnmhnrhrhwdx.com
 0.0.0.0 mht2y.com
 0.0.0.0 mhy4y.com
+0.0.0.0 mi1.xm-anticc.com
 0.0.0.0 mi112.net
 0.0.0.0 mi24p.com
 0.0.0.0 mi330.net
@@ -122533,6 +122613,12 @@
 0.0.0.0 mirrorlink.bet
 0.0.0.0 mishos588654.vet
 0.0.0.0 misobowl.com
+0.0.0.0 missbet.com
+0.0.0.0 missbet1.com
+0.0.0.0 missbet2.com
+0.0.0.0 missbet3.com
+0.0.0.0 missbet4.com
+0.0.0.0 missbet5.com
 0.0.0.0 missnode.xyz
 0.0.0.0 miu3.com
 0.0.0.0 mix79.vip
@@ -126806,6 +126892,7 @@
 0.0.0.0 play.go88l.top
 0.0.0.0 play.go88s.tv
 0.0.0.0 play.googlellplay.com
+0.0.0.0 play.gooogleplaymn.com
 0.0.0.0 play.hit.club
 0.0.0.0 play.hit1.co
 0.0.0.0 play.hit38.club
@@ -127634,6 +127721,7 @@
 0.0.0.0 qh250.com
 0.0.0.0 qh263.com
 0.0.0.0 qh298.com
+0.0.0.0 qh322.com
 0.0.0.0 qh355.com
 0.0.0.0 qh377.com
 0.0.0.0 qh52.com
@@ -129055,6 +129143,7 @@
 0.0.0.0 rerame.xyz
 0.0.0.0 rerqn.com
 0.0.0.0 res.12live.vip
+0.0.0.0 res.mmmgcdn.com
 0.0.0.0 resources.bong90.bet
 0.0.0.0 resucl.com
 0.0.0.0 retailin.xyz
@@ -129082,6 +129171,7 @@
 0.0.0.0 rg.choihitclub.run
 0.0.0.0 rg.choiwin79.pro
 0.0.0.0 rg5d3.com
+0.0.0.0 rgames.org
 0.0.0.0 rgcsn.com
 0.0.0.0 rglat.com
 0.0.0.0 rgv35.com
@@ -130212,6 +130302,7 @@
 0.0.0.0 sdhuq.com
 0.0.0.0 sdje3.top
 0.0.0.0 sdjlbg.xyz
+0.0.0.0 sdk.baccdn.com
 0.0.0.0 sdkhn.com
 0.0.0.0 sdlymedia.com
 0.0.0.0 sdmhr.win
@@ -130997,8 +131088,10 @@
 0.0.0.0 socvip9.club
 0.0.0.0 socvipclub.info
 0.0.0.0 sodo.buzz
+0.0.0.0 sodo.host
 0.0.0.0 sodo01.com
 0.0.0.0 sodo02.com
+0.0.0.0 sodo100.com
 0.0.0.0 sodo103.com
 0.0.0.0 sodo107.com
 0.0.0.0 sodo109.com
@@ -131007,8 +131100,10 @@
 0.0.0.0 sodo14.com
 0.0.0.0 sodo15.com
 0.0.0.0 sodo19.com
+0.0.0.0 sodo3839.com
 0.0.0.0 sodo66.app
 0.0.0.0 sodo66.com
+0.0.0.0 sodo668.net
 0.0.0.0 sodo66app.com
 0.0.0.0 sodo678.com
 0.0.0.0 sodo6868.com
@@ -131599,10 +131694,14 @@
 0.0.0.0 sv2888.com
 0.0.0.0 sv2888.net
 0.0.0.0 sv322.net
+0.0.0.0 sv368.casino
 0.0.0.0 sv368.com
 0.0.0.0 sv368.fun
 0.0.0.0 sv368.net
+0.0.0.0 sv368.one
+0.0.0.0 sv368.vin
 0.0.0.0 sv368.vip
+0.0.0.0 sv368ga.com
 0.0.0.0 sv388.biz
 0.0.0.0 sv388.cam
 0.0.0.0 sv388.cloud
@@ -131937,6 +132036,7 @@
 0.0.0.0 t0941.com
 0.0.0.0 t0964.com
 0.0.0.0 t0gvf.com
+0.0.0.0 t1.m1cdn.com
 0.0.0.0 t1.ta88.com
 0.0.0.0 t1085.com
 0.0.0.0 t10888.com
@@ -137473,6 +137573,7 @@
 0.0.0.0 vnq8.com
 0.0.0.0 vnq8.net
 0.0.0.0 vnq8.win
+0.0.0.0 vnrg5269.com
 0.0.0.0 vns-15399.com
 0.0.0.0 vns-51366.com
 0.0.0.0 vns-881366.com
@@ -139618,6 +139719,7 @@
 0.0.0.0 winforever.bio
 0.0.0.0 winfph.com
 0.0.0.0 wing1688.autos
+0.0.0.0 wingo88.vin
 0.0.0.0 wingolds.com
 0.0.0.0 wingorengan.com
 0.0.0.0 wingph.com
@@ -140339,6 +140441,7 @@
 0.0.0.0 www-pc95.com
 0.0.0.0 www-pc9595.com
 0.0.0.0 www-pg777.com
+0.0.0.0 www-sodo.com
 0.0.0.0 www-z6666.com
 0.0.0.0 www-z66666.com
 0.0.0.0 www.0066130.com
@@ -140415,6 +140518,7 @@
 0.0.0.0 www.55888slot.com
 0.0.0.0 www.558kbet.com
 0.0.0.0 www.55qh88.com
+0.0.0.0 www.58cc.live
 0.0.0.0 www.5shbet.com
 0.0.0.0 www.608822.com
 0.0.0.0 www.668kbet.com
@@ -141492,6 +141596,7 @@
 0.0.0.0 www.qh250.com
 0.0.0.0 www.qh263.com
 0.0.0.0 www.qh298.com
+0.0.0.0 www.qh322.com
 0.0.0.0 www.qh355.com
 0.0.0.0 www.qh377.com
 0.0.0.0 www.qq288.com
@@ -141525,6 +141630,7 @@
 0.0.0.0 www.sky88.win
 0.0.0.0 www.slotocash.im
 0.0.0.0 www.socvip9.club
+0.0.0.0 www.sodo.host
 0.0.0.0 www.sodo107.com
 0.0.0.0 www.sodo109.com
 0.0.0.0 www.sodo14.com
@@ -149534,6 +149640,7 @@
 0.0.0.0 zzrzzs.xyz
 0.0.0.0 zzw111.com
 0.0.0.0 zzw118.com
+0.0.0.0 zzz.m1cdn.com
 0.0.0.0 zzz5454.com
 0.0.0.0 zzz7337.com
 0.0.0.0 zzzz5454.com

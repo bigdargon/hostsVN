@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 12 Jan 2024 09:39 UTC+7
-# Version: 2401120939
-# Blocked: 3,779 domains
+# Last modified: 13 Jan 2024 12:34 UTC+7
+# Version: 2401131234
+# Blocked: 3,794 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13,6 +13,7 @@
 0.0.0.0 0088shop.com
 0.0.0.0 009855.com
 0.0.0.0 0fb.co
+0.0.0.0 113-bca.online
 0.0.0.0 11promax.xakhohangtrungbay.site
 0.0.0.0 11tiki.com
 0.0.0.0 123-vay.com
@@ -134,6 +135,7 @@
 0.0.0.0 amqa11.com
 0.0.0.0 anbinh-finance.club
 0.0.0.0 anzvn.net
+0.0.0.0 aodainusinh-cuoinam20233.weebly.com
 0.0.0.0 aodaisieuvietnhi2022.weebly.com
 0.0.0.0 app.amazon-line.com
 0.0.0.0 app.mybigc.net
@@ -267,6 +269,7 @@
 0.0.0.0 citi-vietnam.com
 0.0.0.0 citivay.org
 0.0.0.0 cl247.me
+0.0.0.0 clb.vin
 0.0.0.0 clmm.me
 0.0.0.0 clmm.nl
 0.0.0.0 clmm.pe
@@ -328,6 +331,7 @@
 0.0.0.0 cryptooexchange.xyz
 0.0.0.0 cskh-dienmay-xanh.com
 0.0.0.0 cskh-dienmayxanhvn.com
+0.0.0.0 cskh-the-vpbank.com
 0.0.0.0 cskhdienmayxanh.com
 0.0.0.0 cskhdienmayxanhvn.com
 0.0.0.0 cskhmayxanh.com
@@ -341,6 +345,8 @@
 0.0.0.0 currencyconverterbanking.weebly.com
 0.0.0.0 cvietcombank.com
 0.0.0.0 d.gdtgov.cfd
+0.0.0.0 dadw11.com
+0.0.0.0 dadw55.com
 0.0.0.0 daef33.com
 0.0.0.0 daikinvietnam.vn
 0.0.0.0 daisyshopp.com
@@ -361,6 +367,7 @@
 0.0.0.0 dangkytruyenhinhcap.com
 0.0.0.0 dangkyvay-bank247.net
 0.0.0.0 dangkyvaybidv.com
+0.0.0.0 dantri.live
 0.0.0.0 daohannganhang.click
 0.0.0.0 datgrabsaigon.com
 0.0.0.0 dathangdon.com
@@ -376,6 +383,7 @@
 0.0.0.0 dhl-vietnam.vn
 0.0.0.0 dhlexpress-vietnam.com.vn
 0.0.0.0 dhlvietnam-express.vn
+0.0.0.0 dich-vu-kvip-vpbank.com
 0.0.0.0 dich-vu-online-vpbank.com
 0.0.0.0 dich-vu-the-ai-vpbank.com
 0.0.0.0 dich-vu-the-ez-vpbank.com
@@ -384,7 +392,13 @@
 0.0.0.0 dichvu-chuyentien24h.000webhostapp.com
 0.0.0.0 dichvu-dien-mayxanh.com
 0.0.0.0 dichvuchuyentien-ind.weebly.com
+0.0.0.0 dichvucong-gov.com
+0.0.0.0 dichvucong.agov.net
+0.0.0.0 dichvucong.dancuquocgia.net
 0.0.0.0 dichvucong.hgov.cc
+0.0.0.0 dichvucong.hgov.net
+0.0.0.0 dichvucong.kgov.net
+0.0.0.0 dichvucong.lgov.net
 0.0.0.0 dichvucong.tgovn.cc
 0.0.0.0 dichvucong.vgovn.net
 0.0.0.0 dichvucongbaohiemxahoi.com
@@ -480,6 +494,7 @@
 0.0.0.0 facabook.id.vn
 0.0.0.0 face-book.co
 0.0.0.0 facebook.c0m.ltd
+0.0.0.0 facebook92288.blogspot.com
 0.0.0.0 facebookk.life
 0.0.0.0 facebookvni.com
 0.0.0.0 faecbooks.com
@@ -802,6 +817,7 @@
 0.0.0.0 hpy88yu.com
 0.0.0.0 hrbgw.shop
 0.0.0.0 hs38ma.cyou
+0.0.0.0 hsusd.com
 0.0.0.0 https-apple.com
 0.0.0.0 https-icloud.com
 0.0.0.0 huaxinapp1.com
@@ -826,6 +842,7 @@
 0.0.0.0 id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
 0.0.0.0 idapple.com
 0.0.0.0 idnhanquatang.vn
+0.0.0.0 idvideo238544.blogspot.com
 0.0.0.0 idvideo678.blogspot.com
 0.0.0.0 igoda.shop
 0.0.0.0 iisacombank.com
@@ -1108,6 +1125,8 @@
 0.0.0.0 m-fecabook.com
 0.0.0.0 m.12luxury.com
 0.0.0.0 m.1svi101.com
+0.0.0.0 m.5u1io.com
+0.0.0.0 m.duftpe.com
 0.0.0.0 m.hi1222.com
 0.0.0.0 m.kone365.com
 0.0.0.0 m.luxurysvip888.com
@@ -1127,6 +1146,7 @@
 0.0.0.0 maivang.xyz
 0.0.0.0 mallshopvn.vip
 0.0.0.0 mallslazada.com
+0.0.0.0 master-visa-nang-hang-ca-nhan-vib.com
 0.0.0.0 mastercard-quetthetindung247.com
 0.0.0.0 mavietnam.xyz
 0.0.0.0 mayanpuzzle.com
@@ -1353,7 +1373,9 @@
 0.0.0.0 myshopee13.com
 0.0.0.0 myshopee7.vip
 0.0.0.0 nang-cap-online-vpbank.com
+0.0.0.0 nang-han-muc-ido-vpbank.com
 0.0.0.0 nang-han-muc-vip-vpbank.com
+0.0.0.0 nang-hang-tin-dung-ca-nhan.com
 0.0.0.0 nanghanmuc-thetindung.com
 0.0.0.0 nanghanmuc-tindungvn.com
 0.0.0.0 nanghanmuc-vp.online
@@ -2371,16 +2393,7 @@
 0.0.0.0 snapdeal26.com
 0.0.0.0 snapdeal33.com
 0.0.0.0 sodj88.com
-0.0.0.0 sodo02.com
-0.0.0.0 sodo100.com
-0.0.0.0 sodo12.com
-0.0.0.0 sodo13.com
-0.0.0.0 sodo15.com
-0.0.0.0 sodo3839.com
-0.0.0.0 sodo66.com
-0.0.0.0 sodo668.net
 0.0.0.0 softwarefpt.com
-0.0.0.0 soicauviet.com
 0.0.0.0 somnio-evolve.com
 0.0.0.0 sopper68.com
 0.0.0.0 sos-icloud.com
@@ -3340,6 +3353,7 @@
 0.0.0.0 vimomo.monster
 0.0.0.0 vimomo.vip
 0.0.0.0 vinacombank.com
+0.0.0.0 vinaconex.org
 0.0.0.0 vincomonevip.net
 0.0.0.0 vingroup.shop
 0.0.0.0 vingroupinvestment.com
@@ -3443,6 +3457,7 @@
 0.0.0.0 vn.btaynguyenfood.com
 0.0.0.0 vn11268shp.com
 0.0.0.0 vn119shop.com
+0.0.0.0 vn168d.com
 0.0.0.0 vn22647shp.com
 0.0.0.0 vn268.com
 0.0.0.0 vn277shop.com
