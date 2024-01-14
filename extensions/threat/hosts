@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 13 Jan 2024 12:34 UTC+7
-# Version: 2401131234
-# Blocked: 4,100 domains
+# Last modified: 14 Jan 2024 11:14 UTC+7
+# Version: 2401141114
+# Blocked: 4,101 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -456,6 +456,7 @@
 0.0.0.0 dangkyvay-bank247.net
 0.0.0.0 dangkyvaybidv.com
 0.0.0.0 dantri.live
+0.0.0.0 dantrii.info
 0.0.0.0 daohannganhang.click
 0.0.0.0 datamarketplace.net
 0.0.0.0 datgrabsaigon.com
