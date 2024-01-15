@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 15 Jan 2024 09:26 UTC+7
-# Version: 2401150926
-# Blocked: 5,366 domains
+# Last modified: 15 Jan 2024 23:09 UTC+7
+# Version: 2401152309
+# Blocked: 5,367 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3886,6 +3886,7 @@
 0.0.0.0 static2.8live.com
 0.0.0.0 static2.lucky88.com
 0.0.0.0 static3.lucky88.com
+0.0.0.0 stby.com
 0.0.0.0 su789.win
 0.0.0.0 sukien.fcb88.com
 0.0.0.0 sum4.club

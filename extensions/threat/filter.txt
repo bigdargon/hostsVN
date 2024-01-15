@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 15 Jan 2024 09:26 UTC+7
-! Version: 2401150926
-! Blocked: 4,049 rules
+! Last modified: 15 Jan 2024 23:09 UTC+7
+! Version: 2401152309
+! Blocked: 4,052 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1073,6 +1073,7 @@
 ||kfdg22.com^
 ||kfdg55.com^
 ||khangdz215.tk^
+||khcn-han-muc-tin-dung-ca-nhan.com^
 ||khcn-tindung-vp.com^
 ||khoanhkhacgiadinhdoantucuoinam.weebly.com^
 ||khoataikhoan-grn-vinhvien.xyz^
@@ -2652,6 +2653,7 @@
 ||sopper68.com^
 ||sos-icloud.com^
 ||sp315693vn.com^
+||sp8668vn.com^
 ||spark123.shop^
 ||spohopena.com^
 ||spohopenm.com^
@@ -3435,6 +3437,7 @@
 ||vib.tuvan-chamsockhachhang.com^
 ||vib8-vay.com^
 ||vib84.com^
+||vibcskh.com^
 ||vibvay.com^
 ||vibvayvn.com^
 ||videoid10006367.blogspot.com^

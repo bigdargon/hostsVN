@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 15 Jan 2024 09:26 UTC+7
-! Version: 2401150926
-! Blocked: 148,345 rules
+! Last modified: 15 Jan 2024 23:09 UTC+7
+! Version: 2401152309
+! Blocked: 148,361 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -85671,6 +85671,7 @@
 ||api.red88.vin^
 ||api.red88.vip^
 ||api.s999h.com^
+||api.sbty9.com^
 ||api.shbet0.com^
 ||api.shbet3.com^
 ||api.shbetvv.com^
@@ -85783,6 +85784,7 @@
 ||app6731.com^
 ||app68365.com^
 ||app6h.net^
+||app725.net^
 ||app7337.com^
 ||app789.net^
 ||app80999.com^
@@ -89698,6 +89700,7 @@
 ||betcmp.cn^
 ||betcom88.com^
 ||betconstraop.com^
+||betcrickets.com^
 ||betcuz.com^
 ||betday2.com^
 ||betdd7.net^
@@ -117945,6 +117948,7 @@
 ||kmmiwaw.xyz^
 ||kmppay.com^
 ||kmufe.top^
+||kn111.net^
 ||kn354.com^
 ||kn8rfs.top^
 ||kn8rfs.vip^
@@ -118527,6 +118531,8 @@
 ||kubet88b.net^
 ||kubet9.com^
 ||kubetae.com^
+||kubetindo.site^
+||kubetlogin.com^
 ||kubetnhacai.com^
 ||kubetso.com^
 ||kubetx.com^
@@ -130291,11 +130297,16 @@
 ||sbst666.com^
 ||sbst888.com^
 ||sbtianjin.com^
+||sbty0.com^
 ||sbty11.com^
+||sbty12.com^
+||sbty13.com^
 ||sbty22.com^
 ||sbty28.com^
+||sbty3.com^
 ||sbty33.com^
 ||sbty38.com^
+||sbty4.com^
 ||sbty44.com^
 ||sbty55.com^
 ||sbty66.com^
@@ -130303,8 +130314,10 @@
 ||sbty8.app^
 ||sbty8.net^
 ||sbty8.vip^
+||sbty80.com^
 ||sbty88.com^
 ||sbty888.com^
+||sbty9.com^
 ||sbyunnan.com^
 ||sbyz08.com^
 ||sbyz92.com^
@@ -131532,6 +131545,7 @@
 ||stavkabet.biz^
 ||stavkovakancelaria.sk^
 ||stavkuj.sk^
+||stby.com^
 ||stcroix-casinos.com^
 ||steadyplays.com^
 ||steamtj.org^
@@ -133669,6 +133683,7 @@
 ||topjbo.com^
 ||topjbostar.com^
 ||topjuju.xyz^
+||topkubet.com^
 ||toplaftns.com^
 ||topmatch69.com^
 ||topnhacaihot.com^
@@ -135481,6 +135496,7 @@
 ||upload.cdn-mb.com^
 ||upload.mu121.com^
 ||upload.qh089.com^
+||upload.sbty0.com^
 ||upload.sodo121.com^
 ||upload.vb113.com^
 ||upload.vn5959.com^

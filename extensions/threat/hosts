@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 15 Jan 2024 09:26 UTC+7
-# Version: 2401150926
-# Blocked: 4,102 domains
+# Last modified: 15 Jan 2024 23:09 UTC+7
+# Version: 2401152309
+# Blocked: 4,106 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1076,6 +1076,7 @@
 0.0.0.0 kfdg22.com
 0.0.0.0 kfdg55.com
 0.0.0.0 khangdz215.tk
+0.0.0.0 khcn-han-muc-tin-dung-ca-nhan.com
 0.0.0.0 khcn-tindung-vp.com
 0.0.0.0 khoanhkhacgiadinhdoantucuoinam.weebly.com
 0.0.0.0 khoataikhoan-grn-vinhvien.xyz
@@ -2652,6 +2653,7 @@
 0.0.0.0 sopper68.com
 0.0.0.0 sos-icloud.com
 0.0.0.0 sp315693vn.com
+0.0.0.0 sp8668vn.com
 0.0.0.0 spark123.shop
 0.0.0.0 spohopena.com
 0.0.0.0 spohopenm.com
@@ -3434,6 +3436,7 @@
 0.0.0.0 vib.tuvan-chamsockhachhang.com
 0.0.0.0 vib8-vay.com
 0.0.0.0 vib84.com
+0.0.0.0 vibcskh.com
 0.0.0.0 vibvay.com
 0.0.0.0 vibvayvn.com
 0.0.0.0 videoid10006367.blogspot.com
@@ -3453,6 +3456,7 @@
 0.0.0.0 vieclamfptt.one
 0.0.0.0 vieclamfptt.xyz
 0.0.0.0 vieclamhay1.com
+0.0.0.0 vieclamlazada.com.vn
 0.0.0.0 vieclamlazada.vn
 0.0.0.0 vieclammobile2019.com
 0.0.0.0 vieclamonha.online

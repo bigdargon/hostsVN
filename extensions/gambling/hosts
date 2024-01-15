@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 15 Jan 2024 09:26 UTC+7
-# Version: 2401150926
-# Blocked: 149,701 domains
+# Last modified: 15 Jan 2024 23:09 UTC+7
+# Version: 2401152309
+# Blocked: 149,718 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -85656,6 +85656,7 @@
 0.0.0.0 api.red88.vin
 0.0.0.0 api.red88.vip
 0.0.0.0 api.s999h.com
+0.0.0.0 api.sbty9.com
 0.0.0.0 api.shbet0.com
 0.0.0.0 api.shbet3.com
 0.0.0.0 api.shbetvv.com
@@ -85768,6 +85769,7 @@
 0.0.0.0 app6731.com
 0.0.0.0 app68365.com
 0.0.0.0 app6h.net
+0.0.0.0 app725.net
 0.0.0.0 app7337.com
 0.0.0.0 app789.net
 0.0.0.0 app80999.com
@@ -89683,6 +89685,7 @@
 0.0.0.0 betcmp.cn
 0.0.0.0 betcom88.com
 0.0.0.0 betconstraop.com
+0.0.0.0 betcrickets.com
 0.0.0.0 betcuz.com
 0.0.0.0 betday2.com
 0.0.0.0 betdd7.net
@@ -117917,6 +117920,7 @@
 0.0.0.0 kmmiwaw.xyz
 0.0.0.0 kmppay.com
 0.0.0.0 kmufe.top
+0.0.0.0 kn111.net
 0.0.0.0 kn354.com
 0.0.0.0 kn8rfs.top
 0.0.0.0 kn8rfs.vip
@@ -118499,6 +118503,8 @@
 0.0.0.0 kubet88b.net
 0.0.0.0 kubet9.com
 0.0.0.0 kubetae.com
+0.0.0.0 kubetindo.site
+0.0.0.0 kubetlogin.com
 0.0.0.0 kubetnhacai.com
 0.0.0.0 kubetso.com
 0.0.0.0 kubetx.com
@@ -130251,11 +130257,16 @@
 0.0.0.0 sbst666.com
 0.0.0.0 sbst888.com
 0.0.0.0 sbtianjin.com
+0.0.0.0 sbty0.com
 0.0.0.0 sbty11.com
+0.0.0.0 sbty12.com
+0.0.0.0 sbty13.com
 0.0.0.0 sbty22.com
 0.0.0.0 sbty28.com
+0.0.0.0 sbty3.com
 0.0.0.0 sbty33.com
 0.0.0.0 sbty38.com
+0.0.0.0 sbty4.com
 0.0.0.0 sbty44.com
 0.0.0.0 sbty55.com
 0.0.0.0 sbty66.com
@@ -130263,8 +130274,10 @@
 0.0.0.0 sbty8.app
 0.0.0.0 sbty8.net
 0.0.0.0 sbty8.vip
+0.0.0.0 sbty80.com
 0.0.0.0 sbty88.com
 0.0.0.0 sbty888.com
+0.0.0.0 sbty9.com
 0.0.0.0 sbyunnan.com
 0.0.0.0 sbyz08.com
 0.0.0.0 sbyz92.com
@@ -131487,6 +131500,7 @@
 0.0.0.0 stavkabet.biz
 0.0.0.0 stavkovakancelaria.sk
 0.0.0.0 stavkuj.sk
+0.0.0.0 stby.com
 0.0.0.0 stcroix-casinos.com
 0.0.0.0 steadyplays.com
 0.0.0.0 steamtj.org
@@ -133624,6 +133638,7 @@
 0.0.0.0 topjbo.com
 0.0.0.0 topjbostar.com
 0.0.0.0 topjuju.xyz
+0.0.0.0 topkubet.com
 0.0.0.0 toplaftns.com
 0.0.0.0 topmatch69.com
 0.0.0.0 topnhacaihot.com
@@ -135435,6 +135450,7 @@
 0.0.0.0 upload.cdn-mb.com
 0.0.0.0 upload.mu121.com
 0.0.0.0 upload.qh089.com
+0.0.0.0 upload.sbty0.com
 0.0.0.0 upload.sodo121.com
 0.0.0.0 upload.vb113.com
 0.0.0.0 upload.vn5959.com
@@ -141676,6 +141692,7 @@
 0.0.0.0 www.sazka.cz
 0.0.0.0 www.sbc31.com
 0.0.0.0 www.sbetviet.com
+0.0.0.0 www.sbty9.com
 0.0.0.0 www.seb121.net
 0.0.0.0 www.shb3939.vn
 0.0.0.0 www.shbet0.com
