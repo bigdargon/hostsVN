@@ -1,14 +1,15 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 14 Jan 2024 11:14 UTC+7
-! Version: 2401141114
-! Blocked: 3,745 rules
+! Last modified: 15 Jan 2024 09:26 UTC+7
+! Version: 2401150926
+! Blocked: 3,746 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
 ||0088shop.com^
 ||009855.com^
 ||0fb.co^
+||0fb.ltd^
 ||113-bca.online^
 ||11promax.xakhohangtrungbay.site^
 ||11tiki.com^

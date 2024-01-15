@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 14 Jan 2024 11:14 UTC+7
-# Version: 2401141114
-# Blocked: 4,101 domains
+# Last modified: 15 Jan 2024 09:26 UTC+7
+# Version: 2401150926
+# Blocked: 4,102 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14,6 +14,7 @@
 0.0.0.0 009855.com
 0.0.0.0 010172.com
 0.0.0.0 0fb.co
+0.0.0.0 0fb.ltd
 0.0.0.0 113-bca.online
 0.0.0.0 11promax.xakhohangtrungbay.site
 0.0.0.0 11tiki.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Jan 2024 11:09 UTC+7
-! Version: 2401141109
-! Blocked: 10,433 rules
+! Last modified: 15 Jan 2024 09:26 UTC+7
+! Version: 2401150926
+! Blocked: 10,434 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -686,6 +686,7 @@
 ||mautic-learn.teky.edu.vn^
 ||mautic.200lab.io^
 ||mautic.teky.edu.vn^
+||measure.pti.com.vn^
 ||measure.vndirect.com.vn^
 ||media.dabong247.com^
 ||menu.metu.vn^
