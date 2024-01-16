@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 15 Jan 2024 23:09 UTC+7
-# Version: 2401152309
-# Blocked: 4,106 domains
+# Last modified: 16 Jan 2024 21:59 UTC+7
+# Version: 2401162159
+# Blocked: 4,107 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -671,6 +671,7 @@
 0.0.0.0 file-store4.xyz
 0.0.0.0 finashope.com
 0.0.0.0 findiphone.mobi
+0.0.0.0 findmy-status.com
 0.0.0.0 findprizesplace.life
 0.0.0.0 finshope.com
 0.0.0.0 first-vay.com

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 15 Jan 2024 23:09 UTC+7
-# Version: 2401152309
-# Blocked: 5,367 domains
+# Last modified: 16 Jan 2024 21:59 UTC+7
+# Version: 2401162159
+# Blocked: 5,371 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -694,6 +694,7 @@
 0.0.0.0 azf8bet.com
 0.0.0.0 b1388.com
 0.0.0.0 b29.bet
+0.0.0.0 b29.cafe
 0.0.0.0 b29qc.win
 0.0.0.0 b52.me
 0.0.0.0 b52.mobi
@@ -703,6 +704,7 @@
 0.0.0.0 b52k.club
 0.0.0.0 b52m.club
 0.0.0.0 b52vn.org
+0.0.0.0 b69.cafe
 0.0.0.0 b69.city
 0.0.0.0 b77.fun
 0.0.0.0 b77.life
@@ -4000,9 +4002,11 @@
 0.0.0.0 tai789.win
 0.0.0.0 tai9606.com
 0.0.0.0 tai99vin.net
+0.0.0.0 taib29.cafe
 0.0.0.0 taib52.club
 0.0.0.0 taib52.com
 0.0.0.0 taib52.vin
+0.0.0.0 taib69.cafe
 0.0.0.0 taiboc.fun
 0.0.0.0 taibum.tv
 0.0.0.0 taichoang.fun
