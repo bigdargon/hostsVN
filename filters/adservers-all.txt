@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Jan 2024 23:07 UTC+7
-! Version: 2401152307
-! Blocked: 10,438 rules
+! Last modified: 20 Jan 2024 16:06 UTC+7
+! Version: 2401201606
+! Blocked: 10,443 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1473,7 +1473,6 @@
 ||ccc.sys.miui.com^
 ||ccpa.psg.nexstardigital.net^
 ||cdn.avantisvideo.com^
-||cdn.openinstall.io^
 ||cdn.optimizely.com^
 ||cdn.popupsmart.com^
 ||cdn.tinypass.com^
@@ -1536,6 +1535,7 @@
 ||cnt.my^
 ||cnt.trvdp.com^
 ||collect-v6.51.la^
+||collect.banggood.com^
 ||collect.data.tm-awx.com^
 ||collect.igodigital.com^
 ||collecticon.outlookmobile.com^
@@ -1609,6 +1609,7 @@
 ||data.sec.miui.com^
 ||datacollector-dra.dt.hicloud.com^
 ||datawrkz.com^
+||dc.banggood.com^
 ||de17a.com^
 ||deepintent.com^
 ||deltadna.net^
@@ -1665,6 +1666,7 @@
 ||e.qq.com^
 ||easyads28.info^
 ||eclick.baidu.com^
+||edge.adobedc.net^
 ||edge.atmtd.com^
 ||effectivemeasure.net^
 ||ej1*.online^
@@ -2692,6 +2694,7 @@
 ||wbidder.online^
 ||wct.link^
 ||weather-analytics-events.apple.com^
+||web-device-id.banggood.com^
 ||webengage.com^
 ||webgains.com^
 ||weborama.fr^
@@ -9454,6 +9457,7 @@
 ||tibcpowpiaqv.com^
 ||ticklesign.com^
 ||tidaltv.com^
+||tieszhu.com^
 ||tiijdxto.com^
 ||tilanalytics.timesinternet.in^
 ||timzanzcuff.com^
@@ -10280,6 +10284,7 @@
 ||yawledabobra.com^
 ||yawnspuker.com^
 ||ybrantdigital.com^
+||ybs2ffs7v.com^
 ||ydworld.com^
 ||yealnk.com^
 ||yeanstights.store^

@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 16 Jan 2024 21:59 UTC+7
-# Version: 2401162159
-# Blocked: 4,107 domains
+# Last modified: 20 Jan 2024 16:07 UTC+7
+# Version: 2401201607
+# Blocked: 4,120 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -435,6 +435,7 @@
 0.0.0.0 cvietcombank.com
 0.0.0.0 d.gdtgov.cfd
 0.0.0.0 dadw11.com
+0.0.0.0 dadw22.com
 0.0.0.0 dadw55.com
 0.0.0.0 daef33.com
 0.0.0.0 daikinvietnam.vn
@@ -550,6 +551,8 @@
 0.0.0.0 duchessefit.com
 0.0.0.0 duthithanhlich2021.weebly.com
 0.0.0.0 duyendangaodaivietnam2021.weebly.com
+0.0.0.0 dv-ca-nhan-vpbank.com
+0.0.0.0 dv-nang-cap-vpbank.com
 0.0.0.0 dvdienmayxanh.com
 0.0.0.0 dvfbnhan.com
 0.0.0.0 e-bankingshopee.vn
@@ -1574,6 +1577,7 @@
 0.0.0.0 mysp.ac
 0.0.0.0 nalhajarm.cfd
 0.0.0.0 nang-cap-online-vpbank.com
+0.0.0.0 nang-cap-vip-vpbank.com
 0.0.0.0 nang-han-muc-ido-vpbank.com
 0.0.0.0 nang-han-muc-vip-vpbank.com
 0.0.0.0 nang-hang-tin-dung-ca-nhan.com
@@ -1584,6 +1588,7 @@
 0.0.0.0 nanghanmuc-vpb.online
 0.0.0.0 nanghanmucthe-thetindung.com
 0.0.0.0 nanghanmucthetindung247.com
+0.0.0.0 nanghanmucthevib.com
 0.0.0.0 nap-the.vn
 0.0.0.0 napallgame.com
 0.0.0.0 napasvidientu247.com
@@ -2056,6 +2061,7 @@
 0.0.0.0 quickvayorg.com
 0.0.0.0 quocdanhbank.online
 0.0.0.0 quocthang.me
+0.0.0.0 quydautuvingroup.com
 0.0.0.0 quydoi-tiente247.weebly.com
 0.0.0.0 quydoichuyenkhoanquocte.weebly.com
 0.0.0.0 quydoitienquocte24h7azx.weebly.com
@@ -2453,6 +2459,7 @@
 0.0.0.0 shopkellygaming.net
 0.0.0.0 shopkellygaming.vn
 0.0.0.0 shopkingoff.com
+0.0.0.0 shoplazada.net
 0.0.0.0 shoplazada19.com
 0.0.0.0 shoplienquan.click
 0.0.0.0 shoplienquan.vn
@@ -2607,6 +2614,7 @@
 0.0.0.0 showcrack.com
 0.0.0.0 showzyeye.com
 0.0.0.0 shrimpskins.org
+0.0.0.0 shvnb.kfcvnpay.com
 0.0.0.0 shọpmobaviet.vn
 0.0.0.0 siamturakit.shop
 0.0.0.0 sicherheitsdienst-boettger.de
@@ -2972,6 +2980,7 @@
 0.0.0.0 tikivip666.com
 0.0.0.0 tikivip777.com
 0.0.0.0 tikivip888.com
+0.0.0.0 tikivn.in
 0.0.0.0 tikivn.live
 0.0.0.0 tikivn118.com
 0.0.0.0 tikivn12.com
@@ -3251,6 +3260,7 @@
 0.0.0.0 vay60s.com
 0.0.0.0 vay9.co
 0.0.0.0 vay9.com
+0.0.0.0 vayagribank.online
 0.0.0.0 vayasieutoc.com
 0.0.0.0 vaybimo.com
 0.0.0.0 vaycaptoc-vn.com
@@ -3399,6 +3409,7 @@
 0.0.0.0 vayvonshinhanhanoi.com
 0.0.0.0 vayvonshinhantoanquoc.online
 0.0.0.0 vayvonshinhanvn.com
+0.0.0.0 vayvontheoluong.site
 0.0.0.0 vayvontieudungshinhanbank.com
 0.0.0.0 vayysieutoc.com
 0.0.0.0 vcb-diglicabrnk.com
@@ -3642,6 +3653,7 @@
 0.0.0.0 vinaconex.org
 0.0.0.0 vincomonevip.net
 0.0.0.0 vingroup.shop
+0.0.0.0 vingroupinvest.com
 0.0.0.0 vingroupinvestment.com
 0.0.0.0 vingroupventures.shop
 0.0.0.0 vip-dien-mayxanh.com
@@ -4111,6 +4123,7 @@
 0.0.0.0 zeroshop.cc
 0.0.0.0 zingmp3.pro
 0.0.0.0 zingshop.net
+0.0.0.0 zla963.top
 0.0.0.0 zmomo.cc
 0.0.0.0 znavidsde.cfd
 0.0.0.0 zvay.online

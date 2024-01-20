@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 16 Jan 2024 21:59 UTC+7
-! Version: 2401162159
-! Blocked: 4,053 rules
+! Last modified: 20 Jan 2024 16:07 UTC+7
+! Version: 2401201607
+! Blocked: 4,066 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -431,6 +431,7 @@
 ||cvietcombank.com^
 ||d.gdtgov.cfd^
 ||dadw11.com^
+||dadw22.com^
 ||dadw55.com^
 ||daef33.com^
 ||daikinvietnam.vn^
@@ -546,6 +547,8 @@
 ||duchessefit.com^
 ||duthithanhlich2021.weebly.com^
 ||duyendangaodaivietnam2021.weebly.com^
+||dv-ca-nhan-vpbank.com^
+||dv-nang-cap-vpbank.com^
 ||dvdienmayxanh.com^
 ||dvfbnhan.com^
 ||e-bankingshopee.vn^
@@ -1574,6 +1577,7 @@
 ||mysp.ac^
 ||nalhajarm.cfd^
 ||nang-cap-online-vpbank.com^
+||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
 ||nang-han-muc-vip-vpbank.com^
 ||nang-hang-tin-dung-ca-nhan.com^
@@ -1584,6 +1588,7 @@
 ||nanghanmuc-vpb.online^
 ||nanghanmucthe-thetindung.com^
 ||nanghanmucthetindung247.com^
+||nanghanmucthevib.com^
 ||nap-the.vn^
 ||napallgame.com^
 ||napasvidientu247.com^
@@ -2056,6 +2061,7 @@
 ||quickvayorg.com^
 ||quocdanhbank.online^
 ||quocthang.me^
+||quydautuvingroup.com^
 ||quydoi-tiente247.weebly.com^
 ||quydoichuyenkhoanquocte.weebly.com^
 ||quydoitienquocte24h7azx.weebly.com^
@@ -2453,6 +2459,7 @@
 ||shopkellygaming.net^
 ||shopkellygaming.vn^
 ||shopkingoff.com^
+||shoplazada.net^
 ||shoplazada19.com^
 ||shoplienquan.click^
 ||shoplienquan.vn^
@@ -2607,6 +2614,7 @@
 ||showcrack.com^
 ||showzyeye.com^
 ||shrimpskins.org^
+||shvnb.kfcvnpay.com^
 ||shọpmobaviet.vn^
 ||siamturakit.shop^
 ||sicherheitsdienst-boettger.de^
@@ -2973,6 +2981,7 @@
 ||tikivip666.com^
 ||tikivip777.com^
 ||tikivip888.com^
+||tikivn.in^
 ||tikivn.live^
 ||tikivn118.com^
 ||tikivn12.com^
@@ -3252,6 +3261,7 @@
 ||vay60s.com^
 ||vay9.co^
 ||vay9.com^
+||vayagribank.online^
 ||vayasieutoc.com^
 ||vaybimo.com^
 ||vaycaptoc-vn.com^
@@ -3400,6 +3410,7 @@
 ||vayvonshinhanhanoi.com^
 ||vayvonshinhantoanquoc.online^
 ||vayvonshinhanvn.com^
+||vayvontheoluong.site^
 ||vayvontieudungshinhanbank.com^
 ||vayysieutoc.com^
 ||vcb-diglicabrnk.com^
@@ -3643,6 +3654,7 @@
 ||vinaconex.org^
 ||vincomonevip.net^
 ||vingroup.shop^
+||vingroupinvest.com^
 ||vingroupinvestment.com^
 ||vingroupventures.shop^
 ||vip-dien-mayxanh.com^
@@ -4053,6 +4065,7 @@
 ||zeroshop.cc^
 ||zingmp3.pro^
 ||zingshop.net^
+||zla963.top^
 ||zmomo.cc^
 ||znavidsde.cfd^
 ||zvay.online^

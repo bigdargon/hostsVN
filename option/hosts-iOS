@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 15 Jan 2024 23:07 UTC+7
-# Version: 2401152307
-# Blocked: 19,858 domains
+# Last modified: 20 Jan 2024 16:06 UTC+7
+# Version: 2401201606
+# Blocked: 19,861 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9197,9 +9197,6 @@
 0 venatusmedia.com
 0 balancer.devtodev.com
 0 statgw.devtodev.com
-0 cdn.openinstall.io
-0 res.cdn.openinstall.io
-0 web.cdn.openinstall.io
 0 data.mediaintelligence.de
 0 mediaintelligence.de
 0 www.mediaintelligence.de
@@ -9820,6 +9817,7 @@
 0 adobecorp.data.adobedc.net
 0 adobemobiledev.data.adobedc.net
 0 esdk.data.adobedc.net
+0 edge.adobedc.net
 0 cdn.tt.omtrdc.net
 0 hb.omtrdc.net
 0 omtrdc.net
@@ -10242,6 +10240,9 @@
 0 ap1.event.dfinery.io
 0 ap2.event.dfinery.io
 0 event.dfinery.io
+0 collect.banggood.com
+0 dc.banggood.com
+0 web-device-id.banggood.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -18195,6 +18196,7 @@
 0 tibcpowpiaqv.com
 0 ticklesign.com
 0 tidaltv.com
+0 tieszhu.com
 0 tiijdxto.com
 0 timzanzcuff.com
 0 tinkeregojut.com
@@ -19009,6 +19011,7 @@
 0 yawledabobra.com
 0 yawnspuker.com
 0 ybrantdigital.com
+0 ybs2ffs7v.com
 0 ydworld.com
 0 yealnk.com
 0 yeanstights.store
