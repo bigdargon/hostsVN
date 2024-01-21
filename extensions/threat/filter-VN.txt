@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 20 Jan 2024 16:07 UTC+7
-! Version: 2401201607
-! Blocked: 3,763 rules
+! Last modified: 21 Jan 2024 21:52 UTC+7
+! Version: 2401212152
+! Blocked: 3,766 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -472,6 +472,7 @@
 ||ebuyy.shop^
 ||edunetworkonlinevietnam.com^
 ||edunetworkvietnam.com.vn^
+||email-apple.support^
 ||emoney2017.com^
 ||emoneyspace.com^
 ||eqav33.com^
@@ -840,6 +841,7 @@
 ||ibankingshopee.vn^
 ||ibkbank.net^
 ||ibmgroup.co.uk^
+||icloud.support^
 ||icloudvi.com^
 ||id-icloud.com^
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -1103,6 +1105,7 @@
 ||locabank.vn^
 ||locmomo.com^
 ||login-applecare.com^
+||login-icloud.com^
 ||loginame.shop^
 ||long-thanh.com^
 ||lookctv-vn.com^

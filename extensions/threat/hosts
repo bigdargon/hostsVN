@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 20 Jan 2024 16:07 UTC+7
-# Version: 2401201607
-# Blocked: 4,120 domains
+# Last modified: 21 Jan 2024 21:52 UTC+7
+# Version: 2401212152
+# Blocked: 4,123 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -580,6 +580,7 @@
 0.0.0.0 egiontheh.cfd
 0.0.0.0 egt091102205euc.click
 0.0.0.0 egt091102207euc.click
+0.0.0.0 email-apple.support
 0.0.0.0 emodernst.cfd
 0.0.0.0 emoney2017.com
 0.0.0.0 emoneyspace.com
@@ -998,6 +999,7 @@
 0.0.0.0 ibankingshopee.vn
 0.0.0.0 ibkbank.net
 0.0.0.0 ibmgroup.co.uk
+0.0.0.0 icloud.support
 0.0.0.0 icloudvi.com
 0.0.0.0 id-icloud.com
 0.0.0.0 id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
@@ -1282,6 +1284,7 @@
 0.0.0.0 locabank.vn
 0.0.0.0 locmomo.com
 0.0.0.0 login-applecare.com
+0.0.0.0 login-icloud.com
 0.0.0.0 loginame.shop
 0.0.0.0 long-thanh.com
 0.0.0.0 lookctv-vn.com

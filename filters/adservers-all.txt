@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Jan 2024 16:06 UTC+7
-! Version: 2401201606
-! Blocked: 10,443 rules
+! Last modified: 21 Jan 2024 21:50 UTC+7
+! Version: 2401212150
+! Blocked: 10,442 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -8666,7 +8666,6 @@
 ||rum.uptime.com^
 ||rumadel.com^
 ||rumblerteg.space^
-||rumt-sg.com^
 ||runads.com^
 ||runbornto.com^
 ||rundsp.com^
