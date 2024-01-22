@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 21 Jan 2024 21:52 UTC+7
-! Version: 2401212152
-! Blocked: 3,766 rules
+! Last modified: 22 Jan 2024 23:42 UTC+7
+! Version: 2401222342
+! Blocked: 3,767 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1841,6 +1841,7 @@
 ||receive-international-money-24h.weebly.com^
 ||redpinevikoviethan.weebly.com^
 ||reglienquan.online^
+||reviewphim.pro^
 ||rich678.com^
 ||rickmomo.fun^
 ||rihcos.com^
