@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 21 Jan 2024 21:52 UTC+7
-# Version: 2401212152
-# Blocked: 149,730 domains
+# Last modified: 23 Jan 2024 22:45 UTC+7
+# Version: 2401232245
+# Blocked: 149,741 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -765,6 +765,7 @@
 0.0.0.0 009003.org
 0.0.0.0 009004.org
 0.0.0.0 009009.net
+0.0.0.0 00900908.com
 0.0.0.0 00901.mba
 0.0.0.0 009015.com
 0.0.0.0 00902.biz
@@ -44997,4 +44998,3 @@
 0.0.0.0 52v73.com
 0.0.0.0 52v74.com
 0.0.0.0 52v76.com
-0.0.0.0 52v77.com

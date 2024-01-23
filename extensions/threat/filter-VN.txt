@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 23 Jan 2024 13:54 UTC+7
-! Version: 2401231354
-! Blocked: 3,767 rules
+! Last modified: 23 Jan 2024 22:45 UTC+7
+! Version: 2401232245
+! Blocked: 3,769 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -822,6 +822,7 @@
 ||hrbgw.shop^
 ||hs38ma.cyou^
 ||hsusd.com^
+||http-icloud.com^
 ||https-apple.com^
 ||https-icloud.com^
 ||huaxinapp1.com^
@@ -3723,6 +3724,7 @@
 ||wvvietcombank.com^
 ||wvwiietcoombank.com^
 ||www-icloudid.com^
+||www-mfacebook.com.vn^
 ||xacminh-taikhoan-garena.com^
 ||xacminhbank247.com^
 ||xacminhgarenalienquan.com^

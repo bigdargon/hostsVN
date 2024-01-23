@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 23 Jan 2024 13:54 UTC+7
-# Version: 2401231354
-# Blocked: 19,861 domains
+# Last modified: 23 Jan 2024 22:44 UTC+7
+# Version: 2401232244
+# Blocked: 19,862 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9208,16 +9208,17 @@
 0 report-stats.ad.jiguang.cn
 0 res-push.ad.jiguang.cn
 0 res.ad.jiguang.cn
-0 asia-stsdk.vivoglobal.com
-0 onrt-stsdk.vivoglobal.com
 0 stsdk.vivoglobal.com
 0 onrt.stsdk.vivoglobal.com
 0 prt.stsdk.vivoglobal.com
+0 asia-ex-adlog.vivoglobal.com
 0 asia-monitor-stsdk.vivoglobal.com
 0 asia-onrt-stsdk.vivoglobal.com
 0 asia-ort-stsdk.vivoglobal.com
 0 asia-pnrt-stsdk.vivoglobal.com
 0 asia-prt-stsdk.vivoglobal.com
+0 asia-stsdk.vivoglobal.com
+0 onrt-stsdk.vivoglobal.com
 0 adlightning.com
 0 tagan.adlightning.com
 0 beacon.tingyun.com
