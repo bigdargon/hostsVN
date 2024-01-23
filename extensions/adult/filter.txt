@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 22 Jan 2024 23:42 UTC+7
-! Version: 2401222342
-! Blocked: 45,603 rules
+! Last modified: 23 Jan 2024 13:54 UTC+7
+! Version: 2401231354
+! Blocked: 45,604 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32622,6 +32622,7 @@
 ||qq804.live^
 ||qq805.live^
 ||qq834.me^
+||qq887.live^
 ||qq88866.com^
 ||qq892.live^
 ||qq9929.com^
