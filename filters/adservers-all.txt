@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 23 Jan 2024 22:44 UTC+7
-! Version: 2401232244
-! Blocked: 10,443 rules
+! Last modified: 01 Feb 2024 11:03 UTC+7
+! Version: 2402011103
+! Blocked: 10,449 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2123,6 +2123,7 @@
 ||msga.cupid.iqiyi.com^
 ||msgapp.com^
 ||mstorer.net^
+||mtgglobals.com^
 ||mtrace.qq.com^
 ||mtrcs.samba.tv^
 ||mxcdn.net^
@@ -3412,6 +3413,7 @@
 ||ads.usatoday.com^
 ||ads.verticalresponse.com^
 ||ads.vgchartz.com^
+||ads.videy.co^
 ||ads.virtual-nights.com^
 ||ads.virtualcountries.com^
 ||ads.vnd89.com^
@@ -5841,6 +5843,7 @@
 ||fourarithmetic.com^
 ||foutyoxyaena.website^
 ||foxpush.com^
+||fpcdn.io^
 ||fpmleqdb.com^
 ||fpnpmcdn.net^
 ||fpujadwzowa.com^
@@ -9057,6 +9060,7 @@
 ||spykemediatrack.com^
 ||spylog.com^
 ||spymislead.com^
+||spysubstance.com^
 ||spywarelabs.com^
 ||spywarenuker.com^
 ||spywords.com^
@@ -9127,6 +9131,7 @@
 ||stats.pusher.com^
 ||stats.searchftps.net^
 ||stats.self.com^
+||stats.symptoma.com^
 ||stats.townnews.com^
 ||stats.unlimapps.com^
 ||stats.vk-portal.net^
@@ -9289,6 +9294,7 @@
 ||t.dtscdn.com^
 ||t.easyads28.mobi^
 ||t.eloqua.com^
+||t.firstpromoter.com^
 ||t.freelancer.com^
 ||t.insigit.com^
 ||t.wayfair.com^

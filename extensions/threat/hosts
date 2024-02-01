@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 23 Jan 2024 22:45 UTC+7
-# Version: 2401232245
-# Blocked: 4,126 domains
+# Last modified: 01 Feb 2024 11:03 UTC+7
+# Version: 2402011103
+# Blocked: 4,136 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -122,6 +122,7 @@
 0.0.0.0 aets88.com
 0.0.0.0 aets99.com
 0.0.0.0 agrib-vn.com
+0.0.0.0 agribank.dangkyungtuyen.com
 0.0.0.0 agribank.info
 0.0.0.0 agribanking.com.vn
 0.0.0.0 agribanks.link
@@ -154,6 +155,7 @@
 0.0.0.0 almofmultiple.cfd
 0.0.0.0 alovay24h.com
 0.0.0.0 ama-zmart.top
+0.0.0.0 amajwzon456.top
 0.0.0.0 amazon.amazonptj.com
 0.0.0.0 amazonbig.asia
 0.0.0.0 amazonsg.shop
@@ -231,6 +233,7 @@
 0.0.0.0 baosaoviet24h.net
 0.0.0.0 baotienphong.net
 0.0.0.0 baotrixanhvn.com
+0.0.0.0 baoviet-vn.cc
 0.0.0.0 barbecueappledos.pw
 0.0.0.0 bb9998.com
 0.0.0.0 bbankpower.com
@@ -414,6 +417,7 @@
 0.0.0.0 crestfidubank.com
 0.0.0.0 cryptominexchange.com
 0.0.0.0 cryptooexchange.xyz
+0.0.0.0 cskh-ca-nhan-vpbank.com
 0.0.0.0 cskh-dienmay-xanh.com
 0.0.0.0 cskh-dienmayxanhvn.com
 0.0.0.0 cskh-the-vpbank.com
@@ -484,6 +488,7 @@
 0.0.0.0 dich-vu-the-ez-vpbank.com
 0.0.0.0 dich-vu-the-vdiamond-vpbank.com
 0.0.0.0 dich-vu-the-vvip-vpb.com
+0.0.0.0 dich-vu-update-vpbank.com
 0.0.0.0 dichvu-chuyentien24h.000webhostapp.com
 0.0.0.0 dichvu-dien-mayxanh.com
 0.0.0.0 dichvuchuyentien-ind.weebly.com
@@ -591,6 +596,7 @@
 0.0.0.0 escortlarbul.com
 0.0.0.0 eserbank.com
 0.0.0.0 essbritanidim.club
+0.0.0.0 etkf44.com
 0.0.0.0 eulo11.com
 0.0.0.0 eulo99.com
 0.0.0.0 evay.info
@@ -1152,6 +1158,7 @@
 0.0.0.0 lazada-sale.gq
 0.0.0.0 lazada-task.cc
 0.0.0.0 lazada.bet
+0.0.0.0 lazada.gg
 0.0.0.0 lazada.website
 0.0.0.0 lazada1.cc
 0.0.0.0 lazada1.com
@@ -1580,6 +1587,7 @@
 0.0.0.0 myshopee7.vip
 0.0.0.0 mysp.ac
 0.0.0.0 nalhajarm.cfd
+0.0.0.0 nang-cap-hang-vvip-vib.com
 0.0.0.0 nang-cap-online-vpbank.com
 0.0.0.0 nang-cap-vip-vpbank.com
 0.0.0.0 nang-han-muc-ido-vpbank.com
@@ -1891,6 +1899,7 @@
 0.0.0.0 oughtme.cfd
 0.0.0.0 oundandk.cfd
 0.0.0.0 oylg7.com
+0.0.0.0 p63899vn.com
 0.0.0.0 pagelazada.com
 0.0.0.0 panyruld.cfd
 0.0.0.0 paylienquan.club
@@ -3661,6 +3670,7 @@
 0.0.0.0 vingroupinvest.com
 0.0.0.0 vingroupinvestment.com
 0.0.0.0 vingroupventures.shop
+0.0.0.0 vinpearl1.vingroupsny.com
 0.0.0.0 vip-dien-mayxanh.com
 0.0.0.0 vip-dienmayxanh.com
 0.0.0.0 vip.jaccsvn.com
