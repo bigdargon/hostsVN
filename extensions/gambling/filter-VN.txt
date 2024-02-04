@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 01 Feb 2024 11:03 UTC+7
-! Version: 2402011103
-! Blocked: 4,759 rules
+! Last modified: 04 Feb 2024 23:31 UTC+7
+! Version: 2402042331
+! Blocked: 4,785 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -101,6 +101,7 @@
 ||1388ymjs.com^
 ||1388yn.com^
 ||14betvnd.com^
+||14winvn.com^
 ||157win.com^
 ||165337.com^
 ||168kbet.com^
@@ -244,6 +245,7 @@
 ||7788one.com^
 ||779one.com^
 ||77ae888.com^
+||77king88.com^
 ||789.club^
 ||789.fun^
 ||789.mobi^
@@ -462,11 +464,13 @@
 ||ad.8live.com^
 ||ad.8live.net^
 ||ad.app8.top^
+||ad.choigem.fun^
 ||ad.choingay11b.mobi^
 ||ad.choingay88.com^
 ||ad.dangkygo88.in^
 ||ad.gamequyong.site^
 ||ad.gamequyong.xyz^
+||ad.gem88.win^
 ||ad.mibet.com^
 ||ad.playhit.biz^
 ||ad.rikvip.uk^
@@ -927,7 +931,12 @@
 ||choi99.com^
 ||choibaionlinevn.com^
 ||choibancadoithuong.com^
+||choidon.club^
+||choidonclub.club^
+||choigamedonclub.online^
+||choigamedons.club^
 ||choigamevua.club^
+||choigem.fun^
 ||choigiaitri.net^
 ||choihay.vip^
 ||choihitclub.fun^
@@ -1073,7 +1082,6 @@
 ||debet.info^
 ||debet.top^
 ||debet.win^
-||debet1.com^
 ||debet88.win^
 ||dfbertuah.com^
 ||dfchoingay.com^
@@ -1118,6 +1126,8 @@
 ||dola88.info^
 ||dola99.vip^
 ||domixi1gom.com^
+||don1.club^
+||donclub.city^
 ||down.lixi88.net^
 ||down2.lixi88.net^
 ||download.bayvip.tv^
@@ -1304,6 +1314,7 @@
 ||five88.win^
 ||fivevn.net^
 ||fmapt.com^
+||fpbet.com^
 ||fullbetvn.com^
 ||fun1008.com^
 ||fun1118.com^
@@ -1389,6 +1400,7 @@
 ||gdwviet.com^
 ||gem1.win^
 ||gem79.win^
+||gem88.win^
 ||gembanca.com^
 ||gemwin.page^
 ||genvip88.com^
@@ -3595,6 +3607,7 @@
 ||play.rikgame.live^
 ||play.rikvip.tv^
 ||play.sbotop246.com^
+||play.son.club^
 ||play.sum4.club^
 ||play.sum5.club^
 ||play.taib52.com^
@@ -3613,6 +3626,7 @@
 ||play.yo88.net^
 ||play.yo88.win^
 ||play.yo88vn.vip^
+||play1.son.club^
 ||playbaowin.net^
 ||player.ole777vietnam.com^
 ||player.oleviet777.com^
@@ -3889,6 +3903,7 @@
 ||sol86.com^
 ||solarbet.com^
 ||solbet88.com^
+||son.club^
 ||sping369.club^
 ||sport.five88.biz^
 ||sport.soc88.uk^
@@ -4015,6 +4030,7 @@
 ||tai.rikvip.us^
 ||tai.rikvip.vip^
 ||tai.samvip.bet^
+||tai.son.club^
 ||tai.taisum2.com^
 ||tai.top88vn.net^
 ||tai.v28.club^
@@ -4040,6 +4056,7 @@
 ||taido99.net^
 ||taido99.online^
 ||taido99.win^
+||taigame.son.club^
 ||taigame789.club^
 ||taigamehay.site^
 ||taigamehayvip.vip^
@@ -4072,6 +4089,15 @@
 ||taiqqlive.pro^
 ||taisanvip.net^
 ||taiskyclub.online^
+||taison1.club^
+||taison2.club^
+||taison3.club^
+||taison4.club^
+||taison5.club^
+||taison6.club^
+||taison7.club^
+||taison8.club^
+||taison9.club^
 ||taisum.ac^
 ||taisum.co^
 ||taisum.io^

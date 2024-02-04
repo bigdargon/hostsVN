@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Feb 2024 11:03 UTC+7
-# Version: 2402011103
-# Blocked: 19,871 domains
+# Last modified: 04 Feb 2024 23:30 UTC+7
+# Version: 2402042330
+# Blocked: 19,872 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10245,6 +10245,7 @@
 0 dc.banggood.com
 0 web-device-id.banggood.com
 0 mtgglobals.com
+0 adx-tk.mtgglobals.com
 0 cdn-adn-https.mtgglobals.com
 0 sg01.mtgglobals.com
 0 adtimaserver.vn
