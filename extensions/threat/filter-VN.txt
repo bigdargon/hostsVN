@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 04 Feb 2024 23:31 UTC+7
-! Version: 2402042331
-! Blocked: 3,779 rules
+! Last modified: 19 Feb 2024 10:57 UTC+7
+! Version: 2402191057
+! Blocked: 3,794 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -102,6 +102,7 @@
 ||ae888vip.com^
 ||aeeonmart.com^
 ||aeoonmail.com^
+||aeshopvn.com^
 ||aets22.com^
 ||aets88.com^
 ||aets99.com^
@@ -389,7 +390,9 @@
 ||dich-vu-kvip-vpbank.com^
 ||dich-vu-online-vpbank.com^
 ||dich-vu-the-ai-vpbank.com^
+||dich-vu-the-cashback-vib.com^
 ||dich-vu-the-ez-vpbank.com^
+||dich-vu-the-kt3-vib.com^
 ||dich-vu-the-vdiamond-vpbank.com^
 ||dich-vu-the-vvip-vpb.com^
 ||dich-vu-update-vpbank.com^
@@ -405,6 +408,7 @@
 ||dichvucong.lgov.net^
 ||dichvucong.tgovn.cc^
 ||dichvucong.vgovn.net^
+||dichvucong.xgovn.net^
 ||dichvucongbaohiemxahoi.com^
 ||dichvudaohantindung.com^
 ||dichvunhantien-eu.org^
@@ -653,6 +657,7 @@
 ||gdviettelpay.weebly.com^
 ||getclipabcxyz.com^
 ||ggzzmm.shop^
+||ghnn33.com^
 ||giaingan799.com^
 ||giainganonline799.com^
 ||giaithuongviet457.com^
@@ -849,6 +854,7 @@
 ||ibkbank.net^
 ||ibmgroup.co.uk^
 ||icloud.support^
+||icloudhelp.com^
 ||icloudvi.com^
 ||id-icloud.com^
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -1332,6 +1338,7 @@
 ||morganbank.site^
 ||morganbankk.com^
 ||motaikhoannganhang.online^
+||mothe.tindung-hd.com^
 ||moviet.icu^
 ||mp0s247-quetthetindung.com^
 ||mp220303.com^
@@ -2432,6 +2439,7 @@
 ||spsinhlychinhhang.com^
 ||squashtalk.com^
 ||sso-hotro-taikhoan.com^
+||ssvnshop.com^
 ||standardresourcebank.com^
 ||starbucksthai.shop^
 ||stbuyshopoui.com^
@@ -2698,6 +2706,7 @@
 ||tiki86.com^
 ||tiki888.com^
 ||tiki94.com^
+||tiki98.com^
 ||tiki9833.com^
 ||tikia.vip^
 ||tikictv.com^
@@ -2890,6 +2899,7 @@
 ||trianvangthang12.com^
 ||trickervietnam.com^
 ||tronapp.in^
+||trumbem.com^
 ||trumbemmomo.club^
 ||trumcltx.vip^
 ||trummomo.click^
@@ -3182,6 +3192,7 @@
 ||vib.khach-hang-the-tructuyen.com^
 ||vib.khach-hang-the-tructuyen.online^
 ||vib.mobi^
+||vib.tructuyen-chamsockhachang-the.com^
 ||vib.tuvan-chamsockhachhang.com^
 ||vib8-vay.com^
 ||vib84.com^
@@ -3388,6 +3399,7 @@
 ||vinacombank.com^
 ||vinaconex.org^
 ||vincomonevip.net^
+||vingroup.fit^
 ||vingroup.shop^
 ||vingroupinvest.com^
 ||vingroupinvestment.com^
@@ -3497,6 +3509,7 @@
 ||vn268.com^
 ||vn277shop.com^
 ||vn335shop.com^
+||vn55779p.com^
 ||vn55866shp.com^
 ||vn6315shp.com^
 ||vn66733shop.com^
@@ -3520,6 +3533,7 @@
 ||vnpaycredit-ruttientindung247.com^
 ||vnpaycreditruttientindung-247.com^
 ||vnpt99.com^
+||vnsendo.vip^
 ||vnshop.today^
 ||vnshop00.com^
 ||vnshop11.com^
@@ -3679,6 +3693,7 @@
 ||vtdpgbank.com^
 ||vtipshop.today^
 ||vtvay.com^
+||vuabem.com^
 ||vuacltxmomo.net^
 ||vuamomo.com^
 ||vui-vay.com^

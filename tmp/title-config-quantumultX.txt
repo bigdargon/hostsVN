@@ -1,12 +1,13 @@
 # _time_stamp_
 [general]
+network_check_url = http://example.org
+dns_exclusion_list = captive.apple.com
 udp_whitelist=53, 1024-65535
 
 [dns]
 no-system
-prefer-doh3
-doh-server=https://dns1.nextdns.io/, https://dns2.nextdns.io/
-#doq-server=quic://dns1.nextdns.io/, quic://dns2.nextdns.io/
+doh-server=https://dns.nextdns.io/
+doq-server=quic://dns.nextdns.io
 server=8.8.8.8
 server=9.9.9.11
 

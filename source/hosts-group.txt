@@ -851,6 +851,7 @@
 0.0.0.0 pdn.applovin.com
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod-bid.applovin.com
+0.0.0.0 prod-mediate-events.applovin.com
 0.0.0.0 prod-ms.applovin.com
 0.0.0.0 prod-ms4.applovin.com
 0.0.0.0 res1.applovin.com
@@ -8847,8 +8848,11 @@
 #[opera.com]
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 s-adx.op-mobile.opera.com
-0.0.0.0 s.adx.opera.com
 0.0.0.0 sdklog.tvstore.opera.com
+#[adx.opera.com]
+0.0.0.0 res.adx.opera.com
+0.0.0.0 s.adx.opera.com
+0.0.0.0 t.adx.opera.com
 #[valuecommerce.com]
 0.0.0.0 ad.jp.ap.valuecommerce.com
 0.0.0.0 ads.jp.ap.valuecommerce.com
@@ -9251,6 +9255,9 @@
 0.0.0.0 yandexadexchange.net
 0.0.0.0 advideo.dsp.yandexadexchange.net
 0.0.0.0 bigo.dsp.yandexadexchange.net
+#[yads.tech]
+0.0.0.0 yads.tech
+0.0.0.0 core.yads.tech
 #[jampp.com]
 0.0.0.0 cdn.jampp.com
 0.0.0.0 imgx.jampp.com
@@ -11245,6 +11252,7 @@
 0.0.0.0 ads.livetv705.me
 0.0.0.0 ads.livetv708.me
 0.0.0.0 ads.livetv723.me
+0.0.0.0 ads.livetv760.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11599,3 +11607,18 @@
 0.0.0.0 adx-tk.mtgglobals.com
 0.0.0.0 cdn-adn-https.mtgglobals.com
 0.0.0.0 sg01.mtgglobals.com
+#[new-programmatic.com]
+0.0.0.0 new-programmatic.com
+0.0.0.0 match.new-programmatic.com
+#[gonet-ads.com]
+0.0.0.0 gonet-ads.com
+0.0.0.0 sync.gonet-ads.com
+#[upravel.com]
+0.0.0.0 upravel.com
+0.0.0.0 sync.upravel.com
+#[aidata.io]
+0.0.0.0 aidata.io
+0.0.0.0 x01.aidata.io
+#[arcspire.io]
+0.0.0.0 arcspire.io
+0.0.0.0 px.arcspire.io

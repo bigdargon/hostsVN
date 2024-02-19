@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 04 Feb 2024 23:31 UTC+7
-! Version: 2402042331
-! Blocked: 4,785 rules
+! Last modified: 19 Feb 2024 10:57 UTC+7
+! Version: 2402191057
+! Blocked: 4,810 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -453,6 +453,7 @@
 ||a100.by88.one^
 ||a2xik.com^
 ||aa88.in^
+||aat99game.online^
 ||abuvn.cc^
 ||access.bcb80.com^
 ||access.sbc31.com^
@@ -481,6 +482,7 @@
 ||ad.yo88vn.vip^
 ||ads.8live.com^
 ||ads.choingayiwin.top^
+||ads.dabetvip.vin^
 ||ads.playiwin.in^
 ||ads.playmay88.top^
 ||ads.taiiwinclub.cc^
@@ -725,7 +727,9 @@
 ||bancadoithuongvn.com^
 ||bancalucky88.com^
 ||baowin.net^
+||bay789.club^
 ||bay789.io^
+||bay789.life^
 ||bay789.vin^
 ||bayvip.biz^
 ||bayvip.tv^
@@ -785,6 +789,7 @@
 ||bj39.com^
 ||bj88vietnam.com^
 ||bj88vn.com^
+||bj988.com^
 ||bk368.com^
 ||bk8.live^
 ||bk88safe.com^
@@ -816,6 +821,7 @@
 ||bntv.bongvip.com^
 ||bo.b52.win^
 ||boc8.fun^
+||bogac1.com^
 ||bogcuoc.com^
 ||bom52.club^
 ||bong88.cam^
@@ -951,6 +957,7 @@
 ||choisport.com^
 ||choisv88.live^
 ||choita88.club^
+||choitet.vip^
 ||choiwin79.com^
 ||choiwin79.net^
 ||choiwin79.pro^
@@ -1031,6 +1038,7 @@
 ||dabet.uk^
 ||dabet.us^
 ||dabet.win^
+||dabetvip.vin^
 ||dabong.thethaofb88.com^
 ||dafa08.net^
 ||dafacai360.com^
@@ -1092,6 +1100,7 @@
 ||diendansohoc.net^
 ||diq9r.com^
 ||dj5995.wbet58.com^
+||dk.choitet.vip^
 ||dk.choiwin79.net^
 ||dk.gamequyong.xyz^
 ||dk.rikkk.net^
@@ -1128,6 +1137,7 @@
 ||domixi1gom.com^
 ||don1.club^
 ||donclub.city^
+||dontetcodex2.fun^
 ||down.lixi88.net^
 ||down2.lixi88.net^
 ||download.bayvip.tv^
@@ -3144,6 +3154,8 @@
 ||loto188az.com^
 ||loto188vi.com^
 ||loto66.com^
+||loto678.com^
+||lp.choitet.vip^
 ||lp.go8vui.info^
 ||lp.macauclub.fun^
 ||lp.mayclub.net^
@@ -3152,6 +3164,7 @@
 ||lp.sun6.win^
 ||lp.sunwinvn.club^
 ||lp.taiv8.top^
+||lp.vuiuk88.club^
 ||lp.zo.club^
 ||lp.zo1.win^
 ||lp2.gameiwin.vip^
@@ -3579,6 +3592,7 @@
 ||play.b52m.club^
 ||play.b52vn.org^
 ||play.bay789.io^
+||play.bay789.life^
 ||play.bom52.club^
 ||play.bum3.club^
 ||play.choisport.com^
@@ -3768,6 +3782,7 @@
 ||rio66qc.club^
 ||ritq4.com^
 ||royal77vn.com^
+||rs88.online^
 ||rubik88.com^
 ||rvbet005.com^
 ||rw8800.com^
@@ -3826,9 +3841,12 @@
 ||shbet0.com^
 ||shbet2.com^
 ||shbet3.com^
+||shbet40.com^
 ||shbet88.page^
 ||shbetgg.com^
 ||shbetvv.com^
+||shsieuhot.online^
+||shtotnhat.online^
 ||shviet.com^
 ||shviet0.com^
 ||sieubomtan.com^
@@ -3931,6 +3949,7 @@
 ||stby.com^
 ||su789.win^
 ||sukien.fcb88.com^
+||sukiensh.online^
 ||sum4.club^
 ||sum5.club^
 ||sun.to^
@@ -3980,6 +3999,7 @@
 ||sv66n.com^
 ||sv66qc9.com^
 ||sv66s.com^
+||sv66vip6.com^
 ||sv88.club^
 ||sv88.com^
 ||sv88.uk^
@@ -4112,6 +4132,7 @@
 ||taiv8.top^
 ||taiwin79.win^
 ||taix1.club^
+||taixhu.gg^
 ||taixiu.taisum2.com^
 ||taixiu.xinloiduocchua.co^
 ||taixiumd5.taisum2.com^
@@ -4272,6 +4293,7 @@
 ||udw881.cc^
 ||udw884.com^
 ||udw886.com^
+||uer5.com^
 ||uk88.top^
 ||umfgg.com^
 ||unitygame.online^
@@ -4486,6 +4508,7 @@
 ||vua2.club^
 ||vua88.club^
 ||vuabai9.com^
+||vuabai9vn.com^
 ||vuabet88.org^
 ||vuaclub1008.club^
 ||vue.ooooooo2.com^
@@ -4493,6 +4516,7 @@
 ||vuicungk8.com^
 ||vuigiaitri.online^
 ||vuigiaitri.org^
+||vuiuk88.club^
 ||vw109.com^
 ||vw115.com^
 ||vw2.co^
@@ -4668,6 +4692,7 @@
 ||winbet99.co^
 ||winbet999.info^
 ||winclub.net^
+||wingame1688.com^
 ||wingo88.vin^
 ||wintbr.com^
 ||winvn.vip^

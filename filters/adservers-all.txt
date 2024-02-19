@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Feb 2024 23:30 UTC+7
-! Version: 2402042330
-! Blocked: 10,449 rules
+! Last modified: 19 Feb 2024 11:03 UTC+7
+! Version: 2402191103
+! Blocked: 10,472 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -543,6 +543,7 @@
 ||campaign.gitiho.com^
 ||cdn-ads.thesaigontimes.vn^
 ||cdn.api-connect.io^
+||cdn.qc24h.com^
 ||cdn2.cache.vn^
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||chiasephim.xyz^
@@ -673,6 +674,7 @@
 ||logging.kinhtedothi.vn^
 ||logs.1cdn.vn^
 ||logs.docnhanh.com.vn^
+||logs.sanchoikns.vn^
 ||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
@@ -2379,6 +2381,14 @@
 ||s-evt.rmp.rakuten.co.jp^
 ||s-onetag.com^
 ||s.adx.opera.com^
+||t.adx.opera.com^
+||res.adx.opera.com^
+||new-programmatic.com^
+||gonet-ads.com^
+||upravel.com^
+||aidata.io^
+||arcspire.io^
+||yads.tech^
 ||s.trvdp.com^
 ||sa.api.intl.miui.com^
 ||sads*z.com^
@@ -2920,6 +2930,7 @@
 ||ad-static.qanda.ai^
 ||ad-tech.com^
 ||ad-up.com^
+||ad.22betpartners.com^
 ||ad.980x.com^
 ||ad.abcnews.com^
 ||ad.abctv.com^
@@ -2928,6 +2939,7 @@
 ||ad.adpon.jp^
 ||ad.anuntis.com^
 ||ad.api.3g.tudou.com^
+||ad.apl318.me^
 ||ad.apsalar.com^
 ||ad.auditude.com^
 ||ad.bizo.com^
@@ -2983,6 +2995,7 @@
 ||ad.wz.cz^
 ||ad.xmmnsl.com^
 ||ad.xrea.com^
+||ad.xunkids.com^
 ||ad.zanox.com^
 ||ad.zuimeitianqi.com^
 ||ad0.bigmir.net^
@@ -3391,6 +3404,7 @@
 ||ads.space.com^
 ||ads.sportradar.com^
 ||ads.stackoverflow.com^
+||ads.starzd.com^
 ||ads.sun.com^
 ||ads.sunmaker.com^
 ||ads.suomiautomaatti.com^
@@ -3875,6 +3889,7 @@
 ||analytics.nike.com^
 ||analytics.ninjakiwi.com^
 ||analytics.nova.fox.com^
+||analytics.pangle-ads.com^
 ||analytics.phando.com^
 ||analytics.picsart.com^
 ||analytics.pixels.ai^
@@ -5940,6 +5955,7 @@
 ||gatetodisplaycontent.com^
 ||gatewayimpossibilitypursue.com^
 ||gaudetehoazin.com^
+||gaunchdelimes.com^
 ||gaut-hil.com^
 ||gavnogeeygaika.com^
 ||gayadnetwork.com^
@@ -6129,6 +6145,7 @@
 ||gurumoppet.digital^
 ||gutackaxgo.com^
 ||guwgkuaxbvuw.com^
+||gw-iad-bid.ymmobi.com^
 ||gwallet.com^
 ||gwawl-oqs.com^
 ||gweluwaggoc.com^
@@ -6424,6 +6441,7 @@
 ||ilovecheating.com^
 ||ilusors.com^
 ||ilyf4amifh.com^
+||im.bluevoox.com^
 ||imagecash.net^
 ||images-pw.secureserver.net^
 ||images.footballaddicts.se^
@@ -7012,6 +7030,7 @@
 ||lzjl.com^
 ||lzyjcooxsodz.com^
 ||m.trb.com^
+||m0rsq075u.com^
 ||m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com^
 ||m32.media^
 ||m4n.nl^
@@ -7744,6 +7763,7 @@
 ||ophoacit.com^
 ||opienetwork.com^
 ||opinionstage.com^
+||oplog.mulai.pw^
 ||opmvivogsb.com^
 ||oppvcuovgda.com^
 ||opsivesh.net^
@@ -8873,6 +8893,7 @@
 ||shofteph.com^
 ||shoogleno.tech^
 ||shopfulaments.com^
+||shopnetic.com^
 ||shoppingads.com^
 ||shopzilla.com^
 ||shorteh.com^
@@ -9112,6 +9133,7 @@
 ||staticads.btopenworld.com^
 ||statistic.ads24h.net^
 ||statistik-gallup.net^
+||statistik.changing-cities.org^
 ||statm.the-adult-company.com^
 ||stats.apester.com^
 ||stats.avaaz.org^
@@ -9529,6 +9551,7 @@
 ||topsite.lv^
 ||topsites.com.br^
 ||topstats.com^
+||toptrendyinc.com^
 ||tornbed.pro^
 ||toroadvertisingmedia.com^
 ||tosfeed.com^

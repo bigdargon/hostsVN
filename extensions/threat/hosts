@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 04 Feb 2024 23:31 UTC+7
-# Version: 2402042331
-# Blocked: 4,136 domains
+# Last modified: 19 Feb 2024 10:57 UTC+7
+# Version: 2402191057
+# Blocked: 4,151 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -118,6 +118,7 @@
 0.0.0.0 ae888vip.com
 0.0.0.0 aeeonmart.com
 0.0.0.0 aeoonmail.com
+0.0.0.0 aeshopvn.com
 0.0.0.0 aets22.com
 0.0.0.0 aets88.com
 0.0.0.0 aets99.com
@@ -485,7 +486,9 @@
 0.0.0.0 dich-vu-kvip-vpbank.com
 0.0.0.0 dich-vu-online-vpbank.com
 0.0.0.0 dich-vu-the-ai-vpbank.com
+0.0.0.0 dich-vu-the-cashback-vib.com
 0.0.0.0 dich-vu-the-ez-vpbank.com
+0.0.0.0 dich-vu-the-kt3-vib.com
 0.0.0.0 dich-vu-the-vdiamond-vpbank.com
 0.0.0.0 dich-vu-the-vvip-vpb.com
 0.0.0.0 dich-vu-update-vpbank.com
@@ -501,6 +504,7 @@
 0.0.0.0 dichvucong.lgov.net
 0.0.0.0 dichvucong.tgovn.cc
 0.0.0.0 dichvucong.vgovn.net
+0.0.0.0 dichvucong.xgovn.net
 0.0.0.0 dichvucongbaohiemxahoi.com
 0.0.0.0 dichvudaohantindung.com
 0.0.0.0 dichvunhantien-eu.org
@@ -801,6 +805,7 @@
 0.0.0.0 getmacos.org
 0.0.0.0 getwindowsactivator.info
 0.0.0.0 ggzzmm.shop
+0.0.0.0 ghnn33.com
 0.0.0.0 giaingan799.com
 0.0.0.0 giainganonline799.com
 0.0.0.0 giaithuongviet457.com
@@ -1007,6 +1012,7 @@
 0.0.0.0 ibkbank.net
 0.0.0.0 ibmgroup.co.uk
 0.0.0.0 icloud.support
+0.0.0.0 icloudhelp.com
 0.0.0.0 icloudvi.com
 0.0.0.0 id-icloud.com
 0.0.0.0 id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
@@ -1517,6 +1523,7 @@
 0.0.0.0 morganbank.site
 0.0.0.0 morganbankk.com
 0.0.0.0 motaikhoannganhang.online
+0.0.0.0 mothe.tindung-hd.com
 0.0.0.0 moviet.icu
 0.0.0.0 mp0s247-quetthetindung.com
 0.0.0.0 mp220303.com
@@ -2685,6 +2692,7 @@
 0.0.0.0 sputrey567rik.cfd
 0.0.0.0 squashtalk.com
 0.0.0.0 sso-hotro-taikhoan.com
+0.0.0.0 ssvnshop.com
 0.0.0.0 standardresourcebank.com
 0.0.0.0 starbucksthai.shop
 0.0.0.0 stbuyshopoui.com
@@ -2959,6 +2967,7 @@
 0.0.0.0 tiki86.com
 0.0.0.0 tiki888.com
 0.0.0.0 tiki94.com
+0.0.0.0 tiki98.com
 0.0.0.0 tiki9833.com
 0.0.0.0 tikia.vip
 0.0.0.0 tikictv.com
@@ -3156,6 +3165,7 @@
 0.0.0.0 trickervietnam.com
 0.0.0.0 trk.smartdtlink.com
 0.0.0.0 tronapp.in
+0.0.0.0 trumbem.com
 0.0.0.0 trumbemmomo.club
 0.0.0.0 trumcltx.vip
 0.0.0.0 trummomo.click
@@ -3459,6 +3469,7 @@
 0.0.0.0 vib.khach-hang-the-tructuyen.com
 0.0.0.0 vib.khach-hang-the-tructuyen.online
 0.0.0.0 vib.mobi
+0.0.0.0 vib.tructuyen-chamsockhachang-the.com
 0.0.0.0 vib.tuvan-chamsockhachhang.com
 0.0.0.0 vib8-vay.com
 0.0.0.0 vib84.com
@@ -3666,6 +3677,7 @@
 0.0.0.0 vinacombank.com
 0.0.0.0 vinaconex.org
 0.0.0.0 vincomonevip.net
+0.0.0.0 vingroup.fit
 0.0.0.0 vingroup.shop
 0.0.0.0 vingroupinvest.com
 0.0.0.0 vingroupinvestment.com
@@ -3776,6 +3788,7 @@
 0.0.0.0 vn268.com
 0.0.0.0 vn277shop.com
 0.0.0.0 vn335shop.com
+0.0.0.0 vn55779p.com
 0.0.0.0 vn55866shp.com
 0.0.0.0 vn6315shp.com
 0.0.0.0 vn66733shop.com
@@ -3799,6 +3812,7 @@
 0.0.0.0 vnpaycredit-ruttientindung247.com
 0.0.0.0 vnpaycreditruttientindung-247.com
 0.0.0.0 vnpt99.com
+0.0.0.0 vnsendo.vip
 0.0.0.0 vnshop.today
 0.0.0.0 vnshop00.com
 0.0.0.0 vnshop11.com
@@ -3958,6 +3972,7 @@
 0.0.0.0 vtdpgbank.com
 0.0.0.0 vtipshop.today
 0.0.0.0 vtvay.com
+0.0.0.0 vuabem.com
 0.0.0.0 vuacltxmomo.net
 0.0.0.0 vuamomo.com
 0.0.0.0 vui-vay.com
