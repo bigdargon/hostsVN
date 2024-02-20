@@ -10189,7 +10189,6 @@
 0.0.0.0 cdn.p-n.io
 0.0.0.0 p-n.io
 #[optimizely.com]
-0.0.0.0 cdn.optimizely.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 logx.optimizely.com
 #[tm-awx.com]
