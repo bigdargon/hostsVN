@@ -8086,6 +8086,9 @@
 #[mobads.baidu.com]
 0.0.0.0 mobads.baidu.com
 0.0.0.0 static.mobads.baidu.com
+#[pos.baidu.com]
+0.0.0.0 pos.baidu.com
+0.0.0.0 cm.pos.baidu.com
 #[baidustatic.com]
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 dup.baidustatic.com
@@ -10732,10 +10735,20 @@
 0.0.0.0 sync.intentiq.com
 0.0.0.0 sync1.intentiq.com
 #[360.cn]
+0.0.0.0 ad.dev.360.cn
+0.0.0.0 ad.gamebox.360.cn
 0.0.0.0 ad.jia.360.cn
+0.0.0.0 c.sayhi.360.cn
+0.0.0.0 s.union.360.cn
+0.0.0.0 stat.m.360.cn
+#[s.360.cn]
+0.0.0.0 s.360.cn
 0.0.0.0 g.s.360.cn
 0.0.0.0 p.s.360.cn
 0.0.0.0 sdk.s.360.cn
+#[tf.360.cn]
+0.0.0.0 stat.e.tf.360.cn
+0.0.0.0 tracking.v.tf.360.cn
 #[byteoversea.com]
 0.0.0.0 p16-ad.byteoversea.com
 0.0.0.0 v16-ad.byteoversea.com
@@ -11630,3 +11643,6 @@
 0.0.0.0 kgb-ifs.tanx.com
 0.0.0.0 p.tanx.com
 0.0.0.0 tanx.com
+#[mediav.com]
+0.0.0.0 mediav.com
+0.0.0.0 ckmap.mediav.com
