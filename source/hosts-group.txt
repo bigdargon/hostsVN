@@ -3016,6 +3016,13 @@
 0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 sandbox.stickyadstv.com
+#[skyadsmart.com]
+0.0.0.0 dev-adload.skyadsmart.com
+0.0.0.0 hbbtv.skyadsmart.com
+0.0.0.0 prod-adload.skyadsmart.com
+0.0.0.0 sit-adload.skyadsmart.com
+0.0.0.0 skyadsmart.com
+0.0.0.0 www.skyadsmart.com
 #[mediawayss.com]
 0.0.0.0 ad.mediawayss.com
 0.0.0.0 cdn.mediawayss.com
@@ -9377,6 +9384,7 @@
 0.0.0.0 expmediadirect1.xml-eu.ak-is2.net
 0.0.0.0 ezmob.fs.ak-is2.net
 0.0.0.0 flairadscpc.xml-eu.ak-is2.net
+0.0.0.0 fmlabsonline.cpm.ak-is2.net
 0.0.0.0 kinesis-doo.fs.ak-is2.net
 0.0.0.0 kinesis-doo.xs.ak-is2.net
 0.0.0.0 leoyard.fs.ak-is2.net

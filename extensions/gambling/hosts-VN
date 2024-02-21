@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 19 Feb 2024 10:57 UTC+7
-# Version: 2402191057
-# Blocked: 5,441 domains
+# Last modified: 21 Feb 2024 11:08 UTC+7
+# Version: 2402211108
+# Blocked: 5,445 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1274,6 +1274,7 @@
 0.0.0.0 fb88up.com
 0.0.0.0 fb88v.com
 0.0.0.0 fb88viet.com
+0.0.0.0 fb88vin.com
 0.0.0.0 fb88wow.com
 0.0.0.0 fb88xyz.com
 0.0.0.0 fb88you.com
@@ -4453,6 +4454,7 @@
 0.0.0.0 vndbetway.com
 0.0.0.0 vnf88.com
 0.0.0.0 vnfa88.com
+0.0.0.0 vngame123.com
 0.0.0.0 vngame66.com
 0.0.0.0 vnloto.com
 0.0.0.0 vnloto.vip
@@ -4947,6 +4949,7 @@
 0.0.0.0 www.fb88up.com
 0.0.0.0 www.fb88v.com
 0.0.0.0 www.fb88viet.com
+0.0.0.0 www.fb88vin.com
 0.0.0.0 www.fb88wow.com
 0.0.0.0 www.fb88you.com
 0.0.0.0 www.fb88zo.com
@@ -5286,6 +5289,7 @@
 0.0.0.0 www.vnd88vip.com
 0.0.0.0 www.vndbet88.com
 0.0.0.0 www.vndbetway.com
+0.0.0.0 www.vngame123.com
 0.0.0.0 www.vnloto.com
 0.0.0.0 www.vnmx66.com
 0.0.0.0 www.vnn138.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Feb 2024 11:07 UTC+7
-! Version: 2402201107
-! Blocked: 10,478 rules
+! Last modified: 21 Feb 2024 11:07 UTC+7
+! Version: 2402211107
+! Blocked: 10,488 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -21,6 +21,7 @@
 ||admicro*.vcmedia.vn^
 ||admicro.vn^
 ||adnetwork.vn^
+||adop.asia^
 ||adp.vnecdn.net^
 ||adpia.vn^
 ||adrealclick.com^
@@ -540,6 +541,7 @@
 ||bi.vhost.vn^
 ||bidgear-syndication.com^
 ||btrack.homedy.com^
+||bubblyzucchini.com^
 ||campaign.gitiho.com^
 ||cdn-ads.thesaigontimes.vn^
 ||cdn.api-connect.io^
@@ -616,6 +618,7 @@
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
+||log.247post.vn^
 ||log.anninhthudo.vn^
 ||log.baobackan.com.vn^
 ||log.baocaobang.vn^
@@ -866,6 +869,7 @@
 ||xmadsapi.joboko.com^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
+||za.agiay.vn^
 ||za.baomoi.com^
 ||zigzag.vn^
 ||ztrck.me^
@@ -2442,6 +2446,7 @@
 ||siteswithcontent.com^
 ||sjarvis.taobao.com^
 ||skcrtxr.com^
+||skyadsmart.com^
 ||slike.indiatimes.com^
 ||smaato.com^
 ||smaato.net^
@@ -4703,6 +4708,7 @@
 ||cdn.exmarketplace.com^
 ||cdn.house^
 ||cdn.itskiddoan.club^
+||cdn.lr-ingest.io^
 ||cdn.mmctsvc.com^
 ||cdn.netcatx.com^
 ||cdn.onesignal.com^
@@ -4853,6 +4859,7 @@
 ||clicks.equantum.com^
 ||clicks.eventbrite.com^
 ||clicks.mods.de^
+||clicks.pipaffiliates.com^
 ||clickserve.cc-dt.com^
 ||clicksmint.site^
 ||clicksor.com^
@@ -6737,6 +6744,7 @@
 ||karnslawfirm.com^
 ||karonty.com^
 ||katukaunamiss.com^
+||kauleeci.com^
 ||kaurieseluxate.com^
 ||kcaapxanwv.com^
 ||kcaonrbiwamx.com^
@@ -8349,6 +8357,7 @@
 ||qciofmzwiasb.com^
 ||qctop.com^
 ||qdfxeqhnjuknyy.com^
+||qfoacmmuda.com^
 ||qfoodskfubk.com^
 ||qgicqtyh.com^
 ||qgxbluhsgad.com^
@@ -10289,6 +10298,7 @@
 ||xrea.com^
 ||xruamzpanbca.com^
 ||xstats.evoload.io^
+||xszpuvwr7.com^
 ||xtendmedia.com^
 ||xtremeserve.xyz^
 ||xtremetop100.com^
