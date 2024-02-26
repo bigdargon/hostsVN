@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 21 Feb 2024 11:08 UTC+7
-# Version: 2402211108
-# Blocked: 3,846 domains
+# Last modified: 26 Feb 2024 13:50 UTC+7
+# Version: 2402261350
+# Blocked: 3,853 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -661,6 +661,8 @@
 0.0.0.0 gdviettelpay.weebly.com
 0.0.0.0 getclipabcxyz.com
 0.0.0.0 ggzzmm.shop
+0.0.0.0 ghnn11.com
+0.0.0.0 ghnn22.com
 0.0.0.0 ghnn33.com
 0.0.0.0 giaingan799.com
 0.0.0.0 giainganonline799.com
@@ -1922,6 +1924,7 @@
 0.0.0.0 scb.com.vn-scl.life
 0.0.0.0 scb.com.vn-ub.info
 0.0.0.0 scb.com.vn-uz.info
+0.0.0.0 scb.nanghanmucthenganhangvisa.com
 0.0.0.0 scb.vn-kn.vip
 0.0.0.0 scb.vn-vp.xyz
 0.0.0.0 scdienmayxanh.com
@@ -2434,6 +2437,7 @@
 0.0.0.0 sp315693vn.com
 0.0.0.0 sp8668vn.com
 0.0.0.0 spark123.shop
+0.0.0.0 spmail88.com
 0.0.0.0 spohopena.com
 0.0.0.0 spohopenm.com
 0.0.0.0 spohopenm.org
@@ -2778,6 +2782,7 @@
 0.0.0.0 tindung188.com
 0.0.0.0 tindung24h-vietcombank.online
 0.0.0.0 tindung24h.com
+0.0.0.0 tindungcanhan.online
 0.0.0.0 tindungnganhang-vietnam247.online
 0.0.0.0 tindungnganhang-vietnam365.online
 0.0.0.0 tindungnganhang.biz
@@ -3404,6 +3409,7 @@
 0.0.0.0 vingroupinvest.com
 0.0.0.0 vingroupinvestment.com
 0.0.0.0 vingroupventures.shop
+0.0.0.0 vinideal-sale.pro
 0.0.0.0 vinpearl1.vingroupsny.com
 0.0.0.0 vip-dien-mayxanh.com
 0.0.0.0 vip-dienmayxanh.com
@@ -3748,6 +3754,7 @@
 0.0.0.0 wviietcombank.com
 0.0.0.0 wvvietcombank.com
 0.0.0.0 wvwiietcoombank.com
+0.0.0.0 www-icloud.com
 0.0.0.0 www-icloudid.com
 0.0.0.0 www-mfacebook.com.vn
 0.0.0.0 www.333lotte.com

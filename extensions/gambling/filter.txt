@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 21 Feb 2024 11:08 UTC+7
-! Version: 2402211108
-! Blocked: 149,952 rules
+! Last modified: 26 Feb 2024 13:50 UTC+7
+! Version: 2402261350
+! Blocked: 149,961 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -98772,6 +98772,7 @@
 ||dangkykubet.net^
 ||dangkykubet.vip^
 ||dangkynhanh88.com^
+||dangkyrikvip.org^
 ||dangkyrikvip.tv^
 ||dangkythabet.com^
 ||dangkywin2888.vip^
@@ -120354,15 +120355,21 @@
 ||landpage.fanviphub.com^
 ||landpage.fanvipplay.com^
 ||landpage.funviphub.com^
+||landpage.game-rabbit.com^
 ||landpage.hipoker123.com^
 ||landpage.jackpot12x.com^
 ||landpage.megawin99x.com^
+||landpage.pokercascade.com^
+||landpage.pokerconclave.com^
+||landpage.rabbitclubs.com^
 ||landpage.royalclub11.com^
 ||landpage.slotsclub123.com^
 ||landpage.slotsgalactic.com^
 ||landpage.spinslotszone.com^
+||landpage.taixiugalaxy.com^
 ||landpage.taixiugame777.com^
 ||landpage.taixiuplay.com^
+||landpage.taixiuspot.com^
 ||landpage.talaphom.com^
 ||landpage.talaphom123.com^
 ||landpage.tienlen2022.com^
@@ -121143,6 +121150,7 @@
 ||lodiary.xyz^
 ||lodibet.ph^
 ||logi88.com^
+||login.dangkyrikvip.org^
 ||login.vua69.com^
 ||logs.almeriaxxx.com^
 ||lokduna.xyz^
@@ -134403,6 +134411,7 @@
 ||taohuadao.bio^
 ||taotaikhoan88.com^
 ||taoxingmeifang.com^
+||tap-master-color-rush-challenge.vercel.app^
 ||tap88.club^
 ||tapdy.win^
 ||taubu.site^

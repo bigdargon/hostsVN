@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 21 Feb 2024 11:08 UTC+7
-! Version: 2402211108
-! Blocked: 4,098 rules
+! Last modified: 26 Feb 2024 13:50 UTC+7
+! Version: 2402261350
+! Blocked: 4,105 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -803,6 +803,8 @@
 ||getmacos.org^
 ||getwindowsactivator.info^
 ||ggzzmm.shop^
+||ghnn11.com^
+||ghnn22.com^
 ||ghnn33.com^
 ||giaingan799.com^
 ||giainganonline799.com^
@@ -2163,6 +2165,7 @@
 ||scb.com.vn-scl.life^
 ||scb.com.vn-ub.info^
 ||scb.com.vn-uz.info^
+||scb.nanghanmucthenganhangvisa.com^
 ||scb.vn-kn.vip^
 ||scb.vn-vp.xyz^
 ||scdienmayxanh.com^
@@ -2686,6 +2689,7 @@
 ||sp315693vn.com^
 ||sp8668vn.com^
 ||spark123.shop^
+||spmail88.com^
 ||spohopena.com^
 ||spohopenm.com^
 ||spohopenm.org^
@@ -3041,6 +3045,7 @@
 ||tindung188.com^
 ||tindung24h-vietcombank.online^
 ||tindung24h.com^
+||tindungcanhan.online^
 ||tindungnganhang-vietnam247.online^
 ||tindungnganhang-vietnam365.online^
 ||tindungnganhang.biz^
@@ -3684,6 +3689,7 @@
 ||vingroupinvest.com^
 ||vingroupinvestment.com^
 ||vingroupventures.shop^
+||vinideal-sale.pro^
 ||vinpearl1.vingroupsny.com^
 ||vip-dien-mayxanh.com^
 ||vip-dienmayxanh.com^
@@ -4042,6 +4048,7 @@
 ||wviietcombank.com^
 ||wvvietcombank.com^
 ||wvwiietcoombank.com^
+||www-icloud.com^
 ||www-icloudid.com^
 ||www-mfacebook.com.vn^
 ||xa38.xyz^

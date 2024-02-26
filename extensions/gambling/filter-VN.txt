@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 21 Feb 2024 11:08 UTC+7
-! Version: 2402211108
-! Blocked: 4,812 rules
+! Last modified: 26 Feb 2024 13:50 UTC+7
+! Version: 2402261350
+! Blocked: 4,814 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1076,6 +1076,7 @@
 ||dangkyee88.online^
 ||dangkygo88.in^
 ||dangkykubet.vip^
+||dangkyrikvip.org^
 ||dangkyrikvip.tv^
 ||dangkythabet.com^
 ||danhbaidoithuongizi.com^
@@ -3149,6 +3150,7 @@
 ||lode88.vip^
 ||lodevip.us^
 ||lodevn789.net^
+||login.dangkyrikvip.org^
 ||logs.almeriaxxx.com^
 ||long092.com^
 ||loto188ae.com^
