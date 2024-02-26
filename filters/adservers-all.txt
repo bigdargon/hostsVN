@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 21 Feb 2024 11:07 UTC+7
-! Version: 2402211107
-! Blocked: 10,488 rules
+! Last modified: 26 Feb 2024 14:34 UTC+7
+! Version: 2402261434
+! Blocked: 10,489 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2773,6 +2773,7 @@
 ||yllix.com^
 ||ylog.hiido.com^
 ||ylog.nimo.tv^
+||yodimedia.com^
 ||yomeno.xyz^
 ||youbora.com^
 ||youborafds01.com^
