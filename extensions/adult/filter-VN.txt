@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 26 Feb 2024 14:34 UTC+7
-! Version: 2402261434
-! Blocked: 3,413 rules
+! Last modified: 01 Mar 2024 16:08 UTC+7
+! Version: 2403011608
+! Blocked: 3,421 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -163,6 +163,7 @@
 ||chich.pro^
 ||chich.xyz^
 ||chich3x.net^
+||chich69.co^
 ||chichchichchich.com^
 ||chichgaixinh.com^
 ||chichlive.biz^
@@ -914,6 +915,7 @@
 ||kenh3x.net^
 ||kenh3x.xxx^
 ||kenh4.com^
+||kenh69.co^
 ||kenhdammy.com^
 ||kenhjav.pro^
 ||kenhporn.xyz^
@@ -1145,6 +1147,9 @@
 ||phatrinh.org^
 ||phe3x.xyz^
 ||phe69.com^
+||pheclip.co^
+||pheclip.com^
+||pheclip.net^
 ||pheloi.com^
 ||phesex.pro^
 ||phesex.vip^
@@ -2440,6 +2445,7 @@
 ||sexvietnamnhanh.pro^
 ||sexvietonline.org^
 ||sexvietsub.mobi^
+||sexvietsub.net^
 ||sexvietsub.today^
 ||sexvietsub.vip^
 ||sexvietsub123.com^
@@ -2505,7 +2511,9 @@
 ||showgaidep.xyz^
 ||showhangnhanh.xyz^
 ||showvip.one^
+||sieudam.co^
 ||sieudamtv.com^
+||sieudamtv.pro^
 ||sieukhung.us^
 ||sieukhungg.net^
 ||sieukhungz.net^

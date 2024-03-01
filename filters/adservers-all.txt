@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 Feb 2024 14:34 UTC+7
-! Version: 2402261434
-! Blocked: 10,489 rules
+! Last modified: 01 Mar 2024 16:07 UTC+7
+! Version: 2403011607
+! Blocked: 10,513 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1926,6 +1926,8 @@
 ||invitemedia.com^
 ||invl.co^
 ||ioam.de^
+||ios-pclog.3u.com^
+||ios.pclog.3u.com^
 ||ip-info.ff.avast.com^
 ||iperceptions.com^
 ||ipm-provider.ff.avast.com^
@@ -2979,6 +2981,7 @@
 ||ad.letmeads.com^
 ||ad.liveinternet.ru^
 ||ad.lupa.cz^
+||ad.meetyouintl.com^
 ||ad.mgd.de^
 ||ad.mox.tv^
 ||ad.musicmatch.com^
@@ -3923,6 +3926,7 @@
 ||analytics.slashdotmedia.com^
 ||analytics.streamgaga.com^
 ||analytics.swiggy.com^
+||analytics.tuoitrau.com^
 ||analytics.webgains.io^
 ||analytics.wondershare.cc^
 ||analytics.youronlinechoices.com^
@@ -4701,6 +4705,7 @@
 ||ccjzuavqrh.com^
 ||cd-ads.com^
 ||cdilwuhbgy.com^
+||cdn-plus.roxot-panel.com^
 ||cdn-server.top^
 ||cdn.bncloudfl.com^
 ||cdn.c-i.as^
@@ -4710,6 +4715,7 @@
 ||cdn.house^
 ||cdn.itskiddoan.club^
 ||cdn.lr-ingest.io^
+||cdn.lumupu.xyz^
 ||cdn.mmctsvc.com^
 ||cdn.netcatx.com^
 ||cdn.onesignal.com^
@@ -5146,6 +5152,7 @@
 ||d1n00d49gkbray.cloudfront.net^
 ||d1nssfq3xl2t6b.cloudfront.net^
 ||d1pn3cn3ri604k.cloudfront.net^
+||d1uzjiv6zzdlbc.cloudfront.net^
 ||d1vl8wytztdz.cloudfront.net^
 ||d1wix2gc2cgqis.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
@@ -6021,6 +6028,7 @@
 ||ginpithed.live^
 ||gipaxqfpopu.com^
 ||gipxpuotwv.com^
+||giraff.io^
 ||girawrolrorf.com^
 ||gk79a2oup.com^
 ||gkemujoccwin.com^
@@ -6168,6 +6176,7 @@
 ||gyfumobo.com^
 ||h2aek6rv0ard.com^
 ||h4aock41f.com^
+||h74v6kerf.com^
 ||h78xb.pw^
 ||habitsdemise.com^
 ||hacbfyvvsw.com^
@@ -6470,6 +6479,7 @@
 ||imgpromo.easyrencontre.com^
 ||imimobile.com^
 ||immensehoney.com^
+||immerseweariness.com^
 ||immoxdzdke.com^
 ||imp.pvnsolutions.com^
 ||impact-ad.jp^
@@ -7928,6 +7938,7 @@
 ||parentlargevia.com^
 ||parisjeroleinpg.com^
 ||parkedcheerful.com^
+||parking.godaddy.com^
 ||parriedcubelet.top^
 ||parsimoniouspolice.com^
 ||partage-facile.com^
@@ -8070,6 +8081,7 @@
 ||pix.pub^
 ||pixanalytics.pixnet.net^
 ||pixanalytics2.pixnet.net^
+||pixel.chaty.app^
 ||pixel.gliacloud.com^
 ||pixel.homeapp.team^
 ||pixel.ipinfo.io^
@@ -8136,6 +8148,7 @@
 ||pop-under.ru^
 ||pop.bid^
 ||pop5sjhspear.com^
+||popmansion.com^
 ||popmonetizer.net^
 ||popmyads.com^
 ||poppinhelodes.store^
@@ -8422,6 +8435,7 @@
 ||r.leadzu.com^
 ||r.trackwilltrk.com^
 ||r.trwl1.com^
+||r.wdfl.co^
 ||r1.snnd.co^
 ||r3adyt0download.com^
 ||r3oodleaw5au4ssir.com^
@@ -8730,6 +8744,7 @@
 ||s.iaudienc.com^
 ||s.infogram.com^
 ||s.media-imdb.com^
+||s.nitropay.com^
 ||s.ntv.io^
 ||s.yjtag.jp^
 ||s.zkcdn.net^
@@ -8977,6 +8992,7 @@
 ||slidingfeddans.uno^
 ||slight-responsibility.pro^
 ||slimlyeneas.com^
+||slipheirphysician.com^
 ||slipperysack.com^
 ||slopeaota.com^
 ||sltvhyjthx.com^
@@ -9335,6 +9351,7 @@
 ||t.firstpromoter.com^
 ||t.freelancer.com^
 ||t.insigit.com^
+||t.lumupu.xyz^
 ||t.wayfair.com^
 ||t7cp4fldl.com^
 ||t84c3srgclc9.com^
@@ -9350,6 +9367,7 @@
 ||tafovzxhufhe.com^
 ||tag.imagino.com^
 ||tag.wknd.ai^
+||tagdelivery.mayoclinic.org^
 ||tagger.ope.scmp.com^
 ||tagmanager.alright.network^
 ||tagmngrs.com^
@@ -9428,6 +9446,7 @@
 ||telemetry.acronis.com^
 ||telemetry.api.swiftkey.com^
 ||telemetry.art19.com^
+||telemetry.canva.com^
 ||telemetry.dropbox.com^
 ||telemetry.malwarebytes.com^
 ||telemetry.tradingview.com^
@@ -9457,6 +9476,7 @@
 ||tgzobwoutuwn.com^
 ||thaeinai.com^
 ||thakscholae.com^
+||thanksgivingdelights.name^
 ||thanosofcos5.com^
 ||tharbadir.com^
 ||that-muscle.com^
@@ -9595,6 +9615,7 @@
 ||track.flexlinkspro.com^
 ||track.gotprofits.com^
 ||track.hubspot.com^
+||track.lacunads.com^
 ||track.lexico.com^
 ||track.mobgc.com^
 ||track.mp4.center^
@@ -9735,6 +9756,7 @@
 ||tweedygirly.com^
 ||twinrdsrv.com^
 ||twinrdsyn.com^
+||twinrdsyte.com^
 ||twinsoflave.com^
 ||twistconcept.com^
 ||twittad.com^
@@ -10079,6 +10101,7 @@
 ||webeyemob.com^
 ||webmasterplan.com^
 ||webmasterplan.de^
+||webmetrics.mayoclinic.org^
 ||weborama.com^
 ||weborama.net^
 ||webpartners.co^
@@ -10137,6 +10160,7 @@
 ||widespace.com^
 ||widget.manychat.com^
 ||widget.privy.com^
+||widget.sparrow.ru^
 ||widgetbucks.com^
 ||widgets.coinmarketcap.com^
 ||widow5blackfr.com^

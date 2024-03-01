@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 26 Feb 2024 14:34 UTC+7
-! Version: 2402261434
-! Blocked: 4,814 rules
+! Last modified: 01 Mar 2024 16:08 UTC+7
+! Version: 2403011608
+! Blocked: 4,823 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -474,6 +474,7 @@
 ||ad.gem88.win^
 ||ad.mibet.com^
 ||ad.playhit.biz^
+||ad.qc789.vip^
 ||ad.rikvip.uk^
 ||ad.taihit.win^
 ||ad.yo88.net^
@@ -895,6 +896,7 @@
 ||cdn.868vip.live^
 ||cdn.888loc.io^
 ||cdn.kingbet86.info^
+||cdn.megawin88.mobi^
 ||cdn.vbet88.fun^
 ||cdn.vicplay.io^
 ||cdn.vwin010.com^
@@ -1092,6 +1094,7 @@
 ||debet.top^
 ||debet.win^
 ||debet88.win^
+||deca88.com^
 ||dfbertuah.com^
 ||dfchoingay.com^
 ||dffgames.com^
@@ -3389,6 +3392,7 @@
 ||media.1789bet.com^
 ||media.happynb.com^
 ||media.lixi99.com^
+||megawin88.mobi^
 ||mi3368.com^
 ||mibet.cc^
 ||mibet.com^
@@ -3716,6 +3720,7 @@
 ||qc.x8.club^
 ||qc.x8vn.top^
 ||qc.zo88.org^
+||qc789.vip^
 ||qh205.com^
 ||qh215.com^
 ||qh217.com^
@@ -4052,6 +4057,7 @@
 ||tai.rikvip.tv^
 ||tai.rikvip.us^
 ||tai.rikvip.vip^
+||tai.rikvip.win^
 ||tai.samvip.bet^
 ||tai.son.club^
 ||tai.taisum2.com^
@@ -4133,6 +4139,7 @@
 ||taiv8.com^
 ||taiv8.info^
 ||taiv8.top^
+||taivip52.shop^
 ||taiwin79.win^
 ||taix1.club^
 ||taixhu.gg^
@@ -4150,6 +4157,7 @@
 ||tbr.games^
 ||tdtc.cc^
 ||tdtc.fun^
+||tdtc.vn^
 ||tdtcyy.com^
 ||tdtczz.com^
 ||tf2022v.com^
@@ -4626,6 +4634,7 @@
 ||wbet58.com^
 ||wbet99.net^
 ||wc.taiuk88.net^
+||wcdn.megawin88.mobi^
 ||wcdn.sdjlbg.xyz^
 ||wcdn.vbet88.fun^
 ||we1win.com^
