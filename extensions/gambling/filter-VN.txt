@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 02 Mar 2024 21:06 UTC+7
-! Version: 2403022106
-! Blocked: 4,823 rules
+! Last modified: 11 Mar 2024 16:35 UTC+7
+! Version: 2403111635
+! Blocked: 4,825 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -752,6 +752,7 @@
 ||bet69922.com^
 ||bet69933.com^
 ||bet69955.com^
+||bet88.systems^
 ||bet88010.com^
 ||bet88011.com^
 ||bet88012.com^
@@ -759,6 +760,7 @@
 ||bet88014.com^
 ||bet88099.com^
 ||bet885678.com^
+||bet88biz.com^
 ||betbanh88.com^
 ||betk8.fun^
 ||betk8vn.live^
