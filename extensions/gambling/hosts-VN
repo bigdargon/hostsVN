@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 11 Mar 2024 16:35 UTC+7
-# Version: 2403111635
-# Blocked: 5,459 domains
+# Last modified: 15 Mar 2024 22:43 UTC+7
+# Version: 2403152243
+# Blocked: 5,460 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1332,6 +1332,7 @@
 0.0.0.0 fun705.com
 0.0.0.0 fun7778.com
 0.0.0.0 fun789.club
+0.0.0.0 fun88.green
 0.0.0.0 fun881211.com
 0.0.0.0 fun88epl.com
 0.0.0.0 fun88event.com

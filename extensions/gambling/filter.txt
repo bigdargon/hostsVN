@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 11 Mar 2024 16:35 UTC+7
-! Version: 2403111635
-! Blocked: 149,999 rules
+! Last modified: 15 Mar 2024 22:43 UTC+7
+! Version: 2403152243
+! Blocked: 150,001 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -87132,6 +87132,7 @@
 ||app.8kbet.vn^
 ||app.betlv.com^
 ||app.k8cc.com^
+||app.vnd119.com^
 ||app.vx88.com^
 ||app.wellviet.net^
 ||app08980898.com^
@@ -103722,6 +103723,7 @@
 ||fun88-yo.com^
 ||fun88.biz^
 ||fun88.com^
+||fun88.green^
 ||fun88001.com^
 ||fun88003.com^
 ||fun88008.com^

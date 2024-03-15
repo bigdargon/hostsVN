@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 11 Mar 2024 16:35 UTC+7
-# Version: 2403111635
-# Blocked: 3,853 domains
+# Last modified: 15 Mar 2024 22:43 UTC+7
+# Version: 2403152243
+# Blocked: 3,860 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -128,6 +128,7 @@
 0.0.0.0 allegro-task.shop
 0.0.0.0 alovay24h.com
 0.0.0.0 ama-zmart.top
+0.0.0.0 amadbfk.shop
 0.0.0.0 amajwzon456.top
 0.0.0.0 amazonbig.asia
 0.0.0.0 amazonsg.shop
@@ -338,6 +339,7 @@
 0.0.0.0 cskh-dienmay-xanh.com
 0.0.0.0 cskh-dienmayxanhvn.com
 0.0.0.0 cskh-the-vpbank.com
+0.0.0.0 cskh-vib-canhan.com
 0.0.0.0 cskhdienmayxanh.com
 0.0.0.0 cskhdienmayxanhvn.com
 0.0.0.0 cskhmayxanh.com
@@ -772,6 +774,7 @@
 0.0.0.0 hethonggiaodichvidientu247.com
 0.0.0.0 hethongquatang.vn
 0.0.0.0 hethongviet99.com
+0.0.0.0 hgff11.com
 0.0.0.0 hhwd68.com
 0.0.0.0 hi-go.shop
 0.0.0.0 hihashop.com
@@ -1916,6 +1919,7 @@
 0.0.0.0 saokenganhangvn.com
 0.0.0.0 sbetviet.com
 0.0.0.0 sc0mvn.com
+0.0.0.0 scb.chamsockhachhang-truc-tuyen-the.online
 0.0.0.0 scb.com.vn-cn.xyz
 0.0.0.0 scb.com.vn-cr.life
 0.0.0.0 scb.com.vn-iz.info
@@ -2432,11 +2436,13 @@
 0.0.0.0 sodj88.com
 0.0.0.0 softwarefpt.com
 0.0.0.0 somnio-evolve.com
+0.0.0.0 soppe68.com
 0.0.0.0 sopper68.com
 0.0.0.0 sos-icloud.com
 0.0.0.0 sp315693vn.com
 0.0.0.0 sp8668vn.com
 0.0.0.0 spark123.shop
+0.0.0.0 spmail86.com
 0.0.0.0 spmail88.com
 0.0.0.0 spohopena.com
 0.0.0.0 spohopenm.com
@@ -3522,6 +3528,7 @@
 0.0.0.0 vn66954shp.com
 0.0.0.0 vn6932shp.com
 0.0.0.0 vn765.com
+0.0.0.0 vn88631p.com
 0.0.0.0 vn88khuyenmai.life
 0.0.0.0 vn88khuyenmai.site
 0.0.0.0 vn88khuyenmai.space
