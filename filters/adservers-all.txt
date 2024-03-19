@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 11 Mar 2024 16:34 UTC+7
-! Version: 2403111634
-! Blocked: 10,514 rules
+! Last modified: 19 Mar 2024 22:25 UTC+7
+! Version: 2403192225
+! Blocked: 10,509 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1485,7 +1485,6 @@
 ||ccpa.psg.nexstardigital.net^
 ||cdn.avantisvideo.com^
 ||cdn.popupsmart.com^
-||cdn.tinypass.com^
 ||cdn10236888.ahacdn.me^
 ||cdn11763314.ahacdn.me^
 ||cdn12359286.ahacdn.me^
@@ -1610,7 +1609,6 @@
 ||d31qbv1cthcecs.cloudfront.net^
 ||d3luypns9uh4a4.cloudfront.net^
 ||d41.co^
-||dashboard.tinypass.com^
 ||data-optout-service.uca.cloud.unity3d.com^
 ||data-sharing-consent.aprod.scopely.io^
 ||data.adobedc.net^
@@ -1718,7 +1716,6 @@
 ||exoclick.com^
 ||exosrv.com^
 ||exoticads.com^
-||experience.tinypass.com^
 ||explorads.com^
 ||expmediadirect1.com^
 ||exponential.com^
@@ -10515,8 +10512,6 @@
 ||zygomasbeaches.guru^
 ||zz.bdstatic.com^
 ||zzelicawwofl.com^
-||connect.facebook.com^
-||connect.facebook.net^
 ||appsflyer.com^
 ||cds.h5z9g8y6.hwcdn.net^
 @@||app.appsflyer.com^|

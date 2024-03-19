@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 15 Mar 2024 22:43 UTC+7
-! Version: 2403152243
-! Blocked: 4,826 rules
+! Last modified: 19 Mar 2024 22:26 UTC+7
+! Version: 2403192226
+! Blocked: 4,828 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1293,6 +1293,7 @@
 ||fb88zo.com^
 ||fb9.com^
 ||fb9fun.com^
+||fbking33.com^
 ||fbw.11bet.us^
 ||fc1.fcb88d.com^
 ||fc2.fcb88d.com^
@@ -3247,6 +3248,7 @@
 ||m.dibongda777.com^
 ||m.dktp88.com^
 ||m.elo88.com^
+||m.fbking33.com^
 ||m.five88.com^
 ||m.five88.me^
 ||m.fivevn.net^

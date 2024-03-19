@@ -10676,10 +10676,6 @@
 #[sail-track.com]
 0.0.0.0 api.sail-track.com
 0.0.0.0 aws-api.sail-track.com
-#[tinypass.com]
-0.0.0.0 cdn.tinypass.com
-0.0.0.0 dashboard.tinypass.com
-0.0.0.0 experience.tinypass.com
 #[visualwebsiteoptimizer.com]
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 r1.visualwebsiteoptimizer.com
