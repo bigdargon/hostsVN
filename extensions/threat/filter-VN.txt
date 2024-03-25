@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 19 Mar 2024 22:26 UTC+7
-! Version: 2403192226
-! Blocked: 3,809 rules
+! Last modified: 25 Mar 2024 10:06 UTC+7
+! Version: 2403251006
+! Blocked: 3,820 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -72,8 +72,10 @@
 ||9smomo.com^
 ||a666.vn^
 ||aaeeonmart.com^
+||abb-vnbank.cc^
 ||abbabbbank.com^
 ||abbankpro.com^
+||abbankquick.com^
 ||abbankvn.com^
 ||abc-vay.com^
 ||abc8-vay.com^
@@ -404,6 +406,7 @@
 ||dichvucong-gov.com^
 ||dichvucong.agov.net^
 ||dichvucong.dancuquocgia.net^
+||dichvucong.dulieuquocgia.com^
 ||dichvucong.hgov.cc^
 ||dichvucong.hgov.net^
 ||dichvucong.kgov.net^
@@ -478,6 +481,7 @@
 ||ebanking.ttoh4.com^
 ||ebanking.wiopm.com^
 ||ebankingshopee.vn^
+||ebayget.cc^
 ||ebayshopnet.com^
 ||ebeuboay.cc^
 ||ebmarketingshops.com^
@@ -1151,6 +1155,7 @@
 ||lstmoney.xyz^
 ||luuvanquang.com^
 ||lvietcombank.com^
+||lzd2024.com^
 ||m-facebookk.com.vn^
 ||m-fecabook.com^
 ||m.12luxury.com^
@@ -1947,6 +1952,7 @@
 ||sdqwf.ga^
 ||seabank-nganhanghanoi.com^
 ||sendovip.com^
+||sendovn.com^
 ||senopaee.com^
 ||servevietnam.com^
 ||service.tpbxnk.com^
@@ -2159,6 +2165,7 @@
 ||shopeepv.com^
 ||shopees.app^
 ||shopeeshoppimg.com^
+||shopeesmarket.com^
 ||shopeeson.com^
 ||shopeesukien.com^
 ||shopeetiki.com^
@@ -2552,6 +2559,7 @@
 ||tadmv.com^
 ||tafcaz.com^
 ||tafccc.com^
+||tah0a.com^
 ||tah2a.com^
 ||taiappbank.info^
 ||taichinhacs.biz^
@@ -2600,6 +2608,7 @@
 ||tb55788.com^
 ||tb55988.com^
 ||tc-viet.click^
+||tdkd01.com^
 ||tdtc.shop^
 ||techcombank.ngan-hang.net^
 ||techcombank.site^
@@ -2950,6 +2959,7 @@
 ||tuanlevang.vn^
 ||tuanlocvang123.com^
 ||tubevay.com^
+||tuoitre24h.info^
 ||tututiki.com^
 ||tuvanruttien.com^
 ||tuyendung-shopee.com^
@@ -3762,6 +3772,7 @@
 ||wviietcombank.com^
 ||wvvietcombank.com^
 ||wvwiietcoombank.com^
+||www-fb.com^
 ||www-icloud.com^
 ||www-icloudid.com^
 ||www-mfacebook.com.vn^

@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 19 Mar 2024 22:26 UTC+7
-# Version: 2403192226
-# Blocked: 4,166 domains
+# Last modified: 25 Mar 2024 10:06 UTC+7
+# Version: 2403251006
+# Blocked: 4,178 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -82,8 +82,10 @@
 0.0.0.0 Free-4paid.com
 0.0.0.0 a666.vn
 0.0.0.0 aaeeonmart.com
+0.0.0.0 abb-vnbank.cc
 0.0.0.0 abbabbbank.com
 0.0.0.0 abbankpro.com
+0.0.0.0 abbankquick.com
 0.0.0.0 abbankvn.com
 0.0.0.0 abc-vay.com
 0.0.0.0 abc8-vay.com
@@ -500,6 +502,7 @@
 0.0.0.0 dichvucong-gov.com
 0.0.0.0 dichvucong.agov.net
 0.0.0.0 dichvucong.dancuquocgia.net
+0.0.0.0 dichvucong.dulieuquocgia.com
 0.0.0.0 dichvucong.hgov.cc
 0.0.0.0 dichvucong.hgov.net
 0.0.0.0 dichvucong.kgov.net
@@ -580,6 +583,7 @@
 0.0.0.0 ebanking.ttoh4.com
 0.0.0.0 ebanking.wiopm.com
 0.0.0.0 ebankingshopee.vn
+0.0.0.0 ebayget.cc
 0.0.0.0 ebayshopnet.com
 0.0.0.0 ebeuboay.cc
 0.0.0.0 ebmarketingshops.com
@@ -1328,6 +1332,7 @@
 0.0.0.0 lstmoney.xyz
 0.0.0.0 luuvanquang.com
 0.0.0.0 lvietcombank.com
+0.0.0.0 lzd2024.com
 0.0.0.0 m-facebookk.com.vn
 0.0.0.0 m-fecabook.com
 0.0.0.0 m.12luxury.com
@@ -2188,6 +2193,7 @@
 0.0.0.0 sdqwf.ga
 0.0.0.0 seabank-nganhanghanoi.com
 0.0.0.0 sendovip.com
+0.0.0.0 sendovn.com
 0.0.0.0 senopaee.com
 0.0.0.0 seostar2.xyz
 0.0.0.0 serialfull.info
@@ -2807,6 +2813,7 @@
 0.0.0.0 tafcaz.com
 0.0.0.0 tafccc.com
 0.0.0.0 tagclick-cdn.com
+0.0.0.0 tah0a.com
 0.0.0.0 tah2a.com
 0.0.0.0 taiappbank.info
 0.0.0.0 taichinhacs.biz
@@ -2856,6 +2863,7 @@
 0.0.0.0 tb55988.com
 0.0.0.0 tc-clicks.com
 0.0.0.0 tc-viet.click
+0.0.0.0 tdkd01.com
 0.0.0.0 tdtc.shop
 0.0.0.0 techcombank.ngan-hang.net
 0.0.0.0 techcombank.site
@@ -3217,6 +3225,7 @@
 0.0.0.0 tuanlevang.vn
 0.0.0.0 tuanlocvang123.com
 0.0.0.0 tubevay.com
+0.0.0.0 tuoitre24h.info
 0.0.0.0 tututiki.com
 0.0.0.0 tuvanruttien.com
 0.0.0.0 tuyendung-shopee.com
@@ -4054,6 +4063,7 @@
 0.0.0.0 wviietcombank.com
 0.0.0.0 wvvietcombank.com
 0.0.0.0 wvwiietcoombank.com
+0.0.0.0 www-fb.com
 0.0.0.0 www-icloud.com
 0.0.0.0 www-icloudid.com
 0.0.0.0 www-mfacebook.com.vn
@@ -4068,6 +4078,7 @@
 0.0.0.0 www.88lotte.com
 0.0.0.0 www.999lotte.com
 0.0.0.0 www.99lotte.com
+0.0.0.0 www.abb-vnbank.cc
 0.0.0.0 www.abc-vay.com
 0.0.0.0 www.acs84.com
 0.0.0.0 www.checkaccff.com
@@ -4101,6 +4112,7 @@
 0.0.0.0 www.shbfinan.com
 0.0.0.0 www.shbfinanoe.com
 0.0.0.0 www.shbfinans.com
+0.0.0.0 www.shopeesmarket.com
 0.0.0.0 www.sukienmd.epizy.com
 0.0.0.0 www.tpbank84.com
 0.0.0.0 www.vcbdigeibonk.com
