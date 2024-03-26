@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 25 Mar 2024 10:06 UTC+7
-# Version: 2403251006
-# Blocked: 151,392 domains
+# Last modified: 26 Mar 2024 23:25 UTC+7
+# Version: 2403262325
+# Blocked: 151,399 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -97382,6 +97382,7 @@
 0.0.0.0 cod5868.com
 0.0.0.0 cod88x.com
 0.0.0.0 cod898.com
+0.0.0.0 code.pp88app.com
 0.0.0.0 codeiwin.com
 0.0.0.0 coderiik.win
 0.0.0.0 codetiwin.net
@@ -128783,6 +128784,11 @@
 0.0.0.0 pp7dp.com
 0.0.0.0 pp81866.com
 0.0.0.0 pp83455.com
+0.0.0.0 pp88.com
+0.0.0.0 pp88.dev
+0.0.0.0 pp88.icu
+0.0.0.0 pp88app.com
+0.0.0.0 pp88d.net
 0.0.0.0 pp9448.com
 0.0.0.0 ppaawinwin.com
 0.0.0.0 ppbk1.com
@@ -143291,6 +143297,7 @@
 0.0.0.0 www.partypoker.cz
 0.0.0.0 www.phbet.com
 0.0.0.0 www.playdsb.com
+0.0.0.0 www.pp88.icu
 0.0.0.0 www.pragmaticplay.com
 0.0.0.0 www.prairiesedgecasino.com
 0.0.0.0 www.qbet.com

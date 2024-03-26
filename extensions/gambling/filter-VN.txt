@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 25 Mar 2024 10:06 UTC+7
-! Version: 2403251006
-! Blocked: 4,828 rules
+! Last modified: 26 Mar 2024 23:25 UTC+7
+! Version: 2403262325
+! Blocked: 4,830 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3683,6 +3683,8 @@
 ||portal.taisum2.com^
 ||portal.vip11.us^
 ||portal.xinloiduocchua.co^
+||pp88.dev^
+||pp88.icu^
 ||pro.vuigiaitri.org^
 ||prod.bwingmkt1.com^
 ||prod.bwingmkt10.com^

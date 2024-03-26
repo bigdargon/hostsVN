@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 25 Mar 2024 10:06 UTC+7
-! Version: 2403251006
-! Blocked: 150,008 rules
+! Last modified: 26 Mar 2024 23:25 UTC+7
+! Version: 2403262325
+! Blocked: 150,014 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -97403,6 +97403,7 @@
 ||cod5868.com^
 ||cod88x.com^
 ||cod898.com^
+||code.pp88app.com^
 ||codeiwin.com^
 ||coderiik.win^
 ||codetiwin.net^
@@ -128825,6 +128826,11 @@
 ||pp7dp.com^
 ||pp81866.com^
 ||pp83455.com^
+||pp88.com^
+||pp88.dev^
+||pp88.icu^
+||pp88app.com^
+||pp88d.net^
 ||pp9448.com^
 ||ppaawinwin.com^
 ||ppbk1.com^
