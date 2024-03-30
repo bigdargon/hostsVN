@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 26 Mar 2024 23:25 UTC+7
-! Version: 2403262325
-! Blocked: 4,830 rules
+! Last modified: 30 Mar 2024 18:43 UTC+7
+! Version: 2403301843
+! Blocked: 4,832 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -577,6 +577,7 @@
 ||alo789viet.com^
 ||alo88.bet^
 ||alo888.com^
+||aoays.xyz^
 ||api.118kbet.com^
 ||api.11zalo.com^
 ||api.123bhh.com^
@@ -3807,6 +3808,7 @@
 ||s.8xbet.xyz^
 ||s.p3vn.co^
 ||s.sv66c.com^
+||s0106.com^
 ||s0kn5.com^
 ||s1.sin88.biz^
 ||s1.sin88.cc^
