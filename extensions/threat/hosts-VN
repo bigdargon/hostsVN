@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 30 Mar 2024 18:43 UTC+7
-# Version: 2403301843
-# Blocked: 3,872 domains
+# Last modified: 31 Mar 2024 21:36 UTC+7
+# Version: 2403312136
+# Blocked: 3,894 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -106,6 +106,7 @@
 0.0.0.0 adkiemtien123.click
 0.0.0.0 admin-vayvonvietthanh.com
 0.0.0.0 ae888vip.com
+0.0.0.0 aeeonmaill.com
 0.0.0.0 aeeonmart.com
 0.0.0.0 aeoonmail.com
 0.0.0.0 aeshopvn.com
@@ -162,6 +163,7 @@
 0.0.0.0 asiashop666.com
 0.0.0.0 asiashop888.com
 0.0.0.0 asiashop999.com
+0.0.0.0 atqa11.com
 0.0.0.0 atspace.tv
 0.0.0.0 atyphy.cyou
 0.0.0.0 avietcombank.com
@@ -345,6 +347,7 @@
 0.0.0.0 cskhdienmayxanh.com
 0.0.0.0 cskhdienmayxanhvn.com
 0.0.0.0 cskhmayxanh.com
+0.0.0.0 cskhmbcanhan.com
 0.0.0.0 cskhxacminhtaikhoangarena-vn.com
 0.0.0.0 ctv-shopee.com
 0.0.0.0 ctvay.net
@@ -401,9 +404,11 @@
 0.0.0.0 dich-vu-the-cashback-vib.com
 0.0.0.0 dich-vu-the-ez-vpbank.com
 0.0.0.0 dich-vu-the-kt3-vib.com
+0.0.0.0 dich-vu-the-vdiamond-vib.com
 0.0.0.0 dich-vu-the-vdiamond-vpbank.com
 0.0.0.0 dich-vu-the-vvip-vpb.com
 0.0.0.0 dich-vu-update-vpbank.com
+0.0.0.0 dich-vu-vip3-vib.com
 0.0.0.0 dichvu-chuyentien24h.000webhostapp.com
 0.0.0.0 dichvu-dien-mayxanh.com
 0.0.0.0 dichvuchuyentien-ind.weebly.com
@@ -416,8 +421,10 @@
 0.0.0.0 dichvucong.kgov.net
 0.0.0.0 dichvucong.lgov.net
 0.0.0.0 dichvucong.tgovn.cc
+0.0.0.0 dichvucong.tkgov.com
 0.0.0.0 dichvucong.vgovn.net
 0.0.0.0 dichvucong.xgovn.net
+0.0.0.0 dichvucong.zlgov.com
 0.0.0.0 dichvucong.zvgov.com
 0.0.0.0 dichvucongbaohiemxahoi.com
 0.0.0.0 dichvudaohantindung.com
@@ -498,6 +505,7 @@
 0.0.0.0 eqav77.com
 0.0.0.0 eserbank.com
 0.0.0.0 etkf44.com
+0.0.0.0 eufk22.com
 0.0.0.0 eulo11.com
 0.0.0.0 eulo99.com
 0.0.0.0 evay.info
@@ -1759,6 +1767,7 @@
 0.0.0.0 playtogethershop.com
 0.0.0.0 playtogethervietnam.com
 0.0.0.0 playtogethervn-napthe.com
+0.0.0.0 policeonline.club
 0.0.0.0 popvietnam.xyz
 0.0.0.0 pos-quettheonline.com
 0.0.0.0 postindungnhanh-vn.com
@@ -2316,6 +2325,7 @@
 0.0.0.0 shoppe81.vip
 0.0.0.0 shoppe85.vip
 0.0.0.0 shoppee-sale-vn.tk
+0.0.0.0 shoppeemall.net
 0.0.0.0 shoppeflashsale.online
 0.0.0.0 shoppeg.com
 0.0.0.0 shoppevip.com
@@ -2570,6 +2580,7 @@
 0.0.0.0 taichinhcaptoc.com
 0.0.0.0 taichinhhbaotin.com
 0.0.0.0 taichinhhoangkim.com
+0.0.0.0 taichinhmb.com
 0.0.0.0 taichinhtamanphat.com
 0.0.0.0 taichinhthongminh.online
 0.0.0.0 taichinhvantin.net
@@ -2607,6 +2618,8 @@
 0.0.0.0 tb55988.com
 0.0.0.0 tc-viet.click
 0.0.0.0 tdkd01.com
+0.0.0.0 tdkd02.com
+0.0.0.0 tdkd03.com
 0.0.0.0 tdtc.shop
 0.0.0.0 techcombank.ngan-hang.net
 0.0.0.0 techcombank.site
@@ -2727,6 +2740,7 @@
 0.0.0.0 tiki98.com
 0.0.0.0 tiki9833.com
 0.0.0.0 tikia.vip
+0.0.0.0 tikib.vip
 0.0.0.0 tikictv.com
 0.0.0.0 tikictv1.com
 0.0.0.0 tikictv12.com
@@ -3209,6 +3223,7 @@
 0.0.0.0 vib.chamsockhachang-tructuyen-the.online
 0.0.0.0 vib.chamsockhachang-tructuyen.online
 0.0.0.0 vib.chamsockhachhang-tructuyen-the-visa.com
+0.0.0.0 vib.chamsocthekhachang-tructuyen.com.vn
 0.0.0.0 vib.khach-hang-the-tructuyen.com
 0.0.0.0 vib.khach-hang-the-tructuyen.online
 0.0.0.0 vib.mobi
@@ -3524,6 +3539,7 @@
 0.0.0.0 vn-vp.xyz
 0.0.0.0 vn.btaynguyenfood.com
 0.0.0.0 vn11268shp.com
+0.0.0.0 vn11568p.com
 0.0.0.0 vn119shop.com
 0.0.0.0 vn168d.com
 0.0.0.0 vn22647shp.com
@@ -3537,6 +3553,7 @@
 0.0.0.0 vn66954shp.com
 0.0.0.0 vn6932shp.com
 0.0.0.0 vn765.com
+0.0.0.0 vn85548s.com
 0.0.0.0 vn88631p.com
 0.0.0.0 vn88khuyenmai.life
 0.0.0.0 vn88khuyenmai.site
@@ -3788,11 +3805,16 @@
 0.0.0.0 www.abb-vnbank.cc
 0.0.0.0 www.abc-vay.com
 0.0.0.0 www.acs84.com
+0.0.0.0 www.amadbfk.vip
 0.0.0.0 www.checkaccff.com
 0.0.0.0 www.dichvuchuyentien-ind.weebly.com
 0.0.0.0 www.e-commercesc.cc
 0.0.0.0 www.fccomvn.com
 0.0.0.0 www.findiphone.mobi
+0.0.0.0 www.hdsaison-app.vip
+0.0.0.0 www.hdsaison-com.cc
+0.0.0.0 www.hdsaison-hi.cc
+0.0.0.0 www.hdsaison-vn.cc
 0.0.0.0 www.hdsaisonvn.com
 0.0.0.0 www.idapple.com
 0.0.0.0 www.jaccsc.com
