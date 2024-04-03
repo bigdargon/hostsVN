@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 31 Mar 2024 21:36 UTC+7
-# Version: 2403312136
-# Blocked: 4,200 domains
+# Last modified: 03 Apr 2024 15:13 UTC+7
+# Version: 2404031513
+# Blocked: 4,217 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -190,6 +190,7 @@
 0.0.0.0 apphdbank.fun
 0.0.0.0 apple-vn.shop
 0.0.0.0 apple.icloud.mar-kt.com.mx
+0.0.0.0 apple.support-find-my-iphone.com
 0.0.0.0 apple.support-maps.live
 0.0.0.0 apps-for-pc.com
 0.0.0.0 appvaytien.vn
@@ -428,6 +429,7 @@
 0.0.0.0 cskh-dienmayxanhvn.com
 0.0.0.0 cskh-the-vpbank.com
 0.0.0.0 cskh-vib-canhan.com
+0.0.0.0 cskh-vib.ho-tro-tin-dung-ca-nhan.com
 0.0.0.0 cskhdienmayxanh.com
 0.0.0.0 cskhdienmayxanhvn.com
 0.0.0.0 cskhmayxanh.com
@@ -501,11 +503,13 @@
 0.0.0.0 dich-vu-the-vvip-vpb.com
 0.0.0.0 dich-vu-update-vpbank.com
 0.0.0.0 dich-vu-vip3-vib.com
+0.0.0.0 dich-vu-xvip-vib.com
 0.0.0.0 dichvu-chuyentien24h.000webhostapp.com
 0.0.0.0 dichvu-dien-mayxanh.com
 0.0.0.0 dichvuchuyentien-ind.weebly.com
 0.0.0.0 dichvucong-gov.com
 0.0.0.0 dichvucong.agov.net
+0.0.0.0 dichvucong.cvgov.com
 0.0.0.0 dichvucong.dancuquocgia.net
 0.0.0.0 dichvucong.dulieuquocgia.com
 0.0.0.0 dichvucong.hgov.cc
@@ -616,6 +620,7 @@
 0.0.0.0 essbritanidim.club
 0.0.0.0 etkf44.com
 0.0.0.0 eufk22.com
+0.0.0.0 eufk55.com
 0.0.0.0 eulo11.com
 0.0.0.0 eulo99.com
 0.0.0.0 evay.info
@@ -1541,6 +1546,7 @@
 0.0.0.0 morganbank.pw
 0.0.0.0 morganbank.site
 0.0.0.0 morganbankk.com
+0.0.0.0 motaikhoanchungkhoanvps.com
 0.0.0.0 motaikhoannganhang.online
 0.0.0.0 mothe.tindung-hd.com
 0.0.0.0 moviet.icu
@@ -1818,6 +1824,7 @@
 0.0.0.0 nganhang88.store
 0.0.0.0 nganhanganbinh.com
 0.0.0.0 nganhangbidv.com
+0.0.0.0 nganhangsaigon.org
 0.0.0.0 nganhangsaokevnn.com
 0.0.0.0 nganhangshopeevn.com
 0.0.0.0 nganhangsk.online
@@ -2156,6 +2163,7 @@
 0.0.0.0 rwrb55.com
 0.0.0.0 rwrb66.com
 0.0.0.0 s22khuyenmai.xyz
+0.0.0.0 s33788.com
 0.0.0.0 sa.unixpop.xyz
 0.0.0.0 sacchaeleduk.com
 0.0.0.0 sacombank.net.vn
@@ -2227,6 +2235,7 @@
 0.0.0.0 shbkhuyenmai.com
 0.0.0.0 shek66.com
 0.0.0.0 shilla.skrfgrl.cn
+0.0.0.0 shinhan.ho-tro-tin-dung-ca-nhan.com
 0.0.0.0 shinhan0.com
 0.0.0.0 shinhanapp.org
 0.0.0.0 shinhanbank-khcn.com
@@ -3014,6 +3023,7 @@
 0.0.0.0 tikictv9.com
 0.0.0.0 tikihk.com
 0.0.0.0 tikiiii.com
+0.0.0.0 tikimall.org
 0.0.0.0 tikimall.top
 0.0.0.0 tikimast.com
 0.0.0.0 tikion8.com
@@ -3100,6 +3110,7 @@
 0.0.0.0 tinthuongvn01.com
 0.0.0.0 tintinvay.com
 0.0.0.0 tintrian2022.com
+0.0.0.0 tintuc-24h.com
 0.0.0.0 tintucnganhang.fun
 0.0.0.0 tinvay.vn
 0.0.0.0 tinvietttt.com
@@ -3130,6 +3141,7 @@
 0.0.0.0 tpbank-com.com
 0.0.0.0 tpbank-hanoi.com
 0.0.0.0 tpbank-vaynhanh.com
+0.0.0.0 tpbank.chamsocthekhachhang-truc-tuyen.com
 0.0.0.0 tpbank.vn-cl.xyz
 0.0.0.0 tpbank.vn-vpb.top
 0.0.0.0 tpbank84.com
@@ -3505,6 +3517,7 @@
 0.0.0.0 vib.khach-hang-the-tructuyen.com
 0.0.0.0 vib.khach-hang-the-tructuyen.online
 0.0.0.0 vib.mobi
+0.0.0.0 vib.truc-tuyen-cham-socthekhachhang.com
 0.0.0.0 vib.tructuyen-chamsockhachang-the.com
 0.0.0.0 vib.tuvan-chamsockhachhang.com
 0.0.0.0 vib8-vay.com
@@ -3830,10 +3843,13 @@
 0.0.0.0 vn55866shp.com
 0.0.0.0 vn6315shp.com
 0.0.0.0 vn66733shop.com
+0.0.0.0 vn667755s.com
 0.0.0.0 vn66954shp.com
 0.0.0.0 vn6932shp.com
 0.0.0.0 vn765.com
+0.0.0.0 vn78223p.com
 0.0.0.0 vn85548s.com
+0.0.0.0 vn86414s.com
 0.0.0.0 vn88631p.com
 0.0.0.0 vn88khuyenmai.life
 0.0.0.0 vn88khuyenmai.site
@@ -4136,6 +4152,7 @@
 0.0.0.0 www.shbfinans.com
 0.0.0.0 www.shopeesmarket.com
 0.0.0.0 www.sukienmd.epizy.com
+0.0.0.0 www.taikhoanvps.com.vn
 0.0.0.0 www.tpbank84.com
 0.0.0.0 www.vcbdigeibonk.com
 0.0.0.0 www.vcbigdank.com

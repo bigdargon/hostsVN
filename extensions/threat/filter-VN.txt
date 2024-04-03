@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 31 Mar 2024 21:36 UTC+7
-! Version: 2403312136
-! Blocked: 3,842 rules
+! Last modified: 03 Apr 2024 15:13 UTC+7
+! Version: 2404031513
+! Blocked: 3,859 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -148,6 +148,7 @@
 ||app.zingmp3.pro^
 ||apphdbank.fun^
 ||apple-vn.shop^
+||apple.support-find-my-iphone.com^
 ||apple.support-maps.live^
 ||appvaytien.vn^
 ||apteka-money.ru^
@@ -341,6 +342,7 @@
 ||cskh-dienmayxanhvn.com^
 ||cskh-the-vpbank.com^
 ||cskh-vib-canhan.com^
+||cskh-vib.ho-tro-tin-dung-ca-nhan.com^
 ||cskhdienmayxanh.com^
 ||cskhdienmayxanhvn.com^
 ||cskhmayxanh.com^
@@ -406,11 +408,13 @@
 ||dich-vu-the-vvip-vpb.com^
 ||dich-vu-update-vpbank.com^
 ||dich-vu-vip3-vib.com^
+||dich-vu-xvip-vib.com^
 ||dichvu-chuyentien24h.000webhostapp.com^
 ||dichvu-dien-mayxanh.com^
 ||dichvuchuyentien-ind.weebly.com^
 ||dichvucong-gov.com^
 ||dichvucong.agov.net^
+||dichvucong.cvgov.com^
 ||dichvucong.dancuquocgia.net^
 ||dichvucong.dulieuquocgia.com^
 ||dichvucong.hgov.cc^
@@ -504,6 +508,7 @@
 ||eserbank.com^
 ||etkf44.com^
 ||eufk22.com^
+||eufk55.com^
 ||eulo11.com^
 ||eulo99.com^
 ||evay.info^
@@ -1361,6 +1366,7 @@
 ||morganbank.pw^
 ||morganbank.site^
 ||morganbankk.com^
+||motaikhoanchungkhoanvps.com^
 ||motaikhoannganhang.online^
 ||mothe.tindung-hd.com^
 ||moviet.icu^
@@ -1625,6 +1631,7 @@
 ||nganhang88.store^
 ||nganhanganbinh.com^
 ||nganhangbidv.com^
+||nganhangsaigon.org^
 ||nganhangsaokevnn.com^
 ||nganhangshopeevn.com^
 ||nganhangsk.online^
@@ -1922,6 +1929,7 @@
 ||rwrb55.com^
 ||rwrb66.com^
 ||s22khuyenmai.xyz^
+||s33788.com^
 ||sacchaeleduk.com^
 ||sacombank.net.vn^
 ||sacombank.vn-cl.xyz^
@@ -1984,6 +1992,7 @@
 ||shbfinans.com^
 ||shbkhuyenmai.com^
 ||shek66.com^
+||shinhan.ho-tro-tin-dung-ca-nhan.com^
 ||shinhan0.com^
 ||shinhanapp.org^
 ||shinhanbank-khcn.com^
@@ -2596,6 +2605,7 @@
 ||taikhoanquatang.vn^
 ||taikhoansodienthoai.com^
 ||taikhoanveri04.atwebpages.com^
+||taikhoanvps.com.vn^
 ||tailocmomo.com^
 ||tainangvietnhi.rf.gd^
 ||tainangvietnhi.weebly.com^
@@ -2759,6 +2769,7 @@
 ||tikictv9.com^
 ||tikihk.com^
 ||tikiiii.com^
+||tikimall.org^
 ||tikimall.top^
 ||tikimast.com^
 ||tikion8.com^
@@ -2845,6 +2856,7 @@
 ||tinthuongvn01.com^
 ||tintinvay.com^
 ||tintrian2022.com^
+||tintuc-24h.com^
 ||tintucnganhang.fun^
 ||tinvay.vn^
 ||tinvietttt.com^
@@ -2873,6 +2885,7 @@
 ||tpbank-com.com^
 ||tpbank-hanoi.com^
 ||tpbank-vaynhanh.com^
+||tpbank.chamsocthekhachhang-truc-tuyen.com^
 ||tpbank.vn-cl.xyz^
 ||tpbank.vn-vpb.top^
 ||tpbank84.com^
@@ -3234,6 +3247,7 @@
 ||vib.khach-hang-the-tructuyen.com^
 ||vib.khach-hang-the-tructuyen.online^
 ||vib.mobi^
+||vib.truc-tuyen-cham-socthekhachhang.com^
 ||vib.tructuyen-chamsockhachang-the.com^
 ||vib.tuvan-chamsockhachhang.com^
 ||vib8-vay.com^
@@ -3557,10 +3571,13 @@
 ||vn55866shp.com^
 ||vn6315shp.com^
 ||vn66733shop.com^
+||vn667755s.com^
 ||vn66954shp.com^
 ||vn6932shp.com^
 ||vn765.com^
+||vn78223p.com^
 ||vn85548s.com^
+||vn86414s.com^
 ||vn88631p.com^
 ||vn88khuyenmai.life^
 ||vn88khuyenmai.site^

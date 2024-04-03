@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 31 Mar 2024 21:36 UTC+7
-! Version: 2403312136
-! Blocked: 150,017 rules
+! Last modified: 03 Apr 2024 15:13 UTC+7
+! Version: 2404031513
+! Blocked: 150,018 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -128523,6 +128523,7 @@
 ||play.go88j.com^
 ||play.go88l.top^
 ||play.go88s.tv^
+||play.google.jogobego.com^
 ||play.googlellplay.com^
 ||play.gooogleplaymn.com^
 ||play.hit.club^
