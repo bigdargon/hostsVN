@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 03 Apr 2024 15:13 UTC+7
-# Version: 2404031513
-# Blocked: 151,403 domains
+# Last modified: 08 Apr 2024 10:49 UTC+7
+# Version: 2404081049
+# Blocked: 151,425 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8428,6 +8428,7 @@
 0.0.0.0 12b99.com
 0.0.0.0 12bet.com
 0.0.0.0 12bet.top
+0.0.0.0 12bet.uk
 0.0.0.0 12bet.zendesk.com
 0.0.0.0 12bet19119.com
 0.0.0.0 12bet8.com
@@ -44997,4 +44998,3 @@
 0.0.0.0 5290t.com
 0.0.0.0 5291155.com
 0.0.0.0 5291n.com
-0.0.0.0 5291s.com

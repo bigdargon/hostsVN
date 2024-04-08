@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 03 Apr 2024 15:13 UTC+7
-# Version: 2404031513
-# Blocked: 4,217 domains
+# Last modified: 08 Apr 2024 10:49 UTC+7
+# Version: 2404081049
+# Blocked: 4,223 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -453,6 +453,7 @@
 0.0.0.0 dadw55.com
 0.0.0.0 daef33.com
 0.0.0.0 daikinvietnam.vn
+0.0.0.0 dailyssshopee.com
 0.0.0.0 daisyshopp.com
 0.0.0.0 dangky.electricz.xyz
 0.0.0.0 dangkyappbank.online
@@ -512,6 +513,7 @@
 0.0.0.0 dichvucong.cvgov.com
 0.0.0.0 dichvucong.dancuquocgia.net
 0.0.0.0 dichvucong.dulieuquocgia.com
+0.0.0.0 dichvucong.govnx.com
 0.0.0.0 dichvucong.hgov.cc
 0.0.0.0 dichvucong.hgov.net
 0.0.0.0 dichvucong.kgov.net
@@ -519,6 +521,7 @@
 0.0.0.0 dichvucong.tgovn.cc
 0.0.0.0 dichvucong.tkgov.com
 0.0.0.0 dichvucong.vgovn.net
+0.0.0.0 dichvucong.vsgov.com
 0.0.0.0 dichvucong.xgovn.net
 0.0.0.0 dichvucong.zlgov.com
 0.0.0.0 dichvucong.zvgov.com
@@ -1117,6 +1120,7 @@
 0.0.0.0 keygenwin.com
 0.0.0.0 kfdg22.com
 0.0.0.0 kfdg55.com
+0.0.0.0 khach-hang-ca-nhan-vip5.com
 0.0.0.0 khangdz215.tk
 0.0.0.0 khcn-han-muc-tin-dung-ca-nhan.com
 0.0.0.0 khcn-tindung-vp.com
@@ -1624,6 +1628,7 @@
 0.0.0.0 nang-cap-vip-vpbank.com
 0.0.0.0 nang-han-muc-ido-vpbank.com
 0.0.0.0 nang-han-muc-vip-vpbank.com
+0.0.0.0 nang-hang-ca-nhan-vib-mrk1.com
 0.0.0.0 nang-hang-tin-dung-ca-nhan.com
 0.0.0.0 nanghanmuc-thetindung.com
 0.0.0.0 nanghanmuc-tindungvn.com
@@ -3842,6 +3847,7 @@
 0.0.0.0 vn55779p.com
 0.0.0.0 vn55866shp.com
 0.0.0.0 vn6315shp.com
+0.0.0.0 vn63251s.com
 0.0.0.0 vn66733shop.com
 0.0.0.0 vn667755s.com
 0.0.0.0 vn66954shp.com

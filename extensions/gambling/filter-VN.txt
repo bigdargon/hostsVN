@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 03 Apr 2024 15:13 UTC+7
-! Version: 2404031513
-! Blocked: 4,832 rules
+! Last modified: 08 Apr 2024 10:49 UTC+7
+! Version: 2404081049
+! Blocked: 4,835 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -819,6 +819,7 @@
 ||bk8vn.live^
 ||bk8vn.vip^
 ||bk8vnd.com^
+||bk8vninternal.com^
 ||bk8win.top^
 ||blogcmd368.com^
 ||blogf8bet.com^
@@ -1159,6 +1160,7 @@
 ||dp568.com^
 ||dp568bet.com^
 ||dubaivn.vip^
+||duongdenkhungthanh.com^
 ||e678y.com^
 ||easyk8.com^
 ||ebet.com^
@@ -1465,6 +1467,7 @@
 ||go88vn.vip^
 ||go88x.club^
 ||go8vui.info^
+||go99.pro^
 ||goal123.com^
 ||goal68.com^
 ||goal68.net^
