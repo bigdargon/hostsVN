@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 08 Apr 2024 10:49 UTC+7
-# Version: 2404081049
-# Blocked: 3,917 domains
+# Last modified: 09 Apr 2024 23:15 UTC+7
+# Version: 2404092315
+# Blocked: 3,922 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -281,6 +281,7 @@
 0.0.0.0 citivay.org
 0.0.0.0 cl247.me
 0.0.0.0 clb.vin
+0.0.0.0 cliphott.io.vn
 0.0.0.0 clmm.me
 0.0.0.0 clmm.nl
 0.0.0.0 clmm.pe
@@ -532,6 +533,7 @@
 0.0.0.0 expressmoney.cc
 0.0.0.0 facabook.id.vn
 0.0.0.0 face-book.co
+0.0.0.0 faceb00k.com.vn
 0.0.0.0 facebook.c0m.ltd
 0.0.0.0 facebook92288.blogspot.com
 0.0.0.0 facebookk.life
@@ -1269,6 +1271,7 @@
 0.0.0.0 mmomo.me
 0.0.0.0 mmovietnam.info
 0.0.0.0 mobaviet.shop
+0.0.0.0 mobile-facebook.com.vn
 0.0.0.0 mobile-ibankingshopee.vn
 0.0.0.0 mobilebanking-shopee.vn
 0.0.0.0 mobilebankingvn.com
@@ -2807,6 +2810,7 @@
 0.0.0.0 timx2918.com
 0.0.0.0 tin-dung-khcn-vib.com
 0.0.0.0 tin-dung-uu-tien-vib.com
+0.0.0.0 tin247.website
 0.0.0.0 tinbaothuongvn.com
 0.0.0.0 tinchap-nganhang.online
 0.0.0.0 tinchap-techcombank.store
@@ -3501,6 +3505,7 @@
 0.0.0.0 vn-ebanking.info
 0.0.0.0 vn-ebanks.xyz
 0.0.0.0 vn-email.shop
+0.0.0.0 vn-express.net
 0.0.0.0 vn-findmy.com
 0.0.0.0 vn-hc.info
 0.0.0.0 vn-i.cloud

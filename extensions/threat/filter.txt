@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 08 Apr 2024 10:49 UTC+7
-! Version: 2404081049
-! Blocked: 4,168 rules
+! Last modified: 09 Apr 2024 23:15 UTC+7
+! Version: 2404092315
+! Blocked: 4,173 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -347,6 +347,7 @@
 ||cl247.me^
 ||claudfront.net^
 ||clb.vin^
+||cliphott.io.vn^
 ||clmm.me^
 ||clmm.nl^
 ||clmm.pe^
@@ -640,6 +641,7 @@
 ||expressmoney.cc^
 ||facabook.id.vn^
 ||face-book.co^
+||faceb00k.com.vn^
 ||facebook.c0m.ltd^
 ||facebook92288.blogspot.com^
 ||facebookk.life^
@@ -1457,6 +1459,7 @@
 ||mmomo.me^
 ||mmovietnam.info^
 ||mobaviet.shop^
+||mobile-facebook.com.vn^
 ||mobile-ibankingshopee.vn^
 ||mobilebanking-shopee.vn^
 ||mobilebankingvn.com^
@@ -3077,6 +3080,7 @@
 ||timx2918.com^
 ||tin-dung-khcn-vib.com^
 ||tin-dung-uu-tien-vib.com^
+||tin247.website^
 ||tinbaothuongvn.com^
 ||tinchap-nganhang.online^
 ||tinchap-techcombank.store^
@@ -3789,6 +3793,7 @@
 ||vn-ebanking.info^
 ||vn-ebanks.xyz^
 ||vn-email.shop^
+||vn-express.net^
 ||vn-findmy.com^
 ||vn-hc.info^
 ||vn-i.cloud^

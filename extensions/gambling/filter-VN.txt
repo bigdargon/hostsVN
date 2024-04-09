@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 08 Apr 2024 10:49 UTC+7
-! Version: 2404081049
-! Blocked: 4,835 rules
+! Last modified: 09 Apr 2024 23:15 UTC+7
+! Version: 2404092315
+! Blocked: 4,837 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1723,6 +1723,7 @@
 ||iwinapplink.club^
 ||iwinclub.onl^
 ||iwinclub.win^
+||iwinclubvn.com^
 ||izv5n.cc^
 ||j3108.com^
 ||j7bet.com^
@@ -3671,6 +3672,7 @@
 ||playiwin.site^
 ||playiwin.top^
 ||playiwin.uk^
+||playiwinclub.pro^
 ||playmanclub.uk^
 ||playmanclub.vin^
 ||playmay88.top^
