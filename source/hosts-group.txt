@@ -1730,6 +1730,14 @@
 0.0.0.0 httpkafka-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 httpkafka.ads.prd.ie.internal.unity3d.com
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
+#[iads.unity3d.com]
+0.0.0.0 iads.unity3d.com
+0.0.0.0 a-uap.iads.unity3d.com
+0.0.0.0 c.iads.unity3d.com
+0.0.0.0 cdn.iads.unity3d.com
+0.0.0.0 icon-uap.iads.unity3d.com
+0.0.0.0 o-pxt.iads.unity3d.com
+0.0.0.0 o.iads.unity3d.com
 #[applvn.com]
 0.0.0.0 a.applvn.com
 0.0.0.0 applvn.com
@@ -2515,14 +2523,11 @@
 0.0.0.0 wpengine.taplytics.com
 0.0.0.0 www.taplytics.com
 #[amplitude.com]
-0.0.0.0 amplitude.com
-0.0.0.0 analytics.amplitude.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 api.eu.amplitude.com
+0.0.0.0 api.lab.amplitude.com
 0.0.0.0 api2.amplitude.com
 0.0.0.0 cdn.amplitude.com
-0.0.0.0 info.amplitude.com
-0.0.0.0 regionconfig.amplitude.com
-0.0.0.0 static.amplitude.com
 #[measuread]
 0.0.0.0 b-stage.measuread.com
 0.0.0.0 b.measuread.com
@@ -5001,25 +5006,6 @@
 0.0.0.0 medusa-api.cbsileads.com
 0.0.0.0 static.cbsileads.com
 0.0.0.0 www.cbsileads.com
-#[cbsinteractive.com]
-0.0.0.0 adops.cbsinteractive.com
-0.0.0.0 ads.asia.cbsinteractive.com
-0.0.0.0 asia.cbsinteractive.com
-0.0.0.0 b2b-ma.cbsinteractive.com
-0.0.0.0 cbsinteractive.com
-0.0.0.0 cnu.cbsinteractive.com
-0.0.0.0 connect.cbsinteractive.com
-0.0.0.0 ddpefewest.cbsinteractive.com
-0.0.0.0 gadgets.cbsinteractive.com
-0.0.0.0 gammo.cbsinteractive.com
-0.0.0.0 i.asia.cbsinteractive.com
-0.0.0.0 legalterms.cbsinteractive.com
-0.0.0.0 nls.cbsinteractive.com
-0.0.0.0 ocp.cbsinteractive.com
-0.0.0.0 secure-ca.cbsinteractive.com
-0.0.0.0 vidtech.cbsinteractive.com
-0.0.0.0 vtstage.cbsinteractive.com
-0.0.0.0 www.cbsinteractive.com
 #[adsfactor.net]
 0.0.0.0 adsfactor.net
 0.0.0.0 cdn.adsfactor.net
@@ -10816,7 +10802,6 @@
 #[cbsi.com]
 0.0.0.0 adimg.cbsi.com
 0.0.0.0 adlog.cbsi.com
-0.0.0.0 at.cbsi.com
 0.0.0.0 intent.cbsi.com
 0.0.0.0 om.cbsi.com
 #[cbsi.video]
@@ -11218,6 +11203,7 @@
 #[trackingtraffo.com]
 0.0.0.0 ads.trackingtraffo.com
 0.0.0.0 rtb.trackingtraffo.com
+0.0.0.0 track-eu.trackingtraffo.com
 0.0.0.0 track.trackingtraffo.com
 0.0.0.0 trackingtraffo.com
 #[adapf.com]
@@ -11658,3 +11644,41 @@
 #[3u.com]
 0.0.0.0 ios-pclog.3u.com
 0.0.0.0 ios.pclog.3u.com
+#[maxvaluead.com]
+0.0.0.0 maxvaluead.com
+0.0.0.0 media.maxvaluead.com
+0.0.0.0 srv.maxvaluead.com
+0.0.0.0 track.maxvaluead.com
+#[adsrv.net]
+0.0.0.0 adsrv.net
+0.0.0.0 api.adsrv.net
+0.0.0.0 media-master.adsrv.net
+0.0.0.0 media.adsrv.net
+0.0.0.0 node-01.adsrv.net
+0.0.0.0 node-02.adsrv.net
+0.0.0.0 node-03.adsrv.net
+0.0.0.0 node-04.adsrv.net
+0.0.0.0 node-05.adsrv.net
+0.0.0.0 node-06.adsrv.net
+0.0.0.0 srv.adsrv.net
+0.0.0.0 track.adsrv.net
+0.0.0.0 zabbix.adsrv.net
+#[youku.com]
+0.0.0.0 adx-open-service.youku.com
+0.0.0.0 cad.youku.com
+0.0.0.0 ems.youku.com
+0.0.0.0 pcapp-data-collect.youku.com
+0.0.0.0 ykad-data.youku.com
+0.0.0.0 ykad-gateway.youku.com
+#[ad.youku.com]
+0.0.0.0 ad.youku.com
+0.0.0.0 pre-yk-ssp.ad.youku.com
+0.0.0.0 yk-ssp.ad.youku.com
+#[atm.youku.com]
+0.0.0.0 atm.youku.com
+0.0.0.0 cm.miaozhen.atm.youku.com
+0.0.0.0 m.atm.youku.com
+0.0.0.0 val.atm.youku.com
+#[ut.youku.com]
+0.0.0.0 adashx.ut.youku.com
+0.0.0.0 h-adashx.ut.youku.com

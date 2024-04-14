@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 09 Apr 2024 23:15 UTC+7
-! Version: 2404092315
-! Blocked: 150,038 rules
+! Last modified: 14 Apr 2024 22:14 UTC+7
+! Version: 2404142214
+! Blocked: 150,060 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -904,6 +904,8 @@
 ||0099iii.com^
 ||0099vn.com^
 ||0099wb.com^
+||009b30.com^
+||009b31.com^
 ||009c99.com^
 ||009dabao.com^
 ||009jjjj.com^
@@ -87037,6 +87039,7 @@
 ||api.mu9.club^
 ||api.mu9.com^
 ||api.mxvietnam.com^
+||api.nbet.vin^
 ||api.new8808.vip^
 ||api.new8884.com^
 ||api.new88w.com^
@@ -90916,6 +90919,7 @@
 ||bet6288.cn^
 ||bet63333.com^
 ||bet65555.com^
+||bet66-viet.227290wss.com^
 ||bet66.com^
 ||bet66111.com^
 ||bet66333.com^
@@ -101502,6 +101506,8 @@
 ||euyksni.click^
 ||euyyd.win^
 ||ev3fn.com^
+||ev88.com^
+||ev88vn.com^
 ||evecute.xyz^
 ||eveedge.xyz^
 ||eveete.xyz^
@@ -111201,6 +111207,7 @@
 ||img.may88.us^
 ||img.mu9.club^
 ||img.mu9.com^
+||img.nbet.vin^
 ||img.oigngns6zvx3.com^
 ||img.red88.vin^
 ||img.red88.vip^
@@ -111337,7 +111344,9 @@
 ||ipl365a.com^
 ||iplwin.com^
 ||ipqert.net^
+||ipv4.closwbay9bak.org^
 ||ipv4.iptrackywin.info^
+||ipv6.closwbay9bak.org^
 ||ipv6.iptrackywin.info^
 ||irichlife.xyz^
 ||irnbet.com^
@@ -121318,6 +121327,7 @@
 ||lp.sun6.win^
 ||lp.sunwinvn.club^
 ||lp.taiv8.top^
+||lp.vip79.com^
 ||lp.vuiuk88.club^
 ||lp.zo.club^
 ||lp.zo1.win^
@@ -121514,8 +121524,10 @@
 ||lucky88.cc^
 ||lucky88.club^
 ||lucky88.com^
+||lucky88.fun^
 ||lucky88.live^
 ||lucky88.net^
+||lucky88.online^
 ||lucky88.org^
 ||lucky88.top^
 ||lucky88.tv^
@@ -121525,6 +121537,7 @@
 ||lucky8877.com^
 ||lucky88fun.com^
 ||lucky88go.com^
+||lucky88vn.com^
 ||lucky895.com^
 ||lucky898.com^
 ||lucky8etlink6.xyz^
@@ -125479,6 +125492,7 @@
 ||nbet.site^
 ||nbet.top^
 ||nbet.tv^
+||nbet.vin^
 ||nbet.vip^
 ||nbet.win^
 ||nbet.zone^
@@ -128567,6 +128581,7 @@
 ||play.top88.vn^
 ||play.vaob52.click^
 ||play.vic.win^
+||play.vip79.com^
 ||play.vn-apps-google.com^
 ||play.vuigiaitri.online^
 ||play.win79.vip^
@@ -132769,6 +132784,7 @@
 ||sock.dabet.club^
 ||sock.mu9.club^
 ||sock.mu9.com^
+||sock.nbet.vin^
 ||sock.red88.com^
 ||sock.red88.us^
 ||sock.red88.vin^
@@ -133739,6 +133755,7 @@
 ||t0gvf.com^
 ||t1.m1cdn.com^
 ||t1.ta88.com^
+||t1.ta88.vip^
 ||t1085.com^
 ||t10888.com^
 ||t1346.com^
@@ -134307,6 +134324,7 @@
 ||t9grwx.vip^
 ||t9nnk.com^
 ||ta88.com^
+||ta88.vip^
 ||ta88a.com^
 ||ta88r.com^
 ||ta88vip.top^
@@ -138750,6 +138768,8 @@
 ||vip77880.com^
 ||vip782.com^
 ||vip78930.com^
+||vip79.com^
+||vip79.win^
 ||vip792.com^
 ||vip814.com^
 ||vip82522.com^
@@ -141937,6 +141957,7 @@
 ||woyaocao.cn^
 ||wp.choigiaitri.net^
 ||wp.mu9.win^
+||wp.nbet.vin^
 ||wp.red88.us^
 ||wp.red88.vin^
 ||wp.red88.vip^
@@ -145133,6 +145154,7 @@
 ||xoso88.tv^
 ||xoso88.vip^
 ||xoso8800.com^
+||xoso8811.com^
 ||xoso900.com^
 ||xoso901.com^
 ||xoso902.com^

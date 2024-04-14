@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 09 Apr 2024 23:15 UTC+7
-! Version: 2404092315
-! Blocked: 4,837 rules
+! Last modified: 14 Apr 2024 22:14 UTC+7
+! Version: 2404142214
+! Blocked: 4,853 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -645,6 +645,7 @@
 ||api.mu9.club^
 ||api.mu9.com^
 ||api.mxvietnam.com^
+||api.nbet.vin^
 ||api.new8808.vip^
 ||api.new8884.com^
 ||api.new88w.com^
@@ -1202,6 +1203,7 @@
 ||eurofun88.com^
 ||eurok8.com^
 ||eurowin.top^
+||ev88.com^
 ||event.taisum2.com^
 ||event.xinloiduocchua.co^
 ||ezb68.xyz^
@@ -1695,6 +1697,7 @@
 ||img.may88.us^
 ||img.mu9.club^
 ||img.mu9.com^
+||img.nbet.vin^
 ||img.red88.vin^
 ||img.red88.vip^
 ||imgservice.mibet.com^
@@ -3179,6 +3182,7 @@
 ||lp.sun6.win^
 ||lp.sunwinvn.club^
 ||lp.taiv8.top^
+||lp.vip79.com^
 ||lp.vuiuk88.club^
 ||lp.zo.club^
 ||lp.zo1.win^
@@ -3205,14 +3209,17 @@
 ||lucky88.cc^
 ||lucky88.club^
 ||lucky88.com^
+||lucky88.fun^
 ||lucky88.live^
 ||lucky88.net^
+||lucky88.online^
 ||lucky88.org^
 ||lucky88.top^
 ||lucky88.tv^
 ||lucky88.uk^
 ||lucky88.vin^
 ||lucky88.win^
+||lucky88vn.com^
 ||luckyxoso.com^
 ||lux39.club^
 ||lux888.club^
@@ -3483,6 +3490,7 @@
 ||nbet.site^
 ||nbet.top^
 ||nbet.tv^
+||nbet.vin^
 ||nbet.vip^
 ||nbet.win^
 ||nbet88.org^
@@ -3647,6 +3655,7 @@
 ||play.top88.vn^
 ||play.vaob52.click^
 ||play.vic.win^
+||play.vip79.com^
 ||play.vuigiaitri.online^
 ||play.win79.vip^
 ||play.win79d.com^
@@ -3911,6 +3920,7 @@
 ||sock.dabet.club^
 ||sock.mu9.club^
 ||sock.mu9.com^
+||sock.nbet.vin^
 ||sock.red88.com^
 ||sock.red88.us^
 ||sock.red88.vin^
@@ -4043,11 +4053,13 @@
 ||t.mibet.com^
 ||t0gvf.com^
 ||t1.ta88.com^
+||t1.ta88.vip^
 ||t2.ta88.com^
 ||t68bet.org^
 ||t8bet999.com^
 ||t8betvip.com^
 ||ta88.com^
+||ta88.vip^
 ||tai-sumvip.city^
 ||tai.b52vn.fun^
 ||tai.boc8.fun^
@@ -4415,6 +4427,8 @@
 ||vip11.club^
 ||vip11.us^
 ||vip130130.com^
+||vip79.com^
+||vip79.win^
 ||vipbet001.org^
 ||vipbet998.com^
 ||vipclub.homes^
@@ -4733,6 +4747,7 @@
 ||wo88.ac^
 ||wp.choigiaitri.net^
 ||wp.mu9.win^
+||wp.nbet.vin^
 ||wp.red88.us^
 ||wp.red88.vin^
 ||wp.red88.vip^
@@ -4793,6 +4808,7 @@
 ||xoso6600.com^
 ||xoso678.com^
 ||xoso788.com^
+||xoso8811.com^
 ||xoso988.com^
 ||xoso9988.com^
 ||xosobet.com^

@@ -71,6 +71,7 @@ ad.plus
 ad.qq.com
 ad.style
 ad.xiaomi.com
+ad.youku.com
 ad1x.com
 ad4game.com
 ad4m.at
@@ -85,6 +86,7 @@ adashbc.m.taobao.com
 adashbc.ut.taobao.com
 adashx.m.taobao.com
 adashx.ut.taobao.com
+adashx.ut.youku.com
 adashx4ae.ut.taobao.com
 adashx4sg.ut.taobao.com
 adashxgc.ut.taobao.com
@@ -262,6 +264,7 @@ adspruce.com
 adspsp.com
 adspyglass.com
 adsrv.eacdn.com
+adsrv.net
 adsrvr.org
 adssettings.365scores.com
 adstage-analytics.herokuapp.com
@@ -315,6 +318,7 @@ advinci.net
 advividnetwork.com
 adwmg.com
 adx-exchange.toast.com
+adx-open-service.youku.com
 adx1.com
 adxadserv.com
 adxcorp.kr
@@ -369,7 +373,6 @@ amdc.m.taobao.com
 amdcopen.m.taobao.com
 amgdgt.com
 amntx1.net
-amplitude.com
 amung.us
 amxrtb.com
 an.facebook.com
@@ -423,18 +426,22 @@ api-ad.kajicam.com
 api-adservices.apple.com
 api-log-analytics.cloud.toast.com
 api.adnet.mob.com
+api.amplitude.com
 api.applovefrom.com
 api.brs.intl.miui.com
 api.collect.data.intl.miui.com
 api.d.xiaomi.com
+api.eu.amplitude.com
 api.exc.mob.com
 api.getdrip.com
+api.lab.amplitude.com
 api.sail-personalize.com
 api.sail-track.com
 api.sec.intl.miui.com
 api.sec.miui.com
 api.setting.intl.miui.com
 api.share.mob.com
+api2.amplitude.com
 apiv2.popupsmart.com
 apm-collector.daumkakao.io
 app-adforce.jp
@@ -482,10 +489,10 @@ assistads.net
 assoc-amazon.com
 async-px-eu.dynamicyield.com
 async-px.dynamicyield.com
-at.cbsi.com
 atdmt.com
 ateam-ad.jp
 atemda.com
+atm.youku.com
 atomex.net
 atrack.avplayer.com
 attributionapp.com
@@ -599,19 +606,20 @@ c.sayhi.360.cn
 c2shb.ssp.yahoo.com
 cacafly.net
 caclick.baidu.com
+cad.youku.com
 call.inforsea.com
 campaign.adobe.com
 capture.condenastdigital.com
 carbonads.com
 casalemedia.com
 cbsileads.com
-cbsinteractive.com
 cc.map.qq.com
 cc.sys.intl.xiaomi.com
 cc.sys.miui.com
 ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
 ccpa.psg.nexstardigital.net
+cdn.amplitude.com
 cdn.avantisvideo.com
 cdn.popupsmart.com
 cdn10236888.ahacdn.me
@@ -808,6 +816,7 @@ edge.atmtd.com
 effectivemeasure.net
 ej1*.online
 ematicsolutions.com
+ems.youku.com
 emxdgt.com
 engageya.com
 ensighten.com
@@ -955,6 +964,7 @@ guardianapps.co.uk
 gumgum.com
 gvt2.com
 h-adashx.ut.taobao.com
+h-adashx.ut.youku.com
 h-adashx4ae.ut.taobao.com
 h-adashx4sg.ut.taobao.com
 hads*s.com
@@ -1003,6 +1013,7 @@ iad-05.braze.com
 iad-06.braze.com
 iad-08.braze.com
 iad.apple.com
+iads.unity3d.com
 iadsdk.apple.com
 ibeat.indiatimes.com
 ibillboard.com
@@ -1176,6 +1187,7 @@ mathtag.com
 mathtag.com.edgekey.net
 matomo.cloud
 mavq.net
+maxvaluead.com
 maxymiser.com
 maxymiser.net
 mazu.sec.miui.com
@@ -1350,6 +1362,7 @@ partnerad.l.google.com
 partnerads.ysm.yahoo.com
 pbbl.co
 pbstck.com
+pcapp-data-collect.youku.com
 pclick.yahoo.com
 pclk.name
 pemsrv.com
@@ -1898,6 +1911,8 @@ yeas.yahoo.co.jp
 yieldlab.net
 yieldlove-ad-serving.net
 yieldlove.com
+ykad-data.youku.com
+ykad-gateway.youku.com
 yllix.com
 ylog.hiido.com
 ylog.nimo.tv
