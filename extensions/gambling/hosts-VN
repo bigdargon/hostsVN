@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 16 Apr 2024 11:36 UTC+7
-# Version: 2404161136
-# Blocked: 5,491 domains
+# Last modified: 16 Apr 2024 22:26 UTC+7
+# Version: 2404162226
+# Blocked: 5,492 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -261,6 +261,7 @@
 0.0.0.0 789b.dev
 0.0.0.0 789b.live
 0.0.0.0 789b.win
+0.0.0.0 789bet.com
 0.0.0.0 789bet.run
 0.0.0.0 789beta.com
 0.0.0.0 789betf.com
