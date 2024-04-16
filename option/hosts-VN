@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Apr 2024 22:12 UTC+7
-# Version: 2404142212
-# Blocked: 1,840 domains
+# Last modified: 16 Apr 2024 11:35 UTC+7
+# Version: 2404161135
+# Blocked: 1,842 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1516,6 +1516,9 @@
 0.0.0.0 cdn.adop.asia
 0.0.0.0 media.adop.asia
 0.0.0.0 www.adop.asia
+#[adlinknetwork.vn]
+0.0.0.0 service.adlinknetwork.vn
+0.0.0.0 syndication.adlinknetwork.vn
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn

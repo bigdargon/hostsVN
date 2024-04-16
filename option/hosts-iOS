@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Apr 2024 22:12 UTC+7
-# Version: 2404142212
-# Blocked: 20,004 domains
+# Last modified: 16 Apr 2024 11:35 UTC+7
+# Version: 2404161135
+# Blocked: 20,006 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11623,6 +11623,8 @@
 0 cdn.adop.asia
 0 media.adop.asia
 0 www.adop.asia
+0 service.adlinknetwork.vn
+0 syndication.adlinknetwork.vn
 0 12signup.com
 0 ad-admin.vnay.vn
 0 ad-ndtv.3s.com.vn

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Apr 2024 22:12 UTC+7
-! Version: 2404142212
-! Blocked: 868 rules
+! Last modified: 16 Apr 2024 11:35 UTC+7
+! Version: 2404161135
+! Blocked: 870 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -259,6 +259,7 @@
 ||sbbanner-com.cdn.ampproject.org^
 ||sdk.zadn.vn^
 ||service-api.accesstrade.vn^
+||service.adlinknetwork.vn^
 ||serving-system.com^
 ||sharefb.cnnd.vn^
 ||shop-cdn.coccoc.com^
@@ -288,6 +289,7 @@
 ||subiz.net^
 ||subiz.xyz^
 ||surfcountor.com^
+||syndication.adlinknetwork.vn^
 ||t.sieu-viet.com^
 ||tebrand.asia^
 ||tebrand.vn^
