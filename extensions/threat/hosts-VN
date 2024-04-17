@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 16 Apr 2024 22:26 UTC+7
-# Version: 2404162226
-# Blocked: 3,922 domains
+# Last modified: 17 Apr 2024 10:24 UTC+7
+# Version: 2404171024
+# Blocked: 3,936 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -347,6 +347,7 @@
 0.0.0.0 cskh-the-vpbank.com
 0.0.0.0 cskh-vib-canhan.com
 0.0.0.0 cskh-vib.ho-tro-tin-dung-ca-nhan.com
+0.0.0.0 cskh-vib.nang-han-muc-the-visa.com
 0.0.0.0 cskhdienmayxanh.com
 0.0.0.0 cskhdienmayxanhvn.com
 0.0.0.0 cskhmayxanh.com
@@ -453,6 +454,7 @@
 0.0.0.0 dienmayxanh247.com
 0.0.0.0 dienmayxanh24h.com
 0.0.0.0 dienmayxanh24h.net
+0.0.0.0 dienmayxanh263.com
 0.0.0.0 dienmayxanh268.com
 0.0.0.0 dienmayxanh269.com
 0.0.0.0 dienmayxanhantam.com
@@ -544,6 +546,7 @@
 0.0.0.0 fcccredit.com
 0.0.0.0 fccomvn.com
 0.0.0.0 fd2.hmexchangecentre.com
+0.0.0.0 fdsd22.com
 0.0.0.0 fe-shop.cc
 0.0.0.0 fe.lwcvn.com
 0.0.0.0 feacbookk.com
@@ -788,6 +791,10 @@
 0.0.0.0 hdbanks.com
 0.0.0.0 hdcreditvnn.com
 0.0.0.0 hdfn.online
+0.0.0.0 hdsaison-app.cc
+0.0.0.0 hdsaison-hi.cc
+0.0.0.0 hdsaison-vip.cc
+0.0.0.0 hdsaison-vn.cc
 0.0.0.0 hdsaison-vn.com
 0.0.0.0 hdsaisonvn.com
 0.0.0.0 hethongbank.com
@@ -954,10 +961,12 @@
 0.0.0.0 ketban.online
 0.0.0.0 kfdg22.com
 0.0.0.0 kfdg55.com
+0.0.0.0 kh-cn-uutien-3fv-vib.com
 0.0.0.0 khach-hang-ca-nhan-vip5.com
 0.0.0.0 khangdz215.tk
 0.0.0.0 khcn-han-muc-tin-dung-ca-nhan.com
 0.0.0.0 khcn-tindung-vp.com
+0.0.0.0 khcn-uu-tien-3fv-vib.com
 0.0.0.0 khoanhkhacgiadinhdoantucuoinam.weebly.com
 0.0.0.0 khoataikhoan-grn-vinhvien.xyz
 0.0.0.0 khoataikhoangarena.xyz
@@ -1215,6 +1224,7 @@
 0.0.0.0 mbbankmn.com
 0.0.0.0 mbbankn.com
 0.0.0.0 mbbffn.online
+0.0.0.0 mbfic-plus.com
 0.0.0.0 mbtk-bank.com
 0.0.0.0 mcfa11.com
 0.0.0.0 mcredit.vaynhanh-bankcredits.com
@@ -1854,6 +1864,7 @@
 0.0.0.0 quaviet999.com
 0.0.0.0 quaymayman.com
 0.0.0.0 quayngoc.com
+0.0.0.0 quaysomediamart2024.vip
 0.0.0.0 quaythuonggamefreefire.com
 0.0.0.0 quaythuonggarena.com
 0.0.0.0 quaythuongmembership.com
@@ -2191,6 +2202,7 @@
 0.0.0.0 shopeepv.com
 0.0.0.0 shopees.app
 0.0.0.0 shopeeshoppimg.com
+0.0.0.0 shopeesmarket.com
 0.0.0.0 shopeeson.com
 0.0.0.0 shopeesukien.com
 0.0.0.0 shopeetiki.com
@@ -2456,6 +2468,7 @@
 0.0.0.0 simpliftsbefore.info
 0.0.0.0 sindtex.shop
 0.0.0.0 sinhvienvietnam2022.weebly.com
+0.0.0.0 skhf11.com
 0.0.0.0 smilitygorb.club
 0.0.0.0 smrtbbdv.com
 0.0.0.0 smrtbbidv.com
@@ -2487,6 +2500,7 @@
 0.0.0.0 standardresourcebank.com
 0.0.0.0 starbucksthai.shop
 0.0.0.0 stbuyshopoui.com
+0.0.0.0 stcard-vib.com
 0.0.0.0 storebinzdapoet.shop
 0.0.0.0 storehaiyen.com
 0.0.0.0 suachuadienmayxanh.com.vn
