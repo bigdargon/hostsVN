@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 18 Apr 2024 16:44 UTC+7
-! Version: 2404181644
-! Blocked: 3,883 rules
+! Last modified: 18 Apr 2024 22:21 UTC+7
+! Version: 2404182221
+! Blocked: 3,885 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -536,6 +536,7 @@
 ||face-book.co^
 ||faceb00k.com.vn^
 ||facebook.c0m.ltd^
+||facebook4288062.blogspot.com^
 ||facebook92288.blogspot.com^
 ||facebookk.life^
 ||facebookvni.com^
@@ -798,6 +799,7 @@
 ||hdsaison-vn.cc^
 ||hdsaison-vn.com^
 ||hdsaisonvn.com^
+||hdzonline.pro^
 ||hethongbank.com^
 ||hethongbank24h.com^
 ||hethongbhx.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 18 Apr 2024 16:44 UTC+7
-! Version: 2404181644
-! Blocked: 4,186 rules
+! Last modified: 18 Apr 2024 22:21 UTC+7
+! Version: 2404182221
+! Blocked: 4,188 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -646,6 +646,7 @@
 ||face-book.co^
 ||faceb00k.com.vn^
 ||facebook.c0m.ltd^
+||facebook4288062.blogspot.com^
 ||facebook92288.blogspot.com^
 ||facebookk.life^
 ||facebookvni.com^
@@ -946,6 +947,7 @@
 ||hdsaison-vn.cc^
 ||hdsaison-vn.com^
 ||hdsaisonvn.com^
+||hdzonline.pro^
 ||heirreplacem.cfd^
 ||helandsca.cfd^
 ||herihed.cfd^

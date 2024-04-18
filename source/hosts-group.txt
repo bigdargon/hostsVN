@@ -11255,6 +11255,7 @@
 0.0.0.0 ads.livetv708.me
 0.0.0.0 ads.livetv723.me
 0.0.0.0 ads.livetv760.me
+0.0.0.0 ads.livetv765.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11682,3 +11683,10 @@
 #[ut.youku.com]
 0.0.0.0 adashx.ut.youku.com
 0.0.0.0 h-adashx.ut.youku.com
+#[tango.me]
+0.0.0.0 adinfo.tango.me
+0.0.0.0 analytics.tango.me
+#[kinkadservercdn.com]
+0.0.0.0 a.kinkadservercdn.com
+0.0.0.0 cdn.kinkadservercdn.com
+0.0.0.0 kinkadservercdn.com

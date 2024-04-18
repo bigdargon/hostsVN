@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 18 Apr 2024 16:44 UTC+7
-# Version: 2404181644
-# Blocked: 4,244 domains
+# Last modified: 18 Apr 2024 22:21 UTC+7
+# Version: 2404182221
+# Blocked: 4,246 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -648,6 +648,7 @@
 0.0.0.0 face-book.co
 0.0.0.0 faceb00k.com.vn
 0.0.0.0 facebook.c0m.ltd
+0.0.0.0 facebook4288062.blogspot.com
 0.0.0.0 facebook92288.blogspot.com
 0.0.0.0 facebookk.life
 0.0.0.0 facebookvni.com
@@ -946,6 +947,7 @@
 0.0.0.0 hdsaison-vn.cc
 0.0.0.0 hdsaison-vn.com
 0.0.0.0 hdsaisonvn.com
+0.0.0.0 hdzonline.pro
 0.0.0.0 heirreplacem.cfd
 0.0.0.0 helandsca.cfd
 0.0.0.0 herihed.cfd
