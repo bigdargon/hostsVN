@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 17 Apr 2024 10:24 UTC+7
-# Version: 2404171024
-# Blocked: 4,242 domains
+# Last modified: 18 Apr 2024 16:44 UTC+7
+# Version: 2404181644
+# Blocked: 4,244 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -322,6 +322,7 @@
 0.0.0.0 cgovn.cc
 0.0.0.0 chamsockhachang.com
 0.0.0.0 chamsockhachhangnanghanmuctindungmsb.com
+0.0.0.0 chamsocthekhachhang-thang4.com.vn
 0.0.0.0 chanle79.me
 0.0.0.0 chanlemmo.com
 0.0.0.0 chanlemomo.cc
@@ -3164,6 +3165,7 @@
 0.0.0.0 tpbank-com.com
 0.0.0.0 tpbank-hanoi.com
 0.0.0.0 tpbank-vaynhanh.com
+0.0.0.0 tpbank.chamsocthekhachhang-thang4.com.vn
 0.0.0.0 tpbank.chamsocthekhachhang-truc-tuyen.com
 0.0.0.0 tpbank.vn-cl.xyz
 0.0.0.0 tpbank.vn-vpb.top
