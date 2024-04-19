@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 18 Apr 2024 22:21 UTC+7
-! Version: 2404182221
-! Blocked: 10,586 rules
+! Last modified: 19 Apr 2024 15:02 UTC+7
+! Version: 2404191502
+! Blocked: 10,585 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6971,7 +6971,6 @@
 ||lingamretene.com^
 ||link-booster.de^
 ||link4ads.com^
-||linkads.xyz^
 ||linkbuddies.com^
 ||linkerspond.com^
 ||linkexchange.com^
