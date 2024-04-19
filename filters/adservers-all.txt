@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 19 Apr 2024 15:02 UTC+7
-! Version: 2404191502
-! Blocked: 10,585 rules
+! Last modified: 19 Apr 2024 16:17 UTC+7
+! Version: 2404191617
+! Blocked: 10,584 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1879,7 +1879,6 @@
 ||hwstats.unity3d.com^
 ||hyperpromote.com^
 ||i-mobile.co.jp^
-||i18n-pglstatp.com^
 ||ia.51.la^
 ||iad-01.braze.com^
 ||iad-02.braze.com^
