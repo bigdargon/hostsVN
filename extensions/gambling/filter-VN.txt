@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 19 Apr 2024 14:48 UTC+7
-! Version: 2404191448
-! Blocked: 4,854 rules
+! Last modified: 20 Apr 2024 22:19 UTC+7
+! Version: 2404202219
+! Blocked: 4,869 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -131,6 +131,7 @@
 ||1k98x.com^
 ||1tamtam.com^
 ||1tamtamvn.com^
+||1x.club^
 ||1xbet88vn.net^
 ||1xbetvn.com^
 ||1xlite-564950.top^
@@ -962,6 +963,7 @@
 ||choingayiwin.cc^
 ||choingayiwin.top^
 ||choingayone88.win^
+||choiriikvip.today^
 ||choisport.com^
 ||choisv88.live^
 ||choita88.club^
@@ -1043,6 +1045,7 @@
 ||dabet.fun^
 ||dabet.me^
 ||dabet.top^
+||dabet.tv^
 ||dabet.uk^
 ||dabet.us^
 ||dabet.win^
@@ -1084,6 +1087,8 @@
 ||dangkyee88.online^
 ||dangkygo88.in^
 ||dangkykubet.vip^
+||dangkyrikvip.live^
+||dangkyrikvip.me^
 ||dangkyrikvip.org^
 ||dangkyrikvip.tv^
 ||dangkythabet.com^
@@ -1097,6 +1102,7 @@
 ||debet.club^
 ||debet.com^
 ||debet.info^
+||debet.net^
 ||debet.top^
 ||debet.win^
 ||debet88.win^
@@ -1258,6 +1264,7 @@
 ||fabet.live^
 ||fabet.me^
 ||fabet.net^
+||fabet.to^
 ||fabet.tv^
 ||fabet.us^
 ||fabet.vip^
@@ -3174,6 +3181,7 @@
 ||loto188vi.com^
 ||loto66.com^
 ||loto678.com^
+||lp.choiriikvip.today^
 ||lp.choitet.vip^
 ||lp.go8vui.info^
 ||lp.macauclub.fun^
@@ -3501,7 +3509,6 @@
 ||new88.ai^
 ||new88.love^
 ||new88.tips^
-||new88011.com^
 ||new8803.com^
 ||new8805.com^
 ||new8808.vip^
@@ -3713,6 +3720,7 @@
 ||profile.w88.vin^
 ||prok8.com^
 ||promotions.bcb80.com^
+||pt1.fabet.win^
 ||pt66.vip^
 ||ptwin6.com^
 ||q0f2a.com^
@@ -3845,6 +3853,7 @@
 ||s999e.com^
 ||s999g.com^
 ||s999h.com^
+||saigonbet.net^
 ||sam86vip.org^
 ||sam86vip.pro^
 ||sam86vip.tv^
@@ -3889,6 +3898,7 @@
 ||sin88.cc^
 ||sin88.club^
 ||sin88.mobi^
+||sin88.mx^
 ||sin88.uk^
 ||sin88.us^
 ||sin88.vip^
@@ -4332,6 +4342,7 @@
 ||udw884.com^
 ||udw886.com^
 ||uer5.com^
+||uk88.com^
 ||uk88.top^
 ||umfgg.com^
 ||unitygame.online^
@@ -4387,6 +4398,7 @@
 ||vbet88.fun^
 ||vebo.bet^
 ||vegas79.casino^
+||vegas79.group^
 ||vf003.xyz^
 ||vf234.com^
 ||vf456.com^
@@ -4423,6 +4435,7 @@
 ||vinbet1001.com^
 ||vinbet1005.com^
 ||vip.8kbet.vn^
+||vip.dangkyrikvip.me^
 ||vip.dangkyrikvip.tv^
 ||vip.v99win.app^
 ||vip11.club^
@@ -4435,6 +4448,7 @@
 ||vipclub.homes^
 ||vipclub.makeup^
 ||vipclub.so^
+||viprik.pro^
 ||viu88.com^
 ||viva88.com^
 ||viva88.net^
@@ -4755,6 +4769,7 @@
 ||wp.rikvip.tv^
 ||wp.rikvipp.net^
 ||wp.sky88.fun^
+||wp.viprik.pro^
 ||ws.vx88.com^
 ||ws2vs.com^
 ||ww88club.com^
