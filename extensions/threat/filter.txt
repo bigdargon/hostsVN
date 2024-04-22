@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 20 Apr 2024 22:19 UTC+7
-! Version: 2404202219
-! Blocked: 4,188 rules
+! Last modified: 22 Apr 2024 09:57 UTC+7
+! Version: 2404220957
+! Blocked: 4,202 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -319,6 +319,7 @@
 ||cgovn.cc^
 ||chamsockhachang.com^
 ||chamsockhachhangnanghanmuctindungmsb.com^
+||chamsocthekhachang-truc-tuyen.com^
 ||chamsocthekhachhang-thang4.com.vn^
 ||chanle79.me^
 ||chanlemmo.com^
@@ -666,6 +667,7 @@
 ||fcccredit.com^
 ||fccomvn.com^
 ||fd2.hmexchangecentre.com^
+||fdsd11.com^
 ||fdsd22.com^
 ||fe-shop.cc^
 ||fe.lwcvn.com^
@@ -1134,6 +1136,7 @@
 ||kfdg55.com^
 ||kh-cn-uutien-3fv-vib.com^
 ||khach-hang-ca-nhan-vip5.com^
+||khachhangvib-canhan.com^
 ||khangdz215.tk^
 ||khcn-han-muc-tin-dung-ca-nhan.com^
 ||khcn-tindung-vp.com^
@@ -1397,6 +1400,7 @@
 ||mavietnam.xyz^
 ||mayanpuzzle.com^
 ||mayxanhsg.com^
+||mayxanhsupport.com^
 ||mayyadc.cfd^
 ||mbankingvn.com^
 ||mbbank-vn.com^
@@ -1849,6 +1853,7 @@
 ||nganhanganbinh.com^
 ||nganhangbidv.com^
 ||nganhangsaigon.org^
+||nganhangsaison.org^
 ||nganhangsaokevnn.com^
 ||nganhangshopeevn.com^
 ||nganhangsk.online^
@@ -1915,6 +1920,7 @@
 ||nhantiensieutoc.com^
 ||nhantienvipay.com^
 ||nhantienvivnpay.com^
+||nhanvientiki.info^
 ||nhanvimomo2021.weebly.com^
 ||nhapcode-lienquan-garena.net^
 ||nhapvang.pro^
@@ -2724,6 +2730,7 @@
 ||sindtex.shop^
 ||sinhvienvietnam2022.weebly.com^
 ||skhf11.com^
+||skhf66.com^
 ||smilitygorb.club^
 ||smrtbbdv.com^
 ||smrtbbidv.com^
@@ -2744,6 +2751,7 @@
 ||sopper68.com^
 ||sos-icloud.com^
 ||sp315693vn.com^
+||sp77888.com^
 ||sp8668vn.com^
 ||spark123.shop^
 ||spmail86.com^
@@ -2913,6 +2921,7 @@
 ||tb55988.com^
 ||tc-clicks.com^
 ||tc-viet.click^
+||tdkd00.com^
 ||tdkd01.com^
 ||tdkd02.com^
 ||tdkd03.com^
@@ -3172,6 +3181,7 @@
 ||tpbank-com.com^
 ||tpbank-hanoi.com^
 ||tpbank-vaynhanh.com^
+||tpbank.chamsocthekhachang-truc-tuyen.com^
 ||tpbank.chamsocthekhachhang-thang4.com.vn^
 ||tpbank.chamsocthekhachhang-truc-tuyen.com^
 ||tpbank.vn-cl.xyz^
@@ -3293,6 +3303,7 @@
 ||tuyendungnhanhonline.xyz^
 ||tuyendungshopee.com^
 ||tuyendungstmlazada.com^
+||tuyendungtiki2024.vn^
 ||tuyensinhgionghatvietnhi01.weebly.com^
 ||tw-shopee.store^
 ||tw-shopee.xyz^
@@ -3554,6 +3565,7 @@
 ||vib.tuvan-chamsockhachhang.com^
 ||vib8-vay.com^
 ||vib84.com^
+||vibbca-nhan.com^
 ||vibcskh.com^
 ||vibvay.com^
 ||vibvayvn.com^
@@ -3879,6 +3891,7 @@
 ||vn66733shop.com^
 ||vn667755s.com^
 ||vn66954shp.com^
+||vn68822s.com^
 ||vn6932shp.com^
 ||vn765.com^
 ||vn78223p.com^
@@ -3890,6 +3903,7 @@
 ||vn88khuyenmai.space^
 ||vn88khuyenmai.store^
 ||vnah567.com^
+||vnambzuon36sc.vip^
 ||vnbitcoin.cc^
 ||vnduthianhgroup.com^
 ||vnebank.xyz^

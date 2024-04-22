@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 20 Apr 2024 22:19 UTC+7
-# Version: 2404202219
-# Blocked: 5,506 domains
+# Last modified: 22 Apr 2024 09:57 UTC+7
+# Version: 2404220957
+# Blocked: 5,509 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -725,6 +725,7 @@
 0.0.0.0 banca.red88.us
 0.0.0.0 banca.xo68.vip
 0.0.0.0 bancadoithuongvn.com
+0.0.0.0 bancakings.com
 0.0.0.0 bancalucky88.com
 0.0.0.0 baowin.net
 0.0.0.0 bay789.club
@@ -1471,6 +1472,7 @@
 0.0.0.0 go88x.club
 0.0.0.0 go8vui.info
 0.0.0.0 go99.pro
+0.0.0.0 go99.red
 0.0.0.0 goal123.com
 0.0.0.0 goal68.com
 0.0.0.0 goal68.net
@@ -4899,6 +4901,7 @@
 0.0.0.0 www.b52.win
 0.0.0.0 www.b77.fun
 0.0.0.0 www.b77.life
+0.0.0.0 www.bancakings.com
 0.0.0.0 www.bcb80.com
 0.0.0.0 www.beb77.com
 0.0.0.0 www.bestcacuoc8.com

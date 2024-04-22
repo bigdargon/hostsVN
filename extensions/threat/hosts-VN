@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 20 Apr 2024 22:19 UTC+7
-# Version: 2404202219
-# Blocked: 3,940 domains
+# Last modified: 22 Apr 2024 09:57 UTC+7
+# Version: 2404220957
+# Blocked: 3,954 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -254,6 +254,7 @@
 0.0.0.0 cgovn.cc
 0.0.0.0 chamsockhachang.com
 0.0.0.0 chamsockhachhangnanghanmuctindungmsb.com
+0.0.0.0 chamsocthekhachang-truc-tuyen.com
 0.0.0.0 chamsocthekhachhang-thang4.com.vn
 0.0.0.0 chanle79.me
 0.0.0.0 chanlemmo.com
@@ -548,6 +549,7 @@
 0.0.0.0 fcccredit.com
 0.0.0.0 fccomvn.com
 0.0.0.0 fd2.hmexchangecentre.com
+0.0.0.0 fdsd11.com
 0.0.0.0 fdsd22.com
 0.0.0.0 fe-shop.cc
 0.0.0.0 fe.lwcvn.com
@@ -966,6 +968,7 @@
 0.0.0.0 kfdg55.com
 0.0.0.0 kh-cn-uutien-3fv-vib.com
 0.0.0.0 khach-hang-ca-nhan-vip5.com
+0.0.0.0 khachhangvib-canhan.com
 0.0.0.0 khangdz215.tk
 0.0.0.0 khcn-han-muc-tin-dung-ca-nhan.com
 0.0.0.0 khcn-tindung-vp.com
@@ -1217,6 +1220,7 @@
 0.0.0.0 mavietnam.xyz
 0.0.0.0 mayanpuzzle.com
 0.0.0.0 mayxanhsg.com
+0.0.0.0 mayxanhsupport.com
 0.0.0.0 mbankingvn.com
 0.0.0.0 mbbank-vn.com
 0.0.0.0 mbbank.net.cn
@@ -1648,6 +1652,7 @@
 0.0.0.0 nganhanganbinh.com
 0.0.0.0 nganhangbidv.com
 0.0.0.0 nganhangsaigon.org
+0.0.0.0 nganhangsaison.org
 0.0.0.0 nganhangsaokevnn.com
 0.0.0.0 nganhangshopeevn.com
 0.0.0.0 nganhangsk.online
@@ -1713,6 +1718,7 @@
 0.0.0.0 nhantiensieutoc.com
 0.0.0.0 nhantienvipay.com
 0.0.0.0 nhantienvivnpay.com
+0.0.0.0 nhanvientiki.info
 0.0.0.0 nhanvimomo2021.weebly.com
 0.0.0.0 nhapcode-lienquan-garena.net
 0.0.0.0 nhapvang.pro
@@ -2472,6 +2478,7 @@
 0.0.0.0 sindtex.shop
 0.0.0.0 sinhvienvietnam2022.weebly.com
 0.0.0.0 skhf11.com
+0.0.0.0 skhf66.com
 0.0.0.0 smilitygorb.club
 0.0.0.0 smrtbbdv.com
 0.0.0.0 smrtbbidv.com
@@ -2489,6 +2496,7 @@
 0.0.0.0 sopper68.com
 0.0.0.0 sos-icloud.com
 0.0.0.0 sp315693vn.com
+0.0.0.0 sp77888.com
 0.0.0.0 sp8668vn.com
 0.0.0.0 spark123.shop
 0.0.0.0 spmail86.com
@@ -2651,6 +2659,7 @@
 0.0.0.0 tb55788.com
 0.0.0.0 tb55988.com
 0.0.0.0 tc-viet.click
+0.0.0.0 tdkd00.com
 0.0.0.0 tdkd01.com
 0.0.0.0 tdkd02.com
 0.0.0.0 tdkd03.com
@@ -2903,6 +2912,7 @@
 0.0.0.0 tpbank-com.com
 0.0.0.0 tpbank-hanoi.com
 0.0.0.0 tpbank-vaynhanh.com
+0.0.0.0 tpbank.chamsocthekhachang-truc-tuyen.com
 0.0.0.0 tpbank.chamsocthekhachhang-thang4.com.vn
 0.0.0.0 tpbank.chamsocthekhachhang-truc-tuyen.com
 0.0.0.0 tpbank.vn-cl.xyz
@@ -3020,6 +3030,7 @@
 0.0.0.0 tuyendungnhanhonline.xyz
 0.0.0.0 tuyendungshopee.com
 0.0.0.0 tuyendungstmlazada.com
+0.0.0.0 tuyendungtiki2024.vn
 0.0.0.0 tuyensinhgionghatvietnhi01.weebly.com
 0.0.0.0 tw-shopee.store
 0.0.0.0 tw-shopee.xyz
@@ -3271,6 +3282,7 @@
 0.0.0.0 vib.tuvan-chamsockhachhang.com
 0.0.0.0 vib8-vay.com
 0.0.0.0 vib84.com
+0.0.0.0 vibbca-nhan.com
 0.0.0.0 vibcskh.com
 0.0.0.0 vibvay.com
 0.0.0.0 vibvayvn.com
@@ -3594,6 +3606,7 @@
 0.0.0.0 vn66733shop.com
 0.0.0.0 vn667755s.com
 0.0.0.0 vn66954shp.com
+0.0.0.0 vn68822s.com
 0.0.0.0 vn6932shp.com
 0.0.0.0 vn765.com
 0.0.0.0 vn78223p.com
@@ -3605,6 +3618,7 @@
 0.0.0.0 vn88khuyenmai.space
 0.0.0.0 vn88khuyenmai.store
 0.0.0.0 vnah567.com
+0.0.0.0 vnambzuon36sc.vip
 0.0.0.0 vnbitcoin.cc
 0.0.0.0 vnduthianhgroup.com
 0.0.0.0 vnebank.xyz

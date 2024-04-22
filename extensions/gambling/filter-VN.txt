@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 20 Apr 2024 22:19 UTC+7
-! Version: 2404202219
-! Blocked: 4,869 rules
+! Last modified: 22 Apr 2024 09:57 UTC+7
+! Version: 2404220957
+! Blocked: 4,871 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -730,6 +730,7 @@
 ||banca.red88.us^
 ||banca.xo68.vip^
 ||bancadoithuongvn.com^
+||bancakings.com^
 ||bancalucky88.com^
 ||baowin.net^
 ||bay789.club^
@@ -1478,6 +1479,7 @@
 ||go88x.club^
 ||go8vui.info^
 ||go99.pro^
+||go99.red^
 ||goal123.com^
 ||goal68.com^
 ||goal68.net^
