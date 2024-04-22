@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 22 Apr 2024 09:57 UTC+7
-# Version: 2404220957
-# Blocked: 5,509 domains
+# Last modified: 22 Apr 2024 15:50 UTC+7
+# Version: 2404221550
+# Blocked: 5,511 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3122,6 +3122,8 @@
 0.0.0.0 kufun.win
 0.0.0.0 kuwaitfunddev.com
 0.0.0.0 kuwin.bet
+0.0.0.0 kuwin.com
+0.0.0.0 kuwinvip.com
 0.0.0.0 lambada-tx1app.fun
 0.0.0.0 langvuichoi.net
 0.0.0.0 ld99.club
