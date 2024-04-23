@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 22 Apr 2024 15:50 UTC+7
-# Version: 2404221550
-# Blocked: 3,954 domains
+# Last modified: 23 Apr 2024 14:24 UTC+7
+# Version: 2404231424
+# Blocked: 3,956 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -189,6 +189,7 @@
 0.0.0.0 baohanhdienmayxanhvn.com
 0.0.0.0 baohiemvietinbank.com
 0.0.0.0 baosaoviet24h.net
+0.0.0.0 baothanhnien.top
 0.0.0.0 baotienphong.net
 0.0.0.0 baotrixanhvn.com
 0.0.0.0 baoviet-vn.cc
@@ -540,6 +541,7 @@
 0.0.0.0 faceb00k.com.vn
 0.0.0.0 facebook.c0m.ltd
 0.0.0.0 facebook4288062.blogspot.com
+0.0.0.0 facebook62747.blogspot.com
 0.0.0.0 facebook92288.blogspot.com
 0.0.0.0 facebookk.life
 0.0.0.0 facebookvni.com
