@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 19 Apr 2024 16:17 UTC+7
-! Version: 2404191617
-! Blocked: 10,584 rules
+! Last modified: 30 Apr 2024 23:22 UTC+7
+! Version: 2404302322
+! Blocked: 10,585 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4020,6 +4020,7 @@
 ||apochaeunanime.com^
 ||apoll-amp.com^
 ||apolloprogram.io^
+||app-analytics-services.com^
 ||app-promo.com^
 ||app.adjust.net.in^
 ||app.adjust.world^
@@ -4928,6 +4929,7 @@
 ||cloudcollect.meitudata.com^
 ||cloudembed.net^
 ||cloueewinkles.com^
+||cloveswamptearing.com^
 ||clrstm.com^
 ||cls.vrvm.com^
 ||clumsyrock.com^
@@ -10041,7 +10043,6 @@
 ||vidcpm.com^
 ||video-serve.com^
 ||videoegg.com^
-||videoplayerhub.com^
 ||videosprofitnetwork.com^
 ||videosvc.ezoic.com^
 ||vidora.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 24 Apr 2024 22:50 UTC+7
-! Version: 2404242250
-! Blocked: 3,901 rules
+! Last modified: 30 Apr 2024 23:22 UTC+7
+! Version: 2404302322
+! Blocked: 3,920 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -237,6 +237,7 @@
 ||bvietcombank.com^
 ||bxrtxfr.xyz^
 ||campxanh.info^
+||canhanshinhan.com^
 ||canvayvon.net^
 ||caonhanh.xyz^
 ||caoviet.net^
@@ -303,6 +304,7 @@
 ||cltx888.me^
 ||cltxmm.us^
 ||clubleadershipsolutions.com^
+||clzl.pro^
 ||cmvietcombank.com^
 ||cnaptheaz.com^
 ||cnvietcombank.com^
@@ -422,10 +424,12 @@
 ||dichvucong.agov.net^
 ||dichvucong.cvgov.com^
 ||dichvucong.dancuquocgia.net^
+||dichvucong.dancuso.com^
 ||dichvucong.dulieuquocgia.com^
 ||dichvucong.govnx.com^
 ||dichvucong.hgov.cc^
 ||dichvucong.hgov.net^
+||dichvucong.hhlpa.com^
 ||dichvucong.kgov.net^
 ||dichvucong.lgov.net^
 ||dichvucong.tgovn.cc^
@@ -803,6 +807,7 @@
 ||hdsaison-vn.cc^
 ||hdsaison-vn.com^
 ||hdsaisonvn.com^
+||hdtinchap.com^
 ||hdzonline.pro^
 ||hethongbank.com^
 ||hethongbank24h.com^
@@ -1190,6 +1195,7 @@
 ||lottevn896.com^
 ||lottevn999.com^
 ||lottevn9999.com^
+||lotttemart.store^
 ||lsacomban.com^
 ||lstmoney.xyz^
 ||luuvanquang.com^
@@ -1276,6 +1282,8 @@
 ||meokiemtien.online^
 ||metcoin-exchange.com^
 ||metvay.com^
+||mfacebok.com^
+||mfacebook.vn^
 ||mhshopee.com^
 ||miner-linkperfectmoney.com^
 ||minhchinhmega.com^
@@ -1455,6 +1463,7 @@
 ||nang-cap-online-vpbank.com^
 ||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
+||nang-han-muc-vcs1-khcn-vib.com^
 ||nang-han-muc-vip-vpbank.com^
 ||nang-hang-ca-nhan-vib-mrk1.com^
 ||nang-hang-tin-dung-ca-nhan.com^
@@ -2020,6 +2029,7 @@
 ||shbfinans.com^
 ||shbkhuyenmai.com^
 ||shek66.com^
+||shinhan.chamsoccanhankhachhangthe-tructuyen.online^
 ||shinhan.ho-tro-tin-dung-ca-nhan.com^
 ||shinhan0.com^
 ||shinhanapp.org^
@@ -2500,7 +2510,9 @@
 ||soppe68.com^
 ||sopper68.com^
 ||sos-icloud.com^
+||sotuyenvcb.vietcombanker.com^
 ||sp315693vn.com^
+||sp6788.com^
 ||sp77888.com^
 ||sp8668vn.com^
 ||spark123.shop^
@@ -2670,6 +2682,7 @@
 ||tdkd01.com^
 ||tdkd02.com^
 ||tdkd03.com^
+||tdkd07.com^
 ||tdtc.shop^
 ||techcombank.ngan-hang.net^
 ||techcombank.site^
@@ -2877,6 +2890,7 @@
 ||tingiaitrian.com^
 ||tingiovang777.com^
 ||tingiovangvn.com^
+||tinhay24h.pro^
 ||tinhotnew.com^
 ||tinlequa365.com^
 ||tinlocvang123.com^
@@ -3260,6 +3274,7 @@
 ||vcbdigtylbrnk.com^
 ||vcbdlgrcbonk.com^
 ||vcbigdank.com^
+||vdbank.com.vn^
 ||vebo123.vip^
 ||vebo1s.co^
 ||vebo8386.me^
@@ -3381,6 +3396,7 @@
 ||vietelshop.online^
 ||vietflix.vn^
 ||vietgav.cc^
+||vietgcv.cc^
 ||vietgov.cc^
 ||vietgov0.cc^
 ||vietgov22.cc^
@@ -3505,6 +3521,7 @@
 ||vip.jaccsvn.com^
 ||vip.tpbank84.com^
 ||vip8591.net^
+||vipcard-vib.com^
 ||vipgooshop.com^
 ||viplovang.com^
 ||vipmmomo2456.fun^
@@ -3598,9 +3615,11 @@
 ||vn-vongquaylol.cf^
 ||vn-vp.xyz^
 ||vn.btaynguyenfood.com^
+||vn.vnhao123.xyz^
 ||vn11268shp.com^
 ||vn11568p.com^
 ||vn119shop.com^
+||vn147258p.com^
 ||vn168d.com^
 ||vn22647shp.com^
 ||vn268.com^

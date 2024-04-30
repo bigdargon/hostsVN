@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 24 Apr 2024 22:50 UTC+7
-! Version: 2404242250
-! Blocked: 4,204 rules
+! Last modified: 30 Apr 2024 23:22 UTC+7
+! Version: 2404302322
+! Blocked: 4,233 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -113,6 +113,7 @@
 ||admin-vayvonvietthanh.com^
 ||ads-tm-glb.click^
 ||adsharedwi897th.cfd^
+||advanced-ip-sccanner.com^
 ||ae888vip.com^
 ||aeeonmaill.com^
 ||aeeonmart.com^
@@ -189,6 +190,7 @@
 ||apple.icloud.mar-kt.com.mx^
 ||apple.support-find-my-iphone.com^
 ||apple.support-maps.live^
+||applecare-icloud.com^
 ||apps-for-pc.com^
 ||appvaytien.vn^
 ||apteka-money.ru^
@@ -301,6 +303,7 @@
 ||bxrtxfr.xyz^
 ||byasdebrisfie.cfd^
 ||campxanh.info^
+||canhanshinhan.com^
 ||canvayvon.net^
 ||caonhanh.xyz^
 ||caoviet.net^
@@ -376,6 +379,7 @@
 ||cltxmm.us^
 ||clubfiletyc.com^
 ||clubleadershipsolutions.com^
+||clzl.pro^
 ||cmvietcombank.com^
 ||cnaptheaz.com^
 ||cnvietcombank.com^
@@ -514,10 +518,12 @@
 ||dichvucong.agov.net^
 ||dichvucong.cvgov.com^
 ||dichvucong.dancuquocgia.net^
+||dichvucong.dancuso.com^
 ||dichvucong.dulieuquocgia.com^
 ||dichvucong.govnx.com^
 ||dichvucong.hgov.cc^
 ||dichvucong.hgov.net^
+||dichvucong.hhlpa.com^
 ||dichvucong.kgov.net^
 ||dichvucong.lgov.net^
 ||dichvucong.tgovn.cc^
@@ -951,6 +957,7 @@
 ||hdsaison-vn.cc^
 ||hdsaison-vn.com^
 ||hdsaisonvn.com^
+||hdtinchap.com^
 ||hdzonline.pro^
 ||heirreplacem.cfd^
 ||helandsca.cfd^
@@ -1096,6 +1103,8 @@
 ||ionthatco.cfd^
 ||ionvictoriesin.cfd^
 ||iplaytogethershop.com^
+||ipscanneronline.com^
+||ipscannershop.com^
 ||irduwhojas.ga^
 ||iruiotish.cfd^
 ||isacambank.com^
@@ -1366,6 +1375,7 @@
 ||lottevn896.com^
 ||lottevn999.com^
 ||lottevn9999.com^
+||lotttemart.store^
 ||low-lyingwh.cfd^
 ||lsacomban.com^
 ||lstmoney.xyz^
@@ -1457,6 +1467,8 @@
 ||mershadclo.cfd^
 ||metcoin-exchange.com^
 ||metvay.com^
+||mfacebok.com^
+||mfacebook.vn^
 ||mhshopee.com^
 ||micronsofte-online.com^
 ||miner-linkperfectmoney.com^
@@ -1642,8 +1654,12 @@
 ||myeca.ieasytest.net^
 ||myecat1.ieasyclick.net^
 ||myecat1.ieasytest.net^
+||myipscanner.com^
 ||mylotte.me^
 ||mylotte.shop^
+||myscannappo.com^
+||myscannappo.info^
+||myscannappo.online^
 ||myshopee13.com^
 ||myshopee7.vip^
 ||mysp.ac^
@@ -1652,6 +1668,7 @@
 ||nang-cap-online-vpbank.com^
 ||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
+||nang-han-muc-vcs1-khcn-vib.com^
 ||nang-han-muc-vip-vpbank.com^
 ||nang-hang-ca-nhan-vib-mrk1.com^
 ||nang-hang-tin-dung-ca-nhan.com^
@@ -2155,6 +2172,7 @@
 ||regis2tarsinc.click^
 ||reglienquan.online^
 ||resonherse.cfd^
+||restless.su^
 ||restlesz.su^
 ||reviewphim.pro^
 ||rhighest.cfd^
@@ -2268,6 +2286,7 @@
 ||shbkhuyenmai.com^
 ||shek66.com^
 ||shilla.skrfgrl.cn^
+||shinhan.chamsoccanhankhachhangthe-tructuyen.online^
 ||shinhan.ho-tro-tin-dung-ca-nhan.com^
 ||shinhan0.com^
 ||shinhanapp.org^
@@ -2752,7 +2771,9 @@
 ||soppe68.com^
 ||sopper68.com^
 ||sos-icloud.com^
+||sotuyenvcb.vietcombanker.com^
 ||sp315693vn.com^
+||sp6788.com^
 ||sp77888.com^
 ||sp8668vn.com^
 ||spark123.shop^
@@ -2927,6 +2948,7 @@
 ||tdkd01.com^
 ||tdkd02.com^
 ||tdkd03.com^
+||tdkd07.com^
 ||tdtc.shop^
 ||techcombank.ngan-hang.net^
 ||techcombank.site^
@@ -2959,6 +2981,7 @@
 ||thegioididong.me^
 ||thegioididong.store^
 ||thegioidienmayxanh.com^
+||theipscanner.com^
 ||thenapx10ff.com^
 ||theopenpathology.click^
 ||theritishind.cfd^
@@ -3139,6 +3162,7 @@
 ||tingiaitrian.com^
 ||tingiovang777.com^
 ||tingiovangvn.com^
+||tinhay24h.pro^
 ||tinhotnew.com^
 ||tinlequa365.com^
 ||tinlocvang123.com^
@@ -3537,6 +3561,7 @@
 ||vcbdigtylbrnk.com^
 ||vcbdlgrcbonk.com^
 ||vcbigdank.com^
+||vdbank.com.vn^
 ||vebo123.vip^
 ||vebo1s.co^
 ||vebo8386.me^
@@ -3659,6 +3684,7 @@
 ||vietelshop.online^
 ||vietflix.vn^
 ||vietgav.cc^
+||vietgcv.cc^
 ||vietgov.cc^
 ||vietgov0.cc^
 ||vietgov22.cc^
@@ -3784,6 +3810,7 @@
 ||vip.jaccsvn.com^
 ||vip.tpbank84.com^
 ||vip8591.net^
+||vipcard-vib.com^
 ||vipgooshop.com^
 ||viplovang.com^
 ||vipmmomo2456.fun^
@@ -3878,9 +3905,11 @@
 ||vn-vongquaylol.cf^
 ||vn-vp.xyz^
 ||vn.btaynguyenfood.com^
+||vn.vnhao123.xyz^
 ||vn11268shp.com^
 ||vn11568p.com^
 ||vn119shop.com^
+||vn147258p.com^
 ||vn168d.com^
 ||vn22647shp.com^
 ||vn268.com^

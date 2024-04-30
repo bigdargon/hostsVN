@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 24 Apr 2024 22:50 UTC+7
-# Version: 2404242250
-# Blocked: 4,262 domains
+# Last modified: 30 Apr 2024 23:22 UTC+7
+# Version: 2404302322
+# Blocked: 4,291 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -117,6 +117,7 @@
 0.0.0.0 admin-vayvonvietthanh.com
 0.0.0.0 ads-tm-glb.click
 0.0.0.0 adsharedwi897th.cfd
+0.0.0.0 advanced-ip-sccanner.com
 0.0.0.0 ae888vip.com
 0.0.0.0 aeeonmaill.com
 0.0.0.0 aeeonmart.com
@@ -192,6 +193,7 @@
 0.0.0.0 apple.icloud.mar-kt.com.mx
 0.0.0.0 apple.support-find-my-iphone.com
 0.0.0.0 apple.support-maps.live
+0.0.0.0 applecare-icloud.com
 0.0.0.0 apps-for-pc.com
 0.0.0.0 appvaytien.vn
 0.0.0.0 apteka-money.ru
@@ -304,6 +306,7 @@
 0.0.0.0 bxrtxfr.xyz
 0.0.0.0 byasdebrisfie.cfd
 0.0.0.0 campxanh.info
+0.0.0.0 canhanshinhan.com
 0.0.0.0 canvayvon.net
 0.0.0.0 caonhanh.xyz
 0.0.0.0 caoviet.net
@@ -379,6 +382,7 @@
 0.0.0.0 cltxmm.us
 0.0.0.0 clubfiletyc.com
 0.0.0.0 clubleadershipsolutions.com
+0.0.0.0 clzl.pro
 0.0.0.0 cmvietcombank.com
 0.0.0.0 cnaptheaz.com
 0.0.0.0 cnvietcombank.com
@@ -517,10 +521,12 @@
 0.0.0.0 dichvucong.agov.net
 0.0.0.0 dichvucong.cvgov.com
 0.0.0.0 dichvucong.dancuquocgia.net
+0.0.0.0 dichvucong.dancuso.com
 0.0.0.0 dichvucong.dulieuquocgia.com
 0.0.0.0 dichvucong.govnx.com
 0.0.0.0 dichvucong.hgov.cc
 0.0.0.0 dichvucong.hgov.net
+0.0.0.0 dichvucong.hhlpa.com
 0.0.0.0 dichvucong.kgov.net
 0.0.0.0 dichvucong.lgov.net
 0.0.0.0 dichvucong.tgovn.cc
@@ -951,6 +957,7 @@
 0.0.0.0 hdsaison-vn.cc
 0.0.0.0 hdsaison-vn.com
 0.0.0.0 hdsaisonvn.com
+0.0.0.0 hdtinchap.com
 0.0.0.0 hdzonline.pro
 0.0.0.0 heirreplacem.cfd
 0.0.0.0 helandsca.cfd
@@ -1096,6 +1103,8 @@
 0.0.0.0 ionthatco.cfd
 0.0.0.0 ionvictoriesin.cfd
 0.0.0.0 iplaytogethershop.com
+0.0.0.0 ipscanneronline.com
+0.0.0.0 ipscannershop.com
 0.0.0.0 irduwhojas.ga
 0.0.0.0 iruiotish.cfd
 0.0.0.0 isacambank.com
@@ -1363,6 +1372,7 @@
 0.0.0.0 lottevn666.com
 0.0.0.0 lottevn896.com
 0.0.0.0 lottevn999.com
+0.0.0.0 lotttemart.store
 0.0.0.0 low-lyingwh.cfd
 0.0.0.0 lsacomban.com
 0.0.0.0 lstmoney.xyz
@@ -1454,6 +1464,8 @@
 0.0.0.0 mershadclo.cfd
 0.0.0.0 metcoin-exchange.com
 0.0.0.0 metvay.com
+0.0.0.0 mfacebok.com
+0.0.0.0 mfacebook.vn
 0.0.0.0 mhshopee.com
 0.0.0.0 micronsofte-online.com
 0.0.0.0 miner-linkperfectmoney.com
@@ -1639,8 +1651,12 @@
 0.0.0.0 myeca.ieasytest.net
 0.0.0.0 myecat1.ieasyclick.net
 0.0.0.0 myecat1.ieasytest.net
+0.0.0.0 myipscanner.com
 0.0.0.0 mylotte.me
 0.0.0.0 mylotte.shop
+0.0.0.0 myscannappo.com
+0.0.0.0 myscannappo.info
+0.0.0.0 myscannappo.online
 0.0.0.0 myshopee13.com
 0.0.0.0 myshopee7.vip
 0.0.0.0 mysp.ac
@@ -1649,6 +1665,7 @@
 0.0.0.0 nang-cap-online-vpbank.com
 0.0.0.0 nang-cap-vip-vpbank.com
 0.0.0.0 nang-han-muc-ido-vpbank.com
+0.0.0.0 nang-han-muc-vcs1-khcn-vib.com
 0.0.0.0 nang-han-muc-vip-vpbank.com
 0.0.0.0 nang-hang-ca-nhan-vib-mrk1.com
 0.0.0.0 nang-hang-tin-dung-ca-nhan.com
@@ -2152,6 +2169,7 @@
 0.0.0.0 regis2tarsinc.click
 0.0.0.0 reglienquan.online
 0.0.0.0 resonherse.cfd
+0.0.0.0 restless.su
 0.0.0.0 restlesz.su
 0.0.0.0 reviewphim.pro
 0.0.0.0 rhighest.cfd
@@ -2265,6 +2283,7 @@
 0.0.0.0 shbkhuyenmai.com
 0.0.0.0 shek66.com
 0.0.0.0 shilla.skrfgrl.cn
+0.0.0.0 shinhan.chamsoccanhankhachhangthe-tructuyen.online
 0.0.0.0 shinhan.ho-tro-tin-dung-ca-nhan.com
 0.0.0.0 shinhan0.com
 0.0.0.0 shinhanapp.org
@@ -2749,7 +2768,9 @@
 0.0.0.0 soppe68.com
 0.0.0.0 sopper68.com
 0.0.0.0 sos-icloud.com
+0.0.0.0 sotuyenvcb.vietcombanker.com
 0.0.0.0 sp315693vn.com
+0.0.0.0 sp6788.com
 0.0.0.0 sp77888.com
 0.0.0.0 sp8668vn.com
 0.0.0.0 spark123.shop
@@ -2922,6 +2943,7 @@
 0.0.0.0 tdkd01.com
 0.0.0.0 tdkd02.com
 0.0.0.0 tdkd03.com
+0.0.0.0 tdkd07.com
 0.0.0.0 tdtc.shop
 0.0.0.0 techcombank.ngan-hang.net
 0.0.0.0 techcombank.site
@@ -2954,6 +2976,7 @@
 0.0.0.0 thegioididong.me
 0.0.0.0 thegioididong.store
 0.0.0.0 thegioidienmayxanh.com
+0.0.0.0 theipscanner.com
 0.0.0.0 thenapx10ff.com
 0.0.0.0 theopenpathology.click
 0.0.0.0 theritishind.cfd
@@ -3134,6 +3157,7 @@
 0.0.0.0 tingiaitrian.com
 0.0.0.0 tingiovang777.com
 0.0.0.0 tingiovangvn.com
+0.0.0.0 tinhay24h.pro
 0.0.0.0 tinhotnew.com
 0.0.0.0 tinlequa365.com
 0.0.0.0 tinlocvang123.com
@@ -3532,6 +3556,7 @@
 0.0.0.0 vcbdigtylbrnk.com
 0.0.0.0 vcbdlgrcbonk.com
 0.0.0.0 vcbigdank.com
+0.0.0.0 vdbank.com.vn
 0.0.0.0 vebo123.vip
 0.0.0.0 vebo1s.co
 0.0.0.0 vebo8386.me
@@ -3654,6 +3679,7 @@
 0.0.0.0 vietelshop.online
 0.0.0.0 vietflix.vn
 0.0.0.0 vietgav.cc
+0.0.0.0 vietgcv.cc
 0.0.0.0 vietgov.cc
 0.0.0.0 vietgov0.cc
 0.0.0.0 vietgov22.cc
@@ -3779,6 +3805,7 @@
 0.0.0.0 vip.jaccsvn.com
 0.0.0.0 vip.tpbank84.com
 0.0.0.0 vip8591.net
+0.0.0.0 vipcard-vib.com
 0.0.0.0 vipgooshop.com
 0.0.0.0 viplovang.com
 0.0.0.0 vipmmomo2456.fun
@@ -3873,9 +3900,11 @@
 0.0.0.0 vn-vongquaylol.cf
 0.0.0.0 vn-vp.xyz
 0.0.0.0 vn.btaynguyenfood.com
+0.0.0.0 vn.vnhao123.xyz
 0.0.0.0 vn11268shp.com
 0.0.0.0 vn11568p.com
 0.0.0.0 vn119shop.com
+0.0.0.0 vn147258p.com
 0.0.0.0 vn168d.com
 0.0.0.0 vn22647shp.com
 0.0.0.0 vn268.com
