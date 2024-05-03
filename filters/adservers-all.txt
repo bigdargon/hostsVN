@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 30 Apr 2024 23:22 UTC+7
-! Version: 2404302322
-! Blocked: 10,585 rules
+! Last modified: 03 May 2024 15:33 UTC+7
+! Version: 2405031533
+! Blocked: 10,587 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3456,6 +3456,7 @@
 ||ads.trinitymirror.co.uk^
 ||ads.tripod.com^
 ||ads.tso.dennisnet.co.uk^
+||ads.tvb.com^
 ||ads.ultimate-guitar.com^
 ||ads.uncrate.com^
 ||ads.usatoday.com^
@@ -3498,6 +3499,7 @@
 ||ads2004.treiberupdate.de^
 ||ads24h.net^
 ||ads3.bangkokpost.co.th^
+||ads3.videy.co^
 ||ads3.virtual-nights.com^
 ||ads4.virtual-nights.com^
 ||ads4homes.com^
