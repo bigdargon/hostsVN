@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 03 May 2024 15:35 UTC+7
-! Version: 2405031535
-! Blocked: 3,920 rules
+! Last modified: 04 May 2024 23:32 UTC+7
+! Version: 2405042332
+! Blocked: 3,943 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -238,6 +238,7 @@
 ||bxrtxfr.xyz^
 ||campxanh.info^
 ||canhanshinhan.com^
+||canhantpb.com^
 ||canvayvon.net^
 ||caonhanh.xyz^
 ||caoviet.net^
@@ -405,6 +406,7 @@
 ||dhl-vietnam.vn^
 ||dhlexpress-vietnam.com.vn^
 ||dhlvietnam-express.vn^
+||dich-vu-dien-mayxanh.com^
 ||dich-vu-kvip-vpbank.com^
 ||dich-vu-online-vpbank.com^
 ||dich-vu-the-ai-vpbank.com^
@@ -429,6 +431,7 @@
 ||dichvucong.govnx.com^
 ||dichvucong.hgov.cc^
 ||dichvucong.hgov.net^
+||dichvucong.hhghv.com^
 ||dichvucong.hhlpa.com^
 ||dichvucong.kgov.net^
 ||dichvucong.lgov.net^
@@ -461,6 +464,7 @@
 ||dienmayxanh263.com^
 ||dienmayxanh268.com^
 ||dienmayxanh269.com^
+||dienmayxanh542.com^
 ||dienmayxanhantam.com^
 ||dienmayxanhbeauty.com^
 ||dienmayxanhbeautyplus.com^
@@ -597,6 +601,7 @@
 ||fhef11.com^
 ||ficonexchange.com^
 ||filavietnamve.com^
+||finacehoisomb.com^
 ||finashope.com^
 ||findiphone.mobi^
 ||findmy-status.com^
@@ -836,6 +841,7 @@
 ||hoinhiepanhbg.blogspot.com^
 ||hoiquanlq.vn^
 ||homecredit1.com^
+||homecreditvn.net^
 ||homevi1.tintuc-vi-vn.xyz^
 ||homevi2.tintuc-vi-vn.xyz^
 ||homevi3.tintuc-vi-vn.xyz^
@@ -938,6 +944,7 @@
 ||insuvietnam.com^
 ||insvrvietnam.com^
 ||internetbank.site^
+||investshopeemall.net^
 ||iplaytogethershop.com^
 ||irduwhojas.ga^
 ||isacambank.com^
@@ -986,6 +993,7 @@
 ||khoataikhoanhack-garena.xyz^
 ||khoaviphamtaikhoan.com^
 ||khohangdocvip.net^
+||khoi-khach-hang-ca-nhan-vni-diamon.com^
 ||khonapgame.com^
 ||khophanmem24h.com^
 ||khovang.click^
@@ -1106,6 +1114,7 @@
 ||lazadax17.com^
 ||lazadaz.xyz^
 ||lazadaz17.com^
+||lazd8.com^
 ||lazmail.com.vn^
 ||ldp.page^
 ||leanhtien.net^
@@ -1215,13 +1224,16 @@
 ||m.mmocorporation2017.com^
 ||m.nbm65.com^
 ||m.one018.com^
+||m.thuecn.top^
 ||m.tot166.com^
 ||m.vi-mayman.com^
+||m.vncongthue.top^
 ||m.vnsc-finhay.com^
 ||m.yocvn.com^
 ||macysbyi.com^
 ||magazineshopeeonline.com^
 ||magicslimnhatban.com^
+||mail.labtpb.online^
 ||maivang.vip^
 ||maivang.xyz^
 ||mallshopvn.vip^
@@ -1242,6 +1254,7 @@
 ||mbbankmn.com^
 ||mbbankn.com^
 ||mbbffn.online^
+||mbdkb.com^
 ||mbfic-plus.com^
 ||mbtk-bank.com^
 ||mcfa11.com^
@@ -1801,6 +1814,7 @@
 ||phieuruttien-247.com^
 ||phieuruttien-thetindungmpos24h.com^
 ||phimhaykiemtien24h.com^
+||phimtronbo.pro^
 ||phlazada.vip^
 ||phomuabannhadat.com^
 ||phone.didongvietstore.com^
@@ -2030,6 +2044,7 @@
 ||shbkhuyenmai.com^
 ||shek66.com^
 ||shinhan.chamsoccanhankhachhangthe-tructuyen.online^
+||shinhan.chamsocthekhachhang-thang4.online^
 ||shinhan.ho-tro-tin-dung-ca-nhan.com^
 ||shinhan0.com^
 ||shinhanapp.org^
@@ -2512,6 +2527,7 @@
 ||sos-icloud.com^
 ||sotuyenvcb.vietcombanker.com^
 ||sp315693vn.com^
+||sp56788.com^
 ||sp6788.com^
 ||sp77888.com^
 ||sp8668vn.com^
@@ -2683,6 +2699,7 @@
 ||tdkd02.com^
 ||tdkd03.com^
 ||tdkd07.com^
+||tdkd08.com^
 ||tdtc.shop^
 ||techcombank.ngan-hang.net^
 ||techcombank.site^
@@ -3296,9 +3313,11 @@
 ||vib.chamsockhachang-tructuyen.online^
 ||vib.chamsockhachhang-tructuyen-the-visa.com^
 ||vib.chamsocthekhachang-tructuyen.com.vn^
+||vib.hanmucvn.com^
 ||vib.khach-hang-the-tructuyen.com^
 ||vib.khach-hang-the-tructuyen.online^
 ||vib.mobi^
+||vib.tanghanmuc-vn.com^
 ||vib.truc-tuyen-cham-socthekhachhang.com^
 ||vib.tructuyen-chamsockhachang-the.com^
 ||vib.tuvan-chamsockhachhang.com^
@@ -3648,6 +3667,7 @@
 ||vnbitcoin.cc^
 ||vnduthianhgroup.com^
 ||vnebank.xyz^
+||vnexprress.com^
 ||vnhopqua.com^
 ||vnietinbank.com^
 ||vnpanda.shop^
@@ -3657,6 +3677,7 @@
 ||vnpaycredit-ruttientindung247.com^
 ||vnpaycreditruttientindung-247.com^
 ||vnpt99.com^
+||vnsendo.shop^
 ||vnsendo.vip^
 ||vnshop.today^
 ||vnshop00.com^
@@ -3771,6 +3792,8 @@
 ||vpb-hanmuc.online^
 ||vpb-nanghanmuc.com^
 ||vpb-nanghanmuc.online^
+||vpb.tang-han-muc-the-visa-vn.com^
+||vpb.tanghanmucvisa-vn.com^
 ||vpbank-vaytien.com^
 ||vpbank.appvest.vn^
 ||vpbank.com.vn-hc.info^
