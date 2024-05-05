@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 04 May 2024 23:32 UTC+7
-# Version: 2405042332
-# Blocked: 152,043 domains
+# Last modified: 05 May 2024 22:03 UTC+7
+# Version: 2405052203
+# Blocked: 152,243 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -767,8 +767,49 @@
 0.0.0.0 009003.org
 0.0.0.0 009004.org
 0.0.0.0 009009.net
+0.0.0.0 00900903.com
+0.0.0.0 00900904.com
 0.0.0.0 00900908.com
+0.0.0.0 00900923.com
 0.0.0.0 00900925.com
+0.0.0.0 00900926.com
+0.0.0.0 00900927.com
+0.0.0.0 00900928.com
+0.0.0.0 00900932.com
+0.0.0.0 00900943.com
+0.0.0.0 00900960.com
+0.0.0.0 00900961.com
+0.0.0.0 00900963.com
+0.0.0.0 00900965.com
+0.0.0.0 00900966.com
+0.0.0.0 00900967.com
+0.0.0.0 00900970.com
+0.0.0.0 00900971.com
+0.0.0.0 00900972.com
+0.0.0.0 00900973.com
+0.0.0.0 00900974.com
+0.0.0.0 00900975.com
+0.0.0.0 00900976.com
+0.0.0.0 00900977.com
+0.0.0.0 00900978.com
+0.0.0.0 00900979.com
+0.0.0.0 00900980.com
+0.0.0.0 00900981.com
+0.0.0.0 00900982.com
+0.0.0.0 00900983.com
+0.0.0.0 00900986.com
+0.0.0.0 00900987.com
+0.0.0.0 00900988.com
+0.0.0.0 00900989.com
+0.0.0.0 00900990.com
+0.0.0.0 00900991.com
+0.0.0.0 00900992.com
+0.0.0.0 00900993.com
+0.0.0.0 00900994.com
+0.0.0.0 00900995.com
+0.0.0.0 00900996.com
+0.0.0.0 00900997.com
+0.0.0.0 00900998.com
 0.0.0.0 00901.mba
 0.0.0.0 009015.com
 0.0.0.0 00902.biz
@@ -4701,6 +4742,7 @@
 0.0.0.0 0pu52em83k.com
 0.0.0.0 0pz452x6mq.com
 0.0.0.0 0qy.top
+0.0.0.0 0rns8wvuu1da.flash-speed-up.com
 0.0.0.0 0t6e.live
 0.0.0.0 0tg05n.com
 0.0.0.0 0titan007.com
@@ -32328,6 +32370,7 @@
 0.0.0.0 35773777.com
 0.0.0.0 35774777.com
 0.0.0.0 35775777.com
+0.0.0.0 3577599.com
 0.0.0.0 357767.com
 0.0.0.0 35776777.com
 0.0.0.0 35777a.net
@@ -59350,8 +59393,10 @@
 0.0.0.0 68gb3.com
 0.0.0.0 68gb5.fun
 0.0.0.0 68gbapp18.com
+0.0.0.0 68gbvip14.shop
 0.0.0.0 68gbweb15.com
 0.0.0.0 68gbweb26.com
+0.0.0.0 68gbweb38.com
 0.0.0.0 68h.club
 0.0.0.0 68hg8.com
 0.0.0.0 68hgv.com
@@ -72575,6 +72620,7 @@
 0.0.0.0 85856163.com
 0.0.0.0 85857833.com
 0.0.0.0 85858.org
+0.0.0.0 8585878.com
 0.0.0.0 858599.com
 0.0.0.0 8585f.com
 0.0.0.0 8585mgm.com
@@ -77064,6 +77110,7 @@
 0.0.0.0 8live.club
 0.0.0.0 8live.com
 0.0.0.0 8live.fun
+0.0.0.0 8live.mobi
 0.0.0.0 8live.net
 0.0.0.0 8live.top
 0.0.0.0 8live.us
@@ -77169,6 +77216,7 @@
 0.0.0.0 8x011.com
 0.0.0.0 8x014.com
 0.0.0.0 8x015.com
+0.0.0.0 8x0156.com
 0.0.0.0 8x016.com
 0.0.0.0 8x017.com
 0.0.0.0 8x019.com
@@ -77176,6 +77224,8 @@
 0.0.0.0 8x022.com
 0.0.0.0 8x023.com
 0.0.0.0 8x024.com
+0.0.0.0 8x0243.com
+0.0.0.0 8x0245.com
 0.0.0.0 8x027.com
 0.0.0.0 8x028.com
 0.0.0.0 8x031.com
@@ -77230,6 +77280,7 @@
 0.0.0.0 8x081.com
 0.0.0.0 8x082.com
 0.0.0.0 8x083.com
+0.0.0.0 8x0835.com
 0.0.0.0 8x084.com
 0.0.0.0 8x085.com
 0.0.0.0 8x086.com
@@ -77242,6 +77293,7 @@
 0.0.0.0 8x094.com
 0.0.0.0 8x095.com
 0.0.0.0 8x096.com
+0.0.0.0 8x0964.com
 0.0.0.0 8x097.com
 0.0.0.0 8x098.com
 0.0.0.0 8x101.com
@@ -77265,9 +77317,12 @@
 0.0.0.0 8x119.com
 0.0.0.0 8x120.com
 0.0.0.0 8x121.com
+0.0.0.0 8x1212.com
 0.0.0.0 8x122.com
+0.0.0.0 8x1235.com
 0.0.0.0 8x124.com
 0.0.0.0 8x125.com
+0.0.0.0 8x1256.com
 0.0.0.0 8x126.com
 0.0.0.0 8x127.com
 0.0.0.0 8x128.com
@@ -77278,12 +77333,47 @@
 0.0.0.0 8x133.com
 0.0.0.0 8x134.com
 0.0.0.0 8x135.com
+0.0.0.0 8x1445.com
+0.0.0.0 8x1545.com
+0.0.0.0 8x1549.com
+0.0.0.0 8x2104.com
+0.0.0.0 8x2108.com
+0.0.0.0 8x2233.com
+0.0.0.0 8x2323.com
+0.0.0.0 8x2366.com
+0.0.0.0 8x2451.com
+0.0.0.0 8x3166.com
+0.0.0.0 8x3344.com
+0.0.0.0 8x3431.com
+0.0.0.0 8x3543.com
+0.0.0.0 8x3561.com
+0.0.0.0 8x4225.com
+0.0.0.0 8x4354.com
+0.0.0.0 8x4546.com
+0.0.0.0 8x4562.com
+0.0.0.0 8x5452.com
 0.0.0.0 8x5566.com
+0.0.0.0 8x5577.com
+0.0.0.0 8x5588.com
+0.0.0.0 8x5621.com
+0.0.0.0 8x5646.com
+0.0.0.0 8x5756.com
+0.0.0.0 8x6056.com
+0.0.0.0 8x6532.com
+0.0.0.0 8x6590.com
+0.0.0.0 8x6667.com
 0.0.0.0 8x6767.com
+0.0.0.0 8x6899.com
 0.0.0.0 8x6et.com
+0.0.0.0 8x7353.com
+0.0.0.0 8x7779.com
 0.0.0.0 8x7788.com
 0.0.0.0 8x7888.com
 0.0.0.0 8x7899.com
+0.0.0.0 8x8889.com
+0.0.0.0 8x8921.com
+0.0.0.0 8x9292.com
+0.0.0.0 8x9724.com
 0.0.0.0 8x9781.com
 0.0.0.0 8xb.asia
 0.0.0.0 8xbe.asia
@@ -77577,23 +77667,42 @@
 0.0.0.0 8xbe31.com
 0.0.0.0 8xbe32.com
 0.0.0.0 8xbe33.com
+0.0.0.0 8xbe34.app
 0.0.0.0 8xbe34.com
+0.0.0.0 8xbe35.app
 0.0.0.0 8xbe35.com
+0.0.0.0 8xbe36.app
 0.0.0.0 8xbe36.com
+0.0.0.0 8xbe37.app
 0.0.0.0 8xbe37.com
+0.0.0.0 8xbe38.app
 0.0.0.0 8xbe38.com
+0.0.0.0 8xbe39.app
 0.0.0.0 8xbe39.com
 0.0.0.0 8xbe4.app
 0.0.0.0 8xbe4.com
+0.0.0.0 8xbe40.app
 0.0.0.0 8xbe40.com
+0.0.0.0 8xbe41.app
 0.0.0.0 8xbe41.com
+0.0.0.0 8xbe42.app
 0.0.0.0 8xbe42.com
+0.0.0.0 8xbe43.app
 0.0.0.0 8xbe44.com
 0.0.0.0 8xbe45.com
 0.0.0.0 8xbe46.com
 0.0.0.0 8xbe47.com
 0.0.0.0 8xbe48.com
+0.0.0.0 8xbe481.com
+0.0.0.0 8xbe482.com
+0.0.0.0 8xbe483.com
+0.0.0.0 8xbe484.com
+0.0.0.0 8xbe485.com
+0.0.0.0 8xbe486.com
+0.0.0.0 8xbe488.com
+0.0.0.0 8xbe489.com
 0.0.0.0 8xbe49.com
+0.0.0.0 8xbe490.com
 0.0.0.0 8xbe5.app
 0.0.0.0 8xbe5.com
 0.0.0.0 8xbe50.com
@@ -77618,15 +77727,34 @@
 0.0.0.0 8xbe67.com
 0.0.0.0 8xbe68.com
 0.0.0.0 8xbe69.com
+0.0.0.0 8xbe692.com
+0.0.0.0 8xbe693.com
+0.0.0.0 8xbe694.com
+0.0.0.0 8xbe695.com
+0.0.0.0 8xbe696.com
+0.0.0.0 8xbe697.com
+0.0.0.0 8xbe698.com
+0.0.0.0 8xbe699.com
 0.0.0.0 8xbe7.app
 0.0.0.0 8xbe7.com
 0.0.0.0 8xbe70.com
+0.0.0.0 8xbe700.com
 0.0.0.0 8xbe71.com
 0.0.0.0 8xbe72.com
 0.0.0.0 8xbe73.com
 0.0.0.0 8xbe74.com
 0.0.0.0 8xbe75.com
+0.0.0.0 8xbe751.com
+0.0.0.0 8xbe752.com
+0.0.0.0 8xbe753.com
+0.0.0.0 8xbe754.com
+0.0.0.0 8xbe755.com
+0.0.0.0 8xbe756.com
+0.0.0.0 8xbe757.com
+0.0.0.0 8xbe758.com
+0.0.0.0 8xbe759.com
 0.0.0.0 8xbe76.com
+0.0.0.0 8xbe760.com
 0.0.0.0 8xbe77.com
 0.0.0.0 8xbe78.com
 0.0.0.0 8xbe79.com
@@ -77634,6 +77762,11 @@
 0.0.0.0 8xbe8.com
 0.0.0.0 8xbe80.com
 0.0.0.0 8xbe81.com
+0.0.0.0 8xbe811.com
+0.0.0.0 8xbe812.com
+0.0.0.0 8xbe813.com
+0.0.0.0 8xbe814.com
+0.0.0.0 8xbe815.com
 0.0.0.0 8xbe82.com
 0.0.0.0 8xbe83.com
 0.0.0.0 8xbe84.com
@@ -77715,6 +77848,7 @@
 0.0.0.0 8xbet000.com
 0.0.0.0 8xbet01.com
 0.0.0.0 8xbet02.com
+0.0.0.0 8xbet03.cc
 0.0.0.0 8xbet03.com
 0.0.0.0 8xbet04.com
 0.0.0.0 8xbet05.com
@@ -77724,6 +77858,7 @@
 0.0.0.0 8xbet09.com
 0.0.0.0 8xbet1.app
 0.0.0.0 8xbet1.com
+0.0.0.0 8xbet10.bet
 0.0.0.0 8xbet10.com
 0.0.0.0 8xbet100.com
 0.0.0.0 8xbet101.com
@@ -77746,6 +77881,7 @@
 0.0.0.0 8xbet117.com
 0.0.0.0 8xbet118.com
 0.0.0.0 8xbet119.com
+0.0.0.0 8xbet12.cc
 0.0.0.0 8xbet12.com
 0.0.0.0 8xbet120.com
 0.0.0.0 8xbet121.com
@@ -77768,6 +77904,7 @@
 0.0.0.0 8xbet137.com
 0.0.0.0 8xbet138.com
 0.0.0.0 8xbet139.com
+0.0.0.0 8xbet14.cc
 0.0.0.0 8xbet14.com
 0.0.0.0 8xbet140.com
 0.0.0.0 8xbet141.com
@@ -77913,6 +78050,7 @@
 0.0.0.0 8xbet267.com
 0.0.0.0 8xbet268.com
 0.0.0.0 8xbet269.com
+0.0.0.0 8xbet27.cc
 0.0.0.0 8xbet27.com
 0.0.0.0 8xbet270.com
 0.0.0.0 8xbet271.com
@@ -77948,6 +78086,7 @@
 0.0.0.0 8xbet299.com
 0.0.0.0 8xbet3.app
 0.0.0.0 8xbet3.com
+0.0.0.0 8xbet30.cc
 0.0.0.0 8xbet30.com
 0.0.0.0 8xbet300.com
 0.0.0.0 8xbet31.com
@@ -77955,6 +78094,7 @@
 0.0.0.0 8xbet33.com
 0.0.0.0 8xbet333.com
 0.0.0.0 8xbet34.com
+0.0.0.0 8xbet35.cc
 0.0.0.0 8xbet35.com
 0.0.0.0 8xbet36.com
 0.0.0.0 8xbet365.com
@@ -77976,17 +78116,21 @@
 0.0.0.0 8xbet48.com
 0.0.0.0 8xbet49.com
 0.0.0.0 8xbet5.app
+0.0.0.0 8xbet5.casino
 0.0.0.0 8xbet5.com
 0.0.0.0 8xbet50.com
 0.0.0.0 8xbet51.com
 0.0.0.0 8xbet52.com
 0.0.0.0 8xbet53.com
+0.0.0.0 8xbet54.cc
 0.0.0.0 8xbet54.com
+0.0.0.0 8xbet55.bet
 0.0.0.0 8xbet55.com
 0.0.0.0 8xbet555.com
 0.0.0.0 8xbet56.com
 0.0.0.0 8xbet57.com
 0.0.0.0 8xbet58.com
+0.0.0.0 8xbet59.cc
 0.0.0.0 8xbet59.com
 0.0.0.0 8xbet6.app
 0.0.0.0 8xbet6.com
@@ -77996,6 +78140,7 @@
 0.0.0.0 8xbet63.com
 0.0.0.0 8xbet64.com
 0.0.0.0 8xbet65.com
+0.0.0.0 8xbet66.bet
 0.0.0.0 8xbet66.com
 0.0.0.0 8xbet666.com
 0.0.0.0 8xbet67.com
@@ -78009,6 +78154,7 @@
 0.0.0.0 8xbet73.com
 0.0.0.0 8xbet74.com
 0.0.0.0 8xbet75.com
+0.0.0.0 8xbet76.cc
 0.0.0.0 8xbet76.com
 0.0.0.0 8xbet77.com
 0.0.0.0 8xbet777.com
@@ -78037,7 +78183,9 @@
 0.0.0.0 8xbet9.app
 0.0.0.0 8xbet9.com
 0.0.0.0 8xbet90.com
+0.0.0.0 8xbet91.cc
 0.0.0.0 8xbet91.com
+0.0.0.0 8xbet92.cc
 0.0.0.0 8xbet92.com
 0.0.0.0 8xbet93.com
 0.0.0.0 8xbet94.com
@@ -85845,6 +85993,7 @@
 0.0.0.0 aabv.vip
 0.0.0.0 aac888.com
 0.0.0.0 aad918.com
+0.0.0.0 aadwye.com
 0.0.0.0 aafbcf.com
 0.0.0.0 aahg7788.com
 0.0.0.0 aai365.com
@@ -98941,6 +99090,7 @@
 0.0.0.0 dagablv.com
 0.0.0.0 dagacampuchia.com
 0.0.0.0 dagacampuchia.io
+0.0.0.0 dagachoi.tv
 0.0.0.0 dagacuadao.org
 0.0.0.0 dagahomqua.com
 0.0.0.0 dagathomo123.com
@@ -102335,6 +102485,7 @@
 0.0.0.0 fb365sports.com
 0.0.0.0 fb365spt.com
 0.0.0.0 fb3tpt.com
+0.0.0.0 fb68link8.com
 0.0.0.0 fb777.ph
 0.0.0.0 fb88.com
 0.0.0.0 fb88.company
@@ -102616,6 +102767,7 @@
 0.0.0.0 fdu832.top
 0.0.0.0 fe-source.czcbnnm.com
 0.0.0.0 fe-source.dev.mppwr.com
+0.0.0.0 fe-source.hgfhog.8xojdfudud.com
 0.0.0.0 fe-source.kangxinzhiyuan.com
 0.0.0.0 fe-source.zqzcxcl.com
 0.0.0.0 fe3jz.com
@@ -103265,6 +103417,8 @@
 0.0.0.0 for880330.com
 0.0.0.0 for880366.com
 0.0.0.0 for880394.com
+0.0.0.0 for880732.com
+0.0.0.0 for880762.com
 0.0.0.0 for880765.com
 0.0.0.0 for880812.com
 0.0.0.0 for880964.com
@@ -103273,8 +103427,10 @@
 0.0.0.0 for881021.com
 0.0.0.0 for881189.com
 0.0.0.0 for881223.com
+0.0.0.0 for881448.com
 0.0.0.0 for881476.com
 0.0.0.0 for8815.com
+0.0.0.0 for881547.com
 0.0.0.0 for881562.com
 0.0.0.0 for881656.com
 0.0.0.0 for881662.com
@@ -103290,6 +103446,7 @@
 0.0.0.0 for882488.com
 0.0.0.0 for882529.com
 0.0.0.0 for882530.com
+0.0.0.0 for882557.com
 0.0.0.0 for882596.com
 0.0.0.0 for882619.com
 0.0.0.0 for882699.com
@@ -103297,17 +103454,23 @@
 0.0.0.0 for882756.com
 0.0.0.0 for882773.com
 0.0.0.0 for882862.com
+0.0.0.0 for882937.com
 0.0.0.0 for883143.com
 0.0.0.0 for883152.com
 0.0.0.0 for883156.com
 0.0.0.0 for883273.com
+0.0.0.0 for883367.com
 0.0.0.0 for883540.com
+0.0.0.0 for883605.com
+0.0.0.0 for883695.com
 0.0.0.0 for883744.com
 0.0.0.0 for883765.com
 0.0.0.0 for883830.com
+0.0.0.0 for884005.com
 0.0.0.0 for884089.com
 0.0.0.0 for884205.com
 0.0.0.0 for884232.com
+0.0.0.0 for884521.com
 0.0.0.0 for884652.com
 0.0.0.0 for884797.com
 0.0.0.0 for884828.com
@@ -103323,18 +103486,24 @@
 0.0.0.0 for885620.com
 0.0.0.0 for885791.com
 0.0.0.0 for885982.com
+0.0.0.0 for886301.com
 0.0.0.0 for886391.com
+0.0.0.0 for886403.com
 0.0.0.0 for886511.com
 0.0.0.0 for886653.com
+0.0.0.0 for886775.com
 0.0.0.0 for887.com
 0.0.0.0 for887119.com
 0.0.0.0 for887147.com
+0.0.0.0 for887369.com
 0.0.0.0 for887489.com
 0.0.0.0 for887503.com
 0.0.0.0 for887633.com
 0.0.0.0 for887636.com
 0.0.0.0 for887774.com
 0.0.0.0 for887803.com
+0.0.0.0 for887806.com
+0.0.0.0 for887871.com
 0.0.0.0 for887936.com
 0.0.0.0 for888055.com
 0.0.0.0 for888091.com
@@ -103342,7 +103511,11 @@
 0.0.0.0 for888239.com
 0.0.0.0 for888349.com
 0.0.0.0 for888395.com
+0.0.0.0 for888486.com
 0.0.0.0 for888530.com
+0.0.0.0 for888567.com
+0.0.0.0 for888626.com
+0.0.0.0 for888671.com
 0.0.0.0 for888767.com
 0.0.0.0 for8888.com
 0.0.0.0 for889.com
@@ -105821,6 +105994,7 @@
 0.0.0.0 go88.info
 0.0.0.0 go88.live
 0.0.0.0 go88.luxury
+0.0.0.0 go88.org
 0.0.0.0 go88.study
 0.0.0.0 go88.tv
 0.0.0.0 go88.uk
@@ -110813,6 +110987,7 @@
 0.0.0.0 hzrp.live
 0.0.0.0 hzthg.win
 0.0.0.0 hzxhdsy.com
+0.0.0.0 i.go88.org
 0.0.0.0 i0309.com
 0.0.0.0 i034034.com
 0.0.0.0 i03641.com
@@ -111580,6 +111755,7 @@
 0.0.0.0 img.lucky88.net
 0.0.0.0 img.may88.club
 0.0.0.0 img.may88.com
+0.0.0.0 img.may88.game
 0.0.0.0 img.may88.top
 0.0.0.0 img.may88.us
 0.0.0.0 img.mu9.club
@@ -113841,6 +114017,7 @@
 0.0.0.0 jiejiekan.net
 0.0.0.0 jielisi168.com
 0.0.0.0 jiexinto.com
+0.0.0.0 jiezhixinjituan.com
 0.0.0.0 jig66.com
 0.0.0.0 jig68.com
 0.0.0.0 jig77.com
@@ -114104,6 +114281,9 @@
 0.0.0.0 jk233.wang
 0.0.0.0 jk2569.com
 0.0.0.0 jk296.site
+0.0.0.0 jk441.com
+0.0.0.0 jk442.com
+0.0.0.0 jk443.com
 0.0.0.0 jk860.com
 0.0.0.0 jk886d.com
 0.0.0.0 jk99.vip
@@ -119836,6 +120016,7 @@
 0.0.0.0 km.thethaob52.org
 0.0.0.0 km1888866b.com
 0.0.0.0 km238b.com
+0.0.0.0 km59.vn
 0.0.0.0 km758.com
 0.0.0.0 km938b.com
 0.0.0.0 km9v.com
@@ -120771,6 +120952,7 @@
 0.0.0.0 laiyishuo.com
 0.0.0.0 lalawager.com
 0.0.0.0 lambada-tx1app.fun
+0.0.0.0 lamgiau99.club
 0.0.0.0 lananhtk88.top
 0.0.0.0 lancarwd.com
 0.0.0.0 landpage.51fz.net
@@ -123283,6 +123465,7 @@
 0.0.0.0 may88.club
 0.0.0.0 may88.com
 0.0.0.0 may88.fun
+0.0.0.0 may88.game
 0.0.0.0 may88.top
 0.0.0.0 may88.us
 0.0.0.0 may88.vip
@@ -125757,6 +125940,8 @@
 0.0.0.0 n9bs.net
 0.0.0.0 n9mt3.com
 0.0.0.0 n9tfa.com
+0.0.0.0 na99.city
+0.0.0.0 na99.pro
 0.0.0.0 naa98.com
 0.0.0.0 naapptbwf.com
 0.0.0.0 nac5z.com
@@ -125935,6 +126120,7 @@
 0.0.0.0 neojbo.com
 0.0.0.0 neoyuer.xyz
 0.0.0.0 nerdysport.com
+0.0.0.0 net88.vip
 0.0.0.0 netapp00382.com
 0.0.0.0 netapp00384.com
 0.0.0.0 netapp00386.com
@@ -127089,6 +127275,7 @@
 0.0.0.0 one-game88.com
 0.0.0.0 one.bjx6867.com
 0.0.0.0 one567.net
+0.0.0.0 one88.cc
 0.0.0.0 one88.club
 0.0.0.0 one88.com
 0.0.0.0 one88.fun
@@ -131005,6 +131192,7 @@
 0.0.0.0 red-direct.com
 0.0.0.0 red88.com
 0.0.0.0 red88.top
+0.0.0.0 red88.tv
 0.0.0.0 red88.uk
 0.0.0.0 red88.us
 0.0.0.0 red88.vin
@@ -131397,6 +131585,7 @@
 0.0.0.0 richwb.com
 0.0.0.0 riding168.com
 0.0.0.0 riding168.net
+0.0.0.0 riegk4goq4uq.flash-speed-up.com
 0.0.0.0 rik.bet
 0.0.0.0 rik.club
 0.0.0.0 rik.fun
@@ -134814,6 +135003,7 @@
 0.0.0.0 t9grwx.vip
 0.0.0.0 t9nnk.com
 0.0.0.0 ta88.com
+0.0.0.0 ta88.org
 0.0.0.0 ta88.vip
 0.0.0.0 ta88a.com
 0.0.0.0 ta88r.com
@@ -134860,6 +135050,7 @@
 0.0.0.0 tai.yo88vn.us
 0.0.0.0 tai.you88.vin
 0.0.0.0 tai567live.vip
+0.0.0.0 tai68gamebai.biz
 0.0.0.0 tai789.net
 0.0.0.0 tai789.vip
 0.0.0.0 tai789.win
@@ -138672,7 +138863,10 @@
 0.0.0.0 v96688.com
 0.0.0.0 v96899.com
 0.0.0.0 v96997.com
+0.0.0.0 v978np.alpakmha.app
 0.0.0.0 v978np.tgtest.site
+0.0.0.0 v978np.weewrb.com
+0.0.0.0 v978sw.weewrb.com
 0.0.0.0 v98678.com
 0.0.0.0 v99.games
 0.0.0.0 v9916.com
@@ -140357,6 +140551,7 @@
 0.0.0.0 vz99.app
 0.0.0.0 vz99.com
 0.0.0.0 vz99.wiki
+0.0.0.0 vz99.ws
 0.0.0.0 vz99vietnam.com
 0.0.0.0 vze74.net
 0.0.0.0 vzh8.wang
@@ -142476,6 +142671,7 @@
 0.0.0.0 wqvip8.com
 0.0.0.0 wqw111111.com
 0.0.0.0 wr7789.com
+0.0.0.0 wrbl2.cc
 0.0.0.0 wreew.asia
 0.0.0.0 wrhg0ol7e.com
 0.0.0.0 wrhja.com
@@ -142633,6 +142829,8 @@
 0.0.0.0 ww88club.com
 0.0.0.0 ww88k.com
 0.0.0.0 ww88r.vip
+0.0.0.0 ww88ss.com
+0.0.0.0 ww88uu.com
 0.0.0.0 wwasaa.xyz
 0.0.0.0 wwff123.com
 0.0.0.0 wwjid.cn
@@ -150558,6 +150756,7 @@
 0.0.0.0 ymm2020.com
 0.0.0.0 ymm2021.com
 0.0.0.0 ymm686.com
+0.0.0.0 ymnnypom23us.flash-speed-up.com
 0.0.0.0 ymt585st.com
 0.0.0.0 ymtpfx.com
 0.0.0.0 ymy1.com
@@ -151488,6 +151687,7 @@
 0.0.0.0 zbcye.top
 0.0.0.0 zbcye.vip
 0.0.0.0 zbet.com
+0.0.0.0 zbet.fun
 0.0.0.0 zbet.me
 0.0.0.0 zbet.vn
 0.0.0.0 zbet.win

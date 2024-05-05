@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 04 May 2024 23:32 UTC+7
-# Version: 2405042332
-# Blocked: 5,515 domains
+# Last modified: 05 May 2024 22:03 UTC+7
+# Version: 2405052203
+# Blocked: 5,530 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -404,6 +404,7 @@
 0.0.0.0 8live.club
 0.0.0.0 8live.com
 0.0.0.0 8live.fun
+0.0.0.0 8live.mobi
 0.0.0.0 8live.net
 0.0.0.0 8live.top
 0.0.0.0 8live.us
@@ -1059,6 +1060,7 @@
 0.0.0.0 dagablv.com
 0.0.0.0 dagacampuchia.com
 0.0.0.0 dagacampuchia.io
+0.0.0.0 dagachoi.tv
 0.0.0.0 dagacuadao.org
 0.0.0.0 dagahomqua.com
 0.0.0.0 dagatructiep.casino
@@ -1456,6 +1458,7 @@
 0.0.0.0 go88.info
 0.0.0.0 go88.live
 0.0.0.0 go88.luxury
+0.0.0.0 go88.org
 0.0.0.0 go88.study
 0.0.0.0 go88.tv
 0.0.0.0 go88.vip
@@ -1557,6 +1560,7 @@
 0.0.0.0 hstsc07cdn.com
 0.0.0.0 hucd0.com
 0.0.0.0 hx9119.com
+0.0.0.0 i.go88.org
 0.0.0.0 i1lnr.com
 0.0.0.0 i8bet.org
 0.0.0.0 i9-bet.com
@@ -1695,6 +1699,7 @@
 0.0.0.0 img.lucky88.net
 0.0.0.0 img.may88.club
 0.0.0.0 img.may88.com
+0.0.0.0 img.may88.game
 0.0.0.0 img.may88.top
 0.0.0.0 img.may88.us
 0.0.0.0 img.mu9.club
@@ -3127,6 +3132,7 @@
 0.0.0.0 kuwin.com
 0.0.0.0 kuwinvip.com
 0.0.0.0 lambada-tx1app.fun
+0.0.0.0 lamgiau99.club
 0.0.0.0 langvuichoi.net
 0.0.0.0 ld99.club
 0.0.0.0 leto58.xyz
@@ -3394,6 +3400,7 @@
 0.0.0.0 may88.club
 0.0.0.0 may88.com
 0.0.0.0 may88.fun
+0.0.0.0 may88.game
 0.0.0.0 may88.top
 0.0.0.0 may88.us
 0.0.0.0 may88.vip
@@ -3486,6 +3493,8 @@
 0.0.0.0 my188bet.com
 0.0.0.0 myk8.live
 0.0.0.0 mykubet.com
+0.0.0.0 na99.city
+0.0.0.0 na99.pro
 0.0.0.0 naapptbwf.com
 0.0.0.0 nbet.club
 0.0.0.0 nbet.com
@@ -3501,6 +3510,7 @@
 0.0.0.0 nbet88.org
 0.0.0.0 nearom.com
 0.0.0.0 nemo.vin
+0.0.0.0 net88.vip
 0.0.0.0 new.vx88.com
 0.0.0.0 new88.ai
 0.0.0.0 new88.love
@@ -3567,6 +3577,7 @@
 0.0.0.0 onbet7.com
 0.0.0.0 onbet863.com
 0.0.0.0 onbet993.com
+0.0.0.0 one88.cc
 0.0.0.0 one88.club
 0.0.0.0 one88.com
 0.0.0.0 one88.fun
@@ -3779,6 +3790,7 @@
 0.0.0.0 record.pog79aff.com
 0.0.0.0 red88.com
 0.0.0.0 red88.top
+0.0.0.0 red88.tv
 0.0.0.0 red88.uk
 0.0.0.0 red88.us
 0.0.0.0 red88.vin
@@ -4056,6 +4068,7 @@
 0.0.0.0 t8bet999.com
 0.0.0.0 t8betvip.com
 0.0.0.0 ta88.com
+0.0.0.0 ta88.org
 0.0.0.0 ta88.vip
 0.0.0.0 tai-sumvip.city
 0.0.0.0 tai.b52vn.fun
@@ -4619,6 +4632,7 @@
 0.0.0.0 vz683.com
 0.0.0.0 vz79.com
 0.0.0.0 vz99.app
+0.0.0.0 vz99.ws
 0.0.0.0 vz99vietnam.com
 0.0.0.0 w-sunwin.net
 0.0.0.0 w008.com
@@ -5510,6 +5524,7 @@
 0.0.0.0 z3.zbetvn.com
 0.0.0.0 z333666.com
 0.0.0.0 zbet.com
+0.0.0.0 zbet.fun
 0.0.0.0 zbet.me
 0.0.0.0 zbet.vn
 0.0.0.0 zbet.win

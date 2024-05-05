@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 04 May 2024 23:32 UTC+7
-! Version: 2405042332
-! Blocked: 4,877 rules
+! Last modified: 05 May 2024 22:03 UTC+7
+! Version: 2405052203
+! Blocked: 4,892 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -405,6 +405,7 @@
 ||8live.club^
 ||8live.com^
 ||8live.fun^
+||8live.mobi^
 ||8live.net^
 ||8live.top^
 ||8live.us^
@@ -1065,6 +1066,7 @@
 ||dagablv.com^
 ||dagacampuchia.com^
 ||dagacampuchia.io^
+||dagachoi.tv^
 ||dagacuadao.org^
 ||dagahomqua.com^
 ||dagatructiep.casino^
@@ -1463,6 +1465,7 @@
 ||go88.info^
 ||go88.live^
 ||go88.luxury^
+||go88.org^
 ||go88.study^
 ||go88.tv^
 ||go88.vip^
@@ -1567,6 +1570,7 @@
 ||hstsc07cdn.com^
 ||hucd0.com^
 ||hx9119.com^
+||i.go88.org^
 ||i1lnr.com^
 ||i8bet.org^
 ||i9-bet.com^
@@ -1705,6 +1709,7 @@
 ||img.lucky88.net^
 ||img.may88.club^
 ||img.may88.com^
+||img.may88.game^
 ||img.may88.top^
 ||img.may88.us^
 ||img.mu9.club^
@@ -3137,6 +3142,7 @@
 ||kuwin.com^
 ||kuwinvip.com^
 ||lambada-tx1app.fun^
+||lamgiau99.club^
 ||langvuichoi.net^
 ||ld99.club^
 ||leto58.xyz^
@@ -3405,6 +3411,7 @@
 ||may88.club^
 ||may88.com^
 ||may88.fun^
+||may88.game^
 ||may88.top^
 ||may88.us^
 ||may88.vip^
@@ -3497,6 +3504,8 @@
 ||my188bet.com^
 ||myk8.live^
 ||mykubet.com^
+||na99.city^
+||na99.pro^
 ||naapptbwf.com^
 ||nbet.club^
 ||nbet.com^
@@ -3512,6 +3521,7 @@
 ||nbet88.org^
 ||nearom.com^
 ||nemo.vin^
+||net88.vip^
 ||new.vx88.com^
 ||new88.ai^
 ||new88.love^
@@ -3579,6 +3589,7 @@
 ||onbet7.com^
 ||onbet863.com^
 ||onbet993.com^
+||one88.cc^
 ||one88.club^
 ||one88.com^
 ||one88.fun^
@@ -3793,6 +3804,7 @@
 ||record.pog79aff.com^
 ||red88.com^
 ||red88.top^
+||red88.tv^
 ||red88.uk^
 ||red88.us^
 ||red88.vin^
@@ -4077,6 +4089,7 @@
 ||t8bet999.com^
 ||t8betvip.com^
 ||ta88.com^
+||ta88.org^
 ||ta88.vip^
 ||tai-sumvip.city^
 ||tai.b52vn.fun^
@@ -4644,6 +4657,7 @@
 ||vz683.com^
 ||vz79.com^
 ||vz99.app^
+||vz99.ws^
 ||vz99vietnam.com^
 ||w-sunwin.net^
 ||w008.com^
@@ -4868,6 +4882,7 @@
 ||z3.zbetvn.com^
 ||z333666.com^
 ||zbet.com^
+||zbet.fun^
 ||zbet.me^
 ||zbet.vn^
 ||zbet.win^
