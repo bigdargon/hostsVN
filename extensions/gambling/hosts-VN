@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 05 May 2024 22:03 UTC+7
-# Version: 2405052203
-# Blocked: 5,530 domains
+# Last modified: 07 May 2024 09:54 UTC+7
+# Version: 2405070954
+# Blocked: 5,532 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4497,6 +4497,7 @@
 0.0.0.0 vn666.bet
 0.0.0.0 vn67801.com
 0.0.0.0 vn789.net
+0.0.0.0 vn86.shop
 0.0.0.0 vn88.bet
 0.0.0.0 vn88.biz
 0.0.0.0 vn88.casino
@@ -5361,6 +5362,7 @@
 0.0.0.0 www.vn500.com
 0.0.0.0 www.vn666.bet
 0.0.0.0 www.vn67801.com
+0.0.0.0 www.vn86.shop
 0.0.0.0 www.vn88.bet
 0.0.0.0 www.vn88.casino
 0.0.0.0 www.vn88.club

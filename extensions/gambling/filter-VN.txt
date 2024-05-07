@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 05 May 2024 22:03 UTC+7
-! Version: 2405052203
-! Blocked: 4,892 rules
+! Last modified: 07 May 2024 09:54 UTC+7
+! Version: 2405070954
+! Blocked: 4,893 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4521,6 +4521,7 @@
 ||vn666.bet^
 ||vn67801.com^
 ||vn789.net^
+||vn86.shop^
 ||vn88.bet^
 ||vn88.biz^
 ||vn88.casino^
