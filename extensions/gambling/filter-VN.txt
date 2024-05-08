@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 07 May 2024 09:54 UTC+7
-! Version: 2405070954
-! Blocked: 4,893 rules
+! Last modified: 08 May 2024 10:48 UTC+7
+! Version: 2405081048
+! Blocked: 4,905 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1258,6 +1258,7 @@
 ||f8betapp.net^
 ||f8betgg.com^
 ||f8bets.pro^
+||fa88.tv^
 ||fa88.win^
 ||fa88vn.live^
 ||fabet.ac^
@@ -1528,6 +1529,7 @@
 ||hb88h.com^
 ||hb88p.com^
 ||hb88vn.co^
+||hcm66.com^
 ||hi.oppa888.com^
 ||hi888.app^
 ||hi88vip0.com^
@@ -3669,6 +3671,7 @@
 ||play.manclub.vin^
 ||play.nemo.vin^
 ||play.playiwin.biz^
+||play.rik88.life^
 ||play.rikgame.live^
 ||play.rikvip.tv^
 ||play.sbotop246.com^
@@ -3824,6 +3827,7 @@
 ||rik.vip^
 ||rik.win^
 ||rik6.com^
+||rik88.life^
 ||rikbet789.club^
 ||rikgame.live^
 ||rikk.us^
@@ -4377,6 +4381,7 @@
 ||uw88vnn3.com^
 ||uw88vnn4.com^
 ||uytin.8day66.com^
+||v.fa88.tv^
 ||v111w.com^
 ||v112w.com^
 ||v121w.com^
@@ -4843,7 +4848,14 @@
 ||xoso55.com^
 ||xoso5678.com^
 ||xoso6.com^
+||xoso66.com^
+||xoso66.info^
 ||xoso66.io^
+||xoso66.life^
+||xoso66.me^
+||xoso66.men^
+||xoso66.one^
+||xoso66.org^
 ||xoso6600.com^
 ||xoso678.com^
 ||xoso788.com^
