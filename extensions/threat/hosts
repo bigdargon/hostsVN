@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 08 May 2024 10:48 UTC+7
-# Version: 2405081048
-# Blocked: 4,324 domains
+# Last modified: 12 May 2024 22:46 UTC+7
+# Version: 2405122246
+# Blocked: 4,339 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -330,6 +330,7 @@
 0.0.0.0 chamsockhachhangnanghanmuctindungmsb.com
 0.0.0.0 chamsocthekhachang-truc-tuyen.com
 0.0.0.0 chamsocthekhachhang-thang4.com.vn
+0.0.0.0 chamsocthekhachhang-thang4.online
 0.0.0.0 chanle79.me
 0.0.0.0 chanlemmo.com
 0.0.0.0 chanlemomo.cc
@@ -506,6 +507,7 @@
 0.0.0.0 dhlexpress-vietnam.com.vn
 0.0.0.0 dhlvietnam-express.vn
 0.0.0.0 dich-vu-dien-mayxanh.com
+0.0.0.0 dich-vu-kh-vip-vpbank.com
 0.0.0.0 dich-vu-kvip-vpbank.com
 0.0.0.0 dich-vu-online-vpbank.com
 0.0.0.0 dich-vu-the-ai-vpbank.com
@@ -933,9 +935,11 @@
 0.0.0.0 haitacshopgame.com
 0.0.0.0 halovay.com
 0.0.0.0 hamoney.xyz
+0.0.0.0 han-muc-khcn-uu-tien-vna1.com
 0.0.0.0 handico.vaytienmat-nhanh24h.com
 0.0.0.0 hangairsoft.com
 0.0.0.0 hanghaiqt.com
+0.0.0.0 hanmucvn.com
 0.0.0.0 hbpnnz.cyou
 0.0.0.0 hdbankcareer.com
 0.0.0.0 hdbankfinancc.digital
@@ -1162,6 +1166,7 @@
 0.0.0.0 khachhangvib-canhan.com
 0.0.0.0 khangdz215.tk
 0.0.0.0 khcn-han-muc-tin-dung-ca-nhan.com
+0.0.0.0 khcn-my-diamon-han-muc-uu-tien.com
 0.0.0.0 khcn-tindung-vp.com
 0.0.0.0 khcn-uu-tien-3fv-vib.com
 0.0.0.0 khoanhkhacgiadinhdoantucuoinam.weebly.com
@@ -1217,6 +1222,7 @@
 0.0.0.0 kstorybank.top
 0.0.0.0 ktien.vn
 0.0.0.0 kuyhaa-me.pw
+0.0.0.0 l-fb.co
 0.0.0.0 la533.com
 0.0.0.0 la7168.com
 0.0.0.0 la9435.com
@@ -1696,6 +1702,7 @@
 0.0.0.0 nanghanmucthe-thetindung.com
 0.0.0.0 nanghanmucthetindung247.com
 0.0.0.0 nanghanmucthevib.com
+0.0.0.0 nanghanmucvisa-vn.com
 0.0.0.0 nap-the.vn
 0.0.0.0 napallgame.com
 0.0.0.0 napasvidientu247.com
@@ -2943,8 +2950,10 @@
 0.0.0.0 taixiumomo.net
 0.0.0.0 takk6.com
 0.0.0.0 tammenaa.com
+0.0.0.0 tang-han-muc-the-visa-vn.com
 0.0.0.0 tangcuongbanlinh.com
 0.0.0.0 tangcuongsinhluc.site
+0.0.0.0 tanghanmuc-vn.com
 0.0.0.0 tanglike.biz
 0.0.0.0 tanglikefree.online
 0.0.0.0 tangnickmienphi.com
@@ -3182,6 +3191,7 @@
 0.0.0.0 tingiovang777.com
 0.0.0.0 tingiovangvn.com
 0.0.0.0 tinhay24h.pro
+0.0.0.0 tinhothomnay.com
 0.0.0.0 tinhotnew.com
 0.0.0.0 tinlequa365.com
 0.0.0.0 tinlocvang123.com
@@ -3596,6 +3606,7 @@
 0.0.0.0 viashopee.com
 0.0.0.0 viaviet03.mobie.in
 0.0.0.0 vib-bank.com
+0.0.0.0 vib-mydiamon-khcn-uutien-vnc1.com
 0.0.0.0 vib-tindung-khcn.com
 0.0.0.0 vib-tindung.click
 0.0.0.0 vib-tindung.online
@@ -3645,6 +3656,7 @@
 0.0.0.0 vieclamonlinetainha.com.vn
 0.0.0.0 vieclamshopee.com
 0.0.0.0 vieetcombank.com
+0.0.0.0 vieetcombiank.com
 0.0.0.0 vieitcombank.com
 0.0.0.0 vieittcombank.com
 0.0.0.0 viet-credit.com
@@ -3845,6 +3857,7 @@
 0.0.0.0 vipshopee.com
 0.0.0.0 viptikivn.club
 0.0.0.0 virtuallaughing.com
+0.0.0.0 visa-mb.com
 0.0.0.0 visa-vpbank-uu-tien.com
 0.0.0.0 vitienonline88.com
 0.0.0.0 vitindungpgbank.com
@@ -4085,6 +4098,7 @@
 0.0.0.0 vpb-hanmuc.online
 0.0.0.0 vpb-nanghanmuc.com
 0.0.0.0 vpb-nanghanmuc.online
+0.0.0.0 vpb.nanghanmucvisa-vn.com
 0.0.0.0 vpb.tang-han-muc-the-visa-vn.com
 0.0.0.0 vpb.tanghanmucvisa-vn.com
 0.0.0.0 vpbank-vaytien.com
@@ -4200,6 +4214,7 @@
 0.0.0.0 wvietcombank.com
 0.0.0.0 wviietcombank.com
 0.0.0.0 wvvietcombank.com
+0.0.0.0 wvwfacebook.com
 0.0.0.0 wvwiietcoombank.com
 0.0.0.0 wwgfyvvdtmeq.pw
 0.0.0.0 www-fb.com

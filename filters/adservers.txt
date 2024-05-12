@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 May 2024 10:48 UTC+7
-! Version: 2405081048
-! Blocked: 872 rules
+! Last modified: 12 May 2024 22:45 UTC+7
+! Version: 2405122245
+! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -407,8 +407,10 @@
 ||ads.baotainguyenmoitruong.vn^
 ||ads.bkitsoftware.com^
 ||ads.businessstyle.vn^
+||ads.cadovn.biz^
 ||ads.careerbuilder.vn^
 ||ads.carmudi.vn^
+||ads.cdvn.vip^
 ||ads.chanhtuoi.com^
 ||ads.cungcau.vn^
 ||ads.fpt.vn^

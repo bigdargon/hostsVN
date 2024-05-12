@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 08 May 2024 10:48 UTC+7
-! Version: 2405081048
-! Blocked: 4,266 rules
+! Last modified: 12 May 2024 22:46 UTC+7
+! Version: 2405122246
+! Blocked: 4,281 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -327,6 +327,7 @@
 ||chamsockhachhangnanghanmuctindungmsb.com^
 ||chamsocthekhachang-truc-tuyen.com^
 ||chamsocthekhachhang-thang4.com.vn^
+||chamsocthekhachhang-thang4.online^
 ||chanle79.me^
 ||chanlemmo.com^
 ||chanlemomo.cc^
@@ -504,6 +505,7 @@
 ||dhlexpress-vietnam.com.vn^
 ||dhlvietnam-express.vn^
 ||dich-vu-dien-mayxanh.com^
+||dich-vu-kh-vip-vpbank.com^
 ||dich-vu-kvip-vpbank.com^
 ||dich-vu-online-vpbank.com^
 ||dich-vu-the-ai-vpbank.com^
@@ -932,9 +934,11 @@
 ||haitacshopgame.com^
 ||halovay.com^
 ||hamoney.xyz^
+||han-muc-khcn-uu-tien-vna1.com^
 ||handico.vaytienmat-nhanh24h.com^
 ||hangairsoft.com^
 ||hanghaiqt.com^
+||hanmucvn.com^
 ||hbpnnz.cyou^
 ||hdbankcareer.com^
 ||hdbankfinancc.digital^
@@ -1163,6 +1167,7 @@
 ||khachhangvib-canhan.com^
 ||khangdz215.tk^
 ||khcn-han-muc-tin-dung-ca-nhan.com^
+||khcn-my-diamon-han-muc-uu-tien.com^
 ||khcn-tindung-vp.com^
 ||khcn-uu-tien-3fv-vib.com^
 ||khoanhkhacgiadinhdoantucuoinam.weebly.com^
@@ -1218,6 +1223,7 @@
 ||kstorybank.top^
 ||ktien.vn^
 ||kuyhaa-me.pw^
+||l-fb.co^
 ||la533.com^
 ||la7168.com^
 ||la9435.com^
@@ -1700,6 +1706,7 @@
 ||nanghanmucthe-thetindung.com^
 ||nanghanmucthetindung247.com^
 ||nanghanmucthevib.com^
+||nanghanmucvisa-vn.com^
 ||nap-the.vn^
 ||napallgame.com^
 ||napasvidientu247.com^
@@ -2949,8 +2956,10 @@
 ||taixiumomo.net^
 ||takk6.com^
 ||tammenaa.com^
+||tang-han-muc-the-visa-vn.com^
 ||tangcuongbanlinh.com^
 ||tangcuongsinhluc.site^
+||tanghanmuc-vn.com^
 ||tanglike.biz^
 ||tanglikefree.online^
 ||tangnickmienphi.com^
@@ -3188,6 +3197,7 @@
 ||tingiovang777.com^
 ||tingiovangvn.com^
 ||tinhay24h.pro^
+||tinhothomnay.com^
 ||tinhotnew.com^
 ||tinlequa365.com^
 ||tinlocvang123.com^
@@ -3602,6 +3612,7 @@
 ||viashopee.com^
 ||viaviet03.mobie.in^
 ||vib-bank.com^
+||vib-mydiamon-khcn-uutien-vnc1.com^
 ||vib-tindung-khcn.com^
 ||vib-tindung.click^
 ||vib-tindung.online^
@@ -3651,6 +3662,7 @@
 ||vieclamonlinetainha.com.vn^
 ||vieclamshopee.com^
 ||vieetcombank.com^
+||vieetcombiank.com^
 ||vieitcombank.com^
 ||vieittcombank.com^
 ||viet-credit.com^
@@ -3851,6 +3863,7 @@
 ||vipshopee.com^
 ||viptikivn.club^
 ||virtuallaughing.com^
+||visa-mb.com^
 ||visa-vpbank-uu-tien.com^
 ||vitienonline88.com^
 ||vitindungpgbank.com^
@@ -4091,6 +4104,7 @@
 ||vpb-hanmuc.online^
 ||vpb-nanghanmuc.com^
 ||vpb-nanghanmuc.online^
+||vpb.nanghanmucvisa-vn.com^
 ||vpb.tang-han-muc-the-visa-vn.com^
 ||vpb.tanghanmucvisa-vn.com^
 ||vpbank-vaytien.com^
@@ -4206,6 +4220,7 @@
 ||wvietcombank.com^
 ||wviietcombank.com^
 ||wvvietcombank.com^
+||wvwfacebook.com^
 ||wvwiietcoombank.com^
 ||wwgfyvvdtmeq.pw^
 ||www-fb.com^

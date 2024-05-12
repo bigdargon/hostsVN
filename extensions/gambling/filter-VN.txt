@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 08 May 2024 10:48 UTC+7
-! Version: 2405081048
-! Blocked: 4,905 rules
+! Last modified: 12 May 2024 22:46 UTC+7
+! Version: 2405122246
+! Blocked: 4,923 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -61,11 +61,16 @@
 ||118kbet.com^
 ||11bet.club^
 ||11bet.com^
+||11bet.fun^
+||11bet.in^
 ||11bet.life^
 ||11bet.mobi^
+||11bet.mx^
 ||11bet.net^
 ||11bet.online^
 ||11bet.org^
+||11bet.pro^
+||11bet.uk^
 ||11bet.us^
 ||11bet.vin^
 ||11bet.win^
@@ -861,6 +866,7 @@
 ||bongda80.com^
 ||bongdaeuro188.com^
 ||bongvip.com^
+||bons.com^
 ||boom66.com^
 ||box2020.oxbetd.com^
 ||bt9gl.com^
@@ -897,6 +903,9 @@
 ||cado888.com^
 ||cadomienphi.com^
 ||cadomienphi.org^
+||cadovn.biz^
+||cadovn.com^
+||cadovn.pro^
 ||cashier2.188thethao.com^
 ||casino86.club^
 ||casino888vn.com^
@@ -910,6 +919,7 @@
 ||cdn.vicplay.io^
 ||cdn.vwin010.com^
 ||cdn.winclub.net^
+||cdvn.vip^
 ||cf68.app^
 ||cf68.click^
 ||cf68.club^
@@ -995,6 +1005,7 @@
 ||comebetvn3.com^
 ||comebetvn9.com^
 ||conggamehot.fun^
+||coopbet.com^
 ||corona999.com^
 ||cstga.com^
 ||cuoc.choilawin.net^
@@ -1122,6 +1133,7 @@
 ||dk.choitet.vip^
 ||dk.choiwin79.net^
 ||dk.gamequyong.xyz^
+||dk.playgem.club^
 ||dk.rikkk.net^
 ||dk.thangiwin.org^
 ||dk.thethaouk88.org^
@@ -1346,6 +1358,8 @@
 ||five88.com^
 ||five88.me^
 ||five88.net^
+||five88.top^
+||five88.vin^
 ||five88.win^
 ||fivevn.net^
 ||fmapt.com^
@@ -3046,6 +3060,7 @@
 ||k9vn2.com^
 ||kaivip.club^
 ||kc6bet.net^
+||kc8.link^
 ||kc99.vin^
 ||kenhbong.com^
 ||kenhthethao.net^
@@ -3619,6 +3634,7 @@
 ||oxbet.cc^
 ||oxbet.club^
 ||oxbet.com^
+||oxbet.in^
 ||oxbet.net^
 ||oxbet.top^
 ||oxbet.us^
@@ -3701,6 +3717,7 @@
 ||player.oleviet777.com^
 ||player.win102.com^
 ||playgamefa88.live^
+||playgem.club^
 ||playgo88.asia^
 ||playgo88.top^
 ||playhit.biz^
@@ -3729,6 +3746,7 @@
 ||portal.xinloiduocchua.co^
 ||pp88.dev^
 ||pp88.icu^
+||prettygame666.com^
 ||pro.vuigiaitri.org^
 ||prod.bwingmkt1.com^
 ||prod.bwingmkt10.com^
