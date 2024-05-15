@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 12 May 2024 22:46 UTC+7
-! Version: 2405122246
-! Blocked: 3,958 rules
+! Last modified: 15 May 2024 09:54 UTC+7
+! Version: 2405150954
+! Blocked: 3,959 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -70,6 +70,7 @@
 ||99lotte.com^
 ||9g5lm9.cyou^
 ||9smomo.com^
+||a.viethu.com^
 ||a666.vn^
 ||aaeeonmart.com^
 ||abb-vnbank.cc^

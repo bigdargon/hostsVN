@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 May 2024 22:45 UTC+7
-! Version: 2405122245
-! Blocked: 10,610 rules
+! Last modified: 15 May 2024 09:53 UTC+7
+! Version: 2405150953
+! Blocked: 10,618 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -73,13 +73,18 @@
 ||anymind360-com.cdn.ampproject.org^
 ||anymind360.com^
 ||api.nas.nct.vn^
+||api.subiz.com.vn^
+||api.subiz.net^
+||api.subiz.xyz^
 ||api.widget.zalo.me^
 ||apilog.mytvnet.vn^
 ||apilogduration.mytvnet.vn^
 ||apinas.nct.vn^
+||apiv4.subiz.com^
 ||app.harafunnel.com^
 ||app.haraloyalty.com^
 ||app.harasocial.com^
+||app.subiz.com.vn^
 ||apps.haraads.com^
 ||assets.harafunnel.com^
 ||atdnetwork.com^
@@ -238,6 +243,7 @@
 ||promotionbar.sapoapps.vn^
 ||promotionpopup.sapoapps.vn^
 ||pub.akadigital.vn^
+||public-gcs.subiz-cdn.com^
 ||pushdi.com^
 ||pushdy.com^
 ||pushdy.vn^
@@ -275,6 +281,7 @@
 ||static-addtoany-com.cdn.ampproject.org^
 ||static-ads.zaloapp.com^
 ||static.accesstrade.vn^
+||static.subiz.com^
 ||statistic-blog-v2.sapoapps.vn^
 ||stats.dev.zaloapp.com^
 ||stats.hara.vn^
@@ -283,11 +290,6 @@
 ||stats.stg.zaloapp.com^
 ||stats.zaloapp.com^
 ||stc-support-app-brand.zdn.vn^
-||subiz-cdn.com^
-||subiz.com^
-||subiz.com.vn^
-||subiz.net^
-||subiz.xyz^
 ||surfcountor.com^
 ||syndication.adlinknetwork.vn^
 ||t.sieu-viet.com^
@@ -323,6 +325,7 @@
 ||v9banners-com.cdn.ampproject.org^
 ||vads.net.vn^
 ||vads.vn^
+||vcdn.subiz-cdn.com^
 ||viam.com.vn^
 ||vidoomy.com^
 ||vietnamnetad.vn^
@@ -334,6 +337,10 @@
 ||watanet.work^
 ||wg.zaloapp.com^
 ||widget.chat.zalo.me^
+||widget.subiz.com^
+||widget.subiz.net^
+||widget.subiz.xyz^
+||widgetv4.subiz.com^
 ||wiinvent.com.vn^
 ||wiinvent.tv^
 ||yeah1publishing.com^
@@ -4014,6 +4021,7 @@
 ||api.ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||api.forshrd.com^
 ||api.intensifier.de^
+||api.iterable.com^
 ||api.mbrx.app^
 ||api.monedata.io^
 ||api.myadsget.com^

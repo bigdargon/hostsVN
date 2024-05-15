@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 12 May 2024 22:46 UTC+7
-# Version: 2405122246
-# Blocked: 4,339 domains
+# Last modified: 15 May 2024 09:54 UTC+7
+# Version: 2405150954
+# Blocked: 4,340 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -80,6 +80,7 @@
 0.0.0.0 9g5lm9.cyou
 0.0.0.0 9smomo.com
 0.0.0.0 Free-4paid.com
+0.0.0.0 a.viethu.com
 0.0.0.0 a666.vn
 0.0.0.0 aaeeonmart.com
 0.0.0.0 abb-vnbank.cc

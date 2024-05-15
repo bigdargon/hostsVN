@@ -1104,8 +1104,7 @@
 0.0.0.0 t.sieu-viet.com
 #[subiz-cdn.com]
 0.0.0.0 public-gcs.subiz-cdn.com
-0.0.0.0 subiz-cdn.com
-0.0.0.0 www.subiz-cdn.com
+0.0.0.0 vcdn.subiz-cdn.com
 #[subiz.com]
 0.0.0.0 apiv4.subiz.com
 0.0.0.0 static.subiz.com
