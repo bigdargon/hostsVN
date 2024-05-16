@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 15 May 2024 09:54 UTC+7
-! Version: 2405150954
-! Blocked: 151,625 rules
+! Last modified: 16 May 2024 09:42 UTC+7
+! Version: 2405160942
+! Blocked: 151,631 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4061,6 +4061,7 @@
 ||0888tyc.com^
 ||0889a.com^
 ||0889x.com^
+||088nohu.com^
 ||088vns.com^
 ||088yb.com^
 ||089.cm^
@@ -127181,6 +127182,7 @@
 ||no1jbo.com^
 ||no88.org^
 ||noah-tech-ltd.github.io^
+||nohu.band^
 ||nohu.buzz^
 ||nohu.com^
 ||nohu.cool^
@@ -127198,6 +127200,9 @@
 ||nohu08.com^
 ||nohu09.com^
 ||nohu35.com^
+||nohu52.com^
+||nohu52.in^
+||nohu52.win^
 ||nohucity.com^
 ||nohuf.com^
 ||nohufacebook.com^
@@ -136598,6 +136603,7 @@
 ||tool.mibet.com^
 ||top-canadiancasinos.com^
 ||top.bet20.bet^
+||top1.vin^
 ||top11x5.com^
 ||top1jbo.com^
 ||top1x88.com^

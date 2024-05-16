@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 15 May 2024 09:54 UTC+7
-# Version: 2405150954
-# Blocked: 5,562 domains
+# Last modified: 16 May 2024 09:42 UTC+7
+# Version: 2405160942
+# Blocked: 5,563 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3571,6 +3571,7 @@
 0.0.0.0 nhatvip.org
 0.0.0.0 nhatvip.us
 0.0.0.0 nnwud.com
+0.0.0.0 nohu.band
 0.0.0.0 nohu35.com
 0.0.0.0 nohuk8.fun
 0.0.0.0 nohuk8.info
