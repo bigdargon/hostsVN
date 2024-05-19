@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 16 May 2024 09:42 UTC+7
-! Version: 2405160942
-! Blocked: 4,924 rules
+! Last modified: 19 May 2024 22:32 UTC+7
+! Version: 2405192232
+! Blocked: 4,933 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -475,6 +475,7 @@
 ||ad.app8.top^
 ||ad.choigem.fun^
 ||ad.choingay11b.mobi^
+||ad.choingay11b.vin^
 ||ad.choingay88.com^
 ||ad.dangkygo88.in^
 ||ad.gamequyong.site^
@@ -719,6 +720,7 @@
 ||b29qc.win^
 ||b52.me^
 ||b52.mobi^
+||b52.vin^
 ||b52.vip^
 ||b52.win^
 ||b52d.club^
@@ -971,6 +973,7 @@
 ||choiiwin79.fun^
 ||choilawin.net^
 ||choingay11b.mobi^
+||choingay11b.vin^
 ||choingay88.com^
 ||choingayiwin.cc^
 ||choingayiwin.top^
@@ -1603,6 +1606,7 @@
 ||i9bet.llc^
 ||i9bet.net^
 ||i9bet.poker^
+||i9bet.tw^
 ||i9bet.vip^
 ||i9bet07.com^
 ||i9bet1.com^
@@ -3222,6 +3226,7 @@
 ||lp.sunwinvn.club^
 ||lp.taiv8.top^
 ||lp.vip79.com^
+||lp.vip79.uk^
 ||lp.vuiuk88.club^
 ||lp.zo.club^
 ||lp.zo1.win^
@@ -3304,6 +3309,7 @@
 ||m.five88.me^
 ||m.fivevn.net^
 ||m.happy9luck.com^
+||m.i9bet.tw^
 ||m.i9bet75.com^
 ||m.k8k26.com^
 ||m.k8sport.com^
@@ -4112,6 +4118,7 @@
 ||t8bet999.com^
 ||t8betvip.com^
 ||ta88.com^
+||ta88.me^
 ||ta88.org^
 ||ta88.vip^
 ||tai-sumvip.city^
@@ -4170,6 +4177,7 @@
 ||taigamehay.site^
 ||taigamehayvip.vip^
 ||taigamehot.pro^
+||taigamengay.click^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
 ||taigem79.net^
@@ -4487,6 +4495,7 @@
 ||vip11.us^
 ||vip130130.com^
 ||vip79.com^
+||vip79.uk^
 ||vip79.win^
 ||vipbet001.org^
 ||vipbet998.com^

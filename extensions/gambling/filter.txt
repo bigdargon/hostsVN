@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 16 May 2024 09:42 UTC+7
-! Version: 2405160942
-! Blocked: 151,631 rules
+! Last modified: 19 May 2024 22:32 UTC+7
+! Version: 2405192232
+! Blocked: 151,726 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -11474,6 +11474,7 @@
 ||1619n.com^
 ||1619t.com^
 ||161amhg.com^
+||161apb.com^
 ||161hgv.com^
 ||161kaiyun.vip^
 ||161ky.com^
@@ -15574,6 +15575,7 @@
 ||1bababet.com^
 ||1babazone.com^
 ||1balbal.com^
+||1bet1.org^
 ||1bet999.bet^
 ||1bet999.fun^
 ||1betiron.com^
@@ -57798,6 +57800,7 @@
 ||669bet6.com^
 ||669jh.com^
 ||669k66.com^
+||669win.com^
 ||669yhyh.com^
 ||66a66.vip^
 ||66aav.com^
@@ -57894,7 +57897,18 @@
 ||66wb9.com^
 ||66wb9.vip^
 ||66wb999.com^
+||66win.bingo^
+||66win.game^
+||66win00.com^
+||66win11.com^
+||66win2.com^
+||66win3.com^
 ||66win33.com^
+||66win44.com^
+||66win6.com^
+||66win7.com^
+||66win8.com^
+||66win9.com^
 ||66ww5357.com^
 ||66xun.com^
 ||66yd.bet^
@@ -66960,8 +66974,40 @@
 ||77am7.com^
 ||77ap88ap.com^
 ||77bb5357.com^
+||77bet-app.com^
+||77bet-down.com^
+||77bet.games^
+||77bet.mobi^
+||77bet100.com^
+||77bet11.com^
+||77bet111.com^
+||77bet12.com^
+||77bet123.com^
+||77bet13.com^
+||77bet14.com^
+||77bet15.com^
+||77bet16.com^
+||77bet17.com^
+||77bet18.com^
+||77bet19.com^
+||77bet20.com^
+||77bet200.com^
+||77bet21.com^
+||77bet22.com^
+||77bet222.com^
 ||77bet3.com^
+||77bet300.com^
 ||77bet333.com^
+||77bet400.com^
+||77bet444.com^
+||77bet500.com^
+||77bet555.com^
+||77bet600.com^
+||77bet666.com^
+||77bet700.com^
+||77bet777.com^
+||77bet800.com^
+||77bet900.com^
 ||77bet999.bet^
 ||77bet999.fun^
 ||77brazil.com^
@@ -75701,6 +75747,7 @@
 ||888web.site^
 ||888web.website^
 ||888win456.com^
+||888xbet.vip^
 ||888xin.com^
 ||888xpj.net^
 ||888xxxk.com^
@@ -77415,6 +77462,7 @@
 ||8wsm.work^
 ||8x002.com^
 ||8x003.com^
+||8x0034.com^
 ||8x006.com^
 ||8x010.com^
 ||8x011.com^
@@ -77603,6 +77651,7 @@
 ||8x8889.com^
 ||8x8921.com^
 ||8x8924.com^
+||8x8bet.asia^
 ||8x9073.com^
 ||8x9292.com^
 ||8x9532.com^
@@ -78063,20 +78112,24 @@
 ||8xbesvn.click^
 ||8xbesvn.online^
 ||8xbesx.live^
+||8xbet-vvip.net^
 ||8xbet.agency^
 ||8xbet.app^
 ||8xbet.asia^
 ||8xbet.bet^
+||8xbet.casino^
 ||8xbet.cc^
 ||8xbet.com^
 ||8xbet.fun^
 ||8xbet.games^
+||8xbet.is^
 ||8xbet.love^
 ||8xbet.net^
 ||8xbet.one^
 ||8xbet.org^
 ||8xbet.pw^
 ||8xbet.quest^
+||8xbet.soccer^
 ||8xbet.tv^
 ||8xbet.vet^
 ||8xbet.vip^
@@ -78214,6 +78267,7 @@
 ||8xbet198.com^
 ||8xbet199.com^
 ||8xbet2.app^
+||8xbet2.bet^
 ||8xbet2.com^
 ||8xbet20.com^
 ||8xbet200.com^
@@ -78237,6 +78291,7 @@
 ||8xbet217.com^
 ||8xbet218.com^
 ||8xbet219.com^
+||8xbet22.bet^
 ||8xbet22.com^
 ||8xbet220.com^
 ||8xbet221.com^
@@ -78361,6 +78416,7 @@
 ||8xbet48.com^
 ||8xbet49.com^
 ||8xbet5.app^
+||8xbet5.bet^
 ||8xbet5.casino^
 ||8xbet5.com^
 ||8xbet50.com^
@@ -78380,6 +78436,7 @@
 ||8xbet59.cc^
 ||8xbet59.com^
 ||8xbet6.app^
+||8xbet6.bet^
 ||8xbet6.com^
 ||8xbet60.com^
 ||8xbet61.cc^
@@ -78396,6 +78453,7 @@
 ||8xbet68.com^
 ||8xbet69.com^
 ||8xbet7.app^
+||8xbet7.bet^
 ||8xbet7.com^
 ||8xbet70.com^
 ||8xbet71.cc^
@@ -78447,6 +78505,7 @@
 ||8xbet999.com^
 ||8xbetapp.com^
 ||8xbetapp.site^
+||8xbetcasino.top^
 ||8xbetchac.com^
 ||8xbeti.online^
 ||8xbets.net^
@@ -84132,6 +84191,7 @@
 ||9889666.com^
 ||98897.biz^
 ||988989.xyz^
+||988bet07.com^
 ||988btt.com^
 ||988jsjs.com^
 ||988mg.com^
@@ -86428,6 +86488,7 @@
 ||ad.app8.top^
 ||ad.choigem.fun^
 ||ad.choingay11b.mobi^
+||ad.choingay11b.vin^
 ||ad.choingay88.com^
 ||ad.dangkygo88.in^
 ||ad.gamequyong.site^
@@ -87830,6 +87891,7 @@
 ||app6h.net^
 ||app725.net^
 ||app7337.com^
+||app77bet.com^
 ||app789.net^
 ||app80999.com^
 ||app83088.com^
@@ -89190,6 +89252,7 @@
 ||b518110.com^
 ||b52.me^
 ||b52.mobi^
+||b52.vin^
 ||b52.vip^
 ||b52.win^
 ||b5211.com^
@@ -90345,6 +90408,7 @@
 ||bapdec.com^
 ||bappxz.com^
 ||baree.win^
+||baro.bet^
 ||batuintan.com^
 ||bau88.com^
 ||baucua.one^
@@ -90406,6 +90470,7 @@
 ||bb12031.com^
 ||bb121222.com^
 ||bb123.fun^
+||bb12328.com^
 ||bb127380.com^
 ||bb131285.com^
 ||bb14891.com^
@@ -91163,6 +91228,7 @@
 ||bdeo.net^
 ||bdh567.com^
 ||bdhqart976.com^
+||bdo.pt.cdn-dysxb.com^
 ||bdqn-java.com^
 ||bdtt.tv^
 ||bdwgd.com^
@@ -92840,6 +92906,7 @@
 ||bj8811.com^
 ||bj88vietnam.com^
 ||bj88vn.com^
+||bj88vnads2024.com^
 ||bj9311.com^
 ||bj988.com^
 ||bj9900.com^
@@ -92979,6 +93046,7 @@
 ||blds66.xyz^
 ||bless68.com^
 ||blevip11.com^
+||blf.pt.cdn-dysxb.com^
 ||blh677.com^
 ||blhii.com^
 ||bliss68.com^
@@ -97729,6 +97797,7 @@
 ||choilathang.com^
 ||choilawin.net^
 ||choingay11b.mobi^
+||choingay11b.vin^
 ||choingay66.com^
 ||choingay88.com^
 ||choingayiwin.cc^
@@ -100667,6 +100736,7 @@
 ||dou88888.com^
 ||douddd.com^
 ||douyumen.com^
+||dove.bet^
 ||dovipfun.com^
 ||down.lixi88.net^
 ||down101.net^
@@ -101471,6 +101541,7 @@
 ||e999365.com^
 ||e9f8g.com^
 ||e9sast6d96ds3.com^
+||e9th.net^
 ||eaa777.com^
 ||eaa888.com^
 ||eaa999.com^
@@ -101913,6 +101984,7 @@
 ||ee6731.com^
 ||ee67811.com^
 ||ee67822.com^
+||ee67828.com^
 ||ee7337.com^
 ||ee77.club^
 ||ee7701.com^
@@ -102255,6 +102327,7 @@
 ||eu9vietnam.com^
 ||eu9vn.com^
 ||eu9vn1.com^
+||eu9vndaff.com^
 ||eubetvn.com^
 ||eupkb.com^
 ||euro-1xpart.com^
@@ -103698,6 +103771,7 @@
 ||flc8889.com^
 ||flcp188.com^
 ||flex1bapal.com^
+||flm.pt.cdn-dysxb.com^
 ||flp1688.com^
 ||flp88.com^
 ||flp8888.com^
@@ -103965,6 +104039,8 @@
 ||fpbet.com^
 ||fprdwefxkjb935.com^
 ||fpwtv.com^
+||fpx.mn.cdn-dysxb.com^
+||fpx.pt.cdn-dysxb.com^
 ||fq8c3.com^
 ||fqerf.win^
 ||fqmvv.com^
@@ -108045,7 +108121,9 @@
 ||haoli509.com^
 ||haoli590.com^
 ||haoli647.com^
+||haon-jp.cdn-dysxb.com^
 ||haon-jpnext.cdn-bebo.com^
+||haon-seoul.cdn-dysxb.com^
 ||haon-seoulnext.cdn-bebo.com^
 ||haovip0.com^
 ||haovip1.com^
@@ -110362,6 +110440,7 @@
 ||hm4h5thncn.com^
 ||hm8dc.com^
 ||hmavp.com^
+||hmc73.com^
 ||hmff88.com^
 ||hmgame88.com^
 ||hmkkc168.com^
@@ -110373,6 +110452,7 @@
 ||hmty03.com^
 ||hmty04.com^
 ||hmty05.com^
+||hmw.mb.cdn-dysxb.com^
 ||hn234555.com^
 ||hn3m.cn^
 ||hn4sqmt9.vip^
@@ -111713,6 +111793,7 @@
 ||i9bet.style^
 ||i9bet.team^
 ||i9bet.tips^
+||i9bet.tw^
 ||i9bet.uno^
 ||i9bet.vip^
 ||i9bet.website^
@@ -112144,6 +112225,7 @@
 ||ig418.com^
 ||ig903yxajb.com^
 ||ig909.com^
+||igk.pt.cdn-bebo.com^
 ||igssg.win^
 ||igubet.com^
 ||igyzy.xyz^
@@ -112248,6 +112330,7 @@
 ||img.red88.vip^
 ||img.win133.me^
 ||img2.imvet.net^
+||imgcdn.henho24h.net^
 ||imgcdnbet.live^
 ||imgcdnclouf.com^
 ||imgproxy.1win-cdn.com^
@@ -121472,6 +121555,7 @@
 ||lamgiau99.club^
 ||lananhtk88.top^
 ||lancarwd.com^
+||landing-page.cdn-dysxb.com^
 ||landpage.51fz.net^
 ||landpage.bancamobileapp.com^
 ||landpage.blitzpokerarena.com^
@@ -122421,6 +122505,7 @@
 ||lp.sunwinvn.club^
 ||lp.taiv8.top^
 ||lp.vip79.com^
+||lp.vip79.uk^
 ||lp.vuiuk88.club^
 ||lp.zo.club^
 ||lp.zo1.win^
@@ -123506,6 +123591,7 @@
 ||m.five88.me^
 ||m.fivevn.net^
 ||m.happy9luck.com^
+||m.i9bet.tw^
 ||m.i9bet75.com^
 ||m.k8k26.com^
 ||m.k8sport.com^
@@ -127533,6 +127619,7 @@
 ||oewxtfpt.com^
 ||of-ipo6.click^
 ||office-dtservice.com^
+||ofg.pt.cdn-bebo.com^
 ||ofjew.vip^
 ||ofjqpp365.com^
 ||ofxasia.com^
@@ -130311,6 +130398,7 @@
 ||pvn4.com^
 ||pvoso.win^
 ||pvsq7.com^
+||pvt.mb.cdn-dysxb.com^
 ||pvtns.site^
 ||pvvqaho.xyz^
 ||pw1456.com^
@@ -131485,6 +131573,7 @@
 ||r88yh.com^
 ||r88zr.com^
 ||r8afh.com^
+||r8b4.com^
 ||r8wavtua.win^
 ||r90901.com^
 ||r96ss5s7d6sd6s.com^
@@ -132391,6 +132480,7 @@
 ||rvbet005.com^
 ||rvco22zo5u30gromst.com^
 ||rve3.com^
+||rvi.pt.cdn-dysxb.com^
 ||rvip101.com^
 ||rvip88.com^
 ||rvn7.com^
@@ -135630,6 +135720,7 @@
 ||t9grwx.vip^
 ||t9nnk.com^
 ||ta88.com^
+||ta88.me^
 ||ta88.org^
 ||ta88.vip^
 ||ta88a.com^
@@ -135711,6 +135802,7 @@
 ||taigamehay.site^
 ||taigamehayvip.vip^
 ||taigamehot.pro^
+||taigamengay.click^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
 ||taigem79.net^
@@ -140233,6 +140325,7 @@
 ||vip782.com^
 ||vip78930.com^
 ||vip79.com^
+||vip79.uk^
 ||vip79.win^
 ||vip792.com^
 ||vip814.com^
@@ -148761,6 +148854,7 @@
 ||yabotg.com^
 ||yagunow.com^
 ||yaguplay.com^
+||yak199.com^
 ||yam0666.com^
 ||yam1108.com^
 ||yam1222.com^
@@ -149140,6 +149234,7 @@
 ||yepgirl.xyz^
 ||yequan8.com^
 ||yer4.com^
+||yes.bet^
 ||yes2d88.com^
 ||yesbet88.com^
 ||yesbet88.online^
