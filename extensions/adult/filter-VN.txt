@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 19 May 2024 22:32 UTC+7
-! Version: 2405192232
-! Blocked: 3,497 rules
+! Last modified: 20 May 2024 10:05 UTC+7
+! Version: 2405201005
+! Blocked: 3,501 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -933,6 +933,10 @@
 ||jpxnx.com^
 ||jpxnx.ink^
 ||ka25.ru^
+||kakalive.app^
+||kakalive.show^
+||kakavn.live^
+||kakavn.mom^
 ||kenh3x.net^
 ||kenh3x.xxx^
 ||kenh4.com^

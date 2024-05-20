@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 19 May 2024 22:32 UTC+7
-# Version: 2405192232
-# Blocked: 3,523 domains
+# Last modified: 20 May 2024 10:05 UTC+7
+# Version: 2405201005
+# Blocked: 3,527 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -936,6 +936,10 @@
 0.0.0.0 jpxnx.com
 0.0.0.0 jpxnx.ink
 0.0.0.0 ka25.ru
+0.0.0.0 kakalive.app
+0.0.0.0 kakalive.show
+0.0.0.0 kakavn.live
+0.0.0.0 kakavn.mom
 0.0.0.0 kenh3x.net
 0.0.0.0 kenh3x.xxx
 0.0.0.0 kenh4.com

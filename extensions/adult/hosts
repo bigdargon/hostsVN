@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 19 May 2024 22:32 UTC+7
-# Version: 2405192232
-# Blocked: 45,867 domains
+# Last modified: 20 May 2024 10:05 UTC+7
+# Version: 2405201005
+# Blocked: 45,871 domains
 # Only include adult domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -21504,6 +21504,10 @@
 0.0.0.0 kaixuanyihao.com
 0.0.0.0 kaiyachina.com
 0.0.0.0 kaiyuepj.com
+0.0.0.0 kakalive.app
+0.0.0.0 kakalive.show
+0.0.0.0 kakavn.live
+0.0.0.0 kakavn.mom
 0.0.0.0 kalaipiao.com
 0.0.0.0 kalulv.com
 0.0.0.0 kamanna.net
