@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 20 May 2024 10:05 UTC+7
-! Version: 2405201005
-! Blocked: 4,943 rules
+! Last modified: 20 May 2024 16:22 UTC+7
+! Version: 2405201622
+! Blocked: 4,946 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1010,6 +1010,7 @@
 ||comebetvn3.com^
 ||comebetvn9.com^
 ||conggamehot.fun^
+||conggiaitri.com^
 ||coopbet.com^
 ||corona999.com^
 ||cstga.com^
@@ -1110,6 +1111,7 @@
 ||dangkyrikvip.me^
 ||dangkyrikvip.org^
 ||dangkyrikvip.tv^
+||dangkysanvip.site^
 ||dangkythabet.com^
 ||danhbaidoithuongizi.com^
 ||danhloo.com^
@@ -1595,6 +1597,7 @@
 ||hx9119.com^
 ||i.go88.org^
 ||i.go88.top^
+||i.win79.fun^
 ||i1lnr.com^
 ||i8bet.org^
 ||i9-bet.com^
@@ -1899,6 +1902,7 @@
 ||jbo064.com^
 ||jbo801.com^
 ||jbo806.com^
+||jbodangki.com^
 ||jboviet.com^
 ||jbovietnam.com^
 ||jbovn.com^
@@ -3454,8 +3458,6 @@
 ||mc876.com^
 ||mcw77.com^
 ||me88vietnam.com^
-||me88vn1.com^
-||me88vn2.com^
 ||mec68.com^
 ||media.1789bet.com^
 ||media.happynb.com^
@@ -3557,7 +3559,6 @@
 ||new8803.com^
 ||new8805.com^
 ||new8808.vip^
-||new88111.com^
 ||new8884.com^
 ||new8894.com^
 ||new88w.com^
@@ -3785,6 +3786,7 @@
 ||qc.789d.club^
 ||qc.789k.club^
 ||qc.b52.win^
+||qc.conggiaitri.com^
 ||qc.gamevipclub.fun^
 ||qc.macau.club^
 ||qc.manclubwin.club^
@@ -4793,6 +4795,7 @@
 ||win79.app^
 ||win79.com^
 ||win79.download^
+||win79.fun^
 ||win79.live^
 ||win79.pro^
 ||win79.site^

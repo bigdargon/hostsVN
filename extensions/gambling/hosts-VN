@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 20 May 2024 10:05 UTC+7
-# Version: 2405201005
-# Blocked: 5,582 domains
+# Last modified: 20 May 2024 16:22 UTC+7
+# Version: 2405201622
+# Blocked: 5,584 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1004,6 +1004,7 @@
 0.0.0.0 comebetvn3.com
 0.0.0.0 comebetvn9.com
 0.0.0.0 conggamehot.fun
+0.0.0.0 conggiaitri.com
 0.0.0.0 coopbet.com
 0.0.0.0 corona999.com
 0.0.0.0 cstga.com
@@ -1104,6 +1105,7 @@
 0.0.0.0 dangkyrikvip.me
 0.0.0.0 dangkyrikvip.org
 0.0.0.0 dangkyrikvip.tv
+0.0.0.0 dangkysanvip.site
 0.0.0.0 dangkythabet.com
 0.0.0.0 danhbaidoithuongizi.com
 0.0.0.0 danhloo.com
@@ -1585,6 +1587,7 @@
 0.0.0.0 hx9119.com
 0.0.0.0 i.go88.org
 0.0.0.0 i.go88.top
+0.0.0.0 i.win79.fun
 0.0.0.0 i1lnr.com
 0.0.0.0 i8bet.org
 0.0.0.0 i9-bet.com
@@ -1889,6 +1892,7 @@
 0.0.0.0 jbo064.com
 0.0.0.0 jbo801.com
 0.0.0.0 jbo806.com
+0.0.0.0 jbodangki.com
 0.0.0.0 jboviet.com
 0.0.0.0 jbovietnam.com
 0.0.0.0 jbovn.com
@@ -3443,8 +3447,6 @@
 0.0.0.0 mc876.com
 0.0.0.0 mcw77.com
 0.0.0.0 me88vietnam.com
-0.0.0.0 me88vn1.com
-0.0.0.0 me88vn2.com
 0.0.0.0 mec68.com
 0.0.0.0 media.1789bet.com
 0.0.0.0 media.happynb.com
@@ -3546,7 +3548,6 @@
 0.0.0.0 new8803.com
 0.0.0.0 new8805.com
 0.0.0.0 new8808.vip
-0.0.0.0 new88111.com
 0.0.0.0 new8884.com
 0.0.0.0 new8894.com
 0.0.0.0 new88w.com
@@ -3773,6 +3774,7 @@
 0.0.0.0 qc.789d.club
 0.0.0.0 qc.789k.club
 0.0.0.0 qc.b52.win
+0.0.0.0 qc.conggiaitri.com
 0.0.0.0 qc.gamevipclub.fun
 0.0.0.0 qc.macau.club
 0.0.0.0 qc.manclubwin.club
@@ -4767,6 +4769,7 @@
 0.0.0.0 win79.app
 0.0.0.0 win79.com
 0.0.0.0 win79.download
+0.0.0.0 win79.fun
 0.0.0.0 win79.live
 0.0.0.0 win79.pro
 0.0.0.0 win79.site
@@ -5219,7 +5222,6 @@
 0.0.0.0 www.mb88.com
 0.0.0.0 www.mbx88.com
 0.0.0.0 www.mc876.com
-0.0.0.0 www.me88vn1.com
 0.0.0.0 www.megawin88.mobi
 0.0.0.0 www.mibet.com
 0.0.0.0 www.mibet.mobi

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 May 2024 22:32 UTC+7
-# Version: 2405192232
-# Blocked: 20,128 domains
+# Last modified: 20 May 2024 16:20 UTC+7
+# Version: 2405201620
+# Blocked: 20,132 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8023,6 +8023,8 @@
 0 pps-log.op-mobile.opera.com
 0 s-adx.op-mobile.opera.com
 0 sdklog.tvstore.opera.com
+0 adx.opera.com
+0 px.adx.opera.com
 0 res.adx.opera.com
 0 s.adx.opera.com
 0 t.adx.opera.com
@@ -14402,6 +14404,7 @@
 0 d2uap9jskdzp2.cloudfront.net
 0 d2zur9cc2gf1tx.cloudfront.net
 0 d301cxwfymy227.cloudfront.net
+0 d313lzv9559yp9.cloudfront.net
 0 d38psrni17bvxu.cloudfront.net
 0 d3beefy8kd1pr7.cloudfront.net
 0 d3cod80thn7qnd.cloudfront.net
@@ -16046,6 +16049,7 @@
 0 lingamretene.com
 0 link-booster.de
 0 link4ads.com
+0 linkadvdirect.com
 0 linkbuddies.com
 0 linkerspond.com
 0 linkexchange.com

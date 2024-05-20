@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 19 May 2024 22:32 UTC+7
-! Version: 2405192232
+! Last modified: 20 May 2024 16:20 UTC+7
+! Version: 2405201620
 ! Blocked: 10,671 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -1206,6 +1206,7 @@
 ||adwmg.com^
 ||adx-exchange.toast.com^
 ||adx-open-service.youku.com^
+||adx.opera.com^
 ||adx1.com^
 ||adxadserv.com^
 ||adxcorp.kr^
@@ -2381,7 +2382,6 @@
 ||reproio.com^
 ||res-ad-kr.kajicam.com^
 ||res-ad.kajicam.com^
-||res.adx.opera.com^
 ||res.rbl.ms^
 ||researchnow.com^
 ||resonate.com^
@@ -2424,7 +2424,6 @@
 ||s-evt.rmp.rakuten.co.jp^
 ||s-onetag.com^
 ||s.360.cn^
-||s.adx.opera.com^
 ||s.trvdp.com^
 ||s.union.360.cn^
 ||sa.api.intl.miui.com^
@@ -2565,7 +2564,6 @@
 ||switchadhub.com^
 ||sworkitads.herokuapp.com^
 ||swrve.com^
-||t.adx.opera.com^
 ||t.apkpure.net^
 ||t.imgur.com^
 ||t.indeed.com^
@@ -5255,6 +5253,7 @@
 ||d2yyd1h5u9mauk.cloudfront.net^
 ||d2zur9cc2gf1tx.cloudfront.net^
 ||d301cxwfymy227.cloudfront.net^
+||d313lzv9559yp9.cloudfront.net^
 ||d38fey2d93vryi.cloudfront.net^
 ||d38psrni17bvxu.cloudfront.net^
 ||d3beefy8kd1pr7.cloudfront.net^
@@ -7028,6 +7027,7 @@
 ||lingamretene.com^
 ||link-booster.de^
 ||link4ads.com^
+||linkadvdirect.com^
 ||linkbuddies.com^
 ||linkerspond.com^
 ||linkexchange.com^

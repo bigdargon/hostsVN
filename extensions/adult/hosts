@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 20 May 2024 10:05 UTC+7
-# Version: 2405201005
-# Blocked: 45,871 domains
+# Last modified: 20 May 2024 16:22 UTC+7
+# Version: 2405201622
+# Blocked: 45,876 domains
 # Only include adult domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -17810,6 +17810,7 @@
 0.0.0.0 heotop1.net
 0.0.0.0 heotv.net
 0.0.0.0 heoviet.com
+0.0.0.0 heovl.blog
 0.0.0.0 heovl.cc
 0.0.0.0 heovl.com
 0.0.0.0 heovl.fun
@@ -39107,9 +39108,11 @@
 0.0.0.0 vlxx.fan
 0.0.0.0 vlxx.fun
 0.0.0.0 vlxx.gay
+0.0.0.0 vlxx.gold
 0.0.0.0 vlxx.group
 0.0.0.0 vlxx.homes
 0.0.0.0 vlxx.icu
+0.0.0.0 vlxx.im
 0.0.0.0 vlxx.info
 0.0.0.0 vlxx.io
 0.0.0.0 vlxx.javsex1.net
@@ -39129,6 +39132,7 @@
 0.0.0.0 vlxx.run
 0.0.0.0 vlxx.sbs
 0.0.0.0 vlxx.sex
+0.0.0.0 vlxx.show
 0.0.0.0 vlxx.social
 0.0.0.0 vlxx.space
 0.0.0.0 vlxx.store
@@ -39238,6 +39242,7 @@
 0.0.0.0 vnxnxx.xyz
 0.0.0.0 vnxx.app
 0.0.0.0 vnxx.me
+0.0.0.0 vnxx.moe
 0.0.0.0 vnxx.xyz
 0.0.0.0 vnxxx.biz
 0.0.0.0 vnxxx.org

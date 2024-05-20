@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 20 May 2024 10:05 UTC+7
-! Version: 2405201005
-! Blocked: 45,725 rules
+! Last modified: 20 May 2024 16:22 UTC+7
+! Version: 2405201622
+! Blocked: 45,730 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -17813,6 +17813,7 @@
 ||heotop1.net^
 ||heotv.net^
 ||heoviet.com^
+||heovl.blog^
 ||heovl.cc^
 ||heovl.com^
 ||heovl.fun^
@@ -39116,9 +39117,11 @@
 ||vlxx.fan^
 ||vlxx.fun^
 ||vlxx.gay^
+||vlxx.gold^
 ||vlxx.group^
 ||vlxx.homes^
 ||vlxx.icu^
+||vlxx.im^
 ||vlxx.info^
 ||vlxx.io^
 ||vlxx.javsex1.net^
@@ -39138,6 +39141,7 @@
 ||vlxx.run^
 ||vlxx.sbs^
 ||vlxx.sex^
+||vlxx.show^
 ||vlxx.social^
 ||vlxx.space^
 ||vlxx.store^
@@ -39247,6 +39251,7 @@
 ||vnxnxx.xyz^
 ||vnxx.app^
 ||vnxx.me^
+||vnxx.moe^
 ||vnxx.xyz^
 ||vnxxx.biz^
 ||vnxxx.org^
