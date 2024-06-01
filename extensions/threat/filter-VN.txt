@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 22 May 2024 15:03 UTC+7
-! Version: 2405221503
-! Blocked: 3,971 rules
+! Last modified: 01 Jun 2024 23:16 UTC+7
+! Version: 2406012316
+! Blocked: 3,991 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -131,7 +131,9 @@
 ||amadbfk.shop^
 ||amadbfk.vip^
 ||amajwzon456.top^
+||amatvip36sc.cc^
 ||amazonbig.asia^
+||amazonl3.com^
 ||amazonsg.shop^
 ||amazonxk.com^
 ||amg133180.com^
@@ -239,6 +241,7 @@
 ||bvietcombank.com^
 ||bxrtxfr.xyz^
 ||c.vn-ebayn.vip^
+||ca-nhan-vpb.com^
 ||campxanh.info^
 ||canhanshinhan.com^
 ||canhantpb.com^
@@ -261,6 +264,7 @@
 ||chamsocthekhachang-truc-tuyen.com^
 ||chamsocthekhachhang-thang4.com.vn^
 ||chamsocthekhachhang-thang4.online^
+||chamsocthekhachhang-uudai-tructuyen.com^
 ||chanle79.me^
 ||chanlemmo.com^
 ||chanlemomo.cc^
@@ -370,6 +374,7 @@
 ||currencyconverterbanking.weebly.com^
 ||cvietcombank.com^
 ||d.gdtgov.cfd^
+||da6555.com^
 ||dadw11.com^
 ||dadw22.com^
 ||dadw55.com^
@@ -1016,6 +1021,7 @@
 ||khuyenmaitanthu.com^
 ||khuyenmaivangonline.club^
 ||khuyenmaivimomo.weebly.com^
+||khvib-canhan.com^
 ||kiemduyetvien.cc^
 ||kiemtien.asia^
 ||kiemtien2002.com^
@@ -1268,8 +1274,10 @@
 ||mbbankmn.com^
 ||mbbankn.com^
 ||mbbffn.online^
+||mbcanhan-cskh.com^
 ||mbdkb.com^
 ||mbfic-plus.com^
+||mbfn-fic.com^
 ||mbtk-bank.com^
 ||mcfa11.com^
 ||mcredit.vaynhanh-bankcredits.com^
@@ -1312,6 +1320,7 @@
 ||mfacebok.com^
 ||mfacebook.vn^
 ||mhshopee.com^
+||miaoniter.com^
 ||miles-card-vpbank.com^
 ||miner-linkperfectmoney.com^
 ||minhchinhmega.com^
@@ -1776,6 +1785,7 @@
 ||nsomomo.com^
 ||nvietcombank.com^
 ||nykkky.com^
+||ocb.chamsocthekhachhang-uudai-tructuyen.com^
 ||oivay.app^
 ||oivay.vip^
 ||onhamuadich.com^
@@ -1819,6 +1829,7 @@
 ||phanqua7979.com^
 ||phanquavn152.com^
 ||phatqualienminh2015.weebly.com^
+||phattai247.com^
 ||phattai6666.com^
 ||phattaimomo.com^
 ||phemex.shop^
@@ -2190,6 +2201,7 @@
 ||shopee1.org^
 ||shopee103.vip^
 ||shopee122.vip^
+||shopee123.vip^
 ||shopee130.vip^
 ||shopee132.vip^
 ||shopee14.com^
@@ -2539,9 +2551,11 @@
 ||softwarefpt.com^
 ||somnio-evolve.com^
 ||soppe68.com^
+||soppe68.shop^
 ||sopper68.com^
 ||sos-icloud.com^
 ||sotuyenvcb.vietcombanker.com^
+||sp15569p.com^
 ||sp315693vn.com^
 ||sp56788.com^
 ||sp6788.com^
@@ -2718,6 +2732,7 @@
 ||tdkd03.com^
 ||tdkd07.com^
 ||tdkd08.com^
+||tdkt01.com^
 ||tdtc.shop^
 ||techcombank.ngan-hang.net^
 ||techcombank.site^
@@ -2895,6 +2910,7 @@
 ||tinbaothuongvn.com^
 ||tinchap-nganhang.online^
 ||tinchap-techcombank.store^
+||tinchaphd.com^
 ||tinchapluong-techcombank.xyz^
 ||tinchapvcb-vn.com^
 ||tinchapvietcombank24h.com^
@@ -2966,6 +2982,7 @@
 ||topmomo3s.com^
 ||topmomo88.me^
 ||totycb.cyou^
+||tpb-vayuudai.com^
 ||tpbank-com.com^
 ||tpbank-hanoi.com^
 ||tpbank-vaynhanh.com^
@@ -2980,6 +2997,7 @@
 ||tpbankdonxuan.click^
 ||tpbankn.com^
 ||tpbankvn.com^
+||tpbankvn.workplace.com^
 ||tpbankvnvn.com^
 ||tpbansk.com^
 ||tpbxnk.com^
@@ -3731,6 +3749,7 @@
 ||vnshoping.com^
 ||vnsshoppe.com^
 ||vntiki.shop^
+||vntiki11.com^
 ||vntikiship.com^
 ||vntkm.com^
 ||vnvay.top^
@@ -3837,6 +3856,7 @@
 ||vpbsvn.com^
 ||vps8449vn.com^
 ||vrichshop.com^
+||vssid.cc^
 ||vstvst10toc.com^
 ||vstvst11toc.com^
 ||vstvst12toc.com^

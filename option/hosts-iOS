@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 May 2024 15:02 UTC+7
-# Version: 2405221502
-# Blocked: 20,144 domains
+# Last modified: 01 Jun 2024 23:15 UTC+7
+# Version: 2406012315
+# Blocked: 20,164 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14,7 +14,6 @@
 255.255.255.255 broadcasthost
 ::1				localhost
 
-0 advertising.apple.com
 0 api-adservices.apple.com
 0 books-analytics-events.apple.com
 0 metrics.icloud.com
@@ -285,12 +284,7 @@
 0 bat.bing.com
 0 c.bing.com
 0 aan.amazon.com
-0 aax-us-east-retail-direct.amazon.com
-0 advertising-api-eu.amazon.com
-0 fls-na.amazon.com
-0 rcm-images.amazon.com
-0 rcm.amazon.com
-0 uedata.amazon.com
+0 mads.amazon.com
 0 device-metrics-us-2.amazon.com
 0 device-metrics-us.amazon.com
 0 ws.assoc-amazon.com
@@ -459,10 +453,6 @@
 0 na.ads.yahoo.com
 0 tearsheet-stg.ads.yahoo.com
 0 tp.ads.yahoo.com
-0 advertising.yahoo.com
-0 in.advertising.yahoo.com
-0 sea.advertising.yahoo.com
-0 uk.advertising.yahoo.com
 0 all.fc.yahoo.com
 0 fc.yahoo.com
 0 jill.fc.yahoo.com
@@ -2714,7 +2704,6 @@
 0 www.getclicky.com
 0 adfstat.yandex.ru
 0 adsdk.yandex.ru
-0 advertising.yandex.ru
 0 amc.yandex.ru
 0 an.yandex.ru
 0 awaps.yandex.ru
@@ -4501,8 +4490,10 @@
 0 ad.gt
 0 ads.ad.gt
 0 cdn.ad.gt
+0 cdn.hadron.ad.gt
 0 ds.ad.gt
 0 f2.ad.gt
+0 id.hadron.ad.gt
 0 p.ad.gt
 0 p2.ad.gt
 0 pixels.ad.gt
@@ -9977,6 +9968,7 @@
 0 ads.livetv765.me
 0 ads.livetv782.me
 0 ads.livetv785.me
+0 ads.livetv787.me
 0 company-target.com
 0 api-staging.company-target.com
 0 c.company-target.com
@@ -12084,6 +12076,7 @@
 0 stats.bizweb.vn
 0 stats.dongphim.net
 0 stats.hstatic.net
+0 stats.osd.vn
 0 stats.petrotimes.vn
 0 stats.tamdiem247.com
 0 stats.vietnammoi.vn
@@ -12188,6 +12181,8 @@
 0 1phads.com
 0 207.net
 0 228tuchuang.com
+0 2449march2024.com
+0 2475april2024.com
 0 247media.com
 0 24log.com
 0 24log.de
@@ -12260,6 +12255,7 @@
 0 abqguldudbi.com
 0 abqhafpada.com
 0 abqlultasvf.com
+0 abqnupogcwhi.com
 0 abroad-ad.kingsoft-office-service.com
 0 abruptroad.com
 0 absentstream.com
@@ -13260,6 +13256,7 @@
 0 anymedia.lv
 0 anymoresentencevirgin.com
 0 anywaybreeches.com
+0 ap2h9d2g3.com
 0 aparvibices.com
 0 apathetictheory.com
 0 apcawxgpon.com
@@ -13735,6 +13732,7 @@
 0 blueswordksh.com
 0 bluewhaleweb.com
 0 bluntlywrinkly.com
+0 blurbreimbursetrombone.com
 0 blushingbeast.com
 0 blushingboundary.com
 0 blushpreface.com
@@ -13855,6 +13853,7 @@
 0 bukash2jf8jfpw09.com
 0 bulbbait.com
 0 buleor.com
+0 bullionglidingscuttle.com
 0 bullionyield.com
 0 bullseye.backbeatmedia.com
 0 bulrev.com
@@ -13984,6 +13983,7 @@
 0 cdn.concert.io
 0 cdn.easyads28.mobi
 0 cdn.exmarketplace.com
+0 cdn.hadronid.net
 0 cdn.house
 0 cdn.itskiddoan.club
 0 cdn.lumupu.xyz
@@ -14068,6 +14068,7 @@
 0 ciksolre.net
 0 cilsammwcblcv.com
 0 cineolesloth.com
+0 citadelpathstatue.com
 0 citronsstealed.website
 0 cityads.telus.net
 0 citygrid.com
@@ -14151,6 +14152,7 @@
 0 clkofafcbk.com
 0 clkrev.com
 0 clmcom.com
+0 clobberprocurertightwad.com
 0 clodderpickmaw.com
 0 cloisonprecool.uno
 0 cloisteredhydrant.com
@@ -14811,6 +14813,7 @@
 0 endshiptigrina.com
 0 enduingdama.space
 0 endurableshop.com
+0 enduresopens.com
 0 engagebdr.com
 0 engine.espace.netavenir.com
 0 enginenetwork.com
@@ -15486,6 +15489,7 @@
 0 hoanoola.net
 0 hockeyhavoc.com
 0 hoddlegamey.com
+0 holahupa.com
 0 hollekeamboina.com
 0 holshistoricbulky.com
 0 home2up.com
@@ -16237,6 +16241,7 @@
 0 matomy.com
 0 matqqagvkaaftr.com
 0 matrimonyfeudboss.com
+0 mattockpackall.com
 0 matzohshoey.com
 0 maulupoa.com
 0 maw5r7y9s9helley.com
@@ -16773,6 +16778,7 @@
 0 ojjbuxohmk.com
 0 ojjzpitr.com
 0 ojlkmijwemf.com
+0 ojlmkywcenhu.com
 0 ojooo.com
 0 ojqbnqdwycws.com
 0 ojtarsdukk.com
@@ -17012,6 +17018,7 @@
 0 parisjeroleinpg.com
 0 parkedcheerful.com
 0 parking.godaddy.com
+0 parrallforums.top
 0 parriedcubelet.top
 0 parsimoniouspolice.com
 0 partage-facile.com
@@ -17042,6 +17049,7 @@
 0 pbterra.com
 0 pc2ads.com
 0 pcash.imlive.com
+0 pcispotzera.com
 0 pcmclk.com
 0 pcoqraodmq.com
 0 pcsh-cpm.site
@@ -17568,6 +17576,7 @@
 0 reflushneuma.com
 0 refnippod.com
 0 refoldbyrlaw.com
+0 refpa4293501.top
 0 refraintsarcoma.com
 0 refraintupaiid.com
 0 reglowgleyde.com
@@ -17800,6 +17809,7 @@
 0 scarofnght.com
 0 scashwl.com
 0 scatteredheat.com
+0 scenescrockery.com
 0 schoolboyfingernail.com
 0 schoonnonform.com
 0 scientiamobile.com
@@ -17876,6 +17886,7 @@
 0 sexystat.com
 0 sezwho.com
 0 sfiannzilgi.com
+0 sg-open-set-api.shenshiads.com
 0 sghehllds.com
 0 shakesuggestion.com
 0 shakyseat.com
@@ -17890,6 +17901,7 @@
 0 sharpsharkteeth.com
 0 shauptab.net
 0 shelfoka.com
+0 sheltermilligrammillions.com
 0 shelvesparticipate.com
 0 shestour.net
 0 shhxgqpaxvdjn.com
@@ -18326,6 +18338,7 @@
 0 tawdryson.com
 0 tawkinmotmot.digital
 0 taxedborley.com
+0 taxismaned.top
 0 tb.baimgfroggd.site
 0 tcads.net
 0 tcaochocskid.com
@@ -18389,6 +18402,7 @@
 0 thebugs.ws
 0 thecounter.com
 0 thedevband.com
+0 theekedgleamed.com
 0 theelrou.net
 0 theftcontractorphysique.com
 0 thelemontreeinn.com
@@ -18447,6 +18461,7 @@
 0 toateeli.net
 0 toawaups.net
 0 todacell.com
+0 todopick.com
 0 toeapesob.com
 0 toecircle.com
 0 tolyafbnjt9dedjj10.com
@@ -18567,6 +18582,7 @@
 0 trk4ppl.com
 0 trmit.com
 0 trotolhonor.com
+0 troubledcontradiction.com
 0 trtjigpsscmv9epe10.com
 0 truckstomatoes.com
 0 truculentrate.com
@@ -18742,6 +18758,7 @@
 0 v2s7q3m2o.com
 0 v6rxv5coo5.com
 0 vacationlodgingnetwork.com
+0 vacationmonday.com
 0 vaguiosfurors.top
 0 validclick.com
 0 valiumabaris.live
@@ -18814,6 +18831,7 @@
 0 viewlnk.com
 0 viewpoint.com
 0 viewwonder.com
+0 viewyentreat.guru
 0 vignerez.net
 0 vigorous-hurt.pro
 0 viiadr.com
@@ -19030,6 +19048,7 @@
 0 wondoads.de
 0 wontonssinuses.digital
 0 woovoree.net
+0 woozilyfifed.top
 0 wopsedoaltuwp.com
 0 wordsunbrief.tech
 0 woredi.com
@@ -19945,6 +19964,7 @@
 0 stat.microvirt.com
 0 stat2.openinstall.io
 0 stathat.com
+0 static-pixel.gliavideo.com
 0 static.intentarget.com
 0 static.leaddyno.com
 0 static.site24x7rum.com

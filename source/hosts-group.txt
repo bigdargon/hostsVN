@@ -1,6 +1,5 @@
 # --- Group block ---
 #[apple]
-0.0.0.0 advertising.apple.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 metrics.icloud.com
@@ -308,12 +307,7 @@
 0.0.0.0 c.bing.com
 #[amazon.com]
 0.0.0.0 aan.amazon.com
-0.0.0.0 aax-us-east-retail-direct.amazon.com
-0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 fls-na.amazon.com
-0.0.0.0 rcm-images.amazon.com
-0.0.0.0 rcm.amazon.com
-0.0.0.0 uedata.amazon.com
+0.0.0.0 mads.amazon.com
 #[device-metrics-*.amazon.com]
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
@@ -499,11 +493,6 @@
 0.0.0.0 na.ads.yahoo.com
 0.0.0.0 tearsheet-stg.ads.yahoo.com
 0.0.0.0 tp.ads.yahoo.com
-#[advertising.yahoo.com]
-0.0.0.0 advertising.yahoo.com
-0.0.0.0 in.advertising.yahoo.com
-0.0.0.0 sea.advertising.yahoo.com
-0.0.0.0 uk.advertising.yahoo.com
 #[fc.yahoo.com]
 0.0.0.0 all.fc.yahoo.com
 0.0.0.0 fc.yahoo.com
@@ -2959,7 +2948,6 @@
 #[yandex.ru]
 0.0.0.0 adfstat.yandex.ru
 0.0.0.0 adsdk.yandex.ru
-0.0.0.0 advertising.yandex.ru
 0.0.0.0 amc.yandex.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 awaps.yandex.ru
@@ -4909,8 +4897,10 @@
 0.0.0.0 ad.gt
 0.0.0.0 ads.ad.gt
 0.0.0.0 cdn.ad.gt
+0.0.0.0 cdn.hadron.ad.gt
 0.0.0.0 ds.ad.gt
 0.0.0.0 f2.ad.gt
+0.0.0.0 id.hadron.ad.gt
 0.0.0.0 p.ad.gt
 0.0.0.0 p2.ad.gt
 0.0.0.0 pixels.ad.gt
@@ -11260,6 +11250,7 @@
 0.0.0.0 ads.livetv765.me
 0.0.0.0 ads.livetv782.me
 0.0.0.0 ads.livetv785.me
+0.0.0.0 ads.livetv787.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com

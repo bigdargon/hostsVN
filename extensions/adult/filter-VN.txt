@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 22 May 2024 15:03 UTC+7
-! Version: 2405221503
-! Blocked: 3,506 rules
+! Last modified: 01 Jun 2024 23:16 UTC+7
+! Version: 2406012316
+! Blocked: 3,512 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2028,6 +2028,7 @@
 ||sex-viet.pro^
 ||sex-xxx.me^
 ||sex.2ola.pro^
+||sex.lenlut.tv^
 ||sex.viet69.tech^
 ||sex.vip^
 ||sex.vl9x.pro^
@@ -2156,6 +2157,7 @@
 ||sexgaidam.com^
 ||sexgaidep.net^
 ||sexgaii.net^
+||sexgaiviet.net^
 ||sexgaixinh.biz^
 ||sexgaixinh.me^
 ||sexgaixinh.org^
@@ -2352,6 +2354,7 @@
 ||sexphude.net^
 ||sexplus.xyz^
 ||sexpro.vip^
+||sexquat.com^
 ||sexquaylen.me^
 ||sexquaylen.org^
 ||sexquaylen123.com^
@@ -2396,6 +2399,7 @@
 ||sextop1.fun^
 ||sextop1.life^
 ||sextop1.love^
+||sextop1.mom^
 ||sextop1.news^
 ||sextop1.one^
 ||sextop1.sex^
@@ -2410,6 +2414,7 @@
 ||sextop1jav.info^
 ||sextop1jav.net^
 ||sextop1s.net^
+||sextop1to.net^
 ||sextop1x.com^
 ||sextop3x.com^
 ||sextop68.com^
@@ -3087,6 +3092,7 @@
 ||vnxx.me^
 ||vnxx.moe^
 ||vnxx.xyz^
+||vnxxphim.pro^
 ||vnxxx.biz^
 ||vnxxx.org^
 ||vnxxx.pro^
