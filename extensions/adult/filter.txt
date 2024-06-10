@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 07 Jun 2024 10:23 UTC+7
-! Version: 2406071023
-! Blocked: 45,760 rules
+! Last modified: 10 Jun 2024 23:35 UTC+7
+! Version: 2406102335
+! Blocked: 45,761 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -13191,6 +13191,7 @@
 ||docomap.net^
 ||doctruyen14x.com^
 ||doctruyen3qv.pro^
+||doctruyen3qvn.com^
 ||doctruyennguoilonhay.blogspot.com^
 ||doctruyennguoilonvl.wordpress.com^
 ||dod-pub.com^

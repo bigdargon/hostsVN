@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 07 Jun 2024 10:23 UTC+7
-# Version: 2406071023
-# Blocked: 3,562 domains
+# Last modified: 10 Jun 2024 23:35 UTC+7
+# Version: 2406102335
+# Blocked: 3,563 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -361,6 +361,7 @@
 0.0.0.0 dmsex.net
 0.0.0.0 doctruyen14x.com
 0.0.0.0 doctruyen3qv.pro
+0.0.0.0 doctruyen3qvn.com
 0.0.0.0 doctruyennguoilonhay.blogspot.com
 0.0.0.0 doctruyennguoilonvl.wordpress.com
 0.0.0.0 dokatehnik.ru

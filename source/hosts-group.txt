@@ -11251,6 +11251,8 @@
 0.0.0.0 ads.livetv782.me
 0.0.0.0 ads.livetv785.me
 0.0.0.0 ads.livetv787.me
+0.0.0.0 ads.livetv788.me
+0.0.0.0 ads.livetv790.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11687,3 +11689,6 @@
 0.0.0.0 a.kinkadservercdn.com
 0.0.0.0 cdn.kinkadservercdn.com
 0.0.0.0 kinkadservercdn.com
+#[adsbetnet.com]
+0.0.0.0 adsbetnet.com
+0.0.0.0 cdn.adsbetnet.com

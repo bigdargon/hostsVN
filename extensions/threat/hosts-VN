@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 07 Jun 2024 10:23 UTC+7
-# Version: 2406071023
-# Blocked: 4,046 domains
+# Last modified: 10 Jun 2024 23:35 UTC+7
+# Version: 2406102335
+# Blocked: 4,052 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -377,6 +377,7 @@
 0.0.0.0 currencyconverterbanking.weebly.com
 0.0.0.0 cvietcombank.com
 0.0.0.0 d.gdtgov.cfd
+0.0.0.0 da2323.com
 0.0.0.0 da6555.com
 0.0.0.0 dadw11.com
 0.0.0.0 dadw22.com
@@ -797,6 +798,8 @@
 0.0.0.0 hanghaiqt.com
 0.0.0.0 hanmucvn.com
 0.0.0.0 hbpnnz.cyou
+0.0.0.0 hdb.tang-han-muc-tin-dung-vn.com
+0.0.0.0 hdb.vntanghanmucvisadebit.com
 0.0.0.0 hdbankcareer.com
 0.0.0.0 hdbankfinancc.digital
 0.0.0.0 hdbankfinancc.icu
@@ -996,6 +999,7 @@
 0.0.0.0 kfdg55.com
 0.0.0.0 kh-cn-mrd-f5-tpbank.com
 0.0.0.0 kh-cn-uutien-3fv-vib.com
+0.0.0.0 kh-vibquocte.com
 0.0.0.0 khach-hang-ca-nhan-vip5.com
 0.0.0.0 khachhangvib-canhan.com
 0.0.0.0 khangdz215.tk
@@ -2702,6 +2706,7 @@
 0.0.0.0 takk6.com
 0.0.0.0 tammenaa.com
 0.0.0.0 tang-han-muc-the-visa-vn.com
+0.0.0.0 tang-han-muc-tin-dung-vn.com
 0.0.0.0 tangcuongbanlinh.com
 0.0.0.0 tangcuongsinhluc.site
 0.0.0.0 tanghanmuc-vn.com
@@ -3743,6 +3748,7 @@
 0.0.0.0 vnshopee.vip
 0.0.0.0 vnshoping.com
 0.0.0.0 vnsshoppe.com
+0.0.0.0 vntanghanmucvisadebit.com
 0.0.0.0 vntiki.shop
 0.0.0.0 vntiki11.com
 0.0.0.0 vntikiship.com
