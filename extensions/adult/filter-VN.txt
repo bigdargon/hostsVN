@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 10 Jun 2024 23:35 UTC+7
-! Version: 2406102335
-! Blocked: 3,537 rules
+! Last modified: 12 Jun 2024 16:43 UTC+7
+! Version: 2406121643
+! Blocked: 3,539 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -672,6 +672,7 @@
 ||hentaimoi.com^
 ||hentaipro.tv^
 ||hentaisub.live^
+||hentaitvn.net^
 ||hentaivip.biz^
 ||hentaivip.pro^
 ||hentaivl.tv^
@@ -689,6 +690,7 @@
 ||hentaivn.moe^
 ||hentaivn.online^
 ||hentaivn.run^
+||hentaivn.sbs^
 ||hentaivn.sh^
 ||hentaivn.team^
 ||hentaivn.tv^
