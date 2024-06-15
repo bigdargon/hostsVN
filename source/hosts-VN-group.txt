@@ -1507,3 +1507,11 @@
 #[adlinknetwork.vn]
 0.0.0.0 service.adlinknetwork.vn
 0.0.0.0 syndication.adlinknetwork.vn
+#[vdacdn2.viettel.vn]
+0.0.0.0 vdacdn1.viettel.vn
+0.0.0.0 vdacdn2.viettel.vn
+#[vda.viettel.vn]
+0.0.0.0 cdn1.vda.viettel.vn
+0.0.0.0 delivery.vda.viettel.vn
+0.0.0.0 log.vda.viettel.vn
+0.0.0.0 vda.viettel.vn

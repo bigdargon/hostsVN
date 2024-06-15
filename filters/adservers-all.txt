@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 Jun 2024 22:46 UTC+7
-! Version: 2406122246
-! Blocked: 10,774 rules
+! Last modified: 15 Jun 2024 21:16 UTC+7
+! Version: 2406152116
+! Blocked: 10,797 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -326,6 +326,9 @@
 ||vads.net.vn^
 ||vads.vn^
 ||vcdn.subiz-cdn.com^
+||vda.viettel.vn^
+||vdacdn1.viettel.vn^
+||vdacdn2.viettel.vn^
 ||viam.com.vn^
 ||vidoomy.com^
 ||vietnamnetad.vn^
@@ -408,9 +411,11 @@
 ||ads.baoangiang.com.vn^
 ||ads.baobinhduong.vn^
 ||ads.baobinhthuan.com.vn^
+||ads.baocamau.vn^
 ||ads.baocantho.com.vn^
 ||ads.baodatviet.vn^
 ||ads.baohaiduong.vn^
+||ads.baolongan.vn^
 ||ads.baotainguyenmoitruong.vn^
 ||ads.bkitsoftware.com^
 ||ads.businessstyle.vn^
@@ -434,6 +439,7 @@
 ||ads.markettimes.vn^
 ||ads.marry.vn^
 ||ads.nghenhinvietnam.vn^
+||ads.nguoiduatin.vn^
 ||ads.nhadatmoi.net^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
@@ -827,6 +833,7 @@
 ||track.popsww.com^
 ||track.sendo.vn^
 ||track.vio.edu.vn^
+||track.winigroup.vn^
 ||tracker.anime47.com^
 ||tracker.edupia.vn^
 ||tracker.fado.vn^
@@ -1147,6 +1154,7 @@
 ||adslot.uc.cn^
 ||adsmanager.ga^
 ||adsmoloco.com^
+||adsninja.b-cdn.net^
 ||adsninja.ca^
 ||adspeed.net^
 ||adspirit.de^
@@ -1814,6 +1822,7 @@
 ||getadmiral.com^
 ||getclicky.com^
 ||getpublica.com^
+||gg-ads.b-cdn.net^
 ||ggsfq.com^
 ||gjapplog.uc.cn^
 ||gjapplog.ucweb.com^
@@ -3172,6 +3181,7 @@
 ||adext.inkclub.com^
 ||adfactor.nl^
 ||adflight.com^
+||adfoglxfelak.com^
 ||adfonic.net^
 ||adforce.com^
 ||adform.com^
@@ -3685,6 +3695,7 @@
 ||adtoqbuejunef.com^
 ||adtrace.org^
 ||adtrack1.midasplayer.com^
+||adtracker.site^
 ||adtrackingflow.pro^
 ||adtrade.net^
 ||adtrading.de^
@@ -3878,6 +3889,7 @@
 ||ajvmagdalzz.com^
 ||ak-ads-ns.prisasd.com^
 ||ak.ceegriwuwoa.net^
+||ak.oneegrou.net^
 ||ak0gsh40.com^
 ||akjotpoxwp.com^
 ||aklaszonkob.com^
@@ -3975,6 +3987,7 @@
 ||analytics.clickdimensions.com^
 ||analytics.cloudron.io^
 ||analytics.convertlanguage.com^
+||analytics.data.visenze.com^
 ||analytics.getshogun.com^
 ||analytics.gismart.xyz^
 ||analytics.govinfo.gov^
@@ -5938,6 +5951,7 @@
 ||fencerscoelho.com^
 ||fer2oxheou4nd.com^
 ||ferritediener.tech^
+||feuageepitoke.com^
 ||fezacoox.net^
 ||ffatzebiva.com^
 ||fhahujwafaf.com^
@@ -6393,6 +6407,7 @@
 ||healthsmd.com^
 ||healthyoffers.com^
 ||heap.com^
+||heardaccumulatebeans.com^
 ||heardsoppy.com^
 ||heavynotability.com^
 ||hedgehoghugsyou.com^
@@ -6948,6 +6963,7 @@
 ||kinhincauking.website^
 ||kinkledunendly.com^
 ||kinrwiomvguf.com^
+||kirteexe.tv^
 ||kissmetrics.com^
 ||kitbit.net^
 ||kitesongoi.website^
@@ -8581,6 +8597,7 @@
 ||qajwizsifaj.com^
 ||qalscihrolwu.com^
 ||qamwm5o8dlgijte.com^
+||qarhrytwyqp.com^
 ||qawqmoancsi.com^
 ||qayepfgsn.com^
 ||qciofmzwiasb.com^
@@ -8818,6 +8835,7 @@
 ||reverysteno.com^
 ||revetothummin.website^
 ||revincenizam.com^
+||revive-adserver.net^
 ||revmasters.com^
 ||revmob.com^
 ||revoketypes.com^
@@ -8872,6 +8890,7 @@
 ||rlog.9gag.com^
 ||rmafpybcora.com^
 ||rmedia.boston.com^
+||rndnoibattor.com^
 ||rndskittytor.com^
 ||roar.com^
 ||robinkornett.com^
@@ -9223,6 +9242,7 @@
 ||slipheirphysician.com^
 ||slipperysack.com^
 ||slopeaota.com^
+||slopingunrein.com^
 ||sltvhyjthx.com^
 ||slushhelmetmirth.com^
 ||smadex.com^
@@ -9286,6 +9306,7 @@
 ||sombersquirrel.com^
 ||sombersurprise.com^
 ||son-in-lawmorbid.com^
+||songbagoozes.com^
 ||songdew.pushengage.com^
 ||sonnetkeltics.com^
 ||soopukib.net^
@@ -9294,6 +9315,7 @@
 ||sorelyafric.com^
 ||sortable.com^
 ||sotchoum.com^
+||soumehoo.net^
 ||southabsorbed.com^
 ||souvenirsdisgust.com^
 ||sozwkk.com^
@@ -9752,6 +9774,7 @@
 ||thrtle.com^
 ||thruport.com^
 ||thterras.com^
+||thubanoa.com^
 ||tiaraedmessing.uno^
 ||tiarasorthose.website^
 ||tibacta.com^
