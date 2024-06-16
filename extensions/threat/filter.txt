@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 15 Jun 2024 21:17 UTC+7
-! Version: 2406152117
-! Blocked: 4,328 rules
+! Last modified: 16 Jun 2024 09:35 UTC+7
+! Version: 2406160935
+! Blocked: 4,332 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1483,6 +1483,8 @@
 ||member-gaarena.com^
 ||member-garena-lienquan.com^
 ||member-lienquan-garena.com^
+||member.sso-garena.vn^
+||member.sukien-lienquanmobile.com^
 ||membergarenaviet.com^
 ||memberr-garenaa.com^
 ||memberrship-ff-garena.com^
@@ -2849,6 +2851,7 @@
 ||spsinhlychinhhang.com^
 ||sputrey567rik.cfd^
 ||squashtalk.com^
+||sso-garena.vn^
 ||sso-hotro-taikhoan.com^
 ||ssvnshop.com^
 ||standardresourcebank.com^
@@ -2876,6 +2879,7 @@
 ||sukien-latquaff.com^
 ||sukien-lienminh.com^
 ||sukien-lienminhtocchien.site^
+||sukien-lienquanmobile.com^
 ||sukien-lmht.com^
 ||sukien-lq-garena.com^
 ||sukien-nhanqua-garena.com^

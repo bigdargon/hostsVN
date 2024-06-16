@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 15 Jun 2024 21:17 UTC+7
-# Version: 2406152117
-# Blocked: 4,054 domains
+# Last modified: 16 Jun 2024 09:35 UTC+7
+# Version: 2406160935
+# Blocked: 4,058 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1285,6 +1285,8 @@
 0.0.0.0 member-gaarena.com
 0.0.0.0 member-garena-lienquan.com
 0.0.0.0 member-lienquan-garena.com
+0.0.0.0 member.sso-garena.vn
+0.0.0.0 member.sukien-lienquanmobile.com
 0.0.0.0 membergarenaviet.com
 0.0.0.0 memberr-garenaa.com
 0.0.0.0 memberrship-ff-garena.com
@@ -2570,6 +2572,7 @@
 0.0.0.0 spohopenm.org
 0.0.0.0 spsinhlychinhhang.com
 0.0.0.0 squashtalk.com
+0.0.0.0 sso-garena.vn
 0.0.0.0 sso-hotro-taikhoan.com
 0.0.0.0 ssvnshop.com
 0.0.0.0 standardresourcebank.com
@@ -2595,6 +2598,7 @@
 0.0.0.0 sukien-latquaff.com
 0.0.0.0 sukien-lienminh.com
 0.0.0.0 sukien-lienminhtocchien.site
+0.0.0.0 sukien-lienquanmobile.com
 0.0.0.0 sukien-lmht.com
 0.0.0.0 sukien-lq-garena.com
 0.0.0.0 sukien-nhanqua-garena.com
