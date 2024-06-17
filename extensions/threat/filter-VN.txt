@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 17 Jun 2024 11:19 UTC+7
-! Version: 2406171119
-! Blocked: 4,002 rules
+! Last modified: 17 Jun 2024 14:40 UTC+7
+! Version: 2406171440
+! Blocked: 4,020 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -103,6 +103,7 @@
 ||adkiemtien123.click^
 ||admin-vayvonvietthanh.com^
 ||ae888vip.com^
+||aeeonmaili.shop^
 ||aeeonmaill.com^
 ||aeeonmart.com^
 ||aeoonmail.com^
@@ -133,6 +134,7 @@
 ||amajwzon456.top^
 ||amatvip36sc.cc^
 ||amazonbig.asia^
+||amazonl0.com^
 ||amazonl3.com^
 ||amazonsg.shop^
 ||amazonxk.com^
@@ -169,6 +171,7 @@
 ||atyphy.cyou^
 ||avietcombank.com^
 ||awae-shop.com^
+||bachoaxanhh.com^
 ||baiduthi02.work^
 ||baiduthi2051.work^
 ||baiduthi2063.work^
@@ -261,10 +264,12 @@
 ||chamsockhachang.com^
 ||chamsockhachhang-uudaitructuyen.online^
 ||chamsockhachhangnanghanmuctindungmsb.com^
+||chamsockhachhangtheuudai-tructuyen.com.vn^
 ||chamsocthekhachang-truc-tuyen.com^
 ||chamsocthekhachhang-thang4.com.vn^
 ||chamsocthekhachhang-thang4.online^
 ||chamsocthekhachhang-uudai-tructuyen.com^
+||chamsocuudaithekhachhang-tructuyen.com^
 ||chanle79.me^
 ||chanlemmo.com^
 ||chanlemomo.cc^
@@ -717,6 +722,7 @@
 ||ghnn11.com^
 ||ghnn22.com^
 ||ghnn33.com^
+||giacatloi.info^
 ||giaingan799.com^
 ||giainganonline799.com^
 ||giaithuongviet457.com^
@@ -834,6 +840,7 @@
 ||hethongbank.com^
 ||hethongbank24h.com^
 ||hethongbhx.com^
+||hethongdonhang.com^
 ||hethonggiaodichvidientu247.com^
 ||hethongquatang.vn^
 ||hethongviet99.com^
@@ -1013,6 +1020,7 @@
 ||khoataikhoanhack-garena.xyz^
 ||khoaviphamtaikhoan.com^
 ||khohangdocvip.net^
+||khoi-khach-hang-ca-nhan-uu-tien-vni.com^
 ||khoi-khach-hang-ca-nhan-vni-diamon.com^
 ||khonapgame.com^
 ||khophanmem24h.com^
@@ -1061,6 +1069,7 @@
 ||l-fb.co^
 ||la533.com^
 ||la7168.com^
+||la7890.cc^
 ||la9435.com^
 ||labanga.de^
 ||labtpb.online^
@@ -1498,6 +1507,7 @@
 ||mxp00338.com^
 ||my-acb-bank.com^
 ||my-easy.shop^
+||mydiamon-han-muc-ca-nhan-vni.com^
 ||mylotte.me^
 ||mylotte.shop^
 ||myshopee13.com^
@@ -2086,6 +2096,7 @@
 ||shinhanbank.chamsockhachang-the.com^
 ||shinhanbank.info.vn^
 ||shinhanbank.tanghanmucthang11.com.vn^
+||shinhanbank.vnfiba.com^
 ||shinhanbank79.com^
 ||shinhanbanker.com^
 ||shinhanbankvay24h.com.vn^
@@ -2563,6 +2574,7 @@
 ||sotuyenvcb.vietcombanker.com^
 ||sp15569p.com^
 ||sp315693vn.com^
+||sp5188.com^
 ||sp56788.com^
 ||sp6788.com^
 ||sp77888.com^
@@ -2720,6 +2732,7 @@
 ||tangcuongbanlinh.com^
 ||tangcuongsinhluc.site^
 ||tanghanmuc-vn.com^
+||tanghanmucvisa-vn.com^
 ||tanglike.biz^
 ||tanglikefree.online^
 ||tangnickmienphi.com^
@@ -3362,7 +3375,9 @@
 ||vib.chamsockhachang-tructuyen-the.online^
 ||vib.chamsockhachang-tructuyen.online^
 ||vib.chamsockhachhang-tructuyen-the-visa.com^
+||vib.chamsockhachhangtheuudai-tructuyen.com.vn^
 ||vib.chamsocthekhachang-tructuyen.com.vn^
+||vib.chamsocuudaithekhachhang-tructuyen.com^
 ||vib.hanmucvn.com^
 ||vib.khach-hang-the-tructuyen.com^
 ||vib.khach-hang-the-tructuyen.online^
@@ -3629,6 +3644,7 @@
 ||vn-ebank.xyz^
 ||vn-ebanking.info^
 ||vn-ebanks.xyz^
+||vn-ebay.quxlpuj.cn^
 ||vn-ebayn.vip^
 ||vn-email.shop^
 ||vn-express.net^
@@ -3721,6 +3737,7 @@
 ||vnduthianhgroup.com^
 ||vnebank.xyz^
 ||vnexprress.com^
+||vnfiba.com^
 ||vnhopqua.com^
 ||vnietinbank.com^
 ||vnpanda.shop^
@@ -3731,6 +3748,7 @@
 ||vnpaycreditruttientindung-247.com^
 ||vnpt99.com^
 ||vnsendo.info^
+||vnsendo.net^
 ||vnsendo.shop^
 ||vnsendo.vip^
 ||vnshop.today^

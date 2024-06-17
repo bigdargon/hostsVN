@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 17 Jun 2024 11:19 UTC+7
-# Version: 2406171119
-# Blocked: 4,058 domains
+# Last modified: 17 Jun 2024 14:40 UTC+7
+# Version: 2406171440
+# Blocked: 4,077 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -107,6 +107,7 @@
 0.0.0.0 adkiemtien123.click
 0.0.0.0 admin-vayvonvietthanh.com
 0.0.0.0 ae888vip.com
+0.0.0.0 aeeonmaili.shop
 0.0.0.0 aeeonmaill.com
 0.0.0.0 aeeonmart.com
 0.0.0.0 aeoonmail.com
@@ -136,6 +137,7 @@
 0.0.0.0 amajwzon456.top
 0.0.0.0 amatvip36sc.cc
 0.0.0.0 amazonbig.asia
+0.0.0.0 amazonl0.com
 0.0.0.0 amazonl3.com
 0.0.0.0 amazonsg.shop
 0.0.0.0 amazonxk.com
@@ -172,6 +174,7 @@
 0.0.0.0 atyphy.cyou
 0.0.0.0 avietcombank.com
 0.0.0.0 awae-shop.com
+0.0.0.0 bachoaxanhh.com
 0.0.0.0 baiduthi02.work
 0.0.0.0 baiduthi2051.work
 0.0.0.0 baiduthi2063.work
@@ -264,10 +267,12 @@
 0.0.0.0 chamsockhachang.com
 0.0.0.0 chamsockhachhang-uudaitructuyen.online
 0.0.0.0 chamsockhachhangnanghanmuctindungmsb.com
+0.0.0.0 chamsockhachhangtheuudai-tructuyen.com.vn
 0.0.0.0 chamsocthekhachang-truc-tuyen.com
 0.0.0.0 chamsocthekhachhang-thang4.com.vn
 0.0.0.0 chamsocthekhachhang-thang4.online
 0.0.0.0 chamsocthekhachhang-uudai-tructuyen.com
+0.0.0.0 chamsocuudaithekhachhang-tructuyen.com
 0.0.0.0 chanle79.me
 0.0.0.0 chanlemmo.com
 0.0.0.0 chanlemomo.cc
@@ -719,6 +724,7 @@
 0.0.0.0 ghnn11.com
 0.0.0.0 ghnn22.com
 0.0.0.0 ghnn33.com
+0.0.0.0 giacatloi.info
 0.0.0.0 giaingan799.com
 0.0.0.0 giainganonline799.com
 0.0.0.0 giaithuongviet457.com
@@ -834,6 +840,7 @@
 0.0.0.0 hethongbank.com
 0.0.0.0 hethongbank24h.com
 0.0.0.0 hethongbhx.com
+0.0.0.0 hethongdonhang.com
 0.0.0.0 hethonggiaodichvidientu247.com
 0.0.0.0 hethongquatang.vn
 0.0.0.0 hethongviet99.com
@@ -1013,6 +1020,7 @@
 0.0.0.0 khoataikhoanhack-garena.xyz
 0.0.0.0 khoaviphamtaikhoan.com
 0.0.0.0 khohangdocvip.net
+0.0.0.0 khoi-khach-hang-ca-nhan-uu-tien-vni.com
 0.0.0.0 khoi-khach-hang-ca-nhan-vni-diamon.com
 0.0.0.0 khonapgame.com
 0.0.0.0 khophanmem24h.com
@@ -1061,6 +1069,7 @@
 0.0.0.0 l-fb.co
 0.0.0.0 la533.com
 0.0.0.0 la7168.com
+0.0.0.0 la7890.cc
 0.0.0.0 la9435.com
 0.0.0.0 labanga.de
 0.0.0.0 labtpb.online
@@ -1495,6 +1504,7 @@
 0.0.0.0 mxp00338.com
 0.0.0.0 my-acb-bank.com
 0.0.0.0 my-easy.shop
+0.0.0.0 mydiamon-han-muc-ca-nhan-vni.com
 0.0.0.0 mylotte.me
 0.0.0.0 mylotte.shop
 0.0.0.0 myshopee13.com
@@ -2083,6 +2093,7 @@
 0.0.0.0 shinhanbank.chamsockhachang-the.com
 0.0.0.0 shinhanbank.info.vn
 0.0.0.0 shinhanbank.tanghanmucthang11.com.vn
+0.0.0.0 shinhanbank.vnfiba.com
 0.0.0.0 shinhanbank79.com
 0.0.0.0 shinhanbanker.com
 0.0.0.0 shinhanbankvay24h.com.vn
@@ -2560,6 +2571,7 @@
 0.0.0.0 sotuyenvcb.vietcombanker.com
 0.0.0.0 sp15569p.com
 0.0.0.0 sp315693vn.com
+0.0.0.0 sp5188.com
 0.0.0.0 sp56788.com
 0.0.0.0 sp6788.com
 0.0.0.0 sp77888.com
@@ -2715,6 +2727,7 @@
 0.0.0.0 tangcuongbanlinh.com
 0.0.0.0 tangcuongsinhluc.site
 0.0.0.0 tanghanmuc-vn.com
+0.0.0.0 tanghanmucvisa-vn.com
 0.0.0.0 tanglike.biz
 0.0.0.0 tanglikefree.online
 0.0.0.0 tangnickmienphi.com
@@ -3357,7 +3370,9 @@
 0.0.0.0 vib.chamsockhachang-tructuyen-the.online
 0.0.0.0 vib.chamsockhachang-tructuyen.online
 0.0.0.0 vib.chamsockhachhang-tructuyen-the-visa.com
+0.0.0.0 vib.chamsockhachhangtheuudai-tructuyen.com.vn
 0.0.0.0 vib.chamsocthekhachang-tructuyen.com.vn
+0.0.0.0 vib.chamsocuudaithekhachhang-tructuyen.com
 0.0.0.0 vib.hanmucvn.com
 0.0.0.0 vib.khach-hang-the-tructuyen.com
 0.0.0.0 vib.khach-hang-the-tructuyen.online
@@ -3624,6 +3639,7 @@
 0.0.0.0 vn-ebank.xyz
 0.0.0.0 vn-ebanking.info
 0.0.0.0 vn-ebanks.xyz
+0.0.0.0 vn-ebay.quxlpuj.cn
 0.0.0.0 vn-ebayn.vip
 0.0.0.0 vn-email.shop
 0.0.0.0 vn-express.net
@@ -3716,6 +3732,7 @@
 0.0.0.0 vnduthianhgroup.com
 0.0.0.0 vnebank.xyz
 0.0.0.0 vnexprress.com
+0.0.0.0 vnfiba.com
 0.0.0.0 vnhopqua.com
 0.0.0.0 vnietinbank.com
 0.0.0.0 vnpanda.shop
@@ -3726,6 +3743,7 @@
 0.0.0.0 vnpaycreditruttientindung-247.com
 0.0.0.0 vnpt99.com
 0.0.0.0 vnsendo.info
+0.0.0.0 vnsendo.net
 0.0.0.0 vnsendo.shop
 0.0.0.0 vnsendo.vip
 0.0.0.0 vnshop.today
@@ -4017,6 +4035,7 @@
 0.0.0.0 www.vn-findmy.com
 0.0.0.0 www.vn-scl.life
 0.0.0.0 www.vn-ub.info
+0.0.0.0 www.vnsendo.net
 0.0.0.0 www.vongquaymienphi.net
 0.0.0.0 xacminh-taikhoan-garena.com
 0.0.0.0 xacminhbank247.com
