@@ -11693,3 +11693,12 @@
 #[adsbetnet.com]
 0.0.0.0 adsbetnet.com
 0.0.0.0 cdn.adsbetnet.com
+#[beesads.com]
+0.0.0.0 ads.beesads.com
+0.0.0.0 beesads.com
+0.0.0.0 cdn.beesads.com
+0.0.0.0 sdk.beesads.com
+#[mnaspm.com]
+0.0.0.0 mnaspm.com
+0.0.0.0 creative.mnaspm.com
+0.0.0.0 go.mnaspm.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Jun 2024 21:16 UTC+7
-! Version: 2406152116
-! Blocked: 10,797 rules
+! Last modified: 17 Jun 2024 11:19 UTC+7
+! Version: 2406171119
+! Blocked: 10,799 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -870,6 +870,7 @@
 ||tvc.biphim.club^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||upfile16.mediaphim.com^
+||upl.net-solutions.vn^
 ||user.headlines.pw^
 ||userstats.shopee.vn^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
@@ -1439,6 +1440,7 @@
 ||beap-bc.yahoo.com^
 ||beaverads.com^
 ||bebi.com^
+||beesads.com^
 ||beop.io^
 ||bestcontentfood.top^
 ||bestfreecounterstat.com^
@@ -2145,6 +2147,7 @@
 ||mlog.hiido.com^
 ||mm-cgnews.com^
 ||mmstat.com^
+||mnaspm.com^
 ||mng-ads.com^
 ||moatads.com^
 ||mobads-logs.baidu.com^
@@ -5205,7 +5208,6 @@
 ||creasureeffe.club^
 ||creative-serving.com^
 ||creative.leojmp.com^
-||creative.mnaspm.com^
 ||creative.myavlive.com^
 ||creativeformatsnetwork.com^
 ||creatives.livejasmin.com^
