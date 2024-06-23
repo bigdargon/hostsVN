@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 17 Jun 2024 14:52 UTC+7
-# Version: 2406171452
-# Blocked: 4,077 domains
+# Last modified: 23 Jun 2024 23:42 UTC+7
+# Version: 2406232342
+# Blocked: 4,102 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -368,6 +368,7 @@
 0.0.0.0 cskh-vib-canhan.com
 0.0.0.0 cskh-vib.ho-tro-tin-dung-ca-nhan.com
 0.0.0.0 cskh-vib.nang-han-muc-the-visa.com
+0.0.0.0 cskhcanhanhd.com
 0.0.0.0 cskhdienmayxanh.com
 0.0.0.0 cskhdienmayxanhvn.com
 0.0.0.0 cskhmayxanh.com
@@ -384,6 +385,7 @@
 0.0.0.0 d.gdtgov.cfd
 0.0.0.0 da2323.com
 0.0.0.0 da6555.com
+0.0.0.0 da8975.com
 0.0.0.0 dadw11.com
 0.0.0.0 dadw22.com
 0.0.0.0 dadw55.com
@@ -408,6 +410,7 @@
 0.0.0.0 dangkytruyenhinhcap.com
 0.0.0.0 dangkyvay-bank247.net
 0.0.0.0 dangkyvaybidv.com
+0.0.0.0 dangnhaphoso.com
 0.0.0.0 dantri.live
 0.0.0.0 dantrii.info
 0.0.0.0 daohannganhang.click
@@ -514,6 +517,7 @@
 0.0.0.0 dtdvmuadong-lienquan.com
 0.0.0.0 duthithanhlich2021.weebly.com
 0.0.0.0 duyendangaodaivietnam2021.weebly.com
+0.0.0.0 duyetdonlazada.com
 0.0.0.0 dv-ca-nhan-vpbank.com
 0.0.0.0 dv-nang-cap-vpbank.com
 0.0.0.0 dvdienmayxanh.com
@@ -737,6 +741,7 @@
 0.0.0.0 giaodichquettindungpos247-online.com
 0.0.0.0 giaodichquettindungvn-online.com
 0.0.0.0 giaodichquocte-wumoney365.weebly.com
+0.0.0.0 giaodichquoctes.com
 0.0.0.0 giaodichtiente247ipay.weebly.com
 0.0.0.0 giaodichvidientu.com.vn
 0.0.0.0 giaothuongvietnhat.org
@@ -1264,6 +1269,7 @@
 0.0.0.0 magazineshopeeonline.com
 0.0.0.0 magicslimnhatban.com
 0.0.0.0 mail.labtpb.online
+0.0.0.0 main-card-vib.com
 0.0.0.0 maivang.vip
 0.0.0.0 maivang.xyz
 0.0.0.0 mallshopvn.vip
@@ -1285,6 +1291,7 @@
 0.0.0.0 mbbankn.com
 0.0.0.0 mbbffn.online
 0.0.0.0 mbcanhan-cskh.com
+0.0.0.0 mbdk99.com
 0.0.0.0 mbdkb.com
 0.0.0.0 mbfic-plus.com
 0.0.0.0 mbfn-fic.com
@@ -1440,6 +1447,7 @@
 0.0.0.0 moneygram24hh.weebly.com
 0.0.0.0 moneyhay.net
 0.0.0.0 moneyloan-vn.com
+0.0.0.0 moneytracking137.com
 0.0.0.0 moneyveo.vn
 0.0.0.0 moneyvi.xyz
 0.0.0.0 moneywallet.cf
@@ -1510,6 +1518,7 @@
 0.0.0.0 myshopee13.com
 0.0.0.0 myshopee7.vip
 0.0.0.0 nang-cap-hang-vvip-vib.com
+0.0.0.0 nang-cap-ocare-vib.com
 0.0.0.0 nang-cap-online-vpbank.com
 0.0.0.0 nang-cap-vip-vpbank.com
 0.0.0.0 nang-han-muc-ido-vpbank.com
@@ -2064,6 +2073,7 @@
 0.0.0.0 sdo8357.com
 0.0.0.0 sdqwf.ga
 0.0.0.0 seabank-nganhanghanoi.com
+0.0.0.0 sendotv.com
 0.0.0.0 sendovip.com
 0.0.0.0 sendovn.com
 0.0.0.0 senopaee.com
@@ -2113,6 +2123,7 @@
 0.0.0.0 shoopvv.com
 0.0.0.0 shoosse.com
 0.0.0.0 shop-ama-zon.net
+0.0.0.0 shop.global-selling.top
 0.0.0.0 shop146.com
 0.0.0.0 shop2727.com
 0.0.0.0 shop3001.com
@@ -2570,6 +2581,7 @@
 0.0.0.0 sos-icloud.com
 0.0.0.0 sotuyenvcb.vietcombanker.com
 0.0.0.0 sp15569p.com
+0.0.0.0 sp1663p.com
 0.0.0.0 sp315693vn.com
 0.0.0.0 sp5188.com
 0.0.0.0 sp56788.com
@@ -2750,6 +2762,7 @@
 0.0.0.0 tdkd03.com
 0.0.0.0 tdkd07.com
 0.0.0.0 tdkd08.com
+0.0.0.0 tdkt00.com
 0.0.0.0 tdkt01.com
 0.0.0.0 tdtc.shop
 0.0.0.0 techcombank.ngan-hang.net
@@ -2775,6 +2788,7 @@
 0.0.0.0 thang365g.com
 0.0.0.0 thanhphomomo.com
 0.0.0.0 thanhtoanlienquan.com
+0.0.0.0 thanhtrapcrt.online
 0.0.0.0 thanquay247.vip
 0.0.0.0 thao88.com
 0.0.0.0 thebank247.ga
@@ -2796,6 +2810,7 @@
 0.0.0.0 thisinhthanhlich.cf
 0.0.0.0 thisinhthanhlich.com
 0.0.0.0 thisinhthanhlich2022.com
+0.0.0.0 thisinhthanhlich2024.com
 0.0.0.0 thongtindonhang.com
 0.0.0.0 thpthuynhthuckhang.edu.vn
 0.0.0.0 thsdbj.com
@@ -2930,6 +2945,7 @@
 0.0.0.0 tinchap-techcombank.store
 0.0.0.0 tinchaphd.com
 0.0.0.0 tinchapluong-techcombank.xyz
+0.0.0.0 tinchapshinhan.online
 0.0.0.0 tinchapvcb-vn.com
 0.0.0.0 tinchapvietcombank24h.com
 0.0.0.0 tindung-online.com
@@ -3363,6 +3379,7 @@
 0.0.0.0 viaviet03.mobie.in
 0.0.0.0 vib-bank.com
 0.0.0.0 vib-mydiamon-khcn-uutien-vnc1.com
+0.0.0.0 vib-nangcap.com
 0.0.0.0 vib-tindung-khcn.com
 0.0.0.0 vib-tindung.click
 0.0.0.0 vib-tindung.online
@@ -3726,6 +3743,7 @@
 0.0.0.0 vn88khuyenmai.site
 0.0.0.0 vn88khuyenmai.space
 0.0.0.0 vn88khuyenmai.store
+0.0.0.0 vn999mall.vip
 0.0.0.0 vnah567.com
 0.0.0.0 vnambzuon36sc.vip
 0.0.0.0 vnbitcoin.cc
@@ -3866,6 +3884,7 @@
 0.0.0.0 vpb.tanghanmucvisa-vn.com
 0.0.0.0 vpbank-vaytien.com
 0.0.0.0 vpbank.appvest.vn
+0.0.0.0 vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online
 0.0.0.0 vpbank.com.vn-hc.info
 0.0.0.0 vpbank.com.vn-rb.icu
 0.0.0.0 vpbank.com.vn-rn.biz
@@ -3987,6 +4006,7 @@
 0.0.0.0 www.acs84.com
 0.0.0.0 www.amadbfk.vip
 0.0.0.0 www.checkaccff.com
+0.0.0.0 www.dangnhaphoso.com
 0.0.0.0 www.dichvuchuyentien-ind.weebly.com
 0.0.0.0 www.e-commercesc.cc
 0.0.0.0 www.fccomvn.com
@@ -4023,6 +4043,8 @@
 0.0.0.0 www.suckhoetainha.site
 0.0.0.0 www.sukienmd.epizy.com
 0.0.0.0 www.taikhoanvps.com.vn
+0.0.0.0 www.thanhtrapcrt.online
+0.0.0.0 www.tinchapshinhan.online
 0.0.0.0 www.tpbank84.com
 0.0.0.0 www.vcbdigeibonk.com
 0.0.0.0 www.vcbigdank.com
@@ -4035,8 +4057,10 @@
 0.0.0.0 www.vn-findmy.com
 0.0.0.0 www.vn-scl.life
 0.0.0.0 www.vn-ub.info
+0.0.0.0 www.vn999mall.vip
 0.0.0.0 www.vnsendo.net
 0.0.0.0 www.vongquaymienphi.net
+0.0.0.0 www.vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online
 0.0.0.0 xacminh-taikhoan-garena.com
 0.0.0.0 xacminhbank247.com
 0.0.0.0 xacminhgarenalienquan.com
@@ -4081,6 +4105,7 @@
 0.0.0.0 zeroshop.cc
 0.0.0.0 zingmp3.pro
 0.0.0.0 zingshop.net
+0.0.0.0 zla653.top
 0.0.0.0 zla963.top
 0.0.0.0 zmomo.cc
 0.0.0.0 zvay.online

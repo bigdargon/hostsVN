@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Jun 2024 11:19 UTC+7
-! Version: 2406171119
-! Blocked: 10,799 rules
+! Last modified: 23 Jun 2024 23:43 UTC+7
+! Version: 2406232343
+! Blocked: 10,811 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -393,6 +393,7 @@
 ||adclient.vietnamnetjsc.vn^
 ||addlog.thuvienphapluat.vn^
 ||addtop.trangvangvietnam.com^
+||adhub.mobifone.vn^
 ||adjusts.info^
 ||adm.phunusuckhoe.vn^
 ||adm.phunuvagiadinh.vn^
@@ -4115,6 +4116,7 @@
 ||appclick.net^
 ||appdog.com^
 ||appealtime.com^
+||appeaserepose.com^
 ||appfireworks.com^
 ||appflood.com^
 ||appia.com^
@@ -4899,6 +4901,7 @@
 ||chewcoat.com^
 ||chickensstation.com^
 ||chicoryapp.com^
+||childhoodstudioconversation.com^
 ||childlikeform.com^
 ||childrenweavestun.com^
 ||chima-eoj.com^
@@ -5766,6 +5769,7 @@
 ||enduresopens.com^
 ||engagebdr.com^
 ||engine.espace.netavenir.com^
+||engineexplicitfootrest.com^
 ||enginenetwork.com^
 ||englandhogmane.com^
 ||enki-mit.com^
@@ -6576,6 +6580,7 @@
 ||hydraulzonure.com^
 ||hylicfrothi.uno^
 ||hynteroforion.com^
+||hypelab.com^
 ||hyperbanner.net^
 ||hypermusk.com^
 ||hypertracker.com^
@@ -6845,6 +6850,7 @@
 ||jciazzqtej.com^
 ||jcount.com^
 ||jeckoort.com^
+||jeewoo.xctd.me^
 ||jenicdntc.com^
 ||jenonaw.com^
 ||jerboasjourney.com^
@@ -7887,6 +7893,7 @@
 ||offvmuf.com^
 ||offwurqzia.com^
 ||ofhappinyer.com^
+||ofleafeona.com^
 ||ofnumeltor.com^
 ||ofqaqsazxli.com^
 ||ofqopmnpia.com^
@@ -7935,6 +7942,7 @@
 ||oltnukjafo.com^
 ||olwawtfzyo.com^
 ||olzjpuhfert.com^
+||olzlmemumcwe.com^
 ||olzovvqpowh.com^
 ||omazeiros.com^
 ||ombcukfijka.com^
@@ -8423,6 +8431,7 @@
 ||pre.glotgrx.com^
 ||pre4sentre8dhf.com^
 ||prebid.lucead.com^
+||prebid.trustedstack.com^
 ||preciousawareness.pro^
 ||precisioncounter.com^
 ||predictad.com^
@@ -8530,6 +8539,7 @@
 ||pub.realmedia.fr^
 ||pub.trads.io^
 ||pubacca5mc.com^
+||pubads.g.doubleclick.uk.net^
 ||pubaka5.com^
 ||pubdirecte.com^
 ||pubeshogback.uno^
@@ -10207,6 +10217,7 @@
 ||variouscreativeformats.com^
 ||variousformatscontent.com^
 ||vasgenerete.site^
+||vast.vstserv.com^
 ||vattingbalak.com^
 ||vaugroar.com^
 ||vcuobpfisalm.com^
@@ -10478,6 +10489,7 @@
 ||wizaly.com^
 ||wizkrdxivl.com^
 ||wlmarketing.com^
+||wmcdpt.com^
 ||wmiakcpceocm.com^
 ||wmirk.ru^
 ||wnkibwzr.com^
