@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 23 Jun 2024 23:42 UTC+7
-# Version: 2406232342
-# Blocked: 154,505 domains
+# Last modified: 29 Jun 2024 23:15 UTC+7
+# Version: 2406292315
+# Blocked: 154,506 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -103559,6 +103559,7 @@
 0.0.0.0 fabet.biz
 0.0.0.0 fabet.cc
 0.0.0.0 fabet.com
+0.0.0.0 fabet.in
 0.0.0.0 fabet.info
 0.0.0.0 fabet.live
 0.0.0.0 fabet.me

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 23 Jun 2024 23:42 UTC+7
-! Version: 2406232342
-! Blocked: 4,040 rules
+! Last modified: 29 Jun 2024 23:15 UTC+7
+! Version: 2406292315
+! Blocked: 4,060 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -215,6 +215,7 @@
 ||binhchon-gionghatvietnhi-2022.weebly.com^
 ||binhchon-gionghatvietnhi-vong1-nam2022.weebly.com^
 ||binhchonanhduthicuabe2022.weebly.com^
+||binhchoncuocthivetranhsinhvien2024.wee^
 ||binhchonduthitainang2022mua3.weebly.com^
 ||binhchongionghatviet2019.weebly.com^
 ||binhchongionghatvietnhi2021vietnames.weebly.com^
@@ -262,6 +263,7 @@
 ||cf222.art^
 ||cgovn.cc^
 ||chamsockhachang.com^
+||chamsockhachhang-uudaithe-thang6.com^
 ||chamsockhachhang-uudaitructuyen.online^
 ||chamsockhachhangnanghanmuctindungmsb.com^
 ||chamsockhachhangtheuudai-tructuyen.com.vn^
@@ -740,6 +742,7 @@
 ||giaodichquettindungvn-online.com^
 ||giaodichquocte-wumoney365.weebly.com^
 ||giaodichquoctes.com^
+||giaodichquoctes.vercel.app^
 ||giaodichtiente247ipay.weebly.com^
 ||giaodichvidientu.com.vn^
 ||giaothuongvietnhat.org^
@@ -1000,6 +1003,7 @@
 ||jo9p72.cyou^
 ||jomashopsa.com^
 ||junoshop.online^
+||k2rjtiki.com^
 ||kaurroot.com^
 ||kavay.vn^
 ||kavaycash.com^
@@ -1073,6 +1077,7 @@
 ||ktien.vn^
 ||l-fb.co^
 ||la533.com^
+||la5959.com^
 ||la7168.com^
 ||la7890.cc^
 ||la9435.com^
@@ -1523,6 +1528,7 @@
 ||nang-cap-hang-vvip-vib.com^
 ||nang-cap-ocare-vib.com^
 ||nang-cap-online-vpbank.com^
+||nang-cap-the-vcare-vib.com^
 ||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
 ||nang-han-muc-vcs1-khcn-vib.com^
@@ -1615,6 +1621,7 @@
 ||napplay.com^
 ||napplaytogether.com^
 ||napplaytogether247.com^
+||nappthe.vn^
 ||nappubg.net^
 ||nappubg.vn^
 ||napquanhuy.cf^
@@ -2032,6 +2039,7 @@
 ||rwrb55.com^
 ||rwrb66.com^
 ||s22khuyenmai.xyz^
+||s2rjtiki.com^
 ||s33788.com^
 ||sacchaeleduk.com^
 ||sacombank.net.vn^
@@ -2085,6 +2093,7 @@
 ||servsvietnam.com^
 ||sgshopee.top^
 ||sgxcoin.net^
+||sh2tiki.com^
 ||share.ttchanging.com^
 ||shb.com.vn-iy.info^
 ||shb.com.vn-sp.xyz^
@@ -2585,10 +2594,12 @@
 ||sotuyenvcb.vietcombanker.com^
 ||sp15569p.com^
 ||sp1663p.com^
+||sp1776p.com^
 ||sp315693vn.com^
 ||sp5188.com^
 ||sp56788.com^
 ||sp6788.com^
+||sp7335p.com^
 ||sp77888.com^
 ||sp8668vn.com^
 ||spark123.shop^
@@ -2761,6 +2772,7 @@
 ||tb55788.com^
 ||tb55988.com^
 ||tc-viet.click^
+||tcbcanhan.com^
 ||tdkd00.com^
 ||tdkd01.com^
 ||tdkd02.com^
@@ -3025,6 +3037,7 @@
 ||tpbank-com.com^
 ||tpbank-hanoi.com^
 ||tpbank-vaynhanh.com^
+||tpbank.chamsockhachhang-uudaithe-thang6.com^
 ||tpbank.chamsockhachhang-uudaitructuyen.online^
 ||tpbank.chamsocthekhachang-truc-tuyen.com^
 ||tpbank.chamsocthekhachhang-thang4.com.vn^
@@ -3383,11 +3396,14 @@
 ||viashopee.com^
 ||viaviet03.mobie.in^
 ||vib-bank.com^
+||vib-cardnew.shop^
 ||vib-mydiamon-khcn-uutien-vnc1.com^
+||vib-nang-the.com^
 ||vib-nangcap.com^
 ||vib-tindung-khcn.com^
 ||vib-tindung.click^
 ||vib-tindung.online^
+||vib-up-the.shop^
 ||vib-vay.com^
 ||vib.chamsockhachang-tructuyen-the.online^
 ||vib.chamsockhachang-tructuyen.online^
@@ -3596,6 +3612,7 @@
 ||vietthanhcredit.com^
 ||vietthanhcredit.online^
 ||viettinvay.com^
+||viettlot135p.com^
 ||vietvcbdigibank.com^
 ||vietviv.com^
 ||vietvn.net^
@@ -3752,6 +3769,7 @@
 ||vnah567.com^
 ||vnambzuon36sc.vip^
 ||vnbitcoin.cc^
+||vnc63661s.com^
 ||vnduthianhgroup.com^
 ||vnebank.xyz^
 ||vnexprress.com^
@@ -3905,6 +3923,8 @@
 ||vps8449vn.com^
 ||vrichshop.com^
 ||vssid.cc^
+||vssid.govvvn.com^
+||vssidgov.com^
 ||vstvst10toc.com^
 ||vstvst11toc.com^
 ||vstvst12toc.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 23 Jun 2024 23:42 UTC+7
-! Version: 2406232342
-! Blocked: 153,086 rules
+! Last modified: 29 Jun 2024 23:15 UTC+7
+! Version: 2406292315
+! Blocked: 153,087 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -103585,6 +103585,7 @@
 ||fabet.biz^
 ||fabet.cc^
 ||fabet.com^
+||fabet.in^
 ||fabet.info^
 ||fabet.live^
 ||fabet.me^
