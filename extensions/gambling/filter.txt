@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 29 Jun 2024 23:15 UTC+7
-! Version: 2406292315
-! Blocked: 153,087 rules
+! Last modified: 30 Jun 2024 17:02 UTC+7
+! Version: 2406301702
+! Blocked: 153,089 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -89745,6 +89745,7 @@
 ||b52k.club^
 ||b52m.club^
 ||b52vn.fun^
+||b52vn.info^
 ||b52vn.org^
 ||b530.net^
 ||b5323.com^
@@ -123381,6 +123382,7 @@
 ||loyal68.com^
 ||loyalfun98.com^
 ||loyalshop.net^
+||lp.b52vn.info^
 ||lp.choiriikvip.today^
 ||lp.choitet.vip^
 ||lp.go8vui.info^

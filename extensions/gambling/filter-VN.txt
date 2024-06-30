@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 29 Jun 2024 23:15 UTC+7
-! Version: 2406292315
-! Blocked: 4,996 rules
+! Last modified: 30 Jun 2024 17:02 UTC+7
+! Version: 2406301702
+! Blocked: 4,998 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -734,6 +734,7 @@
 ||b52d.club^
 ||b52k.club^
 ||b52m.club^
+||b52vn.info^
 ||b52vn.org^
 ||b69.cafe^
 ||b69.city^
@@ -3253,6 +3254,7 @@
 ||loto188vi.com^
 ||loto66.com^
 ||loto678.com^
+||lp.b52vn.info^
 ||lp.choiriikvip.today^
 ||lp.choitet.vip^
 ||lp.go8vui.info^
