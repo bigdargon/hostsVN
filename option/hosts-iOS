@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Jun 2024 17:02 UTC+7
-# Version: 2406301702
-# Blocked: 20,308 domains
+# Last modified: 30 Jun 2024 22:20 UTC+7
+# Version: 2406302220
+# Blocked: 20,310 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7702,6 +7702,7 @@
 0 pixnet-network-falcon.pixanalytics.com
 0 s.pixanalytics.com
 0 advividnetwork.com
+0 auto-load-balancer.advividnetwork.com
 0 rhea-cache.advividnetwork.com
 0 sun-cdn.advividnetwork.com
 0 sun.advividnetwork.com
@@ -12112,6 +12113,7 @@
 0 stats.vietnammoi.vn
 0 support.tenten.vn
 0 sv-api-event.headlines.pw
+0 sv.isvn.space
 0 ta.toprework.vn
 0 tagging-qadkfoj6ha-as.a.run.app
 0 thongke.24h.com.vn
