@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 01 Jul 2024 10:32 UTC+7
-! Version: 2407011032
-! Blocked: 4,060 rules
+! Last modified: 06 Jul 2024 23:17 UTC+7
+! Version: 2407062317
+! Blocked: 4,076 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -293,7 +293,9 @@
 ||chuyengiadinh.org^
 ||chuyentienkieuhoi247.cf^
 ||chuyentienngay.site^
+||chuyentienquocte1313.vercel.app^
 ||chuyentienquocte242.weebly.com^
+||chuyentienquoctenhanh.vercel.app^
 ||chuyentienvn.weebly.com^
 ||citi-vietnam.com^
 ||citivay.org^
@@ -576,6 +578,7 @@
 ||facebookk.life^
 ||facebookvni.com^
 ||faecbooks.com^
+||fajiafu30.com^
 ||fb88viet.com^
 ||fbviet88.com^
 ||fcccredit.com^
@@ -812,6 +815,7 @@
 ||hbpnnz.cyou^
 ||hdb.tang-han-muc-tin-dung-vn.com^
 ||hdb.vntanghanmucvisadebit.com^
+||hdbank.tructuyen-uudai-thekhachhang.com^
 ||hdbankcareer.com^
 ||hdbankfinancc.digital^
 ||hdbankfinancc.icu^
@@ -936,6 +940,7 @@
 ||i-sacombank.com^
 ||i-shopping888.com^
 ||i-vietcombank.com^
+||iazada.com^
 ||ib-ebanking.com^
 ||ibankingdigital.com^
 ||ibankingshopee.vn^
@@ -1528,6 +1533,7 @@
 ||nang-cap-hang-vvip-vib.com^
 ||nang-cap-ocare-vib.com^
 ||nang-cap-online-vpbank.com^
+||nang-cap-qcare-vib.com^
 ||nang-cap-the-vcare-vib.com^
 ||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
@@ -1799,6 +1805,7 @@
 ||nhantienquocte.today^
 ||nhantienquocte249.weebly.com^
 ||nhantienquocte275.weebly.com^
+||nhantienquoctev3.vercel.app^
 ||nhantiensieutoc.com^
 ||nhantienvipay.com^
 ||nhantienvivnpay.com^
@@ -1814,6 +1821,7 @@
 ||niftygotevay.com^
 ||nikdaoquan.vn^
 ||nouespaipenedes.com^
+||nqsncoau.buzz^
 ||nsomomo.com^
 ||nvietcombank.com^
 ||nykkky.com^
@@ -2084,6 +2092,7 @@
 ||sdo8357.com^
 ||sdqwf.ga^
 ||seabank-nganhanghanoi.com^
+||seleeashopee.com^
 ||sendotv.com^
 ||sendovip.com^
 ||sendovn.com^
@@ -2781,6 +2790,7 @@
 ||tdkd08.com^
 ||tdkt00.com^
 ||tdkt01.com^
+||tdkt06.com^
 ||tdtc.shop^
 ||techcombank.ngan-hang.net^
 ||techcombank.site^
@@ -2993,6 +3003,7 @@
 ||tingiovang777.com^
 ||tingiovangvn.com^
 ||tinhay24h.pro^
+||tinhot24h.website^
 ||tinhothomnay.com^
 ||tinhotnew.com^
 ||tinlequa365.com^
@@ -3109,6 +3120,7 @@
 ||trianvangthang12.com^
 ||trickervietnam.com^
 ||tronapp.in^
+||tructuyen-uudai-thekhachhang.com^
 ||trumbem.com^
 ||trumbemmomo.club^
 ||trumcltx.vip^
@@ -3173,6 +3185,7 @@
 ||unlockdienthoai.zyrosite.com^
 ||upceshop.cn^
 ||upmiles-vpbank.com^
+||uudai-tructuyen-chamsockhachhang-the.com.vn^
 ||uudailienquan.com^
 ||uudainapthe.vn^
 ||uudainganhang.com^
@@ -3400,6 +3413,7 @@
 ||vib-mydiamon-khcn-uutien-vnc1.com^
 ||vib-nang-the.com^
 ||vib-nangcap.com^
+||vib-solution.shop^
 ||vib-tindung-khcn.com^
 ||vib-tindung.click^
 ||vib-tindung.online^
@@ -3742,6 +3756,7 @@
 ||vn11568p.com^
 ||vn119shop.com^
 ||vn147258p.com^
+||vn156475p.com^
 ||vn168d.com^
 ||vn22647shp.com^
 ||vn268.com^
@@ -3912,6 +3927,7 @@
 ||vpbank.com.vn-rb.icu^
 ||vpbank.com.vn-rn.biz^
 ||vpbank.com.vn-uz.info^
+||vpbank.uudai-tructuyen-chamsockhachhang-the.com.vn^
 ||vpbank.vn-cl.xyz^
 ||vpbank.vn-cn.life^
 ||vpbank.vn-cr.life^

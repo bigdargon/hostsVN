@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 01 Jul 2024 10:32 UTC+7
-! Version: 2407011032
-! Blocked: 4,998 rules
+! Last modified: 06 Jul 2024 23:17 UTC+7
+! Version: 2407062317
+! Blocked: 5,007 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -500,6 +500,7 @@
 ||ads.8live.com^
 ||ads.choingayiwin.top^
 ||ads.dabetvip.vin^
+||ads.dangky789.sbs^
 ||ads.playiwin.in^
 ||ads.playmay88.top^
 ||ads.taigamengay.biz^
@@ -850,6 +851,7 @@
 ||bogac1.com^
 ||bogcuoc.com^
 ||bom52.club^
+||bong.thethaowin.net^
 ||bong88.cam^
 ||bong88.com^
 ||bong88.net^
@@ -1118,6 +1120,7 @@
 ||dangky.go88.com^
 ||dangky.thethaofb88.com^
 ||dangky789.link^
+||dangky789.sbs^
 ||dangkybayvip.com^
 ||dangkybum.club^
 ||dangkyee88.online^
@@ -1390,6 +1393,7 @@
 ||five88.win^
 ||fivevn.net^
 ||fmapt.com^
+||for88.com^
 ||fpbet.com^
 ||fullbetvn.com^
 ||fun1008.com^
@@ -3386,6 +3390,7 @@
 ||m.qq8788viet.com^
 ||m.red88.com^
 ||m.rvbet005.com^
+||m.s26.lol^
 ||m.s26bet01.com^
 ||m.shbet.love^
 ||m.tf88265.com^
@@ -3933,7 +3938,10 @@
 ||s2.sin88.biz^
 ||s2.sin88.cc^
 ||s2.sin88.club^
+||s26.lol^
 ||s26bet.bet^
+||s26bet.ltd^
+||s26bet.org^
 ||s26bet01.com^
 ||s555.com^
 ||s666bet.win^
@@ -4345,6 +4353,7 @@
 ||thethaouk88.org^
 ||thethaovip.vip^
 ||thethaovua.co^
+||thethaowin.net^
 ||thevw155.com^
 ||thk8.net^
 ||tho77.com^
