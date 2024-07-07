@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Jul 2024 23:15 UTC+7
-# Version: 2407062315
-# Blocked: 20,312 domains
+# Last modified: 07 Jul 2024 23:35 UTC+7
+# Version: 2407072335
+# Blocked: 20,352 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10333,6 +10333,12 @@
 0 ankdoier.com
 0 click.eu.ankdoier.com
 0 tracking.eu.ankdoier.com
+0 jsc.traffic-media.co.uk
+0 traffic-media.co.uk
+0 ads.pubadx.one
+0 platform.pubadx.one
+0 pubadx.one
+0 www.pubadx.one
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -11351,6 +11357,7 @@
 0 matomo.hicity.vn
 0 matomo.shac.vn
 0 matomo.vepg.vn
+0 matomo.vietlottsms.vn
 0 mautic.akhoe.vn
 0 mautic.casso.vn
 0 mautic.chetaomaysaigon.vn
@@ -11808,6 +11815,7 @@
 0 crocopop.com
 0 csmads.gameclick.vn
 0 delecpuzz.com
+0 delivery.doisongphapluat.com.vn
 0 delivery.senvangvn.com
 0 demopage.me
 0 deqik.com
@@ -11911,7 +11919,9 @@
 0 aff.atp.vn
 0 affiliate.chiaki.vn
 0 alexajstrack.com
+0 analytic.angiang.gov.vn
 0 analytic.baodantoc.vn
+0 analytic.proxyme.link
 0 analytic.thuanbui.me
 0 analytic.vnanet.vn
 0 analytics.admon.com.vn
@@ -11922,6 +11932,7 @@
 0 analytics.bkav.com.vn
 0 analytics.digi8.vn
 0 analytics.evgcdn.net
+0 analytics.evn.com.vn
 0 analytics.fsoft.com.vn
 0 analytics.gotama.link
 0 analytics.hapo.vn
@@ -11938,12 +11949,14 @@
 0 analytics.teko.vn
 0 analytics.tiki.vn
 0 analytics.tintuc.vn
+0 analytics.ungdungtructuyen.vn
 0 analytics.viblo.asia
 0 analytics.videocloud.top
 0 analytics.vietnamfinance.vn
 0 analytics.vnpt.vn
 0 analytics.vnreview.vn
 0 analytics.yts.vn
+0 analytics.zatomac.vn
 0 analytics.zim.vn
 0 api-logdev.sohatv.vn
 0 api.ozui.vn
@@ -11973,6 +11986,7 @@
 0 digi.vinut.com.vn
 0 elink.nhanlucnganhluat.vn
 0 ema.hostvn.net
+0 event-tracking.hellohealthgroup.com
 0 event.filum.ai
 0 event.headlines.pw
 0 f-emc.ngsp.gov.vn
@@ -12064,9 +12078,10 @@
 0 logsbin.dantri.com.vn
 0 logscafef.channelvn.net
 0 logv3.metric.vn
+0 ma.tgdd.vn
 0 marketing.itgeek.vn
+0 matomo.bantheme.xyz
 0 matomo.quan.hoabinh.vn
-0 matomo.vietlottsms.vn
 0 mautic-learn.teky.edu.vn
 0 mautic.200lab.io
 0 mautic.teky.edu.vn
@@ -12079,6 +12094,7 @@
 0 newlog.daidoanket.vn
 0 newlog.tapchitaichinh.vn
 0 nstat.headlines.pw
+0 pixel.innocom.vn
 0 plausible.vucar.vn
 0 production-tracking.riviu.co
 0 proof.sudo.vn
@@ -12092,6 +12108,7 @@
 0 s.soha.vn
 0 s6.textlink.vn
 0 sentry.mediacdn.vn
+0 seo.cloud.edu.vn
 0 smetrics.kone.vn
 0 st-a.vtvdigital.vn
 0 stat.headlines.pw
@@ -12111,6 +12128,7 @@
 0 stats.petrotimes.vn
 0 stats.tamdiem247.com
 0 stats.vietnammoi.vn
+0 subot.hellobacsi.com
 0 support.tenten.vn
 0 sv-api-event.headlines.pw
 0 sv.isvn.space
@@ -12135,6 +12153,7 @@
 0 track.lemonnovel.com
 0 track.pnj.com.vn
 0 track.popsww.com
+0 track.saigon.pro
 0 track.sendo.vn
 0 track.vio.edu.vn
 0 track.winigroup.vn
@@ -12158,6 +12177,7 @@
 0 tracking.phunuadong.vn
 0 tracking.tekoapis.com
 0 tracking.tinxe.vn
+0 tracking.tuyenquang.gov.vn
 0 tracking.tvet-vietnam.org
 0 tracking.vegaid.vn
 0 tracking.vht.com.vn
@@ -12165,6 +12185,7 @@
 0 tracking.viez.vn
 0 trackingapi.foody.vn
 0 trackity.tiki.vn
+0 traffic.nvcms.net
 0 traffic.vietnhan.co
 0 trk.123c.vn
 0 trk.staging.123c.vn
@@ -12173,6 +12194,7 @@
 0 vieon-tracking.vieon.vn
 0 vn.alexajstrack.com
 0 web-analytic.ghtk.vn
+0 web-analytics.mona.host
 0 webchat.caresoft.vn
 0 webpush.bizfly.vn
 0 webpush.todo.vn
@@ -12706,6 +12728,7 @@
 0 ads.casumoaffiliates.com
 0 ads.cbc.ca
 0 ads.cc
+0 ads.cdn2-img.net
 0 ads.centraliprom.com
 0 ads.clickdigisol.net
 0 ads.co.com
@@ -13521,6 +13544,7 @@
 0 awmadffahon.com
 0 awpuquina.tech
 0 awvpapjucr.com
+0 awvracajcsu.com
 0 awvtzezarm.com
 0 awxdazlufot.com
 0 awxxfotcooh.com
@@ -14023,6 +14047,7 @@
 0 carambo.la
 0 carbonads.net
 0 cardiwersg.com
+0 caribedkurukh.com
 0 cariousconsiderateprise.com
 0 carriageperpendicular.com
 0 carryingfarmerlumber.com
@@ -14809,6 +14834,7 @@
 0 eadexchange.com
 0 earnbigo.com
 0 earnify.com
+0 earphonetipperzombie.com
 0 earringsatisfiedsplice.com
 0 earsanagep.com
 0 earthquakescarf.com
@@ -15367,6 +15393,7 @@
 0 gondolagnome.com
 0 gooblesdd.com
 0 goodnesstamper.com
+0 goodnightsurveys.com
 0 goodnotification.net
 0 goohimom.net
 0 goomaphy.com
@@ -15393,6 +15420,7 @@
 0 grantatomic.com
 0 grapeshot.co.uk
 0 gravityessencephiladelphia.com
+0 great-ads-right-now.com
 0 greatdexchange.com
 0 greatlove.pro
 0 greenedenlarge.uno
@@ -15417,6 +15445,7 @@
 0 grudgewallet.com
 0 grunikpazp.com
 0 gruttumalda.com
+0 gruwrebutnar.com
 0 gryligkiznwe.com
 0 gscontxt.net
 0 gsjln04hd.com
@@ -16219,6 +16248,7 @@
 0 logua.com
 0 loinbricksribbon.com
 0 lokinatoer5.com
+0 lollipopsurveys.com
 0 lologhfd.com
 0 longinglettuce.com
 0 longingtrees.com
@@ -16756,6 +16786,7 @@
 0 niyandadengues.digital
 0 nkeokgokfkuz.com
 0 nkexuhswyom.com
+0 nkwpqlsjyalwuh.com
 0 nlxini.com
 0 nmolizbkuowp.com
 0 no2veeamggaseber.com
@@ -17853,6 +17884,7 @@
 0 rtyznd.com
 0 ru-traffic.com
 0 ru4.com
+0 ruckingefs.com
 0 ruddy-option.pro
 0 ruddywash.com
 0 rufflycouncil.com
@@ -18045,6 +18077,7 @@
 0 shoeingneurone.com
 0 shofteph.com
 0 shoogleno.tech
+0 shoordaird.com
 0 shopfulaments.com
 0 shoppingads.com
 0 shopzilla.com
@@ -18382,6 +18415,7 @@
 0 swarthymacula.com
 0 swayersnoance.com
 0 sweatyequityhelicopter.com
+0 sweetiesurveys.com
 0 sweetsensationswithsage.com
 0 sweetslope.com
 0 swesomepop.com
@@ -19221,6 +19255,7 @@
 0 wresterwoodcoc.uno
 0 wryfinger.com
 0 wrynadaplbup.com
+0 wryqahbilc.com
 0 wseojloda.com
 0 wt-eu02.net
 0 wtlive.com
@@ -19674,6 +19709,7 @@
 0 app-analytics-services.com
 0 app.adjust.net.in
 0 app.adjust.world
+0 app.posthog.com
 0 applog.camera360.com
 0 appres.camera360.com
 0 arc.io
@@ -19860,6 +19896,7 @@
 0 hypestat.com
 0 i-mar.com
 0 i.mxplayer.j2inter.com
+0 i.posthog.com
 0 i.viafoura.co
 0 iabusprivacy.pmc.com
 0 iaudienc.com
@@ -19906,6 +19943,7 @@
 0 log.ajunews.com
 0 log.apk.v-mate.mobi
 0 log.avlyun.com
+0 log.cookieyes.com
 0 log.getdropbox.com
 0 log.klook.com
 0 log.kmplayer.com
@@ -19959,6 +19997,7 @@
 0 msg-intl.qy.net
 0 msg.qy.net
 0 munchkin.marketo.net
+0 mxradon.com
 0 netcore.co.in
 0 nonglirili.net
 0 notifpush.com
@@ -20099,6 +20138,7 @@
 0 soflopxl.com
 0 soidc.com
 0 soperson.com
+0 sp.tinymce.com
 0 spkoevngk.com
 0 spysubstance.com
 0 srmdata.com

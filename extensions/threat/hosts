@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 06 Jul 2024 23:17 UTC+7
-# Version: 2407062317
-# Blocked: 4,524 domains
+# Last modified: 07 Jul 2024 23:29 UTC+7
+# Version: 2407072329
+# Blocked: 4,525 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3107,6 +3107,7 @@
 0.0.0.0 tdkt01.com
 0.0.0.0 tdkt06.com
 0.0.0.0 tdtc.shop
+0.0.0.0 techcombank.hicam.net
 0.0.0.0 techcombank.ngan-hang.net
 0.0.0.0 techcombank.site
 0.0.0.0 techcombank.vn-cl.xyz
