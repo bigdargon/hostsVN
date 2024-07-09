@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 07 Jul 2024 23:29 UTC+7
-# Version: 2407072329
-# Blocked: 4,525 domains
+# Last modified: 09 Jul 2024 14:16 UTC+7
+# Version: 2407091416
+# Blocked: 4,529 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -561,6 +561,7 @@
 0.0.0.0 dichvucong.cvgov.com
 0.0.0.0 dichvucong.dancuquocgia.net
 0.0.0.0 dichvucong.dancuso.com
+0.0.0.0 dichvucong.dinhdanhcutru.com
 0.0.0.0 dichvucong.dulieuquocgia.com
 0.0.0.0 dichvucong.govnx.com
 0.0.0.0 dichvucong.hgov.cc
@@ -570,6 +571,7 @@
 0.0.0.0 dichvucong.kgov.net
 0.0.0.0 dichvucong.lgov.net
 0.0.0.0 dichvucong.tgovn.cc
+0.0.0.0 dichvucong.thongtindancu.org
 0.0.0.0 dichvucong.tkgov.com
 0.0.0.0 dichvucong.vgovn.net
 0.0.0.0 dichvucong.vsgov.com
@@ -610,6 +612,7 @@
 0.0.0.0 dienmayxanhtrungtam.com
 0.0.0.0 dienthoaiviet.net
 0.0.0.0 differentia.ru
+0.0.0.0 dinhdanhcutru.com
 0.0.0.0 disorderstatus.ru
 0.0.0.0 dkmjxh.info
 0.0.0.0 dmxprovip.com
@@ -3158,6 +3161,7 @@
 0.0.0.0 thisinhthanhlich.com
 0.0.0.0 thisinhthanhlich2022.com
 0.0.0.0 thisinhthanhlich2024.com
+0.0.0.0 thongtindancu.org
 0.0.0.0 thongtindonhang.com
 0.0.0.0 thpthuynhthuckhang.edu.vn
 0.0.0.0 thsdbj.com

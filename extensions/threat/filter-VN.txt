@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 07 Jul 2024 23:29 UTC+7
-! Version: 2407072329
-! Blocked: 4,077 rules
+! Last modified: 09 Jul 2024 14:16 UTC+7
+! Version: 2407091416
+! Blocked: 4,081 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -451,6 +451,7 @@
 ||dichvucong.cvgov.com^
 ||dichvucong.dancuquocgia.net^
 ||dichvucong.dancuso.com^
+||dichvucong.dinhdanhcutru.com^
 ||dichvucong.dulieuquocgia.com^
 ||dichvucong.govnx.com^
 ||dichvucong.hgov.cc^
@@ -460,6 +461,7 @@
 ||dichvucong.kgov.net^
 ||dichvucong.lgov.net^
 ||dichvucong.tgovn.cc^
+||dichvucong.thongtindancu.org^
 ||dichvucong.tkgov.com^
 ||dichvucong.vgovn.net^
 ||dichvucong.vsgov.com^
@@ -499,6 +501,7 @@
 ||dienmayxanhtantam.com^
 ||dienmayxanhtrungtam.com^
 ||dienthoaiviet.net^
+||dinhdanhcutru.com^
 ||dmxprovip.com^
 ||dmxvip.com^
 ||do002.com^
@@ -2839,6 +2842,7 @@
 ||thisinhthanhlich.com^
 ||thisinhthanhlich2022.com^
 ||thisinhthanhlich2024.com^
+||thongtindancu.org^
 ||thongtindonhang.com^
 ||thpthuynhthuckhang.edu.vn^
 ||thsdbj.com^
