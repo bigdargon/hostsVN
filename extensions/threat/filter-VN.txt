@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 09 Jul 2024 14:16 UTC+7
-! Version: 2407091416
-! Blocked: 4,081 rules
+! Last modified: 14 Jul 2024 16:55 UTC+7
+! Version: 2407141655
+! Blocked: 4,102 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -191,6 +191,7 @@
 ||banvoucher-vn.weeblysite.com^
 ||baohanhdienmayxanhvn.com^
 ||baohiemvietinbank.com^
+||baohiemxahoi.vnagov.com^
 ||baosaoviet24h.net^
 ||baothanhnien.top^
 ||baotienphong.net^
@@ -263,6 +264,7 @@
 ||cf222.art^
 ||cgovn.cc^
 ||chamsockhachang.com^
+||chamsockhachhang-uudai-the-truc-tuyen.online^
 ||chamsockhachhang-uudaithe-thang6.com^
 ||chamsockhachhang-uudaitructuyen.online^
 ||chamsockhachhangnanghanmuctindungmsb.com^
@@ -282,6 +284,7 @@
 ||checkfbviet.tk^
 ||chientich-sinhnhat-lienquanvn.gq^
 ||chientich-sinhnhatlienquangarenavn.ml^
+||chinhphu.cc^
 ||chovayfecredit.com^
 ||chovaynhanh.online^
 ||chovaytiengopsg.com^
@@ -742,6 +745,7 @@
 ||giaiviet259.com^
 ||giaodich-quetthetindung.com^
 ||giaodich-quetthetindungvn.com^
+||giaodichdaquocgia.us^
 ||giaodichphieurutienmposvn.com^
 ||giaodichpostructuyenvn.com^
 ||giaodichquettindungpos247-online.com^
@@ -761,6 +765,7 @@
 ||giftcode-lienquanmobile-vn.com^
 ||giftcode-mobilelienquan.com^
 ||giftcode-sukienaov.com^
+||giiao.hangtietkiem.com^
 ||giongcatrienvong-gionghatvietnhi-mua3.weebly.com^
 ||gionghatviet2021nhi.weebly.com^
 ||gionghatvietnhi-mua01-nam2022.weebly.com^
@@ -1095,6 +1100,7 @@
 ||laisuatkiemtiencao.com^
 ||lambangcap3giare.net^
 ||langthang7.ml^
+||lapdatinternet.net^
 ||larpollicwilli.club^
 ||lavas.exchange^
 ||lazada-sale.gq^
@@ -1379,6 +1385,7 @@
 ||mobilebankingvn.com^
 ||modgameviet.com^
 ||mohopnhanpham-garena.com^
+||mojgov.weebly.com^
 ||momo.builders^
 ||momo.wiki^
 ||momo10s.com^
@@ -1543,6 +1550,7 @@
 ||nang-han-muc-vcs1-khcn-vib.com^
 ||nang-han-muc-vip-vpbank.com^
 ||nang-hang-ca-nhan-vib-mrk1.com^
+||nang-hang-the-vip2-vib.com^
 ||nang-hang-tin-dung-ca-nhan.com^
 ||nanghanmuc-thetindung.com^
 ||nanghanmuc-tindungvn.com^
@@ -1926,6 +1934,7 @@
 ||quamembergarena.com^
 ||quamemberthang9-freefirevn.com^
 ||quamomo.vn^
+||quandoi-viettel.com^
 ||quangnamquetoi.weebly.com^
 ||quanhuyfree.cf^
 ||quanhuylqmb.com^
@@ -2320,6 +2329,7 @@
 ||shopeeshoppimg.com^
 ||shopeesmarket.com^
 ||shopeeson.com^
+||shopeesop.com^
 ||shopeesukien.com^
 ||shopeetiki.com^
 ||shopeetro.club^
@@ -2785,6 +2795,7 @@
 ||tb55988.com^
 ||tc-viet.click^
 ||tcbcanhan.com^
+||tcvnhomefic.com^
 ||tdkd00.com^
 ||tdkd01.com^
 ||tdkd02.com^
@@ -2794,6 +2805,7 @@
 ||tdkt00.com^
 ||tdkt01.com^
 ||tdkt06.com^
+||tdkt07.com^
 ||tdtc.shop^
 ||techcombank.hicam.net^
 ||techcombank.ngan-hang.net^
@@ -2930,6 +2942,7 @@
 ||tikictv9.com^
 ||tikihk.com^
 ||tikiiii.com^
+||tikijaj2.com^
 ||tikimall.org^
 ||tikimall.top^
 ||tikimast.com^
@@ -2966,6 +2979,7 @@
 ||tikiwork.net^
 ||tikixv.com^
 ||tikiy.cc^
+||tikt88.com^
 ||tiktokcy1.com^
 ||timivay.com^
 ||timx2918.com^
@@ -3191,6 +3205,7 @@
 ||upceshop.cn^
 ||upmiles-vpbank.com^
 ||uudai-tructuyen-chamsockhachhang-the.com.vn^
+||uudaikhachhang-tructuyen.com.vn^
 ||uudailienquan.com^
 ||uudainapthe.vn^
 ||uudainganhang.com^
@@ -3408,6 +3423,7 @@
 ||vemaybaynhatviet.com^
 ||vevebiendaovietnam2022.weebly.com^
 ||vg99.co^
+||vgiao.hangtietkiem.com^
 ||vhcmc2.xyz^
 ||vi-mayman.com^
 ||vi.liveen.vn^
@@ -3415,6 +3431,7 @@
 ||viaviet03.mobie.in^
 ||vib-bank.com^
 ||vib-cardnew.shop^
+||vib-gold-card.shop^
 ||vib-mydiamon-khcn-uutien-vnc1.com^
 ||vib-nang-the.com^
 ||vib-nangcap.com^
@@ -3438,6 +3455,7 @@
 ||vib.truc-tuyen-cham-socthekhachhang.com^
 ||vib.tructuyen-chamsockhachang-the.com^
 ||vib.tuvan-chamsockhachhang.com^
+||vib.uudaikhachhang-tructuyen.com.vn^
 ||vib8-vay.com^
 ||vib84.com^
 ||vibbca-nhan.com^
@@ -3790,6 +3808,8 @@
 ||vnambzuon36sc.vip^
 ||vnbitcoin.cc^
 ||vnc63661s.com^
+||vnc69977s.com^
+||vnc75635s.com^
 ||vnduthianhgroup.com^
 ||vnebank.xyz^
 ||vnexprress.com^
@@ -3927,6 +3947,7 @@
 ||vpb.tanghanmucvisa-vn.com^
 ||vpbank-vaytien.com^
 ||vpbank.appvest.vn^
+||vpbank.chamsockhachhang-uudai-the-truc-tuyen.online^
 ||vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online^
 ||vpbank.com.vn-hc.info^
 ||vpbank.com.vn-rb.icu^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 09 Jul 2024 14:16 UTC+7
-! Version: 2407091416
-! Blocked: 5,007 rules
+! Last modified: 14 Jul 2024 16:55 UTC+7
+! Version: 2407141655
+! Blocked: 5,032 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -62,6 +62,7 @@
 ||11bet.club^
 ||11bet.com^
 ||11bet.fun^
+||11bet.gg^
 ||11bet.in^
 ||11bet.life^
 ||11bet.mobi^
@@ -203,7 +204,6 @@
 ||5566688.com^
 ||5566688.net^
 ||558kbet.com^
-||55qh88.com^
 ||570manx.com^
 ||58cc.live^
 ||59y2x.com^
@@ -372,6 +372,7 @@
 ||88uu.app^
 ||88viet.com^
 ||88vin.zone^
+||88vn.com^
 ||88vnd.com^
 ||88vwin.com^
 ||890ae888.com^
@@ -879,6 +880,7 @@
 ||bongda80.com^
 ||bongdaeuro188.com^
 ||bongvip.com^
+||bongvip.onl^
 ||bons.com^
 ||boom66.com^
 ||box2020.oxbetd.com^
@@ -1075,6 +1077,7 @@
 ||d9bet38.com^
 ||d9bet68.com^
 ||d9bet88.com^
+||da88.pro^
 ||dabanh.thethaofb88.com^
 ||dabet.cc^
 ||dabet.club^
@@ -1140,6 +1143,7 @@
 ||dbet68.com^
 ||dbthethao.run^
 ||dd7bet.me^
+||debet.bet^
 ||debet.club^
 ||debet.com^
 ||debet.info^
@@ -2011,6 +2015,7 @@
 ||k88017.com^
 ||k88018.com^
 ||k88019.com^
+||k89bet.com^
 ||k8a08.com^
 ||k8a09.com^
 ||k8a20.com^
@@ -3247,6 +3252,7 @@
 ||lode555.com^
 ||lode88.online^
 ||lode88.vip^
+||lodegoc.net^
 ||lodevip.us^
 ||lodevn789.net^
 ||login.dangkyrikvip.org^
@@ -3299,6 +3305,7 @@
 ||lucky88.club^
 ||lucky88.com^
 ||lucky88.fun^
+||lucky88.in^
 ||lucky88.live^
 ||lucky88.net^
 ||lucky88.online^
@@ -3583,6 +3590,7 @@
 ||nbet.site^
 ||nbet.top^
 ||nbet.tv^
+||nbet.uk^
 ||nbet.vin^
 ||nbet.vip^
 ||nbet.win^
@@ -3646,6 +3654,10 @@
 ||ojr6n.com^
 ||okcado.com^
 ||okcado.org^
+||okvip.life^
+||okvip.pro^
+||okvip.today^
+||okvip.win^
 ||ole12.com^
 ||ole777vietnam.com^
 ||ole7788.com^
@@ -3846,6 +3858,7 @@
 ||qc.top88.vn^
 ||qc.vic.win^
 ||qc.x8.club^
+||qc.x8.games^
 ||qc.x8vn.top^
 ||qc.zo88.org^
 ||qc789.vip^
@@ -3857,7 +3870,6 @@
 ||qh231.com^
 ||qh232.com^
 ||qh235.com^
-||qh236.com^
 ||qh238.com^
 ||qh250.com^
 ||qh322.com^
@@ -3999,6 +4011,7 @@
 ||sin88.biz^
 ||sin88.cc^
 ||sin88.club^
+||sin88.mn^
 ||sin88.mobi^
 ||sin88.mx^
 ||sin88.uk^
@@ -4173,6 +4186,7 @@
 ||t68bet.org^
 ||t8bet999.com^
 ||t8betvip.com^
+||ta88.club^
 ||ta88.com^
 ||ta88.me^
 ||ta88.org^
@@ -4411,6 +4425,7 @@
 ||top88.me^
 ||top88.uk^
 ||top88.us^
+||top88.vip^
 ||top88.vn^
 ||top88vn.club^
 ||top88vn.net^
@@ -4457,6 +4472,7 @@
 ||udw884.com^
 ||udw886.com^
 ||uer5.com^
+||uk88.club^
 ||uk88.com^
 ||uk88.top^
 ||umfgg.com^
@@ -4568,6 +4584,7 @@
 ||vipclub.homes^
 ||vipclub.makeup^
 ||vipclub.so^
+||vipgame.cloud^
 ||viprik.click^
 ||viprik.pro^
 ||viu88.com^
@@ -4668,6 +4685,11 @@
 ||vnq8.net^
 ||vnq8.win^
 ||vnrg5269.com^
+||vnsodo.fun^
+||vnsodo.live^
+||vnsodo.me^
+||vnsodo.mobi^
+||vnsodo.us^
 ||vntop88.com^
 ||vnvwbet.com^
 ||vnvwin.com^
@@ -4838,6 +4860,7 @@
 ||websvn.info^
 ||wellviet.net^
 ||wewinvwin.com^
+||wi88.win^
 ||widget.188thethao.com^
 ||widget.v9bet88.net^
 ||widget.v9jvn.com^
@@ -4914,6 +4937,7 @@
 ||x3.xo88.info^
 ||x3.xo88.win^
 ||x8.club^
+||x8.games^
 ||x8.vin^
 ||x8vn.com^
 ||x8vn.top^
@@ -4998,6 +5022,7 @@
 ||zbet.com^
 ||zbet.fun^
 ||zbet.me^
+||zbet.tv^
 ||zbet.vn^
 ||zbet.win^
 ||zbet6898.com^

@@ -183,7 +183,7 @@
 #[itim.vn]
 0.0.0.0 itim.vn
 0.0.0.0 spell.itim.vn
-#[lavanetwork]
+#[lavanetwork.net]
 0.0.0.0 ad.lavanetwork.net
 0.0.0.0 admin.lavanetwork.net
 0.0.0.0 banner.lavanetwork.net
@@ -193,6 +193,7 @@
 0.0.0.0 img.lavanetwork.net
 0.0.0.0 lavanetwork.net
 0.0.0.0 libs.lavanetwork.net
+0.0.0.0 log.lavanetwork.net
 0.0.0.0 pub.lavanetwork.net
 0.0.0.0 revive.lavanetwork.net
 0.0.0.0 video.lavanetwork.net

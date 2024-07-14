@@ -6,13 +6,13 @@
 ^https?://graph.facebook.com/.+activities
 ^https?://graph.facebook.com/.+advertiser
 ^https?://graph.facebook.com/.+events
-^https?://graph.facebook.com/.+infos
 ^https?://graph.facebook.com/.+metrics
 ^https?://graph.facebook.com/.+mobile_sdk_gk
 ^https?://graph.facebook.com/.+model_asset
 ^https?://graph.facebook.com/.+skadnetwork
 ^https?://graph.facebook.com/network_ads_common
 
+^https?:\/\/.+\.facebook\.com\/.+infos
 ^https?:\/\/.+\.facebook\.com\/adnw_logging
 ^https?:\/\/.+\.facebook\.com\/adnw_sync
 
