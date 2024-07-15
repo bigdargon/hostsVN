@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 14 Jul 2024 16:55 UTC+7
-! Version: 2407141655
-! Blocked: 5,032 rules
+! Last modified: 15 Jul 2024 23:12 UTC+7
+! Version: 2407152312
+! Blocked: 5,045 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -881,6 +881,7 @@
 ||bongdaeuro188.com^
 ||bongvip.com^
 ||bongvip.onl^
+||bongvip.website^
 ||bons.com^
 ||boom66.com^
 ||box2020.oxbetd.com^
@@ -1162,6 +1163,7 @@
 ||diendansohoc.net^
 ||diq9r.com^
 ||dj5995.wbet58.com^
+||dk.bongvip.website^
 ||dk.choitet.vip^
 ||dk.choiwin79.net^
 ||dk.gamequyong.xyz^
@@ -1373,7 +1375,9 @@
 ||fcb88.vip^
 ||fcb88d.com^
 ||feli88.com^
+||fi88.app^
 ||fi88.club^
+||fi88.com^
 ||fi88.vip^
 ||fi881.com^
 ||fi8822.com^
@@ -1400,6 +1404,7 @@
 ||for88.com^
 ||fpbet.com^
 ||fullbetvn.com^
+||fun-dangki.com^
 ||fun1008.com^
 ||fun1118.com^
 ||fun705.com^
@@ -1619,6 +1624,7 @@
 ||hn8.link^
 ||ho.vin^
 ||hoahao.vip^
+||horse79.live^
 ||host.im99.com^
 ||hot51.com^
 ||hotlive.in^
@@ -1955,6 +1961,7 @@
 ||jun88w.com^
 ||justk8.com^
 ||k1.uk88.top^
+||k1.uk88.vip^
 ||k10022.com^
 ||k10033.com^
 ||k10055.com^
@@ -3742,6 +3749,7 @@
 ||play.hit38.club^
 ||play.hit38.co^
 ||play.hit68.net^
+||play.horse79.live^
 ||play.im99.com^
 ||play.iwin.net^
 ||play.lo88.live^
@@ -4206,6 +4214,7 @@
 ||tai.go88b.com^
 ||tai.go88f.com^
 ||tai.go88vn.vip^
+||tai.horse79.live^
 ||tai.nhatvip.live^
 ||tai.rik.bet^
 ||tai.rik.club^
@@ -4243,6 +4252,7 @@
 ||taido99.online^
 ||taido99.site^
 ||taido99.win^
+||taidonclub4.city^
 ||taigame.son.club^
 ||taigame789.club^
 ||taigamehay.site^
@@ -4294,6 +4304,7 @@
 ||taisum.io^
 ||taisum1.club^
 ||taisum2.com^
+||taisumvip6.city^
 ||taisun52.live^
 ||taisunwin.live^
 ||taitx1.club^
@@ -4475,6 +4486,7 @@
 ||uk88.club^
 ||uk88.com^
 ||uk88.top^
+||uk88.vip^
 ||umfgg.com^
 ||unitygame.online^
 ||upanh.vn88.com^
@@ -4852,6 +4864,7 @@
 ||web.nhatvip.net^
 ||web.taiv8.com^
 ||web.taiv8.top^
+||web.top88.vip^
 ||web.vicplay.io^
 ||web.zo.game^
 ||web.zowinvn.vip^

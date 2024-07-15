@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 14 Jul 2024 16:55 UTC+7
-! Version: 2407141655
-! Blocked: 4,102 rules
+! Last modified: 15 Jul 2024 23:12 UTC+7
+! Version: 2407152312
+! Blocked: 4,103 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4015,6 +4015,7 @@
 ||w88banh.com^
 ||walmartshoping.com^
 ||warrenmoneytrader.com^
+||wbk9sohp.jdpz.link^
 ||web-membbership-freefire-garena.com^
 ||web-shopee-vn.com^
 ||webbanklienthong247.com^
