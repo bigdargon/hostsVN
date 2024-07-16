@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 15 Jul 2024 23:12 UTC+7
-! Version: 2407152312
-! Blocked: 5,045 rules
+! Last modified: 16 Jul 2024 11:15 UTC+7
+! Version: 2407161115
+! Blocked: 5,047 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4391,6 +4391,7 @@
 ||thuongkingfun.biz^
 ||thvwbet.com^
 ||tienlen.8day66.com^
+||tienlenpoker.fun^
 ||tienve.thethaofb88.com^
 ||tin.11bet.net^
 ||tin010.com^
@@ -4539,6 +4540,7 @@
 ||vaorikvip.net^
 ||vb211.com^
 ||vb777.co^
+||vb777.top^
 ||vbet88.fun^
 ||vebo.bet^
 ||vegas79.casino^
