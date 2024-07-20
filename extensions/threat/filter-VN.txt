@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 16 Jul 2024 11:15 UTC+7
-! Version: 2407161115
-! Blocked: 4,103 rules
+! Last modified: 20 Jul 2024 23:09 UTC+7
+! Version: 2407202309
+! Blocked: 4,122 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -171,6 +171,7 @@
 ||atyphy.cyou^
 ||avietcombank.com^
 ||awae-shop.com^
+||bachhoaxanhh.com^
 ||bachoaxanhh.com^
 ||baiduthi02.work^
 ||baiduthi2051.work^
@@ -264,8 +265,11 @@
 ||cf222.art^
 ||cgovn.cc^
 ||chamsockhachang.com^
+||chamsockhachhang-tructuyenuudaithe.online^
 ||chamsockhachhang-uudai-the-truc-tuyen.online^
+||chamsockhachhang-uudai-tructuyenthe.com^
 ||chamsockhachhang-uudaithe-thang6.com^
+||chamsockhachhang-uudaithecanhan-tructuyen.online^
 ||chamsockhachhang-uudaitructuyen.online^
 ||chamsockhachhangnanghanmuctindungmsb.com^
 ||chamsockhachhangtheuudai-tructuyen.com.vn^
@@ -438,10 +442,14 @@
 ||dich-vu-online-vpbank.com^
 ||dich-vu-the-ai-vpbank.com^
 ||dich-vu-the-cashback-vib.com^
+||dich-vu-the-elite-vib.com^
 ||dich-vu-the-ez-vpbank.com^
 ||dich-vu-the-kt3-vib.com^
+||dich-vu-the-sat-vib.com^
+||dich-vu-the-svip-vib.com^
 ||dich-vu-the-vdiamond-vib.com^
 ||dich-vu-the-vdiamond-vpbank.com^
+||dich-vu-the-vvip-vib.com^
 ||dich-vu-the-vvip-vpb.com^
 ||dich-vu-update-vpbank.com^
 ||dich-vu-vip3-vib.com^
@@ -497,6 +505,7 @@
 ||dienmayxanhantam.com^
 ||dienmayxanhbeauty.com^
 ||dienmayxanhbeautyplus.com^
+||dienmayxanhctv24.com^
 ||dienmayxanhh.com^
 ||dienmayxanhhcm.com^
 ||dienmayxanhhcm24h.com^
@@ -579,12 +588,14 @@
 ||faceb00k.com.vn^
 ||facebook.c0m.ltd^
 ||facebook4288062.blogspot.com^
+||facebook60118.blogspot.com^
 ||facebook62747.blogspot.com^
 ||facebook92288.blogspot.com^
 ||facebookk.life^
 ||facebookvni.com^
 ||faecbooks.com^
 ||fajiafu30.com^
+||fajiafu50.com^
 ||fb88viet.com^
 ||fbviet88.com^
 ||fcccredit.com^
@@ -2622,6 +2633,7 @@
 ||sp56788.com^
 ||sp6788.com^
 ||sp7335p.com^
+||sp75193p.com^
 ||sp77888.com^
 ||sp8668vn.com^
 ||spark123.shop^
@@ -2804,6 +2816,7 @@
 ||tdkd08.com^
 ||tdkt00.com^
 ||tdkt01.com^
+||tdkt04.com^
 ||tdkt06.com^
 ||tdkt07.com^
 ||tdtc.shop^
@@ -3431,6 +3444,7 @@
 ||viaviet03.mobie.in^
 ||vib-bank.com^
 ||vib-cardnew.shop^
+||vib-care.com^
 ||vib-gold-card.shop^
 ||vib-mydiamon-khcn-uutien-vnc1.com^
 ||vib-nang-the.com^
@@ -3444,6 +3458,8 @@
 ||vib.chamsockhachang-tructuyen-the.online^
 ||vib.chamsockhachang-tructuyen.online^
 ||vib.chamsockhachhang-tructuyen-the-visa.com^
+||vib.chamsockhachhang-tructuyenuudaithe.online^
+||vib.chamsockhachhang-uudai-tructuyenthe.com^
 ||vib.chamsockhachhangtheuudai-tructuyen.com.vn^
 ||vib.chamsocthekhachang-tructuyen.com.vn^
 ||vib.chamsocuudaithekhachhang-tructuyen.com^
@@ -3690,6 +3706,7 @@
 ||vipshopee.com^
 ||viptikivn.club^
 ||visa-mb.com^
+||visa-vibbank.com^
 ||visa-vpbank-uu-tien.com^
 ||vitienonline88.com^
 ||vitindungpgbank.com^
@@ -3816,6 +3833,7 @@
 ||vnfiba.com^
 ||vnhopqua.com^
 ||vnietinbank.com^
+||vnmcrd2s.online^
 ||vnpanda.shop^
 ||vnpay-quetthetindung.com^
 ||vnpay-ruttientindung.com^
@@ -3854,6 +3872,7 @@
 ||vnsshoppe.com^
 ||vntanghanmucvisadebit.com^
 ||vntiki.shop^
+||vntiki1.com^
 ||vntiki11.com^
 ||vntikiship.com^
 ||vntkm.com^

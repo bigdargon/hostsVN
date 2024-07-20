@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 16 Jul 2024 11:15 UTC+7
-! Version: 2407161115
-! Blocked: 5,047 rules
+! Last modified: 20 Jul 2024 23:09 UTC+7
+! Version: 2407202309
+! Blocked: 5,050 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -976,6 +976,7 @@
 ||choibaionlinevn.com^
 ||choibancadoithuong.com^
 ||choidabanh.com^
+||choidebet.biz^
 ||choidon.club^
 ||choidonclub.club^
 ||choigamedonclub.online^
@@ -1652,6 +1653,7 @@
 ||i9bet.bet^
 ||i9bet.com^
 ||i9bet.llc^
+||i9bet.me^
 ||i9bet.net^
 ||i9bet.poker^
 ||i9bet.tw^
@@ -3734,6 +3736,7 @@
 ||play.bay789.life^
 ||play.bom52.club^
 ||play.bum3.club^
+||play.choidebet.biz^
 ||play.choisport.com^
 ||play.choiwin79.net^
 ||play.fa88.win^

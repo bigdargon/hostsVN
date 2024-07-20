@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 16 Jul 2024 11:15 UTC+7
-# Version: 2407161115
-# Blocked: 4,167 domains
+# Last modified: 20 Jul 2024 23:09 UTC+7
+# Version: 2407202309
+# Blocked: 4,187 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -174,6 +174,7 @@
 0.0.0.0 atyphy.cyou
 0.0.0.0 avietcombank.com
 0.0.0.0 awae-shop.com
+0.0.0.0 bachhoaxanhh.com
 0.0.0.0 bachoaxanhh.com
 0.0.0.0 baiduthi02.work
 0.0.0.0 baiduthi2051.work
@@ -267,8 +268,11 @@
 0.0.0.0 cf222.art
 0.0.0.0 cgovn.cc
 0.0.0.0 chamsockhachang.com
+0.0.0.0 chamsockhachhang-tructuyenuudaithe.online
 0.0.0.0 chamsockhachhang-uudai-the-truc-tuyen.online
+0.0.0.0 chamsockhachhang-uudai-tructuyenthe.com
 0.0.0.0 chamsockhachhang-uudaithe-thang6.com
+0.0.0.0 chamsockhachhang-uudaithecanhan-tructuyen.online
 0.0.0.0 chamsockhachhang-uudaitructuyen.online
 0.0.0.0 chamsockhachhangnanghanmuctindungmsb.com
 0.0.0.0 chamsockhachhangtheuudai-tructuyen.com.vn
@@ -441,10 +445,14 @@
 0.0.0.0 dich-vu-online-vpbank.com
 0.0.0.0 dich-vu-the-ai-vpbank.com
 0.0.0.0 dich-vu-the-cashback-vib.com
+0.0.0.0 dich-vu-the-elite-vib.com
 0.0.0.0 dich-vu-the-ez-vpbank.com
 0.0.0.0 dich-vu-the-kt3-vib.com
+0.0.0.0 dich-vu-the-sat-vib.com
+0.0.0.0 dich-vu-the-svip-vib.com
 0.0.0.0 dich-vu-the-vdiamond-vib.com
 0.0.0.0 dich-vu-the-vdiamond-vpbank.com
+0.0.0.0 dich-vu-the-vvip-vib.com
 0.0.0.0 dich-vu-the-vvip-vpb.com
 0.0.0.0 dich-vu-update-vpbank.com
 0.0.0.0 dich-vu-vip3-vib.com
@@ -500,6 +508,7 @@
 0.0.0.0 dienmayxanhantam.com
 0.0.0.0 dienmayxanhbeauty.com
 0.0.0.0 dienmayxanhbeautyplus.com
+0.0.0.0 dienmayxanhctv24.com
 0.0.0.0 dienmayxanhh.com
 0.0.0.0 dienmayxanhhcm.com
 0.0.0.0 dienmayxanhhcm24h.com
@@ -581,12 +590,14 @@
 0.0.0.0 faceb00k.com.vn
 0.0.0.0 facebook.c0m.ltd
 0.0.0.0 facebook4288062.blogspot.com
+0.0.0.0 facebook60118.blogspot.com
 0.0.0.0 facebook62747.blogspot.com
 0.0.0.0 facebook92288.blogspot.com
 0.0.0.0 facebookk.life
 0.0.0.0 facebookvni.com
 0.0.0.0 faecbooks.com
 0.0.0.0 fajiafu30.com
+0.0.0.0 fajiafu50.com
 0.0.0.0 fb88viet.com
 0.0.0.0 fbviet88.com
 0.0.0.0 fcccredit.com
@@ -948,6 +959,7 @@
 0.0.0.0 i-sacombank.com
 0.0.0.0 i-shopping888.com
 0.0.0.0 i-vietcombank.com
+0.0.0.0 iazada.com
 0.0.0.0 ib-ebanking.com
 0.0.0.0 ibankingdigital.com
 0.0.0.0 ibankingshopee.vn
@@ -2617,6 +2629,7 @@
 0.0.0.0 sp56788.com
 0.0.0.0 sp6788.com
 0.0.0.0 sp7335p.com
+0.0.0.0 sp75193p.com
 0.0.0.0 sp77888.com
 0.0.0.0 sp8668vn.com
 0.0.0.0 spark123.shop
@@ -2797,6 +2810,7 @@
 0.0.0.0 tdkd08.com
 0.0.0.0 tdkt00.com
 0.0.0.0 tdkt01.com
+0.0.0.0 tdkt04.com
 0.0.0.0 tdkt06.com
 0.0.0.0 tdkt07.com
 0.0.0.0 tdtc.shop
@@ -3424,6 +3438,7 @@
 0.0.0.0 viaviet03.mobie.in
 0.0.0.0 vib-bank.com
 0.0.0.0 vib-cardnew.shop
+0.0.0.0 vib-care.com
 0.0.0.0 vib-gold-card.shop
 0.0.0.0 vib-mydiamon-khcn-uutien-vnc1.com
 0.0.0.0 vib-nang-the.com
@@ -3437,6 +3452,8 @@
 0.0.0.0 vib.chamsockhachang-tructuyen-the.online
 0.0.0.0 vib.chamsockhachang-tructuyen.online
 0.0.0.0 vib.chamsockhachhang-tructuyen-the-visa.com
+0.0.0.0 vib.chamsockhachhang-tructuyenuudaithe.online
+0.0.0.0 vib.chamsockhachhang-uudai-tructuyenthe.com
 0.0.0.0 vib.chamsockhachhangtheuudai-tructuyen.com.vn
 0.0.0.0 vib.chamsocthekhachang-tructuyen.com.vn
 0.0.0.0 vib.chamsocuudaithekhachhang-tructuyen.com
@@ -3683,6 +3700,7 @@
 0.0.0.0 vipshopee.com
 0.0.0.0 viptikivn.club
 0.0.0.0 visa-mb.com
+0.0.0.0 visa-vibbank.com
 0.0.0.0 visa-vpbank-uu-tien.com
 0.0.0.0 vitienonline88.com
 0.0.0.0 vitindungpgbank.com
@@ -3809,6 +3827,7 @@
 0.0.0.0 vnfiba.com
 0.0.0.0 vnhopqua.com
 0.0.0.0 vnietinbank.com
+0.0.0.0 vnmcrd2s.online
 0.0.0.0 vnpanda.shop
 0.0.0.0 vnpay-quetthetindung.com
 0.0.0.0 vnpay-ruttientindung.com
@@ -3847,6 +3866,7 @@
 0.0.0.0 vnsshoppe.com
 0.0.0.0 vntanghanmucvisadebit.com
 0.0.0.0 vntiki.shop
+0.0.0.0 vntiki1.com
 0.0.0.0 vntiki11.com
 0.0.0.0 vntikiship.com
 0.0.0.0 vntkm.com
