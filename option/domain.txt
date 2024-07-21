@@ -484,7 +484,6 @@ static.affiliate.rakuten.co.jp
 xml.affiliate.rakuten.co.jp
 rat.rakuten.co.jp
 secure.rat.rakuten.co.jp
-ads.facebook.com
 an.facebook.com
 pixel.facebook.com
 o.update.fbsbx.com
@@ -498,7 +497,6 @@ privatestats.whatsapp.net
 ads-api.twitter.com
 ads-bidder-api.twitter.com
 ads.twitter.com
-analytics.twitter.com
 ads-twitter.com
 static.ads-twitter.com
 adeventtracker.spotify.com
@@ -3131,10 +3129,8 @@ adserver2.reklamstore.com
 reklamstore.com
 pixel.reklamstore.com
 img.reklamstore.com
-addtoany.com
 static.addtoany.com
 stats.addtoany.com
-www.addtoany.com
 cdn.staticstuff.net
 hello.staticstuff.net
 spy.staticstuff.net
@@ -5942,14 +5938,6 @@ hadsimz.com
 hadsipz.com
 hadskiz.com
 hadsokz.com
-adjust.com
-app.adjust.com
-atom.adjust.com
-events.adjust.com
-s2s.adjust.com
-view.adjust.com
-adjust.io
-app.adjust.io
 aas-nv-a.aaxads.com
 aaxads.com
 bidder-east.aaxads.com
@@ -9275,10 +9263,6 @@ target-us.samsung.com
 analytics.bigdata.samsung.com
 adconsent.samsungrs.com
 sspapi-prd.samsungrs.com
-edge-geo.nc0.co
-nc0.co
-pixel.nc0.co
-t.nc0.co
 reactful.com
 tracking.reactful.com
 visitor.reactful.com
@@ -16930,6 +16914,7 @@ offwurqzia.com
 ofhappinyer.com
 ofleafeona.com
 ofnumeltor.com
+ofplredpogw.com
 ofqaqsazxli.com
 ofqopmnpia.com
 ofsyuxaveckulgf.com
@@ -19751,6 +19736,8 @@ api.wipmania.com
 api2.poperblocker.com
 apolloprogram.io
 app-analytics-services.com
+app.adjust.com
+app.adjust.io
 app.adjust.net.in
 app.adjust.world
 app.posthog.com
@@ -20082,6 +20069,7 @@ pixel.chaty.app
 pixel.gliacloud.com
 pixel.homeapp.team
 pixel.ipinfo.io
+pixel.nc0.co
 pixel.pointmediatracker.com
 pixel.s3xified.com
 pixel.wp.com

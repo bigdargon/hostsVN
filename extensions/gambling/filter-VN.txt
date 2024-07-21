@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 20 Jul 2024 23:09 UTC+7
-! Version: 2407202309
-! Blocked: 5,050 rules
+! Last modified: 21 Jul 2024 22:13 UTC+7
+! Version: 2407212213
+! Blocked: 5,051 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -728,6 +728,7 @@
 ||b29.bet^
 ||b29.cafe^
 ||b29qc.win^
+||b52.game^
 ||b52.me^
 ||b52.mobi^
 ||b52.vin^

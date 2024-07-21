@@ -554,7 +554,6 @@
 0.0.0.0 rat.rakuten.co.jp
 0.0.0.0 secure.rat.rakuten.co.jp
 #[facebook]
-0.0.0.0 ads.facebook.com
 0.0.0.0 an.facebook.com
 0.0.0.0 pixel.facebook.com
 #[update.fbsbx.com]
@@ -571,7 +570,6 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads.twitter.com
-0.0.0.0 analytics.twitter.com
 #[ads-twitter.com]
 0.0.0.0 ads-twitter.com
 0.0.0.0 static.ads-twitter.com
@@ -3441,11 +3439,9 @@
 0.0.0.0 reklamstore.com
 0.0.0.0 pixel.reklamstore.com
 0.0.0.0 img.reklamstore.com
-#[addtoany]
-0.0.0.0 addtoany.com
+#[addtoany.com]
 0.0.0.0 static.addtoany.com
 0.0.0.0 stats.addtoany.com
-0.0.0.0 www.addtoany.com
 #[staticstuff]
 0.0.0.0 cdn.staticstuff.net
 0.0.0.0 hello.staticstuff.net
@@ -6491,16 +6487,6 @@
 0.0.0.0 hadsipz.com
 0.0.0.0 hadskiz.com
 0.0.0.0 hadsokz.com
-#[adjust.com]
-0.0.0.0 adjust.com
-0.0.0.0 app.adjust.com
-0.0.0.0 atom.adjust.com
-0.0.0.0 events.adjust.com
-0.0.0.0 s2s.adjust.com
-0.0.0.0 view.adjust.com
-#[adjust.io]
-0.0.0.0 adjust.io
-0.0.0.0 app.adjust.io
 #[aaxads.com]
 0.0.0.0 aas-nv-a.aaxads.com
 0.0.0.0 aaxads.com
@@ -10386,11 +10372,6 @@
 #[samsungrs.com]
 0.0.0.0 adconsent.samsungrs.com
 0.0.0.0 sspapi-prd.samsungrs.com
-#[nc0.co]
-0.0.0.0 edge-geo.nc0.co
-0.0.0.0 nc0.co
-0.0.0.0 pixel.nc0.co
-0.0.0.0 t.nc0.co
 #[reactful.com]
 0.0.0.0 reactful.com
 0.0.0.0 tracking.reactful.com

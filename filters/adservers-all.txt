@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Jul 2024 23:07 UTC+7
-! Version: 2407202307
+! Last modified: 21 Jul 2024 22:12 UTC+7
+! Version: 2407212212
 ! Blocked: 10,897 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -1018,7 +1018,6 @@
 ||addthis.com^
 ||addthiscdn.com^
 ||addthisedge.com^
-||addtoany.com^
 ||adelement.com^
 ||adevents.msn.com^
 ||adeventtracker.spotify.com^
@@ -1043,8 +1042,6 @@
 ||adingo.jp^
 ||adinsight.co.kr^
 ||adition.com^
-||adjust.com^
-||adjust.io^
 ||adk2x.com^
 ||adkernel.com^
 ||adkwai.com^
@@ -1113,7 +1110,6 @@
 ||ads.*.yahoo.com^
 ||ads.bing.com^
 ||ads.cdn.rovio.com^
-||ads.facebook.com^
 ||ads.gmodules.com^
 ||ads.google.com^
 ||ads.heytapmobi.com^
@@ -1318,7 +1314,6 @@
 ||analytics.starmakerstudios.com^
 ||analytics.tango.me^
 ||analytics.tiktok.com^
-||analytics.twitter.com^
 ||analytics.uca.cloud.unity3d.com^
 ||analytics.unity3d.com^
 ||analytics.yahoo.com^
@@ -2208,7 +2203,6 @@
 ||nakanohito.jp^
 ||navdmp.com^
 ||nbryb.com^
-||nc0.co^
 ||ncaudienceexchange.com^
 ||nelo2-col.linecorp.com^
 ||nend.net^
@@ -2562,7 +2556,9 @@
 ||statgw.devtodev.com^
 ||static-doubleclick-net.l.google.com^
 ||static-tracking.klaviyo.com^
+||static.addtoany.com^
 ||staticstuff.net^
+||stats.addtoany.com^
 ||stats.adobe.com^
 ||stats.avast.com^
 ||stats.paypal.com^
@@ -4133,6 +4129,8 @@
 ||apolloprogram.io^
 ||app-analytics-services.com^
 ||app-promo.com^
+||app.adjust.com^
+||app.adjust.io^
 ||app.adjust.net.in^
 ||app.adjust.world^
 ||app.posthog.com^
@@ -7952,6 +7950,7 @@
 ||ofhappinyer.com^
 ||ofleafeona.com^
 ||ofnumeltor.com^
+||ofplredpogw.com^
 ||ofqaqsazxli.com^
 ||ofqopmnpia.com^
 ||ofsyuxaveckulgf.com^
@@ -8385,6 +8384,7 @@
 ||pixel.ipinfo.io^
 ||pixel.leadzu.com^
 ||pixel.mediaiqdigital.com^
+||pixel.nc0.co^
 ||pixel.personagraph.com^
 ||pixel.pointmediatracker.com^
 ||pixel.reddit.com^

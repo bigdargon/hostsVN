@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 20 Jul 2024 23:07 UTC+7
-# Version: 2407202307
-# Blocked: 20,416 domains
+# Last modified: 21 Jul 2024 22:12 UTC+7
+# Version: 2407212212
+# Blocked: 20,404 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -500,7 +500,6 @@
 0 xml.affiliate.rakuten.co.jp
 0 rat.rakuten.co.jp
 0 secure.rat.rakuten.co.jp
-0 ads.facebook.com
 0 an.facebook.com
 0 pixel.facebook.com
 0 o.update.fbsbx.com
@@ -514,7 +513,6 @@
 0 ads-api.twitter.com
 0 ads-bidder-api.twitter.com
 0 ads.twitter.com
-0 analytics.twitter.com
 0 ads-twitter.com
 0 static.ads-twitter.com
 0 adeventtracker.spotify.com
@@ -3147,10 +3145,8 @@
 0 reklamstore.com
 0 pixel.reklamstore.com
 0 img.reklamstore.com
-0 addtoany.com
 0 static.addtoany.com
 0 stats.addtoany.com
-0 www.addtoany.com
 0 cdn.staticstuff.net
 0 hello.staticstuff.net
 0 spy.staticstuff.net
@@ -5958,14 +5954,6 @@
 0 hadsipz.com
 0 hadskiz.com
 0 hadsokz.com
-0 adjust.com
-0 app.adjust.com
-0 atom.adjust.com
-0 events.adjust.com
-0 s2s.adjust.com
-0 view.adjust.com
-0 adjust.io
-0 app.adjust.io
 0 aas-nv-a.aaxads.com
 0 aaxads.com
 0 bidder-east.aaxads.com
@@ -9291,10 +9279,6 @@
 0 analytics.bigdata.samsung.com
 0 adconsent.samsungrs.com
 0 sspapi-prd.samsungrs.com
-0 edge-geo.nc0.co
-0 nc0.co
-0 pixel.nc0.co
-0 t.nc0.co
 0 reactful.com
 0 tracking.reactful.com
 0 visitor.reactful.com
@@ -16946,6 +16930,7 @@
 0 ofhappinyer.com
 0 ofleafeona.com
 0 ofnumeltor.com
+0 ofplredpogw.com
 0 ofqaqsazxli.com
 0 ofqopmnpia.com
 0 ofsyuxaveckulgf.com
@@ -19767,6 +19752,8 @@
 0 api2.poperblocker.com
 0 apolloprogram.io
 0 app-analytics-services.com
+0 app.adjust.com
+0 app.adjust.io
 0 app.adjust.net.in
 0 app.adjust.world
 0 app.posthog.com
@@ -20098,6 +20085,7 @@
 0 pixel.gliacloud.com
 0 pixel.homeapp.team
 0 pixel.ipinfo.io
+0 pixel.nc0.co
 0 pixel.pointmediatracker.com
 0 pixel.s3xified.com
 0 pixel.wp.com
