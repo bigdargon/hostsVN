@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 21 Jul 2024 22:13 UTC+7
-! Version: 2407212213
-! Blocked: 5,051 rules
+! Last modified: 31 Jul 2024 14:25 UTC+7
+! Version: 2407311425
+! Blocked: 5,053 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3868,6 +3868,7 @@
 ||qc.top88.uk^
 ||qc.top88.us^
 ||qc.top88.vn^
+||qc.vaobet.club^
 ||qc.vic.win^
 ||qc.x8.club^
 ||qc.x8.games^
@@ -4539,6 +4540,7 @@
 ||vao789club.win^
 ||vao78win.xyz^
 ||vaob52.click^
+||vaobet.club^
 ||vaoku.net^
 ||vaorikvip.com^
 ||vaorikvip.net^

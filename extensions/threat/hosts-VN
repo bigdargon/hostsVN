@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 21 Jul 2024 22:13 UTC+7
-# Version: 2407212213
-# Blocked: 4,187 domains
+# Last modified: 31 Jul 2024 14:25 UTC+7
+# Version: 2407311425
+# Blocked: 4,188 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3098,6 +3098,7 @@
 0.0.0.0 tracuugiaodichvi.com
 0.0.0.0 tracuugplx.vn
 0.0.0.0 tracuuthenap247.com
+0.0.0.0 tracuutthvt.com
 0.0.0.0 traderviet88.com
 0.0.0.0 trang-chu-vn.com
 0.0.0.0 trangbaotuoitre.com
