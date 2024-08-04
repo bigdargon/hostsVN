@@ -419,8 +419,6 @@
 #[amazonaws.com]
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
-#[popadex-*.us-east-1.elb.amazonaws.com]
-0.0.0.0 popadex-1919430815.us-east-1.elb.amazonaws.com
 #[s3.amazonaws.com]
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtechvideo.s3.amazonaws.com

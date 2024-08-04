@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 31 Jul 2024 14:25 UTC+7
-! Version: 2407311425
-! Blocked: 4,507 rules
+! Last modified: 04 Aug 2024 16:49 UTC+7
+! Version: 2408041649
+! Blocked: 4,509 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2320,6 +2320,7 @@
 ||quydoichuyenkhoanquocte.weebly.com^
 ||quydoitienquocte24h7azx.weebly.com^
 ||quytiente.com^
+||r01lacou.azidp.tech^
 ||rategicstrai.cfd^
 ||re0y7d.cyou^
 ||reallkeys.com^
@@ -4501,6 +4502,7 @@
 ||ynefefyopqvu.com^
 ||youtuber-cash.buzz^
 ||yunduofei.xyz^
+||zSmhlV.zgbv.tech^
 ||zalorashop.com^
 ||zeroshop.cc^
 ||zingmp3.pro^

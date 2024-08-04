@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Aug 2024 21:36 UTC+7
-# Version: 2408012136
-# Blocked: 20,406 domains
+# Last modified: 04 Aug 2024 16:48 UTC+7
+# Version: 2408041648
+# Blocked: 20,427 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -390,7 +390,6 @@
 0 z-na.amazon-adsystems.com
 0 cloudfront-labs.amazonaws.com
 0 mobileanalytics.us-east-1.amazonaws.com
-0 popadex-1919430815.us-east-1.elb.amazonaws.com
 0 adtago.s3.amazonaws.com
 0 adtechvideo.s3.amazonaws.com
 0 advice-ads.s3.amazonaws.com
@@ -11704,6 +11703,7 @@
 0 adjusts.info
 0 adm.phunusuckhoe.vn
 0 adm.phunuvagiadinh.vn
+0 admin.giaminhmedia.vn
 0 admin.sothuchi.vn
 0 adms.phunusuckhoe.vn
 0 adpostback.headlines.pw
@@ -11713,6 +11713,7 @@
 0 ads.568play.vn
 0 ads.6svn.com
 0 ads.admatrix.vn
+0 ads.alobacsi.vn
 0 ads.autonet.com.vn
 0 ads.baoangiang.com.vn
 0 ads.baobinhduong.vn
@@ -11733,11 +11734,13 @@
 0 ads.cungcau.vn
 0 ads.fpt.vn
 0 ads.fptplay.net.vn
+0 ads.giaminhmedia.vn
 0 ads.gosu.vn
 0 ads.home.vn
 0 ads.homedy.net
 0 ads.ictnews.vn
 0 ads.inetgroup.vn
+0 ads.ketnoitatca.net
 0 ads.kiemsat.vn
 0 ads.lamchame.vn
 0 ads.laodongbinhduong.org.vn
@@ -11784,6 +11787,7 @@
 0 adv.anhsangvacuocsong.vn
 0 adv.autosurf.vn
 0 adv.baoangiang.com.vn
+0 adv.baotayninh.vn
 0 adv.baotintuc.vn
 0 adv.baovemoitruong.org.vn
 0 adv.thuvienphapluat.vn
@@ -12184,6 +12188,7 @@
 0 tracker.phunuvagiadinh.vn
 0 tracker.thichxemphim.net
 0 tracking-web.smobgame.com
+0 tracking.10gb.vn
 0 tracking.appwifi.com
 0 tracking.cystack.net
 0 tracking.dantri.com.vn
@@ -12194,6 +12199,7 @@
 0 tracking.hongtinnhanh.com
 0 tracking.meta.vn
 0 tracking.phunuadong.vn
+0 tracking.saostar.vn
 0 tracking.tekoapis.com
 0 tracking.tinxe.vn
 0 tracking.tuyenquang.gov.vn
@@ -12848,6 +12854,7 @@
 0 ads.miarroba.com
 0 ads.mmania.com
 0 ads.mobilebet.com
+0 ads.mxhnkn.pro
 0 ads.ndtv1.com
 0 ads.networksolutions.com
 0 ads.newgrounds.com
@@ -12983,12 +12990,14 @@
 0 adscfg.uqualities.com
 0 adschill.com
 0 adscholar.com
+0 adsclick.cc
 0 adscpm.com
 0 adsdaq.com
 0 adsdk.com
 0 adsemo.com
 0 adsend.de
 0 adsensecustomsearchads.com
+0 adserv.etv.sale
 0 adserve.ams.rhythmxchange.com
 0 adserver-e7.com
 0 adserver.adultfriendfinder.com
@@ -13004,6 +13013,7 @@
 0 adserver.html.it
 0 adserver.hwupgrade.it
 0 adserver.janes.com
+0 adserver.kl-youniverse.com
 0 adserver.mgsex.com
 0 adserver.ngz-network.de
 0 adserver.nydailynews.com
@@ -14639,6 +14649,7 @@
 0 deewansturacin.com
 0 defeatedbadge.com
 0 defectivesun.com
+0 defensive-living.com
 0 defrostjudica.com
 0 defyraspypuke.com
 0 delegatediscussion.com
@@ -14835,6 +14846,7 @@
 0 dummieseardrum.com
 0 dustyhammer.com
 0 duwtkigcyxh.com
+0 duzcujquzl.com
 0 duzzufaxzavs.com
 0 dvmludkami.com
 0 dxgo95ahe73e8.cloudfront.net
@@ -15677,6 +15689,7 @@
 0 howtubray.com
 0 hpijkah.com
 0 hpikarkucasz.com
+0 hpimavpico.com
 0 hppvkbfcuq.com
 0 hqtfjugceattb.com
 0 hrgyhgxcbvwxs.com
@@ -16690,6 +16703,7 @@
 0 mystat-in.net
 0 mystat.pl
 0 mysteriousmonth.com
+0 mysweetsconnect.click
 0 mythings.com
 0 mytop-in.net
 0 myvisualiq.net
@@ -17212,6 +17226,7 @@
 0 partnercash.de
 0 partnerlinks.io
 0 partners.priceline.com
+0 partners.urbanistnetwork.com
 0 partnerstack.com
 0 pasbstbovc.com
 0 pasjcutadak.com
@@ -17542,6 +17557,7 @@
 0 pubaka5.com
 0 pubdirecte.com
 0 pubeshogback.uno
+0 pubfuture-ad.com
 0 pubianmending.space
 0 pubimageboard.com
 0 public.wedodemos.com
@@ -17567,6 +17583,7 @@
 0 puppyderisiverear.com
 0 pupspu.com
 0 puqszoxagogc.com
+0 purgavax.com
 0 purmogak.com
 0 push-notifications.top
 0 pushadve.biz
@@ -19883,6 +19900,8 @@
 0 dyv1bugovvq1g.cloudfront.net
 0 e.viously.com
 0 e2.platform88798.com
+0 ea.epochbase.com
+0 ea.youmaker.com
 0 ebxcdn.com
 0 emltrk.com
 0 ethtrader.de
@@ -20102,6 +20121,7 @@
 0 poole-collector-prod.n3twork.com
 0 popupmaker.com
 0 privacy-policy.truste.com
+0 prod.uidapi.com
 0 proftrafficcounter.com
 0 promotionengine.com
 0 prooffactor.com
@@ -20314,6 +20334,7 @@
 0 tracking.monsido.com
 0 tracking.musixmatch.com
 0 tracking.scenepass.com
+0 tracking.the.tube
 0 trackingflaregames.net
 0 trackwilltrk.com
 0 traxex.gannettdigital.com

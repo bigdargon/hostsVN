@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 31 Jul 2024 14:25 UTC+7
-! Version: 2407311425
-! Blocked: 3,539 rules
+! Last modified: 04 Aug 2024 16:49 UTC+7
+! Version: 2408041649
+! Blocked: 3,541 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2620,6 +2620,7 @@
 ||subjavz.com^
 ||sugababy.xyz^
 ||sugarbabi.com^
+||suongvl.cc^
 ||swebcam.cam^
 ||t.htvncdn.net^
 ||taianhsex.com^
@@ -3011,6 +3012,7 @@
 ||vlxx.la^
 ||vlxx.lat^
 ||vlxx.live^
+||vlxx.lol^
 ||vlxx.me^
 ||vlxx.media^
 ||vlxx.men^
