@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Aug 2024 16:48 UTC+7
-! Version: 2408041648
-! Blocked: 10,920 rules
+! Last modified: 06 Aug 2024 23:13 UTC+7
+! Version: 2408062313
+! Blocked: 10,921 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3917,6 +3917,7 @@
 ||ajar-substance.com^
 ||ajfmiqxugc.com^
 ||ajfnee.com^
+||ajggirci.com^
 ||ajkdtajpaw.com^
 ||ajkoplopnza.com^
 ||ajouter.net^
