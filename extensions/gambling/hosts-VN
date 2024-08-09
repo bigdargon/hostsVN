@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 06 Aug 2024 23:14 UTC+7
-# Version: 2408062314
-# Blocked: 5,730 domains
+# Last modified: 09 Aug 2024 11:06 UTC+7
+# Version: 2408091106
+# Blocked: 5,739 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -723,6 +723,7 @@
 0.0.0.0 b1388.com
 0.0.0.0 b29.bet
 0.0.0.0 b29.cafe
+0.0.0.0 b29.pub
 0.0.0.0 b29qc.win
 0.0.0.0 b52.game
 0.0.0.0 b52.me
@@ -744,11 +745,13 @@
 0.0.0.0 b89.bet
 0.0.0.0 bacty88.com
 0.0.0.0 banca-red88.top
+0.0.0.0 banca.cc
 0.0.0.0 banca.red88.us
 0.0.0.0 banca.xo68.vip
 0.0.0.0 bancadoithuongvn.com
 0.0.0.0 bancakings.com
 0.0.0.0 bancalucky88.com
+0.0.0.0 bancarongdoi.com
 0.0.0.0 baowin.net
 0.0.0.0 bay789.club
 0.0.0.0 bay789.io
@@ -1107,6 +1110,7 @@
 0.0.0.0 dagachoi.tv
 0.0.0.0 dagacuadao.org
 0.0.0.0 dagahomqua.com
+0.0.0.0 dagaok88.net
 0.0.0.0 dagatructiep.casino
 0.0.0.0 dagatructiep.io
 0.0.0.0 dagatructiep24h.net
@@ -3259,6 +3263,7 @@
 0.0.0.0 lode555.com
 0.0.0.0 lode88.online
 0.0.0.0 lode88.vip
+0.0.0.0 lode88j.cc
 0.0.0.0 lodegoc.net
 0.0.0.0 lodevip.us
 0.0.0.0 lodevn789.net
@@ -3277,6 +3282,7 @@
 0.0.0.0 lp.go8vui.info
 0.0.0.0 lp.macauclub.fun
 0.0.0.0 lp.mayclub.net
+0.0.0.0 lp.playrik79.site
 0.0.0.0 lp.rikvip.tv
 0.0.0.0 lp.rikvipp.net
 0.0.0.0 lp.sun6.win
@@ -3813,6 +3819,7 @@
 0.0.0.0 playmanclub.vin
 0.0.0.0 playmay88.top
 0.0.0.0 playmay88.vin
+0.0.0.0 playrik79.site
 0.0.0.0 playuk88.win
 0.0.0.0 playv8.com
 0.0.0.0 playv8.vip
@@ -3915,6 +3922,7 @@
 0.0.0.0 red88.vin
 0.0.0.0 red88.vip
 0.0.0.0 red88e.com
+0.0.0.0 reg.lode88j.cc
 0.0.0.0 reg.playiwin.site
 0.0.0.0 resources.bong90.bet
 0.0.0.0 rewards.w88bkk.com
@@ -4209,6 +4217,7 @@
 0.0.0.0 ta88.org
 0.0.0.0 ta88.vip
 0.0.0.0 tai-sumvip.city
+0.0.0.0 tai.b29.pub
 0.0.0.0 tai.b52vn.fun
 0.0.0.0 tai.b69.bar
 0.0.0.0 tai.boc8.fun

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 06 Aug 2024 23:14 UTC+7
-! Version: 2408062314
-! Blocked: 5,087 rules
+! Last modified: 09 Aug 2024 11:06 UTC+7
+! Version: 2408091106
+! Blocked: 5,096 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -728,6 +728,7 @@
 ||b1388.com^
 ||b29.bet^
 ||b29.cafe^
+||b29.pub^
 ||b29qc.win^
 ||b52.game^
 ||b52.me^
@@ -749,11 +750,13 @@
 ||b89.bet^
 ||bacty88.com^
 ||banca-red88.top^
+||banca.cc^
 ||banca.red88.us^
 ||banca.xo68.vip^
 ||bancadoithuongvn.com^
 ||bancakings.com^
 ||bancalucky88.com^
+||bancarongdoi.com^
 ||baowin.net^
 ||bay789.club^
 ||bay789.io^
@@ -1113,6 +1116,7 @@
 ||dagachoi.tv^
 ||dagacuadao.org^
 ||dagahomqua.com^
+||dagaok88.net^
 ||dagatructiep.casino^
 ||dagatructiep.io^
 ||dagatructiep24h.net^
@@ -3270,6 +3274,7 @@
 ||lode555.com^
 ||lode88.online^
 ||lode88.vip^
+||lode88j.cc^
 ||lodegoc.net^
 ||lodevip.us^
 ||lodevn789.net^
@@ -3288,6 +3293,7 @@
 ||lp.go8vui.info^
 ||lp.macauclub.fun^
 ||lp.mayclub.net^
+||lp.playrik79.site^
 ||lp.rikvip.tv^
 ||lp.rikvipp.net^
 ||lp.sun6.win^
@@ -3825,6 +3831,7 @@
 ||playmanclub.vin^
 ||playmay88.top^
 ||playmay88.vin^
+||playrik79.site^
 ||playuk88.win^
 ||playv8.com^
 ||playv8.vip^
@@ -3929,6 +3936,7 @@
 ||red88.vin^
 ||red88.vip^
 ||red88e.com^
+||reg.lode88j.cc^
 ||reg.playiwin.site^
 ||resources.bong90.bet^
 ||rewards.w88bkk.com^
@@ -4230,6 +4238,7 @@
 ||ta88.org^
 ||ta88.vip^
 ||tai-sumvip.city^
+||tai.b29.pub^
 ||tai.b52vn.fun^
 ||tai.b69.bar^
 ||tai.boc8.fun^
