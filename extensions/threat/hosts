@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 09 Aug 2024 11:06 UTC+7
-# Version: 2408091106
-# Blocked: 4,578 domains
+# Last modified: 10 Aug 2024 16:33 UTC+7
+# Version: 2408101633
+# Blocked: 4,596 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -259,6 +259,7 @@
 0.0.0.0 baotienphong.net
 0.0.0.0 baotrixanhvn.com
 0.0.0.0 baoviet-vn.cc
+0.0.0.0 baovietn.vip
 0.0.0.0 barbecueappledos.pw
 0.0.0.0 bb9998.com
 0.0.0.0 bbankpower.com
@@ -349,6 +350,7 @@
 0.0.0.0 cettiarl.com
 0.0.0.0 cf222.art
 0.0.0.0 cgovn.cc
+0.0.0.0 cham-soc-the-truc-tuyen.com.vn
 0.0.0.0 chamsockhachang.com
 0.0.0.0 chamsockhachhang-tructuyenuudaithe.online
 0.0.0.0 chamsockhachhang-uudai-the-truc-tuyen.online
@@ -374,6 +376,7 @@
 0.0.0.0 chientich-sinhnhat-lienquanvn.gq
 0.0.0.0 chientich-sinhnhatlienquangarenavn.ml
 0.0.0.0 chinhphu.cc
+0.0.0.0 chinhphu.thongtincutru.org
 0.0.0.0 chovayfecredit.com
 0.0.0.0 chovaynhanh.online
 0.0.0.0 chovaytiengopsg.com
@@ -916,6 +919,7 @@
 0.0.0.0 getintopc.digital
 0.0.0.0 getmacos.org
 0.0.0.0 getwindowsactivator.info
+0.0.0.0 ggiao.hangtietkiem.com
 0.0.0.0 ggzzmm.shop
 0.0.0.0 ghnn11.com
 0.0.0.0 ghnn22.com
@@ -975,6 +979,7 @@
 0.0.0.0 goshopee.club
 0.0.0.0 goshopee.net
 0.0.0.0 goshopee.vip
+0.0.0.0 govn.cc
 0.0.0.0 gpay-mpos-ruttientindung.com
 0.0.0.0 gpay247-mp0s-quetthetindung.com
 0.0.0.0 gplxgovn.vn
@@ -1054,6 +1059,7 @@
 0.0.0.0 hethongdonhang.com
 0.0.0.0 hethonggiaodichvidientu247.com
 0.0.0.0 hethongquatang.vn
+0.0.0.0 hethongvaynhanh247.com
 0.0.0.0 hethongviet99.com
 0.0.0.0 hgff11.com
 0.0.0.0 hhwd68.com
@@ -1075,6 +1081,7 @@
 0.0.0.0 hocsinhthanhlich21.xyz
 0.0.0.0 hoinhiepanhbg.blogspot.com
 0.0.0.0 hoiquanlq.vn
+0.0.0.0 homecredit.hethongvaynhanh247.com
 0.0.0.0 homecredit1.com
 0.0.0.0 homecreditvn.net
 0.0.0.0 homevi1.tintuc-vi-vn.xyz
@@ -1308,6 +1315,7 @@
 0.0.0.0 ktien.vn
 0.0.0.0 kuurza.com
 0.0.0.0 kuyhaa-me.pw
+0.0.0.0 kyaj11.com
 0.0.0.0 l-fb.co
 0.0.0.0 la533.com
 0.0.0.0 la5959.com
@@ -1545,6 +1553,7 @@
 0.0.0.0 mbbankmn.com
 0.0.0.0 mbbankn.com
 0.0.0.0 mbbffn.online
+0.0.0.0 mbbkh-canhan.com
 0.0.0.0 mbcanhan-cskh.com
 0.0.0.0 mbdk99.com
 0.0.0.0 mbdkb.com
@@ -1616,6 +1625,7 @@
 0.0.0.0 mkshopmobi.xyz
 0.0.0.0 mlazada.com
 0.0.0.0 mlswl.shop
+0.0.0.0 mmbonline01.com
 0.0.0.0 mmocorporation2017.com
 0.0.0.0 mmomo.me
 0.0.0.0 mmovietnam.info
@@ -2648,6 +2658,7 @@
 0.0.0.0 shopeeshoppimg.com
 0.0.0.0 shopeesmarket.com
 0.0.0.0 shopeeson.com
+0.0.0.0 shopeesopp.com
 0.0.0.0 shopeesukien.com
 0.0.0.0 shopeetiki.com
 0.0.0.0 shopeetro.club
@@ -3133,6 +3144,7 @@
 0.0.0.0 tdkd03.com
 0.0.0.0 tdkd07.com
 0.0.0.0 tdkd08.com
+0.0.0.0 tdke03.com
 0.0.0.0 tdkt00.com
 0.0.0.0 tdkt01.com
 0.0.0.0 tdkt04.com
@@ -3190,6 +3202,7 @@
 0.0.0.0 thisinhthanhlich.com
 0.0.0.0 thisinhthanhlich2022.com
 0.0.0.0 thisinhthanhlich2024.com
+0.0.0.0 thongtincutru.org
 0.0.0.0 thongtindancu.org
 0.0.0.0 thongtindonhang.com
 0.0.0.0 thpthuynhthuckhang.edu.vn
@@ -3802,6 +3815,7 @@
 0.0.0.0 vib-tindung.online
 0.0.0.0 vib-up-the.shop
 0.0.0.0 vib-vay.com
+0.0.0.0 vib.cham-soc-the-truc-tuyen.com.vn
 0.0.0.0 vib.chamsockhachang-tructuyen-the.online
 0.0.0.0 vib.chamsockhachang-tructuyen.online
 0.0.0.0 vib.chamsockhachhang-tructuyen-the-visa.com
@@ -4190,6 +4204,7 @@
 0.0.0.0 vnpaycredit-ruttientindung247.com
 0.0.0.0 vnpaycreditruttientindung-247.com
 0.0.0.0 vnpt99.com
+0.0.0.0 vnsehotro.com
 0.0.0.0 vnsendo.info
 0.0.0.0 vnsendo.net
 0.0.0.0 vnsendo.shop
@@ -4229,6 +4244,7 @@
 0.0.0.0 vnvietcombank.cc
 0.0.0.0 vnvietcombanks.cc
 0.0.0.0 vnvietjet.com
+0.0.0.0 vnviettel.com
 0.0.0.0 vnwish.shop
 0.0.0.0 vodkaquang.com
 0.0.0.0 vongloai.vn
@@ -4433,6 +4449,7 @@
 0.0.0.0 woorivn.online
 0.0.0.0 word.emldn.com
 0.0.0.0 wutienitme247.info
+0.0.0.0 wvOntgd.pqmg.bid
 0.0.0.0 wvietcombank.com
 0.0.0.0 wviietcombank.com
 0.0.0.0 wvvietcombank.com
@@ -4584,6 +4601,7 @@
 0.0.0.0 zla963.top
 0.0.0.0 zmomo.cc
 0.0.0.0 znavidsde.cfd
+0.0.0.0 zutube.pro
 0.0.0.0 zvay.online
 0.0.0.0 zvc.cc
 0.0.0.0 zvietcombank.com

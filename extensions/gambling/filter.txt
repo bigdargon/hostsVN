@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 09 Aug 2024 11:06 UTC+7
-! Version: 2408091106
-! Blocked: 157,277 rules
+! Last modified: 10 Aug 2024 16:33 UTC+7
+! Version: 2408101633
+! Blocked: 157,315 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -88503,12 +88503,17 @@
 ||ads06.win888b.com^
 ||ads08.win888b.com^
 ||ads09.win888b.com^
+||ads1.thangto.one^
 ||ads11.win888b.com^
 ||ads13.win888b.com^
 ||ads14.win888b.com^
 ||ads16.win888b.com^
+||ads2.thangto.one^
 ||ads23.win888b.com^
+||ads3.thangto.one^
+||ads4.thangto.one^
 ||ads5.dangkybum.club^
+||ads5.thangto.one^
 ||adsdsd.com^
 ||adsia5.com^
 ||adub91q.com^
@@ -89713,6 +89718,7 @@
 ||api.ae888sports02.com^
 ||api.aecricex.xyz^
 ||api.apiwyn88.net^
+||api.bachhoa88.com^
 ||api.betlv.com^
 ||api.btyseo.com^
 ||api.c5l1t57.site^
@@ -89771,6 +89777,7 @@
 ||api.red88.vip^
 ||api.s999h.com^
 ||api.sbty9.com^
+||api.sfffdak.com^
 ||api.shbet0.com^
 ||api.shbet3.com^
 ||api.shbetvv.com^
@@ -89790,6 +89797,7 @@
 ||api.vie2655641.com^
 ||api.vie2655650.com^
 ||api.vl16881.com^
+||api.vl16894.com^
 ||api.vn1610.com^
 ||api.vn357.bet^
 ||api.vn666.bet^
@@ -92367,6 +92375,7 @@
 ||babysplan.net^
 ||bacc1688.com^
 ||baccaratonline.win^
+||bachhoa88.com^
 ||backoffice.bsport.io^
 ||bacty88.com^
 ||bacuw.com^
@@ -94367,6 +94376,7 @@
 ||betfootaffiliate.com^
 ||betfredaffiliates.com^
 ||betfredsports.com^
+||betfrenzy777.com^
 ||betg11.com^
 ||betgratis.info^
 ||bethappyway.com^
@@ -100066,6 +100076,7 @@
 ||cdn.hg66sdt65nfx64.com^
 ||cdn.imvet.net^
 ||cdn.kingbet86.info^
+||cdn.lfastcdn.com^
 ||cdn.megawin88.mobi^
 ||cdn.sasrepublic.com^
 ||cdn.vbet88.fun^
@@ -102961,7 +102972,9 @@
 ||debet88.win^
 ||debet9.com^
 ||debet99.com^
+||deca.bet^
 ||deca88.com^
+||deca88.online^
 ||decathlonmn.com^
 ||dechengmeiyua8.com^
 ||deciaccbqdvo--256--668.casino^
@@ -106823,6 +106836,7 @@
 ||fl68ky.com^
 ||fl88.fun^
 ||fl98.fun^
+||flabbychicken.online^
 ||flabet90.com^
 ||flashivy.xyz^
 ||flc8885.com^
@@ -111822,6 +111836,7 @@
 ||hfbaas51.top^
 ||hfbaas52.top^
 ||hfbaas53.top^
+||hfdkj.com^
 ||hfdy168.com^
 ||hfhmw.win^
 ||hfn29.com^
@@ -124491,7 +124506,9 @@
 ||ko166.net^
 ||ko199.net^
 ||ko66aa.com^
+||ko66aa.org^
 ||ko66aa.vip^
+||ko66ads3.online^
 ||ko66bb.org^
 ||ko66cc.vip^
 ||ko66dd.vip^
@@ -125477,6 +125494,7 @@
 ||landpage.xocdiawin.com^
 ||landpage.yallogame.com^
 ||lang-bo.com^
+||langdingpageinfo-default-rtdb.asia-southeast1.firebasedatabase.app^
 ||langsungmenang.com^
 ||langvuichoi.net^
 ||laofu8fun.com^
@@ -130776,6 +130794,7 @@
 ||neojbo.com^
 ||neoyuer.xyz^
 ||nerdysport.com^
+||net.wsystems.co^
 ||net88.vip^
 ||netapp00382.com^
 ||netapp00384.com^
@@ -134083,6 +134102,7 @@
 ||play.top88.vn^
 ||play.vaob52.click^
 ||play.vic.win^
+||play.vie2655649.com^
 ||play.vip79.com^
 ||play.vip79.vip^
 ||play.vn-apps-google.com^
@@ -137237,6 +137257,7 @@
 ||s896387.com^
 ||s89777.com^
 ||s8c8r78w.vip^
+||s8wu4z.vip^
 ||s90901.com^
 ||s921.xyz^
 ||s9229.com^
@@ -139087,6 +139108,7 @@
 ||sum27.club^
 ||sum4.club^
 ||sum5.club^
+||sumclub1.cc^
 ||sumclub1.live^
 ||sumclub1.xyz^
 ||summer556.com^
@@ -140405,6 +140427,7 @@
 ||taigamesumvip.info^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
+||taigametangcode50ksum.vip^
 ||taigem79.net^
 ||taigem79.win^
 ||taigenvip.club^
@@ -140896,6 +140919,7 @@
 ||thangiwin.org^
 ||thangnhanh.com^
 ||thangtien188bet.com^
+||thangto.one^
 ||thanh128.win^
 ||thanpro.com^
 ||thanquay247.vip^
@@ -144730,7 +144754,15 @@
 ||vb211.com^
 ||vb6nzg.com^
 ||vb777.co^
+||vb777.gdn^
+||vb777.ltd^
 ||vb777.top^
+||vb777a.ltd^
+||vb777b.ltd^
+||vb777c.ltd^
+||vb777d.ltd^
+||vb777hh.com^
+||vb779.com^
 ||vb88123.com^
 ||vbay88.com^
 ||vbc02.com^
@@ -145004,6 +145036,7 @@
 ||vidor168.com^
 ||vie2655641.com^
 ||vie2655645.com^
+||vie2655649.com^
 ||vie2655650.com^
 ||vie2655652.com^
 ||vie28.pro^
@@ -145014,6 +145047,7 @@
 ||vietclub.net^
 ||vietfun88.com^
 ||vietlott66.com^
+||vietnam35.com^
 ||vietnam666.com^
 ||vietnam777.com^
 ||vietnam888.com^
@@ -145574,6 +145608,7 @@
 ||vktef.com^
 ||vkxrp.win^
 ||vl16881.com^
+||vl16894.com^
 ||vl5z.vip^
 ||vlookfx.xyz^
 ||vlott88.com^
@@ -147509,6 +147544,7 @@
 ||wang2368.com^
 ||wang2385.com^
 ||wang368.com^
+||wang368wang.com^
 ||wang568.com^
 ||wangcmd368.com^
 ||wanglts.com^
@@ -147723,6 +147759,7 @@
 ||wbet99.bet^
 ||wbet99.net^
 ||wbme.live^
+||wboxmakan.biz^
 ||wbtdld.org^
 ||wbtiger.com^
 ||wbtvip.net^
@@ -148347,6 +148384,7 @@
 ||winbet99.bet^
 ||winbet99.co^
 ||winbet999.info^
+||winboxwidex.com^
 ||winbph.com^
 ||winbtt.com^
 ||wincat88.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 09 Aug 2024 11:06 UTC+7
-! Version: 2408091106
-! Blocked: 4,509 rules
+! Last modified: 10 Aug 2024 16:33 UTC+7
+! Version: 2408101633
+! Blocked: 4,527 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -256,6 +256,7 @@
 ||baotienphong.net^
 ||baotrixanhvn.com^
 ||baoviet-vn.cc^
+||baovietn.vip^
 ||barbecueappledos.pw^
 ||bb9998.com^
 ||bbankpower.com^
@@ -346,6 +347,7 @@
 ||cettiarl.com^
 ||cf222.art^
 ||cgovn.cc^
+||cham-soc-the-truc-tuyen.com.vn^
 ||chamsockhachang.com^
 ||chamsockhachhang-tructuyenuudaithe.online^
 ||chamsockhachhang-uudai-the-truc-tuyen.online^
@@ -371,6 +373,7 @@
 ||chientich-sinhnhat-lienquanvn.gq^
 ||chientich-sinhnhatlienquangarenavn.ml^
 ||chinhphu.cc^
+||chinhphu.thongtincutru.org^
 ||chovayfecredit.com^
 ||chovaynhanh.online^
 ||chovaytiengopsg.com^
@@ -915,6 +918,7 @@
 ||getintopc.digital^
 ||getmacos.org^
 ||getwindowsactivator.info^
+||ggiao.hangtietkiem.com^
 ||ggzzmm.shop^
 ||ghnn11.com^
 ||ghnn22.com^
@@ -974,6 +978,7 @@
 ||goshopee.club^
 ||goshopee.net^
 ||goshopee.vip^
+||govn.cc^
 ||gpay-mpos-ruttientindung.com^
 ||gpay247-mp0s-quetthetindung.com^
 ||gplxgovn.vn^
@@ -1055,6 +1060,7 @@
 ||hethongdonhang.com^
 ||hethonggiaodichvidientu247.com^
 ||hethongquatang.vn^
+||hethongvaynhanh247.com^
 ||hethongviet99.com^
 ||hgff11.com^
 ||hhwd68.com^
@@ -1077,6 +1083,7 @@
 ||hocsinhthanhlich21.xyz^
 ||hoinhiepanhbg.blogspot.com^
 ||hoiquanlq.vn^
+||homecredit.hethongvaynhanh247.com^
 ||homecredit1.com^
 ||homecreditvn.net^
 ||homevi1.tintuc-vi-vn.xyz^
@@ -1310,6 +1317,7 @@
 ||ktien.vn^
 ||kuurza.com^
 ||kuyhaa-me.pw^
+||kyaj11.com^
 ||l-fb.co^
 ||la533.com^
 ||la5959.com^
@@ -1550,6 +1558,7 @@
 ||mbbankmn.com^
 ||mbbankn.com^
 ||mbbffn.online^
+||mbbkh-canhan.com^
 ||mbcanhan-cskh.com^
 ||mbdk99.com^
 ||mbdkb.com^
@@ -1621,6 +1630,7 @@
 ||mkshopmobi.xyz^
 ||mlazada.com^
 ||mlswl.shop^
+||mmbonline01.com^
 ||mmocorporation2017.com^
 ||mmomo.me^
 ||mmovietnam.info^
@@ -2654,6 +2664,7 @@
 ||shopeesmarket.com^
 ||shopeeson.com^
 ||shopeesop.com^
+||shopeesopp.com^
 ||shopeesukien.com^
 ||shopeetiki.com^
 ||shopeetro.club^
@@ -3141,6 +3152,7 @@
 ||tdkd03.com^
 ||tdkd07.com^
 ||tdkd08.com^
+||tdke03.com^
 ||tdkt00.com^
 ||tdkt01.com^
 ||tdkt04.com^
@@ -3198,6 +3210,7 @@
 ||thisinhthanhlich.com^
 ||thisinhthanhlich2022.com^
 ||thisinhthanhlich2024.com^
+||thongtincutru.org^
 ||thongtindancu.org^
 ||thongtindonhang.com^
 ||thpthuynhthuckhang.edu.vn^
@@ -3810,6 +3823,7 @@
 ||vib-tindung.online^
 ||vib-up-the.shop^
 ||vib-vay.com^
+||vib.cham-soc-the-truc-tuyen.com.vn^
 ||vib.chamsockhachang-tructuyen-the.online^
 ||vib.chamsockhachang-tructuyen.online^
 ||vib.chamsockhachhang-tructuyen-the-visa.com^
@@ -4198,6 +4212,7 @@
 ||vnpaycredit-ruttientindung247.com^
 ||vnpaycreditruttientindung-247.com^
 ||vnpt99.com^
+||vnsehotro.com^
 ||vnsendo.info^
 ||vnsendo.net^
 ||vnsendo.shop^
@@ -4237,6 +4252,7 @@
 ||vnvietcombank.cc^
 ||vnvietcombanks.cc^
 ||vnvietjet.com^
+||vnviettel.com^
 ||vnwish.shop^
 ||vodkaquang.com^
 ||vongloai.vn^
@@ -4441,6 +4457,7 @@
 ||woorivn.online^
 ||word.emldn.com^
 ||wutienitme247.info^
+||wvOntgd.pqmg.bid^
 ||wvietcombank.com^
 ||wviietcombank.com^
 ||wvvietcombank.com^
@@ -4511,6 +4528,7 @@
 ||zla963.top^
 ||zmomo.cc^
 ||znavidsde.cfd^
+||zutube.pro^
 ||zvay.online^
 ||zvc.cc^
 ||zvietcombank.com^

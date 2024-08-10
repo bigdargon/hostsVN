@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 09 Aug 2024 11:06 UTC+7
-# Version: 2408091106
-# Blocked: 5,739 domains
+# Last modified: 10 Aug 2024 16:33 UTC+7
+# Version: 2408101633
+# Blocked: 5,749 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -510,12 +510,17 @@
 0.0.0.0 ads06.win888b.com
 0.0.0.0 ads08.win888b.com
 0.0.0.0 ads09.win888b.com
+0.0.0.0 ads1.thangto.one
 0.0.0.0 ads11.win888b.com
 0.0.0.0 ads13.win888b.com
 0.0.0.0 ads14.win888b.com
 0.0.0.0 ads16.win888b.com
+0.0.0.0 ads2.thangto.one
 0.0.0.0 ads23.win888b.com
+0.0.0.0 ads3.thangto.one
+0.0.0.0 ads4.thangto.one
 0.0.0.0 ads5.dangkybum.club
+0.0.0.0 ads5.thangto.one
 0.0.0.0 ae2888.com
 0.0.0.0 ae3888.top
 0.0.0.0 ae58888.com
@@ -626,6 +631,7 @@
 0.0.0.0 api.ae88855.com
 0.0.0.0 api.ae88857.com
 0.0.0.0 api.ae88859.com
+0.0.0.0 api.bachhoa88.com
 0.0.0.0 api.betlv.com
 0.0.0.0 api.dabet.club
 0.0.0.0 api.f8bet0.com
@@ -743,6 +749,7 @@
 0.0.0.0 b77.life
 0.0.0.0 b88ag.com
 0.0.0.0 b89.bet
+0.0.0.0 bachhoa88.com
 0.0.0.0 bacty88.com
 0.0.0.0 banca-red88.top
 0.0.0.0 banca.cc
@@ -1158,6 +1165,7 @@
 0.0.0.0 debet.win
 0.0.0.0 debet79.info
 0.0.0.0 debet88.win
+0.0.0.0 deca.bet
 0.0.0.0 deca88.com
 0.0.0.0 dfbertuah.com
 0.0.0.0 dfchoingay.com
@@ -4387,6 +4395,7 @@
 0.0.0.0 thailanthwin.net
 0.0.0.0 thangiwin.org
 0.0.0.0 thangtien188bet.com
+0.0.0.0 thangto.one
 0.0.0.0 thantai68.com
 0.0.0.0 thao88.com
 0.0.0.0 thao888.com
@@ -4594,6 +4603,7 @@
 0.0.0.0 vietbet.eu
 0.0.0.0 vietbet89.com
 0.0.0.0 vietlott66.com
+0.0.0.0 vietnam35.com
 0.0.0.0 vietvwin.com
 0.0.0.0 vig.vietbet.eu
 0.0.0.0 vin168.com

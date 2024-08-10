@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 09 Aug 2024 11:06 UTC+7
-! Version: 2408091106
-! Blocked: 3,542 rules
+! Last modified: 10 Aug 2024 16:33 UTC+7
+! Version: 2408101633
+! Blocked: 3,563 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -782,9 +782,12 @@
 ||icehdv.com^
 ||img.hentaivv1.com^
 ||img.heozz.net^
+||img.javsubz.net^
 ||img.phimkk.vip^
 ||img.phimloz.tv^
 ||img.phimtxx.net^
+||img.vl69.pro^
+||img.xxxphim.top^
 ||info.xnxx.gold^
 ||ishg.xyz^
 ||japanhdv.biz^
@@ -813,6 +816,7 @@
 ||javfinder.la^
 ||javfinder.li^
 ||javgg.me^
+||javgg.sbs^
 ||javgiga.com^
 ||javhay.asia^
 ||javhay.club^
@@ -826,6 +830,8 @@
 ||javhay.org^
 ||javhay.site^
 ||javhay.store^
+||javhay.to^
+||javhay.vip^
 ||javhay.xxx^
 ||javhaytop.net^
 ||javhayz.cc^
@@ -862,6 +868,7 @@
 ||javhdkhongche.com^
 ||javhdpro.org^
 ||javhdvd.net^
+||javhdvietsub.com^
 ||javhiv.com^
 ||javhiv.one^
 ||javhiv.xyz^
@@ -895,6 +902,7 @@
 ||javphim.org^
 ||javphim.site^
 ||javphim.space^
+||javphim.vin^
 ||javphim.xyz^
 ||javphimsex.pro^
 ||javphimx.net^
@@ -903,6 +911,7 @@
 ||javphoz.com^
 ||javpro.biz^
 ||javsex.cc^
+||javsex.moe^
 ||javsub.biz^
 ||javsub.cc^
 ||javsub.co^
@@ -915,6 +924,7 @@
 ||javsub.xyz^
 ||javsubmoi.net^
 ||javsubz.com^
+||javsubz.net^
 ||javtiful.com^
 ||javtop1.biz^
 ||javtop1.com^
@@ -1229,6 +1239,7 @@
 ||phim-xxx.xyz^
 ||phim.damvodoi.com^
 ||phim.javhay.asia^
+||phim.javsubz.net^
 ||phim.sex68.link^
 ||phim.sexmyhd.com^
 ||phim.sexvn.one^
@@ -1665,6 +1676,7 @@
 ||phimsexkhongche.top^
 ||phimsexkhongche.xyz^
 ||phimsexkhongche69.com^
+||phimsexkoche.info^
 ||phimsexkoche.me^
 ||phimsexkoche.net^
 ||phimsexkoche.top^
@@ -1759,6 +1771,7 @@
 ||phimsexsub.plus^
 ||phimsexsub.pro^
 ||phimsexsub.pw^
+||phimsexsub.red^
 ||phimsexsub.sex^
 ||phimsexsub.tube^
 ||phimsexsub.vip^
@@ -2070,6 +2083,7 @@
 ||sex3x.info^
 ||sex3x.pro^
 ||sex3x.tv^
+||sex3xhay.net^
 ||sex3xhay.pro^
 ||sex3xhd.pro^
 ||sex3xmoi.pro^
@@ -2241,6 +2255,7 @@
 ||sexheo69.net^
 ||sexheodem.com^
 ||sexheodem.info^
+||sexheovl.net^
 ||sexhi88.com^
 ||sexhiep.net^
 ||sexhihi.day^
@@ -2374,6 +2389,7 @@
 ||sexphude.net^
 ||sexplus.xyz^
 ||sexpro.vip^
+||sexqe.com^
 ||sexquat.com^
 ||sexquaylen.me^
 ||sexquaylen.org^
@@ -2395,6 +2411,7 @@
 ||sexsub.tube^
 ||sexsub.xyz^
 ||sexsubjav.pro^
+||sexsubs.me^
 ||sexsubs.net^
 ||sexsubvl.com^
 ||sexsung.com^
@@ -2423,6 +2440,7 @@
 ||sextop1.news^
 ||sextop1.one^
 ||sextop1.sex^
+||sextop1.site^
 ||sextop1.uk^
 ||sextop1.video^
 ||sextop1.win^
@@ -2619,6 +2637,7 @@
 ||subjav.live^
 ||subjav.one^
 ||subjav.org^
+||subjav.sex^
 ||subjavhd.net^
 ||subjavz.com^
 ||sugababy.xyz^
@@ -2963,6 +2982,7 @@
 ||vl3x.me^
 ||vl3x.net^
 ||vl4x.net^
+||vl69.pro^
 ||vl69.tv^
 ||vl69.vip^
 ||vl88.biz^
@@ -3448,6 +3468,7 @@
 ||xxphim.co^
 ||xxphim.live^
 ||xxphim.me^
+||xxphim.mom^
 ||xxphim.vin^
 ||xxphim.vip^
 ||xxphim.xyz^

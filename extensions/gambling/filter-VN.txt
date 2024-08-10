@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 09 Aug 2024 11:06 UTC+7
-! Version: 2408091106
-! Blocked: 5,096 rules
+! Last modified: 10 Aug 2024 16:33 UTC+7
+! Version: 2408101633
+! Blocked: 5,106 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -512,12 +512,17 @@
 ||ads06.win888b.com^
 ||ads08.win888b.com^
 ||ads09.win888b.com^
+||ads1.thangto.one^
 ||ads11.win888b.com^
 ||ads13.win888b.com^
 ||ads14.win888b.com^
 ||ads16.win888b.com^
+||ads2.thangto.one^
 ||ads23.win888b.com^
+||ads3.thangto.one^
+||ads4.thangto.one^
 ||ads5.dangkybum.club^
+||ads5.thangto.one^
 ||ae2888.com^
 ||ae3888.top^
 ||ae58888.com^
@@ -631,6 +636,7 @@
 ||api.ae88855.com^
 ||api.ae88857.com^
 ||api.ae88859.com^
+||api.bachhoa88.com^
 ||api.betlv.com^
 ||api.dabet.club^
 ||api.f8bet0.com^
@@ -748,6 +754,7 @@
 ||b77.life^
 ||b88ag.com^
 ||b89.bet^
+||bachhoa88.com^
 ||bacty88.com^
 ||banca-red88.top^
 ||banca.cc^
@@ -1164,6 +1171,7 @@
 ||debet.win^
 ||debet79.info^
 ||debet88.win^
+||deca.bet^
 ||deca88.com^
 ||dfbertuah.com^
 ||dfchoingay.com^
@@ -4408,6 +4416,7 @@
 ||thailanthwin.net^
 ||thangiwin.org^
 ||thangtien188bet.com^
+||thangto.one^
 ||thantai68.com^
 ||thao88.com^
 ||thao888.com^
@@ -4616,6 +4625,7 @@
 ||vietbet.eu^
 ||vietbet89.com^
 ||vietlott66.com^
+||vietnam35.com^
 ||vietvwin.com^
 ||vig.vietbet.eu^
 ||vin168.com^
