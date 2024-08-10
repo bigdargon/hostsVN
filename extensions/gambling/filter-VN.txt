@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 10 Aug 2024 16:33 UTC+7
-! Version: 2408101633
-! Blocked: 5,106 rules
+! Last modified: 10 Aug 2024 19:33 UTC+7
+! Version: 2408101933
+! Blocked: 5,110 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3180,6 +3180,8 @@
 ||km238b.com^
 ||km938b.com^
 ||kmisa68.com^
+||ko66vip.casino^
+||ko66vip.club^
 ||kt88.pro^
 ||ktokto.mobi^
 ||ktoviet.com^
@@ -4072,6 +4074,8 @@
 ||sin88s.com^
 ||sin88vao.com^
 ||sinbet.vip^
+||site.ko66vip.casino^
+||site.ko66vip.club^
 ||sky88.bet^
 ||sky88.com^
 ||sky88.fun^
