@@ -66,10 +66,10 @@ cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{prin
 cat tmp/exceptions.tmp | awk '{print "@@||"$1"^|"}' >> tmp/adservers-all-rule.tmp
 cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adservers-surge.tmp
 
-echo "Creating wildcard file..."
-# create wildcard file
-cat tmp/adservers.tmp | awk '{print "*"$1}' > option/wildcard-VN.txt
-cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{print "*"$1}' > option/wildcard.txt
+echo "Creating dnscrypt & dnsmasq file..."
+# create dnscrypt & dnsmasq file
+cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{print "*."$1}' > option/dnscrypt-hostsVN.txt
+cat option/domain.txt | awk '{print "local=/"$1"/"}' > option/dnsmasq-hostsVN.conf
 
 echo "Creating rule file..."
 # create rule
