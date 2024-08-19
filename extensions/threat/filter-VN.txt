@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 10 Aug 2024 19:33 UTC+7
-! Version: 2408101933
-! Blocked: 4,143 rules
+! Last modified: 19 Aug 2024 16:18 UTC+7
+! Version: 2408191618
+! Blocked: 4,144 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2080,6 +2080,7 @@
 ||rutwdj.id^
 ||rwrb55.com^
 ||rwrb66.com^
+||rxfspe.ulthi.de^
 ||s22khuyenmai.xyz^
 ||s2rjtiki.com^
 ||s33788.com^

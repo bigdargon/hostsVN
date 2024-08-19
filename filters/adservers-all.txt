@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Aug 2024 16:08 UTC+7
-! Version: 2408131608
-! Blocked: 10,921 rules
+! Last modified: 19 Aug 2024 16:18 UTC+7
+! Version: 2408191618
+! Blocked: 10,925 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1818,7 +1818,6 @@
 ||freshmarketer.com^
 ||fs-client-logger.herokuapp.com^
 ||ftd.agency^
-||fundingchoicesmessages.google.com^
 ||fwmrm.net^
 ||fyber.com^
 ||g2afse.com^
@@ -3481,6 +3480,7 @@
 ||ads.mmania.com^
 ||ads.mobilebet.com^
 ||ads.mxhnkn.pro^
+||ads.mythad.com^
 ||ads.ndtv1.com^
 ||ads.networksolutions.com^
 ||ads.newgrounds.com^
@@ -4192,6 +4192,7 @@
 ||arc.io^
 ||arcadebanners.com^
 ||archswimming.com^
+||arcobsarrod.com^
 ||arcodpcmoa.com^
 ||arcualstymie.com^
 ||areamindless.com^
@@ -6104,6 +6105,7 @@
 ||foutyoxyaena.website^
 ||foxpush.com^
 ||fpcdn.io^
+||fpjscdn.net^
 ||fpmleqdb.com^
 ||fpnpmcdn.net^
 ||fpujadwzowa.com^
@@ -7273,6 +7275,7 @@
 ||logs.roku.com^
 ||logs.spilgames.com^
 ||logs.supersonic.com^
+||logsdk.kwai-pro.com^
 ||logua.com^
 ||loinbricksribbon.com^
 ||lokinatoer5.com^
@@ -8546,6 +8549,7 @@
 ||pro-ads.club^
 ||pro-advertising.com^
 ||proaunbulky.guru^
+||processsky.com^
 ||prod.uidapi.com^
 ||prodigalpromotion.com^
 ||producerplot.com^

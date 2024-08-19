@@ -179,7 +179,6 @@
 #[google.com]
 0.0.0.0 ads.google.com
 0.0.0.0 analytics-alv.google.com
-0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 mail-ads.google.com
 #[google-cn]
 0.0.0.0 2mdn-cn.net
@@ -11244,6 +11243,7 @@
 0.0.0.0 ads.livetv790.me
 0.0.0.0 ads.livetv791.me
 0.0.0.0 ads.livetv794.me
+0.0.0.0 ads.livetv806.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com

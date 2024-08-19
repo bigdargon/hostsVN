@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 10 Aug 2024 19:33 UTC+7
-# Version: 2408101933
-# Blocked: 4,596 domains
+# Last modified: 19 Aug 2024 16:18 UTC+7
+# Version: 2408191618
+# Blocked: 4,597 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2378,6 +2378,7 @@
 0.0.0.0 rutwdj.id
 0.0.0.0 rwrb55.com
 0.0.0.0 rwrb66.com
+0.0.0.0 rxfspe.ulthi.de
 0.0.0.0 s22khuyenmai.xyz
 0.0.0.0 s2rjtiki.com
 0.0.0.0 s33788.com
