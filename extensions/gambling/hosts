@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 19 Aug 2024 16:18 UTC+7
-# Version: 2408191618
-# Blocked: 158,808 domains
+# Last modified: 24 Aug 2024 17:35 UTC+7
+# Version: 2408241735
+# Blocked: 158,838 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -17340,6 +17340,7 @@
 0.0.0.0 2024771.com
 0.0.0.0 202499.com
 0.0.0.0 2024hg.com
+0.0.0.0 2024xemwc.com
 0.0.0.0 2025-1997.com
 0.0.0.0 20250066.com
 0.0.0.0 20250088.com
@@ -87912,6 +87913,7 @@
 0.0.0.0 a3326m.com
 0.0.0.0 a3379a.com
 0.0.0.0 a3399g.com
+0.0.0.0 a33mch.hcm33.com
 0.0.0.0 a3400.vip
 0.0.0.0 a34034.com
 0.0.0.0 a35.bet
@@ -87944,6 +87946,7 @@
 0.0.0.0 a43377.com
 0.0.0.0 a43379.com
 0.0.0.0 a4474.com
+0.0.0.0 a44mch.hcm44.com
 0.0.0.0 a4568a.com
 0.0.0.0 a456bet.com
 0.0.0.0 a464646.com
@@ -88410,6 +88413,7 @@
 0.0.0.0 access.bcb80.com
 0.0.0.0 access.sbc31.com
 0.0.0.0 access1xbet.com
+0.0.0.0 account.2024xemwc.com
 0.0.0.0 account.w88ac.com
 0.0.0.0 account.w88club.com
 0.0.0.0 account.w88hn.com
@@ -89108,6 +89112,7 @@
 0.0.0.0 ajaxbet86.com
 0.0.0.0 ajcc5.xyz
 0.0.0.0 ajfkjd.com
+0.0.0.0 ajigc.hcm66-vip.com
 0.0.0.0 ajjvz.com
 0.0.0.0 ajun88.online
 0.0.0.0 ajvqv.win
@@ -94315,6 +94320,7 @@
 0.0.0.0 betandyou1.com
 0.0.0.0 betandyou2.com
 0.0.0.0 betandyouaffiliates.com
+0.0.0.0 betano.com
 0.0.0.0 betano.cz
 0.0.0.0 betapollo.net
 0.0.0.0 betapp.info
@@ -94475,6 +94481,7 @@
 0.0.0.0 betsportskr.com
 0.0.0.0 betss69.com
 0.0.0.0 betss97.com
+0.0.0.0 betsson.com
 0.0.0.0 betstartup.com
 0.0.0.0 betswagger.com
 0.0.0.0 betswing.com
@@ -100087,6 +100094,9 @@
 0.0.0.0 cdnapiif.88vn-app.com
 0.0.0.0 cdnapiif.88vn-app1.com
 0.0.0.0 cdnapiif.88vn-app2.com
+0.0.0.0 cdnapiif.hcm2200.com
+0.0.0.0 cdnapiif.hcm2211.com
+0.0.0.0 cdnapiif.hcm2222.com
 0.0.0.0 cdndown.fhcasino.com
 0.0.0.0 cdnnetworks.net
 0.0.0.0 cdntools.vnn123.com
@@ -100095,6 +100105,8 @@
 0.0.0.0 cdntoos.8jbet08.com
 0.0.0.0 cdntoos.cname-88vn.com
 0.0.0.0 cdntoos.cname88vn.com
+0.0.0.0 cdntoos.hcm6600.com
+0.0.0.0 cdntoos.hcm662.com
 0.0.0.0 cdnws.aecricex.xyz
 0.0.0.0 cdok8.com
 0.0.0.0 cdqgq.com
@@ -100797,6 +100809,7 @@
 0.0.0.0 cmdhsyaoud598.com
 0.0.0.0 cmdvn368.com
 0.0.0.0 cmdwang368.com
+0.0.0.0 cmgw.2024xemwc.com
 0.0.0.0 cmlive.net
 0.0.0.0 cmlvyou.net
 0.0.0.0 cmm2023.com
@@ -111552,13 +111565,19 @@
 0.0.0.0 hcm14.com
 0.0.0.0 hcm15.com
 0.0.0.0 hcm16.com
+0.0.0.0 hcm2200.com
+0.0.0.0 hcm2211.com
 0.0.0.0 hcm222.com
 0.0.0.0 hcm2222.com
 0.0.0.0 hcm2233.com
+0.0.0.0 hcm33.com
 0.0.0.0 hcm333.com
+0.0.0.0 hcm44.com
 0.0.0.0 hcm55.com
 0.0.0.0 hcm555.com
+0.0.0.0 hcm66-vip.com
 0.0.0.0 hcm66.com
+0.0.0.0 hcm6600.com
 0.0.0.0 hcm661.com
 0.0.0.0 hcm662.com
 0.0.0.0 hcm663.com
@@ -118173,6 +118192,7 @@
 0.0.0.0 jilifff.com
 0.0.0.0 jiligame3.com
 0.0.0.0 jiligame5.com
+0.0.0.0 jiligames.com
 0.0.0.0 jiliggg.com
 0.0.0.0 jilihhh.com
 0.0.0.0 jililive.best
@@ -126355,6 +126375,7 @@
 0.0.0.0 lotto77s.com
 0.0.0.0 lottomillions.asia
 0.0.0.0 love-bet.top
+0.0.0.0 love580.vip
 0.0.0.0 love62tlc.com
 0.0.0.0 love88angel.com
 0.0.0.0 love89.net
@@ -143741,6 +143762,7 @@
 0.0.0.0 uzqcx.win
 0.0.0.0 v-gaming.net
 0.0.0.0 v.fa88.tv
+0.0.0.0 v.vic2.club
 0.0.0.0 v00100hub.com
 0.0.0.0 v00102.com
 0.0.0.0 v00103.com
@@ -147636,6 +147658,7 @@
 0.0.0.0 waychip.xyz
 0.0.0.0 wayfacts.xyz
 0.0.0.0 wayrates.xyz
+0.0.0.0 wb-api-demo.jiligames.com
 0.0.0.0 wb118.com
 0.0.0.0 wb122s.xyz
 0.0.0.0 wb13328.com
@@ -147728,6 +147751,7 @@
 0.0.0.0 wbet58.com
 0.0.0.0 wbet99.bet
 0.0.0.0 wbet99.net
+0.0.0.0 wbgame-demo.jiligames.com
 0.0.0.0 wbme.live
 0.0.0.0 wboxmakan.biz
 0.0.0.0 wbtdld.org
@@ -148922,6 +148946,7 @@
 0.0.0.0 wpafz.com
 0.0.0.0 wpdhf.win
 0.0.0.0 wphonebetterbet.com
+0.0.0.0 wplay.co
 0.0.0.0 wpwpd.com
 0.0.0.0 wpwzn.win
 0.0.0.0 wq202.com
@@ -149310,6 +149335,7 @@
 0.0.0.0 www.188thethao.com
 0.0.0.0 www.1gom.me
 0.0.0.0 www.1tamtam.com
+0.0.0.0 www.2024xemwc.com
 0.0.0.0 www.20betvnd.com
 0.0.0.0 www.2121001.com
 0.0.0.0 www.2211039.com
@@ -149488,11 +149514,13 @@
 0.0.0.0 www.bet20.bet
 0.0.0.0 www.bet365.com
 0.0.0.0 www.bet66.com
+0.0.0.0 www.betano.com
 0.0.0.0 www.betano.cz
 0.0.0.0 www.betbanh88.com
 0.0.0.0 www.betheat.com
 0.0.0.0 www.betlv.com
 0.0.0.0 www.betonline.ag
+0.0.0.0 www.betsson.com
 0.0.0.0 www.betus.com.pa
 0.0.0.0 www.betvietnam.info
 0.0.0.0 www.betvisa.com
@@ -150097,6 +150125,7 @@
 0.0.0.0 www.hb88x.com
 0.0.0.0 www.hb88y.com
 0.0.0.0 www.hb88z.com
+0.0.0.0 www.hcm66-vip.com
 0.0.0.0 www.hgty3588.com
 0.0.0.0 www.hi888.app
 0.0.0.0 www.hi88vip0.com
@@ -150771,6 +150800,7 @@
 0.0.0.0 www.winvn17.com
 0.0.0.0 www.winvn18.com
 0.0.0.0 www.winvn23.co
+0.0.0.0 www.wplay.co
 0.0.0.0 www.ww88club.com
 0.0.0.0 www.xemkeo188.com
 0.0.0.0 www.xengtructuyen.com
