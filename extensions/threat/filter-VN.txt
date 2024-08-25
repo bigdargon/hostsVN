@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 24 Aug 2024 17:35 UTC+7
-! Version: 2408241735
-! Blocked: 4,144 rules
+! Last modified: 25 Aug 2024 23:21 UTC+7
+! Version: 2408252321
+! Blocked: 4,168 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -83,6 +83,8 @@
 ||abcmoney.xyz^
 ||abfishop.com^
 ||abfishop.org^
+||acb.chamsockhachhang-uudaithetructuyen-thang8.online^
+||acb.chamsocthekhachhang-tructuyen-thang8.com.vn^
 ||acb.vn-banks.xyz^
 ||acb.vn-c.xyz^
 ||acb.vn-cl.xyz^
@@ -136,6 +138,7 @@
 ||amazonbig.asia^
 ||amazonl0.com^
 ||amazonl3.com^
+||amazonl4.com^
 ||amazonsg.shop^
 ||amazonxk.com^
 ||amg133180.com^
@@ -198,7 +201,9 @@
 ||baotienphong.net^
 ||baotrixanhvn.com^
 ||baoviet-vn.cc^
+||baovietin.top^
 ||baovietn.vip^
+||baovietvay.top^
 ||bb9998.com^
 ||bbankpower.com^
 ||bbc6666.com^
@@ -260,6 +265,7 @@
 ||cardshinhan.com^
 ||casneon.com^
 ||cathe-tindung247mpos.com^
+||cct-giaohangtietkiem.com^
 ||celerantatters.com^
 ||centralonline.shop^
 ||cettiarl.com^
@@ -272,12 +278,14 @@
 ||chamsockhachhang-uudai-tructuyenthe.com^
 ||chamsockhachhang-uudaithe-thang6.com^
 ||chamsockhachhang-uudaithecanhan-tructuyen.online^
+||chamsockhachhang-uudaithetructuyen-thang8.online^
 ||chamsockhachhang-uudaitructuyen.online^
 ||chamsockhachhangnanghanmuctindungmsb.com^
 ||chamsockhachhangtheuudai-tructuyen.com.vn^
 ||chamsocthekhachang-truc-tuyen.com^
 ||chamsocthekhachhang-thang4.com.vn^
 ||chamsocthekhachhang-thang4.online^
+||chamsocthekhachhang-tructuyen-thang8.com.vn^
 ||chamsocthekhachhang-uudai-tructuyen.com^
 ||chamsocuudaithekhachhang-tructuyen.com^
 ||chanle79.me^
@@ -291,6 +299,7 @@
 ||chientich-sinhnhat-lienquanvn.gq^
 ||chientich-sinhnhatlienquangarenavn.ml^
 ||chinhphu.cc^
+||chinhphu.dulieucutru.org^
 ||chinhphu.thongtincutru.org^
 ||chovayfecredit.com^
 ||chovaynhanh.online^
@@ -474,6 +483,7 @@
 ||dichvucong.hhlpa.com^
 ||dichvucong.kgov.net^
 ||dichvucong.lgov.net^
+||dichvucong.snggov.com^
 ||dichvucong.tgovn.cc^
 ||dichvucong.thongtindancu.org^
 ||dichvucong.tkgov.com^
@@ -504,6 +514,7 @@
 ||dienmayxanh263.com^
 ||dienmayxanh268.com^
 ||dienmayxanh269.com^
+||dienmayxanh389.com^
 ||dienmayxanh542.com^
 ||dienmayxanhantam.com^
 ||dienmayxanhbeauty.com^
@@ -529,6 +540,7 @@
 ||donghothongminh-mienphiship.online^
 ||donhangkiemtra.com^
 ||dorsitan.shop^
+||dpsmhx.zxte.bid^
 ||dragoncapitalmoney.com^
 ||dragoncapitalvay.com^
 ||drakeesh.com^
@@ -770,6 +782,7 @@
 ||giaodichquoctes.vercel.app^
 ||giaodichtiente247ipay.weebly.com^
 ||giaodichvidientu.com.vn^
+||giaohangtietkiem247.com^
 ||giaothuongvietnhat.org^
 ||gifcode-lienquan.com^
 ||giftbangbangtank.weebly.com^
@@ -927,6 +940,7 @@
 ||hotro-xacminhtaikhoan-garena-vn.com^
 ||hotro.asia^
 ||hotro.autos^
+||hotro0nline28.com^
 ||hotrochatluongchuyennghieptoanquoc.click^
 ||hotrodienmayxanh.com^
 ||hotrokhachhang-garena-account.com^
@@ -1855,6 +1869,7 @@
 ||nouespaipenedes.com^
 ||nqsncoau.buzz^
 ||nsomomo.com^
+||nuk36952s.com^
 ||nvietcombank.com^
 ||nykkky.com^
 ||ocb.chamsocthekhachhang-uudai-tructuyen.com^
@@ -2123,12 +2138,14 @@
 ||sd5487.com^
 ||sd5675.com^
 ||sd8015.xyz^
+||sdfsshop1.com^
 ||sdo2435.com^
 ||sdo8357.com^
 ||sdqwf.ga^
 ||seabank-nganhanghanoi.com^
 ||seleeashopee.com^
 ||sendotv.com^
+||sendotv.shop^
 ||sendovip.com^
 ||sendovn.com^
 ||senopaee.com^
@@ -2644,6 +2661,7 @@
 ||sp315693vn.com^
 ||sp5188.com^
 ||sp56788.com^
+||sp61889p.com^
 ||sp6788.com^
 ||sp7335p.com^
 ||sp75193p.com^
@@ -2775,6 +2793,7 @@
 ||taichinhanbinh.net^
 ||taichinhbank.com.vn^
 ||taichinhcaptoc.com^
+||taichinheximbak.com^
 ||taichinhhbaotin.com^
 ||taichinhhoangkim.com^
 ||taichinhmb.com^
@@ -2974,6 +2993,7 @@
 ||tikimall.org^
 ||tikimall.top^
 ||tikimast.com^
+||tikimuasam24h.com^
 ||tikion8.com^
 ||tikirating-vn.com^
 ||tikiratingvn.com^
@@ -3001,6 +3021,7 @@
 ||tikivn558.com^
 ||tikivn668.com^
 ||tikivn68.com^
+||tikivn84.com^
 ||tikivncareers.com^
 ||tikivnn.com^
 ||tikivv.com^
@@ -3751,6 +3772,7 @@
 ||vn-ebanks.xyz^
 ||vn-ebay.quxlpuj.cn^
 ||vn-ebayn.vip^
+||vn-eid.com^
 ||vn-email.shop^
 ||vn-express.net^
 ||vn-findmy.com^
@@ -3863,6 +3885,7 @@
 ||vnsendo.net^
 ||vnsendo.shop^
 ||vnsendo.vip^
+||vnsendotv.vip^
 ||vnshop.today^
 ||vnshop00.com^
 ||vnshop11.com^
@@ -4034,6 +4057,7 @@
 ||vtcbanking6868.weebly.com^
 ||vtdpgbank.com^
 ||vtipshop.today^
+||vtv24.pro^
 ||vtvay.com^
 ||vuabem.com^
 ||vuacltxmomo.net^

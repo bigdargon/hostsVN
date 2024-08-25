@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 24 Aug 2024 17:35 UTC+7
-# Version: 2408241735
-# Blocked: 45,947 domains
+# Last modified: 25 Aug 2024 23:21 UTC+7
+# Version: 2408252321
+# Blocked: 45,948 domains
 # Only include adult domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -32691,6 +32691,7 @@
 0.0.0.0 qq3pp.com
 0.0.0.0 qq465.com
 0.0.0.0 qq534.com
+0.0.0.0 qq629.live
 0.0.0.0 qq6899.com
 0.0.0.0 qq7654.com
 0.0.0.0 qq801.me

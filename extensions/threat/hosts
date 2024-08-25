@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 24 Aug 2024 17:35 UTC+7
-# Version: 2408241735
-# Blocked: 4,597 domains
+# Last modified: 25 Aug 2024 23:21 UTC+7
+# Version: 2408252321
+# Blocked: 4,625 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -94,6 +94,8 @@
 0.0.0.0 abfishop.com
 0.0.0.0 abfishop.org
 0.0.0.0 abutparker.com
+0.0.0.0 acb.chamsockhachhang-uudaithetructuyen-thang8.online
+0.0.0.0 acb.chamsocthekhachhang-tructuyen-thang8.com.vn
 0.0.0.0 acb.vn-banks.xyz
 0.0.0.0 acb.vn-c.xyz
 0.0.0.0 acb.vn-cl.xyz
@@ -170,6 +172,7 @@
 0.0.0.0 amazonbig.asia
 0.0.0.0 amazonl0.com
 0.0.0.0 amazonl3.com
+0.0.0.0 amazonl4.com
 0.0.0.0 amazonsg.shop
 0.0.0.0 amazonxk.com
 0.0.0.0 amg133180.com
@@ -259,7 +262,9 @@
 0.0.0.0 baotienphong.net
 0.0.0.0 baotrixanhvn.com
 0.0.0.0 baoviet-vn.cc
+0.0.0.0 baovietin.top
 0.0.0.0 baovietn.vip
+0.0.0.0 baovietvay.top
 0.0.0.0 barbecueappledos.pw
 0.0.0.0 bb9998.com
 0.0.0.0 bbankpower.com
@@ -343,6 +348,7 @@
 0.0.0.0 cb49836.click
 0.0.0.0 cbfor49836.click
 0.0.0.0 cbox4.ignorelist.com
+0.0.0.0 cct-giaohangtietkiem.com
 0.0.0.0 cdn.g8z.net
 0.0.0.0 celerantatters.com
 0.0.0.0 centralonline.shop
@@ -357,12 +363,14 @@
 0.0.0.0 chamsockhachhang-uudai-tructuyenthe.com
 0.0.0.0 chamsockhachhang-uudaithe-thang6.com
 0.0.0.0 chamsockhachhang-uudaithecanhan-tructuyen.online
+0.0.0.0 chamsockhachhang-uudaithetructuyen-thang8.online
 0.0.0.0 chamsockhachhang-uudaitructuyen.online
 0.0.0.0 chamsockhachhangnanghanmuctindungmsb.com
 0.0.0.0 chamsockhachhangtheuudai-tructuyen.com.vn
 0.0.0.0 chamsocthekhachang-truc-tuyen.com
 0.0.0.0 chamsocthekhachhang-thang4.com.vn
 0.0.0.0 chamsocthekhachhang-thang4.online
+0.0.0.0 chamsocthekhachhang-tructuyen-thang8.com.vn
 0.0.0.0 chamsocthekhachhang-uudai-tructuyen.com
 0.0.0.0 chamsocuudaithekhachhang-tructuyen.com
 0.0.0.0 chanle79.me
@@ -376,6 +384,7 @@
 0.0.0.0 chientich-sinhnhat-lienquanvn.gq
 0.0.0.0 chientich-sinhnhatlienquangarenavn.ml
 0.0.0.0 chinhphu.cc
+0.0.0.0 chinhphu.dulieucutru.org
 0.0.0.0 chinhphu.thongtincutru.org
 0.0.0.0 chovayfecredit.com
 0.0.0.0 chovaynhanh.online
@@ -585,6 +594,7 @@
 0.0.0.0 dichvucong.hhlpa.com
 0.0.0.0 dichvucong.kgov.net
 0.0.0.0 dichvucong.lgov.net
+0.0.0.0 dichvucong.snggov.com
 0.0.0.0 dichvucong.tgovn.cc
 0.0.0.0 dichvucong.thongtindancu.org
 0.0.0.0 dichvucong.tkgov.com
@@ -615,6 +625,7 @@
 0.0.0.0 dienmayxanh263.com
 0.0.0.0 dienmayxanh268.com
 0.0.0.0 dienmayxanh269.com
+0.0.0.0 dienmayxanh389.com
 0.0.0.0 dienmayxanh542.com
 0.0.0.0 dienmayxanhantam.com
 0.0.0.0 dienmayxanhbeauty.com
@@ -646,6 +657,7 @@
 0.0.0.0 donghothongminh-mienphiship.online
 0.0.0.0 donhangkiemtra.com
 0.0.0.0 dorsitan.shop
+0.0.0.0 dpsmhx.zxte.bid
 0.0.0.0 dragoncapitalmoney.com
 0.0.0.0 dragoncapitalvay.com
 0.0.0.0 drake4.xyz
@@ -942,6 +954,7 @@
 0.0.0.0 giaodichquoctes.vercel.app
 0.0.0.0 giaodichtiente247ipay.weebly.com
 0.0.0.0 giaodichvidientu.com.vn
+0.0.0.0 giaohangtietkiem247.com
 0.0.0.0 giaothuongvietnhat.org
 0.0.0.0 gifcode-lienquan.com
 0.0.0.0 giftbangbangtank.weebly.com
@@ -1108,6 +1121,7 @@
 0.0.0.0 hotro-xacminhtaikhoan-garena-vn.com
 0.0.0.0 hotro.asia
 0.0.0.0 hotro.autos
+0.0.0.0 hotro0nline28.com
 0.0.0.0 hotrochatluongchuyennghieptoanquoc.click
 0.0.0.0 hotrodienmayxanh.com
 0.0.0.0 hotrokhachhang-garena-account.com
@@ -1465,6 +1479,7 @@
 0.0.0.0 liximomo.net
 0.0.0.0 liximomo.top
 0.0.0.0 lixitetlienquan.com
+0.0.0.0 ljjskttqximu.in
 0.0.0.0 llappa.top
 0.0.0.0 llzd2.com
 0.0.0.0 lmht-membership.com
@@ -2110,6 +2125,7 @@
 0.0.0.0 nova-ebill.xyz
 0.0.0.0 nqsncoau.buzz
 0.0.0.0 nsomomo.com
+0.0.0.0 nuk36952s.com
 0.0.0.0 nvietcombank.com
 0.0.0.0 nykkky.com
 0.0.0.0 ocb.chamsocthekhachhang-uudai-tructuyen.com
@@ -2345,6 +2361,7 @@
 0.0.0.0 rickmomo.fun
 0.0.0.0 rihcos.com
 0.0.0.0 rik11.fun
+0.0.0.0 rikip.com
 0.0.0.0 rikmomo.co
 0.0.0.0 rikmomo.me
 0.0.0.0 riobank.asia
@@ -2423,12 +2440,14 @@
 0.0.0.0 sd5487.com
 0.0.0.0 sd5675.com
 0.0.0.0 sd8015.xyz
+0.0.0.0 sdfsshop1.com
 0.0.0.0 sdo2435.com
 0.0.0.0 sdo8357.com
 0.0.0.0 sdqwf.ga
 0.0.0.0 seabank-nganhanghanoi.com
 0.0.0.0 seleeashopee.com
 0.0.0.0 sendotv.com
+0.0.0.0 sendotv.shop
 0.0.0.0 sendovip.com
 0.0.0.0 sendovn.com
 0.0.0.0 senopaee.com
@@ -2956,6 +2975,7 @@
 0.0.0.0 sp315693vn.com
 0.0.0.0 sp5188.com
 0.0.0.0 sp56788.com
+0.0.0.0 sp61889p.com
 0.0.0.0 sp6788.com
 0.0.0.0 sp7335p.com
 0.0.0.0 sp75193p.com
@@ -3093,6 +3113,7 @@
 0.0.0.0 taichinhanbinh.net
 0.0.0.0 taichinhbank.com.vn
 0.0.0.0 taichinhcaptoc.com
+0.0.0.0 taichinheximbak.com
 0.0.0.0 taichinhhbaotin.com
 0.0.0.0 taichinhhoangkim.com
 0.0.0.0 taichinhmb.com
@@ -3298,6 +3319,7 @@
 0.0.0.0 tikimall.org
 0.0.0.0 tikimall.top
 0.0.0.0 tikimast.com
+0.0.0.0 tikimuasam24h.com
 0.0.0.0 tikion8.com
 0.0.0.0 tikirating-vn.com
 0.0.0.0 tikiratingvn.com
@@ -3325,6 +3347,7 @@
 0.0.0.0 tikivn558.com
 0.0.0.0 tikivn668.com
 0.0.0.0 tikivn68.com
+0.0.0.0 tikivn84.com
 0.0.0.0 tikivncareers.com
 0.0.0.0 tikivnn.com
 0.0.0.0 tikivv.com
@@ -4098,6 +4121,7 @@
 0.0.0.0 vn-ebanks.xyz
 0.0.0.0 vn-ebay.quxlpuj.cn
 0.0.0.0 vn-ebayn.vip
+0.0.0.0 vn-eid.com
 0.0.0.0 vn-email.shop
 0.0.0.0 vn-express.net
 0.0.0.0 vn-findmy.com
@@ -4210,6 +4234,7 @@
 0.0.0.0 vnsendo.net
 0.0.0.0 vnsendo.shop
 0.0.0.0 vnsendo.vip
+0.0.0.0 vnsendotv.vip
 0.0.0.0 vnshop.today
 0.0.0.0 vnshop00.com
 0.0.0.0 vnshop11.com
@@ -4348,6 +4373,7 @@
 0.0.0.0 vpbbank.com
 0.0.0.0 vpbsvn.com
 0.0.0.0 vps8449vn.com
+0.0.0.0 vqelhmqyuphr.info
 0.0.0.0 vrichshop.com
 0.0.0.0 vssid.cc
 0.0.0.0 vssid.govvvn.com
@@ -4381,6 +4407,7 @@
 0.0.0.0 vtcbanking6868.weebly.com
 0.0.0.0 vtdpgbank.com
 0.0.0.0 vtipshop.today
+0.0.0.0 vtv24.pro
 0.0.0.0 vtvay.com
 0.0.0.0 vuabem.com
 0.0.0.0 vuacltxmomo.net
@@ -4565,6 +4592,7 @@
 0.0.0.0 xd152.com
 0.0.0.0 xianshangzixun.com
 0.0.0.0 xianshangzixun.net
+0.0.0.0 xiaoe.com
 0.0.0.0 xiaomivietnam.xyz
 0.0.0.0 xiaosdg.top
 0.0.0.0 xjpakmdcfuqe.biz

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 24 Aug 2024 17:35 UTC+7
-! Version: 2408241735
-! Blocked: 5,117 rules
+! Last modified: 25 Aug 2024 23:21 UTC+7
+! Version: 2408252321
+! Blocked: 5,124 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1098,6 +1098,7 @@
 ||d9bet38.com^
 ||d9bet68.com^
 ||d9bet88.com^
+||da88.com^
 ||da88.pro^
 ||dabanh.thethaofb88.com^
 ||dabet.cc^
@@ -1572,6 +1573,7 @@
 ||goal86.top^
 ||god55.zone^
 ||god55viet.com^
+||god66.win^
 ||gogobolaku.com^
 ||gomy188.com^
 ||goplayk8.com^
@@ -1623,6 +1625,7 @@
 ||hi88vip8.com^
 ||hiephoilangnghevietnam.com^
 ||hit.club^
+||hit.game^
 ||hit1.club^
 ||hit1.co^
 ||hit21.club^
@@ -1632,6 +1635,8 @@
 ||hit68.net^
 ||hitclub.top^
 ||hitclub.win^
+||hitlub.fun^
+||hitlub.net^
 ||hitpro.run^
 ||hl8.daily123hl8.com^
 ||hl8atm.com^
@@ -4928,6 +4933,7 @@
 ||web.130casino.com^
 ||web.68rich.com^
 ||web.hitclub.top^
+||web.hitlub.fun^
 ||web.macau.club^
 ||web.macauclub.fun^
 ||web.mayclub.net^
@@ -5074,6 +5080,7 @@
 ||xosobet.com^
 ||xs638.com^
 ||xstp88.com^
+||xvipwin.info^
 ||y6.casino^
 ||y6top.com^
 ||ybbbet.com^

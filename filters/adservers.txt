@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 24 Aug 2024 17:33 UTC+7
-! Version: 2408241733
-! Blocked: 919 rules
+! Last modified: 25 Aug 2024 23:19 UTC+7
+! Version: 2408252319
+! Blocked: 920 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -902,6 +902,7 @@
 ||vieon-tracking.vieon.vn^
 ||vietbuzzad.com^
 ||vietdorje.com^
+||vietnamdaily-log.kienthuc.net.vn^
 ||vietnamdaily-log.trithuccuocsong.vn^
 ||vipads.live^
 ||vlxx.host^
