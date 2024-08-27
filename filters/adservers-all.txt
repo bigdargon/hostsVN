@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 25 Aug 2024 23:19 UTC+7
-! Version: 2408252319
-! Blocked: 10,931 rules
+! Last modified: 27 Aug 2024 09:31 UTC+7
+! Version: 2408270931
+! Blocked: 10,934 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1144,6 +1144,7 @@
 ||ads.uc.cn^
 ||ads.viber.com^
 ||ads.yahoo.com^
+||ads.yap.yahoo.com^
 ||ads.youtube.com^
 ||ads1.msn.com^
 ||ads2.msn.com^
@@ -1791,7 +1792,6 @@
 ||fads*z.com^
 ||faktor.io^
 ||fatchilli.media^
-||fc.yahoo.com^
 ||fclick-adnow.com^
 ||fclog.baidu.com^
 ||felix.data.tm-awx.com^
@@ -2003,6 +2003,7 @@
 ||jadspro.live^
 ||jampp.com^
 ||jeeng.com^
+||jill.fc.yahoo.com^
 ||jpush.cn^
 ||jpush.io^
 ||js-agent.newrelic.com^
@@ -2054,6 +2055,7 @@
 ||log-upload-os.hoyoverse.com^
 ||log.api.useinsider.com^
 ||log.avlyun.sec.intl.miui.com^
+||log.fc.yahoo.com^
 ||log.go.com^
 ||log.kajicam.com^
 ||log.optimizely.com^
@@ -2089,6 +2091,7 @@
 ||luckyorange.net^
 ||m-adash.m.taobao.com^
 ||m.data.mob.com^
+||m.yap.yahoo.com^
 ||m2.ai^
 ||m6r.eu^
 ||mads*z.com^
@@ -2826,7 +2829,6 @@
 ||yads.yahoo.co.jp^
 ||yads.yjtag.yahoo.co.jp^
 ||yandexadexchange.net^
-||yap.yahoo.com^
 ||ybx.yahoo.co.jp^
 ||yeas.yahoo.co.jp^
 ||yieldlab.net^
@@ -9634,6 +9636,7 @@
 ||subsequentstew.com^
 ||succeedscene.com^
 ||suddensidewalk.com^
+||suddenvampire.com^
 ||sueivypeg.com^
 ||suffixlabores.com^
 ||sugarcurtain.com^
