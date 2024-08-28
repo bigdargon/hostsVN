@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 27 Aug 2024 09:32 UTC+7
-# Version: 2408270932
-# Blocked: 4,625 domains
+# Last modified: 28 Aug 2024 16:10 UTC+7
+# Version: 2408281610
+# Blocked: 4,626 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4463,6 +4463,7 @@
 0.0.0.0 winmomo.com
 0.0.0.0 winsbank.io
 0.0.0.0 wioabfwyigasfbksl.org
+0.0.0.0 wkkug.vcbnw.de
 0.0.0.0 wmail-blog.com
 0.0.0.0 wmail-blog.xyz
 0.0.0.0 wmail-cdn.xyz

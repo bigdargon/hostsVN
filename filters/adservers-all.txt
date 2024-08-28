@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 27 Aug 2024 09:31 UTC+7
-! Version: 2408270931
-! Blocked: 10,934 rules
+! Last modified: 28 Aug 2024 16:09 UTC+7
+! Version: 2408281609
+! Blocked: 10,941 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -952,8 +952,10 @@
 ||6sc.co^
 ||7fb60feaa4.com^
 ||a-ads.com^
+||a-delivery.rmbl.ws^
 ||a-mo.net^
 ||a-reporting.nytimes.com^
+||a.ads.rmbl.ws^
 ||a.stat.xiaomi.com^
 ||a4.tl^
 ||a8.net^
@@ -2869,6 +2871,7 @@
 ||14i8trbbx4.com^
 ||152media.info^
 ||15cacaospice63nhdk.com^
+||17mmc5g1n.com^
 ||1fkx796mw.com^
 ||1frozenthrone1.com^
 ||1lyhjhn5p.com^
@@ -4947,6 +4950,7 @@
 ||checkyofeed.com^
 ||cheerfulrange.com^
 ||cheetieaha.com^
+||chelonebarpost.com^
 ||cheno3yp5odt7iume.com^
 ||chewcoat.com^
 ||chickensstation.com^
@@ -6406,6 +6410,7 @@
 ||guidecent.com^
 ||guihua-china.com^
 ||gujakqludcuk.com^
+||gullyending.com^
 ||gumbolersgthb.com^
 ||gunggo.com^
 ||gungpurre.com^
@@ -7117,6 +7122,7 @@
 ||kytesconge.com^
 ||kzyjpuqizc.com^
 ||labapwlkyov.com^
+||lactolwant.com^
 ||laharsubways.guru^
 ||lakequincy.com^
 ||lalomzjwaalh.com^
@@ -7136,6 +7142,7 @@
 ||laughedbegnaw.com^
 ||launchbit.com^
 ||laversleopold.guru^
+||laxativestuckunclog.com^
 ||layer-ad.de^
 ||layer-ads.de^
 ||lazypeacefullyutterly.com^

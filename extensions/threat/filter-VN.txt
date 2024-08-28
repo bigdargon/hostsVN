@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 27 Aug 2024 09:32 UTC+7
-! Version: 2408270932
-! Blocked: 4,168 rules
+! Last modified: 28 Aug 2024 16:10 UTC+7
+! Version: 2408281610
+! Blocked: 4,169 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4108,6 +4108,7 @@
 ||wikidoithuong.com^
 ||winmomo.com^
 ||winsbank.io^
+||wkkug.vcbnw.de^
 ||wooribank.info^
 ||woorivn.online^
 ||wutienitme247.info^

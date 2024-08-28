@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 27 Aug 2024 09:32 UTC+7
-! Version: 2408270932
-! Blocked: 5,124 rules
+! Last modified: 28 Aug 2024 16:10 UTC+7
+! Version: 2408281610
+! Blocked: 5,129 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1350,6 +1350,7 @@
 ||fabet88.net^
 ||fabetvn.com^
 ||fan365.win^
+||fb.giaitriwin79.club^
 ||fb88.com^
 ||fb88.link^
 ||fb88aff.com^
@@ -1455,6 +1456,7 @@
 ||g1388.com^
 ||g9vip.com^
 ||ga179.com^
+||ga939.com^
 ||ga98.net^
 ||gachoic1.com^
 ||gachoiviet.com^
@@ -4516,6 +4518,8 @@
 ||topdoithuong.net^
 ||topnhacaihot.com^
 ||topnohu.com^
+||topzo.com^
+||topzo.vip^
 ||tpviet66.com^
 ||tpviet88.com^
 ||tracking.fabet.vip^
@@ -4942,6 +4946,7 @@
 ||web.taiv8.com^
 ||web.taiv8.top^
 ||web.top88.vip^
+||web.topzo.com^
 ||web.vicplay.io^
 ||web.zo.game^
 ||web.zowinvn.vip^
