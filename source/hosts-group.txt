@@ -11727,3 +11727,14 @@
 #[rmbl.ws]
 0.0.0.0 a-delivery.rmbl.ws
 0.0.0.0 a.ads.rmbl.ws
+#[adjust]
+0.0.0.0 analytics.adjust.cn
+0.0.0.0 analytics.adjust.com
+0.0.0.0 analytics.adjust.io
+0.0.0.0 analytics.adjust.net.in
+0.0.0.0 analytics.adjust.world
+0.0.0.0 app.adjust.cn
+0.0.0.0 app.adjust.com
+0.0.0.0 app.adjust.io
+0.0.0.0 app.adjust.net.in
+0.0.0.0 app.adjust.world
