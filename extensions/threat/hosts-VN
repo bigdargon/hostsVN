@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 30 Aug 2024 10:36 UTC+7
-# Version: 2408301036
-# Blocked: 4,234 domains
+# Last modified: 01 Sep 2024 22:59 UTC+7
+# Version: 2409012259
+# Blocked: 4,246 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -46,6 +46,7 @@
 0.0.0.0 456vdghgj30.dyndns.org
 0.0.0.0 555lotte.com
 0.0.0.0 555shopify.com
+0.0.0.0 558-558-559.com
 0.0.0.0 55lotte.com
 0.0.0.0 588589.com
 0.0.0.0 5giay.cc
@@ -471,6 +472,7 @@
 0.0.0.0 dich-vu-xvip-vib.com
 0.0.0.0 dichvu-chuyentien24h.000webhostapp.com
 0.0.0.0 dichvu-dien-mayxanh.com
+0.0.0.0 dichvu.congtygiaohangtietkiemvn.com
 0.0.0.0 dichvuchuyentien-ind.weebly.com
 0.0.0.0 dichvucong-gov.com
 0.0.0.0 dichvucong.agov.net
@@ -785,6 +787,7 @@
 0.0.0.0 giaodichtiente247ipay.weebly.com
 0.0.0.0 giaodichvidientu.com.vn
 0.0.0.0 giaohangtietkiem247.com
+0.0.0.0 giaohangtietkiemvn.com
 0.0.0.0 giaothuongvietnhat.org
 0.0.0.0 gifcode-lienquan.com
 0.0.0.0 giftbangbangtank.weebly.com
@@ -892,6 +895,8 @@
 0.0.0.0 hethongdonhang.com
 0.0.0.0 hethonggiaodichvidientu247.com
 0.0.0.0 hethongquatang.vn
+0.0.0.0 hethongtikicareers24.com
+0.0.0.0 hethongtikicareers24h.com
 0.0.0.0 hethongvaynhanh247.com
 0.0.0.0 hethongviet99.com
 0.0.0.0 hgff11.com
@@ -1163,6 +1168,7 @@
 0.0.0.0 lazada6.org
 0.0.0.0 lazada6.vip
 0.0.0.0 lazada66.vip
+0.0.0.0 lazada68.com
 0.0.0.0 lazada77.com
 0.0.0.0 lazada7788.com
 0.0.0.0 lazada8.net
@@ -1212,6 +1218,7 @@
 0.0.0.0 letanggiai01.com
 0.0.0.0 letangqua2022.com
 0.0.0.0 letraoquavn.com
+0.0.0.0 lfb.ink
 0.0.0.0 lib1.biz
 0.0.0.0 lichcatdien.info
 0.0.0.0 lienketkiemtien.weebly.com
@@ -1298,6 +1305,7 @@
 0.0.0.0 lvietcombank.com
 0.0.0.0 lzd2024.com
 0.0.0.0 m-facebookk.com.vn
+0.0.0.0 m-fb.site
 0.0.0.0 m-fecabook.com
 0.0.0.0 m.12luxury.com
 0.0.0.0 m.1svi101.com
@@ -1869,6 +1877,7 @@
 0.0.0.0 nuk36952s.com
 0.0.0.0 nvietcombank.com
 0.0.0.0 nykkky.com
+0.0.0.0 nzx65821s.com
 0.0.0.0 ocb.chamsocthekhachhang-uudai-tructuyen.com
 0.0.0.0 oivay.app
 0.0.0.0 oivay.vip
@@ -2631,6 +2640,8 @@
 0.0.0.0 simpliftsbefore.info
 0.0.0.0 sindtex.shop
 0.0.0.0 sinhvienvietnam2022.weebly.com
+0.0.0.0 sjfku11.com
+0.0.0.0 sjfku88.com
 0.0.0.0 skhf11.com
 0.0.0.0 skhf66.com
 0.0.0.0 smilitygorb.club
@@ -3068,6 +3079,7 @@
 0.0.0.0 tinhot24h.website
 0.0.0.0 tinhothomnay.com
 0.0.0.0 tinhotnew.com
+0.0.0.0 tinhotnhat.pro
 0.0.0.0 tinlequa365.com
 0.0.0.0 tinlocvang123.com
 0.0.0.0 tinnhanh24gio.com

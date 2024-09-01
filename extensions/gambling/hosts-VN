@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 30 Aug 2024 10:36 UTC+7
-# Version: 2408301036
-# Blocked: 5,786 domains
+# Last modified: 01 Sep 2024 22:59 UTC+7
+# Version: 2409012259
+# Blocked: 5,787 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3188,6 +3188,7 @@
 0.0.0.0 km238b.com
 0.0.0.0 km938b.com
 0.0.0.0 kmisa68.com
+0.0.0.0 ko66.com
 0.0.0.0 ko66vip.casino
 0.0.0.0 ko66vip.club
 0.0.0.0 kt88.pro
