@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 02 Sep 2024 22:23 UTC+7
-# Version: 2409022223
-# Blocked: 5,792 domains
+# Last modified: 03 Sep 2024 21:42 UTC+7
+# Version: 2409032142
+# Blocked: 5,796 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3827,6 +3827,7 @@
 0.0.0.0 play.wyn88.ski
 0.0.0.0 play.x8.club
 0.0.0.0 play.x8vn.top
+0.0.0.0 play.xocdia88.video
 0.0.0.0 play.yo88.net
 0.0.0.0 play.yo88.win
 0.0.0.0 play.yo88vn.vip
@@ -5727,6 +5728,9 @@
 0.0.0.0 xo88.us
 0.0.0.0 xo88.win
 0.0.0.0 xo88moi.com
+0.0.0.0 xocdia88.click
+0.0.0.0 xocdia88.es
+0.0.0.0 xocdia88.video
 0.0.0.0 xoi77.com
 0.0.0.0 xoi99.com
 0.0.0.0 xoso12345.com
