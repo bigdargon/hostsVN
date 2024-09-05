@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Sep 2024 16:36 UTC+7
-! Version: 2409041636
-! Blocked: 10,971 rules
+! Last modified: 05 Sep 2024 14:03 UTC+7
+! Version: 2409051403
+! Blocked: 10,970 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1672,6 +1672,7 @@
 ||crsspxl.com^
 ||crwdcntrl.net^
 ||cryptox-ads.io^
+||csp.secureserver.net^
 ||ct.pinterest.com^
 ||ctnsnet.com^
 ||customad.cnn.com^
@@ -1787,6 +1788,7 @@
 ||events-api.soundcloud.com^
 ||events-collector.spot.im^
 ||events-dra.op.hicloud.com^
+||events.api.secureserver.net^
 ||events.avantisvideo.com^
 ||events.iap.unity3d.com^
 ||events.popinfo.jp^
@@ -5322,7 +5324,6 @@
 ||cruthdivisi.life^
 ||csdian.net^
 ||csm.cxpublic.com^
-||csp.secureserver.net^
 ||csqghvpsx.com^
 ||cst.cstwpush.com^
 ||cswloxhjge.com^
@@ -5923,7 +5924,6 @@
 ||event.wedobest.com.cn^
 ||eventgw.twilio.com^
 ||events.apester.com^
-||events.api.secureserver.net^
 ||events.attentivemobile.com^
 ||events.jora.com^
 ||events.launchdarkly.com^
@@ -6758,7 +6758,6 @@
 ||ilyf4amifh.com^
 ||im.bluevoox.com^
 ||imagecash.net^
-||images-pw.secureserver.net^
 ||images.footballaddicts.se^
 ||imageshh.com^
 ||imarketservices.com^

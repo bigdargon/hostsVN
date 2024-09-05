@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 03 Sep 2024 21:42 UTC+7
-! Version: 2409032142
-! Blocked: 5,150 rules
+! Last modified: 05 Sep 2024 14:03 UTC+7
+! Version: 2409051403
+! Blocked: 5,153 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4551,6 +4551,7 @@
 ||trangchu2c.com^
 ||trangchu2d.com^
 ||tructiepdaga.info^
+||tructiepketqua.net^
 ||trungso.vip^
 ||trunk.websvn.info^
 ||truyenthongthongtin.com^
@@ -5128,6 +5129,8 @@
 ||yule12888.com^
 ||yylive.top^
 ||yylive.tv^
+||yylive.vip^
+||yylive.xyz^
 ||z1.zbet.com^
 ||z1.zbet.vn^
 ||z2.zbet.com^

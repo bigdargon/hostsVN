@@ -11763,3 +11763,6 @@
 0.0.0.0 brdtest.com
 0.0.0.0 brdtnet.com
 0.0.0.0 luminati.io
+#[secureserver.net]
+0.0.0.0 csp.secureserver.net
+0.0.0.0 events.api.secureserver.net
