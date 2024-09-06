@@ -11766,3 +11766,13 @@
 #[secureserver.net]
 0.0.0.0 csp.secureserver.net
 0.0.0.0 events.api.secureserver.net
+#[lucead.com]
+0.0.0.0 lucead.com
+0.0.0.0 prebid.lucead.com
+0.0.0.0 s.lucead.com
+#[adservrs.com]
+0.0.0.0 adservrs.com
+0.0.0.0 tg1.adservrs.com
+#[rwadx.com]
+0.0.0.0 ads.rwadx.com
+0.0.0.0 rwadx.com

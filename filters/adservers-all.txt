@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Sep 2024 14:03 UTC+7
-! Version: 2409051403
-! Blocked: 10,970 rules
+! Last modified: 06 Sep 2024 10:32 UTC+7
+! Version: 2409061032
+! Blocked: 10,975 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1174,6 +1174,7 @@
 ||adservice.google.*^
 ||adservices.brandcdn.com^
 ||adservme.com^
+||adservrs.com^
 ||adsfactor.net^
 ||adsfs.oppomobile.com^
 ||adsgard.aprod.scopely.io^
@@ -2110,6 +2111,7 @@
 ||lr-in-prod.com^
 ||lr-in.com^
 ||lsosad.com^
+||lucead.com^
 ||luckyorange.com^
 ||luckyorange.net^
 ||luminati.io^
@@ -2485,6 +2487,7 @@
 ||runative-syndicate.com^
 ||runative.com^
 ||rvadnet.com^
+||rwadx.com^
 ||s-ad.rmp.rakuten.co.jp^
 ||s-adx.op-mobile.opera.com^
 ||s-evt.rmp.rakuten.co.jp^
@@ -3301,6 +3304,7 @@
 ||adlike.com^
 ||adlink.de^
 ||adlite.net^
+||adlive.io^
 ||adlog.foxitcloud.com^
 ||adloox.com^
 ||adlure.net^
@@ -3968,6 +3972,7 @@
 ||ak.ceegriwuwoa.net^
 ||ak.groaxonsoow.net^
 ||ak.oneegrou.net^
+||ak.ptailadsol.net^
 ||ak0gsh40.com^
 ||akjotpoxwp.com^
 ||aklaszonkob.com^
@@ -4903,6 +4908,7 @@
 ||causecherry.com^
 ||causlesscauslessdisapproval.com^
 ||cauvousy.net^
+||cavbildi.com^
 ||cbanners.virtuagirlhd.com^
 ||cben1.net^
 ||cbmall.com^
@@ -8559,7 +8565,6 @@
 ||prchecker.info^
 ||pre.glotgrx.com^
 ||pre4sentre8dhf.com^
-||prebid.lucead.com^
 ||prebid.trustedstack.com^
 ||preciousawareness.pro^
 ||precisioncounter.com^
