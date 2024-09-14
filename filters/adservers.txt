@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Sep 2024 10:32 UTC+7
-! Version: 2409061032
-! Blocked: 920 rules
+! Last modified: 14 Sep 2024 17:42 UTC+7
+! Version: 2409141742
+! Blocked: 922 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -525,6 +525,7 @@
 ||analytics.digi8.vn^
 ||analytics.evgcdn.net^
 ||analytics.evn.com.vn^
+||analytics.explus.vn^
 ||analytics.fsoft.com.vn^
 ||analytics.gotama.link^
 ||analytics.hapo.vn^
@@ -579,6 +580,7 @@
 ||cdn.api-connect.io^
 ||cdn.qc24h.com^
 ||cdn2.cache.vn^
+||cdptracker.hocmai.com.vn^
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||chiasephim.xyz^
 ||click.vieon.vn^

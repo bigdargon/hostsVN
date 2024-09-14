@@ -229,13 +229,6 @@
 #[live.com]
 0.0.0.0 analytics.live.com
 0.0.0.0 rad.live.com
-#[measure.office.com]
-0.0.0.0 measure.office.com
-0.0.0.0 config.fp.measure.office.com
-0.0.0.0 fp.measure.office.com
-0.0.0.0 upload.fp.measure.office.com
-0.0.0.0 upload2.fp.measure.office.com
-0.0.0.0 wan.measure.office.com
 #[windows.net]
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 tenmaxsgads.blob.core.windows.net
@@ -1657,6 +1650,7 @@
 0.0.0.0 config.ad-brix.com
 #[unity3d.com]
 0.0.0.0 events.iap.unity3d.com
+0.0.0.0 events.mz.unity3d.com
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 stats.unity3d.com
 #[analytics.unity3d.com]
@@ -1671,6 +1665,22 @@
 #[uca.cloud.unity3d.com]
 0.0.0.0 analytics.uca.cloud.unity3d.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
+#[iads.unity3d.com]
+0.0.0.0 iads.unity3d.com
+0.0.0.0 a-uap.iads.unity3d.com
+0.0.0.0 c.iads.unity3d.com
+0.0.0.0 cdn.iads.unity3d.com
+0.0.0.0 icon-uap.iads.unity3d.com
+0.0.0.0 o-pxt.iads.unity3d.com
+0.0.0.0 o.iads.unity3d.com
+#[mediation.unity3d.com]
+0.0.0.0 mediation.unity3d.com
+0.0.0.0 gw.mediation.unity3d.com
+0.0.0.0 i-adq.mediation.unity3d.com
+0.0.0.0 i-sdk.mediation.unity3d.com
+0.0.0.0 o-adq.mediation.unity3d.com
+0.0.0.0 o-iab.mediation.unity3d.com
+0.0.0.0 o-sdk.mediation.unity3d.com
 #[unityads.unity3d.com]
 0.0.0.0 admediator.unityads.unity3d.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
@@ -1711,14 +1721,6 @@
 0.0.0.0 httpkafka-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 httpkafka.ads.prd.ie.internal.unity3d.com
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
-#[iads.unity3d.com]
-0.0.0.0 iads.unity3d.com
-0.0.0.0 a-uap.iads.unity3d.com
-0.0.0.0 c.iads.unity3d.com
-0.0.0.0 cdn.iads.unity3d.com
-0.0.0.0 icon-uap.iads.unity3d.com
-0.0.0.0 o-pxt.iads.unity3d.com
-0.0.0.0 o.iads.unity3d.com
 #[applvn.com]
 0.0.0.0 a.applvn.com
 0.0.0.0 applvn.com
@@ -11050,11 +11052,6 @@
 #[hubvisor.io]
 0.0.0.0 hubvisor.io
 0.0.0.0 cdn.hubvisor.io
-#[data.adobedc.net]
-0.0.0.0 data.adobedc.net
-0.0.0.0 adobecorp.data.adobedc.net
-0.0.0.0 adobemobiledev.data.adobedc.net
-0.0.0.0 esdk.data.adobedc.net
 #[edge.adobedc.net]
 0.0.0.0 edge.adobedc.net
 #[omtrdc.net]
@@ -11776,3 +11773,7 @@
 #[rwadx.com]
 0.0.0.0 ads.rwadx.com
 0.0.0.0 rwadx.com
+#[adnz.co]
+0.0.0.0 adnz.co
+0.0.0.0 api.adnz.co
+0.0.0.0 cdn.adnz.co

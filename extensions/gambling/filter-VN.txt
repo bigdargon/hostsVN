@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 06 Sep 2024 10:33 UTC+7
-! Version: 2409061033
-! Blocked: 5,153 rules
+! Last modified: 14 Sep 2024 17:42 UTC+7
+! Version: 2409141742
+! Blocked: 5,156 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -213,6 +213,7 @@
 ||63wan.com^
 ||6623.support^
 ||6677444.com^
+||6686.vn^
 ||6686vn76.com^
 ||668dg.net^
 ||668kbet.com^
@@ -1504,6 +1505,7 @@
 ||gamequyong.xyz^
 ||gamerikvip.live^
 ||games.sin88.biz^
+||gameta88.me^
 ||gamevip.info^
 ||gamevipclub.fun^
 ||gamevipclub.us^
@@ -3971,6 +3973,7 @@
 ||red88.vin^
 ||red88.vip^
 ||red88e.com^
+||reg.gameta88.me^
 ||reg.lode88j.cc^
 ||reg.playiwin.site^
 ||resources.bong90.bet^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 06 Sep 2024 10:33 UTC+7
-# Version: 2409061033
-# Blocked: 5,799 domains
+# Last modified: 14 Sep 2024 17:42 UTC+7
+# Version: 2409141742
+# Blocked: 5,802 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -214,6 +214,7 @@
 0.0.0.0 63wan.com
 0.0.0.0 6623.support
 0.0.0.0 6677444.com
+0.0.0.0 6686.vn
 0.0.0.0 6686vn76.com
 0.0.0.0 668dg.net
 0.0.0.0 668kbet.com
@@ -1498,6 +1499,7 @@
 0.0.0.0 gamequyong.xyz
 0.0.0.0 gamerikvip.live
 0.0.0.0 games.sin88.biz
+0.0.0.0 gameta88.me
 0.0.0.0 gamevip.info
 0.0.0.0 gamevipclub.fun
 0.0.0.0 gamevipclub.us
@@ -3957,6 +3959,7 @@
 0.0.0.0 red88.vin
 0.0.0.0 red88.vip
 0.0.0.0 red88e.com
+0.0.0.0 reg.gameta88.me
 0.0.0.0 reg.lode88j.cc
 0.0.0.0 reg.playiwin.site
 0.0.0.0 resources.bong90.bet

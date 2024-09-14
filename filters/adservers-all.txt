@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Sep 2024 10:32 UTC+7
-! Version: 2409061032
-! Blocked: 10,975 rules
+! Last modified: 14 Sep 2024 17:42 UTC+7
+! Version: 2409141742
+! Blocked: 10,995 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -525,6 +525,7 @@
 ||analytics.digi8.vn^
 ||analytics.evgcdn.net^
 ||analytics.evn.com.vn^
+||analytics.explus.vn^
 ||analytics.fsoft.com.vn^
 ||analytics.gotama.link^
 ||analytics.hapo.vn^
@@ -579,6 +580,7 @@
 ||cdn.api-connect.io^
 ||cdn.qc24h.com^
 ||cdn2.cache.vn^
+||cdptracker.hocmai.com.vn^
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||chiasephim.xyz^
 ||click.vieon.vn^
@@ -1087,6 +1089,7 @@
 ||adnuntius.com^
 ||adnxs-simple.com^
 ||adnxs.com^
+||adnz.co^
 ||adomik.com^
 ||adop.cc^
 ||adoptimize.info^
@@ -1694,7 +1697,6 @@
 ||d41.co^
 ||data-optout-service.uca.cloud.unity3d.com^
 ||data-sharing-consent.aprod.scopely.io^
-||data.adobedc.net^
 ||data.mistat.intl.xiaomi.com^
 ||data.sec.intl.miui.com^
 ||data.sec.miui.com^
@@ -1792,6 +1794,7 @@
 ||events.api.secureserver.net^
 ||events.avantisvideo.com^
 ||events.iap.unity3d.com^
+||events.mz.unity3d.com^
 ||events.popinfo.jp^
 ||everestop.io^
 ||everesttech.net^
@@ -2149,7 +2152,6 @@
 ||mcs-sg.tiktok.com^
 ||mcs-va.tiktokv.com^
 ||me.cpatrk.net^
-||measure.office.com^
 ||measuread.com^
 ||media.evolv.ai^
 ||media.globalsign.com^
@@ -2163,6 +2165,7 @@
 ||mediams.mb.softbank.jp^
 ||mediarithmics.com^
 ||mediation-tracking.prd.mz.internal.unity3d.com^
+||mediation.unity3d.com^
 ||mediav.com^
 ||mediawayss.com^
 ||meitustat.com^
@@ -3384,6 +3387,7 @@
 ||ads-click.com^
 ||ads-ios-sdk.ogury.co^
 ||ads-static.conde.digital^
+||ads-to.click^
 ||ads.4tube.com^
 ||ads.5ci.lt^
 ||ads.6789live.com^
@@ -3706,6 +3710,7 @@
 ||adserversolutions.com^
 ||adserving.unibet.com^
 ||adservinginternational.com^
+||adsession.exacdn.com^
 ||adsessionserv.com^
 ||adsfac.eu^
 ||adsfac.net^
@@ -4016,6 +4021,7 @@
 ||alternativecpmgate.com^
 ||altronopubacc.com^
 ||altwi-cha.com^
+||alwingulla.com^
 ||alxgtyqhio.com^
 ||alxkpafhaka.com^
 ||amanda-cle.info^
@@ -5494,6 +5500,7 @@
 ||dcyaglnhuvf.com^
 ||dd1xbevqx.com^
 ||ddla593ymz72o.cloudfront.net^
+||dead-put.com^
 ||deadpantruck.com^
 ||dealdotcom.com^
 ||deanmediagroup.com^
@@ -5904,6 +5911,7 @@
 ||eringosdye.com^
 ||ermin-oxj.info^
 ||erosyndc.com^
+||errantstetrole.com^
 ||eryondistain.com^
 ||escortlarbul.com^
 ||esellerate.net^
@@ -5935,6 +5943,7 @@
 ||events.launchdarkly.com^
 ||events.mapbox.com^
 ||events.newsroom.bi^
+||events.ocdn.eu^
 ||events.redditmedia.com^
 ||events.shoplytics.com^
 ||events.split.io^
@@ -6188,6 +6197,7 @@
 ||ftte.xyz^
 ||ftuaxqokbxow.com^
 ||fubmalafdti.com^
+||fudukrujoa.com^
 ||fuffscreigh.website^
 ||fulgidbirls.life^
 ||fullfilmolify.com^
@@ -7004,6 +7014,7 @@
 ||jomtingi.net^
 ||joopaish.com^
 ||joredi.com^
+||joudauhee.com^
 ||jouncystelar.guru^
 ||joygaskin.com^
 ||jpeavgtcixi.com^
@@ -7016,6 +7027,7 @@
 ||jscdn.greeter.me^
 ||jsonip.com^
 ||jtkctpvlsilycn.com^
+||jtoabhvw.com^
 ||jtokaxswunka.com^
 ||jtracking.lulusoft.com^
 ||jtujmyhhuo.com^
@@ -7930,6 +7942,7 @@
 ||novem.pl^
 ||novemberassimilate.com^
 ||novemberseatsuccession.com^
+||npipajajn.com^
 ||nppmwatch.com^
 ||npttech.com^
 ||npugpilraku.com^
@@ -8263,6 +8276,7 @@
 ||ozqoztrkoaj.com^
 ||ozsoekwgy.com^
 ||ozwvkazrik.com^
+||ozxakfawm.com^
 ||p23hxejm1.com^
 ||p4r24.eu^
 ||pacekami.com^
@@ -9140,6 +9154,7 @@
 ||ryeqnyvbncdvg.com^
 ||rympsxilkdqywd.com^
 ||rzaathjhibpe.com^
+||s.eunow4u.com^
 ||s.iaudienc.com^
 ||s.infogram.com^
 ||s.media-imdb.com^
@@ -9319,6 +9334,7 @@
 ||shelvesparticipate.com^
 ||shestour.net^
 ||shhxgqpaxvdjn.com^
+||shiglangee.net^
 ||shinystat.com^
 ||shinystat.it^
 ||shiowbafrrra.com^
@@ -10047,6 +10063,7 @@
 ||track.flexlinkspro.com^
 ||track.gotprofits.com^
 ||track.hubspot.com^
+||track.hydro.online^
 ||track.lacunads.com^
 ||track.lexico.com^
 ||track.mobgc.com^
@@ -10164,6 +10181,7 @@
 ||trustedgatetocontent.com^
 ||trustednotice.news^
 ||trusterejecta.com^
+||trustisimportant.fun^
 ||trustlearningclearly.com^
 ||truthful-quote.pro^
 ||tsiwqtng8huauw30n.com^
@@ -10542,6 +10560,7 @@
 ||weaveradrenaline.com^
 ||web-stat.com^
 ||web-t.9gag.com^
+||web-tracking.engagebay.com^
 ||web.btncdn.com^
 ||web.informer.com^
 ||web.mxradon.com^
@@ -10677,6 +10696,7 @@
 ||worn-brown.pro^
 ||worriednumber.com^
 ||worstideatum.com^
+||worstspotchafe.com^
 ||wotlinkmeatmen.digital^
 ||woubitpopess.life^
 ||wouhaugiby.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 06 Sep 2024 10:33 UTC+7
-! Version: 2409061033
-! Blocked: 4,182 rules
+! Last modified: 14 Sep 2024 17:42 UTC+7
+! Version: 2409141742
+! Blocked: 4,184 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -317,6 +317,7 @@
 ||chuyentienquocte242.weebly.com^
 ||chuyentienquoctenhanh.vercel.app^
 ||chuyentienvn.weebly.com^
+||cicfbo.yt-hgs.de^
 ||citi-vietnam.com^
 ||citivay.org^
 ||cl247.me^
@@ -1968,6 +1969,7 @@
 ||pwsk88.com^
 ||qjc2vo.cyou^
 ||qq8788viet.com^
+||qqwyihwm.thjen.tech^
 ||qrsg11.com^
 ||qua-tang.vn^
 ||quaeventlienminh.weebly.com^
