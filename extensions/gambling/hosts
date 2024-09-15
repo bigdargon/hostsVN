@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 14 Sep 2024 17:42 UTC+7
-# Version: 2409141742
-# Blocked: 159,066 domains
+# Last modified: 15 Sep 2024 23:14 UTC+7
+# Version: 2409152314
+# Blocked: 159,116 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -442,6 +442,7 @@
 0.0.0.0 004cf.cn
 0.0.0.0 004dabao.com
 0.0.0.0 004gg.com
+0.0.0.0 004nfaa-fluid.gzyuandongjiaju.com
 0.0.0.0 005.bongvip.com
 0.0.0.0 005008.net
 0.0.0.0 0050800.xyz
@@ -1030,6 +1031,7 @@
 0.0.0.0 010195.xyz
 0.0.0.0 010197.xyz
 0.0.0.0 0101vn.com
+0.0.0.0 010200.com
 0.0.0.0 0102138.com
 0.0.0.0 010227.xyz
 0.0.0.0 010228.xyz
@@ -22080,6 +22082,8 @@
 0.0.0.0 23sharp.com
 0.0.0.0 23takabet.com
 0.0.0.0 23tawgiwf3wy45ng6731.com
+0.0.0.0 23vip22.com
+0.0.0.0 23vip44.com
 0.0.0.0 23wct.com
 0.0.0.0 23win77.com
 0.0.0.0 23winvn.com
@@ -27236,6 +27240,7 @@
 0.0.0.0 29f9e.net
 0.0.0.0 29hgag.com
 0.0.0.0 29hi88.com
+0.0.0.0 29hxa5qjxxye001-fluid.8xdfd3t6f.com
 0.0.0.0 29i9.com
 0.0.0.0 29js1.com
 0.0.0.0 29js11.com
@@ -38257,6 +38262,7 @@
 0.0.0.0 3pjw.live
 0.0.0.0 3pks2pirc.com
 0.0.0.0 3pkwin.com
+0.0.0.0 3ptienve.com
 0.0.0.0 3qgpd.xyz
 0.0.0.0 3qju.com
 0.0.0.0 3qloanda.mobi
@@ -56615,6 +56621,7 @@
 0.0.0.0 666kuya.com
 0.0.0.0 666ky.xyz
 0.0.0.0 666ok.icu
+0.0.0.0 666onbet.com
 0.0.0.0 666pz.com
 0.0.0.0 666sodo.com
 0.0.0.0 666ttpq.com
@@ -57882,6 +57889,7 @@
 0.0.0.0 6686uuu.com
 0.0.0.0 6686v1.com
 0.0.0.0 6686v14.com
+0.0.0.0 6686v146.com
 0.0.0.0 6686v2.app
 0.0.0.0 6686v3.com
 0.0.0.0 6686vip10.com
@@ -69991,6 +69999,7 @@
 0.0.0.0 7df.bet
 0.0.0.0 7dh9659.com
 0.0.0.0 7dhs.fun
+0.0.0.0 7dvtb.cc
 0.0.0.0 7dwa.com
 0.0.0.0 7e7v7daske.com
 0.0.0.0 7eww.com
@@ -79046,6 +79055,7 @@
 0.0.0.0 8x5032.com
 0.0.0.0 8x5033.com
 0.0.0.0 8x5034.com
+0.0.0.0 8x5290.com
 0.0.0.0 8x5309.com
 0.0.0.0 8x5350.com
 0.0.0.0 8x5452.com
@@ -79086,7 +79096,10 @@
 0.0.0.0 8x5739.com
 0.0.0.0 8x5742.com
 0.0.0.0 8x5745.com
+0.0.0.0 8x5748.com
 0.0.0.0 8x5750.com
+0.0.0.0 8x5753.com
+0.0.0.0 8x5755.com
 0.0.0.0 8x5756.com
 0.0.0.0 8x5762.com
 0.0.0.0 8x5772.com
@@ -79096,6 +79109,7 @@
 0.0.0.0 8x5799.com
 0.0.0.0 8x5827.com
 0.0.0.0 8x5828.com
+0.0.0.0 8x5830.com
 0.0.0.0 8x5836.com
 0.0.0.0 8x5839.com
 0.0.0.0 8x5892.com
@@ -79366,7 +79380,9 @@
 0.0.0.0 8xbe123.com
 0.0.0.0 8xbe124.app
 0.0.0.0 8xbe124.com
+0.0.0.0 8xbe125.app
 0.0.0.0 8xbe125.com
+0.0.0.0 8xbe126.app
 0.0.0.0 8xbe126.com
 0.0.0.0 8xbe127.app
 0.0.0.0 8xbe127.com
@@ -87290,6 +87306,7 @@
 0.0.0.0 999781999.com
 0.0.0.0 99979.org
 0.0.0.0 9998.biz
+0.0.0.0 99980.tv
 0.0.0.0 9998080.com
 0.0.0.0 99981.org
 0.0.0.0 9998111.com
@@ -95488,6 +95505,7 @@
 0.0.0.0 bj988.com
 0.0.0.0 bj9900.com
 0.0.0.0 bj999.xyz
+0.0.0.0 bj9e81.buzz
 0.0.0.0 bjchengxiang.com
 0.0.0.0 bje247.com
 0.0.0.0 bjewz.com
@@ -95987,6 +96005,9 @@
 0.0.0.0 bong88page.com
 0.0.0.0 bong88vivaw88.com
 0.0.0.0 bong90.bet
+0.0.0.0 bong90.com
+0.0.0.0 bong90.life
+0.0.0.0 bong90.tech
 0.0.0.0 bong90.tv
 0.0.0.0 bong99.cc
 0.0.0.0 bong99.com
@@ -103011,11 +103032,13 @@
 0.0.0.0 de31.ku11.net
 0.0.0.0 de5604.com
 0.0.0.0 debet.bet
+0.0.0.0 debet.cc
 0.0.0.0 debet.club
 0.0.0.0 debet.com
 0.0.0.0 debet.info
 0.0.0.0 debet.net
 0.0.0.0 debet.top
+0.0.0.0 debet.uk
 0.0.0.0 debet.vip
 0.0.0.0 debet.win
 0.0.0.0 debet1.com
@@ -105744,6 +105767,8 @@
 0.0.0.0 f8bet1.vip
 0.0.0.0 f8bet2.com
 0.0.0.0 f8bet2.vip
+0.0.0.0 f8bet21.vip
+0.0.0.0 f8bet23.vip
 0.0.0.0 f8bet24.cc
 0.0.0.0 f8bet25.cc
 0.0.0.0 f8bet25.com
@@ -120146,6 +120171,7 @@
 0.0.0.0 k6bet5.com
 0.0.0.0 k6bet6.com
 0.0.0.0 k6dj6.com
+0.0.0.0 k6j4r7.icu
 0.0.0.0 k6mww6hh.xyz
 0.0.0.0 k6oab.mom
 0.0.0.0 k6qg5.xyz
@@ -123590,6 +123616,7 @@
 0.0.0.0 kcwin476.com
 0.0.0.0 kcwin870.com
 0.0.0.0 kcwin982.com
+0.0.0.0 kcx8ewie.info
 0.0.0.0 kd1717.com
 0.0.0.0 kd68ky.com
 0.0.0.0 kd6h1.com
@@ -126353,6 +126380,7 @@
 0.0.0.0 lmfun88.com
 0.0.0.0 lmh198.com
 0.0.0.0 lmht88.com
+0.0.0.0 lmo.mb.cdn-bebo.com
 0.0.0.0 lmsx.vip
 0.0.0.0 lmsx1.com
 0.0.0.0 lmsx12.com
@@ -127367,6 +127395,7 @@
 0.0.0.0 m.188thethao.com
 0.0.0.0 m.1popop.com
 0.0.0.0 m.1tamtam.com
+0.0.0.0 m.23vip44.com
 0.0.0.0 m.388bet.top
 0.0.0.0 m.388bet.vin
 0.0.0.0 m.388bet.vip
@@ -130676,6 +130705,7 @@
 0.0.0.0 n8956.com
 0.0.0.0 n8f77.com
 0.0.0.0 n8f78.com
+0.0.0.0 n8g7n4.icu
 0.0.0.0 n8n78.com
 0.0.0.0 n8tdj.com
 0.0.0.0 n8ty666.com
@@ -131930,9 +131960,11 @@
 0.0.0.0 ok888.vip
 0.0.0.0 ok8w.com
 0.0.0.0 ok914.com
+0.0.0.0 ok917.vip
 0.0.0.0 ok9835.com
 0.0.0.0 ok999.me
 0.0.0.0 ok9khuyenmai.com
+0.0.0.0 ok9vip8.com
 0.0.0.0 okada.app
 0.0.0.0 okada1.com
 0.0.0.0 okb7g7gsmdbygy.com
@@ -132174,8 +132206,11 @@
 0.0.0.0 onbet337.com
 0.0.0.0 onbet338.com
 0.0.0.0 onbet339.com
+0.0.0.0 onbet3456.com
+0.0.0.0 onbet4567.com
 0.0.0.0 onbet5.com
 0.0.0.0 onbet55.com
+0.0.0.0 onbet5555.com
 0.0.0.0 onbet557.com
 0.0.0.0 onbet577.com
 0.0.0.0 onbet662.com
@@ -132191,6 +132226,7 @@
 0.0.0.0 onbetlink.net
 0.0.0.0 onbetna.com
 0.0.0.0 onbetsam.com
+0.0.0.0 ondona.com
 0.0.0.0 one-game88.com
 0.0.0.0 one.bjx6867.com
 0.0.0.0 one567.net
@@ -132255,6 +132291,8 @@
 0.0.0.0 onevegas.com
 0.0.0.0 onex.bet
 0.0.0.0 onexcasino.com
+0.0.0.0 onfullgame.com
+0.0.0.0 ongamebai.com
 0.0.0.0 onjili.degree
 0.0.0.0 onlaynkazino-oyunlari.com
 0.0.0.0 online.titanbet.com
@@ -132272,9 +132310,14 @@
 0.0.0.0 onoclub.com
 0.0.0.0 onoclubs.com
 0.0.0.0 onolato.com
+0.0.0.0 ononbet.com
 0.0.0.0 onoslot.com
 0.0.0.0 onoslots.com
+0.0.0.0 ontaixiu.com
 0.0.0.0 onthe50today.com
+0.0.0.0 onwin6869.site
+0.0.0.0 onxoso.com
+0.0.0.0 onxosovip.com
 0.0.0.0 onyly.xyz
 0.0.0.0 oo19789.com
 0.0.0.0 oo2698.com
@@ -133295,6 +133338,7 @@
 0.0.0.0 phathoa92.vip
 0.0.0.0 phatloc88.club
 0.0.0.0 phatm.com
+0.0.0.0 phattaionbet.com
 0.0.0.0 phbet.com
 0.0.0.0 phbet.info
 0.0.0.0 phbet.online
@@ -134235,6 +134279,7 @@
 0.0.0.0 play.sum4.club
 0.0.0.0 play.sum5.club
 0.0.0.0 play.taib52.com
+0.0.0.0 play.taingayking52.fun
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
 0.0.0.0 play.top88.vn
@@ -139155,6 +139200,7 @@
 0.0.0.0 st66601.com
 0.0.0.0 st66602.com
 0.0.0.0 st66606.com
+0.0.0.0 st6666666.com
 0.0.0.0 st666st666.com
 0.0.0.0 st666win.us
 0.0.0.0 st666yet.site
@@ -140622,6 +140668,7 @@
 0.0.0.0 taimanclub.com
 0.0.0.0 taimanvip.vip
 0.0.0.0 tainbet.net
+0.0.0.0 taingayking52.fun
 0.0.0.0 tainosapios.com
 0.0.0.0 taiok88.app
 0.0.0.0 taiqqlive.pro
@@ -145817,6 +145864,7 @@
 0.0.0.0 vn-image.vnn878.com
 0.0.0.0 vn-lm.jbovietnam.com
 0.0.0.0 vn-vv88.com
+0.0.0.0 vn.app
 0.0.0.0 vn.bway88vietnam.com
 0.0.0.0 vn.ku6101.net
 0.0.0.0 vn.ku6106.net
@@ -146232,6 +146280,7 @@
 0.0.0.0 vnn333.com
 0.0.0.0 vnn6888.bet
 0.0.0.0 vnn8d.com
+0.0.0.0 vnon.app
 0.0.0.0 vnoxumrqqjszeqgx--652--578.casino
 0.0.0.0 vnpro88.com
 0.0.0.0 vnq8.bet
@@ -153631,6 +153680,7 @@
 0.0.0.0 xm22288.com
 0.0.0.0 xm22888.com
 0.0.0.0 xm55588.com
+0.0.0.0 xm8h5jk.info
 0.0.0.0 xmaxiframe.top
 0.0.0.0 xmf68.com
 0.0.0.0 xmhig.win

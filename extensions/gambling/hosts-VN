@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 14 Sep 2024 17:42 UTC+7
-# Version: 2409141742
-# Blocked: 5,802 domains
+# Last modified: 15 Sep 2024 23:14 UTC+7
+# Version: 2409152314
+# Blocked: 5,811 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -880,6 +880,9 @@
 0.0.0.0 bong88page.com
 0.0.0.0 bong88vivaw88.com
 0.0.0.0 bong90.bet
+0.0.0.0 bong90.com
+0.0.0.0 bong90.life
+0.0.0.0 bong90.tech
 0.0.0.0 bong99.cc
 0.0.0.0 bong99.com
 0.0.0.0 bong99.fun
@@ -1168,11 +1171,13 @@
 0.0.0.0 dbthethao.run
 0.0.0.0 dd7bet.me
 0.0.0.0 debet.bet
+0.0.0.0 debet.cc
 0.0.0.0 debet.club
 0.0.0.0 debet.com
 0.0.0.0 debet.info
 0.0.0.0 debet.net
 0.0.0.0 debet.top
+0.0.0.0 debet.uk
 0.0.0.0 debet.win
 0.0.0.0 debet79.info
 0.0.0.0 debet88.win
@@ -3815,6 +3820,7 @@
 0.0.0.0 play.sum4.club
 0.0.0.0 play.sum5.club
 0.0.0.0 play.taib52.com
+0.0.0.0 play.taingayking52.fun
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
 0.0.0.0 play.top88.vn
@@ -4354,6 +4360,7 @@
 0.0.0.0 taimanclub.com
 0.0.0.0 taimanvip.vip
 0.0.0.0 tainbet.net
+0.0.0.0 taingayking52.fun
 0.0.0.0 taiok88.app
 0.0.0.0 taiqqlive.pro
 0.0.0.0 taisanvip.net
@@ -4686,6 +4693,7 @@
 0.0.0.0 vjprok8.com
 0.0.0.0 vlott88.com
 0.0.0.0 vn-lm.jbovietnam.com
+0.0.0.0 vn.app
 0.0.0.0 vn.bway88vietnam.com
 0.0.0.0 vn.ku6101.net
 0.0.0.0 vn.ku6106.net
@@ -4768,6 +4776,7 @@
 0.0.0.0 vnmx66.com
 0.0.0.0 vnn138.com
 0.0.0.0 vnn8d.com
+0.0.0.0 vnon.app
 0.0.0.0 vnpro88.com
 0.0.0.0 vnq8.bet
 0.0.0.0 vnq8.com

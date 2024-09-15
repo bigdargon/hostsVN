@@ -1,7 +1,7 @@
 # Title: hostsVN IP blocklist
-# Last modified: 14 Sep 2024 17:42 UTC+7
-# Version: 2409141742
-# Blocked: 6,656 IPs
+# Last modified: 15 Sep 2024 23:14 UTC+7
+# Version: 2409152314
+# Blocked: 6,659 IPs
 # Only include IP blocklist
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -64,6 +64,7 @@
 15.197.240.79
 15.197.240.93
 15.235.147.122
+15.235.211.192
 16.162.14.208
 16.162.54.228
 16.163.185.109
@@ -3045,8 +3046,10 @@
 154.39.66.116
 154.39.66.126
 154.39.66.171
+154.82.109.130
 154.82.109.134
 154.82.109.137
+154.82.109.143
 154.82.109.148
 154.82.109.150
 154.82.109.153

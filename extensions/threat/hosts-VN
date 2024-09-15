@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 14 Sep 2024 17:42 UTC+7
-# Version: 2409141742
-# Blocked: 4,249 domains
+# Last modified: 15 Sep 2024 23:14 UTC+7
+# Version: 2409152314
+# Blocked: 4,262 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -118,6 +118,7 @@
 0.0.0.0 aets22.com
 0.0.0.0 aets88.com
 0.0.0.0 aets99.com
+0.0.0.0 agjevez.ztraks.de
 0.0.0.0 agrib-vn.com
 0.0.0.0 agribank.dangkyungtuyen.com
 0.0.0.0 agribank.info
@@ -205,6 +206,7 @@
 0.0.0.0 baotienphong.net
 0.0.0.0 baotrixanhvn.com
 0.0.0.0 baoviet-vn.cc
+0.0.0.0 baovietcv.top
 0.0.0.0 baovietin.top
 0.0.0.0 baovietn.vip
 0.0.0.0 baovietvay.top
@@ -788,6 +790,7 @@
 0.0.0.0 giaodichtiente247ipay.weebly.com
 0.0.0.0 giaodichvidientu.com.vn
 0.0.0.0 giaohangtietkiem247.com
+0.0.0.0 giaohangtietkiem247.top
 0.0.0.0 giaohangtietkiemvn.com
 0.0.0.0 giaothuongvietnhat.org
 0.0.0.0 gifcode-lienquan.com
@@ -895,6 +898,7 @@
 0.0.0.0 hethongbhx.com
 0.0.0.0 hethongdonhang.com
 0.0.0.0 hethonggiaodichvidientu247.com
+0.0.0.0 hethongnoibo.bio.link
 0.0.0.0 hethongquatang.vn
 0.0.0.0 hethongtikicareers24.com
 0.0.0.0 hethongtikicareers24h.com
@@ -1123,6 +1127,7 @@
 0.0.0.0 kkh818.com
 0.0.0.0 km-digibank.com
 0.0.0.0 kmnapthe.ga
+0.0.0.0 kpd63519s.com
 0.0.0.0 ksdp997.com
 0.0.0.0 kstorybank.top
 0.0.0.0 ktien.vn
@@ -1559,6 +1564,7 @@
 0.0.0.0 mualienquan.org
 0.0.0.0 muanickgiare.com
 0.0.0.0 muanicklq.com
+0.0.0.0 muasamtiki24h.com
 0.0.0.0 muaso24h.store
 0.0.0.0 muasub.com
 0.0.0.0 muataikhoannetflixvn.com
@@ -1895,6 +1901,7 @@
 0.0.0.0 onlineshop999.com
 0.0.0.0 onlinetiki.com
 0.0.0.0 optimagroupthuongphuong.net
+0.0.0.0 org.govqp.com
 0.0.0.0 p63899vn.com
 0.0.0.0 pagelazada.com
 0.0.0.0 paylienquan.club
@@ -1946,6 +1953,7 @@
 0.0.0.0 pjunnest.cyou
 0.0.0.0 pkkti888.com
 0.0.0.0 platinum-ruttientindung247.com
+0.0.0.0 play.appgoogle.cc
 0.0.0.0 playtogethernapthe.com
 0.0.0.0 playtogetherquabaotri.online
 0.0.0.0 playtogethershop.com
@@ -1968,6 +1976,7 @@
 0.0.0.0 qq8788viet.com
 0.0.0.0 qqwyihwm.thjen.tech
 0.0.0.0 qrsg11.com
+0.0.0.0 qtaqlbt.ciofgnm.co
 0.0.0.0 qua-tang.vn
 0.0.0.0 quaeventlienminh.weebly.com
 0.0.0.0 quaffvietnam.com
@@ -2157,6 +2166,7 @@
 0.0.0.0 sendotv.shop
 0.0.0.0 sendovip.com
 0.0.0.0 sendovn.com
+0.0.0.0 sendovn.shop
 0.0.0.0 senopaee.com
 0.0.0.0 servevietnam.com
 0.0.0.0 service.tpbxnk.com
@@ -2940,6 +2950,7 @@
 0.0.0.0 tienfnhanh.com
 0.0.0.0 tiengia24h.com
 0.0.0.0 tienich.xyz
+0.0.0.0 tienichshiinhan.com
 0.0.0.0 tiennahanh.com
 0.0.0.0 tiennhanh247.com
 0.0.0.0 tienoi.com.vn
@@ -3889,6 +3900,7 @@
 0.0.0.0 vnpaycredit-ruttientindung247.com
 0.0.0.0 vnpaycreditruttientindung-247.com
 0.0.0.0 vnpt99.com
+0.0.0.0 vnpttechnology.weebly.com
 0.0.0.0 vnsehotro.com
 0.0.0.0 vnsendo.info
 0.0.0.0 vnsendo.net
@@ -4146,6 +4158,7 @@
 0.0.0.0 www.abc-vay.com
 0.0.0.0 www.acs84.com
 0.0.0.0 www.amadbfk.vip
+0.0.0.0 www.baovietvc.top
 0.0.0.0 www.checkaccff.com
 0.0.0.0 www.dangnhaphoso.com
 0.0.0.0 www.dichvuchuyentien-ind.weebly.com
