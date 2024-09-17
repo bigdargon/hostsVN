@@ -26,8 +26,12 @@
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 websdk.appsflyer.com
+#[appsflyersdk.com]
+0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 conversions.appsflyersdk.com
+0.0.0.0 dlsdk.appsflyersdk.com
+0.0.0.0 gcdsdk.appsflyersdk.com
+0.0.0.0 inapps.appsflyersdk.com
+0.0.0.0 launches.appsflyersdk.com
+0.0.0.0 register.appsflyersdk.com
 # CNAME Popup
-#[cds.h5z9g8y6.hwcdn.net]
-0.0.0.0 js.wpnjs.com
-0.0.0.0 js.wpnsrv.com
-0.0.0.0 js.wpncdn.com

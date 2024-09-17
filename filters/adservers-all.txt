@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Sep 2024 23:13 UTC+7
-! Version: 2409152313
-! Blocked: 10,996 rules
+! Last modified: 17 Sep 2024 16:05 UTC+7
+! Version: 2409171605
+! Blocked: 10,999 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2061,6 +2061,7 @@
 ||leadboltads.net^
 ||leadforensics.com^
 ||leanplum.com^
+||lfeeder.com^
 ||lgsmartad.com^
 ||liadm.com^
 ||lifestreet.com^
@@ -7024,6 +7025,9 @@
 ||js.go2sdk.com^
 ||js.hscollectedforms.net^
 ||js.hsleadflows.net^
+||js.wpncdn.com^
+||js.wpnjs.com^
+||js.wpnsrv.com^
 ||js.xzjhome.cc^
 ||jscdn.greeter.me^
 ||jsonip.com^
@@ -7225,7 +7229,6 @@
 ||lessemujust.live^
 ||lettucelimit.com^
 ||leucoushurri.uno^
-||lfeeder.com^
 ||lfeorrzkua.com^
 ||lfstmedia.com^
 ||lgglobal.ihago.net^
@@ -11000,5 +11003,5 @@
 ||zz.bdstatic.com^
 ||zzelicawwofl.com^
 ||appsflyer.com^
-||cds.h5z9g8y6.hwcdn.net^
+||appsflyersdk.com^
 @@||app.appsflyer.com^|
