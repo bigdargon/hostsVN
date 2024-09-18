@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Sep 2024 16:05 UTC+7
-# Version: 2409171605
-# Blocked: 20,511 domains
+# Last modified: 18 Sep 2024 23:20 UTC+7
+# Version: 2409182320
+# Blocked: 20,514 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10398,6 +10398,8 @@
 0 lfeeder.com
 0 sc.lfeeder.com
 0 tr.lfeeder.com
+0 analytics.m7g.twitch.tv
+0 edge.ads.twitch.tv
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -13301,6 +13303,7 @@
 0 agedradiant.com
 0 agffrusilj.com
 0 aggestose.com
+0 agghriwaz.com
 0 aghastmardy.website
 0 agitated-potential.pro
 0 agle21xe2anfddirite.com
@@ -14967,7 +14970,6 @@
 0 eczemagrison.uno
 0 edaphonagaz.com
 0 edgar2al2larngpoer.com
-0 edge.ads.twitch.tv
 0 edge.mdcgate.com
 0 edgeio.com
 0 edxlewni.com
@@ -20230,6 +20232,7 @@
 0 relay.fiverr.com
 0 report.uc.heytapmobi.com
 0 reporting-api.gannettinnovation.com
+0 reporting.cdndex.io
 0 reports.ubimo.com
 0 rfpx1.com
 0 richmetrics.com

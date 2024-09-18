@@ -11781,3 +11781,6 @@
 0.0.0.0 lfeeder.com
 0.0.0.0 sc.lfeeder.com
 0.0.0.0 tr.lfeeder.com
+#[twitch.tv]
+0.0.0.0 analytics.m7g.twitch.tv
+0.0.0.0 edge.ads.twitch.tv

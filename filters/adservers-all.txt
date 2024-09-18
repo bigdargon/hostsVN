@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 17 Sep 2024 16:05 UTC+7
-! Version: 2409171605
-! Blocked: 10,999 rules
+! Last modified: 18 Sep 2024 23:20 UTC+7
+! Version: 2409182320
+! Blocked: 11,002 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1325,6 +1325,7 @@
 ||analytics.ff.avast.com^
 ||analytics.google.com^
 ||analytics.live.com^
+||analytics.m7g.twitch.tv^
 ||analytics.map.qq.com^
 ||analytics.mobile.walmart.com^
 ||analytics.mobile.yandex.net^
@@ -1761,6 +1762,7 @@
 ||easyads28.info^
 ||eclick.baidu.com^
 ||edge.adobedc.net^
+||edge.ads.twitch.tv^
 ||edge.atmtd.com^
 ||effectivemeasure.net^
 ||ej1*.online^
@@ -3929,6 +3931,7 @@
 ||agedradiant.com^
 ||agffrusilj.com^
 ||aggestose.com^
+||agghriwaz.com^
 ||aghastmardy.website^
 ||agitated-potential.pro^
 ||agle21xe2anfddirite.com^
@@ -5807,7 +5810,6 @@
 ||eczemagrison.uno^
 ||edaphonagaz.com^
 ||edgar2al2larngpoer.com^
-||edge.ads.twitch.tv^
 ||edge.mdcgate.com^
 ||edgeio.com^
 ||edxlewni.com^
@@ -8979,6 +8981,7 @@
 ||reporo.net^
 ||report.uc.heytapmobi.com^
 ||reporting-api.gannettinnovation.com^
+||reporting.cdndex.io^
 ||reports.ubimo.com^
 ||republika.onet.pl^
 ||repvmout.com^
