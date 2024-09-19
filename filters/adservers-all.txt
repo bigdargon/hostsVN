@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 18 Sep 2024 23:20 UTC+7
-! Version: 2409182320
-! Blocked: 11,002 rules
+! Last modified: 19 Sep 2024 10:16 UTC+7
+! Version: 2409191016
+! Blocked: 11,005 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2642,6 +2642,7 @@
 ||switchadhub.com^
 ||sworkitads.herokuapp.com^
 ||swrve.com^
+||sync.quantumdex.io^
 ||t.apkpure.net^
 ||t.imgur.com^
 ||t.indeed.com^
@@ -2777,6 +2778,7 @@
 ||uprimp.com^
 ||upsight.com^
 ||urlhausa.com^
+||useast.quantumdex.io^
 ||user-stats.rbl.ms^
 ||userreport.com^
 ||userreporting.cloud.unity3d.com^
@@ -2876,6 +2878,7 @@
 ||yandexadexchange.net^
 ||ybx.yahoo.co.jp^
 ||yeas.yahoo.co.jp^
+||yellowblue.io^
 ||yieldlab.net^
 ||yieldlove-ad-serving.net^
 ||yieldlove.com^
@@ -4856,6 +4859,7 @@
 ||cacaobroach.com^
 ||cacasilka.space^
 ||cadetrigourlegitimate.com^
+||cadmus.script.ac^
 ||cads.scalemonk.com^
 ||cagamvnuqhuh.com^
 ||cajqtygrudk.com^
@@ -6741,6 +6745,7 @@
 ||iconcardinal.com^
 ||icptrack.com^
 ||icyattestation.com^
+||id.a-mx.com^
 ||idcounter.com^
 ||iddiction.com^
 ||iddpop.com^
@@ -9771,7 +9776,6 @@
 ||syenitetatler.tech^
 ||sylxisys.com^
 ||sympathydistinguish.com^
-||sync.quantumdex.io^
 ||sync2ad.com^
 ||syndapop.com^
 ||syndetstermine.com^
@@ -10344,7 +10348,6 @@
 ||us.claroadsxml.com^
 ||usabilla.com^
 ||usapromotravel.com^
-||useast.quantumdex.io^
 ||uselnk.com^
 ||usemax.de^
 ||usergrid.com^
