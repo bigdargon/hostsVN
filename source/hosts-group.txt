@@ -163,6 +163,7 @@
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 ogads-pa.googleapis.com
 #[l.google.com]
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead-tpc.l.google.com
@@ -3993,6 +3994,7 @@
 0.0.0.0 se.o-s.io
 0.0.0.0 sync.o-s.io
 0.0.0.0 t.o-s.io
+0.0.0.0 tr.o-s.io
 0.0.0.0 x.o-s.io
 #[aralego.net]
 0.0.0.0 apac-hk-ads.aralego.net
@@ -5177,6 +5179,7 @@
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 c.scorecardresearch.com
+0.0.0.0 census-app-x.scorecardresearch.com
 0.0.0.0 d.scorecardresearch.com
 0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sb.scorecardresearch.com
@@ -11752,10 +11755,6 @@
 0.0.0.0 app.adjust.io
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
-#[moneyoyo]
-0.0.0.0 ads.moneyoyo.com
-0.0.0.0 sdk.moneyoyo.com
-0.0.0.0 api.moneyoyo.org
 #[bright]
 0.0.0.0 bright-sdk.com
 0.0.0.0 brightdata.com
@@ -11795,3 +11794,6 @@
 #[quantumdex.io]
 0.0.0.0 sync.quantumdex.io
 0.0.0.0 useast.quantumdex.io
+#[ads.tvb.com]
+0.0.0.0 ads.tvb.com
+0.0.0.0 img.ads.tvb.com
