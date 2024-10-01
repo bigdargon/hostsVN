@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 Sep 2024 10:16 UTC+7
-! Version: 2409191016
-! Blocked: 922 rules
+! Last modified: 01 Oct 2024 15:44 UTC+7
+! Version: 2410011544
+! Blocked: 924 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -553,6 +553,7 @@
 ||analytics.zim.vn^
 ||api-logdev.sohatv.vn^
 ||api.boclinkads.com^
+||api.moneyoyo.org^
 ||api.ozui.vn^
 ||api2.boclinkads.com^
 ||apia.headlines.pw^
@@ -786,6 +787,7 @@
 ||s6.textlink.vn^
 ||sbbanner.com^
 ||sda.tamdiem247.com^
+||sdk.moneyoyo.com^
 ||sentry.mediacdn.vn^
 ||seo.cloud.edu.vn^
 ||server.zmedia.vn^

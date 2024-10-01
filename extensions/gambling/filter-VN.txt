@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 18 Sep 2024 23:21 UTC+7
-! Version: 2409182321
-! Blocked: 5,165 rules
+! Last modified: 01 Oct 2024 15:45 UTC+7
+! Version: 2410011545
+! Blocked: 5,179 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -59,6 +59,7 @@
 ||1126bet.com^
 ||1166130.com^
 ||118kbet.com^
+||11bet.bz^
 ||11bet.club^
 ||11bet.com^
 ||11bet.fun^
@@ -740,6 +741,7 @@
 ||b29.pub^
 ||b29qc.win^
 ||b369.com^
+||b52.club^
 ||b52.game^
 ||b52.me^
 ||b52.mobi^
@@ -1007,6 +1009,7 @@
 ||choidonclub.club^
 ||choigamedonclub.online^
 ||choigamedons.club^
+||choigametip.org^
 ||choigamevua.club^
 ||choigem.fun^
 ||choigiaitri.net^
@@ -1130,6 +1133,7 @@
 ||daga360vn.com^
 ||daga88.bet^
 ||daga88.com^
+||daga88z.net^
 ||daga999.live^
 ||dagablv.com^
 ||dagacampuchia.com^
@@ -1138,6 +1142,7 @@
 ||dagacuadao.org^
 ||dagahomqua.com^
 ||dagaok88.net^
+||dagathomovn.info^
 ||dagatructiep.casino^
 ||dagatructiep.io^
 ||dagatructiep24h.net^
@@ -1184,6 +1189,7 @@
 ||debet.net^
 ||debet.top^
 ||debet.uk^
+||debet.us^
 ||debet.win^
 ||debet79.info^
 ||debet88.win^
@@ -1529,6 +1535,7 @@
 ||gd55m.org^
 ||gdwbetvn888.com^
 ||gdwviet.com^
+||gem.win^
 ||gem1.win^
 ||gem79.win^
 ||gem88.win^
@@ -3915,8 +3922,10 @@
 ||qc.789k.club^
 ||qc.b52.win^
 ||qc.choidabanh.com^
+||qc.choigametip.org^
 ||qc.conggiaitri.com^
 ||qc.gamevipclub.fun^
+||qc.gem.win^
 ||qc.hitpro.run^
 ||qc.macau.club^
 ||qc.manclubwin.club^
@@ -4009,6 +4018,7 @@
 ||rikvip.vip^
 ||rikvip.win^
 ||rikvip2.vip^
+||rikvip8.win^
 ||rikvipclub.us^
 ||rikvipp.net^
 ||rio66qc.club^
@@ -4354,6 +4364,7 @@
 ||taigamengay.biz^
 ||taigamengay.click^
 ||taigamengay.digital^
+||taigamengay.pw^
 ||taigameslotsumvip50k.info^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
@@ -4494,6 +4505,7 @@
 ||tin.11bet.net^
 ||tin010.com^
 ||tintuc.vlott88.com^
+||tip.club^
 ||tipkeo.thethaofb88.com^
 ||tipkeomoingay.club^
 ||tiptoday.com^
@@ -4691,6 +4703,7 @@
 ||vip.8kbet.vn^
 ||vip.dangkyrikvip.me^
 ||vip.dangkyrikvip.tv^
+||vip.rikvip8.win^
 ||vip.v99win.app^
 ||vip11.club^
 ||vip11.us^
@@ -4986,6 +4999,7 @@
 ||websvn.info^
 ||wellviet.net^
 ||wewinvwin.com^
+||wi88.top^
 ||wi88.win^
 ||widget.188thethao.com^
 ||widget.v9bet88.net^

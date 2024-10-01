@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 18 Sep 2024 23:21 UTC+7
-! Version: 2409182321
-! Blocked: 4,197 rules
+! Last modified: 01 Oct 2024 15:45 UTC+7
+! Version: 2410011545
+! Blocked: 4,216 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -86,6 +86,8 @@
 ||abfishop.org^
 ||acb.chamsockhachhang-uudaithetructuyen-thang8.online^
 ||acb.chamsocthekhachhang-tructuyen-thang8.com.vn^
+||acb.hotrokhachhang-uudai-tructuyen.com.vn^
+||acb.uudaikhachhangthe-tructuyen-thang9.com.vn^
 ||acb.vn-banks.xyz^
 ||acb.vn-c.xyz^
 ||acb.vn-cl.xyz^
@@ -290,6 +292,7 @@
 ||chamsocthekhachhang-thang4.com.vn^
 ||chamsocthekhachhang-thang4.online^
 ||chamsocthekhachhang-tructuyen-thang8.com.vn^
+||chamsocthekhachhang-uudai-tructuyen-thang9.com.vn^
 ||chamsocthekhachhang-uudai-tructuyen.com^
 ||chamsocuudaithekhachhang-tructuyen.com^
 ||chanle79.me^
@@ -304,6 +307,7 @@
 ||chientich-sinhnhatlienquangarenavn.ml^
 ||chinhphu.cc^
 ||chinhphu.dulieucutru.org^
+||chinhphu.hodancu.com^
 ||chinhphu.thongtincutru.org^
 ||chovayfecredit.com^
 ||chovaynhanh.online^
@@ -477,6 +481,7 @@
 ||dichvuchuyentien-ind.weebly.com^
 ||dichvucong-gov.com^
 ||dichvucong.agov.net^
+||dichvucong.bcavnvnvngov.com^
 ||dichvucong.cvgov.com^
 ||dichvucong.dancuquocgia.net^
 ||dichvucong.dancuso.com^
@@ -574,6 +579,7 @@
 ||ebayasean.com^
 ||ebayget.cc^
 ||ebayshopnet.com^
+||ebayu.top^
 ||ebeuboay.cc^
 ||ebmarketingshops.com^
 ||ebuyy.shop^
@@ -790,6 +796,7 @@
 ||giaodichvidientu.com.vn^
 ||giaohangtietkiem247.com^
 ||giaohangtietkiem247.top^
+||giaohangtietkiemvietnam.com^
 ||giaohangtietkiemvn.com^
 ||giaothuongvietnhat.org^
 ||gifcode-lienquan.com^
@@ -813,6 +820,7 @@
 ||gionghatvietnhivietnam2022.weebly.com^
 ||gionghatvietnhll2021.weebly.com^
 ||giovangvn999.com^
+||github-scanner.com^
 ||globalsellingads.com^
 ||globalshopping.website^
 ||go888.me^
@@ -955,6 +963,7 @@
 ||hotrochatluongchuyennghieptoanquoc.click^
 ||hotrodienmayxanh.com^
 ||hotrokhachhang-garena-account.com^
+||hotrokhachhang-uudai-tructuyen.com.vn^
 ||hotrokhachhangtindungvietinbank.com^
 ||hotromayxanh.com^
 ||hotronganhang.site^
@@ -1129,6 +1138,7 @@
 ||km-digibank.com^
 ||kmnapthe.ga^
 ||kpd63519s.com^
+||kpt32165s.com^
 ||ksdp997.com^
 ||kstorybank.top^
 ||ktien.vn^
@@ -1146,6 +1156,7 @@
 ||lambangcap3giare.net^
 ||langthang7.ml^
 ||lapdatinternet.net^
+||lapmangsctv.com.vn^
 ||larpollicwilli.club^
 ||lavas.exchange^
 ||lazada-sale.gq^
@@ -1362,6 +1373,7 @@
 ||mbbffn.online^
 ||mbbkh-canhan.com^
 ||mbcanhan-cskh.com^
+||mbdk555.com^
 ||mbdk99.com^
 ||mbdkb.com^
 ||mbfic-plus.com^
@@ -1889,7 +1901,9 @@
 ||nuk36952s.com^
 ||nvietcombank.com^
 ||nykkky.com^
+||nzu66938s.com^
 ||nzx65821s.com^
+||ocb.chamsocthekhachhang-uudai-tructuyen-thang9.com.vn^
 ||ocb.chamsocthekhachhang-uudai-tructuyen.com^
 ||oivay.app^
 ||oivay.vip^
@@ -2364,6 +2378,7 @@
 ||shopee92.vip^
 ||shopee99.vip^
 ||shopee9977.com^
+||shopeeace.com^
 ||shopeeblue.com^
 ||shopeec.xyz^
 ||shopeechinhthuc.com^
@@ -3055,6 +3070,7 @@
 ||tikixv.com^
 ||tikiy.cc^
 ||tikt88.com^
+||tiktikshopvn.com^
 ||tiktokcy1.com^
 ||timivay.com^
 ||timx2918.com^
@@ -3283,6 +3299,7 @@
 ||upmiles-vpbank.com^
 ||uudai-tructuyen-chamsockhachhang-the.com.vn^
 ||uudaikhachhang-tructuyen.com.vn^
+||uudaikhachhangthe-tructuyen-thang9.com.vn^
 ||uudailienquan.com^
 ||uudainapthe.vn^
 ||uudainganhang.com^
@@ -3897,6 +3914,7 @@
 ||vnebank.xyz^
 ||vnexprress.com^
 ||vnfiba.com^
+||vngiao.hangtietkiem.online^
 ||vnhopqua.com^
 ||vnietinbank.com^
 ||vnmcrd2s.online^
@@ -4055,6 +4073,7 @@
 ||vrichshop.com^
 ||vssid.cc^
 ||vssid.govvvn.com^
+||vssid.svgov.cc^
 ||vssidgov.com^
 ||vstvst10toc.com^
 ||vstvst11toc.com^

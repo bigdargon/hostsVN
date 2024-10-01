@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 19 Sep 2024 10:16 UTC+7
-# Version: 2409191016
-# Blocked: 20,523 domains
+# Last modified: 01 Oct 2024 15:44 UTC+7
+# Version: 2410011544
+# Blocked: 20,550 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -164,6 +164,7 @@
 0 clouderrorreporting.googleapis.com
 0 crashlyticsreports-pa.googleapis.com
 0 firebaselogging.googleapis.com
+0 ogads-pa.googleapis.com
 0 pagead-googlehosted.l.google.com
 0 pagead-tpc.l.google.com
 0 pagead.l.google.com
@@ -3652,6 +3653,7 @@
 0 se.o-s.io
 0 sync.o-s.io
 0 t.o-s.io
+0 tr.o-s.io
 0 x.o-s.io
 0 apac-hk-ads.aralego.net
 0 apac-tw-ads.aralego.net
@@ -4748,6 +4750,7 @@
 0 b.scorecardresearch.com
 0 beacon.scorecardresearch.com
 0 c.scorecardresearch.com
+0 census-app-x.scorecardresearch.com
 0 d.scorecardresearch.com
 0 sa.scorecardresearch.com
 0 sb.scorecardresearch.com
@@ -10377,9 +10380,6 @@
 0 app.adjust.io
 0 app.adjust.net.in
 0 app.adjust.world
-0 ads.moneyoyo.com
-0 sdk.moneyoyo.com
-0 api.moneyoyo.org
 0 bright-sdk.com
 0 brightdata.com
 0 brightdata.de
@@ -10409,6 +10409,11 @@
 0 hb.yellowblue.io
 0 sync.quantumdex.io
 0 useast.quantumdex.io
+0 ads.tvb.com
+0 img.ads.tvb.com
+0 ad.ettoday.net
+0 ad1.ettoday.net
+0 ad2.ettoday.net
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -11867,6 +11872,7 @@
 0 an.dongphim.net
 0 an.xemvtv.net
 0 api.boclinkads.com
+0 api.moneyoyo.org
 0 api2.boclinkads.com
 0 apia.headlines.pw
 0 avoadsservices.com
@@ -11942,6 +11948,7 @@
 0 s1.zzz.vn
 0 sbbanner.com
 0 sda.tamdiem247.com
+0 sdk.moneyoyo.com
 0 server.zmedia.vn
 0 serving-ad.tv24.vn
 0 sharks.vn
@@ -12513,7 +12520,6 @@
 0 ad.cooks.com
 0 ad.digitallook.com
 0 ad.domainfactory.de
-0 ad.ettoday.net
 0 ad.foxitsoftware.com
 0 ad.foxnetworks.com
 0 ad.garenanow.com
@@ -12993,7 +12999,6 @@
 0 ads.trinitymirror.co.uk
 0 ads.tripod.com
 0 ads.tso.dennisnet.co.uk
-0 ads.tvb.com
 0 ads.ultimate-guitar.com
 0 ads.uncrate.com
 0 ads.usatoday.com
@@ -13556,6 +13561,7 @@
 0 artax-evn.com
 0 artistestate.com
 0 artpever.com
+0 arvigorothan.com
 0 as.sexad.net
 0 as.webmd.com
 0 as5000.com
@@ -15737,6 +15743,7 @@
 0 hlvndpqwiwnyq.com
 0 hmepalobfn.com
 0 hoanoola.net
+0 hoardhopefullypromptly.com
 0 hockeyhavoc.com
 0 hoddlegamey.com
 0 holahupa.com
@@ -15784,6 +15791,7 @@
 0 hukojlbrijtu.com
 0 humandemand.com
 0 humilityanytime.com
+0 hunchlastlysluice.com
 0 hundiantick.com
 0 hundredscultureenjoyed.com
 0 hunlikeswanned.digital
@@ -15915,6 +15923,7 @@
 0 industrybrains.com
 0 inertimpuredeadlock.com
 0 inetlog.ru
+0 infamousfine.com
 0 infidelbima.uno
 0 infinite-ads.com
 0 infinityads.com
@@ -16278,6 +16287,7 @@
 0 leadplace.fr
 0 leadzu.com
 0 leadzupc.com
+0 leafy-feel.com
 0 lean.com
 0 leapfaucet.com
 0 leaplunchroom.com
@@ -16368,6 +16378,7 @@
 0 localspantle.com
 0 lockerdomecdn.com
 0 locketarloup.com
+0 locketcattishson.com
 0 loftsbaacad.com
 0 log.btopenworld.com
 0 logger.snackly.co
@@ -16495,10 +16506,12 @@
 0 marketron.com
 0 markofathenaluk.com
 0 markreptiloid.com
+0 marriagegray.com
 0 marriedvalue.com
 0 mars.media
 0 martyrcontrol.com
 0 mas.sector.sk
+0 mascaraowners.com
 0 massive-dark.pro
 0 mastermind.com
 0 mat.luckyspin666.com
@@ -16590,6 +16603,7 @@
 0 meshpetrols.com
 0 messagenovice.com
 0 messenger-notify.digital
+0 messsomehow.com
 0 messybusyrental.com
 0 metaffiliation.com
 0 metahv.xyz
@@ -16943,6 +16957,7 @@
 0 novem.pl
 0 novemberassimilate.com
 0 novemberseatsuccession.com
+0 nowheresank.com
 0 npipajajn.com
 0 npugpilraku.com
 0 nqmanxtemqvlne.com
@@ -16994,6 +17009,7 @@
 0 obdshyohcog.com
 0 obituaryfuneral.com
 0 obiyoluxjjzgy.com
+0 objectionsunited.com
 0 oboletcart.com
 0 obpofhtura.com
 0 obradjgifja.com
@@ -17351,6 +17367,8 @@
 0 pelagicmismate.com
 0 pelfsgarote.com
 0 peltastglaires.uno
+0 penbouncingmagpie.com
+0 pencilcongress.com
 0 pencilmoralturkey.com
 0 pennilesscomingall.com
 0 pennyweb.com
@@ -17425,6 +17443,7 @@
 0 pimproll.com
 0 pingpepa.xyz
 0 pinnalincuss.life
+0 pinpricktuxedokept.com
 0 pippio.com
 0 piquantpigs.com
 0 pisanguttate.com
@@ -17486,6 +17505,7 @@
 0 pollstover.guru
 0 pompadawe.com
 0 pontiflex.com
+0 ponysomebodymartyr.com
 0 pop-under.ru
 0 pop.bid
 0 pop5sjhspear.com
@@ -17502,10 +17522,12 @@
 0 popupmoney.com
 0 popupnation.com
 0 popuptraffic.com
+0 popuserapparatus.com
 0 porcatenonform.com
 0 porngraph.com
 0 porntrack.com
 0 pornve.sexyadsrun.com
+0 portlysingkenneth.com
 0 portybanders.digital
 0 poseidthewave.com
 0 poshhateful.com
@@ -17518,6 +17540,7 @@
 0 poucoaga.com
 0 pouptouch.com
 0 powerad.ai
+0 powershatchet.com
 0 ppfrlfe.com
 0 ppixufsalgm.com
 0 ppoommhizazn.com
@@ -17527,6 +17550,7 @@
 0 pr-ten.de
 0 praddpro.de
 0 praght.tech
+0 praiseddisintegrate.com
 0 prakritinfixed.com
 0 pramviable.com
 0 pranavafolksey.com
@@ -17741,6 +17765,7 @@
 0 quaintcan.com
 0 quakemarketing.com
 0 qualificationdishliquidate.com
+0 qualityadverse.com
 0 quallyrimers.com
 0 quantcast.com
 0 quantummetric.com
@@ -18114,6 +18139,7 @@
 0 scarofnght.com
 0 scashwl.com
 0 scatteredheat.com
+0 scatteredhecheaper.com
 0 scenescrockery.com
 0 schoolboyfingernail.com
 0 schoonnonform.com
@@ -20335,6 +20361,7 @@
 0 stats.pusher.com
 0 stats.searchftps.net
 0 stats.symptoma.com
+0 stats.ultraffic.info
 0 stats.unlimapps.com
 0 stats.vk-portal.net
 0 stats.wp.com
