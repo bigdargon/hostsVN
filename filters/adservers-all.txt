@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Oct 2024 09:42 UTC+7
-! Version: 2410020942
-! Blocked: 11,031 rules
+! Last modified: 02 Oct 2024 22:03 UTC+7
+! Version: 2410022203
+! Blocked: 11,032 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -656,6 +656,7 @@
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
+||log-video.baotintuc.vn^
 ||log.247post.vn^
 ||log.anninhthudo.vn^
 ||log.baobackan.com.vn^
