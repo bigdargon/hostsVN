@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 05 Oct 2024 22:50 UTC+7
-# Version: 2410052250
-# Blocked: 161,804 domains
+# Last modified: 09 Oct 2024 09:37 UTC+7
+# Version: 2410090937
+# Blocked: 161,803 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -101289,7 +101289,6 @@
 0.0.0.0 cdn.lfastcdn.com
 0.0.0.0 cdn.megawin88.mobi
 0.0.0.0 cdn.sasrepublic.com
-0.0.0.0 cdn.tailwindcss.com
 0.0.0.0 cdn.vbet88.fun
 0.0.0.0 cdn.vicplay.io
 0.0.0.0 cdn.vwin010.com

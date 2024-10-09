@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 05 Oct 2024 22:50 UTC+7
-! Version: 2410052250
-! Blocked: 160,339 rules
+! Last modified: 09 Oct 2024 09:37 UTC+7
+! Version: 2410090937
+! Blocked: 160,338 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -101308,7 +101308,6 @@
 ||cdn.lfastcdn.com^
 ||cdn.megawin88.mobi^
 ||cdn.sasrepublic.com^
-||cdn.tailwindcss.com^
 ||cdn.vbet88.fun^
 ||cdn.vicplay.io^
 ||cdn.vwin010.com^
