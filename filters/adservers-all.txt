@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Oct 2024 09:37 UTC+7
-! Version: 2410090937
-! Blocked: 11,039 rules
+! Last modified: 12 Oct 2024 16:10 UTC+7
+! Version: 2410121610
+! Blocked: 11,059 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -866,6 +866,7 @@
 ||tracker.phunusuckhoe.vn^
 ||tracker.phunuvagiadinh.vn^
 ||tracker.thichxemphim.net^
+||tracker.vneconomy.vn^
 ||tracking-web.smobgame.com^
 ||tracking.10gb.vn^
 ||tracking.appwifi.com^
@@ -943,9 +944,6 @@
 ||2leep.com^
 ||2mdn-cn.net^
 ||2mdnsys.com^
-||ad.ettoday.net^
-||ad1.ettoday.net^
-||ad2.ettoday.net^
 ||2o7.net^
 ||2performant.com^
 ||33across.com^
@@ -991,6 +989,7 @@
 ||ad.a.yximgs.com^
 ||ad.daum.net^
 ||ad.dev.360.cn^
+||ad.ettoday.net^
 ||ad.gamebox.360.cn^
 ||ad.go.com^
 ||ad.gt^
@@ -1005,7 +1004,9 @@
 ||ad.style^
 ||ad.xiaomi.com^
 ||ad.youku.com^
+||ad1.ettoday.net^
 ||ad1x.com^
+||ad2.ettoday.net^
 ||ad4game.com^
 ||ad4m.at^
 ||ad4mat.net^
@@ -1888,7 +1889,6 @@
 ||glitter.services.disqus.com^
 ||gmossp-sp.jp^
 ||go-mpulse.net^
-||go.trvdp.com^
 ||go2speed.org^
 ||goaserv.com^
 ||gonet-ads.com^
@@ -2315,7 +2315,6 @@
 ||ovp.iris.tv^
 ||p-n.io^
 ||p.imgur.com^
-||p.trvdp.com^
 ||p16-ad.byteoversea.com^
 ||pac.thesun.co.uk^
 ||pagead-googlehosted.l.google.com^
@@ -2862,6 +2861,7 @@
 ||wywyuserservice.com^
 ||wzrkt.com^
 ||x.clearbit.com^
+||x.trvdp.com^
 ||xapads.com^
 ||xdrig.com^
 ||ximad.com^
@@ -4011,6 +4011,7 @@
 ||alignclamstram.com^
 ||alikeaddition.com^
 ||alipromo.com^
+||alkalizemarineprude.com^
 ||alkaxmogso.com^
 ||all4spy.com^
 ||alladvantage.com^
@@ -4042,6 +4043,7 @@
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
 ||ambleads.com^
+||ambulanceappealingrut.com^
 ||ameedbezique.uno^
 ||americash.com^
 ||amesacewilga.store^
@@ -4155,6 +4157,7 @@
 ||anxiousapples.com^
 ||anxkuzvfim.com^
 ||anymedia.lv^
+||anymoreeruptuncharted.com^
 ||anymoresentencevirgin.com^
 ||anywaybreeches.com^
 ||ap2h9d2g3.com^
@@ -4257,6 +4260,7 @@
 ||argyresthia.com^
 ||arhribadjqp.com^
 ||aries-nbl.com^
+||armfullitigateslate.com^
 ||armhoopcoinage.com^
 ||armoursviolino.com^
 ||arnchealpa.com^
@@ -4341,6 +4345,7 @@
 ||autjaetpxhj.com^
 ||auto-bannertausch.de^
 ||autohits.dk^
+||automatedrepsturmoil.com^
 ||automaticflock.com^
 ||autumncamping.com^
 ||auweelta.net^
@@ -4406,6 +4411,8 @@
 ||backbeatmedia.com^
 ||backetkidlike.com^
 ||backla2z8han09.com^
+||backlogdoorstepsinister.com^
+||backspacecomprisedgoliath.com^
 ||badreeli.com^
 ||bafuhotel.com^
 ||baggalaresaid.com^
@@ -4727,6 +4734,7 @@
 ||boringcoat.com^
 ||boriskink.com^
 ||boudja.com^
+||bouncecardiganculture.com^
 ||bouncex.com^
 ||bouncyfront.com^
 ||boundlessbrake.com^
@@ -4778,6 +4786,7 @@
 ||broadboundary.com^
 ||broadcastbed.com^
 ||broaddoor.com^
+||brookgetupshorts.com^
 ||browser-update.org^
 ||bruisebaseball.com^
 ||bruitedhurrahs.com^
@@ -4891,6 +4900,7 @@
 ||capablecows.com^
 ||capaciousdrewreligion.com^
 ||cappuccinoeliza.com^
+||capsizehatlessprude.com^
 ||captainbicycle.com^
 ||captaintassie.com^
 ||captify.co.uk^
@@ -5018,6 +5028,7 @@
 ||chioneflake.com^
 ||chipmanksmochus.com^
 ||chippedaugur.com^
+||chirpyreemergespotty.com^
 ||chitika.net^
 ||chl7rysobc3ol6xla.com^
 ||chlod-qui.com^
@@ -5365,6 +5376,7 @@
 ||culmedmaumee.com^
 ||culmedpasses.cam^
 ||culterwhether.com^
+||culturalsameunbridle.com^
 ||cumbersomecloud.com^
 ||cumhiwdfoagk.com^
 ||cupidonmedia.com^
@@ -5468,6 +5480,7 @@
 ||daikersscrim.website^
 ||daincautela.com^
 ||daintydragged.com^
+||daintypurpleunfocused.com^
 ||daisycontroversy.com^
 ||dakic-ia-300.com^
 ||daledhenroll.uno^
@@ -5540,6 +5553,7 @@
 ||defectivesun.com^
 ||defensive-living.com^
 ||defrostjudica.com^
+||defusefinishedsleep.com^
 ||defyraspypuke.com^
 ||delegatediscussion.com^
 ||deligrassdull.com^
@@ -5991,6 +6005,7 @@
 ||exploreannihilationquicker.com^
 ||exponea.com^
 ||express-submit.de^
+||expressgutterlevers.com^
 ||extanalytics.com^
 ||exterminateantique.com^
 ||extreme-dm.com^
@@ -8661,6 +8676,7 @@
 ||profitablecpmgate.com^
 ||profitablecreativeformat.com^
 ||profitabledisplaynetwork.com^
+||profitableexactly.com^
 ||profitablegate.com^
 ||profitablegatetocontent.com^
 ||profitableheavilylord.com^
@@ -8961,6 +8977,7 @@
 ||reconditerake.com^
 ||record.bonniergaming.com^
 ||record.mrwin.com^
+||recoverystabilizevarmint.com^
 ||redderspsiloi.guru^
 ||redebitapedom.com^
 ||redfastlabs.com^
@@ -9008,6 +9025,7 @@
 ||remotepwn.com^
 ||remox.com^
 ||renaissancealoof.com^
+||repeatedspotlessstrobe.com^
 ||repeatsweater.com^
 ||replacementreluctance.com^
 ||reporo.net^
@@ -9185,6 +9203,7 @@
 ||ruwjkygaxo.com^
 ||ruwoxglzab.com^
 ||ruzwraxcugta.com^
+||rvotdlvpwmynan.xyz^
 ||rvrpushserv.com^
 ||rweqklxctunjy.com^
 ||rwturquxinm.com^
@@ -10032,6 +10051,7 @@
 ||to.getnitropack.com^
 ||toastspinner.com^
 ||toateeli.net^
+||toathoule.com^
 ||toawaups.net^
 ||tobapplog.ctobsnssdk.com^
 ||toblog.ctobsnssdk.com^
