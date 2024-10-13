@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 Oct 2024 16:10 UTC+7
-! Version: 2410121610
-! Blocked: 11,059 rules
+! Last modified: 13 Oct 2024 22:53 UTC+7
+! Version: 2410132253
+! Blocked: 11,064 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5206,6 +5206,7 @@
 ||commercialvalue.org^
 ||commindo-media-ressourcen.de^
 ||commissionmonster.com^
+||commodityshortlysurviving.com^
 ||commonswing.com^
 ||communicatequietboost.com^
 ||compactbanner.com^
@@ -5510,6 +5511,7 @@
 ||databerries.com^
 ||datadoghq-browser-agent.com^
 ||datafront.co^
+||dataretinalsubtotal.com^
 ||dataxu.com^
 ||daudejuw.com^
 ||daughterstinyprevailed.com^
@@ -6548,6 +6550,8 @@
 ||hazaraspekt.com^
 ||hazeabrasiverule.com^
 ||hazelnutshighs.com^
+||hb.minutemedia-prebid.com^
+||hb.openwebmp.com^
 ||hcokcetfyanm.com^
 ||hdatssfpxrwbxs.com^
 ||hdboqykfajjpmc.com^
@@ -7085,6 +7089,7 @@
 ||justwebads.com^
 ||juwqulshoqac.com^
 ||juwrzyawqas.com^
+||jvmhtxiqdfr.xyz^
 ||jwydulaplhmo.com^
 ||jzajretpyokz.com^
 ||jzeoqdjcyp.com^

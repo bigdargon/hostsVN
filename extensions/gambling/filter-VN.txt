@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 12 Oct 2024 16:13 UTC+7
-! Version: 2410121613
-! Blocked: 5,207 rules
+! Last modified: 13 Oct 2024 22:55 UTC+7
+! Version: 2410132255
+! Blocked: 5,206 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -348,7 +348,6 @@
 ||888b.in^
 ||888b.moe^
 ||888b.trade^
-||888b.xkiosx.xyz^
 ||888betk8.net^
 ||888bvn.vip^
 ||888k8vn.com^
@@ -3374,6 +3373,7 @@
 ||lt992.com^
 ||lt995.com^
 ||lt997.com^
+||lu88.co^
 ||luciu.shop^
 ||luck6.com^
 ||luck8.com^
@@ -5121,7 +5121,6 @@
 ||xidach.8day66.com^
 ||xingtou888.com^
 ||xinloiduocchua.co^
-||xkiosx.xyz^
 ||xljs2.com^
 ||xn--hi-ji6caa.com^
 ||xo68.gamehot88.fun^
