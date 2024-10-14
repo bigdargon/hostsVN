@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 13 Oct 2024 22:55 UTC+7
-! Version: 2410132255
-! Blocked: 163,172 rules
+! Last modified: 14 Oct 2024 14:18 UTC+7
+! Version: 2410141418
+! Blocked: 163,205 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -7895,6 +7895,7 @@
 ||122kto.com^
 ||122p456.com^
 ||122qtt.com^
+||122qzone.com^
 ||122tycvip.com^
 ||122yh1.com^
 ||122z6.com^
@@ -9134,6 +9135,7 @@
 ||132ag88.com^
 ||132dfr.vip^
 ||132ktv.com^
+||132qbiz.com^
 ||132qg.org^
 ||132qzone.com^
 ||132tycvip.com^
@@ -13915,6 +13917,7 @@
 ||181ks.net^
 ||181tiyu.com^
 ||181tycvip.com^
+||181vip6.com^
 ||181yh2.com^
 ||181z6.com^
 ||18207.org^
@@ -17850,6 +17853,7 @@
 ||202kaiyun.vip^
 ||202kyty.bet^
 ||202kyty.com^
+||202qinfo.com^
 ||202wns.com^
 ||202y.net^
 ||2030409.com^
@@ -27956,6 +27960,7 @@
 ||2pkwin.com^
 ||2pptiger.com^
 ||2pwf.com^
+||2q.team^
 ||2q556.com^
 ||2qbongda.club^
 ||2qbongda.online^
@@ -27989,11 +27994,13 @@
 ||2qvnt07.com^
 ||2qvnt08.com^
 ||2qvnt09.com^
+||2qvnt10.com^
 ||2qvnt12.com^
 ||2qvnt13.com^
 ||2qvnt14.com^
 ||2qvnt16.com^
 ||2qvnt20.com^
+||2qwin.net^
 ||2qy.xyz^
 ||2qy8.com^
 ||2qyh.vip^
@@ -28017,6 +28024,7 @@
 ||2u71.net^
 ||2u99f.com^
 ||2ucst1le.xyz^
+||2uq1.com^
 ||2utk.com^
 ||2uwd.com^
 ||2uz8y.com^
@@ -35301,6 +35309,7 @@
 ||3675p.com^
 ||3675s.com^
 ||3675x.com^
+||36760101.com^
 ||3676772.com^
 ||3676999.com^
 ||3676b.com^
@@ -70456,6 +70465,7 @@
 ||78win05.com^
 ||78win07.com^
 ||78win09.com^
+||78win7.pub^
 ||78win88.com^
 ||78yabo.com^
 ||78yb.net^
@@ -97411,6 +97421,7 @@
 ||biying2023.net^
 ||biyo8.com^
 ||biz2q12.com^
+||biz2q15.com^
 ||biz8d06.com^
 ||bizbet-giris.com^
 ||bizbet.partners^
@@ -107285,6 +107296,8 @@
 ||edhdzltnnu.com^
 ||edj59.com^
 ||edjvip.com^
+||edu.vz342.com^
+||edu.vz433.com^
 ||edzb6.vip^
 ||ee1299.com^
 ||ee1488.com^
@@ -107669,6 +107682,7 @@
 ||eskm88.com^
 ||esmyd.xyz^
 ||espisangijo.com^
+||esport247.info^
 ||esport88.net^
 ||esport88.vip^
 ||esport88.win^
@@ -119087,6 +119101,7 @@
 ||info.w88banh.com^
 ||info.w88bkk.com^
 ||info122q.com^
+||info12q.com^
 ||info132q.com^
 ||info152q.com^
 ||info162q.com^
@@ -127219,6 +127234,7 @@
 ||kh88.fun^
 ||khaclongtk88.top^
 ||khail0c.2qwin.top^
+||khamphasampham.cc^
 ||khanh201.win^
 ||khanhhan.vip^
 ||khaopad.com^
@@ -131863,6 +131879,7 @@
 ||mayizhifuapi888.vip^
 ||mayman.vuabai9.com^
 ||mayman68.com^
+||mazdaraceway.com^
 ||mb.b8ag.com^
 ||mb.cdn-bebo.com^
 ||mb.cdn-dysxb.com^
@@ -134969,6 +134986,9 @@
 ||newk8vn.com^
 ||newmili.xyz^
 ||newrink.xyz^
+||news.vz357.com^
+||news.vz361.com^
+||news.vz566.com^
 ||news.vz992.com^
 ||news1168.com^
 ||newsdafa.com^
@@ -145465,6 +145485,7 @@
 ||thangtien188bet.com^
 ||thangto.one^
 ||thanh128.win^
+||thanhnien.khamphasampham.cc^
 ||thanpro.com^
 ||thanquay247.vip^
 ||thantai.app^
@@ -146528,6 +146549,7 @@
 ||tt5889.com^
 ||tt63gg.com^
 ||tt706.win^
+||tt72q.com^
 ||tt81866.com^
 ||tt82q.com^
 ||tt83455.com^
@@ -150792,6 +150814,7 @@
 ||vnloto.com^
 ||vnloto.vip^
 ||vnlotovn.com^
+||vnm999.com^
 ||vnmanbetx.com^
 ||vnmx66.com^
 ||vnmy5.com^
@@ -151224,6 +151247,7 @@
 ||vtublwzmcl.com^
 ||vtxa7.com^
 ||vty01.com^
+||vty08.net^
 ||vty7r.com^
 ||vtya29.com^
 ||vtye60.com^
@@ -151538,7 +151562,13 @@
 ||vz294.com^
 ||vz297.com^
 ||vz308.com^
+||vz342.com^
+||vz355.com^
+||vz357.com^
+||vz361.com^
+||vz433.com^
 ||vz525.com^
+||vz566.com^
 ||vz599.com^
 ||vz668.com^
 ||vz670.com^
@@ -152359,10 +152389,12 @@
 ||w9.v819.cc^
 ||w9.v929.cc^
 ||w9.v999999.vip^
+||w9.vnm999.com^
 ||w9.vsxt001.tv^
 ||w9.vsxt08.com^
 ||w9.vsxt233.tv^
 ||w9.vty07.com^
+||w9.vty08.net^
 ||w9.vty11.vip^
 ||w9.vty11k.com^
 ||w9.vty12a.com^
@@ -153803,6 +153835,7 @@
 ||win.playmay88.vin^
 ||win.vaorikvip.com^
 ||win007app.com^
+||win007b.com^
 ||win036.com^
 ||win04.vip^
 ||win05.vip^
