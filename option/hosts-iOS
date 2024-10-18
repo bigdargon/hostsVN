@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 14 Oct 2024 14:18 UTC+7
-# Version: 2410141418
-# Blocked: 20,584 domains
+# Last modified: 18 Oct 2024 23:00 UTC+7
+# Version: 2410182300
+# Blocked: 20,610 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7300,6 +7300,21 @@
 0 rtlog.tiktokv.com
 0 xlog-va.tiktokv.com
 0 xlog.tiktokv.com
+0 log-hl.snssdk.com
+0 log.snssdk.com
+0 mcs.snssdk.com
+0 mon.snssdk.com
+0 xlog.snssdk.com
+0 log-tb.isnssdk.com
+0 log.isnssdk.com
+0 mon.isnssdk.com
+0 tnc16-alisg.isnssdk.com
+0 log-tb.sgsnssdk.com
+0 pangolin16.sgsnssdk.com
+0 tobapplog.tobsnssdk.com
+0 toblog.tobsnssdk.com
+0 tobapplog.ctobsnssdk.com
+0 toblog.ctobsnssdk.com
 0 a.mouseflow.com
 0 app.mouseflow.com
 0 cdn.mouseflow.com
@@ -10413,6 +10428,15 @@
 0 ad.ettoday.net
 0 ad1.ettoday.net
 0 ad2.ettoday.net
+0 adgem.com
+0 api.adgem.com
+0 cdn.adgem.com
+0 offer-api.adgem.com
+0 www.adgem.com
+0 cdn.nextadgem.com
+0 nextadgem.com
+0 offer-api.nextadgem.com
+0 www.nextadgem.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14221,6 +14245,7 @@
 0 cdn.lumupu.xyz
 0 cdn.mmctsvc.com
 0 cdn.netcatx.com
+0 cdn.pbxai.com
 0 cdn.qgr.ph
 0 cdn.uponelectabuzzor.club
 0 cdn.watchingthat.net
@@ -14598,6 +14623,7 @@
 0 culturalsameunbridle.com
 0 cumbersomecloud.com
 0 cumhiwdfoagk.com
+0 cunealfume.shop
 0 cupidonmedia.com
 0 cupmidnithe.com
 0 curioushingefast.com
@@ -15066,6 +15092,7 @@
 0 enduingdama.space
 0 endurableshop.com
 0 enduresopens.com
+0 endurosweekday.com
 0 engagebdr.com
 0 engine.espace.netavenir.com
 0 engineexplicitfootrest.com
@@ -15101,6 +15128,7 @@
 0 eqworks.com
 0 eraopeuvrutqpb.com
 0 erauthors.com
+0 erdreamsofcryin.info
 0 eremuribleak.com
 0 ergadx.com
 0 eringosdye.com
@@ -20440,8 +20468,6 @@
 0 tilanalytics.timesinternet.in
 0 tms.fmm.io
 0 to.getnitropack.com
-0 tobapplog.ctobsnssdk.com
-0 toblog.ctobsnssdk.com
 0 track-aws.notsy.io
 0 track.56txs4.com
 0 track.cbdatatracker.com

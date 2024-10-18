@@ -7983,6 +7983,26 @@
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
+#[snssdk.com]
+0.0.0.0 log-hl.snssdk.com
+0.0.0.0 log.snssdk.com
+0.0.0.0 mcs.snssdk.com
+0.0.0.0 mon.snssdk.com
+0.0.0.0 xlog.snssdk.com
+#[isnssdk.com]
+0.0.0.0 log-tb.isnssdk.com
+0.0.0.0 log.isnssdk.com
+0.0.0.0 mon.isnssdk.com
+0.0.0.0 tnc16-alisg.isnssdk.com
+#[sgsnssdk.com]
+0.0.0.0 log-tb.sgsnssdk.com
+0.0.0.0 pangolin16.sgsnssdk.com
+#[tobsnssdk.com]
+0.0.0.0 tobapplog.tobsnssdk.com
+0.0.0.0 toblog.tobsnssdk.com
+#[ctobsnssdk.com]
+0.0.0.0 tobapplog.ctobsnssdk.com
+0.0.0.0 toblog.ctobsnssdk.com
 #[mouseflow.com]
 0.0.0.0 a.mouseflow.com
 0.0.0.0 app.mouseflow.com
@@ -11800,3 +11820,14 @@
 0.0.0.0 ad.ettoday.net
 0.0.0.0 ad1.ettoday.net
 0.0.0.0 ad2.ettoday.net
+#[adgem.com]
+0.0.0.0 adgem.com
+0.0.0.0 api.adgem.com
+0.0.0.0 cdn.adgem.com
+0.0.0.0 offer-api.adgem.com
+0.0.0.0 www.adgem.com
+#[nextadgem.com]
+0.0.0.0 cdn.nextadgem.com
+0.0.0.0 nextadgem.com
+0.0.0.0 offer-api.nextadgem.com
+0.0.0.0 www.nextadgem.com
