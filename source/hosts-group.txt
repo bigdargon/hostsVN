@@ -11831,3 +11831,9 @@
 0.0.0.0 nextadgem.com
 0.0.0.0 offer-api.nextadgem.com
 0.0.0.0 www.nextadgem.com
+#[mobilefuse.com]
+0.0.0.0 cdn.mobilefuse.com
+0.0.0.0 mobilefuse.com
+#[volceapplog.com]
+0.0.0.0 volceapplog.com
+0.0.0.0 klink.volceapplog.com

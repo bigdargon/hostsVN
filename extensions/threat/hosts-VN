@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 14 Oct 2024 14:18 UTC+7
-# Version: 2410141418
-# Blocked: 4,282 domains
+# Last modified: 23 Oct 2024 22:07 UTC+7
+# Version: 2410232207
+# Blocked: 4,284 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -154,6 +154,7 @@
 0.0.0.0 amhen.com
 0.0.0.0 amqa11.com
 0.0.0.0 anbinh-finance.club
+0.0.0.0 ansfrxyr.tmska.de
 0.0.0.0 anzvn.net
 0.0.0.0 aodainusinh-cuoinam20233.weebly.com
 0.0.0.0 aodaisieuvietnhi2022.weebly.com
@@ -4292,3 +4293,4 @@
 0.0.0.0 zvc.cc
 0.0.0.0 zvietcombank.com
 0.0.0.0 zvietnakello.weebly.com
+0.0.0.0 zywjpypco.7hujk.de

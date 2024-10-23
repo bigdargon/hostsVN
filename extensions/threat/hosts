@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 14 Oct 2024 14:18 UTC+7
-# Version: 2410141418
-# Blocked: 4,696 domains
+# Last modified: 23 Oct 2024 22:07 UTC+7
+# Version: 2410232207
+# Blocked: 4,698 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -194,6 +194,7 @@
 0.0.0.0 andslideasco.cfd
 0.0.0.0 ani453las.cfd
 0.0.0.0 ans7tv.net
+0.0.0.0 ansfrxyr.tmska.de
 0.0.0.0 anstv.net
 0.0.0.0 anwasthere.cfd
 0.0.0.0 anzvn.net
@@ -4706,3 +4707,4 @@
 0.0.0.0 zvc.cc
 0.0.0.0 zvietcombank.com
 0.0.0.0 zvietnakello.weebly.com
+0.0.0.0 zywjpypco.7hujk.de
