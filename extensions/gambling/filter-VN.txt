@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 23 Oct 2024 22:07 UTC+7
-! Version: 2410232207
-! Blocked: 5,212 rules
+! Last modified: 25 Oct 2024 10:02 UTC+7
+! Version: 2410251002
+! Blocked: 5,213 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3775,6 +3775,7 @@
 ||one88.com^
 ||one88.fun^
 ||one88.me^
+||one88.pro^
 ||one88.top^
 ||one88.tv^
 ||one88.uk^

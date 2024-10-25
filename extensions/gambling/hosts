@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 23 Oct 2024 22:07 UTC+7
-# Version: 2410232207
-# Blocked: 164,724 domains
+# Last modified: 25 Oct 2024 10:02 UTC+7
+# Version: 2410251002
+# Blocked: 164,726 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -136015,6 +136015,7 @@
 0.0.0.0 one88.com
 0.0.0.0 one88.fun
 0.0.0.0 one88.me
+0.0.0.0 one88.pro
 0.0.0.0 one88.top
 0.0.0.0 one88.tv
 0.0.0.0 one88.uk
@@ -143502,6 +143503,7 @@
 0.0.0.0 static2.8live.com
 0.0.0.0 static2.lucky88.com
 0.0.0.0 static3.lucky88.com
+0.0.0.0 staticone88.com
 0.0.0.0 stavkabet-bk.com
 0.0.0.0 stavkabet-kz.top
 0.0.0.0 stavkabet-partners.com
