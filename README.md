@@ -42,9 +42,9 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain-VN.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers-all.txt
 ```
 
-- Với ứng dụng [Adblock](https://github.com/bigdargon/hostsVN/wiki/Adblock) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/wildcard.txt):
+- Với ứng dụng [Adblock](https://github.com/bigdargon/hostsVN/wiki/Adblock) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt):
 ```
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/wildcard.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 ```
 
 - Với ứng dụng [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge.conf):
