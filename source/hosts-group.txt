@@ -10110,9 +10110,6 @@
 0.0.0.0 us1-spiky.wzrkt.com
 0.0.0.0 us1.wzrkt.com
 0.0.0.0 wzrkt.com
-#[pncloudfl.com]
-0.0.0.0 cdn.pncloudfl.com
-0.0.0.0 pncloudfl.com
 #[hansel.io]
 0.0.0.0 sdk.hansel.io
 0.0.0.0 ujm.hansel.io
@@ -11276,6 +11273,7 @@
 0.0.0.0 ads.livetv791.me
 0.0.0.0 ads.livetv794.me
 0.0.0.0 ads.livetv806.me
+0.0.0.0 ads.livetv817.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com

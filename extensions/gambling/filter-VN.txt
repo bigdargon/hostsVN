@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 25 Oct 2024 10:02 UTC+7
-! Version: 2410251002
-! Blocked: 5,213 rules
+! Last modified: 02 Nov 2024 16:01 UTC+7
+! Version: 2411021601
+! Blocked: 5,224 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -487,6 +487,7 @@
 ||ad.choingay11b.vin^
 ||ad.choingay88.com^
 ||ad.choiyo88.co^
+||ad.da88vn.win^
 ||ad.dangkygo88.in^
 ||ad.gamequyong.site^
 ||ad.gamequyong.xyz^
@@ -1699,6 +1700,7 @@
 ||hstsc07cdn.com^
 ||hucd0.com^
 ||hx9119.com^
+||i.b52.club^
 ||i.go88.org^
 ||i.go88.top^
 ||i.rik.vip^
@@ -3360,6 +3362,7 @@
 ||lp.playrik79.site^
 ||lp.rikvip.tv^
 ||lp.rikvipp.net^
+||lp.sieub52.vip^
 ||lp.sun6.win^
 ||lp.sunwinvn.club^
 ||lp.taiv8.top^
@@ -3735,6 +3738,7 @@
 ||nhat.game^
 ||nhat.it^
 ||nhat1.club^
+||nhat9.vip^
 ||nhatvip.mobi^
 ||nhatvip.net^
 ||nhatvip.org^
@@ -3862,6 +3866,7 @@
 ||play.sbotop246.com^
 ||play.son.club^
 ||play.son5.club^
+||play.son8.club^
 ||play.sum27.club^
 ||play.sum4.club^
 ||play.sum5.club^
@@ -3909,6 +3914,7 @@
 ||playmay88.top^
 ||playmay88.vin^
 ||playrik79.site^
+||playson.link^
 ||playuk88.win^
 ||playv8.com^
 ||playv8.vip^
@@ -4130,6 +4136,7 @@
 ||shtotnhat.online^
 ||shviet.com^
 ||shviet0.com^
+||sieub52.vip^
 ||sieubomtan.com^
 ||sieubong88.info^
 ||sieukeo.live^
@@ -4210,6 +4217,7 @@
 ||solbet88.com^
 ||son.club^
 ||son5.club^
+||son8.club^
 ||sping369.club^
 ||sport.five88.biz^
 ||sport.soc88.uk^
@@ -4241,6 +4249,7 @@
 ||sukiensh.online^
 ||sum.club^
 ||sum27.club^
+||sum30.club^
 ||sum4.club^
 ||sum5.club^
 ||sumclub1.xyz^
@@ -4648,6 +4657,7 @@
 ||uw88vnn4.com^
 ||uytin.8day66.com^
 ||v.fa88.tv^
+||v.nhat9.vip^
 ||v111w.com^
 ||v112w.com^
 ||v121w.com^
@@ -5012,6 +5022,7 @@
 ||web.0000130.com^
 ||web.130casino.com^
 ||web.68rich.com^
+||web.choigametip.org^
 ||web.hit.club^
 ||web.hitclub.top^
 ||web.hitlub.fun^
