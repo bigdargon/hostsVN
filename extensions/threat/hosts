@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 02 Nov 2024 16:01 UTC+7
-# Version: 2411021601
-# Blocked: 4,698 domains
+# Last modified: 03 Nov 2024 16:26 UTC+7
+# Version: 2411031626
+# Blocked: 4,756 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13,6 +13,7 @@
 0.0.0.0 0088shop.com
 0.0.0.0 009855.com
 0.0.0.0 010172.com
+0.0.0.0 08ro35delw.ru
 0.0.0.0 0fb.co
 0.0.0.0 0fb.ltd
 0.0.0.0 113-bca.online
@@ -95,10 +96,21 @@
 0.0.0.0 abfishop.com
 0.0.0.0 abfishop.org
 0.0.0.0 abutparker.com
+0.0.0.0 acb.chamsockhachhang-the-tructuyen-thang9.com.vn
+0.0.0.0 acb.chamsockhachhang-uudai-tructuyen-thang10.com.vn
+0.0.0.0 acb.chamsockhachhang-uudaithetructuyen-thang10.com.vn
 0.0.0.0 acb.chamsockhachhang-uudaithetructuyen-thang8.online
+0.0.0.0 acb.chamsocthe-uudai-tructuyen-thang10.com.vn
+0.0.0.0 acb.chamsocthe-uudaikhachhang-thang10.com.vn
+0.0.0.0 acb.chamsocthe-uudaikhachhang-tructuyen.com
+0.0.0.0 acb.chamsocthe-uudaikhachhang.online
+0.0.0.0 acb.chamsocthe-uudaitructuyen.com.vn
 0.0.0.0 acb.chamsocthekhachhang-tructuyen-thang8.com.vn
 0.0.0.0 acb.hotrokhachhang-uudai-tructuyen.com.vn
+0.0.0.0 acb.uudaikhachhang-chamsocthetructuyen.com
+0.0.0.0 acb.uudaikhachhang-tructuyen-the.com.vn
 0.0.0.0 acb.uudaikhachhangthe-tructuyen-thang9.com.vn
+0.0.0.0 acb.uudauthekhachhanh-tructuyen-thang10.com.vn
 0.0.0.0 acb.vn-banks.xyz
 0.0.0.0 acb.vn-c.xyz
 0.0.0.0 acb.vn-cl.xyz
@@ -174,11 +186,14 @@
 0.0.0.0 amatvip36sc.cc
 0.0.0.0 amazon.amazonptj.com
 0.0.0.0 amazonbig.asia
+0.0.0.0 amazoni2.com
 0.0.0.0 amazonl0.com
 0.0.0.0 amazonl3.com
 0.0.0.0 amazonl4.com
 0.0.0.0 amazonsg.shop
 0.0.0.0 amazonxk.com
+0.0.0.0 amazoul.site
+0.0.0.0 amazoul.xyz
 0.0.0.0 amg133180.com
 0.0.0.0 amg187098.com
 0.0.0.0 amg187208.com
@@ -201,6 +216,7 @@
 0.0.0.0 aodainusinh-cuoinam20233.weebly.com
 0.0.0.0 aodaisieuvietnhi2022.weebly.com
 0.0.0.0 api.bitdefenderupdate.org
+0.0.0.0 api.garageserviceoperation.com
 0.0.0.0 api.simpletra.com
 0.0.0.0 app.amazon-line.com
 0.0.0.0 app.mybigc.net
@@ -358,6 +374,7 @@
 0.0.0.0 cbfor49836.click
 0.0.0.0 cbox4.ignorelist.com
 0.0.0.0 cct-giaohangtietkiem.com
+0.0.0.0 ccty-ghtk.com
 0.0.0.0 cdn.g8z.net
 0.0.0.0 celerantatters.com
 0.0.0.0 centralonline.shop
@@ -367,15 +384,24 @@
 0.0.0.0 cgovn.cc
 0.0.0.0 cham-soc-the-truc-tuyen.com.vn
 0.0.0.0 chamsockhachang.com
+0.0.0.0 chamsockhachhang-the-tructuyen-thang9.com.vn
 0.0.0.0 chamsockhachhang-tructuyenuudaithe.online
 0.0.0.0 chamsockhachhang-uudai-the-truc-tuyen.online
+0.0.0.0 chamsockhachhang-uudai-tructuyen-thang10.com.vn
 0.0.0.0 chamsockhachhang-uudai-tructuyenthe.com
 0.0.0.0 chamsockhachhang-uudaithe-thang6.com
 0.0.0.0 chamsockhachhang-uudaithecanhan-tructuyen.online
+0.0.0.0 chamsockhachhang-uudaithetructuyen-thang10.com.vn
 0.0.0.0 chamsockhachhang-uudaithetructuyen-thang8.online
 0.0.0.0 chamsockhachhang-uudaitructuyen.online
 0.0.0.0 chamsockhachhangnanghanmuctindungmsb.com
 0.0.0.0 chamsockhachhangtheuudai-tructuyen.com.vn
+0.0.0.0 chamsocthe-uudai-tructuyen-thang10.com.vn
+0.0.0.0 chamsocthe-uudaikhachhang-thang10.com.vn
+0.0.0.0 chamsocthe-uudaikhachhang-tructuyen.com
+0.0.0.0 chamsocthe-uudaikhachhang.com
+0.0.0.0 chamsocthe-uudaikhachhang.online
+0.0.0.0 chamsocthe-uudaitructuyen.com.vn
 0.0.0.0 chamsocthekhachang-truc-tuyen.com
 0.0.0.0 chamsocthekhachhang-thang4.com.vn
 0.0.0.0 chamsocthekhachhang-thang4.online
@@ -511,6 +537,7 @@
 0.0.0.0 csr110112201eur.click
 0.0.0.0 csr110112203eur.click
 0.0.0.0 csr110112204eur.click
+0.0.0.0 ctivo.com
 0.0.0.0 ctswasprimarilyd.cfd
 0.0.0.0 ctv-shopee.com
 0.0.0.0 ctvay.net
@@ -564,6 +591,7 @@
 0.0.0.0 demo.sc0mvn.com
 0.0.0.0 dendrito.name
 0.0.0.0 dev-checkmoneypayment-mpos.com
+0.0.0.0 dfeenxea.tidc.bid
 0.0.0.0 dfsshop66.com
 0.0.0.0 dg2255.com
 0.0.0.0 dhl-chuyenphatnhanhquocte.com.vn
@@ -596,6 +624,7 @@
 0.0.0.0 dichvucong-gov.com
 0.0.0.0 dichvucong.agov.net
 0.0.0.0 dichvucong.bcavnvnvngov.com
+0.0.0.0 dichvucong.ccbcavn.cc
 0.0.0.0 dichvucong.cvgov.com
 0.0.0.0 dichvucong.dancuquocgia.net
 0.0.0.0 dichvucong.dancuso.com
@@ -619,6 +648,8 @@
 0.0.0.0 dichvucong.zvgov.com
 0.0.0.0 dichvucongbaohiemxahoi.com
 0.0.0.0 dichvudaohantindung.com
+0.0.0.0 dichvudienmay-xanh.online
+0.0.0.0 dichvugiaohangtietkiem.com
 0.0.0.0 dichvunhantien-eu.org
 0.0.0.0 dichvunhantien24h.com
 0.0.0.0 dichvunhantienquocte2-4-7.weebly.com
@@ -628,6 +659,7 @@
 0.0.0.0 didongviet.store
 0.0.0.0 dien-may-xanh.net
 0.0.0.0 dienlanhdienmayxanh.com
+0.0.0.0 dienlanhdienmayxanhvn.com
 0.0.0.0 dienlanhnguyenkim.ctyvn.net
 0.0.0.0 dienmayxanh-hcm.com
 0.0.0.0 dienmayxanh-vn.top
@@ -644,6 +676,7 @@
 0.0.0.0 dienmayxanhantam.com
 0.0.0.0 dienmayxanhbeauty.com
 0.0.0.0 dienmayxanhbeautyplus.com
+0.0.0.0 dienmayxanhcenter.vn
 0.0.0.0 dienmayxanhctv24.com
 0.0.0.0 dienmayxanhh.com
 0.0.0.0 dienmayxanhhcm.com
@@ -740,6 +773,7 @@
 0.0.0.0 eventriansieusao.com
 0.0.0.0 evnbankcredit.info
 0.0.0.0 evncredit.online
+0.0.0.0 evnnpcs.com
 0.0.0.0 evnvaytien.xyz
 0.0.0.0 eximbank.club
 0.0.0.0 eximbank.me
@@ -771,6 +805,7 @@
 0.0.0.0 fairu-schnellvpn.xyz
 0.0.0.0 fajiafu30.com
 0.0.0.0 fajiafu50.com
+0.0.0.0 fasebook.com.vn
 0.0.0.0 fb88viet.com
 0.0.0.0 fbviet88.com
 0.0.0.0 fc.adswt.com
@@ -953,6 +988,7 @@
 0.0.0.0 ghnn11.com
 0.0.0.0 ghnn22.com
 0.0.0.0 ghnn33.com
+0.0.0.0 ghtk247.com
 0.0.0.0 giacatloi.info
 0.0.0.0 giaingan799.com
 0.0.0.0 giainganonline799.com
@@ -975,6 +1011,7 @@
 0.0.0.0 giaohangtietkiem247.top
 0.0.0.0 giaohangtietkiemvietnam.com
 0.0.0.0 giaohangtietkiemvn.com
+0.0.0.0 giaohangtietkiemvn.website
 0.0.0.0 giaothuongvietnhat.org
 0.0.0.0 gifcode-lienquan.com
 0.0.0.0 giftbangbangtank.weebly.com
@@ -1270,6 +1307,7 @@
 0.0.0.0 jaemoney.ltd
 0.0.0.0 japan-shopac.asia
 0.0.0.0 jbovietnam.com
+0.0.0.0 jetkingncsc.online
 0.0.0.0 jewvvkh.cyou
 0.0.0.0 jeyrkyshop.com
 0.0.0.0 jo9p72.cyou
@@ -1354,6 +1392,7 @@
 0.0.0.0 kkh818.com
 0.0.0.0 km-digibank.com
 0.0.0.0 kmnapthe.ga
+0.0.0.0 korshoptiktok.com
 0.0.0.0 kpd63519s.com
 0.0.0.0 kpt32165s.com
 0.0.0.0 ksdp997.com
@@ -1743,6 +1782,7 @@
 0.0.0.0 momomini.online
 0.0.0.0 momoplus.club
 0.0.0.0 momoproapi.com
+0.0.0.0 momoshopvip.com
 0.0.0.0 momoshopy.com
 0.0.0.0 momosieuhoihoantien.weebly.com
 0.0.0.0 momosieutoc.net
@@ -2055,6 +2095,7 @@
 0.0.0.0 napxutiktok.net
 0.0.0.0 napzingspeed.com
 0.0.0.0 napzingvng.news
+0.0.0.0 natvxgkbb.9pz1.tech
 0.0.0.0 ncb-bank.pw
 0.0.0.0 ncbbank.online
 0.0.0.0 ncbbank.site
@@ -2495,6 +2536,7 @@
 0.0.0.0 sdqwf.ga
 0.0.0.0 seabank-nganhanghanoi.com
 0.0.0.0 seleeashopee.com
+0.0.0.0 sendo1.com
 0.0.0.0 sendotv.com
 0.0.0.0 sendotv.shop
 0.0.0.0 sendovip.com
@@ -2526,6 +2568,7 @@
 0.0.0.0 shek66.com
 0.0.0.0 shilla.skrfgrl.cn
 0.0.0.0 shinhan.chamsoccanhankhachhangthe-tructuyen.online
+0.0.0.0 shinhan.chamsocthe-uudaikhachhang.com
 0.0.0.0 shinhan.chamsocthekhachhang-thang4.online
 0.0.0.0 shinhan.ho-tro-tin-dung-ca-nhan.com
 0.0.0.0 shinhan0.com
@@ -3022,6 +3065,7 @@
 0.0.0.0 sopper68.com
 0.0.0.0 sos-icloud.com
 0.0.0.0 sotuyenvcb.vietcombanker.com
+0.0.0.0 soyte.cc
 0.0.0.0 sp15569p.com
 0.0.0.0 sp1663p.com
 0.0.0.0 sp1776p.com
@@ -3032,6 +3076,7 @@
 0.0.0.0 sp6788.com
 0.0.0.0 sp7335p.com
 0.0.0.0 sp75193p.com
+0.0.0.0 sp7588p.com
 0.0.0.0 sp77888.com
 0.0.0.0 sp8668vn.com
 0.0.0.0 spaines.pw
@@ -3238,6 +3283,7 @@
 0.0.0.0 techcombank.vn-sp.xyz
 0.0.0.0 techcombank.vn-vp.xyz
 0.0.0.0 techcombank.website
+0.0.0.0 telaagam.maxisl.vip
 0.0.0.0 telegram.app0w.ltd
 0.0.0.0 teleway.top
 0.0.0.0 tescoshop.shop
@@ -3288,6 +3334,7 @@
 0.0.0.0 thuoctangcuongsinhlynam.com
 0.0.0.0 thuonghieutoancau69.com
 0.0.0.0 thuonghieutop1.online
+0.0.0.0 thuongmai-dientu.com
 0.0.0.0 thuongmaidientuquocte.com
 0.0.0.0 thuongmaivietnhat.com
 0.0.0.0 thuongviet01.com
@@ -3353,6 +3400,7 @@
 0.0.0.0 tiki8.vip
 0.0.0.0 tiki82.com
 0.0.0.0 tiki86.com
+0.0.0.0 tiki886.vip
 0.0.0.0 tiki888.com
 0.0.0.0 tiki94.com
 0.0.0.0 tiki98.com
@@ -3488,6 +3536,7 @@
 0.0.0.0 tongdaifacebook.online
 0.0.0.0 tongdaitruyenhinhcap.info
 0.0.0.0 tongdaitruyenhinhcap24h.online
+0.0.0.0 topcvvn.com
 0.0.0.0 topdienthoaia72.com
 0.0.0.0 tophanmem.com
 0.0.0.0 topmomo.me
@@ -3657,12 +3706,17 @@
 0.0.0.0 us.unixpop.xyz
 0.0.0.0 uslimsofbr.cfd
 0.0.0.0 uudai-tructuyen-chamsockhachhang-the.com.vn
+0.0.0.0 uudaikhachhang-chamsocthetructuyen.com
+0.0.0.0 uudaikhachhang-chamsocthetructuyen.com.vn
+0.0.0.0 uudaikhachhang-tructuyen-the.com.vn
 0.0.0.0 uudaikhachhang-tructuyen.com.vn
 0.0.0.0 uudaikhachhangthe-tructuyen-thang9.com.vn
 0.0.0.0 uudailienquan.com
 0.0.0.0 uudainapthe.vn
 0.0.0.0 uudainganhang.com
 0.0.0.0 uudainganhangso.site
+0.0.0.0 uudauthekhachhanh-tructuyen-thang10.com.vn
+0.0.0.0 uuyiiuqwownx.pw
 0.0.0.0 uyban.club
 0.0.0.0 uyhgqunqkxnx.pw
 0.0.0.0 v-vay.com
@@ -4276,6 +4330,7 @@
 0.0.0.0 vnc75635s.com
 0.0.0.0 vnduthianhgroup.com
 0.0.0.0 vnebank.xyz
+0.0.0.0 vneid.vieegovn.cc
 0.0.0.0 vnexprress.com
 0.0.0.0 vnfiba.com
 0.0.0.0 vngiao.hangtietkiem.online
@@ -4425,6 +4480,7 @@
 0.0.0.0 vpbank.com.vn-rn.biz
 0.0.0.0 vpbank.com.vn-uz.info
 0.0.0.0 vpbank.uudai-tructuyen-chamsockhachhang-the.com.vn
+0.0.0.0 vpbank.uudaikhachhang-chamsocthetructuyen.com.vn
 0.0.0.0 vpbank.vn-cl.xyz
 0.0.0.0 vpbank.vn-cn.life
 0.0.0.0 vpbank.vn-cr.life
@@ -4489,6 +4545,7 @@
 0.0.0.0 vxvw55.com
 0.0.0.0 w88banh.com
 0.0.0.0 walmartshoping.com
+0.0.0.0 walmartva.icu
 0.0.0.0 warrenmoneytrader.com
 0.0.0.0 watch-online.49n7wqynho5u.top
 0.0.0.0 wbk9sohp.jdpz.link
@@ -4684,6 +4741,7 @@
 0.0.0.0 xtramannchinhhang.com
 0.0.0.0 xuanlienquan.com
 0.0.0.0 yeumomo.me
+0.0.0.0 yk37wagdg.life
 0.0.0.0 yl0sj9.cyou
 0.0.0.0 ymx33.com
 0.0.0.0 ynefefyopqvu.com

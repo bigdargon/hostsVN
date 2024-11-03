@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 02 Nov 2024 16:01 UTC+7
-! Version: 2411021601
-! Blocked: 5,224 rules
+! Last modified: 03 Nov 2024 16:26 UTC+7
+! Version: 2411031626
+! Blocked: 5,228 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3693,9 +3693,12 @@
 ||nbet.vip^
 ||nbet.win^
 ||nbet88.org^
+||ne88.bet^
 ||nearom.com^
 ||nemo.vin^
 ||net88.ac^
+||net88.men^
+||net88.run^
 ||net88.tv^
 ||net88.vip^
 ||new.vx88.com^
@@ -3711,6 +3714,7 @@
 ||new8894.com^
 ||new88w.com^
 ||newk8.live^
+||news.ne88.bet^
 ||nex8vn.com^
 ||nextkhuyenmai.com^
 ||ngwv0.com^
