@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Nov 2024 16:04 UTC+7
-# Version: 2411101604
-# Blocked: 20,811 domains
+# Last modified: 10 Nov 2024 16:16 UTC+7
+# Version: 2411101616
+# Blocked: 20,810 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1369,7 +1369,6 @@
 0.0.0.0 tracking.intl.miui.com
 #[sec.intl.miui.com]
 0.0.0.0 adv.sec.intl.miui.com
-0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 flash.sec.intl.miui.com
@@ -1382,10 +1381,11 @@
 #[sec.miui.com]
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 api.sec.miui.com
-0.0.0.0 api.tw06.xlmc.sec.miui.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 mazu.sec.miui.com
+#[xlmc.sec.miui.com]
+0.0.0.0 api.tw06.xlmc.sec.miui.com
 0.0.0.0 xlmc.sec.miui.com
 #[cloudmobi.net]
 0.0.0.0 cloudmobi.net
