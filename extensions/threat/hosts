@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 03 Nov 2024 16:26 UTC+7
-# Version: 2411031626
-# Blocked: 4,756 domains
+# Last modified: 10 Nov 2024 16:05 UTC+7
+# Version: 2411101605
+# Blocked: 4,757 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1196,6 +1196,7 @@
 0.0.0.0 hotrotaichinh247g.com
 0.0.0.0 hotrotaichinhh.com
 0.0.0.0 hotrotieudungtpbank.com
+0.0.0.0 hotrovay.online
 0.0.0.0 hotrovaynganhang.com
 0.0.0.0 hotrovaynganhang88.com
 0.0.0.0 hotrovaytaichinhsg.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 03 Nov 2024 16:26 UTC+7
-! Version: 2411031626
-! Blocked: 164,200 rules
+! Last modified: 10 Nov 2024 16:05 UTC+7
+! Version: 2411101605
+! Blocked: 164,232 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -450,6 +450,7 @@
 ||004gg.com^
 ||004nfaa-api-wap-dcdn.esakaymo.com^
 ||004nfaa-fluid-aliyun.esakaymo.com^
+||004nfaa-fluid-aliyun.wauon.com^
 ||004nfaa-fluid.gzyuandongjiaju.com^
 ||004nfaa-wss-wap-dcdn.esakaymo.com^
 ||004pxj.com^
@@ -42135,6 +42136,7 @@
 ||4498n.com^
 ||4498t.com^
 ||44991524.com^
+||449917.com^
 ||44992004.com^
 ||44992017.com^
 ||449922.app^
@@ -58181,10 +58183,19 @@
 ||668566.vip^
 ||66857v.com^
 ||66858v.com^
+||6686-1.guide^
+||6686-10.bet^
+||6686-13.agency^
+||6686-13.digital^
+||6686-7.casino^
+||6686-8.guide^
+||6686.agency^
 ||6686.care^
 ||6686.cloud^
 ||6686.com^
 ||6686.cool^
+||6686.digital^
+||6686.guide^
 ||6686.life^
 ||6686.mobi^
 ||6686.pet^
@@ -59214,12 +59225,14 @@
 ||6686v820.com^
 ||6686v930.com^
 ||6686vip10.com^
+||6686vn-6.vip^
 ||6686vn.app^
 ||6686vn.bet^
 ||6686vn.casino^
 ||6686vn.co^
 ||6686vn.live^
 ||6686vn.me^
+||6686vn.net^
 ||6686vn.online^
 ||6686vn.site^
 ||6686vn.tv^
@@ -59280,6 +59293,7 @@
 ||6686vn47.com^
 ||6686vn48.com^
 ||6686vn49.com^
+||6686vn5.casino^
 ||6686vn5.com^
 ||6686vn50.com^
 ||6686vn51.com^
@@ -59292,6 +59306,7 @@
 ||6686vn58.com^
 ||6686vn59.com^
 ||6686vn6.com^
+||6686vn6.net^
 ||6686vn60.com^
 ||6686vn61.com^
 ||6686vn62.com^
@@ -91912,6 +91927,7 @@
 ||api.35sa88.com^
 ||api.3650022.com^
 ||api.448kbet.com^
+||api.449917.com^
 ||api.558kbet.com^
 ||api.569901.top^
 ||api.5699010.top^
@@ -92066,6 +92082,7 @@
 ||api.mc876.com^
 ||api.minicasino.io^
 ||api.minivn.com^
+||api.mocbai.cc^
 ||api.mu88.ag^
 ||api.mu88.mu^
 ||api.mu88k.com^
@@ -92080,6 +92097,7 @@
 ||api.ok689f.com^
 ||api.oppa888.com^
 ||api.oppa88888888.com^
+||api.pg88vn.vip^
 ||api.red88.us^
 ||api.red88.vin^
 ||api.red88.vip^
@@ -92656,6 +92674,7 @@
 ||atmvip168.com^
 ||atomicwins.com^
 ||atownwager.com^
+||atpnrt.com^
 ||atraff.com^
 ||ats2.alicdnvip.net^
 ||ats2.ltgaleria.com^
@@ -96696,6 +96715,7 @@
 ||bet666app.com^
 ||bet667.com^
 ||bet668609.com^
+||bet668610.com^
 ||bet668613.com^
 ||bet67777.com^
 ||bet68.vin^
@@ -103781,6 +103801,9 @@
 ||cole1111.com^
 ||colemannow.com^
 ||collapsar.space^
+||collector-cps-live.omnitrend.biz^
+||collector-cps2-live.omnitrend.biz^
+||collector-cps3-ttt.omnitrend.biz^
 ||colorwager.com^
 ||colourcee.com^
 ||colourher.com^
@@ -108944,6 +108967,7 @@
 ||facai338888.com^
 ||facaifff.com^
 ||facaih88.vip^
+||faceasian.online^
 ||facebook.abc8h1.vip^
 ||facebook.abc8j3.vip^
 ||facebook.j88h3i.vip^
@@ -117609,6 +117633,7 @@
 ||hlj365f.com^
 ||hlj555.com^
 ||hlj6588.com^
+||hlkf83zod9p.live^
 ||hllcr.com^
 ||hlm995.com^
 ||hlong.bet^
@@ -119681,6 +119706,7 @@
 ||img.2538img.com^
 ||img.alltocon.com^
 ||img.b112j.com^
+||img.dz3811o.com^
 ||img.fabet.cc^
 ||img.fabet.me^
 ||img.fabet.us^
@@ -132571,6 +132597,7 @@
 ||mb663.ink^
 ||mb665.ink^
 ||mb6669.wiki^
+||mb6688.me^
 ||mb669.pub^
 ||mb73.com^
 ||mb8.app^
@@ -134187,6 +134214,7 @@
 ||mobserverstestii.xyz^
 ||mobvhj.xyz^
 ||mocasino.bet^
+||mocbai.cc^
 ||mocinuh.site^
 ||mocols.xyz^
 ||modalqq.net^
@@ -137724,6 +137752,7 @@
 ||pg88c.me^
 ||pg88nohu.top^
 ||pg88ph.com^
+||pg88vn.vip^
 ||pg88vnd.com^
 ||pg88vnd.icu^
 ||pg974.com^
@@ -150443,6 +150472,8 @@
 ||vb777hh.com^
 ||vb777j.vip^
 ||vb779.com^
+||vb88.com^
+||vb88.win^
 ||vb88123.com^
 ||vb9553c.net^
 ||vb9995a.net^
@@ -154411,6 +154442,7 @@
 ||web.0000130.com^
 ||web.130casino.com^
 ||web.68rich.com^
+||web.analysiscloud.info^
 ||web.choigametip.org^
 ||web.hit.club^
 ||web.hitclub.top^

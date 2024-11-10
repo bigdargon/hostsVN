@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 03 Nov 2024 16:26 UTC+7
-! Version: 2411031626
-! Blocked: 5,228 rules
+! Last modified: 10 Nov 2024 16:05 UTC+7
+! Version: 2411101605
+! Blocked: 5,232 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -673,6 +673,7 @@
 ||api.mc876.com^
 ||api.minicasino.io^
 ||api.minivn.com^
+||api.mocbai.cc^
 ||api.mu88.ag^
 ||api.mu88.mu^
 ||api.mu9.club^
@@ -3628,6 +3629,7 @@
 ||mobi.dibongda777.com^
 ||mobi.oleviet777.com^
 ||mobile.k8sport.com^
+||mocbai.cc^
 ||mot88i.com^
 ||moto88.win^
 ||moto880.com^
@@ -4704,6 +4706,8 @@
 ||vb211.com^
 ||vb777.co^
 ||vb777.top^
+||vb88.com^
+||vb88.win^
 ||vbet88.fun^
 ||vebo.bet^
 ||vegas79.casino^

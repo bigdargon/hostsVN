@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 03 Nov 2024 16:26 UTC+7
-# Version: 2411031626
-# Blocked: 5,873 domains
+# Last modified: 10 Nov 2024 16:05 UTC+7
+# Version: 2411101605
+# Blocked: 5,878 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -668,6 +668,7 @@
 0.0.0.0 api.mc876.com
 0.0.0.0 api.minicasino.io
 0.0.0.0 api.minivn.com
+0.0.0.0 api.mocbai.cc
 0.0.0.0 api.mu88.ag
 0.0.0.0 api.mu88.mu
 0.0.0.0 api.mu9.club
@@ -3617,6 +3618,7 @@
 0.0.0.0 mobi.dibongda777.com
 0.0.0.0 mobi.oleviet777.com
 0.0.0.0 mobile.k8sport.com
+0.0.0.0 mocbai.cc
 0.0.0.0 mot88i.com
 0.0.0.0 moto88.win
 0.0.0.0 moto880.com
@@ -4682,6 +4684,8 @@
 0.0.0.0 vb211.com
 0.0.0.0 vb777.co
 0.0.0.0 vb777.top
+0.0.0.0 vb88.com
+0.0.0.0 vb88.win
 0.0.0.0 vbet88.fun
 0.0.0.0 vebo.bet
 0.0.0.0 vegas79.casino
@@ -5504,6 +5508,7 @@
 0.0.0.0 www.mibet88.com
 0.0.0.0 www.minicasino.io
 0.0.0.0 www.minivn.com
+0.0.0.0 www.mocbai.cc
 0.0.0.0 www.ms3388.com
 0.0.0.0 www.ms88asia.com
 0.0.0.0 www.ms88ca.com

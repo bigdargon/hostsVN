@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 03 Nov 2024 16:26 UTC+7
-# Version: 2411031626
-# Blocked: 165,715 domains
+# Last modified: 10 Nov 2024 16:05 UTC+7
+# Version: 2411101605
+# Blocked: 165,750 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -454,6 +454,7 @@
 0.0.0.0 004gg.com
 0.0.0.0 004nfaa-api-wap-dcdn.esakaymo.com
 0.0.0.0 004nfaa-fluid-aliyun.esakaymo.com
+0.0.0.0 004nfaa-fluid-aliyun.wauon.com
 0.0.0.0 004nfaa-fluid.gzyuandongjiaju.com
 0.0.0.0 004nfaa-wss-wap-dcdn.esakaymo.com
 0.0.0.0 004pxj.com
@@ -42131,6 +42132,7 @@
 0.0.0.0 4498n.com
 0.0.0.0 4498t.com
 0.0.0.0 44991524.com
+0.0.0.0 449917.com
 0.0.0.0 44992004.com
 0.0.0.0 44992017.com
 0.0.0.0 449922.app
@@ -58176,10 +58178,19 @@
 0.0.0.0 668566.vip
 0.0.0.0 66857v.com
 0.0.0.0 66858v.com
+0.0.0.0 6686-1.guide
+0.0.0.0 6686-10.bet
+0.0.0.0 6686-13.agency
+0.0.0.0 6686-13.digital
+0.0.0.0 6686-7.casino
+0.0.0.0 6686-8.guide
+0.0.0.0 6686.agency
 0.0.0.0 6686.care
 0.0.0.0 6686.cloud
 0.0.0.0 6686.com
 0.0.0.0 6686.cool
+0.0.0.0 6686.digital
+0.0.0.0 6686.guide
 0.0.0.0 6686.life
 0.0.0.0 6686.mobi
 0.0.0.0 6686.pet
@@ -59209,12 +59220,14 @@
 0.0.0.0 6686v820.com
 0.0.0.0 6686v930.com
 0.0.0.0 6686vip10.com
+0.0.0.0 6686vn-6.vip
 0.0.0.0 6686vn.app
 0.0.0.0 6686vn.bet
 0.0.0.0 6686vn.casino
 0.0.0.0 6686vn.co
 0.0.0.0 6686vn.live
 0.0.0.0 6686vn.me
+0.0.0.0 6686vn.net
 0.0.0.0 6686vn.online
 0.0.0.0 6686vn.site
 0.0.0.0 6686vn.tv
@@ -59275,6 +59288,7 @@
 0.0.0.0 6686vn47.com
 0.0.0.0 6686vn48.com
 0.0.0.0 6686vn49.com
+0.0.0.0 6686vn5.casino
 0.0.0.0 6686vn5.com
 0.0.0.0 6686vn50.com
 0.0.0.0 6686vn51.com
@@ -59287,6 +59301,7 @@
 0.0.0.0 6686vn58.com
 0.0.0.0 6686vn59.com
 0.0.0.0 6686vn6.com
+0.0.0.0 6686vn6.net
 0.0.0.0 6686vn60.com
 0.0.0.0 6686vn61.com
 0.0.0.0 6686vn62.com
@@ -91894,6 +91909,7 @@
 0.0.0.0 api.35sa88.com
 0.0.0.0 api.3650022.com
 0.0.0.0 api.448kbet.com
+0.0.0.0 api.449917.com
 0.0.0.0 api.558kbet.com
 0.0.0.0 api.569901.top
 0.0.0.0 api.5699010.top
@@ -92048,6 +92064,7 @@
 0.0.0.0 api.mc876.com
 0.0.0.0 api.minicasino.io
 0.0.0.0 api.minivn.com
+0.0.0.0 api.mocbai.cc
 0.0.0.0 api.mu88.ag
 0.0.0.0 api.mu88.mu
 0.0.0.0 api.mu88k.com
@@ -92062,6 +92079,7 @@
 0.0.0.0 api.ok689f.com
 0.0.0.0 api.oppa888.com
 0.0.0.0 api.oppa88888888.com
+0.0.0.0 api.pg88vn.vip
 0.0.0.0 api.red88.us
 0.0.0.0 api.red88.vin
 0.0.0.0 api.red88.vip
@@ -92638,6 +92656,7 @@
 0.0.0.0 atmvip168.com
 0.0.0.0 atomicwins.com
 0.0.0.0 atownwager.com
+0.0.0.0 atpnrt.com
 0.0.0.0 atraff.com
 0.0.0.0 ats2.alicdnvip.net
 0.0.0.0 ats2.ltgaleria.com
@@ -96678,6 +96697,7 @@
 0.0.0.0 bet666app.com
 0.0.0.0 bet667.com
 0.0.0.0 bet668609.com
+0.0.0.0 bet668610.com
 0.0.0.0 bet668613.com
 0.0.0.0 bet67777.com
 0.0.0.0 bet68.vin
@@ -103759,6 +103779,9 @@
 0.0.0.0 cole1111.com
 0.0.0.0 colemannow.com
 0.0.0.0 collapsar.space
+0.0.0.0 collector-cps-live.omnitrend.biz
+0.0.0.0 collector-cps2-live.omnitrend.biz
+0.0.0.0 collector-cps3-ttt.omnitrend.biz
 0.0.0.0 colorwager.com
 0.0.0.0 colourcee.com
 0.0.0.0 colourher.com
@@ -108916,6 +108939,7 @@
 0.0.0.0 facai338888.com
 0.0.0.0 facaifff.com
 0.0.0.0 facaih88.vip
+0.0.0.0 faceasian.online
 0.0.0.0 facebook.abc8h1.vip
 0.0.0.0 facebook.abc8j3.vip
 0.0.0.0 facebook.j88h3i.vip
@@ -117574,6 +117598,7 @@
 0.0.0.0 hlj365f.com
 0.0.0.0 hlj555.com
 0.0.0.0 hlj6588.com
+0.0.0.0 hlkf83zod9p.live
 0.0.0.0 hllcr.com
 0.0.0.0 hlm995.com
 0.0.0.0 hlong.bet
@@ -119646,6 +119671,7 @@
 0.0.0.0 img.2538img.com
 0.0.0.0 img.alltocon.com
 0.0.0.0 img.b112j.com
+0.0.0.0 img.dz3811o.com
 0.0.0.0 img.fabet.cc
 0.0.0.0 img.fabet.me
 0.0.0.0 img.fabet.us
@@ -132528,6 +132554,7 @@
 0.0.0.0 mb663.ink
 0.0.0.0 mb665.ink
 0.0.0.0 mb6669.wiki
+0.0.0.0 mb6688.me
 0.0.0.0 mb669.pub
 0.0.0.0 mb73.com
 0.0.0.0 mb8.app
@@ -134143,6 +134170,7 @@
 0.0.0.0 mobserverstestii.xyz
 0.0.0.0 mobvhj.xyz
 0.0.0.0 mocasino.bet
+0.0.0.0 mocbai.cc
 0.0.0.0 mocinuh.site
 0.0.0.0 mocols.xyz
 0.0.0.0 modalqq.net
@@ -137676,6 +137704,7 @@
 0.0.0.0 pg88c.me
 0.0.0.0 pg88nohu.top
 0.0.0.0 pg88ph.com
+0.0.0.0 pg88vn.vip
 0.0.0.0 pg88vnd.com
 0.0.0.0 pg88vnd.icu
 0.0.0.0 pg974.com
@@ -150384,6 +150413,8 @@
 0.0.0.0 vb777hh.com
 0.0.0.0 vb777j.vip
 0.0.0.0 vb779.com
+0.0.0.0 vb88.com
+0.0.0.0 vb88.win
 0.0.0.0 vb88123.com
 0.0.0.0 vb9553c.net
 0.0.0.0 vb9995a.net
@@ -154324,6 +154355,7 @@
 0.0.0.0 web.0000130.com
 0.0.0.0 web.130casino.com
 0.0.0.0 web.68rich.com
+0.0.0.0 web.analysiscloud.info
 0.0.0.0 web.choigametip.org
 0.0.0.0 web.hit.club
 0.0.0.0 web.hitclub.top
@@ -155981,6 +156013,7 @@
 0.0.0.0 www.3zbet.com
 0.0.0.0 www.42b272.shop
 0.0.0.0 www.448kbet.com
+0.0.0.0 www.449917.com
 0.0.0.0 www.49betoo.com
 0.0.0.0 www.5123b.com
 0.0.0.0 www.520xiaojin.com
@@ -156907,6 +156940,7 @@
 0.0.0.0 www.minicasino.io
 0.0.0.0 www.minivn.com
 0.0.0.0 www.mjbtsf.com
+0.0.0.0 www.mocbai.cc
 0.0.0.0 www.mrazens.com
 0.0.0.0 www.ms3388.com
 0.0.0.0 www.ms88asia.com
@@ -157124,6 +157158,7 @@
 0.0.0.0 www.oxbet.club
 0.0.0.0 www.oxbet.com
 0.0.0.0 www.partypoker.cz
+0.0.0.0 www.pg88vn.vip
 0.0.0.0 www.phbet.com
 0.0.0.0 www.playdsb.com
 0.0.0.0 www.playgogle11.com
