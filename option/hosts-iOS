@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Nov 2024 16:16 UTC+7
-# Version: 2411101616
-# Blocked: 20,810 domains
+# Last modified: 11 Nov 2024 10:33 UTC+7
+# Version: 2411111033
+# Blocked: 20,812 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11585,6 +11585,7 @@
 0 adnetwork-adserver.aiactiv.io
 0 adnetwork-core-lb7.aiactiv.io
 0 adnetwork-core.aiactiv.io
+0 adnetwork-tracking-proxy.aiactiv.io
 0 aiactiv.io
 0 identify.aiactiv.io
 0 sdk-cdn.aiactiv.io
@@ -15705,6 +15706,7 @@
 0 gtop.ro
 0 gtop100.com
 0 gtsmobi.com
+0 gtubumgalb.com
 0 guardedschool.com
 0 guatocut.live
 0 guchihyfa.pro
