@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 11 Nov 2024 10:33 UTC+7
-# Version: 2411111033
-# Blocked: 4,336 domains
+# Last modified: 13 Nov 2024 16:13 UTC+7
+# Version: 2411131613
+# Blocked: 4,337 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2699,6 +2699,7 @@
 0.0.0.0 sieumomo.top
 0.0.0.0 sieumomo.win
 0.0.0.0 sieunhitainangmua3-2022.weebly.com
+0.0.0.0 sieusalegiare.top
 0.0.0.0 sieusao.lienquan-vgarena.com
 0.0.0.0 sieuthibaby24h.com
 0.0.0.0 sieuthidark.com

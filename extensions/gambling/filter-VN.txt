@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 11 Nov 2024 10:33 UTC+7
-! Version: 2411111033
-! Blocked: 5,237 rules
+! Last modified: 13 Nov 2024 16:13 UTC+7
+! Version: 2411131613
+! Blocked: 5,273 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -539,6 +539,7 @@
 ||ae888.men^
 ||ae888.mobi^
 ||ae888.net^
+||ae888.run^
 ||ae88827.com^
 ||ae88830.com^
 ||ae88836.com^
@@ -767,6 +768,7 @@
 ||b89.bet^
 ||bachhoa88.com^
 ||bacty88.com^
+||baidoithuong.co^
 ||banca-red88.top^
 ||banca.cc^
 ||banca.red88.us^
@@ -1070,6 +1072,7 @@
 ||comebetvn2.com^
 ||comebetvn3.com^
 ||comebetvn9.com^
+||congdongmiosoioso.com^
 ||conggamehot.fun^
 ||conggiaitri.com^
 ||coopbet.com^
@@ -1272,6 +1275,7 @@
 ||dp533.com^
 ||dp568.com^
 ||dp568bet.com^
+||duatop2024.net^
 ||dubaivn.vip^
 ||duongdenkhungthanh.com^
 ||e678y.com^
@@ -1447,13 +1451,21 @@
 ||fine.bet^
 ||fishapi.taisum2.com^
 ||fishapi.xinloiduocchua.co^
+||five-88.com^
+||five-88.link^
+||five-88.net^
 ||five88.biz^
 ||five88.com^
 ||five88.me^
 ||five88.net^
+||five88.sale^
+||five88.show^
 ||five88.top^
 ||five88.vin^
 ||five88.win^
+||five88.wine^
+||five88.world^
+||five88vn.me^
 ||fivevn.net^
 ||fmapt.com^
 ||for88.com^
@@ -1514,6 +1526,10 @@
 ||gamebai.manclub.us^
 ||gamebai.manclub.vin^
 ||gamebai.vin^
+||gamebai88.fun^
+||gamebaidoithuong.com.mx^
+||gamebaidoithuong.quest^
+||gamebaidoithuong6.com^
 ||gamebaisumvip.net^
 ||gamebancaonline.com^
 ||gamebay365.us^
@@ -1573,6 +1589,7 @@
 ||go789.nl^
 ||go789.to^
 ||go88-vn.com^
+||go88.ca^
 ||go88.cam^
 ||go88.club^
 ||go88.com^
@@ -1671,7 +1688,11 @@
 ||hit38.club^
 ||hit38.co^
 ||hit68.net^
+||hitclub.cafe^
+||hitclub.com^
+||hitclub.salon^
 ||hitclub.top^
+||hitclub.vin^
 ||hitclub.win^
 ||hitgame.in^
 ||hitlub.fun^
@@ -1873,6 +1894,7 @@
 ||iwin.club^
 ||iwin.info^
 ||iwin.net^
+||iwin.uk^
 ||iwin.us^
 ||iwin10.club^
 ||iwin12.club^
@@ -3198,6 +3220,7 @@
 ||keonhacai-fun88.com^
 ||keonhacai3.com^
 ||keotot.net^
+||ketquasoso.net^
 ||khamphasampham.cc^
 ||khuyenmaibw.com^
 ||kidslovemartialartsomahane.com^
@@ -3294,6 +3317,8 @@
 ||kuwaitfunddev.com^
 ||kuwin.bet^
 ||kuwin.com^
+||kuwin.digital^
+||kuwin.guide^
 ||kuwinvip.com^
 ||lambada-tx1app.fun^
 ||lamgiau99.club^
@@ -3395,7 +3420,6 @@
 ||lucky678.com^
 ||lucky696.com^
 ||lucky816.com^
-||lucky823.com^
 ||lucky88.bet^
 ||lucky88.casino^
 ||lucky88.cc^
@@ -3563,6 +3587,7 @@
 ||maffiliate.w88club.com^
 ||maint.v79top.com^
 ||man.club^
+||man.top^
 ||man.vip^
 ||man1.club^
 ||man79.org^
@@ -3621,6 +3646,11 @@
 ||minicasino.io^
 ||minigame.vnloto.com^
 ||minivn.com^
+||miso88.com^
+||miso88.net^
+||miso88.org^
+||miso88.red^
+||miso88.site^
 ||missbet.com^
 ||mix79.vip^
 ||mk.support^
@@ -3831,6 +3861,7 @@
 ||pc.vinbet1005.com^
 ||pekqt.com^
 ||phatloc88.club^
+||phatlocmiso.online^
 ||piwik.12b99.com^
 ||piwik.88thaicasinoslots.com^
 ||pkwin1.com^
@@ -4153,6 +4184,8 @@
 ||sin88.biz^
 ||sin88.cc^
 ||sin88.club^
+||sin88.com^
+||sin88.me^
 ||sin88.mn^
 ||sin88.mobi^
 ||sin88.mx^
@@ -4478,6 +4511,7 @@
 ||taixiumd5dg.taisum2.com^
 ||taixiusunwin.games^
 ||taizom1.fun^
+||tamquocchiton.vn^
 ||tangl0c.8day66.com^
 ||tap88.club^
 ||tbab395.com^
@@ -4604,6 +4638,7 @@
 ||top9nhacai.top^
 ||topcc88.me^
 ||topdoithuong.net^
+||topgamebai.biz^
 ||topnhacaihot.com^
 ||topnohu.com^
 ||topzo.club^
@@ -4622,6 +4657,7 @@
 ||trangchu2b.com^
 ||trangchu2c.com^
 ||trangchu2d.com^
+||trangweb.co^
 ||tructiepdaga.info^
 ||tructiepketqua.net^
 ||trungso.vip^

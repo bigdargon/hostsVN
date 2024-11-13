@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Nov 2024 10:33 UTC+7
-! Version: 2411111033
-! Blocked: 926 rules
+! Last modified: 13 Nov 2024 16:12 UTC+7
+! Version: 2411131612
+! Blocked: 928 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -532,6 +532,7 @@
 ||analytics.hebela.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
+||analytics.mobiedu.vn^
 ||analytics.molistar.com^
 ||analytics.moneycat.vn^
 ||analytics.nhattao.com^
@@ -901,6 +902,7 @@
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||upfile16.mediaphim.com^
 ||upl.net-solutions.vn^
+||us.mplis.gov.vn^
 ||user.headlines.pw^
 ||userstats.shopee.vn^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^

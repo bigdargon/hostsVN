@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 11 Nov 2024 10:33 UTC+7
-! Version: 2411111033
-! Blocked: 164,255 rules
+! Last modified: 13 Nov 2024 16:13 UTC+7
+! Version: 2411131613
+! Blocked: 164,375 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2217,14 +2217,20 @@
 ||0399n.com^
 ||0399s.com^
 ||0399t.com^
+||039app.com^
 ||039bb.com^
+||039dh.com^
 ||039dl.vip^
 ||039vip0.com^
 ||039vip1.com^
 ||039vip2.com^
+||039vip20.vip^
+||039vip24.vip^
+||039vip26.vip^
 ||039vip3.com^
 ||039vip4.com^
 ||039vip5.com^
+||039vip5.top^
 ||039yy.com^
 ||03a99.com^
 ||03b3659.com^
@@ -7680,6 +7686,7 @@
 ||11kcwin.com^
 ||11kk5357.com^
 ||11kk99.cn^
+||11luck88.net^
 ||11n666.com^
 ||11nn55.com^
 ||11p.live^
@@ -8862,6 +8869,7 @@
 ||12pkwin.com^
 ||12playasians.com^
 ||12playbway.com^
+||12playnow.com^
 ||12predict.com^
 ||12premier.com^
 ||12premierleague.com^
@@ -27900,6 +27908,7 @@
 ||2a556.com^
 ||2aamm.com^
 ||2ab7772.com^
+||2ae888.com^
 ||2aecamon.online^
 ||2aestore.online^
 ||2aj6298.com^
@@ -59261,6 +59270,7 @@
 ||6686vn18.com^
 ||6686vn19.com^
 ||6686vn2.com^
+||6686vn2.tv^
 ||6686vn20.com^
 ||6686vn21.com^
 ||6686vn22.com^
@@ -61412,6 +61422,7 @@
 ||68688xy.com^
 ||68689.club^
 ||6868mgm.com^
+||6868ms.me^
 ||6868sp.com^
 ||686csj.com^
 ||686df.com^
@@ -61693,6 +61704,7 @@
 ||68gbweb15.com^
 ||68gbweb26.com^
 ||68gbweb38.com^
+||68gbwin.shop^
 ||68h.club^
 ||68hg8.com^
 ||68hgv.com^
@@ -90752,10 +90764,13 @@
 ||ae2888.com^
 ||ae288vn.com^
 ||ae3656.com^
+||ae388.vip^
 ||ae38818.com^
 ||ae3888.com^
 ||ae3888.fun^
+||ae3888.online^
 ||ae3888.top^
+||ae3888.vip^
 ||ae3dangky.online^
 ||ae3dangky.site^
 ||ae58888.com^
@@ -90790,6 +90805,7 @@
 ||ae888.men^
 ||ae888.mobi^
 ||ae888.net^
+||ae888.run^
 ||ae88805.net^
 ||ae88812.com^
 ||ae88821.com^
@@ -92757,26 +92773,36 @@
 ||aw19lhm9z.com^
 ||aw88fun.online^
 ||aw8a.com^
+||aw8ae.com^
 ||aw8app.co^
+||aw8app.com^
 ||aw8app.site^
 ||aw8bet.fun^
+||aw8bet.top^
 ||aw8boss.com^
 ||aw8eblast.online^
+||aw8f.com^
 ||aw8fb.com^
 ||aw8fpt.com^
 ||aw8fun.online^
 ||aw8fun.site^
+||aw8g.com^
 ||aw8gacor.com^
 ||aw8gacor1.com^
 ||aw8gacor4.com^
+||aw8go.com^
+||aw8h.com^
+||aw8hub.com^
 ||aw8id303.asia^
 ||aw8id303.com^
 ||aw8id303.vip^
 ||aw8idr.com^
 ||aw8indo.click^
 ||aw8indo.vip^
+||aw8info.com^
 ||aw8khgig.com^
 ||aw8khslot.com^
+||aw8link.online^
 ||aw8live.co^
 ||aw8live.link^
 ||aw8mantap.com^
@@ -92785,16 +92811,24 @@
 ||aw8sgd10.com^
 ||aw8sgd6.com^
 ||aw8sgd7.com^
+||aw8t.com^
 ||aw8thai.com^
 ||aw8thai3.com^
 ||aw8thai5.com^
 ||aw8thai6.com^
 ||aw8thaiorg.com^
 ||aw8thclub.com^
+||aw8v1.com^
+||aw8vi.com^
 ||aw8viet.vip^
+||aw8vietn.com^
+||aw8vietnam.com^
 ||aw8vn.com^
 ||aw8vn2.com^
 ||aw8vn3.com^
+||aw8vn8.com^
+||aw8vn9.com^
+||aw8w.com^
 ||awardonline1b8e8t.com^
 ||awarenessonline1b8e8t.com^
 ||awb12.org^
@@ -93805,6 +93839,7 @@
 ||b528376.com^
 ||b5284.com^
 ||b52api.net^
+||b52club.to^
 ||b52club1.click^
 ||b52d.club^
 ||b52k.club^
@@ -94885,6 +94920,7 @@
 ||baht9my.com^
 ||bahydhvyvck.com^
 ||baicaidoufu.com^
+||baidoithuong.co^
 ||baidu017js.com^
 ||baidu159js.com^
 ||baidu258js.com^
@@ -98181,6 +98217,7 @@
 ||bk8kstream.com^
 ||bk8l.com^
 ||bk8ld.com^
+||bk8link18.com^
 ||bk8liveslot.com^
 ||bk8m.com^
 ||bk8mas.com^
@@ -98780,6 +98817,7 @@
 ||bongvn188.com^
 ||bongvui247.com^
 ||bons.com^
+||bons26.com^
 ||bonus288.club^
 ||bonus48.com^
 ||bonus58.com^
@@ -102939,9 +102977,12 @@
 ||cdn.y2cdn.com^
 ||cdn2-node-h.tc-cdn.com^
 ||cdn65.avcjtodj.com^
+||cdnapiif.039casinocdnhd.com^
+||cdnapiif.039cdndafa.com^
 ||cdnapiif.88vn-app.com^
 ||cdnapiif.88vn-app1.com^
 ||cdnapiif.88vn-app2.com^
+||cdnapiif.fhyldh039vip.com^
 ||cdnapiif.hcm2200.com^
 ||cdnapiif.hcm2211.com^
 ||cdnapiif.hcm2222.com^
@@ -102951,6 +102992,8 @@
 ||cdnjiasuss.com^
 ||cdnnetworks.net^
 ||cdntools.vnn123.com^
+||cdntoos.039hdjscdn.com^
+||cdntoos.039jiasuoss.com^
 ||cdntoos.039vip3.com^
 ||cdntoos.55888slot.com^
 ||cdntoos.8jbet08.com^
@@ -103836,6 +103879,7 @@
 ||compro.vip^
 ||compsres.com^
 ||conga6789.asia^
+||congdongmiosoioso.com^
 ||conggamehot.fun^
 ||conggiaitri.com^
 ||connectpay88.com^
@@ -106975,6 +107019,7 @@
 ||du5252.com^
 ||du5664.com^
 ||du768.com^
+||duatop2024.net^
 ||dubai-speed.com^
 ||dubai147.com^
 ||dubai232.com^
@@ -109866,16 +109911,24 @@
 ||fiu3i578qfsfi359ryhtrtjrrrkefddgsw354345.online^
 ||fiu7539rq.live^
 ||fiva2crm.com^
+||five-88.com^
+||five-88.link^
+||five-88.net^
 ||five-appyuming.com^
 ||five88.biz^
 ||five88.com^
 ||five88.me^
 ||five88.net^
+||five88.sale^
+||five88.show^
 ||five88.space^
 ||five88.top^
 ||five88.vin^
 ||five88.win^
+||five88.wine^
+||five88.world^
 ||five88bet.com^
+||five88vn.me^
 ||fivevn.net^
 ||fixkeep.xyz^
 ||fixlover.xyz^
@@ -111350,6 +111403,7 @@
 ||fun868.com^
 ||fun8688.com^
 ||fun86vvip.com^
+||fun87.com^
 ||fun8728.com^
 ||fun8778.com^
 ||fun8785.com^
@@ -111717,6 +111771,7 @@
 ||funhappy88.com^
 ||funhelp8.com^
 ||funhelp88.com^
+||funhew.com^
 ||funhotgirl.com^
 ||funhotline88.com^
 ||funiu88n.com^
@@ -112356,6 +112411,10 @@
 ||gamebai.manclub.us^
 ||gamebai.manclub.vin^
 ||gamebai.vin^
+||gamebai88.fun^
+||gamebaidoithuong.com.mx^
+||gamebaidoithuong.quest^
+||gamebaidoithuong6.com^
 ||gamebaisumvip.net^
 ||gamebancaonline.com^
 ||gamebay365.us^
@@ -113319,6 +113378,7 @@
 ||go789.to^
 ||go88-vn.com^
 ||go88.asia^
+||go88.ca^
 ||go88.cam^
 ||go88.club^
 ||go88.co^
@@ -113334,6 +113394,7 @@
 ||go88.uk^
 ||go88.vip^
 ||go888.asia^
+||go88apk.app^
 ||go88b.com^
 ||go88bet.net^
 ||go88cx.com^
@@ -116558,6 +116619,7 @@
 ||hhqp87.com^
 ||hhqp89.com^
 ||hhqp90.com^
+||hhstoday.com^
 ||hht44.com^
 ||hhv001.com^
 ||hhv003.com^
@@ -116813,9 +116875,14 @@
 ||hit68.net^
 ||hitballclub.com^
 ||hitcite.xyz^
+||hitclub.cafe^
+||hitclub.com^
 ||hitclub.fun^
+||hitclub.salon^
 ||hitclub.top^
+||hitclub.vin^
 ||hitclub.win^
+||hitclubcom.org^
 ||hitech6.com^
 ||hitgame.in^
 ||hitlub.fun^
@@ -120002,6 +120069,7 @@
 ||iwin.club^
 ||iwin.info^
 ||iwin.net^
+||iwin.uk^
 ||iwin.us^
 ||iwin0004.com^
 ||iwin0007.com^
@@ -127765,6 +127833,7 @@
 ||kernelgo.com^
 ||keszj.com^
 ||ketfind.xyz^
+||ketquasoso.net^
 ||kevinskins.com^
 ||kewdd.win^
 ||kexuf.com^
@@ -128811,6 +128880,7 @@
 ||kondoball.com^
 ||konduangdee.com^
 ||kong2522.vip^
+||kontum00.vip^
 ||koqipai.com^
 ||kor1xbet.com^
 ||korea-1xbet.com^
@@ -129442,6 +129512,8 @@
 ||kuwin-8.com^
 ||kuwin.bet^
 ||kuwin.com^
+||kuwin.digital^
+||kuwin.guide^
 ||kuwin01.com^
 ||kuwin09.com^
 ||kuwin1.com^
@@ -132436,6 +132508,7 @@
 ||mall987.com^
 ||mamooth998cdntf.com^
 ||man.club^
+||man.top^
 ||man.vip^
 ||man1.club^
 ||man2.vip^
@@ -134025,7 +134098,24 @@
 ||mipay999.xyz^
 ||mirrorlink.bet^
 ||mishos588654.vet^
+||miso88-1.com^
+||miso88-2.com^
+||miso88-3.com^
+||miso88-4.com^
+||miso88-5.com^
+||miso88-6.com^
+||miso88-7.com^
+||miso88-8.com^
+||miso88-9.com^
+||miso88.com^
+||miso88.net^
+||miso88.org^
+||miso88.red^
+||miso88.site^
+||miso88a.asia^
 ||miso88agent.xyz^
+||miso88b.co^
+||miso88p.com^
 ||misobowl.com^
 ||missbet.com^
 ||missbet1.com^
@@ -134389,6 +134479,7 @@
 ||ms857.com^
 ||ms881.asia^
 ||ms882.org^
+||ms887979.site^
 ||ms888s.com^
 ||ms88asia.com^
 ||ms88b.com^
@@ -134433,6 +134524,7 @@
 ||mscccx.com^
 ||mshdov.com^
 ||mshljtnc.com^
+||msiconaej.me^
 ||msklre.com^
 ||msm789.com^
 ||msmeb.com^
@@ -135896,6 +135988,7 @@
 ||ninjaplay88.bond^
 ||nio45.org^
 ||nit23.org^
+||nitorig.net^
 ||niu85.com^
 ||niu8u.com^
 ||niu8v.com^
@@ -136052,6 +136145,7 @@
 ||nn9607.com^
 ||nn9608.com^
 ||nn9609.com^
+||nnbnpdk_deu.126002.com^
 ||nnbqr.com^
 ||nncmbc.com^
 ||nnkmz.com^
@@ -136775,6 +136869,7 @@
 ||onbet007.com^
 ||onbet018.com^
 ||onbet066.com^
+||onbet1.store^
 ||onbet111.com^
 ||onbet123.com^
 ||onbet2.com^
@@ -136797,6 +136892,7 @@
 ||onbet809.com^
 ||onbet863.com^
 ||onbet88.com^
+||onbet88.org^
 ||onbet884.com^
 ||onbet899.com^
 ||onbet992.com^
@@ -136888,6 +136984,7 @@
 ||only188.net^
 ||only911slot.xyz^
 ||onnnyn.xyz^
+||onnpe.com^
 ||onoclub.com^
 ||onoclubs.com^
 ||onolato.com^
@@ -137964,6 +138061,7 @@
 ||phat7979.vip^
 ||phathoa92.vip^
 ||phatloc88.club^
+||phatlocmiso.online^
 ||phatm.com^
 ||phattaionbet.com^
 ||phbet.com^
@@ -138936,6 +139034,7 @@
 ||play.rikgame.live^
 ||play.rikvip.services^
 ||play.rikvip.tv^
+||play.sao789a.vin^
 ||play.sbotop246.com^
 ||play.son.club^
 ||play.son5.club^
@@ -139660,6 +139759,7 @@
 ||q8vip02.com^
 ||q8zt.com^
 ||q90901.com^
+||q919.cn^
 ||q929x2.com^
 ||q999233.com^
 ||q999365.com^
@@ -142544,6 +142644,7 @@
 ||sanos.fun^
 ||sanuk88.com^
 ||sanvip.club^
+||sao789a.vin^
 ||saoma.bet^
 ||saowin.ink^
 ||saowin.plus^
@@ -143755,6 +143856,8 @@
 ||sin88.biz^
 ||sin88.cc^
 ||sin88.club^
+||sin88.com^
+||sin88.me^
 ||sin88.mn^
 ||sin88.mobi^
 ||sin88.mx^
@@ -146028,6 +146131,7 @@
 ||talagaming.net^
 ||tam8.online^
 ||tamplay88.com^
+||tamquocchiton.vn^
 ||tang.tp888.org^
 ||tangball555.com^
 ||tangger.vip^
@@ -146328,6 +146432,7 @@
 ||tfvip88.vip^
 ||tg.bet^
 ||tg.game78.com^
+||tg11.039dh.com^
 ||tg15888.com^
 ||tg15889.com^
 ||tg1717.com^
@@ -147117,6 +147222,7 @@
 ||topdoithuong.net^
 ||topfb88.com^
 ||topfun88.com^
+||topgamebai.biz^
 ||topggreg242.com^
 ||topjbo.com^
 ||topjbostar.com^
@@ -147308,6 +147414,7 @@
 ||trangchu2b.com^
 ||trangchu2c.com^
 ||trangchu2d.com^
+||trangweb.co^
 ||tranhtaieuro.com^
 ||trarow.xyz^
 ||trbet.com^
@@ -150846,6 +150953,10 @@
 ||vip-2138.com^
 ||vip-6132.com^
 ||vip-mng-mobile.com^
+||vip.039-vip1.com^
+||vip.039-vip10.com^
+||vip.039-vip6.com^
+||vip.039-vip7.com^
 ||vip.8kbet.vn^
 ||vip.dangkyrikvip.me^
 ||vip.dangkyrikvip.tv^
@@ -152612,6 +152723,7 @@
 ||vz99.ws^
 ||vz992.com^
 ||vz99vietnam.com^
+||vzaa.cc^
 ||vze74.net^
 ||vzh8.wang^
 ||vzjun.wang^
@@ -153329,6 +153441,7 @@
 ||w88thweb.com^
 ||w88tian.com^
 ||w88tian.net^
+||w88train.com^
 ||w88u08.com^
 ||w88u1.com^
 ||w88u18.com^
@@ -154039,6 +154152,7 @@
 ||w9ehh.com^
 ||w9t32.com^
 ||w9x0y1.xyz^
+||wa.hunb.cc^
 ||wa1108.com^
 ||wa1358.com^
 ||wa1377.com^
@@ -154456,6 +154570,9 @@
 ||we6mp.com^
 ||we724.com^
 ||we846.com^
+||we88affiliates.com^
+||we88affvnt4.com^
+||we88vien1.com^
 ||we9188.com^
 ||wealth.zqvnn.com^
 ||weare1x.com^
@@ -154492,6 +154609,7 @@
 ||webapi.estargame.cc^
 ||webbox.system32-cloudfare-356783752985678522.monster^
 ||webdev.vietbet.eu^
+||webdizajnsajta.com^
 ||webj9vn.com^
 ||webk8.live^
 ||webk8vn.com^
@@ -155259,6 +155377,7 @@
 ||wiskeybear.com^
 ||witcr.biz^
 ||withdf.com^
+||withoutend.org^
 ||wizaim.xyz^
 ||wj8956.vip^
 ||wj9dor.vip^
@@ -156185,6 +156304,7 @@
 ||wx66.fun^
 ||wx66.vip^
 ||wxdfq.win^
+||wxf741-gov.299168.com^
 ||wxg.pt.cdn-dysxb.com^
 ||wxspahs.com^
 ||wxug291nqgrsgj.com^
