@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 13 Nov 2024 16:13 UTC+7
-! Version: 2411131613
-! Blocked: 45,924 rules
+! Last modified: 14 Nov 2024 10:51 UTC+7
+! Version: 2411141051
+! Blocked: 45,932 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -15698,6 +15698,7 @@
 ||gaigoi.icu^
 ||gaigoi.link^
 ||gaigoi.live^
+||gaigoi.ws^
 ||gaigoi18.biz^
 ||gaigoi18.site^
 ||gaigoi2.checkerviet.cc^
@@ -15733,8 +15734,11 @@
 ||gaigoihanoi.net^
 ||gaigoihanoi.one^
 ||gaigoihanoi.pro^
+||gaigoihanoi.vip^
 ||gaigoihanoivip.com^
 ||gaigoihanoivip.vncns.com^
+||gaigoihanoivip1.vncns.com^
+||gaigoihanoivip2.vncns.com^
 ||gaigoihaugiang.xyz^
 ||gaigoihn.com^
 ||gaigoihue.link^
@@ -15770,6 +15774,7 @@
 ||gaigoitayninh.xyz^
 ||gaigoitelegram.xyz^
 ||gaigoitiengiang.xyz^
+||gaigoitop.com^
 ||gaigoitop.xyz^
 ||gaigoituoi17.xyz^
 ||gaigoituoi18.fun^
@@ -15783,6 +15788,7 @@
 ||gaigoivip.pro^
 ||gaigoivip.site^
 ||gaigoivip247.com^
+||gaigoivip2k.com^
 ||gaigoivn.club^
 ||gaigoixinh.me^
 ||gaigoixx.xyz^
@@ -17034,6 +17040,8 @@
 ||hanlongcable.com^
 ||hanmasy.com^
 ||hanmeiapp.com^
+||hanoivip.comvn.me^
+||hanoivip.vnav.me^
 ||hanseibun.com^
 ||hansen-auto.com^
 ||hanshanggou.com^

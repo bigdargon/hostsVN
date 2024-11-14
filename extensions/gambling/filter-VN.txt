@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 13 Nov 2024 16:13 UTC+7
-! Version: 2411131613
-! Blocked: 5,273 rules
+! Last modified: 14 Nov 2024 10:51 UTC+7
+! Version: 2411141051
+! Blocked: 5,286 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -85,6 +85,7 @@
 ||123b.com^
 ||123b.net^
 ||123b.org^
+||123b.town^
 ||123b.vn^
 ||123b03.com^
 ||123b04.com^
@@ -330,8 +331,11 @@
 ||8559558.com^
 ||85vnd.com^
 ||868vip.asia^
+||868vip.cam^
 ||868vip.live^
 ||868vip.mobi^
+||868vip.onl^
+||868vip.pro^
 ||868vip.top^
 ||868vip1.live^
 ||87vnd.com^
@@ -385,6 +389,7 @@
 ||8day.bet^
 ||8day.com^
 ||8day.online^
+||8day.sbs^
 ||8day66.com^
 ||8dayclub.com^
 ||8daygo.com^
@@ -1639,10 +1644,12 @@
 ||h51.live^
 ||happy9luck.com^
 ||happynb.com^
+||hay88.mom^
 ||hay88.net^
 ||hay8811.com^
 ||hay8822.com^
 ||hb88.com^
+||hb88.party^
 ||hb88013.com^
 ||hb88016.com^
 ||hb88017.com^
@@ -3224,6 +3231,7 @@
 ||khamphasampham.cc^
 ||khuyenmaibw.com^
 ||kidslovemartialartsomahane.com^
+||kimsa.us^
 ||kimsa1116.com^
 ||kimsa338.com^
 ||kimsa598.com^
@@ -3767,6 +3775,7 @@
 ||nhacaik8fun.com^
 ||nhacaik8vn.net^
 ||nhacailucky88.net^
+||nhacaipro.vip^
 ||nhacaisodo.net^
 ||nhacaisomot.com^
 ||nhacaiuytin.life^
@@ -3865,6 +3874,7 @@
 ||piwik.12b99.com^
 ||piwik.88thaicasinoslots.com^
 ||pkwin1.com^
+||play.789.club^
 ||play.b52.mobi^
 ||play.b52.win^
 ||play.b52m.club^
@@ -4034,6 +4044,7 @@
 ||qh250.com^
 ||qh322.com^
 ||qh52.com^
+||qh88.baby^
 ||qh91.com^
 ||qh99.com^
 ||qq101.com^
@@ -4163,6 +4174,7 @@
 ||shbet.news^
 ||shbet.rip^
 ||shbet.site^
+||shbet.tours^
 ||shbet.vin^
 ||shbet.win^
 ||shbet0.com^
@@ -4803,6 +4815,7 @@
 ||vip79.vip^
 ||vip79.win^
 ||vip79gamebai.vip^
+||vip88.click^
 ||vipbet001.org^
 ||vipbet998.com^
 ||vipclub.homes^

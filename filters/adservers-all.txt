@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Nov 2024 16:12 UTC+7
-! Version: 2411131612
-! Blocked: 11,303 rules
+! Last modified: 14 Nov 2024 10:49 UTC+7
+! Version: 2411141049
+! Blocked: 11,309 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -516,6 +516,7 @@
 ||analytic.proxyme.link^
 ||analytic.thuanbui.me^
 ||analytic.vnanet.vn^
+||analytics-cds.mobiedu.vn^
 ||analytics.admon.com.vn^
 ||analytics.aita.gov.vn^
 ||analytics.amedigital.vn^
@@ -4120,6 +4121,7 @@
 ||analytics.cloudron.io^
 ||analytics.convertlanguage.com^
 ||analytics.data.visenze.com^
+||analytics.digitaldudes.nl^
 ||analytics.getshogun.com^
 ||analytics.gismart.xyz^
 ||analytics.govinfo.gov^
@@ -4155,6 +4157,7 @@
 ||analytics.sejda.com^
 ||analytics.shein.com^
 ||analytics.shift.agency^
+||analytics.shivamsinghis.me^
 ||analytics.shutterstock.com^
 ||analytics.slashdotmedia.com^
 ||analytics.streamgaga.com^
@@ -4321,6 +4324,7 @@
 ||ascentmatrimonypistol.com^
 ||asdhhuztul.com^
 ||asdkd.tutuapp.com^
+||asfobftirag.com^
 ||asgccummig.com^
 ||asgclick.com^
 ||asgclickkl.com^
@@ -8390,6 +8394,7 @@
 ||optimallimit.com^
 ||optimost.com^
 ||optimove.net^
+||optiontwentiethhart.com^
 ||optmd.com^
 ||optmstr.com^
 ||optnmstr.com^
@@ -10721,6 +10726,7 @@
 ||vetdeberg.com^
 ||vexenbill.com^
 ||vfagizavsdul.com^
+||vfuqivac.com^
 ||vgrcxa.com^
 ||vgsksc.com^
 ||vheoggjiqaz.com^

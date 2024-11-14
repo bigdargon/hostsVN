@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Nov 2024 16:12 UTC+7
-# Version: 2411131612
-# Blocked: 1,901 domains
+# Last modified: 14 Nov 2024 10:49 UTC+7
+# Version: 2411141049
+# Blocked: 1,902 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1804,6 +1804,7 @@
 0.0.0.0 analytic.proxyme.link
 0.0.0.0 analytic.thuanbui.me
 0.0.0.0 analytic.vnanet.vn
+0.0.0.0 analytics-cds.mobiedu.vn
 0.0.0.0 analytics.admon.com.vn
 0.0.0.0 analytics.aita.gov.vn
 0.0.0.0 analytics.amedigital.vn

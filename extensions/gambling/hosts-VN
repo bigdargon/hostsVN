@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 Nov 2024 16:13 UTC+7
-# Version: 2411131613
-# Blocked: 5,919 domains
+# Last modified: 14 Nov 2024 10:51 UTC+7
+# Version: 2411141051
+# Blocked: 5,932 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -88,6 +88,7 @@
 0.0.0.0 123b.com
 0.0.0.0 123b.net
 0.0.0.0 123b.org
+0.0.0.0 123b.town
 0.0.0.0 123b.vn
 0.0.0.0 123b03.com
 0.0.0.0 123b04.com
@@ -329,8 +330,11 @@
 0.0.0.0 8559558.com
 0.0.0.0 85vnd.com
 0.0.0.0 868vip.asia
+0.0.0.0 868vip.cam
 0.0.0.0 868vip.live
 0.0.0.0 868vip.mobi
+0.0.0.0 868vip.onl
+0.0.0.0 868vip.pro
 0.0.0.0 868vip.top
 0.0.0.0 868vip1.live
 0.0.0.0 87vnd.com
@@ -384,6 +388,7 @@
 0.0.0.0 8day.bet
 0.0.0.0 8day.com
 0.0.0.0 8day.online
+0.0.0.0 8day.sbs
 0.0.0.0 8day66.com
 0.0.0.0 8dayclub.com
 0.0.0.0 8daygo.com
@@ -1632,10 +1637,12 @@
 0.0.0.0 h51.live
 0.0.0.0 happy9luck.com
 0.0.0.0 happynb.com
+0.0.0.0 hay88.mom
 0.0.0.0 hay88.net
 0.0.0.0 hay8811.com
 0.0.0.0 hay8822.com
 0.0.0.0 hb88.com
+0.0.0.0 hb88.party
 0.0.0.0 hb88013.com
 0.0.0.0 hb88016.com
 0.0.0.0 hb88017.com
@@ -3214,6 +3221,7 @@
 0.0.0.0 khamphasampham.cc
 0.0.0.0 khuyenmaibw.com
 0.0.0.0 kidslovemartialartsomahane.com
+0.0.0.0 kimsa.us
 0.0.0.0 kimsa1116.com
 0.0.0.0 kimsa338.com
 0.0.0.0 kimsa598.com
@@ -3756,6 +3764,7 @@
 0.0.0.0 nhacaik8fun.com
 0.0.0.0 nhacaik8vn.net
 0.0.0.0 nhacailucky88.net
+0.0.0.0 nhacaipro.vip
 0.0.0.0 nhacaisodo.net
 0.0.0.0 nhacaisomot.com
 0.0.0.0 nhacaiuytin.life
@@ -3853,6 +3862,7 @@
 0.0.0.0 piwik.12b99.com
 0.0.0.0 piwik.88thaicasinoslots.com
 0.0.0.0 pkwin1.com
+0.0.0.0 play.789.club
 0.0.0.0 play.b52.mobi
 0.0.0.0 play.b52.win
 0.0.0.0 play.b52m.club
@@ -4022,6 +4032,7 @@
 0.0.0.0 qh250.com
 0.0.0.0 qh322.com
 0.0.0.0 qh52.com
+0.0.0.0 qh88.baby
 0.0.0.0 qh91.com
 0.0.0.0 qh99.com
 0.0.0.0 qq101.com
@@ -4149,6 +4160,7 @@
 0.0.0.0 shbet.news
 0.0.0.0 shbet.rip
 0.0.0.0 shbet.site
+0.0.0.0 shbet.tours
 0.0.0.0 shbet.vin
 0.0.0.0 shbet.win
 0.0.0.0 shbet40.com
@@ -4781,6 +4793,7 @@
 0.0.0.0 vip79.vip
 0.0.0.0 vip79.win
 0.0.0.0 vip79gamebai.vip
+0.0.0.0 vip88.click
 0.0.0.0 vipbet001.org
 0.0.0.0 vipbet998.com
 0.0.0.0 vipclub.homes
