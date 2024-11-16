@@ -11829,3 +11829,17 @@
 #[volceapplog.com]
 0.0.0.0 volceapplog.com
 0.0.0.0 klink.volceapplog.com
+#[videy.co]
+0.0.0.0 ads-api.videy.co
+0.0.0.0 ads.videy.co
+0.0.0.0 ads2.videy.co
+0.0.0.0 ads3.videy.co
+#[mobilegamestats.com]
+0.0.0.0 analytics.mobilegamestats.com
+0.0.0.0 config.mobilegamestats.com
+#[scorchads.com]
+0.0.0.0 api.scorchads.com
+0.0.0.0 assets.scorchads.com
+0.0.0.0 scorchads.com
+0.0.0.0 serve.scorchads.com
+0.0.0.0 track.scorchads.com

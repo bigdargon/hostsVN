@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Nov 2024 10:49 UTC+7
-! Version: 2411141049
-! Blocked: 929 rules
+! Last modified: 16 Nov 2024 16:21 UTC+7
+! Version: 2411161621
+! Blocked: 930 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -814,6 +814,7 @@
 ||stats.123c.vn^
 ||stats.bizweb.vn^
 ||stats.dongphim.net^
+||stats.etix.vn^
 ||stats.hstatic.net^
 ||stats.osd.vn^
 ||stats.petrotimes.vn^

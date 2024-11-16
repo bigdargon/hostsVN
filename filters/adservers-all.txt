@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Nov 2024 10:49 UTC+7
-! Version: 2411141049
-! Blocked: 11,309 rules
+! Last modified: 16 Nov 2024 16:21 UTC+7
+! Version: 2411161621
+! Blocked: 11,317 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -814,6 +814,7 @@
 ||stats.123c.vn^
 ||stats.bizweb.vn^
 ||stats.dongphim.net^
+||stats.etix.vn^
 ||stats.hstatic.net^
 ||stats.osd.vn^
 ||stats.petrotimes.vn^
@@ -1119,6 +1120,7 @@
 ||ads-adaptv.vidible.tv^
 ||ads-api.tiktok.com^
 ||ads-api.twitter.com^
+||ads-api.videy.co^
 ||ads-bidder-api.twitter.com^
 ||ads-cloud.rovio.com^
 ||ads-d.viber.com^
@@ -1161,11 +1163,14 @@
 ||ads.uc.cn^
 ||ads.us.tiktok.com^
 ||ads.viber.com^
+||ads.videy.co^
 ||ads.yahoo.com^
 ||ads.yap.yahoo.com^
 ||ads.youtube.com^
 ||ads1.msn.com^
 ||ads2.msn.com^
+||ads2.videy.co^
+||ads3.videy.co^
 ||ads5-eu.truecaller.com^
 ||ads5-noneu.truecaller.com^
 ||ads5.truecaller.com^
@@ -1340,6 +1345,7 @@
 ||analytics.map.qq.com^
 ||analytics.mobile.walmart.com^
 ||analytics.mobile.yandex.net^
+||analytics.mobilegamestats.com^
 ||analytics.msn.com^
 ||analytics.msnbc.msn.com^
 ||analytics.pinterest.com^
@@ -1654,6 +1660,7 @@
 ||confiant-integrations.global.ssl.fastly.net^
 ||confiant-integrations.net^
 ||config.hiido.com^
+||config.mobilegamestats.com^
 ||connatix.com^
 ||connect.idocdn.com^
 ||connectad.io^
@@ -2531,6 +2538,7 @@
 ||sb4you1.com^
 ||scanscout.com^
 ||scarabresearch.com^
+||scorchads.com^
 ||scorecardresearch.com^
 ||scupio.com^
 ||sdk.51.la^
@@ -3646,7 +3654,6 @@
 ||ads.usatoday.com^
 ||ads.verticalresponse.com^
 ||ads.vgchartz.com^
-||ads.videy.co^
 ||ads.virtual-nights.com^
 ||ads.virtualcountries.com^
 ||ads.vnd89.com^
@@ -3677,13 +3684,11 @@
 ||ads2.brazzers.com^
 ||ads2.net-communities.co.uk^
 ||ads2.rne.com^
-||ads2.videy.co^
 ||ads2.virtual-nights.com^
 ||ads2.xnet.cz^
 ||ads2004.treiberupdate.de^
 ||ads24h.net^
 ||ads3.bangkokpost.co.th^
-||ads3.videy.co^
 ||ads3.virtual-nights.com^
 ||ads4.virtual-nights.com^
 ||ads4homes.com^
@@ -4134,7 +4139,6 @@
 ||analytics.kidoz.net^
 ||analytics.livestream.com^
 ||analytics.mailmunch.co^
-||analytics.mobilegamestats.com^
 ||analytics.myfinance.com^
 ||analytics.newscred.com^
 ||analytics.nike.com^
@@ -4242,6 +4246,7 @@
 ||apoilpnwr.com^
 ||apoll-amp.com^
 ||apolloprogram.io^
+||app-ads-services.com^
 ||app-analytics-services.com^
 ||app-promo.com^
 ||app.posthog.com^
@@ -7783,6 +7788,7 @@
 ||metric.picodi.com^
 ||metric.picodi.net^
 ||metricfast.com^
+||metricreceiver.cellrebel.com^
 ||metrics.beyondwords.io^
 ||metrics.brightcove.com^
 ||metrics.cloudflarebolt.com^
@@ -8273,6 +8279,7 @@
 ||ogrqahqikxf.com^
 ||ogtollhazv.com^
 ||ohfapzvhun.com^
+||ohgorbqcegig.com^
 ||ohibal.com^
 ||ohkojloxdtw.com^
 ||ohqbutogkn.com^
@@ -10440,6 +10447,7 @@
 ||trawibosxlc.com^
 ||traxex.gannettdigital.com^
 ||trblocked.com^
+||trck.pocketmoon.me^
 ||trekblue.com^
 ||trekdata.com^
 ||trellian.com^
