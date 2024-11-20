@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 16 Nov 2024 16:22 UTC+7
-! Version: 2411161622
-! Blocked: 5,286 rules
+! Last modified: 20 Nov 2024 11:35 UTC+7
+! Version: 2411201135
+! Blocked: 5,299 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -732,6 +732,8 @@
 ||app.wellviet.net^
 ||app611.net^
 ||appbk8.com^
+||appdaga.app^
+||appdaga.online^
 ||appi9bet.com^
 ||appstore.nosap.win^
 ||apptk.app^
@@ -1071,6 +1073,7 @@
 ||cms.vh79.com^
 ||cnamec.com^
 ||coderiik.win^
+||codetet.asia^
 ||comebet.xyz^
 ||comebetvn1.com^
 ||comebetvn10.com^
@@ -1177,6 +1180,7 @@
 ||dangky.dailynet88.com^
 ||dangky.go88.com^
 ||dangky.thethaofb88.com^
+||dangky.tysoeuro.online^
 ||dangky388bet.xyz^
 ||dangky789.link^
 ||dangky789.sbs^
@@ -1231,6 +1235,7 @@
 ||dk.playgem.club^
 ||dk.playgem.me^
 ||dk.rikkk.net^
+||dk.sieutaixiu79.club^
 ||dk.thangiwin.org^
 ||dk.thethaouk88.org^
 ||dk.thethaovua.co^
@@ -3229,6 +3234,7 @@
 ||keotot.net^
 ||ketquasoso.net^
 ||khamphasampham.cc^
+||khuyenmai.cloud^
 ||khuyenmaibw.com^
 ||kidslovemartialartsomahane.com^
 ||kimsa.us^
@@ -4192,6 +4198,7 @@
 ||sieubomtan.com^
 ||sieubong88.info^
 ||sieukeo.live^
+||sieutaixiu79.club^
 ||sin88.bet^
 ||sin88.biz^
 ||sin88.cc^
@@ -4476,6 +4483,7 @@
 ||taiiwin.vin^
 ||taiiwinclub.cc^
 ||taiiwinclub.vip^
+||taikhoan.tongdaga.me^
 ||taikufun.com^
 ||taimacao.club^
 ||taimacao99.club^
@@ -4536,6 +4544,7 @@
 ||tdtc.vn^
 ||tdtcyy.com^
 ||tdtczz.com^
+||tele789.net^
 ||tf2022v.com^
 ||tf88265.com^
 ||tf88632.com^
@@ -4635,6 +4644,7 @@
 ||tk88s.com^
 ||to188xj.com^
 ||tobet88.net^
+||tongdaga.me^
 ||tongga88.com^
 ||tool.mibet.com^
 ||top.bet20.bet^
@@ -4689,6 +4699,7 @@
 ||tx.socvip9.club^
 ||tx1.vip^
 ||tydo88.com^
+||tysoeuro.online^
 ||tz.bet20.bet^
 ||tzzxt.com^
 ||ud1a.com^
@@ -4951,6 +4962,8 @@
 ||vuabai9vn.com^
 ||vuabet88.org^
 ||vuaclub1008.club^
+||vuagaaz.ceo^
+||vuagaaz.one^
 ||vue.ooooooo2.com^
 ||vui.fun^
 ||vuicungk8.com^

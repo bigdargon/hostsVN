@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 16 Nov 2024 16:22 UTC+7
-! Version: 2411161622
-! Blocked: 45,962 rules
+! Last modified: 20 Nov 2024 11:35 UTC+7
+! Version: 2411201135
+! Blocked: 45,963 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -40925,6 +40925,7 @@
 ||xcelebhub18.com^
 ||xcheckerviet.cam^
 ||xcheckerviet.in^
+||xcheckerviet.vc^
 ||xchgc.com^
 ||xchica.com^
 ||xcideos.click^
