@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 20 Nov 2024 11:35 UTC+7
-# Version: 2411201135
-# Blocked: 5,945 domains
+# Last modified: 20 Nov 2024 16:26 UTC+7
+# Version: 2411201626
+# Blocked: 5,950 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -154,6 +154,7 @@
 0.0.0.0 228kbet.com
 0.0.0.0 22ee88.com
 0.0.0.0 22zalo.com
+0.0.0.0 23win.win
 0.0.0.0 23winvn.com
 0.0.0.0 2826.bet
 0.0.0.0 29999y.com
@@ -1190,6 +1191,7 @@
 0.0.0.0 dangkyrikvip.win
 0.0.0.0 dangkysanvip.site
 0.0.0.0 dangkythabet.com
+0.0.0.0 dangkywi88.org
 0.0.0.0 danhbaidoithuongizi.com
 0.0.0.0 danhloo.com
 0.0.0.0 datcuoc.thethaofb88.com
@@ -3388,6 +3390,7 @@
 0.0.0.0 lp.choiriikvip.today
 0.0.0.0 lp.choitet.vip
 0.0.0.0 lp.da88vn.win
+0.0.0.0 lp.dangkywi88.org
 0.0.0.0 lp.go8vui.info
 0.0.0.0 lp.macauclub.fun
 0.0.0.0 lp.mayclub.net
@@ -4013,6 +4016,7 @@
 0.0.0.0 qc.nhat.game
 0.0.0.0 qc.nhat.it
 0.0.0.0 qc.playmanclub.uk
+0.0.0.0 qc.tai789.icu
 0.0.0.0 qc.taimacau.club
 0.0.0.0 qc.thethao88.vin
 0.0.0.0 qc.top88.me
@@ -4414,6 +4418,7 @@
 0.0.0.0 tai.yo88vn.us
 0.0.0.0 tai.you88.vin
 0.0.0.0 tai567live.vip
+0.0.0.0 tai789.icu
 0.0.0.0 tai789.net
 0.0.0.0 tai789.vip
 0.0.0.0 tai789.win
