@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Nov 2024 16:21 UTC+7
-! Version: 2411161621
-! Blocked: 11,317 rules
+! Last modified: 24 Nov 2024 11:43 UTC+7
+! Version: 2411241143
+! Blocked: 11,320 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3058,7 +3058,9 @@
 ||a.zillastream.com^
 ||a135.wftv.com^
 ||a2tw6yoodsag.com^
+||a300.adstattrack.com^
 ||a3cloud.net^
+||a400.adstattrack.com^
 ||a9.com^
 ||aaddzz.com^
 ||aamt.nbcnews.com^
@@ -7450,6 +7452,7 @@
 ||lingamretene.com^
 ||link-booster.de^
 ||link4ads.com^
+||linkads.xyz^
 ||linkadvdirect.com^
 ||linkbuddies.com^
 ||linkedupwards.com^

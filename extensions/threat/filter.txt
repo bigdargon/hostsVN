@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 20 Nov 2024 16:26 UTC+7
-! Version: 2411201626
-! Blocked: 4,692 rules
+! Last modified: 24 Nov 2024 11:45 UTC+7
+! Version: 2411241145
+! Blocked: 4,693 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2506,6 +2506,7 @@
 ||sacombank.vn-ne.top^
 ||sacombank.vn-sp.top^
 ||sacombank.vn-vp.xyz^
+||sacombankvn.com^
 ||sadm26.com^
 ||saifcrack.com^
 ||salu.gq^

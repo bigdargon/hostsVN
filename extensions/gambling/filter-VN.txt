@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 20 Nov 2024 16:26 UTC+7
-! Version: 2411201626
-! Blocked: 5,304 rules
+! Last modified: 24 Nov 2024 11:45 UTC+7
+! Version: 2411241145
+! Blocked: 5,382 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -119,6 +119,7 @@
 ||188asia.bet^
 ||188asport.com^
 ||188best188.net^
+||188bet.pro^
 ||188betcn2.com^
 ||188bowls.com^
 ||188bst.com^
@@ -278,6 +279,7 @@
 ||789b.win^
 ||789bet.com^
 ||789bet.run^
+||789bet.vip^
 ||789beta.com^
 ||789betf.com^
 ||789betj.com^
@@ -295,6 +297,10 @@
 ||789d.club^
 ||789k.club^
 ||789v.club^
+||789vg.net^
+||789vg.pro^
+||789vg.today^
+||789vg.top^
 ||789winchan.com^
 ||789x.club^
 ||78win01.com^
@@ -302,6 +308,7 @@
 ||78win07.com^
 ||78win09.com^
 ||799999.cc^
+||79king.wtf^
 ||79lucky.com^
 ||79luckyclub.fun^
 ||79sodo.com^
@@ -470,6 +477,7 @@
 ||99vn.bet^
 ||9ahf0.com^
 ||9b992.com^
+||9bet.net^
 ||9e3c.com^
 ||a100.by88.one^
 ||a2xik.com^
@@ -1185,6 +1193,7 @@
 ||dangky388bet.xyz^
 ||dangky789.link^
 ||dangky789.sbs^
+||dangky789.vin^
 ||dangkybayvip.com^
 ||dangkybum.club^
 ||dangkyee88.online^
@@ -1550,6 +1559,8 @@
 ||gamehot88.fun^
 ||gameiwin.asia^
 ||gameiwin.vip^
+||gameiwin68.app^
+||gameiwin68.link^
 ||gamek8club.com^
 ||gamequyong.site^
 ||gamequyong.xyz^
@@ -1594,6 +1605,7 @@
 ||giaitrinet88.live^
 ||giaitriwin79.club^
 ||giutcohon.sin88.biz^
+||gk88.xyz^
 ||gnbet.vip^
 ||go.12fifa2018.com^
 ||go.bcb80.com^
@@ -1605,6 +1617,7 @@
 ||go88.cam^
 ||go88.club^
 ||go88.com^
+||go88.contractors^
 ||go88.im^
 ||go88.info^
 ||go88.live^
@@ -1702,6 +1715,7 @@
 ||hit38.club^
 ||hit38.co^
 ||hit68.net^
+||hitclub.blue^
 ||hitclub.cafe^
 ||hitclub.com^
 ||hitclub.salon^
@@ -1746,6 +1760,7 @@
 ||i.win79.fun^
 ||i1lnr.com^
 ||i8bet.org^
+||i8fun.cc^
 ||i9-bet.com^
 ||i9.bet^
 ||i9.hethongxacthuc.com^
@@ -1873,6 +1888,7 @@
 ||id.sv388.mobi^
 ||id.w88.vin^
 ||im99.com^
+||image.lu88.co^
 ||images.388bet.vip^
 ||images.ku6110.net^
 ||images.ku6131.net^
@@ -1918,6 +1934,7 @@
 ||iwin888.com^
 ||iwinapk.link^
 ||iwinapplink.club^
+||iwinclub.agency^
 ||iwinclub.onl^
 ||iwinclub.win^
 ||iwinclubvn.com^
@@ -2062,12 +2079,14 @@
 ||jingbets.com^
 ||jjfungame.com^
 ||jss77.net^
+||jun88.buzz^
 ||jun88.com^
 ||jun88.tv^
 ||jun889.vip^
 ||jun88bet.biz^
 ||jun88bet.xyz^
 ||jun88k.com^
+||jun88trangchu.net^
 ||jun88w.com^
 ||justk8.com^
 ||k1.uk88.top^
@@ -3294,6 +3313,7 @@
 ||ku6110.net^
 ||ku6131.net^
 ||ku777bet.com^
+||ku88.win^
 ||ku888.one^
 ||ku998.net^
 ||kubet.ac^
@@ -3428,6 +3448,7 @@
 ||lt995.com^
 ||lt997.com^
 ||lu88.co^
+||lu88.com^
 ||luciu.shop^
 ||luck6.com^
 ||luck8.com^
@@ -3639,6 +3660,7 @@
 ||may88vn.top^
 ||mayclub.net^
 ||mayman.vuabai9.com^
+||mb66.com^
 ||mb88.bet^
 ||mb88.com^
 ||mbx88.com^
@@ -3663,11 +3685,36 @@
 ||minicasino.io^
 ||minigame.vnloto.com^
 ||minivn.com^
+||miso88.bet^
+||miso88.boats^
+||miso88.bz^
+||miso88.cam^
+||miso88.center^
+||miso88.com.ph^
 ||miso88.com^
+||miso88.cool^
+||miso88.de^
+||miso88.email^
+||miso88.fit^
+||miso88.homes^
+||miso88.ink^
+||miso88.io^
+||miso88.life^
+||miso88.love^
+||miso88.ltd^
+||miso88.my^
 ||miso88.net^
+||miso88.nl^
 ||miso88.org^
+||miso88.pics^
 ||miso88.red^
+||miso88.review^
 ||miso88.site^
+||miso88.store^
+||miso88.watch^
+||miso88.work^
+||miso88.xyz^
+||miso88e.com^
 ||missbet.com^
 ||mix79.vip^
 ||mk.support^
@@ -3748,6 +3795,9 @@
 ||ne88.bet^
 ||nearom.com^
 ||nemo.vin^
+||neo79.org^
+||neo79.space^
+||neo79.us^
 ||net88.ac^
 ||net88.men^
 ||net88.run^
@@ -3908,6 +3958,7 @@
 ||play.hit38.club^
 ||play.hit38.co^
 ||play.hit68.net^
+||play.hitclub.blue^
 ||play.horse79.live^
 ||play.im99.com^
 ||play.iwin.net^
@@ -4157,6 +4208,9 @@
 ||s999e.com^
 ||s999g.com^
 ||s999h.com^
+||sa88.fans^
+||sa88.ltd^
+||sa88.my^
 ||saigonbet.net^
 ||sam86.zone^
 ||sam86vip.org^
@@ -4258,6 +4312,7 @@
 ||soco88.com^
 ||socvip.com^
 ||socvip9.club^
+||sodo.bond^
 ||sodo.host^
 ||sodo02.com^
 ||sodo100.com^
@@ -4271,6 +4326,8 @@
 ||sodo3839.com^
 ||sodo66.app^
 ||sodo66.com^
+||sodo66.game^
+||sodo66.tours^
 ||sodo668.net^
 ||sodo678.com^
 ||sodo6868.com^
@@ -4304,6 +4361,7 @@
 ||static.fabet.vip^
 ||static.fabetvn.com^
 ||static.hi88.de^
+||static.lu88.com^
 ||static.lucky88.com^
 ||static.vx88.com^
 ||static2.8live.com^
@@ -4466,6 +4524,7 @@
 ||taigamehay.site^
 ||taigamehayvip.vip^
 ||taigamehot.pro^
+||taigameiwin68.club^
 ||taigamengay.biz^
 ||taigamengay.click^
 ||taigamengay.digital^
@@ -4473,6 +4532,7 @@
 ||taigameslotsumvip50k.info^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
+||taigameviet.mobi^
 ||taigem79.net^
 ||taigem79.win^
 ||taigenvip.club^
@@ -4625,6 +4685,8 @@
 ||tjb22.net^
 ||tk326.com^
 ||tk777.vip^
+||tk88.family^
+||tk88.game^
 ||tk88.in^
 ||tk88.la^
 ||tk88.rocks^
@@ -4812,6 +4874,7 @@
 ||vin777.blog^
 ||vin777.co^
 ||vin777.work^
+||vin88.com^
 ||vin999.fun^
 ||vina88.net^
 ||vinalottery.com^
@@ -4840,6 +4903,8 @@
 ||vipgame.cloud^
 ||viprik.click^
 ||viprik.pro^
+||vipsodo.info^
+||vipsodo.top^
 ||viu88.com^
 ||viva88.com^
 ||viva88.net^
@@ -4965,7 +5030,18 @@
 ||vua88.club^
 ||vuabai9.com^
 ||vuabai9vn.com^
+||vuabet.com^
+||vuabet88.agency^
+||vuabet88.app^
+||vuabet88.cloud^
+||vuabet88.cx^
+||vuabet88.dev^
+||vuabet88.gold^
+||vuabet88.ist^
+||vuabet88.name^
 ||vuabet88.org^
+||vuabet88.pro^
+||vuabet88.shop^
 ||vuaclub1008.club^
 ||vuagaaz.ceo^
 ||vuagaaz.one^
@@ -5165,10 +5241,12 @@
 ||wingame1688.com^
 ||wingo88.vin^
 ||wintbr.com^
+||winvn.app^
+||winvn.bet^
+||winvn.club^
 ||winvn.vip^
 ||winvn13.com^
 ||winvn15.com^
-||winvn16.com^
 ||winvn17.com^
 ||winvn18.com^
 ||wm88viet.com^
