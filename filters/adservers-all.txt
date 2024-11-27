@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Nov 2024 11:43 UTC+7
-! Version: 2411241143
-! Blocked: 11,320 rules
+! Last modified: 27 Nov 2024 10:59 UTC+7
+! Version: 2411271059
+! Blocked: 11,322 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -659,6 +659,7 @@
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
 ||log-video.baotintuc.vn^
+||log.1vn.app^
 ||log.247post.vn^
 ||log.anninhthudo.vn^
 ||log.baobackan.com.vn^
@@ -1379,7 +1380,6 @@
 ||api-ad.kajicam.com^
 ||api-adservices.apple.com^
 ||api-log-analytics.cloud.toast.com^
-||api.adnet.mob.com^
 ||api.amplitude.com^
 ||api.applovefrom.com^
 ||api.brs.intl.miui.com^
@@ -1565,7 +1565,6 @@
 ||bzclk.baidu.com^
 ||c-adash.m.taobao.com^
 ||c.bing.com^
-||c.data.mob.com^
 ||c.sayhi.360.cn^
 ||c2shb.ssp.yahoo.com^
 ||cacafly.net^
@@ -1715,6 +1714,7 @@
 ||data-optout-service.uca.cloud.unity3d.com^
 ||data-sharing-consent.aprod.scopely.io^
 ||data.mistat.intl.xiaomi.com^
+||data.mob.com^
 ||data.sec.intl.miui.com^
 ||data.sec.miui.com^
 ||datacollector-dra.dt.hicloud.com^
@@ -2101,6 +2101,7 @@
 ||log-tb.isnssdk.com^
 ||log-tb.sgsnssdk.com^
 ||log-upload-os.hoyoverse.com^
+||log-verify.mob.com^
 ||log.api.useinsider.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.fc.yahoo.com^
@@ -2142,7 +2143,6 @@
 ||luckyorange.net^
 ||luminati.io^
 ||m-adash.m.taobao.com^
-||m.data.mob.com^
 ||m.yap.yahoo.com^
 ||m2.ai^
 ||m6r.eu^
@@ -4216,6 +4216,7 @@
 ||apfxpuatkla.com^
 ||aphidsclee.com^
 ||aphycolourses.info^
+||api-ad-adapter.wps.com^
 ||api-gdpr.voodoo-tech.io^
 ||api.52youtu.com^
 ||api.adserver-e7.com^
@@ -9724,6 +9725,7 @@
 ||smartclick.net^
 ||smartclip.net^
 ||smartmad.com^
+||smartop-sdkapi.jiguang.cn^
 ||smartyads.com^
 ||smartyadslink.click^
 ||smashsurprise.com^

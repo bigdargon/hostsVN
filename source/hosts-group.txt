@@ -9721,11 +9721,13 @@
 0.0.0.0 tag.userreport.com
 0.0.0.0 userreport.com
 #[mob.com]
+0.0.0.0 api.exc.mob.com
 0.0.0.0 api.share.mob.com
+0.0.0.0 log-verify.mob.com
+#[data.mob.com]
+0.0.0.0 data.mob.com
 0.0.0.0 m.data.mob.com
 0.0.0.0 c.data.mob.com
-0.0.0.0 api.exc.mob.com
-0.0.0.0 api.adnet.mob.com
 #[4dex.io]
 0.0.0.0 4dex.io
 0.0.0.0 c.4dex.io
