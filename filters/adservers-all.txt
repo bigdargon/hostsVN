@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 27 Nov 2024 10:59 UTC+7
-! Version: 2411271059
-! Blocked: 11,322 rules
+! Last modified: 29 Nov 2024 14:55 UTC+7
+! Version: 2411291455
+! Blocked: 11,324 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -915,6 +915,7 @@
 ||vietdorje.com^
 ||vietnamdaily-log.kienthuc.net.vn^
 ||vietnamdaily-log.trithuccuocsong.vn^
+||vietpub.com^
 ||vipads.live^
 ||vlxx.host^
 ||vn.alexajstrack.com^
@@ -8917,6 +8918,7 @@
 ||propbigo.com^
 ||propeller-tracking.com^
 ||proposedpartly.com^
+||propositionpower.com^
 ||props.id^
 ||propu.sh^
 ||proranktracker.com^

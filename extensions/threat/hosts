@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 27 Nov 2024 10:59 UTC+7
-# Version: 2411271059
-# Blocked: 4,763 domains
+# Last modified: 29 Nov 2024 15:01 UTC+7
+# Version: 2411291501
+# Blocked: 4,764 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -366,6 +366,7 @@
 0.0.0.0 caoviet.net
 0.0.0.0 card-tindung-vp.com
 0.0.0.0 card-tindung.com
+0.0.0.0 cardano-ada.live
 0.0.0.0 cardshinhan.com
 0.0.0.0 cardzstorezone.com
 0.0.0.0 casneon.com

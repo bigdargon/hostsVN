@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 27 Nov 2024 10:59 UTC+7
-! Version: 2411271059
-! Blocked: 4,693 rules
+! Last modified: 29 Nov 2024 15:01 UTC+7
+! Version: 2411291501
+! Blocked: 4,694 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -363,6 +363,7 @@
 ||caoviet.net^
 ||card-tindung-vp.com^
 ||card-tindung.com^
+||cardano-ada.live^
 ||cardshinhan.com^
 ||cardzstorezone.com^
 ||casneon.com^
