@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 29 Nov 2024 15:01 UTC+7
-! Version: 2411291501
-! Blocked: 5,385 rules
+! Last modified: 02 Dec 2024 15:06 UTC+7
+! Version: 2412021506
+! Blocked: 5,386 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4140,6 +4140,7 @@
 ||reg.gameta88.me^
 ||reg.lode88j.cc^
 ||reg.playiwin.site^
+||rehonnua.org^
 ||resources.bong90.bet^
 ||rewards.w88bkk.com^
 ||rg.choihitclub.run^
