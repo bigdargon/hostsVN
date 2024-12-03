@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Dec 2024 15:05 UTC+7
-! Version: 2412021505
-! Blocked: 11,330 rules
+! Last modified: 03 Dec 2024 14:04 UTC+7
+! Version: 2412031404
+! Blocked: 11,332 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -9830,6 +9830,7 @@
 ||spirebaboon.com^
 ||spirteddvaita.com^
 ||spkoevngk.com^
+||splendidsugar.com^
 ||sponsorads.de^
 ||sponsorpay.com^
 ||sponsorpro.de^
@@ -9848,6 +9849,7 @@
 ||spykemediatrack.com^
 ||spylog.com^
 ||spymislead.com^
+||spyokjoxdl.com^
 ||spysubstance.com^
 ||spywarelabs.com^
 ||spywarenuker.com^
