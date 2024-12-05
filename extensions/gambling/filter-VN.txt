@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 04 Dec 2024 23:09 UTC+7
-! Version: 2412042309
-! Blocked: 5,388 rules
+! Last modified: 05 Dec 2024 10:20 UTC+7
+! Version: 2412051020
+! Blocked: 5,392 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1143,6 +1143,7 @@
 ||d9bet88.com^
 ||da88.com^
 ||da88.pro^
+||da88.win^
 ||da88vn.win^
 ||dabanh.thethaofb88.com^
 ||dabet.cc^
@@ -3803,6 +3804,7 @@
 ||neo79.space^
 ||neo79.us^
 ||net88.ac^
+||net88.day^
 ||net88.men^
 ||net88.run^
 ||net88.tv^
@@ -5299,6 +5301,7 @@
 ||xemtylecacuoc.bong99.com^
 ||xeng52.com^
 ||xengtructuyen.com^
+||xibet.win^
 ||xidach.8day66.com^
 ||xingtou888.com^
 ||xinloiduocchua.co^
@@ -5312,6 +5315,7 @@
 ||xo88.info^
 ||xo88.us^
 ||xo88.win^
+||xo88bet.com^
 ||xo88moi.com^
 ||xocdia88.click^
 ||xocdia88.es^

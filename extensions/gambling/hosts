@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 04 Dec 2024 23:09 UTC+7
-# Version: 2412042309
-# Blocked: 166,980 domains
+# Last modified: 05 Dec 2024 10:20 UTC+7
+# Version: 2412051020
+# Blocked: 166,996 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6164,6 +6164,7 @@
 0.0.0.0 111p456.com
 0.0.0.0 111p7.com
 0.0.0.0 111p8.com
+0.0.0.0 111pg88.com
 0.0.0.0 111pho.com
 0.0.0.0 111pxj.com
 0.0.0.0 111tdc.com
@@ -15211,6 +15212,7 @@
 0.0.0.0 191993.com
 0.0.0.0 1919bet.win
 0.0.0.0 1919bet6.com
+0.0.0.0 1919bet7.com
 0.0.0.0 1919bet9.com
 0.0.0.0 1919vn.com
 0.0.0.0 191bi.com
@@ -41633,6 +41635,7 @@
 0.0.0.0 444betzf.com
 0.0.0.0 444bstvip.com
 0.0.0.0 444c59.com
+0.0.0.0 444casinovip.com
 0.0.0.0 444haxi.com
 0.0.0.0 444i9.com
 0.0.0.0 444i9bet.com
@@ -89770,6 +89773,8 @@
 0.0.0.0 999bjl99.com
 0.0.0.0 999bstvip.com
 0.0.0.0 999c59.com
+0.0.0.0 999dd.bet
+0.0.0.0 999fbi.com
 0.0.0.0 999hgv.com
 0.0.0.0 999i9.com
 0.0.0.0 999i9bet.com
@@ -105522,6 +105527,7 @@
 0.0.0.0 da87.com
 0.0.0.0 da88.com
 0.0.0.0 da88.pro
+0.0.0.0 da88.win
 0.0.0.0 da88vn.win
 0.0.0.0 da9999.com
 0.0.0.0 daa668.com
@@ -119880,6 +119886,7 @@
 0.0.0.0 i9bet156.com
 0.0.0.0 i9bet157.com
 0.0.0.0 i9bet158.com
+0.0.0.0 i9bet158.info
 0.0.0.0 i9bet158.online
 0.0.0.0 i9bet159.com
 0.0.0.0 i9bet16.com
@@ -131898,12 +131905,14 @@
 0.0.0.0 lv6791.com
 0.0.0.0 lv6796.com
 0.0.0.0 lv679lv.com
+0.0.0.0 lv77.asia
 0.0.0.0 lv989.com
 0.0.0.0 lvbetpartners.com
 0.0.0.0 lvcasino.app
 0.0.0.0 lveone.xyz
 0.0.0.0 lvjili.vip
 0.0.0.0 lvsgame.com
+0.0.0.0 lvvip.work
 0.0.0.0 lwbet.app
 0.0.0.0 lwbet.com
 0.0.0.0 lwbet3.com
@@ -136382,6 +136391,7 @@
 0.0.0.0 nerdysport.com
 0.0.0.0 net.wsystems.co
 0.0.0.0 net88.ac
+0.0.0.0 net88.day
 0.0.0.0 net88.men
 0.0.0.0 net88.run
 0.0.0.0 net88.tv
@@ -138718,11 +138728,13 @@
 0.0.0.0 pg88b.top
 0.0.0.0 pg88c.icu
 0.0.0.0 pg88c.me
+0.0.0.0 pg88nohu.cc
 0.0.0.0 pg88nohu.top
 0.0.0.0 pg88ph.com
 0.0.0.0 pg88vn.vip
 0.0.0.0 pg88vnd.com
 0.0.0.0 pg88vnd.icu
+0.0.0.0 pg88zalo.vip
 0.0.0.0 pg974.com
 0.0.0.0 pg99258.site
 0.0.0.0 pg999slot.wiki
@@ -141740,6 +141752,7 @@
 0.0.0.0 r3995.com
 0.0.0.0 r3996.com
 0.0.0.0 r3997.com
+0.0.0.0 r39thb.com
 0.0.0.0 r3dcnu.com
 0.0.0.0 r3dgd.com
 0.0.0.0 r3hhx.com
@@ -145487,6 +145500,7 @@
 0.0.0.0 static2.8live.com
 0.0.0.0 static2.lucky88.com
 0.0.0.0 static3.lucky88.com
+0.0.0.0 staticnet88.com
 0.0.0.0 staticone88.com
 0.0.0.0 staticxo88.com
 0.0.0.0 stavkabet-bk.com
@@ -160916,6 +160930,7 @@
 0.0.0.0 xiaozhupc.vip
 0.0.0.0 xiapiiurulzrivterx.xyz
 0.0.0.0 xiazail8.com
+0.0.0.0 xibet.win
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xidach.club
 0.0.0.0 xifali.com
@@ -161673,6 +161688,7 @@
 0.0.0.0 xo88.info
 0.0.0.0 xo88.us
 0.0.0.0 xo88.win
+0.0.0.0 xo88bet.com
 0.0.0.0 xo88moi.com
 0.0.0.0 xobezbmm7.com
 0.0.0.0 xoc88.bet

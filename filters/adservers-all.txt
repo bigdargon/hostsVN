@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Dec 2024 23:09 UTC+7
-! Version: 2412042309
-! Blocked: 11,356 rules
+! Last modified: 05 Dec 2024 10:19 UTC+7
+! Version: 2412051019
+! Blocked: 11,360 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -945,7 +945,6 @@
 ||1l-view.mail.ru^
 ||1rx.io^
 ||1ts18.top^
-||adsmartracker.com^
 ||2468.go2cloud.org^
 ||24smi.net^
 ||2leep.com^
@@ -1205,6 +1204,7 @@
 ||adsloads.com^
 ||adslot.uc.cn^
 ||adsmanager.ga^
+||adsmartracker.com^
 ||adsmoloco.com^
 ||adsninja.b-cdn.net^
 ||adsninja.ca^
@@ -1531,6 +1531,7 @@
 ||bluekai.com^
 ||blueseed.tv^
 ||blueserving.com^
+||bncloudfl.com^
 ||bnmla.com^
 ||boffoadsfeeds.com^
 ||bookmsg.com^
@@ -5034,7 +5035,6 @@
 ||cdn-plus.roxot-panel.com^
 ||cdn-server.top^
 ||cdn.adimo.co^
-||cdn.bncloudfl.com^
 ||cdn.c-i.as^
 ||cdn.concert.io^
 ||cdn.counter.dev^
@@ -7734,6 +7734,7 @@
 ||mcymumqmaagp.com^
 ||mcyvayyde.com^
 ||mdotm.com^
+||mdstats.info^
 ||meandiminutionhit.com^
 ||measlesjack.com^
 ||measure.admiralmarkets.com^
@@ -7951,6 +7952,7 @@
 ||motricity.com^
 ||motrixi.com^
 ||mousestats.com^
+||mousheebaivy.net^
 ||moversa.com^
 ||movie-pass.live^
 ||movve.com^
@@ -8365,6 +8367,7 @@
 ||onclasrv.com^
 ||onclickads.net^
 ||onclickalgo.com^
+||onclickgenius.com^
 ||onclickmega.com^
 ||onclickperformance.com^
 ||onclicksuper.com^
@@ -10280,6 +10283,7 @@
 ||thoosje.com^
 ||thor-pom.com^
 ||thougnoangi.com^
+||thoungoofeed.net^
 ||threechurch.com^
 ||thripelbertie.website^
 ||thrnt.com^
