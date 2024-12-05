@@ -1,7 +1,7 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 05 Dec 2024 10:20 UTC+7
-! Version: 2412051020
+! Last modified: 05 Dec 2024 22:51 UTC+7
+! Version: 2412052251
 ! Blocked: 165,479 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -96883,6 +96883,7 @@
 ||bet33656.com^
 ||bet33663.com^
 ||bet33666.com^
+||bet3379.com^
 ||bet338.app^
 ||bet338.bet^
 ||bet338.biz^
@@ -142541,7 +142542,6 @@
 ||retroan.xyz^
 ||retroci.xyz^
 ||retvbt.com^
-||reurl.cc^
 ||revb3c.com^
 ||revnxoso01.xyz^
 ||revnxoso02.xyz^

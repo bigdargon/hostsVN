@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Dec 2024 10:19 UTC+7
-! Version: 2412051019
-! Blocked: 11,360 rules
+! Last modified: 05 Dec 2024 22:50 UTC+7
+! Version: 2412052250
+! Blocked: 11,381 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -993,6 +993,7 @@
 ||ad-stir.com^
 ||ad.*.xiaomi.com^
 ||ad.a.yximgs.com^
+||ad.api.attribuly.com^
 ||ad.daum.net^
 ||ad.dev.360.cn^
 ||ad.ettoday.net^
@@ -2727,6 +2728,7 @@
 ||top-fwz1.mail.ru^
 ||top.mail.ru^
 ||toponad.com^
+||tr.attribuly.com^
 ||tr.line.me^
 ||tr.snapchat.com^
 ||tr6.snapchat.com^
@@ -3342,7 +3344,6 @@
 ||adizio.com^
 ||adj.st^
 ||adjectivehonestly.com^
-||adjix.com^
 ||adjug.com^
 ||adjuggler.com^
 ||adjuggler.yourdictionary.com^
@@ -4010,6 +4011,7 @@
 ||aim4media.com^
 ||aimaniape.club^
 ||aiqidwcfrm.com^
+||airaujoog.com^
 ||aircraftsplendid.com^
 ||airlinerappetizingcoast.com^
 ||aistat.net^
@@ -4309,11 +4311,13 @@
 ||arcobsarrod.com^
 ||arcodpcmoa.com^
 ||arcualstymie.com^
+||ardschatota.com^
 ||areamindless.com^
 ||argotcatch.uno^
 ||argyresthia.com^
 ||arhribadjqp.com^
 ||aries-nbl.com^
+||arleavannya.com^
 ||armfullitigateslate.com^
 ||armhoopcoinage.com^
 ||armoursviolino.com^
@@ -4646,6 +4650,7 @@
 ||behavioralengine.com^
 ||beholdascared.com^
 ||behootpokeys.com^
+||bejirachir.com^
 ||belia-glp.com^
 ||bellyindulge.com^
 ||belstat.com^
@@ -5167,7 +5172,6 @@
 ||clatchsenega.com^
 ||clayierglaiks.com^
 ||clc.stackoverflow.com^
-||clck.ru^
 ||clcknipop.com^
 ||clckysudks.com^
 ||clearadnetwork.com^
@@ -6519,6 +6523,7 @@
 ||glossysense.com^
 ||glugherg.net^
 ||glugreez.com^
+||glutchoaksa.com^
 ||glutenmuttsensuous.com^
 ||glyphsmahajan.com^
 ||gmads.net^
@@ -7094,6 +7099,7 @@
 ||interndry.com^
 ||internetfuel.com^
 ||interreklame.de^
+||interstitial-07.com^
 ||interstitial-08.com^
 ||intimategleaming.com^
 ||intnotif.club^
@@ -7214,6 +7220,7 @@
 ||jmrnews.pro^
 ||jmt7mbwce.com^
 ||jnrtavp2x66u.com^
+||joaglouwulin.com^
 ||joetec.net^
 ||jogytuuey.com^
 ||joinmysite.online^
@@ -7674,7 +7681,6 @@
 ||manivalyrid.com^
 ||manpowerspiritualunrented.com^
 ||mapbasin.com^
-||maper.info^
 ||mapolxzunakq.com^
 ||marasgumpus.com^
 ||marathonkennumber.com^
@@ -7714,6 +7720,7 @@
 ||matzohshoey.com^
 ||maulupoa.com^
 ||mautic.bdev.co.th^
+||mauzanapsusi.net^
 ||maw5r7y9s9helley.com^
 ||mawkydewan.digital^
 ||mawlaybob.com^
@@ -8003,6 +8010,7 @@
 ||mxradon.com^
 ||mxvp-ad-config-prod-1.zenmxapps.com^
 ||mxvp-feature-toggle-prod-1.zenmxapps.com^
+||myactualblog.com^
 ||myad.mitrade.com^
 ||myadsystem.com^
 ||myaffiliateprogram.com^
@@ -8013,6 +8021,7 @@
 ||mybuys.com^
 ||mycounter.ua^
 ||mydinebaster.com^
+||myfreshposts.com^
 ||mynsystems.com^
 ||myntelligence.com^
 ||myolnyr5bsk18.com^
@@ -8236,6 +8245,7 @@
 ||oahaurti.com^
 ||oalselry.com^
 ||oaphoace.net^
+||oarouwousti.com^
 ||oas.benchmark.fr^
 ||oas.repubblica.it^
 ||oas.roanoke.com^
@@ -8360,6 +8370,7 @@
 ||omniscientspark.com^
 ||omniture.com^
 ||oms.expedia.com^
+||omvenusaurchan.com^
 ||omxstakuvh.com^
 ||on-mobi.com^
 ||onccahdawa.com^
@@ -8401,6 +8412,7 @@
 ||oodsotso.com^
 ||ootchoft.com^
 ||opcharizardon.com^
+||opdhoxor.com^
 ||opdvriwmixu.com^
 ||open.oneplus.net^
 ||openad.tf1.fr^
@@ -8964,6 +8976,8 @@
 ||prx.wayfair.com^
 ||ps7894.com^
 ||psaltauw.net^
+||psaugourtauy.com^
+||psaumpoum.com^
 ||psausuck.net^
 ||pseekree.com^
 ||psirdain.com^
@@ -8975,10 +8989,13 @@
 ||ptaixout.net^
 ||ptauxofi.net^
 ||ptawehex.net^
+||ptewarin.net^
 ||ptigjkkds.com^
 ||ptipsixo.com^
+||ptoahaistais.com^
 ||ptoushoa.com^
 ||ptuglupyli.com^
+||ptumsess.com^
 ||ptuxapow.com^
 ||ptygunjk.com^
 ||ptywajofa.pro^
@@ -9636,6 +9653,7 @@
 ||sfiannzilgi.com^
 ||sg-open-set-api.shenshiads.com^
 ||sghehllds.com^
+||shaiwourtijogno.net^
 ||shakesuggestion.com^
 ||shakingtacklingunpeeled.com^
 ||shakyseat.com^
@@ -10334,6 +10352,7 @@
 ||toeapesob.com^
 ||toecircle.com^
 ||toenailannouncehardworking.com^
+||toglooman.com^
 ||tolyafbnjt9dedjj10.com^
 ||tomeleafs.com^
 ||tomorroweducated.com^
@@ -10838,6 +10857,7 @@
 ||voicedstart.com^
 ||voicevegetable.com^
 ||volleyballdishonoursecurity.com^
+||voopsookie.net^
 ||voredi.com^
 ||votclkeczz.com^
 ||vouhecem.net^
@@ -10977,6 +10997,7 @@
 ||whisperofisaak.com^
 ||whoisonline.net^
 ||wholesaletraffic.info^
+||wholewowblog.com^
 ||whonaiwu.com^
 ||whoostoo.net^
 ||whowhipi.net^

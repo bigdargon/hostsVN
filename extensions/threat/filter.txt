@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Dec 2024 10:20 UTC+7
-! Version: 2412051020
-! Blocked: 4,694 rules
+! Last modified: 05 Dec 2024 22:51 UTC+7
+! Version: 2412052251
+! Blocked: 4,693 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1913,7 +1913,6 @@
 ||myscannappo.online^
 ||myshopee13.com^
 ||myshopee7.vip^
-||mysp.ac^
 ||nalhajarm.cfd^
 ||nang-cap-hang-vvip-vib.com^
 ||nang-cap-ocare-vib.com^
