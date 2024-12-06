@@ -2,7 +2,7 @@
 
 echo "Preparing files..."
 # convert hosts to filters
-cat source/hosts.txt | grep "0.0.0.0" | awk '{print $2}' > source/adserver-all.tmp
+cat source/hosts.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1}' > source/adserver-all.tmp
 if [ "$(uname)" == "Darwin" ]; then
     sed -i "" "s/www\.//g" source/adserver-all.tmp
 else
@@ -10,7 +10,7 @@ else
 fi
 sort -u -o source/adserver-all.tmp source/adserver-all.tmp
 
-cat source/hosts-VN.txt | grep "0.0.0.0" | awk '{print $2}' > source/adserver.tmp
+cat source/hosts-VN.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1}' > source/adserver.tmp
 if [ "$(uname)" == "Darwin" ]; then
     sed -i "" "s/www\.//g" source/adserver.tmp
 else
@@ -23,28 +23,51 @@ echo "Making titles..."
 TIME_STAMP=$(date +'%d %b %Y %H:%M')
 VERSION=$(date +'%y%m%d%H%M')
 LC_NUMERIC="en_US.UTF-8"
-DOMAIN=$(printf "%'.3d\n" $(cat source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt | grep "0.0.0.0" | wc -l))
-DOMAIN_VN=$(printf "%'.3d\n" $(cat source/hosts-VN-group.txt source/hosts-VN.txt | grep "0.0.0.0" | wc -l))
-RULE=$(printf "%'.3d\n" $(cat source/adservers.txt source/adservers-all.txt source/adserver.tmp source/adserver-all.tmp source/adservers-extra.txt source/exceptions.txt | grep -v '!' | wc -l))
-RULE_VN=$(printf "%'.3d\n" $(cat source/adservers.txt source/adserver.tmp | grep -v '!' | wc -l))
+
+# common function to count lines
+count_lines() {
+  grep -v -e '#' -e '!' "$@" | grep -v -e '^[[:space:]]*$' | wc -l
+}
+
+# count blocks and rules
+DOMAIN=$(printf "%'.3d\n" $(count_lines source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt))
+DOMAIN_VN=$(printf "%'.3d\n" $(count_lines source/hosts-VN-group.txt source/hosts-VN.txt))
+RULE=$(printf "%'.3d\n" $(count_lines source/adservers.txt source/adservers-all.txt source/adserver.tmp source/adserver-all.tmp source/adservers-extra.txt source/exceptions.txt))
+RULE_VN=$(printf "%'.3d\n" $(count_lines source/adservers.txt source/adserver.tmp))
 HOSTNAME=$(cat source/config-hostname.txt)
 
+# function to replace placeholders in template files
+update_template() {
+  local template="$1"
+  local output="$2"
+  sed \
+    -e "s/_time_stamp_/$TIME_STAMP/g" \
+    -e "s/_version_/$VERSION/g" \
+    -e "s/_domain_/$DOMAIN/g" \
+    -e "s/_domainvn_/$DOMAIN_VN/g" \
+    -e "s/_rule_/$RULE/g" \
+    -e "s/_rulevn_/$RULE_VN/g" \
+    -e "s/_hostname_/$HOSTNAME/g" \
+    "$template" > "$output"
+}
+
 # update titles
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts.txt > tmp/title-hosts.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_/$DOMAIN/g" tmp/title-hosts-iOS.txt > tmp/title-hosts-iOS.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_vn_/$DOMAIN_VN/g" tmp/title-hosts-VN.txt > tmp/title-hosts-VN.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_/$RULE/g" tmp/title-adserver-all.txt > tmp/title-adserver-all.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_vn_/$RULE_VN/g" tmp/title-adserver.txt > tmp/title-adserver.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_/$RULE/g" tmp/title-domain.txt > tmp/title-domain.tmp
-sed -e "s/_hostname_/$HOSTNAME/g" tmp/title-config-surge.txt > tmp/title-config-surge.tmp
-sed -e "s/_hostname_/$HOSTNAME/g" tmp/title-config-surge.txt | grep -v '#!' > option/hostsVN-surge-pro.conf
-sed -e "s/_hostname_/$HOSTNAME/g" tmp/title-config-shadowrocket.txt > option/hostsVN-shadowrocket.conf
-sed -e "s/_hostname_/$HOSTNAME/g" tmp/title-config-loon.txt > option/hostsVN-loon.conf
+update_template tmp/title-hosts.txt tmp/title-hosts.tmp
+update_template tmp/title-hosts-iOS.txt tmp/title-hosts-iOS.tmp
+update_template tmp/title-hosts-VN.txt tmp/title-hosts-VN.tmp
+update_template tmp/title-adserver-all.txt tmp/title-adserver-all.tmp
+update_template tmp/title-adserver.txt tmp/title-adserver.tmp
+
+# additional configuration generation
+update_template tmp/title-config-shadowrocket.txt option/hostsVN-shadowrocket.conf
+update_template tmp/title-config-loon.txt option/hostsVN-loon.conf
+update_template tmp/title-config-surge.txt option/hostsVN-surge-pro.conf
+update_template tmp/title-config-surge.txt tmp/title-config-surge.tmp
 
 echo "Creating hosts file..."
 # create hosts files
-cat tmp/title-hosts.tmp source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt > hosts
-cat tmp/title-hosts-VN.tmp source/hosts-VN-group.txt source/hosts-VN.txt > option/hosts-VN
+awk '{if ($0 ~ /^#/) {print $0} else {print "0.0.0.0 "$0}}' tmp/title-hosts.tmp source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt > hosts
+awk '{if ($0 ~ /^#/) {print $0} else {print "0.0.0.0 "$0}}' tmp/title-hosts-VN.tmp source/hosts-VN-group.txt source/hosts-VN.txt > option/hosts-VN
 
 # create hosts-iOS file
 cat hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "0 "$2}' >> tmp/hosts-iOS.tmp
@@ -64,9 +87,11 @@ cat source/exceptions.txt | grep -v '!' | awk '{print $1}' >> tmp/exceptions.tmp
 cat tmp/adservers.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-rule.tmp
 cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{print "||"$1"^"}' >> tmp/adservers-all-rule.tmp
 cat tmp/exceptions.tmp | awk '{print "@@||"$1"^|"}' >> tmp/adservers-all-rule.tmp
-cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adservers-surge.tmp
 
-echo "Creating dnscrypt & dnsmasq file..."
+# add to files
+cat tmp/title-adserver.tmp tmp/adservers-rule.tmp > filters/adservers.txt
+cat tmp/title-adserver-all.tmp tmp/adservers-all-rule.tmp > filters/adservers-all.txt
+
 # create dnscrypt & dnsmasq file
 cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{print "*."$1}' > option/dnscrypt-hostsVN.txt
 cat option/domain.txt | awk '{print "local=/"$1"/"}' > option/dnsmasq-hostsVN.conf
@@ -94,24 +119,59 @@ cat source/config-rewrite.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk 
 
 echo "Creating config file..."
 # create config
-sed -e "s/_time_stamp_/$TIME_STAMP/g" tmp/title-config-quantumultX.txt > option/hostsVN-quantumultX.conf
+sed -i 's|hostsVN-surge-pro.conf|hostsVN-surge.conf|g' tmp/title-config-surge.tmp
+cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "*"$1" = 0.0.0.0"}' >> tmp/adservers-surge.tmp
 cat tmp/title-config-surge.tmp tmp/adservers-surge.tmp > option/hostsVN-surge.conf
 
-echo "Adding to file..."
-# add to files
-cat tmp/title-adserver.tmp tmp/adservers-rule.tmp > filters/adservers.txt
-cat tmp/title-adserver-all.tmp tmp/adservers-all-rule.tmp > filters/adservers-all.txt
-
-echo "Creating block OTA file..."
+echo "Creating block OTA & FB file..."
 cat source/OTA.txt | grep -v '!' | awk '{print "HOST-SUFFIX,"$1",REJECT"}' > option/hostsVN-quantumult-OTA.conf
 cat source/OTA.txt | grep -v '!' | awk '{print "DOMAIN-SUFFIX,"$1}' > option/hostsVN-surge-OTA.conf
+cat source/FB.txt | grep -v '!' | awk '{print "HOST-SUFFIX,"$1",REJECT"}' > option/hostsVN-quantumult-FB.conf
+echo "USER-AGENT,FBiOSSDK*,REJECT" >> option/hostsVN-quantumult-FB.conf
+cat source/FB.txt | grep -v '!' | awk '{print "DOMAIN-SUFFIX,"$1}' > option/hostsVN-surge-FB.conf
+echo "USER-AGENT,FBiOSSDK*" >> option/hostsVN-surge-FB.conf
+
+echo "Creating json file..."
+output_file="json/hostsVN.json"
+
+# process file
+process_file() {
+    local file=$1
+    grep -v '^#' "$file" | awk '{print $1}' | sort -u
+}
+
+# create json structure
+create_json_array() {
+    local id=$1
+    shift
+    local files=("$@")
+    echo "  \"$id\": ["
+    for file in "${files[@]}"; do
+        process_file "$file" | sed -e 's/^/    "/' -e 's/$/",/'
+    done | sort -u
+    echo "  ],"
+}
+
+# begin write json file
+echo "{" > "$output_file"
+
+# add domain to json file
+create_json_array "ads&trackingVN" source/hosts-VN-group.txt source/hosts-VN.txt >> "$output_file"
+create_json_array "ads&tracking" source/hosts-group.txt source/hosts-extra.txt source/hosts.txt >> "$output_file"
+create_json_array "adultVN" extensions/source/adult-VN.txt >> "$output_file"
+create_json_array "adult" extensions/source/adult.txt >> "$output_file"
+create_json_array "gamblingVN" extensions/source/gambling-VN.txt >> "$output_file"
+create_json_array "gambling" extensions/source/gambling.txt >> "$output_file"
+create_json_array "threatVN" extensions/source/threat-VN.txt >> "$output_file"
+create_json_array "threat" extensions/source/threat.txt >> "$output_file"
+
+# end write json file
+sed -i '$ s/,$//' "$output_file"
+echo "}" >> "$output_file"
 
 # remove tmp file
+echo "Removing temp files..."
 rm -rf tmp/*.tmp
 rm -rf source/*.tmp
 
-# check duplicate
-echo "Checking duplicate..."
-sort option/domain.txt | uniq -d
-sort filters/adservers-all.txt | uniq -d
 read -p "Completed! Press enter to close"
