@@ -53,7 +53,6 @@ update_template() {
 
 # update titles
 update_template tmp/title-hosts.txt tmp/title-hosts.tmp
-update_template tmp/title-hosts-iOS.txt tmp/title-hosts-iOS.tmp
 update_template tmp/title-hosts-VN.txt tmp/title-hosts-VN.tmp
 update_template tmp/title-adserver-all.txt tmp/title-adserver-all.tmp
 update_template tmp/title-adserver.txt tmp/title-adserver.tmp
@@ -68,10 +67,6 @@ echo "Creating hosts file..."
 # create hosts files
 awk '{if ($0 ~ /^#/) {print $0} else {print "0.0.0.0 "$0}}' tmp/title-hosts.tmp source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt > hosts
 awk '{if ($0 ~ /^#/) {print $0} else {print "0.0.0.0 "$0}}' tmp/title-hosts-VN.tmp source/hosts-VN-group.txt source/hosts-VN.txt > option/hosts-VN
-
-# create hosts-iOS file
-cat hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "0 "$2}' >> tmp/hosts-iOS.tmp
-cat tmp/title-hosts-iOS.tmp tmp/hosts-iOS.tmp > option/hosts-iOS
 
 # create domain file
 cat hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' > option/domain.txt
@@ -136,8 +131,7 @@ output_file="json/hostsVN.json"
 
 # process file
 process_file() {
-    local file=$1
-    grep -v '^#' "$file" | awk '{print $1}' | sort -u
+    cat "$@" | grep -v '^#' | awk '{print $1}' | sort -u
 }
 
 # create json structure
@@ -145,11 +139,9 @@ create_json_array() {
     local id=$1
     shift
     local files=("$@")
-    echo "  \"$id\": ["
-    for file in "${files[@]}"; do
-        process_file "$file" | sed -e 's/^/    "/' -e 's/$/",/'
-    done | sort -u
-    echo "  ],"
+    echo -n "  \"$id\": ["
+    process_file "${files[@]}" | awk 'BEGIN { ORS=""; } { printf "\"%s\",", $0; }' | sed 's/,$//'
+    echo "],"
 }
 
 # begin write json file
