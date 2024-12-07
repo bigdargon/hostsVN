@@ -1,5 +1,28 @@
 #!/bin/sh
 
+# check duplicate & export files
+cat source/hosts-VN-group.txt source/hosts-VN.txt source/hosts-group.txt source/hosts-extra.txt source/hosts.txt | grep -v '#' | sort | uniq -d > tmp/duplicate_domains.tmp
+cat source/adservers.txt source/adservers-all.txt source/adservers-extra.txt | grep -v '!' | sort | uniq -d > tmp/duplicate_rules.tmp
+
+# check duplicate hosts file
+if [ -s tmp/duplicate_domains.tmp ]; then
+    echo "Duplicate domains:"
+    cat tmp/duplicate_domains.tmp
+fi
+
+# check duplicate adservers file
+if [ -s tmp/duplicate_rules.tmp ]; then
+    echo "Duplicate rules:"
+    cat tmp/duplicate_rules.tmp
+fi
+
+# if duplicate, exit
+if [ -s tmp/duplicate_domains.tmp ] || [ -s tmp/duplicate_rules.tmp ]; then
+    rm -f tmp/duplicate_domains.tmp tmp/duplicate_rules.tmp
+    read -p "Duplicate found. Exiting..."
+    exit 1
+fi
+
 echo "Preparing files..."
 # function to process files
 process_hosts_file() {
@@ -16,7 +39,7 @@ echo "Making titles..."
 # make time stamp & version
 TIME_STAMP=$(date +'%d %b %Y %H:%M')
 VERSION=$(date +'%y%m%d%H%M')
-LC_NUMERIC="en_US.UTF-8"
+LC_NUMERIC="vi_VN.UTF-8"
 
 # common function to count lines
 count_lines() {
@@ -24,10 +47,10 @@ count_lines() {
 }
 
 # count domains and rules
-DOMAIN=$(printf "%'.3d\n" $(count_lines source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt))
-DOMAIN_VN=$(printf "%'.3d\n" $(count_lines source/hosts-VN-group.txt source/hosts-VN.txt))
-RULE=$(printf "%'.3d\n" $(count_lines source/adservers.txt source/adservers-all.txt source/adserver.tmp source/adserver-all.tmp source/adservers-extra.txt source/exceptions.txt))
-RULE_VN=$(printf "%'.3d\n" $(count_lines source/adservers.txt source/adserver.tmp))
+DOMAIN=$(printf "%'d\n" $(count_lines source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt))
+DOMAIN_VN=$(printf "%'d\n" $(count_lines source/hosts-VN-group.txt source/hosts-VN.txt))
+RULE=$(printf "%'d\n" $(count_lines source/adservers.txt source/adservers-all.txt source/adserver.tmp source/adserver-all.tmp source/adservers-extra.txt source/exceptions.txt))
+RULE_VN=$(printf "%'d\n" $(count_lines source/adservers.txt source/adserver.tmp))
 HOSTNAME=$(cat source/config-hostname.txt)
 
 # function to replace placeholders in template files

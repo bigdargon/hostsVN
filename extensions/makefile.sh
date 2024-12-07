@@ -1,5 +1,28 @@
 #!/bin/sh
 
+# check duplicate & export files
+cat source/adult.txt source/adult-VN.txt source/gambling.txt source/gambling-VN.txt source/threat.txt source/threat-VN.txt | grep -v '#' | sort | uniq -d > tmp/duplicate_domains.tmp
+cat source/ip-ads.txt source/ip-adult.txt source/ip-gambling.txt source/ip-threat.txt | grep -v '#' | sort | uniq -d > tmp/duplicate_ips.tmp
+
+# check duplicate hosts file
+if [ -s tmp/duplicate_domains.tmp ]; then
+    echo "Duplicate domains:"
+    cat tmp/duplicate_domains.tmp
+fi
+
+# check duplicate ips file
+if [ -s tmp/duplicate_ips.tmp ]; then
+    echo "Duplicate ips:"
+    cat tmp/duplicate_ips.tmp
+fi
+
+# if duplicate, exit
+if [ -s tmp/duplicate_domains.tmp ] || [ -s tmp/duplicate_ips.tmp ]; then
+    rm -f tmp/duplicate_domains.tmp tmp/duplicate_ips.tmp
+    read -p "Duplicate found. Exiting..."
+    exit 1
+fi
+
 echo "Preparing files..."
 # function to process files
 process_hosts_file() {
@@ -20,7 +43,7 @@ echo "Making titles..."
 # make time stamp & version
 TIME_STAMP=$(date +'%d %b %Y %H:%M')
 VERSION=$(date +'%y%m%d%H%M')
-LC_NUMERIC="en_US.UTF-8"
+LC_NUMERIC="vi_VN.UTF-8"
 
 # common function to count lines
 count_lines() {
@@ -28,18 +51,18 @@ count_lines() {
 }
 
 # count domains and rules
-DOMAIN_ADULT=$(printf "%'.3d\n" $(count_lines source/adult.txt source/adult-VN.txt))
-DOMAIN_GAMBLING=$(printf "%'.3d\n" $(count_lines source/gambling.txt source/gambling-VN.txt))
-DOMAIN_THREAT=$(printf "%'.3d\n" $(count_lines source/threat.txt source/threat-VN.txt))
-DOMAIN_ADULT_VN=$(printf "%'.3d\n" $(count_lines source/adult-VN.txt))
-DOMAIN_GAMBLING_VN=$(printf "%'.3d\n" $(count_lines source/gambling-VN.txt))
-DOMAIN_THREAT_VN=$(printf "%'.3d\n" $(count_lines source/threat-VN.txt))
-RULE_ADULT=$(printf "%'.3d\n" $(count_lines source/adult.tmp source/adult-VN.tmp))
-RULE_GAMBLING=$(printf "%'.3d\n" $(count_lines source/gambling.tmp source/gambling-VN.tmp))
-RULE_THREAT=$(printf "%'.3d\n" $(count_lines source/threat.tmp source/threat-VN.tmp))
-RULE_ADULT_VN=$(printf "%'.3d\n" $(count_lines source/adult-VN.tmp))
-RULE_GAMBLING_VN=$(printf "%'.3d\n" $(count_lines source/gambling-VN.tmp))
-RULE_THREAT_VN=$(printf "%'.3d\n" $(count_lines source/threat-VN.tmp))
+DOMAIN_ADULT=$(printf "%'d\n" $(count_lines source/adult.txt source/adult-VN.txt))
+DOMAIN_GAMBLING=$(printf "%'d\n" $(count_lines source/gambling.txt source/gambling-VN.txt))
+DOMAIN_THREAT=$(printf "%'d\n" $(count_lines source/threat.txt source/threat-VN.txt))
+DOMAIN_ADULT_VN=$(printf "%'d\n" $(count_lines source/adult-VN.txt))
+DOMAIN_GAMBLING_VN=$(printf "%'d\n" $(count_lines source/gambling-VN.txt))
+DOMAIN_THREAT_VN=$(printf "%'d\n" $(count_lines source/threat-VN.txt))
+RULE_ADULT=$(printf "%'d\n" $(count_lines source/adult.tmp source/adult-VN.tmp))
+RULE_GAMBLING=$(printf "%'d\n" $(count_lines source/gambling.tmp source/gambling-VN.tmp))
+RULE_THREAT=$(printf "%'d\n" $(count_lines source/threat.tmp source/threat-VN.tmp))
+RULE_ADULT_VN=$(printf "%'d\n" $(count_lines source/adult-VN.tmp))
+RULE_GAMBLING_VN=$(printf "%'d\n" $(count_lines source/gambling-VN.tmp))
+RULE_THREAT_VN=$(printf "%'d\n" $(count_lines source/threat-VN.tmp))
 
 # function to replace placeholders in template files
 update_template() {
