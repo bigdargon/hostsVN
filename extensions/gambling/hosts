@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 05 Dec 2024 23:11 UTC+7
-# Version: 2412052311
-# Blocked: 166,999 domains
+# Last modified: 07 Dec 2024 16:35 UTC+7
+# Version: 2412071635
+# Blocked: 166,998 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9,7 +9,6 @@
 # Download: https://github.com/bigdargon/hostsVN/raw/master/extensions/gambling/hosts
 #
 # =====================================================
-
 0.0.0.0 000000.com
 0.0.0.0 000000hd.com
 0.0.0.0 000000tyc.com
@@ -151867,7 +151866,6 @@
 0.0.0.0 vie2655652.com
 0.0.0.0 vie28.pro
 0.0.0.0 vie28.world
-0.0.0.0 viet-lotte.com
 0.0.0.0 vietbet.eu
 0.0.0.0 vietbet89.com
 0.0.0.0 vietclub.net

@@ -1,59 +1,88 @@
 #!/bin/sh
 
 echo "Preparing files..."
-# convert hosts to filters
-cat source/adult.txt | grep -v '#' | awk '{print $1}' > source/adult.tmp
-sed -i "s/www\.//g" source/adult.tmp
-sort -u -o source/adult.tmp source/adult.tmp
-cat source/adult-VN.txt | grep -v '#' | awk '{print $1}' > source/adult-VN.tmp
-sed -i "s/www\.//g" source/adult-VN.tmp
-sort -u -o source/adult-VN.tmp source/adult-VN.tmp
-cat source/gambling.txt | grep -v '#' | awk '{print $1}' > source/gambling.tmp
-sed -i "s/www\.//g" source/gambling.tmp
-sort -u -o source/gambling.tmp source/gambling.tmp
-cat source/gambling-VN.txt | grep -v '#' | awk '{print $1}' > source/gambling-VN.tmp
-sed -i "s/www\.//g" source/gambling-VN.tmp
-sort -u -o source/gambling-VN.tmp source/gambling-VN.tmp
-cat source/threat.txt | grep -v '#' | awk '{print $1}' > source/threat.tmp
-sed -i "s/www\.//g" source/threat.tmp
-sort -u -o source/threat.tmp source/threat.tmp
-cat source/threat-VN.txt | grep -v '#' | awk '{print $1}' > source/threat-VN.tmp
-sed -i "s/www\.//g" source/threat-VN.tmp
-sort -u -o source/threat-VN.tmp source/threat-VN.tmp
+# function to process files
+process_hosts_file() {
+    local input_file=$1
+    local output_file=$2
+    grep -vE '^#|^[[:space:]]*$' "$input_file" | awk '{print $1}' | sed 's/www\.//g' | sort -u > "$output_file"
+}
+
+# process files
+process_hosts_file source/adult.txt source/adult.tmp
+process_hosts_file source/adult-VN.txt source/adult-VN.tmp
+process_hosts_file source/gambling.txt source/gambling.tmp
+process_hosts_file source/gambling-VN.txt source/gambling-VN.tmp
+process_hosts_file source/threat.txt source/threat.tmp
+process_hosts_file source/threat-VN.txt source/threat-VN.tmp
 
 echo "Making titles..."
-# make time stamp & count blocked
+# make time stamp & version
 TIME_STAMP=$(date +'%d %b %Y %H:%M')
 VERSION=$(date +'%y%m%d%H%M')
 LC_NUMERIC="en_US.UTF-8"
-DOMAIN_ADULT=$(printf "%'.3d\n" $(cat source/adult.txt source/adult-VN.txt | grep -v '#' | wc -l))
-DOMAIN_GAMBLING=$(printf "%'.3d\n" $(cat source/gambling.txt source/gambling-VN.txt | grep -v '#' | wc -l))
-DOMAIN_THREAT=$(printf "%'.3d\n" $(cat source/threat.txt source/threat-VN.txt | grep -v '#' | wc -l))
-DOMAIN_ADULT_VN=$(printf "%'.3d\n" $(cat source/adult-VN.txt | grep -v '#' | wc -l))
-DOMAIN_GAMBLING_VN=$(printf "%'.3d\n" $(cat source/gambling-VN.txt | grep -v '#' | wc -l))
-DOMAIN_THREAT_VN=$(printf "%'.3d\n" $(cat source/threat-VN.txt | grep -v '#' | wc -l))
-IP_BLOCKLIST=$(printf "%'.3d\n" $(cat source/ip.txt | grep -v '#' | wc -l))
-RULE_ADULT=$(printf "%'.3d\n" $(cat source/adult.tmp source/adult-VN.tmp | wc -l))
-RULE_GAMBLING=$(printf "%'.3d\n" $(cat source/gambling.tmp source/gambling-VN.tmp | wc -l))
-RULE_THREAT=$(printf "%'.3d\n" $(cat source/threat.tmp source/threat-VN.tmp | wc -l))
-RULE_ADULT_VN=$(printf "%'.3d\n" $(cat source/adult-VN.tmp | wc -l))
-RULE_GAMBLING_VN=$(printf "%'.3d\n" $(cat source/gambling-VN.tmp | wc -l))
-RULE_THREAT_VN=$(printf "%'.3d\n" $(cat source/threat-VN.tmp | wc -l))
 
-# update titles
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_adult_/$DOMAIN_ADULT/g" tmp/title-hosts-adult.txt > tmp/title-hosts-adult.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_gambling_/$DOMAIN_GAMBLING/g" tmp/title-hosts-gambling.txt > tmp/title-hosts-gambling.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_threat_/$DOMAIN_THREAT/g" tmp/title-hosts-threat.txt > tmp/title-hosts-threat.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_adult_vn_/$DOMAIN_ADULT_VN/g" tmp/title-hosts-adult-VN.txt > tmp/title-hosts-adult-VN.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_gambling_vn_/$DOMAIN_GAMBLING_VN/g" tmp/title-hosts-gambling-VN.txt > tmp/title-hosts-gambling-VN.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_domain_threat_vn_/$DOMAIN_THREAT_VN/g" tmp/title-hosts-threat-VN.txt > tmp/title-hosts-threat-VN.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_ip_blocklist_/$IP_BLOCKLIST/g" tmp/title-ip.txt > tmp/title-ip.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_adult_/$RULE_ADULT/g" tmp/title-filter-adult.txt > tmp/title-filter-adult.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_gambling_/$RULE_GAMBLING/g" tmp/title-filter-gambling.txt > tmp/title-filter-gambling.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_threat_/$RULE_THREAT/g" tmp/title-filter-threat.txt > tmp/title-filter-threat.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_adult_vn_/$RULE_ADULT_VN/g" tmp/title-filter-adult-VN.txt > tmp/title-filter-adult-VN.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_gambling_vn_/$RULE_GAMBLING_VN/g" tmp/title-filter-gambling-VN.txt > tmp/title-filter-gambling-VN.tmp
-sed -e "s/_time_stamp_/$TIME_STAMP/g" -e "s/_version_/$VERSION/g" -e "s/_rule_threat_vn_/$RULE_THREAT_VN/g" tmp/title-filter-threat-VN.txt > tmp/title-filter-threat-VN.tmp
+# common function to count lines
+count_lines() {
+  grep -v -e '#' -e '!' "$@" | grep -v -e '^[[:space:]]*$' | wc -l
+}
+
+# count domains and rules
+DOMAIN_ADULT=$(printf "%'.3d\n" $(count_lines source/adult.txt source/adult-VN.txt))
+DOMAIN_GAMBLING=$(printf "%'.3d\n" $(count_lines source/gambling.txt source/gambling-VN.txt))
+DOMAIN_THREAT=$(printf "%'.3d\n" $(count_lines source/threat.txt source/threat-VN.txt))
+DOMAIN_ADULT_VN=$(printf "%'.3d\n" $(count_lines source/adult-VN.txt))
+DOMAIN_GAMBLING_VN=$(printf "%'.3d\n" $(count_lines source/gambling-VN.txt))
+DOMAIN_THREAT_VN=$(printf "%'.3d\n" $(count_lines source/threat-VN.txt))
+RULE_ADULT=$(printf "%'.3d\n" $(count_lines source/adult.tmp source/adult-VN.tmp))
+RULE_GAMBLING=$(printf "%'.3d\n" $(count_lines source/gambling.tmp source/gambling-VN.tmp))
+RULE_THREAT=$(printf "%'.3d\n" $(count_lines source/threat.tmp source/threat-VN.tmp))
+RULE_ADULT_VN=$(printf "%'.3d\n" $(count_lines source/adult-VN.tmp))
+RULE_GAMBLING_VN=$(printf "%'.3d\n" $(count_lines source/gambling-VN.tmp))
+RULE_THREAT_VN=$(printf "%'.3d\n" $(count_lines source/threat-VN.tmp))
+
+# function to replace placeholders in template files
+update_template() {
+  local template="$1"
+  local output="$2"
+  sed \
+    -e "s/_time_stamp_/$TIME_STAMP/g" \
+    -e "s/_version_/$VERSION/g" \
+    -e "s/_domain_adult_/$DOMAIN_ADULT/g" \
+    -e "s/_domain_gambling_/$DOMAIN_GAMBLING/g" \
+    -e "s/_domain_threat_/$DOMAIN_THREAT/g" \
+    -e "s/_domain_adultvn_/$DOMAIN_ADULT_VN/g" \
+    -e "s/_domain_gamblingvn_/$DOMAIN_GAMBLING_VN/g" \
+    -e "s/_domain_threatvn_/$DOMAIN_THREAT_VN/g" \
+    -e "s/_rule_adult_/$RULE_ADULT/g" \
+    -e "s/_rule_gambling_/$RULE_GAMBLING/g" \
+    -e "s/_rule_threat_/$RULE_THREAT/g" \
+    -e "s/_rule_adultvn_/$RULE_ADULT_VN/g" \
+    -e "s/_rule_gamblingvn_/$RULE_GAMBLING_VN/g" \
+    -e "s/_rule_threatvn_/$RULE_THREAT_VN/g" \
+    "$template" > "$output"
+}
+
+# list of template files to update
+declare -A TEMPLATES=(
+    ["tmp/title-hosts-adult.txt"]="tmp/title-hosts-adult.tmp"
+    ["tmp/title-hosts-gambling.txt"]="tmp/title-hosts-gambling.tmp"
+    ["tmp/title-hosts-threat.txt"]="tmp/title-hosts-threat.tmp"
+    ["tmp/title-hosts-adult-VN.txt"]="tmp/title-hosts-adult-VN.tmp"
+    ["tmp/title-hosts-gambling-VN.txt"]="tmp/title-hosts-gambling-VN.tmp"
+    ["tmp/title-hosts-threat-VN.txt"]="tmp/title-hosts-threat-VN.tmp"
+    ["tmp/title-filter-adult.txt"]="tmp/title-filter-adult.tmp"
+    ["tmp/title-filter-gambling.txt"]="tmp/title-filter-gambling.tmp"
+    ["tmp/title-filter-threat.txt"]="tmp/title-filter-threat.tmp"
+    ["tmp/title-filter-adult-VN.txt"]="tmp/title-filter-adult-VN.tmp"
+    ["tmp/title-filter-gambling-VN.txt"]="tmp/title-filter-gambling-VN.tmp"
+    ["tmp/title-filter-threat-VN.txt"]="tmp/title-filter-threat-VN.tmp"
+)
+
+# loop through templates and update each
+for template in "${!TEMPLATES[@]}"; do
+  update_template "$template" "${TEMPLATES[$template]}"
+done
 
 echo "Creating hosts file..."
 # create hosts files
@@ -63,7 +92,6 @@ cat source/threat.txt source/threat-VN.txt | grep -v '#' | grep -v -e '^[[:space
 cat source/adult-VN.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "0.0.0.0 "$1}' | sort > tmp/adult-hosts-VN.tmp
 cat source/gambling-VN.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "0.0.0.0 "$1}' | sort > tmp/gambling-hosts-VN.tmp
 cat source/threat-VN.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "0.0.0.0 "$1}' | sort > tmp/threat-hosts-VN.tmp
-cat source/ip.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | sort -n > tmp/ip.tmp
 
 cat tmp/title-hosts-adult.tmp tmp/adult-hosts.tmp > adult/hosts
 cat tmp/title-hosts-gambling.tmp tmp/gambling-hosts.tmp > gambling/hosts
@@ -71,7 +99,12 @@ cat tmp/title-hosts-threat.tmp tmp/threat-hosts.tmp > threat/hosts
 cat tmp/title-hosts-adult-VN.tmp tmp/adult-hosts-VN.tmp > adult/hosts-VN
 cat tmp/title-hosts-gambling-VN.tmp tmp/gambling-hosts-VN.tmp > gambling/hosts-VN
 cat tmp/title-hosts-threat-VN.tmp tmp/threat-hosts-VN.tmp > threat/hosts-VN
-cat tmp/title-ip.tmp tmp/ip.tmp > ip/list
+
+# create ip files
+cat source/ip-ads.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | sort -n > ip/ads.txt
+cat source/ip-adult.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | sort -n > ip/adult.txt
+cat source/ip-gambling.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | sort -n > ip/gambling.txt
+cat source/ip-threat.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | sort -n > ip/threat.txt
 
 echo "Creating filter file..."
 # create filter files
@@ -98,14 +131,9 @@ cat source/adult.tmp source/adult-VN.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' > ad
 cat source/gambling.tmp source/gambling-VN.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' > gambling/surge-rule.conf
 cat source/threat.tmp source/threat-VN.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' > threat/surge-rule.conf
 
-# check duplicate
-echo "Checking duplicate..."
-cat tmp/adult-hosts.tmp | uniq -d
-cat tmp/gambling-hosts.tmp | uniq -d
-cat tmp/threat-hosts.tmp | uniq -d
-cat tmp/ip.tmp | uniq -d
-
 # remove tmp file
+echo "Removing temp files..."
 rm -rf tmp/*.tmp
 rm -rf source/*.tmp
+
 read -p "Completed! Press enter to close"

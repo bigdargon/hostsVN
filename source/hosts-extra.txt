@@ -1,37 +1,37 @@
 # --- Extra block ---
 #[appsflyer.com]
-0.0.0.0 api.appsflyer.com
-0.0.0.0 api2.appsflyer.com
-0.0.0.0 attr.appsflyer.com
-0.0.0.0 cdn.appsflyer.com
-0.0.0.0 cdnappicons.appsflyer.com
-0.0.0.0 conversions.appsflyer.com
-0.0.0.0 events.appsflyer.com
-0.0.0.0 fvalid.appsflyer.com
-0.0.0.0 gcdsdk.appsflyer.com
-0.0.0.0 hq1.appsflyer.com
-0.0.0.0 impression.appsflyer.com
-0.0.0.0 inapps.appsflyer.com
-0.0.0.0 launches.appsflyer.com
-0.0.0.0 monitorsdk.appsflyer.com
-0.0.0.0 onelink.appsflyer.com
-0.0.0.0 register.appsflyer.com
-0.0.0.0 s2s.appsflyer.com
-0.0.0.0 sdk-services.appsflyer.com
-0.0.0.0 sdk.appsflyer.com
-0.0.0.0 skadsdk.appsflyer.com
-0.0.0.0 stats.appsflyer.com
-0.0.0.0 t.appsflyer.com
-0.0.0.0 track.appsflyer.com
-0.0.0.0 validate.appsflyer.com
-0.0.0.0 wa.appsflyer.com
-0.0.0.0 websdk.appsflyer.com
+api.appsflyer.com
+api2.appsflyer.com
+attr.appsflyer.com
+cdn.appsflyer.com
+cdnappicons.appsflyer.com
+conversions.appsflyer.com
+events.appsflyer.com
+fvalid.appsflyer.com
+gcdsdk.appsflyer.com
+hq1.appsflyer.com
+impression.appsflyer.com
+inapps.appsflyer.com
+launches.appsflyer.com
+monitorsdk.appsflyer.com
+onelink.appsflyer.com
+register.appsflyer.com
+s2s.appsflyer.com
+sdk-services.appsflyer.com
+sdk.appsflyer.com
+skadsdk.appsflyer.com
+stats.appsflyer.com
+t.appsflyer.com
+track.appsflyer.com
+validate.appsflyer.com
+wa.appsflyer.com
+websdk.appsflyer.com
 #[appsflyersdk.com]
-0.0.0.0 cdn-settings.appsflyersdk.com
-0.0.0.0 conversions.appsflyersdk.com
-0.0.0.0 dlsdk.appsflyersdk.com
-0.0.0.0 gcdsdk.appsflyersdk.com
-0.0.0.0 inapps.appsflyersdk.com
-0.0.0.0 launches.appsflyersdk.com
-0.0.0.0 register.appsflyersdk.com
+cdn-settings.appsflyersdk.com
+conversions.appsflyersdk.com
+dlsdk.appsflyersdk.com
+gcdsdk.appsflyersdk.com
+inapps.appsflyersdk.com
+launches.appsflyersdk.com
+register.appsflyersdk.com
 # CNAME Popup
