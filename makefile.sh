@@ -1,25 +1,19 @@
 #!/bin/sh
 
 echo "Preparing files..."
-# convert hosts to filters
-cat source/hosts.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1}' > source/adserver-all.tmp
-if [ "$(uname)" == "Darwin" ]; then
-    sed -i "" "s/www\.//g" source/adserver-all.tmp
-else
-    sed -i "s/www\.//g" source/adserver-all.tmp
-fi
-sort -u -o source/adserver-all.tmp source/adserver-all.tmp
+# function to process files
+process_hosts_file() {
+    local input_file=$1
+    local output_file=$2
+    grep -vE '^#|^[[:space:]]*$' "$input_file" | awk '{print $1}' | sed 's/www\.//g' | sort -u > "$output_file"
+}
 
-cat source/hosts-VN.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $1}' > source/adserver.tmp
-if [ "$(uname)" == "Darwin" ]; then
-    sed -i "" "s/www\.//g" source/adserver.tmp
-else
-    sed -i "s/www\.//g" source/adserver.tmp
-fi
-sort -u -o source/adserver.tmp source/adserver.tmp
+# process files
+process_hosts_file source/hosts.txt source/adserver-all.tmp
+process_hosts_file source/hosts-VN.txt source/adserver.tmp
 
 echo "Making titles..."
-# make time stamp & count blocked
+# make time stamp & version
 TIME_STAMP=$(date +'%d %b %Y %H:%M')
 VERSION=$(date +'%y%m%d%H%M')
 LC_NUMERIC="en_US.UTF-8"
@@ -29,7 +23,7 @@ count_lines() {
   grep -v -e '#' -e '!' "$@" | grep -v -e '^[[:space:]]*$' | wc -l
 }
 
-# count blocks and rules
+# count domains and rules
 DOMAIN=$(printf "%'.3d\n" $(count_lines source/hosts-group.txt source/hosts-VN-group.txt source/hosts-VN.txt source/hosts.txt source/hosts-extra.txt))
 DOMAIN_VN=$(printf "%'.3d\n" $(count_lines source/hosts-VN-group.txt source/hosts-VN.txt))
 RULE=$(printf "%'.3d\n" $(count_lines source/adservers.txt source/adservers-all.txt source/adserver.tmp source/adserver-all.tmp source/adservers-extra.txt source/exceptions.txt))
@@ -51,17 +45,22 @@ update_template() {
     "$template" > "$output"
 }
 
-# update titles
-update_template tmp/title-hosts.txt tmp/title-hosts.tmp
-update_template tmp/title-hosts-VN.txt tmp/title-hosts-VN.tmp
-update_template tmp/title-adserver-all.txt tmp/title-adserver-all.tmp
-update_template tmp/title-adserver.txt tmp/title-adserver.tmp
+# list of template files to update
+declare -A TEMPLATES=(
+    ["tmp/title-hosts.txt"]="tmp/title-hosts.tmp"
+    ["tmp/title-hosts-VN.txt"]="tmp/title-hosts-VN.tmp"
+    ["tmp/title-adserver-all.txt"]="tmp/title-adserver-all.tmp"
+    ["tmp/title-adserver.txt"]="tmp/title-adserver.tmp"
+    ["tmp/title-config-shadowrocket.txt"]="option/hostsVN-shadowrocket.conf"
+    ["tmp/title-config-loon.txt"]="option/hostsVN-loon.conf"
+    ["tmp/title-config-surge.txt"]="option/hostsVN-surge-pro.conf"
+    ["tmp/title-config-surge.txt"]="tmp/title-config-surge.tmp"
+)
 
-# additional configuration generation
-update_template tmp/title-config-shadowrocket.txt option/hostsVN-shadowrocket.conf
-update_template tmp/title-config-loon.txt option/hostsVN-loon.conf
-update_template tmp/title-config-surge.txt option/hostsVN-surge-pro.conf
-update_template tmp/title-config-surge.txt tmp/title-config-surge.tmp
+# loop through templates and update each
+for template in "${!TEMPLATES[@]}"; do
+  update_template "$template" "${TEMPLATES[$template]}"
+done
 
 echo "Creating hosts file..."
 # create hosts files
@@ -130,7 +129,7 @@ echo "Creating json file..."
 output_file="json/hostsVN.json"
 
 # process file
-process_file() {
+process_json_file() {
     cat "$@" | grep -v '^#' | awk '{print $1}' | sort -u
 }
 
@@ -140,7 +139,7 @@ create_json_array() {
     shift
     local files=("$@")
     echo -n "  \"$id\": ["
-    process_file "${files[@]}" | awk 'BEGIN { ORS=""; } { printf "\"%s\",", $0; }' | sed 's/,$//'
+    process_json_file "${files[@]}" | awk 'BEGIN { ORS=""; } { printf "\"%s\",", $0; }' | sed 's/,$//'
     echo "],"
 }
 
@@ -156,6 +155,10 @@ create_json_array "gamblingVN" extensions/source/gambling-VN.txt >> "$output_fil
 create_json_array "gambling" extensions/source/gambling.txt >> "$output_file"
 create_json_array "threatVN" extensions/source/threat-VN.txt >> "$output_file"
 create_json_array "threat" extensions/source/threat.txt >> "$output_file"
+create_json_array "ip-ads" extensions/source/ip-ads.txt >> "$output_file"
+create_json_array "ip-adult" extensions/source/ip-adult.txt >> "$output_file"
+create_json_array "ip-gambling" extensions/source/ip-gambling.txt >> "$output_file"
+create_json_array "ip-threat" extensions/source/ip-threat.txt >> "$output_file"
 
 # end write json file
 sed -i '$ s/,$//' "$output_file"

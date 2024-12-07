@@ -22,4 +22,6 @@ if [ ! -s duplicate_domains.txt ] && [ ! -s duplicate_rules.txt ]; then
     rm -f duplicate_domains.txt duplicate_rules.txt
     cd ..
     ./makefile.sh
+else
+    rm -f duplicate_domains.txt duplicate_rules.txt
 fi

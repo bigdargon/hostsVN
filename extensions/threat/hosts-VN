@@ -1,7 +1,7 @@
-# Title: hostsVN Threat
-# Last modified: 05 Dec 2024 23:11 UTC+7
-# Version: 2412052311
-# Blocked: 4,341 domains
+# Title: hostsVN Threat VN
+# Last modified: 07 Dec 2024 16:35 UTC+7
+# Version: 2412071635
+# Blocked: 4,322 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9,7 +9,6 @@
 # Download: https://github.com/bigdargon/hostsVN/raw/master/extensions/threat/hosts-VN
 #
 # =====================================================
-
 0.0.0.0 0088shop.com
 0.0.0.0 009855.com
 0.0.0.0 0fb.co
@@ -55,7 +54,6 @@
 0.0.0.0 6699uu.com
 0.0.0.0 66lotte.com
 0.0.0.0 66mh.shop
-0.0.0.0 66vang.com
 0.0.0.0 671djn.cyou
 0.0.0.0 6788vn.com
 0.0.0.0 76996.co
@@ -189,7 +187,6 @@
 0.0.0.0 asiabayshop.com
 0.0.0.0 asian-tindung.com
 0.0.0.0 asiashop666.com
-0.0.0.0 asiashop888.com
 0.0.0.0 asiashop999.com
 0.0.0.0 atqa11.com
 0.0.0.0 atspace.tv
@@ -263,7 +260,6 @@
 0.0.0.0 biticonsbank.com
 0.0.0.0 bitrueexchange.com
 0.0.0.0 bitsbankuk.com
-0.0.0.0 bk8vietnam.com
 0.0.0.0 bloodleian.club
 0.0.0.0 bluvenie.com
 0.0.0.0 bm1717.com
@@ -454,7 +450,6 @@
 0.0.0.0 dangkyappbank.online
 0.0.0.0 dangkycongtacvien.vn
 0.0.0.0 dangkyhosotructuyen2023.com
-0.0.0.0 dangkykubet.vip
 0.0.0.0 dangkynick.online
 0.0.0.0 dangkyonline-payment.com
 0.0.0.0 dangkyquetthe-tindungvn.com
@@ -462,7 +457,6 @@
 0.0.0.0 dangkysendo.vn
 0.0.0.0 dangkyshopee.vn
 0.0.0.0 dangkytanggiai2022.com
-0.0.0.0 dangkythabet.com
 0.0.0.0 dangkytinchapshinhan.xyz
 0.0.0.0 dangkytruyenhinhcap.com
 0.0.0.0 dangkyvay-bank247.net
@@ -658,7 +652,6 @@
 0.0.0.0 fajiafu30.com
 0.0.0.0 fajiafu50.com
 0.0.0.0 fasebook.com.vn
-0.0.0.0 fb88viet.com
 0.0.0.0 fbviet88.com
 0.0.0.0 fcccredit.com
 0.0.0.0 fccomvn.com
@@ -882,7 +875,6 @@
 0.0.0.0 grn-membershipff.com
 0.0.0.0 grn-memberships.com
 0.0.0.0 grn-memberships2021.com
-0.0.0.0 gs360.shop
 0.0.0.0 gta5moneygen.online
 0.0.0.0 gzdpae.cyou
 0.0.0.0 h49vnk.cyou
@@ -1099,7 +1091,6 @@
 0.0.0.0 jaccsz.com
 0.0.0.0 jaemoney.ltd
 0.0.0.0 japan-shopac.asia
-0.0.0.0 jbovietnam.com
 0.0.0.0 jetkingncsc.online
 0.0.0.0 jewvvkh.cyou
 0.0.0.0 jeyrkyshop.com
@@ -2030,7 +2021,6 @@
 0.0.0.0 pwsk11.com
 0.0.0.0 pwsk88.com
 0.0.0.0 qjc2vo.cyou
-0.0.0.0 qq8788viet.com
 0.0.0.0 qqwyihwm.thjen.tech
 0.0.0.0 qrsg11.com
 0.0.0.0 qtaqlbt.ciofgnm.co
@@ -2067,13 +2057,9 @@
 0.0.0.0 quatangskin1.weebly.com
 0.0.0.0 quatangsukienfreefire.com
 0.0.0.0 quatangtrianff.com
-0.0.0.0 quatanthu.club
 0.0.0.0 quatanthu.fun
-0.0.0.0 quatanthu.group
 0.0.0.0 quatanthu.net
-0.0.0.0 quatanthu.online
 0.0.0.0 quatanthu.vip
-0.0.0.0 quatanthu.xyz
 0.0.0.0 quatanxuan2022.com
 0.0.0.0 quatetff2020.weebly.com
 0.0.0.0 quatrian123.com
@@ -2189,7 +2175,6 @@
 0.0.0.0 sanmomo.me
 0.0.0.0 sanqua-lienminh2021.cf
 0.0.0.0 saokenganhangvn.com
-0.0.0.0 sbetviet.com
 0.0.0.0 sc0mvn.com
 0.0.0.0 scb.chamsockhachhang-truc-tuyen-the.online
 0.0.0.0 scb.com.vn-cn.xyz
@@ -2960,8 +2945,6 @@
 0.0.0.0 thanhphomomo.com
 0.0.0.0 thanhtoanlienquan.com
 0.0.0.0 thanhtrapcrt.online
-0.0.0.0 thanquay247.vip
-0.0.0.0 thao88.com
 0.0.0.0 thebank247.ga
 0.0.0.0 thechapnganhang-24h.com
 0.0.0.0 thegiodidong.com.vn
@@ -3290,7 +3273,6 @@
 0.0.0.0 trumvang68.net
 0.0.0.0 trumvipmomo.com
 0.0.0.0 trungquatang.vn
-0.0.0.0 trungso.vip
 0.0.0.0 trungtam-baohanhdienmayxanh.com
 0.0.0.0 trungtam-cskh-vipham.com
 0.0.0.0 trungtam-dienmayxanh.com
@@ -4173,7 +4155,6 @@
 0.0.0.0 vxvw11.com
 0.0.0.0 vxvw22.com
 0.0.0.0 vxvw55.com
-0.0.0.0 w88banh.com
 0.0.0.0 walmartshoping.com
 0.0.0.0 warrenmoneytrader.com
 0.0.0.0 wbk9sohp.jdpz.link
@@ -4193,7 +4174,6 @@
 0.0.0.0 webxacnhankhoanvay24h.com
 0.0.0.0 wedvay.vn
 0.0.0.0 wefinexvietnam.xyz
-0.0.0.0 wellviet.net
 0.0.0.0 westcapitalbank.com
 0.0.0.0 western-unions24h.weebly.com
 0.0.0.0 westernbank.vn
