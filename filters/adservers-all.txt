@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 Dec 2024 21:50 UTC+7
-! Version: 2412072150
-! Blocked: 11.446 rules
+! Last modified: 08 Dec 2024 23:05 UTC+7
+! Version: 2412082305
+! Blocked: 11.448 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -10089,6 +10089,7 @@
 ||stunthedge.com^
 ||stupendoussleet.com^
 ||styingjareed.guru^
+||stylish-knife.com^
 ||sub2tech.com^
 ||subheroalgores.com^
 ||subscribe.hearstmags.com^
@@ -10824,6 +10825,7 @@
 ||vast.vstserv.com^
 ||vattingbalak.com^
 ||vaugroar.com^
+||vazcukap.com^
 ||vcuobpfisalm.com^
 ||vdopia.com^
 ||ve01.mgod33cme.com^
