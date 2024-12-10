@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 07 Dec 2024 21:50 UTC+7
-# Version: 2412072150
-# Blocked: 4.744 domains
+# Last modified: 10 Dec 2024 16:02 UTC+7
+# Version: 2412101602
+# Blocked: 4.745 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -502,6 +502,7 @@
 0.0.0.0 congthongtinvidientu.com
 0.0.0.0 congtykiman.org
 0.0.0.0 congtytaichinhlotte.com
+0.0.0.0 continue.dasboard184-account.com
 0.0.0.0 coonnfirrmm-bankingg247njf.weebly.com
 0.0.0.0 coronappzz.com
 0.0.0.0 cpa-tc.com
