@@ -94,6 +94,9 @@ awk '{if ($0 ~ /^#/) {print $0} else {print "0.0.0.0 "$0}}' tmp/title-hosts-VN.t
 cat hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' > option/domain.txt
 cat option/hosts-VN | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' > option/domain-VN.txt
 
+# create ip file
+cat source/ip-ads.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | sort -n > option/ip-ads.txt
+
 echo "Creating adserver file..."
 # create temp adserver files
 cat source/adservers.txt source/adserver.tmp | grep -v '!' | awk '{print $1}' >> tmp/adservers.tmp
@@ -122,6 +125,13 @@ cat tmp/adservers.tmp tmp/adservers-all.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' >
 
 echo 'payload:' > option/hostsVN-clash-rule.yaml
 cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{print "  - \047+."$1"\047"}' >> option/hostsVN-clash-rule.yaml
+
+echo 'payload:' > option/hostsVN-open-clash-rule.yaml
+cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | awk '{print "  - DOMAIN-SUFFIX,"$1}'  >> option/hostsVN-open-clash-rule.yaml
+
+# create sing-box rule
+cat tmp/adservers.tmp tmp/adservers-all.tmp tmp/adservers-extra.tmp | tr '\n' ',' | sed 's/,$//' | sed 's/^/"/;s/$/"/;s/,/","/g' > tmp/sing-box-ads.tmp
+sed "s/_singboxdomain_/$(cat tmp/sing-box-ads.tmp)/" tmp/sing-box-rule.txt > option/hostsVN-sing-box-rule.json
 
 # create exceptions rule
 cat tmp/exceptions.tmp | awk '{print "HOST,"$1",DIRECT"}' > option/hostsVN-quantumult-exceptions-rule.conf
@@ -172,13 +182,13 @@ echo "{" > "$output_file"
 # add domain to json file
 create_json_array "ads&trackingVN" source/hosts-VN-group.txt source/hosts-VN.txt >> "$output_file"
 create_json_array "ads&tracking" source/hosts-group.txt source/hosts-extra.txt source/hosts.txt >> "$output_file"
+create_json_array "ip-ads" source/ip-ads.txt >> "$output_file"
 create_json_array "adultVN" extensions/source/adult-VN.txt >> "$output_file"
 create_json_array "adult" extensions/source/adult.txt >> "$output_file"
 create_json_array "gamblingVN" extensions/source/gambling-VN.txt >> "$output_file"
 create_json_array "gambling" extensions/source/gambling.txt >> "$output_file"
 create_json_array "threatVN" extensions/source/threat-VN.txt >> "$output_file"
 create_json_array "threat" extensions/source/threat.txt >> "$output_file"
-create_json_array "ip-ads" extensions/source/ip-ads.txt >> "$output_file"
 create_json_array "ip-adult" extensions/source/ip-adult.txt >> "$output_file"
 create_json_array "ip-gambling" extensions/source/ip-gambling.txt >> "$output_file"
 create_json_array "ip-threat" extensions/source/ip-threat.txt >> "$output_file"

@@ -2,7 +2,7 @@
 
 # check duplicate & export files
 cat source/adult.txt source/adult-VN.txt source/gambling.txt source/gambling-VN.txt source/threat.txt source/threat-VN.txt | grep -v '#' | sort | uniq -d > tmp/duplicate_domains.tmp
-cat source/ip-ads.txt source/ip-adult.txt source/ip-gambling.txt source/ip-threat.txt | grep -v '#' | sort | uniq -d > tmp/duplicate_ips.tmp
+cat source/ip-adult.txt source/ip-gambling.txt source/ip-threat.txt | grep -v '#' | sort | uniq -d > tmp/duplicate_ips.tmp
 
 # check duplicate hosts file
 if [ -s tmp/duplicate_domains.tmp ]; then
@@ -124,7 +124,6 @@ cat tmp/title-hosts-gambling-VN.tmp tmp/gambling-hosts-VN.tmp > gambling/hosts-V
 cat tmp/title-hosts-threat-VN.tmp tmp/threat-hosts-VN.tmp > threat/hosts-VN
 
 # create ip files
-cat source/ip-ads.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | sort -n > ip/ads.txt
 cat source/ip-adult.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | sort -n > ip/adult.txt
 cat source/ip-gambling.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | sort -n > ip/gambling.txt
 cat source/ip-threat.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | sort -n > ip/threat.txt
@@ -153,6 +152,16 @@ cat source/threat.tmp source/threat-VN.tmp | awk '{print "HOST-SUFFIX,"$1",REJEC
 cat source/adult.tmp source/adult-VN.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' > adult/surge-rule.conf
 cat source/gambling.tmp source/gambling-VN.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' > gambling/surge-rule.conf
 cat source/threat.tmp source/threat-VN.tmp | awk '{print "DOMAIN-SUFFIX,"$1}' > threat/surge-rule.conf
+
+# create sing-box rule
+cat source/adult.tmp source/adult-VN.tmp | tr '\n' ',' | sed 's/,$//' | sed 's/^/"/;s/$/"/;s/,/","/g' > tmp/sing-box-adult.tmp
+sed "s/_singboxdomain_/$(cat tmp/sing-box-adult.tmp)/" tmp/sing-box-rule.txt > adult/sing-box-rule.json
+
+cat source/gambling.tmp source/gambling-VN.tmp | tr '\n' ',' | sed 's/,$//' | sed 's/^/"/;s/$/"/;s/,/","/g' > tmp/sing-box-gambling.tmp
+sed "s/_singboxdomain_/$(cat tmp/sing-box-gambling.tmp)/" tmp/sing-box-rule.txt > gambling/sing-box-rule.json
+
+cat source/threat.tmp source/threat-VN.tmp | tr '\n' ',' | sed 's/,$//' | sed 's/^/"/;s/$/"/;s/,/","/g' > tmp/sing-box-threat.tmp
+sed "s/_singboxdomain_/$(cat tmp/sing-box-threat.tmp)/" tmp/sing-box-rule.txt > threat/sing-box-rule.json
 
 # remove tmp file
 echo "Removing temp files..."
