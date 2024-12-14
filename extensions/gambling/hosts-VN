@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 13 Dec 2024 16:17 UTC+7
-# Version: 2412131617
-# Blocked: 6.037 domains
+# Last modified: 14 Dec 2024 17:23 UTC+7
+# Version: 2412141723
+# Blocked: 6.038 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -99,6 +99,7 @@
 0.0.0.0 123bdly.com
 0.0.0.0 123bdy.com
 0.0.0.0 123bhh.com
+0.0.0.0 123phim.site
 0.0.0.0 123win.pro
 0.0.0.0 12b99.com
 0.0.0.0 12betvnd.com

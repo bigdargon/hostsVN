@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Dec 2024 16:17 UTC+7
-! Version: 2412131617
-! Blocked: 11.460 rules
+! Last modified: 14 Dec 2024 17:22 UTC+7
+! Version: 2412141722
+! Blocked: 11.468 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1290,6 +1290,7 @@
 ||afp.ai^
 ||agentanalytics.com^
 ||agkn.com^
+||ahoy-internal-ads-hv.b-cdn.net^
 ||aicactus.io^
 ||aidata.io^
 ||aimtell.com^
@@ -1556,6 +1557,7 @@
 ||browser.events.data.msn.com^
 ||browsiprod.com^
 ||brznetwork.com^
+||bs-adserver.b-cdn.net^
 ||bs.yandex.ru^
 ||btloader.com^
 ||btrace.qq.com^
@@ -1691,6 +1693,7 @@
 ||creative.sphdigital.com^
 ||creativecdn.com^
 ||creativesumo.com^
+||creatopy-adtag-production.b-cdn.net^
 ||criteo.com^
 ||criteo.net^
 ||crs-event.line.me^
@@ -5686,6 +5689,7 @@
 ||deewansturacin.com^
 ||defeatedbadge.com^
 ||defectivesun.com^
+||defensive-bad.com^
 ||defensive-living.com^
 ||defrostjudica.com^
 ||defusefinishedsleep.com^
@@ -6011,6 +6015,7 @@
 ||effectivemeasure.com^
 ||effectiveperformanceformat.com^
 ||effectiveperformancenetwork.com^
+||effectscouncilman.com^
 ||effectuallyaudition.com^
 ||efficaciouscactus.com^
 ||effusedprankle.com^
@@ -8243,6 +8248,7 @@
 ||notifysrv.com^
 ||notix.io^
 ||nougatdimetry.com^
+||novel-inevitable.com^
 ||novem.pl^
 ||novemberassimilate.com^
 ||novemberseatsuccession.com^
@@ -9879,6 +9885,7 @@
 ||sofinpushpile.com^
 ||soflopxl.com^
 ||softclick.com.br^
+||soggy-surround.com^
 ||soidc.com^
 ||solemik.com^
 ||solestudious.com^
@@ -10187,6 +10194,7 @@
 ||syndapop.com^
 ||syndetstermine.com^
 ||syndicate.purch.com^
+||syndicatedsearch.goog^
 ||syndicpop.com^
 ||syndopop.com^
 ||sypnios.com^

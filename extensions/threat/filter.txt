@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 13 Dec 2024 16:17 UTC+7
-! Version: 2412131617
-! Blocked: 4.688 rules
+! Last modified: 14 Dec 2024 17:23 UTC+7
+! Version: 2412141723
+! Blocked: 4.689 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4555,6 +4555,7 @@
 ||vxvw11.com^
 ||vxvw22.com^
 ||vxvw55.com^
+||vyrqhmdy.unbrws.de^
 ||walmartshoping.com^
 ||walmartva.icu^
 ||warrenmoneytrader.com^
