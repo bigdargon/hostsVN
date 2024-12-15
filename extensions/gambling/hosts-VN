@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 15 Dec 2024 10:22 UTC+7
-# Version: 2412151022
-# Blocked: 6.040 domains
+# Last modified: 15 Dec 2024 22:35 UTC+7
+# Version: 2412152235
+# Blocked: 6.042 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1340,6 +1340,8 @@
 0.0.0.0 eurok8.com
 0.0.0.0 eurowin.top
 0.0.0.0 ev88.com
+0.0.0.0 ev88.fun
+0.0.0.0 ev88.vip
 0.0.0.0 event.taisum2.com
 0.0.0.0 event.xinloiduocchua.co
 0.0.0.0 ezb68.xyz

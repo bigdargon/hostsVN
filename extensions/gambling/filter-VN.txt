@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 15 Dec 2024 10:22 UTC+7
-! Version: 2412151022
-! Blocked: 5.395 rules
+! Last modified: 15 Dec 2024 22:35 UTC+7
+! Version: 2412152235
+! Blocked: 5.397 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1347,6 +1347,8 @@
 ||eurok8.com^
 ||eurowin.top^
 ||ev88.com^
+||ev88.fun^
+||ev88.vip^
 ||event.taisum2.com^
 ||event.xinloiduocchua.co^
 ||ezb68.xyz^
