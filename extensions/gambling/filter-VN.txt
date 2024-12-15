@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 14 Dec 2024 23:08 UTC+7
-! Version: 2412142308
-! Blocked: 5.393 rules
+! Last modified: 15 Dec 2024 10:22 UTC+7
+! Version: 2412151022
+! Blocked: 5.395 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -686,6 +686,7 @@
 ||api.jun88.tv^
 ||api.jun889.vip^
 ||api.kingbet86.info^
+||api.linkchuanon.com^
 ||api.mc876.com^
 ||api.minicasino.io^
 ||api.minivn.com^
@@ -3377,6 +3378,7 @@
 ||link1vaobk.com^
 ||linkbk8.com^
 ||linkbong88moinhat.com^
+||linkchuanon.com^
 ||linkmoi188.com^
 ||linkvao009.com^
 ||linkvaobong88w88.com^
