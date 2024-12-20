@@ -1731,6 +1731,7 @@ payload:
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,deployads.com
   - DOMAIN-SUFFIX,dev.visualwebsiteoptimizer.com
+  - DOMAIN-SUFFIX,dev2pub.com
   - DOMAIN-SUFFIX,device-metrics-us-2.amazon.com
   - DOMAIN-SUFFIX,device-metrics-us.amazon.com
   - DOMAIN-SUFFIX,devlog-upload-os.hoyoverse.com
@@ -2290,6 +2291,7 @@ payload:
   - DOMAIN-SUFFIX,newsmaxfeednetwork.com
   - DOMAIN-SUFFIX,nexage.com
   - DOMAIN-SUFFIX,nextadgem.com
+  - DOMAIN-SUFFIX,nhnace.com
   - DOMAIN-SUFFIX,ninthdecimal.com
   - DOMAIN-SUFFIX,nixozz.com
   - DOMAIN-SUFFIX,nmetrics.samsung.com
@@ -2409,6 +2411,8 @@ payload:
   - DOMAIN-SUFFIX,prebid.org
   - DOMAIN-SUFFIX,predataclient.b-cdn.net
   - DOMAIN-SUFFIX,premiumads.com.br
+  - DOMAIN-SUFFIX,premiumads.net
+  - DOMAIN-SUFFIX,premiumtag.net
   - DOMAIN-SUFFIX,presage.io
   - DOMAIN-SUFFIX,preview-collector.scopely.io
   - DOMAIN-SUFFIX,privatestats.whatsapp.net
@@ -10014,6 +10018,7 @@ payload:
   - DOMAIN-SUFFIX,stat24.meta.ua
   - DOMAIN-SUFFIX,stathat.com
   - DOMAIN-SUFFIX,static-ads.akamaized.net
+  - DOMAIN-SUFFIX,static-pixel.gliastudios.com
   - DOMAIN-SUFFIX,static-pixel.gliavideo.com
   - DOMAIN-SUFFIX,static.fmpub.net
   - DOMAIN-SUFFIX,static.intentarget.com

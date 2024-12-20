@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Dec 2024 11:30 UTC+7
-! Version: 2412201130
-! Blocked: 11.492 rules
+! Last modified: 20 Dec 2024 22:35 UTC+7
+! Version: 2412202235
+! Blocked: 11.497 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1738,6 +1738,7 @@
 ||demdex.net^
 ||deployads.com^
 ||dev.visualwebsiteoptimizer.com^
+||dev2pub.com^
 ||device-metrics-us-2.amazon.com^
 ||device-metrics-us.amazon.com^
 ||devlog-upload-os.hoyoverse.com^
@@ -2297,6 +2298,7 @@
 ||newsmaxfeednetwork.com^
 ||nexage.com^
 ||nextadgem.com^
+||nhnace.com^
 ||ninthdecimal.com^
 ||nixozz.com^
 ||nmetrics.samsung.com^
@@ -2416,6 +2418,8 @@
 ||prebid.org^
 ||predataclient.b-cdn.net^
 ||premiumads.com.br^
+||premiumads.net^
+||premiumtag.net^
 ||presage.io^
 ||preview-collector.scopely.io^
 ||privatestats.whatsapp.net^
@@ -10021,6 +10025,7 @@
 ||stat24.meta.ua^
 ||stathat.com^
 ||static-ads.akamaized.net^
+||static-pixel.gliastudios.com^
 ||static-pixel.gliavideo.com^
 ||static.fmpub.net^
 ||static.intentarget.com^

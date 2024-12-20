@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 20 Dec 2024 11:30 UTC+7
-# Version: 2412201130
-# Blocked: 167.080 domains
+# Last modified: 20 Dec 2024 22:37 UTC+7
+# Version: 2412202237
+# Blocked: 167.101 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7669,6 +7669,8 @@
 0.0.0.0 11dabao.com
 0.0.0.0 11dd.xyz
 0.0.0.0 11df.bet
+0.0.0.0 11ev88.com
+0.0.0.0 11ev88.org
 0.0.0.0 11he77.net
 0.0.0.0 11hg.app
 0.0.0.0 11hg.bet
@@ -16363,6 +16365,7 @@
 0.0.0.0 1w6mqs3panmvik7y1u8z.site
 0.0.0.0 1wb3t.com
 0.0.0.0 1wbae.xyz
+0.0.0.0 1wbapm.life
 0.0.0.0 1wgokj.top
 0.0.0.0 1win-cdn.com
 0.0.0.0 1win-register.site
@@ -17827,6 +17830,7 @@
 0.0.0.0 20247365.com
 0.0.0.0 2024771.com
 0.0.0.0 202499.com
+0.0.0.0 2024ev88.com
 0.0.0.0 2024hg.com
 0.0.0.0 2024pg88.vip
 0.0.0.0 2024xemwc.com
@@ -21152,6 +21156,7 @@
 0.0.0.0 22ddd.one
 0.0.0.0 22df.bet
 0.0.0.0 22ee88.com
+0.0.0.0 22ev88.com
 0.0.0.0 22ff5357.com
 0.0.0.0 22fhyl.com
 0.0.0.0 22fun88.com
@@ -32386,6 +32391,7 @@
 0.0.0.0 33dd.xyz
 0.0.0.0 33df.bet
 0.0.0.0 33ee5357.com
+0.0.0.0 33ev88.com
 0.0.0.0 33gej.biz
 0.0.0.0 33hg.app
 0.0.0.0 33hg.bet
@@ -32489,6 +32495,7 @@
 0.0.0.0 33vna.com
 0.0.0.0 33wb9.com
 0.0.0.0 33wct.com
+0.0.0.0 33win.com
 0.0.0.0 33win.download
 0.0.0.0 33win.live
 0.0.0.0 33win.to
@@ -32518,9 +32525,9 @@
 0.0.0.0 33win5.com
 0.0.0.0 33win6.bet
 0.0.0.0 33win6.com
+0.0.0.0 33win68.com
 0.0.0.0 33win7.bet
 0.0.0.0 33win7.com
-0.0.0.0 33win7.com:8888
 0.0.0.0 33win8.bet
 0.0.0.0 33win8.com
 0.0.0.0 33win9.bet
@@ -35498,6 +35505,7 @@
 0.0.0.0 3676aly.com
 0.0.0.0 3676b.com
 0.0.0.0 3676v.com
+0.0.0.0 3676vn.com
 0.0.0.0 3676vnd.com
 0.0.0.0 367774.com
 0.0.0.0 36777n.com
@@ -42215,6 +42223,7 @@
 0.0.0.0 44dabao.com
 0.0.0.0 44df.bet
 0.0.0.0 44ee0880.com
+0.0.0.0 44ev88.com
 0.0.0.0 44ff0880.com
 0.0.0.0 44gg0880.com
 0.0.0.0 44good88.com
@@ -49719,6 +49728,7 @@
 0.0.0.0 55dd5357.com
 0.0.0.0 55df.bet
 0.0.0.0 55ee0880.com
+0.0.0.0 55ev88.com
 0.0.0.0 55fifa39.xyz
 0.0.0.0 55fifa40.xyz
 0.0.0.0 55fifa41.xyz
@@ -60019,6 +60029,7 @@
 0.0.0.0 66dl66.com
 0.0.0.0 66dlg.com
 0.0.0.0 66dly.net
+0.0.0.0 66ev88.com
 0.0.0.0 66fun.co
 0.0.0.0 66galaxy.com
 0.0.0.0 66gbet.com
@@ -69557,6 +69568,7 @@
 0.0.0.0 77drg.com
 0.0.0.0 77ee.fun
 0.0.0.0 77ee5357.com
+0.0.0.0 77ev88.com
 0.0.0.0 77f02.com
 0.0.0.0 77f03.com
 0.0.0.0 77f1n.com
@@ -79053,6 +79065,7 @@
 0.0.0.0 88dl66.com
 0.0.0.0 88dl66.net
 0.0.0.0 88esport.com
+0.0.0.0 88ev88.com
 0.0.0.0 88f28.com
 0.0.0.0 88f66.vip
 0.0.0.0 88f8bet.com
@@ -89835,6 +89848,7 @@
 0.0.0.0 99dabao.com
 0.0.0.0 99dw5.com
 0.0.0.0 99ee6.cn
+0.0.0.0 99ev88.com
 0.0.0.0 99g2t.com
 0.0.0.0 99hch.com
 0.0.0.0 99hg1.com
@@ -130786,9 +130800,12 @@
 0.0.0.0 lefundianjing.com
 0.0.0.0 lefuntiyi.com
 0.0.0.0 lefunzuqiu.com
+0.0.0.0 lega39.com
 0.0.0.0 legabet.com
+0.0.0.0 legabet.io
 0.0.0.0 legabet88.com
 0.0.0.0 legabetpromotion.com
+0.0.0.0 legaxtp.com
 0.0.0.0 legend555.com
 0.0.0.0 legendaapp.com
 0.0.0.0 lehou.bet
@@ -139536,6 +139553,7 @@
 0.0.0.0 piweihealth.com
 0.0.0.0 piwik.12b99.com
 0.0.0.0 piwik.88thaicasinoslots.com
+0.0.0.0 pixel-us.1winsa.com
 0.0.0.0 piyaa1997.vip
 0.0.0.0 pj0022.com
 0.0.0.0 pj0033.com
@@ -142544,6 +142562,7 @@
 0.0.0.0 rerame.xyz
 0.0.0.0 rerqn.com
 0.0.0.0 res.12live.vip
+0.0.0.0 res.1wcommon.com
 0.0.0.0 res.inbofa999.com
 0.0.0.0 res.mmmgcdn.com
 0.0.0.0 resource.congavuive.com
@@ -150742,6 +150761,7 @@
 0.0.0.0 v0866.com
 0.0.0.0 v09.uk
 0.0.0.0 v0ahxejotismjf.com
+0.0.0.0 v1.bundlecdn.com
 0.0.0.0 v1021.com
 0.0.0.0 v1026.com
 0.0.0.0 v1031.com
@@ -153383,6 +153403,7 @@
 0.0.0.0 vsv388.com
 0.0.0.0 vswin.tv
 0.0.0.0 vswin.vn
+0.0.0.0 vswin1.cc
 0.0.0.0 vt55u.com
 0.0.0.0 vt606.com
 0.0.0.0 vt616.com
