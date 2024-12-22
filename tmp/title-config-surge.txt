@@ -3,7 +3,7 @@
 loglevel = notify
 skip-proxy = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,localhost,*.local,cative.apple.com
 doh-skip-cert-verification = true
-dns-server = 9.9.9.11, 208.67.222.222
+dns-server = 9.9.9.11, 208.67.222.222, 2620:fe::11, 2620:119:35::35
 allow-wifi-access = false
 ipv6 = true
 ipv6-vif = auto

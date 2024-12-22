@@ -76,14 +76,16 @@ declare -A TEMPLATES=(
     ["tmp/title-adserver.txt"]="tmp/title-adserver.tmp"
     ["tmp/title-config-shadowrocket.txt"]="option/hostsVN-shadowrocket.conf"
     ["tmp/title-config-loon.txt"]="option/hostsVN-loon.conf"
-    ["tmp/title-config-surge.txt"]="option/hostsVN-surge-pro.conf"
-    ["tmp/title-config-surge.txt"]="tmp/title-config-surge.tmp"
 )
 
 # loop through templates and update each
 for template in "${!TEMPLATES[@]}"; do
   update_template "$template" "${TEMPLATES[$template]}"
 done
+
+# process special case for title-config-surge.txt
+update_template "tmp/title-config-surge.txt" "option/hostsVN-surge-pro.conf"
+update_template "tmp/title-config-surge.txt" "tmp/title-config-surge.tmp"
 
 echo "Creating hosts file..."
 # create hosts files
