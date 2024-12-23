@@ -1,1 +1,1 @@
-hostname = graph.nhaccuatui.com, spclient.wg.spotify.com, *.googlevideo.com, s.youtube.com, www.youtube.com, www.googleapis.com, youtubei.googleapis.com
+hostname = -*apple*, -*icloud*, -*.mzstatic.com, *.googlevideo.com, s.youtube.com, www.youtube.com, www.googleapis.com, youtubei.googleapis.com, graph.nhaccuatui.com, spclient.wg.spotify.com
