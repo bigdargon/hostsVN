@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 23 Dec 2024 22:54 UTC+7
-# Version: 2412232254
-# Blocked: 4.323 domains
+# Last modified: 26 Dec 2024 22:56 UTC+7
+# Version: 2412262256
+# Blocked: 4.325 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -332,6 +332,7 @@
 0.0.0.0 chinhphu.cc
 0.0.0.0 chinhphu.dulieucutru.org
 0.0.0.0 chinhphu.hodancu.com
+0.0.0.0 chinhphu.kbshkdt.org
 0.0.0.0 chinhphu.thongtincutru.org
 0.0.0.0 chovayfecredit.com
 0.0.0.0 chovaynhanh.online
@@ -2015,6 +2016,7 @@
 0.0.0.0 pouy99uo.com
 0.0.0.0 pqrm9.com
 0.0.0.0 premierebankstandard.com
+0.0.0.0 profileid.info
 0.0.0.0 promomobilsuzukijakarta.com
 0.0.0.0 pubgvongquay-2021vng.com
 0.0.0.0 pvpti222.com

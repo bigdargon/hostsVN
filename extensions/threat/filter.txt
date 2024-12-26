@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 23 Dec 2024 22:54 UTC+7
-! Version: 2412232254
-! Blocked: 4.689 rules
+! Last modified: 26 Dec 2024 22:56 UTC+7
+! Version: 2412262256
+! Blocked: 4.691 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -417,6 +417,7 @@
 ||chinhphu.cc^
 ||chinhphu.dulieucutru.org^
 ||chinhphu.hodancu.com^
+||chinhphu.kbshkdt.org^
 ||chinhphu.thongtincutru.org^
 ||chovayfecredit.com^
 ||chovaynhanh.online^
@@ -2338,6 +2339,7 @@
 ||proapkcrack.com^
 ||procfullcracked.com^
 ||procrackfree.com^
+||profileid.info^
 ||prolicensekeys.com^
 ||promomobilsuzukijakarta.com^
 ||provider.giize.com^

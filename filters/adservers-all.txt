@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 23 Dec 2024 22:57 UTC+7
-! Version: 2412232257
-! Blocked: 11.515 rules
+! Last modified: 26 Dec 2024 22:56 UTC+7
+! Version: 2412262256
+! Blocked: 11.531 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1155,6 +1155,7 @@
 ||ads.playground.xyz^
 ||ads.prd.ie.internal.unity3d.com^
 ||ads.realmemobile.com^
+||ads.reddit.com^
 ||ads.samba.tv^
 ||ads.snapchat.com^
 ||ads.thesun.co.uk^
@@ -1243,6 +1244,7 @@
 ||adtrack.king.com^
 ||adtrack.ucweb.com^
 ||adtrackers.net^
+||adtrafficquality.google^
 ||adtrue.com^
 ||adup-tech.com^
 ||adv.sec.intl.miui.com^
@@ -1306,6 +1308,7 @@
 ||akisinn.me^
 ||akisinn.site^
 ||akstat.io^
+||alb.reddit.com^
 ||alcmpn.com^
 ||alexametrics.com^
 ||alphonso.tv^
@@ -1355,7 +1358,6 @@
 ||analytics.pinterest.com^
 ||analytics.query.yahoo.com^
 ||analytics.s3.amazonaws.com^
-||analytics.spotify.com^
 ||analytics.starmakerstudios.com^
 ||analytics.tango.me^
 ||analytics.tiktok.com^
@@ -1707,6 +1709,7 @@
 ||cws.conviva.com^
 ||cxense.com^
 ||czilladx.com^
+||d.reddit.com^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1v373ntykegkp.cloudfront.net^
 ||d2-apps.net^
@@ -1800,6 +1803,7 @@
 ||epom.com^
 ||erne.co^
 ||ero-advertising.com^
+||error-tracking.reddit.com^
 ||eskimi.com^
 ||et.nytimes.com^
 ||ethicalads.io^
@@ -1822,6 +1826,7 @@
 ||events.iap.unity3d.com^
 ||events.mz.unity3d.com^
 ||events.popinfo.jp^
+||events.reddit.com^
 ||everestop.io^
 ||everesttech.net^
 ||evidon.com^
@@ -2381,14 +2386,17 @@
 ||pings.conviva.com^
 ||pix.spot.im^
 ||pixanalytics.com^
+||pixel-config.reddit.com^
 ||pixel-static.spotify.com^
 ||pixel.condenastdigital.com^
 ||pixel.facebook.com^
 ||pixel.inforsea.com^
+||pixel.reddit.com^
 ||pixel.sojern.com^
 ||pixel.spotify.com^
 ||pixelappcollector.thesun.co.uk^
 ||pixelcounter.marca.com^
+||pixels.spotify.com^
 ||pixfuture.com^
 ||platform.tumblr.com^
 ||playstream.media^
@@ -2866,6 +2874,8 @@
 ||vortex.hulu.com^
 ||vserv.mobi^
 ||vungle.com^
+||w3-reporting-nel.reddit.com^
+||w3-reporting.reddit.com^
 ||w55c.net^
 ||wbidder.online^
 ||wct.link^
@@ -3629,7 +3639,6 @@
 ||ads.quoka.de^
 ||ads.rcs.it^
 ||ads.recoletos.es^
-||ads.reddit.com^
 ||ads.rediff.com^
 ||ads.redlightcenter.com^
 ||ads.rekmob.com^
@@ -3916,6 +3925,7 @@
 ||adx-asia.aarki.net^
 ||adx.aarki.net^
 ||adx.cda.pl^
+||adx.trackrsad.com^
 ||adxbid.info^
 ||adxpansion.com^
 ||adxpartner.com^
@@ -4054,7 +4064,6 @@
 ||alacrityprepayprecursor.com^
 ||alas4kanmfa6a4mubte.com^
 ||alaskan4kleeskai.com^
-||alb.reddit.com^
 ||alclick.com^
 ||aldimsallow.life^
 ||alebrinkfed.com^
@@ -7564,6 +7573,7 @@
 ||liquidad.narrowcastmedia.com^
 ||lirateblister.com^
 ||lispaircraftcraziness.com^
+||litaudrootsa.net^
 ||literalcorpulent.com^
 ||litix.io^
 ||litterago.com^
@@ -8347,6 +8357,7 @@
 ||obvious-lesson.pro^
 ||obvkimura.store^
 ||occdmioqlo.com^
+||oceanicdreamcove.com^
 ||ocio.leadzu.com^
 ||oclasrv.com^
 ||ocqpavrrix.com^
@@ -8552,6 +8563,7 @@
 ||ortdasctuji.com^
 ||orthitepetrous.com^
 ||ortshk.tapas.net^
+||orywrjsf.com^
 ||osfajqzcybu.com^
 ||osfkfaacqx.com^
 ||oshfzaatts.com^
@@ -8604,6 +8616,7 @@
 ||ovlliiwtxgjlz.com^
 ||ovmhwiccikr.com^
 ||ovmodnlmypf.com^
+||ovrcuncunxp.com^
 ||ovsrhikuma.com^
 ||ovvxzagmem.com^
 ||ovxhhurafpi.com^
@@ -8651,6 +8664,7 @@
 ||p23hxejm1.com^
 ||p4r24.eu^
 ||pacekami.com^
+||paddlemoscowsplit.com^
 ||padp5arja8dgsd9cha.com^
 ||padsims.com^
 ||padstm.com^
@@ -8857,7 +8871,6 @@
 ||pixel.nc0.co^
 ||pixel.personagraph.com^
 ||pixel.pointmediatracker.com^
-||pixel.reddit.com^
 ||pixel.s3xified.com^
 ||pixel.watch^
 ||pixel.wp.com^
@@ -10548,6 +10561,7 @@
 ||track.notsy.io^
 ||track.omg543.com^
 ||track.pricespider.com^
+||track.rentracksw.com^
 ||track.saygames.io^
 ||track.securedvisit.com^
 ||track.sohu.com^
@@ -11010,6 +11024,7 @@
 ||vuwmxjusucnh.com^
 ||vxcaphujhns.com^
 ||vyfrxuytzn.com^
+||vzecinazg.com^
 ||vzizatjihca.com^
 ||vzoarcomvorz.com^
 ||w3counter.com^
@@ -11096,6 +11111,7 @@
 ||wedgierbirsit.com^
 ||wedxuaksargvlf.com^
 ||weeecool.com^
+||weesatoothoamu.net^
 ||wegcash.com^
 ||welcomeneat.pro^
 ||wellmadefrog.com^

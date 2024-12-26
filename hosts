@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 23 Dec 2024 22:57 UTC+7
-# Version: 2412232257
-# Blocked: 21.034 domains
+# Last modified: 26 Dec 2024 22:56 UTC+7
+# Version: 2412262256
+# Blocked: 21.053 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -218,6 +218,11 @@
 #[beacons*.gvt3.com]
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beacons6.gvt3.com
+#[adtrafficquality.google]
+0.0.0.0 adtrafficquality.google
+0.0.0.0 ep1.adtrafficquality.google
+0.0.0.0 ep2.adtrafficquality.google
+0.0.0.0 ep3.adtrafficquality.google
 #[microsoft.com]
 0.0.0.0 target.microsoft.com
 #[telemetry.microsoft.com]
@@ -576,11 +581,11 @@
 #[spotify]
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adeventtrackermonitoring.spotify.com
-0.0.0.0 analytics.spotify.com
 0.0.0.0 log.spotify.com
 0.0.0.0 log2.spotify.com
 0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel.spotify.com
+0.0.0.0 pixels.spotify.com
 #[viber]
 0.0.0.0 ads.viber.com
 0.0.0.0 ads-d.viber.com
@@ -11898,6 +11903,16 @@
 #[ad-m.asia]
 0.0.0.0 ad-m.asia
 0.0.0.0 sync-dsp.ad-m.asia
+#[reddit.com]
+0.0.0.0 ads.reddit.com
+0.0.0.0 alb.reddit.com
+0.0.0.0 d.reddit.com
+0.0.0.0 error-tracking.reddit.com
+0.0.0.0 events.reddit.com
+0.0.0.0 pixel-config.reddit.com
+0.0.0.0 pixel.reddit.com
+0.0.0.0 w3-reporting-nel.reddit.com
+0.0.0.0 w3-reporting.reddit.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14626,7 +14641,6 @@
 0.0.0.0 ads.quoka.de
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.recoletos.es
-0.0.0.0 ads.reddit.com
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.rekmob.com
@@ -14911,6 +14925,7 @@
 0.0.0.0 adx-asia.aarki.net
 0.0.0.0 adx.aarki.net
 0.0.0.0 adx.cda.pl
+0.0.0.0 adx.trackrsad.com
 0.0.0.0 adxbid.info
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpartner.com
@@ -15047,7 +15062,6 @@
 0.0.0.0 alacrityprepayprecursor.com
 0.0.0.0 alas4kanmfa6a4mubte.com
 0.0.0.0 alaskan4kleeskai.com
-0.0.0.0 alb.reddit.com
 0.0.0.0 alclick.com
 0.0.0.0 aldimsallow.life
 0.0.0.0 alebrinkfed.com
@@ -18238,6 +18252,7 @@
 0.0.0.0 liquidad.narrowcastmedia.com
 0.0.0.0 lirateblister.com
 0.0.0.0 lispaircraftcraziness.com
+0.0.0.0 litaudrootsa.net
 0.0.0.0 literalcorpulent.com
 0.0.0.0 litterago.com
 0.0.0.0 littlecdn.com
@@ -18946,6 +18961,7 @@
 0.0.0.0 obvious-lesson.pro
 0.0.0.0 obvkimura.store
 0.0.0.0 occdmioqlo.com
+0.0.0.0 oceanicdreamcove.com
 0.0.0.0 ocio.leadzu.com
 0.0.0.0 oclasrv.com
 0.0.0.0 ocqpavrrix.com
@@ -19143,6 +19159,7 @@
 0.0.0.0 ortdasctuji.com
 0.0.0.0 orthitepetrous.com
 0.0.0.0 ortshk.tapas.net
+0.0.0.0 orywrjsf.com
 0.0.0.0 osfajqzcybu.com
 0.0.0.0 osfkfaacqx.com
 0.0.0.0 oshfzaatts.com
@@ -19195,6 +19212,7 @@
 0.0.0.0 ovlliiwtxgjlz.com
 0.0.0.0 ovmhwiccikr.com
 0.0.0.0 ovmodnlmypf.com
+0.0.0.0 ovrcuncunxp.com
 0.0.0.0 ovsrhikuma.com
 0.0.0.0 ovvxzagmem.com
 0.0.0.0 ovxhhurafpi.com
@@ -19242,6 +19260,7 @@
 0.0.0.0 p23hxejm1.com
 0.0.0.0 p4r24.eu
 0.0.0.0 pacekami.com
+0.0.0.0 paddlemoscowsplit.com
 0.0.0.0 padp5arja8dgsd9cha.com
 0.0.0.0 padsims.com
 0.0.0.0 padstm.com
@@ -19424,7 +19443,6 @@
 0.0.0.0 pixel.leadzu.com
 0.0.0.0 pixel.mediaiqdigital.com
 0.0.0.0 pixel.personagraph.com
-0.0.0.0 pixel.reddit.com
 0.0.0.0 pixel.watch
 0.0.0.0 piximedia.com
 0.0.0.0 pk910324e.com
@@ -21311,6 +21329,7 @@
 0.0.0.0 vuwmxjusucnh.com
 0.0.0.0 vxcaphujhns.com
 0.0.0.0 vyfrxuytzn.com
+0.0.0.0 vzecinazg.com
 0.0.0.0 vzizatjihca.com
 0.0.0.0 vzoarcomvorz.com
 0.0.0.0 w3i.com
@@ -21387,6 +21406,7 @@
 0.0.0.0 wedgierbirsit.com
 0.0.0.0 wedxuaksargvlf.com
 0.0.0.0 weeecool.com
+0.0.0.0 weesatoothoamu.net
 0.0.0.0 wegcash.com
 0.0.0.0 welcomeneat.pro
 0.0.0.0 wellmadefrog.com
@@ -22531,6 +22551,7 @@
 0.0.0.0 track.notsy.io
 0.0.0.0 track.omg543.com
 0.0.0.0 track.pricespider.com
+0.0.0.0 track.rentracksw.com
 0.0.0.0 track.saygames.io
 0.0.0.0 track.securedvisit.com
 0.0.0.0 track.sohu.com
