@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 26 Dec 2024 22:56 UTC+7
-# Version: 2412262256
-# Blocked: 4.325 domains
+# Last modified: 28 Dec 2024 15:30 UTC+7
+# Version: 2412281530
+# Blocked: 4.326 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2974,6 +2974,7 @@
 0.0.0.0 thsdbj.com
 0.0.0.0 thseaeing.fun
 0.0.0.0 thshopee.com
+0.0.0.0 thuekhachsan.com.vn
 0.0.0.0 thuoctangcuongsinhlynam.com
 0.0.0.0 thuonghieutoancau69.com
 0.0.0.0 thuonghieutop1.online

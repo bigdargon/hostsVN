@@ -76,6 +76,7 @@ declare -A TEMPLATES=(
     ["tmp/title-adserver.txt"]="tmp/title-adserver.tmp"
     ["tmp/title-config-shadowrocket.txt"]="option/hostsVN-shadowrocket.conf"
     ["tmp/title-config-loon.txt"]="option/hostsVN-loon.conf"
+    ["tmp/title-config-quantumultX.txt"]="option/hostsVN-quantumultX.conf"
 )
 
 # loop through templates and update each

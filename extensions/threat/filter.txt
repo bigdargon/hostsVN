@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 26 Dec 2024 22:56 UTC+7
-! Version: 2412262256
-! Blocked: 4.691 rules
+! Last modified: 28 Dec 2024 15:30 UTC+7
+! Version: 2412281530
+! Blocked: 4.692 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3345,6 +3345,7 @@
 ||thsdbj.com^
 ||thseaeing.fun^
 ||thshopee.com^
+||thuekhachsan.com.vn^
 ||thuoctangcuongsinhlynam.com^
 ||thuonghieutoancau69.com^
 ||thuonghieutop1.online^

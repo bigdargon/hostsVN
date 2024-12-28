@@ -1,7 +1,7 @@
 # Title: hostsVN Adult VN
-# Last modified: 26 Dec 2024 22:56 UTC+7
-# Version: 2412262256
-# Blocked: 4.157 domains
+# Last modified: 28 Dec 2024 15:30 UTC+7
+# Version: 2412281530
+# Blocked: 4.158 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3788,6 +3788,7 @@
 0.0.0.0 xcheckerviet.cam
 0.0.0.0 xcheckerviet.in
 0.0.0.0 xcheckerviet.lat
+0.0.0.0 xcheckerviet.lol
 0.0.0.0 xcheckerviet.vc
 0.0.0.0 xcopen.com
 0.0.0.0 xem-jav.net
