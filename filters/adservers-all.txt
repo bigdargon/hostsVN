@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 28 Dec 2024 15:38 UTC+7
-! Version: 2412281538
-! Blocked: 11.531 rules
+! Last modified: 30 Dec 2024 00:24 UTC+7
+! Version: 2412300024
+! Blocked: 11.532 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5813,6 +5813,7 @@
 ||discountclick.com^
 ||discountplacidlysymphony.com^
 ||discourageabjure.com^
+||discourseoxidizingtransfer.com^
 ||discovermustystarter.com^
 ||discovernative.com^
 ||discreetfield.com^
