@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 30 Dec 2024 00:24 UTC+7
-! Version: 2412300024
-! Blocked: 5.410 rules
+! Last modified: 01 Jan 2025 16:57 UTC+7
+! Version: 2501011657
+! Blocked: 5.412 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4858,6 +4858,8 @@
 ||vaorikvip.net^
 ||vb211.com^
 ||vb777.co^
+||vb777.com^
+||vb777.pw^
 ||vb777.top^
 ||vb88.com^
 ||vb88.win^
