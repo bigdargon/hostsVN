@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 01 Jan 2025 16:57 UTC+7
-! Version: 2501011657
-! Blocked: 4.692 rules
+! Last modified: 02 Jan 2025 22:28 UTC+7
+! Version: 2501022228
+! Blocked: 4.694 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1607,6 +1607,7 @@
 ||lvietcombank.com^
 ||lzd2024.com^
 ||m-facebookk.com.vn^
+||m-fb.com^
 ||m-fb.site^
 ||m-fecabook.com^
 ||m.12luxury.com^
@@ -1642,6 +1643,7 @@
 ||mallshopvn.vip^
 ||mallslazada.com^
 ||manags.twilightparadox.com^
+||maps-icloud.today^
 ||master-visa-nang-hang-ca-nhan-vib.com^
 ||mastercard-quetthetindung247.com^
 ||mavietnam.xyz^
