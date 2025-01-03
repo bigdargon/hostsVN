@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 03 Jan 2025 11:09 UTC+7
-# Version: 2501031109
-# Blocked: 6.057 domains
+# Last modified: 03 Jan 2025 14:42 UTC+7
+# Version: 2501031442
+# Blocked: 6.058 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4766,6 +4766,7 @@
 0.0.0.0 tx.socvip.com
 0.0.0.0 tx.socvip9.club
 0.0.0.0 tx1.vip
+0.0.0.0 tx88.com
 0.0.0.0 tydo88.com
 0.0.0.0 tysoeuro.online
 0.0.0.0 tz.bet20.bet
