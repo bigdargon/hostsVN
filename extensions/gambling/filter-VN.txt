@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 03 Jan 2025 14:42 UTC+7
-! Version: 2501031442
-! Blocked: 5.413 rules
+! Last modified: 04 Jan 2025 23:51 UTC+7
+! Version: 2501042351
+! Blocked: 5.418 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1221,6 +1221,7 @@
 ||dbthethao.run^
 ||dd7bet.me^
 ||debet.bet^
+||debet.bot^
 ||debet.cc^
 ||debet.club^
 ||debet.com^
@@ -4327,6 +4328,7 @@
 ||sock.red88.vip^
 ||sock.sky88.fun^
 ||sock.sky88.in^
+||socket.debet.uk^
 ||socket.debet.win^
 ||soco88.com^
 ||socvip.com^
@@ -4511,6 +4513,7 @@
 ||tai.taisum2.com^
 ||tai.top88vn.net^
 ||tai.v28.club^
+||tai.vf88.win^
 ||tai.win79.pro^
 ||tai.win79.vip^
 ||tai.yo88vn.us^
@@ -4872,6 +4875,7 @@
 ||vf234.com^
 ||vf456.com^
 ||vf678.com^
+||vf88.win^
 ||vfun88.com^
 ||vg66.app^
 ||vg66.com^
@@ -5333,6 +5337,7 @@
 ||xo88.com^
 ||xo88.fun^
 ||xo88.info^
+||xo88.pro^
 ||xo88.us^
 ||xo88.win^
 ||xo88bet.com^

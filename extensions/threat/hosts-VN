@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 03 Jan 2025 14:42 UTC+7
-# Version: 2501031442
-# Blocked: 4.328 domains
+# Last modified: 04 Jan 2025 23:51 UTC+7
+# Version: 2501042351
+# Blocked: 4.329 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1462,6 +1462,7 @@
 0.0.0.0 minimomo.club
 0.0.0.0 minimomo.fun
 0.0.0.0 miravay.org
+0.0.0.0 mistyforestolqt.online
 0.0.0.0 miu78.me
 0.0.0.0 mizonevn.shop
 0.0.0.0 mkshopmobi.xyz
