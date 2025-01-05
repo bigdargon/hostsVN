@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Jan 2025 23:56 UTC+7
-! Version: 2501042356
-! Blocked: 11.562 rules
+! Last modified: 05 Jan 2025 14:01 UTC+7
+! Version: 2501051401
+! Blocked: 11.564 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -8900,6 +8900,7 @@
 ||pixiedust.buzzfeed.com^
 ||piximedia.com^
 ||pjhku.com^
+||pjvbxndyx.com^
 ||pk910324e.com^
 ||pkakalbtukal.com^
 ||pkerusphot.com^
@@ -11540,6 +11541,7 @@
 ||zouemtjzuae.com^
 ||zovidree.com^
 ||zpbhjatpnaovj.com^
+||zpefriam.com^
 ||zpidadpuhcm.com^
 ||zrljkhcwhxhh.com^
 ||zrorketica.com^
