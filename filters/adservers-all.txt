@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Jan 2025 14:49 UTC+7
-! Version: 2501061449
-! Blocked: 11.569 rules
+! Last modified: 06 Jan 2025 22:58 UTC+7
+! Version: 2501062258
+! Blocked: 11.571 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3476,6 +3476,7 @@
 ||ads.adverline.com^
 ||ads.affiliates.match.com^
 ||ads.alibaba.com^
+||ads.allizom.org^
 ||ads.alt.com^
 ||ads.amdmb.com^
 ||ads.amigos.com^
@@ -6843,6 +6844,7 @@
 ||hh-btr.com^
 ||hhbypdoecp.com^
 ||hhoxwxfxgb.com^
+||hhuajhdidxut.com^
 ||hhyokmmfoax.com^
 ||hicawxojvcc.com^
 ||hidden.gogoceleb.com^
