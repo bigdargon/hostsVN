@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 09 Jan 2025 22:53 UTC+7
-! Version: 2501092253
-! Blocked: 5.419 rules
+! Last modified: 09 Jan 2025 23:33 UTC+7
+! Version: 2501092333
+! Blocked: 5.422 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1195,6 +1195,7 @@
 ||daman2.com^
 ||dangky.dailynet88.com^
 ||dangky.go88.com^
+||dangky.iwin.bio^
 ||dangky.thethaofb88.com^
 ||dangky.tysoeuro.online^
 ||dangky388bet.xyz^
@@ -1934,6 +1935,7 @@
 ||ios.v99win.app^
 ||ip.cuocb52.me^
 ||iwiin.club^
+||iwin.bio^
 ||iwin.club^
 ||iwin.info^
 ||iwin.net^
@@ -3981,6 +3983,7 @@
 ||play.hitclub.blue^
 ||play.horse79.live^
 ||play.im99.com^
+||play.iwin.bio^
 ||play.iwin.net^
 ||play.lo88.live^
 ||play.lo88.vin^
