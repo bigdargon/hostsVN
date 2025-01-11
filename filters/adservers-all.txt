@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Jan 2025 23:34 UTC+7
-! Version: 2501092334
-! Blocked: 11.598 rules
+! Last modified: 11 Jan 2025 23:25 UTC+7
+! Version: 2501112325
+! Blocked: 11.601 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1124,6 +1124,7 @@
 ||ads-api.tiktok.com^
 ||ads-api.twitter.com^
 ||ads-api.videy.co^
+||ads-api.x.com^
 ||ads-bidder-api.twitter.com^
 ||ads-cloud.rovio.com^
 ||ads-d.viber.com^
@@ -4492,6 +4493,7 @@
 ||ay.delivery^
 ||ayads.io^
 ||ayensexilic.com^
+||ayiztaefkfzs.com^
 ||aylarl.com^
 ||ayrtpmwuymzbbq.com^
 ||ayvfzwttm.com^
@@ -5976,6 +5978,7 @@
 ||dyntrk.com^
 ||dyv1bugovvq1g.cloudfront.net^
 ||dzienkudrow.com^
+||dzsopgxm.com^
 ||dzuowpapvcu.com^
 ||dzuvuwtceoxf.com^
 ||e-bannerx.com^

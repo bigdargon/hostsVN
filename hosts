@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Jan 2025 23:34 UTC+7
-# Version: 2501092334
-# Blocked: 21.125 domains
+# Last modified: 11 Jan 2025 23:25 UTC+7
+# Version: 2501112325
+# Blocked: 21.128 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -578,6 +578,8 @@
 #[ads-twitter.com]
 0.0.0.0 ads-twitter.com
 0.0.0.0 static.ads-twitter.com
+#[x.com]
+0.0.0.0 ads-api.x.com
 #[spotify]
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adeventtrackermonitoring.spotify.com
@@ -15405,6 +15407,7 @@
 0.0.0.0 ay.delivery
 0.0.0.0 ayads.io
 0.0.0.0 ayensexilic.com
+0.0.0.0 ayiztaefkfzs.com
 0.0.0.0 aylarl.com
 0.0.0.0 ayrtpmwuymzbbq.com
 0.0.0.0 ayvfzwttm.com
@@ -16771,6 +16774,7 @@
 0.0.0.0 dynspt.com
 0.0.0.0 dyntrk.com
 0.0.0.0 dzienkudrow.com
+0.0.0.0 dzsopgxm.com
 0.0.0.0 dzuowpapvcu.com
 0.0.0.0 dzuvuwtceoxf.com
 0.0.0.0 e-bannerx.com
