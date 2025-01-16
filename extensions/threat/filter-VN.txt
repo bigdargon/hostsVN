@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 12 Jan 2025 23:52 UTC+7
-! Version: 2501122352
-! Blocked: 4.263 rules
+! Last modified: 16 Jan 2025 22:53 UTC+7
+! Version: 2501162253
+! Blocked: 4.264 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1416,6 +1416,7 @@
 ||mbtk-bank.com^
 ||mcfa11.com^
 ||mcredit.vaynhanh-bankcredits.com^
+||me-fb.site^
 ||member-gaarena.com^
 ||member-garena-lienquan.com^
 ||member-lienquan-garena.com^

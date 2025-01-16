@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 12 Jan 2025 23:52 UTC+7
-# Version: 2501122352
-# Blocked: 4.765 domains
+# Last modified: 16 Jan 2025 22:53 UTC+7
+# Version: 2501162253
+# Blocked: 4.766 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1668,6 +1668,7 @@
 0.0.0.0 mcfa11.com
 0.0.0.0 mcnodes.zapto.org
 0.0.0.0 mcredit.vaynhanh-bankcredits.com
+0.0.0.0 me-fb.site
 0.0.0.0 meetamate.site
 0.0.0.0 member-gaarena.com
 0.0.0.0 member-garena-lienquan.com

@@ -6258,6 +6258,7 @@ www.trafficstars.com
 #[tsyndicate.com]
 cdn.tsyndicate.com
 pxl.tsyndicate.com
+r-eu.tsyndicate.com
 rtb.tsyndicate.com
 tsyndicate.com
 vcdn.tsyndicate.com
@@ -9413,6 +9414,9 @@ nativeadsfeed.xs.ak-is2.net
 onwardclick.fs.ak-is2.net
 onwardclick.xs.ak-is2.net
 popmonetizer.xml.ak-is2.net
+popsgg.xml-eu-v4.ak-is2.net
+popsgg.xml-v4.ak-is2.net
+popsgg.xml.ak-is2.net
 pressize.xml-eu.ak-is2.net
 pulsefintech.xs.ak-is2.net
 pushub.xml-eu.ak-is2.net
@@ -11916,3 +11920,8 @@ rtgio.co
 #[ttrk.io]
 ttrk.io
 wdc.ttrk.io
+#[pops.gg]
+pops.gg
+xml-eu-v4.pops.gg
+xml-v4.pops.gg
+xml.pops.gg

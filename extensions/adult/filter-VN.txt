@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 12 Jan 2025 23:52 UTC+7
-! Version: 2501122352
-! Blocked: 4.151 rules
+! Last modified: 16 Jan 2025 22:53 UTC+7
+! Version: 2501162253
+! Blocked: 4.153 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -16,6 +16,7 @@
 ||123porn.com^
 ||123sex.top^
 ||12hdem.com^
+||1net.goidao.info^
 ||1phimsex.vip^
 ||1pondohd.com^
 ||2089.vntopg88.live^
@@ -761,6 +762,7 @@
 ||gocquaytay.com^
 ||goctoi.xyz^
 ||goidao.com^
+||goidao.info^
 ||goigai.app^
 ||goigai.baby^
 ||goigai.best^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 12 Jan 2025 23:52 UTC+7
-! Version: 2501122352
-! Blocked: 4.695 rules
+! Last modified: 16 Jan 2025 22:53 UTC+7
+! Version: 2501162253
+! Blocked: 4.696 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1674,6 +1674,7 @@
 ||mcfa11.com^
 ||mcnodes.zapto.org^
 ||mcredit.vaynhanh-bankcredits.com^
+||me-fb.site^
 ||meetamate.site^
 ||member-gaarena.com^
 ||member-garena-lienquan.com^
