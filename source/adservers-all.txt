@@ -75,8 +75,10 @@ ad.naver.com
 ad.plus
 ad.qq.com
 ad.style
+ad.weibo.com
 ad.xiaomi.com
 ad.youku.com
+ad.zijieapi.com
 ad1.ettoday.net
 ad1x.com
 ad2.ettoday.net
@@ -132,6 +134,7 @@ adiiix.com
 adimage.sphdigital.com
 adimages.go.com
 adimg.cbsi.com
+adimg.uve.weibo.com
 adinfo.tango.me
 adingo.jp
 adinsight.co.kr
@@ -291,6 +294,7 @@ adstage-analytics.herokuapp.com
 adstatic.b-cdn.net
 adstatic.com
 adsterra.org
+adstrategy.biz.weibo.com
 adswin.net
 adswizz.com
 adsymptotic.com
@@ -493,6 +497,7 @@ appier.xyz
 applifier.com
 applog-perf.uc.cn
 applog.uc.cn
+applog.zijieapi.com
 applogios.uc.cn
 applovin.com
 applvn.com
@@ -737,6 +742,7 @@ confiant-integrations.global.ssl.fastly.net
 confiant-integrations.net
 config.hiido.com
 config.mobilegamestats.com
+config.sdk.scopely.io
 connatix.com
 connect.idocdn.com
 connectad.io
@@ -881,6 +887,7 @@ eu-1-id5-sync.com
 eve.mdt.qq.com
 event-action.popinfo.jp
 event-stream.spot.im
+event.collector.scopely.io
 event.condenastdigital.com
 event.dfinery.io
 eventgateway.soundcloud.com
@@ -922,6 +929,7 @@ fatchilli.media
 fclick-adnow.com
 fclog.baidu.com
 felix.data.tm-awx.com
+fenrir-resolver.aprod.scopely.io
 fidelity-media.com
 fiftyt.com
 filament-stats.herokuapp.com
@@ -1196,6 +1204,10 @@ log.snssdk.com
 log.spotify.com
 log.strm.yandex.ru
 log.tbs.qq.com
+log.tpns.gz2.tencent.com
+log.tpns.tencent.com
+log1.cmpassport.com
+log2.cmpassport.com
 log2.spotify.com
 logbak.hicloud.com
 logger.applovefrom.com
@@ -1257,6 +1269,7 @@ mc.yandex.ru
 mcs-sg.tiktok.com
 mcs-va.tiktokv.com
 mcs.snssdk.com
+mcs.zijieapi.com
 me.cpatrk.net
 measuread.com
 media.evolv.ai
@@ -1335,6 +1348,7 @@ mon.isnssdk.com
 mon.snssdk.com
 mon.tiktokv.com
 mon.us.tiktokv.com
+mon.zijieapi.com
 mondiad.net
 mookie1.com
 mopub.com
@@ -1410,6 +1424,7 @@ optmnstr.com
 optvx.com
 orbsrv.com
 orgxts.com
+os-mon.zijieapi.com
 otm-r.com
 otnolatrnup.com
 outbrain.com
@@ -1435,6 +1450,7 @@ partnerad.l.google.com
 partnerads.ysm.yahoo.com
 pbbl.co
 pbstck.com
+pc-mon.zijieapi.com
 pcapp-data-collect.youku.com
 pclick.yahoo.com
 pclk.name
@@ -1496,6 +1512,7 @@ premiumads.net
 premiumtag.net
 presage.io
 preview-collector.scopely.io
+privacy-policy.truste.com
 privatestats.whatsapp.net
 pro-market.net
 prod-collecticon.outlookmobile.com
@@ -1561,6 +1578,7 @@ realsrvcdn.com
 redintelligence.net
 referrer.disqus.com
 refpa.top
+register.collector.scopely.io
 reklamstore.com
 relaido.jp
 relap.io
@@ -1590,6 +1608,7 @@ rkdms.com
 rklmstr.com
 rlcdn.com
 rmads.msn.com
+rmonitor.qq.com
 rmp.rakuten.com
 rmtag.com
 rpdn.relateddigital.com
@@ -1722,11 +1741,14 @@ stat-rock.com
 stat.e.tf.360.cn
 stat.m.360.cn
 stat.ovh
+stat.tpns.gz2.tencent.com
+stat.tpns.tencent.com
 statcounter.com
 statgw.devtodev.com
 static-doubleclick-net.l.google.com
 static-tracking.klaviyo.com
 static.addtoany.com
+static.aprod.scopely.io
 staticstuff.net
 stats.addtoany.com
 stats.adobe.com
@@ -1789,6 +1811,7 @@ target.microsoft.com
 taroads.com
 taxel.jp
 tblog-*.kgslb.com
+tdid.m.qq.com
 teads.tv
 techlab-cdn.com
 technoratimedia.com
@@ -1816,6 +1839,7 @@ toblog.tobsnssdk.com
 top-fwz1.mail.ru
 top.mail.ru
 toponad.com
+tpstelemetry.tencent.com
 tr.attribuly.com
 tr.line.me
 tr.snapchat.com
@@ -1830,6 +1854,7 @@ track1.avplayer.com
 tracker-api.my.com
 tracker.ai.xiaomi.com
 tracker.idocdn.com
+trackerapi.truste.com
 tracking-3-9f58.trnox.com
 tracking.intl.miui.com
 tracking.miui.com
@@ -1880,6 +1905,7 @@ udc.msn.com
 ugdturner.com
 uid.mavencoalition.io
 ujm.hansel.io
+umdc.aliapp.org
 umeng.com
 umengacs.m.taobao.com
 umengcloud.com
@@ -1916,6 +1942,7 @@ vaicore.store
 vaicore.xyz
 valuecommerce.com
 vasstycom.com
+vcs.zijieapi.com
 vdo.ai
 venatusmedia.com
 verblife-5.co
@@ -1945,6 +1972,7 @@ volceapplog.com
 voodoo-ads.io
 voodoo-analytics.io
 vortex.hulu.com
+vs.biz.weibo.com
 vserv.mobi
 vungle.com
 w3-reporting-nel.reddit.com
@@ -2016,6 +2044,7 @@ ykad-gateway.youku.com
 yllix.com
 ylog.hiido.com
 ylog.nimo.tv
+ynuf.aliapp.org
 yodimedia.com
 yomeno.xyz
 youbora.com

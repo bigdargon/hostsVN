@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 16 Jan 2025 22:53 UTC+7
-! Version: 2501162253
-! Blocked: 4.696 rules
+! Last modified: 01 Feb 2025 23:27 UTC+7
+! Version: 2502012327
+! Blocked: 4.698 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3306,6 +3306,7 @@
 ||telaagam.maxisl.vip^
 ||telegram.app0w.ltd^
 ||teleway.top^
+||tempisite.com^
 ||tescoshop.shop^
 ||tet-lienquangarenavn.com^
 ||tet2023.shop^
@@ -4693,6 +4694,7 @@
 ||zingshop.net^
 ||zla653.top^
 ||zla963.top^
+||zloweb.me^
 ||zmomo.cc^
 ||znavidsde.cfd^
 ||zoneshewa.net^
