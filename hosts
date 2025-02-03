@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Feb 2025 23:26 UTC+7
-# Version: 2502012326
-# Blocked: 18.499 domains
+# Last modified: 03 Feb 2025 15:54 UTC+7
+# Version: 2502031554
+# Blocked: 18.099 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -437,15 +437,18 @@
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 sprocket-ping.s3.amazonaws.com
-#[a2z.com]
+#[prod.*.publishers.advertising.a2z.com]
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
-0.0.0.0 metrics.client-eng.a2z.com
-#[analytics.console.aws.a2z.com]
+0.0.0.0 prod.tahoe-analytics.publishers.advertising.a2z.com
+#[prod.*.analytics.console.aws.a2z.com]
 0.0.0.0 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-2.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-west-2.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.prod.pw.analytics.console.aws.a2z.com
+#[minerva.devices.a2z.com]
+0.0.0.0 minerva.devices.a2z.com
+0.0.0.0 us-east-1.prod.service.minerva.devices.a2z.com
 #[telemetry.insights.video.a2z.com]
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-1.telemetry.insights.video.a2z.com
@@ -2358,12 +2361,6 @@
 0.0.0.0 api.parrable.com
 0.0.0.0 h.parrable.com
 0.0.0.0 parrable.com
-#[rtbid.me]
-0.0.0.0 adbro.rtbid.me
-0.0.0.0 cdn.rtbid.me
-0.0.0.0 ide.rtbid.me
-0.0.0.0 rtbid.me
-0.0.0.0 www.rtbid.me
 #[genieessp.com]
 0.0.0.0 genieessp.com
 0.0.0.0 ads.genieessp.com
@@ -2539,12 +2536,6 @@
 0.0.0.0 api.lab.amplitude.com
 0.0.0.0 api2.amplitude.com
 0.0.0.0 cdn.amplitude.com
-#[measuread]
-0.0.0.0 b-stage.measuread.com
-0.0.0.0 b.measuread.com
-0.0.0.0 measuread.com
-0.0.0.0 stg.measuread.com
-0.0.0.0 www.measuread.com
 #[voicefive]
 0.0.0.0 ar.voicefive.com
 0.0.0.0 b.voicefive.com
@@ -3289,10 +3280,6 @@
 0.0.0.0 trends.revcontent.com
 0.0.0.0 video.revcontent.com
 0.0.0.0 www.revcontent.com
-#[apxadtracking]
-0.0.0.0 apxadtracking.net
-0.0.0.0 clk.apxadtracking.net
-0.0.0.0 www.apxadtracking.net
 #[servedby-buysellads]
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 m.servedby-buysellads.com
@@ -3415,14 +3402,6 @@
 0.0.0.0 logger.adthor.com
 0.0.0.0 static.adthor.com
 0.0.0.0 v.adthor.com
-#[nixozz]
-0.0.0.0 api.nixozz.com
-0.0.0.0 auth.nixozz.com
-0.0.0.0 balance.nixozz.com
-0.0.0.0 configs.nixozz.com
-0.0.0.0 inapp.nixozz.com
-0.0.0.0 nixozz.com
-0.0.0.0 profile.nixozz.com
 #[appadhoc]
 0.0.0.0 appadhoc.com
 0.0.0.0 cdn-api.appadhoc.com
@@ -3493,15 +3472,6 @@
 0.0.0.0 partners.content.ad
 0.0.0.0 rest.content.ad
 0.0.0.0 www.content.ad
-#[content-ad.net]
-0.0.0.0 api.content-ad.net
-0.0.0.0 banner.content-ad.net
-0.0.0.0 click.content-ad.net
-0.0.0.0 clk.content-ad.net
-0.0.0.0 content-ad.net
-0.0.0.0 push.content-ad.net
-0.0.0.0 pushrev.content-ad.net
-0.0.0.0 px.content-ad.net
 #[adnetworktech]
 0.0.0.0 adnetworktech.com
 0.0.0.0 www.adnetworktech.com
@@ -4289,18 +4259,12 @@
 0.0.0.0 dafabet.advertserve.com
 0.0.0.0 imagazine.advertserve.com
 0.0.0.0 roimedia.advertserve.com
-#[advergine]
+#[advergine.com]
 0.0.0.0 advergine.com
 0.0.0.0 go.advergine.com
 0.0.0.0 spf1.advergine.com
 0.0.0.0 spf2.advergine.com
 0.0.0.0 spf3.advergine.com
-0.0.0.0 advergine.ru
-0.0.0.0 go.advergine.ru
-0.0.0.0 spf1.advergine.ru
-0.0.0.0 spf2.advergine.ru
-0.0.0.0 spf3.advergine.ru
-0.0.0.0 track.advergine.ru
 #[creativecdn.com]
 0.0.0.0 ams.creativecdn.com
 0.0.0.0 ash.creativecdn.com
@@ -4627,31 +4591,6 @@
 0.0.0.0 sb.bidswitch.net
 0.0.0.0 www.bidswitch.net
 0.0.0.0 x.bidswitch.net
-#[bnmla.com]
-0.0.0.0 ad.bnmla.com
-0.0.0.0 bnmla.com
-0.0.0.0 cdn0.bnmla.com
-0.0.0.0 cdn1.bnmla.com
-0.0.0.0 cdnfi.bnmla.com
-0.0.0.0 cdnin.bnmla.com
-0.0.0.0 dc21.bnmla.com
-0.0.0.0 dsp.bnmla.com
-0.0.0.0 edge.bnmla.com
-0.0.0.0 foreman.bnmla.com
-0.0.0.0 hound.bnmla.com
-0.0.0.0 match.bnmla.com
-0.0.0.0 mt.bnmla.com
-0.0.0.0 naing.bnmla.com
-0.0.0.0 perceptor.bnmla.com
-0.0.0.0 reporting.bnmla.com
-0.0.0.0 reporting2.bnmla.com
-0.0.0.0 rex.bnmla.com
-0.0.0.0 rex-east.bnmla.com
-0.0.0.0 rex-west.bnmla.com
-0.0.0.0 sj11.bnmla.com
-0.0.0.0 soundwave.bnmla.com
-0.0.0.0 video.bnmla.com
-0.0.0.0 vsb.bnmla.com
 #[mediarithmics.com]
 0.0.0.0 ads.mediarithmics.com
 0.0.0.0 api.mediarithmics.com
@@ -5018,19 +4957,6 @@
 0.0.0.0 medusa-api.cbsileads.com
 0.0.0.0 static.cbsileads.com
 0.0.0.0 www.cbsileads.com
-#[adsfactor.net]
-0.0.0.0 adsfactor.net
-0.0.0.0 cdn.adsfactor.net
-0.0.0.0 cdn-html.adsfactor.net
-0.0.0.0 cf.adsfactor.net
-0.0.0.0 csync.adsfactor.net
-0.0.0.0 hydra.adsfactor.net
-0.0.0.0 jkci.adsfactor.net
-0.0.0.0 pxrt.adsfactor.net
-0.0.0.0 rdr.adsfactor.net
-0.0.0.0 rtr.adsfactor.net
-0.0.0.0 rtr-dsp.adsfactor.net
-0.0.0.0 v.adsfactor.net
 #[smaato.com]
 0.0.0.0 ads.smaato.com
 0.0.0.0 creatives.smaato.com
@@ -5085,97 +5011,47 @@
 0.0.0.0 aj1010.online
 0.0.0.0 aj1015.online
 0.0.0.0 aj1047.online
-0.0.0.0 aj1052.online
-0.0.0.0 aj1058.online
 0.0.0.0 aj1070.online
 0.0.0.0 aj1090.online
-0.0.0.0 aj1354.online
 0.0.0.0 aj1408.online
 0.0.0.0 aj1431.online
 0.0.0.0 aj1432.online
 0.0.0.0 aj1549.online
 0.0.0.0 aj1559.online
 0.0.0.0 aj1591.online
-0.0.0.0 aj1602.online
 0.0.0.0 aj1616.online
-0.0.0.0 aj1621.online
-0.0.0.0 aj1622.online
-0.0.0.0 aj1686.online
 0.0.0.0 aj1716.online
 0.0.0.0 aj1754.online
-0.0.0.0 aj1775.online
 0.0.0.0 aj1855.online
 0.0.0.0 aj1863.online
 0.0.0.0 aj1867.online
 0.0.0.0 aj1907.online
 0.0.0.0 aj1913.online
-0.0.0.0 aj1937.online
-0.0.0.0 aj1939.online
 0.0.0.0 aj1985.online
 0.0.0.0 aj1987.online
 #[aj2*.online]
 0.0.0.0 aj2031.online
-0.0.0.0 aj2066.online
-0.0.0.0 aj2113.online
-0.0.0.0 aj2125.online
-0.0.0.0 aj2129.online
-0.0.0.0 aj2131.online
-0.0.0.0 aj2141.online
 0.0.0.0 aj2142.online
 0.0.0.0 aj2204.online
-0.0.0.0 aj2208.online
-0.0.0.0 aj2210.online
-0.0.0.0 aj2214.online
 0.0.0.0 aj2218.online
 0.0.0.0 aj2234.online
 0.0.0.0 aj2274.online
-0.0.0.0 aj2281.online
-0.0.0.0 aj2284.online
 0.0.0.0 aj2294.online
 0.0.0.0 aj2295.online
 0.0.0.0 aj2307.online
-0.0.0.0 aj2313.online
-0.0.0.0 aj2345.online
-0.0.0.0 aj2347.online
 0.0.0.0 aj2376.online
-0.0.0.0 aj2377.online
-0.0.0.0 aj2388.online
-0.0.0.0 aj2389.online
-0.0.0.0 aj2392.online
-0.0.0.0 aj2395.online
+0.0.0.0 aj2393.online
 0.0.0.0 aj2396.online
-0.0.0.0 aj2399.online
-0.0.0.0 aj2402.online
 0.0.0.0 aj2403.online
-0.0.0.0 aj2404.online
-0.0.0.0 aj2410.online
 0.0.0.0 aj2412.online
-0.0.0.0 aj2424.online
-0.0.0.0 aj2426.online
 0.0.0.0 aj2430.online
-0.0.0.0 aj2431.online
-0.0.0.0 aj2432.online
 0.0.0.0 aj2438.online
 0.0.0.0 aj2476.online
-0.0.0.0 aj2493.online
 0.0.0.0 aj2494.online
-0.0.0.0 aj2496.online
-0.0.0.0 aj2497.online
 0.0.0.0 aj2498.online
-0.0.0.0 aj2499.online
-0.0.0.0 aj2500.online
 0.0.0.0 aj2501.online
-0.0.0.0 aj2502.online
 0.0.0.0 aj2503.online
-0.0.0.0 aj2504.online
-0.0.0.0 aj2505.online
-0.0.0.0 aj2506.online
-0.0.0.0 aj2507.online
-0.0.0.0 aj2508.online
 0.0.0.0 aj2509.online
-0.0.0.0 aj2510.online
-0.0.0.0 aj2511.online
-0.0.0.0 aj2512.online
 #[ajx*.online]
 0.0.0.0 ajx272.online
 0.0.0.0 ajx291.online
@@ -5312,30 +5188,6 @@
 0.0.0.0 main.exdynsrv.com
 0.0.0.0 origin-ads.exdynsrv.com
 0.0.0.0 syndication.exdynsrv.com
-#[adsymptotic.com]
-0.0.0.0 ads.adsymptotic.com
-0.0.0.0 adsapi.adsymptotic.com
-0.0.0.0 adsymptotic.com
-0.0.0.0 api.adsymptotic.com
-0.0.0.0 api-eu.adsymptotic.com
-0.0.0.0 api-sc2.adsymptotic.com
-0.0.0.0 c.adsymptotic.com
-0.0.0.0 c-eu.adsymptotic.com
-0.0.0.0 ec.adsymptotic.com
-0.0.0.0 m.adsymptotic.com
-0.0.0.0 m-sc2.adsymptotic.com
-0.0.0.0 og-iad2.adsymptotic.com
-0.0.0.0 og-sc2.adsymptotic.com
-0.0.0.0 p.adsymptotic.com
-0.0.0.0 p-awse-ebs.adsymptotic.com
-0.0.0.0 p-eu.adsymptotic.com
-0.0.0.0 pinterest.adsymptotic.com
-0.0.0.0 pixel-useast.adsymptotic.com
-0.0.0.0 p-tky-ebs.adsymptotic.com
-0.0.0.0 rtb.adsymptotic.com
-0.0.0.0 rtbe.adsymptotic.com
-0.0.0.0 rtb-eu.adsymptotic.com
-0.0.0.0 www.adsymptotic.com
 #[trazk.com]
 0.0.0.0 c.trazk.com
 0.0.0.0 f.trazk.com
@@ -6376,11 +6228,6 @@
 0.0.0.0 cdn.admarvel.com
 0.0.0.0 map.admarvel.com
 0.0.0.0 omax.admarvel.com
-#[exit-ad.com]
-0.0.0.0 d.exit-ad.com
-0.0.0.0 exit-ad.com
-0.0.0.0 i.exit-ad.com
-0.0.0.0 j.exit-ad.com
 #[adexchangemachine.com]
 0.0.0.0 adexchangemachine.com
 0.0.0.0 b.adexchangemachine.com
@@ -6464,55 +6311,30 @@
 0.0.0.0 ssptrk.adpopcorn.com
 0.0.0.0 staging.adpopcorn.com
 0.0.0.0 www.adpopcorn.com
-#[mobileoffers-*-download.com]
-0.0.0.0 mobileoffers-ab-download.com
-0.0.0.0 mobileoffers-ac-download.com
-0.0.0.0 mobileoffers-ad-download.com
-0.0.0.0 mobileoffers-a-download.com
-0.0.0.0 mobileoffers-al-download.com
-0.0.0.0 mobileoffers-bm-download.com
-0.0.0.0 mobileoffers-bn-download.com
-0.0.0.0 js.mobileoffers-ac-download.com
-0.0.0.0 js.mobileoffers-al-download.com
 #[fads*s.com]
 0.0.0.0 fadsims.com
 0.0.0.0 fadskis.com
-0.0.0.0 fadsoks.com
-0.0.0.0 fadspms.com
 #[fads*z.com]
-0.0.0.0 fadsanz.com
 0.0.0.0 fadsimz.com
 0.0.0.0 fadsipz.com
 0.0.0.0 fadskiz.com
 0.0.0.0 fadslimz.com
 #[gads*s.com]
 0.0.0.0 gadsabs.com
-0.0.0.0 gadsims.com
 0.0.0.0 gadskis.com
 0.0.0.0 gadspms.com
 #[gads*z.com]
-0.0.0.0 gadsabz.com
-0.0.0.0 gadsanz.com
 0.0.0.0 gadsatz.com
-0.0.0.0 gadskiz.com
 0.0.0.0 gadslimz.com
 0.0.0.0 gadspmz.com
 #[mads*z.com]
 0.0.0.0 madsecz.com
 0.0.0.0 madslimz.com
-0.0.0.0 madsokz.com
 0.0.0.0 madspmz.com
-#[sads*z.com]
-0.0.0.0 sadsabz.com
-0.0.0.0 sadsatz.com
-0.0.0.0 sadsecz.com
 #[hads*s.com]
 0.0.0.0 hadsanz.com
-0.0.0.0 hadsatz.com
 0.0.0.0 hadsecz.com
 0.0.0.0 hadsimz.com
-0.0.0.0 hadsipz.com
-0.0.0.0 hadskiz.com
 0.0.0.0 hadsokz.com
 #[aaxads.com]
 0.0.0.0 aas-nv-a.aaxads.com
@@ -7116,18 +6938,6 @@
 0.0.0.0 adrcntr.com
 0.0.0.0 cntr.adrcntr.com
 0.0.0.0 evt.adrcntr.com
-#[atemda.com]
-0.0.0.0 atemda.com
-0.0.0.0 az-ue2.atemda.com
-0.0.0.0 default.atemda.com
-0.0.0.0 lw-ue.atemda.com
-0.0.0.0 lw-uw.atemda.com
-0.0.0.0 media.atemda.com
-0.0.0.0 retargeting.atemda.com
-0.0.0.0 s.atemda.com
-0.0.0.0 ue.atemda.com
-0.0.0.0 www.atemda.com
-0.0.0.0 x.atemda.com
 #[bidvertiser.com]
 0.0.0.0 bdv.bidvertiser.com
 0.0.0.0 bidvertiser.com
@@ -7214,18 +7024,6 @@
 #[youborafds01.com]
 0.0.0.0 youborafds01.com
 0.0.0.0 a-fds.youborafds01.com
-#[mppmnetwork.com]
-0.0.0.0 api.mppmnetwork.com
-0.0.0.0 click.mppmnetwork.com
-0.0.0.0 click-us.mppmnetwork.com
-0.0.0.0 dsp.mppmnetwork.com
-0.0.0.0 dsp2.mppmnetwork.com
-0.0.0.0 mppmnetwork.com
-0.0.0.0 ping.mppmnetwork.com
-0.0.0.0 ping2.mppmnetwork.com
-0.0.0.0 proxy-eu.mppmnetwork.com
-0.0.0.0 proxy-eu-ping.mppmnetwork.com
-0.0.0.0 tm.mppmnetwork.com
 #[revive-adserver.com]
 0.0.0.0 cdn.revive-adserver.com
 0.0.0.0 delivery.revive-adserver.com
@@ -7510,14 +7308,6 @@
 0.0.0.0 c.mstorer.net
 0.0.0.0 m.mstorer.net
 0.0.0.0 mstorer.net
-#[hgbasics.com]
-0.0.0.0 c.hgbasics.com
-0.0.0.0 hgbasics.com
-0.0.0.0 m.hgbasics.com
-#[uttclimber.com]
-0.0.0.0 c.uttclimber.com
-0.0.0.0 m.uttclimber.com
-0.0.0.0 uttclimber.com
 #[contentabc.com]
 0.0.0.0 ads.contentabc.com
 0.0.0.0 ads2.contentabc.com
@@ -7764,12 +7554,6 @@
 0.0.0.0 creatives.purpleads.io
 0.0.0.0 purpleads.io
 0.0.0.0 www.purpleads.io
-#[adsloads.com]
-0.0.0.0 ad.adsloads.com
-0.0.0.0 adsloads.com
-0.0.0.0 in.adsloads.com
-0.0.0.0 us.adsloads.com
-0.0.0.0 vn.adsloads.com
 #[sitescout.com]
 0.0.0.0 clickserv.sitescout.com
 0.0.0.0 pixel-a.sitescout.com
@@ -8839,10 +8623,6 @@
 0.0.0.0 vn.ad.lgsmartad.com
 0.0.0.0 vn.info.lgsmartad.com
 0.0.0.0 www.lgsmartad.com
-#[huerty.site]
-0.0.0.0 c.huerty.site
-0.0.0.0 huerty.site
-0.0.0.0 m.huerty.site
 #[pubnative.info]
 0.0.0.0 mask.pubnative.info
 0.0.0.0 pubnative.info
@@ -8867,13 +8647,6 @@
 0.0.0.0 turbo.adsbynimbus.com
 0.0.0.0 wattpad.adsbynimbus.com
 0.0.0.0 www.adsbynimbus.com
-#[freeskreen.com]
-0.0.0.0 ads.freeskreen.com
-0.0.0.0 freeskreen.com
-0.0.0.0 sb.freeskreen.com
-0.0.0.0 static.freeskreen.com
-0.0.0.0 video.freeskreen.com
-0.0.0.0 www.freeskreen.com
 #[nbryb.com]
 0.0.0.0 nbryb.com
 0.0.0.0 play.nbryb.com
@@ -8947,10 +8720,6 @@
 0.0.0.0 sg.as.y.atwola.com
 0.0.0.0 tw.as.y.atwola.com
 0.0.0.0 us.y.atwola.com
-#[easyads28.info]
-0.0.0.0 cdn.easyads28.info
-0.0.0.0 easyads28.info
-0.0.0.0 t.easyads28.info
 #[anymad.com]
 0.0.0.0 anymad.com
 0.0.0.0 cdn.anymad.com
@@ -9347,10 +9116,6 @@
 0.0.0.0 content.swrve.com
 0.0.0.0 link.swrve.com
 0.0.0.0 swrve.com
-#[rvadnet.com]
-0.0.0.0 ads.rvadnet.com
-0.0.0.0 partner.rvadnet.com
-0.0.0.0 rvadnet.com
 #[ad4mat.net]
 0.0.0.0 ad4mat.net
 0.0.0.0 dmp.ad4mat.net
@@ -9546,16 +9311,6 @@
 0.0.0.0 parkingcrew.net
 0.0.0.0 track.parkingcrew.net
 0.0.0.0 www.parkingcrew.net
-#[rtpdn12.com]
-0.0.0.0 clk.rtpdn12.com
-0.0.0.0 rtpdn12.com
-#[rtpdn14.com]
-0.0.0.0 clk.rtpdn14.com
-0.0.0.0 clkv6.rtpdn14.com
-0.0.0.0 rtpdn14.com
-#[rtpdn15.com]
-0.0.0.0 clk.rtpdn15.com
-0.0.0.0 rtpdn15.com
 #[adition.com]
 0.0.0.0 ad.adition.com
 0.0.0.0 ad1.adfarm1.adition.com
@@ -10043,9 +9798,6 @@
 0.0.0.0 perf.logsss.com
 0.0.0.0 rum.logsss.com
 0.0.0.0 s.logsss.com
-#[orgxts.com]
-0.0.0.0 cdn.orgxts.com
-0.0.0.0 orgxts.com
 #[ironbeast.io]
 0.0.0.0 appcloud.ironbeast.io
 0.0.0.0 ironbeast.io
@@ -10160,9 +9912,6 @@
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 juggler.services.disqus.com
-#[7fb60feaa4.com]
-0.0.0.0 7fb60feaa4.com
-0.0.0.0 e7a875c424.7fb60feaa4.com
 #[mediams.mb.softbank.jp]
 0.0.0.0 ads.mediams.mb.softbank.jp
 0.0.0.0 js.mediams.mb.softbank.jp
@@ -10210,9 +9959,6 @@
 #[xxxjmp.com]
 0.0.0.0 go.xxxjmp.com
 0.0.0.0 xxxjmp.com
-#[hostedprebid.com]
-0.0.0.0 1004.hostedprebid.com
-0.0.0.0 hostedprebid.com
 #[pushmaster-cdn.xyz]
 0.0.0.0 cdn.pushmaster-cdn.xyz
 0.0.0.0 pushmaster-cdn.xyz
@@ -10427,9 +10173,7 @@
 0.0.0.0 ad.samsungadhub.com
 0.0.0.0 samsungadhub.com
 #[samsungtvads.com]
-0.0.0.0 qa.samsungtvads.com
 0.0.0.0 samsungtvads.com
-0.0.0.0 v2.samsungtvads.com
 #[samsung.com]
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 smetrics.samsung.com
@@ -10443,10 +10187,6 @@
 0.0.0.0 tracking.reactful.com
 0.0.0.0 visitor.reactful.com
 0.0.0.0 www.reactful.com
-#[adstatic.com]
-0.0.0.0 adstatic.com
-0.0.0.0 media.adstatic.com
-0.0.0.0 vip.adstatic.com
 #[ero-advertising.com]
 0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 ero-advertising.com
@@ -10587,10 +10327,6 @@
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr6.snapchat.com
-#[sb4you1.com]
-0.0.0.0 cdn.sb4you1.com
-0.0.0.0 sb4you1.com
-0.0.0.0 www.sb4you1.com
 #[contentsquare.net]
 0.0.0.0 c.contentsquare.net
 0.0.0.0 contentsquare.net
@@ -10656,9 +10392,6 @@
 0.0.0.0 popin.cc
 0.0.0.0 r.popin.cc
 0.0.0.0 rlog.popin.cc
-#[bidder.dev]
-0.0.0.0 bidder.dev
-0.0.0.0 cdn.bidder.dev
 #[dictionary.com]
 0.0.0.0 spanids.dictionary.com
 0.0.0.0 track.dictionary.com
@@ -10692,15 +10425,9 @@
 #[clickcdn.co]
 0.0.0.0 clickcdn.co
 0.0.0.0 us.clickcdn.co
-#[verblife-5.co]
-0.0.0.0 verblife-5.co
-0.0.0.0 clk.verblife-5.co
 #[inforsea.com]
 0.0.0.0 call.inforsea.com
 0.0.0.0 pixel.inforsea.com
-#[sharedid.org]
-0.0.0.0 id.sharedid.org
-0.0.0.0 sharedid.org
 #[adcell.com]
 0.0.0.0 adcell.com
 0.0.0.0 t.adcell.com
@@ -10745,9 +10472,6 @@
 0.0.0.0 s.beop.io
 0.0.0.0 t.beop.io
 0.0.0.0 widget.beop.io
-#[adsmanager.ga]
-0.0.0.0 adsmanager.ga
-0.0.0.0 view.adsmanager.ga
 #[crowdtwist.com]
 0.0.0.0 cdn.crowdtwist.com
 0.0.0.0 resources.crowdtwist.com
@@ -11069,9 +10793,6 @@
 #[impactify.io]
 0.0.0.0 ad.impactify.io
 0.0.0.0 impactify.io
-#[couponinu.net]
-0.0.0.0 couponinu.net
-0.0.0.0 track.couponinu.net
 #[ensighten.com]
 0.0.0.0 activate.ensighten.com
 0.0.0.0 analytics.ensighten.com
@@ -11136,7 +10857,6 @@
 0.0.0.0 fp-cdn.azureedge.net
 0.0.0.0 g2insights-cdn.azureedge.net
 0.0.0.0 loader-cdn.azureedge.net
-0.0.0.0 revboostprocdnadsprod.azureedge.net
 #[condenastdigital.com]
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 event.condenastdigital.com
@@ -11257,16 +10977,13 @@
 0.0.0.0 js-sdk.analytics-data.io
 0.0.0.0 track.analytics-data.io
 #[ads.livetv*.me]
-0.0.0.0 ads.livetv314.me
 0.0.0.0 ads.livetv623.me
 0.0.0.0 ads.livetv625.me
 0.0.0.0 ads.livetv626.me
 0.0.0.0 ads.livetv630.me
 0.0.0.0 ads.livetv632.me
 0.0.0.0 ads.livetv633.me
-0.0.0.0 ads.livetv636.me
 0.0.0.0 ads.livetv637.me
-0.0.0.0 ads.livetv638.me
 0.0.0.0 ads.livetv639.me
 0.0.0.0 ads.livetv640.me
 0.0.0.0 ads.livetv643.me
@@ -11291,7 +11008,6 @@
 0.0.0.0 ads.livetv703.me
 0.0.0.0 ads.livetv705.me
 0.0.0.0 ads.livetv708.me
-0.0.0.0 ads.livetv723.me
 0.0.0.0 ads.livetv760.me
 0.0.0.0 ads.livetv765.me
 0.0.0.0 ads.livetv782.me
@@ -11302,7 +11018,6 @@
 0.0.0.0 ads.livetv791.me
 0.0.0.0 ads.livetv794.me
 0.0.0.0 ads.livetv806.me
-0.0.0.0 ads.livetv817.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11409,55 +11124,20 @@
 0.0.0.0 goaserv.com
 0.0.0.0 go.goaserv.com
 #[aj2*.bid]
-0.0.0.0 aj2513.bid
-0.0.0.0 aj2514.bid
 0.0.0.0 aj2517.bid
-0.0.0.0 aj2518.bid
-0.0.0.0 aj2521.bid
-0.0.0.0 aj2522.bid
-0.0.0.0 aj2525.bid
-0.0.0.0 aj2526.bid
-0.0.0.0 aj2528.bid
-0.0.0.0 aj2529.bid
-0.0.0.0 aj2530.bid
-0.0.0.0 aj2531.bid
 0.0.0.0 aj2532.bid
-0.0.0.0 aj2533.bid
-0.0.0.0 aj2534.bid
-0.0.0.0 aj2536.bid
-0.0.0.0 aj2537.bid
 0.0.0.0 aj2538.bid
 0.0.0.0 aj2543.bid
-0.0.0.0 aj2544.bid
-0.0.0.0 aj2546.bid
-0.0.0.0 aj2547.bid
 0.0.0.0 aj2551.bid
-0.0.0.0 aj2553.bid
-0.0.0.0 aj2554.bid
 0.0.0.0 aj2555.bid
 0.0.0.0 aj2556.bid
 0.0.0.0 aj2557.bid
-0.0.0.0 aj2558.bid
-0.0.0.0 aj2559.bid
-0.0.0.0 aj2560.bid
-0.0.0.0 aj2561.bid
-0.0.0.0 aj2562.bid
 0.0.0.0 aj2563.bid
 0.0.0.0 aj2566.bid
-0.0.0.0 aj2567.bid
-0.0.0.0 aj2568.bid
-0.0.0.0 aj2569.bid
 0.0.0.0 aj2570.bid
-0.0.0.0 aj2571.bid
-0.0.0.0 aj2572.bid
-0.0.0.0 aj2573.bid
-0.0.0.0 aj2574.bid
-0.0.0.0 aj2575.bid
 0.0.0.0 aj2576.bid
 0.0.0.0 aj2577.bid
 0.0.0.0 aj2578.bid
-0.0.0.0 aj2579.bid
-0.0.0.0 aj2580.bid
 0.0.0.0 aj2581.bid
 0.0.0.0 aj2582.bid
 0.0.0.0 aj2583.bid
@@ -11465,57 +11145,16 @@
 0.0.0.0 aj2585.bid
 0.0.0.0 aj2586.bid
 0.0.0.0 aj2587.bid
-0.0.0.0 aj2588.bid
-0.0.0.0 aj2589.bid
-0.0.0.0 aj2590.bid
-0.0.0.0 aj2591.bid
-0.0.0.0 aj2592.bid
-0.0.0.0 aj2593.bid
-0.0.0.0 aj2594.bid
-0.0.0.0 aj2595.bid
-0.0.0.0 aj2596.bid
-0.0.0.0 aj2597.bid
-0.0.0.0 aj2598.bid
 0.0.0.0 aj2599.bid
-0.0.0.0 aj2600.bid
-0.0.0.0 aj2601.bid
-0.0.0.0 aj2602.bid
-0.0.0.0 aj2603.bid
-0.0.0.0 aj2604.bid
 0.0.0.0 aj2605.bid
-0.0.0.0 aj2606.bid
-0.0.0.0 aj2607.bid
-0.0.0.0 aj2608.bid
-0.0.0.0 aj2609.bid
-0.0.0.0 aj2610.bid
-0.0.0.0 aj2611.bid
-0.0.0.0 aj2612.bid
-0.0.0.0 aj2613.bid
 0.0.0.0 aj2615.bid
-0.0.0.0 aj2617.bid
 0.0.0.0 aj2629.bid
-0.0.0.0 aj2630.bid
-0.0.0.0 aj2631.bid
-0.0.0.0 aj2632.bid
-0.0.0.0 aj2633.bid
 0.0.0.0 aj2634.bid
 0.0.0.0 aj2635.bid
 #[aj3*.bid]
-0.0.0.0 aj3003.bid
-0.0.0.0 aj3004.bid
 0.0.0.0 aj3007.bid
-0.0.0.0 aj3008.bid
-0.0.0.0 aj3009.bid
-0.0.0.0 aj3010.bid
-0.0.0.0 aj3011.bid
-0.0.0.0 aj3012.bid
-0.0.0.0 aj3013.bid
-0.0.0.0 aj3014.bid
-0.0.0.0 aj3015.bid
-0.0.0.0 aj3016.bid
 0.0.0.0 aj3017.bid
 0.0.0.0 aj3018.bid
-0.0.0.0 aj3019.bid
 #[aj1*.xyz]
 0.0.0.0 aj101.xyz
 0.0.0.0 aj1907.xyz
@@ -11539,9 +11178,6 @@
 0.0.0.0 semasio.net
 0.0.0.0 uipglob.semasio.net
 0.0.0.0 uipus.semasio.net
-#[adswin.net]
-0.0.0.0 adswin.net
-0.0.0.0 aff.adswin.net
 #[adsninja.ca]
 0.0.0.0 adsninja.ca
 0.0.0.0 cdn.adsninja.ca
@@ -12072,19 +11708,6 @@
 0.0.0.0 admicro4.vcmedia.vn
 0.0.0.0 admicro5.vcmedia.vn
 0.0.0.0 admicro6.vcmedia.vn
-#[adnetwork]
-0.0.0.0 adnetwork.vn
-0.0.0.0 client-pages.adnetwork.vn
-0.0.0.0 conv.adnetwork.vn
-0.0.0.0 delivery.adnetwork.vn
-0.0.0.0 imp.adnetwork.vn
-0.0.0.0 media.adnetwork.vn
-0.0.0.0 member.adnetwork.vn
-0.0.0.0 metrics.adnetwork.vn
-0.0.0.0 retg.adnetwork.vn
-0.0.0.0 s-cm.send.adnetwork.vn
-0.0.0.0 track.adnetwork.vn
-0.0.0.0 www.adnetwork.vn
 #[novanet]
 0.0.0.0 admin.novanet.vn
 0.0.0.0 ads.novanet.vn
@@ -12218,25 +11841,11 @@
 0.0.0.0 tag.gammaplatform.com
 0.0.0.0 track.gammaplatform.com
 0.0.0.0 www.gammaplatform.com
-#[gammadsp.com]
-0.0.0.0 clk.gammadsp.com
-0.0.0.0 cm.gammadsp.com
-0.0.0.0 gammadsp.com
-0.0.0.0 imp.gammadsp.com
-0.0.0.0 metrics.gammadsp.com
-0.0.0.0 trk.gammadsp.com
-0.0.0.0 www.gammadsp.com
 #[gammassp.com]
 0.0.0.0 advertising.gammassp.com
 0.0.0.0 gammassp.com
 0.0.0.0 test-places.gammassp.com
 0.0.0.0 www.gammassp.com
-#[serving-system.com]
-0.0.0.0 b.serving-system.com
-0.0.0.0 optimize.serving-system.com
-0.0.0.0 serving-system.com
-0.0.0.0 ut-static.serving-system.com
-0.0.0.0 ut.serving-system.com
 #[ambient-platform.com]
 0.0.0.0 ambient-platform.com
 0.0.0.0 analytics.ambient-platform.com
@@ -12709,15 +12318,13 @@
 0.0.0.0 zalo-ads.mediaz.vn
 0.0.0.0 mediazcorp.com
 0.0.0.0 www.mediazcorp.com
-0.0.0.0 mediaz.asia
-0.0.0.0 js.mediaz.asia
-0.0.0.0 static.mediaz.asia
-0.0.0.0 www.mediaz.asia
-#[mediad.asia]
-0.0.0.0 mediad.asia
+#[mediaz.asia]
 0.0.0.0 adx.mediaz.asia
 0.0.0.0 dsp.mediaz.asia
-0.0.0.0 www.mediad.asia
+0.0.0.0 js.mediaz.asia
+0.0.0.0 mediaz.asia
+0.0.0.0 static.mediaz.asia
+0.0.0.0 www.mediaz.asia
 #[bidgear.com]
 0.0.0.0 asset.bidgear.com
 0.0.0.0 bidgear.com
@@ -12794,11 +12401,6 @@
 0.0.0.0 push.yoads.net
 0.0.0.0 push2.yoads.net
 0.0.0.0 www.yoads.net
-0.0.0.0 yoads.network
-#[viam.com.vn]
-0.0.0.0 hc.viam.com.vn
-0.0.0.0 viam.com.vn
-0.0.0.0 www.viam.com.vn
 #[vads.vn]
 0.0.0.0 baogia.vads.vn
 0.0.0.0 vads.vn
@@ -12866,14 +12468,6 @@
 #[amcdn.vn]
 0.0.0.0 amcdn.vn
 0.0.0.0 static.amcdn.vn
-#[cheap-ads.net]
-0.0.0.0 cheap-ads.net
-0.0.0.0 verycheap.cheap-ads.net
-0.0.0.0 www.cheap-ads.net
-#[sporttv.today]
-0.0.0.0 ads.sporttv.today
-0.0.0.0 sporttv.today
-0.0.0.0 www.sporttv.today
 #[vidoomy.com]
 0.0.0.0 ads.vidoomy.com
 0.0.0.0 cpm.vidoomy.com
@@ -12956,9 +12550,6 @@
 0.0.0.0 ad-us.24hstatic.com
 0.0.0.0 eva-ad.24hstatic.com
 0.0.0.0 nv-ad.24hstatic.com
-#[vnnayngaytin.vn]
-0.0.0.0 vnnayngaytin.vn
-0.0.0.0 ad.vnnayngaytin.vn
 #[donglogs.com]
 0.0.0.0 analytics.donglogs.com
 0.0.0.0 api.donglogs.com
@@ -13012,21 +12603,6 @@
 #[anymind360.com]
 0.0.0.0 anymind360.com
 0.0.0.0 stg.anymind360.com
-#[smartconvert.co]
-0.0.0.0 cworth.smartconvert.co
-0.0.0.0 growth.smartconvert.co
-0.0.0.0 plo.smartconvert.co
-0.0.0.0 promo.smartconvert.co
-0.0.0.0 promo-stage.smartconvert.co
-0.0.0.0 promo-staging.smartconvert.co
-0.0.0.0 promo-v2.smartconvert.co
-0.0.0.0 recsite.smartconvert.co
-0.0.0.0 site-dev.smartconvert.co
-0.0.0.0 smartconvert.co
-0.0.0.0 st.smartconvert.co
-0.0.0.0 worth.smartconvert.co
-0.0.0.0 wsite.smartconvert.co
-0.0.0.0 www.smartconvert.co
 #[flygame.io]
 0.0.0.0 api.flygame.io
 0.0.0.0 flygame.io
@@ -13046,10 +12622,6 @@
 #[testcentre.vn]
 0.0.0.0 k8s2.testcentre.vn
 0.0.0.0 testcentre.vn
-#[piads.vn]
-0.0.0.0 api.piads.vn
-0.0.0.0 piads.vn
-0.0.0.0 static.piads.vn
 #[hara*.com]
 0.0.0.0 app.harafunnel.com
 0.0.0.0 app.haraloyalty.com
@@ -13075,11 +12647,6 @@
 0.0.0.0 app.slimads.vn
 0.0.0.0 slimads.vn
 0.0.0.0 www.slimads.vn
-#[t.sieu-viet.com]
-0.0.0.0 a.t.sieu-viet.com
-0.0.0.0 d.t.sieu-viet.com
-0.0.0.0 j.t.sieu-viet.com
-0.0.0.0 t.sieu-viet.com
 #[subiz-cdn.com]
 0.0.0.0 public-gcs.subiz-cdn.com
 0.0.0.0 vcdn.subiz-cdn.com
@@ -13123,7 +12690,6 @@
 0.0.0.0 matomo.vepg.vn
 0.0.0.0 matomo.vietlottsms.vn
 #[mautic.*.vn]
-0.0.0.0 mautic.akhoe.vn
 0.0.0.0 mautic.casso.vn
 0.0.0.0 mautic.chetaomaysaigon.vn
 0.0.0.0 mautic.cloudify.vn
@@ -13134,16 +12700,11 @@
 0.0.0.0 mautic.hicity.vn
 0.0.0.0 mautic.icsc.vn
 0.0.0.0 mautic.jagodo.vn
-0.0.0.0 mautic.paa.vn
 0.0.0.0 mautic.serverhub.vn
 0.0.0.0 mautic.sts.vn
-0.0.0.0 mautic.thietkexaynhadep.vn
 0.0.0.0 mautic.vmax.vn
 #[piwik.*.vn]
 0.0.0.0 piwik.rta.vn
-0.0.0.0 piwik.softonic.vn
-#[piwik.*.com.vn]
-0.0.0.0 piwik.tienhiep.com.vn
 #[accesstrade.vn]
 0.0.0.0 ad.accesstrade.vn
 0.0.0.0 partner.accesstrade.vn
@@ -13244,10 +12805,6 @@
 0.0.0.0 static.aiactiv.io
 0.0.0.0 tag-cdn.aiactiv.io
 0.0.0.0 tags.aiactiv.io
-#[smartadnetwork.net]
-0.0.0.0 delivery.smartadnetwork.net
-0.0.0.0 smartadnetwork.net
-0.0.0.0 tracking.smartadnetwork.net
 #[metaconex.io]
 0.0.0.0 metaconex.io
 0.0.0.0 pub.metaconex.io
@@ -13398,9 +12955,6 @@
 #[wataads.com]
 0.0.0.0 cdn.wataads.com
 0.0.0.0 wataads.com
-#[viraads.com]
-0.0.0.0 cdn.viraads.com
-0.0.0.0 viraads.com
 #[vtc.vn]
 0.0.0.0 ads.vtc.vn
 0.0.0.0 delivery.vtc.vn
@@ -13581,7 +13135,6 @@
 0.0.0.0 adx.xtv.vn
 0.0.0.0 aff2.linksht.online
 0.0.0.0 affiliate.k4.tinhte.vn
-0.0.0.0 aj2393.online
 0.0.0.0 ak9.6895588.com
 0.0.0.0 an.dongphim.net
 0.0.0.0 an.xemvtv.net
@@ -13847,7 +13400,6 @@
 0.0.0.0 log.vneconomy.vn
 0.0.0.0 log.vnfinance.vn
 0.0.0.0 log.vov.vn
-0.0.0.0 log.vovplus.vn
 0.0.0.0 log.vovworld.vn
 0.0.0.0 log.xoso.com.vn
 0.0.0.0 log.zamba.vn
@@ -17447,6 +16999,7 @@
 0.0.0.0 oackoubs.com
 0.0.0.0 oahaurti.com
 0.0.0.0 oalselry.com
+0.0.0.0 oamoameevee.net
 0.0.0.0 oaphoace.net
 0.0.0.0 oaraiwephoursou.net
 0.0.0.0 oarouwousti.com
@@ -18445,7 +17998,6 @@
 0.0.0.0 sponsorads.de
 0.0.0.0 sponsorpay.com
 0.0.0.0 sponsorpro.de
-0.0.0.0 sponsors.thoughtsmedia.com
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotx.tv
 0.0.0.0 sprayearthy.com
@@ -18629,6 +18181,7 @@
 0.0.0.0 tawdryson.com
 0.0.0.0 tb.baimgfroggd.site
 0.0.0.0 tcads.net
+0.0.0.0 tccnqgnmeveay.com
 0.0.0.0 tealeaf.com
 0.0.0.0 tealium.com
 0.0.0.0 tealiumiq.com
@@ -19312,6 +18865,7 @@
 0.0.0.0 yieldoptimizer.com
 0.0.0.0 yieldtraffic.com
 0.0.0.0 yiopse.com
+0.0.0.0 ylcziaipyztvv.com
 0.0.0.0 yldbt.com
 0.0.0.0 yllaris.com
 0.0.0.0 ymetrica1.com

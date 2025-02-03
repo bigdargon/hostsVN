@@ -27,7 +27,6 @@
 4dex.io
 4dsply.com
 6sc.co
-7fb60feaa4.com
 a-ads.com
 a-delivery.rmbl.ws
 a-mo.net
@@ -269,14 +268,11 @@ adservice.google.*
 adservices.brandcdn.com
 adservme.com
 adservrs.com
-adsfactor.net
 adsfs.oppomobile.com
 adsgard.aprod.scopely.io
 adskeeper.co.uk
 adskeeper.com
-adsloads.com
 adslot.uc.cn
-adsmanager.ga
 adsmartracker.com
 adsmoloco.com
 adsninja.b-cdn.net
@@ -292,12 +288,9 @@ adsrvr.org
 adssettings.365scores.com
 adstage-analytics.herokuapp.com
 adstatic.b-cdn.net
-adstatic.com
 adsterra.org
 adstrategy.biz.weibo.com
-adswin.net
 adswizz.com
-adsymptotic.com
 adsyndication.msn.com
 adt.cpatrk.net
 adtag.sphdigital.com
@@ -325,7 +318,6 @@ adv.sec.miui.com
 advangelists.com
 advbanners.global.ssl.fastly.net
 advergine.com
-advergine.ru
 advertica.ae
 advertising.com
 advertising.microsoft.com
@@ -511,7 +503,6 @@ appodeal.com
 appodealx.com
 apps.sascdn.com
 apptornado.com
-apxadtracking.net
 aqua-adserver.com
 aralego.com
 aralego.net
@@ -529,7 +520,6 @@ async-px-eu.dynamicyield.com
 async-px.dynamicyield.com
 atdmt.com
 ateam-ad.jp
-atemda.com
 atm.youku.com
 atomex.net
 atrack.avplayer.com
@@ -588,7 +578,6 @@ betweendigital.com
 bfmio.com
 bid.atmtd.com
 bidadx.com
-bidder.dev
 bidfilter.com
 bidr.io
 bidswitch.net
@@ -609,7 +598,6 @@ bluekai.com
 blueseed.tv
 blueserving.com
 bncloudfl.com
-bnmla.com
 bodis.com
 boffoadsfeeds.com
 bookmsg.com
@@ -747,7 +735,6 @@ connatix.com
 connect.idocdn.com
 connectad.io
 consumable.com
-content-ad.net
 content.ad
 contentabc.com
 contentspread.net
@@ -757,7 +744,6 @@ contextweb.com
 conversantmedia.com
 convertexperiments.com
 convertful.com
-couponinu.net
 cpmstar.com
 cpro.baidustatic.com
 cpx.to
@@ -861,7 +847,6 @@ dynatrace.att.com
 e-planning.net
 e-volution.ai
 e.qq.com
-easyads28.info
 eclick.baidu.com
 edge.adobedc.net
 edge.ads.twitch.tv
@@ -908,7 +893,6 @@ everesttech.net
 evidon.com
 exdynsrv.com
 exelator.com
-exit-ad.com
 exoclick.com
 exosrv.com
 exoticads.com
@@ -950,7 +934,6 @@ fout.jp
 fp-cdn.azureedge.net
 fqtag.com
 fra-*.braze.eu
-freeskreen.com
 freshmarketer.com
 fs-client-logger.herokuapp.com
 ftd.agency
@@ -1038,13 +1021,11 @@ hetartwg.com
 hetaruvg.com
 hetaruwg.com
 heyzap.com
-hgbasics.com
 histats.com
 hkrpg-log-upload-os.hoyoverse.com
 hlog.hiido.com
 hm.baidu.com
 hmma.baidu.com
-hostedprebid.com
 hotjar.com
 hotjar.io
 hprofits.com
@@ -1055,7 +1036,6 @@ hs-scripts.com
 hs.eloqua.com
 hsadspixel.net
 hubvisor.io
-huerty.site
 hummingbird.mavencoalition.io
 hwstats.unity3d.com
 hyperpromote.com
@@ -1271,7 +1251,6 @@ mcs-va.tiktokv.com
 mcs.snssdk.com
 mcs.zijieapi.com
 me.cpatrk.net
-measuread.com
 media.evolv.ai
 media.globalsign.com
 media.net
@@ -1296,7 +1275,6 @@ metok.sys.miui.com
 metric.nimo.tv
 metrics-dra.dt.hicloud.com
 metrics-logger.spot.im
-metrics.client-eng.a2z.com
 metrics.cnn.com
 metrics.data.hicloud.com
 metrics.icloud.com
@@ -1313,6 +1291,7 @@ micpn.com
 microad.jp
 microad.net
 microadinc.com
+minerva.devices.a2z.com
 mintegral.net
 mistat.*.xiaomi.com
 mistat.xiaomi.com
@@ -1338,7 +1317,6 @@ mobileanalytics.useinsider.com
 mobileapptracking.com
 mobileconfig.sascdn.com
 mobilefuse.com
-mobileoffers-*-download.com
 mobisage.cn
 mobon.net
 mobpartner.mobi
@@ -1355,7 +1333,6 @@ mopub.com
 mouseflow.com
 movad.net
 mparticle.com
-mppmnetwork.com
 msga.cupid.iqiyi.com
 msgapp.com
 mssdk-sg.tiktok.com
@@ -1384,7 +1361,6 @@ nexage.com
 nextadgem.com
 nhnace.com
 ninthdecimal.com
-nixozz.com
 nmetrics.samsung.com
 nol.yahoo.com
 notes-analytics-events.apple.com
@@ -1423,7 +1399,6 @@ optimizesrv.com
 optmnstr.com
 optvx.com
 orbsrv.com
-orgxts.com
 os-mon.zijieapi.com
 otm-r.com
 otnolatrnup.com
@@ -1516,9 +1491,8 @@ privacy-policy.truste.com
 privatestats.whatsapp.net
 pro-market.net
 prod-collecticon.outlookmobile.com
-prod.cm.publishers.advertising.a2z.com
-prod.pr.analytics.console.aws.a2z.com
-prod.pw.analytics.console.aws.a2z.com
+prod.*.analytics.console.aws.a2z.com
+prod.*.publishers.advertising.a2z.com
 promo-*.vercel.app
 promoted.soundcloud.com
 promotionalads.yahoo.co.jp
@@ -1591,7 +1565,6 @@ res.rbl.ms
 researchnow.com
 resonate.com
 returnpath.net
-revboostprocdnadsprod.azureedge.net
 revcontent.com
 reveal.clearbit.com
 revenuehits.com
@@ -1613,22 +1586,17 @@ rmp.rakuten.com
 rmtag.com
 rpdn.relateddigital.com
 rqmob.com
-rtbid.me
 rtbsuperhub.com
 rtc-logger-va.tiktokv.com
 rtgio.co
 rtlog.tiktokv.com
 rtmark.net
-rtpdn12.com
-rtpdn14.com
-rtpdn15.com
 rubiconproject.com
 rudderlabs.com
 rum.condenastdigital.com
 run-syndicate.com
 runative-syndicate.com
 runative.com
-rvadnet.com
 rwadx.com
 s-ad.rmp.rakuten.co.jp
 s-adx.op-mobile.opera.com
@@ -1638,7 +1606,6 @@ s.360.cn
 s.trvdp.com
 s.union.360.cn
 sa.api.intl.miui.com
-sads*z.com
 sail-horizon.com
 salesmanago.pl
 sam.msn.com
@@ -1646,7 +1613,6 @@ samsungacr.com
 samsungadhub.com
 samsungads.com
 samsungtvads.com
-sb4you1.com
 scanscout.com
 scarabresearch.com
 scorchads.com
@@ -1672,7 +1638,6 @@ serving-sys.com
 settings-analytics.hotstar.com
 sgp.o2o.api.xiaomi.com
 shareaholic.com
-sharedid.org
 sharethis.com
 sharethrough.com
 showcasethat.com
@@ -1933,7 +1898,6 @@ user-stats.rbl.ms
 userreport.com
 userreporting.cloud.unity3d.com
 usp1.baidu.com
-uttclimber.com
 v*.denakop.com
 v.shopify.com
 v16-ad.byteoversea.com
@@ -1945,7 +1909,6 @@ vasstycom.com
 vcs.zijieapi.com
 vdo.ai
 venatusmedia.com
-verblife-5.co
 vercel-insights.com
 veta.naver.com
 vi-serve.com
