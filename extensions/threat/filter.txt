@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 03 Feb 2025 15:54 UTC+7
-! Version: 2502031554
-! Blocked: 4.698 rules
+! Last modified: 05 Feb 2025 09:34 UTC+7
+! Version: 2502050934
+! Blocked: 4.700 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4688,7 +4688,9 @@
 ||yunduofei.xyz^
 ||yxjsibeugmmj.com^
 ||zSmhlV.zgbv.tech^
+||zalo-web.me^
 ||zalorashop.com^
+||zaloweb.pro^
 ||zeroshop.cc^
 ||zingmp3.pro^
 ||zingshop.net^

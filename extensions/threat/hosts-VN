@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 03 Feb 2025 15:54 UTC+7
-# Version: 2502031554
-# Blocked: 4.331 domains
+# Last modified: 05 Feb 2025 09:34 UTC+7
+# Version: 2502050934
+# Blocked: 4.333 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4326,7 +4326,9 @@
 0.0.0.0 yl0sj9.cyou
 0.0.0.0 ymx33.com
 0.0.0.0 zSmhlV.zgbv.tech
+0.0.0.0 zalo-web.me
 0.0.0.0 zalorashop.com
+0.0.0.0 zaloweb.pro
 0.0.0.0 zeroshop.cc
 0.0.0.0 zingmp3.pro
 0.0.0.0 zingshop.net
