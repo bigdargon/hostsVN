@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 05 Feb 2025 09:34 UTC+7
-! Version: 2502050934
-! Blocked: 2.783 rules
+! Last modified: 09 Feb 2025 23:03 UTC+7
+! Version: 2502092303
+! Blocked: 2.785 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -102,6 +102,7 @@
 ||buom.tv^
 ||buomdep.pro^
 ||buomhay.com^
+||buomngon.com^
 ||buomsex.com^
 ||buomtube.tv^
 ||buomtv.app^
@@ -338,6 +339,7 @@
 ||fullcliphot.info^
 ||fullphim.pro^
 ||gadit.pro^
+||gai2.buomngon.com^
 ||gai35.com^
 ||gaicantho.xyz^
 ||gaicaocap.xyz^
