@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Feb 2025 23:02 UTC+7
-! Version: 2502092302
-! Blocked: 8.943 rules
+! Last modified: 11 Feb 2025 09:56 UTC+7
+! Version: 2502110956
+! Blocked: 8.949 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5034,6 +5034,7 @@
 ||datafront.co^
 ||dataretinalsubtotal.com^
 ||dataxu.com^
+||datingprudethimble.com^
 ||daudejuw.com^
 ||dbr9gtaf8.com^
 ||dbtarget.com^
@@ -6266,6 +6267,7 @@
 ||lockerdomecdn.com^
 ||locketcattishson.com^
 ||loftsbaacad.com^
+||log-auth.zztfly.com^
 ||log-eap-sg.coloros.com^
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.mihoyo.com^
@@ -6756,6 +6758,7 @@
 ||nuzatbdmy.com^
 ||nv3tosjqd.com^
 ||nvcrcf.com^
+||nwhnzkbfsnpf.com^
 ||nygwcwsvnu.com^
 ||nzaza.com^
 ||nzurlmq.com^
@@ -6787,6 +6790,7 @@
 ||ocio.leadzu.com^
 ||oclasrv.com^
 ||odfohvwi.com^
+||odfsmijima.com^
 ||odgomfabcas.com^
 ||oewa.at^
 ||oewabox.at^
@@ -7150,6 +7154,7 @@
 ||pocitadlo.cz^
 ||pocrd.cc^
 ||pocrowpush.com^
+||podefr2.net^
 ||podsklzegshmnd.com^
 ||pointedpleasure.com^
 ||pointlessprofit.com^
@@ -7895,6 +7900,7 @@
 ||speee-ad.akamaized.net^
 ||spezialreporte.de^
 ||spicy-effect.com^
+||spider-tracker.xiaohongshu.com^
 ||spiffymachine.com^
 ||spikereekvelocity.com^
 ||spinbox.techtracker.com^
