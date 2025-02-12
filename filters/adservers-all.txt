@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 11 Feb 2025 09:56 UTC+7
-! Version: 2502110956
-! Blocked: 8.949 rules
+! Last modified: 12 Feb 2025 17:45 UTC+7
+! Version: 2502121745
+! Blocked: 8.958 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -927,6 +927,7 @@
 ||act.ds.kakao.com^
 ||acuityplatform.com^
 ||ad-brix.com^
+||ad-creatives-public.commondatastorage.googleapis.com^
 ||ad-exchange.toast.com^
 ||ad-log-upload-os.hoyoverse.com^
 ||ad-m.asia^
@@ -1795,6 +1796,7 @@
 ||fidelity-media.com^
 ||fiftyt.com^
 ||filament-stats.herokuapp.com^
+||firebaselogging-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||firstimpression.io^
 ||fivecdm.com^
@@ -3774,6 +3776,7 @@
 ||adz2you.net^
 ||adzbazar.com^
 ||aeffe3nhrua5hua.com^
+||aerodynomach.com^
 ||af-ad.co.uk^
 ||afcnuchxgo.com^
 ||afearprevoid.com^
@@ -4302,6 +4305,7 @@
 ||bento.agoda.com^
 ||benzeinlune.com^
 ||bepansaer.com^
+||beplusleor.com^
 ||bergculpae.life^
 ||berkshiretoday.xyz^
 ||berlipurplin.com^
@@ -5514,6 +5518,7 @@
 ||friendlyduck.com^
 ||friendshipmale.com^
 ||frightenedpotato.com^
+||frllfmjaku.com^
 ||front.optimonk.com^
 ||fryawlauk.com^
 ||ftte.xyz^
@@ -7151,6 +7156,7 @@
 ||plusungratefulinstruction.com^
 ||plutothejewel.com^
 ||pnuhondppw.com^
+||poawooptugroo.com^
 ||pocitadlo.cz^
 ||pocrd.cc^
 ||pocrowpush.com^
@@ -7281,6 +7287,7 @@
 ||ptaixout.net^
 ||ptauxofi.net^
 ||ptawehex.net^
+||pteemsolrirgegi.com^
 ||ptewarin.net^
 ||ptipsixo.com^
 ||ptoahaistais.com^
@@ -7392,6 +7399,7 @@
 ||qwerfdx.com^
 ||qwertize.com^
 ||qwerty24.net^
+||qwuopcbilw.com^
 ||qwyaqhortog.com^
 ||qxadsk.com^
 ||qzeavzrfaoqn.com^
@@ -8287,6 +8295,7 @@
 ||tornbed.pro^
 ||toroadvertisingmedia.com^
 ||tosfeed.com^
+||tospointor.com^
 ||total-fee.com^
 ||totemcash.com^
 ||touchads.com^

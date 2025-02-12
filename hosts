@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Feb 2025 09:56 UTC+7
-# Version: 2502110956
-# Blocked: 18.120 domains
+# Last modified: 12 Feb 2025 17:45 UTC+7
+# Version: 2502121745
+# Blocked: 18.130 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -169,11 +169,13 @@
 0.0.0.0 googleoptimize.com
 0.0.0.0 www.googleoptimize.com
 #[googleapis.com]
+0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 androidtvchannels-pa.googleapis.com
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 ogads-pa.googleapis.com
 #[l.google.com]
@@ -11113,6 +11115,7 @@
 0.0.0.0 g2afse.com
 0.0.0.0 aditmedia.g2afse.com
 0.0.0.0 adstartmedia.g2afse.com
+0.0.0.0 s2stracking.g2afse.com
 #[mail.ru]
 0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1l-view.mail.ru
@@ -14407,6 +14410,7 @@
 0.0.0.0 adz2you.net
 0.0.0.0 adzbazar.com
 0.0.0.0 aeffe3nhrua5hua.com
+0.0.0.0 aerodynomach.com
 0.0.0.0 af-ad.co.uk
 0.0.0.0 afcnuchxgo.com
 0.0.0.0 afearprevoid.com
@@ -14831,6 +14835,7 @@
 0.0.0.0 benonblkd.xyz
 0.0.0.0 benzeinlune.com
 0.0.0.0 bepansaer.com
+0.0.0.0 beplusleor.com
 0.0.0.0 bergculpae.life
 0.0.0.0 berkshiretoday.xyz
 0.0.0.0 berlipurplin.com
@@ -15909,6 +15914,7 @@
 0.0.0.0 friendlyduck.com
 0.0.0.0 friendshipmale.com
 0.0.0.0 frightenedpotato.com
+0.0.0.0 frllfmjaku.com
 0.0.0.0 fryawlauk.com
 0.0.0.0 ftte.xyz
 0.0.0.0 fubmalafdti.com
@@ -17351,6 +17357,7 @@
 0.0.0.0 plusungratefulinstruction.com
 0.0.0.0 plutothejewel.com
 0.0.0.0 pnuhondppw.com
+0.0.0.0 poawooptugroo.com
 0.0.0.0 pocitadlo.cz
 0.0.0.0 pocrd.cc
 0.0.0.0 pocrowpush.com
@@ -17474,6 +17481,7 @@
 0.0.0.0 ptaixout.net
 0.0.0.0 ptauxofi.net
 0.0.0.0 ptawehex.net
+0.0.0.0 pteemsolrirgegi.com
 0.0.0.0 ptewarin.net
 0.0.0.0 ptipsixo.com
 0.0.0.0 ptoahaistais.com
@@ -17576,6 +17584,7 @@
 0.0.0.0 qwerfdx.com
 0.0.0.0 qwertize.com
 0.0.0.0 qwerty24.net
+0.0.0.0 qwuopcbilw.com
 0.0.0.0 qwyaqhortog.com
 0.0.0.0 qxadsk.com
 0.0.0.0 qzeavzrfaoqn.com
@@ -18313,6 +18322,7 @@
 0.0.0.0 tornbed.pro
 0.0.0.0 toroadvertisingmedia.com
 0.0.0.0 tosfeed.com
+0.0.0.0 tospointor.com
 0.0.0.0 total-fee.com
 0.0.0.0 totemcash.com
 0.0.0.0 touchads.com

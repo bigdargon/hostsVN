@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 09 Feb 2025 23:03 UTC+7
-! Version: 2502092303
-! Blocked: 4.703 rules
+! Last modified: 12 Feb 2025 17:44 UTC+7
+! Version: 2502121744
+! Blocked: 4.704 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -514,6 +514,7 @@
 ||continue.dasboard965-account.com^
 ||continue.dasboard966-account.com^
 ||continue.dasboard974-account.com^
+||cooknove.com^
 ||coonnfirrmm-bankingg247njf.weebly.com^
 ||coronappzz.com^
 ||cpa-tc.com^

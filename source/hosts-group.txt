@@ -157,11 +157,13 @@ optimize.google.com
 googleoptimize.com
 www.googleoptimize.com
 #[googleapis.com]
+ad-creatives-public.commondatastorage.googleapis.com
 androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
 clientmetrics-pa.googleapis.com
 clouderrorreporting.googleapis.com
 crashlyticsreports-pa.googleapis.com
+firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 ogads-pa.googleapis.com
 #[l.google.com]
@@ -11101,6 +11103,7 @@ assets.ubembed.com
 g2afse.com
 aditmedia.g2afse.com
 adstartmedia.g2afse.com
+s2stracking.g2afse.com
 #[mail.ru]
 1l-hit.mail.ru
 1l-view.mail.ru
