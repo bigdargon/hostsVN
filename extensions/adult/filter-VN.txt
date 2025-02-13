@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 12 Feb 2025 17:44 UTC+7
-! Version: 2502121744
-! Blocked: 2.785 rules
+! Last modified: 13 Feb 2025 15:45 UTC+7
+! Version: 2502131545
+! Blocked: 2.786 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -835,6 +835,7 @@
 ||kichduc.vip^
 ||kieunuvadaigia.xyz^
 ||kieunuviet.xyz^
+||kieunuvn.com^
 ||kieunuxinh.net^
 ||kphimsex.xyz^
 ||ktv.bio^
