@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 14 Feb 2025 10:00 UTC+7
-! Version: 2502141000
-! Blocked: 4.706 rules
+! Last modified: 14 Feb 2025 10:16 UTC+7
+! Version: 2502141016
+! Blocked: 4.710 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -283,6 +283,7 @@
 ||baovietn.vip^
 ||baovietvay.top^
 ||baovietvc.top^
+||bapoder.com^
 ||barbecueappledos.pw^
 ||bb9998.com^
 ||bbankpower.com^
@@ -350,6 +351,7 @@
 ||bxrtxfr.xyz^
 ||byasdebrisfie.cfd^
 ||c.vn-ebayn.vip^
+||c2dat.shop^
 ||c6i0ilgden1ve8eb1here4s.ddns.net^
 ||ca-nhan-vpb.com^
 ||campxanh.info^
@@ -728,6 +730,7 @@
 ||dv-nang-cap-vpbank.com^
 ||dvdienmayxanh.com^
 ||dvfbnhan.com^
+||dvw22rk.c2dat.shop^
 ||e-bankingshopee.vn^
 ||e-commercesc.cc^
 ||e-sacombank.com^
@@ -1244,6 +1247,7 @@
 ||i-sacombank.com^
 ||i-shopping888.com^
 ||i-vietcombank.com^
+||i.scriptovore.com^
 ||iazada.com^
 ||ib-ebanking.com^
 ||ibankingdigital.com^

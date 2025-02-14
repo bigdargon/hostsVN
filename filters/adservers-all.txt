@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Feb 2025 10:01 UTC+7
-! Version: 2502141001
-! Blocked: 8.966 rules
+! Last modified: 14 Feb 2025 10:16 UTC+7
+! Version: 2502141016
+! Blocked: 8.967 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -8540,6 +8540,7 @@
 ||uptolike.com^
 ||uptrendsdata.com^
 ||urechar.com^
+||urgerrebasis.com^
 ||urimnugocfr.com^
 ||urlcash.net^
 ||uruswan.com^
