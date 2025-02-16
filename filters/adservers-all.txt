@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 16 Feb 2025 16:02 UTC+7
-! Version: 2502161602
-! Blocked: 8.978 rules
+! Last modified: 16 Feb 2025 22:30 UTC+7
+! Version: 2502162230
+! Blocked: 8.980 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -6605,6 +6605,7 @@
 ||mpunuxpurs.com^
 ||mr-rank.de^
 ||mrskincash.com^
+||mrybahnw.com^
 ||mscoldness.com^
 ||msg-intl.qy.net^
 ||msg.qy.net^
@@ -8890,6 +8891,7 @@
 ||ybrantdigital.com^
 ||ybs2ffs7v.com^
 ||ychv8p3i5.com^
+||ycxajdcpesguqh.com^
 ||ydworld.com^
 ||yealnk.com^
 ||yesads.com^
