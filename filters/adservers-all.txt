@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 Feb 2025 17:21 UTC+7
-! Version: 2502151721
-! Blocked: 8.974 rules
+! Last modified: 16 Feb 2025 16:02 UTC+7
+! Version: 2502161602
+! Blocked: 8.978 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2380,6 +2380,7 @@
 ||propellerclick.com^
 ||proper.io^
 ||protagcdn.com^
+||proxy-skadnetwork.apple.com^
 ||pssy.xyz^
 ||ptengine.cn^
 ||ptengine.com^
@@ -5282,6 +5283,7 @@
 ||eghnybyvn.com^
 ||egistonemes.com^
 ||ehealthcaresolutions.com^
+||ehiibetu.com^
 ||ejyymghi.com^
 ||ekgloczbsblg.com^
 ||elasticchange.com^
@@ -5566,6 +5568,7 @@
 ||gaunchdelimes.com^
 ||gaut-hil.com^
 ||gayadnetwork.com^
+||gbbqyadej.com^
 ||gbqofs.com^
 ||gelclinchfranz.com^
 ||gemius.pl^
@@ -7786,6 +7789,7 @@
 ||shareadspace.com^
 ||shareasale.com^
 ||sharepointads.com^
+||shaughaupoo.net^
 ||shaughixefooz.net^
 ||shebudriftaiter.net^
 ||sheesoah.net^

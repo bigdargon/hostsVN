@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 15 Feb 2025 17:20 UTC+7
-! Version: 2502151720
-! Blocked: 4.709 rules
+! Last modified: 16 Feb 2025 16:02 UTC+7
+! Version: 2502161602
+! Blocked: 4.710 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -270,6 +270,7 @@
 ||bankvn1s.com^
 ||banthang.me^
 ||banvoucher-vn.weeblysite.com^
+||bao-moi.pro^
 ||baohanhdienmayxanhvn.com^
 ||baohiemvietinbank.com^
 ||baohiemxahoi.vnagov.com^
