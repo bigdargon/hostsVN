@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 16 Feb 2025 16:02 UTC+7
-# Version: 2502161602
-# Blocked: 93.661 domains
+# Last modified: 18 Feb 2025 09:41 UTC+7
+# Version: 2502180941
+# Blocked: 93.662 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -88602,6 +88602,7 @@
 0.0.0.0 www.chance.cz
 0.0.0.0 www.chicken88.me
 0.0.0.0 www.chicken88.xyz
+0.0.0.0 www.chplay-chrome.com
 0.0.0.0 www.cmd368.live
 0.0.0.0 www.cmd368.online
 0.0.0.0 www.cmd368t.com
