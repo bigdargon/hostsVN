@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 20 Feb 2025 10:44 UTC+7
-! Version: 2502201044
-! Blocked: 8.990 rules
+! Last modified: 20 Feb 2025 11:09 UTC+7
+! Version: 2502201109
+! Blocked: 8.992 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4105,6 +4105,7 @@
 ||at-adserver.alltop.com^
 ||at.adtech.redventures.io^
 ||atableofcup.com^
+||ataccwpdiqqnfl.com^
 ||aterroppop.com^
 ||athena-ads.wikia.com^
 ||ati-host.net^
@@ -6960,6 +6961,7 @@
 ||outsliggooa.com^
 ||outtimburrtor.com^
 ||outwoodeuropa.com^
+||ov.gumdropolena.com^
 ||overcrowdsillyturret.com^
 ||oversnubbulltor.com^
 ||overture.com^
