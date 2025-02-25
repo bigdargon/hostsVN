@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 Feb 2025 09:44 UTC+7
-# Version: 2502250944
-# Blocked: 18.176 domains
+# Last modified: 25 Feb 2025 14:03 UTC+7
+# Version: 2502251403
+# Blocked: 18.184 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11614,6 +11614,9 @@
 #[truste.com]
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 trackerapi.truste.com
+#[goadserver.com]
+0.0.0.0 go.goadserver.com
+0.0.0.0 goadserver.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14597,6 +14600,7 @@
 0.0.0.0 aps.hearstnp.com
 0.0.0.0 apture.com
 0.0.0.0 apusx.com
+0.0.0.0 apxszeaj.com
 0.0.0.0 apzdfakiso.com
 0.0.0.0 aq7ua5ma85rddeinve.com
 0.0.0.0 aqncinxrexa.com
@@ -15963,6 +15967,7 @@
 0.0.0.0 galaxien.com
 0.0.0.0 galepush.net
 0.0.0.0 galopelikeantelope.com
+0.0.0.0 gaseousgeneral.com
 0.0.0.0 gatetodisplaycontent.com
 0.0.0.0 gaunchdelimes.com
 0.0.0.0 gaut-hil.com
@@ -16031,6 +16036,7 @@
 0.0.0.0 go.padstm.com
 0.0.0.0 go.rmishe.com
 0.0.0.0 go.xlivrdr.com
+0.0.0.0 go1.reacheffecti.work
 0.0.0.0 go2affise.com
 0.0.0.0 go6shde9nj2itle.com
 0.0.0.0 goadservices.com
@@ -16802,6 +16808,7 @@
 0.0.0.0 mintegral.com
 0.0.0.0 mintrace.com
 0.0.0.0 mirohqodlf.com
+0.0.0.0 miserablenobody.com
 0.0.0.0 misguidedclotpensioner.com
 0.0.0.0 missitzantiot.com
 0.0.0.0 misstrends.com
@@ -18679,6 +18686,7 @@
 0.0.0.0 waufooke.com
 0.0.0.0 waust.at
 0.0.0.0 wauthaik.net
+0.0.0.0 waxa-direct.info
 0.0.0.0 waymarkgentiin.com
 0.0.0.0 wbilvnmool.com
 0.0.0.0 wcuamsmakq.com
@@ -18953,6 +18961,7 @@
 0.0.0.0 yougotacheck.com
 0.0.0.0 youradexchange.com
 0.0.0.0 yovqnwnmpzz.com
+0.0.0.0 ypmtvlaktm.com
 0.0.0.0 yqmxfz.com
 0.0.0.0 yrhnw7h63.com
 0.0.0.0 yrumdfslwabv.com
