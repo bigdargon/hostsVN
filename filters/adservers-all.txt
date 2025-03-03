@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 03 Mar 2025 09:44 UTC+7
-! Version: 2503030944
-! Blocked: 9.037 rules
+! Last modified: 03 Mar 2025 13:59 UTC+7
+! Version: 2503031359
+! Blocked: 9.039 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3875,6 +3875,7 @@
 ||akmxts.com^
 ||akuaba.chez.com^
 ||akunamapro.com^
+||akxopgjuw.com^
 ||alas4kanmfa6a4mubte.com^
 ||alclick.com^
 ||alebrinkfed.com^
@@ -5867,6 +5868,7 @@
 ||hotlog.ru^
 ||hotrank.com.tw^
 ||howdoesin.net^
+||hpdvgejc.com^
 ||hpikarkucasz.com^
 ||hpimavpico.com^
 ||hppvkbfcuq.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 02 Mar 2025 10:39 UTC+7
-# Version: 2503021039
-# Blocked: 4.338 domains
+# Last modified: 03 Mar 2025 13:59 UTC+7
+# Version: 2503031359
+# Blocked: 4.337 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1388,7 +1388,6 @@
 0.0.0.0 maivang.xyz
 0.0.0.0 mallshopvn.vip
 0.0.0.0 mallslazada.com
-0.0.0.0 maps-icloud.today
 0.0.0.0 master-visa-nang-hang-ca-nhan-vib.com
 0.0.0.0 mastercard-quetthetindung247.com
 0.0.0.0 mavietnam.xyz
