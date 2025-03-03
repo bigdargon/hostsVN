@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Mar 2025 10:40 UTC+7
-! Version: 2503021040
-! Blocked: 9.022 rules
+! Last modified: 03 Mar 2025 09:44 UTC+7
+! Version: 2503030944
+! Blocked: 9.037 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -923,6 +923,7 @@
 ||ab1n.net^
 ||abt.s3.yandex.net^
 ||abtasty.com^
+||abtest.alibaba.com^
 ||accesstrade.net^
 ||act.ds.kakao.com^
 ||acuityplatform.com^
@@ -972,6 +973,7 @@
 ||adashbc.m.taobao.com^
 ||adashbc.ut.taobao.com^
 ||adashx.m.taobao.com^
+||adashx.ut.alibaba.com^
 ||adashx.ut.taobao.com^
 ||adashx.ut.youku.com^
 ||adashx4ae.ut.taobao.com^
@@ -1143,6 +1145,7 @@
 ||adserver.bing.com^
 ||adserver.yahoo.com^
 ||adservercheck.net^
+||adservice.aliexpress.com^
 ||adservice.google.*^
 ||adservices.brandcdn.com^
 ||adservme.com^
@@ -1575,6 +1578,7 @@
 ||clevernt.com^
 ||clevertap-prod.com^
 ||clevertap.com^
+||click.aliexpress.com^
 ||clickadilla.com^
 ||clickagy.com^
 ||clickcdn.co^
@@ -1589,6 +1593,7 @@
 ||cloudfront-labs.amazonaws.com^
 ||cloudmobi.net^
 ||cm-exchange.toast.com^
+||cmap.alibaba.com^
 ||cnnx.io^
 ||cnt.my^
 ||cnt.trvdp.com^
@@ -1701,6 +1706,8 @@
 ||dlswbr.baidu.com^
 ||dm-event.net^
 ||dmpxs.com^
+||dmtracking.alibaba.com^
+||dmtracking2.alibaba.com^
 ||dmzjmp.com^
 ||domnovrek.com^
 ||doppler-reporting.cbsivideo.com^
@@ -1809,6 +1816,8 @@
 ||focas.jp^
 ||footprintdns.com^
 ||fouanalytics.com^
+||fourier.alibaba.com^
+||fourier.aliexpress.com^
 ||fourier.taobao.com^
 ||fout.jp^
 ||fp-cdn.azureedge.net^
@@ -1883,6 +1892,7 @@
 ||guardianapps.co.uk^
 ||gumgum.com^
 ||gvt2.com^
+||h-adashx.ut.alibaba.com^
 ||h-adashx.ut.taobao.com^
 ||h-adashx.ut.youku.com^
 ||h-adashx4ae.ut.taobao.com^
@@ -1919,6 +1929,7 @@
 ||hubvisor.io^
 ||hummingbird.mavencoalition.io^
 ||hwstats.unity3d.com^
+||hydra.alibaba.com^
 ||hyperpromote.com^
 ||i-mobile.co.jp^
 ||ia.51.la^
@@ -2203,6 +2214,7 @@
 ||mobpartner.mobi^
 ||mobytrks.com^
 ||modoro360.com^
+||moduleanalysis.aliexpress.com^
 ||mon.isnssdk.com^
 ||mon.snssdk.com^
 ||mon.tiktokv.com^
@@ -2310,6 +2322,7 @@
 ||pcapp-data-collect.youku.com^
 ||pclick.yahoo.com^
 ||pclk.name^
+||pcookie.aliexpress.com^
 ||pemsrv.com^
 ||pepperjam.com^
 ||perf-events.cloud.unity3d.com^
@@ -2585,6 +2598,7 @@
 ||startup-mobile.ap.yandex-net.ru^
 ||startup.mobile.yandex.net^
 ||stat-rock.com^
+||stat.alibaba.com^
 ||stat.e.tf.360.cn^
 ||stat.m.360.cn^
 ||stat.ovh^
@@ -3344,7 +3358,6 @@
 ||ads.advance.net^
 ||ads.adverline.com^
 ||ads.affiliates.match.com^
-||ads.alibaba.com^
 ||ads.allizom.org^
 ||ads.alt.com^
 ||ads.amdmb.com^
@@ -5165,8 +5178,6 @@
 ||dmp.starbolt.io^
 ||dmtgo.upc.biz^
 ||dmtracker.com^
-||dmtracking.alibaba.com^
-||dmtracking2.alibaba.com^
 ||dmxleo.com^
 ||dmxleo.dailymotion.com^
 ||dn0qt3r0xannq.cloudfront.net^
@@ -5562,6 +5573,7 @@
 ||fwilmdact.com^
 ||fxclix.com^
 ||fxstyle.net^
+||fyljifajkqe.com^
 ||fziwzaalp.com^
 ||g.3gl.net^
 ||g0push.com^
@@ -5632,6 +5644,7 @@
 ||glizauvo.net^
 ||gloalrie.com^
 ||gloaphoo.net^
+||gloarteegnu.com^
 ||global.ketchcdn.com^
 ||globalismedia.com^
 ||globaltakeoff.net^
@@ -5880,7 +5893,6 @@
 ||hxgqqxopf.com^
 ||hxpohplms.com^
 ||hybrid.ai^
-||hydra.alibaba.com^
 ||hydramedia.com^
 ||hydraulzonure.com^
 ||hypelab.com^
@@ -6194,6 +6206,7 @@
 ||ku42hjr2e.com^
 ||kueezrtb.com^
 ||kuglcibhyhuj.com^
+||kugmisawqo.com^
 ||kuno-gae.com^
 ||kupona.de^
 ||kuqfudazkn.com^
@@ -7700,6 +7713,7 @@
 ||safestgatetocontent.com^
 ||sageanalyst.net^
 ||saggrowledetc.com^
+||saigopooramee.net^
 ||sailif.com^
 ||saimifoa.net^
 ||saipsoan.net^
@@ -8946,6 +8960,7 @@
 ||yieldoptimizer.com^
 ||yieldtraffic.com^
 ||yiopse.com^
+||ykqcsawnlnvsgo.com^
 ||ylcziaipyztvv.com^
 ||yldbt.com^
 ||yllaris.com^

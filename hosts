@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Mar 2025 10:40 UTC+7
-# Version: 2503021040
-# Blocked: 18.195 domains
+# Last modified: 03 Mar 2025 09:44 UTC+7
+# Version: 2503030944
+# Blocked: 18.213 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -212,12 +212,14 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 region1.app-measurement.com
 #[gvt2.com]
+0.0.0.0 beacons-handoff.gcp.gvt2.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons2.gvt2.com
 0.0.0.0 beacons3.gvt2.com
 0.0.0.0 beacons4.gvt2.com
 0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons6.gvt2.com
 #[beacons*.gvt3.com]
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beacons6.gvt3.com
@@ -7087,6 +7089,25 @@
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 h-adashx4sg.ut.taobao.com
+#[alibaba.com]
+0.0.0.0 abtest.alibaba.com
+0.0.0.0 cmap.alibaba.com
+0.0.0.0 dmtracking.alibaba.com
+0.0.0.0 dmtracking2.alibaba.com
+0.0.0.0 fourier.alibaba.com
+0.0.0.0 hydra.alibaba.com
+0.0.0.0 stat.alibaba.com
+#[ut.alibaba.com]
+0.0.0.0 adashx.ut.alibaba.com
+0.0.0.0 h-adashx.ut.alibaba.com
+#[aliexpress.com]
+0.0.0.0 adservice.aliexpress.com
+0.0.0.0 fourier.aliexpress.com
+0.0.0.0 moduleanalysis.aliexpress.com
+0.0.0.0 pcookie.aliexpress.com
+#[click.aliexpress.com]
+0.0.0.0 click.aliexpress.com
+0.0.0.0 s.click.aliexpress.com
 #[instant.page]
 0.0.0.0 assets.instant.page
 0.0.0.0 instant.page
@@ -13982,7 +14003,6 @@
 0.0.0.0 ads.advance.net
 0.0.0.0 ads.adverline.com
 0.0.0.0 ads.affiliates.match.com
-0.0.0.0 ads.alibaba.com
 0.0.0.0 ads.allizom.org
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
@@ -15606,8 +15626,6 @@
 0.0.0.0 dlrioxg1637dk.cloudfront.net
 0.0.0.0 dmp.starbolt.io
 0.0.0.0 dmtracker.com
-0.0.0.0 dmtracking.alibaba.com
-0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dnemkhkbsdbl.com
@@ -15958,6 +15976,7 @@
 0.0.0.0 fwilmdact.com
 0.0.0.0 fxclix.com
 0.0.0.0 fxstyle.net
+0.0.0.0 fyljifajkqe.com
 0.0.0.0 fziwzaalp.com
 0.0.0.0 g0push.com
 0.0.0.0 ga-ads.com
@@ -16018,6 +16037,7 @@
 0.0.0.0 glizauvo.net
 0.0.0.0 gloalrie.com
 0.0.0.0 gloaphoo.net
+0.0.0.0 gloarteegnu.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
 0.0.0.0 globaltrack.com
@@ -16243,7 +16263,6 @@
 0.0.0.0 hxgqqxopf.com
 0.0.0.0 hxpohplms.com
 0.0.0.0 hybrid.ai
-0.0.0.0 hydra.alibaba.com
 0.0.0.0 hydramedia.com
 0.0.0.0 hydraulzonure.com
 0.0.0.0 hypelab.com
@@ -16520,6 +16539,7 @@
 0.0.0.0 ku42hjr2e.com
 0.0.0.0 kueezrtb.com
 0.0.0.0 kuglcibhyhuj.com
+0.0.0.0 kugmisawqo.com
 0.0.0.0 kuno-gae.com
 0.0.0.0 kupona.de
 0.0.0.0 kuqfudazkn.com
@@ -17844,6 +17864,7 @@
 0.0.0.0 safestgatetocontent.com
 0.0.0.0 sageanalyst.net
 0.0.0.0 saggrowledetc.com
+0.0.0.0 saigopooramee.net
 0.0.0.0 sailif.com
 0.0.0.0 saimifoa.net
 0.0.0.0 saipsoan.net
@@ -18957,6 +18978,7 @@
 0.0.0.0 yieldoptimizer.com
 0.0.0.0 yieldtraffic.com
 0.0.0.0 yiopse.com
+0.0.0.0 ykqcsawnlnvsgo.com
 0.0.0.0 ylcziaipyztvv.com
 0.0.0.0 yldbt.com
 0.0.0.0 yllaris.com
