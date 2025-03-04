@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 03 Mar 2025 13:59 UTC+7
-# Version: 2503031359
-# Blocked: 3.800 domains
+# Last modified: 04 Mar 2025 11:00 UTC+7
+# Version: 2503041100
+# Blocked: 3.801 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2729,6 +2729,7 @@
 0.0.0.0 tienve.thethaofb88.com
 0.0.0.0 tin.11bet.net
 0.0.0.0 tin010.com
+0.0.0.0 tin88.top
 0.0.0.0 tin888.club
 0.0.0.0 tinbongdaw88.com
 0.0.0.0 tintuc.vlott88.com
