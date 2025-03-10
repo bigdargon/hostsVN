@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 04 Mar 2025 11:00 UTC+7
-# Version: 2503041100
-# Blocked: 3.801 domains
+# Last modified: 10 Mar 2025 10:14 UTC+7
+# Version: 2503101014
+# Blocked: 3.804 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2117,7 +2117,9 @@
 0.0.0.0 nhatvip.us
 0.0.0.0 nnwud.com
 0.0.0.0 nohu.band
+0.0.0.0 nohu.win
 0.0.0.0 nohu35.com
+0.0.0.0 nohudoithuong.win
 0.0.0.0 nohuk8.info
 0.0.0.0 nosap.win
 0.0.0.0 nowbetvn.com
@@ -2603,6 +2605,7 @@
 0.0.0.0 tai.son.club
 0.0.0.0 tai.taisum2.com
 0.0.0.0 tai.vf88.win
+0.0.0.0 tai.win79.com
 0.0.0.0 tai.win79.pro
 0.0.0.0 tai.win79.vip
 0.0.0.0 tai567live.vip

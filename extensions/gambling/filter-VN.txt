@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 04 Mar 2025 11:00 UTC+7
-! Version: 2503041100
-! Blocked: 3.277 rules
+! Last modified: 10 Mar 2025 10:14 UTC+7
+! Version: 2503101014
+! Blocked: 3.280 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2125,7 +2125,9 @@
 ||nhatvip.us^
 ||nnwud.com^
 ||nohu.band^
+||nohu.win^
 ||nohu35.com^
+||nohudoithuong.win^
 ||nohuk8.info^
 ||nosap.win^
 ||nowbetvn.com^
@@ -2617,6 +2619,7 @@
 ||tai.son.club^
 ||tai.taisum2.com^
 ||tai.vf88.win^
+||tai.win79.com^
 ||tai.win79.pro^
 ||tai.win79.vip^
 ||tai567live.vip^

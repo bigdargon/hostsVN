@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Mar 2025 14:05 UTC+7
-# Version: 2503071405
-# Blocked: 18.254 domains
+# Last modified: 10 Mar 2025 10:14 UTC+7
+# Version: 2503101014
+# Blocked: 18.279 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10746,11 +10746,16 @@
 0.0.0.0 netu.wiztube.xyz
 0.0.0.0 wiztube.xyz
 0.0.0.0 www.wiztube.xyz
+#[avast.com]
+0.0.0.0 an.avast.com
+0.0.0.0 ans.avast.com
+0.0.0.0 mobile-campaigns.avast.com
+0.0.0.0 oms.avast.com
 #[ff.avast.com]
 0.0.0.0 analytics.ff.avast.com
-0.0.0.0 analytics-prod-gcp.ff.avast.com
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 shepherd.ff.avast.com
 #[stats.avast.com]
 0.0.0.0 stats.avast.com
 0.0.0.0 v7event.stats.avast.com
@@ -13835,6 +13840,7 @@
 0.0.0.0 ad6media.fr
 0.0.0.0 adacado.com
 0.0.0.0 adaction.de
+0.0.0.0 adaftegloomto.com
 0.0.0.0 adapt.tv
 0.0.0.0 adaptationreconsider.com
 0.0.0.0 adasiatagmanager.appspot.com
@@ -14502,6 +14508,7 @@
 0.0.0.0 aibsgc.com
 0.0.0.0 aickeebsi.com
 0.0.0.0 aiglaidra.com
+0.0.0.0 aigretsulaups.net
 0.0.0.0 aim4media.com
 0.0.0.0 aimaniape.club
 0.0.0.0 aiqidwcfrm.com
@@ -14970,6 +14977,7 @@
 0.0.0.0 bookpostponemoreover.com
 0.0.0.0 boom.ro
 0.0.0.0 boomads.com
+0.0.0.0 boozoomamesha.net
 0.0.0.0 bordeaux.futurecdn.net
 0.0.0.0 boredcrown.com
 0.0.0.0 boudja.com
@@ -15582,6 +15590,7 @@
 0.0.0.0 desertsfraze.com
 0.0.0.0 desirelibel.com
 0.0.0.0 despicablereporthusband.com
+0.0.0.0 destisheem.com
 0.0.0.0 detachmentoccasionedarena.com
 0.0.0.0 detailedgovernment.com
 0.0.0.0 detailedkitten.com
@@ -15934,6 +15943,7 @@
 0.0.0.0 flyingsquirellsmooch.com
 0.0.0.0 fnbauniukvi.com
 0.0.0.0 foliumumu.com
+0.0.0.0 foogeetoary.net
 0.0.0.0 fopteefteex.com
 0.0.0.0 for-j.com
 0.0.0.0 forearmthrobjanuary.com
@@ -15946,6 +15956,7 @@
 0.0.0.0 forlumineoner.com
 0.0.0.0 formalitydetached.com
 0.0.0.0 forshrd.com
+0.0.0.0 forspearowor.com
 0.0.0.0 forter.com
 0.0.0.0 fortvision.com
 0.0.0.0 fossorplumper.com
@@ -16037,6 +16048,7 @@
 0.0.0.0 gimoqwmikakv.com
 0.0.0.0 ginchoirblessed.com
 0.0.0.0 ginpithed.live
+0.0.0.0 girls-only.online
 0.0.0.0 gishejuy.com
 0.0.0.0 gk79a2oup.com
 0.0.0.0 gkbhrj49a.com
@@ -16168,6 +16180,7 @@
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 hasanjbam.com
+0.0.0.0 haufeechaukept.com
 0.0.0.0 hawkyeye5ssnd.com
 0.0.0.0 haxbyq.com
 0.0.0.0 hayforkminbu.com
@@ -16417,6 +16430,7 @@
 0.0.0.0 ipredictive.com
 0.0.0.0 ipro.com
 0.0.0.0 ipromote.com
+0.0.0.0 ipyefimivc.com
 0.0.0.0 iqm.com
 0.0.0.0 ireklama.cz
 0.0.0.0 irncdn.com
@@ -16525,6 +16539,7 @@
 0.0.0.0 ketchapp.org
 0.0.0.0 kgdvs9ov3l2aasw4nuts.com
 0.0.0.0 kgfjrb711.com
+0.0.0.0 kighoadouk.net
 0.0.0.0 kiklazopnqce.com
 0.0.0.0 kindads.com
 0.0.0.0 kindly-face.pro
@@ -16586,6 +16601,7 @@
 0.0.0.0 lassampy.com
 0.0.0.0 laughcloth.com
 0.0.0.0 laughedaffront.com
+0.0.0.0 lauloajaiph.net
 0.0.0.0 launchbit.com
 0.0.0.0 laxativestuckunclog.com
 0.0.0.0 layer-ad.de
@@ -16974,6 +16990,7 @@
 0.0.0.0 nan46ysangt28eec.com
 0.0.0.0 nangalupeose.com
 0.0.0.0 nappyattack.com
+0.0.0.0 nastedsuglu.com
 0.0.0.0 nastinessreplicaupload.com
 0.0.0.0 nastydollars.com
 0.0.0.0 nationalgausewatrust.com
@@ -17096,7 +17113,6 @@
 0.0.0.0 nygwcwsvnu.com
 0.0.0.0 nzaza.com
 0.0.0.0 nzurlmq.com
-0.0.0.0 o0bc.com
 0.0.0.0 o3sxhw5ad.com
 0.0.0.0 o4uxrk33.com
 0.0.0.0 oackoubs.com
@@ -17231,6 +17247,7 @@
 0.0.0.0 oranegfodnd.com
 0.0.0.0 orangeads.fr
 0.0.0.0 orbsclawand.com
+0.0.0.0 orcpfawzuvfe.com
 0.0.0.0 orest-vlv.com
 0.0.0.0 orfabfbu.com
 0.0.0.0 organicbonus.com
@@ -17393,6 +17410,7 @@
 0.0.0.0 pgpartner.com
 0.0.0.0 phaibeertou.com
 0.0.0.0 phamsacm.net
+0.0.0.0 phaubsunsi.com
 0.0.0.0 pheedo.com
 0.0.0.0 phicmune.net
 0.0.0.0 phinsebsou.com
@@ -17953,6 +17971,7 @@
 0.0.0.0 seeablywitness.com
 0.0.0.0 seedtag.com
 0.0.0.0 seekoflol.com
+0.0.0.0 seemoovojezy.net
 0.0.0.0 seethisinaction.com
 0.0.0.0 seguingjungled.com
 0.0.0.0 selectivesummer.com
@@ -18066,6 +18085,7 @@
 0.0.0.0 smetrics.walgreens.com
 0.0.0.0 smileoffennec.com
 0.0.0.0 smilingwaves.com
+0.0.0.0 smnyayzhv.com
 0.0.0.0 smopy.com
 0.0.0.0 smowtion.com
 0.0.0.0 smsecure-ad.com
@@ -18366,6 +18386,7 @@
 0.0.0.0 thor-pom.com
 0.0.0.0 thougnoangi.com
 0.0.0.0 thoungoofeed.net
+0.0.0.0 thounookra.com
 0.0.0.0 thripelbertie.website
 0.0.0.0 thruport.com
 0.0.0.0 thubanoa.com
@@ -18636,6 +18657,7 @@
 0.0.0.0 uzxkuwalnjp.com
 0.0.0.0 v6rxv5coo5.com
 0.0.0.0 vacationmonday.com
+0.0.0.0 vaitoasaut.net
 0.0.0.0 vaizeedy.com
 0.0.0.0 validclick.com
 0.0.0.0 valleyhouse.com
@@ -18716,6 +18738,7 @@
 0.0.0.0 vmuid.com
 0.0.0.0 vmweb.net
 0.0.0.0 vnwtjgaqlsui.com
+0.0.0.0 voakulophy.com
 0.0.0.0 voicedstart.com
 0.0.0.0 voopsookie.net
 0.0.0.0 voredi.com
@@ -18743,6 +18766,7 @@
 0.0.0.0 waeshana.com
 0.0.0.0 wagenerfevers.com
 0.0.0.0 wagersinging.com
+0.0.0.0 waigoakauhou.com
 0.0.0.0 wairowomoaps.com
 0.0.0.0 waisheph.com
 0.0.0.0 walkingtutor.com
@@ -18988,6 +19012,7 @@
 0.0.0.0 xq1.net
 0.0.0.0 xrea.com
 0.0.0.0 xruamzpanbca.com
+0.0.0.0 xsaeafkfilbcur.com
 0.0.0.0 xszpuvwr7.com
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtremeserve.xyz
@@ -19130,6 +19155,7 @@
 0.0.0.0 analytics.alright.network
 0.0.0.0 analytics.amazing-media.com
 0.0.0.0 analytics.archive.org
+0.0.0.0 analytics.avcdn.net
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.ccgateway.net
 0.0.0.0 analytics.cdn.live
