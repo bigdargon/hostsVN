@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 10 Mar 2025 10:14 UTC+7
-# Version: 2503101014
-# Blocked: 3.804 domains
+# Last modified: 12 Mar 2025 14:04 UTC+7
+# Version: 2503121404
+# Blocked: 3.807 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -305,6 +305,7 @@
 0.0.0.0 92lottery.com
 0.0.0.0 92lottery.mobi
 0.0.0.0 989bet.com
+0.0.0.0 98win.com
 0.0.0.0 9911789.com
 0.0.0.0 9966789.com
 0.0.0.0 99994y.com
@@ -3005,6 +3006,8 @@
 0.0.0.0 vsports88.com
 0.0.0.0 vstar79.com
 0.0.0.0 vua2.club
+0.0.0.0 vua88.app
+0.0.0.0 vua88.biz
 0.0.0.0 vua88.club
 0.0.0.0 vuabai9.com
 0.0.0.0 vuabai9vn.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 10 Mar 2025 10:14 UTC+7
-! Version: 2503101014
-! Blocked: 3.280 rules
+! Last modified: 12 Mar 2025 14:04 UTC+7
+! Version: 2503121404
+! Blocked: 3.283 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -306,6 +306,7 @@
 ||92lottery.com^
 ||92lottery.mobi^
 ||989bet.com^
+||98win.com^
 ||9911789.com^
 ||9966789.com^
 ||99994y.com^
@@ -3022,6 +3023,8 @@
 ||vsports88.com^
 ||vstar79.com^
 ||vua2.club^
+||vua88.app^
+||vua88.biz^
 ||vua88.club^
 ||vuabai9.com^
 ||vuabai9vn.com^
