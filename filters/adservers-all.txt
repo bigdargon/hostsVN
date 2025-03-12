@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 Mar 2025 14:04 UTC+7
-! Version: 2503121404
-! Blocked: 9.103 rules
+! Last modified: 12 Mar 2025 23:02 UTC+7
+! Version: 2503122302
+! Blocked: 9.105 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4157,6 +4157,7 @@
 ||auto-bannertausch.de^
 ||automatedrepsturmoil.com^
 ||avalancheofnews.com^
+||aveguijdwp.com^
 ||avehistoric.com^
 ||avenaryconcent.com^
 ||avenuea.com^
@@ -8874,6 +8875,7 @@
 ||wellmadefrog.com^
 ||werbung.meteoxpress.com^
 ||wetrack.it^
+||weuppwrlcper.com^
 ||wfuhkyardawh.com^
 ||whairtoa.com^
 ||whaleads.com^
