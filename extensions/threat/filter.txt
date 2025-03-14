@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 12 Mar 2025 23:01 UTC+7
-! Version: 2503122301
-! Blocked: 4.710 rules
+! Last modified: 14 Mar 2025 11:08 UTC+7
+! Version: 2503141108
+! Blocked: 4.719 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -11,6 +11,7 @@
 ||010172.com^
 ||08ro35delw.ru^
 ||0fb.co^
+||0fb.info^
 ||0fb.ltd^
 ||113-bca.online^
 ||11promax.xakhohangtrungbay.site^
@@ -796,6 +797,8 @@
 ||expressmoney.cc^
 ||facabook.id.vn^
 ||face-book.co^
+||faceb.me^
+||faceb.pro^
 ||faceb00k.com.vn^
 ||facebook.c0m.ltd^
 ||facebook10002158.blogspot.com^
@@ -831,6 +834,7 @@
 ||fe-shop.cc^
 ||fe.lwcvn.com^
 ||feacbookk.com^
+||fecabooke.com^
 ||fecabookk.com^
 ||fefqkn.org^
 ||ff-garena-membership-2021.com^
@@ -2352,6 +2356,7 @@
 ||proapkcrack.com^
 ||procfullcracked.com^
 ||procrackfree.com^
+||profile-id.co^
 ||profileid.info^
 ||profileid.site^
 ||prolicensekeys.com^
@@ -3538,6 +3543,7 @@
 ||tinlequa365.com^
 ||tinlocvang123.com^
 ||tinnhanh24gio.com^
+||tinnong.info^
 ||tinnong.xyz^
 ||tinsukien2021vn.com^
 ||tinthuongtrian.com^
@@ -3549,6 +3555,7 @@
 ||tintrian2022.com^
 ||tintuc-24h.com^
 ||tintucnganhang.fun^
+||tintucnhanh.online^
 ||tinvay.vn^
 ||tinvietttt.com^
 ||titki55.cc^
@@ -4221,6 +4228,7 @@
 ||vip-dienmayxanh.com^
 ||vip.jaccsvn.com^
 ||vip.tpbank84.com^
+||vip1-droppii.com^
 ||vip8591.net^
 ||vipcard-vib.com^
 ||vipgooshop.com^
@@ -4267,6 +4275,7 @@
 ||vn-eid.com^
 ||vn-email.shop^
 ||vn-express.net^
+||vn-exprress.site^
 ||vn-findmy.com^
 ||vn-hc.info^
 ||vn-i.cloud^

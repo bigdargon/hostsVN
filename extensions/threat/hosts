@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 12 Mar 2025 23:01 UTC+7
-# Version: 2503122301
-# Blocked: 4.781 domains
+# Last modified: 14 Mar 2025 11:08 UTC+7
+# Version: 2503141108
+# Blocked: 4.790 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14,6 +14,7 @@
 0.0.0.0 010172.com
 0.0.0.0 08ro35delw.ru
 0.0.0.0 0fb.co
+0.0.0.0 0fb.info
 0.0.0.0 0fb.ltd
 0.0.0.0 113-bca.online
 0.0.0.0 11promax.xakhohangtrungbay.site
@@ -795,6 +796,8 @@
 0.0.0.0 expressmoney.cc
 0.0.0.0 facabook.id.vn
 0.0.0.0 face-book.co
+0.0.0.0 faceb.me
+0.0.0.0 faceb.pro
 0.0.0.0 faceb00k.com.vn
 0.0.0.0 facebook.c0m.ltd
 0.0.0.0 facebook10002158.blogspot.com
@@ -830,6 +833,7 @@
 0.0.0.0 fe-shop.cc
 0.0.0.0 fe.lwcvn.com
 0.0.0.0 feacbookk.com
+0.0.0.0 fecabooke.com
 0.0.0.0 fecabookk.com
 0.0.0.0 fefqkn.org
 0.0.0.0 ff-garena-membership-2021.com
@@ -2345,6 +2349,7 @@
 0.0.0.0 proapkcrack.com
 0.0.0.0 procfullcracked.com
 0.0.0.0 procrackfree.com
+0.0.0.0 profile-id.co
 0.0.0.0 profileid.info
 0.0.0.0 profileid.site
 0.0.0.0 prolicensekeys.com
@@ -3528,6 +3533,7 @@
 0.0.0.0 tinlequa365.com
 0.0.0.0 tinlocvang123.com
 0.0.0.0 tinnhanh24gio.com
+0.0.0.0 tinnong.info
 0.0.0.0 tinnong.xyz
 0.0.0.0 tinsukien2021vn.com
 0.0.0.0 tinthuongtrian.com
@@ -3539,6 +3545,7 @@
 0.0.0.0 tintrian2022.com
 0.0.0.0 tintuc-24h.com
 0.0.0.0 tintucnganhang.fun
+0.0.0.0 tintucnhanh.online
 0.0.0.0 tinvay.vn
 0.0.0.0 tinvietttt.com
 0.0.0.0 titki55.cc
@@ -4211,6 +4218,7 @@
 0.0.0.0 vip-dienmayxanh.com
 0.0.0.0 vip.jaccsvn.com
 0.0.0.0 vip.tpbank84.com
+0.0.0.0 vip1-droppii.com
 0.0.0.0 vip8591.net
 0.0.0.0 vipcard-vib.com
 0.0.0.0 vipgooshop.com
@@ -4257,6 +4265,7 @@
 0.0.0.0 vn-eid.com
 0.0.0.0 vn-email.shop
 0.0.0.0 vn-express.net
+0.0.0.0 vn-exprress.site
 0.0.0.0 vn-findmy.com
 0.0.0.0 vn-hc.info
 0.0.0.0 vn-i.cloud
