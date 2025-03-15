@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Mar 2025 11:08 UTC+7
-! Version: 2503141108
-! Blocked: 9.113 rules
+! Last modified: 15 Mar 2025 16:34 UTC+7
+! Version: 2503151634
+! Blocked: 9.116 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -977,7 +977,6 @@
 ||adashx.ut.taobao.com^
 ||adashx.ut.youku.com^
 ||adashx4ae.ut.taobao.com^
-||adashx4sg.ut.taobao.com^
 ||adashxgc.ut.taobao.com^
 ||adblade.com^
 ||adbottw.net^
@@ -1897,7 +1896,6 @@
 ||h-adashx.ut.taobao.com^
 ||h-adashx.ut.youku.com^
 ||h-adashx4ae.ut.taobao.com^
-||h-adashx4sg.ut.taobao.com^
 ||hads*s.com^
 ||havasedge.com^
 ||hb.yahoo.net^
@@ -3856,6 +3854,7 @@
 ||aheadday.com^
 ||ahkoqzxuzsf.com^
 ||ahlcujguphr.com^
+||ahqatjakvac.com^
 ||ahscdn.com^
 ||ahtomjpzymf.com^
 ||aibsgc.com^
@@ -5265,6 +5264,7 @@
 ||dyntrk.com^
 ||dyv1bugovvq1g.cloudfront.net^
 ||dzienkudrow.com^
+||dzvuvtwbp.com^
 ||e-bannerx.com^
 ||e-m.fr^
 ||e-ssl.apsalar.com^
@@ -5701,6 +5701,7 @@
 ||go.rmishe.com^
 ||go.xlivrdr.com^
 ||go1.reacheffecti.work^
+||go1.yare.work^
 ||go2affise.com^
 ||go6shde9nj2itle.com^
 ||goadservices.com^
@@ -5897,6 +5898,7 @@
 ||hostnetadv.site^
 ||hotlog.ru^
 ||hotrank.com.tw^
+||houptaupaiho.net^
 ||howdoesin.net^
 ||hpdvgejc.com^
 ||hpikarkucasz.com^
@@ -8697,6 +8699,7 @@
 ||utubepwhml.com^
 ||uuomdlaslopcrx.com^
 ||uwoaptee.com^
+||uxumhgvends.com^
 ||uyunad.com^
 ||uzxkuwalnjp.com^
 ||v6rxv5coo5.com^

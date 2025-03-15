@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 14 Mar 2025 11:08 UTC+7
-! Version: 2503141108
-! Blocked: 4.279 rules
+! Last modified: 15 Mar 2025 16:27 UTC+7
+! Version: 2503151627
+! Blocked: 4.280 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1950,6 +1950,7 @@
 ||nzx65821s.com^
 ||ocb.chamsocthekhachhang-uudai-tructuyen-thang9.com.vn^
 ||ocb.chamsocthekhachhang-uudai-tructuyen.com^
+||offb.info^
 ||oivay.app^
 ||oivay.vip^
 ||onhamuadich.com^
