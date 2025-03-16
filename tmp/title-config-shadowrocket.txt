@@ -7,7 +7,7 @@ dns-server = tls://dns.nextdns.io
 #dns-server = quic://dns.nextdns.io
 fallback-dns-server = 9.9.9.11,208.67.222.222,2620:fe::11,2620:119:35::35
 ipv6 = true
-prefer-ipv6 = true
+prefer-ipv6 = false
 private-ip-answer = true
 update-url = https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-shadowrocket.conf
 
