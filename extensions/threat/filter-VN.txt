@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 16 Mar 2025 13:58 UTC+7
-! Version: 2503161358
-! Blocked: 4.280 rules
+! Last modified: 18 Mar 2025 09:43 UTC+7
+! Version: 2503180943
+! Blocked: 4.281 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2961,6 +2961,7 @@
 ||tetlienquan.com^
 ||tetlienquan2023.website^
 ||tetquatang.vn^
+||tffqv.bhszc.de^
 ||tfi1233.com^
 ||tfi6678.com^
 ||thang365g.com^
