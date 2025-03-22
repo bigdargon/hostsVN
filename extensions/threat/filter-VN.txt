@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 18 Mar 2025 23:48 UTC+7
-! Version: 2503182348
-! Blocked: 4.282 rules
+! Last modified: 22 Mar 2025 17:16 UTC+7
+! Version: 2503221716
+! Blocked: 4.284 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1047,6 +1047,7 @@
 ||icloud.support^
 ||icloudhelp.com^
 ||icloudvi.com^
+||icswdocmv.on-ke.tech^
 ||id-icloud.com^
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
 ||idapple.com^
@@ -4278,6 +4279,7 @@
 ||zeroshop.cc^
 ||zingmp3.pro^
 ||zingshop.net^
+||zkika.okyla.de^
 ||zla653.top^
 ||zla963.top^
 ||zloweb.me^

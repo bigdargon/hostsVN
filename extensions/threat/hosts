@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 18 Mar 2025 23:48 UTC+7
-# Version: 2503182348
-# Blocked: 4.793 domains
+# Last modified: 22 Mar 2025 17:16 UTC+7
+# Version: 2503221716
+# Blocked: 4.795 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1257,6 +1257,7 @@
 0.0.0.0 icloud.support
 0.0.0.0 icloudhelp.com
 0.0.0.0 icloudvi.com
+0.0.0.0 icswdocmv.on-ke.tech
 0.0.0.0 id-icloud.com
 0.0.0.0 id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
 0.0.0.0 idapple.com
@@ -4790,6 +4791,7 @@
 0.0.0.0 zeroshop.cc
 0.0.0.0 zingmp3.pro
 0.0.0.0 zingshop.net
+0.0.0.0 zkika.okyla.de
 0.0.0.0 zla653.top
 0.0.0.0 zla963.top
 0.0.0.0 zloweb.me
