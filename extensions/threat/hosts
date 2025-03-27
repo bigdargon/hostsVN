@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 22 Mar 2025 17:16 UTC+7
-# Version: 2503221716
-# Blocked: 4.795 domains
+# Last modified: 27 Mar 2025 22:59 UTC+7
+# Version: 2503272259
+# Blocked: 4.800 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -16,6 +16,7 @@
 0.0.0.0 0fb.co
 0.0.0.0 0fb.info
 0.0.0.0 0fb.ltd
+0.0.0.0 1125bgg.teknikad.com
 0.0.0.0 113-bca.online
 0.0.0.0 11promax.xakhohangtrungbay.site
 0.0.0.0 11tiki.com
@@ -1254,6 +1255,7 @@
 0.0.0.0 ibankingshopee.vn
 0.0.0.0 ibkbank.net
 0.0.0.0 ibmgroup.co.uk
+0.0.0.0 icloud-vietnam.info
 0.0.0.0 icloud.support
 0.0.0.0 icloudhelp.com
 0.0.0.0 icloudvi.com
@@ -2527,6 +2529,7 @@
 0.0.0.0 sadm26.com
 0.0.0.0 saifcrack.com
 0.0.0.0 salu.gq
+0.0.0.0 samcenter-vn.com
 0.0.0.0 sandealshopee.com
 0.0.0.0 sanduon.com
 0.0.0.0 sanmomo.me
@@ -4694,6 +4697,7 @@
 0.0.0.0 www.lottevn999.com
 0.0.0.0 www.lottevn9999.com
 0.0.0.0 www.naptheffx2.com
+0.0.0.0 www.samcenter-vn.com
 0.0.0.0 www.sc0mvn.com
 0.0.0.0 www.seleeashopee.com
 0.0.0.0 www.sgxcoin.net
@@ -4764,6 +4768,7 @@
 0.0.0.0 xn--shopmllutv-cx3e.vn
 0.0.0.0 xn--shoptienzombe-mw2g.vn
 0.0.0.0 xn--shptruongstar-4w2g.com
+0.0.0.0 xn--wvvw-icoud-rw3e.com
 0.0.0.0 xnqwuwlq.org
 0.0.0.0 xosomomo.co
 0.0.0.0 xosomomo.me

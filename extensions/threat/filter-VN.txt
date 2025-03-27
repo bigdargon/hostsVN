@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 22 Mar 2025 17:16 UTC+7
-! Version: 2503221716
-! Blocked: 4.284 rules
+! Last modified: 27 Mar 2025 22:59 UTC+7
+! Version: 2503272259
+! Blocked: 4.288 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -11,6 +11,7 @@
 ||0fb.co^
 ||0fb.info^
 ||0fb.ltd^
+||1125bgg.teknikad.com^
 ||113-bca.online^
 ||11promax.xakhohangtrungbay.site^
 ||11tiki.com^
@@ -1044,6 +1045,7 @@
 ||ibankingshopee.vn^
 ||ibkbank.net^
 ||ibmgroup.co.uk^
+||icloud-vietnam.info^
 ||icloud.support^
 ||icloudhelp.com^
 ||icloudvi.com^
@@ -2190,6 +2192,7 @@
 ||sacombankvn.com^
 ||sadm26.com^
 ||salu.gq^
+||samcenter-vn.com^
 ||sandealshopee.com^
 ||sanduon.com^
 ||sanmomo.me^
@@ -4263,6 +4266,7 @@
 ||xn--shopmllutv-cx3e.vn^
 ||xn--shoptienzombe-mw2g.vn^
 ||xn--shptruongstar-4w2g.com^
+||xn--wvvw-icoud-rw3e.com^
 ||xosomomo.co^
 ||xosomomo.me^
 ||xskttd5d.com^
