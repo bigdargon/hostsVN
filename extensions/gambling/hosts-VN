@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 31 Mar 2025 10:39 UTC+7
-# Version: 2503311039
-# Blocked: 3.822 domains
+# Last modified: 02 Apr 2025 10:11 UTC+7
+# Version: 2504021011
+# Blocked: 3.823 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2282,6 +2282,7 @@
 0.0.0.0 qc.choidabanh.com
 0.0.0.0 qc.choigametip.org
 0.0.0.0 qc.conggiaitri.com
+0.0.0.0 qc.fa88.tv
 0.0.0.0 qc.gem.win
 0.0.0.0 qc.hitpro.run
 0.0.0.0 qc.mibet.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 31 Mar 2025 10:39 UTC+7
-! Version: 2503311039
-! Blocked: 4.728 rules
+! Last modified: 02 Apr 2025 10:11 UTC+7
+! Version: 2504021011
+! Blocked: 4.730 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -473,6 +473,7 @@
 ||clubleadershipsolutions.com^
 ||clzl.pro^
 ||cmvietcombank.com^
+||cn.hothue.top^
 ||cnaptheaz.com^
 ||cnvietcombank.com^
 ||codb2b.shop^
@@ -4338,6 +4339,7 @@
 ||vn-vongquaylol.cf^
 ||vn-vp.xyz^
 ||vn.btaynguyenfood.com^
+||vn.hothue.top^
 ||vn.vnhao123.xyz^
 ||vn11268shp.com^
 ||vn11568p.com^
