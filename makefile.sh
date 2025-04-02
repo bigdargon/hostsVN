@@ -181,6 +181,8 @@ create_json_array() {
 
 # begin write json file
 echo "{" > "$output_file"
+echo "  \"updated\": \"$TIME_STAMP UTC+7\"," >> "$output_file"
+echo "  \"version\": \"$VERSION\"," >> "$output_file"
 
 # add domain to json file
 create_json_array "ads&trackingVN" source/hosts-VN-group.txt source/hosts-VN.txt >> "$output_file"

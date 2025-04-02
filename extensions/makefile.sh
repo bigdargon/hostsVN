@@ -123,6 +123,14 @@ cat tmp/title-hosts-adult-VN.tmp tmp/adult-hosts-VN.tmp > adult/hosts-VN
 cat tmp/title-hosts-gambling-VN.tmp tmp/gambling-hosts-VN.tmp > gambling/hosts-VN
 cat tmp/title-hosts-threat-VN.tmp tmp/threat-hosts-VN.tmp > threat/hosts-VN
 
+# create domain file
+cat adult/hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' > adult/domain.txt
+cat gambling/hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' > gambling/domain.txt
+cat threat/hosts | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' > threat/domain.txt
+cat adult/hosts-VN | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' > adult/domain-VN.txt
+cat gambling/hosts-VN | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' > gambling/domain-VN.txt
+cat threat/hosts-VN | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print $2}' > threat/domain-VN.txt
+
 # create ip files
 cat source/ip-adult.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | sort -n > ip/adult.txt
 cat source/ip-gambling.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | sort -n > ip/gambling.txt
