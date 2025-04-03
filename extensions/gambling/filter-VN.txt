@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 02 Apr 2025 10:48 UTC+7
-! Version: 2504021048
-! Blocked: 3.299 rules
+! Last modified: 03 Apr 2025 14:58 UTC+7
+! Version: 2504031458
+! Blocked: 3.300 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2886,6 +2886,7 @@
 ||v9jbo.com^
 ||v9jvn.com^
 ||v9win.com^
+||va88.com^
 ||vao.luky88.me^
 ||vao789club.win^
 ||vaob52.click^
