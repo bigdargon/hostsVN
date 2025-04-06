@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 06 Apr 2025 17:11 UTC+7
-! Version: 2504061711
-! Blocked: 3.304 rules
+! Last modified: 06 Apr 2025 17:20 UTC+7
+! Version: 2504061720
+! Blocked: 3.306 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -835,6 +835,7 @@
 ||dangky.go88.com^
 ||dangky.iwin.bio^
 ||dangky.thethaofb88.com^
+||dangky.thethaovb88.biz^
 ||dangky.tysoeuro.online^
 ||dangky388bet.xyz^
 ||dangky789.vin^
@@ -2746,6 +2747,7 @@
 ||thethaofi88.com^
 ||thethaouk88.org^
 ||thethaova88.club^
+||thethaovb88.biz^
 ||thethaovin88.info^
 ||thethaovip.vip^
 ||thethaovua.co^

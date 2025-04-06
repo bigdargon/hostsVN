@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 06 Apr 2025 17:11 UTC+7
-# Version: 2504061711
-# Blocked: 3.828 domains
+# Last modified: 06 Apr 2025 17:20 UTC+7
+# Version: 2504061720
+# Blocked: 3.830 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -831,6 +831,7 @@
 0.0.0.0 dangky.go88.com
 0.0.0.0 dangky.iwin.bio
 0.0.0.0 dangky.thethaofb88.com
+0.0.0.0 dangky.thethaovb88.biz
 0.0.0.0 dangky.tysoeuro.online
 0.0.0.0 dangky388bet.xyz
 0.0.0.0 dangky789.vin
@@ -2732,6 +2733,7 @@
 0.0.0.0 thethaofi88.com
 0.0.0.0 thethaouk88.org
 0.0.0.0 thethaova88.club
+0.0.0.0 thethaovb88.biz
 0.0.0.0 thethaovin88.info
 0.0.0.0 thethaovip.vip
 0.0.0.0 thethaovua.co
