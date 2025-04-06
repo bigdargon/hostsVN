@@ -162,6 +162,7 @@ payload:
   - DOMAIN-SUFFIX,log.news.zing.vn
   - DOMAIN-SUFFIX,log.thanhnien.vn
   - DOMAIN-SUFFIX,log.tv.zing.vn
+  - DOMAIN-SUFFIX,log.tv360.vn
   - DOMAIN-SUFFIX,log.vietnamplus.vn
   - DOMAIN-SUFFIX,log.zalo.video
   - DOMAIN-SUFFIX,log.zingmp3.vn
@@ -229,6 +230,7 @@ payload:
   - DOMAIN-SUFFIX,promotionbar.sapoapps.vn
   - DOMAIN-SUFFIX,promotionpopup.sapoapps.vn
   - DOMAIN-SUFFIX,pub.akadigital.vn
+  - DOMAIN-SUFFIX,pubads-wiinvent.tv360.vn
   - DOMAIN-SUFFIX,public-gcs.subiz-cdn.com
   - DOMAIN-SUFFIX,pushdi.com
   - DOMAIN-SUFFIX,pushdy.com
@@ -656,7 +658,6 @@ payload:
   - DOMAIN-SUFFIX,log.tinnhac.com
   - DOMAIN-SUFFIX,log.tinnhanhchungkhoan.vn
   - DOMAIN-SUFFIX,log.tinxe.vn
-  - DOMAIN-SUFFIX,log.tv360.vn
   - DOMAIN-SUFFIX,log.viettimes.vn
   - DOMAIN-SUFFIX,log.vnay.vn
   - DOMAIN-SUFFIX,log.vneconomy.vn
@@ -2762,7 +2763,7 @@ payload:
   - DOMAIN-SUFFIX,ugdturner.com
   - DOMAIN-SUFFIX,uid.mavencoalition.io
   - DOMAIN-SUFFIX,ujm.hansel.io
-  - DOMAIN-SUFFIX,umdc.aliapp.org
+  - DOMAIN-SUFFIX,aso1.net
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,umengacs.m.taobao.com
   - DOMAIN-SUFFIX,umengcloud.com
@@ -2899,7 +2900,6 @@ payload:
   - DOMAIN-SUFFIX,yllix.com
   - DOMAIN-SUFFIX,ylog.hiido.com
   - DOMAIN-SUFFIX,ylog.nimo.tv
-  - DOMAIN-SUFFIX,ynuf.aliapp.org
   - DOMAIN-SUFFIX,yodimedia.com
   - DOMAIN-SUFFIX,yomeno.xyz
   - DOMAIN-SUFFIX,youbora.com
@@ -4117,7 +4117,6 @@ payload:
   - DOMAIN-SUFFIX,asiacpx.com
   - DOMAIN-SUFFIX,aslau-cre.info
   - DOMAIN-SUFFIX,asnwish.com
-  - DOMAIN-SUFFIX,aso1.net
   - DOMAIN-SUFFIX,asp.animelab.com
   - DOMAIN-SUFFIX,aspiringtoy.com
   - DOMAIN-SUFFIX,assets.purch.com
@@ -5673,6 +5672,7 @@ payload:
   - DOMAIN-SUFFIX,getsthis.com
   - DOMAIN-SUFFIX,getwisdom.io
   - DOMAIN-SUFFIX,gf.umenglog.com
+  - DOMAIN-SUFFIX,gfugafoz.com
   - DOMAIN-SUFFIX,ggimg.tapas.net
   - DOMAIN-SUFFIX,ggreatstuff.com
   - DOMAIN-SUFFIX,ggz48pxys.com
@@ -6692,6 +6692,7 @@ payload:
   - DOMAIN-SUFFIX,mobhero.com
   - DOMAIN-SUFFIX,mobilda.com
   - DOMAIN-SUFFIX,mobile-ent.biz
+  - DOMAIN-SUFFIX,mobile-events.eservice.emarsys.net
   - DOMAIN-SUFFIX,mobile.confsettings.com
   - DOMAIN-SUFFIX,mobileactive.com
   - DOMAIN-SUFFIX,mobilecore.com
@@ -7532,6 +7533,7 @@ payload:
   - DOMAIN-SUFFIX,pwieu.com
   - DOMAIN-SUFFIX,pwmctl.com
   - DOMAIN-SUFFIX,pwysruffoza.com
+  - DOMAIN-SUFFIX,px.effirst.com
   - DOMAIN-SUFFIX,pxlctl.elpais.com
   - DOMAIN-SUFFIX,pymx5.com
   - DOMAIN-SUFFIX,pyxiscablese.com
@@ -7562,6 +7564,7 @@ payload:
   - DOMAIN-SUFFIX,qquhzi4f3.com
   - DOMAIN-SUFFIX,qrodufobzbav.com
   - DOMAIN-SUFFIX,qruqon.com
+  - DOMAIN-SUFFIX,qtoeofqazggu.com
   - DOMAIN-SUFFIX,qtpwgglrohgp.com
   - DOMAIN-SUFFIX,qtspkqzn.com
   - DOMAIN-SUFFIX,quaintcan.com

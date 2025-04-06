@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Apr 2025 09:44 UTC+7
-! Version: 2504040944
-! Blocked: 9.222 rules
+! Last modified: 06 Apr 2025 17:11 UTC+7
+! Version: 2504061711
+! Blocked: 9.225 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -169,6 +169,7 @@
 ||log.news.zing.vn^
 ||log.thanhnien.vn^
 ||log.tv.zing.vn^
+||log.tv360.vn^
 ||log.vietnamplus.vn^
 ||log.zalo.video^
 ||log.zingmp3.vn^
@@ -236,6 +237,7 @@
 ||promotionbar.sapoapps.vn^
 ||promotionpopup.sapoapps.vn^
 ||pub.akadigital.vn^
+||pubads-wiinvent.tv360.vn^
 ||public-gcs.subiz-cdn.com^
 ||pushdi.com^
 ||pushdy.com^
@@ -663,7 +665,6 @@
 ||log.tinnhac.com^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
-||log.tv360.vn^
 ||log.viettimes.vn^
 ||log.vnay.vn^
 ||log.vneconomy.vn^
@@ -2769,7 +2770,7 @@
 ||ugdturner.com^
 ||uid.mavencoalition.io^
 ||ujm.hansel.io^
-||umdc.aliapp.org^
+||aso1.net^
 ||umeng.com^
 ||umengacs.m.taobao.com^
 ||umengcloud.com^
@@ -2906,7 +2907,6 @@
 ||yllix.com^
 ||ylog.hiido.com^
 ||ylog.nimo.tv^
-||ynuf.aliapp.org^
 ||yodimedia.com^
 ||yomeno.xyz^
 ||youbora.com^
@@ -4124,7 +4124,6 @@
 ||asiacpx.com^
 ||aslau-cre.info^
 ||asnwish.com^
-||aso1.net^
 ||asp.animelab.com^
 ||aspiringtoy.com^
 ||assets.purch.com^
@@ -5680,6 +5679,7 @@
 ||getsthis.com^
 ||getwisdom.io^
 ||gf.umenglog.com^
+||gfugafoz.com^
 ||ggimg.tapas.net^
 ||ggreatstuff.com^
 ||ggz48pxys.com^
@@ -6699,6 +6699,7 @@
 ||mobhero.com^
 ||mobilda.com^
 ||mobile-ent.biz^
+||mobile-events.eservice.emarsys.net^
 ||mobile.confsettings.com^
 ||mobileactive.com^
 ||mobilecore.com^
@@ -7539,6 +7540,7 @@
 ||pwieu.com^
 ||pwmctl.com^
 ||pwysruffoza.com^
+||px.effirst.com^
 ||pxlctl.elpais.com^
 ||pymx5.com^
 ||pyxiscablese.com^
@@ -7569,6 +7571,7 @@
 ||qquhzi4f3.com^
 ||qrodufobzbav.com^
 ||qruqon.com^
+||qtoeofqazggu.com^
 ||qtpwgglrohgp.com^
 ||qtspkqzn.com^
 ||quaintcan.com^

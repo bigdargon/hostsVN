@@ -1,41 +1,44 @@
 #all
-^https?:\/\/(\w+\.)?(adclick|ads([0-9]+)?|adx|adserver|adformat|analysis|analytics|banners?|click|counter|delivery|log|log-?\w+?|pagead|stat|stats|statis|trace|track|tracking|uniad)\.\w+\.(com|cn|org|info|io|net|vn|com.vn)
+^https?:\/\/(\w+\.)?(adclick|ads([0-9]+)?|adx|adserver|adformat|analysis|analytics|banners?|click|counter|delivery|log|pagead|stat|stats|statis|trace|track|tracking|uniad)\.\w+\.(com|cn|org|info|io|net|vn|com.vn)
 
 
 #facebook
-^https?://graph.facebook.com/.+activities
-^https?://graph.facebook.com/.+advertiser
-^https?://graph.facebook.com/.+events
-^https?://graph.facebook.com/.+metrics
-^https?://graph.facebook.com/.+mobile_sdk_gk
-^https?://graph.facebook.com/.+model_asset
-^https?://graph.facebook.com/.+skadnetwork
-^https?://graph.facebook.com/network_ads_common
+^https?:\/\/graph.facebook.com/.+activities
+^https?:\/\/graph.facebook.com/.+advertiser
+^https?:\/\/graph.facebook.com/.+events
+^https?:\/\/graph.facebook.com/.+metrics
+^https?:\/\/graph.facebook.com/.+mobile_sdk_gk
+^https?:\/\/graph.facebook.com/.+model_asset
+^https?:\/\/graph.facebook.com/.+skadnetwork
+^https?:\/\/graph.facebook.com/network_ads_common
 
 ^https?:\/\/.+\.facebook\.com\/.+event_log
 ^https?:\/\/.+\.facebook\.com\/.+infos
 ^https?:\/\/.+\.facebook\.com\/adnw_logging
 ^https?:\/\/.+\.facebook\.com\/adnw_sync
+^https?:\/\/.+\.facebook\.com\/async
+
+^https?:\/\/.+\.fbsbx\.com\/paid_ads_pixel
 
 
 #nhaccuatui
-^https?://graph.nhaccuatui.com/.+ads$
-^https?://graph.nhaccuatui.com/.+deviceinfo$
-^https?://graph.nhaccuatui.com/.+log$
-^https?://graph.nhaccuatui.com/.+trackings$
+^https?:\/\/graph.nhaccuatui.com/.+ads$
+^https?:\/\/graph.nhaccuatui.com/.+deviceinfo$
+^https?:\/\/graph.nhaccuatui.com/.+log$
+^https?:\/\/graph.nhaccuatui.com/.+trackings$
 
 
 #spotify
-^https?://spclient.wg.spotify.com/ad-logic
-^https?://spclient.wg.spotify.com/ads
-^https?://spclient.wg.spotify.com/.+ad_slot
-^https?://spclient.wg.spotify.com/.+banners
-^https?://spclient.wg.spotify.com/.+crashlytics
-^https?://spclient.wg.spotify.com/.+doubleclick
-^https?://spclient.wg.spotify.com/.+enabled-tracks
-^https?://spclient.wg.spotify.com/.+event
-^https?://spclient.wg.spotify.com/.+promoted
-^https?://spclient.wg.spotify.com/.+sponsored
+^https?:\/\/spclient.wg.spotify.com/ad-logic
+^https?:\/\/spclient.wg.spotify.com/ads
+^https?:\/\/spclient.wg.spotify.com/.+ad_slot
+^https?:\/\/spclient.wg.spotify.com/.+banners
+^https?:\/\/spclient.wg.spotify.com/.+crashlytics
+^https?:\/\/spclient.wg.spotify.com/.+doubleclick
+^https?:\/\/spclient.wg.spotify.com/.+enabled-tracks
+^https?:\/\/spclient.wg.spotify.com/.+event
+^https?:\/\/spclient.wg.spotify.com/.+promoted
+^https?:\/\/spclient.wg.spotify.com/.+sponsored
 
 
 #google

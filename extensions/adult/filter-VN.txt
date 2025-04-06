@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 04 Apr 2025 09:44 UTC+7
-! Version: 2504040944
-! Blocked: 2.787 rules
+! Last modified: 06 Apr 2025 17:11 UTC+7
+! Version: 2504061711
+! Blocked: 2.791 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -271,6 +271,10 @@
 ||dam69.xyz^
 ||dam69z.com^
 ||damchim.com^
+||damconuong.cc^
+||damconuong.fit^
+||damconuong.love^
+||damconuong.net^
 ||damduc.org^
 ||damlon.net^
 ||damlon.xyz^
