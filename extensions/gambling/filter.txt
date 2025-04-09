@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 09 Apr 2025 09:32 UTC+7
-! Version: 2504090932
-! Blocked: 92.595 rules
+! Last modified: 09 Apr 2025 22:36 UTC+7
+! Version: 2504092236
+! Blocked: 92.621 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -49041,6 +49041,7 @@
 ||api-demo-games.top^
 ||api-okvip-site.itokvip.com^
 ||api-ugaming.com^
+||api-v2.zbet.tv^
 ||api.118kbet.com^
 ||api.11zalo.com^
 ||api.123bhh.com^
@@ -49122,6 +49123,7 @@
 ||api.8922026.com^
 ||api.8922030.com^
 ||api.8922047.com^
+||api.8live.biz^
 ||api.9173555.com^
 ||api.996221.com^
 ||api.99vn.bet^
@@ -49189,6 +49191,7 @@
 ||api.opztws.top^
 ||api.pg88-1.com^
 ||api.pg88vn.vip^
+||api.red88.com^
 ||api.red88.us^
 ||api.red88.vin^
 ||api.red88.vip^
@@ -49245,9 +49248,11 @@
 ||api.shbetvv.com^
 ||api.siufh93yjkcgorp493rhvni.com^
 ||api.skjfjio4ut94mgbik9039kfff.com^
+||api.sky88.com^
 ||api.sky88.fun^
 ||api.slotmania333.com^
 ||api.st666.win^
+||api.staticuk88.com^
 ||api.sv66z4.com^
 ||api.t3cdn.com^
 ||api.t8casino.com^
@@ -49275,6 +49280,8 @@
 ||api.wkfji4ut949jgmi9309rggnmk.com^
 ||api.yesgame.store^
 ||api2-gateway.go88.com^
+||api2.debet.uk^
+||api2.sin88.com^
 ||api4.b5bakipcols.info^
 ||api4.b5ipcoleser.net^
 ||api4.h1ianc.org^
@@ -52091,6 +52098,7 @@
 ||betvegas527.com^
 ||betvie.com^
 ||betvisa.com^
+||betvisa.dog^
 ||betvisa.info^
 ||betvision.com^
 ||betvision.top^
@@ -56389,6 +56397,7 @@
 ||d0e1f2.click^
 ||d1.dabet.club^
 ||d1.debet.info^
+||d1.debet.so^
 ||d1.debet.top^
 ||d1.debet.win^
 ||d131433.site^
@@ -57172,6 +57181,7 @@
 ||debet.mn^
 ||debet.moi^
 ||debet.net^
+||debet.so^
 ||debet.taxi^
 ||debet.top^
 ||debet.uk^
@@ -64959,6 +64969,7 @@
 ||i.go88.org^
 ||i.go88.top^
 ||i.rik.vip^
+||i.vip79.com^
 ||i.win79.com^
 ||i.win79.fun^
 ||i0309.com^
@@ -73809,6 +73820,7 @@
 ||mibet.cc^
 ||mibet.com^
 ||mibet.mobi^
+||mibet.net^
 ||mibet.win^
 ||mibet88.com^
 ||mibet88.win^
@@ -76073,6 +76085,7 @@
 ||p9933.com^
 ||p999365.com^
 ||pa678.vip^
+||paajaka.com^
 ||pacbets.com^
 ||pace88my.com^
 ||padphak.com^
@@ -78902,6 +78915,7 @@
 ||s2.sin88.biz^
 ||s2.sin88.cc^
 ||s2.sin88.club^
+||s2.sin88.com^
 ||s22022.com^
 ||s22122.com^
 ||s22223.com^
@@ -80176,6 +80190,7 @@
 ||sheng-game.asia^
 ||sheng-game.net^
 ||shenlaoxi.com^
+||shenphoto.com^
 ||shenpro.xyz^
 ||shhg7788.com^
 ||shi6223.bet^
@@ -80391,6 +80406,7 @@
 ||smjogo.app^
 ||smo99.com^
 ||sms.tk8844.app^
+||sn1.sin88.me^
 ||sn7.btytg3.com^
 ||sncbit.com^
 ||sncwinth.com^
@@ -80406,6 +80422,7 @@
 ||soccerkr.com^
 ||soccermemes.net^
 ||socgiay99.win^
+||sock.8live.biz^
 ||sock.dabet.club^
 ||sock.mu9.club^
 ||sock.mu9.com^
@@ -80414,8 +80431,10 @@
 ||sock.red88.us^
 ||sock.red88.vin^
 ||sock.red88.vip^
+||sock.sky88.com^
 ||sock.sky88.fun^
 ||sock.sky88.in^
+||socket.debet.so^
 ||socket.debet.uk^
 ||socket.debet.win^
 ||soco88.com^
@@ -80728,6 +80747,7 @@
 ||staticnet88.com^
 ||staticone88.com^
 ||statictx88.win^
+||staticuk88.com^
 ||staticxo88.com^
 ||stavkabet-bk.com^
 ||stavkovakancelaria.sk^
@@ -88005,13 +88025,17 @@
 ||wowslot008.pro^
 ||wowslot66.live^
 ||wowwin7.com^
+||wp.8live.biz^
 ||wp.choigiaitri.net^
 ||wp.debet79.info^
+||wp.mibet.net^
 ||wp.nbet.vin^
+||wp.red88.com^
 ||wp.red88.us^
 ||wp.red88.vin^
 ||wp.red88.vip^
 ||wp.rikvip.tv^
+||wp.sky88.com^
 ||wp.sky88.fun^
 ||wphonebetterbet.com^
 ||wplay.co^
@@ -91777,6 +91801,7 @@
 ||yn776619m.com^
 ||ynuugn.xyz^
 ||ynxinji.com^
+||yo88.cool^
 ||yo88.net^
 ||yo88.tv^
 ||yo88.win^
@@ -92011,6 +92036,7 @@
 ||z05500.com^
 ||z0i3js.ink^
 ||z1.zbet.com^
+||z1.zbet.tv^
 ||z1004wpa.com^
 ||z1190.com^
 ||z1196.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 09 Apr 2025 09:32 UTC+7
-! Version: 2504090932
-! Blocked: 3.308 rules
+! Last modified: 09 Apr 2025 22:36 UTC+7
+! Version: 2504092236
+! Blocked: 3.327 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -427,6 +427,7 @@
 ||alo88.bet^
 ||alo888.com^
 ||aoays.xyz^
+||api-v2.zbet.tv^
 ||api.118kbet.com^
 ||api.11zalo.com^
 ||api.123bhh.com^
@@ -470,11 +471,13 @@
 ||api.nbet.vin^
 ||api.oppa888.com^
 ||api.oppa88888888.com^
+||api.red88.com^
 ||api.red88.us^
 ||api.red88.vin^
 ||api.red88.vip^
 ||api.shbet3.com^
 ||api.shbetvv.com^
+||api.sky88.com^
 ||api.sky88.fun^
 ||api.st666.win^
 ||api.v79top.com^
@@ -487,6 +490,8 @@
 ||api.vnq8.com^
 ||api.vnq8.net^
 ||api2-gateway.go88.com^
+||api2.debet.uk^
+||api2.sin88.com^
 ||api4.taitx1.club^
 ||api6.taitx1.club^
 ||apicmsdl.loc89.fun^
@@ -566,6 +571,7 @@
 ||betlv.com^
 ||bettingroup.net^
 ||betvisa.com^
+||betvisa.dog^
 ||betvnd.cc^
 ||betvnd.vip^
 ||betwinner.ng^
@@ -784,6 +790,7 @@
 ||cwin999.com^
 ||d1.dabet.club^
 ||d1.debet.info^
+||d1.debet.so^
 ||d1.debet.top^
 ||d1.debet.win^
 ||d2.dabet.me^
@@ -864,6 +871,7 @@
 ||debet.mn^
 ||debet.moi^
 ||debet.net^
+||debet.so^
 ||debet.top^
 ||debet.uk^
 ||debet.us^
@@ -1252,6 +1260,7 @@
 ||i.go88.org^
 ||i.go88.top^
 ||i.rik.vip^
+||i.vip79.com^
 ||i.win79.com^
 ||i.win79.fun^
 ||i8bet.org^
@@ -2001,6 +2010,7 @@
 ||mibet.cc^
 ||mibet.com^
 ||mibet.mobi^
+||mibet.net^
 ||mibet.win^
 ||mibet88.com^
 ||mibet88.win^
@@ -2392,6 +2402,7 @@
 ||s2.sin88.biz^
 ||s2.sin88.cc^
 ||s2.sin88.club^
+||s2.sin88.com^
 ||s26.lol^
 ||s26bet.bet^
 ||s26bet.ltd^
@@ -2478,6 +2489,7 @@
 ||smart.8live.com^
 ||smart.8live.net^
 ||smartpay.lode88.vip^
+||sn1.sin88.me^
 ||soc.sieutaixiu79.club^
 ||soc88.com^
 ||soc99.com^
@@ -2489,8 +2501,10 @@
 ||sock.red88.us^
 ||sock.red88.vin^
 ||sock.red88.vip^
+||sock.sky88.com^
 ||sock.sky88.fun^
 ||sock.sky88.in^
+||socket.debet.so^
 ||socket.debet.uk^
 ||socket.debet.win^
 ||soco88.com^
@@ -3217,11 +3231,14 @@
 ||wo88.ac^
 ||wp.choigiaitri.net^
 ||wp.debet79.info^
+||wp.mibet.net^
 ||wp.nbet.vin^
+||wp.red88.com^
 ||wp.red88.us^
 ||wp.red88.vin^
 ||wp.red88.vip^
 ||wp.rikvip.tv^
+||wp.sky88.com^
 ||wp.sky88.fun^
 ||ww88.club^
 ||ww88club.com^
@@ -3286,6 +3303,7 @@
 ||xvipwin.info^
 ||ybbbet.com^
 ||yd88c.com^
+||yo88.cool^
 ||yo88.net^
 ||yo88.tv^
 ||yo88.win^
@@ -3297,6 +3315,7 @@
 ||yylive.vip^
 ||yylive.xyz^
 ||z1.zbet.com^
+||z1.zbet.tv^
 ||z2.zbet.com^
 ||z3.zbet.com^
 ||z3.zbetvn.com^

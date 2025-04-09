@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 09 Apr 2025 09:32 UTC+7
-# Version: 2504090932
-# Blocked: 93.843 domains
+# Last modified: 09 Apr 2025 22:36 UTC+7
+# Version: 2504092236
+# Blocked: 93.869 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -49032,6 +49032,7 @@
 0.0.0.0 api-demo-games.top
 0.0.0.0 api-okvip-site.itokvip.com
 0.0.0.0 api-ugaming.com
+0.0.0.0 api-v2.zbet.tv
 0.0.0.0 api.118kbet.com
 0.0.0.0 api.11zalo.com
 0.0.0.0 api.123bhh.com
@@ -49113,6 +49114,7 @@
 0.0.0.0 api.8922026.com
 0.0.0.0 api.8922030.com
 0.0.0.0 api.8922047.com
+0.0.0.0 api.8live.biz
 0.0.0.0 api.9173555.com
 0.0.0.0 api.996221.com
 0.0.0.0 api.99vn.bet
@@ -49180,6 +49182,7 @@
 0.0.0.0 api.opztws.top
 0.0.0.0 api.pg88-1.com
 0.0.0.0 api.pg88vn.vip
+0.0.0.0 api.red88.com
 0.0.0.0 api.red88.us
 0.0.0.0 api.red88.vin
 0.0.0.0 api.red88.vip
@@ -49236,9 +49239,11 @@
 0.0.0.0 api.shbetvv.com
 0.0.0.0 api.siufh93yjkcgorp493rhvni.com
 0.0.0.0 api.skjfjio4ut94mgbik9039kfff.com
+0.0.0.0 api.sky88.com
 0.0.0.0 api.sky88.fun
 0.0.0.0 api.slotmania333.com
 0.0.0.0 api.st666.win
+0.0.0.0 api.staticuk88.com
 0.0.0.0 api.sv66z4.com
 0.0.0.0 api.t3cdn.com
 0.0.0.0 api.t8casino.com
@@ -49266,6 +49271,8 @@
 0.0.0.0 api.wkfji4ut949jgmi9309rggnmk.com
 0.0.0.0 api.yesgame.store
 0.0.0.0 api2-gateway.go88.com
+0.0.0.0 api2.debet.uk
+0.0.0.0 api2.sin88.com
 0.0.0.0 api4.b5bakipcols.info
 0.0.0.0 api4.b5ipcoleser.net
 0.0.0.0 api4.h1ianc.org
@@ -52082,6 +52089,7 @@
 0.0.0.0 betvegas527.com
 0.0.0.0 betvie.com
 0.0.0.0 betvisa.com
+0.0.0.0 betvisa.dog
 0.0.0.0 betvisa.info
 0.0.0.0 betvision.com
 0.0.0.0 betvision.top
@@ -56375,6 +56383,7 @@
 0.0.0.0 d0e1f2.click
 0.0.0.0 d1.dabet.club
 0.0.0.0 d1.debet.info
+0.0.0.0 d1.debet.so
 0.0.0.0 d1.debet.top
 0.0.0.0 d1.debet.win
 0.0.0.0 d131433.site
@@ -57158,6 +57167,7 @@
 0.0.0.0 debet.mn
 0.0.0.0 debet.moi
 0.0.0.0 debet.net
+0.0.0.0 debet.so
 0.0.0.0 debet.taxi
 0.0.0.0 debet.top
 0.0.0.0 debet.uk
@@ -64938,6 +64948,7 @@
 0.0.0.0 i.go88.org
 0.0.0.0 i.go88.top
 0.0.0.0 i.rik.vip
+0.0.0.0 i.vip79.com
 0.0.0.0 i.win79.com
 0.0.0.0 i.win79.fun
 0.0.0.0 i0309.com
@@ -73786,6 +73797,7 @@
 0.0.0.0 mibet.cc
 0.0.0.0 mibet.com
 0.0.0.0 mibet.mobi
+0.0.0.0 mibet.net
 0.0.0.0 mibet.win
 0.0.0.0 mibet88.com
 0.0.0.0 mibet88.win
@@ -76044,6 +76056,7 @@
 0.0.0.0 p9933.com
 0.0.0.0 p999365.com
 0.0.0.0 pa678.vip
+0.0.0.0 paajaka.com
 0.0.0.0 pacbets.com
 0.0.0.0 pace88my.com
 0.0.0.0 padphak.com
@@ -78872,6 +78885,7 @@
 0.0.0.0 s2.sin88.biz
 0.0.0.0 s2.sin88.cc
 0.0.0.0 s2.sin88.club
+0.0.0.0 s2.sin88.com
 0.0.0.0 s22022.com
 0.0.0.0 s22122.com
 0.0.0.0 s22223.com
@@ -80141,6 +80155,7 @@
 0.0.0.0 sheng-game.asia
 0.0.0.0 sheng-game.net
 0.0.0.0 shenlaoxi.com
+0.0.0.0 shenphoto.com
 0.0.0.0 shenpro.xyz
 0.0.0.0 shhg7788.com
 0.0.0.0 shi6223.bet
@@ -80355,6 +80370,7 @@
 0.0.0.0 smjogo.app
 0.0.0.0 smo99.com
 0.0.0.0 sms.tk8844.app
+0.0.0.0 sn1.sin88.me
 0.0.0.0 sn7.btytg3.com
 0.0.0.0 sncbit.com
 0.0.0.0 sncwinth.com
@@ -80370,6 +80386,7 @@
 0.0.0.0 soccerkr.com
 0.0.0.0 soccermemes.net
 0.0.0.0 socgiay99.win
+0.0.0.0 sock.8live.biz
 0.0.0.0 sock.dabet.club
 0.0.0.0 sock.mu9.club
 0.0.0.0 sock.mu9.com
@@ -80378,8 +80395,10 @@
 0.0.0.0 sock.red88.us
 0.0.0.0 sock.red88.vin
 0.0.0.0 sock.red88.vip
+0.0.0.0 sock.sky88.com
 0.0.0.0 sock.sky88.fun
 0.0.0.0 sock.sky88.in
+0.0.0.0 socket.debet.so
 0.0.0.0 socket.debet.uk
 0.0.0.0 socket.debet.win
 0.0.0.0 soco88.com
@@ -80692,6 +80711,7 @@
 0.0.0.0 staticnet88.com
 0.0.0.0 staticone88.com
 0.0.0.0 statictx88.win
+0.0.0.0 staticuk88.com
 0.0.0.0 staticxo88.com
 0.0.0.0 stavkabet-bk.com
 0.0.0.0 stavkovakancelaria.sk
@@ -87958,13 +87978,17 @@
 0.0.0.0 wowslot008.pro
 0.0.0.0 wowslot66.live
 0.0.0.0 wowwin7.com
+0.0.0.0 wp.8live.biz
 0.0.0.0 wp.choigiaitri.net
 0.0.0.0 wp.debet79.info
+0.0.0.0 wp.mibet.net
 0.0.0.0 wp.nbet.vin
+0.0.0.0 wp.red88.com
 0.0.0.0 wp.red88.us
 0.0.0.0 wp.red88.vin
 0.0.0.0 wp.red88.vip
 0.0.0.0 wp.rikvip.tv
+0.0.0.0 wp.sky88.com
 0.0.0.0 wp.sky88.fun
 0.0.0.0 wphonebetterbet.com
 0.0.0.0 wplay.co
@@ -93028,6 +93052,7 @@
 0.0.0.0 yn776619m.com
 0.0.0.0 ynuugn.xyz
 0.0.0.0 ynxinji.com
+0.0.0.0 yo88.cool
 0.0.0.0 yo88.net
 0.0.0.0 yo88.tv
 0.0.0.0 yo88.win
@@ -93262,6 +93287,7 @@
 0.0.0.0 z05500.com
 0.0.0.0 z0i3js.ink
 0.0.0.0 z1.zbet.com
+0.0.0.0 z1.zbet.tv
 0.0.0.0 z1004wpa.com
 0.0.0.0 z1190.com
 0.0.0.0 z1196.com
