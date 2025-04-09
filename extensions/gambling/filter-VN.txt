@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 06 Apr 2025 17:20 UTC+7
-! Version: 2504061720
-! Blocked: 3.306 rules
+! Last modified: 09 Apr 2025 09:32 UTC+7
+! Version: 2504090932
+! Blocked: 3.308 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -139,6 +139,7 @@
 ||550004.com^
 ||5516688.com^
 ||5533789.com^
+||555win.mobi^
 ||5566688.com^
 ||5566688.net^
 ||558kbet.com^
@@ -712,6 +713,7 @@
 ||choi.gameb52a.me^
 ||choi789.link^
 ||choi99.com^
+||choib52.club^
 ||choibaionlinevn.com^
 ||choibancadoithuong.com^
 ||choidabanh.com^

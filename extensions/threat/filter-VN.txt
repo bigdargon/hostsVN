@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 06 Apr 2025 17:20 UTC+7
-! Version: 2504061720
-! Blocked: 4.290 rules
+! Last modified: 09 Apr 2025 09:32 UTC+7
+! Version: 2504090932
+! Blocked: 4.291 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -574,6 +574,7 @@
 ||dmxvip.com^
 ||do002.com^
 ||do005.com^
+||docbao24h.net^
 ||doctromtinnhan.com^
 ||doithecao.com.vn^
 ||doithecaothanhtienmat.com^
