@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Apr 2025 22:36 UTC+7
-# Version: 2504092236
-# Blocked: 18.411 domains
+# Last modified: 14 Apr 2025 11:19 UTC+7
+# Version: 2504141119
+# Blocked: 18.410 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7805,7 +7805,6 @@
 0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 mcs-sg.tiktok.com
-0.0.0.0 mssdk-sg.tiktok.com
 #[tiktokv.com]
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mon.tiktokv.com

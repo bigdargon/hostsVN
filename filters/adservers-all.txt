@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 09 Apr 2025 22:36 UTC+7
-! Version: 2504092236
-! Blocked: 9.230 rules
+! Last modified: 14 Apr 2025 11:19 UTC+7
+! Version: 2504141119
+! Blocked: 9.229 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2230,7 +2230,6 @@
 ||mparticle.com^
 ||msga.cupid.iqiyi.com^
 ||msgapp.com^
-||mssdk-sg.tiktok.com^
 ||mstorer.net^
 ||mtgglobals.com^
 ||mtrace.qq.com^
