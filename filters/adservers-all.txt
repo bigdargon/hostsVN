@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 14 Apr 2025 11:19 UTC+7
-! Version: 2504141119
-! Blocked: 9.229 rules
+! Last modified: 16 Apr 2025 15:23 UTC+7
+! Version: 2504161523
+! Blocked: 9.236 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2230,6 +2230,7 @@
 ||mparticle.com^
 ||msga.cupid.iqiyi.com^
 ||msgapp.com^
+||daly2024.com^
 ||mstorer.net^
 ||mtgglobals.com^
 ||mtrace.qq.com^
@@ -4341,6 +4342,7 @@
 ||belstat.com^
 ||belstat.nl^
 ||bemachopor.com^
+||bemalkrmc.com^
 ||bemobtracks.com^
 ||bemobtrcks.com^
 ||bemobtrk.com^
@@ -5639,6 +5641,7 @@
 ||g0push.com^
 ||ga-ads.com^
 ||ga.getresponse.com^
+||gabanxaq.com^
 ||gagowtvi.com^
 ||gaijiglo.net^
 ||gaimauroogrou.net^
@@ -6772,6 +6775,7 @@
 ||mxradon.com^
 ||mxvp-ad-config-prod-1.zenmxapps.com^
 ||mxvp-feature-toggle-prod-1.zenmxapps.com^
+||my.heloninremake.shop^
 ||myad.mitrade.com^
 ||myadsystem.com^
 ||myaffiliateprogram.com^
@@ -7545,6 +7549,7 @@
 ||pwysruffoza.com^
 ||px.effirst.com^
 ||pxlctl.elpais.com^
+||py.dautedtwiny.shop^
 ||pymx5.com^
 ||pyxiscablese.com^
 ||pzshzhja.com^
@@ -8389,6 +8394,7 @@
 ||tcads.net^
 ||tccnqgnmeveay.com^
 ||tdf.ringier.ch^
+||tdpjzjpfuiis.com^
 ||tealeaf.com^
 ||tealium.com^
 ||tealiumiq.com^
@@ -9006,6 +9012,7 @@
 ||whoarguwaghu.net^
 ||whoisonline.net^
 ||wholesaletraffic.info^
+||whoockeg.top^
 ||whoonseepoutche.net^
 ||whoostoo.net^
 ||whoursie.com^
