@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 18 Apr 2025 10:46 UTC+7
-# Version: 2504181046
-# Blocked: 3.859 domains
+# Last modified: 18 Apr 2025 22:39 UTC+7
+# Version: 2504182239
+# Blocked: 3.862 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -200,6 +200,7 @@
 0.0.0.0 789clubs.club
 0.0.0.0 789clubs.vin
 0.0.0.0 789d.club
+0.0.0.0 789f.ac
 0.0.0.0 789k.club
 0.0.0.0 789v.club
 0.0.0.0 789vg.net
@@ -432,6 +433,7 @@
 0.0.0.0 api.33beta.com
 0.0.0.0 api.448kbet.com
 0.0.0.0 api.7897890.vip
+0.0.0.0 api.789f.ac
 0.0.0.0 api.881ae888.com
 0.0.0.0 api.882ae888.com
 0.0.0.0 api.883ae888.com
@@ -3290,6 +3292,7 @@
 0.0.0.0 www.789.club
 0.0.0.0 www.7897890.vip
 0.0.0.0 www.789b.live
+0.0.0.0 www.789f.ac
 0.0.0.0 www.78win01.com
 0.0.0.0 www.78win07.com
 0.0.0.0 www.79lucky.com
