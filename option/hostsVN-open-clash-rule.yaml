@@ -1093,6 +1093,7 @@ payload:
   - DOMAIN-SUFFIX,ads.indeed.com
   - DOMAIN-SUFFIX,ads.linkedin.com
   - DOMAIN-SUFFIX,ads.livetv*.me
+  - DOMAIN-SUFFIX,ads.mozilla.org
   - DOMAIN-SUFFIX,ads.msn.com
   - DOMAIN-SUFFIX,ads.oppomobile.com
   - DOMAIN-SUFFIX,ads.pinterest.com
@@ -1389,6 +1390,7 @@ payload:
   - DOMAIN-SUFFIX,asdpoi.com
   - DOMAIN-SUFFIX,asianmedia.com
   - DOMAIN-SUFFIX,askingpoint.com
+  - DOMAIN-SUFFIX,aso1.net
   - DOMAIN-SUFFIX,assemblyexchange.com
   - DOMAIN-SUFFIX,assistads.net
   - DOMAIN-SUFFIX,assoc-amazon.com
@@ -1660,6 +1662,7 @@ payload:
   - DOMAIN-SUFFIX,d31qbv1cthcecs.cloudfront.net
   - DOMAIN-SUFFIX,d3luypns9uh4a4.cloudfront.net
   - DOMAIN-SUFFIX,d41.co
+  - DOMAIN-SUFFIX,daly2024.com
   - DOMAIN-SUFFIX,data-optout-service.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,data-sharing-consent.aprod.scopely.io
   - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
@@ -1951,6 +1954,7 @@ payload:
   - DOMAIN-SUFFIX,improvedigital.com
   - DOMAIN-SUFFIX,imrworldwide.com
   - DOMAIN-SUFFIX,imstks.com
+  - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
   - DOMAIN-SUFFIX,indexexchange.com
   - DOMAIN-SUFFIX,indexww.com
   - DOMAIN-SUFFIX,indoleads.com
@@ -2223,7 +2227,6 @@ payload:
   - DOMAIN-SUFFIX,mparticle.com
   - DOMAIN-SUFFIX,msga.cupid.iqiyi.com
   - DOMAIN-SUFFIX,msgapp.com
-  - DOMAIN-SUFFIX,daly2024.com
   - DOMAIN-SUFFIX,mstorer.net
   - DOMAIN-SUFFIX,mtgglobals.com
   - DOMAIN-SUFFIX,mtrace.qq.com
@@ -2763,7 +2766,6 @@ payload:
   - DOMAIN-SUFFIX,ugdturner.com
   - DOMAIN-SUFFIX,uid.mavencoalition.io
   - DOMAIN-SUFFIX,ujm.hansel.io
-  - DOMAIN-SUFFIX,aso1.net
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,umengacs.m.taobao.com
   - DOMAIN-SUFFIX,umengcloud.com
@@ -6063,7 +6065,6 @@ payload:
   - DOMAIN-SUFFIX,inboxdollars.com
   - DOMAIN-SUFFIX,incognitosearches.com
   - DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
-  - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
   - DOMAIN-SUFFIX,increaserev.com
   - DOMAIN-SUFFIX,indexstats.com
   - DOMAIN-SUFFIX,indieclick.com
