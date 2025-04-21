@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 19 Apr 2025 15:36 UTC+7
-! Version: 2504191536
-! Blocked: 4.292 rules
+! Last modified: 21 Apr 2025 09:22 UTC+7
+! Version: 2504210922
+! Blocked: 4.293 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1039,6 +1039,7 @@
 ||husbandsonly.co.uk^
 ||hvay.xyz^
 ||i-goda.shop^
+||i-j.site^
 ||i-sacombank.com^
 ||i-shopping888.com^
 ||i-vietcombank.com^

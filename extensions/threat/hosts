@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 19 Apr 2025 15:36 UTC+7
-# Version: 2504191536
-# Blocked: 4.807 domains
+# Last modified: 21 Apr 2025 09:22 UTC+7
+# Version: 2504210922
+# Blocked: 4.808 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1251,6 +1251,7 @@
 0.0.0.0 hvay.xyz
 0.0.0.0 hzmksreiuojy.ru
 0.0.0.0 i-goda.shop
+0.0.0.0 i-j.site
 0.0.0.0 i-sacombank.com
 0.0.0.0 i-shopping888.com
 0.0.0.0 i-vietcombank.com
