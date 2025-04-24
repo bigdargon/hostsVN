@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 23 Apr 2025 09:42 UTC+7
-! Version: 2504230942
-! Blocked: 3.341 rules
+! Last modified: 24 Apr 2025 09:24 UTC+7
+! Version: 2504240924
+! Blocked: 3.343 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -452,6 +452,7 @@
 ||api.ae88827.com^
 ||api.ae88837.com^
 ||api.bachhoa88.com^
+||api.bec88.com^
 ||api.betlv.com^
 ||api.dabet.club^
 ||api.f8bet0.com^
@@ -552,6 +553,7 @@
 ||bay789.club^
 ||bay789.io^
 ||bay789.life^
+||bec88.com^
 ||ben.bet^
 ||benbet.app^
 ||benbet.com^
