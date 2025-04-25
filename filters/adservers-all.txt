@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 24 Apr 2025 14:16 UTC+7
-! Version: 2504241416
-! Blocked: 9.278 rules
+! Last modified: 25 Apr 2025 11:00 UTC+7
+! Version: 2504251100
+! Blocked: 9.280 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -7260,6 +7260,7 @@
 ||perf.hsforms.com^
 ||perfectaudience.com^
 ||perfiliate.com^
+||perfoliateratchetspecial.com^
 ||performanceadexchange.com^
 ||performancerevenue.com^
 ||performancerevenues.com^
@@ -9238,6 +9239,7 @@
 ||zap.buzz^
 ||zarget.com^
 ||zarpop.com^
+||zavawvsa.com^
 ||zazmunokpvzi.com^
 ||zazporn.com^
 ||zbwp6ghm.com^
