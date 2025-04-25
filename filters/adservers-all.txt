@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 25 Apr 2025 11:00 UTC+7
-! Version: 2504251100
-! Blocked: 9.280 rules
+! Last modified: 25 Apr 2025 14:13 UTC+7
+! Version: 2504251413
+! Blocked: 9.281 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -8042,6 +8042,7 @@
 ||shiverscissors.com^
 ||shndrktrk.com^
 ||shoordaird.com^
+||shopeevn-affiliate.blogspot.com^
 ||shopnetic.com^
 ||shoppingads.com^
 ||shopzilla.com^
