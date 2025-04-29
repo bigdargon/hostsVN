@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 Apr 2025 14:13 UTC+7
-# Version: 2504251413
-# Blocked: 18.467 domains
+# Last modified: 29 Apr 2025 10:13 UTC+7
+# Version: 2504291013
+# Blocked: 18.484 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11656,6 +11656,9 @@
 #[mozilla.org]
 0.0.0.0 ads.mozilla.org
 0.0.0.0 incoming.telemetry.mozilla.org
+#[provenpixel.com]
+0.0.0.0 provenpixel.com
+0.0.0.0 upx.provenpixel.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13697,6 +13700,7 @@
 0.0.0.0 a.sakh.com
 0.0.0.0 a.xanga.com
 0.0.0.0 a135.wftv.com
+0.0.0.0 a1b.net
 0.0.0.0 a2tw6yoodsag.com
 0.0.0.0 a300.adstattrack.com
 0.0.0.0 a400.adstattrack.com
@@ -14468,6 +14472,7 @@
 0.0.0.0 afcnuchxgo.com
 0.0.0.0 afearprevoid.com
 0.0.0.0 aff.bstatic.com
+0.0.0.0 aff2.childish2x2.fun
 0.0.0.0 affbuzzads.com
 0.0.0.0 affcpatrk.com
 0.0.0.0 affec.tv
@@ -14538,6 +14543,7 @@
 0.0.0.0 ajouter.net
 0.0.0.0 ajvhagmuvfm.com
 0.0.0.0 ak-ads-ns.prisasd.com
+0.0.0.0 ak.argrowlitheor.com
 0.0.0.0 ak.atclauncheran.com
 0.0.0.0 ak.bymetapodchan.com
 0.0.0.0 ak.ceegriwuwoa.net
@@ -14546,6 +14552,7 @@
 0.0.0.0 ak.offstaryutor.com
 0.0.0.0 ak.oneegrou.net
 0.0.0.0 ak.ptailadsol.net
+0.0.0.0 ak.stikroltiltoowi.net
 0.0.0.0 ak.unblitzlean.com
 0.0.0.0 ak0gsh40.com
 0.0.0.0 akmxts.com
@@ -15159,6 +15166,7 @@
 0.0.0.0 cbmall.com
 0.0.0.0 cbx.net
 0.0.0.0 cccpmo.com
+0.0.0.0 ccg90.com
 0.0.0.0 ccjzuavqrh.com
 0.0.0.0 cd-ads.com
 0.0.0.0 cdn-plus.roxot-panel.com
@@ -16226,6 +16234,7 @@
 0.0.0.0 guppymedia.com
 0.0.0.0 gutackaxgo.com
 0.0.0.0 guvnatar.com
+0.0.0.0 gvsnhzmjr.com
 0.0.0.0 gwallet.com
 0.0.0.0 gwfqxkelp.com
 0.0.0.0 gwyvusam.com
@@ -17614,6 +17623,7 @@
 0.0.0.0 pompadawe.com
 0.0.0.0 pontiflex.com
 0.0.0.0 ponysomebodymartyr.com
+0.0.0.0 poowucatuz.net
 0.0.0.0 pop-under.ru
 0.0.0.0 pop.bid
 0.0.0.0 pop5sjhspear.com
@@ -17808,6 +17818,7 @@
 0.0.0.0 qjwglnuwqvr.com
 0.0.0.0 qlfqkjluvz.com
 0.0.0.0 qlpenuxctkhwv.com
+0.0.0.0 qmixnhyxc.com
 0.0.0.0 qnp16tstw.com
 0.0.0.0 qnsr.com
 0.0.0.0 qojrlxsbxvfqqx.com
@@ -18034,6 +18045,7 @@
 0.0.0.0 rtbrenab.com
 0.0.0.0 rtbrennab.com
 0.0.0.0 rtbsystem.org
+0.0.0.0 rtcheajfn.com
 0.0.0.0 rtk.io
 0.0.0.0 rtyznd.com
 0.0.0.0 ru-traffic.com
@@ -18251,6 +18263,7 @@
 0.0.0.0 snebbubbled.com
 0.0.0.0 snoobi.com
 0.0.0.0 snowdayonline.xyz
+0.0.0.0 snuff-brownsprintcountry.com
 0.0.0.0 snugglethesheep.com
 0.0.0.0 snxewpxrhegslq.com
 0.0.0.0 soaheeme.net
@@ -18699,6 +18712,7 @@
 0.0.0.0 trusting-produce.com
 0.0.0.0 trustisimportant.fun
 0.0.0.0 trustlearningclearly.com
+0.0.0.0 tshfc.com
 0.0.0.0 tsiwqtng8huauw30n.com
 0.0.0.0 tstats-13fkh44r.com
 0.0.0.0 ttgmjfgldgv9ed10.com
@@ -18707,6 +18721,7 @@
 0.0.0.0 tubemogul.com
 0.0.0.0 tuesdayfetidlit.com
 0.0.0.0 tuffoonincaged.com
+0.0.0.0 tufoknaqzolp.com
 0.0.0.0 tumblebit.com
 0.0.0.0 tumblebit.org
 0.0.0.0 tunnedlehua.com
@@ -18823,6 +18838,7 @@
 0.0.0.0 uxumhgvends.com
 0.0.0.0 uyledjlevq.com
 0.0.0.0 uyunad.com
+0.0.0.0 uz.louchefunnel.shop
 0.0.0.0 uzxkuwalnjp.com
 0.0.0.0 v6rxv5coo5.com
 0.0.0.0 vacationmonday.com
@@ -19499,6 +19515,7 @@
 0.0.0.0 d24rtvkqjwgutp.cloudfront.net
 0.0.0.0 d2ezz24t9nm0vu.cloudfront.net
 0.0.0.0 d2klx87bgzngce.cloudfront.net
+0.0.0.0 d2o5idwacg3gyw.cloudfront.net
 0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d2uhnetoehh304.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
@@ -19510,6 +19527,7 @@
 0.0.0.0 data.abebooks.com
 0.0.0.0 data.adxcel-ec2.com
 0.0.0.0 databerries.com
+0.0.0.0 db7q4jg5rkhk8.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 ddla593ymz72o.cloudfront.net
 0.0.0.0 dig.bdurl.net

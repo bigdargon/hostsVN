@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 24 Apr 2025 14:16 UTC+7
-# Version: 2504241416
-# Blocked: 4.362 domains
+# Last modified: 29 Apr 2025 10:12 UTC+7
+# Version: 2504291012
+# Blocked: 4.364 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1967,6 +1967,7 @@
 0.0.0.0 onlineshop888.com
 0.0.0.0 onlineshop999.com
 0.0.0.0 onlinetiki.com
+0.0.0.0 oojoictf.iqerm.link
 0.0.0.0 optimagroupthuongphuong.net
 0.0.0.0 org.govqp.com
 0.0.0.0 p63899vn.com
@@ -3350,6 +3351,7 @@
 0.0.0.0 ucesreferre.club
 0.0.0.0 ugvietnam.net
 0.0.0.0 uhy89mb.com
+0.0.0.0 ukzdcnzp.bdtrjklaz.de
 0.0.0.0 ullis-airbrush-shop.de
 0.0.0.0 unlockdienthoai.zyrosite.com
 0.0.0.0 upceshop.cn
