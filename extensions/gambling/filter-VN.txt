@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 29 Apr 2025 10:12 UTC+7
-! Version: 2504291012
-! Blocked: 3.343 rules
+! Last modified: 02 May 2025 22:11 UTC+7
+! Version: 2505022211
+! Blocked: 3.344 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3346,6 +3346,7 @@
 ||zo.club^
 ||zo1.win^
 ||zo2.win^
+||zo88.com^
 ||zo88.org^
 ||zom8.club^
 ||zoplay.top^
