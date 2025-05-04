@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 May 2025 14:45 UTC+7
-# Version: 2505031445
-# Blocked: 18.506 domains
+# Last modified: 04 May 2025 15:52 UTC+7
+# Version: 2505041552
+# Blocked: 18.509 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11293,6 +11293,8 @@
 0.0.0.0 hkrpg-log-upload-os.hoyoverse.com
 0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 ys-log-upload-os.hoyoverse.com
+#[hoyolab.com]
+0.0.0.0 log-upload-os.hoyolab.com
 #[ad-nex.com]
 0.0.0.0 ad-nex.com
 0.0.0.0 img.ad-nex.com
@@ -18964,6 +18966,7 @@
 0.0.0.0 vugnubier.com
 0.0.0.0 vugpakba.com
 0.0.0.0 vujdudspear.com
+0.0.0.0 vwahacrubri.com
 0.0.0.0 vyfrxuytzn.com
 0.0.0.0 w3i.com
 0.0.0.0 w454n74qw.com
@@ -19287,6 +19290,7 @@
 0.0.0.0 yrscfbbegumijt.com
 0.0.0.0 yrumdfslwabv.com
 0.0.0.0 ytimm.com
+0.0.0.0 ytjnpxiiqsblwb.com
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com
 0.0.0.0 yyselrqpyu.com
