@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 07 May 2025 10:21 UTC+7
-! Version: 2505071021
-! Blocked: 4.749 rules
+! Last modified: 13 May 2025 09:24 UTC+7
+! Version: 2505130924
+! Blocked: 4.750 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -227,6 +227,7 @@
 ||apple.support-find-my-iphone.com^
 ||apple.support-maps.live^
 ||applecare-icloud.com^
+||applestorevn.com^
 ||apps-for-pc.com^
 ||appvaytien.vn^
 ||apteka-money.ru^

@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 07 May 2025 10:21 UTC+7
-# Version: 2505071021
-# Blocked: 4.369 domains
+# Last modified: 13 May 2025 09:24 UTC+7
+# Version: 2505130924
+# Blocked: 4.371 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -180,6 +180,7 @@
 0.0.0.0 apple-vn.shop
 0.0.0.0 apple.support-find-my-iphone.com
 0.0.0.0 apple.support-maps.live
+0.0.0.0 applestorevn.com
 0.0.0.0 appvaytien.vn
 0.0.0.0 apteka-money.ru
 0.0.0.0 aquagoat.xyz
@@ -4256,6 +4257,7 @@
 0.0.0.0 www.abc-vay.com
 0.0.0.0 www.acs84.com
 0.0.0.0 www.amadbfk.vip
+0.0.0.0 www.applestorevn.com
 0.0.0.0 www.bao-moi.pro
 0.0.0.0 www.baovietvc.top
 0.0.0.0 www.checkaccff.com

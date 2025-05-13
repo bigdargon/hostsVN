@@ -3883,6 +3883,7 @@ cm.creativecdn.com
 cm.rdr.creativecdn.com
 creativecdn.com
 eu.creativecdn.com
+invstatic101.creativecdn.com
 phx.creativecdn.com
 prebid-asia.creativecdn.com
 prebid-eu.creativecdn.com
@@ -4057,25 +4058,26 @@ iad-login.dotomi.com
 iad-usadmm.dotomi.com
 login-ds.dotomi.com
 media-ams5.msg.dotomi.com
-medianet-match.dotomi.com
 media-sj2.msg.dotomi.com
+medianet-match.dotomi.com
 openx2-match.dotomi.com
 prebid-match.dotomi.com
+proc.ad.cpe.dotomi.com
 pubmatic-match.dotomi.com
 pulsepoint-match.dotomi.com
 purch-match.dotomi.com
 rubicon-match.dotomi.com
+s-usweb.dotomi.com
 sjc-login.dotomi.com
 sortable-match.dotomi.com
 spotx-match.dotomi.com
 stx-match.dotomi.com
-s-usweb.dotomi.com
 synacor-match.dotomi.com
 tpt.dotomi.com
-tubemogul-sync.dotomi.com
 tremor-match.dotomi.com
-usadmm.dotomi.com
+tubemogul-sync.dotomi.com
 usadmm-ds.dotomi.com
+usadmm.dotomi.com
 usweb.dotomi.com
 vcm-match.dotomi.com
 1rx.io
@@ -5397,10 +5399,12 @@ prcache.microadinc.com
 s-rtb.send.microadinc.com
 ssp.send.microadinc.com
 microad.jp
+aid.send.microad.jp
+cache.send.microad.jp
 cdn.microad.jp
 cm.send.microad.jp
-s-rtb.send.microad.jp
 s-rtb-pb.send.microad.jp
+s-rtb.send.microad.jp
 ssp.send.microad.jp
 universe.send.microad.jp
 i.microad.net
@@ -5996,6 +6000,7 @@ tools.publift.com
 wp-static.publift.com
 www.publift.com
 cdn.id5-sync.com
+diagnostics.id5-sync.com
 id5-sync.com
 www.id5-sync.com
 eu-1-id5-sync.com
@@ -6594,9 +6599,13 @@ blueadss.com
 cdn.blueadss.com
 www.blueadss.com
 ezodn.com
+bshr.ezodn.com
 g.ezodn.com
 go.ezodn.com
 www.ezodn.com
+ezoic.net
+g.ezoic.net
+go.ezoic.net
 api.relap.io
 cdn.relap.io
 relap.io
@@ -9123,6 +9132,12 @@ creative.hpyrdr.com
 go.hpyrdr.com
 hpyrdr.com
 wl.hpyrdr.com
+blcdog.com
+creative.blcdog.com
+go.blcdog.com
+creative.xlirdr.com
+go.xlirdr.com
+xlirdr.com
 analytics.polarbyte.com
 api.polarbyte.com
 cdn.polarbyte.com
@@ -9637,6 +9652,7 @@ rum.condenastdigital.com
 wren.condenastdigital.com
 ab1n.net
 tk6if76q.ab1n.net
+b1sync.zemanta.com
 p1.zemanta.com
 zemanta.com
 bquildna43.site
@@ -10230,6 +10246,30 @@ ads.mozilla.org
 incoming.telemetry.mozilla.org
 provenpixel.com
 upx.provenpixel.com
+esp.rtbhouse.com
+rtbhouse.com
+oa.openxcdn.net
+openxcdn.net
+cdn.prod.uidapi.com
+prod.uidapi.com
+fastclick.net
+secure.cdn.fastclick.net
+ccgateway.net
+analytics.ccgateway.net
+carbon-cdn.ccgateway.net
+ingestion-router-api.ccgateway.net
+privacy-location-edge.ccgateway.net
+script-api.ccgateway.net
+ust-ad.com
+ad.ust-ad.com
+adjs.ust-ad.com
+rcv.ust-ad.com
+impact-ad.jp
+aw.dw.impact-ad.jp
+y.one.impact-ad.jp
+bid.ssp.bance.jp
+js.ssp.bance.jp
+tr.ssp.bance.jp
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -13258,6 +13298,7 @@ banquetunarmedgrater.com
 bans.bride.ru
 baresi.xyz
 barnesandnoble.bfast.com
+barometercorrodingunease.com
 barscreative1.com
 basebanner.com
 basepush.com
@@ -13511,6 +13552,7 @@ cameesse.net
 camp.purchase-shop.com
 campaign.bharatmatrimony.com
 campaigns.williamhill.com
+cams.gratis
 can-get-so.me
 canangafierier.uno
 caniamedia.com
@@ -13807,6 +13849,7 @@ copiousgoutswimwear.com
 copycarpenter.com
 copyrightaccesscontrols.com
 coremetrics.com
+correctdilutetrophy.com
 correlationcocktailinevitably.com
 count.rin.ru
 count.west263.com
@@ -13887,6 +13930,7 @@ culterwhether.com
 culturalsameunbridle.com
 culwcoam.com
 cupidonmedia.com
+cupoabie.net
 curioushingefast.com
 curlyhomes.com
 curtaincows.com
@@ -14075,6 +14119,7 @@ displayadsmedia.com
 displaycontentprofit.com
 displayformatcontent.com
 displayvertising.com
+disprovefacilityjolt.com
 disqusads.com
 disrespectpreceding.com
 dist.belnk.com
@@ -14107,6 +14152,7 @@ dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dotsonian.org
+dotyruntchan.com
 doubleadserve.com
 doubleclick.com
 doubleclick.de
@@ -14310,6 +14356,7 @@ extracthorizontaldashing.com
 extreme-dm.com
 extremetracking.com
 exxohwvxupjv.com
+ey43.com
 eyeblaster.com
 eyebrowscrambledlater.com
 eyereturn.com
@@ -14340,7 +14387,6 @@ faronqdkimah.com
 fashmuqpi.com
 fastbuy.biz
 fastclick.com
-fastclick.net
 fatcoil.com
 fatsosjogs.com
 faukeeshie.com
@@ -14380,6 +14426,7 @@ firstlightera.com
 fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
+fkwnnfwhvjmubrl.com
 flagmantensity.com
 flakyfeast.com
 fleraprt.com
@@ -14737,6 +14784,7 @@ hoddlegamey.com
 holahupa.com
 homepageking.de
 homespotaudience.com
+hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 hostedads.realitykings.com
@@ -14778,6 +14826,7 @@ hyperbanner.net
 hypermusk.com
 hypertracker.com
 hypertusk.com
+hz.methylstewed.com
 i-lookup.com
 i.cdnkimg.com
 i1media.no
@@ -14831,7 +14880,6 @@ imimobile.com
 immensehoney.com
 immerseweariness.com
 immoxdzdke.com
-impact-ad.jp
 impactmobile.com
 impeccablewriter.com
 importedincrease.com
@@ -15215,6 +15263,7 @@ luloffer.com
 lumpbackstage.com
 lumupu.xyz
 lunarads.com
+lutoorgourgi.com
 luxope.com
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -15473,6 +15522,7 @@ mutcheng.net
 muwmedia.com
 mw19c3mi5a.com
 mwejhobumo.com
+mwekuzaj.com
 mxptint.net
 mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
@@ -15581,6 +15631,7 @@ nexac.com
 nextmillmedia.com
 nfucujozv.com
 ng3.ads.warnerbros.com
+nhusjhrshwxvl.com
 nicksstevmark.com
 nicohgokppuj.com
 nightmareirene.com
@@ -16151,6 +16202,7 @@ ptoushoa.com
 ptukasti.com
 ptumsess.com
 ptuxapow.com
+ptuzrywmega.com
 ptygunjk.com
 pu1.biz
 pu3.biz
@@ -16292,6 +16344,7 @@ rapidfoxengine.com
 rapleaf.com
 raresummer.com
 rate.ru
+raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcvlink.com
@@ -16436,6 +16489,7 @@ rosysolvingscallion.com
 rot.spotsniper.ru
 rotabol.com
 rotumal.com
+roumaniangravelnot.com
 rounddescribe.com
 roundspaniardindefinitely.com
 rounuatedanximum.com
@@ -16844,6 +16898,7 @@ suppliedhopelesspredestination.com
 supportiverarity.com
 surecheapermoisture.com
 surfmusik-adserver.de
+surtaultathoado.com
 susifhfh2d8ldn09.com
 suspectedadvisor.com
 suwcaxazzn.com
@@ -17158,6 +17213,7 @@ tyroo.com
 tzegilo.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
+tzwtzygxslrk.com
 u1pmt.com
 u9axpzf50.com
 uarating.com
@@ -17782,7 +17838,6 @@ analytics.amazing-media.com
 analytics.archive.org
 analytics.avcdn.net
 analytics.bitrix.info
-analytics.ccgateway.net
 analytics.cdn.live
 analytics.clickdimensions.com
 analytics.cloudron.io
@@ -17881,7 +17936,6 @@ cadmus.script.ac
 cankaowang.com
 cc-api-data.adobe.io
 cc.swiftype.com
-ccgateway.net
 cdn.c-i.as
 cdn.counter.dev
 cdn.lr-ingest.io
@@ -18201,7 +18255,6 @@ playtomic.com
 ponos.zeronaught.com
 poole-collector-prod.n3twork.com
 popupmaker.com
-prod.uidapi.com
 prodregistryv2.org
 promotionengine.com
 prooffactor.com
