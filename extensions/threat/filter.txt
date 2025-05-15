@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 15 May 2025 14:03 UTC+7
-! Version: 2505151403
-! Blocked: 4.750 rules
+! Last modified: 15 May 2025 21:59 UTC+7
+! Version: 2505152159
+! Blocked: 4.751 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1633,6 +1633,7 @@
 ||luuvanquang.com^
 ||lvietcombank.com^
 ||lzd2024.com^
+||m-facebook.com.vn^
 ||m-facebookk.com.vn^
 ||m-fb.com^
 ||m-fb.site^
