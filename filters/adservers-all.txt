@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 15 May 2025 21:59 UTC+7
-! Version: 2505152159
-! Blocked: 9.387 rules
+! Last modified: 18 May 2025 23:38 UTC+7
+! Version: 2505182338
+! Blocked: 9.395 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1458,6 +1458,7 @@
 ||bebi.com^
 ||beesads.com^
 ||beop.io^
+||berryessa.stats.live-video.net^
 ||bestcontentfood.top^
 ||bestfreecounterstat.com^
 ||betrad.com^
@@ -2370,6 +2371,7 @@
 ||pixels.spotify.com^
 ||pixfuture.com^
 ||platform.tumblr.com^
+||player.stats.live-video.net^
 ||playstream.media^
 ||pmddby.com^
 ||pncloudfl.com^
@@ -2390,6 +2392,8 @@
 ||pps-log.op-mobile.opera.com^
 ||pr-bh.ybp.yahoo.com^
 ||pr.comet.yahoo.com^
+||prd1.personalization.centech.glulive.com^
+||prd1.revid.centech.glulive.com^
 ||prdredir.com^
 ||prebid.org^
 ||predataclient.b-cdn.net^
@@ -5882,6 +5886,7 @@
 ||gw-iad-bid.ymmobi.com^
 ||gwallet.com^
 ||gwfqxkelp.com^
+||gwvlrourhdkp.com^
 ||gwyvusam.com^
 ||gyfumobo.com^
 ||gzefitkcep.com^
@@ -6321,6 +6326,7 @@
 ||kaulouvaun.com^
 ||kaurieseluxate.com^
 ||kcaapxanwv.com^
+||kdm8.com^
 ||kdpxksukngrg.com^
 ||ke.minterhazes.com^
 ||keapeiros.xyz^
@@ -7308,6 +7314,7 @@
 ||pc2ads.com^
 ||pcash.imlive.com^
 ||pcmclk.com^
+||pearlysweepoverface.com^
 ||pebadu.com^
 ||pectationselea.info^
 ||peelismramona.com^
@@ -7731,6 +7738,7 @@
 ||rabbitbreath.com^
 ||radiate.com^
 ||radiumone.com^
+||radxabsah.com^
 ||raggedstriking.com^
 ||railingperformance.com^
 ||railwayrainstorm.com^

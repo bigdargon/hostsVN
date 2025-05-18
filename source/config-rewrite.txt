@@ -48,6 +48,7 @@
 ^https?:\/\/.+\.googlevideo\.com\/ptracking
 ^https?:\/\/.+\.googlevideo\.com\/videogoodput
 
+^https?:\/\/.+\.youtube\.com\/.+adcontext
 ^https?:\/\/.+\.youtube\.com\/.+adformat
 ^https?:\/\/.+\.youtube\.com\/.+get_ads
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/ads
