@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 18 May 2025 23:38 UTC+7
-! Version: 2505182338
-! Blocked: 4.303 rules
+! Last modified: 19 May 2025 23:24 UTC+7
+! Version: 2505192324
+! Blocked: 4.305 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1952,6 +1952,7 @@
 ||niftygatevay.com^
 ||niftygotevay.com^
 ||nikdaoquan.vn^
+||nikestorevn.com^
 ||nouespaipenedes.com^
 ||nqsncoau.buzz^
 ||nsomomo.com^
@@ -2205,6 +2206,7 @@
 ||sadm26.com^
 ||salu.gq^
 ||samcenter-vn.com^
+||samsungvn.info^
 ||sandealshopee.com^
 ||sanduon.com^
 ||sanmomo.me^

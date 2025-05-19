@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 18 May 2025 23:38 UTC+7
-# Version: 2505182338
-# Blocked: 4.824 domains
+# Last modified: 19 May 2025 23:24 UTC+7
+# Version: 2505192324
+# Blocked: 4.828 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2242,6 +2242,7 @@
 0.0.0.0 niftygatevay.com
 0.0.0.0 niftygotevay.com
 0.0.0.0 nikdaoquan.vn
+0.0.0.0 nikestorevn.com
 0.0.0.0 nkstherefor.cfd
 0.0.0.0 notbeexcluded.cfd
 0.0.0.0 nouespaipenedes.com
@@ -2549,6 +2550,7 @@
 0.0.0.0 saifcrack.com
 0.0.0.0 salu.gq
 0.0.0.0 samcenter-vn.com
+0.0.0.0 samsungvn.info
 0.0.0.0 sandealshopee.com
 0.0.0.0 sanduon.com
 0.0.0.0 sanmomo.me
@@ -4721,7 +4723,9 @@
 0.0.0.0 www.lottevn999.com
 0.0.0.0 www.lottevn9999.com
 0.0.0.0 www.naptheffx2.com
+0.0.0.0 www.nikestorevn.com
 0.0.0.0 www.samcenter-vn.com
+0.0.0.0 www.samsungvn.info
 0.0.0.0 www.sc0mvn.com
 0.0.0.0 www.seleeashopee.com
 0.0.0.0 www.sgxcoin.net

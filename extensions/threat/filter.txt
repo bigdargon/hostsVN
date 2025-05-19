@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 18 May 2025 23:38 UTC+7
-! Version: 2505182338
-! Blocked: 4.751 rules
+! Last modified: 19 May 2025 23:24 UTC+7
+! Version: 2505192324
+! Blocked: 4.753 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2249,6 +2249,7 @@
 ||niftygatevay.com^
 ||niftygotevay.com^
 ||nikdaoquan.vn^
+||nikestorevn.com^
 ||nkstherefor.cfd^
 ||notbeexcluded.cfd^
 ||nouespaipenedes.com^
@@ -2556,6 +2557,7 @@
 ||saifcrack.com^
 ||salu.gq^
 ||samcenter-vn.com^
+||samsungvn.info^
 ||sandealshopee.com^
 ||sanduon.com^
 ||sanmomo.me^
