@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 19 May 2025 23:24 UTC+7
-! Version: 2505192324
-! Blocked: 3.356 rules
+! Last modified: 25 May 2025 23:57 UTC+7
+! Version: 2505252357
+! Blocked: 3.359 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1265,6 +1265,7 @@
 ||hitpro.run^
 ||hl8thai8.com^
 ||hn8.link^
+||hong88vn.win^
 ||host.im99.com^
 ||hot51.com^
 ||hotlive.in^
@@ -1279,6 +1280,7 @@
 ||i.vip79.com^
 ||i.win79.com^
 ||i.win79.fun^
+||i.zo10.win^
 ||i8bet.org^
 ||i8fun.cc^
 ||i9-bet.com^
@@ -3357,6 +3359,7 @@
 ||zet88.com^
 ||zo.club^
 ||zo1.win^
+||zo10.win^
 ||zo2.win^
 ||zo88.com^
 ||zo88.org^
