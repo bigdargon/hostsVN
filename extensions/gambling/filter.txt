@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 30 May 2025 22:55 UTC+7
-! Version: 2505302255
-! Blocked: 92.818 rules
+! Last modified: 02 Jun 2025 15:02 UTC+7
+! Version: 2506021502
+! Blocked: 92.822 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -115,6 +115,8 @@
 ||001992.com^
 ||001993.com^
 ||001998.com^
+||001fxh9-fe-source.bjravv03.com^
+||001fxh9-tiger-fluid.bjravv03.com^
 ||001k8.com^
 ||001ky1.com^
 ||001ky4.com^
@@ -42796,6 +42798,7 @@
 ||8x6842.com^
 ||8x6845.com^
 ||8x6849.com^
+||8x6850.com^
 ||8x6851.com^
 ||8x6856.com^
 ||8x6859.com^
@@ -42916,6 +42919,7 @@
 ||8x7993.com^
 ||8x8011.com^
 ||8x8015.com^
+||8x8026.com^
 ||8x8044.com^
 ||8x8054.com^
 ||8x8063.com^

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 30 May 2025 22:55 UTC+7
-# Version: 2505302255
-# Blocked: 94.079 domains
+# Last modified: 02 Jun 2025 15:02 UTC+7
+# Version: 2506021502
+# Blocked: 94.083 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -118,6 +118,8 @@
 0.0.0.0 001992.com
 0.0.0.0 001993.com
 0.0.0.0 001998.com
+0.0.0.0 001fxh9-fe-source.bjravv03.com
+0.0.0.0 001fxh9-tiger-fluid.bjravv03.com
 0.0.0.0 001k8.com
 0.0.0.0 001ky1.com
 0.0.0.0 001ky4.com
@@ -42790,6 +42792,7 @@
 0.0.0.0 8x6842.com
 0.0.0.0 8x6845.com
 0.0.0.0 8x6849.com
+0.0.0.0 8x6850.com
 0.0.0.0 8x6851.com
 0.0.0.0 8x6856.com
 0.0.0.0 8x6859.com
@@ -42910,6 +42913,7 @@
 0.0.0.0 8x7993.com
 0.0.0.0 8x8011.com
 0.0.0.0 8x8015.com
+0.0.0.0 8x8026.com
 0.0.0.0 8x8044.com
 0.0.0.0 8x8054.com
 0.0.0.0 8x8063.com
