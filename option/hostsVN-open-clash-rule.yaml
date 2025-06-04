@@ -155,6 +155,7 @@ payload:
   - DOMAIN-SUFFIX,lio.aiservice.vn
   - DOMAIN-SUFFIX,log-*.epicdn.me
   - DOMAIN-SUFFIX,log-*.zadn.vn
+  - DOMAIN-SUFFIX,log-collector.shopee.vn
   - DOMAIN-SUFFIX,log-vietnamplus-vn.cdn.ampproject.org
   - DOMAIN-SUFFIX,log.api.zaloapp.com
   - DOMAIN-SUFFIX,log.dantocmiennui.vn
@@ -304,6 +305,7 @@ payload:
   - DOMAIN-SUFFIX,trackingsea.zingplay.com
   - DOMAIN-SUFFIX,trackingvn.zingplay.com
   - DOMAIN-SUFFIX,trk-pcweb.api.zaloapp.com
+  - DOMAIN-SUFFIX,userstats.shopee.vn
   - DOMAIN-SUFFIX,v20.cnnd.vn
   - DOMAIN-SUFFIX,v9banners-com.cdn.ampproject.org
   - DOMAIN-SUFFIX,vads.net.vn
@@ -606,7 +608,6 @@ payload:
   - DOMAIN-SUFFIX,live.careplusvn.com
   - DOMAIN-SUFFIX,live.vnpgroup.net
   - DOMAIN-SUFFIX,liveonline.nhanhoa.com
-  - DOMAIN-SUFFIX,log-collector.shopee.vn
   - DOMAIN-SUFFIX,log-dttc.sggp.org.vn
   - DOMAIN-SUFFIX,log-en.nhandan.vn
   - DOMAIN-SUFFIX,log-en.sggp.org.vn
@@ -850,7 +851,6 @@ payload:
   - DOMAIN-SUFFIX,upl.net-solutions.vn
   - DOMAIN-SUFFIX,us.mplis.gov.vn
   - DOMAIN-SUFFIX,user.headlines.pw
-  - DOMAIN-SUFFIX,userstats.shopee.vn
   - DOMAIN-SUFFIX,v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
   - DOMAIN-SUFFIX,v9banners.com
   - DOMAIN-SUFFIX,vieon-tracking.vieon.vn
@@ -3360,6 +3360,7 @@ payload:
   - DOMAIN-SUFFIX,adrastos-eli.com
   - DOMAIN-SUFFIX,adrazzi.com
   - DOMAIN-SUFFIX,adreactor.com
+  - DOMAIN-SUFFIX,adready.vip
   - DOMAIN-SUFFIX,adreclaim.com
   - DOMAIN-SUFFIX,adrecreate.com
   - DOMAIN-SUFFIX,adremedy.com
@@ -4579,7 +4580,6 @@ payload:
   - DOMAIN-SUFFIX,bzwo2lmwioxa.com
   - DOMAIN-SUFFIX,bzydilasq.com
   - DOMAIN-SUFFIX,bzyfzusiqohk.com
-  - DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
   - DOMAIN-SUFFIX,c.bannerflow.net
   - DOMAIN-SUFFIX,c.bigmir.net
   - DOMAIN-SUFFIX,c.cdn-server.top
@@ -6474,6 +6474,7 @@ payload:
   - DOMAIN-SUFFIX,libedgolart.com
   - DOMAIN-SUFFIX,lidburger.com
   - DOMAIN-SUFFIX,lidosquey.shop
+  - DOMAIN-SUFFIX,lifpv.com
   - DOMAIN-SUFFIX,liftdna.com
   - DOMAIN-SUFFIX,ligatus.de
   - DOMAIN-SUFFIX,ligeia-gip.com
@@ -6948,6 +6949,7 @@ payload:
   - DOMAIN-SUFFIX,nazarickol.com
   - DOMAIN-SUFFIX,nazolncubha.com
   - DOMAIN-SUFFIX,ncaxvlngll.com
+  - DOMAIN-SUFFIX,nddjdbxwbpp.com
   - DOMAIN-SUFFIX,ndha4sding6gf.com
   - DOMAIN-SUFFIX,ndparking.com
   - DOMAIN-SUFFIX,ndroip.com
@@ -9043,6 +9045,7 @@ payload:
   - DOMAIN-SUFFIX,velismedia.com
   - DOMAIN-SUFFIX,velocecdn.com
   - DOMAIN-SUFFIX,velocitycdn.com
+  - DOMAIN-SUFFIX,velsirtohoosh.net
   - DOMAIN-SUFFIX,velti.com
   - DOMAIN-SUFFIX,venetrigni.com
   - DOMAIN-SUFFIX,ventivmedia.com
@@ -9435,6 +9438,7 @@ payload:
   - DOMAIN-SUFFIX,zikroarg.com
   - DOMAIN-SUFFIX,zimpolo.com
   - DOMAIN-SUFFIX,zintext.com
+  - DOMAIN-SUFFIX,zipazvzu.com
   - DOMAIN-SUFFIX,zkuziwzzyf.com
   - DOMAIN-SUFFIX,zkyqafavdg.com
   - DOMAIN-SUFFIX,zkyrzoqc.com

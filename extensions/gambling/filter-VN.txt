@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 02 Jun 2025 15:02 UTC+7
-! Version: 2506021502
-! Blocked: 3.362 rules
+! Last modified: 04 Jun 2025 09:39 UTC+7
+! Version: 2506040939
+! Blocked: 3.370 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -521,7 +521,9 @@
 ||b29.cafe^
 ||b29.pub^
 ||b369.com^
+||b4.big88.com^
 ||b4.pum88.com^
+||b4.qibet.com^
 ||b4.zet88.com^
 ||b52.cc^
 ||b52.club^
@@ -589,6 +591,7 @@
 ||biendo1.com^
 ||biendo3.com^
 ||biendo9.com^
+||big88.com^
 ||big88.one^
 ||bigboss23.com^
 ||bigboss93.com^
@@ -2366,6 +2369,7 @@
 ||qh88.baby^
 ||qh91.com^
 ||qh99.com^
+||qibet.com^
 ||qq101.com^
 ||qq188.com^
 ||qq288.com^
@@ -2504,6 +2508,7 @@
 ||site.ko66vip.casino^
 ||site.ko66vip.club^
 ||sk.fm88.com^
+||sk.xibet.com^
 ||sky88.bet^
 ||sky88.com^
 ||sky88.fun^
@@ -3092,6 +3097,7 @@
 ||vsports88.asia^
 ||vsports88.com^
 ||vstar79.com^
+||vu88.com^
 ||vua2.club^
 ||vua88.app^
 ||vua88.biz^
@@ -3162,6 +3168,7 @@
 ||vz99.app^
 ||vz99vietnam.com^
 ||w-sunwin.net^
+||w2.wi88.win^
 ||w365win.win^
 ||w388.com^
 ||w698.bet^
@@ -3293,6 +3300,7 @@
 ||xemdaga.tv^
 ||xemdagacampuchia.com^
 ||xemtylecacuoc.bong99.com^
+||xibet.com^
 ||xibet.win^
 ||xidach.8day66.com^
 ||xingtou888.com^

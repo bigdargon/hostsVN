@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 02 Jun 2025 15:02 UTC+7
-# Version: 2506021502
-# Blocked: 4.829 domains
+# Last modified: 04 Jun 2025 09:39 UTC+7
+# Version: 2506040939
+# Blocked: 4.831 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -281,6 +281,7 @@
 0.0.0.0 baohanhdienmayxanhvn.com
 0.0.0.0 baohiemvietinbank.com
 0.0.0.0 baohiemxahoi.vnagov.com
+0.0.0.0 baomoivn.net
 0.0.0.0 baonhanh.online
 0.0.0.0 baosaoviet24h.net
 0.0.0.0 baothanhnien.top
@@ -3574,6 +3575,7 @@
 0.0.0.0 tintinvay.com
 0.0.0.0 tintrian2022.com
 0.0.0.0 tintuc-24h.com
+0.0.0.0 tintuc24h.xyz
 0.0.0.0 tintucnganhang.fun
 0.0.0.0 tintucnhanh.online
 0.0.0.0 tinvay.vn

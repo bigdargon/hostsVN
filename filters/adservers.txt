@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Jun 2025 15:02 UTC+7
-! Version: 2506021502
+! Last modified: 04 Jun 2025 09:40 UTC+7
+! Version: 2506040940
 ! Blocked: 879 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -162,6 +162,7 @@
 ||lio.aiservice.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
+||log-collector.shopee.vn^
 ||log-vietnamplus-vn.cdn.ampproject.org^
 ||log.api.zaloapp.com^
 ||log.dantocmiennui.vn^
@@ -311,6 +312,7 @@
 ||trackingsea.zingplay.com^
 ||trackingvn.zingplay.com^
 ||trk-pcweb.api.zaloapp.com^
+||userstats.shopee.vn^
 ||v20.cnnd.vn^
 ||v9banners-com.cdn.ampproject.org^
 ||vads.net.vn^
@@ -613,7 +615,6 @@
 ||live.careplusvn.com^
 ||live.vnpgroup.net^
 ||liveonline.nhanhoa.com^
-||log-collector.shopee.vn^
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
@@ -857,7 +858,6 @@
 ||upl.net-solutions.vn^
 ||us.mplis.gov.vn^
 ||user.headlines.pw^
-||userstats.shopee.vn^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||v9banners.com^
 ||vieon-tracking.vieon.vn^
