@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 04 Jun 2025 16:23 UTC+7
-# Version: 2506041623
-# Blocked: 94.100 domains
+# Last modified: 05 Jun 2025 22:19 UTC+7
+# Version: 2506052219
+# Blocked: 94.111 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -697,6 +697,7 @@
 0.0.0.0 01go99.com
 0.0.0.0 01qh88.com
 0.0.0.0 01slvip.com
+0.0.0.0 01uu88.com
 0.0.0.0 01ycw.com
 0.0.0.0 02000.com
 0.0.0.0 0200n.com
@@ -1118,6 +1119,7 @@
 0.0.0.0 03jili.com
 0.0.0.0 03pxj.com
 0.0.0.0 03qh88.com
+0.0.0.0 03uu88.com
 0.0.0.0 03v7sb.com
 0.0.0.0 04000.vip
 0.0.0.0 04008vip.com
@@ -1278,6 +1280,7 @@
 0.0.0.0 04bet.xyz
 0.0.0.0 04pxj.com
 0.0.0.0 04qh88.com
+0.0.0.0 04uu88.com
 0.0.0.0 04vki0ge.com
 0.0.0.0 04zxkf.com
 0.0.0.0 05000.vip
@@ -6519,6 +6522,7 @@
 0.0.0.0 16p.live
 0.0.0.0 16pkwin.com
 0.0.0.0 16qh88.com
+0.0.0.0 16uu88.com
 0.0.0.0 16v28.com
 0.0.0.0 16wonwin.com
 0.0.0.0 16xin.com
@@ -10022,6 +10026,7 @@
 0.0.0.0 20jlslot.vip
 0.0.0.0 20pj8.net
 0.0.0.0 20pkwin.com
+0.0.0.0 20uu88.com
 0.0.0.0 20wei.com
 0.0.0.0 20wonwin.com
 0.0.0.0 20xpj20.com
@@ -65824,13 +65829,16 @@
 0.0.0.0 images.1097638.com
 0.0.0.0 images.11029984.com
 0.0.0.0 images.1138403.com
+0.0.0.0 images.1492929.com
 0.0.0.0 images.20241213.com
 0.0.0.0 images.21947392.com
 0.0.0.0 images.29210120.com
 0.0.0.0 images.3138722.com
 0.0.0.0 images.388bet.vip
+0.0.0.0 images.394993282.com
 0.0.0.0 images.3953049.com
 0.0.0.0 images.484930494.com
+0.0.0.0 images.6440949940.com
 0.0.0.0 images.6929183.com
 0.0.0.0 images.847830.com
 0.0.0.0 images.b141847.com
@@ -84024,6 +84032,9 @@
 0.0.0.0 uu68.com
 0.0.0.0 uu68.net
 0.0.0.0 uu68.vip
+0.0.0.0 uu88.com
+0.0.0.0 uu88.now
+0.0.0.0 uu88.pages.dev
 0.0.0.0 uu881.net
 0.0.0.0 uu8810.net
 0.0.0.0 uu8814.net

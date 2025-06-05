@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 04 Jun 2025 16:23 UTC+7
-# Version: 2506041623
-# Blocked: 4.379 domains
+# Last modified: 05 Jun 2025 22:19 UTC+7
+# Version: 2506052219
+# Blocked: 4.380 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -439,6 +439,7 @@
 0.0.0.0 ctv-shopee.com
 0.0.0.0 ctvay.net
 0.0.0.0 ctvshopee.com
+0.0.0.0 ctxkfl.cndgz.link
 0.0.0.0 cuocthianhmuahebeyeu.weebly.com
 0.0.0.0 cuocthigionghatvietnhi2021.weebly.com
 0.0.0.0 cuocthitainangnhithang12.weebly.com
