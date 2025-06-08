@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Jun 2025 22:19 UTC+7
-# Version: 2506052219
-# Blocked: 18.688 domains
+# Last modified: 08 Jun 2025 23:08 UTC+7
+# Version: 2506082308
+# Blocked: 18.697 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1241,24 +1241,26 @@
 0.0.0.0 www.appnext.com
 #[vungle.com]
 0.0.0.0 ads.api.vungle.com
-0.0.0.0 vungle.com
+0.0.0.0 adx.ads.vungle.com
+0.0.0.0 akamai.vungle-cdn.vungle.com
 0.0.0.0 api.vungle.com
 0.0.0.0 bd.vungle.com
 0.0.0.0 billboard.vungle.com
 0.0.0.0 cdn-lb.vungle.com
 0.0.0.0 ci.vungle.com
-0.0.0.0 data.vungle.com
 0.0.0.0 data-ext.vungle.com
+0.0.0.0 data.vungle.com
 0.0.0.0 influxdb2.vungle.com
+0.0.0.0 ingest-qa.kube-prod.vungle.com
 0.0.0.0 ingest.vungle.com
 0.0.0.0 jaeger.vungle.com
 0.0.0.0 kubana.vungle.com
-0.0.0.0 ingest-qa.kube-prod.vungle.com
+0.0.0.0 logs.ads.vungle.com
 0.0.0.0 ltv-data-api.kube-prod.vungle.com
 0.0.0.0 ltv-spark-webui.kube-prod.vungle.com
 0.0.0.0 monitoring.vungle.com
 0.0.0.0 v.vungle.com
-0.0.0.0 akamai.vungle-cdn.vungle.com
+0.0.0.0 vungle.com
 0.0.0.0 www.vungle.com
 #[qq.com]
 0.0.0.0 ad.qq.com
@@ -14808,6 +14810,7 @@
 0.0.0.0 aungudie.com
 0.0.0.0 ausoafab.net
 0.0.0.0 autchoog.net
+0.0.0.0 authoaxoms.net
 0.0.0.0 autjaetpxhj.com
 0.0.0.0 auto-bannertausch.de
 0.0.0.0 automatedrepsturmoil.com
@@ -14959,6 +14962,7 @@
 0.0.0.0 baywednesday.com
 0.0.0.0 bbbpromos.org
 0.0.0.0 bbelements.com
+0.0.0.0 bbyloavu.com
 0.0.0.0 bcaojrbriciw.com
 0.0.0.0 bcfads.com
 0.0.0.0 bcloudhost.com
@@ -16472,6 +16476,7 @@
 0.0.0.0 hpimavpico.com
 0.0.0.0 hppvkbfcuq.com
 0.0.0.0 hrjbylofyso.com
+0.0.0.0 hscozgoqffn.com
 0.0.0.0 htlbid.com
 0.0.0.0 httpool.com
 0.0.0.0 htyqiwzunj.com
@@ -16487,6 +16492,7 @@
 0.0.0.0 huskinessimminentstylus.com
 0.0.0.0 huskypartydance.com
 0.0.0.0 hutchieshode.com
+0.0.0.0 hvxnlmjx.com
 0.0.0.0 hw.zuimeitianqi.com
 0.0.0.0 hwpnocpctu.com
 0.0.0.0 hxgqqxopf.com
@@ -16733,6 +16739,7 @@
 0.0.0.0 justrelevant.com
 0.0.0.0 justwebads.com
 0.0.0.0 jvmhtxiqdfr.xyz
+0.0.0.0 jxjttecednvb.com
 0.0.0.0 jyhlgpkn.com
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kaffnet.com
@@ -16913,6 +16920,7 @@
 0.0.0.0 lizardslaugh.com
 0.0.0.0 lkhbcpwpyecs.com
 0.0.0.0 llink.site
+0.0.0.0 llzv.lzazqroyklozv.top
 0.0.0.0 lmajm.lbylqerzmzlzq.top
 0.0.0.0 lmmjj.lqbvjmkoozark.top
 0.0.0.0 lo8ve6ygour3pea4cee.com
@@ -17606,7 +17614,6 @@
 0.0.0.0 pagerank-server7.de
 0.0.0.0 pageranktop.com
 0.0.0.0 pagiwp.com
-0.0.0.0 paikoasa.tv
 0.0.0.0 pajnutas.com
 0.0.0.0 palaceunlituntouched.com
 0.0.0.0 palaroleg.guru
@@ -17968,6 +17975,7 @@
 0.0.0.0 qa-ads.nobid.com
 0.0.0.0 qa.shboshbok.com
 0.0.0.0 qahntenkyf.com
+0.0.0.0 qainfcnvfensl.site
 0.0.0.0 qakzfubfozaj.com
 0.0.0.0 qarhrytwyqp.com
 0.0.0.0 qavhivvcex.com
@@ -19243,6 +19251,7 @@
 0.0.0.0 widgetbucks.com
 0.0.0.0 widgets.coinmarketcap.com
 0.0.0.0 widow5blackfr.com
+0.0.0.0 wijwunrcoo.com
 0.0.0.0 wikfuttupw.com
 0.0.0.0 wikia-ads.wikia.com
 0.0.0.0 wildedbarley.com

@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 05 Jun 2025 22:19 UTC+7
-# Version: 2506052219
-# Blocked: 4.832 domains
+# Last modified: 08 Jun 2025 23:08 UTC+7
+# Version: 2506082308
+# Blocked: 4.834 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -806,6 +806,7 @@
 0.0.0.0 eximbank.xyz
 0.0.0.0 exovietnam.xyz
 0.0.0.0 expressmoney.cc
+0.0.0.0 f-b.live
 0.0.0.0 facabook.id.vn
 0.0.0.0 face-book.co
 0.0.0.0 faceb.me
@@ -4408,6 +4409,7 @@
 0.0.0.0 vnpay247-ruttientindung.com
 0.0.0.0 vnpaycredit-ruttientindung247.com
 0.0.0.0 vnpaycreditruttientindung-247.com
+0.0.0.0 vnponte.top
 0.0.0.0 vnpt99.com
 0.0.0.0 vnpttechnology.weebly.com
 0.0.0.0 vnsehotro.com
