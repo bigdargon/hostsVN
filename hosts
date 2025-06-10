@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Jun 2025 23:08 UTC+7
-# Version: 2506082308
-# Blocked: 18.697 domains
+# Last modified: 10 Jun 2025 21:57 UTC+7
+# Version: 2506102157
+# Blocked: 18.730 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11720,6 +11720,38 @@
 #[stats.live-video.net]
 0.0.0.0 berryessa.stats.live-video.net
 0.0.0.0 player.stats.live-video.net
+#[toponadss.com]
+0.0.0.0 toponadss.com
+0.0.0.0 adx-os-bid.toponadss.com
+0.0.0.0 adx-os.toponadss.com
+0.0.0.0 adx-sg-req.toponadss.com
+0.0.0.0 adx-sg.toponadss.com
+0.0.0.0 adx-vg-req.toponadss.com
+0.0.0.0 adx-vg.toponadss.com
+0.0.0.0 adx.toponadss.com
+0.0.0.0 api.toponadss.com
+0.0.0.0 da.toponadss.com
+0.0.0.0 datk.toponadss.com
+0.0.0.0 img.toponadss.com
+0.0.0.0 tk-sg.toponadss.com
+0.0.0.0 tk.toponadss.com
+0.0.0.0 www.toponadss.com
+#[bridgeoos.com]
+0.0.0.0 bridgeoos.com
+0.0.0.0 adx-os-bid.bridgeoos.com
+0.0.0.0 adx-os.bridgeoos.com
+0.0.0.0 adx-sg-req.bridgeoos.com
+0.0.0.0 adx-sg.bridgeoos.com
+0.0.0.0 api.bridgeoos.com
+0.0.0.0 da.bridgeoos.com
+0.0.0.0 datk.bridgeoos.com
+0.0.0.0 tk-sg.bridgeoos.com
+0.0.0.0 tk.bridgeoos.com
+0.0.0.0 www.bridgeoos.com
+#[birdgesdk.com]
+0.0.0.0 birdgesdk.com
+0.0.0.0 aa.birdgesdk.com
+0.0.0.0 pitk.birdgesdk.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -16487,6 +16519,7 @@
 0.0.0.0 humandemand.com
 0.0.0.0 hunchlastlysluice.com
 0.0.0.0 huppontic.com
+0.0.0.0 hurarwjrirti.com
 0.0.0.0 hurkarubypaths.com
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 huskinessimminentstylus.com
@@ -17940,6 +17973,7 @@
 0.0.0.0 pulse360.com
 0.0.0.0 pulseadnetwork.com
 0.0.0.0 pulvinioreodon.com
+0.0.0.0 pumywyczbks.com
 0.0.0.0 punyplant.com
 0.0.0.0 puppyderisiverear.com
 0.0.0.0 pupspu.com
@@ -18810,7 +18844,6 @@
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 toplistcity.com
 0.0.0.0 topmmorpgsites.com
-0.0.0.0 toponadss.com
 0.0.0.0 toprevenuecpmnetwork.com
 0.0.0.0 toprevenuegate.com
 0.0.0.0 topsearcher.com
@@ -18829,6 +18862,7 @@
 0.0.0.0 touchclarity.com
 0.0.0.0 touphudipodou.net
 0.0.0.0 tour.brazzers.com
+0.0.0.0 tpmagqvjzgvos.com
 0.0.0.0 tpnads.com
 0.0.0.0 tpudapafr.com
 0.0.0.0 trac.mediaiqdigital.com
@@ -19137,6 +19171,7 @@
 0.0.0.0 voredi.com
 0.0.0.0 vounaipu.net
 0.0.0.0 voupsauk.com
+0.0.0.0 vpldfujttsdfj.com
 0.0.0.0 vpn-explained.com
 0.0.0.0 vpon.com
 0.0.0.0 vqhlhfjmvcvxw.com
@@ -19525,6 +19560,7 @@
 0.0.0.0 zimpolo.com
 0.0.0.0 zintext.com
 0.0.0.0 zipazvzu.com
+0.0.0.0 zitauptajoumti.com
 0.0.0.0 zkuziwzzyf.com
 0.0.0.0 zkyqafavdg.com
 0.0.0.0 zkyrzoqc.com
