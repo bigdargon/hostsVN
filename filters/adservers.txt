@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Jun 2025 21:57 UTC+7
-! Version: 2506102157
-! Blocked: 879 rules
+! Last modified: 13 Jun 2025 11:35 UTC+7
+! Version: 2506131135
+! Blocked: 886 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -118,6 +118,7 @@
 ||customers.fptad.com^
 ||dable.io^
 ||daleriki.com^
+||dantocmiennui-log.baotintuc.vn^
 ||delivery.akadigital.vn^
 ||delivery.vtc.vn^
 ||delivery.vtcnew.com.vn^
@@ -127,6 +128,8 @@
 ||dtadnetwork.com^
 ||eclick.vn^
 ||elogs.vnexpress.net^
+||en-log.vietnamplus.vn^
+||es-log.vietnamplus.vn^
 ||eva-ad.24hstatic.com^
 ||ezca.asia^
 ||facebook-ads.hara.vn^
@@ -134,6 +137,7 @@
 ||ff.imacdn.com^
 ||fly-ads.net^
 ||flygame.io^
+||fr-log.vietnamplus.vn^
 ||fuseplatform.net^
 ||gammaplatform.com^
 ||gammassp.com^
@@ -257,6 +261,7 @@
 ||quangcao.tuoitre.vn^
 ||realclick.vn^
 ||rec.aiservice.vn^
+||ru-log.vietnamplus.vn^
 ||s-logperf.vnexpress.net^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
@@ -349,6 +354,7 @@
 ||zalo-ads-td.zadn.vn^
 ||zalo-ads.zadn.vn^
 ||zaloads-480.zdn.vn^
+||zh-log.vietnamplus.vn^
 ||zlog.mp3.zing.vn^
 ||zlog.zingmp3.vn^
 ||zminer.zaloapp.com^
@@ -628,6 +634,7 @@
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
 ||log.baogialai.com.vn^
+||log.baohatinh.vn^
 ||log.baolaocai.vn^
 ||log.baomoi.com^
 ||log.baonghean.vn^

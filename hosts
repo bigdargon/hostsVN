@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 10 Jun 2025 21:57 UTC+7
-# Version: 2506102157
-# Blocked: 18.730 domains
+# Last modified: 13 Jun 2025 11:35 UTC+7
+# Version: 2506131135
+# Blocked: 18.753 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11253,9 +11253,6 @@
 0.0.0.0 r.apkpure.net
 0.0.0.0 report.apkpure.net
 0.0.0.0 t.apkpure.net
-#[statsigapi.net]
-0.0.0.0 events.statsigapi.net
-0.0.0.0 statsigapi.net
 #[adcs-*.myappsget.com]
 0.0.0.0 adcs-ap.myappsget.com
 0.0.0.0 adcs-ue.myappsget.com
@@ -13006,6 +13003,12 @@
 0.0.0.0 logfr.vietnamplus.vn
 0.0.0.0 logru.vietnamplus.vn
 0.0.0.0 logzh.vietnamplus.vn
+0.0.0.0 dantocmiennui-log.baotintuc.vn
+0.0.0.0 en-log.vietnamplus.vn
+0.0.0.0 es-log.vietnamplus.vn
+0.0.0.0 fr-log.vietnamplus.vn
+0.0.0.0 ru-log.vietnamplus.vn
+0.0.0.0 zh-log.vietnamplus.vn
 #[dantocmiennui.vn]
 0.0.0.0 log.dantocmiennui.vn
 0.0.0.0 logkm.dantocmiennui.vn
@@ -13505,6 +13508,7 @@
 0.0.0.0 log.baodatviet.vn
 0.0.0.0 log.baodauthau.vn
 0.0.0.0 log.baogialai.com.vn
+0.0.0.0 log.baohatinh.vn
 0.0.0.0 log.baolaocai.vn
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.baonghean.vn
@@ -14892,6 +14896,7 @@
 0.0.0.0 b5e75c56.com
 0.0.0.0 baaomenaltho.com
 0.0.0.0 babyniceshark.com
+0.0.0.0 baccytorve.com
 0.0.0.0 backbeatmedia.com
 0.0.0.0 backlogdoorstepsinister.com
 0.0.0.0 backspacecomprisedgoliath.com
@@ -15071,6 +15076,7 @@
 0.0.0.0 billboard.cz
 0.0.0.0 bilqi-omv.com
 0.0.0.0 bimlocal.com
+0.0.0.0 binomnet3.com
 0.0.0.0 bitads.net
 0.0.0.0 bitcoinsports.org
 0.0.0.0 bizrate.com
@@ -15254,6 +15260,7 @@
 0.0.0.0 captainbicycle.com
 0.0.0.0 captify.co.uk
 0.0.0.0 carambo.la
+0.0.0.0 carbarnbonang.shop
 0.0.0.0 carbonads.net
 0.0.0.0 caribedkurukh.com
 0.0.0.0 carryingfarmerlumber.com
@@ -15966,11 +15973,13 @@
 0.0.0.0 eltontry.com
 0.0.0.0 emarketer.com
 0.0.0.0 embed.sendtonews.com
+0.0.0.0 embercascademaple.com
 0.0.0.0 emblemexceptionscorer.com
 0.0.0.0 emediate.dk
 0.0.0.0 emerse.com
 0.0.0.0 emhnyqdeuwtnrh.com
 0.0.0.0 emjcd.com
+0.0.0.0 emsi.livetwo.store
 0.0.0.0 emxdigital.com
 0.0.0.0 encloselavanga.com
 0.0.0.0 encodehelped.com
@@ -16212,6 +16221,7 @@
 0.0.0.0 fziwzaalp.com
 0.0.0.0 g0push.com
 0.0.0.0 ga-ads.com
+0.0.0.0 ga.looserokaying.shop
 0.0.0.0 gabanxaq.com
 0.0.0.0 gagowtvi.com
 0.0.0.0 gaijiglo.net
@@ -16319,6 +16329,7 @@
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goldstats.com
 0.0.0.0 goldtrailmotorlodge.com
+0.0.0.0 golnkz.com
 0.0.0.0 gondolagnome.com
 0.0.0.0 goodnesstamper.com
 0.0.0.0 goodnightsurveys.com
@@ -16720,6 +16731,7 @@
 0.0.0.0 jerboasjourney.com
 0.0.0.0 jewgn8une.com
 0.0.0.0 jf71qh5v14.com
+0.0.0.0 jfan1.com
 0.0.0.0 jfgeuisugoekf.com
 0.0.0.0 jfiwzimupbt.com
 0.0.0.0 jfjle4g5l.com
@@ -16951,6 +16963,7 @@
 0.0.0.0 liverail.com
 0.0.0.0 livezombymil.com
 0.0.0.0 lizardslaugh.com
+0.0.0.0 lj.ochreargue.shop
 0.0.0.0 lkhbcpwpyecs.com
 0.0.0.0 llink.site
 0.0.0.0 llzv.lzazqroyklozv.top
@@ -17156,6 +17169,7 @@
 0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
 0.0.0.0 midgetmaying.com
+0.0.0.0 midnightlotusgrove.com
 0.0.0.0 midpopedge.com
 0.0.0.0 mifoqnwi.com
 0.0.0.0 mikayla.phd
@@ -18145,6 +18159,7 @@
 0.0.0.0 refraintsarcoma.com
 0.0.0.0 refraintupaiid.com
 0.0.0.0 regardviolas.shop
+0.0.0.0 regletsminings.shop
 0.0.0.0 regnow.com
 0.0.0.0 regulationprivilegescan.top
 0.0.0.0 reinvigorate.net
@@ -18798,6 +18813,7 @@
 0.0.0.0 tieszhu.com
 0.0.0.0 tigubsovouwo.com
 0.0.0.0 tiiytaekjajw.com
+0.0.0.0 tilqwekuszfa.com
 0.0.0.0 tinybar.com
 0.0.0.0 tipcatscarola.com
 0.0.0.0 tipsembankment.com
@@ -18998,6 +19014,7 @@
 0.0.0.0 uhealth.care
 0.0.0.0 uhland24.de
 0.0.0.0 uitopadxdy.com
+0.0.0.0 ujqwhqjckhscl.com
 0.0.0.0 ukbanners.com
 0.0.0.0 uktwvhfezyvxn.com
 0.0.0.0 ul.xiphiidbachel.com
@@ -19114,6 +19131,7 @@
 0.0.0.0 velocitycdn.com
 0.0.0.0 velsirtohoosh.net
 0.0.0.0 velti.com
+0.0.0.0 velvetarrowhawk.com
 0.0.0.0 venetrigni.com
 0.0.0.0 ventivmedia.com
 0.0.0.0 vericlick.com
@@ -19143,6 +19161,7 @@
 0.0.0.0 vikawjobtar.com
 0.0.0.0 viliaff.com
 0.0.0.0 vindicosuite.com
+0.0.0.0 vingtunacroter.top
 0.0.0.0 vionito.com
 0.0.0.0 vipicmou.net
 0.0.0.0 virleth.com
@@ -19522,6 +19541,7 @@
 0.0.0.0 yrhnw7h63.com
 0.0.0.0 yrscfbbegumijt.com
 0.0.0.0 yrumdfslwabv.com
+0.0.0.0 yseyxucrhjfi.com
 0.0.0.0 ytimm.com
 0.0.0.0 ytjnpxiiqsblwb.com
 0.0.0.0 yuilop.com
@@ -19583,6 +19603,7 @@
 0.0.0.0 zvetokr2hr8pcng09.com
 0.0.0.0 zwnoeqzsuz.com
 0.0.0.0 zxc.world
+0.0.0.0 zy.eilaeliza.top
 # --- Block other trackingVN ---
 0.0.0.0 2xclick.ru
 0.0.0.0 3gl.net
@@ -19680,6 +19701,7 @@
 0.0.0.0 api.iterable.com
 0.0.0.0 api.prooffactor.com
 0.0.0.0 api.quantumgraph.com
+0.0.0.0 api.statsig.com
 0.0.0.0 api.taps.io
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.wipmania.com
@@ -19826,6 +19848,7 @@
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.shoplytics.com
 0.0.0.0 events.split.io
+0.0.0.0 events.statsigapi.net
 0.0.0.0 everestjs.net
 0.0.0.0 eviltracker.net
 0.0.0.0 evt.mxplay.com
@@ -20041,7 +20064,6 @@
 0.0.0.0 ponos.zeronaught.com
 0.0.0.0 poole-collector-prod.n3twork.com
 0.0.0.0 popupmaker.com
-0.0.0.0 prodregistryv2.org
 0.0.0.0 promotionengine.com
 0.0.0.0 prooffactor.com
 0.0.0.0 propeller-tracking.com

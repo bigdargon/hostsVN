@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 10 Jun 2025 21:57 UTC+7
-! Version: 2506102157
-! Blocked: 9.487 rules
+! Last modified: 13 Jun 2025 11:35 UTC+7
+! Version: 2506131135
+! Blocked: 9.511 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -118,6 +118,7 @@
 ||customers.fptad.com^
 ||dable.io^
 ||daleriki.com^
+||dantocmiennui-log.baotintuc.vn^
 ||delivery.akadigital.vn^
 ||delivery.vtc.vn^
 ||delivery.vtcnew.com.vn^
@@ -127,6 +128,8 @@
 ||dtadnetwork.com^
 ||eclick.vn^
 ||elogs.vnexpress.net^
+||en-log.vietnamplus.vn^
+||es-log.vietnamplus.vn^
 ||eva-ad.24hstatic.com^
 ||ezca.asia^
 ||facebook-ads.hara.vn^
@@ -134,6 +137,7 @@
 ||ff.imacdn.com^
 ||fly-ads.net^
 ||flygame.io^
+||fr-log.vietnamplus.vn^
 ||fuseplatform.net^
 ||gammaplatform.com^
 ||gammassp.com^
@@ -257,6 +261,7 @@
 ||quangcao.tuoitre.vn^
 ||realclick.vn^
 ||rec.aiservice.vn^
+||ru-log.vietnamplus.vn^
 ||s-logperf.vnexpress.net^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
@@ -349,6 +354,7 @@
 ||zalo-ads-td.zadn.vn^
 ||zalo-ads.zadn.vn^
 ||zaloads-480.zdn.vn^
+||zh-log.vietnamplus.vn^
 ||zlog.mp3.zing.vn^
 ||zlog.zingmp3.vn^
 ||zminer.zaloapp.com^
@@ -628,6 +634,7 @@
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
 ||log.baogialai.com.vn^
+||log.baohatinh.vn^
 ||log.baolaocai.vn^
 ||log.baomoi.com^
 ||log.baonghean.vn^
@@ -2647,7 +2654,6 @@
 ||stats.shopify.com^
 ||stats.unity3d.com^
 ||statserv.net^
-||statsigapi.net^
 ||statsperformdev.com^
 ||statt-collect.herokuapp.com^
 ||statwup.nimo.tv^
@@ -4086,6 +4092,7 @@
 ||api.parse.com^
 ||api.prooffactor.com^
 ||api.quantumgraph.com^
+||api.statsig.com^
 ||api.taps.io^
 ||api.unthem.com^
 ||api.usebutton.com^
@@ -4251,6 +4258,7 @@
 ||b5e75c56.com^
 ||baaomenaltho.com^
 ||babyniceshark.com^
+||baccytorve.com^
 ||backbeatmedia.com^
 ||backlogdoorstepsinister.com^
 ||backspacecomprisedgoliath.com^
@@ -4443,6 +4451,7 @@
 ||billboard.cz^
 ||bilqi-omv.com^
 ||bimlocal.com^
+||binomnet3.com^
 ||bitads.net^
 ||bitcoinsports.org^
 ||bizrate.com^
@@ -4636,6 +4645,7 @@
 ||captainbicycle.com^
 ||captify.co.uk^
 ||carambo.la^
+||carbarnbonang.shop^
 ||carbonads.net^
 ||caribedkurukh.com^
 ||carryingfarmerlumber.com^
@@ -5443,12 +5453,14 @@
 ||eltontry.com^
 ||emarketer.com^
 ||embed.sendtonews.com^
+||embercascademaple.com^
 ||emblemexceptionscorer.com^
 ||emediate.dk^
 ||emerse.com^
 ||emhnyqdeuwtnrh.com^
 ||emjcd.com^
 ||emltrk.com^
+||emsi.livetwo.store^
 ||emxdigital.com^
 ||encloselavanga.com^
 ||encodehelped.com^
@@ -5514,6 +5526,7 @@
 ||events.redditmedia.com^
 ||events.shoplytics.com^
 ||events.split.io^
+||events.statsigapi.net^
 ||everestjs.net^
 ||evergage.com^
 ||eviltracker.net^
@@ -5723,6 +5736,7 @@
 ||g0push.com^
 ||ga-ads.com^
 ||ga.getresponse.com^
+||ga.looserokaying.shop^
 ||gabanxaq.com^
 ||gagowtvi.com^
 ||gaijiglo.net^
@@ -5843,6 +5857,7 @@
 ||goldspotmedia.com^
 ||goldstats.com^
 ||goldtrailmotorlodge.com^
+||golnkz.com^
 ||gondolagnome.com^
 ||goodnesstamper.com^
 ||goodnightsurveys.com^
@@ -6287,6 +6302,7 @@
 ||jerboasjourney.com^
 ||jewgn8une.com^
 ||jf71qh5v14.com^
+||jfan1.com^
 ||jfgeuisugoekf.com^
 ||jfiwzimupbt.com^
 ||jfjle4g5l.com^
@@ -6537,6 +6553,7 @@
 ||liverail.com^
 ||livezombymil.com^
 ||lizardslaugh.com^
+||lj.ochreargue.shop^
 ||lkhbcpwpyecs.com^
 ||llink.site^
 ||llzv.lzazqroyklozv.top^
@@ -6798,6 +6815,7 @@
 ||microstatic.pl^
 ||microticker.com^
 ||midgetmaying.com^
+||midnightlotusgrove.com^
 ||midpopedge.com^
 ||mifoqnwi.com^
 ||mikayla.phd^
@@ -7594,7 +7612,6 @@
 ||pro-ads.club^
 ||pro-advertising.com^
 ||processsky.com^
-||prodregistryv2.org^
 ||producerplot.com^
 ||proetusbramble.com^
 ||proext.com^
@@ -7884,6 +7901,7 @@
 ||refraintsarcoma.com^
 ||refraintupaiid.com^
 ||regardviolas.shop^
+||regletsminings.shop^
 ||regnow.com^
 ||regulationprivilegescan.top^
 ||reinvigorate.net^
@@ -8680,6 +8698,7 @@
 ||tigubsovouwo.com^
 ||tiiytaekjajw.com^
 ||tilanalytics.timesinternet.in^
+||tilqwekuszfa.com^
 ||tinybar.com^
 ||tipcatscarola.com^
 ||tipsembankment.com^
@@ -8941,6 +8960,7 @@
 ||uhland24.de^
 ||uie.data.cbc.ca^
 ||uitopadxdy.com^
+||ujqwhqjckhscl.com^
 ||ukbanners.com^
 ||uktwvhfezyvxn.com^
 ||ul.xiphiidbachel.com^
@@ -9071,6 +9091,7 @@
 ||velocitycdn.com^
 ||velsirtohoosh.net^
 ||velti.com^
+||velvetarrowhawk.com^
 ||venetrigni.com^
 ||ventivmedia.com^
 ||vercel-analytics.com^
@@ -9101,6 +9122,7 @@
 ||vikawjobtar.com^
 ||viliaff.com^
 ||vindicosuite.com^
+||vingtunacroter.top^
 ||vionito.com^
 ||vipicmou.net^
 ||virleth.com^
@@ -9427,6 +9449,7 @@
 ||yrhnw7h63.com^
 ||yrscfbbegumijt.com^
 ||yrumdfslwabv.com^
+||yseyxucrhjfi.com^
 ||ytimm.com^
 ||ytjnpxiiqsblwb.com^
 ||yuilop.com^
@@ -9489,6 +9512,7 @@
 ||zvetokr2hr8pcng09.com^
 ||zwnoeqzsuz.com^
 ||zxc.world^
+||zy.eilaeliza.top^
 ||zz.bdstatic.com^
 ||appsflyer.com^
 ||appsflyersdk.com^
