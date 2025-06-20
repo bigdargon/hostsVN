@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 13 Jun 2025 11:34 UTC+7
-! Version: 2506131134
-! Blocked: 4.311 rules
+! Last modified: 20 Jun 2025 10:53 UTC+7
+! Version: 2506201053
+! Blocked: 4.312 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -136,6 +136,7 @@
 ||agribanks.link^
 ||agribanks.space^
 ||agribanks3.asia^
+||aiagjgqz.njasu.de^
 ||aivaylaco.com^
 ||alibabavip.xyz^
 ||alibabavn.shop^

@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 13 Jun 2025 11:34 UTC+7
-# Version: 2506131134
-# Blocked: 4.834 domains
+# Last modified: 20 Jun 2025 10:53 UTC+7
+# Version: 2506201053
+# Blocked: 4.835 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -165,6 +165,7 @@
 0.0.0.0 ahoravideo-schnellvpn.com
 0.0.0.0 ahoravideo-schnellvpn.xyz
 0.0.0.0 ahthegha.cfd
+0.0.0.0 aiagjgqz.njasu.de
 0.0.0.0 airst.giize.com
 0.0.0.0 aivaylaco.com
 0.0.0.0 alibabavip.xyz

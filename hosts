@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 13 Jun 2025 11:35 UTC+7
-# Version: 2506131135
-# Blocked: 18.753 domains
+# Last modified: 20 Jun 2025 10:53 UTC+7
+# Version: 2506201053
+# Blocked: 18.766 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9526,6 +9526,13 @@
 0.0.0.0 rum.browser-intake-datadoghq.com
 0.0.0.0 session-replay.browser-intake-datadoghq.com
 0.0.0.0 trace.browser-intake-datadoghq.com
+#[browser-intake-*-datadoghq.com]
+0.0.0.0 browser-intake-ap1-datadoghq.com
+0.0.0.0 browser-intake-us3-datadoghq.com
+0.0.0.0 browser-intake-us5-datadoghq.com
+#[datadoghq]
+0.0.0.0 browser-intake-datadoghq.eu
+0.0.0.0 browser-intake-ddog-gov.com
 #[aliyuncs.com]
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 adash.man.aliyuncs.com
@@ -14636,6 +14643,7 @@
 0.0.0.0 ahtomjpzymf.com
 0.0.0.0 aibsgc.com
 0.0.0.0 aickeebsi.com
+0.0.0.0 aiftoupsains.net
 0.0.0.0 aiglaidra.com
 0.0.0.0 aigretsulaups.net
 0.0.0.0 ailtashoackie.com
@@ -16087,6 +16095,7 @@
 0.0.0.0 fagywalu.pro
 0.0.0.0 faisaphoofa.net
 0.0.0.0 familiarpyromaniasloping.com
+0.0.0.0 faqirsgoliard.top
 0.0.0.0 farcivinage.shop
 0.0.0.0 farethief.com
 0.0.0.0 farmergoldfish.com
@@ -16493,6 +16502,7 @@
 0.0.0.0 hitslink.com
 0.0.0.0 hittail.com
 0.0.0.0 hivaqfofkche.com
+0.0.0.0 hjbtunmh.com
 0.0.0.0 hkilops.com
 0.0.0.0 hmazuxhikosj.com
 0.0.0.0 hmepalobfn.com
@@ -16801,6 +16811,7 @@
 0.0.0.0 kaulouvaun.com
 0.0.0.0 kaurieseluxate.com
 0.0.0.0 kcaapxanwv.com
+0.0.0.0 kcgkiumubea.com
 0.0.0.0 kdm8.com
 0.0.0.0 kdpxksukngrg.com
 0.0.0.0 ke.minterhazes.com
@@ -17426,6 +17437,7 @@
 0.0.0.0 nuffnang.com.my
 0.0.0.0 nuggad.net
 0.0.0.0 nui.media
+0.0.0.0 numerosuffice.shop
 0.0.0.0 nuseek.com
 0.0.0.0 nuzatbdmy.com
 0.0.0.0 nv3tosjqd.com
@@ -17601,6 +17613,7 @@
 0.0.0.0 osrzawox.com
 0.0.0.0 ostaigukeshoak.com
 0.0.0.0 ota.cartrawler.com
+0.0.0.0 othabqmag.com
 0.0.0.0 othniqvu.com
 0.0.0.0 otqxvqzdgl.com
 0.0.0.0 oufauthy.net
@@ -18745,6 +18758,7 @@
 0.0.0.0 tb.baimgfroggd.site
 0.0.0.0 tcads.net
 0.0.0.0 tccnqgnmeveay.com
+0.0.0.0 tcseehnbrn.com
 0.0.0.0 tdpjzjpfuiis.com
 0.0.0.0 tealeaf.com
 0.0.0.0 tealium.com
@@ -20390,4 +20404,5 @@
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 register.appsflyersdk.com
+0.0.0.0 skadsdk.appsflyersdk.com
 # CNAME Popup

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 13 Jun 2025 11:34 UTC+7
-! Version: 2506131134
-! Blocked: 3.410 rules
+! Last modified: 20 Jun 2025 10:53 UTC+7
+! Version: 2506201053
+! Blocked: 3.418 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -144,6 +144,8 @@
 ||5566688.net^
 ||558kbet.com^
 ||58cc.live^
+||58win.com^
+||58win.cool^
 ||5shbet.com^
 ||608822.com^
 ||63wan.com^
@@ -1182,6 +1184,7 @@
 ||gem79.win^
 ||gem88.win^
 ||gemwin.page^
+||gemwin.vip^
 ||gen88.com^
 ||genvip88.com^
 ||gi8.us^
@@ -1280,6 +1283,7 @@
 ||hitpro.run^
 ||hl8thai8.com^
 ||hn8.link^
+||hong88vn.click^
 ||hong88vn.win^
 ||host.im99.com^
 ||hot51.com^
@@ -2041,6 +2045,7 @@
 ||mb66.com^
 ||mb88.bet^
 ||mb88.com^
+||mb88.vip^
 ||mbx88.com^
 ||mc.bong99.com^
 ||mc876.com^
@@ -2272,6 +2277,7 @@
 ||play.bum3.club^
 ||play.choisport.com^
 ||play.fa88.win^
+||play.gemwin.vip^
 ||play.go88.club^
 ||play.go88.tv^
 ||play.hit.club^
@@ -3263,6 +3269,7 @@
 ||web.vicplay.io^
 ||web.yo88.is^
 ||web.yo88.tv^
+||web.zowin.tv^
 ||websvn.info^
 ||wewinvwin.com^
 ||wi88.top^
@@ -3416,3 +3423,4 @@
 ||zo88.org^
 ||zom8.club^
 ||zoplay.top^
+||zowin.tv^
