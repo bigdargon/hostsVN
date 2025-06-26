@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 25 Jun 2025 10:39 UTC+7
-! Version: 2506251039
-! Blocked: 9.534 rules
+! Last modified: 26 Jun 2025 13:55 UTC+7
+! Version: 2506261355
+! Blocked: 9.541 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1455,6 +1455,8 @@
 ||batmobi.net^
 ||bats.video.yahoo.com^
 ||bbangads.b-cdn.net^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
 ||bdtt.b-cdn.net^
 ||beacon-api.aliyuncs.com^
 ||beacon.affil.walmart.com^
@@ -4388,6 +4390,7 @@
 ||beampulse.com^
 ||beauty-tea.com^
 ||bebreloomr.com^
+||becketsbesogne.top^
 ||bedaoibe.com^
 ||bedrapiona.com^
 ||bee7.com^
@@ -4565,6 +4568,7 @@
 ||broadlyjukeboxunrevised.com^
 ||bronzecedarleaf.com^
 ||brookgetupshorts.com^
+||browsecoherentunrefined.com^
 ||browser-update.org^
 ||bruisebaseball.com^
 ||brutishlylifevoicing.com^
@@ -6023,6 +6027,7 @@
 ||hikedwarfgipsy.com^
 ||hilariouszinc.com^
 ||hilltopads.net^
+||hiqbejpsiyymatl.com^
 ||histats.link^
 ||hit-parade.com^
 ||hitbox.com^
@@ -6517,6 +6522,7 @@
 ||leonodikeu9sj10.com^
 ||lephaush.net^
 ||lessemujust.live^
+||lfalfehuq.com^
 ||lfeorrzkua.com^
 ||lfstmedia.com^
 ||lgglobal.ihago.net^
@@ -8240,6 +8246,7 @@
 ||shiverscissors.com^
 ||shndrktrk.com^
 ||shoacmoackaugnu.com^
+||shoadroocoosso.com^
 ||shoordaird.com^
 ||shopeevn-affiliate.blogspot.com^
 ||shopnetic.com^
