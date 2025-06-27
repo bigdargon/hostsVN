@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 26 Jun 2025 13:55 UTC+7
-! Version: 2506261355
-! Blocked: 9.541 rules
+! Last modified: 27 Jun 2025 23:39 UTC+7
+! Version: 2506272339
+! Blocked: 9.545 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4099,7 +4099,6 @@
 ||api.parse.com^
 ||api.prooffactor.com^
 ||api.quantumgraph.com^
-||api.statsig.com^
 ||api.taps.io^
 ||api.unthem.com^
 ||api.usebutton.com^
@@ -6134,6 +6133,7 @@
 ||iapclick.gowadogo.com^
 ||iasds01.com^
 ||iaudienc.com^
+||iauzsghijpmq.com^
 ||ib-ibi.com^
 ||ibd-as-api.iq.com^
 ||ichachoakiglop.com^
@@ -6576,6 +6576,7 @@
 ||lj.ochreargue.shop^
 ||lkhbcpwpyecs.com^
 ||llink.site^
+||llryoelwpse.com^
 ||llzv.lzazqroyklozv.top^
 ||lmajm.lbylqerzmzlzq.top^
 ||lmmjj.lqbvjmkoozark.top^
@@ -7342,6 +7343,7 @@
 ||oxcash.com^
 ||oxen.hillcountrytexas.com^
 ||oxthrilled.com^
+||oxwlhazto.com^
 ||ozbkfuhpuolf.com^
 ||ozbnagojbop.com^
 ||ozctkohaqmc.com^
@@ -9352,6 +9354,7 @@
 ||worldgravity.com^
 ||worldoffersdaily.com^
 ||worldwide-cash.net^
+||wormslitty.top^
 ||worriednumber.com^
 ||worshippers.store^
 ||worstideatum.com^
@@ -9414,6 +9417,7 @@
 ||xrea.com^
 ||xruamzpanbca.com^
 ||xsaeafkfilbcur.com^
+||xsaheqapygdykxq.com^
 ||xstats.evoload.io^
 ||xszpuvwr7.com^
 ||xtendmedia.com^
