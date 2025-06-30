@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Jun 2025 23:39 UTC+7
-# Version: 2506272339
-# Blocked: 18.788 domains
+# Last modified: 30 Jun 2025 10:58 UTC+7
+# Version: 2506301058
+# Blocked: 18.796 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -364,6 +364,7 @@
 0.0.0.0 aax-vx-us-us-east-1.amazon-adsystem.com
 0.0.0.0 aax-vx-us-us-west-2.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aes.eu-west.ono.axp.amazon-adsystem.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 assoc-msdk-cn.amazon-adsystem.com
 0.0.0.0 assoc-msdk-eu.amazon-adsystem.com
@@ -401,6 +402,7 @@
 0.0.0.0 rcm-fe.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 ts.amazon-adsystem.com
 0.0.0.0 v-eu-preprod.amazon-adsystem.com
 0.0.0.0 v-eu.amazon-adsystem.com
 0.0.0.0 v-preprod.amazon-adsystem.com
@@ -451,12 +453,14 @@
 0.0.0.0 us-east-2.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-west-2.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.prod.pw.analytics.console.aws.a2z.com
-#[minerva.devices.a2z.com]
-0.0.0.0 minerva.devices.a2z.com
-0.0.0.0 us-east-1.prod.service.minerva.devices.a2z.com
 #[telemetry.insights.video.a2z.com]
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-1.telemetry.insights.video.a2z.com
+#[metrics.imdb.a2z.com]
+0.0.0.0 metrics.imdb.a2z.com
+0.0.0.0 cdn.prod.metrics.imdb.a2z.com
+#[a2z.com]
+0.0.0.0 clientlogger.marketplace.aws.a2z.com
 #[tumblr]
 0.0.0.0 platform.tumblr.com
 0.0.0.0 ls.srvcs.tumblr.com
@@ -16103,6 +16107,7 @@
 0.0.0.0 faisaphoofa.net
 0.0.0.0 familiarpyromaniasloping.com
 0.0.0.0 faqirsgoliard.top
+0.0.0.0 faqlikbid.com
 0.0.0.0 farcivinage.shop
 0.0.0.0 farethief.com
 0.0.0.0 farmergoldfish.com
@@ -16231,6 +16236,7 @@
 0.0.0.0 futuristicapparatus.com
 0.0.0.0 futuristicfairies.com
 0.0.0.0 fuwalrnce.com
+0.0.0.0 fvchjvaiisuxrpb.com
 0.0.0.0 fwilmdact.com
 0.0.0.0 fxclix.com
 0.0.0.0 fxstyle.net
@@ -17436,6 +17442,7 @@
 0.0.0.0 novemberseatsuccession.com
 0.0.0.0 nowheresank.com
 0.0.0.0 npipajajn.com
+0.0.0.0 nqcgdvuuyxwj.com
 0.0.0.0 nqucjilr.com
 0.0.0.0 nrc.tapas.net
 0.0.0.0 nrs6ffl9w.com
@@ -18491,6 +18498,7 @@
 0.0.0.0 siteoid.com
 0.0.0.0 sixscissors.com
 0.0.0.0 sixsigmatraffic.com
+0.0.0.0 sjvaovqhn.com
 0.0.0.0 skimlinks.com
 0.0.0.0 skullhalfway.com
 0.0.0.0 skylink.vn
@@ -19373,6 +19381,7 @@
 0.0.0.0 wonderlandads.com
 0.0.0.0 wondoads.de
 0.0.0.0 woochithoothie.net
+0.0.0.0 woomerapapacy.shop
 0.0.0.0 woorucauhou.net
 0.0.0.0 woovoree.net
 0.0.0.0 wopsedoaltuwp.com
