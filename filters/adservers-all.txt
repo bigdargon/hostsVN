@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 30 Jun 2025 10:58 UTC+7
-! Version: 2506301058
-! Blocked: 9.551 rules
+! Last modified: 01 Jul 2025 22:47 UTC+7
+! Version: 2507012247
+! Blocked: 9.555 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4719,6 +4719,7 @@
 ||cdn.qgr.ph^
 ||cdn.retailads.net^
 ||cdn.shoplytics.com^
+||cdn.traffic60s.xyz^
 ||cdn.uponelectabuzzor.club^
 ||cdn.usefathom.com^
 ||cdn.viglink.com^
@@ -6739,6 +6740,7 @@
 ||mautic.bdev.co.th^
 ||mauzanapsusi.net^
 ||mawlaybob.com^
+||mawptuaz.com^
 ||max.i12.de^
 ||maxgid.com^
 ||maximumcash.com^
@@ -6947,6 +6949,7 @@
 ||munchenviableski.com^
 ||munchkin.marketo.net^
 ||murkymouse.online^
+||murozwuddtow.com^
 ||mushroomreclaimschnapps.com^
 ||musiccounter.ru^
 ||mustardeveningobvious.com^
@@ -9385,6 +9388,7 @@
 ||www-banner.chat.ru^
 ||wyhifdpatl.com^
 ||wynvalur.com^
+||wywtpkeai.com^
 ||x-traceur.com^
 ||x.blueduckredapple.com^
 ||x.disq.us^

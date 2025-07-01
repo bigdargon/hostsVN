@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 30 Jun 2025 10:58 UTC+7
-! Version: 2506301058
-! Blocked: 3.418 rules
+! Last modified: 01 Jul 2025 22:46 UTC+7
+! Version: 2507012246
+! Blocked: 3.423 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1063,6 +1063,7 @@
 ||fbw.11bet.us^
 ||fc1.fcb88d.com^
 ||fc2.fcb88d.com^
+||fc88.beauty^
 ||fc88.net^
 ||fcb8.club^
 ||fcb8.com^
@@ -1157,6 +1158,7 @@
 ||gamebai.vin^
 ||gamebai88.fun^
 ||gamebaidoithuong.com.mx^
+||gamebaidoithuong.lat^
 ||gamebaidoithuong.quest^
 ||gamebaidoithuong6.com^
 ||gamebaisumvip.net^
@@ -1803,11 +1805,13 @@
 ||l4.lode88.ai^
 ||lamgiau99.club^
 ||ldp-sum.com^
+||legabet.gay^
 ||leo88.com^
 ||leo88.fun^
 ||leo88.top^
 ||lienhe22.com^
 ||lienhe44.com^
+||lienminhlega.com^
 ||link.vuabai9.com^
 ||link123b.com^
 ||link789club.click^
@@ -3364,6 +3368,7 @@
 ||xocdia88.click^
 ||xocdia88.es^
 ||xocdia88.video^
+||xocdiaonline.cool^
 ||xoso12345.com^
 ||xoso345.com^
 ||xoso55.com^

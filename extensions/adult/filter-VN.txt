@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 30 Jun 2025 10:58 UTC+7
-! Version: 2506301058
-! Blocked: 2.791 rules
+! Last modified: 01 Jul 2025 22:46 UTC+7
+! Version: 2507012246
+! Blocked: 2.800 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -106,7 +106,10 @@
 ||buomsex.com^
 ||buomtube.tv^
 ||buomtv.app^
+||buomtv.blog^
+||buomtv.club^
 ||buomtv.io^
+||buomtv.live^
 ||buomtv.me^
 ||buomtv.tv^
 ||buomxinh.org^
@@ -2088,9 +2091,13 @@
 ||thegioianhdephd.blogspot.com^
 ||thegioigaigoi.pro^
 ||thegioilucsac.com^
+||themhentai.com^
 ||themjav.com^
 ||themphim.com^
+||thempho.club^
 ||thempho.tv^
+||thempho1.com^
+||thempho2.com^
 ||themphotv.com^
 ||theundergroundclub.net^
 ||thichcu.com^
@@ -2425,6 +2432,7 @@
 ||vlxx.com.co^
 ||vlxx.contact^
 ||vlxx.day^
+||vlxx.digital^
 ||vlxx.fan^
 ||vlxx.fun^
 ||vlxx.gold^
@@ -2445,6 +2453,7 @@
 ||vlxx.men^
 ||vlxx.mobi^
 ||vlxx.moe^
+||vlxx.money^
 ||vlxx.mx^
 ||vlxx.network^
 ||vlxx.pet^
