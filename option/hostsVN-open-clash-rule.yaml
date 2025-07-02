@@ -1094,6 +1094,7 @@ payload:
   - DOMAIN-SUFFIX,ads-trk.vidible.tv
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,ads.*.yahoo.com
+  - DOMAIN-SUFFIX,ads.amazon.dev
   - DOMAIN-SUFFIX,ads.bing.com
   - DOMAIN-SUFFIX,ads.cdn.rovio.com
   - DOMAIN-SUFFIX,ads.gmodules.com
@@ -1207,6 +1208,7 @@ payload:
   - DOMAIN-SUFFIX,advbanners.global.ssl.fastly.net
   - DOMAIN-SUFFIX,advergine.com
   - DOMAIN-SUFFIX,advertica.ae
+  - DOMAIN-SUFFIX,advertising.amazon.dev
   - DOMAIN-SUFFIX,advertising.com
   - DOMAIN-SUFFIX,advertising.microsoft.com
   - DOMAIN-SUFFIX,advertnative.com
@@ -1405,7 +1407,14 @@ payload:
   - DOMAIN-SUFFIX,aso1.net
   - DOMAIN-SUFFIX,assemblyexchange.com
   - DOMAIN-SUFFIX,assistads.net
+  - DOMAIN-SUFFIX,assoc-amazon.ca
+  - DOMAIN-SUFFIX,assoc-amazon.co.uk
   - DOMAIN-SUFFIX,assoc-amazon.com
+  - DOMAIN-SUFFIX,assoc-amazon.de
+  - DOMAIN-SUFFIX,assoc-amazon.es
+  - DOMAIN-SUFFIX,assoc-amazon.fr
+  - DOMAIN-SUFFIX,assoc-amazon.it
+  - DOMAIN-SUFFIX,assoc-amazon.jp
   - DOMAIN-SUFFIX,async-px-eu.dynamicyield.com
   - DOMAIN-SUFFIX,async-px.dynamicyield.com
   - DOMAIN-SUFFIX,atdmt.com
@@ -6079,6 +6088,7 @@ payload:
   - DOMAIN-SUFFIX,hsbarbershop.co.uk
   - DOMAIN-SUFFIX,hscozgoqffn.com
   - DOMAIN-SUFFIX,hscta.net
+  - DOMAIN-SUFFIX,hsestonicaawofw.com
   - DOMAIN-SUFFIX,hsych.com
   - DOMAIN-SUFFIX,htlbid.com
   - DOMAIN-SUFFIX,httpool.com
@@ -6395,6 +6405,7 @@ payload:
   - DOMAIN-SUFFIX,kauleeci.com
   - DOMAIN-SUFFIX,kaulouvaun.com
   - DOMAIN-SUFFIX,kaurieseluxate.com
+  - DOMAIN-SUFFIX,kautefaunenit.net
   - DOMAIN-SUFFIX,kcaapxanwv.com
   - DOMAIN-SUFFIX,kcgkiumubea.com
   - DOMAIN-SUFFIX,kdm8.com
@@ -6933,6 +6944,7 @@ payload:
   - DOMAIN-SUFFIX,msg-intl.qy.net
   - DOMAIN-SUFFIX,msg.qy.net
   - DOMAIN-SUFFIX,msgose.com
+  - DOMAIN-SUFFIX,msincsayqmji.com
   - DOMAIN-SUFFIX,msvobeuhec.com
   - DOMAIN-SUFFIX,mt34iofvjay.com
   - DOMAIN-SUFFIX,mtree.com
@@ -7835,6 +7847,7 @@ payload:
   - DOMAIN-SUFFIX,qxadsk.com
   - DOMAIN-SUFFIX,qzeavzrfaoqn.com
   - DOMAIN-SUFFIX,qzs.gdtimg.com
+  - DOMAIN-SUFFIX,qzyztuwulo.com
   - DOMAIN-SUFFIX,r.3gl.net
   - DOMAIN-SUFFIX,r.bbci.co.uk
   - DOMAIN-SUFFIX,r.leadzu.com
@@ -8331,6 +8344,7 @@ payload:
   - DOMAIN-SUFFIX,snap.licdn.com
   - DOMAIN-SUFFIX,snapgiant.com
   - DOMAIN-SUFFIX,snebbubbled.com
+  - DOMAIN-SUFFIX,snitzsauteur.shop
   - DOMAIN-SUFFIX,snnd.co
   - DOMAIN-SUFFIX,snoobi.com
   - DOMAIN-SUFFIX,snowdayonline.xyz

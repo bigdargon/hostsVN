@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Jul 2025 22:47 UTC+7
-# Version: 2507012247
-# Blocked: 18.800 domains
+# Last modified: 02 Jul 2025 15:17 UTC+7
+# Version: 2507021517
+# Blocked: 18.815 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -326,19 +326,31 @@
 #[device-metrics-*.amazon.com]
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
-#[assoc-amazon.com]
-0.0.0.0 ws.assoc-amazon.com
-0.0.0.0 ws-fe.assoc-amazon.com
-0.0.0.0 ws-na.assoc-amazon.com
-0.0.0.0 www.assoc-amazon.com
-0.0.0.0 wms.assoc-amazon.com
-0.0.0.0 assoc-amazon.com
 #[amazon-adsystem.amazon.com]
 0.0.0.0 aax-cpm.amazon-adsystem.amazon.com
 0.0.0.0 aax-us-cpm.amazon-adsystem.amazon.com
 0.0.0.0 aax-us.amazon-adsystem.amazon.com
 0.0.0.0 aax.amazon-adsystem.amazon.com
 0.0.0.0 amazon-adsystem.amazon.com
+#[amazon.dev]
+0.0.0.0 ads.amazon.dev
+0.0.0.0 advertising.amazon.dev
+0.0.0.0 api.imdb.eu-west-1.prod.paets.advertising.amazon.dev
+#[assoc-amazon.com]
+0.0.0.0 assoc-amazon.com
+0.0.0.0 wms.assoc-amazon.com
+0.0.0.0 ws-fe.assoc-amazon.com
+0.0.0.0 ws-na.assoc-amazon.com
+0.0.0.0 ws.assoc-amazon.com
+0.0.0.0 www.assoc-amazon.com
+#[assoc-amazon]
+0.0.0.0 assoc-amazon.ca
+0.0.0.0 assoc-amazon.co.uk
+0.0.0.0 assoc-amazon.de
+0.0.0.0 assoc-amazon.es
+0.0.0.0 assoc-amazon.fr
+0.0.0.0 assoc-amazon.it
+0.0.0.0 assoc-amazon.jp
 #[amazon-adsystem.com]
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
@@ -16545,6 +16557,7 @@
 0.0.0.0 hppvkbfcuq.com
 0.0.0.0 hrjbylofyso.com
 0.0.0.0 hscozgoqffn.com
+0.0.0.0 hsestonicaawofw.com
 0.0.0.0 htlbid.com
 0.0.0.0 httpool.com
 0.0.0.0 htyqiwzunj.com
@@ -16827,6 +16840,7 @@
 0.0.0.0 kauleeci.com
 0.0.0.0 kaulouvaun.com
 0.0.0.0 kaurieseluxate.com
+0.0.0.0 kautefaunenit.net
 0.0.0.0 kcaapxanwv.com
 0.0.0.0 kcgkiumubea.com
 0.0.0.0 kdm8.com
@@ -17284,6 +17298,7 @@
 0.0.0.0 mrybahnw.com
 0.0.0.0 mscoldness.com
 0.0.0.0 msgose.com
+0.0.0.0 msincsayqmji.com
 0.0.0.0 msvobeuhec.com
 0.0.0.0 mt34iofvjay.com
 0.0.0.0 mtree.com
@@ -18118,6 +18133,7 @@
 0.0.0.0 qxadsk.com
 0.0.0.0 qzeavzrfaoqn.com
 0.0.0.0 qzs.gdtimg.com
+0.0.0.0 qzyztuwulo.com
 0.0.0.0 r.leadzu.com
 0.0.0.0 r.trwl1.com
 0.0.0.0 r0ckeet.com
@@ -18539,6 +18555,7 @@
 0.0.0.0 snakeslang.com
 0.0.0.0 snapgiant.com
 0.0.0.0 snebbubbled.com
+0.0.0.0 snitzsauteur.shop
 0.0.0.0 snoobi.com
 0.0.0.0 snowdayonline.xyz
 0.0.0.0 snuff-brownsprintcountry.com
