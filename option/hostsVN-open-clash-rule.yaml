@@ -2095,6 +2095,7 @@ payload:
   - DOMAIN-SUFFIX,loader-cdn.azureedge.net
   - DOMAIN-SUFFIX,localytics.com
   - DOMAIN-SUFFIX,log-hl.snssdk.com
+  - DOMAIN-SUFFIX,log-sg.capcutapi.com
   - DOMAIN-SUFFIX,log-tb.isnssdk.com
   - DOMAIN-SUFFIX,log-tb.sgsnssdk.com
   - DOMAIN-SUFFIX,log-upload-os.hoyolab.com
@@ -2175,6 +2176,7 @@ payload:
   - DOMAIN-SUFFIX,mc.yandex.com
   - DOMAIN-SUFFIX,mc.yandex.ru
   - DOMAIN-SUFFIX,mcs-sg.tiktok.com
+  - DOMAIN-SUFFIX,mcs-va.capcutapi.com
   - DOMAIN-SUFFIX,mcs-va.tiktokv.com
   - DOMAIN-SUFFIX,mcs.snssdk.com
   - DOMAIN-SUFFIX,mcs.zijieapi.com
@@ -2252,6 +2254,8 @@ payload:
   - DOMAIN-SUFFIX,mobytrks.com
   - DOMAIN-SUFFIX,modoro360.com
   - DOMAIN-SUFFIX,moduleanalysis.aliexpress.com
+  - DOMAIN-SUFFIX,mon-sg.capcutapi.com
+  - DOMAIN-SUFFIX,mon-va.capcutapi.com
   - DOMAIN-SUFFIX,mon.isnssdk.com
   - DOMAIN-SUFFIX,mon.snssdk.com
   - DOMAIN-SUFFIX,mon.tiktokv.com
@@ -2575,6 +2579,7 @@ payload:
   - DOMAIN-SUFFIX,servicelayer.king.com
   - DOMAIN-SUFFIX,serving-sys.com
   - DOMAIN-SUFFIX,settings-analytics.hotstar.com
+  - DOMAIN-SUFFIX,sf16-static.i18n-pglstatp.com
   - DOMAIN-SUFFIX,sgp.o2o.api.xiaomi.com
   - DOMAIN-SUFFIX,shareaholic.com
   - DOMAIN-SUFFIX,sharethis.com
@@ -2735,6 +2740,8 @@ payload:
   - DOMAIN-SUFFIX,tia.timeinc.net
   - DOMAIN-SUFFIX,tiads.timeinc.net
   - DOMAIN-SUFFIX,tlog.hiido.com
+  - DOMAIN-SUFFIX,tnc-boot.capcutapi.com
+  - DOMAIN-SUFFIX,tnc-sg.capcutapi.com
   - DOMAIN-SUFFIX,tnc16-alisg.isnssdk.com
   - DOMAIN-SUFFIX,tns-counter.ru
   - DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com
@@ -2985,6 +2992,7 @@ payload:
   - DOMAIN-SUFFIX,2-05.com
   - DOMAIN-SUFFIX,207.net
   - DOMAIN-SUFFIX,228tuchuang.com
+  - DOMAIN-SUFFIX,22hgc.com
   - DOMAIN-SUFFIX,2433march2024.com
   - DOMAIN-SUFFIX,2435march2024.com
   - DOMAIN-SUFFIX,2437march2024.com
@@ -3127,6 +3135,7 @@ payload:
   - DOMAIN-SUFFIX,actuallysheep.com
   - DOMAIN-SUFFIX,actuallysnake.com
   - DOMAIN-SUFFIX,acuityads.com
+  - DOMAIN-SUFFIX,aczopdxfy.com
   - DOMAIN-SUFFIX,ad-balancer.at
   - DOMAIN-SUFFIX,ad-balancer.net
   - DOMAIN-SUFFIX,ad-center.com
@@ -4182,6 +4191,7 @@ payload:
   - DOMAIN-SUFFIX,asnwish.com
   - DOMAIN-SUFFIX,asp.animelab.com
   - DOMAIN-SUFFIX,aspiringtoy.com
+  - DOMAIN-SUFFIX,asqsphwgybanh.com
   - DOMAIN-SUFFIX,assets.purch.com
   - DOMAIN-SUFFIX,assets1.exgfnetwork.com
   - DOMAIN-SUFFIX,asslfeqadv.com
@@ -5995,6 +6005,7 @@ payload:
   - DOMAIN-SUFFIX,hedgehoghugsyou.com
   - DOMAIN-SUFFIX,hedwigmonday.com
   - DOMAIN-SUFFIX,heeceeceejo.com
+  - DOMAIN-SUFFIX,heenojouwofoupt.com
   - DOMAIN-SUFFIX,heixidor.com
   - DOMAIN-SUFFIX,heleric.com
   - DOMAIN-SUFFIX,helesandoral.com
@@ -6467,6 +6478,7 @@ payload:
   - DOMAIN-SUFFIX,ktu.sv2.biz
   - DOMAIN-SUFFIX,ku2d3a7pa8mdi.com
   - DOMAIN-SUFFIX,ku42hjr2e.com
+  - DOMAIN-SUFFIX,kudlyhhfccarb.com
   - DOMAIN-SUFFIX,kueezrtb.com
   - DOMAIN-SUFFIX,kuglcibhyhuj.com
   - DOMAIN-SUFFIX,kugmisawqo.com
@@ -7158,6 +7170,7 @@ payload:
   - DOMAIN-SUFFIX,objectionsunited.com
   - DOMAIN-SUFFIX,obliquecensortend.com
   - DOMAIN-SUFFIX,obnoljac.com
+  - DOMAIN-SUFFIX,obqj2.com
   - DOMAIN-SUFFIX,obradjgifja.com
   - DOMAIN-SUFFIX,obscenesidewalk.com
   - DOMAIN-SUFFIX,observantice.com
@@ -7316,6 +7329,7 @@ payload:
   - DOMAIN-SUFFIX,ota.cartrawler.com
   - DOMAIN-SUFFIX,othabqmag.com
   - DOMAIN-SUFFIX,othniqvu.com
+  - DOMAIN-SUFFIX,otieu.com
   - DOMAIN-SUFFIX,otqxvqzdgl.com
   - DOMAIN-SUFFIX,oufauthy.net
   - DOMAIN-SUFFIX,ouftukoo.net
@@ -9497,6 +9511,7 @@ payload:
   - DOMAIN-SUFFIX,yoxwrdiw.com
   - DOMAIN-SUFFIX,ypmtvlaktm.com
   - DOMAIN-SUFFIX,yqmxfz.com
+  - DOMAIN-SUFFIX,yralpspdvnqaqv.com
   - DOMAIN-SUFFIX,yrhnw7h63.com
   - DOMAIN-SUFFIX,yrscfbbegumijt.com
   - DOMAIN-SUFFIX,yrumdfslwabv.com
@@ -9505,6 +9520,7 @@ payload:
   - DOMAIN-SUFFIX,ytjnpxiiqsblwb.com
   - DOMAIN-SUFFIX,yuilop.com
   - DOMAIN-SUFFIX,yume.com
+  - DOMAIN-SUFFIX,yummiergangue.shop
   - DOMAIN-SUFFIX,yvcchjdiqzpog.rocks
   - DOMAIN-SUFFIX,yyselrqpyu.com
   - DOMAIN-SUFFIX,yzqjaltdhlv.com
@@ -9523,6 +9539,7 @@ payload:
   - DOMAIN-SUFFIX,zdbb.net
   - DOMAIN-SUFFIX,zedo.com
   - DOMAIN-SUFFIX,zeegreen.net
+  - DOMAIN-SUFFIX,zeekaihu.net
   - DOMAIN-SUFFIX,zeepmedia.com
   - DOMAIN-SUFFIX,zekiatagur.com
   - DOMAIN-SUFFIX,zenaps.com
@@ -9540,6 +9557,7 @@ payload:
   - DOMAIN-SUFFIX,zimpolo.com
   - DOMAIN-SUFFIX,zintext.com
   - DOMAIN-SUFFIX,zipazvzu.com
+  - DOMAIN-SUFFIX,zireemilsoude.net
   - DOMAIN-SUFFIX,zitauptajoumti.com
   - DOMAIN-SUFFIX,zkuziwzzyf.com
   - DOMAIN-SUFFIX,zkyqafavdg.com

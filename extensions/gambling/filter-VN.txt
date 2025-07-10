@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 02 Jul 2025 15:17 UTC+7
-! Version: 2507021517
-! Blocked: 3.423 rules
+! Last modified: 10 Jul 2025 10:45 UTC+7
+! Version: 2507101045
+! Blocked: 3.427 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -602,6 +602,7 @@
 ||big88.one^
 ||bigboss23.com^
 ||bigboss93.com^
+||bin88.com^
 ||bj288.com^
 ||bj39.com^
 ||bj88.estate^
@@ -1997,6 +1998,7 @@
 ||m.w88ok.com^
 ||m.w88yes.com^
 ||m1.fm88.com^
+||m1.max88.vip^
 ||m1.may88d.com^
 ||m1.tin88.bet^
 ||m1.vin88.net^
@@ -2035,6 +2037,7 @@
 ||mapi.seb121.net^
 ||max10.pro^
 ||max88.com^
+||max88.vip^
 ||may88.club^
 ||may88.com^
 ||may88.fun^
@@ -2536,6 +2539,7 @@
 ||sin88.vip^
 ||sin88.win^
 ||sin88s.com^
+||sinbet.com^
 ||sinbet.vip^
 ||site.ko66vip.casino^
 ||site.ko66vip.club^
