@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 10 Jul 2025 10:45 UTC+7
-# Version: 2507101045
-# Blocked: 4.384 domains
+# Last modified: 11 Jul 2025 09:36 UTC+7
+# Version: 2507110936
+# Blocked: 4.383 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3841,7 +3841,6 @@
 0.0.0.0 vinaconex.org
 0.0.0.0 vincomonevip.net
 0.0.0.0 vingroup.fit
-0.0.0.0 vingroup.shop
 0.0.0.0 vingroupinvest.com
 0.0.0.0 vingroupinvestment.com
 0.0.0.0 vingroupventures.shop
