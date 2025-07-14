@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 11 Jul 2025 09:36 UTC+7
-# Version: 2507110936
-# Blocked: 4.835 domains
+# Last modified: 14 Jul 2025 14:26 UTC+7
+# Version: 2507141426
+# Blocked: 4.836 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1087,6 +1087,7 @@
 0.0.0.0 gpay-mpos-ruttientindung.com
 0.0.0.0 gpay247-mp0s-quetthetindung.com
 0.0.0.0 gplxgovn.vn
+0.0.0.0 gqcqbpl.vneuw.online
 0.0.0.0 greatvay.xyz
 0.0.0.0 greenvay8.com
 0.0.0.0 griefcube.cc

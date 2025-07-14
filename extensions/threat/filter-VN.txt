@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 11 Jul 2025 09:36 UTC+7
-! Version: 2507110936
-! Blocked: 4.312 rules
+! Last modified: 14 Jul 2025 14:26 UTC+7
+! Version: 2507141426
+! Blocked: 4.313 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -887,6 +887,7 @@
 ||gpay-mpos-ruttientindung.com^
 ||gpay247-mp0s-quetthetindung.com^
 ||gplxgovn.vn^
+||gqcqbpl.vneuw.online^
 ||greatvay.xyz^
 ||greenvay8.com^
 ||grn-membershipff.com^
