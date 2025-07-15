@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 14 Jul 2025 14:26 UTC+7
-! Version: 2507141426
-! Blocked: 3.427 rules
+! Last modified: 15 Jul 2025 09:35 UTC+7
+! Version: 2507150935
+! Blocked: 3.434 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -203,6 +203,13 @@
 ||789clubs.vin^
 ||789d.club^
 ||789f.ac^
+||789f.ai^
+||789f.best^
+||789f.com^
+||789f.lat^
+||789f.live^
+||789f.love^
+||789f.one^
 ||789k.club^
 ||789v.club^
 ||789vg.net^
