@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 18 Jul 2025 23:02 UTC+7
-! Version: 2507182302
-! Blocked: 2.800 rules
+! Last modified: 21 Jul 2025 10:50 UTC+7
+! Version: 2507211050
+! Blocked: 2.803 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -876,6 +876,9 @@
 ||linksextop1.com^
 ||live.mm1cloud.com^
 ||live.sexviet88.pro^
+||live18k.com^
+||live18k.me^
+||live18k.vip^
 ||livechich.com^
 ||loandam.net^
 ||loclipnong.com^

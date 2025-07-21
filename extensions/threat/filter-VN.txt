@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 18 Jul 2025 23:02 UTC+7
-! Version: 2507182302
-! Blocked: 4.313 rules
+! Last modified: 21 Jul 2025 10:50 UTC+7
+! Version: 2507211050
+! Blocked: 4.315 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1386,6 +1386,7 @@
 ||m-fb.com^
 ||m-fb.site^
 ||m-fecabook.com^
+||m-feccabook.info^
 ||m.12luxury.com^
 ||m.1svi101.com^
 ||m.5u1io.com^
@@ -1859,6 +1860,7 @@
 ||ncb-bank.pw^
 ||ncbbank.online^
 ||ncbbank.site^
+||nceefmh.qokng.online^
 ||nestlegroup.pro^
 ||netwo616.com^
 ||new-vietcombank.com^

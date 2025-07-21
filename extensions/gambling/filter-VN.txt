@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 18 Jul 2025 23:02 UTC+7
-! Version: 2507182302
-! Blocked: 3.434 rules
+! Last modified: 21 Jul 2025 10:50 UTC+7
+! Version: 2507211050
+! Blocked: 3.438 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -291,7 +291,10 @@
 ||8dayvn888.com^
 ||8jbet.vin^
 ||8k00000.com^
+||8k88.live^
+||8k88.plus^
 ||8kbet.app^
+||8kbet.com^
 ||8live.club^
 ||8live.com^
 ||8live.fun^
@@ -3142,6 +3145,7 @@
 ||vnvwbet.com^
 ||vnvwin.com^
 ||vnxoso-web.com^
+||vpn8k.top^
 ||vscore.bet^
 ||vscore.online^
 ||vscore.pro^

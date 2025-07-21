@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 18 Jul 2025 23:02 UTC+7
-# Version: 2507182302
-# Blocked: 4.836 domains
+# Last modified: 21 Jul 2025 10:50 UTC+7
+# Version: 2507211050
+# Blocked: 4.838 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1637,6 +1637,7 @@
 0.0.0.0 m-fb.com
 0.0.0.0 m-fb.site
 0.0.0.0 m-fecabook.com
+0.0.0.0 m-feccabook.info
 0.0.0.0 m.12luxury.com
 0.0.0.0 m.1svi101.com
 0.0.0.0 m.5u1io.com
@@ -2145,6 +2146,7 @@
 0.0.0.0 ncb-bank.pw
 0.0.0.0 ncbbank.online
 0.0.0.0 ncbbank.site
+0.0.0.0 nceefmh.qokng.online
 0.0.0.0 nestlegroup.pro
 0.0.0.0 net.lsipes.com
 0.0.0.0 netwo616.com
