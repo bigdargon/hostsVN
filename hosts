@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 21 Jul 2025 10:51 UTC+7
-# Version: 2507211051
-# Blocked: 18.859 domains
+# Last modified: 22 Jul 2025 09:45 UTC+7
+# Version: 2507220945
+# Blocked: 18.873 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9230,6 +9230,7 @@
 0.0.0.0 adventurefeeds.xml-v6.ak-is2.net
 0.0.0.0 adventurefeeds.xml.ak-is2.net
 0.0.0.0 adwooo.fs.ak-is2.net
+0.0.0.0 adxnexus.xml.ak-is2.net
 0.0.0.0 ak-is2.net
 0.0.0.0 app-shake.xml-eu.ak-is2.net
 0.0.0.0 app-shake.xs.ak-is2.net
@@ -9258,6 +9259,7 @@
 0.0.0.0 popsgg.xml-eu-v4.ak-is2.net
 0.0.0.0 popsgg.xml-v4.ak-is2.net
 0.0.0.0 popsgg.xml.ak-is2.net
+0.0.0.0 popviking.xml.ak-is2.net
 0.0.0.0 pressize.xml-eu.ak-is2.net
 0.0.0.0 pulsefintech.xs.ak-is2.net
 0.0.0.0 pushub.xml-eu.ak-is2.net
@@ -11782,6 +11784,15 @@
 0.0.0.0 birdgesdk.com
 0.0.0.0 aa.birdgesdk.com
 0.0.0.0 pitk.birdgesdk.com
+#[zeusadx.com]
+0.0.0.0 zeusadx.com
+0.0.0.0 xml.zeusadx.com
+#[popviking.com]
+0.0.0.0 popviking.com
+0.0.0.0 xml.popviking.com
+#[adxnexus.com]
+0.0.0.0 adxnexus.com
+0.0.0.0 xml.adxnexus.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14686,6 +14697,7 @@
 0.0.0.0 ajghtafutjt.com
 0.0.0.0 ajglirsuk.com
 0.0.0.0 ajouter.net
+0.0.0.0 ajratgatjav.com
 0.0.0.0 ajvhagmuvfm.com
 0.0.0.0 ak-ads-ns.prisasd.com
 0.0.0.0 ak.argrowlitheor.com
@@ -16591,6 +16603,7 @@
 0.0.0.0 huhskyavngw.com
 0.0.0.0 humandemand.com
 0.0.0.0 hunchlastlysluice.com
+0.0.0.0 hupaiowicog.com
 0.0.0.0 huppontic.com
 0.0.0.0 hurarwjrirti.com
 0.0.0.0 hurkarubypaths.com
@@ -16764,6 +16777,7 @@
 0.0.0.0 itriyokj.com
 0.0.0.0 itstuffnews.com
 0.0.0.0 itweepinbelltor.com
+0.0.0.0 ivdjs.com
 0.0.0.0 ivhwlnlcgi.com
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
@@ -17358,6 +17372,7 @@
 0.0.0.0 mybloglog.com
 0.0.0.0 mybuys.com
 0.0.0.0 mycounter.ua
+0.0.0.0 mylwwuqdhidkmx.com
 0.0.0.0 myntelligence.com
 0.0.0.0 myolnyr5bsk18.com
 0.0.0.0 mypagerank.net
@@ -18400,6 +18415,7 @@
 0.0.0.0 sabergood.com
 0.0.0.0 sablesong.com
 0.0.0.0 sackbarngroups.com
+0.0.0.0 sacmeetekremsog.com
 0.0.0.0 sacwumsf.com
 0.0.0.0 safebrowsdv.com
 0.0.0.0 safestgatetocontent.com
@@ -19113,6 +19129,7 @@
 0.0.0.0 ugroocuw.net
 0.0.0.0 uhealth.care
 0.0.0.0 uhland24.de
+0.0.0.0 uiiocpfx.com
 0.0.0.0 uitopadxdy.com
 0.0.0.0 ujqwhqjckhscl.com
 0.0.0.0 ukbanners.com

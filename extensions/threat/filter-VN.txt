@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 21 Jul 2025 10:50 UTC+7
-! Version: 2507211050
-! Blocked: 4.315 rules
+! Last modified: 22 Jul 2025 09:45 UTC+7
+! Version: 2507220945
+! Blocked: 4.316 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3009,6 +3009,7 @@
 ||thevayhub.com^
 ||thevip-khcn-vpb.com^
 ||thichanhmoney.store^
+||thiendia2.com^
 ||thietbidiennang.online^
 ||thirdcitybank.com^
 ||thisinhthanhlich.cf^
