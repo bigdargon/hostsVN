@@ -9208,6 +9208,7 @@ ad-maven.xml-eu.ak-is2.net
 ad-maven.xml.ak-is2.net
 ad-maven.xs.ak-is2.net
 adfclick1.xs.ak-is2.net
+adflyer.xml.ak-is2.net
 adop.xml-eu.ak-is2.net
 adop.xs.ak-is2.net
 adoptim.fs.ak-is2.net
@@ -9255,6 +9256,7 @@ pushub.xml.ak-is2.net
 pushub.xs.ak-is2.net
 reacheffect.xml-eu.ak-is2.net
 rtbnext.fs.ak-is2.net
+rtxfeed.xml.ak-is2.net
 sedodna.fs.ak-is2.net
 sedodna.xml.ak-is2.net
 skinkexchange.fs.ak-is2.net
@@ -11781,3 +11783,14 @@ xml.popviking.com
 #[adxnexus.com]
 adxnexus.com
 xml.adxnexus.com
+#[rtxfeed.com]
+rtxfeed.com
+filter.rtxfeed.com
+xml.rtxfeed.com
+#[adflyer.media]
+adflyer.media
+xml.adflyer.media
+#[acertb.com]
+acertb.com
+filter.acertb.com
+xml.acertb.com
