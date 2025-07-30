@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 30 Jul 2025 09:35 UTC+7
-# Version: 2507300935
-# Blocked: 4.839 domains
+# Last modified: 30 Jul 2025 16:01 UTC+7
+# Version: 2507301601
+# Blocked: 4.840 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2564,6 +2564,7 @@
 0.0.0.0 sanmomo.me
 0.0.0.0 sanqua-lienminh2021.cf
 0.0.0.0 saokenganhangvn.com
+0.0.0.0 sbvhn.com
 0.0.0.0 sc0mvn.com
 0.0.0.0 scb.chamsockhachhang-truc-tuyen-the.online
 0.0.0.0 scb.com.vn-cn.xyz
