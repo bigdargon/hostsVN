@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 30 Jul 2025 16:01 UTC+7
-! Version: 2507301601
-! Blocked: 3.445 rules
+! Last modified: 07 Aug 2025 14:23 UTC+7
+! Version: 2508071423
+! Blocked: 3.452 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -537,6 +537,7 @@
 ||b29.pub^
 ||b369.com^
 ||b4.big88.com^
+||b4.big88.net^
 ||b4.pum88.com^
 ||b4.qibet.com^
 ||b4.vibet.com^
@@ -610,6 +611,7 @@
 ||biendo3.com^
 ||biendo9.com^
 ||big88.com^
+||big88.net^
 ||big88.one^
 ||bigboss23.com^
 ||bigboss93.com^
@@ -1213,6 +1215,10 @@
 ||gnbet.vip^
 ||go.12fifa2018.com^
 ||go789.nl^
+||go8.lv^
+||go8.plus^
+||go8.pub^
+||go8.pw^
 ||go88-vn.com^
 ||go88.ca^
 ||go88.cam^
@@ -2232,6 +2238,7 @@
 ||nt.choiwon88.info^
 ||nuoigada.com^
 ||nxb8.com^
+||o4.oxbet.in^
 ||ok388.tv^
 ||okcado.com^
 ||okcado.org^
