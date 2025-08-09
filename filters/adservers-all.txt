@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 Aug 2025 14:24 UTC+7
-! Version: 2508071424
-! Blocked: 9.678 rules
+! Last modified: 09 Aug 2025 23:35 UTC+7
+! Version: 2508092335
+! Blocked: 9.679 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1846,6 +1846,7 @@
 ||fidelity-media.com^
 ||fiftyt.com^
 ||filament-stats.herokuapp.com^
+||finallygotthexds.site^
 ||firebaselogging-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||firstimpression.io^
