@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 09 Aug 2025 23:34 UTC+7
-! Version: 2508092334
-! Blocked: 3.454 rules
+! Last modified: 12 Aug 2025 15:32 UTC+7
+! Version: 2508121532
+! Blocked: 3.457 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1736,6 +1736,8 @@
 ||keonhacai3.com^
 ||keotot.net^
 ||ketquasoso.net^
+||kg88.com^
+||kg88.shop^
 ||khamphasampham.cc^
 ||khuyenmai.cloud^
 ||kimsa.us^
@@ -3432,6 +3434,7 @@
 ||yo88.win^
 ||yo88vn.com^
 ||yo88vn.us^
+||youwevnak.kg88.shop^
 ||yule12888.com^
 ||yylive.top^
 ||yylive.tv^
