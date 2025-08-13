@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 12 Aug 2025 15:32 UTC+7
-! Version: 2508121532
-! Blocked: 93.059 rules
+! Last modified: 13 Aug 2025 10:20 UTC+7
+! Version: 2508131020
+! Blocked: 93.060 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -52226,6 +52226,7 @@
 ||betvdm.com^
 ||betvegas527.com^
 ||betvie.com^
+||betvip.center^
 ||betvisa.com^
 ||betvisa.dog^
 ||betvisa.info^

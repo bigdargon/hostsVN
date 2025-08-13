@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 12 Aug 2025 15:32 UTC+7
-# Version: 2508121532
-# Blocked: 4.843 domains
+# Last modified: 13 Aug 2025 10:20 UTC+7
+# Version: 2508131020
+# Blocked: 4.844 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3568,6 +3568,7 @@
 0.0.0.0 tingiovang777.com
 0.0.0.0 tingiovangvn.com
 0.0.0.0 tinhay24h.pro
+0.0.0.0 tinhot24h.pro
 0.0.0.0 tinhot24h.website
 0.0.0.0 tinhothomnay.com
 0.0.0.0 tinhotnew.com

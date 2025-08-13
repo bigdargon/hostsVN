@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 12 Aug 2025 15:32 UTC+7
-! Version: 2508121532
-! Blocked: 3.457 rules
+! Last modified: 13 Aug 2025 10:20 UTC+7
+! Version: 2508131020
+! Blocked: 3.458 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -599,6 +599,7 @@
 ||betlixi88.net^
 ||betlv.com^
 ||bettingroup.net^
+||betvip.center^
 ||betvisa.com^
 ||betvisa.dog^
 ||betvnd.cc^

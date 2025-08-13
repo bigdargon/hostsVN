@@ -48,12 +48,13 @@
 ^https?:\/\/.+\.googlevideo\.com\/ptracking
 ^https?:\/\/.+\.googlevideo\.com\/videogoodput
 
+#^https?:\/\/.+\.youtube\.com\/api\/stats\/qoe
 ^https?:\/\/.+\.youtube\.com\/.+adcontext
 ^https?:\/\/.+\.youtube\.com\/.+adformat
+^https?:\/\/.+\.youtube\.com\/.+adinteraction
 ^https?:\/\/.+\.youtube\.com\/.+get_ads
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/ads
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/atr
-^https?:\/\/.+\.youtube\.com\/api\/stats\/qoe
 ^https?:\/\/.+\.youtube\.com\/csi_204
 ^https?:\/\/.+\.youtube\.com\/error_204
 ^https?:\/\/.+\.youtube\.com\/gen_204

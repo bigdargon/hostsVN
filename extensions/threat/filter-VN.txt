@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 12 Aug 2025 15:32 UTC+7
-! Version: 2508121532
-! Blocked: 4.320 rules
+! Last modified: 13 Aug 2025 10:20 UTC+7
+! Version: 2508131020
+! Blocked: 4.321 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3196,6 +3196,7 @@
 ||tingiovang777.com^
 ||tingiovangvn.com^
 ||tinhay24h.pro^
+||tinhot24h.pro^
 ||tinhot24h.website^
 ||tinhothomnay.com^
 ||tinhotnew.com^
