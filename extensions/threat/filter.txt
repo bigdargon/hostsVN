@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 13 Aug 2025 10:20 UTC+7
-! Version: 2508131020
-! Blocked: 4.769 rules
+! Last modified: 19 Aug 2025 14:16 UTC+7
+! Version: 2508191416
+! Blocked: 4.771 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1449,6 +1449,7 @@
 ||kxtmstjs.org^
 ||kyaj11.com^
 ||l-fb.co^
+||l-i.me^
 ||l-j.me^
 ||la533.com^
 ||la5959.com^
@@ -3167,6 +3168,7 @@
 ||ssvnshop.com^
 ||standardresourcebank.com^
 ||starbucksthai.shop^
+||state-bank.vercel.app^
 ||statediting.live^
 ||stbuyshopoui.com^
 ||stcard-vib.com^

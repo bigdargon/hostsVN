@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 13 Aug 2025 10:20 UTC+7
-! Version: 2508131020
-! Blocked: 9.690 rules
+! Last modified: 19 Aug 2025 14:16 UTC+7
+! Version: 2508191416
+! Blocked: 9.702 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1307,6 +1307,7 @@
 ||analytics.adjust.io^
 ||analytics.adjust.net.in^
 ||analytics.adjust.world^
+||analytics.agoda.com^
 ||analytics.autodesk.com^
 ||analytics.bigdata.samsung.com^
 ||analytics.cloud.unity3d.com^
@@ -1371,6 +1372,8 @@
 ||apm-collector.daumkakao.io^
 ||apm-log-upload-os.hoyoverse.com^
 ||app-adforce.jp^
+||app-ads-services.com^
+||app-analytics-services.com^
 ||app-analytics-v2.snapchat.com^
 ||app-analytics.snapchat.com^
 ||app-measurement.com^
@@ -1482,6 +1485,7 @@
 ||beaverads.com^
 ||bebi.com^
 ||beesads.com^
+||bento.agoda.com^
 ||beop.io^
 ||berryessa.stats.live-video.net^
 ||bestcontentfood.top^
@@ -1652,6 +1656,7 @@
 ||conductrics.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||confiant-integrations.net^
+||config.emb-api.com^
 ||config.hiido.com^
 ||config.mobilegamestats.com^
 ||config.sdk.scopely.io^
@@ -1709,6 +1714,7 @@
 ||daly2024.com^
 ||data-optout-service.uca.cloud.unity3d.com^
 ||data-sharing-consent.aprod.scopely.io^
+||data.emb-api.com^
 ||data.mistat.intl.xiaomi.com^
 ||data.mob.com^
 ||data.sec.intl.miui.com^
@@ -2234,6 +2240,7 @@
 ||microad.jp^
 ||microad.net^
 ||microadinc.com^
+||minerva.devices.a2z.com^
 ||mintegral.net^
 ||mistat.*.xiaomi.com^
 ||mistat.xiaomi.com^
@@ -2307,6 +2314,7 @@
 ||nhnace.com^
 ||ninthdecimal.com^
 ||nmetrics.samsung.com^
+||noa.yahoo.com^
 ||nol.yahoo.com^
 ||notes-analytics-events.apple.com^
 ||nr-data.net^
@@ -2370,6 +2378,7 @@
 ||participants.evolv.ai^
 ||partnerad.l.google.com^
 ||partnerads.ysm.yahoo.com^
+||partners.agoda.com^
 ||pbbl.co^
 ||pbstck.com^
 ||pc-mon.zijieapi.com^
@@ -2830,6 +2839,7 @@
 ||ucads.ucweb.com^
 ||udbdf-v2.nimo.tv^
 ||udc.msn.com^
+||udc.yahoo.com^
 ||ugdturner.com^
 ||uid.mavencoalition.io^
 ||ujm.hansel.io^
@@ -4024,7 +4034,6 @@
 ||analytics-s4.com^
 ||analytics-static.ugc.bazaarvoice.com^
 ||analytics-track.machbird.com^
-||analytics.agoda.com^
 ||analytics.ahrefs.com^
 ||analytics.alright.network^
 ||analytics.amazing-media.com^
@@ -4136,8 +4145,6 @@
 ||apis.appnxt.net^
 ||apoilpnwr.com^
 ||apolloprogram.io^
-||app-ads-services.com^
-||app-analytics-services.com^
 ||app-promo.com^
 ||app.posthog.com^
 ||appads.com^
@@ -4442,7 +4449,6 @@
 ||bemobtrk.com^
 ||benevolencepair.com^
 ||benonblkd.xyz^
-||bento.agoda.com^
 ||benzeinlune.com^
 ||bepansaer.com^
 ||beplusleor.com^
@@ -5988,6 +5994,7 @@
 ||guhomnfuzq.com^
 ||guidecent.com^
 ||guihua-china.com^
+||gukrelrock.net^
 ||gullyending.com^
 ||gunggo.com^
 ||guppymedia.com^
@@ -7786,6 +7793,7 @@
 ||prx.wayfair.com^
 ||psaltauw.net^
 ||psausuck.net^
+||pscbrveha.com^
 ||psipausaix.net^
 ||psootchu.net^
 ||psoroumukr.com^
@@ -9452,6 +9460,7 @@
 ||wikia-ads.wikia.com^
 ||wildedbarley.com^
 ||wilslide.com^
+||wiltiqkc.com^
 ||wimswuppoxan.com^
 ||window.nixnet.cz^
 ||windsattributeron.com^
@@ -9500,6 +9509,7 @@
 ||wpush.org^
 ||wqjbldnnceroue.com^
 ||wqzyxxrrep.com^
+||wr.amigojimbang.com^
 ||wrapper.lemde.fr^
 ||wreaksyolkier.com^
 ||wrestcut.com^
@@ -9540,6 +9550,7 @@
 ||xius.com^
 ||xjrwxfdphc.com^
 ||xkesalwueyz.com^
+||xkfvceil.com^
 ||xldncyivwazvfy.com^
 ||xlviiirdr.com^
 ||xlwaluyw.com^
@@ -9690,6 +9701,7 @@
 ||zuqalzajno.com^
 ||zvetokr2hr8pcng09.com^
 ||zwnoeqzsuz.com^
+||zwnsuuaoqfab.com^
 ||zxc.world^
 ||zy.eilaeliza.top^
 ||zz.bdstatic.com^

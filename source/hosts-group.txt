@@ -216,6 +216,12 @@ adtrafficquality.google
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
+#[app-ads-services.com]
+app-ads-services.com
+odm.app-ads-services.com
+www.app-ads-services.com
+#[app-analytics-services.com]
+app-analytics-services.com
 #[microsoft.com]
 target.microsoft.com
 #[telemetry.microsoft.com]
@@ -454,6 +460,7 @@ us-east-2.prod.pr.analytics.console.aws.a2z.com
 us-west-2.prod.pr.analytics.console.aws.a2z.com
 us-east-1.prod.pw.analytics.console.aws.a2z.com
 #[telemetry.insights.video.a2z.com]
+telemetry.insights.video.a2z.com
 global.telemetry.insights.video.a2z.com
 us-east-1.telemetry.insights.video.a2z.com
 #[metrics.imdb.a2z.com]
@@ -461,6 +468,7 @@ metrics.imdb.a2z.com
 cdn.prod.metrics.imdb.a2z.com
 #[a2z.com]
 clientlogger.marketplace.aws.a2z.com
+minerva.devices.a2z.com
 #[tumblr]
 platform.tumblr.com
 ls.srvcs.tumblr.com
@@ -475,10 +483,12 @@ beap-bc.yahoo.com
 geo.query.yahoo.com
 geo.yahoo.com
 marketingsolutions.yahoo.com
+noa.yahoo.com
 nol.yahoo.com
 partnerads.ysm.yahoo.com
 pr-bh.ybp.yahoo.com
 pr.comet.yahoo.com
+udc.yahoo.com
 visit.webhosting.yahoo.com
 #[ads.*.yahoo.com]
 ads.auctions.yahoo.com
@@ -11799,3 +11809,10 @@ xml.acertb.com
 cvt.finallygotthexds.site
 finallygotthexds.site
 i.finallygotthexds.site
+#[agoda.com]
+analytics.agoda.com
+bento.agoda.com
+partners.agoda.com
+#[emb-api.com]
+data.emb-api.com
+config.emb-api.com
