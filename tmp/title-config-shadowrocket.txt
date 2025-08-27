@@ -2,10 +2,10 @@
 bypass-system = true
 skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, captive.apple.com
 tun-excluded-routes = 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.88.99.0/24, 192.168.0.0/16, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 255.255.255.255/32, 239.255.255.250/32
-dns-server = https://doh3.dns.nextdns.io/,https://dns11.quad9.net/dns-query
+dns-server = https://dns.nextdns.io/,https://dns11.quad9.net/dns-query
 #dns-server = tls://dns.nextdns.io,tls://dns11.quad9.net
 #dns-server = quic://dns.nextdns.io
-fallback-dns-server = 9.9.9.11,208.67.222.222,2620:fe::11,2620:119:35::35
+fallback-dns-server = 208.67.222.222,9.9.9.11,2620:119:35::35,2620:fe::11
 ipv6 = true
 prefer-ipv6 = false
 private-ip-answer = true
