@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 19 Aug 2025 14:16 UTC+7
-! Version: 2508191416
-! Blocked: 2.812 rules
+! Last modified: 10 Sep 2025 15:34 UTC+7
+! Version: 2509101534
+! Blocked: 2.816 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -691,8 +691,10 @@
 ||ihentai.ws^
 ||img.hentaivv1.com^
 ||img.javsubz.net^
+||img.nangcuc.co^
 ||img.nangcuc.link^
 ||img.nangcuc.live^
+||img.nangcucz.link^
 ||img.vl69.pro^
 ||img.xxxphim.top^
 ||info.xnxx.gold^
@@ -996,6 +998,7 @@
 ||mupvl.org^
 ||myhotlive.tv^
 ||mymeyeu.xyz^
+||nangcuc.co^
 ||nangcuc.link^
 ||nangcuc.live^
 ||nangcuc.org^
@@ -1572,6 +1575,7 @@
 ||quatvn.fit^
 ||quatvn.fun^
 ||quatvn.link^
+||quatvn.love^
 ||quatvn.net^
 ||quatvn.online^
 ||quatvn.plus^

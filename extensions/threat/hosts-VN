@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 19 Aug 2025 14:16 UTC+7
-# Version: 2508191416
-# Blocked: 4.394 domains
+# Last modified: 10 Sep 2025 15:34 UTC+7
+# Version: 2509101534
+# Blocked: 4.395 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -243,6 +243,7 @@
 0.0.0.0 bestbitbank.co
 0.0.0.0 bestbitcoinbank.net
 0.0.0.0 bgtib222.com
+0.0.0.0 bhxh.co
 0.0.0.0 bidv-transfermoney.weebly.com
 0.0.0.0 bidvsmartbanking2.ihappy.info
 0.0.0.0 biettainhimua2.wixsite.com

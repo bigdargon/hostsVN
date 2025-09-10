@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 19 Aug 2025 14:16 UTC+7
-# Version: 2508191416
-# Blocked: 4.846 domains
+# Last modified: 10 Sep 2025 15:34 UTC+7
+# Version: 2509101534
+# Blocked: 4.847 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -306,6 +306,7 @@
 0.0.0.0 bestbitbank.co
 0.0.0.0 bestbitcoinbank.net
 0.0.0.0 bgtib222.com
+0.0.0.0 bhxh.co
 0.0.0.0 bideo-blog.com
 0.0.0.0 bideo-blog.xyz
 0.0.0.0 bideo-cdn.com

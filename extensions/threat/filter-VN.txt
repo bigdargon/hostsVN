@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 19 Aug 2025 14:16 UTC+7
-! Version: 2508191416
-! Blocked: 4.323 rules
+! Last modified: 10 Sep 2025 15:34 UTC+7
+! Version: 2509101534
+! Blocked: 4.324 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -241,6 +241,7 @@
 ||bestbitbank.co^
 ||bestbitcoinbank.net^
 ||bgtib222.com^
+||bhxh.co^
 ||bidv-transfermoney.weebly.com^
 ||bidvsmartbanking2.ihappy.info^
 ||biettainhimua2.wixsite.com^
