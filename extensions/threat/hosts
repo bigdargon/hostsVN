@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 10 Sep 2025 15:34 UTC+7
-# Version: 2509101534
-# Blocked: 4.847 domains
+# Last modified: 16 Sep 2025 15:42 UTC+7
+# Version: 2509161542
+# Blocked: 4.849 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1638,6 +1638,7 @@
 0.0.0.0 lzd2024.com
 0.0.0.0 m-facebook.com.vn
 0.0.0.0 m-facebookk.com.vn
+0.0.0.0 m-facellbook.info
 0.0.0.0 m-fb.com
 0.0.0.0 m-fb.site
 0.0.0.0 m-fecabook.com
@@ -4605,6 +4606,7 @@
 0.0.0.0 vtdpgbank.com
 0.0.0.0 vtipshop.today
 0.0.0.0 vtv24.pro
+0.0.0.0 vtv24.site
 0.0.0.0 vtvay.com
 0.0.0.0 vuabem.com
 0.0.0.0 vuacltxmomo.net

@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 10 Sep 2025 15:34 UTC+7
-# Version: 2509101534
-# Blocked: 28.914 domains
+# Last modified: 16 Sep 2025 15:42 UTC+7
+# Version: 2509161542
+# Blocked: 28.916 domains
 # Only include adult domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -4560,6 +4560,7 @@
 0.0.0.0 api-rd.playxyz.net
 0.0.0.0 api.sexapi.net
 0.0.0.0 api.sexapi.xyz
+0.0.0.0 api.stream68.com
 0.0.0.0 api.veebs.org
 0.0.0.0 api2.mlyqz.com
 0.0.0.0 apixxx.xyz
@@ -22734,6 +22735,7 @@
 0.0.0.0 static.manhwa24hs.com
 0.0.0.0 static.nhentai.net
 0.0.0.0 static.sextb.net
+0.0.0.0 static.stream68.com
 0.0.0.0 static.thempho.tv
 0.0.0.0 stdhjx.com
 0.0.0.0 steelqiao.com
