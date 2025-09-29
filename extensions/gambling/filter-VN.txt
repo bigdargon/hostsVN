@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 16 Sep 2025 15:42 UTC+7
-! Version: 2509161542
-! Blocked: 3.493 rules
+! Last modified: 29 Sep 2025 10:33 UTC+7
+! Version: 2509291033
+! Blocked: 3.502 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -501,6 +501,7 @@
 ||api.sky88.com^
 ||api.sky88.fun^
 ||api.st666.win^
+||api.topbet.net^
 ||api.topbet.top^
 ||api.usbet.net^
 ||api.v79top.com^
@@ -2063,6 +2064,7 @@
 ||man79.org^
 ||man88.net^
 ||man88.top^
+||man88.vip^
 ||manclub.fun^
 ||manclub.live^
 ||manclub.us^
@@ -2265,6 +2267,9 @@
 ||ok388.tv^
 ||okcado.com^
 ||okcado.org^
+||okking.com^
+||okking.cooking^
+||okking.org^
 ||okvip.life^
 ||okvip.pro^
 ||okvip.today^
@@ -2301,6 +2306,7 @@
 ||oxbet.cc^
 ||oxbet.club^
 ||oxbet.com^
+||oxbet.fun^
 ||oxbet.in^
 ||oxbet.net^
 ||oxbet.top^
@@ -2322,6 +2328,7 @@
 ||piwik.88thaicasinoslots.com^
 ||pkwin1.com^
 ||play.789.club^
+||play.789club.sx^
 ||play.b52m.club^
 ||play.b52vn.org^
 ||play.bay789.io^
@@ -2962,6 +2969,7 @@
 ||top88vn.club^
 ||top88vn.net^
 ||top9nhacai.top^
+||topbet.net^
 ||topbet.top^
 ||topdoithuong.net^
 ||topgamebai.biz^
@@ -3395,6 +3403,7 @@
 ||wp.rikvip.tv^
 ||wp.sky88.com^
 ||wp.sky88.fun^
+||wp.topbet.net^
 ||wp.topbet.top^
 ||ww88.club^
 ||ww88club.com^

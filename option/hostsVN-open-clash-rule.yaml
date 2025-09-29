@@ -378,7 +378,6 @@ payload:
   - DOMAIN-SUFFIX,adclient.vietnamnetjsc.vn
   - DOMAIN-SUFFIX,addlog.thuvienphapluat.vn
   - DOMAIN-SUFFIX,addtop.trangvangvietnam.com
-  - DOMAIN-SUFFIX,adhub.mobifone.vn
   - DOMAIN-SUFFIX,adm.phunusuckhoe.vn
   - DOMAIN-SUFFIX,adm.phunuvagiadinh.vn
   - DOMAIN-SUFFIX,admin.giaminhmedia.vn
@@ -539,7 +538,6 @@ payload:
   - DOMAIN-SUFFIX,ax.mpcdn.top
   - DOMAIN-SUFFIX,b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
   - DOMAIN-SUFFIX,banner.5giay.vn
-  - DOMAIN-SUFFIX,banner.etargeting.mobifone.vn
   - DOMAIN-SUFFIX,banner.thadaco.vn
   - DOMAIN-SUFFIX,banner.trangvangvietnam.com
   - DOMAIN-SUFFIX,banner.uto.vn
@@ -975,6 +973,7 @@ payload:
   - DOMAIN-SUFFIX,ad4mat.net
   - DOMAIN-SUFFIX,adadvisor.net
   - DOMAIN-SUFFIX,adalyser.com
+  - DOMAIN-SUFFIX,adangle.online
   - DOMAIN-SUFFIX,adap.tv
   - DOMAIN-SUFFIX,adapf.com
   - DOMAIN-SUFFIX,adash.m.taobao.com
@@ -1641,7 +1640,11 @@ payload:
   - DOMAIN-SUFFIX,collecticon.outlookmobile.com
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
+  - DOMAIN-SUFFIX,collector-*.protechts.net
+  - DOMAIN-SUFFIX,collector-*.px-cdn.net
+  - DOMAIN-SUFFIX,collector-*.px-client.net
   - DOMAIN-SUFFIX,collector-*.px-cloud.net
+  - DOMAIN-SUFFIX,collector-*.pxchk.net
   - DOMAIN-SUFFIX,collector-*.tvsquared.com
   - DOMAIN-SUFFIX,collector-*.us.tvsquared.com
   - DOMAIN-SUFFIX,collector.scopely.io
@@ -3161,6 +3164,7 @@ payload:
   - DOMAIN-SUFFIX,actuallysnake.com
   - DOMAIN-SUFFIX,acuityads.com
   - DOMAIN-SUFFIX,aczopdxfy.com
+  - DOMAIN-SUFFIX,aczridptoo.com
   - DOMAIN-SUFFIX,ad-balancer.at
   - DOMAIN-SUFFIX,ad-balancer.net
   - DOMAIN-SUFFIX,ad-center.com
@@ -3958,6 +3962,7 @@ payload:
   - DOMAIN-SUFFIX,ainouzaudre.net
   - DOMAIN-SUFFIX,aiqidwcfrm.com
   - DOMAIN-SUFFIX,aistat.net
+  - DOMAIN-SUFFIX,aividruzeemi.com
   - DOMAIN-SUFFIX,ajfnee.com
   - DOMAIN-SUFFIX,ajggirci.com
   - DOMAIN-SUFFIX,ajghtafutjt.com
@@ -5104,6 +5109,7 @@ payload:
   - DOMAIN-SUFFIX,crtv.mate1.com
   - DOMAIN-SUFFIX,crudenessfinishersacred.com
   - DOMAIN-SUFFIX,crumbrationally.com
+  - DOMAIN-SUFFIX,crummydevioussucculent.com
   - DOMAIN-SUFFIX,crumplylenient.com
   - DOMAIN-SUFFIX,crunchybears.com
   - DOMAIN-SUFFIX,csdian.net
@@ -5298,6 +5304,7 @@ payload:
   - DOMAIN-SUFFIX,detailedgovernment.com
   - DOMAIN-SUFFIX,detailedkitten.com
   - DOMAIN-SUFFIX,detectdiscovery.com
+  - DOMAIN-SUFFIX,detoxifylagoonsnugness.com
   - DOMAIN-SUFFIX,devaluequalmrelative.com
   - DOMAIN-SUFFIX,deviatestartblock.com
   - DOMAIN-SUFFIX,devoteegibberishsinister.com
@@ -5449,6 +5456,7 @@ payload:
   - DOMAIN-SUFFIX,ea.youmaker.com
   - DOMAIN-SUFFIX,eabids.com
   - DOMAIN-SUFFIX,eadexchange.com
+  - DOMAIN-SUFFIX,earmuffpostnasalrisotto.com
   - DOMAIN-SUFFIX,earmuffvintagevitality.com
   - DOMAIN-SUFFIX,earnify.com
   - DOMAIN-SUFFIX,earphonetipperzombie.com
@@ -5698,6 +5706,7 @@ payload:
   - DOMAIN-SUFFIX,fhsmtrnsfnt.com
   - DOMAIN-SUFFIX,fidokhffekm.com
   - DOMAIN-SUFFIX,fidszeoqwjf.com
+  - DOMAIN-SUFFIX,fijimtadee.net
   - DOMAIN-SUFFIX,fiksu.com
   - DOMAIN-SUFFIX,filasseseeder.com
   - DOMAIN-SUFFIX,filezoness.com
@@ -5837,6 +5846,7 @@ payload:
   - DOMAIN-SUFFIX,gbbqyadej.com
   - DOMAIN-SUFFIX,gboxrthnyezkx.com
   - DOMAIN-SUFFIX,gbqofs.com
+  - DOMAIN-SUFFIX,gd.orlcloop.com
   - DOMAIN-SUFFIX,geephugagee.com
   - DOMAIN-SUFFIX,gelclinchfranz.com
   - DOMAIN-SUFFIX,gemius.pl
@@ -5998,6 +6008,7 @@ payload:
   - DOMAIN-SUFFIX,guhalxqa.com
   - DOMAIN-SUFFIX,guhomnfuzq.com
   - DOMAIN-SUFFIX,guidecent.com
+  - DOMAIN-SUFFIX,guidepaparazzisurface.com
   - DOMAIN-SUFFIX,guihua-china.com
   - DOMAIN-SUFFIX,gukrelrock.net
   - DOMAIN-SUFFIX,gullyending.com
@@ -6388,6 +6399,7 @@ payload:
   - DOMAIN-SUFFIX,jadeitite.com
   - DOMAIN-SUFFIX,jaduda.com
   - DOMAIN-SUFFIX,jagnoans.com
+  - DOMAIN-SUFFIX,jagzrmdyw.com
   - DOMAIN-SUFFIX,jailbulb.com
   - DOMAIN-SUFFIX,jaiporukodaisa.com
   - DOMAIN-SUFFIX,jaletemetia.com
@@ -7902,6 +7914,7 @@ payload:
   - DOMAIN-SUFFIX,q.quora.com
   - DOMAIN-SUFFIX,q2melbourne.com
   - DOMAIN-SUFFIX,qa-ads.nobid.com
+  - DOMAIN-SUFFIX,qa.cleckvenin.com
   - DOMAIN-SUFFIX,qa.shboshbok.com
   - DOMAIN-SUFFIX,qahntenkyf.com
   - DOMAIN-SUFFIX,qainfcnvfensl.site
@@ -8894,6 +8907,7 @@ payload:
   - DOMAIN-SUFFIX,tm-banners.gamingadult.com
   - DOMAIN-SUFFIX,tm-offers.gamingadult.com
   - DOMAIN-SUFFIX,tm5kpprikka.com
+  - DOMAIN-SUFFIX,tmebhjkjrtbb.com
   - DOMAIN-SUFFIX,tms.fmm.io
   - DOMAIN-SUFFIX,tnkexchange.com
   - DOMAIN-SUFFIX,to.getnitropack.com
@@ -9182,6 +9196,7 @@ payload:
   - DOMAIN-SUFFIX,unusuallypilgrim.com
   - DOMAIN-SUFFIX,unusualtitle.com
   - DOMAIN-SUFFIX,unylgxxmrsbb.com
+  - DOMAIN-SUFFIX,up.foalywull.com
   - DOMAIN-SUFFIX,upapi.net
   - DOMAIN-SUFFIX,upcomingmonkeydolphin.com
   - DOMAIN-SUFFIX,updated.com
@@ -9356,6 +9371,7 @@ payload:
   - DOMAIN-SUFFIX,vstvstsa.com
   - DOMAIN-SUFFIX,vtacibqzopiw.com
   - DOMAIN-SUFFIX,vteskyombq.com
+  - DOMAIN-SUFFIX,vtqddgntio.com
   - DOMAIN-SUFFIX,vtracy.de
   - DOMAIN-SUFFIX,vtvldhbbdilepes.com
   - DOMAIN-SUFFIX,vudachisouxouk.net

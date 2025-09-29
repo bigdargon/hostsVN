@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 16 Sep 2025 15:42 UTC+7
-! Version: 2509161542
-! Blocked: 28.781 rules
+! Last modified: 29 Sep 2025 10:33 UTC+7
+! Version: 2509291033
+! Blocked: 28.782 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -14071,6 +14071,7 @@
 ||lenkino.video^
 ||lenkino.xxx^
 ||lenkinom.com^
+||lenlut.ac^
 ||lenlut.blog^
 ||lenlut.info^
 ||lenlut.net^
