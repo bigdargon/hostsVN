@@ -1,9 +1,15 @@
+* text=auto eol=lf
+
 hosts linguist-detectable linguist-language=hosts
-hosts-* linguist-detectable linguist-language=hosts
-gambling0* linguist-detectable linguist-language=hosts
+hosts-VN linguist-detectable linguist-language=hosts
+
+adult.txt linguist-detectable linguist-language=hosts
+adult-VN.txt linguist-detectable linguist-language=hosts
+gambling.txt linguist-detectable linguist-language=hosts
+gambling-VN.txt linguist-detectable linguist-language=hosts
+threat.txt linguist-detectable linguist-language=hosts
+threat-VN.txt linguist-detectable linguist-language=hosts
 
 /filters/* linguist-detectable linguist-language=AdBlock
 filter.txt linguist-detectable linguist-language=AdBlock
 filter-VN.txt linguist-detectable linguist-language=AdBlock
-wildcard.txt linguist-detectable linguist-language=AdBlock
-wildcard-VN.txt linguist-detectable linguist-language=AdBlock
