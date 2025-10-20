@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 Oct 2025 11:12 UTC+7
-! Version: 2510071112
-! Blocked: 9.755 rules
+! Last modified: 20 Oct 2025 16:16 UTC+7
+! Version: 2510201616
+! Blocked: 9.769 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -603,6 +603,8 @@
 ||gtmjs.com^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||hit.123c.vn^
+||hp.gcafe.vn^
+||hp.hubs.vn^
 ||iads.staticscdn.net^
 ||iads.vision^
 ||imgcdnbet.com^
@@ -3082,6 +3084,7 @@
 ||360playvid.info^
 ||3a2qi55fr.com^
 ||3gl.net^
+||3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd^
 ||3pkf5m0gd.com^
 ||4d5.net^
 ||4hfchest5kdnfnut.com^
@@ -4452,6 +4455,7 @@
 ||befirstcdn.com^
 ||begun.ru^
 ||behavioralengine.com^
+||beixisys.com^
 ||beklefkiom.com^
 ||belia-glp.com^
 ||belstat.com^
@@ -5140,6 +5144,7 @@
 ||curlyhomes.com^
 ||curtaincows.com^
 ||curvedheldideal.com^
+||cussersimmure.click^
 ||cutepopcorn.com^
 ||cutescale.online^
 ||cuxdiqagcl.com^
@@ -5278,6 +5283,7 @@
 ||decoratedmulesanta.com^
 ||decoycreation.com^
 ||dedicatedmedia.com^
+||deductgreedyheadroom.com^
 ||deductionkeepingbabysitter.com^
 ||deehalig.net^
 ||deewansturacin.com^
@@ -6184,6 +6190,7 @@
 ||htyqiwzunj.com^
 ||htyzpilijhki.com^
 ||hubarejnbsobic.com^
+||hugazdazst.com^
 ||hugfromoctopus.com^
 ||huhskyavngw.com^
 ||humandemand.com^
@@ -6194,6 +6201,7 @@
 ||hurkarubypaths.com^
 ||hurricanedigitalmedia.com^
 ||huskinessimminentstylus.com^
+||huskymeloid.qpon^
 ||huskypartydance.com^
 ||hutchieshode.com^
 ||huwqhqezemv.com^
@@ -6486,6 +6494,7 @@
 ||jvmhtxiqdfr.xyz^
 ||jwuoxhjuq.com^
 ||jxjttecednvb.com^
+||jxkqgoicxthrb.com^
 ||jyhlgpkn.com^
 ||jyjfycnpodkjp.com^
 ||k.iinfo.cz^
@@ -7948,6 +7957,7 @@
 ||qksrv.net^
 ||qlfqkjluvz.com^
 ||qlpenuxctkhwv.com^
+||qmccocotadcab.com^
 ||qmixnhyxc.com^
 ||qnp16tstw.com^
 ||qnsr.com^
@@ -8089,6 +8099,7 @@
 ||regnow.com^
 ||regulationprivilegescan.top^
 ||reinvigorate.net^
+||rel-s.com^
 ||relay.fiverr.com^
 ||relievedgeoff.com^
 ||relmaxtop.com^
@@ -8191,6 +8202,7 @@
 ||romauntmirker.com^
 ||romepoptahul.com^
 ||roofprison.com^
+||rooptawu.net^
 ||rose.ixbt.com^
 ||rosolicdalapon.com^
 ||rosysolvingscallion.com^
@@ -8257,6 +8269,7 @@
 ||s.optvz.com^
 ||s.yjtag.jp^
 ||s.zkcdn.net^
+||s0-greate.net^
 ||s2517.com^
 ||s2d6.com^
 ||s3-analytics-events.easybrain.com^
@@ -9710,6 +9723,7 @@
 ||zazporn.com^
 ||zbwp6ghm.com^
 ||zcmnhyhbaokc.com^
+||zd.midbodyritz.shop^
 ||zdbb.net^
 ||zedo.com^
 ||zeegreen.net^
