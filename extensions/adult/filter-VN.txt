@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 20 Oct 2025 16:16 UTC+7
-! Version: 2510201616
-! Blocked: 2.817 rules
+! Last modified: 21 Oct 2025 10:29 UTC+7
+! Version: 2510211029
+! Blocked: 2.820 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -520,6 +520,9 @@
 ||girlxinhblog.com^
 ||girlxinhcaocap.com^
 ||girlxinhxinh.com^
+||go99.games^
+||go99code.store^
+||go99code.vip^
 ||gockhuat.net^
 ||gocquaytay.com^
 ||goctoi.xyz^
