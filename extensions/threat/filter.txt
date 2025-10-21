@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 21 Oct 2025 10:29 UTC+7
-! Version: 2510211029
-! Blocked: 4.777 rules
+! Last modified: 21 Oct 2025 11:13 UTC+7
+! Version: 2510211113
+! Blocked: 4.779 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -81,6 +81,7 @@
 ||9smomo.com^
 ||Free-4paid.com^
 ||a.viethu.com^
+||a46e0368.forwarding-request-consent.pages.dev^
 ||a666.vn^
 ||aaeeonmart.com^
 ||abb-vnbank.cc^
@@ -2508,6 +2509,7 @@
 ||regis2tarsgroup.click^
 ||regis2tarsinc.click^
 ||reglienquan.online^
+||repingz.com^
 ||resonherse.cfd^
 ||rest.redirectme.net^
 ||restless.su^
