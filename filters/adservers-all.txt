@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 04 Nov 2025 10:13 UTC+7
-! Version: 2511041013
+! Last modified: 04 Nov 2025 10:18 UTC+7
+! Version: 2511041018
 ! Blocked: 9.787 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -2347,7 +2347,6 @@
 ||onespot-tracking.herokuapp.com^
 ||onetag-sys.com^
 ||ongastlya.com^
-||online-metrix.net^
 ||onscroll.com^
 ||onthe.io^
 ||openx.com^
@@ -6047,6 +6046,7 @@
 ||gzaqwebtipm.com^
 ||gzefitkcep.com^
 ||gzegwior.com^
+||h.online-metrix.net^
 ||h2aek6rv0ard.com^
 ||h74v6kerf.com^
 ||h78xb.pw^

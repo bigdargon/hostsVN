@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 04 Nov 2025 10:13 UTC+7
-# Version: 2511041013
-# Blocked: 19.073 domains
+# Last modified: 04 Nov 2025 10:18 UTC+7
+# Version: 2511041018
+# Blocked: 19.069 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9954,12 +9954,6 @@
 #[livetracker.*.pangea-cms.com]
 0.0.0.0 livetracker.rfe.pangea-cms.com
 0.0.0.0 livetracker.voa.pangea-cms.com
-#[online-metrix.net]
-0.0.0.0 aa.online-metrix.net
-0.0.0.0 h-sdk.online-metrix.net
-0.0.0.0 h.online-metrix.net
-0.0.0.0 h64.online-metrix.net
-0.0.0.0 online-metrix.net
 #[amxrtb.com]
 0.0.0.0 ads.amxrtb.com
 0.0.0.0 amxrtb.com
@@ -20228,6 +20222,7 @@
 0.0.0.0 guihua-china.com
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 gw-iad-bid.ymmobi.com
+0.0.0.0 h.online-metrix.net
 0.0.0.0 hairtease.com
 0.0.0.0 hdmtools.com
 0.0.0.0 histats.link
