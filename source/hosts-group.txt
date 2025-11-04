@@ -7910,9 +7910,11 @@ api16-access-sg.pangle-b.io
 api16-log-sg.pangle-b.io
 pangle-b.io
 #[tiktokpangle.us]
+api16-access-ttp-b.tiktokpangle.us
 api16-access-ttp.tiktokpangle.us
 tiktokpangle.us
 #[tiktokpangle-b.us]
+api16-access-ttp-b.tiktokpangle-b.us
 api16-access-ttp.tiktokpangle-b.us
 tiktokpangle-b.us
 #[lf-static.tiktokpangle-cdn-us.com]
@@ -11417,6 +11419,7 @@ web-device-id.banggood.com
 mtgglobals.com
 adx-tk.mtgglobals.com
 cdn-adn-https.mtgglobals.com
+configure-tcp-ios.mtgglobals.com
 sg01.mtgglobals.com
 #[new-programmatic.com]
 new-programmatic.com
@@ -11670,6 +11673,7 @@ engine.adlogists.com
 insights.rtgio.co
 rtgio.co
 #[ttrk.io]
+bsxzc.ttrk.io
 h3yci.ttrk.io
 sin.ttrk.io
 ttrk.io

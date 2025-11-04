@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 21 Oct 2025 11:13 UTC+7
-! Version: 2510211113
-! Blocked: 93.141 rules
+! Last modified: 04 Nov 2025 10:13 UTC+7
+! Version: 2511041013
+! Blocked: 93.150 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -42798,6 +42798,7 @@
 ||8x6311.com^
 ||8x6340.com^
 ||8x6341.com^
+||8x6343.com^
 ||8x6345.com^
 ||8x6348.com^
 ||8x6354.com^
@@ -49312,6 +49313,7 @@
 ||api.opztws.top^
 ||api.pg88-1.com^
 ||api.pg88vn.vip^
+||api.red88.club^
 ||api.red88.com^
 ||api.red88.us^
 ||api.red88.vin^
@@ -61924,12 +61926,15 @@
 ||go88xyz.com^
 ||go99.bz^
 ||go99.forex^
+||go99.games^
 ||go99.gold^
 ||go99.green^
 ||go99.pro^
 ||go99.red^
 ||go99.team^
 ||go99.vip^
+||go99code.store^
+||go99code.vip^
 ||go99x.com^
 ||go99z.com^
 ||goal123.biz^
@@ -63132,6 +63137,7 @@
 ||hbc789.top^
 ||hbc789.work^
 ||hbet.net^
+||hbet.win^
 ||hbet888.com^
 ||hbglhl.xyz^
 ||hbo05.com^
@@ -78793,6 +78799,7 @@
 ||recxpd.ink^
 ||red-direct-n.com^
 ||red-direct.com^
+||red88.club^
 ||red88.com^
 ||red88.top^
 ||red88.tv^
@@ -80859,6 +80866,7 @@
 ||sock.mu9.com^
 ||sock.nbet.fan^
 ||sock.nbet.vin^
+||sock.red88.club^
 ||sock.red88.com^
 ||sock.red88.us^
 ||sock.red88.vin^
@@ -88531,6 +88539,7 @@
 ||wp.nbet.fan^
 ||wp.nbet.to^
 ||wp.nbet.vin^
+||wp.red88.club^
 ||wp.red88.com^
 ||wp.red88.us^
 ||wp.red88.vin^

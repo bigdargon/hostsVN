@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 21 Oct 2025 11:13 UTC+7
-# Version: 2510211113
-# Blocked: 94.407 domains
+# Last modified: 04 Nov 2025 10:13 UTC+7
+# Version: 2511041013
+# Blocked: 94.416 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -42792,6 +42792,7 @@
 0.0.0.0 8x6311.com
 0.0.0.0 8x6340.com
 0.0.0.0 8x6341.com
+0.0.0.0 8x6343.com
 0.0.0.0 8x6345.com
 0.0.0.0 8x6348.com
 0.0.0.0 8x6354.com
@@ -49303,6 +49304,7 @@
 0.0.0.0 api.opztws.top
 0.0.0.0 api.pg88-1.com
 0.0.0.0 api.pg88vn.vip
+0.0.0.0 api.red88.club
 0.0.0.0 api.red88.com
 0.0.0.0 api.red88.us
 0.0.0.0 api.red88.vin
@@ -61907,12 +61909,15 @@
 0.0.0.0 go88xyz.com
 0.0.0.0 go99.bz
 0.0.0.0 go99.forex
+0.0.0.0 go99.games
 0.0.0.0 go99.gold
 0.0.0.0 go99.green
 0.0.0.0 go99.pro
 0.0.0.0 go99.red
 0.0.0.0 go99.team
 0.0.0.0 go99.vip
+0.0.0.0 go99code.store
+0.0.0.0 go99code.vip
 0.0.0.0 go99x.com
 0.0.0.0 go99z.com
 0.0.0.0 goal123.biz
@@ -63112,6 +63117,7 @@
 0.0.0.0 hbc789.top
 0.0.0.0 hbc789.work
 0.0.0.0 hbet.net
+0.0.0.0 hbet.win
 0.0.0.0 hbet888.com
 0.0.0.0 hbglhl.xyz
 0.0.0.0 hbo05.com
@@ -78763,6 +78769,7 @@
 0.0.0.0 recxpd.ink
 0.0.0.0 red-direct-n.com
 0.0.0.0 red-direct.com
+0.0.0.0 red88.club
 0.0.0.0 red88.com
 0.0.0.0 red88.top
 0.0.0.0 red88.tv
@@ -80823,6 +80830,7 @@
 0.0.0.0 sock.mu9.com
 0.0.0.0 sock.nbet.fan
 0.0.0.0 sock.nbet.vin
+0.0.0.0 sock.red88.club
 0.0.0.0 sock.red88.com
 0.0.0.0 sock.red88.us
 0.0.0.0 sock.red88.vin
@@ -88484,6 +88492,7 @@
 0.0.0.0 wp.nbet.fan
 0.0.0.0 wp.nbet.to
 0.0.0.0 wp.nbet.vin
+0.0.0.0 wp.red88.club
 0.0.0.0 wp.red88.com
 0.0.0.0 wp.red88.us
 0.0.0.0 wp.red88.vin

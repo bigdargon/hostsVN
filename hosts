@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 21 Oct 2025 11:14 UTC+7
-# Version: 2510211114
-# Blocked: 19.057 domains
+# Last modified: 04 Nov 2025 10:13 UTC+7
+# Version: 2511041013
+# Blocked: 19.073 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7922,9 +7922,11 @@
 0.0.0.0 api16-log-sg.pangle-b.io
 0.0.0.0 pangle-b.io
 #[tiktokpangle.us]
+0.0.0.0 api16-access-ttp-b.tiktokpangle.us
 0.0.0.0 api16-access-ttp.tiktokpangle.us
 0.0.0.0 tiktokpangle.us
 #[tiktokpangle-b.us]
+0.0.0.0 api16-access-ttp-b.tiktokpangle-b.us
 0.0.0.0 api16-access-ttp.tiktokpangle-b.us
 0.0.0.0 tiktokpangle-b.us
 #[lf-static.tiktokpangle-cdn-us.com]
@@ -11429,6 +11431,7 @@
 0.0.0.0 mtgglobals.com
 0.0.0.0 adx-tk.mtgglobals.com
 0.0.0.0 cdn-adn-https.mtgglobals.com
+0.0.0.0 configure-tcp-ios.mtgglobals.com
 0.0.0.0 sg01.mtgglobals.com
 #[new-programmatic.com]
 0.0.0.0 new-programmatic.com
@@ -11682,6 +11685,7 @@
 0.0.0.0 insights.rtgio.co
 0.0.0.0 rtgio.co
 #[ttrk.io]
+0.0.0.0 bsxzc.ttrk.io
 0.0.0.0 h3yci.ttrk.io
 0.0.0.0 sin.ttrk.io
 0.0.0.0 ttrk.io
@@ -15327,6 +15331,7 @@
 0.0.0.0 btrll.com
 0.0.0.0 bucksense.com
 0.0.0.0 budvawshes.ru
+0.0.0.0 buffooncountabletreble.com
 0.0.0.0 bulbbait.com
 0.0.0.0 buleor.com
 0.0.0.0 bullionglidingscuttle.com
@@ -15760,6 +15765,7 @@
 0.0.0.0 crudenessfinishersacred.com
 0.0.0.0 crumbrationally.com
 0.0.0.0 crummydevioussucculent.com
+0.0.0.0 crumpetprankerstench.com
 0.0.0.0 crumplylenient.com
 0.0.0.0 crunchybears.com
 0.0.0.0 csm.cxpublic.com
@@ -16444,6 +16450,7 @@
 0.0.0.0 gkemujoccwin.com
 0.0.0.0 gketcakpeh.com
 0.0.0.0 gkpohvff.com
+0.0.0.0 gkuocadgecsga.com
 0.0.0.0 glaciervivid.com
 0.0.0.0 glaignicmo.com
 0.0.0.0 glaingotseemt.net
@@ -16773,6 +16780,7 @@
 0.0.0.0 ii.decastebonise.com
 0.0.0.0 iifvcfwiqi.com
 0.0.0.0 iiqbttkbfvgyo.com
+0.0.0.0 ik.hatcheskoeri.shop
 0.0.0.0 ikahnruntx.com
 0.0.0.0 ikengoti.com
 0.0.0.0 ikilrategroahe.com
@@ -17067,6 +17075,7 @@
 0.0.0.0 kupefoarsadseer.com
 0.0.0.0 kupona.de
 0.0.0.0 kuqfudazkn.com
+0.0.0.0 kvaurjynazce.com
 0.0.0.0 kvkaa.com
 0.0.0.0 kvtaaa.top
 0.0.0.0 kw3y5otoeuniv7e9rsi.com
@@ -17401,6 +17410,7 @@
 0.0.0.0 mirohqodlf.com
 0.0.0.0 miserablenobody.com
 0.0.0.0 misguidedclotpensioner.com
+0.0.0.0 misqimohlpk.com
 0.0.0.0 missitzantiot.com
 0.0.0.0 misstrends.com
 0.0.0.0 mitaxsodwrfu.com
@@ -17849,6 +17859,7 @@
 0.0.0.0 otqxvqzdgl.com
 0.0.0.0 oufauthy.net
 0.0.0.0 ouftukoo.net
+0.0.0.0 ourithauphexaus.com
 0.0.0.0 oustoope.com
 0.0.0.0 out-there-media.com
 0.0.0.0 outabsola.com
@@ -18074,6 +18085,7 @@
 0.0.0.0 pocrowpush.com
 0.0.0.0 podefr2.net
 0.0.0.0 podsklzegshmnd.com
+0.0.0.0 poepksqs.com
 0.0.0.0 pofohensoahee.net
 0.0.0.0 poggdgdwutcmbx.com
 0.0.0.0 pointedpleasure.com
@@ -18913,6 +18925,7 @@
 0.0.0.0 stoakrestultan.com
 0.0.0.0 stoampaliy.net
 0.0.0.0 stolenforensicssausage.com
+0.0.0.0 stooghopsee.net
 0.0.0.0 stoopfalse.com
 0.0.0.0 stoorgel.com
 0.0.0.0 stootsou.net
@@ -19180,6 +19193,7 @@
 0.0.0.0 track.contently.com
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
+0.0.0.0 track.getmydeals.net
 0.0.0.0 track.involvkgfr.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackedlink.net
@@ -19762,6 +19776,7 @@
 0.0.0.0 x.blueduckredapple.com
 0.0.0.0 x.thecatmachine.com
 0.0.0.0 x2sfa.javgg.eu
+0.0.0.0 x7i0.com
 0.0.0.0 x7r3mk6ldr.com
 0.0.0.0 xad.com
 0.0.0.0 xadsmart.com
@@ -20572,6 +20587,7 @@
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.hydro.online
 0.0.0.0 track.lacunads.com
+0.0.0.0 track.landerlab.io
 0.0.0.0 track.lexico.com
 0.0.0.0 track.mp4.center
 0.0.0.0 track.notsy.io
