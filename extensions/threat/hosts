@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 04 Nov 2025 10:13 UTC+7
-# Version: 2511041013
-# Blocked: 4.854 domains
+# Last modified: 05 Nov 2025 15:59 UTC+7
+# Version: 2511051559
+# Blocked: 4.855 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2258,6 +2258,7 @@
 0.0.0.0 nikdaoquan.vn
 0.0.0.0 nikestorevn.com
 0.0.0.0 nkstherefor.cfd
+0.0.0.0 nmifozwt.mcvxbk.online
 0.0.0.0 notbeexcluded.cfd
 0.0.0.0 nouespaipenedes.com
 0.0.0.0 nova-ebill.xyz
