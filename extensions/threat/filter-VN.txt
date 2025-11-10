@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 05 Nov 2025 15:59 UTC+7
-! Version: 2511051559
-! Blocked: 4.330 rules
+! Last modified: 10 Nov 2025 10:27 UTC+7
+! Version: 2511101027
+! Blocked: 4.332 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -85,6 +85,7 @@
 ||abcmoney.xyz^
 ||abfishop.com^
 ||abfishop.org^
+||abxvr.ndkp.tech^
 ||acb.chamsockhachhang-the-tructuyen-thang9.com.vn^
 ||acb.chamsockhachhang-uudai-tructuyen-thang10.com.vn^
 ||acb.chamsockhachhang-uudaithetructuyen-thang10.com.vn^
@@ -138,6 +139,7 @@
 ||agribanks.space^
 ||agribanks3.asia^
 ||aiagjgqz.njasu.de^
+||aikguairn.osmt.link^
 ||aivaylaco.com^
 ||alibabavip.xyz^
 ||alibabavn.shop^

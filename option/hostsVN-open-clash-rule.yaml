@@ -1151,6 +1151,7 @@ payload:
   - DOMAIN-SUFFIX,adsco.re
   - DOMAIN-SUFFIX,adsconex.com
   - DOMAIN-SUFFIX,adsdk.yandex.ru
+  - DOMAIN-SUFFIX,adsensecustomsearchads.com
   - DOMAIN-SUFFIX,adserve.tv
   - DOMAIN-SUFFIX,adserve.work
   - DOMAIN-SUFFIX,adserver.bing.com
@@ -2717,6 +2718,7 @@ payload:
   - DOMAIN-SUFFIX,sworkitads.herokuapp.com
   - DOMAIN-SUFFIX,swrve.com
   - DOMAIN-SUFFIX,sync.quantumdex.io
+  - DOMAIN-SUFFIX,syndicatedsearch.goog
   - DOMAIN-SUFFIX,t.apkpure.net
   - DOMAIN-SUFFIX,t.imgur.com
   - DOMAIN-SUFFIX,t.indeed.com
@@ -3708,7 +3710,6 @@ payload:
   - DOMAIN-SUFFIX,adsdk.com
   - DOMAIN-SUFFIX,adsemo.com
   - DOMAIN-SUFFIX,adsend.de
-  - DOMAIN-SUFFIX,adsensecustomsearchads.com
   - DOMAIN-SUFFIX,adserv.etv.sale
   - DOMAIN-SUFFIX,adserve.ams.rhythmxchange.com
   - DOMAIN-SUFFIX,adserver-e7.com
@@ -7503,6 +7504,7 @@ payload:
   - DOMAIN-SUFFIX,oxado.com
   - DOMAIN-SUFFIX,oxcash.com
   - DOMAIN-SUFFIX,oxen.hillcountrytexas.com
+  - DOMAIN-SUFFIX,oxldadxib.com
   - DOMAIN-SUFFIX,oxthrilled.com
   - DOMAIN-SUFFIX,oxwlhazto.com
   - DOMAIN-SUFFIX,ozbkfuhpuolf.com
@@ -8780,7 +8782,6 @@ payload:
   - DOMAIN-SUFFIX,sync2ad.com
   - DOMAIN-SUFFIX,syndetstermine.com
   - DOMAIN-SUFFIX,syndicate.purch.com
-  - DOMAIN-SUFFIX,syndicatedsearch.goog
   - DOMAIN-SUFFIX,syndicpop.com
   - DOMAIN-SUFFIX,synonymdetected.com
   - DOMAIN-SUFFIX,synz.liveonce.online

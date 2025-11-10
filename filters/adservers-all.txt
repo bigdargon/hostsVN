@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Nov 2025 15:59 UTC+7
-! Version: 2511051559
-! Blocked: 9.799 rules
+! Last modified: 10 Nov 2025 10:27 UTC+7
+! Version: 2511101027
+! Blocked: 9.800 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1158,6 +1158,7 @@
 ||adsco.re^
 ||adsconex.com^
 ||adsdk.yandex.ru^
+||adsensecustomsearchads.com^
 ||adserve.tv^
 ||adserve.work^
 ||adserver.bing.com^
@@ -2724,6 +2725,7 @@
 ||sworkitads.herokuapp.com^
 ||swrve.com^
 ||sync.quantumdex.io^
+||syndicatedsearch.goog^
 ||t.apkpure.net^
 ||t.imgur.com^
 ||t.indeed.com^
@@ -3715,7 +3717,6 @@
 ||adsdk.com^
 ||adsemo.com^
 ||adsend.de^
-||adsensecustomsearchads.com^
 ||adserv.etv.sale^
 ||adserve.ams.rhythmxchange.com^
 ||adserver-e7.com^
@@ -7510,6 +7511,7 @@
 ||oxado.com^
 ||oxcash.com^
 ||oxen.hillcountrytexas.com^
+||oxldadxib.com^
 ||oxthrilled.com^
 ||oxwlhazto.com^
 ||ozbkfuhpuolf.com^
@@ -8787,7 +8789,6 @@
 ||sync2ad.com^
 ||syndetstermine.com^
 ||syndicate.purch.com^
-||syndicatedsearch.goog^
 ||syndicpop.com^
 ||synonymdetected.com^
 ||synz.liveonce.online^

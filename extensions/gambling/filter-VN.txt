@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 05 Nov 2025 15:59 UTC+7
-! Version: 2511051559
-! Blocked: 3.512 rules
+! Last modified: 10 Nov 2025 10:27 UTC+7
+! Version: 2511101027
+! Blocked: 3.519 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -499,6 +499,7 @@
 ||api.red88.vip^
 ||api.shbet3.com^
 ||api.shbetvv.com^
+||api.sky88.club^
 ||api.sky88.com^
 ||api.sky88.fun^
 ||api.st666.win^
@@ -775,6 +776,7 @@
 ||choihitclub.fun^
 ||choiiwin79.fun^
 ||choiiwin79.vip^
+||choikclub.vip^
 ||choilawin.net^
 ||choingay11b.mobi^
 ||choingay11b.vin^
@@ -1330,6 +1332,7 @@
 ||hotlive8.vip^
 ||hplay.fabet.me^
 ||i.b52.club^
+||i.go88.ca^
 ||i.go88.com^
 ||i.go88.org^
 ||i.go88.top^
@@ -2610,6 +2613,7 @@
 ||sk.vin88.net^
 ||sk.xibet.com^
 ||sky88.bet^
+||sky88.club^
 ||sky88.com^
 ||sky88.fun^
 ||sky88.in^
@@ -2636,6 +2640,7 @@
 ||sock.red88.us^
 ||sock.red88.vin^
 ||sock.red88.vip^
+||sock.sky88.club^
 ||sock.sky88.com^
 ||sock.sky88.fun^
 ||sock.sky88.in^
@@ -3411,6 +3416,7 @@
 ||wp.red88.vin^
 ||wp.red88.vip^
 ||wp.rikvip.tv^
+||wp.sky88.club^
 ||wp.sky88.com^
 ||wp.sky88.fun^
 ||wp.topbet.net^
@@ -3431,6 +3437,7 @@
 ||x8.club^
 ||x8.games^
 ||x8.mobi^
+||x88.com^
 ||x8vn.com^
 ||x8vn.top^
 ||xemdabanh.club^
