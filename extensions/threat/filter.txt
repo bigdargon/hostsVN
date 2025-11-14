@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Nov 2025 10:27 UTC+7
-! Version: 2511101027
-! Blocked: 4.782 rules
+! Last modified: 14 Nov 2025 10:31 UTC+7
+! Version: 2511141031
+! Blocked: 4.783 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -355,6 +355,7 @@
 ||bocongthuong.org^
 ||bsanvietnam.online^
 ||bschuyenkhoamat.biz^
+||bsoabpxfs.njasu.de^
 ||buontien247.fun^
 ||businesseventskp.top^
 ||businessvideonews.com^
