@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 14 Nov 2025 10:31 UTC+7
-# Version: 2511141031
-# Blocked: 4.404 domains
+# Last modified: 20 Nov 2025 10:13 UTC+7
+# Version: 2511201013
+# Blocked: 4.405 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -668,6 +668,7 @@
 0.0.0.0 facebook62747.blogspot.com
 0.0.0.0 facebook92288.blogspot.com
 0.0.0.0 facebookk.life
+0.0.0.0 facebookk.live
 0.0.0.0 facebookvideo87.blogspot.com
 0.0.0.0 facebookvni.com
 0.0.0.0 faecbooks.com

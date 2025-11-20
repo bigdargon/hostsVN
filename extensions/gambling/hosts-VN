@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 14 Nov 2025 10:31 UTC+7
-# Version: 2511141031
-# Blocked: 4.045 domains
+# Last modified: 20 Nov 2025 10:13 UTC+7
+# Version: 2511201013
+# Blocked: 4.046 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3097,6 +3097,7 @@
 0.0.0.0 vin88.com
 0.0.0.0 vin88.net
 0.0.0.0 vin88.top
+0.0.0.0 vin88.win
 0.0.0.0 vin999.fun
 0.0.0.0 vina88.net
 0.0.0.0 vip.dangkyrikvip.me
