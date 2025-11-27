@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 21 Nov 2025 15:27 UTC+7
-! Version: 2511211527
-! Blocked: 9.825 rules
+! Last modified: 27 Nov 2025 10:43 UTC+7
+! Version: 2511271043
+! Blocked: 9.824 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4786,7 +4786,6 @@
 ||cdn.pbxai.com^
 ||cdn.pncloudfl.com^
 ||cdn.promotionengine.com^
-||cdn.pubnub.com^
 ||cdn.qgr.ph^
 ||cdn.retailads.net^
 ||cdn.shoplytics.com^
