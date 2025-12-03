@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 21 Nov 2025 15:27 UTC+7
-# Version: 2511211527
-# Blocked: 4.859 domains
+# Last modified: 03 Dec 2025 16:46 UTC+7
+# Version: 2512031646
+# Blocked: 4.861 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -308,6 +308,7 @@
 0.0.0.0 beoneviet.com
 0.0.0.0 bestbitbank.co
 0.0.0.0 bestbitcoinbank.net
+0.0.0.0 bgkjn.tygpzq.bid
 0.0.0.0 bgtib222.com
 0.0.0.0 bhxh.co
 0.0.0.0 bideo-blog.com
@@ -461,6 +462,7 @@
 0.0.0.0 click-eu-v4.mainexpclkdir.com
 0.0.0.0 click-v4.mainexpclkdir.com
 0.0.0.0 click.mainexpclkdir.com
+0.0.0.0 clickpro.live
 0.0.0.0 cliphott.io.vn
 0.0.0.0 clmm.me
 0.0.0.0 clmm.nl

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 21 Nov 2025 15:27 UTC+7
-! Version: 2511211527
-! Blocked: 4.334 rules
+! Last modified: 03 Dec 2025 16:46 UTC+7
+! Version: 2512031646
+! Blocked: 4.336 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -242,6 +242,7 @@
 ||beoneviet.com^
 ||bestbitbank.co^
 ||bestbitcoinbank.net^
+||bgkjn.tygpzq.bid^
 ||bgtib222.com^
 ||bhxh.co^
 ||bidv-transfermoney.weebly.com^
@@ -365,6 +366,7 @@
 ||citivay.org^
 ||cl247.me^
 ||clb.vin^
+||clickpro.live^
 ||cliphott.io.vn^
 ||clmm.me^
 ||clmm.nl^
