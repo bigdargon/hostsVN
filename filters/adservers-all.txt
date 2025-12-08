@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 05 Dec 2025 14:36 UTC+7
-! Version: 2512051436
-! Blocked: 9.839 rules
+! Last modified: 08 Dec 2025 16:40 UTC+7
+! Version: 2512081640
+! Blocked: 9.845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1128,6 +1128,7 @@
 ||ads.rmbl.ws^
 ||ads.samba.tv^
 ||ads.snapchat.com^
+||ads.sportradar.com^
 ||ads.thesun.co.uk^
 ||ads.tiktok.com^
 ||ads.truecaller.com^
@@ -1736,6 +1737,7 @@
 ||deployads.com^
 ||dev.visualwebsiteoptimizer.com^
 ||dev2pub.com^
+||deviatetracking.com^
 ||device-metrics-us-2.amazon.com^
 ||device-metrics-us.amazon.com^
 ||devlog-upload-os.hoyoverse.com^
@@ -3644,7 +3646,6 @@
 ||ads.socialtheater.com^
 ||ads.soft32.com^
 ||ads.space.com^
-||ads.sportradar.com^
 ||ads.stackoverflow.com^
 ||ads.starzd.com^
 ||ads.sun.com^
@@ -6076,6 +6077,7 @@
 ||hacspynha.com^
 ||hadabqhbewcrt.com^
 ||hailstonefatherinlawsuggestions.com^
+||hairsromance.com^
 ||hairtease.com^
 ||hammerhearing.com^
 ||hamulustueiron.com^
@@ -7358,6 +7360,7 @@
 ||offergate-apps-publicity.com^
 ||offergate-other32.com^
 ||offerimage.com^
+||offeringchewjean.com^
 ||offermatica.com^
 ||offgalvantulaom.com^
 ||offoonguser.com^
@@ -7827,6 +7830,7 @@
 ||precisioncounter.com^
 ||predictad.com^
 ||predictiondexchange.com^
+||preferencenail.com^
 ||prefleks.com^
 ||premium-offers.com^
 ||premiumvertising.com^
@@ -7885,6 +7889,7 @@
 ||protexting.com^
 ||proton-tm.com^
 ||protraffic.com^
+||protrafficinspector.com^
 ||provexia.com^
 ||providingcrechepartnership.com^
 ||proximic.com^
@@ -9549,6 +9554,7 @@
 ||wedxuaksargvlf.com^
 ||weeecool.com^
 ||weesatoothoamu.net^
+||weirdopt.com^
 ||welcomeneat.pro^
 ||welcomingaccompanyeffort.com^
 ||wellmadefrog.com^
