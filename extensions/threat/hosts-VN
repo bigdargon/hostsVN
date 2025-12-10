@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 08 Dec 2025 16:40 UTC+7
-# Version: 2512081640
-# Blocked: 4.408 domains
+# Last modified: 10 Dec 2025 16:39 UTC+7
+# Version: 2512101639
+# Blocked: 4.409 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -134,6 +134,7 @@
 0.0.0.0 aets88.com
 0.0.0.0 aets99.com
 0.0.0.0 agjevez.ztraks.de
+0.0.0.0 agpchrgue.mrhw.de
 0.0.0.0 agrib-vn.com
 0.0.0.0 agribank.dangkyungtuyen.com
 0.0.0.0 agribank.info

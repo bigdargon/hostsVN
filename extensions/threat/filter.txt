@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 08 Dec 2025 16:40 UTC+7
-! Version: 2512081640
-! Blocked: 4.787 rules
+! Last modified: 10 Dec 2025 16:39 UTC+7
+! Version: 2512101639
+! Blocked: 4.788 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -147,6 +147,7 @@
 ||aets88.com^
 ||aets99.com^
 ||agjevez.ztraks.de^
+||agpchrgue.mrhw.de^
 ||agrib-vn.com^
 ||agribank.dangkyungtuyen.com^
 ||agribank.info^
