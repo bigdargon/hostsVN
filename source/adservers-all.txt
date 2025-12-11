@@ -410,6 +410,7 @@ analy.qq.com
 analysis.fi
 analytics-ad-*.kgslb.com
 analytics-alv.google.com
+analytics-ipv6.tiktokw.us
 analytics-sg.tiktok.com
 analytics.365scores.com
 analytics.adjust.cn
@@ -1253,6 +1254,7 @@ log.tbs.qq.com
 log.tpns.gz2.tencent.com
 log.tpns.tencent.com
 log1.cmpassport.com
+log16-normal-us-ttp.capcutapi.us
 log2.cmpassport.com
 log2.spotify.com
 logapi.tv.naver.com
@@ -1317,7 +1319,9 @@ mcs-sg.tiktok.com
 mcs-va.capcutapi.com
 mcs-va.tiktokv.com
 mcs.snssdk.com
+mcs.tiktokw.us
 mcs.zijieapi.com
+mcs16-normal-us-ttp.capcutapi.us
 me.cpatrk.net
 media.evolv.ai
 media.globalsign.com
@@ -1395,11 +1399,13 @@ modoro360.com
 moduleanalysis.aliexpress.com
 mon-sg.capcutapi.com
 mon-va.capcutapi.com
+mon.capcutapi.us
 mon.isnssdk.com
 mon.snssdk.com
 mon.tiktokv.com
 mon.us.tiktokv.com
 mon.zijieapi.com
+mon16-normal-us-ttp.capcutapi.us
 mondiad.net
 mookie1.com
 mopub.com
@@ -1408,6 +1414,8 @@ movad.net
 mparticle.com
 msga.cupid.iqiyi.com
 msgapp.com
+mssdk.capcutapi.us
+mssdk.tiktokw.us
 mstorer.net
 mtgglobals.com
 mtrace.qq.com
@@ -1723,6 +1731,7 @@ servicelayer.king.com
 serving-sys.com
 settings-analytics.hotstar.com
 sf16-static.i18n-pglstatp.com
+sf16-telemetry-proxy-oci.tiktokcdn-us.com
 sgp.o2o.api.xiaomi.com
 shareaholic.com
 sharethis.com
@@ -1889,6 +1898,7 @@ tlog.hiido.com
 tnc-boot.capcutapi.com
 tnc-sg.capcutapi.com
 tnc16-alisg.isnssdk.com
+tnc16-normal-us-ttp.capcutapi.us
 tns-counter.ru
 tobapplog.ctobsnssdk.com
 tobapplog.tobsnssdk.com

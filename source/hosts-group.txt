@@ -7845,6 +7845,12 @@ rtc-logger-va.tiktokv.com
 rtlog.tiktokv.com
 xlog-va.tiktokv.com
 xlog.tiktokv.com
+#[tiktokw.us]
+analytics-ipv6.tiktokw.us
+mcs.tiktokw.us
+mssdk.tiktokw.us
+#[tiktokcdn-us.com]
+sf16-telemetry-proxy-oci.tiktokcdn-us.com
 #[snssdk.com]
 log-hl.snssdk.com
 log.snssdk.com
@@ -7874,6 +7880,13 @@ mon-sg.capcutapi.com
 mon-va.capcutapi.com
 tnc-boot.capcutapi.com
 tnc-sg.capcutapi.com
+#[capcutapi.us]
+log16-normal-us-ttp.capcutapi.us
+mcs16-normal-us-ttp.capcutapi.us
+mon.capcutapi.us
+mon16-normal-us-ttp.capcutapi.us
+mssdk.capcutapi.us
+tnc16-normal-us-ttp.capcutapi.us
 #[mouseflow.com]
 a.mouseflow.com
 app.mouseflow.com

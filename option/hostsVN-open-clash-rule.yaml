@@ -1297,6 +1297,7 @@ payload:
   - DOMAIN-SUFFIX,analysis.fi
   - DOMAIN-SUFFIX,analytics-ad-*.kgslb.com
   - DOMAIN-SUFFIX,analytics-alv.google.com
+  - DOMAIN-SUFFIX,analytics-ipv6.tiktokw.us
   - DOMAIN-SUFFIX,analytics-sg.tiktok.com
   - DOMAIN-SUFFIX,analytics.365scores.com
   - DOMAIN-SUFFIX,analytics.adjust.cn
@@ -2140,6 +2141,7 @@ payload:
   - DOMAIN-SUFFIX,log.tpns.gz2.tencent.com
   - DOMAIN-SUFFIX,log.tpns.tencent.com
   - DOMAIN-SUFFIX,log1.cmpassport.com
+  - DOMAIN-SUFFIX,log16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,log2.cmpassport.com
   - DOMAIN-SUFFIX,log2.spotify.com
   - DOMAIN-SUFFIX,logapi.tv.naver.com
@@ -2204,7 +2206,9 @@ payload:
   - DOMAIN-SUFFIX,mcs-va.capcutapi.com
   - DOMAIN-SUFFIX,mcs-va.tiktokv.com
   - DOMAIN-SUFFIX,mcs.snssdk.com
+  - DOMAIN-SUFFIX,mcs.tiktokw.us
   - DOMAIN-SUFFIX,mcs.zijieapi.com
+  - DOMAIN-SUFFIX,mcs16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,me.cpatrk.net
   - DOMAIN-SUFFIX,media.evolv.ai
   - DOMAIN-SUFFIX,media.globalsign.com
@@ -2282,11 +2286,13 @@ payload:
   - DOMAIN-SUFFIX,moduleanalysis.aliexpress.com
   - DOMAIN-SUFFIX,mon-sg.capcutapi.com
   - DOMAIN-SUFFIX,mon-va.capcutapi.com
+  - DOMAIN-SUFFIX,mon.capcutapi.us
   - DOMAIN-SUFFIX,mon.isnssdk.com
   - DOMAIN-SUFFIX,mon.snssdk.com
   - DOMAIN-SUFFIX,mon.tiktokv.com
   - DOMAIN-SUFFIX,mon.us.tiktokv.com
   - DOMAIN-SUFFIX,mon.zijieapi.com
+  - DOMAIN-SUFFIX,mon16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,mondiad.net
   - DOMAIN-SUFFIX,mookie1.com
   - DOMAIN-SUFFIX,mopub.com
@@ -2295,6 +2301,8 @@ payload:
   - DOMAIN-SUFFIX,mparticle.com
   - DOMAIN-SUFFIX,msga.cupid.iqiyi.com
   - DOMAIN-SUFFIX,msgapp.com
+  - DOMAIN-SUFFIX,mssdk.capcutapi.us
+  - DOMAIN-SUFFIX,mssdk.tiktokw.us
   - DOMAIN-SUFFIX,mstorer.net
   - DOMAIN-SUFFIX,mtgglobals.com
   - DOMAIN-SUFFIX,mtrace.qq.com
@@ -2610,6 +2618,7 @@ payload:
   - DOMAIN-SUFFIX,serving-sys.com
   - DOMAIN-SUFFIX,settings-analytics.hotstar.com
   - DOMAIN-SUFFIX,sf16-static.i18n-pglstatp.com
+  - DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
   - DOMAIN-SUFFIX,sgp.o2o.api.xiaomi.com
   - DOMAIN-SUFFIX,shareaholic.com
   - DOMAIN-SUFFIX,sharethis.com
@@ -2776,6 +2785,7 @@ payload:
   - DOMAIN-SUFFIX,tnc-boot.capcutapi.com
   - DOMAIN-SUFFIX,tnc-sg.capcutapi.com
   - DOMAIN-SUFFIX,tnc16-alisg.isnssdk.com
+  - DOMAIN-SUFFIX,tnc16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,tns-counter.ru
   - DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com
   - DOMAIN-SUFFIX,tobapplog.tobsnssdk.com
