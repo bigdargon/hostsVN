@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 10 Dec 2025 16:39 UTC+7
-! Version: 2512101639
-! Blocked: 93.274 rules
+! Last modified: 11 Dec 2025 15:54 UTC+7
+! Version: 2512111554
+! Blocked: 93.275 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -72298,6 +72298,7 @@
 ||ltvietnam.xyz^
 ||lu88.co^
 ||lu88.com^
+||lu88.pro^
 ||lua999.com^
 ||lua999vnd.com^
 ||luc12.com^

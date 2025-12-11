@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 10 Dec 2025 16:39 UTC+7
-# Version: 2512101639
-# Blocked: 4.863 domains
+# Last modified: 11 Dec 2025 15:54 UTC+7
+# Version: 2512111554
+# Blocked: 4.864 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2317,6 +2317,7 @@
 0.0.0.0 payon-rutienmat5.com
 0.0.0.0 payon-ruttiennhanh5.com
 0.0.0.0 payroll.mywire.org
+0.0.0.0 personals-pc-app.com
 0.0.0.0 petrovietnam.pro
 0.0.0.0 petrovietnam.top
 0.0.0.0 pgbank.info
