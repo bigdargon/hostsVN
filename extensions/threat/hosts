@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 23 Dec 2025 14:50 UTC+7
-# Version: 2512231450
-# Blocked: 4.904 domains
+# Last modified: 25 Dec 2025 23:04 UTC+7
+# Version: 2512252304
+# Blocked: 4.905 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -834,6 +834,7 @@
 0.0.0.0 faceb00k.com.vn
 0.0.0.0 facebook.c0m.ltd
 0.0.0.0 facebook10002158.blogspot.com
+0.0.0.0 facebook111258.blogspot.com
 0.0.0.0 facebook4288062.blogspot.com
 0.0.0.0 facebook60118.blogspot.com
 0.0.0.0 facebook62747.blogspot.com
