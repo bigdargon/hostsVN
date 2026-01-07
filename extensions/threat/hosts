@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 28 Dec 2025 16:22 UTC+7
-# Version: 2512281622
-# Blocked: 4.905 domains
+# Last modified: 07 Jan 2026 10:34 UTC+7
+# Version: 2601071034
+# Blocked: 4.906 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -629,6 +629,7 @@
 0.0.0.0 defi.hsfdefi.com
 0.0.0.0 demo.sc0mvn.com
 0.0.0.0 dendrito.name
+0.0.0.0 depandirect.be
 0.0.0.0 dev-checkmoneypayment-mpos.com
 0.0.0.0 dfeenxea.tidc.bid
 0.0.0.0 dfsshop66.com

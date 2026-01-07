@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 28 Dec 2025 16:22 UTC+7
-! Version: 2512281622
-! Blocked: 4.830 rules
+! Last modified: 07 Jan 2026 10:34 UTC+7
+! Version: 2601071034
+! Blocked: 4.831 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -629,6 +629,7 @@
 ||defi.hsfdefi.com^
 ||demo.sc0mvn.com^
 ||dendrito.name^
+||depandirect.be^
 ||dev-checkmoneypayment-mpos.com^
 ||dfeenxea.tidc.bid^
 ||dfsshop66.com^
