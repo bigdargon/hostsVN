@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,ants.vn
   - DOMAIN-SUFFIX,anymind360-com.cdn.ampproject.org
   - DOMAIN-SUFFIX,anymind360.com
+  - DOMAIN-SUFFIX,api.moneyoyo.org
   - DOMAIN-SUFFIX,api.nas.nct.vn
   - DOMAIN-SUFFIX,api.subiz.com.vn
   - DOMAIN-SUFFIX,api.subiz.net
@@ -127,6 +128,7 @@ payload:
   - DOMAIN-SUFFIX,ezca.asia
   - DOMAIN-SUFFIX,facebook-ads.hara.vn
   - DOMAIN-SUFFIX,facebookinbox-omni-onapp.haravan.com
+  - DOMAIN-SUFFIX,feed.moneyoyo.org
   - DOMAIN-SUFFIX,ff.imacdn.com
   - DOMAIN-SUFFIX,fly-ads.net
   - DOMAIN-SUFFIX,flygame.io
@@ -258,6 +260,7 @@ payload:
   - DOMAIN-SUFFIX,s-logperf.vnexpress.net
   - DOMAIN-SUFFIX,s.tuoitre.vn
   - DOMAIN-SUFFIX,sbbanner-com.cdn.ampproject.org
+  - DOMAIN-SUFFIX,sdk.moneyoyo.com
   - DOMAIN-SUFFIX,sdk.zadn.vn
   - DOMAIN-SUFFIX,service-api.accesstrade.vn
   - DOMAIN-SUFFIX,service.adlinknetwork.vn
@@ -528,7 +531,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.zim.vn
   - DOMAIN-SUFFIX,api-logdev.sohatv.vn
   - DOMAIN-SUFFIX,api.boclinkads.com
-  - DOMAIN-SUFFIX,api.moneyoyo.org
   - DOMAIN-SUFFIX,api2.boclinkads.com
   - DOMAIN-SUFFIX,apia.headlines.pw
   - DOMAIN-SUFFIX,apiv2.tiin.vn
@@ -568,6 +570,7 @@ payload:
   - DOMAIN-SUFFIX,cpx.vnecdn.com
   - DOMAIN-SUFFIX,crocopop.com
   - DOMAIN-SUFFIX,csmads.gameclick.vn
+  - DOMAIN-SUFFIX,delivery.congthuong.vn
   - DOMAIN-SUFFIX,delivery.doisongphapluat.com.vn
   - DOMAIN-SUFFIX,delivery.lsvn.vn
   - DOMAIN-SUFFIX,delivery.senvangvn.com
@@ -753,7 +756,6 @@ payload:
   - DOMAIN-SUFFIX,s1.zzz.vn
   - DOMAIN-SUFFIX,s6.textlink.vn
   - DOMAIN-SUFFIX,sbbanner.com
-  - DOMAIN-SUFFIX,sdk.moneyoyo.com
   - DOMAIN-SUFFIX,sentry.mediacdn.vn
   - DOMAIN-SUFFIX,seo.cloud.edu.vn
   - DOMAIN-SUFFIX,server.zmedia.vn

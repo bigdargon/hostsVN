@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 Jan 2026 10:34 UTC+7
-! Version: 2601071034
-! Blocked: 9.908 rules
+! Last modified: 07 Jan 2026 10:52 UTC+7
+! Version: 2601071052
+! Blocked: 9.910 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -71,6 +71,7 @@
 ||ants.vn^
 ||anymind360-com.cdn.ampproject.org^
 ||anymind360.com^
+||api.moneyoyo.org^
 ||api.nas.nct.vn^
 ||api.subiz.com.vn^
 ||api.subiz.net^
@@ -134,6 +135,7 @@
 ||ezca.asia^
 ||facebook-ads.hara.vn^
 ||facebookinbox-omni-onapp.haravan.com^
+||feed.moneyoyo.org^
 ||ff.imacdn.com^
 ||fly-ads.net^
 ||flygame.io^
@@ -265,6 +267,7 @@
 ||s-logperf.vnexpress.net^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
+||sdk.moneyoyo.com^
 ||sdk.zadn.vn^
 ||service-api.accesstrade.vn^
 ||service.adlinknetwork.vn^
@@ -535,7 +538,6 @@
 ||analytics.zim.vn^
 ||api-logdev.sohatv.vn^
 ||api.boclinkads.com^
-||api.moneyoyo.org^
 ||api2.boclinkads.com^
 ||apia.headlines.pw^
 ||apiv2.tiin.vn^
@@ -575,6 +577,7 @@
 ||cpx.vnecdn.com^
 ||crocopop.com^
 ||csmads.gameclick.vn^
+||delivery.congthuong.vn^
 ||delivery.doisongphapluat.com.vn^
 ||delivery.lsvn.vn^
 ||delivery.senvangvn.com^
@@ -760,7 +763,6 @@
 ||s1.zzz.vn^
 ||s6.textlink.vn^
 ||sbbanner.com^
-||sdk.moneyoyo.com^
 ||sentry.mediacdn.vn^
 ||seo.cloud.edu.vn^
 ||server.zmedia.vn^
