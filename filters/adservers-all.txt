@@ -1,7 +1,7 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 11 Jan 2026 16:48 UTC+7
-! Version: 2601111648
+! Last modified: 11 Jan 2026 17:10 UTC+7
+! Version: 2601111710
 ! Blocked: 8.042 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -2959,6 +2959,8 @@
 ||xoom-ads.com^
 ||xtremepush.com^
 ||xxxjmp.com^
+||xy.fbcdn.net^
+||xz.fbcdn.net^
 ||yadro.ru^
 ||yads.tech^
 ||yads.yahoo.co.jp^
@@ -8045,6 +8047,4 @@
 ||zz.bdstatic.com^
 ||appsflyer.com^
 ||appsflyersdk.com^
-||xy.fbcdn.net^
-||xz.fbcdn.net^
 @@||app.appsflyer.com^|

@@ -2952,6 +2952,8 @@ payload:
   - DOMAIN-SUFFIX,xoom-ads.com
   - DOMAIN-SUFFIX,xtremepush.com
   - DOMAIN-SUFFIX,xxxjmp.com
+  - DOMAIN-SUFFIX,xy.fbcdn.net
+  - DOMAIN-SUFFIX,xz.fbcdn.net
   - DOMAIN-SUFFIX,yadro.ru
   - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yads.yahoo.co.jp
@@ -8038,5 +8040,3 @@ payload:
   - DOMAIN-SUFFIX,zz.bdstatic.com
   - DOMAIN-SUFFIX,appsflyer.com
   - DOMAIN-SUFFIX,appsflyersdk.com
-  - DOMAIN-SUFFIX,xy.fbcdn.net
-  - DOMAIN-SUFFIX,xz.fbcdn.net

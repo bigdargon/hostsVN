@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 11 Jan 2026 16:48 UTC+7
-# Version: 2601111648
+# Last modified: 11 Jan 2026 17:10 UTC+7
+# Version: 2601111710
 # Blocked: 17.322 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -600,6 +600,9 @@
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 t.update.fbsbx.com
 0.0.0.0 u.update.fbsbx.com
+#[fbcdn.net]
+0.0.0.0 xy.fbcdn.net
+0.0.0.0 xz.fbcdn.net
 #[whatsapp.net]
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
@@ -18992,7 +18995,4 @@
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 register.appsflyersdk.com
 0.0.0.0 skadsdk.appsflyersdk.com
-#[fbcdn.net]
-0.0.0.0 xy.fbcdn.net
-0.0.0.0 xz.fbcdn.net
 # CNAME Popup
