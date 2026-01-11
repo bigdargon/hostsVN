@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 07 Jan 2026 10:34 UTC+7
-# Version: 2601071034
-# Blocked: 4.104 domains
+# Last modified: 11 Jan 2026 16:33 UTC+7
+# Version: 2601111633
+# Blocked: 4.122 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -131,6 +131,7 @@
 0.0.0.0 388bet.us
 0.0.0.0 388bet.vin
 0.0.0.0 388bet.vip
+0.0.0.0 3bet.win
 0.0.0.0 3kingclub.com
 0.0.0.0 4400789.com
 0.0.0.0 4477789.com
@@ -480,6 +481,7 @@
 0.0.0.0 api.i9bet36.com
 0.0.0.0 api.jun88.tv
 0.0.0.0 api.linkchuanon.com
+0.0.0.0 api.max79.win
 0.0.0.0 api.min88.com
 0.0.0.0 api.minivn.com
 0.0.0.0 api.mocbai.cc
@@ -666,6 +668,7 @@
 0.0.0.0 bogac1.com
 0.0.0.0 bom52.club
 0.0.0.0 bom88.com
+0.0.0.0 bom88.net
 0.0.0.0 bong.thethaowin.net
 0.0.0.0 bong88.cam
 0.0.0.0 bong88.com
@@ -1119,6 +1122,7 @@
 0.0.0.0 fcb88.com
 0.0.0.0 fcb88.vip
 0.0.0.0 fcb88d.com
+0.0.0.0 febet.net
 0.0.0.0 feli88.com
 0.0.0.0 fi88.app
 0.0.0.0 fi88.club
@@ -1292,6 +1296,7 @@
 0.0.0.0 hay88.net
 0.0.0.0 hay8811.com
 0.0.0.0 hay8822.com
+0.0.0.0 haywin.vip
 0.0.0.0 hb88.com
 0.0.0.0 hb88.party
 0.0.0.0 hb8864.com
@@ -1326,6 +1331,7 @@
 0.0.0.0 hitclub.blue
 0.0.0.0 hitclub.cafe
 0.0.0.0 hitclub.com
+0.0.0.0 hitclub.pro
 0.0.0.0 hitclub.salon
 0.0.0.0 hitclub.top
 0.0.0.0 hitclub.vin
@@ -1487,8 +1493,10 @@
 0.0.0.0 images.388bet.vip
 0.0.0.0 images.ku6110.net
 0.0.0.0 img.fabet.me
+0.0.0.0 img.febet.net
 0.0.0.0 img.lucky88.com
 0.0.0.0 img.lucky88.net
+0.0.0.0 img.max79.win
 0.0.0.0 img.may88.club
 0.0.0.0 img.may88.com
 0.0.0.0 img.may88.game
@@ -2067,6 +2075,7 @@
 0.0.0.0 m1.tin88.bet
 0.0.0.0 m1.vin88.net
 0.0.0.0 m1.vin88.vip
+0.0.0.0 m2.tin88.vip
 0.0.0.0 m2305.com
 0.0.0.0 m88.run
 0.0.0.0 m883d.com
@@ -2105,6 +2114,7 @@
 0.0.0.0 mapi.ku998.net
 0.0.0.0 mapi.seb121.net
 0.0.0.0 max10.pro
+0.0.0.0 max79.win
 0.0.0.0 max88.com
 0.0.0.0 max88.vip
 0.0.0.0 may88.club
@@ -2564,6 +2574,7 @@
 0.0.0.0 s26bet.ltd
 0.0.0.0 s26bet.org
 0.0.0.0 s26bet01.com
+0.0.0.0 s3.sin88.sx
 0.0.0.0 s4.gen88.com
 0.0.0.0 s555.com
 0.0.0.0 s99902e.com
@@ -2619,10 +2630,12 @@
 0.0.0.0 sin88.cc
 0.0.0.0 sin88.club
 0.0.0.0 sin88.com
+0.0.0.0 sin88.im
 0.0.0.0 sin88.me
 0.0.0.0 sin88.mn
 0.0.0.0 sin88.mobi
 0.0.0.0 sin88.mx
+0.0.0.0 sin88.sx
 0.0.0.0 sin88.uk
 0.0.0.0 sin88.us
 0.0.0.0 sin88.vip
@@ -2635,6 +2648,7 @@
 0.0.0.0 sk.debet.cx
 0.0.0.0 sk.fm88.com
 0.0.0.0 sk.tin88.bet
+0.0.0.0 sk.tin88.club
 0.0.0.0 sk.vin88.net
 0.0.0.0 sk.vin88.vip
 0.0.0.0 sk.xibet.com
@@ -2750,6 +2764,7 @@
 0.0.0.0 sun6.win
 0.0.0.0 sun88.online
 0.0.0.0 sungame.store
+0.0.0.0 sunwin.club
 0.0.0.0 sunwin.moi
 0.0.0.0 sunwin.pro
 0.0.0.0 sunwinvn.club
@@ -2966,7 +2981,9 @@
 0.0.0.0 tin.11bet.net
 0.0.0.0 tin010.com
 0.0.0.0 tin88.bet
+0.0.0.0 tin88.club
 0.0.0.0 tin88.top
+0.0.0.0 tin88.vip
 0.0.0.0 tin888.club
 0.0.0.0 tinbongdaw88.com
 0.0.0.0 tintuc.vlott88.com
@@ -3152,6 +3169,7 @@
 0.0.0.0 vin88.com
 0.0.0.0 vin88.net
 0.0.0.0 vin88.top
+0.0.0.0 vin88.tv
 0.0.0.0 vin88.vip
 0.0.0.0 vin88.win
 0.0.0.0 vin999.fun

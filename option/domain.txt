@@ -1,7 +1,5 @@
 api-adservices.apple.com
 books-analytics-events.apple.com
-metrics.icloud.com
-metrics.mzstatic.com
 notes-analytics-events.apple.com
 proxy-skadnetwork.apple.com
 securemetrics.apple.com
@@ -16,16 +14,9 @@ news.iadsdk.apple.com
 su.iadsdk.apple.com
 tr.iadsdk.apple.com
 ut.iadsdk.apple.com
-apps.iad.apple.com
-blueprints.iad.apple.com
-ccportal.iad.apple.com
-cmws.iad.apple.com
-display-apps-ui-soak.iad.apple.com
-display-apps-ui.iad.apple.com
-iad.apple.com
-iadfeed.iad.apple.com
-iadworkbench-soak.iad.apple.com
-stg-cmws.iad.apple.com
+metrics.mzstatic.com
+metrics-config.icloud.com
+metrics.icloud.com
 doubleclick.net
 accounts.doubleclick.net
 ad.au.doubleclick.net
@@ -8266,8 +8257,12 @@ stats.truepush.com
 truepush.com
 www.truepush.com
 ambientdsp.cachefly.net
+biggestplayer.cachefly.net
 flurry.cachefly.net
 gamma.cachefly.net
+iwad.cachefly.net
+readserver.cachefly.net
+sedo.cachefly.net
 c.idealmedia.io
 cdn.idealmedia.io
 cm.idealmedia.io
@@ -10308,6 +10303,7 @@ daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
+ads-img.mozilla.org
 ads.mozilla.org
 incoming.telemetry.mozilla.org
 provenpixel.com
@@ -10421,6 +10417,9 @@ prod.otel.kaizen.nvidia.com
 telemetry.gfe.nvidia.com
 promo.psvgamestudio.com
 psvpromo.psvgamestudio.com
+trackdesk.com
+cdn.trackdesk.com
+www.trackdesk.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -13638,6 +13637,7 @@ bodyclick.net
 bohonef.com
 boilhumoristpacifist.com
 boilingbeetle.com
+bojel.com
 boldchat.com
 bondleapedoasis.com
 bonepa.com
@@ -13722,6 +13722,7 @@ bullionyield.com
 bullseye.backbeatmedia.com
 bulrev.com
 bunceptsclosingh.com
+bundlemoviepumice.com
 bungalowdispleasedwheeled.com
 buqkrzbrucz.com
 burgerbrush.com
@@ -14880,6 +14881,7 @@ gloos-zus.info
 glootang.net
 gloriousoutfieldtrembling.com
 glpweawxkodtvta.com
+glufort.com
 glugherg.net
 glutenmuttsensuous.com
 gmads.net
@@ -15021,6 +15023,7 @@ hb.openwebmp.com
 hbntxrwmvf.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
+hccxwfunnpxngz.com
 hcetcuwit.com
 hcilralhi.com
 hcjfmbra.com
@@ -16158,6 +16161,7 @@ offgalvantulaom.com
 offoonguser.com
 offvmuf.com
 ofhappinyer.com
+ofjujdmsylvmo.website
 ofleafeona.com
 ofplredpogw.com
 ofrvpeodmba.com
@@ -16283,6 +16287,7 @@ osknimkihvr.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
+oswavmov.com
 ota.cartrawler.com
 othabqmag.com
 othniqvu.com
@@ -16411,6 +16416,7 @@ peer39.com
 peevautauceept.com
 pefsustazvzgop.com
 pejzeexukxo.com
+pekajmkimvx.com
 pelagicmismate.com
 penbouncingmagpie.com
 pencilcongress.com
@@ -17426,6 +17432,7 @@ suwcaxazzn.com
 svkmxwssih.com
 swan-swan-goose.com
 swarthymacula.com
+swdqortugmmrj.online
 sweetiesurveys.com
 swesomepop.com
 switchads.com
@@ -18267,6 +18274,7 @@ xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
+xpe9.com
 xplosion.de
 xponsor.com
 xq1.net

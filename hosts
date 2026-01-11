@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Jan 2026 10:52 UTC+7
-# Version: 2601071052
-# Blocked: 19.202 domains
+# Last modified: 11 Jan 2026 16:32 UTC+7
+# Version: 2601111632
+# Blocked: 19.210 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -11,11 +11,9 @@
 # =====================================================
 #
 # --- Group block ---
-#[apple]
+#[apple.com]
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 books-analytics-events.apple.com
-0.0.0.0 metrics.icloud.com
-0.0.0.0 metrics.mzstatic.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 proxy-skadnetwork.apple.com
 0.0.0.0 securemetrics.apple.com
@@ -31,17 +29,11 @@
 0.0.0.0 su.iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 ut.iadsdk.apple.com
-#[iad.apple.com]
-0.0.0.0 apps.iad.apple.com
-0.0.0.0 blueprints.iad.apple.com
-0.0.0.0 ccportal.iad.apple.com
-0.0.0.0 cmws.iad.apple.com
-0.0.0.0 display-apps-ui-soak.iad.apple.com
-0.0.0.0 display-apps-ui.iad.apple.com
-0.0.0.0 iad.apple.com
-0.0.0.0 iadfeed.iad.apple.com
-0.0.0.0 iadworkbench-soak.iad.apple.com
-0.0.0.0 stg-cmws.iad.apple.com
+#[mzstatic.com]
+0.0.0.0 metrics.mzstatic.com
+#[icloud.com]
+0.0.0.0 metrics-config.icloud.com
+0.0.0.0 metrics.icloud.com
 #[doubleclick.net]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
@@ -9191,8 +9183,12 @@
 0.0.0.0 www.truepush.com
 #[cachefly.net]
 0.0.0.0 ambientdsp.cachefly.net
+0.0.0.0 biggestplayer.cachefly.net
 0.0.0.0 flurry.cachefly.net
 0.0.0.0 gamma.cachefly.net
+0.0.0.0 iwad.cachefly.net
+0.0.0.0 readserver.cachefly.net
+0.0.0.0 sedo.cachefly.net
 #[idealmedia.io]
 0.0.0.0 c.idealmedia.io
 0.0.0.0 cdn.idealmedia.io
@@ -11753,6 +11749,7 @@
 0.0.0.0 srv.daly2024.com
 0.0.0.0 track.daly2024.com
 #[mozilla.org]
+0.0.0.0 ads-img.mozilla.org
 0.0.0.0 ads.mozilla.org
 0.0.0.0 incoming.telemetry.mozilla.org
 #[provenpixel.com]
@@ -11899,6 +11896,10 @@
 #[psvgamestudio.com]
 0.0.0.0 promo.psvgamestudio.com
 0.0.0.0 psvpromo.psvgamestudio.com
+#[trackdesk.com]
+0.0.0.0 trackdesk.com
+0.0.0.0 cdn.trackdesk.com
+0.0.0.0 www.trackdesk.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -15306,6 +15307,7 @@
 0.0.0.0 bohonef.com
 0.0.0.0 boilhumoristpacifist.com
 0.0.0.0 boilingbeetle.com
+0.0.0.0 bojel.com
 0.0.0.0 boldchat.com
 0.0.0.0 bondleapedoasis.com
 0.0.0.0 bonepa.com
@@ -15390,6 +15392,7 @@
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 bulrev.com
 0.0.0.0 bunceptsclosingh.com
+0.0.0.0 bundlemoviepumice.com
 0.0.0.0 bungalowdispleasedwheeled.com
 0.0.0.0 buqkrzbrucz.com
 0.0.0.0 burgerbrush.com
@@ -16548,6 +16551,7 @@
 0.0.0.0 glootang.net
 0.0.0.0 gloriousoutfieldtrembling.com
 0.0.0.0 glpweawxkodtvta.com
+0.0.0.0 glufort.com
 0.0.0.0 glugherg.net
 0.0.0.0 glutenmuttsensuous.com
 0.0.0.0 gmads.net
@@ -16689,6 +16693,7 @@
 0.0.0.0 hbntxrwmvf.com
 0.0.0.0 hbwncbwgyvgt.com
 0.0.0.0 hccaxtxfq.com
+0.0.0.0 hccxwfunnpxngz.com
 0.0.0.0 hcetcuwit.com
 0.0.0.0 hcilralhi.com
 0.0.0.0 hcjfmbra.com
@@ -17826,6 +17831,7 @@
 0.0.0.0 offoonguser.com
 0.0.0.0 offvmuf.com
 0.0.0.0 ofhappinyer.com
+0.0.0.0 ofjujdmsylvmo.website
 0.0.0.0 ofleafeona.com
 0.0.0.0 ofplredpogw.com
 0.0.0.0 ofrvpeodmba.com
@@ -17951,6 +17957,7 @@
 0.0.0.0 osrxzucira.com
 0.0.0.0 osrzawox.com
 0.0.0.0 ostaigukeshoak.com
+0.0.0.0 oswavmov.com
 0.0.0.0 ota.cartrawler.com
 0.0.0.0 othabqmag.com
 0.0.0.0 othniqvu.com
@@ -18079,6 +18086,7 @@
 0.0.0.0 peevautauceept.com
 0.0.0.0 pefsustazvzgop.com
 0.0.0.0 pejzeexukxo.com
+0.0.0.0 pekajmkimvx.com
 0.0.0.0 pelagicmismate.com
 0.0.0.0 penbouncingmagpie.com
 0.0.0.0 pencilcongress.com
@@ -19094,6 +19102,7 @@
 0.0.0.0 svkmxwssih.com
 0.0.0.0 swan-swan-goose.com
 0.0.0.0 swarthymacula.com
+0.0.0.0 swdqortugmmrj.online
 0.0.0.0 sweetiesurveys.com
 0.0.0.0 swesomepop.com
 0.0.0.0 switchads.com
@@ -19935,6 +19944,7 @@
 0.0.0.0 xnfmbejucgoldi.com
 0.0.0.0 xovq5nemr.com
 0.0.0.0 xpbbyiqbcawamy.com
+0.0.0.0 xpe9.com
 0.0.0.0 xplosion.de
 0.0.0.0 xponsor.com
 0.0.0.0 xq1.net

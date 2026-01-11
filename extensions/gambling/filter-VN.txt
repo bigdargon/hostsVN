@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 07 Jan 2026 10:34 UTC+7
-! Version: 2601071034
-! Blocked: 3.578 rules
+! Last modified: 11 Jan 2026 16:33 UTC+7
+! Version: 2601111633
+! Blocked: 3.596 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -130,6 +130,7 @@
 ||388bet.us^
 ||388bet.vin^
 ||388bet.vip^
+||3bet.win^
 ||3kingclub.com^
 ||4400789.com^
 ||4477789.com^
@@ -484,6 +485,7 @@
 ||api.i9bet36.com^
 ||api.jun88.tv^
 ||api.linkchuanon.com^
+||api.max79.win^
 ||api.min88.com^
 ||api.minivn.com^
 ||api.mocbai.cc^
@@ -670,6 +672,7 @@
 ||bogac1.com^
 ||bom52.club^
 ||bom88.com^
+||bom88.net^
 ||bong.thethaowin.net^
 ||bong88.cam^
 ||bong88.com^
@@ -1123,6 +1126,7 @@
 ||fcb88.com^
 ||fcb88.vip^
 ||fcb88d.com^
+||febet.net^
 ||feli88.com^
 ||fi88.app^
 ||fi88.club^
@@ -1296,6 +1300,7 @@
 ||hay88.net^
 ||hay8811.com^
 ||hay8822.com^
+||haywin.vip^
 ||hb88.com^
 ||hb88.party^
 ||hb8864.com^
@@ -1333,6 +1338,7 @@
 ||hitclub.blue^
 ||hitclub.cafe^
 ||hitclub.com^
+||hitclub.pro^
 ||hitclub.salon^
 ||hitclub.top^
 ||hitclub.vin^
@@ -1494,8 +1500,10 @@
 ||images.388bet.vip^
 ||images.ku6110.net^
 ||img.fabet.me^
+||img.febet.net^
 ||img.lucky88.com^
 ||img.lucky88.net^
+||img.max79.win^
 ||img.may88.club^
 ||img.may88.com^
 ||img.may88.game^
@@ -2074,6 +2082,7 @@
 ||m1.tin88.bet^
 ||m1.vin88.net^
 ||m1.vin88.vip^
+||m2.tin88.vip^
 ||m2305.com^
 ||m88.run^
 ||m883d.com^
@@ -2112,6 +2121,7 @@
 ||mapi.ku998.net^
 ||mapi.seb121.net^
 ||max10.pro^
+||max79.win^
 ||max88.com^
 ||max88.vip^
 ||may88.club^
@@ -2573,6 +2583,7 @@
 ||s26bet.ltd^
 ||s26bet.org^
 ||s26bet01.com^
+||s3.sin88.sx^
 ||s4.gen88.com^
 ||s555.com^
 ||s99902e.com^
@@ -2633,10 +2644,12 @@
 ||sin88.cc^
 ||sin88.club^
 ||sin88.com^
+||sin88.im^
 ||sin88.me^
 ||sin88.mn^
 ||sin88.mobi^
 ||sin88.mx^
+||sin88.sx^
 ||sin88.uk^
 ||sin88.us^
 ||sin88.vip^
@@ -2649,6 +2662,7 @@
 ||sk.debet.cx^
 ||sk.fm88.com^
 ||sk.tin88.bet^
+||sk.tin88.club^
 ||sk.vin88.net^
 ||sk.vin88.vip^
 ||sk.xibet.com^
@@ -2764,6 +2778,7 @@
 ||sun6.win^
 ||sun88.online^
 ||sungame.store^
+||sunwin.club^
 ||sunwin.moi^
 ||sunwin.pro^
 ||sunwinvn.club^
@@ -2980,7 +2995,9 @@
 ||tin.11bet.net^
 ||tin010.com^
 ||tin88.bet^
+||tin88.club^
 ||tin88.top^
+||tin88.vip^
 ||tin888.club^
 ||tinbongdaw88.com^
 ||tintuc.vlott88.com^
@@ -3167,6 +3184,7 @@
 ||vin88.com^
 ||vin88.net^
 ||vin88.top^
+||vin88.tv^
 ||vin88.vip^
 ||vin88.win^
 ||vin999.fun^

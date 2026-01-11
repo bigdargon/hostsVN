@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 Jan 2026 10:52 UTC+7
-! Version: 2601071052
-! Blocked: 9.910 rules
+! Last modified: 11 Jan 2026 16:32 UTC+7
+! Version: 2601111632
+! Blocked: 9.925 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1098,6 +1098,7 @@
 ||ads-d.viber.com^
 ||ads-delivery.b-cdn.net^
 ||ads-dev.pinterest.com^
+||ads-img.mozilla.org^
 ||ads-pixiv.net^
 ||ads-privacy-api.prd.mz.internal.unity3d.com^
 ||ads-resources-legacy.waze.com^
@@ -1510,6 +1511,7 @@
 ||bidtheatre.com^
 ||bidvertiser.com^
 ||bigbangads.go2cloud.org^
+||biggestplayer.cachefly.net^
 ||bilsyndication.com^
 ||bingads.microsoft.com^
 ||birdgesdk.com^
@@ -2006,7 +2008,6 @@
 ||iad-05.braze.com^
 ||iad-06.braze.com^
 ||iad-08.braze.com^
-||iad.apple.com^
 ||iads.unity3d.com^
 ||iadsdk.apple.com^
 ||ibeat.indiatimes.com^
@@ -2072,6 +2073,7 @@
 ||ispot.tv^
 ||ivitrack.com^
 ||ivstracker.net^
+||iwad.cachefly.net^
 ||izooto.com^
 ||jac.yahoosandbox.com^
 ||jads.co^
@@ -2244,6 +2246,7 @@
 ||meter-svc.nytimes.com^
 ||metok.sys.miui.com^
 ||metric.nimo.tv^
+||metrics-config.icloud.com^
 ||metrics-dra.dt.hicloud.com^
 ||metrics-logger.spot.im^
 ||metrics.cnn.com^
@@ -2541,6 +2544,7 @@
 ||rayjump.com^
 ||reactful.com^
 ||readpeak.com^
+||readserver.cachefly.net^
 ||realsrv.com^
 ||realsrvcdn.com^
 ||redintelligence.net^
@@ -2619,6 +2623,7 @@
 ||sdklog.tvstore.opera.com^
 ||seal.globalsign.com^
 ||securemetrics.apple.com^
+||sedo.cachefly.net^
 ||segment.com^
 ||segment.io^
 ||segment.psg.nexstardigital.net^
@@ -2824,6 +2829,7 @@
 ||track.thesaurus.com^
 ||track.uc.cn^
 ||track1.avplayer.com^
+||trackdesk.com^
 ||tracker-api.my.com^
 ||tracker.ai.xiaomi.com^
 ||tracker.idocdn.com^
@@ -4602,6 +4608,7 @@
 ||bohonef.com^
 ||boilhumoristpacifist.com^
 ||boilingbeetle.com^
+||bojel.com^
 ||boldchat.com^
 ||bondleapedoasis.com^
 ||bonepa.com^
@@ -4686,6 +4693,7 @@
 ||bullseye.backbeatmedia.com^
 ||bulrev.com^
 ||bunceptsclosingh.com^
+||bundlemoviepumice.com^
 ||bungalowdispleasedwheeled.com^
 ||buqkrzbrucz.com^
 ||burgerbrush.com^
@@ -5992,6 +6000,7 @@
 ||glootang.net^
 ||gloriousoutfieldtrembling.com^
 ||glpweawxkodtvta.com^
+||glufort.com^
 ||glugherg.net^
 ||glutenmuttsensuous.com^
 ||gmads.net^
@@ -6144,6 +6153,7 @@
 ||hbntxrwmvf.com^
 ||hbwncbwgyvgt.com^
 ||hccaxtxfq.com^
+||hccxwfunnpxngz.com^
 ||hcetcuwit.com^
 ||hcilralhi.com^
 ||hcjfmbra.com^
@@ -7414,6 +7424,7 @@
 ||offoonguser.com^
 ||offvmuf.com^
 ||ofhappinyer.com^
+||ofjujdmsylvmo.website^
 ||ofleafeona.com^
 ||ofplredpogw.com^
 ||ofrvpeodmba.com^
@@ -7547,6 +7558,7 @@
 ||osrxzucira.com^
 ||osrzawox.com^
 ||ostaigukeshoak.com^
+||oswavmov.com^
 ||ota.cartrawler.com^
 ||othabqmag.com^
 ||othniqvu.com^
@@ -7676,6 +7688,7 @@
 ||pefsustazvzgop.com^
 ||pegloang.com^
 ||pejzeexukxo.com^
+||pekajmkimvx.com^
 ||pelagicmismate.com^
 ||penbouncingmagpie.com^
 ||pencilcongress.com^
@@ -8871,6 +8884,7 @@
 ||swa.and.co.uk^
 ||swan-swan-goose.com^
 ||swarthymacula.com^
+||swdqortugmmrj.online^
 ||sweetiesurveys.com^
 ||swesomepop.com^
 ||switchads.com^
@@ -9760,6 +9774,7 @@
 ||xnfmbejucgoldi.com^
 ||xovq5nemr.com^
 ||xpbbyiqbcawamy.com^
+||xpe9.com^
 ||xplosion.de^
 ||xponsor.com^
 ||xq1.net^

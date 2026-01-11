@@ -1,9 +1,7 @@
 # --- Group block ---
-#[apple]
+#[apple.com]
 api-adservices.apple.com
 books-analytics-events.apple.com
-metrics.icloud.com
-metrics.mzstatic.com
 notes-analytics-events.apple.com
 proxy-skadnetwork.apple.com
 securemetrics.apple.com
@@ -19,17 +17,11 @@ news.iadsdk.apple.com
 su.iadsdk.apple.com
 tr.iadsdk.apple.com
 ut.iadsdk.apple.com
-#[iad.apple.com]
-apps.iad.apple.com
-blueprints.iad.apple.com
-ccportal.iad.apple.com
-cmws.iad.apple.com
-display-apps-ui-soak.iad.apple.com
-display-apps-ui.iad.apple.com
-iad.apple.com
-iadfeed.iad.apple.com
-iadworkbench-soak.iad.apple.com
-stg-cmws.iad.apple.com
+#[mzstatic.com]
+metrics.mzstatic.com
+#[icloud.com]
+metrics-config.icloud.com
+metrics.icloud.com
 #[doubleclick.net]
 doubleclick.net
 accounts.doubleclick.net
@@ -9179,8 +9171,12 @@ truepush.com
 www.truepush.com
 #[cachefly.net]
 ambientdsp.cachefly.net
+biggestplayer.cachefly.net
 flurry.cachefly.net
 gamma.cachefly.net
+iwad.cachefly.net
+readserver.cachefly.net
+sedo.cachefly.net
 #[idealmedia.io]
 c.idealmedia.io
 cdn.idealmedia.io
@@ -11741,6 +11737,7 @@ media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
 #[mozilla.org]
+ads-img.mozilla.org
 ads.mozilla.org
 incoming.telemetry.mozilla.org
 #[provenpixel.com]
@@ -11887,3 +11884,7 @@ telemetry.gfe.nvidia.com
 #[psvgamestudio.com]
 promo.psvgamestudio.com
 psvpromo.psvgamestudio.com
+#[trackdesk.com]
+trackdesk.com
+cdn.trackdesk.com
+www.trackdesk.com
