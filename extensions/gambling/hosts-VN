@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 11 Jan 2026 23:33 UTC+7
-# Version: 2601112333
-# Blocked: 3.212 domains
+# Last modified: 15 Jan 2026 14:05 UTC+7
+# Version: 2601151405
+# Blocked: 3.214 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1039,6 +1039,7 @@
 0.0.0.0 hitclub.pro
 0.0.0.0 hitclub.salon
 0.0.0.0 hitclub.top
+0.0.0.0 hitclub.tv
 0.0.0.0 hitclub.vin
 0.0.0.0 hitclub.win
 0.0.0.0 hl8thai8.com
@@ -2373,6 +2374,7 @@
 0.0.0.0 uw88vnn1.com
 0.0.0.0 uytin.8day66.com
 0.0.0.0 v.fa88.tv
+0.0.0.0 v.hitclub.tv
 0.0.0.0 v.nhat9.vip
 0.0.0.0 v.nhatvip.pro
 0.0.0.0 v.nhatvip.vip
