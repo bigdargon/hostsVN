@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 26 Feb 2026 16:29 UTC+7
-! Version: 2602261629
-! Blocked: 2.823 rules
+! Last modified: 01 Mar 2026 22:53 UTC+7
+! Version: 2603012253
+! Blocked: 2.847 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -107,6 +107,7 @@
 ||388bet.us^
 ||388bet.vin^
 ||388bet.vip^
+||3bet.biz^
 ||3bet.win^
 ||3kingclub.com^
 ||448kbet.com^
@@ -972,7 +973,9 @@
 ||gem88.com^
 ||gem88.guru^
 ||gem88.win^
+||gemwin.my^
 ||gemwin.page^
+||gemwin.to^
 ||gemwin.vip^
 ||gen88.com^
 ||gi8.us^
@@ -1026,7 +1029,10 @@
 ||hay88.net^
 ||hay8811.com^
 ||hay8822.com^
+||haywin.ac^
+||haywin.store^
 ||haywin.vip^
+||haywinvip.online^
 ||hb88.com^
 ||hb88.party^
 ||hb8864.com^
@@ -1054,12 +1060,14 @@
 ||hit.club^
 ||hit1.club^
 ||hit68.net^
+||hitclub.bi^
 ||hitclub.blue^
 ||hitclub.cafe^
 ||hitclub.com^
 ||hitclub.in^
 ||hitclub.pro^
 ||hitclub.salon^
+||hitclub.so^
 ||hitclub.top^
 ||hitclub.tv^
 ||hitclub.vin^
@@ -1612,6 +1620,7 @@
 ||m1.vin88.vin^
 ||m1.vin88.vip^
 ||m1.xibet.fun^
+||m2.tin88.in^
 ||m2.tin88.vip^
 ||m2305.com^
 ||m88.run^
@@ -1682,6 +1691,7 @@
 ||mig8fans.com^
 ||mig8vn.com^
 ||min88.com^
+||min88.me^
 ||minigame.vnloto.com^
 ||minivn.com^
 ||miso88.boats^
@@ -1789,6 +1799,7 @@
 ||nhat.bet^
 ||nhat.game^
 ||nhat.it^
+||nhat.one^
 ||nhat.vip^
 ||nhat1.club^
 ||nhat9.vip^
@@ -1875,11 +1886,13 @@
 ||play.gemwin.vip^
 ||play.go88.club^
 ||play.go88.tv^
+||play.haywin.store^
 ||play.hit.club^
 ||play.im99.com^
 ||play.iwin.bio^
 ||play.lo88.live^
 ||play.rik88.life^
+||play.rikvip.info^
 ||play.rikvip.tv^
 ||play.sbotop246.com^
 ||play.son.club^
@@ -1932,6 +1945,7 @@
 ||qc.nhat.game^
 ||qc.nhat.it^
 ||qc.nhatvip.pro^
+||qc.rikvip.info^
 ||qc.tai789.icu^
 ||qc.top88.me^
 ||qc.top88.uk^
@@ -1992,6 +2006,7 @@
 ||rik6.com^
 ||rik88.life^
 ||rikvip.fun^
+||rikvip.info^
 ||rikvip.property^
 ||rikvip.tv^
 ||rikvip.us^
@@ -2065,6 +2080,7 @@
 ||sin88.cc^
 ||sin88.club^
 ||sin88.com^
+||sin88.cv^
 ||sin88.im^
 ||sin88.me^
 ||sin88.mn^
@@ -2082,6 +2098,7 @@
 ||sk.fm88.com^
 ||sk.tin88.bet^
 ||sk.tin88.club^
+||sk.tin88.in^
 ||sk.vin88.net^
 ||sk.vin88.vin^
 ||sk.vin88.vip^
@@ -2183,8 +2200,10 @@
 ||sun52.tv^
 ||sun6.win^
 ||sunwin.club^
+||sunwin.lt^
 ||sunwin.moi^
 ||sunwin.pro^
+||sunwin.pw^
 ||sunwin.sx^
 ||sunwinvn.club^
 ||sure168.asia^
@@ -2336,6 +2355,7 @@
 ||tin010.com^
 ||tin88.bet^
 ||tin88.club^
+||tin88.in^
 ||tin88.top^
 ||tin88.vip^
 ||tin888.club^
@@ -2705,7 +2725,9 @@
 ||win79.com^
 ||win79.download^
 ||win79.fun^
+||win79.im^
 ||win79.live^
+||win79.men^
 ||win79.pro^
 ||win79.site^
 ||win79.vip^
@@ -2828,4 +2850,6 @@
 ||zo88.org^
 ||zo88.vip^
 ||zoplay.top^
+||zowin.sh^
+||zowin.sx^
 ||zowin.tv^
