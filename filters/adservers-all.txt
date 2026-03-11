@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 11 Mar 2026 11:19 UTC+7
-! Version: 2603111119
-! Blocked: 8.145 rules
+! Last modified: 11 Mar 2026 14:02 UTC+7
+! Version: 2603111402
+! Blocked: 8.148 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2293,9 +2293,11 @@
 ||mondiad.net^
 ||mookie1.com^
 ||mopub.com^
+||mossfast.com^
 ||mosspf.cn^
 ||mosspf.com^
 ||mosspf.net^
+||mossru.com^
 ||mossturbo.com^
 ||mouseflow.com^
 ||movad.net^
@@ -7462,6 +7464,7 @@
 ||taughtwandamazingly.com^
 ||tawdryson.com^
 ||tb.baimgfroggd.site^
+||tc.mnbvcxzq.com^
 ||tc.vbnmhjlp.com^
 ||tcads.net^
 ||tdf.ringier.ch^

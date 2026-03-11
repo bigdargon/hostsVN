@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Mar 2026 11:19 UTC+7
-# Version: 2603111119
-# Blocked: 17.552 domains
+# Last modified: 11 Mar 2026 14:02 UTC+7
+# Version: 2603111402
+# Blocked: 17.569 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12008,21 +12008,6 @@
 0.0.0.0 api.maxesads.com
 0.0.0.0 gdl.maxesads.com
 0.0.0.0 rep.maxesads.com
-#[mossturbo.com]
-0.0.0.0 mossturbo.com
-0.0.0.0 adx.mossturbo.com
-0.0.0.0 adx-fk-req.mossturbo.com
-0.0.0.0 adx-rf-request.mossturbo.com
-0.0.0.0 adx-sg-req.mossturbo.com
-0.0.0.0 adx-vg-req.mossturbo.com
-0.0.0.0 api.mossturbo.com
-0.0.0.0 api-sec.mossturbo.com
-0.0.0.0 da.mossturbo.com
-0.0.0.0 mores.mossturbo.com
-0.0.0.0 tk.mossturbo.com
-0.0.0.0 tk-sg.mossturbo.com
-0.0.0.0 tkda.mossturbo.com
-0.0.0.0 www.mossturbo.com
 #[onegg.site]
 0.0.0.0 onegg.site
 0.0.0.0 api.onegg.site
@@ -12078,6 +12063,39 @@
 0.0.0.0 tk-sg.mosspf.net
 0.0.0.0 tk.mosspf.net
 0.0.0.0 tkda.mosspf.net
+#[mossru.com]
+0.0.0.0 mossru.com
+0.0.0.0 adx.mossru.com
+0.0.0.0 adx-fk-req.mossru.com
+0.0.0.0 adx-rf-request.mossru.com
+0.0.0.0 adx-vg-req.mossru.com
+0.0.0.0 api.mossru.com
+0.0.0.0 da.mossru.com
+0.0.0.0 tk.mossru.com
+0.0.0.0 tkda.mossru.com
+#[mossfast.com]
+0.0.0.0 mossfast.com
+0.0.0.0 adx.mossfast.com
+0.0.0.0 adx-sg-req.mossfast.com
+0.0.0.0 api.mossfast.com
+0.0.0.0 da.mossfast.com
+0.0.0.0 tk.mossfast.com
+0.0.0.0 tk-sg.mossfast.com
+0.0.0.0 tkda.mossfast.com
+#[mossturbo.com]
+0.0.0.0 mossturbo.com
+0.0.0.0 adx.mossturbo.com
+0.0.0.0 adx-fk-req.mossturbo.com
+0.0.0.0 adx-rf-request.mossturbo.com
+0.0.0.0 adx-sg-req.mossturbo.com
+0.0.0.0 adx-vg-req.mossturbo.com
+0.0.0.0 api.mossturbo.com
+0.0.0.0 api-sec.mossturbo.com
+0.0.0.0 da.mossturbo.com
+0.0.0.0 mores.mossturbo.com
+0.0.0.0 tk.mossturbo.com
+0.0.0.0 tk-sg.mossturbo.com
+0.0.0.0 tkda.mossturbo.com
 #[youngle.tech]
 0.0.0.0 youngle.tech
 0.0.0.0 api.youngle.tech
@@ -19080,6 +19098,7 @@
 0.0.0.0 tagmanager.alright.network
 0.0.0.0 tamgrt.com
 0.0.0.0 targeting.washpost.nile.works
+0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 tdf.ringier.ch
 0.0.0.0 ted.dailymail.co.uk
