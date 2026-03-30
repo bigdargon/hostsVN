@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 17 Mar 2026 10:25 UTC+7
-! Version: 2603171025
-! Blocked: 2.863 rules
+! Last modified: 30 Mar 2026 11:14 UTC+7
+! Version: 2603301114
+! Blocked: 2.889 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -36,6 +36,8 @@
 ||11bet.win^
 ||11betvnd.com^
 ||11win.mobi^
+||11win.mx^
+||11win.net^
 ||11zalo.com^
 ||123b.bet^
 ||123b.com^
@@ -279,7 +281,9 @@
 ||9b992.com^
 ||9bet.mobi^
 ||9bet.net^
+||9bet.rest^
 ||9bet.win^
+||9bet.world^
 ||9e3c.com^
 ||account.w88ac.com^
 ||account.w88club.com^
@@ -758,6 +762,8 @@
 ||dp568bet.com^
 ||du88.club^
 ||du88.com^
+||du88.in^
+||du88.info^
 ||du88.pro^
 ||dubaivn.vip^
 ||duongdenkhungthanh.com^
@@ -1214,6 +1220,7 @@
 ||i9betapp.win^
 ||i9betdl.com^
 ||i9i9bet.com^
+||i9online.vip^
 ||i9vn.com^
 ||ibet889.com^
 ||id.8xbet.fun^
@@ -1383,8 +1390,10 @@
 ||kc8.link^
 ||kenhthethao.net^
 ||keobong.thethaofb88.com^
+||keocopa.vip^
 ||keocuoc.thethaofb88.com^
 ||keonhacai-fun88.com^
+||keonhacai.cat^
 ||keonhacai3.com^
 ||keotot.net^
 ||kg88.com^
@@ -1429,6 +1438,7 @@
 ||ku6110.net^
 ||ku6131.net^
 ||ku777bet.com^
+||ku88.fun^
 ||ku88.pro^
 ||ku88.win^
 ||ku998.net^
@@ -1522,9 +1532,11 @@
 ||lp.vuiuk88.club^
 ||lp.zo1.win^
 ||lt991.com^
+||lu88.ai^
 ||lu88.co^
 ||lu88.com^
 ||lu88.gdn^
+||lu88.kim^
 ||lu88.pro^
 ||luck6.com^
 ||luck8.com^
@@ -1545,6 +1557,7 @@
 ||lucky88.org^
 ||lucky88.top^
 ||lucky88.tv^
+||lucky88.us^
 ||lucky88.vin^
 ||lucky88.win^
 ||lucky88vn.com^
@@ -1648,7 +1661,9 @@
 ||man.vip^
 ||man1.club^
 ||man79.org^
+||man88.la^
 ||man88.net^
+||man88.pl^
 ||man88.pw^
 ||man88.top^
 ||man88.vip^
@@ -1748,6 +1763,9 @@
 ||mu90.com^
 ||mu92.com^
 ||mu922.com^
+||mubet.best^
+||mubet.dev^
+||mubet.sh^
 ||mubet.vip^
 ||mv66.app^
 ||mv66.baby^
@@ -2211,6 +2229,7 @@
 ||sun6.win^
 ||sunwin.club^
 ||sunwin.id^
+||sunwin.inc^
 ||sunwin.lt^
 ||sunwin.moi^
 ||sunwin.pro^
@@ -2255,6 +2274,8 @@
 ||ta88.com^
 ||ta88.me^
 ||ta88.org^
+||ta88.so^
+||ta88.tv^
 ||ta88.vip^
 ||tai.b29.pub^
 ||tai.fa88.win^
@@ -2426,6 +2447,7 @@
 ||tourghepmienbac.net^
 ||trang188vn.com^
 ||trangchu.life^
+||trangkeo.com^
 ||trochoivuaclub.online^
 ||tructiepdaga.info^
 ||tt128.net^
@@ -2433,6 +2455,8 @@
 ||tx1.vip^
 ||tx88.com^
 ||tx88.fun^
+||tx88.fyi^
+||tx88.in^
 ||tx88.top^
 ||tydo88.com^
 ||tz.bet20.bet^
@@ -2520,7 +2544,9 @@
 ||vin777.co^
 ||vin777.work^
 ||vin88.com^
+||vin88.moi^
 ||vin88.net^
+||vin88.sx^
 ||vin88.top^
 ||vin88.tv^
 ||vin88.vin^

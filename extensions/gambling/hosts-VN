@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 17 Mar 2026 10:25 UTC+7
-# Version: 2603171025
-# Blocked: 3.297 domains
+# Last modified: 30 Mar 2026 11:14 UTC+7
+# Version: 2603301114
+# Blocked: 3.323 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -39,6 +39,8 @@
 0.0.0.0 11bet.win
 0.0.0.0 11betvnd.com
 0.0.0.0 11win.mobi
+0.0.0.0 11win.mx
+0.0.0.0 11win.net
 0.0.0.0 11zalo.com
 0.0.0.0 123b.bet
 0.0.0.0 123b.com
@@ -277,7 +279,9 @@
 0.0.0.0 9b992.com
 0.0.0.0 9bet.mobi
 0.0.0.0 9bet.net
+0.0.0.0 9bet.rest
 0.0.0.0 9bet.win
+0.0.0.0 9bet.world
 0.0.0.0 9e3c.com
 0.0.0.0 account.w88ac.com
 0.0.0.0 account.w88club.com
@@ -754,6 +758,8 @@
 0.0.0.0 dp568bet.com
 0.0.0.0 du88.club
 0.0.0.0 du88.com
+0.0.0.0 du88.in
+0.0.0.0 du88.info
 0.0.0.0 du88.pro
 0.0.0.0 dubaivn.vip
 0.0.0.0 duongdenkhungthanh.com
@@ -1209,6 +1215,7 @@
 0.0.0.0 i9betapp.win
 0.0.0.0 i9betdl.com
 0.0.0.0 i9i9bet.com
+0.0.0.0 i9online.vip
 0.0.0.0 i9vn.com
 0.0.0.0 ibet889.com
 0.0.0.0 id.8xbet.fun
@@ -1378,8 +1385,10 @@
 0.0.0.0 kc8.link
 0.0.0.0 kenhthethao.net
 0.0.0.0 keobong.thethaofb88.com
+0.0.0.0 keocopa.vip
 0.0.0.0 keocuoc.thethaofb88.com
 0.0.0.0 keonhacai-fun88.com
+0.0.0.0 keonhacai.cat
 0.0.0.0 keonhacai3.com
 0.0.0.0 keotot.net
 0.0.0.0 kg88.com
@@ -1424,6 +1433,7 @@
 0.0.0.0 ku6110.net
 0.0.0.0 ku6131.net
 0.0.0.0 ku777bet.com
+0.0.0.0 ku88.fun
 0.0.0.0 ku88.pro
 0.0.0.0 ku88.win
 0.0.0.0 ku998.net
@@ -1517,9 +1527,11 @@
 0.0.0.0 lp.vuiuk88.club
 0.0.0.0 lp.zo1.win
 0.0.0.0 lt991.com
+0.0.0.0 lu88.ai
 0.0.0.0 lu88.co
 0.0.0.0 lu88.com
 0.0.0.0 lu88.gdn
+0.0.0.0 lu88.kim
 0.0.0.0 lu88.pro
 0.0.0.0 luck6.com
 0.0.0.0 luck8.com
@@ -1540,6 +1552,7 @@
 0.0.0.0 lucky88.org
 0.0.0.0 lucky88.top
 0.0.0.0 lucky88.tv
+0.0.0.0 lucky88.us
 0.0.0.0 lucky88.vin
 0.0.0.0 lucky88.win
 0.0.0.0 lucky88vn.com
@@ -1643,7 +1656,9 @@
 0.0.0.0 man.vip
 0.0.0.0 man1.club
 0.0.0.0 man79.org
+0.0.0.0 man88.la
 0.0.0.0 man88.net
+0.0.0.0 man88.pl
 0.0.0.0 man88.pw
 0.0.0.0 man88.top
 0.0.0.0 man88.vip
@@ -1743,6 +1758,9 @@
 0.0.0.0 mu90.com
 0.0.0.0 mu92.com
 0.0.0.0 mu922.com
+0.0.0.0 mubet.best
+0.0.0.0 mubet.dev
+0.0.0.0 mubet.sh
 0.0.0.0 mubet.vip
 0.0.0.0 mv66.app
 0.0.0.0 mv66.baby
@@ -2199,6 +2217,7 @@
 0.0.0.0 sun6.win
 0.0.0.0 sunwin.club
 0.0.0.0 sunwin.id
+0.0.0.0 sunwin.inc
 0.0.0.0 sunwin.lt
 0.0.0.0 sunwin.moi
 0.0.0.0 sunwin.pro
@@ -2243,6 +2262,8 @@
 0.0.0.0 ta88.com
 0.0.0.0 ta88.me
 0.0.0.0 ta88.org
+0.0.0.0 ta88.so
+0.0.0.0 ta88.tv
 0.0.0.0 ta88.vip
 0.0.0.0 tai.b29.pub
 0.0.0.0 tai.fa88.win
@@ -2414,6 +2435,7 @@
 0.0.0.0 tourghepmienbac.net
 0.0.0.0 trang188vn.com
 0.0.0.0 trangchu.life
+0.0.0.0 trangkeo.com
 0.0.0.0 trochoivuaclub.online
 0.0.0.0 tructiepdaga.info
 0.0.0.0 tt128.net
@@ -2421,6 +2443,8 @@
 0.0.0.0 tx1.vip
 0.0.0.0 tx88.com
 0.0.0.0 tx88.fun
+0.0.0.0 tx88.fyi
+0.0.0.0 tx88.in
 0.0.0.0 tx88.top
 0.0.0.0 tydo88.com
 0.0.0.0 tz.bet20.bet
@@ -2507,7 +2531,9 @@
 0.0.0.0 vin777.co
 0.0.0.0 vin777.work
 0.0.0.0 vin88.com
+0.0.0.0 vin88.moi
 0.0.0.0 vin88.net
+0.0.0.0 vin88.sx
 0.0.0.0 vin88.top
 0.0.0.0 vin88.tv
 0.0.0.0 vin88.vin

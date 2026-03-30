@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 17 Mar 2026 10:25 UTC+7
-# Version: 2603171025
-# Blocked: 64.936 domains
+# Last modified: 30 Mar 2026 11:14 UTC+7
+# Version: 2603301114
+# Blocked: 64.979 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2578,6 +2578,8 @@
 0.0.0.0 11vn77.com
 0.0.0.0 11vn777.com
 0.0.0.0 11win.mobi
+0.0.0.0 11win.mx
+0.0.0.0 11win.net
 0.0.0.0 11win33.com
 0.0.0.0 11xmirror.com
 0.0.0.0 11xxpp.cn
@@ -27285,6 +27287,7 @@
 0.0.0.0 8x6954.com
 0.0.0.0 8x6961.com
 0.0.0.0 8x6967.com
+0.0.0.0 8x6979.com
 0.0.0.0 8x6et.com
 0.0.0.0 8x7002.com
 0.0.0.0 8x7011.com
@@ -30646,6 +30649,7 @@
 0.0.0.0 9920555.com
 0.0.0.0 992067.com
 0.0.0.0 9920999.com
+0.0.0.0 9922.com
 0.0.0.0 99225004.com
 0.0.0.0 992266.com
 0.0.0.0 9922696.com
@@ -31058,7 +31062,9 @@
 0.0.0.0 9banca.com
 0.0.0.0 9bet.mobi
 0.0.0.0 9bet.net
+0.0.0.0 9bet.rest
 0.0.0.0 9bet.win
+0.0.0.0 9bet.world
 0.0.0.0 9bo999.com
 0.0.0.0 9club8.com
 0.0.0.0 9d-vip.com
@@ -36691,6 +36697,7 @@
 0.0.0.0 cojcp8.com
 0.0.0.0 cola38.com
 0.0.0.0 cole1111.com
+0.0.0.0 cole8888.com
 0.0.0.0 collapsar.space
 0.0.0.0 collector-cps-live.omnitrend.biz
 0.0.0.0 collector-cps2-live.omnitrend.biz
@@ -37157,6 +37164,7 @@
 0.0.0.0 d1iw2qpzbah04l.cloudfront.net
 0.0.0.0 d1k3u1af1lt7sn.cloudfront.net
 0.0.0.0 d1pg7jl7t9qic2.cloudfront.net
+0.0.0.0 d1sjladg4elc68.cloudfront.net
 0.0.0.0 d1ufwlfds03jlb.cloudfront.net
 0.0.0.0 d2202657433.com
 0.0.0.0 d2323.com
@@ -38184,6 +38192,8 @@
 0.0.0.0 du5252.com
 0.0.0.0 du88.club
 0.0.0.0 du88.com
+0.0.0.0 du88.in
+0.0.0.0 du88.info
 0.0.0.0 du88.pro
 0.0.0.0 dubai-speed.com
 0.0.0.0 dubai147.com
@@ -39061,6 +39071,7 @@
 0.0.0.0 fb88copa.com
 0.0.0.0 fb88cup.com
 0.0.0.0 fb88da.com
+0.0.0.0 fb88dao.com
 0.0.0.0 fb88day.com
 0.0.0.0 fb88dl.com
 0.0.0.0 fb88en.com
@@ -39308,6 +39319,7 @@
 0.0.0.0 fine.bet
 0.0.0.0 finebet.net
 0.0.0.0 fishapi.system32-cloudfare-356783752985678522.monster
+0.0.0.0 fitfutures.in.net
 0.0.0.0 fitlose.xyz
 0.0.0.0 fiu3i578qfsfi359ryhtrtjrrrkefddgsw354345.online
 0.0.0.0 five-88.com
@@ -41133,6 +41145,7 @@
 0.0.0.0 guibin88938.com
 0.0.0.0 guildgo.xyz
 0.0.0.0 guizhouc7.com
+0.0.0.0 gujarattour.in.net
 0.0.0.0 gulfhe.xyz
 0.0.0.0 gulfto.xyz
 0.0.0.0 gullybet.com
@@ -43930,7 +43943,12 @@
 0.0.0.0 i9bet332.com
 0.0.0.0 i9bet333.com
 0.0.0.0 i9bet34.com
+0.0.0.0 i9bet345.com
 0.0.0.0 i9bet35.com
+0.0.0.0 i9bet351.com
+0.0.0.0 i9bet354.com
+0.0.0.0 i9bet356.com
+0.0.0.0 i9bet359.com
 0.0.0.0 i9bet36.com
 0.0.0.0 i9bet366.com
 0.0.0.0 i9bet37.com
@@ -44068,6 +44086,7 @@
 0.0.0.0 i9i9bet.bet
 0.0.0.0 i9i9bet.com
 0.0.0.0 i9mt.com
+0.0.0.0 i9online.vip
 0.0.0.0 i9svip.com
 0.0.0.0 i9vn.com
 0.0.0.0 iads8d4.buzz
@@ -47584,9 +47603,11 @@
 0.0.0.0 keobong.thethaofb88.com
 0.0.0.0 keobongda88.com
 0.0.0.0 keobongda88.net
+0.0.0.0 keocopa.vip
 0.0.0.0 keocuoc.thethaofb88.com
 0.0.0.0 keongoaihang.com
 0.0.0.0 keonhacai-fun88.com
+0.0.0.0 keonhacai.cat
 0.0.0.0 keonhacai.wtf
 0.0.0.0 keonhacai3.com
 0.0.0.0 keonhacai5.fun
@@ -48113,6 +48134,7 @@
 0.0.0.0 ku777bet.com
 0.0.0.0 ku78.com
 0.0.0.0 ku7968.com
+0.0.0.0 ku88.fun
 0.0.0.0 ku88.pro
 0.0.0.0 ku88.win
 0.0.0.0 ku9889.com
@@ -48941,9 +48963,11 @@
 0.0.0.0 lttfun65.com
 0.0.0.0 lttfun66.com
 0.0.0.0 lttyuming.com
+0.0.0.0 lu88.ai
 0.0.0.0 lu88.co
 0.0.0.0 lu88.com
 0.0.0.0 lu88.gdn
+0.0.0.0 lu88.kim
 0.0.0.0 lu88.pro
 0.0.0.0 lua999vnd.com
 0.0.0.0 luck6.com
@@ -48996,6 +49020,7 @@
 0.0.0.0 lucky88.org
 0.0.0.0 lucky88.top
 0.0.0.0 lucky88.tv
+0.0.0.0 lucky88.us
 0.0.0.0 lucky88.vin
 0.0.0.0 lucky88.win
 0.0.0.0 lucky88fun.com
@@ -49959,7 +49984,9 @@
 0.0.0.0 man.vip
 0.0.0.0 man1.club
 0.0.0.0 man79.org
+0.0.0.0 man88.la
 0.0.0.0 man88.net
+0.0.0.0 man88.pl
 0.0.0.0 man88.pw
 0.0.0.0 man88.top
 0.0.0.0 man88.vip
@@ -50731,6 +50758,7 @@
 0.0.0.0 mscaffiliate.com
 0.0.0.0 mscccx.com
 0.0.0.0 msklre.com
+0.0.0.0 msluap.com
 0.0.0.0 msmoxr.com
 0.0.0.0 msqybp.com
 0.0.0.0 mstatic-ire1.mrslotty.com
@@ -50771,6 +50799,9 @@
 0.0.0.0 mu90.com
 0.0.0.0 mu92.com
 0.0.0.0 mu922.com
+0.0.0.0 mubet.best
+0.0.0.0 mubet.dev
+0.0.0.0 mubet.sh
 0.0.0.0 mubet.vip
 0.0.0.0 mugvf5q82qv.com
 0.0.0.0 mulive.net
@@ -51554,6 +51585,7 @@
 0.0.0.0 office-dtservice.com
 0.0.0.0 officialv9.com
 0.0.0.0 ofg.pt.cdn-bebo.com
+0.0.0.0 ofin.io
 0.0.0.0 ohvip07.com
 0.0.0.0 ohvip09.com
 0.0.0.0 ohvip15.com
@@ -53616,6 +53648,7 @@
 0.0.0.0 record.betmasterpartners.com
 0.0.0.0 record.brave158.com
 0.0.0.0 record.brave888.com
+0.0.0.0 record.cole8888.com
 0.0.0.0 record.guts.com
 0.0.0.0 record.income88.com
 0.0.0.0 record.revmasters.com
@@ -55379,6 +55412,7 @@
 0.0.0.0 sunhanhnhen.com
 0.0.0.0 sunwin.club
 0.0.0.0 sunwin.id
+0.0.0.0 sunwin.inc
 0.0.0.0 sunwin.lt
 0.0.0.0 sunwin.moi
 0.0.0.0 sunwin.pro
@@ -55784,6 +55818,8 @@
 0.0.0.0 ta88.com
 0.0.0.0 ta88.me
 0.0.0.0 ta88.org
+0.0.0.0 ta88.so
+0.0.0.0 ta88.tv
 0.0.0.0 ta88.vip
 0.0.0.0 ta88a.com
 0.0.0.0 ta88vip.top
@@ -56667,6 +56703,7 @@
 0.0.0.0 tracking.c3-tool.com
 0.0.0.0 trang188vn.com
 0.0.0.0 trangchu.life
+0.0.0.0 trangkeo.com
 0.0.0.0 tranhtaieuro.com
 0.0.0.0 translution.uk.com
 0.0.0.0 trarow.xyz
@@ -56857,6 +56894,8 @@
 0.0.0.0 tx68.vip
 0.0.0.0 tx88.com
 0.0.0.0 tx88.fun
+0.0.0.0 tx88.fyi
+0.0.0.0 tx88.in
 0.0.0.0 tx88.top
 0.0.0.0 tx88.vip
 0.0.0.0 txcmc.xyz
@@ -58195,7 +58234,9 @@
 0.0.0.0 vin777.co
 0.0.0.0 vin777.work
 0.0.0.0 vin88.com
+0.0.0.0 vin88.moi
 0.0.0.0 vin88.net
+0.0.0.0 vin88.sx
 0.0.0.0 vin88.top
 0.0.0.0 vin88.tv
 0.0.0.0 vin88.vin
@@ -61562,6 +61603,7 @@
 0.0.0.0 www.fb88club.com
 0.0.0.0 www.fb88copa.com
 0.0.0.0 www.fb88cup.com
+0.0.0.0 www.fb88dao.com
 0.0.0.0 www.fb88day.com
 0.0.0.0 www.fb88fifa.com
 0.0.0.0 www.fb88gateway.com
@@ -64455,6 +64497,7 @@
 0.0.0.0 yuguanhong.com
 0.0.0.0 yukzaa11.vip
 0.0.0.0 yule12888.com
+0.0.0.0 yumyum.asia
 0.0.0.0 yun8188.com
 0.0.0.0 yunanjiqiren.com
 0.0.0.0 yunit04.com
