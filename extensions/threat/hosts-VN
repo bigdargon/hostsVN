@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 30 Mar 2026 11:14 UTC+7
-# Version: 2603301114
-# Blocked: 4.412 domains
+# Last modified: 09 Apr 2026 09:58 UTC+7
+# Version: 2604090958
+# Blocked: 4.441 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -24,6 +24,7 @@
 0.0.0.0 1516shop.com
 0.0.0.0 1cash.info
 0.0.0.0 1is7m7.cyou
+0.0.0.0 1ksale.com
 0.0.0.0 24-7-vidientu.com
 0.0.0.0 24-7bank.com
 0.0.0.0 247-banking.com
@@ -557,6 +558,15 @@
 0.0.0.0 dichvushopee.com
 0.0.0.0 dichvuvietnam.pw
 0.0.0.0 didongviet.store
+0.0.0.0 diem-vcb-vn.com
+0.0.0.0 diem-vcbank-vn.com
+0.0.0.0 diem-vcbank.com
+0.0.0.0 diem-vietcom-bank.com
+0.0.0.0 diem-vietcom-vn.com
+0.0.0.0 diem-vietcombank-vn.com
+0.0.0.0 diem-vietcombank.com
+0.0.0.0 diem-vn-vcbank.com
+0.0.0.0 diem-vn-vietcombank.com
 0.0.0.0 dien-may-xanh.net
 0.0.0.0 dienlanhdienmayxanh.com
 0.0.0.0 dienlanhdienmayxanhvn.com
@@ -1923,6 +1933,7 @@
 0.0.0.0 nhanqua-garenaff.com
 0.0.0.0 nhanqua-tocchien.com
 0.0.0.0 nhanqua.online
+0.0.0.0 nhanqua.sale
 0.0.0.0 nhanqua50.online
 0.0.0.0 nhanqua60.online
 0.0.0.0 nhanquaff2021.cf
@@ -2174,6 +2185,7 @@
 0.0.0.0 redpinevikoviethan.weebly.com
 0.0.0.0 reglienquan.online
 0.0.0.0 reviewphim.pro
+0.0.0.0 reward-vietcombank.com
 0.0.0.0 rich678.com
 0.0.0.0 rickmomo.fun
 0.0.0.0 rihcos.com
@@ -2225,9 +2237,13 @@
 0.0.0.0 sacombank.vn-vp.xyz
 0.0.0.0 sacombankvn.com
 0.0.0.0 sadm26.com
+0.0.0.0 sale1k.com
+0.0.0.0 salepee.com
 0.0.0.0 salu.gq
 0.0.0.0 samcenter-vn.com
 0.0.0.0 samsungvn.info
+0.0.0.0 sandeal.net
+0.0.0.0 sandeal.sale
 0.0.0.0 sandealshopee.com
 0.0.0.0 sanduon.com
 0.0.0.0 sanmomo.me
@@ -3604,9 +3620,12 @@
 0.0.0.0 vayvontheoluong.site
 0.0.0.0 vayvontieudungshinhanbank.com
 0.0.0.0 vayysieutoc.com
+0.0.0.0 vcb-diem-vn.com
 0.0.0.0 vcb-diglicabrnk.com
 0.0.0.0 vcb-vaysodo.com
 0.0.0.0 vcb-vaytaichinh.com
+0.0.0.0 vcbank-diem-vn.com
+0.0.0.0 vcbank-diem.com
 0.0.0.0 vcbbankdigi.com
 0.0.0.0 vcbdigeibonk.com
 0.0.0.0 vcbdigliebrnk.com
@@ -3715,12 +3734,19 @@
 0.0.0.0 vietcom-credit.com
 0.0.0.0 vietcombak.com
 0.0.0.0 vietcombank-credit.tk
+0.0.0.0 vietcombank-diem.com
 0.0.0.0 vietcombank-hotrovaykhachhang.online
 0.0.0.0 vietcombank-ibank.weebly.com
+0.0.0.0 vietcombank-reward.com
+0.0.0.0 vietcombank-rewards.com
 0.0.0.0 vietcombank-vaytinchap.com
 0.0.0.0 vietcombank-vietnam.com.vn
+0.0.0.0 vietcombank-vn-diem.com
 0.0.0.0 vietcombank.fund
 0.0.0.0 vietcombank.money
+0.0.0.0 vietcombank.one
+0.0.0.0 vietcombank.top
+0.0.0.0 vietcombank.top.com.vn
 0.0.0.0 vietcombank.vn-cn.xyz
 0.0.0.0 vietcombank.vn-dll.vip
 0.0.0.0 vietcombank.vn-jss.vip
@@ -3731,6 +3757,7 @@
 0.0.0.0 vietcombank2022.com
 0.0.0.0 vietcombankd.tk
 0.0.0.0 vietcombankk.com
+0.0.0.0 vietcombankvn.com
 0.0.0.0 vietcomcard.com
 0.0.0.0 vietcomcredit.com
 0.0.0.0 vietcomdank.com
@@ -3827,6 +3854,7 @@
 0.0.0.0 vietnamuic.vip
 0.0.0.0 vietnamurd.vip
 0.0.0.0 vietnamuyt.vip
+0.0.0.0 vietnamvisa-info.com
 0.0.0.0 vietnamxcm.vip
 0.0.0.0 vietnamyhn.com
 0.0.0.0 vietnan.online
@@ -4381,6 +4409,7 @@
 0.0.0.0 xakhogiovanga92.com
 0.0.0.0 xakhohangtrungbay.site
 0.0.0.0 xd152.com
+0.0.0.0 xemdeal.com
 0.0.0.0 xianshangzixun.com
 0.0.0.0 xianshangzixun.net
 0.0.0.0 xiaomivietnam.xyz

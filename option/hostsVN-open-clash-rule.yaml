@@ -1732,10 +1732,12 @@ payload:
   - DOMAIN-SUFFIX,dlog.hiido.com
   - DOMAIN-SUFFIX,dlswbr.baidu.com
   - DOMAIN-SUFFIX,dm-event.net
+  - DOMAIN-SUFFIX,dmads.dailymotion.com
   - DOMAIN-SUFFIX,dmpxs.com
   - DOMAIN-SUFFIX,dmrtb.com
   - DOMAIN-SUFFIX,dmtracking.alibaba.com
   - DOMAIN-SUFFIX,dmtracking2.alibaba.com
+  - DOMAIN-SUFFIX,dmxleo.dailymotion.com
   - DOMAIN-SUFFIX,dmzjmp.com
   - DOMAIN-SUFFIX,domnovrek.com
   - DOMAIN-SUFFIX,doppler-reporting.cbsivideo.com
@@ -2366,6 +2368,7 @@ payload:
   - DOMAIN-SUFFIX,optimize.google.com
   - DOMAIN-SUFFIX,optimizesrv.com
   - DOMAIN-SUFFIX,optmnstr.com
+  - DOMAIN-SUFFIX,optoutadvertising.com
   - DOMAIN-SUFFIX,optvx.com
   - DOMAIN-SUFFIX,orbsrv.com
   - DOMAIN-SUFFIX,os-mon.zijieapi.com
@@ -2660,6 +2663,7 @@ payload:
   - DOMAIN-SUFFIX,smrtb.com
   - DOMAIN-SUFFIX,snapads.com
   - DOMAIN-SUFFIX,snigelweb.com
+  - DOMAIN-SUFFIX,snowflake.qq.com
   - DOMAIN-SUFFIX,socdm.com
   - DOMAIN-SUFFIX,sociaplus.com
   - DOMAIN-SUFFIX,sofire.baidu.com
@@ -4985,7 +4989,6 @@ payload:
   - DOMAIN-SUFFIX,dmtgo.upc.biz
   - DOMAIN-SUFFIX,dmtracker.com
   - DOMAIN-SUFFIX,dmxleo.com
-  - DOMAIN-SUFFIX,dmxleo.dailymotion.com
   - DOMAIN-SUFFIX,dn.loupmismaze.com
   - DOMAIN-SUFFIX,dn0qt3r0xannq.cloudfront.net
   - DOMAIN-SUFFIX,dnemkhkbsdbl.com
@@ -5916,6 +5919,7 @@ payload:
   - DOMAIN-SUFFIX,log.umsns.com
   - DOMAIN-SUFFIX,log.x2convert.com
   - DOMAIN-SUFFIX,log.ys7.com
+  - DOMAIN-SUFFIX,logger.eji6.cc
   - DOMAIN-SUFFIX,logger.snackly.co
   - DOMAIN-SUFFIX,logger.unsplash.com
   - DOMAIN-SUFFIX,logriancesenius.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 30 Mar 2026 11:14 UTC+7
-! Version: 2603301114
-! Blocked: 4.341 rules
+! Last modified: 09 Apr 2026 09:58 UTC+7
+! Version: 2604090958
+! Blocked: 4.370 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -21,6 +21,7 @@
 ||1516shop.com^
 ||1cash.info^
 ||1is7m7.cyou^
+||1ksale.com^
 ||24-7-vidientu.com^
 ||24-7bank.com^
 ||247-banking.com^
@@ -555,6 +556,15 @@
 ||dichvushopee.com^
 ||dichvuvietnam.pw^
 ||didongviet.store^
+||diem-vcb-vn.com^
+||diem-vcbank-vn.com^
+||diem-vcbank.com^
+||diem-vietcom-bank.com^
+||diem-vietcom-vn.com^
+||diem-vietcombank-vn.com^
+||diem-vietcombank.com^
+||diem-vn-vcbank.com^
+||diem-vn-vietcombank.com^
 ||dien-may-xanh.net^
 ||dienlanhdienmayxanh.com^
 ||dienlanhdienmayxanhvn.com^
@@ -1927,6 +1937,7 @@
 ||nhanqua-garenaff.com^
 ||nhanqua-tocchien.com^
 ||nhanqua.online^
+||nhanqua.sale^
 ||nhanqua50.online^
 ||nhanqua60.online^
 ||nhanquaff2021.cf^
@@ -2178,6 +2189,7 @@
 ||redpinevikoviethan.weebly.com^
 ||reglienquan.online^
 ||reviewphim.pro^
+||reward-vietcombank.com^
 ||rich678.com^
 ||rickmomo.fun^
 ||rihcos.com^
@@ -2229,9 +2241,13 @@
 ||sacombank.vn-vp.xyz^
 ||sacombankvn.com^
 ||sadm26.com^
+||sale1k.com^
+||salepee.com^
 ||salu.gq^
 ||samcenter-vn.com^
 ||samsungvn.info^
+||sandeal.net^
+||sandeal.sale^
 ||sandealshopee.com^
 ||sanduon.com^
 ||sanmomo.me^
@@ -3611,9 +3627,12 @@
 ||vayvontheoluong.site^
 ||vayvontieudungshinhanbank.com^
 ||vayysieutoc.com^
+||vcb-diem-vn.com^
 ||vcb-diglicabrnk.com^
 ||vcb-vaysodo.com^
 ||vcb-vaytaichinh.com^
+||vcbank-diem-vn.com^
+||vcbank-diem.com^
 ||vcbbankdigi.com^
 ||vcbdigeibonk.com^
 ||vcbdigliebrnk.com^
@@ -3722,12 +3741,19 @@
 ||vietcom-credit.com^
 ||vietcombak.com^
 ||vietcombank-credit.tk^
+||vietcombank-diem.com^
 ||vietcombank-hotrovaykhachhang.online^
 ||vietcombank-ibank.weebly.com^
+||vietcombank-reward.com^
+||vietcombank-rewards.com^
 ||vietcombank-vaytinchap.com^
 ||vietcombank-vietnam.com.vn^
+||vietcombank-vn-diem.com^
 ||vietcombank.fund^
 ||vietcombank.money^
+||vietcombank.one^
+||vietcombank.top.com.vn^
+||vietcombank.top^
 ||vietcombank.vn-cn.xyz^
 ||vietcombank.vn-dll.vip^
 ||vietcombank.vn-jss.vip^
@@ -3738,6 +3764,7 @@
 ||vietcombank2022.com^
 ||vietcombankd.tk^
 ||vietcombankk.com^
+||vietcombankvn.com^
 ||vietcomcard.com^
 ||vietcomcredit.com^
 ||vietcomdank.com^
@@ -3834,6 +3861,7 @@
 ||vietnamuic.vip^
 ||vietnamurd.vip^
 ||vietnamuyt.vip^
+||vietnamvisa-info.com^
 ||vietnamxcm.vip^
 ||vietnamyhn.com^
 ||vietnan.online^
@@ -4307,6 +4335,7 @@
 ||xakhogiovanga92.com^
 ||xakhohangtrungbay.site^
 ||xd152.com^
+||xemdeal.com^
 ||xianshangzixun.com^
 ||xianshangzixun.net^
 ||xiaomivietnam.xyz^
