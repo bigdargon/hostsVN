@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Apr 2026 09:58 UTC+7
-# Version: 2604090958
-# Blocked: 1.733 domains
+# Last modified: 20 Apr 2026 14:38 UTC+7
+# Version: 2604201438
+# Blocked: 1.741 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1434,6 +1434,16 @@
 0.0.0.0 api.moneyoyo.org
 0.0.0.0 feed.moneyoyo.org
 0.0.0.0 sdk.moneyoyo.com
+#[engagelab.cc]
+0.0.0.0 engagelab.cc
+0.0.0.0 global-sis.api.engagelab.cc
+0.0.0.0 global-websis.api.engagelab.cc
+0.0.0.0 pushstat.api.engagelab.cc
+0.0.0.0 webpushstat.api.engagelab.cc
+0.0.0.0 www.engagelab.cc
+#[engagelab.com]
+0.0.0.0 global-sis.engagelab.com
+0.0.0.0 webpushstat-sgp.engagelab.com
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn

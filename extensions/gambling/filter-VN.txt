@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 09 Apr 2026 09:58 UTC+7
-! Version: 2604090958
-! Blocked: 2.889 rules
+! Last modified: 20 Apr 2026 14:37 UTC+7
+! Version: 2604201437
+! Blocked: 2.895 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -716,6 +716,7 @@
 ||dangkyrikvip.tv^
 ||dangkyrikvip.win^
 ||dangkyva88.info^
+||daomo.club^
 ||datcuoc.thethaofb88.com^
 ||debet.bet^
 ||debet.bot^
@@ -1051,7 +1052,9 @@
 ||hb8887.com^
 ||hb88vn.co^
 ||hbet.club^
+||hbet.lv^
 ||hbet.net^
+||hbet.pw^
 ||hbet.win^
 ||hcm66.com^
 ||hdbet.com^
@@ -1907,6 +1910,7 @@
 ||play.bay789.life^
 ||play.bom52.club^
 ||play.bum3.club^
+||play.daomo.club^
 ||play.fa88.win^
 ||play.gemwin.vip^
 ||play.go88.club^
@@ -2644,7 +2648,9 @@
 ||vstar79.com^
 ||vu88.com^
 ||vu88.de^
+||vu88.in^
 ||vu88.net^
+||vu88.tv^
 ||vua88.app^
 ||vua88.biz^
 ||vua88.club^

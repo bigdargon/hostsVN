@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 09 Apr 2026 09:58 UTC+7
-# Version: 2604090958
-# Blocked: 3.323 domains
+# Last modified: 20 Apr 2026 14:37 UTC+7
+# Version: 2604201437
+# Blocked: 3.329 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -712,6 +712,7 @@
 0.0.0.0 dangkyrikvip.tv
 0.0.0.0 dangkyrikvip.win
 0.0.0.0 dangkyva88.info
+0.0.0.0 daomo.club
 0.0.0.0 datcuoc.thethaofb88.com
 0.0.0.0 debet.bet
 0.0.0.0 debet.bot
@@ -1047,7 +1048,9 @@
 0.0.0.0 hb8887.com
 0.0.0.0 hb88vn.co
 0.0.0.0 hbet.club
+0.0.0.0 hbet.lv
 0.0.0.0 hbet.net
+0.0.0.0 hbet.pw
 0.0.0.0 hbet.win
 0.0.0.0 hcm66.com
 0.0.0.0 hdbet.com
@@ -1901,6 +1904,7 @@
 0.0.0.0 play.bay789.life
 0.0.0.0 play.bom52.club
 0.0.0.0 play.bum3.club
+0.0.0.0 play.daomo.club
 0.0.0.0 play.fa88.win
 0.0.0.0 play.gemwin.vip
 0.0.0.0 play.go88.club
@@ -2629,7 +2633,9 @@
 0.0.0.0 vstar79.com
 0.0.0.0 vu88.com
 0.0.0.0 vu88.de
+0.0.0.0 vu88.in
 0.0.0.0 vu88.net
+0.0.0.0 vu88.tv
 0.0.0.0 vua88.app
 0.0.0.0 vua88.biz
 0.0.0.0 vua88.club

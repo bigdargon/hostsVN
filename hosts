@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Apr 2026 09:58 UTC+7
-# Version: 2604090958
-# Blocked: 17.608 domains
+# Last modified: 20 Apr 2026 14:38 UTC+7
+# Version: 2604201438
+# Blocked: 17.627 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3105,6 +3105,7 @@
 0.0.0.0 clevertap-prod.com
 0.0.0.0 eu1.clevertap-prod.com
 0.0.0.0 in1.clevertap-prod.com
+0.0.0.0 sg1-spiky.clevertap-prod.com
 0.0.0.0 sg1.clevertap-prod.com
 0.0.0.0 us1.clevertap-prod.com
 #[freshmarketer]
@@ -13558,6 +13559,16 @@
 0.0.0.0 api.moneyoyo.org
 0.0.0.0 feed.moneyoyo.org
 0.0.0.0 sdk.moneyoyo.com
+#[engagelab.cc]
+0.0.0.0 engagelab.cc
+0.0.0.0 global-sis.api.engagelab.cc
+0.0.0.0 global-websis.api.engagelab.cc
+0.0.0.0 pushstat.api.engagelab.cc
+0.0.0.0 webpushstat.api.engagelab.cc
+0.0.0.0 www.engagelab.cc
+#[engagelab.com]
+0.0.0.0 global-sis.engagelab.com
+0.0.0.0 webpushstat-sgp.engagelab.com
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -16195,6 +16206,7 @@
 0.0.0.0 gzaqwebtipm.com
 0.0.0.0 h2aek6rv0ard.com
 0.0.0.0 h74v6kerf.com
+0.0.0.0 hai8g.com
 0.0.0.0 hailstonefatherinlawsuggestions.com
 0.0.0.0 hairsromance.com
 0.0.0.0 hammerhearing.com
@@ -16425,6 +16437,7 @@
 0.0.0.0 jailbulb.com
 0.0.0.0 jailorscoman.cfd
 0.0.0.0 jaiporukodaisa.com
+0.0.0.0 jappkummodah.in
 0.0.0.0 jarvispopsu.com
 0.0.0.0 jatxt.com
 0.0.0.0 jcount.com
@@ -16450,6 +16463,7 @@
 0.0.0.0 joudauhee.com
 0.0.0.0 jouteetu.net
 0.0.0.0 jouwaikekaivep.net
+0.0.0.0 jqvhnbxtwze.com
 0.0.0.0 js.mbidadm.com
 0.0.0.0 js.wpncdn.com
 0.0.0.0 js.wpnjs.com
@@ -16482,6 +16496,7 @@
 0.0.0.0 kiynew.com
 0.0.0.0 kjdvn1340-ads.blogspot.com
 0.0.0.0 klclick1.com
+0.0.0.0 klik.blog
 0.0.0.0 kliks.nl
 0.0.0.0 klsdee.com
 0.0.0.0 kmfwrqdp.com
@@ -16511,6 +16526,7 @@
 0.0.0.0 kuqfudazkn.com
 0.0.0.0 kvkaa.com
 0.0.0.0 kw3y5otoeuniv7e9rsi.com
+0.0.0.0 kykay.com
 0.0.0.0 kzuocxorfo.com
 0.0.0.0 laceassumestatic.com
 0.0.0.0 lactolwant.com
@@ -16623,6 +16639,7 @@
 0.0.0.0 magnetic.com
 0.0.0.0 magnite.com
 0.0.0.0 mahoganyproductthat.com
+0.0.0.0 maidthereuponblacken.com
 0.0.0.0 makafdsugxco.com
 0.0.0.0 malatiswirled.com
 0.0.0.0 maltunfaithfulpredominant.com
@@ -16916,6 +16933,7 @@
 0.0.0.0 nonpareilanticipatedintention.com
 0.0.0.0 nonstoppartner.net
 0.0.0.0 noolt.com
+0.0.0.0 northeasternobstinatedevelop.com
 0.0.0.0 nossairt.net
 0.0.0.0 notifysrv.com
 0.0.0.0 notix.io
@@ -17312,6 +17330,7 @@
 0.0.0.0 ptichoolsougn.net
 0.0.0.0 ptipsixo.com
 0.0.0.0 ptoushoa.com
+0.0.0.0 pttuzodqkbgv.com
 0.0.0.0 ptuzrywmega.com
 0.0.0.0 pu3.biz
 0.0.0.0 pu4.biz
@@ -17417,6 +17436,7 @@
 0.0.0.0 rapleaf.com
 0.0.0.0 raresummer.com
 0.0.0.0 rate.ru
+0.0.0.0 rb.rhussvelter.com
 0.0.0.0 rcvlink.com
 0.0.0.0 rdr.wargaming.net
 0.0.0.0 reachjunction.com
@@ -17452,6 +17472,7 @@
 0.0.0.0 reedunpack.com
 0.0.0.0 referralware.com
 0.0.0.0 refersion.com
+0.0.0.0 reffpa.com
 0.0.0.0 reflushneuma.com
 0.0.0.0 refnippod.com
 0.0.0.0 refpa4293501.top

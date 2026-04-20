@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 09 Apr 2026 09:58 UTC+7
-# Version: 2604090958
-# Blocked: 4.936 domains
+# Last modified: 20 Apr 2026 14:37 UTC+7
+# Version: 2604201437
+# Blocked: 4.937 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -616,6 +616,7 @@
 0.0.0.0 dangkyvay-bank247.net
 0.0.0.0 dangkyvaybidv.com
 0.0.0.0 dangnhaphoso.com
+0.0.0.0 danntri.com
 0.0.0.0 dantri.live
 0.0.0.0 dantrii.info
 0.0.0.0 daohannganhang.click
@@ -846,6 +847,7 @@
 0.0.0.0 facebook.c0m.ltd
 0.0.0.0 facebook10002158.blogspot.com
 0.0.0.0 facebook111258.blogspot.com
+0.0.0.0 facebook111829.blogspot.com
 0.0.0.0 facebook4288062.blogspot.com
 0.0.0.0 facebook60118.blogspot.com
 0.0.0.0 facebook62747.blogspot.com
@@ -4184,7 +4186,6 @@
 0.0.0.0 vietcombank.money
 0.0.0.0 vietcombank.one
 0.0.0.0 vietcombank.top
-0.0.0.0 vietcombank.top.com.vn
 0.0.0.0 vietcombank.vn-cn.xyz
 0.0.0.0 vietcombank.vn-dll.vip
 0.0.0.0 vietcombank.vn-jss.vip
