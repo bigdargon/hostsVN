@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 20 Apr 2026 14:37 UTC+7
-# Version: 2604201437
-# Blocked: 3.329 domains
+# Last modified: 21 Apr 2026 14:09 UTC+7
+# Version: 2604211409
+# Blocked: 3.331 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1074,6 +1074,7 @@
 0.0.0.0 hitclub.cafe
 0.0.0.0 hitclub.com
 0.0.0.0 hitclub.in
+0.0.0.0 hitclub.lc
 0.0.0.0 hitclub.pro
 0.0.0.0 hitclub.salon
 0.0.0.0 hitclub.so
@@ -2440,6 +2441,7 @@
 0.0.0.0 trang188vn.com
 0.0.0.0 trangchu.life
 0.0.0.0 trangkeo.com
+0.0.0.0 trochoidonclub.online
 0.0.0.0 trochoivuaclub.online
 0.0.0.0 tructiepdaga.info
 0.0.0.0 tt128.net
