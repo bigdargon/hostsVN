@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 22 Apr 2026 10:51 UTC+7
-! Version: 2604221051
-! Blocked: 2.923 rules
+! Last modified: 22 Apr 2026 15:11 UTC+7
+! Version: 2604221511
+! Blocked: 2.927 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -35,6 +35,7 @@
 ||11bet.vin^
 ||11bet.win^
 ||11betvnd.com^
+||11win.llc^
 ||11win.mobi^
 ||11win.mx^
 ||11win.net^
@@ -1949,6 +1950,7 @@
 ||play.top88.us^
 ||play.top88.vn^
 ||play.vaob52.click^
+||play.vic.hair^
 ||play.vip79.top^
 ||play.win79.vip^
 ||play.win79d.com^
@@ -2484,6 +2486,7 @@
 ||tx88.fun^
 ||tx88.fyi^
 ||tx88.in^
+||tx88.llc^
 ||tx88.top^
 ||tydo88.com^
 ||tz.bet20.bet^
@@ -2562,6 +2565,7 @@
 ||vi.oppa888.com^
 ||vi68.org^
 ||vibet.com^
+||vic.hair^
 ||vic.win^
 ||vic88.com^
 ||vic88.net^
