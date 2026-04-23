@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 22 Apr 2026 15:11 UTC+7
-# Version: 2604221511
-# Blocked: 3.361 domains
+# Last modified: 23 Apr 2026 14:57 UTC+7
+# Version: 2604231457
+# Blocked: 3.364 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1943,6 +1943,7 @@
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
 0.0.0.0 play.top88.vn
+0.0.0.0 play.topclub.casa
 0.0.0.0 play.vaob52.click
 0.0.0.0 play.vic.hair
 0.0.0.0 play.vip79.top
@@ -2452,6 +2453,8 @@
 0.0.0.0 top88.vn
 0.0.0.0 topbet.net
 0.0.0.0 topbet.top
+0.0.0.0 topclub.casa
+0.0.0.0 topclub.win
 0.0.0.0 topdoithuong.net
 0.0.0.0 topgamebai.biz
 0.0.0.0 topnohu.com
