@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 05 May 2026 14:51 UTC+7
-! Version: 2605051451
-! Blocked: 2.952 rules
+! Last modified: 13 May 2026 11:10 UTC+7
+! Version: 2605131110
+! Blocked: 2.965 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -115,6 +115,7 @@
 ||3bet.tech^
 ||3bet.vc^
 ||3bet.win^
+||3bet.you^
 ||3kingclub.com^
 ||448kbet.com^
 ||5123b.com^
@@ -464,6 +465,7 @@
 ||ball88.app^
 ||ball88.com^
 ||ball88.fun^
+||ball88.mobi^
 ||ball88.to^
 ||banca.cc^
 ||banca.xo68.vip^
@@ -743,6 +745,7 @@
 ||debet.top^
 ||debet.uk^
 ||debet.us^
+||debet.vg^
 ||debet.win^
 ||debet79.info^
 ||debet88.win^
@@ -924,6 +927,7 @@
 ||five-88.link^
 ||five88.biz^
 ||five88.com^
+||five88.in^
 ||five88.net^
 ||five88.sale^
 ||five88.show^
@@ -1001,6 +1005,7 @@
 ||gemwin.to^
 ||gemwin.tv^
 ||gemwin.vc^
+||gemwin.vin^
 ||gemwin.vip^
 ||gen88.com^
 ||gi8.us^
@@ -1097,6 +1102,7 @@
 ||hitclub.in^
 ||hitclub.lc^
 ||hitclub.lt^
+||hitclub.lv^
 ||hitclub.pro^
 ||hitclub.salon^
 ||hitclub.si^
@@ -1655,6 +1661,7 @@
 ||m1.ball88.app^
 ||m1.ball88.com^
 ||m1.ball88.fun^
+||m1.ball88.mobi^
 ||m1.ball88.to^
 ||m1.fm88.com^
 ||m1.max88.vip^
@@ -1849,6 +1856,7 @@
 ||nhat.game^
 ||nhat.it^
 ||nhat.one^
+||nhat.sx^
 ||nhat.vip^
 ||nhat1.club^
 ||nhat9.vip^
@@ -2160,10 +2168,12 @@
 ||sk.ball88.app^
 ||sk.ball88.com^
 ||sk.ball88.fun^
+||sk.ball88.mobi^
 ||sk.ball88.to^
 ||sk.debet.cx^
 ||sk.debet.gs^
 ||sk.debet.lc^
+||sk.debet.vg^
 ||sk.fm88.com^
 ||sk.sin88.ms^
 ||sk.sin88.tw^
@@ -2304,6 +2314,7 @@
 ||sv88.club^
 ||sv88.com^
 ||sv88.in^
+||sv88.lv^
 ||sv88.vin^
 ||sv88.vip^
 ||sv88.vu^
@@ -2533,6 +2544,7 @@
 ||uytin.8day66.com^
 ||v.fa88.tv^
 ||v.hitclub.in^
+||v.hitclub.lv^
 ||v.hitclub.si^
 ||v.hitclub.tv^
 ||v.nhat9.vip^
@@ -2953,6 +2965,7 @@
 ||zoplay.top^
 ||zowin.bh^
 ||zowin.im^
+||zowin.is^
 ||zowin.red^
 ||zowin.sh^
 ||zowin.sx^

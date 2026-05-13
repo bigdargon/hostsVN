@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 May 2026 09:24 UTC+7
-! Version: 2605070924
-! Blocked: 8.211 rules
+! Last modified: 13 May 2026 11:10 UTC+7
+! Version: 2605131110
+! Blocked: 8.242 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2114,12 +2114,14 @@
 ||llxads.com^
 ||loader-cdn.azureedge.net^
 ||localytics.com^
+||log-boot.capcutapi.com^
 ||log-hl.snssdk.com^
 ||log-sg.capcutapi.com^
 ||log-tb.isnssdk.com^
 ||log-tb.sgsnssdk.com^
 ||log-upload-os.hoyolab.com^
 ||log-upload-os.hoyoverse.com^
+||log-v2-boot.capcutapi.com^
 ||log-verify.mob.com^
 ||log.aliyuncs.com^
 ||log.api.useinsider.com^
@@ -2137,9 +2139,13 @@
 ||log.tpns.gz2.tencent.com^
 ||log.tpns.tencent.com^
 ||log1.cmpassport.com^
+||log16-normal-sg.capcutapi.com^
 ||log16-normal-us-ttp.capcutapi.us^
+||log16-normal.capcutapi.com^
 ||log2.cmpassport.com^
 ||log2.spotify.com^
+||log32-normal-sg.capcutapi.com^
+||log32-normal.capcutapi.com^
 ||logapi.tv.naver.com^
 ||logbak.hicloud.com^
 ||logger.applovefrom.com^
@@ -2202,8 +2208,10 @@
 ||mcs-ie.tiktokw.eu^
 ||mcs-ie2.tiktokw.eu^
 ||mcs-sg.tiktok.com^
+||mcs-v2-boot.capcutapi.com^
 ||mcs-va.capcutapi.com^
 ||mcs-va.tiktokv.com^
+||mcs.capcutapi.us^
 ||mcs.snssdk.com^
 ||mcs.tiktokv.us^
 ||mcs.tiktokw.us^
@@ -2286,6 +2294,7 @@
 ||modoro360.com^
 ||moduleanalysis.aliexpress.com^
 ||mon-sg.capcutapi.com^
+||mon-v2-boot.capcutapi.com^
 ||mon-va.capcutapi.com^
 ||mon.capcutapi.us^
 ||mon.isnssdk.com^
@@ -2293,7 +2302,9 @@
 ||mon.tiktokv.com^
 ||mon.us.tiktokv.com^
 ||mon.zijieapi.com^
+||mon16-normal-sg.capcutapi.com^
 ||mon16-normal-us-ttp.capcutapi.us^
+||mon32-normal-sg.capcutapi.com^
 ||mondiad.net^
 ||mookie1.com^
 ||mopub.com^
@@ -2308,9 +2319,17 @@
 ||mparticle.com^
 ||msga.cupid.iqiyi.com^
 ||msgapp.com^
+||mssdk-boot.capcutapi.com^
+||mssdk-sg.capcutapi.com^
+||mssdk-v2-boot.capcutapi.com^
 ||mssdk.capcutapi.us^
 ||mssdk.tiktokw.eu^
 ||mssdk.tiktokw.us^
+||mssdk16-normal-sg.capcutapi.com^
+||mssdk16-normal-us-ttp.capcutapi.us^
+||mssdk16-normal.capcutapi.com^
+||mssdk32-normal-sg.capcutapi.com^
+||mssdk32-normal.capcutapi.com^
 ||mstorer.net^
 ||mtgglobals.com^
 ||mtrace.qq.com^
@@ -2407,7 +2426,11 @@
 ||partners.agoda.com^
 ||pbbl.co^
 ||pbstck.com^
+||pc-mon-boot.capcutapi.com^
+||pc-mon-normal-sg.capcutapi.com^
+||pc-mon-v2-boot.capcutapi.com^
 ||pc-mon.zijieapi.com^
+||pc-mon16-normal-us-ttp.capcutapi.us^
 ||pcapp-data-collect.youku.com^
 ||pclick.yahoo.com^
 ||pclk.name^
@@ -2805,6 +2828,7 @@
 ||tlog.hiido.com^
 ||tnc-boot.capcutapi.com^
 ||tnc-sg.capcutapi.com^
+||tnc-v2-boot.capcutapi.com^
 ||tnc16-alisg.isnssdk.com^
 ||tnc16-normal-us-ttp.capcutapi.us^
 ||tns-counter.ru^
@@ -5035,6 +5059,7 @@
 ||down.nishuoa.com^
 ||downstairsnegotiatebarren.com^
 ||dozubatan.com^
+||dpjf9a2rbjbvp.cloudfront.net^
 ||dpuplet.net^
 ||dq3yxnlzwhcys.cloudfront.net^
 ||dq95d35.com^
@@ -5056,6 +5081,7 @@
 ||dummieseardrum.com^
 ||dustyhammer.com^
 ||dxgo95ahe73e8.cloudfront.net^
+||dxtnqglxrio.com^
 ||dynamicadx.com^
 ||dynatrace.com^
 ||dynspt.com^
@@ -7017,6 +7043,7 @@
 ||rmmjy.rrbzvmklrzwmk.top^
 ||rmvla.rrqwarwrewrlj.top^
 ||rndskittytor.com^
+||rnofuxgaz.com^
 ||roacheenazak.com^
 ||roar.com^
 ||rochesterdata.com^
@@ -7150,6 +7177,7 @@
 ||selfcampaign.com^
 ||selfishsnake.com^
 ||semantiqo.com^
+||semi-evergreenincandescetest.com^
 ||senddroid.com^
 ||sensenetworks.com^
 ||sensorpluck.com^
@@ -7442,6 +7470,7 @@
 ||supertop100.com^
 ||superxxxfree.com^
 ||suphelper.com^
+||suppressedtrophy.com^
 ||surecheapermoisture.com^
 ||surfmusik-adserver.de^
 ||suriflowers.com^
@@ -8086,6 +8115,7 @@
 ||wt-eu02.net^
 ||wt.soundestlink.com^
 ||wtlive.com^
+||wucdrynukof.in^
 ||wurfl.io^
 ||wuzbhjpvsf.com^
 ||wvhba6470p.com^
@@ -8206,6 +8236,7 @@
 ||zovidree.com^
 ||ztumuvofzbfe.com^
 ||zucoagorsout.com^
+||zuieggzsdlo.com^
 ||zumdivdwug.com^
 ||zumobi.com^
 ||zumrieth.com^

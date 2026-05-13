@@ -2107,12 +2107,14 @@ payload:
   - DOMAIN-SUFFIX,llxads.com
   - DOMAIN-SUFFIX,loader-cdn.azureedge.net
   - DOMAIN-SUFFIX,localytics.com
+  - DOMAIN-SUFFIX,log-boot.capcutapi.com
   - DOMAIN-SUFFIX,log-hl.snssdk.com
   - DOMAIN-SUFFIX,log-sg.capcutapi.com
   - DOMAIN-SUFFIX,log-tb.isnssdk.com
   - DOMAIN-SUFFIX,log-tb.sgsnssdk.com
   - DOMAIN-SUFFIX,log-upload-os.hoyolab.com
   - DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+  - DOMAIN-SUFFIX,log-v2-boot.capcutapi.com
   - DOMAIN-SUFFIX,log-verify.mob.com
   - DOMAIN-SUFFIX,log.aliyuncs.com
   - DOMAIN-SUFFIX,log.api.useinsider.com
@@ -2130,9 +2132,13 @@ payload:
   - DOMAIN-SUFFIX,log.tpns.gz2.tencent.com
   - DOMAIN-SUFFIX,log.tpns.tencent.com
   - DOMAIN-SUFFIX,log1.cmpassport.com
+  - DOMAIN-SUFFIX,log16-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,log16-normal-us-ttp.capcutapi.us
+  - DOMAIN-SUFFIX,log16-normal.capcutapi.com
   - DOMAIN-SUFFIX,log2.cmpassport.com
   - DOMAIN-SUFFIX,log2.spotify.com
+  - DOMAIN-SUFFIX,log32-normal-sg.capcutapi.com
+  - DOMAIN-SUFFIX,log32-normal.capcutapi.com
   - DOMAIN-SUFFIX,logapi.tv.naver.com
   - DOMAIN-SUFFIX,logbak.hicloud.com
   - DOMAIN-SUFFIX,logger.applovefrom.com
@@ -2195,8 +2201,10 @@ payload:
   - DOMAIN-SUFFIX,mcs-ie.tiktokw.eu
   - DOMAIN-SUFFIX,mcs-ie2.tiktokw.eu
   - DOMAIN-SUFFIX,mcs-sg.tiktok.com
+  - DOMAIN-SUFFIX,mcs-v2-boot.capcutapi.com
   - DOMAIN-SUFFIX,mcs-va.capcutapi.com
   - DOMAIN-SUFFIX,mcs-va.tiktokv.com
+  - DOMAIN-SUFFIX,mcs.capcutapi.us
   - DOMAIN-SUFFIX,mcs.snssdk.com
   - DOMAIN-SUFFIX,mcs.tiktokv.us
   - DOMAIN-SUFFIX,mcs.tiktokw.us
@@ -2279,6 +2287,7 @@ payload:
   - DOMAIN-SUFFIX,modoro360.com
   - DOMAIN-SUFFIX,moduleanalysis.aliexpress.com
   - DOMAIN-SUFFIX,mon-sg.capcutapi.com
+  - DOMAIN-SUFFIX,mon-v2-boot.capcutapi.com
   - DOMAIN-SUFFIX,mon-va.capcutapi.com
   - DOMAIN-SUFFIX,mon.capcutapi.us
   - DOMAIN-SUFFIX,mon.isnssdk.com
@@ -2286,7 +2295,9 @@ payload:
   - DOMAIN-SUFFIX,mon.tiktokv.com
   - DOMAIN-SUFFIX,mon.us.tiktokv.com
   - DOMAIN-SUFFIX,mon.zijieapi.com
+  - DOMAIN-SUFFIX,mon16-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,mon16-normal-us-ttp.capcutapi.us
+  - DOMAIN-SUFFIX,mon32-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,mondiad.net
   - DOMAIN-SUFFIX,mookie1.com
   - DOMAIN-SUFFIX,mopub.com
@@ -2301,9 +2312,17 @@ payload:
   - DOMAIN-SUFFIX,mparticle.com
   - DOMAIN-SUFFIX,msga.cupid.iqiyi.com
   - DOMAIN-SUFFIX,msgapp.com
+  - DOMAIN-SUFFIX,mssdk-boot.capcutapi.com
+  - DOMAIN-SUFFIX,mssdk-sg.capcutapi.com
+  - DOMAIN-SUFFIX,mssdk-v2-boot.capcutapi.com
   - DOMAIN-SUFFIX,mssdk.capcutapi.us
   - DOMAIN-SUFFIX,mssdk.tiktokw.eu
   - DOMAIN-SUFFIX,mssdk.tiktokw.us
+  - DOMAIN-SUFFIX,mssdk16-normal-sg.capcutapi.com
+  - DOMAIN-SUFFIX,mssdk16-normal-us-ttp.capcutapi.us
+  - DOMAIN-SUFFIX,mssdk16-normal.capcutapi.com
+  - DOMAIN-SUFFIX,mssdk32-normal-sg.capcutapi.com
+  - DOMAIN-SUFFIX,mssdk32-normal.capcutapi.com
   - DOMAIN-SUFFIX,mstorer.net
   - DOMAIN-SUFFIX,mtgglobals.com
   - DOMAIN-SUFFIX,mtrace.qq.com
@@ -2400,7 +2419,11 @@ payload:
   - DOMAIN-SUFFIX,partners.agoda.com
   - DOMAIN-SUFFIX,pbbl.co
   - DOMAIN-SUFFIX,pbstck.com
+  - DOMAIN-SUFFIX,pc-mon-boot.capcutapi.com
+  - DOMAIN-SUFFIX,pc-mon-normal-sg.capcutapi.com
+  - DOMAIN-SUFFIX,pc-mon-v2-boot.capcutapi.com
   - DOMAIN-SUFFIX,pc-mon.zijieapi.com
+  - DOMAIN-SUFFIX,pc-mon16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,pcapp-data-collect.youku.com
   - DOMAIN-SUFFIX,pclick.yahoo.com
   - DOMAIN-SUFFIX,pclk.name
@@ -2798,6 +2821,7 @@ payload:
   - DOMAIN-SUFFIX,tlog.hiido.com
   - DOMAIN-SUFFIX,tnc-boot.capcutapi.com
   - DOMAIN-SUFFIX,tnc-sg.capcutapi.com
+  - DOMAIN-SUFFIX,tnc-v2-boot.capcutapi.com
   - DOMAIN-SUFFIX,tnc16-alisg.isnssdk.com
   - DOMAIN-SUFFIX,tnc16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,tns-counter.ru
@@ -5028,6 +5052,7 @@ payload:
   - DOMAIN-SUFFIX,down.nishuoa.com
   - DOMAIN-SUFFIX,downstairsnegotiatebarren.com
   - DOMAIN-SUFFIX,dozubatan.com
+  - DOMAIN-SUFFIX,dpjf9a2rbjbvp.cloudfront.net
   - DOMAIN-SUFFIX,dpuplet.net
   - DOMAIN-SUFFIX,dq3yxnlzwhcys.cloudfront.net
   - DOMAIN-SUFFIX,dq95d35.com
@@ -5049,6 +5074,7 @@ payload:
   - DOMAIN-SUFFIX,dummieseardrum.com
   - DOMAIN-SUFFIX,dustyhammer.com
   - DOMAIN-SUFFIX,dxgo95ahe73e8.cloudfront.net
+  - DOMAIN-SUFFIX,dxtnqglxrio.com
   - DOMAIN-SUFFIX,dynamicadx.com
   - DOMAIN-SUFFIX,dynatrace.com
   - DOMAIN-SUFFIX,dynspt.com
@@ -7010,6 +7036,7 @@ payload:
   - DOMAIN-SUFFIX,rmmjy.rrbzvmklrzwmk.top
   - DOMAIN-SUFFIX,rmvla.rrqwarwrewrlj.top
   - DOMAIN-SUFFIX,rndskittytor.com
+  - DOMAIN-SUFFIX,rnofuxgaz.com
   - DOMAIN-SUFFIX,roacheenazak.com
   - DOMAIN-SUFFIX,roar.com
   - DOMAIN-SUFFIX,rochesterdata.com
@@ -7143,6 +7170,7 @@ payload:
   - DOMAIN-SUFFIX,selfcampaign.com
   - DOMAIN-SUFFIX,selfishsnake.com
   - DOMAIN-SUFFIX,semantiqo.com
+  - DOMAIN-SUFFIX,semi-evergreenincandescetest.com
   - DOMAIN-SUFFIX,senddroid.com
   - DOMAIN-SUFFIX,sensenetworks.com
   - DOMAIN-SUFFIX,sensorpluck.com
@@ -7435,6 +7463,7 @@ payload:
   - DOMAIN-SUFFIX,supertop100.com
   - DOMAIN-SUFFIX,superxxxfree.com
   - DOMAIN-SUFFIX,suphelper.com
+  - DOMAIN-SUFFIX,suppressedtrophy.com
   - DOMAIN-SUFFIX,surecheapermoisture.com
   - DOMAIN-SUFFIX,surfmusik-adserver.de
   - DOMAIN-SUFFIX,suriflowers.com
@@ -8079,6 +8108,7 @@ payload:
   - DOMAIN-SUFFIX,wt-eu02.net
   - DOMAIN-SUFFIX,wt.soundestlink.com
   - DOMAIN-SUFFIX,wtlive.com
+  - DOMAIN-SUFFIX,wucdrynukof.in
   - DOMAIN-SUFFIX,wurfl.io
   - DOMAIN-SUFFIX,wuzbhjpvsf.com
   - DOMAIN-SUFFIX,wvhba6470p.com
@@ -8199,6 +8229,7 @@ payload:
   - DOMAIN-SUFFIX,zovidree.com
   - DOMAIN-SUFFIX,ztumuvofzbfe.com
   - DOMAIN-SUFFIX,zucoagorsout.com
+  - DOMAIN-SUFFIX,zuieggzsdlo.com
   - DOMAIN-SUFFIX,zumdivdwug.com
   - DOMAIN-SUFFIX,zumobi.com
   - DOMAIN-SUFFIX,zumrieth.com
