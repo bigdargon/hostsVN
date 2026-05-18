@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 May 2026 11:10 UTC+7
-# Version: 2605131110
-# Blocked: 65.145 domains
+# Last modified: 18 May 2026 16:42 UTC+7
+# Version: 2605181642
+# Blocked: 65.146 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -58812,6 +58812,7 @@
 0.0.0.0 vnc9.com
 0.0.0.0 vnc99.vip
 0.0.0.0 vnclub88.live
+0.0.0.0 vnd-789.net
 0.0.0.0 vnd33.com
 0.0.0.0 vnd44.com
 0.0.0.0 vnd789.io
