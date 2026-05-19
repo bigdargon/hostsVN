@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 18 May 2026 16:42 UTC+7
-! Version: 2605181642
-! Blocked: 2.965 rules
+! Last modified: 19 May 2026 11:13 UTC+7
+! Version: 2605191113
+! Blocked: 2.966 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2518,6 +2518,7 @@
 ||tx88.fun^
 ||tx88.fyi^
 ||tx88.in^
+||tx88.ing^
 ||tx88.llc^
 ||tx88.top^
 ||tydo88.com^

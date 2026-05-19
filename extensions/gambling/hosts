@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 18 May 2026 16:42 UTC+7
-# Version: 2605181642
-# Blocked: 65.146 domains
+# Last modified: 19 May 2026 11:13 UTC+7
+# Version: 2605191113
+# Blocked: 65.147 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -57034,6 +57034,7 @@
 0.0.0.0 tx88.fun
 0.0.0.0 tx88.fyi
 0.0.0.0 tx88.in
+0.0.0.0 tx88.ing
 0.0.0.0 tx88.llc
 0.0.0.0 tx88.top
 0.0.0.0 tx88.vip
