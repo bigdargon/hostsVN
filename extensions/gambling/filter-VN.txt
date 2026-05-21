@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 19 May 2026 11:13 UTC+7
-! Version: 2605191113
-! Blocked: 2.966 rules
+! Last modified: 21 May 2026 10:24 UTC+7
+! Version: 2605211024
+! Blocked: 2.976 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -222,6 +222,8 @@
 ||88bong.net^
 ||88cado.com^
 ||88cado.net^
+||88clb.app^
+||88clb.fit^
 ||88gobet.com^
 ||88new.cc^
 ||88online.live^
@@ -289,6 +291,10 @@
 ||9bet.win^
 ||9bet.world^
 ||9e3c.com^
+||abc8.cm^
+||abc8.cv^
+||abcvip.com^
+||abcvip.in^
 ||account.w88ac.com^
 ||account.w88club.com^
 ||account.w88hn.com^
@@ -1912,6 +1918,7 @@
 ||one88.win^
 ||onevegas.com^
 ||ooooooo2.com^
+||open88.com^
 ||oppa888.com^
 ||oppa88888888.com^
 ||oppo96.com^
@@ -2523,6 +2530,8 @@
 ||tx88.top^
 ||tydo88.com^
 ||tz.bet20.bet^
+||u888.cc^
+||u888.id^
 ||ud1a.com^
 ||udw87.cc^
 ||udw881.cc^
@@ -2642,6 +2651,7 @@
 ||vk88.com^
 ||vlott88.com^
 ||vn-lm.jbovietnam.com^
+||vn.abcvip.in^
 ||vn.app^
 ||vn.ku6101.net^
 ||vn.ku6106.net^
