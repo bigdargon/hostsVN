@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 22 May 2026 15:14 UTC+7
-# Version: 2605221514
-# Blocked: 3.439 domains
+# Last modified: 25 May 2026 13:46 UTC+7
+# Version: 2605251346
+# Blocked: 3.446 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -933,6 +933,7 @@
 0.0.0.0 five-88.link
 0.0.0.0 five88.biz
 0.0.0.0 five88.com
+0.0.0.0 five88.id
 0.0.0.0 five88.in
 0.0.0.0 five88.lc
 0.0.0.0 five88.net
@@ -1676,6 +1677,7 @@
 0.0.0.0 m1.may88d.com
 0.0.0.0 m1.tin88.bet
 0.0.0.0 m1.vin88.net
+0.0.0.0 m1.vin88.pw
 0.0.0.0 m1.vin88.vin
 0.0.0.0 m1.vin88.vip
 0.0.0.0 m1.xibet.fun
@@ -2194,6 +2196,7 @@
 0.0.0.0 sk.tin88.club
 0.0.0.0 sk.tin88.in
 0.0.0.0 sk.vin88.net
+0.0.0.0 sk.vin88.pw
 0.0.0.0 sk.vin88.vin
 0.0.0.0 sk.vin88.vip
 0.0.0.0 sk.xibet.com
@@ -2632,6 +2635,7 @@
 0.0.0.0 vin88.com
 0.0.0.0 vin88.moi
 0.0.0.0 vin88.net
+0.0.0.0 vin88.pw
 0.0.0.0 vin88.sx
 0.0.0.0 vin88.top
 0.0.0.0 vin88.tv
@@ -2655,6 +2659,7 @@
 0.0.0.0 vipsodo.top
 0.0.0.0 viva88.com
 0.0.0.0 viva88.net
+0.0.0.0 vivu88.cc
 0.0.0.0 vivu88.com
 0.0.0.0 vivu88.net
 0.0.0.0 vk88.com
@@ -2835,6 +2840,7 @@
 0.0.0.0 web.sunwin.pro
 0.0.0.0 web.topzo.com
 0.0.0.0 web.win79.moi
+0.0.0.0 web.win79.vg
 0.0.0.0 web.yo88.is
 0.0.0.0 web.yo88.ml
 0.0.0.0 web.yo88.so
@@ -2859,6 +2865,7 @@
 0.0.0.0 win79.moi
 0.0.0.0 win79.pro
 0.0.0.0 win79.site
+0.0.0.0 win79.vg
 0.0.0.0 win79.vip
 0.0.0.0 win79a.com
 0.0.0.0 win79d.com
