@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 25 May 2026 13:46 UTC+7
-! Version: 2605251346
-! Blocked: 3.012 rules
+! Last modified: 26 May 2026 14:34 UTC+7
+! Version: 2605261434
+! Blocked: 3.017 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -408,6 +408,7 @@
 ||api.oppa88888888.com^
 ||api.red88.club^
 ||api.red88.com^
+||api.red88.ml^
 ||api.red88.vip^
 ||api.shbet3.com^
 ||api.shbetvv.com^
@@ -648,6 +649,7 @@
 ||connhangheo.top^
 ||coopbet.com^
 ||corona999.com^
+||cungv9choi.com^
 ||cuoc88.net^
 ||cuoc8899.com^
 ||cuocba.com^
@@ -2074,6 +2076,7 @@
 ||record.income88.com^
 ||red88.club^
 ||red88.com^
+||red88.ml^
 ||red88.top^
 ||red88.tv^
 ||red88.us^
@@ -2239,6 +2242,7 @@
 ||sock.nbet.vin^
 ||sock.red88.club^
 ||sock.red88.com^
+||sock.red88.ml^
 ||sock.red88.vip^
 ||sock.sky88.club^
 ||sock.sky88.com^
@@ -2914,6 +2918,7 @@
 ||wp.nbet.vin^
 ||wp.red88.club^
 ||wp.red88.com^
+||wp.red88.ml^
 ||wp.red88.vip^
 ||wp.rikvip.tv^
 ||wp.sky88.club^
