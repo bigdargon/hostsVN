@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 May 2026 09:35 UTC+7
-# Version: 2605270935
-# Blocked: 17.760 domains
+# Last modified: 29 May 2026 13:53 UTC+7
+# Version: 2605291353
+# Blocked: 17.784 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12210,6 +12210,25 @@
 0.0.0.0 guoshipartners.com
 0.0.0.0 ad-specs.guoshipartners.com
 0.0.0.0 www.guoshipartners.com
+#[smadex.com]
+0.0.0.0 smadex.com
+0.0.0.0 bl-bm.smadex.com
+0.0.0.0 bm-ec1.smadex.com
+0.0.0.0 bm-use1.smadex.com
+0.0.0.0 br-trk.smadex.com
+0.0.0.0 bw-trk.smadex.com
+0.0.0.0 cm.smadex.com
+0.0.0.0 content.smadex.com
+0.0.0.0 cr-err.smadex.com
+0.0.0.0 creatives.smadex.com
+0.0.0.0 ee-trk.smadex.com
+0.0.0.0 geo-tracker.smadex.com
+0.0.0.0 pixel-ed.smadex.com
+0.0.0.0 static-content-1.smadex.com
+0.0.0.0 statics.prd.cdn.g.smadex.com
+0.0.0.0 statics.smadex.com
+0.0.0.0 va-trk.smadex.com
+0.0.0.0 www.smadex.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14215,6 +14234,8 @@
 0.0.0.0 79xmz3lmss.com
 0.0.0.0 7ca78m3csgbrid7ge.com
 0.0.0.0 864feb57ruary.com
+0.0.0.0 940functions.net
+0.0.0.0 970vantage.net
 0.0.0.0 999.money
 0.0.0.0 9gg23.com
 0.0.0.0 a.mktw.net
@@ -15942,6 +15963,7 @@
 0.0.0.0 dulrihaungy.com
 0.0.0.0 dummieseardrum.com
 0.0.0.0 dustyhammer.com
+0.0.0.0 duvnihavrob.in
 0.0.0.0 dxgo95ahe73e8.cloudfront.net
 0.0.0.0 dxtnqglxrio.com
 0.0.0.0 dynamicadx.com
@@ -17494,6 +17516,7 @@
 0.0.0.0 pwmctl.com
 0.0.0.0 pyicbcxvs.com
 0.0.0.0 pyxiscablese.com
+0.0.0.0 pz.mulchimbiber.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 qa-ads.nobid.com
 0.0.0.0 qa.shboshbok.com
@@ -17812,6 +17835,7 @@
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 sitemeter.com
 0.0.0.0 siteoid.com
+0.0.0.0 siweieoyjl.com
 0.0.0.0 sixscissors.com
 0.0.0.0 sixsigmatraffic.com
 0.0.0.0 skimlinks.com
@@ -17822,7 +17846,6 @@
 0.0.0.0 slidbecauseemerald.com
 0.0.0.0 slipheirphysician.com
 0.0.0.0 slushhelmetmirth.com
-0.0.0.0 smadex.com
 0.0.0.0 smallfunnybears.com
 0.0.0.0 smart2cnjuh34jb.com
 0.0.0.0 smart4ads.com
@@ -18457,6 +18480,7 @@
 0.0.0.0 whairtoa.com
 0.0.0.0 whaleads.com
 0.0.0.0 whazugho.com
+0.0.0.0 wheatentricklecover.com
 0.0.0.0 whirlwealth.com
 0.0.0.0 whiskyqueue.com
 0.0.0.0 whispa.com
@@ -18784,6 +18808,7 @@
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.tuoitrau.com
 0.0.0.0 analytics.undrads.com
+0.0.0.0 analytics.wavelz.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.youronlinechoices.com
