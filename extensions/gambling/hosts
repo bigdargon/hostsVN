@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 01 Jun 2026 16:45 UTC+7
-# Version: 2606011645
-# Blocked: 65.287 domains
+# Last modified: 02 Jun 2026 13:35 UTC+7
+# Version: 2606021335
+# Blocked: 65.290 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -41283,6 +41283,7 @@
 0.0.0.0 gvn3.com
 0.0.0.0 gw.gen88.com
 0.0.0.0 gw.mubet.vip
+0.0.0.0 gw.tot88.store
 0.0.0.0 gw.zqvnn.com
 0.0.0.0 gw46.vip
 0.0.0.0 gwfd.katawee.net
@@ -54247,6 +54248,7 @@
 0.0.0.0 s34034.com
 0.0.0.0 s4.gen88.com
 0.0.0.0 s4.mubet.vip
+0.0.0.0 s4.tot88.store
 0.0.0.0 s4166.com
 0.0.0.0 s43439.com
 0.0.0.0 s4424.com
@@ -56882,6 +56884,7 @@
 0.0.0.0 tot111.com
 0.0.0.0 tot222.com
 0.0.0.0 tot88.com
+0.0.0.0 tot88.store
 0.0.0.0 totaltiltsports.com
 0.0.0.0 tote.co.uk
 0.0.0.0 tourghepmienbac.net
