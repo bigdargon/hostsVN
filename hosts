@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 02 Jun 2026 13:35 UTC+7
-# Version: 2606021335
-# Blocked: 17.807 domains
+# Last modified: 03 Jun 2026 14:20 UTC+7
+# Version: 2606031420
+# Blocked: 17.825 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7947,8 +7947,10 @@
 0.0.0.0 www.mouseflow.com
 #[crazyegg.com]
 0.0.0.0 app.crazyegg.com
+0.0.0.0 assets-tracking.crazyegg.com
 0.0.0.0 crazyegg.com
 0.0.0.0 hud.crazyegg.com
+0.0.0.0 pagestates-tracking.crazyegg.com
 0.0.0.0 recording.crazyegg.com
 0.0.0.0 script.crazyegg.com
 0.0.0.0 tracking.crazyegg.com
@@ -12229,6 +12231,15 @@
 0.0.0.0 statics.smadex.com
 0.0.0.0 va-trk.smadex.com
 0.0.0.0 www.smadex.com
+#[adsterra.com]
+0.0.0.0 adsterra.com
+0.0.0.0 ads.adsterra.com
+0.0.0.0 an.adsterra.com
+0.0.0.0 your.adsterra.com
+#[saawsedge.com]
+0.0.0.0 edge-hls.saawsedge.com
+0.0.0.0 saawsedge.com
+0.0.0.0 www.saawsedge.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12252,6 +12263,7 @@
 0.0.0.0 cpm.j.eclick.vn
 0.0.0.0 d.eclick.vn
 0.0.0.0 dmp.eclick.vn
+0.0.0.0 ds.eclick.vn
 0.0.0.0 e.eclick.vn
 0.0.0.0 eclick.vn
 0.0.0.0 emarketing.eclick.vn
@@ -13663,6 +13675,11 @@
 #[engagelab.com]
 0.0.0.0 global-sis.engagelab.com
 0.0.0.0 webpushstat-sgp.engagelab.com
+#[smartads.tech]
+0.0.0.0 smartads.tech
+0.0.0.0 p.smartads.tech
+0.0.0.0 st.smartads.tech
+0.0.0.0 t.smartads.tech
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -14844,7 +14861,7 @@
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adstage.io
 0.0.0.0 adstat.4u.pl
-0.0.0.0 adsterra.com
+0.0.0.0 adsterra.rocks
 0.0.0.0 adstune.com
 0.0.0.0 adsup.togothermany.cn
 0.0.0.0 adsupply.com
@@ -15166,6 +15183,7 @@
 0.0.0.0 awempire.com
 0.0.0.0 aweprt.com
 0.0.0.0 awhilediplomagloss.com
+0.0.0.0 awjojjrimaf.in
 0.0.0.0 awzbijw.com
 0.0.0.0 axdsz.pro
 0.0.0.0 axillovely.com
@@ -15562,6 +15580,7 @@
 0.0.0.0 chl7rysobc3ol6xla.com
 0.0.0.0 choconart.com
 0.0.0.0 choupsee.com
+0.0.0.0 chubbyexemplaryhardiness.com
 0.0.0.0 chyjobopse.pro
 0.0.0.0 chytridaustral.com
 0.0.0.0 cibleclick.com
@@ -16276,6 +16295,7 @@
 0.0.0.0 gnenuelnn.com
 0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
+0.0.0.0 go.bigbang.solutions
 0.0.0.0 go.cuteab.com
 0.0.0.0 go.imkirh.com
 0.0.0.0 go.mavrtracktor.com
@@ -18295,6 +18315,7 @@
 0.0.0.0 ufaexpert.com
 0.0.0.0 ufpcdn.com
 0.0.0.0 ugroocuw.net
+0.0.0.0 ugtflnqn.com
 0.0.0.0 uhealth.care
 0.0.0.0 uhland24.de
 0.0.0.0 uitopadxdy.com

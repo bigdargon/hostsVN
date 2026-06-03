@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 02 Jun 2026 13:35 UTC+7
-! Version: 2606021335
-! Blocked: 3.021 rules
+! Last modified: 03 Jun 2026 14:19 UTC+7
+! Version: 2606031419
+! Blocked: 3.022 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -640,6 +640,7 @@
 ||choiwin79.in^
 ||choiwon88.info^
 ||click.mibet88.com^
+||cm88.com^
 ||cmd368max.com^
 ||cmd368t.com^
 ||cms.v79top.com^

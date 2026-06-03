@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 02 Jun 2026 13:35 UTC+7
-! Version: 2606021335
-! Blocked: 4.372 rules
+! Last modified: 03 Jun 2026 14:19 UTC+7
+! Version: 2606031419
+! Blocked: 4.374 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -185,6 +185,7 @@
 ||apple.support-find-my-iphone.com^
 ||apple.support-maps.live^
 ||applestorevn.com^
+||applevn.com^
 ||appvaytien.vn^
 ||apteka-money.ru^
 ||aquagoat.xyz^
@@ -3229,6 +3230,7 @@
 ||tingiovang777.com^
 ||tingiovangvn.com^
 ||tinhay24h.pro^
+||tinhot247.cc^
 ||tinhot24h.pro^
 ||tinhot24h.website^
 ||tinhothomnay.com^

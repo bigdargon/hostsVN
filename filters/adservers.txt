@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Jun 2026 13:35 UTC+7
-! Version: 2606021335
-! Blocked: 845 rules
+! Last modified: 03 Jun 2026 14:20 UTC+7
+! Version: 2606031420
+! Blocked: 846 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -274,6 +274,7 @@
 ||sharefb.cnnd.vn^
 ||shop-cdn.coccoc.com^
 ||slimads.vn^
+||smartads.tech^
 ||socialloginplus-apps.haravan.com^
 ||sourcetobin.com^
 ||sponsor.imacdn.com^

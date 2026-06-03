@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 02 Jun 2026 13:35 UTC+7
-# Version: 2606021335
-# Blocked: 4.938 domains
+# Last modified: 03 Jun 2026 14:19 UTC+7
+# Version: 2606031419
+# Blocked: 4.940 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -241,6 +241,7 @@
 0.0.0.0 apple.support-maps.live
 0.0.0.0 applecare-icloud.com
 0.0.0.0 applestorevn.com
+0.0.0.0 applevn.com
 0.0.0.0 apps-for-pc.com
 0.0.0.0 appvaytien.vn
 0.0.0.0 apteka-money.ru
@@ -3634,6 +3635,7 @@
 0.0.0.0 tingiovang777.com
 0.0.0.0 tingiovangvn.com
 0.0.0.0 tinhay24h.pro
+0.0.0.0 tinhot247.cc
 0.0.0.0 tinhot24h.pro
 0.0.0.0 tinhot24h.website
 0.0.0.0 tinhothomnay.com
