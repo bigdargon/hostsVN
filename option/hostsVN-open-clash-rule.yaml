@@ -1344,7 +1344,6 @@ payload:
   - DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,app-adforce.jp
   - DOMAIN-SUFFIX,app-ads-services.com
-  - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-analytics-v2.snapchat.com
   - DOMAIN-SUFFIX,app-analytics.snapchat.com
   - DOMAIN-SUFFIX,app-measurement.com
@@ -4099,6 +4098,8 @@ payload:
   - DOMAIN-SUFFIX,apis.appnxt.net
   - DOMAIN-SUFFIX,apoilpnwr.com
   - DOMAIN-SUFFIX,apolloprogram.io
+  - DOMAIN-SUFFIX,app-analytics-services-att.com
+  - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-promo.com
   - DOMAIN-SUFFIX,appboy-images.com
   - DOMAIN-SUFFIX,appclick.net

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 08 Jun 2026 11:10 UTC+7
-! Version: 2606081110
-! Blocked: 8.350 rules
+! Last modified: 08 Jun 2026 16:01 UTC+7
+! Version: 2606081601
+! Blocked: 8.351 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1351,7 +1351,6 @@
 ||apm-log-upload-os.hoyoverse.com^
 ||app-adforce.jp^
 ||app-ads-services.com^
-||app-analytics-services.com^
 ||app-analytics-v2.snapchat.com^
 ||app-analytics.snapchat.com^
 ||app-measurement.com^
@@ -4106,6 +4105,8 @@
 ||apis.appnxt.net^
 ||apoilpnwr.com^
 ||apolloprogram.io^
+||app-analytics-services-att.com^
+||app-analytics-services.com^
 ||app-promo.com^
 ||appboy-images.com^
 ||appclick.net^

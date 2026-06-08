@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 Jun 2026 11:10 UTC+7
-# Version: 2606081110
-# Blocked: 17.870 domains
+# Last modified: 08 Jun 2026 16:01 UTC+7
+# Version: 2606081601
+# Blocked: 17.871 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -230,8 +230,6 @@
 0.0.0.0 app-ads-services.com
 0.0.0.0 odm.app-ads-services.com
 0.0.0.0 www.app-ads-services.com
-#[app-analytics-services.com]
-0.0.0.0 app-analytics-services.com
 #[microsoft.com]
 0.0.0.0 target.microsoft.com
 #[telemetry.microsoft.com]
@@ -18921,6 +18919,8 @@
 0.0.0.0 api.wipmania.com
 0.0.0.0 api2.poperblocker.com
 0.0.0.0 apolloprogram.io
+0.0.0.0 app-analytics-services-att.com
+0.0.0.0 app-analytics-services.com
 0.0.0.0 applog.camera360.com
 0.0.0.0 appres.camera360.com
 0.0.0.0 arc.io

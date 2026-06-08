@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 08 Jun 2026 11:10 UTC+7
-! Version: 2606081110
-! Blocked: 3.022 rules
+! Last modified: 08 Jun 2026 16:01 UTC+7
+! Version: 2606081601
+! Blocked: 3.029 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1137,6 +1137,7 @@
 ||hot51.com^
 ||hotlive.in^
 ||hotlive8.vip^
+||hubet.com^
 ||i.b52.club^
 ||i.go88.ca^
 ||i.go88.com^
@@ -1523,6 +1524,7 @@
 ||kuwin.guide^
 ||kuwinvip.com^
 ||l4.lode88.ai^
+||lc88.men^
 ||ldp-sum.com^
 ||legabet.gay^
 ||leo88.com^
@@ -2075,6 +2077,7 @@
 ||quayso88.com^
 ||quaysogame.com^
 ||quickraiseup.com^
+||racvl.fun^
 ||record.income88.com^
 ||red88.club^
 ||red88.com^
@@ -2110,6 +2113,9 @@
 ||rikvip.win^
 ||royal77vn.com^
 ||rr88.live^
+||rs88.com^
+||rs88.cyou^
+||rs88.vip^
 ||rubik88.com^
 ||rw8800.com^
 ||s.sv66c.com^
@@ -2563,6 +2569,7 @@
 ||tx88.top^
 ||tydo88.com^
 ||tz.bet20.bet^
+||u88.watch^
 ||u888.cc^
 ||u888.id^
 ||ud1a.com^
