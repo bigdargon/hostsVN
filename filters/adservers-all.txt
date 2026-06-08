@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 03 Jun 2026 14:20 UTC+7
-! Version: 2606031420
-! Blocked: 8.317 rules
+! Last modified: 08 Jun 2026 11:10 UTC+7
+! Version: 2606081110
+! Blocked: 8.350 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1503,6 +1503,7 @@
 ||bncloudfl.com^
 ||bodis.com^
 ||boffoadsfeeds.com^
+||bollywoodmenswear.com^
 ||bookmsg.com^
 ||books-analytics-events.apple.com^
 ||boost-next.co.jp^
@@ -1971,6 +1972,7 @@
 ||hookspf.com^
 ||hotjar.com^
 ||hotjar.io^
+||hotrk0.com^
 ||hprofits.com^
 ||hpyrdr.com^
 ||hs-analytics.net^
@@ -2009,6 +2011,7 @@
 ||impactradius-event.com^
 ||impactserving.com^
 ||improvedigital.com^
+||impseeineclots.com^
 ||imrworldwide.com^
 ||imstks.com^
 ||incoming.telemetry.mozilla.org^
@@ -2365,6 +2368,7 @@
 ||nol.yahoo.com^
 ||notes-analytics-events.apple.com^
 ||nr-data.net^
+||nresystems.com^
 ||nrich.ai^
 ||ns1p.net^
 ||nsclick.baidu.com^
@@ -3774,6 +3778,7 @@
 ||adsoss.uqualities.com^
 ||adsponse.de^
 ||adspot.co^
+||adspredictiv.com^
 ||adsrv.deviantart.com^
 ||adstage.io^
 ||adstat.4u.pl^
@@ -4054,6 +4059,7 @@
 ||ancotvpaxoz.com^
 ||android-stat.acestream.net^
 ||anewfeedliberty.com^
+||annihilativefaltermillion.com^
 ||annonser.dagbladet.no^
 ||anrdoezrs.net^
 ||antananarbdivu.com^
@@ -4330,6 +4336,7 @@
 ||berp.com^
 ||beseechprose.com^
 ||besmeargleor.com^
+||best-girls-around.com^
 ||bestadbid.com^
 ||bestadsforyou.com^
 ||bestboundary.com^
@@ -4405,6 +4412,7 @@
 ||bondleapedoasis.com^
 ||bonepa.com^
 ||bonertraffic13.info^
+||bonuscaf.com^
 ||boo-box.com^
 ||boobausauhipsa.net^
 ||bookpostponemoreover.com^
@@ -4470,6 +4478,7 @@
 ||buqkrzbrucz.com^
 ||burkhahemoid.com^
 ||bustslicerstrongbox.com^
+||bustsniffwired.com^
 ||butalksuw9dj10.com^
 ||buyhitscheap.com^
 ||buzzonclick.com^
@@ -4627,6 +4636,8 @@
 ||chyjobopse.pro^
 ||chytridaustral.com^
 ||cibleclick.com^
+||ciderconcluded.com^
+||cidtunppinhi.in^
 ||ciksolre.net^
 ||cilsammwcblcv.com^
 ||citadelpathstatue.com^
@@ -4701,6 +4712,7 @@
 ||clkads.com^
 ||clkdeals.com^
 ||clkrev.com^
+||clladss.com^
 ||clmcom.com^
 ||clobberprocurertightwad.com^
 ||clodderpickmaw.com^
@@ -4854,6 +4866,7 @@
 ||crummydevioussucculent.com^
 ||crumpetprankerstench.com^
 ||crunchybears.com^
+||cruzswim.org^
 ||csdian.net^
 ||csm.cxpublic.com^
 ||csp-reporting.cloudflare.com^
@@ -4950,6 +4963,7 @@
 ||daejyre.com^
 ||dagd0kz7sipfl.cloudfront.net^
 ||dakic-ia-300.com^
+||daleelerah.info^
 ||dalyai.com^
 ||dalyio.com^
 ||dalymix.com^
@@ -4994,6 +5008,7 @@
 ||deehalig.net^
 ||defeatedbadge.com^
 ||deityshovedcarriage.com^
+||deliver.ifxmax.com^
 ||deliver.ptgncdn.com^
 ||deliver.vkcdnservice.com^
 ||deloo.de^
@@ -5013,6 +5028,7 @@
 ||deviatestartblock.com^
 ||devoteegibberishsinister.com^
 ||devpeakomegainnovations.com^
+||df6pt2obl092n.cloudfront.net^
 ||diagramjawlineunhappy.com^
 ||dianomi.com^
 ||dibsemey.com^
@@ -5041,6 +5057,7 @@
 ||dismantlepenantiterrorist.com^
 ||displayadsmedia.com^
 ||displaycontentprofit.com^
+||displayendpointstarring.com^
 ||displayformatcontent.com^
 ||displayvertising.com^
 ||disprovefacilityjolt.com^
@@ -5118,6 +5135,7 @@
 ||dynatrace.com^
 ||dynspt.com^
 ||dyntrk.com^
+||dysenteryanywhere.com^
 ||dyv1bugovvq1g.cloudfront.net^
 ||e-bannerx.com^
 ||e-m.fr^
@@ -5141,6 +5159,7 @@
 ||easy-ads.com^
 ||easygoingasperitydisconnect.com^
 ||easyhits4u.com^
+||easysitelabs.my^
 ||eatablesquare.com^
 ||ebayadvertising.com^
 ||ebetoni.com^
@@ -5372,6 +5391,7 @@
 ||frightenedpotato.com^
 ||frivolousdrinkloss.com^
 ||front.optimonk.com^
+||frs2c.com^
 ||ftte.xyz^
 ||fullstory.com^
 ||functionalcrown.com^
@@ -5681,6 +5701,7 @@
 ||ietyofedinj89yewtburgh.com^
 ||ieyipznx.art^
 ||ifa.tube8live.com^
+||ih.serosaetoher.shop^
 ||ihhqwaurke.com^
 ||iifvcfwiqi.com^
 ||ij.cobolgammed.com^
@@ -5834,6 +5855,7 @@
 ||joudauhee.com^
 ||jouteetu.net^
 ||jouwaikekaivep.net^
+||jpwrashuzfstxc.com^
 ||jqvhnbxtwze.com^
 ||js.go2sdk.com^
 ||js.hscollectedforms.net^
@@ -6315,6 +6337,7 @@
 ||mytdsnet.com^
 ||mythings.com^
 ||mytop-in.net^
+||mz.proxysmjameson.cfd^
 ||mzyvyjsq.com^
 ||n69.com^
 ||na.o18.click^
@@ -6392,6 +6415,7 @@
 ||nitroclicks.com^
 ||niwooghu.com^
 ||nmasyykbucqj.com^
+||nn125.com^
 ||no2veeamggaseber.com^
 ||nobid.io^
 ||noiselessplough.com^
@@ -6651,6 +6675,7 @@
 ||pelagicmismate.com^
 ||pennilesscomingall.com^
 ||pennyweb.com^
+||peoriacommunityagainstviolence.org^
 ||peppaping.xyz^
 ||pepperjamnetwork.com^
 ||peppy2lon1g1stalk.com^
@@ -6933,6 +6958,7 @@
 ||qnp16tstw.com^
 ||qnsr.com^
 ||qo.errorrespan.com^
+||qpizuvmta.com^
 ||qquhzi4f3.com^
 ||qs251.com^
 ||quakemarketing.com^
@@ -7126,6 +7152,7 @@
 ||rs6.net^
 ||rsalcch.com^
 ||rsrly.com^
+||rsxekbcl.com^
 ||rt.rtoaster.jp^
 ||rta.dailymail.co.uk^
 ||rta2.metro.co.uk^
@@ -7284,6 +7311,7 @@
 ||shopnetic.com^
 ||shoppingads.com^
 ||shopzilla.com^
+||shpee.eco^
 ||sibautomation.com^
 ||siccash.com^
 ||sicksmash.com^
@@ -7541,6 +7569,7 @@
 ||suriflowers.com^
 ||surveywall-api.survata.com^
 ||suspectedadvisor.com^
+||sv.chiasmiraisers.com^
 ||svibeacon.onezapp.com^
 ||swa.and.co.uk^
 ||swan-swan-goose.com^
@@ -7698,6 +7727,7 @@
 ||todopick.com^
 ||toeapesob.com^
 ||toglooman.com^
+||tomoll.com^
 ||tomorroweducated.com^
 ||top-casting-termine.de^
 ||top-site-list.com^
@@ -8025,6 +8055,7 @@
 ||viewpoint.com^
 ||viiadr.com^
 ||viieuvkf.com^
+||viiukuhe.com^
 ||vindicosuite.com^
 ||vionito.com^
 ||visariomedia.com^
@@ -8153,6 +8184,7 @@
 ||wijwunrcoo.com^
 ||wikia-ads.wikia.com^
 ||wildedbarley.com^
+||willingnessdrizzleleverage.com^
 ||wiltiqkc.com^
 ||winneradsmedia.com^
 ||wirecomic.com^
@@ -8269,6 +8301,7 @@
 ||youradexchange.com^
 ||youthfire.com^
 ||yqmxfz.com^
+||yqtwaijdussajr.com^
 ||yrhnw7h63.com^
 ||yrocvgqilrmowj.com^
 ||yu225.com^
