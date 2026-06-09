@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 08 Jun 2026 16:01 UTC+7
-! Version: 2606081601
-! Blocked: 3.029 rules
+! Last modified: 09 Jun 2026 16:26 UTC+7
+! Version: 2606091626
+! Blocked: 3.030 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1790,6 +1790,7 @@
 ||mk.com^
 ||mkt.11bet.us^
 ||mkt.debet.com^
+||mm88.com^
 ||mm99.vip^
 ||mmwin.nearom.com^
 ||mobi.oleviet777.com^
