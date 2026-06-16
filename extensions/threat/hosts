@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 11 Jun 2026 10:46 UTC+7
-# Version: 2606111046
-# Blocked: 4.939 domains
+# Last modified: 16 Jun 2026 16:36 UTC+7
+# Version: 2606161636
+# Blocked: 4.940 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1366,6 +1366,7 @@
 0.0.0.0 ipscannershop.com
 0.0.0.0 irduwhojas.ga
 0.0.0.0 iruiotish.cfd
+0.0.0.0 is-vvhatsapp.com
 0.0.0.0 isacambank.com
 0.0.0.0 isacembank.com
 0.0.0.0 isacombank.net

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 11 Jun 2026 10:46 UTC+7
-! Version: 2606111046
-! Blocked: 8.373 rules
+! Last modified: 16 Jun 2026 16:37 UTC+7
+! Version: 2606161637
+! Blocked: 8.381 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1608,6 +1608,8 @@
 ||clevertap.com^
 ||click.aliexpress.com^
 ||clickadilla.com^
+||clickadu.com^
+||clickadu.net^
 ||clickagy.com^
 ||clickcdn.co^
 ||clickcease.com^
@@ -3990,6 +3992,7 @@
 ||amhrzucur.com^
 ||amillionads.com^
 ||amobee.com^
+||ampmhcbehnapwt.com^
 ||amuletgloom.com^
 ||amunfezanttor.com^
 ||analysis.polarisoffice.com^
@@ -4679,7 +4682,6 @@
 ||click.tecdo-ec.com^
 ||click.tracksummer.com^
 ||click2freemoney.com^
-||clickadu.com^
 ||clickadz.com^
 ||clickagents.com^
 ||clickblitzo.com^
@@ -4995,7 +4997,9 @@
 ||dataxu.com^
 ||datemefast.com^
 ||datingprudethimble.com^
+||db.peshitomohr.qpon^
 ||db7q4jg5rkhk8.cloudfront.net^
+||dbancamd.com^
 ||dbr9gtaf8.com^
 ||dbtarget.com^
 ||dc-storm.com^
@@ -6457,6 +6461,7 @@
 ||nrs6ffl9w.com^
 ||ns.zdbb.net^
 ||nsfwadds.com^
+||nsfwinkuhzeo.com^
 ||ntvk1.ru^
 ||ntvpforever.com^
 ||ntvpinp.com^
@@ -6975,6 +6980,7 @@
 ||qnp16tstw.com^
 ||qnsr.com^
 ||qo.errorrespan.com^
+||qpbiyued.com^
 ||qpizuvmta.com^
 ||qquhzi4f3.com^
 ||qs251.com^
@@ -7058,6 +7064,7 @@
 ||record.mrwin.com^
 ||recordedthereby.com^
 ||recoverystabilizevarmint.com^
+||red-graybedevilother.com^
 ||redebitapedom.com^
 ||redfastlabs.com^
 ||redinvestor.com^
@@ -7229,6 +7236,7 @@
 ||salesloft.com^
 ||sam4m.com^
 ||sancontr.com^
+||sanoslkut.in^
 ||satisfactorymetalrub.com^
 ||satisfycork.com^
 ||sbx.pagesjaunes.fr^
