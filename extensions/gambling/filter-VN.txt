@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 16 Jun 2026 16:36 UTC+7
-! Version: 2606161636
-! Blocked: 3.074 rules
+! Last modified: 17 Jun 2026 13:58 UTC+7
+! Version: 2606171358
+! Blocked: 3.075 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1032,6 +1032,7 @@
 ||gemwin.is^
 ||gemwin.lc^
 ||gemwin.my^
+||gemwin.nz^
 ||gemwin.page^
 ||gemwin.to^
 ||gemwin.tv^
