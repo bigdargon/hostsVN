@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 17 Jun 2026 13:58 UTC+7
-! Version: 2606171358
-! Blocked: 64.374 rules
+! Last modified: 19 Jun 2026 22:28 UTC+7
+! Version: 2606192228
+! Blocked: 64.404 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -14224,6 +14224,7 @@
 ||3bet.biz^
 ||3bet.la^
 ||3bet.ph^
+||3bet.sh^
 ||3bet.ski^
 ||3bet.so^
 ||3bet.tech^
@@ -32132,6 +32133,7 @@
 ||api.usbet.net^
 ||api.usbet.win^
 ||api.v79top.com^
+||api.vgjt.info^
 ||api.vh79.com^
 ||api.vn666.bet^
 ||api.vnloto.com^
@@ -32822,6 +32824,7 @@
 ||ball88.com^
 ||ball88.day^
 ||ball88.fun^
+||ball88.games^
 ||ball88.mobi^
 ||ball88.red^
 ||ball88.to^
@@ -34567,6 +34570,7 @@
 ||bk8mas.com^
 ||bk8masr.com^
 ||bk8mls.com^
+||bk8mm.com^
 ||bk8msia.vip^
 ||bk8msia1.com^
 ||bk8msia2.com^
@@ -34585,6 +34589,7 @@
 ||bk8net1.com^
 ||bk8net2.com^
 ||bk8net3.com^
+||bk8nett.com^
 ||bk8p.com^
 ||bk8ph4.com^
 ||bk8php2.com^
@@ -34624,10 +34629,12 @@
 ||bk8smartaff.com^
 ||bk8so1.com^
 ||bk8spore.vip^
+||bk8sports.com^
 ||bk8ss1.com^
 ||bk8supports.com^
 ||bk8supreme.com^
 ||bk8tel.com^
+||bk8tele.com^
 ||bk8thaff.com^
 ||bk8thaffiliate.com^
 ||bk8thai.com^
@@ -37274,6 +37281,8 @@
 ||d1.debet.gs^
 ||d1.debet.info^
 ||d1.debet.lc^
+||d1.debet.mp^
+||d1.debet.mw^
 ||d1.debet.sc^
 ||d1.debet.so^
 ||d1.debet.st^
@@ -37922,6 +37931,8 @@
 ||debet.lc^
 ||debet.lv^
 ||debet.moi^
+||debet.mp^
+||debet.mw^
 ||debet.net^
 ||debet.sc^
 ||debet.so^
@@ -39497,6 +39508,7 @@
 ||five88.net^
 ||five88.ng^
 ||five88.nl^
+||five88.ro^
 ||five88.sale^
 ||five88.show^
 ||five88.space^
@@ -40919,6 +40931,7 @@
 ||gemwin.ink^
 ||gemwin.is^
 ||gemwin.lc^
+||gemwin.lv^
 ||gemwin.my^
 ||gemwin.nz^
 ||gemwin.onl^
@@ -42756,6 +42769,7 @@
 ||hitclub.lc^
 ||hitclub.lt^
 ||hitclub.lv^
+||hitclub.mk^
 ||hitclub.ml^
 ||hitclub.mu^
 ||hitclub.pl^
@@ -42763,6 +42777,7 @@
 ||hitclub.salon^
 ||hitclub.si^
 ||hitclub.so^
+||hitclub.su^
 ||hitclub.top^
 ||hitclub.tv^
 ||hitclub.vin^
@@ -50081,6 +50096,7 @@
 ||m1.ball88.app^
 ||m1.ball88.com^
 ||m1.ball88.fun^
+||m1.ball88.games^
 ||m1.ball88.mobi^
 ||m1.ball88.red^
 ||m1.ball88.to^
@@ -51533,6 +51549,7 @@
 ||nhat.it^
 ||nhat.my^
 ||nhat.one^
+||nhat.pw^
 ||nhat.sh^
 ||nhat.sx^
 ||nhat.vip^
@@ -54364,6 +54381,7 @@
 ||s26bet1.com^
 ||s26bet2.com^
 ||s2ffvb10.vip^
+||s3.sin88.fo^
 ||s3.sin88.lu^
 ||s3.sin88.ml^
 ||s3.sin88.ms^
@@ -55232,6 +55250,7 @@
 ||sin88.club^
 ||sin88.com^
 ||sin88.cv^
+||sin88.fo^
 ||sin88.im^
 ||sin88.lu^
 ||sin88.me^
@@ -55271,9 +55290,11 @@
 ||sk.debet.gs^
 ||sk.debet.lc^
 ||sk.debet.lv^
+||sk.debet.mw^
 ||sk.debet.st^
 ||sk.debet.vg^
 ||sk.fm88.com^
+||sk.sin88.fo^
 ||sk.sin88.lu^
 ||sk.sin88.ml^
 ||sk.sin88.ms^
@@ -55876,7 +55897,9 @@
 ||sv88.com^
 ||sv88.in^
 ||sv88.lv^
+||sv88.ml^
 ||sv88.ro^
+||sv88.si^
 ||sv88.vin^
 ||sv88.vip^
 ||sv88.vu^
@@ -58084,6 +58107,7 @@
 ||v.hitclub.ml^
 ||v.hitclub.mu^
 ||v.hitclub.si^
+||v.hitclub.su^
 ||v.hitclub.tv^
 ||v.nhat9.vip^
 ||v.nhatvip.pro^
@@ -58658,6 +58682,7 @@
 ||victorwin555.com^
 ||vicwin.vip^
 ||vidor168.com^
+||vidwestxyz.com^
 ||vietclub.net^
 ||vietfun88.com^
 ||vietnam666.com^
@@ -60672,6 +60697,7 @@
 ||web.yo88.so^
 ||web.yo88.st^
 ||web.yo88.tv^
+||web.yo88.vu^
 ||web.zowin.tv^
 ||web01.jsbn016.com^
 ||web88th.com^
@@ -63808,6 +63834,7 @@
 ||yn776619m.com^
 ||ynuugn.xyz^
 ||ynxinji.com^
+||yo88.ae^
 ||yo88.cool^
 ||yo88.is^
 ||yo88.ml^
@@ -63816,6 +63843,7 @@
 ||yo88.st^
 ||yo88.tv^
 ||yo88.vg^
+||yo88.vu^
 ||yo88.win^
 ||yo88vn.com^
 ||yoneball.com^
@@ -64258,6 +64286,7 @@
 ||zowin.bh^
 ||zowin.im^
 ||zowin.is^
+||zowin.kim^
 ||zowin.mom^
 ||zowin.ng^
 ||zowin.red^
@@ -64265,6 +64294,7 @@
 ||zowin.sx^
 ||zowin.tv^
 ||zowin.tw^
+||zowin.uno^
 ||zowin.ws^
 ||zozo86.com^
 ||zp086.com^
