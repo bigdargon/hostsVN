@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 22 Jun 2026 14:18 UTC+7
-# Version: 2606221418
-# Blocked: 3.540 domains
+# Last modified: 22 Jun 2026 22:07 UTC+7
+# Version: 2606222207
+# Blocked: 3.543 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1030,8 +1030,10 @@
 0.0.0.0 gd55id.com
 0.0.0.0 gem.win
 0.0.0.0 gem1.win
+0.0.0.0 gem88.biz
 0.0.0.0 gem88.com
 0.0.0.0 gem88.guru
+0.0.0.0 gem88.vet
 0.0.0.0 gem88.win
 0.0.0.0 gemwin.cab
 0.0.0.0 gemwin.fm
@@ -1906,6 +1908,7 @@
 0.0.0.0 nhanthuong88.com
 0.0.0.0 nhat.bet
 0.0.0.0 nhat.bh
+0.0.0.0 nhat.bz
 0.0.0.0 nhat.cx
 0.0.0.0 nhat.game
 0.0.0.0 nhat.is

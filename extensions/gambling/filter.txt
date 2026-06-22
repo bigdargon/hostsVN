@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 22 Jun 2026 14:18 UTC+7
-! Version: 2606221418
-! Blocked: 64.412 rules
+! Last modified: 22 Jun 2026 22:07 UTC+7
+! Version: 2606222207
+! Blocked: 64.416 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -40925,8 +40925,10 @@
 ||geiqianle.com^
 ||gem.win^
 ||gem1.win^
+||gem88.biz^
 ||gem88.com^
 ||gem88.guru^
+||gem88.vet^
 ||gem88.win^
 ||gemarlapsbo.com^
 ||gemblondong77.xyz^
@@ -51548,6 +51550,7 @@
 ||nhanthuong88.com^
 ||nhat.bet^
 ||nhat.bh^
+||nhat.bz^
 ||nhat.cx^
 ||nhat.game^
 ||nhat.is^
@@ -55696,6 +55699,7 @@
 ||static-3.jojodios.com^
 ||static-fe-tool.com^
 ||static-fe.c3-tool.com^
+||static-gem88.stwostatic.com^
 ||static-imftp.mbzp67c522.com^
 ||static-ire1.mrslotty.com^
 ||static-mobile-vn.mbzp67c522.com^

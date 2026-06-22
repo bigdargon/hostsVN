@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 22 Jun 2026 14:18 UTC+7
-! Version: 2606221418
-! Blocked: 4.865 rules
+! Last modified: 22 Jun 2026 22:07 UTC+7
+! Version: 2606222207
+! Blocked: 4.866 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4498,6 +4498,7 @@
 ||vnc63661s.com^
 ||vnc69977s.com^
 ||vnc75635s.com^
+||vndichvuconggov.com^
 ||vnduthianhgroup.com^
 ||vnebank.xyz^
 ||vneid.vieegovn.cc^
