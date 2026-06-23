@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 22 Jun 2026 22:07 UTC+7
-# Version: 2606222207
-# Blocked: 3.543 domains
+# Last modified: 23 Jun 2026 13:56 UTC+7
+# Version: 2606231356
+# Blocked: 3.560 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -475,6 +475,7 @@
 0.0.0.0 ball88.day
 0.0.0.0 ball88.fun
 0.0.0.0 ball88.games
+0.0.0.0 ball88.llc
 0.0.0.0 ball88.mobi
 0.0.0.0 ball88.red
 0.0.0.0 ball88.to
@@ -687,6 +688,7 @@
 0.0.0.0 d1.debet.gs
 0.0.0.0 d1.debet.info
 0.0.0.0 d1.debet.lc
+0.0.0.0 d1.debet.med
 0.0.0.0 d1.debet.mp
 0.0.0.0 d1.debet.mw
 0.0.0.0 d1.debet.sc
@@ -762,6 +764,7 @@
 0.0.0.0 debet.info
 0.0.0.0 debet.lc
 0.0.0.0 debet.lv
+0.0.0.0 debet.med
 0.0.0.0 debet.moi
 0.0.0.0 debet.mp
 0.0.0.0 debet.mw
@@ -776,6 +779,7 @@
 0.0.0.0 debet.win
 0.0.0.0 debet79.info
 0.0.0.0 debet88.win
+0.0.0.0 debetchinhhang.top
 0.0.0.0 deca.bet
 0.0.0.0 deca88.com
 0.0.0.0 dfbertuah.com
@@ -1049,6 +1053,7 @@
 0.0.0.0 gemwin.vc
 0.0.0.0 gemwin.vin
 0.0.0.0 gemwin.vip
+0.0.0.0 gemwinchinhhang.com
 0.0.0.0 gen88.com
 0.0.0.0 gi8.us
 0.0.0.0 gi888.cc
@@ -1142,6 +1147,7 @@
 0.0.0.0 hitclub.cafe
 0.0.0.0 hitclub.com
 0.0.0.0 hitclub.in
+0.0.0.0 hitclub.ist
 0.0.0.0 hitclub.lc
 0.0.0.0 hitclub.lt
 0.0.0.0 hitclub.lv
@@ -1158,6 +1164,7 @@
 0.0.0.0 hitclub.tv
 0.0.0.0 hitclub.vin
 0.0.0.0 hitclub.win
+0.0.0.0 hitclubchinhhang.com
 0.0.0.0 hl8thai8.com
 0.0.0.0 hn8.link
 0.0.0.0 hong88vn.click
@@ -1711,6 +1718,7 @@
 0.0.0.0 m1.ball88.com
 0.0.0.0 m1.ball88.fun
 0.0.0.0 m1.ball88.games
+0.0.0.0 m1.ball88.llc
 0.0.0.0 m1.ball88.mobi
 0.0.0.0 m1.ball88.red
 0.0.0.0 m1.ball88.to
@@ -2240,6 +2248,7 @@
 0.0.0.0 sin88.us
 0.0.0.0 sin88.vip
 0.0.0.0 sin88.win
+0.0.0.0 sin88chinhhang.com
 0.0.0.0 sin88s.com
 0.0.0.0 sinbet.com
 0.0.0.0 sinbet.vip
@@ -2247,6 +2256,7 @@
 0.0.0.0 sk.ball88.com
 0.0.0.0 sk.ball88.day
 0.0.0.0 sk.ball88.fun
+0.0.0.0 sk.ball88.llc
 0.0.0.0 sk.ball88.mobi
 0.0.0.0 sk.ball88.to
 0.0.0.0 sk.ball88.zone
@@ -2255,6 +2265,7 @@
 0.0.0.0 sk.debet.gs
 0.0.0.0 sk.debet.lc
 0.0.0.0 sk.debet.lv
+0.0.0.0 sk.debet.med
 0.0.0.0 sk.debet.mw
 0.0.0.0 sk.debet.st
 0.0.0.0 sk.debet.vg
@@ -2418,6 +2429,7 @@
 0.0.0.0 sv88.vu
 0.0.0.0 sv88.win
 0.0.0.0 sv88a.com
+0.0.0.0 sv88chinhhang.com
 0.0.0.0 sv88r.com
 0.0.0.0 sv88vn.com
 0.0.0.0 sv88vn.net
@@ -2648,6 +2660,7 @@
 0.0.0.0 uytin.8day66.com
 0.0.0.0 v.fa88.tv
 0.0.0.0 v.hitclub.in
+0.0.0.0 v.hitclub.ist
 0.0.0.0 v.hitclub.lv
 0.0.0.0 v.hitclub.ml
 0.0.0.0 v.hitclub.mu
@@ -2928,6 +2941,7 @@
 0.0.0.0 web.win79.moi
 0.0.0.0 web.win79.vg
 0.0.0.0 web.yo88.is
+0.0.0.0 web.yo88.ist
 0.0.0.0 web.yo88.ml
 0.0.0.0 web.yo88.so
 0.0.0.0 web.yo88.st
@@ -3506,6 +3520,7 @@
 0.0.0.0 yo88.ae
 0.0.0.0 yo88.cool
 0.0.0.0 yo88.is
+0.0.0.0 yo88.ist
 0.0.0.0 yo88.ml
 0.0.0.0 yo88.pw
 0.0.0.0 yo88.so
@@ -3514,6 +3529,7 @@
 0.0.0.0 yo88.vg
 0.0.0.0 yo88.vu
 0.0.0.0 yo88.win
+0.0.0.0 yo88chinhhang.com
 0.0.0.0 yo88vn.com
 0.0.0.0 youwevnak.kg88.shop
 0.0.0.0 yule12888.com
@@ -3545,6 +3561,7 @@
 0.0.0.0 zowin.kim
 0.0.0.0 zowin.mom
 0.0.0.0 zowin.ng
+0.0.0.0 zowin.ph
 0.0.0.0 zowin.red
 0.0.0.0 zowin.sh
 0.0.0.0 zowin.sx
