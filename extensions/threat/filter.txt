@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 23 Jun 2026 13:56 UTC+7
-! Version: 2606231356
-! Blocked: 4.866 rules
+! Last modified: 24 Jun 2026 10:25 UTC+7
+! Version: 2606241025
+! Blocked: 4.886 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -665,6 +665,7 @@
 ||dichvu.congtygiaohangtietkiemvn.com^
 ||dichvuchuyentien-ind.weebly.com^
 ||dichvucong-gov.com^
+||dichvucong-govvn.com^
 ||dichvucong.agov.net^
 ||dichvucong.bcavnvnvngov.com^
 ||dichvucong.ccbcavn.cc^
@@ -2334,7 +2335,9 @@
 ||oivay.app^
 ||oivay.vip^
 ||oldcname.ieasyclick.net^
+||om-tracka.top^
 ||omfghellobrosjda38.org^
+||omtrack.buzz^
 ||onhamuadich.com^
 ||onirybank.com^
 ||online-ibank.com^
@@ -3722,6 +3725,22 @@
 ||tpviet38.com^
 ||tpviet68.com^
 ||tqmwqfh.yo-bc.de^
+||track-ec.buzz^
+||track-ec.lol^
+||track-ec.xyz^
+||track-ecpost.click^
+||track-ecpost.xyz^
+||trackfr.art^
+||trackfr.buzz^
+||trackfr.help^
+||trackfr.top^
+||trackpost.autos^
+||trackpost.buzz^
+||trackqa.buzz^
+||trackqa.click^
+||trackqa.help^
+||trackqa.xyz^
+||trackqar.buzz^
 ||tracuu-thongtin.online^
 ||tracuu-thongtin.site^
 ||tracuugiaodichvi.com^
@@ -4215,6 +4234,7 @@
 ||vietcomdank.com^
 ||vietcomglobal.com^
 ||vietcomibaink.com^
+||vietcompriority-diem.com^
 ||vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com^
 ||vietconbank.com^
 ||vietcooimbank.com^

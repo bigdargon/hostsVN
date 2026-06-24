@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 23 Jun 2026 13:56 UTC+7
-! Version: 2606231356
-! Blocked: 3.126 rules
+! Last modified: 24 Jun 2026 10:25 UTC+7
+! Version: 2606241025
+! Blocked: 3.133 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -383,6 +383,7 @@
 ||ano88.app^
 ||ano88.top^
 ||aoays.xyz^
+||api-client.okvipworldcup.com^
 ||api-v2.zbet.tv^
 ||api.123bhh.com^
 ||api.33beta.com^
@@ -661,6 +662,7 @@
 ||connhangheo.top^
 ||coopbet.com^
 ||corona999.com^
+||cskhkjc.com^
 ||cungv9choi.com^
 ||cuoc88.net^
 ||cuoc8899.com^
@@ -980,6 +982,7 @@
 ||five88.win^
 ||five88.wine^
 ||five88.world^
+||five88chinhhang.com^
 ||fm88.com^
 ||fm88.vip^
 ||for88.com^
@@ -1045,6 +1048,7 @@
 ||gem88.win^
 ||gemwin.cab^
 ||gemwin.fm^
+||gemwin.fyi^
 ||gemwin.ink^
 ||gemwin.is^
 ||gemwin.lc^
@@ -1502,6 +1506,7 @@
 ||kingfun1.club^
 ||kingfun247.net^
 ||kingfunsomot.com^
+||kjcvn.com^
 ||kkwin.bio^
 ||kkwin.men^
 ||kkwin.pro^
@@ -1965,6 +1970,8 @@
 ||okvip.pro^
 ||okvip.today^
 ||okvip.win^
+||okvipcskh.com^
+||okvipworldcup.com^
 ||ole777vietnam.com^
 ||ole7788.com^
 ||oleviet777.com^

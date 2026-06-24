@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 23 Jun 2026 13:56 UTC+7
-! Version: 2606231356
-! Blocked: 4.374 rules
+! Last modified: 24 Jun 2026 10:25 UTC+7
+! Version: 2606241025
+! Blocked: 4.376 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -523,6 +523,7 @@
 ||dichvu.congtygiaohangtietkiemvn.com^
 ||dichvuchuyentien-ind.weebly.com^
 ||dichvucong-gov.com^
+||dichvucong-govvn.com^
 ||dichvucong.agov.net^
 ||dichvucong.bcavnvnvngov.com^
 ||dichvucong.ccbcavn.cc^
@@ -3773,6 +3774,7 @@
 ||vietcomdank.com^
 ||vietcomglobal.com^
 ||vietcomibaink.com^
+||vietcompriority-diem.com^
 ||vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com^
 ||vietconbank.com^
 ||vietcooimbank.com^

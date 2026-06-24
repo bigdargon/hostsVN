@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 23 Jun 2026 13:56 UTC+7
-# Version: 2606231356
-# Blocked: 4.941 domains
+# Last modified: 24 Jun 2026 10:25 UTC+7
+# Version: 2606241025
+# Blocked: 4.961 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -665,6 +665,7 @@
 0.0.0.0 dichvu.congtygiaohangtietkiemvn.com
 0.0.0.0 dichvuchuyentien-ind.weebly.com
 0.0.0.0 dichvucong-gov.com
+0.0.0.0 dichvucong-govvn.com
 0.0.0.0 dichvucong.agov.net
 0.0.0.0 dichvucong.bcavnvnvngov.com
 0.0.0.0 dichvucong.ccbcavn.cc
@@ -2327,7 +2328,9 @@
 0.0.0.0 oivay.app
 0.0.0.0 oivay.vip
 0.0.0.0 oldcname.ieasyclick.net
+0.0.0.0 om-tracka.top
 0.0.0.0 omfghellobrosjda38.org
+0.0.0.0 omtrack.buzz
 0.0.0.0 onhamuadich.com
 0.0.0.0 onirybank.com
 0.0.0.0 online-ibank.com
@@ -3712,6 +3715,22 @@
 0.0.0.0 tpviet38.com
 0.0.0.0 tpviet68.com
 0.0.0.0 tqmwqfh.yo-bc.de
+0.0.0.0 track-ec.buzz
+0.0.0.0 track-ec.lol
+0.0.0.0 track-ec.xyz
+0.0.0.0 track-ecpost.click
+0.0.0.0 track-ecpost.xyz
+0.0.0.0 trackfr.art
+0.0.0.0 trackfr.buzz
+0.0.0.0 trackfr.help
+0.0.0.0 trackfr.top
+0.0.0.0 trackpost.autos
+0.0.0.0 trackpost.buzz
+0.0.0.0 trackqa.buzz
+0.0.0.0 trackqa.click
+0.0.0.0 trackqa.help
+0.0.0.0 trackqa.xyz
+0.0.0.0 trackqar.buzz
 0.0.0.0 tracuu-thongtin.online
 0.0.0.0 tracuu-thongtin.site
 0.0.0.0 tracuugiaodichvi.com
@@ -4205,6 +4224,7 @@
 0.0.0.0 vietcomdank.com
 0.0.0.0 vietcomglobal.com
 0.0.0.0 vietcomibaink.com
+0.0.0.0 vietcompriority-diem.com
 0.0.0.0 vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com
 0.0.0.0 vietconbank.com
 0.0.0.0 vietcooimbank.com
