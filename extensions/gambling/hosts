@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 24 Jun 2026 10:25 UTC+7
-# Version: 2606241025
-# Blocked: 65.544 domains
+# Last modified: 26 Jun 2026 09:57 UTC+7
+# Version: 2606260957
+# Blocked: 65.547 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -40943,6 +40943,7 @@
 0.0.0.0 gemwin.nz
 0.0.0.0 gemwin.onl
 0.0.0.0 gemwin.page
+0.0.0.0 gemwin.tax
 0.0.0.0 gemwin.to
 0.0.0.0 gemwin.tv
 0.0.0.0 gemwin.vc
@@ -51574,6 +51575,7 @@
 0.0.0.0 nhat.game
 0.0.0.0 nhat.is
 0.0.0.0 nhat.it
+0.0.0.0 nhat.kim
 0.0.0.0 nhat.my
 0.0.0.0 nhat.one
 0.0.0.0 nhat.pw
@@ -65438,6 +65440,7 @@
 0.0.0.0 zowin.tv
 0.0.0.0 zowin.tw
 0.0.0.0 zowin.uno
+0.0.0.0 zowin.vu
 0.0.0.0 zowin.ws
 0.0.0.0 zozo86.com
 0.0.0.0 zp086.com
