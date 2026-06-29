@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 26 Jun 2026 09:58 UTC+7
-# Version: 2606260958
-# Blocked: 17.996 domains
+# Last modified: 29 Jun 2026 13:59 UTC+7
+# Version: 2606291359
+# Blocked: 18.017 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3101,11 +3101,20 @@
 0.0.0.0 www.clevertap.com
 #[clevertap-prod.com]
 0.0.0.0 clevertap-prod.com
+0.0.0.0 aps3.clevertap-prod.com
+0.0.0.0 aps3-spiky.clevertap-prod.com
 0.0.0.0 eu1.clevertap-prod.com
+0.0.0.0 eu1-spiky.clevertap-prod.com
+0.0.0.0 in.clevertap-prod.com
 0.0.0.0 in1.clevertap-prod.com
-0.0.0.0 sg1-spiky.clevertap-prod.com
+0.0.0.0 in1-aps1.clevertap-prod.com
+0.0.0.0 in1-spiky.clevertap-prod.com
+0.0.0.0 mec1.clevertap-prod.com
+0.0.0.0 mec1-spiky.clevertap-prod.com
 0.0.0.0 sg1.clevertap-prod.com
+0.0.0.0 sg1-spiky.clevertap-prod.com
 0.0.0.0 us1.clevertap-prod.com
+0.0.0.0 us1-spiky.clevertap-prod.com
 #[freshmarketer]
 0.0.0.0 app.freshmarketer.com
 0.0.0.0 cdn.freshmarketer.com
@@ -15121,6 +15130,7 @@
 0.0.0.0 alwingulla.com
 0.0.0.0 alwxamfivx.com
 0.0.0.0 am.diecasepachas.cyou
+0.0.0.0 am.teindpumpage.cfd
 0.0.0.0 amare.agency
 0.0.0.0 amazingcounters.com
 0.0.0.0 ambleads.com
@@ -15139,6 +15149,7 @@
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 anrdoezrs.net
 0.0.0.0 antananarbdivu.com
+0.0.0.0 anthemoutbackwrought.com
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 antlerlode.com
 0.0.0.0 antvoice.com
@@ -15237,6 +15248,7 @@
 0.0.0.0 atlassolutions.com
 0.0.0.0 atp.io
 0.0.0.0 atrmkoopdlhu.com
+0.0.0.0 attacheatableoverlabor.com
 0.0.0.0 attirecideryeah.com
 0.0.0.0 attractionbanana.com
 0.0.0.0 auctionads.com
@@ -15591,6 +15603,7 @@
 0.0.0.0 casmp.adperfect.com
 0.0.0.0 causecherry.com
 0.0.0.0 cautiouslyanalysecrystal.com
+0.0.0.0 cawsg.com
 0.0.0.0 cb.snoozyhayride.com
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cben1.net
@@ -16161,6 +16174,7 @@
 0.0.0.0 elitetoplist.com
 0.0.0.0 elixarco.com
 0.0.0.0 ellcurvth.com
+0.0.0.0 elmnxeembokgd.space
 0.0.0.0 eltontry.com
 0.0.0.0 emarketer.com
 0.0.0.0 embed.sendtonews.com
@@ -16187,6 +16201,7 @@
 0.0.0.0 eqads.com
 0.0.0.0 eqworks.com
 0.0.0.0 erdreamsofcryin.info
+0.0.0.0 erezzydxykqwk.space
 0.0.0.0 ergadx.com
 0.0.0.0 ermin-oxj.info
 0.0.0.0 erpqkcfvsjjyap.com
@@ -16687,6 +16702,7 @@
 0.0.0.0 ireklama.cz
 0.0.0.0 irncdn.com
 0.0.0.0 ironsource.mobi
+0.0.0.0 is.conermoocher.com
 0.0.0.0 is.ptinusmufasal.com
 0.0.0.0 isobeldrug.com
 0.0.0.0 isolatedfrom82.com
@@ -17274,6 +17290,7 @@
 0.0.0.0 oas.roanoke.com
 0.0.0.0 oas.toronto.com
 0.0.0.0 oas.uniontrib.com
+0.0.0.0 ob.feversfewmand.com
 0.0.0.0 obdshyohcog.com
 0.0.0.0 objectionsunited.com
 0.0.0.0 obliquecensortend.com
@@ -17393,6 +17410,7 @@
 0.0.0.0 outloginequity.com
 0.0.0.0 outlookabsorb.com
 0.0.0.0 outoctillerytor.com
+0.0.0.0 outofthebluethudboard.com
 0.0.0.0 outrotomr.com
 0.0.0.0 outsliggooa.com
 0.0.0.0 overcrowdsillyturret.com
@@ -17470,6 +17488,7 @@
 0.0.0.0 pejzeexukxo.com
 0.0.0.0 pekajmkimvx.com
 0.0.0.0 pelagicmismate.com
+0.0.0.0 peltmalecheering.com
 0.0.0.0 pennilesscomingall.com
 0.0.0.0 pennyweb.com
 0.0.0.0 peoriacommunityagainstviolence.org
@@ -18225,6 +18244,7 @@
 0.0.0.0 syndicate.purch.com
 0.0.0.0 syndicpop.com
 0.0.0.0 synonymdetected.com
+0.0.0.0 syochgrqwze.com
 0.0.0.0 sypnios.com
 0.0.0.0 sysmeasuring.net
 0.0.0.0 system-notify.app
@@ -18319,6 +18339,7 @@
 0.0.0.0 tipsembankment.com
 0.0.0.0 tipslyrev.com
 0.0.0.0 tirosagalite.com
+0.0.0.0 tkddcpuc.com
 0.0.0.0 tkexutqf.in
 0.0.0.0 tlvmedia.com
 0.0.0.0 tm-banners.gamingadult.com
