@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 30 Jun 2026 16:49 UTC+7
-# Version: 2606301649
-# Blocked: 3.590 domains
+# Last modified: 30 Jun 2026 22:43 UTC+7
+# Version: 2606302243
+# Blocked: 3.597 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -810,6 +810,7 @@
 0.0.0.0 dp533.com
 0.0.0.0 dp568.com
 0.0.0.0 dp568bet.com
+0.0.0.0 du88.cafe
 0.0.0.0 du88.club
 0.0.0.0 du88.com
 0.0.0.0 du88.in
@@ -1133,6 +1134,7 @@
 0.0.0.0 hb8887.com
 0.0.0.0 hb88vn.co
 0.0.0.0 hbet.club
+0.0.0.0 hbet.li
 0.0.0.0 hbet.lv
 0.0.0.0 hbet.net
 0.0.0.0 hbet.pw
@@ -1634,6 +1636,7 @@
 0.0.0.0 lu88.com
 0.0.0.0 lu88.gdn
 0.0.0.0 lu88.kim
+0.0.0.0 lu88.nz
 0.0.0.0 lu88.pro
 0.0.0.0 luck6.com
 0.0.0.0 luck8.com
@@ -1768,6 +1771,7 @@
 0.0.0.0 man79.org
 0.0.0.0 man88.la
 0.0.0.0 man88.net
+0.0.0.0 man88.ng
 0.0.0.0 man88.pl
 0.0.0.0 man88.pw
 0.0.0.0 man88.top
@@ -2652,6 +2656,7 @@
 0.0.0.0 twin5568.com
 0.0.0.0 tx1.vip
 0.0.0.0 tx88.com
+0.0.0.0 tx88.fan
 0.0.0.0 tx88.fun
 0.0.0.0 tx88.fyi
 0.0.0.0 tx88.in
@@ -2858,6 +2863,7 @@
 0.0.0.0 vsports.pro
 0.0.0.0 vsports88.asia
 0.0.0.0 vstar79.com
+0.0.0.0 vu88.ac
 0.0.0.0 vu88.com
 0.0.0.0 vu88.de
 0.0.0.0 vu88.in
@@ -3505,6 +3511,7 @@
 0.0.0.0 xemtylecacuoc.bong99.com
 0.0.0.0 xibet.com
 0.0.0.0 xibet.fun
+0.0.0.0 xibet.vg
 0.0.0.0 xibet.win
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xingtou888.com

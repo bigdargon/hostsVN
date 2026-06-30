@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 30 Jun 2026 16:49 UTC+7
-! Version: 2606301649
-! Blocked: 22.441 rules
+! Last modified: 30 Jun 2026 22:43 UTC+7
+! Version: 2606302243
+! Blocked: 22.446 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5232,6 +5232,7 @@
 ||cdn-02.w3img.com^
 ||cdn-03.w3img.com^
 ||cdn-04.w3img.com^
+||cdn.adxcontent.com^
 ||cdn.gptgirlfriend.online^
 ||cdn.javbabe.net^
 ||cdn.javhd.vc^
@@ -5240,6 +5241,8 @@
 ||cdn.sexapi.net^
 ||cdn.subjav.sex^
 ||cdn.vlcontent.com^
+||cdn.vlimg.com^
+||cdn.vlplayer.com^
 ||cdn.xvcontent.com^
 ||cdn2.seaporn.net^
 ||cdn3x.com^
@@ -13655,6 +13658,7 @@
 ||planetpornvideos.com^
 ||play.crawl.team^
 ||play.playheovl.xyz^
+||play.vlstream.net^
 ||play18video.com^
 ||play18x.com^
 ||play2.cdn-xvideos-xnxx.xyz^
@@ -19588,6 +19592,7 @@
 ||vlxx.men^
 ||vlxx.mobi^
 ||vlxx.moe^
+||vlxx.moi^
 ||vlxx.money^
 ||vlxx.movie^
 ||vlxx.mx^

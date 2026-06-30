@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 30 Jun 2026 16:49 UTC+7
-! Version: 2606301649
-! Blocked: 1.857 rules
+! Last modified: 30 Jun 2026 22:43 UTC+7
+! Version: 2606302243
+! Blocked: 1.858 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1645,6 +1645,7 @@
 ||vlxx.men^
 ||vlxx.mobi^
 ||vlxx.moe^
+||vlxx.moi^
 ||vlxx.money^
 ||vlxx.mx^
 ||vlxx.net^
