@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 26 Jun 2026 09:57 UTC+7
-# Version: 2606260957
-# Blocked: 65.547 domains
+# Last modified: 30 Jun 2026 16:49 UTC+7
+# Version: 2606301649
+# Blocked: 65.570 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -32071,6 +32071,7 @@
 0.0.0.0 api.f8bet5.com
 0.0.0.0 api.fastbsv.com
 0.0.0.0 api.fb88.company
+0.0.0.0 api.haybet.ws
 0.0.0.0 api.hb8887.com
 0.0.0.0 api.hdbet.com
 0.0.0.0 api.hi678112.com
@@ -32608,11 +32609,13 @@
 0.0.0.0 b52.game
 0.0.0.0 b52.me
 0.0.0.0 b52.mobi
+0.0.0.0 b52.nu
 0.0.0.0 b52.vip
 0.0.0.0 b52.win
 0.0.0.0 b5211.com
 0.0.0.0 b5224.com
 0.0.0.0 b528376.com
+0.0.0.0 b52club.me
 0.0.0.0 b52club.to
 0.0.0.0 b52d.club
 0.0.0.0 b52k.club
@@ -34161,6 +34164,7 @@
 0.0.0.0 bf6600.com
 0.0.0.0 bf903.com
 0.0.0.0 bfcp567.com
+0.0.0.0 bfiveapi-gw.gwtonkgs.net
 0.0.0.0 bg-1xbet.com
 0.0.0.0 bg236.com
 0.0.0.0 bg266.com
@@ -34755,6 +34759,7 @@
 0.0.0.0 bocai12.com
 0.0.0.0 boda8hk.com
 0.0.0.0 boda8msia.com
+0.0.0.0 bodergatez.dsrcgoms.net
 0.0.0.0 bodergatezlpag.dsrcgoms.net
 0.0.0.0 bog8.com
 0.0.0.0 boin8.com
@@ -40694,6 +40699,7 @@
 0.0.0.0 gameday888.com
 0.0.0.0 gamedd.com
 0.0.0.0 gamedoithuong.org
+0.0.0.0 gamegiaitri.one
 0.0.0.0 gameiw88.com
 0.0.0.0 gameiwin.club
 0.0.0.0 gameiwin.info
@@ -40933,6 +40939,7 @@
 0.0.0.0 gemarlapsbo.com
 0.0.0.0 gemblondong77.xyz
 0.0.0.0 gemwin.cab
+0.0.0.0 gemwin.esq
 0.0.0.0 gemwin.fm
 0.0.0.0 gemwin.fyi
 0.0.0.0 gemwin.ink
@@ -41805,12 +41812,15 @@
 0.0.0.0 hay8811.com
 0.0.0.0 hay8822.com
 0.0.0.0 hay888333.com
+0.0.0.0 haybet.ws
 0.0.0.0 haywin.ac
 0.0.0.0 haywin.ai
 0.0.0.0 haywin.my
 0.0.0.0 haywin.space
 0.0.0.0 haywin.store
+0.0.0.0 haywin.training
 0.0.0.0 haywin.vip
+0.0.0.0 haywinchinhhang.com
 0.0.0.0 haywinclub.vip
 0.0.0.0 haywinvip.online
 0.0.0.0 hb1165.com
@@ -51571,6 +51581,7 @@
 0.0.0.0 nhat.bet
 0.0.0.0 nhat.bh
 0.0.0.0 nhat.bz
+0.0.0.0 nhat.cam
 0.0.0.0 nhat.cx
 0.0.0.0 nhat.game
 0.0.0.0 nhat.is
@@ -53029,6 +53040,7 @@
 0.0.0.0 play.789club.sx
 0.0.0.0 play.789club.top
 0.0.0.0 play.97wdv.com
+0.0.0.0 play.b52club.me
 0.0.0.0 play.b52m.club
 0.0.0.0 play.bay789.io
 0.0.0.0 play.bay789.life
@@ -53045,12 +53057,14 @@
 0.0.0.0 play.haywin.ai
 0.0.0.0 play.haywin.space
 0.0.0.0 play.haywin.store
+0.0.0.0 play.haywin.training
 0.0.0.0 play.hit.club
 0.0.0.0 play.im99.com
 0.0.0.0 play.iwin.bio
 0.0.0.0 play.kong88a.club
 0.0.0.0 play.lo88.live
 0.0.0.0 play.okvip.fun
+0.0.0.0 play.ricwin.moi
 0.0.0.0 play.ricwin.pw
 0.0.0.0 play.rik88.life
 0.0.0.0 play.rikvip.info
@@ -54182,6 +54196,8 @@
 0.0.0.0 richst666.com
 0.0.0.0 richuse.com
 0.0.0.0 richwb.com
+0.0.0.0 ricwin.moi
+0.0.0.0 ricwin.mx
 0.0.0.0 ricwin.pw
 0.0.0.0 riding168.com
 0.0.0.0 riding168.net
@@ -55873,9 +55889,11 @@
 0.0.0.0 sunwin.moi
 0.0.0.0 sunwin.pro
 0.0.0.0 sunwin.pw
+0.0.0.0 sunwin.show
 0.0.0.0 sunwin.sx
 0.0.0.0 sunwin66.com
 0.0.0.0 sunwin99.com
+0.0.0.0 sunwinchinhhang.com
 0.0.0.0 sunwinvn.club
 0.0.0.0 super7m.com
 0.0.0.0 superace88.club
@@ -56763,6 +56781,7 @@
 0.0.0.0 tinnhan88.com
 0.0.0.0 tintuc.vlott88.com
 0.0.0.0 tip.club
+0.0.0.0 tip88.app
 0.0.0.0 tip88.com
 0.0.0.0 tip88vn.me
 0.0.0.0 tipballlok.com
@@ -58720,6 +58739,8 @@
 0.0.0.0 vic.win
 0.0.0.0 vic2.club
 0.0.0.0 vic88.com
+0.0.0.0 vic88.link
+0.0.0.0 vic88.mx
 0.0.0.0 vic88.net
 0.0.0.0 vicbet.com
 0.0.0.0 victorwin555.com
@@ -65428,6 +65449,7 @@
 0.0.0.0 zoplay.top
 0.0.0.0 zou18190.com
 0.0.0.0 zowin.bh
+0.0.0.0 zowin.esq
 0.0.0.0 zowin.im
 0.0.0.0 zowin.is
 0.0.0.0 zowin.kim
@@ -65442,6 +65464,7 @@
 0.0.0.0 zowin.uno
 0.0.0.0 zowin.vu
 0.0.0.0 zowin.ws
+0.0.0.0 zowinchinhhang.online
 0.0.0.0 zozo86.com
 0.0.0.0 zp086.com
 0.0.0.0 zp2629.com

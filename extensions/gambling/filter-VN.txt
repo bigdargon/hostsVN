@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 26 Jun 2026 09:57 UTC+7
-! Version: 2606260957
-! Blocked: 3.136 rules
+! Last modified: 30 Jun 2026 16:49 UTC+7
+! Version: 2606301649
+! Blocked: 3.156 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -398,6 +398,7 @@
 ||api.bec88.com^
 ||api.dabet.club^
 ||api.f8bet5.com^
+||api.haybet.ws^
 ||api.hb8887.com^
 ||api.hdbet.com^
 ||api.max79.win^
@@ -462,8 +463,10 @@
 ||b52.game^
 ||b52.me^
 ||b52.mobi^
+||b52.nu^
 ||b52.vip^
 ||b52.win^
+||b52club.me^
 ||b52d.club^
 ||b52k.club^
 ||b52m.club^
@@ -1047,6 +1050,7 @@
 ||gem88.vet^
 ||gem88.win^
 ||gemwin.cab^
+||gemwin.esq^
 ||gemwin.fm^
 ||gemwin.fyi^
 ||gemwin.ink^
@@ -1116,12 +1120,15 @@
 ||hay88.net^
 ||hay8811.com^
 ||hay8822.com^
+||haybet.ws^
 ||haywin.ac^
 ||haywin.ai^
 ||haywin.my^
 ||haywin.space^
 ||haywin.store^
+||haywin.training^
 ||haywin.vip^
+||haywinchinhhang.com^
 ||haywinvip.online^
 ||hb88.com^
 ||hb88.party^
@@ -1928,6 +1935,7 @@
 ||nhat.bet^
 ||nhat.bh^
 ||nhat.bz^
+||nhat.cam^
 ||nhat.cx^
 ||nhat.game^
 ||nhat.is^
@@ -2024,6 +2032,7 @@
 ||pkwin1.com^
 ||play.789.club^
 ||play.789club.sx^
+||play.b52club.me^
 ||play.b52m.club^
 ||play.bay789.io^
 ||play.bay789.life^
@@ -2038,11 +2047,13 @@
 ||play.haywin.ai^
 ||play.haywin.space^
 ||play.haywin.store^
+||play.haywin.training^
 ||play.hit.club^
 ||play.im99.com^
 ||play.iwin.bio^
 ||play.lo88.live^
 ||play.okvip.fun^
+||play.ricwin.moi^
 ||play.ricwin.pw^
 ||play.rik88.life^
 ||play.rikvip.info^
@@ -2156,6 +2167,8 @@
 ||rgames.org^
 ||ricbet.com^
 ||ricbet.win^
+||ricwin.moi^
+||ricwin.mx^
 ||ricwin.pw^
 ||rik.bet^
 ||rik.club^
@@ -2412,7 +2425,9 @@
 ||sunwin.moi^
 ||sunwin.pro^
 ||sunwin.pw^
+||sunwin.show^
 ||sunwin.sx^
+||sunwinchinhhang.com^
 ||sunwinvn.club^
 ||sure168.asia^
 ||sut88.com^
@@ -2583,6 +2598,7 @@
 ||tin888.club^
 ||tintuc.vlott88.com^
 ||tip.club^
+||tip88.app^
 ||tip88.com^
 ||tip88vn.me^
 ||tipkeo.thethaofb88.com^
@@ -2745,6 +2761,8 @@
 ||vic.hair^
 ||vic.win^
 ||vic88.com^
+||vic88.link^
+||vic88.mx^
 ||vic88.net^
 ||victorwin555.com^
 ||vicwin.vip^
@@ -3128,6 +3146,7 @@
 ||zo88.vip^
 ||zoplay.top^
 ||zowin.bh^
+||zowin.esq^
 ||zowin.im^
 ||zowin.is^
 ||zowin.kim^
@@ -3142,3 +3161,4 @@
 ||zowin.uno^
 ||zowin.vu^
 ||zowin.ws^
+||zowinchinhhang.online^
