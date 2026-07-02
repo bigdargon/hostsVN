@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 30 Jun 2026 22:43 UTC+7
-! Version: 2606302243
-! Blocked: 8.469 rules
+! Last modified: 02 Jul 2026 11:12 UTC+7
+! Version: 2607021112
+! Blocked: 8.485 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -115,6 +115,7 @@
 ||cococx.com^
 ||codon.vn^
 ||combo-omni.haravan.com^
+||content.accesstrade.vn^
 ||contineljs.com^
 ||customers.fptad.com^
 ||dable.io^
@@ -1162,7 +1163,11 @@
 ||adt.cpatrk.net^
 ||adtag.sphdigital.com^
 ||adtago.s3.amazonaws.com^
+||adtarget.biz^
+||adtarget.com.tr^
+||adtarget.market^
 ||adtarget.me^
+||adtarget.tech^
 ||adtdp.com^
 ||adtech.yahooinc.com^
 ||adtechjp.com^
@@ -1661,6 +1666,7 @@
 ||context.iris.tv^
 ||contextweb.com^
 ||conversantmedia.com^
+||conversionsapigateway.com^
 ||convertexperiments.com^
 ||convertful.com^
 ||cpmstar.com^
@@ -1739,6 +1745,7 @@
 ||dit.whatsapp.net^
 ||dj1*.online^
 ||djaxadserver.com^
+||dl-adx.op-mobile.opera.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dlog.hiido.com^
 ||dlswbr.baidu.com^
@@ -2093,6 +2100,7 @@
 ||klog.hiido.com^
 ||kochava.com^
 ||krxd.net^
+||kueezrtb.com^
 ||labadena.com^
 ||ladsp.com^
 ||ladsp.jp^
@@ -2791,6 +2799,7 @@
 ||swrve.com^
 ||sync.quantumdex.io^
 ||syndicatedsearch.goog^
+||t-odx.op-mobile.opera.com^
 ||t.apkpure.net^
 ||t.imgur.com^
 ||t.indeed.com^
@@ -3802,6 +3811,7 @@
 ||adsynergy.com^
 ||adsys.townnews.com^
 ||adsystem.simplemachines.org^
+||adtarget.org^
 ||adtech.com^
 ||adtech.de^
 ||adtegrity.net^
@@ -5199,6 +5209,7 @@
 ||easyhits4u.com^
 ||easysitelabs.my^
 ||eatablesquare.com^
+||eb.koaeunhairy.shop^
 ||ebayadvertising.com^
 ||ebetoni.com^
 ||ebxcdn.com^
@@ -5844,6 +5855,9 @@
 ||intrudefatherinlaw.com^
 ||inuvi.com^
 ||invitejs.trustpilot.com^
+||invl.me^
+||invl.us^
+||invle.co^
 ||invoca.net^
 ||invol.co^
 ||iodideeyebath.cam^
@@ -5964,6 +5978,7 @@
 ||kitbit.net^
 ||kiynew.com^
 ||kjdvn1340-ads.blogspot.com^
+||kkdeldurlxjjcz.com^
 ||klangoo.com^
 ||klclick1.com^
 ||klik.blog^
@@ -5992,7 +6007,6 @@
 ||ktu.sv2.biz^
 ||ku2d3a7pa8mdi.com^
 ||ku42hjr2e.com^
-||kueezrtb.com^
 ||kuno-gae.com^
 ||kupona.de^
 ||kuqfudazkn.com^
@@ -6016,6 +6030,7 @@
 ||lbn.ru^
 ||lby2kd27c.com^
 ||lcs.loginfra.com^
+||ldjsypolwypxy.space^
 ||leadclick.com^
 ||leadplace.fr^
 ||leadzu.com^
@@ -8453,6 +8468,7 @@
 ||zimpolo.com^
 ||zipazvzu.com^
 ||zireemilsoude.net^
+||zjdpabwmeb.com^
 ||zkyrzoqc.com^
 ||zlp6s.pw^
 ||zm232.com^

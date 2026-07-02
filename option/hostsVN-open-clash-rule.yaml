@@ -108,6 +108,7 @@ payload:
   - DOMAIN-SUFFIX,cococx.com
   - DOMAIN-SUFFIX,codon.vn
   - DOMAIN-SUFFIX,combo-omni.haravan.com
+  - DOMAIN-SUFFIX,content.accesstrade.vn
   - DOMAIN-SUFFIX,contineljs.com
   - DOMAIN-SUFFIX,customers.fptad.com
   - DOMAIN-SUFFIX,dable.io
@@ -1155,7 +1156,11 @@ payload:
   - DOMAIN-SUFFIX,adt.cpatrk.net
   - DOMAIN-SUFFIX,adtag.sphdigital.com
   - DOMAIN-SUFFIX,adtago.s3.amazonaws.com
+  - DOMAIN-SUFFIX,adtarget.biz
+  - DOMAIN-SUFFIX,adtarget.com.tr
+  - DOMAIN-SUFFIX,adtarget.market
   - DOMAIN-SUFFIX,adtarget.me
+  - DOMAIN-SUFFIX,adtarget.tech
   - DOMAIN-SUFFIX,adtdp.com
   - DOMAIN-SUFFIX,adtech.yahooinc.com
   - DOMAIN-SUFFIX,adtechjp.com
@@ -1654,6 +1659,7 @@ payload:
   - DOMAIN-SUFFIX,context.iris.tv
   - DOMAIN-SUFFIX,contextweb.com
   - DOMAIN-SUFFIX,conversantmedia.com
+  - DOMAIN-SUFFIX,conversionsapigateway.com
   - DOMAIN-SUFFIX,convertexperiments.com
   - DOMAIN-SUFFIX,convertful.com
   - DOMAIN-SUFFIX,cpmstar.com
@@ -1732,6 +1738,7 @@ payload:
   - DOMAIN-SUFFIX,dit.whatsapp.net
   - DOMAIN-SUFFIX,dj1*.online
   - DOMAIN-SUFFIX,djaxadserver.com
+  - DOMAIN-SUFFIX,dl-adx.op-mobile.opera.com
   - DOMAIN-SUFFIX,dl1d2m8ri9v3j.cloudfront.net
   - DOMAIN-SUFFIX,dlog.hiido.com
   - DOMAIN-SUFFIX,dlswbr.baidu.com
@@ -2086,6 +2093,7 @@ payload:
   - DOMAIN-SUFFIX,klog.hiido.com
   - DOMAIN-SUFFIX,kochava.com
   - DOMAIN-SUFFIX,krxd.net
+  - DOMAIN-SUFFIX,kueezrtb.com
   - DOMAIN-SUFFIX,labadena.com
   - DOMAIN-SUFFIX,ladsp.com
   - DOMAIN-SUFFIX,ladsp.jp
@@ -2784,6 +2792,7 @@ payload:
   - DOMAIN-SUFFIX,swrve.com
   - DOMAIN-SUFFIX,sync.quantumdex.io
   - DOMAIN-SUFFIX,syndicatedsearch.goog
+  - DOMAIN-SUFFIX,t-odx.op-mobile.opera.com
   - DOMAIN-SUFFIX,t.apkpure.net
   - DOMAIN-SUFFIX,t.imgur.com
   - DOMAIN-SUFFIX,t.indeed.com
@@ -3795,6 +3804,7 @@ payload:
   - DOMAIN-SUFFIX,adsynergy.com
   - DOMAIN-SUFFIX,adsys.townnews.com
   - DOMAIN-SUFFIX,adsystem.simplemachines.org
+  - DOMAIN-SUFFIX,adtarget.org
   - DOMAIN-SUFFIX,adtech.com
   - DOMAIN-SUFFIX,adtech.de
   - DOMAIN-SUFFIX,adtegrity.net
@@ -5192,6 +5202,7 @@ payload:
   - DOMAIN-SUFFIX,easyhits4u.com
   - DOMAIN-SUFFIX,easysitelabs.my
   - DOMAIN-SUFFIX,eatablesquare.com
+  - DOMAIN-SUFFIX,eb.koaeunhairy.shop
   - DOMAIN-SUFFIX,ebayadvertising.com
   - DOMAIN-SUFFIX,ebetoni.com
   - DOMAIN-SUFFIX,ebxcdn.com
@@ -5837,6 +5848,9 @@ payload:
   - DOMAIN-SUFFIX,intrudefatherinlaw.com
   - DOMAIN-SUFFIX,inuvi.com
   - DOMAIN-SUFFIX,invitejs.trustpilot.com
+  - DOMAIN-SUFFIX,invl.me
+  - DOMAIN-SUFFIX,invl.us
+  - DOMAIN-SUFFIX,invle.co
   - DOMAIN-SUFFIX,invoca.net
   - DOMAIN-SUFFIX,invol.co
   - DOMAIN-SUFFIX,iodideeyebath.cam
@@ -5957,6 +5971,7 @@ payload:
   - DOMAIN-SUFFIX,kitbit.net
   - DOMAIN-SUFFIX,kiynew.com
   - DOMAIN-SUFFIX,kjdvn1340-ads.blogspot.com
+  - DOMAIN-SUFFIX,kkdeldurlxjjcz.com
   - DOMAIN-SUFFIX,klangoo.com
   - DOMAIN-SUFFIX,klclick1.com
   - DOMAIN-SUFFIX,klik.blog
@@ -5985,7 +6000,6 @@ payload:
   - DOMAIN-SUFFIX,ktu.sv2.biz
   - DOMAIN-SUFFIX,ku2d3a7pa8mdi.com
   - DOMAIN-SUFFIX,ku42hjr2e.com
-  - DOMAIN-SUFFIX,kueezrtb.com
   - DOMAIN-SUFFIX,kuno-gae.com
   - DOMAIN-SUFFIX,kupona.de
   - DOMAIN-SUFFIX,kuqfudazkn.com
@@ -6009,6 +6023,7 @@ payload:
   - DOMAIN-SUFFIX,lbn.ru
   - DOMAIN-SUFFIX,lby2kd27c.com
   - DOMAIN-SUFFIX,lcs.loginfra.com
+  - DOMAIN-SUFFIX,ldjsypolwypxy.space
   - DOMAIN-SUFFIX,leadclick.com
   - DOMAIN-SUFFIX,leadplace.fr
   - DOMAIN-SUFFIX,leadzu.com
@@ -8446,6 +8461,7 @@ payload:
   - DOMAIN-SUFFIX,zimpolo.com
   - DOMAIN-SUFFIX,zipazvzu.com
   - DOMAIN-SUFFIX,zireemilsoude.net
+  - DOMAIN-SUFFIX,zjdpabwmeb.com
   - DOMAIN-SUFFIX,zkyrzoqc.com
   - DOMAIN-SUFFIX,zlp6s.pw
   - DOMAIN-SUFFIX,zm232.com

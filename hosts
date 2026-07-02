@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Jun 2026 22:43 UTC+7
-# Version: 2606302243
-# Blocked: 18.025 domains
+# Last modified: 02 Jul 2026 11:12 UTC+7
+# Version: 2607021112
+# Blocked: 18.087 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2013,6 +2013,7 @@
 0.0.0.0 sshowads.pubmatic.com
 0.0.0.0 t.pubmatic.com
 0.0.0.0 track.pubmatic.com
+0.0.0.0 ut.pubmatic.com
 0.0.0.0 vid.pubmatic.com
 0.0.0.0 www.pubmatic.com
 #[doubleverify.com]
@@ -3227,6 +3228,7 @@
 #[openx.net]
 0.0.0.0 adasia-d.openx.net
 0.0.0.0 ads.openx.net
+0.0.0.0 apacdigital-d.openx.net
 0.0.0.0 bid.openx.net
 0.0.0.0 eu-u.openx.net
 0.0.0.0 google-bidout-d.openx.net
@@ -3627,9 +3629,10 @@
 0.0.0.0 info.bizible.com
 0.0.0.0 www.bizible.com
 #[adtarget.me]
-0.0.0.0 ads.adtarget.me
 0.0.0.0 ads-us.adtarget.me
+0.0.0.0 ads.adtarget.me
 0.0.0.0 adtarget.me
+0.0.0.0 cdn.adtarget.me
 0.0.0.0 socrates-1.adtarget.me
 0.0.0.0 socrates-6-1.adtarget.me
 0.0.0.0 staging-ads.adtarget.me
@@ -3639,6 +3642,41 @@
 0.0.0.0 system.adtarget.me
 0.0.0.0 trackers.adtarget.me
 0.0.0.0 www.adtarget.me
+0.0.0.0 z.cdn.adtarget.me
+#[adtarget.biz]
+0.0.0.0 adtarget.biz
+0.0.0.0 cdn.adtarget.biz
+0.0.0.0 static.cdn.adtarget.biz
+0.0.0.0 dsp-service.adtarget.biz
+0.0.0.0 prebid.adtarget.biz
+0.0.0.0 rtb.adtarget.biz
+0.0.0.0 adagio.rtb.adtarget.biz
+0.0.0.0 bidgear.rtb.adtarget.biz
+0.0.0.0 optima.rtb.adtarget.biz
+0.0.0.0 papayads.rtb.adtarget.biz
+0.0.0.0 weforads.rtb.adtarget.biz
+0.0.0.0 ssp-service.adtarget.biz
+0.0.0.0 www.adtarget.biz
+#[adtarget.com.tr]
+0.0.0.0 adtarget.com.tr
+0.0.0.0 cdn.adtarget.com.tr
+0.0.0.0 console.adtarget.com.tr
+0.0.0.0 adt-auxlog1-ec.console.adtarget.com.tr
+0.0.0.0 adt-auxlog2-wc.console.adtarget.com.tr
+0.0.0.0 ghb.console.adtarget.com.tr
+0.0.0.0 s.console.adtarget.com.tr
+0.0.0.0 sync.console.adtarget.com.tr
+#[adtarget.market]
+0.0.0.0 adtarget.market
+0.0.0.0 at1.adtarget.market
+0.0.0.0 at2.adtarget.market
+0.0.0.0 at3.adtarget.market
+0.0.0.0 cdn.adtarget.market
+0.0.0.0 z.cdn.adtarget.market
+0.0.0.0 www.adtarget.market
+#[adtarget.tech]
+0.0.0.0 adtarget.tech
+0.0.0.0 ai.adtarget.tech
 #[ayads.co]
 0.0.0.0 ads.ayads.co
 0.0.0.0 antenna-apse.ayads.co
@@ -4471,6 +4509,7 @@
 0.0.0.0 dp.33across.com
 0.0.0.0 dp1.33across.com
 0.0.0.0 dp2.33across.com
+0.0.0.0 et-c-ash.33across.com
 0.0.0.0 flamenipper.33across.com
 0.0.0.0 go.33across.com
 0.0.0.0 internal.33across.com
@@ -6267,7 +6306,9 @@
 0.0.0.0 rj.a-mo.net
 0.0.0.0 s.update.a-mo.net
 0.0.0.0 sdk.a-mo.net
+0.0.0.0 sea1-sync.a-mo.net
 0.0.0.0 static.a-mo.net
+0.0.0.0 sync.a-mo.net
 0.0.0.0 u.update.a-mo.net
 0.0.0.0 update.a-mo.net
 0.0.0.0 us-east-1.rtb.a-mo.net
@@ -8811,11 +8852,16 @@
 0.0.0.0 serving.datawrkz.com
 0.0.0.0 www.datawrkz.com
 #[opera.com]
+0.0.0.0 dl-adx.op-mobile.opera.com
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 s-adx.op-mobile.opera.com
 0.0.0.0 sdklog.tvstore.opera.com
+0.0.0.0 t-odx.op-mobile.opera.com
 #[adx.opera.com]
 0.0.0.0 adx.opera.com
+0.0.0.0 b-eu.adx.opera.com
+0.0.0.0 b-sg.adx.opera.com
+0.0.0.0 b-us.adx.opera.com
 0.0.0.0 px.adx.opera.com
 0.0.0.0 res.adx.opera.com
 0.0.0.0 s.adx.opera.com
@@ -9713,6 +9759,8 @@
 0.0.0.0 c.4dex.io
 0.0.0.0 mp.4dex.io
 0.0.0.0 script.4dex.io
+0.0.0.0 u-tyo.4dex.io
+0.0.0.0 u.4dex.io
 #[ximad.com]
 0.0.0.0 opt.ximad.com
 0.0.0.0 pls.ximad.com
@@ -9774,6 +9822,7 @@
 #[betweendigital.com]
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 betweendigital.com
+0.0.0.0 cache.betweendigital.com
 #[adwmg.com]
 0.0.0.0 adwmg.com
 0.0.0.0 hb.adwmg.com
@@ -11789,6 +11838,7 @@
 #[richaudience.com]
 0.0.0.0 richaudience.com
 0.0.0.0 shb.richaudience.com
+0.0.0.0 sync.richaudience.com
 #[adlogists.com]
 0.0.0.0 adlogists.com
 0.0.0.0 engine.adlogists.com
@@ -12312,6 +12362,16 @@
 0.0.0.0 click-eu-v4.junclikrmedi.com
 0.0.0.0 click-v4.junclikrmedi.com
 0.0.0.0 www.junclikrmedi.com
+#[conversionsapigateway.com]
+0.0.0.0 conversionsapigateway.com
+0.0.0.0 demo-1.conversionsapigateway.com
+0.0.0.0 gw.conversionsapigateway.com
+0.0.0.0 sgw.conversionsapigateway.com
+0.0.0.0 sgw-alpha-1.conversionsapigateway.com
+#[kueezrtb.com]
+0.0.0.0 kueezrtb.com
+0.0.0.0 exchange.kueezrtb.com
+0.0.0.0 sync.kueezrtb.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13412,6 +13472,7 @@
 0.0.0.0 piwik.rta.vn
 #[accesstrade.vn]
 0.0.0.0 ad.accesstrade.vn
+0.0.0.0 content.accesstrade.vn
 0.0.0.0 partner.accesstrade.vn
 0.0.0.0 service-api.accesstrade.vn
 0.0.0.0 static.accesstrade.vn
@@ -14945,6 +15006,7 @@
 0.0.0.0 adsynergy.com
 0.0.0.0 adsys.townnews.com
 0.0.0.0 adsystem.simplemachines.org
+0.0.0.0 adtarget.org
 0.0.0.0 adtech.com
 0.0.0.0 adtech.de
 0.0.0.0 adtegrity.net
@@ -16132,6 +16194,7 @@
 0.0.0.0 easyhits4u.com
 0.0.0.0 easysitelabs.my
 0.0.0.0 eatablesquare.com
+0.0.0.0 eb.koaeunhairy.shop
 0.0.0.0 ebayadvertising.com
 0.0.0.0 ebetoni.com
 0.0.0.0 ec-optimizer.com
@@ -16692,6 +16755,9 @@
 0.0.0.0 intowow.com
 0.0.0.0 intrudefatherinlaw.com
 0.0.0.0 inuvi.com
+0.0.0.0 invl.me
+0.0.0.0 invl.us
+0.0.0.0 invle.co
 0.0.0.0 invol.co
 0.0.0.0 iodideeyebath.cam
 0.0.0.0 iogjhbnoypg.com
@@ -16798,6 +16864,7 @@
 0.0.0.0 king3rsc7ol9e3ge.com
 0.0.0.0 kiynew.com
 0.0.0.0 kjdvn1340-ads.blogspot.com
+0.0.0.0 kkdeldurlxjjcz.com
 0.0.0.0 klclick1.com
 0.0.0.0 klik.blog
 0.0.0.0 kliks.nl
@@ -16824,7 +16891,6 @@
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 ku2d3a7pa8mdi.com
 0.0.0.0 ku42hjr2e.com
-0.0.0.0 kueezrtb.com
 0.0.0.0 kuno-gae.com
 0.0.0.0 kupona.de
 0.0.0.0 kuqfudazkn.com
@@ -16846,6 +16912,7 @@
 0.0.0.0 layer-ads.de
 0.0.0.0 lbn.ru
 0.0.0.0 lby2kd27c.com
+0.0.0.0 ldjsypolwypxy.space
 0.0.0.0 leadclick.com
 0.0.0.0 leadplace.fr
 0.0.0.0 leadzu.com
@@ -18961,6 +19028,7 @@
 0.0.0.0 zimpolo.com
 0.0.0.0 zipazvzu.com
 0.0.0.0 zireemilsoude.net
+0.0.0.0 zjdpabwmeb.com
 0.0.0.0 zkyrzoqc.com
 0.0.0.0 zlp6s.pw
 0.0.0.0 zm232.com
