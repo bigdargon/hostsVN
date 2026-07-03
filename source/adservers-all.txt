@@ -46,6 +46,7 @@ abt.s3.yandex.net
 abtasty.com
 abtest.alibaba.com
 accesstrade.net
+acds-events.adobe.io
 ace.naver.com
 acertb.com
 acobt.tech
@@ -437,6 +438,7 @@ analytics.adjust.com
 analytics.adjust.io
 analytics.adjust.net.in
 analytics.adjust.world
+analytics.adobe.io
 analytics.agoda.com
 analytics.autodesk.com
 analytics.bigdata.samsung.com
@@ -444,6 +446,7 @@ analytics.cloud.unity3d.com
 analytics.edgekey.net
 analytics.eu.adjust.com
 analytics.ff.avast.com
+analytics.githubassets.com
 analytics.google.com
 analytics.live.com
 analytics.m7g.twitch.tv
@@ -704,17 +707,20 @@ cachegorilla.com
 caclick.baidu.com
 cad.youku.com
 call.inforsea.com
-campaign.adobe.com
 capture.condenastdigital.com
 carbonads.com
 casalemedia.com
 cbsileads.com
+cc-api-data-stage.adobe.io
+cc-api-data.adobe.io
 cc.map.qq.com
 cc.sys.intl.xiaomi.com
 cc.sys.miui.com
 ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
 ccgateway.net
+cchome-stage.adobe.io
+cchome.adobe.io
 ccpa.psg.nexstardigital.net
 cdn.amplitude.com
 cdn.avantisvideo.com
@@ -796,6 +802,9 @@ collector-*.px-cloud.net
 collector-*.pxchk.net
 collector-*.tvsquared.com
 collector-*.us.tvsquared.com
+collector-cdn.github.com
+collector.github.com
+collector.githubapp.com
 collector.scopely.io
 company-target.com
 conductrics.com
@@ -819,6 +828,8 @@ conversantmedia.com
 conversionsapigateway.com
 convertexperiments.com
 convertful.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
 cpmstar.com
 cpro.baidustatic.com
 cpx.to
@@ -1143,6 +1154,7 @@ hummingbird.mavencoalition.io
 hwstats.unity3d.com
 hydra.alibaba.com
 hyperpromote.com
+hz-telemetry.adobe.io
 i-mobile.co.jp
 ia.51.la
 iad-01.braze.com
@@ -1985,7 +1997,11 @@ teads.tv
 techlab-cdn.com
 technoratimedia.com
 telemetrics.klaviyo.com
+telemetry.adobe.io
+telemetry.business.githubcopilot.com
+telemetry.enterprise.githubcopilot.com
 telemetry.gfe.nvidia.com
+telemetry.individual.githubcopilot.com
 telemetry.insights.video.a2z.com
 telemetry.microsoft.com
 telemetry.soundcloud.com

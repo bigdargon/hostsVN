@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 02 Jul 2026 11:12 UTC+7
-! Version: 2607021112
-! Blocked: 8.485 rules
+! Last modified: 03 Jul 2026 16:18 UTC+7
+! Version: 2607031618
+! Blocked: 8.506 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -896,6 +896,7 @@
 ||abtasty.com^
 ||abtest.alibaba.com^
 ||accesstrade.net^
+||acds-events.adobe.io^
 ||ace.naver.com^
 ||acertb.com^
 ||acobt.tech^
@@ -1287,6 +1288,7 @@
 ||analytics.adjust.io^
 ||analytics.adjust.net.in^
 ||analytics.adjust.world^
+||analytics.adobe.io^
 ||analytics.agoda.com^
 ||analytics.autodesk.com^
 ||analytics.bigdata.samsung.com^
@@ -1294,6 +1296,7 @@
 ||analytics.edgekey.net^
 ||analytics.eu.adjust.com^
 ||analytics.ff.avast.com^
+||analytics.githubassets.com^
 ||analytics.google.com^
 ||analytics.live.com^
 ||analytics.m7g.twitch.tv^
@@ -1554,17 +1557,20 @@
 ||caclick.baidu.com^
 ||cad.youku.com^
 ||call.inforsea.com^
-||campaign.adobe.com^
 ||capture.condenastdigital.com^
 ||carbonads.com^
 ||casalemedia.com^
 ||cbsileads.com^
+||cc-api-data-stage.adobe.io^
+||cc-api-data.adobe.io^
 ||cc.map.qq.com^
 ||cc.sys.intl.xiaomi.com^
 ||cc.sys.miui.com^
 ||ccc.sys.intl.xiaomi.com^
 ||ccc.sys.miui.com^
 ||ccgateway.net^
+||cchome-stage.adobe.io^
+||cchome.adobe.io^
 ||ccpa.psg.nexstardigital.net^
 ||cdn.amplitude.com^
 ||cdn.avantisvideo.com^
@@ -1646,6 +1652,9 @@
 ||collector-*.pxchk.net^
 ||collector-*.tvsquared.com^
 ||collector-*.us.tvsquared.com^
+||collector-cdn.github.com^
+||collector.github.com^
+||collector.githubapp.com^
 ||collector.scopely.io^
 ||company-target.com^
 ||conductrics.com^
@@ -1669,6 +1678,8 @@
 ||conversionsapigateway.com^
 ||convertexperiments.com^
 ||convertful.com^
+||copilot-telemetry-service.githubusercontent.com^
+||copilot-telemetry.githubusercontent.com^
 ||cpmstar.com^
 ||cpro.baidustatic.com^
 ||cpx.to^
@@ -1993,6 +2004,7 @@
 ||hwstats.unity3d.com^
 ||hydra.alibaba.com^
 ||hyperpromote.com^
+||hz-telemetry.adobe.io^
 ||i-mobile.co.jp^
 ||ia.51.la^
 ||iad-01.braze.com^
@@ -2835,7 +2847,11 @@
 ||techlab-cdn.com^
 ||technoratimedia.com^
 ||telemetrics.klaviyo.com^
+||telemetry.adobe.io^
+||telemetry.business.githubcopilot.com^
+||telemetry.enterprise.githubcopilot.com^
 ||telemetry.gfe.nvidia.com^
+||telemetry.individual.githubcopilot.com^
 ||telemetry.insights.video.a2z.com^
 ||telemetry.microsoft.com^
 ||telemetry.soundcloud.com^
@@ -3519,6 +3535,7 @@
 ||ads.bid^
 ||ads.bigfoot.com^
 ||ads.bittorrent.com^
+||ads.bizwd.net^
 ||ads.blog.com^
 ||ads.bluemountain.com^
 ||ads.boylesports.com^
@@ -4591,7 +4608,6 @@
 ||cben1.net^
 ||cbmall.com^
 ||cbx.net^
-||cc-api-data.adobe.io^
 ||cc.swiftype.com^
 ||ccjzuavqrh.com^
 ||cd-ads.com^
@@ -4785,7 +4801,6 @@
 ||collect.analyse.lnearn.com^
 ||collect.usefathom.com^
 ||collect.verify.lnearn.com^
-||collector.githubapp.com^
 ||collector.leaddyno.com^
 ||collector.megaxh.com^
 ||collector.pi.spectrum.net^
@@ -4909,6 +4924,7 @@
 ||crudenessfinishersacred.com^
 ||crummydevioussucculent.com^
 ||crumpetprankerstench.com^
+||cruncherpatiencestoreroom.com^
 ||crunchybears.com^
 ||cruzswim.org^
 ||csdian.net^
@@ -5346,6 +5362,7 @@
 ||extreme-dm.com^
 ||extremetracking.com^
 ||ey43.com^
+||eycfdxhanqord.site^
 ||eyebrowscrambledlater.com^
 ||eyereturn.com^
 ||eyeviewads.com^
@@ -6012,6 +6029,7 @@
 ||kuqfudazkn.com^
 ||kvkaa.com^
 ||kw3y5otoeuniv7e9rsi.com^
+||kx.upturnsidoist.cyou^
 ||kykay.com^
 ||kzuocxorfo.com^
 ||laceassumestatic.com^
@@ -7280,6 +7298,7 @@
 ||rumadel.com^
 ||runads.com^
 ||rusenov.com^
+||rutseasickmunch.com^
 ||ruvsraaklrih.com^
 ||ruwjkygaxo.com^
 ||rvrpushserv.com^
@@ -7788,6 +7807,7 @@
 ||terra8nb.com^
 ||terriblethumb.com^
 ||testingmetriksbre.ru^
+||tevitpcfav.com^
 ||text-link-ads.com^
 ||textads.biz^
 ||textlinks.com^
@@ -8477,6 +8497,7 @@
 ||zoosnet.net^
 ||zovidree.com^
 ||ztumuvofzbfe.com^
+||zuchhsparxodc.site^
 ||zucoagorsout.com^
 ||zuieggzsdlo.com^
 ||zumdivdwug.com^
