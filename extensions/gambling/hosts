@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 06 Jul 2026 14:28 UTC+7
-# Version: 2607061428
-# Blocked: 65.682 domains
+# Last modified: 09 Jul 2026 14:52 UTC+7
+# Version: 2607091452
+# Blocked: 65.694 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14224,6 +14224,7 @@
 0.0.0.0 3bet.biz
 0.0.0.0 3bet.host
 0.0.0.0 3bet.la
+0.0.0.0 3bet.llc
 0.0.0.0 3bet.ph
 0.0.0.0 3bet.sh
 0.0.0.0 3bet.ski
@@ -32835,6 +32836,7 @@
 0.0.0.0 ball88.fun
 0.0.0.0 ball88.fyi
 0.0.0.0 ball88.games
+0.0.0.0 ball88.lat
 0.0.0.0 ball88.llc
 0.0.0.0 ball88.men
 0.0.0.0 ball88.mobi
@@ -34807,6 +34809,7 @@
 0.0.0.0 bom88.net
 0.0.0.0 bom88.pics
 0.0.0.0 bom88.plus
+0.0.0.0 bom88.shop
 0.0.0.0 bomei66.com
 0.0.0.0 bomtanhoitu.live
 0.0.0.0 bomvip.club
@@ -38383,6 +38386,7 @@
 0.0.0.0 du5050.com
 0.0.0.0 du5151.com
 0.0.0.0 du5252.com
+0.0.0.0 du88.art
 0.0.0.0 du88.cafe
 0.0.0.0 du88.club
 0.0.0.0 du88.com
@@ -40984,6 +40988,7 @@
 0.0.0.0 gemwin.nz
 0.0.0.0 gemwin.onl
 0.0.0.0 gemwin.page
+0.0.0.0 gemwin.spot
 0.0.0.0 gemwin.tax
 0.0.0.0 gemwin.to
 0.0.0.0 gemwin.tv
@@ -41938,6 +41943,7 @@
 0.0.0.0 hbc789.work
 0.0.0.0 hbet.ac
 0.0.0.0 hbet.club
+0.0.0.0 hbet.fm
 0.0.0.0 hbet.li
 0.0.0.0 hbet.lv
 0.0.0.0 hbet.net
@@ -49307,6 +49313,7 @@
 0.0.0.0 lttfun66.com
 0.0.0.0 lttyuming.com
 0.0.0.0 lu88.ai
+0.0.0.0 lu88.ch
 0.0.0.0 lu88.co
 0.0.0.0 lu88.com
 0.0.0.0 lu88.gdn
@@ -50350,6 +50357,7 @@
 0.0.0.0 man79.org
 0.0.0.0 man88.biz
 0.0.0.0 man88.bz
+0.0.0.0 man88.co
 0.0.0.0 man88.la
 0.0.0.0 man88.net
 0.0.0.0 man88.ng
@@ -55447,6 +55455,7 @@
 0.0.0.0 sk.xibet.com
 0.0.0.0 sk.xibet.ec
 0.0.0.0 sk.xibet.fun
+0.0.0.0 sk.xibet.vu
 0.0.0.0 sk.zbet.ws
 0.0.0.0 sk051.com
 0.0.0.0 sk9905.com
@@ -57482,6 +57491,7 @@
 0.0.0.0 tx88.ing
 0.0.0.0 tx88.la
 0.0.0.0 tx88.llc
+0.0.0.0 tx88.now
 0.0.0.0 tx88.onl
 0.0.0.0 tx88.top
 0.0.0.0 tx88.vet
@@ -63281,6 +63291,7 @@
 0.0.0.0 xibet.ec
 0.0.0.0 xibet.fun
 0.0.0.0 xibet.vg
+0.0.0.0 xibet.vu
 0.0.0.0 xibet.win
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xifali.com
@@ -65561,6 +65572,7 @@
 0.0.0.0 zou18190.com
 0.0.0.0 zowin.bh
 0.0.0.0 zowin.esq
+0.0.0.0 zowin.fan
 0.0.0.0 zowin.im
 0.0.0.0 zowin.is
 0.0.0.0 zowin.kim

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Jul 2026 14:28 UTC+7
-! Version: 2607061428
-! Blocked: 8.517 rules
+! Last modified: 09 Jul 2026 14:52 UTC+7
+! Version: 2607091452
+! Blocked: 8.533 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1600,6 +1600,8 @@
 ||ced-ns.sascdn.com^
 ||ced.sascdn.com^
 ||celtra.com^
+||cfgc.flysleep.cn^
+||cfgc.zztfly.com^
 ||cfjump.com^
 ||chartbeat.com^
 ||chartbeat.net^
@@ -1789,6 +1791,7 @@
 ||duapps.com^
 ||dup.baidustatic.com^
 ||durationmedia.net^
+||dutils.com^
 ||dynatrace.att.com^
 ||e-planning.net^
 ||e-volution.ai^
@@ -1983,6 +1986,7 @@
 ||hetaruvg.com^
 ||hetaruwg.com^
 ||heyzap.com^
+||hiaiabc.com^
 ||histats.com^
 ||hkrpg-log-upload-os.hoyoverse.com^
 ||hlog.hiido.com^
@@ -2143,6 +2147,8 @@
 ||llxads.com^
 ||loader-cdn.azureedge.net^
 ||localytics.com^
+||log-auth.flysleep.cn^
+||log-auth.zztfly.com^
 ||log-boot.capcutapi.com^
 ||log-hl.snssdk.com^
 ||log-sg.capcutapi.com^
@@ -2226,6 +2232,7 @@
 ||martech.condenastdigital.com^
 ||mathtag.com^
 ||mathtag.com.edgekey.net^
+||maticooads.com^
 ||matomo.cloud^
 ||mavq.net^
 ||maxesads.com^
@@ -2449,6 +2456,7 @@
 ||pangle.io^
 ||pangolin16.sgsnssdk.com^
 ||parkingcrew.net^
+||parklogic.com^
 ||parrable.com^
 ||parsely.com^
 ||participants.evolv.ai^
@@ -2968,6 +2976,8 @@
 ||unoadsrv.com^
 ||unrulymedia.com^
 ||up-hl.3g.qq.com^
+||upc.flysleep.cn^
+||upc.zztfly.com^
 ||update.fbsbx.com^
 ||upravel.com^
 ||uprimp.com^
@@ -4969,6 +4979,7 @@
 ||d1n00d49gkbray.cloudfront.net^
 ||d1nssfq3xl2t6b.cloudfront.net^
 ||d1pn3cn3ri604k.cloudfront.net^
+||d1tru86qrby720.cloudfront.net^
 ||d1u5ibtsigyagv.cloudfront.net^
 ||d1ugiptma3cglb.cloudfront.net^
 ||d1uzjiv6zzdlbc.cloudfront.net^
@@ -5713,6 +5724,7 @@
 ||hixwwert.in^
 ||hj.combusteschel.shop^
 ||hlog.bclugu.com^
+||hnzjxjfepbpr.com^
 ||hockeyhavoc.com^
 ||holahupa.com^
 ||homepageking.de^
@@ -6119,7 +6131,6 @@
 ||localmantra.com^
 ||localmediabuying.com^
 ||lockerdomecdn.com^
-||log-auth.zztfly.com^
 ||log-eap-sg.coloros.com^
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.mihoyo.com^
@@ -7480,6 +7491,7 @@
 ||skimlinks.com^
 ||skullhalfway.com^
 ||skylink.vn^
+||sl.maundysinon.cyou^
 ||sleeknote.com^
 ||slicktext.com^
 ||slidbecauseemerald.com^
@@ -7840,6 +7852,7 @@
 ||thoorest.com^
 ||thoosje.com^
 ||thripelbertie.website^
+||throbbingvagueforms.com^
 ||thrtle.com^
 ||thruport.com^
 ||thubanoa.com^
@@ -7914,6 +7927,8 @@
 ||touchclarity.com^
 ||tour.brazzers.com^
 ||tpnads.com^
+||tqgyzwquwu.com^
+||tqvnfnotrhyfl.site^
 ||trac.mediaiqdigital.com^
 ||track-aws.notsy.io^
 ||track.56txs4.com^
@@ -8238,6 +8253,7 @@
 ||vr.ringentkenlore.com^
 ||vrs.cz^
 ||vs.tucows.com^
+||vsgdodqfjpdws.space^
 ||vsgpxqdqk.com^
 ||vtacibqzopiw.com^
 ||vteskyombq.com^

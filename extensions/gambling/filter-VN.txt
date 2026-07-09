@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 06 Jul 2026 14:28 UTC+7
-! Version: 2607061428
-! Blocked: 3.238 rules
+! Last modified: 09 Jul 2026 14:52 UTC+7
+! Version: 2607091452
+! Blocked: 3.250 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -117,6 +117,7 @@
 ||3bet.biz^
 ||3bet.host^
 ||3bet.la^
+||3bet.llc^
 ||3bet.ph^
 ||3bet.sh^
 ||3bet.ski^
@@ -492,6 +493,7 @@
 ||ball88.fun^
 ||ball88.fyi^
 ||ball88.games^
+||ball88.lat^
 ||ball88.llc^
 ||ball88.men^
 ||ball88.mobi^
@@ -579,6 +581,7 @@
 ||bom88.net^
 ||bom88.pics^
 ||bom88.plus^
+||bom88.shop^
 ||bong.thethaowin.net^
 ||bong88.cam^
 ||bong88.com^
@@ -829,6 +832,7 @@
 ||dp533.com^
 ||dp568.com^
 ||dp568bet.com^
+||du88.art^
 ||du88.cafe^
 ||du88.club^
 ||du88.com^
@@ -1081,6 +1085,7 @@
 ||gemwin.my^
 ||gemwin.nz^
 ||gemwin.page^
+||gemwin.spot^
 ||gemwin.tax^
 ||gemwin.to^
 ||gemwin.tv^
@@ -1163,6 +1168,7 @@
 ||hb88vn.co^
 ||hbet.ac^
 ||hbet.club^
+||hbet.fm^
 ||hbet.li^
 ||hbet.lv^
 ||hbet.net^
@@ -1667,6 +1673,7 @@
 ||lp.zo1.win^
 ||lt991.com^
 ||lu88.ai^
+||lu88.ch^
 ||lu88.co^
 ||lu88.com^
 ||lu88.gdn^
@@ -1811,6 +1818,7 @@
 ||man79.org^
 ||man88.biz^
 ||man88.bz^
+||man88.co^
 ||man88.la^
 ||man88.net^
 ||man88.ng^
@@ -2375,6 +2383,7 @@
 ||sk.xibet.com^
 ||sk.xibet.ec^
 ||sk.xibet.fun^
+||sk.xibet.vu^
 ||sk.zbet.ws^
 ||sky88.bet^
 ||sky88.club^
@@ -2728,6 +2737,7 @@
 ||tx88.ing^
 ||tx88.la^
 ||tx88.llc^
+||tx88.now^
 ||tx88.onl^
 ||tx88.top^
 ||tx88.vet^
@@ -3147,6 +3157,7 @@
 ||xibet.ec^
 ||xibet.fun^
 ||xibet.vg^
+||xibet.vu^
 ||xibet.win^
 ||xidach.8day66.com^
 ||xingtou888.com^
@@ -3228,6 +3239,7 @@
 ||zoplay.top^
 ||zowin.bh^
 ||zowin.esq^
+||zowin.fan^
 ||zowin.im^
 ||zowin.is^
 ||zowin.kim^
