@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 09 Jul 2026 14:52 UTC+7
-! Version: 2607091452
-! Blocked: 64.627 rules
+! Last modified: 13 Jul 2026 16:52 UTC+7
+! Version: 2607131652
+! Blocked: 64.641 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -14229,6 +14229,7 @@
 ||3bet.host^
 ||3bet.la^
 ||3bet.llc^
+||3bet.moe^
 ||3bet.ph^
 ||3bet.sh^
 ||3bet.ski^
@@ -24134,6 +24135,7 @@
 ||789betz.com^
 ||789bingo.com^
 ||789ci.com^
+||789club.al^
 ||789club.am^
 ||789club.ba^
 ||789club.biz^
@@ -32847,6 +32849,7 @@
 ||ball88.games^
 ||ball88.lat^
 ||ball88.llc^
+||ball88.ltd^
 ||ball88.men^
 ||ball88.mobi^
 ||ball88.red^
@@ -34811,6 +34814,7 @@
 ||boluna.net^
 ||bom28.com^
 ||bom52.club^
+||bom88.click^
 ||bom88.com^
 ||bom88.cool^
 ||bom88.diy^
@@ -38401,6 +38405,7 @@
 ||du5252.com^
 ||du88.art^
 ||du88.cafe^
+||du88.care^
 ||du88.club^
 ||du88.com^
 ||du88.in^
@@ -41963,6 +41968,7 @@
 ||hbet.li^
 ||hbet.lv^
 ||hbet.net^
+||hbet.nl^
 ||hbet.ph^
 ||hbet.pw^
 ||hbet.win^
@@ -47426,6 +47432,7 @@
 ||k8794.com^
 ||k8799.com^
 ||k87kjs32s239.com^
+||k88.art^
 ||k88.casino^
 ||k88.club^
 ||k88.mobi^
@@ -49333,6 +49340,7 @@
 ||lu88.ch^
 ||lu88.co^
 ||lu88.com^
+||lu88.ec^
 ||lu88.gdn^
 ||lu88.kim^
 ||lu88.mn^
@@ -50382,6 +50390,7 @@
 ||man88.pw^
 ||man88.sh^
 ||man88.top^
+||man88.vc^
 ||man88.vip^
 ||man88.win^
 ||manabane.com^
@@ -55450,6 +55459,7 @@
 ||sk.ball88.day^
 ||sk.ball88.fun^
 ||sk.ball88.llc^
+||sk.ball88.ltd^
 ||sk.ball88.men^
 ||sk.ball88.mobi^
 ||sk.ball88.to^
@@ -55482,6 +55492,7 @@
 ||sk.xibet.com^
 ||sk.xibet.ec^
 ||sk.xibet.fun^
+||sk.xibet.ing^
 ||sk.xibet.vu^
 ||sk.zbet.ws^
 ||sk051.com^
@@ -57518,6 +57529,7 @@
 ||tx88.ing^
 ||tx88.la^
 ||tx88.llc^
+||tx88.navy^
 ||tx88.now^
 ||tx88.onl^
 ||tx88.top^
@@ -59507,6 +59519,7 @@
 ||vu88.la^
 ||vu88.live^
 ||vu88.lv^
+||vu88.mx^
 ||vu88.net^
 ||vu88.sh^
 ||vu88.tv^
@@ -62220,6 +62233,7 @@
 ||xibet.com^
 ||xibet.ec^
 ||xibet.fun^
+||xibet.ing^
 ||xibet.vg^
 ||xibet.vu^
 ||xibet.win^
