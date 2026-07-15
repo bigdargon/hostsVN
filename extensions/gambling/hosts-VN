@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 13 Jul 2026 16:52 UTC+7
-# Version: 2607131652
-# Blocked: 3.698 domains
+# Last modified: 15 Jul 2026 15:53 UTC+7
+# Version: 2607151553
+# Blocked: 3.705 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -115,6 +115,7 @@
 0.0.0.0 388bet.vin
 0.0.0.0 388bet.vip
 0.0.0.0 3bet.biz
+0.0.0.0 3bet.center
 0.0.0.0 3bet.host
 0.0.0.0 3bet.la
 0.0.0.0 3bet.llc
@@ -183,6 +184,7 @@
 0.0.0.0 789club.ba
 0.0.0.0 789club.biz
 0.0.0.0 789club.com
+0.0.0.0 789club.ke
 0.0.0.0 789club.org
 0.0.0.0 789club.sx
 0.0.0.0 789club.vg
@@ -487,6 +489,7 @@
 0.0.0.0 bacty88.com
 0.0.0.0 ball88.app
 0.0.0.0 ball88.com
+0.0.0.0 ball88.cool
 0.0.0.0 ball88.day
 0.0.0.0 ball88.fun
 0.0.0.0 ball88.fyi
@@ -573,6 +576,7 @@
 0.0.0.0 bk8win.top
 0.0.0.0 bntv.bongvip.com
 0.0.0.0 bom52.club
+0.0.0.0 bom88.baby
 0.0.0.0 bom88.click
 0.0.0.0 bom88.com
 0.0.0.0 bom88.cool
@@ -837,6 +841,7 @@
 0.0.0.0 du88.care
 0.0.0.0 du88.club
 0.0.0.0 du88.com
+0.0.0.0 du88.guru
 0.0.0.0 du88.in
 0.0.0.0 du88.info
 0.0.0.0 du88.life
@@ -1176,6 +1181,7 @@
 0.0.0.0 hbet.nl
 0.0.0.0 hbet.ph
 0.0.0.0 hbet.pw
+0.0.0.0 hbet.so
 0.0.0.0 hbet.win
 0.0.0.0 hcm66.com
 0.0.0.0 hd88.tv
@@ -2741,6 +2747,7 @@
 0.0.0.0 tx88.onl
 0.0.0.0 tx88.top
 0.0.0.0 tx88.vet
+0.0.0.0 tx88.zone
 0.0.0.0 tydo88.com
 0.0.0.0 tz.bet20.bet
 0.0.0.0 u88.watch

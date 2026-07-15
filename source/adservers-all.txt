@@ -66,12 +66,14 @@ ad-stir.com
 ad.*.xiaomi.com
 ad.a.yximgs.com
 ad.api.attribuly.com
+ad.cj.sina.cn
 ad.daum.net
 ad.dev.360.cn
 ad.ettoday.net
 ad.gamebox.360.cn
 ad.go.com
 ad.gt
+ad.hunyuan.tencent.com
 ad.jia.360.cn
 ad.jiguang.cn
 ad.kakao.com
@@ -81,6 +83,7 @@ ad.plus
 ad.qq.com
 ad.style
 ad.tiktokv.us
+ad.us.sinaimg.cn
 ad.weibo.com
 ad.xiaomi.com
 ad.youku.com
@@ -142,7 +145,7 @@ adiiix.com
 adimage.sphdigital.com
 adimages.go.com
 adimg.cbsi.com
-adimg.uve.weibo.com
+adimg.mobile.sina.cn
 adinfo.tango.me
 adingo.jp
 adinsight.co.kr
@@ -242,6 +245,7 @@ ads.realmemobile.com
 ads.reddit.com
 ads.rmbl.ws
 ads.samba.tv
+ads.sina.com
 ads.snapchat.com
 ads.sportradar.com
 ads.thesun.co.uk
@@ -308,7 +312,6 @@ adstag0102.xyz
 adstage-analytics.herokuapp.com
 adstatic.b-cdn.net
 adsterra.org
-adstrategy.biz.weibo.com
 adswizz.com
 adsyndication.msn.com
 adt.cpatrk.net
@@ -405,6 +408,7 @@ akstat.io
 alb.reddit.com
 alcmpn.com
 alexametrics.com
+alitui.weibo.com
 alphonso.tv
 als-svc.nytimes.com
 als.baidu.com
@@ -471,6 +475,7 @@ analyticsengine.s3.amazonaws.com
 analyticsnew.overwolf.com
 anapixel.marca.com
 andbeyond.media
+android.bugly.tencent.com
 androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
 aniview.com
@@ -615,7 +620,9 @@ bdtt.b-cdn.net
 beacon-api.aliyuncs.com
 beacon.affil.walmart.com
 beacon.qq.com
+beacon.sina.com.cn
 beacon.sojern.com
+beacon.tencent.com
 beacon.tingyun.com
 beacon.walmart.com
 beacons*.gvt3.com
@@ -646,6 +653,7 @@ bingads.microsoft.com
 birdgesdk.com
 bitmedia.io
 bitmedianetwork.com
+biz.weibo.com
 bizible.com
 bizographics.com
 bkrtx.com
@@ -832,6 +840,7 @@ convertexperiments.com
 convertful.com
 copilot-telemetry-service.githubusercontent.com
 copilot-telemetry.githubusercontent.com
+counter.sina.com.cn
 cpmstar.com
 cpro.baidustatic.com
 cpx.to
@@ -1056,6 +1065,7 @@ ga.clearbit.com
 gads*s.com
 gads*z.com
 galaxiemedia.fr
+galileotelemetry.tencent.com
 gameads.io
 gameanalytics.com
 gamesrevenue.com
@@ -1113,6 +1123,10 @@ gsp1.baidu.com
 gsspat.jp
 gssprt.jp
 guardianapps.co.uk
+guid.tpns.hk.tencent.com
+guid.tpns.sgp.tencent.com
+guid.tpns.sh.tencent.com
+guid.tpns.tencent.com
 gumgum.com
 guoshipartners.com
 gvt2.com
@@ -1224,6 +1238,7 @@ invitemedia.com
 invl.co
 ioam.de
 ios-pclog.3u.com
+ios.bugly.tencent.com
 ios.pclog.3u.com
 ip-info.ff.avast.com
 iperceptions.com
@@ -1315,19 +1330,25 @@ log.fc.yahoo.com
 log.go.com
 log.isnssdk.com
 log.kajicam.com
+log.mix.sina.com.cn
 log.optimizely.com
 log.pinterest.com
+log.sina.cn
 log.snssdk.com
 log.spotify.com
 log.strm.yandex.ru
 log.tbs.qq.com
 log.tpns.gz2.tencent.com
+log.tpns.hk.tencent.com
+log.tpns.sgp.tencent.com
+log.tpns.sh.tencent.com
 log.tpns.tencent.com
 log1.cmpassport.com
 log16-normal-sg.capcutapi.com
 log16-normal-us-ttp.capcutapi.us
 log16-normal.capcutapi.com
 log2.cmpassport.com
+log2.sina.cn
 log2.spotify.com
 log32-normal-sg.capcutapi.com
 log32-normal.capcutapi.com
@@ -1517,6 +1538,8 @@ mssdk16-normal-us-ttp.capcutapi.us
 mssdk16-normal.capcutapi.com
 mssdk32-normal-sg.capcutapi.com
 mssdk32-normal.capcutapi.com
+mstat.tpns.sh.tencent.com
+mstat.tpns.tencent.com
 mstorer.net
 mtgglobals.com
 mtrace.qq.com
@@ -1825,6 +1848,7 @@ samsungacr.com
 samsungadhub.com
 samsungads.com
 samsungtvads.com
+sbeacon.sina.com.cn
 scanscout.com
 scarabresearch.com
 scorchads.com
@@ -1929,6 +1953,9 @@ stat.e.tf.360.cn
 stat.m.360.cn
 stat.ovh
 stat.tpns.gz2.tencent.com
+stat.tpns.hk.tencent.com
+stat.tpns.sgp.tencent.com
+stat.tpns.sh.tencent.com
 stat.tpns.tencent.com
 statcounter.com
 statgw.devtodev.com
@@ -1937,6 +1964,7 @@ static-tracking.klaviyo.com
 static.addtoany.com
 static.aprod.scopely.io
 staticstuff.net
+statistic.cj.sina.cn
 stats.addtoany.com
 stats.adobe.com
 stats.avast.com
@@ -2100,6 +2128,7 @@ tvpixel.com
 twiago.com
 twinrdack.com
 tynt.com
+u1.img.mobile.sina.cn
 uaas.yandex.ru
 ubembed.com
 uc.ucweb.com
@@ -2141,6 +2170,7 @@ userreporting.cloud.unity3d.com
 usp1.baidu.com
 ust-ad.com
 uuidksinc.net
+uve.weibo.com
 v*.denakop.com
 v.shopify.com
 v16-ad.byteoversea.com
@@ -2178,7 +2208,6 @@ volceapplog.com
 voodoo-ads.io
 voodoo-analytics.io
 vortex.hulu.com
-vs.biz.weibo.com
 vserv.mobi
 vungle.com
 w3-reporting-nel.reddit.com

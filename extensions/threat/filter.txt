@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 13 Jul 2026 16:52 UTC+7
-! Version: 2607131652
-! Blocked: 4.886 rules
+! Last modified: 15 Jul 2026 15:53 UTC+7
+! Version: 2607151553
+! Blocked: 4.891 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -229,6 +229,8 @@
 ||api.garageserviceoperation.com^
 ||api.simpletra.com^
 ||app.amazon-line.com^
+||app.ledger-live-web.io^
+||app.ledger-lives-desktop.io^
 ||app.mybigc.net^
 ||app.senaobz.cc^
 ||app.zingmp3.pro^
@@ -1586,6 +1588,9 @@
 ||lditsdebriisar.cfd^
 ||ldp.page^
 ||leanhtien.net^
+||ledger-lives-desktop.io^
+||ledgertp.com^
+||legder.com-softwares.com^
 ||lelong.shop^
 ||letanggiai01.com^
 ||letangqua2022.com^

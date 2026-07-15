@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 13 Jul 2026 16:52 UTC+7
-! Version: 2607131652
-! Blocked: 3.264 rules
+! Last modified: 15 Jul 2026 15:53 UTC+7
+! Version: 2607151553
+! Blocked: 3.271 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -115,6 +115,7 @@
 ||388bet.vin^
 ||388bet.vip^
 ||3bet.biz^
+||3bet.center^
 ||3bet.host^
 ||3bet.la^
 ||3bet.llc^
@@ -184,6 +185,7 @@
 ||789club.ba^
 ||789club.biz^
 ||789club.com^
+||789club.ke^
 ||789club.org^
 ||789club.sx^
 ||789club.vg^
@@ -491,6 +493,7 @@
 ||bacty88.com^
 ||ball88.app^
 ||ball88.com^
+||ball88.cool^
 ||ball88.day^
 ||ball88.fun^
 ||ball88.fyi^
@@ -577,6 +580,7 @@
 ||bk8win.top^
 ||bntv.bongvip.com^
 ||bom52.club^
+||bom88.baby^
 ||bom88.click^
 ||bom88.com^
 ||bom88.cool^
@@ -841,6 +845,7 @@
 ||du88.care^
 ||du88.club^
 ||du88.com^
+||du88.guru^
 ||du88.in^
 ||du88.info^
 ||du88.life^
@@ -1180,6 +1185,7 @@
 ||hbet.nl^
 ||hbet.ph^
 ||hbet.pw^
+||hbet.so^
 ||hbet.win^
 ||hcm66.com^
 ||hd88.tv^
@@ -2753,6 +2759,7 @@
 ||tx88.onl^
 ||tx88.top^
 ||tx88.vet^
+||tx88.zone^
 ||tydo88.com^
 ||tz.bet20.bet^
 ||u88.watch^

@@ -909,12 +909,14 @@
 *.ad.*.xiaomi.com
 *.ad.a.yximgs.com
 *.ad.api.attribuly.com
+*.ad.cj.sina.cn
 *.ad.daum.net
 *.ad.dev.360.cn
 *.ad.ettoday.net
 *.ad.gamebox.360.cn
 *.ad.go.com
 *.ad.gt
+*.ad.hunyuan.tencent.com
 *.ad.jia.360.cn
 *.ad.jiguang.cn
 *.ad.kakao.com
@@ -924,6 +926,7 @@
 *.ad.qq.com
 *.ad.style
 *.ad.tiktokv.us
+*.ad.us.sinaimg.cn
 *.ad.weibo.com
 *.ad.xiaomi.com
 *.ad.youku.com
@@ -985,7 +988,7 @@
 *.adimage.sphdigital.com
 *.adimages.go.com
 *.adimg.cbsi.com
-*.adimg.uve.weibo.com
+*.adimg.mobile.sina.cn
 *.adinfo.tango.me
 *.adingo.jp
 *.adinsight.co.kr
@@ -1085,6 +1088,7 @@
 *.ads.reddit.com
 *.ads.rmbl.ws
 *.ads.samba.tv
+*.ads.sina.com
 *.ads.snapchat.com
 *.ads.sportradar.com
 *.ads.thesun.co.uk
@@ -1151,7 +1155,6 @@
 *.adstage-analytics.herokuapp.com
 *.adstatic.b-cdn.net
 *.adsterra.org
-*.adstrategy.biz.weibo.com
 *.adswizz.com
 *.adsyndication.msn.com
 *.adt.cpatrk.net
@@ -1248,6 +1251,7 @@
 *.alb.reddit.com
 *.alcmpn.com
 *.alexametrics.com
+*.alitui.weibo.com
 *.alphonso.tv
 *.als-svc.nytimes.com
 *.als.baidu.com
@@ -1314,6 +1318,7 @@
 *.analyticsnew.overwolf.com
 *.anapixel.marca.com
 *.andbeyond.media
+*.android.bugly.tencent.com
 *.androidtvchannels-pa.googleapis.com
 *.androidtvwatsonfe-pa.googleapis.com
 *.aniview.com
@@ -1458,7 +1463,9 @@
 *.beacon-api.aliyuncs.com
 *.beacon.affil.walmart.com
 *.beacon.qq.com
+*.beacon.sina.com.cn
 *.beacon.sojern.com
+*.beacon.tencent.com
 *.beacon.tingyun.com
 *.beacon.walmart.com
 *.beacons*.gvt3.com
@@ -1489,6 +1496,7 @@
 *.birdgesdk.com
 *.bitmedia.io
 *.bitmedianetwork.com
+*.biz.weibo.com
 *.bizible.com
 *.bizographics.com
 *.bkrtx.com
@@ -1675,6 +1683,7 @@
 *.convertful.com
 *.copilot-telemetry-service.githubusercontent.com
 *.copilot-telemetry.githubusercontent.com
+*.counter.sina.com.cn
 *.cpmstar.com
 *.cpro.baidustatic.com
 *.cpx.to
@@ -1899,6 +1908,7 @@
 *.gads*s.com
 *.gads*z.com
 *.galaxiemedia.fr
+*.galileotelemetry.tencent.com
 *.gameads.io
 *.gameanalytics.com
 *.gamesrevenue.com
@@ -1956,6 +1966,10 @@
 *.gsspat.jp
 *.gssprt.jp
 *.guardianapps.co.uk
+*.guid.tpns.hk.tencent.com
+*.guid.tpns.sgp.tencent.com
+*.guid.tpns.sh.tencent.com
+*.guid.tpns.tencent.com
 *.gumgum.com
 *.guoshipartners.com
 *.gvt2.com
@@ -2067,6 +2081,7 @@
 *.invl.co
 *.ioam.de
 *.ios-pclog.3u.com
+*.ios.bugly.tencent.com
 *.ios.pclog.3u.com
 *.ip-info.ff.avast.com
 *.iperceptions.com
@@ -2158,19 +2173,25 @@
 *.log.go.com
 *.log.isnssdk.com
 *.log.kajicam.com
+*.log.mix.sina.com.cn
 *.log.optimizely.com
 *.log.pinterest.com
+*.log.sina.cn
 *.log.snssdk.com
 *.log.spotify.com
 *.log.strm.yandex.ru
 *.log.tbs.qq.com
 *.log.tpns.gz2.tencent.com
+*.log.tpns.hk.tencent.com
+*.log.tpns.sgp.tencent.com
+*.log.tpns.sh.tencent.com
 *.log.tpns.tencent.com
 *.log1.cmpassport.com
 *.log16-normal-sg.capcutapi.com
 *.log16-normal-us-ttp.capcutapi.us
 *.log16-normal.capcutapi.com
 *.log2.cmpassport.com
+*.log2.sina.cn
 *.log2.spotify.com
 *.log32-normal-sg.capcutapi.com
 *.log32-normal.capcutapi.com
@@ -2360,6 +2381,8 @@
 *.mssdk16-normal.capcutapi.com
 *.mssdk32-normal-sg.capcutapi.com
 *.mssdk32-normal.capcutapi.com
+*.mstat.tpns.sh.tencent.com
+*.mstat.tpns.tencent.com
 *.mstorer.net
 *.mtgglobals.com
 *.mtrace.qq.com
@@ -2668,6 +2691,7 @@
 *.samsungadhub.com
 *.samsungads.com
 *.samsungtvads.com
+*.sbeacon.sina.com.cn
 *.scanscout.com
 *.scarabresearch.com
 *.scorchads.com
@@ -2772,6 +2796,9 @@
 *.stat.m.360.cn
 *.stat.ovh
 *.stat.tpns.gz2.tencent.com
+*.stat.tpns.hk.tencent.com
+*.stat.tpns.sgp.tencent.com
+*.stat.tpns.sh.tencent.com
 *.stat.tpns.tencent.com
 *.statcounter.com
 *.statgw.devtodev.com
@@ -2780,6 +2807,7 @@
 *.static.addtoany.com
 *.static.aprod.scopely.io
 *.staticstuff.net
+*.statistic.cj.sina.cn
 *.stats.addtoany.com
 *.stats.adobe.com
 *.stats.avast.com
@@ -2943,6 +2971,7 @@
 *.twiago.com
 *.twinrdack.com
 *.tynt.com
+*.u1.img.mobile.sina.cn
 *.uaas.yandex.ru
 *.ubembed.com
 *.uc.ucweb.com
@@ -2984,6 +3013,7 @@
 *.usp1.baidu.com
 *.ust-ad.com
 *.uuidksinc.net
+*.uve.weibo.com
 *.v*.denakop.com
 *.v.shopify.com
 *.v16-ad.byteoversea.com
@@ -3021,7 +3051,6 @@
 *.voodoo-ads.io
 *.voodoo-analytics.io
 *.vortex.hulu.com
-*.vs.biz.weibo.com
 *.vserv.mobi
 *.vungle.com
 *.w3-reporting-nel.reddit.com
@@ -3326,7 +3355,6 @@
 *.ad.trafficgate.net
 *.ad.tv2.no
 *.ad.unimhk.com
-*.ad.us.sinaimg.cn
 *.ad.usatoday.com
 *.ad.virtual-nights.com
 *.ad.weatherbug.com
@@ -3976,6 +4004,7 @@
 *.agqoshfujku.com
 *.agtcmuohbt.in
 *.ah-ha.com
+*.ah.eyesnamda.cfd
 *.ahalogy.com
 *.ahdcrajmzbtvj.com
 *.aheadday.com
@@ -5437,6 +5466,7 @@
 *.fluencypierre.com
 *.flyingsquirellsmooch.com
 *.fnbauniukvi.com
+*.fnzocmpkp.com
 *.fo.iemiq.com
 *.footbathmockerpurse.com
 *.for-j.com
@@ -5582,6 +5612,7 @@
 *.go.cuteab.com
 *.go.imkirh.com
 *.go.mavrtracktor.com
+*.go.playlg.com
 *.go.rmishe.com
 *.go.xlivrdr.com
 *.go1.for3e.com
@@ -5742,6 +5773,11 @@
 *.hsych.com
 *.htlbid.com
 *.httpool.com
+*.hue2n.com
+*.hue4c.com
+*.hueads.com
+*.hueadsortb.com
+*.hueadsxml.com
 *.hugazdazst.com
 *.hugfromoctopus.com
 *.humandemand.com
@@ -5820,6 +5856,7 @@
 *.imgpromo.easyrencontre.com
 *.imimobile.com
 *.immensehoney.com
+*.immizdgmacjvi.space
 *.immoxdzdke.com
 *.imp.pvnsolutions.com
 *.impactmobile.com
@@ -5968,6 +6005,7 @@
 *.jpwrashuzfstxc.com
 *.jqvhnbxtwze.com
 *.jqyryzrbuqpfp.space
+*.jrmkpvntxat.com
 *.js.go2sdk.com
 *.js.hscollectedforms.net
 *.js.hsleadflows.net
@@ -6187,6 +6225,9 @@
 *.lytics.io
 *.lzjl.com
 *.lzoazzruvkze.com
+*.m.hue11.com
+*.m.hue14.com
+*.m.hue2b.com
 *.m.trb.com
 *.m0rsq075u.com
 *.m1.mtrafficgeo.com
@@ -6481,6 +6522,7 @@
 *.navigator.io
 *.navrcholu.cz
 *.nazarickol.com
+*.nbnbewlhy.com
 *.nd.prosilyingles.cyou
 *.ndha4sding6gf.com
 *.ndparking.com
@@ -6709,6 +6751,7 @@
 *.origunix.com
 *.oriori.com
 *.orlotalers.com
+*.ormatenqron.com
 *.orqmimfug.in
 *.ortshk.tapas.net
 *.orylhull.com
@@ -6956,6 +6999,7 @@
 *.precisioncounter.com
 *.predictad.com
 *.predictiondexchange.com
+*.prefecturesuggestions.com
 *.preferencenail.com
 *.prefleks.com
 *.premium-offers.com
@@ -7014,6 +7058,7 @@
 *.prx.wayfair.com
 *.ps.bogymentracery.cyou
 *.psaltauw.net
+*.pshdo.com
 *.psoroumukr.com
 *.psstt.com
 *.ptakeemsaifegro.net
@@ -7448,6 +7493,7 @@
 *.sezwho.com
 *.sfiannzilgi.com
 *.sg-open-set-api.shenshiads.com
+*.sg.enwovenspences.cyou
 *.shaiwourtijogno.net
 *.shakingtacklingunpeeled.com
 *.shalomhousebnb.com
@@ -7944,6 +7990,7 @@
 *.track.anchorfree.com
 *.track.bluexad.ai
 *.track.buybestday.com
+*.track.catrck.net
 *.track.cbdatatracker.com
 *.track.contently.com
 *.track.cordial.io
@@ -7957,6 +8004,7 @@
 *.track.involvkgfr.com
 *.track.lacunads.com
 *.track.landerlab.io
+*.track.mddsp.info
 *.track.mp4.center
 *.track.notsy.io
 *.track.omg543.com
@@ -8340,6 +8388,7 @@
 *.wellmadefrog.com
 *.werbung.meteoxpress.com
 *.wetrack.it
+*.wgkqywcf.com
 *.wgtyvqbfkxg.com
 *.whairtoa.com
 *.whaleads.com
