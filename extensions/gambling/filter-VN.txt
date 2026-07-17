@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 15 Jul 2026 15:53 UTC+7
-! Version: 2607151553
-! Blocked: 3.271 rules
+! Last modified: 17 Jul 2026 14:09 UTC+7
+! Version: 2607171409
+! Blocked: 3.286 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -116,6 +116,7 @@
 ||388bet.vip^
 ||3bet.biz^
 ||3bet.center^
+||3bet.city^
 ||3bet.host^
 ||3bet.la^
 ||3bet.llc^
@@ -185,6 +186,7 @@
 ||789club.ba^
 ||789club.biz^
 ||789club.com^
+||789club.gp^
 ||789club.ke^
 ||789club.org^
 ||789club.sx^
@@ -492,6 +494,7 @@
 ||bachhoa88.com^
 ||bacty88.com^
 ||ball88.app^
+||ball88.casa^
 ||ball88.com^
 ||ball88.cool^
 ||ball88.day^
@@ -586,6 +589,7 @@
 ||bom88.cool^
 ||bom88.diy^
 ||bom88.ing^
+||bom88.la^
 ||bom88.net^
 ||bom88.pics^
 ||bom88.plus^
@@ -850,6 +854,7 @@
 ||du88.info^
 ||du88.life^
 ||du88.pro^
+||du88.sh^
 ||dubaivn.vip^
 ||duongdenkhungthanh.com^
 ||dv88.city^
@@ -1179,6 +1184,7 @@
 ||hbet.ac^
 ||hbet.club^
 ||hbet.fm^
+||hbet.la^
 ||hbet.li^
 ||hbet.lv^
 ||hbet.net^
@@ -1443,6 +1449,7 @@
 ||k88.art^
 ||k88.club^
 ||k88.mobi^
+||k88.moe^
 ||k88.pro^
 ||k88.win^
 ||k89bet.com^
@@ -1689,6 +1696,7 @@
 ||lu88.ch^
 ||lu88.co^
 ||lu88.com^
+||lu88.de^
 ||lu88.ec^
 ||lu88.gdn^
 ||lu88.kim^
@@ -1834,6 +1842,7 @@
 ||man88.bz^
 ||man88.co^
 ||man88.la^
+||man88.li^
 ||man88.net^
 ||man88.ng^
 ||man88.pl^
@@ -2362,6 +2371,7 @@
 ||sinbet.com^
 ||sinbet.vip^
 ||sk.ball88.app^
+||sk.ball88.casa^
 ||sk.ball88.com^
 ||sk.ball88.day^
 ||sk.ball88.fun^
@@ -2400,6 +2410,7 @@
 ||sk.xibet.ec^
 ||sk.xibet.fun^
 ||sk.xibet.ing^
+||sk.xibet.nz^
 ||sk.xibet.vu^
 ||sk.zbet.ws^
 ||sky88.bet^
@@ -2757,6 +2768,7 @@
 ||tx88.navy^
 ||tx88.now^
 ||tx88.onl^
+||tx88.photo^
 ||tx88.top^
 ||tx88.vet^
 ||tx88.zone^
@@ -2978,6 +2990,7 @@
 ||vu88.la^
 ||vu88.live^
 ||vu88.lv^
+||vu88.moe^
 ||vu88.mx^
 ||vu88.net^
 ||vu88.sh^
@@ -3177,6 +3190,7 @@
 ||xibet.ec^
 ||xibet.fun^
 ||xibet.ing^
+||xibet.nz^
 ||xibet.vg^
 ||xibet.vu^
 ||xibet.win^
@@ -3259,6 +3273,7 @@
 ||zo88.vip^
 ||zoplay.top^
 ||zowin.bh^
+||zowin.ci^
 ||zowin.esq^
 ||zowin.fan^
 ||zowin.im^

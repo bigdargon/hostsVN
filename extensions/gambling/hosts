@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 15 Jul 2026 15:53 UTC+7
-# Version: 2607151553
-# Blocked: 65.715 domains
+# Last modified: 17 Jul 2026 14:09 UTC+7
+# Version: 2607171409
+# Blocked: 65.730 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -14223,6 +14223,7 @@
 0.0.0.0 3bet.bet
 0.0.0.0 3bet.biz
 0.0.0.0 3bet.center
+0.0.0.0 3bet.city
 0.0.0.0 3bet.host
 0.0.0.0 3bet.la
 0.0.0.0 3bet.llc
@@ -24136,6 +24137,7 @@
 0.0.0.0 789club.ba
 0.0.0.0 789club.biz
 0.0.0.0 789club.com
+0.0.0.0 789club.gp
 0.0.0.0 789club.ke
 0.0.0.0 789club.org
 0.0.0.0 789club.shop
@@ -32835,6 +32837,7 @@
 0.0.0.0 balauo.com
 0.0.0.0 balirenyulecheng.net
 0.0.0.0 ball88.app
+0.0.0.0 ball88.casa
 0.0.0.0 ball88.com
 0.0.0.0 ball88.cool
 0.0.0.0 ball88.day
@@ -34814,6 +34817,7 @@
 0.0.0.0 bom88.cool
 0.0.0.0 bom88.diy
 0.0.0.0 bom88.ing
+0.0.0.0 bom88.la
 0.0.0.0 bom88.net
 0.0.0.0 bom88.pics
 0.0.0.0 bom88.plus
@@ -38404,6 +38408,7 @@
 0.0.0.0 du88.info
 0.0.0.0 du88.life
 0.0.0.0 du88.pro
+0.0.0.0 du88.sh
 0.0.0.0 dubai-speed.com
 0.0.0.0 dubai147.com
 0.0.0.0 dubai232.com
@@ -41954,6 +41959,7 @@
 0.0.0.0 hbet.ac
 0.0.0.0 hbet.club
 0.0.0.0 hbet.fm
+0.0.0.0 hbet.la
 0.0.0.0 hbet.li
 0.0.0.0 hbet.lv
 0.0.0.0 hbet.net
@@ -47425,6 +47431,7 @@
 0.0.0.0 k88.casino
 0.0.0.0 k88.club
 0.0.0.0 k88.mobi
+0.0.0.0 k88.moe
 0.0.0.0 k88.pro
 0.0.0.0 k88.win
 0.0.0.0 k8801.com
@@ -49329,6 +49336,7 @@
 0.0.0.0 lu88.ch
 0.0.0.0 lu88.co
 0.0.0.0 lu88.com
+0.0.0.0 lu88.de
 0.0.0.0 lu88.ec
 0.0.0.0 lu88.gdn
 0.0.0.0 lu88.kim
@@ -50373,6 +50381,7 @@
 0.0.0.0 man88.bz
 0.0.0.0 man88.co
 0.0.0.0 man88.la
+0.0.0.0 man88.li
 0.0.0.0 man88.net
 0.0.0.0 man88.ng
 0.0.0.0 man88.pl
@@ -55434,6 +55443,7 @@
 0.0.0.0 sjadonh.com
 0.0.0.0 sjzwtztjx.com
 0.0.0.0 sk.ball88.app
+0.0.0.0 sk.ball88.casa
 0.0.0.0 sk.ball88.com
 0.0.0.0 sk.ball88.day
 0.0.0.0 sk.ball88.fun
@@ -55472,6 +55482,7 @@
 0.0.0.0 sk.xibet.ec
 0.0.0.0 sk.xibet.fun
 0.0.0.0 sk.xibet.ing
+0.0.0.0 sk.xibet.nz
 0.0.0.0 sk.xibet.vu
 0.0.0.0 sk.zbet.ws
 0.0.0.0 sk051.com
@@ -57511,6 +57522,7 @@
 0.0.0.0 tx88.navy
 0.0.0.0 tx88.now
 0.0.0.0 tx88.onl
+0.0.0.0 tx88.photo
 0.0.0.0 tx88.top
 0.0.0.0 tx88.vet
 0.0.0.0 tx88.vip
@@ -59496,6 +59508,7 @@
 0.0.0.0 vu88.la
 0.0.0.0 vu88.live
 0.0.0.0 vu88.lv
+0.0.0.0 vu88.moe
 0.0.0.0 vu88.mx
 0.0.0.0 vu88.net
 0.0.0.0 vu88.sh
@@ -63311,6 +63324,7 @@
 0.0.0.0 xibet.ec
 0.0.0.0 xibet.fun
 0.0.0.0 xibet.ing
+0.0.0.0 xibet.nz
 0.0.0.0 xibet.vg
 0.0.0.0 xibet.vu
 0.0.0.0 xibet.win
@@ -65592,6 +65606,7 @@
 0.0.0.0 zoplay.top
 0.0.0.0 zou18190.com
 0.0.0.0 zowin.bh
+0.0.0.0 zowin.ci
 0.0.0.0 zowin.esq
 0.0.0.0 zowin.fan
 0.0.0.0 zowin.im
