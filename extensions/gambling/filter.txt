@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 21 Jul 2026 14:48 UTC+7
-! Version: 2607211448
-! Blocked: 64.677 rules
+! Last modified: 22 Jul 2026 14:12 UTC+7
+! Version: 2607221412
+! Blocked: 64.678 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32858,6 +32858,7 @@
 ||ball88.games^
 ||ball88.lat^
 ||ball88.llc^
+||ball88.love^
 ||ball88.ltd^
 ||ball88.men^
 ||ball88.mobi^

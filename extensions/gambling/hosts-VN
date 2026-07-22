@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 21 Jul 2026 14:48 UTC+7
-# Version: 2607211448
-# Blocked: 3.732 domains
+# Last modified: 22 Jul 2026 14:12 UTC+7
+# Version: 2607221412
+# Blocked: 3.733 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -501,6 +501,7 @@
 0.0.0.0 ball88.games
 0.0.0.0 ball88.lat
 0.0.0.0 ball88.llc
+0.0.0.0 ball88.love
 0.0.0.0 ball88.ltd
 0.0.0.0 ball88.men
 0.0.0.0 ball88.mobi
