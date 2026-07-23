@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 22 Jul 2026 14:12 UTC+7
-! Version: 2607221412
-! Blocked: 8.625 rules
+! Last modified: 23 Jul 2026 14:12 UTC+7
+! Version: 2607231412
+! Blocked: 8.628 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1646,7 +1646,6 @@
 ||cloudfront-labs.amazonaws.com^
 ||cloudmobi.net^
 ||cm-exchange.toast.com^
-||cmap.alibaba.com^
 ||cnnx.io^
 ||cnt.my^
 ||cnt.trvdp.com^
@@ -6508,6 +6507,7 @@
 ||mybloglog.com^
 ||mybuys.com^
 ||mycounter.ua^
+||myesutdnuyddu.com^
 ||mypagerank.net^
 ||mypopups.com^
 ||mypowermall.com^
@@ -6736,6 +6736,7 @@
 ||onmobile.com^
 ||onstunkyr.com^
 ||onwardperishvaluables.com^
+||oofmhbmqdn.com^
 ||open.oneplus.net^
 ||openad.tf1.fr^
 ||openad.travelnow.com^
@@ -8148,6 +8149,7 @@
 ||twinrdsyn.com^
 ||twinrdsyte.com^
 ||twistconcept.com^
+||twitchegotistical.com^
 ||twittad.com^
 ||twyn.com^
 ||txtimpact.com^
@@ -8270,6 +8272,7 @@
 ||vast.vstserv.com^
 ||vaugroar.com^
 ||vcqclbetewdnq.website^
+||vd.bundthoecake.cyou^
 ||vdkdxarnqiaedw.com^
 ||vebadu.com^
 ||vebo-vast.pages.dev^

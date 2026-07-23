@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 22 Jul 2026 14:12 UTC+7
-! Version: 2607221412
-! Blocked: 64.678 rules
+! Last modified: 23 Jul 2026 14:11 UTC+7
+! Version: 2607231411
+! Blocked: 64.692 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -14237,6 +14237,7 @@
 ||3bet.sh^
 ||3bet.ski^
 ||3bet.so^
+||3bet.store^
 ||3bet.tech^
 ||3bet.vc^
 ||3bet.win^
@@ -24146,6 +24147,7 @@
 ||789club.cr^
 ||789club.gp^
 ||789club.ke^
+||789club.mu^
 ||789club.org^
 ||789club.shop^
 ||789club.sx^
@@ -32863,6 +32865,7 @@
 ||ball88.men^
 ||ball88.mobi^
 ||ball88.red^
+||ball88.team^
 ||ball88.to^
 ||ball88.zone^
 ||ball988.com^
@@ -34836,6 +34839,7 @@
 ||bom88.pics^
 ||bom88.plus^
 ||bom88.shop^
+||bom88.team^
 ||bomei66.com^
 ||bomtanhoitu.live^
 ||bomvip.club^
@@ -38417,6 +38421,7 @@
 ||du5151.com^
 ||du5252.com^
 ||du88.art^
+||du88.blue^
 ||du88.cafe^
 ||du88.care^
 ||du88.club^
@@ -41981,6 +41986,7 @@
 ||hbc789.work^
 ||hbet.ac^
 ||hbet.club^
+||hbet.cz^
 ||hbet.fm^
 ||hbet.la^
 ||hbet.li^
@@ -47453,6 +47459,7 @@
 ||k8799.com^
 ||k87kjs32s239.com^
 ||k88.art^
+||k88.cam^
 ||k88.casino^
 ||k88.club^
 ||k88.mobi^
@@ -49366,6 +49373,7 @@
 ||lu88.ec^
 ||lu88.gdn^
 ||lu88.kim^
+||lu88.lc^
 ||lu88.mn^
 ||lu88.nz^
 ||lu88.pro^
@@ -50418,6 +50426,7 @@
 ||man88.top^
 ||man88.vc^
 ||man88.vip^
+||man88.vu^
 ||man88.win^
 ||manabane.com^
 ||manasbotop.com^
@@ -55490,6 +55499,7 @@
 ||sk.ball88.ltd^
 ||sk.ball88.men^
 ||sk.ball88.mobi^
+||sk.ball88.team^
 ||sk.ball88.to^
 ||sk.ball88.zone^
 ||sk.debet.cx^
@@ -55521,6 +55531,7 @@
 ||sk.xibet.ec^
 ||sk.xibet.fun^
 ||sk.xibet.ing^
+||sk.xibet.now^
 ||sk.xibet.nz^
 ||sk.xibet.vu^
 ||sk.zbet.ws^
@@ -57549,6 +57560,7 @@
 ||tx668.vip^
 ||tx68.vip^
 ||tx88.biz^
+||tx88.ch^
 ||tx88.com^
 ||tx88.download^
 ||tx88.fan^
@@ -59546,6 +59558,7 @@
 ||vtyt0.com^
 ||vu88.ac^
 ||vu88.com^
+||vu88.cz^
 ||vu88.de^
 ||vu88.in^
 ||vu88.la^
@@ -62269,6 +62282,7 @@
 ||xibet.fun^
 ||xibet.ing^
 ||xibet.moi^
+||xibet.now^
 ||xibet.nz^
 ||xibet.vg^
 ||xibet.vu^
