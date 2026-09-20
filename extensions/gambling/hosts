@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 08 Sep 2026 15:55 UTC+7
-# Version: 2609081555
-# Blocked: 65.993 domains
+# Last modified: 20 Sep 2026 23:14 UTC+7
+# Version: 2609202314
+# Blocked: 66.028 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -427,6 +427,7 @@
 0.0.0.0 013958.com
 0.0.0.0 013l75989e71mnjl-api.uznjvx02.app
 0.0.0.0 013vsbodx-be-source.xjoxmp03.com
+0.0.0.0 013vsbodx-fe-source.xjoxmp03.com
 0.0.0.0 013vsbodx-i18n.uznjvx02.app
 0.0.0.0 013vsbodx-nwapi-cf.uznjvx02.app
 0.0.0.0 013vsbodx-nwwss-cf.uznjvx02.app
@@ -2591,6 +2592,7 @@
 0.0.0.0 11vn777.com
 0.0.0.0 11win.beer
 0.0.0.0 11win.casa
+0.0.0.0 11win.dance
 0.0.0.0 11win.fashion
 0.0.0.0 11win.free
 0.0.0.0 11win.link
@@ -24168,6 +24170,7 @@
 0.0.0.0 789club.org
 0.0.0.0 789club.rich
 0.0.0.0 789club.shop
+0.0.0.0 789club.spa
 0.0.0.0 789club.sx
 0.0.0.0 789club.top
 0.0.0.0 789club.tr
@@ -30749,6 +30752,7 @@
 0.0.0.0 9922696.com
 0.0.0.0 9922789.com
 0.0.0.0 99228v.com
+0.0.0.0 9922com.app
 0.0.0.0 9922vn77.com
 0.0.0.0 992379.com
 0.0.0.0 992687.com
@@ -31164,6 +31168,7 @@
 0.0.0.0 9bet.green
 0.0.0.0 9bet.krd
 0.0.0.0 9bet.mobi
+0.0.0.0 9bet.navy
 0.0.0.0 9bet.net
 0.0.0.0 9bet.photo
 0.0.0.0 9bet.pink
@@ -34873,10 +34878,12 @@
 0.0.0.0 bom28.com
 0.0.0.0 bom52.club
 0.0.0.0 bom88.ac
+0.0.0.0 bom88.adqc.net
 0.0.0.0 bom88.baby
 0.0.0.0 bom88.casa
 0.0.0.0 bom88.city
 0.0.0.0 bom88.click
+0.0.0.0 bom88.coach
 0.0.0.0 bom88.com
 0.0.0.0 bom88.cool
 0.0.0.0 bom88.diy
@@ -37412,6 +37419,7 @@
 0.0.0.0 d1iw2qpzbah04l.cloudfront.net
 0.0.0.0 d1ix4rjhzljca7.cloudfront.net
 0.0.0.0 d1k3u1af1lt7sn.cloudfront.net
+0.0.0.0 d1o0d5vwf4yq08.cloudfront.net
 0.0.0.0 d1pg7jl7t9qic2.cloudfront.net
 0.0.0.0 d1sjladg4elc68.cloudfront.net
 0.0.0.0 d1ufwlfds03jlb.cloudfront.net
@@ -38473,6 +38481,7 @@
 0.0.0.0 du88.blue
 0.0.0.0 du88.cafe
 0.0.0.0 du88.care
+0.0.0.0 du88.chat
 0.0.0.0 du88.click
 0.0.0.0 du88.club
 0.0.0.0 du88.com
@@ -39313,7 +39322,17 @@
 0.0.0.0 faw99o.com
 0.0.0.0 faw99th.com
 0.0.0.0 faw99x.com
+0.0.0.0 fb-agentic-vessal-api-platform.uznjvx02.app
+0.0.0.0 fb-be-source.uznjvx02.app
+0.0.0.0 fb-fe-source.uznjvx02.app
 0.0.0.0 fb-fe-source.xjoxmp03.com
+0.0.0.0 fb-i18n.uznjvx02.app
+0.0.0.0 fb-nwapi.uznjvx02.app
+0.0.0.0 fb-nwwss.uznjvx02.app
+0.0.0.0 fb-sports-stream.uznjvx02.app
+0.0.0.0 fb-tiger-api.uznjvx02.app
+0.0.0.0 fb-tiger-fluid.uznjvx02.app
+0.0.0.0 fb-zerodawn.uznjvx02.app
 0.0.0.0 fb.ldp-vua.com
 0.0.0.0 fb002.cc
 0.0.0.0 fb003.cc
@@ -41526,6 +41545,7 @@
 0.0.0.0 gviralnews.com
 0.0.0.0 gvn3.com
 0.0.0.0 gw.gen88.com
+0.0.0.0 gw.mubet.care
 0.0.0.0 gw.mubet.help
 0.0.0.0 gw.mubet.media
 0.0.0.0 gw.mubet.talk
@@ -42057,6 +42077,7 @@
 0.0.0.0 hbet.bio
 0.0.0.0 hbet.club
 0.0.0.0 hbet.cz
+0.0.0.0 hbet.esq
 0.0.0.0 hbet.fm
 0.0.0.0 hbet.la
 0.0.0.0 hbet.li
@@ -43207,6 +43228,7 @@
 0.0.0.0 hoabanh88.com
 0.0.0.0 hoantra.2qwin.top
 0.0.0.0 hoappasla.com
+0.0.0.0 hoibannghien.com
 0.0.0.0 hokihokigol.com
 0.0.0.0 hokiluckyslot99.net
 0.0.0.0 hokiselalu.com
@@ -47537,6 +47559,7 @@
 0.0.0.0 k88.cam
 0.0.0.0 k88.casino
 0.0.0.0 k88.club
+0.0.0.0 k88.cyou
 0.0.0.0 k88.day
 0.0.0.0 k88.mba
 0.0.0.0 k88.mobi
@@ -49465,9 +49488,11 @@
 0.0.0.0 lu88.kim
 0.0.0.0 lu88.lc
 0.0.0.0 lu88.lv
+0.0.0.0 lu88.mba
 0.0.0.0 lu88.mn
 0.0.0.0 lu88.nz
 0.0.0.0 lu88.pro
+0.0.0.0 lu88.pub
 0.0.0.0 lu88.pw
 0.0.0.0 lu88.tv
 0.0.0.0 lu88.tw
@@ -51367,6 +51392,7 @@
 0.0.0.0 mu92.com
 0.0.0.0 mu922.com
 0.0.0.0 mubet.best
+0.0.0.0 mubet.care
 0.0.0.0 mubet.dev
 0.0.0.0 mubet.help
 0.0.0.0 mubet.info
@@ -52133,6 +52159,7 @@
 0.0.0.0 nvl164.com
 0.0.0.0 nvn4.com
 0.0.0.0 nvn5.com
+0.0.0.0 nwimg.uznjvx02.app
 0.0.0.0 nwwv5v3b.com
 0.0.0.0 nx5588.com
 0.0.0.0 nxb8.com
@@ -53559,6 +53586,7 @@
 0.0.0.0 pub88.ltd
 0.0.0.0 pub88.monster
 0.0.0.0 pub88.pw
+0.0.0.0 pub88.tips
 0.0.0.0 pub88.win
 0.0.0.0 pubease.xyz
 0.0.0.0 pubecho.xyz
@@ -54724,6 +54752,7 @@
 0.0.0.0 s34034.com
 0.0.0.0 s4-sv88.stwostatic.com
 0.0.0.0 s4.gen88.com
+0.0.0.0 s4.mubet.care
 0.0.0.0 s4.mubet.help
 0.0.0.0 s4.mubet.vip
 0.0.0.0 s4.tot88.store
@@ -55650,6 +55679,7 @@
 0.0.0.0 sk.vin88.pw
 0.0.0.0 sk.vin88.vin
 0.0.0.0 sk.vin88.vip
+0.0.0.0 sk.xibet.cat
 0.0.0.0 sk.xibet.com
 0.0.0.0 sk.xibet.ec
 0.0.0.0 sk.xibet.foo
@@ -57738,6 +57768,7 @@
 0.0.0.0 tx88.top
 0.0.0.0 tx88.vet
 0.0.0.0 tx88.vip
+0.0.0.0 tx88.vote
 0.0.0.0 tx88.zone
 0.0.0.0 txcmc.xyz
 0.0.0.0 ty0078.com
@@ -59098,6 +59129,7 @@
 0.0.0.0 vic88.net
 0.0.0.0 vicbet.com
 0.0.0.0 vicclub.ac
+0.0.0.0 vicclub.at
 0.0.0.0 vicclub.id
 0.0.0.0 vicclub.ink
 0.0.0.0 vicclub.mx
@@ -59699,6 +59731,8 @@
 0.0.0.0 vsbet191.com
 0.0.0.0 vsbet30.com
 0.0.0.0 vsbet60.com
+0.0.0.0 vsbetm94.com
+0.0.0.0 vsbetvbs.net
 0.0.0.0 vscore.bet
 0.0.0.0 vscore.pro
 0.0.0.0 vsports.bet
@@ -63568,6 +63602,7 @@
 0.0.0.0 xiaotongjiangcu.com
 0.0.0.0 xiaoxiaokezhuo.com
 0.0.0.0 xiapiiurulzrivterx.xyz
+0.0.0.0 xibet.cat
 0.0.0.0 xibet.com
 0.0.0.0 xibet.ec
 0.0.0.0 xibet.foo

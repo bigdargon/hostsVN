@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 08 Sep 2026 15:55 UTC+7
-! Version: 2609081555
-! Blocked: 22.521 rules
+! Last modified: 20 Sep 2026 23:14 UTC+7
+! Version: 2609202314
+! Blocked: 22.525 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -9019,9 +9019,11 @@
 ||heovl.cc^
 ||heovl.com^
 ||heovl.fun^
+||heovl.im^
 ||heovl.live^
 ||heovl.me^
 ||heovl.moe^
+||heovl.name^
 ||heovl.net^
 ||heovl.tube^
 ||heovl.tv^
@@ -10137,6 +10139,7 @@
 ||javhd.lol^
 ||javhd.men^
 ||javhd.moe^
+||javhd.mov^
 ||javhd.net^
 ||javhd.network^
 ||javhd.ninja^
@@ -10175,6 +10178,7 @@
 ||javhdpro.pro^
 ||javhdvietsub.com^
 ||javhdxxx.asia^
+||javhdz.ac^
 ||javhdz.cam^
 ||javhdz.city^
 ||javhdz.fun^

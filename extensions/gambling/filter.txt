@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 08 Sep 2026 15:55 UTC+7
-! Version: 2609081555
-! Blocked: 64.926 rules
+! Last modified: 20 Sep 2026 23:14 UTC+7
+! Version: 2609202314
+! Blocked: 64.961 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -424,6 +424,7 @@
 ||013958.com^
 ||013l75989e71mnjl-api.uznjvx02.app^
 ||013vsbodx-be-source.xjoxmp03.com^
+||013vsbodx-fe-source.xjoxmp03.com^
 ||013vsbodx-i18n.uznjvx02.app^
 ||013vsbodx-nwapi-cf.uznjvx02.app^
 ||013vsbodx-nwwss-cf.uznjvx02.app^
@@ -2588,6 +2589,7 @@
 ||11vn777.com^
 ||11win.beer^
 ||11win.casa^
+||11win.dance^
 ||11win.fashion^
 ||11win.free^
 ||11win.link^
@@ -24173,6 +24175,7 @@
 ||789club.org^
 ||789club.rich^
 ||789club.shop^
+||789club.spa^
 ||789club.sx^
 ||789club.top^
 ||789club.tr^
@@ -30756,6 +30759,7 @@
 ||9922696.com^
 ||9922789.com^
 ||99228v.com^
+||9922com.app^
 ||9922vn77.com^
 ||992379.com^
 ||992687.com^
@@ -31171,6 +31175,7 @@
 ||9bet.green^
 ||9bet.krd^
 ||9bet.mobi^
+||9bet.navy^
 ||9bet.net^
 ||9bet.photo^
 ||9bet.pink^
@@ -34882,10 +34887,12 @@
 ||bom28.com^
 ||bom52.club^
 ||bom88.ac^
+||bom88.adqc.net^
 ||bom88.baby^
 ||bom88.casa^
 ||bom88.city^
 ||bom88.click^
+||bom88.coach^
 ||bom88.com^
 ||bom88.cool^
 ||bom88.diy^
@@ -37425,6 +37432,7 @@
 ||d1iw2qpzbah04l.cloudfront.net^
 ||d1ix4rjhzljca7.cloudfront.net^
 ||d1k3u1af1lt7sn.cloudfront.net^
+||d1o0d5vwf4yq08.cloudfront.net^
 ||d1pg7jl7t9qic2.cloudfront.net^
 ||d1sjladg4elc68.cloudfront.net^
 ||d1ufwlfds03jlb.cloudfront.net^
@@ -38486,6 +38494,7 @@
 ||du88.blue^
 ||du88.cafe^
 ||du88.care^
+||du88.chat^
 ||du88.click^
 ||du88.club^
 ||du88.com^
@@ -39326,7 +39335,17 @@
 ||faw99o.com^
 ||faw99th.com^
 ||faw99x.com^
+||fb-agentic-vessal-api-platform.uznjvx02.app^
+||fb-be-source.uznjvx02.app^
+||fb-fe-source.uznjvx02.app^
 ||fb-fe-source.xjoxmp03.com^
+||fb-i18n.uznjvx02.app^
+||fb-nwapi.uznjvx02.app^
+||fb-nwwss.uznjvx02.app^
+||fb-sports-stream.uznjvx02.app^
+||fb-tiger-api.uznjvx02.app^
+||fb-tiger-fluid.uznjvx02.app^
+||fb-zerodawn.uznjvx02.app^
 ||fb.ldp-vua.com^
 ||fb002.cc^
 ||fb003.cc^
@@ -41541,6 +41560,7 @@
 ||gviralnews.com^
 ||gvn3.com^
 ||gw.gen88.com^
+||gw.mubet.care^
 ||gw.mubet.help^
 ||gw.mubet.media^
 ||gw.mubet.talk^
@@ -42073,6 +42093,7 @@
 ||hbet.bio^
 ||hbet.club^
 ||hbet.cz^
+||hbet.esq^
 ||hbet.fm^
 ||hbet.la^
 ||hbet.li^
@@ -43224,6 +43245,7 @@
 ||hoabanh88.com^
 ||hoantra.2qwin.top^
 ||hoappasla.com^
+||hoibannghien.com^
 ||hokihokigol.com^
 ||hokiluckyslot99.net^
 ||hokiselalu.com^
@@ -47554,6 +47576,7 @@
 ||k88.cam^
 ||k88.casino^
 ||k88.club^
+||k88.cyou^
 ||k88.day^
 ||k88.mba^
 ||k88.mobi^
@@ -49482,9 +49505,11 @@
 ||lu88.kim^
 ||lu88.lc^
 ||lu88.lv^
+||lu88.mba^
 ||lu88.mn^
 ||lu88.nz^
 ||lu88.pro^
+||lu88.pub^
 ||lu88.pw^
 ||lu88.tv^
 ||lu88.tw^
@@ -51387,6 +51412,7 @@
 ||mu92.com^
 ||mu922.com^
 ||mubet.best^
+||mubet.care^
 ||mubet.dev^
 ||mubet.help^
 ||mubet.info^
@@ -52154,6 +52180,7 @@
 ||nvl164.com^
 ||nvn4.com^
 ||nvn5.com^
+||nwimg.uznjvx02.app^
 ||nwwv5v3b.com^
 ||nx5588.com^
 ||nxb8.com^
@@ -53580,6 +53607,7 @@
 ||pub88.ltd^
 ||pub88.monster^
 ||pub88.pw^
+||pub88.tips^
 ||pub88.win^
 ||pubease.xyz^
 ||pubecho.xyz^
@@ -54746,6 +54774,7 @@
 ||s34034.com^
 ||s4-sv88.stwostatic.com^
 ||s4.gen88.com^
+||s4.mubet.care^
 ||s4.mubet.help^
 ||s4.mubet.vip^
 ||s4.tot88.store^
@@ -55677,6 +55706,7 @@
 ||sk.vin88.pw^
 ||sk.vin88.vin^
 ||sk.vin88.vip^
+||sk.xibet.cat^
 ||sk.xibet.com^
 ||sk.xibet.ec^
 ||sk.xibet.foo^
@@ -57765,6 +57795,7 @@
 ||tx88.top^
 ||tx88.vet^
 ||tx88.vip^
+||tx88.vote^
 ||tx88.zone^
 ||txcmc.xyz^
 ||ty0078.com^
@@ -59126,6 +59157,7 @@
 ||vic88.net^
 ||vicbet.com^
 ||vicclub.ac^
+||vicclub.at^
 ||vicclub.id^
 ||vicclub.ink^
 ||vicclub.mx^
@@ -59729,6 +59761,8 @@
 ||vsbet191.com^
 ||vsbet30.com^
 ||vsbet60.com^
+||vsbetm94.com^
+||vsbetvbs.net^
 ||vscore.bet^
 ||vscore.pro^
 ||vsports.bet^
@@ -62498,6 +62532,7 @@
 ||xiaotongjiangcu.com^
 ||xiaoxiaokezhuo.com^
 ||xiapiiurulzrivterx.xyz^
+||xibet.cat^
 ||xibet.com^
 ||xibet.ec^
 ||xibet.foo^
