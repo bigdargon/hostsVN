@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 20 Sep 2026 23:14 UTC+7
-# Version: 2609202314
-# Blocked: 18.410 domains
+# Last modified: 20 Sep 2026 23:41 UTC+7
+# Version: 2609202341
+# Blocked: 18.411 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7822,6 +7822,7 @@
 0.0.0.0 iad-04.braze.com
 0.0.0.0 iad-05.braze.com
 0.0.0.0 iad-06.braze.com
+0.0.0.0 iad-07.braze.com
 0.0.0.0 iad-08.braze.com
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk.iad-02.braze.com
@@ -7829,11 +7830,8 @@
 0.0.0.0 sdk.iad-04.braze.com
 0.0.0.0 sdk.iad-05.braze.com
 0.0.0.0 sdk.iad-06.braze.com
+0.0.0.0 sdk.iad-07.braze.com
 0.0.0.0 sdk.iad-08.braze.com
-0.0.0.0 belgikanst.iad-03.braze.com
-0.0.0.0 gaspra.iad-03.braze.com
-0.0.0.0 rest.iad-03.braze.com
-0.0.0.0 serpens.iad-01.braze.com
 #[fra-*.braze.eu]
 0.0.0.0 fra-01.braze.eu
 0.0.0.0 sdk.fra-01.braze.eu
@@ -11638,14 +11636,19 @@
 0.0.0.0 arcspire.io
 0.0.0.0 px.arcspire.io
 #[tanx.com]
+0.0.0.0 cdn.tanx.com
+0.0.0.0 click.tanx.com
 0.0.0.0 cms.tanx.com
 0.0.0.0 df.tanx.com
 0.0.0.0 ef-dongfeng.tanx.com
 0.0.0.0 et.tanx.com
-0.0.0.0 ifsk2.tanx.com
+0.0.0.0 ifs.tanx.com
 0.0.0.0 kgb-ifs.tanx.com
+0.0.0.0 live-ifs.tanx.com
+0.0.0.0 opehs.tanx.com
 0.0.0.0 p.tanx.com
-0.0.0.0 tanx.com
+0.0.0.0 rdstat.tanx.com
+0.0.0.0 sdk-config.tanx.com
 #[mediav.com]
 0.0.0.0 mediav.com
 0.0.0.0 ckmap.mediav.com
@@ -19538,7 +19541,6 @@
 0.0.0.0 blueconic.net
 0.0.0.0 blueoyster.click
 0.0.0.0 business.yingliangads.com
-0.0.0.0 c.riskified.com
 0.0.0.0 c2i-cdn.startappnetwork.com
 0.0.0.0 cadmus.script.ac
 0.0.0.0 cc.swiftype.com
@@ -19892,7 +19894,6 @@
 0.0.0.0 rlog.9gag.com
 0.0.0.0 rochesterdata.com
 0.0.0.0 roistat.com
-0.0.0.0 rs6.net
 0.0.0.0 rsrly.com
 0.0.0.0 rt.rtoaster.jp
 0.0.0.0 rta.dailymail.co.uk

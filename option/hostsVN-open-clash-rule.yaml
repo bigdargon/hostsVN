@@ -1577,6 +1577,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.amplitude.com
   - DOMAIN-SUFFIX,cdn.avantisvideo.com
   - DOMAIN-SUFFIX,cdn.popupsmart.com
+  - DOMAIN-SUFFIX,cdn.tanx.com
   - DOMAIN-SUFFIX,cdn10236888.ahacdn.me
   - DOMAIN-SUFFIX,cdn11763314.ahacdn.me
   - DOMAIN-SUFFIX,cdn12359286.ahacdn.me
@@ -1623,6 +1624,7 @@ payload:
   - DOMAIN-SUFFIX,clevertap-prod.com
   - DOMAIN-SUFFIX,clevertap.com
   - DOMAIN-SUFFIX,click.aliexpress.com
+  - DOMAIN-SUFFIX,click.tanx.com
   - DOMAIN-SUFFIX,clickadilla.com
   - DOMAIN-SUFFIX,clickadu.com
   - DOMAIN-SUFFIX,clickadu.net
@@ -1640,6 +1642,7 @@ payload:
   - DOMAIN-SUFFIX,cloudfront-labs.amazonaws.com
   - DOMAIN-SUFFIX,cloudmobi.net
   - DOMAIN-SUFFIX,cm-exchange.toast.com
+  - DOMAIN-SUFFIX,cms.tanx.com
   - DOMAIN-SUFFIX,cnnx.io
   - DOMAIN-SUFFIX,cnt.my
   - DOMAIN-SUFFIX,cnt.trvdp.com
@@ -1750,6 +1753,7 @@ payload:
   - DOMAIN-SUFFIX,dewrain.site
   - DOMAIN-SUFFIX,dewrain.world
   - DOMAIN-SUFFIX,dezf3o8j9jdt6.cloudfront.net
+  - DOMAIN-SUFFIX,df.tanx.com
   - DOMAIN-SUFFIX,dfbanners.com
   - DOMAIN-SUFFIX,dfnb-ads.com
   - DOMAIN-SUFFIX,dhn-ads-api.365scores.com
@@ -1803,6 +1807,7 @@ payload:
   - DOMAIN-SUFFIX,edge.adobedc.net
   - DOMAIN-SUFFIX,edge.ads.twitch.tv
   - DOMAIN-SUFFIX,edge.atmtd.com
+  - DOMAIN-SUFFIX,ef-dongfeng.tanx.com
   - DOMAIN-SUFFIX,effectivemeasure.net
   - DOMAIN-SUFFIX,ej1*.online
   - DOMAIN-SUFFIX,ematicsolutions.com
@@ -1820,6 +1825,7 @@ payload:
   - DOMAIN-SUFFIX,error-tracking.reddit.com
   - DOMAIN-SUFFIX,eskimi.com
   - DOMAIN-SUFFIX,et.nytimes.com
+  - DOMAIN-SUFFIX,et.tanx.com
   - DOMAIN-SUFFIX,ethicalads.io
   - DOMAIN-SUFFIX,etp-prod.com
   - DOMAIN-SUFFIX,ets.easybrain.com
@@ -2034,6 +2040,7 @@ payload:
   - DOMAIN-SUFFIX,icu.newsroom.bi
   - DOMAIN-SUFFIX,id5-sync.com
   - DOMAIN-SUFFIX,idealmedia.io
+  - DOMAIN-SUFFIX,ifs.tanx.com
   - DOMAIN-SUFFIX,ilyonanalytics.herokuapp.com
   - DOMAIN-SUFFIX,im-apps.net
   - DOMAIN-SUFFIX,imhd.io
@@ -2121,6 +2128,7 @@ payload:
   - DOMAIN-SUFFIX,kargo.com
   - DOMAIN-SUFFIX,kau.li
   - DOMAIN-SUFFIX,keywee.co
+  - DOMAIN-SUFFIX,kgb-ifs.tanx.com
   - DOMAIN-SUFFIX,kinkadservercdn.com
   - DOMAIN-SUFFIX,kiosked.com
   - DOMAIN-SUFFIX,klog.hiido.com
@@ -2152,6 +2160,7 @@ payload:
   - DOMAIN-SUFFIX,linksprf.com
   - DOMAIN-SUFFIX,linksynergy.com
   - DOMAIN-SUFFIX,litvp.com
+  - DOMAIN-SUFFIX,live-ifs.tanx.com
   - DOMAIN-SUFFIX,livetracker.*.pangea-cms.com
   - DOMAIN-SUFFIX,lkqd.net
   - DOMAIN-SUFFIX,llxads.com
@@ -2440,6 +2449,7 @@ payload:
   - DOMAIN-SUFFIX,ongastlya.com
   - DOMAIN-SUFFIX,onscroll.com
   - DOMAIN-SUFFIX,onthe.io
+  - DOMAIN-SUFFIX,opehs.tanx.com
   - DOMAIN-SUFFIX,openx.com
   - DOMAIN-SUFFIX,openx.net
   - DOMAIN-SUFFIX,openxcdn.net
@@ -2465,6 +2475,7 @@ payload:
   - DOMAIN-SUFFIX,ovp.iris.tv
   - DOMAIN-SUFFIX,p-n.io
   - DOMAIN-SUFFIX,p.imgur.com
+  - DOMAIN-SUFFIX,p.tanx.com
   - DOMAIN-SUFFIX,p16-ad.byteoversea.com
   - DOMAIN-SUFFIX,pac.thesun.co.uk
   - DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
@@ -2621,6 +2632,7 @@ payload:
   - DOMAIN-SUFFIX,raf.overwolf.com
   - DOMAIN-SUFFIX,rat.rakuten.co.jp
   - DOMAIN-SUFFIX,rayjump.com
+  - DOMAIN-SUFFIX,rdstat.tanx.com
   - DOMAIN-SUFFIX,reactful.com
   - DOMAIN-SUFFIX,readpeak.com
   - DOMAIN-SUFFIX,readserver.cachefly.net
@@ -2703,6 +2715,7 @@ payload:
   - DOMAIN-SUFFIX,scorchads.com
   - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,scupio.com
+  - DOMAIN-SUFFIX,sdk-config.tanx.com
   - DOMAIN-SUFFIX,sdk.51.la
   - DOMAIN-SUFFIX,sdk.hansel.io
   - DOMAIN-SUFFIX,sdklog.tvstore.opera.com
@@ -2862,7 +2875,6 @@ payload:
   - DOMAIN-SUFFIX,tagger.opecloud.com
   - DOMAIN-SUFFIX,tagmanager.toast.com
   - DOMAIN-SUFFIX,tagrec.sphdigital.com
-  - DOMAIN-SUFFIX,tanx.com
   - DOMAIN-SUFFIX,tapad.com
   - DOMAIN-SUFFIX,tapdaq-adverts.global.ssl.fastly.net
   - DOMAIN-SUFFIX,tapdb.com
@@ -4612,7 +4624,6 @@ payload:
   - DOMAIN-SUFFIX,c.bannerflow.net
   - DOMAIN-SUFFIX,c.bigmir.net
   - DOMAIN-SUFFIX,c.cdn-server.top
-  - DOMAIN-SUFFIX,c.riskified.com
   - DOMAIN-SUFFIX,c.srvpcn.com
   - DOMAIN-SUFFIX,c.tmyzer.com
   - DOMAIN-SUFFIX,c1exchange.com
@@ -7431,7 +7442,6 @@ payload:
   - DOMAIN-SUFFIX,roxr.net
   - DOMAIN-SUFFIX,rqjcsnihsje.com
   - DOMAIN-SUFFIX,rrejalojkc.in
-  - DOMAIN-SUFFIX,rs6.net
   - DOMAIN-SUFFIX,rsalcch.com
   - DOMAIN-SUFFIX,rsrly.com
   - DOMAIN-SUFFIX,rsxekbcl.com

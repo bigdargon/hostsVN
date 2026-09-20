@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 20 Sep 2026 23:14 UTC+7
-# Version: 2609202314
-# Blocked: 4.969 domains
+# Last modified: 20 Sep 2026 23:41 UTC+7
+# Version: 2609202341
+# Blocked: 4.971 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -536,6 +536,7 @@
 0.0.0.0 congnghevietmy.com.vn
 0.0.0.0 congtacvienonline.vn
 0.0.0.0 congthongtinvidientu.com
+0.0.0.0 congthuedientutructuyen.com
 0.0.0.0 congtykiman.org
 0.0.0.0 congtytaichinhlotte.com
 0.0.0.0 continue.dasboard154-account.com
@@ -617,6 +618,7 @@
 0.0.0.0 dangkysendo.vn
 0.0.0.0 dangkyshopee.vn
 0.0.0.0 dangkytanggiai2022.com
+0.0.0.0 dangkythuedientu.vn
 0.0.0.0 dangkytinchapshinhan.xyz
 0.0.0.0 dangkytruyenhinhcap.com
 0.0.0.0 dangkyvay-bank247.net
