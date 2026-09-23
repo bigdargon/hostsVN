@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 20 Sep 2026 23:41 UTC+7
-! Version: 2609202341
-! Blocked: 1.913 rules
+! Last modified: 23 Sep 2026 11:05 UTC+7
+! Version: 2609231105
+! Blocked: 1.931 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -326,6 +326,7 @@
 ||gaigu.info^
 ||gaigu.net^
 ||gaigu.xyz^
+||gaigu18.blog^
 ||gaigu6.tv^
 ||gaigu7.tv^
 ||gaigu8.com^
@@ -464,6 +465,7 @@
 ||heovl1.net^
 ||heovlx.com^
 ||hhentai.net^
+||hihisex.app^
 ||hihisex.pro^
 ||hihisex.vip^
 ||hinhgai.com^
@@ -485,8 +487,12 @@
 ||img.hentaivv1.com^
 ||img.nangcuc.dev^
 ||img.nangcucz.link^
+||img.phimkk.pro^
+||img.sexbuz.com^
 ||img.vl69.pro^
+||img.xxxmeo.com^
 ||img.xxxphim.top^
+||img.xxxviet.io^
 ||info.xnxx.gold^
 ||japanhdv.biz^
 ||japansex.blog^
@@ -542,6 +548,7 @@
 ||javhdhayz.com^
 ||javhdvietsub.com^
 ||javhdz.ac^
+||javhdz.bz^
 ||javhdz.cam^
 ||javhdz.city^
 ||javhdz.fun^
@@ -741,6 +748,7 @@
 ||phim-javhd.pro^
 ||phim-sec.one^
 ||phim-set.info^
+||phim-sex.io^
 ||phim-sex.live^
 ||phim-sex.net^
 ||phim-sexhd.biz^
@@ -752,6 +760,7 @@
 ||phim.vl9x.net^
 ||phim.vuasex.co^
 ||phim.xxxhai.com^
+||phim.xxxmeo.com^
 ||phim18.co^
 ||phim18.online^
 ||phim18.ws^
@@ -810,6 +819,7 @@
 ||phimkk.com^
 ||phimkk.me^
 ||phimkk.net^
+||phimkk.pro^
 ||phimkk.ws^
 ||phimloanluan.net^
 ||phimloanluan.org^
@@ -1086,10 +1096,12 @@
 ||ribaysteak.ru^
 ||rphang.ac^
 ||rphang.cc^
+||rphang.com^
 ||rphang.dog^
 ||rphang.lat^
 ||rphang.luutrurp.com^
 ||rphang.me^
+||rphang.now^
 ||rphang.online^
 ||rphangcdn.com^
 ||rphangs.net^
@@ -1099,9 +1111,11 @@
 ||rphangx.tv^
 ||s.chinav.sex^
 ||s.gaidep.blog^
+||s.gaigu18.blog^
 ||s.phimsexvip.cc^
 ||s.vnchich.net^
 ||s3xvn.com^
+||s5.phimkk.pro^
 ||s666.tv^
 ||s666tv.com^
 ||sayhentai.me^
@@ -1146,6 +1160,7 @@
 ||sexbaophe.pro^
 ||sexbattu.com^
 ||sexbulon.pro^
+||sexbuz.com^
 ||sexchauau.club^
 ||sexchauau.co^
 ||sexchauau.mobi^
@@ -1179,6 +1194,7 @@
 ||sexhay.biz^
 ||sexhay.vip^
 ||sexhay123.com^
+||sexhay247.net^
 ||sexhay2k.com^
 ||sexhay3x.com^
 ||sexhay69.mobi^
@@ -1795,6 +1811,7 @@
 ||x.javhd.co.uk^
 ||x.phimsexsub.pw^
 ||x10.viet69.life^
+||x5.xxxviet.io^
 ||xamvn.pro^
 ||xamvn.sh^
 ||xamvn.top^
@@ -1892,6 +1909,7 @@
 ||xxvnurl.com^
 ||xxx.ditnhau.cc^
 ||xxxhay.biz^
+||xxxmeo.com^
 ||xxxmoi.com^
 ||xxxner.com^
 ||xxxnhatban.cyou^

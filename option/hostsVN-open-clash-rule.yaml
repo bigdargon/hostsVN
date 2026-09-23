@@ -900,7 +900,7 @@ payload:
   - DOMAIN-SUFFIX,ad-creatives-public.commondatastorage.googleapis.com
   - DOMAIN-SUFFIX,ad-exchange.toast.com
   - DOMAIN-SUFFIX,ad-host-backup-*.*.aliyuncs.com
-  - DOMAIN-SUFFIX,ad-host-backup-*.s3.*.aliyuncs.com
+  - DOMAIN-SUFFIX,ad-host-backup-*.s3.*.amazonaws.com
   - DOMAIN-SUFFIX,ad-log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,ad-m.asia
   - DOMAIN-SUFFIX,ad-nex.com
@@ -1293,6 +1293,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
   - DOMAIN-SUFFIX,analytics.edgekey.net
   - DOMAIN-SUFFIX,analytics.eu.adjust.com
+  - DOMAIN-SUFFIX,analytics.facebook.com
   - DOMAIN-SUFFIX,analytics.ff.avast.com
   - DOMAIN-SUFFIX,analytics.githubassets.com
   - DOMAIN-SUFFIX,analytics.google.com
@@ -1458,6 +1459,7 @@ payload:
   - DOMAIN-SUFFIX,bbangads.b-cdn.net
   - DOMAIN-SUFFIX,bdapi-ads.realmemobile.com
   - DOMAIN-SUFFIX,bdapi-in-ads.realmemobile.com
+  - DOMAIN-SUFFIX,bdtelemetry.amazon
   - DOMAIN-SUFFIX,bdtt.b-cdn.net
   - DOMAIN-SUFFIX,beacon-api.aliyuncs.com
   - DOMAIN-SUFFIX,beacon.affil.walmart.com
@@ -1551,6 +1553,8 @@ payload:
   - DOMAIN-SUFFIX,buzzoola.com
   - DOMAIN-SUFFIX,bvoffers-elb.go2cloud.org
   - DOMAIN-SUFFIX,bzclk.baidu.com
+  - DOMAIN-SUFFIX,bzr.openai.com
+  - DOMAIN-SUFFIX,bzrcdn.openai.com
   - DOMAIN-SUFFIX,c-adash.m.taobao.com
   - DOMAIN-SUFFIX,c.sayhi.360.cn
   - DOMAIN-SUFFIX,c2shb.ssp.yahoo.com
@@ -2169,6 +2173,7 @@ payload:
   - DOMAIN-SUFFIX,log-auth.flysleep.cn
   - DOMAIN-SUFFIX,log-auth.zztfly.com
   - DOMAIN-SUFFIX,log-boot.capcutapi.com
+  - DOMAIN-SUFFIX,log-global.aliyuncs.com
   - DOMAIN-SUFFIX,log-hl.snssdk.com
   - DOMAIN-SUFFIX,log-sg.capcutapi.com
   - DOMAIN-SUFFIX,log-tb.isnssdk.com
@@ -4026,6 +4031,7 @@ payload:
   - DOMAIN-SUFFIX,afzotfwramzy.in
   - DOMAIN-SUFFIX,agacelebir.com
   - DOMAIN-SUFFIX,aggravatingoil.com
+  - DOMAIN-SUFFIX,agileskincareunrented.com
   - DOMAIN-SUFFIX,agle21xe2anfddirite.com
   - DOMAIN-SUFFIX,agorahtag.tech
   - DOMAIN-SUFFIX,agqoshfujku.com
@@ -4474,6 +4480,7 @@ payload:
   - DOMAIN-SUFFIX,bg4nxu2u5t.com
   - DOMAIN-SUFFIX,bharalhallahs.com
   - DOMAIN-SUFFIX,bhcumsc.com
+  - DOMAIN-SUFFIX,bhjkpnfsgejvo.com
   - DOMAIN-SUFFIX,bi.yeshen.com
   - DOMAIN-SUFFIX,bicolourprepossessstrong.com
   - DOMAIN-SUFFIX,bid.glass
@@ -4585,6 +4592,7 @@ payload:
   - DOMAIN-SUFFIX,broaddoor.com
   - DOMAIN-SUFFIX,broadensilkslush.com
   - DOMAIN-SUFFIX,broadlyjukeboxunrevised.com
+  - DOMAIN-SUFFIX,broadsidedaisysanta.com
   - DOMAIN-SUFFIX,bronzecedarleaf.com
   - DOMAIN-SUFFIX,browsecoherentunrefined.com
   - DOMAIN-SUFFIX,browser-update.org
@@ -5264,6 +5272,7 @@ payload:
   - DOMAIN-SUFFIX,drubpainch.com
   - DOMAIN-SUFFIX,drumcash.com
   - DOMAIN-SUFFIX,drydrum.com
+  - DOMAIN-SUFFIX,dryhachug.in
   - DOMAIN-SUFFIX,ds88pc0kw6cvc.cloudfront.net
   - DOMAIN-SUFFIX,dsp.wtf
   - DOMAIN-SUFFIX,dtv5loup63fac.cloudfront.net
@@ -5559,6 +5568,7 @@ payload:
   - DOMAIN-SUFFIX,front.optimonk.com
   - DOMAIN-SUFFIX,frs2c.com
   - DOMAIN-SUFFIX,fruhujma.in
+  - DOMAIN-SUFFIX,frykyuoqcto.com
   - DOMAIN-SUFFIX,fsavmklplmddsu.com
   - DOMAIN-SUFFIX,fsxmidyo.com
   - DOMAIN-SUFFIX,ft.budtawney.com
@@ -6156,6 +6166,7 @@ payload:
   - DOMAIN-SUFFIX,kw3y5otoeuniv7e9rsi.com
   - DOMAIN-SUFFIX,kx.upturnsidoist.cyou
   - DOMAIN-SUFFIX,kykay.com
+  - DOMAIN-SUFFIX,kypwvjoni.com
   - DOMAIN-SUFFIX,kzuocxorfo.com
   - DOMAIN-SUFFIX,laceassumestatic.com
   - DOMAIN-SUFFIX,lactolwant.com

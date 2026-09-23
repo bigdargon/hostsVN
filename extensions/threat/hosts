@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 20 Sep 2026 23:41 UTC+7
-# Version: 2609202341
-# Blocked: 4.971 domains
+# Last modified: 23 Sep 2026 11:05 UTC+7
+# Version: 2609231105
+# Blocked: 4.973 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -441,6 +441,7 @@
 0.0.0.0 chanlemomo.cc
 0.0.0.0 chanlemomo.vin
 0.0.0.0 chanlemomo.zyrosite.com
+0.0.0.0 check-products.org
 0.0.0.0 checkaccff.com
 0.0.0.0 checkerviet.win
 0.0.0.0 checkfbviet.tk
@@ -818,6 +819,7 @@
 0.0.0.0 emoney2017.com
 0.0.0.0 emoneyspace.com
 0.0.0.0 employee.mywire.org
+0.0.0.0 en-ledger.com
 0.0.0.0 entbymo.cfd
 0.0.0.0 eqav33.com
 0.0.0.0 eqav77.com

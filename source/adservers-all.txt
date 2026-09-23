@@ -56,7 +56,7 @@ ad-brix.com
 ad-creatives-public.commondatastorage.googleapis.com
 ad-exchange.toast.com
 ad-host-backup-*.*.aliyuncs.com
-ad-host-backup-*.s3.*.aliyuncs.com
+ad-host-backup-*.s3.*.amazonaws.com
 ad-log-upload-os.hoyoverse.com
 ad-m.asia
 ad-nex.com
@@ -449,6 +449,7 @@ analytics.bigdata.samsung.com
 analytics.cloud.unity3d.com
 analytics.edgekey.net
 analytics.eu.adjust.com
+analytics.facebook.com
 analytics.ff.avast.com
 analytics.githubassets.com
 analytics.google.com
@@ -614,6 +615,7 @@ bats.video.yahoo.com
 bbangads.b-cdn.net
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
+bdtelemetry.amazon
 bdtt.b-cdn.net
 beacon-api.aliyuncs.com
 beacon.affil.walmart.com
@@ -707,6 +709,8 @@ buysellads.net
 buzzoola.com
 bvoffers-elb.go2cloud.org
 bzclk.baidu.com
+bzr.openai.com
+bzrcdn.openai.com
 c-adash.m.taobao.com
 c.sayhi.360.cn
 c2shb.ssp.yahoo.com
@@ -1325,6 +1329,7 @@ localytics.com
 log-auth.flysleep.cn
 log-auth.zztfly.com
 log-boot.capcutapi.com
+log-global.aliyuncs.com
 log-hl.snssdk.com
 log-sg.capcutapi.com
 log-tb.isnssdk.com

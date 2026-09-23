@@ -899,7 +899,7 @@
 *.ad-creatives-public.commondatastorage.googleapis.com
 *.ad-exchange.toast.com
 *.ad-host-backup-*.*.aliyuncs.com
-*.ad-host-backup-*.s3.*.aliyuncs.com
+*.ad-host-backup-*.s3.*.amazonaws.com
 *.ad-log-upload-os.hoyoverse.com
 *.ad-m.asia
 *.ad-nex.com
@@ -1292,6 +1292,7 @@
 *.analytics.cloud.unity3d.com
 *.analytics.edgekey.net
 *.analytics.eu.adjust.com
+*.analytics.facebook.com
 *.analytics.ff.avast.com
 *.analytics.githubassets.com
 *.analytics.google.com
@@ -1457,6 +1458,7 @@
 *.bbangads.b-cdn.net
 *.bdapi-ads.realmemobile.com
 *.bdapi-in-ads.realmemobile.com
+*.bdtelemetry.amazon
 *.bdtt.b-cdn.net
 *.beacon-api.aliyuncs.com
 *.beacon.affil.walmart.com
@@ -1550,6 +1552,8 @@
 *.buzzoola.com
 *.bvoffers-elb.go2cloud.org
 *.bzclk.baidu.com
+*.bzr.openai.com
+*.bzrcdn.openai.com
 *.c-adash.m.taobao.com
 *.c.sayhi.360.cn
 *.c2shb.ssp.yahoo.com
@@ -2168,6 +2172,7 @@
 *.log-auth.flysleep.cn
 *.log-auth.zztfly.com
 *.log-boot.capcutapi.com
+*.log-global.aliyuncs.com
 *.log-hl.snssdk.com
 *.log-sg.capcutapi.com
 *.log-tb.isnssdk.com
@@ -4025,6 +4030,7 @@
 *.afzotfwramzy.in
 *.agacelebir.com
 *.aggravatingoil.com
+*.agileskincareunrented.com
 *.agle21xe2anfddirite.com
 *.agorahtag.tech
 *.agqoshfujku.com
@@ -4473,6 +4479,7 @@
 *.bg4nxu2u5t.com
 *.bharalhallahs.com
 *.bhcumsc.com
+*.bhjkpnfsgejvo.com
 *.bi.yeshen.com
 *.bicolourprepossessstrong.com
 *.bid.glass
@@ -4584,6 +4591,7 @@
 *.broaddoor.com
 *.broadensilkslush.com
 *.broadlyjukeboxunrevised.com
+*.broadsidedaisysanta.com
 *.bronzecedarleaf.com
 *.browsecoherentunrefined.com
 *.browser-update.org
@@ -5263,6 +5271,7 @@
 *.drubpainch.com
 *.drumcash.com
 *.drydrum.com
+*.dryhachug.in
 *.ds88pc0kw6cvc.cloudfront.net
 *.dsp.wtf
 *.dtv5loup63fac.cloudfront.net
@@ -5558,6 +5567,7 @@
 *.front.optimonk.com
 *.frs2c.com
 *.fruhujma.in
+*.frykyuoqcto.com
 *.fsavmklplmddsu.com
 *.fsxmidyo.com
 *.ft.budtawney.com
@@ -6155,6 +6165,7 @@
 *.kw3y5otoeuniv7e9rsi.com
 *.kx.upturnsidoist.cyou
 *.kykay.com
+*.kypwvjoni.com
 *.kzuocxorfo.com
 *.laceassumestatic.com
 *.lactolwant.com
