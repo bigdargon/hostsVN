@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 23 Sep 2026 11:05 UTC+7
-# Version: 2609231105
-# Blocked: 18.438 domains
+# Last modified: 05 Oct 2026 14:57 UTC+7
+# Version: 2610051457
+# Blocked: 18.460 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2167,6 +2167,12 @@
 0.0.0.0 us-wf.taboola.com
 0.0.0.0 vidanalytics.taboola.com
 0.0.0.0 vidstat.taboola.com
+#[taboola.com.cn]
+0.0.0.0 cdn.taboola.com.cn
+0.0.0.0 images.taboola.com.cn
+0.0.0.0 popup.taboola.com.cn
+0.0.0.0 taboola.com.cn
+0.0.0.0 www.taboola.com.cn
 #[crwdcntrl.net]
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 bcp.crwdcntrl.net
@@ -6230,6 +6236,7 @@
 0.0.0.0 www.trafficstars.com
 #[tsyndicate.com]
 0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 pxl-eu.rtb.tsyndicate.com
 0.0.0.0 pxl.tsyndicate.com
 0.0.0.0 r-eu.tsyndicate.com
 0.0.0.0 rtb.tsyndicate.com
@@ -7052,23 +7059,12 @@
 0.0.0.0 secure.bidvertiser.com
 0.0.0.0 www.bidvertiser.com
 #[connatix.com]
-0.0.0.0 a.connatix.com
-0.0.0.0 capi.connatix.com
-0.0.0.0 cd.connatix.com
-0.0.0.0 cdn.connatix.com
-0.0.0.0 cdns.connatix.com
-0.0.0.0 cds.connatix.com
+0.0.0.0 assets.connatix.com
 0.0.0.0 ck.connatix.com
 0.0.0.0 cks.connatix.com
-0.0.0.0 connatix.com
-0.0.0.0 gitlab.connatix.com
-0.0.0.0 img.connatix.com
-0.0.0.0 l.connatix.com
-0.0.0.0 minio.connatix.com
-0.0.0.0 registry.connatix.com
-0.0.0.0 upload.connatix.com
-0.0.0.0 vid.connatix.com
-0.0.0.0 www.connatix.com
+0.0.0.0 ins.connatix.com
+0.0.0.0 lit.connatix.com
+0.0.0.0 pl.connatix.com
 #[myfastcdn.com]
 0.0.0.0 16x9.myfastcdn.com
 0.0.0.0 1x1.myfastcdn.com
@@ -8626,15 +8622,16 @@
 0.0.0.0 prd.jwpltx.com
 #[spot.im]
 0.0.0.0 ak-events-collector.spot.im
-0.0.0.0 api-2-0.spot.im
+0.0.0.0 bi-events-collector.spot.im
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 event-stream.spot.im
 0.0.0.0 events-collector.spot.im
 0.0.0.0 metrics-logger.spot.im
+0.0.0.0 open-api.spot.im
 0.0.0.0 pix.spot.im
 0.0.0.0 publisher-assets.spot.im
+0.0.0.0 recirculation.spot.im
 0.0.0.0 t.spot.im
-0.0.0.0 traffic.spot.im
 #[eoapxl.com]
 0.0.0.0 eoapxl.com
 0.0.0.0 eoapxl1.eoapxl.com
@@ -10839,11 +10836,13 @@
 #[singular.net]
 0.0.0.0 i.singular.net
 0.0.0.0 s2s.singular.net
+0.0.0.0 safetrack.singular.net
+0.0.0.0 safetrack-s2s.singular.net
 0.0.0.0 sdk-api-v1.singular.net
-0.0.0.0 singular.net
 0.0.0.0 skadnetwork.singular.net
-0.0.0.0 t.singular.net
-0.0.0.0 view-prod.ad.singular.net
+0.0.0.0 skan.singular.net
+0.0.0.0 skan-s2s.singular.net
+0.0.0.0 web-sdk-cdn.singular.net
 #[nimo.tv]
 0.0.0.0 metric.nimo.tv
 0.0.0.0 statwup.nimo.tv
@@ -12584,6 +12583,20 @@
 #[openai.com]
 0.0.0.0 bzr.openai.com
 0.0.0.0 bzrcdn.openai.com
+#[pomxd.com]
+0.0.0.0 pomxd.com
+0.0.0.0 srv.eu.pomxd.com
+#[advlion.com]
+0.0.0.0 advlion.com
+0.0.0.0 sg-td-v3-01-callback.advlion.com
+0.0.0.0 tk2.advlion.com
+#[leiniao.com]
+0.0.0.0 ads-api-o.api.leiniao.com
+0.0.0.0 ctv-ads.api.leiniao.com
+0.0.0.0 euads-o.api.leiniao.com
+0.0.0.0 file-hw-ads-o.api.leiniao.com
+0.0.0.0 ssai-ads.api.leiniao.com
+0.0.0.0 ssai2-ads.api.leiniao.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14599,6 +14612,7 @@
 0.0.0.0 79xmz3lmss.com
 0.0.0.0 7ca78m3csgbrid7ge.com
 0.0.0.0 864feb57ruary.com
+0.0.0.0 8m9.8xb3njrjigxhge9q9mp2.cfd
 0.0.0.0 940functions.net
 0.0.0.0 970vantage.net
 0.0.0.0 999.money
@@ -14617,6 +14631,7 @@
 0.0.0.0 aanqylta.com
 0.0.0.0 abacho.net
 0.0.0.0 abc-ads.com
+0.0.0.0 ablelaunchshorts.com
 0.0.0.0 abmkupxixavk.in
 0.0.0.0 aboardlevel.com
 0.0.0.0 above.com
@@ -15285,7 +15300,6 @@
 0.0.0.0 advisormedia.cz
 0.0.0.0 adviva.com
 0.0.0.0 adviva.net
-0.0.0.0 advlion.com
 0.0.0.0 advmanager.techfun.pl
 0.0.0.0 advnt.com
 0.0.0.0 advolution.de
@@ -15721,6 +15735,7 @@
 0.0.0.0 bizrate.com
 0.0.0.0 bjads.bejbej.ca
 0.0.0.0 bk8sports.com
+0.0.0.0 bl.rajeevrapido.cfd
 0.0.0.0 blackbrake.com
 0.0.0.0 bladelikefreightwhat.com
 0.0.0.0 blahlivedsnowdrop.com
@@ -15869,6 +15884,7 @@
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 campaigns.williamhill.com
 0.0.0.0 campfirecroutondecorator.com
+0.0.0.0 camph.org
 0.0.0.0 cams.gratis
 0.0.0.0 can-get-so.me
 0.0.0.0 canekilttantrum.com
@@ -15878,6 +15894,7 @@
 0.0.0.0 captify.co.uk
 0.0.0.0 carambo.la
 0.0.0.0 carbonads.net
+0.0.0.0 cardiaccrystaleternity.com
 0.0.0.0 caribedkurukh.com
 0.0.0.0 carveddoublebogeyhigh.com
 0.0.0.0 carvyre.com
@@ -16101,6 +16118,7 @@
 0.0.0.0 content.bitsontherun.com
 0.0.0.0 content.lemonpi.io
 0.0.0.0 content.mql5.com
+0.0.0.0 contraltoflubmedical.com
 0.0.0.0 convenebeice.com
 0.0.0.0 conversionruler.com
 0.0.0.0 convrse.media
@@ -17132,6 +17150,7 @@
 0.0.0.0 justicejudo.com
 0.0.0.0 justrelevant.com
 0.0.0.0 justwebads.com
+0.0.0.0 jvntctypey.com
 0.0.0.0 jwuoxhjuq.com
 0.0.0.0 jz.thringsettos.cyou
 0.0.0.0 k.iinfo.cz
@@ -17205,6 +17224,7 @@
 0.0.0.0 lbn.ru
 0.0.0.0 lby2kd27c.com
 0.0.0.0 ldjsypolwypxy.space
+0.0.0.0 lduohrmhrme.com
 0.0.0.0 leadclick.com
 0.0.0.0 leadplace.fr
 0.0.0.0 leadzu.com
@@ -17949,6 +17969,7 @@
 0.0.0.0 plusungratefulinstruction.com
 0.0.0.0 pnhoppacwh.com
 0.0.0.0 pnuhondppw.com
+0.0.0.0 po.zuhgg4cxt6noffj8.rest
 0.0.0.0 poawooptugroo.com
 0.0.0.0 pocitadlo.cz
 0.0.0.0 podefr2.net
@@ -18104,6 +18125,7 @@
 0.0.0.0 pw.oulapoat.qpon
 0.0.0.0 pwieu.com
 0.0.0.0 pwmctl.com
+0.0.0.0 pwyamrbild.in
 0.0.0.0 pyicbcxvs.com
 0.0.0.0 pyxiscablese.com
 0.0.0.0 pz.mulchimbiber.com
@@ -18328,6 +18350,7 @@
 0.0.0.0 rutseasickmunch.com
 0.0.0.0 ruvsraaklrih.com
 0.0.0.0 ruwjkygaxo.com
+0.0.0.0 rvjoiedxxq.com
 0.0.0.0 rvrpushserv.com
 0.0.0.0 rwulzuaqsafn.com
 0.0.0.0 rxeosevsso.com
@@ -18505,6 +18528,7 @@
 0.0.0.0 snuff-brownsprintcountry.com
 0.0.0.0 snugglethesheep.com
 0.0.0.0 so-gr3at3.com
+0.0.0.0 soamuylg.com
 0.0.0.0 sobakenchmaphk.com
 0.0.0.0 soccercadencefridge.com
 0.0.0.0 socialspark.com
@@ -19016,6 +19040,7 @@
 0.0.0.0 varietyofdisplayformats.com
 0.0.0.0 variouscreativeformats.com
 0.0.0.0 variousformatscontent.com
+0.0.0.0 vast.streamux.top
 0.0.0.0 vast.vstserv.com
 0.0.0.0 vaugroar.com
 0.0.0.0 vc.colpwoofell.qpon
@@ -19133,6 +19158,7 @@
 0.0.0.0 webcounter.cz
 0.0.0.0 webcounter.goweb.de
 0.0.0.0 webeyemob.com
+0.0.0.0 webls.net
 0.0.0.0 webmasterplan.com
 0.0.0.0 webmasterplan.de
 0.0.0.0 weborama.com
