@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 05 Oct 2026 14:56 UTC+7
-# Version: 2610051456
-# Blocked: 4.973 domains
+# Last modified: 12 Oct 2026 16:00 UTC+7
+# Version: 2610121600
+# Blocked: 4.974 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1249,6 +1249,7 @@
 0.0.0.0 homevi4.tintuc-vi-vn.xyz
 0.0.0.0 homevi5.tintuc-vi-vn.xyz
 0.0.0.0 honapply.vn
+0.0.0.0 honghot.cam
 0.0.0.0 hopquafreefire2021.com
 0.0.0.0 hopquavn.com
 0.0.0.0 hoso5032.com

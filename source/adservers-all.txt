@@ -438,6 +438,7 @@ analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
 analytics-sg.tiktok.com
 analytics-ttp2.tiktokw.eu
+analytics.*.adjust.com
 analytics.365scores.com
 analytics.adjust.cn
 analytics.adjust.com
@@ -450,7 +451,6 @@ analytics.autodesk.com
 analytics.bigdata.samsung.com
 analytics.cloud.unity3d.com
 analytics.edgekey.net
-analytics.eu.adjust.com
 analytics.facebook.com
 analytics.ff.avast.com
 analytics.githubassets.com
@@ -1872,6 +1872,7 @@ s-onetag.com
 s.360.cn
 s.trvdp.com
 s.union.360.cn
+s2s.adjust.com
 s2s.singular.net
 s3-analytics-events.easybrain.com
 s3-ca-liveops.easybrain.com
@@ -2240,6 +2241,7 @@ videohub.tv
 videostats.kakao.com
 vidsrev.com
 vidverto.io
+view.adjust.com
 viewdeos.com
 visit.webhosting.yahoo.com
 vivaclix.com

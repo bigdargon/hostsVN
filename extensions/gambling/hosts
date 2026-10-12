@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 05 Oct 2026 14:56 UTC+7
-# Version: 2610051456
-# Blocked: 66.078 domains
+# Last modified: 12 Oct 2026 16:00 UTC+7
+# Version: 2610121600
+# Blocked: 66.091 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2603,6 +2603,7 @@
 0.0.0.0 11win.net
 0.0.0.0 11win.skin
 0.0.0.0 11win.style
+0.0.0.0 11win.support
 0.0.0.0 11win.tips
 0.0.0.0 11win.vin
 0.0.0.0 11win.works
@@ -32169,6 +32170,7 @@
 0.0.0.0 api.k89.in
 0.0.0.0 api.k89code.net
 0.0.0.0 api.ku88.accountant
+0.0.0.0 api.ku88.cool
 0.0.0.0 api.ku88.okinawa
 0.0.0.0 api.ky5528.vip
 0.0.0.0 api.live-tracking.io
@@ -36568,6 +36570,7 @@
 0.0.0.0 cdn.vbet88.fun
 0.0.0.0 cdn.y2cdn.com
 0.0.0.0 cdn2-node-h.tc-cdn.com
+0.0.0.0 cdn2.vua88.diy
 0.0.0.0 cdn2.vua88.food
 0.0.0.0 cdn65.avcjtodj.com
 0.0.0.0 cdnapiif.039casinocdnhd.com
@@ -36661,6 +36664,7 @@
 0.0.0.0 charity.energy.partners
 0.0.0.0 chaskibet.com
 0.0.0.0 chat.taison01.com
+0.0.0.0 chat.vua88.diy
 0.0.0.0 chat.vua88.food
 0.0.0.0 chatserverv.ooooooo2.com
 0.0.0.0 chctu.com
@@ -38504,6 +38508,7 @@
 0.0.0.0 du88.club
 0.0.0.0 du88.com
 0.0.0.0 du88.diy
+0.0.0.0 du88.estate
 0.0.0.0 du88.fashion
 0.0.0.0 du88.football
 0.0.0.0 du88.guru
@@ -41566,6 +41571,7 @@
 0.0.0.0 gw.gen88.com
 0.0.0.0 gw.mubet.care
 0.0.0.0 gw.mubet.help
+0.0.0.0 gw.mubet.icu
 0.0.0.0 gw.mubet.media
 0.0.0.0 gw.mubet.talk
 0.0.0.0 gw.mubet.tips
@@ -48652,6 +48658,7 @@
 0.0.0.0 ku78.com
 0.0.0.0 ku7968.com
 0.0.0.0 ku88.accountant
+0.0.0.0 ku88.cool
 0.0.0.0 ku88.fun
 0.0.0.0 ku88.okinawa
 0.0.0.0 ku88.pro
@@ -51422,6 +51429,7 @@
 0.0.0.0 mubet.dev
 0.0.0.0 mubet.hair
 0.0.0.0 mubet.help
+0.0.0.0 mubet.icu
 0.0.0.0 mubet.info
 0.0.0.0 mubet.media
 0.0.0.0 mubet.sh
@@ -54783,6 +54791,7 @@
 0.0.0.0 s4.gen88.com
 0.0.0.0 s4.mubet.care
 0.0.0.0 s4.mubet.help
+0.0.0.0 s4.mubet.icu
 0.0.0.0 s4.mubet.vip
 0.0.0.0 s4.tot88.store
 0.0.0.0 s4166.com
@@ -55882,6 +55891,7 @@
 0.0.0.0 socket.debet.win
 0.0.0.0 socket.hdbet.com
 0.0.0.0 socket.ku88.accountant
+0.0.0.0 socket.ku88.cool
 0.0.0.0 socket.ku88.okinawa
 0.0.0.0 socket.rainbet.com
 0.0.0.0 socket.topbet.top
@@ -57776,6 +57786,7 @@
 0.0.0.0 tx668.vip
 0.0.0.0 tx68.vip
 0.0.0.0 tx88.band
+0.0.0.0 tx88.barcelona
 0.0.0.0 tx88.biz
 0.0.0.0 tx88.boston
 0.0.0.0 tx88.ch
@@ -59171,6 +59182,7 @@
 0.0.0.0 vicclub.ink
 0.0.0.0 vicclub.mx
 0.0.0.0 vicclub.sh
+0.0.0.0 vicclub.trade
 0.0.0.0 victorwin555.com
 0.0.0.0 vicwin.vip
 0.0.0.0 vidor168.com
@@ -59826,6 +59838,7 @@
 0.0.0.0 vua88.biz
 0.0.0.0 vua88.club
 0.0.0.0 vua88.com
+0.0.0.0 vua88.diy
 0.0.0.0 vua88.food
 0.0.0.0 vua88.host
 0.0.0.0 vua88play.live

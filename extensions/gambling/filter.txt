@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 05 Oct 2026 14:56 UTC+7
-! Version: 2610051456
-! Blocked: 65.010 rules
+! Last modified: 12 Oct 2026 16:00 UTC+7
+! Version: 2610121600
+! Blocked: 65.023 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2600,6 +2600,7 @@
 ||11win.net^
 ||11win.skin^
 ||11win.style^
+||11win.support^
 ||11win.tips^
 ||11win.vin^
 ||11win.works^
@@ -32178,6 +32179,7 @@
 ||api.k89.in^
 ||api.k89code.net^
 ||api.ku88.accountant^
+||api.ku88.cool^
 ||api.ku88.okinawa^
 ||api.ky5528.vip^
 ||api.live-tracking.io^
@@ -36577,6 +36579,7 @@
 ||cdn.vbet88.fun^
 ||cdn.y2cdn.com^
 ||cdn2-node-h.tc-cdn.com^
+||cdn2.vua88.diy^
 ||cdn2.vua88.food^
 ||cdn65.avcjtodj.com^
 ||cdnapiif.039casinocdnhd.com^
@@ -36670,6 +36673,7 @@
 ||charity.energy.partners^
 ||chaskibet.com^
 ||chat.taison01.com^
+||chat.vua88.diy^
 ||chat.vua88.food^
 ||chatserverv.ooooooo2.com^
 ||chctu.com^
@@ -38517,6 +38521,7 @@
 ||du88.club^
 ||du88.com^
 ||du88.diy^
+||du88.estate^
 ||du88.fashion^
 ||du88.football^
 ||du88.guru^
@@ -41581,6 +41586,7 @@
 ||gw.gen88.com^
 ||gw.mubet.care^
 ||gw.mubet.help^
+||gw.mubet.icu^
 ||gw.mubet.media^
 ||gw.mubet.talk^
 ||gw.mubet.tips^
@@ -48669,6 +48675,7 @@
 ||ku78.com^
 ||ku7968.com^
 ||ku88.accountant^
+||ku88.cool^
 ||ku88.fun^
 ||ku88.okinawa^
 ||ku88.pro^
@@ -51442,6 +51449,7 @@
 ||mubet.dev^
 ||mubet.hair^
 ||mubet.help^
+||mubet.icu^
 ||mubet.info^
 ||mubet.media^
 ||mubet.sh^
@@ -54805,6 +54813,7 @@
 ||s4.gen88.com^
 ||s4.mubet.care^
 ||s4.mubet.help^
+||s4.mubet.icu^
 ||s4.mubet.vip^
 ||s4.tot88.store^
 ||s4166.com^
@@ -55909,6 +55918,7 @@
 ||socket.debet.win^
 ||socket.hdbet.com^
 ||socket.ku88.accountant^
+||socket.ku88.cool^
 ||socket.ku88.okinawa^
 ||socket.rainbet.com^
 ||socket.topbet.top^
@@ -57803,6 +57813,7 @@
 ||tx668.vip^
 ||tx68.vip^
 ||tx88.band^
+||tx88.barcelona^
 ||tx88.biz^
 ||tx88.boston^
 ||tx88.ch^
@@ -59199,6 +59210,7 @@
 ||vicclub.ink^
 ||vicclub.mx^
 ||vicclub.sh^
+||vicclub.trade^
 ||victorwin555.com^
 ||vicwin.vip^
 ||vidor168.com^
@@ -59856,6 +59868,7 @@
 ||vua88.biz^
 ||vua88.club^
 ||vua88.com^
+||vua88.diy^
 ||vua88.food^
 ||vua88.host^
 ||vua88play.live^
